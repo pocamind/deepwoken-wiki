@@ -1,9 +1,9 @@
 ---
 title: Aberrant Capra
-revid: 123707
+revid: 124878
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races, Exclusive Races, Character, Exclusive]
+categories: [Pages with broken file links, Aspects, Exclusive aspects, Character, Exclusive]
 ---
 
 # Aberrant Capra
@@ -50,11 +50,9 @@ The Aberrant Capra has goat-like ears, blue eyes, four dark curved horns and spi
 Those who are expecting must be within [The Depths](The_Depths.md), exposed to its negative effects for a prolonged period of time.  
 It begins to alter the development of the child in their fetal stages."
 
-Sir Phaidros (the character given to SudoMesh) is the only existing Aberrant Capra, and is a lore character. The reason behind the exclusivity of the race is due to the mutations caused by the depths leading to miscarriages or stillbirths, with only a very slim chance of surviving into adulthood in the rare case they're born alive.
+Sir Phaidros (the character given to SudoMesh) is the only existing Aberrant Capra, and is a lore character. The reason behind the exclusivity of the aspect is due to the mutations caused by the depths leading to miscarriages or stillbirths, with only a very slim chance of surviving into adulthood in the rare case they're born alive.
 
 **Strengths:**
-
-  
 
 -   +2 Intelligence
 -   +2 Willpower

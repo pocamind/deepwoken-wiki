@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 107922
+revid: 124896
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Children of Navae, Children of Navae Enemies]
@@ -8,14 +8,12 @@ categories: [Enemies, Children of Navae, Children of Navae Enemies]
 
 # Eastern Nomad Leader
 
-## Description
-
 An Eastern Nomad Leader is a enemy NPC which can be found at the Children of Navae camp in the Etrean Wilds; often found telling stories with the surrounding Eastern Tribe Nomads. They can be found in the following events:
 
 -   Ministry Scouts vs Eastern Nomad Leader and Eastern Tribe Nomad
 
   
-They wear a Rebel's Bandana, Novice Brace, [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with their race being [Gremor](Gremor.md) and can either appear younger or above 40 years old along with their gender varying.Template:EnemyInfobox1.0
+They wear a Rebel's Bandana, Novice Brace, [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with their aspect being [Gremor](Gremor.md) and can either appear younger or above 40 years old along with their gender varying.Template:EnemyInfobox1.0
 
 ## Moveset
 

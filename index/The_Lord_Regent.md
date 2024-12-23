@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 124834
+revid: 124990
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry]
@@ -89,7 +89,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <th colspan="3">Meets <b><a href="Oath%253A_Contractor.md">Contractor Oath</a></b> requirements.</th>
 </tr>
 <tr>
-  <td>1. I defeated the Duke, but how was I supposed to drag it out of there?<p><i><small>(Ending dialogue early does NOT kill you, able to do contractor oath requirements.)</small></i></p></td>
+  <td>1. I defeated the Duke, but how was I supposed to drag it out of there?<p><i><small>(Ending dialogue early does NOT kill you, able to do contractor Oath requirements.)</small></i></p></td>
   <td>1. [Bite your tongue]</td>
   <td colspan="3">1.[Bite your tongue]<p><small>(See other instance)</small></p>
   <p>2. No, but I know of your true nature. I know that you intend to repeat what happened in <a href="https://deepwoken.fandom.com/wiki/Lore?so=search#The_Great_Drowning_of_Celtor">Celtor</a> by drowning <a href="Etris.md">Etris</a>.</p></td>
@@ -108,12 +108,12 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 <tr>
   <td colspan="2" rowspan="2"></td>
   <th>*<i>The Lord regent lets out a horrible laugh.</i>* <b>THEN YOU ARE TRULY A FOOL.</b></th>
-  <th colspan="2">*<i>The Lord regent eyes you curiously.</i>* I see you understand the nature of our work. I cannot simply let you leave here alive without insurance, though. Bind yourself in an <a href="Oath%253A_Contractor.md">oath</a> to me.</th>
+  <th colspan="2">*<i>The Lord regent eyes you curiously.</i>* I see you understand the nature of our work. I cannot simply let you leave here alive without insurance, though. Bind yourself in an <a href="Oath%253A_Contractor.md">Oath</a> to me.</th>
 </tr>
 <tr>
   <td><b>[Player is Killed]</b><small>(This does NOT lock you out of getting <a href="Oath%253A_Contractor.md">Contractor Oath</a>)</small></td>
   <td>1. I will swear myself to you.<p><small>(Acquires <a href="Oath%253A_Contractor.md">Contractor Oath</a>)</small></p></td>
-  <td>1. I am already bound by an oath. (only available if the player has an oath)</td>
+  <td>1. I am already bound by an Oath. (only available if the player has an Oath)</td>
 </tr>
 <tr>
   <td colspan="3" rowspan="4"></td>
@@ -159,7 +159,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <th>You show dedication, puppet. You may be of use in what is to come. Await further orders.</th>
 </tr>
 <tr>
-  <td><b>[Player is Killed]</b><small>(Initiating dialogue when oath is <b>not fully progressed</b> results in death.)</small></td>
+  <td><b>[Player is Killed]</b><small>(Initiating dialogue when Oath is <b>not fully progressed</b> results in death.)</small></td>
   <td>[End Dialogue.]</td>
 </tr>
 </tbody>

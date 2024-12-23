@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 124795
+revid: 124874
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -81,17 +81,18 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
   <td>
   <ul>
     <li><a href="Rosen's_Hellflame.md">Rosen's Hellflame</a></li>
+    <li><a href="Iron_Requiem.md">Iron Requiem</a></li>
+    <li><a href="Ignition_Deepcrusher.md">Ignition Deepcrusher</a></li>
+    <li><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></li>
     <li><a href="Crypt_Blade.md">Crypt Blade</a></li>
     <li><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></li>
-    <li><a href="Ignition_Deepcrusher.md">Ignition Deepcrusher</a></li>
     <li><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></li>
     <li><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li>
     <li><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></li>
     <li><a href="Trident_Spear.md">Trident Spear</a></li>
     <li><a href="Crucible_Rapier.md">Crucible Rapier</a></li>
-    <li><a href="Iron_Requiem.md">Iron Requiem</a></li>
-    <li><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></li>
     <li><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></li>
+    <li><a href="Dormant_Splinter.md">Dormant Splinter</a></li>
   </ul></td>
   <td>
   <ul>
@@ -115,7 +116,7 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li><a href="Void_Spire.md">Void Spire</a></li>
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's ash</a> (Only after 1.2km)</li>
+    <li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Only after 1.2km)</li>
   </ul></td>
   <td>(needs editing)<p><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></p>
   <p><a href="Ignition_Trailblazer.md">Ignition Trailblazer</a></p>
@@ -151,5 +152,5 @@ Floors at 1.70km or lower have a higher chance at rarer loot, no matter the mobs
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m
 -   Rarely, there may be a room that usually comes after or at 1.5km that requires you to kill just one thresher in turn for amazing loot (needs further testing)
 -   The cave paintings show that civilization has once been here long before the Union have.
-    -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast.
+    -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast. (Possibly a meglodaunt?)
     -   The cave painting on the second image depicts what seems to be 3 Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.

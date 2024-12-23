@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 124566
+revid: 124937
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Lore]
@@ -20,7 +20,7 @@ categories: [Vesperian NPCs, NPCs, Lore]
 
 ## Description
 
-**Gunsmith Rosen** is the current leader of the arms company, The [Summer Company](The_Summer_Company.md). He is responsible for reintroducing [guns](Guns.md) across the Luminants. Gunsmith Rosen or Rosen does not have a confirmed or known last name and Gunsmith is purely a title given to him, His race is also [Vesperian](Vesperian.md). Its unknown if Rosen resides within [Summer Isle](Summer_Isle.md) but it is assumed so due to him signing off the creation of the [Stormseye](Stormseye.md).
+**Gunsmith Rosen** is the current leader of the arms company, The [Summer Company](The_Summer_Company.md). He is responsible for reintroducing [guns](Guns.md) across the Luminants. Gunsmith Rosen or Rosen does not have a confirmed or known last name and Gunsmith is purely a title given to him, His aspect is also [Vesperian](Vesperian.md). Its unknown if Rosen resides within [Summer Isle](Summer_Isle.md) but it is assumed so due to him signing off the creation of the [Stormseye](Stormseye.md).
 
 He created the [Summer Company](The_Summer_Company.md) when he found old pre-Canticlysm firearms and reverse-engineered them. This explains why guns are so underpowered, because he did not perfect the original design and failed to fully reverse-engineer it.
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 124195
+revid: 124959
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -23,7 +23,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Obtainment
 
-1.  The oath requires at least 40 points combined into Strength, Fortitude and Willpower, such as 20 Strength, 5 Fortitude and 15 Willpower or 0 Strength, 30 Fortitude and 10 Willpower (You can have more than 40 in those three stats).
+1.  The Oath requires at least 40 points combined into Strength, Fortitude and Willpower, such as 20 Strength, 5 Fortitude and 15 Willpower or 0 Strength, 30 Fortitude and 10 Willpower (You can have more than 40 in those three stats).
 2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with reputation higher than Friend, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
 3.  After talking to the hostage below the building, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md). Upon defeating him, you will be granted the Oath. (Note, if more than one person tries to obtain the Oath, Emar Vend will spawn only ONCE. Whoever spawns him gets the Oath from the grip but, after getting kill credit, go back to Vice Warden Morredh and he will instead give you the Oath.)
 
@@ -42,7 +42,7 @@ Known humanoids enemies are:
 
 ## Effects
 
-The oath grants an extra Combat and Wildcard mantra slot.
+The Oath grants an extra Combat and Wildcard mantra slot.
 
 As for appearance, it adds a chained gauntlet to your left arm, and a chained belt to the waist. While the chains are able to be dyed, the gauntlet is not. If a pair of Cestus is equipped, the gauntlet overrides the appearance of the Cestus on the left arm. This strangely also applies to the [Anklets of Alsin](Anklets_of_Alsin.md), only having the right leg use the anklet, despite the gauntlet not being attached to the leg.
 
@@ -84,7 +84,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.
 -   On release, was an incredibly small and lackluster Oath, having only 2 Mantras and no passives/Talents, with Arch having said that there were no Talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)
     -   This was confirmed to be an error when a shadow-patch gave Chainwarden the Talents it was missing.
--   If you break your oath using a Yunshul's wish at [Temple of Hearts](Temple_of_Hearts.md), [Vice Warden Morredh](Vice_Warden_Morredh.md) says "Another deserter? You're pathetic."
+-   If you break your Oath using a Yunshul's wish at [Temple of Hearts](Temple_of_Hearts.md), [Vice Warden Morredh](Vice_Warden_Morredh.md) says "Another deserter? You're pathetic."
 -   Currently, this is one of two Oaths where you cannot skip progression with knowledge. (The other being [Bladeharper](Oath%253A_Bladeharper.md).)
     -   This is probably due to the Oath being new and the progression skip hasn't been implemented, or has been fully forgotten about.
 

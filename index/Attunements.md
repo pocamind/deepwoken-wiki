@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 124686
+revid: 124980
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics]
@@ -37,7 +37,7 @@ These ingredients are typically dropped by those who wield the attunement, such 
 
 -   Alternatively, if you happen to spawn in with an attunement which you do not possess via the Random Attunement function in the character creation menu, it will become available to freely choose upon next-character-basis.
 
-By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (freebie) Mantra slot.**_ Extra Mantras will be stored in the inventory with under the pink-colored [Mantra Modifiers](Mantra_Modifiers.md) category. These limitations can be softened via [Oaths](Oaths.md) and the talents **Neuroplasticity** or **Will o' Wisp**, both of which will help expand your Mantra arsenal.
+By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (freebie) Mantra slot.**_ Extra Mantras will be stored in the inventory with under the pink-colored [Mantra Modifiers](Mantra_Modifiers.md) category. These limitations can be softened via [Oaths](Oaths.md) and the Talents **Neuroplasticity** or **Will o' Wisp**, both of which will help expand your Mantra arsenal.
 
 -   Mantras from an Attunement can sometimes have requirements of non-Attunement stats. Such an example would be Flamecharm's _Ash Slam,_ which requires 20 Strength alongside 50 Flamecharm.
 
@@ -97,7 +97,7 @@ Bloodrend⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ## Iconography
 
-All of the icons above are undoubtedly official representations of their base attunements, as seen from the in-game [Character Creation](Character_Creation.md) screen. This status also applies to the "Random" selection. However, many [talents](Talents.md) offer "Paths" which act either as alternatives to an attunement's base behavior or blend such of two different attunements into one hybrid path, not to mention other talents that change an attunement's appearance. There exist icons for each of these talents, found on this wiki or other locations, but the officiality of these are uncertain, largely due to their lack of uniformity. This section exists to list all of these more miscellaneous icons in one place.
+All of the icons above are undoubtedly official representations of their base attunements, as seen from the in-game [Character Creation](Character_Creation.md) screen. This status also applies to the "Random" selection. However, many [Talents](Talents.md) offer "Paths" which act either as alternatives to an attunement's base behavior or blend such of two different attunements into one hybrid path, not to mention other Talents that change an attunement's appearance. There exist icons for each of these Talents, found on this wiki or other locations, but the officiality of these are uncertain, largely due to their lack of uniformity. This section exists to list all of these more miscellaneous icons in one place.
 
 [Text](Announcements.md)
 

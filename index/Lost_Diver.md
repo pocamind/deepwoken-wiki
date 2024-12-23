@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 108943
+revid: 124901
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Lost Divers are NPCs found in the [Kyrsan Wilds](Kyrsan_Wilds.md), worshipping an Obelisk. They remain docile from afar, but will attack players who get near the Obelisk.
 
-A Lost Diver's appearance only consists of a [Black Diver](Black_Diver.md) outfit with their [race](Aspects.md) varying. Their bodies are slightly transparent.
+A Lost Diver's appearance only consists of a [Black Diver](Black_Diver.md) outfit with their [aspect](Aspects.md) varying. Their bodies are slightly transparent.
 
 ## Moveset
 
@@ -58,7 +58,7 @@ Dodgeable:◯
 
  |  |
 
-### **Boons**
+### Boons
 
 Experienced Fighter - Can parry, block and dodge basic attacks.
 

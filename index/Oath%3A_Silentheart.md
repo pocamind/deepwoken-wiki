@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 124511
+revid: 124961
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -89,7 +89,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 -   **Flow State - Active**
     -   Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
         -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
-        -   Given as a talent tool.
+        -   Given as a Talent tool.
         -   Active for 1 second. ~4s CD.
 
 -   **Mayhem - Passive**
@@ -124,7 +124,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 -   **Unmatched Dexterity - Passive**
     -   Press X to Quick Swap between weapons within your toolbar.
         -   Begins cycling from the latest weapon added to the toolbar. Once all weapons have been cycled through once, it cycles starting from the right side of the toolbar towards the left.
-        -   This talent passively allows Silenthearts to manually swap equipment while in danger as well.
+        -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
 
 -   **Vengeful Pursuit - Passive**
     -   Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.
@@ -145,14 +145,14 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
     -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Origins.md) and faction ambushes won't come after you.
 -   Mani Katti is not used by pressing your Control + M2 keys, but by pressing your Crouch + Feint keybinds (whatever they are for you). For example, if you have Crouch on the C key and Feint on the F key, you need to press C + F to use Mani Katti (outdated as of 13/9/24).
     
-    File:Unmatched Dexterity alongside old talents.png
+    File:Unmatched Dexterity alongside old Talents.png
     
 
 -   If the Dreadstar doesn't appear, interact with one of the Ghosts on the ship.
 
--   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ talent card with a different description alongside the old talent set. (image attached)
+-   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ Talent card with a different description alongside the old Talent set. (image attached)
 
--   The Silentheart talent description says that it halves weapon stat requirements; but this is incorrect, as it was changed to 25 less investment points in the same update that Silentheart was reworked. The talent card was never changed.
+-   The Silentheart Talent description says that it halves weapon stat requirements; but this is incorrect, as it was changed to 25 less investment points in the same update that Silentheart was reworked. The Talent card was never changed.
 
 ## Trivia
 
@@ -168,7 +168,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
     -   True Vantage is a reference to the skill [Vantage](<https://fireemblem.fandom.com/wiki/Vantage_(Skill)>) in _Fire Emblem_.
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the Soulblooms quest.
--   The Silentheart [Oath](Oaths.md) has the most [Talents](Talents.md) of any oath, having a whopping 11 (Including the [Oath](Oaths.md) itself).
+-   The Silentheart [Oath](Oaths.md) has the most [Talents](Talents.md) of any Oath, having a whopping 11 (Including the [Oath](Oaths.md) itself).
 -   If you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) Silentheart while having a weapon equipped that you would not meet the requirements for afterwards, the weapon will **not** be unequipped, but you'll receive a penalty of dealing 35% less melee damage for not meeting the requirements of your weapon.
 
 ## References

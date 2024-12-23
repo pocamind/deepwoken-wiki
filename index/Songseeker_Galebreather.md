@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 122050
+revid: 124888
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0**Songseeker Galebreathers** are a [humanoid enemy](Enem
 
 A Songseeker Galebreather is an enemy NPC that can be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
 
-A Songseeker Galebreather wears a [Royal Guard Mask (Green)](Aspirant_Mask.md) and an Unknown/Unlisted outfit, Varying with their [Race](Aspects.md) and gender.
+A Songseeker Galebreather wears a [Royal Guard Mask (Green)](Aspirant_Mask.md) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
 
 ## Moveset
 
@@ -29,7 +29,7 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 | Air Force | A burst of air directly in front of the user. | ◯ | ◯ | (★☆☆) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
 
-### **Boons:**
+### Boons
 
 -   Third Eye - A Songseeker Galebreather cannot be assassinated..
 

@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 120534
+revid: 124879
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, NPCs, Eastern Luminant]
@@ -21,7 +21,7 @@ _Mime's location on the map_
 
 ## Description
 
-He appears around a lot of [Mineskippers](Mudskipper.md) disguised as barrels, which upon killing will allow you to speak with him. If you have 20 points in [Charisma](Attributes.md), he will give you the mantra Disguise, which allows you to disguise yourself as a barrel. The requirement for this mantra changes depending on race, though this needs further experimenting to find out the exact requirements for each race.
+He appears around a lot of [Mineskippers](Mudskipper.md) disguised as barrels, which upon killing will allow you to speak with him. If you have 20 points in [Charisma](Attributes.md), he will give you the mantra Disguise, which allows you to disguise yourself as a barrel. The requirement for this mantra changes depending on aspect, though this needs further experimenting to find out the exact requirements for each aspect.
 
 Disguise yourself as an unassuming object for a seemingly indefinite amount of time.
 

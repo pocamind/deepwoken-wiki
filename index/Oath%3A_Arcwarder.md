@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 123696
+revid: 124967
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -36,7 +36,7 @@ notices:
     -   Dying while the quest is active will not require the player to talk to him again.
 -   Talk to Alpha again. (WARNING: You HAVE to return to Alpha for this quest, or else Delta will not give you Arcwarder.)
 -   20 fortitude, 20 [Flamecharm](Flamecharm.md) and 20 [Thundercall](Thundercall.md).
--   Return to surface and talk to Delta at [Miner's Landing](<Miner's_Landing.md>) inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the oath, you must kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md)
+-   Return to surface and talk to Delta at [Miner's Landing](<Miner's_Landing.md>) inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the Oath, you must kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md)
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/MvnGyREWMxA)._
 
@@ -111,8 +111,8 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 -   "From each according to their ability, to each according to their needs" Is a quote by Karl Marx's 'Critique of the Gotha Program.'
 -   By taking a helmet off via pressing P, hair will be visible even while Arcwarder is active.
 -   This is the only [Oath](Oaths.md) to require any points invested in an [Attunement](Attunements.md)
--   Dexerius is planning to rework the oath, adding a "defense mode" and a "attack mode" feature.
--   Arcwarder gives the most mantra slots of any oath besides being tired with [Linkstrider](Oath%253A_Linkstrider.md), with both totaling to 3 extra mantra slots.
+-   Dexerius is planning to rework the Oath, adding a "defense mode" and a "attack mode" feature.
+-   Arcwarder gives the most mantra slots of any Oath besides being tired with [Linkstrider](Oath%253A_Linkstrider.md), with both totaling to 3 extra mantra slots.
     -   This is matched by Linkstrider and Visionshaper, giving 2 Support Mantras & 1 Wildcard, and 2 Combat Mantras & 1 Support.
 
 ## References

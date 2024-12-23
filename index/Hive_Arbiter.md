@@ -1,6 +1,6 @@
 ---
 title: Hive Arbiter
-revid: 107588
+revid: 124946
 source: https://deepwoken.fandom.com/wiki/Hive_Arbiter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 A Hive Arbiter is a NPC that can be found in [Greathive Aratel](Greathive_Aratel.md) hunting players with low reputation with the Hive. In addition to that, [Hive Constructs](Hive_Construct.md) will also spawn along with Hive Arbiters and Hive Adjudicators to eradicate the enemy.
 
-A Hive Arbiters wears a [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit, a pair of Dewdrop Earrings and a Dark Gumshoe Longcoat, with their Race either being [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) or [Chrysid](Chrysid.md).
+A Hive Arbiters wears a [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit, a pair of Dewdrop Earrings and a Dark Gumshoe Longcoat, with their [aspect](Aspects.md) either being [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) or [Chrysid](Chrysid.md).
 
 ## Moveset
 

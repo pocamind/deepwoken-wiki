@@ -1,6 +1,6 @@
 ---
 title: Celadon
-revid: 124565
+revid: 124936
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -60,8 +60,8 @@ Celadon is located in [Summer Isle](Summer_Isle.md). Inside the Guildhall/Inn, g
 
 ## Trivia
 
--   If you already have an oath, or not on the Oathless quest line, he will only say "..."
--   His [Adret](Adret.md) race variant is Boulder.
+-   If you already have an Oath, or not on the Oathless quest line, he will only say "..."
+-   His [Adret](Adret.md) aspect variant is Boulder.
 -   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Celadon City_](https://bulbapedia.bulbagarden.net/wiki/Celadon_City).
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Cerulean](Cerulean.md), [Saffron](Saffron.md), and [Viridian](Viridian.md).
 -   Celadon usually means the shade of the color green.

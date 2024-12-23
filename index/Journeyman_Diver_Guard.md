@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 122027
+revid: 124909
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies]
@@ -16,7 +16,7 @@ Journeyman Diver Guards are NPCs that act as the guards of [Castle Light](Castle
 
 They are able to use all four standard Attunements, along with Shadowcast at a time, the only NPCs in the game capable of doing so.
 
-A Journeyman Diver Guard's appearance only consists of a [Diver Journeyman Robes](Diver_Journeyman_Robes.md) outfit with their [race](Aspects.md) varying.
+A Journeyman Diver Guard's appearance only consists of a [Diver Journeyman Robes](Diver_Journeyman_Robes.md) outfit with their [aspect](Aspects.md) varying.
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 120404
+revid: 124929
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Hallowtide]
@@ -85,7 +85,7 @@ This is an item found within chests of any mob (depths included), used for the H
 This is used to scare any interactable NPC (guards do not count) throughout the game by interacting with them as normal. All NPCs have a 30 minutes cooldown before they can be scared again. Each time you scare an NPC you are given 3 Joy (Hallowtide Mask Quest Progression). This is obtained by bringing fine ink, paperette, and shell stock to Lysander Spellhardt in The Floating Keep. When bringing all three items to such NPC you are given this mask. The mask comes in 3 variants: [Mudskipper](Mudskipper.md), [Deep Owl](Deep_Owl.md) and [Primadon](Primadon,_Titan_of_the_East.md)
 
   
-_NOTE: the Hallowtide race variant saves across all slots and races (for example, if you get Hallowtide variant on one slot, you have it on every slot, even on different races)._
+_NOTE: the Hallowtide aspect variant saves across all slots and aspects (for example, if you get Hallowtide variant on one slot, you have it on every slot, even on different aspects)._
 
 _(After the Event is over?) The Hallowtide Mask no longer scares NPCs whatsoever, though the item may be equipped regardless._
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 124198
+revid: 124972
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Fadetrimmer** is one of the 14 obtainable Oaths in _Deepwoken._ It's a utility oath that grants you the abilities of a [barber](Barber.md).
+**[Oath](Oaths.md): Fadetrimmer** is one of the 14 obtainable Oaths in _Deepwoken._ It's a utility Oath that grants you the abilities of a [barber](Barber.md).
 
 ## Obtainment
 
@@ -33,11 +33,11 @@ Meet the following requirements and talk to a barber about Hair Cutting:
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/JwPKrcDB-xE)._
 
-_This oath does not become locked after breaking it at Yun'Shul._
+_This Oath does not become locked after breaking it at Yun'Shul._
 
 ## Effects
 
-This oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the user has scissors hanging off the side of their hip.
+This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the user has scissors hanging off the side of their hip.
 
 ## Abilities
 

@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 122569
+revid: 124994
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Fisherman is a powerful enemy found in [The Depths](The_Depths.md). It can spawn randomly as an event, or more likely as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md) or in/around [The City of the Drowned](The_City_of_the_Drowned.md)). They use the [Thundercall](Thundercall.md) attunement and the oath [Chainwarden](Oath%253A_Chainwarden.md), implying that they have ties to [The Central Authority](The_Central_Authority.md). They possess abnormally high Health and do a decent amount of damage.
+The Fisherman is a powerful enemy found in [The Depths](The_Depths.md). It can spawn randomly as an event, or more likely as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md) or in/around [The City of the Drowned](The_City_of_the_Drowned.md)). They use the [Thundercall](Thundercall.md) attunement and the Oath [Chainwarden](Oath%253A_Chainwarden.md), implying that they have ties to [The Central Authority](The_Central_Authority.md). They possess abnormally high Health and do a decent amount of damage.
 
 It MAY scale off the level of person that took the quest. This is currently unknown.
 

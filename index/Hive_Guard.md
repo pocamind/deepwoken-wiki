@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 120356
+revid: 124917
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
@@ -76,4 +76,4 @@ A Hive Guard executes it's opponent after knocking them:
 
 ## Trivia
 
--   In Verse 1, they only consisted of Ganymedes and Vesperians. Chrysids were added to their ranks with the addition of the race to the game.
+-   In Verse 1, they only consisted of Ganymedes and Vesperians. Chrysids were added to their ranks with the addition of the aspect to the game.

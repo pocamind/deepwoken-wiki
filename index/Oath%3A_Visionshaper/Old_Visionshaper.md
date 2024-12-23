@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper/Old Visionshaper"
-revid: 123918
+revid: 124975
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper/Old_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Oaths]
@@ -46,7 +46,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 ## Progression
 
-To progress this oath, Void Feathers must be brought to [Surge](../Surge.md) to unlock all mantras and Talents, totalling to 4. This equals 13 total dark feathers in order to obtain and fully progress the oath.
+To progress this Oath, Void Feathers must be brought to [Surge](../Surge.md) to unlock all mantras and Talents, totalling to 4. This equals 13 total dark feathers in order to obtain and fully progress the Oath.
 
 The abilities below are listed in order of obtainment.
 
@@ -104,7 +104,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
 -   The Mental Fortress [Talent](../Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
 -   This Oath was created by Dexerius, along with [Arcwarder](../Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
 -   You can craft a Void Feather using 3 Dark Feathers and 1 [Umbral Obsidian](../Umbral_Obsidian.md). Non-Corrupted [Deep Owls](../Deep_Owl.md) can also rarely drop them. Also Illusion counter cancel fall damage with tough timing.
--   Dexerius based this oath on the hit anime 'Naruto' based on the visionshaper clones being based off shadow clone jutsu and genjutsu. As well as the realm being based off the Kamui.
+-   Dexerius based this Oath on the hit anime 'Naruto' based on the visionshaper clones being based off shadow clone jutsu and genjutsu. As well as the realm being based off the Kamui.
 
 ## References
 

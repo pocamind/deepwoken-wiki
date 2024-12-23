@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 124559
+revid: 124877
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, The Ministry]
@@ -70,7 +70,7 @@ A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md), presumably w
   <td colspan="12">I'm interested.</td>
 </tr>
 <tr>
-  <td colspan="12">That's the spirit. Go find and kill [Name], the [Race]. You'll make quick work of them, no? Word is they were last seen around [Location]...</td>
+  <td colspan="12">That's the spirit. Go find and kill [Name], the [aspect]. You'll make quick work of them, no? Word is they were last seen around [Location]...</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

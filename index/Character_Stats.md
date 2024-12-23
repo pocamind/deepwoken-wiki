@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 124108
+revid: 124905
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 ## Character Stats
 
-_Each player gets 330 investment points per slot, from Level 1-20, including investment points given to them by their character’s race (+3 and +2 stats)._
+_Each player gets 330 investment points per slot, from Level 1-20, including investment points given to them by their character’s aspect (+3 and +2 stats)._
 
 ### Health
 

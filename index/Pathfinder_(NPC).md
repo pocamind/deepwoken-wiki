@@ -1,6 +1,6 @@
 ---
 title: Pathfinder (NPC)
-revid: 69013
+revid: 124938
 source: https://deepwoken.fandom.com/wiki/Pathfinder_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Pathfinders are NPCs that can appear in [Upper Erisia](Upper_Erisia.md) alongside a [Teacher](Teacher.md).
 
-A Pathfinder wears a [Pathfinder Cloak](Pathfinder_Cloak.md) with their race varying.
+A Pathfinder wears a [Pathfinder Cloak](Pathfinder_Cloak.md) with their [aspect](Aspects.md) varying.
 
 ## Moveset
 

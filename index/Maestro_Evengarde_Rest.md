@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 122640
+revid: 124981
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Etrea]
@@ -57,8 +57,7 @@ Dodgeable:◯
 | **Mortal Draw: Maestro's Flourish**  
 (★★★) | Swings his blade in a spinning motion, performing two gale-infused slashes.
 
--   Extremely difficult to react to, having an extremely fast windup.  
-    
+-   Extremely difficult to react to, having an extremely fast windup.
 
 Parryable:◯  
 Blockable:◯  
@@ -68,8 +67,7 @@ Dodgeable:◯
 | **Mortal Draw: Floating Passage**  
 (★★★) | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing.
 
--   After doing this attack, he will be vulnerable and won't parry/dodge any attacks, but only for a short period  
-    
+-   After doing this attack, he will be vulnerable and won't parry/dodge any attacks, but only for a short period
 
 Parryable:◯  
 Blockable:◯  
@@ -79,8 +77,7 @@ Dodgeable:◯
 | **Mortal Draw: Dharma Descent**  
 (★☆☆) | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves.
 
--   Stay defensive if he uses this, as he's likely to follow up with another attack  
-    
+-   Stay defensive if he uses this, as he's likely to follow up with another attack
 
 Parryable:◯  
 Blockable:◯  
@@ -90,8 +87,7 @@ Dodgeable:◯
 | **Mortal Draw: One Mind**  
 (★☆☆) | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale.
 
--   Whether or not you're using providence thorns, this will be a great time to deal some damage because he won't be block, parry, or dodging  
-    
+-   Whether or not you're using providence thorns, this will be a great time to deal some damage because he won't be block, parry, or dodging
 
 Parryable:◯  
 Blockable:◯  
@@ -101,8 +97,7 @@ Dodgeable:◯
 | **Mortal Draw: Mangetsu**  
 (★★★) | Sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind.
 
--   Same counterplay as one mind  
-    
+-   Same counterplay as one mind
 
 Parryable:◯  
 Blockable:◯  
@@ -112,8 +107,7 @@ Dodgeable:◯
 | **Mortal Draw: Etrea Cross**  
 (★☆☆) | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake.
 
--   Best choice is to dodge, even if you're using providence thorns  
-    
+-   Best choice is to dodge, even if you're using providence thorns
 
 Parryable:◯  
 Blockable:◯  
@@ -125,8 +119,7 @@ Dodgeable:◯
 
 -   The behavior of the slash is very similar to the Ankle Cutter passive used by [Silentheart](Oath%253A_Silentheart.md).
 -   Will only use this move at range to prevent zoning.
--   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.  
-    
+-   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
 
 Parryable:◯  
 Blockable:◯  
@@ -136,8 +129,7 @@ Dodgeable:◯
 | **Vent**  
 (★☆☆) | An explosion of blue ether around the user that pushes opponents away.
 
--   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.  
-    
+-   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
 
 Parryable:◯  
 Blockable:◯  
@@ -148,8 +140,7 @@ Dodgeable:◯
 (★★★★★) | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
 
 -   There is no way to survive this attack.
--   Triggered by spitting on him **at any point**. Charisma can not bypass this.  
-    
+-   Triggered by spitting on him **at any point**. Charisma can not bypass this.
 
 Parryable:✗  
 Blockable:✗  
@@ -218,7 +209,7 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
 
 ### 
 
-**Exhaustive Loot Table**
+Exhaustive Loot Table
 
 **Keep in mind that this list is still incomplete.**
 
@@ -312,7 +303,7 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
 -   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut, he offers a unique line of dialogue:
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
--   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) oath mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
+-   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) Oath mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
 -   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
     -   This technically makes him the only "optional" boss in the game, as he is not required for W Rank.
 -   Spitting on Maestro Evengarde Rest both before the fight and during it makes his character say the following dialogue:

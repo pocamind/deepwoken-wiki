@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 124578
+revid: 124979
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -168,7 +168,7 @@ You can do Trial of One.
 The following is speculation:
 
 -   Probably similar to how on the Deepbound origin you spawn with the Diver apprentice robes, and with Voidwalker you spawn with the Whaler Initiate coat, you will most likely spawn with the Authority peacekeeper armor, and as you rise through the ranks you may get the Authority Captain armor, and the Authority Commander armor. Possibly alongside a Authority helmet.
--   Similar to how Voidwalker may have its own origin oath in the future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.
+-   Similar to how Voidwalker may have its own origin Oath in the future, there are chances of the Authority origin also having its own Oath, being the Warmaster Oath.
 -   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base.
 -   Very high chances you may start this origin with negative reputation of many factions, such as Etrea or the Children of Navae, and positive reputation with the Divers, Ignition Union, and the Summer Company.
 -   It may not affect the gameplay or the origin, but they may be some changes depending on the aspect with this origin in terms of dialogue with NPCs, having the Adret aspect (and possibly Canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely won't matter if you rank up to Commander. Similar to Kennith if you are an Etrean.
@@ -212,6 +212,6 @@ The following is speculation:
     
     File:Archmage undercooked ignition.png
     
-    Arch\_Mage confirming the oath was undercooked
+    Arch\_Mage confirming the Oath was undercooked
     
 2.  [↑](#cite-ref-2)

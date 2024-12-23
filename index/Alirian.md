@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 124557
+revid: 125009
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths, Oath Trainer]
@@ -167,8 +167,8 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
   <td colspan="2">When you talk to her during the race</td>
   <td colspan="2">When another player talks to Alirian during the race, or when it finishes</td>
   <td colspan="2">Getting a Jetstriker orb</td>
-  <td colspan="2">Breaking the oath with Alirian</td>
-  <td colspan="2">Regaining the oath after you broke it</td>
+  <td colspan="2">Breaking the Oath with Alirian</td>
+  <td colspan="2">Regaining the Oath after you broke it</td>
 </tr>
 <tr>
   <td colspan="2">You! You look... Boring! Very, very boring! Go run a lap or something, maybe then we can get along.</td>
@@ -203,6 +203,6 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 
 ## Trivia
 
--   If you beat her in a race while already possessing an oath, she will only say "Huff".
+-   If you beat her in a race while already possessing an Oath, she will only say "Huff".
 -   Alirian uses the [Windrunner Robes](Windrunner_Robes.md) outfit.
 -   She seems to value her and the player's frenemy relationship a lot.

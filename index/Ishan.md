@@ -1,6 +1,6 @@
 ---
 title: Ishan
-revid: 124567
+revid: 124939
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Lore]
@@ -16,7 +16,7 @@ categories: [Etrean NPCs, NPCs, Lore]
 
 ## Description
 
-Ishan is an Etrean standing outside the castle in Summer Isle. He shares information on the origin of the [Adret](Adret.md) race.
+Ishan is an Etrean standing outside the castle in Summer Isle. He shares information on the origin of the [Adret](Adret.md) aspect.
 
 He has unique dialogue if spoken to as an Adret.
 

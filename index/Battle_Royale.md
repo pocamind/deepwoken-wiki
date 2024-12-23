@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 117729
+revid: 124956
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations, The Hundred Legions]
@@ -18,7 +18,7 @@ There is no rewards or punishments in Battle Royale mode. This mode is only acti
 -   Stats are normallized: everyone get 50 main stat, 100 weapon and 50 attunement.
 -   Loot can be found around the map.
 -   Every kill rewards a point and the final round gives double points, the group with the most points wins.
--   You steal all of your opponents Talents (Including mantras, and oaths) upon executing them.
+-   You steal all of your opponents Talents (Including mantras, and Oaths) upon executing them.
 -   Every once in a a while a purple/pink meteor will fall that will grant a bell to you if you interact with them similar to the totems or healing shrines, it takes a while for the action to take in effect **(BE WARNED THAT YOU ARE HIGHLY VULNERABLE WHILE DOING THIS ACTION)**
 -   You always start with the callout Talent.
 
@@ -70,7 +70,7 @@ Please note the island is located in the [Open Sea](Open_Sea.md).
 
 -   Gray chests contain expert outfits
 -   Orange chests contain master outfits
--   Regular chests contain all equipment types (boots, body, earrings, rings, helmets, cowls) and [Oath Shards](Oath_Shards.md), which you can consume 3 of do be granted a random oath and random Talent/mantra of that oath (Grants any Oath except [Saltchemist](Oath%253A_Saltchemist.md) and [Silentheart](Oath%253A_Silentheart.md))
+-   Regular chests contain all equipment types (boots, body, earrings, rings, helmets, cowls) and [Oath Shards](Oath_Shards.md), which you can consume 3 of do be granted a random Oath and random Talent/mantra of that Oath (Grants any Oath except [Saltchemist](Oath%253A_Saltchemist.md) and [Silentheart](Oath%253A_Silentheart.md))
 
 ### Deep totems
 
@@ -105,6 +105,6 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   Every location on the map is territory of the [Hundred Legions](The_Hundred_Legions.md). This likely indicates that the Battle Royale takes place in the Western Luminant.
 -   Battle Royale is separate from the main game, you cannot choose a slot.
 -   You cannot obtain Warrior's Respite from totems.
--   If you spawn with the Tiran race in the lobby you still gain the feather glider which retains its infinite uses and falls slower than the flimsy glider.
+-   If you spawn with the Tiran aspect in the lobby you still gain the feather glider which retains its infinite uses and falls slower than the flimsy glider.
 -   Battle Royale was accessible to youtubers during the Content Creator Royale on July 1, 2023 and it was released to the public on August 25, 2023 for limited-time testing.
 -   According to Agamatsu in his stream "[Official Deepwoken Youtuber Battle Royale](https://www.youtube.com/watch?v=eWXZPkM0Xpo&t=7909s)", the developers were supposedly debating whether or not to make this game mode public due to it potentially "being too much fun" and killing off the main game, thus they decided to restrict the game mode to only weekends.

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 122051
+revid: 124899
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0 **Songseeker Thundercallers** are a [humanoid enemy](En
 
 A Songseeker Thundercaller is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
 
-A Songseeker Thundercaller wears a Royal Guard Mask (Green) and an Unknown/Unlisted outfit, Varying with their [Race](Aspects.md) and gender.
+A Songseeker Thundercaller wears a Royal Guard Mask (Green) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
 
 A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Thundercall](Thundercall.md) attunement:
 
@@ -33,7 +33,7 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 | Lightning Stream | A stream of lightning that hooks onto an opponent before shocking them multiple times. | ◯ | ◯ | (★★★) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
 
-### **Boons:**
+### Boons
 
 -   Third Eye - A Songseeker Thundercaller cannot be assassinated.
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 124770
+revid: 124978
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -16,7 +16,7 @@ Ironsing Icon
 
 ## Description
 
-**Ironsing** is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen talents.
+**Ironsing** is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen Talents.
 
 ## Obtainment & Training
 
@@ -367,7 +367,7 @@ Metal Wisp
 
 ## **Talents**
 
-Below is a list of all Ironsing exclusive talents. Hybrid talents are listed [here](Hybrid_Abilities.md).
+Below is a list of all Ironsing exclusive Talents. Hybrid Talents are listed [here](Hybrid_Abilities.md).
 
 **Ironsinger:**
 
@@ -705,7 +705,7 @@ You receive 5% less damage when your Armor protects you from an attack and has o
 
  | 
 
-Damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this talent.
+Damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this Talent.
 
  |
 
@@ -902,7 +902,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 
 -   Alloyblood turns your [Bloodrend](Bloodrend.md) mantras Gray.
 -   Ironsing is called 'Element' in the game's code.
--   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
+-   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an Oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
     -   Gold gives a 10% damage buff and a gold particle effect. DMG buff applies only to m1, not to any of mantras (Lasts 25 sec)
     -   Using Irithine gives a green particle effect. Effects unknown.
     -   ̶U̶s̶i̶n̶g̶ ̶E̶r̶i̶s̶o̶r̶e̶ ̶g̶i̶v̶e̶s̶ ̶a̶ ̶b̶l̶u̶e̶ ̶p̶a̶r̶t̶i̶c̶l̶e̶ ̶e̶f̶f̶e̶c̶t̶.̶ ̶E̶f̶f̶e̶c̶t̶s̶ ̶u̶n̶k̶n̶o̶w̶n̶.̶ (Bugged rn, you cant use it)

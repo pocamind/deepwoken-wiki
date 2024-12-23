@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 124197
+revid: 124969
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]
@@ -19,7 +19,7 @@ categories: [Oaths, The Divers, Moonseye]
 
 ## Description
 
-**[Oath](Oaths.md): Dawnwalker** is one of the 14 obtainable [Oaths](Oaths.md) in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. Regardless, it is one of the hardest Oaths to obtain, especially for newer players, as it requires multiple expeditions into [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the oath.
+**[Oath](Oaths.md): Dawnwalker** is one of the 14 obtainable [Oaths](Oaths.md) in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. Regardless, it is one of the hardest Oaths to obtain, especially for newer players, as it requires multiple expeditions into [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the Oath.
 
 “ Child, do you swear to carry the Light as a weapon against the Deep? To wield the Song only as a Radiant Blade against that which it beckons? ”
 
@@ -30,9 +30,9 @@ This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that 
 ## Obtainment
 
 1.  Speak to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and gives you the base Oath along with its Blinding Dawn Mantra.
-2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 75/105 Medallions in total from base to max. The order you get the upgrades is:
+2.  You can upgrade the Oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The Oath costs 75/105 Medallions in total from base to max. The order you get the upgrades is:
 
--   Blinding Dawn upon Oath obtainment (30 medallions/60 medallions if oath broken previously)
+-   Blinding Dawn upon Oath obtainment (30 medallions/60 medallions if Oath broken previously)
 -   Radiant Kick (15 medallions)
 -   Protagonist Syndrome and Radiant Dawn (15 medallions)
 -   Absolute Radiance + Luminous Flash (15 medallions)
@@ -43,7 +43,7 @@ Reobtaining Dawnwalker after [Oath Breaking](<Shrine_of_Yun'Shul,_Keeper_of_Hear
 
 ## Effects
 
-This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Moonseye.md) symbol above their head, with a disk spinning around its axis. The Moonseye can be dyed and both the eye and the disc will follow the dye color.
+This Oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Moonseye.md) symbol above their head, with a disk spinning around its axis. The Moonseye can be dyed and both the eye and the disc will follow the dye color.
 
 ## Abilities
 
@@ -90,9 +90,9 @@ Luminous Flash on proc
 
 ## Trivia
 
--   If you have already maxed out Dawnwalker before, you only need 40 Kyrsan Medallions to max out the oath as it only costs 30 to obtain it, and if you convert the other 10 to knowledge you can max it out right then and there.
+-   If you have already maxed out Dawnwalker before, you only need 40 Kyrsan Medallions to max out the Oath as it only costs 30 to obtain it, and if you convert the other 10 to knowledge you can max it out right then and there.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri).
-    -   Due to the nature of the oath being a dev spec, Radiant Kick on release was absolutely one of the best mantras in the game. It was able to deal half a bar of undodgable damage, throw people across the Nomad camp at Etris in terms of range, and be able to be mantra feinted.
+    -   Due to the nature of the Oath being a dev spec, Radiant Kick on release was absolutely one of the best mantras in the game. It was able to deal half a bar of undodgable damage, throw people across the Nomad camp at Etris in terms of range, and be able to be mantra feinted.
 -   The passive ability Luminous Flash may be inspired by [Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen).
 -   The ability Absolute Radiance may be a reference to one of the final bosses of the game [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight), that goes by the same name.
 -   Blinding Dawn may be inspired by or a reference to Goro Majima's Breaker style from Yakuza 0, specifically the spinning Power Moves at the end of the basic combos.
@@ -100,7 +100,7 @@ Luminous Flash on proc
     -   Similarly, Radiant Dawn may be inspired by Fire Emblem Radiant Dawn, similar to Silentheart's Abilities.
 -   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses Radiant Magic, which is an imitation of [Lightkeeping](Lightkeep.md) through the use of Radiant Tones.
 -   Originally, Blinding Dawn had this description: "Dance uncontrollably. No one can withstand the sheer groove of your spin routine."
--   This Oath has a requirement of Power 15, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the technical highest point requirement out of any oath, at 237. For all intents and purposes, this information should not affect your average progression as it is a functionally costless oath.
+-   This Oath has a requirement of Power 15, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the technical highest point requirement out of any Oath, at 237. For all intents and purposes, this information should not affect your average progression as it is a functionally costless Oath.
 -   Dawnwalker was originally supposed to have a Talent that made the user immune to all fall damage, this was, however, scrapped.
 -   Dawnwalker originally also had a mode bar which, when active, would give the user instant tp dashes, this was also scrapped.
--   Dawnwalker is the only oath that can be fully obtained and progressed without leaving the depths
+-   Dawnwalker is the only Oath that can be fully obtained and progressed without leaving the depths

@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 118909
+revid: 124993
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -29,12 +29,12 @@ When losing enough sanity, the player will incur negative effects.
 
 | **Insanity Effect** | **Effect** | **Sanity Threshold** | **Cooldown** |
 | --- | --- | --- | --- |
-| Shivering | Slows you down for 2 seconds. The Unfazed talent makes you immune to this while above 40% Sanity. | <70% | 30-36 seconds |
+| Shivering | Slows you down for 2 seconds. The Unfazed Talent makes you immune to this while above 40% Sanity. | <70% | 30–36 seconds |
 | Saturation Lose | The world loses its colors. Gets more intense the more sanity you are missing | <70% | N/A |
 | Blurring | Blurs your vision, making it harder to see further. Gets more intense the more sanity you are missing | <50% | N/A |
-| Panicking | Stuns you for 1 second and deal 10 damage (5 with Grasp on Reality talent). Is then followed by shivering. With the Unfazed talent, this effect is ignored and replaced by 2.5 seconds of shivering. | <40% | 30-36 seconds |
+| Panicking | Stuns you for 1 second and deal 10 damage (5 with Grasp on Reality Talent). Is then followed by shivering. With the Unfazed Talent, this effect is ignored and replaced by 2.5 seconds of shivering. | <40% | 30–36 seconds |
 | Hidden Faces | When panicking of scratching, hide the face and name of nearby humanoids (including players) for 30 seconds. | <40% | 360 seconds |
-| Scratching | Stuns you for 1.5 second and deal 20 damage (10 with Grasp on Reality talent). Is then followed by shivering. The Unfazed talent offer no protection against this. | <10% | 30-36 seconds |
+| Scratching | Stuns you for 1.5 second and deal 20 damage (10 with Grasp on Reality Talent). Is then followed by shivering. The Unfazed Talent offer no protection against this. | <10% | 30–36 seconds |
 | Execution | If knocked by any means, including scratching, you are immediatly killed. | <10% | N/A |
 | Head Explosion | Reaching 0 Sanity with a No-Life King enchantment in The Depth or while observing the eyeballs in The Ancient Rotland will immediatly kill the player. | 0% | N/A |
 

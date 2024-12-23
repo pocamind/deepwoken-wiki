@@ -1,9 +1,9 @@
 ---
 title: Soothsayer
-revid: 123303
+revid: 125001
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Celtor NPCs, NPCs]
 ---
 
 # Soothsayer
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Soothsayer | |
 |---|---|
 | name | Soothsayer |
+| aspect | Celtor |
 | location | Minityrsa |
 
 “ Oh! Oh oh. You see it, don't you? Won't you share your Knowledge with me? Please? ”

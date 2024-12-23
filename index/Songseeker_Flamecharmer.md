@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 120354
+revid: 124898
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0 **Songseeker Flamecharmers** are a [humanoid enemy](Ene
 
 A Songseeker Flamecharmer is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
 
-A Songseeker Flamecharmer wears a Royal Guard Mask (Red) and an Unknown/Unlisted outfit, Varying with their [Race](Aspects.md) and gender.
+A Songseeker Flamecharmer wears a Royal Guard Mask (Red) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
 
 ## Moveset
 
@@ -31,7 +31,7 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 | Flame Ballista | Conjures a blazing arrow that tracks opponents. | ◯ | ✗ | (★★★) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
 
-### **Boons:**
+### Boons
 
 -   Third Eye - A Songseeker Flamecharmer cannot be assassinated.
 

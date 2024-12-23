@@ -1,9 +1,9 @@
 ---
 title: Auroran
-revid: 118839
+revid: 124883
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Races, Exclusive Races, Article stubs, Exclusive, Developer Spec]
+categories: [Pages with broken file links, Character, Aspects, Exclusive aspects, Article stubs, Exclusive, Developer Spec]
 ---
 
 # Auroran
@@ -15,7 +15,7 @@ Not a lot of information known about this race, though it is a unique Gremor var
 Template:Races-Main
 
   
-Chance of obtaining race: **N/A%**
+Chance of obtaining aspect: **N/A%**
 
 ## Racial Traits
 
@@ -45,8 +45,6 @@ Unknown
 
 **Strengths:**
 
-  
-
 -   Navae's Guidance
     
 
@@ -59,5 +57,5 @@ Unknown
 -   Does not have Sclera (Auchura at least)
 -   Related to [Auroran Gremor](Auroran_Gremor.md)
 -   Based on the [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen) from World of Warcraft (confirmed by Auchura).
--   Auchura also has a custom ice scythe-like weapon. It is unknown if all **Aurorans** have it by default.
+-   Auchura also has a custom ice scythe-like weapon. It is unknown if all Aurorans have it by default.
 -   Is a subrace of Gremor, similar to [Primal Vesperian](Primal_Vesperian.md) and [Aberrant Capra](Aberrant_Capra.md).

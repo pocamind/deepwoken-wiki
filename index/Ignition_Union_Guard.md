@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 107059
+revid: 124926
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ignition Union, Ignition Union Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Ignition Union Guards are enemy NPCs that can be found on [Miner's Landing](<Miner's_Landing.md>).
 
-They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit with their gender and race varying.
+They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit with their [aspect](Aspects.md) varying.
 
 ## Moveset
 

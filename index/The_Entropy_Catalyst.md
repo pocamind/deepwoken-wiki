@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 120257
+revid: 125003
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Moonseye]
@@ -26,7 +26,7 @@ By picking up a **knocked** person who has an [Oath](Oaths.md) (such as Blindsee
 
 As this place is a Voidzone, do note that this will send a character to the Depths. When all four slots are filled, a large glowing orb will emerge from the middle of the pattern. Interacting with this orb will make it explode, knocking back everyone standing nearby. If a player is struck by the explosion, and has met the requirements to become a [Linkstrider](Oath%253A_Linkstrider.md), they will gain the Linkstrider Oath.
 
-Alternatively, you can pick up Pristine Lotuses here and kill players that have an oath, When 4 of them have been turned into Scarlet Lotuses, return to The Entropy Catalyst and gain the oath.
+Alternatively, you can pick up Pristine Lotuses here and kill players that have an Oath, When 4 of them have been turned into Scarlet Lotuses, return to The Entropy Catalyst and gain the Oath.
 
 Decent guide on how to get to the Entropy Catalyst: [https://www.youtube.com/watch?v=K-TZn1VZIcI](https://www.youtube.com/watch?v=K-TZn1VZIcI)
 

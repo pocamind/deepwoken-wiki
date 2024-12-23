@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 122620
+revid: 124996
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Spelltrainers]
@@ -11,6 +11,7 @@ categories: [NPCs, Spelltrainers]
 | Vyrelda, Master of Blood | |
 |---|---|
 | name | Vyrelda |
+| aspect | Etrean |
 | location | FirfireDerelict Highchurch |
 
 ## Description

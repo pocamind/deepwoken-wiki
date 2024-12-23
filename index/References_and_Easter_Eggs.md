@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 122758
+revid: 124953
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -105,7 +105,7 @@ This is a page dedicated to all of the easter eggs and references to other works
         
         Arch's tweet
         
-    -   The different characters met for this oath have mythological or religious origins:
+    -   The different characters met for this Oath have mythological or religious origins:
         -   The trainer, **Samael**, is an angel in Judaism.
         -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam.
         -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss.
@@ -114,7 +114,7 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   Typing "I will never be a memory" before using a Starkindred Mantra will activate only one of the wings in reference to Sephiroth from the _Final Fantasy series_.
 -   **Silentheart** originally inspiration from the _Fire Emblem_ series:
     -   The ship named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
-    -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the oath, boasts high magical resistance.
+    -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the Oath, boasts high magical resistance.
     -   [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) is a lord class in _Fire Emblem: Awakening_ and _Fire Emblem: Fates._
     -   [Mani Katti](https://fireemblem.fandom.com/wiki/Mani_Katti) is Lyn's signature weapon _Fire Emblem: The Blazing Blade_. The critical hit animation is similar to that of the Talent, slicing the enemy multiple times.
 -   **Dawnwalker's** Radiant Kick is slightly similar to [Minos Prime's](https://ultrakill.fandom.com/wiki/Minos_Prime) dropkick attack where he says _"Judgement!"_ from _ULTRAKILL._
@@ -286,7 +286,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **The Knives of Eylis** is a reference to a faction in _Dishonored_ as they can travel to a place that only exists within dreams, are assassins and have a supernatural entity that allow said group to exist.
 -   **The Divers**, especially the Black Divers, are a reference to the Whistles of _Made in Abyss_, having the rank of Black Diver being very similar in design of the armor and concept of the White Whistles.
 
-### Races
+### Aspects
 
 -   **Etreans** share many visual similarities with [Mitsuki](https://naruto.fandom.com/wiki/Mitsuki) and [Orochimaru](https://naruto.fandom.com/wiki/Orochimaru) from _Naruto_.
     -   Regarding their culture, they have similarities to Eastern civilizations, in architecture, and names.
@@ -295,9 +295,9 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Canors** are confirmed to be based on the design of [Mereoleona](https://blackclover.fandom.com/wiki/Mereoleona_Vermillion) from _Black Clover_.
     -   On a broader reference, Canor surnames are German. Zweihanders, a weapon of German creation in real life, are used by Canor Borderwatchers.
 -   **Khans** resemble modern interpretations of [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King) from _Journey To The West_, with their near identical hair on sideburns and cheeks, and headband.
-    -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[race\]" it says "Return to Khan"
+    -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[aspect\]" it says "Return to Khan"
 -   **Vesperians** somewhat resemble the [Vessels](https://hollowknight.fandom.com/wiki/Vessels) from _Hollow Knight_.
-    -   The origins of **Vesperians** can be traced back to _Arch\_Mage's_ earlier game, _[Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil),_ where they were depicted as hostile automatons. This history is still evident today, reflected in their [lore](https://deepwoken.fandom.com/wiki/Lore?so=search#Vesperian) by being more robust than any other race.
+    -   The origins of **Vesperians** can be traced back to _Arch\_Mage's_ earlier game, _[Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil),_ where they were depicted as hostile automatons. This history is still evident today, reflected in their [lore](https://deepwoken.fandom.com/wiki/Lore?so=search#Vesperian) by being more robust than any other aspect.
 
 -   **Ganymedes** are a likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans) from _Hollow Knight._
     -   **Ganymedes** are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).

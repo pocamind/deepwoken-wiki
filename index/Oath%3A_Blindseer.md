@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 123354
+revid: 124964
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -104,10 +104,10 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 
 -   **BLINDSEER MANTRAS DONT SCALE WITH WILLPOWER AT ALL**
 -   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
--   The glyph on the wall also can be found at King Tresher room in Lightkeeper Temple, the glyph also stating about how to progress Blindseer oath.
+-   The glyph on the wall also can be found at King Tresher room in Lightkeeper Temple, the glyph also stating about how to progress Blindseer Oath.
 -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
 -   The Blindseer Eye can be dyed by dying your eyes using a [Dye Packet](Dye_Packet.md).
--   Vesperians with this oath do not have a glowing Blindseer eye, and instead have a yellow eye painted onto their mask on a gray background. This eye can be dyed by dying the mask.
+-   Vesperians with this Oath do not have a glowing Blindseer eye, and instead have a yellow eye painted onto their mask on a gray background. This eye can be dyed by dying the mask.
     -   There is a bug where the mask decoration persists even upon Oath removal.
 -   As stated in an interview with Raguza, he got the inspiration for blindseer when he was cosplaying lee sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the trophy room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.

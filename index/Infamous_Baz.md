@@ -1,6 +1,6 @@
 ---
 title: Infamous Baz
-revid: 124570
+revid: 124941
 source: https://deepwoken.fandom.com/wiki/Infamous_Baz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs]
@@ -26,6 +26,6 @@ Infamous Baz was a Felinor NPC spotted in the back corner of [The King's Garden]
 
 ## Trivia
 
--   According to Arch\_Mage, if you kept interacting with him, there is a chance you will get a legendary hidden Felinor-like race. Whether or not he was actually being serious was unclear but the chances of the statement being true are highly unlikely. With Baz's removal, it's all but confirmed it was false.
+-   According to Arch\_Mage, if you kept interacting with him, there is a chance you will get a legendary hidden Felinor-like aspect. Whether or not he was actually being serious was unclear but the chances of the statement being true are highly unlikely. With Baz's removal, it's all but confirmed it was false.
 -   He is named after infamousbaz, a friend of Arch\_Mage.
 -   Canonical winner of the grand griddy.

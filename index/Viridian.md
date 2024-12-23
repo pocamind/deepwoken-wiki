@@ -1,6 +1,6 @@
 ---
 title: Viridian
-revid: 124563
+revid: 124932
 source: https://deepwoken.fandom.com/wiki/Viridian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -61,7 +61,7 @@ Viridian is located in [Fort Merit](Fort_Merit.md). After going up the elevator 
 ## Trivia
 
 -   If you already have an oath, or not on the Oathless quest line, she will only say "..."
--   Her [Ganymede](Ganymede.md) race variant is Hyperion.
+-   Her [Ganymede](Ganymede.md) aspect variant is Hyperion.
 -   She is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Viridian City_](https://bulbapedia.bulbagarden.net/wiki/Viridian_City).
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Cerulean](Cerulean.md), [Saffron](Saffron.md), and [Celadon](Celadon.md).
 -   Viridian usually means the shade of the color green.

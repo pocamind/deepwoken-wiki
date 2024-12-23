@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 119750
+revid: 124890
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 -   Improving your [Agility](Attributes.md) will improve your Stealth.
     -   Every point of [Agility](Attributes.md) grants +0.2% Stealth.
     -   Passive Agility does NOT grant Stealth.
--   The [Felinor](Felinor.md) Race starts with 20% Stealth and has a 1.2x multiplier on Stealth gain.
+-   The [Felinor](Felinor.md) aspect starts with 20% Stealth and has a 1.2x multiplier on Stealth gain.
 -   The [Talent Card](Talents.md) _Lowstride_ improves Stealth while crouched.
 -   **Equipping specific outfits: (See below)**
     -   [Navaen War Chief](Navaen_War_Chief.md) grants +50% Stealth.

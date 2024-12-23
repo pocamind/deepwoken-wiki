@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 124562
+revid: 124915
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -77,7 +77,7 @@ In order of carry load given:
 -   Strength increases your carry load by 1 for every point of strength you get.
     -   [Canor](Canor.md) and [Khan](Khan.md) can get up to 103 strength due to their 3 starting strength, resulting in 103 extra carry load.
     -   [Gremor](Gremor.md) can get up to 102 strength due to its 2 starting strength, resulting in 102 extra carry load.
-    -   Every other [race](Aspects.md) can only get up to 100 strength, resulting in 100 extra carry load.
+    -   Every other [aspect](Aspects.md) can only get up to 100 strength, resulting in 100 extra carry load.
 
 All of these miscellaneous sources combined would theoretically provide 375 carry load.
 

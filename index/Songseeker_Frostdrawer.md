@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 122047
+revid: 124921
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0 **Songseeker Frostdrawers** are a [humanoid enemy](Enem
 
 Songseeker Frostdrawers are enemy NPCs that can be found in [Songseeker Wilds](Songseeker_Wilds.md) and on [Minityrsa](Minityrsa.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md). As for [Minityrsa](Minityrsa.md), they can only spawn in Random Encounters.
 
-Songseeker Frostdrawers wear a Royal Guard Mask (Blue) and an Unknown/Unlisted outfit, Varying with their [Race](Aspects.md) and gender.
+Songseeker Frostdrawers wear a Royal Guard Mask (Blue) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
 
 ## Moveset
 
@@ -31,12 +31,12 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 | Ice Smash | Creates a giant mace of to smash opponents with. | ◯ | ✗ | (★★☆) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
 
-### Boons:
+### Boons
 
 -   Third Eye - A Songseeker Frostdrawer cannot be assassinated.
 -   Emergency Extinguisher - Songseeker Frostdrawer is unable to be killed via burning to death, and will instead get up as normal and have their flames extinguished.
 
-### Talents:
+### Talents
 
 -   Everchanging Aegis - A Songseeker Frostdrawer take 20% less from attacks the same element as the last element they were hit with, but 10% more damage from attacks from different elements.
 -   Perfect Flash - Having full health causes a Songseeker Frostdrawer's mantras to do 25% extra damage.

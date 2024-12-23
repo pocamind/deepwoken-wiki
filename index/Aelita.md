@@ -1,9 +1,9 @@
 ---
 title: Aelita
-revid: 119376
+revid: 124995
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Felinor NPCs, NPCs]
 ---
 
 # Aelita
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Aelita | |
 |---|---|
 | name | Aelita |
+| aspect | Felinor |
 | location | Valley of Heroes (During Spring, Summer and Autumn) |
 
 “ See? That was fun right? You can have a lot more fun if you come back during the winter. ”

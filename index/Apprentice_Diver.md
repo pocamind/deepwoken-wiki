@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 120357
+revid: 124919
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Divers, Diver Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 An Apprentice Diver is an enemy NPC that can only be found in [The Depths](The_Depths.md). They can be found at the [Diver's Camp](<Diver's_Camp.md>) and at [Castle Light](Castle_Light.md).
 
-Their appearance only consists of a [Diver Apprentice](Diver_Apprentice_Robes.md) outfit with their [race](Aspects.md) varying.
+Their appearance only consists of a [Diver Apprentice](Diver_Apprentice_Robes.md) outfit with their [aspect](Aspects.md) varying.
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: Khan (NPC)
-revid: 124337
+revid: 124943
 source: https://deepwoken.fandom.com/wiki/Khan_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs]
@@ -13,7 +13,7 @@ categories: [Etrean NPCs, NPCs]
 | aspect | Etrean |
 | location | Etrean Wilds |
 
-This is a page about the NPC part of the [Lost Books](Quests.md) quest. For the race, see [Khan](Khan.md).
+This is a page about the NPC part of the [Lost Books](Quests.md) quest. For the aspect, see [Khan](Khan.md).
 
 Khan is an NPC located underneath [Etris](Etris.md) in the [Etrean Wilds](Etrean_Wilds.md). He can only be talked to after starting [Kelsius](Kelsius.md)' quest.
 

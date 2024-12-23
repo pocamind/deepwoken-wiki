@@ -1,6 +1,6 @@
 ---
 title: Summer Company Guard
-revid: 107916
+revid: 124920
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Summer Company, Summer Company Enemies]
@@ -19,7 +19,7 @@ A Summer Company Guard is enemy NPC that can only be found on Summer Isle. They 
 -   Summer Company Guards vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md))
 -   Summer Company Guards and a manager next to the corpses of Ignition Union Fighters retrieving an Explosive Crate ([Summer Isle](Summer_Isle.md))
 
-A Summer Company Guard only wears the [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [race](Aspects.md) varying.
+A Summer Company Guard only wears the [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [aspect](Aspects.md) varying.
 
 ## Moveset
 

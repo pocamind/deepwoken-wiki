@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 122829
+revid: 124984
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -267,7 +267,7 @@ One, two or three divers taking on a monster in [The Depths](The_Depths.md). Wit
 
 ### [Faction Ambush](Faction_Ambushes.md)
 
-A randomly occurring event in which bounty hunters or faction soldiers will ambush you without warning. Beware as these events can occur _anywhere_ in the overworld with a few exceptions. Bounty hunters will spawn for players with good rep with all factions and faction soldiers for the specific faction which you have _Hunted_ or below reputation with. Enemies will be in trios or solo and will be scaled off your current level. Beware as these enemies possess powerful weapons, mantras, and even oaths.
+A randomly occurring event in which bounty hunters or faction soldiers will ambush you without warning. Beware as these events can occur _anywhere_ in the overworld with a few exceptions. Bounty hunters will spawn for players with good rep with all factions and faction soldiers for the specific faction which you have _Hunted_ or below reputation with. Enemies will be in trios or solo and will be scaled off your current level. Beware as these enemies possess powerful weapons, mantras, and even Oaths.
 
 ## Unique Events
 

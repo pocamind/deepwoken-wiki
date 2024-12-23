@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 124545
+revid: 124999
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -74,7 +74,7 @@ Have your movement and parkour speed increased by 15% and your swing speed incre
 
 ### Radiant
 
-Become immune to all elemental status effects. Gained by proccing the Absolute Radiance talent from the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath
+Become immune to all elemental status effects. Gained by proccing the Absolute Radiance Talent from the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath
 
 ### Gone Berserk
 

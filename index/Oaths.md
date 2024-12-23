@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 124441
+revid: 124957
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -93,11 +93,11 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 ## Oath Skipping
 
-If you've progressed a certain oath once before to max, you are able to skip the progression next time you reobtain said oath, this feature applies across slots. Simply talk to the relevant NPC of the oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note: that you still need to get the requirements of the oath you wish to skip. If you are a chainwarden or bladeharper, you cannot skip the oath progression.
+If you've progressed a certain Oath once before to max, you are able to skip the progression next time you reobtain said Oath, this feature applies across slots. Simply talk to the relevant NPC of the Oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note: that you still need to get the requirements of the Oath you wish to skip. If you are a chainwarden or bladeharper, you cannot skip the Oath progression.
 
 ## Oathbreaker - Oath Removal
 
-It is possible to remove your oath (you can do this as many times as you want) by making a wish to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This comes with a warning: **You could potentially close off your former Oath to you forever.**
+It is possible to remove your Oath (you can do this as many times as you want) by making a wish to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This comes with a warning: **You could potentially close off your former Oath to you forever.**
 
 Upon breaking an Oath, unique effects will occur:
 
@@ -117,7 +117,7 @@ Upon breaking an Oath, unique effects will occur:
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
     -   You can regain the Oath again after breaking the vow. However, the price will be 60 [Medallions](Kyrsan_Medallions.md) instead of 30.
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man."
-    -   This oath does not become locked after being broken.
+    -   This Oath does not become locked after being broken.
 -   [Jetstriker](Oath%253A_Jetstriker.md): [Alirian](Alirian.md) - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
     -   Talking to [Alirian](Alirian.md) will prompt the following conversation:
         -   "Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that." / **Please forgive me.**
@@ -125,7 +125,7 @@ Upon breaking an Oath, unique effects will occur:
             -   You'll regain [Jetstriker](Oath%253A_Jetstriker.md).
         -   "This is our path then, my friendly nemesis! To be a [Jetstriker](Oath%253A_Jetstriker.md), one who walks with the Song's flow itself.. ah, it's so freeing.
 -   [Linkstrider](Oath%253A_Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
-    -   This oath does not become locked after being broken.
+    -   This Oath does not become locked after being broken.
 
 -   [Oathless](Oath%253A_Oathless.md): Cerulean - "The way opens more to you, my disciple. Safe travels."
     -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? / **I'd like to become Oathless once more.**
@@ -155,7 +155,7 @@ Oaths that are mentioned by either NPCs or developers but are not currently in t
 
 -   Not much is known about it, but its confirmed to be an Oath that is going to be added in a future update, confirmed by Ragoozer, and is very possible to come alongside or be related to the Authority Origin.
 -   One notorious user of this Oath is Warden Jericho (Also confirmed by Ragoozer), as seen in his journal and by the dialogue of the [Windrunner](Windrunner.md).
--   Similar to Blindseer being the counter-oath to Visionshaper, there is a high chance of this oath having the same relationship the Contractor Oath due to the fact that the Windrunner explains that the two oaths are inherently against each other, and in the [Journal of Jericho](Tomb_of_the_Nameless_Warrior.md) explaining that the Warden is trying to stop the Contractors, being Zi'eer (Lord regent) and his puppets (Contractor Players).
+-   Similar to Blindseer being the counter-Oath to Visionshaper, there is a high chance of this Oath having the same relationship the Contractor Oath due to the fact that the Windrunner explains that the two Oaths are inherently against each other, and in the [Journal of Jericho](Tomb_of_the_Nameless_Warrior.md) explaining that the Warden is trying to stop the Contractors, being Zi'eer (Lord regent) and his puppets (Contractor Players).
 -   It is known that the source of power of the Oath is something called "The Circle of Honor", it is not known if its related to the Authority or not, but they are confirmed to be the source and creators of the Warmaster Oath.
     
 
@@ -165,9 +165,9 @@ Oaths that are mentioned by either NPCs or developers but are not currently in t
 
 Proof of Time Magic's existence and it being an "Oath"
 
--   An 'ability' used by the [Knives of Eylis](The_Knives_of_Eylis.md) to 'slow down time'. Mentioned to be an oath by Arch\_Mage.
+-   An 'ability' used by the [Knives of Eylis](The_Knives_of_Eylis.md) to 'slow down time'. Mentioned to be an Oath by Arch\_Mage.
 -   It is very likely to be the Oath mentioned by Eylis when you ask her about her Oath as a Voidwalker.
--   It is not confirmed, but its very probably that this oath can manipulate time in a very similar way as the Voidsea due to the relation of the Voidwalkers and the Voidsea, meaning, that instead like a "time magic" oath, it could be more like a "Void oath" where time manipulation is just one part of the oath.
+-   It is not confirmed, but its very probably that this Oath can manipulate time in a very similar way as the Voidsea due to the relation of the Voidwalkers and the Voidsea, meaning, that instead like a "time magic" Oath, it could be more like a "Void Oath" where time manipulation is just one part of the Oath.
     
 
 ## Trivia
@@ -185,6 +185,6 @@ Proof of Time Magic's existence and it being an "Oath"
     -   Contractor gives the user Dark Maroon eyes.
     -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   In the [Battle Royale](Battle_Royale.md) gamemode, Oaths can be obtained by collecting Oath Shards from chests.
-    -   It takes 3 shards to obtain the oath, and one for each subsequent Talent.
--   [_Oathless_](Oath%253A_Oathless.md) Does not take 10 [Knowledge](Knowledge.md) when skipped, instead grants the _oath_ immediately.
+    -   It takes 3 shards to obtain the Oath, and one for each subsequent Talent.
+-   [_Oathless_](Oath%253A_Oathless.md) Does not take 10 [Knowledge](Knowledge.md) when skipped, instead grants the _Oath_ immediately.
     -   This is only after uptraining the O_athless_ once.

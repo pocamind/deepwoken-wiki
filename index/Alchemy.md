@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 114759
+revid: 124983
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -24,7 +24,7 @@ You can also throw potions by holding them and pressing E - this usually applies
 
 Only one potion effect can be active at a time. Applying a new effect to a character that already has a potion effect will clear that effect. Characters currently under the effect of a potion will have a particle effect, with the colour seeming to depend on the type and intensity of the effect. Most effects are yellow or purple with more intensity at higher strength.
 
-Using the [Saltchemist](Oath%253A_Saltchemist.md) oath, it is possible to generate an infinite supply of 3 potions of your choice, by adding them to the Perpetual Distillery. Each of the three potions will be bound to a key, and can be set to either "throw" or "drink" mode. Pressing a potion's key will use the potion, with a 40 second cooldown per potion. Using a "drink" mode potion will place all other "drink" mode potions that share an effect on cooldown, though the same restriction does not apply to "throw" mode potions.
+Using the [Saltchemist](Oath%253A_Saltchemist.md) Oath, it is possible to generate an infinite supply of 3 potions of your choice, by adding them to the Perpetual Distillery. Each of the three potions will be bound to a key, and can be set to either "throw" or "drink" mode. Pressing a potion's key will use the potion, with a 40 second cooldown per potion. Using a "drink" mode potion will place all other "drink" mode potions that share an effect on cooldown, though the same restriction does not apply to "throw" mode potions.
 
 ### Cauldron Locations
 
@@ -41,7 +41,7 @@ Adding multiple ingredients with the same effect will strengthen that effect, an
 
 Potions containing only a single ingredient suffer a heavy penalty to the strength of all effects (usually resulting in a Diluted potion). This penalty can be avoided by adding any ingredient, including more copies of the same ingredient or ones with no effect.
 
-The [Saltchemist](Oath%253A_Saltchemist.md) oath grants access to three unique "salts", which can all be added to a potion without affecting the number of ingredients. All three salts can be added to a 5 ingredient potion without diluting it, and adding a salt to a potion with only one ingredient does not avoid the penalty for single-ingredient potions.
+The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three unique "salts", which can all be added to a potion without affecting the number of ingredients. All three salts can be added to a 5 ingredient potion without diluting it, and adding a salt to a potion with only one ingredient does not avoid the penalty for single-ingredient potions.
 
 Finally, any potion with a positive Health Regeneration effect has its duration reduced by 3 seconds. This duration reduction is constant, regardless of the strength of the health regeneration effect.
 
@@ -104,7 +104,7 @@ Eggs, Lotuses, all types of Fish, Fish Meat, Galewax, Sticks and all types of mi
 
 ### Salts
 
-The [Saltchemist](Oath%253A_Saltchemist.md) oath grants access to three salts, which can be added to any potion at no cost. These salts do not affect the number of ingredients in the potion (so they can be added to a 5 ingredient potion) and multiple different salts can be added to the same potion. Any potion created with these salts no longer be droppable and cannot be banked, meaning they will become locked to your [Saltchemist](Oath%253A_Saltchemist.md) character, if you wish to create potions for a friend or different character, avoid using these.
+The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three salts, which can be added to any potion at no cost. These salts do not affect the number of ingredients in the potion (so they can be added to a 5 ingredient potion) and multiple different salts can be added to the same potion. Any potion created with these salts no longer be droppable and cannot be banked, meaning they will become locked to your [Saltchemist](Oath%253A_Saltchemist.md) character, if you wish to create potions for a friend or different character, avoid using these.
 
 Biotic Salts alter the potion to provide halved negative effects when applied to allies (including yourself), and halved positive effects when applied to enemies. This salt is strictly positive and should be added to all potions, unless you plan to give them to a friend.
 
@@ -217,7 +217,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Blight<p>Potion</p></td>
   <td>Urchin<p>Seaweed Bundle Scallop Chum</p></td>
   <td>Gives Insanity.</td>
-  <td>Opposite effect to <b>Heartening</b>. Signified by bright purple particles.<p>Can prove surprisingly useful, as enemies at tier 3 <a href="Insanity.md">Insanity</a> are automatically gripped when downed and suffer from other consequences prior, and Manic is also a common flaw. Bear in mind it can help those that have Insanity-reliant talents, though.</p></td>
+  <td>Opposite effect to <b>Heartening</b>. Signified by bright purple particles.<p>Can prove surprisingly useful, as enemies at tier 3 <a href="Insanity.md">Insanity</a> are automatically gripped when downed and suffer from other consequences prior, and Manic is also a common flaw. Bear in mind it can help those that have Insanity-reliant Talents, though.</p></td>
 </tr>
 <tr>
   <td><b>Invigorating</b></td>
@@ -236,7 +236,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Blight</td>
   <td>Plumfruit</td>
   <td>Deals a small amount of damage over the potion duration.</td>
-  <td>Opposite effect to <b>Invigorating</b>.<p>Curiously, the prefix of a potion brewed using only Plumfruit depends on the talents of the brewer- if the brewer only has Apothecary, the prefix is Strengthening.</p></td>
+  <td>Opposite effect to <b>Invigorating</b>.<p>Curiously, the prefix of a potion brewed using only Plumfruit depends on the Talents of the brewer- if the brewer only has Apothecary, the prefix is Strengthening.</p></td>
 </tr>
 <tr>
   <td><b>Steadfast</b></td>

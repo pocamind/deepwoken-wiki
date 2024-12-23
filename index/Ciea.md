@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 122984
+revid: 124997
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs, Quests]
@@ -26,7 +26,7 @@ Ciea is a female Vesperian that tells the player to make potions with specific e
 
 There may be different options when you talk to Ciea, but for the ones listed you'll have to use those specific ingredients or else she won't take it.
 
-Her quest is needed to get the [Saltchemist](Oath%253A_Saltchemist.md) oath.
+Her quest is needed to get the [Saltchemist](Oath%253A_Saltchemist.md) Oath.
 
 You can use diluted potions (potions with only 1 copy of an ingredient). This does not appear to have any effect on EXP or Talent yields.
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 124582
+revid: 124985
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -47,7 +47,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   The Lord Regent's power is unique and is likely not associated with any attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
     -   Though it is not [Shadowcast](Shadowcast.md),[\[2\]](#cite-note-arch-2) it is similar in appearance to it, and in "[God in the Machine](Books.md#god-in-the-machine)," after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgment attack.
 -   The Lord Regent is very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts about Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "[the Forge of Sin](Relics.md#lore-relics)."
-    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads with his contractor oath before instantly killing you, regardless of level. He will also do this after completing the Duke Erisia questline, but not if you are trying to obtain the Contractor Oath.
+    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads with his contractor Oath before instantly killing you, regardless of level. He will also do this after completing the Duke Erisia questline, but not if you are trying to obtain the Contractor Oath.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel notes that the "new leader is very strange," suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This may be because of the Canor's history with the Authority, with whom they are currently at war; however, considering that player Canors are met with little discrimination, it may be simply because Schnitzel appears to have rather little education.
 -   His goal is seemingly to manipulate Etris' prospects to seize the island to the Tides, as once happened to Celtor in the south thanks to their mysterious new leader.
@@ -1090,7 +1090,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   The Old Stewards created The Old Texts.
 -   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.
 -   A possible member of the Old Stewards, a man referred to as the Mad Steward, through the use of Ardour, decapitated one of the Elder Edenkite and ate its heart. This caused him to gain infinite wisdom, but with all of the knowledge in the world came all of the tragedies of the world, resulting in an overwhelming sense of dread, thus turning him into the Dread Serpent. This is also why you gain Ardour from slaying the Dread Serpent.
--   Adrofalis, trainer of the [Saltchemist](Oath%253A_Saltchemist.md) oath, is a member of the Old Stewards.
+-   Adrofalis, trainer of the [Saltchemist](Oath%253A_Saltchemist.md) Oath, is a member of the Old Stewards.
 
 ### The Pathfinders
 
@@ -1140,7 +1140,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   Are enemies of the Contractor and possibly the ministry due to Warden Jericho and the Windrunner stating that they are against each other.
 -   A possible member of the Circle of Honor is Warden Jericho.[\[1\]](#cite-note-rag-1)
 -   They are known to carry floating blades as Warmasters.[\[1\]](#cite-note-rag-1)
--   It is speculated that every person who has taken the oath of a Warmaster is a member of the Circle of Honor, given the Oath specifically draws power from it.
+-   It is speculated that every person who has taken the Oath of a Warmaster is a member of the Circle of Honor, given the Oath specifically draws power from it.
 -   Their objectives and vows are unknown, but it appears to both be against the interests of The Ministry, but also those of the Authority, given they are the opposite of Contractors yet Jericho fears the actions of the Authority will prevent him from maintaining his Oath.
 
 ### Kyrsgarde
@@ -1556,12 +1556,12 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   The Powers granted to a Contractor are not universal, as swearing the Oath to a different prophet may yield different results.
 -   Since the Oath is directly tied to the will of the Prophet, getting stronger meant completing errands for them. In the case of Zi'eer, you are only tasked with banishing those who had sworn servitude under other causes in the Depths.
 -   The Oath effectively binds anyone in strict servitude of that Prophet and that Prophet alone. In other words, they become puppets and pawns of the Prophet's will.
-    -   However, as explained by Vyrelda (and Chaser who she elaborates on), who are under oath of the Second Prophet, one can be given more liberty if judged strong enough.
+    -   However, as explained by Vyrelda (and Chaser who she elaborates on), who are under Oath of the Second Prophet, one can be given more liberty if judged strong enough.
 -   Similar to how Blindseer and Visionshaper are two Oaths that are against each other. Contractors are a polar opposite Warmasters.
 
 ### Warmasters
 
--   People who have sworn an Oath to the "Circle of Honor". Due to limited information, the terms of the Oath are unknown, though it is likely that the oath is sworn under the pretense of protecting Lumen against the odds.
+-   People who have sworn an Oath to the "Circle of Honor". Due to limited information, the terms of the Oath are unknown, though it is likely that the Oath is sworn under the pretense of protecting Lumen against the odds.
 -   Most Warmasters are members of the Central Authority, for example Warden Jericho being a Warden of the Authority and a Warmaster.[\[1\]](#cite-note-rag-1)
 -   Their powers are known to have "Floating blades", being very similar to the ones that the Stone Knights wield.
 -   As stated by the Windrunner, Warmasters and Contractors are Oaths that are against each other, most likely due to the Warmasters trying to save Lumen from a second drowning, while Contractors seek to being forth another great drowning.

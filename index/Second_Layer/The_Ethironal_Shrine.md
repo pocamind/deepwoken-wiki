@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 123445
+revid: 124989
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -22,7 +22,7 @@ Below the first floor lies the [Sleeping City](New_Kyrsa.md), more detail can be
 
 ## Access
 
-Unlike other dungeons, the Second Layer has multiple different methods to access it, while more in-depth on the [Second Layer](../Second_Layer.md) page, it can be accessed via either jumping into a void while above 50% Health (75% in Player Combat), by taking the Ignition Union’s deepdriller from the Chariot’s Spire, dying in depths to a player with the contractor oath while having an oath or by talking to [Klaris Llfiend, Mother of Lights](../Klaris_Llfiend,_Mother_of_Lights.md) while above Power 15.
+Unlike other dungeons, the Second Layer has multiple different methods to access it, while more in-depth on the [Second Layer](../Second_Layer.md) page, it can be accessed via either jumping into a void while above 50% Health (75% in Player Combat), by taking the Ignition Union’s deepdriller from the Chariot’s Spire, dying in depths to a player with the contractor Oath while having an Oath or by talking to [Klaris Llfiend, Mother of Lights](../Klaris_Llfiend,_Mother_of_Lights.md) while above Power 15.
 
 Going into the dungeon via Klaris will provide a safe-guard in the form of a Light-hook, which will safely eject you back into Layer 1 if you die within the first 20 minutes of entering.
 
@@ -180,7 +180,7 @@ It is important to note that **very few** good items drop from standard enemy lo
 3.  At the entrance, talk to [Epsi](../Epsi.md).
 4.  Choose the **second** dialogue option.
 5.  Talk to Alpha again after rescuing Epsi, then leave the first floor.
-6.  Head to [Miner's Landing](<../Miner's_Landing.md>), then talk to Delta in order to get the oath.
+6.  Head to [Miner's Landing](<../Miner's_Landing.md>), then talk to Delta in order to get the Oath.
 
 #### [Aska's Request](<../Pleeksty's_Inferno.md>)
 

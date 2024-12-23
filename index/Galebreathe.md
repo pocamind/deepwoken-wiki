@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 124856
+revid: 124977
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -420,7 +420,7 @@ _A servant of wind._
 
 ## Talents
 
-Below is a list of all Galebreathe exclusive talents. Hybrid talents are listed [here](Hybrid_Abilities.md#galebreathe).
+Below is a list of all Galebreathe exclusive Talents. Hybrid Talents are listed [here](Hybrid_Abilities.md#galebreathe).
 
 **Galebreather:**
 
@@ -763,7 +763,7 @@ Every 3 hits with a Wind Mantra now procs Suffocate.
 
  | 
 
-Specter Path replaces Suffocation procs with an apparition spawn, making this talent great for that path.
+Specter Path replaces Suffocation procs with an apparition spawn, making this Talent great for that path.
 
  |
 |  | 

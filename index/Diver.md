@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 122687
+revid: 124914
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies]
@@ -16,7 +16,7 @@ A Diver is an NPC that can be found in ambushes, or The Depths during the follow
 
 -   Diver vs Monster ([The Depths](The_Depths.md))
 
-A Diver's appearance only consists of a [Diver Apprentice](Diver_Apprentice_Robes.md) outfit with their [race](Aspects.md) varying.
+A Diver's appearance only consists of a [Diver Apprentice](Diver_Apprentice_Robes.md) outfit with their [aspect](Aspects.md) varying.
 
 ## Moveset
 

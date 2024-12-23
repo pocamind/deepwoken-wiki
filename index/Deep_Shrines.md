@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 124850
+revid: 124976
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -142,7 +142,7 @@ Located in [Songseeker Mines](Songseeker_Wilds.md), through the passage containi
 ## Effect
 
 For 10 Knowledge, balance your stats (up to a limit\*), but gain a random Flaw. Can only be done once per character.  
-You need Power 8+ and NO OATH to perform this deal. (If you made a mistake and your sanity has crumbled, you may break the oath to order yourself,)
+You need Power 8+ and NO OATH to perform this deal. (If you made a mistake and your sanity has crumbled, you may break the Oath to order yourself,)
 
 ## Details
 

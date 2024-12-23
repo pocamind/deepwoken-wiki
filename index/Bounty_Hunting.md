@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 124625
+revid: 125010
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,7 +34,7 @@ A target's bounty points are determined using several factors
 
 -   5 points per power
 -   15 points from having a resonance
--   10 points from having an oath
+-   10 points from having an Oath
 -   10 points from having an enchant/legendary weapon
 -   5/10/15 points depending on armor tier (5 from adept, 10 from expert, 15 from master/unique)
 

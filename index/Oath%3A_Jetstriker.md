@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 124583
+revid: 124951
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -37,7 +37,7 @@ The Oath's powers are attained by Vowing to flow with the Song itself, going whe
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
     -   Wait below the yellow marker, beating her then walking towards her counts as you losing so it's best to just wait until she stops at the marker as well.
 
-_This oath does not become locked after breaking it at Yun'Shul._
+_This Oath does not become locked after breaking it at Yun'Shul._
 
 ## Progression
 
@@ -66,7 +66,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
         -   This Talent is the same as the old legendary Talent named 'Vanishing Follow-Up,' which was removed due to changes in the flourish system after Layer 2 was dropped.
 
 -   **Momentum Bar - Passive**
-    -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player. When maxed-out, mantras will deal more damage and the color of mantras will change according to the cosmetic of the oath.
+    -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player. When maxed-out, mantras will deal more damage and the color of mantras will change according to the cosmetic of the Oath.
 
 -   **Stratos Step - Talent**
     -   While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
@@ -91,7 +91,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 ## Notes
 
 -   The Knockdown for Vigil's Grace didn't cancel the heavy weapon's knockback, so the enemy would just slip away while on the floor.
--   Vigil's Grace card had another oath name instead of Jetstriker, this time being "Oath: Windrunner"
+-   Vigil's Grace card had another Oath name instead of Jetstriker, this time being "Oath: Windrunner"
 -   Jetstriker did not have mantras prior to March 29, 2024.
 -   Aside from how useful it is for trackstar builds, it also has potential to become powerful in both PVE and PVP. This is because of the great offensive and defensive capabilities from the I-frame running m1s and dodges respectively. If this is combined with high Passive Agility Talents and ways to gain speed quickly, you don't have to worry about getting punished for using running m1s, not to mention the insane mobility options this provides. To help this even more you can fully ignore [Scion of Ethiron](Scion_of_Ethiron.md) ultimate by timing the boosted dodge without having to activate things like ghost/risky moves and others.
 -   Using a Dye Packet to dye the Jetstriker Anklets dyes the anklets as well as the Dash effect, Momentum bar, and Stratos Steps.

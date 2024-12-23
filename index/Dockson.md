@@ -1,6 +1,6 @@
 ---
 title: Dockson
-revid: 124569
+revid: 124942
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors]
@@ -28,4 +28,4 @@ He uses [Summer Company Uniform](Summer_Company_Uniform.md) and cannot be hurt o
 
 ## Trivia
 
--   His dialogue changes depending on the race of the player, addressing them by it.
+-   His dialogue changes depending on the aspect of the player, addressing them by it.

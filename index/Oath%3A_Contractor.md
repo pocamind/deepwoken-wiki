@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 124196
+revid: 124963
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -35,7 +35,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
     -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at [Summer](Summer_Isle.md) [Isle](Summer_Isle.md) for them to not see worth fighting you anymore.
     -   The Bounty version of the [Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Blood Loss or Starvation will not count.
     -   You can also get this by trading knowledge with [Soothsayer](Soothsayer.md) (require atleast 8 knowledge to have neutral reputation with [The Ministry](The_Ministry.md)).
-    -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this oath, in order to keep your rep with ministry as neutral as possible.
+    -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing) (Second dialogue is **NOT** required for the Duke Erisia questline)
 3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue". (This step is not required; it is safer to simply never talk to the Lord Regent until you have done everything listed below instead.)
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the **Shrine of Order**, **Shrine of Solitude** and **Shrine of Mastery (stat allocation)** works, including those in the [Temple of Hearts](Temple_of_Hearts.md). (As of right now using the Shrine of Mastery to re-evaluate your stats doesn't work.)
@@ -53,18 +53,18 @@ As tasked by The Lord Regent, to obtain the Talents and mantras, you must grip p
 -   2nd Grip - Equalizer
 -   3rd Grip - String Trick and Judgement
 
-Alternatively you may spend 10 knowledge to immediately max out the oath. This is only possible if you have already completed the Oath progression normally at least once after the 26/04/2024 update, or you have logged in on an already progressed Contractor slot after that date.
+Alternatively you may spend 10 knowledge to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the 26/04/2024 update, or you have logged in on an already progressed Contractor slot after that date.
 
 ## Effects
 
-_Upon obtaining this oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a very dark red, making your expression appear almost empty and devoid of good empathy._
+_Upon obtaining this Oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a very dark red, making your expression appear almost empty and devoid of good empathy._
 
 ## Abilities
 
 -   **Hidden Tendril - Passive (+10 Ether)**
     -   Landing any physical mantra places a Hidden Tendril on the opponent.
         -   Physical critical attacks, uppercuts, flourishes, and most attunement-less mantras will also apply a Hidden Tendril.
-        -   **All** of this oaths abilties are unable to be used on Non-Humanoids.
+        -   **All** of this Oaths abilties are unable to be used on Non-Humanoids.
 
 -   **String Trick - Passive**
     -   Pulls together any two opponents you've attached Hidden Tendril to.
@@ -75,7 +75,7 @@ _Upon obtaining this oath, four black-and-red marionette-esque strings will embe
         -   The target gains invincibility frames while active.
         -   **Instantly executes** if it brings the target's HP to 0 or used on a knocked target.
         -   Can be vented out of, and can also parried as soon as you hear the 'snap' sound.
-        -   Does 60 oath damage.
+        -   Does 60 Oath damage.
 
 -   **Lords Slice - Combat Mantra**
     -   The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions. The target takes more damage and blood loss after the pull.
@@ -96,9 +96,9 @@ _Upon obtaining this oath, four black-and-red marionette-esque strings will embe
 -   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be moderately lowered. If you had neutral reputation, it would be set to Hunted. Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
     -   Reputation, however, can no longer be bought for The Divers. You can still talk to them and they'll say you can pay off the Divers, though this does nothing.
     -   Being a member of The Divers' guild will prevent your reputation from being drained when you swear the Oath.
--   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
+-   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the Oath.
     -   However, those with Contractor builds that have the weapon already equipped are able to use it until they switch weapon.
--   Progressing Contractors will send victims it kills to Layer 2 instead of wiping. Only applies if the contractor does not have 3 oath grips
+-   Progressing Contractors will send victims it kills to Layer 2 instead of wiping. Only applies if the contractor does not have 3 Oath grips
     -   Counts as a drown
 -   Before 25/08/23, four specific [Deep Shrines](Deep_Shrines.md) deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.
 -   The Deep Shrines in [Temple of Hearts](Temple_of_Hearts.md) are able to be used to meet Contractor requirements.
@@ -109,6 +109,6 @@ _Upon obtaining this oath, four black-and-red marionette-esque strings will embe
 -   Changes dialogue with Duke Erisia.
 -   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
 -   Completing the Contractor quest with an Oath will cause Lord Regent to say, "Then you are truly a fool." and kill you, instead of obtaining Contractor.
--   Because of how the steps to getting the oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, bite your tongue, talk to Yun'Shul with a resonance, then obtainment. The finale will always be biting your tongue, talking to Yun'Shul, then obtainment, meaning you can do all the steps in whatever order.
+-   Because of how the steps to getting the Oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, bite your tongue, talk to Yun'Shul with a resonance, then obtainment. The finale will always be biting your tongue, talking to Yun'Shul, then obtainment, meaning you can do all the steps in whatever order.
 -   Lord's Slice is heavily reminiscent of Owl Slash, a move used by the [Shinobi](https://rogue-lineage.fandom.com/wiki/Shinobi) class in Studio Monad's older game, [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
 -   Dialogue with the Etrean Royal Guard changes to "Ah, the benevolent Lord Regent's associate has returned. Has he granted you a new task?"

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 124205
+revid: 124965
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -42,17 +42,17 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
 -   Give him a Dark Feather. [Surge](Surge.md) will become OwlSurge and the area will seamlessly transition.
 -   When you go to leave Surge's room, you will find yourself within [A Conscious Intersection](A_Conscious_Intersection.md).
     -   **Do not fall into the void**, doing so will send you down into [Layer 2](Second_Layer.md) without a lighthook.
-    -   Talk to the [Nestmind](The_Nestmind.md), ensuring you select the first options. Once the Nestmind mentions food select "I accept" to take the oath.
+    -   Talk to the [Nestmind](The_Nestmind.md), ensuring you select the first options. Once the Nestmind mentions food select "I accept" to take the Oath.
     -   Refusing to become the [Nestmind](The_Nestmind.md)'s food will steal your dark feather and teleport you back to reality.
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=MXBJfraH_cI)._
 
 ## Progression
 
-To progress Visionshaper, [Void Feathers](Dark_Feather.md) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, 5 Void Feathers are needed to completely progress the oath, taking 16 Dark Feathers to if only crafting Void Feathers.
+To progress Visionshaper, [Void Feathers](Dark_Feather.md) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, 5 Void Feathers are needed to completely progress the Oath, taking 16 Dark Feathers to if only crafting Void Feathers.
 
 -   Void Feathers can be crafted using 3 [Dark Feathers](Dark_Feather.md) and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop Void Feathers.
--   Alternatively you may spend 10 knowledge to immediately max out the oath (Only if you logged in on a slot with maxxed out Visionshaper after the 26/04/2024 update).
+-   Alternatively you may spend 10 knowledge to immediately max out the Oath (Only if you logged in on a slot with maxxed out Visionshaper after the 26/04/2024 update).
 
 The abilities below are listed in order of obtainment.
 
@@ -69,18 +69,18 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
         -   Clones walk towards their target like a humanoid NPC, and they stop fighting entirely if their target dies.
         -   The clones appear to do half of the caster's damage.
         -   Clones disappear if hit 3 times, but are immune to damage over time effects.
-            -   Clones do not copy enchantments or most talents.
+            -   Clones do not copy enchantments or most Talents.
     -   Duration scales with your progress of the Visionshaper Oath. **\[test needed to see if this is true\]**
     -   If the target has the Disbelief Talent, the duration of the clone is shortened.
     -   Shaper Clones _do_ apply hit-stun.
 
 -   **Reality Shift - Passive**
     -   Command the closest conjured servant to attack their hallucinating target, using either a Critical Attack or a Mantra.
-        -   The last non-oath mantra or critical attack you used before spawning your clones will be stored into the clone. The stored ability will be listed above the clone's head in white text with a purple outline.
+        -   The last non-Oath mantra or critical attack you used before spawning your clones will be stored into the clone. The stored ability will be listed above the clone's head in white text with a purple outline.
         -   Pressing J or utilizing the Reality Shift tool will make your clones use their stored ability.
         -   Clones created from Mirror Illusion will copy your opponent's last used critical or mantra instead.
         -   If the clone is too far away from your opponent upon using Reality Shift, they will teleport to them.
-        -   Clones will copy your attunement path and mantra modifiers when utilizing your mantras, but they do **not** utilize your enchants or most talents.
+        -   Clones will copy your attunement path and mantra modifiers when utilizing your mantras, but they do **not** utilize your enchants or most Talents.
         -   Reality Shift cannot be activated if no targets are nearby.
         -   Clones will only copy the standing critical or aerial of weapons and cannot trigger any other alternate criticals of weapons like [Boltcrusher](Boltcrusher.md) or [Deepspindle](Deepspindle.md).
 
@@ -99,7 +99,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 -   **Shaper Mimicry - Passive**
     -   The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.
         -   Your clones will repeat your basic actions like jumping, M1'ing, blocking, venting, and parrying.
-            -   Although it isn't listed in the talent description, your clones will also vent when you vent.
+            -   Although it isn't listed in the Talent description, your clones will also vent when you vent.
 
 -   **Cheap Trick - Passive**
     -   When hit below 50% health, turn invisible and summon a Shaper Clone, granting I-frames on activation.

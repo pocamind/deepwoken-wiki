@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 124203
+revid: 124971
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -48,7 +48,7 @@ Get a [Vibrant Gem](Mantra_Modifiers.md), [Pluripotent Alloy](Pluripotent_Alloy.
 
 ## Effects
 
-This oath makes the Perpetual Distillery appear on your character's arm.
+This Oath makes the Perpetual Distillery appear on your character's arm.
 
 ## Talents
 
@@ -94,8 +94,7 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 -   Puts potions on cooldown.
 -   Deals a small amount of damage, with a small amount of hit-stun.
 -   Plays a sound cue
--   Small auto-track  
-    
+-   Small auto-track
 
 ## Location
 

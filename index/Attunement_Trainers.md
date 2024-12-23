@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 122566
+revid: 124987
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -14,7 +14,7 @@ Attunement Trainers are NPCs around the map that level up Mantras for money. Eac
 
 A Trainer needs intervals of 20 points in your Attunement to upgrade a Mantra of the same elemental type as the trainer to upgrade, maxing out at Level 5 and 100 Attunement points.
 
-Killing trainers is also the progression for the [Silentheart Oath](Oath%253A_Silentheart.md), excluding [Beatra](Beatra.md), [Vyrelda](Vyrelda,_Master_of_Blood.md) and [Regek,](Regek.md) who cannot and do not need to be killed to progress the oath. Each trainer also uses a weapon similar to their attunement, for instance Nell uses the [Gran Sudaruska](Gran_Sudaruska.md), a [Frostdraw](Frostdraw.md) weapon.
+Killing trainers is also the progression for the [Silentheart Oath](Oath%253A_Silentheart.md), excluding [Beatra](Beatra.md), [Vyrelda](Vyrelda,_Master_of_Blood.md) and [Regek](Regek.md), who cannot and do not need to be killed to progress the Oath. Each trainer also uses a weapon similar to their attunement, for instance Nell uses the [Gran Sudaruska](Gran_Sudaruska.md), a [Frostdraw](Frostdraw.md) weapon.
 
 For example:
 
@@ -71,7 +71,7 @@ When fought, he uses a [Hero Blade of Flame](Hero_Blades.md).
 
  | [Thundercall](Thundercall.md) | [Funke](Funke,_Master_of_Thunder.md) | [Summer Isle](Summer_Isle.md) | He is located in the second floor of the castle. | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
 
-When fought, he uses a [Stormseye.](Stormseye.md)
+When fought, he uses a [Stormseye](Stormseye.md).
 
  |
 | 

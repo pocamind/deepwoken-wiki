@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 124065
+revid: 124930
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,11 +8,9 @@ categories: [Mechanics]
 
 # Servers
 
-## Description
-
 As of September 4th, 2022, there are new server names. These include Executioner, Fence, Squire, and Vainglorious.
 
-Servers are the way to join Deepwoken. They are comprised of a random adjective and a random noun from the list below. The Etrean Luminant can host 20 people, the Eastern Luminant 18, and [The Depths](The_Depths.md) 16.
+**Servers** are the way to join Deepwoken. They are comprised of a random adjective and a random noun from the list below. The Etrean Luminant can host 20 people, the Eastern Luminant 18, and [The Depths](The_Depths.md) 16.
 
 Servers in [The Depths](The_Depths.md) will look different if Hell Mode is currently active. The border will be red instead of the usual white, indicating Hell Mode.
 
@@ -169,7 +167,7 @@ _Please note that it is possible that some locations may have been missed, as Ro
 
 -   Rogue might be a reference to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), another game made by Arch\_mage and Ragoozer, similarly to Deepwoken.
 -   Ironsinger was the only unreleased [Attunement](Attunements.md) to be a server's noun, however this is no longer the case after it got released.
--   Every [Race](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are Race variants, and not their independent Race.
+-   Every [aspect](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are aspect variants, and not their own independent aspect.
 -   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, and Wind Gem have their first names as server nouns.
 -   When joining layer 2 the server loading screen will be white instead of the usual dark green.
 -   Inside dungeons, the only way to control which server location you connect to is to rejoin.

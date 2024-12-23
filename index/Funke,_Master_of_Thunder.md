@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 119422
+revid: 125002
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs, The Divers, Diver Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Funke is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Thundercall](Thundercall.md) trainer.
 
-In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) to Funke (2 if you have already obtained the attunement). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five oath Talents. They are found at the 2nd floor of the [Summer Isle's](Summer_Isle.md) castle inside the alchemy room.
+In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) to Funke (2 if you have already obtained the attunement). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents. They are found at the 2nd floor of the [Summer Isle's](Summer_Isle.md) castle inside the alchemy room.
 
 ## Moveset
 

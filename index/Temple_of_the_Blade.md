@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 123453
+revid: 124992
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea]
@@ -31,7 +31,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 #### Courtyard
 
 -   Players can find Stratos, a Vigil NPC and a boulder (FTD) which is sold for 25 notes.
--   A [Jetstriker](Oath%253A_Jetstriker.md) orb can spawn at this location, in front of Stratos for those who are progressing the oath.
+-   A [Jetstriker](Oath%253A_Jetstriker.md) orb can spawn at this location, in front of Stratos for those who are progressing the Oath.
 
 #### Bookstore
 

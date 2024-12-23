@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 112404
+revid: 125007
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -27,7 +27,7 @@ Sky Statue located next to Lower Erisia
 
 Sky Statue located in Etris behind Lord Regent's Manor.
 
-These are relevant to the [Bladeharper oath](Oath%253A_Bladeharper.md).
+These are relevant to the [Bladeharper Oath](Oath%253A_Bladeharper.md).
 
 File:Sky Statue Puzzle Dialogue (Might be edited).png
 

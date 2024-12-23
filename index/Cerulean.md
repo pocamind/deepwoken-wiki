@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-revid: 123772
+revid: 124902
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
@@ -11,6 +11,7 @@ categories: [NPCs, Oaths]
 | Cerulean | |
 |---|---|
 | name | Cerulean |
+| aspect | Celtor |
 | location | Miner's Landing |
 
 “ May your travels be everlasting. ”
@@ -184,7 +185,7 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 
 ## Trivia
 
--   His [Celtor](Celtor.md) race variant is Marten(?).
+-   His [Celtor](Celtor.md) aspect variant is Marten(?).
 -   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Cerulean City_](https://bulbapedia.bulbagarden.net/wiki/Cerulean_City).
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Saffron](Saffron.md), [Celadon](Celadon.md), and [Viridian](Viridian.md).
 -   Cerulean usually means the shade of the color blue.

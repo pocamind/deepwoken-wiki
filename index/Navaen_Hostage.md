@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 114969
+revid: 124968
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters, Children of Navae]
@@ -31,7 +31,9 @@ Giving back what is rightfully theirs.
 
 ## Trivia
 
--   For some strange reason, there is a brick that spawns a single Hostage above the [Trial of One](Trial_of_One.md). Even more bizarrely, should it be thrown off the cube the dungeon takes place in, the Parry Check orbs will be incapable of dealing any actual damage.
+-   Being combat tagged by ".hostage\_nomad1".
+    
+    For some strange reason, there is a brick that spawns a single Hostage above the [Trial of One](Trial_of_One.md). If you are hit by the first parry-check orb and you hover over the combat tag skull, you'll find yourself combat tagged by _".hostaage\_nomad1"_; apparently, the Nomad is the one attacking you. Should it be thrown off the cube the dungeon takes place in, the Parry Check orbs will be incapable of dealing any actual damage.
 -   They **can** be gripped, but there is little reward outside of a little EXP.
 -   They can be turned in to [Alastir](Alastir.md) for a chest.
 -   One way to get the Way of Navae fighting style relatively easily is by hiding in a bush near the Navae Camp in [Etris](Etris.md) and kidnapping the hostage from another person who found them. Be warned though, the other person will try and get them back, and, if they are a much higher level than you, guarantees your death, even if you get the style.
