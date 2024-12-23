@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 124844
+revid: 125046
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2192,7 +2192,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10</td>
   <td>0.62x</td>
   <td>N/A</td>
-  <td>61.3</td>
+  <td>57.2</td>
 </tr>
 <tr>
   <td><a href="Kanabo.md">Kanabo</a></td>
@@ -2909,14 +2909,14 @@ Weapons/Weapon Skins that are exclusive for special people.
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Moon_Blades"><font>Moon Blades</font></a> (<b>Bleed</b>)</td>
-  <td>60 LHT, 30 INT</td>
-  <td>13 + 3.9 BLD</td>
+  <td>60 LHT; 30 INT</td>
+  <td>13</td>
   <td>30%</td>
-  <td>???</td>
-  <td>8 LHT, 2 INT</td>
+  <td>N/A</td>
+  <td>LHT: 8, INT: 2</td>
   <td>4</td>
-  <td>6.5</td>
-  <td>0.98x</td>
+  <td>6</td>
+  <td>1.25x</td>
   <td>0.05s</td>
   <td>34.6(<b>Bleed</b>)</td>
 </tr>

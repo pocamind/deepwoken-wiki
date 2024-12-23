@@ -1,9 +1,11 @@
 ---
 title: Drakkard
-revid: 124623
+revid: 125088
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Exclusive aspects, Aspects, Exclusive, Developer Spec]
+categories: [Exclusive, Pages with broken file links, Exclusive aspects, Aspects, Developer Spec]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
 
 # Drakkard
@@ -11,8 +13,6 @@ categories: [Pages with broken file links, Exclusive aspects, Aspects, Exclusive
 Template:Races-Main
 
 _Hailing from the Northern Luminant, these worshippers of the Edenkite are auspicious mediators of conflict. Awarded to Moderators for their help._
-
-Chance of obtaining aspect: **0%**
 
 ## Description
 

@@ -1,9 +1,11 @@
 ---
 title: "Worldshaper's Laurel"
-revid: 123636
+revid: 125085
 source: https://deepwoken.fandom.com/wiki/Worldshaper's_Laurel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Ornaments, Exclusive, Hats, Items]
+categories: [Exclusive, Equipment, Head, Ornaments, Hats, Items]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
 
 # Worldshaper's Laurel

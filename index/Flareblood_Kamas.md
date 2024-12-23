@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 123654
+revid: 125048
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]

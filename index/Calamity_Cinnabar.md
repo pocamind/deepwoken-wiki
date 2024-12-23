@@ -1,9 +1,11 @@
 ---
 title: Calamity Cinnabar
-revid: 122187
+revid: 125067
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Exclusive]
+categories: [Exclusive, Weapons, Greatswords]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
 
 # Calamity Cinnabar

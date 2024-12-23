@@ -1,9 +1,11 @@
 ---
 title: Moon Blades
-revid: 123671
+revid: 125074
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Core-Attribute based weapons", Daggers, Exclusive]
+categories: [Exclusive, Weapons, "Core-Attribute based weapons", Daggers]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
 
 # Moon Blades
@@ -14,10 +16,11 @@ categories: [Weapons, "Core-Attribute based weapons", Daggers, Exclusive]
 | requirements | 60 LHT, 30 INT |
 | damage | 13 + 3.9 BLD |
 | scaling | LHT: 8, INT: 2 |
-| range | 6.5 |
-| swing speed | 0.98x |
+| range | 6 |
+| swing speed | 1.25x |
+| endlag | 0.05s |
 | penetration | 30% |
-| special effect | On hit, take away mediocre amounts of blood from your opponent. |
+| special effect | On hit, take away small amounts of blood from your opponent. |
 | stances | 1 Handed |
 | weight | 4 |
 | bankable | Yes |

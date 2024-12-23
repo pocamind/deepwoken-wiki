@@ -1,9 +1,11 @@
 ---
 title: A Lot of Hats
-revid: 116409
+revid: 125080
 source: https://deepwoken.fandom.com/wiki/A_Lot_of_Hats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Developer Spec, Exclusive, Items]
+categories: [Exclusive, Equipment, Head, Hats, Developer Spec, Items]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
 
 # A Lot of Hats

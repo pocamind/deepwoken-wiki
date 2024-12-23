@@ -1,9 +1,11 @@
 ---
 title: Developer Specs
-revid: 124454
+revid: 125069
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken, Developer Specs]
+categories: [Exclusive, Deepwoken, Developer Specs]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
 
 # Developer Specs
@@ -223,11 +225,9 @@ Paintbrush - Winning an Art Contest
 
 [Unsung Scythern](Unsung_Scythern.md) - Exclusive Custom.
 
-[Quartzstone Scythe](Quartztone_Pickaxe.md) - Exclusive Custom for certain members of "Order of the Unsung"
-
 [Moon Blades](Moon_Blades.md) - Exclusive Skin for the [Flareblood Kamas](Flareblood_Kamas.md)
 
-Key of the Drowned - Exclusive Skin for the [Hero Blade of Wind](Hero_Blades.md).
+[Keyblade](Keyblade.md) - Exclusive Skin for the [Hero Blade of Wind](Hero_Blades.md).
 
 [Calamity Cinnabar](Calamity_Cinnabar.md) - Exclusive Skin for the [Crypt Blade](Crypt_Blade.md).
 

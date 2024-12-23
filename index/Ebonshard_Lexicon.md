@@ -1,9 +1,11 @@
 ---
 title: Ebonshard Lexicon
-revid: 124842
+revid: 125079
 source: https://deepwoken.fandom.com/wiki/Ebonshard_Lexicon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Developer Spec, Developer Specs]
+categories: [Exclusive, Weapons, Developer Spec, Developer Specs]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
 
 # Ebonshard Lexicon
