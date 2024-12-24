@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 125000
+revid: 125185
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -27,7 +27,7 @@ Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md
 
 Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
 
-Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial prejudice of some sort. Whilst other races are present in the Authority's ranks, they are usually relegated to rank-and-file soldiers. The only exception to this rule are [Canor](Canor.md), who receive mild preferential treatment.
+Their upper ranks mostly consist of [Adrets](Adret.md). Whilst other races are present in the Authority's ranks, they are usually rank-and-file soldiers.
 
 ## Gameplay
 
@@ -82,7 +82,7 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
     -   These may be due to the closing of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) cutting off orders and reinforcements from the Central Luminant.
     -   Interestingly, [Warden Jericho](Warden_Jericho.md) believes the Authority's peacekeeping may be contributing to the drowning, likely due to the casualties it's generating.
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.
--   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions. They don't invade each other, they only fight on the battlegrounds of Aratel.
+-   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions. They don't invade each other; they only fight on the battlegrounds of Aratel.
 -   There will be an Authority Origin in future updates, possibly alongside the Warmaster Oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
--   The Authority has an unofficial marching song called "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)", named after (and written by) the first lieutenant of the Authority, August Gideshu. The march quickly became popular among the many regiments, and has therefore become a popular marching song. Some even consider it the Authority's unofficial anthem, though the more elite Authority members views on this are not entirely clear.
+-   The Authority has an unofficial marching song called "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)", named after (and written by) the first lieutenant of the Authority, August Gideshu. The march quickly became popular among the many regiments and has therefore become a popular marching song. Some even consider it the Authority's unofficial anthem, though the more elite Authority members views on this are not entirely clear.
     -   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying, "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.

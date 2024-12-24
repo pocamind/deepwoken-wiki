@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 123754
+revid: 125175
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -577,6 +577,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | 
@@ -623,6 +624,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -702,6 +704,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -724,6 +727,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | Black & Double |
 |  | 
@@ -2120,6 +2124,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Lavender First Ranger Duster.png | 
@@ -2544,6 +2549,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -2562,6 +2568,7 @@ _+1 Posture_
 
 Found from:
 
+-   Given from [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) during the [Tutorial](Tutorial.md)
 -   [Erisia](Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -3164,9 +3171,9 @@ _+Talent: Replenishing Knockout_
 Found from:
 
 -   [Erisia](Erisia.md)
--   Given from [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) during the [Tutorial](Tutorial.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -3299,6 +3306,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -3483,6 +3491,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  |
@@ -3656,6 +3665,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -3779,6 +3789,7 @@ Found from:
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -3818,6 +3829,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -4000,6 +4012,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 
@@ -4915,6 +4928,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
 
  | N/A |
@@ -4949,6 +4963,7 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Rabel Bandana.png | 
@@ -5028,6 +5043,7 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
@@ -5499,6 +5515,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
  |
@@ -6090,6 +6107,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  |
 

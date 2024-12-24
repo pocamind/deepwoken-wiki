@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 121874
+revid: 125167
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -23,7 +23,7 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Merchant Ships, Voidwalker Bounties |
+| obtainment | Erisia, Merchant Ships, Voidwalker Bounties, Dread Serpent |
 | description | "A knife of fine craftmanship, bearing an equally fine sharpness." |
 
 ## Description

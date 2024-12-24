@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 124340
+revid: 125187
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement, Elemental Ingredients]
@@ -25,7 +25,7 @@ Gale Stones can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.m
 ## Obtainment Tips
 
 -   Killing [Legion Soldiers](Legion_Soldier.md) and [Etrean Soldier](Etrean_Soldier.md) can drop Gale Stones, and you will not lose reputation among killing them in events at [Erisia](Erisia.md).
--   The [Etrean Guardsmen](Etrean_Guardsmen.md) at [Etris](Etris.md) do not drop Gale Stones.
+-   The [Etrean Guardsmen](Etrean_Guardsmen.md) and [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) at [Etris](Etris.md) drop Gale Stones at an extremely slim chance.
 -   Killing [Mudskippers](Mudskipper.md) also has a chance to rarely drop Gale Stones.
 -   Killing [Songseeker Galebreather](Songseeker_Galebreather.md) can also drop Gale Stones.
 -   Killing [Legion Soldier](Legion_Soldier.md) at the Legion Camp is probably the fastest way to grind Gale Stones, due having 2 [Legion Soldier](Legion_Soldier.md) always spawned.
@@ -33,3 +33,4 @@ Gale Stones can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.m
 ## Trivia
 
 -   As Gale Stones have a somewhat similar appearance to a sea shell, the fact that "a faint whisper of wind" can be heard inside them could be a reference to the way some sea shells allow one to hear the ocean.
+-   These little buggers are _ELUSIVE_ when you need them

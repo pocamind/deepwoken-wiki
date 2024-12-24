@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 122842
+revid: 125161
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -183,10 +183,6 @@ Ether
  | Grab and siphon blood out of your victim. | 50 Ether | N/A | Dash forward with a blood-infused fist before lifting any and all target(s) in its way whilst causing the target(s) to implode with blood.
 
 -   Deals moderate damage.
-
-File:Soulflare.gif
-
-When no target is hit
 
  |
 | 

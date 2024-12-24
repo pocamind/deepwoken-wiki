@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 124957
+revid: 125193
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -88,7 +88,6 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 ### Upcoming Oaths
 
--   [Saintsworn](Oath%253A_Saintsworn.md) **\[More information needed\]**
 -   [Soulbreaker](Oath%253A_Soulbreaker.md) **\[More information needed\]**
 
 ## Oath Skipping

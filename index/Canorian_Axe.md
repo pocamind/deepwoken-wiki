@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 124211
+revid: 125173
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
@@ -10,6 +10,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
 
 | Canorian Axe | |
 |---|---|
+| alloyed name | Template:AlloyedColor |
 | type | Greataxe |
 | requirements | 35 HVY / 75 HVY |
 | damage | 23.5 / 24 |
@@ -25,7 +26,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Merchant Ships, Crypt of the Unbroken |
+| obtainment | Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Merchant Ships, Crypt of the Unbroken, Dread SerpentAlloyed:, Alloying a Canorian Axe |
 | description | "An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire." |
 
 ## Description

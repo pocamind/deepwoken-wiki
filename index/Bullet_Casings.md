@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 114974
+revid: 125194
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -34,7 +34,7 @@ The Bullet will slow down the target on hit, however at a downside of dealing 20
 
 **Umbrite:**
 
-The Bullet will have 20% increased damage on hit, however at a downside of the firing speed of the gun being reduced by a 25%.
+The Bullet will have 10% increased damage on hit, however at a downside of the firing speed of the gun being reduced by a 25%.
 
 **Erisore:**
 
