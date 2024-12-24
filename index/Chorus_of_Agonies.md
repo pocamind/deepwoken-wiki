@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 125383
+revid: 125595
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, InProgressPages]
@@ -11,8 +11,8 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, InProgressPages]
 | Chorus of Agonies | |
 |---|---|
 | type | Greataxe |
-| requirements | 100 HVY 80 STR PWR 20 |
-| damage | 27.6 |
+| requirements | 100 HVY 20 STR PWR 10 |
+| damage | 26 |
 | scaling | HVY: 11 |
 | range | 10 |
 | swing speed | 0.62x |
@@ -38,4 +38,6 @@ Stomp the ground with hyper armor and lead up with an overhead strike with your 
 ## Trivia
 
 -   The weapon is named The Brutalizer when viewed at a campfire.
+-   This weapon is not droppable, but it's bankable
 -   The weapon has the highest weight of any weapon in the game at 15, beating the previous record holder, the [Sovereign's Punishment](<Sovereign's_Punishment.md>) by 2.
+-   Used to have a [Strength](Attributes.md#strength) requirement of 80, however this was reduced down to 20 shortly after the weapon released.

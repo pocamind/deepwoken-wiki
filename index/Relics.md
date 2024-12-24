@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 124072
+revid: 125587
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -368,7 +368,7 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 
 ## Trivia
 
--   All Relics are undroppable, meaning if you want a Relic, you must obtain it through chest loot.
+-   All Relics _(excluding [Dormant Splinter](Dormant_Splinter.md))_ are undroppable, meaning if you want a Relic, you must obtain it through chest loot.
 -   All Relics are storeable in banks, which means you can transfer them between slots. However, they do require a Vow of Safekeeping, which costs 1 knowledge to make.
 -   Some relics (Smith’s Alloy, Sinner’s Ash, Moonseye Tome, Idol of Yun’Shul) were ideas by the YouTuber Agamatsu.
 -   Video: [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)

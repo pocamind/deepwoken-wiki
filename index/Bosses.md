@@ -1,9 +1,8 @@
 ---
 title: Bosses
-revid: 125296
+revid: 125523
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Bosses]
 ---
 
 # Bosses
@@ -27,9 +26,3 @@ The concrete, in-game method of determining if an Enemy/Monster is a **Boss** is
 ## Mini-Bosses
 
 Mini-Bosses are particularly strong Enemies/Monsters, but are not true Bosses due to lacking the Chain of Perfection criteria. However, they fulfill many of the secondary criteria, and are still unique challenges with unique purposes and rewards in their own right.
-
-## World Bosses
-
-World Bosses are massive, server-wide Boss entities which, despite not being able to fulfill the Chain of Perfection criteria (due to the impossibility of taking them down without taking some damage), are still obviously incredibly dangerous, powerful, and rewarding foes.
-
-Insert gallery, will likely include Parasol, World Serpent, and whatever the Circus may spawn

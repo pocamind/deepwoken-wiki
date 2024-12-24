@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 125380
+revid: 125592
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1761,7 +1761,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Chorus_of_Agonies"><font>Chorus of Agonies</font></a></td>
-  <td>100 HVY, 80 STR, LVL 20</td>
+  <td>100 HVY, 20 STR, LVL 20</td>
   <td>27.6</td>
   <td>N/A</td>
   <td>75%</td>
@@ -3024,7 +3024,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
 -   The weapon with the highest:
     -   Base Damage: [Divine Greatsword](Crazy_Slots.md) (30)
     -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md), [Chorus of Agonies](Chorus_of_Agonies.md) (100 HVY)
-    -   Dual Requirement: [Chorus of Agonies](Chorus_of_Agonies.md) (100 HVY, 80 STR)
+    -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
     -   Triple Requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
     -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)
     -   Penetration: [Shattered Katana](Shattered_Katana.md)/[First Light](First_Light.md)/[Nemit's Sickle](<Nemit's_Sickle.md>)/[Kyrsedge](Kyrsedge.md)/[Kyrstreza](Kyrstreza.md)/[Flareblood Kamas](Flareblood_Kamas.md)/[Pernach](Pernach.md)/[Pleeksty's Inferno](<Pleeksty's_Inferno.md>)/[Nocturne](Nocturne.md) (30%)

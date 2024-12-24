@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 119997
+revid: 125459
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -54,7 +54,7 @@ When obtained, Dimensional Travel will spend its Resonance points on the followi
         -   Upon using Dimensional Travel, the game will log your raw offset and adjusted offset coordinates. You can find these in the Roblox F9 menu; by dividing your raw offset coordinates by your adjusted offset coordinates, you can find your multiplier for Dimensional Travel.
         -   Despite being obsolete with the introduction of the map mechanic, you can use [this Google document](https://docs.google.com/document/d/1NgO8UEaPPCDxv1CiVzfERxjHIU0Q2p7GxjtoyPeCm9I/edit) to travel using coordinates. You can view your coordinates by pressing Shift + F3, then Shift + 1 four times.
 
-If Dimensional Travel is Drowned, in addition to the extra Resonance points to spend, the _Use in Combat_ stat is given by default, essentially combining both variants of base Kamui.
+If Dimensional Travel is Drowned, in addition to the extra Resonance points to spend, the _Use in Combat_ stat is given by default, essentially combining both variants of base Dimensional Travel.
 
 ## Tips/Trivia
 

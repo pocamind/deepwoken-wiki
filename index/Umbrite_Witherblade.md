@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 125206
+revid: 125542
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -56,6 +56,8 @@ The user gains a purple sigil on their head and aura around them with brief hype
 
 ## Version History
 
+-   December 24th 2024.
+    -   Increased Umbrite Witherblade swing speed (1x -> 1.02x)
 -   December 19th 2024.
     -   Base damage reduced (14 -> 13)
     -   MED Scaling reduced (14 -> 10)

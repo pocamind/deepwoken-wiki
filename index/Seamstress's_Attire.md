@@ -1,6 +1,6 @@
 ---
 title: "Seamstress's Attire"
-revid: 125289
+revid: 125590
 source: https://deepwoken.fandom.com/wiki/Seamstress's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits]
@@ -27,3 +27,5 @@ This Outfit has 2000 durability and grants +20% Elemental resistance, +25% Physi
 This Outfit's Schematic can be found in:
 
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
+-   [First Layer](First_Layer.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)

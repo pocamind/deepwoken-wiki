@@ -1,14 +1,13 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 125186
+revid: 125583
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1, The Divers, The Ministry]
 ---
 
 # Chaser, Scholar of the Crimson Contract
 
-“ Mm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach [the City.](Second_Layer/New_Kyrsa.md) ”
+“ Mm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the [City.](Second_Layer/New_Kyrsa.md) ”
 
 ― Chaser
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 125209
+revid: 125579
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -302,7 +302,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
     -   40% tempo gain, ~40-75% ether gain, ~1-2% blood gain, 5% health gain (Needs testing)
-    -   **NOTE: The health gain is currently bugged and you DONT gain any extra health upon kills in PvE AND PvP.**
+    -   **NOTE: The health gain WAS bugged and you didn't gain any extra health upon kills. It is now fixed and works as it should.**
     -   Prerequisite: Carnivore
 
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
@@ -1698,7 +1698,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).
     -   Prerequisite: [Power](Power.md) 10
 
--   Old Habits Die Hard \[Common Talent\] - A blocked attack after a failed parry will cause the attack to deal half posture. (+5 Health)
+-   Old Habits Die Hard \[Common Talent\] - A blocked attack after a failed parry will cause the attack to deal 25% less posture damage. (+5 Health)
     -   Prerequisite: 20 Willpower
 
 -   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your M1's and critical attacks have an additional +5% PEN on top.

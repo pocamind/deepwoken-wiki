@@ -1,6 +1,6 @@
 ---
 title: Cerulean Gown
-revid: 125264
+revid: 125434
 source: https://deepwoken.fandom.com/wiki/Cerulean_Gown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits]
@@ -27,3 +27,4 @@ This Outfit has 1500 durability and grants +20% Physical resistance, +25% Elemen
 This Outfit's Schematic can be found in:
 
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
+-   [First Layer](First_Layer.md)

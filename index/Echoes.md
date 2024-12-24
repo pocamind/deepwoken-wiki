@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 122557
+revid: 125575
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -32,7 +32,7 @@ A Rank now gives 1 character slot for free.
 
 S Rank is achievable by doing all echoes tasks (listed below).
 
-A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Vow of Thorns.
+A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Vow of Thorns and Glass Bones.
 
 W Rank being obtained
 
@@ -40,7 +40,7 @@ W Rank being obtained
 
 | Rank | Echoes Amount |
 | --- | --- |
-| W | 140 (441 w/ all Echoes Modifiers except Vow of Thorns) |
+| W | 140 (441 w/ all Echoes Modifiers except Vow of Thorns and Glass Bones) |
 | S | 140 (Must do all echoes tasks) |
 | A | 112-139 |
 | B | 87-111 |
@@ -271,6 +271,11 @@ There are 14 upgrades to purchase, and each can be purchased a maximum of 1 to 6
   <td><center><b>Vow of Thorns</b></center></td>
   <td><center>Enhance your progression and chances for rarer mob loot. However, you are faced with harder trials and every death will send you to the depths.</center></td>
   <td><center><b>+5%</b></center></td>
+</tr>
+<tr>
+  <td><center><b>Glass Bones</b></center></td>
+  <td><center>Taking any damage will immediately knock you. Only pick this if you wish to embark on an unforgiving challenge.</center></td>
+  <td><center><b>+0%</b></center></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 125358
+revid: 125409
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -15,3 +15,5 @@ File:Wartreadsplaceholder.png
 new god boots, innate 10 hp and perseverance talent.
 
 pips are 2 rare 2 legendary
+
+this has allegedly been nerfed but nobodys saying how
