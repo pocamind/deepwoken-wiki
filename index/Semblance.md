@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 124873
+revid: 125328
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ The Semblance is a humanoid enemy NPC, that can be found at [Voidsea](Voidsea.md
 
 ## Moveset
 
-A Semblance's arsenal consists of 3 weapons, being [Soulthorn](Soulthorn.md), [Nocturne](Nocturne.md), or [Fractine](Fractine.md) with Specter [Galebreathe](Galebreathe.md).
+A Semblance's arsenal consists of 4 weapons, being [Soulthorn](Soulthorn.md), [Nocturne](Nocturne.md), [Fractine](Fractine.md), or [Shattered Katana](Shattered_Katana.md) with Specter [Galebreathe](Galebreathe.md).
 
 <table><caption></caption>
 <tbody>

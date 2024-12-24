@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 125043
+revid: 125209
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -409,15 +409,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Leveling: Save 4 Pathfinders from the depths without the help of other Oath users.
 
-### Beast Slayer
-
-> _**"I am a slayer of beasts."**_
-
--   Giantslayer \[Common Talent\] - Deal 10% more damage to larger foes. (+7 Sanity)
-    -   "Larger foes" being non-humanoid NPC. (Ex. Mudskippers, Angels, and Bandits)
-    -   Prerequisite: 20 Willpower
-    -   The head equipment "[Dark Owl Chapeau](Dark_Owl_Chapeau.md)" has this Talent.
-
 ### Berserker
 
 > _**"I seek the qualities of berserker."**_
@@ -585,9 +576,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I have never lost."**_
 
--   Underdog \[Common Talent\] - You deal 3% more damage to those with higher HP than you.
+-   Underdog \[Common Talent\] - You deal 3% more damage to those with higher HP than you. Additionally, you deal +10% more damage to physically larger foes.
     -   "Higher HP" refers to current HP.
-    -   Prerequisite: 50 Willpower
+    -   "Larger foes" refers to non-humanoid NPC. (Ex. Megalodaunts, Threshers, Deep Owls)
+    -   Prerequisite: 40 Willpower
+    -   This was merged with the old Giantslayer Talent.
 
 -   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold shaded outline on your character.
@@ -1467,7 +1460,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I obtained the lost art of Ironsinging."**_
 
 -   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
-    -   Bleed damage now only deals 20% more damage.
+    -   Bleed damage now only deals 20% more damage. Bleed from Speed Demon now only does 10.5% more damage.
     -   Blood loss reduction is less effective if using Curse of the No Life King.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
     -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction.
@@ -2847,8 +2840,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   The head equipment "[Monastery Cowl](Monastery_Cowl.md)" has this Talent.
 
 -   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
-    -   "Bleed" gives a 30% damage bonus, is not accounted for in the damage cap, and bypasses armor.
-    -   Using this Talent with [bleed weapons](<https://deepwoken.fandom.com/wiki/Weapons#:~:text=Bleed%3A%2030,and%20PVE%20scaling).>) is pointless
+    -   "Bleed" from Speed Demon gives a 15% damage bonus, is not accounted for in the damage cap, and bypasses armor.
+        -   Bleed from other sources is a 30% damage bonus.
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility
 

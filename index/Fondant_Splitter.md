@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 124869
+revid: 125275
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Unique Critical, Weapons with Unique Criticals, Swords, Craftable]
@@ -11,7 +11,7 @@ categories: [Weapons, Unique Critical, Weapons with Unique Criticals, Swords, Cr
 | Fondant Splitter | |
 |---|---|
 | type | Sword |
-| requirements | 5 MED, LVL 3 |
+| requirements | 65 MED, LVL 3 |
 | damage | 15 |
 | scaling | MED: 8 |
 | range | 6 |
@@ -39,13 +39,13 @@ The Fondant Splitter is obtained through the [Cold Forge](The_Cold_Forge.md) by 
 -   A [Cake](Food.md)
 -   A [Sword](<Sword_(weapon).md>), [Messer](Messer.md), [Katana](Katana.md), or a [Scimitar](Scimitar.md), however crafting Fondant Splitter with a Scimitar will take three Cakes instead of one.
 
-Meeting the requirement of MED and LVL, the damage is **15.7**
+Meeting the requirement of MED and LVL, the damage is 20**.9**
 
 At max MED and 6 Proficiency, the damage is **27.5**
 
 ## Critical
 
-The User will take a bite out of the Fondant Splinter, healing 12[\[1\]](#cite-note-1) health. The cooldown for this critical is **15 Seconds**.
+The User will take a bite out of the Fondant Splinter, healing 12[\[1\]](#cite-note-1) health. The cooldown for this critical is **18 Seconds**.
 
 ## Trivia
 
@@ -53,6 +53,9 @@ The User will take a bite out of the Fondant Splinter, healing 12[\[1\]](#cite-n
 -   Unlike the [Dormant Splinter](Dormant_Splinter.md) and the [Umbrite Witherblade](Umbrite_Witherblade.md), Fondant Splitter is not a [Relic](Relics.md) Tier weapon and can be enchanted.
 -   The Fondant Splitter is functionally soulbound, similar to the [Diver's Light Plate](<Diver's_Light_Plate.md>).
 -   The weapon is a reference to a popular trend among the community, where people used to bake real Dormant Splinter cakes in order to get a hint from Nuttoons.[\[2\]](#cite-note-2)
+-   Was originally 5 MED and enchantable on release but was changed to its current state on December 24th, 2024.
+-   The weapon's crit was exclusive to the Calabash weapon spec before release.
+    
 
 ## References
 

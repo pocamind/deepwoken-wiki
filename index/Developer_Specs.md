@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 125069
+revid: 125212
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Deepwoken, Developer Specs]
@@ -193,7 +193,7 @@ Nuttoons is cursed with something known as Bewitchment. We only know that this o
   
 
   
-_For more information about Stag Acrossus slash Nuttoons, read Stag Acrossus._
+_For more information about Stag Acrossus/Nuttoons, read Stag Acrossus._
 
   
 

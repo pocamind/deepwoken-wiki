@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 124978
+revid: 125225
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -225,7 +225,6 @@ Ether
 -   Can be parried and blocked.
 -   Applies Metal Rods on hit.
 -   Cannot be modified with any mantra modifiers.
--   Cannot hit monsters and instead just wastes your Ether
 
  |
 | 
@@ -361,7 +360,7 @@ Metal Wisp
 -   Applies Metal Rods on vents.
 -   Requires a ritual cast.
 -   Armor Regeneration is scaled with level.
--   Armor Regeneration will only be triggered when none of it is wasted.
+-   Armor Regeneration will only be triggered when none of it is wasted. (After 5 seconds of not being hit)
 
  |
 

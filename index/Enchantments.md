@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 124772
+revid: 125237
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -342,7 +342,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Life Weave<div></div></font></center></td>
-  <td><div><p>A super charged attack on proc (Punch) but also replenishes the opponent's Hunger by a small amount. Supposedly allows for life debuff/defense/swipe (steal/rob) abilities. Also has a move similar to the <a href="Hive_Construct.md">Hive Mech</a>'s Lifeweave Flourish that sprouts trees in the area around user at high rate, which either acts as attack or teleport in this case. Exclusive power belonging to the Hive Leader. More info - <a href="Developer_Specs.md">Developer Specs</a><br>
+  <td><div><p>A super charged attack on proc (Punch) but also replenishes the opponent's Hunger by a small amount. Supposedly allows for life debuff/defense/swipe (steal/rob) abilities. Also has a move similar to the <a href="Hive_Construct.md">Hive Mech</a>'s Lifeweave Flourish that sprouts trees in the area around user at high rate, which either acts as attack or teleport in this case. Exclusive power belonging to the Hive Leader. More info - <a href="Developer_Specs.md#yayafino-gift-of-life-formerly-known-as-zithori-vhemm-rybak-diri">Developer Specs/yayafino</a><br>
   <b>yayafino <a href="Developer_Specs.md">Developer Spec</a></b><br>
   <b>Unobtainable</b></p></div></td>
   <td><div>Weapon is blown out with shooting out exhausts most of the colors of the rainbow.</div></td>
@@ -611,6 +611,21 @@ N/A
 | 
 
   
+[Fondant Splitter](Fondant_Splitter.md) Enchants
+
+ | 
+
+**December 24, 2024**  
+Enchanted Fondant Splitters were removed.
+
+ | 
+
+N/A
+
+ |
+| 
+
+  
 Face, Ears, Back accessories Enchants
 
  | 
@@ -688,6 +703,8 @@ Twisted Puppets will summon a puppet instead of creating a fire.
 Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.
 
  |
+
+  
 
 ## Changelogs
 

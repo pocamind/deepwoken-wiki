@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 125018
+revid: 125210
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -142,6 +142,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the August 30th, 2024 update, Gale Coil was made innate.
 -   **Gale Dash \[Rare Talent\] -** After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity)
     -   In the May 16th, 2023 update, Gale Dash was merged into Air Pressure.
+-   **Giantslayer \[Common Talent, Willpower\] -** Deal 10% more damage to larger foes. (+7 Sanity)
+    -   In the December 24th, 2024 update, Giantslayer was merged into Underdog.
 -   **Graceful Landing \[Common Talent, Agility\] -** You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   In the August 15th, 2023 update, Graceful Landing was merged into Kick Off.
 -   **Hardened Nerves \[Common Talent\] -** Slightly increases posture. (+2 Posture)

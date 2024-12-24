@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 125193
+revid: 125306
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -122,7 +122,7 @@ Upon breaking an Oath, unique effects will occur:
         -   "Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that." / **Please forgive me.**
         -   "Hmm. Okay, sure. You'll still make a good rival. Want to strike up an Oath again?" / **I'll follow your oath, my dear rival.**
             -   You'll regain [Jetstriker](Oath%253A_Jetstriker.md).
-        -   "This is our path then, my friendly nemesis! To be a [Jetstriker](Oath%253A_Jetstriker.md), one who walks with the Song's flow itself.. ah, it's so freeing.
+        -   "This is our path then, my friendly nemesis! To be a [Jetstriker](Oath%253A_Jetstriker.md), one who walks with the Song's flow itself.. ah, it's so freeing."
 -   [Linkstrider](Oath%253A_Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
     -   This Oath does not become locked after being broken.
 

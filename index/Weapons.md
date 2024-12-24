@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 125046
+revid: 125380
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -38,7 +38,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Medium Weapons
 
--   25 Swords (30 if Alloyed)
+-   26 Swords (31 if Alloyed)
 -   13 Spears (15 if Alloyed)
 -   6 Clubs
 -   3 Rifles
@@ -46,7 +46,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Heavy Weapons
 
--   13 Great Axes (16 if Alloyed)
+-   14 Great Axes (17 if Alloyed)
 -   14 Great Swords (18 if Alloyed)
 -   12 Great Hammers (14 if Alloyed)
 
@@ -60,11 +60,11 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### In Total
 
--   156 Total Weapons (Non-Alloyed, Non-Exclusive)
--   165 Total Weapons (Non-Alloyed, Exclusive)
--   180 Total Weapons (Alloyed, Non-Exclusive)
--   187 Total Weapons (Alloyed, Exclusive)
--   193 Total Weapons (Alloyed, Exclusive, Divine)
+-   158 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   167 Total Weapons (Non-Alloyed, Exclusive)
+-   182 Total Weapons (Alloyed, Non-Exclusive)
+-   189 Total Weapons (Alloyed, Exclusive)
+-   195 Total Weapons (Alloyed, Exclusive, Divine)
 
 ## Stances
 
@@ -1030,6 +1030,18 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>35.8</td>
 </tr>
 <tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Eye_of_Malice"><font>Eye of Malice</font></a></td>
+  <td>75 MED</td>
+  <td>19</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>MED: 6</td>
+  <td>4</td>
+  <td>10</td>
+  <td>0.95x</td>
+  <td>30.9</td>
+</tr>
+<tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Umbrite_Witherblade"><font>Umbrite Witherblade</font></a> (<b>Bleed</b>)</td>
   <td>65 MED, 10 WLL, LVL 10</td>
   <td>13</td>
@@ -1038,7 +1050,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 10</td>
   <td>5</td>
   <td>7.5</td>
-  <td>1x</td>
+  <td>1.02x</td>
   <td>34.6 (<b>Bleed</b>)</td>
 </tr>
 <tr>
@@ -1746,6 +1758,19 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0.81x</td>
   <td>N/A</td>
   <td>41</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Chorus_of_Agonies"><font>Chorus of Agonies</font></a></td>
+  <td>100 HVY, 80 STR, LVL 20</td>
+  <td>27.6</td>
+  <td>N/A</td>
+  <td>75%</td>
+  <td>HVY: 11</td>
+  <td>15</td>
+  <td>10</td>
+  <td>0.62x</td>
+  <td>0.1s</td>
+  <td>59.3</td>
 </tr>
 </tbody>
 </table>
@@ -2998,17 +3023,17 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
 -   [Hero Blades](Hero_Blades.md), despite requiring attunement stat points and not weapon stat points, scale with **Proficiency** as opposed to **Songchant**.
 -   The weapon with the highest:
     -   Base Damage: [Divine Greatsword](Crazy_Slots.md) (30)
-    -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md) (100 HVY)
-    -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
+    -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md), [Chorus of Agonies](Chorus_of_Agonies.md) (100 HVY)
+    -   Dual Requirement: [Chorus of Agonies](Chorus_of_Agonies.md) (100 HVY, 80 STR)
     -   Triple Requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
+    -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)
     -   Penetration: [Shattered Katana](Shattered_Katana.md)/[First Light](First_Light.md)/[Nemit's Sickle](<Nemit's_Sickle.md>)/[Kyrsedge](Kyrsedge.md)/[Kyrstreza](Kyrstreza.md)/[Flareblood Kamas](Flareblood_Kamas.md)/[Pernach](Pernach.md)/[Pleeksty's Inferno](<Pleeksty's_Inferno.md>)/[Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
     -   Scaling: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (15)
-    -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
+    -   Weight: [Chorus of Agonies](Chorus_of_Agonies.md) (15)
     -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (12)
     -   Swing Speed: [Divine Flintlock](Crazy_Slots.md#light) (1.33x)
     -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
-    -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Shotel 100% chip on crit does not get affected by obfuscation enchant cap.
 -   Aranea is the first item to have an unobtainable stat prerequisite.

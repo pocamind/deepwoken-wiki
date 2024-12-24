@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 124800
+revid: 125206
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Cr
 | damage | 13 + 3.9 [BLD] |
 | scaling | 10 MED |
 | range | 7.5 |
-| swing speed | 1x |
+| swing speed | 1.02x |
 | penetration | N/A |
 | chip damage | 20% |
 | special effect | M1s apply 50% of unscaled damage as Wither |

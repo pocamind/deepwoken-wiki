@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 124615
+revid: 125229
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -274,7 +274,6 @@ Some players have access to customized, unique names.
 -   Harper
 -   Harvey
 -   Hassan
--   Hawk
 -   Hayes
 -   Heathcliff
 -   Hector
@@ -1749,6 +1748,7 @@ Some players have access to customized, unique names.
 -   The name "Meliodas" is a reference to [Seven Deadly Sins](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas).
 -   The names "Edward" and "Alphonse" are references to the anime and manga series [Fullmetal Alchemist](https://fma.fandom.com/wiki/Main_Page).
 -   The name Adolin was removed due to its similarity with [a certain Austrian painter in the 1940s](https://en.wikipedia.org/wiki/Adolf_Hitler).
+-   The name "Hawk" was removed due to being used to reference "Hawk Tuah".
 -   The name Halflight is a reference to a skill in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) which shares the same name, very disco.
 -   Most names added after the release of the game are available in all three gender categories. This is likely a bug.
 -   If you don't have a valid aspect, you don't have a last name. If you have a valid aspect but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 125098
+revid: 125284
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -241,7 +241,7 @@ Updraft
 
 _A lifting torrent of wind._
 
- | 50 Ether | Wind + Slash | Get ready to spin around and then create a burst of wind around you that goes upward while also turning invisible
+ | 50 Ether | Wind + Slash | Get ready to spin around and then create a burst of wind around you that goes upward
 
 -   Deals moderate-high damage.
 -   Sends opponents flying into the air.
