@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 118037
+revid: 125142
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -25,7 +25,7 @@ categories: [Weapons, Clubs]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crypt of the Unbroken, Starswept Valley, Deep Widow, Chime of Conflict, Voidwalker Bounties |
+| obtainment | Crypt of the Unbroken, Starswept Valley, Deep Widow, Chime of Conflict, Dread Serpent, Voidwalker Bounties |
 | description | "..." |
 
 ## Description

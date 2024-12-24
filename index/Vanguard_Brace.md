@@ -1,6 +1,6 @@
 ---
 title: Vanguard Brace
-revid: 116971
+revid: 125146
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Braces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Braces]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Erisia, Duke Erisia, Maestro Evengarde Rest, Other sources:, Tutorial |
+| obtainment | Chests from:, Erisia, Duke Erisia, Maestro Evengarde Rest, Dread Serpent |
 | description | "..." |
 
 ## Description
@@ -30,5 +30,5 @@ The Vanguard Brace is an [Equipment](Equipment.md) item under the "Arms" categor
 
 ## Trivia
 
--   They are obtained for free from the tutorial and are commonly found in [Erisia](Erisia.md), making these very common armor pieces.
+-   These used to be given to the player during the [Tutorial](Tutorial.md) by [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), however during the October 11th, 2024 update, they were given a level requirement and briefly softlocked players from completing the Tutorial as they couldn't equip the armor piece. Cap'n Orlandeau now gives [Leather Gloves](Leather_Gloves.md) during the Tutorial instead.
 -   The Vanguard Brace is part of the "Vanguard" set; with the only other piece being the [Vanguard Boots](Vanguard_Boots.md).

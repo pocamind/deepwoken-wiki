@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 119500
+revid: 125155
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Songseeker Wilds, War Mode, Maestro Evengarde Rest |
+| obtainment | Chests from:, Aratel Island, Songseeker Wilds, War Mode, Maestro Evengarde Rest, Dread Serpent |
 | description | "..." |
 
 ## Description

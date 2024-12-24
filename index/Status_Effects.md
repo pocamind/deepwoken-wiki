@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 124999
+revid: 125127
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -300,15 +300,15 @@ Not to be confused with Acid Rain, this effect refers to the large pools of Acid
 
 ### Tier 1 Insanity
 
-This effect happens when you've reached Tier 1 of [Insanity](Insanity.md) where your character will start occasionally shivering, which will stop any action you may have been doing while it happens. This can be deadly if you shiver while using a [Glider](Gliders.md) at a great height, as it will immediately make you drop down.
+This effect happens when you've reached Tier 1 of [Insanity](Insanity.md), or under 70% of your maximum Sanity, where your character will start occasionally shivering, which will stop any action you may have been doing for **2 seconds** while it happens. This can be deadly if you shiver while using a [Glider](Gliders.md) at a great height, as it will immediately make you drop down. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will not Shiver at Tier 1 Insanity.
 
 ### Tier 2 Insanity
 
-This effect happens when you've reached Tier 2 of [Insanity](Insanity.md) where your character will start to be unable to recognize people around them, hiding their names and censoring their faces. Shivering will be replaced with scratching your arms, dealing damage.
+This effect happens when you've reached Tier 2 of [Insanity](Insanity.md), or under 30% of your maximum Sanity, where your character will start to be unable to recognize people around them, hiding their names and censoring their faces. Shivering will be replaced with Panicking and scratching your arms, dealing **10 damage** and stunning you for **1 second** and then you will Shiver for 2 seconds. Damage taken by Panicking cannot be resisted by armor, but will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will Shiver for **2.5 seconds** instead of Panicking at Tier 2 Insanity.
 
 ### Tier 3 Insanity
 
-This effect happens when you've reached Tier 3 of [Insanity](Insanity.md) where your character will start scratching their body and face which deals some damage. If you don't have enough health left when scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. Due to how long it takes to get to max insanity, (unless you have [manic](Boons_and_Flaws.md)) you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
+This effect happens when you've reached Tier 3 of [Insanity](Insanity.md), or under 10% of your maximum Sanity, where your character will start Scratching their body and face which deals **20 damage** and stunning you for **1.5 seconds** and then you will Shiver for 2 seconds. Damage taken by Scratching cannot be resisted by armor, but will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. If you don't have enough health left when Scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will Panic instead of Scratching, additionally Panic damage will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. Due to how long it takes to get to max insanity, (unless you have [manic](Boons_and_Flaws.md)) you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
 
 ## Unique Status Effects
 

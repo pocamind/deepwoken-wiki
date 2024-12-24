@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 124961
+revid: 125122
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -36,12 +36,12 @@ Meet the following requirements in any order:
 -   Be Attunementless
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25, for example)
 -   Have 25 points in Strength
--   Have 25 points in either Charisma or Agility
+-   Have 25 points in **either** Charisma or Agility
 -   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in the [Second Layer](Second_Layer.md) with a Light Hook.
 
 Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to The Dreadstar
 
--   Failing to meet any of the first 3 will cause The Dreadstar to say you do not have aptitude.
+-   Failing to meet any of the first 4 will cause The Dreadstar to say you do not have aptitude.
 -   If you haven't died to an attunement player, The Dreadstar will say "You lack focus on your rage".
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._ (While the video suggests starting [Suyuan](Suyuan.md)'s quest, intending that it spawns the ship - obtaining the Oath doesn't actually depend on it.)

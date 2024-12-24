@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart/Old Silentheart"
-revid: 125068
+revid: 125126
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart/Old_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -69,6 +69,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
+-   All Silentheart Oath moves deal 2x damage in PVE
 
 ## Abilities
 

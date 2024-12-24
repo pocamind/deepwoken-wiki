@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 123050
+revid: 125124
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
@@ -68,6 +68,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 -   Received a Visual Overhaul on the 23rd of August 2024 due to community backlash on the original model.
 -   When it's your first time equipping the Pyre Keeper on a new save, the dagger is hidden. This can be fixed by rejoining.
 -   Second fastest heavy weapon in the game (0.93x), only surpassed by [Quartzstone Pickaxe](Quartztone_Pickaxe.md) (0.94x)
+-   Although pretty irrelevant, if you use this weapon two-handed, it uses animations of [First Light](First_Light.md). This is not possible in game but could be proven by using a glitch that switched animations of your weapons.
 
 ## References
 
