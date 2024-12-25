@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 117993
+revid: 125961
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -23,7 +23,7 @@ categories: [Weapons, Rapiers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, The Depths [?] , Megalodaunt Ship Event, Rogue/Hive Construct, Minityrsa |
+| obtainment | Starswept Valley, The Depths [?] , Megalodaunt Ship Event, Rogue/Hive Construct, Minityrsa, Saramaed Hollow |
 | description | "It is said that Celtor nobility once dueled with these regal arms, over their disputes now buried. While their home is now lost, their arms remain." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Aegis of Enmity
-revid: 125776
+revid: 125949
 source: https://deepwoken.fandom.com/wiki/Aegis_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -26,7 +26,9 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Aegis of Enmity is an [Equipment](Equipment.md) item under the "Head" category. The item has an innate +5 Health and +1 Posture along with 2 innate Legendary pips.
+The Aegis of Enmity is an [Equipment](Equipment.md) item under the "Head" category. It is found in chests dropped by the [Heart of Enmity](Heart_of_Enmity.md) in 5+ player Depths trials.
+
+The item has an innate +5 Health and +1 Posture along with 2 innate Legendary pips.
 
 ## Trivia
 

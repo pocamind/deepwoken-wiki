@@ -1,9 +1,9 @@
 ---
 title: Parasol Planter
-revid: 125823
+revid: 125950
 source: https://deepwoken.fandom.com/wiki/Parasol_Planter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, World Event, Equipment]
+categories: [In progress without reason, InProgressPages, World Event, Equipment, Head, Hats]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -13,11 +13,11 @@ notices:
 | Parasol Planter | |
 |---|---|
 | type | Head |
-| rarity | ??? |
+| rarity | Unique |
 | selling price | 150 Notes |
 | requirements | Level 10 |
 | weight | 1 |
-| innate stats | +7 Health+2 Legendary Pips |
+| innate stats | +7 Health +2 Rare Pip +1 Legendary Pip |
 | innate talent | Grotesque Resilience |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,4 +28,6 @@ notices:
 
 ## Description
 
-The Talent "Grotesque Resilience" reduces all damage from 'Damage Over Time' effects.
+The Parasol Planter is a Unique Equipment Item found under the "Head" category. This Hat can be found in chests from the [Interluminary Parasol](Interluminary_Parasol.md) at a common-uncommon drop rate.
+
+Grants the user the "[Grotesque Resilience](Talents.md#miscellaneous)" Unique Equipment Talent, which reduces all damage from "Damage Over Time" effects.

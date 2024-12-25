@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 125681
+revid: 125937
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1217,6 +1217,10 @@ Found from:
  | 
 
 _+7 Health_
+
++2 Rare Pip
+
++1 Legendary Pip
 
 _+Talent: Grotesque Resilience_
 
@@ -3020,15 +3024,19 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  | N/A |
-|  |  | 
+|  | 
 
 [Summer Scarf](Summer_Scarf.md)
+
+(**Series**)
 
 (**Animated**)
 
  | 
 
 _+5 Health_
+
++1 Legendary Pip
 
 **Requires Power 5**
 
@@ -3037,6 +3045,7 @@ _+5 Health_
 Found from:
 
 -   [Interluminary Parasol](Interluminary_Parasol.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  | N/A |
 | File:Static-assets-upload15149895911827136801.png | 
@@ -3190,13 +3199,17 @@ Found from:
  | N/A |
 |  | 
 
-[Threadwork Summer Scarf](Summer_Scarf.md)
+[Summer Scarf](Summer_Scarf.md)
+
+(**Series**)
 
 (**Animated**)
 
  | 
 
 _+5 Health_
+
++1 Legendary Pip
 
 **Requires Power 5**
 

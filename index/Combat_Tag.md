@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 125025
+revid: 125942
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -39,6 +39,7 @@ The White skull means you're in PvE combat tag. This combat tag will last 30 sec
 
 1.  You cannot switch weapons or armor during combat.(Unless you're [Silentheart](Oath%253A_Silentheart.md), in which you can switch weapons in combat with it's ability.)
 2.  If you leave the game or disconnect during this, the game will treat it as death, even sending you to the depths or wiping you if you are already in them. However, if you were over 60% HP, you will not get punished in any way.
+3.  When tagged by a [Boss](Bosses.md) the skull turns orange, and shows there HP.
 
 #### PvP: Red Skull
 
@@ -64,6 +65,7 @@ List of Quotes:
 -   The [Silentheart Oath](Oath%253A_Silentheart.md), can switch weapons in combat and has a button to do so.
     -   This is also possible with [Crazy Slots Bell](Crazy_Slots.md) but only it's own weapons.
 -   [Bosses](Bosses.md) give a PvE Tag that lasts 2 minutes and 40 seconds.
+    -   When tagged by a [Boss](Bosses.md) the skull turns orange, and shows there HP.
 -   Once in Combat you cannot backstab / assasinate without the Dust Lunge Talent.
 -   [Lord Regent](The_Lord_Regent.md) applies Combat Tag when he uses Judgement against you.
 -   You can remove Combat Tag off non allies by saying "Mb \[Name\]" or "Mb All" to lift off all people you put it on.

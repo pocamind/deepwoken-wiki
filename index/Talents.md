@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 125753
+revid: 125948
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3040,6 +3040,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
     -   Prerequisite: [Power](Power.md) 5
+
+-   Grotesque Resilience \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Reduces all damage from "Damage Over Time" effects.
+    -   Obtained from: [Parasol Planter](Parasol_Planter.md)
 
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower.
     -   Prerequisite: 15 Strength

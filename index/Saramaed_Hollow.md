@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 124874
+revid: 125959
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -93,6 +93,8 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Crucible_Rapier.md">Crucible Rapier</a></li>
     <li><a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></li>
     <li><a href="Dormant_Splinter.md">Dormant Splinter</a></li>
+    <li><a href="Champion's_Sword.md">Champion's Sword</a></li>
+    <li><a href="Old_World_Greatshield.md">Old World Greatshield</a></li>
   </ul></td>
   <td>
   <ul>
@@ -102,9 +104,59 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li>
     <li><a href="Abyss_Wanderer's_Plate.md">Abyss Wanderer Plate</a></li>
     <li><a href="Abyss_Wanderer's_Boots.md">Abyss Wanderer Boots</a></li>
-  </ul>
-  <ul>
     <li><a href="Citadel_Frames.md">Citadel Frames</a></li>
+    <li><a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a></li>
+    <li><a href="Assassin's_Hood.md">Assassin's Hood</a></li>
+    <li><a href="Blackleaf_Helm.md">Blackleaf Helm</a></li>
+    <li><a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a></li>
+    <li><a href="Fur_Pauldrons.md">Fur Pauldrons</a></li>
+    <li><a href="Headband.md">Headband</a></li>
+    <li><a href="Tracker's_Boots.md">Tracker's Boots</a></li>
+    <li>Scarf</li>
+    <li><a href="Bluesteel_Boots.md">Bluesteel Boots</a></li>
+    <li><a href="Legion_Helmet.md">Khan Helmet</a></li>
+    <li>Parkas</li>
+    <li><a href="Vanguard_Boots.md">Vanguard Boots</a></li>
+    <li><a href="Moon_Ring.md">Moon Ring</a></li>
+    <li><a href="Ring_of_Pestilence.md">Ring of Pestilence</a></li>
+    <li><a href="Nomad_Pendant.md">Nomad Pendant</a></li>
+    <li><a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a></li>
+    <li><a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a></li>
+    <li><a href="Ring_of_Wisps.md">Ring of Wisps</a></li>
+    <li>Duelist's Mask</li>
+    <li><a href="Star_Boots.md">Star Boots</a></li>
+    <li><a href="Captain's_Kabuto.md">Captain's Kabuto</a></li>
+    <li><a href="Diver's_Ring.md">Diver's Ring</a></li>
+    <li><a href="Smith's_Gloves.md">Smith's Gloves</a></li>
+    <li><a href="Windmill_Ring.md">Windmill Ring</a></li>
+    <li><a href="Curseblood_Pendant.md">Curseblood Pendant</a></li>
+    <li><a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a></li>
+    <li><a href="Light_Eater_Ring.md">Light Eater Ring</a></li>
+    <li><a href="Smith's_Goggles.md">Smith's Goggles</a></li>
+    <li><a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a></li>
+    <li><a href="Ranger's_Boots.md">Ranger's Boots</a></li>
+    <li><a href="Bloodiron_Ring.md">Bloodiron Ring</a></li>
+    <li><a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a></li>
+    <li><a href="Dazed_Band.md">Dazed Band</a></li>
+    <li><a href="Woodland_Boots.md">Woodland Boots</a></li>
+    <li><a href="Purifying_Ring.md">Purifying Ring</a></li>
+    <li><a href="Autumn_Boots.md">Autumn Boots</a></li>
+    <li><a href="Sandrunner_Wraps.md">Sandrunner Wraps</a></li>
+    <li><a href="Mercenary's_Garb.md">Mercenary's Garb</a></li>
+    <li><a href="Rebel's_Bandana.md">Rebel's Bandana</a></li>
+    <li><a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a></li>
+    <li><a href="Strapped_Hat.md">Strapped Hat</a></li>
+    <li><a href="Star_Duster.md">Star Duster</a></li>
+    <li><a href="Providence_Coat.md">Providence Coat</a></li>
+    <li><a href="Deepwoken_Cloak.md">Deepwoken Cloak</a></li>
+    <li><a href="Warden_Pauldrons.md">Warden Pauldrons</a></li>
+    <li><a href="Deepfire_Ring.md">Deepfire Ring</a></li>
+    <li><a href="Finisher's_Ring.md">Finisher's Ring</a></li>
+    <li><a href="Rosen's_Ring.md">Rosen's Ring</a></li>
+    <li><a href="Akira's_Ring.md">Akira's Ring</a></li>
+    <li><a href="Armorer's_Ring.md">Armorer's Ring</a></li>
+    <li><a href="Maestro's_Ring.md">Maestro's Ring</a></li>
+    <li></li>
   </ul></td>
   <td>
   <ul>
@@ -118,11 +170,14 @@ Loot is based on the type of mob you kill. Some of the more notable loot confirm
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
     <li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Only after 1.2km)</li>
   </ul></td>
-  <td>(needs editing)<p><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></p>
-  <p><a href="Ignition_Trailblazer.md">Ignition Trailblazer</a></p>
-  <p><a href="Martial_Artist.md">Martial Artist</a></p>
-  <p><a href="Legion_Centurion.md">Legion Centurion</a></p>
-  <p><a href="Prophet's_Cloak.md">Prophet's Cloak</a></p></td>
+  <td>(needs editing)
+  <ul>
+    <li><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></li>
+    <li><a href="Ignition_Trailblazer.md">Ignition Trailblazer</a></li>
+    <li><a href="Martial_Artist.md">Martial Artist</a></li>
+    <li><a href="Legion_Centurion.md">Legion Centurion</a></li>
+    <li><a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
+  </ul></td>
 </tr>
 </tbody>
 </table>

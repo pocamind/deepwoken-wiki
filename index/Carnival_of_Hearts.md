@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 125862
+revid: 125938
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event]
@@ -29,8 +29,22 @@ The minigames happen in a random order. Once all minigames are completed, all re
 ##### Beam Blitz
 
 -   [Aelita](Aelita.md) and [Tillian](Tillian.md) spawn into the arena and fire large beams at the participants.
+-   They will both spawn and stand still, wait a few seconds, then spawn again and fire their beams.
 -   Getting hit a single time will instantly eliminate you.
 -   Lasts 100 seconds.
+
+## Entry Spawn Locations
+
+### Etrean Luminant
+
+-   To the right of [Lower Erisia](Lower_Erisia.md), where [Mortus](Mortus.md) resides.
+-   The small Bandit Camp on the hill with a campfire, under that broken building.
+-   At [Isle of Vigils](Isle_of_Vigils.md), where the barber and the little farm is.
+
+### Eastern Luminant
+
+-   At the meteor at [Songseeker Wilds](Songseeker_Wilds.md).
+-   At [Starswept Valley](The_Starswept_Valley.md), near the [The Lordsgrove's door.](The_Lordsgrove.md)
 
 ## Trivia
 

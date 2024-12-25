@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 123739
+revid: 125926
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Eastern Luminant, The Ignition Union]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Locations, Eastern Luminant, The Igni
 
 # Miner's Landing
 
-LocationL Miner's Landing LocationR
+LocationL Minor's Landing LocationR
 
 TERRITORY OF The Ignition Union
 

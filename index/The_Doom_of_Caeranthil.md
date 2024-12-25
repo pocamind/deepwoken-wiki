@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 125884
+revid: 125966
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -69,7 +69,7 @@ Dodgeable:?
  |  |
 | 
 
-**Roar of the Sea**
+**Tidal Roar**
 
  | TDOC charges up, before unleashing a powerful roar that does insane damage, summoning multiple waves that do damage to boats and carry away swept enemies
 

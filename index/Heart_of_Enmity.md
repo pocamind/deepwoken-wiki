@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 125904
+revid: 125925
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Heart of Enmity is a [Boss](Bosses.md) found in the [First Layer](First_Layer.md) of the Depths and is located in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). A minimum of five players must enter the depths trial in order for the boss to spawn but if any lower than the minimum ammount of players enter Heart of Enmity's Lair, they will be touched by Wyz.
+The Heart of Enmity is a [Boss](Bosses.md) found in the [First Layer](First_Layer.md) of the Depths and is located in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). A minimum of five players power 20 must enter the depths trial in order for the boss to spawn.
 
 ## Moveset
 

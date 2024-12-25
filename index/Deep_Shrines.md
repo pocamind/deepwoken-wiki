@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 124976
+revid: 125906
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -101,7 +101,7 @@ For 1 Knowledge, you can trade 1 of your [Trait](Traits.md) Points into another 
     -   Additionally, if you no longer meet the requirements for a mantra's level upgrade after using Shrine of Mastery, you will keep it at that level with no drawback.
 
 -   The attribute point reallocation works on the stat requirements on almost all [Oaths](Oaths.md), allowing you to go below your Oath stat reqs while keeping your Oath.
-    -   The only exception to this is [Arcwarder](Oath%253A_Arcwarder.md), as you cannot lower your Flamecharm or Thundercall due to the Flamecharm and Thundercall Adept Talents.
+    -   The only exceptions to this are [Arcwarder](Oath%253A_Arcwarder.md) and [Saintsworn](Oath%253A_Saintsworn.md), as you cannot lower your Attunement stats due to the Attunement Adept Talents.
     -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath Talents themselves have no stat requirement attached to them.
     -   When this was brought to the attention of Arch\_Mage, one of the main developers, he said "3 points aint the end of the world."
 -   This shrine does not count for the "Bargained with Deep Shrines" echo.
