@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 125925
+revid: 126062
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -122,8 +122,10 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 -   Fight the Heart of Enmity in teams of two, taking turns to engage the boss. Rest and switch out with teammates as needed to manage the battle effectively.
 -   Bring a Max Vow of Mastery with the Bell Run It Back, so if anyone needs help, they can be revived. Use Run It Back to distract the boss while the rest of the team takes a moment to respite.
 -   Get the talent **Mythic Stability**, as it makes you ungrippable to auto-grip abilities, which is useful against the Heart of Enmity’s auto-grip attacks.
+-   If you're struggling with blood levels, head to Songseeker and unlock **Bloodrend**. Obtain the **Bloodorb** mantra to heal blood using the blood pools during the fight.
 
 ## Trivia
 
 -   The Heart of Enmity is the first ever [Scyphozia](First_Layer.md) Boss added.
 -   It can spawn corrupted. This is restorable as it's not intended.
+-   It is unclear if the Heart of Enmity is the physical form of the Voice of Enmity, or just a stronger monster variant used in the trial. However due to the dialogue given after defeating the boss, it implies is the physical form of the Voice of Enmity.

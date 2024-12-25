@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 125855
+revid: 126048
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Armors]
@@ -10,25 +10,27 @@ categories: [NPCs, Armors]
 
 | Blacksmith | |
 |---|---|
-| name | Etris: Caragan, Isle of Vigils: Baragan, Summer Isle:, Greathive Aratel:, Fort Merit:, Miner's Landing: Rudral, Meteor Isle:, Castle Light:, Voidheart:, Guild Bases: Blacksmith, The Floating Keep: Blacksmith |
+| name | Etris: Caragan, Isle of Vigils: Baragan, Summer Isle: Blacksmith, Greathive Aratel: Blacksmith, Fort Merit: Blacksmith, Miner's Landing: Rudral, Meteor Isle:, Castle Light:, Voidheart:, Guild Bases: Blacksmith, The Floating Keep: Blacksmith |
 | location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Miner's Landing, Meteor Isle, Castle Light, The Floating Keep, Voidheart, Guild Bases |
 
 ## Description
 
 The Blacksmiths are stationary NPCs found in towns such as [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>), [Meteor Isle](Meteor_Isle.md), [Castle Light](Castle_Light.md), [The Floating Keep](The_Floating_Keep.md), [Voidheart](Voidheart.md), and [Guild Bases](Guild_Bases.md). They're used to craft [Outfits](Outfits.md) and [Seasonal Medals](Seasonal_Medals.md), and turn in [pure ores](Ores.md). Blacksmiths will refuse to service the player if their [reputation](Reputation.md) is too low with the faction of the location they're at.
 
-When interacting with a blacksmith, you get three options: To craft an armor, to hand in ores, and to cr
+When interacting with a blacksmith, you get three options: To craft an armor (outfit), to hand in pure ores, and to craft event items using [Seasonal Medals](Seasonal_Medals.md).
 
-### To craft an armor
+### To craft an outfit
 
--   The blue highlighted text is the schematics you have on hand, if you press **Learn**, the armor will move to the recipe that it belongs to.
--   An armor recipe retains the requirements, stats, Talent description (if it has a Talent) as well as the armor description.
--   If you have multiple crafted armors, the current one will be an orange color while the rest will be a bolded white.
--   You can also spend notes to repair the durability of your armor.
+-   The blue highlighted text is the schematics you have on hand, if you press **Learn**, the outfit will move to the recipe that it belongs to.
+-   An outfit recipe retains the requirements, stats, Talent description (if it has a Talent) as well as the outfit description.
+-   If you have multiple crafted outfits, the current one will be an orange color while the rest will be a bolded white.
+-   You can also spend notes to repair the durability of your outfit.
 
-#### Transmogging armors
+#### Transmogging outfits
 
--   If you have more than one armor crafted, pressing **Transmog** will allow you to transmogrify currently equipped armor with any other armor you've crafted, wearing the **appearance** of the selected armor but keeping the **stats** of your currently equipped one.
+_More info: [Transmogrification](Transmogrification.md)_
+
+-   If you have more than one outfit crafted, pressing **Transmog** will allow you to transmogrify currently equipped outfit with any other outfit you've crafted, wearing the **appearance** of the selected outfit but keeping the **stats** of your currently equipped one.
 
   
   
@@ -46,10 +48,10 @@ When interacting with a blacksmith, you get three options: To craft an armor, to
     -   Erisore chests are the plain wooden chests, and they usually give blindfolds.
     -   If you turn in a pure ore 5 times, you get the excavator Talent.
 
-### Craft event items with knowledge
+### Craft event items with Knowledge
 
 -   You are able to craft limited-time items using [Knowledge](Knowledge.md) if you bought [Seasonal Medals](Seasonal_Medals.md) during a Deepwoken event, such as Hallowtide Medals 22, 23 and 24 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide. You can also craft the [Party Hat](Party_Hat.md) obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) mini event in 2024.
-    -   You can craft armor, weapons, and even enchants and mantras that were from these events.
+    -   You can craft outfits, weapons, and even enchants and mantras that were from these events.
 
 ## Trivia
 

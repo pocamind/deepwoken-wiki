@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 125802
+revid: 125969
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -33,7 +33,7 @@ _This might have not been the page you were looking for, if you were looking for
 The **Dormant Splinter** is a Relic rarity [Sword](<Sword_(weapon).md>); a black, voided twisted blade.
 
 Meeting the requirement of MED and LVL, the damage is (**5.1**)  
-At max MED and 6 Proficiency, the damage is (**8.8**) (11.4 with bleed)
+At max MED and 6 Proficiency, the damage is (**8.8**) (11.2 with bleed)
 
 The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Cache Agent, or by chance from a random related event. To get it from a Ministry Cache:
 

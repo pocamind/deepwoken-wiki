@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 125937
+revid: 126038
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1080,6 +1080,29 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
+
+ | N/A |
+|  | 
+
+[Kyrsmas Hat](Kyrsmas_Hat.md)
+
+(**Unique**)
+
+ | 
+
+_+10 Health_
+
+_+1 Posture_
+
++2 Rare Pip
+
++2 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
 
  | N/A |
 |  | 

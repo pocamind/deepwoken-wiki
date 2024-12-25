@@ -1,12 +1,12 @@
 ---
-title: Vigil Sentinel
-revid: 125976
-source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
+title: "Stormchanter's Raiments"
+revid: 126089
+source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, World Event]
 ---
 
-# Vigil Sentinel
+# Stormchanter's Raiments
 
 Template:ArmorInfobox**Vigil Sentinel** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -28,9 +28,8 @@ It gives the "Action Surge" [Talent](Talents.md), which gives you an extra 0.04 
 
 This Outfit's Schematic can be found at:
 
--   [Interluminary Parasol](Interluminary_Parasol.md) (Chest)
--   [Glaive Spellhardt](Glaive_Spellhardt.md) (Not confirmed, but very likely)
+-   idk
 
 ## Trivia
 
--   It grants the "Action Surge" [Talent](Talents.md), which gives you a 0.04 swing speed increase if you use the [Adrenaline Surge](Attunement-less.md) [Mantra](Mantras.md).
+-   It grants the "Kickstart" [Talent](Talents.md), which gives you a swing speed increase if you use the [Adrenaline Surge](Attunement-less.md) [Mantra](Mantras.md).

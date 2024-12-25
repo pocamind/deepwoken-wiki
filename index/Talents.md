@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 125948
+revid: 126111
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -937,6 +937,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Robber Baron \[Common Talent\] - You hold onto more items when defeated.
     -   Item loss on death is reduced from 50% to 25%.
     -   You no longer lose notes from dying.
+    -   you can obtain this talent from the [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) and the [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) Equipment
 
 ### Ether Adept
 

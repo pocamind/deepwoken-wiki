@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 124953
+revid: 126112
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -40,8 +40,8 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
 -   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo).
--   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo#Jujutsu)
--   **Flaming Scourge** is inspired by Charlotte Katakuri's **Buzzcut Mochi**
+-   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo%23Jujutsu).
+-   **Flaming Scourge** is inspired by Charlotte Katakuri's **Buzzcut Mochi**.
 
 ### Thundercall
 
@@ -141,6 +141,8 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
 -   **[Nautilodaunts](Nautilodaunt.md)** draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft. They also draw heavy inspiration from [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/f), with their physique being near identical.
+-   Humanoid enemies casting mantras have a chance to say "behold my magic spell" as a spell shout.
+    -   Originally, this was a bug, where enemies would always say the line on any mantra cast, which was a debug quote to test spell shout.
 
 ## Resonance
 
@@ -229,7 +231,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The names **Cadaver** and **Skulduggery** are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
 -   The name **Sisyphus** references [Sisyphus from Greek mythology](https://en.wikipedia.org/wiki/Sisyphus), due to him being extremely prevalent in meme culture at the time.
 -   The names **Ornstein** and **Smough** are a reference to the [iconic duo](https://en.wikipedia.org/wiki/Ornstein_and_Smough) from the first _Dark Souls_.
--   The name **Aldrich** is a reference to the cannibal and possible rapist from _Dark Souls III_.
+-   The name **Aldrich** is a reference to the boss of the same name from _Dark Souls III_.
 -   The names **Shabriri**, **Vyke**, **Maliketh**, and **Godfrey** are references to _Elden Ring_.
 -   The names **Laios**, **Falin**, **Senshi**, **Izutsumi, Chilchuck** and **Marcille** are a reference to the manga _Dungeon Meshi_.
 -   The names **Frieren**, **Fern**, **Stark**, and **Eisen** are a reference to the manga _Sousou no Frieren_.

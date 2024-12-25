@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 125902
+revid: 126120
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -46,38 +46,36 @@ After acquiring the needed stats, you then need to resonate (interact with) ever
 
 #### Thundercall
 
-1.  For the Thundercall obelisk, you need to sail over to the [Boatman's Watch](<Boatman's_Watch.md>), **and go behind it into a cave** **and talk to Tessa.**
+-   For the Thundercall obelisk, you need to sail over to the [Boatman's Watch](<Boatman's_Watch.md>), **and go behind it into a cave** **and talk to Tessa.**
 
 #### Galebreathe
 
-1.  For the Galebreathe obelisk, you need to tread carefully towards the [Garden's Reservoir](The_Garden_Reservoir.md), **at Upper Erisia in the Acid Pool Area, and talk to Trinity Galenwarde.**
+-   For the Galebreathe obelisk, you need to tread carefully towards the [Garden's Reservoir](The_Garden_Reservoir.md), **at Upper Erisia in the Acid Pool Area, and talk to Trinity Galenwarde.**
 
 #### Flamecharm
 
-1.  For the Flamecharm obelisk, you need to go to [Miner's Landing](<Miner's_Landing.md>), specifically [Saramaed Summit](Saramaed_Summit.md)**, and talk to Jace.**
+-   For the Flamecharm obelisk, you need to go to [Miner's Landing](<Miner's_Landing.md>), specifically [Saramaed Summit](Saramaed_Summit.md)**, and talk to Jace.**
 
 #### Frostdraw
 
-1.  For the Frostdraw obelisk, you need to climb to the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)**, break open the destructible bookshelf upstairs, and talk to Faust.**
+-   For the Frostdraw obelisk, you need to climb to the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)**, break open the destructible bookshelf upstairs, and talk to Faust.**
 
 Make sure not to touch the ice on the floor as it instantly kills you.
 
 #### Shadowcast
 
-1.  For the final obelisk, Shadowcast, you need to sail once more to the [Moon’s Eyrie](<Moon's_Eyrie.md>)**, and talk to Urek Felhand.**
+-   For the final obelisk, Shadowcast, you need to sail once more to the [Moon’s Eyrie](<Moon's_Eyrie.md>)**, and talk to Urek Felhand.**
 
 -   Saintsworn **CANNOT** be obtained with 100 points in a singular attunement, you **need** at least 20 points in an attunement to resonate with their respective pillar in other words, you need 20 points in the 5 different attunements, it is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
 
 ## Progression
 
-To progress Saintsworn, you need to defeat world bosses. ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md),[Interluminary Parasol](Interluminary_Parasol.md))
+To progress Saintsworn, you need to defeat world bosses. ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md), and [Interluminary Parasol](Interluminary_Parasol.md))
 
 ## Critical(s)
 
 Each stance uses the critical of the matching hero blade.
-
-  
 
 ## Passives
 
@@ -99,8 +97,6 @@ By pressing 'L', your weapon changes to the Saintsblade, which is required to us
 
 **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly increasing the windup, while also greatly increasing the damage of the mantra.
 
-  
-
 ## Mantra(s)
 
 Blade of Saints is the ONLY mantra for the oath, which varies in accordance to your current Saint Stance.
@@ -109,7 +105,7 @@ Blade of Saints is the ONLY mantra for the oath, which varies in accordance to y
 
 Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit.
 
-### **Saintsworn: Galebreathe Saint Stance**
+### Saintsworn: Galebreathe Saint Stance
 
 You propel yourself forwards with the winds, uppercutting anyone in your wake.
 
@@ -138,6 +134,18 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 -   Talk to Alastir in Pathfinder's Respite located in Lower Erisia after interacting with one of the obelisks.
 -   Talk to Kana in Fort Merit after talking to the Thundercall obelisk.
 -   Talk to same attunement trainer with the same attunement as your Hero Blade and its corresponding obelisk.
+
+## Dialogue
+
+**Flamecharm Obelisk**: "I've seen what happens when fire burns too hot. It leaves nothing behind but ruin. If you choose this path, remember. you will never be the same. Flame is both a gift and a curse, and it will show you what you're made of..." - Jace
+
+Galebreathe **Obelisk**: "You must decide, seeker. Will you let the wind carry you, or will you struggle against its pull? It is a path only those who truly understand the winds dare to walk." - Trinity Galenwarde
+
+**Shadowcast Obelisk**: "Once, I stood with the Five, a hero among them. But loyalty? It's a fragile thing. Betrayal? It's as inevitable as the night." - Urek Felhand
+
+Frostdraw **Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else." - Faust
+
+**Thundercall Obelisk**: "Thundercall, huh? You want that power? That zing that come with it? But remember thundercall isn't something you can control easily, not even if you try really hard." - Tessa
 
 ## Trivia
 

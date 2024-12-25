@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 125966
+revid: 126085
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -12,22 +12,22 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Doom of Caeranthil, "TDOC" (also known as _World Serpent_) is a [World Event](World_Events.md) Boss found in the Open Sea of the [Luminants](Luminants.md).
+The Doom of Caeranthil is a [World Event](World_Events.md) Boss found in the Open Sea of the [Luminants](Luminants.md).
 
-**TDOC** is a colossal sea serpent monster, implied to possess the power to devastate the Luminant it slithers through.
+The Doom is a colossal sea serpent monster that has ravaged and destroyed islands. It earned it's name when it destroyed the island of [Caeranthil](Caeranthil.md) in the Southern Luminant.
 
-When TDOC spawns, a danger notification will flash on the screen, calling players to defeat the boss before it causes Luminant-wide destruction.
+When the Doom spawns, a danger notification will flash on the screen, calling players to defeat the boss before it adds another island to its list of victims.
 
-Once **TDOC** is defeated, a purple orb will soar towards all the players who dealt damage to TDOC, once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted (If they don't have it) and a chest with loot will spawn at the player's location, the loot may vary in quality based on the damage dealt to TDOC, but this is not confirmed.
+Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted (If they don't have it) and a chest with loot will spawn at the player's location.
 
 ## Moves
 
 | Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
-**Dive**(☆☆☆)
+**Dive**
 
- | TDOC dives in the water, taking a couple of seconds before submerging into the water.
+(☆☆☆) | The Doom dives in the water, taking a couple of seconds before submerging into the water.
 
 -   He will use either Sudden Ambush or Pressure Eruption after this move
 
@@ -36,7 +36,7 @@ Once **TDOC** is defeated, a purple orb will soar towards all the players who de
 
 **Pressure Eruption**
 
- | TDOC summons multiple geysers underneath players that fling you into the air, able to knock players from their boat into the water.
+(★★☆) | The Doom summons multiple geysers underneath players that fling you into the air, able to knock players from their boat into the water, dealing great damage.
 
 Parryable:✗
 
@@ -49,7 +49,7 @@ Dodgeable:◯
 
 **Sudden Ambush**
 
- | Giant bubbles will emerge from underneath the player for a couple of seconds, before TDOC dives up and eats any player caught in its vicinity. Auto-grips.
+(★★★) | Giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity. Auto-grips.
 
 Parryable:✗
 
@@ -58,7 +58,13 @@ Blockable:✗
 Dodgeable:✗
 
  |  |
-| **Barrel Roll** | When getting attacked by weapons, TDOC spins horizontally, knocking back players and doing a low amount of damage
+| 
+
+**Barrel Roll**
+
+(★☆☆)
+
+ | When getting attacked by weapons, the Doom spins horizontally, knocking back players and doing a low amount of damage
 
 Parryable:?
 
@@ -71,7 +77,7 @@ Dodgeable:?
 
 **Tidal Roar**
 
- | TDOC charges up, before unleashing a powerful roar that does insane damage, summoning multiple waves that do damage to boats and carry away swept enemies
+(★★☆) | The Doom charges up, before unleashing a powerful roar that does insane damage, summoning multiple waves that do damage to boats and carry away swept enemies
 
 Parryable:✗
 
@@ -84,7 +90,7 @@ Dodgeable:✗
 
 **Whirlpool**
 
- | TDOC starts swimming in a circle before creating a massive whirlpool that continuously does massive damage and trapping enemies inside.
+(★★★) | The Doom starts swimming in a circle before creating a massive whirlpool that continuously does massive damage and trapping enemies inside.
 
 Parryable:✗
 
@@ -97,9 +103,9 @@ Dodgeable:✗
 
 **Luminant Beam**
 
- | TDOC charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips.
+(★★★) | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips.
 
--   Only unlocked after TDOC reaches 2 bars of health.
+-   Only unlocked after The Doom reaches 2 bars of health.
 
 Parryable: ?
 
@@ -109,32 +115,64 @@ Dodgeable:✗
 
  |
 
+  
+
 ## Loot Table/Rewards
 
 | Weapons | Equipments | Miscellaneous |
 | --- | --- | --- |
 | 
 -   [Eye of Malice](Eye_of_Malice.md)
+-   [Wyrmtooth](Wyrmtooth.md)
+-   [Kanabo](Kanabo.md)
+-   [Champion's Dagger](<Champion's_Dagger.md>)
+-   [Pernach](Pernach.md)
+-   (Alloyed) [Dawnshot](Dawnshot.md)
+-   (Alloyed) [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Iron Blunderbuss](Iron_Blunderbuss.md)
+-   (Alloyed) [Adretian Axe](Adretian_Axe.md)
+-   [Shattered Katana](Shattered_Katana.md)
+-   (Alloyed) [Whaling Knife](Whaling_Knife.md)
 
  | 
 
 -   Warlock's Brim
 -   Warlock's Mantle
+-   Sky Warlock's Brim
+-   Lilac Warlock's Brim
+-   Sky Warlock's Mantle
+-   Navy Warlock's Mantle
+-   Navy Warlock's Brim
+-   Lilac Warlock's Mantle
+-   Verdant Warlock's Brim
+-   All Legendary [Rings](Equipment.md#rings)
+-   [Star Boots](Star_Boots.md)
+-   [Deepwoken Hood](Deepwoken_Hood.md)
+-   [Redsteel Pauldrons](Redsteel_Pauldrons.md)
+-   [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
+-   [Smith's Goggles](<Smith's_Goggles.md>)
+-   [Royal Guard](Aspirant_Mask.md)
+-   [Old Blood Earrings](Old_Blood_Earrings.md)
+-   [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
+-   [Dew Drop Earrings](Dew_Drop_Earrings.md)
+-   [Smith's Gloves](<Smith's_Gloves.md>)
+-   [Cerulean Gown](Cerulean_Gown.md)
+-   [Seamstress's Attire](<Seamstress's_Attire.md>)
+-   [Troublemaker's Overcoat](<Troublemaker's_Overcoat.md>)
 
  | 
 
 -   [Smith's Alloy](<Smith's_Alloy.md>)
 -   [Rain Spire](Rain_Spire.md)
+-   [Void Spire](Void_Spire.md)
 -   [Armorer's Needle](<Armorer's_Needle.md>)
+-   [Deep Gems](Mantra_Modifiers.md#deep-gems)
 
  |
 
 ## Trivia
 
-You can only damage TDOC on its underside (and possibly the head aswell)
-
-Be cautious when using boats to attack TDOC, when it dives, it will Sudden Ambush on the closest area with large player amount, if none are found it will instead strike the closest boat.
-
-Sudden Ambush and Luminant Beam are one-shot moves.
-
-Firing cannons at TDOC while it's not aggroed, will deal little to no damage.
+-   You can only damage the Doom on its underside (and possibly the head aswell)
+-   Be cautious when using boats to attack the Doom, when it dives, it will Sudden Ambush on the closest area with large player amount, if none are found it will instead strike the closest boat.
+-   Sudden Ambush and Luminant Beam are one-shot moves.
+-   The Doom seems to take no damage from cannonfire regardless if it's aggroed or not. Attacking the serpent with a cannon does not aggro it to you.
