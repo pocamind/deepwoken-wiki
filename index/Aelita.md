@@ -1,9 +1,9 @@
 ---
 title: Aelita
-revid: 125580
+revid: 125797
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, NPCs]
+categories: [Felinor NPCs, NPCs, Oath Trainer, World Event]
 ---
 
 # Aelita
@@ -64,21 +64,20 @@ She is the sister of [Tillian](Tillian.md).
 ## Trivia
 
 -   When Talking to Aelita, the song [Catwhisker](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis) starts playing
--   Aelita is a [Felinor](Felinor.md).
-    -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not take [Oaths](Oaths.md).\[citation needed\]
+-   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when Arch\_Mage announced that Krulians do not take [Oaths](Oaths.md), as well as the theory overall lacking any real evidence for it.\[citation needed\]
 -   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.[\[1\]](#cite-note-1)
 -   Aelita is a [Visionshaper](Oath%253A_Visionshaper.md), she doesn't have the Oath particle for optimization purposes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player.
     
     Aelita sitting in the fetal position on a rock
     
--   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of Blizzard Knights will spawn.
+-   Aelita only says "See? That was fun right? You can have a lot more fun if you come back during the winter." to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of Blizzard Knights will spawn.
 -   If going straight through the [Valley of Heroes](The_Valley_of_Heroes.md), even sticking to the walls, you'll most likely trigger Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
 -   [Silentheart](Oath%253A_Silentheart.md)'s are unable to beat her game without abusing glitches due to a lack of Mantras.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair) Aelita's hair ID : 6536255505
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
 -   Her outfit is the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md), but is currently pending a rework due to the misconduct of the original's creator.
--   There is a glitch with this event that allows you to skip it and instantly spawns a chest allowing to beat this event even if you lack mantras. Glitching Aelita will not make the event music stop.
+-   There is a glitch with this event that allows you to skip it and instantly spawns a chest allowing to beat this event even if you lack Mantras. Glitching Aelita will not make the event music stop.
 
 ## References
 

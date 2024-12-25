@@ -1,9 +1,9 @@
 ---
 title: Cerulean Gown
-revid: 125434
+revid: 125824
 source: https://deepwoken.fandom.com/wiki/Cerulean_Gown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Expert Outfits]
+categories: [Items, Outfits, Expert Outfits, World Event]
 ---
 
 # Cerulean Gown
@@ -28,3 +28,4 @@ This Outfit's Schematic can be found in:
 
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [First Layer](First_Layer.md)
+-   [Interluminary Parasol](Interluminary_Parasol.md)

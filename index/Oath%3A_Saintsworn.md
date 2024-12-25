@@ -1,9 +1,9 @@
 ---
 title: "Oath: Saintsworn"
-revid: 125559
+revid: 125821
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths, Unique Critical]
+categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
 ---
 
 # Oath: Saintsworn
@@ -13,6 +13,21 @@ categories: [Pages with broken file links, Oaths, Unique Critical]
 | oath_req | 20 Flamecharm, Thundercall, Frostdraw, Galebreathe, ShadowcastResonate with every attunement obelisk |
 | effects | +2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot |
 
+| Saintsblade | |
+|---|---|
+| type | Oath Weapon |
+| requirements | Oath |
+| damage | 30 |
+| range | 8.5 |
+| swing speed | 1.04 |
+| penetration | 20% |
+| weight | 7 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| description | "" |
+
 “ The Heroes of the Blade may have fallen in ages past, but in taking up their blades, the torch is carried once again. ”
 
 ― Deepwoken Twitter
@@ -21,7 +36,7 @@ categories: [Pages with broken file links, Oaths, Unique Critical]
 
 ## Description
 
-**[Oath](Oaths.md): Saintsworn** is an Oath relating to Hero Blades.
+**[Oath](Oaths.md): Saintsworn** is an Oath relating to the usage of multiple attunements, and Hero's Blades.
 
 ### Obtainment
 
@@ -44,25 +59,55 @@ To progress Saintsworn, you need to talk to each of the obelisks again.
 
 ## Critical(s)
 
-### Saintsworn Fire Critical
+Each stance uses the critical of the matching hero blade.
 
-Propels the user forward with a thrust, followed by a flame-infused slam down and procs elemental.
+  
 
-### **Saintsworn Gale Critical**
+## Passives
 
-Propels the user forward with gale, spinning and damaging enemies in front and procs elemental.
+### **Saintsblade**
 
-### Saintsworn Shadow Critical
+By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **30** Damage, **20%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**.
 
-Slashes with shadowy energy, releasing a dark projectile that strikes enemies in its path and procs elemental.
+### **Hero's Assist**
 
-### Saintsworn Frostdraw Critical
+**Hero's Assist** is a passive ability that relies on the summoning of the past heroes of the attunements themselves to aid you in battle. Which hero is summoned and their effect is dependent on the current Saint Stance. This passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
 
-Perform 3 ice projectile slashes, Last one knockbacks and procs elemental.
+**Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent _**The Floor is Lava**_.
 
-### Saintsworn Thunder Critical
+**Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting or block-breaking an enemy with a mantra, summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _Tornado_ at the enemy, while also suffocating and knocking them away.
 
-Strike your foes with lightning, applying knockdown and summon a lightning strike at the end, procs elemental.
+**Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
+
+**Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw mantra, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing chill or applying crystals.
+
+**Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly increasing the windup, while also greatly increasing the damage of the mantra.
+
+  
+
+## Mantra(s)
+
+Blade of Saints is the ONLY mantra for the oath, which varies in accordance to your current Saint Stance.
+
+### Saintsworn: Flamecharm Saint Stance
+
+Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit.
+
+### **Saintsworn: Galebreathe Saint Stance**
+
+You propel yourself forwards with the winds, uppercutting anyone in your wake.
+
+### Saintsworn: Shadowcast Saint Stance
+
+The Saintsblade releases a horizontal mid-range slash of darkness that pulls enemies along with it, knocking them up at the end of its path.
+
+### Saintsworn: Frostdraw Saint Stance
+
+Use your Saintsblade to shoot out 3 crescent-shaped ice projectiles, followed up by a lunge which applies heavy knockback.
+
+### Saintsworn: Thundercall Saint Stance
+
+Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.
 
 ### Cards/Talents:
 
@@ -81,7 +126,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 ## Trivia
 
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Visionshaper](Oath%253A_Visionshaper.md).
--   In settings it says Saintsblade L hotkey.
 -   Ironically, this oath does NOT require the user to be wielding a Heroblade of any kind.
--   Saintsworn cannot be dyed
--   Saintsworn gives the most mantra slots out of any oath, being 5 total mantra slots
+-   Saintsworn's cosmetic, the Pseudo-Hero's Blades, cannot be dyed.
+-   Saintsworn gives the most mantra slots out of any oath, being 5 total mantra slots.
+-   The Saintsblade does NOT change color in accordance to attunement paths. This is likely a bug.

@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 125598
+revid: 125798
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -124,4 +124,4 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 ## Trivia
 
 -   The Heart of Enmity is the first ever [Scyphozia](First_Layer.md) Boss added.
--   It can spawn corrupted. This is restorable as it's not intended
+-   It can spawn corrupted. This is restorable as it's not intended.

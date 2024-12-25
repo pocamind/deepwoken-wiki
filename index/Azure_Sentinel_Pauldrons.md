@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 116424
+revid: 125610
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -31,4 +31,5 @@ The Azure Royal Guard is an [Equipment](Equipment.md) item in the "Arms" categor
 ## Trivia
 
 -   The Azure Royal Guard is part of the "Azure Royal Guard" set; with the only other piece being the [Azure Royal Guard Boots](Azure_Sentinel_Boots.md).
+    -   Arguably, the Blue [Royal Guard](Aspirant_Mask.md) could be included, as it has almost identical coloration with the same material. However, the Royal Guard mask also has two other variants, while the Azure Royal Guard set has no variants.
 -   This is the only common tier item you can get from [Duke Erisia](Duke_Ishamon_Erisia.md).

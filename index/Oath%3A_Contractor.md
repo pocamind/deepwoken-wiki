@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 124963
+revid: 125762
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -34,7 +34,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
     -   You can either get this through Imel, Emel, and Rimil's bounties if you choose, but you can also help the [Ministry](The_Ministry.md) out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one [Ministry](Ministry_Scout.md) [Scout](Ministry_Scout.md), waiting for the nomads to kill the other, and then assassinate them. This is far less efficient then doing bounties, only giving around half the reputation each completion.
     -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at [Summer](Summer_Isle.md) [Isle](Summer_Isle.md) for them to not see worth fighting you anymore.
     -   The Bounty version of the [Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Blood Loss or Starvation will not count.
-    -   You can also get this by trading knowledge with [Soothsayer](Soothsayer.md) (require atleast 8 knowledge to have neutral reputation with [The Ministry](The_Ministry.md)).
+    -   You can also get this by trading knowledge with [Soothsayer](Soothsayer.md) (require atleast 10 knowledge to have neutral reputation with [The Ministry](The_Ministry.md)).
     -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing) (Second dialogue is **NOT** required for the Duke Erisia questline)
 3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue". (This step is not required; it is safer to simply never talk to the Lord Regent until you have done everything listed below instead.)
@@ -45,7 +45,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/ZNPA1u1I-WI) or consider using [this guide](https://docs.google.com/presentation/d/1S5p4sBCiRxKeBhj_WYiugtzEIl-ZuTL_YMuPqfQZRkU/edit?usp=sharing)._
 
-## Upgrading
+## Proggression
 
 As tasked by The Lord Regent, to obtain the Talents and mantras, you must grip players with [Oaths](Oaths.md) in Layer 1, Scyphozia. **(Works on Friends and Guildmates)** This will send them to Layer 2 (note this will not happen to pathfinders). Pack tactics cannot be used: **you must be the sole contributor of damage** or they will not count.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 125579
+revid: 125753
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -868,6 +868,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this Talent.
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
+    -   5 second cooldown per enemy in PVP.
+    -   5 second cooldown per enemy _type_ in PVE, meaning if you use Spine Cutter on a Mudskipper Brute, you cannot use Spine Cutter on any Mudskipper Brutes until the cooldown wears off.
     -   The second slash has no PEN.
     -   Can proc from some physical Mantras.
     -   Prerequisites: 20 Strength, 25 Agility

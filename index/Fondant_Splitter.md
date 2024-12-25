@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 125275
+revid: 125749
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Unique Critical, Weapons with Unique Criticals, Swords, Craftable]
@@ -11,7 +11,7 @@ categories: [Weapons, Unique Critical, Weapons with Unique Criticals, Swords, Cr
 | Fondant Splitter | |
 |---|---|
 | type | Sword |
-| requirements | 65 MED, LVL 3 |
+| requirements | 65 MED, LVL 10 |
 | damage | 15 |
 | scaling | MED: 8 |
 | range | 6 |
@@ -45,17 +45,17 @@ At max MED and 6 Proficiency, the damage is **27.5**
 
 ## Critical
 
-The User will take a bite out of the Fondant Splinter, healing 12[\[1\]](#cite-note-1) health. The cooldown for this critical is **18 Seconds**.
+The User will take a bite out of the Fondant Splinter, healing 12[\[1\]](#cite-note-1) health.
+
+The critical has a cooldown of twenty seconds.
 
 ## Trivia
 
 -   First documented finding was on the 18th of December 2024, 12 days after the Dormant Splinter was added, and 5 days after the Cold Forge was added.
--   Unlike the [Dormant Splinter](Dormant_Splinter.md) and the [Umbrite Witherblade](Umbrite_Witherblade.md), Fondant Splitter is not a [Relic](Relics.md) Tier weapon and can be enchanted.
 -   The Fondant Splitter is functionally soulbound, similar to the [Diver's Light Plate](<Diver's_Light_Plate.md>).
 -   The weapon is a reference to a popular trend among the community, where people used to bake real Dormant Splinter cakes in order to get a hint from Nuttoons.[\[2\]](#cite-note-2)
--   Was originally 5 MED and enchantable on release but was changed to its current state on December 24th, 2024.
+-   Was originally 5 MED LVL 3 and enchantable on release but was changed to its current state on December 24th, 2024.
 -   The weapon's crit was exclusive to the Calabash weapon spec before release.
-    
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 125592
+revid: 125785
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -766,18 +766,6 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>8.6</td>
 </tr>
 <tr>
-  <td><a href="Fondant_Splitter.md">Fondant Splitter</a></td>
-  <td>5 MED, LVL 3</td>
-  <td>15</td>
-  <td>5%</td>
-  <td>N/A</td>
-  <td>MED: 8</td>
-  <td>5</td>
-  <td>6</td>
-  <td>1x</td>
-  <td>27.5</td>
-</tr>
-<tr>
   <td><a href="Messer.md">Messer</a></td>
   <td>10 MED</td>
   <td>20</td>
@@ -932,6 +920,18 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>7.5</td>
   <td>1.04x</td>
   <td>31.1</td>
+</tr>
+<tr>
+  <td><a href="Fondant_Splitter.md">Fondant Splitter</a></td>
+  <td>65MED, LVL 10</td>
+  <td>15</td>
+  <td>5%</td>
+  <td>N/A</td>
+  <td>MED: 8</td>
+  <td>5</td>
+  <td>6</td>
+  <td>1x</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><a href="Serpent's_Edge.md">Serpent's Edge</a></td>
@@ -1762,7 +1762,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Chorus_of_Agonies"><font>Chorus of Agonies</font></a></td>
   <td>100 HVY, 20 STR, LVL 20</td>
-  <td>27.6</td>
+  <td>26</td>
   <td>N/A</td>
   <td>75%</td>
   <td>HVY: 11</td>
@@ -1770,7 +1770,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>10</td>
   <td>0.62x</td>
   <td>0.1s</td>
-  <td>59.3</td>
+  <td>55.8</td>
 </tr>
 </tbody>
 </table>

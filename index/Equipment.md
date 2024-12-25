@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 125175
+revid: 125681
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1208,6 +1208,25 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
+
+ | N/A |
+| File:Parasolplanter.png | 
+
+[Parasol Planter](Parasol_Planter.md)
+
+ | 
+
+_+7 Health_
+
+_+Talent: Grotesque Resilience_
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Interluminary Parasol](Interluminary_Parasol.md)
 
  | N/A |
 |  | 
@@ -3001,6 +3020,25 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  | N/A |
+|  |  | 
+
+[Summer Scarf](Summer_Scarf.md)
+
+(**Animated**)
+
+ | 
+
+_+5 Health_
+
+**Requires Power 5**
+
+ | 
+
+Found from:
+
+-   [Interluminary Parasol](Interluminary_Parasol.md)
+
+ | N/A |
 | File:Static-assets-upload15149895911827136801.png | 
 
 [Silver Pauldrons](Silver_Pauldrons.md)
@@ -3148,6 +3186,25 @@ Found from:
 -   [War Mode](War_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
+
+ | N/A |
+|  | 
+
+[Threadwork Summer Scarf](Summer_Scarf.md)
+
+(**Animated**)
+
+ | 
+
+_+5 Health_
+
+**Requires Power 5**
+
+ | 
+
+Found from:
+
+-   [Interluminary Parasol](Interluminary_Parasol.md)
 
  | N/A |
 | File:Vanguardbrace.png | 

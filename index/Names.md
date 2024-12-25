@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 125601
+revid: 125608
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1776,7 +1776,7 @@ Some players have access to customized, unique names.
     -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
     -   "Binah", "Chesed", "Gebura", "Hokma", "Netzach", "Tiphereth" can also be reference to [the tree of life](<https://en.m.wikipedia.org/wiki/Tree_of_life_(Kabbalah)>) which the said characters from _Library of Ruina_ and _Lobotomy Corporation_ are based on. But "Malkuth", "Yesod", and "Hod" are not added as names.
     -   "Roland" and "Argalia" can also be reference to characters from [Orlando Innamorato](https://en.m.wikipedia.org/wiki/Orlando_Innamorato) which the said characters from _Library of Ruina_ are based on.
--   Additionally, the names "Faust", "Ishmael", "Ahab", "Heathcliff", "Catherine" and "Gregor" are references to _Limbus Company_, a game created by the same studio as _Lobotomy Corporation_ and _Library of Ruina._
+-   Additionally, the names "Faust", "Ishmael", "Ahab", "Heathcliff", "Catherine" and "Gregor" are references to _Limbus Company_, a game created by the same studio as _Lobotomy Corporation_ and _Library of Ruina. (Yet no Don Quixote.. or at least Quixote...)_
     -   These names, like most from Limbus Company, are derived from classic literature. Faust is from [Goethe's Faust](https://en.wikipedia.org/wiki/Goethe%27s_Faust) _(which is based on a [German folktale](https://en.wikipedia.org/wiki/Faust)),_ Ishmael and Ahab are from [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick), Heathcliff and Catherine are from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) and Gregor is from [The Metamorphosis.](https://en.wikipedia.org/wiki/The_Metamorphosis)
 -   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum", are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.
 -   The names "Luka", "Yugo" and "Faris" could be references to _[Steins; Gate](https://steins-gate.fandom.com/wiki/Steins;Gate_Wiki)_.
@@ -1791,7 +1791,7 @@ Some players have access to customized, unique names.
 -   The names 'Chilchuck', 'Falin', 'Izutsumi', 'Laios', 'Macille', 'Senshi' and 'Thistle' are all references to the main party and antagonist of the manga and anime series, [Dungeon Meshi](https://en.wikipedia.org/wiki/Delicious_in_Dungeon).
 -   The names Mycen, Shinon, and Raigh are references to game series [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem).
     -   The name Kelik may be a reference to the (notoriously poorly written) character from a 2013 Fire Emblem mod, [The Last Promise](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLastPromise).
--   The names [Radovan](https://finalfantasy.fandom.com/wiki/Radovan_Slobasch) and [Ifrit](https://finalfantasy.fandom.com/wiki/Ifrit) are references to the game series, [Final Fantasy](https://www.finalfantasyxiv.com/). Furthermore, The name "Clive" is a reference to the Protagonist of Final Fantasy XVI, Dominant of [Ifrit, the Dark Eikon of Fire](<https://finalfantasy.fandom.com/wiki/Ifrit_(Final_Fantasy_XVI)>), [Clive Rosfield](https://finalfantasy.fandom.com/wiki/Clive_Rosfield).
+-   The names [Radovan](https://finalfantasy.fandom.com/wiki/Radovan_Slobasch) and [Ifrit](https://finalfantasy.fandom.com/wiki/Ifrit) are references to the game series, [Final Fantasy](https://www.finalfantasyxiv.com/). Furthermore, the name "Clive" is a reference to the Protagonist of Final Fantasy XVI, Dominant of [Ifrit, the Dark Eikon of Fire](<https://finalfantasy.fandom.com/wiki/Ifrit_(Final_Fantasy_XVI)>), [Clive Rosfield](https://finalfantasy.fandom.com/wiki/Clive_Rosfield).
 -   The name Basil is a reference to the game [OMORI](https://www.omori-game.com/).
 -   The name Samwise is a reference to the series Lord of the Rings.
 -   The name Tharson may be a reference to the game Risk of Rain.

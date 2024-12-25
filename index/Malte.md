@@ -1,9 +1,9 @@
 ---
 title: Malte
-revid: 125030
+revid: 125740
 source: https://deepwoken.fandom.com/wiki/Malte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Npc]
+categories: [Etrean NPCs, NPCs]
 ---
 
 # Malte

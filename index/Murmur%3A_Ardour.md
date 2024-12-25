@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Ardour"
-revid: 122085
+revid: 125770
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Ardour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -35,3 +35,7 @@ Defeat the [Dread Serpent](Dread_Serpent.md) either by randomly encountering it 
 #### Method Two - The Old Stranger
 
 Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist them by giving them a refreshing drink such as a [canteen](Canteen.md) containing fresh water or [Redd Juice](Food.md), granting you the Murmur as thanks. Do note that not only is this event very rare, only a single player can obtain Ardour per event, so this is far less consistent than Method 1.
+
+#### Method Three - World Serpent
+
+Defeat the [World Serpent](The_Doom_of_Caeranthil.md) by randomly encountering it in the Etrean Luminant as a [World Event](World_Events.md)

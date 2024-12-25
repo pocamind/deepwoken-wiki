@@ -1,6 +1,6 @@
 ---
 title: "Troublemaker's Overcoat"
-revid: 125297
+revid: 125660
 source: https://deepwoken.fandom.com/wiki/Troublemaker's_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits]
