@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 125595
+revid: 125857
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, InProgressPages]
@@ -29,15 +29,15 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, InProgressPages]
 
 ## Description
 
-The **Chorus of Agonies** is a weapon dropped by the [Heart of Enmity](Heart_of_Enmity.md).
+The **Chorus of Agonies** is a weapon dropped by the [Heart of Enmity](Heart_of_Enmity.md). It is a comically large black greataxe with an elegant and pointy blade.
 
 ## Critical(s)
 
-Stomp the ground with hyper armor and lead up with an overhead strike with your axe.
+Stomp the ground with hyper armor and follow up with an overhead strike with your axe.
 
 ## Trivia
 
 -   The weapon is named The Brutalizer when viewed at a campfire.
--   This weapon is not droppable, but it's bankable
--   The weapon has the highest weight of any weapon in the game at 15, beating the previous record holder, the [Sovereign's Punishment](<Sovereign's_Punishment.md>) by 2.
+-   This weapon is not droppable, but it is bankable.
+-   The weapon has the highest weight of any weapon in the game at 15, beating the previous record holder, the [Sovereign's Punishment](<Sovereign's_Punishment.md>), by 2.
 -   Used to have a [Strength](Attributes.md#strength) requirement of 80, however this was reduced down to 20 shortly after the weapon released.

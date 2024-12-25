@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 125826
+revid: 125862
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event]
@@ -10,7 +10,7 @@ categories: [World Event]
 
 ## Description
 
-The Carnival of Hearts is a [World Event](World_Events.md) focused around several minigames created by Aelita and Tillian. You can get to the arena for Carnival of Hearts by talking to Aelita or Tillian in several locations around the map. Being in the Carnival gives your screen a sort of faded and inverted filter.
+The Carnival of Hearts is a [World Event](World_Events.md) focused around several minigames created by [Aelita](Aelita.md) and [Tillian](Tillian.md). You can get to the arena for Carnival of Hearts by talking to Aelita or Tillian in several locations around the map. Being in the Carnival gives your screen a sort of faded and inverted filter.
 
 ## Minigames
 
@@ -21,17 +21,20 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   A random player gets a flaming Pomar in their hands, and has 30 seconds to pass it before it explodes.
 -   The last person to have it loses and is eliminated.
 
-##### Bomb Minigame (actual name TBD)
+##### Bomb Ball
 
 -   Everyone is given an infinite supply of Carnival Bombs, and must throw them at the other players to eliminate them.
--   Lasts 2 minutes.
+-   Lasts 120 seconds.
 
-##### Ice Beams (actual name TBD)
+##### Beam Blitz
 
--   Aelita and Tillian spawn into the arena and fire large beams at the participants.
+-   [Aelita](Aelita.md) and [Tillian](Tillian.md) spawn into the arena and fire large beams at the participants.
 -   Getting hit a single time will instantly eliminate you.
--   Lasts 2(?) minutes.
+-   Lasts 100 seconds.
 
 ## Trivia
 
 -   There was (currently is) a bug on release where players could use their weapons and mantras during the minigames, and kill all the other players.
+-   Players can use the [Dimensional Travel](Dimensional_Travel.md) resonance during the event to go on top of the tent and avoid all challenges.
+-   Players can roll-clip onto the stands after the minigame has started, avoiding the minigames and other players.
+-   There is a bug(?) in which you can teleport to the Carnival of Hearts despite there being another [World Event](World_Events.md) going on at the same time via an already existing Aelita/Tillian. Entering using this method will cause you to be stuck in the Carnival of Hearts until you either reset or leave the game.

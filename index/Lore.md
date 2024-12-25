@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 124985
+revid: 125863
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -582,6 +582,8 @@ The Citadel
 
 -   The city of Celtor was once located here, though the Great Drowning has consumed it.
 -   The home of the self-proclaimed "Prophet of the Southern Luminant" and his followers.
+-   The [Doom of Caeranthil](The_Doom_of_Caeranthil.md) was named after a region of the Southern Luminant it dragged beneath the waves.
+-   The "Submergence of the Southern Luminant" was not caused solely the Great Drowning of Celtor but rather by many countless smaller tragedies that were overshadowed by the event.
 -   The Great Drowning has permanently scarred the ecosystem, causing the Luminant to decay and become new sections of Voidsea.[\[2\]](#cite-note-arch-2)
 
 ### Northern Luminant

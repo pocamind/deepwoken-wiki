@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 125822
+revid: 125881
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
@@ -12,9 +12,9 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
 |---|---|
 | type | Sword |
 | requirements | 75 MED |
-| damage | 19 |
-| scaling | 6 Medium Scaling |
-| range | 10 |
+| damage | 21 |
+| scaling | 8 Medium Scaling |
+| range | 10.5 |
 | swing speed | 0.95x |
 | penetration | 25% |
 | chip damage | 10% |
@@ -36,4 +36,4 @@ The M1s proc an orange eye mark.
 
 ## Critical
 
-The Eye of Malice's critical makes the user jump and thrust the weapon in front of them, piercing it through anyone in the way. Additionally, hitting the critical attack while the enemy is marked will teleport the user behind their target and backstab them. Procs Spine Cutter.
+The Eye of Malice's critical makes the user jump and thrust the weapon in front of them, piercing it through anyone in the way. Additionally, hitting the critical attack will teleport the user behind their target and backstab them. Procs Spine Cutter.

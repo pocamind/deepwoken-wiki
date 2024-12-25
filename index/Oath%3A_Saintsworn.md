@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 125821
+revid: 125902
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -42,20 +42,36 @@ categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
 
 Saintsworn obtainment requires 20 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
 
-After acquiring the needed stats, you then need to resonate (interact with) every obelisk.
+After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them.
+
+#### Thundercall
 
 1.  For the Thundercall obelisk, you need to sail over to the [Boatman's Watch](<Boatman's_Watch.md>), **and go behind it into a cave** **and talk to Tessa.**
-2.  For the Galebreathe obelisk, you need to tread carefully towards the [Garden's Reservoir](The_Garden_Reservoir.md), **at Upper Erisia in the Acid Pool Area, and talk to Trinity Galenwarde.**
-3.  For the Flamecharm obelisk, you need to go to [Miner's Landing](<Miner's_Landing.md>), specifically [Saramaed Summit](Saramaed_Summit.md)**, and talk to Jace.**
-4.  For the Frostdraw obelisk, you need to climb to the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)**, break open the destructible bookshelf upstairs, and talk to Faust.**
-5.  For the final obelisk, Shadowcast, you need to sail once more to the [Moon’s Eyrie](<Moon's_Eyrie.md>)**, and talk to Urek Felhand.**
+
+#### Galebreathe
+
+1.  For the Galebreathe obelisk, you need to tread carefully towards the [Garden's Reservoir](The_Garden_Reservoir.md), **at Upper Erisia in the Acid Pool Area, and talk to Trinity Galenwarde.**
+
+#### Flamecharm
+
+1.  For the Flamecharm obelisk, you need to go to [Miner's Landing](<Miner's_Landing.md>), specifically [Saramaed Summit](Saramaed_Summit.md)**, and talk to Jace.**
+
+#### Frostdraw
+
+1.  For the Frostdraw obelisk, you need to climb to the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)**, break open the destructible bookshelf upstairs, and talk to Faust.**
+
+Make sure not to touch the ice on the floor as it instantly kills you.
+
+#### Shadowcast
+
+1.  For the final obelisk, Shadowcast, you need to sail once more to the [Moon’s Eyrie](<Moon's_Eyrie.md>)**, and talk to Urek Felhand.**
 
 -   Saintsworn **CANNOT** be obtained with 100 points in a singular attunement, you **need** at least 20 points in an attunement to resonate with their respective pillar in other words, you need 20 points in the 5 different attunements, it is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
 
 ## Progression
 
-To progress Saintsworn, you need to talk to each of the obelisks again.
+To progress Saintsworn, you need to defeat world bosses. ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md),[Interluminary Parasol](Interluminary_Parasol.md))
 
 ## Critical(s)
 

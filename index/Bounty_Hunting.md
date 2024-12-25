@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 125010
+revid: 125879
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,7 +16,7 @@ A Bounty Board located in Etris.
 
 ## Description
 
-Bounty Hunting in Deepwoken is the process of hunting someone with a low reputation in the faction; once they are dead the hunter gets a chest full of loot and EXP. You can choose which player to hunt on a Bounty Board via a poster. The poster will show their name, aspect, Oath, and amount of bounty stars. If the player has no Oath, it will read "Pathfinder."
+Bounty Hunting in Deepwoken is the process of hunting someone with a low reputation in the faction; once they are dead the hunter gets a chest full of loot and EXP. You can choose which player to hunt on a Bounty Board via a poster. The poster will show their name, Aspect, Oath, and amount of bounty stars. If the player has no Oath, it will read "Pathfinder."
 
 Bounty Stars are determined by the target's bounty points ranging from 1 to 8 stars
 

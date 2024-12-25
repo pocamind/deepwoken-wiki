@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 124865
+revid: 125882
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -21,7 +21,7 @@ Once you have enough [Joy](Joy.md), you can exchange it with him for exclusive 2
 
 ### Lore
 
-Galpin a Musicologist who was also a faculty chair at The Empyrean College of Cadence. He collects various pieces of instruments and music sheets for his collection. Due to an arrangement [Lysander Spellhardt](Lysander_Spellhardt.md) made, kids can be allowed candy for Hallowtide as usual, but growns ups are not allowed any unless they bring Lysander some [Joy](Joy.md). Which is the main reason why Galpin asks the player to get him some Joy.
+Galpin is a Musicologist who was also a faculty chair at The Empyrean College of Cadence. He collects various pieces of instruments and music sheets for his collection. Due to an arrangement [Lysander Spellhardt](Lysander_Spellhardt.md) made, kids can be allowed candy for Hallowtide as usual, but grown ups are not allowed any unless they bring Lysander some [Joy](Joy.md). Which is the main reason why Galpin asks the player to get him some Joy.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 125279
+revid: 125877
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items, Master Outfits]
@@ -8,7 +8,7 @@ categories: [Outfits, Items, Master Outfits]
 
 # Heretic's Memento
 
-Template:ArmorInfobox**Heretic's Memento** is a Master(?) [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Heretic's Memento** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -22,7 +22,7 @@ This Outfit has a [Power](Power.md) requirement of 15.
 
 This Outfit has 1500 durability and grants +10% Blunt Armor, +100% Ether Regen, +25% Elemental Armor, +25% Ironsing Armor, +25% Physical Armor and 5% Shadow Armor
 
-This Outfit grants the [Talent card](Talents.md) Giantslayer, Letting you deal an additional 10% more damage to physically larger foes.
+This Outfit grants the [Talent card](Talents.md) Giantslayer, Letting you deal an additional 10% more damage to physically larger foes. It having this talent doesn't make much sense because the Anniversary Update merged Giantslayer with the Talent Underdog
 
   
 

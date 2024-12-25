@@ -1,9 +1,9 @@
 ---
 title: Interluminary Parasol
-revid: 125827
+revid: 125875
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Bosses, Monsters, World Event]
+categories: [Pages with broken file links, Bosses, Monsters, World Event]
 ---
 
 # Interluminary Parasol
@@ -39,3 +39,9 @@ Using the floating pincers, it will dive towards to pierce its target. With this
 Throws rocks at targets
 
 Summoning Nautilodaunts, Alpha megaladaunt, Broodlords
+
+  
+
+## Gallery
+
+File:Symphonyandtheypet.png

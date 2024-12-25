@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 125709
+revid: 125885
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, World Event]
@@ -30,6 +30,7 @@ This Outfit's Schematic can be found at:
 
 -   [Interluminary Parasol](Interluminary_Parasol.md) (Chest)
 -   [Glaive Spellhardt](Glaive_Spellhardt.md) (Not confirmed, but very likely)
+    -   ^ bro who put this here you can't talk to him anymore hallowtide is over
 
 ## Trivia
 

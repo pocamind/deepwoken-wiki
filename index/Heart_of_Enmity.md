@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 125798
+revid: 125904
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -16,9 +16,11 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Heart of Enmity is a [Boss](Bosses.md) found in the [First Layer](First_Layer.md) of the Depths and is located in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). A minimum of five players must enter the depths trial in order for the boss to spawn.
+The Heart of Enmity is a [Boss](Bosses.md) found in the [First Layer](First_Layer.md) of the Depths and is located in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). A minimum of five players must enter the depths trial in order for the boss to spawn but if any lower than the minimum ammount of players enter Heart of Enmity's Lair, they will be touched by Wyz.
 
 ## Moveset
+
+**!!! Do not attempt to block the Heart of Enmity's moves, even if they show a yellow circle.** While some attacks can be blocked with over 50 posture and Ardour, it is not recommended due to the high risk of posture breaking.
 
 | **Name/Danger** | **Description** | **Visual Demo** |
 | --- | --- | --- |
@@ -26,7 +28,7 @@ The Heart of Enmity is a [Boss](Bosses.md) found in the [First Layer](First_Laye
 | Uppercut of Enmity | Heart of Enmity grabs a nearby player, throws them very high in the sky and pierces them through with his axe.
 Parryable:✗
 
-Blockable:✗
+Blockable:◯
 
 Dodgeable:◯
 
@@ -35,16 +37,16 @@ Dodgeable:◯
 
 Parryable:◯
 
-Blockable:✗
+Blockable:◯
 
 Dodgeable:◯
 
  |
 | The Brutalizer | The Heart of Enmity uses a powerful stomp followed by a high-damage attack that knocks you away.
 
-Parryable:✗
+Parryable:◯
 
-Blockable:✗
+Blockable:◯
 
 Dodgeable:◯
 
