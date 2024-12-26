@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 126007
+revid: 126165
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -47,15 +47,17 @@ _Deepwoken_ currently has 16 Adept Outfits that have been discovered.
 
 ### Expert
 
-_Deepwoken_ currently has 16 Expert Outfits that have been discovered.
+_Deepwoken_ currently has 17 Expert Outfits that have been discovered.
+
+  
 
 ### Master
 
-_Deepwoken_ currently has 11 Master Outfits that have been discovered.
+_Deepwoken_ currently has 12 Master Outfits that have been discovered.
 
 ### Unique
 
-_Deepwoken_ currently has 4 Unique Outfits that have been discovered.
+_Deepwoken_ currently has 5 Unique Outfits that have been discovered.
 
   
 

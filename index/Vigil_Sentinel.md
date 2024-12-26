@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 125976
+revid: 126163
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, World Event]
@@ -30,7 +30,3 @@ This Outfit's Schematic can be found at:
 
 -   [Interluminary Parasol](Interluminary_Parasol.md) (Chest)
 -   [Glaive Spellhardt](Glaive_Spellhardt.md) (Not confirmed, but very likely)
-
-## Trivia
-
--   It grants the "Action Surge" [Talent](Talents.md), which gives you a 0.04 swing speed increase if you use the [Adrenaline Surge](Attunement-less.md) [Mantra](Mantras.md).

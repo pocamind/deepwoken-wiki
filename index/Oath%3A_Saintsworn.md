@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 126120
+revid: 126153
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -73,6 +73,10 @@ Make sure not to touch the ice on the floor as it instantly kills you.
 
 To progress Saintsworn, you need to defeat world bosses. ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md), and [Interluminary Parasol](Interluminary_Parasol.md))
 
+At first completing the World Event, you will get Ether Proselyte, Hero's Assist and Saint's Negation.
+
+At the second completing the World Event, you will get the Saint's Sinergy and Saint's Overload.
+
 ## Critical(s)
 
 Each stance uses the critical of the matching hero blade.
@@ -89,7 +93,7 @@ By pressing 'L', your weapon changes to the Saintsblade, which is required to us
 
 **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent _**The Floor is Lava**_.
 
-**Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting or block-breaking an enemy with a mantra, summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _Tornado_ at the enemy, while also suffocating and knocking them away.
+**Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting, block-breaking an enemy with a mantra, or taking damage while casting a mantra (can be from any source), summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _Tornado_ at the enemy, while also suffocating and knocking them away.
 
 **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
 
@@ -153,4 +157,5 @@ Frostdraw **Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seekin
 -   Ironically, this oath does NOT require the user to be wielding a Heroblade of any kind.
 -   Saintsworn's cosmetic, the Pseudo-Hero's Blades, cannot be dyed.
 -   Saintsworn gives the most mantra slots out of any oath, being 5 total mantra slots.
--   The Saintsblade does NOT change color in accordance to attunement paths. This is likely a bug.
+-   The Saintsblade (and, by extension, the mantra that varies based on your current Saint Stance, Blade of Saints) does NOT change color in accordance to attunement paths. This is likely a bug.
+-   Saint's Overload have 20 seconds of duration before going off.

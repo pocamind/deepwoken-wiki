@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 125844
+revid: 126142
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -38,6 +38,7 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 | --- | --- | --- |
 | 
 **Vehemens Ventus**  
+★
 
  | The Scion holds its hands together and charges up a powerful attack for ~10 seconds. Once the attack is released, approximately 3 seconds after the charging sfx finishes, a large purple gale ball will be thrown in a player's direction with a loud sound cue. Upon impact, it deals insanely high posture and **Wind** damage. However, it can be easily avoided with an air-dash, **Ghost**/**Shadow Rift**, jumping down a floor, using a waypoint with [Run It Back](Run_It_Back.md) or using [Portals](Portals.md).  
 

@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 125938
+revid: 126129
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event]
@@ -44,6 +44,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 ### Eastern Luminant
 
 -   At the meteor at [Songseeker Wilds](Songseeker_Wilds.md).
+-   In front of the Blacksmith at [Miner's Landing](<Miner's_Landing.md>)
 -   At [Starswept Valley](The_Starswept_Valley.md), near the [The Lordsgrove's door.](The_Lordsgrove.md)
 
 ## Trivia

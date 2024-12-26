@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 126062
+revid: 126168
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -24,7 +24,7 @@ The Heart of Enmity is a [Boss](Bosses.md) found in the [First Layer](First_Laye
 
 | **Name/Danger** | **Description** | **Visual Demo** |
 | --- | --- | --- |
-| Enmity's Call | The Heart of Enmity summons 3 Enmity Servants, which are darker Enforcers with bright yellow eyes. These serve to heal you during the fight via killing them. Unsure if these Enmity Servants are less, more or as equally as strong as the regular Enforcers. |  |
+| Enmity's Call | The Heart of Enmity summons 3 Enmity Servants, which are darker Enforcers with bright yellow eyes. These serve to heal you during the fight via killing them. Unsure if these Enmity Servants are less, more or as equally as strong as the regular Enforcers. (It got a 100 seconds cooldown) |  |
 | Uppercut of Enmity | Heart of Enmity grabs a nearby player, throws them very high in the sky and pierces them through with his axe.
 Parryable:✗
 

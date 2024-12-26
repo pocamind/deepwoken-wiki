@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 125756
+revid: 126147
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -18,9 +18,10 @@ World events are focused on uniting the players towards accomplishing a single g
 
 ## List of World Events
 
-### Luminants
+### World Events
 
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
--   Caeranthil's Wake
+-   Caeranthil's Wake (Is this even a seperate event from The Doom of Caeranthil?)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Etris: Siege](Cinders_of_Etris.md) (Possibly, was named as an example when the idea came up)

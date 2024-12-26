@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 125521
+revid: 126167
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -24,71 +24,95 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 ### Obtainable Oaths
 
-[Oath:\_Oathless](Oath%253A_Oathless.md)
+[⧉](Oath%253A_Oathless.md)
 
-[Oath:\_Oathless](Oath%253A_Oathless.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Oathless
 
-[Oath:\_Arcwarder](Oath%253A_Arcwarder.md)
+(N/A)
 
-[Oath:\_Arcwarder](Oath%253A_Arcwarder.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[⧉](Oath%253A_Arcwarder.md)
 
-[Oath:\_Bladeharper](Oath%253A_Bladeharper.md)
+Arcwarder
 
-[Oath:\_Bladeharper](Oath%253A_Bladeharper.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+(FIR/LTN/FTD)
 
-[Oath:\_Blindseer](Oath%253A_Blindseer.md)
+[⧉](Oath%253A_Bladeharper.md)
 
-[Oath:\_Blindseer](Oath%253A_Blindseer.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Bladeharper
 
-[Oath:\_Contractor](Oath%253A_Contractor.md)
+(WEP/STR/AGL)
 
-[Oath:\_Contractor](Oath%253A_Contractor.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[⧉](Oath%253A_Blindseer.md)
 
-[Oath:\_Chainwarden](Oath%253A_Chainwarden.md)
+Blindseer
 
-[Oath:\_Chainwarden](Oath%253A_Chainwarden.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+(WLL)
 
-  
+[⧉](Oath%253A_Contractor.md)
 
-[Oath:\_Dawnwalker](Oath%253A_Dawnwalker.md)
+Contractor
 
-[Oath:\_Dawnwalker](Oath%253A_Dawnwalker.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+(N/A)
 
-[Oath:\_Fadetrimmer](Oath%253A_Fadetrimmer.md)
+[⧉](Oath%253A_Chainwarden.md)
 
-[Oath:\_Fadetrimmer](Oath%253A_Fadetrimmer.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Chainwarden
 
-[Oath:\_Jetstriker](Oath%253A_Jetstriker.md)
+(STR/FTD/WLL)
 
-[Oath:\_Jetstriker](Oath%253A_Jetstriker.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[⧉](Oath%253A_Dawnwalker.md)
 
-[Oath:\_Linkstrider](Oath%253A_Linkstrider.md)
+Dawnwalker
 
-[Oath:\_Linkstrider](Oath%253A_Linkstrider.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+(N/A)
 
-[Oath:\_Saltchemist](Oath%253A_Saltchemist.md)
+[⧉](Oath%253A_Fadetrimmer.md)
 
-[Oath:\_Saltchemist](Oath%253A_Saltchemist.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Fadetrimmer
 
-[Oath:\_Silentheart](Oath%253A_Silentheart.md)
+(N/A)
 
-[Oath:\_Silentheart](Oath%253A_Silentheart.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[⧉](Oath%253A_Jetstriker.md)
 
-  
+Jetstriker
 
-[Oath:\_Starkindred](Oath%253A_Starkindred.md)
+(AGL)
 
-[Oath:\_Starkindred](Oath%253A_Starkindred.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[⧉](Oath%253A_Linkstrider.md)
 
-[Oath:\_Visionshaper](Oath%253A_Visionshaper.md)
+Linkstrider
 
-[Oath:\_Visionshaper](Oath%253A_Visionshaper.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+(N/A)
 
-[Oath:\_Saintsworn](Oath%253A_Saintsworn.md)
+[⧉](Oath%253A_Saltchemist.md)
 
-[Oath:\_Saintsworn](Oath%253A_Saintsworn.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Saltchemist
 
-  
+(INT)
+
+[⧉](Oath%253A_Silentheart.md)
+
+Silentheart
+
+(WEP/STR/AGL/CHA)
+
+[⧉](Oath%253A_Starkindred.md)
+
+Starkindred
+
+(STR)
+
+[⧉](Oath%253A_Visionshaper.md)
+
+Visionshaper
+
+(CHA)
+
+[⧉](Oath%253A_Saintsworn.md)
+
+Saintsworn
+
+(LTN/SDW/FIR/ICE/WND)
 
 ### Upcoming Oaths
 
@@ -96,7 +120,7 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 ## Oath Skipping
 
-If you've progressed a certain Oath once before to max, you are able to skip the progression next time you reobtain said Oath, this feature applies across slots. Simply talk to the relevant NPC of the Oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note: that you still need to get the requirements of the Oath you wish to skip. If you are a chainwarden or bladeharper, you cannot skip the Oath progression.
+If you've progressed a certain Oath once before to max, you are able to skip the progression next time you reobtain said Oath, this feature applies across slots. Simply talk to the relevant NPC of the Oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note: that you still need to get the requirements of the Oath you wish to skip. If you are a chainwarden, bladeharper or saintsworn, you cannot skip the Oath progression yet (will be added in the future).
 
 ## Oathbreaker - Oath Removal
 
@@ -104,8 +128,7 @@ It is possible to remove your Oath (you can do this as many times as you want) b
 
 Upon breaking an Oath, unique effects will occur:
 
--   [Arcwarder](Oath%253A_Arcwarder.md): ?????????
--   ? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
+-   [Arcwarder](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
     -   You lose some reputation with [The Ignition Union](The_Ignition_Union.md).
     -   Upon talking to Delta he'll say "You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an _Oath_ for a reason, mate."
 -   [Bladeharper](Oath%253A_Bladeharper.md): The Blade Within - "Was this not the future we sought? Perhaps not."
