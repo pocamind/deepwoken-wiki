@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 126048
+revid: 126316
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Armors]
@@ -31,15 +31,6 @@ When interacting with a blacksmith, you get three options: To craft an armor (ou
 _More info: [Transmogrification](Transmogrification.md)_
 
 -   If you have more than one outfit crafted, pressing **Transmog** will allow you to transmogrify currently equipped outfit with any other outfit you've crafted, wearing the **appearance** of the selected outfit but keeping the **stats** of your currently equipped one.
-
-  
-  
-  
-  
-  
-  
-  
-  
 
 ### To turn in pure ores
 

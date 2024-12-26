@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 126232
+revid: 126274
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event]
@@ -40,10 +40,11 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   To the right of [Lower Erisia](Lower_Erisia.md), where [Mortus](Mortus.md) resides.
 -   The small Bandit Camp on the hill with a campfire, under that broken building.
 -   At [Isle of Vigils](Isle_of_Vigils.md), where the barber and the little farm is.
+-   In [Minityrsa](Minityrsa.md) at the top of a spire near the coast, to the right of the shipwright.
 
 ### Eastern Luminant
 
--   At the meteor at [Songseeker Wilds](Songseeker_Wilds.md).
+-   At the meteor at [Songseeker Wilds](Songseeker_Wilds.md) near highway gates.
 -   In front of the Blacksmith at [Miner's Landing](<Miner's_Landing.md>)
 -   At [Starswept Valley](The_Starswept_Valley.md), near the [The Lordsgrove's door.](The_Lordsgrove.md)
 

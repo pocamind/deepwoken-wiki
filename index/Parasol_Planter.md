@@ -1,6 +1,6 @@
 ---
 title: Parasol Planter
-revid: 125950
+revid: 126279
 source: https://deepwoken.fandom.com/wiki/Parasol_Planter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World Event, Equipment, Head, Hats]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Head |
 | rarity | Unique |
-| selling price | 150 Notes |
+| selling price | 100 |
 | requirements | Level 10 |
 | weight | 1 |
 | innate stats | +7 Health +2 Rare Pip +1 Legendary Pip |
@@ -30,4 +30,9 @@ notices:
 
 The Parasol Planter is a Unique Equipment Item found under the "Head" category. This Hat can be found in chests from the [Interluminary Parasol](Interluminary_Parasol.md) at a common-uncommon drop rate.
 
-Grants the user the "[Grotesque Resilience](Talents.md#miscellaneous)" Unique Equipment Talent, which reduces all damage from "Damage Over Time" effects.
+Grants the user the "[Grotesque Resilience](Talents.md#miscellaneous)" Unique Equipment Talent, which reduces all damage from "Damage Over Time" effects by seemingly 75%.
+
+-   Notably, it does not work on all Damage over Time effects.
+    -   It does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), Rush Hour from Bloodrend
+-   Grotesque Resilience works on:
+    -   Burn

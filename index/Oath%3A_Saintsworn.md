@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 126230
+revid: 126287
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -158,4 +158,5 @@ Frostdraw **Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seekin
 -   Saintsworn's cosmetic, the Pseudo-Hero's Blades, cannot be dyed.
 -   Saintsworn gives the most mantra slots out of any oath, being 5 total mantra slots.
 -   The Saintsblade (and, by extension, the mantra that varies based on your current Saint Stance, Blade of Saints) does NOT change color in accordance to attunement paths. This is likely a bug.
--   Saint's Overload have 20 seconds of duration before going off.
+-   Saint's Overload have 20 seconds of duration before going off and it can be seen from the flying blade that it changes color to white.
+-   The 5 blade on your back will be vanished one by one after Hero's Assist is triggered.

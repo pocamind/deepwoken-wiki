@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 126263
+revid: 126277
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -164,23 +164,24 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
   <td colspan="4">[See Shop UI]</td>
 </tr>
 <tr>
-  <td colspan="2">1. Could you remind me what you wanted me to do?</td>
-  <td colspan="2">2. What rewards did you have in mind for bringing you Joy?</td>
-  <td colspan="2">3. If I could ask - what do you need Joy for, anyway?</td>
-  <td colspan="2">4. You mentioned you were a senior something at the... somewhere?</td>
+  <td colspan="2">Could you remind me what you wanted me to do?</td>
+  <td colspan="2">What rewards did you have in mind for bringing you Joy?</td>
+  <td colspan="2">If I could ask - what do you need Joy for, anyway?</td>
+  <td colspan="2">You mentioned you were a senior something at the... somewhere?</td>
 </tr>
 <tr>
   <td colspan="2">A task most simple, my surface dwelling friend - bringest me Joy, and in exchange, I shalt reward thee with something in return.</td>
-  <td colspan="2">[See First Encounter -&gt; 1. Something in return, you say? What do you have in mind?] (Includes Follow-up dialogue choices)</td>
-  <td colspan="2">[See First Encounter -&gt; 2. If I could ask - what do you need Joy for, anyway?] (Includes Follow-up dialogue choices)</td>
-  <td colspan="2">[See First Encounter -&gt; 3. A senior what at the *where*?]</td>
+  <td colspan="2">[See First Encounter -&gt; Section A.1]</td>
+  <td colspan="2">[See First Encounter -&gt; Section A.1.1]</td>
+  <td colspan="2">[See First Encounter -&gt; Section C]</td>
 </tr>
 <tr>
-  <td>1. Something in return, you say? What do you have in mind?</td>
-  <td>2. If I could ask - what do you need Joy for, anyway?</td>
+  <td>Something in return, you say? What do you have in mind?</td>
+  <td>If I could ask - what do you need Joy for, anyway?</td>
 </tr>
 <tr>
-  <td colspan="2">[See first instances]</td>
+  <td>[A.1]</td>
+  <td>[A.1.1]</td>
 </tr>
 </tbody>
 </table>
@@ -201,27 +202,35 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
   <td colspan="12">Hmmst.. <b>[number] people</b>, you say? My intuition was true, then! Brilliant! Veritable numbers! What wouldst thou like, then? Have a gander at my musickal collection.</td>
 </tr>
 <tr>
-  <td>2. Eggs In A Basket [20 Joy]</td>
-  <td>3. Our Fortress (Of Smoke And Steel) [20 Joy]</td>
-  <td>4. Tale of the Storm [20 Joy]</td>
-  <td>7. The Hammer's Call [20 Joy]</td>
-  <td>8. The Song of Fathoms / Oscillation [20 Joy]</td>
-  <td>1. A Light In The Sky [50 Joy]</td>
-  <td>5. The Ferryman's Lullaby [20 Joy]</td>
-  <td>6. The Gideshu March [20 Joy]</td>
-  <td colspan="2">9. Galpin's Spectral Instrument Set [200 Joy]</td>
-  <td colspan="2">Not enough Joy for any purchase</td>
+  <td colspan="6">2. Eggs In A Basket [20 Joy]<br>
+  3. Our Fortress (Of Smoke And Steel) [20 Joy]<br>
+  4. Tale of the Storm [20 Joy]<br>
+  7. The Hammer's Call [20 Joy]<br>
+  8. The Song of Fathoms / Oscillation [20 Joy]</td>
+  <td colspan="6">At last, sweets ahoy! I thank thee. Enjoy the fine musick, my friend, and a Joyous Hallowtide to thee!</td>
 </tr>
 <tr>
-  <td colspan="5">At last, sweets ahoy! I thank thee. Enjoy the fine musick, my friend, and a Joyous Hallowtide to thee!</td>
-  <td colspan="3">[See -&gt; Book Dialogue]</td>
-  <td colspan="2">[See -&gt; Spectral Instrument]</td>
-  <td colspan="2">Hmmst. Nay, I am afraid that is not quite enough, friend. Go out there and scare some souls, rapscallion!</td>
+  <td colspan="6">1. A Light In The Sky [50 Joy]</td>
+  <td colspan="6">*<i>Galpin's hand trembles slightly as he hands you the musical broadsheet.</i>* This one has great sentimental value to me... But worry not! 'Tis merely a copy. Enjoy thine song, and Joyous Hallowtide!</td>
 </tr>
 <tr>
-  <td colspan="5">End</td>
-  <td colspan="5"></td>
-  <td colspan="2">End</td>
+  <td colspan="6">5. The Ferryman's Lullaby [20 Joy]</td>
+  <td colspan="6">*<i>Galpin scratches his head with mild frustration.</i>* Hmpf! This one always vexed me. 'Tis such a melancholy song, and the words ring so prettily... But, they sing of such foul fellow! Blech! Why, shan't anyone write fine songs of <i>our</i> kind? Us Spellhardts alone are worth a ditty or two!.. Ah, but I forget myself - enjoy thine tune, and Joyous Hallowtide!</td>
+</tr>
+<tr>
+  <td colspan="6">6. The Gideshu March [20 Joy]</td>
+  <td colspan="6">*<i>Galpin gives you a strange, suspicious look.</i>* Hmst... Speak not of this exchange to the Authority, yes? The last thing I need is those book-burning blockheads pilfering my beloved broadsheet collection. Nonetheless - enjoy thine musick, and Joyous Hallowtide!</td>
+</tr>
+<tr>
+  <td colspan="6">9. Galpin's Spectral Instrument Set [200 Joy]</td>
+  <td colspan="6"><center><i><b>Unlocked: <a href="Instruments.md#spectral-instruments"><font>Spectral Instruments</font></a></b></i></center>*<i>Galpin retrieves a set of shimmering, translucent musical instruments. They feel weightless, incorporeal, and cold to the touch. Small ghastly wisps of ether emanate from them.</i>* A fine choice, indeed! These are rare, did thou knowst? I wouldst not part with these instruments of musick were it not for their whisperings at night... I am a light sleeper, thou understandest. Enjoy thine spoils - and Joyous Hallowtide!</td>
+</tr>
+<tr>
+  <td colspan="6">Not enough Joy for any purchase</td>
+  <td colspan="6">Hmmst. Nay, I am afraid that is not quite enough, friend. Go out there and scare some souls, rapscallion!</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -240,49 +249,6 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
 </tr>
 <tr>
   <td colspan="12">Hmpf! No Joy to tempt Lysander with, no sweets for me - and no deals for thee, I am afraid! Returnst to me when thou hast scared some people, friend.</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
-</tr>
-</tbody>
-</table>
-
-**Book Dialogue:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="4">A Light In The Sky [50 Joy]</td>
-  <td colspan="4">The Ferryman's Lullaby [20 Joy]</td>
-  <td colspan="4">The Gideshu March [20 Joy]</td>
-</tr>
-<tr>
-  <td colspan="4">*<i>Galpin's hand trembles slightly as he hands you the musical broadsheet.</i>* This one has great sentimental value to me... But worry not! 'Tis merely a copy. Enjoy thine song, and Joyous Hallowtide!</td>
-  <td colspan="4">*<i>Galpin scratches his head with mild frustration.</i>* Hmpf! This one always vexed me. 'Tis such a melancholy song, and the words ring so prettily... But, they sing of such foul fellow! Blech! Why, shan't anyone write fine songs of <i>our</i> kind? Us Spellhardts alone are worth a ditty or two!.. Ah, but I forget myself - enjoy thine tune, and Joyous Hallowtide!</td>
-  <td colspan="4">*<i>Galpin gives you a strange, suspicious look.</i>* Hmst... Speak not of this exchange to the Authority, yes? The last thing I need is those book-burning blockheads pilfering my beloved broadsheet collection. Nonetheless - enjoy thine musick, and Joyous Hallowtide!</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
-</tr>
-</tbody>
-</table>
-
-**Spectral Instrument:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">Galpin's Spectral Instrument Set [200 Joy]</td>
-</tr>
-<tr>
-  <td colspan="12"><i><b>Unlocked: Spectral Instruments</b></i><br>
-  *<i>Galpin retrieves a set of shimmering, translucent musical instruments. They feel weightless, incorporeal, and cold to the touch. Small ghastly wisps of ether emanate from them.</i>* A fine choice, indeed! These are rare, did thou knowst? I wouldst not part with these instruments of musick were it not for their whisperings at night... I am a light sleeper, thou understandest. Enjoy thine spoils - and Joyous Hallowtide!</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

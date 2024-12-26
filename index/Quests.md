@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 124986
+revid: 126285
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -94,7 +94,7 @@ When these quests are completed, they give a Talent (or [mantra](Mantras.md) in 
 
 **Quest Location**: [Sanctuary Gatehouse](Second_Layer.md) (Layer 2)
 
-**Guide**: Talk to a seemingly insane Capra in rags named Kasen in layer 2. You must have gotten 80 WIllpower and at least stage one of insanity before claiming this.
+**Guide**: Talk to a seemingly insane Capra in rags named Kasen in layer 2. You must have 80 Willpower and have gotten at least stage one of insanity on the slot you attempt to obtain Heretic's Sutra on before claiming this.
 
 **Reward/s**: Heretic's Sutra.
 

@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 126221
+revid: 126327
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -32,15 +32,6 @@ The stats of your currently equipped outfit will be kept.
 
 Transmog UI
 
-  
-  
-  
-  
-  
-  
-  
-  
-
 ## Smelting
 
 Two equipment of the same type (e.g. Leather Boots and Enforcer Boots) are combined into one.
@@ -53,16 +44,15 @@ Two equipment of the same type (e.g. Leather Boots and Enforcer Boots) are combi
 -   What carries over from the first item held:
     -   Stats
     -   Equipment [Talents](Talents.md) (including Blinded)
-    -   Enchantments (_The enchanted item will remain soulbound if worn/equipped previously_).
+    -   Enchantments (_The enchanted item will remain soulbound if worn/equipped previously_)
+    -   Stat requirements (_You can smelt the appearance of an item you don't have the stat requirements to equip onto an item that you do_) (pictured)
 -   Smelting a _dyed piece of gear_ will cause the dyed gear to _**revert back to its original coloration**_ upon being smelted.
 -   Smelting items **WILL NOT** soulbind the new item, even if you equip it, unless the new smelted item is enchanted afterwards. You can equip/unequip and drop them as you please. (?)
     -   _Do note that this means you have potential to drop this smelted item upon death if it isn't being worn._
 -   If you back out of the dialogue without completing the smelt, [Jarvis](Jarvis.md) (or the guild Artisan) will hold the items for you until you come back.
--   Stat requirement is based on the equipment used for its stats, so you can smelt the appearance of an item you don't have the stat requirements to equip onto an item that you do. (pictured)
--   If you smelt the first item **A1** and the second item **B2** (A1 takes the appearance of B2) and then smelt first another item **C1** with item **A1**, it'll keep **B2'**s appearance (TLDR: Smelt A and B, A looks like B, smelt C and A, C looks like B).
-    -   If you smelt **C** as the 2nd item, you'll keep **A1'**s stats and change the appearance to **C**.
--   You can smelt an item with another copy of the same item.
 -   Smelted items can be passed down.
+-   If you smelt the first item **A1** and the second item **B2** (A1 takes the appearance of B2) and then smelt first another item **C1** with item **A1**, it'll carry over **B2'**s appearance (TLDR: Smelt A and B, A looks like B, smelt C and A, C looks like B).
+    -   If you smelt **C** as the 2nd item, you'll keep **A1'**s stats and change the appearance to **C**.
 
 ### To smelt items
 
@@ -70,3 +60,7 @@ Two equipment of the same type (e.g. Leather Boots and Enforcer Boots) are combi
 -   Alternatively, you can purchase your own personal Artisan by obtaining the Trophy Room in your [Guild Base](Guild_Bases.md).
 
 Stat Requirement is based on the equipment used for its stats, as you can see a freshie wearing a Fleet Warden Cape smelted onto a Tundra Scarf but can't wear the Vanguard Brace smelted onto a Beige Aristocrat Coat.
+
+#### Other notes
+
+-   You can smelt an item with another copy of the same item.

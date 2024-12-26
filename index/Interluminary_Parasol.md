@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 126253
+revid: 126294
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Monsters, World Event]
@@ -87,15 +87,18 @@ Summoning Nautilodaunts, Alpha megaladaunts, or Broodlords.
 </tbody>
 </table>
 
-## Trivia
-
--   Cannons are useless.
-
--   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
--   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit.
-
-  
-
 ## Gallery
 
 File:Symphonyandtheypet.png
+
+  
+
+## Tips & Tricks
+
+-   Cannons are useless.
+-   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
+-   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit.
+
+## Trivia
+
+-   Insert cool fact here :D

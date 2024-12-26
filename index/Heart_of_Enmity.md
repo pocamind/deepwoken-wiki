@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 126264
+revid: 126288
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -31,7 +31,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 | 
 Enmity's Call
 
- | The Heart of Enmity summons 3 Enmity Servants, which are darker [Enforcers](Enforcer.md) with bright yellow eyes. These serve to heal you during the fight via killing them. Unsure if these Enmity Servants are less, more or as equally as strong as the regular Enforcers. (It got a 100 seconds cooldown) |  |
+ | The Heart of Enmity summons 3 Enmity Servants, which are darker [Enforcers](Enforcer.md) with bright yellow eyes. These serve to heal you during the fight via killing them. Unsure if these Enmity Servants are less, more or as equally as strong as the regular Enforcers. This move has a cooldown of around 100 seconds. |  |
 | 
 
 Uppercut of Enmity  
@@ -150,7 +150,7 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 -   Have one person bring a [repair kit](Repair_Kit.md) or two, as the boss does a lot of armor damage.
 -   Bring warrior's respite to heal while not aggroing the boss.
 -   If you're struggling with blood levels, head to [Songseeker](Songseeker_Wilds.md) and unlock **[Bloodrend](Bloodrend.md)**. Obtain the **Bloodorb** mantra to heal blood using the blood pools during the fight.
-    -   Alternatively, you can also get grand feast and use it to heal blood from the enforcers spawned.
+    -   Alternatively, you can also get grand feast and use it to heal blood from the enforcers spawned or run the multiplicity armor enchant.
 
 ###### Resonances
 
@@ -164,3 +164,4 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 -   The Heart of Enmity has the highest base health out of any entity in the game.
 -   It can spawn corrupted. This is restorable as it's not intended.
 -   It is unclear if the Heart of Enmity is the physical form of the [Voice of Enmity](Voices_of_the_Depths.md), or just a stronger monster variant used in the trial. However due to the dialogue given after defeating the boss, it implies is the physical form of the Voice of Enmity.
+-   Their summons are internally referred to as ".enmity\_enforcer\_WEAPON"

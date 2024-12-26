@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 126234
+revid: 126330
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -59,7 +59,9 @@ Blockable:✗
 Dodgeable:✗  
 FYW parryable:◯
 
- |  |
+ | 
+
+ |
 | 
 
 **Barrel Roll**  
@@ -111,6 +113,14 @@ Dodgeable:✗
 
  |
 
+## Tips and Strategies
+
+-   You can only damage the Doom on its underside (and possibly the head aswell)
+-   Be cautious when using boats to attack the Doom, when it dives, it will Sudden Ambush on the closest area with large player amount, if none are found it will instead strike the closest boat.
+-   Sudden Ambush and Luminant Beam are one-shot moves.
+-   Payback can tank the Sudden ambush move, but its unable to hit the serpent with it.
+-   Mythic stability can save you from one-shot moves. (tidekeeper can't)
+
 ## Loot Table/Rewards
 
 | Weapons | Equipments | Miscellaneous |
@@ -131,7 +141,7 @@ Dodgeable:✗
  | 
 
 -   Warlock's Brim
--   Warlock's Mantle
+-   [Warlock's Mantle](<Warlock's_Mantle.md>)
 -   Sky Warlock's Brim
 -   Lilac Warlock's Brim
 -   Sky Warlock's Mantle
@@ -166,10 +176,4 @@ Dodgeable:✗
 
 ## Trivia
 
--   You can only damage the Doom on its underside (and possibly the head aswell)
--   Be cautious when using boats to attack the Doom, when it dives, it will Sudden Ambush on the closest area with large player amount, if none are found it will instead strike the closest boat.
--   Sudden Ambush and Luminant Beam are one-shot moves.
-
--   Payback can tank the Sudden ambush move, but its unable to hit the serpent with it.
-
--   Mythic stability can save you from one-shot moves. (tidekeeper can't)
+-   When it was first teased, it was known to the devs and community as the "World Serpent" before undergoing a more lore-based rename on release.
