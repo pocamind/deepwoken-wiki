@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 125542
+revid: 126408
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -25,7 +25,7 @@ categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Cr
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Dormant Splinter, Razor Cutlass, 10 Umbrite in The Cold Forge |
+| obtainment | Dormant Splinter, Razor Cutlass, 3 Umbrite in The Cold Forge |
 | description | Once a derelict frame, now restored by your offerings, pulsing quicker and quicker... Its fibers twist and crack, reaching out to consume the cutlass, its shape warping into a rough mirage of the weapon. Infused with minerals it once knew, channeling the warped umbrite through its slick inky veins. Each strike drains the very soul of your foes, leaving them withered and undone. |
 
 _This might have not been the page you were looking for, if you were looking for the [Dormant Splinter](Dormant_Splinter.md)'s other craftable, view the [Fondant Splitter](Fondant_Splitter.md)._
@@ -40,7 +40,7 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
 -   [Dormant Splinter](Dormant_Splinter.md)
 -   [Razor Cutlass](Razor_Cutlass.md)
--   10 [Umbrite](Ores.md)
+-   3 [Umbrite](Ores.md)
 
 Meeting the Requirement of 65 MED, the damage is **19.3 + 5.8 \[BLD\]**
 
@@ -56,6 +56,8 @@ The user gains a purple sigil on their head and aura around them with brief hype
 
 ## Version History
 
+-   December Somewhenth 2024.
+    -   Umbrite Witherblade crafting cost reduced (10 -> 3 [Umbrite](Ores.md))
 -   December 24th 2024.
     -   Increased Umbrite Witherblade swing speed (1x -> 1.02x)
 -   December 19th 2024.

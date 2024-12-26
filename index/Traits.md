@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 121994
+revid: 126373
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,7 +30,7 @@ Each trait can only be increased up to 6 points.
 ### Proficiency
 
 -   Increase [Weapons](Weapons.md) **scaling** for M1's and Critical Attacks by 6.5% per point.
--   Apply 3% **pen** to all [Weapon](Weapons.md) M1's and Critical Attacks per point.
+-   Apply 2.5% **pen** to all [Weapon](Weapons.md) M1's and Critical Attacks per point.
 -   Maximum of 39% increase from **scaling.**
 -   **This also applies to EVERY weapon. Hero Blades, Crypt Blades, Light's Final Toll, everything.**
 -   Be warned, as this only increases the scaling, not base damage, and as such, should only be used on **high** scaling weapons such as Hivelord's Hubris.
@@ -38,6 +38,6 @@ Each trait can only be increased up to 6 points.
 ### Songchant
 
 -   Increase [Mantra](Mantras.md) **scaling** by 5% per point. (Maximum of 30% increase from **scaling)**
--   Increase [Mantra](Mantras.md) **pen** by 3% per point. (Maximum of 18% increase from **pen**)
+-   Increase [Mantra](Mantras.md) **pen** by 2.5% per point. (Maximum of 15% increase from **pen**)
 -   On Oath and monster mantras, instead increase the damage output by 2% per point.
 -   This does NOT affect the scaling on attunement weapons, only Mantras.

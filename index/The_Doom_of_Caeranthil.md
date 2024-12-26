@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 126330
+revid: 126406
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -103,12 +103,14 @@ Dodgeable:✗
 **Luminant Beam**  
 (★★★)
 
- | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips.
+ | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips. Appears to only do it if it is infront of etris docks and aims near the well near the dock.
 
 -   Only unlocked after The Doom reaches 2 bars of health.
 
-Parryable:✗  
-Blockable:✗  
+Parryable:✗
+
+Blockable:✗
+
 Dodgeable:✗
 
  |
@@ -140,7 +142,7 @@ Dodgeable:✗
 
  | 
 
--   Warlock's Brim
+-   [Warlock's Brim](<Warlock's_Brim.md>)[\[1\]](https://deepwoken.fandom.com/wiki/Warlock%27s_Brim)
 -   [Warlock's Mantle](<Warlock's_Mantle.md>)
 -   Sky Warlock's Brim
 -   Lilac Warlock's Brim

@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 126288
+revid: 126386
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -136,6 +136,7 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 -   It is recommended to fight the Heart of Enmity with only 5 people, as each extra player adds another 50 thousand health to the boss, and makes it difficult to not friendly fire.
 -   Fight the Heart of Enmity in teams of one or two, taking turns to engage the boss. Rest and switch out with teammates as needed to manage the battle effectively.
 -   Try not to hit allies with your offensive bells or high damage moves.
+-   Wear a [Grand Fisher Plate](Grand_Fisher_Plate.md) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit is practically required, because it allows you to parry all of his non-parryable attacks.
 -   Bring [Sightless Beam](Oath%253A_Blindseer.md), as it does 10% of its health.
     -   This is because Sightless Beam deals bonus damage to [Depths](First_Layer.md) [Monsters](Monsters.md)
 
@@ -148,7 +149,7 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 
 -   Get the talent **Mythic Stability**, as it makes you ungrippable to auto-grip abilities, which is useful against the Heart of Enmity’s auto-grip attacks.
 -   Have one person bring a [repair kit](Repair_Kit.md) or two, as the boss does a lot of armor damage.
--   Bring warrior's respite to heal while not aggroing the boss.
+-   Bring Warrior's Respite to heal while not aggroing the boss.
 -   If you're struggling with blood levels, head to [Songseeker](Songseeker_Wilds.md) and unlock **[Bloodrend](Bloodrend.md)**. Obtain the **Bloodorb** mantra to heal blood using the blood pools during the fight.
     -   Alternatively, you can also get grand feast and use it to heal blood from the enforcers spawned or run the multiplicity armor enchant.
 

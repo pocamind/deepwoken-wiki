@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 126294
+revid: 126370
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Monsters, World Event]
@@ -95,10 +95,11 @@ File:Symphonyandtheypet.png
 
 ## Tips & Tricks
 
--   Cannons are useless.
+-   Has incredibly high resistance to cannons
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
 -   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit.
 
 ## Trivia
 
--   Insert cool fact here :D
+-   Currently, it will sometimes not spawn with its tentacles visible, the spike it attacks you with will instead be floating
+-   If it spawns near songseeker it will almost always get stuck on the highway gate near Fort merit allowing an easy kill

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 126197
+revid: 126396
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Oathless | |
 |---|---|
 | oath_req | 10 minutes of playtime |
-| effects | +10 Health, +20% Oath Resistance, +2 Wildcard Mantra Slots |
+| effects | +10 Health, +20% Oath Resistance, +3 Wildcard Mantra Slots |
 
 “ Those eyes.. you wish to walk alone too. ”
 
@@ -46,7 +46,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Effects
 
-This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath Resistance. Oath Resistance decreases the damage received from all Oath-related attacks,[\[1\]](#cite-note-1) including Mantras and [Silentheart](Oath%253A_Silentheart.md) Talents.
+This Oath grants the player three extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath Resistance. Oath Resistance decreases the damage received from all Oath-related attacks,[\[1\]](#cite-note-1) including Mantras and [Silentheart](Oath%253A_Silentheart.md) Talents.
 
 As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not, which makes sense because Oathless makes you unbound to an Oath. Unless seen in a Bounty Board.
 
@@ -55,7 +55,7 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 -   The first Oath to be released in the game.
     -   Used to be obtainable through a hand of cards at around [Power](Power.md) 30 (the equivalent to current-day Power 10).
 -   Commonly agreed to be a subpar Oath compared to the other non-stat locked Oaths.
-    -   However, being the only Oath to grant +2 Wildcard slots (with others giving only 1 or none) and its solid stats makes Oathless very flexible.
+    -   However, being the only Oath to grant +3 Wildcard slots (with others giving only 1 or none) and its solid stats makes Oathless very flexible.
 -   Obtaining Oathless doesn't award the Oathsworn [badge](Badges.md).
 -   You can still use [Shrine of Order](Deep_Shrines.md#shrine-of-order) if you have Oathless.
 -   All of its quest characters are named after cities in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. (These are all colours, Cerulean is blue, Viridian and celadon and blueish greens, and saffron is red.)

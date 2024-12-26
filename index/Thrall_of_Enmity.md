@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 126140
+revid: 126376
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -15,7 +15,7 @@ categories: [Equipment, Face, Masks]
 | selling price | N/A |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +3 Rare Pip |
+| innate stats | +1 Rare Pip |
 | innate talent | Lose Your Mind |
 | bankable | Yes |
 | droppable | Yes |
@@ -38,5 +38,7 @@ Additionally the wearer will gain an animated spinning ring on the back of their
 
 ## Trivia
 
+-   It is a part of the Enmity set consisting of the [Bastions of Enmity](Bastions_of_Enmity.md) arms, the [Wartreads of Enmity](Wartreads_of_Enmity.md) boots, the [Aegis of Enmity](Aegis_of_Enmity.md) helmet, and the **Thrall of Enmity** face.
+-   This equipment was secretly nerfed shortly after release. It previously granted the wearer 3 Health and 1 Legendary pip.
 -   The halo will change colors according to whatever the mask may be dyed.
 -   The mask resembles the ones worn by [Angels](Hollow_Angel.md).

@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 123316
+revid: 126394
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -36,19 +36,42 @@ It has some basic functions but merely acts as a safe place for moderators to wo
 -   At the end of the hall, there is a sword in a stone.
 -   Other than being a gallery, this also serves as an arena for Moderators to fight.
 
+## Kindergarden
+
+A place of where the moderators learn..?
+
+\- Do tickets or go to detention
+
+\- A supposed moderator in detention
+
+\- Overview of the Kindergarden
+
+\- A creepy guy that stares into the souls of those who learn
+
+## **Fishing**
+
+An area where the moderators can [fish](Fishing.md), however if you fall down into the pit, you get sent down to the [Depths](First_Layer.md)
+
 ### Kitchen
 
 -   An ordinary kitchen you would find in an office.
+-   A fridge, with 2 signs on it.
 -   Motivational posters are hung, all of these reading:
     -   SELF-WORTH: MY HEAD MAY BE SKINNY AND TALL BUT AT LEAST I'M NOT A FELINOR
-    -   DETERMINATION: DESIRE IS THE KEY TO MOTITVATION, BUT IT'S DETERMINATION AND COMMITMENT TO AN UNRELATING PURSUIT OF YOUR GOAL
-    -   SURVIVAL: SURVIVAL DEPENDS ON WHAT YOU THINK, NOT WHAT YOU DO
+
+-   DETERMINATION: DESIRE IS THE KEY TO MOTITVATION, BUT IT'S DETERMINATION AND COMMITMENT TO AN UNRELATING PURSUIT OF YOUR GOAL
+
+-   SURVIVAL: SURVIVAL DEPENDS ON WHAT YOU THINK, NOT WHAT YOU DO
+
+-   MINDFULNESS - unreadable
+
 -   There is also a "Coffee Machine", which is actually bags of blood connecting to a jar.
 -   A microwave acting as an interactable campfire.
 
 ### Cosmetics Room
 
 -   A room populated by [Fadetrimmer](Oath%253A_Fadetrimmer.md) entities.
+-   GRUMBLE - A Reskinned dark humanoid barber.
 
 ### Office Creature
 

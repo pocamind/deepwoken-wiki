@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 126038
+revid: 126418
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -157,6 +157,25 @@ Variants
 
  |
 | --- | --- | --- | --- | --- |
+|  | 
+
+[Aegis of Enmity](Aegis_of_Enmity.md)
+
+ | 
+
+_+5 Health_
+
++1 Legendary Pip
+
+**Requires Power 15, Fortitude 10**
+
+ | 
+
+Found From:
+
+-   [Heart of Enmity](Heart_of_Enmity.md)
+
+ | N/A |
 | File:Alchemist Hat.png | 
 
 [Alchemist's Hat](<Alchemist's_Hat.md>)
@@ -1094,9 +1113,7 @@ _+10 Health_
 
 _+1 Posture_
 
-+2 Rare Pip
-
-+2 Legendary Pip
++1 Legendary Pip
 
  | 
 
@@ -1545,6 +1562,27 @@ Sources:
 -   Prize from winning a [Fanart Contest](Developer_Specs.md)
 
  | N/A |
+| File:Brimlilal2.png | 
+
+[Warlock's Brim](<Warlock's_Brim.md>)
+
+ | 
+
+_+5 Health_
+
++2 Legendary Pip
+
++1 Rare Pip
+
+**Requires Power 16, Intelligence 5**
+
+ | 
+
+Found From:
+
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+
+ | Sky,Lilac,Verdant,Navy |
 
 **Arms:**
 
@@ -1768,6 +1806,27 @@ Found from:
 Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**~33%**)
+
+ | N/A |
+| File:Bastionsofemnity.png | 
+
+[Bastions of Enmity](Bastions_of_Enmity.md)
+
+ | 
+
+_+10 Health_
+
+_+2 Posture_
+
++3 Legendary Pips
+
+**Requires Power 15, Fortitude 10**
+
+ | 
+
+Found from:
+
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  | N/A |
 | File:Black Overcoat.png | 
@@ -3291,6 +3350,30 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  | N/A |
+| File:Navymantle.png | 
+
+[Warlock's Mantle](<Warlock's_Mantle.md>)
+
+ | 
+
+_+7 Health_
+
++1 Rare Pip
+
++2 Legendary Pips
+
+_+Talent: Overflowing Dam_
+
+**Requires Power 16, Intelligence 5**
+
+ | 
+
+Found from:
+
+-   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+
+ | Lilac, Navy, Sky, Verdant |
 | File:White Overcoat.png | 
 
 White Overcoat
@@ -4059,6 +4142,27 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+
+ | N/A |
+| File:Screenshot 2024-12-24 180347.png | 
+
+[Wartreads of Enmity](Wartreads_of_Enmity.md)
+
+ | 
+
+_+5 Health_  
+
++2 Legendary Pips
+
+_+Talent: Perseverance_
+
+**Requires Power 15**
+
+ | 
+
+Found From:
+
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  | N/A |
 |  | 
@@ -5153,6 +5257,23 @@ Found from:
 Source from:
 
 -   [The Guy](The_Guy.md)
+
+ | N/A |
+|  | 
+
+[Thrall of Enmity](Thrall_of_Enmity.md)
+
+ | 
+
++1 Rare Pip
+
+_+Talent: Lose Your Mind_
+
+ | 
+
+Found from:
+
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  | N/A |
 |  | 

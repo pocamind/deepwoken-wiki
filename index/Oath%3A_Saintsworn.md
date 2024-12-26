@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 126287
+revid: 126363
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -73,9 +73,9 @@ Make sure not to touch the ice on the floor as it instantly kills you.
 
 To progress Saintsworn, you need to complete [World Events.](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Interluminary Parasol](Interluminary_Parasol.md), and [Carnival of Hearts](Carnival_of_Hearts.md))
 
-With the first kill, you will get Ether Proselyte, Hero's Assist and Saint's Negation.
+With the first completion of the World Event, you will get Ether Proselyte, Hero's Assist and Saint's Negation.
 
-With the second kill, you will get the Saint's Sinergy and Saint's Overload.
+With the second completion, you will get the Saint's Sinergy and Saint's Overload.
 
 ## Critical(s)
 

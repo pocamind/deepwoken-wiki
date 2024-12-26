@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 126237
+revid: 126347
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
@@ -18,7 +18,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
 | swing speed | 0.95x |
 | penetration | 25% |
 | chip damage | 10% |
-| special effect | Applies an orange eye mark on m1 |
+| special effect | Applies an orange eye mark on M1s. |
 | stances | 2 Handed, 1 Handed |
 | weight | 4 |
 | bankable | Yes |
@@ -30,13 +30,13 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
 
 ## Description
 
-The Eye of Malice is a Legendary Medium Sword that drops from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It is a whipblade made of several segments and made from the corpse of the World Serpent.
+The Eye of Malice is a Legendary Medium Sword that drops from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It is a whipblade made of several segments.
 
 The M1s proc an orange eye mark. (purpose yet to find)
 
 ## Critical
 
-The Eye of Malice's critical makes the user jump and thrust the weapon in front of them, piercing it through anyone in the way. Additionally, hitting the critical attack will teleport the user behind their target and backstab them. Procs Spine Cutter.
+The Eye of Malice's critical makes the user jump and thrust the weapon in front of them, piercing it through anyone in the way. Additionally, hitting the critical attack while the opponent is marked will teleport the user behind their target and backstab them. Procs Spine Cutter.
 
 ## Trivia
 
