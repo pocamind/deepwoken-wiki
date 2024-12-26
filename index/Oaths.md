@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 126167
+revid: 126207
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -153,7 +153,7 @@ Upon breaking an Oath, unique effects will occur:
 -   [Linkstrider](Oath%253A_Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
     -   This Oath does not become locked after being broken.
 
--   [Oathless](Oath%253A_Oathless.md): Cerulean - "The way opens more to you, my disciple. Safe travels."
+-   [Oathless](Oath%253A_Oathless.md): [Cerulean](Cerulean.md) - "The way opens more to you, my disciple. Safe travels."
     -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? / **I'd like to become Oathless once more.**
         -   You'll regain [Oathless](Oath%253A_Oathless.md).
 -   [Saltchemist](Oath%253A_Saltchemist.md): ??? - "_Your body feels still. Inert. The Panacea's effects have worn off_."
@@ -167,7 +167,7 @@ Upon breaking an Oath, unique effects will occur:
     -   Talking to [Surge](Surge.md) again will prompt the following conversation:
         -   "Retired from the Hunt, eh? If you can prove yourself a hunter again I'd be happy to welcome you back." / **Bring me back.**
         -   "Hmm... Perhaps you are ready after all... But be mindful that this is only the beginning." / **\[End Dialogue\]**
-            -   You'll be brought to [A Conscious Intersection](A_Conscious_Intersection.md) again and by talking to [The Nestmind](The_Nestmind.md) again, you'll regain [Visionshaper](Oath%253A_Visionshaper.md) (You'll need void feathers).
+            -   You'll be brought to [A Conscious Intersection](A_Conscious_Intersection.md) again and by talking to [The Nestmind](The_Nestmind.md) again, you'll regain [Visionshaper](Oath%253A_Visionshaper.md) (You'll need [void feathers](Dark_Feather.md)).
 
 Note: Wiping after breaking your Oath will leave the "Obtained an Oath" echo task incomplete if you didn't make a new Oath prior to wiping.
 

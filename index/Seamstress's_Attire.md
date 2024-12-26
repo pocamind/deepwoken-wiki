@@ -1,6 +1,6 @@
 ---
 title: "Seamstress's Attire"
-revid: 125728
+revid: 126218
 source: https://deepwoken.fandom.com/wiki/Seamstress's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, World Event]
@@ -29,3 +29,5 @@ This Outfit's Schematic can be found in:
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [First Layer](First_Layer.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+
+It is also sold by [Nyanna](Nyanna.md) for 200 Notes.

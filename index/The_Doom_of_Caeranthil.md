@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 126085
+revid: 126234
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -20,102 +20,96 @@ When the Doom spawns, a danger notification will flash on the screen, calling pl
 
 Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted (If they don't have it) and a chest with loot will spawn at the player's location.
 
+Immune to cannon damage. Attempting to damage it with a cannon will not aggro it.
+
 ## Moves
 
 | Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
-**Dive**
+**Dive**  
+(☆☆☆)
 
-(☆☆☆) | The Doom dives in the water, taking a couple of seconds before submerging into the water.
+ | The Doom dives in the water, taking a couple of seconds before submerging into the water.
 
 -   He will use either Sudden Ambush or Pressure Eruption after this move
 
  |  |
 | 
 
-**Pressure Eruption**
+**Pressure Eruption**  
+(★★☆)
 
-(★★☆) | The Doom summons multiple geysers underneath players that fling you into the air, able to knock players from their boat into the water, dealing great damage.
+ | The Doom summons multiple geysers underneath players that fling you into the air, able to knock players from their boat into the water, dealing great damage.
 
-Parryable:✗
-
-Blockable:✗
-
+Parryable:✗  
+Blockable:✗  
 Dodgeable:◯
 
  |  |
 | 
 
-**Sudden Ambush**
+**Sudden Ambush**  
+(★★★)
 
-(★★★) | Giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity. Auto-grips.
+ | Giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity. Auto-grips.
 
-Parryable:✗
-
-Blockable:✗
-
-Dodgeable:✗
+Parryable:✗  
+Blockable:✗  
+Dodgeable:✗  
+FYW parryable:◯
 
  |  |
 | 
 
-**Barrel Roll**
-
+**Barrel Roll**  
 (★☆☆)
 
  | When getting attacked by weapons, the Doom spins horizontally, knocking back players and doing a low amount of damage
 
-Parryable:?
-
-Blockable:?
-
+Parryable:◯  
+Blockable:✗  
 Dodgeable:?
 
  |  |
 | 
 
-**Tidal Roar**
+**Tidal Roar**  
+(★★☆)
 
-(★★☆) | The Doom charges up, before unleashing a powerful roar that does insane damage, summoning multiple waves that do damage to boats and carry away swept enemies
+ | The Doom charges up, before unleashing a powerful roar that does insane damage, summoning multiple waves that do damage to boats and carry away swept enemies
 
-Parryable:✗
-
-Blockable:✗
-
+Parryable:◯  
+Blockable:✗  
 Dodgeable:✗
 
  |  |
 | 
 
-**Whirlpool**
+**Whirlpool**  
+(★★★)
 
-(★★★) | The Doom starts swimming in a circle before creating a massive whirlpool that continuously does massive damage and trapping enemies inside.
+ | The Doom starts swimming in a circle before creating a massive whirlpool that continuously does massive damage and trapping enemies inside.
 
-Parryable:✗
-
-Blockable:✗
-
+Parryable:✗  
+Blockable:✗  
 Dodgeable:✗
 
  |  |
 | 
 
-**Luminant Beam**
+**Luminant Beam**  
+(★★★)
 
-(★★★) | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips.
+ | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips.
 
 -   Only unlocked after The Doom reaches 2 bars of health.
 
-Parryable: ?
-
-Blockable:✗
-
+Parryable:✗  
+Blockable:✗  
 Dodgeable:✗
 
  |
-
-  
 
 ## Loot Table/Rewards
 
@@ -175,4 +169,7 @@ Dodgeable:✗
 -   You can only damage the Doom on its underside (and possibly the head aswell)
 -   Be cautious when using boats to attack the Doom, when it dives, it will Sudden Ambush on the closest area with large player amount, if none are found it will instead strike the closest boat.
 -   Sudden Ambush and Luminant Beam are one-shot moves.
--   The Doom seems to take no damage from cannonfire regardless if it's aggroed or not. Attacking the serpent with a cannon does not aggro it to you.
+
+-   Payback can tank the Sudden ambush move, but its unable to hit the serpent with it.
+
+-   Mythic stability can save you from one-shot moves. (tidekeeper can't)

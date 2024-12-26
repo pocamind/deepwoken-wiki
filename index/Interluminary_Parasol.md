@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 126121
+revid: 126253
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Monsters, World Event]
@@ -12,11 +12,9 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Interluminary Parasol is a giant floating creature resembling the [Gigameds](Gigamed.md) in terms of physical shape/structure but with the exception of more fleshy and stony skin and long tentacles.
+The Interluminary Parasol is a giant floating jellyfish-like creature resembling the [Terrapods](Terrapod.md) in terms of physical shape/structure with the exception of a more smooth shell and flexible tentacles.
 
 This boss is one of the [World Events](World_Events.md), potentially spawning once every real world hour. It can spawn anywhere in the ocean, including (but not always) near land.
-
-The boss's immune to cannons at all stage.
 
 ## Moveset
 
@@ -29,7 +27,9 @@ This giant foe's moveset is relatively simple and is easy to avoid, however deal
 
  | When close enough, the Parasol starts rapidly stabbing random targets with its arms.
 
-Parryable:◯ Blockable:✗
+Parryable:◯
+
+Blockable:✗
 
 Dodgeable:◯
 
@@ -39,7 +39,7 @@ Using the floating pincers, it will dive towards to pierce its target. With this
 
 Throws rocks at targets
 
-Summoning Nautilodaunts, Alpha megaladaunt, Broodlords
+Summoning Nautilodaunts, Alpha megaladaunts, or Broodlords.
 
 ## Loot Table/Reward
 
@@ -86,6 +86,15 @@ Summoning Nautilodaunts, Alpha megaladaunt, Broodlords
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Cannons are useless.
+
+-   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
+-   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit.
+
+  
 
 ## Gallery
 

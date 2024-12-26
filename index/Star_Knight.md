@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 120268
+revid: 126235
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights, Moonseye]
@@ -16,44 +16,73 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Star K
 
 ## **Moveset**
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
+| Name | Description | Media |
+| --- | --- | --- |
 | 
-**Slash**
+**Slash**  
+(★☆☆)
 
  | Swings its sword at the opponent once or twice.
 
 -   **Insta-executes the player if health is low.**
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Kick**
+**Kick**  
+(★★★)
 
  | Deftly kicks the opponent with added momentum from its body.
 
 -   **Deals extra damage and dazes if the player is slammed against a wall.**
 
- | ✗ | ◯\* | ◯ | (★★★) |
+Parryable:✗  
+Blockable:◯\*  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Energy Wave**
+**Energy Wave**  
+(★★☆)
 
- | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade.
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Terra Eruption**
+**Terra Eruption**  
+(★★☆)
 
  | Punches the ground, causing a pillar to erupt below the player.
 
 -   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.**
 
- | ✗ | ✗ | ◯ | (★★☆) |
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯
+
+ |  |
 | 
 
-**Astral Rain**
+**Astral Rain**  
+(★★☆)
 
- | Rains down white flaming javelins from the sky, similarly to a Crimson Megalodaunt's Pyroclastic Roar/First Light's critical. | ✗ | ◯\* | ◯ | (★★☆) |
+ | Rains down white flaming javelins from the sky, similarly to a Crimson Megalodaunt's Pyroclastic Roar/First Light's critical.
+
+Parryable:✗  
+Blockable:◯\*  
+Dodgeable:◯
+
+ |  |
 
 ### Passives
 

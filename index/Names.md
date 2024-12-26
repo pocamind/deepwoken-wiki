@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 125608
+revid: 126175
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -599,6 +599,7 @@ Some players have access to customized, unique names.
 -   Szeth
 -   Taylor
 -   Teft
+-   Teshin
 -   Tharson
 -   Theomars
 -   Theseus
@@ -870,6 +871,7 @@ Some players have access to customized, unique names.
 -   Holly
 -   Hope
 -   Ifrit
+-   Incarnon
 -   Indra
 -   Iori
 -   Iris
@@ -1818,6 +1820,7 @@ Some players have access to customized, unique names.
 -   There are repeatable names, due to the same name being a selectable first and last name. Something like Regulus Regulus.
 -   The name "Crona" might be a reference to Crona from [Soul Eater](https://souleater.fandom.com/wiki/Crona).
 -   The name "Alyx" is a reference to [Alyx Vance](https://half-life.fandom.com/wiki/Alyx_Vance) from the Half-life series
+-   The names "Teshin", "Incarnon", and "Lotus" are references to [Warframe](https://www.warframe.com).
 
 ## References
 

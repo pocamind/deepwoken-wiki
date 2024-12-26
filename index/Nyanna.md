@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 115923
+revid: 126216
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -38,37 +38,36 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 ### **Weapons:**
 
 -   Uniquely to her, the weapon she sells have a chance to be enchanted.
-    -   [Trident Spear](Trident_Spear.md) ( )
     -   [Whaling Knife](Whaling_Knife.md) ( )
-    -   [Adretian Axe](Adretian_Axe.md) ( )
-    -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) ( )
+    -   [Trident Spear](Trident_Spear.md) ( )
     -   [Vigil Longsword](Vigil_Longsword.md) ( )
+    -   [Vigil Longsword](Vigil_Longsword.md) ( )
+    -   [Adretian Axe](Adretian_Axe.md) ( )
 
 ### **Armor Schematics:**
 
--   [Hired Mercenary](Hired_Mercenary.md) ( )
--   [Ignition Union Uniform](Ignition_Union_Uniform.md) ( )
--   [Hired Mercenary](Hired_Mercenary.md) ( )
--   [Hive Tactician Armor](Hive_Tactician_Armor.md) ( )
--   Authority Peacekeeper Armour ( )
 -   [Authority Captain Uniform](Authority_Captain_Uniform.md) ( )
--   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) ( )
+-   Authority Peacekeeper Armour ( )
+-   [Cloak of Winds](Cloak_of_Winds.md) ( )
 -   [Diver Apprentice](Diver_Apprentice_Robes.md) ( )
+-   [Duelist's Attire](<Duelist's_Attire.md>) ( )
+-   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) ( )
+-   [Hired Mercenary](Hired_Mercenary.md) ( )
 -   [Hive Drone](Hive_Drone.md) ( )
+-   [Hive Tactician Armor](Hive_Tactician_Armor.md) ( )
+-   [Ignition Union Uniform](Ignition_Union_Uniform.md) ( )
 -   [Keeper](Keeper.md) ( )
 -   [Scholar](Scholar.md) ( )
--   [Cloak of Winds](Cloak_of_Winds.md) ( )
--   [Duelist's Attire](<Duelist's_Attire.md>) ( )
--   [Cloak of Winds](Cloak_of_Winds.md) ( )
--   [Pathfinder Cloak](Pathfinder_Cloak.md) ( )
 -   [Eager Tradesman](Eager_Tradesman.md) ( )
--   [Whaler Coat](Whaler_Coat.md) ( )
--   [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) ( )
--   [Merchant Robes](Merchant_Robes.md) ( )
--   [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) ( )
--   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) ( )
 -   [Legion Centurion](Legion_Centurion.md) ( )
+-   [Merchant Robes](Merchant_Robes.md) ( )
+-   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) ( )
+-   [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) ( )
+-   [Pathfinder Cloak](Pathfinder_Cloak.md) ( )
+-   [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) ( )
 -   [Prophet's Cloak](<Prophet's_Cloak.md>) ( )
+-   [Seamstress's Attire](<Seamstress's_Attire.md>) ( )
+-   [Whaler Coat](Whaler_Coat.md) ( )
 
 ## Trivia
 

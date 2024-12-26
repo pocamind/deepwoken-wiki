@@ -1,6 +1,6 @@
 ---
 title: Tillian
-revid: 126095
+revid: 126250
 source: https://deepwoken.fandom.com/wiki/Tillian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, NPCs]
@@ -22,3 +22,4 @@ He is the brother of [Aelita](Aelita.md).
 ## Trivia
 
 -   His piercing is 3D.
+-   Hair ID is unknown, (someone find it.)

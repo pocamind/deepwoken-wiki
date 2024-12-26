@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 124987
+revid: 126242
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -12,7 +12,7 @@ categories: [NPCs]
 
 Attunement Trainers are NPCs around the map that level up Mantras for money. Each Trainer will increase a mantra level by one depending on which Attunement they train (the [Frostdraw](Frostdraw.md) Attunement Trainer will level up Frostdraw [Mantras](Mantras.md), etc). The cost for leveling up Mantras starts at and increases by depending on the Mantra level. A leveled-up Mantra's damage will increase, as well as the potential for additional effects.
 
-A Trainer needs intervals of 20 points in your Attunement to upgrade a Mantra of the same elemental type as the trainer to upgrade, maxing out at Level 5 and 100 Attunement points.
+A Trainer needs intervals of 20 points in your Attunement to upgrade a Mantra of the same elemental type as the trainer to upgrade, maxing out at Level 5 and 80 Attunement points.
 
 Killing trainers is also the progression for the [Silentheart Oath](Oath%253A_Silentheart.md), excluding [Beatra](Beatra.md), [Vyrelda](Vyrelda,_Master_of_Blood.md) and [Regek](Regek.md), who cannot and do not need to be killed to progress the Oath. Each trainer also uses a weapon similar to their attunement, for instance Nell uses the [Gran Sudaruska](Gran_Sudaruska.md), a [Frostdraw](Frostdraw.md) weapon.
 
