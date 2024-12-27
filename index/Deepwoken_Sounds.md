@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 124838
+revid: 126644
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -214,6 +214,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 13s | [Depths](The_Depths.md) Trial Dialogue \[4\] |
 |  | 10s | [Depths](The_Depths.md) Trial Dialogue \[TRUE PUNISHMENT\] |
 |  | 11s | [Depths](The_Depths.md) Trial Enmity Dialogue (UNEDITED) |
+|  | 12s | [Depths](The_Depths.md) Trial Ascension |
 |  | 1.3s | [Depths](The_Depths.md) Boulder Falling |
 |  | 2.3s | [Depths](The_Depths.md) Boulder Impact \[1\] |
 |  | 1.8s | [Depths](The_Depths.md) Boulder Impact \[2\] |

@@ -1,6 +1,6 @@
 ---
 title: The Understrand
-revid: 120749
+revid: 126652
 source: https://deepwoken.fandom.com/wiki/The_Understrand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Layer 1, The Ministry]
@@ -36,3 +36,4 @@ A network of tunnels used by [the Ministry](The_Ministry.md) to move supplies an
 ## Trivia
 
 -   This used to only be accessible in [The Depths](The_Depths.md) but is now accessible via [Outpost Antumbra](Outpost_Antumbra.md) and [Minityrsa](Minityrsa.md).
+-   If you're trying to get here, it's not that ridiculously hard. A great and easy method is to go to Outpost Antumbra at Minityrsa, and server hop then look around the outpost. Eventually, you will find the purple lights in the outpost in one of the server. This is less time consuming than having to search the Depths for Silhuett, as you are covering less area, and also less risky as you won't wipe in the Overworld.

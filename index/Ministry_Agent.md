@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 124779
+revid: 126654
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, The Ministry, Ministry Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Ministry Cache Agent is an NPC located within [Scyphozia, The First Layer](First_Layer.md) inside of [The Understrand](The_Understrand.md). He can be found by using [Shadow Travel](Talents.md) / [Shadow's Flight](<Shadow's_Flight.md>) near [Silhuett](Silhuett.md), who spawns randomly around the [First Layer](First_Layer.md) or at chance by using [Shadow Travel](Talents.md) / [Shadow's Flight](<Shadow's_Flight.md>) on an area that is glowing with an ominous purple light.
+The Ministry Cache Agent is an NPC located inside of [The Understrand](The_Understrand.md). He can be found by using [Shadow Travel](Talents.md) / [Shadow's Flight](<Shadow's_Flight.md>) near [Silhuett](Silhuett.md), who spawns randomly around the [First Layer](First_Layer.md) or at chance by using [Shadow Travel](Talents.md) / [Shadow's Flight](<Shadow's_Flight.md>) on an area that is glowing with an ominous purple light.
 
 If you have Ally reputation or higher with [The Ministry](The_Ministry.md), he will hand over the [Deepspindle](Deepspindle.md), a [Deepscorn Casque](Deepscorn_Casque.md) and the [Darkened Bastion](Darkened_Bastion.md) without a fight. This only applies via [Silhuett](Silhuett.md) encounters, however. Repeat encounters with the ally method via Silhuett will only grant one of the items from the set instead of all three.
 
@@ -131,6 +131,7 @@ Dodge: ◯
 
 ## Trivia
 
+-   You must beat him within 5 minutes, otherwise you will be teleported out of the Understrand.
 -   Burning the agent to death will cause nothing to drop, instead after four sorry seconds you will be sent back.
 -   Strangely enough, burning the agent with twisted puppets causes him to get up, supposedly with half his health back, like how Phoenix Flames works.
 -   The Agent also uses the word ''slug'' as an insult, as seen in his execution and normal dialogue. Whether or not calling someone a slug has a deeper meaning is unknown.

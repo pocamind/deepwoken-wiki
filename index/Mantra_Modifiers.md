@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 126478
+revid: 126639
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
@@ -1220,6 +1220,21 @@ Iron Tether
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
+Scarlet Cyclone
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Scarlet Cyclone" mantra to shoot a tornado that comes back.
+
+ |
+| 
+
 Fire Blade
 
 (☆☆☆)
@@ -1611,6 +1626,26 @@ Dark Blade
 | Mantra | Original | Modified | Combination | Effect |
 | --- | --- | --- | --- | --- |
 | 
+Scarlet Cyclone
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   **Multiplying Spark**
+-   **Reversal Spark**
+
+ | 
+
+-   This combination of modifiers causes the "Scarlet Cyclone" mantra to fire three cyclones that come back to the caster.
+
+ |
+| 
+
 Fire Gun
 
 (☆☆☆)

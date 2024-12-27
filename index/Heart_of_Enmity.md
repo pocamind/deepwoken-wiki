@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 126587
+revid: 126628
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -65,6 +65,18 @@ The Brutalizer
 
 Parryable:◯  
 Blockable:◯  
+Dodgeable:◯
+
+ |
+| 
+
+Condemnation's Fall  
+★
+
+ | The Heart of Enmity jumps high in the air and chucks his huge axe at where the target is standing. This attack is rarely used.
+
+Parryable:✗  
+Blockable:✗  
 Dodgeable:◯
 
  |
@@ -146,7 +158,7 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 ###### Survivability
 
 -   Get the talent **Mythic Stability**, as it makes you ungrippable to auto-grip abilities, which is useful against the Heart of Enmity’s auto-grip attacks.
--   Have one person bring a [repair kit](Repair_Kit.md) or two, as the boss does a lot of armor damage (note that campfires and Graceful Flames, even with Undying Flames, are unusable in the Depths Trial (alternatively you could just not be hit once))
+-   Have one person bring a [repair kit](Repair_Kit.md) or two, as the boss does a lot of armor damage (note that campfires and Graceful Flames, even with Undying Flames, are unusable in the Depths Trial (alternatively you could just not be hit once)
 -   Bring Warrior's Respite to heal while not aggroing the boss.
 -   If you're struggling with blood levels, head to [Songseeker](Songseeker_Wilds.md) and unlock **[Bloodrend](Bloodrend.md)**. Obtain the **Bloodorb** mantra to heal blood using the blood pools during the fight.
     -   Alternatively, you can also get grand feast and use it to heal blood from the enforcers spawned or run the multiplicity armor enchant.

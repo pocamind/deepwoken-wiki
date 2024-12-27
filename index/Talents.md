@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 126614
+revid: 126650
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -391,6 +391,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude\] - When you're knocked down, you get back up again more quickly. (+5 Sanity)
+    -   Cooldown scales with Willpower, maximum of 100.
+    -   Cooldown also is reduced by 1 second by **Brick Wall.**
     -   Amount of time you stay knocked is reduced by 25%.
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
@@ -1314,6 +1316,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
+    -   **Brick Wall** Also reduces cooldown of **Perseverance** by approximately 1 second.
     -   **Cap Artist** is disabled with this Talent.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
@@ -2725,7 +2728,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Hypovolemic Focus \[Common Talent\] - While you have temporary health, your opponent regains far less posture from parrying you
     -   Prerequisite: 65 Bloodrend, Sow and Mend
 
--   _Sow and Mend_ \[Rare Talent\] - Sacrifice 15% of your blood for temporary health.
+-   _Sow and Mend_ \[Rare Talent\] - Sacrifice 15-17.5% of your blood for temporary health. (15s CD)
     -   Prerequisites: 60 Bloodrend, Master Bloodrender
 
 ### Trickster

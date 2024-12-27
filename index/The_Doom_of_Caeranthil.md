@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 126618
+revid: 126634
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -121,7 +121,7 @@ Dodgeable:✗
 
 ## Tips and Strategies
 
--   You can only damage the Doom on its underside (and possibly the head aswell)
+-   ~You can only damage the Doom on its underside~ (you are able to hit it while standing on a large boat and deal normal damage)
 -   Be cautious when using boats to attack the Doom; when it dives, it will Sudden Ambush on the closest area with a large player count. If none are found it will instead strike the closest boat.
 -   Sudden Ambush and Luminant Beam are one-shot moves.
 -   Payback can tank the Sudden ambush move, but it’s unable to hit the serpent with it.
