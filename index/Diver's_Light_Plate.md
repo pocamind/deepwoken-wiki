@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 125230
+revid: 126515
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates, The Divers]
@@ -30,7 +30,7 @@ The Diver's Light Plate is an [Equipment](Equipment.md) item under the "Arms" ca
 
 ## Trivia
 
--   Formerly stood as the best arms equipment, but with the August 2nd, 2024 update, the [Grand Fisher Plate](Grand_Fisher_Plate.md) can be considered as a near-identical, easier to get alternative, but with the cost of a minor speed downside.
+-   Formerly stood as the best arms equipment, but with the addition of the Bastions of Enmity Armor in the December 23rd, 2024 update, it is now second, along with the [Grand Fisher Plate](Grand_Fisher_Plate.md) which can be considered its near-identical, easier to get alternative, but with the cost of a minor speed downside.
 -   The best HP kit for this equipment without Drowned enchant is 37 HP and 2% PHY Armor.
 -   This armor can't be dropped by the user. Transmogrifying it as a **vanity** also turns that equipment into a semi-soulbound item, where it is completely **undroppable** by any means (including death,) transmogging the light plate as the vanity piece makes the piece **unable** to be banked unless enchanted.
 -   Can be obtained without killing any monsters during [Hell Mode](Hell_Mode.md). You just need to ring the bell and stay in the server when hell mode begins and ends.

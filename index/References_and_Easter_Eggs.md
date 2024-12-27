@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 126112
+revid: 126532
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -237,6 +237,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The names **Frieren**, **Fern**, **Stark**, and **Eisen** are a reference to the manga _Sousou no Frieren_.
 -   The names "**Angela**," "**Binah**," "**Chesed**," "**Gebura**," "**Hokma**," "**Netzach**," "**Tiphereth**," "**Roland**," "**Argalia**", "**Xiao**", "**Zena**", and "**Iori**", while references to older media such as the _Kabbalah Tree of Life_, and _Orlando Furioso,_ were added in reference to the games _Lobotomy Corporation_ and _Library of Ruina_.
 -   The names **Phos, Padparadscha, Rutile, Diamond,** and **Cinnabar** are references to the manga _Land of the Lustrous_.
+-   The name **Yakub** is a reference to Yakub, the creator of white people (actually, he started the process and his followers completed it) in [Nation Of Islam](<https://en.wikipedia.org/wiki/Yakub_(Nation_of_Islam)>) doctrine.
 
 ## World
 

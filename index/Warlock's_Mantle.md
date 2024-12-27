@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Mantle"
-revid: 126409
+revid: 126491
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Equipment, Arms, Mantles]
@@ -32,4 +32,4 @@ The Warlocks Mantle is a Unique tier [Equipment](Equipment.md) item under the "A
 
 ## Trivia
 
--   It is a part of the Warlock set along with the [Warlock's Brim.](<Warlock's_Brim.md>)
+-   It is a part of the Warlock set along with the [Warlock's Brim](<Warlock's_Brim.md>).

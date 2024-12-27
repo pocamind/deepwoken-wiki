@@ -1,8 +1,9 @@
 ---
 title: "Warlock's Brim"
-revid: 126457
+revid: 126492
 source: https://deepwoken.fandom.com/wiki/Warlock's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Hats, Items, Equipment, Head]
 ---
 
 # Warlock's Brim
@@ -12,8 +13,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | type | Hat |
 | rarity | Unique |
 | selling price | N/A |
-| requirements | PWR 16; 5 INT |
-| innate stats | +5 Health, +1 Rare Pip, +2 Legendary Pips |
+| requirements | PWR 16 |
+| innate stats | +5 Health, +2 Legendary Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,4 +29,4 @@ The Warlock's Brim is a Unique tier [Equipment](Equipment.md) item under the "Ha
 
 ## Trivia
 
--   It is a part of the Warlock set along with the Warlock's Brim.
+-   It is a part of the Warlock set along with the [Warlock's Mantle](<Warlock's_Mantle.md>).

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 125731
+revid: 126508
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -141,6 +141,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the August 30th, 2024 update, Gale Coil was made innate.
 -   **Gale Dash \[Rare Talent\] -** After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity)
     -   In the May 16th, 2023 update, Gale Dash was merged into Air Pressure.
+-   **Gale Leap \[Common Talent, Galebreathe Exclusive\] -** Jumping while sliding down a slope or off a cliff launches you forwards. (+1 Elemental Intensity, +2 Health)
+    -   In the December 1st, 2023 update, Gale Leap was merged into Wind Step.
 -   **Giantslayer \[Common Talent, Willpower\] -** Deal 10% more damage to larger foes. (+7 Sanity)
     -   In the December 24th, 2024 update, Giantslayer was merged into Underdog.
 -   **Graceful Landing \[Common Talent, Agility\] -** You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
@@ -182,11 +184,18 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 13th, 2022 update, Salesperson was merged into Snake Oil.
 -   **Shatter Spear \[Rare Talent\] -** Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
     -   The Talent was removed from the game with May 15, 2023 update, as it became a base behavior for Ice Lance.
+-   **Silencer's Edge \[Common Talent, Galebreathe Exclusive\] -** Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
+    -   In the December 1st, 2023 update, Silencer's Edge was merged into Silencer's Blade.
 -   **Skull Crusher \[Rare Talent, Galebreathe Exclusive\] -** Pressing F during Champion's Whirlthrow will throw your opponent straight down.
     -   In the January 26th, 2024 update, Skull Crusher was made base behavior for Champion's Whirlthrow.
 -   **Stormcaller Slash \[Common Talent, Thundercall exclusive\] -** Call forth the fury of storms by pressing F at the end of your move.
     -   After using Lightning Blade, press F within a second afterwards delivers extra attacks.
     -   In the January 19th, 2024 update, Stormcaller Slash was made base behavior for Lightning Blade.
+-   **Subsistence \[Rare talent, Intelligence\] -** As a skilled apothecarian, you are more accustomed to potions and gain graeter benefits from ingesting potions that affect your regeneration. (+3 Health)
+    -   In the December 1st, 2023 update, Subsistence was merged into Potion Quaffer.
+-   **The Old Wind \[Common Talent, Galebreathe Exclusive\] -** Glide straight with the power of Gales. (+4 Elemental Intensity)
+    -   With this talent, your glider would travel almost entirely horizontally instead of at a diagonal.
+    -   In the December 1st, 2023 update, The Old Wind was merged with Aerogliding.
 -   **The Thinker \[Common Talent\] -** Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
     -   Was removed with Verse 2 update.
 -   **Third Interrogation \[Thundercall Exclusive\] -** Electrified attacks do 50% less damage to you.

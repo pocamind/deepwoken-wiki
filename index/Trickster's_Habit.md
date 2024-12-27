@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 126336
+revid: 126506
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Etrea, Adept Outfits]
@@ -32,4 +32,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Turns you into a clown.
+-   Turns you into a jester.

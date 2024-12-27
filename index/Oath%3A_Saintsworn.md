@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 126485
+revid: 126503
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -143,11 +143,11 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 
 **Flamecharm Obelisk**: "I've seen what happens when fire burns too hot. It leaves nothing behind but ruin. If you choose this path, remember. you will never be the same. Flame is both a gift and a curse, and it will show you what you're made of..." - Jace
 
-Galebreathe **Obelisk**: "You must decide, seeker. Will you let the wind carry you, or will you struggle against its pull? It is a path only those who truly understand the winds dare to walk." - Trinity Galenwarde
+**Galebreathe** Obelisk**: "You must decide, seeker. Will you let the wind carry you, or will you struggle against its pull? It is a path only those who truly understand the winds dare to walk." - Trinity Galenwarde**
 
 **Shadowcast Obelisk**: "Once, I stood with the Five, a hero among them. But loyalty? It's a fragile thing. Betrayal? It's as inevitable as the night." - Urek Felhand
 
-Frostdraw **Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else." - Faust
+**Frostdraw** Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else." - Faust**
 
 **Thundercall Obelisk**: "Thundercall, huh? You want that power? That zing that come with it? But remember thundercall isn't something you can control easily, not even if you try really hard." - Tessa
 
@@ -159,5 +159,5 @@ Frostdraw **Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seekin
 -   Saintsworn gives the most mantra slots out of any oath, being 5 total mantra slots.
 -   The Saintsblade (and, by extension, the mantra that varies based on your current Saint Stance, Blade of Saints) does NOT change color in accordance to attunement paths. This is likely a bug.
 -   Saint's Overload have 20 seconds of duration before going off and it can be seen from the flying blade that it changes color to white.
--   The 5 blade on your back will be vanished one by one after Hero's Assist is triggered.
+-   The 5 blade on your back will vanish one by one after Hero's Assist is triggered.
 -   The Saint's Blade Stance cycle is based from your strongest attunement, with the strongest one will be your first stance and so on.

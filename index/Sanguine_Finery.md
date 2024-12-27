@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 126426
+revid: 126518
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, World Event]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Sanguine Finery** is a Master [Outfit](Outfits.md) in _De
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, five (5) [Hear Stars](Heartstar.md), eight (8) [Umbrite](Ores.md), one (1) [Bloodless Gem](Mantra_Modifiers.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md).
+This Outfit costs and requires five (5) Cloth and Fiber, five (5) [Heartstars](Heartstar.md), eight (8) [Umbrite](Ores.md), one (1) [Bloodless Gem](Mantra_Modifiers.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md).
 
 This Outfit requires [Power Level](Talents.md) 15 and 45 [Bloodrend](Bloodrend.md).
 

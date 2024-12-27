@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 126067
+revid: 126522
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -688,7 +688,7 @@ Cyclone Blade
 
  | 
 
-After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block.
+After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage.
 
  | 
 

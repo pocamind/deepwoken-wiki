@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 126480
+revid: 126528
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -648,6 +648,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Freezing Wight \[Common Talent, Dual Attunement\] - Your Haunted Gale now procs Chilled.
     -   7 seconds duration.
     -   Procs Frozen Legs.
+    -   Applies 1 Crystal if used with Crystallization path.
+    -   Also works with Specter path's Apparitions.
     -   Prerequisites: Haunted Gale, 40 Frostdraw
 
 ### Colossus
@@ -1639,7 +1641,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I fight for the Legion."**_
 
--   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility)
+-   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
@@ -2811,12 +2813,16 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I seek to embrace the instability of lightning as a source of power."**_
 
 -   Battery Sapper \[Common Talent, Dual Attunement\] - If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.
+    -   Every Surge stack equates to 10 Ether.
+    -   Works on Surge stacks that weren't applied by you.
+    -   Does not work on Surge stacks applied to yourself.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall, 25 Shadowcast
 
 -   Catalytic Strike \[Common Talent, Thundercall Exclusive\] - Posture breaking an enemy will Overload their Surge stack.
     -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 
 -   Closed Circuit \[Common Talent, Thundercall Exclusive\] - Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.
+    -   Adds 5 damage to the Overload with 5 Thundercall scaling.
     -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 
 -   Fried Circuits \[Common Talent, Thundercall Exclusive\] - Overloading an enemy applies Sapped for 5s.
@@ -2824,10 +2830,18 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 
 -   Human Battery \[Common Talent, Thundercall Exclusive\] - When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
+    -   This talent is currently bugged and does nothing.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 
 -   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
     -   Turns all Thundercall mantras, Jumpstart, [Stormseye](Stormseye.md), [Hero Blade of Lightning](Hero_Blades.md) and [Boltcrusher](Boltcrusher.md) blurple. May affect Arcwarder and Saintsworn in the future.
+    -   Each Surge stack lasts 30 seconds.
+    -   You need to apply 5 Surge stacks and then land another attack that would apply a Surge stack to cause an Overload.
+        -   This is reduced to 4 Surge stacks with the [Charged Ring](Charged_Ring.md).
+    -   Surge Overload deals 2.5 damage per Surge stack with 5 Thundercall scaling to Overloaded target.
+    -   Surge Overload AoE deals 2 damage per Surge stack.
+        -   Surge Overload can be resisted by Thundercall armor.
+    -   Surge stacks are a global status effect, meaning anyone with Surge path can utilize them, with the effects changing based on who caused the Overload.
     -   Prerequisite: 40 Thundercall
 
 ### Vigil Swordsman

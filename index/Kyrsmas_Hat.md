@@ -1,6 +1,6 @@
 ---
 title: Kyrsmas Hat
-revid: 125629
+revid: 126489
 source: https://deepwoken.fandom.com/wiki/Kyrsmas_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Equipment, Head, Hats, Event Item]
@@ -17,7 +17,7 @@ notices:
 | selling price | N/A |
 | requirements | None |
 | weight | 1 |
-| innate stats | +10 Health +1 Posture +1 Legendary Pips |
+| innate stats | +10 Health, +1 Posture, +1 Legendary Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

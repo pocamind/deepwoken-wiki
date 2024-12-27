@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 126419
+revid: 126495
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1449,6 +1449,25 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
+| File:Brimlilal2.png | 
+
+[Warlock's Brim](<Warlock's_Brim.md>)
+
+ | 
+
+_+5 Health_
+
++2 Legendary Pips
+
+**Requires Power 16**
+
+ | 
+
+Found from:
+
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+
+ | Lilac, Navy, Sky, Verdant |
 |  | 
 
 [A Lot of Hats](A_Lot_of_Hats.md)
@@ -1562,27 +1581,6 @@ Sources:
 -   Prize from winning a [Fanart Contest](Developer_Specs.md)
 
  | N/A |
-| File:Brimlilal2.png | 
-
-[Warlock's Brim](<Warlock's_Brim.md>)
-
- | 
-
-_+5 Health_
-
-+2 Legendary Pip
-
-+1 Rare Pip
-
-**Requires Power 16, Intelligence 5**
-
- | 
-
-Found From:
-
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
-
- | Sky,Lilac,Verdant,Navy |
 
 **Arms:**
 

@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 126484
+revid: 126529
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 The Heart of Enmity is a [Boss](Bosses.md) found in the [First Layer](First_Layer.md) of the Depths, located in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). A gargantuan creature wrought of iron and animosity and far superior to any mere [Enforcer](Enforcer.md), it is an incarnation or creation of the [Voice of Enmity](Voices_of_the_Depths.md#voice-of-enmity), a response to those making a mockery of the Trial with sheer numbers.
 
-At least 5 players of Power 20 must enter the Depths Trial at the same time to summon it.
+This boss needs 5 players to go to depths trial at once, and at least one of these players must be power 20.
 
 ## Moveset
 
@@ -136,9 +136,7 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 -   It is recommended to fight the Heart of Enmity with only 5 people, as each extra player adds another 50 thousand health to the boss, and makes it difficult to not friendly fire.
 -   Fight the Heart of Enmity in teams of one or two, taking turns to engage the boss. Rest and switch out with teammates as needed to manage the battle effectively.
 -   Try not to hit allies with your offensive bells or high damage moves.
--   Wear a [Grand Fisher Plate](Grand_Fisher_Plate.md) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit is practically required, because it allows you to parry all of his non-parryable attacks.
--   Bring [Sightless Beam](Oath%253A_Blindseer.md), as it does 10% of its health.
-    -   This is because Sightless Beam deals bonus damage to [Depths](First_Layer.md) [Monsters](Monsters.md)
+-   Wear a [Grand Fisher Plate](Grand_Fisher_Plate.md) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit is recommended, because it allows you to parry all of his non-parryable attacks.
 
 ###### Support
 

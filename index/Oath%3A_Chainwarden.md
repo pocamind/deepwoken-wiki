@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 124959
+revid: 126496
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -42,7 +42,7 @@ Known humanoids enemies are:
 
 ## Effects
 
-The Oath grants an extra Combat and Wildcard mantra slot.
+The Oath grants an extra Wildcard and 2 Wildcard mantra slots.
 
 As for appearance, it adds a chained gauntlet to your left arm, and a chained belt to the waist. While the chains are able to be dyed, the gauntlet is not. If a pair of Cestus is equipped, the gauntlet overrides the appearance of the Cestus on the left arm. This strangely also applies to the [Anklets of Alsin](Anklets_of_Alsin.md), only having the right leg use the anklet, despite the gauntlet not being attached to the leg.
 

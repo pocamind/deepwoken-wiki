@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 126435
+revid: 126520
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Monsters, World Event]
@@ -27,14 +27,13 @@ This giant foe's moveset is relatively simple and is easy to avoid, however deal
 | Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
-**Pierce**(★★☆)
+**Pierce**  
+(★★☆)
 
  | When close enough, the Parasol starts rapidly stabbing random targets with its arms.
 
-Parryable:◯
-
-Blockable:✗
-
+Parryable:◯  
+Blockable:✗  
 Dodgeable:◯
 
  |  |
@@ -100,7 +99,11 @@ File:Symphonyandtheypet.png
 ## Tips & Tricks
 
 -   Has incredibly high resistance to cannons
+
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
+
+-   It follows Two set paths depending on where it spawns. ; Near the [Monkey's](<The_Monkey's_Paw.md>) [paw](<The_Monkey's_Paw.md>) - [Ancient rotlands](Ancient_Rotlands.md) highway it will always go towards the [Summer isle](Summer_Isle.md) highway- then to [Miners landing](<Miner's_Landing.md>), Ending at the [Fort merit](Fort_Merit.md) highway. Near the [Songseeker](Songseeker_Wilds.md) - [Summer isle](Summer_Isle.md) highway it will always go towards the [Monkey's paw](<The_Monkey's_Paw.md>) - then to [Hive](Greathive_Aratel.md).
+
 -   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit.
 
 ## Trivia
