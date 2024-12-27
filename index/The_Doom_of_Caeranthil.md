@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 126483
+revid: 126618
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -18,13 +18,13 @@ Template:Creature Infobox V3
 
 The Doom of Caeranthil or World Serpent named by the community is a [World Event](World_Events.md) Boss found in the Open Sea of the [Luminants](Luminants.md).
 
-The Doom is a colossal sea serpent monster that has ravaged and destroyed islands. It earned it's name when it destroyed the island of [Caeranthil](Caeranthil.md) in the Southern Luminant.
+The Doom is a colossal sea serpent monster that has ravaged and destroyed islands, having earned its name when it destroyed the island of [Caeranthil](Caeranthil.md) in the Southern Luminant.
 
 When the Doom spawns, a danger notification will flash on the screen, calling players to defeat the boss before it adds another island to its list of victims.
 
-Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted (If they don't have it) and a chest with loot will spawn at the player's location.
+Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted (If they don't have it or another murmur); a chest with loot will also spawn at the player's location.
 
-Immune to cannon damage. Attempting to damage it with a cannon will not aggro it.
+It cannot be aggroed or damaged by cannons.
 
 ## Moves
 
@@ -122,64 +122,85 @@ Dodgeable:✗
 ## Tips and Strategies
 
 -   You can only damage the Doom on its underside (and possibly the head aswell)
--   Be cautious when using boats to attack the Doom, when it dives, it will Sudden Ambush on the closest area with large player amount, if none are found it will instead strike the closest boat.
+-   Be cautious when using boats to attack the Doom; when it dives, it will Sudden Ambush on the closest area with a large player count. If none are found it will instead strike the closest boat.
 -   Sudden Ambush and Luminant Beam are one-shot moves.
--   Payback can tank the Sudden ambush move, but its unable to hit the serpent with it.
--   Mythic stability can save you from one-shot moves. (tidekeeper can't)
+-   Payback can tank the Sudden ambush move, but it’s unable to hit the serpent with it.
+-   Mythic stability can save you from the one-shot moves. (tidekeeper can't)
 
 ## Loot Table/Rewards
 
-| Weapons | Equipments | Miscellaneous |
-| --- | --- | --- |
-| 
--   [Eye of Malice](Eye_of_Malice.md)
--   [Wyrmtooth](Wyrmtooth.md)
--   [Kanabo](Kanabo.md)
--   [Champion's Dagger](<Champion's_Dagger.md>)
--   [Pernach](Pernach.md)
--   (Alloyed) [Dawnshot](Dawnshot.md)
--   (Alloyed) [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Iron Blunderbuss](Iron_Blunderbuss.md)
--   (Alloyed) [Adretian Axe](Adretian_Axe.md)
--   [Shattered Katana](Shattered_Katana.md)
--   (Alloyed) [Whaling Knife](Whaling_Knife.md)
+### 
 
- | 
+Exhaustive Loot Table
 
--   [Warlock's Brim](<Warlock's_Brim.md>)[\[1\]](https://deepwoken.fandom.com/wiki/Warlock%27s_Brim)
--   [Warlock's Mantle](<Warlock's_Mantle.md>)
--   Sky Warlock's Brim
--   Lilac Warlock's Brim
--   Sky Warlock's Mantle
--   Navy Warlock's Mantle
--   Navy Warlock's Brim
--   Lilac Warlock's Mantle
--   Verdant Warlock's Brim
--   All Legendary [Rings](Equipment.md#rings)
--   [Star Boots](Star_Boots.md)
--   [Deepwoken Hood](Deepwoken_Hood.md)
--   [Redsteel Pauldrons](Redsteel_Pauldrons.md)
--   [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
--   [Smith's Goggles](<Smith's_Goggles.md>)
--   [Royal Guard](Aspirant_Mask.md)
--   [Old Blood Earrings](Old_Blood_Earrings.md)
--   [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
--   [Dew Drop Earrings](Dew_Drop_Earrings.md)
--   [Smith's Gloves](<Smith's_Gloves.md>)
--   [Cerulean Gown](Cerulean_Gown.md)
--   [Seamstress's Attire](<Seamstress's_Attire.md>)
--   [Troublemaker's Overcoat](<Troublemaker's_Overcoat.md>)
+**Keep in mind that this list is still very incomplete.**
 
- | 
-
--   [Smith's Alloy](<Smith's_Alloy.md>)
--   [Rain Spire](Rain_Spire.md)
--   [Void Spire](Void_Spire.md)
--   [Armorer's Needle](<Armorer's_Needle.md>)
--   [Deep Gems](Mantra_Modifiers.md#deep-gems)
-
- |
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Cerulean_Gown.md">Cerulean Gown</a> (Expert Outfit), <a href="Seamstress's_Attire.md">Seamstress's Attire</a> (Expert Outfit), <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a> (Expert Outfit).</td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Murmur%253A_Ardour.md">Murmur: Ardour</a></li>
+    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li>Some <a href="Relics.md">Relics</a>:</li>
+    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+    <li><a href="Rain_Spire.md">Rain Spire</a></li>
+    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+    <li><a href="Void_Spire.md">Void Spire</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Eye_of_Malice.md"><font>Eye of Malice</font></a>.</li>
+    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>, <a href="Whaling_Knife.md#alloyed">Alloyed Whaling Knife</a>.</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Champion's_Dagger.md">Champion's Dagger</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>, <a href="Shattered_Katana.md">Shattered Katana</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Kanabo.md">Kanabo</a>.</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: N/A</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>:
+  <ol>
+    <li><b>Unique Head</b>: <a href="Warlock's_Brim.md"><font>Warlock's Brim</font></a> (All Variants).</li>
+    <li><b>Generic Head</b>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#arms"><font>Arms Equipment</font></a></b>:
+  <ol>
+    <li><b>Unique Arms</b>: <a href="Warlock's_Mantle.md"><font>Warlock's Mantle</font></a> (All Variants).</li>
+    <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>:
+  <ol>
+    <li><b>Generic Legs</b>: <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>, <a href="Star_Boots.md">Star Boots</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipments</font></a></b>: N/A</li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>: <a href="Aspirant_Mask.md">Royal Guard</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>.</li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipments</font></a></b>: <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>.</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
+  <ol>
+    <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Essentially all Legendary Rings.</li>
+    <li><b>Generic Rings</b>: N/A</li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
 -   When it was first teased, it was known to the devs and community as the "World Serpent" before undergoing a more lore-based rename on release.
+-   Given its drops, design and Murmur: Ardour orb, it can be reasonably assumed that this creature is somehow related to the Dread Serpent (possibly a stronger variant/mutation).

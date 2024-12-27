@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 125031
+revid: 126555
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -677,7 +677,7 @@ File:Shadowcast icon.png
 
  | 
 
-Black Hole  
+Blackhole  
 (SHADOW 60 Shadowcast, POWER 13, Singularity)
 
  | 

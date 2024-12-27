@@ -1,8 +1,9 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 126266
+revid: 126600
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Monsters, Bosses]
 ---
 
 # Primadon, Titan of the East

@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 126529
+revid: 126587
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -136,33 +136,33 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 -   It is recommended to fight the Heart of Enmity with only 5 people, as each extra player adds another 50 thousand health to the boss, and makes it difficult to not friendly fire.
 -   Fight the Heart of Enmity in teams of one or two, taking turns to engage the boss. Rest and switch out with teammates as needed to manage the battle effectively.
 -   Try not to hit allies with your offensive bells or high damage moves.
--   Wear a [Grand Fisher Plate](Grand_Fisher_Plate.md) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit is recommended, because it allows you to parry all of his non-parryable attacks.
+-   Wearing the [Grand Fisher Plate](Grand_Fisher_Plate.md) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit is recommended, because it allows you to parry all of his non-parryable attacks.
 
 ###### Support
 
 -   Although not needed, bring a support build with either [Linkstrider](Oath%253A_Linkstrider.md) or [Blindseer](Oath%253A_Blindseer.md), as both oaths heal immense amounts of HP.
-    -   It is also recommended to have vow of mastery on the slot, although not necessary
+    -   It is also recommended to have vow of mastery on the slot, as although not necessary, most support builds possess one already and are also quite helpful.
 
 ###### Survivability
 
 -   Get the talent **Mythic Stability**, as it makes you ungrippable to auto-grip abilities, which is useful against the Heart of Enmity’s auto-grip attacks.
--   Have one person bring a [repair kit](Repair_Kit.md) or two, as the boss does a lot of armor damage.
+-   Have one person bring a [repair kit](Repair_Kit.md) or two, as the boss does a lot of armor damage (note that campfires and Graceful Flames, even with Undying Flames, are unusable in the Depths Trial (alternatively you could just not be hit once))
 -   Bring Warrior's Respite to heal while not aggroing the boss.
 -   If you're struggling with blood levels, head to [Songseeker](Songseeker_Wilds.md) and unlock **[Bloodrend](Bloodrend.md)**. Obtain the **Bloodorb** mantra to heal blood using the blood pools during the fight.
     -   Alternatively, you can also get grand feast and use it to heal blood from the enforcers spawned or run the multiplicity armor enchant.
 
 ###### Resonances
 
--   Corrupted [payback](Payback.md) is amazing for damage and support. Make sure you get the beam variant of it.
--   Corrupted [sacred field](Sacred_Field.md) is also amazing for general survivability.
--   Corrupted [run it back](Run_It_Back.md) is another amazing choice, as it heavily increases survivability and is great for killing enforcers as it has hyperarmor.
+-   Corrupted [Payback](Payback.md) is amazing for damage and support. Make sure you get the beam variant of it and stay FAR away from teammates right before use to prevent friendly fire.
+-   Corrupted [Sacred Field](Sacred_Field.md) is also amazing for general survivability.
+-   Corrupted [Run It Back](Run_It_Back.md) is another amazing choice, as it heavily increases survivability and is great for killing enforcers with its hyperarmor.
 
 ## Trivia
 
 -   The Heart of Enmity is the first ever [Scyphozia](First_Layer.md) Boss added.
 -   The Heart of Enmity has the highest base health out of any entity in the game.
 -   It used to spawn corrupted with low chance, This is restorable as it's not intended.
--   It is unclear if the Heart of Enmity is the physical form of the [Voice of Enmity](Voices_of_the_Depths.md), or just a stronger monster variant used in the trial. However due to the dialogue given after defeating the boss, it implies is the physical form of the Voice of Enmity.
+-   It is unclear if the Heart of Enmity is the physical form of the [Voice of Enmity](Voices_of_the_Depths.md), or just a stronger monster variant used in the trial. However due to the dialogue given after defeating the boss, it implies that the creature is a physical form of the Voice of Enmity (as opposed to the other conjurations).
 -   Their summons are internally referred to as ".enmity\_enforcer\_WEAPON"
--   There was a bug that could instakill the boss by hitting the back of it's neck with rising thunder or rising gale. It's unknown why this happens as there doesn't seem to be an logical reasoning behind this bug.
--   Heart of Enmity have 65% oath damage resistance.
+-   There was a bug that could instakill the boss by hitting the back of its neck with rising thunder or rising gale. It is unknown why this happens as there doesn't seem to be a logical reasoning behind this bug.
+-   The Heart of Enmity possess 65% oath damage resistance.

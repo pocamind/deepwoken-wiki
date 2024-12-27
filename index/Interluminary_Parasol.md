@@ -1,9 +1,9 @@
 ---
 title: Interluminary Parasol
-revid: 126520
+revid: 126606
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Bosses, Monsters, World Event]
+categories: [Pages with broken file links, World Event, Monsters, Bosses]
 ---
 
 # Interluminary Parasol
@@ -22,7 +22,7 @@ This boss is one of the [World Events](World_Events.md), potentially spawning on
 
 ## Moveset
 
-This giant foe's moveset is relatively simple and is easy to avoid, however deals a massive amount of damage if caught off guard.
+This giant foe's moveset is relatively simple and is easy to avoid; however they deal a massive amount of damage if caught off guard.
 
 | Name/Danger | Description | Media |
 | --- | --- | --- |
@@ -40,9 +40,7 @@ Dodgeable:◯
 
 Using the floating pincers, it will dive towards to pierce its target. With this, it can glitch out boats to the extreme.
 
-Throws rocks at targets
-
-Summoning Nautilodaunts, Alpha megaladaunts, or Broodlords.
+It can also throw rocks at targets and summon Nautilodaunts, Alpha megaladaunts and Broodlords.
 
 ## Loot Table/Reward
 
@@ -108,5 +106,5 @@ File:Symphonyandtheypet.png
 
 ## Trivia
 
--   Currently, it will sometimes not spawn with its tentacles visible, the spike it attacks you with will instead be floating
--   If it spawns near songseeker it will almost always get stuck on the highway gate near Fort merit allowing an easy kill
+-   Currently, it will sometimes not spawn with its tentacles visible; the spike it attacks you with will instead be floating
+-   If it spawns near songseeker wilds, it will almost always get stuck on the highway gate near Fort merit (allowing an easy kill).

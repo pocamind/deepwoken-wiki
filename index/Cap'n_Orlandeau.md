@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 117155
+revid: 126570
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -357,3 +357,4 @@ Talking to him after using your Mantra:
     -   This is hinted at by the NPC's name being 'The Captain' rather than 'Cap'n Orlandeau.'
 -   Wears [Flame Worshipper Armor](Flame_Worshipper_Armor.md), a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Celtor Commander Plate](Celtor_Commander_Plate.md).
 -   He will not be in Fragments of Self if you did not choose the Castaway Origin.
+-   During the parrying section, He originally used a razor cutlass but now uses a regular sword

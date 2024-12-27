@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 126495
+revid: 126565
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -5663,7 +5663,7 @@ Found from:
 
  | 
 
-Reduces the charges required to proc Crystal Explosions and Surge Overloads, but also reduces the damage they deal.
+Reduces the charges required to proc Crystal Explosions and Surge Overloads from 6 to 5.
 
   
 

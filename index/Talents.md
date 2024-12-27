@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 126528
+revid: 126614
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1837,6 +1837,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Mr Charm."**_
 
 -   Charisma Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
+    -   Prerequisite: 75 Charisma
 
 ### [Murmur](Murmur.md)
 
@@ -2813,9 +2814,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I seek to embrace the instability of lightning as a source of power."**_
 
 -   Battery Sapper \[Common Talent, Dual Attunement\] - If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.
-    -   Every Surge stack equates to 10 Ether.
-    -   Works on Surge stacks that weren't applied by you.
-    -   Does not work on Surge stacks applied to yourself.
+    -   This talent is currently bugged and does nothing.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall, 25 Shadowcast
 
 -   Catalytic Strike \[Common Talent, Thundercall Exclusive\] - Posture breaking an enemy will Overload their Surge stack.
@@ -2830,7 +2829,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 
 -   Human Battery \[Common Talent, Thundercall Exclusive\] - When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
-    -   This talent is currently bugged and does nothing.
+    -   Every Surge stack equates to 10 Ether.
+    -   Works on Surge stacks that weren't applied by you.
+    -   Does not work on Surge stacks applied to yourself.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 
 -   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
@@ -3017,7 +3018,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, 75 in any Weapon stat, be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
-    -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the Derelict Church (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
+    -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
 
 -   [Oath: Visionshaper](Oath%253A_Visionshaper.md) - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.

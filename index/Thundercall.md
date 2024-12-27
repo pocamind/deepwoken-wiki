@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 124640
+revid: 126537
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -940,7 +940,9 @@ Your lightning no longer applies Shock, instead applying Surge. At maximum stati
 
  | 
 
-N/A
+Attacks that normally apply Shock apply 1 Surge stack instead. Surge stacks are global status effects, meaning anyone with the path can utilize it, and each stack lasts 30 seconds.  
+After applying 5 Surge stacks, land any move that would apply another to Overload the stacks.  
+Surge Overload deals 2.5 damage with 5 Thundercall scaling per Surge stack and has an AoE that deals 2 damage per Surge stack, the AoE cannot hit the Overloaded target without the Closed Circuit talent.
 
  |
 | 
@@ -958,7 +960,7 @@ Overloading an enemy applies Sapped for 5s.
 
  | 
 
-N/A
+Sapped effect causes the duration of mantra cooldowns to increase.
 
  |
 | 
@@ -976,7 +978,7 @@ Surge Overloads that fail to arc the other opponents will deal additional damage
 
  | 
 
-N/A
+Adds 5 damage with 5 Thundercall scaling to the Overload.
 
  |
 | 
@@ -1012,7 +1014,8 @@ When you're out of Ether, convert the Surge stacks of nearby enemies into Ether 
 
  | 
 
-N/A
+Each Surge stack equates to 10 Ether.  
+Works on Surge stacks that weren't applied by you. Does not work on Surge stacks applied to yourself.
 
  |
 

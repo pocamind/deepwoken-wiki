@@ -1,6 +1,6 @@
 ---
 title: Parasol Planter
-revid: 126432
+revid: 126541
 source: https://deepwoken.fandom.com/wiki/Parasol_Planter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World Event, Equipment, Head, Hats]
@@ -33,6 +33,6 @@ The Parasol Planter is a Unique Equipment Item found under the "Head" category. 
 Grants the user the "[Grotesque Resilience](Talents.md#miscellaneous)" Unique Equipment Talent, which reduces all damage from "Damage Over Time" effects by seemingly 75%.
 
 -   Notably, it does not work on all Damage over Time effects.
-    -   It does **not** work on: Damaging [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Viscosity](Enchantments.md#equipment), [Deferred](Enchantments.md), or [Rush Hour](Talents.md#bloodrender).
+    -   It does **not** work on: Damaging [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Viscosity](Enchantments.md#equipment), [Deferred](Enchantments.md), [Reveal](Oath%253A_Bladeharper.md), or [Rush Hour](Talents.md#bloodrender).
 -   Grotesque Resilience works on:
     -   Burn, Bleed Damage (needs testing)

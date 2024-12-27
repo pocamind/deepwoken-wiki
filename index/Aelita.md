@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 125797
+revid: 126558
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Oath Trainer, World Event]
@@ -72,12 +72,14 @@ She is the sister of [Tillian](Tillian.md).
     Aelita sitting in the fetal position on a rock
     
 -   Aelita only says "See? That was fun right? You can have a lot more fun if you come back during the winter." to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of Blizzard Knights will spawn.
--   If going straight through the [Valley of Heroes](The_Valley_of_Heroes.md), even sticking to the walls, you'll most likely trigger Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
+-   If going straight through the [Valley of Heroes](The_Valley_of_Heroes.md), even sticking to the walls, you'll most likely trigger Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard. If you stick to the leftmost walls of the Valley, you may narrowly avoid the spawn trigger for Aelita, although the area seems to be rather precise.
 -   [Silentheart](Oath%253A_Silentheart.md)'s are unable to beat her game without abusing glitches due to a lack of Mantras.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair) Aelita's hair ID : 6536255505
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
 -   Her outfit is the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md), but is currently pending a rework due to the misconduct of the original's creator.
 -   There is a glitch with this event that allows you to skip it and instantly spawns a chest allowing to beat this event even if you lack Mantras. Glitching Aelita will not make the event music stop.
+-   If killed by her during the Carnival of Hearts, she will use the “A Fearsome Enemy” tag.
+-   When she puts you in danger during the Carnival of Hearts, her tag is .aelita4693 (at least in that one screenshot in the fandom comment section, maybe the number’s randomized)
 
 ## References
 

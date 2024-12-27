@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 124915
+revid: 126544
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,45 +15,45 @@ _**FOREWORD**: **An up-to-date spreadsheet with every source of carry load and t
 
 ## Sources of Carry Load
 
-### [Talents](Talents.md)
+### Talents
 
 [Quest Talents](Talent_Quests.md) can be found in the Other Sources section.
 
 In order of carry load given:
 
--   Fists of Fortitude gives 1 carry load.
--   Pack Mule gives 1 carry load.
+-   _Fists of Fortitude_ gives 1 carry load.
+-   _Pack Mule_ gives 1 carry load.
 -   _Champion's Regalia_ gives 1 carry load.
--   Gourmand gives 2 carry load.
--   Unstoppable Force gives 2 carry load.
--   Destructive Recovery gives carry load.
--   Pitcher gives 3 carry load.
--   Pocket Sand gives 4 carry load.
--   Unwavering Resolve gives 4 carry load.
--   Shield Breaker gives 4 carry load.
--   Captain Etrea gives 4 carry load.
+-   _Gourmand_ gives 2 carry load.
+-   _Unstoppable_ Force gives 2 carry load.
+-   _Destructive Recovery_ gives carry load.
+-   _Pitcher_ gives 3 carry load.
+-   _Pocket Sand_ gives 4 carry load.
+-   _Unwavering_ Resolve gives 4 carry load.
+-   _Shield Breaker_ gives 4 carry load.
+-   _Captain Etrea_ gives 4 carry load.
 -   _Lootskipper_ gives 4 carry load.
--   Duelist's Dance gives 4 carry load.
+-   _Duelist's Dance_ gives 4 carry load.
 -   _Spine Cutter_ gives 6 carry load.
--   Rain of Static gives 7 carry load.
--   Jolt Cast gives 7 carry load.
+-   _Rain of Static_ gives 7 carry load.
+-   _Jolt Cast_ gives 7 carry load.
 -   _Eureka_ gives 7 carry load.
--   Ether Conduit gives 7 carry load.
--   Ether Absorption gives 7 carry load.
--   Steady Nerves gives 7 carry load.
+-   _Ether Conduit_ gives 7 carry load.
+-   _Ether Absorption_ gives 7 carry load.
+-   _Steady Nerves_ gives 7 carry load.
 -   _Everchanging Aegis_ gives 7 carry load.
--   Pressure Break gives 8 carry load.
+-   _Pressure Break_ gives 8 carry load.
 -   _Concussion_ gives 8 carry load.
 -   _Strong Stern_ gives 9 carry load.
--   Strong Hold gives 9 carry load.
--   Precise Swing gives 9 carry load.
--   Concussive Force gives 9 carry load.
--   Steady Footing gives 9 carry load.
--   Berserker gives 10 carry load.
--   Gathering Electricity gives 10 carry load.
--   Concussive Flash gives 10 carry load.
+-   _Strong Hold_ gives 9 carry load.
+-   _Precise Swing_ gives 9 carry load.
+-   _Concussive Force_ gives 9 carry load.
+-   _Steady Footing_ gives 9 carry load.
+-   _Berserker_ gives 10 carry load.
+-   _Gathering Electricity_ gives 10 carry load.
+-   _Concussive Flash_ gives 10 carry load.
 
-All of these Talents combined would theoretically provide 182 carry load.
+All of these [Talents](Talents.md) combined would theoretically provide 182 carry load.
 
 ### Other Sources
 
@@ -74,7 +74,7 @@ In order of carry load given:
 -   The [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) gives 50 carry load.
 -   The Packmule [Boon](Boons_and_Flaws.md) gives 50 carry load.
 -   The [base character](Character_Stats.md) starts off with 100 carry load.
--   Strength increases your carry load by 1 for every point of strength you get.
+-   [Strength](Attributes.md) increases your carry load by 1 for every point of strength you get.
     -   [Canor](Canor.md) and [Khan](Khan.md) can get up to 103 strength due to their 3 starting strength, resulting in 103 extra carry load.
     -   [Gremor](Gremor.md) can get up to 102 strength due to its 2 starting strength, resulting in 102 extra carry load.
     -   Every other [aspect](Aspects.md) can only get up to 100 strength, resulting in 100 extra carry load.
@@ -83,12 +83,12 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **557**. However, your character can actually carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **655**.
+Combining both Talents and other sources, the total amounts to **557**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **668**.
 
-Due to the build limitations, the best carry load build can only get **546** carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
+Due to attribute limitations, the current best carry load build can only get **546**/**655** carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
 
--   If you create a build that gets more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to calculate your final carry load, as the builder website does not account for sources like strength or Spare Nails.
+-   If you create a build that gets more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
 
 ## Trivia
 
--   Interestingly, if you reduce your carry load (by taking off a backpack, for example), you can still carry your previous max amount of items, even after rejoining, so long as you don't drop any of it.
+-   Interestingly, if you reduce your carry load (by taking off a backpack, for example) while at maximum capacity, you can still carry your previous max amount of items, even after rejoining. Though, if you drop any item, you won't be able to pick it back up.

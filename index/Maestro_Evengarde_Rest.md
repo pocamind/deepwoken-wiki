@@ -1,9 +1,9 @@
 ---
 title: Maestro Evengarde Rest
-revid: 125549
+revid: 126613
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Bosses, Etrea]
+categories: [Enemies, NPCs, Bosses, Etrea]
 ---
 
 # Maestro Evengarde Rest
@@ -244,12 +244,12 @@ Exhaustive Loot Table
     <li><a href="Purple_Cloud.md"><font>Purple Cloud</font></a> (Medium)</li>
     <li><a href="Pale_Briar.md"><font>Pale Briar</font></a> (Heavy)</li>
   </ol></li>
-    <li><b>Legendary Weapons</b>: <a href="Wyrmtooth.md"><font>Wyrmtooth</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff </font></a>, <a href="Rosen's_Hellflame.md">Rosen's Hellflame</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Crypt_Blade.md">Crypt Blade</a>.</li>
+    <li><b>Legendary Weapons</b>: <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Rosen's_Hellflame.md">Rosen's Hellflame</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Crypt_Blade.md">Crypt Blade</a>.</li>
     <li><b>Alloyed Weapons</b>: <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
-    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>.</li>
     <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="Pale_Morning.md">Pale Morning</a>.</li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>.</li>

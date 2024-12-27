@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 125237
+revid: 126546
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -109,8 +109,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
-  <u><b>1% Food, Thirst steal per 4.5 SCALED DMG dealt</b></u><br>
-  <u><b>FOOD DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
+  <u><b>1% Food, Thirst steal per 4.5 UNSCALED DMG dealt (aka no dmg mods)</b></u><br>
   <b>(NOT AFFECTED BY GLUTTONY FLAW OR HUNGER REDUCE BUFFS)</b></p></div></td>
   <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
@@ -142,7 +141,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
-  <u>1% armor drain per 5.25 SCALED DMG dealt. 1% armor drain per 7 DMG dealt (if steadfast)</u><br>
+  <u>1% armor drain per 5.25 UNSCALED DMG dealt. 1% armor drain per 7 UNSCALED DMG dealt (Aka no DMG mods) (if steadfast)</u><br>
   <u><b>ARMOR DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
   Armor drain values are <b>fixed</b> to&nbsp;% dmg and doesn't scale with armor durability.<br>
   Works on any enemy/monster even on those without armor<br>
@@ -274,7 +273,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
   Weapon deal additional blood bar damage, scales with weapon damage.<br>
-  <u><b>1% blood loss per 3 SCALED DMG dealt (NOT AFFECTED BY HAEMOPHILIA)</b></u><br>
+  <u><b>1% blood loss per 3 UNSCALED DMG dealt (aka no dmg mods) (NOT AFFECTED BY HAEMOPHILIA)</b></u><br>
   <u><b>BLOOD DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
   When missing an attack (dodge, parry and block are not a miss), lose some blood.</p></div></td>
   <td><div>Weapon is completely red, surrounded by a red aura.<br>
@@ -301,7 +300,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the Unbidden<div></div></font></center></td>
   <td><div><p>Drains the target's ether on hit. This scales with your base damage.<br>
   <u><b>Steals 1 ether per 1.3 M1 dmg</b></u><br>
-  <u><b>ETHER DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
+  <u><b>ETHER DRAIN DEPENDS ON UNSCALED DMG dealt (aka no dmg mods)</b></u><br>
   Critical attack is replaced with a counter. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture.<br>
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
   Check Trivia for an explanation of its bugginess in PvE.</p></div></td>

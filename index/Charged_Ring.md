@@ -1,6 +1,6 @@
 ---
 title: Charged Ring
-revid: 120920
+revid: 126564
 source: https://deepwoken.fandom.com/wiki/Charged_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -24,7 +24,11 @@ categories: [Items, Equipment, Rings]
 
 ## Description
 
-**Charged Ring** is a Ring [Equipment](Equipment.md). The Charged Ring reduces the charges required to proc [Crystal Explosions](Frostdraw.md#glassdancer) and [Surge Overloads](Thundercall.md#unstable-capacitor), but also reduces the damage they deal. The model seems to be the same as a [Ferryman's Ring](<Ferryman's_Ring.md>) but blue instead of green.
+**Charged Ring** is a Ring [Equipment](Equipment.md). The Charged Ring reduces the charges required to proc [Crystal Explosions](Frostdraw.md#glassdancer) and [Surge Overloads](Thundercall.md#unstable-capacitor). 6 -> 5.
+
+Despite what the item's description says, it doesn't inherently decrease the amount of damage Surge Overloads and Crystal Explosions deal. The damage dealt by these abilities scales with the amount of stacks applied before they proc, meaning having less overall stacks does mean less damage. In other words, it does not affect their damage output when guard breaking an opponent.
+
+The model seems to be the same as a [Ferryman's Ring](<Ferryman's_Ring.md>) but blue instead of green.
 
 ## Trivia
 
