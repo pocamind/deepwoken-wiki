@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 126378
+revid: 126431
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boots, Equipment, Items]
@@ -30,7 +30,7 @@ The Wartreads of Enmity is an [Equipment](Equipment.md) item under the "Legs" ca
 
 File:Wartreadsplaceholder.png
 
-The boots come with 5 HP and an innate Talent, _Perseverance:_ "When you're knocked down, you get back up again more quickly."
+Equipping the boots grants the wearer innate +5 HP, +2 Legendary Pips, and the Talent [Perseverance](Talents.md#bastion), which reduces the time you spend knocked by 25%.
 
 File:Screenshot 2024-12-24 180543.png
 

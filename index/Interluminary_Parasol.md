@@ -1,12 +1,16 @@
 ---
 title: Interluminary Parasol
-revid: 126370
+revid: 126435
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Monsters, World Event]
 ---
 
 # Interluminary Parasol
+
+“ The sight of a Parasol is more than enough to make many lose their lunch. It's thought that they act as a form of cross-pollinator for various creatures that make their way from the Depths to Lumen, exchanging the traits and properties between them and dismantling ecosystems by injecting them into a competing niche. ”
+
+― Parasol Planter Description
 
 Template:Creature Infobox V3
 

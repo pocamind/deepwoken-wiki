@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 126386
+revid: 126484
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -31,7 +31,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 | 
 Enmity's Call
 
- | The Heart of Enmity summons 3 Enmity Servants, which are darker [Enforcers](Enforcer.md) with bright yellow eyes. These serve to heal you during the fight via killing them. Unsure if these Enmity Servants are less, more or as equally as strong as the regular Enforcers. This move has a cooldown of around 100 seconds. |  |
+ | The Heart of Enmity summons 3 Enmity Servants, which are darker [Enforcers](Enforcer.md) with bright yellow eyes. These serve to heal you during the fight via killing them. Each has 8k hp, and does not scale per player. |  |
 | 
 
 Uppercut of Enmity  
@@ -129,7 +129,7 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 
  |
 
-## Strageties
+## Strategies
 
 ###### Offense/General
 
@@ -163,6 +163,8 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 
 -   The Heart of Enmity is the first ever [Scyphozia](First_Layer.md) Boss added.
 -   The Heart of Enmity has the highest base health out of any entity in the game.
--   It can spawn corrupted. This is restorable as it's not intended.
+-   It used to spawn corrupted with low chance, This is restorable as it's not intended.
 -   It is unclear if the Heart of Enmity is the physical form of the [Voice of Enmity](Voices_of_the_Depths.md), or just a stronger monster variant used in the trial. However due to the dialogue given after defeating the boss, it implies is the physical form of the Voice of Enmity.
 -   Their summons are internally referred to as ".enmity\_enforcer\_WEAPON"
+-   There was a bug that could instakill the boss by hitting the back of it's neck with rising thunder or rising gale. It's unknown why this happens as there doesn't seem to be an logical reasoning behind this bug.
+-   Heart of Enmity have 65% oath damage resistance.

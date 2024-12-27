@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 123121
+revid: 126445
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Greathammers, The Ignition Union, "Attunement-based Weapons", Multiple Criticals]
@@ -53,5 +53,4 @@ Both the running and the standing version share a cooldown of **10 seconds**. Th
 
 -   The line _"From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark."_ from the item's description is a reference to [The Hammer's Call](Books.md#the-hammers-call), the Ignition Union's in-universe anthem.
 -   Due to a bug, being guardbroken by the Boltcrusher's running Critical will prevent M1 attacks.
--   This weapon has the highest stat requirement of any elemental weapon at 155 stat points. In terms of total attribute requirement, it is third only to the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and the [Imperator's Edge](<Imperator's_Edge.md>) which have requirements of 160 points and 240 points, respectively.
 -   This weapon is one of two weapons that is able to mine ores, the other being the [Quartztone Pickaxe](Quartztone_Pickaxe.md).

@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 126406
+revid: 126483
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -8,11 +8,15 @@ categories: [World Event, Monsters, Bosses]
 
 # The Doom of Caeranthil
 
+“ In many respects, knowledge of Caeranthil only persists within the lens of nightmares that consumed it. The culture, the food, the laughter, the in-jokes, the petty disputes, the fashions they styled themselves after… How can we experience these things if there’s no one left to remember them? ”
+
+― Eye of Malice Description
+
 Template:Creature Infobox V3
 
 ## Description
 
-The Doom of Caeranthil is a [World Event](World_Events.md) Boss found in the Open Sea of the [Luminants](Luminants.md).
+The Doom of Caeranthil or World Serpent named by the community is a [World Event](World_Events.md) Boss found in the Open Sea of the [Luminants](Luminants.md).
 
 The Doom is a colossal sea serpent monster that has ravaged and destroyed islands. It earned it's name when it destroyed the island of [Caeranthil](Caeranthil.md) in the Southern Luminant.
 
@@ -85,7 +89,9 @@ Parryable:◯
 Blockable:✗  
 Dodgeable:✗
 
- |  |
+ | 
+
+ |
 | 
 
 **Whirlpool**  
@@ -104,8 +110,6 @@ Dodgeable:✗
 (★★★)
 
  | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips. Appears to only do it if it is infront of etris docks and aims near the well near the dock.
-
--   Only unlocked after The Doom reaches 2 bars of health.
 
 Parryable:✗
 

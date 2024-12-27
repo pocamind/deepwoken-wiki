@@ -1,6 +1,6 @@
 ---
 title: "Smith's Bandana"
-revid: 118252
+revid: 126449
 source: https://deepwoken.fandom.com/wiki/Smith's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Duke Erisia, Primadon, First Layer, Chaser, Maestro Evengarde Rest, The Diluvian MechanismFound from:, Artifact Turn-ins, Pure Erisore turn in |
+| obtainment | Chests from:, Erisia, Duke Erisia, Primadon, First Layer, Chaser, Maestro Evengarde Rest, The Diluvian Mechanism, Chime of ConflictFound from:, Artifact Turn-ins, Pure Erisore turn in |
 | description | "..." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 125959
+revid: 126428
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -67,7 +67,7 @@ Monster shown here will start showing up and replacing other monsters the deeper
 
 ## Loot
 
-Loot is based on the type of mob you kill. Some of the more notable loot confirmed to drop from Saramaed Hollow so far can be found in the table below.
+Loot is based on the type of mob you kill. Some of the loot confirmed to drop from Saramaed Hollow can be found in the table below.
 
 <table><caption></caption>
 <tbody>

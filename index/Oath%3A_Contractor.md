@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 125762
+revid: 126454
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -25,7 +25,6 @@ categories: [Pages with broken file links, Oaths, The Ministry]
 
 ― [Zi'eer](The_Lord_Regent.md)
 
-  
 The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent.md). You Vow yourself with the malevolent King of Etrea, and to The Ministry by extension, as a Contractor in order to assist Zi'eer in his plan to eventually sink Etrea into The Depths, causing another Great Drowning in the process. You become a puppet to The Ministry, literally and figuratively.
 
 ## Obtainment

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 123885
+revid: 126478
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
@@ -451,6 +451,8 @@ Multiplying Spark
 
  | 
 
+-   Blood Orb
+-   Scarlet Cyclone
 -   Ice Cubes
 -   Lightning Clones
 -   Fleeting Sparks
@@ -1013,6 +1015,36 @@ Illusory Realm
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
+Blood Orb
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Blood Orb" mantra to shoot three orbs instead of one
+
+ |
+| 
+
+Scarlet Cyclone
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Scarlet Cyclone" mantra to shoot three cyclones instead of one
+
+ |
+| 
+
 Ice Cubes
 
 (★★★)

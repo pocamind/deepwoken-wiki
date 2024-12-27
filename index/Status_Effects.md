@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 125127
+revid: 126436
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -66,7 +66,11 @@ For the duration, you are unable to be lit on fire, signified by a cold breath c
 
 ### Engulfed by Lightning
 
-Applied by the Mantra [Lightning Cloak.](Thundercall.md) Have your swing speed and movement speed increased while active.
+Applied by the Mantra [Lightning Cloak.](Thundercall.md) Have your swing speed and movement speed increased while active. Signified by pulsating electricity around your character.
+
+### Engulfed by Shadows
+
+Applied by the Mantra [Shade Devour.](Shadowcast.md) Increases your weapon damage by 20-25%, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md) on the mantra. Signified by a rain of shadows above and throughout your character.
 
 ### Adrenaline Surge
 

@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 124490
+revid: 126440
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Unique Critical]
@@ -46,7 +46,6 @@ The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 
--   Has the third highest HVY requirement of any weapon in the game, surpassed by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and [Kanabo](Kanabo.md).
 -   Its critical attack is, ironically, very useful against the Maestro.
 -   The caster of the critical attack is unable to cast mantras while it is up.
     -   Before the 06/15/2024 update, this was possible, leading to many cheese tactics involving the weapon.

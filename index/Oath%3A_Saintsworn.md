@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 126363
+revid: 126485
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -66,7 +66,7 @@ Make sure not to touch the ice on the floor as it instantly kills you.
 
 -   For the final obelisk, Shadowcast, you need to sail once more to the [Moon’s Eyrie](<Moon's_Eyrie.md>)**, and talk to Urek Felhand.**
 
--   Saintsworn **CANNOT** be obtained with 100 points in a singular attunement, you **need** at least 20 points in an attunement to resonate with their respective pillar in other words, you need 20 points in the 5 different attunements, it is **NOT** a combined requirement.
+-   Saintsworn **CANNOT** be obtained with 100 points in a singular attunement, you **need** at least 20 points in an attunement to resonate with their respective pillar- in other words, you need 20 points in the 5 different attunements. It is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
 
 ## Progression
@@ -129,9 +129,9 @@ Slash twice with your Saintsblade, applying knockdown on the second hit, followe
 
 File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Saints Overload.png File:Saints Synergy.png
 
--   +2 Mantra Slots
--   +2 Support Slots
--   +1 Wildcard Slot
+-   +2 Combat Mantra Slots
+-   +2 Support Mantra Slots
+-   +1 Wildcard Mantra Slot
 
 ## NPC Interactions:
 
@@ -160,3 +160,4 @@ Frostdraw **Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seekin
 -   The Saintsblade (and, by extension, the mantra that varies based on your current Saint Stance, Blade of Saints) does NOT change color in accordance to attunement paths. This is likely a bug.
 -   Saint's Overload have 20 seconds of duration before going off and it can be seen from the flying blade that it changes color to white.
 -   The 5 blade on your back will be vanished one by one after Hero's Assist is triggered.
+-   The Saint's Blade Stance cycle is based from your strongest attunement, with the strongest one will be your first stance and so on.

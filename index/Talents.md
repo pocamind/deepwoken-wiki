@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 126342
+revid: 126480
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2967,13 +2967,13 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### [Oath](Oaths.md)
 
 -   [Oath: Arcwarder](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
-    -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall. Complete Alpha's quest.
+    -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
 
 -   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot)
-    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a total of 90 in LHT/HVY, defeat yourself after interacting with a Sky Statue.
+    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a total of 90 in LHT/HVY, defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
 
 -   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
-    -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talent, Blindfold and read the inscriptions in The Temple of the Forgotten Flame.
+    -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 -   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slot)
     -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
@@ -2988,7 +2988,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: [Power](Power.md) 12, Change your hair 12 times at any [Barber](Barber.md). (Does not have to be a unique haircut)
 
 -   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility)
-    -   Prerequisites: 50 Agility and beat [Alirian](Alirian.md) in race.
+    -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race.
 
 -   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slot)
     -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
@@ -2997,19 +2997,19 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 
 -   [Oath: Saltchemist](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
-    -   Prerequisites: 75 Intelligence, complete Ciea's quest once.
+    -   Prerequisites: 75 Intelligence, complete [Ciea](Ciea.md)'s quest once.
 
 -   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with half the usual requirements. (+2 Posture, +10 Health)
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, 75 in any Weapon stat, be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
-    -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
+    -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the Derelict Church (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
 
 -   [Oath: Visionshaper](Oath%253A_Visionshaper.md) - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.
 
--   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - TBD
-    -   Prerequisites:
+-   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)
+    -   Prerequisites: 20 Flamecharm, 20 Galebreathe, 20 Shadowcast, 20 Frostdraw, 20 Thundercall, resonate with the Flamecharm pillar at [Saramaed Summit](Saramaed_Summit.md) and talk to Jace, resonate with the Galebreathe pillar at [The Garden Reservoir](The_Garden_Reservoir.md) and talk to Trinity Galenwarde, resonate with the Shadowcast pillar at [Moon's Eyrie](<Moon's_Eyrie.md>) and talk to Urek Felhand, resonate with the Frostdraw pillar atop the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and talk to Faust, and resonate with the Thundercall pillar at [Boatman's Watch](<Boatman's_Watch.md>) and talk to Tessa, in any order.
 
 -   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - TBD
     -   Prerequisites:
