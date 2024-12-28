@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 126672
+revid: 126692
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -20,7 +20,7 @@ The Doom of Caeranthil is a [World Event](World_Events.md) Boss found in the Ope
 
 The Doom is a colossal sea serpent monster that has ravaged and destroyed islands, having earned its name when it destroyed the island of [Caeranthil](Caeranthil.md) in the Southern Luminant.
 
-When the Doom spawns, a danger notification will flash on the screen, calling players to defeat the boss before it adds another island to its list of victims.
+The Doom will swim across the seas of the Etrean Luminant in a specific pattern: it will begin near the Sea Highway gate to the south of Erisia, go to the east of erisia, go to Etris Docks, go to Erisia's entrance and finally, Vigil Docks.
 
 Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted (If they don't have it or another murmur); a chest with loot will also spawn at the player's location.
 

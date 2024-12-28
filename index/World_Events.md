@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 126691
+revid: 126693
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -24,7 +24,7 @@ World events are focused on uniting the players towards accomplishing a single g
     -   Partake in a series of games within the **[Carnival of Hearts](Carnival_of_Hearts.md)**, hosted by [Aelita](Aelita.md) and [Tillian](Tillian.md)
 -   **Interluminary Interloper**
     -   Defeat the [**Interluminary Parasol**](Interluminary_Parasol.md) within the Eastern Luminant before it may spreads the plagues of The Depth
--   Caeranthil's Wake
+-   **Caeranthil's Wake**
     -   Defeat [**The Doom of Caeranthil**](The_Doom_of_Caeranthil.md) within the Etrean Luminant before history repeats itself
 -   **Siege of Etris** (to be added, is currently a regular random event)
     -   Prevent The Authority from succesfully [sieging Etris](Cinders_of_Etris.md) with the help of the Etrean Guards and Royal Guards

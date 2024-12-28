@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 125781
+revid: 126712
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths]
@@ -8,7 +8,7 @@ categories: [NPCs, The Depths]
 
 # Voices of the Depths
 
-The **Voices of the Depths** are encountered when the player attempts to escape [The Depths](The_Depths.md) and in the [Trial of One](Trial_of_One.md). As the name suggests, they are simply voices and cannot be interacted with. They seem to oversee [The City of the Drowned](The_City_of_the_Drowned.md), with the few that remain there living in terror of them.
+The **Voices of the Depths** are encountered when the player attempts to escape [The Depths](The_Depths.md) and in the [Trial of One](Trial_of_One.md). While they are called voices, it seems that they can manifest in physical forms, such as Heart of Enmity. They seem to oversee [The City of the Drowned](The_City_of_the_Drowned.md), with the few that remain there living in terror of them.
 
 ## The Voices
 
@@ -37,7 +37,6 @@ _"The state or feeling of being actively opposed or hostile to someone or someth
 -   The Voice of Enmity is highly aggressive towards the players. They are highly sadistic and it sees higher level players "fit for crushing". It enjoys the scene of players being attacked by the monsters of the trial.
 -   When multiple players try to escape The Depths together, it decides that the players deserve true punishment, [coming down personally](Heart_of_Enmity.md) to punish the players for their folly.
 -   It enjoys the scene of players being attacked by the monsters of the trial, hoping that the players will be killed.
--   It seems to be somewhat in charge of the other Voices, as whether or not it views players as strong enough will decide whether or not a trial will commence.
 
 ### Voice of Authority
 
@@ -45,7 +44,7 @@ _"The power or right to give orders, make decisions, and enforce obedience."_
 
 -   The Voice of Authority only appears after the player successfully completes the trial.
 -   It will order the other Voices to send the player back up into the Surface.
--   Noting it’s title, and dialogue, it seems to have the final say in all decisions.
+-   Noting it’s title, and dialogue, it seems to have the final say in all decisions. It's assumed that, and by the name, has the highest authority and possibly the strongest of all thre Voices of the Depths.
 
 ### Voice of Solitude
 

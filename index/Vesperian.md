@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 124594
+revid: 126706
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,7 +17,7 @@ Chance of obtaining aspect: **6.2%**
 
 ## Description
 
-Vesperians are described as a beetle themed aspect with organically grown masks and very dark skin. They are most commonly seen at Greathive Aratel and are mostly under ranked by fellow [Ganymedes](Ganymede.md). Vesperians always start off with +3 Fortitude and +2 Willpower as well as natural armor that regenerates when you rest.
+Vesperians are described as a beetle themed aspect with organically grown masks and very dark skin. They are most commonly seen at [Greathive Aratel](Greathive_Aratel.md) along with ganymedes. Vesperians always start off with +3 Fortitude and +2 Willpower as well as natural armor that regenerates when you rest.
 
 ## Racial Traits
 
@@ -30,7 +30,7 @@ Vesperians are described as a beetle themed aspect with organically grown masks 
     <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"
   <ul>
     <li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li>
-    <li>This buff also stacks with Exoskeleton ( Rare Talent ) albeit is slightly reduced.</li>
+    <li>This buff stacks with <a href="Talents.md#freak-of-nature">Exoskeleton</a> (Rare Talent), but the effect is reduced to 3%.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -111,12 +111,13 @@ This fits with our current understanding of the lore and would explain why they 
 -   Arch\_Mage has also mentioned the masks are organic, meaning they grow over time.
 -   During the 4/1/2022 April Fools update (Mudwoken), Vesperian aspect name was changed to Maskskipper.
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it
--   Vesperians are considered one of the best aspects in the game, due to their Chitin being able to stack with Exoskeleton.
+-   Vesperians are considered one of the best aspects in the game, due to their natural armor granting an actual combat advantage by making you take less damage.
 
 A Vesperian with Blindseer
 
 -   Instead of the usual blindfold, Vesperian [Blindseers](Oath%253A_Blindseer.md) acquire a special black colored mask with a gold pattern that resembles an eye. Additionally, their original skin color is changed to a more Ganymede-like appearence, instead having black skin and dark gray hair. This pattern can also be found on one of the Vesperian statues inside of [The Lordsgrove](The_Lordsgrove.md).
--   The Chitin Talent (aspect ability) can be stacked with the exoskeleton Talent in order to make your natural armor resist up to 15% physical damage. The 5% damage reduction does not falloff with exo.
+-   Instead of the usual wings, Vesperian [Starkindred](Oath%253A_Starkindred.md) will have beetle wings, reflecting their bug-like nature. They share this quality with [Ganymedes](Ganymede.md). (Picture needed)
+-   The Chitin Talent (aspect ability) can be stacked with the Exoskeleton Talent in order to make your natural armor resist up to 13% physical damage. The effect of Chitin is reduced to 3% with the Exoskeleton Talent.
 -   Vesperian and Lightborn are the first aspects to receive a cosmetic in the UGC Avatar Shop.
 -   As with other hivekin, Vesperians share similar names. (Vesperian: Sekhigi, Ganymede: Sekhige, Chrysid: Sehika)
 -   The developers, Nuttoons and Arch\_Mage, have the [Primal Vesperian](Primal_Vesperian.md) aspect as a [Developer Spec](Developer_Specs.md), giving them horned variants of the mask, most likely based on the [primal aspid](https://hollowknight.fandom.com/wiki/Primal_Aspid) enemies in Hollow Knight.

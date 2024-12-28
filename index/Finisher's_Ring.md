@@ -1,6 +1,6 @@
 ---
 title: "Finisher's Ring"
-revid: 124661
+revid: 126721
 source: https://deepwoken.fandom.com/wiki/Finisher's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -23,4 +23,4 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**FInisher's Ring** is a Ring [Equipment](Equipment.md) piece that grants the user extra PEN on attacks that flourish opponents upon being equipped.
+**FInisher's Ring** is a Ring [Equipment](Equipment.md) piece that grants the user extra +10% Armor Penetration (PEN) on attacks that flourish opponents upon being equipped.

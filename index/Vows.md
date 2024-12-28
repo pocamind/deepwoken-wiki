@@ -1,6 +1,6 @@
 ---
 title: Vows
-revid: 124882
+revid: 126701
 source: https://deepwoken.fandom.com/wiki/Vows
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents, Character]
@@ -12,7 +12,7 @@ Two players making a Vow of Mastery.
 
 ## Description
 
-**Vows** are an extension of The Song, being similar in nature to [Oaths](Oaths.md), in a sense that they are made by making a 'promise' of sorts through words that emanate from the soul, however, unlike Oaths, Vows seem to be able to be made exclusively between two people. Most Vows only exist for narrative purposes, but a few are available for gameplay use.
+**Vows** are a power parallel to, but distinct from,[\[1\]](#cite-note-1) the Song. They are made by making a 'promise' of sorts through words that emanate from the soul, however, unlike Oaths, Vows seem to be able to be made exclusively between two people. Most Vows only exist for narrative purposes, but a few are available for gameplay use.
 
 ## Known Vows
 
@@ -30,8 +30,9 @@ The Vow of Safekeeping is often used by [bankers](Banker.md) to keep specific im
 
 ### Hereditary Vows
 
-These are Vows that were made prior to the arrival of most animal-based [aspects](Aspects.md) in Lumen, and the ones that allowed said aspects to exist in the first place. They were made a long time in the past by pagan tribes who worshipped animals, causing the descendents of those tribes to have animal-characteristics, as described in the book ["Vows by the Sea: Inheritance"](Books.md). The only aspect that does not possess a hereditary vow are the [Adret](Adret.md).[\[1\]](#cite-note-1)
+These are Vows that were made prior to the arrival of most animal-based [aspects](Aspects.md) in Lumen, and the ones that allowed said aspects to exist in the first place. They were made a long time in the past by pagan tribes who worshipped animals, causing the descendents of those tribes to have animal-characteristics, as described in the book ["Vows by the Sea: Inheritance"](Books.md). The only aspect that does not possess a hereditary vow are the [Adret](Adret.md).[\[2\]](#cite-note-2)
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://deepwoken.fandom.com/wiki/Books?so=search#Vows\_by\_the\_Sea:\_Inheritance](https://deepwoken.fandom.com/wiki/Books?so=search#Vows_by_the_Sea:_Inheritance)
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2) [Books#Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance)

@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 126556
+revid: 126703
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Etrea, Adept Outfits]
@@ -33,4 +33,4 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   Turns you into a jester.
--   Worn by a funny man during the Carnival of Hearts.
+-   Worn by [a funny man](Tillian.md) during the Carnival of Hearts.
