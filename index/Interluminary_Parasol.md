@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 126649
+revid: 126660
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Monsters, Bosses]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 The Interluminary Parasol is a giant floating jellyfish-like creature resembling the [Terrapods](Terrapod.md) in terms of physical shape/structure with the exception of a more smooth shell and flexible tentacles.
 
-This boss is one of the [World Events](World_Events.md), potentially spawning once every real world hour. It can spawn anywhere in the ocean, including (but not always) near land.
+This boss is one of the [World Events](World_Events.md), potentially spawning once every real world hour.
 
 ## Moveset
 

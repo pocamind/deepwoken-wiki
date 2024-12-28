@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 126613
+revid: 126680
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -305,7 +305,7 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) Oath mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
 -   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
-    -   This technically makes him the only "optional" boss in the game, as he is not required for W Rank.
+    -   This technically makes him one of the only "optional" bosses in the game, alongside the [Heart of Enmity](Heart_of_Enmity.md), as he is not required for W Rank.
 -   Spitting on Maestro Evengarde Rest both before the fight and during it makes his character say the following dialogue:
     -   _"This is how you treat my generosity?"_
     -   After this, he instantly kills you.

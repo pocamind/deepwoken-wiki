@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 126565
+revid: 126664
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -5710,7 +5710,7 @@ Found from:
 
  | 
 
-Flourishing an opponent has a 50% chance to stun them.
+Flourishing an opponent has a chance to stun them automatically.
 
   
 +1 Uncommon Pip

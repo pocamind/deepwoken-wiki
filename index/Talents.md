@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 126650
+revid: 126689
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -966,7 +966,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load)
     -   Refunds the ether cost of a mantra proportionate to your INT.
-    -   Practically useless as it has **6 seconds** cooldown.
+    -   It has **6 seconds** cooldown.
     -   Prerequisite: 30 Intelligence
 
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.

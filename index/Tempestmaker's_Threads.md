@@ -1,6 +1,6 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 126057
+revid: 126686
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

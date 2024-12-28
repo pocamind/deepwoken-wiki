@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 126577
+revid: 126691
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -12,7 +12,7 @@ notices:
 
 ## Overview
 
-World events are game wide events that occur in every server once every real life hour (exactly at XX:00). Currently, the pattern in which the different bosses spawn in is unknown. It has something to do with server age, and even/odd real life hours. Each [Luminants](Luminants.md) will have their own world events and every server of that luminant will have the same event.
+World events are game wide events that occur in every server once every real life hour (exactly at XX:00). The order of the events is as follows; odd hours (3:00, 7:00, etc) is a ["Boss"](Bosses.md) World Event, and even hours (2:00, 8:00, etc) is always the [Carnival of Hearts](Carnival_of_Hearts.md). Each [Luminants](Luminants.md) will have their own world events and every server of that luminant will have the same event.
 
 World events are focused on uniting the players towards accomplishing a single goal and awarding them individually. Do note that ganking is not disabled, however.
 
@@ -20,7 +20,11 @@ World events are focused on uniting the players towards accomplishing a single g
 
 ### World Events
 
--   [Carnival of Hearts](Carnival_of_Hearts.md)
--   [Interluminary Interloper](Interluminary_Parasol.md) (Currently only appears in the Eastern luminant; spawns the [Interluminary Parasol](Interluminary_Parasol.md))
--   Caeranthil's Wake (Currently only appears in etrean luminant; [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) is not an event, it is what spawns from Caeranthil's Wake)
--   [Etris: Siege](Cinders_of_Etris.md) (Not currently released, used as an example when world events were first brought up and confirmed by devs to be a World Event within the near future)
+-   **Carnival of Hearts**
+    -   Partake in a series of games within the **[Carnival of Hearts](Carnival_of_Hearts.md)**, hosted by [Aelita](Aelita.md) and [Tillian](Tillian.md)
+-   **Interluminary Interloper**
+    -   Defeat the [**Interluminary Parasol**](Interluminary_Parasol.md) within the Eastern Luminant before it may spreads the plagues of The Depth
+-   Caeranthil's Wake
+    -   Defeat [**The Doom of Caeranthil**](The_Doom_of_Caeranthil.md) within the Etrean Luminant before history repeats itself
+-   **Siege of Etris** (to be added, is currently a regular random event)
+    -   Prevent The Authority from succesfully [sieging Etris](Cinders_of_Etris.md) with the help of the Etrean Guards and Royal Guards
