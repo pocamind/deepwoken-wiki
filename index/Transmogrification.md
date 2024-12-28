@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 126327
+revid: 126763
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -31,6 +31,8 @@ The stats of your currently equipped outfit will be kept.
 -   Press **Transmog**.
 
 Transmog UI
+
+-   The transmog can be reverted by going back to your main, currently equipped outfit and pressing **Revert**.
 
 ## Smelting
 

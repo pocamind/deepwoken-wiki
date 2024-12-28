@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 126732
+revid: 126757
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -13,6 +13,8 @@ notices:
 ## Overview
 
 World events are game wide events that occur in every server once every real life hour (exactly at XX:00). The order of the events is as follows; odd hours (3:00, 7:00, etc) is a ["Boss"](Bosses.md) World Event, and even hours (2:00, 8:00, etc) is always the [Carnival of Hearts](Carnival_of_Hearts.md). Each [Luminants](Luminants.md) will have their own world events and every server of that luminant will have the same event.
+
+**NOTE THAT HOURS MAY VARY DUE TO TIMEZONES.**
 
 World events are focused on uniting the players towards accomplishing a single goal and awarding them individually. Do note that ganking is not disabled, however.
 

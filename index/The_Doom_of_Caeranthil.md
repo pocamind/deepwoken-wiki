@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 126738
+revid: 126760
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -121,7 +121,7 @@ Dodgeable:✗
 
 ## Tips and Strategies
 
--   ~You can only damage the Doom on its underside.~ The Doom has a very large hitbox, and swinging where its submerged tail is, or doing so atop a boat can still damage it. Avoid being too close to the center so you can react to the Tidal Roar and Whirlpool attacks.
+-   The Doom has a very large hitbox, and swinging where its submerged tail is, or doing so atop a boat can still damage it. Avoid being too close to the center so you can react to the Tidal Roar and Whirlpool attacks.
 -   Be cautious when using boats to attack the Doom; when it dives, it will Sudden Ambush on the closest area with a large player count. If none are found it will instead strike the closest boat. Sudden Ambush can also target NPCs.
 -   If you do not have an Ironclad, immediately turn to the wind direction and/or angle your sails to match the wind. This will give you a lot of speed to outrun the Doom's Sudden Ambush.
 -   When doing this with other players, it is a great idea to keep a couple of boats manned so you can hop on and chase it or get some speed to avoid its Sudden Ambush or Pressure Eruptions. Take turns piloting the boat if need be.
@@ -205,5 +205,5 @@ Exhaustive Loot Table
 
 ## Trivia
 
--   When it was first teased, it was known to the devs and community as the "World Serpent" before undergoing a more lore-based rename on release.
+-   When it was first teased, it was known to the devs and community as the "World Serpent."
 -   Given its drops, design and Murmur: Ardour orb, it can be reasonably assumed that this creature is somehow related to the Dread Serpent (possibly a stronger variant/mutation).

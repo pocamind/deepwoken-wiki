@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 126726
+revid: 126741
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -39,6 +39,7 @@ Enchanted items cannot be dropped on death.
 
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 40 [Echoes](Echoes.md) per item.
+-   Items cannot be "un-enchanted", however, another Enchant Stone or Grease can be used on it to replace the enchantment.
 
 ## Variants
 

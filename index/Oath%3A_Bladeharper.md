@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 126198
+revid: 126755
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -105,6 +105,7 @@ Finally the most important piece of advice, stay calm, as you would with any and
 
 ## Trivia
 
+-   **BLADEHARPER MOVES DOESN'T HAVE PVE SCALE**
 -   The Blade Within statue will change model depending on your equipped weapon. ~Devs sold the bag by calling it Snakerings when dyeing the Bladeharper~ At an unknown date, this was changed to "Bladeharper Serpents" instead of snakerings.
 -   The "Blade Within" fight is a reference to Bleach's bankai obtainment.
 -   The NPC's moveset doesn't change if you die and go back to fight it again. It seems to reuse the AI from Maestro.

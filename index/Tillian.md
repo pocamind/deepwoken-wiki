@@ -1,6 +1,6 @@
 ---
 title: Tillian
-revid: 126666
+revid: 126740
 source: https://deepwoken.fandom.com/wiki/Tillian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, NPCs]
