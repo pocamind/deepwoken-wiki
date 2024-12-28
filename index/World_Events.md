@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 126693
+revid: 126732
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -17,8 +17,6 @@ World events are game wide events that occur in every server once every real lif
 World events are focused on uniting the players towards accomplishing a single goal and awarding them individually. Do note that ganking is not disabled, however.
 
 ## List of World Events
-
-### World Events
 
 -   **Carnival of Hearts**
     -   Partake in a series of games within the **[Carnival of Hearts](Carnival_of_Hearts.md)**, hosted by [Aelita](Aelita.md) and [Tillian](Tillian.md)

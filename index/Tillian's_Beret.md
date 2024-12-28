@@ -1,20 +1,20 @@
 ---
 title: "Tillian's Beret"
-revid: 126620
+revid: 126733
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, World Event, Head]
+categories: [Equipment, World Event, Head, Hats]
 ---
 
 # Tillian's Beret
 
-| Tilian's Beret | |
+| Tillian's Beret | |
 |---|---|
 | type | Head |
 | rarity | Unique |
 | selling price | 100 |
 | weight | 1 |
-| innate stats | +7hp |
+| innate stats | +7 Health, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Cap Artist |
 | bankable | Yes |
 | droppable | Yes |
@@ -25,7 +25,7 @@ categories: [Equipment, World Event, Head]
 
 ## Description
 
-Tillian's Beret is a head equipment obtained from the [Carnival of Hearts](Carnival_of_Hearts.md). Equipping the beret grants the user 7hp (? pips) and the talent Cap artist which allows the user to ragdoll by pressing r while crouched.
+Tillian's Beret is a head equipment obtained from the [Carnival of Hearts](Carnival_of_Hearts.md). Equipping the beret grants the user 7hp, 1 Legendary pip, and 2 Rare pips and the talent Cap artist which allows the user to ragdoll by pressing R while crouched.
 
   
 

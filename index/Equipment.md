@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 126722
+revid: 126735
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1381,6 +1381,27 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
+| File:Tillian's beret .png | 
+
+Tillian's Beret
+
+ | 
+
+_+7 Health_
+
++2 Rare Pips
+
++1 Legendary Pip
+
+_+Talent: Cap Artist_
+
+ | 
+
+Found from:
+
+-   [Carnival of Hearts](Carnival_of_Hearts.md)
+
+ | N/A |
 | File:Slate Tophat.png | 
 
 [Tophat](Tophat.md)
@@ -1410,7 +1431,7 @@ Found from:
 
  | 
 
-_+4 Health_  
+_+4 Health_
 
 +1 Uncommon Pip
 
@@ -1433,7 +1454,7 @@ Found from:
 
  | 
 
-+2 Rare Pips  
++2 Rare Pips
 
 +1 Legendary Pip
 
@@ -3127,7 +3148,7 @@ Found from:
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | N/A |
+ | Default, Threadwork |
 | File:Static-assets-upload15149895911827136801.png | 
 
 [Silver Pauldrons](Silver_Pauldrons.md)
@@ -5793,7 +5814,7 @@ Found from:
 
  | 
 
-Extra PEN on your attacks that flourish opponents.
++10% extra PEN on M1 flourishes. Does not bypass PEN cap.
 
   
 **Requires Power 10**
@@ -5842,7 +5863,7 @@ Found from:
 
  | 
 
-A ring of the deceptive Krulian known as the Ferryman. Increases the range of your Rhythm by 50%.
+Increases the range of your [Rhythm](Murmur%253A_Rhythm.md) by 50%.
 
 +1 Legendary Pip
 
@@ -5904,7 +5925,7 @@ Found from:
 
  | 
 
-Take 1.25x damage and deal 1.2x damage.
+Take 1.25x damage and deal 1.2x damage at close range.
 
   
 **Requires Power 5**
