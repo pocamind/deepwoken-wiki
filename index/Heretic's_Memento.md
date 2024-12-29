@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 126799
+revid: 126860
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -8,7 +8,7 @@ categories: [Armors, Items, Outfits, Unique Outfits, World Event]
 
 # Heretic's Memento
 
-Template:ArmorInfobox**7Heretic's Memento** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Heretic's Memento** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -36,3 +36,4 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   Added in the 'World Events' update.
+-   the "Giantslayer" talent was forgotten to be added in the talent list on the wiki for the armor.

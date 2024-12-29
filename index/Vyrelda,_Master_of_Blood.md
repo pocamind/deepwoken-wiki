@@ -1,16 +1,15 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 126776
+revid: 126834
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Spelltrainers]
+categories: [Etrean NPCs, NPCs, Spelltrainers]
 ---
 
 # Vyrelda, Master of Blood
 
 | Vyrelda, Master of Blood | |
 |---|---|
-| name | Vyrelda |
 | aspect | Etrean |
 | location | FirfireDerelict Highchurch |
 
@@ -20,7 +19,7 @@ The [Bloodrend](Bloodrend.md) Trainer who was a former student who studied under
 
 She appears to be friendly, albeit stern towards the player. She is seen healing a lost diver by clotting their wounds and restoring their blood through blood magic, despite not being affiliated with the Divers.
 
-After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highchurch.md), account wide. You can attain [Bloodrend](Bloodrend.md) on any slot without going to [Layer 2](Second_Layer.md) by talking to her in the [Derelict Highchurch](Derelict_Highchurch.md).
+After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highchurch.md), account wide. You can attain [Bloodrend](Bloodrend.md) on any slot without going to the [Second Layer](Second_Layer.md) by talking to her in the [Derelict Highchurch](Derelict_Highchurch.md).
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 126755
+revid: 126821
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -38,6 +38,8 @@ The Oath is a result of the player conducting a **Reflection Ritual** at the Sky
     4.  If you manage to deduct a life, you **WON'T** heal off the kill and it will respawn. Lock in.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/2MkMAHH03x4)._
+
+Bladeharper **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 
 ## Progression
 

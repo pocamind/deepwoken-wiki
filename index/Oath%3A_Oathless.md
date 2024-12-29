@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 126396
+revid: 126820
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -28,6 +28,8 @@ Despite its oxymoronic nature, this still counts as an Oath. So other Oaths like
 To start the Oathless quest, head to the docks at [Miner's Landing](<Miner's_Landing.md>) and pass through the entrance. Climb up to the [Mystic](Mystic.md) in front and turn right, walking onwards until you find a log by the ledge facing the sea highway. Through this log is a cave in which [Cerulean](Cerulean.md) can be found leaning against a wall. They'll inform you that, in order to understand the freedom of being Oathless, you must seek out their disciples.
 
 If you have obtained Oathless, you may speak to [Cerulean](Cerulean.md) again to permanently unlock it. This skips the quest on all of your characters/slots, even if that character/slot was created before you permanently unlocked Oathless. _\[Note that obtaining Oathless via any method requires 10 minutes of playtime on that slot.\]_
+
+Oathless **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 
 Aforementioned log tunnel
 

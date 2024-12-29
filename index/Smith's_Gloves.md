@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 123549
+revid: 126838
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Gloves]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Arms, Gloves]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | Power 5 |
 | weight | 2 |
 | innate stats | +5 Health, +2 Rare Pips |
 | innate talent | N/A |

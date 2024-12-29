@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Ardour"
-revid: 125770
+revid: 126812
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Ardour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -30,7 +30,7 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 
 #### Method One - Serpent Slayer
 
-Defeat the [Dread Serpent](Dread_Serpent.md) either by randomly encountering it in the [Voidsea](Voidsea.md) or summoning it with a [Ardour](Ardour_Manifestation.md) [Manifestation](Ardour_Manifestation.md).
+Defeat the [Dread Serpent](Dread_Serpent.md) either by randomly encountering it in the [Voidsea](Voidsea.md) or summoning it with a [Ardour Manifestation](Ardour_Manifestation.md).
 
 #### Method Two - The Old Stranger
 

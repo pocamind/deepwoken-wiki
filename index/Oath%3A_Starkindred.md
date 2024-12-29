@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 124579
+revid: 126828
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -38,6 +38,8 @@ The Starkindred Church is a malevolent cult that worships [Celestials](Celestial
 4.  Return to Samael to get the Oath.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/uqNfFsZ7yhw)._
+
+Starkindred **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 
 ## Progression
 

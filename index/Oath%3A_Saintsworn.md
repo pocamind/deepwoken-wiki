@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 126719
+revid: 126830
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -44,6 +44,8 @@ Saintsworn obtainment requires 20 investment points in the following attunements
 
 After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them.
 
+Saintsworn **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
+
 #### Thundercall
 
 -   For the Thundercall obelisk, you need to sail over to the [Boatman's Watch](<Boatman's_Watch.md>), **and go behind it into a cave** **and talk to Tessa.**
@@ -66,7 +68,7 @@ Make sure not to touch the ice on the floor as it instantly kills you.
 
 -   For the final obelisk, Shadowcast, you need to sail once more to the [Moon’s Eyrie](<Moon's_Eyrie.md>)**, and talk to Urek Felhand.**
 
--   Saintsworn **CANNOT** be obtained with 100 points in a singular attunement, you **need** at least 20 points in an attunement to resonate with their respective pillar- in other words, you need 20 points in the 5 different attunements. It is **NOT** a combined requirement.
+-   Saintsworn **CANNOT** be obtained with 100 points in a singular attunement, you **need** at least 20 points in an attunement to resonate with their respective obelisk- in other words, you need 20 points in the 5 different attunements. It is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
 
 ## Progression

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 126207
+revid: 126829
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -135,9 +135,9 @@ Upon breaking an Oath, unique effects will occur:
 -   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
 -   [Contractor](Oath%253A_Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
     -   You instantly become maximum negative rep with [Etrea](Etrea.md) and [The Ministry](The_Ministry.md).
-    -   Will get instantly gripped if by chance you stumble into the courtroom of the Lord Regent.
+    -   Will get instantly gripped if by chance you stumble into the courtroom of the Lord Regent, meaning it cannot be reobtained.
 -   [Chainwarden](Oath%253A_Chainwarden.md): [Vice Warden Morredh](Vice_Warden_Morredh.md) - "Another deserter? You're pathetic."
-
+    -   You cannot reobtain this oath after being broken.
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
     -   You instantly become maximum negative rep with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
@@ -163,6 +163,7 @@ Upon breaking an Oath, unique effects will occur:
     -   If you attempt to regain the Oath, [The Dreadstar](The_Dreadstar.md) will not spawn after you survive the Ghosts on the [Beloved Zofia](Beloved_Zofia.md).
 -   [Starkindred](Oath%253A_Starkindred.md): [Samael](Samael.md) - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
     -   Talking to [Samael](Samael.md) again will cause him to say "Insolent worm. Leave."
+    -   Cannot be reobtained after breaking it.
 -   [Visionshaper](Oath%253A_Visionshaper.md): [The Nestmind](The_Nestmind.md) - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
     -   Talking to [Surge](Surge.md) again will prompt the following conversation:
         -   "Retired from the Hunt, eh? If you can prove yourself a hunter again I'd be happy to welcome you back." / **Bring me back.**

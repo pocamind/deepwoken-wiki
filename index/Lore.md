@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 125863
+revid: 126856
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -178,7 +178,7 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   He is referenced in many mantras and items, [Flame Within](Flamecharm.md#talents) is an example.
 -   Pleeksty is canonically 3'4 as confirmed by Nuttoons.
 
-### Chaser, Scholar of the Burning Blood
+### Chaser, Scholar of the Crimson Contract
 
 _"Oh, a human? Far from home are we?" -Chaser._
 

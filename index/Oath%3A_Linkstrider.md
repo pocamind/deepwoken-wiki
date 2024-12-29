@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 126284
+revid: 126825
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -43,6 +43,8 @@ The Oath is acquired after taking the lives of 4 players and conducting a ritual
     4.  Interact with the white orb that appears in the middle.
 
 Extra note: You can use a mix of both knocked players and Scarlet Lotus.
+
+Linkstrider **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 
 ## Progression
 

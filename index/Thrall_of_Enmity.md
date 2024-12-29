@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 126376
+revid: 126845
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -28,7 +28,7 @@ Animated Halo
 
 ## Description
 
-The Thrall of Enmity is an [Equipment](Equipment.md) item under the "Face" category. It is found in chests dropped by the [Heart of Enmity](Heart_of_Enmity.md) in 5+ player Depths trials.
+The Thrall of Enmity is an [Equipment](Equipment.md) item under the "Face" category. It is found in chests dropped by the [Heart of Enmity](Heart_of_Enmity.md) in Power 50 average Depths trials.
 
 The mask comes with an innate Talent, _Lose Your Mind:_ "Deal more damage the more insane you are. Grants 15% damage at maximum insanity."
 

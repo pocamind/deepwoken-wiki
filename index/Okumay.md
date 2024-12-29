@@ -1,9 +1,9 @@
 ---
 title: Okumay
-revid: 101508
+revid: 126861
 source: https://deepwoken.fandom.com/wiki/Okumay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 2]
+categories: [Chrysid NPCs, NPCs, Layer 2, Floor 2]
 ---
 
 # Okumay
@@ -11,6 +11,7 @@ categories: [NPCs, Layer 2, Floor 2]
 | Okumay | |
 |---|---|
 | name | Okumay |
+| aspect | Chrysid |
 | location | The Sunken Railways |
 
 ## Description

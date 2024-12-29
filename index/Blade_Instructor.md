@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 124913
+revid: 126855
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea, Kingdom of Etrea Enemies]
@@ -70,6 +70,7 @@ If the instructor is the one that downs the player they will disappear and the p
 -   Gripping them will prompt them to say 'Hey, what do you think you're doing?!'
 -   You can glitch an instructor by starting the spar and not doing anything at all.
     -   To fix it, you just need to defeat him.
+-   There is a secret text bubble that appears if the player is knocked due to hunger or other means while in a battle with him that says "Not bad, but not good enough," which could be due to the Instructor being meant to knock the player
 
 ## References
 

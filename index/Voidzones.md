@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 125106
+revid: 126857
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -192,3 +192,15 @@ While inside a Voidzone:
 **Dangers:** [Moon Knights](Moon_Knight.md)
 
 **Rewards:** [Nocturne](Nocturne.md), [Soulthorn](Soulthorn.md), [Fractine](Fractine.md), and the [Dormant Splinter](Dormant_Splinter.md), among other things
+
+### [Beloved Zofia](Beloved_Zofia.md)
+
+“ An abandoned ship lost to time, now corrupted by the spirits of the Voidsea. ”
+
+― Beloved Zofia flavor text
+
+**Location:** Etrean Luminant, behind [Minityrsa](Minityrsa.md).
+
+**Dangers:** [Ghosts](Ghost.md)
+
+**Rewards:** [Oath: Silentheart](Oath%253A_Silentheart.md)

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 126169
+revid: 126827
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -59,6 +59,8 @@ Note that killing the Spelltrainers **will make you lose Reputation** with some 
 -   Adar with Ignition Union
 
 Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
+
+Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, the Dreadstar will not spawn.
 
 ## Effects
 

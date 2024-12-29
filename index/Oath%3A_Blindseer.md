@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 126200
+revid: 126822
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -37,6 +37,8 @@ Once inside the temple, proceed through a passage on the left.
 -   Inside that room, an engraved message can be found. Interact with this text while blind (either from the flaw or from a blindfold)
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=76G3K8Ng9Q8)._
+
+Blindseer **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 
 ## Progression
 
