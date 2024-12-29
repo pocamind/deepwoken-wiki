@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 126825
+revid: 126867
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -67,7 +67,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
         -   Does not work when in combat.
         -   Cannot cross-luminant travel.
         -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied. (Does not apply to guild base campfires)
-        -   Your **very first** teleport requires you to have a [Stardust](Stardust.md), all subsequent teleports are free.
+        -   Your **very first** teleport requires you to have a [Stardust](Stardust.md) if you didn't interacted with the meteor before, all subsequent teleports are free.
     -   Six meteorites can be located throughout the overworld:
         -   _Etrean Luminant:_
             -   **Ceres** (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
@@ -82,6 +82,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
     -   Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
         -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
         -   Red Cords (Enemies) gain a minor speed debuff.
+        -   This ability only can be used to a humanoid npcs and players.
     -   Allows you to passively see the health bar of allies, even when not active.
 
 -   **Symbiotic Sustain (Mantra)**

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 126829
+revid: 126888
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -24,93 +24,63 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 ### Obtainable Oaths
 
-[⧉](Oath%253A_Oathless.md)
-
-Oathless
+[Oathless](Oath%253A_Oathless.md)
 
 (N/A)
 
-[⧉](Oath%253A_Arcwarder.md)
-
-Arcwarder
+[Arcwarder](Oath%253A_Arcwarder.md)
 
 (FIR/LTN/FTD)
 
-[⧉](Oath%253A_Bladeharper.md)
-
-Bladeharper
+[Bladeharper](Oath%253A_Bladeharper.md)
 
 (WEP/STR/AGL)
 
-[⧉](Oath%253A_Blindseer.md)
-
-Blindseer
+[Blindseer](Oath%253A_Blindseer.md)
 
 (WLL)
 
-[⧉](Oath%253A_Contractor.md)
-
-Contractor
+[Contractor](Oath%253A_Contractor.md)
 
 (N/A)
 
-[⧉](Oath%253A_Chainwarden.md)
-
-Chainwarden
+[Chainwarden](Oath%253A_Chainwarden.md)
 
 (STR/FTD/WLL)
 
-[⧉](Oath%253A_Dawnwalker.md)
-
-Dawnwalker
+[Dawnwalker](Oath%253A_Dawnwalker.md)
 
 (N/A)
 
-[⧉](Oath%253A_Fadetrimmer.md)
-
-Fadetrimmer
+[Fadetrimmer](Oath%253A_Fadetrimmer.md)
 
 (N/A)
 
-[⧉](Oath%253A_Jetstriker.md)
-
-Jetstriker
+[Jetstriker](Oath%253A_Jetstriker.md)
 
 (AGL)
 
-[⧉](Oath%253A_Linkstrider.md)
-
-Linkstrider
+[Linkstrider](Oath%253A_Linkstrider.md)
 
 (N/A)
 
-[⧉](Oath%253A_Saltchemist.md)
-
-Saltchemist
+[Saltchemist](Oath%253A_Saltchemist.md)
 
 (INT)
 
-[⧉](Oath%253A_Silentheart.md)
-
-Silentheart
+[Silentheart](Oath%253A_Silentheart.md)
 
 (WEP/STR/AGL/CHA)
 
-[⧉](Oath%253A_Starkindred.md)
-
-Starkindred
+[Starkindred](Oath%253A_Starkindred.md)
 
 (STR)
 
-[⧉](Oath%253A_Visionshaper.md)
-
-Visionshaper
+[Visionshaper](Oath%253A_Visionshaper.md)
 
 (CHA)
 
-[⧉](Oath%253A_Saintsworn.md)
-
-Saintsworn
+[Saintsworn](Oath%253A_Saintsworn.md)
 
 (LTN/SDW/FIR/ICE/WND)
 
