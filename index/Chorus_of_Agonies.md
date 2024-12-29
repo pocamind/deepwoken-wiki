@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 126727
+revid: 126773
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, InProgressPages, Unique Critical]
@@ -42,3 +42,4 @@ Stomp the ground with hyper armor and follow up with an overhead strike with you
 -   The weapon is named The Brutalizer when viewed at a campfire, because the critical of the weapon is based on one of the Heart of Enmity's pattern, The Brutalizer.
 -   The weapon has the highest weight of any weapon in the game at 15, beating the previous record holder, the [Sovereign's Punishment](<Sovereign's_Punishment.md>), by 2.
 -   Used to have a [Strength](Attributes.md#strength) requirement of 80, however this was reduced down to 20 shortly after the weapon released.
+-   The first hit of the critical will remove all hyperarmor from the opponent

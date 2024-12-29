@@ -1,9 +1,9 @@
 ---
 title: "Trickster's Habit"
-revid: 126703
+revid: 126804
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Etrea, Adept Outfits]
+categories: [Armors, Items, Outfits, Unique Outfits, World Event]
 ---
 
 # Trickster's Habit
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Trickster's Habit** is an Unique [Outfit](Outfits.md) in 
 
 ### _Requirements_
 
-This Outfit costs 400 Notes and requires seven (7) Cloth and five (5) Fiber and ten (10) Vibrant Gems.
+This Outfit costs and requires seven (7) Cloth and five (5) Fiber and ten (10) Vibrant Gems.
 
 This Outfit requires [Power Level](Power.md) 12.
 
@@ -28,9 +28,9 @@ This Outfit also grants the [Talent Card](Talents.md) _Not a Scratch_, which mak
 
 This Outfit's Schematic can be found in:
 
--   [Carnival of Hearts](Carnival_of_Hearts.md).
+-   [Carnival of Hearts](Carnival_of_Hearts.md)
 
-## Trivia/Notes
+## Trivia
 
--   Turns you into a jester.
--   Worn by [a funny man](Tillian.md) during the Carnival of Hearts.
+-   Worn by [Tillian](Tillian.md) during the Carnival of Hearts.
+-   This outfit shares identical stats with [Tillian's](Tillian.md) sister [Aelita's](Aelita.md) outfit the [Jester's Garb](<Jester's_Garb.md>).

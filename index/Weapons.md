@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 126648
+revid: 126811
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2026,7 +2026,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>10</td>
   <td>0.82x</td>
   <td>N/A</td>
-  <td>42.8</td>
+  <td>55.5(<b>Bleed</b>)</td>
 </tr>
 </tbody>
 </table>

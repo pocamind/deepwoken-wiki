@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 126603
+revid: 126771
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, The Divers]
@@ -272,6 +272,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   Chaser's Hex Code Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
 -   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[7\]](#cite-note-7)
 -   Due to Chaser's attacks ignoring armor damage resistance, the only additional threat he presents to W Rank players is the doubled damage from Fragile Heart.
+-   Chaser's old laugh used to be the same as the [Duke's](Duke_Ishamon_Erisia.md) but lower pitched and echoed.
 
 ## References
 

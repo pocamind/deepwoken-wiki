@@ -1,20 +1,20 @@
 ---
 title: "Heretic's Memento"
-revid: 126766
+revid: 126799
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Items, Master Outfits, World Event]
+categories: [Armors, Items, Outfits, Unique Outfits, World Event]
 ---
 
 # Heretic's Memento
 
-Template:ArmorInfobox**Heretic's Memento** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**7Heretic's Memento** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires 10 pieces of Cloth, five (5) pieces Fiber, five (5) Gold, one (1) Wayward Gem, five (5) Vibrant Gem, and 500 Notes.
+This Outfit costs and requires ten (10) Cloth, five (5) Fiber, five (5) Gold, one (1) Wayward Gem, and five (5) Vibrant Gems.
 
 This Outfit has a [Power](Power.md) requirement of 15.
 
@@ -26,7 +26,10 @@ This Outfit grants the [Talent](Talents.md) Giantslayer, giving you an additiona
 
 ## Location
 
-**N/A**
+This Outfit's Schematic can be found in:
+
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
   
 

@@ -1,9 +1,9 @@
 ---
 title: "Jester's Garb"
-revid: 126334
+revid: 126803
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Etrea, Adept Outfits]
+categories: [Armors, Items, Outfits, Unique Outfits, World Event]
 ---
 
 # Jester's Garb
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Jester's Garb** is an Unique [Outfit](Outfits.md) in _Dee
 
 ### _Requirements_
 
-This Outfit costs 400 Notes and requires seven (7) Cloth and five (5) Fiber and ten (10) Vibrant Gems.
+This Outfit costs and requires seven (7) Cloth and five (5) Fiber and ten (10) Vibrant Gems.
 
 This Outfit requires [Power Level](Power.md) 12.
 
@@ -28,8 +28,9 @@ This Outfit also grants the [Talent Card](Talents.md) _Not a Scratch_, which mak
 
 This Outfit's Schematic can be found in:
 
--   [Carnival of Hearts](Carnival_of_Hearts.md).
+-   [Carnival of Hearts](Carnival_of_Hearts.md)
 
-## Trivia/Notes
+## Trivia
 
--   Turns you into a clown.
+-   Worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
+-   This outfit shares identical stats with [Aelita's](Aelita.md) brother [Tillian's](Tillian.md) outfit the [Trickster's Habit](<Trickster's_Habit.md>).

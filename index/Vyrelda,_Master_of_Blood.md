@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 126131
+revid: 126776
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Spelltrainers]
@@ -184,7 +184,7 @@ After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highc
 
 ## Trivia
 
--   Vyrelda's racial variant appears to be the 'Mamba' variant of an Etrean, with deep red scleras instead of the faint yellow. She is also wearing a new unknown outfit.
+-   Vyrelda's racial variant appears to be the 'Mamba' variant of an Etrean, with deep red scleras instead of the faint yellow. She is also wearing [Sanguine Finery](Sanguine_Finery.md).
 -   Her hair IDs are the following:
     -   Hairbun - `13558390420`
     -   Straight Hair - `13154889638`

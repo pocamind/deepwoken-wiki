@@ -1,9 +1,9 @@
 ---
 title: Sanguine Finery
-revid: 126518
+revid: 126792
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, World Event]
+categories: [Armors, Items, Outfits, Unique Outfits, World Event]
 ---
 
 # Sanguine Finery
@@ -26,10 +26,10 @@ It gives the "Sheltering Grasp" [Talent](Talents.md), which reduces the blood co
 
 ## Location
 
-This Outfit's Schematic can be found at:
+This Outfit's Schematic can be found in:
 
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 
 ## Trivia
 
--   This outfit is best known for being worn by the Bloodrend trainer [Vyrelda](Vyrelda,_Master_of_Blood.md)
+-   This outfit is best known for being worn by the Bloodrend trainer [Vyrelda](Vyrelda,_Master_of_Blood.md).

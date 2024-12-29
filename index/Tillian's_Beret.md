@@ -1,6 +1,6 @@
 ---
 title: "Tillian's Beret"
-revid: 126733
+revid: 126774
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, World Event, Head, Hats]
@@ -31,5 +31,5 @@ Tillian's Beret is a head equipment obtained from the [Carnival of Hearts](Carni
 
 ## Trivia
 
--   Worn by Tilian
--   Oddly, It cannot be sold but can be dropped
+-   Worn by Tillian
+-   Until 12/29/2024, the item cannot be sold due to a bug that made Unique rarity items unsellable.
