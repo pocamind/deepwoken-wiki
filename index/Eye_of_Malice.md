@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 126561
+revid: 126892
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
@@ -45,3 +45,4 @@ The Eye of Malice's critical makes the user jump and thrust the weapon in front 
     -   Chip Damage = 10% > 15%
     -   Medium Scaling = 6 > 8
     -   Range = 10 > 10.5
+    -   Swingspeed = 1.00x > 0.95x

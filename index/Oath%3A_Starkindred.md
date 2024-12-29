@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 126828
+revid: 126934
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Starkindred** is one of the 14 obtainable Oaths in _Deepwoken_. It allows one to take advantage of the anomalies that appears on one's body after drinking the blood of a [Celestial](Celestial.md). It is a balanced Oath, having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
+**[Oath](Oaths.md): Starkindred** is one of the 15 obtainable Oaths in _Deepwoken_. It allows one to take advantage of the anomalies that appears on one's body after drinking the blood of a [Celestial](Celestial.md). It is a balanced Oath, having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
 
 “ The world around you shifts and bends, as if your skull was melting into a swirl of infinity. The world as you know it isn't the same. These Stars above us are more than constellations. You feel as though you can feel the entire world. A̸l̴l̴ ̴a̷t̶ ̴o̵n̴c̷e̸.̴ ̶E̵V̷E̵R̴Y̵W̸H̸E̵R̸E̴.̶ ”
 

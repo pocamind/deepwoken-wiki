@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 121472
+revid: 126933
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -62,7 +62,7 @@ The wall
 
 #### [Mantra Collector](Mantra_Collector.md)
 
--   Players can find Cumberland, a [Canor](Canor.md) who will buy your [Mantra Modifiers](Mantra_Modifiers.md).
+-   Players can find Cumberland, a [Canor](Canor.md) who will buy your [Mantra Modifiers](Mantra_Modifiers.md) and [Gems](Treasures.md).
 
 ### Sparring Arena
 

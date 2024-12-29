@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 124969
+revid: 126928
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]
@@ -19,7 +19,7 @@ categories: [Oaths, The Divers, Moonseye]
 
 ## Description
 
-**[Oath](Oaths.md): Dawnwalker** is one of the 14 obtainable [Oaths](Oaths.md) in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. Regardless, it is one of the hardest Oaths to obtain, especially for newer players, as it requires multiple expeditions into [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the Oath.
+**[Oath](Oaths.md): Dawnwalker** is one of the 15 obtainable [Oaths](Oaths.md) in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. Regardless, it is one of the hardest Oaths to obtain, especially for newer players, as it requires multiple expeditions into [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the Oath.
 
 “ Child, do you swear to carry the Light as a weapon against the Deep? To wield the Song only as a Radiant Blade against that which it beckons? ”
 

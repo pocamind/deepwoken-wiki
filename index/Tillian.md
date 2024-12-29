@@ -1,14 +1,12 @@
 ---
 title: Tillian
-revid: 126882
+revid: 126906
 source: https://deepwoken.fandom.com/wiki/Tillian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, World Event, NPCs]
+categories: [World Event, NPCs]
 ---
 
 # Tillian
-
-File:Tillangyattes.png.png
 
 ## Description
 

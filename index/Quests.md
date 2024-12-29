@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 126285
+revid: 126922
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -14,7 +14,7 @@ notices:
 
 **Quests** are a major part of _Deepwoken_. They are a significant means of progression, rewarding essential [Talents](Talents.md), EXP, or items upon completion. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md), [Job Boards](Job_Boards.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
 
-Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra Talent hand will be awarded on [Power Increase](Power.md). If you are Power 20, the hand is given immediately.
+Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it" and an extra Talent hand will be awarded on [Power Increase](Power.md). If you are Power 20, the hand is given immediately. Any subsequent completions of quests in that category will not award a Talent hand, meaning you can get a maximum of 3 extra Talent hands from quests.
 
 ## Echo Talent Quests
 
@@ -254,7 +254,7 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Guide**: Talk to Atra, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
 
-**Reward/s**: EXP, Talent hand if no other "Compassion" quests done yet.
+**Reward/s**: EXP, Compassion
 
 **Field Report:**
 

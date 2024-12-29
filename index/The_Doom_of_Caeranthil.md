@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 126850
+revid: 126941
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Doom of Caeranthil is a [World Event](World_Events.md) Boss found in the Open Sea of the [Luminants](Luminants.md).
+The Doom of Caeranthil, better known as the World Serpent, is a [World Event](World_Events.md) Boss found in the Open Sea of the [Luminants](Luminants.md).
 
 The Doom is a colossal sea serpent monster that has ravaged and destroyed islands, having earned its name when it destroyed the island of [Caeranthil](Caeranthil.md) in the Southern Luminant.
 
@@ -24,7 +24,7 @@ The Doom will swim across the seas of the Etrean Luminant in a specific pattern:
 
 Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted (If they don't have it or another murmur); a chest with loot will also spawn at the player's location.
 
-It cannot be aggroed or damaged by cannons.
+It cannot be aggroed or damaged by cannons. Like other world event bosses, it does not grant bell progression when defeated.
 
 ## Moves
 

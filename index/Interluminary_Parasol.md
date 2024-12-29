@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 126660
+revid: 126940
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Monsters, Bosses]
@@ -18,7 +18,9 @@ Template:Creature Infobox V3
 
 The Interluminary Parasol is a giant floating jellyfish-like creature resembling the [Terrapods](Terrapod.md) in terms of physical shape/structure with the exception of a more smooth shell and flexible tentacles.
 
-This boss is one of the [World Events](World_Events.md), potentially spawning once every real world hour.
+According to the item description of it's exclusive drop, the Parasol emerges from the Depths, it's sole purpose being to spread the Depth's influence by bringing it's mobs up to the surface, disrupting the ecosystems on the surface.
+
+This boss is one of the [World Events](World_Events.md), potentially spawning once every real world hour. Like other world event bosses, it does not grant bell progression when defeated.
 
 ## Moveset
 
@@ -30,7 +32,7 @@ This giant foe's moveset is relatively simple and is easy to avoid; however they
 **Pierce**  
 (★★☆)
 
- | When close enough, the Parasol starts rapidly stabbing random targets with its arms.
+ | When close enough, the Parasol starts rapidly stabbing random targets with its arms. Autogrips players if they are knocked.
 
 Parryable:◯  
 Blockable:✗  
@@ -126,7 +128,9 @@ File:Symphonyandtheypet.png
 
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
 
--   It follows Two set paths depending on where it spawns. ; Near the [Monkey's](<The_Monkey's_Paw.md>) [paw](<The_Monkey's_Paw.md>) - [Ancient rotlands](Ancient_Rotlands.md) highway it will always go towards the [Summer isle](Summer_Isle.md) highway- then to [Miners landing](<Miner's_Landing.md>), Ending at the [Fort merit](Fort_Merit.md) highway. Near the [Songseeker](Songseeker_Wilds.md) - [Summer isle](Summer_Isle.md) highway it will always go towards the [Monkey's paw](<The_Monkey's_Paw.md>) - then to [Greathive Aratel.](Greathive_Aratel.md)
+-   It follows Two set paths depending on where it spawns. ;
+-   Path 1: Near the [Monkey's](<The_Monkey's_Paw.md>) [paw](<The_Monkey's_Paw.md>) - [Ancient rotlands](Ancient_Rotlands.md) highway it will always go towards the [Summer isle](Summer_Isle.md) highway- then to [Miners landing](<Miner's_Landing.md>), Ending at the [Fort merit](Fort_Merit.md) highway.
+-   Path2: Near the [Songseeker](Songseeker_Wilds.md) - [Summer isle](Summer_Isle.md) highway it will always go towards the [Monkey's paw](<The_Monkey's_Paw.md>) - then to [Greathive Aratel.](Greathive_Aratel.md)
 
 -   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit.
 

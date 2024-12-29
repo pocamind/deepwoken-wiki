@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 126857
+revid: 126890
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -27,7 +27,7 @@ While inside a Voidzone:
 -   The edge of the screen are covered in white sparks. This merely represents your presence within a Voidzone.
 -   Dying immediately sends the player to The Depths.
 -   Campfires only last up to 6 seconds.
--   All healing sources have reduced effectiveness.
+-   ALL healing sources have EXTREMELY reduced effectiveness. (ALL healing sources, meaning Vampirism enchant, Warriors Respite, etc)
 
 ## Voidzones
 
@@ -153,7 +153,7 @@ While inside a Voidzone:
 
 **Location:** Eastern Luminant, to the right of the gate that you come out of by Isle of Vigils, Up two waterfalls
 
-**Dangers:** People trying to obtain [Linkstrider](Oath%253A_Linkstrider.md)
+**Dangers:** N/A (Players who want to obtain Linkstrider)
 
 **Rewards:** Erisore, [Oath: Linkstrider](Oath%253A_Linkstrider.md), [Pristine Lotuses](Oath%253A_Linkstrider.md), [Fishing Spot](Fishing.md#fishing-spots)
 
@@ -165,7 +165,7 @@ While inside a Voidzone:
 
 **Location:** Both Luminants, at the edge of the sea.
 
-**Dangers:** Mostly [Brainsuckers](Brainsucker.md), [Lionfish](Lionfish.md), the [Dread Serpent](Dread_Serpent.md), and island sea events
+**Dangers:** Mostly [Brainsuckers](Brainsucker.md), [Lionfish](Lionfish.md), the [Dread Serpent](Dread_Serpent.md) (rarely) and island sea events
 
 **Rewards:** [Nocturne](Nocturne.md), [Soulthorn](Soulthorn.md), [Fractine](Fractine.md), and the [Dormant Splinter](Dormant_Splinter.md), among other things
 

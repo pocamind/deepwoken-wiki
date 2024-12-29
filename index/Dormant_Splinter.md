@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 126551
+revid: 126902
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -54,7 +54,7 @@ Recipes:
 
 **[Fondant Splitter](Fondant_Splitter.md)** = Dormant Splinter + [Cake](Food.md) + [Sword](<Sword_(weapon).md>)
 
-**[Umbrite Witherblade](Umbrite_Witherblade.md)** = Dormant Splinter + 10x [Umbrite](Ores.md) + [Razor Cutlass](Razor_Cutlass.md)
+**[Umbrite Witherblade](Umbrite_Witherblade.md)** = Dormant Splinter + 3x [Umbrite](Ores.md) + [Razor Cutlass](Razor_Cutlass.md)
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 126847
+revid: 126923
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1760,6 +1760,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Cloaked Assassin](Cloaked_Assassin.md)
+-   [Carnival of Hearts](Carnival_of_Hearts.md)
 
  | Crimson, Gold, Mist & Pale |
 | File:Ruby Authority Commander Coat.png | 

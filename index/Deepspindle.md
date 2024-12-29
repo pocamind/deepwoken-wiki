@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 123773
+revid: 126910
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -17,7 +17,7 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, We
 | range | 8 |
 | swing speed | 1.09x |
 | penetration | 20% |
-| special effect | Proccing Shadowcast Talents on critical hits.Has synergies with the Darkscorn Casque and Darkened Bastion armor. |
+| special effect | Proccing Shadowcast Talents on critical hits.Has synergies with the Deepscorn Casque and Darkened Bastion armor. |
 | stances | 1 Handed |
 | selling price | 100 |
 | weight | 5 |

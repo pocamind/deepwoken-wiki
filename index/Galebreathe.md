@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 126522
+revid: 126914
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -410,9 +410,9 @@ _A servant of wind._
 
  | 60 Ether | N/A | Spawns a spherical wisp of wind. Requires ritual casting.
 
--   Grant 30% fall damage resist.
--   Haunted Gale requires one less perfect cast to activate (3 to 2).
--   Increases the Spectral meter bar for Haunted Path: Specter users by a small percent, the regen is greater than the decay.
+-   Grants 30% fall damage resistance.
+-   Haunted Gale and Haunted Path: Specter require one less perfect casted mantra hit to activate (3 -> 2).
+-   Passively increases the Spectral meter bar for Haunted Path: Specter users by a small percent, the regen is greater than the decay.
 -   Can be modified with logstones to extend it's usage.
     -   Note using logstones will force you to cast more signs.
 
@@ -871,7 +871,7 @@ Haunted Gale
 
  | 
 
-Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (2 if done with gale wisp). 2 second cooldown.
+Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (2 if done with Gale Wisp). 2 second cooldown.
 
  | 
 

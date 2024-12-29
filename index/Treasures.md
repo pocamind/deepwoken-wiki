@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 106663
+revid: 126924
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gems, Items, Mechanics]
@@ -8,7 +8,9 @@ categories: [Gems, Items, Mechanics]
 
 # Treasures
 
-_Not to be confused with [Deep Gems](Deep_Gems.md) or [Ores](Ores.md)._ Items commonly dropped from Chests that can be sold to the [Antiquarian](Antiquarian.md) for various amounts of Notes.
+_Not to be confused with [Deep Gems](Deep_Gems.md) or [Ores](Ores.md)._
+
+Items commonly dropped from Chests that can be sold to the [Antiquarian](Antiquarian.md) or the town Canors for various amounts of Notes.
 
 | Appearance | Name | Description | Sell Price |
 | --- | --- | --- | --- |

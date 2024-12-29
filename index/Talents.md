@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 126768
+revid: 126915
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1707,7 +1707,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).
     -   Prerequisite: [Power](Power.md) 10
 
--   Old Habits Die Hard \[Common Talent\] - A blocked attack after a failed parry will cause the attack to deal 25% less posture damage. (+5 Health)
+-   Old Habits Die Hard \[Common Talent\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 25% less posture damage. (+5 Health)
     -   Prerequisite: 20 Willpower
 
 -   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your M1's and critical attacks have an additional +5% PEN on top.
@@ -1784,7 +1784,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
-    -   Polished Armor's damage reduction starts at 5% damage reduction and gains 0.05% per point in Ironsing. This means that you'll have 8.75% damage reduction when meeting the requirements for this Talent.
+    -   Polished Armor's damage reduction starts at 5% damage reduction and gains 0.2% per point in Ironsing above 75.
     -   Prerequisite: 75 Ironsing
 
 ### Metamancer
@@ -2410,6 +2410,7 @@ _**"My cure is most effective."**_
 > _**"I seek the qualities of Specter."**_
 
 -   Haunted Path: Specter \[Common Talent, Galebreathe Exclusive\] - Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies.
+    -   Despite the Talent description, perfect casting Galebreathe mantras still causes phantom winds to appear.
     -   Prerequisites: Haunted Gale, 50 Galebreathe
 
 -   Apparitions \[Common Talent, Galebreathe Exclusive\] - Instead of Haunted Gale Phantoms and Suffocation, each proc will now send apparitions towards your enemy. The apparitions apply 'Winded' where 'Suffocation' would suffice. Apparitions cannot be parried if you are in 'Phantom Step'.
@@ -2995,7 +2996,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 -   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slot)
-    -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
+    -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to [Lord Regent](The_Lord_Regent.md).
 
 -   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: Combined total of 40 in Strength/Fortitude/Willpower, Authority reputation, defeat [Emar Vend](Emar_Vend.md).
@@ -3022,9 +3023,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, 75 in any Weapon stat, be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
-    -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to Samael.
+    -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
 
--   [Oath: Visionshaper](Oath%253A_Visionshaper.md) - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slot)
+-   [Oath: Visionshaper](Oath%253A_Visionshaper.md) - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
     -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.
 
 -   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)

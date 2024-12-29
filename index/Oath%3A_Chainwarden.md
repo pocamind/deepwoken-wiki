@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 126824
+revid: 126927
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Description
 
-**[Oath](Oaths.md): Chainwarden** is one of the 14 obtainable Oaths in _Deepwoken_. The Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that deal significant true damage if used correctly.
+**[Oath](Oaths.md): Chainwarden** is one of the 15 obtainable Oaths in _Deepwoken_. The Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that deal significant true damage if used correctly.
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 126639
+revid: 126901
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
@@ -1807,4 +1807,3 @@ Lightning Clones
 -   Low-level mantra modifying (for example, 2 Cloudstones and a Blast Spark) does not cost notes. It only starts costing notes past a certain threshold.
 -   Logstones can modify the duration of elemental effects that are innately applied by certain mantras (i.e. Wind Gun).
 -   The Blast Spark variant of Shadow Assault is very likely a reference to [Sunakiniti's Blessed](<https://rogue-lineage.fandom.com/wiki/Sunaikinti's_Blessed?so=search>)'s Rampage from Rogue Lineage, and by extension, Akuma's Shun Goku Satsu from Street Fighter.
--   The Spring Spark variant of Flame Repulsion is most likely a reference to [Satoru Gojo](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo)'s "Reversal Red" technique from the anime [Jujutsu Kaisen](https://en.wikipedia.org/wiki/Jujutsu_Kaisen).

@@ -1,6 +1,6 @@
 ---
 title: Mantra Collector
-revid: 108079
+revid: 126935
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs, Vendors]
@@ -16,7 +16,7 @@ notices:
 
 Template:NPC name
 
-**Mantra Collectors** are NPCs that can be found in settlements that will purchase your [Mantra Modifiers](Mantra_Modifiers.md).
+**Mantra Collectors** are NPCs that can be found in settlements that will purchase your [Mantra Modifiers](Mantra_Modifiers.md) and [Gems](Treasures.md).
 
 ## Overview
 
