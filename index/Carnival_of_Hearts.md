@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 126832
+revid: 127056
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event]
@@ -48,7 +48,8 @@ The minigames happen in a random order. Once all minigames are completed, all re
 
 -   At the meteor at [Songseeker Wilds](Songseeker_Wilds.md) near highway gates.
 -   In front of the Blacksmith at [Miner's Landing](<Miner's_Landing.md>)
--   At [Starswept Valley](The_Starswept_Valley.md), near the [The Lordsgrove's door.](The_Lordsgrove.md)
+-   At [Starswept Valley](The_Starswept_Valley.md), near the [The Lordsgrove's door](The_Lordsgrove.md).
+-   At the bridge at [Summer Isle](Summer_Isle.md).
 
 ## Trivia
 

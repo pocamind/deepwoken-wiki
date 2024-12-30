@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 121575
+revid: 127055
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -14,11 +14,19 @@ categories: [Pages with broken file links, Items, Attributes, Attunement]
 
 For more general information on [Attributes](Attributes.md), like what each attributes do, how to upgrade them without training gears, and what they offer, please visit its respective page. This page is just to showcase how training gears are used, where they are available, and what the training gears look like.
 
+## Training Messages
+
+Attempting to train an attribute may display a certain message, hinting at something that needs to be done before you're able to train.
+
+If you get the message "I've learnt what I can from training right now, I should put it into practice..." or "Repeat training will do no good without proper experience" when using a training gear it means that you need more XP for you to start investing points.
+
+Training an attribute or attunement to 75 will prevent you from training it further and the message "I've hit a wall in my training... Maybe there's some way to break it?" will appear when attempting to. This is a hint towards [unbounding the attribute](Attributes_Unbound.md), which allows more points to be invested past 75.
+
+The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to get them with the intent to obtain Saintsworn, you most likely won't.
+
 ## [Attribute](Attributes.md) Training Gears
 
 Each [Attribute](Attributes.md) has a Training Gear correlated to it. Using these Training Gears will allow you to automatically increase the Attribute connected to it.
-
-If you get the message "I've learnt what I can from training right now, I should put it into practice..." when using a training gear it means that you need more XP for you to start investing points.
 
 ### Training/Notes
 

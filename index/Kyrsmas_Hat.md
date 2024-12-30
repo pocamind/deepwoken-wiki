@@ -1,6 +1,6 @@
 ---
 title: Kyrsmas Hat
-revid: 126489
+revid: 127050
 source: https://deepwoken.fandom.com/wiki/Kyrsmas_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Equipment, Head, Hats, Event Item]
@@ -30,4 +30,6 @@ notices:
 
 The **Kyrsmas Hat** is a Unique, Event [Equipment](Equipment.md) Item found under the "_Head"_ category. It was made first obtainable during the 2024 [Kyrsmas Event](Kyrsmas.md), and is only obtainable, _(\*rarely, needs testing),_ through the [Scion of Ethiron](Scion_of_Ethiron.md) bosschest.
 
-The hat itself resembles a typical Christmas / Santa Hat, _(while taking upon a blurple hue),_ and has an animated miniature frozen membrane bauble on its closure, which dyes alongside the hat itself when [Armor Dye](Dye_Packet.md) is used on it.
+The hat itself resembles a typical Christmas / Santa Hat, _(while taking upon a blurple hue),_ and has a miniature frozen membrane bauble on its closure, which emits particles, and it dyes alongside the hat itself when [Armor Dye](Dye_Packet.md) is used on it.
+
+Full shot of the hat

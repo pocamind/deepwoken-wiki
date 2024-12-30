@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 126923
+revid: 127059
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Ma
 
 # Equipment
 
-_**FOREWORD**: **An up-to-date spreadsheet with the maximum amount of stats each equipment can get can be found [\[here\]](https://docs.google.com/spreadsheets/d/1aELC50v4668ss5ShtI2RkshCQCOScH-ljFma_7o_NcY/edit?usp=drivesdk)**_
+_**FOREWORD**: **An up-to-date spreadsheet with the maximum number of stats each equipment can get can be found [\[here\]](https://docs.google.com/spreadsheets/d/1aELC50v4668ss5ShtI2RkshCQCOScH-ljFma_7o_NcY/edit?usp=drivesdk)**_
 
 _**FOREWORD: A spreadsheet that can calculate the stats for each pip on each equipment. can be found [\[here\]](https://docs.google.com/spreadsheets/d/1flicSgb8pdMw7DKEdk1erfMZPtOF0YPOwuVveDBk6XY/edit?usp=sharing)**_
 
@@ -6350,21 +6350,21 @@ Found from:
 ## Trivia/Notes
 
 -   In previous versions of the game, Equipment could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
--   If you want to wear a specific equipment piece, but it has awful stats, You can [smelt](Transmogrification.md) something with good stats, and apply the piece you want to wear as vanity.
--   The Max amount of Stars for Torso, Face, Ears, and Ring Equipment is 2 Stars (★★)
--   Rare (Red) Monster Armor pips also gives +1% Physical Armor and +1% Elemental Armor
+-   If you want to wear a specific equipment piece, but it has awful stats, you can [smelt](Transmogrification.md) something with good stats and apply the piece you want to wear as vanity.
+-   The Max number of Stars for Torso, Face, Ears, and Ring Equipment is 2 Stars (★★)
+-   Rare (Red) Monster Armor pips also give +1% Physical Armor and +1% Elemental Armor
 -   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
 -   Stars can increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)
--   Stat diversity was supposedly enforce on the September 5th, 2022 update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different. However this has either been implemented incorrectly, bugged, or a typo was made in the update logs **specifically for the Ring, Ears, Torso, and Face equipment**, because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type. The 3+ pip rule on Head, Arms, and Leg equipment have been functioning correctly and will promptly reroll a pip if a piece of equipment violating the rule is equipped.
+-   Stat diversity was supposedly enforced on the September 5th, 2022, update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different. However, this has either been implemented incorrectly, bugged, or a typo was made in the update logs **specifically for the Ring, Ears, Torso, and Face equipment**, because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type. The 3+ pip rule on Head, Arms, and Leg equipment have been functioning correctly and will promptly reroll a pip if a piece of equipment violating the rule is equipped.
     -   Due to this, you'll have to take the following theoretical kits with a grain of salt, as this bug could result in higher maximums.
 -   Highest theoretical stealth kit in game is 30% stealth. (10% Dark Owl Chapeau, 6% Mercenary's Garb/Ministry Cloak/Dark Owl Cloak, 5% Shrouded Capes, 6% Duelist Mask, 3% Master Thief Earrings)
 -   Highest theoretical ETH kit in game is 423 ETH. (4x 32 ETH Moon and Waning Rings, 68 ETH Diver's Light Plate, 42 ETH Scarf, 64 ETH Hood, 64 ETH Boots, 32 ETH Mask, 37 ETH Old Blood Earrings)
 -   Highest theoretical Posture kit is 19 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
 -   Highest theoretical HP kit in game is 165 HP. (2x 9 HP Moon and 2x 9 HP Waning Rings, 47 HP Diver's Light Plate/Bastions of Enmity (Drowned), 13 HP Scarf, 32 HP Parasol Planter, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings, 5 HP Citadel Frames)
 -   Highest theoretical DvM kit in game is 67% DvM. (3x 4% DvM Rings, 7% DvM Diver's Ring (depths only), 19% DvM Pathfinder Elite (Drowned), 5% DvM Scarf, 9% DvM Hood, 9% DvM Boots, 3% DvM Mask, 3% DvM Earrings)
-    -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 75%.
+    -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have been 75%.
 -   Highest theoretical Monster Armor kit in game is 37% Monster Armor. (21% Pathfinder Elite (Drowned), 16% Vigil's Hood)
-    -   The echo shop allows for an additional 8% DvM onto your character, meaning the max Monster Armor you could possibly have is 45%.
+    -   The echo shop allows for an additional 8% DvM onto your character, meaning the max Monster Armor you could possibly have been 45%.
 -   Legs equipment is currently the only equipment type that does not have Uncommon Pips.
--   A sanity pip will also grant half of it's amount in ether. So if you get a +6 sanity pip, you will also get +3 ether.
+-   A sanity pip will also grant half of its amount in ether. So, if you get a +6-sanity pip, you will also get +3 ether.

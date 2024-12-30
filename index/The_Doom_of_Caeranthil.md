@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 127031
+revid: 127062
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -49,6 +49,8 @@ It cannot be aggroed or damaged by cannons. Like other world event bosses, it do
 Parryable:✗  
 Blockable:✗  
 Dodgeable:◯
+
+FYW parryable:◯
 
  |  |
 | 
