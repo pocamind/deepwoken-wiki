@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 126795
+revid: 127149
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Darkened Bastion** is a Unique [Outfit](Outfits.md) in _D
 
 ### _Requirements_
 
-This Outfit costs and requires one (1) Void Feather, five (5) Umbral obsidian, seven (7) Cloth, five (5) Fiber, and ten (10) Vibrant Gems.
+This Outfit costs and requires seven (7) Cloth, five (5) Fiber, five (5) [Umbral Obsidian](Umbral_Obsidian.md), ten (10) [Vibrant Gems](Mantra_Modifiers.md), and one (1) [Void Feather](Dark_Feather.md).
 
 This Outfit requires [Power Level](Talents.md) 15.
 
@@ -35,6 +35,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia
 
-[https://www.roblox.com/catalog/9520632236/Sellsword](https://www.roblox.com/catalog/18372515009/Deepwoken-darkened-bastion) - Shirt
-
-[https://www.roblox.com/catalog/9520635195/Sellsword](https://www.roblox.com/catalog/18372536268/Deepwoken-darkened-bastion) - Pants
+[https://www.roblox.com/catalog/9520632236/Sellsword](https://www.roblox.com/catalog/18372515009/Deepwoken-darkened-bastion) - Shirt [https://www.roblox.com/catalog/9520635195/Sellsword](https://www.roblox.com/catalog/18372536268/Deepwoken-darkened-bastion) - Pants

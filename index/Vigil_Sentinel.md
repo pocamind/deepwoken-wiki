@@ -1,9 +1,9 @@
 ---
 title: Vigil Sentinel
-revid: 126958
+revid: 127155
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, World Event]
+categories: [Armors, Items, Outfits, Master Outfits, World Event]
 ---
 
 # Vigil Sentinel
@@ -29,4 +29,3 @@ It gives the "Action Surge" [Talent](Talents.md), which gives you an extra 0.04 
 This Outfit's Schematic can be found at:
 
 -   [Interluminary Parasol](Interluminary_Parasol.md) (Chest)
--   [Glaive Spellhardt](Glaive_Spellhardt.md) (Not confirmed, but very likely)

@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 126804
+revid: 127154
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -8,13 +8,13 @@ categories: [Armors, Items, Outfits, Unique Outfits, World Event]
 
 # Trickster's Habit
 
-Template:ArmorInfobox**Trickster's Habit** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox **Trickster's Habit** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires seven (7) Cloth and five (5) Fiber and ten (10) Vibrant Gems.
+This Outfit costs and requires seven (7) Cloth and five (5) Fiber and ten (10) [Vibrant Gems](Mantra_Modifiers.md).
 
 This Outfit requires [Power Level](Power.md) 12.
 

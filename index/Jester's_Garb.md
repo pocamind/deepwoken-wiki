@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 126803
+revid: 127153
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -8,15 +8,15 @@ categories: [Armors, Items, Outfits, Unique Outfits, World Event]
 
 # Jester's Garb
 
-Template:ArmorInfobox**Jester's Garb** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox **Jester's Garb** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires seven (7) Cloth and five (5) Fiber and ten (10) Vibrant Gems.
+This Outfit costs and requires seven (7) Cloth, five (5) Fiber, and ten (10) [Vibrant Gems](Mantra_Modifiers.md).
 
-This Outfit requires [Power Level](Power.md) 12.
+This Outfit requires [Power Level](Talents.md) 12.
 
 ### _Armor Stats_
 

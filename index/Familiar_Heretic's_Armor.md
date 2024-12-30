@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 126794
+revid: 127150
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -16,9 +16,9 @@ Template:ArmorInfobox
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth, five (5) Fiber, and one (1) Rock.
+This Outfit costs and requires five (5) Cloth, five (5) Fiber, and one (1) [Rock](Ores.md).
 
-This Outfit's requirements is being [Power](Power.md) 5.
+This Outfit requires [Power Level](Talents.md) 15.
 
 ### _Armor Stats_
 

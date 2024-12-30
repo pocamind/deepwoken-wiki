@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 124980
+revid: 127111
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics]
@@ -105,14 +105,6 @@ All of the icons above are undoubtedly official representations of their base at
 
   
 
-### Non-Path Talents
-
-Text
-
-Text 
-
-  
-
 ### Alternative Paths
 
 Text
@@ -146,6 +138,12 @@ Text
 Text 
 
   
+
+### Non-Path Talents
+
+Text
+
+Text 
 
   
 

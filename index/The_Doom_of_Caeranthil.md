@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 127062
+revid: 127156
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -129,7 +129,7 @@ Dodgeable:✗
 -   Be cautious when using boats to attack the Doom; when it dives, it will Sudden Ambush on the closest area with a large player count. If none are found it will instead strike the closest boat. Sudden Ambush can also target NPCs.
 -   If you do not have an Ironclad, immediately turn to the wind direction and/or angle your sails to match the wind. This will give you a lot of speed to outrun the Doom's Sudden Ambush.
 -   When doing this with other players, it is a great idea to keep a couple of boats manned so you can hop on and chase it or get some speed to avoid its Sudden Ambush or Pressure Eruptions. Take turns piloting the boat if need be.
--   Have some mobility mantras on hand, and max their range with modifiers if you can afford the ether cost.
+-   Have some mobility mantras on hand, and max their range with modifiers if you can afford the ether cost. [Ice skates](Frostdraw.md) is an excellent mantra to have for this fight, being able to save losing hunger from swimming for extended periods of time.
 -   Sudden Ambush and Luminant Beam are one-shot moves.
 -   Payback can tank the Sudden ambush move, but it’s unable to hit the serpent with it.
 -   Mythic stability can save you from the one-shot moves. (Tidekeeper can't)

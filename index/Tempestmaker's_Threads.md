@@ -1,35 +1,31 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 126789
+revid: 127161
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Armors, Items, Outfits, Master Outfits, World Event]
 ---
 
 # Tempestmaker's Threads
 
-Template:ArmorInfoboxTempestmaker's Threads is a Master [Outfits](Outfits.md) in Deepwoken.
+Template:ArmorInfobox**Tempestmaker's Threads** is a Master [Outfit](Outfits.md) in Deepwoken.
 
 ## Statistics
 
-### _**Requirements**_
+### _Requirements_
 
-This Outfit costs and requires 5 Cloths, 5 Fibers, 5 Gale Stones, 8 Iron, 5 Vibrant Gems, 1 Wind Gem.
+This Outfit costs and requires five (5) Cloth and Fiber, five (5) [Gale Stones](Gale_Stone.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), eight (8) [Iron](Ores.md), one (1) [Wind Gem](Mantra_Modifiers.md).
 
-It also requires 45 [Galebreathe](Galebreathe.md) and [Power](Power.md) 15.
+This Outfit requires [Power Level](Talents.md) 15 and 45 [Galebreathe](Galebreathe.md).
 
-### _**Armor Stats**_
+### _Armor Stats_
 
-This Outfit has 2600 Durability, 25% Physical Armor, 25% Wind Armor, 30% Elemental Armor.
+This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemental resistance, +30% Wind resistance, and +75% Ether Regen.
 
-It also gives 75% Ether Regen and the [Aerogliding](Talents.md) talent.
+It gives the "Aerogliding" [Talent](Talents.md), which allows the user to fall slowly whilst holding space.
 
 ## Location
 
 This Outfit's schematic is obtainable from:
 
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
-
-## Trivia/Notes
-
--   This outfit was added in the 12/24/24 Deepwoken update.
--   As it's still a new outfit, any information concerning it may change.

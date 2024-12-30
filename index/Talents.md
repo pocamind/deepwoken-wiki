@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127066
+revid: 127101
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -703,8 +703,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
     -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
--   _Knife's Journey_ \[Rare Talent, Light\] - Cancelling an enemy's Mantra windup with your basic attacks now deals 15% more damage
-    -   Only works on daggers.
+-   _Knife's Journey_ \[Rare Talent, Light\] - \[Daggers\] Cancelling an enemy's Mantra windup with your basic attacks now deals 15% more damage
     -   Prerequisite: 30 Light Weapon
 
 -   Decisive Blow \[Common Talent, Light\] - Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage

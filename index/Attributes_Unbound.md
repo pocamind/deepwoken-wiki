@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 127079
+revid: 127082
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -89,15 +89,9 @@ _For a visual guide consider watching [this video](https://youtu.be/Z5ECG-qpdg0)
 
 **In-game map location of the wooden cabin:**
 
-  
-
-  
-
-  
-
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=MPXiUG8j7qA)._
 
-Weapon can also be unbounded by reaching 75 points on the desired weapon attribute and defeating any humanoid [boss](Bosses.md).
+Alternatively, weapon can also be unbounded by reaching 75 points on the desired weapon attribute and defeating any humanoid [boss](Bosses.md).
 
 ## Attunement Unbound
 
