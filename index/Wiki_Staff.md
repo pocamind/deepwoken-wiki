@@ -1,6 +1,6 @@
 ---
 title: Wiki Staff
-revid: 126840
+revid: 126984
 source: https://deepwoken.fandom.com/wiki/Wiki_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Staff, Community]
@@ -17,7 +17,7 @@ These users are commonly known as _"staff members"_, _"staff team"_, or _"staff"
 -   [Content Moderators](Moderators.md)
 -   [Discussion Moderators](Discussion_Moderators.md)
 
-  
+Some Administrators are also official staff for the Deepwoken game.  
 
 Staff
 

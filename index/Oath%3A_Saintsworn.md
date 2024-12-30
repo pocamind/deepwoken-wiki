@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 126911
+revid: 126995
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -68,6 +68,8 @@ Make sure not to touch the ice on the floor as it instantly kills you.
 
 -   For the final obelisk, Shadowcast, you need to sail once more to the [Moon’s Eyrie](<Moon's_Eyrie.md>)**, and talk to Urek Felhand.**
 
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/v-BLz4_jidU)._
+
 -   Saintsworn **CANNOT** be obtained with 100 points in a singular attunement, you **need** at least 20 points in an attunement to resonate with their respective obelisk- in other words, you need 20 points in the 5 different attunements. It is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
 
@@ -105,7 +107,7 @@ By pressing 'L', your weapon changes to the Saintsblade, which is required to us
 
 ## Mantra(s)
 
-Blade of Saints is the ONLY mantra for the oath, which varies in accordance to your current Saint Stance.
+Blade of Saints is the ONLY mantra for the Oath, which varies in accordance to your current Saint Stance.
 
 ### Saintsworn: Flamecharm Saint Stance
 
@@ -156,9 +158,10 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 ## Trivia
 
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Visionshaper](Oath%253A_Visionshaper.md).
--   Ironically, this oath does NOT require the user to be wielding a Heroblade of any kind.
+-   The text that appears when training an attunement, "The elements are not in alignment..." is a hint towards obtaining Saintsworn and was added with the release of the Oath.
+-   Ironically, this Oath does NOT require the user to be wielding a Heroblade of any kind.
 -   Saintsworn's cosmetic, the Pseudo-Hero's Blades, cannot be dyed.
--   Saintsworn gives the most mantra slots out of any oath, being 5 total mantra slots, making it incredibly flexible and spammable.
+-   Saintsworn gives the most mantra slots out of any Oath, being 5 total mantra slots, making it incredibly flexible and spammable.
 -   The Saintsblade (and, by extension, the mantra that varies based on your current Saint Stance, Blade of Saints) does NOT change color in accordance to attunement paths. This is likely a bug.
 -   Saint's Overload have 20 seconds of duration before going off and it can be seen from the flying blade that it changes color to white.
 -   The 5 blade on your back will vanish one by one after Hero's Assist is triggered.

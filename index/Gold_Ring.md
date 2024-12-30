@@ -1,6 +1,6 @@
 ---
 title: Gold Ring
-revid: 124020
+revid: 127019
 source: https://deepwoken.fandom.com/wiki/Gold_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Equipment, Rings]
@@ -23,6 +23,7 @@ notices:
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:, Lower Erisia, Polis |
+| description | A simple gold ring. |
 
 Gold Ring is an [Equipment](Equipment.md) item under the "Rings" category.
 

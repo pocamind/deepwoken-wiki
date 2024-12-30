@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 110949
+revid: 126948
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -24,6 +24,8 @@ Valikor is an NPC that can be found in the [Isle of Vigils](Isle_of_Vigils.md) L
 You can get the [Spell Shout](Valikor.md) Talent by talking to him.
 
 If you wish to turn it off, go to settings in order to disable Spell Shouting.
+
+Keep in mind that spells can only be named for up to 23 symbols and shouldn't have roblox chat restricted content. In addition in certain cases the spell shout will use the manthra's default name instead of the edited one.
 
 ## Dialogue
 

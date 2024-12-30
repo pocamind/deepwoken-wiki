@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 126941
+revid: 127031
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -107,7 +107,7 @@ Dodgeable:✗
 | 
 
 **Luminant Beam**  
-(★★★)
+(★★★★)
 
  | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips. Appears to only do it if it is infront of etris docks and aims near the well near the dock.
 
@@ -116,6 +116,8 @@ Parryable:✗
 Blockable:✗
 
 Dodgeable:✗
+
+ | 
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 126930
+revid: 127000
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -30,16 +30,16 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 [Arcwarder](Oath%253A_Arcwarder.md)
 
-(FIR/LTN/FTD)  
-test
+(20 FIR/20 LTN/20 FTD)
 
 [Bladeharper](Oath%253A_Bladeharper.md)
 
-(WEP/STR/AGL)
+(75 MED OR cmb. 90 WEP/  
+25 STR OR AGL)
 
 [Blindseer](Oath%253A_Blindseer.md)
 
-(WLL)
+(40 WLL)
 
 [Contractor](Oath%253A_Contractor.md)
 
@@ -47,7 +47,7 @@ test
 
 [Chainwarden](Oath%253A_Chainwarden.md)
 
-(STR/FTD/WLL)
+(cmb. 40 STR OR FTD OR WLL)
 
 [Dawnwalker](Oath%253A_Dawnwalker.md)
 
@@ -55,11 +55,11 @@ test
 
 [Fadetrimmer](Oath%253A_Fadetrimmer.md)
 
-(N/A)
+(LVL 12)
 
 [Jetstriker](Oath%253A_Jetstriker.md)
 
-(AGL)
+(50 AGL)
 
 [Linkstrider](Oath%253A_Linkstrider.md)
 
@@ -67,23 +67,25 @@ test
 
 [Saltchemist](Oath%253A_Saltchemist.md)
 
-(INT)
+(75 INT)
 
 [Silentheart](Oath%253A_Silentheart.md)
 
-(WEP/STR/AGL/CHA)
+(75 WEP/25 STR/  
+25 AGL OR CHA)
 
 [Starkindred](Oath%253A_Starkindred.md)
 
-(STR)
+(40 STR)
 
 [Visionshaper](Oath%253A_Visionshaper.md)
 
-(CHA)
+(50 CHA)
 
 [Saintsworn](Oath%253A_Saintsworn.md)
 
-(LTN/SDW/FIR/ICE/WND)
+(20 LTN/20 SDW/20 FIR/  
+20 ICE/20 WND)
 
 ### Upcoming Oaths
 
@@ -105,14 +107,15 @@ Upon breaking an Oath, unique effects will occur:
 -   [Bladeharper](Oath%253A_Bladeharper.md): The Blade Within - "Was this not the future we sought? Perhaps not."
 -   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
 -   [Contractor](Oath%253A_Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
-    -   You instantly become maximum negative rep with [Etrea](Etrea.md) and [The Ministry](The_Ministry.md).
+    -   You instantly become maximum negative reputation (villain) with [Etrea](Etrea.md) and [The Ministry](The_Ministry.md).
     -   Will get instantly gripped if by chance you stumble into the courtroom of the Lord Regent, meaning it cannot be reobtained.
+    -   You are regranted access to Castle Light.
 -   [Chainwarden](Oath%253A_Chainwarden.md): [Vice Warden Morredh](Vice_Warden_Morredh.md) - "Another deserter? You're pathetic."
-    -   You cannot reobtain this oath after being broken.
+    -   You cannot reobtain this oath after breaking it.
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
-    -   You instantly become maximum negative rep with [The Divers](The_Divers.md).
+    -   You instantly become maximum negative reputation (villain) with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
-    -   You can regain the Oath again after breaking the vow. However, the price will be 60 [Medallions](Kyrsan_Medallions.md) instead of 30.
+    -   You can regain the Oath again after breaking it. However, the price will be 60 [Medallions](Kyrsan_Medallions.md) instead of 30.
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man."
     -   This Oath does not become locked after being broken.
 -   [Jetstriker](Oath%253A_Jetstriker.md): [Alirian](Alirian.md) - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
@@ -134,7 +137,7 @@ Upon breaking an Oath, unique effects will occur:
     -   If you attempt to regain the Oath, [The Dreadstar](The_Dreadstar.md) will not spawn after you survive the Ghosts on the [Beloved Zofia](Beloved_Zofia.md).
 -   [Starkindred](Oath%253A_Starkindred.md): [Samael](Samael.md) - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
     -   Talking to [Samael](Samael.md) again will cause him to say "Insolent worm. Leave."
-    -   Cannot be reobtained after breaking it.
+    -   This oath cannot be reobtained after breaking it.
 -   [Visionshaper](Oath%253A_Visionshaper.md): [The Nestmind](The_Nestmind.md) - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
     -   Talking to [Surge](Surge.md) again will prompt the following conversation:
         -   "Retired from the Hunt, eh? If you can prove yourself a hunter again I'd be happy to welcome you back." / **Bring me back.**
@@ -185,4 +188,4 @@ Proof of Time Magic's existence and it being an "Oath"
 -   In the [Battle Royale](Battle_Royale.md) gamemode, Oaths can be obtained by collecting Oath Shards from chests.
     -   It takes 3 shards to obtain the Oath, and one for each subsequent Talent.
 -   [_Oathless_](Oath%253A_Oathless.md) Does not take 10 [Knowledge](Knowledge.md) when skipped, instead grants the _Oath_ immediately.
-    -   This is only after uptraining the O_athless_ once.
+    -   This is only after uptraining _Oathless_ once.

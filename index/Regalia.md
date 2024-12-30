@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 124334
+revid: 127027
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -41,7 +41,7 @@ If you are attempting to get Mute, wiping on a high level file has a higher chan
 
 -   Ambush [Mechalodaunts](Megalodaunt.md#mechalodaunt)
 
--   Does not work in any dungeon
+-   Does work in Saramaed Hollow.
 
 -   Mute does work against some humanoids.
     -   [Ministry Necromancers](Ministry_Necromancer.md)

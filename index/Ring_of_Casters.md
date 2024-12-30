@@ -1,14 +1,29 @@
 ---
 title: Ring of Casters
-revid: 116259
+revid: 127025
 source: https://deepwoken.fandom.com/wiki/Ring_of_Casters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Rings]
+categories: [In progress without reason, InProgressPages, Equipment, Rings, The Divers]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Ring of Casters
 
-Ring of Casters is an [Equipment](Equipment.md) item under the "Rings" category.
+| Ring of Casters | |
+|---|---|
+| type | Ring |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | Power 10 |
+| weight | 0.1 |
+| innate stats | None |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | N/A |
+| description | N/A |
 
 ## Description
 

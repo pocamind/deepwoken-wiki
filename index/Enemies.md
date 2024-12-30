@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 124048
+revid: 126994
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -16,11 +16,9 @@ _This page is for human 'mob' enemies, for bosses, see [Bosses](Bosses.md). For 
 
 Beyond the safety of cities and towns, and sometimes even in them, there are humanoid NPCs that lurk within islands; either ambushing players, patrolling a certain area, or settling down around a campfire or stronghold. They serve as tools for player to advance their skills, unlock new areas, unlock better equipment and armor, or simply to act as a skill check. They could shred any players who are unskilled or unprepared, but like monsters, they can also be learnt.
 
-Depending on who they are, they can vary in their skill, equipment, and attunements. Each Enemy also has their races racial passive, though this only really applies to Etreans, Canor, Felinor and Vesperians.
+Depending on who they are, they can vary in their skill, equipment, and attunements. Each Enemy also has their aspect's unique passive, though this only really applies to Etreans, Canors, Felinors and Vesperians. Some Humanoid enemies also have a chance to spawn with **[enchanted](Enchantments.md)** weapons. (**cannot have Curse of the No Life King or Curse of Yun'shul**)
 
 This page consists of Humanoid NPCs that fight back or attack you on sight. Includes all Factions.
-
-some Humanoid Enemies have a chance to spawn with **enchanted** weapons. (**cannot have Curse of the No Life King or Curse of Yun'shul)**
 
 ## Enemies
 

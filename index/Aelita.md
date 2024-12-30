@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 126558
+revid: 126956
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Oath Trainer, World Event]
@@ -24,7 +24,7 @@ Aelita is a unique event NPC that spawns when you walk near a rock in the center
 
 Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if \[the player comes\] back during the winter." This is a trap, as 4 meteorites carrying [Blizzard Knights](Stone_Knight.md#blizzard-knight) will spawn in her place during Winter.
 
-She is the sister of [Tillian](Tillian.md).
+She is the twin sister of [Tillian](Tillian.md).
 
 ## Event
 
@@ -63,7 +63,7 @@ She is the sister of [Tillian](Tillian.md).
 
 ## Trivia
 
--   When Talking to Aelita, the song [Catwhisker](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis) starts playing
+-   When talking to Aelita, the song [Catwhisker](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis) starts playing
 -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when Arch\_Mage announced that Krulians do not take [Oaths](Oaths.md), as well as the theory overall lacking any real evidence for it.\[citation needed\]
 -   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.[\[1\]](#cite-note-1)
 -   Aelita is a [Visionshaper](Oath%253A_Visionshaper.md), she doesn't have the Oath particle for optimization purposes.
@@ -79,7 +79,7 @@ She is the sister of [Tillian](Tillian.md).
 -   Her outfit is the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md), but is currently pending a rework due to the misconduct of the original's creator.
 -   There is a glitch with this event that allows you to skip it and instantly spawns a chest allowing to beat this event even if you lack Mantras. Glitching Aelita will not make the event music stop.
 -   If killed by her during the Carnival of Hearts, she will use the “A Fearsome Enemy” tag.
--   When she puts you in danger during the Carnival of Hearts, her tag is .aelita4693 (at least in that one screenshot in the fandom comment section, maybe the number’s randomized)
+-   When she puts you in danger during the Carnival of Hearts, her tag is .aelita4693.
 
 ## References
 
