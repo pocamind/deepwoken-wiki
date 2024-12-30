@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127042
+revid: 127066
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -677,6 +677,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Lord's Tithe_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their Ether until you are fully charged.
     -   While the effect is active, victims can hold block to reduce the ether steal by half.
+    -   Lord's Tithe cancels on victims once they drop beneath 5% Ether.
     -   Getting hit will cancel the effect entirely.
     -   Getting your block hit counts as being hit.
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
@@ -684,7 +685,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.
     -   Heal others by 3%.
     -   Heal the user by 2% + 1% for every people healed.
-    -   Hold F while casting Reinforce to affect everyone, including non allies.
+    -   Hold F while casting Reinforce to apply reinforce to everyone, including non allies.
+    -   Only procs on allies.
     -   Prerequisites: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
 
 ### Cosmic Wind

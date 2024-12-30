@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 123827
+revid: 127063
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -89,6 +89,7 @@ Please add miscellaneous islands or named landmarks here
     -   [Lightkeeper Temple](Lightkeeper_Temple.md)
     -   [Widow's Hollow](<Widow's_Hollow.md>)
     -   [Deep Thresher Nest](Deep_Thresher_Nest.md)
+    -   [Starfield Grove](Starfield_Grove.md)
 -   [Fort Merit](Fort_Merit.md)
     -   [Merit's Reach](<Merit's_Reach.md>)
 -   [Bluster Rift](Bluster_Rift.md)

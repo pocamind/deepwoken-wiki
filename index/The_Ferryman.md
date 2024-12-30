@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 126598
+revid: 127070
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -163,6 +163,7 @@ The Ferryman can prove a tough boss for new-comers, while being extremely easy f
 -   Campfires may prove incredibly helpful, as due to the Ferryman only attacking after either a prolonged period, or whenever he displaces himself, it's incredibly easy to rest and heal a bar of health with only two or three attacks parried.
 -   Remain calm doing this boss, as the less hits you take, the more damage you will deal due to his Inverse Chain.
 -   His moves are all **INCREDIBLY** loud and telegraphed, turning up your volume will allow you to hear any attacks you may be unable to see.
+-   Make sure to sell or store items in your inventory; You will be surprised how much the speed debuff of being overencumbered can hurt.
     
 
 **Phase One:**

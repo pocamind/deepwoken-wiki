@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 123352
+revid: 127073
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -23,39 +23,36 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <td>A visual representation of the player's health. Players start with 200 Health; things like <a href="Attributes.md">Fortitude</a> (0.5 Health per Fortitude), Health bonus from <a href="Talents.md">Talents</a> and <a href="Equipment.md">Equipment</a>, <a href="Traits.md">Vitality</a> (10 Health per Vitality) and <a href="Power.md">Power</a> (4 Health per Power) increase the max health. Upon reaching 0% Health, the player gets knocked down and is at the mercy of anyone around them.
   <ul>
     <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
-    <li>Players cannot regenerate Health if their hunger bar is below ~12.5%</li>
+    <li>Natural health regeneration is disabled if their hunger bar is below 12.5%.</li>
     <li>The lower your Health is, the slower you get. In short, Health directly affects your agility.</li>
   </ul><p>The player's Health bar has three states:</p><figure><figcaption><p>This is the normal state of the health bar.<br>
   The player will lose one life on death (excluding <a href="Echoes.md#modifiers">Hollow</a> modifier).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once.<br>
   The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in The Depths.<br>
-  The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death.</p></figcaption></figure>
-  <ul>
-    <li>Spitting with <kbd>T</kbd> on Humanoids also restores 3% of your HP. (Not recommended as you'll be forced to stand still for the taunt).</li>
-  </ul></td>
+  The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death.</p></figcaption></figure></td>
 </tr>
 <tr>
   <th>Posture Bar</th>
-  <td>A visual representation of the player's ability to guard against attacks. Building this bar indicates negative standing, so you should do your best to keep this bar as low as possible when engaging in combat. When the bar cannot hold any more energy, the next blocked hit will instead guard break, dealing increased damage and stunning you.
+  <td>A visual representation of the player's ability to guard against attacks. Building this bar indicates negative standing, you should do your best to keep this bar as low as possible during in combat. When the next attack causes the posture to go exceed the bar, the next blocked hit will instead guard break, dealing increased damage and stunning you.
   <ul>
-    <li>Posture decreases if the player lands a parry, stops blocking while also not sprinting and/or through the effects of certain <a href="Talents.md">Talents</a></li>
-    <li>When blocking while in shaky/weak block frames, your posture bar glows red to indicate that your block isn't full yet.</li>
-    <li>Spitting with <kbd>T</kbd> on Humanoids also restores your posture by a great amount. (Not recommended as you'll be forced to stand still for the taunt).</li>
+    <li>Posture decreases if the player lands a parry, stops blocking while also not sprinting and/or through the effects of certain <a href="Talents.md">Talents</a>.</li>
+    <li>When blocking while in shaky block frames, your posture bar glows red to indicate that your block isn't full yet.</li>
+    <li>Spitting with <kbd>T</kbd> on Humanoids also restores your posture by a great amount, Use it wisely as you'll be forced to stand still for the taunt.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Cooldown Icons</th>
-  <td>Icons that indicate whether or not the player can do certain actions. When these icons become reddened/grayed out, the specified action will be on cooldown.
+  <td>Icons that indicate whether or not the player can do certain actions. When these icons become reddened/grayed out indicates that the specific action is currently on cooldown.
   <ul>
-    <li>The first icon represents roll/dodge cooldown.</li>
+    <li>The first icon represents roll cooldown.</li>
     <li>The second icon represents parrying cooldown.</li>
-    <li>The third icon represents when block is fully functional.</li>
+    <li>The third icon represents if block is available.</li>
     <li>The fourth icon represents cancels and feints cooldowns.</li>
     <li>The fifth icon represents <a href="Resonance.md">Resonance</a> cooldown. Only visible if you have one.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Cooldown Indicators</th>
-  <td>Cooldown Indicators represent the cooldown for mostly everything in-game, from Talents like kick-off, propagandist, and audacity, to criticals, feints, Resonances, and even special attacks like <a href="Gran_Sudaruska.md">Sudaruska's Fury</a>. It has the name of the cooldown on the left side, and the amount of time until you can use it on the right.<figure><figcaption></figcaption></figure></td>
+  <td>Cooldown Indicators represent the cooldown for mostly everything in-game excluding mantras, from Talents like kick-off, propagandist, and audacity, to criticals, feints, Resonances, and even special attacks/effects such as <a href="Gran_Sudaruska.md">Sudaruska's Fury</a> and <a href="Immortal_Helm.md">Immortality</a> has the name of the cooldown on the left side, and the amount of time until you can use it again on the right.<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
@@ -235,11 +232,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <th>Critical Attacks</th>
   <td><i>Critical Attacks</i>, or "Crit(s)" for short, can be initiated by pressing <kbd>R</kbd> or clicking <kbd>M3</kbd> (Pressing down the scroll wheel). Personally advised to use <kbd>R</kbd> .<p><br>
   </p>
-  <p><i>Critical Attacks</i> have various uses. Some work as a way to throw off your adversary's timing, such as the normal Sword critical or <a href="Rifle_Spear.md">Rifle Spear</a> critical. Others work as a way to help deal damage, such as the Dagger or Rapier criticals. Some others work as a combo tool, such as Spear criticals, while some others may be used to simply instill fear and discomfort in the opponent, such as a <a href="Kyrscleave.md">Kyrscleave</a> critical.</p>
-  <ul>
-    <li>Adding onto this, some legendary weapons have unique criticals that can enhance the feeling of possessing a "protagonist's weapon". Such weapons would include the <a href="Railblade.md">Railblade</a> and <a href="Petra's_Anchor.md">Petra's Anchor</a>, both having <b>two</b> criticals.</li>
-  </ul><p><br>
-  <i><b>A mass majority of Critical Attacks cannot be feinted. When you perform one, make sure you are committed to doing so.</b></i></p></td>
+  <p><i>Critical Attacks</i> have various uses. They are mainly used to deal high posture damage, especially heavy weapons. Some work as a way to throw off/confuse your adversary's momentum, such as <a href="Crescendo.md">Crescendo</a> or <a href="Rifle_Spear.md">Rifle Spear</a> critical. Others work as a way to help high damage, such as <a href="Rosen's_Hellflame.md">Rosen's Hellflame</a> or <a href="Wretched_Mawblades.md">Wretched mawblades</a>' criticals. Some others give utility to the critical like <a href="Petra's_Anchor.md">Petra's anchor</a> (Dash) or <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a> (Hyperarmor), while some others may be used to simply instill fear and/or pressure to the opponent, such as <a href="First_Light.md">First light</a> (Zoning) and <a href="Flareblood_Kamas.md">Flareblood kamas</a> (Ranged) criticals. <i><b>A mass majority of Critical Attacks cannot be feinted. When you perform one, make sure you are committed to doing so.</b></i></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -322,7 +315,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <p>Certain Talents- such as <i>Flaming Uppercut</i> and <i>Quick Link-</i> can also affect the potency of Uppercuts by adding properties to them the same way some Talents add properties to Flourishes.</p>
   <p><br>
   </p>
-  <p>Uppercuts have their own unique windup speed, regardless of whatever weapon type you may be using- making Uppercuts especially useful for Heavy users (and furthermore for <i>those</i> <a href="Gran_Sudaruska.md">Gran Sudaruska</a> users..).</p>
+  <p>Uppercuts have their own unique windup speed, regardless of whatever weapon type you may be using- making Uppercuts especially useful for Heavy weapons with slow swing speeds, or due to difference reasons, Ex. for <a href="Gran_Sudaruska.md">Gran Sudaruska</a> users.</p>
   <p>If you land an Uppercut against a dodge or block, then the reduced end-lag should allow you to strike your opponent with an M1 before they can retaliate.</p>
   <p>Landing a flourish on an opponent suffering from the stun of your arial combo will automatically kick them to the floor, which will result in any wall-bang Talents occurring- such as <i>Bulldozer</i> and <i>Breathing Impact.</i></p>
   <p><i>Missing an Uppercut will completely immobilize you and leave you vulnerable- akin to failing to Vent, but you can typically parry an incoming attack if your opponent is on edge, or try an Uppercut yet again before full recovery.</i></p></td>
@@ -330,7 +323,8 @@ _When fighting, while dealing damage is important, reducing their posture can al
 </tr>
 <tr>
   <th>Taunt</th>
-  <td>By pressing <kbd>T</kbd>, you can perform a taunt, colloquially refered to as a "spit" or "spitting". When taunting, the player character spits directly in-front of them. Whilst initially unassuming, the taunt has a special application in combat.<p>By spitting while your face is right up against another Humanoid's face (or perhaps spitting towards a Humanoid whilst they're facing the opposite direction you are when they're a few studs away from you), their vision will be briefly blurred (exact amount of time unconfirmed) and you will heal ~5% of your health and restore a large sum of your posture (exact amounts unconfirmed). This is a risky maneuver, though, as taunting has a considerable amount of startup and endlag, and you're usually better off just attacking your opponent. Due to this glaring flaw, the Taunt should only be used as a method of, well, taunting foes you deem inferior, or perhaps even as a risky mixup. <i>Based on the name, it's possible that more taunts were meant to be added, but this is not confirmed by any developers. It's very likely that the developers simply wanted the Taunt to be a spit, though.</i></p></td>
+  <td>By pressing <kbd>T</kbd>, you can perform a taunt, colloquially refered to as a "spit" or "spitting". When taunting, the player character spits directly in-front of them. Whilst initially unassuming, the taunt has a special application in combat.<p>By spitting while your face is right up against another Humanoid's face (or perhaps spitting towards a Humanoid whilst they're facing the opposite direction you are when they're a few studs away from you), their vision will be briefly blurred (exact amount of time unconfirmed) and you will heal ~5% of your health and restore a large sum of your posture (exact amounts unconfirmed). This is a risky maneuver, though, as taunting has a considerable amount of startup and endlag, and you're usually better off just attacking your opponent. Due to this glaring flaw, the Taunt should only be used as a method of, well, taunting foes you deem inferior, or perhaps even as a risky mixup. <i>Based on the name, it's possible that more taunts were meant to be added, but this is not confirmed by any developers. It's very likely that the developers simply wanted the Taunt to be a spit, though.</i></p>
+  <p>An example of effective usage of taunt in combat is spitting during legion kata (fist style)'s critical. The target will be stunlocked during the crit, but allows the user to spit during the animation, effectively healing your health and posture without any risk.</p></td>
   <td></td>
 </tr>
 </tbody>
@@ -431,7 +425,7 @@ Main article: [Status Effects](Status_Effects.md)
     <li>Blood Scourge</li>
     <li>Vampirism</li>
   </ul><p>Does not proc/work on people in the same guild as yours.</p>
-  <p><i>Sources are <a href="Mudskipper_Broodlord.md">mudskipper broodlord</a> and players with the Talent “All the Dead Gods” or Ring of Pestilence, which gives 50% healing reduction. Although, it doesn't emit any particles on the victim hit.</i></p></td>
+  <p><i>Sources are <a href="Mudskipper_Broodlord.md">mudskipper broodlord</a> and players with the Talent “All the Dead Gods”, Umbrite witherblade or Ring of Pestilence, which gives 80%,&nbsp;?, 50% healing reduction respectively.</i></p></td>
   <td></td>
 </tr>
 </tbody>
@@ -472,7 +466,7 @@ Main article: [Status Effects](Status_Effects.md)
 <tbody>
 <tr>
   <th>Roll Cancel</th>
-  <td>When you roll, you can <kbd>M2</kbd> similar to how feinting works and cancel your roll. Useful against enemies after perfect dodging to immediately attack or to fake out your opponent. Gives you the same i-frames as a normal perfect roll.</td>
+  <td>When you roll, you can <kbd>M2</kbd> similar to how feinting works and cancel your roll. Useful against enemies after perfect dodging to immediately attack or to fake out your opponent. Gives you the same i-frames as a normal perfect roll until the feint.</td>
 </tr>
 <tr>
   <th>Ragdoll Cancel</th>
@@ -496,4 +490,4 @@ The ally check can be disabled by turning on the "No Holds Barred" in-game setti
 -   The overall parry-based combat is heavily inspired by _Sekiro: Shadows Die Twice_, even possessing [Perilous Attacks](https://sekiroshadowsdietwice.wiki.fextralife.com/Perilous+Attacks) in the form of unparriable attacks. The inclusion and appearance of a [Posture Bar](https://sekiroshadowsdietwice.wiki.fextralife.com/Posture) is also very similar to _Sekiro_.
 -   The Health and Survival GUI has 5 separate bars in them that represent 20% each. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
 -   Taunting/Spitting on passive NPCs angers them. If you have at least 55 Charisma, though, they will instead say thank you for spitting on them.
--   Some people refer to Ragdoll Cancelling as a Tech/Teching, a reference to a common mechanic in FGC Games where if you block/parry right before hitting a surface whilst being launched, your movement will be cancelled, you'll leave hitstun, and you'll be able to act again almost immediately.
+-   Some people refer to Ragdoll Cancelling as a Tech/Teching, a reference to a common mechanic in FGCs where if you block/parry right before hitting a surface whilst being launched, your movement will be cancelled, you'll leave hitstun, and you'll be able to act again almost immediately.

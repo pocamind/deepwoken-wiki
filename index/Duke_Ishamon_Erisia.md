@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 126590
+revid: 127077
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -34,7 +34,6 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 | --- | --- | --- |
 | 
 **Assault**  
-(★☆☆)
 
  | Firmly pummels opponent with basic attacks before finishing up the combo by flourishing them.
 
@@ -49,7 +48,6 @@ Dodgeable:◯
 | 
 
 **Critical**  
-(★★☆)
 
  | Attempts to grab his victim before slamming them into the ground head-first.  
 
@@ -61,7 +59,7 @@ Dodgeable:◯
 | 
 
 **Counter**  
-(★★☆)
+★
 
  | The Duke shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
 
@@ -79,7 +77,6 @@ Dodgeable:N/A
 | 
 
 **Feint**  
-(★★☆)
 
  | The Duke pulls his fist back before it hits you, only to hit you again with his other hand.
 
@@ -94,7 +91,6 @@ Dodgeable:◯
 | 
 
 **Binding Tempest**  
-(★★☆)
 
  | The Duke rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, the Duke teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
 
@@ -112,7 +108,6 @@ Dodgeable:◯
 | 
 
 **Aero Spear**  
-(★★☆)
 
  | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
 
@@ -127,7 +122,6 @@ Dodgeable:◯
 | 
 
 **Gale Stomp**  
-(★★★)
 
  | The Duke stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
@@ -142,7 +136,7 @@ Dodgeable:◯
 | 
 
 **Cyclone Bomb**  
-(★★★)
+★
 
  | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried. however it is a very rare attack.
 
@@ -157,7 +151,6 @@ Dodgeable:◯
 | 
 
 **Strong Left**  
-(★☆☆)
 
  | Duke will charge up a punch, and teleport to his target,
 
@@ -172,7 +165,6 @@ Dodgeable:◯
 | 
 
 **Summon Mindless Servants**  
-(★☆☆)
 
  | The Duke snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
@@ -190,7 +182,6 @@ Dodgeable:◯
 | 
 
 **Vent**  
-(★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
 

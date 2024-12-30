@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 122424
+revid: 127079
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -30,7 +30,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 1.  Reach 75 Fortitude.
 2.  Enter [Fort Merit](Fort_Merit.md) and go into the prison cell area.
-3.  Take the second hallway that going into the [Shrine of Chance](https://deepwoken.fandom.com/wiki/Deep_Shrines#Shrine_of_Chance) after taking the stairs until you find a hole to slide into.
+3.  Take the second hallway that leads to the [Shrine of Chance](Deep_Shrines.md#shrine-of-chance) after taking the stairs until you find a hole to slide into.
 4.  Talk to [Brutus](Brutus.md), a large Khan sitting alone in a cell.
 5.  Brutus will proceed to beat you down to when you are knocked, granting Fortitude Unbound if the requirements are met.
 
@@ -63,7 +63,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 4.  Make sure that you entered The Depths through a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the Vacant [flaw](Boons_and_Flaws.md).
 5.  Talk to Akira; you will get Willpower Unbounded as soon as you begin speaking with him. You do not have to join [The Divers](The_Divers.md) to unbound Willpower.
 
-Or alternatively You can get it unbounded with 3 mental fortress cards (needs more testing) _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=VOE_UOd9ivs)._
+Or alternatively You can get it unbounded with 3 Mental Fortress cards (needs more testing) _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=VOE_UOd9ivs)._
 
 ### Charisma Unbound
 

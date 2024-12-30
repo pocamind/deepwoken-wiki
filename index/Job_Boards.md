@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 124841
+revid: 127074
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -18,13 +18,13 @@ Job Board at Etris docks
 
 The completion of a Job typically requires the player to travel to a specific area and accomplish a certain task. This task can vary and ranges from a request to transport cargo to the dispatching of an enemy patrol.
 
-Territories controlled entirely by a faction (e.g. [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will only offer Jobs given by its dominant faction, but Job Boards found in neutral areas (e.g. [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) will offer Jobs from any faction as long as they can generate in that area.
+Territories controlled entirely by a faction (e.g. [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will only offer Jobs given by its dominant faction, but Job Boards found in neutral areas (e.g. [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) will offer Jobs from any faction as long as they can generate in that area. Alternatively if you have the [Ignition Delver](Origins.md#ignition-delver) origin, you will have access to the [Union Pager](Ignition_Delver.md) tool, which allows you to remotely accept jobs.
 
 ## Etrean Luminant
 
-**Etrea:**
+**Erisia:**
 
-_Jobs relating to Erisia can be given by [Etrea](Etrea.md)Etreaiconfaction._
+_Jobs relating to Erisia can be given by [Etrea](Etrea.md)Etreaiconfaction and [The Hundred Legions](The_Hundred_Legions.md)._
 
 -   **Authority Patrol**
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
@@ -35,6 +35,15 @@ _Jobs relating to Erisia can be given by [Etrea](Etrea.md)Etreaiconfaction._
 -   **A Daunting Task**
     -   Tasks the player with slaying one [Megalodaunt](Megalodaunt.md).
         
+
+**Minityrsa:**
+
+_Jobs relating to Minityrsa and can be given by [The Ministry](The_Ministry.md)Ministryiconfaction._
+
+-   **Authority Patrol**
+    -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
+
+_This Job comes from a Job Board located at Etris in the guildhall building._
 
 ## Eastern Luminant
 

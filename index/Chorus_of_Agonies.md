@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 126773
+revid: 127069
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, InProgressPages, Unique Critical]
@@ -35,7 +35,7 @@ Similar to all other Enmity drops, it automatically Soulbounds.
 
 ## Critical(s)
 
-Stomp the ground with hyper armor and follow up with an overhead strike with your axe.
+Stomp the ground with hyper armor and follow up with an overhead strike with your axe. You enter brief true-hyper armor state during the stomp.
 
 ## Trivia
 
