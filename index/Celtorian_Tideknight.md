@@ -1,9 +1,9 @@
 ---
 title: Celtorian Tideknight
-revid: 120396
+revid: 127272
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Lost Celtor, Master Outfits]
+categories: [Armors, Items, Outfits, Master Outfits, Lost Celtor]
 ---
 
 # Celtorian Tideknight
@@ -14,7 +14,7 @@ The **Celtorian Tideknight** is a Master [Outfit](Outfits.md) in _Deepwoken_. Te
 
 ### _Requirements_
 
-This Outfit costs 1,000 and requires five (5) Cloth, one (1) [Bloodless Gem](Deep_Gems.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), one (1) [Dark Feather](Dark_Feather.md), one (1) [Odd Tentacle](Odd_Tentacle.md), one (1) [Thresher Spine](Thresher_Spine.md), five (5) [Umbral Obsidian](Umbral_Obsidian.md).
+This Outfit costs and requires five (5) Cloth, one (1) [Bloodless Gem](Deep_Gems.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), one (1) [Dark Feather](Dark_Feather.md), one (1) [Odd Tentacle](Odd_Tentacle.md), one (1) [Thresher Spine](Thresher_Spine.md), five (5) [Umbral Obsidian](Umbral_Obsidian.md).
 
 This Outfit requires [Power Level](Talents.md) 15.
 

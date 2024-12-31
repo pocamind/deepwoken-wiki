@@ -1,9 +1,9 @@
 ---
 title: Black Diver
-revid: 123474
+revid: 127271
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, The Divers, Master Outfits]
+categories: [Armors, Items, Outfits, Master Outfits, The Divers]
 ---
 
 # Black Diver

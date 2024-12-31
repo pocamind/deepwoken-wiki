@@ -1,9 +1,9 @@
 ---
 title: Navaen Hostage
-revid: 124968
+revid: 127309
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Random Encounters, Children of Navae]
+categories: [NPCs, Random Encounters, The Children of Navae]
 ---
 
 # Navaen Hostage

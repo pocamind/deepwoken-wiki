@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 127070
+revid: 127328
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -112,7 +112,7 @@ Dodgeable:◯
 -   He only uses this attack in Phase 2.
 -   Can be dodged by simply running anywhere but directly at The Ferryman.
 -   High posture damage.
--   This attack does not have an attack opportunity, even if fully parried.
+-   Occasionally allows for a brief attack opportunity afterward, should all four javelins be parried. This opportunity is usually indicated by the Ferryman spinning after the attack.
 
 Parryable:◯  
 Blockable:◯  

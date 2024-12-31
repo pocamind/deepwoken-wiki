@@ -1,9 +1,9 @@
 ---
 title: Meteor Isle
-revid: 114490
+revid: 127313
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Eastern Luminant, Children of Navae]
+categories: [Locations, Eastern Luminant, The Children of Navae]
 ---
 
 # Meteor Isle

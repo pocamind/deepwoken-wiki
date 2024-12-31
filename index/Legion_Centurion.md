@@ -1,9 +1,9 @@
 ---
 title: Legion Centurion
-revid: 120398
+revid: 127276
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Master Outfits]
+categories: [Armors, Items, Outfits, Master Outfits, The Hundred Legions]
 ---
 
 # Legion Centurion
@@ -36,6 +36,6 @@ This Outfit's Schematic can be found in:
 -   [False Merchant Ships (Chest)](Random_Encounters.md#false-merchant-ship)
 -   [Rogue Construct](Rogue_Construct.md) (Chest)
 
-## Trivia/Notes
+## Trivia
 
 -   Believed to be the best armor for Legion Kata fist style due to its 10% damage boost.

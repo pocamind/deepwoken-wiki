@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 126995
+revid: 127263
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -42,7 +42,7 @@ categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
 
 Saintsworn obtainment requires 20 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
 
-After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them.
+After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now appears to be Shadowcast -> Thundercall -> Flamecharm -> Frostdraw -> Galebreathe, however this can do with refinement.
 
 Saintsworn **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 

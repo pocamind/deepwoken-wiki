@@ -1,9 +1,9 @@
 ---
 title: Hive Tactician Armor
-revid: 118373
+revid: 127291
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Expert Outfits]
+categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
 ---
 
 # Hive Tactician Armor

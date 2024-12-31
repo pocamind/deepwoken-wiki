@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 123488
+revid: 127266
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Layer 2, Floor 2, Dungeons]
@@ -28,7 +28,7 @@ Due to the instability of New Kyrsa, there is a hard-set timelimit displayed thr
 
 ## Objectives
 
-1.  Activate the 5 Obelisks before time collapses thrice.
+1.  Activate the 5 Obelisks before time collapses three times.
     1.  One is located in the Kyrsan Shrine of Arrival, which you automatically run into when entering the second floor.
     2.  One is located inside of the Kyrsan Library on the set path to the city, in order to access the city and the obelisk, the sequence to get in is **1 2 1 2 2 2 1 2 3 1 4 2 3 1**, with the numbers being each time you have to interact with a pillar.
         1.  If you make a mistake in the sequence, you will be taken to the beginning of the labyrinth and the sequence of buttons will be reset.

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 127249
+revid: 127262
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -342,7 +342,7 @@ Does not negate deferred, fire or fall damage.
 
 (★★☆)
 
- | An automated turret that fires at targets that that cross its sight. | 100 Ether | Metal | Perform a downslam to conjure a turret that fires at targets that is infront of its sight.
+ | An automated turret that fires at targets that that cross its sight. | 100 Ether | Metal | Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight.
 
 -   Deals 21 DMG per hit, 0.85s windup to cast.
 -   0.55s windup between shots, lasts 20s

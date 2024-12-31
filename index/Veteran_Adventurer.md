@@ -1,9 +1,9 @@
 ---
 title: Veteran Adventurer
-revid: 115877
+revid: 127298
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Outfits, Items, Expert Outfits]
+categories: [Armors, Items, Outfits, Expert Outfits]
 ---
 
 # Veteran Adventurer
