@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127101
+revid: 127169
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -141,6 +141,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Mutual Exclusive: Return to the Dark Ages
 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 1.5 seconds or more grants an aura to your attacks that grant them 15% more damage.
+    -   Overflowing Dam doesn't require you to wait for 1.5s upon reaching 100% ether, whereas the Talent's Description says you do need to wait to get the damage buff. It just applies the moment you hit full ether.
     -   Prerequisite: 40 Intelligence
     -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
 
@@ -149,6 +150,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
     -   The [Mantra modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modifiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
+    -   Rerolling this Talent will not affect the number of modifiers on your mantras, especially 4 Mantra ingredient copies.
     -   This does NOT change the 12 mantra modification limit on a mantra.
     -   Prerequisite: 85 Intelligence
 
@@ -3148,7 +3150,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 The NPC in Starswept Valley who gives the quest required to obtain Thresher Scales, highlighted in red.
 
 -   The quest giver is located in the [Starswept Valley](The_Starswept_Valley.md), just beyond the stone pillars and leaning on a wall next to a ruined building overhang.
--   Jessamine will ask you to kill a [King Thresher](Thresher.md#king-thresher).
+-   [Jessamine](Jessamine.md) will ask you to kill a [King Thresher](Thresher.md#king-thresher).
 -   King Threshers can rarely spawn surrounded by two/three other Threshers. There's also a guaranteed spawn at the [Lightkeeper Temple](Lightkeeper_Temple.md).
 -   Completing the quest will grant the Talent.
 -   You will automatically gain this at Power 10 on all new slots.

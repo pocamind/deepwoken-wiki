@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 126927
+revid: 127221
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -53,9 +53,9 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   **Restrain - Combat Mantra**
 -   _Deliver a powerful kick that binds your opponent's soul to yours._
 -   Deals true damage.
--   Applies a chain.
+-   Applies a chain that halts the opponent's mobility.
 -   _**Heavily**_ reduced cooldown on hit/block.
--   **CURRENTLY BUGGED: BLOODLESS GEM DO NOT WORK WITH THIS MANTRA.**
+-   **CURRENTLY BUGGED: BLOODLESS GEM DOES NOT WORK WITH THIS MANTRA.**
 
 -   **Impel** - **Combat Mantra**
     -   _Fire 4 dark blasts at your cursor, chaining those hit by at least 3 blasts. Enemies hit by the mantra while chained will then get pulled and kicked away, similar to Chain Lash (will not remove chains)._
@@ -70,6 +70,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 -   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
     -   Damage stacks are independent from person to person.
+    -   After using Restrain 3+ times, casting Restrain will cause an AOE blast.
 
 -   **Chain Lash - Passive:** On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
     -   Using an M1 after the chain has been pulled with cause you to kick your foes, sending them flying.

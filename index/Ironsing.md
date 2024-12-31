@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 127116
+revid: 127225
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -336,7 +336,9 @@ Does not negate deferred, fire or fall damage.
 -   Will not activate properly on certain mobs (namely [Ferryman](The_Ferryman.md)), consuming Ether but still dealing small damage and instantly restoring the cooldown, allowing for it to be spammed until you run out of Ether.
 
  |
-|  | Metal Turret
+| 
+
+ | Metal Turret
 
 (★★☆)
 
@@ -344,9 +346,9 @@ Does not negate deferred, fire or fall damage.
 
 -   Deals 21 DMG per hit, 0.85s windup to cast.
 -   0.55s windup between shots, lasts 20s
+-   Each shot applies a Metal Rod on hit
 -   CD is 30s
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to conjure two turrets instead of one
--   Each shot applies a Metal Rod on hit
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 123655
+revid: 127167
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Criticals, Alloyed Weapons]
@@ -39,3 +39,4 @@ The user swings the greathammer before swinging it once more. Knockdowns on the 
 -   At max HVY, the damage is (38.4)
 -   Meeting the requirement of the alloyed version, the damage is (37)
 -   At max HVY, the damage of the alloy is (40.8)
+-   When this weapon is alloyed, it does not suffer from endlag.

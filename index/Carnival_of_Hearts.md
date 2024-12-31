@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 127056
+revid: 127220
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event]
@@ -53,6 +53,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 
 ## Trivia
 
+-   This event is EXTREMELY buggy.
 -   There was (currently is) a bug on release where players could use their weapons and mantras during the minigames, and kill all the other players.
 -   Players can use the [Dimensional Travel](Dimensional_Travel.md) resonance during the event to go on top of the tent and avoid all challenges.
 -   Players can roll-clip onto the stands after the minigame has started, avoiding the minigames and other players.

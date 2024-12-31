@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 127156
+revid: 127227
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -48,9 +48,7 @@ It cannot be aggroed or damaged by cannons. Like other world event bosses, it do
 
 Parryable:✗  
 Blockable:✗  
-Dodgeable:◯
-
-FYW parryable:◯
+Dodgeable:◯ FYW parryable:◯
 
  |  |
 | 
@@ -58,7 +56,7 @@ FYW parryable:◯
 **Sudden Ambush**  
 (★★★)
 
- | When far enough from the Doom Serpent[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity. Auto-grips.
+ | When far enough from the Doom Serpent[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity. Keep in mind that Mobs and NPCs may aggro the Doom Serpent in ambush range to cause this. Auto-grips.
 
 Parryable:✗  
 Blockable:✗  

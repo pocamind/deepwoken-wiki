@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 126892
+revid: 127210
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
@@ -46,3 +46,4 @@ The Eye of Malice's critical makes the user jump and thrust the weapon in front 
     -   Medium Scaling = 6 > 8
     -   Range = 10 > 10.5
     -   Swingspeed = 1.00x > 0.95x
+-   This sword somewhat resembles the Spinal Tap from Terraria

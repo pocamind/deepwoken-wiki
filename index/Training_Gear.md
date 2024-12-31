@@ -1,9 +1,9 @@
 ---
 title: Training Gear
-revid: 127055
+revid: 127201
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Attributes, Attunement]
+categories: [Items, Attributes, Attunement]
 ---
 
 # Training Gear
@@ -53,9 +53,7 @@ All of the training gears cost notes and sell for notes. Use of the item will no
 
  | Dumbbell | Train your Strength by pumping iron. | _200 uses_ | 
 
-File:Image (5).png
-
-A dumbell in the Antiquarian shop at Etris
+A held dumbell
 
  |
 | 
@@ -66,7 +64,7 @@ A dumbell in the Antiquarian shop at Etris
 
  | Boulder | Train your Fortitude by hefting a boulder above you. | _200 uses_ | 
 
-A boulder in front of the Antiquarian shop at Etris
+A boulder being held up to train
 
  |
 | 
@@ -75,7 +73,7 @@ A boulder in front of the Antiquarian shop at Etris
 
  | Training Vest | Train your Fortitude by taking a beating. | _50 uses_ | 
 
-A training vest hanging in the Antiquarian shop at Etris
+A training vest being worn
 
  |
 | 
@@ -84,7 +82,7 @@ A training vest hanging in the Antiquarian shop at Etris
 
  | Ankle Weights | Train your Agility by running with these on. | _200 uses_ | 
 
-Ankle weights hanging in the Antiquarian shop at Etris
+Ankle weights being worn
 
  |
 | 
@@ -93,9 +91,7 @@ Ankle weights hanging in the Antiquarian shop at Etris
 
  | Math Textbook | Train your Intelligence through study. | _200 uses_ | 
 
-File:Math textbook.png
-
-(add a better) picture of the math textbook
+A math textbook being held
 
  |
 | 
@@ -106,7 +102,7 @@ File:Math textbook.png
 
  | Encyclopedia | Train your Intelligence through study. | _200 uses_ | 
 
-(add a) picture of the encyclopedia
+An encyclopedia being held
 
  |
 | 
@@ -115,7 +111,7 @@ File:Math textbook.png
 
  | Prayer Beads | Train your Willpower through meditation. | _100 uses_ | 
 
-(add a better) picture of the Prayer beads
+picture of the Prayer beads
 
  |
 | 
@@ -124,7 +120,7 @@ File:Math textbook.png
 
  | [How to Make Friends](How_to_Make_Friends.md) | Train your Charisma by practising lines. | _200 uses_ | 
 
-(add a) picture of the how to make friends book
+A how to make friends book being held
 
  |
 | 
@@ -139,9 +135,7 @@ File:Math textbook.png
 
  | Weapon Manual | Used to reinforce your weapon training and improve your attributes. | _100 uses_ | 
 
-File:Weapon Manual.png
-
-(add a better) picture of the weapon manual
+A weapon manual being held
 
  |
 
@@ -242,7 +236,7 @@ All of the attunement training gears cost notes and sell for notes. Use of the i
 
  | Hearthgem | Speak to the Flames and tame them, training your flamecharm. | _100 uses_ | 
 
-(add a) better picture of the hearthgem
+A held hearthgem
 
  |
 | 
@@ -282,8 +276,6 @@ All of the attunement training gears cost notes and sell for notes. Use of the i
 **[Ironsing](Ironsing.md)**
 
  | Ferrofluid | Manipulate this liquid metal to train your Ironsinging ability. | _100 uses_ | 
-
-File:Medal vjZPOYa0kJ.png
 
  |
 | 
