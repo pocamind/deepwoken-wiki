@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 127168
+revid: 127236
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -178,4 +178,4 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 -   Their summons are internally referred to as ".enmity\_enforcer\_WEAPON"
 -   There was a bug that could instakill/void the boss by hitting the back of its neck with rising thunder or rising gale. It is unknown why this happens as there doesn't seem to be a logical reasoning behind this bug.
 -   The Heart of Enmity possess 65% oath damage resistance.
--   The Heart of Enmity is immune to all enchantments. Have fun.
+-   The Heart of Enmity is immune to all enchantments, this includes armour. Have fun.

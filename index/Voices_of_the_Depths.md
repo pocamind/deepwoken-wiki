@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 126869
+revid: 127253
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths]
@@ -44,7 +44,7 @@ _"The power or right to give orders, make decisions, and enforce obedience."_
 
 -   The Voice of Authority only appears after the player successfully completes the trial.
 -   It will order the other Voices to send the player back up into the Surface.
--   Noting it’s title, and dialogue, it seems to have the final say in all decisions. It's assumed that, they have the highest authority and possibly the strongest among the Voices of the Depthes.
+-   Noting it’s title, and dialogue, it seems to have the final say in all decisions. It's assumed that, they have the highest authority and possibly the strongest among the Voices of the Depths.
 
 ### Voice of Solitude
 

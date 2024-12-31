@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 126922
+revid: 127237
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -374,7 +374,7 @@ These quests give EXP, chests and/or reputation as rewards and are repeatable.
 
 **Quest Location**: Miner's Landing
 
-**Guide**: Talk to an NPC named Orion near the [Arcwarder Oath](Oath%253A_Arcwarder.md) giver. He will ask you to help clear out the Summer Company invaders at the upper generator during the Ignition Union vs Summer Company events.
+**Guide**: Talk to an NPC named Orion near the [Arcwarder Oath](Oath%253A_Arcwarder.md) giver. He will ask you to help clear out the four Summer Company invaders at the upper generator.
 
 File:Orion summers dusk.png
 

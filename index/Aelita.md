@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 126956
+revid: 127229
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Oath Trainer, World Event]
@@ -73,7 +73,7 @@ She is the twin sister of [Tillian](Tillian.md).
     
 -   Aelita only says "See? That was fun right? You can have a lot more fun if you come back during the winter." to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of Blizzard Knights will spawn.
 -   If going straight through the [Valley of Heroes](The_Valley_of_Heroes.md), even sticking to the walls, you'll most likely trigger Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard. If you stick to the leftmost walls of the Valley, you may narrowly avoid the spawn trigger for Aelita, although the area seems to be rather precise.
--   [Silentheart](Oath%253A_Silentheart.md)'s are unable to beat her game without abusing glitches due to a lack of Mantras.
+-   [Silentheart](Oath%253A_Silentheart.md)'s can beat the game by using a move from one of their talents in place of a mantra.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair) Aelita's hair ID : 6536255505
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
 -   Her outfit is the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md), but is currently pending a rework due to the misconduct of the original's creator.

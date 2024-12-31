@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 127030
+revid: 127235
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -84,8 +84,6 @@ Loot is based on the type of mob you kill. Some of the loot confirmed to drop fr
     <li><a href="Iron_Requiem.md">Iron Requiem</a></li>
     <li><a href="Ignition_Deepcrusher.md">Ignition Deepcrusher</a></li>
     <li><a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a></li>
-    <li><a href="Crypt_Blade.md">Crypt Blade</a></li>
-    <li><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></li>
     <li><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></li>
     <li><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li>
     <li><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></li>
@@ -161,7 +159,6 @@ Loot is based on the type of mob you kill. Some of the loot confirmed to drop fr
   <td>
   <ul>
     <li>Almost every <a href="Enchant_Stone.md">Enchant Stone</a> (exluding Astral)</li>
-    <li>Any <a href="Enchant_Grease.md">Enchant Grease</a></li>
     <li>Any <a href="Treasures.md">Deep Gems</a></li>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
     <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
@@ -205,7 +202,8 @@ Floors at 1.70km or lower have a higher chance at rarer loot, no matter the mobs
 
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m
--   Rarely, there may be a room that usually comes after or at 1.5km that requires you to kill just one thresher in turn for amazing loot (needs further testing)
+-   Rarely, there may be a floor that usually comes after or at 1.5km that requires you to kill just one thresher in turn for amazing loot.
+    -   Uncommonly, there may also be a floor that requires you to kill just two threshers in exchange for amazing loot.
 -   The cave paintings show that civilization has once been here long before the Union have.
     -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast. (Possibly a meglodaunt?)
     -   The cave painting on the second image depicts what seems to be 3 Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
