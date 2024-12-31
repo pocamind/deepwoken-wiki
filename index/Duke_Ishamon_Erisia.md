@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 127077
+revid: 127258
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -238,9 +238,9 @@ In terms of strategy to avoid his attacks as much as possible;
 -   If he isn't moving or doing anything, he's preparing for a mantra. You can get three safe hits in with a heavy or medium weapon, at which point you should stop attacking and prepare for his attack. Reading his mantras is very difficult, due to the fact that many of them have a low windup or are hard to read; for the highest level of consistency, it's best to do a full dodge (from my experience), but you'll want to learn your own strategy for handling him in the first phase.
 -   If Duke does his Strong Left attack, he will follow it up by attempting to combo you with regular punches and criticals. Parry trading with him is relatively simple, as you know he will parry every attack, and he doesn't feint often. This is the time when you'll want to do the most damage, but only m1 to keep consistency.
 -   Heavy-Hands Ring & [Murmur: Ardour](Murmur%253A_Ardour.md) can drastically increase posture damage, making Duke's first phase much faster.
--   After dealing enough posture damage, his shield will turn off, allowing you to hit him normally. If you're low on health, however, you'll still need to focus hard to avoid dying, as many of his mantras insta-grip. Focus on backing him into a corner and posture-breaking him as much as possible, but keep in mind he has a very high amount of Tempo and so he'll vent every time you flourish him into a wall.
+-   After dealing enough damage, his shield will turn off, allowing you to hit him normally. If you're low on health, however, you'll still need to focus hard to avoid dying, as many of his mantras insta-grip. Focus on backing him into a corner and posture-breaking him as much as possible, but keep in mind he has a very high amount of Tempo and so he'll vent every time you flourish him into a wall.
 -   When you see him summon his servants, you've pretty much won, as you'll be able to regenerate back to full health immediately. Keep backing him into a corner so he cannot back out of your effective range, and attack him constantly until he dies.
--   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Chilling to focus on high damage, but Vampirism makes it safer.
+-   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Astral to focus on high damage, but Vampirism makes it safer.
 -   You must STAY ALIVE whilst his shield is active, if you are knocked you cannot be saved as his shield blocks and parries every attack and any players who try to save you will have their attacks parried.
 -   If you attempt to assassinate him, the fight will automatically start.
 -   Since the Mindless Servants can hinder your attack and serve as a nuisance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with them.
