@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 127205
+revid: 127373
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -26,7 +26,7 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 [Oathless](Oath%253A_Oathless.md)
 
-(N/A)
+(10 minutes)
 
 [Arcwarder](Oath%253A_Arcwarder.md)
 

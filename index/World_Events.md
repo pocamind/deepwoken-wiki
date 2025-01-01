@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 126939
+revid: 127374
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -16,7 +16,7 @@ World events are game wide events that occur in every server once every real lif
 
 These times are for people whose ratio between their current time zone and GMT is even. If the ratio between your time zone and GMT is odd, then the order of the World Events is flipped. For example: if you live in Berlin, your time zone is GMT+1. Meaning, that to you, ["Boss"](Bosses.md) World Events will spawn on even hours instead of odd hours, and the [Carnival of Hearts](Carnival_of_Hearts.md) will spawn on odd hours.
 
-World events are focused on uniting the players towards accomplishing a single goal and awarding them individually. Do note that ganking is not disabled, however.
+World events are focused on uniting the players towards accomplishing a single goal and awarding them individually. However, note that ganking is not disabled.
 
 Defeating world event bosses does not grant bell progression.
 

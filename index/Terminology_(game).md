@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 127344
+revid: 127375
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -16,21 +16,13 @@ The following article contains a glossary for general game terms related to _Dee
 
 ## General Terms
 
-### Corrupted (Cursed)
+### Boosted
 
 _adjective_
 
-1.  attribute; Possessing greater health and attack power than normal. Highlighted by the dark purple smoke/aura.
-    1.  E.g. "I got gripped by a **corrupted** [sharko](Megalodaunt.md)"
-
-Exclusive to [monsters](Monsters.md) found in [The Depths](The_Depths.md).
-
-### Freshie
-
-_noun_
-
-1.  A newly created character, usually wearing the [Stranded](Stranded.md), [Diver Apprentice](Diver_Apprentice_Robes.md), or [Whaler Initiate](Whaler_Initiate.md) outfit. The threshold for the maximum power level for being classified as a freshie differs, but is usually around Power 6.
-    1.  "I saw a freshie get ganked earlier, they didn't stand a chance."
+1.  A player that uses high-quality equipment yet lacks the skill to back it up.
+    1.  Ex. "I just killed some boosted trash when they tried to gank me earlier"
+    2.  The point of the term is that it makes the assumption that the player being talked about was 'boosted up' by being given good items by more experienced friends of theirs
 
 ### Chime
 
@@ -38,20 +30,19 @@ _noun_
 
 1.  A shortened version of "[Chime of Conflict](Chime_of_Conflict.md)".
 
-### Boosted
+### Freshie
 
-_adjective_
+_noun_
 
-1.  A player that uses high-quality equipment yet lacks the skill to back it up.
-    1.  "I just killed some boosted trash when they tried to gank me earlier"
-    2.  The point of the term is that it makes the assumption that the player being talked about was 'boosted up' by being given good items by more experienced friends of theirs
+1.  A newly created character, usually wearing the [Stranded](Stranded.md), [Diver Apprentice](Diver_Apprentice_Robes.md), or [Whaler Initiate](Whaler_Initiate.md) outfit. The threshold for the maximum power level for being classified as a freshie differs, but is usually around Power 6.
+    1.  Ex. "I saw a freshie get ganked earlier, they didn't stand a chance."
 
 ### Permafreshie
 
 _noun_
 
 1.  Someone who often plays the game but never progresses beyond freshie level.
-    1.  "Just ganked some permafreshie, he had some good loot."
+    1.  Ex. "Just ganked some permafreshie, he had some good loot."
     2.  Permanent + Freshie = Permafreshie
 
 ## Combat Terms
@@ -62,13 +53,13 @@ _noun_
 
 1.  The animation frames of an attack where the player is damaged if contact is made during them.
 
-This term originated from 2D fighting games such as [_Street Fighter_](https://en.wikipedia.org/wiki/Street_Fighter) and adopted to _Deepwoken_ from _[Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)_ and _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.
+This term originated from 2D fighting games such as [_Street Fighter_](https://en.wikipedia.org/wiki/Street_Fighter) and was adopted by _Deepwoken_ from _[Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)_ and _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.
 
 ### Block
 
 _verb_
 
-1.  To block a mantra / attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed and take heavy damage as well as being stunned.
+1.  To block a mantra/attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed and take heavy damage as well as being stunned.
 
 1.  Light weapons are hard to parry but not hard to block as they deal little posture damage.
 
@@ -96,33 +87,33 @@ _verb_
 _verb_
 
 1.  To stop your weapon or mantra windup while swinging, used to bait people to parry which make them unable to parry the next immediate attack you use. Successfully done can make your opponent block your next attack, messing up their parry timing and increasing their posture. Can be performed by pressing M2 right after initiating your M1 attack.
-2.  "You can't just hit me while I'm feinting!!!"
+2.  Ex. "You can't just hit me while I'm feinting!!!"
+
+### Flood/Flooding
+
+_verb_
+
+1.  To fill up a server with players that are in the same guild.
 
 ### Flourish
 
 _verb_
 
 1.  To use the fourth attack of your weapon, knocking your opponent back.
-2.  "The freshie died to a single flourish from my Silentheart detonation Petra's Anchor build."
+    1.  Ex. "The freshie died to a single flourish from my Silentheart detonation Petra's Anchor build."
 
 ### Gank
 
 _verb_
 
 1.  To hunt for or attack and battle with other players with the intent to kill, usually done in groups. Also known as getting Jumped.
-    1.  "Hop on, we're ganking at Songseeker."
-    2.  "Help, I'm getting jumped!"
+    1.  Ex. "Hop on, we're ganking at Songseeker."
+    2.  Ex. "Help, I'm getting jumped!"
 
 _noun_
 
 1.  (rarely) A hunt to find and kill other players, usually used as a noun when planning to do so or retrospectively after already doing so.
-    1.  "I almost got wiped in a gank—thank god I escaped!"
-
-### Flood/Flooding
-
-_verb_
-
-1.  To fill up a server with players that are in the same guild,
+    1.  Ex. "I almost got wiped in a gank—thank god I escaped!"
 
 ### Grip
 
@@ -139,7 +130,7 @@ _verb_
 _verb_
 
 1.  (invincibility frames) When a mantra or passive makes the user invincible to other players
-    1.  ex. The Talent Ghost gives you a few seconds of **I-frames** when you successfully dodge an attack.
+    1.  Ex. The Talent Ghost gives you a few seconds of **I-frames** when you successfully dodge an attack.
 
 ### Knock
 
@@ -160,8 +151,7 @@ _verb_
 _verb_
 
 1.  To perfectly block an attack by pressing the "F" key at the right time. There will be a large, yellow spark at the clash of your weapon and their attack. This will stun the opponent for an extremely short duration. Parrying will reduce your posture, negate damage, remove End-lag, and is the cornerstone of Deepwoken's combat system.
-
-1.  Ex. When **parry**ing NPCs, try not to move around in order to focus on your timing.
+    1.  Ex. "When **parry**ing NPCs, try not to move around in order to focus on your timing."
 
 ### Pdodge
 
@@ -181,7 +171,7 @@ _verb_
 _verb_
 
 1.  Going back to a player you died to previously, usually on a higher power slot, to rechallenge them
-    1.  Ex. Stay here imma spin back.
+    1.  Ex. "Stay here imma spin back."
 
 ### Spot Dodge
 
@@ -201,7 +191,7 @@ _verb_
 _verb_
 
 1.  The action of jumping into the void in layer 1 of the depths while above 75% hp, to avoid getting wiped by a mob or player.
-    1.  Ex. "Someone is attacking me, im gonna void_"_
+    1.  Ex. "Someone is attacking me, i'm gonna void"
 
 ### Whiff
 
@@ -212,7 +202,7 @@ _verb_
 
 ## Death Terms
 
-(terms having to do with the players lives, drowns, etc)
+(terms having to do with the player's lives, drowns, etc)
 
 ### Ascension/Ascend
 
@@ -262,13 +252,17 @@ _noun_
 
 _verb_
 
-1.  to check if you or someone else has enough resonance progress to unlock a [Resonance](Resonance.md) through dying, usually done alone by fall damage or with friends.
+1.  to check if you or someone else has enough resonance progress to unlock a [Resonance](Resonance.md) through dying, usually done alone by fall damage, in Layer 2 with a Light Hook, or with friends.
 
 ### Corrupted
 
 _adjective_
 
 1.  A special variant of a resonance which is rare to get, corrupted resonances are stronger than their normal variant but give a debuff apon activation.
+
+### Kamui
+
+1.  Nickname for the legendary [Dimension Travel](Dimensional_Travel.md) resonance. It is also a reference to Obito Uchiha's Kamui ability from Naruto Shippuden.
 
 ### Legendary
 
@@ -282,10 +276,6 @@ _noun_
 
 1.  Nickname for the the [Blood Scourge](Blood_Scourge.md) resonance, used to instantly execute any downed players, [enemies](Enemies.md) or [monsters](Monsters.md) in a small radius around where it was cast.
 
-### Kamui
-
-1.  Nickname for the legendary [Dimension Travel](Dimensional_Travel.md) resonance. It is also a reference to Obito Uchiha's Kamui ability from Naruto Shippuden.
-
 ### Yoru
 
 _noun_
@@ -294,36 +284,71 @@ _noun_
 
 ## Outside Combat
 
-### Log/Logging
-
-_verb_
-
-1.  To leave the game as fast as possible when not in combat, usually when being hunted by Voidwalkers and players alike.
-
 ### Drip
 
 _verb, noun_
 
 1.  The appearance of one's character. Usually used to describe characters that look particularly good
-    1.  Ex. This man's dripping out!
-    2.  Ex. Your drip doesn't look that good. Maybe you should try this out instead.
+    1.  Ex. "This man's dripping out!"
+    2.  Ex. "Your drip doesn't look (or isn't) that good. Maybe you should try this out instead."
 
 ### Hook
 
 _Verb_
 
 1.  To activate the Lighthook in The Eternal Gale and ascend back to Scyphozia.
-    1.  Ex. I got 2 minutes left. I’m hooking outta here!
+    1.  Ex. "I got 2 minutes left. I’m hooking outta here!"
 
-### Minmax
+### Log/Logging
 
-_Verb, Adjective_
+_verb_
 
-1.  To get the most optimal possible combination of talents and mantras in your build.
-    1.  Ex. My minmaxed PvE build can one-cycle [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)!
-    2.  Ex. I've wiped like 10 times while trying to minmax this build.
+1.  To leave the game as fast as possible when not in combat, usually when being hunted by Voidwalkers and players alike.
 
 ## Enemies / Monsters
+
+### Corrupted (Cursed)
+
+_adjective_
+
+1.  attribute; Possessing greater health and attack power than normal. Highlighted by the dark purple smoke/aura.
+    1.  Ex. "I got gripped by a **corrupted** [sharko](Megalodaunt.md)"
+
+Exclusive to [monsters](Monsters.md) found in [The Depths](The_Depths.md).
+
+### Croc / Crocodile
+
+_noun_
+
+1.  Refers to a [Thresher](Thresher.md).
+
+### Health pack
+
+_noun_
+
+1.  Refers to a player, NPC or Monster that is weak and only serves to replenish health when killed.
+2.  Examples depends on the context.
+    1.  If it's in the [First Layer](First_Layer.md) of the Depths, it refers to the [Gigamed](Gigamed.md) (Small version)
+    2.  If it's during the [Scion of Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
+3.  Being healed via knocking a player, humanoid, or killing a monster.
+
+### Jelly, Jellyfish
+
+_noun_
+
+1.  Refers to a [Gigamed](Gigamed.md). Also known as Health Packs to players strong enough to one-shot them.
+
+### Kaido
+
+_noun_
+
+1.  Refers to the [Dread Serpent](Dread_Serpent.md), the name comes from [Kaido](https://onepiece.fandom.com/wiki/Kaidou?so=search) from One Piece who has a similar appearance to the Dread Serpent in his dragon form.
+
+### Monkey / Monke
+
+_noun_
+
+1.  Refers to [Primadon](Primadon,_Titan_of_the_East.md).
 
 ### Sharko
 
@@ -337,62 +362,67 @@ _noun_
 
 1.  Refers to a [Nautilodaunt](Nautilodaunt.md).
 
-### Kaido
+## Build-Related Terms
+
+### Minmax
+
+_verb, adjective_
+
+1.  To get the most optimal possible combination of talents and mantras in your build.
+    1.  Ex. "I've wiped like 10 times while trying to minmax this build."
+    2.  Ex. "My minmaxed PvE build can one-cycle [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)!"
+
+### Mage
 
 _noun_
 
-1.  Refers to the [Dread Serpent](Dread_Serpent.md), the name comes from [Kaido](https://onepiece.fandom.com/wiki/Kaidou?so=search) from One Piece who has a similar appearance to the Dread Serpent in his dragon form.
+1.  A type of build that mainly focuses on empowering their Mantras and uses almost solely Mantras.
 
-### Jelly / Jellyfish
+### Post-Shrine
+
+_adjective_
+
+1.  Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
+    1.  Ex. "Is 60 strength postshrine good?"
+
+### Pre-Shrine, Pre
+
+_adjective_
+
+1.  Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
+    1.  Ex. "I always run 80 willpower preshrine"
+
+### Shrine
+
+_verb, noun_
+
+1.  To use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), a [Deep Shrine](Deep_Shrines.md) commonly used in builds for its ability to take away and redistribute the player's stats after having spent them on Talents or Mantras with high stat requirements while keeping those Talents or Mantras, allowing for the player to save points to be invested into other stats.
+    1.  "Is it ok to shrine at power 14?"
+2.  Shorthand for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+
+[Deep Shrines](Deep_Shrines.md) other than the Shrine of Order are always referred to with their full name.
+
+### Trackstar
 
 _noun_
 
-1.  Refers to a [Gigamed](Gigamed.md). Also known as Health Packs to players strong enough to one-shot them.
+1.  A type of build using the [Jetstriker](Oath%253A_Jetstriker.md) Oath that specializes in movement speed, either to run away from opponents in PvP or to make traversal across the game faster.
+    1.  Ex. "I hate trackstar builds, they're so annoying!!!"
 
-### Croc / Crocodile
+### Sustain
+
+_adjective_
+
+1.  How much healing a build has, or how long it can last in a fight (usually one on one). Does not include tankiness. Sustain can be defined as Bloodless Gems, Flame Wisp, Potions, and other aspects of healing mid-combat without campfires or Graceful Flame.
+    1.  "My Linkstrider build has so much sustain it's crazy"
+
+### Chase (Obscure)
 
 _noun_
 
-1.  Refers to a [Thresher](Thresher.md).
-
-### Monkey / Monke
-
-_noun_
-
-1.  Refers to the [Primadon](Primadon,_Titan_of_the_East.md).
-
-### Health pack
-
-noun
-
-1.  Refers to a player, NPC or Monster that is weak and only serves to replenish health when killed.
-2.  Examples depends on the context.
-    1.  If it's in the [First Layer](First_Layer.md) of the Depths, it refers to the [Gigamed](Gigamed.md) (Small version)
-    2.  If it's during the [Scion of Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
-3.  Being healed via knocking a player, humanoid, or killing a monster.
+1.  How much mobility/anti-mobility a build has, usually for chasing people and stopping them from running away. examples of chase Talents and Mantras are: Revenge, Encircle, Pursuit, Crippling Comeuppance, etc.
 
 ## Acronyms/Short Forms
-
-### HVY
-
-_noun_
-
-1.  Heavy weapons [attribute](Attributes.md#heavy-weapons) (skill).
-    1.  Ex. The Enforcer's Axe requires 75 HVY to wield.
-
-### LHT
-
-_noun_
-
-1.  Light weapon [attribute](Attributes.md#light-weapons) (skill).
-    1.  Ex. The Krulian Knife requires 60 LHT to wield.
-
-### MED
-
-_noun_
-
-1.  Medium weapons [attribute](Attributes.md#medium-weapons) (skill).
-    1.  Ex. The Shattered Katana requires 90 MED to wield.
 
 ### AGL
 
@@ -401,29 +431,33 @@ _noun_
 1.  Agility [attribute](Attributes.md#agility) (skill)
 2.  Some refer to this stat as **AGI** instead.
 
-### PEN
+### BMing
+
+_adjective_
+
+1.  **B**lack-**M**arket**ing**, it is the action of trading in-game items for out-of game (Real life counts too).
+    1.  Ex. "Yo, gimme a curved (**CBOW** or **C**urved **B**lade **O**f **W**inds) and ama give you 1200 Robux."
+
+BMing or black-marketing is a very strictly prohibited thing, do not risk your account for something you can get yourself or earn for (In-game).
+
+### CBOW
 
 _noun_
 
-1.  Armor penetration.
-    1.  Ex. The Curved Blade of Wind has 35% PEN, meaning it penetrates 35% of a player's armor value.
+1.  Short form for [Curved Blade of Winds](Curved_Blade_of_Winds.md), a legendary weapon for the [Galebreathe](Galebreathe.md) Attunement
 
-### Clog
+### Clog/Combat Log
 
 _verb (Read as "c-log")_
 
-1.  A short term for leaving or disconnecting while you are in combat, making you automatically "killed" by the player/mob that granted you the combat tag.
-    1.  Ex. This guy clogged while we were fighting, probably because of his wifi. He has good loot though.
+1.  A short term for Combat Log - leaving or disconnecting while you are in combat. Doing this will automatically make you be "killed" by the player/mob that granted you the combat tag.
+    1.  "Ex. "This guy clogged while we were fighting, probably because of his wifi. He has good loot though."
 
-Not to be confused with the verb outside of Deepwoken _to clog_.
-
-To assure you are not combat logging, always use the door button on the top left of your screen that also makes your character despawn the moment you click.
+Not to be confused with the verb outside of Deepwoken _to clog_. To assure you are not combat logging, always use the door button on the top left of your screen that also makes your character despawn the moment you click.
 
 ### Ctag
 
-_(Read as "c-tag")_
-
-_verb_
+_(Read as "c-tag")_ _verb_
 
 1.  A short term for combat tagging a player to prevent them from leaving the game, forcing them to fight or run from by the tagger.
     1.  Ex. "Let me ctag him real quick."
@@ -436,25 +470,19 @@ _noun_
 
 Referring to the loading screen's tip, you can say "my bad \[name\]" to remove combat tag from the respective player. For lazy players, you can say "mb all" to remove all combat tags from everyone you have tagged.
 
-### Run 1
-
-_adjective_
-
-1.  Short form of "Do a 1v1". 1v1s refer to the act of sparring another player with or without murderous intent. This phrase= mostly indicates friendly spars
-    1.  Ex. Yo bro can we run a 1?
-
 ### DvM
 
 _noun_
 
 1.  Short form of Damage versus Monsters. An attribute that increases your damage towards PvE by percentage stated.
-    1.  Ex. There is a possibility where a player can reach 60% DvM in a build
+    1.  Ex. "There is a possibility that a player can reach 60% DvM in a build"
 
-### CBOW
+### HVY
 
 _noun_
 
-1.  Short form for [Curved Blade of Winds](Curved_Blade_of_Winds.md), a legendary weapon for the [Galebreathe](Galebreathe.md) Attunement
+1.  Heavy weapons [attribute](Attributes.md#heavy-weapons) (skill).
+    1.  Ex. The Enforcer's Axe requires 75 HVY to wield.
 
 ### LFT
 
@@ -462,20 +490,51 @@ _noun_
 
 1.  Short form for [Light's Final Toll](<Light's_Final_Toll.md>), a Fist weapon scaling off Willpower
 
+### LHT
+
+_noun_
+
+1.  Light weapon [attribute](Attributes.md#light-weapons) (skill).
+    1.  Ex. The Krulian Knife requires 75 LHT to wield.
+
+### MED
+
+_noun_
+
+1.  Medium weapons [attribute](Attributes.md#medium-weapons) (skill).
+    1.  Ex. The Shattered Katana requires 90 MED to wield.
+
+### PEN
+
+_noun_
+
+1.  Armor penetration.
+    1.  Ex. The Curved Blade of Wind has 15% PEN, meaning it penetrates 15% of a player's armor value.
+
+### RA
+
+_noun_
+
+1.  Short form for Reinforced Armor, A Talent that reduces all incoming PEN by 40%.
+
+### Run a 1/Run 1's
+
+_verb_
+
+1.  Short form of "Do a 1v1". 1v1s refer to the act of sparring another player with or without murderous intent. This phrase mostly indicates friendly spars
+    1.  Ex. "Yo bro can we run 1s?"
+
 ### SK
 
 _noun_
 
 1.  Short form for [Shattered Katana](Shattered_Katana.md), an upgraded version of the Katana that requires 90 MED to be used
 
-### BMing
+### T1, T2, T3
 
-_adjective_
+_noun_
 
-1.  **B**lack-**M**arket**ing**, it is the action of trading in-game items for out-of game (Real life counts too).
-    1.  Ex. Yo, gimme a curved (**CBOW** or **C**urved **B**lade **O**f **W**inds) and ama give you 1200 Robux.
-
-BMing or black-marketing is a very strictly prohibited thing, do not risk your account for something you can get yourself or earn for (In-game).
+1.  Tier 1, 2 or 3 of [Insanity](Insanity.md), each tier causing increasingly severe negative effects.
 
 ## For Editors
 
