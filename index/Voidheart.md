@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 120509
+revid: 127348
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, Etrean Luminant, Origins, The Knives of Eylis]
@@ -38,7 +38,7 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
 -   [The Voidmother](The_Voidmother.md)
     -   Wake the player up from the dream, taking them to where they last used their Voideye.
         -   Spawns in [Lower Erisia](Lower_Erisia.md) the first time.
-        -   Does not work in PvP combat.
+        -   Spawns a wormhole for others to follow if used in PvP combat.
 -   [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md)
     -   Leader of the Knives of Eylis, she explains the role the voidwalkers, her relationship with the Voidmother and lets the player join the Knives of Eylis guild.
 -   [Antiquarian](Antiquarian.md), as well as General/Mantra Shop items

@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 126909
+revid: 127332
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]

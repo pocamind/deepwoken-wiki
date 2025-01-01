@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 127236
+revid: 127329
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -176,6 +176,6 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 -   It used to spawn corrupted with low chance, This is restorable as it's not intended.
 -   It is unclear if the Heart of Enmity is the physical form of the [Voice of Enmity](Voices_of_the_Depths.md), or just a stronger monster variant used in the trial. However due to the dialogue given after defeating the boss, it implies that the creature is a physical form of the Voice of Enmity (as opposed to the other conjurations).
 -   Their summons are internally referred to as ".enmity\_enforcer\_WEAPON"
--   There was a bug that could instakill/void the boss by hitting the back of its neck with rising thunder or rising gale. It is unknown why this happens as there doesn't seem to be a logical reasoning behind this bug.
+-   There was a bug that could instakill/void the boss by hitting the back of its neck with Rising Thunder or Rising Gale, as it would teleport it far outside the confines of the arena, upon which it would die.
 -   The Heart of Enmity possess 65% oath damage resistance.
 -   The Heart of Enmity is immune to all enchantments, this includes armour. Have fun.

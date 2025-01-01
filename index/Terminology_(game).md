@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 122495
+revid: 127344
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -262,7 +262,7 @@ _noun_
 
 _verb_
 
-1.  to check if you or someone else has enough resonance progress to unlock a [Resonance](Resonance.md), usually done alone by fall damage or with friends.
+1.  to check if you or someone else has enough resonance progress to unlock a [Resonance](Resonance.md) through dying, usually done alone by fall damage or with friends.
 
 ### Corrupted
 

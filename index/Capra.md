@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 124593
+revid: 127333
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Moonseye]
@@ -120,7 +120,7 @@ A Capra named [Ezra](Ezra.md) in Songseeker Wilds gives you a quest to defeat th
 
 ## Gallery
 
-### Masks/Adornments
+### Removed Masks
 
 These are no longer in the game as of 1/22/2023.
 

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 125575
+revid: 127334
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -326,8 +326,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   Buying echo modifiers will apply their effects to previously created slots.
 -   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with vow of thorns AND dealbreaker, it will still do this for unknown reasons.
 -   The term "ironwoken" is reminiscent of the "ironman" mode in RuneScape, preventing trading among other restrictions.
-    -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester.
--   The term "One Bit" could possibly be a reference to One Piece, in which Devil Fruit users are unable to swim.
+    -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester
 -   The four Weapons from "Advanced Weapons" are obtained in linear order through purchases listed below:
     -   The [Quickfang](Quickfang.md) Rapier,
     -   The [Irontusk](Irontusk.md) Spear,

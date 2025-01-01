@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 127328
+revid: 127331
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -58,8 +58,8 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
  | The Ferryman will spin around and summon two clones of himself, and does this twice, summmoning four clones in total. They run up to nearby players and slash at them before quickly disappearing.
 
 -   Lightning Clones will not disappear unless their attack either lands, gets blocked, parried, or dodged.
--   He only uses Lightning Clones in Phase 1.
--   He may be attacked while summoning the clones, but there is no ending attack opportunity.
+-   He only uses Lightning Clones in phase one, superseded by Grand Volley in phase two.
+-   He grants an attack opportunity whilst summoning his clones, but there is no ending attack opportunity afterward. This attack opportunity duration is shared with Grand Volley.
 -   Killing the clone while having the Grand Feast Talent will replenish health, ether and tempo.
 
 Parryable:◯  
@@ -73,12 +73,12 @@ Dodgeable:◯
 (★☆☆)  
 (★★☆)
 
- | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing high damage and an incredibly long stun to anybody hit.
+ | The Ferryman spins around, triggering a long attack opportunity while raining down multiple bolts of thunder from the skies upon the battlefield, dealing high damage and an incredibly long stun to anybody hit.
 
 -   Targets the area relative to your player and it's movement, however, if the player is moving, he will only attempt to strike in-front of the player, and as such this move is avoidable by going to the sides or backwards.
--   Becomes much faster in Phase 2.
+-   Becomes much faster in his second phase.
 -   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
--   The attack opportunity lasts for around one second in phase 1, while it lands around three in phase 2, not counting hitting him during the move.
+-   Due to the attack being faster in the second phase, a much "longer" attack opportunity will be given afterward.
 
 Parryable:◯  
 Blockable:◯  
@@ -94,8 +94,9 @@ Dodgeable:◯
  | The Ferryman teleports directly in front of the player, before using a stronger version of the Lightning Assault mantra. He uses this attack three times before stopping, always attacking from the player's facing direction, then left, then right.
 
 -   The frequency of the attacks is typically fixed, but The Ferryman will occasionally cast this at a much more rapid pace if he is placed next to, or in a wall by the previous Lightning Assault.
--   Becomes much faster in Phase 2. However, this causes the second assault to be impacted by Auto-Parry frames, requiring only two parries instead of the initial three.
--   Parrying all 3 attacks prevents him from beginning another attack after, allowing the player to get in damage. If this attack is not fully parried, you will not get an attack opportunity, even if the damage was otherwise mitigated.
+-   Becomes much faster in phase two. However, this causes the second assault to be impacted by auto-parry frames, requiring only two parries instead of the initial three.
+-   The Ferryman has auto-parry frames during this attack, nullifying any hits that may be about to hit him while executing Lightning Assault.
+-   Parrying any of these hits after two parries of the Ferryman's attacks in quick succession, including via. previous failed instances of this attack, will grant an attack opportunity. Otherwise, gives no attack opportunity.
 
 Parryable:◯  
 Blockable:◯  
@@ -109,10 +110,10 @@ Dodgeable:◯
 
  | The most dangerous attack in the Ferryman's arsenal, he fires four, much slower, purple grand javelins at any player within the arena, a simple movement to any direction not directly towards the ferryman will result in a dodge. Each javelin hit does an estimated 150 damage, but is affected by mantra, monster, and thunder resistance.
 
--   He only uses this attack in Phase 2.
+-   He only uses this attack in phase two, replacing his Lightning Clones attack.
 -   Can be dodged by simply running anywhere but directly at The Ferryman.
--   High posture damage.
--   Occasionally allows for a brief attack opportunity afterward, should all four javelins be parried. This opportunity is usually indicated by the Ferryman spinning after the attack.
+-   Has insanely high posture damage, almost always resulting in an instant guard-break.
+-   In a similar manner to his Lightning Assault attack, the Ferryman will give a (although much briefer) attack opportunity should any of these javelins be parried following _four_ successful parries—this requires this attack to be chained more than once, an intentionally failed Lightning Assault for one to two recent parries, or multiple players parrying at once. Otherwise, gives no attack opportunity.
 
 Parryable:◯  
 Blockable:◯  
@@ -162,7 +163,7 @@ The Ferryman can prove a tough boss for new-comers, while being extremely easy f
 
 -   Campfires may prove incredibly helpful, as due to the Ferryman only attacking after either a prolonged period, or whenever he displaces himself, it's incredibly easy to rest and heal a bar of health with only two or three attacks parried.
 -   Remain calm doing this boss, as the less hits you take, the more damage you will deal due to his Inverse Chain.
--   His moves are all **INCREDIBLY** loud and telegraphed, turning up your volume will allow you to hear any attacks you may be unable to see.
+-   His moves are all **INCREDIBLY** loud and telegraphed, turning up your volume will allow you to hear any attacks you may be unable to see. In almost all cases, the moments he grants the player an attack opportunity are telegraphed with a spin, although the duration will vary from attack to attack.
 -   Make sure to sell or store items in your inventory; You will be surprised how much the speed debuff of being overencumbered can hurt.
     
 
