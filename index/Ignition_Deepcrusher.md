@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 127393
+revid: 127434
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -18,7 +18,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weap
 | swing speed | 1.05x |
 | penetration | 20% |
 | special effect | Can switch between 2 types of weapons., 2 handed: on hit, apply a metal rod and deal blunt damage., 1 handed: gain Bleed damage and deal slash damage. |
-| weight | 4 |
+| weight | 8 (Club)/4 (Sword) |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -35,7 +35,7 @@ This weapon has 1 passive by default:
 
 -   While used with 2 hands, this weapon is a Club dealing blunt damage and applying a [Metal Rod](Status_Effects.md) per M1. This is best suited for playstyles centered around applying and taking advantage of metal rods also compared to sword has 8 weight
 
--   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains the ability to deal bleed damage, increasing its damage by 30%. This stance is meant to be used if you are looking for pure damage at the expense of utility and posture dmg (from 8 to 4)
+-   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains the ability to deal bleed damage, increasing its damage by 30%. This stance is meant to be used if you are looking for pure damage at the expense of utility and posture dmg (from 8 to 4), also gains extra swingspeed compared to club.
 
 At 100 MED and 100 MTL, this weapon deals 27.5 damage while in Club form, and 35.7 (27.5 + 8.2 BLEED) damage while in Sword form.
 
@@ -43,8 +43,9 @@ At 100 MED and 100 MTL, this weapon deals 27.5 damage while in Club form, and 35
 
 The user stabs their weapon into the floor, causing a metal eruption of spikes to surround the player. Both the shove and the spike eruption deal stun and damage. If the shove is parried, no autoparry frames will be given for the spike eruption, and the eruption will not be cancelled. This shares similarities with the critical effects of the [Hero Blade of Flame](Hero_Blades.md) and the [First Light](First_Light.md) (excluding the sword rain aspect).
 
--   Bleed applied on all 3 hits of Deepcrusher's crit, doesn't matter what stance (1h or 2h)
--   Procs artisan's blade at any Deepcrusher attack (sword or club, crit or m1)
+-   Bleed applied on all 3 hits of Deepcrusher's crit, doesn't matter what stance (1H or 2H)
+-   Procs artisan's blade at any Deepcrusher attack (Sword version or Club, crit or M1)
+-   Posture dmg of crit depends on stance, does 15 as sword version and 16.5 as club.
 
 ## Trivia
 

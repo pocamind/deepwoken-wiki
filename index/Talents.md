@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127169
+revid: 127394
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -582,7 +582,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Underdog \[Common Talent\] - You deal 3% more damage to those with higher HP than you. Additionally, you deal +10% more damage to physically larger foes.
     -   "Higher HP" refers to current HP.
-    -   "Larger foes" refers to non-humanoid NPC. (Ex. Megalodaunts, Threshers, Deep Owls)
+    -   "Larger foes" refers to non-humanoid NPC. (Ex. Megalodaunts, Threshers, Deep Owls, Ethiron)
     -   Prerequisite: 40 Willpower
     -   This was merged with the old Giantslayer Talent.
 
