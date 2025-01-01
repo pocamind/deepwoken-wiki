@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 127211
+revid: 127385
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
@@ -47,3 +47,4 @@ Both criticals share the cooldown of **8 seconds**.
 -   A Kanabō, meaning "metal stick," was a weapon used in feudal Japan. The variant seen in _Deepwoken_ more closely resembles exaggerated depictions seen in mythological and fictional works wielded by _[Oni](https://en.wikipedia.org/wiki/Oni)_, Japanese demons.
 -   The weapon normal attack matches that of a greatsword.
 -   Max damage with 100 STR and 100 HVY does 52.5 damage with max proficiency.
+-   Splendiferous with detonation.

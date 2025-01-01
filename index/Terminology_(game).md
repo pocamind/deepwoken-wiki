@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 127375
+revid: 127390
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -450,7 +450,7 @@ _noun_
 
 _verb (Read as "c-log")_
 
-1.  A short term for Combat Log - leaving or disconnecting while you are in combat. Doing this will automatically make you be "killed" by the player/mob that granted you the combat tag.
+1.  A short term for Combat Log - leaving or disconnecting while you are in combat. Doing this will automatically make you be "killed" by the player/mob that granted you the combat tag. This is separate from logging in that it's specifically related to logging during combat.
     1.  "Ex. "This guy clogged while we were fighting, probably because of his wifi. He has good loot though."
 
 Not to be confused with the verb outside of Deepwoken _to clog_. To assure you are not combat logging, always use the door button on the top left of your screen that also makes your character despawn the moment you click.

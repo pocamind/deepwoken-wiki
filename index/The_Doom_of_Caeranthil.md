@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 127354
+revid: 127382
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -100,7 +100,7 @@ Dodgeable:✗
  | The Doom starts swimming in a circle before creating a massive whirlpool that continuously does massive damage and trapping enemies inside.
 
 Parryable:✗  
-Blockable:✗  
+Blockable:◯  
 Dodgeable:✗
 
  |  |
