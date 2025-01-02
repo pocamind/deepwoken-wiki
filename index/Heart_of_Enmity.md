@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 127329
+revid: 127559
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -179,3 +179,4 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 -   There was a bug that could instakill/void the boss by hitting the back of its neck with Rising Thunder or Rising Gale, as it would teleport it far outside the confines of the arena, upon which it would die.
 -   The Heart of Enmity possess 65% oath damage resistance.
 -   The Heart of Enmity is immune to all enchantments, this includes armour. Have fun.
+-   Before the World Events update, which added the boss, going to the trial with 5 or more people at once initiates a battle royale between all of the participants.

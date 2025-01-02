@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 119692
+revid: 127562
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aelita (Crimson, Mist, Gold), Aratel Island (Pale), Primadon (Pale), Rogue Construct (Pale), Calamus (Pale), Cloaked Assassins (Crimson, Gold), The Ferryman (Winter Only. Crimson, Mist, Gold.) |
+| obtainment | Aelita (Crimson, Mist, Gold), Aratel Island (Pale), Primadon (Pale), Rogue Construct (Pale), Calamus (Pale), Cloaked Assassins (Crimson, Gold), The Ferryman (Winter Only. Crimson, Mist, Gold.), Carnival of Hearts (Crimson, Mist and Gold) |
 | description | "..." |
 
 ## Description

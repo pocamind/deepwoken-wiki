@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127490
+revid: 127564
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -114,8 +114,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Also affect players with no outfit (Stranded Outfit)
     -   Prerequisite: 60 Ironsing
 
--   _An Ironsinger's Instinct_ \[Rare Talent, Ironsing Exclusive\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
-    -   Successful procs will color the user temporarily grey/gold depending on if user has Gilded path or not.
+-   _An Ironsinger's Instinct_ \[Rare Talent, Ironsing Exclusive\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken. 18s CD
+    -   Reduces DMG by 60% and lasts for 2 seconds.
     -   Prerequisite: 75 Ironsing
 
 -   _Phantom Edge_ \[Rare Talent, Ironsing Exclusive\] - Your weapon M1's have +0.25 range.
@@ -1181,6 +1181,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I use the winds to enforce my will."**_
 
 -   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead.
+    -   The Galebreath mantras that only benefit from the 5% damage increase are: Wind Blade, Air Force, Tornado Kick, Tornado, Gale Trap and Wind Gun.
     -   Prerequisites: 40 Galebreathe
 
 -   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.
@@ -3041,7 +3042,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"Uh..."**_
 
--   Berserker \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
+-   Berserker \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. **(not work on pve)** (+10 Carry Load)
     -   Prerequisites: 35 Fortitude, 30 Strength
 
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)
