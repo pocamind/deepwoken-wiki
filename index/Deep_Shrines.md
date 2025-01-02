@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 127473
+revid: 127532
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -34,13 +34,13 @@ For 5 Knowledge, instantly Power Up 3 times, gaining the relevant amount of Tale
 
 For 1 Knowledge, trade 1 of your Trait Points into another Trait. You can also remove attribute points.
 
-Trade a Talent of your choice and 5 Knowledge to perform a Talent Draw with 3 cards.
+Trade a Talent of your choice and 5 Knowledge to perform a Talent Draw with up to 3 cards of the same rarity. (Common = Advanced)
 
 [Shrine of Order](Deep_Shrines/Shrine_of_Order.md)
 
 [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md)
 
-For 10 Knowledge, balance your stats (up to a limit\*), but gain a random Flaw. Can only be done once per character.
+For 10 Knowledge, balance your stats (up to a limit of -25 points on main stats, with no limit on attunement stats,) but gain a random Flaw. Can only be done once per character.
 
 For 10 Knowledge, transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
 

@@ -1,11 +1,9 @@
 ---
 title: Light Eater Ring
-revid: 127017
+revid: 127536
 source: https://deepwoken.fandom.com/wiki/Light_Eater_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Rings, The Divers]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Rings]
 ---
 
 # Light Eater Ring
@@ -22,9 +20,9 @@ notices:
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | N/A |
-| description | Taking damage from fire or lightning will cause you to regenerate ether. |
+| obtainment | Chests from:, Duke Erisia, Primadon, First Layer, Maestro Evengarde Rest, War Mode, Dread Serpent, Drops from:, Frostdraw Trainer |
+| description | "Taking damage from fire or lightning will cause you to regenerate ether." |
 
 ## Description
 
-Light Eater Ring causes the user to regenerate ether upon taking damage from [Flamecharm](Flamecharm.md) mantras, or [Thundercall](Thundercall.md) mantras, or burn. The ether regeneration scales on damage taken. The user must be at Power 3 to equip this ring.
+**Light Eater Ring** causes the user to regenerate ether upon taking damage from [Flamecharm](Flamecharm.md) mantras, or [Thundercall](Thundercall.md) mantras, or burn. The ether regeneration scales on damage taken. The user must be at Power 3 to equip this ring.

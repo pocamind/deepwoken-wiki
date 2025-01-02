@@ -1,11 +1,9 @@
 ---
 title: Windmill Ring
-revid: 127012
+revid: 127538
 source: https://deepwoken.fandom.com/wiki/Windmill_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Rings, The Divers]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Rings]
 ---
 
 # Windmill Ring
@@ -22,9 +20,9 @@ notices:
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | N/A |
-| description | N/A |
+| obtainment | Chests from:, First Layer, Primadon, Duke Erisia, Maestro Evengarde Rest, Dread Serpent |
+| description | "Taking damage from ice or wind will cause you to regenerate ether." |
 
 ## Description
 
-Windmill Ring causes the user to regenerate ether while taking damage from [ice](Frostdraw.md) or [wind](Galebreathe.md) mantras. The user must be at Power 3 to equip the ring.
+**Windmill Ring** causes the user to regenerate ether upon taking damage from [Frostdraw](Frostdraw.md) mantras, or [Galebreathe](Galebreathe.md) mantras. The ether regeneration scales on damage taken. The user must be at Power 3 to equip this ring.

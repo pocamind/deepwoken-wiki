@@ -1,9 +1,9 @@
 ---
 title: Chorus of Agonies
-revid: 127468
+revid: 127537
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Weapons with Unique Criticals, InProgressPages, Unique Critical]
+categories: [Weapons, Greataxes, Weapons with Unique Criticals, Unique Critical]
 ---
 
 # Chorus of Agonies

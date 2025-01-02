@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 115943
+revid: 127521
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -38,3 +38,5 @@ This Outfit's Schematic can be found in:
 -   Oddly enough, given the name, you can see Karliah wearing this Outfit after completing [her quest](Etris.md#diver-escort-quest).
 -   Used to be called "DawnBringer" long ago, some people might still have the schematic with such name.
 -   You can obtain this from Primadon, although it is extremely rare.
+-   Shirt: [https://www.roblox.com/catalog/5738141407/Dawn-Bringer](https://www.roblox.com/catalog/5738141407/Dawn-Bringer)
+-   Pants: [https://www.roblox.com/catalog/5738143153/Dawn-Bringer-Pants](https://www.roblox.com/catalog/5738143153/Dawn-Bringer-Pants)

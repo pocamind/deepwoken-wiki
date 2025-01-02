@@ -1,11 +1,9 @@
 ---
 title: Ring of Curses
-revid: 127024
+revid: 127540
 source: https://deepwoken.fandom.com/wiki/Ring_of_Curses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Rings, The Divers]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Rings]
 ---
 
 # Ring of Curses
@@ -22,8 +20,8 @@ notices:
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | N/A |
-| description | N/A |
+| obtainment | Chests from:, Etrea VS Eylis Sea Event, Primadon, Deep Widow, First Layer, Duke Erisia, Maestro Evengarde Rest, Chaser |
+| description | "You come across mortal encounters more frequently." |
 
 ## Description
 

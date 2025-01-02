@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 127325
+revid: 127522
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -33,3 +33,5 @@ This Outfit's Schematic can be found in:
 
 -   Used to be worn by the [Celtorian Guard](Celtorian_Guard.md).
 -   Unbeknownst to many, Crystal Lenses and Cloudstones, when crafted, result in a Glass Stone which is what you need 5 of in order to craft this armor, making it nearly as simple to craft as the Traveler's Cloak series which require only 10 Notes and 1 Cloth.
+-   Shirt: [https://www.roblox.com/catalog/4908561545/Duke-of-Battle](https://www.roblox.com/catalog/4908561545/Duke-of-Battle)
+-   Pants: [https://www.roblox.com/catalog/4908563352/Duke-of-Battle-Pants](https://www.roblox.com/catalog/4908563352/Duke-of-Battle-Pants)

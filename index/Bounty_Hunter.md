@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter
-revid: 127324
+revid: 127519
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -34,3 +34,5 @@ This outfit can be found in:
 ## Trivia
 
 -   This is the outfit worn by both [Bandit Leaders](Bandit_Leader.md) and [Cloaked Assassins](Cloaked_Assassin.md).
+-   Shirt: [https://www.roblox.com/catalog/5707040848/Sophisticated-Assassin-Top-3-0](https://www.roblox.com/catalog/5707040848/Sophisticated-Assassin-Top-3-0)
+-   Pants: [https://www.roblox.com/catalog/5707068760/Sophisticated-Assassin-Pants-3-0](https://www.roblox.com/catalog/5707068760/Sophisticated-Assassin-Pants-3-0)

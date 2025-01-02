@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 124908
+revid: 127550
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -15,9 +15,9 @@ Players can be family members with each other with the [character creation](Char
 Having certain traits can make you someone else's relative. The chance to be relative to someone else is RNG, but it has requirements.
 
 -   Cousin - Same variant of the same aspect, most common relative
--   Sister/Brother - Same variant of the same aspect, same last names.
+-   Sister/Brother - Same variant of the same aspect, same last names, born on a different date.
 -   Sibling - Same requirements as sister / brother, but the relative must be represented as gender neutral.
--   Twin - Same last names, same racial variant, similar age.
+-   Twin - Same last names, same racial variant, same age.
 -   Juvenile - Same variant of the same aspect, must be 20 years younger than your relative
 -   Elder - Same variant of the same aspect, must be 20 years older than your relative
 -   Nephew/Niece/Nibling - Same variant of the same aspect, same last names, must be 20 years younger than your relative

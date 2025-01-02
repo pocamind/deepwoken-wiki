@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 127281
+revid: 127548
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, Etrea, World Event]
@@ -29,3 +29,7 @@ It gives the "Action Surge" [Talent](Talents.md), which gives you an extra 0.04 
 This Outfit's Schematic can be found at:
 
 -   [Interluminary Parasol](Interluminary_Parasol.md) (Chest)
+
+## Trivia
+
+-   Despite this outfit being Master rarity, it is undroppable.

@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 127326
+revid: 127526
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -40,3 +40,5 @@ This Outfit's schematic can be found in:
 ## Trivia
 
 -   Pairs well visually with "Brace" type [Equipment](Equipment.md), due to its off the shoulder nature.
+-   Shirt: [https://www.roblox.com/catalog/5899129258/Radiant-Adventurer](https://www.roblox.com/catalog/5899129258/Radiant-Adventurer)
+-   Pants: [https://www.roblox.com/catalog/5899132202/Radiant-Adventurer-Pants](https://www.roblox.com/catalog/5899132202/Radiant-Adventurer-Pants)

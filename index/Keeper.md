@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 127321
+revid: 127524
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -29,3 +29,8 @@ This Outfit's Schematic can be found in:
 -   [Fishing](Fishing.md) (Chest)
 -   [The Depths](The_Depths.md)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+
+## Trivia
+
+-   Shirt: [https://www.roblox.com/catalog/4854403161/Battle-Mage-Shirt](https://www.roblox.com/catalog/4854403161/Battle-Mage-Shirt)
+-   Pants: [https://www.roblox.com/catalog/4854440315/Battle-Mage-Pants](https://www.roblox.com/catalog/4854440315/Battle-Mage-Pants)

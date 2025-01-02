@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 127322
+revid: 127520
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -30,3 +30,8 @@ This Outfit's Schematic can be found in:
 
 -   [Etris](Etris.md), behind the food shop.
 -   Beginner to mid-game Chests.
+
+## Trivia
+
+-   Shirt: [https://www.roblox.com/catalog/5202212399/Flame-Worshiper](https://www.roblox.com/catalog/5202212399/Flame-Worshiper)
+-   Pants: [https://www.roblox.com/catalog/5202213342/Flame-Worshiper-Pants](https://www.roblox.com/catalog/5202213342/Flame-Worshiper-Pants)
