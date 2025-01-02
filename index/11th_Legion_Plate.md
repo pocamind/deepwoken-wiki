@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 127300
+revid: 127477
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Hundred Legions]
@@ -32,3 +32,8 @@ This Outfit's Schematic can be found in:
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Deep Widow](Deep_Widow.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
+
+## Trivia/Notes
+
+-   Shirt: [https://www.roblox.com/catalog/6026296409/Achilles-Armor-2-0](https://www.roblox.com/catalog/6026296409/Achilles-Armor-2-0)
+-   Pants: [https://www.roblox.com/catalog/6026297770/Achilles-Armor-Pants-2-0](https://www.roblox.com/catalog/6026297770/Achilles-Armor-Pants-2-0)

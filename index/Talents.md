@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127394
+revid: 127490
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1859,7 +1859,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Will drain ether when in use under power 20. (ether drain scales on level)
     -   Deactivated when having 0% ether, or upon using Ardour scream.
     -   Increase outgoing M1 posture damage by 15% and reduce incoming posture damage by 15%
-    -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md), or talk with the [Old Stranger](Old_Stranger.md).
+    -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md), [The Doom Of Caeranthil](The_Doom_of_Caeranthil.md), or talk with the [Old Stranger](Old_Stranger.md).
 
 -   _**[Murmur: Rhythm](Murmur%253A_Rhythm.md)**_ _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
     -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
@@ -2078,7 +2078,7 @@ _**"My cure is most effective."**_
 -   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
     -   Prerequisite: 40 Strength
 
--   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits
+-   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Like Ether Overdrive, removes 50% mantra and physical PEN cap.
     -   Prerequisites: 90 Strength, All Rampaging Brute Talents
     -   Mutual Exclusive: Ether Overdrive
@@ -2224,6 +2224,7 @@ _**"My cure is most effective."**_
     -   Deals 10 DMG per blade, this damage cannot be resisted by armor, but can be resisted by general resistances.
     -   Hits from Artisan's Blades do not drain armor from enemy.
     -   Artisan's Blades do not benefit from Exposed Durability's damage buff.
+    -   4.5 posture per blade.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Songs Unforged \[Common Talent, Ironsing Exclusive\] - Your weapon criticals will now activate scrapsinger.

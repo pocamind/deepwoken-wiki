@@ -1,11 +1,9 @@
 ---
 title: Deep Shrines
-revid: 127431
+revid: 127473
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, NPCs, Mechanics]
-notices:
-  - "This page is currently undergoing a rework. Some things may be incomplete, missing, or unusable. (it should be fixed up in about an hour)"
+categories: [NPCs, Mechanics]
 ---
 
 # Deep Shrines
@@ -26,23 +24,41 @@ notices:
 
 [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)
 
+Trade a Mantra of your choice and 5 Knowledge to gain a Whisper Draw.
+
+For 5 Knowledge, instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws, Or reroll a Flaw of your choice into another, random Flaw.
+
 [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md)
 
 [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md)
+
+For 1 Knowledge, trade 1 of your Trait Points into another Trait. You can also remove attribute points.
+
+Trade a Talent of your choice and 5 Knowledge to perform a Talent Draw with 3 cards.
 
 [Shrine of Order](Deep_Shrines/Shrine_of_Order.md)
 
 [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md)
 
+For 10 Knowledge, balance your stats (up to a limit\*), but gain a random Flaw. Can only be done once per character.
+
+For 10 Knowledge, transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
+
 [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md)
 
 [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)
+
+For 1 Knowledge, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
+
+For 5 Knowledge and a Mantra of your choice, obtain a Roll 2.
 
 [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md)
 
 [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)
 
-  
+For 5 Knowledge and 2 Talents of your choice, get a Whisper Draw.
+
+This shrine acts like a Mystic, allowing you to affect your card draws.
 
 ## Trivia
 

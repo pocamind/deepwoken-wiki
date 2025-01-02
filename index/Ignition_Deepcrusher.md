@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 127434
+revid: 127481
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -35,15 +35,19 @@ This weapon has 1 passive by default:
 
 -   While used with 2 hands, this weapon is a Club dealing blunt damage and applying a [Metal Rod](Status_Effects.md) per M1. This is best suited for playstyles centered around applying and taking advantage of metal rods also compared to sword has 8 weight
 
--   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains the ability to deal bleed damage, increasing its damage by 30%. This stance is meant to be used if you are looking for pure damage at the expense of utility and posture dmg (from 8 to 4), also gains extra swingspeed compared to club.
+-   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains the ability to deal bleed damage, increasing its damage by 30%. This stance is meant to be used if you are looking for bleed dmg at the expense of utility and posture dmg and base m1 dmg, also gains very tiny swingspeed compared to club. (This variant is not recommended to use because it's directly downgrade)
 
-At 100 MED and 100 MTL, this weapon deals 27.5 damage while in Club form, and 35.7 (27.5 + 8.2 BLEED) damage while in Sword form.
+At 100 MED and 100 MTL, this weapon deals 30.2 damage while in Club form, and 35.7 (27.5 + 8.2 BLEED) damage while in Sword form.
+
+Max possible DMG with 100 MTL, 100 MED, 6 PROF and 3\* dmg is 36.5 (**+**10.95 if speed demon proc, making it 47.5) on Club and 42.9 (33 + 9.9 BLEED) Sword, making this weapon have highest dmg among all medium in the game.
 
 ## Critical
 
 The user stabs their weapon into the floor, causing a metal eruption of spikes to surround the player. Both the shove and the spike eruption deal stun and damage. If the shove is parried, no autoparry frames will be given for the spike eruption, and the eruption will not be cancelled. This shares similarities with the critical effects of the [Hero Blade of Flame](Hero_Blades.md) and the [First Light](First_Light.md) (excluding the sword rain aspect).
 
 -   Bleed applied on all 3 hits of Deepcrusher's crit, doesn't matter what stance (1H or 2H)
+-   Crit doing ONLY slash dmg despite stance.
+-   Crit is doing 80 DMG at 100 MTL and 100 MED (Can be Improved by adding prof, stat scaling rings and DMG stars)
 -   Procs artisan's blade at any Deepcrusher attack (Sword version or Club, crit or M1)
 -   Posture dmg of crit depends on stance, does 15 as sword version and 16.5 as club.
 
@@ -52,7 +56,7 @@ The user stabs their weapon into the floor, causing a metal eruption of spikes t
 -   The Ignition Deepcrusher is the first weapon to be part of two weapon categories as its stances are both Club and Blade, which you can switch between by pressing Y. This is similar to the unique stance effect used by the [Curved Blade of Winds](Curved_Blade_of_Winds.md), however it instead changes the weapon type from Club to Sword and vice versa.
 -   Currently the only legendary weapon with no description.
 -   The Sword form (at 100 MED and 100 MTL) is the second-highest damage sword in the game, second to the [Razor Cutlass](Razor_Cutlass.md) (35.7 vs. 36.6).
--   Meanwhile, the Club form (at 100 MED and 100 MTL) is the second-highest raw damage club in the game, beaten by the [Sacred Hammer](Sacred_Hammer.md) (27.5 vs. 29.7).
+-   Meanwhile, the Club form (at 100 MED and 100 MTL) is the highest raw damage club in the game, only close to **Ignition Deepcrusher** dmg is the [Sacred Hammer](Sacred_Hammer.md) (30.2 vs. 29.7).
 -   The weapon is inspired by the [Kirkhammer](https://bloodborne.fandom.com/wiki/Kirkhammer) from [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne).[\[1\]](#cite-note-1)
 -   Based on the [similar leftover weapon](DeepcrusherSword.md) which required 55 HVY to wield and was in the game for a short period of time, this could have been heavy weapon at some point during development.
 -   You cannot use the stance swap feature while in the Battle Royale mode unless you have the Ironsinger Talent, which can be achieved by getting an Ironsing Mantra.

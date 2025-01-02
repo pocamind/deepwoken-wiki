@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 127381
+revid: 127484
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -25,7 +25,7 @@ File:Photo 2024-10-15 19-27-35.jpg
 
 This dungeon, taking place deep underground beneath Miner's Landing and its [Saramaed Summit](Saramaed_Summit.md), is the primary method of progression for the [Ignition Delver](Origins.md) Origin. However, anyone can partake in this dungeon as long as they have above neutral reputation with the Ignition Union.
 
-**Saramaed Hollow** can be entered by interacting with **Deepdelver Tau** in [Miner's Landing](<Miner's_Landing.md>) behind the watermill. You can choose to work solo or as a team of up to 5 players. To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. None of the mobs are corrupted; they can only be Attuned.
+**Saramaed Hollow** can be entered by interacting with **Deepdelver Tau** in [Miner's Landing](<Miner's_Landing.md>) behind the watermill, if you're part of the Divers (aka the origin), Deepdelver Tau will tell you to scram. You can choose to work solo or as a team of up to 5 players. To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. None of the mobs are corrupted; they can only be Attuned.
 
 Note that all the maps contain lava as an environmental hazard, which deal an extreme amount of damage for both new and more experienced players and for the new players it could burn you to death.
 

@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 127317
+revid: 127476
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, Etrea]
@@ -35,3 +35,5 @@ This Outfit's Schematic can be found in:
 -   This Outfit is an inferior version of the [Cloak of Winds](Cloak_of_Winds.md), which gives the same Talent Card with much better stats.
 -   This Outfit can be found on the Helper in the Isle of Vigils.
 -   Relatively good for early to mid-game when used with the Katana.
+-   Shirt: [https://www.roblox.com/catalog/6191481082/Blade-Initiate](https://www.roblox.com/catalog/6191481082/Blade-Initiate)
+-   Pants: [https://www.roblox.com/catalog/6191481942/Blade-Initiate-Pants](https://www.roblox.com/catalog/6191481942/Blade-Initiate-Pants)

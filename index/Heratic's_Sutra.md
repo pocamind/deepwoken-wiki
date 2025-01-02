@@ -1,6 +1,6 @@
 ---
 title: "Heratic's Sutra"
-revid: 127391
+revid: 127485
 source: https://deepwoken.fandom.com/wiki/Heratic's_Sutra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]

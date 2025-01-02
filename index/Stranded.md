@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 115840
+revid: 127474
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -30,3 +30,5 @@ This Outfit cannot be purchased by a Blacksmith, and is only equipped when the p
 
 -   The Stranded Outfit is removed from the Blacksmith's shop once it is unequipped.
 -   Appears to be a severely tattered version of the Grey [Traveler Cloak](<Traveller's_Jacket.md>), which had been put on by default during the [Tutorial](Tutorial.md).
+-   Shirt: [https://www.roblox.com/catalog/5150609038/Stranded](https://www.roblox.com/catalog/5150609038/Stranded)
+-   Pants: [https://www.roblox.com/catalog/5150610387/Stranded-Pants](https://www.roblox.com/catalog/5150610387/Stranded-Pants)

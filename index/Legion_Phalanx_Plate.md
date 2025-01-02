@@ -1,6 +1,6 @@
 ---
 title: Legion Phalanx Plate
-revid: 121232
+revid: 127487
 source: https://deepwoken.fandom.com/wiki/Legion_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 10 |
+| requirements | PWR 13, STR 15 |
 | weight | 2 |
 | innate stats | +6 Health, +2 Posture, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Hoplite |
