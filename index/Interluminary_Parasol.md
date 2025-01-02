@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 127028
+revid: 127554
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Monsters, Bosses]
@@ -32,17 +32,20 @@ This giant foe's moveset is relatively simple and is easy to avoid; however they
 **Pierce**  
 (★★☆)
 
- | When close enough, the Parasol starts rapidly stabbing random targets with its arms. Autogrips players if they are knocked.
+ | When close enough, the Parasol starts rapidly stabbing random targets with its arms, sometimes inflicting poison. Autogrips players if they are knocked.
 
 Parryable:◯  
 Blockable:✗  
 Dodgeable:◯
 
  |  |
+| **Spawn of the Abyss**(★★☆) | The Parasol throws a boulder that deals damage on impact, summoning a Depths mob varied to a Alpha Megalodaunt, Broodlord, Voidsea Thresher, and Nautilodaunt.
 
-Using the floating pincers, it will dive towards to pierce its target. With this, it can glitch out boats to the extreme.
+Parryable:◯  
+Blockable: ?  
+Dodgeable:◯
 
-It can also throw rocks at targets and summon Nautilodaunts, Alpha megaladaunts, Broodlords and voidsea threshers.
+ |  |
 
 ## Loot Table/Rewards
 
@@ -133,6 +136,7 @@ File:Symphonyandtheypet.png
 -   Path2: Near the [Songseeker](Songseeker_Wilds.md) - [Summer isle](Summer_Isle.md) highway it will always go towards the [Monkey's paw](<The_Monkey's_Paw.md>) - then to [Greathive Aratel.](Greathive_Aratel.md)
 
 -   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit.
+-   Take care of the summoned mobs and use them as healthpacks. Do not let them pile up and overwhelm you.
 
 ## Trivia
 
