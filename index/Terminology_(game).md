@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 127390
+revid: 127646
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -254,7 +254,7 @@ _verb_
 
 1.  to check if you or someone else has enough resonance progress to unlock a [Resonance](Resonance.md) through dying, usually done alone by fall damage, in Layer 2 with a Light Hook, or with friends.
 
-### Corrupted
+### Corrupted/Cursed
 
 _adjective_
 
@@ -307,7 +307,7 @@ _verb_
 
 ## Enemies / Monsters
 
-### Corrupted (Cursed)
+### Corrupted
 
 _adjective_
 
@@ -332,7 +332,7 @@ _noun_
     2.  If it's during the [Scion of Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
 3.  Being healed via knocking a player, humanoid, or killing a monster.
 
-### Jelly, Jellyfish
+### Jelly / Jellyfish
 
 _noun_
 
@@ -411,7 +411,7 @@ _noun_
 
 ### Sustain
 
-_adjective_
+_noun_
 
 1.  How much healing a build has, or how long it can last in a fight (usually one on one). Does not include tankiness. Sustain can be defined as Bloodless Gems, Flame Wisp, Potions, and other aspects of healing mid-combat without campfires or Graceful Flame.
     1.  "My Linkstrider build has so much sustain it's crazy"
