@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 127652
+revid: 127653
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -58,7 +58,7 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 (☆☆☆)
 
- | A flurry of metal spikes. | 45 Ether | Metal + Slash | Stomp the ground, causing a flurry of metal spikes to erupt forward.
+ | A flurry of metal spikes. | 45 Ether | Metal + Slash + Bleed | Stomp the ground, causing a flurry of metal spikes to erupt forward.
 
 -   Does 37 DMG at 5 lvl, 0.5s windup and 15s CD
 -   By rotating your view, you can reangle the mantra to catch rolls.
@@ -94,7 +94,7 @@ Ether
 
 (★☆☆)
 
- | A powerful kick laced with metal | 30 Ether | Metal + Slash | Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit.
+ | A powerful kick laced with metal | 30 Ether | Metal + Bleed | Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit.
 
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md) that causes the mantra to perform a faster drop-kick that doesn't apply knockdown.
 -   Both Versions of Metal kick does 45 dmg, 13s CD
@@ -124,7 +124,7 @@ Ether
 
 (★★☆)
 
- | Sharp metal traps. | 50 Ether | Metal | Throw out 6 caltrops upon use, which stay on the ground for a while.
+ | Sharp metal traps. | 50 Ether | Metal + Bleed | Throw out 6 caltrops upon use, which stay on the ground for a while.
 
 -   Deal 15 DMG per flying caltrop, 21 dmg per laying down one. 0.75s wind up, 10s CD. Last 17s on ground.
 -   Functions similar to Galebreathe's [Gale Trap](Galebreathe.md) mantra.
@@ -143,7 +143,7 @@ Ether
 
 (★★☆)
 
- | Create a firing line of metal to light up your target. | 40 Ether | Metal + Slash | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
+ | Create a firing line of metal to light up your target. | 40 Ether | Metal + Bleed | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
 
 -   Deals 145 dmg at 5 lvl non spark
 -   62 dmg at 5 lvl with Blast spark
@@ -178,7 +178,7 @@ Ether
 
 Ether
 
- | Metal + Slash | Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target.
+ | Metal + Bleed | Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target.
 
 -   Does 60 DMG at 5 lvl, 0.7s wind up, 12s CD
 -   Applies Metal Rod on hit.
@@ -194,7 +194,7 @@ Ether
 
 Ether
 
- | Metal + Slash | Send metal spikes piercing through your body, impaling all nearby targets.
+ | Metal + Slash + Bleed | Send metal spikes piercing through your body, impaling all nearby targets.
 
 -   Does 43 dmg at 5 lvl, 0.5s wind up, 10s cd.
 -   Doesn't break your momentum, meaning you can run while using it or vice versa.
@@ -208,7 +208,7 @@ Ether
 
 (★★★)
 
- | Summon a blade of metal to swing alongside you. | 40 Ether | Metal | Coat the character's body and weapon in a fluctuating ironlike iron-bits. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds.
+ | Summon a blade of metal to swing alongside you. | 40 Ether | Metal + Slash | Coat the character's body and weapon in a fluctuating ironlike iron-bits. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds.
 
 -   Does 21 dmg at 5 lvl, 0.35s wind up, lasts 20s, 30s cd
 -   Deep gems not proccing (Except Blue)
@@ -235,7 +235,7 @@ Ether
 
 (★★★)
 
- | Conjure a giant rod of metal and slam it down. | 40 Ether | Metal + Slash | Form a large spikey iron rod before slamming it down forwards.
+ | Conjure a giant rod of metal and slam it down. | 40 Ether | Metal + Slash + Bleed | Form a large spikey iron rod before slamming it down forwards.
 
 -   Deals 73 damage at 5 lvl, 0.73s windup, 18s cd.
 -   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
@@ -262,7 +262,7 @@ Ether
 
 (★★★)
 
- | Create a lance, impale your opponent, and send them flying. | 35 Ether | Metal + Slash | After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way.
+ | Create a lance, impale your opponent, and send them flying. | 35 Ether | Metal + Slash + Bleed | After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way.
 
 -   Deals 70 damage at 5 lvl, 0.5s windup, 13s cd
 -   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md) mantra and Frostdraw's [Ice lance](Frostdraw.md) mantra respectively.
@@ -278,7 +278,7 @@ Ether
 
 (☆☆☆)
 
- | Summon a large metal pillar | 50 Ether | Metal | Form a pillar from below, causing the character to ascend upwards as the pillar forms.
+ | Summon a large metal pillar | 50 Ether | Metal + Bleed | Form a pillar from below, causing the character to ascend upwards as the pillar forms.
 
 -   Does 40 DMG at 5 lvl, lasts 9s. 13s CD
 -   1.5s Windup
@@ -293,7 +293,7 @@ Ether
 
 (★★☆)
 
- | Create a metal ball and rush forward. | 40 Ether | Metal + Slash | Encased in a metal ball, rush forward while knocking down any targets in the way.
+ | Create a metal ball and rush forward. | 40 Ether | Metal + Slash + Bleed | Encased in a metal ball, rush forward while knocking down any targets in the way.
 
 -   Deals 36 DMG at 5 lvl, 0.7s windup, 10.5s cd
 -   Covers around 100 studs of distance.

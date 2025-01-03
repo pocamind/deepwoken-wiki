@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 127531
+revid: 127656
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -47,7 +47,7 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
     -   Talk to the [Nestmind](The_Nestmind.md), ensuring you select the first options. Once the Nestmind mentions food select "I accept" to take the Oath.
     -   Refusing to become the [Nestmind](The_Nestmind.md)'s food will steal your dark feather and teleport you back to reality.
 
-_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=MXBJfraH_cI)._
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/CU80syZAJmY)._
 
 Visionshaper **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, costing you an additional [Dark Feather](Dark_Feather.md).
 

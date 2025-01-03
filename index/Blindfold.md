@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 123584
+revid: 127660
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Blindfolds]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Pure Erisore turn ins, Artifacts, Layer 2, Songseeker Wilds, Saramaed Hollow, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Erisia, Minityrsa, Pure Erisore turn ins, Artifacts, Layer 2, Songseeker Wilds, Saramaed Hollow, Maestro Evengarde Rest, Dread Serpent, Meteor Isle |
 | description | "A tightly wound blindfold to hide the horrors of the world from your waking eyes." |
 
 ## Description
@@ -34,4 +34,4 @@ The Blindfolds are [Equipment](Equipment.md) items under the "Face" category. Th
     -   Modelwise, the Crimson and Black blindfold are visually the same.
 -   [Gremors](Gremor.md) get a circle around them of clear vision.
 -   The [Blinded](Talents.md) Talent originally made the screen completely black so the user could not see anything other than chat messages and GUI
-    -   Many players would troll freshies by tricking them to put it on, because it cannot be taken off without a campfire or putting on another piece of face equipment, and it's very difficult to find a campfire when you can't see anything around you. No, this doesn't give you a domain expansion.
+    -   Many players would troll freshies by tricking them to put it on, because it cannot be taken off without a campfire or putting on another piece of face equipment, and it's very difficult to find a campfire when you can't see anything around you.

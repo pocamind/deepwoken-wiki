@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 108042
+revid: 127655
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -22,7 +22,7 @@ Duke Erisia's Manor is a location in [Upper Erisia](Upper_Erisia.md). Its exteri
 
 This place is usually visited by going to the bottom gate supposedly at the edge of [Towerstruck Lands](Towerstruck_Lands.md) which will lead to you to a place called [The Garden Reservoir](The_Garden_Reservoir.md) and traversing the harmful acidic floor and broken architects until you see the far right side corner gap that leads to a short tunnel followed by a distinct turquoise-colored teleporter that will directly send you to an output teleporter (which is just a little bit above you, you also can't go back and exit safely without negated health unless you parkour out of the map, reset or use [Graceful Landing](Talents.md#acrobat)) in Duke Erisia's Manor.
 
-Or you can try to gather enough agility or environmental height to get on top of the wall barriers in order to go to Duke Erisia's Manor which is more time-consuming. There is also a giant door that can be opened by following the guide in the gif below. This location plays a substantial part in [Lord Regent's Quest](Etris.md#lord-regent-quest) (except if you have allies to use a manor key) to eliminate [The Duke](Duke_Ishamon_Erisia.md).
+Or you can try to gather enough agility or environmental height to get on top of the wall barriers in order to go to Duke Erisia's Manor which is more time-consuming. There is also a giant door that can be opened by following the guide in the gif below. This location plays a substantial part in [Lord Regent's Quest](Etris.md#lord-regent-quest) (except if you have allies to use a manor key) to eliminate [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
 
 ## Maps
 
