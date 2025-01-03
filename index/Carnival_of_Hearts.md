@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 127571
+revid: 127641
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event]
@@ -41,7 +41,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 
 -   To the right of [Lower Erisia](Lower_Erisia.md), where [Mortus](Mortus.md) resides.
 -   The small Bandit Camp on the hill with a campfire, under that broken building.
--   At [Isle of Vigils](Isle_of_Vigils.md), where the barber and the little farm is.
+-   At [Isle of Vigils](Isle_of_Vigils.md), near the mantra modifier shop, outside the house with the barber.
 -   In [Minityrsa](Minityrsa.md) at the top of a spire near the coast, to the right of the shipwright.
 
 ### Eastern Luminant

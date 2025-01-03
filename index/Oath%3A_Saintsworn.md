@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 127517
+revid: 127637
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -161,8 +161,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 -   The text that appears when training an attunement, "The elements are not in alignment..." is a hint towards obtaining Saintsworn and was added with the release of the Oath.
 -   Ironically, this Oath does NOT require the user to be wielding a Heroblade of any kind.
 -   Saintsworn's cosmetic, the Pseudo-Hero's Blades, cannot be dyed.
--   Saintsworn gives the most mantra slots out of any Oath, being 5 total mantra slots, making it incredibly flexible and spammable.
--   The Saintsblade (and, by extension, the mantra that varies based on your current Saint Stance, Blade of Saints) does NOT change color in accordance to attunement paths. This is likely a bug.
+-   Saintsworn gives the most mantra slots out of any Oath, being 5 total mantra slots, making it incredibly flexible and spammable..
 -   Saint's Overload have 20 seconds of duration before going off and it can be seen from the flying blade that it changes color to white.
 -   The 5 blade on your back will vanish one by one after Hero's Assist is triggered.
 -   The Saint's Blade Stance cycle is based from your strongest attunement, with the strongest one will be your first stance and so on.

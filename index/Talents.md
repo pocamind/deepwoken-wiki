@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127564
+revid: 127642
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -418,6 +418,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 > _**"I seek the qualities of berserker."**_
 
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
+    -   While the talent says criticals only gain 10% PEN, they will still gain the full armor bypass bonus just like m1s.
     -   When activated:
         -   Your armor is immediately removed for 20 seconds. Includes Exoskeleton/Chitin.
         -   Padded Armor, Steel Scales, and Lightweight are activated. However, your M1s activate your opponent's Padded Armor and Steel Scales.
@@ -3042,7 +3043,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"Uh..."**_
 
--   Berserker \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. **(not work on pve)** (+10 Carry Load)
+-   Berserker \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. **(Only works on humanoids that can be _knocked_, not monsters that die immediately.)** (+10 Carry Load)
     -   Prerequisites: 35 Fortitude, 30 Strength
 
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)

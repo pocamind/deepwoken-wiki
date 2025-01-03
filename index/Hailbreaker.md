@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 124219
+revid: 127633
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Unique Critical, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons"]
