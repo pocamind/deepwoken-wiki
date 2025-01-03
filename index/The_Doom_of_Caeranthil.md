@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 127382
+revid: 127566
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -131,6 +131,7 @@ Dodgeable:✗
 -   Sudden Ambush and Luminant Beam are one-shot moves.
 -   Payback can tank the Sudden ambush move, but it’s unable to hit the serpent with it.
 -   Mythic stability can save you from the one-shot moves. (Tidekeeper can't)
+-   The best talent that can save you when you fighting The Doom of Caeranthil is Mythic Stability with Scuba Drowner. You can tank the instant kill/grip moves while still alive because Scuba Drowner won't let you die while being knocked in the water. But becareful because Mythic Stability (true) and Scuba Drowner (probably) have 1 minute cooldown.
 
 ## Loot Table/Rewards
 

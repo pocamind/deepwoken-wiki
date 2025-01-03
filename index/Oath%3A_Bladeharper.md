@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 127261
+revid: 127612
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -64,11 +64,10 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   You are slowed down when using this mantra.
     -   If True Strength is active, an additional flurry of slashes is created, ascending both you and your target into the air.
 -   **Soaring Storm - Passive**
-    -   Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
+    -   Empower your uppercuts with the way of the blade, after Lithe Stepping,, flourishing, or landing an oath ability.
         -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md), [modified Skyshatter Kick](Attunement-less.md), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
-
 -   **Untouchable - Passive**
-    -   By landing consecutive hits on your opponent without taking any damage, reveal your true strength for a short duration.
+    -   By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
         -   Upon proccing Untouchable, enter the True Strength state where your critical, air attack, and Oath mantras are empowered.
         -   To proc the Talent you must land 5 hits with any weapon, meaning m1s or criticals. Multi-hit criticals like the [Curved Blade of Winds](Curved_Blade_of_Winds.md) 1H crit or the [Trident Spear](Trident_Spear.md) critical will proc the Talent upon 5 hits of the critical landing.
             
@@ -79,7 +78,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
         -   While in the True Strength state, you passively build up Wither (reduced max HP) on yourself.
         -   This takes about **4 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
 -   **Float Like a Butterfly - Passive**
-    -   In display of your true strength, cancel your air dash to enter a frenzy of slashes.
+    -   While having True Strength active, cancel your air dash to enter a frenzy of slashes.
     -   Its movestackeable with the crit, currently to be fixed.
     -   It has a cooldown of 5 seconds.
     -   It deals true damage. (Confirmed by Developers)

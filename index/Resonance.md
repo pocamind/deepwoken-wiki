@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 124218
+revid: 127568
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -256,6 +256,7 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   The most popular, now debunked, method around the time _Deepwoken_ released involved staying in The Depths for **seven hours straight** whilst farming for level & luck. Although being comically wrong, it set the groundwork for people to discover the truth behind **Resonances.**
 -   A number of doors other than the one at the [Temple of Hearts](Temple_of_Hearts.md) require a **Resonance** to open. One is at the end of the parkour in the Depths, one is in Saramaed Summit, and one is near a waterfall at [Aratel Island](Aratel_Island.md).
 -   It also seems like the amount of Progress needed for a **Resonance** share among all slots in an account. (If the previous slot gets a **Resonance** early then other slots will likely get it early too.)
+-   World Events such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and the [Interluminary Parasol](Interluminary_Parasol.md) **do not** give any bell progression
 -   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" and you don't have a bell, **DO NOT try to go and bell check**, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
 -   Before Resonances had Cards, the only way to know what type your **Resonance** was from a circular aura that occurred when you obtained it, being white for **Common**, purple for **Corrupted**, and yellow for **Legendary**.
 -   Near release, there were rumors of **Blessed Resonances**\- opposite of **Corrupted Resonances**\- existing and being equally as rare. These have been debunked, and **do not exist in the game.**

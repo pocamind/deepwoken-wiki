@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 118058
+revid: 127591
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes]

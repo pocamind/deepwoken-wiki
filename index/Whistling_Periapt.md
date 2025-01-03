@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 125555
+revid: 127565
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics]
@@ -39,6 +39,7 @@ Estimated by rarity to have a ~0.1% drop chance from both [Duke](Duke_Ishamon_Er
     -   It was formerly known as the Wind Amulet.
 -   Whistleguard is a weaker variant of the [Duke of Erisia](Duke_Ishamon_Erisia.md)'s shield of Galebreathe he uses in the first phase of his fight.
 -   This item is able to be passdowned to another life and stored in the item bank.
+-   If smelted, cannot be banked.
 -   This item's pips can be transmuted with [Armorer's Needle](<Armorer's_Needle.md>) or [Gilded Needle](Gilded_Needle.md).
 
 1.  [↑](#cite-ref-1) Video: [https://www.youtube.com/watch?v=1rFxJSsJOrA](https://www.youtube.com/watch?v=1rFxJSsJOrA)

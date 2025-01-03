@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 127554
+revid: 127570
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Monsters, Bosses]
@@ -127,7 +127,7 @@ File:Symphonyandtheypet.png
 
 ## Tips & Tricks
 
--   Has incredibly high resistance to cannons
+-   Has incredibly high resistance to cannons- it takes barely any damage, if any at all. It's far more effective to corner the Parasol with a group when it passes by land than it is to bombard it with your boat.
 
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
 
