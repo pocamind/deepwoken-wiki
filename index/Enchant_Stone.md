@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 126611
+revid: 127736
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -27,7 +27,7 @@ There are multiple ways to obtain an Enchant Stone, the usual and best source be
 -   Unlocking the [Galewax](Galewax.md) Room from the [Second Layer](Second_Layer.md). This room always contains three tiny chests, that have a **25%** chance of providing a random Enchant Stone per chest. If not an enchant stone, it's a random [Kyrsweapon](Weapons.md).
 -   Rare drop from any [Second Layer](Second_Layer.md) chest, slightly more common from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and the [Scion of Ethiron](Scion_of_Ethiron.md) Chests.
 -   Exchanging 5 [Kyrsan Medallions](Kyrsan_Medallions.md) to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) for a random enchant stone.
--   Using the [Deepshore Fossil](Deepshore_Fossil.md) will grant you any enchant stone of your choice. You can only obtain one [Deepshore Fossil](Deepshore_Fossil.md) per character.
+-   Using the [Deepshore Fossil](Deepshore_Fossil.md) will grant you any enchant stone of your choice (except Astral). You can only obtain one [Deepshore Fossil](Deepshore_Fossil.md) per character.
 -   A drop from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   Chance to obtain from final chest of [Hell Mode](Hell_Mode.md)
 -   Chance to obtain from a chest in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
@@ -39,8 +39,9 @@ The Astral Enchant Stone is unique in that it can only be obtained through the [
 ## Trivia
 
 -   You can't use enchant stones to enchant legendary weapons.
--   You can use enchant stones on already enchanted weapons, it'll just switch the enchant.
--   Enchant Stones are undroppable, but sell for 200 notes! Cha-ching! (Do not do this unless you're desperate.)
+-   You can use enchant stones on already enchanted weapons, it will replace the current enchant on the weapon.
+-   You can sell enchant stones for 200 Notes.
+-   You can't drop enchant stones.
 -   You can pass down Enchant Stones through the [Hippocampal Pool](Hippocampal_Pool.md) for 40 [Echoes](Echoes.md).
 
 -   Complex to explain, but you can use enchant stones on starter weapons you bought. However, you can't use them on the very first starter weapon your character begins with(if it's not an advanced starter). When trying to use on your first starter weapon, dialogue appears saying "This weapon is corrupted, denying the stone." For some ungodly reason with advanced starters; if you unequip then re-equip the weapon, the weapon isn't corrupt anymore.

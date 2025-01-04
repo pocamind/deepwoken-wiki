@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 125912
+revid: 127730
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -184,7 +184,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
     -   Gives 10% resistance and 10%(5% if Reinforce was only used on yourself) damage increase to the mantra user and all nearby allies.
         -   Damage increase only works on M1 and crits.
-        -   The opponent's PEN is reduced by 50% against resistance.
+        -   Potentially reduces incoming PEN. (needs testing)
     -   The duration of the mantra is equal to 20 seconds. The cooldown of the mantra is 55 seconds.
         -   For each mantra level the duration increases by 8 seconds and cooldown decreases by 5 seconds.
     -   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord's Tithe' and 'Grand Support'._

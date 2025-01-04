@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 122174
+revid: 127728
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -53,7 +53,7 @@ A player's Mantras are tied to their character's stats - the higher a given stat
 
 _Main Article - [Spelltrainers](Attunement_Trainers.md)_
 
-All Mantras can be upgraded from their respective element and trainer as long as you have the points allocated into them. Each 20 points allocated in your element/attribute will allow you to upgrade your Mantra(s).
+All Mantras can be upgraded from their respective element and trainer or from the guild base's Songwright for more notes as long as you have the points allocated into them. Each 20 points allocated in your element/attribute will allow you to upgrade your Mantra(s).
 
 There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
 

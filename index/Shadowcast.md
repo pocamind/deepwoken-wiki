@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 127327
+revid: 127733
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -333,7 +333,7 @@ Shadestep
  | Submerge into your shadow. Click to launch an attack at any point while submerged. | 30 Ether | Shadow (?) | Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards.
 
 -   After ~3s (or sooner if player uses left click) you jump out creating a shadow 'Spike' that pierces enemies.
--   You can get hit while submerged, does not cancel your mantra.
+-   While submerged you have I-Frames.
 -   You can't block or parry while submerged.
 -   NPCs can spot you underground.
 -   Can't be modified.

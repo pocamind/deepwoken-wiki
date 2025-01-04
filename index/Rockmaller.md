@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 126135
+revid: 127760
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greathammers, Weapons with Unique Criticals, Unique Critical, Multiple Criticals]
@@ -35,6 +35,8 @@ The Rockmaller is a mid-late game Greathammer with a unique critical, found in M
 The grounded critical mimics a shoulder-bash and applies knock-down.
 
 The aerial critical dashes towards the cursor's position and slams into the ground, pushing targets back.
+
+**The cooldown for both criticals are 10 seconds**
 
 ## Trivia
 

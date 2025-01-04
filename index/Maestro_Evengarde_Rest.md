@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 126680
+revid: 127765
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -171,7 +171,7 @@ Maestro Evengarde Rest executes his opponent after knocking them:
 -   Showstopper - When rolling through one of Maestro Evengarde Rest's physical attacks, he will stomp the ground and daze you. Removes your speed buffs.
 -   Bulldozer - Getting flourished into a wall by Maestro Evengarde Rest has a chance to guardbreak you.
 -   Concussion - Getting flourished into a wall by Maestro Evengarde Rest causes your screen to blind and your daze to lengthen.
--   Spine Cutter - Getting hit from your back after Maestro Evengarde Rest does a roll cancel causes you to get a second slash.
+-   Spine Cutter - Getting hit from your back after Maestro Evengarde Rest does a roll cancel causes you to get hit by a second slash.
 
 ## Strategy
 

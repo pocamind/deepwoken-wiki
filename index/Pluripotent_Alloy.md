@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 123064
+revid: 127729
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -82,4 +82,5 @@ If you have the [Ignition Delver origin](Origins.md), you are able to turn **3**
 -   The alloy itself cannot be dropped or lost on death, but the weapons can.
 -   You do not lose the alloy when doing the Ironsing quest.
 -   You are not able to [bank](Item_Bank.md) alloys.
+-   You can only hold 20 alloys at one time. If you pick up anymore, they will be deleted.
 -   Can be sold for 150 notes
