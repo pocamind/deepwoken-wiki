@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 126436
+revid: 127675
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -188,7 +188,7 @@ This can be applied by being hit by the Deep Widow's venomous bite. While poison
 
 ### Dazed
 
-Have your parry window lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by blunt Mantras (ex. [Rising Shadow](Shadowcast.md)).
+Have your dodge frames lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras
 
 ### Anti-Heal
 

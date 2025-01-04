@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 125007
+revid: 127687
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -34,9 +34,5 @@ File:Sky Statue Puzzle Dialogue (Might be edited).png
 Sky Statue Puzzle Dialogue (Might be edited)
 
 Sky statue located near songseeker
-
-File:Sky Statue.png
-
-Sky statue to the left of songseeker temple on the map, on the mountain peak.
 
 As stated by TheRealPunchee, a mod for the game, the statues look towards the [The Floating Keep](The_Floating_Keep.md) from the Hallowtide event

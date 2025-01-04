@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 124387
+revid: 127669
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1204,7 +1204,7 @@ N/A
 
 ## Trivia
 
--   The Chilling [Enchantment](Enchantments.md) still applies 1 second chill in pvp per hit until it applies bottom freeze and then goes on cooldown until you can apply bottom freeze again.
+-   The Chilling [Enchantment](Enchantments.md) still applies 1 second Chill in PvP per hit until it applies Bottom Freeze and then goes on cooldown until you can reapply the status.
 -   The **Ice Fissure** mantra is a reference to the Roblox game Strife, specifically the class [Obsidian's](https://strife-official.fandom.com/wiki/Obsidian) Pyroclast move, which summons pulsing obelisks.
 -   The **Warden's Blades** mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
     
@@ -1224,18 +1224,15 @@ N/A
 -   Recommended not to abuse the Chill duration as there is a Talent that makes your enemy get 20% more dmg from light attacks if they are under an elemental status effect.(Charged Return)
 -   Anything that would Freeze while using Glass Path: Crystallization would cause the crystals in your opponent to explode.
 -   Saint jay and Frostbite are less effective with Glass Path: Crystallization as all Ice Mantras apply them for 2 seconds.
--   Frozen legs applies on all ice mantras and has a fixed duration that can't be increased.
--   Fragile freeze can be activated with anything else if the enemy is chilled.
+-   Frozen Legs applies on all ice mantras and has a fixed duration that can't be increased.
+-   Fragile Freeze will Freeze the opponent on Posture break from anything if they are Chilled.
 -   Similarly to every other Wisp mantra, **Frost Wisp** gives the player a finger on the hand that casts the mantra
--   crystal and chilling enchant can be a good way to keep Saint jay active as every crystal you apply adds 2 second of saint jay and the enchant has no limit with how many crystals it can apply.
--   Bottom freeze has a global cooldown so only pick one source to proc bottom freeze (Example: If you have iceberg, it will put all the other methods like the Talent bottom freeze or chilling enchant on cooldown so don't pick anything else if you using iceberg.)
--   Crystals dmg scales by your frost investment, 1 point of dmg every 10 frost. You are doing 8 dmg per crystal at 80 frost.
--   Nullifying clarity does not reduce chilled duration.
--   The **Ice Cubes** Mantra might be a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
--   **Glacial Arc** used to fire multiple arcs using cloud and stratus stones.
+-   Bottom Freeze has a global cooldown, meaning it's not recommended to have the Chilling enchant with the Bottom Freeze Talent.
+-   Crystal damage scales with your Frostdraw: 1 damage per 10 Frostdraw.
+-   Nullifying clarity does not reduce Chilled duration. Instead, it gets rid of the Slow effect of your Chill.
+-   The **Ice Cubes** Mantra is possibly a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
 -   It's possible to put your guild base on **Glacial Arc** if you aim it straight forward and upwards then put it on the side.
--   Grabbing a barrel that has been frozen can cause you to gain velocity in a random direction when jumping. (not sure if patched or not)
--   **The source for the frost mantras damage:**
+-   **The source for the frost mantras damage: (This is outdated, and some of these Mantras have gotten their damage reduced. Example: Ice Cubes deal 60 damage, not 90)**
     
     File:Frost Mantras damage.png
     

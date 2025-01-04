@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 127612
+revid: 127674
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -107,16 +107,15 @@ Finally the most important piece of advice, stay calm, as you would with any and
 ## Trivia
 
 -   **BLADEHARPER ABILITIES DO NOT SUPPORT PVE SCALING.**
--   The Blade Within statue will change model depending on your equipped weapon. ~Devs sold the bag by calling it Snakerings when dyeing the Bladeharper~ At an unknown date, this was changed to "Bladeharper Serpents" instead of snakerings.
--   The "Blade Within" fight is a reference to Bleach's bankai obtainment.
+-   The statue in the centre of the Blade Within will be your equipped weapon.
+-   The Oath bracelets were formerly called "Snakerings" (as viewed from the Dye Packet), which was later changed to "Bladeharper Serpents".
+-   Its obtainment method is inspired by the way in which Ichigo Kurosaki, the protagonist of BLEACH, obtained his "Bankai" ability.
 -   The NPC's moveset doesn't change if you die and go back to fight it again. It seems to reuse the AI from Maestro.
--   This Oath may be a reference to [Isshin](<Isshin's_Ring.md>): both are elegant blade-wielding combatants with a snake motif.
-    -   However, the bracelets may be a reference to Minos Prime from ULTRAKILL instead, as both are shown wearing snake-like bracelets on their arms.
-    -   Or alternatively a reference to Lavos, from WARFRAME, whom also has snakes coiling around his forearms.
--   Currently, this is one of two Oaths where you cannot skip progression with knowledge; The other being [Chainwarden](Oath%253A_Chainwarden.md).
+-   This Oath may be related to [Isshin](<Isshin's_Ring.md>): both are elegant blade-wielding combatants with a snake motif.
+-   The bracelets may have been inspired by Minos Prime from ULTRAKILL, or Lavos from WARFRAME; both characters are shown wearing snakes/snake-like bracelets around their forearms.
+-   Currently, this is one of two Oaths where you cannot skip progression with knowledge, the other being [Chainwarden](Oath%253A_Chainwarden.md).
     -   This is probably due to the Oath being new and the progression skip hasn't been implemented, or has been fully forgotten about.
--   The slashing done by certain moves/passives may be a reference to Ryomen Sukuna's Cleave and Dismantle from Jujutsu Kaisen.
-
--   The animation for Reveal also closely resembles Elden Ring's Ash of War Seppuku with both giving a buff in exchange for health, possibly being a reference to the Souls-Borne franchise.
-    -   The animation for Reveal is also quite similar to Dante from the Devil May Cry series stabbing himself to use his Sin Devil Trigger form
--   Decimate can be used with fists if you re-equip the Mantra with a Mantra Table (rejoining will make you unable to use it)
+-   The slashing effects closely resemble the "Cleave" and "Dismantle" abilities of Ryomen Sukuna from Jujutsu Kaisen.
+-   The animation for Reveal closely resembles Elden Ring's Ash of War Seppuku with both giving a buff in exchange for health, possibly being a reference to the Souls-Borne franchise.
+    -   The animation for Reveal is also quite similar to Dante from the Devil May Cry series stabbing himself to use his Sin Devil Trigger form.
+-   Decimate can be used with fists if you re-equip the Mantra with a Mantra Table (rejoining will make you unable to use it).

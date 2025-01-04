@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 127374
+revid: 127670
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -23,10 +23,15 @@ Defeating world event bosses does not grant bell progression.
 ## List of World Events
 
 -   **Carnival of Hearts**
-    -   Partake in a series of games within the **[Carnival of Hearts](Carnival_of_Hearts.md)**, hosted by [Aelita](Aelita.md) and [Tillian](Tillian.md)
+
+-   Partake in a series of games within the **[Carnival of Hearts](Carnival_of_Hearts.md)**, hosted by [Aelita](Aelita.md) and [Tillian](Tillian.md).
+-   "Partake in a deadly series of games hosted by Aelita and Tillian!"
+
 -   **Interluminary Interloper**
-    -   Defeat the [**Interluminary Parasol**](Interluminary_Parasol.md) within the Eastern Luminant before it may spreads the plagues of The Depth
+    -   Defeat the [**Interluminary Parasol**](Interluminary_Parasol.md) within the Eastern Luminant before it may spreads the plagues of The Depths.
+    -   "Defeat the Interluminary Parasol before it can complete its harvest!"
 -   **Caeranthil's Wake**
-    -   Defeat [**The Doom of Caeranthil**](The_Doom_of_Caeranthil.md) within the Etrean Luminant before history repeats itself
+    -   Defeat [**The Doom of Caeranthil**](The_Doom_of_Caeranthil.md) within the Etrean Luminant before history repeats itself.
+    -   "Slay The Doom of Caeranthil before it lays waste to the rest of the luminant!"
 -   **Siege of Etris** (to be added, is currently a regular random event)
     -   Prevent The Authority from successfully [sieging Etris](Cinders_of_Etris.md) with the help of the Etrean Guards and Royal Guards

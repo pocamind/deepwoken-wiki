@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 127331
+revid: 127666
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -28,7 +28,7 @@ According to [Yamaketzal](Yamaketzal.md), he is an amalgamation of souls dredged
 2.  Make sure there is a white ring at the middle of the inner circle, indicating that he is spawnable. There is a 15 second cooldown between summons.
 3.  Place a campfire on each circle outside the center, (up to a total of **4** campfires).
 4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual. **You can dispose of any said previously used campfires by walking up to them and pressing B.**
-5.  A ring akin to that of the [Chime of Conflict](Chime_of_Conflict.md) will spawn, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
+5.  A ring akin to [Teleportation Resonance](Teleportation.md) will appear, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
     -   Being combat tagged will prevent you from being teleported.
 6.  The Ferryman will spawn in the middle. Talk with him and initate the wager by completing his dialogue, if at any point you wish to back-out before fighting him, you may.
 
@@ -223,6 +223,7 @@ Aside from his seasonal rewards, the Ferryman also provides a line of five chest
 -   **[Armorer's Needle](<Armorer's_Needle.md>)** - A [relic](Relics.md) that allows the user to change a singular pip of their choosing from an [equipment](Equipment.md); though they are unable to control exactly what it changes into. Handy for gear that is close to being a godroll.
 -   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   **[Pluripotent Alloy](Pluripotent_Alloy.md)** - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.
+-   **[Dormant Splinter](Dormant_Splinter.md)** - A rare [relic](Relics.md) weapon used for crafting the [Umbrite WItherblade](Umbrite_Witherblade.md) or the [Fondant Splitter](Fondant_Splitter.md) at [The Cold Forge](The_Cold_Forge.md).
 
 ## Dialogue
 

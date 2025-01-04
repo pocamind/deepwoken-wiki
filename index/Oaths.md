@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 127622
+revid: 127672
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -65,6 +65,11 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 (N/A)
 
+[Saintsworn](Oath%253A_Saintsworn.md)
+
+(20 LTN/20 SDW/20 FIR/  
+20 ICE/20 WND)
+
 [Saltchemist](Oath%253A_Saltchemist.md)
 
 (75 INT)
@@ -81,11 +86,6 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 [Visionshaper](Oath%253A_Visionshaper.md)
 
 (50 CHA)
-
-[Saintsworn](Oath%253A_Saintsworn.md)
-
-(20 LTN/20 SDW/20 FIR/  
-20 ICE/20 WND)
 
 ### Upcoming Oaths
 

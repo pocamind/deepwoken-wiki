@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Ostentation
-revid: 127455
+revid: 127667
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Ostentation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -10,7 +10,7 @@ categories: [NPCs, Mechanics]
 
 | Shrine of Ostentation | |
 |---|---|
-| location | Temple of Hearts, Ancient Rotlands |
+| location | Ancient Rotlands |
 
 “ THE TERMS ARE AS FOLLOWS: YIELD AN OFFERING, AND I SHALL TURN FORTUNE OVER. ”
 
