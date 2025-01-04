@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 127254
+revid: 127826
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -79,25 +79,19 @@ Once the trial is completed, players are also granted total immunity to damage u
 
 ### _Note:_
 
-**Your Trial Power is calculated by "Power + (Times Drowned \* 0.33)".** This dictates the type of enemy you will be faced with when initiating the Trial. Total times drowned can be viewed at a campfire (in the summary page); the number increases each time you are sent to the Depths through death (not whirlpools or Deepbound's "Call of the Deep"). Having above 11 depths power will cause The Voices of The Deep to skip part of their dialogue.
+**Your Difficulty Score is calculated by "(Power x 3) + (Drown x 1)".** This dictates the type of enemy you will be faced with when initiating the Trial. Total times drowned can be viewed at a campfire (in the summary page); the number increases each time you are sent to the Depths through death (not whirlpools or Deepbound's "Call of the Deep").
 
-_Trial Power and Power are two different things; See above as well as below table._
-
-| _Trial_ Power | Enemy(ies) |
+| Difficulty Score | Enemy(ies) |
 | --- | --- |
-| 1-4 | Nothing (you are sent up without a fight) |
-| 5-6 | [Mudskipper Knight](Mudskipper_Knight.md) |
-| 7-9 | [Lesser Angel](Hollow_Angel.md) |
-| 10-13 | [Megalodaunt](Megalodaunt.md) |
-| 14-16.66 | High chances for a Corrupted [Megalodaunt](Megalodaunt.md) |
-| 16.67+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| Drowned 20+ Times or Vow of Thorns and [deepbound](Origins.md), or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
-| 5~8 players, one having trial power of 16.67+ | [Heart of Enmity](Heart_of_Enmity.md) (Starting from the 9th player, they will get kicked out of the fight) |
+| 1-14 | Nothing (you are sent up without a fight) |
+| 15-19 | [Mudskipper Knight](Mudskipper_Knight.md) |
+| 20-29 | [Lesser Angel](Hollow_Angel.md) |
+| 30-49 | [Megalodaunt](Megalodaunt.md) (which can be Corrupted) |
+| 50-69 or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
+| 70+ or Vow of Thorns and [deepbound](Origins.md), or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
+| 5-8 players, one having a Difficulty Score of 50+ | [Heart of Enmity](Heart_of_Enmity.md) (Starting from the 9th player, they will get kicked out of the fight) |
 
--   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced into a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
-    -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
-    -   This is an extremely rare occurrence.
--   Any monster in Trials have a possibility of being corrupted.
+-   Some monster in Trials have a possibility of being corrupted.
 -   Curiously, **any** monster can be corrupted if spawned in the trial, including enemies that can otherwise never be: [Bounders](Bounder.md), [Golems](Rock_Golem.md), [Brainsuckers](Brainsucker.md), etc. When this occurs, however, their AI will (probably) break. Exemplified in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
 -   Any monster (excluding [Mudskipper Knights](Mudskipper_Knight.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
 -   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** Corrupted.

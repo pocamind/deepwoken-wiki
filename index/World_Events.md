@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 127670
+revid: 127801
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -23,7 +23,6 @@ Defeating world event bosses does not grant bell progression.
 ## List of World Events
 
 -   **Carnival of Hearts**
-
 -   Partake in a series of games within the **[Carnival of Hearts](Carnival_of_Hearts.md)**, hosted by [Aelita](Aelita.md) and [Tillian](Tillian.md).
 -   "Partake in a deadly series of games hosted by Aelita and Tillian!"
 

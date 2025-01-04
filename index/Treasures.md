@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 127341
+revid: 127786
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gems, Items, Mechanics]
@@ -123,7 +123,7 @@ _Hey, there's no blood on this one!_
 
 ## Trivia
 
--   The Gold Plate cannot be sold to a [Mantra Collector](Mantra_Collector.md), ~and is also extremely rare(?)~. They are easily obtained by killing [Rat Fighters](Rat_Fighter.md).
+-   The Gold Plate cannot be sold to a [Mantra Collector](Mantra_Collector.md), ~and is also extremely rare(?)~ They are easily obtained by killing [Rat Fighters](Rat_Fighter.md).
 -   The Emerald's description is a reference to Chaos Emeralds from the Sonic franchise. While This reference is more likely, Emeralds were used in Rogue Lineage to unlock the Faceless class, which is Chaotic Aligned
 -   The Diamond's description refers to the term "Blood Diamond", which is a diamond mined during times of conflict.
     -   Ironically, conflict is usually how one obtains a Diamond in Deepwoken, since they only appear in chests.

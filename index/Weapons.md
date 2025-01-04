@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 127735
+revid: 127793
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -582,6 +582,18 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>11</td>
   <td>1.17x</td>
   <td>36</td>
+</tr>
+<tr>
+  <td><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></td>
+  <td>75 LHT</td>
+  <td>16</td>
+  <td>N/A</td>
+  <td>20%</td>
+  <td>LHT: 11</td>
+  <td>3.5</td>
+  <td>11</td>
+  <td>1.2x</td>
+  <td>34.3</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Dawnshot"><font>Alloyed Dawnshot</font></a></td>

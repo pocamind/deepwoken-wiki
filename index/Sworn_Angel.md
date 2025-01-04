@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 127775
+revid: 127783
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Enemies that can wield Enchantments]
@@ -32,6 +32,4 @@ Greater Angels are white and dull-Yellow humanoid creatures with wings. They wie
 ## Trivia
 
 -   These Angels never naturally appear in the overworld.
--   Has a small chance to say "behold my magic spell" when casting light piercer.
-    
-    1
+-   Angels are prone to retreating/dodging by moving backwards from you, making it sometimes frustrating to fight them.

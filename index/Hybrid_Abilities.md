@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 127723
+revid: 127790
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -12,7 +12,7 @@ _**FOREWORD**: **A table visualizing the requirements of every hybrid ability ca
 
 ## Overview
 
-**Hybrid Abilities** are a special category of [Mantras](Mantras.md) and [Talents](Talents.md) that require investment in multiple [Attunements](Attunements.md) to use. Hybrid Mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). Hybrid Mantras scale off of both of their attunement stats.
+**Hybrid Abilities** are a special category of [Mantras](Mantras.md) and [Talents](Talents.md) that require investment in multiple [Attunements](Attunements.md) to use. Hybrid Mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). **Hybrid Mantras scale off of both of their attunement stats.**
 
 ## Mantras
 
@@ -41,7 +41,6 @@ Flame + Blunt
     -   Deals moderate damage.
     -   Can apply both Electrified and Burning.
     -   Compatible with Surge Path, Eruption Path, Wraith Path, and Azure Flames.
-    -   Scales with both Flamecharm and Thundercall.
 
  |
 | 
@@ -64,7 +63,6 @@ Lightning + Metal
     -   Deals light damage.
     -   Can apply Electrified.
     -   Compatible with Surge Path and Gilded Path.
-    -   Scales with both Ironsing and Thundercall.
     -   Can be modified with [Eternal and Aeon Logstones](Mantra_Modifiers.md) to increase its duration slightly.
     -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to summon more.
     -   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md) allowing it to move.
@@ -89,7 +87,6 @@ Ice + Shadow
 -   **Requirements: 30 Frostdraw, 30 Shadowcast**_**,**_ _Combat Mantra_
     -   Deals moderate damage.
     -   Inflicts Chill.
-    -   Scales with both Frostdraw and Shadowcast.
     -   Compatible with [Cloudstones/Stratus Stones](Mantra_Modifiers.md)
     -   Can be modified with [Magnet Spark](Mantra_Modifiers.md) allowing it to follow the user.
 
@@ -115,7 +112,6 @@ Wind + Lightning + Slash
     -   Deals light damage.
     -   Inflicts Electrified.
     -   Compatible with Surge Path and Specter Path.
-    -   Scales with both Thundercall and Galebreathe.
 
  |
 

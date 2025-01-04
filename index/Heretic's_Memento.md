@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 127152
+revid: 127821
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -34,4 +34,4 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   Added in the 'World Events' update.
--   the "Giantslayer" talent was forgotten to be added in the talent list on the wiki for the armor.
+-   The "Giantslayer" Talent was merged with [Underdog](Talents.md#champion), making this outfit very unique.

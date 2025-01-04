@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 127637
+revid: 127803
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -79,7 +79,7 @@ To progress Saintsworn, you need to complete [World Events.](World_Events.md) ([
 
 With the first completion of the World Event, you will get Ether Proselyte, Hero's Assist and Saint's Negation.
 
-With the second completion, you will get the Saint's Sinergy and Saint's Overload.
+With the second completion, you will get Saint's Synergy and Saint's Overload.
 
 ## Critical(s)
 
@@ -145,15 +145,15 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 
 ## Dialogue
 
-**Flamecharm Obelisk**: "I've seen what happens when fire burns too hot. It leaves nothing behind but ruin. If you choose this path, remember. you will never be the same. Flame is both a gift and a curse, and it will show you what you're made of..." - Jace
+**Flamecharm** **Obelisk**: "I've seen what happens when fire burns too hot. It leaves nothing behind but ruin. If you choose this path, remember. you will never be the same. Flame is both a gift and a curse, and it will show you what you're made of..." - Jace
 
-**Galebreathe** Obelisk**: "You must decide, seeker. Will you let the wind carry you, or will you struggle against its pull? It is a path only those who truly understand the winds dare to walk." - Trinity Galenwarde**
+**Galebreathe** **Obelisk**: "You must decide, seeker. Will you let the wind carry you, or will you struggle against its pull? It is a path only those who truly understand the winds dare to walk." - Trinity Galenwarde
 
-**Shadowcast Obelisk**: "Once, I stood with the Five, a hero among them. But loyalty? It's a fragile thing. Betrayal? It's as inevitable as the night." - Urek Felhand
+**Shadowcast** **Obelisk**: "Once, I stood with the Five, a hero among them. But loyalty? It's a fragile thing. Betrayal? It's as inevitable as the night." - Urek Felhand
 
-**Frostdraw** Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else." - Faust**
+**Frostdraw** **Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else." - Faust
 
-**Thundercall Obelisk**: "Thundercall, huh? You want that power? That zing that come with it? But remember thundercall isn't something you can control easily, not even if you try really hard." - Tessa
+**Thundercall** **Obelisk**: "Thundercall, huh? You want that power? That zing that come with it? But remember thundercall isn't something you can control easily, not even if you try really hard." - Tessa
 
 ## Trivia
 

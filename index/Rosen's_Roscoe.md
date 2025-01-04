@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 127771
+revid: 127794
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Summer Company]
@@ -15,7 +15,7 @@ categories: [Weapons, Flintlocks, Summer Company]
 | damage | 16 |
 | scaling | 11 |
 | range | 11 |
-| swing speed | 1.2 |
+| swing speed | 1.2x |
 | chip damage | 20% |
 | selling price | 75 |
 | weight | 3.5 |
@@ -28,9 +28,11 @@ categories: [Weapons, Flintlocks, Summer Company]
 
 ## Description
 
-Rosen's Roscoe is a [1 Handed Gun](Guns.md) weapon. It requires 75 points in Light weapons to be utilized. Can be found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), and [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
+Rosen's Roscoe is a [1 Handed Gun](Guns.md) weapon. It requires 75 points in Light weapons to be utilized. Can be found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md), [Dread Serpent](Dread_Serpent.md) and [The Depths](The_Depths.md).
 
 ## Trivia
 
 -   The gun's model is similar to a standard Colt navy revolver.
+-   Second fastest pistol in the game in terms of swing speed.
+-   The weapon is also called 'big iron' in the campfire menu.
 -   Along with the [Iron Requiem](Iron_Requiem.md), these are the only two flintlocks in the game to have a unique sound effect on M1/crit.

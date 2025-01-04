@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 127672
+revid: 127825
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -24,6 +24,10 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 ### Obtainable Oaths
 
+_Notes:_  
+_"comb." means a combined total across multiple listed stats_  
+_WEP = Any weapon stat (HVY, MED, LHT)_
+
 [Oathless](Oath%253A_Oathless.md)
 
 (N/A)
@@ -34,8 +38,7 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 [Bladeharper](Oath%253A_Bladeharper.md)
 
-(75 MED OR cmb. 90 WEP/  
-25 STR OR AGL)
+(75 MED OR comb. 90 WEP/25 STR OR AGL)
 
 [Blindseer](Oath%253A_Blindseer.md)
 
@@ -47,7 +50,7 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 [Chainwarden](Oath%253A_Chainwarden.md)
 
-(cmb. 40 STR OR FTD OR WLL)
+(comb. 40 STR OR FTD OR WLL)
 
 [Dawnwalker](Oath%253A_Dawnwalker.md)
 
@@ -67,8 +70,7 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 [Saintsworn](Oath%253A_Saintsworn.md)
 
-(20 LTN/20 SDW/20 FIR/  
-20 ICE/20 WND)
+(20 LTN/20 SDW/20 FIR/20 ICE/20 WND)
 
 [Saltchemist](Oath%253A_Saltchemist.md)
 
@@ -76,8 +78,7 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 [Silentheart](Oath%253A_Silentheart.md)
 
-(75 WEP/25 STR/  
-25 AGL OR CHA)
+(75 WEP/25 STR/25 AGL OR CHA)
 
 [Starkindred](Oath%253A_Starkindred.md)
 

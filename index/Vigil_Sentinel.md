@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 127548
+revid: 127819
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, Etrea, World Event]

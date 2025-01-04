@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 127731
+revid: 127822
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 The Heart of Enmity is a [Boss](Bosses.md) found in the [First Layer](First_Layer.md) of the Depths, located in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). A gargantuan creature wrought of iron and animosity and far superior to any mere [Enforcer](Enforcer.md), it is an incarnation or creation of the [Voice of Enmity](Voices_of_the_Depths.md#voice-of-enmity), a response to those making a mockery of the Trial with sheer numbers.
 
-This boss needs 5 players to go to depths trial at once, and there must be a combined power score of 50 between players.
+This boss needs 5 players to go to depths trial at once, and one player must have at least 50 difficulty score (+3 score per Power and +1 score per Drown).
 
 ## Moveset
 

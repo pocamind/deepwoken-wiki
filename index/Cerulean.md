@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-revid: 124902
+revid: 127797
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]

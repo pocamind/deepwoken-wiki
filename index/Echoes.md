@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 127776
+revid: 127795
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -192,6 +192,21 @@ There are 14 upgrades to purchase, and each can be purchased a maximum of 1 to 6
   <td><center><b>Soul Plasticity</b></center></td>
   <td><center>Grants immunity to the Tarnished flaw.</center></td>
   <td><center>500 Echoes</center></td>
+  <td><center>1</center></td>
+  <td><center>1</center></td>
+</tr>
+<tr>
+  <td><center><b>Multifaceted</b></center></td>
+  <td><center>The Attribute point you usually recieve from your aspect are free for you to allocate.</center></td>
+  <td><center>250 Echoes</center></td>
+  <td><center>1</center></td>
+  <td><center>1</center></td>
+  <td></td>
+</tr>
+<tr>
+  <td><center><b>Elementalist</b></center></td>
+  <td><center>You no longer have a limit to how many attunements you can start with,And can freely allocate point through them in character creation.</center></td>
+  <td><center>200 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>1</center></td>
 </tr>
