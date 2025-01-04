@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 127669
+revid: 127707
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -45,10 +45,6 @@ This is where the Attunement trainer is located.
 ## Mantras
 
 ### Combat
-
-**Standard:**
-
-These mantras have no prequisites.
 
 | **Image** | **Name** | **Card Description** | **Damage Type** | **Effect** |
 | --- | --- | --- | --- | --- |
@@ -429,6 +425,75 @@ Ice
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md), creating ice on the ground and stabbing the opponent with pillars. This variant does not apply chill, and can be modified with Vibrant Gems to increase the size of the ice created.
 
  |
+|   
+ | 
+
+Crystal Knee  
+(★★☆)
+
+ | 
+
+_Knock your enemy skyward with a kick of crystal._
+
+ | 
+
+Ice
+
+ | Perform a short flipkick that launches the user's target into the air.
+
+(Glasspath: Crystallization is required to learn this mantra.)
+
+-   Deals moderate damage.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md) to cause the user of the mantra to perform a side kick that knocks away target(s) instead of launching them upward.
+
+ |
+| 
+
+ | 
+
+Crystal Impale  
+(★★☆)
+
+ | 
+
+_Impale your foes with a brutal crystal smash._
+
+ | 
+
+Ice
+
+ | Ascend before performing a quick spinning dash towards the user's target.
+
+(Glasspath: Crystallization is required to learn this mantra.)
+
+-   Deals light damage.
+-   Can be modified with a spring spark, making the user spin more.
+
+ |
+|  | 
+
+Ice Lasers  
+(★★☆)
+
+ | 
+
+_Swift bolts of frozen air._
+
+ | 
+
+Ice
+
+ | Fires a bullet of ice.
+
+(Glasspath: Crystallization is required to learn this mantra.)
+
+-   Deals light damage.
+-   Inconsistent Hitbox.
+-   Is similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
+-   Can be modified with a [Cloudstone](Mantra_Modifiers.md) to increase the shots fired.
+-   Can be paired with a [Spring Spark](Mantra_Modifiers.md) to delay the projectile from traveling.
+
+ |
 |  | 
 
 Ice Cubes  
@@ -475,107 +540,6 @@ Ice
 -   Creating an Obelisk on top of target(s) will stun them for 1 second.
 
  |
-
-**Crystal:**
-
-These mantras require Glasspath: Crystallization ability (40 Frostdraw) to have them appear in your deck.
-
-| Media | Name | Card Description | Effect |
-| --- | --- | --- | --- |
-|  | 
-Crystal Knee  
-(★★☆)
-
- | 
-
-_Knock your enemy skyward with a kick of crystal._
-
- | 
-
-Ice
-
- | Perform a short flipkick that launches the user's target into the air.
-
--   Deals moderate damage.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md) to cause the user of the mantra to perform a side kick that knocks away target(s) instead of launching them upward.
-
- |
-| 
-
- | 
-
-Crystal Impale  
-(★★☆)
-
- | 
-
-_Impale your foes with a brutal crystal smash._
-
- | 
-
-Ice
-
- | Ascend before performing a quick spinning dash towards the user's target.
-
--   Deals light damage.
--   Can be modified with a spring spark, making the user spin more.
-
- |
-|  | 
-
-Ice Lasers  
-(★★☆)
-
- | 
-
-_Swift bolts of frozen air._
-
- | 
-
-Ice
-
- | Fires a bullet of ice.
-
--   Deals light damage.
--   Inconsistent Hitbox.
--   Is similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
--   Can be modified with a [Cloudstone](Mantra_Modifiers.md) to increase the shots fired.
--   Can be paired with a [Spring Spark](Mantra_Modifiers.md) to delay the projectile from traveling.
-
- |
-
-|-
-
-|width=32%; rowspan="3"; class="mobile-hidden" id="{{{n"|
-
-**{{{n** me}}}
-
- _{{{desc}}}_
-
-|width=32%; colspan="3"; class="mobileonly" id="{{{n"|
-
-## {{{n me}}}
-
-  
-_{{{desc}}}_
-
-|-style="padding:0px; height:1% !important;"
-
-|
-
-{{{ethercostesc}}}
-
-|
-
-{{{dmgtype}}}
-
-|
-
-{{{reqs}}}
-
-|- |colspan="5"| {{{noeffect}}} |-
-
-  
 
 ### Mobility
 
@@ -675,8 +639,6 @@ N/A
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Talents
 

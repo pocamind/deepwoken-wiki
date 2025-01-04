@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 127059
+revid: 127698
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -161,6 +161,8 @@ Variants
 
 [Aegis of Enmity](Aegis_of_Enmity.md)
 
+(**Unique**)
+
  | 
 
 _+5 Health_
@@ -179,6 +181,8 @@ Found From:
 | File:Alchemist Hat.png | 
 
 [Alchemist's Hat](<Alchemist's_Hat.md>)
+
+(**Series**)
 
  | 
 
@@ -281,6 +285,8 @@ Found from:
 
 [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
 
+(**Series**)
+
  | 
 
 +1 Rare Pip
@@ -302,6 +308,8 @@ Found from:
 | File:Big Herbalist's Hat.png | 
 
 [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
+
+(**Series**)
 
  | 
 
@@ -406,6 +414,8 @@ Found from:
 
 [Black Strapped Hat](Strapped_Hat.md)
 
+(**Series**)
+
  | 
 
 _+3 Health_  
@@ -452,7 +462,7 @@ Found from:
 
 [Bloodforged Crown](Bloodforged_Crown.md)
 
-(Mythical)
+(**Mythical**)
 
  | 
 
@@ -680,7 +690,7 @@ Found from:
 
 [Deepscorn Casque](Deepscorn_Casque.md)
 
-(Mythical)
+(**Mythical**)
 
  | 
 
@@ -731,6 +741,8 @@ Found from:
 
 [Double Strapped Hat](Strapped_Hat.md)
 
+(**Series**)
+
  | 
 
 _+3 Health_  
@@ -753,7 +765,9 @@ Found from:
 
 [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>)
 
-(Hallowtide)
+(**Hallowtide**)
+
+(**Legendary**)
 
  | 
 
@@ -776,7 +790,9 @@ Found from:
 
 [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>)
 
-(Hallowtide)
+(**Hallowtide**)
+
+(**Legendary**)
 
  | 
 
@@ -799,7 +815,9 @@ Found from:
 
 [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)
 
-(Hallowtide)
+(**Hallowtide**)
+
+(**Legendary**)
 
  | 
 
@@ -894,7 +912,7 @@ Found from:
 
 [Grand Fisher Helm](Grand_Fisher_Helm.md)
 
-(Mythical)
+(**Mythical**)
 
  | 
 
@@ -983,6 +1001,8 @@ Found from:
 
 [Herbalist's Hat](<Herbalist's_Hat.md>)
 
+(**Series**)
+
  | 
 
 +1 Uncommon Pip
@@ -1005,7 +1025,7 @@ Found from:
 
 [Immortal Helm](Immortal_Helm.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -1105,6 +1125,8 @@ Found from:
 
 [Kyrsmas Hat](Kyrsmas_Hat.md)
 
+(**Limited Time Event**)
+
 (**Unique**)
 
  | 
@@ -1171,7 +1193,7 @@ File:Monastery Champion Cowl NEW.png
 
 [Monastery Cowl](Monastery_Cowl.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -1193,9 +1215,11 @@ Found from:
 
 [Mushroom Costume](Mushroom_Costume.md)
 
-(Hallowtide)
-
 (**Series**)
+
+(**Hallowtide**)
+
+(**Legendary**)
 
  | 
 
@@ -1212,7 +1236,7 @@ Found from:
 
 [Party Hat](Party_Hat.md)
 
-(1 Billion Visits)
+(**Limited Time Event**)
 
  | 
 
@@ -1254,6 +1278,8 @@ Found from:
 
 [Parasol Planter](Parasol_Planter.md)
 
+(**Unique**)
+
  | 
 
 _+7 Health_
@@ -1277,7 +1303,9 @@ Found from:
 
 [Pumpkin Head](Pumpkin_Head.md)
 
-(Hallowtide)
+(**Hallowtide**)
+
+(**Legendary**)
 
  | 
 
@@ -1385,6 +1413,8 @@ Found from:
 
 [Tillian's Beret](<Tillian's_Beret.md>)
 
+(**Unique**)
+
  | 
 
 _+7 Health_
@@ -1473,6 +1503,10 @@ Found from:
 | File:Brimlilal2.png | 
 
 [Warlock's Brim](<Warlock's_Brim.md>)
+
+(**Unique**)
+
+(**Series**)
 
  | 
 
@@ -1832,6 +1866,8 @@ Found from:
 
 [Bastions of Enmity](Bastions_of_Enmity.md)
 
+(**Unique**)
+
  | 
 
 _+10 Health_
@@ -2122,6 +2158,8 @@ Found from:
 | File:Black Deepwoken Cloak.png | 
 
 [Deepwoken Cloak](Deepwoken_Cloak.md)
+
+(**Series**)
 
 (Legendary)
 
@@ -3299,29 +3337,6 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
-|  | 
-
-[Summer Scarf](Summer_Scarf.md)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+5 Health_
-
-+1 Legendary Pip
-
-**Requires Power 5**
-
- | 
-
-Found from:
-
--   [Interluminary Parasol](Interluminary_Parasol.md)
-
- | N/A |
 | File:Vanguardbrace.png | 
 
 [Vanguard Brace](Vanguard_Brace.md)
@@ -3373,6 +3388,12 @@ Found from:
 | File:Navymantle.png | 
 
 [Warlock's Mantle](<Warlock's_Mantle.md>)
+
+(**Series**)
+
+(**Animated**)
+
+(**Unique**)
 
  | 
 
@@ -4168,6 +4189,8 @@ Found from:
 
 [Wartreads of Enmity](Wartreads_of_Enmity.md)
 
+(**Unique**)
+
  | 
 
 _+5 Health_  
@@ -4259,6 +4282,8 @@ Variants
 | File:Black Cape.png | 
 
 Black Cape
+
+(**Series**)
 
  | 
 
@@ -4425,6 +4450,8 @@ Found from:
 | File:Golden Cape.png | 
 
 Golden Cape
+
+(**Series**)
 
  | 
 
@@ -4768,7 +4795,7 @@ Found from:
 
 [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)
 
-(Deep Relic)
+(**Relic**)
 
  | 
 
@@ -4790,7 +4817,7 @@ Sources:
 
 [Tiran Pendant](Tiran_Pendant.md)
 
-(Deep Relic)
+(**Relic**)
 
  | 
 
@@ -4815,7 +4842,7 @@ Sources:
 
 [Warmaster's Medallion](<Warmaster's_Medallion.md>)
 
-(Deep Relic)
+(**Relic**)
 
  | 
 
@@ -4839,7 +4866,7 @@ Sources:
 
 [Whistling Periapt](Whistling_Periapt.md)
 
-(Deep Relic)
+(**Relic**)
 
  | 
 
@@ -4927,6 +4954,8 @@ Found from:
 
 [Black Blindfold](Blindfold.md)
 
+(**Series**)
+
  | 
 
 +1 Common Pip
@@ -4985,10 +5014,12 @@ Found from:
 
 [Citadel Frames](Citadel_Frames.md)
 
+(**Series**)
+
  | 
 
 +5 Health  
-\-1 Posture  
+\-1 or -2 Posture  
 
 +1 Rare Pip
 
@@ -5011,6 +5042,8 @@ Regular, Amber, & Azure |
 |  | 
 
 [Crimson Blindfold](Blindfold.md)
+
+(**Series**)
 
  | 
 
@@ -5153,6 +5186,8 @@ Found from:
 
 [Nauticals](Summer_Nauticals.md)
 
+(**Series**)
+
  | 
 
 +1 Rare Pip
@@ -5207,6 +5242,8 @@ Found from:
 | File:Blue.PNG | 
 
 [Royal Guard](Aspirant_Mask.md)
+
+(**Series**)
 
  | 
 
@@ -5282,6 +5319,8 @@ Source from:
 |  | 
 
 [Thrall of Enmity](Thrall_of_Enmity.md)
+
+(**Unique**)
 
  | 
 

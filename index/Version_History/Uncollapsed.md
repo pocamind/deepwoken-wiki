@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 124812
+revid: 127708
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -19,6 +19,137 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **December 23rd, 2024**
+
+**World Events**  
+• Every hour, every server in a Luminant will receive a notification that a World Event has started  
+• Every server in a Luminant will have the same World Event, though different Luminants may have different World Events running  
+• World Events are intended to be events that everyone in a server can participate in. Unique rewards are available for each event, as well as a generous helping of EXP  
+• Added World Event: Caeranthil's Wake  
+• Added World Event: Carnival of Hearts  
+• Added World Event: Interluminary Interloper  
+  
+**Content & Systems**  
+• New Oath: Saintsworn  
+• New Boss: Heart of Enmity. Huge shout-out to all the devs who worked tirelessly to get this guy ready  
+• New Equipment & Gear  
+• Bosses now have healthbars  
+• You can now unequip Deep Gems from your Mantras without recalling them  
+• Added a Confirm button to the kill screen  
+• Added support for horizontal rules to books. Helps split pages up a lot more legibly  
+• Modifiers to crafting like Campfires and Craft Stations now appear as icons beside your craft menu when active  
+• Added Icons for all Galebreathe Mantras. Big thanks to zyzyth for their help with designing these!  
+• Added Icons for Disguise and Tacet Drop Kick. Added an icon for Roll 2's  
+• Mantra tools now display their icon if they have one  
+• Mantra icons are now visible in the Rest menu  
+• Updated danger skull visuals  
+• Talent, Equipment, and Mantra Rest menus now scale their contents much more dynamically. No more unreadable descriptions!  
+• New Music Track: A Carnival Of Hearts  
+• New Music Track: Bigtop Breakdown  
+• New Echo Modifier added: "Glass Bones". Any damage you take with this modifier active will immediately knock you out. For challenge runners. Not required for any achievements  
+• Nemit's Sickle has been remodelled  
+• Giantslayer has been merged into Underdog. If you had Giantslayer, you'll be refunded a hand of talents. Underdog WLL req reduced (50 -> 40)  
+  
+**Drowned Favour Reset**  
+• Drowned Favours have been reset, meaning that if you've already used once on a character you can revive them once more by acquiring another Drowned Favour  
+  
+**Balancing & Tweaks**  
+• Lingering block frames after failed parries now decay 0.1 seconds after blocking a hit instead of being removed immediately. This should make them work against rapid multihits  
+• Parry stun, block stun, and shaky block frames now factor in weapon speed buffs/debuffs into their calculations. This means that if e.g. Lightning Cloak increases your swing speed from 0.95x to 1.05x, your parry stun, block stun, and shaky block frames will match a weapon with 1.05x speed, instead of 0.95x  
+• Daggers no longer have an innate 25% penalty to their shaky block frames. This was originally in place due to their high swing speed, but considering swing speed has reduced shaky block frames since October '24, this isn't really necessary anymore  
+• Proficiency now gives +2.5% PEN on Weapons per point (down from 3%)  
+• Songchant now gives +2.5% PEN on Mantras per point (down from 3%)  
+• You can now purchase Fiber in Guild Laboratories  
+• Extended Air Pressure frames after hitting a block (1s -> 1.5s). Air Pressure cooldown now only starts when you use the Gale Dash, not when you proc Air Pressure  
+• Fixed a lot of issues with Gale Dashes not properly matching regular dash iframes  
+• Knives enemies now deploy their timeslow bubbles with a destructible core and are free to attack you  
+• Human mob mantra usage has been overhauled, making them use Mantras more intelligently. In general, they're much more likely to utilise Mantras when it would be favourable to them, and will try to maintain distance if they know they have a long-ranged mantra currently off CD that you're in range of  
+• Grand Support now only procs on allies  
+• Lord's Tithe now cancels on victims once they drop beneath 5% Ether  
+• Speed Demon bleed procs now only increase your total damage by 15% instead of 30%  
+• Bloodcurdle can now be properly vented during its windup (finally)  
+• You can now zoom out your camera further in boss fights  
+• Increased Umbrite Witherblade swing speed (1x -> 1.02x)  
+• Reduced Umbral Bullet damage multiplier (+20% -> +10%), reduced fire delay downside (+50% -> 25%)  
+• Curse of the Bloodthirsty no longer procs on Silentheart moves  
+• Silentheart moves now share the CD for Detonation procs with crits  
+• Disabled Tacet, Graceful Flame in Depths Trials. The Voices of Celtor have grown tired of these tricks  
+• Fixed inconsistent airtime on Rockmaller aerial crit, now has a minimum airtime. Additional damage is now based on airtime instead of distance aimed at  
+• Storm Blades Tornado Spark now falls back to its default variant while in water  
+• Fixed a lot of grabs working against mobs that are meant to be immune  
+  
+**Optimization**  
+• Optimized and remade a lot of common props on maps. Should have a pretty big impact as e.g. the circular wall lamps had 14.5k tris and 13 parts each, which has been reduced to 184 tris and 2 parts each. In the East Luminant alone, there were 120 of these wall lamps, so that's a reduction of 1723680 tris across just the East Luminant  
+• Disabled navmesh generation on trees. Should reduce the size of the navmesh by quite a bit since trees occupy quite a lot of map geometry  
+• Reduced physics impact of equipment by disabling all equipment collisions and collision geometry  
+• Hit VFX is now all client-sided and should match the location you hit your opponent at  
+• Optimized mob corpses to be clientsided  
+• Optimized character loading  
+  
+**Bugfixes**  
+• Fixed fruits not dropping from felled trees once and for all  
+• Fixed dialogue not loading in until certain network requests had completed  
+• Fixed Blade's Edge  
+• Fixed janky physics on Chaser blood grab  
+• Fixed Diluvian not being counted as the Depths properly  
+• Added some failsafes that should help prevent chests spawning in walls/floors  
+• Fixed Dread Serpent completion chests spawning inside of terrain or below the sea  
+• Fixed Sightless Still not proccing  
+• Fixed Eruption procs not being blue with Azure Flames  
+• Fixed Rockmaller aerial failing randomly  
+• Fixed Static Fakeout movestacks  
+• Fixed Rockmaller always using the aerial form in the Interstice  
+• Fixed being able to get wiped by Misérables despite having a Lighthook  
+• Fixed not being teleported out of Layer 2 if Misérables wiped you  
+• Turned off collision on Misérables to prevent getting AA-gunned while standing on him  
+• Fixed a few events that were ending prematurely  
+  
+**Update Schedule**  
+• We're going to be pushing the update out to Instanced servers (i.e. Dungeons, Chime) first while we do some final bugfixing for World Events  
+• We'll push the update out to the Overworld (Depths, Etrean Lum, East Lum) once we've verified that the update is good to go. Shouldn't be long!
+
+### _**Patch 2.0.8a**_
+
+• Fixed Carnival of Hearts World Event  
+• Fixed being unable to target others with Resurrection Bell  
+  
+• Fixed Saintsworn Shrines dialogues not going away and having bugged text  
+• Fixed Carnival of Hearts  
+• Fixed being unable to target others with Resurrection Bell  
+• Fixed Tacet being completely unusable
+
+### _**Patch 2.0.8b**_
+
+**Hotfixes & Small Changes**  
+• World Events are no longer RNG and instead operate on a set rotation  
+• Mantra tools now use their element as their icon if they don't have a custom icon  
+• Fixed Oathless, Padded Armor and Steel Scales armor buffs not showing up in the resistances tab  
+• Oathless Wildcard Slots buffed (2 -> 3)  
+• Saintsblade Lightning Mantra windup increased  
+• Added Lightning/Frost pitfalls. Basically lava but for Lightning/Ice  
+• Fixed Face Cutter  
+• Fixed some issues with roll-cancels auto-feinting M1's  
+• Fixed some mobs voiding if you used Mantras like Rising Thunder on them  
+  
+• Fixed Servants of Enmity not despawning after Enmity dies  
+• Fixed Sanguine Finery not being craftable due to a typo in the crafting requirements  
+• Enmity is now immune to all enchant effects; fixed immunity against Sear and Grim enchants not working  
+• Enmity now has 65% Oath damage resistance
+
+### _**Patch 2.0.8c**_
+
+• Fixed Enmity loot not being sellable  
+• Fixed both Aelita and Tillian being named "AelitaTillian" in dialogue  
+• Fixed Rising Thunder teleporting you to oblivion
+
+### _**Patch 2.0.8d**_
+
+• Fixed the huge lagspikes from Radiant Dawn  
+• Added a setting to disable the confirmation prompt for leaving the game. If your items are at risk of voiding, the game will still prompt you before leaving  
+• Fixed a number of Unique rarity items not being sellable, including Enmity and World Events loot. For real this time.  
+• Fixed a bug with Circus that would sometimes teleport non-participants into the spectator stands  
+• Fixed Enmity only rarely playing Baseball with grabbed players
 
 ## **December 14th, 2024**
 

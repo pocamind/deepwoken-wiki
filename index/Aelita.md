@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 127671
+revid: 127695
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Oath Trainer, World Event]
@@ -27,6 +27,8 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 She is the twin sister of [Tillian](Tillian.md).
 
 Aelita is 182.5 years old
+
+Tillian and her last name is Arlekino.
 
 ## Event
 

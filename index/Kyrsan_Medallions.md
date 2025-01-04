@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 124998
+revid: 127727
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2, Currency]
@@ -49,3 +49,4 @@ Medallions can also be spent at [Misérables](Misérables.md) for a unique deal:
 -   There is proof of obtaining them from Fishing in the past; whether or not this has been shadow patched is unclear.
 -   [Dye Packets](Dye_Packet.md) cannot be dropped, but this can easily be bypassed by dyeing a piece of armor and then dropping that armor piece to whoever needs it.
 -   The medallions used to be kept as a physical item after leaving the [Second Layer](Second_Layer.md). This was changed in order to fight exploiters abusing the system.
+-   You can't exchange medallions with Klaris when below Power 15

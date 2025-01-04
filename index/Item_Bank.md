@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 118174
+revid: 127726
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -33,6 +33,7 @@ Along with this ability comes several limitations, being that certain items of s
 -   When storing weapons or armor, they will take up their own slot and cannot stack like regular items do.
 -   Starter echoed items cannot be stored.
 -   You can store food that can be stacked.
+-   You can have a max of 100,000 notes in your bank account at a time.
 
 ## Miscellaneous
 

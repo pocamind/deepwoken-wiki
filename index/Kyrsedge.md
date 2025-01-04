@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 124252
+revid: 127710
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]

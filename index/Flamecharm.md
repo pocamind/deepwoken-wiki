@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 125508
+revid: 127704
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -390,7 +390,7 @@ _Strike the ground, turning it to ash._
 
 ### Mobility Mantras
 
-| **Image** | **Spell** | **Card Description** | Damage Type | **Effect** |
+| **Image** | **Spell** | **Card Description** | **Damage Type** | **Effect** |
 | --- | --- | --- | --- | --- |
 |  | 
 Flame Leap
@@ -432,7 +432,7 @@ _Leap up leaving behind a burst of flames._
 
 ### Support Mantras
 
-| **Image** | **Name** | **Card Description** | Damage Type | **Effect** |
+| **Image** | **Name** | **Card Description** | **Damage Type** | **Effect** |
 | --- | --- | --- | --- | --- |
 |  | 
 Flame Wisp

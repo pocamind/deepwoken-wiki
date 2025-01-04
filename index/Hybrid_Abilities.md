@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 126526
+revid: 127723
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -10,9 +10,11 @@ categories: [Mantras, Character, Attunement, Mechanics]
 
 _**FOREWORD**: **A table visualizing the requirements of every hybrid ability can be found [\[here\]](https://docs.google.com/spreadsheets/d/10XWlQrWREAcNno86_VbON9Y71Qs1SbbaNABcRdYBf30/edit?gid=1468165034#gid=1468165034)**_
 
-## _Mantras_
+## Overview
 
-**"Hybrid Mantras"** are a special category of [mantras](Mantras.md) that require investment in multiple [attunements](Attunements.md) to use, these mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). Hybrid Mantras use dual scaling meaning that they typically scale off either one of their attunement stats.
+**Hybrid Abilities** are a special category of [Mantras](Mantras.md) and [Talents](Talents.md) that require investment in multiple [Attunements](Attunements.md) to use. Hybrid Mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). Hybrid Mantras scale off of both of their attunement stats.
+
+## Mantras
 
 | **Media** | **Name** | **Card Description** | **Damage Type** | **Ether Cost** | **Effect & info** |
 | --- | --- | --- | --- | --- | --- |
@@ -1028,6 +1030,5 @@ Wind + Lightning + Slash
 
 -   Tempest Blitz was the first hybrid mantra introduced into the game on 12/19/2023.
 -   Upon its release, Permafrost Prison was incredibly powerful and had to be quickly nerfed, causing it to be one of the quickest and harshest nerfs towards any mantra.
--   [The Mystic](Mystic.md) can be used to guarantee hybrid [Mantras](Mantras.md) or [Talents](Talents.md) in your next whisper hand if the requirements have been met.
 -   [Thundercall](Thundercall.md) has the most Hybrid Mantras, with 3 out of the 4 scaling off of it
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
