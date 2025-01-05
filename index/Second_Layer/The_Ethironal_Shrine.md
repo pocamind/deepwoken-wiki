@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 125035
+revid: 127840
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -77,6 +77,8 @@ Though, these are reducable via the following means.
 Otherwise, in order to remove your parasites, you must interact with an [Ignition Lantern](../Ignition_Lanterns.md), which removes all parasites instantly.
 
 However, it is important to be warned of **parasite pools**, which **heavily accelerate** parasite gain by **5x**.
+
+[Insanity](../Insanity.md) also influences parasite gain, so if you go into a parasite pool with Heretic's Sutra used, you better get out quickly.
 
 ### Wind
 
@@ -238,3 +240,4 @@ It is important to note that **very few** good items drop from standard enemy lo
 -   While [Dimensional Travel](../Dimensional_Travel.md) is able to be used, it instead flings the user similar to the winds.
 -   The Lighthook will recharge even if you're not ingame or on that slot.
 -   Activating the generator will spawn a bounder.
+-   There is a frozen yeti at the side of Firfire, it looks very similar to the [Yeti found in Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Yeti)

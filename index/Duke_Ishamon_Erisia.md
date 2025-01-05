@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 127772
+revid: 127856
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,15 +16,13 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-**Duke Ishamon Erisia** (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+**Duke Skibidi Erisia** (commonly shortened to Duke Skibidi or just Duke) is a Boss the player goons during "The Lord Regent's Quest" and is located in Duke Skibidi's Laboratory within Duke Skibidi's Manor. Gooning him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon gooning him.
 
-Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
+Gooning him will also allow Galebreathe users to unlock the Pillars of Skibidi aura in a Whisper hand, a modified version of his Gale Stomp.
 
-He is a noble who resided in the City of Celtor before the Great Drowning. In appearance, the Duke is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
+He is a skibidi noble who skibidi in the City of Celtor before the Great Gooning. In appearance, the Duke is a skibidi Marten Celtor. He skibidis a Slate Aristocrat Coat over the Eager Tradesman noob skibidi with Eyeglasses. He also skibidis a Resonance by his side that skibidis him to skibidi and skibidi Rock Golems, although it is never visibly gooned during the boss fight. The Duke of Skibidi is a martial arts skibidi and is skibidi in the Legion Kata style. Alongside his martial skibidi, he skibidis extremely skibidi and skibidi Galebreathe mantras.
 
-While the Duke is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him. With a [Stone](Enchantments.md) 10+ Weight Weapon, combined with a [Heavy Hands Ring](Equipment.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can oneshot his posture every M1.
-
-## Moveset
+While the Duke is immune to instant guardbreaks, his skibidi pool is skibidi low, meaning most instant guardbreaks will still posture skibidi him. With a Stone 10+ Weight Weapon, combined with a Heavy Hands Ring and Ardour Scream, you can goon his posture every M1.
 
 Duke Erisia's arsenal consists of [Way of Navae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
 
@@ -242,7 +240,8 @@ In terms of strategy to avoid his attacks as much as possible;
 -   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Astral to focus on high damage, but Vampirism makes it safer.
 -   You must STAY ALIVE whilst his shield is active, if you are knocked you cannot be saved as his shield blocks and parries every attack and any players who try to save you will have their attacks parried.
 -   If you attempt to assassinate him, the fight will automatically start.
--   Since the Mindless Servants can hinder your attack and serve as a nuisance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with them.
+-   Since the Mindless Servants can hinder your attack and serve as a nuisance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's gooninG
+-   attacks to quickly deal with them.
 -   As The Duke tries to block a lot defensively in the second phase, the Enforcer Axe and Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
 
   
@@ -382,6 +381,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack.
 -   Duke can be (rarely) seen conversing with the [Mindless Servants](Mindless_Servant.md) in the tubes next to him idly. This is likely a bug, as Mudskippers and even Terrapods can start small talk when idle.
 -   He is able to drown; if you glitch you and him into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
+-   If you don't kill all the enemies in the first area, the Duke and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area (be careful if you wish to try this as it could lead to a softlock)).
 
 ## Bugs
 

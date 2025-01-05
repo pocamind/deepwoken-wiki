@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 127641
+revid: 127829
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event]
@@ -68,6 +68,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   Players can roll-clip onto the stands after the minigame has started, avoiding the minigames and other players.
 -   There is a bug(?) in which you can teleport to the Carnival of Hearts despite there being another [World Event](World_Events.md) going on at the same time via an already existing Aelita/Tillian. Entering using this method will cause you to be stuck in the Carnival of Hearts until you either reset or leave the game.
 -   There is a bug where, if you are voidwalking someone and enter the Carnival of Hearts, but your bounty does not, you will be teleported back to [Voidheart](Voidheart.md). In this state, you'll be unhittable, though you can't hit anyone back either.
+-   Entering the Carnival of Hearts solo, meaning no other players enter and you are alone, does not award any chests upon completion. Instead, you are teleported back to where you entered from and the text "It seems there wasn't enough turnout to the carnival" shows.
 
 ## Gallery
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 127704
+revid: 127834
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -475,6 +475,7 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 -   Requires ritual casting.
 -   Can be upgraded with Duration, Intensity and Mantra Size modifiers, as well as the Undying Flame talent.
     -   Adding intensity causes the flame to passively heal nearby players. Stacks with its normal healing.
+    -   The talent Azure Flames increases Undying Flame's passive healing by 20%.
     -   Each modifier adds signs to the ritual cast.
     -   The Undying Flame talent allows it to be cast in Layer 1 of the Depths. Lasts for a shorter duration in depths. However you cannot use this in the Depths Trials.
     -   Cannot be used in Layer 2 of the Depths at all.

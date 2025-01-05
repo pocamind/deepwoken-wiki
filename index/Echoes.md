@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 127795
+revid: 127855
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -359,6 +359,8 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
 -   Chain of Perfection was made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted it but made multihits give you less stacks.
 -   Not only does using the Idol of Yun'shul count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the Fragments of Self. However, your deal if used in fragments must **not** be Resonance Reroll, or it will most likely remove it from your completed tasks.
+-   Multifaceted makes the 5 innate race points such as using Vesperian will force 3 points into fortitude and 2 into willpower but with this echo upgrade you are able to freely move those points to be able to start with 0 into every stat when you start
+-   Elementalist allows you to have more then 2 elemnts on character starts so rather then have just 2 maximum you can start with 4 or 3 or even all of them, with this you can also allocate your attunement points freely such as starting a character with 3 flame 2 ice 3 shadow and 2 gale or 9 bloodrend and 1 thunder etc..
 
 ## References
 

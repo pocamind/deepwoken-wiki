@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 127826
+revid: 127850
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -79,7 +79,13 @@ Once the trial is completed, players are also granted total immunity to damage u
 
 ### _Note:_
 
-**Your Difficulty Score is calculated by "(Power x 3) + (Drown x 1)".** This dictates the type of enemy you will be faced with when initiating the Trial. Total times drowned can be viewed at a campfire (in the summary page); the number increases each time you are sent to the Depths through death (not whirlpools or Deepbound's "Call of the Deep").
+**Your Difficulty Score is calculated by "(Power x 3) + Drowns".** This dictates the type of enemy you will be faced with when initiating the Trial. Total times drowned can be viewed at a campfire (in the summary page); the number increases each time you are sent to the Depths through death (not whirlpools or Deepbound's "Call of the Deep").
+
+Some things add extra Difficulty Score:
+
+-   The echo mod **Vow Of Thorn** adds 30 Difficulty Score
+-   The **Shrine of Courage** adds 50 Difficulty Score
+-   The **Deepbound** Origin has an innate 50 Difficulty Score induced by Power (they count as being at least power 17). They normally gain Difficulty Score when above that.
 
 | Difficulty Score | Enemy(ies) |
 | --- | --- |
@@ -87,8 +93,8 @@ Once the trial is completed, players are also granted total immunity to damage u
 | 15-19 | [Mudskipper Knight](Mudskipper_Knight.md) |
 | 20-29 | [Lesser Angel](Hollow_Angel.md) |
 | 30-49 | [Megalodaunt](Megalodaunt.md) (which can be Corrupted) |
-| 50-69 or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| 70+ or Vow of Thorns and [deepbound](Origins.md), or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
+| 50-79 | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
+| 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
 | 5-8 players, one having a Difficulty Score of 50+ | [Heart of Enmity](Heart_of_Enmity.md) (Starting from the 9th player, they will get kicked out of the fight) |
 
 -   Some monster in Trials have a possibility of being corrupted.
@@ -118,7 +124,7 @@ Scyphozia, being a naturally hostile location, is intentionally difficult to sur
 
 -   _**Carnivore**_, the Talent that makes up part of the **Apex Predator** Talent tree, is important if you plan to stay in The Depths in the long term. It removes the ability to consume plants (mutual exclusive with Vegetarian flaw), but in exchange, gripping Players, NPCs, **AND** monsters will replenish your HP, Hunger, and Thirst meters. With most food in the Depths being poisonous, the steady supply of blue Jellyfish is more than enough to keep you satiated. Requires **5 Willpower** and **5 Strength**.
 -   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** Talent tree, is a good way to combat the slow drain of Sanity that being within purgatory imposes. Though all Talents in the **Mental Fortress** Talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity upon killing monsters of the Deep. Requires **10 Willpower**.
--   _**Giantslayer**_ allows more damage to larger foes. Good for fighting Sharkos, Lionfish and Crabs. Requires **20 Willpower.**
+-   _**Underdog**_ allows more damage to larger foes. Good for fighting Sharkos, Lionfish and Crabs. Requires **20 Willpower.**
 -   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through **40 Willpower** and all 3 **Mental Fortress** cards, will allow passive survival in Layer One for over an hour due to the base sanity stat.
 -   **%Damage vs Monsters (DvM) and %Monster Armor** equipment with stat modifiers usually has a form of DvM and/or Monster Armor, which is useful.
 
