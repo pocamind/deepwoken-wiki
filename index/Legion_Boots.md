@@ -1,6 +1,6 @@
 ---
 title: Legion Boots
-revid: 117949
+revid: 127912
 source: https://deepwoken.fandom.com/wiki/Legion_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -32,3 +32,4 @@ Khan Boots are an [Equipment](Equipment.md) item under the "Legs" category. They
 
 -   Khan Boots are part of the "**Khan**" set; with the other armor pieces being the **[Khan Pauldrons](Legion_Pauldrons.md)** and **[Khan Helmet](Legion_Helmet.md)**.
 -   Worn by NPCs belonging to [The Hundred Legions](The_Hundred_Legions.md).
+-   A very rare drop from sources that aren't Erisia or Deep Widow, most likely ~2%

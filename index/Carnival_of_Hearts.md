@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 127829
+revid: 127923
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, World Event]
 
 The Carnival of Hearts is a [World Event](World_Events.md) focused around several minigames created by [Aelita](Aelita.md) and [Tillian](Tillian.md). You can get to the arena for Carnival of Hearts by talking to Aelita or Tillian in several locations around the map. Being in the Carnival gives your screen a sort of faded and inverted filter.
 
-If you win the minigame **LOOT QUICKLY** you will be kicked out of the carnival in about 10 seconds, and no you can't go back.
+If you win the minigame **LOOT QUICKLY** you will be kicked out of the carnival in about 10 seconds, and you can't go back.
 
 ## Minigames
 
@@ -56,6 +56,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   Chests will spawn inside the circus that contain mixed loot. [(Sometimes it is bugged and the loot spawns on top of the carnival)](https://www.youtube.com/watch?v=rwZ_5dDwGSE)
 -   Chests can drop the outfits [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Sanguine Finery](Sanguine_Finery.md), and [Stormchanter's Raiments](<Stormchanter's_Raiments.md>).
 -   [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Sanguine Finery](Sanguine_Finery.md), and [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) are exclusively obtainable in the Carnival of Hearts.
+-   The chests may also contain [Tillian's Beret](<Tillian's_Beret.md>).
 -   Not yet known if all of these outfits are guaranteed drops
 -   The chests can drop relics
 -   The chests can contain large amounts of items, [as seen in this video](https://www.youtube.com/watch?v=rwZ_5dDwGSE), where the chests drop 44 iron bombs and 16 cakes.

@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 127822
+revid: 127920
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -83,7 +83,7 @@ Dodgeable:◯
 
 ## Loot Table/Rewards
 
-After Heart of Enmity's health is gone, everyone who participated is rewarded with a chest, containing the following loot:
+After Heart of Enmity is defeated, everyone who participated is rewarded with a chest containing the following loot:
 
 | Weapons | Equipments | Miscellaneous |
 | --- | --- | --- |
@@ -180,4 +180,4 @@ After Heart of Enmity's health is gone, everyone who participated is rewarded wi
 -   The Heart of Enmity possess 65% oath damage resistance.
 -   The Heart of Enmity is immune to all enchantments, this includes armour. Have fun.
 -   Before the World Events update, which added the boss, going to the trial with 5 or more people at once initiates a battle royale between all of the participants.
--   DONT KILL HEART OF ENMITY WITH EXPLOITERS "CHEESE METHOD" IT CAN BE BANNABLE
+-   Please avoid defeating Heart of Enmity via exploiters' "cheese methods", and avoid those who use such methods, as it could result in penalties such as in-game bans.

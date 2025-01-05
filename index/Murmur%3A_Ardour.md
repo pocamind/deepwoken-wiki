@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Ardour"
-revid: 127807
+revid: 127922
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Ardour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -14,7 +14,7 @@ Template:ImageCaption Infobox
 
 _"An application of the Song that enables one to channel the Murmur into raw strength. Press H."_
 
-**Murmur: Ardour** is one of the 3 [Murmurs](Murmur.md) that, when active gives extra 15% posture damage on outgoing M1 posture damage and reduces incoming posture damage by 15%. Activating the Murmur will release gentle purple particles from your weapon, and will make a quiet hum alongside whispers as long as it is active. It will also add a vibrato to the sound of your weapon's swings. Running out of ether at any point while using Ardour will cancel it.
+**Murmur: Ardour** is one of the 2 [Murmurs](Murmur.md) that, when active gives extra 15% posture damage on outgoing M1 posture damage and reduces incoming posture damage by 15%. Activating the Murmur will release gentle purple particles from your weapon, and will make a quiet hum alongside whispers as long as it is active. It will also add a vibrato to the sound of your weapon's swings. Running out of ether at any point while using Ardour will cancel it.
 
 By default, it drains a large amount of [ether](Ether.md) when used; however, at Power 19 the ether cost is low enough for your ether regen to overpower it, but it will still be slow. At Power 20, activation of the Murmur will be free and your ether regen won't be affected.
 
@@ -24,7 +24,7 @@ You can obtain this murmur with any power, even as Power 1.
 
 ### Ardour Scream
 
-_"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)"_
+_"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release your inner rawwwwr :3)"_
 
 **Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 1.5x posture damage and 25% more damage and are forced out of Tacet. This ability does not scale on Power, always costing ether.
 

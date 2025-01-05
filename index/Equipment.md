@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 127880
+revid: 127918
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -167,7 +167,7 @@ Variants
 
 _+5 Health_
 
-+1 Legendary Pip
++2 Legendary Pip
 
 **Requires Power 15, Fortitude 10**
 

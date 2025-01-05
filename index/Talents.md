@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127893
+revid: 127916
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2867,7 +2867,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 25 Agility
     -   The head equipment "[Monastery Cowl](Monastery_Cowl.md)" has this Talent.
 
--   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
+-   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
     -   "Bleed" from Speed Demon gives a 15% damage bonus, is not accounted for in the damage cap, and bypasses armor.
         -   Bleed from other sources is a 30% damage bonus.
     -   Works with M1s and criticals.
