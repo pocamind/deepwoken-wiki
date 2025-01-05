@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 127876
+revid: 127889
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2283,7 +2283,7 @@ Hybrid Weapons are weapons that require two different weapon stats, such as requ
   <td>23</td>
   <td>15%</td>
   <td>N/A</td>
-  <td>HVY: 5, FIR: 6</td>
+  <td>FIR: 6, HVY: 5</td>
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
@@ -2332,7 +2332,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>22</td>
   <td>30%</td>
   <td>10%</td>
-  <td>MED: 3, FIR: 4</td>
+  <td>FIR: 4, MED: 3</td>
   <td>8</td>
   <td>8</td>
   <td>0.94x</td>
@@ -2345,7 +2345,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>18</td>
   <td>10%</td>
   <td>N/A</td>
-  <td>MED: 3 FIR: 4</td>
+  <td>FIR: 4, MED: 3</td>
   <td>3</td>
   <td>7</td>
   <td>0.93x</td>
@@ -2358,7 +2358,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>23</td>
   <td>15%</td>
   <td>N/A</td>
-  <td>HVY: 5, FIR: 6</td>
+  <td>FIR: 6, HVY: 5</td>
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
@@ -2404,7 +2404,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>24</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>ICE: 8 HVY: 4</td>
+  <td>ICE: 8, HVY: 4</td>
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
@@ -2417,7 +2417,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>16.5</td>
   <td>20%</td>
   <td>N/A</td>
-  <td>MED: 5 ICE: 5</td>
+  <td>ICE: 5, MED: 5</td>
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
@@ -2430,7 +2430,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>22</td>
   <td>15%</td>
   <td>N/A</td>
-  <td>HVY: 7 ICE: 4</td>
+  <td>ICE: 4, HVY: 7</td>
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
@@ -2535,7 +2535,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>17.5</td>
   <td>15%</td>
   <td>5%</td>
-  <td>MED: 5, WND: 5</td>
+  <td>WND: 5, MED: 5</td>
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
@@ -2548,7 +2548,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>15.5</td>
   <td>10%</td>
   <td>20%</td>
-  <td>LHT: 4 WND: 5.5</td>
+  <td>WND: 5.5, LHT: 4</td>
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
@@ -2594,7 +2594,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>22</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>SDW: 9 HVY: 4</td>
+  <td>SDW: 9, HVY: 4</td>
   <td>8.5</td>
   <td>9</td>
   <td>0.85x</td>
@@ -2607,7 +2607,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>14</td>
   <td>20%</td>
   <td>N/A</td>
-  <td>LHT: 4 SHD: 9</td>
+  <td>SDW: 9, LHT: 4</td>
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
@@ -2640,7 +2640,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>18</td>
   <td>20%</td>
   <td>N/A</td>
-  <td>MTL: 4 MED: 3</td>
+  <td>MTL: 4, MED: 3</td>
   <td>4</td>
   <td>8</td>
   <td>1.05x</td>
@@ -2653,7 +2653,7 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>21</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>MTL: 4 LHT: 3</td>
+  <td>MTL: 4, LHT: 3</td>
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>

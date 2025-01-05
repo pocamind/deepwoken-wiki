@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127875
+revid: 127893
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2824,6 +2824,16 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I seek to embrace the instability of lightning as a source of power."**_
 
+-   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
+    -   Turns all Thundercall mantras, Jumpstart, [Stormseye](Stormseye.md), [Hero Blade of Lightning](Hero_Blades.md) and [Boltcrusher](Boltcrusher.md) blurple. May affect Arcwarder and Saintsworn in the future.
+    -   Each Surge stack lasts 30 seconds.
+    -   You need to apply 5 Surge stacks and then land another attack that would apply a Surge stack to cause an Overload.
+        -   This is reduced to 4 Surge stacks with the [Charged Ring](Charged_Ring.md).
+    -   Surge Overload deals 2.5 damage per Surge stack with 5 Thundercall scaling to Overloaded target.
+    -   Surge Overload AoE deals 2 damage per Surge stack.
+        -   Surge Overload can be resisted by Thundercall armor.
+    -   Surge stacks are a global status effect, meaning anyone with Surge path can utilize them, with the effects changing based on who caused the Overload.
+    -   Prerequisite: 40 Thundercall
 -   Battery Sapper \[Common Talent, Dual Attunement\] - If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.
     -   This talent is currently bugged and does nothing.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall, 25 Shadowcast
@@ -2844,17 +2854,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Works on Surge stacks that weren't applied by you.
     -   Does not work on Surge stacks applied to yourself.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
-
--   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
-    -   Turns all Thundercall mantras, Jumpstart, [Stormseye](Stormseye.md), [Hero Blade of Lightning](Hero_Blades.md) and [Boltcrusher](Boltcrusher.md) blurple. May affect Arcwarder and Saintsworn in the future.
-    -   Each Surge stack lasts 30 seconds.
-    -   You need to apply 5 Surge stacks and then land another attack that would apply a Surge stack to cause an Overload.
-        -   This is reduced to 4 Surge stacks with the [Charged Ring](Charged_Ring.md).
-    -   Surge Overload deals 2.5 damage per Surge stack with 5 Thundercall scaling to Overloaded target.
-    -   Surge Overload AoE deals 2 damage per Surge stack.
-        -   Surge Overload can be resisted by Thundercall armor.
-    -   Surge stacks are a global status effect, meaning anyone with Surge path can utilize them, with the effects changing based on who caused the Overload.
-    -   Prerequisite: 40 Thundercall
 
 ### Vigil Swordsman
 

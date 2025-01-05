@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 123325
+revid: 127895
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, The Divers]
@@ -25,7 +25,7 @@ More details about the quest can be found [here](Etris.md#diver-apprentice-quest
 
 **This quest is not repeatable, so do not mess it up by not having enough charisma or picking the wrong options.**
 
-After the quest, Karliah quits [The Divers](The_Divers.md) and can be found resting in her house wearing different clothing. She is grateful for your insight on the realities of life, and reflects on how friendly the people of Etris are with her.
+After the quest, Karliah quits [The Divers](The_Divers.md) and can be found resting in her house wearing different clothing. Now grateful for your insight on the realities of life, and reflects on how friendly the people of Etris are with her.
 
 NOTE: Do not pick the first option neither the second option after saving Karliah from the Mudskipper attack, or the quest will end unsuccesful.
 

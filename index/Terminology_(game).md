@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 127773
+revid: 127879
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -517,7 +517,7 @@ _noun_
 
 1.  Short form for Reinforced Armor, a Talent that reduces all incoming PEN by 40%.
 
-### Run a 1/Run 1's
+### Run a 1/Run \[the\] 1's
 
 _verb_
 
