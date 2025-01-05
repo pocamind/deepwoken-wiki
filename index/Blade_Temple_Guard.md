@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 127833
+revid: 127870
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Guards, Etrea, Kingdom of Etrea Enemies]
@@ -41,6 +41,6 @@ A Blade Temple Guard executes the player after knocking them:
 -   Despite being affiliated with Etrea, they are highly inclusive, as well as staying away from their war with The Authority.
 -   Easier to kill than [Etrean Guards](Etrean_Guardsmen.md) because unlike them, they are affected by [PVE Scaling](Power.md).
 -   Their dialogue won't change depending on the player's reputation with Etrea.
--   Has a very small chance of saying "behold my magic spell" when they use a mantra.
+-   Has a very small chance of saying "behold my magic spell" when they use a mantra.(this happens for every npc who uses mantras)
     
     File:Behold my magic spell 1.png

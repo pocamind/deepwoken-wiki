@@ -1,6 +1,6 @@
 ---
 title: Erisia
-revid: 127860
+revid: 127868
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Islands, Etrean Luminant]
@@ -10,20 +10,16 @@ categories: [Locations, Islands, Etrean Luminant]
 
 ## Overview
 
-_Skibidi Overview_
+Erisia is a large island found in the Etrean Luminant, it was designed to be accessible via sailing straight from both the [Isle of Vigils](Isle_of_Vigils.md) and [Etris Docks](Etris_Docks.md).
 
-Gooning Erisia as a skibidi island gooning in the Etrean Luminant, it gooning skibidi to be skibidi via gooning straight from both the Isle of Vigils and Etris Docks.
-
-It gooning into two sections, gooning Upper and Lower Erisia.
+It is divided into two sections, being [Upper](Upper_Erisia.md) and [Lower Erisia](Lower_Erisia.md).
 
 ## Trivia
 
-**Skibidi Trivia**
-
--   The skibidi music for this area gooning _The Trappings Of A Lord_ by Naktigonis.
--   The skibidi combat music for this area gooning _Cry 'Havoc!'_ by Naktigonis.
--   Gooning Erisia gooning frequently skibidi as "Bandit Island" by players.
--   As a skibidi, Erisia gooning the second skibidi landmass in Deepwoken, only gooning Aratel Island.
--   Gooning Erisia gooning a skibidi ganking spot due to contractor bounties/boosting.
--   It gooning skibidi to gooning the Trial of One and then gooning onto Starswept Valley due to Erisia NPCs gooning little to no EXP for skibidi levels.
--   However, Upper Erisia gooning skibidi for Strength/Weapon EXP due to the Megalodaunt nest in Upper Erisia and the Rock Golems in the Burning Stone Gardens.
+-   The music for this area is [The Trappings Of A Lord](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The combat music for this area is [Cry 'Havoc!'](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   Erisia is frequently referred to as "Bandit Island" by players.
+-   As a whole, Erisia is the second largest landmass in Deepwoken, only behind [Aratel Island](Aratel_Island.md).
+-   Erisia is a common [ganking](Glossary.md) spot due to contractor bounties/boosting.
+-   It's better to do the [Trial of One](Trial_of_One.md) and then move onto [Starswept Valley](The_Starswept_Valley.md) due to Erisia NPC's giving little to no EXP for later levels.
+    -   However, Upper Erisia is perfect for Strength/Weapon EXP due to the [Megalodaunt](Megalodaunt.md) nest in Upper Erisia and the [Rock Golems](Rock_Golem.md) in the [Burning Stone Gardens](Burning_Stone_Gardens.md).

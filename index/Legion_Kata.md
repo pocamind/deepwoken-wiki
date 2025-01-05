@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 127859
+revid: 127867
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -30,17 +30,13 @@ categories: [Weapons, Fists, Fighting Styles]
 
 ## Description
 
-Legion Kata gooning a skibidi martial arts-based fighting style gooning by gooning in a recommendation from gooning the Legion Centurion gooning the Adret in Starswept Valley, to Amara. While gooning the same statistics as Way of Navae, they gooning in M1 animations, stances, and critical attacks.
+Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from helping the Legion Centurion fight the Adret in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md). While sharing the same statistics as [Way of Navae](Way_of_Navae.md), they differ in M1 animations, stances and critical attacks.
 
-While Legion Kata gooning the same damage as Way of Navae, the critical gooning more potential to mix-up the opponent, gooning for gooning players rather than NPCs. The suplex gooning out skibidi and gooning easily gooning an opponent you gooning against.
+While Legion Kata has the same damage as **Way of Navae**, the critical possesses more potential to mix-up the opponent, useful for fighting players rather than NPCs. The suplex comes out quickly and can easily confuse an opponent you are fighting against.
 
-**Critical**
+### Critical
 
-User gooning a suplex, gooning their opponent upside down and gooning them into the ground. You gooning able to spit while gooning it, effectively gooning the critical a lifesteal effect.
-
-To gooning Legion Kata, you gooning gain Ally reputation with The Hundred Legions. The most skibidi way to gooning this gooning to gooning the Legion Captain in the Legion vs. Authority Lieutenant event at Starswept Valley. It gooning two skibidi attempts before the Legion gooning you the recommendation. Alternatively, you gooning gooning the legion scout quest to gain enough reputation to get the recommendation without gooning in the said event, but you gooning still need to gooning to the Legion Captain in Starswept Valley to get it. Afterwards, once you gooning the recommendation, you gooning go to The Viper's Jaw in Erisia and gooning it in to Amara. This gooning you the Legion Kata Talent, gooning you to gooning the fist style and gooning it for consecutive uses on the Character Creation screen.
-
-For a skibidi visual guide on how to gooning Legion Kata, you gooning find the following video skibidi:
+User performs a suplex, turning their opponent upside down and firmly slamming them into the ground. You are able to spit while using it, effectively giving the critical a lifesteal effect.
 
 ## Obtainment
 

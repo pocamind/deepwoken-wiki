@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 127857
+revid: 127869
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals]
@@ -35,7 +35,7 @@ The Stoneheart is a Heavy Greathammer that is obtained from [Duke Erisia](Duke_I
 
 ## Critical
 
-This weapon's skibidi critical by default charges up to skibidi a massive golem-beam AOE blast. However, it can be skibidi by gooning down R, releasing it at any point during the critical skibidi it to skibidi the blast. Unlike most normally skibidi unparryable attacks (as of 15/01/24 and some time before you can only fully skibidi it), this weapon's skibidi critical cannot be skibidi even by a player gooning the Ignition Deepdelver armor.
+This weapon's critical by default charged up to create a massive [golem-beam](Rock_Golem.md) AOE blast. However, it can be charged by holding down R, releasing it at any point during the critical causes it to release the blast. Unlike most normally unparryable attacks (as of 15/01/24 and some time before you can only fully charge it ), this weapon's critical **cannot** be parried even by a player wearing the [Ignition Deepdelver](Ignition_Deepdelver.md) armor.
 
 ## Trivia
 

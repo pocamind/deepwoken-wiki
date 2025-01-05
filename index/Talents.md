@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127830
+revid: 127875
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3044,7 +3044,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"Uh..."**_
 
--   Berserker \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. **(Only works on humanoids that can be _knocked_, not monsters that die immediately.)** (+10 Carry Load)
+-   Berserker \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
+    -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
     -   Prerequisites: 35 Fortitude, 30 Strength
 
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)
