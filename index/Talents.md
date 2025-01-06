@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127916
+revid: 127937
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1602,14 +1602,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the path of the Serpent."**_
 
--   Empowered Eruption \[Common Talent, Flamecharm & Eruption Exclusive\] - Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.
-    -   Prerequisites: Eruption Path: Lava Serpent, 50 Flamecharm
-
 -   Eruption Path: Lava Serpent \[Common Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet.
     -   Instead of setting your target on fire, create an eruption on hit, dealing 15 damage. (0.5s cooldown)
     -   Prerequisite: 40 Flamecharm
     -   Mutual Exclusive: The Final Act, Wraith Path: Twisted Puppets
 
+-   Empowered Eruption \[Common Talent, Flamecharm & Eruption Exclusive\] - Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.
+    -   Prerequisites: Eruption Path: Lava Serpent, 50 Flamecharm
 -   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.
     -   Prerequisites: Eruption Path: Lava Serpent, 55 Flamecharm
 

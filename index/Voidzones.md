@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 126890
+revid: 127929
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -175,7 +175,7 @@ While inside a Voidzone:
 
 ― Boatman's Watch Flavor Text
 
-**Location:** Eastern Luminant, straight east past the giant rock on the edge of the map.
+**Location:** Eastern Luminant, straight west past the giant rock on the edge of the map.
 
 **Dangers:** [The Ferryman](The_Ferryman.md)
 

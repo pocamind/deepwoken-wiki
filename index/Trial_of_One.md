@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 120947
+revid: 127930
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -27,6 +27,8 @@ The Trial of One is a dungeon designed to boost experienced players progress eas
 The entrance is located under [Outpost Antumbra](Outpost_Antumbra.md) in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 regardless of the amount of used investment points or not a [Deepbound](Origins.md), otherwise the gate would stun and knock the player back if they exceed the required Power. **You are only able to attempt the Trial once per life (It can be done again if you die on the first parry check).**
 
 After the completion of each challenge, a glowing orb that functions similar to a campfire float down on the center of the room and gives you numbers of free points enough to power up (exact will be mentioned below) that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
+
+Interestingly enough, if you spawn in part of the Ignition Union via the [The Chariot's Spire](<The_Chariot's_Spire.md>), you can escape the depths with an enhanced depths tria, giving you 15 investment points, still letting you enter the Trial of One.
 
 ## Trial Rules
 

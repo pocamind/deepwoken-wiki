@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 127348
+revid: 127933
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant, Etrean Luminant, Origins, The Knives of Eylis]
@@ -28,7 +28,7 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
 
 -   A Bounty Board
     -   It is usually always full (especially on larger servers) as very few players have positive / neutral [reputation](Reputation.md) with every required faction.
-    -   Players don't show up on the bounty board if they are neutral or allied to all the following factions: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and most importantly [The Knives of Eylis](The_Knives_of_Eylis.md).
+    -   Players don't show up on the bounty board if they are neutral or allied to all the following factions: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and most importantly [The Knives of Eylis](The_Knives_of_Eylis.md).(this doesnt seem to work/has been removed or the req has been changed further testing is being conducted)
 -   [Raen](Raen.md), who guides the player through their first step as a voidwalker.
 -   [Dusklit Garden](Dusklit_Garden.md)
 -   A [Chessboard](Chessboard.md)
