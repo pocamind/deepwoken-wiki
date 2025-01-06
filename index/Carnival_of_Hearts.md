@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 127923
+revid: 127990
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event]
@@ -43,6 +43,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   The small Bandit Camp on the hill with a campfire, under that broken building.
 -   At [Isle of Vigils](Isle_of_Vigils.md), near the mantra modifier shop, outside the house with the barber.
 -   In [Minityrsa](Minityrsa.md) at the top of a spire near the coast, to the right of the shipwright.
+-   Near the [Etris Docks](Etris_Docks.md), to the left of the entrance into [Etrean Wilds](Etrean_Wilds.md).
 
 ### Eastern Luminant
 

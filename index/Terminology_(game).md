@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 127879
+revid: 128005
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -55,13 +55,31 @@ _noun_
 
 This term originated from 2D fighting games such as [_Street Fighter_](https://en.wikipedia.org/wiki/Street_Fighter) and was adopted by _Deepwoken_ from _[Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)_ and _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.
 
+### Bar
+
+_noun_
+
+1.  Referring to one of the 5 sections of a player or boss's health bar, used as a measurement of damage or referring to health remaining.
+    1.  Ex. "Why did i just take 3 bars from that \[attack\]..."
+    2.  Ex. "I'm at 2 bars help me!!!"
+
+Can also refer to a bar section of another resource like Blood or Hunger.
+
+#### 5 Bar/\[n\] Bar
+
+_verb_
+
+1.  To deal damage equivalent to \[number\] sections of health to an opponent, or to still have 5 (full HP) or \[number\] bars of health remaining after fighting an opponent.
+    1.  Ex. "If we ever fought i would 5 bar u"
+
+"5 bar" is commonly used in a joking manner.
+
 ### Block
 
 _verb_
 
 1.  To block a mantra/attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed and take heavy damage as well as being stunned.
-
-1.  Light weapons are hard to parry but not hard to block as they deal little posture damage.
+    1.  Ex. Light weapons are hard to parry but not hard to block as they deal little posture damage.
 
 ### Chip Damage
 
@@ -121,9 +139,9 @@ _verb_
 
 1.  To finish off a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'execute' is also used.)
 
-### Guard Break
+### Guard Break / Block Break / Posture Break
 
-1.  To exceed a player or humanoid enemies posture, resetting their posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with enough attacks or high posture-damaging mantras.
+1.  To exceed a player or humanoid enemy's [Posture](Combat_Mechanics.md), resetting their Posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with enough attacks or high posture-damaging mantras.
 
 ### I-frames
 
@@ -284,6 +302,13 @@ _noun_
 
 ## Outside Combat
 
+### Bar
+
+_noun_
+
+1.  Referring to the number of colored bars seen on the server details at the top of the screen, indicating good or bad ping.
+    1.  Ex. "On California servers i would always get 3 bars until recently"
+
 ### Drip
 
 _verb, noun_
@@ -376,7 +401,7 @@ _verb, adjective_
 
 _noun_
 
-1.  A type of build that mainly focuses on empowering their Mantras and uses almost solely Mantras.
+1.  A type of build that mainly focuses on empowering their Mantras and almost solely Mantras and sometimes a [Hero Blade](Hero_Blades.md).
 
 ### Post-Shrine
 

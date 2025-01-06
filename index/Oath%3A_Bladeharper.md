@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 127964
+revid: 127999
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -94,7 +94,7 @@ The mirror is a bot and so it does not come up with tactics and plans before the
 
 Before even fighting the mirror, it is best for you to have some sort of mobility, because the Statues can be quite difficult to get to. (Except for the one behind Lord Regent's palace). Strong Leap and some agility could work.
 
-It is recommended to have mantras for this fight and a high Attunement level as it allows you to use your mantras more often then it will, but do not spam, as it can parry or dodge some moves. Stay calm and use your Ether wisely in order to overwhelm the mirror. If doing an Attunement-less build then why are you on this page... but if you have played the game for a while then it should take probably a little longer to have the mirror killed.
+It is recommended to have mantras for this fight and a high Attunement level as it allows you to use your mantras more often then it will, but do not spam, as it can parry or dodge some moves. Stay calm and use your Ether wisely in order to overwhelm the mirror. If you have played the game for a while then it should take probably a little longer to have the mirror killed.
 
 When fighting the mirror keep in mind that it has all of your Talents and such, but there are times when it can do something that you haven't seen before. The mirror gains the next progression of the Oath whilst fighting it; For example on the second fight they will possess only Soaring Storm and Untouchable when fighting so plan accordingly.
 

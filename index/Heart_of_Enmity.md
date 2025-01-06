@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 127920
+revid: 127989
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -160,7 +160,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
 -   Get the talent **Mythic Stability**, as it makes you ungrippable to auto-grip abilities, which is useful against the Heart of Enmity’s auto-grip attacks.
 -   Have one person bring a [repair kit](Repair_Kit.md) or two, as the boss does a lot of armor damage (note that campfires and Graceful Flames, even with Undying Flames, are unusable in the Depths Trial (alternatively you could just not be hit once)
 -   Bring Warrior's Respite to heal while not aggroing the boss.
--   If you're struggling with blood levels, head to [Songseeker](Songseeker_Wilds.md) and unlock **[Bloodrend](Bloodrend.md)**. Obtain the **Bloodorb** mantra to heal blood using the blood pools during the fight.
+-   If you're struggling with blood levels you can use **[Bloodrend](Bloodrend.md)** to obtain the **Bloodorb** mantra to heal blood using the blood pools during the fight.
     -   Alternatively, you can also get grand feast and use it to heal blood from the enforcers spawned or run the multiplicity armor enchant.
 
 ###### Resonances
@@ -178,6 +178,6 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
 -   Their summons are internally referred to as ".enmity\_enforcer\_WEAPON"
 -   There was a bug that could instakill/void the boss by hitting the back of its neck with Rising Thunder or Rising Gale, as it would teleport it far outside the confines of the arena, upon which it would die.
 -   The Heart of Enmity possess 65% oath damage resistance.
--   The Heart of Enmity is immune to all enchantments, this includes armour. Have fun.
--   Before the World Events update, which added the boss, going to the trial with 5 or more people at once initiates a battle royale between all of the participants.
+-   The Heart of Enmity is immune to all enchantments, this includes armour.
+-   Before the World Events update, which added the boss, going to the trial with 5 or more people at once would initiate a battle royale between all of the participants.
 -   Please avoid defeating Heart of Enmity via exploiters' "cheese methods", and avoid those who use such methods, as it could result in penalties such as in-game bans.
