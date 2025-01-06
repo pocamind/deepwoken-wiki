@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 127943
+revid: 127949
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Unique Critical]
@@ -29,7 +29,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Unique Critical]
 
 ## Description
 
-The **Chorus of Agonies** is a Unique tier [Greataxe](Weapons.md); skeletal, massive dark axe pulsating with the [souls twisted and damned](Enforcer.md) by the Trial, begging for their release. It can be obtained by beating the [Heart of Enmity](Heart_of_Enmity.md) with chance.
+The **Chorus of Agonies** is a Unique tier [Greataxe](Weapons.md); a skeletal, massive dark axe pulsating with the [souls twisted and damned](Enforcer.md) by the Trial, begging for their release. It can be obtained by beating the [Heart of Enmity](Heart_of_Enmity.md) with chance.
 
 Similar to all other Enmity drops, it automatically Soulbounds.
 

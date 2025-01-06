@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127937
+revid: 127948
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -421,11 +421,13 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   While the talent says criticals only gain 10% PEN, they will still gain the full armor bypass bonus just like m1s.
     -   When activated:
         -   Your armor is immediately removed for 20 seconds. Includes Exoskeleton/Chitin.
+        -   You regain your armor immediately after the buff ends.
         -   Padded Armor, Steel Scales, and Lightweight are activated. However, your M1s activate your opponent's Padded Armor and Steel Scales.
         -   Buff is granted for 20 seconds. Buff is granted only for 10 seconds if you don't meet the stat requirement.
         -   Eyes turn red and gain a red trail for 20 seconds.
         -   Hair turns red for 20 seconds.
         -   **ONLY** affects your basic attacks, not mantras or anything else.
+        -   May visually bug your **Armor** bar if toggled on and off too quickly.
     -   Prerequisite: 80 Strength
 
 ### Bloodhound

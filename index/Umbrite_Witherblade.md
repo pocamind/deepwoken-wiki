@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 127917
+revid: 127951
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -54,6 +54,7 @@ The user gains a purple sigil on their head and aura around them with brief hype
 
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
 -   when sitting at a campfire it will display "Lkq tg ywdn..."
+-   Holding the weapon or not, the Umbrite Whiterblade will display heartbeat noises as well as a incomprehensible whisper followed by a omnious noise that resembles a car engine.
 
 ## Version History
 

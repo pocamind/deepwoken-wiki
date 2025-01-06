@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 127730
+revid: 127950
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -444,7 +444,7 @@ File:Disguising .gif
 
  | _Take on an unimaginable disguise._ | 
 
--   **Requirements:** _**21 Charisma** Mantra_
+-   **Requirements:** _**20 Charisma** Mantra_
     -   Obtained by finding an NPC named [Mime](Mime.md) and killing Barrelskippers.
     -   Disguises the user.
     -   You can finally play prop hunt with Voidwalkers.

@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 124300
+revid: 127946
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Divers]
@@ -33,3 +33,4 @@ He is one of two known people to go to the Third Layer. He is worshipped by the 
     -   Additionally, Ploom says that not many competent Flamecharmers are out in the East Luminant, signifying that Amorus may be from the West Luminant.
 -   Amorus was originally a [Ganymede](Ganymede.md), and set to appear in the main game. The NPC that was originally Pleeksty was reworked into [Ploom](Ploom.md). He was later said to be a Vesperian, but was then said to be a Tiran, which led to some doubt on what aspect Pleeksty was supposed to be.
 -   According to ragoozer, [he has the best dance moves.](https://discord.com/channels/920707638034067486/972707935484538911/1221849431482171512)
+-   Pleeksty is canonically 3'4 as confirmed by Nuttoons.
