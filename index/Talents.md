@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 127948
+revid: 127967
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2105,7 +2105,7 @@ _**"My cure is most effective."**_
     -   Ironsing Pull is activated by pressing X.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
-    -   Does 30 true dmg at max rods and 15 true dmg on minimal req (5 rods)
+    -   Does 50 true dmg at max rods and 25 true dmg on minimal req (5 rods), also takes slightly more armor due to nature to apply DMG after pull.
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
     -   Works as default path with exception applying conductor rod after hitting rod limit. Has 5 rod limit.

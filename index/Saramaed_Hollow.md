@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 127658
+revid: 127960
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -36,6 +36,8 @@ Orb which used to refuel Union Drill
 **Saramaed Hollow** features 20 Floors in 100 meter increments. Floor 0/0 Meter is a lobby area that features a campfire, training gear, an Antiquarian, a Mystic and a Blacksmith.
 
 Each floor of the dungeon has you go down 100 meters (IE: floor 10 is 1000m, floor 20 is 2000m). To travel through each floor, the Ignition Deepdrill is used, fitted with a lever to go to the next floor and a radio to return to the lobby, which can notably be used anytime, even while in danger.
+
+You start at a different depth on your first time going down depending on what power you are. If you go up and go back down, you will go down half of how far you were before you went up. The higher power you are, the farther down you start. The monster presets get harder as you go down farther.
 
 You can't get past 2km / 2000m.
 
@@ -166,6 +168,8 @@ Loot is based on the type of mob you kill. Some of the loot confirmed to drop fr
     <li><a href="Void_Spire.md">Void Spire</a></li>
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
     <li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Only after 1.2km)</li>
+    <li><a href="Mantra_Modifiers.md#regular">Mantra Modifiers</a></li>
+    <li>Most ores</li>
   </ul></td>
   <td>(needs editing)
   <ul>
