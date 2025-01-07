@@ -1,11 +1,9 @@
 ---
 title: "Warlock's Mantle"
-revid: 126718
+revid: 128021
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Equipment, Arms, Mantles, World Event]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items, Equipment, Arms, Mantles, World Event]
 ---
 
 # Warlock's Mantle
@@ -14,7 +12,7 @@ notices:
 |---|---|
 | type | Arms |
 | rarity | Unique |
-| selling price | N/A |
+| selling price | 100 |
 | requirements | PWR 16; 5 INT |
 | weight | 2 |
 | innate stats | +7 Health, +1 Rare Pip, +2 Legendary Pips |

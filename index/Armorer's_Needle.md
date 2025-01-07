@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 123756
+revid: 128025
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -15,13 +15,15 @@ categories: [Relics]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| obtainment | The Ferryman, The Diluvian Mechanism, Maestro Evengarde Rest, Duke Erisia, Scion of Ethiron, Primadon, War Mode, Fishing, Hell Mode, Hollow Forge, Voidwalker Chests, Diver Expedition Sea Event, Etris Siege, Saramaed Hollow, Lysander Spellhardt |
+| obtainment | Duke Erisia, Etris Siege, Fishing, Hell Mode, Hollow Forge, Lysander Spellhardt, Maestro Evengarde Rest, Voidwalker Chests, Primadon, Diver Expedition Sea Event, Saramaed Hollow, Scion of Ethiron, The Diluvian Mechanism, The Ferryman, War Mode, World Events |
 
 ## Description
 
-**Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a single pip of their choice on a piece of equipment before being consumed. It appears to be a needle in the shape of a musical treble clef. It can be crafted into the [Gilded Needle](Gilded_Needle.md) with 5 Armorer's Needles and 1 gold or you can craft the [Forge Needle](Forge_Needle.md) with 1 Armorer's Needles and 5 [Smith's Alloy](<Smith's_Alloy.md>). **Armorer's Needle** can now be crafted using 5 [Smith's Alloy](<Smith's_Alloy.md>).
+**Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a single pip of their choice on a piece of equipment before being consumed. It appears to be a needle in the shape of a musical treble clef. It can be crafted into the [Gilded Needle](Gilded_Needle.md) with 5 Armorer's Needles and 1 gold or you can craft the [Forge Needle](Forge_Needle.md) with 1 Armorer's Needles and 5 [Smith's Alloy](<Smith's_Alloy.md>). **Armorer's Needle** can also be crafted by combining **5** [Smith's Alloy](<Smith's_Alloy.md>) by hand. If your slot has the Ignition Delver [Origin](Origins.md), you can craft them at the [Hollow Forge](Hollow_Forge.md) with only **3** [Smith's Alloy](<Smith's_Alloy.md>) or **9** [Pluripotent Alloy](Pluripotent_Alloy.md).
 
-Currently known to drop from Voidwalker chests, [Duke Erisia](Duke_Ishamon_Erisia.md), [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Fishing](Fishing.md), [Hell Mode](Hell_Mode.md), [Primadon](Primadon,_Titan_of_the_East.md), [suppyling the Divers' Expedition](Random_Encounters.md#supply-the-diver-expedition) and likely other sources as well.
+Currently known to drop from a wide variety of sources. They can be obtained fairly consistently from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [Scion of Ethiron](Scion_of_Ethiron.md), [The Ferryman](The_Ferryman.md), the [Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), and [World Events](World_Events.md).
+
+They can also be found less consistently from completing [Voidwalker](Origins.md) Bounties, the uncommon [Diver Expedition Sea Event](Random_Encounters.md), and [Fishing](Fishing.md).
 
 Use text: "_With a deft hand, you transmute the property of \[lost property\] into \[gained property\]."_
 
