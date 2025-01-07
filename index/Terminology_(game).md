@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 128005
+revid: 128016
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -16,13 +16,30 @@ The following article contains a glossary for general game terms related to _Dee
 
 ## General Terms
 
+#### Health pack
+
+Noun
+
+1.  Fresh player in deepwoken
+2.  Gigamed
+3.  Someone who is bad as hell in chime, ej 500-600 elo mostly. And in pvp is bad
+4.  Someone who is bad at parrying everything too
+
+1.  Ej: I'm not playing with you freshie, because you're a healthpack and you gonna die to everything
+2.  Ej: No way he is so trash in ganking bro, we lost the war because his fault. What a healthpack !
+
+1.  F  
+    
+
 ### Boosted
 
-_adjective_
+' 'adjective
 
 1.  A player that uses high-quality equipment yet lacks the skill to back it up.
+2.  Player that needs his friends to get helped cause he cannot fight a boss or beat a mob without their help, they also seek attention to play with someone who boostes them
     1.  Ex. "I just killed some boosted trash when they tried to gank me earlier"
     2.  The point of the term is that it makes the assumption that the player being talked about was 'boosted up' by being given good items by more experienced friends of theirs
+    3.  My friend always asked me if I can help him with duke because he can't fight him like a normal player, he is new into deep. He never tried to fight it alone
 
 ### Chime
 
@@ -35,15 +52,26 @@ _noun_
 _noun_
 
 1.  A newly created character, usually wearing the [Stranded](Stranded.md), [Diver Apprentice](Diver_Apprentice_Robes.md), or [Whaler Initiate](Whaler_Initiate.md) outfit. The threshold for the maximum power level for being classified as a freshie differs, but is usually around Power 6.
+2.  Player who is new into the game deepwoken, guildless, or with guild, using the stranded outfit or the 30 notes initiate fit from the blacksmith, and spawning in etris or vigils, commonly they grind in erisia solo or with groups. Also, they are the great target to get ganked by the voidwalkers and power 20s because of the lack of skill to use F to parry. They basically are health packs
     1.  Ex. "I saw a freshie get ganked earlier, they didn't stand a chance."
+    2.  Today I gave to a freshie any stuff I had from my inventory. He thanke me after that and I saw him getting gripped by a voidwalker 5 minutes later
 
 ### Permafreshie
 
 _noun_
 
 1.  Someone who often plays the game but never progresses beyond freshie level.
+2.  A player who dies to a sharko because they are bad at parrying, wipes a lot in game, never reaches power 20 and the need ro cheese every boss. And the lack of skil
+3.  Player who cannot do all bosses hellmode/diluvian, cannot do to1, or they use a Providence of thorns battle axe, below 800 elo in chime, normally around 500-700, and got above 1000 hours of playtime, or thy lack of knowledge like, not knowing about mantra modifiers
+4.  Player who needs his friends to help him all the time, cause he is bad in game, and is boosted
     1.  Ex. "Just ganked some permafreshie, he had some good loot."
     2.  Permanent + Freshie = Permafreshie
+    3.  That permafreshie died to a sharko, there's no way he can't parry a simple slash
+    4.  My friend needs a little boosting when it comes to do chaser
+    5.  My friend kept playing the game since march 2024 and he needs to cheese ferryman because he is like a healthpack
+    6.  I got above 1000 hours and I don't know how to do maestro, primadon, Ethiron and I almost forgot, diluvian wave 2
+    7.  I'm so bad at parrying, I need to cheese maestro an spend 8 mins hitting the air to damage him for just 2 enchants
+    
 
 ## Combat Terms
 
@@ -73,6 +101,10 @@ _verb_
     1.  Ex. "If we ever fought i would 5 bar u"
 
 "5 bar" is commonly used in a joking manner.
+
+5 barred is also used as a way to humillate someone who sucks at PvP, is below 800 elo and mostly around 500-600 elo is the perfect spot to be called a 5 barred easy target
+
+Also used in pve for Permafreshies/freshies and all skill issues who can't block parry and dodge like the average deep player
 
 ### Block
 
@@ -112,6 +144,7 @@ _verb_
 _verb_
 
 1.  To fill up a server with players that are in the same guild.
+2.  Guild that fills up a server to gank and spin back intruders or do hellmode or diluvian in the depths
 
 ### Flourish
 
@@ -232,7 +265,7 @@ _noun_
 
 _verb_
 
-1.  To die in a manner that results in your soul sinking to The Depths. (eg. dying with a stained health bar, dying in a voidzone, etc)
+1.  To die in a manner that results in your soul is being sucked down directly by The Depths. (eg. dying with a stained health bar, dying in a voidzone, etc)
 
 ### Restore
 
@@ -257,6 +290,7 @@ _verb_
 _verb_
 
 1.  To die and spawn in Fragments of Self, in places such as Scyphozia or The Eternal Gale (The Depths)
+2.  What depths gankers like to do when they spot any player. Preferably to be a freshie or a deepbound and send them to reset their prog in fragments
 
 ## Resonance Terms
 
@@ -278,6 +312,10 @@ _adjective_
 
 1.  A special variant of a resonance which is rare to get, corrupted resonances are stronger than their normal variant but give a debuff apon activation.
 
+### Tp
+
+1.  How legendary teleportation bell is called by the community in a simple way, because it tps you to any place where you have the travel point on
+
 ### Kamui
 
 1.  Nickname for the legendary [Dimension Travel](Dimensional_Travel.md) resonance. It is also a reference to Obito Uchiha's Kamui ability from Naruto Shippuden.
@@ -293,6 +331,7 @@ _adjective_
 _noun_
 
 1.  Nickname for the the [Blood Scourge](Blood_Scourge.md) resonance, used to instantly execute any downed players, [enemies](Enemies.md) or [monsters](Monsters.md) in a small radius around where it was cast.
+    1.  Ex. "He just got knocked, reaper him"
 
 ### Yoru
 

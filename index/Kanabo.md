@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 127385
+revid: 128017
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]
@@ -48,3 +48,4 @@ Both criticals share the cooldown of **8 seconds**.
 -   The weapon normal attack matches that of a greatsword.
 -   Max damage with 100 STR and 100 HVY does 52.5 damage with max proficiency.
 -   Splendiferous with detonation.
+-   The running critical may or may not be a reference to Dead By Daylight's Oni running blow ability where he strikes the floor multiple times with a Kanabo.

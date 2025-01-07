@@ -1,9 +1,9 @@
 ---
 title: "Moon's Eyrie"
-revid: 124294
+revid: 128011
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Eastern Luminant, Moonseye]
+categories: [Pages with broken file links, Locations, Eastern Luminant, Moonseye]
 ---
 
 # Moon's Eyrie
@@ -21,6 +21,8 @@ Center of the island
 ## Overview
 
 Moon's Eyrie is a mysterious island found within the Voidsea, potentially made as a sort of vault for the Celestials' weapons. It has strange architecture, many evident ties to the [Moonseye](Moonseye.md), and is guarded by several [Moon Knights](Moon_Knight.md).
+
+File:Map View.png
 
 ## Points of Interest
 

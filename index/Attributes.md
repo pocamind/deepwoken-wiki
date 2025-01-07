@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 123480
+revid: 128007
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -78,7 +78,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ### Intelligence (INT)
 
--   Logic and problem-solving skills. _Increases **Ether** slightly per intelligence per point._
+-   Logic and problem-solving skills. _Increases **Ether** slightly per intelligence point._
     -   One point in Intelligence gives 2 Ether.
     -   Increases potion potency and damage with Iron Bombs.
 -   Unlocks Intelligence-related [Talents](Talents.md) and [Mantras](Attunement-less.md#intelligence-mantras).

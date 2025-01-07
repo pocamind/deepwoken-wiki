@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 126248
+revid: 128014
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-**The Enforcer** is a Depths [Mini-Boss](Bosses.md) that acts as the second to last trial of [The Depths](The_Depths.md) Trials, being a difficult trial for any unfamiliar with it. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths," but its origins are more complicated; according to the flavor text of [the](<Enforcer's_Blade.md>) [Enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md) and were morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
+**The Enforcer** is a Depths [Mini-Boss](Bosses.md) that acts as the second to last trial of [The Depths](The_Depths.md) Trials, being a difficult trial for anyone that is unfamiliar with it. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths," but its origins are more complicated; according to the flavor text of [the](<Enforcer's_Blade.md>) [Enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md) and were morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
 
 The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and Enforcer's Blade variant. The only significant differences between these are minor changes in size, health, damage, and posture damage. Besides these, they act identically to normal Enforcers.
 
@@ -109,7 +109,7 @@ Dodgeable:◯
 
 The Enforcer is definitely a shake-up to the game's formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
 
-The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only (3700, 4000 or 4100 depending on the variant) health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 17, it would have about 890 health. Still large, but nowhere too big. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits.
+The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only (3700, 4000 or 4100 depending on the variant) health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 16 (this can get lower based on your drown count), it would have about 890 health. Still large, but nowhere too big. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits.
 
 Do not be deceived by these stats, though. The dangerous part of the Enforcer isn't its stats, but its complexity and how it uses them. It draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy. It can chain together entire strings of parries, feints, basic attacks and special attacks. Even though the danger falls off in the far endgame, it can still kill any overconfident high level player. Ultimately, it's the definition of a skill check rather than a stat check.
 
