@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 128030
+revid: 128031
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -140,9 +140,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 
 ## NPC Interactions:
 
--   Talk to Alastir in Pathfinder's Respite located in Lower Erisia after interacting with one of the obelisks.
--   Talk to Kana in Fort Merit after talking to the Thundercall obelisk.
--   Talk to same attunement trainer with the same attunement as your Hero Blade and its corresponding obelisk.
+-   N/A
 
 ## Dialogue
 

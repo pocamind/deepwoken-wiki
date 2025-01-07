@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 127925
+revid: 128059
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]
@@ -48,34 +48,24 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 ## Abilities
 
 -   **Blinding Dawn (★★★) - Combat Mantra**
-    
-
-_Spin rapidly to unleash powerful rays of light._
-
--   Deals 18 total hits of Oath damage, with 9.333 base damage per hit. (
+    -   _Spin rapidly to unleash powerful rays of light._
+    -   Deals 18 total hits of Oath damage, with 9.333 base damage per hit.
 
 -   **Radiant Kick** (★★★) - **Combat Mantra**
-
-_Kick your foes at the speed of light._
-
--   Deals a base of 19.5 Oath damage twice.
-
-  
+    -   _Kick your foes at the speed of light._
+    -   Deals a base of 19.5 Oath damage twice.
 
 -   **Radiant Dawn** (★★★) - **Combat Mantra**
-
-_Strike down your foes with your blinding light._
-
--   Deals 46.5 base Oath damage.
--   This Mantra is **unparriable** and guardbreaks if anybody attempts to do so.
--   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
-    -   This means that in low-gravity environments such as [Scyphozia,](First_Layer.md) this mantra is very inconsistent in combat use.
-
-Luminous Flash on proc
+    -   _Strike down your foes with your blinding light._
+    -   Deals 46.5 base Oath damage.
+    -   This Mantra is **unparriable** and guardbreaks if anybody attempts to do so.
+    -   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
+        -   This means that in low-gravity environments such as [Scyphozia,](First_Layer.md) this mantra is very inconsistent in combat use.
 
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
     -   Activates after taking any amount of shadow damage, it looks like Absolute Radiance and has a 9 second duration
     -   Increases dawnwalker mantra damage by 30%
+
 -   **Luminous Flash** **\- Passive:** After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
     -   On proc, a basic attack will: Hit the maximum hardcap of damage (1.75x), dazes the target, and grants +45 tempo
     -   CD of ~30–50 seconds.

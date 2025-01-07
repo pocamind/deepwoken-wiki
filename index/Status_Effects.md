@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 127675
+revid: 128035
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -114,7 +114,7 @@ This effect can be applied by being hit by a weapon that applies bleed, [Crimson
 
 ### Burning
 
-This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move and many other sources. Drains your health at a relatively negligible pace (Around 8 DMG per second). If an unconscious body is set on fire, they will automatically be gripped after 5 seconds if not picked up. Can be easily gotten rid of by rolling, jumping in water, or by sliding. Burn damage scales on the user's Flamecharm investment. Signified by fire particles coming from your character.
+This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move and many other sources. Drains your health at a relatively negligible pace (Around 8 DMG per second). If an unconscious body is set on fire, they will automatically be gripped after 8 seconds if not picked up (4 if the user who applied the fire has the talent Corpse Explosion). Can be gotten rid of by rolling, jumping in water, or by sliding. Extinguishing the fire on yourself will grant you immunity to burn for 2s. Burn damage scales on the user's Flamecharm investment. Signified by fire particles coming from your character. Additionally, certain objects (notably the long carpets in Voidheart) can also be set on fire and burn the person upon touch.
 
 It has a few sub-variants:
 

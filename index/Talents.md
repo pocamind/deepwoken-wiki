@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 128006
+revid: 128046
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -592,6 +592,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold shaded outline on your character.
     -   Does not work on non-humanoid NPCs.
+    -   Works only if you successfully hit someone with flourish. Doesn't work on parry, block, dodge hits.
     -   Prerequisite: 25 Strength
 
 -   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
@@ -2102,7 +2103,9 @@ _**"My cure is most effective."**_
     -   Ironsing Pull is activated by pressing X.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
-    -   Does 50 true dmg at max rods and 25 true dmg on minimal req (5 rods), also takes slightly more armor due to nature to apply DMG after pull.
+    -   Does 50 true dmg at max rods and 25 true dmg on minimal req (5 rods), also takes slightly more armor due to nature to apply DMG after pull
+    -   Not affected by "Return To The Dark Ages" talent
+    -   Scales with Ironsing stat: File:Testing Impaler.png
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
     -   Works as default path with exception applying conductor rod after hitting rod limit. Has 5 rod limit.
@@ -2114,7 +2117,8 @@ _**"My cure is most effective."**_
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
     -   Enemies have damage reduced by 30% when Metal Jailed.
-    -   Will restrain for 1.4s if pulled at 5 rods, and 2 seconds if pulled at 10 rods.
+    -   Will restrain for 1.08s with 5 rod proc and 1.6s if 10 rod proc (Keep in mind, pulls have 0.4s endlag)
+    -   Time jailed doesn't scale with Ironsing investment.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Conductor
 
@@ -2222,16 +2226,18 @@ _**"My cure is most effective."**_
 
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
     -   Deals 10 DMG per blade, this damage cannot be resisted by armor, but can be resisted by general resistances.
+    -   Doesn't scale on Ironsing Investment
     -   Hits from Artisan's Blades do not drain armor from enemy.
     -   Artisan's Blades do not benefit from Exposed Durability's damage buff.
     -   4.5 posture per blade.
+    -   Artisan blades last 20 seconds.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Songs Unforged \[Common Talent, Ironsing Exclusive\] - Your weapon criticals will now activate scrapsinger.
     -   Prerequisites: Gilded Path: Scrapsinger, 50 Ironsing
 
 -   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
-    -   Increases Artisan's Blades damage from 10 to 15, additionally Artisan's Blades will apply 1 rod on hit.
+    -   Increases Artisan's Blades damage from 10 to 20, additionally Artisan's Blades will apply 1 rod on hit.
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.

@@ -1,6 +1,6 @@
 ---
 title: Firfire
-revid: 124186
+revid: 128042
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, Floor 1]
@@ -17,7 +17,7 @@ Template:Areainfobox
 
 ## Overview
 
-One of the least hostile parts of Floor 1, Firfire is located above the [Firfire Caverns](Firfire_Caverns.md) and is home to various friendly [Kyrsgarde](Kyrsgarde.md) and a quest. It is necessary to visit this location in a run to open the way to [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md).
+One of the least hostile parts of [Floor 1](Second_Layer/The_Ethironal_Shrine.md), Firfire is located above the [Firfire Caverns](Firfire_Caverns.md) and is home to various friendly [Kyrsgarde](Kyrsgarde.md) and a quest. It is necessary to visit this location in a run to open the way to [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md).
 
 Firfire does not have active wind or snowfall. Previously existing parasites will remain, but they do not progress or build up while in Firfire.
 
