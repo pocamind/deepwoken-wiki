@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 127821
+revid: 128027
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -28,7 +28,6 @@ This Outfit grants the [Talent](Talents.md) Giantslayer, giving you an additiona
 
 This Outfit's Schematic can be found in:
 
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
 ## Trivia
