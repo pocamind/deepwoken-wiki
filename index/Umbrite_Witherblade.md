@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 127951
+revid: 128112
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Unique Critical, Weapons with Unique Criticals, Craftable]
@@ -48,7 +48,7 @@ At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is **28.2 + 8.45\[BL
 
 ## Critical
 
-The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second doing knockback. Both hits apply 100% Wither and 10s of Antiheal. The first hit is blockable while the second causes a lot of posture damage. The second slash **autogrips** any knocked player or those hit and knocked by it (tested, though rarely doesn't autogrip). The cooldown for this critical is **6** seconds.
+The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second doing knockback. Both hits apply ~100% Wither~ and 10s of Antiheal (personally only tested twice, unsure if this is intentional or not but the actual damage is EXTREMELY SMALL (roughly only 1-2% of dmg) whereas the wither damage is substantial. The crit only really does damage if the opponent's wither is near / caught up to their health). The first hit is blockable while the second causes a lot of posture damage. The second slash **autogrips** any knocked player or those hit and knocked by it (tested, though rarely doesn't autogrip). The cooldown for this critical is **6** seconds.
 
 ## Trivia
 

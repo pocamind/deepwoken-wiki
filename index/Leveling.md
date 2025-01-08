@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 124884
+revid: 128120
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -29,6 +29,16 @@ If you have the Autodidact Boon, for every Power Level after Power 1, you gain a
 **You can spend Free Points whilst sitting near a campfire (or anything that can substitute a campfire).**
 
 It is also noted that you can get free points even without Autodidact by getting white orbs that spawn out of humanoid and monster mobs (has a certain chance to do so) or you can talk to [Shrine of Courage](Shrine_of_Courage.md). It will not affect anything else after reaching Power 20 and using up all your investment points.
+
+## Level Hands
+
+(tba) mantras, talent hands etc
+
+every level up you get you will be awarded 2-3 talent hands and 0-1 mantra hands, when you are to obtain a mantra from leveling you will be awarded with 2 talent hands and if not you will get 3 talent hands
+
+The current level for getting mantras are 2,4,6,8,10,12,14,16,17,18,19,20 resulting in 12 mantras total
+
+you can obtain up to a max of 76 talents which can be turned into mantras through the [Shrine of unification](Deep_Shrines/Shrine_of_Unification.md) and turn a mantra card into 2 random talent through the [Shrine](Deep_Shrines/Shrine_of_Division.md) of divison
 
 ## Notes/Trivia
 

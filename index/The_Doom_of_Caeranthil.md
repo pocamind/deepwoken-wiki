@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 127566
+revid: 128123
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Doom of Caeranthil, better known as the World Serpent, is a [World Event](World_Events.md) Boss found in the Open Sea of the [Luminants](Luminants.md).
+The Doom of Caeranthil is a [World Event](World_Events.md) Boss found in the Open Sea of the [Luminants](Luminants.md).
 
 The Doom is a colossal sea serpent monster that has ravaged and destroyed islands, having earned its name when it destroyed the island of [Caeranthil](Caeranthil.md) in the Southern Luminant.
 
@@ -48,7 +48,9 @@ It cannot be aggroed or damaged by cannons. Like other world event bosses, it do
 
 Parryable:✗  
 Blockable:✗  
-Dodgeable:◯ FYW parryable:◯
+Dodgeable:◯
+
+FYW parryable:◯
 
  |  |
 | 
@@ -89,6 +91,8 @@ Parryable:◯
 Blockable:✗  
 Dodgeable:✗
 
+FYW parryable:✗
+
  | 
 
  |
@@ -102,6 +106,8 @@ Dodgeable:✗
 Parryable:✗  
 Blockable:◯  
 Dodgeable:✗
+
+FYW parryable:◯
 
  |  |
 | 
@@ -209,7 +215,7 @@ Exhaustive Loot Table
 ## Trivia
 
 -   When it was first teased, it was known to the devs and community as the "World Serpent."
--   Given its drops, design and Murmur: Ardour orb, it can be reasonably assumed that this creature is somehow related to the Dread Serpent (possibly a stronger variant/mutation).
+-   Given its drops, design and Murmur: Ardour orb, it can be reasonably assumed that this creature is somehow related to the Dread Serpent. possibly a stronger variant or mutation.
 
 ## Navigation
 
