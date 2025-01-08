@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 128046
+revid: 128084
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -415,7 +415,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Berserker
 
-> _**"I seek the qualities of berserker."**_
+> _**"I seek the qualities of Berserker."**_
 
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
     -   While the talent says criticals only gain 10% PEN, they will still gain the full armor bypass bonus just like m1s.
@@ -1542,14 +1542,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Decisive Winds \[Unlockable Talent, Jetstriker Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown._
 
--   _Rush of ancients \[Unlockable Talent, Jetstriker Exclusive\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)_
+-   _Rush of Ancients \[Unlockable Talent, Jetstriker Exclusive\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)_
 
 -   _Stratos Step \[Unlockable Talent, Jetstriker Exclusive\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)_
     -   _Consumes Ether per step._
     -   _Stratos Steps will only proc twice before going on a cooldown._
         -   _Said cooldown applies to individual steps._
 
--   _Jetstream pursuit \[Unlockable Talent, Jetstriker Exclusive\] - Upon a succesful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum._
+-   _Jetstream Pursuit \[Unlockable Talent, Jetstriker Exclusive\] - Upon a succesful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum._
     -   When proccing on humanoid npcs, sends you to the center of the npc's hitbox.
 
 -   Acceleration Points _\[Unlockable Talent, Jetstriker Exclusive\] - Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum._
@@ -2038,20 +2038,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
     -   Prerequisites: 30 Flamecharm, 15 Fortitude
 
-### Raging Bull
-
-> _**"My attack is unstoppable."**_
-
--   _Bulldozer_ \[Rare Talent\] - Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
-    -   Prerequisite: 25 Strength
-    -   Mutual Exclusives: Dazing Finisher
-
--   Broken Ankles \[Common Talent\] - Blockbreaking an opponent puts their Mobility slot Mantras on CD for 12s. 30s CD
-    -   Prerequisite: 70 Strength
-
--   _Piercing Blow_ \[Rare Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
-    -   Prerequisite: 80 Strength
-
 ### Quack Doctor
 
 _**"My cure is most effective."**_
@@ -2067,6 +2053,20 @@ _**"My cure is most effective."**_
 
 -   Open Wound \[Common Talent\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.
     -   Prerequisite: 40 Bloodrend
+
+### Raging Bull
+
+> _**"My attack is unstoppable."**_
+
+-   _Bulldozer_ \[Rare Talent\] - Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
+    -   Prerequisite: 25 Strength
+    -   Mutual Exclusives: Dazing Finisher
+
+-   Broken Ankles \[Common Talent\] - Blockbreaking an opponent puts their Mobility slot Mantras on CD for 12s. 30s CD
+    -   Prerequisite: 70 Strength
+
+-   _Piercing Blow_ \[Rare Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
+    -   Prerequisite: 80 Strength
 
 ### Rampaging Brute
 
@@ -3053,7 +3053,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)
     -   Create a dark blueish fog around you (simulating blindness).
-    -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
+    -   While the Blindseer Oath grants full vision even with a blindfold, the Talent still works.
     -   The Talent grants immunity to the Flame Blind mantra.
     -   The face equipment "[Blindfold](Blindfold.md)" have this Talent.
 

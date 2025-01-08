@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 127770
+revid: 128082
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Unique Critical, Weapons with Unique Criticals, Multiple Criticals]
@@ -43,7 +43,7 @@ For the running critical, you whip around wildly and unload every bullet in the 
 -   On release it had the exact same scaling as the Ignition Deepcrusher, being 4 MTL and 3 MED.
 -   The description previously had "print(4\*1) Reverse-engineered..." in it.
 -   The Ironsing icon is engraved on both sides of the gun.
--   Along with the [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only two flintlocks in the game to play a unique sound effect on M1/crit.
+-   Along with the [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) and [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only three flintlocks in the game to play a unique sound effect on M1/crit.
 -   The gun's design is similar to the [Stand](https://jojo.fandom.com/wiki/Stand) named [Emperor](https://jojo.fandom.com/wiki/Emperor) from [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure) If this is true, it also probably explains it's name "Iron **Requiem**", being a reference to [Requiem Stands](https://jojo.fandom.com/wiki/Category:Requiem_Stands), as well as the [Requiem Arrow](https://jojo.fandom.com/wiki/Bow_and_Arrow#Requiem_Stands).
 
 File:Iron's requiem close up .png

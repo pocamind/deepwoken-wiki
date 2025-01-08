@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 127889
+revid: 128076
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1044,14 +1044,14 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Eye_of_Malice"><font>Eye of Malice</font></a></td>
   <td>75 MED</td>
-  <td>21</td>
+  <td>20</td>
   <td>25%</td>
   <td>15%</td>
   <td>MED: 8</td>
   <td>4</td>
   <td>9.5</td>
   <td>0.95x</td>
-  <td>38.5</td>
+  <td>36.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Umbrite_Witherblade"><font>Umbrite Witherblade</font></a> (<b>Bleed</b>)</td>

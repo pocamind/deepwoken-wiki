@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 124781
+revid: 128083
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -89,6 +89,7 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 -   If your weapon has stars, their effects will also apply to your Crazy Slots weapons.
 -   While Crazy Slots' roll chances are affected by your weapon stat, it is also possible that one of the two weapons for that stat may be more common depending on where the points were spent. This is just speculation, however.
 -   It is possible that "time" may be a stat in which points can be allocated when rolling Crazy Slots, as your weapon will only last a certain amount of time before disappearing on its own.
+-   Along with the [Iron Requiem](Iron_Requiem.md) and [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only three flintlocks in the game to play a unique sound effect on M1/crit.
 -   The Divine weapons can actually be wielded without the resonance, though whether there is a reason for this or not is unexplained.
     -   The Golden Warriors found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Divine Greataxes.
     -   The [Greater Angels](https://deepwoken.fandom.com/wiki/Angels?so=search#Greater) found in the [Trial of One](Trial_of_One.md) both wield Divine Spears.

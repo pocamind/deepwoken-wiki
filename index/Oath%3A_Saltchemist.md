@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 126932
+revid: 128070
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -52,9 +52,9 @@ Get a [Vibrant Gem](Mantra_Modifiers.md), [Pluripotent Alloy](Pluripotent_Alloy.
 
 This Oath makes the Perpetual Distillery appear on your character's arm.
 
-## Talents
+## Abilities
 
-### Perpetual Distillery
+### Perpetual Distillery - Passive
 
 Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.
 
@@ -64,14 +64,14 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 -   When replacing a potion in the Distillery, the one that was previously there is voided. **Potions cannot be recovered once placed in the Distillery.**
 -   Potions made with less than 100 Intelligence that are slotted into the Distillery will scale up in potency as Intelligence increases.
 
-### Biotic Salts
+### Biotic Salts - Passive
 
 -   Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.
     -   Halves negative effects for allies, and positive effects for enemies.
     -   Useful when throwing things like Heartening or Hastening Potions at allies.
     -   This should be used in every potion possible, as it has no downsides whatsoever.
 
-### Aromatic Salts
+### Aromatic Salts - Passive
 
 -   Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.
     -   Each "hit" of the mist count as a potion application, triggering the enhanced potion effects from Chain Reaction.
@@ -79,7 +79,7 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
         -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds.
     -   It is unclear if the potion effects from this stack in any way.
 
-### Antithetic Salts
+### Antithetic Salts - Passive
 
 -   Alter your brews to invert their effects. Does not count towards the ingredient limit.
     -   This reverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
@@ -88,15 +88,15 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
         -   Mindbreaking -> Heartening
         -   Invigorating -> Grueling
 
-### Lethal Injection
+### Lethal Injection - Mantra
 
 -   Lunge forward and inject the targeted person with all of your auto-brew potions.
--   This injects all of the _negative_ effects of your brew, none of the positive effects will apply.
--   Has the unique property of being able to apply several of the same kind of potion.
--   Puts potions on cooldown.
--   Deals a small amount of damage, with a small amount of hit-stun.
--   Plays a sound cue
--   Small auto-track
+    -   This injects all of the _negative_ effects of your brew, none of the positive effects will apply.
+    -   Has the unique property of being able to apply several of the same kind of potion.
+    -   Puts potions on cooldown.
+    -   Deals a small amount of damage, with a small amount of hit-stun.
+    -   Plays a sound cue
+    -   Small auto-track
 
 ## Location
 
