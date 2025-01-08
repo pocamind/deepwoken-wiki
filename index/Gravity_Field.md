@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 101072
+revid: 128099
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -24,19 +24,13 @@ categories: [Resonances]
 
 **Gravity Field** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
-### _Appearance_
+### Appearance
 
-A transparent hemisphere that has a purple edging and a purple circle. The hemisphere shrinks over time.
+A transparent hemisphere that has a purple edge and a purple area circle. The hemisphere shrinks over time.
 
 ## Usage
 
-Pressing C will activate **Gravity Field** Resonance.
-
-## Description
-
-When pressed, creates a hemisphere at the location of the resonance activation, from which it is very difficult or almost impossible to get out. Will decrease over time.
-
-Additionally, you can press C again to deactivate Gravity Field early.
+Pressing C will activate **Gravity Field** Resonance. Additionally, you can press C again to deactivate Gravity Field early. When activated, creates a hemisphere at the location of the resonance activation, from which it is very difficult or almost impossible to get out. Will decrease over time.
 
 If someone touches the border of the field, they will be ragdolled and flung back inwards. On top of this, mobility mantras (such as [Dash](Attunement-less.md#agility-mantras)) are not usable.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 128084
+revid: 128104
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1778,7 +1778,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Iron Skin mantra, 25 Ironsing
 
 -   Metal Absorption \[Common Talent, Ironsing Exclusive\] - Your 'Iron Hug' also absorbs armor from the enemy.
-    -   Iron Hug will steal 200 armor durability from the target.
+    -   Iron Hug will steal 20% of armor from the target.
     -   Prerequisites: Iron Hug mantra, 30 Ironsing
 
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras.
@@ -1786,11 +1786,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
-    -   Each rods will steal 20 armor durability.
+    -   Each rod will steal 2% armor (up to 20%)
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
-    -   Polished Armor's damage reduction starts at 5% damage reduction and gains 0.2% per point in Ironsing above 75.
+    -   Scales by 5% + IRONSING INVESTMENT\*0.05, meaning that u will have 8.75% at meeting req for this talent (**TESTED DONT EDIT)**
     -   Prerequisite: 75 Ironsing
 
 ### Metamancer

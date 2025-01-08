@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 128052
+revid: 128102
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -82,7 +82,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   Restrain chains the opponent even if the hit was blocked.
 -   Restrain has no cooldown as long as you are landing the mantra, working even on dodge/block, but not parry. When you whiff Restrain, it goes on cooldown.
 -   Chained targets from Restrain are slowed when they run away from you.
--   Chainwardens can chain multiple enemies, but enemies can only be chained by one person at a time. Nothing happens if another Chainwarden attempts to chain an already chained enemy.
+-   Chainwarden can chain multiple enemies, but enemies can only be chained by one person at a time. Nothing happens if another Chainwarden attempts to chain an already chained enemy.
 -   Using Rupture on a chained target will break the current chain and ragdoll the target in the direction of your camera (For example, looking behind you will ragdoll them toward you).
 -   Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.
 -   On release, was an incredibly small and lackluster Oath, having only 2 Mantras and no passives/Talents, with Arch having said that there were no Talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)

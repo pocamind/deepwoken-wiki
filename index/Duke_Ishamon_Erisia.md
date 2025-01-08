@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 128087
+revid: 128107
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -242,8 +242,7 @@ In terms of strategy to avoid his attacks as much as possible;
 -   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Astral to focus on high damage, but Vampirism makes it safer.
 -   You must STAY ALIVE whilst his shield is active, if you are knocked you cannot be saved as his shield blocks and parries every attack and any players who try to save you will have their attacks parried.
 -   If you attempt to assassinate him, the fight will automatically start.
--   Since the Mindless Servants can hinder your attack and serve as a nuisance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's gooninG
--   attacks to quickly deal with them.
+-   Since the Mindless Servants can hinder your attack and serve as a nuisance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with them.
 -   As The Duke tries to block a lot defensively in the second phase, the Enforcer Axe and Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
 
   

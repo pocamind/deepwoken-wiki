@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 127653
+revid: 128100
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -252,8 +252,9 @@ Ether
  | Crush your opponents bones with an iron infused grab. | 50 Ether | Metal + Slash | Perform a short windup before tightly hugging the opponent, dealing damage before sending them away.
 
 -   Deals 67 dmg total at 5 lvl, 1.1s windup, 11s cd.
--   The spell locks on to targets within a close frontal radius. Applies Metal Rods on hit.
+-   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
 -   With the [Metal Absorption](Talents.md) Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
+-   Matador procs against Iron Hug's hyperarmor.
 
  |
 | 
