@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 123388
+revid: 128091
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -131,7 +131,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 
 ## PVE Scaling
 
-If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a max player 20 to 34 hits to kill one? Not really.
+If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the [Megalodaunt](Megalodaunt.md) apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a max player 20 to 34 hits to kill one? Not really.
 
 When you level up, you automatically gain bonus damage during PVE, which is currently around **(10.38% x 3).** This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
 

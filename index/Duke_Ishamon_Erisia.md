@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 127866
+revid: 128087
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -388,4 +388,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 -   Killing Duke Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has been in the game.
 -   Can instantly cast Aero Spear if his head is caught under something, especially the pipes found around the edges of his arena.
--   If you don't kill all the enemies in the first area, the Duke and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
+
+If you don't kill all the enemies in the first area, the Duke and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
+
+-   Duke has approximately 700 erudition

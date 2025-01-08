@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 128008
+revid: 128093
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -18,7 +18,9 @@ Template:Creature Infobox V3
 
 The Heart of Enmity is a [Boss](Bosses.md) found in the [First Layer](First_Layer.md) of the Depths, located in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). A gargantuan creature wrought of iron and animosity and far superior to any mere [Enforcer](Enforcer.md), it is an incarnation or creation of the [Voice of Enmity](Voices_of_the_Depths.md#voice-of-enmity), a response to those making a mockery of the Trial with sheer numbers.
 
-This boss needs 5 players to go to depths trial at once, and one player must have at least 50 difficulty score (+3 score per Power and +1 score per Drown).
+To summon it, at least 5 players need to enter the Depths trial at the same time, and one player must have at least 50 difficulty score (+3 score per Power and +1 score per Drown).
+
+The Heart of Enmity possess 65% oath damage resistance and is **immune to all enchantments**.
 
 ## Moveset
 
@@ -173,11 +175,9 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
 
 -   The Heart of Enmity is the first ever [Scyphozia](First_Layer.md) Boss added.
 -   The Heart of Enmity has the highest base health out of any entity in the game.
--   It used to spawn corrupted with low chance, This is restorable as it's not intended.
+-   It was briefly able to spawn corrupted, which was restorable.
 -   It is unclear if the Heart of Enmity is the physical form of the [Voice of Enmity](Voices_of_the_Depths.md), or just a stronger monster variant used in the trial. However due to the dialogue given after defeating the boss, it implies that the creature is a physical form of the Voice of Enmity (as opposed to the other conjurations).
 -   Their summons are internally referred to as ".enmity\_enforcer\_WEAPON"
--   There was a bug that could instakill/void the boss by hitting the back of its neck with Rising Thunder or Rising Gale, as it would teleport it far outside the confines of the arena, upon which it would die.
--   The Heart of Enmity possess 65% oath damage resistance.
--   The Heart of Enmity is immune to all enchantments, this includes armour.
--   Before the World Events update, which added the boss, going to the trial with 5 or more people at once would initiate a battle royale between all of the participants, which is a reference to the game fortnite.
+-   There was a bug that could instakill/void the boss by hitting the back of its neck with Rising Thunder or Rising Gale, as it would teleport far outside the confines of the arena, upon which it would die.
+-   Before the World Events update, which added the boss, going to the trial with 5 or more people at once would force the participants to fight until one remained.
 -   Please avoid defeating Heart of Enmity via exploiters' "cheese methods", and avoid those who use such methods, as it could result in penalties such as in-game bans.
