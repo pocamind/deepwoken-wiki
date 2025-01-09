@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 124799
+revid: 128161
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -23,13 +23,14 @@ categories: [Relics]
 ## Description
 
 The [Relic](Relics.md), **Sinner's Ash**, are remnants of the Forge of Sin that stain one's very soul, corrupting their [Resonance](Resonance.md) in the process.  
-_(one-time use, re-obtainable)_  
-Using **Sinner's Ash** with an already corrupted [Resonance](Resonance.md) will reroll its downside.
+_(one-time use, re-obtainable)_
+
+Using **Sinner's Ash** with an already corrupted [Resonance](Resonance.md) will reroll its downside. Using the Sinner's Ash without having obtained a Resonance will do nothing, and dialogue will appear saying "The ashes don't seem to have any effect."
 
 ## Trivia
 
 -   You can hold more than one of this item.
 -   Holding Sinner's Ash will surround your player in a purple highlight.
     -   This no longer happens as of late 2024.
--   Using Sinner's Ash whilst not having any Resonance will do nothing, and Dialogue appears saying "The ashes don't seem to have any effect." (this used to do the same with a corrupted [Resonance](Resonance.md))
+-   The message that appears when using the Sinner's ash without a Resonance used to also appear when using it wth a corrupted [Resonance](Resonance.md).
 -   Its estimated drop chance is around 1/333 (Needs further testing)

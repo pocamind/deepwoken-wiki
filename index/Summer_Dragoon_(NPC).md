@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 115033
+revid: 128165
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Summer Company, Summer Company Enemies]
@@ -74,6 +74,7 @@ Summer Dragoons are higher ranking members of the [Summer Company](The_Summer_Co
 ## Trivia
 
 -   Arch\_Mage once stated that NPCS with rifles weren't coded as an explanation for why [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) didn't use a [Stormseye](Stormseye.md), however this was false given the existence of this NPC.[\[1\]](#cite-note-1)
+-   or more likely that they just used sword m1s like the ministry agent before Npcs we able to use rapiers but we will never know as this enemy is rare as all hell
 
 ## References
 
