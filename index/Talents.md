@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 128111
+revid: 128132
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -31,6 +31,8 @@ File:DeepwokenThumbnail.png
 Talents are one of the fundamental aspects of Deepwoken that defines your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain Talents may also be obtained when doing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific while often perilous tasks, although only one of each can exists on your character at the same time.
 
 There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, Flamecharmer, The Sound from Below, and Thresher Scales are a few examples of this.
+
+The maximum amount of talents that you can have (talent hand and quests combined) is 76,minus 2 talents per mantra you own exlcuding the [kelsius](Kelsius.md) quest, and without quests being 69 talents
 
 Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
@@ -1653,6 +1655,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I fight for the Legion."**_
 
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
+    -   Upon proc, this Talent will last for 3s. Does not have a cooldown.
+    -   If Speed Demon is active, the said "Light attack" will instead deal +15% damage as bleed.
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
@@ -2112,6 +2116,9 @@ _**"My cure is most effective."**_
     -   Works as default path with exception applying conductor rod after hitting rod limit. Has 5 rod limit.
     -   Conductor rod lasts for 1 elemental mantra
     -   While conductor rod applied, Ironsing and Attunementless mantras on use will drain 5% armor from victim.
+    -   Lasts for 30 seconds.
+    -   Without Conductor's cable talent doesn't steal armor at all.
+    -   You can't pull out conductor's cable.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Jailer
 
@@ -2119,7 +2126,7 @@ _**"My cure is most effective."**_
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
     -   Enemies have damage reduced by 30% when Metal Jailed.
     -   Will restrain for 1.08s with 5 rod proc and 1.6s if 10 rod proc (Keep in mind, pulls have 0.4s endlag)
-    -   Time jailed doesn't scale with Ironsing investment.
+    -   Time jailed doesn't scale with Ironsing investment or scaling barely exists.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Conductor
 

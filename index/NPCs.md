@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 124991
+revid: 128152
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -13,8 +13,6 @@ notices:
 ## Description
 
 NPCs are the various inhabitants of the Deepwoken world. While some serve functions such as being merchants or giving quests, some just exist to make the world feel more alive, as well as giving special titbits of information. Sometimes, having a higher [Charisma](Attributes.md#charisma) or Intelligence stat will unlock special interactions with them.
-
-A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets/d/14hI7BQMCzl0N1XftfcAVVcXt6ASjil2B7Jf2uGmoaIM/edit?usp=sharing).
 
 | NPC | Faction | Location | Purpose | Notes |
 | --- | --- | --- | --- | --- |
@@ -46,13 +44,14 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Cestis](Cestis.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants [Murmur: Tacet](Murmur%253A_Tacet.md) |  |
 | [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the Talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
 | [C'lantaa](<C'lantaa.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
-| [Deepdelver Gamma](Deepdelver_Gamma.md) | [The Ignition Union](The_Ignition_Union.md) | [Scyphozia](First_Layer.md), [The Chariot's Spire](<The_Chariot's_Spire.md>) | None | He explains about Layer 2 and Deepdelver. |
+| [Deepdelver Gamma](Deepdelver_Gamma.md) | [The Ignition Union](The_Ignition_Union.md) | [First Layer](First_Layer.md), [The Chariot's Spire](<The_Chariot's_Spire.md>) | None |  |
+| [Den Master](Den_Master.md) | Unaligned | [Etris](Etris.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
 | [Dockson](Dockson.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
 | [Dust](Dust.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), cemetery | None |  |
 | [Drefa](Drefa.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple Approach](Temple_Approach.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | The quest is repeatable |
 | [Eres](Eres.md) | [The Kingdom of Etrea](Etrea.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Emel](Emel.md) | [The Ministry](The_Ministry.md) | [Summer Isle](Summer_Isle.md), island near the port | Grants quest to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
-| [Erisae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | Inside [Erisor's Church](<Erisor's_Church.md>) | Gacha NPC, in exchange for 350, she will give you something random from the Erisia lootpool out of her bag |  |
+| [Erisae](Loot_Bag_Gacha.md) | Unaligned | Inside [Erisor's Church](<Erisor's_Church.md>) | Gacha NPC, in exchange for 350, she will give you something random from the Erisia lootpool out of her bag |  |
 | [Maestro Evengarde Rest](Evengarde_Rest.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
 | [Exter](Exter.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Ezra](Ezra.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md) | The quest is repeatable |
@@ -145,13 +144,13 @@ Check the rest out for yourself, canonically smells really bad
 | [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |
 | [Theadre](Theadre.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, aspect and weapon equipped |
 | [Trenti](Trenti.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), inn | Provides information to new players |  |
-| [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
-| [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |
+| [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company Guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
+| [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |
 | [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |
 | [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
-| [Vyrelda](Vyrelda,_Master_of_Blood.md) | [Ministry](The_Ministry.md) | [Second Layer](Second_Layer.md), in an Igloo at [Firfire](Firfire.md) | Begins the quest to obtain Bloodrend. | Will ask you to hunt down students of the Second Skulking who drop Heartstars and bring 3 of them back to her. |
+| [Vyrelda](Vyrelda,_Master_of_Blood.md) |  | [Second Layer](Second_Layer.md), in an Igloo at [Firfire](Firfire.md) | Begins the quest to obtain Bloodrend. | Will ask you to hunt down students of the Second Skulking who drop Heartstars and bring 3 of them back to her. |
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |
 | [Weird Trader](Weird_Trader.md) | Unaligned | Any Ocean | Requests 3 random items for a random relic or legendary and around a 5% chance of an Astral Enchant Stone. |
-| [Yamaketzal](Yamaketzal.md) | Unaligned | [The Songseekeer Wilds](Songseeker_Wilds.md), [Songseeker Temple](Songseeker_Temple.md) | Grants [Chime of Conflict](Chime_of_Conflict.md), getting rid of "Tarnished" Flaw |
-| [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](First_Layer.md), The Temple of Hearts | Grants wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped, also required for [Contractor](Oath%253A_Contractor.md) obtainment. |
+| [Yamaketzal](Yamaketzal.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md), [Songseeker Temple](Songseeker_Temple.md) | Grants [Chime of Conflict](Chime_of_Conflict.md), getting rid of "Tarnished" Flaw |
+| [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [First Layer](First_Layer.md), The Temple of Hearts | Grants wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped, also required for [Contractor](Oath%253A_Contractor.md) obtainment. |
 | [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations, is a jab at the old azure flames shattered katana royal pathfinder vesperian meta |

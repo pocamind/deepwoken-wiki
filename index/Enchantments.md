@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 127651
+revid: 128155
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -329,7 +329,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Successful proc will push attacker backwards and put enchant on 2.5 second cooldown.<br>
   You take 30% chip dmg only if enchant proc.<br>
   <b>NO RANGE LIMIT, AFFECTED BY ANY ATTACK</b></p></div></td>
-  <td><div>Weapon is colored blue and have VENT like electricity particles on</div></td>
+  <td><div>Weapon is colored blue and has VENT like electricity particles on</div></td>
 </tr>
 </tbody>
 </table>
@@ -707,8 +707,6 @@ Twisted Puppets will summon a puppet instead of creating a fire.
 Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.
 
  |
-
-  
 
 ## Changelogs
 

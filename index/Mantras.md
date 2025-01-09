@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 127728
+revid: 128133
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -14,7 +14,7 @@ categories: [Mantras, Character, Attunement, Mechanics]
 
 Considered to be the root of Ether's usage - **Mantras**, sometimes referred to in lore as _words of the Song_, are the heart of _Deepwoken's_ magic system. Simply put, these are be the magic abilities that you use to fend off your adversaries or assist yourself in achieving specific goals.
 
-Mantras are obtained by receiving a [Whisper Draw](Whisper_Draw.md) upon powering up (Power 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19, and 20. A total of 12 mantras you will get by powering up), as well as completing the _one-time-use_ [Kelsius Quest](Kelsius.md) in the [Isle of Vigils](Isle_of_Vigils.md). If you are unsatisfied with a mantra you've chosen, it can be rerolled via the [Shrine of Temptation](Deep_Shrines.md).
+Mantras are obtained by receiving a [Whisper Draw](Whisper_Draw.md) upon powering up (Power 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19, and 20. A total of 12 mantras you will get by powering up), as well as completing the _one-time-use_ [Kelsius Quest](Kelsius.md) in the [Isle of Vigils](Isle_of_Vigils.md) bringing that up to 13. If you are unsatisfied with a mantra you've chosen, it can be rerolled via the [Shrine of Temptation](Deep_Shrines.md).
 
 ## Classification of Mantras
 
@@ -185,7 +185,7 @@ Mantras you get by turning in monster parts to a NPC in Castle Light. To get the
 -   Nautilodaunt -> Nautilodaunt Beak -> Abyssal Ridge (Grand Stomp)
 -   Terrapod -> Terrapod Shell -> Whirling Blade (Original Mantra)
 
-All Mantras gained from this are 2 stars and some have special effects, as Dread Breath procs Chill, and will proc Crystals if you have the respective Frostdraw path. This also goes for Mecha Gatling, as it procs Fire and will proc Lava Serpent eruptions as a result if you have the respective path.
+All Mantras gained from this are 2 stars and some have special effects, as Dread Breath procs Chill, and will proc Crystals if you have the respective Frostdraw path. This also goes for Mecha Gatling, as it procs Fire and will proc Lava Serpent eruptions as a result if you have the respective path. Keep in mind that these are rare mob drops and may require alot of grinding to obtain some certain ones
 
 ### [Oath Mantras](Oaths.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 128120
+revid: 128135
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -36,9 +36,9 @@ It is also noted that you can get free points even without Autodidact by getting
 
 every level up you get you will be awarded 2-3 talent hands and 0-1 mantra hands, when you are to obtain a mantra from leveling you will be awarded with 2 talent hands and if not you will get 3 talent hands
 
-The current level for getting mantras are 2,4,6,8,10,12,14,16,17,18,19,20 resulting in 12 mantras total
+The current level for getting mantras are 2,4,6,8,9,10,12,14,16,18,19,20 resulting in 12 mantras total, you can obtain more mantras through the [Kelsius quest](Kelsius.md), [Deep shrines](Deep_Shrines.md) and [Monster mantras](Monster_Mantras.md). You wont be able to use more the a certain amount of mantras depending on what build you have with some allowing more mantras then other via [Oaths](Oaths.md) and [Neuroplasticity](Talents.md).
 
-you can obtain up to a max of 76 talents which can be turned into mantras through the [Shrine of unification](Deep_Shrines/Shrine_of_Unification.md) and turn a mantra card into 2 random talent through the [Shrine](Deep_Shrines/Shrine_of_Division.md) of divison
+you can obtain up to a max of 76 talents which can be turned into mantras through the [Shrine of unification](Deep_Shrines/Shrine_of_Unification.md) and turn a mantra card into 2 random talent through the [Shrine of division](Deep_Shrines/Shrine_of_Division.md)
 
 ## Notes/Trivia
 

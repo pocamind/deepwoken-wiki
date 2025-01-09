@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 122712
+revid: 128154
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns during the Depths Collapse event, when you are doing the "Nautilodaunt Extermination" job or within the marketplace in the City of the Drowned (except for [Hell Mode](Hell_Mode.md)), rummaging through some wares. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md). The Nautilodaunt can also spawn from [Mimic Chests](Chests_&_Sacks.md) after opening, at an extremely rare chance. It will spawn with feathers and smoke erupting from the chest and attack you.
+The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns during the Depths Collapse event, when you are doing the "Nautilodaunt Extermination" job or within the marketplace in the City of the Drowned (except for [Hell Mode](Hell_Mode.md)), rummaging through some wares. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md). The Nautilodaunt can also spawn from [Mimic Chests](Chests_&_Sacks.md) after opening, at an extremely rare chance. It will spawn with feathers and smoke erupting from the chest and attack you. Nautilodaunt has a chance to be summoned by [Interluminary Parasol](Interluminary_Parasol.md).
 
 While a Nautilodaunt is rummaging in the marketplace, it creates easily distinguished noises, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, it will simply stand in silence until another player approaches and is spotted.
 

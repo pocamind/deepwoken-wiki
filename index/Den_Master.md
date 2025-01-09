@@ -1,6 +1,6 @@
 ---
 title: Den Master
-revid: 115043
+revid: 128151
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Vendors]
@@ -37,3 +37,7 @@ theres another Den Master named "Cave Master" in Isle of vigils behind the house
 File:Den master verse 2.png
 
 The Den Master’s inside.
+
+File:Den Master map.png
+
+Den Master on the map

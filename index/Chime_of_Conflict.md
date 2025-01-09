@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 122294
+revid: 128128
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents, Items]
@@ -54,7 +54,7 @@ All accounts start at 800 Ranking, and increases or decreases based on your vict
 
 ### Rank Titles
 
-Initiate **(800-899)**
+Initiate **(0-899)**
 
 Novice **(900-999)**
 

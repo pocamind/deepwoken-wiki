@@ -1,6 +1,6 @@
 ---
 title: Bounder Claw
-revid: 128116
+revid: 128143
 source: https://deepwoken.fandom.com/wiki/Bounder_Claw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Drops]
@@ -20,7 +20,7 @@ categories: [Items, Ingredients, Drops]
 
 ## Description
 
-Bounder Claw is a drop from [Bounders](Bounder.md), they can be found in the [Second Layer](Second_Layer.md) and [Diluvian Mechanism](The_Diluvian_Mechanism.md).
+Bounder Claw is a drop from [Bounders](Bounder.md), they can be found in the [Second Layer](Second_Layer.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Usage
 

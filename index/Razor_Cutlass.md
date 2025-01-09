@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 127513
+revid: 128129
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -35,7 +35,7 @@ Being a medium weapons that deals bleed on top of its normal attacks, the Cutlas
 
 This weapon is also notably one of the slowest available swords in the game, its swing speed only being .01 faster than the [Messer](Messer.md), and the starter-tier club, [Mace](Mace.md), which the [Messer](Messer.md) shares its swing speed stat with. The sheer power of the aforementioned stats make up for this weapon’s somewhat-slow swing speed quite a bit. As such, it's best used as a mid to endgame weapon.
 
-It may be crafted into an [Umbrite Witherblade](Umbrite_Witherblade.md) with 10 [Umbrite](Ores.md), a [Dormant Splinter](Dormant_Splinter.md) and itself in the [Cold Forge](The_Cold_Forge.md).
+It may be crafted into an [Umbrite Witherblade](Umbrite_Witherblade.md) with 3 [Umbrite](Ores.md), a [Dormant Splinter](Dormant_Splinter.md) and itself in the [Cold Forge](The_Cold_Forge.md).
 
 ## Trivia
 
