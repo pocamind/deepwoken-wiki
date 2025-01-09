@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 128071
+revid: 128171
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -145,7 +145,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game without using glitches, as it requires the player to cast a Mantra. If you find yourself playing it, keep logging and joining back until you happen to not be playing it.
 -   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md) and [Amashi](Amashi,_Master_of_Flame.md)(Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
     -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Origins.md) and faction ambushes won't come after you.
--   Mani Katti is not used by pressing your Control + M2 keys, but by pressing your Crouch + Feint keybinds (whatever they are for you). For example, if you have Crouch on the C key and Feint on the F key, you need to press C + F to use Mani Katti (outdated as of 13/9/24).
+-   Rising star is not used by pressing your Control + M2 keys, but by pressing your Crouch + Feint keybinds (whatever they are for you). For example, if you have Crouch on the C key and Feint on the F key, you need to press C + F to use Mani Katti (outdated as of 13/9/24).
 -   If the Dreadstar doesn't appear, interact with one of the Ghosts on the ship.
 -   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ Talent card with a different description alongside the old Talent set. (image attached)
 -   The Silentheart Talent description says that it halves weapon stat requirements; but this is incorrect, as it was changed to 25 less investment points in the same update that Silentheart was reworked. The Talent card was never changed.

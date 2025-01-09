@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 128075
+revid: 128172
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -479,6 +479,12 @@ _noun_
 
 1.  Agility [attribute](Attributes.md#agility) (skill)
 2.  Some refer to this stat as **AGI** instead.
+
+### Attless
+
+_adjective_
+
+1.  Short form for [Attunement-less](Attunement-less.md).
 
 ### BMing
 

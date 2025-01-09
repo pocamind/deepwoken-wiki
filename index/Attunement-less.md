@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 127950
+revid: 128173
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -20,7 +20,7 @@ Attunement-less mantras, or Physical mantras consist of mantras that are chosen 
 
 You don't have an attunement, instead relying on your physical and mental abilities to give yourself an edge in battle.
 
-Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength combined with the Song to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement.
+Most of your mantras focus on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by utilizing your body alone, whether it's utilizing your raw strength combined with the Song to punch down trees and enemies alike, moving at a faster rate than usual, or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement.
 
 In spite of its shortcomings, the potential of Attunement-less is nothing to scoff at, as stat points normally allocated to Attunements can instead be used to obtain Talents, as well making obtaining high investment Talents more worthwhile should a powerful combat mantra scale off the same points.
 
@@ -29,7 +29,7 @@ In spite of its shortcomings, the potential of Attunement-less is nothing to sco
 -   These mantras are based on your attributes, not your attunements.
 -   Their damage/efficiency scales with the attribute's level.
 -   Although the mantras have nothing to do with attunements, having an attunement can sometimes make certain attunement**less** mantras have higher obtainment requirements (e.g; Glare). Source: Arch\_Mage and tester(s)
--   _(Side Note: Do not confuse upgrading mantras with trainers as using modifiers.)_
+-   _(Side Note: Do not confuse upgrading mantras at trainers with using modifiers.)_
 
 ### _Strength Mantras_
 
