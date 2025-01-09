@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 127492
+revid: 128296
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -427,18 +427,18 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 
 **Voices of the Trials**
 
-_"**Despicable**. You deem yourselves worthy of a challange? Allow me to educate you on your folly." -_ _The Voice of Enmity._
+_"**Despicable**. You deem yourselves worthy of a challenge? Allow me to educate you on your folly." -_ _The Voice of Enmity._
 
--   As the name applies, creatures of unkown origin that are in charge of operating the Trials of the Citadel, wich is used by many people to escape the Depths and return to the surface "safely".
+-   As the name applies, creatures of unknown origin that are in charge of operating the Trials of the Citadel, wich is used by many people to escape the Depths and return to the surface "safely".
 -   They operate the Trials of the Citadel within the Citadel of Celtor, where if players showcase their strength by defeating an opponent, they are returned to the surface.
 -   Currently, there are 4 voices operating the trials being: _The Voice of Authority, The Voice of Sequestration, The Voice of Odium and the Voice of Enmity._
 -   Each voice acts in a different way than the other as their name suggests, while the Voice of Odium and Enmity show general disgust and hate towards the player, the Voice of Sequestration finds a _"particular"_ interest in the player.
--   Very likely to have an unkown hierarchy where the Voice of Authority rules over the rest of the voices, as it has the final say in every trial.
+-   Very likely to have an unknown hierarchy where the Voice of Authority rules over the rest of the voices, as it has the final say in every trial.
 -   Depending on the strength of the player when they show up to the trial, they would put either a very difficult enemy to fight the player, such as the Enforcers or Nautilodants, or let them go without a fight if they are too weak.
--   Their current goal is to sacrifice the souls of strong poeple to _"Their Master Below"_, where is possible that when they die in the trials, their souls are sent to their master in a deeper layer. However, sometimes they use said souls from the ones who perished in the trials to creat the Enforcers. -Their _"Master Below"_ is suspected to be the creator of the Voices of the trials, where said master is suppoused to either be a being of great power, or maybe an unkown Drowned God that resides within a deeper layer. -Since they only show interest in those that are _"Fit for crushing"_ (AKA Strong players), it is most likely they use the souls of those weaker who perished in the trials to creat the enforcers, and those who are stronger as sacrifice to their master.
+-   Their current goal is to sacrifice the souls of strong people to _"Their Master Below"_, where is possible that when they die in the trials, their souls are sent to their master in a deeper layer. However, sometimes they use said souls from the ones who perished in the trials to create the Enforcers. -Their _"Master Below"_ is suspected to be the creator of the Voices of the trials, where said master is supposed to either be a being of great power, or maybe an unknown Drowned God that resides within a deeper layer. -Since they only show interest in those that are _"Fit for crushing"_ (AKA Strong players), it is most likely they use the souls of those weaker who perished in the trials to create the enforcers, and those who are stronger as sacrifice to their master.
 
--   Each Voice has a physical representation where they can be defeated such as the case of the _Heart of Enmity_ being the physicial form of _The Voice of Enmity_. However they only fight with their physicial form when they deemed so, such as the case of Enmity where he decides to fight the player when 5 or more people are brought into the Trial, as Enmity sees it as _"Making a mockery of this place with sheer numbers",_ and wanting to punsih the player.
--   However while being able to be defeated they are very powerfull beings where probably one entity is stronger than other, such as probably being the _Voice of Authority_ the stronger of the Voices.
+-   Each Voice has a physical representation where they can be defeated such as the case of the _Heart of Enmity_ being the physical form of _The Voice of Enmity_. However they only fight with their physical form when they deemed so, such as the case of Enmity where he decides to fight the player when 5 or more people are brought into the Trial, as Enmity sees it as _"Making a mockery of this place with sheer numbers",_ and wanting to punish the player.
+-   However while being able to be defeated they are very powerful beings where probably one entity is stronger than other, such as probably being the _Voice of Authority_ the stronger of the Voices.
 
 ### The Nestmind
 
@@ -473,7 +473,7 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 
 **Lore Sources:** _Arch\_Mage_
 
--   A Primal Vesperian, and Arch\_Mage's lore character ingame.
+-   A Primal Vesperian, and Arch\_Mage's lore character in-game.
 -   Has a Resonance that allows him to make the 'immaterial' material.[\[2\]](#cite-note-arch-2)
     -   This seems to include souls and mantras, though might extend to more things. He uses this ability to steal these concepts from others, and to make deals.[\[2\]](#cite-note-arch-2)
 -   Can fuse Mantras using his Resonance to a higher tier.[\[2\]](#cite-note-arch-2)

@@ -1,6 +1,6 @@
 ---
 title: Keyblade
-revid: 125070
+revid: 128261
 source: https://deepwoken.fandom.com/wiki/Keyblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -38,4 +38,4 @@ The Keyblade is a developer spec which is assumed to be a reskin to the [Hero Bl
 ## Trivia
 
 -   It's more than likely inspired by the Keyblade from [Kingdom Hearts](https://kingdomhearts.fandom.com/wiki/Keyblade%7C).
--   The spec belongs to the moderator Sora if you’ve played kingdom hearts you would know why he has it.
+-   This skin belongs to the moderator "Sora".

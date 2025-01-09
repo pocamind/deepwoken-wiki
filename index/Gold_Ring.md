@@ -1,11 +1,9 @@
 ---
 title: Gold Ring
-revid: 127019
+revid: 128271
 source: https://deepwoken.fandom.com/wiki/Gold_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Equipment, Rings]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items, Equipment, Rings]
 ---
 
 # Gold Ring

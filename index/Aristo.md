@@ -1,6 +1,6 @@
 ---
 title: Aristo
-revid: 92194
+revid: 128327
 source: https://deepwoken.fandom.com/wiki/Aristo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -8,11 +8,19 @@ categories: [NPCs]
 
 # Aristo
 
-Template:NPC name
+| Aristo | |
+|---|---|
+| name | Aristo |
+| aspect | Etrean |
+| location | Isle of Vigils |
 
 ## Description
 
-Aristo is an Etrean NPC you can find at the [Isle of Vigils](Isle_of_Vigils.md) Inn. He is usually the first NPC you talk to when starting a new character. He can help new players figure out where to go when starting out, directly mentioning the island of [Erisia](Erisia.md). He can also give you 20 notes, which is useful starting out.
+Aristo is an Etrean and He is usually the first NPC you talk to when starting a new character. He can help new players figure out where to go when starting out, directly mentioning the island of [Erisia](Erisia.md). He can also give you 20 notes, which is useful starting out.
+
+## Location
+
+Aristo is located at [Isle of Vigils](Isle_of_Vigils.md) inside the inn, if you spawn with the [Isle of Vigils origin](Origins.md) you will see him instantly when coming out of the inn.
 
 ## Notes
 

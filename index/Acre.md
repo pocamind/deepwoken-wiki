@@ -1,20 +1,26 @@
 ---
 title: Acre
-revid: 123324
+revid: 128278
 source: https://deepwoken.fandom.com/wiki/Acre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [Adret NPCs, NPCs]
 ---
 
 # Acre
 
-File:??.png
+| Acre | |
+|---|---|
+| name | Acre |
+| aspect | Adret |
+| location | Starswept Valley |
 
-On [Starswept Valley](The_Starswept_Valley.md)
+## Description
 
-Throws you off into the water if you continue her dialogue.
+Acre is a female adret sitting on a ledge overlooking the water, she throws you off into the water if you continue her dialogue.
 
-She may have anger issues in-lore, or have passed by a tragic event, tho its not confirmed.
+## Location
+
+Acre can be found on a ledge beside one of the longest ziplines in Starswept Valley, the zipline is found to the right of the [Fountain Gate](Fountain_Gates.md) that takes you to [Greathive Aratel](Greathive_Aratel.md)
 
 ## Dialogue
 

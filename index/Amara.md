@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 116686
+revid: 128280
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore, The Hundred Legions]
@@ -15,9 +15,13 @@ categories: [NPCs, Lore, The Hundred Legions]
 
 ## Description
 
-Amara is the Centurion of the [11th Legion](The_Hundred_Legions.md), located in the Etrean Luminant. She is the main source of [lore](Lore.md) dedicated to the Legion. She is not the only Centurion in the East, as she mentions the presence of other Centurions in [Starswept Valley](The_Starswept_Valley.md), with those being the [Legion Captains](Legion_Captain.md) and the [Legion Snipers](Legion_Sniper.md), the last one she warns you about as it is hostile no matter your [Reputation](Reputation.md) with the Legion.
+Amara is the Centurion of the [11th Legion](The_Hundred_Legions.md). She is the main source of [lore](Lore.md) dedicated to the Legion. She is not the only Centurion in the East, as she mentions the presence of other Centurions in [Starswept Valley](The_Starswept_Valley.md), with those being the [Legion Captains](Legion_Captain.md) and the [Legion Snipers](Legion_Sniper.md), the last one she warns you about as it is hostile no matter your [Reputation](Reputation.md) with the Legion.
 
 She also teaches you the [Legion Kata](Fists.md) fighting style after turning in a Captain's Recc obtained by assisting the 11th Legion in [Aratel Island](Aratel_Island.md) or in [Upper Erisia](Upper_Erisia.md).
+
+## Location
+
+Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Jaw.md>) far inside in a Legion hideout with other legionares, the entrance to the cave is located to the right of the bandit camp
 
 ## Lore
 

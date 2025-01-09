@@ -1,11 +1,9 @@
 ---
 title: Rabanastre
-revid: 124312
+revid: 128256
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [NPCs, Layer 2, Floor 1]
 ---
 
 # Rabanastre
@@ -22,16 +20,77 @@ Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer
 
 ## Dialogue
 
+**Initial Encounter:**
+
 <table>
 <tbody>
 <tr>
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Aelahi, frinwalter- ah. You are not.. one of us. Why are you here, frinwalter? This is no place for man.</td>
+  <td colspan="12">Kehe! You, ah, lost lamb! Would you like to play... a game? No tricks, no foul, just pure fun.</td>
 </tr>
 <tr>
-  <td colspan="12">I'm an adventurer.</td>
+  <td colspan="6">This is not the place or time for games.</td>
+  <td colspan="6">I'm in.</td>
+</tr>
+<tr>
+  <td colspan="6">Kehehe! So stoic, so brave... ahh, I feel so excited! Oh brave warrior of mine, what if your participation is mandatory? What if this is a game you will partake in, no matter your stance?</td>
+  <td colspan="6">Kehe, kehe! I'll tell you, I'll tell you! I found these little pets, oh so kind! Go down there, play with them! They love to chase... and bite... Oh brave warrior of mine, won't you play? They love friendship! Go down there, say hi! Tell them 'dance', watch how they dance!</td>
+</tr>
+<tr>
+  <td colspan="6">Mandatory? What? I'm not doing it.</td>
+  <td colspan="6">End Dialogue.</td>
+</tr>
+<tr>
+  <td colspan="6">KEHEHEHE!</td>
+</tr>
+<tr>
+  <td colspan="6">End Dialogue, you get punched off.</td>
+</tr>
+</tbody>
+</table>
+
+**Second Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Kehe! You- Oh. Oh, you... lived. Oh, kehe..he. *He begins to sweat nervously, looking up at you in fear.* A-all fun and games, right friend? Oh, brave warrior of mine?</td>
+</tr>
+<tr>
+  <td colspan="12">I should end you for that.</td>
+</tr>
+<tr>
+  <td colspan="12">Oh... please, brave hero of mine! Spare me, spare me! *He pleads, making a praying motion with his hands.* Just fun is all, won't you spare me, oh hero of mine?</td>
+</tr>
+<tr>
+  <td colspan="12">Fine.</td>
+</tr>
+<tr>
+  <td colspan="12">Bless! Bless upon your heroic soul, oh brave hero of mine! Ohhh how I'll worship and follow you forever out of gratitude... kehehe.</td>
+</tr>
+<tr>
+  <td colspan="12">End Dialogue.</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">He punches you off if you attempt to talk to him.</td>
+</tr>
+<tr>
+  <td colspan="12">KEHEHEHE!</td>
+</tr>
+<tr>
+  <td colspan="12">End Dialogue.</td>
 </tr>
 </tbody>
 </table>

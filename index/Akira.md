@@ -1,9 +1,9 @@
 ---
 title: Akira
-revid: 121225
+revid: 128196
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Divers, Layer 1]
+categories: [Etrean NPCs, NPCs, The Divers, Layer 1]
 ---
 
 # Akira
@@ -11,6 +11,7 @@ categories: [NPCs, The Divers, Layer 1]
 | Akira | |
 |---|---|
 | name | Akira |
+| aspect | Etrean |
 | location | Castle Light, Celtor Wastes (Random Event) |
 
 “ Since when was the Depths the territory of some surface-dwelling small fries like lot of you? Pass this line and none of you will see the surface again. ”

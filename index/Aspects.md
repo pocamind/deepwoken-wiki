@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 126548
+revid: 128193
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -46,7 +46,7 @@ The percent chance of rolling a aspect changes per roll- given that you CANNOT r
 
 ## Exclusive Aspects
 
-These aspects are **UNOBTAINABLE** via ordinary means. They instead serve as gifts to notable members of the community, given by the developers of _Deepwoken_.
+These aspects are **UNOBTAINABLE** via ordinary means. They instead serve as gifts to certain members of the community, given by the developers of _Deepwoken_.
 
 ## NPC-Exclusive Aspects
 
@@ -68,12 +68,13 @@ These aspects are currently exclusive to NPCs and are **UNOBTAINABLE** by curren
 -   Take caution: it's not advised to reroll aspects until you have the maximum amount of slots, since the price difference of 50 Robux is rather minimal, and extra slots are always useful.
 -   NPCs may treat the player differently depending on their aspect, but most of the time, enough points in the Charisma stat - or otherwise having positive rep - will overwrite the NPC's aggression towards the player. Many factions are inherently xenophobic/racist to other aspects, though this will rarely appear in gameplay.
     -   One of the most prominent effects of this is that if you are playing as one of the three Hive aspects (Chrysid, Ganymede, or Vesperian), when you start as a Voidwalker you do not have negative rep with the Hive.
--   Aspect rarity does not make the aspect inherently better.
-    -   However, do note that some aspects are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton durability or tankiness.
+-   Rarity does not make the aspect inherently better.
+    -   However, do note that some aspects are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton durability or tankiness, or Khan for saving points in general.
 -   Players can come across other players tagged with familial relations if they are of the same aspect, such as being one's sibling, cousin, twin, parent, or any of the like.
     -   While this does not have any impact on gameplay, it can open up unique interactions between players if they so choose.
 -   All aspects can be acquired from initial game/slot purchase.
 -   During the _Mudwoken_ update, every player was turned into a Mudskipper, each aspect was given their own "_Mudskipper-fied_" version but still kept some characteristics.
+    -   Humorously, Felinor was called "Abomination" instead of a Mudskipper-ified name.
 -   The most common aspect attribute is Charisma, tied with Agility, granted by five aspects: Adret, Canor, Celtor, Chrysid, and Felinor.
     -   Tied for the most common attribute is Agility, granted by five aspects: Chrysid, Etrean, Felinor, Khan, and Tiran.
     -   Four aspects grant Intelligence (Capra, Celtor, Etrean, Ganymede), four grant Willpower (Adret, Capra, Ganymede, Vesperian) and three aspects grant Strength (Canor, Gremor, Khan).

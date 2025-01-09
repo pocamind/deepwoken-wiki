@@ -1,6 +1,6 @@
 ---
 title: Ignition Lanterns
-revid: 117326
+revid: 128303
 source: https://deepwoken.fandom.com/wiki/Ignition_Lanterns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
@@ -14,7 +14,7 @@ categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
 
 ## Description
 
-The **Ignition Lanterns** are lanterns commonly found around the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). They remove accumulated parasites that the player has incurred when interacted with. Upon first interaction, the player learns of the recipe to make the [Wormwarder Lantern](Wormwarder_Lantern.md).
+The **Ignition Lanterns**, or "**Burners**" are lanterns commonly found around the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). They remove accumulated parasites that the player has incurred when interacted with. Upon first interaction, the player learns of the recipe to make the [Wormwarder Lantern](Wormwarder_Lantern.md).
 
 Not to be confused with the [Wormwarder Lantern](Wormwarder_Lantern.md).
 
@@ -31,11 +31,11 @@ They are scattered around the first floor of the Second Layer, with most of them
 3.  The third location is in the [Firfire Caverns](Firfire_Caverns.md), near the [Kyrsan Camp](Firfire.md). At the door that you need to press a blue button to open, you can find the Lantern on its left side when you exit.
 4.  The fourth location is in [The Maw of Ethiron](The_Maw_of_Ethiron.md), in the first left tower. Hanging next to the front door.
 
-for the blue ones
-
--   galewax area
+The blue lanterns are found within the Galewax Secret, having three in said area.
 
 ## Trivia
 
--   Despite being commonly referred to as "**Lanterns**", the only mention of it in-game is by [Sunway](Sunway.md), when he calls them "**Lamps**".
+-   Despite being commonly referred to as "**Lanterns**", ingame they are called different names.
+    -   [Sunway](Sunway.md) calls them "**Lamps**"
+    -   The Player calls them "**Burners**" when applying heat to [Epsi](Epsi.md).
 -   After 10 uses of the same lantern, it will go out and can no longer be used.

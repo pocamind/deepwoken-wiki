@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 127695
+revid: 128234
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Oath Trainer, World Event]
@@ -25,10 +25,6 @@ Aelita is a unique event NPC that spawns when you walk near a rock in the center
 Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if \[the player comes\] back during the winter." This is a trap, as 4 meteorites carrying [Blizzard Knights](Stone_Knight.md#blizzard-knight) will spawn in her place during Winter.
 
 She is the twin sister of [Tillian](Tillian.md).
-
-Aelita is 182.5 years old
-
-Tillian and her last name is Arlekino.
 
 ## Event
 

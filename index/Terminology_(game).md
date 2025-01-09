@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 128172
+revid: 128175
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -455,7 +455,7 @@ _verb, noun_
 
 _noun_
 
-1.  A type of build using the [Jetstriker](Oath%253A_Jetstriker.md) Oath that specializes in movement speed, either to run away from opponents in PvP or to make traversal across the game faster.
+1.  A type of build, usually using the [Jetstriker](Oath%253A_Jetstriker.md) Oath, that specializes in movement speed, either to run away from opponents in PvP or to make traversal across the game faster.
     1.  Ex. "I hate trackstar builds, they're so annoying!!!"
 
 ### Sustain

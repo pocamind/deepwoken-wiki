@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 128132
+revid: 128231
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1655,8 +1655,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I fight for the Legion."**_
 
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
-    -   Upon proc, this Talent will last for 3s. Does not have a cooldown.
-    -   If Speed Demon is active, the said "Light attack" will instead deal +15% damage as bleed.
+    -   Does not have a cooldown, lasts for 3s.
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.

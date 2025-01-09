@@ -1,6 +1,6 @@
 ---
 title: ??? (Coral Clump)
-revid: 127035
+revid: 128216
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Coral_Clump)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1]
@@ -8,9 +8,15 @@ categories: [NPCs, Layer 1]
 
 # ??? (Coral Clump)
 
+Template:NPC name
+
 ## Description
 
-Template:NPC name "???" is an NPC who is apparently the only [Mudskipper](Mudskipper.md) still in "sound mind", he resides in [Scyphozia](First_Layer.md) in the first layer of [the Depths](The_Depths.md), in [Celtor Wastes](Celtor_Wastes.md) you can find him near the Widow's Cave entangled in a clump of coral.
+"???" is an NPC who is apparently the only [Mudskipper](Mudskipper.md) still in "sound mind"with the ability to talk using proper words.
+
+## Location
+
+He resides in [Scyphozia](First_Layer.md) in the first layer of [the Depths](The_Depths.md), in [Celtor Wastes](Celtor_Wastes.md) you can find him near the Widow's Cave entangled in a clump of coral.
 
 ## Dialogue
 

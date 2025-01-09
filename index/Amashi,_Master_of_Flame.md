@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 125006
+revid: 128284
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs]
@@ -15,6 +15,10 @@ Template:EnemyInfobox1.0
 Amashi is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Flamecharm](Flamecharm.md) trainer.
 
 In order to obtain Flamecharm, you must bring 2 [Dying Embers](Dying_Embers.md) to Amashi, though, if you have NEVER unlocked [Flamecharm](Flamecharm.md) before at any point, you would need 5 [Dying Embers](Dying_Embers.md). Alternatively, if you have obtained the Silentheart Oath, you must kill him in order to get one of five Oath Talents. He is found in the [Songseekers Wilds](Songseeker_Wilds.md) inside the [Songseeker Temple](Songseeker_Temple.md).
+
+## Location
+
+Amashi is located in the [Songseeker Wilds](Songseeker_Wilds.md) inside the [Songseeker Temple](Songseeker_Temple.md).
 
 ## Moveset
 

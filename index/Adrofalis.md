@@ -1,6 +1,6 @@
 ---
 title: Adrofalis
-revid: 123294
+revid: 128214
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs]
@@ -20,7 +20,11 @@ categories: [Capra NPCs, NPCs]
 
 ## Description
 
-Adrofalis is a member of the Old Stewards, and a teacher of [Ciea](Ciea.md) with their main goal of reproducing the Root Panacea; a dream for every researcher and alchemist alike. They are also the quest-giver for the [Saltchemist](Oath%253A_Saltchemist.md) Oath. They live and work in [Boatman's Watch](<Boatman's_Watch.md>).
+Adrofalis is a member of the Old Stewards, and a teacher of [Ciea](Ciea.md) with their main goal of reproducing the Root Panacea; a dream for every researcher and alchemist alike. They are also the quest-giver for the [Saltchemist](Oath%253A_Saltchemist.md) Oath.
+
+## Location
+
+Adrofalis can be found on the island of [Boatman's Watch](<Boatman's_Watch.md>), his secret laboratory is hidden inside a collapsed pillar behind a breakable wall
 
 ## Dialogue
 
@@ -112,7 +116,3 @@ End
 </tr>
 </tbody>
 </table>
-
-## Gallery
-
-Location of saltchemist in boatman's watch.
