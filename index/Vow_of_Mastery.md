@@ -1,12 +1,14 @@
 ---
 title: Vow of Mastery
-revid: 124281
+revid: 128597
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows]
 ---
 
 # Vow of Mastery
+
+_This page is about the Vow of Mastery Talent. If you were looking for the mechanic that allows you to make alliances with other players, see [Vow of Allegiance](Combat_Mechanics.md#alliances)._
 
 “ Come on, boys. Won't you shake a poor sinners hand? ”
 
