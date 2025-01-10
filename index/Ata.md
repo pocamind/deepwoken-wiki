@@ -1,6 +1,6 @@
 ---
 title: Ata
-revid: 128422
+revid: 128588
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, Eastern Luminant]
@@ -27,7 +27,7 @@ Although she says she knows you, this is likely an attempt to _scam_ you. Furthe
 
 ## Location
 
-Asta is located at [Meteor Isle](Meteor_Isle.md), she's on the street in the middle of the houses standing infront of a cart.
+Asta is located at [Meteor Isle](Meteor_Isle.md), she's on the street in the middle of the houses standing infront of a cart and some boxes.
 
 ## Dialogue
 

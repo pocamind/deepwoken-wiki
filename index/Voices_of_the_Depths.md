@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 127253
+revid: 128590
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths]
@@ -21,7 +21,7 @@ _"General or widespread hatred or disgust directed toward someone as a result of
 -   It hates the player's stench, calling it "nauseating" and wanting to dispose of them as fast as possible.
 -   Odium appears less malicious than Enmity. While it finds those it encounters sickening, it's perfectly fine with removing them from the premises rather than killing them.
 
-### Voice of Sequestration
+### Voice of Freakyness
 
 _"Isolate or hide away."_
 

@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 128377
+revid: 128589
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Monsters, Bosses]
@@ -147,3 +147,4 @@ File:Symphonyandtheypet.png
 
 -   Currently, it will sometimes not spawn with its tentacles visible; the spike it attacks you with will instead be floating
 -   If it spawns near songseeker wilds, it will almost always get stuck on the highway gate near Fort merit (allowing an easy kill).
+-   Probably inspired in Metroids by Metroid series.
