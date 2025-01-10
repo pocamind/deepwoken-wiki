@@ -1,6 +1,6 @@
 ---
 title: THE MACHINE
-revid: 125084
+revid: 128627
 source: https://deepwoken.fandom.com/wiki/THE_MACHINE
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Helmets, Developer Spec, Items]
@@ -17,6 +17,7 @@ notices:
 | selling price | 100 |
 | weight | 1 |
 | innate stats | +5 Health , +1 Uncommon Pip |
+| innate talent | + fistful of dollar |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

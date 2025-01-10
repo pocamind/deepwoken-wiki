@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 128018
+revid: 128602
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -38,3 +38,4 @@ The **Void Spire** is a reusable [Relic](Relics.md) similar in design to the [Ra
 -   You can't place Void Spire in [The Interstice](The_Interstice.md).
 -   When put in [Voidsea](Voidsea.md) it inverts the normal colors
 -   In it's original design, the Void Spire allowed you to chase players killed withing its radius into the depth, forcing them into a long combat tag and being highlighted for the pursuers to be found. This was cut before the addition of the Void Spire to the game however.
+-   Void Spire can be placed in [The Depths,](The_Depths.md) although it has no use

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 128131
+revid: 128603
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -37,7 +37,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
     -   Another method would be the Authority Patrol job located on a [Job Board](Job_Boards.md) in the Etris Guild Hall room. This method requires you to sail back and forth between the islands, so it's not recommended unless you have the [Ignition Delver](Origins.md#ignition-delver) Origin, as the job can be obtained from the [Union Pager](Ignition_Delver.md) as well.
     -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing) (Second dialogue is **NOT** required for the Duke Erisia questline)
-3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue". (This step is not required; it is safer to simply never talk to the Lord Regent until you have done everything listed below instead.)
+3.  Go to the [Lord Regent](The_Lord_Regent.md) and choose the special dialogue “Bite your tongue". (This step is not required; it is safer to simply never talk to the Lord Regent until you have done everything listed below instead.)
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the **Shrine of Order**, **Shrine of Solitude** and **Shrine of Mastery (stat allocation)** works, including those in the [Temple of Hearts](Temple_of_Hearts.md). (As of right now using the Shrine of Mastery to re-evaluate your stats doesn't work.)
 5.  Unlock your [Resonance](Resonance.md).
 6.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it "What happened to this place?" (NOTE THAT THIS REQUIRES THE 4 DEEP SHRINE DEALS FIRST)
@@ -49,7 +49,7 @@ Contractor is **not** reobtainable if you [Oathbreak](<Shrine_of_Yun'Shul,_Keepe
 
 ## Progression
 
-As tasked by The Lord Regent, to obtain the Talents and mantras, you must grip players with [Oaths](Oaths.md) in Layer 1, Scyphozia. **(Works on Friends and Guildmates)** This will send them to Layer 2 (note this will not happen to pathfinders). Pack tactics cannot be used: **you must be the sole contributor of damage** or they will not count.
+As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip players with [Oaths](Oaths.md) in Layer 1, Scyphozia. **(Works on Friends and Guildmates)** This will send them to Layer 2 (note this will not happen to pathfinders). Pack tactics cannot be used: **you must be the sole contributor of damage** or they will not count.
 
 -   1st Grip - Hidden Tendril and Lords Slice
 -   2nd Grip - Equalizer

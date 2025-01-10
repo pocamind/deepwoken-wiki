@@ -1,6 +1,6 @@
 ---
 title: Ministry Bloodrender
-revid: 127921
+revid: 128622
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

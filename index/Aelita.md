@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 128598
+revid: 128612
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Oath Trainer, World Event, Etrean Luminant]
@@ -80,7 +80,6 @@ She is the twin sister of [Tillian](Tillian.md).
 -   There is a glitch with this event that allows you to skip it and instantly spawns a chest allowing to beat this event even if you lack Mantras. Glitching Aelita will not make the event music stop.
 -   If killed by her during the Carnival of Hearts, she will use the “A Fearsome Enemy” tag.
 -   When she puts you in danger during the Carnival of Hearts, her tag is .aelita4693.
--   Her full name is Aelita Arlekino.
 
 ## References
 

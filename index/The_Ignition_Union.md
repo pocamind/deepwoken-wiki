@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 128170
+revid: 128617
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -55,7 +55,7 @@ Having Hunted reputation will cause you to be hunted by [Arcwarders](Ignition_Un
 
 > _The following dialogue is spoken by guard NPCs if the player interacts with them at a corresponding Reputation rank._
 
-Ally Reputation
+Ally-Hero Reputation
 
 -   "Alright, <name>? Good to see a familiar face."
 
