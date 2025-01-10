@@ -1,9 +1,9 @@
 ---
 title: Jeremiah
-revid: 97114
+revid: 128464
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Vendors, The Depths, Layer 1]
 ---
 
 # Jeremiah

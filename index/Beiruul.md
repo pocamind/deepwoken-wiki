@@ -1,9 +1,9 @@
 ---
 title: Beiruul
-revid: 127312
+revid: 128425
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae]
+categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, Eastern Luminant, Quests]
 ---
 
 # Beiruul

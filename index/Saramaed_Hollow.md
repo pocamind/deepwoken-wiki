@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 127960
+revid: 128386
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Eastern Luminant, Dungeons]
@@ -77,7 +77,7 @@ Loot is based on the type of mob you kill. Some of the loot confirmed to drop fr
   <th><b>Weapons</b></th>
   <th><b>Equipment</b></th>
   <th><b>Misc.</b></th>
-  <th><b>Schematics</b></th>
+  <th><b>Schematics <u><i>(NEEDS EDITING!)</i></u></b></th>
 </tr>
 <tr>
   <td>
@@ -169,9 +169,9 @@ Loot is based on the type of mob you kill. Some of the loot confirmed to drop fr
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
     <li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Only after 1.2km)</li>
     <li><a href="Mantra_Modifiers.md#regular">Mantra Modifiers</a></li>
-    <li>Most ores</li>
+    <li>Every ore but Umbrite and Iron</li>
   </ul></td>
-  <td>(needs editing)
+  <td>
   <ul>
     <li><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></li>
     <li><a href="Ignition_Trailblazer.md">Ignition Trailblazer</a></li>

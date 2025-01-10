@@ -1,14 +1,14 @@
 ---
 title: Evengarde Rest
-revid: 124307
+revid: 128448
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Etrea]
+categories: [NPCs, Quests, Etrea, Bosses, Etrean Luminant]
 ---
 
 # Evengarde Rest
 
-_This is his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md); for his Boss state, see [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)._ Template:NPC name
+Template:NPC name _This is his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md); for his Boss state, see [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)._
 
 ## Description
 

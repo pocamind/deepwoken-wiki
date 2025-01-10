@@ -1,9 +1,9 @@
 ---
 title: Trig
-revid: 107668
+revid: 128530
 source: https://deepwoken.fandom.com/wiki/Trig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Quests, Summer Company, Eastern Luminant]
 ---
 
 # Trig

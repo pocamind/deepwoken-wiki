@@ -1,9 +1,9 @@
 ---
 title: Acre
-revid: 128278
+revid: 128409
 source: https://deepwoken.fandom.com/wiki/Acre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs]
+categories: [Adret NPCs, NPCs, Starswept Valley, Eastern Luminant]
 ---
 
 # Acre

@@ -1,9 +1,9 @@
 ---
 title: Den Master
-revid: 128151
+revid: 128440
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Vendors]
+categories: [Pages with broken file links, NPCs, Vendors, Etrean Luminant]
 ---
 
 # Den Master

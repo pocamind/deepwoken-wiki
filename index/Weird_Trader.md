@@ -1,9 +1,9 @@
 ---
 title: Weird Trader
-revid: 123744
+revid: 128537
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Vendors, Eastern Luminant, Etrean Luminant]
 ---
 
 # Weird Trader

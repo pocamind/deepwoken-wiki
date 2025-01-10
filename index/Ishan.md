@@ -1,9 +1,9 @@
 ---
 title: Ishan
-revid: 124939
+revid: 128467
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Lore]
+categories: [Etrean NPCs, NPCs, Eastern Luminant, Summer Company]
 ---
 
 # Ishan

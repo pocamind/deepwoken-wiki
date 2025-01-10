@@ -1,9 +1,9 @@
 ---
 title: Petris
-revid: 123751
+revid: 128505
 source: https://deepwoken.fandom.com/wiki/Petris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs]
+categories: [Etrean NPCs, NPCs, The Depths, Layer 1]
 ---
 
 # Petris

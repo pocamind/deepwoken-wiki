@@ -1,9 +1,9 @@
 ---
 title: Rimil
-revid: 112389
+revid: 128516
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, The Ministry, Eastern Luminant, Quests]
 ---
 
 # Rimil

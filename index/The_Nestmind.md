@@ -1,9 +1,9 @@
 ---
 title: The Nestmind
-revid: 114930
+revid: 128497
 source: https://deepwoken.fandom.com/wiki/The_Nestmind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Oaths]
+categories: [Pages with broken file links, NPCs, Oaths, Oath Trainer, The Depths, Layer 1]
 ---
 
 # The Nestmind

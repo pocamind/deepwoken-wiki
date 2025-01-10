@@ -1,9 +1,9 @@
 ---
 title: Brutus
-revid: 122292
+revid: 128426
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Hundred Legions]
+categories: [NPCs, The Hundred Legions, Eastern Luminant]
 ---
 
 # Brutus

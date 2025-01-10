@@ -1,9 +1,9 @@
 ---
 title: Seraphina
-revid: 79252
+revid: 128519
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Etrean Luminant]
 ---
 
 # Seraphina

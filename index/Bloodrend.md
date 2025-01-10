@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 126677
+revid: 128432
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -38,7 +38,7 @@ Walk out the building, and run around the village for a while. The blood-renders
 
   
 
-After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 3 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her.) It will also be available from the [character creation](Character_Creation.md) screen. She can train your mantras in exchange for Notes.
+After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her.) It will also be available from the [character creation](Character_Creation.md) screen. She can train your mantras in exchange for Notes.
 
 ### Training
 

@@ -1,9 +1,9 @@
 ---
 title: Old Stranger
-revid: 126339
+revid: 128502
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Quests, Etrean Luminant, Eastern Luminant]
 ---
 
 # Old Stranger

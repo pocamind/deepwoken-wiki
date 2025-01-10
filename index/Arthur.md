@@ -1,9 +1,9 @@
 ---
 title: Arthur
-revid: 113710
+revid: 128421
 source: https://deepwoken.fandom.com/wiki/Arthur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests]
+categories: [NPCs, Quests, Etrean Luminant]
 ---
 
 # Arthur
@@ -11,11 +11,16 @@ categories: [NPCs, Quests]
 | Arthur | |
 |---|---|
 | name | Arthur |
-| location | The Garden Reservoir |
+| aspect | Etrean |
+| location | ErisiaBurning Stone Gardens |
 
-## Overview
+## Description
 
-Arthur is an NPC located at the [Towerstruck Lands](Towerstruck_Lands.md) who offers a Bravery quest to kill a [Megalodaunt](Megalodaunt.md), in order to avenge his fellow soldiers.
+Arthur is an NPC who offers a Bravery quest to kill a [Megalodaunt](Megalodaunt.md), in order to avenge his fellow soldiers.
+
+## Location
+
+Arthur is located at [Erisia](Erisia.md), he sits at the left of the entrance to [Burning Stone Gardens](Burning_Stone_Gardens.md).
 
 ## Dialogue
 

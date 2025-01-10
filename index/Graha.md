@@ -1,9 +1,9 @@
 ---
 title: Graha
-revid: 112972
+revid: 128456
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 1]
+categories: [NPCs, Layer 1, The Divers, The Depths]
 ---
 
 # Graha

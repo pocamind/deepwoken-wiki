@@ -1,9 +1,9 @@
 ---
 title: Whaler Initiate
-revid: 115843
+revid: 128581
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Starter Outfits]
+categories: [Outfits, Starter Outfits, The Knives of Eylis]
 ---
 
 # Whaler Initiate

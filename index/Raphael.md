@@ -1,9 +1,9 @@
 ---
 title: Raphael
-revid: 123282
+revid: 128508
 source: https://deepwoken.fandom.com/wiki/Raphael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 1]
+categories: [NPCs, Layer 1, The Depths]
 ---
 
 # Raphael

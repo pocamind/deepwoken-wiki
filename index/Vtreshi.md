@@ -1,9 +1,9 @@
 ---
 title: Vtreshi
-revid: 114493
+revid: 128534
 source: https://deepwoken.fandom.com/wiki/Vtreshi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, The Depths, Layer 2, Floor 1]
 ---
 
 # Vtreshi

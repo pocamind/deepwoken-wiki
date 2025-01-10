@@ -1,9 +1,9 @@
 ---
 title: Bari
-revid: 77758
+revid: 128424
 source: https://deepwoken.fandom.com/wiki/Bari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Etrean Luminant]
 ---
 
 # Bari

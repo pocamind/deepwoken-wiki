@@ -1,9 +1,9 @@
 ---
 title: Alirian
-revid: 128251
+revid: 128418
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Oaths, Oath Trainer]
+categories: [NPCs, Oaths, Oath Trainer, Etrean Luminant]
 ---
 
 # Alirian
@@ -26,7 +26,7 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 
 ## Location
 
-Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behind the bridge with [Ministry Scouts](Ministry_Scout.md), he is kneeling on a rock.
+Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behind the bridge with [Ministry Scouts](Ministry_Scout.md), she is kneeling on a rock.
 
 ## Dialogue
 

@@ -1,9 +1,9 @@
 ---
 title: Ata
-revid: 114494
+revid: 128422
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors]
+categories: [NPCs, Vendors, Eastern Luminant]
 ---
 
 # Ata
@@ -19,11 +19,15 @@ categories: [NPCs, Vendors]
 
 ## Description
 
-**Ata** is a Marten [Celtor](Celtor.md) NPC that sells [Sparks](Mantra_Modifiers.md) for 350 Notes each. She is located in front of the [Mystic](Mystic.md) on [Meteor Isle](Meteor_Isle.md).
+**Ata** is a Marten [Celtor](Celtor.md) NPC that sells [Sparks](Mantra_Modifiers.md) for 350 Notes each.
 
 She wears what appears to be a darkened version of the [Corsair Outlaw](Corsair_Outlaw.md) outfit.
 
 Although she says she knows you, this is likely an attempt to _scam_ you. Further evidenced by the fact that she weaponizes your empathy against you, eventually making you accept her high prices. Despite that, you'd still buy from her anyways, right? She's your friend after all.
+
+## Location
+
+Asta is located at [Meteor Isle](Meteor_Isle.md), she's on the street in the middle of the houses standing infront of a cart.
 
 ## Dialogue
 

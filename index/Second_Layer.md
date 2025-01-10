@@ -1,6 +1,6 @@
 ---
 title: Second Layer
-revid: 123120
+revid: 128337
 source: https://deepwoken.fandom.com/wiki/Second_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ The harsh winds seem to seep beneath your skin.
 
 ## Overview
 
-The Second Layer is a wind-based layer below the depths of [Scyphozia](First_Layer.md), housing the Drowned God [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), along with his [puppet](Scion_of_Ethiron.md). The Shrine is made by [Kyrsans](Kyrsgarde.md), with the City right below it, and thus directly on Ethiron's Resting Chamber.
+Part of [The Depths](The_Depths.md), The Second Layer is a wind-based layer below the depths of [Scyphozia](First_Layer.md), housing the Drowned God [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), along with his [puppet](Scion_of_Ethiron.md). The Shrine is made by [Kyrsans](Kyrsgarde.md), with the City right below it, and thus directly on Ethiron's Resting Chamber.
 
 ## Accessing
 

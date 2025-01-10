@@ -1,9 +1,9 @@
 ---
 title: "Friid, Master of Gale"
-revid: 119419
+revid: 128450
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Spelltrainers, Oaths, NPCs]
+categories: [Enemies, Spelltrainers, Oaths, NPCs, Etrean Luminant]
 ---
 
 # Friid, Master of Gale

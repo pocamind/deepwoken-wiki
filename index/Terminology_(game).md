@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 128175
+revid: 128406
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -490,10 +490,10 @@ _adjective_
 
 _adjective_
 
-1.  **B**lack-**M**arket**ing**, it is the action of trading in-game items for out-of game (Real life counts too).
+1.  **B**lack-**M**arket**ing**. It is the action of trading in-game items for out-of-game compensation (Real life counts too).
     1.  Ex. "Yo, gimme a curved (**CBOW** or **C**urved **B**lade **O**f **W**inds) and ama give you 1200 Robux."
 
-BMing or black-marketing is a very strictly prohibited thing, do not risk your account for something you can get yourself or earn for (In-game).
+BMing or black-marketing is a very strictly prohibited thing, do not risk your account for something you can get yourself or earn in-game.
 
 ### CBOW
 
@@ -589,7 +589,13 @@ _noun_
 
 _noun_
 
-1.  Tier 1, 2 or 3 of [Insanity](Insanity.md), each tier causing increasingly severe negative effects.
+1.  Short form for tiers 1, 2 or 3 of [Insanity](Insanity.md), each tier causing increasingly severe negative effects.
+
+### To1
+
+_noun_
+
+1.  Short form for [Trial of One](Trial_of_One.md).
 
 ## For Editors
 

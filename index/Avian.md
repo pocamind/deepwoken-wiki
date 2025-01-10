@@ -1,9 +1,9 @@
 ---
 title: Avian
-revid: 123997
+revid: 128423
 source: https://deepwoken.fandom.com/wiki/Avian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests]
+categories: [NPCs, Quests, Etrean Luminant]
 ---
 
 # Avian

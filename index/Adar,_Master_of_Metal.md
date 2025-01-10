@@ -1,9 +1,9 @@
 ---
 title: "Adar, Master of Metal"
-revid: 128208
+revid: 128410
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Spelltrainers, Oaths, NPCs, Ignition Union Enemies, The Ignition Union]
+categories: [Enemies, Spelltrainers, Oaths, NPCs, Ignition Union Enemies, The Ignition Union, Eastern Luminant]
 ---
 
 # Adar, Master of Metal

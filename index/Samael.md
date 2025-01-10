@@ -1,9 +1,9 @@
 ---
 title: Samael
-revid: 126694
+revid: 128517
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Oaths]
+categories: [NPCs, Oaths, Oath Trainer, Eastern Luminant]
 ---
 
 # Samael

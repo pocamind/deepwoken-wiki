@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 127966
+revid: 128355
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -37,15 +37,22 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
 | Name/Risk | Description | Media |
 | --- | --- | --- |
-| **Assault**  
-(★☆☆) | Firmly swings sword at opponent and finishes the combo by kicking them.
+| 
+**Trained Swings**  
+
+ | Firmly swings his katana at his opponent and finishes the combo with a flourish kick.
+
 Parryable:◯  
 Blockable:◯  
 Dodgeable:◯
 
  |  |
-| **Critical**  
-(★★☆) | Performs a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.
+| 
+
+**Critical**  
+★
+
+ | Performs a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.
 
 -   While parrying the initial hit should cancel the critical, there is a chance for a bug to occur and him to continue with the critical anyway.
 
@@ -54,8 +61,12 @@ Blockable:◯
 Dodgeable:◯
 
  |  |
-| **Mortal Draw: Maestro's Flourish**  
-(★★★) | Swings his blade in a spinning motion, performing two gale-infused slashes.
+| 
+
+**Mortal Draw: Maestro's Flourish**  
+★
+
+ | Swings his blade in a spinning motion, performing two gale-infused slashes.
 
 -   Extremely difficult to react to, having an extremely fast windup.
 
@@ -64,8 +75,12 @@ Blockable:◯
 Dodgeable:◯
 
  |  |
-| **Mortal Draw: Floating Passage**  
-(★★★) | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing.
+| 
+
+**Mortal Draw: Floating Passage**  
+★
+
+ | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing.
 
 -   After doing this attack, he will be vulnerable and won't parry/dodge any attacks, but only for a short period
 
@@ -74,8 +89,12 @@ Blockable:◯
 Dodgeable:◯
 
  |  |
-| **Mortal Draw: Dharma Descent**  
-(★☆☆) | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves.
+| 
+
+**Mortal Draw: Dharma Descent**  
+★
+
+ | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves.
 
 -   Stay defensive if he uses this, as he's likely to follow up with another attack
 
@@ -84,8 +103,11 @@ Blockable:◯
 Dodgeable:◯
 
  |  |
-| **Mortal Draw: One Mind**  
-(★☆☆) | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale.
+| 
+
+**Mortal Draw: One Mind**  
+
+ | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale.
 
 -   Whether or not you're using providence thorns, this will be a great time to deal some damage because he won't be block, parry, or dodging
 
@@ -94,8 +116,12 @@ Blockable:◯
 Dodgeable:◯
 
  |  |
-| **Mortal Draw: Mangetsu**  
-(★★★) | Sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind.
+| 
+
+**Mortal Draw: Mangetsu**  
+★
+
+ | Sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind.
 
 -   Same counterplay as one mind
 
@@ -104,8 +130,11 @@ Blockable:◯
 Dodgeable:◯
 
  |  |
-| **Mortal Draw: Etrea Cross**  
-(★☆☆) | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake.
+| 
+
+**Mortal Draw: Etrea Cross**  
+
+ | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake.
 
 -   Best choice is to dodge, even if you're using providence thorns
 
@@ -114,8 +143,12 @@ Blockable:◯
 Dodgeable:◯
 
  |  |
-| **Mortal Draw: Pressure**  
-(★★☆) | Uses a flash step to approach foes from a great distance and performs a circular slash.
+| 
+
+**Mortal Draw: Pressure**  
+★
+
+ | Uses a flash step to approach foes from a great distance and performs a circular slash.
 
 -   The behavior of the slash is very similar to the Ankle Cutter passive used by [Silentheart](Oath%253A_Silentheart.md).
 -   Will only use this move at range to prevent zoning.
@@ -126,8 +159,11 @@ Blockable:◯
 Dodgeable:◯
 
  |  |
-| **Vent**  
-(★☆☆) | An explosion of blue ether around the user that pushes opponents away.
+| 
+
+**Vent**  
+
+ | An explosion of blue ether around the user that pushes opponents away.
 
 -   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
 
@@ -136,8 +172,12 @@ Blockable:◯
 Dodgeable:◯
 
  |
-| **Tempest Eye**  
-(★★★★★) | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
+| 
+
+**Tempest Eye**  
+★
+
+ | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
 
 -   There is no way to survive this attack.
 -   Triggered by spitting on him **at any point**. Charisma can not bypass this.

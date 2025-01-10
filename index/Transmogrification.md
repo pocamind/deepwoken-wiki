@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 126964
+revid: 128437
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -61,7 +61,7 @@ Two equipment of the same type (e.g. Leather Boots and Enforcer Boots) are combi
 -   Head to [The Furnace](The_Furnace.md) found at [Summer Isle](Summer_Isle.md) and talk to [Jarvis](Jarvis.md).
 -   Alternatively, you can purchase your own personal Artisan by obtaining the Trophy Room in your [Guild Base](Guild_Bases.md).
 
-Stat Requirement is based on the equipment used for its stats, as you can see a freshie wearing a Fleet Warden Cape smelted onto a Tundra Scarf but can't wear the Vanguard Brace smelted onto a Beige Aristocrat Coat.
+Stat Requirement is based on the equipment smelted for its stats, as you can see a freshie wearing a Fleet Warden Cape smelted onto a Tundra Scarf but can't wear the Vanguard Brace smelted onto a Beige Aristocrat Coat.
 
 #### Other notes
 

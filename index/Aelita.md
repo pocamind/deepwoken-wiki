@@ -1,9 +1,9 @@
 ---
 title: Aelita
-revid: 128234
+revid: 128412
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, NPCs, Oath Trainer, World Event]
+categories: [Felinor NPCs, NPCs, Oath Trainer, World Event, Etrean Luminant]
 ---
 
 # Aelita

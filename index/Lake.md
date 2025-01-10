@@ -1,9 +1,9 @@
 ---
 title: Lake
-revid: 108070
+revid: 128476
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Lore]
+categories: [NPCs, Etrean Luminant]
 ---
 
 # Lake

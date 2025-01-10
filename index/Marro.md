@@ -1,9 +1,9 @@
 ---
 title: Marro
-revid: 112362
+revid: 128485
 source: https://deepwoken.fandom.com/wiki/Marro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Eastern Luminant]
 ---
 
 # Marro

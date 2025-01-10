@@ -1,9 +1,9 @@
 ---
 title: Alastir
-revid: 128229
+revid: 128413
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Quests, Etrean Luminant]
 ---
 
 # Alastir

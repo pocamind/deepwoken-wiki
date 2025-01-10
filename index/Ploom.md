@@ -1,9 +1,9 @@
 ---
 title: Ploom
-revid: 108555
+revid: 128506
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests]
+categories: [NPCs, Quests, Etrean Luminant]
 ---
 
 # Ploom

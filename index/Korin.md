@@ -1,9 +1,9 @@
 ---
 title: Korin
-revid: 109132
+revid: 128474
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [Pages with broken file links, NPCs, Etrea, Etrean Luminant, Quests]
 ---
 
 # Korin

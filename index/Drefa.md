@@ -1,9 +1,9 @@
 ---
 title: Drefa
-revid: 112301
+revid: 128443
 source: https://deepwoken.fandom.com/wiki/Drefa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Etrean Luminant]
+categories: [NPCs, Etrean Luminant, Quests]
 ---
 
 # Drefa

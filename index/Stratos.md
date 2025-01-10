@@ -1,9 +1,9 @@
 ---
 title: Stratos
-revid: 119310
+revid: 128524
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Quests]
+categories: [Pages with broken file links, NPCs, Quests, Etrea, Etrean Luminant]
 ---
 
 # Stratos

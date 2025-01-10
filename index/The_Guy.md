@@ -1,9 +1,9 @@
 ---
 title: The Guy
-revid: 126269
+revid: 128457
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Summer Company, Quests]
+categories: [NPCs, Summer Company, Quests, Eastern Luminant]
 ---
 
 # The Guy

@@ -1,9 +1,9 @@
 ---
 title: Argo
-revid: 122309
+revid: 128420
 source: https://deepwoken.fandom.com/wiki/Argo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Etrean NPCs, NPCs, Fishing, Etrean Luminant]
 ---
 
 # Argo
@@ -11,11 +11,16 @@ categories: [NPCs]
 | Argo | |
 |---|---|
 | name | Argo |
+| aspect | Etrean |
 | location | Etris Docks |
 
 ## Description
 
-Argo is an [Etrean](Etrean.md) located at the [Etris Docks](Etris_Docks.md). He wears a red [Traveler Cloak](<Traveller's_Jacket.md>) and teaches the player the basics of Fishing.
+Argo is an [Etrean](Etrean.md) and he wears a red [Traveler Cloak](<Traveller's_Jacket.md>), he teaches the player the basics of [Fishing](Fishing.md) and has a shop where you are able to buy everything you will need for [Fishing](Fishing.md), it also contains many fishes in display.
+
+## Location
+
+Argo is located in the [Etris Docks](Etris_Docks.md) in his small Fishing Shop.
 
 ## Dialogue
 

@@ -1,9 +1,9 @@
 ---
 title: Yamaketzal
-revid: 124682
+revid: 128538
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Chime of Conflict]
+categories: [NPCs, Chime of Conflict, Eastern Luminant]
 ---
 
 # Yamaketzal

@@ -1,9 +1,11 @@
 ---
 title: Regek
-revid: 119431
+revid: 128515
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Spelltrainers, NPCs, The Hive]
+categories: [Vesperian NPCs, In progress without reason, InProgressPages, Spelltrainers, NPCs, The Hive, Eastern Luminant, Quests]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Regek
@@ -11,6 +13,7 @@ categories: [Spelltrainers, NPCs, The Hive]
 | Regek | |
 |---|---|
 | name | Regek |
+| aspect | Vesperian |
 | location | Archives of the Greathive Aratel |
 
 ## Description

@@ -1,9 +1,9 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 124988
+revid: 128512
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Divers]
+categories: [NPCs, The Divers, Layer 1, Vendors]
 ---
 
 # Klaris Llfiend, Mother of Lights
@@ -338,7 +338,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="6">13. I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
 </tr>
 <tr>
-  <td colspan="6">Ah... You must mean Vigh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
+  <td colspan="6">Ah... You must mean Viqh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
   <td colspan="3">Requirements Met</td>
   <td colspan="3">Not Enough Knowledge</td>
 </tr>

@@ -1,9 +1,9 @@
 ---
 title: Corsair Outlaw
-revid: 116060
+revid: 128566
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Starter Outfits]
+categories: [Items, Outfits, Starter Outfits, Bandits]
 ---
 
 # Corsair Outlaw

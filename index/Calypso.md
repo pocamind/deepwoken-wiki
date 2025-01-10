@@ -1,9 +1,9 @@
 ---
 title: Calypso
-revid: 107057
+revid: 128430
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Ignition Union]
+categories: [NPCs, The Ignition Union, Eastern Luminant]
 ---
 
 # Calypso

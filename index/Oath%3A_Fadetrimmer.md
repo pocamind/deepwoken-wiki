@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 128324
+revid: 128343
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -61,7 +61,7 @@ This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
     -   _What's in these things?_
     -   Shows a popup menu that allows you to select either Flammable, Charming, or Revitalizing.
         -   Flammable ignites the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent).
-        -   Charming Charms the opponent for 7.5 seconds. Charm duration is doubled to 15 seconds if you have [Lasting Charisma](Talents.md#charm-caster).
+        -   Charming Charms the opponent for 15 seconds. The Charm is duration unaffected by [Lasting Charisma](Talents.md#charm-caster).
         -   Revitalizing heals a flat 10% HP of the target.
 
 -   **Hair Spray - Passive**

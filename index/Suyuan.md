@@ -1,9 +1,9 @@
 ---
 title: Suyuan
-revid: 107471
+revid: 128527
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Oaths]
+categories: [NPCs, Oaths, Quests, Etrean Luminant, Etrea]
 ---
 
 # Suyuan

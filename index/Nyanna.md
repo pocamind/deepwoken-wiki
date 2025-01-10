@@ -1,9 +1,9 @@
 ---
 title: Nyanna
-revid: 126216
+revid: 128500
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors]
+categories: [NPCs, Vendors, The Depths, Layer 1]
 ---
 
 # Nyanna

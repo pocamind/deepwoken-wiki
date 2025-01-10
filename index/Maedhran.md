@@ -1,9 +1,9 @@
 ---
 title: Maedhran
-revid: 62064
+revid: 128483
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors]
+categories: [NPCs, Vendors, Eastern Luminant]
 ---
 
 # Maedhran

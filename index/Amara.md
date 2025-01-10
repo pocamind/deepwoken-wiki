@@ -1,9 +1,9 @@
 ---
 title: Amara
-revid: 128280
+revid: 128416
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Lore, The Hundred Legions]
+categories: [NPCs, Lore, The Hundred Legions, Eastern Luminant]
 ---
 
 # Amara

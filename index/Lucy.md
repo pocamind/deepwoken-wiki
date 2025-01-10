@@ -1,9 +1,9 @@
 ---
 title: Lucy
-revid: 79262
+revid: 128481
 source: https://deepwoken.fandom.com/wiki/Lucy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, The Depths, Layer 1]
 ---
 
 # Lucy

@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 128123
+revid: 128353
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -32,7 +32,6 @@ It cannot be aggroed or damaged by cannons. Like other world event bosses, it do
 | --- | --- | --- |
 | 
 **Dive**  
-(☆☆☆)
 
  | The Doom dives in the water, taking a couple of seconds before submerging into the water.
 
@@ -42,7 +41,7 @@ It cannot be aggroed or damaged by cannons. Like other world event bosses, it do
 | 
 
 **Pressure Eruption**  
-(★★☆)
+★
 
  | The Doom summons multiple geysers underneath players that fling you into the air, able to knock players from their boat into the water, dealing great damage.
 
@@ -50,28 +49,26 @@ Parryable:✗
 Blockable:✗  
 Dodgeable:◯
 
-FYW parryable:◯
-
  |  |
 | 
 
 **Sudden Ambush**  
-(★★★)
+★
 
  | When far enough from the Doom Serpent[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity. Keep in mind that Mobs and NPCs may aggro the Doom Serpent in ambush range to cause this. Auto-grips.
+
+-   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
 
 Parryable:✗  
 Blockable:✗  
 Dodgeable:✗  
-FYW parryable:◯
 
  | 
 
  |
 | 
 
-**Barrel Roll**  
-(★☆☆)
+**Barrel Roll**
 
  | When getting attacked by weapons, the Doom spins horizontally, knocking back players and doing a low amount of damage
 
@@ -83,7 +80,7 @@ Dodgeable:?
 | 
 
 **Tidal Roar**  
-(★★☆)
+★
 
  | The Doom charges up, before unleashing a powerful roar that does insane damage, summoning multiple waves that do damage to boats and carry away swept enemies
 
@@ -91,15 +88,13 @@ Parryable:◯
 Blockable:✗  
 Dodgeable:✗
 
-FYW parryable:✗
-
  | 
 
  |
 | 
 
 **Whirlpool**  
-(★★★)
+★
 
  | The Doom starts swimming in a circle before creating a massive whirlpool that continuously does massive damage and trapping enemies inside.
 
@@ -107,21 +102,18 @@ Parryable:✗
 Blockable:◯  
 Dodgeable:✗
 
-FYW parryable:◯
-
  |  |
 | 
 
 **Luminant Beam**  
-(★★★★)
+★
 
  | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips. Appears to only do it if it is infront of etris docks and aims near the well near the dock.
 
-Parryable:✗
-
-Blockable:✗
-
-Dodgeable:✗
+**WILL KILL TIDEKEEPERS**  
+Parryable:✗  
+Blockable:✗  
+Dodgeable:✗  
 
  | 
 

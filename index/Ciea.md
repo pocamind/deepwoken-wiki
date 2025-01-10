@@ -1,9 +1,9 @@
 ---
 title: Ciea
-revid: 124997
+revid: 128434
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Alchemy, Starswept Valley, NPCs, Quests]
+categories: [Alchemy, Starswept Valley, NPCs, Quests, Eastern Luminant]
 ---
 
 # Ciea

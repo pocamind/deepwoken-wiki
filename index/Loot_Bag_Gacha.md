@@ -1,9 +1,9 @@
 ---
 title: Loot Bag Gacha
-revid: 112382
+revid: 128447
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [NPCs, Mechanics, Eastern Luminant, Etrean Luminant, Quests]
 ---
 
 # Loot Bag Gacha

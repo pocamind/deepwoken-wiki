@@ -1,9 +1,9 @@
 ---
 title: Jessamine
-revid: 107433
+revid: 128465
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests]
+categories: [NPCs, Quests, Eastern Luminant]
 ---
 
 # Jessamine

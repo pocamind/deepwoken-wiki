@@ -1,9 +1,9 @@
 ---
 title: Eres
-revid: 116256
+revid: 128445
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Etrea]
+categories: [Etrean NPCs, NPCs, Etrea, Eastern Luminant]
 ---
 
 # Eres
@@ -11,6 +11,7 @@ categories: [NPCs, Etrea]
 | Eres | |
 |---|---|
 | name | Eres |
+| aspect | Etrean |
 | location | Meteor Isle |
 
 “ We few cannot change the world to make it better for everyone. But if we can make it better for at least some... I feel like that's a cause worth living and dying for. Wouldn't you agree? ”
