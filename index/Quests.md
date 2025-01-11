@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 127237
+revid: 128680
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -248,11 +248,11 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Reward/s**: EXP, Curiosity
 
-**Lars:**
+**Legion Scout:**
 
-**Quest Location**: [Viper's Jaw](<The_Viper's_Jaw.md>) (Lower, Legion Camp)
+**Quest Location**: [The Viper's Jaw](<The_Viper's_Jaw.md>) (Lower, Legion Camp)
 
-**Guide**: Talk to Atra, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
+**Guide**: Talk to [Atra](Atra.md), who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or through an entrance in [The Viper's Jaw](<The_Viper's_Jaw.md>).
 
 **Reward/s**: EXP, Compassion
 

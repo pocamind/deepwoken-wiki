@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 127073
+revid: 128710
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -314,10 +314,9 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <p>Victims hit by Uppercuts are unable to block, and parry timing is seemingly tighter, which makes Uppercuts play a big role in combos. Comboing will keep you in the air, while feinting and parrying will drop both of you.</p>
   <p>Certain Talents- such as <i>Flaming Uppercut</i> and <i>Quick Link-</i> can also affect the potency of Uppercuts by adding properties to them the same way some Talents add properties to Flourishes.</p>
   <p><br>
-  </p>
-  <p>Uppercuts have their own unique windup speed, regardless of whatever weapon type you may be using- making Uppercuts especially useful for Heavy weapons with slow swing speeds, or due to difference reasons, Ex. for <a href="Gran_Sudaruska.md">Gran Sudaruska</a> users.</p>
+  Uppercuts have their own unique windup speed, regardless of whatever weapon type you may be using- making Uppercuts especially useful for Heavy weapons with slow swing speeds, or due to difference reasons, Ex. for <a href="Gran_Sudaruska.md">Gran Sudaruska</a> users.</p>
   <p>If you land an Uppercut against a dodge or block, then the reduced end-lag should allow you to strike your opponent with an M1 before they can retaliate.</p>
-  <p>Landing a flourish on an opponent suffering from the stun of your arial combo will automatically kick them to the floor, which will result in any wall-bang Talents occurring- such as <i>Bulldozer</i> and <i>Breathing Impact.</i></p>
+  <p>Landing a flourish on an opponent suffering from the stun of your aerial combo will automatically kick them to the floor, which will result in any wall-bang Talents occurring- such as <i>Bulldozer</i> and <i>Breathing Impact.</i></p>
   <p><i>Missing an Uppercut will completely immobilize you and leave you vulnerable- akin to failing to Vent, but you can typically parry an incoming attack if your opponent is on edge, or try an Uppercut yet again before full recovery.</i></p></td>
   <td></td>
 </tr>

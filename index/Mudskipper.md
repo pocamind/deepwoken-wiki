@@ -1,9 +1,9 @@
 ---
 title: Mudskipper
-revid: 124592
+revid: 128694
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Monsters, Enemies]
 ---
 
 # Mudskipper
@@ -15,7 +15,7 @@ _This might have not been the page you were looking for, if you were looking for
 ― Mudskippers during Mudwoken
 
   
-There are a few types and variants of **Mudskippers**. Where more can be found in the [Mudskipper (disambiguation)](<Mudskipper_(disambiguation).md>) page, this page covers four variants of Mudskippers.
+There are a few types and variants of **Mudskippers**. Where more can be found in the [Mudskipper (disambiguation)](<Mudskipper_(disambiguation).md>) page, this page covers two variants of Mudskippers.
 
 **Mudskipper:**
 
@@ -42,7 +42,7 @@ They are mostly in complete lack of intellect with a [few exceptions](Mudskipper
 | 
 Scratch
 
-(★☆☆) | Weakly smacks opponent over and over again until knocked.
+ | Weakly smacks opponent over and over again until knocked.
 
 Parryable: ◯  
 Blockable: ◯  
@@ -53,7 +53,7 @@ Dodgeable: ◯
 
 Air Force
 
-(★★☆) | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy.
+★ | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy.
 
 Parryable: X  
 Blockable: ◯  
@@ -127,60 +127,6 @@ Dodgeable: ◯
     -   You can use Bloatskipper's death explosion to your advantage, by instantly exeucting many knocked Mudskippers all at once.
 -   The explosion from one Bloatskipper can cause a chain reaction of explosions from nearby insta-gripped Bloatskippers.
     
-
-**Rotskipper:**
-
-Template:Creature Infobox V3
-
-## Description
-
-Mindless enemies that can be found in [The Hidden Village](The_Hidden_Village.md) and [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md). They are a variant of the Mudskipper. If parried, its limbs will fly off one by one, eventually followed by its head, killing it instantly.
-
-When down two arms, to its last life, the Rotskipper will headbutt you instead of scratching.
-
-## Moveset
-
-| Name | Description |
-| --- | --- |
-| 
-Scratch
-
-(★☆☆) | Weakly smacks opponent over and over again until knocked.
-
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯
-
- |
-| 
-
-Headbutt
-
-(★☆☆) | Having lost both its arms, it resorts to smacking the opponent with its head. Even weaker, slower _and_ easier to parry than Scratch.
-
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯
-
- |
-
-## Passives
-
--   Brittle - Rotskippers will die after 3 parries.
-
-## Finisher
-
-| Name | Description |
-| --- | --- |
-| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
-
-## Tips
-
--   Despite their increased health compared to the normal Mudskipper, they can be easily beaten without much worry.
--   As with normal Mudskippers, their second attack will come faster than the first one. Make sure to focus on parrying it intently, as Rotskippers will instantly die when you parry them 3 times.
-    -   If you beat a Rotskipper by parrying them, you won't get a healthpack and heal.
-    -   If you want to heal from them, make sure to kill them with conventional methods.
-        
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 128231
+revid: 128732
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -265,9 +265,10 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Generally dangerous to use without Immolation's self damage reduction.
     -   7 seconds cooldown if you clear the flames by using the tool again, no cooldown if Flame Within naturally ends.
-    -   Flame Within grants a mobility buff, NOT a speed boost.
+    -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
     -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
     -   The old Last Laugh Talent has been merged into Flame Within.
+    -   Will deal 3% damage upon use, 1.5% with Deepscorn Casque.
     -   Prerequisite: 25 Flamecharm
 
 ### Angler
@@ -1388,8 +1389,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I burn so that I may succeed."**_
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
-    -   1 second cooldown between activations.
-    -   This CAN spread to allies.
+    -   Has a 3s cd.
+    -   Can spread to allies.
+    -   Controlled Combustion will prevent this Talent from burning you and your allies.
     -   Prerequisite: 40 Flamecharm
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
@@ -1408,7 +1410,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"All must burn."**_
 
 -   Corpse Explosion \[Common Talent\] - Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage.
-    -   Burn grip unconscious targets in 4 seconds (same time as a manual grip) instead of 8.
+    -   Burn grip unconscious targets, even yourself, in 4 seconds (same time as a manual grip) instead of 8.
     -   The explosion does not work; you'll burn them to death without an explosion.
     -   Prerequisites: 60 Flamecharm and Agitating Spark
 
@@ -2600,7 +2602,11 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily.
     -   Does not proc the Talent "Dazing Finisher".
-    -   Only consumes flames produced via Agitating Spark, meaning it will not consume your Flame Within.
+    -   Lasts for ~11s, and has a 30s cd.
+    -   If this Talent is on cd, you will not consume flames, and proc burn on yourself normally.
+    -   Will not proc on knocked NPCs/players and monsters, but can gain stacks from them.
+    -   Using Flame Within will grant a stack. If your Flame Within were to burn someone on use, receive an additional stack, totalling 2 simultaneous stacks.
+    -   While under Flame Within with Immolation, gain a stack upon hitting a non-burning person, despite Agitating Spark stating that it will only proc if you hit someone whilst they're on fire (it does not go under cd in this case as well).
     -   Prerequisites: Agitating Spark, 60 Flamecharm
 
 -   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.

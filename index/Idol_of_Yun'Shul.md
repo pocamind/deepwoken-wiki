@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 127060
+revid: 128733
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -22,7 +22,7 @@ categories: [Relics]
 
 ## Description
 
-The **Idol of Yun'shul** is a ritual idol and [Relic](Relics.md) connected to the [Drowned God Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md).  
+The **Idol of Yun'shul** is a ritual idol and [Relic](Relics.md) connected to the Drowned God Yun’Shul, that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md).  
 _(one-time use, re-obtainable)_
 
 ## Trivia

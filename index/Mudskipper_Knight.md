@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Knight
-revid: 120641
+revid: 128679
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths, Eastern Luminant]
@@ -24,21 +24,31 @@ They can also be found crashing into [Meteor Isle](Meteor_Isle.md) with higher s
 
   
 
-  
-
 ## Moveset
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name | Description |
+| --- | --- |
 | 
 Assault
 
- | Firmly swings sword at opponent before flourishing by kicking them. | ◯ | ◯ | (★☆☆) |
+ | Firmly swings sword at opponent before flourishing by kicking them.  
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯  
+
+ |
 | 
 
 Critical
 
- | Winds up their weapons before striking, dealing high posture damage. | ◯ | ◯ | (★★☆) |
+ | Winds up their weapons before striking, dealing high posture damage.  
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯  
+
+ |
 
 ### Boons
 

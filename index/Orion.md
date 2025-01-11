@@ -1,9 +1,9 @@
 ---
 title: Orion
-revid: 128504
+revid: 128648
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCS, Quests, The Ignition Union, Eastern Luminant, Origins]
+categories: [Quests, The Ignition Union, Eastern Luminant, Origins, NPCs]
 ---
 
 # Orion

@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 128416
+revid: 128636
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore, The Hundred Legions, Eastern Luminant]
@@ -11,6 +11,7 @@ categories: [NPCs, Lore, The Hundred Legions, Eastern Luminant]
 | Amara | |
 |---|---|
 | name | Amara |
+| aspect | Khan |
 | location | The Viper's Jaw |
 
 ## Description

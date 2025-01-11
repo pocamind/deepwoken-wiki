@@ -1,9 +1,11 @@
 ---
 title: Festival of a Billion Souls
-revid: 119408
+revid: 128708
 source: https://deepwoken.fandom.com/wiki/Festival_of_a_Billion_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Events, Deepwoken]
+categories: [Event Only Content, Events, Deepwoken]
+notices:
+  - This page contains Event Exclusive Content This event will only likely be ran once.
 ---
 
 # Festival of a Billion Souls

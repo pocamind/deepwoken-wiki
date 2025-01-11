@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 128425
+revid: 128645
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, Eastern Luminant, Quests]
@@ -22,7 +22,7 @@ During the Navae's Retribution quest, she will fight alongside the player to def
 
 ## Quest Details
 
-Completing her sidequest will reward you with EXP, positive Children of Navae reputation, two [knowledge](Knowledge.md), and Bravery.
+Completing her sidequest will reward you with EXP, positive The Children Of Navae reputation, two [knowledge](Knowledge.md), and Bravery.
 
 1.  Head over to the side of Fort Merit nearest to Beiruul.
 2.  Climb up Fort Merit with the elevator or the air vents.

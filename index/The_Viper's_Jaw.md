@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 128281
+revid: 128731
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -19,7 +19,7 @@ LocationL Viper's Jaw LocationR
 
 The Viper's Jaw is the general name of the [Lower Erisia](Lower_Erisia.md) cave system.
 
-It is divided into three parts. One entrance is behind the bandit village, where two guaranteed [Megalodaunt](Megalodaunt.md) spawns are located; the other entrance is on the side of the bandit village. An opening leads to Upper Erisia's broken bridge. A library plays an important role in [intelligence unbound](Attributes_Unbound.md). A Legion camp is also settled here, which allows for the player to learn [Legion Kata](Legion_Kata.md) by giving a Legion Captain’s Recommendation to the NPC named [Amara](Amara.md).
+It is divided into three parts. One entrance is behind the bandit village, where two guaranteed [Megalodaunt](Megalodaunt.md) spawns are located; the second entrance is on the side of the bandit village. An opening leads to Upper Erisia's broken bridge. A library plays an important role in [intelligence unbound](Attributes_Unbound.md). A Legion camp is also settled here, which allows for the player to learn [Legion Kata](Legion_Kata.md) by giving a Legion Captain’s Recommendation to the NPC named [Amara](Amara.md); The third entrance is located behind the mudskipper cave to the right of the beach gate.
 
 Note that none of these areas are directly connected to each other.
 

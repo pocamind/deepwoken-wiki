@@ -1,6 +1,6 @@
 ---
 title: Necroskipper
-revid: 120651
+revid: 128678
 source: https://deepwoken.fandom.com/wiki/Necroskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters, Etrean Luminant]
@@ -12,42 +12,74 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-Mindless enemies that are summoned by a [Ministry Necromancer](Ministry_Necromancer.md). This variant is more towards the dangerous side of the Mudskippers as they can use Mantras. In addition, it also spawns in groups of 3 and wear two completely unknown armors, being color-coded fur cloaks and boots over a plated outfit.
+Beings formed out of the remnants of ether-proficient warriors, they are brought back once more in a **group of three** by [Ministry Necromancers](Ministry_Necromancer.md). However, they are only limited to the common elements of [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), they seem to have basic proficiencies in these elements, being able to conjure fireballs and ice blades respectively.
+
+Seemingly from the same magic of the Necromancy, they also wear colour-coded armor over a plated outfit.
 
 ## Moveset
 
 ### Redskipper
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name | Description |
+| --- | --- |
 | 
 Scratch
 
- | Weakly scratches opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+ | Weakly scratches opponent over and over again until knocked.  
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯  
+
+ |
 | 
 
 Flame Ballista
 
- | Conjures a Flaming Arrow before firing it at an opponent. | ◯ | ◯ | (★★☆) |
+ | Conjures a Flaming Arrow before firing it at an opponent.  
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯  
+
+ |
 
 ### Blueskipper
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name | Description |
+| --- | --- |
 | 
 Scratch
 
- | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+ | Weakly smacks opponent over and over again until knocked.  
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯  
+
+ |
 | 
 
 Ice Spikes
 
- | Conjure a spike of ice from the ground at cursor location. | ◯ | ◯ | (★★☆) |
+ | Conjure a spike of ice from the ground at cursor location.  
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯  
+
+ |
 | 
 
 Warden's Blades
 
- | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished. | ◯ | ◯ | (★★☆) |
+ | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished.  
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯  
+
+ |
 
 ## Finisher
 

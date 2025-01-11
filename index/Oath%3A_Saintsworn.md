@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 128031
+revid: 128725
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Unique Critical]
@@ -90,7 +90,7 @@ Each stance uses the critical of the matching hero blade.
 
 ### **Saintsblade**
 
-By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **30** Damage, **20%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**.
+By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **30** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**.
 
 ### **Hero's Assist**
 

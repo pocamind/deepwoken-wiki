@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 128629
+revid: 128720
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -25,7 +25,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](First_Layer.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) and unlock the [Deepbound](Origins.md) origin | Choosing the second option without 75 Charisma will result in unavoidable death |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives a chest to those who give him ragdolled villagers | Cannot be given [Forgotten Villagers](Forgotten_Villager.md), can be given Navaen Nomads, dialogue changes after being given a villager for the first time |
 | [Alirian](Alirian.md) | Unaligned | [Minityrsa](Minityrsa.md) | Grants the [Jetstriker Oath](Oath%253A_Jetstriker.md) |  |
-| [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), Viper's Jaw | Grants [Legion Kata](Fists.md) fist style |  |
+| [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Grants [Legion Kata](Fists.md) fist style |  |
 | [Amashi](Amashi,_Master_of_Flame.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Andrea](Andrea.md) | Unaligned | [The Depths](First_Layer.md), The Cathedral of Interstice | Reveals information about the Depths Trial | Dialogue changes after completing the trial once |
 | [Aristo](Aristo.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), Inn | Provides information to new players |  |
@@ -33,6 +33,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Arthur](Arthur.md) | [The Kingdom of Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md), entrance in the [Towerstruck Lands](Towerstruck_Lands.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the Talents Critical Attack and Engage upon quest completion, completes 'Bravery' quest |
 | [Aska](Aska.md) | Unaligned | [Firfire](Firfire.md) | Gives the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) if you defeat him in a fight | Obtaining it requires the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and at least 80 Flamecharm |
 | [Ata](Ata.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sell [Sparks](Mantra_Modifiers.md) | apparently you know her from somewhere... |
+| [Atra](Atra.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Gives you a quest to go find [Lars](Lars.md)'s whereabouts | None |
 | [Avian](Avian.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Gives quest to bring a Weapon Manual | Consumes one usage of the manual upon quest completion |
 | [Bari](Bari.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Gives tips to new players |  |
 | [Beiruul](Beiruul.md) | The Children Of Navae | [Meteor Isle](Meteor_Isle.md) | If the player gets the right answers she gives you a sidequest called Navae's Retribution. |  |
@@ -62,6 +63,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Frank F'alzone](<Frank_F'alzone.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | [Friid](Friid,_Master_of_Gale.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Funke](Funke,_Master_of_Thunder.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
+| [Gaius](Gaius.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | None | None |
 | [Gild](Gild.md) | [Lost Celtor](Lost_Celtor.md) | The Depths, Varicosa District | None |  |
 | [Graha](Graha.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), next to the stove | None |  |
 | [The Guy](The_Guy.md) | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will belittle you by saying "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
@@ -89,6 +91,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Lake](Lake.md) | Moonseye faith | [Upper Erisia](Upper_Erisia.md), bridge to the Temple of the Forgotten Flame | None |  |
 | [Lance's Brother](<Lance's_Brother.md>) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
 | [Lance Leshi](Lance.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor | LANCE LESHI |
+| [Lars](Lars.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Part of the 'Legion Scout' [quest](Quests.md) | Is dead |
 | [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
 | [Lucien](Lucien.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | Her sanity has already crumbled |  |

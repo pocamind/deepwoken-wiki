@@ -1,6 +1,6 @@
 ---
 title: Acre
-revid: 128409
+revid: 128686
 source: https://deepwoken.fandom.com/wiki/Acre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Starswept Valley, Eastern Luminant]
@@ -27,14 +27,13 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="2">...Don't take another step closer to me. I know your type. Bloodthirsty. Ruthless. I don't trust you for even a second. Go away.</td>
+  <td>...Don't take another step closer to me. I know your type. Bloodthirsty. Ruthless. I don't trust you for even a second. Go away.</td>
 </tr>
 <tr>
   <td>What are you talking about?</td>
-  <td>End</td>
 </tr>
 <tr>
   <td>Don't. Come. Closer.</td>
@@ -50,14 +49,13 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Back off away from me. Right now. You'll regret this.</td>
+  <td>Back off away from me. Right now. You'll regret this.</td>
 </tr>
 <tr>
   <td>And if I don't?</td>
-  <td>End</td>
 </tr>
 <tr>
   <td>GO AWAY!</td>
@@ -73,14 +71,13 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="2">You... Again? Didn't you learn your lesson? Stay away from me.</td>
+  <td>You... Again? Didn't you learn your lesson? Stay away from me.</td>
 </tr>
 <tr>
   <td>What are you talking about?</td>
-  <td>End</td>
 </tr>
 <tr>
   <td>You... You're the worst of the worst, you know that?</td>
