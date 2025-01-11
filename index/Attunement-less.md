@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 128173
+revid: 128753
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -87,7 +87,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td><figure><figcaption></figcaption></figure></td>
   <td>Table Flip<p>(☆☆☆)</p></td>
   <td><i>Toss the ground infront of you.</i></td>
-  <td>35 ether</td>
+  <td>35 Ether</td>
   <td>
   <ul>
     <li><b><u>Requirements:</u></b> 40 <i><b>Strength,</b></i> <i>Combat Mantra</i>
@@ -104,7 +104,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td><figure><figcaption></figcaption></figure></td>
   <td>Strong Leap<p>(☆☆☆)</p></td>
   <td><i>Kick off of the ground with your strength, sending you into the air.</i></td>
-  <td>70 ether</td>
+  <td>70 Ether</td>
   <td>
   <ul>
     <li><b><u>Requirements:</u></b> <i><b>50 Strength,</b></i> <i>Mobility Mantra</i>
@@ -247,7 +247,7 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
     -   This mantra has innate bleed, meaning that the base damage has an extra 30% true damage that doesn't get affected by damage modifiers.
     -   Its base damage per level is 12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 and has an agility scaling of 2.
     -   The Damage of the move scales with how much HP the user has left, dealing more damage with less HP.
-        -   revenge does NOT do any additional damage unless health is BELOW 50%
+        -   Revenge does NOT do any additional damage unless health is BELOW 50%
         -   45% = 1.2x
         -   40% = 1.43x
         -   35% = 1.65x

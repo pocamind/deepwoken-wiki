@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 121531
+revid: 128747
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -12,6 +12,7 @@ categories: [Items, Elemental Ingredients]
 |---|---|
 | value | 10 |
 | weight | 0 |
+| stack | x99 |
 | type | Elemental Ingredient |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 128100
+revid: 128755
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -154,7 +154,9 @@ Ether
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra fire a salvo from two cannons.
 
  |
-|  | Oxidizing Rush
+| 
+
+ | Oxidizing Rush
 
 (★★☆)
 
@@ -303,7 +305,6 @@ Ether
     -   Needs further testing.
 
  |
-|  |  |  |  |  |  |
 
 ### Support Mantras
 

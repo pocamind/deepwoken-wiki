@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 128732
+revid: 128744
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1021,6 +1021,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 80 Flamecharm, [Power](Power.md) 13, Dancing Steps
 
 -   _The Final Act_ \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
+    -   Does not have a cooldown.
+    -   Can proc with Mecha Gatling.
     -   Prerequisites: 60 Flamecharm, [Power](Power.md) 13
     -   Mutual Exclusive: Eruption Path: Lava Serpent
 

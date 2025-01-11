@@ -1,6 +1,6 @@
 ---
 title: Eres
-revid: 128445
+revid: 128761
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Etrea, Eastern Luminant]
@@ -298,7 +298,7 @@ It is possible to unlock unique dialogue with Eres if you have already spoken to
     -   The "ocean's call" may also simply refer to the power of the Drowned Gods and the Tides.
 -   Eres' opening dialogue in subsequent conversations says that he sitting "against a wall", although there are no walls near him; only benches.
 -   [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis), the game's sound and music producer, wrote the dialogue for Eres.[\[1\]](#cite-note-1)
--   Some players speculate that there may be a romance between Eres and Sekh based on their unique dialogue, but this has not been confirmed.
+-   Eres and Sekh are stated to both be gay, but appear to be stuck in the talking phase and thus, their relationship is not cannon. Yet.
 -   Eres' dialogue is one of the longest conversations you can have with an NPC in game.
 
 ## References

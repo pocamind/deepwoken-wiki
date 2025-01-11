@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 126537
+revid: 128752
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -46,7 +46,9 @@ The Attunement can be unlocked by using a [Sparkblood Potion](Attunement_Potions
 
 | Media | Name | Card Description | Ether Cost | Damage Type | Effect |
 | --- | --- | --- | --- | --- | --- |
-|  | 
+| 
+ | 
+
 Lightning Blade  
 (☆☆☆)
 
@@ -60,7 +62,9 @@ Lightning Blade
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform a **third** short-ranged teleporting slash.
 
  |
-|  | 
+| 
+
+ | 
 
 Jolt Grab  
 (☆☆☆)
@@ -76,7 +80,9 @@ Jolt Grab
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
 
  |
-|  | 
+| 
+
+ | 
 
 Lightning Beam  
 (☆☆☆)
@@ -89,7 +95,9 @@ Lightning Beam
     -   Appears after a second of casting.
 
  |
-|  | 
+| 
+
+ | 
 
 Electro Carve  
 (★☆☆)
@@ -106,7 +114,9 @@ Electro Carve
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) to deploy a sticky projectile to a target that activates the shock after a while.
 
  |
-|  | 
+| 
+
+ | 
 
 Fleeting Sparks  
 (★☆☆)
@@ -122,7 +132,9 @@ Fleeting Sparks
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) making the projectiles home towards the target and removing the beams of thunder.
 
  |
-|  | 
+| 
+
+ | 
 
 Lightning Impact  
 (★☆☆)
@@ -141,7 +153,9 @@ Lightning Impact
 -   Can be easily used to glitch through thin or less than moderate sized walls.
 
  |
-|  | 
+| 
+
+ | 
 
 Lightning Clones  
 (★☆☆)
@@ -158,7 +172,9 @@ Lightning Clones
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to summon an additional clone.
 
  |
-|  | 
+| 
+
+ | 
 
 Lightning Strike  
 (★☆☆)
@@ -177,7 +193,9 @@ Lightning Strike
 -   Can be modified with **Drift Shard/Rush Shard** to decrease the amount of endlag(?) (Someone please elaborate)
 
  |
-|  | 
+| 
+
+ | 
 
 Thunder Kick  
 (★☆☆)
@@ -192,7 +210,9 @@ Thunder Kick
     -   Doesn't work if the initial kick guardbroke the target (needs further testing)
 
  |
-|  | 
+| 
+
+ | 
 
 Storm Blades  
 (★★☆)
@@ -208,7 +228,9 @@ Storm Blades
     -   Good for isolating a target for a 1v1 situation.
 
  |
-|  | 
+| 
+
+ | 
 
 Grand Javelin  
 (★★☆)
@@ -223,7 +245,9 @@ Grand Javelin
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to throw 3 smaller projectiles that travel forward and adjacent respectively.
 
  |
-|  | 
+| 
+
+ | 
 
 Bolt Piercer  
 (★★☆)
@@ -238,7 +262,9 @@ Bolt Piercer
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
 
  |
-|  | 
+| 
+
+ | 
 
 Emotion Wave  
 (★★★)
@@ -251,7 +277,9 @@ Emotion Wave
 -   Can be modified with _Crystal/Perfect Lenses_ to increase the range of the lightning strikes.
 
  |
-|  | 
+| 
+
+ | 
 
 Rising Thunder  
 (★★★)
@@ -270,7 +298,9 @@ Rising Thunder
 
 | Media | Name | Card Description | Ether Cost | Damage Type | Effect |
 | --- | --- | --- | --- | --- | --- |
-|  | 
+| 
+ | 
+
 Lightning Stream  
 (★☆☆)
 
@@ -285,7 +315,9 @@ Lightning Stream
     -   Increases damage dealt.
 
  |
-|  | 
+| 
+
+ | 
 
 Thunder Wisp  
 (★★☆)
@@ -298,7 +330,9 @@ Thunder Wisp
 -   Can be modified with **Aeon/Eternal Logstones** to increase its uses.
 
  |
-|  | 
+| 
+
+ | 
 
 Spark Swap  
 (★★★)
@@ -320,7 +354,9 @@ Spark Swap
 
 | Media | Name | Card Description | Ether Cost | Damage Type | Effect |
 | --- | --- | --- | --- | --- | --- |
-|  | 
+| 
+ | 
+
 Lightning Assault  
 (★★☆)
 
@@ -333,7 +369,9 @@ Lightning Assault
 -   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
 
  |
-|  | 
+| 
+
+ | 
 
   
 Lightning Cloak  

@@ -1,14 +1,14 @@
 ---
 title: Gale Stone
-revid: 127166
+revid: 128735
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Attunement, Elemental Ingredients]
+categories: [Items, Elemental Ingredients]
 ---
 
 # Gale Stone
 
-| Gale stone | |
+| Gale Stone | |
 |---|---|
 | value | 2 |
 | weight | 0 |
@@ -33,4 +33,4 @@ Gale Stones can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.m
 ## Trivia
 
 -   As Gale Stones have a somewhat similar appearance to a sea shell, the fact that "a faint whisper of wind" can be heard inside them could be a reference to the way some sea shells allow one to hear the ocean.
--   These little buggers are _ELUSIVE_ when you need them
+-   Due to low drop-rates along with either requiring you to kill Guards or have to hope for events instead of having a consistent mob spawn unlike the other elemental ingredients, they are notably hard to get.

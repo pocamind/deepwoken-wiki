@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 127264
+revid: 128762
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -18,17 +18,17 @@ _This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see
 
 ## Description
 
-The Shrine of Yun’Shul is a unique interactable shrine found in Scyphozia. It can grant players that wield a [Resonance](Resonance.md) wishes.
+The Shrine of Yun’Shul is a unique interactable shrine found in [Scyphozia](First_Layer.md). It can grant players that wield a [Resonance](Resonance.md) wishes.
 
 The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him.
 
-It's possible to interact with the shrine at range using [Idol of Yun'Shul](Relics.md) Relic. This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it- to get the most mileage out of it, you should be unable to obtain a wish from the shrine itself by the time you use it.
+It's possible to interact with the shrine at range using [Idol of Yun'Shul](Relics.md) [Relic](Relics.md). This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it- to get the most mileage out of it, you should be unable to obtain a wish from the shrine itself by the time you use it.
 
 ## Wishes
 
 The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish requires some criteria:
 
--   You need to have a Resonance, normally needed to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance and you are not a Deepbound (such as glitching in or being carried in by another player) you will be instantly killed and wipe.**
+-   You need to have a Resonance, normally needed to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance and you are not a [Deepbound](Origins.md) (such as glitching in or being carried in by another player) you will be instantly killed and wipe.**
     -   Interacting with the shrine without a wish will not kill you assuming you meet these criteria.
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
     -   A wish can be obtained by levelling up 3 times, via the use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge.

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 127898
+revid: 128758
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -265,3 +265,4 @@ There are **14** images, be warned
 • Void Feathers do not work, for some odd reason.
 
 -   Primadon's chests has a low chance of containing Ysley's Pyre Keeper
+-   There is a word used by many of the community when you summon the Primadon, where what you actually fight is the entire server due to ping and gankers.

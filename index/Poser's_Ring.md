@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 120189
+revid: 128759
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings]
@@ -39,3 +39,4 @@ While using a Katana, the Poser's Ring makes it so that your Katana's attacks an
 -   It is possible to obtain and equip this ring at Power 1, if no stat points are distributed at the character creation menu, and are instead all invested into Medium Weapon
 -   Actually does a very little amount of dmg until sheathed rather than doing "0" dmg (around 10 or so if using shattered katana, a little less with normal katana)
 -   Shares the same model as [Diver's Ring](<Diver's_Ring.md>)
+-   While player damage from Poser's Ring sheath cannot exceed 70%, any and all monsters (humanoid or not) doesn't share that cap, meaning with enough m1's without sheating you are capable of depleting an entire boss health bar from 100% to 0%. Despite thinking that its the same damage but instant, this is extremely CHEESY due to **being able to instantly skip boss second phases and such.**
