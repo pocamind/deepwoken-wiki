@@ -1,6 +1,6 @@
 ---
 title: The Cold Forge
-revid: 127386
+revid: 129088
 source: https://deepwoken.fandom.com/wiki/The_Cold_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, The Divers]
@@ -25,6 +25,12 @@ A Laboratory used by [Coldheart Fortinbras](Coldheart_Fortinbras.md). This locat
 The Cold Forge is located inside the broken building that's used as a bridge by Light's Causeway and it is led up to by an obby and has ice blocking it's way.
 
 A lore book called "[Coldheart's Journal](Books.md)" when equipped, can be found in one of the corners on a table that may contain possible lore about the near future attunement; [Lifeweave](Lifeweave.md).
+
+## Craftable Weapons
+
+-   [Fondant Splitter](Fondant_Splitter.md)
+
+-   [Umbrite Witherblade](Umbrite_Witherblade.md)
 
 ## Trivia
 

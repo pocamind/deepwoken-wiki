@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 128762
+revid: 128895
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -50,9 +50,11 @@ If you meet all the criteria, you are able to make one of six wishes:
     -   Erase all your active [Vows](Vows.md), including [Vow of Mastery](Vow_of_Mastery.md), whether it be for the master or the servant, and Vow of Allegiance.
 4.  **"The powers I have been granted displease me, I wish for new gifts."**
     -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (or 5, if you have a corrupted resonance, the 5th card being the corrupted resonance and the 4th one being the uncorrupted variant) (the 4th card will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version.) Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md).
-5.  "**The Vows I made to keep an Oath no longer suit my ideals. I wish for a new path."**
+5.  **"For now I am one, but I wish to be three."**
+    -   If you meet the requirements, gives you the [Soulbreaker](Oath%253A_Soulbreaker.md) oath.
+6.  "**The Vows I made to keep an Oath no longer suit my ideals. I wish for a new path."**
     -   Removes your current [Oath](Oaths.md). Gives a disclaimer prior to breaking it, warning you that becoming an Oathbreaker has its own consequences. Upon breaking an Oath, you will receive a dialogue from your Oath-giver along with other potential consequences.
-6.  "**I wish for my Soul's Murmur to be highly strung no longer."**
+7.  "**I wish for my Soul's Murmur to be highly strung no longer."**
     -   Your current [Murmur](Murmur.md) will be removed without any further notice or opportunity for confirmation. This action can be done multiple times but will cost you your murmur and a wish. You can still regain the same Murmur afterwards(Murmur Rhythm is currently bugged and you CAN'T get it again after removing it).
     -   If you wipe after your Murmur is removed, you won't receive the Echoes for having it, and you'll have to get a Murmur again.
 

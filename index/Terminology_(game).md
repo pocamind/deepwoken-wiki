@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 128406
+revid: 128930
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -427,20 +427,6 @@ _noun_
 
 1.  A type of build that mainly focuses on empowering their Mantras and almost solely Mantras and sometimes a [Hero Blade](Hero_Blades.md).
 
-### Post-Shrine
-
-_adjective_
-
-1.  Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
-    1.  Ex. "Is 60 strength postshrine good?"
-
-### Pre-Shrine, Pre
-
-_adjective_
-
-1.  Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
-    1.  Ex. "I always run 80 willpower preshrine"
-
 ### Shrine
 
 _verb, noun_
@@ -450,6 +436,20 @@ _verb, noun_
 2.  Shorthand for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
 
 [Deep Shrines](Deep_Shrines.md) other than the Shrine of Order are always referred to with their full name.
+
+#### Post-Shrine
+
+_adjective, noun_
+
+1.  Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
+    1.  Ex. "Is 60 strength postshrine good?"
+
+#### Pre-Shrine, Pre
+
+_adjective, noun_
+
+1.  Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
+    1.  Ex. "I always run 80 willpower preshrine"
 
 ### Trackstar
 

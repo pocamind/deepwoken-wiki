@@ -1,9 +1,9 @@
 ---
 title: Vortex Echo
-revid: 128773
+revid: 129211
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Fists]
 ---
 
 # Vortex Echo
@@ -11,26 +11,41 @@ categories: [Weapons]
 | Vortex Echo | |
 |---|---|
 | type | Relic |
-| requirements | ? |
-| damage | ? |
-| scaling | ? |
-| range | ? |
-| swing speed | ? |
-| endlag | ? |
-| penetration | ? |
-| chip damage | ? |
-| special effect | ? |
-| selling price | ? |
-| weight | ? |
+| requirements | 65 LHT, 65 CHA + Trained Fists |
+| damage | 13.5 |
+| scaling | LHT: 8 CHA: 3.5 |
+| range | 6 |
+| swing speed | 1.12x |
+| special effect | Critical resets all cooldowns by 30 seconds |
+| selling price | N/A |
+| weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ? |
-| description | ? |
+| obtainment | Weathered Timepiece + Temporal Crux + Kyrsan Schematic in a Crafting Table |
+| description | A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow a just a bit older. |
+
+## Description
+
+The **Vortex Echo** is a [Relic](Relics.md) [Fists](Fists.md) weapon that requires 65 LHT and 65 CHA, being crafted with a [Weathered Timepiece](Weathered_Timepiece.md), [Temporal Crux](Temporal_Crux.md), and [Kyrsan Schematic](Kyrsan_Schematic.md) using a Crafting Table. The weapon matches your current [Fists](Fists.md) style and harnesses the power of space-time distortions from the [Second Layer](Second_Layer.md), allowing you to use your many abilities again.
+
+## Critical
+
+The Critical attack will reduce **most** active cooldowns by 30 seconds (mantras, talent cooldowns, resonance) while applying a substantial amount of wither onto the user. This attack has no hitboxes and deals no damage.
+
+| List of unaffected talents: |
+| --- |
+| Command: Live |
 
 ## Version History
 
 January 11th 2025
 
 -   Added to the game.
+
+## Trivia
+
+-   [Deepscorn Casque](Deepscorn_Casque.md) does not lower the wither gain upon crit usage.
+-   The critical decreases all cooldowns by 30 seconds instead of entirely resetting them.
+-   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on **Vortex Echo's** cooldown, lowering it down to 26 seconds in the overworld.

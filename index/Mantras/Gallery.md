@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 115029
+revid: 129177
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]
@@ -451,7 +451,7 @@ _Undying flame._
 
  |
 
-### 
+## 
 
 > Thundercall
 

@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 127714
+revid: 128934
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics]
@@ -92,6 +92,14 @@ Ironsing⠀⠀⠀⠀⠀⠀⠀⠀⠀
 Bloodrend
 
 Bloodrend⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+  
+
+## Expected Attunements
+
+[Text](Announcements.md)
+
+[Text](Announcements.md)
 
   
 

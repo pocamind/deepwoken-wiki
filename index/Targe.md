@@ -1,9 +1,9 @@
 ---
 title: Targe
-revid: 119329
+revid: 129164
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Shields]
+categories: [Weapons, Shields, Offhand]
 ---
 
 # Targe

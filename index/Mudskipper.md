@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 128694
+revid: 129207
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -15,11 +15,7 @@ _This might have not been the page you were looking for, if you were looking for
 ― Mudskippers during Mudwoken
 
   
-There are a few types and variants of **Mudskippers**. Where more can be found in the [Mudskipper (disambiguation)](<Mudskipper_(disambiguation).md>) page, this page covers two variants of Mudskippers.
-
-**Mudskipper:**
-
-Template:Creature Infobox V3
+There are a few types and variants of **Mudskippers**. Where more can be found in the [Mudskipper (disambiguation)](<Mudskipper_(disambiguation).md>) page, this page covers two variants of Mudskippers. Template:Creature Infobox V3
 
 ## Description
 
@@ -61,11 +57,9 @@ Dodgeable: ◯
 
  |
 
-## Finisher
+## Passives
 
-| Name | Description |
-| --- | --- |
-| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
+-   Bloating - Bloated Mudskippers will violently explode **after being gripped**, dealing **AoE Autogrip** damage around their body.
 
 ## Tips
 
@@ -79,54 +73,9 @@ Dodgeable: ◯
 -   If they are Enhanced Mudskippers, listen to when are about to cast [_Air Force_](Galebreathe.md), and dodge.
     -   If you get hit by _Air Force_, you will be flung backwards greatly, maybe even off a cliff. Make sure you pay attention to your surroundings so that you may not fall into worse situations.
     -   If there are more than one Enhanced Mudskippers, they will often spam this Mantra. Hold block when you feel that they are going to do this.
-        
 
-**Bloatskipper:**
-
-Template:Creature Infobox V3
-
-## Description
-
-These Bloatskippers are very similar to the Mudskippers. However, they possess a unique property wherein upon knocked, will explode swiftly, dealing minor damage and instantly executing nearby players and enemies that are knocked. On top of that, it is almost always seen spawning in groups during the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event.
-
-There are 2 ways to encounter this Mudskipper variant:
-
--   The first is during the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event, where it will spawn alongside Normal Mudskippers and Enhanced Mudskippers. This can happen in either [The Depths](First_Layer.md), or [Lower Erisia](Lower_Erisia.md).
--   And the second is being summoned, or thrown, by the [Mudskipper Broodlord](Mudskipper_Broodlord.md). If summoned, it will act as normal. If thrown, it will explode upon impact, and die instantly.
-
-## Moveset
-
-| Name | Description |
-| --- | --- |
-| 
-Scratch
-
-(★☆☆) | Weakly smacks opponent over and over again until knocked.
-
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯
-
- |
-
-## Passives
-
--   Decomposition - Bloated Mudskippers will explode shortly after death, autogripping any downed bodies nearby and dealing minor damage and stun.
-
-## Finisher
-
-| Name | Description |
-| --- | --- |
-| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
-
-## Tips
-
--   Make sure to step away from their bodies after you knock them, as it will explode right after.
+-   Bloated Mudskippers will explode after being gripped, so take care to move away if anyone is low.
     -   This will also instantly execute any knocked enemies nearby, including you or your allies.
--   During the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event, they will be accompanied with other Mudskipper variants. Be careful when it happens.
-    -   You can use Bloatskipper's death explosion to your advantage, by instantly exeucting many knocked Mudskippers all at once.
--   The explosion from one Bloatskipper can cause a chain reaction of explosions from nearby insta-gripped Bloatskippers.
-    
 
 ## Trivia
 

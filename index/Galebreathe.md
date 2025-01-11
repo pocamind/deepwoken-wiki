@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 127553
+revid: 128937
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -47,7 +47,9 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
 | Media | Name | Card Description | Ether Cost | Damage Type | Effect |
 | --- | --- | --- | --- | --- | --- |
-|  | 
+| 
+ | 
+
 Wind Blade  
 (☆☆☆)
 
@@ -62,7 +64,9 @@ _Slicing blades of wind._
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 
  |
-|  | 
+| 
+
+ | 
 
 Air Force  
 (☆☆☆)
@@ -102,7 +106,9 @@ _Slicing blades of wind._
 -   Initial hit doesn't apply hit stun but pushes people away.
 
  |
-|  | 
+| 
+
+ | 
 
 Gale Lunge  
 (★☆☆)
@@ -139,7 +145,9 @@ _A rushing current of wind._
 -   Pulls people in if close to it (kinda buggy)
 
  |
-|  | 
+| 
+
+ | 
 
 Heavenly Wind  
 (★☆☆)
@@ -160,7 +168,9 @@ _A strike from the heavens._
 -   Can be used in combination with cap artist to ragdoll and fling yourself insanely far.
 
  |
-|  | 
+| 
+
+ | 
 
 Galetrap  
 (★☆☆)
@@ -177,7 +187,9 @@ _Toss a wind landmine._
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 
  |
-|  | 
+| 
+
+ | 
 
 Gale Punch  
 (★☆☆)
@@ -248,7 +260,9 @@ _A lifting torrent of wind._
 -   Deals 21 posture damage.
 
  |
-|  | 
+| 
+
+ | 
 
 Champion's Whirlthrow  
 (★★☆)
@@ -268,7 +282,9 @@ _Grab your target and toss them with the power of gale._
 -   The "**Skull Crusher**" Talent is now innate with this mantra.
 
  |
-|  | 
+| 
+
+ | 
 
 Rising Wind  
 (★★☆)
@@ -290,7 +306,9 @@ _Use wind to uppercut and propel yourself into the air. Press F after hitting an
 -   Can proc _Meteor Impact_
 
  |
-|  | 
+| 
+
+ | 
 
 Wind Gun  
 (★★☆)
@@ -308,7 +326,9 @@ _A powerful wind blast._
 -   Both Sparks can be combined, making three consecutive short-range bullet rounds. Additionally you can apply two of one spark.
 
  |
-|  | 
+| 
+
+ | 
 
 Wind Carve  
 (★★☆)
@@ -327,7 +347,9 @@ _A quick swirl of sharp winds._
     -   So it's advised to avoid it being parried by turning away since it'll result in free hits for your opponent.
 
  |
-|  | 
+| 
+
+ | 
 
 Astral Wind  
 (★★★)
@@ -343,7 +365,9 @@ _A rapid delivery of consecutive attacks._
 -   Last hit of the mantra sends the opponent upwards, sometimes even when parried. (Only at Mantra Lv: 2+)
 
  |
-|  | 
+| 
+
+ | 
 
 Pillars of Erisia  
 (★★★)
@@ -375,7 +399,7 @@ _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from y
   <th>Effect</th>
 </tr>
 <tr>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td><center>Wind Passage<br>
   (★★★)</center></td>
   <td><center><i>A rush of wind</i></center></td>
@@ -400,7 +424,9 @@ _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from y
 
 | Image | Spell | Card Description | Ether Cost | Damage Type | Effect |
 | --- | --- | --- | --- | --- | --- |
-|  | 
+| 
+ | 
+
 Gale Wisp  
 (★★☆)
 

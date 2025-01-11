@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 128793
+revid: 129189
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1022,6 +1022,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _The Final Act_ \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
     -   Does not have a cooldown.
+    -   Will not proc on knocked NPCs/players and mobs.
     -   Can proc with Mecha Gatling.
     -   Prerequisites: 60 Flamecharm, [Power](Power.md) 13
     -   Mutual Exclusive: Eruption Path: Lava Serpent
@@ -1391,7 +1392,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I burn so that I may succeed."**_
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
-    -   Has a 3s cd.
+    -   Has a 1s cd. Under unknown circumstances, it will have a 3s cd.
     -   Can spread to allies.
     -   Controlled Combustion will prevent this Talent from burning you and your allies.
     -   Prerequisite: 40 Flamecharm
@@ -2252,7 +2253,7 @@ _**"My cure is most effective."**_
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
-    -   Extra 20% armor drain on flourish/crit, as example: 5 rods will drain 12.5% armor instead of 10% (If you would manually pull them out)
+    -   Extra 5% armor drain on flourish/crit as example 2% from pulled out rod + reshape bonus 5%
     -   5% DMG bonus currently bugged. (Bugged since summer 2023)
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
@@ -2595,6 +2596,7 @@ These Talents are designed to let you survive longer against starvation and thir
 > _**"My unholy blade works for no man."**_
 
 -   Explosive Finish \[Common Talent, Flamecharm Exclusive\] - If an enemy is on fire when you flourish, blast them away with a fire blast.
+    -   Upon proccing Emperor Flame, this Talent will be put on a 3s cd.
     -   Prerequisite: 45 Flamecharm
 
 -   Flaming Flourish \[Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish or uppercut them.
@@ -2608,7 +2610,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Does not proc the Talent "Dazing Finisher".
     -   Lasts for ~11s, and has a 30s cd.
     -   If this Talent is on cd, you will not consume flames, and proc burn on yourself normally.
-    -   Will not proc on knocked NPCs/players and monsters, but can gain stacks from them.
+    -   Will not proc on knocked NPCs/players, but can gain stacks from them.
     -   Using Flame Within will grant a stack. If your Flame Within were to burn someone on use, receive an additional stack, totalling 2 simultaneous stacks.
     -   While under Flame Within with Immolation, gain a stack upon hitting a non-burning person, despite Agitating Spark stating that it will only proc if you hit someone whilst they're on fire (it does not go under cd in this case as well).
     -   Prerequisites: Agitating Spark, 60 Flamecharm
@@ -3057,8 +3059,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: 20 Flamecharm, 20 Galebreathe, 20 Shadowcast, 20 Frostdraw, 20 Thundercall, resonate with the Flamecharm pillar at [Saramaed Summit](Saramaed_Summit.md) and talk to Jace, resonate with the Galebreathe pillar at [The Garden Reservoir](The_Garden_Reservoir.md) and talk to Trinity Galenwarde, resonate with the Shadowcast pillar at [Moon's Eyrie](<Moon's_Eyrie.md>) and talk to Urek Felhand, resonate with the Frostdraw pillar atop the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and talk to Faust, and resonate with the Thundercall pillar at [Boatman's Watch](<Boatman's_Watch.md>) and talk to Tessa, in any order.
 
--   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - TBD
-    -   Prerequisites:
+-   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slot, +1 mobility Mantra Slot.)
+    -   Prerequisites: Any murmur, Ally or higher reputation with Etrea, talk to the old man near statue and book keeper at etris then go to Yun'shul and use your wish, ask for "For now I am one, but I wish to be three.".
+    -   To progress oath just interact with any deep shrine.
 
 ### Miscellaneous
 

@@ -1,9 +1,9 @@
 ---
 title: Kyrstear
-revid: 123424
+revid: 129173
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Verse 2, Parrying Daggers]
+categories: [Weapons, Verse 2, Parrying Daggers, Offhand]
 ---
 
 # Kyrstear

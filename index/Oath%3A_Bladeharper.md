@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 127999
+revid: 128956
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Bladeharper** is one of the 15 obtainable Oaths in _Deepwoken_. It's known for the user's ability to gain extreme proficiency with it's slash-based attacks, and the ability to massively buff it's offensive means by landing consecutive hits or sacrificing health.
+**[Oath](Oaths.md): Bladeharper** is one of the 16 obtainable Oaths in _Deepwoken_. It's known for the user's ability to gain extreme proficiency with it's slash-based attacks, and the ability to massively buff it's offensive means by landing consecutive hits or sacrificing health.
 
 “ Within your mind, many futures present themselves before you. Only your own must stand supreme. ”
 

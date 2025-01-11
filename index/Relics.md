@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 125587
+revid: 129192
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -281,7 +281,7 @@ This has a 6 second cooldown and charges cannot be stacked.
 
 ### Weapon Relics
 
-Weapons that provides player with unique abilities in combat.
+Functionally identical to Legendary Weapons, in soulbounding and Enchant bans, these weapons are instead **Crafted** or are Crafting Materials.
 
 | Media | Description | Obtainment |
 | --- | --- | --- |
@@ -294,6 +294,31 @@ Weapons that provides player with unique abilities in combat.
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [The Understrand](The_Understrand.md)
+
+ |
+| 
+
+ | **[Fondant Splitter](Fondant_Splitter.md)** - "Is this safe to eat? We'll see..." | 
+
+-   Crafting in [The Cold Forge](The_Cold_Forge.md) with a [Dormant Splinter](Dormant_Splinter.md), [Cake](Food.md), and a [Sword](<Sword_(weapon).md>)/[Messer](Messer.md)/[Scimitar](Scimitar.md)/[Katana](Katana.md)
+
+ |
+| 
+
+File:Witherblade.png
+
+ | **[Umbrite Witherblade](Umbrite_Witherblade.md)** - "Once a derelict frame, now restored by your offerings, pulsing quicker and quicker... Its fibers twist and crack, reaching out to consume the cutlass, its shape warping into a rough mirage of the weapon. Infused with minerals it once knew, channeling the warped umbrite through its slick inky veins. Each strike drains the very soul of your foes, leaving them withered and undone." | 
+
+-   Crafting in [The Cold Forge](The_Cold_Forge.md) with a [Dormant Splinter](Dormant_Splinter.md), 3 [Umbral Obsidian](Umbral_Obsidian.md), and a [Razor Cutlass](Razor_Cutlass.md).
+
+ |
+| 
+
+File:Vortexechoupclose.png
+
+ | **[Vortex Echo](Vortex_Echo.md)** - "A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow a just a bit older." | 
+
+-   Crafting with a [Weathered Timepiece](Weathered_Timepiece.md), [Kyrsan Schematic](Kyrsan_Schematic.md), and [Temporal Crux](Temporal_Crux.md)
 
  |
 

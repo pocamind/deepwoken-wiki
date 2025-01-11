@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Ardour"
-revid: 128855
+revid: 129042
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Ardour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -22,7 +22,7 @@ You can obtain this murmur with any power, even as Power 1.
 
 ### Ardour Scream
 
-_"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hod H and release.)"_
+_"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release.)"_
 
 **Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 1.5x posture damage and 25% more damage and are forced out of Tacet. This ability does not scale on Power, always costing ether.
 

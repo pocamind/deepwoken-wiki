@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 127834
+revid: 129198
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -453,6 +453,8 @@ _A servant of flames._
 -   Requires ritual casting.
     -   Aeon and Eternal Logstones increase the duration of the mantra and how many signs are required to cast it.
 -   Flame Wisp also seems to reduce parasite growth.
+-   With Wraith Path: Twisted Puppets, you will heal from burns by Shadow Mantras and Burning Puppets, but not by Flame Mantras.
+    -   The amount of healing will not be severely reduced (results were +1% (~5) hp per 5-6 burn ticks).
 -   Considered a Wisp mantra, taking up either a Wisp, Support, or Wildcard slot.
 
  |

@@ -1,9 +1,9 @@
 ---
 title: Old World Greatshield
-revid: 118196
+revid: 129166
 source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Shields]
+categories: [Weapons, Shields, Offhand]
 ---
 
 # Old World Greatshield

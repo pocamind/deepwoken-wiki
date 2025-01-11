@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 128073
+revid: 128969
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -23,7 +23,7 @@ _For the version that existed prior to the 13th September, 2024, see [here](Oath
 
 ## Description
 
-**[Oath](Oaths.md): Visionshaper** is one of the 15 obtainable Oaths in _Deepwoken_. It allows one to utilize the power of illusions with a pact made with [The Nestmind](The_Nestmind.md) to quickly and effectively overwhelm their enemies in various ways. It is the opposing Oath to [Blindseer](Oath%253A_Blindseer.md).
+**[Oath](Oaths.md): Visionshaper** is one of the 16 obtainable Oaths in _Deepwoken_. It allows one to utilize the power of illusions with a pact made with [The Nestmind](The_Nestmind.md) to quickly and effectively overwhelm their enemies in various ways. It is the opposing Oath to [Blindseer](Oath%253A_Blindseer.md).
 
 “ Things aren't always what they seem, little mouse... In time, you may pretend to be one of us, use abilities inherent to my kind... And you may do with these as you please, but are you prepared to pay the toll? ”
 

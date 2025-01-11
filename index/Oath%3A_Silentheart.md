@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 128171
+revid: 128989
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -21,7 +21,7 @@ _For the version that existed prior to the 13th September, 2024, see [here](Oath
 
 ## Description
 
-**[Oath](Oaths.md): Silentheart** is one of the 15 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for the ability to change weapons during battle and a unique set of attacks integrated into your moveset.
+**[Oath](Oaths.md): Silentheart** is one of the 16 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for the ability to change weapons during battle and a unique set of attacks integrated into your moveset.
 
 “ You feel as though a part of yourself has drifted away, into the vast nothingness of the Song. As sudden as this sensation arrived, a new piece of you took place. This heart beats differently, it drums to the beat of the world, not the Song, ever silent. ”
 
@@ -85,8 +85,6 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
     -   Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
         -   Stacks up to ? times and each stacks grant ?% mantra resistance.
-
-  
 
 -   **Flow State - Active**
     -   Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.

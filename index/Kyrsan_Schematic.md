@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Schematic
-revid: 128803
+revid: 129086
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Schematic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Uses, Items, Ingredients, Drops]
@@ -20,11 +20,11 @@ categories: [Uses, Items, Ingredients, Drops]
 
 ## Description
 
-**Weathered Timepiece** is a ??? drop from [Kysgardes](Kyrsgarde.md), it is a direct drop.
+The **Kyrsan Schematic** is a direct drop from [Kyrsgardes](Kyrsgarde.md).
 
 ## Uses
 
--   ???
+-   Used to craft the [Vortex Echo](Vortex_Echo.md) relic fist weapon.
 
 ## Trivia
 

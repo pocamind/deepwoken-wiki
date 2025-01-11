@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 124068
+revid: 129058
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,7 +32,7 @@ When used, multiple white spheres appear around the user. These spheres will fir
 
 Pressing C will activate the **Smite** Resonance.
 
-If Smite is corrupted, the orbs will instead appear red and black and makes the orbs have auto aim (possibly more).
+If Smite is corrupted, the orbs will instead appear red and black (possibly more).
 
 ### _Smite_
 
@@ -45,6 +45,16 @@ When obtained, Smite will spend its points on the following stats:
 -   **Speed: The amount of speed increases**
 
 -   **Damage:** The amount of Damage Each orb does increases
+
+## Variants
+
+There are 2 Variants of Smite
+
+-   When Pressing c 7 orbs will appear over your head
+-   When Pressing c 4 orbs will appear over your head
+-   mabye more
+
+it is not confirmed if the 4 orbs does more or less damage
 
 ## Trivia
 

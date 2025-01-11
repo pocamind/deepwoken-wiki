@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 128789
+revid: 129178
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -32,7 +32,7 @@ All weapons within the game have chances of being found with (or without) differ
 #### Light Weapons
 
 -   15 Daggers (17 if Alloyed)
--   9 Fists (10 if Alloyed)
+-   9 Cestus (10 if Alloyed)
 -   6 Guns (7 if Alloyed)
 -   7 Rapiers
 
@@ -46,13 +46,13 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Heavy Weapons
 
--   14 Great Axes (17 if Alloyed)
--   14 Great Swords (18 if Alloyed)
+-   14 [Great Axes](Greataxes.md) (17 if Alloyed)
+-   14 [Great Swords](Greatswords.md) (18 if Alloyed)
 -   12 Great Hammers (14 if Alloyed)
 
 #### Others
 
--   1 Hybrid
+-   3 Hybrid
 -   19 Elemental
 -   7 Exclusive
 -   6 Divine [Crazy Slots](Crazy_Slots.md)
@@ -100,9 +100,9 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Bleed:** 30% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 130% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with bleed weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound.)
+    -   **Relic:** Functionally identical to Legendary Weapons, instead of being dropped by a mob or quest, are instead crafted. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
 -   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some / given to by special people.
--   **Relic:** Weapons that are grouped as relics, they follow the same rules as other [Relics](Relics.md) like [Smith's Alloy](<Smith's_Alloy.md>).
 
 ## Types of Weapons
 
