@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 125569
+revid: 128845
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -8,7 +8,9 @@ categories: [Monsters, Floor 2, Layer 2]
 
 # Kyrsgarde
 
-“ It began with a sound. Ah in the ways of the Song... A Tone. And then the Gale came. Gods above, it deafened us all. And when our hearing returned... They're puppets now, just like him. Eternally bound to guard his shrine... and to allow his arrival. ”
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Kyrsgarde_(disambiguation).md>)._
+
+“ I wish you good luck frinwalter.. Should you succeed in whatever it is that you're doing down here, for the sake of my people, set them free.. ”
 
 ― Naerotiv on his fellows
 
@@ -22,48 +24,23 @@ Also known as Kyrsans, the Kyrsgarde is an intelligent form of species unlike th
 
 ## Description
 
-The most versatile and common version of the Kyrsgarde found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md). they can easily contend for the top spot in terms of danger as well. They are master wielders of [Frostdraw](Frostdraw.md), using it for both devestating melee and ranged attacks. They can be distinguished by their Burgundy membranes.
+A strange species of people who live within [The Eternal Gale](Second_Layer.md), with those resting in the [Outskirts](Second_Layer/The_Ethironal_Shrine.md) being peaceful and allowing Frinwalters in, while the ones laying in the depths of [the City](Second_Layer/New_Kyrsa.md) prove hostile towards the player.
 
-## Attacks
+## Kyrsans
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| 
-Assault
+Friendly Kyrsans are found in The Ethironal Shrine, with only two in The City being friendly.
 
- | The Kyrsgarde conjures a spear of ice before performing a slash, lance and throw at it's opponent. A 3-hit combo in total.
+-   [Makolis Pariah Katatonicus](Makolis_Pariah_Katatonicus.md)
+-   [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md)
+-   [Naerotiv](Naerotiv.md)
+-   [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md)
 
--   Recommended to roll back for the first 2-hits and parry the throw.
+The Enemy ones are found within the city itself.
 
- | ◯ | ✗ | ◯ | (★★☆) |
-| 
-
-Glacial Javelin
-
- | The Kyrsgarde conjures a spear of ice before throwing at it's opponent.
-
--   Easiest move to parry if fighting one on one.
-
- | ◯ | ◯ | ◯ | (★★☆) |
-| 
-
-Skyward Spear
-
- | The Kyrsgarde conjures a spear of ice before performing a backflip high in the air and throwing said spear at it's opponent.
-
--   Parry it when the arm of the Kyrsgarde reachest the highest point.
-
- | ◯ | ✗ | ◯ | (★★☆) |
-
-## Finisher
-
-A Kyrsgarde Lancer executes it's opponent:
-
-| Name | Description |
-| --- | --- |
-| Devastating Slash | The Kyrsgarde swipes it's spear at it's opponent, dealing a fatal blow and killing them. |
-
-  
+-   [Kyrsgarde Lancer](Kyrsgarde_Lancer.md)
+-   [Kyrsgarde Brute](Kyrsgarde_Brute.md)
+-   [Kyrsgarde Sniper](Kyrsgarde_Sniper.md)
+-   [Kyrsgarde Crawler](Kyrsgarde_Crawler.md)
 
 ## Trivia
 

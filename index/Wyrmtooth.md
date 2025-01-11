@@ -1,9 +1,9 @@
 ---
 title: Wyrmtooth
-revid: 121977
+revid: 128810
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scaling", Etrea, Multiple Criticals]
+categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Greatswords]
 ---
 
 # Wyrmtooth
@@ -28,7 +28,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scali
 
 ## Description
 
-The **Wyrmtooth** is a sword that drops from bosses and endgame events like the [Dread Serpent](Dread_Serpent.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md). It has a base damage of 20 with 20% PEN, requiring 60 MED, 40 HVY and Power 15 to equip. Despite being a hybrid weapon, it is only compatible with medium weapon Talents.
+The **Wyrmtooth** is a sword that drops from bosses and endgame events like the [Dread Serpent](Dread_Serpent.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md). It has a base damage of 20 with 20% PEN, requiring 60 MED, 40 HVY and Power 15 to equip. Despite being a hybrid weapon, it is only compatible with Medium Weapon and Greatsword Talents, not any general heavy weapon talents.
 
 With attribute scaling in mind (excluding [Proficiency](Traits.md#proficiency)), the Wyrmtooth deals 28.1 damage at base and 35.6 damage when both MED and HVY are at 100.
 
@@ -47,6 +47,7 @@ The cooldown for the critical is **10 seconds**.
 
 -   The Wyrmtooth is based on [Masamune](<https://finalfantasy.fandom.com/wiki/Masamune_(weapon)>), Sephiroth's sword from the _Final Fantasy_ series.
 -   At Proficiency 6, it deals 31.3 damage at base and 41.7 damage when both MED and HVY are maxed.
+-   In an update on 1/11/25, the Wyrmtooth was given the ability to utilize Greatsword talents, but not general heavy weapon talents.
 -   In an update on 4/13/24, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame.
 -   The Wyrmtooth is not classed as a katana, so [Paired Soul](Talents.md) doesn't apply to it.
 -   Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.

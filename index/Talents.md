@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 128744
+revid: 128793
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2252,6 +2252,8 @@ _**"My cure is most effective."**_
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
+    -   Extra 20% armor drain on flourish/crit, as example: 5 rods will drain 12.5% armor instead of 10% (If you would manually pull them out)
+    -   5% DMG bonus currently bugged. (Bugged since summer 2023)
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
 ### Seeker of Sound
@@ -3088,9 +3090,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: [Power](Power.md) 5
 
 -   Grotesque Resilience \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Reduces all damage from "Damage Over Time" effects.
-    -   Reduces DoT damage by 50%
-        -   This affects: Burn
-        -   if you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
+    -   Reduces Burn damage by 50%
+        -   If you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
+    -   Reduces Bleed damage by 33%
     -   Does not work on all Damage over Time effects.
         -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), Rush Hour from Bloodrend
     -   Obtained from: [Parasol Planter](Parasol_Planter.md)
@@ -3236,9 +3238,9 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 1% armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
 -   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
-    -   Reduces DoT damage by 50%
-        -   This affects: Burn
-        -   if you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
+    -   Reduces Burn damage by 50%
+        -   If you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
+    -   Reduces Bleed damage by 33%
     -   Does not work on all Damage over Time effects.
         -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), Rush Hour from Bloodrend
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - Your dodge window is slightly increased (0.05s).

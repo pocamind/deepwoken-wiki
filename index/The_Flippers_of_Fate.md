@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 128015
+revid: 128787
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Daggers]
@@ -16,7 +16,6 @@ categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Daggers]
 | scaling | LHT: 8, CHA: 3, INT: 3 |
 | range | 6.5 |
 | swing speed | 1.26x |
-| endlag | 0.04s |
 | penetration | 15% |
 | stances | 1 Handed |
 | selling price | ? |

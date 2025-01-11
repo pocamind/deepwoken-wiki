@@ -1,0 +1,31 @@
+---
+title: Kyrsan Schematic
+revid: 128803
+source: https://deepwoken.fandom.com/wiki/Kyrsan_Schematic
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Uses, Items, Ingredients, Drops]
+---
+
+# Kyrsan Schematic
+
+| Kyrsan Schematic | |
+|---|---|
+| value | 5 |
+| weight | None |
+| type | Monster Material |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | It's hard to make out, but the language eclipses you, yet it seems to resemble some sort of timekeeping device... It appears as though the schematic is detailing the proper finetuning of a power source to fit the time piece. |
+
+## Description
+
+**Weathered Timepiece** is a ??? drop from [Kysgardes](Kyrsgarde.md), it is a direct drop.
+
+## Uses
+
+-   ???
+
+## Trivia
+
+-   Shows a schematic as the item and is not a blank blue brick.

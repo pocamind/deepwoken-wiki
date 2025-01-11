@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 123573
+revid: 128790
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons]
@@ -16,7 +16,7 @@ categories: [Weapons, Daggers, Alloyed Weapons]
 | damage | 15.5 / Template:AlloyedColor |
 | scaling | LHT: 8 |
 | range | 6.5 |
-| swing speed | 1.13x |
+| swing speed | 1.14x / Template:AlloyedColor |
 | penetration | Template:AlloyedColor |
 | stances | 1 Handed |
 | selling price | / |

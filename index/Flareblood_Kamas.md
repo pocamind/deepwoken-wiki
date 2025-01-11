@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 125834
+revid: 128808
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -16,7 +16,6 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 | scaling | LHT: 8, INT: 2 |
 | range | 6 |
 | swing speed | 1.25x |
-| endlag | 0.05s |
 | penetration | 30% |
 | special effect | On hit, take away small amounts of blood from your opponent. |
 | stances | 1 Handed |
@@ -26,7 +25,7 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chaser, Scholar of the Crimson Contract , Weird Trader |
-| description | "A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison." |
+| description | A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 128082
+revid: 128849
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Unique Critical, Weapons with Unique Criticals, Multiple Criticals]
@@ -33,13 +33,12 @@ The Iron Requiem has a [Bullet](Bullet_Casings.md) capacity of 6, meaning you ge
 
 ## Critical
 
-For the neutral critical, you fire 1 shot out of your gun. The critical attack reloads 1 bullet and applies 1 Rod if it lands. Unlike all other guns, Iron Requiem's neutral critical can be used with no bullets in the chamber, allowing you to use it for reloading purposes. Additionally, it also procs [Rapid Fire](Talents.md#outlaw) and thus can be used in rapid succession.
+For the neutral critical, you fire 1 shot out of your gun. The critical attack reloads 1 bullet and applies 1 Rod if it lands. Unlike all other guns, Iron Requiem's neutral critical can be used with no bullets in the chamber, allowing you to use it for reloading purposes. Additionally, it also procs [Rapid Fire](Talents.md#outlaw) and thus can be used in rapid succession, however it will not proc this talent unless you have ammo loaded.
 
-For the running critical, you whip around wildly and unload every bullet in the chamber into your opponent. You will continue firing until you are out of ammo, applying 1 Rod per hit. This critical cannot be used if you are using dual guns.
+For the running critical, you whip around wildly and unload every bullet in the chamber into your opponent. You will continue firing until you are out of ammo or until four bullets have been unloaded, applying 1 Rod per hit. This critical cannot be used if you are using dual guns.
 
 ## Trivia
 
--   Uniquely to the Iron Requiem, it can proc single gun talents like [Rapid Fire](Talents.md#outlaw) while using dual guns.
 -   On release it had the exact same scaling as the Ignition Deepcrusher, being 4 MTL and 3 MED.
 -   The description previously had "print(4\*1) Reverse-engineered..." in it.
 -   The Ironsing icon is engraved on both sides of the gun.

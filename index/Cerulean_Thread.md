@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 124429
+revid: 128788
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry, Multiple Criticals]
@@ -16,7 +16,6 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry, Mult
 | scaling | LHT: 7.5 |
 | range | 6 |
 | swing speed | 1.25x |
-| endlag | 0.05x |
 | penetration | 25% |
 | stances | 1 Handed |
 | selling price | 100 |

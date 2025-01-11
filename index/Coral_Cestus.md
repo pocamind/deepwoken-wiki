@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 124492
+revid: 128777
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Unique Critical, Fists]
@@ -16,7 +16,7 @@ categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Unique Cri
 | damage | 14 / 16.5 |
 | scaling | LHT: 9.5 |
 | range | 6 |
-| swing speed | 1.09x |
+| swing speed | 1.10x |
 | penetration | 10% / 20% |
 | stances | 1 Handed |
 | weight | 5 / 5.5 |

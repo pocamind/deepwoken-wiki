@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 126456
+revid: 128784
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Weapons with Unique Criticals]
@@ -15,7 +15,7 @@ categories: [Weapons, Rapiers, Weapons with Unique Criticals]
 | damage | 15 |
 | scaling | LHT: 8 |
 | range | 8.1 |
-| swing speed | 1.09x |
+| swing speed | 1.1x |
 | penetration | 20% |
 | stances | 1 Handed |
 | weight | 5 |

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 128594
+revid: 128789
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -126,7 +126,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Endlag</b></td>
   <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
@@ -139,7 +138,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>14.4</td>
 </tr>
 <tr>
@@ -152,7 +150,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.23x</td>
-  <td>0.05s</td>
   <td>23.8</td>
 </tr>
 <tr>
@@ -165,7 +162,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>19.5</td>
 </tr>
 <tr>
@@ -178,7 +174,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>5</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>22.5</td>
 </tr>
 <tr>
@@ -191,7 +186,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>22.8</td>
 </tr>
 <tr>
@@ -204,7 +198,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>26.6</td>
 </tr>
 <tr>
@@ -217,7 +210,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.23x</td>
-  <td>0.05s</td>
   <td>25.9</td>
 </tr>
 <tr>
@@ -229,8 +221,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 8</td>
   <td>3</td>
   <td>6.5</td>
-  <td>1.13x</td>
-  <td>N/A</td>
+  <td>1.14x</td>
   <td>28.4</td>
 </tr>
 <tr>
@@ -243,7 +234,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>25.9</td>
 </tr>
 <tr>
@@ -256,7 +246,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>34.6(<b>Bleed</b>)</td>
 </tr>
 <tr>
@@ -269,7 +258,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>26.2</td>
 </tr>
 <tr>
@@ -282,7 +270,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.20x</td>
-  <td>0.05s</td>
   <td>27.7</td>
 </tr>
 <tr>
@@ -295,7 +282,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>24.5</td>
 </tr>
 <tr>
@@ -308,7 +294,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>27.5</td>
 </tr>
 <tr>
@@ -320,8 +305,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: <font>8</font></td>
   <td>3</td>
   <td>6.5</td>
-  <td><font>1.13x</font></td>
-  <td>N/A</td>
+  <td><font>1.15x</font></td>
   <td>29.3</td>
 </tr>
 <tr>
@@ -334,7 +318,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>26.7</td>
 </tr>
 <tr>
@@ -347,7 +330,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>3.5</td>
   <td>6.5</td>
   <td>1.26x</td>
-  <td>0.04s</td>
   <td>25.6</td>
 </tr>
 </tbody>
@@ -369,7 +351,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Endlag</b></td>
   <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
@@ -382,7 +363,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>3</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>N/A</td>
   <td>20.8</td>
 </tr>
 <tr>
@@ -394,8 +374,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 7.5</td>
   <td>5</td>
   <td>6</td>
-  <td>1.11x</td>
-  <td>N/A</td>
   <td>24.6</td>
 </tr>
 <tr>
@@ -408,7 +386,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>N/A</td>
   <td>29.1</td>
 </tr>
 <tr>
@@ -421,7 +398,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>0.05s</td>
   <td>27.1</td>
 </tr>
 <tr>
@@ -434,7 +410,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>0.05s</td>
   <td>26.2</td>
 </tr>
 <tr>
@@ -446,8 +421,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9.5</td>
   <td>5</td>
   <td>6</td>
-  <td>1.09x</td>
-  <td>N/A</td>
+  <td>1.1x</td>
   <td>27.9</td>
 </tr>
 <tr>
@@ -460,7 +434,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>N/A</td>
   <td>30.9</td>
 </tr>
 <tr>
@@ -472,8 +445,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 7.5</td>
   <td>4</td>
   <td>6</td>
-  <td>1.09x</td>
-  <td>N/A</td>
+  <td>1.1x</td>
   <td>34.7(<b>Bleed</b>)</td>
 </tr>
 <tr>
@@ -485,8 +457,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9.5</td>
   <td><font>5.5</font></td>
   <td>6</td>
-  <td>1.09x</td>
-  <td>N/A</td>
+  <td>1.1x</td>
   <td>32.8</td>
 </tr>
 <tr>
@@ -499,7 +470,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>N/A</td>
   <td>29.8</td>
 </tr>
 </tbody>
@@ -680,7 +650,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>LHT: 8</td>
   <td>5</td>
   <td>8</td>
-  <td>1.09x</td>
+  <td>1.1x</td>
   <td>27.5</td>
 </tr>
 <tr>
@@ -691,7 +661,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>LHT: 8</td>
   <td>5</td>
   <td>8.1</td>
-  <td>1.09x</td>
+  <td>1.1x</td>
   <td>27.5</td>
 </tr>
 <tr>
@@ -2954,7 +2924,6 @@ Weapons/Weapon Skins that are exclusive for special people.
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>0.05s</td>
   <td>34.6(<b>Bleed</b>)</td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 125379
+revid: 128812
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -16,16 +16,14 @@ categories: [Weapons, Daggers]
 | scaling | LHT: 13 |
 | range | 6 |
 | swing speed | 1.25x |
-| endlag | 0.05s |
 | penetration | 30% |
 | stances | 1 Handed |
-| selling price | 50 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker Wilds, Minityrsa, Starswept Valley, Merchant ships mission, Ferryman |
+| obtainment | Songseeker Wilds, Minityrsa, Starswept Valley, Merchant Ships, Ferryman |
 | description | "..." |
 
 ## Description

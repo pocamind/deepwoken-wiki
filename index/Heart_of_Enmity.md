@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 128136
+revid: 128856
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -20,7 +20,7 @@ The Heart of Enmity is a [Boss](Bosses.md) found in the [First Layer](First_Laye
 
 To summon it, at least 5 players need to enter the Depths trial at the same time, and one player must have at least 60 difficulty score (+3 score per Power and +1 score per Drown).
 
-The Heart of Enmity possess 65% oath damage resistance and is **immune to all enchantments**.
+The Heart of Enmity possess 65% oath damage resistance and is **immune to all enchantments**. It is also immune to potion effects.
 
 ## Moveset
 

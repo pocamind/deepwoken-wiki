@@ -1,6 +1,6 @@
 ---
 title: Sekh
-revid: 128518
+revid: 128775
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, The Hive, Eastern Luminant]
@@ -133,7 +133,9 @@ His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) 
 -   Sekh's racial variant appears to be Plackart
 -   [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis) wrote the dialogue for Eres.[\[1\]](#cite-note-1)
 -   Some players speculate that there may be a romance between Eres and Sekh based on their unique dialogue, but this has not been confirmed.
+-   Stated to by Gay by Naktigonis[\[2\]](#cite-note-2).
 
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

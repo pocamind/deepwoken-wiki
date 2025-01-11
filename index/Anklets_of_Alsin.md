@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 124278
+revid: 128786
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -16,7 +16,6 @@ categories: [Weapons, Fists]
 | scaling | LHT: 9 |
 | range | 6.5 |
 | swing speed | 1.14x |
-| endlag | 0.05s |
 | penetration | 15% |
 | chip damage | 10% |
 | weight | 3 |

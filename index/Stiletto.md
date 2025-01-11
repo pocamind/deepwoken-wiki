@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 124241
+revid: 128831
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -16,7 +16,6 @@ categories: [Weapons, Daggers]
 | scaling | LHT: 3 |
 | range | 6 |
 | swing speed | 1.25x |
-| endlag | 0.05s |
 | stances | 1 Handed |
 | weight | 2 |
 | bankable | Yes |
