@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 128645
+revid: 129256
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, Eastern Luminant, Quests]
@@ -16,9 +16,13 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Beiruul is a Redwood [Gremor](Gremor.md) NPC located on the side of [Meteor Isle](Meteor_Isle.md) nearest to [Fort Merit](Fort_Merit.md), she rests under a tree above the docks of Meteor Isle. She wants to take revenge on the Central Authority for the constant harassment her people receive by it; choosing the correct dialogue responses will begin the [Navae's Retribution](Quests.md) sidequest.
+Beiruul is a Redwood [Gremor](Gremor.md) NPC, a resident of [Meteor Isle](Meteor_Isle.md), she wants to take revenge on the Central Authority for the constant harassment they enact and the looming threat they pose to her people; choosing the correct dialogue responses will begin the [Navae's Retribution](Quests.md) sidequest.
 
-During the Navae's Retribution quest, she will fight alongside the player to defeat several [Authority Peacekeepers](Authority_Peacekeeper.md) and [Authority Officers](Authority_Officer.md).
+During the Navae's Retribution quest, she will fight alongside the player to defeat several [Authority Peacekeepers](Authority_Peacekeeper.md) and [Authority Officers](Authority_Officer.md).|
+
+## Location
+
+Beiruul is located at [Meteor Isle](Meteor_Isle.md) sitting under a tree above the docks, overlooking the ocean towards [Fort Merit](Fort_Merit.md).
 
 ## Quest Details
 

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 128118
+revid: 129312
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -128,7 +128,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 > 
 > ― Flavor Text
 
-_**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get [Arcwarder](Oath%253A_Arcwarder.md), and you also arent required to go to delta in the overworld.
+_**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get [Arcwarder](Oath%253A_Arcwarder.md), and you also arent required to go to delta in the overworld. If you already done the [Epsi](Epsi.md) quest, you can simply talk to [Alpha](Alpha.md) in the base and get the origin.
 
 Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by clearing out the Summer Company enemies (which is oddly completed after defeating a [Mechalodaunt](Mechalodaunt.md) upstairs in the room with the big window near the boiler room), then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be of note that this doesn't mean that you need to do his quest twice!
 

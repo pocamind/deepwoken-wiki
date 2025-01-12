@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 129236
+revid: 129323
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Oaths]
@@ -12,7 +12,7 @@ notices:
 
 | Oath:  Soulbreaker | |
 |---|---|
-| oath_req | Any Murmur, A Resonance, 50 will/cha total (ex. 30 will 20 cha) |
+| oath_req | Any Murmur, A Resonance, A sum of 50 points invested in Willpower and Charisma |
 | effects | +2 Combat Mantra Slot, +1 Mobility Mantra Slot, Ability To Wield All The Murmurs |
 
 “ \*Something awful holds your mind in its grip.\* THEN IT IS SO. AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. \*The sensation departs you. Your mind is quiet once more\* ”
@@ -31,12 +31,12 @@ Soulbreaker is a result of a Vow made with [Shrine of Yun'Shul, Keeper of Hearts
 
 Meet the following requirements in any order:
 
--   Have 50 points in Charisma/Willpower total. (for example 30 Willpower and 20 Charisma)
--   Have Hero (max) reputation with [Etris](Etris.md).
+-   Have at least 50 points combined into Willpower and Charisma, such as 25 Willpower and 25 Charisma or 0 Willpower and 50 Charisma (You can have more than 50 those three stats).
+-   Have Hero (max) reputation with [Etrea](Etrea.md).
 -   Have a [Resonance](Resonance.md).
 -   Have any [Murmur](Murmur.md).
--   Talk to [Theadre](Theadre.md) about the king being a god. (You need hero reputation)
--   Talk to [Bookkeep Andros](Bookkeeper_Andros.md) about the kings ardour.
+-   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (You need hero reputation)
+-   Talk to [Bookkeep Andros](Bookkeeper_Andros.md) about the Kings Ardour.
 
 Once **all** met, head over to the [Temple Of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 

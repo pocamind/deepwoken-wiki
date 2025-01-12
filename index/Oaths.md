@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 129230
+revid: 129352
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -83,7 +83,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Soulbreaker](Oath%253A_Soulbreaker.md)
 
-(50 WILL/CHA total)
+(comb. 50 WLL/CHA)
 
 [Starkindred](Oath%253A_Starkindred.md)
 
@@ -95,7 +95,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 ### Upcoming Oaths
 
--   Nothing here yet!
+-   Warmaster
 
 ## Oath Skipping
 
@@ -119,7 +119,6 @@ Upon breaking an Oath, unique effects will occur:
 -   [Chainwarden](Oath%253A_Chainwarden.md): [Vice Warden Morredh](Vice_Warden_Morredh.md) - "Another deserter? You're pathetic."
     -   You cannot reobtain this oath after breaking it.
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
-    -   You instantly become maximum negative reputation (villain) with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
     -   You can regain the Oath again after breaking it. However, the price will be 60 [Medallions](Kyrsan_Medallions.md) instead of 30.
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man."

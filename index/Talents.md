@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 129189
+revid: 129327
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -129,6 +129,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
     -   The effect procs when hit by a mantra that is not within the Attunementless category.
+    -   Unlike "Return to the Dark Ages" doesn't reduce phys DMG from mantras, only elemental.
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast after being hit and vice versa.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
         -   Flamecharm: Orange
@@ -301,12 +302,13 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 -   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
+    -   If you will end up having "Vegeterian" flaw with this talent, each kill will make you vomit, effectively losing all ur food and thrist in the end.
     -   Prerequisites: 5 Strength, 5 Willpower
     -   Mutual Exclusives: [Vegetarian (Flaw)](Boons_and_Flaws.md), Herbivore.
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
-    -   40% tempo gain, ~40-75% ether gain, ~1-2% blood gain, 5% health gain (Needs testing)
+    -   40% tempo gain, 55% ether gain, 3% blood gain, 5% health gain.
     -   **NOTE: The health gain WAS bugged and you didn't gain any extra health upon kills. It is now fixed and works as it should.**
     -   Prerequisite: Carnivore
 
@@ -465,6 +467,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   The damage to healing conversion is 1:1, meaning 20 healing = 20 damage.
     -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however wouldn't work on things like Health Regen Potions or Conditioned Runner as that they are forms of passive healing.
     -   This works on healing outside of combat.
+    -   Works with Mindsoothe, Blood Scourge bell, Grand Support, Fadetrimmer's healing spray and etc.
     -   Prerequisite: 95 Bloodrend, Master Bloodrender
 
 -   Master Bloodrender \[Common Talent\] - You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
@@ -525,6 +528,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown).
     -   Can be procced by bleed, allowing for hitstun from a single M1 to proc Brazen Blow.
+    -   Procs by hitting someone through block with chip DMG [(Obfuscation Enchant](Enchantments.md), Precision Swing, Inniate chip DMG and etc)
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapon
 
 -   _Heavy Fatigue_ \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
@@ -549,6 +553,8 @@ _**"I am the one to hold the walls."**_
     -   Prerequisities: 55 Fortitude
 
 -   Down to your Level \[Common Talent\] - While you have a speed debuff, your M1s slow your enemies for 2s.
+    -   Doesn't proc by Grand Fisher Plate or any else equipment that slows you down.
+    -   Procs by Entaglement, Daze, Chill and anything else that slows you down.
     -   Prerequisites: 60 Fortitude
 
 -   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 5s.
@@ -676,7 +682,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when parrying your attacks.
     -   Prerequisite: 25 Strength
 
--   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
+-   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 10%.
     -   Active on every heavy weapon.
     -   Prerequisites: 25 Heavy Weapon, 15 Strength
 
@@ -685,7 +691,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I am a friend to others."**_
 
 -   _Lord's Tithe_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their Ether until you are fully charged.
-    -   While the effect is active, victims can hold block to reduce the ether steal by half.
+    -   While the effect is active, victims can hold block to stop ether drain.
     -   Lord's Tithe cancels on victims once they drop beneath 5% Ether.
     -   Getting hit will cancel the effect entirely.
     -   Getting your block hit counts as being hit.
@@ -860,6 +866,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
     -   Applies chill for 7 seconds.
     -   Applies bottom freeze.
+    -   Applies fragile freeze if the critical guardbreaks.
 
 ### Duelist
 
@@ -966,6 +973,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 15 Intelligence
 
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.
+    -   Gives ~3% ether per parry
     -   Prerequisites: 20 Agility, 15 Intelligence
 
 -   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load)
@@ -1032,6 +1040,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"None will escape my flames."**_
 
 -   Cauterized Wounds\[Common Talent, Flamecharm Exclusive\] - Blood loss from all sources is lowered. (+1 Passive Agility)
+    -   Effectiveness of this talent reduced with No Life King enchant
+    -   Stacking with Alloyblood
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
 
 -   Flamewalker \[Common Talent, Flamecharm Exclusive\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
@@ -1065,6 +1075,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Flamecharm
 
 -   Produce Spark \[Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
+    -   Works as flint
     -   Prerequisite: 20 Flamecharm
 
 -   Unyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms.
@@ -1141,7 +1152,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
     -   Durability of Orbital Ice is equal to "Frostdraw investment ÷ 4", reaching 25 at 100 Frostdraw.
+    -   Can be stack with Fists of Fortitude, if you have [Icebringer's Vestments](<Icebringer's_Vestments.md>) outfit
     -   Cooldown of 90 seconds.
+    -   Mutual Exclusive: Fists of Fortitude
     -   Prerequisite: 65 Frostdraw
 
 ### Frozen Warrior
@@ -1246,7 +1259,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I always shoot first."**_
 
 -   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 15% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
-    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)\\
+    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)
     -   Doesn't bypass PEN cap/Doesn't work if you hit 50% pen cap.
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
@@ -1355,7 +1368,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I would see this world freeze."**_
 
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
-    -   Will stop all movement from players affected, and will prevent rolling.
+    -   Prevents you from rotating your character and moving around overall.
     -   Prerequisite: 25 Frostdraw
 
 -   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether.
@@ -1491,7 +1504,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 100 Ironsing
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
-    -   Most ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods.
+    -   Ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods, 5 rods limit on default path.
     -   This keybind can be configured.
 
 -   Adept Ironsinger \[Common Talent\] - You can now obtain 1-star Ironsinger mantras.
@@ -1504,7 +1517,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 40 Ironsing, 15 Strength
 
 -   Laced Traps \[Common Talent, Ironsing Exclusive\] - People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
-    -   1 Caltrop slows down and disables jump for 1.1 second (Can be stacked, effect can be extended by stepping on caltrop)
+    -   Landing a caltrop slows down and disables jump for 1.1 second, timer resets if victim gets hitted by other caltrop.
     -   Prerequisites: Caltrops mantra, 45 Ironsing
 
 -   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
@@ -1600,7 +1613,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 30 Medium Weapon, Using a spear
     -   Works only with normal two-hit Critical Attacks of Spears
 
--   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
+-   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
 -   Hoplite \[Common Talent\] - Posture damage is reduced by 30% when wielding a spear and standing still. (+2 Passive Agility)
@@ -1710,6 +1723,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 35 Willpower
 
 -   Uproar \[Common Talent\] - When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration. (Hyperarmor Benefit)
+    -   30 seconds cooldown
+    -   Hyperarmor removed once you hit someone.
     -   Prerequisite: 35 Fortitude
 
 ### Marauder
@@ -1745,7 +1760,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**" I am often in my own world."**_
 
 -   _Warrior's Respite_ \[Rare Talent\] - Standing still for 15 seconds in order to initiate healing.
-    -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect. (This was not the case a long time ago, and was overpowered)
+    -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect.
     -   Does not activate when on moving ships.
     -   Does activate when in water and with spawn immunity.
     -   Prerequisite: 15 Fortitude
@@ -1864,6 +1879,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 25% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
     -   Takes 100% ether to be used, therefore deactivating ardour.
+    -   Takes only 40% ether with [Soulbreaker](Oath%253A_Soulbreaker.md) oath.
+    -   Doesn't apply insanity.
     -   Will also combat tag anybody hit.
     -   Can stack with m1s, crits, [silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.
     -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md)
@@ -2234,6 +2251,7 @@ _**"My cure is most effective."**_
     -   Prerequisite: 35 Ironsing
 
 -   Refine and Reuse \[Common Talent, Ironsing Exclusive\] - Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.
+    -   Barely works, does 0.5% dmg difference (from 35% DMG) at max proc against 90% pen with 50% phys and reinforced armor.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
@@ -2241,6 +2259,8 @@ _**"My cure is most effective."**_
     -   Doesn't scale on Ironsing Investment
     -   Hits from Artisan's Blades do not drain armor from enemy.
     -   Artisan's Blades do not benefit from Exposed Durability's damage buff.
+    -   Not affected by "Return To The Dark Ages"
+    -   Parrying Artisan's blade gives Auto Parry frames.
     -   4.5 posture per blade.
     -   Artisan blades last 20 seconds.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
@@ -2249,12 +2269,13 @@ _**"My cure is most effective."**_
     -   Prerequisites: Gilded Path: Scrapsinger, 50 Ironsing
 
 -   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
-    -   Increases Artisan's Blades damage from 10 to 20, additionally Artisan's Blades will apply 1 rod on hit.
+    -   Increases Artisan's Blades damage from 10 to 20, additionally Artisan's Blades will apply 1 rod per each hit.
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
-    -   Extra 5% armor drain on flourish/crit as example 2% from pulled out rod + reshape bonus 5%
-    -   5% DMG bonus currently bugged. (Bugged since summer 2023)
+    -   Extra 5% armor drain on flourish/crit, as example 2% from pulled out rod + Reshape and Remold applies bonus 5%
+    -   Bonus armor drain works **ONLY ON CRIT OR FLOURISH**, not on further hits after that.
+    -   5% DMG bonus currently bugged. (Since Summer 2023)
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
 ### Seeker of Sound
@@ -2420,6 +2441,7 @@ _**"My cure is most effective."**_
 > _**"I convert blood to iron."**_
 
 -   _Bloodiron Spirit_ \[Rare Talent\] - You regain some Armor upon killing enemies. (+5 Health)
+    -   Any kill gives you 3% of your total armor durability.
 
 ### Soverign of Slaughter
 
@@ -2437,6 +2459,7 @@ _**"My cure is most effective."**_
     -   Prerequisites: Haunted Gale, 50 Galebreathe
 
 -   Apparitions \[Common Talent, Galebreathe Exclusive\] - Instead of Haunted Gale Phantoms and Suffocation, each proc will now send apparitions towards your enemy. The apparitions apply 'Winded' where 'Suffocation' would suffice. Apparitions cannot be parried if you are in 'Phantom Step'.
+    -   Apparitions can be parried in "Phantom step" (Possibly a bug)
     -   Prerequisites: Haunted Path: Specter, 50 Galebreathe
 
 -   Phantom Step \[Common Talent, Galebreathe Exclusive\] - Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)
@@ -2489,6 +2512,7 @@ _**"My cure is most effective."**_
     -   Prerequisites: 25 Fortitude, 5 Willpower
     -   The head equipment "[Celtor Commander Helm](Celtor_Commander_Helm.md)" has this Talent.
 -   Magical Resolve \[Common Talent\] - Being hit increases [Ether](Ether.md) regen for a short duration. (+7 Sanity)
+    -   On hit, gain 300% ether regeneration for 1 second.
     -   Prerequisites: 40 Willpower, Battle Tendency
 
 -   Unfazed \[Common Talent\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
@@ -2533,7 +2557,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Winter's Protection \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Obtained by equipping [Winter Corps Parka](Winter_Corps_Parka.md).
     -   Increases the time it takes for parasites to kill you.
-    -   Negates damage buffs from weather. This only applies to Stratoshock. (lol)
+    -   Negates damage buffs from weather. This only applies to Stratoshock.
 
 ### Swiftshade
 
@@ -2568,6 +2592,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisite: 50 Intelligence
 
 -   Water off a Duck's Back \[Common Talent\] - Venting will shift any elemental status effects affecting you onto those hit by your vent.
+    -   Transfer ANY elemental status effects (Suffocation, Winded, Chill, Shock) and potion effects to your enemy.
     -   Prerequisite: 50 Intelligence
 
 ### Tamed Flame
@@ -2600,6 +2625,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisite: 45 Flamecharm
 
 -   Flaming Flourish \[Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish or uppercut them.
+    -   You also apply burn on enemies by swinging uppercut nearby. Aka doesn't have to be a hit to apply burn.
     -   Prerequisite: 30 Flamecharm
 
 ### The Emperor's Blade
@@ -2617,6 +2643,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
     -   Has a 20s Cooldown
+    -   With eruption path, it will proc eruption.
     -   Prerequisite: 65 Flamecharm
 
 ### The Negotiator
@@ -2697,6 +2724,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Discovery Of Fire \[Common Talent, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons.
     -   Grants the tool "Discovery of Fire", which uses ether to light up all nearby campfires.
     -   Using this ability will light nearby downed enemies aflame.
+    -   Since December 2023, you can't light up campfires for some reason
+    -   Can be parried
     -   Prerequisite: 50 Thundercall
 
 -   Expert Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras.
@@ -3059,9 +3088,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: 20 Flamecharm, 20 Galebreathe, 20 Shadowcast, 20 Frostdraw, 20 Thundercall, resonate with the Flamecharm pillar at [Saramaed Summit](Saramaed_Summit.md) and talk to Jace, resonate with the Galebreathe pillar at [The Garden Reservoir](The_Garden_Reservoir.md) and talk to Trinity Galenwarde, resonate with the Shadowcast pillar at [Moon's Eyrie](<Moon's_Eyrie.md>) and talk to Urek Felhand, resonate with the Frostdraw pillar atop the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and talk to Faust, and resonate with the Thundercall pillar at [Boatman's Watch](<Boatman's_Watch.md>) and talk to Tessa, in any order.
 
--   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slot, +1 mobility Mantra Slot.)
-    -   Prerequisites: Any murmur, Ally or higher reputation with Etrea, talk to the old man near statue and book keeper at etris then go to Yun'shul and use your wish, ask for "For now I am one, but I wish to be three.".
-    -   To progress oath just interact with any deep shrine.
+-   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slot, +1 Mobility Mantra Slot.)
+    -   Prerequisites: 50 charisma/willpower total (aka can be 1 wp 49 charisma or 25 wp and 25 charisma) Total hero reputation with [Etris](Etris.md) Any [murmur](Murmur.md) Bell + have a Yun'shul wish Step 1: Talk to [Theadre](Theadre.md) about The King being a God. Step 2: Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about The King's ardour Step 3: Go to [Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and unlock it "For now I am one, but I wish to be three."
+    -   To progress oath just interact with any [deep shrine](Deep_Shrines.md).
 
 ### Miscellaneous
 
@@ -3072,7 +3101,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 35 Fortitude, 30 Strength
 
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)
-    -   Create a dark blueish fog around you (simulating blindness).
+    -   Makes everything darker and creates fog at long distances
     -   While the Blindseer Oath grants full vision even with a blindfold, the Talent still works.
     -   The Talent grants immunity to the Flame Blind mantra.
     -   The face equipment "[Blindfold](Blindfold.md)" have this Talent.

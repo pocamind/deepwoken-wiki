@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 129211
+revid: 129348
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -16,8 +16,7 @@ categories: [Weapons, Fists]
 | scaling | LHT: 8 CHA: 3.5 |
 | range | 6 |
 | swing speed | 1.12x |
-| special effect | Critical resets all cooldowns by 30 seconds |
-| selling price | N/A |
+| special effect | Critical lowers all cooldowns by 30 seconds |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
@@ -32,9 +31,9 @@ The **Vortex Echo** is a [Relic](Relics.md) [Fists](Fists.md) weapon that requir
 
 ## Critical
 
-The Critical attack will reduce **most** active cooldowns by 30 seconds (mantras, talent cooldowns, resonance) while applying a substantial amount of wither onto the user. This attack has no hitboxes and deals no damage.
+The Critical attack will reduce **most** active cooldowns by 30 seconds (mantras, talent cooldowns, resonance) while applying 15% wither onto the user. This attack has no hitboxes and deals no damage. The user is then afflicted with Temporal Fatigue for 30 seconds (essentially a crit cooldown), preventing usage of the crit.
 
-| List of unaffected talents: |
+| List of unaffected cooldowns: |
 | --- |
 | Command: Live |
 

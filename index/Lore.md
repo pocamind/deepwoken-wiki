@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 128296
+revid: 129266
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -85,20 +85,20 @@ _The Lord Regent, sitting atop his throne of coral._
 -   His only known power is Blood magic, from which Bloodrend is derived, which is likely much more powerful than any of the Bloodrend shown in game.[\[1\]](#cite-note-rag-1)[\[3\]](#cite-note-kamas-3)[\[4\]](#cite-note-vy-4)
 -   Seems to keep the existence/method of acquiring [Bloodrend](Bloodrend.md) a secret, making sure the only ones who can use it are his disciples, and that they can't teach it to others.[\[4\]](#cite-note-vy-4)
 
-### The King of Etrea
+### Rolen Vashtir I, The King of Etrea
 
--   The previous ruler of the Kingdom of [Etrea](Etrea.md), before his rule was taken by the [Lord Regent](The_Lord_Regent.md) under his banner.
+-   The previous ruler of the Kingdom of [Etrea](Etrea.md), before his rule was taken by the [Lord Regent](The_Lord_Regent.md) after the Kings demise.
 -   Not much is known about the King of Etrea, but [Theadre](Theadre.md) speaks of him.
     -   Theadre acts hostile to you, saying that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, though he refers to you as "kin" if you are Etrean. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea take?
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
     -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.
     -   The [teacher](Teacher.md) charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
+-   The King of Etrea travelled to the Southern Luminant and made a Vow with Yun'Shul, granting him the [Oath](Oaths.md), [Soulbreaker](Oath%253A_Soulbreaker.md).
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
--   The King of Etrea wields the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
--   _Stars Above, and the Blade Between_ sheds some light on the situation, assuming that it's an autobiographical work.
-    -   The King is said to have been cruel and caused the Etreans to suffer, but he kept such things a secret.
-    -   The protagonist is tasked to assassinate the King during a voyage in the Voidsea, the sword used implied to affect him once sent to The Depths.
-    -   However, the one informing the protagonist is a Shadowcaster, who may well be linked to the Ministry. As such, this information should be considered fallible.
+-   The King of Etrea wielded the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
+-   The King disappeared after sailing on a voyage through the Voidsea_,_ Which the book _Stars Above, and the Blade Between_ sheds some light on, assuming that it's an autobiographical work.
+    -   The protagonist is tasked to assassinate the King with a special sword known as the Queensblade, implied to affect him once sent to The Depths.
+    -   The assassination was orchestrated by a member of the Ministry, leaving the throne open for The Lord Regent to take.
 -   File:RagsHonestReaction.png
     
     ragoozer after being asked 'was the old king of Etris also buffed by the throne?'

@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 120514
+revid: 129255
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]

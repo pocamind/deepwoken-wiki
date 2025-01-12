@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 129178
+revid: 129307
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -32,7 +32,7 @@ All weapons within the game have chances of being found with (or without) differ
 #### Light Weapons
 
 -   15 Daggers (17 if Alloyed)
--   9 Cestus (10 if Alloyed)
+-   10 Cestus (11 if Alloyed)
 -   6 Guns (7 if Alloyed)
 -   7 Rapiers
 
@@ -60,11 +60,11 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### In Total
 
--   159 Total Weapons (Non-Alloyed, Non-Exclusive)
--   168 Total Weapons (Non-Alloyed, Exclusive)
--   183 Total Weapons (Alloyed, Non-Exclusive)
--   190 Total Weapons (Alloyed, Exclusive)
--   196 Total Weapons (Alloyed, Exclusive, Divine)
+-   160 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   169 Total Weapons (Non-Alloyed, Exclusive)
+-   184 Total Weapons (Alloyed, Non-Exclusive)
+-   191 Total Weapons (Alloyed, Exclusive)
+-   197 Total Weapons (Alloyed, Exclusive, Divine)
 
 ## Stances
 
@@ -374,6 +374,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 7.5</td>
   <td>5</td>
   <td>6</td>
+  <td>1.11x</td>
   <td>24.6</td>
 </tr>
 <tr>
@@ -471,6 +472,18 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>6.5</td>
   <td>1.1x</td>
   <td>29.8</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Vortex_Echo"><font>Vortex Echo</font></a></td>
+  <td>65 CHA, 65 LHT</td>
+  <td>13.5</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>CHA: 3.5 LHT: 8</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.12x</td>
+  <td>29.7</td>
 </tr>
 </tbody>
 </table>

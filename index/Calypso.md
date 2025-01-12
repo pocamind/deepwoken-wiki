@@ -1,6 +1,6 @@
 ---
 title: Calypso
-revid: 128430
+revid: 129356
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Ignition Union, Eastern Luminant]
@@ -11,6 +11,7 @@ categories: [NPCs, The Ignition Union, Eastern Luminant]
 | Calypso | |
 |---|---|
 | name | Calypso |
+| aspect | Adret |
 | location | Miner's Landing |
 
 ## Calypso
