@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 129323
+revid: 129412
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Oaths]
@@ -23,7 +23,7 @@ notices:
 
 ## Description
 
-**[Oath](Oaths.md): Soulbreaker** is one of the 16 obtainable Oaths_._ It is an Oath related to [Murmurs](Murmur.md), specifically the ability to wield three at once. Upon obtaining this Oath, purple-glowing white strands are attached to your shoulders and wrap behind your head. You have constant [Ardour](Murmur%253A_Ardour.md) particles emitting from your armpits. Any weapon you equip will have purple/black lightning humming around it.
+**[Oath](Oaths.md): Soulbreaker** is one of the 16 obtainable Oaths_._ It is an Oath related to [Murmurs](Murmur.md), specifically the ability to wield three at once. Upon obtaining this Oath, purple-glowing white strands are attached to your shoulders and wrap behind your head. You have constant [Ardour](Murmur%253A_Ardour.md) particles emitting from your chest. Any weapon you equip will have purple/black lightning humming around it.
 
 Soulbreaker is a result of a Vow made with [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a shrine residing in the [Temple of Hearts](Temple_of_Hearts.md) which is the Shrine of the Drowned God [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 
@@ -31,8 +31,8 @@ Soulbreaker is a result of a Vow made with [Shrine of Yun'Shul, Keeper of Hearts
 
 Meet the following requirements in any order:
 
--   Have at least 50 points combined into Willpower and Charisma, such as 25 Willpower and 25 Charisma or 0 Willpower and 50 Charisma (You can have more than 50 those three stats).
--   Have Hero (max) reputation with [Etrea](Etrea.md).
+-   Have at least 50 points combined into Willpower and Charisma, such as 25 Willpower and 25 Charisma or 0 Willpower and 50 Charisma (You can have more than 50 in these two stats).
+-   Have high reputation (above Ally) with [Etrea](Etrea.md).
 -   Have a [Resonance](Resonance.md).
 -   Have any [Murmur](Murmur.md).
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (You need hero reputation)
@@ -41,6 +41,8 @@ Meet the following requirements in any order:
 Once **all** met, head over to the [Temple Of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 -   Choose the dialogue "For now I am one, but I wish to be three."
+
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/DC24CSyYN98)._
 
 ## Progression
 
@@ -85,7 +87,8 @@ Upon obtainment, you immediately obtain the remaining [Murmurs](Murmur.md) you d
     -   N/A
 
 -   **Tacet Kick - Combat Mantra**
-    -   N/A
+    -   Similarly to Tacet Drop Kick, the user turns invisible before teleporting to the opponent with the use of tacet and kicking them.
+    -   **May be** useful for catching players.
 
 ## Trivia
 

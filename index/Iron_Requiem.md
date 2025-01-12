@@ -1,9 +1,9 @@
 ---
 title: Iron Requiem
-revid: 128849
+revid: 129384
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Unique Critical, Weapons with Unique Criticals, Multiple Criticals]
+categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Multiple Criticals]
 ---
 
 # Iron Requiem

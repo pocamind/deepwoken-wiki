@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 128753
+revid: 129406
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -432,6 +432,7 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 
 -   **Requirements:** _**25 Charisma** Support Mantra_
     -   Inflicts Charm on nearby entities.
+    -   Can be modified with stratus stones to increase range.
 
  |
 | 

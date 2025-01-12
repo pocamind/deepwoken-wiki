@@ -1,9 +1,9 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 123661
+revid: 129379
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Legendary Weapons]
+categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons]
 ---
 
 # Hero's Blade of Frost

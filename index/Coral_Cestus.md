@@ -1,9 +1,9 @@
 ---
 title: Coral Cestus
-revid: 128777
+revid: 129369
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Unique Critical, Fists]
+categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists]
 ---
 
 # Coral Cestus

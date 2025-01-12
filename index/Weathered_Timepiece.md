@@ -1,6 +1,6 @@
 ---
 title: Weathered Timepiece
-revid: 129270
+revid: 129360
 source: https://deepwoken.fandom.com/wiki/Weathered_Timepiece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Uses, Items, Drops, Ingredients]
@@ -20,7 +20,7 @@ categories: [Uses, Items, Drops, Ingredients]
 
 ## Description
 
-**Weathered Timepiece** is a very rare drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), it may be found at the bottom of the item list in his boss chest.
+**Weathered Timepiece** is a somewhat rare drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), it may be found at the bottom of the item list in his boss chest.
 
 ## Uses
 

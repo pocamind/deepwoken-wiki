@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 128889
+revid: 129413
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Enemies, NPCs, Bosses]
 
 # Duke Ishamon Erisia
 
-“ A feast for the prince begins. ”
+“ Vermin! You seek to let Celtor repeat? ”
 
 ― Duke Erisia
 

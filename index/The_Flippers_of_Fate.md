@@ -1,9 +1,9 @@
 ---
 title: The Flippers of Fate
-revid: 128787
+revid: 129390
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Daggers]
+categories: [Weapons, Weapons with Unique Criticals, Daggers]
 ---
 
 # The Flippers of Fate

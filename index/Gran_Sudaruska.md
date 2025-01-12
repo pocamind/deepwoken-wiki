@@ -1,9 +1,9 @@
 ---
 title: Gran Sudaruska
-revid: 123657
+revid: 129376
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Unique Critical]
+categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
 ---
 
 # Gran Sudaruska

@@ -1,9 +1,9 @@
 ---
 title: "Hero's Blade of Wind"
-revid: 118093
+revid: 129382
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Unique Critical, Swords, Legendary Weapons]
+categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons]
 ---
 
 # Hero's Blade of Wind

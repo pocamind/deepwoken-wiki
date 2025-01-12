@@ -1,9 +1,9 @@
 ---
 title: Forge Greathammer
-revid: 127167
+revid: 129374
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Unique Critical, Weapons with Unique Criticals, Alloyed Weapons]
+categories: [Weapons, Greathammers, Weapons with Unique Criticals, Alloyed Weapons]
 ---
 
 # Forge Greathammer

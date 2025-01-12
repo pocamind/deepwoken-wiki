@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 128930
+revid: 129367
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -37,7 +37,9 @@ _noun_
 _noun_
 
 1.  A newly created character, usually wearing the [Stranded](Stranded.md), [Diver Apprentice](Diver_Apprentice_Robes.md), or [Whaler Initiate](Whaler_Initiate.md) outfit. The threshold for the maximum power level for being classified as a freshie differs, but is usually around Power 6.
+2.  New player into deepwoken, people normally call them freshies, because they don't know how to play the game or just a little.
     1.  Ex. "I saw a freshie get ganked earlier, they didn't stand a chance."
+    2.  Ex. "The freshie from lower erisia tried to fight a sharko but, cause of his skil issue, he got crushed"
 
 ### Health pack
 
@@ -340,6 +342,12 @@ _verb, noun_
 1.  The appearance of one's character. Usually used to describe characters that look particularly good
     1.  Ex. "This man's dripping out!"
     2.  Ex. "Your drip doesn't look (or isn't) that good. Maybe you should try this out instead."
+
+### Guild hooper
+
+1.  Non-leal guild member that changes their guild constantly or they are in multiple guilds at same time
+2.  Seen by the community as, the unwanted members, irrelevant skill
+3.  Mostly, the people with skill issue and no friends,have more chances to become another one
 
 ### Hook
 
