@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 127063
+revid: 129530
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -235,13 +235,9 @@ Please add miscellaneous islands or named landmarks here
 -   The Unearthed Colosseum
     
 
-## Trivia/Notes
+## Trivia
 
--   Do note that most of these locations are only in the Eastern Luminant (not to be confused with the East Luminant).
--   The [Crypt](Crypt_of_the_Unbroken.md) [of](Crypt_of_the_Unbroken.md) [the](Crypt_of_the_Unbroken.md) [Unbroken](Crypt_of_the_Unbroken.md) was leaked by an exploiter on the discord who accessed an indev place.
-
+-   The [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) was originally leaked by an exploiter on the discord who accessed an indev place.
 -   An island named "Markor" in the Central Luminant is discussed in the book ["Stars Above, and the Blade Between"](Books.md#stars-above-and-the-blade-between)
-
--   At one point you didn't need to teleport/load into the [Aratel](The_Aratel_Sea.md) [Sea](The_Aratel_Sea.md) and could just sail to it just like any other island.
-    -   This was prior to Verse 2, in which separation of the Luminants to Etrean and Eastern didn't exist.
--   The Depths is a force that surrounds the entire world, with the Voidsea and Voidfog layers preventing further travel. With that, Lumen seems to be inspiried by the _Gnostic firmament_ in Early Hebrew mythology.
+-   Before Verse 2, the Luminants weren't separated into Etrean and Eastern. You didn't need to teleport/load into [The Aratel Sea](The_Aratel_Sea.md) and could just sail to it just like any other island.
+-   The Depths is a force that surrounds the entire world, with the Voidsea and Voidfog layers preventing further travel. With that, Lumen seems to be inspired by the _Gnostic firmament_ in Early Hebrew mythology.

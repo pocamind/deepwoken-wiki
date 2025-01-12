@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 129327
+revid: 129533
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1532,7 +1532,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Heavy Shoulders \[Common Talent, Ironsing Exclusive\] - If your opponent has 3 or more rods, their dodges are slower.
-    -   Currently is bugged, but on proc suppose to drastically reduce roll distance [\[1\]](https://cdn.discordapp.com/attachments/1316804088737960108/1316812565266829433/Discord_m8yEDYqRPR.gif?ex=675c68c4&is=675b1744&hm=07974f8e6e6520e3b3a19e00efde071950f32db267e305006b733316eda3c0e8&)
+    -   Currently is bugged, but on proc suppose to drastically reduce roll distance ([example](https://tenor.com/view/heavy-shoulders-deepwoken-effect-gif-3222924053728144070))[\[1\]](https://cdn.discordapp.com/attachments/1316804088737960108/1316812565266829433/Discord_m8yEDYqRPR.gif?ex=675c68c4&is=675b1744&hm=07974f8e6e6520e3b3a19e00efde071950f32db267e305006b733316eda3c0e8&)
     -   Prerequisite: 55 Ironsing
 
 -   Oh The Irony \[Common Talent, Ironsing Exclusive\] - Opponents affected by 'Taunt' receive double iron rods for the duration.

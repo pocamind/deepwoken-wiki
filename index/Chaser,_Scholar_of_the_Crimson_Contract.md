@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 128792
+revid: 129537
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, The Divers]
@@ -274,7 +274,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   Due to Chaser's attacks ignoring armor damage resistance, the only additional threat he presents to W Rank players is the doubled damage from Fragile Heart.
 -   Chaser's old laugh used to be the same as the [Duke's](Duke_Ishamon_Erisia.md) but lower pitched and echoed.
 -   According to [Vyrelda](Vyrelda,_Master_of_Blood.md) dialogues, Chaser have his own unique oath variant that created by himself. The oath variant is also perfectly matching with his resonance that can extract the power from effigies of the dead. The stolen bells is the effigies that Chaser used.
--   Chaser tittle **The Scholar of Crimson Contract** gained because of his own unique oath variant that created by himself.
+-   Chaser's title, **The Scholar of Crimson Contract** was gained because of his own unique oath variant that he created by himself.
 
 ## References
 

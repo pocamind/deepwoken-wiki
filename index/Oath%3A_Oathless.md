@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 128963
+revid: 129466
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -59,7 +59,7 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 -   Commonly agreed to be a subpar Oath compared to the other non-stat locked Oaths.
     -   However, being the only Oath to grant +3 Wildcard slots (with others giving only 1 or none) and its solid stats makes Oathless very flexible.
 -   Obtaining Oathless doesn't award the Oathsworn [badge](Badges.md).
--   You can still use [Shrine of Order](Deep_Shrines.md#shrine-of-order) if you have Oathless.
+-   You can still use [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) if you have Oathless.
 -   All of its quest characters are named after cities in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. (These are all colours, Cerulean is blue, Viridian and celadon and blueish greens, and saffron is red.)
 -   Developer intentions behind the design of Oathless have historically been divisive.
     -   Prior to Verse 2, they stated that Oathless was canonically the strongest Oath, though the veracity and exact meaning behind this statement are unclear; the developers are prone to retconning old ideas should they no longer suit their progressing vision of Deepwoken.

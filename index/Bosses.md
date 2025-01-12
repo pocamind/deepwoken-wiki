@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 126122
+revid: 129539
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ _This page is for bosses. For Monster enemies, see [Monsters](Monsters.md). For 
 
 ## Overview
 
-**Bosses** in Deepwoken are powerful [Enemies](Enemies.md) and [Monsters](Monsters.md) that possess heavy backstories and unique abilities. They award Resonance [Progress](Resonance.md), [Knowledge](Knowledge.md), and unique [weapons](Weapons.md) such as the [Forgotten Gladius](Forgotten_Gladius.md) or [Krulian Knife](Krulian_Knife.md).
+**Bosses** in Deepwoken are powerful [Enemies](Enemies.md) and [Monsters](Monsters.md) that possess heavy backstories and unique abilities. They award Resonance [Progress](Resonance.md), [Knowledge](Knowledge.md), and unique [weapons](Weapons.md) such as the [Flareblood Kamas](Flareblood_Kamas.md), [Eye of Malice](Eye_of_Malice.md) or [Chorus of Agonies](Chorus_of_Agonies.md).
 
 The concrete, in-game method of determining if an Enemy/Monster is a **Boss** is whether or not they can be used to obtain [Chain of Perfection](Echoes.md), however every Boss has most, if not all of the secondary criteria below.
 

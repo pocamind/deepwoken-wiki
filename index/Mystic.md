@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 124709
+revid: 129534
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -23,11 +23,11 @@ categories: [NPCs, Talents]
 
 Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For, they will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get mantras or cards from the correlating family of Talents. For example, if you tell them, "My mind is indomitable", you will get [Mental Fortress](Talents.md#mental-fortress) Talents. This interaction could be repeated infinite number of times with sufficient number of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose.
 
--   Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances.
--   Cannot give Rare Talent Cards.
--   CAN give Advanced Talent Cards.
--   Mystics affects mantra rarity (i.e., stars).
--   If a category is comprised entirely of Rare Talent Cards, it will not appear as an option. (EX: Frozen Warrior)
+-   **Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances.**
+-   **Cannot give Rare Talent Cards.**
+-   **CAN give Advanced Talent Cards.**
+-   **Mystics affects mantra rarity (i.e., stars).**
+-   **If a category is comprised entirely of Rare Talent Cards, it will not appear as an option. (EX: Frozen Warrior)**
 
 ## Dialogue
 
@@ -188,7 +188,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _I fight for the Legion. **(Legion Shock Trooper)** (Cyclone Blade, Air Pressure, Hoplite, Pressure Break, Windstep)_
 -   _I am a master of the winds. **(Aeromancer)** (Gale Trap, Aeronade, Vacuum Punch, Suffocating Impact) **(Note; Cannot give Aerogliding, Stifled Jump)**_
 -   _A whisper in the dark. **(Whisper)** (Haunted Gale)_
--   _The song shall be silenced. **(Silencer)** (Silencer's Blade, A World Without Song)_
+-   _The song shall be silenced. **(Silencer)** (A World Without Song)_
 -   _I seek the qualities of Specter. **(Specter)** (Haunted Path: Specter - Apparitions, Phantom Step, Vanishing Wraith, Possession)_
 -   My wind fights for me. _**(Gale Duelist)** (Tempest Wind)_
 

@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 125003
+revid: 129540
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Moonseye]
@@ -16,7 +16,7 @@ File:Linkstrider Place.jpg
 
 The Entropy Catalyst is a location within The Aratel Sea, in an island next to a sea highway and a Luminant gate. It is protected by 2 walls that can be broken through using Mantras that break objects.
 
-This location is Voidzone, meaning that dying here will send you to the Depths. You can find Pristine Lotuses and Erisore here.
+This location is a Voidzone, meaning that dying here will send you to the Depths. You can find Pristine Lotuses and Erisore here.
 
 ## How do I use this?
 

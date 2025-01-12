@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 125212
+revid: 129419
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Deepwoken, Developer Specs]
@@ -157,21 +157,10 @@ Also, more notably, Spookeree permanently has the distinct **Coral Fever** face 
 
 Furthermore, it appears that he has a spec that allows him to "spawn in" [Bandits](Bandit.md) at will, even in the Eastern Luminant, where [Bandits](Bandit_Leader.md) do not naturally spawn. Bandits spawned act as normal NPC's, and can grip, be gripped, and give EXP on death.
 
-  
-
 ### CEOofIsaac / Isaac3523 (Destroyman IV)
 
 The spec doesnt have any functional uses as its meant to be a gift from Synce to Isaac
 
-  
-
-  
-
-  
-
-  
-
-  
 Like Synce, Isaac also has the coral fever face from april 2023
 
 ### Astro\_train / Lorezno Spellhardt, The Gatekeeper
@@ -188,14 +177,7 @@ He also has a spec charisma legendary weapon, name unknown although Agamatsu lea
 
 Nuttoons is cursed with something known as Bewitchment. We only know that this occurred near his birth, and that it does two things: making Stag immortal, and giving him "runes" on his arms that constantly burn and cause pain. The more these runes burn, the more powerful Nuttoons becomes. However, he wears an item known as the [Stag Wraps](Stag_Wraps.md) which stops them from burning (and essentially nerfs Stag). He can also see into the future due to his research in [The Ministry](The_Ministry.md).
 
-  
-
-  
-
-  
 _For more information about Stag Acrossus/Nuttoons, read Stag Acrossus._
-
-  
 
 ## Exclusive Items
 

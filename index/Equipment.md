@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 129296
+revid: 129523
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -12,7 +12,7 @@ _**FOREWORD**: **An up-to-date spreadsheet with the maximum number of stats each
 
 _**FOREWORD: A spreadsheet that can calculate the stats for each pip on each equipment. can be found [\[here\]](https://docs.google.com/spreadsheets/d/1flicSgb8pdMw7DKEdk1erfMZPtOF0YPOwuVveDBk6XY/edit?usp=sharing)**_
 
-An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also providing various benefits. It can be used to improve (or worsen) your character's appearance. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md).
+_An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also providing various benefits. It can be used to improve (or worsen) your character's appearance. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md)._
 
 An example of an item with rolled stats (in beige) and guaranteed stats (in grey)
 
@@ -28,9 +28,7 @@ All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and
 Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to torso, face, ears, and ring equipment with more than **two** pips, and head, arms, and legs equipment with more than **three** pips.
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
-★ = +1 Rare Pip (Head, Arms, and Legs also get +1 HP)  
-★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP)  
-★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP) (Torso, Face, Ears, and Rings cannot be 3 Star)
+★ = +1 Rare Pip (Head, Arms, and Legs also get +1 HP) ★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP) ★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP) (Torso, Face, Ears, and Rings cannot be 3 Star)
 
 However, these pips can be rerolled by using [Armorer's Needle](<Armorer's_Needle.md>) and [Gilded Needle](Gilded_Needle.md).  
 Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).

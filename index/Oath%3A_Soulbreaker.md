@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 129412
+revid: 129547
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Oaths]
@@ -41,6 +41,7 @@ Meet the following requirements in any order:
 Once **all** met, head over to the [Temple Of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 -   Choose the dialogue "For now I am one, but I wish to be three."
+    -   _Note: Despite requiring a Yun'Shul wish to engage with the dialogue, this does not consume a wish._
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/DC24CSyYN98)._
 
@@ -63,17 +64,20 @@ Upon obtainment, you immediately obtain the remaining [Murmurs](Murmur.md) you d
 
 -   **Formless - Ability**
     -   Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.
-        -   Using this while aiming your mouse somewhere in your Tacet bubble will teleport you there after waiting a few seconds.
+        -   Using this while aiming your mouse somewhere in your Tacet bubble will teleport you there after waiting a few seconds. You can also aim at players.
 
 -   **Heart Reverb - Talent Card**
     -   Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
         -   When you stand up after activating Rhythm it won't go away until you activate it again.
         -   If your Rhythm detects a player then it will put a red highlight on them for 8 seconds. This has an unknown cooldown.
+        -   When someone would dodge through one of your attacks, their health and posture will be shown around them in text as a precentage.
 
 -   **Soul Infusion - Talent Card**
     -   Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.
         -   You automatically use Ardour: Scream for free upon finishing an execution
         -   Massively increase the range of Ardour: Scream
+        -   Purple lightning particles are left on knocked players after this talent is proc'd
+        -   You perform grips much faster and have unique grip animation. ( Approximately grip duration is 1.8 seconds which is faster than using [Corrupted Reaper](Blood_Scourge.md) )
 
 -   **Spotter - Talent Card**
     -   When Callout is used in Rhythm, this Talent marks the target for you and your allies to see, allowing your allies to see an estimate of their health.
@@ -81,10 +85,16 @@ Upon obtainment, you immediately obtain the remaining [Murmurs](Murmur.md) you d
 ### Mantra(s)
 
 -   **Ardour Slicer - Combat Mantra**
-    -   N/A
+    -   User launches a projectile similar to Wind Blade.
+    -   Projectile goes really far (~150 studs) and can hit multiple people at once.
+    -   Upon hit, pushes the enemy in the direction of a projectile.
 
 -   **Rhythm Advance - Combat Mantra**
-    -   N/A
+    -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
+    -   Under unknown circumstances, it can hit instantly without winding up.
+    -   On successful hit, shows HP and Posture of enemies you hit
+    -   Provides I-Frames during entire move
+    -   AOE attack, can hit multiple people at once.
 
 -   **Tacet Kick - Combat Mantra**
     -   Similarly to Tacet Drop Kick, the user turns invisible before teleporting to the opponent with the use of tacet and kicking them.

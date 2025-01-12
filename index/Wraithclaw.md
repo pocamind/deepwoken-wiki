@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 121026
+revid: 129508
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]

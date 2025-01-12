@@ -1,6 +1,6 @@
 ---
 title: Shrine of Order
-revid: 98589
+revid: 129521
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Deep Shrines#Shrine of Order](Deep_Shrines.md#shrine-of-order)
+-   [Deep Shrines/Shrine of Order](Deep_Shrines/Shrine_of_Order.md)

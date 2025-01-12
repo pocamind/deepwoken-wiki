@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 128267
+revid: 129529
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Locations]
@@ -18,7 +18,7 @@ What inhuman acts of cruelty were committed here?
 
 Image of The Hall of Shattered Wills.
 
-**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room found somewhere in the Etrean Luminant, [Eastern Luminant](Luminants.md) and [The Depths](The_Depths.md).
+**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room found somewhere in the [Etrean Luminant](Luminants.md), [Eastern Luminant](Luminants.md) and [The Depths](The_Depths.md).
 
 ## Overview
 
@@ -38,19 +38,19 @@ It has some basic functions but merely acts as a safe place for moderators to wo
 -   At the end of the hall, there is a sword in a stone.
 -   Other than being a gallery, this also serves as an arena for Moderators to fight.
 
-## Kindergarden
+### Kindergarden
 
 A place of where the moderators learn..?
 
-\- Do tickets or go to detention
+Do tickets or go to detention
 
-\- A supposed moderator in detention
+A supposed moderator in detention
 
-\- Overview of the Kindergarden
+Overview of the Kindergarden
 
-\- A drawing of HorrorTM on the wall with a speechbubble.
+A drawing of HorrorTM on the wall with a speechbubble.
 
-## **Fishing**
+### Fishing
 
 An area where the moderators can [fish](Fishing.md), however if you fall down into the pit, you get sent down to the [Depths](First_Layer.md)
 
@@ -58,14 +58,20 @@ An area where the moderators can [fish](Fishing.md), however if you fall down in
 
 -   An ordinary kitchen you would find in an office.
 -   A fridge, with 2 signs on it.
+
 -   Motivational posters are hung, all of these reading:
-    -   SELF-WORTH: MY HEAD MAY BE SKINNY AND TALL BUT AT LEAST I'M NOT A FELINOR
 
--   DETERMINATION: DESIRE IS THE KEY TO MOTITVATION, BUT IT'S DETERMINATION AND COMMITMENT TO AN UNRELATING PURSUIT OF YOUR GOAL
+SELF-WORTH  
+MY HEAD MAY BE SKINNY AND TALL BUT AT LEAST I'M NOT A FELINOR
 
--   SURVIVAL: SURVIVAL DEPENDS ON WHAT YOU THINK, NOT WHAT YOU DO
+DETERMINATION  
+DESIRE IS THE KEY TO MOTITVATION, BUT IT'S DETERMINATION AND COMMITMENT TO AN UNRELATING PURSUIT OF YOUR GOAL
 
--   MINDFULNESS - unreadable
+SURVIVAL  
+SURVIVAL DEPENDS ON WHAT YOU THINK, NOT WHAT YOU DO
+
+**Mindfulness..**  
+or something
 
 -   There is also a "Coffee Machine", which is actually bags of blood connecting to a jar.
 -   A microwave acting as an interactable campfire.
@@ -84,7 +90,7 @@ An area where the moderators can [fish](Fishing.md), however if you fall down in
 
 -   A room with interactable plaques of [Deep Shrines](Deep_Shrines.md) across the wall, labelled accordingly.
 -   Consumes knowledge as any normal shrine would.
--   Contains a [mystic](Mystic.md).
+-   Contains a [Mystic](Mystic.md).
 
 ### HorribleTM
 
