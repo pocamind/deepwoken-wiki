@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 128592
+revid: 129599
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths]
@@ -34,9 +34,8 @@ _"Isolate or hide away."_
 
 _"The state or feeling of being actively opposed or hostile to someone or something."_
 
--   The Voice of Enmity is highly aggressive towards the players. They are highly sadistic and it sees higher level players "fit for crushing". It enjoys the scene of players being attacked by the monsters of the trial.
+-   The Voice of Enmity is highly aggressive towards the players. They are highly sadistic and it sees higher level players "fit for crushing". It enjoys the scene of players being attacked by the monsters of the trial, hoping that the players will be killed.
 -   When multiple players try to escape The Depths together, it decides that the players deserve true punishment, [coming down personally](Heart_of_Enmity.md) to punish the players for their folly.
--   It enjoys the scene of players being attacked by the monsters of the trial, hoping that the players will be killed.
 
 ### Voice of Authority
 

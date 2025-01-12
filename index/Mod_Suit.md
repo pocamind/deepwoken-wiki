@@ -1,6 +1,6 @@
 ---
 title: Mod Suit
-revid: 127146
+revid: 129602
 source: https://deepwoken.fandom.com/wiki/Mod_Suit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Armors, Items, Outfits, Unique Outfits, Exclusive Outfits]
@@ -34,6 +34,5 @@ Purchased from the Mod Shop.
 
 -   The suit was created by ROBLOX user [R0bustic](https://www.roblox.com/users/34919504/profile).
     -   The top piece can be bought [here](https://www.roblox.com/catalog/15563656332/modsuit-no-tie-v2), while the pants can be bought [here](https://www.roblox.com/catalog/15502133215/modsuit-pants).
-
--   The feminine alternative to this outfit is the [Mod Skirt](Mod_Skirt.md).
-    -   Unlike the [Martial Artist](Martial_Artist.md) outfit however, it is a separate schematic from the skirt.
+-   The feminine alternative to this Outfit is the [Mod Skirt](Mod_Skirt.md).
+    -   Unlike the [Martial Artist](Martial_Artist.md) Outfit however, it is a separate schematic from the skirt.

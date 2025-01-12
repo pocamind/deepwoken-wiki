@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 129547
+revid: 129628
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Oaths]
@@ -31,8 +31,8 @@ Soulbreaker is a result of a Vow made with [Shrine of Yun'Shul, Keeper of Hearts
 
 Meet the following requirements in any order:
 
--   Have at least 50 points combined into Willpower and Charisma, such as 25 Willpower and 25 Charisma or 0 Willpower and 50 Charisma (You can have more than 50 in these two stats).
--   Have high reputation (above Ally) with [Etrea](Etrea.md).
+-   Have at least 50 points combined into Willpower and Charisma, example, 25 Willpower and 25 Charisma or 0 Willpower and 50 Charisma.
+-   Have hero reputation with [Etrea](Etrea.md).
 -   Have a [Resonance](Resonance.md).
 -   Have any [Murmur](Murmur.md).
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (You need hero reputation)
@@ -51,9 +51,7 @@ This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md
 
 ## Effects
 
-**Oath: Soulbreaker** grants 2 Combat Mantra Slots and 1 Mobility Mantra slot.
-
-Upon obtainment, you immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their talent upgrade (if any) regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving talents).
+Upon obtainment, you immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their talent upgrade (if any) regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving talents), the oath grants 2 Combat Mantra Slots and 1 Mobility Mantra slot. The user gains a "Soulbreaker's Mantle" 2 rings of purple-ish white energy. Activating Ardour will make the user's weapon emit purple electric-like particles.
 
 ## Abilities
 
@@ -77,7 +75,7 @@ Upon obtainment, you immediately obtain the remaining [Murmurs](Murmur.md) you d
         -   You automatically use Ardour: Scream for free upon finishing an execution
         -   Massively increase the range of Ardour: Scream
         -   Purple lightning particles are left on knocked players after this talent is proc'd
-        -   You perform grips much faster and have unique grip animation. ( Approximately grip duration is 1.8 seconds which is faster than using [Corrupted Reaper](Blood_Scourge.md) )
+        -   You perform grips much faster and have unique grip animation. ( Approximately grip duration is 1.8 seconds which is faster than using [Reaper](Blood_Scourge.md) )
 
 -   **Spotter - Talent Card**
     -   When Callout is used in Rhythm, this Talent marks the target for you and your allies to see, allowing your allies to see an estimate of their health.
@@ -100,8 +98,17 @@ Upon obtainment, you immediately obtain the remaining [Murmurs](Murmur.md) you d
     -   Similarly to Tacet Drop Kick, the user turns invisible before teleporting to the opponent with the use of tacet and kicking them.
     -   **May be** useful for catching players.
 
+## Version History
+
+January 12th 2025
+
+-   Broken mantras fixed (Rhythm Advance, Ardour Blade)
+
+January 11th 2025
+
+-   Added to the game.
+
 ## Trivia
 
 -   It is rumored that the [True King of Etrea](https://deepwoken.fandom.com/wiki/Lore#The_King_of_Etrea) swore by this Oath.
--   It was added on the 01/11/25 update of Deepwoken.
 -   Despite the obtainment being related to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) does not give an option to swear the oath. (needs more testing)
