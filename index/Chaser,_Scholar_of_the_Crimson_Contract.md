@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 129537
+revid: 129642
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, The Divers]
@@ -265,7 +265,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten at any point in game.
 -   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, then despawns.
 -   According to ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[6\]](#cite-note-6)
--   Chaser does not spawn if: The generator is not powered on or if the Bounder nest has not been triggered or if the mystery key hasn't been taken/resonance door opened.
+-   Chaser does not spawn if: The generator is not powered on, if the Bounder nest has not been triggered, or if one of the two doors at spawn has not been opened.
 -   Much like the Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
 -   Chaser had two name changes. At first, his name was changed from "Chaser, Scholar of the Crimson Contract" to "Chaser, Scholar of the Burning Blood". In September 2024 it was changed back to "Chaser, Scholar of the Crimson Contract".
 -   His hair ID is 77799954 & the beard ID is 4995497755

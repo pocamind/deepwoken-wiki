@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 129383
+revid: 129671
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, The Hundred Legions]
@@ -49,4 +49,5 @@ If running and using a critical attack thrust forward once, firing a light spear
 ## Trivia
 
 -   The Imperator's Edge has the highest stat requirement in the game, with 240 total points.
+-   It has the highest range in the game, with 11 range. (excluding guns)
 -   This weapon might be inspired by God of War: Ragnarök's free DLC, Valhalla. The appearance of the spear resembles Tyr's spear and somewhat the level 3 of the Draupnir Spear. However, the standing critical of the Imperator's Edge seems to be based on a Light Runic Attack belonging to Draupnir; "Thrust of a Thousand Soldiers," although with much less stabs. On the other hand, the running critical does not seem to be based on any attack, Runic, or even any attack performed by Tyr. (The closest thing it can be compared to is an attack where Tyr throws his spear, which then explodes, but I only say that because its his only projectile with his spear)

@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 128572
+revid: 129650
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Merchant Robes** is a Starter [Outfit](Outfits.md) in _De
 
 ### _Requirements_
 
-This Outfit costs and requires requires five (5) pieces of Cloth and Fiber.
+This Outfit costs and requires five (5) pieces of Cloth and Fiber.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 

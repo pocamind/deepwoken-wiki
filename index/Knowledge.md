@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 129464
+revid: 129687
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -26,9 +26,7 @@ With the advent of **_Verse 2_**, these acts are left in the past. One can now t
 
 ## Overview
 
-_**Knowledge is a new feature introduced in the** **[Verse 2](Version_History/2026.md) update.**_
-
-Knowledge is a special in-game currency that can be used to engage in a deals with various [Deep Shrines](Deep_Shrines.md) and the deity known as [Misérables](Misérables.md). Its function serves similar to [Notes](Notes.md) in the sense that you can purchase various things to help benefit your character in specific ways; however, Knowledge-related services reap much higher benefits for the player, such as gaining the ability to reroll your bell again—at the cost of a higher degree of involvement for obtainment of the currency itself.
+Knowledge is a special in-game currency that can be used to engage in a deals with various [Deep Shrines](Deep_Shrines.md) and the deity known as [Misérables](Misérables.md). Its function serves similar to [Notes](Notes.md) in the sense that you can purchase various things to help benefit your character in specific ways; however, Knowledge-related services reap much higher benefits for the player, such as gaining the ability to reroll your bell again.
 
 ### Ways of Obtaining Knowledge
 

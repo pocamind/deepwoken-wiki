@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 129523
+revid: 129653
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1874,7 +1874,7 @@ _+2 Posture_
 
 +3 Legendary Pips
 
-**Requires Power 15, Fortitude 10**
+**Requires Power 13, Fortitude 10**
 
  | 
 
@@ -3403,7 +3403,7 @@ _+7 Health_
 
 _+Talent: Overflowing Dam_
 
-**Requires Power 16, Intelligence 5**
+**Requires Power 13, Intelligence 5**
 
  | 
 

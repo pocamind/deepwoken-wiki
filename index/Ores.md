@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 129625
+revid: 129677
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -16,7 +16,7 @@ categories: [Items, Harvestables]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | ??? |
+| desc | What description do you want for this? It's a rock. |
 
 | Coal | |
 |---|---|

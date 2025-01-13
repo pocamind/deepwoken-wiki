@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 125038
+revid: 129632
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

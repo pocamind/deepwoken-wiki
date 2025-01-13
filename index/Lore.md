@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 129451
+revid: 129639
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1355,6 +1355,7 @@ _"The stars call you back..."_
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
 -   Eating parts of them turns you into a Starkindred.
+    -   This is most likely that specific Celestial that make you a starkindred as it is the only celestial we see in game and interact with
 
 ### Primal Vesperians
 

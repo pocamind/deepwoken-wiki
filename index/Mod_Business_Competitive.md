@@ -1,33 +1,29 @@
 ---
-title: White Mod Suit
-revid: 129657
-source: https://deepwoken.fandom.com/wiki/White_Mod_Suit
+title: Mod Business Competitive
+revid: 129658
+source: https://deepwoken.fandom.com/wiki/Mod_Business_Competitive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Spec/Mod Outfits]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
 
-# White Mod Suit
+# Mod Business Competitive
 
-Template:ArmorInfobox**White Mod Suit** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Mod Business Competitive** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires nothing.
+This Outfit costs and requires five (5) pieces of Cloth and Fiber.
 
 This Outfit has no [Power Level](Talents.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 100 durability.
+This Outfit has 1000 durability.
 
 ## Location
 
 Purchased from the Mod Shop.
-
-## Trivia
-
--   Inspired by [Kazuma Kiryu'](https://yakuza.fandom.com/wiki/Kazuma_Kiryu)s iconic white and red suit from the [Yakuza/Like a Dragon](<https://en.wikipedia.org/wiki/Yakuza_(franchise)>) series.

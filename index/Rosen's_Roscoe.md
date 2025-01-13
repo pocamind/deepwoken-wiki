@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 128081
+revid: 129660
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Summer Company]
@@ -33,7 +33,7 @@ Can be found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Even
 
 ## Trivia
 
--   The gun's model is similar to a standard Colt navy revolver.
+-   The gun's model is similar to a Remington 1858 revolver.
 -   Second fastest pistol in the game in terms of swing speed.
 -   The weapon is also called 'big iron' in the campfire menu.
 -   Along with the [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) and [Iron Requiem](Iron_Requiem.md), these are the only three flintlocks in the game to have a unique sound effect on M1/crit.

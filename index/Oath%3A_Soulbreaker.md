@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 129628
+revid: 129638
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Oaths]
@@ -89,7 +89,7 @@ Upon obtainment, you immediately obtain the remaining [Murmurs](Murmur.md) you d
 
 -   **Rhythm Advance - Combat Mantra**
     -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
-    -   Under unknown circumstances, it can hit instantly without winding up.
+    -   Upon using m1 after cast, it can hit instantly without winding up.
     -   On successful hit, shows HP and Posture of enemies you hit
     -   Provides I-Frames during entire move
     -   AOE attack, can hit multiple people at once.
