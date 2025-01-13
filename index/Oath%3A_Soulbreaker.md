@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 129638
+revid: 129714
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Oaths]
@@ -35,6 +35,7 @@ Meet the following requirements in any order:
 -   Have hero reputation with [Etrea](Etrea.md).
 -   Have a [Resonance](Resonance.md).
 -   Have any [Murmur](Murmur.md).
+-   Have atleast one Yun Shul wish.
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (You need hero reputation)
 -   Talk to [Bookkeep Andros](Bookkeeper_Andros.md) about the Kings Ardour.
 

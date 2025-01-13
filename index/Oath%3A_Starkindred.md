@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 128968
+revid: 129773
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -95,6 +95,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   According to an NPC named Ezra in Songseeker Wilds, Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain; they also have a long history of bloodshed in the name of their faith.
     -   This "history of bloodshed" is elaborated on by the existence of the [Pale Briar](Pale_Briar.md).
 -   This Oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.
+-   The Oath's icon resembles the Suncross (also known as the Sun, as opposed to the Moonseye being the Moon)
 -   The wings will occasionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, and air dash will still behave as if the wings are active until the duration actually ends.
 -   Stratus Stones and Cloudstones cannot affect Starkindred mantras such as Fire Blade variant and Sinister Halo.
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.

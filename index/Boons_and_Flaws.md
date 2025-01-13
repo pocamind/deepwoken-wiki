@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 127755
+revid: 129788
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -14,11 +14,11 @@ They are modifiers that effect gameplay in various ways, including vital core me
 
 Boons are positive and helpful effects. They usually have less of an impact than Flaws, though. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Boons able to be equipped.
 
-Flaws can be rerolled by talking to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and selecting the 2nd option, "**My flaws weigh me down too much, I wish for relief.**" this dialogue only appears once, even if you bargain with [Misérables](Misérables.md) for another wish.
+Flaws can be rerolled by talking to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and selecting the 2nd option, "**My flaws weigh me down too much, I wish for relief.**" this dialogue only appears once, even if you bargain with [Misérables](Misérables.md) for another wish.
 
-Alternatively, the [Shrine of Blasphemy](https://deepwoken.fandom.com/wiki/Deep_Shrines#Shrine_of_Blasphemy) will reroll a flaw of your choice for 5 [knowledge](Knowledge.md) given that you are above power 17. This is a much better alternative to wasting a wish with [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+Alternatively, the [Shrine of Blasphemy](https://deepwoken.fandom.com/wiki/Deep_Shrines#Shrine_of_Blasphemy) will reroll a flaw of your choice for 5 [Knowledge](Knowledge.md) given that you are above power 17. This is a much better alternative to wasting a wish with the Shrine of Yun'Shul.
 
-**Boons:**
+## Boons
 
 Boons are positive and helpful effects. They usually have less of an impact than Flaws, though. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Boons able to be equipped.
 
@@ -164,7 +164,7 @@ Unlocked from paying off your negative reputation with any faction.
 
  |
 
-**Flaws:**
+## Flaws
 
 Flaws are negative and harmful effects. They usually have more of an impact than Boons. Picking more Flaws allows more Boons to be picked.
 
@@ -264,7 +264,7 @@ _"You cannot see."_
 
  | 
 
-You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. This flaw does not provide protection from flame blind and gaze.
+You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. This flaw does not provide protection from Flame Blind and Gaze.
 
 -   Gremor's who are blind see better than others, being blessed by Navae.
 

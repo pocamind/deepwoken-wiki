@@ -1,18 +1,18 @@
 ---
 title: Attunements
-revid: 129498
+revid: 129868
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Mantras, Mechanics]
+categories: [In progress without reason, InProgressPages, Pages with broken file links, Character, Mantras, Mechanics]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Attunements
 
 **Attunements** are forms of magic that the player can choose on Character Creation or obtain in the game through [Trainers](Attunement_Trainers.md).
 
-**IMPORTANT NOTE:** _For those learning about [Shrine of Order](Deep_Shrines/Shrine_of_Order.md),_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. Unlike other stats, they have no "bottom-limit" - where, for example, a 65 investment in Agility when influenced by Shrine of Order can lose a maximum of 25 points to become a 40 investment instead. They can lose an unlimited amount of points, reminiscent of the old behavior of Shrine of Order._
-
-  
+**IMPORTANT NOTE:** _For those learning about [Shrine of Order](Deep_Shrines/Shrine_of_Order.md),_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. Unlike other stats, they have no "bottom-limit" - where, for example, a 65 investment in Agility when influenced by Shrine of Order can lose a maximum of 25 points to become a 40 investment instead. They can lose an unlimited amount of points, reminiscent of the old behavior of Shrine of Order._  
 
 ## Overview
 
@@ -53,9 +53,9 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 
 Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation, then wiping and doing it again.
 
-Attunement-less
+[Attunement-less](Attunement-less.md)
 
-Attunement-less⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Attunement-less](Attunement-less.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Flamecharm](Flamecharm.md)
 
@@ -81,15 +81,15 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 
 [Shadowcast](Shadowcast.md)
 
-Shadowcast⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Shadowcast](Shadowcast.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-Ironsing
+[Ironsing](Ironsing.md)
 
-Ironsing⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-Bloodrend
+[Bloodrend](Bloodrend.md)
 
-Bloodrend⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Bloodrend](Bloodrend.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
@@ -105,61 +105,59 @@ Bloodrend⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 All of the icons above are undoubtedly official representations of their base attunements, as seen from the in-game [Character Creation](Character_Creation.md) screen. This status also applies to the "Random" selection. However, many [Talents](Talents.md) offer "Paths" which act either as alternatives to an attunement's base behavior or blend such of two different attunements into one hybrid path, not to mention other Talents that change an attunement's appearance. There exist icons for each of these Talents, found on this wiki or other locations, but the officiality of these are uncertain, largely due to their lack of uniformity. This section exists to list all of these more miscellaneous icons in one place.
 
-[Text](Announcements.md)
+[Attunement](Attunements.md)
 
-[Text](Announcements.md) 
+[Attunement](Attunements.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
 ### Alternative Paths
 
-Text
+[Flamecharm](Flamecharm.md)
 
-Text 
+[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-Text
+[Frostdraw](Frostdraw.md)
 
-Text 
+[Frostdraw](Frostdraw.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-Text
+[Thundercall](Thundercall.md)
 
-Text 
+[Thundercall](Thundercall.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+Galebreath
+
+Galebreath⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
-Text
+[Ironsing](Ironsing.md)
 
-Text 
-
-Text
-
-Text 
+[Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
 ### Hybrid Paths
 
-Text
+[Ironsing](Ironsing.md)
 
-Text 
-
-  
+[Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
 ### Non-Path Talents
 
-Text
+[Flamecharm](Flamecharm.md)
 
-Text 
+[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
 ### Non-Path Hybrid Talents
 
-Text
+Flamecharm
 
-Text 
+[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
@@ -175,3 +173,4 @@ Text 
 -   There is a misconception that Lightkeeping is a magic similar to Attunements, and the only reason it isn't in the game is arbitrary lore. In reality, Lightkeeping is more akin to a [Regalia](Regalia.md), and has no real combat application. The closest thing to light magic with a combat application is the [Dawnwalker Oath](Oath%253A_Dawnwalker.md).
 -   In the 25th of October Update, "ELE" and "LFE" were added to the attunement portion of the build exporter.
     -   The next day, "ELE" was changed to "BLD".
+-   The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't.

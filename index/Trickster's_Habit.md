@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 127154
+revid: 129715
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -33,4 +33,4 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   Worn by [Tillian](Tillian.md) during the Carnival of Hearts.
--   This outfit shares identical stats with [Tillian's](Tillian.md) sister [Aelita's](Aelita.md) outfit the [Jester's Garb](<Jester's_Garb.md>).
+-   This outfit shares identical stats with [Tillian's](Tillian.md) sister [Aelita's](Aelita.md) outfit: "the [Jester's Garb](<Jester's_Garb.md>)."

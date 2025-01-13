@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 127201
+revid: 129719
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement]
@@ -22,7 +22,7 @@ If you get the message "I've learnt what I can from training right now, I should
 
 Training an attribute or attunement to 75 will prevent you from training it further and the message "I've hit a wall in my training... Maybe there's some way to break it?" will appear when attempting to. This is a hint towards [unbounding the attribute](Attributes_Unbound.md), which allows more points to be invested past 75.
 
-The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to get them with the intent to obtain Saintsworn, you most likely won't.
+The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't.
 
 ## [Attribute](Attributes.md) Training Gears
 

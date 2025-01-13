@@ -1,6 +1,6 @@
 ---
 title: "Hive Greatlord's Royal Adornment"
-revid: 125081
+revid: 129741
 source: https://deepwoken.fandom.com/wiki/Hive_Greatlord's_Royal_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Hats, Developer Spec, Items]

@@ -1,6 +1,6 @@
 ---
 title: Moonseye Scalpel
-revid: 120253
+revid: 129764
 source: https://deepwoken.fandom.com/wiki/Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons, Developer Spec, Moonseye]
@@ -29,6 +29,8 @@ notices:
 | pass down | Yes |
 | obtainment | Fort Merit, The Depths, Deep Widow, Starswept Valley, Chime of Conflict, Fishing (all formerly) |
 | description | Congratulations! You've won the Rifle Spear lottery. |
+
+_This page is for the publicly released version of the Moonseye Scalpel. For the Developer Spec version, see [Carrion's Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)._
 
 ## Description
 

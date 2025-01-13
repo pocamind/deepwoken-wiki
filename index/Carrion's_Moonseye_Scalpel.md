@@ -1,6 +1,6 @@
 ---
 title: "Carrion's Moonseye Scalpel"
-revid: 125071
+revid: 129778
 source: https://deepwoken.fandom.com/wiki/Carrion's_Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -31,9 +31,11 @@ notices:
 | obtainment | Exclusive Weapons |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
+_This page is for the Developer Spec version of the Moonseye Scalpel. For the publicly released (and later cut) version, see [Moonseye Scalpel](Moonseye_Scalpel.md)._
+
 ## Description
 
-A stats changed [Rifle Spear](Rifle_Spear.md) made specifically and only for [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md).
+A stat changed [Rifle Spear](Rifle_Spear.md) made specifically and only for [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md).
 
 ## Critical
 
@@ -43,5 +45,3 @@ The user aims down sights and shoots the spear, unleashing a blast in front. If 
 
 -   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_, the original model being a direct copy.
 -   Accidentally made obtainable on release but was reverted back to a normal Rifle Spear in Version PV\_JAN\_19\_22:13.
-    
-    If your moonseye scalpel was in the bank at the time of the revert then it remained untouched (see the version)

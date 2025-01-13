@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 127727
+revid: 129703
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2, Currency]
@@ -33,7 +33,7 @@ The limit of on-hand Medallions a player can have is 250. **The currency is boun
 
 Kyrsan Medallions can be exchanged for lots of services, crucial for the end-game as well as the Dawnwalker [Oath](Oaths.md). In order to use your Medallions, talk to **Klaris Llfiend, Mother of the Lights** in Castle Light. She is the same NPC that teleports you to Layer 2. If you have any Medallions, she will have an additional dialogue option that states: "What do you have to offer?" - clicking on this option opens the Kyrsan Medallions shop:
 
-1.  [Knowledge](Knowledge.md) \[5 Medallions\] - Gives you five knowledge points.
+1.  [Knowledge](Knowledge.md) \[1 Medallion\] - Gives you five knowledge points.
 2.  [Enchant Stone](Enchant_Stone.md) \[5 Medallions\] - Gives you an enchant stone engraved with a random enchant that can be used to enchant your current weapon.
 3.  [Enchant Grease](Enchant_Grease.md) \[5 Medallions\] - Gives you an enchant grease engraved with a random enchant that can be used to enchant any of your currently equipped [Equipment](Equipment.md).
 4.  [Equipment Dye](Dye_Packet.md) \[1 Medallion\] - Gives you an item that allows you to dye one of your armor pieces, your Bell, your Oath colors or your Hairs. To remove dye talk to barber

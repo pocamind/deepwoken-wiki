@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 127153
+revid: 129716
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -33,4 +33,4 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   Worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
--   This outfit shares identical stats with [Aelita's](Aelita.md) brother [Tillian's](Tillian.md) outfit the [Trickster's Habit](<Trickster's_Habit.md>).
+-   This outfit shares identical stats with [Aelita's](Aelita.md) brother [Tillian's](Tillian.md) outfit: "the [Trickster's Habit](<Trickster's_Habit.md>)."
