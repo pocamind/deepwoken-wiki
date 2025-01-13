@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 124621
+revid: 129923
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -30,9 +30,9 @@ Upon your first character customization, you can either choose an [Attunement](A
 
 To obtain the [Shadowcast](Shadowcast.md), and [Ironsing](Ironsing.md) Attunements, you need to unlock them each with their own specific quest. Once unlocked, it will save on your slot as a permanent progression among all your characters on that account, and will be selectable as an Attunement option for future character slots.
 
-Attunement-less
+[Attunement-less](Attunement-less.md)
 
-Attunement-less 
+[Attunement-less](Attunement-less.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 [Attunement](Attunements.md)
 
@@ -62,15 +62,15 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 
 [Shadowcast](Shadowcast.md)
 
-Shadowcast⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Shadowcast](Shadowcast.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-Ironsing
+[Ironsing](Ironsing.md)
 
-Ironsing⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-Bloodrend
+[Bloodrend](Bloodrend.md)
 
-Bloodrend⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Bloodrend](Bloodrend.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 _\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_

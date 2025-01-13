@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 126669
+revid: 129964
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -147,6 +147,7 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
     -   Prior to the October 11th 2024 update, Mudskipper Broodlords could see through walls, as well as behind themselves. Clickers are known for their hearing.
 -   They have 15,000 health when corrupted - the exact same amount of health Duke has.
 -   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move.
+-   During one update in December, the Mudskipper Broodlord was nerfed decreasing it's normal attack damage to deal less and making them unable to stack their attacks on you which shreds your healthpoints, making them generally easier to fight in a 1v4 scenario if you're running a PvE build, these nerfs were given in exchange for it's screech giving more insanity which can actually benefit the player if they have the [Lose your Mind](Talents.md) talent card.
 
 ## Navigation
 

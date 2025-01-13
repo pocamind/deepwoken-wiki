@@ -1,9 +1,9 @@
 ---
 title: Bloodrend
-revid: 128432
+revid: 129920
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Attunement]
+categories: [Attunement]
 ---
 
 # Bloodrend
@@ -11,8 +11,6 @@ categories: [Pages with broken file links, Attunement]
 “ Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet... But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even willing to share what they know of the mysteries of Blood? ”
 
 ― ???
-
-File:BloodrendIcon2.png
 
 Bloodrend Icon
 
@@ -310,8 +308,6 @@ _**"I obtained the forbidden knowledge of Bloodrending."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Bloodrend.icon.png
-
  | 
 
 Bloodrender  
@@ -327,8 +323,6 @@ Blood poisoning is a translucent red visual effect on your blood bar.
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -346,8 +340,6 @@ N/A
  |
 | 
 
-File:Bloodrend.icon.png
-
  | 
 
 Expert Bloodrender  
@@ -363,8 +355,6 @@ N/A
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -382,8 +372,6 @@ You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25
  |
 | 
 
-File:Bloodrend.icon.png
-
  | 
 
 Crimson Fountain  
@@ -399,8 +387,6 @@ N/A
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -418,8 +404,6 @@ N/A
  |
 | 
 
-File:Bloodrend.icon.png
-
  | 
 
 Hemorrhaging Blow  
@@ -435,8 +419,6 @@ The damage to healing conversion is 1:1. This applies to **all** (non passive) h
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -454,8 +436,6 @@ Gives you a tool that passively drains your blood and health for these buffs. Wh
  |
 | 
 
-File:Bloodrend.icon.png
-
  | 
 
 Sanguine Siphon  
@@ -471,8 +451,6 @@ The damage buff is 20%, and the buff lasts 15 seconds or until you use a Bloodre
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -497,8 +475,6 @@ _**"The scent of my enemy is still fresh."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Bloodrend.icon.png
-
  | 
 
 Bloodwarden's Sense  
@@ -514,8 +490,6 @@ N/A
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -540,8 +514,6 @@ _**"I wish to share my blood with the world."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Bloodrend.icon.png
-
  | 
 
 Blood Bank  
@@ -558,8 +530,6 @@ Consuming Charm via Manipulator or Donation drive gives temporary health.
  |
 | 
 
-File:Bloodrend.icon.png
-
  | 
 
 Donation Drive  
@@ -575,8 +545,6 @@ Manipulator will activate when block breaking with a Bloodrend mantra. Consuming
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -601,8 +569,6 @@ _**"I have sewn insidious poison within my enemy's blood."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Bloodrend.icon.png
-
  | 
 
 Gruesome Harvest  
@@ -618,8 +584,6 @@ Landing Bloodrend mantras on opponents with over 70% blood poison will give you 
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -637,8 +601,6 @@ This applies to people who are currently at or above 25% blood poisoning. Additi
  |
 | 
 
-File:Bloodrend.icon.png
-
  | 
 
 Hemolytic Transfusion  
@@ -654,8 +616,6 @@ N/A
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -673,8 +633,6 @@ N/A
  |
 | 
 
-File:Bloodrend.icon.png
-
  | 
 
 Panacea  
@@ -691,8 +649,6 @@ N/A
  |
 | 
 
-File:Bloodrend.icon.png
-
  | 
 
 Tainted Ground  
@@ -708,8 +664,6 @@ N/A
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -734,8 +688,6 @@ _**"I use my blood's plasma to better defend myself."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Bloodrend.icon.png
-
  | 
 
 Sow and Mend  
@@ -751,8 +703,6 @@ Sacrifice 15% of your blood to gain ~5% of your current health as temporary heal
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -770,8 +720,6 @@ This can be procced even if you currently have no temporary health, putting it o
  |
 | 
 
-File:Bloodrend.icon.png
-
  | 
 
 Embolism  
@@ -787,8 +735,6 @@ N/A
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -813,8 +759,6 @@ _**"My cure is most effective."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Bloodrend.icon.png
-
  | 
 
 Blood Bag  
@@ -830,8 +774,6 @@ N/A
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 
@@ -849,8 +791,6 @@ This works on all negative status effects, including elemental ones.
  |
 | 
 
-File:Bloodrend.icon.png
-
  | 
 
 Just a Taste  
@@ -866,8 +806,6 @@ N/A
 
  |
 | 
-
-File:Bloodrend.icon.png
 
  | 
 

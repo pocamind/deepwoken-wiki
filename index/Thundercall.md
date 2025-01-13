@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 128752
+revid: 129902
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -565,8 +565,6 @@ _**"I work for the Authority."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Resolve crusher.png
-
  | 
 
 Resolve Crusher  
@@ -787,8 +785,6 @@ N/A
  |
 | 
 
-File:Static Ace.png
-
  | 
 
 Static Ace  
@@ -804,8 +800,6 @@ N/A
 
  |
 | 
-
-File:Static Allure.png
 
  | 
 
@@ -940,8 +934,6 @@ Every 3 perfect casted lightning mantra builds a stack at 3 stacks your next lig
  |
 | 
 
-File:Static-assets-upload2268134233810269473.png
-
  | 
 
 Rain of Static  
@@ -965,8 +957,6 @@ _**"I seek to embrace the instability of lightning as a source of power."**_
 | Media | Talents | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Thunder2.png
-
  | 
 
 Surge Path: Unstable Capacitor  
@@ -985,8 +975,6 @@ Surge Overload deals 2.5 damage with 5 Thundercall scaling per Surge stack and h
  |
 | 
 
-File:Thunder2.png
-
  | 
 
 Fried Circuits  
@@ -1002,8 +990,6 @@ Sapped effect causes the duration of mantra cooldowns to increase.
 
  |
 | 
-
-File:Thunder2.png
 
  | 
 
@@ -1021,8 +1007,6 @@ Adds 5 damage with 5 Thundercall scaling to the Overload.
  |
 | 
 
-File:Thunder2.png
-
  | 
 
 Catalytic Strike  
@@ -1038,8 +1022,6 @@ N/A
 
  |
 | 
-
-File:Thunder2.png
 
  | 
 

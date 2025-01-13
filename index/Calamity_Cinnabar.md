@@ -1,6 +1,6 @@
 ---
 title: Calamity Cinnabar
-revid: 125067
+revid: 129941
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greatswords]
@@ -51,4 +51,4 @@ The user goes in a pride stance with their sword facing down, and releases an AO
 
 ## Trivia
 
--   This weapon was rewarded to the second place winner of the Deepwoken Thumbnail Art Contest.
+-   This weapon was awarded to the second place winner of the Deepwoken Thumbnail Art Contest.

@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 125194
+revid: 129973
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -30,7 +30,7 @@ These bullets give a 10% PEN bonus, because they are considered normal bullets, 
 
 **Gold:**
 
-The Bullet will slow down the target on hit, however at a downside of dealing 20% less damage and the speed of the bullet being reduced.
+The Bullet will slow down the target on hit (Bugged), however at a downside of dealing 20% less damage (Still applies) and the speed of the bullet being reduced (Bugged).
 
 **Umbrite:**
 
@@ -42,13 +42,13 @@ The Bullet will apply a 50% anti-heal on hit, however at a downside of the damag
 
 **Irithine:**
 
-The Bullet will apply poison(?) on hit, however at a downside of the damage being reduced by 20%.
+The Bullet will apply poison(?) on hit (Currently bugged), however at a downside of the damage being reduced by 20% (Still applies).
 
 ## Trivia
 
 -   Coal, rock, iron and astruline, these four minerals are not compatible with bullets and cannot be used to encase them.
 -   [Stormeye's](Stormseye.md) and [Rosen's Hellflames's](<Rosen's_Hellflame.md>) shots can use encased bullets.
 -   Right now the only bullets that work are iron, erisore and umbrite.
--   Gold and irithine bullets are bugged and do not apply their supposed buff, however they still reduce the bullet's damage.
+-   Gold and irithine bullets are bugged and do not apply their supposed buff, however they still reduce the bullet's damage (In the case of gold bullets, the slower bullets are bugged and do not apply).
 -   Erisore's bullets seem to simply apply the same effect as the [Ring of Pestilence](https://deepwoken.fandom.com/wiki/Equipment#Rings), so it's more advisable to use the ring and avoid the damage reduction.
 -   The effects of minerals on bullets actually only apply to the "explosion" of the shot and not the projectile, this ironically makes using encased bullets more convenient in rifles and 2H pistols than 1H pistols...

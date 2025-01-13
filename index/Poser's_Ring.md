@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 128759
+revid: 129877
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings]
@@ -33,6 +33,7 @@ While using a Katana, the Poser's Ring makes it so that your Katana's attacks an
 
 -   The Poser's Ring can be used with either the Katana, Alloyed Katana or the Shattered Katana
 -   Mantras are useable with Poser's Ring.
+-   The Poser's Ring is NOT bankable, similar to a Diver's Light Plate.
 -   It cannot be dropped as it will be soulbounded to your character.
 -   The Poser Ring sheathe damage cannot be parried or nullified in any way.
 -   Damage from the Poser's Ring sheathe cannot exceed 70% of a Player's Max Health.

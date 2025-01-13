@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 129535
+revid: 129928
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses]
@@ -149,8 +149,6 @@ Dodgeable:◯
 **Debris**  
 
  | The Scion summons 1 Kyrsgarde Sniper on up to 9 Shrines, these have greatly reduced health and stats and are unable to move. These only serve to heal you in the fight via killing them. This move will only be used after Ethiron has been stunned once | 
-
-File:Kyrsgarde Summon.gif
 
  |
 

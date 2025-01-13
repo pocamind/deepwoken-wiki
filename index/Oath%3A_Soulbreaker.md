@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 129714
+revid: 129950
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Oaths]
@@ -52,7 +52,9 @@ This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md
 
 ## Effects
 
-Upon obtainment, you immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their talent upgrade (if any) regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving talents), the oath grants 2 Combat Mantra Slots and 1 Mobility Mantra slot. The user gains a "Soulbreaker's Mantle" 2 rings of purple-ish white energy. Activating Ardour will make the user's weapon emit purple electric-like particles.
+This oath grants 2 Combat Mantra Slots and 1 Mobility Mantra slot.
+
+You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their talent upgrade (if any) regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving talents). The user gains a "Soulbreaker's Mantle" 2 rings of purple-ish white energy. Activating Ardour will make the user's weapon emit purple electric-like particles.
 
 ## Abilities
 

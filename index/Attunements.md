@@ -1,11 +1,9 @@
 ---
 title: Attunements
-revid: 129868
+revid: 129925
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links, Character, Mantras, Mechanics]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pages with broken file links, Character, Mantras, Mechanics]
 ---
 
 # Attunements
@@ -93,14 +91,6 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 
   
 
-## Expected Attunements
-
-[Text](Announcements.md)
-
-[Text](Announcements.md)
-
-  
-
 ## Iconography
 
 All of the icons above are undoubtedly official representations of their base attunements, as seen from the in-game [Character Creation](Character_Creation.md) screen. This status also applies to the "Random" selection. However, many [Talents](Talents.md) offer "Paths" which act either as alternatives to an attunement's base behavior or blend such of two different attunements into one hybrid path, not to mention other Talents that change an attunement's appearance. There exist icons for each of these Talents, found on this wiki or other locations, but the officiality of these are uncertain, largely due to their lack of uniformity. This section exists to list all of these more miscellaneous icons in one place.
@@ -125,9 +115,9 @@ All of the icons above are undoubtedly official representations of their base at
 
 [Thundercall](Thundercall.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-Galebreath
+[Galebreathe](Galebreathe.md)
 
-Galebreath⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Galebreathe](Galebreathe.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
@@ -142,6 +132,8 @@ Galebreath⠀⠀⠀⠀⠀⠀⠀⠀⠀
 [Ironsing](Ironsing.md)
 
 [Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+  
 
   
 

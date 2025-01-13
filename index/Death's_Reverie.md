@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 129371
+revid: 129972
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide]
@@ -43,3 +43,4 @@ Spin the weapon above your head before preforming a slam that lights enemies on 
 -   Using the critical while having speed boosts i.e. speed potions causes you to move at great speeds.
 -   It was originally Unique tier, being unbankable and unsellable. It was changed to be the same tier as all other Hallowtide weapons in a hotfix after the weapon's release.
 -   The critical used to guardbreak, however, it was nerfed to just do high posture.
+-   It is considered a direct upgrade to the [Crescendo](Crescendo.md) due to it's higher swing speed and critical which is faster and applies burn.

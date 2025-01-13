@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 129367
+revid: 129952
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -87,7 +87,7 @@ _verb_
 1.  To deal damage equivalent to \[number\] sections of health to an opponent, or to still have 5 (full HP) or \[number\] bars of health remaining after fighting an opponent.
     1.  Ex. "If we ever fought i would 5 bar u"
 
-"5 barred" or "5 bar" can be used to humiliate someone bad at PvP, or imply that they are. It can also be used in a joking manner.
+"5 barred" or "5 bar" can be used to humiliate someone bad at PvP, or imply that they are. It can also be used in a joking or ironic manner.
 
 ### Block
 
@@ -95,6 +95,12 @@ _verb_
 
 1.  To block a mantra/attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed and take heavy damage as well as being stunned.
     1.  Ex. Light weapons are hard to parry but not hard to block as they deal little posture damage.
+
+### Block/Guard/Posture Break
+
+_verb_
+
+1.  To exceed a player or humanoid enemy's [Posture](Combat_Mechanics.md), resetting their Posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with enough attacks or high posture-damaging mantras.
 
 ### Chip Damage
 
@@ -120,7 +126,7 @@ _verb_
 _verb_
 
 1.  To stop your weapon or mantra windup while swinging, used to bait people to parry which make them unable to parry the next immediate attack you use. Successfully done can make your opponent block your next attack, messing up their parry timing and increasing their posture. Can be performed by pressing M2 right after initiating your M1 attack.
-2.  Ex. "You can't just hit me while I'm feinting!!!"
+    1.  Ex. "You can't just hit me while I'm feinting!!!"
 
 ### Flood/Flooding
 
@@ -133,7 +139,7 @@ _verb_
 
 _verb_
 
-1.  To use the fourth attack of your weapon, knocking your opponent back.
+1.  To use the fourth attack of your weapon, kicking your opponent and knocking them back.
     1.  Ex. "The freshie died to a single flourish from my Silentheart detonation Petra's Anchor build."
 
 ### Gank
@@ -155,10 +161,6 @@ _verb_
 
 1.  To finish off a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'execute' is also used.)
 
-### Guard Break / Block Break / Posture Break
-
-1.  To exceed a player or humanoid enemy's [Posture](Combat_Mechanics.md), resetting their Posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with enough attacks or high posture-damaging mantras.
-
 ### I-frames
 
 _verb_
@@ -179,6 +181,12 @@ _verb_
 ### Knock-up
 
 1.  An effect that hovers people above the ground with the person that caused this effect. The actions of the victim are limited. The most common source is "Uppercut".
+
+### Movestack
+
+_verb_
+
+1.  To
 
 ### Parry
 
@@ -343,7 +351,7 @@ _verb, noun_
     1.  Ex. "This man's dripping out!"
     2.  Ex. "Your drip doesn't look (or isn't) that good. Maybe you should try this out instead."
 
-### Guild hooper
+### Guild hopper
 
 1.  Non-leal guild member that changes their guild constantly or they are in multiple guilds at same time
 2.  Seen by the community as, the unwanted members, irrelevant skill
@@ -437,11 +445,14 @@ _noun_
 
 ### Shrine
 
-_verb, noun_
+_verb_
 
 1.  To use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), a [Deep Shrine](Deep_Shrines.md) commonly used in builds for its ability to take away and redistribute the player's stats after having spent them on Talents or Mantras with high stat requirements while keeping those Talents or Mantras, allowing for the player to save points to be invested into other stats.
     1.  "Is it ok to shrine at power 14?"
-2.  Shorthand for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+
+_noun_
+
+1.  Shorthand for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
 
 [Deep Shrines](Deep_Shrines.md) other than the Shrine of Order are always referred to with their full name.
 
@@ -459,6 +470,13 @@ _adjective, noun_
 1.  Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
     1.  Ex. "I always run 80 willpower preshrine"
 
+#### Shrine down
+
+_verb_
+
+1.  To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+    1.  Ex. "I shri
+
 ### Trackstar
 
 _noun_
@@ -473,11 +491,11 @@ _noun_
 1.  How much healing a build has, or how long it can last in a fight (usually one on one). Does not include tankiness. Sustain can be defined as Bloodless Gems, Flame Wisp, Potions, and other aspects of healing mid-combat without campfires or Graceful Flame.
     1.  "My Linkstrider build has so much sustain it's crazy"
 
-### Chase (Obscure)
+### Chase
 
 _noun_
 
-1.  How much mobility/anti-mobility a build has, usually for chasing people and stopping them from running away. examples of chase Talents and Mantras are: Revenge, Encircle, Pursuit, Crippling Comeuppance, etc.
+1.  (obscure) How much mobility/anti-mobility a build has, usually for chasing people and stopping them from running away. examples of chase Talents and Mantras are: Revenge, Encircle, Pursuit, Crippling Comeuppance, etc.
 
 ## Acronyms/Short Forms
 
@@ -518,11 +536,11 @@ _verb (Read as "c-log")_
 
 Not to be confused with the verb outside of Deepwoken _to clog_. To assure you are not combat logging, always use the door button on the top left of your screen that also makes your character despawn the moment you click.
 
-### Ctag
+### Ctag/Combat Tag
 
 _(Read as "c-tag")_ _verb_
 
-1.  A short term for combat tagging a player to prevent them from leaving the game, forcing them to fight or run from by the tagger.
+1.  A short term for Combat Tag - hitting a player to prevent them from leaving the game, forcing them to fight or run from by the tagger.
     1.  Ex. "Let me ctag him real quick."
     2.  Ex. "I can't leave, he ctagged me."
 

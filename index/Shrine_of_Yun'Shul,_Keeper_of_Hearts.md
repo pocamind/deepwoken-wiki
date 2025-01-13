@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 128895
+revid: 129927
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -21,6 +21,8 @@ _This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see
 The Shrine of Yun’Shul is a unique interactable shrine found in [Scyphozia](First_Layer.md). It can grant players that wield a [Resonance](Resonance.md) wishes.
 
 The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him.
+
+Speaking with Yun'Shul will show another dialouge for [Soulbreaker](Oath%253A_Soulbreaker.md) [Oath](Oaths.md) after meeting all requirements, this is the 2nd to last step.
 
 It's possible to interact with the shrine at range using [Idol of Yun'Shul](Relics.md) [Relic](Relics.md). This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it- to get the most mileage out of it, you should be unable to obtain a wish from the shrine itself by the time you use it.
 

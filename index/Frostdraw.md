@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 127707
+revid: 129886
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -756,8 +756,6 @@ _**"I command the cold."**_
 | Card Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Chilling Flourish.png
-
  | 
 
 Chilling Flourish  
@@ -774,8 +772,6 @@ N/A
  |
 | 
 
-File:New Condensation Drip Stats.png
-
  | 
 
 Condensation Drip  
@@ -791,8 +787,6 @@ Passively collect condensation from the air, greatly reducing your thirst. (Appr
 
  |
 | 
-
-File:Cool Head.png
 
  | 
 
@@ -833,8 +827,6 @@ _**"Those that step on my ice know that they have made a grave error."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Cryostasis.jpg
-
  | 
 
 Cryostasis  
@@ -850,8 +842,6 @@ N/A
 
  |
 | 
-
-File:Preceeding Chill Card.webp
 
  | 
 
@@ -891,8 +881,6 @@ Sliding while Orbital Ice is active leaves trails of ice.
 
  |
 | 
-
-File:OrbitalIce.jpg
 
  | 
 
@@ -934,8 +922,6 @@ N/A
  |
 | 
 
-File:Glacial Finish Card.webp
-
  | 
 
 Glacial Finish  
@@ -959,8 +945,6 @@ _**"I feel like a warrior encased in ice."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Frozenlegs.PNG
-
  | 
 
 Frozen Legs  
@@ -1061,8 +1045,6 @@ N/A
  |
 | 
 
-File:Cryonis.png
-
  | 
 
 Cryonis  
@@ -1078,8 +1060,6 @@ N/A
 
  |
 | 
-
-File:Frostbite.png
 
  | 
 
@@ -1113,8 +1093,6 @@ Also works with Greataxes. Does not work with [Pale Briar](Pale_Briar.md)
  |
 | 
 
-File:Frozen pin cushion.png
-
  | 
 
 Frozen Pin-Cushion  
@@ -1130,8 +1108,6 @@ N/A
 
  |
 | 
-
-File:Saint Jay.png
 
  | 
 

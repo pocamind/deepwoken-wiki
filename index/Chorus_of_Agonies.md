@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 129559
+revid: 129969
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -44,3 +44,4 @@ Stomp the ground with hyperarmor and if landed follow up with an overhead strike
 -   Used to have a [Strength](Attributes.md#strength) requirement of 80, however this was reduced down to 20 shortly after the weapon released.
 -   At 100 Heavy and 6 Proficiency this weapon deal 58.2 damage.
 -   You can hear whispers when holding it out.
+-   On release, it was the most hated weapon ever due to it's whopping 26 damage with a 0.62x swing speed making it difficult to parry alongside 75% chip damage meaning that if you block it you will still get dealt high damage and your posture bar being dealt over 45%. Due to this it caused community outrage saying that the weapon ruins chime and should be deleted.

@@ -1,9 +1,9 @@
 ---
 title: Galebreathe
-revid: 128937
+revid: 129907
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mantras, Attunement]
+categories: [Mantras, Attunement]
 ---
 
 # Galebreathe
@@ -779,7 +779,7 @@ _**"The song shall be silenced."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| File:A World Without Song.jpg | 
+|  | 
 A World Without Song  
 (75 Galebreathe, POWER 10, Silencer's Blade)
 
@@ -814,7 +814,7 @@ _**"I seek the qualities of Specter."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| File:Gale2.png | 
+|  | 
 Haunted Path: Specter  
 (Haunted Gale, 50 Galebreathe)
 
@@ -827,7 +827,7 @@ Build up spectral energy by performing successful dodges and landing Wind mantra
 N/A
 
  |
-| File:Gale2.png | 
+|  | 
 
 Apparitions  
 (Haunted Path: Specter, 50 Galebreathe)
@@ -841,7 +841,7 @@ Instead of Haunted Gale Phantoms, each proc will now send apparitions towards yo
 N/A
 
  |
-| File:Gale2.png | 
+|  | 
 
 Phantom Step  
 (Haunted Path: Specter, 55 Galebreathe)
@@ -855,7 +855,7 @@ Press X to begin running at high speeds and your regular dashes transform into g
 N/A
 
  |
-| File:Gale2.png | 
+|  | 
 
 Vanishing Wraith  
 (Phantom Step, 60 Galebreathe)
@@ -869,7 +869,7 @@ Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your ta
 N/A
 
  |
-| File:Gale2.png | 
+|  | 
 
 Possession  
 (Haunted Path: Specter, 75 Galebreathe)

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 129479
+revid: 129883
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -584,8 +584,6 @@ N/A
  |
 | 
 
-File:Azureicon2.png
-
  | 
 
 Azure Flames  
@@ -1006,8 +1004,6 @@ These are Talents found in "_Lava Serpent_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Eruption.png
-
  | 
 
 Eruption Path: Lava Serpent  
@@ -1021,8 +1017,6 @@ Your fire abilities no longer proc burn and instead proc on eruption under the e
 
  |
 | 
-
-File:Eruption.png
 
  | 
 
@@ -1040,8 +1034,6 @@ N/A
  |
 | 
 
-File:Eruption.png
-
  | 
 
 Empowered Eruption  
@@ -1057,8 +1049,6 @@ N/A
 
  |
 | 
-
-File:Eruption.png
 
  | 
 
@@ -1076,8 +1066,6 @@ N/A
  |
 | 
 
-File:Eruption.png
-
  | 
 
 Scorched Earth  
@@ -1093,8 +1081,6 @@ N/A
 
  |
 | 
-
-File:Eruption.png
 
  | 
 
@@ -1279,7 +1265,7 @@ _**"I seek the qualities of twisted puppets."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| File:Twisted puppets.png | 
+|  | 
 Wraith Path: Twisted Puppets  
 (40 Flamecharm, 40 Shadowcast)
 
@@ -1292,7 +1278,7 @@ Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now 
 N/A
 
  |
-| File:Twisted puppets.png | 
+|  | 
 
 Burning Puppets  
 (Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
@@ -1304,7 +1290,7 @@ Your puppets can now inflict burn and fire-based Talents when they explode.
  | 
 
  |
-| File:Twisted puppets.png | 
+|  | 
 
 Explosive Rage  
 (Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
@@ -1316,7 +1302,7 @@ Causing explosion will make your puppets go into a frenzy - speeding up and deal
  | 
 
  |
-| File:Twisted puppets.png | 
+|  | 
 
 Moths to a Flame  
 (Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
@@ -1330,7 +1316,7 @@ You summon a puppet of black flames that homes onto enemies with black flames.
 N/A
 
  |
-| File:Twisted puppets.png | 
+|  | 
 
 Burning Sacrifice  
 (Wraith Path: Twisted Puppets, Emperor Flame)

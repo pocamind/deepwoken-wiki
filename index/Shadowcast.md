@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 127733
+revid: 129916
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -11,8 +11,6 @@ categories: [Pages with broken file links, Attunement]
 “ Ooh dearie, I can see the darkness within your heart. But it simply won't do until you draw it out. ”
 
 ― Beatra, Trainer of Shadow
-
-File:Shadowcast icon.png
 
 Shadowcast icon
 
@@ -353,8 +351,6 @@ _**"I speak to the shadows."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Shadowcast icon.png
-
  | 
 
 Shadowcaster  
@@ -370,8 +366,6 @@ N/A
 
  |
 | 
-
-File:Shadowcast icon.png
 
  | 
 
@@ -389,8 +383,6 @@ N/A
  |
 | 
 
-File:Shadowcast icon.png
-
  | 
 
 Expert Shadowcaster  
@@ -406,8 +398,6 @@ N/A
 
  |
 | 
-
-File:Shadowcast icon.png
 
  | 
 
@@ -425,8 +415,6 @@ You can now obtain 3-Star Leveled Shadowcaster Mantras.
  |
 | 
 
-File:Shadowcast icon.png
-
  | 
 
 Shadow Travel  
@@ -442,8 +430,6 @@ N/A
 
  |
 | 
-
-File:Shadowcast icon.png
 
  | 
 
@@ -461,8 +447,6 @@ N/A
  |
 | 
 
-File:Shadowcast icon.png
-
  | 
 
 Fear  
@@ -478,8 +462,6 @@ N/A
 
  |
 | 
-
-File:Shadowcast icon.png
 
  | 
 
@@ -497,8 +479,6 @@ N/A
  |
 | 
 
-File:Shadowcast icon.png
-
  | 
 
 Sightless Still  
@@ -514,8 +494,6 @@ N/A
 
  |
 | 
-
-File:Shadowcast icon.png
 
  | 
 
@@ -540,8 +518,6 @@ _**"I feed on the souls of my enemies."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Shadowcast icon.png
-
  | 
 
 Dark God  
@@ -557,8 +533,6 @@ N/A
 
  |
 | 
-
-File:Shadowcast icon.png
 
  | 
 
@@ -576,8 +550,6 @@ N/A
  |
 | 
 
-File:Shadowcast icon.png
-
  | 
 
 Dark Synergy  
@@ -593,8 +565,6 @@ N/A
 
  |
 | 
-
-File:Shadowcast icon.png
 
  | 
 
@@ -612,8 +582,6 @@ N/A
  |
 | 
 
-File:Shadowcast icon.png
-
  | 
 
 Dark Rift  
@@ -630,8 +598,6 @@ N/A
  |
 | 
 
-File:Shadowcast icon.png
-
  | 
 
 Overwhelming Drain  
@@ -647,8 +613,6 @@ N/A
 
  |
 | 
-
-File:Shadowcast icon.png
 
  | 
 
@@ -673,8 +637,6 @@ _**"I am the one who speaks to death."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Shadowcast icon.png
-
  | 
 
 Blackhole  
@@ -690,8 +652,6 @@ N/A
 
  |
 | 
-
-File:Shadowcast icon.png
 
  | 
 
@@ -715,7 +675,7 @@ _**"I seek the qualities of twisted puppets."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| File:Twistedicon.png | 
+|  | 
 Wraith Path: Twisted Puppets  
 (40 Flamecharm, 40 Shadowcast)
 
@@ -728,7 +688,7 @@ Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now 
 N/A
 
  |
-| File:Twistedicon.png | 
+|  | 
 
 Burning Puppets  
 (Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
@@ -742,7 +702,7 @@ Your puppets can now inflict burn and fire-based Talents when they explode.
 N/A
 
  |
-| File:Twistedicon.png | 
+|  | 
 
 Explosive Rage  
 (Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
@@ -756,7 +716,7 @@ Causing explosion will make your puppets go into a frenzy - speeding up and deal
 N/A
 
  |
-| File:Twistedicon.png | 
+|  | 
 
 Moths to a Flame  
 (Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
@@ -770,7 +730,7 @@ You summon a puppet of black flames that homes onto enemies with black flames.
 N/A
 
  |
-| File:Twistedicon.png | 
+|  | 
 
 Burning Sacrifice  
 (Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast, Emperor Flame)
