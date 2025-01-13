@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 129975
+revid: 130016
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -41,8 +41,7 @@ We are only human, after all.
 
 ## Trivia
 
--   The existence of Metallica also means that, in Deepwoken canon, Dave Mustaine also exists and is a human which more importantly means that the better band he started (Megadeth) also exists in Deepwoken
--   It should have been Lars that died on that tour
+-   The existence of Metallica also means that, in Deepwoken canon, Dave Mustaine also exists and is a human which more importantly means that the monumentally better band he started (Megadeth) also exists in Deepwoken
 -   The songs that Humans in-game are able to perform are:
     -   72 Seasons - Metallica
     -   King Nothing - Metallica

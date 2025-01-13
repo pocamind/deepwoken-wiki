@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 129352
+revid: 129992
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -144,7 +144,7 @@ Upon breaking an Oath, unique effects will occur:
     -   Talking to [Samael](Samael.md) again will cause him to say "Insolent worm. Leave."
     -   This oath cannot be reobtained after breaking it.
 -   [Saintsworn](Oath%253A_Saintsworn.md) (needs testing, see if different levels of attunement effects dialogue or not.)
--   [Soulbreaker](Oath%253A_Soulbreaker.md) (?)
+-   [Soulbreaker](Oath%253A_Soulbreaker.md) (Didn't check dialogue but it lets you.)
 -   [Visionshaper](Oath%253A_Visionshaper.md): [The Nestmind](The_Nestmind.md) - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
     -   Talking to [Surge](Surge.md) again will prompt the following conversation:
         -   "Retired from the Hunt, eh? If you can prove yourself a hunter again I'd be happy to welcome you back." / **Bring me back.**

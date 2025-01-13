@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 124937
+revid: 129983
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Lore]
@@ -32,3 +32,4 @@ He created the [Summer Company](The_Summer_Company.md) when he found old pre-Can
 -   While the [Flintlock](Flintlock.md) was designed by Rosen he only made the first Prototype, it now is mass produced by various gunsmiths.
 -   The [Iron Blunderbuss](Iron_Blunderbuss.md) may be one Rosen's design but was not created by his hands.
 -   He also wore [Rosen's Ring](Equipment.md), which gives 1.2 INT scaling, but he lost it for an unknown reason, and so now the player can obtain it.
+-   The name "Gunsmith Rosen" could be a reference to the famous 90s rock band "[Gun N' Rose](https://en.wikipedia.org/wiki/Guns_N%27_Roses)".

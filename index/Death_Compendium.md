@@ -1,9 +1,9 @@
 ---
 title: Death Compendium
-revid: 122271
+revid: 130019
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Community, Death, Deepwoken]
+categories: [Pages with broken file links, Community, Death, Deepwoken, Vows, The Depths]
 ---
 
 # Death Compendium
@@ -50,6 +50,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Find a way to escape the reset timer before it hits zero seconds, _without_ using a combat tag.
 -   Be executed in Layer 2 by hitting the wall of the bridge by being blown into it by the wind while knocked.
 -   Spit on [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and be instantly executed for your despicable behavior.
+-   Getting knocked by a player, then getting flug into a different universe, then die to fall damage.
 
 Death Causes listed by the game:
 
@@ -77,4 +78,6 @@ Death Causes listed by the game:
 -   Space-time Collapse (Dying to the white orbs that spawn at the end of a Floor 2 run)
 -   Your disrespect, punished by the Tempest Eye (Spitting on Evengarde and dying like the idiotic barbarian you are)
 -   Your master (Command Explode from [Vow of Mastery](Vow_of_Mastery.md))
--   The Office Creature (trying to enter [The Halls of Shattered Wills](The_Hall_of_Shattered_Wills.md) while not being a tester/moderator/dev)
+-   File:Screen Shot 2019-03-06 at 4.32.48 PM.jpg
+    
+    The Office Creature (trying to enter [The Halls of Shattered Wills](The_Hall_of_Shattered_Wills.md) while not being a tester/moderator/dev)

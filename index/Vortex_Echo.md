@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 129617
+revid: 129994
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons"]
@@ -31,7 +31,7 @@ The **Vortex Echo** is a [Relic](Relics.md) [Fists](Fists.md) weapon that requir
 
 ## Critical
 
-The Critical attack will reduce **most** active cooldowns by 30 seconds (mantras, talent cooldowns, resonance) while applying 15% wither onto the user's health bar. This attack has no hitboxes and deals no damage. The user is then afflicted with Temporal Fatigue for 30 seconds (essentially a crit cooldown), preventing usage of the crit.
+The Critical attack will reduce **most** active cooldowns by 30 seconds (mantras, talent cooldowns, resonance) ~while applying 15% wither onto the user's health bar~ (it does NOT deal percentage wither, rather it is a fixed value, roughly 40-45 Wither (dealt about 8% Wither at 523 hp)). This attack has no hitboxes and deals no damage. The user is then afflicted with Temporal Fatigue for 30 seconds (essentially a crit cooldown), preventing usage of the crit.
 
 | List of unaffected cooldowns: |
 | --- |
@@ -47,5 +47,5 @@ January 11th 2025
 
 -   [Deepscorn Casque](Deepscorn_Casque.md) does not lower the wither gain upon crit usage.
 -   The critical decreases all cooldowns by 30 seconds instead of entirely resetting them.
--   The crit used to do 40 flat wither damage and entirely reset the cooldown.
+-   ~The crit used to do 40 flat wither damage and entirely reset the cooldown.~ Still does?
 -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on **Vortex Echo's** cooldown, lowering it down to 26 seconds in the overworld.
