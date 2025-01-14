@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 130056
+revid: 130272
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -151,7 +151,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |  |
 | [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |  |
 | [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
-| [Vyrelda](Vyrelda,_Master_of_Blood.md) | Unaligned | [Second Layer](Second_Layer.md), in an Igloo at [Firfire](Firfire.md) | Begins the quest to obtain Bloodrend. | Will ask you to hunt down students of the Second Skulking who drop Heartstars and bring 3 of them back to her. |
+| [Vyrelda](Vyrelda,_Master_of_Blood.md) | Unaligned | [Second Layer](Second_Layer.md), in an Igloo at [Firfire](Firfire.md), [Derelict Highchurch](Derelict_Highchurch.md) | Begins the quest to obtain Bloodrend. | Will ask you to hunt down students of the Second Skulking who drop Heartstars and bring 3 of them back to her. |
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |  |
 | [Weird Trader](Weird_Trader.md) | Unaligned | Any Ocean | Requests 3 random items for a random relic or legendary and around a 5% chance of an Astral Enchant Stone. |  |
 | [Yamaketzal](Yamaketzal.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md), [Songseeker Temple](Songseeker_Temple.md) | Grants [Chime of Conflict](Chime_of_Conflict.md), getting rid of "Tarnished" Flaw |  |

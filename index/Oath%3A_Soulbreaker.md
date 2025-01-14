@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 130141
+revid: 130255
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -13,7 +13,7 @@ categories: [Oaths]
 | oath_req | Any Murmur, A Resonance, A sum of 50 points invested in Willpower and Charisma |
 | effects | +2 Combat Mantra Slot, +1 Mobility Mantra Slot, Ability To Wield All The Murmurs |
 
-“ \*Something awful holds your mind in its grip.\* THEN IT IS SO. AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. \*The sensation departs you. Your mind is quiet once more\* ”
+“ THEN IT IS SO. AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. ”
 
 ― Soulbreaker Obtained
 

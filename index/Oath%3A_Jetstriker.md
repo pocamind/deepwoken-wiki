@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 130138
+revid: 130264
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -82,7 +82,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 -   **Rush of Ancients - Talent**
     -   Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
         -   If you roll or air dash at maximum momentum, become briefly invisible and gain full intangibility during it.
-        -   If your using the phantom step Talent/air pressure the gale dash and the jetstriker dash stack although lacks visuals (Needs more testing)
+        -   If you're using the phantom step Talent/air pressure the gale dash and the jetstriker dash stack although lacks visuals (Needs more testing)
 
 -   **Fake Strike - Combat Mantra**
     -   Trick your opponent and quickly go behind them.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 130228
+revid: 130229
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -30,8 +30,18 @@ File:DeepwokenThumbnail.png
 
 Talents are one of the fundamental aspects of Deepwoken that define your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific while often perilous tasks, although only one of each can exist on your character at the same time.
 
-There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, Flamecharmer, The Sound from Below, and Thresher Scales are a few examples of this.
+There are certain Talents that you receive automatically upon meeting their requirement. The following talents will not take up Talent slots: \[NEEDS VISUAL WORK\]
 
+  
+\- Echo Talens
+
+\-Attunement obtainment and progression talents
+
+\-Oath talents
+
+\-Any talents received by drawing a card hand (e.g. - King Thresher spine quest after completing it for the second time)
+
+  
 The maximum amount of talents that you can have (talent hand and quests combined) is 76,minus 2 talents per mantra you own exlcuding the [Kelsius](Kelsius.md) quest, and without quests being 69 talents
 
 Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:

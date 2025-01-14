@@ -1,6 +1,6 @@
 ---
 title: Orion
-revid: 128648
+revid: 130275
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests, The Ignition Union, Eastern Luminant, Origins, NPCs]
@@ -10,7 +10,7 @@ categories: [Quests, The Ignition Union, Eastern Luminant, Origins, NPCs]
 
 ## Description
 
-Template:NPC name Orion is a [Celtor](Celtor.md) NPC found in [Miner's Landing](<Miner's_Landing.md>). He quests the player with killing "[Summer Isle](Summer_Isle.md) Goons", specifically being the [Mechalodaunt](Mechalodaunt.md) in the highest level of Miner's Landing.
+Template:NPC name Orion is a [Celtor](Celtor.md) NPC found in [Miner's Landing](<Miner's_Landing.md>). He quests the player with killing "[Summer Isle](Summer_Isle.md) Goons", specifically being the [Summer Company Guards](Summer_Company_Guard.md) in the Boiler Room.
 
 Orion is named after a legendary demigod and hunter in Greek Mythology. He works for [The Ignition Union](The_Ignition_Union.md).
 

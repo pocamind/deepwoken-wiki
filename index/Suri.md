@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 128526
+revid: 130290
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests, The Hive, Eastern Luminant]

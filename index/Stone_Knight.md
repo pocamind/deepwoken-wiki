@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 130155
+revid: 130271
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -86,6 +86,7 @@ A Stone Knight executes the player:
 -   All of the Stone Knight's moves can be dodged with little consequence, with the exception of the double slash.
 
 -   The Blizzard Knight spawns only as a pack of 6, thus it is recommended to slowly fight them one at a time rather than risk being infinitely stunned.
+-   You can right-click after get kick or terra eruption to ragdoll cancel
 
 ## Trivia
 
@@ -95,3 +96,4 @@ A Stone Knight executes the player:
 -   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple Blizzard Knights were able to spawn corrupted as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Stone Knights.
 -   Stone Knights can actually swim in water, however it makes their moves way harder to react to, so be careful when fighting them in water.
 -   Blizzard Knights will under no circumstance fight a [Rogue Construct](Rogue_Construct.md), instead choosing to team up on you.
+-   on 1/11/2025, their animations were reworked as with the previous update overhauling the model making them shorter and more "stone-like"

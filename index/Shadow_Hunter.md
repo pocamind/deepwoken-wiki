@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 128577
+revid: 130279
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -35,6 +35,6 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   You can get it for 45 Notes when you buy the schematic in the abandoned lodge instead of 50 notes when you buy it in the weapon shop.
--   Worn by thieves in Erisia.
+-   Worn by thieves in Erisia, as well as the [Mindless Servants](Mindless_Servant.md) in Duke Erisia's Manor.
 -   [https://www.roblox.com/catalog/4879082492/Shadow-Hunter](https://www.roblox.com/catalog/4879082492/Shadow-Hunter) Shirt
 -   [https://www.roblox.com/catalog/4879083441/Shadow-Hunter-Pants](https://www.roblox.com/catalog/4879083441/Shadow-Hunter-Pants) Pants

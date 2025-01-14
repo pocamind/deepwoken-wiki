@@ -1,6 +1,6 @@
 ---
 title: Summer Goon
-revid: 124923
+revid: 130269
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Summer Company, Summer Company Enemies]
@@ -18,6 +18,8 @@ Summer Goons are enemy NPC that can only be found in the reactor room of Miner's
 -   Two Summer Goons fighting two [Ignition Union Fighters](Ignition_Union_Fighter.md) in the ramp next to the reactor room.
 
 A Summer Goon only wears a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [aspect](Aspects.md) varying.
+
+The Summer Goons in the reactor room are required to kill to complete [Orion](Orion.md)'s "[Summer Isle](Summer_Isle.md) Goons" quest.
 
 ## Moveset
 
