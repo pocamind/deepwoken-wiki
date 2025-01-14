@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 129493
+revid: 130063
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Character]
@@ -106,10 +106,6 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
     -   This may be unintentional.
 -   The color of the glider will depend on the aspect variant you choose, crow being black/purple, cardinal being red and so on, matching their hair color with their glider.
     -   This presents the disturbing possibility of Tiran's gliders being made from their own hair.
-
-Tiran could be inspired from “Rito” aspect from “The Legend of Zelda” series, as Rito were bird people, possessing human skin yet had skills of birds. Despite the Tiran not possessing a beak, they could unintentionally be inspired from the Rito
-
--   Tiran could be a Jojo's reference
 
 ## References
 

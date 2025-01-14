@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 129607
+revid: 130071
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -161,7 +161,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 > _**"I dance with the winds."**_
 
--   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne.
+-   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
     -   Synergizes well with Aerial Assault or mantras that send the user and target in the air.
     -   Prerequisites: 15 Strength, 25 Medium Weapon/25 Heavy Weapon/25 Light Weapon
 
@@ -265,11 +265,12 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain 10% extra damage and 10% extra speed.
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Generally dangerous to use without Immolation's self damage reduction.
-    -   7 seconds cooldown if you clear the flames by using the tool again, no cooldown if Flame Within naturally ends.
+    -   7 second cooldown if you clear the flames by using the tool again, no cooldown (excluding burn immunity) if Flame Within naturally ends.
     -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
+    -   The damage buff applies to Mantras.
     -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
     -   The old Last Laugh Talent has been merged into Flame Within.
-    -   Will deal 3% damage upon use, 1.5% with Deepscorn Casque.
+    -   Will deal 3% damage upon use, lowered to 1.5% with Deepscorn Casque.
     -   Prerequisite: 25 Flamecharm
 
 ### Angler
@@ -991,7 +992,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Intelligence
 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact. (Works only with elemental status effects)
-    -   Procs on Burn, Chill, Shock, Shadow (ether steal status effect), Winded, and Suffocation.
+    -   Procs on Burn, Chill, Shock, Fear (from the Fear talent), Winded, and Suffocation.
     -   Does not work with Critical Attacks
     -   Prerequisites: 15 Strength, 5 Intelligence
 
@@ -2770,9 +2771,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Charismatic Cast, 60 Charisma
 
 -   Narcissist \[Common Talent, Charisma Exclusive\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
-    -   Prerequisites: Charismatic Cast, 60 Charisma
-    -   Lasts for 5 seconds.
+    -   Overcharms for 4 seconds.
     -   Mutual Exclusives: Tough Love
+    -   Prerequisites: Charismatic Cast, 60 Charisma
 
 ### Transitory Vitality
 
@@ -2854,9 +2855,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 100 Charisma, 50 Strength
 
 -   No Survivors \[Common Talent, Charisma\] - Your allies and yourself execute faster when affected by Overcharm.
+    -   Reduces grip time by 0.5 seconds (16.67% faster)
     -   Prerequisites: 80 Charisma, 45 Strength
 
 -   _Rule Through Fear_ \[Rare Talent, Charisma\] - Executing an enemy applies Overcharm to nearby allies and yourself.
+    -   Overcharms for 10 seconds.
     -   Prerequisites: 85 Charisma, 50 Strength
 
 ### Undying Ember

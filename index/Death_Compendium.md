@@ -1,9 +1,9 @@
 ---
 title: Death Compendium
-revid: 130019
+revid: 130043
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Community, Death, Deepwoken, Vows, The Depths]
+categories: [Community, Death, Deepwoken, Vows, The Depths]
 ---
 
 # Death Compendium
@@ -24,6 +24,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Have both your stomach and thirst meter at 0, draining your blood and eventually your health.
 -   Lose all of your [Sanity](Insanity.md), gouging your eyes out and killing yourself.
 -   Equipping a weapon that is enchanted with Curse of the No Life King while in [The Depths](The_Depths.md) one/one too many times, making your head swell and burst. (You can log before the head explosion happens and subsequently save yourself)
+-   [Wind-Up](Wind-Up.md) removing your presence from the light of Lumen.
 -   Log while in [combat](Combat_Tag.md). (Internet disconnection, being kicked, being banned, etc.)
 -   Speak to [Yun’shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md) (Results in a Insta-grip)
 -   Die to the [Blood Scourge](Blood_Scourge.md) bell, turning your body into a shriveled husk.
@@ -76,8 +77,6 @@ Death Causes listed by the game:
 -   An insidious parasite sewn by the Gale (Dying to parasites in Layer 2)
 -   The Eternal Gale (Death via bone'd by Scion of Ethiron)
 -   Space-time Collapse (Dying to the white orbs that spawn at the end of a Floor 2 run)
--   Your disrespect, punished by the Tempest Eye (Spitting on Evengarde and dying like the idiotic barbarian you are)
+-   Your disrespect, punished by the Tempest Eye (Spitting on [Evengarde](Maestro_Evengarde_Rest.md) and dying like the idiotic barbarian you are)
 -   Your master (Command Explode from [Vow of Mastery](Vow_of_Mastery.md))
--   File:Screen Shot 2019-03-06 at 4.32.48 PM.jpg
-    
-    The Office Creature (trying to enter [The Halls of Shattered Wills](The_Hall_of_Shattered_Wills.md) while not being a tester/moderator/dev)
+-   The Office Creature (trying to enter [The Halls of Shattered Wills](The_Hall_of_Shattered_Wills.md) while not being a tester/moderator/dev)

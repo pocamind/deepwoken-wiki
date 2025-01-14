@@ -1,9 +1,9 @@
 ---
 title: Vortex Echo
-revid: 129994
+revid: 130037
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons"]
+categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons, Legendaries]
 ---
 
 # Vortex Echo
@@ -16,14 +16,14 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 | scaling | LHT: 8 CHA: 3.5 |
 | range | 6 |
 | swing speed | 1.12x |
-| special effect | Critical lowers all cooldowns by 30 seconds |
+| special effect | Crit lowers all cooldowns by 30 seconds |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Weathered Timepiece + Temporal Crux + Kyrsan Schematic in a Crafting Table |
-| description | A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow a just a bit older. ~King Crimson No Noryoku |
+| description | "A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow a just a bit older."~King Crimson No Noryoku |
 
 ## Description
 
@@ -47,5 +47,5 @@ January 11th 2025
 
 -   [Deepscorn Casque](Deepscorn_Casque.md) does not lower the wither gain upon crit usage.
 -   The critical decreases all cooldowns by 30 seconds instead of entirely resetting them.
--   ~The crit used to do 40 flat wither damage and entirely reset the cooldown.~ Still does?
+    -   The crit used to supposedly entirely reset the cooldown.
 -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on **Vortex Echo's** cooldown, lowering it down to 26 seconds in the overworld.

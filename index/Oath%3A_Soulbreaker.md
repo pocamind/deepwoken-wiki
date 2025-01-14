@@ -1,11 +1,9 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 129950
+revid: 130067
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Oaths]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Oaths]
 ---
 
 # Oath: Soulbreaker
@@ -75,6 +73,7 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
 
 -   **Soul Infusion - Talent Card**
     -   Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.
+        -   Ardour: Scream can now be used at 40% ether instead of 100%
         -   You automatically use Ardour: Scream for free upon finishing an execution
         -   Massively increase the range of Ardour: Scream
         -   Purple lightning particles are left on knocked players after this talent is proc'd
@@ -114,4 +113,4 @@ January 11th 2025
 ## Trivia
 
 -   It is rumored that the [True King of Etrea](https://deepwoken.fandom.com/wiki/Lore#The_King_of_Etrea) swore by this Oath.
--   Despite the obtainment being related to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) does not give an option to swear the oath. (needs more testing)
+-   Despite the obtainment being related to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) does not give an option to swear the oath.

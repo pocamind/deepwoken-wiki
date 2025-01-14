@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 129148
+revid: 130080
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -180,5 +180,3 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
 -   Their summons are internally referred to as ".enmity\_enforcer\_WEAPON"
 -   There was a bug that could instakill/void the boss by hitting the back of its neck with Rising Thunder or Rising Gale, as it would teleport far outside the confines of the arena, upon which it would die.
 -   Before the World Events update, which added the boss, going to the trial with 5 or more people at once would force the participants to fight until one remained.
--   Please avoid defeating Heart of Enmity via exploiters' "cheese methods", and avoid those who use such methods, as it could result in penalties such as in-game bans.
--   Heart of Enmity this is an idea from Solo Leveling / Na Honjaman Lebel-eob

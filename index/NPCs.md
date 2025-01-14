@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 128720
+revid: 130056
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -84,6 +84,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Kasen](Kasen.md) | Unaligned | [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | Gives Heretic's Sutra |  |
 | [Kelsius](Kelsius.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants Book Retrieval quest, grants a Whisper hand, trains a stat point for an increasing cost | If you completed the tutorial, the Whisper hand is free |
 | [Kennith](Kennith.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), steps near Etris Palace | Begins Lord Regent questline | Requires positive Etrea reputation, is killed during the events of the quest, may be found in the Kyrsan Wilds afterwards |
+| Khan | Unaligned | [Etris](Etris.md) | He is part of [Kelsius](Kelsius.md)'s [quest](Quests.md) |  |
 | [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Allows for an expedition to Layer 2 with a light hook, provides a Deepshore Fossil in exchange for all three Diver Journals |  |
 | [Korin](Korin.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | Quest is repeatable |
 | [Kressa](Kressa.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None | Dialogue changes if you're a Voidwalker |

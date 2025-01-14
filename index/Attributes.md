@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 128007
+revid: 130073
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -141,6 +141,8 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
         -   Some weapon Talents are locked to certain weapon types. For example, Dagger Talents differ from Fist Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.
 -   Gain light weapons EXP by dealing damage with a light weapon or parrying attacks.
 
+An umbrella term that includes all weapon stats is Weapon, abbreviated as "WEP", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).
+
 ## Attunement Attributes
 
 Attunement Attributes dictate the potential power and intensity of your current attunement, and can unlock special elemental Talents based on what attunement you may be using. Below are the respective training methods for each current attunement in the game.
@@ -203,6 +205,8 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Bloodrend Talents](Bloodrend.md#talents).
 -   Gain Bloodrend EXP by dealing damage to enemies with Bloodrend mantras, using the [Tourniquet](Training_Gear.md#attunement-training-gears), or eating [Heartstars](Heartstar.md) (Not recommended, since they're extremely difficult to obtain).
 
+An umbrella term that includes all attunement stats is Elemental, abbreviated as "ELM", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).
+
 ## Tips
 
 -   A useful site to help plan out your build is [https://deepwoken.co/builder](https://deepwoken.co/builder). Also refer to [Talents](Talents.md), [Mantras](Mantras.md), [Resonance](Resonance.md), [Murmur](Murmur.md), and [Oaths](Oaths.md) to see what you wish to include in your build.
@@ -215,7 +219,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   When starting off, considering which attributes are your most important will help guide you in your run. For some people, they'll want to raise Agility first so they can get Agility Talents before they raise Fortitude. _Rare cards especially benefit from this method of leveling, as per the reason stated above - as well as having quicker access to those cards._
 
 1.  [↑](#cite-ref-1) Also known as "AGI".
-2.  [↑](#cite-ref-2) More commonly known as "WIL".
+2.  [↑](#cite-ref-2) More commonly known as "WIL" or "WILL".
 3.  [↑](#cite-ref-3) Also known as "CHR".
 4.  [↑](#cite-ref-4) Also known as "FLM".
 5.  [↑](#cite-ref-5) Also known as "THD".

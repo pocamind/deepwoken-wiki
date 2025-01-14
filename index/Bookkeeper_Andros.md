@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 129313
+revid: 130050
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrean Luminant]
@@ -110,27 +110,32 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 <tr>
   <td colspan="12">End</td>
   <td colspan="12"></td>
-  <td colspan="12">All three? How's that?</td>
+  <td colspan="6">End</td>
+  <td colspan="6">All three? How's that?</td>
 </tr>
 <tr>
   <td colspan="12"></td>
   <td colspan="12"></td>
-  <td colspan="12">The myths differ in their accounts, but they speak of him travelling to the Southern Luminant to strike a deal with an entity of some kind. Some attributu it to Mur, others to something more ancient. Perhaps even something from *below...</td>
+  <td colspan="6"></td>
+  <td colspan="6">The myths differ in their accounts, but they speak of him travelling to the Southern Luminant to strike a deal with an entity of some kind. Some attributu it to Mur, others to something more ancient. Perhaps even something from *below...</td>
 </tr>
 <tr>
   <td colspan="12"></td>
   <td colspan="12"></td>
-  <td colspan="12">A deal?</td>
+  <td colspan="6"></td>
+  <td colspan="6">A deal?</td>
 </tr>
 <tr>
   <td colspan="12"></td>
   <td colspan="12"></td>
-  <td colspan="12">Mm. Much like the Splinterblade that the king is famed for, the legends say that the deal he struck split his soul into three parts in order to accomplish the feat.</td>
+  <td colspan="6"></td>
+  <td colspan="6">Mm. Much like the Splinterblade that the king is famed for, the legends say that the deal he struck split his soul into three parts in order to accomplish the feat.</td>
 </tr>
 <tr>
   <td colspan="12"></td>
   <td colspan="12"></td>
-  <td colspan="12">End</td>
+  <td colspan="6"></td>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>
