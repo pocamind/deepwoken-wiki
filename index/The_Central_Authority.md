@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 125185
+revid: 130221
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -69,7 +69,7 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 
 ## Notable Members
 
--   Drallis Ehr
+-   [Drallis Ehr](Drallis_Ehr.md)
 -   [Warden Jericho](Warden_Jericho.md)
 -   [Vice Warden Morreth](Vice_Warden_Morredh.md)
 

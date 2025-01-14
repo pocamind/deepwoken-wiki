@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 130071
+revid: 130228
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -28,24 +28,24 @@ File:DeepwokenThumbnail.png
 
 ## Overview
 
-Talents are one of the fundamental aspects of Deepwoken that defines your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain Talents may also be obtained when doing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific while often perilous tasks, although only one of each can exists on your character at the same time.
+Talents are one of the fundamental aspects of Deepwoken that define your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific while often perilous tasks, although only one of each can exist on your character at the same time.
 
 There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, Flamecharmer, The Sound from Below, and Thresher Scales are a few examples of this.
 
-The maximum amount of talents that you can have (talent hand and quests combined) is 76,minus 2 talents per mantra you own exlcuding the [kelsius](Kelsius.md) quest, and without quests being 69 talents
+The maximum amount of talents that you can have (talent hand and quests combined) is 76,minus 2 talents per mantra you own exlcuding the [Kelsius](Kelsius.md) quest, and without quests being 69 talents
 
 Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
 -   A high enough [Core Attribute](Attributes.md), whether it be Strength, Fortitude, Agility, Intelligence, Willpower, or Charisma.
-    -   E.G.: Overflowing Dam requires 40 INT as a prerequisite.
+    -   E.g.: Overflowing Dam requires 40 INT as a prerequisite.
 -   A certain Talent in a certain category.
-    -   E.G.: Picking a Mental Fortress Talent will make you more likely to pull another Mental Fortress Talent in your next set of Talents.
+    -   E.g.: Picking a Mental Fortress Talent will make you more likely to pull another Mental Fortress Talent in your next set of Talents.
 -   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
-    -   E.G.: Drinking at least one potion is a prerequisite for potion Talents.
+    -   E.g.: Drinking at least one potion is a prerequisite for potion Talents.
 -   Having a certain weapon equipped.
-    -   E.G.: Having a greataxe equipped is required to roll greataxe Talents.
+    -   E.g.: Having a greataxe equipped is required to roll greataxe Talents.
 -   A high enough Power.
-    -   E.G.: Thresher Claws requires [Power](Power.md) 13 as a prerequisite.
+    -   E.g.: Thresher Claws requires [Power](Power.md) 13 as a prerequisite.
 
 Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool.** However, if you use the Shrine of Chance to remove the mutually exclusive Talent that you currently have, the other Talent returns to your Talent pool so that it may be obtained once again.
 
@@ -76,7 +76,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The most uncommon type of Talent, though not rare if you meet the requirements. These Talents have large, powerful effects on a character.
 
 -   Oath
-    -   Talents obtained through taking an [Oath](Oaths.md). They relate to the Oath taken and don't consume Talent slots.
+    -   Talents obtained through taking an [Oath](Oaths.md). They relate to the Oath taken and don't take up Talent slots.
 
 -   Mantra
     -   Grants a Mantra. These cards come in their own separate [Whisper Rolls](Whisper_Draw.md). See [Mantras](Mantras.md).
@@ -303,7 +303,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 -   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
-    -   If you will end up having "Vegeterian" flaw with this talent, each kill will make you vomit, effectively losing all ur food and thrist in the end.
+    -   If you end up having "Vegetarian" flaw with this talent, killing an enemy will make you vomit, effectively losing all of the food and thirst you would gain in the process
     -   Prerequisites: 5 Strength, 5 Willpower
     -   Mutual Exclusives: [Vegetarian (Flaw)](Boons_and_Flaws.md), Herbivore.
 
@@ -2130,9 +2130,10 @@ _**"My cure is most effective."**_
     -   Ironsing Pull is activated by pressing X.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
-    -   Does 50 true dmg at max rods and 25 true dmg on minimal req (5 rods), also takes slightly more armor due to nature to apply DMG after pull
+    -   Does 50 true dmg at max rods and 25 true dmg on 5 rods
+    -   Takes slightly more armor due to pull taking out 2% per rod (metal thief) and then it dmgs armor by 35 durability by Impaler
+    -   Affected by Grim, Taunt, Issih ring, Exposed Durability and any other defensive debuffs.
     -   Not affected by "Return To The Dark Ages" talent
-    -   Scales with Ironsing stat: File:Testing Impaler.png
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
     -   Works as default path with exception applying conductor rod after hitting rod limit. Has 5 rod limit.
@@ -2263,6 +2264,7 @@ _**"My cure is most effective."**_
     -   Not affected by "Return To The Dark Ages"
     -   Parrying Artisan's blade gives Auto Parry frames.
     -   4.5 posture per blade.
+    -   Affected by Taunt and Grim and etc defense debuff status.
     -   Artisan blades last 20 seconds.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
@@ -3110,7 +3112,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   The face equipment "[Blindfold](Blindfold.md)" have this Talent.
 
 -   Coldseep Reactor \[Common Talent, [Equipment](Equipment.md) Exclusive\] - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
-    -   Grants full immunity to [Layer 2](Second_Layer.md) Parasites.
+    -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
     -   Obtained from [Grand Fisher Helm](Grand_Fisher_Helm.md)
     -   Prerequisite for equipment: [Power](Power.md) 13
 
@@ -3168,7 +3170,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite for Equipment: [Power](Power.md) 10
 
 -   Surestep \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
-    -   Makes you immune to the ragdoll and movement speed debuff of the Wind in [Layer 2](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
+    -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
     -   Obtained from [Delver Boots](Delver_Boots.md)
 
 -   Temple Guard \[Common Talent, [Equipment](Equipment.md) Exclusive\] - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
@@ -3177,7 +3179,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite for Equipment: Power 13
 
 -   Wormwarder \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
-    -   Makes you entirely immune to the [Layer 2](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
+    -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
     -   Obtained from [Wormwarder Lantern](Wormwarder_Lantern.md)
 
 ## Other
@@ -3262,7 +3264,7 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
 -   Coldseep Reactor [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
-    -   Grants full immunity to [Layer 2](Second_Layer.md) Parasites.
+    -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra hit.
 -   Diver's Resilience [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
@@ -3290,7 +3292,7 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 10% less damage from airborne enemies.
 -   Surestep [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
-    -   Makes you immune to the ragdoll and movement speed debuff of the Wind in [Layer 2](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
+    -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
     -   Procs even if your critical cannot be canceled (Hyper Armor).
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
@@ -3300,7 +3302,7 @@ Certain Talents are given when a specific outfit is worn. Most of these Talents 
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.
 -   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
 -   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
-    -   Makes you entirely immune to the [Layer 2](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
+    -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
 -   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining
     -   Combining this Talent with excavator gives you a chance to get 4 ores at a time
 -   Excavator: [Miner's Hardhat](<Miner's_Hardhat.md>) - Chance to receive two sets of ore when mining You mine things more quickly.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 130191
+revid: 130214
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -28,6 +28,8 @@ All weapons within the game have chances of being found with (or without) differ
 [Enchanted](Enchantments.md) weapons always have at least one star. (Re-equipping your weapon will add a star to it if it does not already have one.)
 
 ### Total Amount of Weapons Available in the Game
+
+  
 
   
 
@@ -3304,6 +3306,8 @@ All weapons within the game have chances of being found with (or without) differ
 
   
 
+  
+
 <table><caption><div>Heavy Weapons</div></caption>
 <tbody>
 <tr>
@@ -4872,7 +4876,9 @@ All weapons within the game have chances of being found with (or without) differ
 </tbody>
 </table>
 
--   12 Great Hammers (14 if Alloyed)
+-   12 Great Hammers (14 if Alloyed)  
+      
+    
 
 #### Others
 
@@ -4897,7 +4903,7 @@ Sword
  | 60 MED  
 40 HVY  
 LVL 15 | 20 | 20% | N/A | MED: 6.2  
-HVY: 4.2 | 7 | 9 | 0.93x |
+HVY: 4.2 | 7 | 9 | 0.93x | N/A |
 | **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** | 
 
 Light
@@ -5341,6 +5347,8 @@ FIR: 6 | 5 | 8 | 0.93x | N/A |
 
   
 
+  
+
 <table><caption><div>Shields</div></caption>
 <tbody>
 <tr>
@@ -5776,7 +5784,9 @@ Exclusive
 
  | ??? MED | ??? | ??? | N/A | MED: ??? | ??? | ??? | ??? | N/A |
 
--   7 Exclusive
+-   7 Exclusive  
+      
+    
 
 #### In Total
 

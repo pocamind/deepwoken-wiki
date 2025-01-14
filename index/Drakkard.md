@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 125088
+revid: 130206
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Exclusive aspects, Aspects, Developer Spec]
@@ -71,6 +71,12 @@ According to their description, they are "auspicious mediators of conflict", mea
 **Surnames:**
 
 -   Drakehardt
+-   Scalehardt
+-   Thornscale
+-   Wyrmstead
+-   Cindercrest
+-   Drakkengard
+-   Seethehardt
     
 
 ## Trivia
