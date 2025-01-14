@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 129639
+revid: 130086
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1444,6 +1444,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Cirryn, with Lifeweave. The process at first seems successful but Cirryn soon suffers from aggressive mutations and goes on a murderous rampage. It is implied that Cirryn's soul was never truly resurrected, but that something else had taken its place.
     -   It also mentions that "Lifeweave is not the act of generating new life, it is the transfer of life".
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
+-   The book _Coldheart's Journal_ mentions lifewoven blades suggesting that Lifeweave can be used to somehow aid in making weapons or be infused into them.
 -   Lifeweave allows users to reverse aging processes, effectively allowing anyone with a mastery over it to be immortal.
 
 ### Ironsing

@@ -1,9 +1,9 @@
 ---
 title: Cestis
-revid: 128433
+revid: 130110
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, The Ministry, Quests, Murmurs, Eastern Luminant]
+categories: [NPCs, The Ministry, Quests, Murmurs, Eastern Luminant]
 ---
 
 # Cestis
@@ -16,7 +16,11 @@ categories: [Ganymede NPCs, NPCs, The Ministry, Quests, Murmurs, Eastern Luminan
 
 ## Description
 
-A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md), presumably working for the Ministry. His main purpose is to contract assassinations of random players which is mostly used to obtain the [Tacet](Murmur%253A_Tacet.md) murmur.
+Cestis is a [Ganymede](Ganymede.md) NPC presumably working for the Ministry. His main purpose is to contract assassinations of random players which is mostly used to obtain the [Tacet](Murmur%253A_Tacet.md) murmur.
+
+## Location
+
+Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his makeshift camp, on a ledge to the right side of [Meteor Isle](Meteor_Isle.md) that isn't attached to the main island.
 
 ## Dialogue
 
@@ -63,17 +67,18 @@ A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md), presumably w
 </tr>
 <tr>
   <td colspan="3">End</td>
-  <td colspan="3">Dialogue Continues</td>
+  <td colspan="3">I'm interested.</td>
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="12">I'm interested.</td>
+  <td colspan="3"></td>
+  <td colspan="3">That's the spirit. Go find and kill [Name], the [aspect]. You'll make quick work of them, no? Word is they were last seen around [Location]...</td>
+  <td colspan="3"></td>
 </tr>
 <tr>
-  <td colspan="12">That's the spirit. Go find and kill [Name], the [aspect]. You'll make quick work of them, no? Word is they were last seen around [Location]...</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
+  <td colspan="3"></td>
+  <td colspan="3">End</td>
+  <td colspan="3"></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 130037
+revid: 130118
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons, Legendaries]
@@ -49,3 +49,4 @@ January 11th 2025
 -   The critical decreases all cooldowns by 30 seconds instead of entirely resetting them.
     -   The crit used to supposedly entirely reset the cooldown.
 -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on **Vortex Echo's** cooldown, lowering it down to 26 seconds in the overworld.
+-   Is most likely a refrance to [Ekko](https://leagueoflegends.fandom.com/wiki/Ekko/LoL#Details_) from League of Legends because of it's time resetting crit, it being a stopwatch similar to the one used by Ekko, and even the the name has Echo in it.[\[1\]](https://leagueoflegends.fandom.com/wiki/Ekko/LoL#Details_)

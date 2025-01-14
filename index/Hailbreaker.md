@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 129978
+revid: 130144
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons"]
@@ -56,4 +56,3 @@ Pressing M2 during the windup of the critical will perform a feint that resets s
 
 -   Its model as of 11/16/2024 does not change if you have [Glass Path: Crystallization](Frostdraw.md), the particles used with its critical however do change color.
 -   In lore, mass-produced to rival the [Union's](The_Ignition_Union.md) [Railblade](Railblade.md).
--   Despite being a greatsword, it's size is smaller than all of the other greatswords unless if it's in the third stage where the ice coating makes it appear as big as a normal greatsword.

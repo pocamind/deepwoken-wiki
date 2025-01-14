@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 129944
+revid: 130156
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -107,4 +107,3 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   Typing "I will never be a memory." or anything containing the phrase toggles your right wing off/on, this is an easter egg referencing [Sephiroth](https://finalfantasy.fandom.com/wiki/Sephiroth).
     -   This does not work with the Hivekin aspects
 -   The Talent "Death from Above" is a reference to the skill [Sakura Dance](https://sekiro-shadows-die-twice.fandom.com/Sakura_Dance) from _Sekiro: Shadows Die Twice_.
--   Starkindred is lorewise the strongest oath due to directly being tied to the Celestials, however, the obtainment of Starkindred is by drinking the blood of the celestial and not a physical part of one. Along with the Starkindred Cult being spread out in Lumen, possibly meaning that there are stronger Starkindred that consumed a part of a celestial and not the holy ichor.

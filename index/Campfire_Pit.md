@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 124900
+revid: 130088
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -12,9 +12,11 @@ categories: [Mechanics, Items]
 |---|---|
 | value | 0 |
 | weight | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| type | Tool |
+| bankable | No |
+| droppable | No |
 | pass down | No |
+| desc | Enough wood to start a campfire. |
 
 ## Description
 

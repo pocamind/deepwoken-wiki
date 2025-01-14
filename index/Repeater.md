@@ -1,9 +1,9 @@
 ---
 title: Repeater
-revid: 127924
+revid: 130175
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Flintlocks]
+categories: [Weapons, Flintlocks, Offhand Guns]
 ---
 
 # Repeater

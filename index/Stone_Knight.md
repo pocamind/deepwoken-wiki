@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 129961
+revid: 130155
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -95,5 +95,3 @@ A Stone Knight executes the player:
 -   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple Blizzard Knights were able to spawn corrupted as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Stone Knights.
 -   Stone Knights can actually swim in water, however it makes their moves way harder to react to, so be careful when fighting them in water.
 -   Blizzard Knights will under no circumstance fight a [Rogue Construct](Rogue_Construct.md), instead choosing to team up on you.
-
--   Stone Knights will pick a fight against every monster in game and win unless if its against a [Hive Construct](Hive_Construct.md), a Blizzard Knight can fight a [Rouge Construct](Rogue_Construct.md) and win if the two manage to hit each other multiple times, however they will mostly fall off of the frozen waterfall which will bring the Blizzard Knight back to it's original spawn point. In dungeons their AI presumably breaks and begins to attack everything including other stone/blizzard knights which is incredibly beneficial in the Diluvian Mechanism allowing the player to regenerate health or armor.

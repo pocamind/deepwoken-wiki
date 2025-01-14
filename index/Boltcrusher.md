@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 129966
+revid: 130151
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greathammers, The Ignition Union, "Attunement-based Weapons", Multiple Criticals]
@@ -54,4 +54,3 @@ Both the running and the standing version share a cooldown of **10 seconds**. Th
 -   The line _"From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark."_ from the item's description is a reference to [The Hammer's Call](Books.md#the-hammers-call), the Ignition Union's in-universe anthem.
 -   Due to a bug, being guardbroken by the Boltcrusher's running Critical will prevent M1 attacks.
 -   This weapon is one of two weapons that is able to mine ores, the other being the [Quartztone Pickaxe](Quartztone_Pickaxe.md).
--   It is hated by the majority of the community being called the most **"braindead"** weapon due to when pairing with [Lightning Cloak](Thundercall.md) it becomes absurdly difficult to parry trade against due to the change of pace with it's swinging speed along with adding stun and shock/surge added alongside it's 8.5 range capable of outpacing any other melee with a shorter range in a distanced confrontation.

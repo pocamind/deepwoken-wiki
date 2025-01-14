@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 127666
+revid: 130096
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -219,7 +219,6 @@ Aside from his seasonal rewards, the Ferryman also provides a line of five chest
 -   **[Justicar's Armor](<Justicar's_Armor.md>)** - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage by 10%.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>)** - A Schematic to create the coat worn by the Ferryman himself, grants high Lightning Resistance and a unique Talent that converts elemental damage into Lightning damage.
 -   **[Smith's Alloy](<Smith's_Alloy.md>)** - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars.
--   **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +100 Knowledge upon their first usage, and +50 on subsequent uses.
 -   **[Armorer's Needle](<Armorer's_Needle.md>)** - A [relic](Relics.md) that allows the user to change a singular pip of their choosing from an [equipment](Equipment.md); though they are unable to control exactly what it changes into. Handy for gear that is close to being a godroll.
 -   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   **[Pluripotent Alloy](Pluripotent_Alloy.md)** - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.

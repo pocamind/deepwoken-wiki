@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 129576
+revid: 130157
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -55,10 +55,6 @@ The user gains a purple sigil on their head and aura around them with brief hype
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
 -   when sitting at a campfire it will display "Lkq tg ywdn..."
 -   Holding the weapon or not, the Umbrite Whiterblade will display heartbeat noises as well as a incomprehensible whisper followed by a omnious noise that resembles a car engine.
--   It is slandered and bullied by few of the community as the **"worst"** weapon due do it's low damage and relying on bleed and wither to deal damage as well as a sluggish critical, even with innate bleed and wither it is still considered lackluster.
--   Despite the Witherblade's enormous size compared to the Razor Cutlass, it only holds 7.5 range which is horrible for a weapon in the medium category can have as even with a 1.02x swing speed it will be outpaced by any other weapon with at least 8.5 range in a distanced confrontation.
--   The Witherblade used to beat, slowly expanding and decreasing itself like a heart, this has since been removed.
--   It is one of, if not the most requested weapon by the community to receive a buff by the developers, however it doesn't appear that the developers will increase it's stats sooner or later.
 
 ## Version History
 

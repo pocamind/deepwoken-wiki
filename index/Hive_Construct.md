@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 129962
+revid: 130154
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies]
@@ -64,5 +64,3 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 -   Hive Constructs are unable to swim, and will instantly drown if they attempt to enter water.
 -   Unlike most monsters, they have cancollide on, which means you can touch their model without phasing through them.
 -   For an unknown reason, as of 6/22/2024, multiple rogue constructs are able to spawn at one time.
--   They presumably drop a [Pomar](Ingredients.md) because of [Lifeweave](Lifeweave.md) being used to absorb the life force of a pomar tree that was then used to create a hive construct.
--   While fighting an Authority Captain, their AI can both break making them not attack each other even with player intervention.

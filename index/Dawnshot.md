@@ -1,9 +1,9 @@
 ---
 title: Dawnshot
-revid: 123507
+revid: 130178
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Flintlocks, Alloyed Weapons]
+categories: [Weapons, Flintlocks, Alloyed Weapons, Offhand Guns]
 ---
 
 # Dawnshot

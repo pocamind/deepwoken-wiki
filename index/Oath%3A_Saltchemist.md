@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 129501
+revid: 130135
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]

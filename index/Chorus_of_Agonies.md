@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 129969
+revid: 130149
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -40,8 +40,7 @@ Stomp the ground with hyperarmor and if landed follow up with an overhead strike
 ## Trivia
 
 -   The weapon is named The Brutalizer when viewed at a campfire, because the critical of the weapon is based on one of the Heart of Enmity's pattern, The Brutalizer.
--   ~The weapon has the highest weight of any weapon in the game at 15, beating the previous record holder, the [Sovereign's Punishment](<Sovereign's_Punishment.md>), by 2.~ The weapon formerly held the world record holder as the highest posture damage dealing weapon, with the recent updates reducing it's posture damage from 15 to 10.
+-   The weapon has the highest weight of any weapon in the game at 15, beating the previous record holder, the [Sovereign's Punishment](<Sovereign's_Punishment.md>), by 2.
 -   Used to have a [Strength](Attributes.md#strength) requirement of 80, however this was reduced down to 20 shortly after the weapon released.
 -   At 100 Heavy and 6 Proficiency this weapon deal 58.2 damage.
 -   You can hear whispers when holding it out.
--   On release, it was the most hated weapon ever due to it's whopping 26 damage with a 0.62x swing speed making it difficult to parry alongside 75% chip damage meaning that if you block it you will still get dealt high damage and your posture bar being dealt over 45%. Due to this it caused community outrage saying that the weapon ruins chime and should be deleted.

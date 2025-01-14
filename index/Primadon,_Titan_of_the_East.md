@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 130008
+revid: 130166
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -8,11 +8,11 @@ categories: [Monsters, Bosses]
 
 # Primadon, Titan of the East
 
-Template:Creature Infobox V3 The Primadon is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>).
+Template:Creature Infobox V3 Primadon, the Titan of the East is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
 ## Description
 
-Loud and enormous, the **Primadon** is a giant aquatic ape [Boss](Bosses.md). It is a bipedal primate creature, standing at nearly 81 feet (25 meters), with some features of marine life, featuring webbed feet and fins on its shoulders, hips, and head.
+Loud and enormous, **Primadon** is a giant aquatic ape [Boss](Bosses.md). It is a bipedal primate creature, standing at nearly 81 feet (25 meters), with some features of marine life, featuring webbed feet and fins on its shoulders, hips, and head.
 
 It features blue-grey fur, and prior to Verse 2, Primadon had a dark blue face. After Verse 2, the model was changed slightly to make Primadon shorter and flip its lip inside out, much like real life primates do to show aggression.
 
@@ -265,4 +265,3 @@ There are **14** images, be warned
 • Void Feathers do not work, for some odd reason.
 
 -   Primadon's chests has a low chance of containing Ysley's Pyre Keeper
--   There is a word used by many of the community when you summon the Primadon, where what you actually fight is the entire server due to ping and gankers.

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 130073
+revid: 130115
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -11,8 +11,6 @@ categories: [Attributes, Character, Mechanics]
 “ You feel your ability has potential. With the right equipment, you could draw it out... ”
 
 ― Self
-
-_icon credit to Tortaa#9000_
 
 **Attributes** are player stats that can be increased to a soft cap of 75 points (77 if the player character has an aspect that starts with +2 in that specific attribute, or 78 if they start with +3), and unbounded to a hard cap of 100 points (likewise, 102 if the player character aspect starts with +2 in that specific attribute or 103 if they start with +3) via an [unbound quest](Attributes_Unbound.md) for that attribute.
 

@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 127726
+revid: 130120
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -43,4 +43,4 @@ Along with this ability comes several limitations, being that certain items of s
 -   You cannot store [Campfires](Campfire_Pit.md).
 -   You cannot be attacked while in the GUI.
 -   Unlocking every slot in the Item Bank costs a total of 411,000 notes.
--   You cannot store The [Pleekty's Inferno](<Pleeksty's_Inferno.md>).
+-   You cannot store [Pleekty's Inferno](<Pleeksty's_Inferno.md>).
