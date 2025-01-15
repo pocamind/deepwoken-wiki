@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 130617
+revid: 130634
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -40,7 +40,7 @@ White: Default (#1) | Blue: 1st Leap (#2) | Red: 2nd Leap (#2) | Purple: Final (
 
 ## Critical
 
-Light's Final Toll has 4 different criticals. The Critical starts off with the Default punch Critical or the Legion Kata Grab depending on your current stance. After landing it, your next critical will be a jumping slam. To reach the final Critical, you must land 2 jumping criticals. Upon using the Final Critical both players are sent upwards as the user punches the target away. It also functions as a counter: If hit during the windup before the punch, incoming damage is nullified. The user then kicks the target into the air while backflipping before punching them, dealing extra damage. Missing the Final critical resets the cycle to White. All Stages can be held for an infinite amount of time.
+Light's Final Toll has 4 different criticals. The Critical starts off with the Default punch Critical or the Legion Kata Grab depending on your current stance. After landing it, your next critical will be a jumping slam. To reach the final Critical, you must land 2 jumping criticals. Upon using the Final Critical both players are sent upwards as the user punches the target away. It also functions as a counter: If hit during the windup before the punch, incoming damage is nullified. The user then kicks the target into the air while backflipping before punching them, dealing extra damage. Missing the Final critical resets the cycle to White. All Stages can be held for an infinite amount of time or until you unequip the weapon (needs testing).
 
 **All Criticals have a 5s Cooldown.**
 

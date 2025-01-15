@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 130255
+revid: 130646
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath:  Soulbreaker | |
 |---|---|
-| oath_req | Any Murmur, A Resonance, A sum of 50 points invested in Willpower and Charisma |
+| oath_req | Any Murmur, A Resonance, Hero Reputation with Etrea, A sum of 50 points invested in Willpower and Charisma |
 | effects | +2 Combat Mantra Slot, +1 Mobility Mantra Slot, Ability To Wield All The Murmurs |
 
 “ THEN IT IS SO. AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. ”
@@ -46,7 +46,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md) up to 5 times to max it (except for [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)).
+This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md) up to 5 times to max it (except for [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)). The Yun'Shuls shrine itself works for this, and you dont lose a wish upon getting the oath so if you don't like your bell you can reroll it and progress the oath a bit
 
 ## Effects
 

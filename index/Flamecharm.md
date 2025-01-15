@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 129883
+revid: 130662
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -451,11 +451,12 @@ _A servant of flames._
     -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.
 -   Ignites nearby campfire pits if not currently healing you.
 -   Requires ritual casting.
-    -   Aeon and Eternal Logstones increase the duration of the mantra and how many signs are required to cast it.
 -   Flame Wisp also seems to reduce parasite growth.
 -   With Wraith Path: Twisted Puppets, you will heal from burns by Shadow Mantras and Burning Puppets, but not by Flame Mantras.
     -   The amount of healing will not be severely reduced (results were +1% (~5) hp per 5-6 burn ticks).
 -   Considered a Wisp mantra, taking up either a Wisp, Support, or Wildcard slot.
+-   Has 3 charges (which are consumed when healing is triggered). Logstones increase the amount of charges.
+    -   Logstones will increase the amount of keys in the Ritual Cast.
 
  |
 |  | 
@@ -1343,7 +1344,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   The Fire Gun mantra is most likely a nod to "Higan" (火ガン, literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece.**
 -   The Flame Sentinel mantra is likely a reference to the "[Life Detector](https://jojowiki.com/Magician%27s_Red#Life_Detector)" technique from the Stand "Magician's Red" from JoJo's Bizarre Adventure, which can detect lifeforms manifesting as a floating flame candelabrum.
 -   The Flaming Scourge Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece** called buzzcut mochi.
--   The Flame Ballista and Flame Reupulsion's spring spark variant are references to **Jujutsu Kiasen**.
+-   The Flame Ballista and Flame Repulsion's spring spark variant are references to **Jujutsu Kaisen**.
     -   Flame Ballista is Sukuna's Fire Arrow [\[1\]](#cite-note-1), and Flame Repulsion's spark takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Limitless).
 -   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player proc's "Meteor Impact" on another Flamecharm user who also has the Talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.

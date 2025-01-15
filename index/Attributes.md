@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 130115
+revid: 130665
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -115,6 +115,8 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
     -   _**[Unbounded](Attributes_Unbound.md) by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
     -   _**[Unbounded](Attributes_Unbound.md) by killing any humanoid [boss](Bosses.md) while having 75 points invested into the weapon attribute.**_
 
+An umbrella term that includes all weapon stats is Weapon, abbreviated as "WEP", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).
+
 ### Heavy Weapons (HVY)
 
 -   Increases your character's proficiency with [heavy weapons](Weapons.md)—this increases the extra damage dealt by your weapon's scaling.
@@ -139,8 +141,6 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
         -   Some weapon Talents are locked to certain weapon types. For example, Dagger Talents differ from Fist Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.
 -   Gain light weapons EXP by dealing damage with a light weapon or parrying attacks.
 
-An umbrella term that includes all weapon stats is Weapon, abbreviated as "WEP", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).
-
 ## Attunement Attributes
 
 Attunement Attributes dictate the potential power and intensity of your current attunement, and can unlock special elemental Talents based on what attunement you may be using. Below are the respective training methods for each current attunement in the game.
@@ -155,6 +155,8 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   Additionally, you can gain EXP on attunements by doing events/random encounters (needs confirming)
 -   All of the attunements are:
     -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md) while having 75 points invested into the attunement. (have to deal most of the damage)**_
+
+An umbrella term that includes all attunement stats is Elemental, abbreviated as "ELM", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).
 
 ### Flamecharm (FIR)
 
@@ -202,8 +204,6 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   Increases damage scaling of [Bloodrend](Bloodrend.md) mantras.
     -   Unlocks [Bloodrend Talents](Bloodrend.md#talents).
 -   Gain Bloodrend EXP by dealing damage to enemies with Bloodrend mantras, using the [Tourniquet](Training_Gear.md#attunement-training-gears), or eating [Heartstars](Heartstar.md) (Not recommended, since they're extremely difficult to obtain).
-
-An umbrella term that includes all attunement stats is Elemental, abbreviated as "ELM", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).
 
 ## Tips
 

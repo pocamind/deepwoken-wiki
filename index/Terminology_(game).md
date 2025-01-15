@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 130563
+revid: 130661
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -113,7 +113,19 @@ _noun_
 _verb, noun_
 
 1.  Abilities/moves that allow the user to retaliate and not take damage without the use of blocking, parrying or dodging.
-    1.  Ex. the following mantras, Prediction, Punishment, and Equalizer are all **Counter**s.
+    1.  Ex. the following mantras, Prediction, Punishment, and Equalizer are all **Counters**.
+
+### Depths Gank/Depths Ganker
+
+_noun_
+
+1.  People/guilds in The Depths that gank weaker players with the intent of wiping them.
+    1.  Ex. "Help I'm getting depths ganked!"
+
+_verb_
+
+1.  Ganking lower powers in the Depths.
+    1.  Ex "Lets depths gank these power 3's"
 
 ### Execute
 
@@ -139,7 +151,7 @@ _verb_
 
 _verb_
 
-1.  To use the fourth attack of your weapon, kicking your opponent and knocking them back.
+1.  To use the fourth, kick attack of your weapon, knocking your opponent back.
     1.  Ex. "The freshie died to a single flourish from my Silentheart detonation Petra's Anchor build."
 
 ### Gank
@@ -155,11 +167,11 @@ _noun_
 1.  (rarely) A hunt to find and kill other players, usually used as a noun when planning to do so or retrospectively after already doing so.
     1.  Ex. "I almost got wiped in a gank—thank god I escaped!"
 
-### Grip
+### Grip/Execute
 
 _verb_
 
-1.  To finish off a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'execute' is also used.)
+1.  To finish off a player, [enemy](Enemies.md) or [monster](Monsters.md).
 
 ### I-frames
 
@@ -186,7 +198,7 @@ _verb_
 
 _verb_
 
-1.  To use mantras on top of each other.
+1.  To use an attack or other move (typically a Critical) immediately after another move (a Mantra, roll, or M1), causing the move to be performed immediately after the first one's animation ends.
 
 ### Parry
 
@@ -280,8 +292,7 @@ _verb_
 
 _verb_
 
-1.  To die and spawn in Fragments of Self, in places such as Scyphozia or The Eternal Gale (The Depths)
-2.  What depths gankers like to do when they spot any player. Preferably to be a freshie or a deepbound and send them to reset their prog in fragments
+1.  To die in The Depths (Scyphozia, The Eternal Gale) and spawn in Fragments of Self.
 
 ## Resonance Terms
 
@@ -336,7 +347,7 @@ _noun_
 
 ## Outside Combat
 
-### Bar
+### Bar/Bars
 
 _noun_
 
@@ -351,9 +362,11 @@ _verb, noun_
     1.  Ex. "This man's dripping out!"
     2.  Ex. "Your drip doesn't look (or isn't) that good. Maybe you should try this out instead."
 
-### Guild hopper
+### Guild hopping
 
-1.  Non-leal guild member that changes their guild constantly or they are in multiple guilds at same time
+_verb_
+
+1.  To be in a guild but change your guild constantly, or are in multiple guilds at same time.
 2.  Seen by the community as, the unwanted members, irrelevant skill
 3.  Mostly, the people with skill issue and no friends,have more chances to become another one
 
@@ -429,6 +442,12 @@ _noun_
 
 ## Build-Related Terms
 
+### Chase
+
+_noun, verb_
+
+1.  How much mobility/anti-mobility a build has, mainly for chasing people and stopping them from running away. examples of chase Talents and Mantras are: Revenge, Encircle, Pursuit, Crippling Comeuppance, etc.
+
 ### Minmax
 
 _verb, adjective_
@@ -475,7 +494,14 @@ _adjective, noun_
 _verb_
 
 1.  To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
-    1.  Ex. "I shri
+    1.  Ex. "I shrined down agility"
+
+### Sustain
+
+_noun, verb_
+
+1.  How much healing a build has, or how long it can last in a fight (usually one on one). Does not include tankiness. Sustain can be defined as Bloodless Gems, Flame Wisp, Potions, and other aspects of healing mid-combat without campfires or Graceful Flame.
+    1.  "My Linkstrider build has so much sustain it's crazy"
 
 ### Trackstar
 
@@ -483,19 +509,6 @@ _noun_
 
 1.  A type of build, usually using the [Jetstriker](Oath%253A_Jetstriker.md) Oath, that specializes in movement speed, either to run away from opponents in PvP or to make traversal across the game faster.
     1.  Ex. "I hate trackstar builds, they're so annoying!!!"
-
-### Sustain
-
-_noun_
-
-1.  How much healing a build has, or how long it can last in a fight (usually one on one). Does not include tankiness. Sustain can be defined as Bloodless Gems, Flame Wisp, Potions, and other aspects of healing mid-combat without campfires or Graceful Flame.
-    1.  "My Linkstrider build has so much sustain it's crazy"
-
-### Chase
-
-_noun_
-
-1.  (obscure) How much mobility/anti-mobility a build has, usually for chasing people and stopping them from running away. examples of chase Talents and Mantras are: Revenge, Encircle, Pursuit, Crippling Comeuppance, etc.
 
 ## Acronyms/Short Forms
 
@@ -508,13 +521,13 @@ _noun_
 
 ### Attless
 
-_adjective_
+_noun, adjective_
 
 1.  Short form for [Attunement-less](Attunement-less.md).
 
 ### BMing
 
-_adjective_
+_verb, adjective_
 
 1.  **B**lack-**M**arket**ing**. It is the action of trading in-game items for out-of-game compensation (Real life counts too).
     1.  Ex. "Yo, gimme a curved (**CBOW** or **C**urved **B**lade **O**f **W**inds) and ama give you 1200 Robux."

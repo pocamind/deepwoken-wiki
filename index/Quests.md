@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 130304
+revid: 130637
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -350,7 +350,7 @@ These quests give EXP, chests and/or reputation as rewards and are repeatable.
 
 **Quest Location**: Church of Erisor (Erisia)
 
-**Guide**: Talk to the [Forgotten Villagers](Forgotten_Villager.md) in the Church of Erisor. Help them through the waves of monsters.
+**Guide**: Talk to the [Forgotten Villagers](Forgotten_Villager.md) in the Church of Erisor. Help them through the waves of monsters and bandit leaders.
 
 **Reward/s**: Chest
 

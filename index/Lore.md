@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 130086
+revid: 130632
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1011,6 +1011,7 @@ An Authority Captain
     -   Galahad Galvigi (Deceased)
     -   Kayla Rico (Deceased)
 -   Black Divers are allowed more freedom than their lower-ranked peers. This can be both a blessing and a curse for the organization, as Divers like Carrion can act without restriction, but it also leads to them prioritizing their own goals over those of the Divers.
+-   Similar to [The Ignition Union](The_Ignition_Union.md) the divers employ minors in their depths based ranks as all [Deepbound](Origins.md) players start at 17
 
 ## Groups
 

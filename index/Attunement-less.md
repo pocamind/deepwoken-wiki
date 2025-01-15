@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 129881
+revid: 130663
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -33,127 +33,111 @@ In spite of its shortcomings, the potential of Attunement-less is nothing to sco
 
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th><b>Media</b></th>
-  <th><b>Name</b></th>
-  <th><b>Card Description</b></th>
-  <th><b>Ether Cost</b></th>
-  <th><b>Effect &amp; info</b></th>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Strong Left<p>(☆☆☆)</p></td>
-  <td><i>Show your foes your strength.</i></td>
-  <td>35 Ether</td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i>
-  <ul>
-    <li>A powerful left cross that knocks your opponent away, inflicting ragdoll and a good amount of knockback in the process.</li>
-    <li>Strong Left scales with your Strength attribute.</li>
-    <li>Can fell trees. With <a href="Talents.md">Treefelling Blow</a> Talent, you can gain wood from fallen trees.</li>
-    <li>Has a base posture damage of 22</li>
-    <li>20/30/40/50/60 base damage per level</li>
-    <li>72 damage at 100 Strength level 5</li>
-    <li>2 Strength scaling</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Rapid Punches<p>(☆☆☆)</p></td>
-  <td><i>Unleash a barrage of blows against your foes.</i></td>
-  <td>30 Ether</td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i>
-  <ul>
-    <li>A flurry of punches that inflicts light damage on your opponent.</li>
-    <li>The move is cancelled upon getting parried in the initial hit.</li>
-    <li>The user may cancel the barrage at any point during it by right clicking.</li>
-    <li>Rapid Punches scales with your Strength attribute.</li>
-    <li>Victims struck by the last punch are pushed away.</li>
-    <li>60/65/70/75/80 base damage per level</li>
-    <li>96 damage at 100 Strength level 5</li>
-    <li>2 Strength scaling</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Table Flip<p>(☆☆☆)</p></td>
-  <td><i>Toss the ground infront of you.</i></td>
-  <td>35 Ether</td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u></b> 40 <i><b>Strength,</b></i> <i>Combat Mantra</i>
-  <ul>
-    <li>Throw a piece of the ground that goes straight in the direction your character (not your camera) is looking at.</li>
-    <li>Victims crushed by the rock will be dazed and will be thrown away.</li>
-    <li>20/30/40/50/60 damage per level</li>
-    <li>72 damage at 100 Strength level 5</li>
-    <li>2 Strength scaling</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Strong Leap<p>(☆☆☆)</p></td>
-  <td><i>Kick off of the ground with your strength, sending you into the air.</i></td>
-  <td>70 Ether</td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u></b> <i><b>50 Strength,</b></i> <i>Mobility Mantra</i>
-  <ul>
-    <li>A vertical jump that sends the user into the air.</li>
-    <li>Altitude travelled decreases significantly as the user loses health.</li>
-    <li>Drops carried players/NPCs when used.</li>
-    <li>Fall damage is taken if the user gets high enough.</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Tacet Drop Kick<p>(☆☆☆)</p></td>
-  <td><i>Disguise yourself in tacet and drop kick your enemies.</i></td>
-  <td></td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u> 5 Strength, Jus Karita, Murmur: Tacet,</b> <i>Combat Mantra</i>
-  <ul>
-    <li>Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.</li>
-    <li>Inflicts knockdown.</li>
-    <li>Lands 15% faster when casted while wielding Jus Karita.</li>
-    <li>Recommended to get 20 strength if you have an attunment as to utilize the mystic to more easily roll for it.</li>
-    <li><i>(Used to be 20 strength, was shadow changed to be 5 strength.)</i></li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Skyshatter Kick<p>(☆☆☆)</p></td>
-  <td><i>Unleash two devasting kicks with your brute strength.</i></td>
-  <td>120 Ether</td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u></b> <i><b>80 Strength,</b></i> <i>Combat Mantra</i>
-  <ul>
-    <li>Does MASSIVE damage upon hit, and has a range of 20 studs.</li>
-    <li>Can be parried, blocked and dodged.</li>
-    <li>Has long wind-up.</li>
-    <li>Skyshatter kick can be modified with a <a href="Mantra_Modifiers.md">Round Spark</a> to Stomp directly into the ground, if a Player is hit by this they are both flung into the air, however if more than 2 players are hit, one user will be flung up while the other two including the caster will remain on the ground (might be a bug)</li>
-    <li>20/30/40/50/60 damage per level, per kick</li>
-    <li>72 damage at 100 Strength level 5, per kick</li>
-    <li>2 Strength scaling</li>
-    <li>If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)</li>
-    <li></li>
-  </ul></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+| **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & info** |
+| --- | --- | --- | --- | --- |
+| 
+ | Strong Left
+
+(☆☆☆)
+
+ | _Show your foes your strength._ | 35 Ether | 
+
+-   **Requirements:** _**20 Strength,**_ _Combat Mantra_
+    -   A powerful left cross that knocks your opponent away, inflicting ragdoll and a good amount of knockback in the process.
+    -   Strong Left scales with your Strength attribute.
+    -   Can fell trees. With [Treefelling Blow](Talents.md) Talent, you can gain wood from fallen trees.
+    -   Has a base posture damage of 22
+    -   20/30/40/50/60 base damage per level
+    -   72 damage at 100 Strength level 5
+    -   2 Strength scaling
+
+ |
+| 
+
+ | Rapid Punches
+
+(☆☆☆)
+
+ | _Unleash a barrage of blows against your foes._ | 30 Ether | 
+
+-   **Requirements:** _**20 Strength,**_ _Combat Mantra_
+    -   A flurry of punches that inflicts light damage on your opponent.
+    -   The move is cancelled upon getting parried in the initial hit.
+    -   The user may cancel the barrage at any point during it by right clicking.
+    -   Rapid Punches scales with your Strength attribute.
+    -   Victims struck by the last punch are pushed away.
+    -   60/65/70/75/80 base damage per level
+    -   96 damage at 100 Strength level 5
+    -   2 Strength scaling
+
+ |
+| 
+
+ | Table Flip
+
+(☆☆☆)
+
+ | _Toss the ground infront of you._ | 35 Ether | 
+
+-   **Requirements:** 40 _**Strength,**_ _Combat Mantra_
+    -   Throw a piece of the ground that goes straight in the direction your character (not your camera) is looking at.
+    -   Victims crushed by the rock will be dazed and will be thrown away.
+    -   20/30/40/50/60 damage per level
+    -   72 damage at 100 Strength level 5
+    -   2 Strength scaling
+
+ |
+| 
+
+ | Strong Leap
+
+(☆☆☆)
+
+ | _Kick off of the ground with your strength, sending you into the air._ | 70 Ether | 
+
+-   **Requirements:** _**50 Strength,**_ _Mobility Mantra_
+    -   A vertical jump that sends the user into the air.
+    -   Altitude travelled decreases significantly as the user loses health.
+    -   Drops carried players/NPCs when used.
+    -   Fall damage is taken if the user gets high enough.
+
+ |
+| 
+
+ | Tacet Drop Kick
+
+(☆☆☆)
+
+ | _Disguise yourself in tacet and drop kick your enemies._ |  | 
+
+-   **Requirements: 5 Strength, Jus Karita, Murmur: Tacet,** _Combat Mantra_
+    -   Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.
+    -   Inflicts knockdown.
+    -   Lands 15% faster when casted while wielding Jus Karita.
+    -   Recommended to get 20 strength if you have an attunment as to utilize the mystic to more easily roll for it.
+    -   _(Used to be 20 strength, was shadow changed to be 5 strength.)_
+
+ |
+| 
+
+ | Skyshatter Kick
+
+(☆☆☆)
+
+ | _Unleash two devasting kicks with your brute strength._ | 120 Ether | 
+
+-   **Requirements:** _**80 Strength,**_ _Combat Mantra_
+    -   Does MASSIVE damage upon hit, and has a range of 20 studs.
+    -   Can be parried, blocked and dodged.
+    -   Has long wind-up.
+    -   Skyshatter kick can be modified with a [Round Spark](Mantra_Modifiers.md) to Stomp directly into the ground, if a Player is hit by this they are both flung into the air, however if more than 2 players are hit, one user will be flung up while the other two including the caster will remain on the ground (might be a bug)
+    -   20/30/40/50/60 damage per level, per kick
+    -   72 damage at 100 Strength level 5, per kick
+    -   2 Strength scaling
+    -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
+    
+
+ |
 
 ### _Fortitude Mantras_
 
@@ -506,71 +490,67 @@ File:Disguising .gif
 
 ### _Medium Weapon Mantras_
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th><b>Media</b></th>
-  <th><b>Name</b></th>
-  <th><b>Card Description</b></th>
-  <th><b>Ether Cost</b></th>
-  <th><b>Effect &amp; info</b></th>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Master's Flourish<p>(☆☆☆)</p></td>
-  <td><i>A powerful slash that chips through block and slashes through armor.</i></td>
-  <td>45 Ether</td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u></b> <i><b>30 Medium Weapon,</b></i> <i>Combat Mantra</i>
-  <ul>
-    <li>A spinning double slice with your sword.</li>
-    <li>Deals Chip Damage.</li>
-    <li>Deals knock back</li>
-    <li>Can be modified with a Glass/Magnifying stone to make it bigger</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Prominence Draw<p>(☆☆☆)</p></td>
-  <td><i>Close the distance and deliver a fast slash.</i></td>
-  <td>65 Ether</td>
-  <td>
-  <ul>
-    <li><u><b>Requirements:</b></u> <b>50 Medium Weapon.</b> <i>Combat Mantra</i></li>
-    <li>If in range, locks on to the closest target/player/humanoid enemy</li>
-    <li>Dash forward and do a large AOE slice with your sword.</li>
-    <li>Allows for move stacking an M1 strike which 100% guarantees the mantra or M1 hit.</li>
-    <li>Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Flashdraw<p>Strike<br>
-  (☆☆☆)</p></td>
-  <td><i>Switftly unsheathe your blade and deliver an upwards strike.</i></td>
-  <td>40 Ether</td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u></b> <i><b>60 Medium Weapon, 25 Agility</b></i> <i>Combat Mantra</i></li>
-    <li>Send the caster up into the air on hit into an uppercut like state</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Twincleave<p>(☆☆☆)</p></td>
-  <td><i>Dart around the battlefield with devastating cleaves delivered in quick succession.</i></td>
-  <td>30<p>Ether</p></td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u> <i>50</i></b> <i><b>Medium Weapon</b></i></li>
-    <li>Unleashes 2 slashes, the first moving the user forward, the second launching the user backwards.</li>
-    <li>Can change the direction you launch backwards by turning your camera.</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+| **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & info** |
+| --- | --- | --- | --- | --- |
+| 
+ | Master's Flourish
+
+(☆☆☆)
+
+ | _A powerful slash that chips through block and slashes through armor._ | 45 Ether | 
+
+-   **Requirements:** _**30 Medium Weapon,**_ _Combat Mantra_
+    -   A spinning double slice with your sword.
+    -   Deals Chip Damage.
+    -   Deals knock back
+    -   Can be modified with a Glass/Magnifying stone to make it bigger
+
+ |
+| 
+
+ | Prominence Draw
+
+(☆☆☆)
+
+ | _Close the distance and deliver a fast slash._ | 65 Ether | 
+
+-   **Requirements:** **50 Medium Weapon.** _Combat Mantra_
+-   If in range, locks on to the closest target/player/humanoid enemy
+-   Dash forward and do a large AOE slice with your sword.
+-   Allows for move stacking an M1 strike which 100% guarantees the mantra or M1 hit.
+-   Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.
+
+ |
+| 
+
+ | Flashdraw
+
+Strike  
+(☆☆☆)
+
+ | _Switftly unsheathe your blade and deliver an upwards strike._ | 40 Ether | 
+
+-   **Requirements:** _**60 Medium Weapon, 25 Agility**_ _Combat Mantra_
+-   Send the caster up into the air on hit into an uppercut like state
+
+ |
+| 
+
+ | Twincleave
+
+(☆☆☆)
+
+ | _Dart around the battlefield with devastating cleaves delivered in quick succession._ | 30
+
+Ether
+
+ | 
+
+-   **Requirements: _50_** _**Medium Weapon**_
+-   Unleashes 2 slashes, the first moving the user forward, the second launching the user backwards.
+-   Can change the direction you launch backwards by turning your camera.
+
+ |
 
 ### _Heavy Weapon Mantras_
 

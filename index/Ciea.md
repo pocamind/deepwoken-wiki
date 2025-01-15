@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 130514
+revid: 130655
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs, Quests, Eastern Luminant]
@@ -35,6 +35,10 @@ Her quest is needed to get the [Saltchemist](Oath%253A_Saltchemist.md) Oath.
 You can use diluted potions (potions with only 1 copy of an ingredient). This does not appear to have any effect on EXP or Talent yields.
 
 Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harvester](Talents.md#prospector) Talent, it is unknown if she gives anything else at the moment.
+
+## Location
+
+Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the [shrine of mastery](Deep_Shrines.md).
 
 ## Dialogue
 

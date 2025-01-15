@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 122176
+revid: 130659
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 1, Weapons, Enemies]
@@ -132,8 +132,6 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 ## Dialogue
 
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
@@ -170,7 +168,8 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <b>[Did meet requirements with the Destined echo modifier, sets you on fire but lets you survive and grant the weapon]</b></td>
 </tr>
 <tr>
-  <td colspan="15">End</td>
+  <td colspan="3"></td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>

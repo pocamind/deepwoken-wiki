@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 130223
+revid: 130660
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Attunement]
@@ -439,7 +439,7 @@ _A servant of wind._
 -   Grants 30% fall damage resistance.
 -   Haunted Gale and Haunted Path: Specter require one less perfect casted mantra hit to activate (3 -> 2).
 -   Passively increases the Spectral meter bar for Haunted Path: Specter users by a small percent, the regen is greater than the decay.
--   Can be modified with logstones to extend it's usage.
+-   Has 3 charges (which are consumed via taking fall damage). Logstones increase the amount of charge.
     -   Note using logstones will force you to cast more signs.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 126609
+revid: 130652
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments]
@@ -25,7 +25,7 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thunder
 | Name | Media | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
 | Basic Attack | N/A | The Fisherman hits the player with an ordinary attack. | ◯ | ◯ | ◯ | (☆☆☆) |
-| Critical | N/A | The Fisherman performs a wind-up before raising their sword and hitting. | ◯ | ✗ | ◯ | (★☆☆) |
+| Critical | N/A | The Fisherman performs a wind-up before raising their axe and hitting. | ◯ | ✗ | ◯ | (★☆☆) |
 | Lightning Stream | N/A | The Fisherman casts a stream of lightning that pulls the opponent towards them. | ◯ | ◯ | ◯ | (☆☆☆) |
 | Lightning Strike | N/A | The Fisherman strikes their opponent from above with lightning. | ◯ | ◯ | ◯ | (★☆☆) |
 | Thunder Kick | N/A | The Fisherman raises their leg and kicks their opponent with thunder. | ◯ | ◯ | ◯ | (★☆☆) |

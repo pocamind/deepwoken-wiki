@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 127228
+revid: 130636
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -29,7 +29,7 @@ Galpin is a Musicologist who was also a faculty chair at The Empyrean College of
 
 **Base Dialogue:**
 
-Links under this dialogue (E.g. [Begin](#begin-section)) can be clicked, which will then take you to the place where the block of dialogue is.
+_**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked**_, which will then take you to the place where the block of dialogue is.
 
 <table>
 <tbody>

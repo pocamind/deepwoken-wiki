@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 124680
+revid: 130639
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments]
@@ -37,7 +37,7 @@ Fortinbras' arsenal consists of the [Hailbreaker](Hailbreaker.md) along with the
     -   Frozen solid, they said... Can't help her...
     -   Tombs of earth... Tombs of dirt... Tombs of mud...
 
--   When spawning ([Dormant Splinter](Dormant_Splinter.md)):
+-   When spawning with [Dormant Splinter](Dormant_Splinter.md):
     -   That... THAT THING! GIVE IT TO ME!
     -   That... She must have it. I will feed it to her. She needs it. GIVE IT TO HER!
     -   It... No.. All this time... NO!!!

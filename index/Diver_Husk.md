@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 107787
+revid: 130629
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -39,7 +39,7 @@ A Diver Husk executes its opponent after knocking them:
 
 ## Tips
 
--   They can become very problematic should a [Carbuncle](Carbuncle.md) join the fight.
+-   They can become very problematic if a [Carbuncle](Carbuncle.md) join the fight.
 -   Despite their monstrous features and post-mortem of The Eternal Gale's Parasites, they act just as any humanoid enemy act and perform. They very rarely do universal defensive actions so pinning them to a wall can prove to make them a glorified health pack.
 -   Be careful of their Strong Left knocking you off bridges or ledges.
 -   They often do Strong Left as their first attack, so you should prepare to parry.

@@ -1,6 +1,6 @@
 ---
 title: Avian
-revid: 128423
+revid: 130664
 source: https://deepwoken.fandom.com/wiki/Avian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrean Luminant]
@@ -8,7 +8,11 @@ categories: [NPCs, Quests, Etrean Luminant]
 
 # Avian
 
-Template:NPC name
+| Avian | |
+|---|---|
+| name | Avian |
+| aspect | Etrean |
+| location | Isle of Vigils |
 
 ## Description
 
