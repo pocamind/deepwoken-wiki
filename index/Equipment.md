@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 129653
+revid: 130621
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -3157,9 +3157,10 @@ _+Talent: Kick Off_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  | N/A |
 |  | 

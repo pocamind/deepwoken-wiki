@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 130606
+revid: 130615
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1733,9 +1733,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 11 seconds. (60 Second Cooldown) (+10 Sanity)
     -   Prerequisite: 35 Willpower
 
--   Uproar \[Common Talent\] - When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration. (Hyperarmor Benefit)
-    -   30 seconds cooldown
-    -   Hyperarmor removed once you hit someone.
+-   Uproar \[Common Talent\] - When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration. Landing a hit on another player will end your Uproar.
+    -   Grants Hyperarmor. The Hyperarmor is removed when you hit someone.
+    -   30 second cooldown
     -   Prerequisite: 35 Fortitude
 
 ### Marauder
@@ -2244,10 +2244,10 @@ _**"My cure is most effective."**_
 
 > _**"I seek the qualities of Scoundrel."**_
 
--   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (+1 Passive Agility)
+-   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. 5s Cooldown (+1 Passive Agility)
     -   The "bleed" does not refer to Bleed Damage, but rather a very miniscule amount of damage to the blood bar.
         -   The damage is so small, that there is no pixel difference between the damage received with or without it.
-    -   5 Second Cooldown.
+    -   The cooldown is actually 8 seconds despite what the talent description says.
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: Trained Fist, 25 Agility
 

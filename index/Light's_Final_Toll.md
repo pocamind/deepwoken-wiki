@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 129885
+revid: 130617
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -49,11 +49,11 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 ## Trivia
 
 -   This used to be the only weapon to scale from an attribute (Willpower) rather than weapon or an attunement.
-    -   When the 03/23/2024 update came, the weapon requirements were updated to make it share a req. (65 WLL → 60 WLL, 35 LHT)
+    -   When the March 23rd, 2024 update came, the weapon requirements were updated to make it share a req. (65 WLL → 60 WLL, 35 LHT)
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
 -   One of the few weapons (The other weapons being the [Vortex Echo](Vortex_Echo.md), [Flareblood Kamas](Flareblood_Kamas.md), [Kyrsieger](Kyrsieger.md), [Soulthorn](Soulthorn.md), [Fractine](Fractine.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [Kanabo](Kanabo.md), [Imperial Staff](Imperial_Staff.md), and [Imperator's Edge](<Imperator's_Edge.md>)) that can gain scaling past 100, as with +2/3 WLL races, you can get to a "weapon stat" of 102/103.
 -   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLL.
--   Before 10/20/2023, the weapon used the base critical for the active fist style.
--   Previously, before the 13/02/2023 Update, this weapon used to be standard and was [enchantable](Enchantments.md).
--   Using this weapon with any big hat will almost fully cover m1 swing animation making it harder for your opponent to parry your attacks.
+-   Before October 20th, 2023, the weapon used the base critical for the active fist style.
+-   Before February 13th, 2023, this weapon wasn't Legendary, and was therefore [enchantable](Enchantments.md).
+-   Always has the Way of Navae idle animation regardless of your currently equipped fist style.
