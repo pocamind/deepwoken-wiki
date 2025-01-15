@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 130286
+revid: 130314
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -48,7 +48,7 @@ Dodgeable:◯
  |  |
 | 
 
-M1 Fury  
+Sadist's Fury  
 ★
 
  | The Heart of Enmity kneels down on one leg and swings his axe twice, dealing significant damage.
@@ -63,7 +63,7 @@ Dodgeable:◯
 The Brutalizer  
 ★
 
- | The Heart of Enmity delivers a powerful stomp then slamming his axe down, the stomp knocks down the victim. The stomp may also be cancelled into Condemnation's Fall, and M1 Fury.
+ | The Heart of Enmity delivers a powerful stomp then slamming his axe down, the stomp knocks down the victim. The stomp may also be cancelled into Condemnation's Fall, and Sadist's Fury.
 
 Parryable:◯  
 Blockable:◯  
@@ -178,5 +178,5 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
 -   It was briefly able to spawn corrupted, which was restorable.
 -   It is unclear if the Heart of Enmity is the physical form of the [Voice of Enmity](Voices_of_the_Depths.md), or just a stronger monster variant used in the trial. However due to the dialogue given after defeating the boss, it implies that the creature is a physical form of the Voice of Enmity (as opposed to the other conjurations).
 -   Their summons are internally referred to as ".enmity\_enforcer\_WEAPON"
--   There was a bug that could instakill/void the boss by hitting the back of its neck with Rising Thunder or Rising Gale, as it would teleport far outside the confines of the arena, upon which it would die.
+-   There was a bug that could instakill/void the boss by hitting the back of its neck with Rising Thunder or Rising Wind, as it would teleport far outside the confines of the arena, upon which it would die.
 -   Before the World Events update, which added the boss, going to the trial with 5 or more people at once would force the participants to fight until one remained.

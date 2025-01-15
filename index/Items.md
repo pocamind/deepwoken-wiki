@@ -1,6 +1,6 @@
 ---
 title: Items
-revid: 75440
+revid: 130357
 source: https://deepwoken.fandom.com/wiki/Items
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Items]
@@ -24,9 +24,9 @@ Tools constructed with the intent to harm others, polished to be efficient killi
 
 An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also giving many different benefits. Though it can also be used for cosmetic purposes. Found in chests, exchanged for using an [Artifact](Artifacts.md) or by various other means.
 
-## [Gems](Treasures.md)
+## [Treasures](Treasures.md)
 
-Glistening gemstones that can fetch a modest price. They can commonly be obtained from chests.
+Glistening gemstones and metals that can fetch a modest price. They can commonly be obtained from chests.
 
 ## [Fish](https://deepwoken.fandom.com/wiki/Fishing#Fish)
 

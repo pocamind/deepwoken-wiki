@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 128083
+revid: 130576
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -53,26 +53,94 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 
 ### _Normal_
 
-**Heavy:**
-
-| **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** | **Endlag** | **Scaled Damage** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Axe | Greataxe | 28 | 0% | HVY: 13 | 8 | 10 | 0.8x | Jump into the air and plummet towards your cursor. | 0.0s | 65.9 |
-| Divine Greatsword | Greatsword | 30 | 0% | HVY: 12 | 8.5 | 9.2 | 0.84x | Boosts speed and propels you into the air, crashing down at your cursor. | 0.25s | 67.5 |
-
-**Medium:**
-
-| **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** | **Endlag** | **Scaled Damage** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Spear | Spear | 22.5 | 0% | MED: 9 | 5 | 10 | 0.93x | Jump into the air and fire three divine beams, similar to a Lesser/Greater Angel. | 0.0s | 43.6 |
-| Divine Longsword | Sword | 25 | 0% | MED: 7 | 5.5 | 8.5 | 1.06x | Strike forward with your elbow, following up with three divine slashes similar to shadowcast's dark blade | 0.0s | 43.2 |
-
-**Light:**
-
-| **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** | **Endlag** | **Scaled Damage** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Dagger | Dagger | 18 | 0% | LHT: 7 | 4 | 6 | 1.3x | Rush forward in a flurry of divine slashes. | 0.05s | 31.1 |
-| Divine Flintlock | Flintlock | 15 | 0% | LHT: 15 | 1 | 12 | 1.33x | Flip upside down and rapidly shoot your target five to six times before finishing with another shot while dashing backwards. | 0.0s | 38.5 |
+<table><caption><strong>Crazy Slots</strong></caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Base Damage</th>
+  <th>Scaling</th>
+  <th>Penetration</th>
+  <th>Chip Damage</th>
+  <th>Posture Damage</th>
+  <th>Range</th>
+  <th>Swing Speed</th>
+  <th>Endlag</th>
+  <th>Scaled Damage</th>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Dagger</a></b></td>
+  <td>19</td>
+  <td>LHT: 9</td>
+  <td>-</td>
+  <td>-</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.3x</td>
+  <td>-</td>
+  <td>31.8</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
+  <td>16</td>
+  <td>LHT: 16</td>
+  <td>-</td>
+  <td>-</td>
+  <td>3</td>
+  <td>12</td>
+  <td>1.33x</td>
+  <td>-</td>
+  <td>35.2</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Longsword</a></b></td>
+  <td>25</td>
+  <td>MED: 7</td>
+  <td>-</td>
+  <td>-</td>
+  <td>5.5</td>
+  <td>8.5</td>
+  <td>1.06x</td>
+  <td>-</td>
+  <td>38.1</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Spear</a></b></td>
+  <td>22.5</td>
+  <td>MED: 9</td>
+  <td>-</td>
+  <td>-</td>
+  <td>5</td>
+  <td>10</td>
+  <td>0.93x</td>
+  <td>-</td>
+  <td>37.7</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Axe</a></b></td>
+  <td>26</td>
+  <td>HVY: 13</td>
+  <td>-</td>
+  <td>-</td>
+  <td>8</td>
+  <td>10</td>
+  <td>0.8x</td>
+  <td>0.15s</td>
+  <td>51.4</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Greatsword</a></b></td>
+  <td>28</td>
+  <td>HVY: 12</td>
+  <td>-</td>
+  <td>-</td>
+  <td>8.5</td>
+  <td>9.2</td>
+  <td>0.84x</td>
+  <td>0.25s</td>
+  <td>53.2</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia/Notes
 

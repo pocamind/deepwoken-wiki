@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 129353
+revid: 130332
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Eastern Luminant]
@@ -73,7 +73,7 @@ The chest appears to be an ordinary hive chest, containing what you would usuall
   <td colspan="3"></td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">End, Quest Accepted</td>
   <td colspan="3"></td>
 </tr>
 </tbody>

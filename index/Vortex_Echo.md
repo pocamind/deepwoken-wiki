@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 130246
+revid: 130448
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons, Legendaries]
@@ -52,5 +52,6 @@ January 11th 2025
 -   Is most likely a refrance to [Ekko](https://leagueoflegends.fandom.com/wiki/Ekko/LoL#Details_) from League of Legends because of it's time resetting crit, it being a stopwatch similar to the one used by Ekko, and even the the name has Echo in it.
 -   Also could be a reference of [Izayoi](https://en.touhouwiki.net/wiki/Sakuya_Izayoi)'s pocket watch as they are both silver and has relation to time. She canonically can also accelerate or skip time despite the popular beliefs, as her ability is to control time, not just stopping time.
 -   Could also be a reference to [Wanda](https://dontstarve.fandom.com/wiki/Wanda) from Don't starve, as the character possesses many clocks and the ability to rewind their own age while not affecting anyone else around her.
+-   OR its probably not a reference at all, watches/clocks and time stopping/altering powers are so common you could say this is a reference to the world from jojo's.
 
 [\[1\]](https://leagueoflegends.fandom.com/wiki/Ekko/LoL#Details_)

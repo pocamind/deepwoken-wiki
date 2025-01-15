@@ -1,12 +1,22 @@
 ---
 title: Mantra Modifiers
-revid: 126901
+revid: 130578
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
 ---
 
 # Mantra Modifiers
+
+| Deep Gems | |
+|---|---|
+| value | 80 |
+| weight | 1 |
+| stack | x25 |
+| type | Mantra Modifier |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
 
 _**FOREWORD**: **An up-to-date spreadsheet for Mantras and their compatible Mantra Modifiers can be found [\[here\]](https://docs.google.com/spreadsheets/d/1IE3KIyizxEgHfTsasO0hCGvch6yNofdgNlRR__jA7jo/edit?usp=sharing)**_  
 _The Outdated one can be found [\[here\]](https://docs.google.com/spreadsheets/d/1yOOKJhihxX_1zvihTOwFVrm3XJpGFPnqJ5W53497LeI/edit#gid=0), just incase._
@@ -306,9 +316,7 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 
 ### Deep Gems
 
-**Deep Gems** are rare Gems that can be applied to mantras to improve them at no additional cost.
-
-Deep Gems can be obtained from:
+**Deep Gems** are rare Gems that can be applied to mantras to improve them at no additional cost. Deep Gems can be obtained from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md) (roughly 10% drop chance)
 -   In any chest from [Layer 1](First_Layer.md) (very low drop chance, betters odds from corrupted monsters)

@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 129952
+revid: 130563
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -186,7 +186,7 @@ _verb_
 
 _verb_
 
-1.  To
+1.  To use mantras on top of each other.
 
 ### Parry
 

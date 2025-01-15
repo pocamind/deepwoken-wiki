@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 128680
+revid: 130304
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -282,7 +282,7 @@ File:Theguy.png
 
 **Reward/s**: EXP, Bravery, 2 [Knowledge](Knowledge.md)
 
-**Kiley's Promise:**
+**Grave Tending:**
 
 **Quest Location**: [Greathive Aratel](Greathive_Aratel.md)
 

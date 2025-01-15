@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 128434
+revid: 130514
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs, Quests, Eastern Luminant]
@@ -8,11 +8,15 @@ categories: [Alchemy, Starswept Valley, NPCs, Quests, Eastern Luminant]
 
 # Ciea
 
+| Ciea | |
+|---|---|
+| name | Ciea |
+| aspect | Vesperian |
+| location | Starswept Valley(Near Widow's Hollow and next to shrine of mastery |
+
 “ My protege! Care to undergo another lesson? I'll put your intellect to the test! ”
 
 ― Ciea, after having done one quest.
-
-Template:NPC name
 
 ## Description
 

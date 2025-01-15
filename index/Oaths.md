@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 130069
+revid: 130366
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -29,65 +29,97 @@ _"comb." means a combined total across multiple listed stats_
 _WEP = Any weapon stat (HVY, MED, LHT)_  
 Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarder.md) • [Bladeharper](Oath%253A_Bladeharper.md) • [Contractor](Oath%253A_Contractor.md) • [Chainwarden](Oath%253A_Chainwarden.md) • [Dawnwalker](Oath%253A_Dawnwalker.md) • [Fadetrimmer](Oath%253A_Fadetrimmer.md) • [Jetstriker](Oath%253A_Jetstriker.md) • [Linkstrider](Oath%253A_Linkstrider.md) • [Saintsworn](Oath%253A_Saintsworn.md) • [Saltchemist](Oath%253A_Saltchemist.md) • [Silentheart](Oath%253A_Silentheart.md) • [Soulbreaker](Oath%253A_Soulbreaker.md) • [Starkindred](Oath%253A_Starkindred.md) • [Visionshaper](Oath%253A_Visionshaper.md)
 
+[Oathlessfinal](Oath%253A_Oathless.md)
+
 [Oathless](Oath%253A_Oathless.md)
 
 (N/A)
+
+[Arcwarderfinal](Oath%253A_Arcwarder.md)
 
 [Arcwarder](Oath%253A_Arcwarder.md)
 
 (20 FIR/20 LTN/20 FTD)
 
+[Bladeharperfinal](Oath%253A_Bladeharper.md)
+
 [Bladeharper](Oath%253A_Bladeharper.md)
 
 (75 MED OR comb. 90 WEP/25 STR OR AGL)
+
+[Blindseerfinal](Oath%253A_Blindseer.md)
 
 [Blindseer](Oath%253A_Blindseer.md)
 
 (40 WLL)
 
+[Contractorfinal](Oath%253A_Contractor.md)
+
 [Contractor](Oath%253A_Contractor.md)
 
 (N/A)
+
+[Chainwardenfinal](Oath%253A_Chainwarden.md)
 
 [Chainwarden](Oath%253A_Chainwarden.md)
 
 (comb. 40 STR OR FTD OR WLL)
 
+[Dawnwalkerfinal](Oath%253A_Dawnwalker.md)
+
 [Dawnwalker](Oath%253A_Dawnwalker.md)
 
 (N/A)
+
+[Fadetrimmerfinal](Oath%253A_Fadetrimmer.md)
 
 [Fadetrimmer](Oath%253A_Fadetrimmer.md)
 
 (LVL 12)
 
+[Jetstrikerfinal](Oath%253A_Jetstriker.md)
+
 [Jetstriker](Oath%253A_Jetstriker.md)
 
 (50 AGL)
+
+[Linkstriderfinal](Oath%253A_Linkstrider.md)
 
 [Linkstrider](Oath%253A_Linkstrider.md)
 
 (N/A)
 
+[Saintswornfinal](Oath%253A_Saintsworn.md)
+
 [Saintsworn](Oath%253A_Saintsworn.md)
 
 (20 FIR/20 ICE/20 LTN/20 WND/20 SDW)
+
+[Saltchemistfinal](Oath%253A_Saltchemist.md)
 
 [Saltchemist](Oath%253A_Saltchemist.md)
 
 (75 INT)
 
+[Silentheartfinal](Oath%253A_Silentheart.md)
+
 [Silentheart](Oath%253A_Silentheart.md)
 
 (75 WEP/25 STR/25 AGL OR CHA)
+
+[Soulbreakerfinal](Oath%253A_Soulbreaker.md)
 
 [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 (comb. 50 WLL/CHA)
 
+[Starkindredfinal](Oath%253A_Starkindred.md)
+
 [Starkindred](Oath%253A_Starkindred.md)
 
 (40 STR)
+
+[Visionshaperfinal](Oath%253A_Visionshaper.md)
 
 [Visionshaper](Oath%253A_Visionshaper.md)
 

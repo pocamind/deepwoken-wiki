@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 130272
+revid: 130407
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -41,6 +41,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Bookkeeper Andros](Bookkeeper_Andros.md) | Unaligned | [Etris](Etris.md), library near the inn | Duke of Sin questline |  |
 | [Calamus](Calamus.md) | [The Hive](The_Hive.md) | [Starswept Valley](The_Starswept_Valley.md) | Gives you a quest to hunt a monster. Quest completion gives Hive rep |  |
 | [Calypso](Calypso.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None |  |
+| [Cave Master](Cave_Master.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
 | [Cestis](Cestis.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants [Murmur: Tacet](Murmur%253A_Tacet.md) |  |
 | [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the Talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
 | [C'lantaa](<C'lantaa.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
