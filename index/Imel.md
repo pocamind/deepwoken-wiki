@@ -1,6 +1,6 @@
 ---
 title: Imel
-revid: 128461
+revid: 130612
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrean Luminant, The Ministry]
@@ -40,7 +40,7 @@ Oh, great, great! You're going to _kill someone_. Specifically, any poor sap you
 
 _SPLENDID!_ Your task for now is to find and eliminate a _living being_ as smart as you on Erisia. Once you've _killed them_, come back for a surprise...
 
-If you talk to him again without having completed:
+If you talk to her again without having completed:
 
 Hello, fool! Have you completed your _PARTY TRICK_ for me yet?
 

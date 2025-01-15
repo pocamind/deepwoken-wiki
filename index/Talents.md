@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 130229
+revid: 130606
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1072,9 +1072,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Flamecharm
 
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity.
+    -   Azure Flames burn deals 9 damage per seconds.
+    -   If you have the lava serpent path, the explosion will have less delay before proccing, more posture damage, and a bigger radius with this Talent.
     -   Prerequisites: 70 Flamecharm, 40 Willpower
-        -   Azure Flames burn deals 9 damage per seconds.
-        -   If you have the lava serpent path, the explosion will have more posture damage and a bigger radius with this Talent.
 
 -   Expert Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
     -   Prerequisite: 30 Flamecharm
