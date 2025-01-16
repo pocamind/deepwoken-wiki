@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 127377
+revid: 131074
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights, Moonseye]
@@ -54,6 +54,7 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
  | Causes a rain of white flaming javelins from the sky**, similar to the critical attack of the [First Light](First_Light.md).**
 
 -   Strangely enough, these deal wind damage.
+-   Moon Knight does NOT attack while this attack is active
 
  | ✗ | ◯ | ◯ | (★☆☆) |
 

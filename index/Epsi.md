@@ -1,6 +1,6 @@
 ---
 title: Epsi
-revid: 130868
+revid: 131083
 source: https://deepwoken.fandom.com/wiki/Epsi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -14,7 +14,7 @@ categories: [NPCs, The Ignition Union, NPCs located in the First Floor of the Se
 
 ## Description
 
-Epsi is a young [Gremor](Gremor.md) boy working for [The Ignition Union](The_Ignition_Union.md). He's encountered in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). Saving him is required to unlock the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md).
+Epsi is a young [Gremor](Gremor.md) boy working for [The Ignition Union](The_Ignition_Union.md). He's encountered in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). Saving him is required to unlock the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md). his aspect variant doesn't appear in game as no gremor has white horns or pale skin
 
   
 

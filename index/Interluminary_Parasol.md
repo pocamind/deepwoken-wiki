@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 130364
+revid: 131105
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Monsters, Bosses]
@@ -20,7 +20,7 @@ The Interluminary Parasol is a giant floating jellyfish-like creature resembling
 
 According to the item description of it's exclusive drop, the Parasol emerges from the Depths, it's sole purpose being to spread the Depth's influence by bringing it's mobs up to the surface, disrupting the ecosystems on the surface.
 
-This boss is one of the [World Events](World_Events.md), potentially spawning once every real world hour. Like other world event bosses, it does not grant bell progression when defeated.
+This boss is one of the [World Events](World_Events.md), potentially spawning once every real world hour. Like other world event bosses, it does not grant [bell progression](Resonance.md#bell-progress) when defeated.
 
 ## Moveset
 
@@ -141,10 +141,8 @@ File:Symphonyandtheypet.png
 -   Path2: Near the [Songseeker](Songseeker_Wilds.md) - [Summer isle](Summer_Isle.md) highway it will always go towards the [Monkey's paw](<The_Monkey's_Paw.md>) - then to [Greathive Aratel.](Greathive_Aratel.md)
 
 -   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit.
--   Take care of the summoned mobs and use them as healthpacks. Do not let them pile up and overwhelm you.
 
 ## Trivia
 
 -   Currently, it will sometimes not spawn with its tentacles visible; the spike it attacks you with will instead be floating
--   ~If it spawns near songseeker wilds, it will almost always get stuck on the highway gate near Fort merit (allowing an easy kill).~ fixed
 -   Probably inspired in Metroids by Metroid series.

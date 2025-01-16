@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 127878
+revid: 131087
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -69,7 +69,7 @@ Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one. [Sib
 
 ### **Worthy**
 
-Grants unique diologue with [The Legendary Boot](Legendary_Boot.md). In order to obtain it, you also need 100 [LHT](Weapons.md#light-weapons), and [Jus Karita](Jus_Karita.md). Functionally, this does nothing to progression, abillities, or anything crucial to the game, but it is just a silly piece of dialogue.
+Grants unique dialogue with [The Legendary Boot](Legendary_Boot.md). In order to obtain it, you also need 100 [LHT](Weapons.md#light-weapons), and [Jus Karita](Jus_Karita.md). Functionally, this does nothing to progression, abilities, or anything crucial to the game, but it is just a silly piece of dialogue.
 
 "The Legendary Boot waits for the day that one worthy will claim it. Someone worthy with smaller feet."
 

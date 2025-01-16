@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 124886
+revid: 131096
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -62,3 +62,4 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 
 -   Every NPC except the other members of [The Ministry](The_Ministry.md) are hostile towards them.
 -   When gripped by a [Gran Sudaruska](Gran_Sudaruska.md), the spirit of Sudaruska will speak.
+-   For what ever reason they have a chance to say "behold my magic spell" a slight chance they will say it.

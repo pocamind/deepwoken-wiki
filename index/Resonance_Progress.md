@@ -1,11 +1,11 @@
 ---
-title: Bell Progress
-revid: 131093
-source: https://deepwoken.fandom.com/wiki/Bell_Progress
+title: Resonance Progress
+revid: 131097
+source: https://deepwoken.fandom.com/wiki/Resonance_Progress
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Bell Progress
+# Resonance Progress
 
 Redirect to:
 

@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 129177
+revid: 131070
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]
@@ -79,7 +79,7 @@ _Summon a legion of flaming spearmen that lunge inwards._
 -   Deals exactly 20 posture damage
 -   The Flamecharm counterpart to [Frostdraw's](../Frostdraw.md) [Frozen Servants](../Frostdraw.md#combat-mantras).
 -   Can be modified with [Cloudstones](../Mantra_Modifiers.md) to add more warriors.
--   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md) to have the warriors attack outwards and rag doll.
+-   Can be modified with a [Reversal Spark](../Mantra_Modifiers.md) to have the warriors attack outwards and ragdoll.
 
  |
 |  | 
