@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 129916
+revid: 131068
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -169,6 +169,7 @@ Rising Shadow
 with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.  
 
 -   Drift and Rush Shards increase projectile speed.
+-   Cloud and Stratus Stones increase range.
 -   Can be modified with a Blast Spark, making your Rising Shadow apply a status effect that massively increases mantra ether cost and returns a portion of ether consumed to the user if enemies manage to cast a mantra, if your ether is full you emit a wave of shadow.
 -   Deals 32 dmg + 3 slam
 
@@ -256,6 +257,7 @@ for raw strength
  | 55 Ether | Shadow | Causes a damaging shockwave that adds a +20% weapon damage buff to the user, consumes health upon use.
 
 -   The damage buff can be increased to 25% with [Vibrant Gems](Mantra_Modifiers.md)
+-   Can be modified with Aeon/Eternal Logstones to increase duration of buff.
 -   Spine Cutter cannot be used while Shade Devour is active
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to perform a bigger shockwave.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to perform 3 shockwaves instead of 1.
@@ -317,6 +319,7 @@ Shadow Assault
  | A rush of darkness. | 50 Ether | Shadow | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable.
 
 -   Lenses increase distance.
+-   Glass and Magnifying Stones make hitbox larger.
 -   Can be modified with a blast spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
 -   Deals 55 DMG no mod, 80 blast spark.
 

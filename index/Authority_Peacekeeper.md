@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 106744
+revid: 131057
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, The Central Authority]
@@ -14,16 +14,23 @@ Template:EnemyInfobox1.0
 
 Authority Peacekeepers are a type of enemy NPC found patrolling in [Fort Merit](Fort_Merit.md). Despite their intimidating look, they are surprisingly weak compared to an [Authority Officer](Authority_Officer.md).
 
-Their appearance consists of a Authority Peacekeeper Uniform and an Authority Helmet. They are almost identical to the [Authority Soldier](Authority_Soldier.md), but are easily identifiable by their signature [Rifle Spear](Rifle_Spear.md).
+Their appearance consists of a Authority Peacekeeper Uniform and an Authority Helmet. They are almost identical to the [Authority Soldier](Authority_Soldier.md), with only those wielding their [Rifle Spear](Rifle_Spear.md) being unique at a glance.
 
 ## Moveset
 
-Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement:
+Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md), [Cavalry Saber](Cavalry_Saber.md) or [Adretian Axe](Adretian_Axe.md) along with the [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Pulls the trigger on the spear that fires a bullet at opponent. | ◯ | ✗ | (★★☆) |
+| Assault | ([Rifle Spear](Rifle_Spear.md))Firmly thrusts spear at opponent and finishing the combo by kicking them.
+([Cavalry Saber](Cavalry_Saber.md))Firmly swings blade at opponent before finishing up the combo by kicking them. ([Adretian Axe](Adretian_Axe.md))Swings axe at opponent and finishes the attack by kicking them away.
+
+ | ◯ | ◯ | (★☆☆) |
+| Critical | ([Rifle Spear](Rifle_Spear.md))Pulls the trigger on the spear that fires a bullet at opponent.
+
+([Cavalry Saber](Cavalry_Saber.md))Does a windup with the arm before hitting you with a lunge attack. ([Adretian Axe](Adretian_Axe.md))Does a windup by rising the weapon before slamming it's blade on you.
+
+ | ◯ | ✗ | (★★☆) |
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
 | Relentless Flame | Bear down on your foes with repeated fiery slashes. | ◯ | ? | (★★☆) |
 | Flame Grab | A fiery chokehold | ◯ | ? | (★☆☆) |

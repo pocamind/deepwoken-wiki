@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 129921
+revid: 131069
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -351,6 +351,9 @@ Does not negate deferred, fire or fall damage.
 -   Each shot applies a Metal Rod on hit
 -   CD is 30s
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to conjure two turrets instead of one
+-   Requires a ritual cast with one key.
+-   Can be modified with **Aeon/Eternal Logstones** to increase duration.
+-   Can be modified with **Drift/Rush Shards** to make turret spin faster.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 130662
+revid: 131061
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -301,6 +301,7 @@ _A rising tornado of flames._
 -   Has a 0.7 second endlag if missed.
 -   Does not send the user into the air if missed.
 -   Improved by Talents "Meteor Impact" and "Phoenix Impact".
+-   Can be modified with Cloud/Stratus stones to make hitbox larger.
 
  |
 | 
@@ -343,6 +344,7 @@ _Strike the ground, turning it to ash._
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
 -   Requires at least 20 Strength to obtain.
+-   Can be modified with Crystal/Perfect Lenses to make hitbox bigger.
 
  |
 | 
@@ -361,6 +363,8 @@ _Strike the ground, turning it to ash._
 -   Has a unique effect where it ricochets when blocked.
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
 -   Can be modified with a spring spark to make the user float upwards upon shooting.
+-   Can be modified with Crystal/Perfect Lenses to increase speed and range.
+-   Can be modified with Glass/Magnifying Stones to make explosion larger.
 -   (NEED NEW GIF BELOW THIS WAS BEFORE IT WAS CHANGED)
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 124895
+revid: 131058
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -14,17 +14,21 @@ Template:EnemyInfobox1.0
 
 The Authority Lieutenant is an NPC found outside the shipwright hut in [Fort Merit](Fort_Merit.md), or fighting with [Legion Captains](Legion_Captain.md) in [Starswept Valley](The_Starswept_Valley.md).
 
-Their appearance consists of a Authority Captain Uniform, a Black Shrouded Cape and, unusually for an Authority member, [Polarised Sunglasses](Eyeglasses.md). They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>). Their aspect can only be an [Adret](Adret.md).
+Their appearance consists of a Authority Captain Uniform, a Black Shrouded Cape and, unusually for an Authority member, [Polarised Sunglasses](Eyeglasses.md), however for some odd reason they wear their [helmet](Authority_Helm.md) too. They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>). Their aspect can only be an [Adret](Adret.md).
 
 ## Moveset
 
-Their arsenal is composed of an Officer Sabre/Adretian Axe along with the [Flamecharm](Flamecharm.md) attunement:
+Their arsenal is composed of an Officer Saber/Adretian Axe/Mace along with the [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings blade at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | ([Officier Saber](Officer_Saber.md)):Does a windup with the arm before hitting you with a lunge attack.
-([Adretian Axe](Adretian_Axe.md)):Does a windup by rising the weapon before slamming it's blade on you.
+| Assault | ([Officer Saber](Officer_Saber.md)/[Adretian Axe](Adretian_Axe.md))Firmly swings blade at opponent before finishing up the combo by kicking them.
+([Mace](Mace.md))Firmly swings weapon at opponent and finishing the combo by kicking them.
+
+ | ◯ | ◯ | (★☆☆) |
+| Critical | ([Officer Saber](Officer_Saber.md)):Does a windup with the arm before hitting you with a lunge attack.
+
+([Adretian Axe](Adretian_Axe.md)):Does a windup by rising the weapon before slamming it's blade on you. ([Mace](Mace.md))Raises club upward before slamming it down to the ground.
 
  | ◯ | ◯ | (★★☆) |
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ◯ | (★★☆) |
