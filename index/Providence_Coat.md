@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 117783
+revid: 131025
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Arms, Coats]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | PWR 10 |
+| requirements | Power 8 |
 | weight | 2 |
 | innate stats | +5 Health, +2 Rare Pips |
 | innate talent | Braced Collapse |

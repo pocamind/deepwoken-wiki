@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 128616
+revid: 131031
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Arms, Coats]
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 13 |
+| requirements | PWR 8 |
 | weight | 2 |
 | innate stats | +4 Rare Pips |
 | innate talent | N/A |

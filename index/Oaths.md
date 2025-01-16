@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 130635
+revid: 131047
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -33,7 +33,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Oathless](Oath%253A_Oathless.md)
 
-(N/A)
+(No Stat Requirement)
 
 [Arcwarderfinal](Oath%253A_Arcwarder.md)
 
@@ -57,7 +57,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Contractor](Oath%253A_Contractor.md)
 
-(N/A)
+(No Stat Requirement)
 
 [Chainwardenfinal](Oath%253A_Chainwarden.md)
 
@@ -69,7 +69,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Dawnwalker](Oath%253A_Dawnwalker.md)
 
-(N/A)
+(No Stat Requirement)
 
 [Fadetrimmerfinal](Oath%253A_Fadetrimmer.md)
 
@@ -87,7 +87,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Linkstrider](Oath%253A_Linkstrider.md)
 
-(N/A)
+(No Stat Requirement)
 
 [Saintswornfinal](Oath%253A_Saintsworn.md)
 

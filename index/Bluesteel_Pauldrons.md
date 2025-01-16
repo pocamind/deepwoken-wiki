@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 116958
+revid: 131046
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -15,7 +15,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +3 Health, +1 Rare Pip |
+| innate stats | +5 Health, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

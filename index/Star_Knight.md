@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 126235
+revid: 131050
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights, Moonseye]
@@ -111,6 +111,6 @@ A Stone Knight executes the player:
 ## Trivia
 
 -   Previously was called "Michael"
--   Immortal Guardians attack Astral Knights.
--   Astral Knights tend to talk in full capital letters, like Rogue Constructs. They say "OUTSIDE INTERFERENCE PROBABLE.", "DIRECTIVE: ELIMINATE THREAT, RETURN ARTIFACT TO CONTAINMENT."
--   The [Moon Knight](Moon_Knight.md) is probably the Star Knight's old and weaker design.
+-   Immortal Guardians will attack Star Knights.
+-   Star Knights talk when they commence combat with a player. It will say "OUTSIDE INTERFERENCE PROBABLE." followed by "DIRECTIVE: ELIMINATE THREAT, RETURN ARTIFACT TO CONTAINMENT.", in a similar matter as a [Hive Construct](Hive_Construct.md) would.
+-   The [Moon Knight](Moon_Knight.md) appears to be a mirrored counterpart of the Star Knight.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 128096
+revid: 131049
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -223,7 +223,7 @@ Once you select your card, using C will activate your **Resonance**.
 
 _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a get-out-of-jail-card in The Depths._
 
--   While many players choose to commit to "bell checking" in order to obtain their bell quickly by intentionally dying to enemies, other players might instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md)/[New Kyrsa (tested)](Second_Layer/New_Kyrsa.md), and most likely save you from wiping.**
+-   While many players choose to commit to "bell checking" in order to obtain their bell quickly by intentionally dying to enemies, other players might instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md)/[New Kyrsa](Second_Layer/New_Kyrsa.md), and most likely save you from wiping.**
 -   Otherwise, it's safest to bell check in Layer 2 **after obtaining a [Light Hook](Light_Hook.md) from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)**, as the Light Hook prevents you from being wiped in Layer 2.
 -   Note that any cause of death, including from enemies, PVP, dying from [Insanity](Insanity.md), and [parasites](Second_Layer/The_Ethironal_Shrine.md#parasites) in Layer 2 is able to bell check.
 

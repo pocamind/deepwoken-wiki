@@ -1,6 +1,6 @@
 ---
 title: Autumn Pauldrons
-revid: 123608
+revid: 131016
 source: https://deepwoken.fandom.com/wiki/Autumn_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | Level 5 |
 | weight | 2 |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |

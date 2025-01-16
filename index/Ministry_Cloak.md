@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 116461
+revid: 131033
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Arms, Cloaks]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 13 |
+| requirements | PWR 8 |
 | weight | 2 |
 | innate stats | +5 Health, +10 Ether, +1 Rare Pips, +1 Legendary Pips |
 | innate talent | N/A |

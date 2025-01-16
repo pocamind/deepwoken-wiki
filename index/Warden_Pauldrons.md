@@ -1,6 +1,6 @@
 ---
 title: Warden Pauldrons
-revid: 117787
+revid: 131026
 source: https://deepwoken.fandom.com/wiki/Warden_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons, Equipment of The Central Authority]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Arms, Pauldrons, Equipment of The Central Authori
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | PWR 10 |
+| requirements | PWR 13 |
 | weight | 2 |
 | innate stats | +10 Health, +2 Posture, +1 Legendary Pip |
 | innate talent | N/A |

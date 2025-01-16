@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 130121
+revid: 131048
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1777,8 +1777,9 @@ Some players have access to customized, unique names.
     -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
     -   "Binah", "Chesed", "Gebura", "Hokma", "Netzach", "Tiphereth" can also be reference to [the tree of life](<https://en.m.wikipedia.org/wiki/Tree_of_life_(Kabbalah)>) which the said characters from _Library of Ruina_ and _Lobotomy Corporation_ are based on. But "Malkuth", "Yesod", and "Hod" are not added as names.
     -   "Roland" and "Argalia" can also be reference to characters from [Orlando Innamorato](https://en.m.wikipedia.org/wiki/Orlando_Innamorato) which the said characters from _Library of Ruina_ are based on.
--   Additionally, the names "Faust", "Ishmael", "Ahab", "Heathcliff", "Catherine" and "Gregor" are references to _Limbus Company_, a game created by the same studio as _Lobotomy Corporation_ and _Library of Ruina. (Yet no Don Quixote.. or at least Quixote...)_
+-   Additionally, the names "Faust", "Ishmael", "Ahab", "Heathcliff", "Catherine" and "Gregor" are likely references to _Limbus Company_, a game created by the same studio as _Lobotomy Corporation_ and _Library of Ruina. (Yet no Don Quixote.. or at least Quixote...)_
     -   These names, like most from Limbus Company, are derived from classic literature. Faust is from [Goethe's Faust](https://en.wikipedia.org/wiki/Goethe%27s_Faust) _(which is based on a [German folktale](https://en.wikipedia.org/wiki/Faust)),_ Ishmael and Ahab are from [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick), Heathcliff and Catherine are from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) and Gregor is from [The Metamorphosis.](https://en.wikipedia.org/wiki/The_Metamorphosis)
+    -   Faust may be an exception due to said name existing since release, unlike the others mentioned from above, and is a commonly used name in real life.
 -   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum", are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.
 -   The names "Luka", "Yugo" and "Faris" could be references to _[Steins; Gate](https://steins-gate.fandom.com/wiki/Steins;Gate_Wiki)_.
 -   Various names reference the works of William Shakespeare:
