@@ -1,9 +1,9 @@
 ---
 title: Aristo
-revid: 128419
+revid: 130837
 source: https://deepwoken.fandom.com/wiki/Aristo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Etrean Luminant]
+categories: [NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Aristo

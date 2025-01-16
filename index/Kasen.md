@@ -1,9 +1,9 @@
 ---
 title: Kasen
-revid: 115291
+revid: 130907
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Talents, Layer 2, Floor 1]
+categories: [NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Kasen

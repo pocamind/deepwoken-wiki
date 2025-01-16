@@ -1,9 +1,9 @@
 ---
 title: Marro
-revid: 128485
+revid: 130737
 source: https://deepwoken.fandom.com/wiki/Marro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Eastern Luminant]
+categories: [NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Marro
@@ -11,6 +11,7 @@ categories: [NPCs, Eastern Luminant]
 | Marro | |
 |---|---|
 | name | Marro |
+| aspect | Chrysid |
 | location | Songseeker Wilds |
 
 ## Description

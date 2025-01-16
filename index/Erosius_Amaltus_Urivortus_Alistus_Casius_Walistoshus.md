@@ -1,9 +1,9 @@
 ---
 title: Erosius Amaltus Urivortus Alistus Casius Walistoshus
-revid: 128449
+revid: 130877
 source: https://deepwoken.fandom.com/wiki/Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 1, Quests]
+categories: [NPCs, Quests, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Erosius Amaltus Urivortus Alistus Casius Walistoshus

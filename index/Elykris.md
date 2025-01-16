@@ -1,9 +1,9 @@
 ---
 title: Elykris
-revid: 128585
+revid: 130865
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, Quests, Etrean Luminant]
+categories: [Celtor NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Elykris

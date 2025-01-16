@@ -1,9 +1,9 @@
 ---
 title: Trig
-revid: 128530
+revid: 130755
 source: https://deepwoken.fandom.com/wiki/Trig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Summer Company, Eastern Luminant]
+categories: [NPCs, Quests, Summer Company, NPCs located in the Eastern Luminant]
 ---
 
 # Trig
@@ -11,6 +11,7 @@ categories: [NPCs, Quests, Summer Company, Eastern Luminant]
 | Trig | |
 |---|---|
 | name | Trig |
+| aspect | Gremor |
 | location | Summer Isle |
 
 “ Hm? I'm busy, leave me alone. ”

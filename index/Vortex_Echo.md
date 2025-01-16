@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 130626
+revid: 130672
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons, Legendaries]
@@ -36,6 +36,8 @@ The Critical attack will reduce **most** active cooldowns by 30 seconds (mantras
 | List of unaffected cooldowns: |
 | --- |
 | Command: Live |
+| Reinforce |
+| Graceful Flame |
 
 ## Version History
 

@@ -1,9 +1,9 @@
 ---
 title: Mime
-revid: 128491
+revid: 130740
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mantras, NPCs, Eastern Luminant, Quests]
+categories: [Pages with broken file links, Mantras, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Mime

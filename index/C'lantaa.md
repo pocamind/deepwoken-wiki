@@ -1,9 +1,9 @@
 ---
 title: "C'lantaa"
-revid: 102625
+revid: 130855
 source: https://deepwoken.fandom.com/wiki/C'lantaa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 2]
+categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # C'lantaa

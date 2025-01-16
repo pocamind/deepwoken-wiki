@@ -1,9 +1,9 @@
 ---
 title: "F'leche"
-revid: 102610
+revid: 130881
 source: https://deepwoken.fandom.com/wiki/F'leche
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 2]
+categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # F'leche

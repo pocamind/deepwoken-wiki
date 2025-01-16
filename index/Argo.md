@@ -1,9 +1,9 @@
 ---
 title: Argo
-revid: 128420
+revid: 130839
 source: https://deepwoken.fandom.com/wiki/Argo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Fishing, Etrean Luminant]
+categories: [Etrean NPCs, NPCs, Fishing, NPCs located in the Etrean Luminant]
 ---
 
 # Argo

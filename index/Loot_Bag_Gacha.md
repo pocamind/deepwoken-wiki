@@ -1,9 +1,9 @@
 ---
 title: Loot Bag Gacha
-revid: 128447
+revid: 130875
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics, Eastern Luminant, Etrean Luminant, Quests]
+categories: [NPCs, Mechanics, Quests]
 ---
 
 # Loot Bag Gacha
@@ -97,35 +97,31 @@ An NPC located inside [The Lordsgrove](The_Lordsgrove.md).
   <td colspan="12">Passing by, traveler? How about a little bargain, for fun?</td>
 </tr>
 <tr>
-  <td colspan="11">I'm interested.</td>
-  <td>End</td>
+  <td colspan="12">I'm interested.</td>
 </tr>
 <tr>
-  <td colspan="11">The rules are simple! You give me 350 notes, and I give you something random out of my bag. Sounds like fun, right?</td>
+  <td colspan="12">The rules are simple! You give me 350 notes, and I give you something random out of my bag. Sounds like fun, right?</td>
 </tr>
 <tr>
-  <td colspan="10">It's on.</td>
-  <td>End</td>
+  <td colspan="12">It's on.</td>
 </tr>
 <tr>
-  <td colspan="10">That's the spirit! Now, let's see those notes. 350 of them, to be exact.</td>
+  <td colspan="12">That's the spirit! Now, let's see those notes. 350 of them, to be exact.</td>
 </tr>
 <tr>
-  <td colspan="9">Here's my payment.</td>
-  <td>End</td>
+  <td colspan="12">Here's my payment.</td>
 </tr>
 <tr>
-  <td colspan="8"><b>Player has 350 notes</b></td>
-  <td><b>Player is lying for some reason</b></td>
+  <td colspan="6"><b>Player has 350 notes</b></td>
+  <td colspan="6"><b>Player is lying for some reason</b></td>
 </tr>
 <tr>
-  <td colspan="8">Aha! Now we just... look in here... and... aha! I hope this suits your liking. Come back anytime. <b>[Player recieves item]</b></td>
-  <td>Very funny. Where's the money?</td>
+  <td colspan="6">Aha! Now we just... look in here... and... aha! I hope this suits your liking. Come back anytime. <b>[Player recieves item]</b></td>
+  <td colspan="6">Very funny. Where's the money?</td>
 </tr>
 <tr>
-  <td colspan="7">How do you even get this stuff?</td>
-  <td>End</td>
-  <td>End</td>
+  <td colspan="6">How do you even get this stuff?</td>
+  <td colspan="6">End</td>
 </tr>
 <tr>
   <td colspan="6">Simple! I wait for sorry souls like you to drop dead around here, and take anything cool looking off the corpse. Clever, right?</td>

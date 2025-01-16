@@ -1,9 +1,9 @@
 ---
 title: Malte
-revid: 128484
+revid: 130936
 source: https://deepwoken.fandom.com/wiki/Malte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Etrean Luminant]
+categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Malte
@@ -29,20 +29,19 @@ You can find her muttering about her research, if you talk to her she will tell 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">If you don't mind, I'm quite busy researching something right now... Do I look like a lecturer to you? <i>*They mutter something incomprehensible about academia.*</i></td>
+  <td>If you don't mind, I'm quite busy researching something right now... Do I look like a lecturer to you? <i>*They mutter something incomprehensible about academia.*</i></td>
 </tr>
 <tr>
-  <td colspan="6">What are you researching?</td>
-  <td colspan="6">End</td>
+  <td>What are you researching?</td>
 </tr>
 <tr>
-  <td colspan="12">You're interested? Hm, well, I've been reading up on the <b>Sky Statues</b> dotted around the luminant. Apparently in days past they were used by swordsmen of this very island to conduct 'Reflection Rituals'. Though, what exactly these were, I have no clue.</td>
+  <td>You're interested? Hm, well, I've been reading up on the <b>Sky Statues</b> dotted around the luminant. Apparently in days past they were used by swordsmen of this very island to conduct 'Reflection Rituals'. Though, what exactly these were, I have no clue.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

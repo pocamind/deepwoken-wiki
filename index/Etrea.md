@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 124005
+revid: 131007
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Factions, Etrea]
@@ -48,7 +48,7 @@ There are a substantial amount of ways to gain reputation with Etrea:
 On top of that, Etrea has many [random events](Random_Encounters.md) across the Luminants in which you may assist them and gain reputation:
 
 -   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Authority Officers](Authority_Officer.md)Authorityiconfaction ([Erisia](Erisia.md))
--   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs Authority Officers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
+-   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs [Authority Officer](Authority_Officer.md) Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   Vigil SwordsmenEtreaiconfaction vs [Hive Scouts](Hive_Scout.md)Hiveiconfaction([Starswept Valley](The_Starswept_Valley.md))
 -   Etrean SoldiersEtreaiconfaction vs [Knives of Eylis](Knife_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 

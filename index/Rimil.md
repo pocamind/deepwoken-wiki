@@ -1,9 +1,9 @@
 ---
 title: Rimil
-revid: 128516
+revid: 130748
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Ministry, Eastern Luminant, Quests]
+categories: [NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Rimil
@@ -11,17 +11,18 @@ categories: [NPCs, The Ministry, Eastern Luminant, Quests]
 | Rimil | |
 |---|---|
 | name | Rimil |
+| aspect | Canor |
 | location | Eastern Sea, Meteor Isle |
 
 ## Description
 
-Rimil is a [Canor](Canor.md) NPC who resides in the Eastern Sea, more specifically in [Meteor Isle](Meteor_Isle.md), being a member of [the Ministry](The_Ministry.md) faction, you can find her leaning against a large log very close to the main village.
+Rimil is a [Canor](Canor.md) NPC who resides in the Eastern Sea, more specifically in [Meteor Isle](Meteor_Isle.md), being a member of [the Ministry](The_Ministry.md) faction, you can find them leaning against a large log very close to the main village.
 
-If you decide to talk to him, he will give you the mission to kill some enemies in [Starswept Valley](The_Starswept_Valley.md), if you complete it you will gain morale with the Ministry and a payment for your deeds.  As the NPC in Etrean luminant on statue island, you must grab (kill) a person in Starswept Valley and return to them to get reputation and rewards.
+If you decide to talk to them, they will give you the mission to kill some enemies in [Starswept Valley](The_Starswept_Valley.md), if you complete it you will gain reputation with the Ministry and a payment for your deeds.  As the NPC in Etrean luminant on statue island, you must grab (kill) a person in Starswept Valley and return to them to get reputation and rewards.
 
 ## Dialogue
 
-Speaking to his:
+Speaking to them:
 
 You, you! Little killer! Looking for some fun?
 
@@ -40,7 +41,7 @@ Oh, great, great! You're going to _kill someone_. Specifically, any poor sap you
 
 _SPLENDID!_ Your task for now is to find and eliminate a _living being_ as smart as you on Starswept Valley. Once you've _killed them_, come back for a surprise...
 
-If you talk to him again without having completed:
+If you talk to them again without having completed:
 
 Hello, fool! Have you completed your _PARTY TRICK_ for me yet?
 

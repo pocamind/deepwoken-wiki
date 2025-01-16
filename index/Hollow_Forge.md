@@ -1,9 +1,9 @@
 ---
 title: Hollow Forge
-revid: 127088
+revid: 130730
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Eastern Luminant, Origins]
+categories: [Mechanics]
 ---
 
 # Hollow Forge

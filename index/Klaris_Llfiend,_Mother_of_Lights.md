@@ -1,9 +1,9 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 128512
+revid: 130914
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Divers, Layer 1, Vendors]
+categories: [NPCs, The Divers, Vendors, NPCs located in the First Layer]
 ---
 
 # Klaris Llfiend, Mother of Lights

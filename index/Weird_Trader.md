@@ -1,9 +1,9 @@
 ---
 title: Weird Trader
-revid: 128537
+revid: 131001
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors, Eastern Luminant, Etrean Luminant]
+categories: [NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant]
 ---
 
 # Weird Trader
@@ -11,6 +11,7 @@ categories: [NPCs, Vendors, Eastern Luminant, Etrean Luminant]
 | Weird Trader | |
 |---|---|
 | name | Weird Trader |
+| aspect | Ganymede |
 | location | Random Encounter (Sea) |
 
 “ Hi. ”

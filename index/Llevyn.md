@@ -1,9 +1,9 @@
 ---
 title: Llevyn
-revid: 107052
+revid: 130928
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1, The Ignition Union]
+categories: [In progress without reason, InProgressPages, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -13,6 +13,7 @@ notices:
 | Llevyn | |
 |---|---|
 | name | Llevyn |
+| aspect | Adret |
 | location | The Frontier Furnace |
 
 ## Description

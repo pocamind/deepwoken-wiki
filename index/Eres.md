@@ -1,9 +1,9 @@
 ---
 title: Eres
-revid: 128774
+revid: 130762
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Etrea, Eastern Luminant]
+categories: [NPCs, Etrea, NPCs located in the Eastern Luminant]
 ---
 
 # Eres

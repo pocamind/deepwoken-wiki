@@ -1,9 +1,9 @@
 ---
 title: Seraphina
-revid: 128519
+revid: 130979
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Etrean Luminant]
+categories: [NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Seraphina
@@ -11,6 +11,7 @@ categories: [NPCs, Etrean Luminant]
 | Seraphina | |
 |---|---|
 | name | Seraphina |
+| aspect | Capra |
 | location | Etris Docks |
 
 ## Description

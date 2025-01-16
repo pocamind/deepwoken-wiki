@@ -1,9 +1,9 @@
 ---
 title: Blade Instructor
-revid: 126855
+revid: 130707
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Etrea, Kingdom of Etrea Enemies]
+categories: [Enemies, Etrea, Kingdom of Etrea Enemies, Etrean Luminant]
 ---
 
 # Blade Instructor
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Instructor is an NPC that can only spawned in via sparring. To spawn him, the player must talk to Das who is located in the training hall on [Isle of Vigils](Isle_of_Vigils.md), only then will an Instructor spawn.
+The Instructor is an NPC that can only spawned in via sparring. To spawn him, the player must talk to [Das](Das.md) who is located in the training hall on [Isle of Vigils](Isle_of_Vigils.md), only then will an Instructor spawn.
 
 Instructors wear a Gladiator Helmet and a [Cloak of Winds](Cloak_of_Winds.md) outfit with their [aspect](Aspects.md) varying.
 

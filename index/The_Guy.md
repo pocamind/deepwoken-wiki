@@ -1,9 +1,9 @@
 ---
 title: The Guy
-revid: 128457
+revid: 130753
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Summer Company, Quests, Eastern Luminant]
+categories: [NPCs, Summer Company, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # The Guy
@@ -11,6 +11,7 @@ categories: [NPCs, Summer Company, Quests, Eastern Luminant]
 | The Guy | |
 |---|---|
 | name | The Guy, Guy (after renouncing his title) |
+| aspect | Canor |
 | location | Near Meteor Isle |
 
 “ I'm a bit of a big deal around here. Bit of a big shot. You might've heard of me. They call me 'The Guy'. Why, you may ask? There's nobody else like me, I'm simply The Guy. The pinnacle of confidence and swagger, the pride of the Summer Company. ”

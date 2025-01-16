@@ -1,16 +1,16 @@
 ---
 title: Maedhran
-revid: 128483
+revid: 130770
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors, Eastern Luminant]
+categories: [NPCs, Vendors, NPCs located in the Eastern Luminant]
 ---
 
 # Maedhran
 
 Template:NPC name
 
-Maedhran is an NPC found in [Miner’s Landing](<Miner's_Landing.md>). He will sell you [Mantra Modifiers](Mantra_Modifiers.md) for 100 [notes](Notes.md) each.
+Maedhran is an NPC found in [Miner's Landing](<Miner's_Landing.md>). He will sell you [Mantra Modifiers](Mantra_Modifiers.md) for each.
 
 The mantra modifiers he sells are;
 
@@ -119,5 +119,4 @@ You bet. How else do you think I became so strong? _\*He points his thumb toward
 ## Trivia
 
 -   Upon picking any option that interrupts his story, you will be given the same dialogue of "Hey. Don't interrupt me. _\*His expression momentarily flashes with tremendous coldness, like hell freezing over, but then switches back to his normal expression as if nothing had ever happened.\*"_
--   He's a more expensive vendor compared to the Den Master, selling Cloudstones, Drift shards, Crystal Lens, and Amnesic Driftwood for 100. instead of 10.
--   Apparently he's a taleweaver.
+-   He's a more expensive vendor compared to the Den Master, selling Cloudstones, Drift shards, Crystal Lens, and Amnesic Driftwood for instead of.

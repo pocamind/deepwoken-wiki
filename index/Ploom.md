@@ -1,9 +1,9 @@
 ---
 title: Ploom
-revid: 128506
+revid: 130969
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Etrean Luminant]
+categories: [NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Ploom
@@ -11,6 +11,7 @@ categories: [NPCs, Quests, Etrean Luminant]
 | Ploom | |
 |---|---|
 | name | Ploom |
+| aspect | Ganymede |
 | location | Etris |
 
 ## Overview
@@ -78,20 +79,20 @@ Ploom is a Ganymede reading a book located within Lance's Food in [Etris](Etris.
   <td colspan="6">[Obtained Talent] Ah, hello friend! I hope you're finding use with what I taught you.</td>
 </tr>
 <tr>
-  <td colspan="3">Yep.</td>
+  <td colspan="6">Yep.</td>
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td><b>Player has 3 embers</b></td>
-  <td><b>Player is lying for some reason</b></td>
+  <td colspan="3"><b>Player has 3 embers</b></td>
+  <td colspan="3"><b>Player is lying for some reason</b></td>
 </tr>
 <tr>
-  <td>Thank you friend. Perhaps I can show you a couple things.</td>
-  <td>Sorry friend, it looks like you don't have enough of the Embers.</td>
+  <td colspan="3">Thank you friend. Perhaps I can show you a couple things.</td>
+  <td colspan="3">Sorry friend, it looks like you don't have enough of the Embers.</td>
 </tr>
 <tr>
-  <td>End (Talent obtained)</td>
-  <td>End</td>
+  <td colspan="3">End (Talent obtained)</td>
+  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>

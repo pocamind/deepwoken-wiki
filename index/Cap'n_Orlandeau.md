@@ -1,9 +1,9 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 128431
+revid: 130961
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Depths, Layer 2, Floor 2]
+categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Cap'n Orlandeau

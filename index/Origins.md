@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 130312
+revid: 131008
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -129,13 +129,13 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 > 
 > ― Flavor Text
 
-_**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get [Arcwarder](Oath%253A_Arcwarder.md), and you also arent required to go to delta in the overworld. If you already done the [Epsi](Epsi.md) quest, you can simply talk to [Alpha](Alpha.md) in the base and get the origin.
+_**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get [Arcwarder](Oath%253A_Arcwarder.md), and you also aren't required to go to Delta in the overworld. If you have already done the [Epsi](Epsi.md) quest, you can simply talk to [Alpha](Alpha.md) in the base and get the origin.
 
-Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by clearing out the [Summer Company guards](Summer_Company_Guard.md) found in Boiler Room of [Miner's Landing](<Miner's_Landing.md>), then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be of note that this doesn't mean that you need to do his quest twice!
+Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by clearing out the [Summer Company guards](Summer_Company_Guard.md) found in Boiler Room of [Miner's Landing](<Miner's_Landing.md>), then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be noted that this doesn't mean that you need to do his quest twice!
 
 You can do Trial of One.
 
-**Ignition Deepdelver** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the [Saramaed Hollow](Saramaed_Hollow.md) dungeon which can be done at lower powers (granted you stay in the earlier floors). They can also remotely accept jobs via their [Union Pager](Ignition_Delver.md), allowing them to quickly stack up jobs and EXP. Additionally, they can spawn at the [Chariot's Spire](<The_Chariot's_Spire.md>) in the depths if they wish.
+**Ignition Deepdelver's** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the [Saramaed Hollow](Saramaed_Hollow.md) dungeon which can be done at lower powers (granted you stay on the earlier floors). They can also remotely accept jobs via their [Union Pager](Ignition_Delver.md), allowing them to quickly stack up jobs and EXP. Additionally, they can spawn at the [Chariot's Spire](<The_Chariot's_Spire.md>) in the depths if they wish.
 
 -   Your starting reputations are:
     -   Friend of The [Ignition Union](The_Ignition_Union.md) and [Lost Celtor](Lost_Celtor.md)

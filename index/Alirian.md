@@ -1,9 +1,9 @@
 ---
 title: Alirian
-revid: 128418
+revid: 130831
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Oaths, Oath Trainer, Etrean Luminant]
+categories: [NPCs, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
 ---
 
 # Alirian

@@ -1,9 +1,9 @@
 ---
 title: Theadre
-revid: 130099
+revid: 130990
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Etrea, Etrean Luminant]
+categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Theadre

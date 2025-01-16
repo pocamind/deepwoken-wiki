@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 129688
+revid: 131009
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies, The Central Authority]
@@ -21,7 +21,7 @@ Authority officers are a type of enemy NPC working for [The Central Authority](T
 
 They are also the higher ranked and more dangerous counterpart to the [Authority Soldier](Authority_Soldier.md).
 
-Authority officers wear an [Authority Helm](Authority_Helm.md), a pair of [Bluesteel Pauldrons](Bluesteel_Pauldrons.md), a pair of [Bluesteel Boots](Bluesteel_Boots.md) and an [Authority Captain Uniform](Authority_Captain_Uniform.md). They are mostly [Adrets](Adret.md).
+Authority officers wear an [Authority Helm](Authority_Helm.md), a pair of [Bluesteel Pauldrons](Bluesteel_Pauldrons.md), a pair of [Bluesteel Boots](Bluesteel_Boots.md) and an [Authority Captain Uniform](Authority_Captain_Uniform.md). They are all solely [Adrets](Adret.md).
 
 ## Moveset
 

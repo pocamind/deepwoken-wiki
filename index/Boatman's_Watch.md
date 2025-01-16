@@ -1,9 +1,9 @@
 ---
 title: "Boatman's Watch"
-revid: 123961
+revid: 130810
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Eastern Luminant]
+categories: [Locations, Locations in the Eastern Luminant]
 ---
 
 # Boatman's Watch
@@ -46,6 +46,6 @@ Once spawned, you will not be able to leave Boatman's Watch until you defeat [Th
 -   The combat music for this area is [To Fight, Sanguine](Deepwoken_OST.md) by Naktigonis.
 -   Boatman's Watch can be found by going straight along the wall opposite (towards hive) from the [Eastern](Eastern_Interstitial_Lighthouse.md) [Interstitial](Eastern_Interstitial_Lighthouse.md) [Lighthouse](Eastern_Interstitial_Lighthouse.md) into the [Voidsea](Voidsea.md), visible after about 20 seconds of sailing.
 -   A hidden mine and library can be found in Boatman's Watch through destructible walls.
--   Although not really trivial, there are two [eggs](Egg.md) in this island, one found on a tree growing on the rocks near the dock and another found in a bigger tree growing in a patch of grass to the right of [Ferryman](The_Ferryman.md)'s location, these two [eggs](Egg.md) can be used to create [Mushroom Omelettes](Mushroom_Omelette.md) with the high abundancy of [Goblettos](Gobletto.md) which can be helpful in the fight against [Ferryman](The_Ferryman.md).
+-   Although not really trivial, there are two [eggs](Egg.md) in this island, one found on a tree growing on the rocks near the dock and another found in a bigger tree growing in a patch of grass to the right of [Ferryman](The_Ferryman.md)'s location, these two [eggs](Egg.md) can be used to create [Mushroom Omelettes](Mushroom_Omelette.md) with the high abundancy of [Goblettos](Gobletto.md) which can be helpful in the fight against [The Ferryman](The_Ferryman.md).
 -   Within the Ferryman's instance, the tree behind the teleporter will have [sap](Sap.md) that does not deplete after 5-20 collections. This can be a very consistent way of getting [sap](Sap.md), if you ever need it.
 -   Despite the fact that [Adrofalis](Adrofalis.md) has not entered [The Ferryman](The_Ferryman.md)'s portal, he can still hear their music and lightning.

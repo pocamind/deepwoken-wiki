@@ -1,9 +1,9 @@
 ---
 title: Epsi
-revid: 128232
+revid: 130868
 source: https://deepwoken.fandom.com/wiki/Epsi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, NPCs, Layer 2, Floor 1, The Ignition Union]
+categories: [NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Epsi
@@ -11,7 +11,6 @@ categories: [Gremor NPCs, NPCs, Layer 2, Floor 1, The Ignition Union]
 | Epsi | |
 |---|---|
 | name | Epsi |
-| aspect | Gremor |
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Ata
-revid: 128626
+revid: 130716
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors, Eastern Luminant]
+categories: [NPCs, Vendors, NPCs located in the Eastern Luminant]
 ---
 
 # Ata

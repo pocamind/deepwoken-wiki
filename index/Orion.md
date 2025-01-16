@@ -1,9 +1,9 @@
 ---
 title: Orion
-revid: 130275
+revid: 130777
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Quests, The Ignition Union, Eastern Luminant, Origins, NPCs]
+categories: [Quests, The Ignition Union, NPCs located in the Eastern Luminant, NPCs]
 ---
 
 # Orion
@@ -12,9 +12,7 @@ categories: [Quests, The Ignition Union, Eastern Luminant, Origins, NPCs]
 
 Template:NPC name Orion is a [Celtor](Celtor.md) NPC found in [Miner's Landing](<Miner's_Landing.md>). He quests the player with killing "[Summer Isle](Summer_Isle.md) Goons", specifically being the [Summer Company Guards](Summer_Company_Guard.md) in the Boiler Room.
 
-Orion is named after a legendary demigod and hunter in Greek Mythology. He works for [The Ignition Union](The_Ignition_Union.md).
-
-He not tell you that you got the origin if you are hive-kin or khan, you will still obtain the origin though.
+He will not tell you that you got the Origin if you are hive-kin or Khan, you will still obtain the Origin though.
 
 ## Dialogue
 
@@ -94,5 +92,4 @@ He not tell you that you got the origin if you are hive-kin or khan, you will st
 
 ## Trivia
 
--   He wears the [Ignition Union Uniform](Ignition_Union_Uniform.md) and does not don a weapon.
--   You can get to him by going through the water wheel in the front of [Miner's Landing](<Miner's_Landing.md>).
+-   Orion is named after a legendary demigod and hunter in Greek Mythology, tying in with characters affiliated with the Union having names of Greek origin.

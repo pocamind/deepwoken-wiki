@@ -1,9 +1,9 @@
 ---
 title: ??? (FalseMan)
-revid: 128408
+revid: 130824
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(FalseMan)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 2]
+categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # ??? (FalseMan)

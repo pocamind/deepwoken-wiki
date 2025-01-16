@@ -1,9 +1,9 @@
 ---
 title: Sunway
-revid: 116877
+revid: 130985
 source: https://deepwoken.fandom.com/wiki/Sunway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 1, The Ignition Union]
+categories: [Vesperian NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Sunway
@@ -11,6 +11,7 @@ categories: [NPCs, Layer 2, Floor 1, The Ignition Union]
 | Sunway | |
 |---|---|
 | name | Sunway |
+| aspect | Vesperian |
 | location | The Frontier Furnace |
 
 ## Description

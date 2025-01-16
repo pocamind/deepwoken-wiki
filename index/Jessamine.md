@@ -1,9 +1,9 @@
 ---
 title: Jessamine
-revid: 128465
+revid: 130732
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Eastern Luminant]
+categories: [NPCs, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # Jessamine
@@ -11,6 +11,7 @@ categories: [NPCs, Quests, Eastern Luminant]
 | Jessamine | |
 |---|---|
 | name | Jessamine |
+| aspect | Ganymede, Titan Variant |
 | location | Starswept Valley |
 
 ## Description

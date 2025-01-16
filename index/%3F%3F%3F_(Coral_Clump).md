@@ -1,9 +1,9 @@
 ---
 title: ??? (Coral Clump)
-revid: 128216
+revid: 130822
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Coral_Clump)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 1]
+categories: [NPCs, NPCs located in the First Layer]
 ---
 
 # ??? (Coral Clump)

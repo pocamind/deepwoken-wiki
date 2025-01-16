@@ -1,15 +1,16 @@
 ---
 title: The Meat Lord
-revid: 128488
+revid: 130939
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Random Encounters, NPCs, Vendors, Eastern Luminant]
+categories: [Random Encounters, NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
 ---
 
 # The Meat Lord
 
 | The Meat Lord | |
 |---|---|
+| aspect | Adret |
 
 “ Very well, you may rise. ”
 

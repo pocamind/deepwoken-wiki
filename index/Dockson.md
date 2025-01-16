@@ -1,9 +1,9 @@
 ---
 title: Dockson
-revid: 128441
+revid: 130860
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Vendors, Eastern Luminant]
+categories: [NPCs, Vendors, NPCs located in the Eastern Luminant]
 ---
 
 # Dockson

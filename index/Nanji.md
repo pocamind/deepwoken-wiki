@@ -1,9 +1,9 @@
 ---
 title: Nanji
-revid: 128494
+revid: 130946
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Quests, Etrean Luminant, Etrea]
+categories: [Pages with broken file links, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Nanji

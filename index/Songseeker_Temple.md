@@ -1,9 +1,9 @@
 ---
 title: Songseeker Temple
-revid: 108102
+revid: 131011
 source: https://deepwoken.fandom.com/wiki/Songseeker_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Eastern Luminant]
+categories: [Locations, Locations in the Eastern Luminant]
 ---
 
 # Songseeker Temple
@@ -13,8 +13,6 @@ LocationL Songseeker Temple LocationR
 There are those who seek to wield the Song as those of the Old World once did, as an artform to be cultivated into something transcendent.
 
   
-
-The exterior of the temple
 
   
 
@@ -41,6 +39,6 @@ Inside the Temple is Amashi, a [spelltrainer](Attunement_Trainers.md).
 -   He will ask for five [Dying Embers](Dying_Embers.md), obtain them and give them to him.
 -   Doing this will result in a potion that will attune you with [Flamecharm](Flamecharm.md).
 
-## Trivia/Notes
+## Trivia
 
 -   It is recommended to sneak past the Monks at the Temple if you can, or alternatively lure one out with a ranged [Mantra](Mantras.md) (e.g., Wind Gun) and fight them one by one.

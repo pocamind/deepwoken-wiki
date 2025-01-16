@@ -1,9 +1,9 @@
 ---
 title: Exter
-revid: 113537
+revid: 130874
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Exter

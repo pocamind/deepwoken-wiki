@@ -1,9 +1,9 @@
 ---
 title: Imel
-revid: 130612
+revid: 130895
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Etrean Luminant, The Ministry]
+categories: [NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant]
 ---
 
 # Imel
@@ -11,6 +11,7 @@ categories: [NPCs, Quests, Etrean Luminant, The Ministry]
 | Imel | |
 |---|---|
 | name | Imel |
+| aspect | Adret |
 | location | The Etrean Sea, statues |
 
 ## Description

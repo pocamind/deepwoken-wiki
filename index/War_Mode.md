@@ -1,14 +1,12 @@
 ---
 title: War Mode
-revid: 128697
+revid: 130782
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Eastern Luminant, Mechanics]
+categories: [Eastern Luminant, Mechanics]
 ---
 
 # War Mode
-
-File:Screenshot 2024-10-25 211233.png
 
 An image of Warchest UI during War Mode
 

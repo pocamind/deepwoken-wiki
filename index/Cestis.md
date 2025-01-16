@@ -1,9 +1,9 @@
 ---
 title: Cestis
-revid: 130110
+revid: 130720
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Ministry, Quests, Murmurs, Eastern Luminant]
+categories: [NPCs, The Ministry, Quests, Murmurs, NPCs located in the Eastern Luminant]
 ---
 
 # Cestis

@@ -1,9 +1,9 @@
 ---
 title: Calamus
-revid: 130332
+revid: 130718
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Eastern Luminant]
+categories: [NPCs, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # Calamus

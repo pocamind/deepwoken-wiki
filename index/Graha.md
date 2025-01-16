@@ -1,9 +1,9 @@
 ---
 title: Graha
-revid: 128456
+revid: 130891
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 1, The Divers, The Depths]
+categories: [NPCs, The Divers, NPCs located in the First Layer]
 ---
 
 # Graha
@@ -11,6 +11,7 @@ categories: [NPCs, Layer 1, The Divers, The Depths]
 | Graha | |
 |---|---|
 | name | Graha |
+| aspect | Vesperian |
 | location | Castle Light |
 
 ## Description

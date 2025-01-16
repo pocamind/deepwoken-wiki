@@ -1,9 +1,9 @@
 ---
 title: Mag
-revid: 128482
+revid: 130736
 source: https://deepwoken.fandom.com/wiki/Mag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Summer Company, Eastern Luminant, Vendors]
+categories: [NPCs, Summer Company, NPCs located in the Eastern Luminant, Vendors]
 ---
 
 # Mag
@@ -11,6 +11,7 @@ categories: [NPCs, Summer Company, Eastern Luminant, Vendors]
 | Mag | |
 |---|---|
 | name | Mag |
+| aspect | Gremor |
 | location | Summer Isle |
 
 ## Description

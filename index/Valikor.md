@@ -1,9 +1,9 @@
 ---
 title: Valikor
-revid: 128531
+revid: 130994
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Talents, Etrea, Etrean Luminant]
+categories: [NPCs, Talents, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Valikor

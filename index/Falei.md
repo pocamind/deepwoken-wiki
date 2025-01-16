@@ -1,9 +1,9 @@
 ---
 title: Falei
-revid: 115292
+revid: 130879
 source: https://deepwoken.fandom.com/wiki/Falei
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 1]
+categories: [NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Falei

@@ -1,9 +1,9 @@
 ---
 title: Atra
-revid: 128719
+revid: 130845
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Hundred Legions, Quests, Etrean Luminant]
+categories: [NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Atra

@@ -1,9 +1,9 @@
 ---
 title: Ezra
-revid: 124007
+revid: 130726
 source: https://deepwoken.fandom.com/wiki/Ezra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, Eastern Luminant, Quests]
+categories: [In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Quests]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -18,7 +18,7 @@ Ezra is a [Capra](Capra.md) NPC in [Songseeker Wilds](Songseeker_Wilds.md) who g
 
 Before [Samael](Samael.md) and the [Starkindred](Oath%253A_Starkindred.md) took over the [Derelict Highchurch](Derelict_Highchurch.md), it was a place for Ezra and the [Capra](Capra.md) to worship Mother [Ku](Capra.md), a [Celestial](Celestial.md). When [Samael](Samael.md) took over, he turned it into a place to "worship" an unknown [Celestial](Celestial.md).
 
-The quest and talent hand is unavailable if you are a Starkindred.
+The quest and Talent hand is unavailable if you are a Starkindred.
 
 ## Dialogue
 

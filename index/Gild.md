@@ -1,9 +1,9 @@
 ---
 title: Gild
-revid: 128455
+revid: 130888
 source: https://deepwoken.fandom.com/wiki/Gild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Layer 1, The Depths]
+categories: [Pages with broken file links, NPCs, NPCs located in the First Layer]
 ---
 
 # Gild

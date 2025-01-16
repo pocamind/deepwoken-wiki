@@ -1,9 +1,9 @@
 ---
 title: Alpha
-revid: 125014
+revid: 130835
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, Layer 2, Floor 1, Quests, The Ignition Union]
+categories: [NPCs, Quests, The Ignition Union, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Alpha

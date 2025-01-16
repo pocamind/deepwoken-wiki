@@ -1,9 +1,9 @@
 ---
 title: Lucien
-revid: 128654
+revid: 130735
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Eastern Luminant]
+categories: [NPCs, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # Lucien
@@ -11,6 +11,7 @@ categories: [NPCs, Quests, Eastern Luminant]
 | Lucien | |
 |---|---|
 | name | Lucien |
+| aspect | Felinor |
 | location | Songseeker Wilds |
 
 ## Description

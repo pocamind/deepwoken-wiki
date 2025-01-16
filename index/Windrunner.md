@@ -1,9 +1,9 @@
 ---
 title: Windrunner
-revid: 128580
+revid: 131000
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pages with broken file links, NPCs, Etrean Luminant, Talents]
+categories: [Pages with broken file links, NPCs, Talents, NPCs located in the Etrean Luminant]
 ---
 
 # Windrunner

@@ -1,9 +1,9 @@
 ---
 title: Gaius
-revid: 128692
+revid: 130886
 source: https://deepwoken.fandom.com/wiki/Gaius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Hundred Legions, Etrean Luminant]
+categories: [NPCs, The Hundred Legions, NPCs located in the Etrean Luminant]
 ---
 
 # Gaius
