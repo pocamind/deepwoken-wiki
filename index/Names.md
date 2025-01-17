@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 131048
+revid: 131139
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -41,6 +41,7 @@ Some players have access to customized, unique names.
 -   Alaric
 -   Albion
 -   Alder
+-   Aldrich
 -   Alex
 -   Alexander
 -   Alfie
@@ -383,6 +384,8 @@ Some players have access to customized, unique names.
 -   Lloyd
 -   Loam
 -   Logan
+-   Lorian
+-   Lothric
 -   Lotus
 -   Louie
 -   Lucas
@@ -425,6 +428,7 @@ Some players have access to customized, unique names.
 -   Mercutio
 -   Mezux
 -   Michael
+-   Midir
 -   Mike
 -   Minos
 -   Moash
@@ -449,6 +453,8 @@ Some players have access to customized, unique names.
 -   Nyx
 -   Oberon
 -   Oberyn
+-   Oceiros
+-   Oda
 -   Odin
 -   Ogma
 -   Ogrim
@@ -470,6 +476,7 @@ Some players have access to customized, unique names.
 -   Parhelion
 -   Parker
 -   Pascal
+-   Patches
 -   Patrick
 -   Paul
 -   Pax
@@ -553,7 +560,11 @@ Some players have access to customized, unique names.
 -   Scar
 -   Scott
 -   Sean
+-   Seath
+-   Seb
+-   Sebastian
 -   Sein
+-   Seishin
 -   Selim
 -   Senshi
 -   Sergei
@@ -579,7 +590,11 @@ Some players have access to customized, unique names.
 -   Slate
 -   Sloan
 -   Smough
+-   Snake
 -   Socrates
+-   Sokolov
+-   Sol
+-   Solaire
 -   Solanum
 -   Soot
 -   Sophodon
@@ -649,7 +664,9 @@ Some players have access to customized, unique names.
 -   Winston
 -   Winter
 -   Wisteria
+-   Wolnir
 -   Woodrow
+-   Worm
 -   Wormwood
 -   Wren
 -   Xavier
@@ -1761,7 +1778,7 @@ Some players have access to customized, unique names.
 -   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The names "Usopp" and "Alvida" are references to the anime and manga series, [_One Piece._](https://onepiece.fandom.com/)
     -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only Ussop was added.[\[1\]](#cite-note-1) Alvida was added much later
--   The names "Ornstein", "Artorias" and "Smough" are a reference to the _Dark Souls_ characters [Ornstein and Smough](https://darksouls.fandom.com/wiki/Dragon_Slayer_Ornstein_and_Executioner_Smough), and [Artorias](https://darksouls.fandom.com/wiki/Knight_Artorias) respectively..
+-   The names "Solaire", "Ornstein", "Smough", "Seath", "Patches", "Artorias", "Gwyn", "Wolnir", "Aldrich", "Oceiros", "Lorian", "Lothric", "Midir", and "Gael", are a reference to various characters from the _Dark Souls_ series.
     -   Initially, the name "Ornstein" was erroneously spelled as "Orstein."
 -   The name "Kamina" is a reference to the popular [Gurren Lagann](https://gurrenlagann.fandom.com/wiki/Kamina) character of the same name.
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
