@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 127729
+revid: 131202
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -42,7 +42,7 @@ It can also be used to obtain [Ironsing](Ironsing.md).
 
 To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip an applicable weapon while being at the Weapon Attribute requirement, then use the alloy. The weapon will then transform into its "Alloyed" variant, signified by a white particle whirling around the weapon during the animation. This increases the weapon's requirement to 75. The alloy cannot be used on inapplicable weapons, and nothing will happen if you try to.  
   
-If you have the [Ignition Delver origin](Origins.md), you are able to turn **3** of these into **1** [Smith's Alloy](<Smith's_Alloy.md>) using the Hollow Forge at [Miner's Landing](<Miner's_Landing.md>).
+If you have the [Ignition Delver origin](Origins.md), you are able to turn **3** of these into **1** [Smith's Alloy](<Smith's_Alloy.md>) or turn **9** of them into 1 [Armorers Needle](<Armorer's_Needle.md>) the Hollow Forge at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Alloyable Weapons
 
@@ -82,5 +82,5 @@ If you have the [Ignition Delver origin](Origins.md), you are able to turn **3**
 -   The alloy itself cannot be dropped or lost on death, but the weapons can.
 -   You do not lose the alloy when doing the Ironsing quest.
 -   You are not able to [bank](Item_Bank.md) alloys.
--   You can only hold 20 alloys at one time. If you pick up anymore, they will be deleted.
+-   You can only hold 15 alloys at one time. If you pick up anymore, they will be deleted.
 -   Can be sold for 150 notes

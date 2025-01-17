@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 127639
+revid: 131179
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -19,7 +19,7 @@ categories: [Relics]
 
 ## Description
 
-Crafted using 1 [Armorer's Needle](<Armorer's_Needle.md>) and 5 [Smith's Alloys](<Smith's_Alloy.md>) (Can be crafted without a crafting bench)
+Crafted using 1 [Armorer's Needle](<Armorer's_Needle.md>) and 5 [Smith's Alloys](<Smith's_Alloy.md>) (Can be crafted without a crafting bench).
 
 This Item is an Advanced version of the Armorer's Needle. Instead of rolling a pip on an armor, the Forge Needle is a [Relic](Relics.md) that upgrades one of your equipment by one star. It basically does the same thing as the [Smith's Alloy](<Smith's_Alloy.md>), except for [Equipment](Equipment.md).
 

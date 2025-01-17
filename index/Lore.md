@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 130632
+revid: 131196
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -429,7 +429,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 
 _"**Despicable**. You deem yourselves worthy of a challenge? Allow me to educate you on your folly." -_ _The Voice of Enmity._
 
--   As the name applies, creatures of unknown origin that are in charge of operating the Trials of the Citadel, wich is used by many people to escape the Depths and return to the surface "safely".
+-   As the name applies, creatures of unknown origin that are in charge of operating the Trials of the Citadel, which is used by many people to escape the Depths and return to the surface "safely".
 -   They operate the Trials of the Citadel within the Citadel of Celtor, where if players showcase their strength by defeating an opponent, they are returned to the surface.
 -   Currently, there are 4 voices operating the trials being: _The Voice of Authority, The Voice of Sequestration, The Voice of Odium and the Voice of Enmity._
 -   Each voice acts in a different way than the other as their name suggests, while the Voice of Odium and Enmity show general disgust and hate towards the player, the Voice of Sequestration finds a _"particular"_ interest in the player.

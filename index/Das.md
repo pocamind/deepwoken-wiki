@@ -1,6 +1,6 @@
 ---
 title: Das
-revid: 130857
+revid: 131177
 source: https://deepwoken.fandom.com/wiki/Das
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
@@ -20,7 +20,7 @@ Das is a [Vesperian](Vesperian.md) NPC that lets you train with a [sparring inst
 
 ## Location
 
-Das is located in [Isle of Vigils](Isle_of_Vigils.md) inside the [Temple of the Blade](Temple_of_the_Blade.md) standing on the opposite side of [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
+Das is located in [Isle of Vigils](Isle_of_Vigils.md) inside the [Temple of the Blade](Temple_of_the_Blade.md), standing on the opposite side of [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
 ## Dialogue
 

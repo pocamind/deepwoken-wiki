@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 130622
+revid: 131194
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -11414,7 +11414,7 @@ ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 |
 FIR: 3  
 ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
 
--   3 Hybrid
+-   2 Hybrid
 
 <table><caption><a href="Attunements.md">Elemental Weapons</a></caption>
 <tbody>
