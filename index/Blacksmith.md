@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 126316
+revid: 131153
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Armors]

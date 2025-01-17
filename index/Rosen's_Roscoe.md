@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 130177
+revid: 131162
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Summer Company, Offhand Guns]
@@ -27,7 +27,7 @@ categories: [Weapons, Flintlocks, Summer Company, Offhand Guns]
 
 ## Description
 
-Rosen's Roscoe is a pistol type weapon that can be used both in both akimbo and single-handed styles. It requires 75 points in Light weapons to be utilized properly. It resembles a classical revolver and was originally created by a student of [Gunsmith Rosen](Gunsmith_Rosen.md) of the [Summer Company](The_Summer_Company.md). In comparison to most other light guns, it has a low scaling of 11 and a low base damage of 16. Despite this, it can still be a viable option for any gun users.
+Rosen's Roscoe is a flintlock type weapon that can be used both in both akimbo and single-handed styles. It requires 75 points in Light weapons to be utilized properly. It resembles a classical revolver and was originally created by a student of [Gunsmith Rosen](Gunsmith_Rosen.md) of the [Summer Company](The_Summer_Company.md). In comparison to most other light guns, it has a low scaling of 11 and a low base damage of 16. Despite this, it can still be a viable option for any gun users.
 
 Can be found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md), [Dread Serpent](Dread_Serpent.md), [The Depths](The_Depths.md) and [Interluminary Parasol](Interluminary_Parasol.md).
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 131144
+revid: 131152
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -33,7 +33,7 @@ Meet the following requirements in any order:
 -   Have hero reputation with [Etrea](Etrea.md).
 -   Have a [Resonance](Resonance.md).
 -   Have any [Murmur](Murmur.md).
--   Have atleast one Yun Shul wish.
+-   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (You need hero reputation)
 -   Talk to [Bookkeep Andros](Bookkeeper_Andros.md) about the Kings Ardour.
 
@@ -46,13 +46,13 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md) up to 5 times to max it (except for [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)). The Yun'Shuls shrine itself works for this, and you dont lose a wish upon getting the oath so if you don't like your bell you can reroll it and progress the oath a bit
+This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md) up to 5 times to max it (except for [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)). [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wishes also counts (needs more testing).
 
 ## Effects
 
 This oath grants 2 Combat Mantra Slots and 1 Mobility Mantra slot.
 
-You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their talent upgrade (if any) regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving talents). The user gains a "Soulbreaker's Mantle" 2 rings of purple-ish white energy. Activating Ardour will make the user's weapon emit purple electric-like particles. Dyeing it does not change the particles from the mantle or the Ardour particles.
+You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their talent upgrade (if any) regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving talents). The user gains a "Soulbreaker's Mantle" 2 rings of purple-ish white energy. Activating Ardour will make the user's weapon emit purple electric-like particles. [Dyeing](https://deepwoken.fandom.com/wiki/Dye_Packet) it does not change the particles from the mantle or the Ardour particles.
 
 ## Abilities
 
