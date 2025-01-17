@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 129192
+revid: 131137
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -150,8 +150,6 @@ It grants the user +50 knowledge on subsequent uses.
 
  | 
 
--   [The Ferryman](The_Ferryman.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Fishing](Fishing.md)

@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 130661
+revid: 131121
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -39,7 +39,7 @@ _noun_
 1.  A newly created character, usually wearing the [Stranded](Stranded.md), [Diver Apprentice](Diver_Apprentice_Robes.md), or [Whaler Initiate](Whaler_Initiate.md) outfit. The threshold for the maximum power level for being classified as a freshie differs, but is usually around Power 6.
 2.  New player into deepwoken, people normally call them freshies, because they don't know how to play the game or just a little.
     1.  Ex. "I saw a freshie get ganked earlier, they didn't stand a chance."
-    2.  Ex. "The freshie from lower erisia tried to fight a sharko but, cause of his skil issue, he got crushed"
+    2.  Ex. "The freshie from lower erisia tried to fight a sharko but, cause of his skill issue, he got crushed"
 
 ### Health pack
 
@@ -75,8 +75,9 @@ This term originated from 2D fighting games such as [_Street Fighter_](https://e
 _noun_
 
 1.  Referring to one of the 5 sections of a player or boss's health bar, used as a measurement of damage or referring to health remaining.
-    1.  Ex. "Why did i just take 3 bars from that \[attack\]..."
+    1.  Ex. "Why did i just take 3 bars from that..."
     2.  Ex. "I'm at 2 bars help me!!!"
+    3.  Ex. "Bro that squibbo had me on half a bar"
 
 Can also refer to a bar section of another resource like Blood or Hunger.
 
@@ -115,6 +116,18 @@ _verb, noun_
 1.  Abilities/moves that allow the user to retaliate and not take damage without the use of blocking, parrying or dodging.
     1.  Ex. the following mantras, Prediction, Punishment, and Equalizer are all **Counters**.
 
+### Cycle/\[n\] Cycle
+
+_verb_
+
+1.  To defeat a boss with invulnerability within a certain amount of its vulnerable periods.
+    1.  Ex. "My PVE build can one cycle Ethiron!"
+
+_noun_
+
+1.  When a usually invulnerable boss (eg. Chaser, Ethiron) becomes vulnerable for a short period of time.
+    1.  Ex. "This Chaser fight will probably only take us a couple cycles."
+
 ### Depths Gank/Depths Ganker
 
 _noun_
@@ -145,7 +158,7 @@ _verb_
 _verb_
 
 1.  To fill up a server with players that are in the same guild.
-2.  Guild that fills up a server to gank and spin back intruders or do hellmode or diluvian in the depths
+2.  Guild that fills up a server to gank and spin back against intruders or do Hell Mode or Diluvian in the Depths.
 
 ### Flourish
 
@@ -274,7 +287,7 @@ _verb_
 
 _verb_
 
-1.  To be revived from Fragments of Self by a moderator after making a ticket due to an unfair death.
+1.  To be revived from Fragments of Self by a moderator after making a ticket due to an unfair death or buying a Drowned Favor for 1000 Robux
 
 ### Sink
 
@@ -332,6 +345,7 @@ _noun_
 
 1.  Nickname for the the [Blood Scourge](Blood_Scourge.md) resonance, used to instantly execute any downed players, [enemies](Enemies.md) or [monsters](Monsters.md) in a small radius around where it was cast.
     1.  Ex. "He just got knocked, reaper him"
+    2.  Ex. "Getting knocked in a friendly 1v1 is not an invitation for your ally to drop a corrupted reaper on me"
 
 ### TP
 
@@ -382,6 +396,7 @@ _Verb_
 _verb_
 
 1.  To leave the game as fast as possible when not in combat, usually when being hunted by Voidwalkers and players alike.
+2.  Ex. "I just heard a guy wipe, we should log"
 
 ## Enemies / Monsters
 
@@ -610,6 +625,7 @@ _noun_
 _noun_
 
 1.  Short form for Reinforced Armor, a Talent that reduces all incoming PEN by 40%.
+    1.  Ex. "If you take RA preshrine I'm going to wipe you"
 
 ### Run a 1/Run \[the\] 1's
 
