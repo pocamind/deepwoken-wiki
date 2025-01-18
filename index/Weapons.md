@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 131194
+revid: 131230
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -6240,11 +6240,11 @@ All weapons within the game have chances of being found with (or without) differ
 </tbody>
 </table>
 
--   6 Guns (7 if Alloyed)
+-   7 Rapiers
 
 Template:AllFlintlockWeapons
 
--   7 Rapiers
+-   6 Guns (7 if Alloyed)
 
   
 

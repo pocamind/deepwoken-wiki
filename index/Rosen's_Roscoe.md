@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 131162
+revid: 131239
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Summer Company, Offhand Guns]
@@ -22,7 +22,7 @@ categories: [Weapons, Flintlocks, Summer Company, Offhand Guns]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, Maestro Evengarde Rest, Chaser, The Depths, Dread Serpent, Scion of Ethiron, Interluminary Parasol, Diluvian Mechanismvarious voidsea events |
+| obtainment | Duke Erisia, Maestro Evengarde Rest, Chaser, The Depths, Dread Serpent, Scion of Ethiron, Interluminary Parasol, Diluvian Mechanism, Voidsea event chests |
 | description | "A sleek hand cannon, wrought from meticulous ironsmithing. The Roscoe marks Lumen's First generation of true cylindrical barrel revolvers. Though slower than the Company's repeater models, it delivers unmatched power and precision, earning Rosen's student a well deserved payday for their innovation" |
 
 ## Description

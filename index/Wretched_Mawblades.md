@@ -1,9 +1,9 @@
 ---
 title: Wretched Mawblades
-revid: 129262
+revid: 131235
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, Event Item, Hallowtide]
+categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide]
 ---
 
 # Wretched Mawblades
@@ -33,7 +33,6 @@ The **Wretched Mawblades**, or "Canary Rephika & Grimlock Narsus," is a heavy gr
 
 The weapon consists of two regular blades now covered in some sort of deformed flesh with teeth running along where the blade's edge used to be. Two eyes are present near the hilt. The pommel is also replaced with teeth, and teeth are, ironically, also present on the guard, giving the appearance of a mouth. In combination with the eyes, each blade's grip forms a screaming face to mirror the two souls trapped inside.
 
-  
 Meeting the required amount of HVY, the damage is (44.7).
 
 ## Critical
