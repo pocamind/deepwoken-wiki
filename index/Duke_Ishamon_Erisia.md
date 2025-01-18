@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 130102
+revid: 131222
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -382,6 +382,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack.
 -   Duke can be (rarely) seen conversing with the [Mindless Servants](Mindless_Servant.md) in the tubes next to him idly. This is likely a bug, as Mudskippers and even Terrapods can start small talk when idle.
 -   He is able to drown; if you glitch you and him into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
+-   If Taunt is utilized before the player talks with Duke, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)
 
 ## Bugs
 

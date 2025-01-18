@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 130221
+revid: 131227
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -27,7 +27,7 @@ Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md
 
 Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
 
-Their upper ranks mostly consist of [Adrets](Adret.md). Whilst other races are present in the Authority's ranks, they are usually rank-and-file soldiers.
+Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial prejudice of some sort. Whilst other races are present in the Authority's ranks, they are usually relegated to rank-and-file soldiers. The only exception to this rule are [Canor](Canor.md), who receive mild preferential treatment.
 
 ## Gameplay
 
