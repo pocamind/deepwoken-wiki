@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 115745
+revid: 131211
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Floor 1, Layer 2]
@@ -37,7 +37,7 @@ You will be able to tell her this once you meet the following requirements:
     -   Ethiron Gaze, which is obtained after interacting with an ice spear inside the [Firfire Caverns](Firfire_Caverns.md), and talking to the Leader located at [Firfire](Firfire.md).
     -   Union Hook, which is obtained after going to the powered [Frontier Furnace](The_Frontier_Furnace.md) and speaking with [Alpha](Alpha.md), or obtained innately by the [Ignition Union Origin](Origins.md)
 
-You do not need to accomplish all of these requirements in the same run or even in the same order, nor do you need to complete the current run to get the requirement (save for the Chaser clear.)
+You do not need to accomplish all of these requirements in the same run or even in the same order, nor do you need to complete the current run to get the requirement (save for the Chaser clear).
 
 ## Trivia
 

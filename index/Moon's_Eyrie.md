@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 131077
+revid: 131212
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Eastern Luminant, Moonseye]
@@ -37,6 +37,6 @@ File:Map View.png
 -   Previously, despite being located inside the [Voidsea](Voidsea.md), the area was not considered as a [Voidzone](Voidzones.md). However, the Voidsea was changed in the 12/14/2024 patch, causing the area to be considered a Voidzone.
 -   Since the island is located within the bounds of the Voidsea, there is a chance that you'll be teleported away from it while trying to reach it.
 -   A good place to farm for the [Astral Enchant Stone](Enchantments.md#list-of-enchantments) as [Moon Knights](Moon_Knight.md) have a chance to drop it.
--   If you will use Kamui to go there 48614 45792 Coords can be used. (Non-Combat)
+-   If you will use Kamui to go there 48614 45792 Coords can be used. (Non-Combat).
 -   Kaide, The Drowned Light gives some insight on where to find this island, as well as some lore about it.
 -   If you're stuck inside the room, you can spam the interact hotkey to open the door while dashing and jumping at the same time.

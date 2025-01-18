@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 131196
+revid: 131218
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -10,7 +10,7 @@ notices:
 
 # Lore
 
-“ so weep for ash, and weep for ruin -  
+“ So weep for ash, and weep for ruin -  
 for embers fade, and swells the sea.  
 hold on to hope, and in so doing  
 beware - the Tide comes too for thee. ”
@@ -176,7 +176,6 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   Apparently he has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.[\[5\]](#cite-note-firstlight-5)
 -   Since he brought Flamecharm to the world, it is believed he was alive since the Old World, where all the Attunements except Shadowcast were discovered.
 -   He is referenced in many mantras and items, [Flame Within](Flamecharm.md#talents) is an example.
--   Pleeksty is canonically 3'4 as confirmed by Nuttoons.
 
 ### Chaser, Scholar of the Crimson Contract
 
@@ -479,7 +478,7 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 -   Can fuse Mantras using his Resonance to a higher tier.[\[2\]](#cite-note-arch-2)
 -   Is said to have committed sins so heinous "the world will never forgive \[him\]."[\[2\]](#cite-note-arch-2)
 -   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes were different to the wielders of the hero blades.[\[2\]](#cite-note-arch-2)
--   It is said that before he was sealed, he was capable of drowning entire islands on his prime, possibly being the sins that the world will never forgive.[\[2\]](#cite-note-arch-2)
+-   It is said that before he was sealed, he was capable of drowning entire islands in his prime, possibly being the sins that the world will never forgive.[\[2\]](#cite-note-arch-2)
 
 ### Sudaruska the Unbroken
 
@@ -983,7 +982,7 @@ An Authority Captain
 -   They were founded shortly after the Tides.[\[2\]](#cite-note-arch-2)
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who could easily go insane and kill someone close to her.
 -   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths.
--   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder". Despite this, people like the Ignition Union call the Divers "Authority Dogs".
+-   (The Authority) The Divers have a mixed relationship with The Authority, such as giving them the "cold shoulder". Despite this, people like the Ignition Union call the Divers "Authority Dogs".
 -   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower ranks, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers. Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on.
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
@@ -1108,7 +1107,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   The Old Stewards created The Old Texts.
 -   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.
 -   A possible member of the Old Stewards, a man referred to as the Mad Steward, through the use of Ardour, decapitated one of the Elder Edenkite and ate its heart. This caused him to gain infinite wisdom, but with all of the knowledge in the world came all of the tragedies of the world, resulting in an overwhelming sense of dread, thus turning him into the Dread Serpent. This is also why you gain Ardour from slaying the Dread Serpent.
--   Adrofalis, trainer of the [Saltchemist](Oath%253A_Saltchemist.md) Oath, is a member of the Old Stewards.
+-   [Adrofalis](Adrofalis.md), trainer of the [Saltchemist](Oath%253A_Saltchemist.md) Oath, is a member of the Old Stewards.
 
 ### The Pathfinders
 
@@ -2105,6 +2104,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
     -   While there is major proof of birds existing, such as nests, eggs and the sound of their chirping, they cannot actually be seen.
         -   _The Lament of Cirryn_ features birds heavily.
     -   Deer are apparently hunted by the Children of Navae for unknown reasons, with it likely not being for food given they bury the bodies.
+    -   Horses may exist in luminants other than the east, or had been domesticated before the Tides rose. People called "Drivers" would ride them.[\[8\]](#cite-note-yama-8)
     -   Fish are the only animals that can be actively seen and interacted with
         -   The known fish species include:
         -   At least four types of swordfish
@@ -2232,7 +2232,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 5.  ↑ [5.0](#cite-ref-firstlight-5-0) [5.1](#cite-ref-firstlight-5-1) [5.2](#cite-ref-firstlight-5-2) [5.3](#cite-ref-firstlight-5-3) [5.4](#cite-ref-firstlight-5-4) [5.5](#cite-ref-firstlight-5-5) [5.6](#cite-ref-firstlight-5-6) [5.7](#cite-ref-firstlight-5-7) [First Light](First_Light.md) description
 6.  ↑ [6.0](#cite-ref-doc-6-0) [6.1](#cite-ref-doc-6-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 7.  ↑ [7.0](#cite-ref-stormseye-7-0) [7.1](#cite-ref-stormseye-7-1) [7.2](#cite-ref-stormseye-7-2) [Stormseye](Stormseye.md) description
-8.  ↑ [8.0](#cite-ref-yama-8-0) [8.1](#cite-ref-yama-8-1) [8.2](#cite-ref-yama-8-2) [8.3](#cite-ref-yama-8-3) [Yamaketzal](Yamaketzal.md)
+8.  ↑ [8.0](#cite-ref-yama-8-0) [8.1](#cite-ref-yama-8-1) [8.2](#cite-ref-yama-8-2) [8.3](#cite-ref-yama-8-3) [8.4](#cite-ref-yama-8-4) [Yamaketzal](Yamaketzal.md)
 9.  ↑ [9.0](#cite-ref-gran-9-0) [9.1](#cite-ref-gran-9-1) [Gran Sudaruska](Gran_Sudaruska.md) description
 10.  ↑ [10.0](#cite-ref-dsgs-10-0) [10.1](#cite-ref-dsgs-10-1) [Darksteel Greatsword](Darksteel_Greatsword.md) description
 11.  [↑](#cite-ref-railblade-11-0) [Railblade](Railblade.md) description
