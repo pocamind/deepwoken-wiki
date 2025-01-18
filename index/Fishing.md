@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 124589
+revid: 131245
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -17,6 +17,8 @@ notices:
 To fish, first craft or purchase a Fishing Rod. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can purchase a Fishing Rod for at the [Etris Docks](Etris_Docks.md) and the house at the base of the tall island between the [Isle of Vigils](Isle_of_Vigils.md) and [Etrea](Etrea.md), or for from a fishing pond room in a Guild Base.
 
 The next step to fishing is to cast your line into either the sea or a fishing pond. After a while, you will get a bite, and your character will begin leaning in a certain direction. You must hold the key that is displayed on your screen. As you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong key can also lose you the fish. You can tell when the fish is almost caught/escaped when the circle is almost completely closed. you will catch the fish when the fish icon reaches the border.
+
+Catching rare fish like the swordfish, lionfish, and chests should not be treated the same as catching common fish, as the "start clicking rapidly" part of the strategy will make you loose the fish in seconds. The minigame changes to only allow one click per leaning direction and after registering the click, it changes the direction to a different one. Chests and swordfish allow you to mess up the clicks a couple times, hovewer to catch a lionfish you must not miss a single click while also reacting to the side switches faster. It is reccomended to only click once when the fishing minigame starts to avoid loosing rare fish, and if the direction doesnt change after one click then you can start rapidly clicking.
 
 Though bait is not required for fishing, it is highly recommended as you are able to get better loot and catch fish slightly faster. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Some baits have moderate changes in catch rarity and/or slight changes in catch speed, but it's not super significant.
 

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 130042
+revid: 131242
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -234,7 +234,7 @@ Unable to move during the duration while active while still being able to block,
 
 This is applied by being hit by the [Harrowing](Enchantments.md) enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
 
-Deferred
+### Deferred
 
 This is applied by being hit by the [Deferred](Enchantments.md) enchant. Take DOT by (WD \* 1.07) \* .1); damage is dealt 10 times over the course of 2.5 seconds.
 
@@ -250,7 +250,7 @@ Become marked for an auto aim katana critical. Signified by a pink-reddish eye o
 
 Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use a followup crit on you or users of the [Soulthorn](Soulthorn.md) to use their stage 2 and 3 crits on you depending on your Moonseye Mark stacks.
 
-### Angry
+### Angry/Enraged
 
 Applied through being hit by the Mantra [Taunt](Attunement-less.md#charisma-mantras) or being block broken by a player who has the [Cornered Fool](Talents.md#empath) Talent. Receive 20% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
 

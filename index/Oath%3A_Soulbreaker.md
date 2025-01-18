@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 131189
+revid: 131247
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -35,7 +35,7 @@ Meet the following requirements in any order:
 -   Have any [Murmur](Murmur.md).
 -   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (You need hero reputation)
--   Talk to [Bookkeep Andros](Bookkeeper_Andros.md) about the Kings Ardour.
+-   Talk to [Bookkeep Andros](Bookkeeper_Andros.md) about the Kings Ardour. (You need a murmur before doing this step)
 
 Once **all** met, head over to the [Temple Of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 

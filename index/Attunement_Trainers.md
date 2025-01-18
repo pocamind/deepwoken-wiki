@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 126242
+revid: 131279
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -109,7 +109,7 @@ She is incapable of actually teaching Shadowcast, and can only be used to level 
 -   For [Silentheart](Oath%253A_Silentheart.md) progression, the player must kill all of the main Spelltrainers, excluding Regek, Beatra and Vyrelda
     -   Frostdraw trainer Nell wields the [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreathe trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
-    -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](Hero_Blades.md).
+    -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>).
     -   Thundercall trainer Funke wields the [Stormseye](Stormseye.md).
     -   Shadowcast trainer Nostor wields the [Crypt Blade](Crypt_Blade.md).
     -   Ironsinger trainer Adar wields a [Darksteel Greatsword](Darksteel_Greatsword.md).

@@ -1,6 +1,6 @@
 ---
 title: The Vigils
-revid: 104586
+revid: 131282
 source: https://deepwoken.fandom.com/wiki/The_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -47,8 +47,8 @@ After befriending Evengarde, he reveals his knowledge about the true nature of E
 
 ## Notable Members
 
--   Evengarde Rest (Maestro)
--   Stratos (Second-in-command, Keeper)
+-   [Evengarde Rest](Evengarde_Rest.md) (Maestro)
+-   [Stratos](Stratos.md) (Second-in-command, Keeper)
 -   Isaac (Swordsman)
 -   Kj (Apprentice)
 -   [Kelsius](Kelsius.md) (Librarian)

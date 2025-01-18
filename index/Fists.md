@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 117973
+revid: 131283
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -27,7 +27,7 @@ categories: [Weapons, Pages with broken file links, Fists]
 
 Fists are another type of scaled LHT weapon attribute in Deepwoken.
 
-There are 3 different fist styles and 2 of them share the common ability of being able to be switched at any time, even mid combat.
+There are 4 different fist styles and 2 of them share the common ability of being able to be switched at any time, even mid combat.
 
   
 
@@ -36,6 +36,7 @@ There are 3 different fist styles and 2 of them share the common ability of bein
 -   **WN** - Way of Navae
 -   **LK** - Legion Kata
 -   **JK** - Jus Karita
+-   **FC** - Fang and Coil
 
 Switching to fist stance while having a weapon is purely visual and does not remove it from the inventory.
 
@@ -58,6 +59,10 @@ _Main Page: [Legion Kata](Legion_Kata.md)_
 File:Jus Karita cropped new.png
 
 _Main Page: [Jus Karita](Jus_Karita.md)_
+
+### Fang and Coil
+
+_Main Page: [Fang and Coil](Fang_and_Coil.md)_
 
   
 

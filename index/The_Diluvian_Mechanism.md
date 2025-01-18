@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 131223
+revid: 131270
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -44,7 +44,7 @@ Within the Diluvian Mechanism, certain waves have a certain modifier or environm
 
 ### Thicc Air
 
-Brings up the dialogue, "The air feels thicc..." Causing all players to suffocate during the round losing their ability to cast mantras. This'll cause some issues to support, and for Mage PVE builds who heavily rely on mantras. For these waves, it is good to have some variety in your team (M1 based PVE builds and Mantra based PVE builds). However, the talent Water off a Duck's Back can remove the suffocation.
+Brings up the dialogue, "The air feels thick..." Causing all players to suffocate during the round losing their ability to cast mantras. This'll cause some issues to support, and for Mage PVE builds who heavily rely on mantras. For these waves, it is good to have some variety in your team (M1 based PVE builds and Mantra based PVE builds). However, the talent Water off a Duck's Back can remove the suffocation.
 
 ### Hollow
 
@@ -72,7 +72,7 @@ While not required, things listed below can prove to make your experience much e
 -   _**Force Your Way:**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.
 -   _**Tidekeeper:**_ If you lose 25% of your HP in 3 seconds while having the Celtorian Tideknight armor, you can avoid being knocked for 10 seconds and you gain a 15% damage and 20% defense buff. This will allow you to rush through mobs without (that much) worry.
 -   _**Ardour Scream:**_ It's an essential talent when dealing as much damage as possible. Ardour Scream will cause all victims to take 25% more damage and lose 50% of their total posture, leaving them vulnerable to guard breaks.
--   _**Evanspear Hand Job:**_ Evanspear Hand Axe is one of, if not the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration.
+-   _**Evanspear Hand Axe:**_ Evanspear Hand Axe is one of, if not the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration.
 -   _**Vampirism:**_ This is easily one of the best enchantments for the Diluvian Mechanism, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
 -   **_Astral:_** The Astral enchant gives the player's weapon 15% more damage in all PVE situations. Its new critical effect summons a projectile that does 100 AoE damage in PVE.
 -   _**Providence Thorns**_: You'll be parrying a lot of enemies whilst inside of the Diluvian Mechanism, so having a heavy weapon such as the Evanspear Hand Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds.

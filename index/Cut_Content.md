@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 126508
+revid: 131265
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -42,7 +42,7 @@ This page is about content that has either been removed or changed drastically i
 
 ## Oaths
 
--   **([Previous](Oath%253A_Silentheart/Old_Silentheart.md)) Silentheart** - Reworked due to being unhealthy for the game's balance and boring to both use and fight against. Though the [Oath](Oath%253A_Silentheart.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
+-   **([Previous](Oath%253A_Silentheart/Old_Silentheart.md)) Silentheart** - Reworked due to being unhealthy for the game's balance and boring to both use and fight against. Though the [Oath](Oath%253A_Silentheart.md) is still in the game, it was reworked, removing certain aspects of the previous version.
     -   The active passive **Mani Katti** was removed alongside this rework.
     -   This was reworked on the 13th, August 2024.
 -   **([Previous](Oath%253A_Visionshaper/Old_Visionshaper.md)) Visionshaper** - Reworked. Though the [Oath](Oath%253A_Visionshaper.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
@@ -208,6 +208,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 16th, 2023 update, Twisted Puppets was removed and replaced with Wraith Path: Twisted Puppets.
 -   **Unyielding Focus \[Common Talent\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
     -   In the January 3rd, 2023 update, Unyielding Focus was merged into Disbelief.
+-   **Uproar \[Common Talent\] -** When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration. Landing a hit on another player will end your Uproar.
+    -   In the January 18th, 2025 update, Uproar was removed from the game.
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
 -   **Vital Point \[Common Talent, Agility\] -** Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   In the January 13th, 2022 update, Vital Point was merged into Lights out.
@@ -219,10 +221,10 @@ This page is about content that has either been removed or changed drastically i
 ## Other
 
 -   [Chime of Conflict](Chime_of_Conflict.md) Skulls
+    
+    The skulls in question
+    
     -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
-
-The skulls in question
-
 -   **Elemental Intensity** as a Talent stat - Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the September 7th, 2024 update.
 -   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[2\]](#cite-note-2)
 -   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).
