@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 131478
+revid: 131503
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Terminology (game)
 
-The following article contains a glossary for general game terms related to _Deepwoken_.
+The following article contains a glossary for general game terms related to _Deepwoken_. _If you were looking for the mechanic, see [Glossary](Glossary.md)._
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 131167
+revid: 131520
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -2618,6 +2618,27 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
+| File:Inquisitor's Duster Icon.png | 
+
+[Inquisitor's Duster](<Inquisitor's_Duster.md>)
+
+(**Series**)
+
+(**Animated**)
+
+ | 
+
++2 Rare Pips
+
+**Requires Power 8**
+
+ | 
+
+Sources:
+
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+
+ | Brown, Dark, Navy, Smoke & Titan |
 | File:Iron pauldrons.png | 
 
 [Iron Pauldrons](Iron_Pauldrons.md)
@@ -3547,29 +3568,6 @@ Sources:
 -   [Developer Specs](Developer_Specs.md)
 
  | N/A |
-| File:Titan Inquisitor's Duster2.png | 
-
-[Inquisitor's Duster](<Inquisitor's_Duster.md>)
-
-(**Series**)
-
-(**Animated**)
-
-(**Unobtainable**)
-
- | 
-
-+2 Rare Pips
-
-**Requires Power 13**
-
- | 
-
-Sources:
-
--   [Developer Specs](Developer_Specs.md)
-
- | Smoke, Titan, & Cloud |
 |  | 
 
 [Stag Wraps](Stag_Wraps.md)

@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 128135
+revid: 131506
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -12,23 +12,21 @@ categories: [Character, Mechanics]
 
 ― Unimpressed Etrean
 
-# Power Level
+# Character Power
 
 ## Description
 
-Power Levels are your character's experience
-
-and combat ability. The more power you have, the better; along with encountering/unlocking dialogue and dangers.
+Power Levels are your character's experience and combat ability. The more power you have, the better; along with encountering/unlocking dialogue and dangers.
 
 ## Investment & Free Points
 
-Investment Points always start and refresh at 15 (unless you choose no attunement, in which case it will be 25 at first, and then go back to 15, this also applies if you didn't put your starting character points, making it 27.), and decreases per attribute increase. Once your number of investment points reaches 0, you level up.
+The amount of investment required to power up will always be **15 Points**. The only exception is during Power 1, where going [Attunement-less](Attunement-less.md) and not fully spending your free core attribute points alongside having the multifaceted echo upgrade may bring it up to **40 Points.**
 
-If you have the Autodidact Boon, for every Power Level after Power 1, you gain a 3 Free Points. The same thing applies to [Adret](Adret.md), which gives you the Autodidact Boon for free. If you have both the Autodidact Boon and the Adret aspect you will get 6 Free Points. Free Points will allow you to increase all of your attributes of your choice but doesn't allow you to power up if you don't have enough exp. Free points cannot be used after Power 20, and considered useless. It's recommended to use your points as much as you can before reaching the cap, of Power 20.
+If you have the Autodidact Boon, for every Power Level, you gain 3 free points to allocate at a resting place. [Adrets](Adret.md) have this boon by default as a racial trait, and if you have both the Autodidact Boon and the Adret aspect you will always get 6 Free Points on every level. Free Points allow you to increase any attributes of your choice regardless of any experience needed (although, if you don't have enough, this still won't allow you to power up for free). Autodidact and Adret points cannot be used after completing Power 20, and by then are completely useless. It is recommended to use your points as much as you can before reaching that milestone.
 
 **You can spend Free Points whilst sitting near a campfire (or anything that can substitute a campfire).**
 
-It is also noted that you can get free points even without Autodidact by getting white orbs that spawn out of humanoid and monster mobs (has a certain chance to do so) or you can talk to [Shrine of Courage](Shrine_of_Courage.md). It will not affect anything else after reaching Power 20 and using up all your investment points.
+It is also noted that you can get free points even without Autodidact or the Adret aspect by collecting white orbs that spawn out of humanoid and monster enemies (has a certain chance to do so) or you can talk to [Shrine of Courage](Shrine_of_Courage.md). This will not affect anything else after reaching Power 20 and using up all your investment points.
 
 ## Level Hands
 
@@ -42,9 +40,11 @@ you can obtain up to a max of 76 talents which can be turned into mantras throug
 
 ## Notes/Trivia
 
--   At Power Level 3 and below, if you managed to leave the Depths, you are able to return back to the Overworld without any challenge unless you "drowned" a few times.
--   At Power Level 4 and above, if you ever get to the part to leave the Depths, you are forced to partake in a Trial (Most likely a boss) in order to return to the Overworld. At this point, if you get sent to the Depths' void by any means, you'll be sent to the [Second Layer](Second_Layer.md) and will be forced to escape with the available options at the risk of wiping.
--   At Power Level 5, your character is eligible to create Guilds.
--   Each Power Level increase stabilizes your Health Bar if its tainted. Does not work while in The Depths, but can save you from certain death.
--   The amount of times you have been forcibly sent to the depths increases a counter called Times Drowned in the summary which adds the number of Drowns to your Power Level when calculating which trial you must face.
--   Autodidact is not that useful at higher levels. However, it will make leveling from 1-12 much easier and quicker.
+-   If drowning at Power 3 and below, you may reach the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) located at the center of [The City of the Drowned](The_City_of_the_Drowned.md) and be able to return to the overworld without any challenge.
+-   If drowning at Power 4 and above, if you reach the Cathedral of the Interstice, you may partake in a trial (defeat an enemy which more often than not, does suit your level of strength) in order to return to the overworld.
+-   At Power 5, your character is eligible to create Guilds.
+-   Once at power 15, if entering The Depths by your own accord, you can speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at Castle Light and descend to the [Eternal Gale](Second_Layer.md). (You must enter through a whirlpool, otherwise you won't get past the life barrier.)
+-   Each Power increase cleans your Health Bar if it is stained. This does not work while in The Depths, but can still save you from certain death by healing you.
+-   The amount of times you have been sent to the depths increases a counter named Times Drowned in the summary which adds up the number of Drowns to your Power when calculating which trial you must face.[\[1\]](#cite-note-1)
+
+1.  [↑](#cite-ref-1) [Cathedral of the Interstice](Cathedral_of_the_Interstice.md)

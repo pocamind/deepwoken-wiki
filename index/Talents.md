@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 131464
+revid: 131505
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2131,7 +2131,7 @@ _**"My cure is most effective."**_
     -   Steals 10% armor on proc
     -   Prerequisite: Rending Needle: Conductor
 
--   _Rending Impact: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
+-   _Rending Needle: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
     -   Ironsing Pull is activated by pressing X.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
@@ -2148,7 +2148,7 @@ _**"My cure is most effective."**_
     -   Without Conductor's cable talent doesn't steal armor at all.
     -   You can't pull out conductor's cable.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
-    -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Jailer
+    -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer
 
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
@@ -2156,7 +2156,7 @@ _**"My cure is most effective."**_
     -   Will restrain for 1.08s with 5 rod proc and 1.6s if 10 rod proc (Keep in mind, pulls have 0.4s endlag)
     -   Time jailed doesn't scale with Ironsing investment or scaling barely exists.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
-    -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Conductor
+    -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Conductor
 
 ### Saboteur
 
