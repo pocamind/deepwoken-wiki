@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 130140
+revid: 131307
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -90,7 +90,11 @@ Each stance uses the critical of the matching hero blade.
 
 ### **Saintsblade**
 
-By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **30** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**.
+By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **30** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**. The Saintsblade doesn't scale off of any attribute or trait, nor does it apply elemental status effects, however, it does gain extra PEN from Proficiency.
+
+### **Saint Stances**
+
+While the Saintsblade is equipped, you will enter one of 5 Saint Stances depending on the element. Saint Stances are cycled through by using the Critical. Each stance has a unique Critical, gives you access to element-specific passive abilities as given by Hero's Assist, and modifies the Blade of Saints Mantra. The stance entered when first equipping the Saintsblade is based off of your highest-invested attunement.
 
 ### **Hero's Assist**
 
@@ -102,7 +106,7 @@ By pressing 'L', your weapon changes to the Saintsblade, which is required to us
 
 **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
 
-**Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw mantra, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing chill or applying crystals.
+**Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing chill or applying crystals.
 
 **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly increasing the windup, while also greatly increasing the damage of the mantra.
 

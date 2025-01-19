@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 131242
+revid: 131313
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -134,13 +134,13 @@ It has a few sub-variants:
 
 This effect can be applied by being hit with Galebreathe Mantras or Galeforced monsters, it reduces your attack speed for its duration. Signified by green (white if the user has Spectre Path) spirals on your character.
 
-### Suffocated
+### Suffocate
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe Mantra if the user has World Without Song. Unable to cast Mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
+Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe Mantra if the user has A World Without Song. Unable to cast Mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
 
 ### Chilled
 
-Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mantra, from being hit by a Frostmantled enemy,from the [Crustaceous Rex](Crustaceous_Rex.md)'s bubbles, or from a [Glacial Lionfish](Glacial_Lionfish.md)'s Chilling Cero. Signified by cyan smoke on your character.
+Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mantra, from being hit by a Frostmantled enemy, from the [Crustaceous Rex](Crustaceous_Rex.md)'s bubbles, or from a [Glacial Lionfish](Glacial_Lionfish.md)'s Chilling Cero. Signified by cyan smoke on your character.
 
 ### Crystal
 
@@ -160,7 +160,7 @@ Do 10% less damage and turn M1 attacks into lightning damage. Applied through be
 
 ### Sapped
 
-This can be applied by being flourished by someone using Thunder Wisp or by someone overloading your surge stacks with Fried Circuits. While Sapped, your Mantra cool downs are increased, you will also be shocked when Sapping ends. Indicated by a lightning javelin piercing you.
+This can be applied by being flourished by someone using Thunder Wisp or by someone overloading your surge stacks with Fried Circuits. While Sapped, your Mantra cooldowns are increased, you will also be shocked when Sapping ends. Indicated by a lightning javelin piercing you.
 
 ### Overloaded
 
@@ -173,7 +173,7 @@ Inflicted by being hit by [Ironsing](Ironsing.md) Mantras. Effect varies dependi
 -   Normally: Allows you to be pulled in towards them when they press X.
 -   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing Mantra.
 -   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
--   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on Talents they might have.) Signified by big metal rods in your body. (those will be yellow/gold if the user has Scrapsinger)
+-   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on Talents they might have) Signified by big metal rods in your body. (These will be yellow/gold if the user has Scrapsinger)
 
 ### Blood Poisoning
 

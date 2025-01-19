@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 129480
+revid: 131334
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,7 +14,7 @@ _Knowing this information is absolutely crucial to elongating your life, and wil
 
 ## GUI
 
-_There are many elements to the GUI, each one playing its own part. In order to have a chance at surviving, learning these are essential._
+_There are many elements to the GUI, each one playing its own part. In order to have a chance at surviving, learning these is essential._
 
 <table>
 <tbody>
@@ -32,16 +32,16 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 </tr>
 <tr>
   <th>Posture Bar</th>
-  <td>A visual representation of the player's ability to guard against attacks. Building this bar indicates negative standing, you should do your best to keep this bar as low as possible during in combat. When the next attack causes the posture to go exceed the bar, the next blocked hit will instead guard break, dealing increased damage and stunning you.
+  <td>A visual representation of the player's ability to guard against attacks. Building this bar indicates negative standing, you should do your best to keep this bar as low as possible during combat. When the next attack causes the posture to exceed the bar, the next blocked hit will instead guard break, dealing increased damage and stunning you.
   <ul>
     <li>Posture decreases if the player lands a parry, stops blocking while also not sprinting and/or through the effects of certain <a href="Talents.md">Talents</a>.</li>
     <li>When blocking while in shaky block frames, your posture bar glows red to indicate that your block isn't full yet.</li>
-    <li>Spitting with <kbd>T</kbd> on Humanoids also restores your posture by a great amount, Use it wisely as you'll be forced to stand still for the taunt.</li>
+    <li>Spitting with <kbd>T</kbd> on Humanoids also restores your posture by a great amount. Use it wisely however, as you'll be forced to stand still for the taunt.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Cooldown Icons</th>
-  <td>Icons that indicate whether or not the player can do certain actions. When these icons become reddened/grayed out indicates that the specific action is currently on cooldown.
+  <td>Icons that indicate whether or not the player can do certain actions. When these icons become reddened/grayed out indicates that the specified action is currently on cooldown.
   <ul>
     <li>The first icon represents roll cooldown.</li>
     <li>The second icon represents parrying cooldown.</li>
@@ -52,13 +52,13 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 </tr>
 <tr>
   <th>Cooldown Indicators</th>
-  <td>Cooldown Indicators represent the cooldown for mostly everything in-game excluding mantras, from Talents like kick-off, propagandist, and audacity, to criticals, feints, Resonances, and even special attacks/effects such as <a href="Gran_Sudaruska.md">Sudaruska's Fury</a> and <a href="Immortal_Helm.md">Immortality</a> has the name of the cooldown on the left side, and the amount of time until you can use it again on the right.<figure><figcaption></figcaption></figure></td>
+  <td>Cooldown Indicators represent the cooldown for mostly everything in-game excluding Mantras, from Talents like Kick Off, Propagandist, and Audacity, to Criticals, Feints, Resonances, and even special attacks/effects such as <a href="Gran_Sudaruska.md">Sudaruska's Fury</a> and <a href="Immortal_Helm.md">Immortality</a>, with the name of the cooldown on the left side, and the amount of time until you can use it again on the right.<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
   <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of magic, and <a href="Mantras.md">Mantras</a> cannot be used without sufficient Ether.
   <ul>
-    <li>Different mantras use varying amounts of Ether. Adding <a href="Mantra_Modifiers.md">Mantra Modifiers</a> will increase the amount of Ether required to cast.</li>
+    <li>Different Mantras use varying amounts of Ether. Adding <a href="Mantra_Modifiers.md">Mantra Modifiers</a> will increase the amount of Ether required to cast.</li>
     <li>Ether passively regenerates, and regeneration is buffed with a high Tempo.</li>
     <li>Ether also regenerates faster when out of combat.</li>
   </ul><figure><figcaption></figcaption></figure></td>
@@ -154,34 +154,52 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 <table>
 <tbody>
 <tr>
-  <th rowspan="2">Item Type</th>
-  <td colspan="9">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Items also have a frame on them with the color defining its rarity or otherwise worth. Grey for common, yellow for uncommon, red for rare and cyan for legendary. Purple frames are seen on potions and enchants. Grey is always seen on elemental weapons like Crypt Blades. (These item frames aren't always correlated to the items drop-rate hence why some "Legendary" items may appear to drop commonly when you do the math)
+  <th rowspan="11">Item Type</th>
+  <td colspan="10">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Items also have a frame on them with the color defining its rarity or otherwise worth. Grey for common, yellow for uncommon, red for rare and cyan for legendary. Purple frames are seen on potions and enchants. Grey is always seen on elemental weapons like Crypt Blades. (These item frames aren't always correlated to the items drop-rate hence why some "Legendary" items may appear to drop commonly when you do the math)
   <ul>
     <li>During the 2/9/24 update, the Inventory UI received a category revamp. It brought along 9 different categories, combining old item categories making a clean separate line for each category, and listing the number amount of items in each category on the right side.</li>
     <li>During the 2/16/24 update, the Inventory UI received a further addition of 3D model icons. This can be changed in the settings and can be disabled or extended to only show if the item is hovered over. It also added collapsable categories with a down arrow next to the category amount, which collapses the category upon being clicked. And the addition of the 10th category; Relics.</li>
   </ul></td>
-  <td><figure><figcaption></figcaption></figure><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
-  <td><u>Abilities</u><p>1st place in the inventory. Consist of activatable Talents like; Chime of Dwelling, Guild Officer, and Call of the Deep. Also consists of active mantras, ones that aren't recalled.</p>
-  <p>Weight: None</p></td>
-  <td><u>Tools</u><p>2nd place in the inventory. Consist of usable items like campfires, fishing rods, gliders, harvesting tools, guild tools or hunters brace.</p></td>
-  <td><u>Training Gear</u><p>3rd place in the inventory. Consist of items that train your characters attributes.</p>
-  <p>Weight: None</p></td>
-  <td><u>Equipment</u><p>4th place in the inventory. Consist of equippable armor and clothing pieces if you meet the req.</p>
-  <p>Weight: 2</p></td>
-  <td><u>Weapons</u><p>5th place in the inventory. Consist of equippable weapons and off-hand items if you meet the req.</p>
-  <p>Weight: 2</p></td>
-  <td><u>Schematics</u><p>6th place in the inventory. Consist of blueprints you can turn in at blacksmiths to craft them. The glider blueprint has no weight.</p>
-  <p>Weight: 1</p></td>
-  <td><u>Quest Items</u><p>7th place in the inventory. Consist of items that train your characters attributes.</p>
-  <p>Weight: None</p></td>
-  <td><u>Consumables</u><p>8th place in the inventory. Consists of foods and potions.</p>
-  <p>Weight: Varies</p></td>
-  <td><u>Relics</u><p>9th place in the Inventory. Consists of Mythical Items that can rewrite fate, such as alloys that can enhance items, to books, parchment and idols that can change your resonance and knowledge.</p>
-  <p>Weight: None</p></td>
-  <td><u>Materials</u><p>10th place in the inventory. Consist of materials from foraging or chests that are used for crafting and or alchemy. Also consists of Mantra modifiers, ingredients that are used to further enhance mantras, such as increasing their size or range.</p>
-  <p>Weight: Varies</p></td>
+  <td colspan="10"><u>Abilities</u> - Weight: None<br>
+  1st place in the inventory. Consist of activatable Talents like Chime of Dwelling, Guild Officer, and Call of the Deep. Also consists of equipped Mantras; ones that aren't recalled.</td>
+</tr>
+<tr>
+  <td colspan="10"><u>Tools</u> - Weight: None<br>
+  2nd place in the inventory. Consist of usable items like Campfires, Fishing Rods, Gliders, harvesting tools, guild tools or Hunter's Brace.</td>
+</tr>
+<tr>
+  <td colspan="10"><u>Training Gear</u> - Weight: None<br>
+  3rd place in the inventory. Consist of items that train your character's <a href="Attributes.md">attributes</a>.</td>
+</tr>
+<tr>
+  <td colspan="10"><u>Equipment</u> - Weight: 2<br>
+  4th place in the inventory. Consist of equippable armor and clothing pieces if you meet the reqirement.</td>
+</tr>
+<tr>
+  <td colspan="10"><u>Weapons</u> - Weight: 2<br>
+  5th place in the inventory. Consist of equippable weapons and off-hand items if you meet the reqirement.</td>
+</tr>
+<tr>
+  <td colspan="10"><u>Schematics</u> - Weight: 1<br>
+  6th place in the inventory. Consist of blueprints you can turn in at blacksmiths to craft them. The <a href="Gliders.md">Glider</a> Schematic has no weight.</td>
+</tr>
+<tr>
+  <td colspan="10"><u>Quest Items</u> - Weight: None<br>
+  7th place in the inventory. Consist of items that interact with certain <a href="Quests.md">quests</a>.</td>
+</tr>
+<tr>
+  <td colspan="10"><u>Consumables</u> - Weight: Varies<br>
+  8th place in the inventory. Consists of foods and potions.</td>
+</tr>
+<tr>
+  <td colspan="10"><u>Relics</u> - Weight: None<br>
+  9th place in the Inventory. Consists of Mythical Items that can rewrite fate, such as alloys that can enhance items, to books, parchment and idols that can change your resonance and knowledge.</td>
+</tr>
+<tr>
+  <td colspan="10"><u>Materials</u> - Weight: Varies<br>
+  10th place in the inventory. Consist of materials from foraging or chests that are used for crafting and or alchemy. Also consists of Mantra modifiers, ingredients that are used to further enhance Mantras, such as increasing their size or range.</td>
 </tr>
 <tr>
   <th>Carrying Capacity</th>
@@ -214,15 +232,15 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <p>In the case of getting your attack blocked, your attack will instead deal a different type of damage in the form of "Posture Damage", taking into account the weight of your weapon rather than your damage output.</p>
   <p><br>
   </p>
-  <p>When 4 hits are swung consecutively without pauses, your character will kick your adversary away in an action called a Flourish. This is an "end" to your string of swings, and has a small amount of endlag before you can swing again- which can be circumvented by casting a Mantra directly after the Flourish. Landing a Flourish causes the target hit to be launched away from you, essentially preventing an infinite combo. Flourishes can only be feinted by casting a mantra.</p>
+  <p>When 4 hits are swung consecutively without pauses, your character will kick your adversary away in an action called a Flourish. This is an "end" to your string of swings, and has a small amount of endlag before you can swing again- which can be circumvented by casting a Mantra directly after the Flourish. Landing a Flourish causes the target hit to be launched away from you, essentially preventing an infinite combo. Flourishes can only be feinted by casting a Mantra.</p>
   <ul>
     <li><i>Many Talents modify your Flourish in different ways, from blurring someone's screen when they get pushed into a wall with the Concussion Talent, burning someone with the Flaming Flourish Talent or placing down Ice with the Chilling Flourish Talent.</i></li>
   </ul><p><br>
-  Hitting or parrying opponents applies stun, which, for a slight moment, lowers their movement speed, disables their rolling, cancels their ability to attack, and nullifies the hitbox of any current mantras they are casting despite the continuing animation and visual effects.</p>
+  Hitting or parrying opponents applies stun, which, for a slight moment, lowers their movement speed, disables their rolling, cancels their ability to attack, and nullifies the hitbox of any current Mantras they are casting despite the continuing animation and visual effects.</p>
   <ul>
     <li>In continuation of the ending point, if someone uses Ice Lance but you manage to score a hit as they drive it towards you, you will take no damage from the Ice Lance- it won't even stick into you, even if you were meant to be hit by it.</li>
   </ul><p><br>
-  Performing an M1 while running performs a <i>Running Attack</i>, forcing your character to strafe forward and strike with increased range- stopping your character in place directly after, and has increased end-lag and slightly increased windup. While some of these properties may sound negative, it can be handy when in need of having to catch your adversary off guard. If a Running Attack is used against an adversary with their back turned to you, you shall charge into them with a gust of wind and strike. The only way to feint a <i>Running Attack</i>, similar to a <i>Flourish</i>, is to cast a mantra.</p>
+  Performing an M1 while running performs a <i>Running Attack</i>, forcing your character to strafe forward and strike with increased range- stopping your character in place directly after, and has increased end-lag and slightly increased windup. While some of these properties may sound negative, it can be handy when in need of having to catch your adversary off guard. If a Running Attack is used against an adversary with their back turned to you, you shall charge into them with a gust of wind and strike. The only way to feint a <i>Running Attack</i>, similar to a <i>Flourish</i>, is to cast a Mantra.</p>
   <p>A hidden technique, subtly called <i>Stepping,</i> involves double tapping W during an M1, which will bring you closer to your opponent if you need to exploit range of your weapon and what your adversary may assume about your standing in combat. Suggested to only use this when necessary, as attempting to perform the required actions may put extra physical strain which will make it harder to perform other actions- as well as accidentally performing a <i>Running Attack</i>- unless you are used to the button combo.</p>
   <p><br>
   Getting hit will negate your ability to throw in an M1 for a little longer than it takes for you to be able to roll so it's not at all recommended to try to M1 in the middle of your opponents combo.</p></td>
@@ -230,9 +248,9 @@ _When fighting, while dealing damage is important, reducing their posture can al
 </tr>
 <tr>
   <th>Critical Attacks</th>
-  <td><i>Critical Attacks</i>, or "Crit(s)" for short, can be initiated by pressing <kbd>R</kbd> or clicking <kbd>M3</kbd> (Pressing down the scroll wheel). Personally advised to use <kbd>R</kbd> .<p><br>
+  <td><i>Critical Attacks</i>, or "Crit(s)" for short, can be initiated by pressing <kbd>R</kbd> or clicking <kbd>M3</kbd> (Pressing down the scroll wheel). Personally advised to use <kbd>R</kbd>.<p><br>
   </p>
-  <p><i>Critical Attacks</i> have various uses. They are mainly used to deal high posture damage, especially heavy weapons. Some work as a way to throw off/confuse your adversary's momentum, such as <a href="Crescendo.md">Crescendo</a> or <a href="Rifle_Spear.md">Rifle Spear</a> critical. Others work as a way to help high damage, such as <a href="Rosen's_Hellflame.md">Rosen's Hellflame</a> or <a href="Wretched_Mawblades.md">Wretched mawblades</a>' criticals. Some others give utility to the critical like <a href="Petra's_Anchor.md">Petra's anchor</a> (Dash) or <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a> (Hyperarmor), while some others may be used to simply instill fear and/or pressure to the opponent, such as <a href="First_Light.md">First light</a> (Zoning) and <a href="Flareblood_Kamas.md">Flareblood kamas</a> (Ranged) criticals. <i><b>A mass majority of Critical Attacks cannot be feinted. When you perform one, make sure you are committed to doing so.</b></i></p></td>
+  <p><i>Critical Attacks</i> have various uses. They are mainly used to deal high posture damage, especially Heavy weapons. Some work as a way to throw off/confuse your adversary's rhythm, such as with <a href="Crescendo.md">Crescendo</a> or <a href="Rifle_Spear.md">Rifle Spear</a>'s criticals. Others work as a way to help high damage, such as <a href="Rosen's_Hellflame.md">Rosen's Hellflame</a> or <a href="Wretched_Mawblades.md">Wretched Mawblades</a>' criticals. Others can serve as utility for the player, such as <a href="Petra's_Anchor.md">Petra's Anchor</a> (Dash) or <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a> (Hyperarmor), while some others may be used to simply instill fear and/or pressure to the opponent, such as <a href="First_Light.md">First Light</a> (Zoning) and <a href="Flareblood_Kamas.md">Flareblood Kamas</a>' (Ranged) criticals. <i><b>A mass majority of Critical Attacks cannot be feinted. When you perform one, make sure you are committed to doing so.</b></i></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -240,7 +258,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <td>Pressing the <kbd>F</kbd> key causes your character to enter a stance of deflection for a moment. Enemies hitting you during this timeframe have their attacks parried, causing them to be momentarily stunned and dealing posture damage to them, as well as reducing your own posture. It should be noted that whether your tap or hold <kbd>F</kbd> doesn't matter, as it will result in a parry at the beginning of the button press regardless.<p>Successful parries gives your character brief frames of auto-parry in which all incoming attacks are parried automatically. Parrying also resets its cooldown so that you may parry immediately again. <i><b>It's also possible to attack during it's auto-parry frames, but this is difficult to do safely.</b></i> Parrying will cancel all attacks (except for some monster attacks), as well as the damage for that attack, even if they come from behind your character. <i><b>However, this is not the case for Blocking (see below).</b></i></p>
   <p><br>
   <i>Parrying has a 1.4 second cooldown. If you miss your parry, you may hold <kbd>F</kbd> to Block and nullify/reduce any imminent damage you would otherwise take for missing the parry.</i></p>
-  <p>Parrying physical attacks like Mantras or M1s will completely interrupt your opponents action, even if the animation continues. So, without their action getting in the way of their parry, they are able to parry whatever move you throw out next. This does not apply to all mantras however, especially projectile based ones. You may alternatively attempt to roll their mantra which MAY have an 100% chance of an M1 if you throw it out quick enough.</p>
+  <p>Parrying physical attacks like Mantras or M1s will completely interrupt your opponents action, even if the animation continues. So, without their action getting in the way of their parry, they are able to parry whatever move you throw out next. This does not apply to all Mantras however, especially projectile based ones. You may alternatively attempt to roll their Mantra which MAY have an 100% chance of an M1 if you throw it out quick enough.</p>
   <p><i>Whilst Blocking and Parrying share the same hotkey (<kbd>F</kbd>), you'll perform a parry instead of a block if a parryable attack hits you during parry frames. You can know when you're currently in a state of parry frames by taking note of your character's distinct stance and hearing a subtle "whoosh" sound immediately after pressing <kbd>F</kbd>.</i></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
@@ -265,7 +283,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
 </tr>
 <tr>
   <th>Feinting</th>
-  <td>Right-clicking- otherwise using <kbd>M2</kbd>- during the moment your character pulls their weapon/arm back for a swing will allow you to fake-out the opponent with a <i>Feint</i>. You can also hold the button down which will feint your M1 as soon as possible and allows you to attack again even sooner more easily.
+  <td>Right-clicking- or otherwise using <kbd>M2</kbd>- during the moment your character pulls their weapon/arm back for a swing will allow you to fake-out the opponent with a <i>Feint</i>. You can also hold the button down which will feint your M1 as soon as possible and allows you to attack again even sooner more easily.
   <ul>
     <li>You may feint <i>Running Attacks</i> and <i>Uppercuts</i> (see below) by using a Mantra just before you strike.</li>
     <li>You may feint Mantras by doing <kbd>M1</kbd>+ <kbd>M2</kbd> during a cast.</li>
@@ -278,11 +296,11 @@ _When fighting, while dealing damage is important, reducing their posture can al
   </ul><p><i>Feinting has very slight end-lag, and will briefly disable your ability to make any attack for a very small moment.</i></p></td>
 </tr>
 <tr>
-  <th>Dashing</th>
-  <td>Pressing <kbd>Q</kbd> allows you to Dash towards your desired direction, granting you immunity frames against most attacks, with the exception of a few.<p><br>
+  <th>Rolling</th>
+  <td>Pressing <kbd>Q</kbd> allows you to Roll towards your desired direction, granting you immunity frames against most attacks, with the exception of a few.<p><br>
   </p>
-  <p>You can roll-cancel by right-clicking- otherwise using <kbd>M2</kbd>- during the movement of your roll. For many experienced players, roll-canceling replaces Dashing as it is simply better in most cases, given that it cancels the endlag of your Dash as well as asserting yourself in combat and sizing up your adversary.<br>
-  Many Talents exist to add properties to your Dashes. For example, if a <a href="Galebreathe.md">Galebreather</a> obtains the rare card Gale Dash, they will gain a wind-empowered dash upon initially dodging an incoming attack.</p>
+  <p>You can roll-cancel by right-clicking- or otherwise using <kbd>M2</kbd>- during the movement of your roll. For many experienced players, roll-canceling replaces Rolling as it is simply better in most cases, given that it cancels the endlag of your Roll as well as asserting yourself in combat and sizing up your adversary.<br>
+  Many Talents exist to add properties to your Rolls. For example, if a <a href="Galebreathe.md">Galebreather</a> obtains the rare card Gale Dash, they will gain a wind-empowered dash upon initially dodging an incoming attack.</p>
   <p><br>
   <i>With the <a href="Echoes.md">Echo Talent</a> "Aerial Assault" (Unlocked at Power 2), you can do an Air Dash by <kbd>Q</kbd> in the air, with the direction traveled depending on where your camera is facing.</i></p></td>
   <td><figure><figcaption></figcaption></figure></td>
@@ -314,7 +332,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <p>Victims hit by Uppercuts are unable to block, and parry timing is seemingly tighter, which makes Uppercuts play a big role in combos. Comboing will keep you in the air, while feinting and parrying will drop both of you.</p>
   <p>Certain Talents- such as <i>Flaming Uppercut</i> and <i>Quick Link-</i> can also affect the potency of Uppercuts by adding properties to them the same way some Talents add properties to Flourishes.</p>
   <p><br>
-  Uppercuts have their own unique windup speed, regardless of whatever weapon type you may be using- making Uppercuts especially useful for Heavy weapons with slow swing speeds, or due to difference reasons, Ex. for <a href="Gran_Sudaruska.md">Gran Sudaruska</a> users.</p>
+  Uppercuts have their own unique windup speed, regardless of whatever weapon type you may be using, making Uppercuts especially useful for Heavy weapons with slow swing speeds, or for other reasons, Ex. for <a href="Gran_Sudaruska.md">Gran Sudaruska</a> users.</p>
   <p>If you land an Uppercut against a dodge or block, then the reduced end-lag should allow you to strike your opponent with an M1 before they can retaliate.</p>
   <p>Landing a flourish on an opponent suffering from the stun of your aerial combo will automatically kick them to the floor, which will result in any wall-bang Talents occurring- such as <i>Bulldozer</i> and <i>Breathing Impact.</i></p>
   <p><i>Missing an Uppercut will completely immobilize you and leave you vulnerable- akin to failing to Vent, but you can typically parry an incoming attack if your opponent is on edge, or try an Uppercut yet again before full recovery.</i></p></td>
@@ -323,7 +341,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
 <tr>
   <th>Taunt</th>
   <td>By pressing <kbd>T</kbd>, you can perform a taunt, colloquially refered to as a "spit" or "spitting". When taunting, the player character spits directly in-front of them. Whilst initially unassuming, the taunt has a special application in combat.<p>By spitting while your face is right up against another Humanoid's face (or perhaps spitting towards a Humanoid whilst they're facing the opposite direction you are when they're a few studs away from you), their vision will be briefly blurred (exact amount of time unconfirmed) and you will heal ~5% of your health and restore a large sum of your posture (exact amounts unconfirmed). This is a risky maneuver, though, as taunting has a considerable amount of startup and endlag, and you're usually better off just attacking your opponent. Due to this glaring flaw, the Taunt should only be used as a method of, well, taunting foes you deem inferior, or perhaps even as a risky mixup. <i>Based on the name, it's possible that more taunts were meant to be added, but this is not confirmed by any developers. It's very likely that the developers simply wanted the Taunt to be a spit, though.</i></p>
-  <p>An example of effective usage of taunt in combat is spitting during legion kata (fist style)'s critical. The target will be stunlocked during the crit, but allows the user to spit during the animation, effectively healing your health and posture without any risk.</p></td>
+  <p>An example of effective usage of taunt in combat is spitting during <a href="Legion_Kata.md">Legion Kata</a>'s critical. The target will be stunlocked during the crit, but allows the user to spit during the animation, effectively healing your health and posture without any risk.</p></td>
   <td></td>
 </tr>
 </tbody>
@@ -341,7 +359,7 @@ Main article: [Status Effects](Status_Effects.md)
 <tbody>
 <tr>
   <th>Broken</th>
-  <td>Represented by torn-up clothes of the victim. Lose all defensive bonuses from the equipped <a href="Outfits.md">outfit</a>.<p>Occurs when armor durability reaches below 0%.</p></td>
+  <td>Represented by torn-up clothes on the victim. Lose all defensive bonuses from the equipped <a href="Outfits.md">outfit</a>.<p>Occurs when armor durability reaches below 0%.</p></td>
   <td></td>
 </tr>
 <tr>
@@ -357,14 +375,14 @@ Main article: [Status Effects](Status_Effects.md)
   <td>Represented by red glowing sparks emitting from the head of the victim.<p><br>
   </p>
   <p><b>The victim cannot jump. Damage output and intake is increased for both the user and target.</b></p>
-  <p><i>The only source is from the Charisma mantra, Taunt.</i></p></td>
+  <p><i>The only source is from the Charisma Mantra, Taunt.</i></p></td>
   <td></td>
 </tr>
 <tr>
   <th>Chilled</th>
   <td>Represented by a blue mist engulfing the victim's body.<p><br>
   <b>Speed is reduced.</b></p>
-  <p><i>A common source is being hit by a Frostdraw Mantra, along with being hit by the bubbles of a <a href="Crustaceous_Rex.md">Crustaceous Rex</a>.</i></p></td>
+  <p><i>A common source is being hit with a Frostdraw Mantra, along with being hit by the bubbles of a <a href="Crustaceous_Rex.md">Crustaceous Rex</a>.</i></p></td>
   <td></td>
 </tr>
 <tr>
@@ -373,21 +391,21 @@ Main article: [Status Effects](Status_Effects.md)
   <b>Take slight damage over time. Can be rolled to the end early, or else it will clear itself after 10 seconds.</b></p>
   <ul>
     <li>If the applier uses a Deepfire Ring, the burn status will become stronger but shorter.</li>
-  </ul><p><i>A common source is being hit by a Flamecharm Mantra, along with being hit by one of <a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser's</a> moves.</i></p></td>
+  </ul><p><i>A common source is being hit with a Flamecharm Mantra.</i></p></td>
   <td></td>
 </tr>
 <tr>
-  <th>Paralysis</th>
+  <th>Shocked</th>
   <td>Represented by yellow sparks engulfing the victim's body.<p><br>
   </p>
   <p><b>Stuns for a slight moment, usually enough to land an extra hit.</b></p>
-  <p><i>A common source is being hit by a Thundercall Mantra, along with being hit by <a href="The_Ferryman.md">The Ferryman</a>.</i></p></td>
+  <p><i>A common source is being hit with a Thundercall Mantra, along with being hit by <a href="The_Ferryman.md">The Ferryman</a>.</i></p></td>
   <td></td>
 </tr>
 <tr>
   <th>Electrified</th>
   <td>Confusingly, also represented by yellow sparks buzzing around the victim's body.<p><b>All outgoing attacks are converted to Electric/Thunder damage. Caster of this effect tends to pair this with Thunder-damage-reducing equipment/Talents to further nullify the victim's damage.</b></p>
-  <p><i>Common source is being hit by Thundercall Mantras from users with the Thundercall Talent Resolve Crusher.</i></p></td>
+  <p><i>A common source is being hit with Thundercall Mantras from users with the Thundercall Talent Resolve Crusher.</i></p></td>
   <td></td>
 </tr>
 <tr>
@@ -399,7 +417,7 @@ Main article: [Status Effects](Status_Effects.md)
 <tr>
   <th>Suffocate</th>
   <td>Represented by crosses spinning around the victim's neck violently.<p><b>The victim will take slight damage over time and be unable to cast Mantras.</b></p>
-  <p><i>A common source is being hit by a Galebreathe Mantra while the Galebreather has the World Without Song Talent.</i></p></td>
+  <p><i>A common source is being hit by a Galebreathe Mantra while the Galebreather has the A World Without Song Talent.</i></p></td>
   <td></td>
 </tr>
 <tr>
@@ -418,13 +436,13 @@ Main article: [Status Effects](Status_Effects.md)
     <li>Health packs from knocks</li>
     <li>Spit healing</li>
     <li>Reinforce</li>
-    <li>Symbiotic Sustain from <a href="Oath%253A_Linkstrider.md">linkstrider</a></li>
+    <li>Symbiotic Sustain from a <a href="Oath%253A_Linkstrider.md">Linkstrider</a></li>
     <li>Bloodless Gem</li>
     <li>Campfire regeneration</li>
-    <li>Blood Scourge</li>
+    <li>Blood Scourge Resonance</li>
     <li>Vampirism</li>
-  </ul><p>Does not proc/work on people in the same guild as yours.</p>
-  <p><i>Sources are <a href="Mudskipper_Broodlord.md">mudskipper broodlord</a> and players with the Talent “All the Dead Gods”, Umbrite witherblade or Ring of Pestilence, which gives 80%,&nbsp;?, 50% healing reduction respectively.</i></p></td>
+  </ul><p>Does not proc/work on allies and people in the same guild as you.</p>
+  <p><i>Sources include <a href="Mudskipper_Broodlord.md">Mudskipper Broodlords</a>, players with the Talent “All the Dead Gods”, or Ring of Pestilence, each giving 80%,&nbsp;?, and 50% healing reduction respectively.</i></p></td>
   <td></td>
 </tr>
 </tbody>
@@ -436,25 +454,28 @@ Main article: [Status Effects](Status_Effects.md)
 <tbody>
 <tr>
   <th>Spell Casting</th>
-  <td>When you use a spell, it will deplete a certain amount of ether dependent on the volatility of the spell. You will hear a sound cue while casting, and timing your click to this will enable you to use the spell faster. There is also a visual cue, however, this differs from spell to spell.</td>
+  <td>When you use a spell, it will deplete a certain amount of Ether dependent on the volatility of the spell. You will hear a sound cue while casting, and timing your click to this will enable you to use the spell faster. There is also a visual cue, however, this differs from spell to spell.</td>
 </tr>
 <tr>
   <th>Spell Feinting</th>
-  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful. You may only cancel a few mantras in the game during their attack like Rapid Punches.<p>Spell feinting is performed by pressing M1 and then <kbd>M2</kbd>. Spell feinting will <b>not</b> refund the ether cost.</p>
-  <p>It's possible to feint and feint your spell at the same time. Double feinting like this will often draw out your opponents parry and roll. It's still fairly possible to retaliate against but dealing with this technique is tricky, especially when used with very quick mantras which easily overwhelms most unexperienced players thought process.</p></td>
+  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful. You may only cancel a few Mantras in the game during their attack like Rapid Punches.<p>Spell feinting is performed by pressing M1 and then <kbd>M2</kbd>. Spell feinting will <b>not</b> refund the Ether cost.</p>
+  <p>It's possible to feint and feint your spell at the same time. Double feinting like this will often draw out your opponent's parry and roll. It's still fairly possible to retaliate against but dealing with this technique is tricky, especially when used with very quick Mantras, which easily overwhelms most unexperienced players.</p></td>
 </tr>
 <tr>
   <th>Perfect Casting</th>
-  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. The only use of this feature is to interact with some Talents. Though it might sound useless, certain Talents can give massive bonuses. All Talents that use perfect casting are listed here:
+  <td>Clicking M1 immediately after your Mantra cast will <i><b>Perfect Cast</b></i> it. There's no indication of whether the perfect cast was successful. The only use of this feature is to interact with some abilities. Though it might sound useless, certain Talents can give massive bonuses. All Talents that use perfect casting are listed here:
   <ul>
-    <li><i>Eureka</i> - Receive ether back on every successful <b>perfect cast</b>. (essentially useless as it has a 6 second cooldown)</li>
+    <li><i>Eureka</i> - Receive Ether back on every successful <b>perfect cast</b>. (essentially useless as it has a 6 second cooldown)</li>
     <li>Jolt Cast - Every <b>perfect casted</b> Thundercall Mantra builds a stack of Jolt Cast. At 3 stacks, your next Lightning Mantra will take less time to cast.</li>
-    <li>Haunted Gale - Every 3 hits landed by <b>perfectly casted</b> Galebreathe mantras will cause the target to be quickly struck by a phantom of wind.
+    <li>Haunted Gale - Every 3 hits landed by <b>perfectly casted</b> Galebreathe Mantras will cause the target to be quickly struck by a phantom of wind.
   <ul>
     <li>This Talent is needed for Haunted Path: Specter, and is needed to activate the Apparitions Talent.</li>
   </ul></li>
-  </ul><p>Though outside of these Talents, perfect casting is effectively useless.</p>
-  <p>Do note though, that perfect casting Flame Grab and Jolt Grab may actually nerf it by shortening its range. <a href="https://www.youtube.com/watch?v=o3AJne5Y04U">Source</a>.</p></td>
+  </ul><p>Perfect casting also interacts with certain Mantras. Below is a list of all of them:</p>
+  <ul>
+    <li>Flame Grab - Shortens the range of the grab. This is often seen as a disadvantage.</li>
+    <li>Jolt Grab - Shortens the range of the grab. This is often seen as a disadvantage.</li>
+  </ul><p>Outside of these abilities, perfect casting is effectively useless.</p></td>
 </tr>
 </tbody>
 </table>
@@ -487,6 +508,6 @@ The ally check can be disabled by turning on the "No Holds Barred" in-game setti
 ## Trivia
 
 -   The overall parry-based combat is heavily inspired by _Sekiro: Shadows Die Twice_, even possessing [Perilous Attacks](https://sekiroshadowsdietwice.wiki.fextralife.com/Perilous+Attacks) in the form of unparriable attacks. The inclusion and appearance of a [Posture Bar](https://sekiroshadowsdietwice.wiki.fextralife.com/Posture) is also very similar to _Sekiro_.
--   The Health and Survival GUI has 5 separate bars in them that represent 20% each. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
--   Taunting/Spitting on passive NPCs angers them. If you have at least 55 Charisma, though, they will instead say thank you for spitting on them.
--   Some people refer to Ragdoll Cancelling as a Tech/Teching, a reference to a common mechanic in FGCs where if you block/parry right before hitting a surface whilst being launched, your movement will be cancelled, you'll leave hitstun, and you'll be able to act again almost immediately.
+-   The Health and Survival GUI have 5 separate bars in them that represent 20% each. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
+-   Taunting/Spitting on passive NPCs angers them. If you have at least 55 Charisma, though, they will instead thank you for spitting on them.
+-   Some people refer to Ragdoll Cancelling as a Tech/Teching, a reference to a common mechanic in Fighting Games where if you input block/parry right before hitting a surface whilst being launched, your movement will be cancelled, you'll leave hitstun, and you'll be able to act again almost immediately.

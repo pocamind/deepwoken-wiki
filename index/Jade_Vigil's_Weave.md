@@ -1,6 +1,6 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 131303
+revid: 131332
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Etrea]
@@ -28,4 +28,4 @@ This Outfit also grants the [Talent Card](Talents.md) _**Serpent's Dance**_, whi
 
 ## Trivia
 
--   Added on the 2025-01-18 Weekly update,
+-   Added on the 2025-01-18 Weekly update.

@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 131301
+revid: 131335
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -42,7 +42,7 @@ Unlocked by wearing the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit.
 
 ## Obtainment
 
-? (not part of maestro, i tried no special dialogue from him)
+Unknown. (Not obtained from Maestro).
 
 ## Gallery
 
@@ -55,3 +55,4 @@ Unlocked by wearing the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit.
 -   Presumably related to either [Etrea](Etrea.md) or [The Vigils](The_Vigils.md) due to its name and content released with it.
 
 -   Obtainment currently unknown.
+-   apparently its pushed, these are anonyanomaly's words not mine.

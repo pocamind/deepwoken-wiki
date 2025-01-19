@@ -1,6 +1,6 @@
 ---
 title: Rabanastre
-revid: 131224
+revid: 131324
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Floor of the Second Layer]

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 131253
+revid: 131312
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -486,7 +486,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you a tool that passively drains your blood and health for these buffs. Rush Hour can be deactivated at any time by using the tool again.
-    -   While buffed, you regenerate blood m1.
+    -   While buffed, you regenerate blood when you land M1s.
     -   The damage buff its 15% (according to a tester).
     -   Prerequisite: 50 Bloodrend
 
@@ -1765,7 +1765,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**" I am often in my own world."**_
 
--   _Warrior's Respite_ \[Rare Talent\] - Standing still for 15 seconds in order to initiate healing.
+-   _Warrior's Respite_ \[Rare Talent\] - Stop moving for 15 seconds in order to initiate healing.
     -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect.
     -   Does not activate when on moving ships.
     -   Does activate when in water and with spawn immunity.
@@ -1820,7 +1820,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
-    -   Scales by 5% + IRONSING INVESTMENT\*0.05, meaning that u will have 8.75% at meeting req for this talent (**TESTED DONT EDIT)**
+    -   The scaling is 5% + IRONSING INVESTMENT\*0.05, meaning that you will have 8.75% damage reduction upon meeting the requirements for this talent. (**TESTED DONT EDIT**)
     -   Prerequisite: 75 Ironsing
 
 ### Metamancer
@@ -2786,7 +2786,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I use my blood's plasma to better defend myself."**_
 
--   _Sow and Mend_ \[Rare Talent\] - Sacrifice 15-17.5% of your blood for temporary health. (15s CD)
+-   _Sow and Mend_ \[Rare Talent\] - Sacrifice 17.5% of your blood for temporary health. (15s CD)
     -   Prerequisites: 60 Bloodrend, Master Bloodrender
 -   Cyclical Exsanguination \[Common Talent\] - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
     -   Prerequisite: 65 Bloodrend, Sow and Mend

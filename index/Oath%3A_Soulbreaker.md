@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 131247
+revid: 131320
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -88,6 +88,7 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
     -   User launches a projectile similar to Wind Blade.
     -   Projectile goes really far (~150 studs) and can hit multiple people at once.
     -   Upon hit, pushes the enemy in the direction of a projectile.
+    -   Has a windup of 0.5 seconds and a cooldown of 12 seconds.
 
 -   **Rhythm Advance - Combat Mantra**
     -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.

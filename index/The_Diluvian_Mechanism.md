@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 131270
+revid: 131308
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -42,7 +42,7 @@ A Shrine of Solitude, identical to the one found in the Trial of One lies agains
 
 Within the Diluvian Mechanism, certain waves have a certain modifier or environmental hazard that adds an additional layer of difficulty. Modifiers show a certain text under the wave number, related to a specific debuff that affects all players, such as making it impossible to cast mantras, or gain health packs. Environmental Hazards are risks and nuisances that naturally spawn around the map, mostly in every wave. The known modifiers and environmental hazards are;
 
-### Thicc Air
+### Thick Air
 
 Brings up the dialogue, "The air feels thick..." Causing all players to suffocate during the round losing their ability to cast mantras. This'll cause some issues to support, and for Mage PVE builds who heavily rely on mantras. For these waves, it is good to have some variety in your team (M1 based PVE builds and Mantra based PVE builds). However, the talent Water off a Duck's Back can remove the suffocation.
 
