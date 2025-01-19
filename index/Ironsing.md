@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 131069
+revid: 131411
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -166,8 +166,6 @@ Ether
 -   Deals 103 dmg at 5 lvl, if everything hits.
 -   0.6s windup, 13s CD
 -   Applies Metal Rods on hit.
--   Can be modified with **Aeon/Eternal Logstones**, increasing its longevity.
--   Can be modified with **Crystal/Perfect Lens** increasing its range.
 
  |
 | 

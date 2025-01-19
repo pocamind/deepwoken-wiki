@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 131121
+revid: 131478
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -266,6 +266,12 @@ _verb_
 
 1.  To miss an attack
     1.  Ex. “He whiffed that attack”
+
+### Wind-up
+
+_noun_
+
+1.  The time between when an attack begins and when its hitbox is active. Not to be confused with the [Wind-Up](Wind-Up.md) Resonance.
 
 ## Death Terms
 

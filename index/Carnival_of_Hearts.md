@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 131015
+revid: 131443
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event]
@@ -34,6 +34,11 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   They will both spawn and stand still, wait a few seconds, then spawn again and fire their beams.
 -   Getting hit a single time will instantly eliminate you.
 -   Lasts 100 seconds.
+
+**Slay The Beast**
+
+-   A bounder spawns in & you must kill it as the minigame lasts indefinitely until the bounder is killed.
+-   The bounder can spawn under the carnival in a special arena.
 
 ## Entry Spawn Locations
 

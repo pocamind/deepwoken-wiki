@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 119371
+revid: 131476
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -30,9 +30,9 @@ When used, small circles appear around your right arm. Per use, more circles wil
 
 Pressing C will activate the **Wind-Up** Resonance.
 
-**Wind-Up** will store a charge that will strengthen your next attack. These charges have a duration of roughly one minute, after which the effect will disappear, and the resonance will go on a short cooldown of around ten seconds. **Wind-Up's** max charges is five. When a physical attack is landed while a charge is stored, the attack will be accompanied by a blast that deals additional damage and ragdolls. If a charged attack gets parried, it will cancel the blast, inflict major damage to the attacker's posture (though, it will not guardbreak), and knock back the enemy who parried it. A dodged attack will only cancel the blast. If a charged attack gets parried by an NPC, posture damage received will be treated like a parried uncharged attack. **Wind-Up** can execute NPCs and players if a certain amount of charges are stored. When out of combat, standard **Wind-Up** cannot be charged past two winds.
+**Wind-Up** will store a charge that will strengthen your next attack. These charges have a duration of roughly one minute, after which the effect will disappear, and the Resonance will go on a short cooldown of around ten seconds. **Wind-Up's** max charges is 5 while in combat, but can only be charged up to 2 when out of combat. When a physical attack is landed while a charge is stored, the attack will be accompanied by a blast that deals additional damage and ragdolls. If a charged attack gets parried, it will cancel the blast, inflict major damage to the attacker's posture (though, it will not guardbreak), and knock back the enemy who parried it. A dodged attack will only cancel the blast. If a charged attack gets parried by an NPC, posture damage received will be treated like a parried uncharged attack. **Wind-Up** can execute NPCs and players if a certain amount of charges are stored.
 
-If Wind-Up is corrupted, the ability to execute knocked entities only require 1 charge instead of 3.
+If Wind-Up is corrupted, the ability to execute knocked entities only requires 1 charge.
 
 ### _**Resonance Point Usage**_
 

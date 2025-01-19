@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 129920
+revid: 131475
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -838,6 +838,7 @@ N/A
     -   70% - _**Gruesome Harvest**_ Talent is Activatable
         -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you slight temporary health.
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
+
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in Vyrelda's dialogue, which is special.
 -   Due to it being a new Attunement, the resistance stat for Bloodrend either does not exist, or is simply broken, causing mantras to deal more damage than they are supposed to (needs confirmation)
 

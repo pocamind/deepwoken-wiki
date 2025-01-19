@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 131312
+revid: 131464
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -42,7 +42,7 @@ There are certain Talents that you receive automatically upon meeting their requ
 \-Any talents received by drawing a card hand (e.g. - King Thresher spine quest after completing it for the second time)
 
   
-The maximum amount of talents that you can have (talent hand and quests combined) is 76,minus 2 talents per mantra you own exlcuding the [Kelsius](Kelsius.md) quest, and without quests being 69 talents
+The maximum amount of talents that you can have (talent hand and quests combined) is 76, minus 2 talents per mantra you own exlcuding the [Kelsius](Kelsius.md) quest, and without quests being 69 talents
 
 Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
@@ -83,7 +83,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Rare Talents. You will see far less rares than commons, only two per power increase. Often "stronger" than common Talents, or have larger effects.
 
 -   Advanced
-    -   The most uncommon type of Talent, though not rare if you meet the requirements. These Talents have large, powerful effects on a character.
+    -   The most uncommon type of Talent, though not rare if you meet the requirements. These Talents have potent, powerful effects on a character.
 
 -   Oath
     -   Talents obtained through taking an [Oath](Oaths.md). They relate to the Oath taken and don't take up Talent slots.
@@ -3253,9 +3253,9 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 -   Obtained by [Unbounding](Attributes_Unbound.md) either weapons (HVY, MED or LHT), your attunement, or a physical stat (STR, FTD or AGL) for the first time ever.
 -   This Talent lets you instagrip enemies weaker than you with a swing, or flourish. If they are low enough you will also bash their skull or penetrate their chest with your weapon.
 
-## Outfit Talents
+## Equipment Talents
 
-Certain Talents are given when a specific outfit is worn. Most of these Talents are exclusive to that armor set, though some are also available as cards from powering up. Multiple copies of the same Talent do not stack. Outfit Talents are listed in alphabetical order:
+Certain Talents are given when a specific equipment or outfit is worn. Most of these Talents are exclusive to that equipment, though some are also available as cards from powering up. Multiple copies of the same Talent do not stack. Equipment Talents are listed in alphabetical order:
 
 -   Already Dead: [Deepscorn Casque](Equipment.md) - You take reduced damage from abilities with a health cost.
     -   Lowers Shade Devour damage and removes Deepspindle running critical attack self-damage completely.
