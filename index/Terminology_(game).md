@@ -1,9 +1,9 @@
 ---
 title: Terminology (game)
-revid: 131503
+revid: 131577
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [In progress without reason, InProgressPages, Deepwoken]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -367,6 +367,15 @@ _noun_
 
 ## Outside Combat
 
+### AA-Gun/AA-Gunned
+
+_noun, verb_
+
+1.  (Anti Air Gun) nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time, at a high altitude, or clicks and holds the top tab of their Roblox client to freeze themselves in mid-air). It's most often encountered when being flung due to a collision issue, and can also refer to the act of being flung itself.
+    1.  Ex. "I just got AA gunned and wiped!"
+
+The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_Gun) from _Rogue Lineage_, a turret that serves the same purpose of shooting down exploiters who utilize flying exploits.
+
 ### Bar/Bars
 
 _noun_
@@ -533,18 +542,39 @@ _noun_
 
 ## Acronyms/Short Forms
 
-### AGL
-
-_noun_
-
-1.  Agility [attribute](Attributes.md#agility) (skill)
-2.  Some refer to this stat as **AGI** instead.
-
 ### Attless
 
 _noun, adjective_
 
 1.  Short form for [Attunement-less](Attunement-less.md).
+
+### Attributes
+
+Each attribute has an abbreviation. These can be seen next to the respective attribute's name at [Attributes](Attributes.md). Below are some examples of such, along with a list of a few abbreviations that people sometimes use instead of the official ones:
+
+#### HVY
+
+_noun_
+
+1.  Heavy weapons [attribute](Attributes.md#heavy-weapons).
+    1.  Ex. The Enforcer's Axe requires 75 HVY to wield.
+
+#### LHT
+
+_noun_
+
+1.  Light weapons [attribute](Attributes.md#light-weapons).
+    1.  Ex. The Krulian Knife requires 75 LHT to wield.
+
+#### Other abbreviations
+
+-   **Fort**: Fortitude
+-   **AGI**: Agility (instead of **AGL**)
+-   **Will/WIL**: Willpower (instead of **WLL**)
+-   **CHR**: Charisma (instead of **CHA**)
+-   **FLM**: Flamecharm (instead of **FIR**)
+-   **THN/THD**: Thundercall (instead of **LTN**)
+-   **SHD**: Shadowcast {instead of **SDW**}
 
 ### BMing
 
@@ -592,32 +622,11 @@ _noun_
 1.  Short form of Damage versus Monsters. An equipment attribute that increases your damage towards monsters by percentage stated.
     1.  Ex. "There is a possibility that a player can reach 60% DvM in a build"
 
-### HVY
-
-_noun_
-
-1.  Heavy weapons [attribute](Attributes.md#heavy-weapons) (skill).
-    1.  Ex. The Enforcer's Axe requires 75 HVY to wield.
-
 ### LFT
 
 _noun_
 
 1.  Short form for [Light's Final Toll](<Light's_Final_Toll.md>), a Fist weapon scaling off Willpower
-
-### LHT
-
-_noun_
-
-1.  Light weapon [attribute](Attributes.md#light-weapons) (skill).
-    1.  Ex. The Krulian Knife requires 75 LHT to wield.
-
-### MED
-
-_noun_
-
-1.  Medium weapons [attribute](Attributes.md#medium-weapons) (skill).
-    1.  Ex. The Shattered Katana requires 90 MED to wield.
 
 ### PEN
 

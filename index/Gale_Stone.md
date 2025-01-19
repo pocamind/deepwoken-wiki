@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 128735
+revid: 131571
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -20,7 +20,7 @@ categories: [Items, Elemental Ingredients]
 
 ## Description
 
-Gale Stones can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.md). They can be used to complete the [Lost Brother](Temple_of_the_Blade.md) quest in the Isle of Vigils and thus unlock fighting [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), or [Friid's](Friid,_Master_of_Gale.md) quest in order to obtain [Galebreathe](Galebreathe.md). They are also required for the [Windrunner Robes](Windrunner_Robes.md), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), or the [Justicar](<Justicar_(Origin).md>) outfits.
+Gale Stones can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.md). They can be used to complete the [Lost Brother](Temple_of_the_Blade.md) quest in the Isle of Vigils and thus unlock fighting [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), or [Friid's](Friid,_Master_of_Gale.md) quest in order to obtain [Galebreathe](Galebreathe.md). They are also required for the [Windrunner Robes](Windrunner_Robes.md), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>), and the [Justicar](<Justicar_(Origin).md>) outfits.
 
 ## Obtainment Tips
 

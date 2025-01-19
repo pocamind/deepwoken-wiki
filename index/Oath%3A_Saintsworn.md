@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 131307
+revid: 131549
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -90,11 +90,11 @@ Each stance uses the critical of the matching hero blade.
 
 ### **Saintsblade**
 
-By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **30** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**. The Saintsblade doesn't scale off of any attribute or trait, nor does it apply elemental status effects, however, it does gain extra PEN from Proficiency.
+By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **30** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**. The Saintsblade doesn't scale off of any attribute or trait, nor does it apply elemental status effects. It does, however, gain extra PEN from Proficiency.
 
 ### **Saint Stances**
 
-While the Saintsblade is equipped, you will enter one of 5 Saint Stances depending on the element. Saint Stances are cycled through by using the Critical. Each stance has a unique Critical, gives you access to element-specific passive abilities as given by Hero's Assist, and modifies the Blade of Saints Mantra. The stance entered when first equipping the Saintsblade is based off of your highest-invested attunement.
+With the Saintsblade equipped, you are able to enter 5 different Saint Stances, corresponding to the 5 elements. Saint Stances are cycled through by using the Critical. Each stance gives the Saintsblade a unique Critical, gives you access to element-specific passive abilities as given by Hero's Assist, and modifies the Blade of Saints Mantra. The cycle order of stances is based off of your highest-invested attunements, with the stance when you first equip the Saintsblade being your highest one, the second one your second highest, and so on.
 
 ### **Hero's Assist**
 
@@ -167,4 +167,3 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 -   Saintsworn gives the most mantra slots out of any Oath, being 5 total mantra slots, making it incredibly flexible and spammable..
 -   Saint's Overload have 20 seconds of duration before going off and it can be seen from the flying blade that it changes color to white.
 -   The 5 blade on your back will vanish one by one after Hero's Assist is triggered.
--   The Saint's Blade Stance cycle is based from your strongest attunement, with the strongest one will be your first stance and so on.

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 128154
+revid: 131564
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -128,7 +128,7 @@ While this mob has the health equivalent to a [Megalodaunt](Megalodaunt.md), mak
 
 While this mob **cannot** be power checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from its much higher damage. Even with its near-immunity to [Mantras](Attunements.md), it can still be posture broken quickly and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md).
 
-Keep in mind that standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and that due to its incredibly low health of 1000 (which can reach numbers as small as 200 with PvE Scaling), it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreaks such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) turn this mob into a far easier challenge. With such a weapon, simply block 2 or 3 attacks, then feint-critical to blockbreak him. Do this until he dies. This is still a very risky strategy, especially if you run out of posture to block with.
+Keep in mind that standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and that due to its incredibly low health of 1000 (which can reach numbers as small as 200 with PvE Scaling), it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreaks such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) turn this mob into a far easier challenge. With such a weapon, simply block 2 or 3 attacks, then feint-critical to blockbreak him. Do this until he dies. This is still a very risky strategy, especially if you run out of posture to block with. Keep in mind that using the One-Handed stance with a [heavy Weapon](Weapons.md) makes you deal less posture damage, allowing the Nautilodaunt to safely block one Critical swing, so be sure to swap back to the Two-handed stance if you encounter one.
 
 However, without a "cheese weapon," each of the Nautilodaunt's attacks can prove difficult, so they will be gone through in order:
 

@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 130013
+revid: 131539
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, Etrea, World Event]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 10 and 5 [Willpower](Attributes.m
 
 This Outfit has 2500 durability and grants +30% Physical resistance, +30% Elemental resistance, +25% Wind resistance, +10% Shadow resistance, 10% Fire resistance and +25% Ether Regen.
 
-It gives the "Action Surge" [Talent](Talents.md), which gives you an extra 0.04 swing speed if you use the [Adrenaline Surge](Attunement-less.md) Mantra.
+It gives the "Action Surge" [Talent](Talents.md), which gives you an extra 0.04 swing speed when using the [Adrenaline Surge](Attunement-less.md) Mantra.
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 131505
+revid: 131570
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2268,9 +2268,11 @@ _**"My cure is most effective."**_
     -   Artisan's Blades do not benefit from Exposed Durability's damage buff.
     -   Not affected by "Return To The Dark Ages"
     -   Parrying Artisan's blade gives Auto Parry frames.
+    -   Procs by pulling rods out of someone, amount of Artisan's blade proc depends on pulled amount of rods (6 rods = 3 Artisan's)
     -   4.5 posture per blade.
     -   Affected by Taunt and Grim and etc defense debuff status.
     -   Artisan blades last 20 seconds.
+    -   "Metal infused" attacks are Ignition deepcrusher m1, crit (in any stance), Iron requiem m1 without bullets.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Songs Unforged \[Common Talent, Ironsing Exclusive\] - Your weapon criticals will now activate scrapsinger.
