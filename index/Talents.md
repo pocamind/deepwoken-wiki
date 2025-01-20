@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 131570
+revid: 131685
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -33,7 +33,8 @@ Talents are one of the fundamental aspects of Deepwoken that define your charact
 There are certain Talents that you receive automatically upon meeting their requirement. The following talents will not take up Talent slots: \[NEEDS VISUAL WORK\]
 
   
-\- Echo Talens
+
+\- Echo Talents
 
 \-Attunement obtainment and progression talents
 

@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 131539
+revid: 131680
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, Etrea, World Event]
@@ -8,7 +8,7 @@ categories: [Armors, Items, Outfits, Master Outfits, Etrea, World Event]
 
 # Vigil Sentinel
 
-Template:ArmorInfobox**Vigil Sentinel** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox **Vigil Sentinel** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

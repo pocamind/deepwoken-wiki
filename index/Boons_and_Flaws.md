@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 129788
+revid: 131693
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -392,7 +392,7 @@ Increases Resonance Startup by 1 second, along with a varying unique debuff, dep
 
   
 
-Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by [Yamaketzal](Yamaketzal.md) for 1000 notes or by obtaining Clarity through [Misérable](Misérables.md) for 15 Knowledge.
+Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by [Yamaketzal](Yamaketzal.md) for 1000 notes, by [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 Knowledge, or by obtaining Clarity through [Misérable](Misérables.md) for 15 Knowledge
 
 (Not an Unlockable Flaw)
 
