@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 130271
+revid: 131590
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -47,7 +47,7 @@ Far stronger with a white paintjob, the Blizzard Knight sports a unique sword an
  |  | ✗ | ◯\* | ◯ | (★★★) |
 | 
 
-**Energy Wave**
+**Wind Cutter**
 
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. |  | ◯ | ◯ | ◯ | (★★☆) |
 | 

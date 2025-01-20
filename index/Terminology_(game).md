@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 131577
+revid: 131625
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deepwoken]
@@ -45,7 +45,7 @@ _noun_
 
 _noun_
 
-1.  A weak player who's easy to beat or bad at the game.
+1.  A weak player or enemy who's easy to beat or bad at the game.
 2.  Ex: "I'm not playing with you freshie, because you're a healthpack and you gonna die to everything"
 3.  Ex. "No way he is so trash in ganking bro, we lost the war because of him. What a healthpack!"
 
@@ -374,7 +374,7 @@ _noun, verb_
 1.  (Anti Air Gun) nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time, at a high altitude, or clicks and holds the top tab of their Roblox client to freeze themselves in mid-air). It's most often encountered when being flung due to a collision issue, and can also refer to the act of being flung itself.
     1.  Ex. "I just got AA gunned and wiped!"
 
-The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_Gun) from _Rogue Lineage_, a turret that serves the same purpose of shooting down exploiters who utilize flying exploits.
+The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_Gun) from _Rogue Lineage_, a cannon that serves the same purpose of shooting down exploiters who utilize flying exploits.
 
 ### Bar/Bars
 
@@ -382,6 +382,8 @@ _noun_
 
 1.  Referring to the number of colored bars seen on the server details at the top of the screen, indicating good or bad ping.
     1.  Ex. "On California servers i would always get 3 bars until recently"
+2.  The number of bars on a player's health, ether, armor, and posture. (Bars are divided by the ticks at the bottom and top of the whole bar)
+    1.  Ex. "I'm on 1 bar of health"
 
 ### Drip
 

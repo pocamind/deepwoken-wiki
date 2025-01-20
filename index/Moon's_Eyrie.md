@@ -1,9 +1,9 @@
 ---
 title: "Moon's Eyrie"
-revid: 131212
+revid: 131670
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Eastern Luminant, Moonseye]
+categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
 ---
 
 # Moon's Eyrie

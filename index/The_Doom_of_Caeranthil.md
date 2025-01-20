@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 131569
+revid: 131676
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -22,7 +22,7 @@ The Doom is a colossal sea serpent monster that has ravaged and destroyed island
 
 The Doom will swim across the seas of the Etrean Luminant in a specific pattern: it will begin near the Sea Highway gate to the south of Erisia, go to the east of erisia, go to Etris Docks, go to Erisia's entrance and finally, Vigil Docks.
 
-Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted (If they don't have it or another murmur); a chest with loot will also spawn at the player's location.
+Once the Doom is defeated, Also, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted (If they don't have it or have another murmur); a chest with loot will also spawn at the player's location, and the player will be granted a large(verify) amount of [Etrea](Etrea.md) reputation.
 
 It cannot be aggroed or damaged by cannons. Like other world event bosses, it does not grant [bell progression](Resonance.md#bell-progress) when defeated.
 
@@ -147,7 +147,7 @@ Exhaustive Loot Table
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Cerulean_Gown.md">Cerulean Gown</a> (Expert Outfit), <a href="Seamstress's_Attire.md">Seamstress's Attire</a> (Expert Outfit), <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a> (Expert Outfit).</td>
+  <td><a href="Cerulean_Gown.md">Cerulean Gown</a> (Expert Outfit), <a href="Seamstress's_Attire.md">Seamstress's Attire</a> (Expert Outfit), <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a> (Expert Outfit), <a href="Jade_Vigil's_Weave.md">Jade Vigil's Weave</a> (Master Outfit).</td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 131475
+revid: 131626
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -840,7 +840,7 @@ N/A
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
 
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in Vyrelda's dialogue, which is special.
--   Due to it being a new Attunement, the resistance stat for Bloodrend either does not exist, or is simply broken, causing mantras to deal more damage than they are supposed to (needs confirmation)
+-   ~Due to it being a new Attunement, the resistance stat for Bloodrend either does not exist, or is simply broken, causing mantras to deal more damage than they are supposed to~ (needs confirmation) Fixed in **November 23rd, 2024 "**_Fixed Blood resistance not showing in tab menu_"
 
 -   Attempting to complete [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstar](Heartstar.md)[s](Heartstar.md) are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
 

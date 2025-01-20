@@ -1,9 +1,9 @@
 ---
 title: Greathive Aratel
-revid: 131126
+revid: 131669
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Eastern Luminant, The Hive]
+categories: [Locations, Locations in the Eastern Luminant, The Hive]
 ---
 
 # Greathive Aratel
@@ -175,7 +175,6 @@ Aratel Rising
 -   The music for this area is [Of Chitin, Kith And Kin](Deepwoken_OST.md) by Naktigonis
 -   Parts of the Greathive can be seen emitting black particles, which is fireproofing that allows [Flamecharm](Flamecharm.md) to be used within the Greathive without the whole thing going up in flames.
 -   The combat music for this area is [A Symphony Of Strife](Deepwoken_OST.md) by Naktigonis
--   Suri's Quest is most likely inspired by Hollow Knight, which also has a mission to deliver a delicate flower that will be destroyed upon taking damage, to a grave. This theory is also supported by many similarities between [Vesperians](Vesperian.md) and bugs in Hollow Knight.
 -   Everyone inside Greathive Aratel is a Hivekin: either a Vesperian, Ganymede, or Chrysid.
 -   The Soulblooms have an option to taste the flower's sap. When attempting to do so, your Character has a violent gut feeling it is not for ingestion and ultimately decides not to.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
@@ -183,5 +182,4 @@ Aratel Rising
 -   Artifacts are able to spawn at Hive. However, originally, Bankers did not exist in Aratel meaning they couldn't be made use of, without travelling to either [Fort Merit](Fort_Merit.md) or [Miner's Landing](<Miner's_Landing.md>), for over two years.
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen.
 -   According to [Destroyman III](Destroyman_III.md), Greathive Aratel makes the best soft shell tacos in the entire Luminant.
--   Back in Verse 1, there would be only 3 Teleporters instead of 5
--   "TIP: Greathive Aratel makes the best softshell tacos in the entire Eastern Luminant." - [Destroyman III Quote](Destroyman_III.md)
+-   Back in Verse 1, there would be only three Teleporters instead of five.

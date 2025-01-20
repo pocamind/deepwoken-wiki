@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 130294
+revid: 131677
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -18,7 +18,7 @@ Enchantments have a set chance to be applied to a weapon during the following sc
 -   Talking to [Laplace](Laplace.md) and trading three enchanted items for a new random enchant on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
 -   [Laplace](Laplace.md) lets you turn in 5 [Knowledge](Knowledge.md) for a random Enchant Grease.
 
--   Talking to [Calamus](Calamus.md) and completing his quest can give you 1 enchant Item
+-   Talking to [Calamus](Calamus.md) and completing his quest can give you 1 enchant Item.
 
 -   Talking to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn in 5 [Kyrsan Medallions](Kyrsan_Medallions.md) for a random Enchant Grease or Enchant Stone.
 -   Using an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) to apply an enchantment to a weapon or piece of equipment respectively.

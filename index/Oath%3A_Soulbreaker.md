@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 131320
+revid: 131621
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -40,7 +40,7 @@ Meet the following requirements in any order:
 Once **all** met, head over to the [Temple Of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 -   Choose the dialogue "For now I am one, but I wish to be three."
-    -   _Note: Despite requiring a Yun'Shul wish to engage with the dialogue, this does not consume a wish._
+    -   _Note: Despite requiring a Yun'Shul wish to engage with the dialogue, this does not consume a wish. and it requires a yun shuul wish to use_
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/DC24CSyYN98)._
 

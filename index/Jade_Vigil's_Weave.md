@@ -1,6 +1,6 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 131573
+revid: 131649
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Etrea]
@@ -28,7 +28,6 @@ This Outfit's Schematic can be found as a reward from:
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Carnival of hearts](Carnival_of_Hearts.md)
--   ?
 
 ## Trivia
 

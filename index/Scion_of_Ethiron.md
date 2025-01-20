@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 129928
+revid: 131662
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses]
@@ -40,7 +40,7 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 **Vehemens Ventus**  
 ★
 
- | The Scion holds its hands together and charges up a powerful attack for ~10 seconds. Once the attack is released, approximately 3 seconds after the charging sfx finishes, a large purple gale ball will be thrown in a player's direction with a loud sound cue. Upon impact, it deals insanely high posture and **Wind** damage. However, it can be easily avoided with an air-dash, **Ghost**/**Shadow Rift**, jumping down a floor, using a waypoint with [Run It Back](Run_It_Back.md) or using [Portals](Portals.md).  
+ | The Scion holds its hands together and charges up a powerful attack for ~10 seconds. Once the attack is released, approximately 3 seconds after the charging sfx finishes, a large purple gale ball will be thrown in a player's direction with a loud sound cue. Upon impact, it deals insanely high posture and **Wind** damage. However, it can be easily avoided with an air-dash, **Ghost**/**Shadow Rift**, jumping down a floor, using a waypoint with [Run It Back](Run_It_Back.md) or using [Portals](Portals.md). [Payback](Payback.md), despite not being disabled like other invincibility moves, will not prevent damage from this attack.  
 
 This attack can be cancelled with a group by attacking three small gale balls at the first floor, but is un-recommended due to the time it takes, along with requiring 2 people.  
 This attack is able to be tanked but is not recommended.  
