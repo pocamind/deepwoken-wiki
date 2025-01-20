@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 131777
+revid: 131821
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -111,7 +111,7 @@ Electro Carve
 -   Can be modified with **Cloudstones/Stratus Stones** increase the AoE.
     -   This can also result in the mantra dealing reduced damage.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to conjure up a shocking AoE around the user.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) to deploy a sticky projectile to a target that activates the shock after a while.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) to deploy a sticky projectile to a target that activates the shock after around 3 seconds.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 130156
+revid: 131843
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -52,6 +52,8 @@ To progress the Oath and obtain its mantras, you must kill the 3 Sinners spread 
 You will get a Mantra for each kill, and a chest containing [Songseeker](Songseeker_Wilds.md) loot.
 
 The order of Mantras goes as follows: Ascension, Sinister Halo, Celestial Assault.
+
+Alternatively you can use 10 knowledge to obtain all mantras and talents if you already fully progressed this on another file
 
 ## Effects
 

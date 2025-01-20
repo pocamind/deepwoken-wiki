@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 131009
+revid: 131871
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies, The Central Authority]
@@ -82,4 +82,3 @@ An Authority officer executes its opponent after knocking them:
 ## Trivia
 
 -   An Authority officer can lose to a [Mudskipper](Mudskipper.md) if it gets backed into a corner.
--   Mugging these guys reveal that they are payed minimum wage.

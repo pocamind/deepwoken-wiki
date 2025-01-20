@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 131244
+revid: 131822
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -40,19 +40,14 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 
 ### Combat Mantras
 
-| **Image** | **Name** | **Card Description** | **Damage Type** | **Effect** |
-| --- | --- | --- | --- | --- |
-|  | 
-Fire Blade
-
-(☆☆☆)
-
- | 
-
-_Slicing blades of flame._
-
- | Fire | User forcefully slams down their blade coated in flames.
-
+| **Media** | **Details** |
+| --- | --- |
+|  |
+| **Name**: Fire Blade (☆☆☆) |
+| **Description**: _Slicing blades of flame._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User forcefully slams down their blade coated in flames.
 -   Deals moderate damage.
 -   Deals high posture damage, becoming an instant-guardbreak at level 5.
 -   Inflicts Burn.
@@ -65,17 +60,12 @@ _Slicing blades of flame._
     -   A reversal spark can be used to negate this variation, allowing you to use normal fire blade with wings.
 
  |
-|  | 
-
-Flame Repulsion
-
-(☆☆☆)
-
- | 
-
-_An exertion of flames._
-
- | Fire | User charges up releases an explosion of flames around them.
+|  |
+| **Name**: Flame Repulsion (☆☆☆) |
+| **Description**: _An exertion of flames._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User charges up releases an explosion of flames around them.
 
 -   Deals moderate damage. If hit, reduces damage taken by 75% and reflects it back.
 -   Deals low posture damage.
@@ -87,17 +77,12 @@ _An exertion of flames._
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md), causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 
  |
-|  | 
-
-Burning Servants
-
-(☆☆☆)
-
- | 
-
-_Summon a legion of flaming spearmen that lunge inwards._
-
- | Fire | User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
+|  |
+| **Name**: Burning Servants (☆☆☆) |
+| **Description**: _Summon a legion of flaming spearmen that lunge inwards._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
 
 -   Deals moderate damage.
 -   Inflcits Burn.
@@ -107,17 +92,12 @@ _Summon a legion of flaming spearmen that lunge inwards._
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to have the warriors attack outwards and ragdoll.
 
  |
-|  | 
-
-Fire Gun
-
-(☆☆☆)
-
- | 
-
-_A bullet of flames shot through each hand._
-
- | Fire | Caster draws out and propels bullets of flames from their hands towards the cursor's location.
+|  |
+| **Name**: Fire Gun (☆☆☆) |
+| **Description**: _A bullet of flames shot through each hand._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: Caster draws out and propels bullets of flames from their hands towards the cursor's location.
 
 -   Deals light damage.
 -   No Cooldown.
@@ -132,17 +112,12 @@ _A bullet of flames shot through each hand._
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md), causing bullets to explode opponents after a certain amount of hits, but reducing the base damage.
 
  |
-|  | 
-
-Flame Grab
-
-(☆☆☆)
-
- | 
-
-_Jet forwards with flames and slam anyone you catch in your clutches._
-
- | Fire | User lunges forward for a grab that slams and burns incoming opponents into the ground.
+|  |
+| **Name**: Flame Grab (☆☆☆) |
+| **Description**: _Jet forwards with flames and slam anyone you catch in your clutches._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
 -   Deals 19 damage at level 1, and 33 damage at level 5.
 -   Deals 6.5 posture damage.
@@ -154,57 +129,41 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
     -   Crystal/Perfect Lens increase the duration, capping at 1.2s with a +3 range modifier.
 
  |
-|  | 
-
-Flame Blind
-
-(☆☆☆)
-
- | 
-
-_Shoot a projectile that explodes after a short delay and blinds those looking at it._
-
- | N/A | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
+|  |
+| **Name**: Flame Blind (☆☆☆) |
+| **Description**: _Shoot a projectile that explodes after a short delay and blinds those looking at it._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: N/A |
+| **Effect**: User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   Deals 1 damage.
 -   Will proc gems such as Wayward Gem.
--   Can be upgraded by the [Concussive Flash](Talents.md) Talent, causing all blinded enemies to be dazed.
+-   Can be upgraded by the [Concussive Flash](Talents.md#duelist-flame) Talent, causing all blinded enemies to be dazed.
 -   Can be modified with Aeon/Eternal Logstones to blind for longer.
 
  |
-|  | 
-
-Fire Palm
-
-(★☆☆)
-
- | 
-
-_A blast of flame._
-
- | Fire | User releases a burst of flame from their palm in a cone shape.
+|  |
+| **Name**: Fire Palm (★☆☆) |
+| **Description**: _A blast of flame._ |
+| **Ether Cost**: 60 Ether |
+| **Damage Type**: Fire |
+| **Effect**: User releases a burst of flame from their palm in a cone shape.
 
 -   Deals 26/27.5/29/30.5/32 damage, and has 2.5 Flamecharm scaling.
 -   Deals 5.5 posture damage.
 -   This mantra has 0.7 seconds windup and 0.2 seconds of endlag
 -   It has a cooldown of 16 seconds
--   Costs 60 ether.
 -   Inflicts Burn.
 -   Can be modified with Cloud/Stratus Stones to increase size, every +1 in size makes it 10% bigger.
 
  |
-|  | 
-
-Fire Eruption
-
-(★☆☆)
-
- | 
-
-_A pyroclastic eruption._
-
- | Fire | User slams weapon into the ground below that causes 2 consecutive explosions.
+|  |
+| **Name**: Fire Eruption (★☆☆) |
+| **Description**: _A pyroclastic eruption._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User slams weapon into the ground below that causes 2 consecutive explosions.
 
 -   Deals 24/26.55/29/31.5/34 damage per explosion, and has 2.5 Flamecharm scaling.
 -   The initial explosion does 5.5 posture, the second explosion does 38 posture.
@@ -218,17 +177,12 @@ _A pyroclastic eruption._
     -   The max AoE modifier is +9.
 
  |
-|  | 
-
-Fire Forge
-
-(★☆☆)
-
- | 
-
-_Toss a nimble dagger._
-
- | Fire | User throws 3 quick burning daggers.
+|  |
+| **Name**: Fire Forge (★☆☆) |
+| **Description**: _Toss a nimble dagger._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User throws 3 quick burning daggers.
 
 -   Deals 25 (8.5 + 8.5 + 8.5) damage at level 1. (Level 5 info TBA)
 -   Deals moderate-low posture damage.
@@ -242,17 +196,12 @@ _Toss a nimble dagger._
  |
 | 
 
- | 
-
-Relentless Flames
-
-(★★☆)
-
- | 
-
-_Bear down on your foes with repeated fiery slashes._
-
- | Fire | User releases a flurry of seven slashes.
+ |
+| **Name**: Relentless Flames (★★☆) |
+| **Description**: _Bear down on your foes with repeated fiery slashes._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User releases a flurry of seven slashes.
 
 -   Deals high damage.
 -   Deals high posture damage.
@@ -263,17 +212,12 @@ _Bear down on your foes with repeated fiery slashes._
  |
 | 
 
- | 
-
-Flame Sentinel
-
-(★★☆)
-
- | 
-
-_Conjure a turret of flames._
-
- | Fire | User creates a destructible orb that will shoot out fireballs to nearby targets.
+ |
+| **Name**: Flame Sentinel (★★☆) |
+| **Description**: _Conjure a turret of flames._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User creates a destructible orb that will shoot out fireballs to nearby targets.
 
 -   Deals moderate damage.
 -   Deals low posture damage.
@@ -282,17 +226,12 @@ _Conjure a turret of flames._
 -   Can be modified with a magnet spark, making the turret follow the user.
 
  |
-|  | 
-
-Rising Flame
-
-(★★☆)
-
- | 
-
-_A rising tornado of flames._
-
- | Fire | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
+|  |
+| **Name**: Rising Flame (★★☆) |
+| **Description**: _A rising tornado of flames._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
 -   Deals 14.6 damage at level 1, and 23.5 damage at level 5.
 -   Deals 11 posture damage.
@@ -307,17 +246,12 @@ _A rising tornado of flames._
  |
 | 
 
- | 
-
-Flare Volley
-
-(★★☆)
-
- | 
-
-_Conjure up to 3 fireballs to vollery at your enemies._
-
- | Fire + Blunt | User releases a small fireball projectile that flies forward in a straight path.
+ |
+| **Name**: Flare Volley (★★☆) |
+| **Description**: _Conjure up to 3 fireballs to vollery at your enemies._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire + Blunt |
+| **Effect**: User releases a small fireball projectile that flies forward in a straight path.
 
 -   Deals low damage.
 -   Deals moderate posture damage.
@@ -328,17 +262,12 @@ _Conjure up to 3 fireballs to vollery at your enemies._
  |
 | 
 
- | 
-
-Ash Slam
-
-(★★★)
-
- | 
-
-_Strike the ground, turning it to ash._
-
- | Fire + Blunt | User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
+ |
+| **Name**: Ash Slam (★★★) |
+| **Description**: _Strike the ground, turning it to ash._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire + Blunt |
+| **Effect**: User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
 
 -   Deals moderate damage.
 -   Deals low posture damage.
@@ -350,11 +279,12 @@ _Strike the ground, turning it to ash._
  |
 | 
 
- | Flame Ballista
-
-(★★★)
-
- | _Conjure a flaming arrow and fire it at your target._ | Fire | User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
+ |
+| **Name**: Flame Ballista (★★★) |
+| **Description**: _Conjure a flaming arrow and fire it at your target._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
 
 -   Deals high damage.
 -   Deals high posture damage.
@@ -369,11 +299,12 @@ _Strike the ground, turning it to ash._
 -   (NEED NEW GIF BELOW THIS WAS BEFORE IT WAS CHANGED)
 
  |
-|  | Flaming Scourge
-
-(★★★)
-
- | _Lash out with flames._ | Fire | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
+|  |
+| **Name**: Flaming Scourge (★★★) |
+| **Description**: _Lash out with flames._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
 -   "This'll be over by snack time."
 
@@ -397,21 +328,14 @@ _Strike the ground, turning it to ash._
 
 ### Mobility Mantras
 
-| **Image** | **Spell** | **Card Description** | **Damage Type** | **Effect** |
-| --- | --- | --- | --- | --- |
-|  | 
-Flame Leap
-
-(★★☆)
-
-  
-
- | 
-
-_Leap up leaving behind a burst of flames._
-
- | Fire | User emits a blast under them that propels the caster and nearby opponents up in the air.
-
+| **Media** | **Details** |
+| --- | --- |
+|  |
+| **Name**: Flame Leap (★★☆) |
+| **Description**: _Leap up leaving behind a burst of flames._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User emits a blast under them that propels the caster and nearby opponents up in the air.
 -   Deals moderate-low damage.
 -   Deals low posture damage.
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
@@ -422,11 +346,12 @@ _Leap up leaving behind a burst of flames._
     -   This variant does not bring enemies up, and cannot proc Meteor Impact.
 
  |
-|  | Flame Assault
-
-(★★☆)
-
- | _Dash forward in a spiral of flames._ | Fire | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
+|  |
+| **Name**: Flame Assault (★★☆) |
+| **Description**: _Dash forward in a spiral of flames._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: Fire |
+| **Effect**: User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
 -   Deals low damage.
 -   Deals low posture damage.
@@ -439,46 +364,30 @@ _Leap up leaving behind a burst of flames._
 
 ### Support Mantras
 
-| **Image** | **Name** | **Card Description** | **Damage Type** | **Effect** |
-| --- | --- | --- | --- | --- |
-|  | 
-Flame Wisp
-
-(★★☆)
-
-  
-
- | 
-
-_A servant of flames._
-
- | N/A | The caster summons a wisp of magma.
-
--   Flame Wisp absorbs some of the damage from your burn tick damage and turns it into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
-    -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.
--   Ignites nearby campfire pits if not currently healing you.
+| **Media** | **Details** |
+| --- | --- |
+|  |
+| **Name**: Flame of Denial (☆☆☆) |
+| **Description**: _Undying flame._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: N/A |
+| **Effect**: Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
+-   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds with Azure Flames, if damage isn't substantial.
+    -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing is buffed by 20% with Azure Flames.
+-   Flame stays in chest for the duration of the mantra.
 -   Requires ritual casting.
--   Flame Wisp also seems to reduce parasite growth.
--   With Wraith Path: Twisted Puppets, you will heal from burns by Shadow Mantras and Burning Puppets, but not by Flame Mantras.
-    -   The amount of healing will not be severely reduced (results were +1% (~5) hp per 5-6 burn ticks).
--   Considered a Wisp mantra, taking up either a Wisp, Support, or Wildcard slot.
--   Has 3 charges (which are consumed when healing is triggered). Logstones increase the amount of charges.
-    -   Logstones will increase the amount of keys in the Ritual Cast.
+-   Freezes user in place for a brief moment after casting.
+-   Restores some of the user's sanity.
+-   Can be upgraded with the Denial Repulse Talent, causing a small AOE explosion upon receiving lethal damage.
+-   Can be modified with Vibrant Gems, with an unknown effect. Increases signs for ritual cast.
 
  |
-|  | 
-
-Graceful Flame
-
-(★☆☆)
-
-  
-
- | 
-
-_Conjure an undying flame for the caster and their comrades to rest by._
-
- | N/A | Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
+|  |
+| **Name**: Graceful Flame (★☆☆) |
+| **Description**: _Conjure an undying flame for the caster and their comrades to rest by._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: N/A |
+| **Effect**: Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
 
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
@@ -491,28 +400,23 @@ _Conjure an undying flame for the caster and their comrades to rest by._
     -   Cannot be used in Layer 2 of the Depths at all.
 
  |
-|  | 
+|  |
+| **Name**: Flame Wisp (★★☆) |
+| **Description**: _A servant of flames._ |
+| **Ether Cost**: N/A Ether |
+| **Damage Type**: N/A |
+| **Effect**: The caster summons a wisp of magma.
 
-Flame of Denial
-
-(☆☆☆)
-
-  
-
- | 
-
-_Undying flame._
-
- | N/A | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
-
--   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds with Azure Flames, if damage isn't substantial.
-    -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing is buffed by 20% with Azure Flames.
--   Flame stays in chest for the duration of the mantra.
+-   Flame Wisp absorbs some of the damage from your burn tick damage and turns it into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
+    -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.
+-   Ignites nearby campfire pits if not currently healing you.
 -   Requires ritual casting.
--   Freezes user in place for a brief moment after casting.
--   Restores some of the user's sanity.
--   Can be upgraded with the Denial Repulse Talent, causing a small AOE explosion upon receiving lethal damage.
--   Can be modified with Vibrant Gems, with an unknown effect. Increases signs for ritual cast.
+-   Flame Wisp also seems to reduce parasite growth.
+-   With Wraith Path: Twisted Puppets, you will heal from burns by Shadow Mantras and Burning Puppets, but not by Flame Mantras.
+    -   The amount of healing will not be severely reduced (results were +1% (~5) hp per 5-6 burn ticks).
+-   Considered a Wisp mantra, taking up either a Wisp, Support, or Wildcard slot.
+-   Has 3 charges (which are consumed when healing is triggered). Logstones increase the amount of charges.
+    -   Logstones will increase the amount of keys in the Ritual Cast.
 
  |
 

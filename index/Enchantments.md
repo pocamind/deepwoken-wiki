@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 131677
+revid: 131856
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 Enchantments have a set chance to be applied to a weapon during the following scenarios.
 
--   Chiefly, any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted.)
+-   Chiefly, any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted).
 -   Talking to [Laplace](Laplace.md) and trading three enchanted items for a new random enchant on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
 -   [Laplace](Laplace.md) lets you turn in 5 [Knowledge](Knowledge.md) for a random Enchant Grease.
 

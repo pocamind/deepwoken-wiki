@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 131767
+revid: 131869
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -69,9 +69,10 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 -   If you get teleported to the [Voidheart](Voidheart.md) due to a [Voidwalker](Origins.md) bounty expiring while inside The Interstice, you get teleported far into the [Voidsea](Voidsea.md) (possibly the Voidheart's coordinates multiplied by your **Dimensional Travel** distance stat.)
     -   Voidwalker bounties also expire if the targets are separated via The Interstice long enough, rendering this a means of escape for either, albeit inconvenient.
 -   [Random Encounters](Random_Encounters.md) from the [Voidsea](Voidsea.md) can briefly occur when arriving to or leaving The Interstice, due to your character being in the [Voidsea](Voidsea.md) for a short period.
-    -   This formerly enabled spawning the [Dread Serpent](Dread_Serpent.md) anywhere you could use Dimensional Travel, but this has since been patched.
+    -   This includes the [Dread Serpent](Dread_Serpent.md), this bug used to be patched, but it appears to be back.
 -   Gravity inside the Distortion Realm used to be reduced.
 -   There used to be a bug where buildings could be found in The Interstice.
 -   You cannot climb the structures in [The Interstice](The_Interstice.md).
 -   You can fish in the cracks of the floor.
 -   While in [The Interstice](The_Interstice.md), any source of healing seems to be greatly reduced to not even be able to work, such as the talent Warrior's Respite (needs more testing such as Graceful Flames).
+-   Under certain unknown conditions in [The Interstice](The_Interstice.md), the game will prompt a message saying "You might suffocate in here", it is unknown what happens if the player doesn't leave, but its safe to assume you'll die.
