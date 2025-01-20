@@ -1,9 +1,9 @@
 ---
 title: Llevyn
-revid: 131138
+revid: 131740
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
+categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

@@ -1,9 +1,9 @@
 ---
 title: Trig
-revid: 130755
+revid: 131758
 source: https://deepwoken.fandom.com/wiki/Trig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Summer Company, NPCs located in the Eastern Luminant]
+categories: [Gremor NPCs, NPCs, Quests, Summer Company, NPCs located in the Eastern Luminant]
 ---
 
 # Trig

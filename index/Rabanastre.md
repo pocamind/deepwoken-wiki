@@ -1,9 +1,9 @@
 ---
 title: Rabanastre
-revid: 131324
+revid: 131749
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Rabanastre

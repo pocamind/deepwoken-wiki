@@ -1,9 +1,9 @@
 ---
 title: Mag
-revid: 130736
+revid: 131742
 source: https://deepwoken.fandom.com/wiki/Mag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Summer Company, NPCs located in the Eastern Luminant, Vendors]
+categories: [Gremor NPCs, NPCs, Summer Company, NPCs located in the Eastern Luminant, Vendors]
 ---
 
 # Mag

@@ -1,9 +1,9 @@
 ---
 title: Infamous Baz
-revid: 124941
+revid: 131730
 source: https://deepwoken.fandom.com/wiki/Infamous_Baz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, NPCs]
+categories: [Felinor NPCs, Cut Content, NPCs]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---

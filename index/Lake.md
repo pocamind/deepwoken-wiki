@@ -1,9 +1,9 @@
 ---
 title: Lake
-revid: 130921
+revid: 131738
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant]
+categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Lake

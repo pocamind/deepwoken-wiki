@@ -1,9 +1,9 @@
 ---
 title: Bookkeeper Andros
-revid: 130851
+revid: 131714
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Bookkeeper Andros

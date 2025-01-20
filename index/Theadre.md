@@ -1,9 +1,9 @@
 ---
 title: Theadre
-revid: 130990
+revid: 131757
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Theadre
@@ -19,6 +19,10 @@ categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
 Theadre is an NPC who can be found standing at the base of a statue at [The Lord Regent](The_Lord_Regent.md)'s manor.
 
 ## Dialogue
+
+  
+
+  
 
 **Friend reputation and below:**
 

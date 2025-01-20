@@ -1,9 +1,9 @@
 ---
 title: Ata
-revid: 130716
+revid: 131710
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors, NPCs located in the Eastern Luminant]
+categories: [Celtor NPCs, NPCs, Vendors, NPCs located in the Eastern Luminant]
 ---
 
 # Ata
@@ -11,6 +11,7 @@ categories: [NPCs, Vendors, NPCs located in the Eastern Luminant]
 | Ata | |
 |---|---|
 | name | Ata |
+| aspect | Celtor |
 | location | Meteor Isle |
 
 “ Hey buddy! Here to buy more of my wares? ”

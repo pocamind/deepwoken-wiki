@@ -1,9 +1,9 @@
 ---
 title: Okumay
-revid: 130958
+revid: 131746
 source: https://deepwoken.fandom.com/wiki/Okumay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Chrysid NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Okumay

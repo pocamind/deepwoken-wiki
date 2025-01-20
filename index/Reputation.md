@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 122638
+revid: 131702
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -20,13 +20,13 @@ The reputation tab found while sitting at campfires. This is the starting reputa
 
 Reputation represents how the players interact with a faction and how they interact with the player.
 
-The world of Deepwoken is populated by different factions, each with their stories, goals, characters and locations. The player is bound to interact with them in many ways, in which case reputation will play a part in how these interactions will go.
+The world of Deepwoken is populated by different factions, each with their own stories, goals, characters and locations. The player is bound to interact with them in many ways, in which case reputation will play a part in how these interactions will go.
 
 ## Reputation status
 
 The player reputations is a value ranging from -300 to 300, with different threshold granting different titles within a faction, changing how the faction interacts with the player.
 
-Certain aspects of the game, such as certain NPCs dialogue or certain quests, requires a certain status within a faction to be available.
+Certain aspects of the game, such as certain NPCs dialogue or certain quests, require a certain status within a faction to be available.
 
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
@@ -34,9 +34,9 @@ Certain aspects of the game, such as certain NPCs dialogue or certain quests, re
 | Ally | 150 to 299 | NPCs now will greet you with your first name |
 | Friend | 1 to 149 | NPCs will call you friend |
 | Neutral | 0 | N/A |
-| Enemy | ⁣-149 to -1 | NPCs tied to the relevant faction will attack on sight, including town guards.  
-Player will appear on bounty boards (starting from power 5) and if the player is enemies any of these factions, they can be hunted down by Voidwalkers.
-Player loses the ability to talk to certain faction tied NPCs, primarily Blacksmiths and Antiquarians.
+| Enemy | ⁣-1 to -149 | NPCs tied to the relevant faction will attack on sight, including town guards.  
+Player will appear on bounty boards (starting from Power 5) and if the player is enemies with any of these factions, they can be hunted down by [Voidwalkers](Origins.md#voidwalker).
+Player loses the ability to talk to certain faction-tied NPCs, primarily Blacksmiths and Antiquarians.
 
  |
 | Hunted | ⁣-150 to -299 | Player can be attacked by randomly spawning NPC [Ambushes](Faction_Ambushes.md). |
@@ -44,14 +44,14 @@ Player loses the ability to talk to certain faction tied NPCs, primarily Blacksm
 
 ## Reputation gains and loses
 
-Throught various activities and actions, the player is able to gain reputation or lose reputation.
+Through various activities and actions, the player is able to gain reputation or lose reputation.
 
 The player can track reputation shifts via status messages, which are as follows:
 
--   "Your actions pleases \[Faction Name\]...": The player gained reputation
--   "Your actions angers \[Faction Name\]...": The player lost reputation
+-   "Your actions please \[Faction Name\]...": The player gained reputation
+-   "Your actions anger \[Faction Name\]...": The player lost reputation
 -   "\[Faction Name\] has/have declared you their enemy!": The player's reputation dropped below 0, making them an enemy of the faction.
--   "The perceived threat you pose against \[Faction Name\] has been reduced...": the player gained reputations throught methods only available while being an enemy, such as dying to the specific faction or paying a bribe.
+-   "The perceived threat you pose against \[Faction Name\] has been reduced...": The player gained reputation through methods only available while being an enemy, such as dying to the specific faction or paying a bribe.
 -   "\[Faction Name\] no longer sees you as worth fighting...": The player's reputation reached/went above 0 after being an enemy.
 
 The player can gain reputation with a faction by:
@@ -59,8 +59,8 @@ The player can gain reputation with a faction by:
 -   Completing quests from specific NPCs
     -   There are one time quest and repeatable quests available for most factions
 -   Completing Bounty Hunts
-    -   "Factions without Bounty Boards" cannot benefit from this.
--   Helping NPCs in certain random events, primarly Factions VS Factions.
+    -   Factions without Bounty Boards cannot benefit from this.
+-   Helping NPCs in certain random events, primarily Factions VS Factions.
 -   Completing jobs
 
 The player can lose reputation with a faction by:

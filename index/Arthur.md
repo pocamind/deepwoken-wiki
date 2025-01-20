@@ -1,9 +1,9 @@
 ---
 title: Arthur
-revid: 130841
+revid: 131709
 source: https://deepwoken.fandom.com/wiki/Arthur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Arthur

@@ -1,9 +1,9 @@
 ---
 title: Das
-revid: 131177
+revid: 131721
 source: https://deepwoken.fandom.com/wiki/Das
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
+categories: [Vesperian NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Das

@@ -1,9 +1,9 @@
 ---
 title: Cave Master
-revid: 130853
+revid: 131717
 source: https://deepwoken.fandom.com/wiki/Cave_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors, NPCs located in the Etrean Luminant]
+categories: [Felinor NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant]
 ---
 
 # Cave Master

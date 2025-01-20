@@ -1,9 +1,9 @@
 ---
 title: Imel
-revid: 130895
+revid: 131729
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant]
+categories: [Adret NPCs, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant]
 ---
 
 # Imel

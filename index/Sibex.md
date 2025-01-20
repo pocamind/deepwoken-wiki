@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 131089
+revid: 131780
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -28,8 +28,9 @@ Where Sibex can be found
 -   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
+-   **Inspired [Regalia](Regalia.md):** "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."
 -   **Resonance Obtained:** "Well look at you, my friend! You're practically beaming with the Song!"
--   **Arena, Bosses and Depths:** "Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?"
+-   **Arena, Bosses and Depths** (after a certain amount of progress): "Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?"
 
 ### Resonance Progress
 
@@ -91,45 +92,45 @@ NOTE: Getting the high progress or Resonance imminent dialogues **could** mean t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="15">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Oh local! You're back! Did you bring me that uhhhh... What was it again?</td>
+  <td colspan="15">Oh local! You're back! Did you bring me that uhhhh... What was it again?</td>
 </tr>
 <tr>
-  <td colspan="12">A Thresher Spine?</td>
+  <td colspan="15">A Thresher Spine?</td>
 </tr>
 <tr>
-  <td colspan="12">Riiiight Riiight... Well, I don't really need one of those anymore, I found a toothpick in my pack, but how about this? As a reward for your brave deed of going to that dark and horrible temple, I'll listen to your soul.</td>
+  <td colspan="15">Riiiight Riiight... Well, I don't really need one of those anymore, I found a toothpick in my pack, but how about this? As a reward for your brave deed of going to that dark and horrible temple, I'll listen to your soul.</td>
 </tr>
 <tr>
-  <td colspan="12">Listen to my Soul?</td>
+  <td colspan="15">Listen to my Soul?</td>
 </tr>
 <tr>
-  <td colspan="12">Yes, yes. Simple stuff, really. I give your soul a quick listen and give you a slight approximation of how close you are to <i>Resonating</i> with it.</td>
+  <td colspan="15">Yes, yes. Simple stuff, really. I give your soul a quick listen and give you a slight approximation of how close you are to <i>Resonating</i> with it.</td>
 </tr>
 <tr>
-  <td colspan="12">Alright, tell me what my soul says.</td>
+  <td colspan="15">Alright, tell me what my soul says.</td>
 </tr>
 <tr>
-  <td colspan="4">No/Small Bell Progress<br>
+  <td colspan="5">No/Small Bell Progress<br>
   You must've been born yesterday, your Soul sounds tone-deaf. You aren't close enough yet to being in contact with it.</td>
-  <td colspan="4">Some Bell Progress<br>
+  <td colspan="5">Some Bell Progress<br>
   Hm. Your soul doesn't sound great, but it's at least producing somewhat of a tone, You're getting close to being in tune with it.</td>
-  <td colspan="4">Half-Decent Bell Progress<br>
+  <td colspan="5">Half-Decent Bell Progress<br>
   Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...</td>
 </tr>
 <tr>
-  <td colspan="4">Decent Bell Progress, No Pre-determined Bell<br>
+  <td colspan="5">Decent Bell Progress, No Pre-determined Bell<br>
   Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?</td>
-  <td colspan="4">Bell Imminent, but not guaranteed (do a bell check)<br>
+  <td colspan="5">Bell Imminent, but not guaranteed (do a bell check)<br>
   Morphed like clay... The soul and ego become one. Your Soul's <b>Resonance</b> is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo...</td>
-  <td colspan="4">Obtained Bell<br>
+  <td colspan="5">Obtained Bell<br>
   Well look at you, my friend! You're practically beaming with the Song!<br>
   (Can be occasionally broken, player must rejoin if this dialogue appears and they haven't gotten the bell)</td>
 </tr>
 <tr>
-  <td colspan="12">What should I do?</td>
+  <td colspan="15">What should I do?</td>
 </tr>
 <tr>
   <td colspan="3">PVP Preferred<br>
@@ -139,10 +140,12 @@ NOTE: Getting the high progress or Resonance imminent dialogues **could** mean t
   <td colspan="3">Bosses Preferred<br>
   Ah... I can hear your soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the <b>Depths</b> is known to draw out the song within all of us...</td>
   <td colspan="3">Inspired <a href="Regalia.md">Regalia</a><br>
-  "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."</td>
+  Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.</td>
+  <td colspan="3">Arena, Bosses and Depths (after a certain amount of progress)<br>
+  Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="15">End</td>
 </tr>
 </tbody>
 </table>

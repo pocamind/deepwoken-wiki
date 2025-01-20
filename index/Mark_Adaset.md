@@ -1,9 +1,9 @@
 ---
 title: Mark Adaset
-revid: 130941
+revid: 131743
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Divers, NPCs located in the First Layer]
+categories: [Adret NPCs, NPCs, The Divers, NPCs located in the First Layer]
 ---
 
 # Mark Adaset

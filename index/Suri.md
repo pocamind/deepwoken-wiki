@@ -1,9 +1,9 @@
 ---
 title: Suri
-revid: 130752
+revid: 131754
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
+categories: [Vesperian NPCs, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
 ---
 
 # Suri

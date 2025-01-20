@@ -1,9 +1,9 @@
 ---
 title: Ploom
-revid: 130969
+revid: 131748
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Ganymede NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Ploom

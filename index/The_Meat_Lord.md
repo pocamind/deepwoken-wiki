@@ -1,9 +1,9 @@
 ---
 title: The Meat Lord
-revid: 130939
+revid: 131756
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Random Encounters, NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
+categories: [Adret NPCs, Random Encounters, NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
 ---
 
 # The Meat Lord

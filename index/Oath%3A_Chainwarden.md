@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 131397
+revid: 131776
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -38,9 +38,9 @@ Up to an amount of two times in total can these corresponding methods be applied
 
 Known humanoids enemies are:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (recommended)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [The Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md) (If you are using Ferryman to progress Chainwarden, remember to use Restrain constantly when he's low to make sure he's chained when he dies.)
 
 ## Effects
 

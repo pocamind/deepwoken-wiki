@@ -1,9 +1,9 @@
 ---
 title: Weird Trader
-revid: 131001
+revid: 131761
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant]
+categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant]
 ---
 
 # Weird Trader

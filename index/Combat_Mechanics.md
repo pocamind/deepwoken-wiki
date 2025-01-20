@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 131334
+revid: 131773
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -294,6 +294,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <ul>
     <li>Alternatively, you can make a makeshift feint by intentionally missing an attack, which spares you of the cooldown. This technique is a gamble, but with risk comes rewards.</li>
   </ul><p><i>Feinting has very slight end-lag, and will briefly disable your ability to make any attack for a very small moment.</i></p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Rolling</th>

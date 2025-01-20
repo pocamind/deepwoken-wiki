@@ -1,9 +1,9 @@
 ---
 title: Graha
-revid: 130891
+revid: 131728
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Divers, NPCs located in the First Layer]
+categories: [Vesperian NPCs, NPCs, The Divers, NPCs located in the First Layer]
 ---
 
 # Graha

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 129902
+revid: 131777
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -287,7 +287,7 @@ Rising Thunder
  | Rise up with your opponent and crash down as a bolt of lightning. | 70 Ether | Lightning | Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground.
 
 -   Deals 77 thunder damage.
--   Short wind-up and completely safeguards user when landed.
+-   0.5s wind-up and completely safeguards user when landed.
 -   Ragdolls target(s).
 -   Can be blocked.
 -   15 Second Cooldown.

@@ -1,9 +1,9 @@
 ---
 title: Deepdelver Gamma
-revid: 130794
+revid: 131722
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Ignition Union, NPCs located in the First Layer]
+categories: [Khan NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]
 ---
 
 # Deepdelver Gamma

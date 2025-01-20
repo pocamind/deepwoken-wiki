@@ -1,9 +1,9 @@
 ---
 title: Adrofalis
-revid: 130825
+revid: 131705
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Oath Trainer, Oaths, Alchemy, Quests, NPCs located in the Eastern Luminant]
+categories: [Capra NPCs, NPCs, Oath Trainer, Oaths, Alchemy, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # Adrofalis

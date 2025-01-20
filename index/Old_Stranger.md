@@ -1,9 +1,9 @@
 ---
 title: Old Stranger
-revid: 130959
+revid: 131747
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
+categories: [Khan NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
 ---
 
 # Old Stranger

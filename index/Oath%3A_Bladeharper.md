@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 131661
+revid: 131701
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -81,7 +81,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   While having True Strength active, cancel your air dash to enter a frenzy of slashes.
     -   ~Its movestackeable with the crit, currently to be fixed.~ **FIXED**
     -   It has a cooldown of 5 seconds.
-    -   It deals true damage. (Confirmed by Developers and stated on update logs)
+    -   ~It deals true damage. (Confirmed by Developers and stated on update logs)~ apparently both update logs and devs lie, this attack does oath + physical damage, specifically, 30 damage. (Yes this has been tested)
         -   Only accessible when True Strength is active.
 -   **Decimate - Combat Mantra**
     -   Cut through your opponent.

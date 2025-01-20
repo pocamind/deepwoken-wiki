@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 131087
+revid: 131779
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -65,7 +65,9 @@ Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by 3
 
 ### Inspired
 
-Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one. [Sibex](Sibex.md)'s dialogue doesn't change.
+Grants increased [Resonance progress](Resonance.md#bell-progress) gain from all paths instead of only one.  
+[Sibex](Sibex.md)'s dialogue changes:  
+"Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."
 
 ### **Worthy**
 

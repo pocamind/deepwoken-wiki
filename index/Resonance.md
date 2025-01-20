@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 131090
+revid: 131783
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -114,25 +114,10 @@ You can also very rarely obtain your Resonance from the [Resonant Dawn](Random_E
 
 The main factor in obtaining a **Resonance** is _how far you are in the hidden stat known as **Progress**_ (commonly referred to by the community as "bell prog"). There are many ways to obtain Progress, and the most effective ways can vary from character to character- which can be judged by [Sibex](Sibex.md), who will inspect your Soul and inform you on what the best way for you to obtain Progress is. Additionally, he can also make note of how close you are to obtaining your **Resonance**.
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th colspan="4"><b>Possible dialogue results:</b></th>
-</tr>
-<tr>
-  <td><b>Boss Path</b></td>
-  <td><b>Depths Path</b></td>
-  <td><b>PVP Path</b></td>
-  <td><b>Inspired Regalia</b></td>
-</tr>
-<tr>
-  <td><b>Sibex:</b> "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."</td>
-  <td><b>Sibex:</b> "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."</td>
-  <td><b>Sibex:</b> "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."</td>
-  <td><b>Sibex:</b> "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."</td>
-</tr>
-</tbody>
-</table>
+| **Possible dialogue results:** |
+| --- |
+| **Boss Path** | **Depths Path** | **PVP Path** | **Inspired Regalia** |
+| **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off." |
 
 **Boss Path:**
 

@@ -1,9 +1,9 @@
 ---
 title: Seraphina
-revid: 130979
+revid: 131753
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant]
+categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Seraphina
