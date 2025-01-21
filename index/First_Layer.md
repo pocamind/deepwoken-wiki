@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 131769
+revid: 131997
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -136,6 +136,7 @@ Information to keep in mind.
     -   Consider utilizing Flamecharm to cast Graceful Flame with Undying Flame. The Talent removes any risk of going insane in the First Layer as sitting by a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and [Castle](Castle_Light.md) [Light](Castle_Light.md) do not restore sanity.
     -   [Blindseer](Oath%253A_Blindseer.md) doubles or even triples the time you can stay in the Depths.
     -   [Deepbound](Origins.md) players can rest in [Castle Light](Castle_Light.md) at the campfire to restore sanity and craft food. Do note that only Deepbound players can use the campfire.
+    -   [Ignition Delvers](Origins.md) may use the campfire in [The Chariot's Spire](<The_Chariot's_Spire.md>), much like Deepbound.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 2.5x HP and 1.5x damage. These grant [Chests](Chests_&_Sacks.md) with even better loot.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing. \[Citation needed\]
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the Talent undying flame), you might want to consider bringing _**healing potions**_.

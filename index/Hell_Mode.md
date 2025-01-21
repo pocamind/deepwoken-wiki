@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 121793
+revid: 131999
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]
@@ -35,6 +35,8 @@ Once the conditions are met, [The Depths](The_Depths.md) (current server) will t
 -   [Megalodaunts](Megalodaunt.md) will always spawn as their Alpha version.
 
 -   [King Gigamed](Gigamed.md) is removed from the spawn pool.
+-   They start fiening for more
+-   They use zaza moves (special moves which are only exclusive to Hell Mode)
 
 These conditions affect everybody currently in the server, not just the people who interacted with the bell. Only those who rang the bell have the increased spawn rate, however.
 

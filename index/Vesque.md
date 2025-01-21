@@ -1,6 +1,6 @@
 ---
 title: Vesque
-revid: 131593
+revid: 132000
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
@@ -10,6 +10,7 @@ categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
 
 | Vesque | |
 |---|---|
+| name | Vesque |
 | aspect | Etrean |
 | location | Isle of Vigils |
 

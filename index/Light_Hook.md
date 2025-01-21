@@ -1,6 +1,6 @@
 ---
 title: Light Hook
-revid: 120555
+revid: 131990
 source: https://deepwoken.fandom.com/wiki/Light_Hook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, StubPages, Items]
@@ -20,7 +20,7 @@ The Light Hook can be activated manually or automatically by player death. Upon 
 
 The Light Hook lasts for a finite amount of time, and will disappear once that time is up — leaving the player stranded unless they can escape through - much more difficult - alternative means.
 
--   The Light Hook will last for 20 minutes at full charge, and will recharge over time when not in use (including when you are not in-game)
+-   The Light Hook will last for 20 minutes at full charge, and will recharge over time when not in use (including when you are not in-game).
 -   You can see how much time you have left by hovering over the item in your inventory.
 -   The Light Hook does not need to be fully charged to enter the second layer through Castle Light again.
 
@@ -38,5 +38,5 @@ Heading to [New Kyrsa](Second_Layer/New_Kyrsa.md) does **not** provide any extra
 
 -   Much of the trivia regarding exiting via the Light Hook applies to the Deepdrill as well
 -   Returning the Castle Light via the Light Hook will give you back all of your health, and manually activating it will give an additional refill of your blood, hunger, and thirst by about half
--   [Heartstars](Heartstar.md), used to obtain [Bloodrend](Bloodrend.md), are not removed when exiting via Light Hook
+-   [Heartstars](Heartstar.md), used to obtain [Bloodrend](Bloodrend.md), are not removed when exiting via Light Hook, likely as a failsafe in case one of the [Ministry Bloodrenders](Ministry_Bloodrender.md) does not drop one
 -   Items equipped in the dungeon will stay when using the Light Hook, but in recent updates it has become impossible to equip most items

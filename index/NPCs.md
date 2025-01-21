@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 130904
+revid: 132003
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -145,8 +145,8 @@ Check the rest out for yourself, canonically smells really bad
 | [Serendi](Serendi.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
 | [Scope](Scope.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
 | [The Stranger](Quiet_Stranger.md) | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Used to grant [Murmur: Tacet](Murmur%253A_Tacet.md) to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
-| [Stratos](Stratos.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a Talent to those who meet his requirements | He explains how parasites work |  |
-| [Sunway](Sunway.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) |  |
+| [Stratos](Stratos.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a Talent to those who meet his requirements |  |
+| [Sunway](Sunway.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | He explains how parasites work |  |
 | [Surge](Surge.md) | Unaligned | [The Depths](First_Layer.md) | Teleports you to the Nestmind if given Dark Feathers | Will take your Void Feathers to unlock more Visionshaper mantras |
 | [Suri](Suri.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Delicate Flower quest, likely inspired from the same quest in Hollow Knight. | If the flower breaks, you can go back to him for a new one |
 | [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |  |
@@ -154,6 +154,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Trenti](Trenti.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), inn | Provides information to new players |  |
 | [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company Guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |  |
+| [Vesque](Vesque.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Gives you the [Fang and Coil](Fang_and_Coil.md) fist style |  |
 | [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |  |
 | [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
 | [Vyrelda](Vyrelda,_Master_of_Blood.md) | Unaligned | [Second Layer](Second_Layer.md), in an Igloo at [Firfire](Firfire.md), [Derelict Highchurch](Derelict_Highchurch.md) | Begins the quest to obtain Bloodrend. | Will ask you to hunt down students of the Second Skulking who drop Heartstars and bring 3 of them back to her. |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 131789
+revid: 131971
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3319,7 +3319,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 Certain Talents cannot be obtained through Roll 2, as they come with significant drawbacks, are mutually exclusive with other Talents, or could otherwise break certain builds.
 
 -   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
--   _Return to the Dark Ages_ \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 20%. (+5 Health)
+-   _Return to the Dark Ages_ \[Rare Talent\] - Your incoming and outgoing mantra damage is reduced by 20%. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn.
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit.

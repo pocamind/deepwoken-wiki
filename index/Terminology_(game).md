@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 131924
+revid: 131982
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deepwoken]
@@ -88,7 +88,7 @@ _verb_
 1.  To deal damage equivalent to \[number\] sections of health to an opponent, or to still have 5 (full HP) or \[number\] bars of health remaining after fighting an opponent.
     1.  Ex. "If we ever fought i would 5 bar u"
 
-"5 barred" or "5 bar" can be used to humiliate someone bad at PvP, or imply that they are. It can also be used in a joking or ironic manner.
+"5 barred" or "5 bar" can be used to humiliate someone bad at PvP, or imply that they are. It can also be used in a joking or ironic context.
 
 ### Block
 
@@ -578,7 +578,7 @@ _noun_
 -   **CHR**: Charisma (instead of **CHA**)
 -   **FLM**: Flamecharm (instead of **FIR**)
 -   **THN/THD**: Thundercall (instead of **LTN**)
--   **SHD**: Shadowcast {instead of **SDW**}
+-   **SHD**: Shadowcast (instead of **SDW**)
 
 ### BMing
 
@@ -625,6 +625,13 @@ _noun_
 
 1.  Short form of Damage versus Monsters. An equipment attribute that increases your damage towards monsters by percentage stated.
     1.  Ex. "There is a possibility that a player can reach 60% DvM in a build"
+
+### KoS
+
+_noun_
+
+1.  (Kill on Sight) said by a member of a guild to say that someone's name will be added to a list of people who are to be killed as soon as any member of their guild sees them.
+    1.  Ex. "I'm putting you on kos"
 
 ### LFT
 

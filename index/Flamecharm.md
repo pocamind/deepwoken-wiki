@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 131917
+revid: 132012
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -322,7 +322,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
     -   The reversal spark variant deals ~30% less damage than the original.
     -   The reversal spark variant deals 18 posture damage once.
     -   The reversal spark variant has 0.65 windup.
-    -   (Picture TBA)
+    
 
  |
 

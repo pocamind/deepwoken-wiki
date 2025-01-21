@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 131884
+revid: 132018
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weapons with Unique Criticals, Multiple Criticals]
@@ -22,12 +22,12 @@ categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weap
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Vesque, NPC located in Isle of Vigils near the Training Gear shop, 20 LHT, Friend Etris REP, Kill The Doom of Caeranthil |
+| obtainment | Vesque, NPC located in Isle of Vigils near the Training Gear shop, 20 LHT, Friend Etris REP, Kill The Doom of Caeranthil while it's not charging it's Luminant Beam |
 | description | Adopt the path of the serpent. |
 
 ## Obtainment
 
-Requirements: Above 20 Light Weapon, [Etrea](Etrea.md) **Friend** Reputation or higher, Defeated [The Doom of Caeranthil](The_Doom_of_Caeranthil.md).
+Requirements: Above 20 Light Weapon, [Etrea](Etrea.md) **Friend** Reputation or higher, Defeated [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) while he's not charging up his **Luminant Beam** attack.
 
 In order to obtain it you must speak to [Vesque](Vesque.md), an NPC located in the [Isle of Vigils](Isle_of_Vigils.md) near the Barber and the Attunement [Training Gear](Training_Gear.md) store, while meeting the requirements above. You will receive the Fang and Coil Talent, granting you the fighting style and allowing you to select it from the Character Creation screen.
 
