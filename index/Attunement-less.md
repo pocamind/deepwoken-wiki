@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 130663
+revid: 131913
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -382,6 +382,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
     -   32.2 damage at 100 Willpower level 5
     -   1.5 Willpower scaling
     -   0.5s wind up
+    -   Costs 80 ether to cast
 
  |
 

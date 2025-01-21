@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 131822
+revid: 131914
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -45,7 +45,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 |  |
 | **Name**: Fire Blade (☆☆☆) |
 | **Description**: _Slicing blades of flame._ |
-| **Ether Cost**: N/A Ether |
+| **Ether Cost**: 45 Ether |
 | **Damage Type**: Fire |
 | **Effect**: User forcefully slams down their blade coated in flames.
 -   Deals moderate damage.
@@ -333,7 +333,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 |  |
 | **Name**: Flame Leap (★★☆) |
 | **Description**: _Leap up leaving behind a burst of flames._ |
-| **Ether Cost**: N/A Ether |
+| **Ether Cost**: 35 Ether |
 | **Damage Type**: Fire |
 | **Effect**: User emits a blast under them that propels the caster and nearby opponents up in the air.
 -   Deals moderate-low damage.
@@ -392,6 +392,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
 -   Requires ritual casting.
+-   Allows you to cook food.
 -   Can be upgraded with Duration, Intensity and Mantra Size modifiers, as well as the Undying Flame talent.
     -   Adding intensity causes the flame to passively heal nearby players. Stacks with its normal healing.
     -   The talent Azure Flames increases Undying Flame's passive healing by 20%.

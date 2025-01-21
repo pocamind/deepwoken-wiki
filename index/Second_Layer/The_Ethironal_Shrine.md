@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 127840
+revid: 131898
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -84,7 +84,7 @@ However, it is important to be warned of **parasite pools**, which **heavily acc
 
 Upon exiting the shrine, the player is greeted by a strong gust of wind attempting to push them off, and in order to not get knocked off, the player must move towards the wind. If the player does not fight against the wind, they will instead be thrown off with an un-cancellable ragdoll and a great knockback, either knocking them into the snow filled floor of the shrine, or directly into a void.
 
--   It may be negated via wearing the [Delver Boots](../Delver_Boots.md).
+-   It may be negated via wearing the [Delver Boots](../Delver_Boots.md) or having the Brickwall talent.
 
 ## Enemies
 

@@ -1,14 +1,14 @@
 ---
 title: Darkened Bastion
-revid: 127149
+revid: 131894
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Unique Outfits]
+categories: [Armors, Items, Outfits, Master Outfits]
 ---
 
 # Darkened Bastion
 
-Template:ArmorInfobox**Darkened Bastion** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Darkened Bastion** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -34,5 +34,7 @@ This Outfit's Schematic can be found in:
     -   Gained via the purple lights event.
 
 ## Trivia
+
+-   This outfit used to be a Unique armor, but the rarity was dropped down to Master when they made it droppable in the January 18th, 2025 update.
 
 [https://www.roblox.com/catalog/9520632236/Sellsword](https://www.roblox.com/catalog/18372515009/Deepwoken-darkened-bastion) - Shirt [https://www.roblox.com/catalog/9520635195/Sellsword](https://www.roblox.com/catalog/18372536268/Deepwoken-darkened-bastion) - Pants

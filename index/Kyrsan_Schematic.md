@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Schematic
-revid: 129086
+revid: 131902
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Schematic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Uses, Items, Ingredients, Drops]
@@ -29,3 +29,4 @@ The **Kyrsan Schematic** is a direct drop from [Kyrsgardes](Kyrsgarde.md).
 ## Trivia
 
 -   Shows a schematic as the item and is not a blank blue brick.
+-   The max amount able to be held is 6.

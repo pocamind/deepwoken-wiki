@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 121281
+revid: 131912
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,7 +22,7 @@ Boats and Ships are the main method of Sea Transportation in Deepwoken to get to
 You can buy boats through Shipwright Merchants, normally found at the Docks of Towns or other Islands. It is important to note that even poor people can buy a Boat, considering the Dinghy is free.  
 Once a boat has been purchased, you can deploy it through a Shipwright Merchant, Shipwright Pole, or the [Seafarer's Chime](<Seafarer's_Chime.md>) tool.
 
-Boats that have cannons (Schooner+) can shoot cannons on your mouse by double-clicking, without anybody manually firing.
+Boats that have cannons (Schooner+) can shoot cannons on your mouse by clicking, without anybody manually firing. Cannons somewhat scale with level in pve (verify).
 
 Boats can be repaired with the [Repair Hammer](Repair_Hammer.md), which can be bought in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md) for. [Repair Hammers](Repair_Hammer.md) will heal ??? health upon being used, but each usage will consume Wood.  
 Using the [Repair Hammer](Repair_Hammer.md) 20 times will grant the Talent [Emergency Repairs](Talents.md) (+2 Carry Load).  

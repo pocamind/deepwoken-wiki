@@ -1,9 +1,9 @@
 ---
 title: Galebreathe
-revid: 130660
+revid: 131910
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mantras, Attunement]
+categories: [Attunement]
 ---
 
 # Galebreathe
@@ -33,7 +33,6 @@ Like all other elements, users can see their Mantras become stronger with traini
 -   At Galebreathe level 30, players receive the _Expert Galebreather_ Talent. This allows players to use 2-star Galebreathe mantras.
 -   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent. This finally allows Galebreathe users to unlock the last category, 3-star Mantras. This Talent also grants +5 HP.
 
-  
 The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained at the [Isle of Vigils](Isle_of_Vigils.md), just outside the [Temple of the Blade](Temple_of_the_Blade.md), using two [Gale Stones](Gale_Stone.md) (assuming you have Galebreathe unlocked), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
 -   To upgrade a Galebreathe Mantra from level 1 to level 2 costs.
@@ -45,19 +44,15 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
 ### Combat Mantras
 
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
+| **Media** | **Details** |
+| --- | --- |
 | 
- | 
-
-Wind Blade  
-(☆☆☆)
-
- | 
-
-_Slicing blades of wind._
-
- | 40 Ether | Wind | Launch a wind projectile at cursor's position.
+ |
+| **Name**: Wind Blade (☆☆☆) |
+| **Description**: _Slicing blades of wind._ |
+| **Ether Cost**: 40 Ether |
+| **Damage Type**: Wind |
+| **Effect**: Launch a wind projectile at cursor's position.
 
 -   Deals light damage.
 -   Can be improved with the "_Tempest Wind" Talent_, a learnable Talent.
@@ -66,16 +61,12 @@ _Slicing blades of wind._
  |
 | 
 
- | 
-
-Air Force  
-(☆☆☆)
-
- | 
-
-_Shoots out an air blast._
-
- | 20 Ether | Wind | Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
+ |
+| **Name**: Air Force (☆☆☆) |
+| **Description**: _Shoots out an air blast._ |
+| **Ether Cost**: 20 Ether |
+| **Damage Type**: Wind |
+| **Effect**: Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
 
 -   Deals light-medium damage.
 -   Pushes people back and dazes them if they collide with something
@@ -90,16 +81,12 @@ _Shoots out an air blast._
  |
 | 
 
- | 
-
-Tornado Kick  
-(☆☆☆)
-
- | 
-
-_Slicing blades of wind._
-
- | 50 Ether | Wind | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
+ |
+| **Name**: Tornado Kick (☆☆☆) |
+| **Description**: _Slicing blades of wind._ |
+| **Ether Cost**: 50 Ether |
+| **Damage Type**: Wind |
+| **Effect**: Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
 
 -   Deals moderate-high damage (If both the initial and follow-up projectiles hit).
 -   Projectile is medium-ranged and explodes on impact.
@@ -108,16 +95,12 @@ _Slicing blades of wind._
  |
 | 
 
- | 
-
-Gale Lunge  
-(★☆☆)
-
- | 
-
-_A rush of piercing wind._
-
- | 40 Ether | Wind + Slash | Lunge forward with your weapon coated in wind.
+ |
+| **Name**: Gale Lunge (★☆☆) |
+| **Description**: _A rush of piercing wind._ |
+| **Ether Cost**: 40 Ether |
+| **Damage Type**: Wind + Slash |
+| **Effect**: Lunge forward with your weapon coated in wind.
 
 -   Deals moderate damage.
 -   Can be used as mobility to push the user forward.
@@ -126,16 +109,12 @@ _A rush of piercing wind._
  |
 | 
 
- | 
-
-Tornado  
-(★☆☆)
-
- | 
-
-_A rushing current of wind._
-
- | 15 Ether | Wind | Conjure a small vortex around yourself, M1 to cast it forward.
+ |
+| **Name**: Tornado (★☆☆) |
+| **Description**: _A rushing current of wind._ |
+| **Ether Cost**: 15 Ether |
+| **Damage Type**: Wind |
+| **Effect**: Conjure a small vortex around yourself, M1 to cast it forward.
 
 -   Can be modified with logstones to increase duration, but caps at 1 or 2.
 -   Moves forward on its own after 2 seconds.
@@ -147,16 +126,12 @@ _A rushing current of wind._
  |
 | 
 
- | 
-
-Heavenly Wind  
-(★☆☆)
-
- | 
-
-_A strike from the heavens._
-
- | 50 Ether | Wind + Slash | Leap high into the air before diving down, striking any targeted opponent.
+ |
+| **Name**: Heavenly Wind (★☆☆) |
+| **Description**: _A strike from the heavens._ |
+| **Ether Cost**: 50 Ether |
+| **Damage Type**: Wind + Slash |
+| **Effect**: Leap high into the air before diving down, striking any targeted opponent.
 
 -   Deals moderate damage.
 -   User moves towards the cursor.
@@ -170,16 +145,12 @@ _A strike from the heavens._
  |
 | 
 
- | 
-
-Galetrap  
-(★☆☆)
-
- | 
-
-_Toss a wind landmine._
-
- | 40 Ether | Wind | Deploy a small green landmine at your cursor's location.
+ |
+| **Name**: Galetrap (★☆☆) |
+| **Description**: _Toss a wind landmine._ |
+| **Ether Cost**: 40 Ether |
+| **Damage Type**: Wind |
+| **Effect**: Deploy a small green landmine at your cursor's location.
 
 -   Stepping on it creates a tornado that deals light damage over a few seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
@@ -189,16 +160,12 @@ _Toss a wind landmine._
  |
 | 
 
- | 
-
-Gale Punch  
-(★☆☆)
-
- | 
-
-_Form a punch of wind in your fist and release it._
-
- | 60 Ether | Wind + Slash | Conjure a wind AoE punch that deals damage and knocks targets away.
+ |
+| **Name**: Gale Punch (★☆☆) |
+| **Description**: _Form a punch of wind in your fist and release it._ |
+| **Ether Cost**: 60 Ether |
+| **Damage Type**: Wind + Slash |
+| **Effect**: Conjure a wind AoE punch that deals damage and knocks targets away.
 
 -   Can be modified with _Cloudstones_, _Stratus stones_, _Perfect Lenses_ and _Crystal lenses_ to increase size.
 -   Can break objects.
@@ -207,16 +174,12 @@ _Form a punch of wind in your fist and release it._
  |
 | 
 
- | 
-
-Wind Forge  
-(★☆☆)
-
- | 
-
-_Encircle your foes with blades of wind that halt their escape_ _until they respond._
-
- | 60 Ether | Wind + Slash | Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
+ |
+| **Name**: Wind Forge (★☆☆) |
+| **Description**: _Encircle your foes with blades of wind that halt their escape until they respond._ |
+| **Ether Cost**: 60 Ether |
+| **Damage Type**: Wind + Slash |
+| **Effect**: Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
 
 -   Projectiles are homing.
 -   Medium-far range.
@@ -227,16 +190,12 @@ _Encircle your foes with blades of wind that halt their escape_ _until they resp
  |
 | 
 
- | 
-
-Twister Kicks  
-(★☆☆)
-
- | 
-
-_Go forth with spinning kicks infused with the wind_
-
- | 40 Ether | Wind + Slash | Dash forwards kicking with a rush of winds dealing damage.
+ |
+| **Name**: Twister Kicks (★☆☆) |
+| **Description**: _Go forth with spinning kicks infused with the wind_ |
+| **Ether Cost**: 40 Ether |
+| **Damage Type**: Wind + Slash |
+| **Effect**: Dash forwards kicking with a rush of winds dealing damage.
 
 -   Deals moderate damage.
 -   Can break objects.
@@ -244,16 +203,12 @@ _Go forth with spinning kicks infused with the wind_
  |
 | 
 
- | 
-
-Updraft  
-(★☆☆)
-
- | 
-
-_A lifting torrent of wind._
-
- | 50 Ether | Wind + Slash | Get ready to spin around and then create a burst of wind around you that goes upward
+ |
+| **Name**: Updraft (★☆☆) |
+| **Description**: _A lifting torrent of wind._ |
+| **Ether Cost**: 50 Ether |
+| **Damage Type**: Wind + Slash |
+| **Effect**: Get ready to spin around and then create a burst of wind around you that goes upward
 
 -   Deals moderate-high damage.
 -   Sends opponents flying into the air.
@@ -262,16 +217,12 @@ _A lifting torrent of wind._
  |
 | 
 
- | 
-
-Champion's Whirlthrow  
-(★★☆)
-
- | 
-
-_Grab your target and toss them with the power of gale._
-
- | 60 Ether | Wind + Blunt (initial grab) | Grab your target before spinning them in 360 degrees and then tossing them.
+ |
+| **Name**: Champion's Whirlthrow (★★☆) |
+| **Description**: _Grab your target and toss them with the power of gale._ |
+| **Ether Cost**: 60 Ether |
+| **Damage Type**: Wind + Blunt (initial grab) |
+| **Effect**: Grab your target before spinning them in 360 degrees and then tossing them.
 
 -   Deals good-high damage.
 -   Forcible Block Break (Only When Upgraded To Level 5).
@@ -279,21 +230,17 @@ _Grab your target and toss them with the power of gale._
 -   Procs "Breathing Impact" if thrown at a wall.
 -   Applies knockback.
     -   Requires more testing.
--   The "**Skull Crusher**" Talent is now innate with this mantra.
+-   The old "**Skull Crusher**" Talent is now innate with this mantra.
 
  |
 | 
 
- | 
-
-Rising Wind  
-(★★☆)
-
- | 
-
-_Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them_
-
- | 60 Ether | Wind + Blunt | Ascend while uppercutting your target, rapidly damaging them.
+ |
+| **Name**: Rising Wind (★★☆) |
+| **Description**: _Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them_ |
+| **Ether Cost**: 60 Ether |
+| **Damage Type**: Wind + Blunt |
+| **Effect**: Ascend while uppercutting your target, rapidly damaging them.
 
 -   Blocking it sends only the user into the air but cancels it after a small bit if it doesn't hit anyone after.
 -   Rapidly deals light damage to the opponent while rising.
@@ -308,16 +255,12 @@ _Use wind to uppercut and propel yourself into the air. Press F after hitting an
  |
 | 
 
- | 
-
-Wind Gun  
-(★★☆)
-
- | 
-
-_A powerful wind blast._
-
- | 40 Ether | Wind | Fire a penetrating bullet of wind.
+ |
+| **Name**: Wind Gun (★★☆) |
+| **Description**: _A powerful wind blast._ |
+| **Ether Cost**: 40 Ether |
+| **Damage Type**: Wind |
+| **Effect**: Fire a penetrating bullet of wind.
 
 -   Deals heavy damage, pushes and ragdolls opponent; however applies no hit stun.
 -   Applies the _"Suffocate"_ status effect.
@@ -328,16 +271,12 @@ _A powerful wind blast._
  |
 | 
 
- | 
-
-Wind Carve  
-(★★☆)
-
- | 
-
-_A quick swirl of sharp winds._
-
- | 40 Ether | Wind + Slash | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
+ |
+| **Name**: Wind Carve (★★☆) |
+| **Description**: _A quick swirl of sharp winds._ |
+| **Ether Cost**: 40 Ether |
+| **Damage Type**: Wind + Slash |
+| **Effect**: Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
 -   Deals light damage over multiple slashes.
@@ -349,16 +288,12 @@ _A quick swirl of sharp winds._
  |
 | 
 
- | 
-
-Astral Wind  
-(★★★)
-
- | 
-
-_A rapid delivery of consecutive attacks._
-
- | 50 Ether | Wind + Slash | Cast several fast, wind-enhanced slashes that form a star.
+ |
+| **Name**: Astral Wind (★★★) |
+| **Description**: _A rapid delivery of consecutive attacks._ |
+| **Ether Cost**: 50 Ether |
+| **Damage Type**: Wind + Slash |
+| **Effect**: Cast several fast, wind-enhanced slashes that form a star.
 
 -   Deals _possibly moderate-heavy_ damage.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes but increase the AoE of the slashes slightly.
@@ -367,16 +302,12 @@ _A rapid delivery of consecutive attacks._
  |
 | 
 
- | 
-
-Pillars of Erisia  
-(★★★)
-
- | 
-
-_Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp._
-
- | 70 Ether | Wind + Slash | Raise your right leg and stomp the ground, conjuring up a huge volley of wind.
+ |
+| **Name**: Pillars of Erisia (★★★) |
+| **Description**: _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp._ |
+| **Ether Cost**: 70 Ether |
+| **Damage Type**: Wind + Slash |
+| **Effect**: Raise your right leg and stomp the ground, conjuring up a huge volley of wind.
 
 -   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   Gives hyperarmor when casting
@@ -388,53 +319,36 @@ _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from y
 
 ### Mobility Mantras
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Image</th>
-  <th>Spell</th>
-  <th>Card Description</th>
-  <th>Ether Cost</th>
-  <th>Damage Type</th>
-  <th>Effect</th>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td><center>Wind Passage<br>
-  (★★★)</center></td>
-  <td><center><i>A rush of wind</i></center></td>
-  <td>50 Ether</td>
-  <td>Wind + Slash</td>
-  <td>Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled.
-  <ul>
-    <li>Does heavy damage</li>
-    <li>Can be modified with Crystal/Perfect Lenses to increase the distance travelled, making it a very useful tool for horizontal mobility.</li>
-    <li>Uses the <a href="Shadowcast.md">Shadow Assault</a> startup sound.</li>
-    <li>Can be used to clip through walls while in <a href="Second_Layer.md">The Second Layer</a></li>
-    <li>It's also compatible with Logstones, but the effect is minimal.
-  <ul>
-    <li>Requires more testing.</li>
-  </ul></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+| **Media** | **Details** |
+| --- | --- |
+| 
+ |
+| **Name**: Wind Passage (★★★) |
+| **Description**: _A rush of wind_ |
+| **Ether Cost**: 50 Ether |
+| **Damage Type**: Wind + Slash |
+| **Effect**: Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled.
+
+-   Does heavy damage
+-   Can be modified with Crystal/Perfect Lenses to increase the distance travelled, making it a very useful tool for horizontal mobility.
+-   Uses the [Shadow Assault](Shadowcast.md) startup sound.
+-   Can be used to clip through walls while in [The Second Layer](Second_Layer.md)
+-   It's also compatible with Logstones, but the effect is minimal.
+    -   Requires more testing.
+
+ |
 
 ### Support Mantras
 
-| Image | Spell | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
+| **Media** | **Details** |
+| --- | --- |
 | 
- | 
-
-Gale Wisp  
-(★★☆)
-
- | 
-
-_A servant of wind._
-
- | 60 Ether | N/A | Spawns a spherical wisp of wind. Requires ritual casting.
+ |
+| **Name**: Gale Wisp (★★☆) |
+| **Description**: _A servant of wind._ |
+| **Ether Cost**: 60 Ether |
+| **Damage Type**: N/A |
+| **Effect**: Spawns a spherical wisp of wind. Requires ritual casting.
 
 -   Grants 30% fall damage resistance.
 -   Haunted Gale and Haunted Path: Specter require one less perfect casted mantra hit to activate (3 -> 2).
