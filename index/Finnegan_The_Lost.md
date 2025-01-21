@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 126608
+revid: 131931
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -62,3 +62,4 @@ Finnegan retains his ability to speak and usually says phrases when he spawns su
 -   Finnegan hails from the Ignition Union, and is speculated to be a Deepdelver who wielded the first prototype of the Union's explosive picks - The Boltcrusher.
 -   Finnegan is searching for something, but it's unclear what it is, or if it even exits. He also mentions a 'her' when spawning in, which may refer to a loved one or simply the Boltcrusher he's holding.
 -   Finnegan calls for backup if the fight takes too long, summoning a Lightning Clone of himself.
+-   Members of the Ignition Union are hostile towards Finnegan and will attack if they see him. (Tested at Chariot's Spire)

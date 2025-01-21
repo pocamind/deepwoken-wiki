@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 131914
+revid: 131917
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -302,7 +302,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 |  |
 | **Name**: Flaming Scourge (★★★) |
 | **Description**: _Lash out with flames._ |
-| **Ether Cost**: N/A Ether |
+| **Ether Cost**: 70 Ether |
 | **Damage Type**: Fire |
 | **Effect**: User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 

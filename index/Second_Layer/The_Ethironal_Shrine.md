@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 131898
+revid: 131951
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -38,7 +38,7 @@ While navigating the First Floor, there is a clear-set quest-line, which will pr
 2.  Turn on the Generator at the top of the tower near Pilgrim's Respite, this requires you to kill a weakened [Bone Keeper](../Bone_Keeper.md).
     1.  **(OPTIONAL)** Gain the Union Hook Talent by traversing the snow in Layer Two until you reach the [Frontier Furnace](../The_Frontier_Furnace.md) and talk to [Alpha](../Alpha.md). You may also talk to [Llevyn](../Llevyn.md) to activate the Deepdrill.
 3.  Retrieve the Blue Spear within the depths of [Firfire Caverns](../Firfire_Caverns.md) (OPTIONAL AFTER THE FIRST RUN), and go to [Firfire](../Firfire.md)
-4.  Talk to Leader Erosius Wallistoshus, where he will then open the door to the [Nest Corridor](../Nest_Corridor.md). If you have a form of wall-clipping, you may skip talking to him.
+4.  Talk to Leader Erosius Amaltus Urivortus Alistus Casius Walistoshus, where he will then open the door to the [Nest Corridor](../Nest_Corridor.md). If you have a form of wall-clipping, you may skip talking to him.
     1.  **(OPTIONAL)** If you have talked to Llevyn, you may take the Deepdrill in order to abandon a run early within the Nest Corridor.
 5.  Traverse through [The Maw of Ethiron](../The_Maw_of_Ethiron.md) and reach [The Cathedral](../Cathedral_of_Ethiron.md) in order to defeat [a traitorous Black Diver](../Chaser,_Scholar_of_the_Crimson_Contract.md).
 6.  From there you may either Leave or [Delve Deeper](New_Kyrsa.md).

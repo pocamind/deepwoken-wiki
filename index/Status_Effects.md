@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 131313
+revid: 131929
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -224,7 +224,7 @@ Takes a certain amount to all of the ether that you possess. if the user used th
 
 ### Negative Link
 
-Become slowed and deal less damage, also become a valid target for Symbiotic Sustain. Signified by a red link between you and the [Linkstrider](Oath%253A_Linkstrider.md).
+Become slowed and deal less damage, also become a valid target for Symbiotic Leech. Signified by a red link between you and the [Linkstrider](Oath%253A_Linkstrider.md).
 
 ### Bottom Freeze
 

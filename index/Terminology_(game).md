@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 131625
+revid: 131924
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deepwoken]
@@ -10,7 +10,7 @@ notices:
 
 # Terminology (game)
 
-The following article contains a glossary for general game terms related to _Deepwoken_. _If you were looking for the mechanic, see [Glossary](Glossary.md)._
+The following article contains a glossary for general game terms related to _Deepwoken_. _If you were looking for the in-game dialogue mechanic, see [Glossary](Glossary.md)._
 
   
 
@@ -180,7 +180,7 @@ _noun_
 1.  (rarely) A hunt to find and kill other players, usually used as a noun when planning to do so or retrospectively after already doing so.
     1.  Ex. "I almost got wiped in a gank—thank god I escaped!"
 
-### Grip/Execute
+### Grip
 
 _verb_
 
@@ -190,7 +190,7 @@ _verb_
 
 _verb_
 
-1.  (invincibility frames) When a mantra or passive makes the user invincible to other players
+1.  (Invincibility frames) When a mantra or passive makes the user invincible to damage.
     1.  Ex. The Talent Ghost gives you a few seconds of **I-frames** when you successfully dodge an attack.
 
 ### Knock
@@ -244,7 +244,7 @@ _verb_
 
 _verb_
 
-1.  To roll the active frames of an attack and immediately cancel your roll afterwards, which allows you to counter and stay in the same position. Also known as roll-cancelling, dodge-cancelling, etc.
+1.  To roll through the active frames of an attack and immediately cancel your roll afterwards, which allows you to counter and stay in the same position. Also known as roll-cancelling, dodge-cancelling, etc.
 
 ### Stat-check
 
@@ -257,7 +257,7 @@ _verb_
 
 _verb_
 
-1.  The action of jumping into the void in layer 1 of the depths while above 75% hp, to avoid getting wiped by a mob or player.
+1.  The action of jumping into the void in layer 1 of The Depths while above 75% HP to avoid getting wiped by a mob or player.
     1.  Ex. "Someone is attacking me, i'm gonna void"
 
 ### Whiff
@@ -272,6 +272,8 @@ _verb_
 _noun_
 
 1.  The time between when an attack begins and when its hitbox is active. Not to be confused with the [Wind-Up](Wind-Up.md) Resonance.
+    1.  Ex. Fang and Coil's critical has 0.25 seconds of windup.
+    2.  Ex. "Eclipse Kick has really long windup, be wary when using it."
 
 ## Death Terms
 
@@ -371,10 +373,10 @@ _noun_
 
 _noun, verb_
 
-1.  (Anti Air Gun) nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time, at a high altitude, or clicks and holds the top tab of their Roblox client to freeze themselves in mid-air). It's most often encountered when being flung due to a collision issue, and can also refer to the act of being flung itself.
+1.  (Anti Air Gun) nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time, at a high altitude, or clicks and holds the top tab of their Roblox client to freeze themselves in mid-air). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
     1.  Ex. "I just got AA gunned and wiped!"
 
-The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_Gun) from _Rogue Lineage_, a cannon that serves the same purpose of shooting down exploiters who utilize flying exploits.
+The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_Gun) from _Rogue Lineage_, a cannon that served the same purpose of shooting down exploiters who utilize flying exploits.
 
 ### Bar/Bars
 

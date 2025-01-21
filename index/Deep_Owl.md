@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 121772
+revid: 131932
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -150,8 +150,6 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 
 If looking for owls, it is recommended to join highly populated servers because this increases their spawn rate.
 
-Interacting with an owl with the Mute regalia will make it say "The creature tilts its head curiously"
-
 The owls special attacks are affected by shadow armour.
 
 ## Trivia
@@ -164,6 +162,7 @@ The owls special attacks are affected by shadow armour.
 -   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
 -   Occasionally when hit by the Deep Owls overhead grab, it will bug out and be flung/teleported out of its aggression distance, though this doesn't happen often.
+-   When interacting with a Deep Owl after it's initial dialouge while it hasn't turned hostile, or with the Mute Regalia, the player will receive the text: "\*The creature tilts its head curiously.\*"
 
 ## References
 

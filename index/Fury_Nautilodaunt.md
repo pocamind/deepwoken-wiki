@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 122713
+revid: 131930
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -40,11 +40,11 @@ The Fury Nautilodaunt is a rare variant of the [Nautilodaunt](Nautilodaunt.md), 
 
 ## **Combat / Tips**
 
-While this mob has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs, it has a ton of resistance to a variety of attack types, and it's also unique in the fact that it has a much smarter AI along with the ability to **Block**, **Parry**, and **Dodge**.
+While the normal variant of this enemy has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs, the Fury Nautilodaunt has an increased health pool by 800 points, making it a bit of a tougher encounter. It has a ton of resistance to a variety of attack types, and it's also unique in the fact that it has a much smarter AI along with the ability to **Block**, **Parry**, and **Dodge**.
 
-While this mob can **not** be power checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to [Mantras](Attunements.md), it can still be posture broken incredibly fast and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md).
+While this mob can **not** be power checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to [Mantras](Attunements.md), it can still be posture broken incredibly fast and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md). Take note that with the additional health of this variant comes the passive ability of applying the Electrifying status effect, making it harder to land a hit with the true-stun and removal of hyper-armour.
 
-Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 1000 (which can reach numbers as small as 200 with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreaks such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) will make this mob into a far easier challenge.
+Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 1800 (which can reach numbers as small as ??? with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreaks such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) will make this mob into a far easier challenge.
 
 However, without a "cheese weapon," each of the Nautilodaunt's attacks can prove difficult, so they will be gone through in order:
 
@@ -57,7 +57,7 @@ However, without a "cheese weapon," each of the Nautilodaunt's attacks can prove
 
 Always keep calm while fighting the Nautilodaunt, and rely on parries before doing a Critical Attack to break their posture and kill it in one or two guardbreaks. **If** you have an incredibly high damage mantra such as Tornado or Caltrops, instead those may be used as it will choose to ignore them in order to vent, which leads to a Posture Break thus allowing you to kill the Nautilodaunt while having only blocked or parried and using one move.
 
-On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrowing at the spawn, as it will consistently dodge the first attack. It's agro range is pretty big so be cautious if you are entering on it's side of the city, listen out for the digging because it's loud enough for you to be able to hear it from outside the agro range.
+On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrowing at the spawn, as it will consistently dodge the first attack. It's aggro range is pretty big so be cautious if you are entering on it's side of the city, listen out for the digging because it's loud enough for you to be able to hear it from outside the aggro range.
 
   
 
