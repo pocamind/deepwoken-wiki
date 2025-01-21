@@ -1,11 +1,9 @@
 ---
 title: Fang and Coil
-revid: 131877
+revid: 131884
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, In progress without reason, InProgressPages, Weapons, Fists, Fighting Styles, Weapons with Unique Criticals, Multiple Criticals]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weapons with Unique Criticals, Multiple Criticals]
 ---
 
 # Fang and Coil
@@ -35,9 +33,7 @@ In order to obtain it you must speak to [Vesque](Vesque.md), an NPC located in t
 
 Vesque
 
-## Gallery
-
-### Criticals
+## Criticals
 
 For its **Critical**, the user does a quick leg sweep, ragdolling and dazing opponents. For its **Running Critical**, the user performs a front-flip followed by a knock-down stomp with a wide AoE, and is only accessible while wearing the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit.
 

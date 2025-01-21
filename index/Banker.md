@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 121530
+revid: 131893
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -47,7 +47,7 @@ To put an item in your safe deposit box, you just need to drag and drop the item
 
 If you need help figuring out how to put an item in a safe deposit box, or just want to see an example of someone depositing, [here is a great video](https://youtu.be/2m4qD3xfOAM).
 
-#### Items requiring a Vow of Safekeeping
+#### Items requiring a Vow of Safekeeping:
 
 -   [Weapons](Weapons.md) and [Equipment](Equipment.md) that are Enchanted, Soulbound, or event exclusive.
 -   [Enchant Stone](Enchant_Stone.md)
@@ -55,9 +55,8 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   [Dye Packet](Dye_Packet.md)
 -   Monster parts required for [Monster Mantras](Monster_Mantras.md)
 
-#### Unstorable Items
+#### Unstorable Items:
 
--   [Diver's Light Plate](<Diver's_Light_Plate.md>)
 -   [Pluripotent Alloy](Pluripotent_Alloy.md)
 -   [Kyrsan Medallions (Itemized)](Kyrsan_Medallions.md)
 -   [Ardour Manifestation](Ardour_Manifestation.md)
@@ -69,7 +68,6 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   [Attunement potions](Attunement_Potions.md) / [Lotuses](Ingredients.md)
 -   Poser's Ring
 -   Manor's Key
--   Starter weapons (Quickfang, Irontusk, Silversix, Avenger)
 -   Orlandeau's Pity Emerald
 -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)
 

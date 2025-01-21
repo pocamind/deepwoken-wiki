@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 131765
+revid: 131890
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -171,7 +171,6 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
 
 ## Trivia
 
--   The only [Deep Gem](Deep_Gems.md) that is not used in any armor set is the Insignia Gem.
 -   Most of Deepwoken's clothing is made by [Rengi](https://www.roblox.com/catalog?Category=3&CreatorName=Rengi).
 -   With Verse 2, a large number of Outfits were reworked to have an updated, more uniform art style, This caused some upset among the player base at the time. Another reason for the reworks was due to the Outfits' original creator being removed from the development team due to misconduct.[\[1\]](#cite-note-1)
     -   Despite this, [Aelita](Aelita.md) still wears her Verse 1 Outfit.

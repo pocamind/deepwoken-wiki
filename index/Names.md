@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 131139
+revid: 131891
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1033,6 +1033,7 @@ Some players have access to customized, unique names.
 -   Rama
 -   Rebecca
 -   Red
+-   Rem
 -   Reed
 -   Rein
 -   Rex
