@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 131773
+revid: 132097
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

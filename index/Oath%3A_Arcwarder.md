@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 130648
+revid: 132137
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -22,6 +22,12 @@ notices:
 ## Description
 
 **[Oath](Oaths.md): Arcwarder** is one of the 16 obtainable Oaths in _Deepwoken._ It heavily focuses on defense; four of its passives are defensive, and the other two are mobility. It still allows for a fair bit of offensive play however as dash allows the user to close gaps and maneuver around opponents, and both combat mantras are as effective if not more in aggressive play.
+
+“ Unlike the Central Authority, the Union's identity is not defined wholly by internal hierarchy, lingering military traditions, and loyalty to power. Instead, it is rooted in the solidarity of toil - a sense of kinship among those working for the same goal. ”
+
+― The Hammer's Call
+
+The Arc Suit is a defence orientated piece of semi-sentient armour that [the Union](The_Ignition_Union.md) bestows upon their most trusted. It fuses with the soul of those who swear the oath, allowing them to manifest it around them at will. Arcwarders are sworn to become a conduit of protection to their fellow Union mates and do whatever it takes to defend them.
 
 ## Obtainment
 

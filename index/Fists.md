@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 131283
+revid: 132163
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -11,23 +11,23 @@ categories: [Weapons, Pages with broken file links, Fists]
 | Fists | |
 |---|---|
 | type | Light Weapon |
-| requirements | 0 LHT (WN/LK) 40 LHT (Needed to obtain "JK" not needed to use it once you start with in on a new character) |
-| damage | 12 (WN/LK) , 14 (JK) |
-| scaling | LHT: 7 (WN/LK) , LHT: 9 (JK) |
-| range | 7(6.5 for JK) |
-| swing speed | 1.1x (WN/LK) , 1.14x (JK) |
-| penetration | N/A (WN/LK) , 20% (JK) |
+| requirements | 0 LHT (WN/LK) , 20 LHT (Needed to obtain FC, not needed if chosen in character creation) , 40 LHT (Needed to obtain JK, not needed if chosen in character creation) |
+| damage | 12 (WN/LK/FC) , 14 (JK) |
+| scaling | LHT: 7 (WN/LK/FC) , LHT: 9 (JK) |
+| range | 6 (wN/LK/FC)6.5 (JK) |
+| swing speed | 1.1x (WN/LK/FC) , 1.14x (JK) |
+| penetration | N/A (WN/LK/FC) , 20% (JK) |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | (Way of Navae)Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata)Step 1: Help Legion Captains , on Aratel Island. , Step 2: Help enough of them for a , recommendation. , Step 3: Return to Amara. , (Jus Karita)Step 1: Have 40 LHT and be Power 5. , Step 2: Talk to Polis in Etris. |
-| description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "The traditional martial arts style of the Justicars." - Jus Karita, "Your bare fists. Worth a shot, right?" -"'Starting Weapon Description'" |
+| obtainment | (Way of Navae)Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata)Step 1: Help Legion Captains , on Aratel Island. , Step 2: Help enough of them for a , recommendation. , Step 3: Return to Amara. , (Fang and Coil)Step 1: Have 20 LHT and Friend Etris Reputation. , Step 2: Defeat The Doom of Caeranthil. It does not count if you don't receive a chest. , Step 3: Speak to Vesque. , (Jus Karita)Step 1: Have 40 LHT and be Power 5. , Step 2: Talk to Polis in Etris. |
+| description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "Adopt the path of the serpent." - Fang and Coil, "The traditional martial arts style of the Justicars." - Jus Karita, "Your bare fists. Worth a shot, right?" -"'Starting Weapon Description'" |
 
 Fists are another type of scaled LHT weapon attribute in Deepwoken.
 
-There are 4 different fist styles and 2 of them share the common ability of being able to be switched at any time, even mid combat.
+There are 4 different fist styles and 3 of them share the common ability of being able to be switched at any time, even mid combat.
 
   
 

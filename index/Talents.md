@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132078
+revid: 132158
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -652,10 +652,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Counteracted by the Disbelief Talent.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
--   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Being hit by someone the same Aspect or Oath as you charms them briefly.
+-   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.
+    -   Instead of your charm debuffing affected players and making them take more damage, it actually applies an on-hit buff when attacking someone affected by your charm, granting a damage buff to that attack. This means Tough Love **is** affected by the damage modifier cap.
     -   Prerequisites: 25 Charisma, Charismatic Cast
     -   Mutual Exclusives: Narcissist
-    -   Gives 10% more damage to your m1 and 5% to your mantras
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
@@ -1021,6 +1021,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
     -   Prerequisites: Meteor Impact, 40 Flamecharm
+
+### Fang and Coil
+
+-   Fang and Coil \[Common Talent\] - Adopt the path of the serpent.
+    -   Allows you to use [Fang and Coil style](Fists.md)
+    -   Prerequisites: 20 Light Weapon, Friend [Etris](Etris.md) Reputation, defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and speak to [Vesque](Vesque.md).
 
 ### Fish
 
@@ -1889,7 +1895,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 25% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
     -   Takes 100% ether to be used, therefore deactivating ardour.
-    -   Takes only 40% ether with [Soulbreaker](Oath%253A_Soulbreaker.md) oath.
+        -   Takes only 40% ether with [Soulbreaker](Oath%253A_Soulbreaker.md) oath.
+    -   Instead of debuffing affected players and making them take 25% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
     -   Doesn't apply insanity.
     -   Will also combat tag anybody hit.
     -   Can stack with m1s, crits, [silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.
@@ -3299,6 +3306,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Also available as a common Talent.
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md#alloyed)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
+-   Serpent's Dance: [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) - Unleash the power of Fang and Coil to unlock a devastating Running Critical Attack, feint to cancel momentum.
+    -   Allows you to use [Fang and Coil](Fang_and_Coil.md)'s running critical. This attack does not work on any Cestus that already has a unique crit.
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 10% less damage from airborne enemies.
 -   Surestep [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).

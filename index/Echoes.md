@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 131305
+revid: 132145
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -70,7 +70,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
 -   Obtaining a [Murmur](Murmur.md), awarding 5 Echoes.
--   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) awarding 5 Echoes each.
+-   Defeating the [Dread Serpent](Dread_Serpent.md) _OR_ [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) awarding 5 Echoes each.
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
 -   Defeating [Scion of Ethiron](Scion_of_Ethiron.md), awarding 10 echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
@@ -197,7 +197,7 @@ There are 14 upgrades to purchase, and each can be purchased a maximum of 1 to 6
 </tr>
 <tr>
   <td><center><b>Multifaceted</b></center></td>
-  <td><center>The Attribute point you usually recieve from your aspect are free for you to allocate.</center></td>
+  <td><center>The Attribute points you usually receive from your Aspect are free for you to allocate.</center></td>
   <td><center>250 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>1</center></td>
@@ -205,7 +205,7 @@ There are 14 upgrades to purchase, and each can be purchased a maximum of 1 to 6
 </tr>
 <tr>
   <td><center><b>Elementalist</b></center></td>
-  <td><center>You no longer have a limit to how many attunements you can start with,And can freely allocate point through them in character creation.</center></td>
+  <td><center>You no longer have a limit to how many attunements you can start with, and you can freely allocate points through them in character creation.</center></td>
   <td><center>200 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>1</center></td>
@@ -334,11 +334,11 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 **(Visiting the Eastern Luminant)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters after visiting the Eastern Luminant. **Obtained by washing your face at least once at [Lightkeeper Temple](Lightkeeper_Temple.md).**
 
--   Following Hive R&D, the restrictions on the Fountain Gate network's Vow have been relaxed. Merely having seen the majesty of the Greathive from afar is enough to create the mental link that enables one to utilise the network. **Fountain Gates can now be used at any Power so long as you've visited the Eastern Luminant on that character and have unlocked the Hive Gate on your account**
+-   Following Hive R&D, the restrictions on the Fountain Gate network's Vow have been relaxed. Merely having seen the majesty of the Greathive from afar is enough to create the mental link that enables one to utilize the network. **Fountain Gates can now be used at any Power so long as you've visited the Eastern Luminant on that character and have unlocked the Hive Gate on your account**
 
 ## Trivia
 
--   Buying echo upgrades will apply their effects to previously created slots.
+-   Buying most echo upgrades will apply their effects to previously created slots. Advanced Weapons, Starting Knowledge, Starting Notes, and Advanced Tools will not be applied to pre-existing slots.
 -   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with vow of thorns AND dealbreaker, it will still do this for unknown reasons.
 -   The term "ironwoken" is reminiscent of the "ironman" mode in RuneScape, preventing trading among other restrictions.
     -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester
@@ -353,14 +353,20 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   Repair Hammer and Fishing rod.
     -   Glider.
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
+-   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
+    -   The [Boulder](Training_Gear.md)
+    -   Starvation
 -   Kelsius' mantra hand and Deep Shrines do not get autopicked with destined so you can abuse this to look for cards with more comfort.
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) does not reward Echoes.
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
+-   Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) will also count for defeating the [Dread Serpent](Dread_Serpent.md), granting you the 5 Echoes you would've gotten if you had defeated the Dread Serpent. For obvious reasons, killing both will not award you with additional Echoes.
+    -   The other [World Events](World_Events.md) do not grant Echoes.
 -   Chain of Perfection was made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted it but made multihits give you less stacks.
 -   Not only does using the Idol of Yun'shul count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the Fragments of Self. However, your deal if used in fragments must **not** be Resonance Reroll, or it will most likely remove it from your completed tasks.
--   Multifaceted makes the 5 innate [Aspect](Aspects.md) points such as using Vesperian will force 3 points into fortitude and 2 into willpower but with this echo upgrade you are able to freely move those points to be able to start with 0 into every stat when you start
--   Elementalist allows you to have more then 2 elements on character starts so rather then have just 2 maximum you can start with 4 or 3 or even all of them, with this you can also allocate your attunement points freely such as starting a character with 3 flame 2 ice 3 shadow and 2 gale or 9 bloodrend and 1 thunder etc..
+-   Multifaceted makes the 5 innate [Aspect](Aspects.md) points such as using Vesperian will force 3 points into fortitude and 2 into willpower but with this echo upgrade you are able to freely move those points to be able to start with 0 into every stat when you start.
+    -   After purchasing Multifaceted, any pre-existing slot that didn't manually invest points into their innate attributes or previously had above 100 in any stat will have their points removed, allowing you to reallocate them.
+-   Elementalist allows you to have more then 2 elements on character starts so rather then have just 2 maximum you can start with 4 or 3 or even all of them, with this you can also allocate your attunement points freely such as starting a character with 3 flame 2 ice 3 shadow and 2 gale or 9 bloodrend and 1 thunder etc.
 
 ## References
 

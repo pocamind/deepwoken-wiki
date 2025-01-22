@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 132087
+revid: 132133
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -70,13 +70,13 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 <tr>
   <td colspan="12">If you head past the inn, you'll find the Lord Regent's estate. I would not advise entering without an invitation, however. Even a bookish fool such as I knows when I am not welcome.</td>
   <td colspan="12">There is much for us all to learn about it and its people. I'm by no means an expert, but my grandfather was one of the Old Stewards, the keepers of the knowledge of the Old World. Perhaps if you were able to find one of these Old Stewards they might be able to answer any burning questions of yours.</td>
-  <td colspan="12">Ah, hard to avoid hearing about him here. He's somewhatof a mythical figure, thought there was a real man behind all the myth. King Rolen Vashtir I resigned through the early 6th century CE and made quite a name for himself and Etrea on the world stage. As fate would sadly have it, he set off on a voyage with a small fleet of ships and never returned.</td>
+  <td colspan="12">Ah, hard to avoid hearing about him here. He's somewhat of a mythical figure, thought there was a real man behind all the myth. King Rolen Vashtir I reigned through the early 6th century CE and made quite a name for himself and Etrea on the world stage. As fate would sadly have it, he set off on a voyage with a small fleet of ships and never returned.</td>
 </tr>
 <tr>
   <td colspan="12">Who is this Lord Regent exactly?</td>
   <td colspan="12">End</td>
   <td colspan="6">The 6th century CE?! They don't seriously think he's coming</td>
-  <td colspan="6">Even if it's farfetched, i suppose waiting for his return gives</td>
+  <td colspan="6">Even if it's farfetched, I suppose waiting for his return gives</td>
 </tr>
 <tr>
   <td colspan="12">The Lord Regent is the 'acting regent' of Etrea. That is to say, he is not the prophesied King, but he still holds absolute power over Etrea. In recent years, he has sequestered himself away in his palace, rarely making an appearance. Some worry that he has grown ill, but considering that his duties have not been passed on to any of his officials, I doubt this is the case.</td>

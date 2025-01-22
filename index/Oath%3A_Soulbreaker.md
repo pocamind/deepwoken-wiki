@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 131621
+revid: 132157
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,39 +10,51 @@ categories: [Oaths]
 
 | Oath:  Soulbreaker | |
 |---|---|
-| oath_req | Any Murmur, A Resonance, Hero Reputation with Etrea, A sum of 50 points invested in Willpower and Charisma |
+| oath_req | Any Murmur, A Resonance, Hero Reputation with Etrea (dependant), A sum of 50 points invested in Willpower and Charisma |
 | effects | +2 Combat Mantra Slot, +1 Mobility Mantra Slot, Ability To Wield All The Murmurs |
 
 “ THEN IT IS SO. AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. ”
 
-― Soulbreaker Obtained
-
-  
+― Yun'Shul, Keeper of Hearts
 
 ## Description
 
-**[Oath](Oaths.md): Soulbreaker** is one of the 16 obtainable Oaths_._ It is an Oath related to [Murmurs](Murmur.md), specifically the ability to wield three at once. Upon obtaining this Oath, purple-glowing white strands are attached to your shoulders and wrap behind your head. You have constant [Ardour](Murmur%253A_Ardour.md) particles emitting from your chest. Any weapon you equip will have purple/black lightning humming around it.
+**[Oath](Oaths.md): Soulbreaker** is one of the 16 obtainable Oaths in _Deepwoken_. It is an Oath related to [Murmurs](Murmur.md), specifically the ability to wield three at once. Upon obtaining this Oath, purple-glowing white strands are attached to your shoulders and wrap behind your head. You have constant [Ardour](Murmur%253A_Ardour.md) particles emitting from your chest. Any weapon you equip will have purple/black lightning humming around it.
 
-Soulbreaker is a result of a Vow made with [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a shrine residing in the [Temple of Hearts](Temple_of_Hearts.md) which is the Shrine of the Drowned God [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
+“ Some say that the king struck a bet with the Mur and won her heart, and all of us in this Kingdom her Light... Some day we'll see it again. I'm sure of it. ”
+
+― Theadre
+
+The King of Etrea was famous for his exceptionally powerful [Ardour](Murmur%253A_Ardour.md). He, however, also wielded all three Murmurs in what Etreans think was a result of a deal with the [Mur Of Light](Mur_Of_Light.md), an Etrean deity. This is a myth however, as the King in reality would travel to the then above-surface [Southern Luminant](Luminants.md) and strike a deal with the Drowned God [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), becoming a Soulbreaker himself and shattering his soul into three pieces.
 
 ## Obtainment
 
 Meet the following requirements in any order:
 
 -   Have at least 50 points combined into Willpower and Charisma, example, 25 Willpower and 25 Charisma or 0 Willpower and 50 Charisma.
--   Have hero reputation with [Etrea](Etrea.md).
 -   Have a [Resonance](Resonance.md).
 -   Have any [Murmur](Murmur.md).
--   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
--   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (You need hero reputation)
--   Talk to [Bookkeep Andros](Bookkeeper_Andros.md) about the Kings Ardour. (You need a murmur before doing this step)
 
-Once **all** met, head over to the [Temple Of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+There are two methods from here:
+
+-   Have Hero reputation with [Etrea](Etrea.md).
+-   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
+-   Talk to [Theadre](Theadre.md) about the King of Etrea being a god.
+-   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the Kings Ardour. (You need a murmur before doing this step)
+
+Once **all** requires are met, head over to the [Temple of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 -   Choose the dialogue "For now I am one, but I wish to be three."
-    -   _Note: Despite requiring a Yun'Shul wish to engage with the dialogue, this does not consume a wish. and it requires a yun shuul wish to use_
+    -   Despite requiring a Yun'Shul wish to engage with the dialogue, this does not consume a wish, though it requires a wish to use.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/DC24CSyYN98)._
+
+Or:
+
+-   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
+-   Use a [Sinner's Ash](<Sinner's_Ash.md>) before you get teleported out of the dungeon. This will not Corrupt your [Resonance](Resonance.md), but will still consume the Sinner's Ash.
+
+This will bypass all other requirements and grant the Oath.
 
 ## Progression
 
@@ -50,7 +62,7 @@ This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md
 
 ## Effects
 
-This oath grants 2 Combat Mantra Slots and 1 Mobility Mantra slot.
+This Oath grants 2 Combat Mantra Slots and 1 Mobility Mantra slot.
 
 You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their talent upgrade (if any) regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving talents). The user gains a "Soulbreaker's Mantle" 2 rings of purple-ish white energy. Activating Ardour will make the user's weapon emit purple electric-like particles. [Dyeing](Dye_Packet.md) it does not change the particles from the mantle or the Ardour particles.
 
@@ -89,6 +101,7 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
     -   Projectile goes really far (~150 studs) and can hit multiple people at once.
     -   Upon hit, pushes the enemy in the direction of a projectile.
     -   Has a windup of 0.5 seconds and a cooldown of 12 seconds.
+    -   It deals 50 **Oath** damage.
 
 -   **Rhythm Advance - Combat Mantra**
     -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
@@ -113,5 +126,4 @@ January 11th 2025
 
 ## Trivia
 
--   It is rumored that the [True King of Etrea](https://deepwoken.fandom.com/wiki/Lore#The_King_of_Etrea) swore by this Oath.
 -   Despite the obtainment being related to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) does not give an option to swear the oath.

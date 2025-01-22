@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 132057
+revid: 132146
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -129,7 +129,7 @@ Dodgeable:✗
 -   Be cautious when using boats to attack the Doom; when it dives, it will Sudden Ambush on the closest area with a large player count. If none are found it will instead strike the closest boat. Sudden Ambush can also target NPCs.
 -   If you do not have an Ironclad, immediately turn to the wind direction and/or angle your sails to match the wind. This will give you a lot of speed to outrun the Doom's Sudden Ambush.
 -   When doing this with other players, it is a great idea to keep a couple of boats manned so you can hop on and chase it or get some speed to avoid its Sudden Ambush or Pressure Eruptions. Take turns piloting the boat if need be. If for any reason you're alone or without any coordination with fellow players, keeping your own boat nearby will help you escape the Sudden Ambush instead of relying on others.
--   Have some mobility mantras on hand, and max their range with modifiers if you can afford the ether cost. [Ice skates](Frostdraw.md) is an excellent mantra to have for this fight, being able to save losing hunger from swimming for extended periods of time. Keep in mind [Jet Kick](Oath%253A_Jetstriker.md) wont work on water.
+-   Have some mobility mantras on hand, and max their range with modifiers if you can afford the ether cost. [Ice skates](Frostdraw.md) is an excellent mantra to have for this fight, being able to save losing hunger from swimming for extended periods of time. Keep in mind that sometimes [Jet Kick](Oath%253A_Jetstriker.md) might not work on water.
 -   Sudden Ambush and Luminant Beam are one-shot moves. Keep a close eye for when it dives and do everything to avoid the ambush. Payback can tank the Sudden ambush move, but it’s unable to hit the serpent with it. Although the [Tidekeeper](Celtorian_Tideknight.md) can't, Mythic stability can save you from the one-shot moves.
 -   The best duo of talents that can save you when you fighting The Doom of Caeranthil is Mythic Stability paired with Scuba Drowner. You can tank the instant kill/grip moves and Scuba Drowner will keep you from dying after Mythic Stability procs while you're knocked in water. But be careful, as both Mythic Stability (true) and Scuba Drowner (probably) have a 1 minute cooldown.
 

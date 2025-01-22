@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 131776
+revid: 132110
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -20,6 +20,12 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 ## Description
 
 **[Oath](Oaths.md): Chainwarden** is one of the 16 obtainable Oaths in _Deepwoken_. The Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that deal significant true damage if used correctly.
+
+“ What is it? You had better not be wasting my time. There's filth that requires scraping off the map. ”
+
+― Vice Warden Morredh
+
+Chainwardens are strong enforcers of justice serving [The Central Authority](The_Central_Authority.md). They are sworn to enact justice upon anyone they determine to oppose it, using their Chains to condemn and punish those who oppose their own sense of justice.
 
 ## Obtainment
 

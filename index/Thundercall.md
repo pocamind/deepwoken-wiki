@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 131821
+revid: 132153
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -240,7 +240,7 @@ Grand Javelin
 -   Deals 60 thunder damage.
 -   Ragdolls and flings target(s).
 -   Does not break block but deals a lot of posture damage if blocked.
--   \[\] Second Cooldown.
+-   15 Second Cooldown.
 -   Can give an optional effect with the "**Grand Skewer**" Talent; which carries the target(s) hit along with projectile if the user presses the \[F\] key while casting.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to throw 3 smaller projectiles that travel forward and adjacent respectively.
 
