@@ -1,9 +1,9 @@
 ---
 title: The Lord Regent
-revid: 130930
+revid: 132019
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
 ---
 
 # The Lord Regent
@@ -11,7 +11,7 @@ categories: [NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer, NPCs locate
 | The Lord Regent | |
 |---|---|
 | name | The Lord Regent |
-| aspect | Etrean (Probably) |
+| aspect | Etrean |
 | location | Etris Palace |
 
 “ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed. ”

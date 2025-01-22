@@ -1,9 +1,9 @@
 ---
 title: Guns
-revid: 131681
+revid: 132026
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons]
+categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
 ---
 
 # Guns

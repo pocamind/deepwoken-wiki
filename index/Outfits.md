@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 131895
+revid: 132024
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -164,7 +164,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td></td>
   <td></td>
   <td></td>
-  <td><a href="Prophet's_Cloak.md">Prophet's Cloak</a></td>
+  <td><a href="Prophet's_Cloak.md">Prophet's Cloak</a>, <a href="Darkened_Bastion.md">Darkened Bastion</a></td>
 </tr>
 </tbody>
 </table>

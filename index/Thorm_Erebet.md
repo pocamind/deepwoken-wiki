@@ -1,6 +1,6 @@
 ---
 title: Thorm Erebet
-revid: 112610
+revid: 132091
 source: https://deepwoken.fandom.com/wiki/Thorm_Erebet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Naval personnel of The Central Authority]
@@ -12,6 +12,7 @@ categories: [Naval personnel of The Central Authority]
 |---|---|
 | name | Thorm Erebet |
 | alias | Fleet Admiral |
+| aspect | Adret |
 
 ## Description
 

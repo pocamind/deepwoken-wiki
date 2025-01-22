@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 131971
+revid: 132078
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -952,8 +952,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I feel the pain of those around me."**_
 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
+    -   Take 20% less damage from allies and deal 20% less damage to allies. This does not apply to self damage.
+        -   The Canor Aspect's innate Talent has a similar effect and they can stack, totaling to 48% damage reduction.
     -   Guildmates, your Roblox friends, people who are in a Vow of Mastery, or people who are in a Vow of Allegiance with you take less damage from you and deal less damage to you.
-    -   The Canor Aspect's innate Talent has a similar effect and they can stack.
     -   Prerequisites: 35 Charisma
     -   The head equipment "[Investigator's Hat](<Investigator's_Hat.md>)" and "[Tophat](Tophat.md)" have this Talent.
 
@@ -1216,7 +1217,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I use the winds to enforce my will."**_
 
 -   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead.
-    -   The Galebreath mantras that only benefit from the 5% damage increase are: Wind Blade, Air Force, Tornado Kick, Tornado, Gale Trap and Wind Gun.
+    -   The only Galebreath mantras that benefit from the 5% damage increase are: Wind Blade, Air Force, Tornado Kick, Tornado, Gale Trap and Wind Gun.
+    -   After Cut is **not** a damage modifier, it's a second hit with no hitstun. This means it is unaffected by the damage modifier cap.
     -   Prerequisites: 40 Galebreathe
 
 -   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.
@@ -1464,7 +1466,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the Aspect variant.
 
 -   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
-    -   Allies take less damage from you and deal less damage to you. This can stack with the Give and Take Talent.
+    -   Allies take 35% less damage from you and deal 35% less damage to you. This can stack with the Give and Take Talent, totaling to 48% damage reduction.
+    -   This does not apply to self damage.
 
 -   Mark of Jurik \[Jurik and Hollowtide [Capra](Capra.md) Variant Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
     -   Gain a tool that buffs the sanity of nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen. 4m CD.

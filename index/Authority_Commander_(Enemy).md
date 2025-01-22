@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 112639
+revid: 132046
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -16,7 +16,7 @@ Authority Commanders are high-ranking members of The Central Authority. The rank
 
 ## Moveset
 
-Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Officer Saber](Officer_Saber.md) along with the [Flamecharm](Flamecharm.md) Attunement, and some hand-to-hand combat:
+Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Cavalry Saber](Cavalry_Saber.md)\]\] along with the [Flamecharm](Flamecharm.md) Attunement, and some hand-to-hand combat:
 
 | Moves | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -62,8 +62,7 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Offic
 
 ## Trivia
 
--   You can pickpocket the Authority Commander for the Jail Keys, but it requires the Pickpocket Talent to do so.
--   This is the only NPC you can pickpocket so far.
--   You cannot talk with them, attempting to do so will pickpocket them instead.
--   Blocking the Strong Left is possible with a [Khan Shield](Legion_Shield.md) or the mantra Rally, that gives you decreased posture gain and makes it so that you can't be posture broken with some exceptions of course.
+-   You used to be able to pickpocket the Authority Commander for the Jail Keys, but it required the Pickpocket Talent to do so.
+-   This was the only NPC you could pickpocket so far.
+-   You cannot talk with them. Previously, attempting to do so would pickpocket them instead.
 -   They wear the [Authority Commander](Authority_Commander.md) Outfit, an [Authority Helm](Authority_Helm.md), and a Black Shrouded Cape.

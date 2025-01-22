@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 131928
+revid: 132084
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -88,7 +88,8 @@ Bloodrend currently has a total of 17 mantras.
 
 -   At level 5 it deals 40 damage.
 -   Leaves behind a Blood Pool.
--   Can be modified with a Multiplying Spark, making it launch 3 orbs instead (unknown if damage per orb its reduced).
+-   Can be modified with a Multiplying Spark, making it launch 3 orbs instead.
+    -   Damage per orb seems to be reduced, however, hitting all 3 orbs ends up dealing more damage than the non-spark version.
 
  |
 | 

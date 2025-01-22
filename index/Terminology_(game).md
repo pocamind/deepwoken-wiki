@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 131982
+revid: 132025
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deepwoken]
@@ -589,7 +589,7 @@ _verb, adjective_
 
 BMing or black-marketing is a very strictly prohibited thing, do not risk your account for something you can get yourself or earn in-game.
 
-### CBOW
+### CBOW/Curved
 
 _noun_
 

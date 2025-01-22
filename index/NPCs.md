@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 132003
+revid: 132068
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # NPCs
+
+l
 
 ## Description
 
@@ -94,7 +96,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Kujae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | [Summer Isle](Summer_Isle.md), outside the inn | Gacha NPC. Will give you something random from the Summer Isle lootpool in exchange for 350 notes. |  |
 | [Lake](Lake.md) | Moonseye faith | [Upper Erisia](Upper_Erisia.md), bridge to the Temple of the Forgotten Flame | None |  |
 | [Lance's Brother](<Lance's_Brother.md>) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
-| [Lance Leshi](Lance.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor | LANCE LESHI |
+| [Lance Leshi](Lance.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor |  |
 | [Lars](Lars.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Part of the 'Legion Scout' [quest](Quests.md) | Is dead |
 | [Llevyn](Llevyn.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | Brings down the deepdriller if you activated the generator |  |
 | [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |

@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 131871
+revid: 132048
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies, The Central Authority]
@@ -15,17 +15,18 @@ Template:EnemyInfobox1.0
 Authority officers are a type of enemy NPC working for [The Central Authority](The_Central_Authority.md) that are frequently found around [Erisia](Erisia.md). They can spawn in the following events:
 
 -   Authority Officers vs [Vigil Swordsmen](Vigil_Swordsman.md) ([Erisia](Erisia.md))
+-   Authority Officers vs [Etrean Soldiers](Etrean_Soldier.md) ([Upper Erisia](Upper_Erisia.md))
 -   Authority Officers vs [Legion Soldiers](Legion_Soldier.md) ([Upper Erisia](Upper_Erisia.md))
 -   Authority Officers with [Authority Soldiers](Authority_Soldier.md) patrolling ([Upper Erisia](Upper_Erisia.md))
     -   Defeating all four of them will reward the player with a chest containing low level gear along with negative reputation with The Central Authority.
 
 They are also the higher ranked and more dangerous counterpart to the [Authority Soldier](Authority_Soldier.md).
 
-Authority officers wear an [Authority Helm](Authority_Helm.md), a pair of [Bluesteel Pauldrons](Bluesteel_Pauldrons.md), a pair of [Bluesteel Boots](Bluesteel_Boots.md) and an [Authority Captain Uniform](Authority_Captain_Uniform.md). They are all solely [Adrets](Adret.md).
+Authority officers wear an [Authority Helm](Authority_Helm.md), a pair of [Bluesteel Pauldrons](Bluesteel_Pauldrons.md), a pair of [Bluesteel Boots](Bluesteel_Boots.md) and an [Authority Captain Uniform](Authority_Captain_Uniform.md).
 
 ## Moveset
 
-Their arsenal consists of an [Officer Saber](Officer_Saber.md) or a [Mace](Mace.md) (all of which can be enchanted) and the [Thundercall](Thundercall.md) Attunement:
+Their arsenal consists of a [Cavalry Saber](Cavalry_Saber.md), [Adretian Axe](Adretian_Axe.md) or a [Mace](Mace.md) (all of which can be enchanted) and the [Thundercall](Thundercall.md) Attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -37,8 +38,9 @@ Assault
 
 Critical
 
- | \[[Officer Saber](Officer_Saber.md)\] Performs a wind-up before thrusting sword forward.  
-\[[Mace](Mace.md)\] Raises club upward before slamming it down to the ground. | ◯ | ✗ | (★☆☆) |
+ | \[[Cavalry Saber](Cavalry_Saber.md)\] Performs a wind-up before thrusting sword forward.  
+\[[Mace](Mace.md)\] Raises club upward before slamming it down to the ground.  
+\[[Adretian Axe](Adretian_Axe.md)\] Does a windup by rising the weapon before slamming it's blade on you. | ◯ | ✗ | (★☆☆) |
 | 
 
 Jolt Grab
@@ -51,9 +53,7 @@ Thunder Kick
  | User performs an empowered lightning kick, shocking and knocking away any opponents. | ◯ | ◯ | (★★☆) |
 | Lightning Blade | Arcing blades of electricity. | ? | ? | (☆☆☆) |
 
-### **Boons:**
-
--   Impervious - Immune to PvE scaling.
+  
 
 ### Talents
 
@@ -70,8 +70,8 @@ An Authority officer executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | \[[Officer Saber](Officer_Saber.md)\] Pins down opponent before slicing their throat with blade.
-\[[Mace](Mace.md)\] Pins down opponent before firmly bashing their face with mace.
+| Execute | \[[Cavalry Saber](Cavalry_Saber.md)\] Pins down opponent before slicing their throat with blade.
+\[[Mace](Mace.md)\] Pins down opponent before firmly bashing their face with mace. \[[Adretian Axe](Adretian_Axe.md)Pins down the opponent before splitting their skull with the weapon.
 
  |
 

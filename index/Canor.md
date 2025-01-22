@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 124598
+revid: 132075
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -25,7 +25,10 @@ Canor are an uncommon aspect considered to have the characteristics of a canine 
   <td><figure>File:Seaborne.png<figcaption></figcaption></figure></td>
   <td><b>Loyalty -</b> <i>Your bond with your allies is strong enough to reduce damage between you.</i>
   <ul>
-    <li>Allies take less damage from you and deal less damage to you.</li>
+    <li>Allies take 35% less damage from you and deal 35% less damage to you. This does not apply to self damage.
+  <ul>
+    <li>The <a href="Talents.md#empath">Give and Take</a> Talent stacks with Canor's Loyalty, lowering damage taken by and dealt to allies by 48%.</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>

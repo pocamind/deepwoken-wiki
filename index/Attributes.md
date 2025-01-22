@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 131935
+revid: 132083
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -94,7 +94,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 -   Unlocks Willpower-related [Talents](Talents.md) and [Mantras](Attunement-less.md#willpower-mantras), and the legendary weapon [Light's Final Toll](<Light's_Final_Toll.md>) with a requirement of 60 Willpower and 35 Light weapon.
 -   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, having an empty stomach, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using Prayer Beads.
 -   _**[Unbounded](Attributes_Unbound.md#willpower-unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
--   It takes around 35 seconds to level up your Willpower without any xp using Prayer Beads.
+-   It takes around 35 seconds to level up your Willpower without any xp using Prayer Beads. Therefore about 8 minutes and 45 seconds for [15 investment points](Character_Stats.md).
 
 ### Charisma (CHA)
 
@@ -163,7 +163,7 @@ _**NOTE:** The message that appears when training an attunement, "The elements a
 
 -   Increases damage scaling of Flamecharm mantras.[\[4\]](#cite-note-4)
     -   Unlocks [Flamecharm Talents](Flamecharm.md#talents).
-    -   Increases intensity of flames.
+    -   Increases intensity of flames. (Someone please elaborate on this)
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using [Hearthgem](Training_Gear.md#attunement-training-gears) or eating [Dying Embers](Dying_Embers.md).
 
 ### Frostdraw (ICE)
@@ -198,12 +198,14 @@ _**NOTE:** The message that appears when training an attunement, "The elements a
 
 -   Increases damage scaling of [Ironsing](Ironsing.md) mantras.
     -   Unlocks [Ironsing Talents](Ironsing.md#talents).
+    -   No currently known side effects.
 -   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras or using [Ferrofluid](Training_Gear.md#attunement-training-gears).
 
 ### Bloodrend (BLD)
 
 -   Increases damage scaling of [Bloodrend](Bloodrend.md) mantras.
     -   Unlocks [Bloodrend Talents](Bloodrend.md#talents).
+    -   No currently known side effects.
 -   Gain Bloodrend EXP by dealing damage to enemies with Bloodrend mantras, using the [Tourniquet](Training_Gear.md#attunement-training-gears), or eating [Heartstars](Heartstar.md) (Not recommended, since they're extremely difficult to obtain).
 
 ## Tips

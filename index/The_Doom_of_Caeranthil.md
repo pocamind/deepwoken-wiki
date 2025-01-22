@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 131904
+revid: 132057
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -130,7 +130,7 @@ Dodgeable:✗
 -   If you do not have an Ironclad, immediately turn to the wind direction and/or angle your sails to match the wind. This will give you a lot of speed to outrun the Doom's Sudden Ambush.
 -   When doing this with other players, it is a great idea to keep a couple of boats manned so you can hop on and chase it or get some speed to avoid its Sudden Ambush or Pressure Eruptions. Take turns piloting the boat if need be. If for any reason you're alone or without any coordination with fellow players, keeping your own boat nearby will help you escape the Sudden Ambush instead of relying on others.
 -   Have some mobility mantras on hand, and max their range with modifiers if you can afford the ether cost. [Ice skates](Frostdraw.md) is an excellent mantra to have for this fight, being able to save losing hunger from swimming for extended periods of time. Keep in mind [Jet Kick](Oath%253A_Jetstriker.md) wont work on water.
--   Sudden Ambush and Luminant Beam are one-shot moves. Keep a close eye for when it dives and do everything to avoid the ambush. Payback can tank the Sudden ambush move, but it’s unable to hit the serpent with it. Although the Tidekeeper can't, Mythic stability can save you from the one-shot moves.
+-   Sudden Ambush and Luminant Beam are one-shot moves. Keep a close eye for when it dives and do everything to avoid the ambush. Payback can tank the Sudden ambush move, but it’s unable to hit the serpent with it. Although the [Tidekeeper](Celtorian_Tideknight.md) can't, Mythic stability can save you from the one-shot moves.
 -   The best duo of talents that can save you when you fighting The Doom of Caeranthil is Mythic Stability paired with Scuba Drowner. You can tank the instant kill/grip moves and Scuba Drowner will keep you from dying after Mythic Stability procs while you're knocked in water. But be careful, as both Mythic Stability (true) and Scuba Drowner (probably) have a 1 minute cooldown.
 
 ## Loot Table/Rewards
@@ -211,6 +211,7 @@ Exhaustive Loot Table
 -   When it was first teased, it was known to the devs and community as the "World Serpent."
 -   Given its drops, design and Murmur: Ardour orb, it can be reasonably assumed that this creature is somehow related to the Dread Serpent. possibly a stronger variant or mutation.
 -   The player must defeat this boss to obtain the fist style "[Fang and Coil](Fang_and_Coil.md)" from [Vesque](Vesque.md).
+-   sea puppy 😁
 
 ## Navigation
 

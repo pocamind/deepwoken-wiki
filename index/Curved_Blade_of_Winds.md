@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 131234
+revid: 132031
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons", Multiple Criticals]
@@ -65,6 +65,6 @@ The user shoots a blast of air and on collision or after a short amount of time 
     -   Additionally, the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is fashioned after one.
     -   Additionally, the original model of the Curved Blade of Wind closely resembled the Windshear from The Elder Scrolls V: Skyrim.
 -   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices
--   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", **which has no meaning**, _but seems to do_ cause its similar to other words, and the other runes near the tip are a mix of different ancient runic dialects that don't translate to anything.
+-   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", **which has no meaning**.
 -   As the weapon is a dual wield, you are unable to utilize a Shield or Off-Hand gun.
 -   The original model was a Wardens Blade with wind particles put onto the blade.

@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 131352
+revid: 132050
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -12,21 +12,21 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Authority Lieutenant is an NPC found outside the shipwright hut in [Fort Merit](Fort_Merit.md), or fighting with [Legion Captains](Legion_Captain.md) in [Starswept Valley](The_Starswept_Valley.md).
+The Authority Lieutenant is an NPC found outside the shipwright hut in [Fort Merit](Fort_Merit.md), via [Faction Ambushes](Faction_Ambushes.md), or fighting with [Legion Captains](Legion_Captain.md) in [Starswept Valley](The_Starswept_Valley.md).
 
-Their appearance consists of a Authority Captain Uniform, a Black Shrouded Cape and, unusually for an Authority member, [Polarised Sunglasses](Eyeglasses.md), however for some odd reason they wear their [helmet](Authority_Helm.md) too. They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>). Their aspect can only be an [Adret](Adret.md).
+Their appearance consists of a Authority Captain Uniform, a Black Shrouded Cape and, unusually for an Authority member, [Polarised Sunglasses](Eyeglasses.md), however for some odd reason they wear their [helmet](Authority_Helm.md) too. They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>).
 
 ## Moveset
 
-Their arsenal is composed of an Officer Saber/Adretian Axe/Mace along with the [Flamecharm](Flamecharm.md) attunement:
+Their arsenal is composed of an Cavalry Saber/Adretian Axe/Mace along with the [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | ([Officer Saber](Officer_Saber.md)/[Adretian Axe](Adretian_Axe.md))Firmly swings blade at opponent before finishing up the combo by kicking them.
+| Assault | ([Cavalry Saber](Cavalry_Saber.md)/[Adretian Axe](Adretian_Axe.md))Firmly swings blade at opponent before finishing up the combo by kicking them.
 ([Mace](Mace.md))Firmly swings weapon at opponent and finishing the combo by kicking them.
 
  | ◯ | ◯ | (★☆☆) |
-| Critical | ([Officer Saber](Officer_Saber.md)):Does a windup with the arm before hitting you with a lunge attack.
+| Critical | ([Cavalry Saber](Cavalry_Saber.md)):Does a windup with the arm before hitting you with a lunge attack.
 
 ([Adretian Axe](Adretian_Axe.md)):Does a windup by rising the weapon before slamming it's blade on you. ([Mace](Mace.md))Raises club upward before slamming it down to the ground.
 
@@ -53,12 +53,11 @@ An Authority Lieutenant executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | ([Officer Saber](Officer_Saber.md)):Pins down opponent before slicing their throat.
-([Adretian Axe](Adretian_Axe.md)):Pins down the opponent before splitting their skull with the weapon.
+| Execute | ([Cavalry Saber](Cavalry_Saber.md)):Pins down opponent before slicing their throat.
+([Adretian Axe](Adretian_Axe.md)):Pins down the opponent before splitting their skull with the weapon. ([Mace](Mace.md)):Pins down opponent before firmly bashing their face with mace.
 
  |
 
 ## Trivia
 
--   Along with the [Authority Captain](Authority_Captain.md), they are the only Authority soldiers not to wear helmets.
 -   The Authority Lieutenant's dialogue when they are being executed is usually "You're pretty strong...", "How is this even possible?" or "What is someone of your strength doing here...?" the same as the Authority Captain.

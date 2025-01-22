@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 131010
+revid: 132045
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -12,13 +12,13 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Authority Captain is an NPC found in the [Starswept Valley](The_Starswept_Valley.md) either fighting [Legion Captains](Legion_Captain.md) or [Hive Constructs](Hive_Construct.md). Unlike most Authority members, their face is completely unobscured.
+An Authority Captain is an NPC found in the [Starswept Valley](The_Starswept_Valley.md) who are fighting [Hive Constructs](Hive_Construct.md). Unlike most Authority members, their face is completely unobscured.
 
-Their appearance consists of an [Authority Captain Uniform](Authority_Captain_Uniform.md) Outfit with their aspect being only [Adrets](Adret.md).
+Their appearance consists of an [Authority Captain Uniform](Authority_Captain_Uniform.md) Outfit.
 
 ## Moveset
 
-Their arsenal consists of an [Officer Saber](Officer_Saber.md) or an [Adretian Axe](Adretian_Axe.md) along with the [Frostdraw](Frostdraw.md) attunement:
+Their arsenal consists of an [Cavalry Saber](Cavalry_Saber.md) or an [Adretian Axe](Adretian_Axe.md) along with the [Frostdraw](Frostdraw.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Assault
 
 Critical
 
- | \[[Officer Saber](Officer_Saber.md)\] Performs a windup before thrusting blade forward.
+ | \[[Cavalry Saber](Cavalry_Saber.md)\] Performs a windup before thrusting blade forward.
 
 \[[Adretian Axe](Adretian_Axe.md)\] Raises axe before firmly slamming it down to the ground.
 
@@ -67,14 +67,14 @@ An Authority Captain executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | \[[Officer Saber](Officer_Saber.md)\] Pins down opponent before slicing their throat.
+| Execute | \[[Cavalry Saber](Cavalry_Saber.md)\] Pins down opponent before slicing their throat.
 \[[Adretian Axe](Adretian_Axe.md)\] Raises axe before firmly slamming it down, splitting the opponent's head open.
 
  |
 
 ## Trivia
 
--   This and the Authority Lieutenant are the only Authority Soldiers with completely unobscured faces.
+-   This is the only Authority Soldier with a completely unobscured faces.
 -   The Authority Captain has no chance of winning if it fights against the Hive Construct.
 -   One of the most tanky NPCs in the game, second only to their superior, the [Authority Commander](<Authority_Commander_(Enemy).md>), so it is not advisable to fight against them being a low level since they have a decent AI to combat (not surprisingly, these guys go 1v1 against a [Hive Construct...](Hive_Construct.md))
 -   Very rare but they can sometimes beat a Hive Construct.

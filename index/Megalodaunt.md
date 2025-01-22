@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 132001
+revid: 132028
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -43,7 +43,6 @@ In addition to be found wandering around various places or loitering around in s
 | --- | --- | --- |
 | 
 **Slash**  
-(★☆☆)
 
  | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
 
@@ -61,7 +60,7 @@ Dodgeable:◯
 | 
 
 **Kick**  
-(★★☆)
+★
 
  | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
 
@@ -82,7 +81,6 @@ Dodgeable:◯
 | 
 
 **Thousand Needles**  
-(★☆☆)
 
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
@@ -99,7 +97,6 @@ Dodgeable:◯
 | 
 
 **Roar**  
-(★★☆)
 
  | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md) and [fear](Status_Effects.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
 

@@ -1,6 +1,6 @@
 ---
 title: Alaric Kesset
-revid: 112615
+revid: 132090
 source: https://deepwoken.fandom.com/wiki/Alaric_Kesset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Naval personnel of The Central Authority]
@@ -12,6 +12,7 @@ categories: [Naval personnel of The Central Authority]
 |---|---|
 | name | Alaric Kesset |
 | alias | Authority Navy Captain |
+| aspect | Adret |
 
 ## Description
 

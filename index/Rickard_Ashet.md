@@ -1,6 +1,6 @@
 ---
 title: Rickard Ashet
-revid: 112620
+revid: 132089
 source: https://deepwoken.fandom.com/wiki/Rickard_Ashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Naval personnel of The Central Authority]
@@ -12,6 +12,7 @@ categories: [Naval personnel of The Central Authority]
 |---|---|
 | name | Rickard Ashet |
 | alias | Retired Venerable Fleet Admiral |
+| aspect | Adret |
 
 “ Anything's a bullet if you launch it fast enough. ”
 

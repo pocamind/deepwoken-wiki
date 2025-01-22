@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 119439
+revid: 132071
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -42,7 +42,7 @@ Dash forward while performing a kick.
 
 ## Mantras
 
-Jus Karita is the only fighting style as of now that has its own mantras. With this it can help the user maneuver through the kick-style's difficulties and weaknesses. Possessing three seperate mantras that are effective for comboing, and having a chained effect for two of them; Karita Leap and Karita Divebomb. Tacet Drop Kick is also the only mantra in-game as of now that utilizes a [Murmur](Murmur.md). It's effectively used to knockdown on enemies and give them a sense of confusion, not knowing where the user is. To successfully know more about the mantras, as their requirements and in-depth information about their abilities go to the [Light Weapon](Attunement-less.md#light-weapon-mantras) and [Strength](Attunement-less.md#strength-mantras) Mantra Pages.
+Jus Karita is the only fighting style as of now that has its own mantras. With this it can help the user maneuver through the kick-style's difficulties and weaknesses. Possessing three seperate mantras that are effective for comboing, and having a chained effect for two of them; Karita Leap and Karita Divebomb. Tacet Drop Kick is also the first mantra in-game as of now that utilizes a [Murmur](Murmur.md), the rest being from the [Soulbreaker](Oath%253A_Soulbreaker.md) oath. It's effectively used to knockdown on enemies and give them a sense of confusion, not knowing where the user is. To successfully know more about the mantras, as their requirements and in-depth information about their abilities go to the [Light Weapon](Attunement-less.md#light-weapon-mantras) and [Strength](Attunement-less.md#strength-mantras) Mantra Pages.
 
 ## Obtainment
 
