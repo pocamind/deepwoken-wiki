@@ -1,6 +1,6 @@
 ---
 title: Tideknight
-revid: 128653
+revid: 132258
 source: https://deepwoken.fandom.com/wiki/Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Lost Celtor, Lost Celtor Enemies]
@@ -18,7 +18,7 @@ They wear the [Celtorian Tideknight](Celtorian_Tideknight.md) Outfit and have a 
 
 ## Moveset
 
-Tideknights contain the save moveset as the following NPCs depending on their variant.
+Tideknights contain the same moveset as the following NPCs depending on their variant.
 
 -   [Songseeker Galebreather](Songseeker_Galebreather.md)
 -   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
@@ -37,4 +37,4 @@ Tideknights contain the save moveset as the following NPCs depending on their va
 ## Trivia
 
 -   They share the same armor with the [Celtorian Guards](Celtorian_Guard.md).
--   It is unknown where these guys originate from lore-wise. Perhaps they could have been stronger, deadlier guards that patrolled Celtor before the Great Drowning.
+-   It is unknown where they originate from lore-wise. Perhaps they could have been stronger, deadlier guards that patrolled Celtor before the Great Drowning.

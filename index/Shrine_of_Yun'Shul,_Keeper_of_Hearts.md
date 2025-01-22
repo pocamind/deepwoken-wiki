@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 129927
+revid: 132182
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -37,7 +37,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
         -   Misérables in particular enables you to stack wishes. Its Clarity transaction will cost 5 more [Knowledge](Knowledge.md) for each wish you already have.
     -   Wishes are occasionally granted on updates.
 -   [Tarnished](Boons_and_Flaws.md) prevents you from rerolling your Resonance.
-    -   You can remove it at [Yamaketzal](Yamaketzal.md) for 1000 Notes, at [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 Knowledge, or by by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md) (which also grants a wish.)
+    -   You can remove it at [Yamaketzal](Yamaketzal.md) for 1000 Notes, at [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 Knowledge, or by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md) (which also grants a wish.)
 
   
 If you meet all the criteria, you are able to make one of six wishes:

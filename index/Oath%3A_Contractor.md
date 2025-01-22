@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 130100
+revid: 132259
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -100,6 +100,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   Being a member of The Divers' guild will prevent your reputation from being drained when you swear the Oath.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the Oath.
     -   However, those with Contractor builds that have the weapon already equipped are able to use it until they switch weapon.
+        -   When trying to equip the weapon as a Contractor, the game will state "The weapon rejects your very soul, the antithesis to your ideals."
 -   Progressing Contractors will send victims it kills to Layer 2 instead of wiping. Only applies if the contractor does not have 3 Oath grips
     -   Counts as a drown
 -   Before 25/08/23, four specific [Deep Shrines](Deep_Shrines.md) deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.

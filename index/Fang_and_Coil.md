@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 132148
+revid: 132184
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weapons with Unique Criticals, Multiple Criticals]
@@ -29,7 +29,7 @@ categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weap
 
 **Fang and Coil** is a leg-centered [Fist](Fists.md) style obtained from the [Isle of Vigils](Isle_of_Vigils.md) by talking to [Vesque](Vesque.md) with 20 Light Weapon, Friend reputation or higher with [Etrea](Etrea.md), and after defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). Its attacks consist of a chain of kicks, a leg sweep, and an advancing front-flip before a stomp, the lattermost being accessible only if the player has the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit equipped.
 
-Fang and Coil is notable for it's dazing capabilities and wide attack area, with both of its criticals dazing opponents on hit and covering decently sized areas around the player compared to other fighting styles. The standing critical ragdolls the opponent away on hit and is a bit slower, but can be useful for mix-ups. The running critical puts the opponent into knock-down on hit, and with its forward advance giving it comparatively quicker speed it's a useful tool for calling out enemy movement and starting combos from range.
+Fang and Coil is notable for it's dazing capabilities and wide attack area, with both of its criticals dazing opponents on hit and covering decently sized areas around the player compared to other fighting styles. The standing critical ragdolls the opponent away on hit and is a bit slower, but can be useful for mix-ups. The running critical puts the opponent into knock-down on hit, and with its forward advance giving it a factor of surprise and, as such, comparatively quicker speed, it's a useful tool for calling out enemy movement and starting combos from mid-range.
 
 ## Obtainment
 

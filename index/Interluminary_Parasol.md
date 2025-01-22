@@ -1,9 +1,9 @@
 ---
 title: Interluminary Parasol
-revid: 131105
+revid: 132246
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, World Event, Monsters, Bosses]
+categories: [World Event, Monsters, Bosses]
 ---
 
 # Interluminary Parasol
@@ -123,12 +123,6 @@ Exhaustive Loot Table
 </tr>
 </tbody>
 </table>
-
-## Gallery
-
-File:Symphonyandtheypet.png
-
-  
 
 ## Tips & Tricks
 

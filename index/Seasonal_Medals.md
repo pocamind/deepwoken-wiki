@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 125050
+revid: 132190
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]
@@ -63,4 +63,4 @@ To celebrate Deepwoken reaching 1 Billion visits on Roblox, the [**Festival of a
 
 ## Trivia
 
--   During 2022's [Hallowtide](Hallowtide.md), there were no medals to purchase. The Hallowtide '22 Medal was only purchasable during 2023's [Hallowtide](Hallowtide.md).
+-   During 2022's [Hallowtide](Hallowtide.md), there were no medals to purchase. The Hallowtide '22 Medal was only purchasable during 2023's [Hallowtide](Hallowtide.md), as well has Hallowtide of 2024

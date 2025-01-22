@@ -1,6 +1,6 @@
 ---
 title: Etrean Wilds
-revid: 115036
+revid: 132193
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Etrea]
@@ -28,6 +28,7 @@ Between the Etris Docks and Etris, there is a small forest, being the Etrean Wil
     -   A small camp populated by [Navaen Nomads](Navaen_Hostage.md) found before entering Etris.
     -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) schematics can be purchased here.
     -   You can earn the [Way of Navae](Way_of_Navae.md) fist style by turning in a Navaen hostage here.
+    -   An incredibly popular spot for sparring and ganks
     -   File:Navea Camp.jpg
 -   Ruined House
     -   A small ruined house found below Etris that has importance with [The Librarian](Isle_of_Vigils.md#the-librarian-quest) quest.

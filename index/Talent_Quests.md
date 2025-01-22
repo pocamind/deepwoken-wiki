@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 123405
+revid: 132240
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -41,7 +41,7 @@ Thresher Scales is acquired from an NPC at the [Starswept Valley](The_Starswept_
 
 ### Chain of Perfection
 
-**Chain of Perfection:** You deal more damage the more you hit an enemy without taking damage. (Up to 2x damage. Fall damage and environmental damage will remove all stacks.)
+**Chain of Perfection:** You deal more damage the more you hit an enemy without taking damage. (Up to 2x damage. Fall damage will remove all stacks.)
 
 Chain of Perfection is obtained by defeating any boss without taking any damage. Getting hit by other sources including normal enemies or players invalidates it. This Talent makes PvE far easier as you get better at the game. The easiest method to obtain this Talent is via Cheese, or doing [The Ferryman](The_Ferryman.md)
 

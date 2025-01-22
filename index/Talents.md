@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132180
+revid: 132191
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -404,6 +404,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Damage is reduced by ~20%.
     -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
     -   Prerequisite: 25 Fortitude
+    -   The arms equipment "[Providence Coat](Providence_Coat.md)" has this talent
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+2 Posture)
     -   Lower the movement speed penalty of blocking.

@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 128019
+revid: 132200
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -91,16 +91,12 @@ _For a visual guide consider watching [this video](https://youtu.be/Z5ECG-qpdg0)
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=MPXiUG8j7qA)._
 
-Alternatively, weapon can also be unbounded by reaching 75 points on the desired weapon attribute and defeating any humanoid [boss](Bosses.md).
+Alternatively, weapon can also be unbounded by reaching 75 points on the desired weapon attribute and defeating any [boss](Bosses.md).
 
 ## Attunement Unbound
 
 1.  Reach 75 in an [Attunement](Attunements.md).
-2.  Defeat any humanoid [Boss](Bosses.md) (any one of the following):
-    -   [Duke Erisia](Duke_Ishamon_Erisia.md) in [his laboratory](<Duke_Erisia's_Laboratory.md>) ([The Lord Regent's Quest](Etris.md#the-lord-regents-quest) grants the key to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)),
-    -   [The Ferryman](The_Ferryman.md) at [Boatman's Watch](<Boatman's_Watch.md>).
-    -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in the [Second Layer](Second_Layer.md#objectives).
-    -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) at [The Temple of The Blade](Temple_of_the_Blade.md).
+2.  Defeat any [Boss](Bosses.md)
 
 ## Notes
 

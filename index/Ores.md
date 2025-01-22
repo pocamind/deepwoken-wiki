@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 131973
+revid: 132245
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -94,7 +94,7 @@ categories: [Items, Harvestables]
 
 ## Rock
 
-A grayish-blue or sandstone ore used in crafting Flint and certain armors. Found in any cave.
+A grayish-blue or sandstone ore used in crafting Flint and certain armors, found in any cave.
 
 Old Models
 

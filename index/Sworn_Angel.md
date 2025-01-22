@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 127783
+revid: 132251
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Enemies that can wield Enchantments]

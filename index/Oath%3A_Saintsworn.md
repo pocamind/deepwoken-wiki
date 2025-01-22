@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 132132
+revid: 132185
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -42,7 +42,7 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 
 ― Urek Felhand, Saint of Shadow
 
-The Five Heroes were considered were Saints of their respective [attunements](Attunements.md) back in times of old. Wishing to carry on their legacy after they met their fate, they would make a Vow to infuse their souls into swords after their demise, turning into [Hero Blades](Hero_Blades.md). The player, upon swearing the Oath, vows to carry on their legacy with the Heroes themselves watching over them.
+The Five Heroes were considered to be the Saints of their respective [attunements](Attunements.md) back in times of old. Wishing to carry on their legacy after they met their fate, they would make a Vow to infuse their souls into swords after their demise, turning into [Hero Blades](Hero_Blades.md). The player, upon swearing the Oath, vows to carry on their legacy with the Heroes themselves watching over them.
 
 ### Obtainment
 
