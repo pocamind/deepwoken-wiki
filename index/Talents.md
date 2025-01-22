@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132158
+revid: 132180
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2143,29 +2143,31 @@ _**"My cure is most effective."**_
     -   Prerequisite: Rending Needle: Conductor
 
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
-    -   Ironsing Pull is activated by pressing X.
+    -   Does 5 damage per rod. This damage can be resisted by physical armor.
+    -   Affected by Grim, Taunt, Isshin's ring, Exposed Durability and any other defensive debuffs.
+    -   Not affected by "Return To The Dark Ages" talent
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
-    -   Does 50 true dmg at max rods and 25 true dmg on 5 rods
-    -   Takes slightly more armor due to pull taking out 2% per rod (metal thief) and then it dmgs armor by 35 durability by Impaler
-    -   Affected by Grim, Taunt, Issih ring, Exposed Durability and any other defensive debuffs.
-    -   Not affected by "Return To The Dark Ages" talent
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
-    -   Works as default path with exception applying conductor rod after hitting rod limit. Has 5 rod limit.
-    -   Conductor rod lasts for 1 elemental mantra
-    -   While conductor rod applied, Ironsing and Attunementless mantras on use will drain 5% armor from victim.
-    -   Lasts for 30 seconds.
-    -   Without Conductor's cable talent doesn't steal armor at all.
-    -   You can't pull out conductor's cable.
+    -   Works as default path with exception of applying a Conductor rod after 5 normal metal rods are applied.
+    -   Conductor rods last 30 seconds or until an elemental mantra is used.
+    -   On proc, the Conductor Rod will apply the elemental effect of the Mantra your opponent is trying to use to themselves.
+    -   If your opponent uses a Mantra while being affected by a Conductor rod, 5% of their armor will be **drained** and it proc have the following effect:
+        -   Flamecharm Mantra: Apply Burn (base path) / Cause Eruption (Eruption path)
+        -   Frostdraw Mantra: Deals a very low amount of damage (base path) / Apply Crystal on victim (Crystallization path)
+        -   Galebreathe Mantra: Suffocate + cancels mantra (base path) / spawns Apparitions (Specter Path)
+        -   Shadowcast Mantra: Doubles the Ether cost of the Mantra cast
+        -   Thundercall Mantra: Applies Shock + Cancels mantra (base path) / Applies Surge stack + cancels mantra (Surge path)
+        -   Attunement-less/Ironsing/Bloodrend/Oath Mantra: The rod does not fall off, but their armor is still drained
+    -   You can't pull out Conductor rods, nor can they be consumed with Scrapsinger.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer
 
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
     -   Enemies have damage reduced by 30% when Metal Jailed.
-    -   Will restrain for 1.08s with 5 rod proc and 1.6s if 10 rod proc (Keep in mind, pulls have 0.4s endlag)
-    -   Time jailed doesn't scale with Ironsing investment or scaling barely exists.
+    -   Will restrain for 1.08s with 5 rod proc and 1.6s if 10 rod proc
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Conductor
 
@@ -2273,7 +2275,7 @@ _**"My cure is most effective."**_
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
-    -   Deals 10 DMG per blade, this damage cannot be resisted by armor, but can be resisted by general resistances.
+    -   Deals 10 Ironsing damage per blade.
     -   Doesn't scale on Ironsing Investment
     -   Hits from Artisan's Blades do not drain armor from enemy.
     -   Artisan's Blades do not benefit from Exposed Durability's damage buff or any other defense debuff.

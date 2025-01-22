@@ -1,6 +1,6 @@
 ---
 title: Weathered Timepiece
-revid: 129614
+revid: 132179
 source: https://deepwoken.fandom.com/wiki/Weathered_Timepiece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Uses, Items, Drops, Ingredients]
@@ -17,6 +17,8 @@ categories: [Uses, Items, Drops, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | The chassis is in ruin, but the internal components might be of some use. |
+
+Weathered timepiece
 
 ## Description
 

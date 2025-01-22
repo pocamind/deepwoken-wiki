@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 130802
+revid: 132169
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -215,3 +215,5 @@ Floors at 1.70km or lower have a higher chance at rarer loot, no matter the mobs
 -   The cave paintings show that civilization has once been here long before the Union have.
     -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast. (Possibly a Meglodaunt?)
     -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
+
+-   Saramaed Hollow is in the same "place" as [Layer 2](Second_Layer.md), just with different locations.
