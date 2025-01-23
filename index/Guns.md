@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 132026
+revid: 132292
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
@@ -74,7 +74,9 @@ _**Stats:**_
 
 **[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.33x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
 
-Note: All pistols have only 1 posture damage.
+[Rosen's Roscoe](<Rosen's_Roscoe.md>): 16 damage, 11 range, 11 LHT scaling, 1.2 swing speed, 20% chip damage. Dropped by enemies. (75 LHT req)
+
+Note: All guns excluding the Rosen's Roscoe deal 1 posture damage, with the Rosen's Roscoe dealing 3.5 posture damage.
 
 ## Rifle Moveset
 

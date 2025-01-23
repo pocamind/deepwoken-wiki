@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 115320
+revid: 132325
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics]
@@ -54,3 +54,4 @@ The "Strange Egg" is a rare version of the regular artifact that can only be giv
 -   Anyone standing nearby whilst you turn in an Artifact will also receive notes and XP.
 -   Artifacts are likely related to the Forge of Sin, as bankers will call it a "Piece of the Forge," and pieces of their models are in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 -   The [Castle Light](Castle_Light.md) Banker has an Artifact turn-in option, but Artifacts do not currently spawn in the Depths.
+-   The sound used by an artifact is from the series Avengers Assemble season 1 episode 13, from neptunes trident.

@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 132188
+revid: 132264
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -62,9 +62,9 @@ _Main Page: [Jus Karita](Jus_Karita.md)_
 
 ### Fang and Coil
 
-_Main Page: [Fang and Coil](Fang_and_Coil.md)_
+File:Fang and Coil stats.png
 
-  
+_Main Page: [Fang and Coil](Fang_and_Coil.md)_
 
 ## Trivia
 
@@ -75,3 +75,4 @@ _Main Page: [Fang and Coil](Fang_and_Coil.md)_
 -   Previously, _Captain Etrea_ did nothing and it's description said it would let you wield a shield while using a fist style, but the Talent has been reworked.
 -   Ragoozer has an exclusive fist style for his spec. This fist style is very similar to that of an advanced fist form in Rogue Lineage.
 -   When trying to alloy your fists with a [Pluripotent Alloy](Pluripotent_Alloy.md), you get special text - "A little voice in your head tells you that Alloying yourself would probably be a bad idea. Your blood needs iron to deliver oxygen to your organs. You need organs to live."
+-   When possessing all cestus styles, style swapping using Y becomes unintuitive. Way of Navae → Legion kata 🗘 Fang and coil.

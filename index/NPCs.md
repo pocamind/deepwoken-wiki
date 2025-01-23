@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 132068
+revid: 132285
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -9,8 +9,6 @@ notices:
 ---
 
 # NPCs
-
-l
 
 ## Description
 
@@ -45,6 +43,8 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Calamus](Calamus.md) | [The Hive](The_Hive.md) | [Starswept Valley](The_Starswept_Valley.md) | Gives you a quest to hunt a monster. Quest completion gives Hive rep |  |
 | [Calypso](Calypso.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None |  |
 | [Cave Master](Cave_Master.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
+| [Celadon](Celadon.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |  |
+| [Cerulean](Cerulean.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | [Oathless](Oath%253A_Oathless.md) oath "trainer" |  |
 | [Cestis](Cestis.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants [Murmur: Tacet](Murmur%253A_Tacet.md) |  |
 | [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the Talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
 | [C'lantaa](<C'lantaa.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
@@ -140,6 +140,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Renau](Renau.md) | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |  |
 | [Rimil](Rimil.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants quest to kill an enemy in the [Starswept Valley](The_Starswept_Valley.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
+| [Saffron](Saffron.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |
 | [Samael](Samael.md) | Starkindred Faithful | Derelict Highchurch | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
 | [Sekh](Sekh.md) | [The Hive](The_Hive.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |  |
@@ -157,7 +158,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company Guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |  |
 | [Vesque](Vesque.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Gives you the [Fang and Coil](Fang_and_Coil.md) fist style |  |
-| [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | [Oathless](Oath%253A_Oathless.md) obtainment |  |
+| [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |  |
 | [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
 | [Vyrelda](Vyrelda,_Master_of_Blood.md) | Unaligned | [Second Layer](Second_Layer.md), in an Igloo at [Firfire](Firfire.md), [Derelict Highchurch](Derelict_Highchurch.md) | Begins the quest to obtain Bloodrend. | Will ask you to hunt down students of the Second Skulking who drop Heartstars and bring 3 of them back to her. |
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |  |

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 131916
+revid: 132311
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -244,8 +244,8 @@ Ice
 -   Apparently applies chill although VERY short.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
--   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
-    -   **Warning: this modifier will cause the mantra to do NO DAMAGE.(EDIT, THIS WAS CHANGED. Hitting an enemy with the edge should deal damage.**
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward. These walls are destructible.
+    -   The walls can deal damage if they spawn very close to your opponent.
 
  |
 |  | 
@@ -801,6 +801,22 @@ Cool Head
  | 
 
 If set on fire while on ice, immediately put it out and enter a state of chill for 30 seconds. During this state you cannot be lit on fire. 15 second cooldown.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Fragile Freeze  
+(60 Frostdraw)
+
+ | 
+
+Your ice Mantras will freeze opponents upon blockbreaking them.
 
  | 
 

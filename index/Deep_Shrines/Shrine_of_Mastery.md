@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 127451
+revid: 132306
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -42,7 +42,6 @@ For 1 Knowledge, you can trade 1 of your [Trait](../Traits.md) Points into anoth
 -   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
 
 -   If you no longer meet the requirements for a mantra after using Shrine of Mastery, you will keep it equipped with **no** penalties.
-    -   Additionally, if you no longer meet the requirements for a mantra's level upgrade after using Shrine of Mastery, you will keep it at that level with no drawback.
 
 -   The attribute point reallocation works on the stat requirements on almost all [Oaths](../Oaths.md), allowing you to go below your Oath stat reqs while keeping your Oath.
     -   The only exceptions to this are [Arcwarder](../Oath%253A_Arcwarder.md) and [Saintsworn](../Oath%253A_Saintsworn.md), as you cannot lower your Attunement stats due to the Attunement Adept Talents.
