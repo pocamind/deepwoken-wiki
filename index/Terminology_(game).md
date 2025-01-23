@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 132025
+revid: 132395
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deepwoken]
@@ -120,12 +120,12 @@ _verb, noun_
 
 _verb_
 
-1.  To defeat a boss with invulnerability within a certain amount of its vulnerable periods.
+1.  To defeat a boss that can periodically become invulnerable within a certain amount of its vulnerable periods.
     1.  Ex. "My PVE build can one cycle Ethiron!"
 
 _noun_
 
-1.  When a usually invulnerable boss (eg. Chaser, Ethiron) becomes vulnerable for a short period of time.
+1.  When a usually invulnerable boss (e.g. Chaser, Ethiron) becomes vulnerable for a short period of time.
     1.  Ex. "This Chaser fight will probably only take us a couple cycles."
 
 ### Depths Gank/Depths Ganker
@@ -289,7 +289,7 @@ _noun_
 
 _verb_
 
-1.  To die in a manner that results in your soul sinking to The Depths. (eg. dying with a stained health bar, dying in a voidzone, etc)
+1.  To die in a manner that results in your soul sinking to The Depths. (e.g. dying with a stained health bar, dying in a voidzone, etc)
 
 ### Restore
 
@@ -301,7 +301,7 @@ _verb_
 
 _verb_
 
-1.  to descend to The Depths without dying (eg. whirlpools and Call of the Deep) allowing the player to enter Castle Light and the Chariot’s Spire.
+1.  to descend to The Depths without dying (e.g. whirlpools and Call of the Deep) allowing the player to enter Castle Light and the Chariot’s Spire.
 
 ### Stain
 
@@ -384,7 +384,7 @@ _noun_
 
 1.  Referring to the number of colored bars seen on the server details at the top of the screen, indicating good or bad ping.
     1.  Ex. "On California servers i would always get 3 bars until recently"
-2.  The number of bars on a player's health, ether, armor, and posture. (Bars are divided by the ticks at the bottom and top of the whole bar)
+2.  The number of bars on a player's health, ether, armor, or posture. (Bars are divided by the ticks at the bottom and top of the whole bar)
     1.  Ex. "I'm on 1 bar of health"
 
 ### Drip
@@ -494,7 +494,7 @@ _verb, adjective_
 
 _noun_
 
-1.  A type of build that mainly focuses on empowering their Mantras and almost solely Mantras and sometimes a [Hero Blade](Hero_Blades.md).
+1.  A type of build that mainly focuses on empowering their Mantras and uses almost solely Mantras and sometimes a [Hero Blade](Hero_Blades.md).
 
 ### Shrine
 
@@ -593,7 +593,7 @@ BMing or black-marketing is a very strictly prohibited thing, do not risk your a
 
 _noun_
 
-1.  Short form for [Curved Blade of Winds](Curved_Blade_of_Winds.md), a legendary weapon for the [Galebreathe](Galebreathe.md) Attunement
+1.  Short form for [Curved Blade of Winds](Curved_Blade_of_Winds.md), a legendary weapon for the [Galebreathe](Galebreathe.md) Attunement.
 
 ### Clog/Combat Log
 
@@ -623,7 +623,7 @@ Referring to the loading screen's tip, you can say "my bad \[name\]" to remove c
 
 _noun_
 
-1.  Short form of Damage versus Monsters. An equipment attribute that increases your damage towards monsters by percentage stated.
+1.  Short form of "Damage versus Monsters". An equipment attribute that increases your damage towards monsters by percentage stated.
     1.  Ex. "There is a possibility that a player can reach 60% DvM in a build"
 
 ### KoS
@@ -644,7 +644,7 @@ _noun_
 _noun_
 
 1.  Armor penetration.
-    1.  Ex. The Curved Blade of Wind has 15% PEN, meaning it penetrates 15% of a player's armor value.
+    1.  Ex. The Curved Blade of Winds has 15% PEN, meaning it penetrates 15% of a player's armor value.
 
 ### RA
 

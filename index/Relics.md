@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 131137
+revid: 132401
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -251,7 +251,7 @@ File:Tiran Pendant Relic.png
  | **[Tiran Pendant](Tiran_Pendant.md)** - A pendant that grants the Talent "Featherfall", which massively reduces fall damage.
 
   
-After a certain amount of damage has been negated, the pendant will go on cooldown for 10 minutes.
+After a certain amount of damage has been negated, the pendant will go on cooldown for 2 minute.
 
  | 
 

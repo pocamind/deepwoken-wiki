@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 132110
+revid: 132400
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -40,9 +40,9 @@ Chainwarden **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 Up to an amount of two times in total can these corresponding methods be applied to progress the Oath:
 
 1.  Gripping players who have Hunted or below reputation with [The Central Authority](The_Central_Authority.md) whilst having them chained.
-2.  Defeating humanoid mobs that are major enemies of the Authority. They must be chained when they die to progress the Oath.
+2.  Defeating humanoid bosses that are major enemies of the Authority. They must be chained when they die to progress the Oath.
 
-Known humanoids enemies are:
+Known humanoids bosses are:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)

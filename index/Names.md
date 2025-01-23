@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 132322
+revid: 132402
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -466,7 +466,6 @@ Listed below are all flairs available currently in-game.
 -   Michael
 -   Midir
 -   Mike
--   MlgDude1oof
 -   Minos
 -   Moash
 -   Montresor
@@ -951,7 +950,6 @@ Listed below are all flairs available currently in-game.
 -   July
 -   June
 -   Jupiter
--   Jv280s1
 -   kai
 -   Kamina
 -   Kamren
