@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 132157
+revid: 132346
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,12 +32,12 @@ The King of Etrea was famous for his exceptionally powerful [Ardour](Murmur%253A
 Meet the following requirements in any order:
 
 -   Have at least 50 points combined into Willpower and Charisma, example, 25 Willpower and 25 Charisma or 0 Willpower and 50 Charisma.
--   Have a [Resonance](Resonance.md).
 -   Have any [Murmur](Murmur.md).
 
 There are two methods from here:
 
 -   Have Hero reputation with [Etrea](Etrea.md).
+-   Have a [Resonance](Resonance.md).
 -   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god.
 -   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the Kings Ardour. (You need a murmur before doing this step)

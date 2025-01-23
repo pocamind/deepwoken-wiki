@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132296
+revid: 132376
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -708,14 +708,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Lord's Tithe cancels on victims once they drop beneath 5% Ether.
     -   Getting hit will cancel the effect entirely.
     -   Getting your block hit counts as being hit.
-    -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
+    -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude
+    -   **(Note that reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.
     -   Heal others by 3%.
     -   Heal the user by 2% + 1% for every people healed.
     -   Hold F while casting Reinforce to apply reinforce to everyone, including non allies.
     -   Only procs on allies.
-    -   Prerequisites: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
+    -   Prerequisites: Reinforce, 40 Fortitude
+    -   **(Note that reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
 
 ### Cosmic Wind
 
@@ -2817,7 +2819,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I often like to play pranks on others."**_
 
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
-    -   Somewhat misleading descriptions, it does not give 10% PEN but instead increase PEN from PEN sources by 10%. IE: if you are at 30% PEN, Cheap Shot gives 3% PEN.
+    -   Somewhat misleading descriptions, it should be "Your attacks gain a 10% PEN gain based on the current percentage of the pen, at the cost of an active speed boost."
+    -   It does not give 10% PEN but instead increase PEN from PEN sources by 10%. IE: if you are at 30% PEN, Cheap Shot gives 3% PEN.
     -   Prerequisite: 65 Agility
 
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)

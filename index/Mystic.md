@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 129534
+revid: 132344
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -60,7 +60,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _I once performed in a Circus **(Acrobat)** (Time to Go, Kick Off, Steady Footing)_
 -   _I skulk in alleyways, looking for my next prize. **(Alley Cat)** (Scaredy Cat, Endurance Runner, Conditioned Runner)_
 -   _I prefer to attack unseen. **(Assassin)** (Deep Wound, Lowstride, Lights Out, Unseen Threat) **(Note; This skill tree requires atleast one assassination done)**_
--   _Light on my feet, I sting like a bee. **(Butterfly)** (Swift Rebound) **(Note; Cannot give Risky Moves, Evasive Expert, Ghost)**_
+-   _Light on my feet, I sting like a bee. **(Butterfly)** (Swift Rebound, Ghost) **(Note; Cannot give Risky Moves, Evasive Expert)**_
 -   _I am ruthless. A knife for hire. **(Cutthroat)** (Blood Thirsty, In a Hurry, Muffled Screams)_
 -   _I am a competent duelist. **(Duelist)** (Concussive Force, Duelist's Dance, Precise Swing, Steady Nerves, Strong Hold) **(Note; Cannot give Concussion, Spine Cutter, Strong Stern, Tap Dancer)**_
 -   _I seek the qualities of Nimble Blade. **(Nimble Blade)** (Fast Blade) **(Note; Cannot give Lightspeed Reflexes)**_

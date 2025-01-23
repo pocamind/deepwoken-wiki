@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 132292
+revid: 132341
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
@@ -58,7 +58,7 @@ File:Flintlockbullets.png
 
 Flintlock user using the guns critical attack
 
-_**Stats:**_
+**Flintlocks _Stats:_**
 
 **[Silversix](Silversix.md): 10,** damage, **10** range, **13** LHT scaling, **1.17x** attack speed, 75 echoes. (0 LHT req)
 
@@ -72,15 +72,17 @@ _**Stats:**_
 
 **[Dragoon](Dragoon.md):** **16** damage, **11** range, **12** LHT scaling, **1.17x** attack speed, sold for **500** notes in summer isle. (65 LHT req)
 
+[**Rosen's Roscoe**](<Rosen's_Roscoe.md>): **16** damage, **11** range, **11** LHT scaling, **1.2x** attack speed, **20%** chip damage. Dropped by enemies. (75 LHT req)
+
+**[Iron Requiem](Iron_Requiem.md):** **21** damage, **10** range**, 3** LHT scaling + 4 Ironsing scaling, **1.17x** attack speed. Dropped by [Finnegan The Lost](Finnegan_The_Lost.md) or found in [Saramaed Hollow](Saramaed_Hollow.md). (40 LHT, 75 Ironsing req)
+
 **[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.33x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
 
-[Rosen's Roscoe](<Rosen's_Roscoe.md>): 16 damage, 11 range, 11 LHT scaling, 1.2 swing speed, 20% chip damage. Dropped by enemies. (75 LHT req)
+Note: All Flintlocks excluding the Rosen's Roscoe deal 1 posture damage, with the Rosen's Roscoe dealing 3.5 posture damage.
 
-Note: All guns excluding the Rosen's Roscoe deal 1 posture damage, with the Rosen's Roscoe dealing 3.5 posture damage.
+## Rifles
 
-## Rifle Moveset
-
-Your rifle has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles are limited to the 2 handed stance. They are all exclusively medium weapons.
+Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles are limited to the 2 handed stance. They are all exclusively medium weapons.
 
 ### Talents
 
@@ -90,26 +92,26 @@ The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Pea
 
 _**Stats:**_
 
+[**Summer Rifle:**](Summer_Rifle.md) **17** damage, **4** posture damage, **8** range, **6** MED scaling, **1x** attack speed, (1). (40 MED req)
+
 **[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 4 posture damage, **8** range, **8** MED scaling, **1x** attack speed. (75 MED req)
 
 **[Iron Blunderbuss](Iron_Blunderbuss.md): 20** damage, **5** posture damage, **8** range, **7** MED scaling, **0.97x** attack speed, **25%** base pen. (75 MED req)
 
-[**Summer Rifle:**](Summer_Rifle.md) **17** damage, **4** posture damage, **8** range, **6** MED scaling, **1x** attack speed, (1). (40 MED req)
-
 **[Stormseye:](Stormseye.md) 19.5** damage, **5** posture damage, **8** range, **3** MED scaling + **6** Thunder scaling, **1x** attack speed, (40 MED, 75 Thundercall req)
 
-**[Rosen's Hellflame:](<Rosen's_Hellflame.md>) 18** damage, **3** posture damage, **7** range, **3** MED scaling + **4** flamecharm scaling, **0.93x** attack speed. (40 MED, 75 flamecharm req)
+**[Rosen's Hellflame:](<Rosen's_Hellflame.md>) 18** damage, **3** posture damage, **7** range, **3** MED scaling + **4** flamecharm scaling, **0.93x** attack speed. (40 MED, 75 Flamecharm req)
 
 ## Trivia
 
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 Iron for 20 bullets.
     -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your guild base and [The Furnace](The_Furnace.md).
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
--   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem](Iron_Requiem.md) two rifles and a one handed gun.
+-   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem.](Iron_Requiem.md) (two rifles and one Flintlock)
+-   The [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Iron Requiem](Iron_Requiem.md) are the only guns with multiple crits.
 -   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.
 -   One handed guns are the only type of guns where having [iron bullets](Bullet_Casings.md) isn't a direct upgrade.
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip and 15% increased damage.
--   All flintlocks (pistols) have only 1 weight (posture damage)
 -   As of 3/8/2024 (m/d/y), rifles and dual pistols no longer shoot a bullet on their m1s.
 -   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In real life, this is very impractical, as the rifle's springlock and other parts can be easily damaged or even destroyed upon impact, ruining the gun.
 -   Both pistols and rifles in Deepwoken don't have recoil.
