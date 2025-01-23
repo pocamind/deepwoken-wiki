@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132376
+revid: 132427
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -107,7 +107,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisite: 5 Agility
-    -   Can stack with itself, so killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost \[Tested\]
+    -   Can stack with itself, so killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
     -   While not mentioned in the Talent description, your climb height increases when you slide jump.
@@ -174,7 +174,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
     -   Synergizes well with Aerial Assault or mantras that send the user and target in the air.
-    -   Prerequisites: 15 Strength, 25 Medium Weapon/25 Heavy Weapon/25 Light Weapon
+    -   Prerequisites: 15 Strength, 25 in any weapon stat
 
 ### Aeromancer
 
@@ -2573,7 +2573,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible. (+3 Health)
     -   Unlock requirement: Wipe with the Iron Gut Talent (can't be given by armor)
     -   Prerequisites: 20 Fortitude, 10 Willpower
-    -   Note: Allows user to eat sticks ,bamboo, wax, coral, spider eggs, all lotuses, and every ore.
+    -   Note: Allows user to eat sticks, bamboo, wax, coral, spider eggs, all lotuses, and every ore.
 
 ### Survivor
 

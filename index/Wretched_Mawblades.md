@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 131235
+revid: 132434
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide]
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded 
 
 ## Description
 
-The **Wretched Mawblades**, or "Canary Rephika & Grimlock Narsus," is a heavy greatsword Hallowtide exclusive weapon. Bought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy or from any [Blacksmith](Blacksmith.md) for 7 Knowledge if you have the [Hallowtide 2024 Medal](Seasonal_Medals.md), and can also be found in chests in the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
+The **Wretched Mawblades**, or "Canary Rephika & Grimlock Narsus," is a set of heavy dual greatswords exclusive to Hallowtide. Bought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy or from any [Blacksmith](Blacksmith.md) for 7 Knowledge if you have the [Hallowtide 2024 Medal](Seasonal_Medals.md), and can also be found in chests in the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
 
 The weapon consists of two regular blades now covered in some sort of deformed flesh with teeth running along where the blade's edge used to be. Two eyes are present near the hilt. The pommel is also replaced with teeth, and teeth are, ironically, also present on the guard, giving the appearance of a mouth. In combination with the eyes, each blade's grip forms a screaming face to mirror the two souls trapped inside.
 

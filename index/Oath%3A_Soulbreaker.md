@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 132398
+revid: 132419
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -127,3 +127,5 @@ January 11th 2025
 ## Trivia
 
 -   Despite the obtainment being related to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) does not give an option to swear the oath.
+-   Currently, this is one of four Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), [Saintsworn](Oath%253A_Saintsworn.md), and [Chainwarden](Oath%253A_Chainwarden.md))
+    -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.

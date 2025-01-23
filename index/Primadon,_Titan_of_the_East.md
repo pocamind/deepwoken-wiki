@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 131158
+revid: 132453
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -101,7 +101,7 @@ Danger:(★☆☆)
 If the enemy is above his waist, he will instead swat away the enemy, dealing an incredibly hard to react punch version of the kick.
 
 Parryable:✗  
-Blockable:✗  
+Blockable:◯  
 Dodgeable:◯  
 Danger:(★★☆)
 

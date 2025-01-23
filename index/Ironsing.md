@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 131411
+revid: 132437
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -457,7 +457,7 @@ You don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is re
 
  | 
 
-Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you get hit by an attack that deals bleed damage is now **light grey**.
+Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you get hit by an attack that deals bleed damage is now **light grey**. Turns Bloodrend mantras blue-ish grey.
 
  |
 | 

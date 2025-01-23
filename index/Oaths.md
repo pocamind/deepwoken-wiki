@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 132297
+revid: 132449
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -16,9 +16,9 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 _**"Oaths"** are viewpoints and beliefs that a character vows to live by until the day they fall._ They chiefly serve to further define the player character's potential, personality, and story- providing a progressable set of abilities alongside a set of rules or actions to swear under. Oaths, just like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are classified as unique [Talent Cards](Talents.md) that players obtain only through meeting certain requirements.
 
-**Due to the unique nature of swearing an Oath, only one can be wielded at once.** It is possible to break an Oath with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but... "_it's called an Oath for a reason._" Heed the consequences that come with being an Oathbreaker.
+**Due to the unique nature of swearing an Oath, only one can be wielded at once.** It is possible to break an Oath with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but "_it's called an Oath for a reason._" Heed the consequences that come with being an Oathbreaker.
 
-Every character begins as a simple Pathfinder, meaning they are without an Oath (but not devoted to being Oathless). Being a Pathfinder offers no real advantages, but it _may_ protect you from others who need Oath Kills for their progression, such as Linkstriders or Contractors, however, don't rely on it.
+Every character begins as a simple Pathfinder, meaning they are without an Oath, but not devoted to being Oathless. Being a Pathfinder offers no real advantages, but it _may_ protect you from others who need Oath Kills for their progression, such as Linkstriders or Contractors, however, don't rely on it.
 
 All **Oath Damage** is a separate damage type that is only affected by Oathless or general defense modifiers, such as Reinforce or Ardour Scream.
 
@@ -142,6 +142,7 @@ Upon breaking an Oath, unique effects will occur:
 -   [Arcwarder](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
     -   You lose some reputation with [The Ignition Union](The_Ignition_Union.md).
     -   Upon talking to Delta he'll say "You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an _Oath_ for a reason, mate."
+        -   This Oath cannot be reobtained if broken
 -   [Bladeharper](Oath%253A_Bladeharper.md): The Blade Within - "Was this not the future we sought? Perhaps not."
 -   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
 -   [Contractor](Oath%253A_Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
@@ -149,7 +150,7 @@ Upon breaking an Oath, unique effects will occur:
     -   Will get instantly gripped if by chance you stumble into the courtroom of the Lord Regent, meaning it cannot be reobtained.
     -   You are regranted access to Castle Light.
 -   [Chainwarden](Oath%253A_Chainwarden.md): [Vice Warden Morredh](Vice_Warden_Morredh.md) - "Another deserter? You're pathetic."
-    -   You cannot reobtain this oath after breaking it.
+    -   You cannot reobtain this oath after breaking it, as the Vice Warden will insult you upon interaction
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
     -   You can regain the Oath again after breaking it. However, the price will be 60 [Medallions](Kyrsan_Medallions.md) instead of 30.
@@ -224,8 +225,10 @@ Proof of Time Magic's existence and it being an "Oath"
     -   Jetstriker gives the user Silver eyes.
     -   Dawnwalker gives the user White eyes.
     -   Contractor gives the user Dark Maroon eyes.
-    -   Silentheart gives a darker and duller shade of the user's current eye color.
+    -   Silentheart gives a darker and duller shade of the player's current eye color.
 -   In the [Battle Royale](Battle_Royale.md) gamemode, Oaths can be obtained by collecting Oath Shards from chests.
     -   It takes 3 shards to obtain the Oath, and one for each subsequent Talent.
 -   [_Oathless_](Oath%253A_Oathless.md) Does not take 10 [Knowledge](Knowledge.md) when skipped, instead grants the _Oath_ immediately.
     -   This is only after uptraining _Oathless_ once.
+-   Currently, There are four Oaths where you cannot skip progression with knowledge, Those oaths being [Chainwarden](Oath%253A_Chainwarden.md), [Bladeharper](Oath%253A_Bladeharper.md), [Saintsworn](Oath%253A_Saintsworn.md), and [Soulbreaker](Oath%253A_Soulbreaker.md)
+    -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.

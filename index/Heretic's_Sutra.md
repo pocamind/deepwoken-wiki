@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Sutra"
-revid: 131875
+revid: 132452
 source: https://deepwoken.fandom.com/wiki/Heretic's_Sutra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ File:Heretic's sutra card.png
 
 **Obtainment:**
 
-It's obtainment involves 80 Willpower and Tier 1 [Insanity](Insanity.md) (Please note that this can be obtained at any time, you are not required to have the insanity when getting Heretic's) by which you would then head to Layer 2 by either void or by Klaris, and you would then locate [Kasen](Kasen.md). You can watch this video here for a tutorial on how to get it:
+It's obtainment involves 80 Willpower and Tier 1 [Insanity](Insanity.md) by which you would then head to Layer 2 by either void or by Klaris, and you would then locate [Kasen](Kasen.md). You can watch this video here for a tutorial on how to get it:
 
 [https://www.youtube.com/watch?v=uVUnkoyqOHo](https://www.youtube.com/watch?v=uVUnkoyqOHo)
 

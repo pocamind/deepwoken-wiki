@@ -1,6 +1,6 @@
 ---
 title: Charged Ring
-revid: 132164
+revid: 132439
 source: https://deepwoken.fandom.com/wiki/Charged_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -32,6 +32,6 @@ The model seems to be the same as a [Ferryman's Ring](<Ferryman's_Ring.md>) but 
 
 ## Trivia
 
--   It is suspected that the Charged Ring is the rarest obtainable piece of equipment, surpassing golden swordfish, dormant splinter, or even whistling periapt in rarity. This is false. The Charged Ring is more rare than some other equipment and rings by a substantial amount but is not rare as some may suspect. At one point it was extremely rare due to a bug. This equipment is difficult to obtain because it specifically drops from [Fishing](Fishing.md) with an **extremely** low drop rate (as all things you get from fishing) or [Primadon](Primadon,_Titan_of_the_East.md).
+-   Charged Ring is very rare, however not as rare as a [Bloodforged Crown](Bloodforged_Crown.md). At one point it was extremely rare due to a bug. This equipment is difficult to obtain because it specifically drops from [Fishing](Fishing.md) with an **extremely** low drop rate (as all things you get from fishing) or [Primadon](Primadon,_Titan_of_the_East.md).
 
--   The largest Deepwoken YouTuber ["Agamatsu"](https://www.youtube.com/@Agamatsu) covered the Charged Ring in a video[⧉](https://www.youtube.com/watch?v=zes_HpfNUws), talking about how rare it is. Contrary belief of this equipment being rare is assumed to mainly be sourced from this media as [Agamatsu](https://www.youtube.com/@Agamatsu) has a big sway on public opinion. Remember, this specific equipment piece is still quite rare, just not as rare as some may think or believe.
+-   Popular Deepwoken YouTuber ["Agamatsu"](https://www.youtube.com/@Agamatsu) covered the Charged Ring in a video[⧉](https://www.youtube.com/watch?v=zes_HpfNUws), talking about how rare it is. Contrary belief of this equipment being rare is assumed to mainly be sourced from this media as [Agamatsu](https://www.youtube.com/@Agamatsu) has a big sway on public opinion. Remember, this specific equipment piece is still quite rare, just not as rare as some may think or believe.

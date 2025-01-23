@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 132341
+revid: 132424
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
@@ -42,7 +42,7 @@ The amount of bullets you can load into a gun depends on the type you are using.
 
 Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw)
 
-The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and it's alloyed variant, and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
+The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and it's alloyed variant, [Iron Requiem](Iron_Requiem.md) and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
 
 If you use a side gun without a main gun, your side gun damage is reduced by 20%.
 

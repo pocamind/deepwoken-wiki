@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 129391
+revid: 132443
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, Weapons with Unique Criticals]
@@ -30,7 +30,7 @@ File:Fork in use.png
 
 ## Description
 
-The Long Tong of The Law is a Greatsword obtained from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest, Despite being labeled as a greatsword and being a heavy weapon, It has the animations of a spear and the same Critical attack of the Kyrscleave/Crescent cleaver
+The Long Tong of The Law is a Greatsword obtained from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest, Despite being labeled as a greatsword and being a heavy weapon, It has the animations of a spear and the same Critical attack as the [Kyrscleave](Kyrscleave.md) and [Crescent Cleaver](Crescent_Cleaver.md)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 128133
+revid: 132421
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -223,7 +223,7 @@ _**(Added back recently, though may be removed in the future.)**_
 
 `Kick`\- Lightning _**(Thunder Kick.)**_
 
-`Dagger`_\-_ Lightning _**(Fleeting Sparks)**_
+`Dagger`_\-_ Lightning / Ice _**(Fleeting Sparks, ice dagger)**_
 
 `Forge-` Blood _**(Blood Orb)**_
 

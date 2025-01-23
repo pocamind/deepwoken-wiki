@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 132327
+revid: 132413
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -766,7 +766,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
     -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.
 -   Astral previously required having met a [Wishmaker](Developer_Specs.md#iltria-leafre-spellhardt-retired) to obtain the enchant.
 -   Most, if not all curses emit sound when equipped, with some being louder than others
--   Unbidden has weird PvE interactions. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
+-   Curse of the Unbidden has weird PvE interactions. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
 -   In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot.
 -   Despite being a medium weapon with fist m1's Purple Cloud counts as a gun for procing enchants (chilling is tested others not)
 -   Blazing can NOT be used to ignite campfires that are unlit by m1's.

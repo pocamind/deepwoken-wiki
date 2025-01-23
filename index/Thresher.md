@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 131066
+revid: 132415
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -95,3 +95,4 @@ Dodgeable:◯
 -   Prior to 10/1/2023, the Thresher Spine item had no description, making it the only monster drop not to have one.
 -   Originally, no Thresher could swim. If they ended up in the sea they would sink and despawn.
 -   Threshers are very hostile towards Desert Knights, so if you need to get Threshers off of you, lure them to a Desert Knight.
+-   There is a unique version of the Thresher known as the Void Thresher, which is the same as the normal variant, just with less health and a more grayscale color scheme as well as white cracks along its body

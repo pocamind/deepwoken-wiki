@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 132402
+revid: 132411
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -17,7 +17,7 @@ Your Name is one of the many ways to choose how you appear in-game to yourself a
 -   Your name consists of a First name, Last name and Title, The Latter of which is only assigned to players under exceptional circumstances such as winning Community Events or as a reward to Moderators and Testers.
 
 -   First names may be chosen from 3 pools of Masculine, Feminine and Neutral choices.
--   Last names are exclusive to each [Aspect](Aspects.md)
+-   Last names are exclusive to each [Aspect](Aspects.md).
 
 ## Flairs
 

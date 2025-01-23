@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 132334
+revid: 132425
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -57,7 +57,7 @@ Dodgeable:◯
 **Sudden Ambush**  
 ★
 
- | When far enough from the Doom Serpent[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity. Keep in mind that Mobs and NPCs may aggro the Doom Serpent in ambush range to cause this. Auto-grips.
+ | When far enough from the Doom Serpent[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity, instantly killing them. Keep in mind that Mobs and NPCs may aggro the Doom Serpent in ambush range to cause this. Auto-grips.
 
 -   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
 
@@ -129,7 +129,7 @@ Dodgeable:✗
 -   Be cautious when using boats to attack the Doom; when it dives, it will Sudden Ambush on the closest area with a large player count. If none are found it will instead strike the closest boat. The move can also target NPCs. Staying on top of where Caeranthil's submerged itself often leads it to reemerge on other players or use Pressure Eruption instead.
 -   When doing this with other players, it might be helpful to keep a couple of boats manned so you can hop on and chase it or get some speed to avoid its Sudden Ambush or Pressure Eruptions. Take turns piloting the boat if need be. If you do not have an Ironclad, immediately turn to the wind direction and/or angle your sails to match the wind. **However** **this will cause the Caeranthil to use it's Dive move often**, use this strategy only if other players are already doing so.
 -   Have some mobility mantras on hand, and max their range with modifiers if you can afford the ether cost. [Ice skates](Frostdraw.md) is an excellent mantra to have for this fight, being able to save losing hunger from swimming for extended periods of time. Keep in mind that sometimes [Jet Kick](Oath%253A_Jetstriker.md) might not work, and you'll likely hit the Caeranthil's hitbox instead of moving forward.
--   Sudden Ambush and Luminant Beam are one-shot moves. Keep a close eye for when it dives and do everything to avoid the ambush. Payback can tank the Sudden ambush move, but it’s unable to hit the serpent with it. Although the [Tidekeeper](Celtorian_Tideknight.md) can't, Mythic stability can save you from the one-shot moves.
+-   Sudden Ambush and Luminant Beam are one-shot moves. Keep a close eye for when it dives and do everything to avoid the ambush. The [Payback](Payback.md) resonance can tank the Sudden ambush move, but it’s unable to hit the serpent with it. Although the [Tidekeeper](Celtorian_Tideknight.md) can't, Mythic stability can save you from the one-shot moves.
 -   The best duo of talents that can save you when you fighting The Doom of Caeranthil is Mythic Stability paired with Scuba Drowner. You can tank the instant kill/grip moves and Scuba Drowner will keep you from dying after Mythic Stability procs while you're knocked in water. But be careful, as both Mythic Stability (true) and Scuba Drowner (probably) have a 1 minute cooldown.
 
 ## Loot Table/Rewards
