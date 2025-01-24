@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 117455
+revid: 132546
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Central Authority]
@@ -32,7 +32,7 @@ It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that 
 
 ### Prison
 
--   Players can find [Brutus](Brutus.md) here, a [Legion](The_Hundred_Legions.md) soldier, as well as the [Shrine of Chance](Deep_Shrines.md).
+-   Players can find [Brutus](Brutus.md) here, a [Legion](The_Hundred_Legions.md) soldier.
 -   Heavily patrolled by [Authority Peacekeepers](Authority_Peacekeeper.md).
 -   The [Authority Commander](<Authority_Commander_(Enemy).md>) can be found in an office in the prison.
 -   Potential to find [Etrean Guardsmen](Etrean_Guardsmen.md) hostages and [Navaen Nomad](Navaen_Hostage.md) hostages.

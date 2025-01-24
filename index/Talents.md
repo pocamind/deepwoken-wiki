@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132427
+revid: 132525
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2820,7 +2820,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
     -   Somewhat misleading descriptions, it should be "Your attacks gain a 10% PEN gain based on the current percentage of the pen, at the cost of an active speed boost."
-    -   It does not give 10% PEN but instead increase PEN from PEN sources by 10%. IE: if you are at 30% PEN, Cheap Shot gives 3% PEN.
+    -   It does not give 10% PEN, but instead it multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot gives 3% PEN. This can bypass the 50% PEN cap.
     -   Prerequisite: 65 Agility
 
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)

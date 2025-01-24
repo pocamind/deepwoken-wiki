@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 124930
+revid: 132545
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 As of September 4th, 2022, there are new server names. These include Executioner, Fence, Squire, and Vainglorious.
 
-**Servers** are the way to join Deepwoken. They are comprised of a random adjective and a random noun from the list below. The Etrean Luminant can host 20 people, the Eastern Luminant 18, and [The Depths](The_Depths.md) 16.
+**Servers** are the way to join Deepwoken. They are comprised of a random adjective and a random noun from the list below. The Etrean Luminant can host 20 people, the Eastern Luminant 24, and [The Depths](The_Depths.md) 16.
 
 Servers in [The Depths](The_Depths.md) will look different if Hell Mode is currently active. The border will be red instead of the usual white, indicating Hell Mode.
 
