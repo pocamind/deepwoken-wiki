@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 131645
+revid: 132460
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -29,7 +29,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Shadowcast level 30, players will receive the _Expert Shadowcaster_ Talent. This allows players to unlock 2-star Shadowcast Mantras
 -   Finally, at Shadowcast level 50, players will receive the _Master Shadowcaster_ Talent. This finally allows Shadowcast users to unlock the last category, 3-star Mantras
 
-The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [The City of the Drowned](The_City_of_the_Drowned.md), using 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. Shadowcast is unlocked permanently like other elements and can be started with after being unlocked. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
+The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [The City of the Drowned](The_City_of_the_Drowned.md), using 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. You don't have to venture back into the depths to upgrade it, however, [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She can upgrade your mantras but not give you Shadowcast. Shadowcast is unlocked permanently like other elements and can be started with after being unlocked. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
 
 -   To upgrade a Shadowcast Mantra from level 1 to level 2 costs.
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
@@ -329,7 +329,7 @@ Shadow Assault
 
  | 
 
-Shadestep  
+Shade Step  
 (★★☆)
 
  | Submerge into your shadow. Click to launch an attack at any point while submerged. | 30 Ether | Shadow (?) | Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards.

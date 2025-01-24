@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 127452
+revid: 132473
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -10,7 +10,7 @@ categories: [NPCs, Mechanics]
 
 | Shrine of Chance | |
 |---|---|
-| location | Temple of Hearts, Fort Merit |
+| location | Temple of Hearts, Meteor Isle |
 
 “ PUPPET. STATE YOUR PURPOSE. ”
 
@@ -20,7 +20,7 @@ categories: [NPCs, Mechanics]
 
 ## Description
 
-Located in the [Fort Merit](../Fort_Merit.md) Prison (through the tunnel in Brutus' cell).
+Located in the [Meteor Isle](../Fort_Merit.md) cave (with the crashed meteor).
 
 When using this shrine, please make sure to **check if you burned the card you're trying to get** or **check if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 5 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
 

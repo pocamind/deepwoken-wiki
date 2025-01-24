@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 131913
+revid: 132457
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -100,6 +100,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     -   Altitude travelled decreases significantly as the user loses health.
     -   Drops carried players/NPCs when used.
     -   Fall damage is taken if the user gets high enough.
+    -   It doesn't seem to scale depending on level, not granting anymore height from a Level 1 Strong Leap to a Level 5 Strong Leap
 
  |
 | 

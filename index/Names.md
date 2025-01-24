@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 132411
+revid: 132467
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -493,6 +493,7 @@ Listed below are all flairs available currently in-game.
 -   Oda
 -   Odin
 -   Ogma
+-   Ohma
 -   Ogrim
 -   Oki
 -   Olie
@@ -1875,6 +1876,7 @@ Listed below are all flairs available currently in-game.
 -   The name "Crona" might be a reference to Crona from [Soul Eater](https://souleater.fandom.com/wiki/Crona).
 -   The name "Alyx" is a reference to [Alyx Vance](https://half-life.fandom.com/wiki/Alyx_Vance) from the Half-life series
 -   The names "Teshin", "Incarnon", and "Lotus" are references to [Warframe](https://www.warframe.com).
+-   The name "Ohma" might be a reference to Ohma Tokita from Kengan Asura.
 
 ## References
 
