@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 128165
+revid: 132575
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Summer Company, Summer Company Enemies]
@@ -75,6 +75,7 @@ Summer Dragoons are higher ranking members of the [Summer Company](The_Summer_Co
 
 -   Arch\_Mage once stated that NPCS with rifles weren't coded as an explanation for why [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) didn't use a [Stormseye](Stormseye.md), however this was false given the existence of this NPC.[\[1\]](#cite-note-1)
 -   or more likely that they just used sword m1s like the ministry agent before Npcs we able to use rapiers but we will never know as this enemy is rare as all hell
+-   Despite their existence in game as [Ambush NPCs](Faction_Ambushes.md), there are no Summer Dragoon NPCs that can be interacted at Summer Isle unlike the Ignition Deepdelvers that can be interacted with in [Miner's Landing](<Miner's_Landing.md>) as they are absent.
 
 ## References
 

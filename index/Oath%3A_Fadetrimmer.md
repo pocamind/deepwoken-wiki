@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 132114
+revid: 132569
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -21,9 +21,9 @@ categories: [Oaths]
 
 **[Oath](Oaths.md): Fadetrimmer** is one of the 16 obtainable Oaths in _Deepwoken._ It's a utility Oath that grants you the abilities of a [barber](Barber.md).
 
-“ Whatever, man. ”
+“ Your Scissors upon an Oathbreak. ”
 
-― Your Scissors Upon Betrayal (Oathbreak)
+― Whatever, man.
 
 Fadetrimmer is a enigmatic oath taken by all barbers in order to morph the physical appearance of their customers. By taking this oath, you are given a pair of seemingly sentient scissors as you and your new companion set out to fix the direst of hairlines and trims.
 

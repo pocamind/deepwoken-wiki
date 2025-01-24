@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 132067
+revid: 132578
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -142,6 +142,9 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
 -   [Enchant Stones & Greases](Enchantments.md)
 
  |
+
+  
+Additionally, the player will receive a significant amount of experience, [attribute training](Attributes.md) and resonance progress.
 
 ## Strategies
 
