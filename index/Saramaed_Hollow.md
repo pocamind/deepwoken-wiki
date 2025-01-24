@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 132169
+revid: 132588
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -169,7 +169,7 @@ Loot is based on the type of mob you kill. Some of the loot confirmed to drop fr
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
     <li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Only after 1.2km)</li>
     <li><a href="Mantra_Modifiers.md#regular">Mantra Modifiers</a></li>
-    <li>Every ore but Umbrite and Iron</li>
+    <li>Every ore but Rock and Iron</li>
   </ul></td>
   <td>
   <ul>
@@ -189,7 +189,7 @@ More loot will appear if bringing more players, but naturally, this will also re
 
 Relics and enchant stones can drop from any chest at any floor.
 
-Floors at 1.70km or lower have a higher chance at rarer loot, no matter the mobs.
+Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Threshers](Thresher.md) Spawn.
 
 ## **Tips**
 
@@ -214,6 +214,6 @@ Floors at 1.70km or lower have a higher chance at rarer loot, no matter the mobs
     -   Uncommonly, there may also be a floor that requires you to kill just two threshers in exchange for amazing loot.
 -   The cave paintings show that civilization has once been here long before the Union have.
     -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast. (Possibly a Meglodaunt?)
-    -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
+    -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking( Possibly a **[Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>)?)**.
 
--   Saramaed Hollow is in the same "place" as [Layer 2](Second_Layer.md), just with different locations.
+-   Saramaed Hollow is in the same "place" as [Layer 2](Second_Layer.md), just with different locations( Maybe at 2,00km the drill have reach the barrier of The Third Layer So It can go down anymore).

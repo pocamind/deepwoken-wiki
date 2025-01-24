@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 132395
+revid: 132596
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deepwoken]
@@ -31,6 +31,19 @@ The point of the term is that it makes the assumption that the player being talk
 _noun_
 
 1.  A shortened version of "[Chime of Conflict](Chime_of_Conflict.md)".
+
+### Comp
+
+_adjective_
+
+1.  (Competitive) A very good, very **comp**etitively viable build, Talent or other ability; meta.
+    1.  Ex. "Is Twister Kicks comp?"
+2.  A PvP/competitively focused guild.
+    1.  Ex. "Yo guys join my comp guild"
+
+_noun_
+
+1.  Competitive play (PvP, chime).
 
 ### Freshie
 
@@ -115,6 +128,10 @@ _verb, noun_
 
 1.  Abilities/moves that allow the user to retaliate and not take damage without the use of blocking, parrying or dodging.
     1.  Ex. the following mantras, Prediction, Punishment, and Equalizer are all **Counters**.
+2.  (Counterplay) Is an effective strategy against in combat.
+    1.  Ex. "What counters Jetstrikers?"
+
+Not to be confused with the Full Counter Resonance.
 
 ### Cycle/\[n\] Cycle
 
@@ -334,6 +351,12 @@ _verb_
 _adjective_
 
 1.  A special variant of a resonance which is rare to get. Corrupted resonances are stronger than their normal variant but give a debuff upon activation.
+
+### Full Counter/Counter
+
+_noun_
+
+1.  Nickname for the [Payback](Payback.md) resonance.
 
 ### Kamui
 

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 132375
+revid: 132580
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -167,27 +167,27 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 </tr>
 <tr>
   <td colspan="10"><u>Tools</u> - Weight: None<br>
-  2nd place in the inventory. Consist of usable items like Campfires, Fishing Rods, Gliders, harvesting tools, guild tools or Hunter's Brace.</td>
+  2nd place in the inventory. Consists of usable items like Campfires, Fishing Rods, Gliders, harvesting tools, guild tools or Hunter's Brace.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Training Gear</u> - Weight: None<br>
-  3rd place in the inventory. Consist of items that train your character's <a href="Attributes.md">attributes</a>.</td>
+  3rd place in the inventory. Consists of items that train your character's <a href="Attributes.md">attributes</a>.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Equipment</u> - Weight: 2<br>
-  4th place in the inventory. Consist of equippable armor and clothing pieces if you meet the reqirement.</td>
+  4th place in the inventory. Consists of equippable armor and clothing pieces if you meet the reqirements.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Weapons</u> - Weight: 2<br>
-  5th place in the inventory. Consist of equippable weapons and off-hand items if you meet the reqirement.</td>
+  5th place in the inventory. Consists of equippable weapons and off-hand items if you meet the reqirements.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Schematics</u> - Weight: 1<br>
-  6th place in the inventory. Consist of blueprints you can turn in at blacksmiths to craft them. The <a href="Gliders.md">Glider</a> Schematic has no weight.</td>
+  6th place in the inventory. Consists of blueprints you can turn in at blacksmiths to craft them. The <a href="Gliders.md">Glider</a> Schematic has no weight.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Quest Items</u> - Weight: None<br>
-  7th place in the inventory. Consist of items that interact with certain <a href="Quests.md">quests</a>.</td>
+  7th place in the inventory. Consists of items that interact with certain <a href="Quests.md">quests</a>.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Consumables</u> - Weight: Varies<br>
@@ -195,15 +195,15 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 </tr>
 <tr>
   <td colspan="10"><u>Relics</u> - Weight: None<br>
-  9th place in the Inventory. Consists of Mythical Items that can rewrite fate, such as alloys that can enhance items, to books, parchment and idols that can change your resonance and knowledge.</td>
+  9th place in the Inventory. Consists of Mythical Items that can rewrite fate, such as alloys that can enhance or even Enchant items, to books, parchment or idols that can change or enhance your resonance or knowledge.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Materials</u> - Weight: Varies<br>
-  10th place in the inventory. Consist of materials from foraging or chests that are used for crafting and or alchemy. Also consists of Mantra modifiers, ingredients that are used to further enhance Mantras, such as increasing their size or range.</td>
+  10th place in the inventory. Consists of materials from foraging or chests used for crafting and/or alchemy. It also consists of Mantra modifiers, ingredients that are used to further enhance Mantras, such as increasing their size or range.</td>
 </tr>
 <tr>
   <th>Carrying Capacity</th>
-  <td colspan="8"><i>Carrying Capacity,</i> also known as <a href="Carry_Load.md">Carry Load</a>, dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely have items. <i>You may check an item's weight by hovering over the item in your inventory and seeing the number held in the small blue box in the corner. Hovering over the item may also give you a description along with a number of how many notes it'll sell for at a vendor.</i><p><br>
+  <td colspan="8"><i>Carrying Capacity,</i> also known as <a href="Carry_Load.md">Carry Load</a>, dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely have items. <i>You may check an item's weight by hovering over the item in your inventory and seeing the number held in the small blue box in the corner. Hovering over the item may also give you a description along with how many notes it'll sell for at an <a href="Antiquarian.md">Antiquarian</a>.</i><p><br>
   There exists a soft cap, which is the listed capacity in digits on the right in your inventory. You may carry more items beyond that amount, reaching the hard cap.</p>
   <p>There then exists a hard cap, upon reaching the cap; your carrying capacity will be colored red. Detailed when you try to carry more items than you're currently capable of. Eventually, your character will be unable to hold onto any more items, and enough items must be dropped to make room to pick up another. The closer you get to the hard cap, the slower your movement will be.</p>
   <ul>

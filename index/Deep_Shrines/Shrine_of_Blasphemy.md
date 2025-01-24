@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 127450
+revid: 132586
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -8,7 +8,7 @@ categories: [NPCs, Mechanics]
 
 # Deep Shrines/Shrine of Blasphemy
 
-| Shrine of Blashphemy | |
+| Shrine of Blasphemy | |
 |---|---|
 | location | Temple of Hearts, Hidden Village |
 

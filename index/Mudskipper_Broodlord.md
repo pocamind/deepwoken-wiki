@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 130153
+revid: 132584
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -20,7 +20,7 @@ Template:Creature Infobox V3
 
 A far more powerful and dangerous variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear more intelligent, capable of using their fellow Mudskippers as tools, and are distinguished from their weaker counterparts by their purple hue.
 
-**They inflict heavy anti-heal** similar to the Talent "All the Dead Gods" whenever an enemy is in combat with them, making them incredibly threatening in horde situations such as [Hell Mode](Hell_Mode.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+**They inflict heavy anti-heal** similar to the Talent "All the Dead Gods" whenever an enemy is in combat with them, making them incredibly threatening in horde situations such as [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), or [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 132415
+revid: 132583
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -70,9 +70,7 @@ Dodgeable:◯
 
 ## Finisher
 
-| Name | Description |
-| --- | --- |
-| Rip & Tear | Holds the player in its mouth, then aggressively shakes its head for 4 seconds to brutally rip their limbs apart. |
+The Thresher picks up the target with its mouth and violently shakes its head and then eats them.
 
 ## Passives
 
