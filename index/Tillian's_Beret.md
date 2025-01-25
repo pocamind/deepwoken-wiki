@@ -1,9 +1,9 @@
 ---
 title: "Tillian's Beret"
-revid: 126774
+revid: 132731
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, World Event, Head, Hats]
+categories: [Pages with broken file links, Equipment, World Event, Head, Hats]
 ---
 
 # Tillian's Beret
@@ -33,3 +33,4 @@ Tillian's Beret is a head equipment obtained from the [Carnival of Hearts](Carni
 
 -   Worn by Tillian
 -   Until 12/29/2024, the item cannot be sold due to a bug that made Unique rarity items unsellable.
+-   Godroll Tillian's Beret has 32 hp. Happy hunting/rerolling, folks! File:Screenshot 2025-01-25 111749.png

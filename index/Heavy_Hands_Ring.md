@@ -1,6 +1,6 @@
 ---
 title: Heavy Hands Ring
-revid: 124679
+revid: 132690
 source: https://deepwoken.fandom.com/wiki/Heavy_Hands_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -26,4 +26,4 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Akira's Ring** is a Ring [Equipment](Equipment.md) piece that grants the user +30% posture damage and -10% swing speed on "M1" attacks.
+**The heavy hands ring** is a Ring [Equipment](Equipment.md) piece that grants the user +30% posture damage and -10% swing speed on "M1" attacks.

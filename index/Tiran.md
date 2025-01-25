@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 130063
+revid: 132725
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Character]
@@ -54,7 +54,7 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
 **Strengths:**
 
--   +2 Agility.
+-   +3 Agility.
 -   +2 Willpower.
 -   Reduced fall damage.
     -   Reduces impact of [High Velocity](Echoes.md#modifiers).

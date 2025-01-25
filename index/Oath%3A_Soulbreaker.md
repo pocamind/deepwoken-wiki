@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 132683
+revid: 132770
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,7 +29,7 @@ The King of Etrea was famous for his exceptionally powerful [Ardour](Murmur%253A
 
 ## Obtainment
 
-Meet the following requirements in any order:
+Meet the following requirements, which is required for either method:
 
 -   Have at least 50 points combined into Willpower and Charisma, example, 25 Willpower and 25 Charisma or 0 Willpower and 50 Charisma.
 -   Have any [Murmur](Murmur.md).
@@ -40,22 +40,21 @@ There are two methods from here:
 -   Have a [Resonance](Resonance.md).
 -   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god.
--   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the Kings Ardour. (You need a murmur before doing this step)
+-   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the Kings Ardour.
 
 Once **all** requires are met, head over to the [Temple of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 -   Choose the dialogue "For now I am one, but I wish to be three."
-    -   Although engaging with the dialogue requires a Yun'Shul wish, it does not consume one; and an [Idol of Y](<Idol_of_Yun'Shul.md>)_[un'Shul](<Idol_of_Yun'Shul.md>) does not give you the option to obtain the oath._
-    
+    -   Although engaging with the dialogue requires a Yun'Shul wish, it does not consume one; and an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) does not give you the option to obtain the Oath.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/DC24CSyYN98)._
 
 Or:
 
--   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ish](Duke_Ishamon_Erisia.md)[amon](Duke_Ishamon_Erisia.md) [Erisia](Duke_Ishamon_Erisia.md).
+-   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
 -   Use a [Sinner's Ash](<Sinner's_Ash.md>) before you get teleported out of the dungeon. Doing this with a [Resonance](Resonance.md) will not corrupt it, but will still consume the Sinner's Ash.
 
-This will bypass all other requirements and grant the Oath.
+This will bypass all other requirements specific to the first method and grant the Oath.
 
 ## Progression
 

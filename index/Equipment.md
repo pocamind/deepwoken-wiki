@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 131520
+revid: 132692
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -4419,6 +4419,27 @@ Found from:
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
+| File:Fauld of enmity.png | 
+
+[Fauld of Enmity](Fauld_of_Enmity.md)
+
+(**Unique**)
+
+ | 
+
++1 Rare Pip
+
++2 Legendary Pips
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Heart of Enmity](Heart_of_Enmity.md)
+
+ | N/A |
 | File:Onyx Fleet Warden Cape.png | 
 
 [Fleet Warden Cape](Fleet_Warden_Cape.md)
@@ -4728,6 +4749,27 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**100%**)
 
  | Red, Black, Midnight & White |
+| File:Threadwork kilt.png | 
+
+Threadwork Kilt
+
+ | 
+
+_+1 Posture_
+
+_+20 Carry Load_
+
++1 Rare Pip
+
+**Requires Power 5**
+
+ | 
+
+Found from:
+
+-   [Carnival of Hearts](Carnival_of_Hearts.md)
+
+ | N/A |
 | File:Varicosa Medallion.png | 
 
 [Varicosa Medallion](Varicosa_Medallion.md)

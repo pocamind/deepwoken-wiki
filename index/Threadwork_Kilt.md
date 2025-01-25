@@ -1,27 +1,32 @@
 ---
 title: Threadwork Kilt
-revid: 132685
+revid: 132709
 source: https://deepwoken.fandom.com/wiki/Threadwork_Kilt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Items, Torso]
 ---
 
 # Threadwork Kilt
 
-| Threadwork kilt | |
+| Threadwork Kilt | |
 |---|---|
-| type | Unkown |
-| rarity | Unkown |
+| type | Torso |
+| rarity | Uncommon |
 | selling price | Unkown |
-| requirements | Unkown |
-| innate stats | Unkown |
-| innate talent | Unkown |
+| requirements | PWR 5 |
+| weight | 0.5 |
+| innate stats | +1 Posture, +20 Carry Load, +1 Rare Pip |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
-| obtainment | Unkown |
-| description | Unkown |
+| obtainment | Carnival of Hearts |
+| description | ... |
 
-## Threadwork Kilt
+## Description
 
-obtained from maybe [interluminary parasol](Interluminary_Parasol.md)
+The Threadwork Kilt is an [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants you 1 Posture, 20 Carry Load, and 1 Rare Pip.
+
+## Trivia
+
+-   This item, along with [Fauld of Enmity](Fauld_of_Enmity.md) are the first "waist" equipment added to Deepwoken.

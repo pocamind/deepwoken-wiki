@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 132620
+revid: 132767
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals]
@@ -36,7 +36,7 @@ The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from [T
 
 After a short windup, the user spins the Enforcer's Hammer in a circle around themselves. This critical applies hyperarmor to the user for its full duration. This critical also instantly guardbreaks. Moreover, this critical is also shared with [Enforcer's Axe](<Enforcer's_Axe.md>), as well as the [Enforcer's Blade](<Enforcer's_Blade.md>), meaning that it deals slash damage instead of blunt damage. This critical does around half the damage of a basic attack per hit.
 
-## Notes & Trivia
+## Trivia
 
 -   Rare drop from the [Enforcer](Enforcer.md).
 -   Used to share having the highest posture damage in the game with the [Stoneheart](Stoneheart.md). Both have been dethroned by the [Chorus of Agonies](Chorus_of_Agonies.md) and it's 15 posture damage.

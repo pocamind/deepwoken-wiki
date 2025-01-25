@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 132459
+revid: 132702
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -303,7 +303,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
 
 Potions are given two-word names based on their most powerful effect, and the strength of that effect. The exact mechanism behind this system is still unknown.
 
-Potions (almost) always have multiple different effects, but the potion's most powerful effect is shown by the prefix (first word) of their name. For example, all _Invigorating_ potions will apply a regeneration effect, though depending on what ingredients were brewed to make the potion, the potions could also have any number of other effects. Since the "power" of different effects is fairly arbitrary, the most **important** effect may be a not be the potion's prefix.
+Potions (almost) always have multiple different effects, but the potion's most powerful effect is shown by the prefix (first word) of their name. For example, all _Invigorating_ potions will apply a regeneration effect, though depending on what ingredients were brewed to make the potion, the potions could also have any number of other effects. Since the "power" of different effects is fairly arbitrary, the most **important** effect may not be the potion's prefix.
 
 The suffix (second word) of a potions name appears to indicate the strength of the prefix's effect, with more powerful potions getting a "higher tier" suffix. However, each prefix has its own tiering hierarchy for suffixes, with very little consistency.
 
