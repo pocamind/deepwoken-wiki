@@ -1,6 +1,6 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 131649
+revid: 132626
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Etrea]
@@ -27,7 +27,8 @@ This Outfit also grants the [Talent Card](Talents.md) _**Serpent's Dance**_, whi
 This Outfit's Schematic can be found as a reward from:
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Carnival of hearts](Carnival_of_Hearts.md)
+-   [Carnival of Hearts](Carnival_of_Hearts.md)
+-   [Interluminary Parasol](Interluminary_Parasol.md)
 
 ## Trivia
 

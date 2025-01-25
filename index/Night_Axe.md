@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 122021
+revid: 132646
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -35,4 +35,5 @@ The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can b
 -   Meeting the requirement of HVY, the damage is (33.4)
 -   At max HVY, the damage is (36.8)
 -   Has the highest amount of Chip Damage of any weapon in the entire game.
-    -   Contrary to popular belief, Chip Damage IS NOT CAPPED AT 50%. It is only capped at 50% if you have the Obfuscation [Enchantment](Enchantments.md).
+    -   Contrary to popular belief, Chip Damage IS NOT CAPPED AT 50%.
+    -   If you are using the Obfuscation [Enchant](Enchantments.md) with Night Axe, your Chip Damage will total to 90% due to chip being combined multiplicatively.

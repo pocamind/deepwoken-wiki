@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 132604
+revid: 132639
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -249,7 +249,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
-  <td><div><p>Heal for 20% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
+  <td><div><p>Adds a temporary health for 20% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
   The healing is not affected by PVE Scaling.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>
@@ -509,7 +509,7 @@ Multiplicity
 
  | 
 
-On proc, recover hunger, thirst, heal, gain damage reduction, or blood. Has a cooldown of 5 seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
+On proc, recover health, hunger, thirst, blood, or gain damage reduction. Has a cooldown of 5 seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
 Chance to proc 25%
 
 **DOESNT WORK ON MOBS, ONLY HUMANOIDS**

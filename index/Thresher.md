@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 132583
+revid: 132625
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -70,7 +70,7 @@ Dodgeable:◯
 
 ## Finisher
 
-The Thresher picks up the target with its mouth and violently shakes its head and then eats them.
+The Thresher picks up the target with its mouth and violently shakes its head before eating them.
 
 ## Passives
 

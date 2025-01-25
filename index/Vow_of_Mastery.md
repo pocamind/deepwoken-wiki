@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 131664
+revid: 132624
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows]
@@ -152,9 +152,7 @@ Charisma
 -   All commands excluding _Leech, Locate,_ _Return_, _Sacrifice_ and _Live_ have no maximum range, and can be issued from any point on the map.
 -   If a Subject or Master is in a bad situation away from allies, _Live_ and _Run_ or _Sacrifice_ and _Return_ can be used to stall time or win.
 -   As long as you have alts, you may use Vow of Mastery to improve a bossraid. You can hide a bunch of alts in an nearby location and sacrifice them for HP whenever you need it. Alternatively, you can raise one alt to have high Charisma and use it to tell your main to live. The second method is recommended as you will not need to train Charisma on your main, plus "live" counts as a revive.
--   The Live command is almost definitely a reference to the anime "Code Geass"
 -   You can still make the Vow of Mastery in Fragments of Self, however no commands work there.
-    
 
 -   Mentioning any other command or name of any other command while using the say command will use the respective command.
 -   Trying to use the say command to force a vow to say "Sorry \[Name\]" or "My bad \[Name\]" won't work.

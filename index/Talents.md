@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132609
+revid: 132650
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -156,6 +156,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 1.5 seconds or more grants an aura to your attacks that grant them 15% more damage.
     -   Overflowing Dam doesn't require you to wait for 1.5s upon reaching 100% ether, whereas the Talent's Description says you do need to wait to get the damage buff. It just applies the moment you hit full ether.
+    -   Despite what the description says, the damage buff is only 10%.
     -   Prerequisite: 40 Intelligence
     -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
 
@@ -416,9 +417,9 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Amount of time you stay knocked is reduced by 25%.
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
--   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
-    -   Scales linearly with investment up to its requirement. You'll have 20% pen reduction at 65 FTD and gain 0.8% PEN reduction per point in FTD; scaling up to the full 40% once you hit 90 FTD.
-    -   PEN calculation: incoming PEN \*0.6 = reduced incoming PEN. (However, Reinforced Armor does not reduce damage that entirely bypasses your armor (e.g. Oath damage))
+-   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 30%. (+5 Health)
+    -   Scales linearly with investment up to its requirement. You'll have 10% pen reduction at 65 FTD and gain 0.8% PEN reduction per point in FTD above 65; scaling up to the full 30% once you hit 90 FTD.
+    -   PEN calculation: incoming PEN \*0.7 = reduced incoming PEN. (However, Reinforced Armor does not reduce damage that entirely bypasses your armor (e.g. Oath damage))
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer
@@ -541,7 +542,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown).
     -   Can be procced by bleed, allowing for hitstun from a single M1 to proc Brazen Blow.
-    -   Procs by hitting someone through block with chip DMG [(Obfuscation Enchant](Enchantments.md), Precision Swing, Inniate chip DMG and etc)
+    -   Procs by hitting someone through block with chip DMG ([Obfuscation Enchant](Enchantments.md), Precision Swing, Inniate chip DMG and etc)
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapon
 
 -   _Heavy Fatigue_ \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
@@ -1877,9 +1878,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   [Deepbound's](Origins.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
     -   Prerequisites: 30 Fortitude, 30 Strength
 
--   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +15% PEN on your attacks.
-    -   The bonus PEN is applied starting from 30% Sanity
-    -   You immediately gain the full 15% PEN, there is no scaling like Lose Your Mind
+-   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
+    -   The bonus PEN is applied starting from 35% Sanity
+    -   Scales on your current sanity percentage, similar to Lose Your Mind.
     -   Prerequisite: 80 Willpower
 
 -   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
@@ -3151,7 +3152,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Grotesque Resilience \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Reduces all damage from "Damage Over Time" effects.
     -   Reduces Burn damage by 50%
         -   If you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
-    -   Reduces Bleed damage by 33%
+    -   Reduces Bleed damage by 25%
     -   Does not work on all Damage over Time effects.
         -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), Rush Hour from Bloodrend
     -   Obtained from: [Parasol Planter](Parasol_Planter.md)
@@ -3299,7 +3300,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
     -   Reduces Burn damage by 50%
         -   If you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
-    -   Reduces Bleed damage by 33%
+    -   Reduces Bleed damage by 25%
     -   Does not work on all Damage over Time effects.
         -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), Rush Hour from Bloodrend
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - Your dodge window is slightly increased (0.05s).

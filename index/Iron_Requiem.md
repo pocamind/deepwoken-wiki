@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 131159
+revid: 132630
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Multiple Criticals]
@@ -52,3 +52,7 @@ For the running critical, you whip around wildly and unload every bullet in the 
 File:Iron's requiem close up .png
 
 Iron Requiem close up
+
+File:Reguar ironsing.png
+
+Iron Requem without scrapsinger
