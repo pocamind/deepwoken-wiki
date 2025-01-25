@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 132413
+revid: 132604
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -22,7 +22,7 @@ Enchantments have a set chance to be applied to a weapon during the following sc
 
 -   Talking to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn in 5 [Kyrsan Medallions](Kyrsan_Medallions.md) for a random Enchant Grease or Enchant Stone.
 -   Using an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) to apply an enchantment to a weapon or piece of equipment respectively.
-    -   The [Deepshore Fossil](Deepshore_Fossil.md) is a good way to get a desired Enchantment Stone.
+    -   The [Deepshore Fossil](Deepshore_Fossil.md) is a great way to get a desired Enchantment Stone.
     -   Certain activities can provide heaps of enchant stones and more rarely greases, these include but not limited to:
         -   Certain bosses
         -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)

@@ -1,6 +1,6 @@
 ---
 title: King of Etrea
-revid: 129942
+revid: 132600
 source: https://deepwoken.fandom.com/wiki/King_of_Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Lore#King of Etrea](Lore.md#king-of-etrea)
+-   [Rolen Vashtir](Rolen_Vashtir.md)

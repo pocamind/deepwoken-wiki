@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 132588
+revid: 132603
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -213,7 +213,5 @@ Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Th
 -   Rarely, there may be a floor that usually comes after or at 1.5km that requires you to kill just one thresher in turn for amazing loot.
     -   Uncommonly, there may also be a floor that requires you to kill just two threshers in exchange for amazing loot.
 -   The cave paintings show that civilization has once been here long before the Union have.
-    -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast. (Possibly a Meglodaunt?)
-    -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking( Possibly a **[Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>)?)**.
-
--   Saramaed Hollow is in the same "place" as [Layer 2](Second_Layer.md), just with different locations( Maybe at 2,00km the drill have reach the barrier of The Third Layer So It can go down anymore).
+    -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast. (Possibly a Megalodaunt?)
+    -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.

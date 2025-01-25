@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 132580
+revid: 132623
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -65,7 +65,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 </tr>
 <tr>
   <th>Tempo</th>
-  <td>A visual representation of the player's Tempo. Tempo is gained by hitting or being hit, and increases Ether regen during battle, as well as permitting the player to vent if they have a certain amount of Tempo stored. Maximum Tempo starts at 120.
+  <td>A visual representation of the player's Tempo. Tempo is gained by hitting or being hit, and increases Ether regen during battle, as well as permitting the player to vent if they have a certain amount of Tempo stored. The base Tempo starts at 120.
   <ul>
     <li>Tempo decreases over time and is "stored" when out of combat</li>
     <li>With at least 40 Tempo, press <kbd>G</kbd> to Vent. This pushes away anyone near you but can be parried/blocked. With more <a href="Traits.md#erudition">Erudition</a>, venting becomes easier to do as you will have more Tempo, as well as Tempo regen.</li>

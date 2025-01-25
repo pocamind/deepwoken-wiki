@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 132401
+revid: 132605
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -106,6 +106,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
  | **[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - A ritual idol that is used to redeem a [Yun'Shul Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without the need of a [Resonance](Resonance.md). Can be used in any location.
 
 -   _(Consumed upon usage)_
+-   (_using this item changes your flaw)_
 
  | 
 

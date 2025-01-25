@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 127260
+revid: 132620
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals]
@@ -40,8 +40,8 @@ After a short windup, the user spins the Enforcer's Hammer in a circle around th
 
 -   Rare drop from the [Enforcer](Enforcer.md).
 -   Used to share having the highest posture damage in the game with the [Stoneheart](Stoneheart.md). Both have been dethroned by the [Chorus of Agonies](Chorus_of_Agonies.md) and it's 15 posture damage.
-    -   With the addition of [Murmur: Ardour](Murmur%253A_Ardour.md), Heavy Hittder and if you want to compensate- a Heavy Hdands Ring, M1 attacks can do an ungodly amount of posture damage, able to posture break almost all humanoid enemies udpon block (Potentially even being able to instantly posture break the [Duke](Duke_Ishamon_Erisia.md) with just Heavy Hitter.)\*
-    -   Despite stacking all ways to deal more posture damage, the devs implemented a postudre damage cap. Meaning that once you reached the cap, you can't deal more posture damadge, but still the cap can deal at least half dposture bar for [Path's Defender](<The_Path's_Defender.md>) users, so it is possible to one shot the posture of people dwith no ddshields.
+    -   With the addition of [Murmur: Ardour](Murmur%253A_Ardour.md), Heavy Hitter and if you want to compensate- a Heavy Hands Ring, M1 attacks can do an ungodly amount of posture damage, able to posture break almost all humanoid enemies upon block (Potentially even being able to instantly posture break the [Duke](Duke_Ishamon_Erisia.md) with just Heavy Hitter.)\*
+    -   Despite stacking all ways to deal more posture damage, the devs implemented a posture damage cap. Meaning that once you reached the cap, you can't deal more posture damage, but still the cap can deal at least half posture bar for [Path's Defender](<The_Path's_Defender.md>) users, so it is possible to one shot the posture of people with no shields.
 -   Meeting the requirement of HVY, the damage is (37.7)
 -   At max HVY, the damage is (41.9)
 

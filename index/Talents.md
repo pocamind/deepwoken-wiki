@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132525
+revid: 132609
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3051,7 +3051,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
     -   Prerequisite: 30 Heavy Weapon
-    -   Doesn't work on [Railblade](Railblade.md). (Intended)
 
 ### Whisper
 

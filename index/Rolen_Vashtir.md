@@ -1,6 +1,6 @@
 ---
 title: Rolen Vashtir
-revid: 132156
+revid: 132601
 source: https://deepwoken.fandom.com/wiki/Rolen_Vashtir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-Rolen Vashtir was the final King of [Etrea](Etrea.md), who reigned through the early 6th century CE. He disappeared during an expedition into the Voidsea.
+Rolen Vashtir, first of his name, was the final King of [Etrea](Etrea.md), who reigned through the early 6th century CE. He disappeared during an expedition into the Voidsea.
 
 ## Trivia
 
