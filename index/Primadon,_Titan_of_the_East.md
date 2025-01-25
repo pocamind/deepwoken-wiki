@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 132453
+revid: 132664
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -38,6 +38,10 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 </tr>
 <tr>
   <td><a href="Odd_Tentacle.md">Odd Tentacle</a></td>
+  <td>3</td>
+</tr>
+<tr>
+  <td><a href="https://your-bizarre-adventure.fandom.com/wiki/Lucky_Arrow">Lucky Arrow</a></td>
   <td>3</td>
 </tr>
 <tr>
@@ -246,7 +250,7 @@ Danger:(★★★)
 
 ## Gallery
 
-There are **14** images, be warned
+There are **13** images, be warned
 
 ## Trivia
 

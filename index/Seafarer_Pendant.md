@@ -1,6 +1,6 @@
 ---
 title: Seafarer Pendant
-revid: 123538
+revid: 132654
 source: https://deepwoken.fandom.com/wiki/Seafarer_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -26,4 +26,4 @@ categories: [Items, Equipment, Torso, Necklaces]
 
 ## Description
 
-The Seafarer Pendant is an [Equipment](Equipment.md) item under the "Torso" category. It is a brown necklace with a metal hook or sickle shaped piece of metal attatched to the end of it.
+The Seafarer Pendant is an [Equipment](Equipment.md) item under the "Torso" category. It is a brown necklace with a metal fishing hook tied up in the end.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 132419
+revid: 132683
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -45,13 +45,14 @@ There are two methods from here:
 Once **all** requires are met, head over to the [Temple of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 -   Choose the dialogue "For now I am one, but I wish to be three."
-    -   Despite requiring a Yun'Shul wish to engage with the dialogue, this does not consume a wish, though it requires a wish to use.
+    -   Although engaging with the dialogue requires a Yun'Shul wish, it does not consume one; and an [Idol of Y](<Idol_of_Yun'Shul.md>)_[un'Shul](<Idol_of_Yun'Shul.md>) does not give you the option to obtain the oath._
+    
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/DC24CSyYN98)._
 
 Or:
 
--   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
+-   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ish](Duke_Ishamon_Erisia.md)[amon](Duke_Ishamon_Erisia.md) [Erisia](Duke_Ishamon_Erisia.md).
 -   Use a [Sinner's Ash](<Sinner's_Ash.md>) before you get teleported out of the dungeon. Doing this with a [Resonance](Resonance.md) will not corrupt it, but will still consume the Sinner's Ash.
 
 This will bypass all other requirements and grant the Oath.
@@ -126,6 +127,5 @@ January 11th 2025
 
 ## Trivia
 
--   Despite the obtainment being related to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) does not give an option to swear the oath.
 -   Currently, this is one of four Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), [Saintsworn](Oath%253A_Saintsworn.md), and [Chainwarden](Oath%253A_Chainwarden.md))
     -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.

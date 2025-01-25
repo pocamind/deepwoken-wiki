@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 126544
+revid: 132663
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -66,9 +66,13 @@ In order of carry load given:
 -   [Treefelling Blow](Talent_Quests.md) gives 4 carry load.
 -   [Hook, Line, and Sinker](Talent_Quests.md) gives 4 carry load.
 -   The [Union Initiate](Union_Initiate.md) outfit gives 10 carry load.
+-   The [Wormwarder Lantern](Wormwarder_Lantern.md) gives 10 carry load.
+    -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
+-   The [Threadwork Kilt](Threadwork_Kilt.md) gives 20 carry load.
+    -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   [Saltchemist](Oath%253A_Saltchemist.md) gives 20 carry load.
 -   The carrying capacity [echo upgrade](Echoes.md) gives 5 carry load per upgrade, with a maximum of 30 extra carry load.
-    -   Each upgrade costs 50 echoes.
+    -   Each upgrade costs 50 echoes, needing 300 total echoes to fully upgrade.
 -   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) gives 35 carry load.
     -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   The [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) gives 50 carry load.
