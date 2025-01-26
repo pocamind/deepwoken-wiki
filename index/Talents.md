@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132687
+revid: 132833
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -912,7 +912,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Strength, 25 Agility
 
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
-    -   Restore 5% Posture on a successful dodge.
+    -   Restore 2 flat posture on a successful dodge.
     -   Prerequisites: 15 Strength, 45 Agility.
 
 -   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility)

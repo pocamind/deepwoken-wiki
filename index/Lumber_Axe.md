@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 132804
+revid: 132816
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities, Items]
@@ -30,4 +30,4 @@ There are many ways to obtain the axe:
 -   Crafting it using 2 Logs and 2 Iron at a crafting table.
 -   Purchasing one from [Merchant Ships](Travelling_Merchant.md).
 
-Lumber axe can now attack players and deals double damage to obstacles, when attacking players this **can** proc spine cutter
+Lumber axe can now attack players and deals double damage to obstacles, when attacking players this **can** proc spine cutter and enchants.

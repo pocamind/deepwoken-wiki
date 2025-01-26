@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 132815
+revid: 132818
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -33,7 +33,7 @@ The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can b
 
 ## Critical
 
-A Shadowcast-empowered upwards swing that guard breaks and steals Ether on hit. Also procs [Sightless Still](Talents.md#shadowcaster) if you have the talent. This critical has a **3 second** cooldown.
+A Shadowcast-empowered upwards swing that guard breaks and steals Ether on hit. Also procs [Sightless Still](Talents.md#shadowcaster) and [Twisted Puppet's](Talents.md#twisted-puppets) Shadowcast burn if you have the talents. This critical has a **3 second** cooldown.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 131668
+revid: 132824
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -69,3 +69,5 @@ A map can be found at [Maps#Voidheart (Dreamspace)](Maps.md#voidheart-dreamspace
     -   The chess board is 100% accurate to real [chess](Chessboard.md), it's just that the pieces have been replaced by Deepwoken monsters.
 -   It is very common to get attacked in the Voidheart, even though it is seen as dishonorable to do so.
     -   There used to be guards within the Voidheart that would teleport in when a player was attacked. They were very buggy however, causing a memory leak/server crash that resulted in them getting removed.
+
+-   There used to be an area past the little shopping district Voidheart has, however it has since been removed.

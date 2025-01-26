@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 131218
+revid: 132834
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -87,13 +87,13 @@ _The Lord Regent, sitting atop his throne of coral._
 
 ### Rolen Vashtir I, The King of Etrea
 
--   The previous ruler of the Kingdom of [Etrea](Etrea.md), before his rule was taken by the [Lord Regent](The_Lord_Regent.md) after the Kings demise.
+-   The previous ruler of the Kingdom of [Etrea](Etrea.md), before his rule was taken by the [Lord Regent](The_Lord_Regent.md) after the King was sealed.
 -   Not much is known about the King of Etrea, but [Theadre](Theadre.md) speaks of him.
     -   Theadre acts hostile to you, saying that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, though he refers to you as "kin" if you are Etrean. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea take?
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
     -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.
     -   The [teacher](Teacher.md) charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
--   The King of Etrea travelled to the Southern Luminant and made a Vow with Yun'Shul, granting him the [Oath](Oaths.md), [Soulbreaker](Oath%253A_Soulbreaker.md).
+-   The King of Etrea travelled to the Southern Luminant and made a Vow with Yun'Shul, granting him the [Oath](Oaths.md), [Soulbreaker](Oath%253A_Soulbreaker.md) (citation needed).
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
 -   The King of Etrea wielded the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
 -   The King disappeared after sailing on a voyage through the Voidsea_,_ Which the book _Stars Above, and the Blade Between_ sheds some light on, assuming that it's an autobiographical work.
@@ -164,9 +164,9 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.[\[1\]](#cite-note-rag-1)
 -   He and the First Prophet are the only known Deepwoken.[\[1\]](#cite-note-rag-1)
 -   'Would beat Akira up and down the eastern lum.'[\[1\]](#cite-note-rag-1)
--   Most likely to be stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwoken.
--   His aspect is unclear, do to undergoing constant revisions during development. The three known aspects he could be are: [Ganymede](Ganymede.md), [Vesperian](Vesperian.md) or [Tiran](Tiran.md).[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2) Currently, it is believed that he is a [Tiran](Tiran.md) from the [West Luminant](Luminants.md).
--   Is or was a very prestigious Black Diver, having the respect of most of [the Divers](The_Divers.md), however his actual relation to the Divers is unknown.
+-   Is far stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwoken.
+-   His aspect is Tiran, however due to undergoing constant revisions during development his aspect was up for dispute. The three known aspects he was theorised to be were: [Ganymede](Ganymede.md), [Vesperian](Vesperian.md) or [Tiran](Tiran.md).[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2) With the release of the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) however, his aspect was revealed to be Tiran.
+-   Was a very prestigious Black Diver, having the respect of most of [the Divers](The_Divers.md), however his actual relation to the Divers is unknown.
 -   Became a Deepwoken long before the Divers were founded, joining their ranks once they had formed.
 -   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just spends most of his time in the third layer, going almost unseen.
 -   The Covenant of Flame and the Flame Worshippers view him as a god, but he has limited interactions with them and sees them as a fan club.

@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 130293
+revid: 132830
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Divers]
@@ -19,7 +19,7 @@ categories: [The Divers]
 
 ## Description
 
-**Amorus Pleeksty** is a legendary Black Diver, known for inventing [Flamecharm](Flamecharm.md) and being one of the two known Deepwoken, the other being the First Prophet of [The Ministry](The_Ministry.md). This status of being a Deepwoken grants immortality. He is currently in the Third Layer of [The Depths](The_Depths.md), also known as The Vents.
+**Amorus Pleeksty** is a legendary former Black Diver, known for inventing [Flamecharm](Flamecharm.md) and being one of the two known Deepwoken, the other being the First Prophet of [The Ministry](The_Ministry.md). This status of being a Deepwoken grants immortality. He is currently in the Third Layer of [The Depths](The_Depths.md), also known as The Vents.
 
 Amorus ate a part of the Drowned God of the Third Layer, [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), in the form of a meteor flower he encountered in the gardens of the layer. This is what gave him his pyrokinetic powers, allowing him to talk to, command, and "charm" fire itself. This resulted in him inventing the modern art of [Flamecharm](Flamecharm.md), turning what was originally a crude magic largely conjured by accident into an actual technique. He is described as extremely powerful, with ragoozer stating that Amorus "would beat [Akira](Akira.md) up and down the eastern lum."
 
@@ -33,3 +33,4 @@ He is one of two known people to go to the Third Layer. He is worshipped by the 
     -   Additionally, Ploom says that not many competent Flamecharmers are out in the East Luminant, signifying that Amorus may be from the West Luminant.
 -   Amorus was originally a [Ganymede](Ganymede.md), and set to appear in the main game. The NPC that was originally Pleeksty was reworked into [Ploom](Ploom.md). He was later said to be a Vesperian, but was then said to be a Tiran, which led to some doubt on what aspect Pleeksty was supposed to be.
 -   According to ragoozer, [he has the best dance moves.](https://discord.com/channels/920707638034067486/972707935484538911/1221849431482171512)
+-   Pleeksty did not invent the attunement itself, instead he revolutionised it by learning how to control the flames themselves.

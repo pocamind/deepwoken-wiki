@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 131951
+revid: 132827
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -126,7 +126,7 @@ There are three different methods to escape the second layer, however all of whi
 
 Do note that this list is assuming that it is your **first few** delves within the Eternal Gale, as you get more experienced you may find yourself needing these Talents less.
 
--   **Carnivore** (5STR/5WLP): This Talent is **required** in order to stay within the Gale, as it replenishes Thirst and Hunger on kill.
+-   **Carnivore** (5STR/5WLP): This Talent is **required** (who put this here? I don't know how you physically manage to run out of hunger in layer 2) in order to stay within the Gale, as it replenishes Thirst and Hunger on kill.
 -   **Warriors Respite** (15FTD): Allows you to heal within the second layer without killing. As campfires/graceful is disabled, this is the only method to passively heal aside from Health Packs.
 -   **Surestep** ([Delver Boots](../Delver_Boots.md)) / **Brickwall** (100FTD/100WLP): Grants resistance to the wind, making you immune to the ragdoll of the winds.
 -   **Wormwarder** ([Wormwarder Lantern](../Wormwarder_Lantern.md)) / **Coldseep Reactor** ([Grand Fisher Helm](../Grand_Fisher_Helm.md)): Grants complete immunity to the parasites of the Eternal Gale.

@@ -1,6 +1,6 @@
 ---
 title: Vows
-revid: 130608
+revid: 132828
 source: https://deepwoken.fandom.com/wiki/Vows
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents, Character]
@@ -26,7 +26,7 @@ The Vow of Allegiance allows a person to be considered an ally by one's abilitie
 
 ### Vow of Safekeeping
 
-The Vow of Safekeeping is often used by [bankers](Banker.md) to keep specific important items, such as soulbound equipment, [enchanted items](Enchantments.md), [legendary weapons](Weapons.md) and [relics](Relics.md) safe. It is unclear how the Vow works in detail, But it can be assumed that it prevents the banker from tampering with or losing the recieved item. Ingame, this Vow costs 1 [Knowledge](Knowledge.md) to perform.
+The Vow of Safekeeping is often used by [bankers](Banker.md) to keep specific important items, such as soulbound equipment, [enchanted items](Enchantments.md), [legendary weapons](Weapons.md) and [relics](Relics.md) safe. It is unclear how the Vow works in detail, But it can be assumed that it prevents the banker from tampering with or losing the received item. Ingame, this Vow costs 1 [Knowledge](Knowledge.md) to perform.
 
 ### Hereditary Vows
 

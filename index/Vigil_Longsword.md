@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 132674
+revid: 132835
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapons]
@@ -49,3 +49,4 @@ With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Vigil Longswords ar
 -   Its model was changed to match the length of its stats.
 
 -   The blade is unused by [Etrean Guardsmen](Etrean_Guardsmen.md), instead only being used by [Vigil Swordsmen](Vigil_Swordsman.md) and Vigil Captains, making the description of the blade untrue.
+-   The Vigil Longsword was given a unique crit on the January 25, 2025 update.
