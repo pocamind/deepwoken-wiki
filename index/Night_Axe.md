@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 132673
+revid: 132815
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -25,7 +25,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Ministry NecromancerVoidwalker Bounty Chests |
-| description | "The Night Axe, a weapon of little contemporary renown, was forged by the ancient folk of Minityrsa and wielded by Ekrim of the Rouhlx Dyad, who came to be known as the Third's Daycleave, the Night Axe cast long shadows of fear across the old settlements. its history is whispered in tales of unstoppable might and the haunting interplay of night and day. Shaky accounts speak of the pair meeting a grim fate at the hands of a power they once worshipped, sealing their legend in shade." |
+| description | The Night Axe, a weapon of little contemporary renown, was forged by the ancient folk of Minityrsa and wielded by Ekrim of the Rouhlx Dyad, who came to be known as the Third's Eclipse. Paired with its luminous counterpart, Daycleave, the Night Axe cast long shadows of fear across the old settlements. Its history is whispered in tales of unstoppable might and the haunting interplay of night and day. Shaky accounts speak of the pair meeting a grim fate at the hands of a power they once worshipped, sealing their legend in shade. |
 
 ## Description
 

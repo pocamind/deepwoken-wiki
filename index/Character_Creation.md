@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 131442
+revid: 132792
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -28,7 +28,7 @@ _\[More information about [aspects](Aspects.md) can be found on their correspond
 
 Upon your first character customization, you can either choose an [Attunement](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras. Choosing the option "Random" will randomely select an Attunement for you out of the four already present ones (this option will lock you out of the 3 unchosen Attunements until they are either learned or spun from random Attunement picks on future lives, at which point they will be available on all future character slots).
 
-To obtain the [Shadowcast](Shadowcast.md), and [Ironsing](Ironsing.md) Attunements, you need to unlock them each with their own specific quest. Once unlocked, it will save on your slot as a permanent progression among all your characters on that account, and will be selectable as an Attunement option for future character slots.
+To obtain the [Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md), and [Ironsing](Ironsing.md) Attunements, you need to unlock them each with their own specific quest. Once unlocked, it will save on your slot as a permanent progression among all your characters on that account, and will be selectable as an Attunement option for future character slots.
 
 [Attunement-less](Attunement-less.md)
 
@@ -81,7 +81,7 @@ When customizing your character, there is a total of three [Weapon Classes](Weap
 
 -   **[Heavy Weapons](Weapons.md#heavy-weapons):** _[Battleaxe](Battleaxe.md), [Avenger](Avenger.md)_
 -   **[Medium Weapons](https://deepwoken.fandom.com/wiki/Weapons#Medium_Weapons):** _[Sword](<Sword_(weapon).md>), [Irontusk](Irontusk.md)_
--   **[Light Weapons](https://deepwoken.fandom.com/wiki/Weapons#Light_Weapons):** _[Stiletto](Stiletto.md), [Quickfang](Quickfang.md), [Silversix](Silversix.md), (Plus [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), and [Jus Karita](Jus_Karita.md) if formerly unlocked)_.
+-   **[Light Weapons](https://deepwoken.fandom.com/wiki/Weapons#Light_Weapons):** _[Stiletto](Stiletto.md), [Quickfang](Quickfang.md), [Silversix](Silversix.md), (Plus [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), [Jus Karita](Jus_Karita.md), and [Fang & Coil](Fang_and_Coil.md) (if formerly unlocked)_.
 
 _([Weapon Manual](Training_Gear.md#attribute-training-gears) do not teach you a new Weapon Classes, but they allow you to train the type of style of the Weapon you are currently using. To change your Weapon Class, you need to equip the specific Weapon corresponding to your desired style)_
 

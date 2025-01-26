@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 129908
+revid: 132796
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions]
@@ -38,7 +38,7 @@ The weapon has a unique mechanic: if you land **three** hits on an enemy **with 
 
 ## Critical
 
-Perform three thrusts forward with the weapon, moving you forwards in the progress. If you are in the "Enlightened" state, this critical is then followed up by another identical critical at the cost of the effect. It has a cooldown of ~5 seconds.
+Perform three thrusts forward with the spear, applying Dazed whilst sending them forwards. If you are in the "Enlightened" state, this critical is then followed up by another identical critical at the cost of the effect, totaling up to six hits. It has a cooldown of ~5 seconds.
 
 If running and using a critical attack thrust forward once, firing a light spear projectile dealing high posture damage.
 

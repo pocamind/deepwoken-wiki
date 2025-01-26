@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 132750
+revid: 132798
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deepwoken]
@@ -107,14 +107,14 @@ _verb_
 
 _verb_
 
-1.  To block a mantra/attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed and take heavy damage as well as being stunned.
+1.  To block a Mantra/attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed and take heavy damage as well as being stunned.
     1.  Ex. Light weapons are hard to parry but not hard to block as they deal little posture damage.
 
 ### Block/Guard/Posture Break
 
 _verb_
 
-1.  To exceed a player or humanoid enemy's [Posture](Combat_Mechanics.md), resetting their Posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with enough attacks or high posture-damaging mantras.
+1.  To exceed a player or humanoid enemy's [Posture](Combat_Mechanics.md), resetting their Posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with enough attacks or high posture-damaging Mantras.
 
 ### Chip Damage
 
@@ -127,7 +127,7 @@ _noun_
 _verb, noun_
 
 1.  Abilities/moves that allow the user to retaliate and not take damage without the use of blocking, parrying or dodging.
-    1.  Ex. the following mantras, Prediction, Punishment, and Equalizer are all **Counters**.
+    1.  Ex. the following Mantras, Prediction, Punishment, and Equalizer are all **Counters**.
 2.  (Counterplay) Is an effective strategy against in combat.
     1.  Ex. "What counters Jetstrikers?"
 
@@ -167,7 +167,7 @@ _verb_
 
 _verb_
 
-1.  To stop your weapon or mantra windup while swinging, used to bait people to parry which make them unable to parry the next immediate attack you use. Successfully done can make your opponent block your next attack, messing up their parry timing and increasing their posture. Can be performed by pressing M2 right after initiating your M1 attack.
+1.  To stop your weapon or Mantra windup while swinging, used to bait people to parry which make them unable to parry the next immediate attack you use. Successfully done can make your opponent block your next attack, messing up their parry timing and increasing their posture. Can be performed by pressing M2 right after initiating your M1 attack.
     1.  Ex. "You can't just hit me while I'm feinting!!!"
 
 ### Flood/Flooding
@@ -207,7 +207,7 @@ _verb_
 
 _verb_
 
-1.  (Invincibility frames) When a mantra or passive makes the user invincible to damage.
+1.  (Invincibility frames) When a Mantra or passive makes the user invincible to damage.
     1.  Ex. The Talent Ghost gives you a few seconds of **I-frames** when you successfully dodge an attack.
 
 ### Knock
@@ -344,37 +344,37 @@ _noun_
 
 _verb_
 
-1.  to check if you or someone else has enough resonance progress to unlock a [Resonance](Resonance.md) through dying, usually done alone by fall damage, in Layer 2 with a Light Hook, or with friends.
+1.  to check if you or someone else has enough [Resonance Progress](Resonance.md#bell-progress) to unlock a [Resonance](Resonance.md) through dying, usually done alone by fall damage, in Layer 2 with a Light Hook, or with friends.
 
 ### Corrupted/Cursed
 
 _adjective_
 
-1.  A special variant of a resonance which is rare to get. Corrupted resonances are stronger than their normal variant but give a debuff upon activation.
+1.  A special variant of a Resonance which is rare to get. Corrupted Resonances are stronger than their normal variant but give a debuff upon activation.
 
 ### Full Counter/Counter
 
 _noun_
 
-1.  Nickname for the [Payback](Payback.md) resonance.
+1.  Nickname for the [Payback](Payback.md) Resonance.
 
 ### Kamui
 
 _noun_
 
-1.  Nickname for the legendary [Dimension Travel](Dimensional_Travel.md) resonance. It is also a reference to Obito Uchiha's Kamui ability from Naruto Shippuden.
+1.  Nickname for the legendary [Dimension Travel](Dimensional_Travel.md) Resonance. It is also a reference to Obito Uchiha's Kamui ability from Naruto Shippuden.
 
 ### Legendary
 
 _adjective_
 
-1.  A resonance which is significantly more rare than the other resonances, there are currently two legendary resonances in the game, being [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md).
+1.  A Resonance which is significantly more rare than the other Resonances, there are currently two legendary Resonances in the game, being [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md).
 
 ### Reaper
 
 _noun_
 
-1.  Nickname for the the [Blood Scourge](Blood_Scourge.md) resonance, used to instantly execute any downed players, [enemies](Enemies.md) or [monsters](Monsters.md) in a small radius around where it was cast.
+1.  Nickname for the the [Blood Scourge](Blood_Scourge.md) Resonance, used to instantly execute any downed players, [enemies](Enemies.md) or [monsters](Monsters.md) in a small radius around where it was cast.
     1.  Ex. "He just got knocked, reaper him"
     2.  Ex. "Getting knocked in a friendly 1v1 is not an invitation for your ally to drop a corrupted reaper on me"
 
@@ -382,13 +382,13 @@ _noun_
 
 _noun_
 
-1.  Nickname for the legendary [Teleportation](Teleportation.md) resonance.
+1.  Nickname for the legendary [Teleportation](Teleportation.md) Resonance.
 
 ### Yoru
 
 _noun_
 
-1.  Nickname for the [Portals](Portals.md) resonance, used to turn invisible and gain I-frames for a set duration. It is a reference to a Valorant character named Yoru. The resonance is similar to his ultimate ability.
+1.  Nickname for the [Portals](Portals.md) Resonance, used to turn invisible and gain I-frames for a set duration. It is a reference to a Valorant character named Yoru. The Resonance is similar to his ultimate ability.
 
 ## Outside Combat
 
@@ -509,7 +509,7 @@ _noun, verb_
 
 _verb, adjective_
 
-1.  To get the most optimal possible combination of talents and mantras in your build.
+1.  To get the most optimal possible combination of Talents and Mantras in your build.
     1.  Ex. "I've wiped like 10 times while trying to minmax this build."
     2.  Ex. "My minmaxed PvE build can one-cycle [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)!"
 
@@ -653,7 +653,7 @@ _noun_
 
 _noun_
 
-1.  (Kill on Sight) said by a member of a guild to say that someone's name will be added to a list of people who are to be killed as soon as any member of their guild sees them.
+1.  (Kill on Sight) A list of people who are to be killed as soon as any member of someone's guild sees them.
     1.  Ex. "I'm putting you on kos"
 
 ### LFT

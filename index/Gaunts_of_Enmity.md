@@ -1,6 +1,6 @@
 ---
 title: Gaunts of Enmity
-revid: 132778
+revid: 132813
 source: https://deepwoken.fandom.com/wiki/Gaunts_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -28,8 +28,12 @@ categories: [Weapons]
 
 ## Description
 
-The **Gaunts of Enmity** are a unique fist weapon exclusive to [Heart of Enmity](Heart_of_Enmity.md). They feature high Light weapon scaling and high chip damage, which is fairly rare among fist weapons.
+The **Gaunts of Enmity** are a unique fist weapon exclusive to [Heart of Enmity](Heart_of_Enmity.md). They feature high Light weapon scaling and high chip damage, which is rare among fist weapons.
 
 It is undroppable and unbankable.
 
-It deals 26.1 DMG at 75 LHT and 29.8 DMG at 100 LHT with 3 Proficiency, at 6 Proficiency 27.9 at 75 LHT and 32.2 at 100 LHT.
+## Trivia
+
+-   Meeting the requirement of LHT, the damage is 24.3.
+-   At max LHT, the damage is 27.4.
+-   At max LHT, 6 Proficiency and with bleed, the damage is 36.8 (32.2 + **4.6**).

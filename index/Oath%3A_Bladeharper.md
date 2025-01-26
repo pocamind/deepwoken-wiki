@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 132611
+revid: 132801
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -68,7 +68,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
         -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md), [modified Skyshatter Kick](Attunement-less.md), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
 -   **Untouchable - Passive**
     -   By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
-        -   Upon proccing Untouchable, enter the True Strength state where your critical, air attack, and Oath mantras are empowered.
+        -   Upon proccing Untouchable, enter the True Strength state where your uppercuts, air attack, and Oath mantras are empowered.
         -   To proc the Talent you must land 5 hits with any weapon, meaning m1s or criticals. Multi-hit criticals like the [Curved Blade of Winds](Curved_Blade_of_Winds.md) 1H crit or the [Trident Spear](Trident_Spear.md) critical will proc the Talent upon 5 hits of the critical landing.
             
 -   **Reveal - Utility**
@@ -79,10 +79,11 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
         -   This takes about **4 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
 -   **Float Like a Butterfly - Passive**
     -   While having True Strength active, cancel your air dash to enter a frenzy of slashes.
-    -   ~Its movestackeable with the crit, currently to be fixed.~ **FIXED**
+    -   Its movestackeable with any mantra that can be casted mid-air.
     -   It has a cooldown of 5 seconds.
-    -   ~It deals true damage. (Confirmed by Developers and stated on update logs)~ apparently both update logs and devs lie, this attack does oath + physical damage, specifically, 30 damage. (Yes this has been tested)
-        -   Only accessible when True Strength is active.
+    -   Deals 30 Oath and Physical damage.
+        -   Despite Developers and update logs saying that this attack deals "true damage," it actually does Physical and Oath damage, this means that if you have more Physical damage resistance than Oath damage resistance, you'll resist the full damage based off your Physical damage resistance.
+    -   Only accessible when True Strength is active.
 -   **Decimate - Combat Mantra**
     -   Cut through your opponent.
     -   If True Strength is active, this attack will extend to nearby enemies. **Fists** cannot use this mantra.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 132707
+revid: 132802
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -11494,8 +11494,6 @@ ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
 
 Elemental weapons scale off a certain element, but that does not mean that all of them do elemental damage. Apart from that, they share similar traits to their respective category of weapon.
 
-**All:**
-
 <table><caption><a href="Attunements.md">Elemental Weapons</a></caption>
 <tbody>
 <tr>
@@ -12237,8 +12235,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
 </tr>
 </tbody>
 </table>
-
-  
 
 **Offhand:**
 

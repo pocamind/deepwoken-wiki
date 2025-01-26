@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 132692
+revid: 132800
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -198,6 +198,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Normal & Big |
 | File:VigilHood.png | 
@@ -4751,7 +4752,7 @@ Found from:
  | Red, Black, Midnight & White |
 | File:Threadwork kilt.png | 
 
-Threadwork Kilt
+[Threadwork Kilt](Threadwork_Kilt.md)
 
  | 
 
