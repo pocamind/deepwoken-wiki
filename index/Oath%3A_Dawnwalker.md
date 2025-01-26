@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 132135
+revid: 132851
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]
@@ -25,7 +25,7 @@ categories: [Oaths, The Divers, Moonseye]
 
 ― Klaris Llfiend, Mother of Lights
 
-This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that can reproduce Light, however, it is not the same Light that Lightkeepers use to illuminate the [Voidsea](Voidsea.md) to facilitate traversal between luminants. Lightkeepers are born, and cannot be made/taught how to wield the Light they use. The Divers, instead of lighting a path through the Voidsea using the Light, instead use it to defend against [The Depths](The_Depths.md) itself.
+This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that can reproduce Light, however, it is not the same Light that Lightkeepers use to illuminate the [Voidsea](Voidsea.md) to facilitate traversal between luminants. Lightkeepers are born with the ability to produce light, and are not "taught" how to use it. Dawnwalker's light is based on research into Lightkeeping but cannot illuminate the Voidsea. The Divers, instead of lighting a path through the Voidsea using the Light, use it to defend against [The Depths](The_Depths.md) itself.
 
 ## Obtainment
 

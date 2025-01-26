@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 132834
+revid: 132862
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -666,7 +666,7 @@ The Depths consists of multiple layers. Those who were condemned by combat or dr
 
 _"You can feel your soul dragging down like a weight, deeper, further into the depths." - The Depths Flavor Text_
 
--   An underworld of The Tides that is the home some of the many creatures of the Deep. It is completely submerged under the waves, but people who traverse through The Depths can breathe normally, unlike the surface.
+-   An underworld of The Tides that is the home to some of the many creatures of the Deep. It is completely submerged under the waves, but people who traverse through The Depths can breathe normally, unlike the surface.
 -   It is a physical location, and be reached by simply going to the bottom, but as it is physically impossible to dive that deep with the world's current technology, cavern systems and whirlpools are used instead.
 -   As it is underwater, the gravity there is significantly lower.
 
@@ -676,7 +676,7 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 
 _"The sunken remnants of a lost civilization give little respite to the transitory beings that pass through." - City of the Drowned Flavour Text_
 
--   A City that was overtaken by the Tides. Once a prosperous city and capital of Celtor located in the Southern Luminant, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
+-   A City that was overtaken by The Tides. Once a prosperous city and capital of Celtor located in the Southern Luminant, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
 -   It's guarded by the city's former guards.
     -   Strangely, instead of succumbing to the effects of insanity, they instead appear to be degrading, being almost unable to speak outside of wheezes, described as 'losing their self'.
 -   Though the denizens of the City are aware of the Trial, many feel they are too weak to attempt it.
@@ -1205,7 +1205,7 @@ For people who wish to see the aspects, head [here](Aspects.md).
 
 -   This aspect shares traits with mostly comprised of similarities to racoons and possibly ferrets, but more generally shares the traits of many mustelids (animals like ferrets and otters) and prokaryotes (mainly raccoons).
 -   A prideful and greedy aspect that used to live in a great city - known by many for their legendary bankers and overall wealth - that was eventually swept by the Tides, and dragged to the bottom of the ocean and into [The Depths](The_Depths.md) where it stands today.
--   The common last names of the Celtor people bear similarities to Russian last names.
+-   The common last names of the Celtor people bear similarities to Russian surnames.
 -   Celtor is pronounced like "keltor," rather than "seltor."[\[2\]](#cite-note-arch-2)
 
 ### Adret
@@ -1229,7 +1229,7 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
     -   They popularized the Zweihander, a real life German weapon.
     -   The Thundercaller trainer is a Canor named Funke, German for spark.
     -   The Canor mantra modifier collector in Etris is named Schnitzel and the one in Summer Isle is named Hotdog, both being German dishes and both seemingly not fluent in English.
-    -   Canor last names are mostly German/German inspired.
+    -   Canor last names are mostly German inspired.
 
 ### Gremor
 
@@ -1271,7 +1271,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 "_Keepers of old knowledge, they wander the lands offering their experience to those in need of it."_
 
 -   An aspect that shares traits with goats, who are keepers of ancient secrets. They traverse the seas and share knowledge to those who need it.
--   Depending on a Capras racial variant, they have "marks" from 1 of 3 seemingly religious figures. These marks could be the "old knowledge" Hinted at in the Capra flavor text
+-   Depending on a Capras racial variant, they have "marks" from 1 of 3 seemingly religious figures. These marks could be the "old knowledge" hinted at in the Capra flavor text
     -   **Mother, Ku:** This figure seems to be nurturing, given they have the title of Mother, the healing effect this mark gives in game
     -   **First Beast, Nemit:** The title of "First Beast" and the nourishing effect this mark gives in game suggest that Nemit is related to Nature and Survival.
     -   **Moonseye, Jurik:** The title of Jurik suggests a connection to the Moonseye, the effect Jurik's mark gives in game suggests that the Moonseye may be a symbol of Sanity and Calm.
@@ -1296,7 +1296,7 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   The Chrysid used to be part of the Greathive aspects, alongside Vesperians and Ganymedes. However, many Chrysids broke off due to their belief in the Moonlit Faith over the Hives technology-focused ideology.
 -   Despite splitting off from the Greathives, Chrysids are still welcome to reside there. As explained by [Hiri](Hiri.md), there are "no hard feelings" between the Greathives and Chrysids who chose to join the Moonlit Faith.
 -   Many Chrysids choose to reside in the Lullaby Isles, an area in The Central Luminant surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
--   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way
+-   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
 -   Within the central isles of the Lullaby Isles is a city-state called the Echelon, where the council of the Moonlit Faith resides.
 -   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
 -   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the Second Layer.

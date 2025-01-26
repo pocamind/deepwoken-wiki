@@ -1,6 +1,6 @@
 ---
 title: "Dread Serpent's Tooth"
-revid: 110188
+revid: 132863
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent's_Tooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -16,6 +16,7 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | A tooth pulled from the mouth of a dread serpent, a daunting task indeed... |
 
 ## Description
 

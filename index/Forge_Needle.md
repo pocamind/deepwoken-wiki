@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 131179
+revid: 132856
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -15,7 +15,7 @@ categories: [Relics]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| obtainment | Crafting, Lysander Spellhardt |
+| obtainment | Crafting |
 
 ## Description
 
