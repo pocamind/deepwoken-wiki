@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132928
+revid: 132955
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -567,8 +567,8 @@ _**"I am the one to hold the walls."**_
     -   Prerequisities: 55 Fortitude
 
 -   Down to your Level \[Common Talent\] - While you have a speed debuff, your M1s slow your enemies for 2s.
-    -   Doesn't proc by Grand Fisher Plate or any else equipment that slows you down.
-    -   Procs by Entaglement, Daze, Chill and anything else that slows you down.
+    -   Procs from Entaglement, Daze, Chill and most other things that slow you down.
+    -   Does not proc from Grand Fisher Plate or Wormwarder Lantern despite them reducing your movement speed.
     -   Prerequisites: 60 Fortitude
 
 -   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 5s.
@@ -1873,7 +1873,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I dominate the minds of others."**_
 
--   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
+-   _Lose Your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
     -   The damage buff starts at 70% Sanity (Tier 1 [Insanity](Insanity.md)) and scales non-linearly with your sanity until it caps out at +15% damage with 0% Sanity (Tier 3 Insanity).
     -   [Deepbound's](Origins.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
     -   Prerequisites: 30 Fortitude, 30 Strength
@@ -1898,12 +1898,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"My soul is an instrument with its own frequency."**_
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 25% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
-    -   Takes 100% ether to be used, therefore deactivating ardour.
-        -   Takes only 40% ether with [Soulbreaker](Oath%253A_Soulbreaker.md) oath.
+    -   Takes 100% Ether to be used, therefore deactivating Ardour.
+        -   Can be used at 40% Ether rather than needing to be at 100% with the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
     -   Instead of debuffing affected players and making them take 25% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
     -   Doesn't apply insanity.
     -   Will also combat tag anybody hit.
-    -   Can stack with m1s, crits, [silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.
+    -   Can stack with m1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.
     -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md)
 
 -   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H._

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 132623
+revid: 132967
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -56,7 +56,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 </tr>
 <tr>
   <th>Ether Bar</th>
-  <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of magic, and <a href="Mantras.md">Mantras</a> cannot be used without sufficient Ether.
+  <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of mana, and <a href="Mantras.md">Mantras</a> cannot be used without sufficient Ether.
   <ul>
     <li>Different Mantras use varying amounts of Ether. Adding <a href="Mantra_Modifiers.md">Mantra Modifiers</a> will increase the amount of Ether required to cast.</li>
     <li>Ether passively regenerates, and regeneration is buffed with a high Tempo.</li>
@@ -136,7 +136,7 @@ These are stats that are you required to maintain in order to survive in the wor
 </tr>
 <tr>
   <th>Stomach</th>
-  <td>A visual representation of how much food is currently in the player's body; essentially your hunger bar. You will lose 50% of the bar upon vomiting. Upon reaching zero Stomach, the following happens:
+  <td>A visual representation of how much <a href="Food.md">food</a> is currently in the player's body; essentially your hunger bar. You will lose 50% of the bar upon vomiting. Upon reaching zero Stomach, the following happens:
   <ul>
     <li>The player will gradually lose health and blood.</li>
     <li>The player's max health will be reduced.</li>
@@ -310,8 +310,8 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <th>Stance Change</th>
   <td>Pressing the <kbd>Y</kbd> button will change your <i>Stance</i> from one-handed to two-handed. Many Light Weapons cannot switch their stance except for Fists, which can switch between their unlockable fist styles at will.<p><br>
   </p>
-  <p><i><b>One Handed Stance:</b></i> This stance defaults to Light and Medium weapon, and Heavy weapons can use this stance after obtaining 40 HVY. Offhand equipment, such as shields, parrying daggers, and guns will be accessible. An alternate idle animation is used if you do not have anything on your offhand. <b>This stance increases posture damage dealt to the target when parrying but reduces posture damage dealt when hitting their block.</b></p>
-  <p><i><b>Two-Handed Stance:</b></i> This stance defaults to Heavy weapons, with Medium Weapons also having access to it. Any offhand equipment will be put away, such as shields. <b>This stance increases posture damage dealt to the target when hitting their block but reduces posture damage dealt when parrying.</b></p></td>
+  <p><i><b>One Handed Stance:</b></i> This stance is the default for Light and Medium weapons, and Heavy weapons can use this stance after obtaining 40 HVY. Offhand equipment, such as shields, parrying daggers, and guns will be accessible. An alternate idle animation is used if you do not have anything on your offhand. <b>This stance increases posture damage dealt to the target when parrying but reduces posture damage dealt when hitting their block.</b></p>
+  <p><i><b>Two-Handed Stance:</b></i> This stance is the default for Heavy weapons, with Medium Weapons also having access to it. Any offhand equipment will be put away, such as shields. <b>This stance increases posture damage dealt to the target when hitting their block but reduces posture damage dealt when parrying.</b></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

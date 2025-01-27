@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 132145
+revid: 132941
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -186,7 +186,7 @@ There are 14 upgrades to purchase, and each can be purchased a maximum of 1 to 6
   <td><center>25 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>4</center></td>
-  <td>The list of Advanced Weapons and Advanced Tools is available in the Trivia section.</td>
+  <td>The list of Advanced Weapons and Advanced Tools is available in the Notes section.</td>
 </tr>
 <tr>
   <td><center><b>Soul Plasticity</b></center></td>
@@ -336,12 +336,10 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   Following Hive R&D, the restrictions on the Fountain Gate network's Vow have been relaxed. Merely having seen the majesty of the Greathive from afar is enough to create the mental link that enables one to utilize the network. **Fountain Gates can now be used at any Power so long as you've visited the Eastern Luminant on that character and have unlocked the Hive Gate on your account**
 
-## Trivia
+## Notes
 
 -   Buying most echo upgrades will apply their effects to previously created slots. Advanced Weapons, Starting Knowledge, Starting Notes, and Advanced Tools will not be applied to pre-existing slots.
 -   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with vow of thorns AND dealbreaker, it will still do this for unknown reasons.
--   The term "ironwoken" is reminiscent of the "ironman" mode in RuneScape, preventing trading among other restrictions.
-    -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester
 -   The four Weapons from "Advanced Weapons" are obtained in linear order through purchases listed below:
     -   The [Quickfang](Quickfang.md) Rapier,
     -   The [Irontusk](Irontusk.md) Spear,
@@ -356,17 +354,22 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
     -   The [Boulder](Training_Gear.md)
     -   Starvation
--   Kelsius' mantra hand and Deep Shrines do not get autopicked with destined so you can abuse this to look for cards with more comfort.
+-   Kelsius' mantra hand and Deep Shrines do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) does not reward Echoes.
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
 -   Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) will also count for defeating the [Dread Serpent](Dread_Serpent.md), granting you the 5 Echoes you would've gotten if you had defeated the Dread Serpent. For obvious reasons, killing both will not award you with additional Echoes.
     -   The other [World Events](World_Events.md) do not grant Echoes.
--   Chain of Perfection was made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted it but made multihits give you less stacks.
+-   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
 -   Not only does using the Idol of Yun'shul count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the Fragments of Self. However, your deal if used in fragments must **not** be Resonance Reroll, or it will most likely remove it from your completed tasks.
 -   Multifaceted makes the 5 innate [Aspect](Aspects.md) points such as using Vesperian will force 3 points into fortitude and 2 into willpower but with this echo upgrade you are able to freely move those points to be able to start with 0 into every stat when you start.
     -   After purchasing Multifaceted, any pre-existing slot that didn't manually invest points into their innate attributes or previously had above 100 in any stat will have their points removed, allowing you to reallocate them.
 -   Elementalist allows you to have more then 2 elements on character starts so rather then have just 2 maximum you can start with 4 or 3 or even all of them, with this you can also allocate your attunement points freely such as starting a character with 3 flame 2 ice 3 shadow and 2 gale or 9 bloodrend and 1 thunder etc.
+
+## Trivia
+
+-   The term "ironwoken" is reminiscent of the "ironman" mode in RuneScape, preventing trading among other restrictions.
+    -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester
 
 ## References
 

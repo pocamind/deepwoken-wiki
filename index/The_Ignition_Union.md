@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 130274
+revid: 132958
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -76,11 +76,21 @@ Enemy-Neutral Reputation
 
 ## Notable Members
 
--   [Alpha](Alpha.md)
--   [Adar](Adar,_Master_of_Metal.md)
--   Delta
--   Epsi
--   [Orion](<Miner's_Landing.md#orion-quest>)
+[Deepdelver Tau](Deepdelver_Tau.md): A Ganymede Deepdelver in charge of leading players into expeditions into the [Saramaed Hollow](Saramaed_Hollow.md), Tau is in charge of bringing the Deep Drill back to the surface when a signal is called by the player via the radio communication system inside the drill.
+
+[Deepdelver Adar, Master of Metal](Adar,_Master_of_Metal.md): An Etrean with the rank of a Deepdelver in one of the towers in Miner's Landing studying on how to bring Ironsing back into the modern world. He has been in the Union presumably since birth from the Union taking him off the streets, due to the living Ironsingers guarding the secrets of the attunement he is hidden with the comrades of the Union not knowing where he is as he would be punished for attempting to turn a normal person into an Ironsinger.
+
+[Deepdelver Gamma](Deepdelver_Gamma.md): A Khan Deepdelver who resides in the Chariot's Spire who is in charge of the area working with supplies and finding a lost member in the Eternal Gale, he has been in the first layer all his life.
+
+[Deepdelver Finnegan](Finnegan_The_Lost.md): A Former Deepdelver who wields one of the prototypes of the [Boltcrusher](Boltcrusher.md), he had a lover who has deceased from unknown reasons. Because of this his mind broke causing his sanity to crumble attacking anything he sees, as the Ignition Union tasks you to bring him down.
+
+[Alpha](Alpha.md): An old Canor seeming as the leader in the Frontier Furnace.
+
+[Delta](Delta.md): A Canor residing inside Miner's Landing and is presumably one the inventors of the [Arc Suit](Oath%253A_Arcwarder.md) as he is capable of giving you the oath.
+
+[Epsi](Epsi.md): A young Gremor boy working for the Ignition Union and was brought to the second layer with Alpha's team, tasked with communicating with the other members using the radio, his fate is left at the player depending on their actions.
+
+[Orion](<Miner's_Landing.md#orion-quest>): A Celtor that tasks the player with killing Summer Goons that invade Miner's Landing.
 
 ## Trivia
 
