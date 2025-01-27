@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 132818
+revid: 132922
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -43,3 +43,4 @@ A Shadowcast-empowered upwards swing that guard breaks and steals Ether on hit. 
     -   Contrary to popular belief, Chip Damage IS NOT CAPPED AT 50%.
         -   If you are using the Obfuscation [Enchant](Enchantments.md) with Night Axe, your Chip Damage will total to 90% due to chip being combined multiplicatively.
 -   The Night Axe was given a unique crit on the January 25, 2025 update.
+-   The Twisted Puppets: Path makes the night axe create black flames.
