@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 132181
+revid: 132912
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -69,7 +69,7 @@ Dodgeable:◯
  |  |
 | 
 
-**Lightning Strike**  
+**Bolt Piercer**  
 (★☆☆)  
 (★★☆)
 
@@ -77,7 +77,7 @@ Dodgeable:◯
 
 -   Targets the area relative to your player and it's movement, however, if the player is moving, he will only attempt to strike in-front of the player, and as such this move is avoidable by going to the sides or backwards.
 -   Becomes much faster in his second phase.
--   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
+-   If The Ferryman is in hitstun while casting this move, the Bolt Piercer will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
 -   Due to the attack being faster in the second phase, a much "longer" attack opportunity will be given afterward.
 
 Parryable:◯  

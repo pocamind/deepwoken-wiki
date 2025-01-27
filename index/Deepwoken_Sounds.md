@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 126644
+revid: 132875
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -831,6 +831,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.7s | Spinning Hammer Throw \[2\] |
 |  | 1.2s | Unused Hiss |
 |  | 4.0s | Unused Eerie Tremble |
+|  | 18s | [World Events](World_Events.md) Announcement |
 
 ## Trivia
 

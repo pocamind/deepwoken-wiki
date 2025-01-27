@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 131226
+revid: 132898
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons, Legendaries]
@@ -28,6 +28,10 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 ## Description
 
 The **Vortex Echo** is a [Relic](Relics.md) [Fists](Fists.md) weapon that requires 65 LHT and 65 CHA, being crafted with a [Weathered Timepiece](Weathered_Timepiece.md), [Temporal Crux](Temporal_Crux.md), and [Kyrsan Schematic](Kyrsan_Schematic.md) using a Crafting Table. The weapon matches your current [Fists](Fists.md) style and harnesses the power of space-time distortions from the [Second Layer](Second_Layer.md), allowing you to use your many abilities again.
+
+## M1 Combo
+
+Assume a stance, lowering yourself while delivering 3 stretched blows with your Right, Left and Right fists In the mentioned order. Finish the combo with a flourishing swift left kick.
 
 ## Critical
 

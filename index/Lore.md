@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 132862
+revid: 132916
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -491,9 +491,9 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 -   Possibly a Celtor due to her Russian name.
 
--   Possibly a Gremor due to Nuttoons drawing of her (drawing isn't cannon)
+-   Possibly a Gremor due to Nuttoons drawing of her. (Note: the drawing isn't necessarily canon.)
 
--   Her title of "The Unbroken" is similar to the Voidzone "Crypt of the Unbroken." Seeing that Sudaruska home was Minityrsa, the place where the Crypt is, alongside the Crypt being the only place in the Overworld to find the weapons, alongside more clues, it can be pointed that the Crypt either was Sudaruska's final resting place or her home.
+-   Her title of "The Unbroken" is similar to the Voidzone "Crypt of the Unbroken." Seeing that Sudaruska's home was Minityrsa, the place where the Crypt is, alongside the Crypt being the only place in the Overworld to find the weapons, alongside more clues, it can be pointed that the Crypt was either Sudaruska's final resting place or her home.
 
 ### Songmaster Tzaraan
 
@@ -668,7 +668,7 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 
 -   An underworld of The Tides that is the home to some of the many creatures of the Deep. It is completely submerged under the waves, but people who traverse through The Depths can breathe normally, unlike the surface.
 -   It is a physical location, and be reached by simply going to the bottom, but as it is physically impossible to dive that deep with the world's current technology, cavern systems and whirlpools are used instead.
--   As it is underwater, the gravity there is significantly lower.
+-   As it is underwater, the effect of gravity there is significantly lower due to buoyancy.
 
 ##### The City of the Drowned (The Depths, First Layer)
 
@@ -857,7 +857,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
 -   The Ministry's fourth prophet, Zi'eer, is the Lord Regent of Etris.
 -   "A Waltz of Snow and Knights," the theme of Minityrsa, shares the same motif as "A Sarabande of Thunder" and "Dance, if You Can!" Both of these are themes of the Ferryman, which shares the same knife as the Ministry operatives found throughout Minityrsa.
--   There is a high chance that they are **part** responsible for the events in the Second Layer, specially the Ethironal Shrine due to Chaser being one of their operatives, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
+-   There is a high chance that they are **part** responsible for the events in the Second Layer, especially the Ethironal Shrine due to Chaser being one of their operatives, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
 
 A Dark Mage, located in Minityrsa.
 
@@ -2016,7 +2016,7 @@ Though technically a blank slate of varying aspects and abilities, even the play
 -   They are a "Drowned," people with more connections to The Depths than usual.
 -   Its possible this is some sort of opposing Regalia to the Gift (the regalia that gives Lightkeepers their powers).
 -   When they become strong enough, they get the Talent card of the Sound from Below that states that something in The Depths is calling you as if they were tied to The Depths since the beginning.
--   Destroyman III claims to be the player's twin brother.
+-   [Destroyman III](Destroyman_III.md) claims to be the player's twin brother.
 
 ### Castaway
 

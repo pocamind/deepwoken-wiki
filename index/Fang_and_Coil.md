@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 132806
+revid: 132873
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weapons with Unique Criticals, Multiple Criticals]
@@ -31,11 +31,7 @@ categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weap
 
 Fang and Coil is notable for it's dazing capabilities and wide attack area, with both of its criticals dazing opponents on hit and covering decently sized areas around the player compared to other fighting styles. The standing critical ragdolls the opponent away on hit and is a bit slower, but can be useful for mix-ups. The running critical both dazes and puts the opponent into knock-down on hit, giving it high combo potential, and with its forward advance giving it a factor of surprise and, as such, comparatively quicker speed, it's a useful tool for calling out enemy movement and starting combos from mid-range.
 
-## Obtainment
-
-Requirements: Above 20 Light Weapon, [Etrea](Etrea.md) **Friend** Reputation or higher, Defeated [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) while he's not charging up his **Luminant Beam** attack. Note: if you did not get a chest, then it did not count and you need to fight Caeranthil again, this can happen even if he isn't charging his Luminant Beam attack.
-
-In order to obtain it you must speak to [Vesque](Vesque.md), an NPC located in the [Isle of Vigils](Isle_of_Vigils.md) near the Barber and the Attunement [Training Gear](Training_Gear.md) store, while meeting the requirements above. You will receive the Fang and Coil Talent, granting you the fighting style and allowing you to select it from the Character Creation screen.
+In order to obtain it you must speak to [Vesque](Vesque.md), an NPC located in the [Isle of Vigils](Isle_of_Vigils.md) near the Barber and the Attunement [Training Gear](Training_Gear.md) store, while having above 20 Light Weapon, [Etrea](Etrea.md) **Friend** Reputation or higher and having defeated [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) in such a way that rewards a chest. You will receive the Fang and Coil Talent, granting you the fighting style and allowing you to select it from the Character Creation screen.
 
 Vesque
 
@@ -49,7 +45,8 @@ For its **Running Critical**, the user performs a front-flip followed by a dazin
 
 -   Added on the 2025-01-18 Weekly update.
 -   When released initially, its obtainment was bugged due to the NPC not spawning properly. This was amended in a hotfix 8 hours after the patch.[\[1\]](#cite-note-1)
--   [Light's Final Toll](<Light's_Final_Toll.md>)'s critical attacks do not change with this fighting style equipped. _(Unconfirmed)_
+-   [Light's Final Toll](<Light's_Final_Toll.md>)'s critical attacks do not change with this fighting style equipped.
+-   [Wraithclaw](Wraithclaw.md)'s critical attack is unaffected and no running critical is added when wearing [Jade Vigils Weave](<Jade_Vigil's_Weave.md>)
 -   If you have all three fist styles, swapping them with Y will seemingly alternate between only two, ignoring one. This has not been thoroughly tested.
 -   Currently there is a bug where defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) during the windup of its beam attack (the one it uses on Etris docks) will not count as kill credit for unlocking Fang and Coil.
 

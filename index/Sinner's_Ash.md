@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 132429
+revid: 132914
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -27,7 +27,7 @@ _(one-time use, re-obtainable)_
 
 Using **Sinner's Ash** with an already corrupted [Resonance](Resonance.md) will reroll its downside. Using the Sinner's Ash without having obtained a Resonance will do nothing, and dialogue will appear saying "The ashes don't seem to have any effect."
 
-Using **Sinner's Ash** in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) after defeating the Duke while having a [Murmur](Murmur.md) and meeting the stat requirements to obtain [Soulbreaker](Oath%253A_Soulbreaker.md) will grant you the Oath without corrupting your Resonance. More info on the Soulbreaker page.
+Using **Sinner's Ash** in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) after defeating the Duke while having a [Murmur](Murmur.md) and meeting the stat requirements to obtain [Soulbreaker](Oath%253A_Soulbreaker.md) will grant you the Oath without corrupting your Resonance. More info on the [Soulbreaker](Oath%253A_Soulbreaker.md) page.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 131846
+revid: 132877
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Greatswords]
@@ -45,15 +45,16 @@ The cooldown for the critical is **10 seconds**.
 
 ## Trivia
 
--   The Wyrmtooth is based on [Masamune](<https://finalfantasy.fandom.com/wiki/Masamune_(weapon)>), Sephiroth's sword from the _Final Fantasy_ series.
--   At Proficiency 6, it deals 31.3 damage at base and 41.7 damage when both MED and HVY are maxed.
--   In an update on 1/11/25, the Wyrmtooth was given the ability to utilize Greatsword talents, but not general heavy weapon talents.
--   In an update on 4/13/24, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame.
--   The Wyrmtooth is not classed as a katana, so [Paired Soul](Talents.md) doesn't apply to it.
--   Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.
+The Wyrmtooth is based on [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from Elden Ring. If you want to argue against this, look at the weapon model and the critical attack.
+
+1.  At Proficiency 6, it deals 31.3 damage at base and 41.7 damage when both MED and HVY are maxed.
+2.  In an update on 1/11/25, the Wyrmtooth was given the ability to utilize Greatsword talents, but not general heavy weapon talents.
+3.  In an update on 4/13/24, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame.
+4.  The Wyrmtooth is not classed as a katana, so [Paired Soul](Talents.md) doesn't apply to it.
+5.  Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.
     -   Both weapons share the same light attack animations.
--   Both its criticals formerly lacked the universal windup VFX. Its sliding critical also lacked a sound cue.
--   It once had 10 range and 6 weight, with a 6s cooldown for its critical attacks.
+6.  Both its criticals formerly lacked the universal windup VFX. Its sliding critical also lacked a sound cue.
+7.  It once had 10 range and 6 weight, with a 6s cooldown for its critical attacks.
     -   This amount of range meant the Wyrmtooth was once rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and the [Pale Briar](Pale_Briar.md). It even matched the ranges of some pistols, but was otherwise eclipsed by them.
--   Its modeller, TheRealPunchee, stated that it was inspired by the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden Ring_. Nagakiba loosely translates to 'long fang', similar to the name Wyrmtooth.
+8.  Its modeller, TheRealPunchee, stated that it was inspired by the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden Ring_. Nagakiba loosely translates to 'long fang', similar to the name Wyrmtooth.
     -   The standing critical is inspired from the [Piercing Fang](https://eldenring.wiki.fextralife.com/Piercing+Fang) Ash Of War in _Elden Ring_ that is obtainable from the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba).

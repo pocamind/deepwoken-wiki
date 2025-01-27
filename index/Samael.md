@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 130750
+revid: 132893
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oath Trainers, NPCs located in the Eastern Luminant]
@@ -119,5 +119,10 @@ His [aspect](Aspects.md) is hidden by his mask, and even so there are no disting
 > When breaking your Oath:
 > 
 > The Stars were never yours to lay claim to. You're just another heretic rejected by the blood.
-> 
->
+
+  
+
+## Trivia
+
+-   Of the current in-game playable aspects, Samael cannot be any of the following based on lacking their defining features: [Adret](Adret.md), [Capra](Capra.md), [Chrysid](Chrysid.md), [Ganymede](Ganymede.md), [Gremor](Gremor.md), [Tiran](Tiran.md), and [Vesperian](Vesperian.md).
+    -   This leaves [Canor](Canor.md), [Celtor](Celtor.md), [Etrean](Etrean.md), and [Khan](Khan.md). Clipping into his mask shows no facial features. It's possible Canor could be ruled out due to not being able to achieve that level of paleness within the character creation menu, but one could argue he his pursuit of the Celestials has taken all of his melanin.

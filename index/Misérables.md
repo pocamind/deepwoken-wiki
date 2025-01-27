@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 132323
+revid: 132876
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -27,11 +27,11 @@ Upon interaction with the player, Misérables has the ability to grant wishes to
     -   Grants a Yun'Shul wish and removes the [Tarnished](Resonance.md) flaw from the player at the cost of 15 [Knowledge](Knowledge.md).
         -   If you already have a wish, you can hold multiple at the same time. The transaction costs 5 more Knowledge for each wish you already have; it will cost 30 Knowledge for the 4th wish if you have 3.
 
-**Players can choose any amount of wishes per expedition. This has been thoroughly tested; Misérables ONLY kills you if you lack the medallion funds for his power boost.** _(Tested since October 21st, 2023)_
+Players can choose any amount of wishes per expedition. Misérables ONLY kills you if you lack the medallion funds for his power boost.
 
 ## Wish Knowledge Calculator
 
-If you want to calculate the knowledge you'd need for a certain amount of wishes, use this [Desmos Calculator](https://www.desmos.com/calculator/mftmw3nwvo). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
+If you want to calculate the Knowledge you'd need for a certain amount of wishes, use this [Desmos Calculator](https://www.desmos.com/calculator/mftmw3nwvo). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
 
 ## Dialogue
 
