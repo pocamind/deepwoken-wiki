@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 132824
+revid: 133317
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]

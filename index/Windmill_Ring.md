@@ -1,6 +1,6 @@
 ---
 title: Windmill Ring
-revid: 127538
+revid: 133327
 source: https://deepwoken.fandom.com/wiki/Windmill_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

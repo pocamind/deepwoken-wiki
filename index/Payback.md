@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 131775
+revid: 133142
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

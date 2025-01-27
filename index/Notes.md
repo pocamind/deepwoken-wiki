@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 120538
+revid: 132985
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -36,6 +36,7 @@ The max amount of Notes you can carry at a time is.
 -   Turning in [Knowledge](Knowledge.md) at the [Soothsayer](Soothsayer.md).
 -   Completing various [quests](Quests.md).
 -   [Echoes](Echoes.md) can grant a miniscule amount of starting Notes to a character.
+-   Mugging a downed player with the Pickpocket [Talent](Talents.md)
 
 ### Banker
 

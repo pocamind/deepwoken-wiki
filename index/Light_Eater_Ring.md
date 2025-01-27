@@ -1,6 +1,6 @@
 ---
 title: Light Eater Ring
-revid: 127536
+revid: 133188
 source: https://deepwoken.fandom.com/wiki/Light_Eater_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

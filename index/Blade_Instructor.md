@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 130707
+revid: 133041
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea, Kingdom of Etrea Enemies, Etrean Luminant]

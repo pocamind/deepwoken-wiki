@@ -1,6 +1,6 @@
 ---
 title: Aranea
-revid: 125960
+revid: 133017
 source: https://deepwoken.fandom.com/wiki/Aranea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]

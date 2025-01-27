@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 132286
+revid: 132996
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -12,7 +12,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## **Description**
 
-(SPAWNS ARE CURRENCTLY BUGGED**)**
+(SPAWNS ARE CURRENTLY BUGGED**)**
 
 The Mechalodaunt is one of the four Megalodaunt variants. It is a weapon produced by [The Ignition Union](The_Ignition_Union.md) by enhancing Megalodaunts with iron shells, machinery and a powerful Gatling gun. They are found in [Miner's Landing](<Miner's_Landing.md>), its Voidzone [Saramaed Summit](Saramaed_Summit.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md). They are unfinished and were activated prematurely by the [Summer Company](The_Summer_Company.md), thus defaulting to their natural behavior, resulting in them attacking both friend and foe. The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the sheer damage output they can have, easily ending high level players in a few attacks.
 

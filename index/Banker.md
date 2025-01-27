@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 131899
+revid: 132986
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -26,6 +26,7 @@ They can be found in:
 -   [Fort Merit](Fort_Merit.md)
 -   [The Floating Keep](The_Floating_Keep.md)
 -   [Guild Bases](Guild_Bases.md)
+-   [Voidheart](Voidheart.md)
 
 ### Safe Deposit Boxes
 

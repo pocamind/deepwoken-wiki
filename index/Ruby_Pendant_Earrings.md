@@ -1,6 +1,6 @@
 ---
 title: Ruby Pendant Earrings
-revid: 116944
+revid: 133347
 source: https://deepwoken.fandom.com/wiki/Ruby_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -15,7 +15,7 @@ categories: [Equipment, Ears]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | +1 Common Pip,, +1 Rare Pip |
+| innate stats | +1 Common Pip, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Ears]
 
 ## Description
 
-Ruby Pendant Earrings are an [Equipment](Equipment.md) item under the "Ears" category. Equipping this item will give you randomized stats based on the amount of pips it has.
+**Ruby Pendant Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. Equipping them grants +1 Common Pip and +1 Rare Pip.
 
 ## Trivia
 

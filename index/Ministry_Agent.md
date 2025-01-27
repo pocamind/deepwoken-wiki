@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 130596
+revid: 133199
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, The Ministry, Ministry Enemies]

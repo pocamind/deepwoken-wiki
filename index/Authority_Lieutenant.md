@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 132776
+revid: 133032
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]

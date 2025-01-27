@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 132443
+revid: 133298
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, Weapons with Unique Criticals]

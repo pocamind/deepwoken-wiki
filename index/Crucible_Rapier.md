@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 128785
+revid: 133076
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]

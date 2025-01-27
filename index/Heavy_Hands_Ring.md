@@ -1,6 +1,6 @@
 ---
 title: Heavy Hands Ring
-revid: 132690
+revid: 133155
 source: https://deepwoken.fandom.com/wiki/Heavy_Hands_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

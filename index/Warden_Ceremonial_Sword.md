@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 124360
+revid: 133320
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons of The Central Authority]

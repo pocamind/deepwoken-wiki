@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 127157
+revid: 133262
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, World Event]

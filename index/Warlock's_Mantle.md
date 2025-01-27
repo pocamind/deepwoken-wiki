@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Mantle"
-revid: 131618
+revid: 133350
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Mantles, World Event]
@@ -32,3 +32,4 @@ The Warlocks Mantle is a Unique tier [Equipment](Equipment.md) item under the "A
 
 -   It is a part of the Warlock set along with the [Warlock's Brim](<Warlock's_Brim.md>).
 -   The Talent [Overflowing Dam](Talents.md#adept-caster) would usually require 40 Intelligence, and this equipment only requires 5 Intelligence, enabling you to potentially save 35 investment points.
+-   No Longer Requires 5 Intelligence (May Be A Bug)

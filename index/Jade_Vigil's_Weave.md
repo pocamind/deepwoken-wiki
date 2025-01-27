@@ -1,6 +1,6 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 132626
+revid: 133171
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Etrea]

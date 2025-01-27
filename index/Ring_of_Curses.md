@@ -1,6 +1,6 @@
 ---
 title: Ring of Curses
-revid: 127540
+revid: 133251
 source: https://deepwoken.fandom.com/wiki/Ring_of_Curses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

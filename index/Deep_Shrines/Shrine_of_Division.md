@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Division
-revid: 127460
+revid: 133092
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]

@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 130948
+revid: 133210
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant]

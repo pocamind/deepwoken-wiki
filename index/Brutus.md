@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 130717
+revid: 133052
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant]

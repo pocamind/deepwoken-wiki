@@ -1,6 +1,6 @@
 ---
 title: "Finisher's Ring"
-revid: 126731
+revid: 133133
 source: https://deepwoken.fandom.com/wiki/Finisher's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

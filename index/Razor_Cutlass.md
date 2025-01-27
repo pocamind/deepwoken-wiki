@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 130143
+revid: 133245
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]

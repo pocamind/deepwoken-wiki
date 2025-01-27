@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 125174
+revid: 133254
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]

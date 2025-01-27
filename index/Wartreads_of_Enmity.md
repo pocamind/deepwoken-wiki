@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 132777
+revid: 133322
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boots, Equipment, Items]
@@ -12,8 +12,8 @@ categories: [Pages with broken file links, Boots, Equipment, Items]
 |---|---|
 | type | Legs |
 | rarity | Unique |
-| selling price | N/A |
-| requirements | LVL 15 |
+| selling price | 100 |
+| requirements | PWR 15 |
 | weight | 1 |
 | innate stats | 5 Health, +1 Posture, +2 Legendary Pips |
 | innate talent | N/A |
@@ -21,18 +21,16 @@ categories: [Pages with broken file links, Boots, Equipment, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Heart of Enmity |
+| obtainment | Chests from:Heart of Enmity |
 | description | "Titanic boots, once forged to crush enemies into their graves, now anchor you firmly to the ground below." |
 
 ## Description
 
-The Wartreads of Enmity is an [Equipment](Equipment.md) item under the "Legs" category. It is found in chests dropped by the [Heart of Enmity](Heart_of_Enmity.md) in 5+ player Depths trials.
-
-File:Wartreadsplaceholder.png
-
-Equipping the boots grants the wearer innate +5 HP, 1 Posture, and +2 Legendary Pips.
+The **Wartreads of Enmity** is a Unique [Equipment](Equipment.md) item under the "Legs" category. Equipping it grants +5 Health +1 Posture and 2 Legendary Pips. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
 
 File:Screenshot 2024-12-24 180543.png
+
+File:Wartreadsplaceholder.png
 
 ## Trivia
 

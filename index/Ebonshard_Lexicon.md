@@ -1,6 +1,6 @@
 ---
 title: Ebonshard Lexicon
-revid: 129748
+revid: 133114
 source: https://deepwoken.fandom.com/wiki/Ebonshard_Lexicon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]

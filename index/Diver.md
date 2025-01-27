@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 124914
+revid: 133104
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies]

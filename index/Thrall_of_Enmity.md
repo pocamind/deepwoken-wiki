@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 132775
+revid: 133004
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -12,7 +12,7 @@ categories: [Equipment, Face, Masks]
 |---|---|
 | type | Face |
 | rarity | Unique |
-| selling price | N/A |
+| selling price | 100 |
 | requirements | None |
 | weight | 0.5 |
 | innate stats | +1 Rare Pip |
@@ -21,14 +21,14 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Heart of Enmity |
+| obtainment | Chests from:Heart of Enmity |
 | description | "The mask of the fabled Angels of Enmity, infamous for barring the unworthy from the trial, instills dread in the hearts of the drowned." |
 
 Animated Halo
 
 ## Description
 
-The Thrall of Enmity is an [Equipment](Equipment.md) item under the "Face" category. It is found in chests dropped by the [Heart of Enmity](Heart_of_Enmity.md) in Power 50 average Depths trials.
+The **Fauld of Enmity** is a Unique [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants 1 Rare Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
 
 The mask comes with an innate Talent, _Lose Your Mind:_ "Deal more damage the more insane you are. Grants 15% damage at maximum insanity."
 

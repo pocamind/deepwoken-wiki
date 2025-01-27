@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Ring"
-revid: 124651
+revid: 133238
 source: https://deepwoken.fandom.com/wiki/Prophet's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Ministry]

@@ -1,6 +1,6 @@
 ---
 title: "Carrion's Moonseye Scalpel"
-revid: 129778
+revid: 133057
 source: https://deepwoken.fandom.com/wiki/Carrion's_Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]

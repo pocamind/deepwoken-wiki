@@ -1,6 +1,6 @@
 ---
 title: Bastions of Enmity
-revid: 132780
+revid: 133037
 source: https://deepwoken.fandom.com/wiki/Bastions_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Equipment, Items]
@@ -12,7 +12,7 @@ categories: [Arms, Equipment, Items]
 |---|---|
 | type | Arms |
 | rarity | Unique |
-| selling price | N/A |
+| selling price | 100 |
 | requirements | PWR 13 , 10 FTD |
 | weight | 2 |
 | innate stats | +10 Health, +2 Posture, +3 Legendary Pips |
@@ -21,12 +21,12 @@ categories: [Arms, Equipment, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Heart of Enmity |
+| obtainment | Chests from:Heart of Enmity |
 | description | "Holy Mackerel! That was a tough fight!" |
 
 ## Description
 
-The Bastions of Enmity is an [Equipment](Equipment.md) item under the "Arms" category. It is found in chests dropped by the [Heart of Enmity](Heart_of_Enmity.md) in 5+ player Depths trials.
+The **Aegis of Enmity** is a Unique [Equipment](Equipment.md) item under the "Head" category. Equipping it grants +10 Health +2 Posture and 3 Legendary Pips. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
 
 ## Trivia
 

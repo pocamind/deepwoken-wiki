@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 132955
+revid: 132987
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2017,6 +2017,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 60 Light Weapon, using a Gun
 
 -   Rapid Fire \[Common Talent\] - \[1H Guns\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
+    -   Procs on dodge,block and getting hit.
     -   Prerequisites: 50 Light Weapon, using a Gun
 
 -   Rapid Reload \[Common Talent\] - \[1H Guns\] You have 20% faster reload when reloading an empty pistol.
@@ -2275,7 +2276,8 @@ _**"My cure is most effective."**_
     -   Prerequisite: 35 Ironsing
 
 -   Refine and Reuse \[Common Talent, Ironsing Exclusive\] - Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.
-    -   Barely works, does 0.5% dmg difference (from 35% DMG) at max proc against 90% pen with 50% phys and reinforced armor.
+    
+    -   Doesn't work well with reinforced armor
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.

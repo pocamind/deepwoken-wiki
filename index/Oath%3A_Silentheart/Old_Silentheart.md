@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart/Old Silentheart"
-revid: 128947
+revid: 133218
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart/Old_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Oaths]

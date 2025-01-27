@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 127299
+revid: 133323
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Knives of Eylis]

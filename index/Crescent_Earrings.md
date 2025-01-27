@@ -1,6 +1,6 @@
 ---
 title: Crescent Earrings
-revid: 123577
+revid: 133342
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -26,7 +26,7 @@ categories: [Equipment, Ears]
 
 ## Description
 
-Moonlit Earrings are an [Equipment](Equipment.md) item under the "Ears" category. Equipping this item will give you randomized stats based on the amount of pips it has, in addition to 2 Health.
+**Moonlit Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. Equipping them grants +2 Health and +2 Rare Pips.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Maestro's Ring"
-revid: 132587
+revid: 133191
 source: https://deepwoken.fandom.com/wiki/Maestro's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Etrea]

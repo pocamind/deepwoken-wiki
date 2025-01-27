@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Solitude
-revid: 132606
+revid: 133096
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Solitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]

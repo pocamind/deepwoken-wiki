@@ -1,6 +1,6 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 127158
+revid: 133285
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, World Event]

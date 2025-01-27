@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 117997
+revid: 133291
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]

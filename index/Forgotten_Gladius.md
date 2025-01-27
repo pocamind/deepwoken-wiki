@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 124758
+revid: 133140
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]

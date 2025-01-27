@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 132444
+revid: 133257
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Summer Company, Offhand Guns]

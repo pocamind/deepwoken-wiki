@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 129716
+revid: 133173
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
