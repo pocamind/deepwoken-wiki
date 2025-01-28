@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 132182
+revid: 133463
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -40,7 +40,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
     -   You can remove it at [Yamaketzal](Yamaketzal.md) for 1000 Notes, at [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 Knowledge, or by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md) (which also grants a wish.)
 
   
-If you meet all the criteria, you are able to make one of six wishes:
+If you meet all the criteria, you are able to make one of seven wishes:
 
 1.  **"The trials ahead of me fill me with trepidation, I wish to escape this place."**
     -   Instantly sends the player back to The Overworld.

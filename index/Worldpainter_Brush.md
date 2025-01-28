@@ -1,6 +1,6 @@
 ---
 title: Worldpainter Brush
-revid: 133224
+revid: 133466
 source: https://deepwoken.fandom.com/wiki/Worldpainter_Brush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -10,28 +10,29 @@ notices:
 
 # Worldpainter Brush
 
-| Paintbrush | |
+| Worldpainter Brush | |
 |---|---|
 | type | Heavy |
 | requirements | Unknown |
-| damage | ??? |
-| scaling | ??? |
-| range | ??? |
-| swing speed | ??? |
-| endlag | ??? |
-| penetration | ??? |
-| chip damage | ??? |
+| damage | 23 |
+| scaling | 7 |
+| range | 8.5 |
+| swing speed | 0.91 |
+| endlag | None |
+| penetration | 20% |
+| chip damage | None |
 | special effect | ??? |
-| weight | ??? |
+| weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Given to the winner of major art contests. |
+| description | "A mighty brush, bestowed upon Lumen's most gifted artisans." |
 
 ## Description
 
-The **Paintbrush** is a custom weapon handed out to winners of major art contests. There are currently only **four** winners of the Paintbrush weapon, It's also believed that the weapon has unique critical according to one of the Senior Moderators.
+The **Worldpainter Brush** is a custom weapon handed out to winners of major art contests. There are currently only **four** winners of the Paintbrush weapon, It's also believed that the weapon has unique critical according to one of the Senior Moderators.
 
 ## Trivia
 

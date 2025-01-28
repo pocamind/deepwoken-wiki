@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 133004
+revid: 133468
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -28,7 +28,7 @@ Animated Halo
 
 ## Description
 
-The **Fauld of Enmity** is a Unique [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants 1 Rare Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
+The **Thrall of Enmity** is a Unique [Equipment](Equipment.md) item under the "Face" category. Equipping it grants 1 Rare Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
 
 The mask comes with an innate Talent, _Lose Your Mind:_ "Deal more damage the more insane you are. Grants 15% damage at maximum insanity."
 

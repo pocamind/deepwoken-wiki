@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 133395
+revid: 133469
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -61,7 +61,7 @@ Dodgeable:◯
 
 -   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
 
-Parryable:✗  
+Parryable:◯  
 Blockable:✗  
 Dodgeable:✗  
 

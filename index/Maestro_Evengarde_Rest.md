@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 132651
+revid: 133465
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses, Etrea]
@@ -356,6 +356,6 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
 -   The specific weapon of a different type can still drop if you're using a different weapon type. (Ex: Cerulean Thread dropping while using medium).
 -   His Hair ID is 6101425666.
 -   He has Heterochromia (meaning both his eyes are different colors). It is unknown if he is born with this or it's somehow gained from his powers.
--   File:CripstroThugengarde.png
+-   You can spit on Maestro if the battle doesn't start and you have high charisma.
     
-    Maestro was previously a gangster, presumably crip.
+    File:CripstroThugengarde.png
