@@ -1,18 +1,14 @@
 ---
 title: Terminology (game)
-revid: 132798
+revid: 133368
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Deepwoken]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Deepwoken]
 ---
 
 # Terminology (game)
 
 The following article contains a glossary for general game terms related to _Deepwoken_. _If you were looking for the in-game dialogue mechanic, see [Glossary](Glossary.md)._
-
-  
 
 ## General Terms
 
@@ -59,8 +55,8 @@ _noun_
 _noun_
 
 1.  A weak player or enemy who's easy to beat or bad at the game.
-2.  Ex: "I'm not playing with you freshie, because you're a healthpack and you gonna die to everything"
-3.  Ex. "No way he is so trash in ganking bro, we lost the war because of him. What a healthpack!"
+    1.  Ex: "I'm not playing with you freshie, because you're a healthpack and you gonna die to everything"
+    2.  Ex. "No way he is so trash in ganking bro, we lost the war because of him. What a healthpack!"
 
 ### Permafreshie
 
@@ -131,7 +127,7 @@ _verb, noun_
 2.  (Counterplay) Is an effective strategy against in combat.
     1.  Ex. "What counters Jetstrikers?"
 
-Not to be confused with the Full Counter Resonance.
+Not to be confused with the [Payback](Payback.md) Resonance, nicknamed "Full Counter".
 
 ### Cycle/\[n\] Cycle
 
@@ -218,9 +214,13 @@ _verb_
 
 ### Knock-down
 
+_noun_
+
 1.  A type of stun that's almost identical to being guard broken but with its duration varying based off the source. Results in the victim getting knocked flat on the ground against their back.
 
 ### Knock-up
+
+_noun_
 
 1.  An effect that hovers people above the ground with the person that caused this effect. The actions of the victim are limited. The most common source is "Uppercut".
 
@@ -288,9 +288,11 @@ _verb_
 
 _noun_
 
-1.  The time between when an attack begins and when its hitbox is active. Not to be confused with the [Wind-Up](Wind-Up.md) Resonance.
+1.  The time between when an attack begins and when its hitbox is active.
     1.  Ex. Fang and Coil's critical has 0.25 seconds of windup.
     2.  Ex. "Eclipse Kick has really long windup, be wary when using it."
+
+Not to be confused with the [Wind-Up](Wind-Up.md) Resonance.
 
 ## Death Terms
 
@@ -569,12 +571,6 @@ _noun_
 
 ## Acronyms/Short Forms
 
-### Attless
-
-_noun, adjective_
-
-1.  Short form for [Attunement-less](Attunement-less.md).
-
 ### Attributes
 
 Each attribute has an abbreviation. These can be seen next to the respective attribute's name at [Attributes](Attributes.md). Below are some examples of such, along with a list of a few abbreviations that people sometimes use instead of the official ones:
@@ -602,6 +598,13 @@ _noun_
 -   **FLM**: Flamecharm (instead of **FIR**)
 -   **THN/THD**: Thundercall (instead of **LTN**)
 -   **SHD**: Shadowcast (instead of **SDW**)
+-   **Galebreath**: Galebreathe
+
+### Attless
+
+_noun, adjective_
+
+1.  Short form for [Attunement-less](Attunement-less.md).
 
 ### BMing
 
@@ -620,16 +623,18 @@ _noun_
 
 ### Clog/Combat Log
 
-_verb (Read as "c-log")_
+(Read as "c-log")  
+_verb_
 
 1.  A short term for Combat Log - leaving or disconnecting while you are in combat. Doing this will automatically make you be "killed" by the player/mob that granted you the combat tag. This is separate from logging in that it's specifically related to logging during combat.
     1.  "Ex. "This guy clogged while we were fighting, probably because of his wifi. He has good loot though."
 
-Not to be confused with the verb outside of Deepwoken _to clog_. To assure you are not combat logging, always use the door button on the top left of your screen that also makes your character despawn the moment you click.
+Not to be confused with the verb outside of Deepwoken _to clog_. To assure you are not combat logging, always use the door button on the top left of your screen that makes your character despawn the moment you click.
 
 ### Ctag/Combat Tag
 
-_(Read as "c-tag")_ _verb_
+(Read as "c-tag")  
+_verb_
 
 1.  A short term for Combat Tag - hitting a player to prevent them from leaving the game, forcing them to fight or run from by the tagger.
     1.  Ex. "Let me ctag him real quick."

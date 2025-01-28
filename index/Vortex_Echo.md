@@ -1,9 +1,9 @@
 ---
 title: Vortex Echo
-revid: 133353
+revid: 133379
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons, Legendaries]
+categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons]
 ---
 
 # Vortex Echo
@@ -40,8 +40,6 @@ The Critical attack will reduce **most** active cooldowns by 30 seconds (mantras
 | List of unaffected cooldowns: |
 | --- |
 | Command: Live |
-| Reinforce |
-| Adrenaline Surge |
 | Windwaker |
 
 ## Version History
@@ -56,3 +54,5 @@ January 11th 2025
 -   The critical decreases all cooldowns by 30 seconds instead of entirely resetting them.
     -   The crit used to supposedly entirely reset the cooldown.
 -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on **Vortex Echo's** cooldown, lowering it down to 26 seconds in the overworld.
+-   [Fists of Fortitude](Talents.md) works on **Vortex Echo's** cooldown, lowering it down to 26 seconds.
+-   Certain talents with long cooldowns, such as Reinforce and Adrenaline Surge, are still affected by **Vortex Echo's** critical, but the game will show these mantras as if they're under their normal cooldown, this is a visual bug as the mantras will be available to use after a short duration, "skipping" the cooldown indicated visually.

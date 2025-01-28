@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 132916
+revid: 133373
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1593,7 +1593,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
     -   A common theme in the world of Deepwoken is the fact that consuming something of power grants a transfer of power from the consumed, to the consuming.
 -   There are two known Deepwoken, Amorus Pleeksty and The First Prophet of the Ministry.[\[1\]](#cite-note-rag-1)
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of.[\[1\]](#cite-note-rag-1)
-    -   For example, Amorus Pleeksty became incredible in tune with fire to the point of being able to communicate with it after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
+    -   For example, Amorus Pleeksty became incredibly in tune with fire to the point of being able to communicate with it after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
 -   Becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
 -   The consequences of becoming a Deepwoken aren't yet known, but the drawbacks are.[\[2\]](#cite-note-arch-2)
     -   It results in unknown physical changes.[\[2\]](#cite-note-arch-2)
