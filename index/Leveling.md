@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 131506
+revid: 133443
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -46,5 +46,7 @@ you can obtain up to a max of 76 talents which can be turned into mantras throug
 -   Once at power 15, if entering The Depths by your own accord, you can speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at Castle Light and descend to the [Eternal Gale](Second_Layer.md). (You must enter through a whirlpool, otherwise you won't get past the life barrier.)
 -   Each Power increase cleans your Health Bar if it is stained. This does not work while in The Depths, but can still save you from certain death by healing you.
 -   The amount of times you have been sent to the depths increases a counter named Times Drowned in the summary which adds up the number of Drowns to your Power when calculating which trial you must face.[\[1\]](#cite-note-1)
+
+## References
 
 1.  [↑](#cite-ref-1) [Cathedral of the Interstice](Cathedral_of_the_Interstice.md)

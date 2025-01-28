@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 124885
+revid: 133433
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -26,5 +26,7 @@ The People of the Stars, so to speak. They are not to be confused with [Lightbor
 -   The crucified celestial may be a reference to Lilith from Evangelion; both are large crucified beings, their blood being collected and used.
 -   Additionally a "Celestial Race" was planned, however it never made it out of the testing phase of deepwoken.
 -   ragoozer has stated that the Celestials resemble both eldritch beings AND normal human beings. [\[1\]](#cite-note-0-1)
+
+## References
 
 1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) Dev Ragoozer \[\[https://discord.com/channels/920707638034067486/972707935484538911/1221849708528402553\]\]

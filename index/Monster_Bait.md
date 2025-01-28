@@ -1,6 +1,6 @@
 ---
 title: Monster Bait
-revid: 110818
+revid: 133384
 source: https://deepwoken.fandom.com/wiki/Monster_Bait
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -18,7 +18,7 @@ Monster Bait
 
 Monster Bait are craftable items in Deepwoken. It costs Chum to craft, and prior knowledge of the recipe from [Mortus](Mortus.md), housed in a shack a ways away from the alternative shore of [Lower Erisia](Lower_Erisia.md).
 
-Like the name suggests, it is used to spawn monsters. The three craftable baits can be used to spawn [Megalodaunts](Megalodaunt.md), [Threshers](Thresher.md) and [Terrapods](Terrapod.md) respectively. Megalodaunt and Thresher Bait costs 3 Chum, and Terrapod Bait costs 2 Chum.
+Like the name suggests, it is used to spawn monsters. The three craftable baits can be used to spawn [Megalodaunts](Megalodaunt.md), [Threshers](Thresher.md) and [Terrapods](Terrapod.md) respectively. Megalodaunt and Thresher Bait costs 3 [Chum](Chum.md), and Terrapod Bait costs 2 [Chum](Chum.md).
 
 ## How to Use
 

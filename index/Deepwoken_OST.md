@@ -1,16 +1,16 @@
 ---
 title: Deepwoken OST
-revid: 132977
+revid: 133435
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Upcoming content, Pages with broken file links, Pages with reference errors]
+categories: [Upcoming content, Pages with broken file links]
 notices:
   - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---
 
 # Deepwoken OST
 
-_If you are interested about the descriptions of the songs, see [here](https://deepwoken.fandom.com/wiki/File:Deepwoken-Song-Descriptions.pdf)._ _For the Deepwoken sound effects, see [Deepwoken Sounds](Deepwoken_Sounds.md)._
+[\[1\]](#cite-note-naktimessage-1) [\[2\]](#cite-note-naktimessage2-2) _If you are interested about the descriptions of the songs, see [here](https://deepwoken.fandom.com/wiki/File:Deepwoken-Song-Descriptions.pdf)._ _For the Deepwoken sound effects, see [Deepwoken Sounds](Deepwoken_Sounds.md)._
 
 **A gallery of Deepwoken's official soundtracks.**
 
@@ -102,20 +102,20 @@ Using [Moonseye Tome](Moonseye_Tome.md)
 | 17 | [Carol of Resonances](https://soundcloud.com/naktigonis/carol-of-resonances) | 2:43 | [Instruments](Instruments.md) | File:Carol of Resonances.mp3 |
 | 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) | File:TheWindsinger'sDance.mp3 |
 | 19 | [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) | 4:32 | [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) | File:A God, Manufactured.mp3 |
-| TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage2-1) | TBA | [Chaser's Death](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
-| TBA | Bread And Roses[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
-| TBA | Class Struggle[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing Combat](<Miner's_Landing.md>) | TBA |
-| TBA | The Hammer's Call[\[2\]](#cite-note-naktimessage-2) | TBA | TBA | TBA |
-| TBA | ELEISON[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
-| TBA | _Katabasis_[\[2\]](#cite-note-naktimessage-2) | TBA | [New Kyrsa Combat](Second_Layer/New_Kyrsa.md) | TBA |
-| TBA | The Prince Peripatetic[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [The Sunken Railways](The_Sunken_Railways.md)
+| TBA | Synthetic Deicide[\[2\]](#cite-note-naktimessage2-2) | TBA | [Chaser's Death](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
+| TBA | Bread And Roses[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
+| TBA | Class Struggle[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing Combat](<Miner's_Landing.md>) | TBA |
+| TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |
+| TBA | ELEISON[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
+| TBA | _Katabasis_[\[1\]](#cite-note-naktimessage-1) | TBA | [New Kyrsa Combat](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | The Prince Peripatetic[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [The Sunken Railways](The_Sunken_Railways.md)
 
 [The Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md)
 
  | TBA |
-| TBA | 11:59[\[1\]](#cite-note-naktimessage2-1) | TBA | [New Kyrsa Escape Sequence](Second_Layer/New_Kyrsa.md) | TBA |
-| TBA | _Untitled Conquest Lobby Theme[\[1\]](#cite-note-naktimessage2-1)_ | TBA | TBA | TBA |
-| TBA | Wardens of the Valiant Dead[\[1\]](#cite-note-naktimessage2-1) | TBA | [Fort Merit](Fort_Merit.md) | TBA |
+| TBA | 11:59[\[2\]](#cite-note-naktimessage2-2) | TBA | [New Kyrsa Escape Sequence](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | _Untitled Conquest Lobby Theme[\[2\]](#cite-note-naktimessage2-2)_ | TBA | TBA | TBA |
+| TBA | Wardens of the Valiant Dead[\[2\]](#cite-note-naktimessage2-2) | TBA | [Fort Merit](Fort_Merit.md) | TBA |
 | TBA | Our Fortress (Of Smoke And Steel) | TBA | TBA | TBA |
 | TBA | The Ferryman's Lullaby | TBA | TBA | TBA |
 
@@ -149,6 +149,8 @@ Boss Theme
 | N/A | Ash For The Altar | 0:56 | Flamecharm Showcase Theme | File:Ash For The Altar (Flamecharm Showcase Theme).mp3 |
 | N/A | To Sleep, Layer 2 Bell | 1:45 | Main Menu Theme for 2023 April Fools | File:To Sleep, Layer 2 Bell.mp3 |
 
-1.  ↑ [1.0](#cite-ref-naktimessage2-1-0) [1.1](#cite-ref-naktimessage2-1-1) [1.2](#cite-ref-naktimessage2-1-2) [1.3](#cite-ref-naktimessage2-1-3) [1.4](#cite-ref-naktimessage2-1-4) [1.5](#cite-ref-naktimessage2-1-5) [1.6](#cite-ref-naktimessage2-1-6) [1.7](#cite-ref-naktimessage2-1-7) Cite error: Invalid `<ref>` tag; no text was provided for refs named `naktimessage2`
-2.  ↑ [2.0](#cite-ref-naktimessage-2-0) [2.1](#cite-ref-naktimessage-2-1) [2.2](#cite-ref-naktimessage-2-2) [2.3](#cite-ref-naktimessage-2-3) [2.4](#cite-ref-naktimessage-2-4) Cite error: Invalid `<ref>` tag; no text was provided for refs named `naktimessage`
+## References
+
+1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [1.4](#cite-ref-naktimessage-1-4) [1.5](#cite-ref-naktimessage-1-5) Mentioned in an update from Naktigonis about Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
+2.  ↑ [2.0](#cite-ref-naktimessage2-2-0) [2.1](#cite-ref-naktimessage2-2-1) [2.2](#cite-ref-naktimessage2-2-2) [2.3](#cite-ref-naktimessage2-2-3) [2.4](#cite-ref-naktimessage2-2-4) [2.5](#cite-ref-naktimessage2-2-5) [2.6](#cite-ref-naktimessage2-2-6) [2.7](#cite-ref-naktimessage2-2-7) [2.8](#cite-ref-naktimessage2-2-8) Mentioned in a roadmap for Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1191508430956007606)
 3.  [↑](#cite-ref-3) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".

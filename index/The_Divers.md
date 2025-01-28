@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 122104
+revid: 133461
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Reputation, Factions, The Divers]

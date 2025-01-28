@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 133334
+revid: 133454
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -59,6 +59,6 @@ When obtained, Portals will spend its points on the following stats:
 -   This Resonance can be used to exit the boundaries of [Guild Bases](Guild_Bases.md).[\[1\]](#cite-note-1)
 -   If two people have portal bell, they can see each other while either one are in the portal.\[Source Needed\]
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=\_bq6CeNMLzE](https://www.youtube.com/watch?v=_bq6CeNMLzE)

@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 131213
+revid: 133445
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore, Moonseye]
@@ -37,6 +37,8 @@ A major bit of lore that can be inferred from the Moonseye related items is that
 -   The Moonseye at [Moon's Eyrie](<Moon's_Eyrie.md>) is a beacon calling out to "the Last Dead," which, as the [Crypt](Crypt_Blade.md) [Blade](Crypt_Blade.md) description states, are "the last fortunate souls at the end of the Canticlysm to be spared the Drowning."
 -   While the Moonseye is circular, the Suncross is spiked, furthering the Yin and Yang analogy.
 -   The player's cursor whilst in shift-lock can actually be seen as a tiny Moonseye.
+
+## References
 
 1.  [↑](#cite-ref-1) [Moonseye Gauntlets](Moonseye_Gauntlets.md)
 2.  [↑](#cite-ref-2) [Soulthorn](Soulthorn.md)

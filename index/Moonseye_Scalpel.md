@@ -1,6 +1,6 @@
 ---
 title: Moonseye Scalpel
-revid: 129764
+revid: 133446
 source: https://deepwoken.fandom.com/wiki/Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons, Developer Spec, Moonseye]

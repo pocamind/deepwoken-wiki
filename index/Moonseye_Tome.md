@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 130103
+revid: 133447
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Moonseye]
@@ -44,5 +44,7 @@ Attempting to use at Knowledge Cap (999), _"Your mind is too full to take in the
 -   This relic can be stored within the [Item Bank](Item_Bank.md).
 -   Prior to 20/09/24, the tome would grant 30 Knowledge after the first usage. It currently grants 50.
 -   Using the Moonseye Tome will change the currently playing music to **To Sleep, Dreaming**. After changing your location though, the music goes back to normal.
+
+## References
 
 1.  [↑](#cite-ref-1) [https://youtu.be/aYmOWi8fUZY?t=80](https://youtu.be/aYmOWi8fUZY?t=80)

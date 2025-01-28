@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 131070
+revid: 133444
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]
@@ -2127,8 +2127,6 @@ Metal Wisp
  |
 
 ## References
-
-Template:Reflist
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=USPLPJLZQiw](https://www.youtube.com/watch?v=USPLPJLZQiw)
 2.  [↑](#cite-ref-2) With the opponent having 42 Posture and Murmur: Ardour, they will receive 96% of their posture.

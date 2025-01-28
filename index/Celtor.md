@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 124609
+revid: 133434
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -106,6 +106,8 @@ Nametag of a Celtor during Mudwoken.
 -   During the 4/1/2022 April Fools update (Mudwoken), the Celtor aspect name was changed to Mustskipper.
 -   Celtor is tied with Adret and Etrean for the most common aspect.
 -   Celtors are known to gamble often at shipyards and docks they find.[\[1\]](#cite-note-1)
+
+## References
 
 1.  [↑](#cite-ref-1)
     

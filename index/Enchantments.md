@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 132639
+revid: 133406
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -780,5 +780,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
     
 2.  [↑](#cite-ref-2) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))
 3.  [↑](#cite-ref-3)
+
+  
 
 File:StoneArchMage.png

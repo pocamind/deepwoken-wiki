@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 131228
+revid: 133388
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Moonseye]

@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 130916
+revid: 133442
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -160,7 +160,7 @@ Upon talking to him, Korin will give the player a free lumber axe if the player 
 -   A counterpart of this NPC can be found in the Isle of Vigils, with the same functions.
 -   It is implied in one of his dialogue options that he formerly pursued a profession as a Vigil, but failed to meet the required sword expertise for the job.
 
-## Gallery (right side of your screen)
+## References
 
 1.  [↑](#cite-ref-1)
     

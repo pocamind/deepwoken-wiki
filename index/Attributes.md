@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 132083
+revid: 133429
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -218,6 +218,8 @@ _**NOTE:** The message that appears when training an attunement, "The elements a
 -   If you lack attribute EXP, using training gear will give the message "I can feel my <attribute> improving...". The attribute will automatically increase once you get enough attribute EXP. You can cancel this by clicking on the grey arrow next to the attribute in the inventory screen.
 -   If you need to uncap an attribute, you get the message "I've hit a wall in my training. Maybe there's some way to break it?"
 -   When starting off, considering which attributes are your most important will help guide you in your run. For some people, they'll want to raise Agility first so they can get Agility Talents before they raise Fortitude. _Rare cards especially benefit from this method of leveling, as per the reason stated above - as well as having quicker access to those cards._
+
+## References
 
 1.  [↑](#cite-ref-1) Also known as "AGI".
 2.  [↑](#cite-ref-2) More commonly known as "WIL" or "WILL".

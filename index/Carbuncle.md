@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 133056
+revid: 133432
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -49,6 +49,6 @@ Carbuncles only has 2 attacks, listed below:
 -   Carbuncles in real life are pus filled boils that form under the skin due to infections. Don't search those up if you are easily repulsed by pus. Alternatively, it can refer to a gemstone.
 -   The noises Carbuncles produce come from the 'Lunatic Cultist' boss from Terraria when it gets hurt.[\[1\]](#cite-note-1)
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1)

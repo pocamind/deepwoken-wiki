@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Lightning"
-revid: 133157
+revid: 133437
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Lightning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons]
@@ -37,6 +37,6 @@ The user and phantom summon a line of thunder in front of themselves, dealing da
 -   The Hero of Thunder is an [Adret](Adret.md), identified by her facial markings.
 -   The Hero of Thunder was named Tessa.[\[1\]](#cite-note-1)
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1) [https://x.com/Deepwoken/status/1801820070403772727](https://x.com/Deepwoken/status/1801820070403772727)

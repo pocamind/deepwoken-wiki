@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 133051
+revid: 133448
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -148,7 +148,7 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
 -   They have 15,000 health when corrupted - the exact same amount of health Duke has.
 -   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move.
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1)
     
