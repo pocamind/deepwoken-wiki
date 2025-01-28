@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 133141
+revid: 133477
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -46,8 +46,8 @@ This is where the Attunement trainer is located.
 
 ### Combat
 
-| **Image** | **Name** | **Card Description** | **Damage Type** | **Effect** |
-| --- | --- | --- | --- | --- |
+| **Image** | **Name** | **Card Description** | **Ether Cost** | **Damage Type** | **Effect** |
+| --- | --- | --- | --- | --- | --- |
 | 
  | 
 
@@ -57,6 +57,10 @@ Ice Spikes
  | 
 
 _Piercing spikes of ice._
+
+ | 
+
+ ? Ether
 
  | 
 
@@ -83,6 +87,10 @@ _Fire a beam of ice._
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice
 
  | Fire a penetrating beam of ice.
@@ -104,6 +112,10 @@ Warden's Blades
  | 
 
 _Revolving blades of ice._
+
+ | 
+
+ ? Ether
 
  | 
 
@@ -133,6 +145,10 @@ _A legion of frost._
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice
 
  | Conjures a surrounding ring of 4 to 5 frozen servants that emits two blasts of frosty mist to the center.
@@ -155,6 +171,10 @@ Ice Daggers
  | 
 
 _Form and toss daggers of ice at your aimed opponent._
+
+ | 
+
+60 Ether
 
  | 
 
@@ -181,6 +201,10 @@ Ice Blade
  | 
 
 _A barrage of freezing blades._
+
+ | 
+
+50 Ether
 
  | 
 
@@ -211,6 +235,10 @@ _Chains of ice._
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice
 
  | Conjures 3-4 chains of ice that lock-on and stun the target for a brief period of time.
@@ -236,6 +264,10 @@ _A flurry of ice spikes._
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice
 
  | Perform a stomp with the user's right leg, forming 3 ascending waves of ice formations that encases the target in ice.
@@ -248,7 +280,9 @@ Ice
     -   The walls can deal damage if they spawn very close to your opponent.
 
  |
-|  | 
+| 
+
+ | 
 
 Ice Forge  
 (★☆☆)
@@ -256,6 +290,10 @@ Ice Forge
  | 
 
 _Conjure and throw weapons of ice._
+
+ | 
+
+35 Ether
 
  | 
 
@@ -286,6 +324,10 @@ _A colossal mace of ice._
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice
 
  | Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead.
@@ -308,6 +350,10 @@ Ice Lance
  | 
 
 _Form an ice spear and lunges forward._
+
+ | 
+
+ ? Ether
 
  | 
 
@@ -335,6 +381,10 @@ _Conjure a glaive of frost and launch your opponents skyward._
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice + Slash
 
  | Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air.
@@ -356,6 +406,10 @@ Ice Flock
  | 
 
 _Send forth a flock of ice_
+
+ | 
+
+60 Ether
 
  | 
 
@@ -381,6 +435,10 @@ Ice Carve
  | 
 
 _A sharp disk of ice._
+
+ | 
+
+ ? Ether
 
  | 
 
@@ -413,6 +471,10 @@ _An icy chokehold._
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice + Blunt  
 (Initial Grab)  
 Ice  
@@ -441,6 +503,10 @@ _Knock your enemy skyward with a kick of crystal._
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice
 
  | Perform a short flipkick that launches the user's target into the air.
@@ -464,6 +530,10 @@ _Impale your foes with a brutal crystal smash._
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice
 
  | Ascend before performing a quick spinning dash towards the user's target.
@@ -482,6 +552,10 @@ Ice Lasers
  | 
 
 _Swift bolts of frozen air._
+
+ | 
+
+ ? Ether
 
  | 
 
@@ -509,6 +583,10 @@ _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cu
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice
 
  | Conjures 3 ice cubes above the user that are on standby and throws them to where their cursor is.
@@ -532,6 +610,10 @@ _Send ice rippling out in a shockwave._
 
  | 
 
+ ? Ether
+
+ | 
+
 Ice
 
  | Conjures an obelisk of ice in front of the player.
@@ -548,8 +630,8 @@ Ice
 
 ### Mobility
 
-| **Image** | **Name** | **Card Description** | **Damage Type** | **Effect** |
-| --- | --- | --- | --- | --- |
+| **Image** | **Name** | **Card Description** | **Ether Cost** | **Damage Type** | **Effect** |
+| --- | --- | --- | --- | --- | --- |
 |  | 
 Glacial Arc  
 (★☆☆)
@@ -557,6 +639,10 @@ Glacial Arc
  | 
 
 _An arc of ice._
+
+ | 
+
+ ? Ether
 
  | 
 
@@ -583,6 +669,10 @@ _Skate freely on paths of ice._
 
  | 
 
+ ? Ether
+
+ | 
+
 N/A
 
  | Form a frozen path of ice as the user slides on at a high velocity.
@@ -601,6 +691,7 @@ N/A
   <th>Media</th>
   <th>Name</th>
   <th>Card Description</th>
+  <th>Ether Cost</th>
   <th>Damage Type</th>
   <th>Effect</th>
 </tr>
@@ -609,6 +700,7 @@ N/A
   <td><center>Frost Wisp<br>
   (★★☆)</center></td>
   <td><center><i>A servant of ice.</i></center></td>
+  <td><center>60 Ether</center></td>
   <td><center>N/A</center></td>
   <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
@@ -626,6 +718,7 @@ N/A
   <td><center>Iceberg<br>
   (★★★)</center></td>
   <td><center><i>Enter a state of cryostasis.</i></center></td>
+  <td><center>&nbsp;? Ether</center></td>
   <td><center>Ice</center></td>
   <td>Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. The user will automatically parry one hit while this is active.
   <ul>

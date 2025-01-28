@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 114074
+revid: 133481
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Teacher is a Pathfinder NPC that effectively grants you a free attribute point by listening to a story. They wear the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) outfit.
+The Teacher is a Pathfinder NPC that spawns during the [Pathfinder Gathering](Random_Encounters.md#pathfinder-gathering) event. Talking to the Teacher will prompt you to listen to one of 6 stories that will grant you a free attribute point at the end. They wear the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) outfit.
 
 -   A story of bravery. (Willpower)
 -   A story of cunning. (Intelligence)

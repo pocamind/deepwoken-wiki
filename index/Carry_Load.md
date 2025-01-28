@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 132663
+revid: 133476
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,7 +26,7 @@ In order of carry load given:
 -   _Champion's Regalia_ gives 1 carry load.
 -   _Gourmand_ gives 2 carry load.
 -   _Unstoppable_ Force gives 2 carry load.
--   _Destructive Recovery_ gives carry load.
+-   _Destructive Recovery_ gives 2 carry load.
 -   _Pitcher_ gives 3 carry load.
 -   _Pocket Sand_ gives 4 carry load.
 -   _Unwavering_ Resolve gives 4 carry load.
@@ -35,6 +35,8 @@ In order of carry load given:
 -   _Lootskipper_ gives 4 carry load.
 -   _Duelist's Dance_ gives 4 carry load.
 -   _Spine Cutter_ gives 6 carry load.
+-   _Face Cutter_ gives 6 carry load.
+-   _Turning of the Wheel_ gives 6 carry load.
 -   _Rain of Static_ gives 7 carry load.
 -   _Jolt Cast_ gives 7 carry load.
 -   _Eureka_ gives 7 carry load.
@@ -53,7 +55,7 @@ In order of carry load given:
 -   _Gathering Electricity_ gives 10 carry load.
 -   _Concussive Flash_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would theoretically provide 182 carry load.
+All of these [Talents](Talents.md) combined would theoretically provide 194 carry load.
 
 ### Other Sources
 
@@ -87,7 +89,7 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **557**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **668**.
+Combining both Talents and other sources, the total amounts to **569**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **683**.
 
 Due to attribute limitations, the current best carry load build can only get **546**/**655** carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
 

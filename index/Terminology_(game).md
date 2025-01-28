@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 133368
+revid: 133482
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -479,9 +479,15 @@ _noun_
 
 _noun_
 
-1.  Refers to the [Dread Serpent](Dread_Serpent.md), the name comes from [Kaido](https://onepiece.fandom.com/wiki/Kaidou?so=search) from One Piece who has a similar appearance to the Dread Serpent in his dragon form.
+1.  Refers to the [Dread Serpent](Dread_Serpent.md). The name comes from [Kaido](https://onepiece.fandom.com/wiki/Kaidou?so=search) from One Piece who has a similar appearance to the Dread Serpent in his dragon form.
 
 ### Monkey / Monke
+
+_noun_
+
+1.  Refers to [Primadon](Primadon,_Titan_of_the_East.md).
+
+### Prim
 
 _noun_
 
@@ -491,7 +497,7 @@ _noun_
 
 _noun_
 
-1.  Refers to a [Megalodaunt](Megalodaunt.md), originates from the Pathfinder Gathering event's unique NPC-NPC conversation.
+1.  Refers to a [Megalodaunt](Megalodaunt.md). Originates from the [Pathfinder Gathering](Random_Encounters.md#pathfinder-gathering) event's unique NPC-to-NPC conversation.
 
 ### Squibbo
 

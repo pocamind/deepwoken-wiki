@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 124984
+revid: 133480
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -90,7 +90,7 @@ The Hobo can be found across Erisia and will spawn three chests around him. If y
 
 A Pathfinder
 
-#### Pathfinders
+#### Pathfinder Gathering
 
 Rarely, the player may find 2 [Pathfinders](Pathfinder.md) sitting around a campfire with a [teacher](Teacher.md). Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to the teacher will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. This will use one of your investment points. Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in Erisia. Curiously, they hate all factions and vice versa.
 

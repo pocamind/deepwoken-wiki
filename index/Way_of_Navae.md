@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 124393
+revid: 133473
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -53,4 +53,4 @@ Completing either of these methods will grant you the Way of Navae Talent which 
     -   You'll use your sliding momentum to dash forward.
 -   If you have Way of Navae and [Legion Kata](Legion_Kata.md) you can switch between them quickly by pressing Y.
 
-Weapons you can equip while using the Way Of Navae are the fists (default), [Iron Cestus](Iron_Cestus.md), [Legion Cestus](Legion_Cestus.md), [Flamekeeper Cestus](Flamekeeper_Cestus.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Coral Cestus](Coral_Cestus.md), [Wraithclaw](Wraithclaw.md) and [Light's Final Toll](<Light's_Final_Toll.md>). Same goes for [Legion Kata](Legion_Kata.md).
+Weapons you can equip while using the Way Of Navae are the fists (default), [Iron Cestus](Iron_Cestus.md), [Legion Cestus](Legion_Cestus.md), [Flamekeeper Cestus](Flamekeeper_Cestus.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Gaunts of Enmity](Gaunts_of_Enmity.md), [Coral Cestus](Coral_Cestus.md), [Wraithclaw](Wraithclaw.md) and [Light's Final Toll](<Light's_Final_Toll.md>). Same goes for [Legion Kata](Legion_Kata.md).

@@ -1,14 +1,20 @@
 ---
 title: Evengarde Rest
-revid: 133123
+revid: 133497
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
 ---
 
 # Evengarde Rest
 
-Template:NPC name _This is his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md); for his Boss state, see [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)._
+| Evengarde Rest | |
+|---|---|
+| name | Maestro Evengarde Rest |
+| aspect | Etrean |
+| location | Temple of the Blade |
+
+_This is his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md); for his Boss state, see [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)._
 
 ## Description
 
@@ -20,132 +26,142 @@ After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals h
 
 ## Dialogue
 
-| 
-Begin
+**Requirements Unmet:**
 
- |
-| --- |
-| _\*A chilling wind seems to pick up within the room as you approach the man. Something in your gut tells you now isn't the time to introduce yourself.\*_ |
-| 
+When you have not done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-quest) from Apprentice Kj, or have not beaten [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), or have not High-Ally reputation with [Etrea](Etrea.md), or have not [Power](Power.md) 15, or all of them.
 
-Begin (After Vigil Saviour)
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*A chilling wind seems to pick up within the room as you approach the man. Something in your gut tells you now isn't the time to introduce yourself.*</i></td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
- | 
+**Vigil Saviour:**
 
-Begin (After Duke Erisia, Ally Rep, ≥80 LHT/MED/HVY)
+After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-quest) from Apprentice Kj.
 
- | 
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, well if it isn't [name]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly.</td>
+</tr>
+<tr>
+  <td colspan="6">I need training.</td>
+  <td colspan="6">Maestro, Etrea needs your help. The Lord Regent must be stopped.</td>
+</tr>
+<tr>
+  <td colspan="6">I see... What are you proficient in?</td>
+  <td colspan="6"><i>*He grimaces.*</i> Be that as it may, his presence is the only thing standing in the way of a full invasion by the Central Authority. My strength alone cannot hold them back.</td>
+</tr>
+<tr>
+  <td colspan="3">I'm not proficient in anything.</td>
+  <td colspan="3">I need training in [Light]/[Medium]/[Heavy] Weapons.</td>
+  <td colspan="3">Surely the Authority is better than the state Etrea is in right now?</td>
+  <td colspan="3">What if Etrea could stand on its own?</td>
+</tr>
+<tr>
+  <td colspan="3">Although you helped us greatly, I do not have the time to teach a true beginner. Come back when you have displayed some level of competence.</td>
+  <td colspan="3"><b>MED:</b> Ah, my specialty. Very well, I shall teach you the steps to become a Master.<br>
+  <p><b>Other:</b> Ah, I will have to break out Astris and Aeris (LHT)/Galadriel (HVY). Very well, I shall teach you the steps to become a Master.</p></td>
+  <td colspan="3">They would strip our blades from our hands and destroy our way of life. Living under the thumb of Authority Peacekeepers is no life at all. I'd sooner fall upon my own blade than submit to those dogs.</td>
+  <td colspan="3">Should the tides shift... I would gladly stand at your side in vanquishing that foul creature. For too long has Etrea been subject to the whims of others. Be that the Ministry or the Authority...</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
-Begin (After defeating, <80 LHT/MED/HVY)
+**Ally+Duke:**
 
- |
-| Ah, well if it isn't \[Name\]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly. | _\*The Maestro smiles as you approach him.\*_ \[Name\] what brings you here? | \*_The Maestro smiles_\*. Ah, well if it isn't my friend, \[name\]. / How's "Purple Cloud"/"Pale Briar"/"Cerulean Thread" treating you? |
-| 
+After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High-Ally reputation with [Etrea](Etrea.md).
 
-I feel as if we're unprepared against the Lord Regent.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*The Maestro smiles as you approach him.*</i> [name] what brings you here?</td>
+</tr>
+<tr>
+  <td colspan="12">I feel as if we're unprepared against the Lord Regent.</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*He raises an eyebrow.*</i> As much as I hate to admit it... You may be right. <i>*A moment of silence passes*</i></td>
+</tr>
+<tr>
+  <td colspan="12">...I heard you have an arsenal of weapons in this hall.</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*The Maestro appraises you, his eyes flicking towards you.*</i> I suppose I have amassed a collection over the years. However, those days are over now. Most of my blades are now collecting dust.</td>
+</tr>
+<tr>
+  <td colspan="12">Could I use them?</td>
+</tr>
+<tr>
+  <td colspan="12">Hm? Use them?</td>
+</tr>
+<tr>
+  <td colspan="12">I mean, if they're not being made use of there's no harm in it right?</td>
+</tr>
+<tr>
+  <td colspan="12">Listen [name], I personally appreciate what you have done for us. However, there are no ordinary blades. They possess formidable strength behind them.</td>
+</tr>
+<tr>
+  <td colspan="12">What if I prove myself? How about a challenge?</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*The Maestro smirks, he finds the concept amusing.*</i> A challenge, hm? Very well then, I will test your strength myself.
+  <ul>
+    <li><b>HVY</b>: The weapon I will offer you is known as the "Pale Briar." It's a weapon of some significance from the West.</li>
+    <li><b>MED</b>: The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history.</li>
+    <li><b>LHT</b>: The weapon I will offer you is known as the "Cerulean Thread". It's a fine dagger when coupled with steel wire as its thread.</li>
+  </ul><p>That being said, I have no intention of going easy on you. This polearm (<b>HVY</b>) / blade (<b>MED</b>) / knife (<b>LHT</b>) cannot be handled by the faint of heart.</p></td>
+</tr>
+<tr>
+  <td colspan="12">I'll do it.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
- | 
+**After Defeat:**
 
-We've been well, thank you. Care for another round? / Care for another round?
+After having defeated [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for the first time, and subsequent encounters.
 
- |
-| _\*He raises an eyebrow.\*_ As much as I hate to admit it... You may be right. _\*A moment of silence passes\*_ | Let's see how your skills have improved. |
-| 
-
-...I heard you have an arsenal of weapons in this hall.
-
- |
-| _\*The Maestro appraises you, his eyes flicking towards you.\*_ I suppose I have amassed a collection over the years. However, those days are over now. Most of my blades are now collecting dust. |
-| 
-
-Could I use them?
-
- |
-| Hm? Use them? |
-| 
-
-I mean, if they're not being made use of there's no harm in it right?
-
- |
-| Listen \[Name\], I personally appreciate what you have done for us. However, there are no ordinary blades. They possess formidable strength behind them. |
-| 
-
-What if I prove myself? How about a challenge?
-
- |
-| (MED)
-
-_\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history. That being said, I have no intention of going easy on you. This blade cannot be handled by the faint of heart.
-
- | (HVY)
-
-_\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The weapon I will offer you is known as the "Pale Briar." It's a weapon of some significance from the West. That being said, I have no intention of going easy on you. This polearm cannot be handled by the faint of heart.
-
- | (LHT)
-
-_\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The weapon I will offer you is known as the "Cerulean Thread". It's a fine dagger when coupled with steel wire as its thread. That being said, I have no intention of going easy on you. This knife cannot be handled by the faint of heart.
-
- |
-| 
-
-I'll do it.
-
- |
-| 
-
-End
-
- |
-| 
-
-I need training.
-
- | 
-
-Maestro, Etrea needs your help. The Lord Regent must be stopped. (Starting Duke Erisia quest)
-
- |
-| _\*He grimaces.\*_ Be that as it may, his presence is the only thing standing in the way of a full invasion by the Central Authority. My strength alone cannot hold them back. |
-| 
-
-Surely the Authority is better than the state Etrea is in right now?
-
- | 
-
-What if Etrea could stand on its own?
-
- |
-| They would strip our blades from our hands and destroy our way of life. Living under the thumb of Authority Peacekeepers is no life at all. I'd sooner fall upon my own blade than submit to those dogs. | Should the tides shift... I would gladly stand at your side in vanquishing that foul creature. For too long has Etrea been subject to the whims of others. Be that the Ministry or the Authority... |
-| 
-
-End
-
- |
-| I see... What are you proficient in? |
-| 
-
-I'm not proficient in anything.
-
- | 
-
-I need training in Light/Medium/Heavy Weapons.
-
- |
-| Although you helped us greatly, I do not have the time to teach a true beginner. Come back when you have displayed some level of competence. |
-| 
-
-End
-
- | **MED:** Ah, my specialty. Very well, I shall teach you the steps to become a Master.
-
-**Other:** Ah, I will have to break out Astris and Aeris (LHT)/Galadriel (HVY). Very well, I shall teach you the steps to become a Master.
-
- |
-| 
-
-End
-
- |
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td>*<i>The Maestro smiles</i>*. Ah, well if it isn't my friend, [name]. / How's Purple Cloud/Pale Briar/Cerulean Thread treating you?</td>
+</tr>
+<tr>
+  <td colspan="12">We've been well, thank you. Care for another round? / Care for another round?</td>
+</tr>
+<tr>
+  <td colspan="12">Let's see how your skills have improved, eh?</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

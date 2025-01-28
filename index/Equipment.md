@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 133020
+revid: 133472
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -252,6 +252,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 -   Mob drop from [Authority Officer](Authority_Officer.md) (**~10%**)
 
  | N/A |
@@ -2386,6 +2387,7 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
  | N/A |
@@ -5076,6 +5078,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Browline & Round  
 Regular, Amber, & Azure |

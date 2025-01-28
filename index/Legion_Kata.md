@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 127867
+revid: 133474
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -51,6 +51,6 @@ Afterwards, once you obtain the recommendation, you must go to [The Viper's Jaw]
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) uses this fist style in his boss fight.
 -   If you have [Way of Navae](Way_of_Navae.md) and Legion Kata you can switch between them quickly by pressing Y.
 -   The Legion Kata critical attack is a grab, yet it doesn't bypass block. Guardbreaking someone will only daze them, and you won't actually grab them.
--   Weapons you can equip while using Legion Kata are the fists (default), [Iron Cestus](Iron_Cestus.md), [Legion Cestus](Legion_Cestus.md), [Flamekeeper Cestus](Flamekeeper_Cestus.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Coral Cestus](Coral_Cestus.md), [Wraithclaw](Wraithclaw.md) and [Light's Final Toll](<Light's_Final_Toll.md>). Same goes for [Way Of Navae.](Way_of_Navae.md)
+-   Weapons you can equip while using Legion Kata are the fists (default), [Iron Cestus](Iron_Cestus.md), [Legion Cestus](Legion_Cestus.md), [Flamekeeper Cestus](Flamekeeper_Cestus.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Gaunts of Enmity](Gaunts_of_Enmity.md), [Coral Cestus](Coral_Cestus.md), [Wraithclaw](Wraithclaw.md) and [Light's Final Toll](<Light's_Final_Toll.md>). Same goes for [Way Of Navae.](Way_of_Navae.md)
 -   It takes roughly two authority grips at the Starswept Valley to obtain the recommendation, assuming you have not previously lost rep with the Legion and that you are not a Khan.
 -   With the job update you can get Legion Kata a little bit faster now.
