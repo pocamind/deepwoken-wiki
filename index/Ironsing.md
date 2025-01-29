@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 133420
+revid: 133560
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -60,11 +60,11 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
  | A flurry of metal spikes. | 45 Ether | Metal + Slash + Bleed | Stomp the ground, causing a flurry of metal spikes to erupt forward.
 
--   Does 37 DMG at 5 lvl, 0.5s windup and 15s CD
+-   Deals 37 DMG at 5 lvl, 0.5s windup and 15s CD
 -   By rotating your view, you can reangle the mantra to catch rolls.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity, which was useful in the past because the eruption was collidable, but it is not anymore.
--   Deals high posture damage. Heavily reminiscent of the legacy Frostdraw mantra, [Ice Eruption](Frostdraw.md).
+-   Deals 14.5 posture damage. Heavily reminiscent of the legacy Frostdraw mantra, [Ice Eruption](Frostdraw.md).
 
  |
 | 
@@ -79,7 +79,7 @@ Ether
 
  | Metal + Slash | Jump into the air before throwing out 3 projectiles towards the location of the cursor.
 
--   Does 27 DMG at 5 lvl if every projectile hits
+-   Deals 27 DMG at 5 lvl if all 6 needles land
 -   0.63s Windup, 16s CD
 -   6 Needles at 5 lvl.
 -   Applies Metal Rods on hit.
@@ -97,7 +97,7 @@ Ether
  | A powerful kick laced with metal | 30 Ether | Metal + Bleed | Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit.
 
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md) that causes the mantra to perform a faster drop-kick that doesn't apply knockdown.
--   Both Versions of Metal kick does 45 dmg, 13s CD
+-   Both Versions of Metal kick deals 45 dmg, 13s CD
 -   Spring Spark has wind up of 0.5 sec and non spark 1s
 
  |
@@ -109,7 +109,7 @@ Ether
 
  | Unleash a rain of metal rods down below. | 50 Ether | Metal | Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly.
 
--   Deals 153 DMG at 5 lvl (if every hit lands),
+-   Deals 153 DMG at 5 lvl, 3 posture per hit (if everything lands),
 -   1.35s wind up, 20s CD, 3.3s CD
 -   Hits around 22-23 times (if every mental rain projectile hit).
 -   Applies Metal Rods on hit.
@@ -163,7 +163,7 @@ Ether
  | Conjure metal swords and rush forward with them | 50 Ether | Metal + Slash | Conjure a vortex of blades before rushing forward, dealing moderate damage.
 
 -   Rapid-hitting mantra.
--   Deals 103 dmg at 5 lvl, if everything hits.
+-   Deals 103 dmg at 5 lvl, 10 posture total.
 -   0.6s windup, 13s CD
 -   Applies Metal Rods on hit.
 
@@ -180,7 +180,7 @@ Ether
 
  | Metal + Bleed | Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target.
 
--   Does 60 DMG at 5 lvl, 0.7s wind up, 12s CD
+-   Deals 60 DMG at 5 lvl, 12 posture, 0.7s wind up, 12s CD
 -   Applies Metal Rod on hit.
 
  |
@@ -210,7 +210,7 @@ Ether
 
  | Summon a blade of metal to swing alongside you. | 40 Ether | Metal + Slash | Coat the character's body and weapon in a fluctuating ironlike iron-bits. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds.
 
--   Does 21 dmg at 5 lvl, 0.35s wind up, lasts 20s, 30s cd
+-   Deals 21 dmg at 5 lvl, posture 4 per hit, 0.35s wind up, lasts 20s, 30s cd
 -   Deep gems not proccing (Except Blue)
 -   Upgrading the level increases the duration of the mantra.
 
@@ -240,7 +240,7 @@ Ether
 -   Deals 73 damage at 5 lvl, 0.73s windup, 18s cd.
 -   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
 -   Block breaks at level 5.
--   EXTREMELY BUGGY HITBOX (Prepare yourself miss it in perfect hit)
+-   EXTREMELY BUGGY HITBOX
 
  |
 | 
@@ -251,7 +251,7 @@ Ether
 
  | Crush your opponents bones with an iron infused grab. | 50 Ether | Metal + Slash | Perform a short windup before tightly hugging the opponent, dealing damage before sending them away.
 
--   Deals 67 dmg total at 5 lvl, 1.1s windup, 11s cd.
+-   Deals 67 dmg total at 5 lvl, 10 posture, 1s windup, 11s cd.
 -   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
 -   With the [Metal Absorption](Talents.md) Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
 -   Matador procs against Iron Hug's hyperarmor.
@@ -265,7 +265,7 @@ Ether
 
  | Create a lance, impale your opponent, and send them flying. | 35 Ether | Metal + Slash + Bleed | After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way.
 
--   Deals 70 damage at 5 lvl, 0.5s windup, 13s cd
+-   Deals 70 damage at 5 lvl, 10 posture, 0.5s windup, 13s cd
 -   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md) mantra and Frostdraw's [Ice lance](Frostdraw.md) mantra respectively.
 
  |
@@ -281,7 +281,7 @@ Ether
 
  | Summon a large metal pillar | 50 Ether | Metal + Bleed | Form a pillar from below, causing the character to ascend upwards as the pillar forms.
 
--   Does 40 DMG at 5 lvl, lasts 9s. 13s CD
+-   Deals 40 DMG at 5 lvl, lasts 9s. 13s CD
 -   1.5s Windup
 -   The height of the pillar will depend on what is above the user.
 -   Can be modified with **Cloudstones/Stratus Stones** to extend its width.
@@ -296,7 +296,7 @@ Ether
 
  | Create a metal ball and rush forward. | 40 Ether | Metal + Slash + Bleed | Encased in a metal ball, rush forward while knocking down any targets in the way.
 
--   Deals 36 DMG at 5 lvl, 0.7s windup, 10.5s cd
+-   Deals 36 DMG at 5 lvl, 10 posture, 0.7s windup, 10.5s cd
 -   Covers around 100 studs of distance.
 -   Applies Metal Rods on hit.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
@@ -330,7 +330,7 @@ Does not negate deferred, fire or fall damage.
 
  | Manifest chains to brutally pull enemies towards you. | 50 Ether | Metal + Blunt | Conjure a chain of metal from the right hand that pulls in any targets from the cursor.
 
--   Deals 31 DMG at 5 lvl, 0.5s windup, 13s cd.
+-   Deals 31 DMG at 5 lvl, 5 posture, 0.5s windup, 13s cd.
 -   Can be modified with Crystal and Perfect Lenses to increase its range.
 -   Can be modified with a reversal spark, making it knock enemies away.
 -   Will not activate properly on certain mobs (namely [Ferryman](The_Ferryman.md)), consuming Ether but still dealing small damage and instantly restoring the cooldown, allowing for it to be spammed until you run out of Ether.

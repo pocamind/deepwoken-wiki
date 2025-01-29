@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 132958
+revid: 133547
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -76,9 +76,11 @@ Enemy-Neutral Reputation
 
 ## Notable Members
 
+[Deepdelver Hoffa](Lore.md): Otherwise known as Colonel Hoffa. A powerful Ignition Deepdelver mentioned in lore whose aspect is currently unidentified as of now, they are mentioned to be as strong as [Akira](Akira.md) and is suspected to be an Arcwarder.
+
 [Deepdelver Tau](Deepdelver_Tau.md): A Ganymede Deepdelver in charge of leading players into expeditions into the [Saramaed Hollow](Saramaed_Hollow.md), Tau is in charge of bringing the Deep Drill back to the surface when a signal is called by the player via the radio communication system inside the drill.
 
-[Deepdelver Adar, Master of Metal](Adar,_Master_of_Metal.md): An Etrean with the rank of a Deepdelver in one of the towers in Miner's Landing studying on how to bring Ironsing back into the modern world. He has been in the Union presumably since birth from the Union taking him off the streets, due to the living Ironsingers guarding the secrets of the attunement he is hidden with the comrades of the Union not knowing where he is as he would be punished for attempting to turn a normal person into an Ironsinger.
+[Deepdelver Adar](Adar,_Master_of_Metal.md): An Etrean with the rank of a Deepdelver in one of the towers in Miner's Landing studying on how to bring Ironsing back into the modern world. He has been in the Union presumably since birth from the Union taking him off the streets, due to the living Ironsingers guarding the secrets of the attunement he is hidden with the comrades of the Union not knowing where he is as he would be punished for attempting to turn a normal person into an Ironsinger.
 
 [Deepdelver Gamma](Deepdelver_Gamma.md): A Khan Deepdelver who resides in the Chariot's Spire who is in charge of the area working with supplies and finding a lost member in the Eternal Gale, he has been in the first layer all his life.
 
@@ -91,6 +93,10 @@ Enemy-Neutral Reputation
 [Epsi](Epsi.md): A young Gremor boy working for the Ignition Union and was brought to the second layer with Alpha's team, tasked with communicating with the other members using the radio, his fate is left at the player depending on their actions.
 
 [Orion](<Miner's_Landing.md#orion-quest>): A Celtor that tasks the player with killing Summer Goons that invade Miner's Landing.
+
+[Llevyn](Llevyn.md): An Adret who can call down the Ignition Deepdrill for the player to escape the Eternal Gale without the Lighthook.
+
+[Sunway](Sunway.md): A Vesperian who explains the function of the Wormwarder Lanterns to the player along with the parasites of the Eternal Gale explaining their origin.
 
 ## Trivia
 

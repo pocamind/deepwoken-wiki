@@ -1,9 +1,9 @@
 ---
 title: Hollow Angel
-revid: 112699
+revid: 133574
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies that can wield Enchantments]
+categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
 ---
 
 # Hollow Angel
@@ -112,4 +112,7 @@ Blockable:◯
 -   Fire Blade and Rapid Punches can easily kill Lesser Angels since these Mantras stun the enemy, leaving the Lesser Angels vulnerable to regular attacks.
 -   Lesser Angels previously used to attack any other monsters in the Depths, but this was silently removed in a shadow update.
 -   They resemble the Malebranche demons from the _Castlevania_ animated series episode, _The Harvest_.
+    
+    File:AngelCastlevania.png
+    
 -   They are internally referred to as ".angel\_lesser(ID)". The ID counts how many have spawned.

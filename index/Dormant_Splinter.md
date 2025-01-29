@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 133110
+revid: 133553
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -23,7 +23,7 @@ categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Understrand, Voidsea Events, Moon's Eyrie, Ferryman, Dread Serpent, Heart of Enmity, Saramaed Hollow |
+| obtainment | The Understrand, Voidsea Events, Moon's Eyrie, Ferryman, Dread Serpent, Heart of Enmity, Saramaed Hollow, Weird Trader |
 | description | "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to the other weapons in your collection, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." |
 
 _This might have not been the page you were looking for; if you were looking for the craftables, view the [Fondant Splitter](Fondant_Splitter.md) or [Umbrite Witherblade](Umbrite_Witherblade.md)._

@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 131546
+revid: 133542
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -18,7 +18,6 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals]
 | swing speed | 0.7x |
 | chip damage | 25% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| selling price | ? |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
@@ -33,7 +32,7 @@ The **Chorus of Agonies** is a Unique tier Legendary [Greataxe](Weapons.md); a s
 
 Similar to all other Enmity drops, it automatically Soulbounds.
 
-## Critical(s)
+## Critical
 
 Stomp the ground with hyperarmor and if landed follow up with an overhead strike with your axe. You enter brief true-hyperarmor state during the stomp as well as stealing your opponent's hyperarmor. This makes the critical an effective combo breaker+counter, It's also useful when trading criticals.
 

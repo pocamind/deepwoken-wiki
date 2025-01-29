@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 133018
+revid: 133544
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -27,7 +27,7 @@ notices:
 
 ― The Hammer's Call
 
-The Arc Suit is a defence orientated piece of semi-sentient armour that [the Union](The_Ignition_Union.md) bestows upon their most trusted. It fuses with the soul of those who swear the oath, allowing them to manifest it around them at will. Arcwarders are sworn to become a conduit of protection to their fellow Union mates and do whatever it takes to defend them.
+The Arc Suit is a defence orientated piece of semi-sentient armour that [the Union](The_Ignition_Union.md) bestows upon their most trusted. It fuses with the soul of those who swear the oath, allowing them to manifest it around them at will. Arcwarders are sworn to become a conduit of protection to their fellow Union mates and do whatever it takes to defend them. Notably, Arcwarders are the only people known to utilize Plasma in their attacks, likely from a result of the [Flamecharm](Flamecharm.md) and [Thundercall](Thundercall.md) being combined within the suit.
 
 ## Obtainment
 

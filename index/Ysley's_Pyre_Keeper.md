@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 133431
+revid: 133559
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive]
@@ -26,7 +26,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Starswept Valley, Primadon, Golem Constructs, Fishing |
+| obtainment | Chests From:, Starswept Valley, Primadon, Golem Constructs, Fishing, Weird Trader |
 | description | A pair of blades once used by a High Curator of the Hive. Said to be crafted by the 2nd Greatlord as a Gift to the 3rd, though due to their pacifism it collected dust until acquired by Ysley. Burns brightly with the Fire of Life. |
 
 ## Description
@@ -49,7 +49,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 
 **Normal:** Performs 3 slashes (1 slow and 2 fast) with all of them inflicting the green burn effect. This critical gives a major speed boost for a short time after use.
 
-**Running:** Performs a short-ranged dash forward with the blade facing forward. Hitting a target ends the dash making the user grab them, drag them clockwise around the user with the blade and fling them with an explosion that dazes.(can use crit again if hit the target)
+**Running:** Performs a medium ranged dash with the blade behind the user, When hitting a target, the user knocks them down and preforms an upwards slash with the blade that uptilts and takes the users critical attack off of cooldown, intended to combo into the aerial crit seemingly.
 
 **Sliding:** Leaps forward slashing with a flurry of 3 blows.
 
@@ -65,7 +65,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
     -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
 -   The M1s used to have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but this was changed on April 19, 2024.
 -   You cannot use running critical attacks at [The Interstice](The_Interstice.md), instead you will proc the air critical attacks. Probably a bug or it was just because [The Interstice](The_Interstice.md) is a place that was above the Void Sea,
--   It is one of nine weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Krulian Knife](Krulian_Knife.md) and [Wyrmtooth](Wyrmtooth.md)
+-   It is one of nine weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), [Cerulean Thread](Cerulean_Thread.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Krulian Knife](Krulian_Knife.md) and [Wyrmtooth](Wyrmtooth.md).
     -   It also has the most amount of critical attack variations (Five, one for nearly every possible previous input).
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 133484
+revid: 133572
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -154,9 +154,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 25 Intelligence
     -   Mutual Exclusive: Return to the Dark Ages
 
--   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 1.5 seconds or more grants an aura to your attacks that grant them 15% more damage.
-    -   Overflowing Dam doesn't require you to wait for 1.5s upon reaching 100% ether, whereas the Talent's Description says you do need to wait to get the damage buff. It just applies the moment you hit full ether.
-    -   Despite what the description says, the damage buff is only 10%.
+-   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
+    -   Overflowing Dam doesn't require you to wait for 2s upon reaching 100% ether, whereas the Talent's Description says you do need to wait to get the damage buff. It just applies the moment you hit full ether.
     -   Prerequisite: 40 Intelligence
     -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
 
@@ -1175,9 +1174,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
     -   Durability of Orbital Ice is equal to "Frostdraw investment ÷ 4", reaching 25 at 100 Frostdraw.
-    -   Can be stack with Fists of Fortitude, if you have [Icebringer's Vestments](<Icebringer's_Vestments.md>) outfit
     -   Cooldown of 90 seconds.
     -   Mutual Exclusive: Fists of Fortitude
+    -   Can only be stacked with Fists of Fortitude, if you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) outfit
     -   Prerequisite: 65 Frostdraw
 
 ### Frozen Warrior

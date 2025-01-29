@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 128748
+revid: 133564
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -17,7 +17,7 @@ categories: [Relics, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, First Layer + Hell Mode (Brown Chests), Fishing, Primadon, The Diluvian Mechanism, First Layer, War Mode, Etris: Siege, Lysander Spellhardt |
+| obtainment | Duke Erisia, First Layer + Hell Mode (Brown Chests), Fishing, Primadon, The Diluvian Mechanism, First Layer, War Mode, Etris: Siege, Lysander Spellhardt, Weird Trader |
 | description | "An idol utilised in rituals to call forth the Voice of Yun'Shul." |
 
 ## Description

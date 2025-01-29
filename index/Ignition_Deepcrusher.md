@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 127552
+revid: 133562
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -23,7 +23,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weap
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Second Layer, Saramaed Hollow, The Diluvian Mechanism |
+| obtainment | First Layer, Second Layer, Saramaed Hollow, The Diluvian Mechanism, Weird Trader |
 
 ## Description
 

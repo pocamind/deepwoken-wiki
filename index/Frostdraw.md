@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 133477
+revid: 133541
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -183,7 +183,6 @@ Ice
  | Form 3 daggers of ice before throwing them towards the nearest target.
 
 -   Deals moderate damage.
--   Costs 60 Ether to cast.
 -   Projectiles are homing.
 -   Does not inflict Chill.
 -   Can grant an additional effect with the "Frozen Pin-Cushion" Talent, which freezes the target upon hit.
@@ -353,7 +352,7 @@ _Form an ice spear and lunges forward._
 
  | 
 
- ? Ether
+Costs 60 Ether to cast.
 
  | 
 
@@ -361,8 +360,7 @@ Ice
 
  | Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact.
 
--   Deals 55 DMG
--   Costs 60 Ether to cast.
+-   Deals 55 DMG.
 -   Applies Chill. 2 second chill on the first hit, the second hit can apply a 4 second chill with 1 Eternal logstone.
 -   During the wind-up, pressing \[F\] cancels the impale.
 -   Both the impact and the detonation are parriable.
@@ -381,7 +379,7 @@ _Conjure a glaive of frost and launch your opponents skyward._
 
  | 
 
- ? Ether
+Costs 30 Ether to cast.
 
  | 
 
@@ -391,7 +389,6 @@ Ice + Slash
 
 -   The aoe can be increased with 2 stratus stones.
 -   Deals 65 damage.
--   Costs 30 Ether to cast.
 -   Applies Chill. (2 seconds per hit, can't be increased)
 -   Capable of proccing Meteor Impact.
 
@@ -471,7 +468,7 @@ _An icy chokehold._
 
  | 
 
- ? Ether
+Costs 40 Ether to cast.
 
  | 
 
@@ -483,7 +480,6 @@ Ice
  | User turns invisible and teleports to their opponent within a short range, on hit holds their opponent while they get hit by the ice chains.
 
 -   Deals 54 damage.
--   Costs 40 Ether to cast.
 -   Applies an extremely long 12 sec chill at base.
 -   This mantra has a cooldown of 8 seconds. It goes on a 4 second cooldown if no targets are found on the area of the grab.
 -   Does not apply chill through block with Unyielding Frost.
@@ -583,7 +579,7 @@ _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cu
 
  | 
 
- ? Ether
+Costs 45 Ether to summon the icecubes and costs 45 ether to fire them manually for a total of 90 ether cost. However if they're fired off automatically it costs no ether.
 
  | 
 
@@ -595,7 +591,6 @@ Ice
 -   Projectiles are homing.
 -   Does not inflict Chill.
 -   Has a good amount of range.
--   Costs 45 Ether to summon the icecubes and costs 45 ether to fire them manually for a total of 90 ether cost. However if they're fired off automatically it costs no ether.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to cause the mantra to send out each projectile individually.
 
  |

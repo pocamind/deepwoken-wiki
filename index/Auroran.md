@@ -1,6 +1,6 @@
 ---
 title: Auroran
-revid: 125089
+revid: 133577
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Character, Aspects, Exclusive aspects, Article stubs, Developer Spec]
@@ -10,14 +10,11 @@ notices:
 
 # Auroran
 
+Template:Races-Main
+
 ## Description
 
 Not a lot of information known about this race, though it is a unique Gremor variant. This race has long like horns, in a blue type white color. From what we know, this race doesn't have a lot of lore attached with it.
-
-Template:Races-Main
-
-  
-Chance of obtaining aspect: **N/A%**
 
 ## Racial Traits
 

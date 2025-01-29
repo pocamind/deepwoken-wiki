@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 132285
+revid: 133548
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -146,6 +146,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |  |
 | [Serena](Serena.md) | Unalighned | [Starswept Valley](The_Starswept_Valley.md) | Asks for water from a [canteen](Canteen.md). Gives XP and a chest, or attacks you. |  |
 | [Serendi](Serendi.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
+| [Sibex](Sibex.md) | Unaligned | [The Aratel Sea](The_Aratel_Sea.md) ontop of a Statue on the islands infront of [Starswept Valley](The_Starswept_Valley.md) | Tells you how close you are to unlocking your [Resonance](Resonance.md) and what method is best to unlock it. |  |
 | [Scope](Scope.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
 | [The Stranger](Quiet_Stranger.md) | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Used to grant [Murmur: Tacet](Murmur%253A_Tacet.md) to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
 | [Stratos](Stratos.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a Talent to those who meet his requirements |  |
