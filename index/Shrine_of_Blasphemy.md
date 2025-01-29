@@ -1,6 +1,6 @@
 ---
 title: Shrine of Blasphemy
-revid: 98587
+revid: 133593
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Deep Shrines#Shrine of Blasphemy](Deep_Shrines.md#shrine-of-blasphemy)
+-   [Deep Shrines/Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)

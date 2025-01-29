@@ -1,6 +1,6 @@
 ---
 title: Shrine of Chance
-revid: 98588
+revid: 133594
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Deep Shrines#Shrine of Chance](Deep_Shrines.md#shrine-of-chance)
+-   [Deep Shrines/Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md)

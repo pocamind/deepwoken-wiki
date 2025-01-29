@@ -1,6 +1,6 @@
 ---
 title: Shrine of Unification
-revid: 98592
+revid: 133595
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Unification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Deep Shrines#Shrine of Unification](Deep_Shrines.md#shrine-of-unification)
+-   [Deep Shrines/Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md)

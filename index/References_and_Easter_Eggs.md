@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 126532
+revid: 133636
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -39,7 +39,7 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   **Flame Within** works similarly to [Power Within](https://darksouls.fandom.com/wiki/Power_Within).
 -   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
--   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo).
+-   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo) and [Mahoraga](https://jujutsu-kaisen.fandom.com/wiki/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga).
 -   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo%23Jujutsu).
 -   **Flaming Scourge** is inspired by Charlotte Katakuri's **Buzzcut Mochi**.
 
@@ -88,6 +88,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 ### Bloodrend
 
 -   **Veinbreaker** may be a reference to Slayer's [Super Mappa Hunch](https://youtu.be/WvZLibhVVDQ?si=yv3OijWFrJ8-lJHC) from _Guilty Gear -STRIVE-_
+-   **Scarlet Cannon** is a reference to [Choso's](https://jujutsu-kaisen.fandom.com/wiki/Choso#Abilities_and_Powers) Piercing Blood from Jujutsu Kaisen.
 
 ### Attunementless
 
@@ -183,7 +184,7 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   However, it actually consistently spells the name incorrectly.
 -   **Underdog** may be a reference to a skill of the same name from _Fire Emblem Awakening._
 -   The name of **Dragon's Song**—and by extension, the uppercut game mechanic—is derived from the [Shoryuken](https://streetfighter.fandom.com/wiki/Shoryuken) from the _Street Fighter_ series, wherein it is colloquially referred to as the "dragon punch"; the Shoryuken is an uppercut that is typically used to counter an opponent's aerial attack.
--   **Action Surge** is similar in effect to the Rogue Lineage skill of the same name, albeit much less potent.
+-   **Action Surge** is similar in effect to the Rogue Lineage skill of the same name, albeit much less potent. It may also be a reference to the Dungeons and Dragons Fighter class feature of the same name.
 -   **Blood and Iron** is a reference to the [Roblox game](https://roblox-blood-iron.fandom.com/wiki/) of the same name.
 -   The [Mystic](Mystic.md) quote for the Talent category **Quack Doctor** is "[My cure is most effective](https://scp-wiki.wikidot.com/scp-049)."
 

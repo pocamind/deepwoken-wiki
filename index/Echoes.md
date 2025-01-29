@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 133405
+revid: 133601
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -33,6 +33,8 @@ A Rank now gives 1 character slot for free.
 S Rank is achievable by doing all echoes tasks (listed below).
 
 A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Vow of Thorns and Glass Bones.
+
+[https://deepwoken-checklist.vercel.app/index.html](https://deepwoken-checklist.vercel.app/index.html) check list incase u need it
 
 W Rank being obtained
 

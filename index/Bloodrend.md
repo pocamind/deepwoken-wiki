@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 133510
+revid: 133587
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -71,7 +71,7 @@ Bloodrend currently has a total of 17 mantras.
 
 (☆☆☆)
 
- | Conjure a bloody cross. | 25 Ether | N/A | Launch a crucifix-shaped projectile at the cursor's position.
+ | Conjure a bloody cross. | 25 Ether | Blood | Launch a crucifix-shaped projectile at the cursor's position.
 
 -   At level 5 it deals 50 damage.
 -   Ragdolls.
@@ -84,7 +84,7 @@ Bloodrend currently has a total of 17 mantras.
 
 (☆☆☆)
 
- | Release an amalgamation of your blood. | 25 Ether | N/A | Launch an orb-shaped projectile of blood to wherever the character is facing.
+ | Release an amalgamation of your blood. | 25 Ether | Blood | Launch an orb-shaped projectile of blood to wherever the character is facing.
 
 -   At level 5 it deals 40 damage.
 -   Leaves behind a Blood Pool.
@@ -99,7 +99,7 @@ Bloodrend currently has a total of 17 mantras.
 
 (☆☆☆)
 
- | Create a cyclone of blood. | 30 Ether | N/A | Perform a quick gesture before conjuring and sending a volley of blood that goes through enemies towards wherever the character is facing before dissipating when hitting an object or exceeding its ranged.
+ | Create a cyclone of blood. | 30 Ether | Blood | Perform a quick gesture before conjuring and sending a volley of blood that goes through enemies towards wherever the character is facing before dissipating when hitting an object or exceeding its ranged.
 
 -   18 seconds CD
 -   At level 5 (AND IF ALL TICKS OF DAMAGE LAND) this attack deals approximately 120 damage (Not exact amount).
@@ -116,7 +116,7 @@ Bloodrend currently has a total of 17 mantras.
 
 (★☆☆)
 
- | Leap into the air and slam down with vengeance. | 35 Ether | N/A | Jump up into the air before slamming down, dealing AoE damage and applying knockdown.
+ | Leap into the air and slam down with vengeance. | 35 Ether | Blood | Jump up into the air before slamming down, dealing AoE damage and applying knockdown.
 
 -   Leaves behind a Blood Pool.
 -   Knockdowns the enemy on hit.
@@ -130,7 +130,7 @@ Bloodrend currently has a total of 17 mantras.
 
 (★☆☆)
 
- | Create stakes of blood. | 25 Ether | N/A | Conjure a stake of blood near the character that locks onto an enemy and impales them; stakes can also form from nearby blood pools conjured from the user.
+ | Create stakes of blood. | 25 Ether | Blood | Conjure a stake of blood near the character that locks onto an enemy and impales them; stakes can also form from nearby blood pools conjured from the user.
 
 -   Leaves behind a Blood Pool.
 -   Deals moderate damage (atleast a single stake).
@@ -146,7 +146,7 @@ Bloodrend currently has a total of 17 mantras.
 
 Ether
 
- | N/A | Quickly conjure up a scythe of blood before rushing forward, hitting any target(s) in its way.
+ | Blood | Quickly conjure up a scythe of blood before rushing forward, hitting any target(s) in its way.
 
 -   At level 5 this attack deals 45 damage.
 
@@ -157,7 +157,7 @@ Ether
 
 (★★☆)
 
- | Create a giant blood beam. | N/A Ether | N/A | Jump into the air before blasting a continuous beam of blood at a nearby target.
+ | Create a giant blood beam. | N/A Ether | Blood | Jump into the air before blasting a continuous beam of blood at a nearby target.
 
 -   Beam locks onto target for the entire duration of the mantra.
 -   If hit for the whole duration, it deals 65 damage.
@@ -169,7 +169,7 @@ Ether
 
 (★★☆)
 
- | Charge up a strong punch infused with your blood. | 35 Ether | N/A | Activate to initiate charging, the user's character will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. M1 while charging to initiate the punch. Once fully charged, the mantra gains the ability to blockbreak.
+ | Charge up a strong punch infused with your blood. | 35 Ether | Blood | Activate to initiate charging, the user's character will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. M1 while charging to initiate the punch. Once fully charged, the mantra gains the ability to blockbreak.
 
 -   Damage and posture scales based on the duration charged.
 -   At level 5 and fully charged this attack deals 130 damage.
@@ -183,7 +183,7 @@ Ether
 
 (★★☆)
 
- | Grab and siphon blood out of your victim. | 50 Ether | N/A | Dash forward with a blood-infused fist before lifting any and all target(s) in its way whilst causing the target(s) to implode with blood.
+ | Grab and siphon blood out of your victim. | 50 Ether | Blood | Dash forward with a blood-infused fist before lifting any and all target(s) in its way whilst causing the target(s) to implode with blood.
 
 -   At level 5 this mantra deals 50 damage.
 
@@ -194,7 +194,7 @@ Ether
 
 (★★☆)
 
- | Create weapons on your arms and dash through. | 25 Ether | N/A | Quickly conjure blades from the arms of the character before dashing forward, launching the target(s) upwards and initiating an attack. If landed successfully, fly back in the opposite direction before initiating a follow-up attack.
+ | Create weapons on your arms and dash through. | 25 Ether | Blood | Quickly conjure blades from the arms of the character before dashing forward, launching the target(s) upwards and initiating an attack. If landed successfully, fly back in the opposite direction before initiating a follow-up attack.
 
 -   At level 5: The first hit deals 45 damage and the second one 20 damage.
 
@@ -205,7 +205,7 @@ Ether
 
 (★★☆)
 
- | Release blood daggers. Recast to call them. | 30 Ether | N/A | Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on its impact location. Activating the mantra again will cause the daggers to fly towards and hit the nearest target.
+ | Release blood daggers. Recast to call them. | 30 Ether | Blood | Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on its impact location. Activating the mantra again will cause the daggers to fly towards and hit the nearest target.
 
 -   At mantra level 5, the quantity of daggers thrown out is increased from 3 > 6.
 -   At level 5: It deals 60 damage if all knives land. It also deals 60 damage in the re-cast if all knives land, for a total of 120 damage if all 6 knives land both times. Its highly probable that each singular knive deals 10 damage.
@@ -217,7 +217,7 @@ Ether
 
 (★★☆)
 
- | Slash upwards and launch slashes of blood. | 30 Ether | N/A | Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground.
+ | Slash upwards and launch slashes of blood. | 30 Ether | Blood | Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground.
 
 -   At level 5 and if all the blood slashes land, this mantra deals 60 damage.
 
@@ -228,7 +228,7 @@ Ether
 
 (★★★)
 
- | Summon the Bloodtide and perform a sacrificial judgement. | 80 Ether | N/A | Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage for every second passed. Simultaneously, a projectile shaped of a [Bloodtide Trident](Bloodtide_Trident.md) is conjured and ascended for every second of the mantra's duration before finally plummeting at the mantra's duration expiring and dealing massive AoE damage.
+ | Summon the Bloodtide and perform a sacrificial judgement. | 80 Ether | Blood | Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage for every second passed. Simultaneously, a projectile shaped of a [Bloodtide Trident](Bloodtide_Trident.md) is conjured and ascended for every second of the mantra's duration before finally plummeting at the mantra's duration expiring and dealing massive AoE damage.
 
 -   At level 5, and if all hits land, this mantra deals a total of 85 damage.
 
@@ -243,7 +243,7 @@ Ether
 
 Ether
 
- | N/A | Perform a gesture that causes a nearby target to explode continuously with blood.
+ | Blood | Perform a gesture that causes a nearby target to explode continuously with blood.
 
 -   Can be modified with a Multiplying Spark, triggering in 2 bursts and stunning the target for a bit longer.
 -   At level 5 and if all the ticks of damage landed (can be vented) this mantra deals 70 damage.
@@ -259,7 +259,7 @@ Ether
 
 (★☆☆)
 
- | Create or jump into a pool of blood. | 35 Ether | N/A | Quickly dive into a pool of blood and gain the ability move around while being invulnerable before resurfacing whilst dealing damage.
+ | Create or jump into a pool of blood. | 35 Ether | Blood | Quickly dive into a pool of blood and gain the ability move around while being invulnerable before resurfacing whilst dealing damage.
 
 -   Leaves behind a Blood Pool
 -   Mantra is similar to that of Beast Burrow and Shade Step
@@ -274,7 +274,7 @@ Ether
 
 (★★☆)
 
- | Create tendrils of blood. | 40 Ether | N/A | Conjure out tendrils of blood with both arms to grab onto a target before launching the user towards them, kicking them whilst dealing damage.
+ | Create tendrils of blood. | 40 Ether | Blood | Conjure out tendrils of blood with both arms to grab onto a target before launching the user towards them, kicking them whilst dealing damage.
 
 -   Leveling up this mantra will increase its range.
 -   At level 5: The fist hit deals 20 damage and the second hit, the dropkick deals 35 damage.

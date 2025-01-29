@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 132919
+revid: 133596
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -45,7 +45,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Bladeharper](Oath%253A_Bladeharper.md)
 
-(75 MED OR comb. 90 WEP/25 STR OR AGL)
+(75 MED or comb. 90 WEP/25 STR or AGL)
 
 [Blindseerfinal](Oath%253A_Blindseer.md)
 
@@ -63,7 +63,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Chainwarden](Oath%253A_Chainwarden.md)
 
-(comb. 40 STR OR FTD OR WLL)
+(comb. 40 STR or FTD or WLL)
 
 [Dawnwalkerfinal](Oath%253A_Dawnwalker.md)
 
@@ -105,13 +105,13 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Silentheart](Oath%253A_Silentheart.md)
 
-(75 WEP/25 STR/25 AGL OR CHA)
+(75 WEP/25 STR/25 AGL or CHA)
 
 [Soulbreakerfinal](Oath%253A_Soulbreaker.md)
 
 [Soulbreaker](Oath%253A_Soulbreaker.md)
 
-(comb. 50 WLL/CHA)
+(comb. 50 WLL or CHA)
 
 [Starkindredfinal](Oath%253A_Starkindred.md)
 
