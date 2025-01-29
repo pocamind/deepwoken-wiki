@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 133538
+revid: 133580
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,6 +24,11 @@ The Glossary is a feature that explains terminology and events in game that reve
 -   To many, and indeed to those they have conquered, the Central Authority is an empire all the same.
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the Depths by the Divers and the Ignition Union.
 -   The Central Authority is helmed by the Sovereign Drallis Ehr and his Council. An immortal, the Sovereign has been the head of state for the Central Authority since its inception.
+
+#### The Divers
+
+-   An expeditionary organisation stemming from the Citadel of Markor that conduct routine expeditions into the Depths in order to gather research, materials, and eliminate emergent threats.
+-   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
 ### Magic
 
