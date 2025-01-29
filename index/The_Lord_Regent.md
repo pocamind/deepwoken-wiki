@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 132019
+revid: 133505
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
@@ -10,7 +10,7 @@ categories: [Etrean NPCs, NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer
 
 | The Lord Regent | |
 |---|---|
-| name | The Lord Regent |
+| name | Zi'eer |
 | aspect | Etrean |
 | location | Etris Palace |
 
@@ -24,14 +24,9 @@ Zi'eer, more commonly known as The Lord Regent or by his title, the fourth Proph
 
 While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true aspect or aggressive mutations from his meddling with the world's natural order is unknown.
 
-“ A horrible scream pierced my ears, followed by a vision of a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its emerald eyes drilling straight into my consciousness. ”
-
-― Operation 'Puppet Master' Report
-
-  
 The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. When he rose to power, he had the City's Official History Office decommissioned, seemingly to ensure he will be the only history the people of Etris will ever know. He also had a mental veil installed in the people of Etris, giving them each conflicting ideas of where he came from and how long he was in power for.
 
-The throne upon which he sits is an artifact from the [Depths](The_Depths.md), amplifying the power of whoever sits on it. The Lord Regent likely stays on it to maintain the mental veil on the inhabitant of Etris. As stated by Authority Inquisitor Lotus in the book _Operation "Puppet\_Master" Report_, mental veils aren't something new, but are usually limited to a single person, but applying it on an entire town goes beyond the ability of the common man.
+The throne upon which he sits is an artifact from [The Depths](The_Depths.md), amplifying the power of whoever sits on it. The Lord Regent likely stays on it to maintain the mental veil on the inhabitant of Etris. As stated by Authority Inquisitor Lotus in the book _Operation "Puppet\_Master" Report_, mental veils aren't something new, but are usually limited to a single person, but applying it on an entire town goes beyond the ability of the common man.
 
 He has a particular interest in a powerful object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into [banks](Banker.md) gives a hefty reward and is lorewise sent to the Palace.
 

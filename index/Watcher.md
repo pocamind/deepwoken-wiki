@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 118237
+revid: 133515
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -31,5 +31,7 @@ Shortly after, [Lesser Angels](Hollow_Angel.md) will be summoned to attempt to k
 -   The Watcher’s appearance is a possible reference to the Demogorgon from Stranger Things
 -   Through console commands, Watchers are able to drop an item called "Watcher's Petal" that is used to make the potion called "Moonseye's Vigor" that make you transcend to a body that defies natural reasoning. As of 2024 the existence of the Moonseye Vigor has been confirmed, but the purpose has been kept secret at behest of ArcMage (Source: Doc, Agamatsu)[\[1\]](#cite-note-1)
 -   Each Watcher has a shared cooldown of 2 Minutes before they are able to spot the same entity again.
+
+## References
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=dqWGiYMpxQE](https://www.youtube.com/watch?v=dqWGiYMpxQE)

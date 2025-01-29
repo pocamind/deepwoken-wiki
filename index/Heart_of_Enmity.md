@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 133118
+revid: 133498
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -93,6 +93,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
 -   [Chorus of Agonies](Chorus_of_Agonies.md)
 -   [Crypt Blade](Crypt_Blade.md)
 -   [Dormant Splinter](Dormant_Splinter.md)
+-   [Gaunts of Enmity](Gaunts_of_Enmity.md)
 -   [Shattered Katana](Shattered_Katana.md)
 -   (Alloyed) [Adretian Axe](Adretian_Axe.md)
 -   [Pernach](Pernach.md)

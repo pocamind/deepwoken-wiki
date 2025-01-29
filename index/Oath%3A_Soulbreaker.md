@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 133467
+revid: 133517
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -100,7 +100,7 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
     -   Projectile goes really far (~150 studs) and can hit multiple people at once.
     -   Upon hit, pushes the enemy in the direction of a projectile.
     -   Has a windup of 0.5 seconds and a cooldown of 12 seconds.
-    -   It deals 50 **Oath** damage.
+    -   It deals around 50 **Oath** damage.
 
 -   **Rhythm Advance - Combat Mantra**
     -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
@@ -108,10 +108,12 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
     -   On successful hit, shows HP and Posture of enemies you hit
     -   Provides I-Frames during entire move
     -   AOE attack, can hit multiple people at once.
+    -   It deals an unknown amount of physical damage.
 
 -   **Tacet Kick - Combat Mantra**
     -   Similarly to Tacet Drop Kick, the user turns invisible before teleporting to the opponent with the use of tacet and kicking them.
     -   **May be** useful for catching players.
+    -   It deals an unknown amount of physical damage.
 
 ## Version History
 

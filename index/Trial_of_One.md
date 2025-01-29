@@ -1,14 +1,12 @@
 ---
 title: Trial of One
-revid: 127930
+revid: 133521
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
 ---
 
 # Trial of One
-
-[\[1\]](#cite-note-1)
 
 LocationL Trial of One LocationR
 
@@ -28,15 +26,15 @@ The entrance is located under [Outpost Antumbra](Outpost_Antumbra.md) in [Minity
 
 After the completion of each challenge, a glowing orb that functions similar to a campfire float down on the center of the room and gives you numbers of free points enough to power up (exact will be mentioned below) that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
 
-Interestingly enough, if you spawn in part of the Ignition Union via the [The Chariot's Spire](<The_Chariot's_Spire.md>), you can escape the depths with an enhanced depths tria, giving you 15 investment points, still letting you enter the Trial of One.
+Interestingly enough, if you spawn in part of the Ignition Union via the [The Chariot's Spire](<The_Chariot's_Spire.md>), you can escape the depths with an enhanced depths trial, granting you 15 investment points and still letting you enter the Trial of One.
 
 ## Trial Rules
 
 -   if you attempt to enter the Trial and you have any equipment on, you are rejected.
 -   The Voice of Solitude declares that you _"**discard your possessions**"_ before the first trial, in which you are forced to do so before continuing.
-    -   You do not actually have to drop anything (food, spare weapons, etc.) Instead, any [Outfit](Outfits.md) you are wearing will have its durability completely drained, and any equipped armors will be stripped right off you, and will not be returned at the end of the trial - including any consumables in your inventory such as potions or food.
+    -   You do not actually have to drop anything (food, spare weapons, etc.) Instead, any [Outfit](Outfits.md) you are wearing will have its durability completely drained, and any equipped armors will be stripped right off you, and will not be returned at the end of the Trial - including any consumables in your inventory such as potions or food.
 -   You must use all of the free points given to you to power up and get a hand of cards. Once you pick a card, the next challenge will begin.
--   Having have used too much points (training equipment mid trial, extra autodidact points, etc.) the campfire orb will not come down with more points.
+-   If you've invested too many points (using training equipment mid trial, extra autodidact points, etc.) the campfire orb will not come down with more points.
 
 ## Challenges
 
@@ -59,7 +57,7 @@ Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution
   
 **"Now, an enemy fashioned by the hand of man..."**
 
-Fight as if it were a normal [Rock Golem](Rock_Golem.md), albeit with caution. Also note that it WILL use its scream as the trial is indoors. Compared to what you've already faced, this is easy. However, do not underestimate this fight, as it is still a challenge, nonetheless. 400 HP. (36 sword hits)
+Fight as if it were a normal [Rock Golem](Rock_Golem.md), albeit with caution. Also note that it WILL use its scream as the Trial is indoors. Compared to what you've already faced, this is easy. However, do not underestimate this fight, as it is still a challenge, nonetheless. 400 HP. (36 sword hits)
 
 **Thresher:**
 
@@ -104,43 +102,51 @@ Play with your concentration focused on both the orb turrets and the monster's l
 
 _For a video walkthrough, consider watching [this video](https://www.youtube.com/watch?v=1tjAyEmXkQk)._
 
-## Rewards
+## Rewards and Aftermath
+
+### Rewards
 
 -   Free Points to spend on [attributes](Attributes.md) after each challenge.
-    -   5 Points for the first trial, 10 Points for trials 2-9, Finishing the trial will result in reaching power 6 with 85 investment point used.
-    -   If you have the Autodidact Boon, you will be power 7 with 2 investment points to the next level once you complete the trial.
+    -   5 Points for the first trial, 10 Points for trials 2-9, Finishing the trial will result in reaching Power 6 with 85 investment point used.
+    -   If you have the Autodidact Boon, you will be Power 7 with 2 investment points to the next level once you complete the Trial.
 -   The [Lone Warrior Origin](Origins.md#lone-warrior) after defeating the Thresher OR alternatively, wiping once.
+
+### Death
+
+-   Dying in Trial of One with the Lone Warrior origin gives you 2 options.
+    -   Death, and Obliteration, death makes you lose a life and spawn on [Minityrsa Shore](Minityrsa.md), Obliteration sends you to [Fragments Of Self](Fragments_of_Self.md)
+    -   If you lose the Trial to the first parry check or the Megalodaunt, the choice between Death and Obliteration is not offered.
+-   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the Trial.
 
 ## Tips and Tricks
 
--   It is recommended to first enter when you can relatively consistently kill a Megalodaunt without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take days, weeks, or even (hopefully not) months to master the trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
--   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes.
--   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
+-   It is recommended to first enter when you can relatively consistently kill a Megalodaunt without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take days, weeks, or even (hopefully not) months to master the Trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The Trial is almost a necessity for improving past a certain point.
+-   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching Power 6 in roughly 10 minutes.
+-   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective Power scaling that they are encountered at.
 -   **KEEP IN MIND EVERY MOB IN THE TRIAL OF ONE CAN BE ATTUNED.** This can catch even the best of players off-guard and they might die to an unexpected Thunderstruck or Flamewreathed Enforcer.
 -   If you are playing attunement-less and encounter a Shadowmeld version of any monster, play it safe. they effectively have double health, due to their 50% Physical Resistance.
--   if you spawn in to the trial using the Lone Warrior Origin, you may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with Talents/mantra choosing early on.
+-   if you spawn into the Trial using the Lone Warrior Origin, you may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with Talents/mantra choosing early on.
 -   If one angel dies the other despawns, allowing you to instantly win the angel trial. This can be done by burning a knocked angel.
--   2 Training Gear Cabinets can be found throughout the map, with one next to the Shrine of Solitude, and another in the corridor of the arena entrance. Equipment can be purchased and used post-trial to speed up the transition to power progression (without the need of travelling to Etris or Isle of Vigils to purchase training gear.)
+-   2 Training Gear Cabinets can be found throughout the map, with one next to the Shrine of Solitude, and another in the corridor of the arena entrance. Equipment can be purchased and used post-Trial to speed up the transition to Power progression (without the need of travelling to Etris or Isle of Vigils to purchase training gear.)
 
 ## Trivia
 
 -   Greater Angels use _[Crazy Slots's](Crazy_Slots.md)_ Divine Spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
--   Dying in Trial of One with the Lone Warrior origin gives you 2 options.
-    -   Death, and Obliteration, death makes you lose a life and spawn on [Minityrsa Shore](Minityrsa.md), Obliteration sends you to [Fragments Of Self](Fragments_of_Self.md)
-    -   If you lose the trial to the first parry check or the Megalodaunt, the choice between Death and Obliteration is not offered,
 -   You can go through the Light gate behind you to return to Minityrsa.
--   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa, regardless of your progress in it.
--   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the trial.
--   If you hold an armor piece in your hand when the trial would force you to discard it, it will allow you to keep it. (this might be a bug)
+-   If you go into the Trial of One, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa, regardless of your progress in it.
+-   If you hold an armor piece in your hand when the Trial would force you to discard it, it will allow you to keep it. (this might be a bug)
 -   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive Talent that allows you to use a stackable free point upon leveling up.
--   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
--   Beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha Sharko.
--   Deepbounds that somehow make it out of The Depths at power 1 are not able to enter the Trial of One.
--   If you're Attunement-less, the white "campfire" allows you to allocate the 10 points before starting the trial.
+-   If you lose the Trial with extra investment points and no exp, the entrance to the Trial will deny you and instead fling you back.
+-   Beating the Trial as an Adret and with Autodidact gets you to Power 8, but you're not allowed to invest the last points from killing the Alpha Sharko.
+-   Deepbounds that somehow make it out of The Depths at Power 1 are not able to enter the Trial of One.
+-   If you're Attunement-less, the white "campfire" allows you to allocate the 10 points before starting the Trial.
 -   You can have enchanted weapons during the Trial via passing down or the Bank (If you can't beat the Trial, you could enchant a Starter Weapon with the [Providence Thorns](Enchantments.md) enchant because Trial of One is centered around parrying)
 -   For a short duration, the [Megalodaunt](Megalodaunt.md) was replaced with a [Mudskipper Brute](Mudskipper_Brute.md). However, this was subsequently changed in the next update and they re-added the Megalodaunt.
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
--   You can kill the parry trade using [Providence Thorns](Enchantments.md).(proof needed)
+-   When you get danger bug from "fearsome enemy" it shows that you are in danger by ".hostage\_nomad9".[\[1\]](#cite-note-1)
+-   The orbs during the parrying trials seem to be tied to an entity, as having [Providence Thorns](Enchantments.md) lets you "kill" them and stop it while it's happening.(proof needed)
 
-1.  [↑](#cite-ref-1) When you get danger bug from "fearsome enemy" it shows that you are in danger by ".hostage\_nomad9"
+## References
+
+1.  [↑](#cite-ref-1)

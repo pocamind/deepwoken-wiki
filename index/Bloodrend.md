@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 132268
+revid: 133510
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -840,7 +840,7 @@ N/A
     -   40% - Enemies are under 50% Anti-Heal
     -   50% - Enemies have their damage reduced by ≈30%
     -   60% - _**Bloodwarden's Sense**_ Talent is Activatable
-        -   Bloordwarden's Sense - Enemies you attack with a mantra are highlighted red briefly.
+        -   Bloodwarden's Sense - Enemies you attack with a mantra are highlighted red briefly.
     -   70% - _**Gruesome Harvest**_ Talent is Activatable
         -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you slight temporary health.
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.

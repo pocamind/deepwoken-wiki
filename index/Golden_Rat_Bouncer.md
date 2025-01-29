@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 131208
+revid: 133506
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

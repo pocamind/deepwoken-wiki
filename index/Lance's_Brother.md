@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 130923
+revid: 133525
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]

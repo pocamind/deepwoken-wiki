@@ -1,6 +1,6 @@
 ---
 title: "Chef's Toque"
-revid: 116345
+revid: 133504
 source: https://deepwoken.fandom.com/wiki/Chef's_Toque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Head]
@@ -12,7 +12,7 @@ categories: [Items, Equipment, Head]
 |---|---|
 | type | Head |
 | rarity | Unique |
-| selling price | N/A |
+| selling price | 100 |
 | requirements | None |
 | weight | 1 |
 | innate stats | 10 Health, +1 Legendary Pip |
@@ -26,10 +26,10 @@ categories: [Items, Equipment, Head]
 
 ## Description
 
-The Chef's Toque is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants you 10 Health, One guaranteed Legendary Pip, and the [Talent](Talents.md) Gourmet and the unique equipment talent "Umami", which gives a hunger steal effect when using the respective chef weapons. It is found exclusively in chests from [Chef Odiolovaro's](Chef_Odiolavoro.md) quest.
+The Chef's Toque is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants you 10 Health, one guaranteed Legendary Pip, and the [Talent](Talents.md) Gourmet and the unique equipment Talent Umami, which gives a hunger steal effect when using the respective chef weapons. It is found exclusively in chests from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest.
 
 ## Trivia
 
 -   This item was added during the "1B Visit Event".
--   Worn by [Chef Odiolovaro.](Chef_Odiolavoro.md)
+-   Worn by [Chef Odiolavoro](Chef_Odiolavoro.md).
 -   Currently bugged and is unable to be Dyed as well as not getting scaled down when dropped.
