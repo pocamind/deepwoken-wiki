@@ -1,6 +1,6 @@
 ---
 title: Bastions of Enmity
-revid: 133037
+revid: 133672
 source: https://deepwoken.fandom.com/wiki/Bastions_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Equipment, Items]
@@ -26,7 +26,7 @@ categories: [Arms, Equipment, Items]
 
 ## Description
 
-The **Aegis of Enmity** is a Unique [Equipment](Equipment.md) item under the "Head" category. Equipping it grants +10 Health +2 Posture and 3 Legendary Pips. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
+The **Aegis of Enmity** is a Unique [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants +10 Health +2 Posture and 3 Legendary Pips. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
 
 ## Trivia
 

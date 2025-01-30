@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 127790
+revid: 133659
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -416,7 +416,7 @@ Wind + Lightning + Slash
 </tr>
 <tr>
   <td><center>Scorched Peak<br>
-  <sup>[Lichtenburg]</sup></center></td>
+  <sup>[Lichtenberg]</sup></center></td>
   <td><center>50 Thundercall<br>
   25 Flamecharm</center></td>
   <td><center>Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.</center></td>
@@ -894,7 +894,7 @@ Wind + Lightning + Slash
 </tr>
 <tr>
   <td><center>Scorched Peak<br>
-  <sup>[Lichtenburg]</sup></center></td>
+  <sup>[Lichtenberg]</sup></center></td>
   <td><center>50 Thundercall<br>
   25 Flamecharm</center></td>
   <td><center>Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.</center></td>

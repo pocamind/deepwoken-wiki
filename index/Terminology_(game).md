@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 133482
+revid: 133662
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -212,7 +212,7 @@ _verb_
 
 1.  To incapacitate a player or humanoid [enemy](Enemies.md) usually by reducing their health to 0%, ragdolling them. When a player is **knocked**, they can be gripped/executed (B) or carried (V). When a player is knocked, they are unable to do anything for the most part.
 
-### Knock-down
+### Knockdown
 
 _noun_
 
@@ -398,7 +398,7 @@ _noun_
 
 _noun, verb_
 
-1.  (Anti Air Gun) nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time, at a high altitude, or clicks and holds the top tab of their Roblox client to freeze themselves in mid-air). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
+1.  (Anti-Air Gun) nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time, at a high altitude, or clicks and holds the top tab of their Roblox client to freeze themselves in mid-air). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
     1.  Ex. "I just got AA gunned and wiped!"
 
 The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_Gun) from _Rogue Lineage_, a cannon that served the same purpose of shooting down exploiters who utilize flying exploits.

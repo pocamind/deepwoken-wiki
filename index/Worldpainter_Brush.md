@@ -1,6 +1,6 @@
 ---
 title: Worldpainter Brush
-revid: 133493
+revid: 133661
 source: https://deepwoken.fandom.com/wiki/Worldpainter_Brush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -32,7 +32,11 @@ notices:
 
 ## Description
 
-The **Worldpainter Brush** is a custom weapon handed out to winners of major art contests. There are currently only **four** winners of the Paintbrush weapon, The weapon has a unique of effect of 'blinding' opponents on hit the critical is a recoloured version of [Gran Sudaruska's](Gran_Sudaruska.md) critical spilling ink on the floor rather than applying chilling.
+The **Worldpainter Brush** is a custom weapon handed out to winners of major art contests. There are currently only **four** winners of the Paintbrush weapon,
+
+## Critical
+
+Recoloured version of [Gran Sudaruska's](Gran_Sudaruska.md) critical spilling ink on the floor rather than applying chilling.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Toon's Goggles"
-revid: 125096
+revid: 133667
 source: https://deepwoken.fandom.com/wiki/Toon's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Face, Goggles, Developer Spec]
@@ -13,26 +13,27 @@ notices:
 | Toon's Goggles | |
 |---|---|
 | type | Face |
-| rarity | Unique |
-| selling price | 100 |
+| rarity | Common |
+| selling price | 7 |
+| requirements | None |
 | weight | 0.5 |
-| innate stats | ??? |
-| innate talent | ??? |
+| innate stats | +50 Health+25 Ether |
+| innate talent | Ghost |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | (Unobtainable) |
+| obtainment | Exclusive Equipment |
 | description | "..." |
 
 ## Description
 
 Toon's Goggles are an [Equipment](Equipment.md) item under the "Face" category.
 
+Toon's Goggles give user the talent "Ghost" which make dodging a move will briefly make you invisible, ending early if you attack.
+
 ## Trivia
 
--   Toon's Goggles stats are known, but Nuttoons prefers to keep it confidential.
 -   Toon's Goggles are one of the two [Equipment](Equipment.md) pieces that are exclusive to Nuttoons. The other one being [Stag Wraps](Stag_Wraps.md)
 -   Nuttoons is the only one wearing Toon's Goggles, and it'll be staying that way.
 -   Apparently there's no lore regarding Toon's Goggles, they're just a silly [Equipment](Equipment.md) piece.
--   According to Key exploits the Toon's Goggles give him Ghost(not confirmed)
