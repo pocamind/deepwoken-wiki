@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 133324
+revid: 133717
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons]
@@ -55,5 +55,5 @@ The user rushes forward while preforming a horizontal slash forward, the aforeme
     -   The name references the other nickname of The Knives of Eylis, that being The Whalers.
 -   Available on the Roblox catalog as a [waist accessory](https://www.roblox.com/catalog/14542129946/Whaling-Knife).
 -   The critical formerly benefitted from the Talent _Knife's Journey_, which had a 30% chance to deal 1.2x, signified by red sparks on hit. Having the Talent stacked the chance to 40%.
--   The model of this weapon its an exact copy of [Sting](https://lotr.fandom.com/wiki/Sting), a blade from _[the Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)_.
+-   The model of this weapon is an exact copy of [Sting](https://lotr.fandom.com/wiki/Sting), a blade from _[the Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)_.
 -   Despite it's name, Whales (or any mammals for that matter) do not exist in the game.
