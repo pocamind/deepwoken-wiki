@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 133472
+revid: 133737
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -327,6 +327,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Normal & Big |
 | File:Black Hood.png | 
@@ -580,6 +581,8 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Guard's, Royal Guard's, Captain's |
 |  | 
@@ -1965,6 +1968,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  | N/A |
 | 

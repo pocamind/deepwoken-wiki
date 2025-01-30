@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 133541
+revid: 133722
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -323,7 +323,7 @@ _A colossal mace of ice._
 
  | 
 
- ? Ether
+50 Ether
 
  | 
 
@@ -352,7 +352,7 @@ _Form an ice spear and lunges forward._
 
  | 
 
-Costs 60 Ether to cast.
+60 Ether.
 
  | 
 
@@ -379,7 +379,7 @@ _Conjure a glaive of frost and launch your opponents skyward._
 
  | 
 
-Costs 30 Ether to cast.
+30 Ether.
 
  | 
 
@@ -468,7 +468,7 @@ _An icy chokehold._
 
  | 
 
-Costs 40 Ether to cast.
+40 Ether.
 
  | 
 

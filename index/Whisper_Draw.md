@@ -1,6 +1,6 @@
 ---
 title: Whisper Draw
-revid: 107320
+revid: 133719
 source: https://deepwoken.fandom.com/wiki/Whisper_Draw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

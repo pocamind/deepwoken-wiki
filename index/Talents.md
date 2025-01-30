@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 133709
+revid: 133728
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -14,6 +14,7 @@ File:DeepwokenThumbnail.png
 
 ## Foreword
 
+[See all Talents here](#talents).  
 **Here's an explanation on how to use \[_CTRL + F\] or \[F3\]_ for this page. (You can also do this on mobile! Press the 3 dots on the mobile Google browser and tap on "Find in page"!)**
 
 -   FIND A SPECIFIC TALENT: Input the Talent name to find the specific Talent and its requirements.
@@ -25,25 +26,17 @@ File:DeepwokenThumbnail.png
 -   FIND A MYSTIC PHRASE FOR A TALENT: Below each Talent tree/category name will be the respective [Mystic](Mystic.md) quote.
     -   _(i.e "I prefer to attack unseen." for the Assassin Talent tree)_
         -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific Talent tree with [Mystic](Mystic.md) isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the Talent(s)._
+-   **Rare Talents are NOT affected by Mystics, and categories containing only Rare Talents will not show their Mystic quote.**
 
 ## Overview
 
-Talents are one of the fundamental aspects of Deepwoken that define your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific while often perilous tasks, although only one of each can exist on your character at the same time.
+**Talents** are one of the fundamental aspects of _Deepwoken_ that define and differentiate your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. [Mantras](Mantras.md) are gained in the same way. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific and often perilous tasks, although only one of each can exist on your character at the same time. The maximum amount of Talents that you can have (Talent Hands and quests combined) is 76, minus 2 Talents per Mantra you own exlcuding the [Kelsius](Kelsius.md) quest, and without quests being 69 Talents.
 
-There are certain Talents that you receive automatically upon meeting their requirement. The following talents will not take up Talent slots: \[NEEDS VISUAL WORK\]
+All Talents belong to a Talent category. A majority of Talents, including Mantras from Whisper Draws, can be given a higher chance to appear by talking to a [Mystic](Mystic.md) and selecting a quote corresponding to the Talent's category, which will only appear if you meet the requirements for a Talent from that category. **Rare Talents are NOT affected by Mystics, and categories containing only Rare Talents will not show their Mystic quote.**
 
-  
+## Mechanics
 
-\- Echo Talents
-
-\-Attunement obtainment and progression talents
-
-\-Oath talents
-
-\-Any talents received by drawing a card hand (e.g. - King Thresher spine quest after completing it for the second time)
-
-  
-The maximum amount of talents that you can have (talent hand and quests combined) is 76, minus 2 talents per mantra you own exlcuding the [Kelsius](Kelsius.md) quest, and without quests being 69 talents
+The player is given multiple types of Talents. When gained through [Powering up](Power.md), the player is given multiple normal Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain Power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws holding 5 normal Talent cards and 4 Mantra cards respectively based on the player's stats after Powering up, with the chance of there being an additional "Fold" card that lets the player instead save a normal Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws a "Roll 2" card that will grant 2 random normal Talents from your available Talent pool instead of a Mantra. When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonance Talents randomly chosen based on their [Resonance Point](Resonance.md) allocation. [Aces](Aces.md) can be used to permanently prevent a normal Talent or Mantra from showing up or to preserve it and guarantee it shows up in the next Talent or Whisper Draw.
 
 Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
@@ -54,9 +47,16 @@ Most Talents are locked with a prerequisite. Depending on the prerequisite, you 
 -   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
     -   E.g.: Drinking at least one potion is a prerequisite for potion Talents.
 -   Having a certain weapon equipped.
-    -   E.g.: Having a greataxe equipped is required to roll greataxe Talents.
+    -   E.g.: Having a Greataxe equipped is required to roll Greataxe Talents.
 -   A high enough Power.
     -   E.g.: Thresher Claws requires [Power](Power.md) 13 as a prerequisite.
+
+There are certain Talents that you receive automatically upon meeting their requirement. The following Talents will not take up Talent slots:
+
+-   [Echo Talents](Echoes.md#echo-talentsitems)
+-   [Attunement](Attunements.md) obtainment and progression Talents
+-   [Oath](#oath) Talents
+-   Any Talents received by drawing a card hand (e.g. - King Thresher spine quest after completing it for the second time)
 
 Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool.** However, if you use the Shrine of Chance to remove the mutually exclusive Talent that you currently have, the other Talent returns to your Talent pool so that it may be obtained once again.
 
@@ -314,7 +314,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 -   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
-    -   If you end up having "Vegetarian" flaw with this talent, killing an enemy will make you vomit, effectively losing all of the food and thirst you would gain in the process
+    -   If you end up having "Vegetarian" flaw with this Talent, killing an enemy will make you vomit, effectively losing all of the food and thirst you would gain in the process
     -   Prerequisites: 5 Strength, 5 Willpower
     -   Mutual Exclusives: [Vegetarian (Flaw)](Boons_and_Flaws.md), Herbivore.
 
@@ -404,7 +404,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Damage is reduced by ~20%.
     -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
     -   Prerequisite: 25 Fortitude
-    -   The arms equipment "[Providence Coat](Providence_Coat.md)" has this talent
+    -   The arms equipment "[Providence Coat](Providence_Coat.md)" has this Talent
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+2 Posture)
     -   Lower the movement speed penalty of blocking.
@@ -415,7 +415,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Cooldown also is reduced by 1 second by **Brick Wall.**
     -   Amount of time you stay knocked is reduced by 25%.
     -   Prerequisites: 30 Fortitude, 30 Willpower
-    -   The ""[Ignition Trailblazer](Ignition_Trailblazer.md)"" outfit has this talent.
+    -   The ""[Ignition Trailblazer](Ignition_Trailblazer.md)"" outfit has this Talent.
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 30%. (+5 Health)
     -   Scales linearly with investment up to its requirement. You'll have 10% pen reduction at 65 FTD and gain 0.8% PEN reduction per point in FTD above 65; scaling up to the full 30% once you hit 90 FTD.
@@ -437,7 +437,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 > _**"I seek the qualities of Berserker."**_
 
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
-    -   While the talent says criticals only gain 10% PEN, they will still gain the full armor bypass bonus just like m1s.
+    -   While the Talent says criticals only gain 10% PEN, they will still gain the full armor bypass bonus just like m1s.
     -   When activated:
         -   Your armor is immediately removed for 20 seconds. Includes Exoskeleton/Chitin.
         -   You regain your armor immediately after the buff ends.
@@ -923,7 +923,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Strong Stern_ \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+9 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
-    -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this talent.
+    -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this Talent.
 
 -   _Tap Dancer_ \[Rare Talent, Agility\] - Roll immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
     -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
@@ -977,7 +977,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Robber Baron \[Common Talent\] - You hold onto more items when defeated.
     -   Item loss on death is reduced from 50% to 25%.
     -   You no longer lose notes from dying.
-    -   you can obtain this talent from the [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) and the [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) Equipment
+    -   you can obtain this Talent from the [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) and the [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) Equipment
 
 ### Ether Adept
 
@@ -1010,7 +1010,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Intelligence
 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact. (Works only with elemental status effects)
-    -   Procs on Burn, Chill, Shock, Fear (from the Fear talent), Winded, and Suffocation.
+    -   Procs on Burn, Chill, Shock, Fear (from the Fear Talent), Winded, and Suffocation.
     -   Does not work with Critical Attacks
     -   Prerequisites: 15 Strength, 5 Intelligence
 
@@ -1065,7 +1065,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"None will escape my flames."**_
 
 -   Cauterized Wounds\[Common Talent, Flamecharm Exclusive\] - Blood loss from all sources is lowered. (+1 Passive Agility)
-    -   Effectiveness of this talent reduced with No Life King enchant
+    -   Effectiveness of this Talent reduced with No Life King enchant
     -   Stacking with Alloyblood
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
 
@@ -1287,7 +1287,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 15% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
     -   Doesn't bypass PEN cap/Doesn't work if you hit 50% pen cap.
     -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)
-    -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this talent.
+    -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent.
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D). (helping Asius)
@@ -1321,7 +1321,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Hammer Rage."**_
 
 -   Brain Rattler \[Common Talent\] \[Clubs\] - Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss and blurring their vision.
-    -   This talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.
+    -   This Talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.
     -   Prerequisites: 50 Medium Weapon, Club equipped
 
 -   Dispatch \[Common Talent\] \[Clubs\] - Bear Trapped targets deal 20% less posture. Dazed targets deal 20% less posture. This can stack.
@@ -1838,7 +1838,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
-    -   The scaling is 5% + IRONSING INVESTMENT\*0.05, meaning that you will have 8.75% damage reduction upon meeting the requirements for this talent. (**TESTED DONT EDIT**)
+    -   The scaling is 5% + IRONSING INVESTMENT\*0.05, meaning that you will have 8.75% damage reduction upon meeting the requirements for this Talent. (**TESTED DONT EDIT**)
     -   Prerequisite: 75 Ironsing
 
 ### Metamancer
@@ -1936,7 +1936,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0% or if you are wearing the [Stranded](Stranded.md) outfit, movement speed is increased by 25%.
     -   This is a mobility buff, NOT a speed boost.
-    -   The "[Bounty Hunter](Bounty_Hunter.md)" and "[Corsair Outlaw](Corsair_Outlaw.md)" outfits have this talent.
+    -   The "[Bounty Hunter](Bounty_Hunter.md)" and "[Corsair Outlaw](Corsair_Outlaw.md)" outfits have this Talent.
 
 -   Padded Armor \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
     -   Prerequisite: [Power](Power.md) 8
@@ -2155,7 +2155,7 @@ _**"My cure is most effective."**_
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
     -   Does 5 damage per rod. This damage can be resisted by physical armor.
     -   Affected by Grim, Taunt, Isshin's ring, Exposed Durability and any other defensive debuffs.
-    -   Not affected by "Return To The Dark Ages" talent
+    -   Not affected by "Return To The Dark Ages" Talent
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
 
@@ -2265,7 +2265,7 @@ _**"My cure is most effective."**_
 -   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. 5s Cooldown (+1 Passive Agility)
     -   The "bleed" does not refer to Bleed Damage, but rather a very miniscule amount of damage to the blood bar.
         -   The damage is so small, that there is no pixel difference between the damage received with or without it.
-    -   The cooldown is actually 8 seconds despite what the talent description says.
+    -   The cooldown is actually 8 seconds despite what the Talent description says.
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: Trained Fist, 25 Agility
 
@@ -2623,7 +2623,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
     -   Prerequisite: 50 Intelligence
-    -   The "[Veteran Adventurer](Veteran_Adventurer.md)" Outfit has this talent.
+    -   The "[Veteran Adventurer](Veteran_Adventurer.md)" Outfit has this Talent.
 
 -   Water off a Duck's Back \[Common Talent\] - Venting will shift any elemental status effects affecting you onto those hit by your vent.
     -   Transfer ANY elemental status effects (Suffocation, Winded, Chill, Shock) and potion effects to your enemy.
@@ -2924,7 +2924,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Surge stacks are a global status effect, meaning anyone with Surge path can utilize them, with the effects changing based on who caused the Overload.
     -   Prerequisite: 40 Thundercall
 -   Battery Sapper \[Common Talent, Dual Attunement\] - If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.
-    -   This talent is currently bugged and does nothing.
+    -   This Talent is currently bugged and does nothing.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall, 25 Shadowcast
 
 -   Catalytic Strike \[Common Talent, Thundercall Exclusive\] - Posture breaking an enemy will Overload their Surge stack.
@@ -3308,7 +3308,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Diver's Resilience: [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves. Additionally, your movement speed is reduced.
 -   Elegy of Light: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes. Remains dormant until you take the life of an equal.
-    -   Grants a talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
+    -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
 -   Featherfall: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
@@ -3356,7 +3356,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Procs even if your critical cannot be canceled (Hyper Armor).
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 15% more damage.
-    -   Only grants a 10% damage buff, the talent was nerfed but the description was never changed.
+    -   Only grants a 10% damage buff, the Talent was nerfed but the description was never changed.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken.
@@ -3365,7 +3365,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   The wind shield grants one (1) autoparry frame and has a cooldown of 10 seconds.
     -   The wind shield lasts a few seconds or until you get hit (in which case, it will automatically parry the attack), cast any mantra, feint any attack, or use your critical attack.
     -   Some mantras, like [Mecha Gatling](Monster_Mantras.md), can build up stacks for this.
-    -   If you have the wind shield active and a talent that allows you to parry unparryable monster attacks like, Force Your Way or Diver's Resilience, you will autoparry them.
+    -   If you have the wind shield active and a Talent that allows you to parry unparryable monster attacks, such as Force Your Way or Diver's Resilience, you will autoparry them.
 -   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
 -   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
