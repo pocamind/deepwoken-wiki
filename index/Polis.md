@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 132621
+revid: 133707
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies, Etrea, Quests, Weapons, NPCs located in the Etrean Luminant]
@@ -193,7 +193,7 @@ Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his
 -   Strong Stern - Polis is only dazed for half the time if wall banged.
 -   Concussion - When Polis flourishes an enemy into a wall, they are slightly blinded and are dazed for longer.
 -   Return to the Dark Ages - Polis takes -20% damage from mantras, but he also deals -20% damage with his mantras.
--   Risky Moves - When Polis dodges an attack, he automatically dodge the next attack.
+-   Risky Moves - When Polis dodges an attack, he will automatically dodge the next attack.
 -   Wyvern's Claw - Polis deals +10% damage while in the air.
 -   Chronostasis - If Polis hits an enemy, their resonance is put on cooldown.
 -   In a Hurry - If Polis has a speed boost, he grips his enemy 16.67% faster (-0.5s).

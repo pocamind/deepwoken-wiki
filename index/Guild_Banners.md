@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 121702
+revid: 133691
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Objects]
@@ -48,7 +48,6 @@ Standing near the banner will gradually empty the banner, at which point the ban
     -   On the mini-island near [Miner's Landing](<Miner's_Landing.md>).
     -   One next to the Sea Highway by [Miner's Landing](<Miner's_Landing.md>), on the small island.
     -   One on the mini-island across from [Summer Isle's](Summer_Isle.md) Guildhall.
-    -   In the [Starfield Veldt](Starfield_Veldt.md), on the [Crimson Sharko](Megalodaunt.md) spawn.
     -   On the bridge to [Starfield Veldt](Starfield_Veldt.md), nearby [Adar](Adar,_Master_of_Metal.md).
     -   One in [Starswept Valley](The_Starswept_Valley.md), past the triple [thresher](Thresher.md) event, in the little maze.
     -   One in [Starswept Valley](The_Starswept_Valley.md), behind the triple thresher event by [Widow](Deep_Widow.md), in the broken-down ruins.

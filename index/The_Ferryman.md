@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 133632
+revid: 133679
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**The Ferryman** is an instanced dise sea. A strange figure referenced in old folklore of the surface world, he is member of the enigmatic race of
+**The Ferryman** is an instanced [Boss](Bosses.md) fought at the [Boatman's Watch](<Boatman's_Watch.md>) within the Eastern Luminant's [Void Sea](Voidsea.md). A strange figure referenced in old folklore of the surface world, he is member of the enigmatic race of [Krulians](Krulian.md) and claims to be the closest bridge between the Drowned Gods and the people of Lumen.
 
 According to the stories of old, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though most fail to mention that these gifts aren't earned without a fight. The Ferryman actively despises the mortals who dwell on the surface, offering up unfair wagers, with the mortal betting their life, and him only betting a "Relic."
 

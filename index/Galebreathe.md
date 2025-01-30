@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 133145
+revid: 133698
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -243,7 +243,10 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 | **Effect**: Ascend while uppercutting your target, rapidly damaging them.
 
 -   Blocking it sends only the user into the air but cancels it after a small bit if it doesn't hit anyone after.
--   Rapidly deals light damage to the opponent while rising.
+-   At level 5 It deals 12 damage 4 times, for a total of 58 damage.
+-   It deals 5 posture damage.
+-   Posturebreaking with this mantra won't continue it on to the multihits.
+-   Gems apply ONLY to the last hit, making bloodless' healing very low.
 -   Missing will not send the user into the air.
 -   Pressing F during the animation lets you kick them down into the ground which applies daze.
     -   Applies Knockdown frames on proc.

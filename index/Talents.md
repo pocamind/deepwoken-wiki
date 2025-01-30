@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 133572
+revid: 133709
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -415,6 +415,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Cooldown also is reduced by 1 second by **Brick Wall.**
     -   Amount of time you stay knocked is reduced by 25%.
     -   Prerequisites: 30 Fortitude, 30 Willpower
+    -   The ""[Ignition Trailblazer](Ignition_Trailblazer.md)"" outfit has this talent.
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 30%. (+5 Health)
     -   Scales linearly with investment up to its requirement. You'll have 10% pen reduction at 65 FTD and gain 0.8% PEN reduction per point in FTD above 65; scaling up to the full 30% once you hit 90 FTD.
@@ -533,7 +534,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: Trained Fist
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus.
-    -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Kata Quest & obtaining fist from the [character creation screen](Character_Creation.md)/[Polis](Polis.md).
+    -   Prerequisite: Equipping any Fist weapon excluding [Jus Karita](Jus_Karita.md) or [Anklets of Alsin](Anklets_of_Alsin.md). This can only be done if you have a [Fist Style](Fists.md). Also is granted when starting with [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), or [Fang and Coil](Fang_and_Coil.md) from the [character creation screen](Character_Creation.md).
+    -   To obtain a Fist Style, complete the [Navaen Tribe Rescue Quest](Way_of_Navae.md), [Legion Kata](Legion_Kata.md) Quest, or [Fang and Coil](Fang_and_Coil.md) obtainment Quest.
 
 ### Bruiser
 
@@ -921,6 +923,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Strong Stern_ \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+9 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
+    -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this talent.
 
 -   _Tap Dancer_ \[Rare Talent, Agility\] - Roll immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
     -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
@@ -1176,7 +1179,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Durability of Orbital Ice is equal to "Frostdraw investment ÷ 4", reaching 25 at 100 Frostdraw.
     -   Cooldown of 90 seconds.
     -   Mutual Exclusive: Fists of Fortitude
-    -   Can only be stacked with Fists of Fortitude, if you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) outfit
+    -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Fists of Fortitude.
     -   Prerequisite: 65 Frostdraw
 
 ### Frozen Warrior
@@ -1282,8 +1285,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I always shoot first."**_
 
 -   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 15% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
-    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)
     -   Doesn't bypass PEN cap/Doesn't work if you hit 50% pen cap.
+    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)
+    -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this talent.
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D). (helping Asius)
@@ -1317,6 +1321,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Hammer Rage."**_
 
 -   Brain Rattler \[Common Talent\] \[Clubs\] - Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss and blurring their vision.
+    -   This talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.
     -   Prerequisites: 50 Medium Weapon, Club equipped
 
 -   Dispatch \[Common Talent\] \[Clubs\] - Bear Trapped targets deal 20% less posture. Dazed targets deal 20% less posture. This can stack.
@@ -1931,6 +1936,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0% or if you are wearing the [Stranded](Stranded.md) outfit, movement speed is increased by 25%.
     -   This is a mobility buff, NOT a speed boost.
+    -   The "[Bounty Hunter](Bounty_Hunter.md)" and "[Corsair Outlaw](Corsair_Outlaw.md)" outfits have this talent.
 
 -   Padded Armor \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
     -   Prerequisite: [Power](Power.md) 8
@@ -2617,6 +2623,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
     -   Prerequisite: 50 Intelligence
+    -   The "[Veteran Adventurer](Veteran_Adventurer.md)" Outfit has this talent.
 
 -   Water off a Duck's Back \[Common Talent\] - Venting will shift any elemental status effects affecting you onto those hit by your vent.
     -   Transfer ANY elemental status effects (Suffocation, Winded, Chill, Shock) and potion effects to your enemy.
@@ -2806,6 +2813,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I use my blood's plasma to better defend myself."**_
 
 -   _Sow and Mend_ \[Rare Talent\] - Sacrifice 17.5% of your blood for temporary health. (15s CD)
+    -   Gives ~8% temporary health.
     -   Prerequisites: 60 Bloodrend, Master Bloodrender
 -   Cyclical Exsanguination \[Common Talent\] - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
     -   Prerequisite: 65 Bloodrend, Sow and Mend
@@ -3280,22 +3288,23 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is doubled.
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 5% instead.
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
-    -   Lowers Shade Devour damage and removes Deepspindle running critical attack self-damage completely.
+    -   Lowers the self-damage taken from Shade Devour, Static Withdraw, and Flame Within's self damage tick on cast (NOT the burn damage). Additionally removes Deepspindle running critical attack self-damage completely.
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed.
     -   Also available as a common Talent.
--   Bloodletter: [Bloodfeather Cowl](Bloodfeather_Cowl.md) - Hitting opponents on the ground lowers their blood.
-    -   Hitting knocked opponents lowers their blood bar. This Talent was made **innate**, so it does nothing on this equipment.
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
--   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
+-   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 25% additional penetration.
+    -   Gives [Way of Navae](Way_of_Navae.md) **basic attacks** 25% more PEN. This does **not** apply to critical attacks.
     -   This bypasses the PEN cap.
 -   Coldseep Reactor [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
     -   Grants 20% Mantra PEN.
--   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra hit.
+-   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
+    -   Gain 10 Ether for every Mantra you have equipped.
+    -   Maximum of +130 Ether (6 innate Mantra slots, +1 from Neuroplasticity, +1 from Will o' Wisp, +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
 -   Diver's Resilience: [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves. Additionally, your movement speed is reduced.
 -   Elegy of Light: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes. Remains dormant until you take the life of an equal.
@@ -3305,7 +3314,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Featherfall: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
     -   Negates fall damage up until it reaches a cap for damage negated. Then, Featherfall will go on a 10 minute cooldown.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
--   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You have a larger flourishing window.
+-   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Your flourish timer lasts longer with fists.
+    -   Increases your flourish timer while using [Fists](Fists.md) from 2 seconds to 3 seconds.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 1% armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
 -   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
@@ -3314,14 +3324,24 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Reduces Bleed damage by 25%
     -   Does not work on all Damage over Time effects.
         -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), Rush Hour from Bloodrend
--   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - Your dodge window is slightly increased (0.05s).
+-   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
+    -   Your dodge window is increased by 0.05s.
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
--   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off slower on you.
+-   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you.
+    -   Halves the maximum duration of Burn.
 -   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed in increased.
--   Legendary: [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Your weapon gives you ether back.
+-   Legendary: [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Parrying and landing hits with your weapon gives you ether back.
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
+    -   This affects:
+        -   Turning in [Artifacts](Artifacts.md) at a banker,
+        -   Turning in the [Strange Egg](Artifacts.md#strange-egg) to the banker at [Greathive Aratel](Greathive_Aratel.md),
+        -   Turning in [Sacks](Chests_&_Sacks.md#sacks) to Mercille at the summer company outpost across from [Meteor Isle](Meteor_Isle.md),
+        -   Handing in pure ore to a [Blacksmith](Blacksmith.md),
+        -   Trading in _Explosive Crates_ at [Summer Isle](Summer_Isle.md).
 -   Lowstride: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth and allows the player to unsheathe silently.
     -   Also available as a common Talent.
+-   Merchant's Accord: [Merchant Robes](Merchant_Robes.md) - Merchants and Antiquarians will do business with you no matter how poor your reputation is.
+    -   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Origins.md#deepbound) or [Ignition Delver](Origins.md#ignition-delver).
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Wielding a katana with this outfit grants extra damage.
     -   Increases _[Katana](Katana.md)_ damage by 25%.
     -   Increases _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md#alloyed)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
@@ -3339,7 +3359,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Only grants a 10% damage buff, the talent was nerfed but the description was never changed.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds
--   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) - Significantly reduces the time spent stunned when you are block broken.
+-   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken.
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.
 -   Whistleguard: [Whistling Periapt](Whistling_Periapt.md) - The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.
     -   The wind shield grants one (1) autoparry frame and has a cooldown of 10 seconds.

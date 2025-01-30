@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 131929
+revid: 133702
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -196,7 +196,7 @@ Have your dodge frames lowered for a brief period. Applied after being flourishe
 
 ### Anti-Heal
 
-Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by an M1 by someone that has the Talent [All the Dead Gods](Talents.md#heretic) for 8 seconds, or when hit by [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack for 10 seconds. The Anti-Heal effectiveness from All the Dead Gods can be calculated by combining your Willpower and Charisma stats, dividing them by 105, and then multiplying them by 100; as the Anti-Heal effectiveness scales on investment up to their combined requirement. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
+Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by an M1 by someone that has the Talent [All the Dead Gods](Talents.md#heretic) for 8 seconds, or when hit by [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack for 10 seconds. The Anti-Heal effectiveness from All the Dead Gods can be calculated by combining your Willpower and Intelligence stats, dividing them by 105, and then multiplying them by 100; as the Anti-Heal effectiveness scales on investment up to their combined requirement. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
 
 ### Pestilence
 

@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 133124
+revid: 133701
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -26,8 +26,9 @@ This Outfit also grants the [Talent Card](Talents.md) _Looter_, which gives you 
 **Events this may affect:**
 
 -   Turning in [Artifacts](Artifacts.md) at a banker,
--   Handing in pure ore to a blacksmith,
--   Turning in [Sacks](Chests_&_Sacks.md) to Mercille at the summer company outpost across from [Meteor Isle](Meteor_Isle.md),
+-   Turning in the [Strange Egg](Artifacts.md#strange-egg) to the banker at [Greathive Aratel](Greathive_Aratel.md),
+-   Turning in [Sacks](Chests_&_Sacks.md#sacks) to Mercille at the summer company outpost across from [Meteor Isle](Meteor_Isle.md),
+-   Handing in pure ore to a [Blacksmith](Blacksmith.md),
 -   Trading in _Explosive Crates_ at [Summer Isle](Summer_Isle.md).
 
 ## Location
