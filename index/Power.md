@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 127247
+revid: 133797
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -8,7 +8,7 @@ categories: [Mechanics, Character, Creation]
 
 # Power
 
-Power or Level is the leveling mechanic of Deepwoken that enables players to increase their stats as well as unlock new [Talents](Talents.md), [Mantras](Mantras.md), and select an [Oath](Oaths.md).
+Power or Level is the leveling mechanic of Deepwoken that enables players to increase their stats as well as unlock new [Talents](Talents.md), [Mantras](Mantras.md), [Traits](Traits.md), and select an [Oath](Oaths.md).
 
 An example of a player's Power and stat allotment back in Verse One
 

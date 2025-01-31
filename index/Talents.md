@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 133767
+revid: 133794
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -36,7 +36,7 @@ All Talents belong to a Talent category. A majority of Talents, including Mantra
 
 ## Mechanics
 
-The player is given multiple types of Talents. When gained through [Powering up](Power.md), the player is given multiple normal Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain Power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws holding 5 normal Talent cards and 4 Mantra cards respectively based on the player's stats after Powering up, with the chance of there being an additional "Fold" card that lets the player instead save a normal Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws a "Roll 2" card that will grant 2 random normal Talents from your available Talent pool instead of a Mantra. When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonance Talents randomly chosen based on their [Resonance Point](Resonance.md) allocation. [Aces](Aces.md) can be used to permanently prevent a normal Talent or Mantra from showing up or to preserve it and guarantee it shows up in the next Talent or Whisper Draw.
+The player is given multiple types of Talents. When gained through [powering up](Power.md), the player is given multiple normal Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain Power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws holding 4-5 normal Talent cards and 3 Mantra cards respectively based on the player's stats after powering up, with the chance of there being an additional "Fold" card that lets the player instead save a normal Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws a "Roll 2" card that will grant 2 random normal Talents from your available Talent pool instead of a Mantra. When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonance Talents randomly chosen based on their [Resonance Point](Resonance.md) allocation. [Aces](Aces.md) can be used to permanently prevent a normal Talent or Mantra from showing up or to preserve it and guarantee it shows up in the next Talent or Whisper Draw.
 
 Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
@@ -73,7 +73,7 @@ _When it comes to mutually exclusive Talents, you can have either:_
 -   _Wraith Path: Twisted Puppets_ **or** _Azure Flames;_
 -   _Tough Love_ **or** _Narcissist_
 
-Certain Talents lie in "Priority Talents" - the type of Talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
+Certain Talents lie in "Priority Talents" - the type of Talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards more often upon powering up.
 
 ### Card Terminology
 

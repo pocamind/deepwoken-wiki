@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 133601
+revid: 133795
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -311,25 +311,25 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 **(Power 1)** Glider - _Gain the Glider Recipe at Power 1. **Obtained by asking Elite Pathfinder Alastir at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider.**_
 
-**(Power 2)** Aerial Assault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
+**(Power 2)** Aerial Assault \[Echo Talent\] - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
 
 -   Allows you to move quickly when you dodge mid-air. It's just an air dash.
 
-**(Power 2)** Chain of Perfection - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) without getting hit by one of the boss' attacks.**_
+**(Power 2)** Chain of Perfection \[Echo Talent\] - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) without getting hit by one of the boss' attacks.**_
 
 -   Increases PvE damage the more melee hits you deal without taking hits in return.
     -   Unlocked on the initial slot, and any characters or slots created after obtainment upon reaching power 2.
         -   Unlocked on slots prior to obtainment IF it obtains a level.
 
-**(Power 3)** Engage - _Gain Engage at Power 3 ._ _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
+**(Power 3)** Engage \[Echo Talent\] - _Gain Engage at Power 3 ._ _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 
 -   Landing M1 attacks restores some of your Ether.
 
-**(Power 5)** Critical Attack - Gain Critical Attack at Power 5. _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
+**(Power 5)** Critical Attack \[Echo Talent\] - Gain Critical Attack at Power 5. _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 
 -   Landing a hit with your critical restores 30% of your posture.
 
-**(Power 10)** Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of [Jessamine](Jessamine.md) near the entrance of the [Widow's Hollow](<Widow's_Hollow.md>).**_
+**(Power 10)** Thresher Scales \[Echo Talent\] - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of [Jessamine](Jessamine.md) near the entrance of the [Widow's Hollow](<Widow's_Hollow.md>).**_
 
 -   You regenerate your armour at campfires.
     -   Can be done at Power 20 for an extra deck of cards.
