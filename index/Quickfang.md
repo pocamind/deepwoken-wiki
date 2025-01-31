@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 131926
+revid: 133750
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -36,7 +36,7 @@ The Quickfang is a LHT weapon in the Rapier category. It is obtained by spending
 -   This is the only Rapier that features a hand guard.
 -   Due to its comparatively low stats, it is generally used to obtain rapier Talents early-game rather than for its stats.
 -   At max LHT, the damage is (18.3)
--   The Quickfang cannot be dropped/banked.
+-   The Quickfang cannot be dropped/banked, unless enchanted.
 
 ## Gallery
 

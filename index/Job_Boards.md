@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 127074
+revid: 133745
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -35,15 +35,6 @@ _Jobs relating to Erisia can be given by [Etrea](Etrea.md)Etreaiconfaction and [
 -   **A Daunting Task**
     -   Tasks the player with slaying one [Megalodaunt](Megalodaunt.md).
         
-
-**Minityrsa:**
-
-_Jobs relating to Minityrsa and can be given by [The Ministry](The_Ministry.md)Ministryiconfaction._
-
--   **Authority Patrol**
-    -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
-
-_This Job comes from a Job Board located at Etris in the guildhall building._
 
 ## Eastern Luminant
 

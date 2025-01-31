@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 133054
+revid: 133738
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -31,6 +31,10 @@ categories: [Weapons, Daggers]
 The Canor Fang is a LHT weapon in the Dagger category that can be obtained by enemy NPC chests in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It's a pretty solid weapon if there's no better alternatives.
 
 Notably, this weapon have the highest weight stat of any daggers, at 5. Most other daggers have 4 or 3. This makes this dagger the best at potentialy breaking the posture of opponents.
+
+## Critical
+
+Do a short wind-up before bursting out a flurry of EXACTLY 20 slashes.
 
 ## Trivia
 

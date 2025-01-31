@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 127309
+revid: 133752
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters, The Children of Navae]
@@ -9,9 +9,6 @@ categories: [NPCs, Random Encounters, The Children of Navae]
 # Navaen Hostage
 
 Template:EnemyInfobox1.0
-
-  
-_Looking for the [combat style?](Fists.md)_
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 133072
+revid: 133746
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -34,7 +34,6 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
     -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at [Summer](Summer_Isle.md) [Isle](Summer_Isle.md) for them to not see worth fighting you anymore.
     -   The Bounty version of the [Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Blood Loss or Starvation will not count.
     -   You can also get this by trading knowledge with [Soothsayer](Soothsayer.md) (require atleast 10 knowledge to have neutral reputation with [The Ministry](The_Ministry.md)).
-    -   Another method would be the Authority Patrol job located on a [Job Board](Job_Boards.md) in the Etris Guild Hall room. This method requires you to sail back and forth between the islands, so it's not recommended unless you have the [Ignition Delver](Origins.md#ignition-delver) Origin, as the job can be obtained from the [Union Pager](Ignition_Delver.md) as well.
     -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing) (Second dialogue is **NOT** required for the Duke Erisia questline)
 3.  Go to the [Lord Regent](The_Lord_Regent.md) and choose the special dialogue “Bite your tongue". (This step is not required; it is safer to simply never talk to the Lord Regent until you have done everything listed below instead.)
