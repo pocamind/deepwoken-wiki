@@ -1,6 +1,6 @@
 ---
 title: Fauld of Enmity
-revid: 133000
+revid: 133764
 source: https://deepwoken.fandom.com/wiki/Fauld_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Items, Torso]
@@ -32,3 +32,5 @@ The **Fauld of Enmity** is a Unique [Equipment](Equipment.md) item under the "To
 
 -   It is a part of the Enmity set consisting of the [Bastions of Enmity](Bastions_of_Enmity.md) arms, the [Wartreads of Enmity](Wartreads_of_Enmity.md) boots, the [Aegis of Enmity](Aegis_of_Enmity.md) helmet, the **Fauld of Enmity** torso, and the [Thrall of Enmity](Thrall_of_Enmity.md) face.
 -   This item, along with [Threadwork Kilt](Threadwork_Kilt.md) are the first "waist" equipment added to Deepwoken.
+
+-   This piece of equipment currently grants the **MOST** HP out of all other torso equipment's. (Being 18 hp)

@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 122032
+revid: 133776
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -16,7 +16,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-Iblis, The Fallen Angel, is a powerful Starkindred apostate located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md), above the and outside the hole in the sky(You can get here using a union hook at the entrance of the Starfield Grove, or by climbing from outside). He must be defeated to obtain [Starkindred](Oath%253A_Starkindred.md), uses an alternate [Divine Longspear](Crazy_Slots.md), and is a Flamecharmer; he uses Starkindred mantras alongside his Flamecharm ones and quickly become overwhelming for unprepared players attempting to kill him solo. He bears a red [Hivelord Mask](Hivelord_Mask.md).
+Iblis, The Fallen Angel, is a powerful Starkindred apostate located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md), above the and outside the hole in the sky(You can get here using a union hook at the entrance of the Starfield Grove, or by climbing from outside). He must be defeated to obtain [Starkindred](Oath%253A_Starkindred.md), uses an alternate [Divine Longspear](Crazy_Slots.md), and is a Flamecharmer; he uses Starkindred mantras alongside his Flamecharm ones and quickly become overwhelming for unprepared players attempting to kill him solo. He wears a red [Hivelord Mask](Hivelord_Mask.md).
 
 ## Moveset
 

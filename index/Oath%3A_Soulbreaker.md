@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 133517
+revid: 133775
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Soulbreaker** is one of the 16 obtainable Oaths in _Deepwoken_. It is an Oath related to [Murmurs](Murmur.md), specifically the ability to wield three at once. Upon obtaining this Oath, purple-glowing white strands are attached to your shoulders and wrap behind your head. You have constant [Ardour](Murmur%253A_Ardour.md) particles emitting from your chest. Any weapon you equip will have purple/black lightning humming around it.
+**[Oath](Oaths.md): Soulbreaker** is one of the 16 obtainable Oaths in _Deepwoken_. It is an Oath related to [Murmurs](Murmur.md), specifically the ability to wield three at once. Upon obtaining this Oath, purple-glowing white strands of energy are attached to your shoulders and wrap behind your head. You have constant [Ardour](Murmur%253A_Ardour.md) particles emitting from your chest. Any weapon you equip will have purple and black lightning humming around it.
 
 “ Some say that the king struck a bet with the Mur and won her heart, and all of us in this Kingdom her Light... Some day we'll see it again. I'm sure of it. ”
 

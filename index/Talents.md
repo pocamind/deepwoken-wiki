@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 133728
+revid: 133767
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -26,7 +26,7 @@ File:DeepwokenThumbnail.png
 -   FIND A MYSTIC PHRASE FOR A TALENT: Below each Talent tree/category name will be the respective [Mystic](Mystic.md) quote.
     -   _(i.e "I prefer to attack unseen." for the Assassin Talent tree)_
         -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific Talent tree with [Mystic](Mystic.md) isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the Talent(s)._
--   **Rare Talents are NOT affected by Mystics, and categories containing only Rare Talents will not show their Mystic quote.**
+-   **Rare Talents are NOT affected by Mystics, and categories containing only Rare Talents will not show their Mystic quote when talking to the NPC.**
 
 ## Overview
 

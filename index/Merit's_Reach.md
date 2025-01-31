@@ -1,6 +1,6 @@
 ---
 title: "Merit's Reach"
-revid: 133744
+revid: 133763
 source: https://deepwoken.fandom.com/wiki/Merit's_Reach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
@@ -15,8 +15,14 @@ LocationL Merit's Reach LocationR
   
   
 
+**Merit's Reach** is a location in _Deepwoken_. It is a landmark found in [Fort Merit](Fort_Merit.md).
+
 ## Overview
 
 Merit's Reach
+
+Merit's Reach is a small, vegetated part of [Aratel Island](Aratel_Island.md) next to [Fort Merit](Fort_Merit.md). Beware of crossing the river, because the water can pull you away quite easily and send you out to sea. The river also directly connects to [Bluster Rift.](Bluster_Rift.md)
+
+There is an NPC called Rashet who resets reputation with the Authority for 300 notes.
 
 File:RobloxScreenShot20220702 180357640.png

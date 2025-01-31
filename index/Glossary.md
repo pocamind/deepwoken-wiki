@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 133580
+revid: 133766
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,11 +24,6 @@ The Glossary is a feature that explains terminology and events in game that reve
 -   To many, and indeed to those they have conquered, the Central Authority is an empire all the same.
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the Depths by the Divers and the Ignition Union.
 -   The Central Authority is helmed by the Sovereign Drallis Ehr and his Council. An immortal, the Sovereign has been the head of state for the Central Authority since its inception.
-
-#### The Divers
-
--   An expeditionary organisation stemming from the Citadel of Markor that conduct routine expeditions into the Depths in order to gather research, materials, and eliminate emergent threats.
--   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
 ### Magic
 
@@ -59,6 +54,13 @@ The Glossary is a feature that explains terminology and events in game that reve
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an Oath is facilitated by such a Vow.
 
 ### Notable Figures
+
+#### Mur of Light
+
+-   A goddess worshipped by many in the Etrean Luminant.
+-   Many believe that Mur was responsible for bringing about the knowledge that Murmurs to the Kingdom of Etrea.
+-   As with many Gods, the contemporary understanding is that Mur may have been a Celestial
+-   Andros said they hadn't seen any accounts of Mur outside of the Etrean Luminant.
 
 #### The Sovereign Drallis Ehr
 
@@ -121,6 +123,11 @@ The Glossary is a feature that explains terminology and events in game that reve
 
 ### Terminology
 
+#### The Divers
+
+-   An expeditionary organisation stemming from the Citadel of Markor that conduct routine expeditions into the Depths in order to gather research, materials, and eliminate emergent threats.
+-   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
+
 #### Pathfinders
 
 -   Those that make a living by exploring ruins and driftlands.
@@ -130,13 +137,6 @@ The Glossary is a feature that explains terminology and events in game that reve
 
 -   The highest-ranking field personnel of the Divers, granted oversight and authority second only to the Administrators of Operating Bases.
 -   Black Divers have all descended beyond the First Layer on solo expeditions and have lived to tell the tale. As such, every Black Diver stands as a formidable individual, with many of their rank consisting of the most brilliant (and twisted) minds of the era.
-
-### Mur of Light
-
--   A goddess worshipped by many in the Etrean Luminant.
--   Many believe that Mur was responsible for bringing about the knowledge that Murmurs to the Kingdom of Etrea.
--   As with many Gods, the contemporary understanding is that Mur may have been a Celestial
--   Andros said they hadn't seen any accounts of Mur outside of the Etrean Luminant.
 
 ### The Celestials
 

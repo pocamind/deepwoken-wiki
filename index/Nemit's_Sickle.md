@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 128812
+revid: 133760
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -29,6 +29,12 @@ categories: [Weapons, Daggers]
 ## Description
 
 The Nemit's Sickle is a dagger that boasts a 30% penetration against armor and an extremely high swing speed like most of the other daggers. It does less damage than few other daggers, however its high penetration and scaling make up for it.
+
+## Critical
+
+The user unleashes a quick upward slash before unleashing a strong side kick, dealing high damage and high posture damage on block. This knocks the target back, even if the move is blocked.
+
+I tried to upload a video of the crit, but it was ruled out as vandalism. If someone can help me figure out why that is I'll upload the video right away.
 
 ## Trivia
 
