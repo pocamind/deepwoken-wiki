@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 132456
+revid: 133782
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -141,7 +141,7 @@ This spot is located around the rocks in front of the front of the [Beloved Zofi
 
 ### New Kyrsa, The Sleeping City
 
-This spot is located just in front of the waterfall.
+This spot is located in Kaide, The Drowned Light prison(Can be visited through one of the white clouds teleporter tower near Ethiron Chamber).
 
 ## Gallery
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 133135
+revid: 133781
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -408,7 +408,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 | **Damage Type**: N/A |
 | **Effect**: The caster summons a wisp of magma.
 
--   Flame Wisp absorbs some of the damage from your burn tick damage and turns it into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
+-   Flame Wisp reduces the burn tick damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
     -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.
 -   Ignites nearby campfire pits if not currently healing you.
 -   Requires ritual casting.
