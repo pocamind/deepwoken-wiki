@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 133560
+revid: 133838
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -143,7 +143,13 @@ Ether
 
 (★★☆)
 
- | Create a firing line of metal to light up your target. | 40 Ether | Metal + Bleed | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
+ | Create a firing line of metal to light up your target. | 40 Ether | Metal
+
+  
+
+(Blast spark)
+
+ | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
 
 -   Deals 145 dmg at 5 lvl non spark
 -   62 dmg at 5 lvl with Blast spark
@@ -151,7 +157,8 @@ Ether
 -   Apply Metal Rods on hit.
 -   You cannot use other Mantras or M1 while this is active.
 -   Can be modified with Drift and Rush Shards, however, it does not increase the firing speed or projectile speed.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra fire a salvo from two cannons.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra fire a salvo from two cannons. Blast spark version does
+-   dyMdo metaB + bleed DMG type
 
  |
 | 

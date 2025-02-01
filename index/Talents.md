@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 133810
+revid: 133841
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1754,9 +1754,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Marauder
 
 > _**"I often attack others."**_
-
--   Aggressive Posture \[Common Talent\] - Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
-    -   Prerequisite: [Power](Power.md) 10
 
 -   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).
     -   Prerequisite: [Power](Power.md) 10

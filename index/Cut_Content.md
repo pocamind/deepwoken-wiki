@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 133392
+revid: 133842
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -217,6 +217,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the August 30th, 2024 update, Volt Kick became base behavior for Thunder Kick.
 -   **Wildfire \[Common Talent, Flamecharm Exclusive\]** - Pressing \[F\] before releasing your Fire Palm will release a wider but shorter flame.
     -   In the August 16th, 2024 update, Wildfire became base behavior Fire Palm.
+-   **Aggressive Posture \[Common Talent\]** - Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
+    -   In the January 31st, 2025 update, Aggressive Posture has been removed due to clashing with a new mechanic called Backstepping
 
 ## Other
 

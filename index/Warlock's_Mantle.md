@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Mantle"
-revid: 133350
+revid: 133840
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Mantles, World Event]
@@ -26,7 +26,7 @@ categories: [Items, Equipment, Arms, Mantles, World Event]
 
 ## Description
 
-The Warlocks Mantle is a Unique tier [Equipment](Equipment.md) item under the "Arms" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and in [Saramaed Hollow](Saramaed_Hollow.md). It has the innate talent [Overflowing Dam](Talents.md#adept-caster), causing all your attacks to deal 15% more damage while your ether bar is full.
+The Warlocks Mantle is a Unique tier [Equipment](Equipment.md) item under the "Arms" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and in [Saramaed Hollow](Saramaed_Hollow.md). It has the innate talent [Overflowing Dam](Talents.md#adept-caster), causing all your attacks to deal 10% more damage while your ether bar is full.
 
 ## Trivia
 

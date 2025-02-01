@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 133748
+revid: 133839
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -649,7 +649,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   You can obtain other Weapon Mantras as long as you have 30 investment points in them, including Jus Karita mantras.
     -   This used to be 8
 -   Rapid Punches and Ceaseless Slashes are the only Attunement-less mantras to be starred, being 1 and 3 stars respectively.
--   "Strong Left" may have been inspired by Franky's Strong Right from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk)).
+-   "Strong Left" may have been inspired by [Franky's Strong Right from one piece](https://onepiece.fandom.com/wiki/Franky/Abilities_and_Powers#BF-36/Cyborg_Tactics).
     -   Strong Left used to be notorious for having a large backwards hitbox that was bigger than the actual forwards hitbox, leading to clips such as turning around to make a strong left hit.
 -   Rapid Slashes is Vergil's move from Devil May Cry series.
 -   Revenge has its sound effects from the indie RPG game "OMORI" ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
