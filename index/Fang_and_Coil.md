@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 133130
+revid: 133933
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weapons with Unique Criticals, Multiple Criticals]
@@ -48,7 +48,6 @@ For its **Running Critical**, the user performs a front-flip followed by a dazin
 -   [Light's Final Toll](<Light's_Final_Toll.md>)'s critical attacks do not change with this fighting style equipped.
 -   [Wraithclaw](Wraithclaw.md)'s critical attack is unaffected and no running critical is added when wearing [Jade Vigils Weave](<Jade_Vigil's_Weave.md>)
 -   If you have all three fist styles, swapping them with Y will seemingly alternate between only two, ignoring one. This has not been thoroughly tested.
--   Currently there is a bug where defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) during the windup of its beam attack (the one it uses on Etris docks) will not count as kill credit for unlocking Fang and Coil.
 
 ## References
 

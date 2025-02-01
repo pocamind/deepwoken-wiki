@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 103572
+revid: 133928
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -43,6 +43,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   Cheh tahh sehh kee gah... Pess kahh tahh... Hm? Oh, sorry, I was just singing the menu theme.
 -   Condiments are calories... never forget that.
 -   Did you know I'm actually your twin brother? I know it sounds cliche but I have a 500 page lore document in the works to explain how.
+-   Did you know the Q button makes you dodge?
 -   Do the developers even read community suggestions? I told them to make the game better ten times already, and they still haven't.
 -   Does this game upset you? Me too.
 -   Don't you get tired of being nice?

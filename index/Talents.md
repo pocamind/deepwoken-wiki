@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 133841
+revid: 133885
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3146,6 +3146,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite for equipment: [Power](Power.md) 13
 
 -   Diver's Resilience \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
+    -   10 second cooldown.
     -   Allows you to parry most unparryable mob attacks at the cost of reducing your mobility.
     -   Obtained from [Grand Fisher Plate](Grand_Fisher_Plate.md)
 
@@ -3304,6 +3305,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Gain 10 Ether for every Mantra you have equipped.
     -   Maximum of +130 Ether (6 innate Mantra slots, +1 from Neuroplasticity, +1 from Will o' Wisp, +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
 -   Diver's Resilience: [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
+    -   10 second cooldown.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves. Additionally, your movement speed is reduced.
 -   Elegy of Light: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes. Remains dormant until you take the life of an equal.
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
@@ -3314,7 +3316,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Your flourish timer lasts longer with fists.
     -   Increases your flourish timer while using [Fists](Fists.md) from 2 seconds to 3 seconds.
--   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 1% armor durability.
+-   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 10% armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
 -   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
     -   Reduces Burn damage by 50%

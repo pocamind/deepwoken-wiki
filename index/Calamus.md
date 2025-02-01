@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 131715
+revid: 133900
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -16,7 +16,7 @@ categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
 
 ## Description
 
-Calamus is a member of [The Hive](The_Hive.md). She is the sole guardian of the [Greathive](Greathive_Aratel.md) and swore to protect the Lordsgrove and Valley, but she has become fatigued from near death encounters and you can propose to help her, she then gives you a [quest](Quests.md) to slay beats.
+Calamus is a member of [The Hive](The_Hive.md). She is the sole guardian of the [Greathive](Greathive_Aratel.md) and swore to protect the Lordsgrove and Valley, but she has become fatigued from near death encounters and you can propose to help her, she then gives you a [quest](Quests.md) to slay beasts.
 
 ## Location
 
