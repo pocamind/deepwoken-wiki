@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 133151
+revid: 133820
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -41,7 +41,7 @@ Hive Fountains
     -   The left will send you to [Summer Isle](Summer_Isle.md).
     -   The middle-left will send you to [Miner's Landing](<Miner's_Landing.md>).
     -   The middle will send you to [The Lordsgrove](The_Lordsgrove.md).
-    -   The middle right will send you to [Ancient Rotlands](Ancient_Rotlands.md).
+    -   The middle-right will send you to [Ancient Rotlands](Ancient_Rotlands.md).
     -   The right will send you to [Upper Erisia](Upper_Erisia.md).
     -   Fountains have a cooldown of 30 seconds.
 -   Additionally, there are fountains around the Luminant that allows you to teleport back to Greathive Aratel:

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 133794
+revid: 133810
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2883,6 +2883,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I seek the qualities of Tyrant."**_
 
 -   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. Charmed or nearby enemies will fear for longer. Nearby allies gain a 10% damage buff (40s). (+1 Posture)
+    -   25 second cooldown.
     -   You create an AoE stun and slow around you when you start gripping someone.
     -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs. (Bugged on NPCS)
     -   The damage buff is indicated by a white glowing halo effect surrounding the affected player's head.

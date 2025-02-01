@@ -1,6 +1,6 @@
 ---
 title: Fountain Gates
-revid: 130766
+revid: 133804
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
@@ -39,3 +39,4 @@ Fountains located in Greathive Aratel
 ## Trivia
 
 -   There is currently a bug which will not let you use the fountains even when meeting all the requirements. To combat this, join another server.
+-   You need to travel to greathive and use the original fountain that takes you into it. Using any other fountain without doing this will not allow you to travel.

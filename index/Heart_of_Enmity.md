@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 133670
+revid: 133808
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -8,9 +8,9 @@ categories: [Bosses]
 
 # Heart of Enmity
 
-“ DESPICABLE. YOU DEEM YOURSELVES WORTHY OF A CHALLENGE? ALLOW ME TO EDUCATE YOU ON YOUR FOLLY. ”
+“ Despicable. You deem yourselves worthy of a challenge? Allow me to educate you on your folly. ”
 
-― The Voice of Enmity, about to initiate a fight.
+― The Voice of Enmity
 
 Template:Creature Infobox V3
 

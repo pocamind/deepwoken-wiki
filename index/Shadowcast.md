@@ -1,9 +1,9 @@
 ---
 title: Shadowcast
-revid: 133268
+revid: 133819
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Attunement]
+categories: [Attunement]
 ---
 
 # Shadowcast
@@ -48,7 +48,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](
 Dark Blade  
 (☆☆☆)
 
- | Slicing blades of dark energy. | 20 Ether | Shadow | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
+ | Slicing blades of dark energy. | 20 Ether | Shadow + Slash | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
 
 -   Adding rush shards make dark blade faster.
 -   Adding vibrant gems increase ether steal.
@@ -80,10 +80,10 @@ Shadow Gun
 
  | 
 
-Clutching Shadow  
+Clutching Shadow  
 (☆☆☆)
 
- | A shadowy hand. | 50 Ether | Shadow + Blunt (slam) | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage and refilling about the same amount of ether as the spell cost. the caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage
+ | A shadowy hand. | 50 Ether | Shadow + Slash (Grab) + Blunt (Slam) | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage and refilling about the same amount of ether as the spell cost. the caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage
 
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
 -   Deals 55 DMG total, 48 grab + 6 slam.
@@ -122,14 +122,12 @@ Shadow Eruption
  |
 | 
 
-File:1679957620-medaltvroblox20230327185049-tr-edit AdobeExpress (1).gif
-
  | 
 
 Shadow Seekers  
 (★☆☆)
 
- | Call forth the void to track your opponents. | 60 Ether | Shadow | The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase
+ | Call forth the void to track your opponents. | 60 Ether | Shadow + Slash | The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase
 
 nearby opponents until the duration has expired or the orb has made contact with the target. Orbs
 
@@ -194,14 +192,11 @@ Shadow Meteors
 Shade Bringer  
 (★★★)
 
- | Temporarily summon a shadow greatsword for a large slash.
-
--   Cannot be feinted.
-
- | 50 Ether | Shadow | User creates a large black sword from their hands, using it to slash the enemy in front of them.
+ | Temporarily summon a shadow greatsword for a large slash. | 50 Ether | Shadow + Slash | User creates a large black sword from their hands, using it to slash the enemy in front of them.
 
 -   Can be modified with a spring spark, making you lunge forward and slam down on the enemy.
 -   Can be modified with a multiplying spark, making you slash three times instead of once.
+-   Can't be fainted.
 -   You **can** combine spring and multiplying sparks on this Mantra.
 -   Deals 40 dmg non modded and with spring spark, 80 dmg with multi, 85 with multi and spring
 
@@ -305,7 +300,7 @@ Encircle
 
 before warp-striking to them.
 
- | 90 Ether | Shadow | The user will summon shadows around their target and teleport to them after a short wait.
+ | 90 Ether | Shadow + Slash | The user will summon shadows around their target and teleport to them after a short wait.
 
 -   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged
@@ -314,10 +309,10 @@ before warp-striking to them.
  |
 |  | 
 
-Shadow Assault  
+Shadow Assault  
 (★★☆)
 
- | A rush of darkness. | 50 Ether | Shadow | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable.
+ | A rush of darkness. | 50 Ether | Shadow + Slash + Blunt (spark) | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable.
 
 -   Lenses increase distance.
 -   Glass and Magnifying Stones make hitbox larger.
@@ -332,7 +327,7 @@ Shadow Assault
 Shade Step  
 (★★☆)
 
- | Submerge into your shadow. Click to launch an attack at any point while submerged. | 30 Ether | Shadow (?) | Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards.
+ | Submerge into your shadow. Click to launch an attack at any point while submerged. | 30 Ether | Shadow | Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards.
 
 -   After ~3s (or sooner if player uses left click) you jump out creating a shadow 'Spike' that pierces enemies.
 -   While submerged you have I-Frames.
