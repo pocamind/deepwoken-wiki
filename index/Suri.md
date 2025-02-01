@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 131754
+revid: 133830
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
@@ -16,7 +16,7 @@ categories: [Vesperian NPCs, NPCs, Quests, The Hive, NPCs located in the Eastern
 
 ## Description
 
-Suri is an NPC belonging to the Hive faction. Talking to him will start the Grave Tending [quest](Quests.md) where she asks you to bring a flower to his [brother's grave](Well-kept_Gravestone.md).
+Suri is an NPC belonging to the Hive faction. Talking to him will start the Grave Tending [quest](Quests.md) where he asks you to bring a flower to his [brother's grave](Well-kept_Gravestone.md).
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 133587
+revid: 133833
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -830,7 +830,7 @@ N/A
 ## Tips/Trivia
 
 -   Temporary health acts like a second healthbar that takes damage before your normal healthbar does. Temporary health decays over time and is used or consumed by certain Bloodrend talents.
-    -   Some things bypass temporary health and deal damage to your normal healtbar regardless. Some examples would be Viscosity, the Bloodrend Talent Rush Hour, and the Poison (hp drain) [Corrupted Bell](Resonance.md#corrupted-resonances) downside.
+    -   Some things bypass temporary health and deal damage to your normal healthbar regardless. Some examples would be Viscosity, the Bloodrend Talent Rush Hour, and the Poison (hp drain) [Corrupted Bell](Resonance.md#corrupted-resonances) downside.
 -   Blood Poison is a stacking effect that is applied on the blood bar. **It does not replace blood**, simply overlay itself on top of it.
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
     -   20% - _**Vasculitis**_ Talent is Activatable
@@ -855,4 +855,5 @@ N/A
 -   Scarlet Cyclone is possibly a reference to Gyutaro's Rotating Circular Slashes technique from Demon Slayer: Kimetsu no Yaiba.
 -   Bloodtide Ritual may be a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring.
 -   Bloodedge could possibly a reference to Ragna The Bloodedge; both in his name and his ability to conjure a scythe of blood; from the Blazblue series.
+-   Veinbreaker is likely a reference to Slayer's "Mappa hunch" in Guilty Gear Strive.
 -   Crucifixion is a reference to Klaus' 'Unbreakable Cross Shield' from Blood Blockade Battlefront; confirmed by a tester.

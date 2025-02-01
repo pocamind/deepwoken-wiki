@@ -1,6 +1,6 @@
 ---
 title: "Toon's Goggles"
-revid: 133734
+revid: 133831
 source: https://deepwoken.fandom.com/wiki/Toon's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Face, Goggles, Developer Spec]
@@ -30,7 +30,7 @@ notices:
 
 Toon's Goggles are an [Equipment](Equipment.md) item under the "Face" category.
 
-Toon's Goggles give user the talent "Ghost" which make dodging a move will briefly make you invisible, ending early if you attack.
+Toon's Goggles gives user the talent "Ghost" which make dodging a move will briefly make you invisible, ending early if you attack.
 
 ## Trivia
 
