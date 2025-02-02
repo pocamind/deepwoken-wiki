@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 133211
+revid: 134134
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Layer 2, Floor 2, Dungeons]
@@ -122,6 +122,7 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 
 -   The music for this area is [Kyrie](https://www.youtube.com/watch?v=3EkFtoTfwu8) by Naktigonis.
 -   The combat music for this area is [INSOMNIA](https://www.youtube.com/watch?v=YMJBMjergiI) by Naktigonis.
+    -   As stated in the video, the music present in game is altered due to ROBLOX's guidelines regarding screaming and distorted audio.
 -   Undying Flame, Gliders, Teleportation, and Mute all do not work in the Second Layer.
 -   [Dimensional Travel](../Dimensional_Travel.md) will fling you the way you're facing if attempted to be used.
 -   Layer 2 Floor 2, [New Kyrsa](New_Kyrsa.md), appears to contain many references from the 2019 Indie game [Risk Of Rain 2](https://riskofrain2.fandom.com/wiki/Risk_of_Rain_2_Wiki). Foremost, upon entering Floor 2, you are greeted In a dimly-lit stone-like room lined with marble shrines that encompass a grand stairway that leads upwards. This introduction has stark similarities to the entrance to the final stage of the game in Risk Of Rain 2, called [Commencement](https://riskofrain2.fandom.com/wiki/Commencement) on [Petrichor V](https://riskofrain2.fandom.com/wiki/Petrichor_V)'s moon. In addition, upon defeating [Scion of Ethiron](../Scion_of_Ethiron.md), both games fessature a two-minute timer as the entirety of Floor Two begins to collapse, similar to how [Petrichor V](https://riskofrain2.fandom.com/wiki/Petrichor_V)'s moon collapses once you defeat the final boss of the game, [Mithrix, King of Nothing](https://riskofrain2.fandom.com/wiki/Mithrix). Finally, your escape is littered with instakill-capable imploding explosions that function and sound the exact same as the ones seen in [Commencement](https://riskofrain2.fandom.com/wiki/Commencement)'s escape sequence in addition to both containing swaths of enemies attempting to stop you, swiftly requiring you to reach a set point ([Rescue ship](https://riskofrain2.fandom.com/wiki/Commencement#Releasing_the_Rescue_Ship) for Risk of Rain 2, and the Light hook at the entrance of the city for Deepwoken) in order to survive the escape sequence.

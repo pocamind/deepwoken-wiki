@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 134116
+revid: 134130
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -285,13 +285,6 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   When sheathed, the weapon keeps their base color.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Rhaemens ember.gif<figcaption></figcaption></figure><center><br>
-  <font>Curse of Rhaemen's Ember<div></div></font></center></td>
-  <td><div><p>Once enough stacks have been applied, the Fire of Life germinates. The explosion deals a random amount of damage and grants temporary health to the affected targets.<br>
-  </p></div></td>
-  <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
-</tr>
-<tr>
   <td><figure>File:Curse of the no life king.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the No Life King<div></div></font></center></td>
   <td><div><p>While held, gain passive health regen. Every M1 adds 2% insanity to the opponent.<br>
@@ -307,6 +300,22 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <b>Disabled in Arena.</b></p></div></td>
   <td><div>Weapon is completely black. 2-4 black &amp; red flame spikes surround the weapon.<br>
   When sheathed, the flame spikes are invisible.</div></td>
+</tr>
+<tr>
+  <td><figure>File:Curse.gif<figcaption></figcaption></figure><center><br>
+  <font>Curse Of Repulsion<div></div></font></center></td>
+  <td><div><p>While blocking, take 30% chip DMG<br>
+  Successful proc will push attacker backwards and put the enchant on 2.5 second cooldown.<br>
+  You take 30% chip dmg only if the enchant procs.<br>
+  <b>NO RANGE LIMIT, AFFECTED BY ANY ATTACK</b></p></div></td>
+  <td><div>Weapon is colored blue and has VENT like electricity particles on</div></td>
+</tr>
+<tr>
+  <td><figure>File:Rhaemens ember.gif<figcaption></figcaption></figure><center><br>
+  <font>Curse of Rhaemen's Ember<div></div></font></center></td>
+  <td><div><p>Once enough stacks have been applied, the Fire of Life germinates. The explosion deals a random amount of damage and grants temporary health to the affected targets.<br>
+  </p></div></td>
+  <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
@@ -329,15 +338,6 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Can autogrip if it procs self damage at low enough health. These effects are mutually exclusive and share a cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>
-</tr>
-<tr>
-  <td><figure>File:Curse.gif<figcaption></figcaption></figure><center><br>
-  <font>Curse Of Repulsion<div></div></font></center></td>
-  <td><div><p>While blocking, take 30% chip DMG<br>
-  Successful proc will push attacker backwards and put enchant on 2.5 second cooldown.<br>
-  You take 30% chip dmg only if enchant proc.<br>
-  <b>NO RANGE LIMIT, AFFECTED BY ANY ATTACK</b></p></div></td>
-  <td><div>Weapon is colored blue and has VENT like electricity particles on</div></td>
 </tr>
 </tbody>
 </table>

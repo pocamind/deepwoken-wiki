@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 120418
+revid: 134143
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment, Event Item, Items, Hallowtide]
@@ -34,3 +34,4 @@ The Pumpkin Head is an [Equipment](Equipment.md) item under the "Head" category.
 -   This is the same hat that [Gourdskippers](Gourdskipper.md) and Infecteds wear.
 -   This item is undroppable.
 -   Unlike the [Mushroom Costume](Mushroom_Costume.md) that turns your skin white, This hat does NOT turn your skin or equipment Orange, Despite it happening when Infected in the Trial of Gourdskippers
+-   This item can be dyed, however the color will not change at all. Wasting a [dye packet](Dye_Packet.md)

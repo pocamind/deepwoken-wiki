@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 133659
+revid: 134141
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -536,7 +536,7 @@ Wind + Lightning + Slash
   40 Thundercall<br>
   40 Frostdraw</center></td>
   <td><center>Landing a critical with a Static Link on your opponent applies Chilled.</center></td>
-  <td><center>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze.</center></td>
+  <td><center>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze. If you have Crystallization path, it applies 1 Crystal per hit of the critical.</center></td>
   <td><center><i>"I seek the qualities of Doomsday Engine."</i></center></td>
 </tr>
 </tbody>
@@ -933,7 +933,7 @@ Wind + Lightning + Slash
   40 Thundercall<br>
   40 Frostdraw</center></td>
   <td><center>Landing a critical with a Static Link on your opponent applies Chilled.</center></td>
-  <td><center>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze.</center></td>
+  <td><center>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze. If you have Crystallization path, it applies 1 Crystal per hit of the critical.</center></td>
   <td><center><i>"I seek the qualities of Doomsday Engine."</i></center></td>
 </tr>
 </tbody>

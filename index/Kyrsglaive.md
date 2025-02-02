@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 134068
+revid: 134136
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -24,7 +24,7 @@ categories: [Weapons, Spears]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2 |
-| description | "..." |
+| description | "An ancient spear of kyrsan craftsmanship, its presence beyond the second layer is a miracle. few have ever been found by humanity. unlike their usual weapons, this spear was forged to control the raw, untamed power of their kin. made from the remains of the primal, cartilage wielding creatures they once shared the world with, this arsenal was an attempt to harness the strength of their wild precursors that had been forsaken in favor of the cold precision of their spears of frost." |
 
 ## Description
 

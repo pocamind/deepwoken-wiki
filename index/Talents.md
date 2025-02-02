@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 134104
+revid: 134140
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -880,10 +880,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Doomsday Engine."**_
 
 -   Frozen Web \[Common Talent, Dual attunement\] - Landing a critical with a Static Link on your opponent applies Chilled.
-    -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
     -   Applies chill for 7 seconds.
+    -   Applies 1 Crystal per hit of the critical if you have Crystallization path.
     -   Applies bottom freeze.
     -   Applies fragile freeze if the critical guardbreaks.
+    -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
 
 ### Duelist
 
