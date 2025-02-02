@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 134056
+revid: 134081
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,7 +14,7 @@ Motifs are an obtainable tool added during the February 1st, 2025 update. Using 
 
 ## Obtaining and using Motifs
 
-To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a compatible weapon and choose the _Extract Motif_ option. Doing so will **destroy your weapon**, replacing it with a [Formless Shard](Formless_Shard.md) and will grant you the weapon's Motif as a item.
+To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a compatible weapon and choose the _Extract Motif_ option. Doing so will **destroy your weapon**, replacing it with a [Formless Shard](Formless_Shard.md) that will grant you the weapon's Motif as a item.
 
 To equip a Motif, either use the item from your inventory or go to a campfire and use it similarly to a Deep Gem on a Mantra; under your weapon, there's a Motif slot. This will **replace your critical attack** with the critical attack of the weapon your Motif came from.  
 For example, if you have a Crescent Cleaver Motif on your [Zweihander](Zweihander.md), it will have [Crescent Cleaver](Crescent_Cleaver.md)'s critical instead of the base greatsword one. There are limitations and not every weapon can equip Motifs. See below for more information.
@@ -23,7 +23,7 @@ Motifs can be unequipped at any time at a campfire without voiding the Motif.
 
 ## Compatibility
 
-Motifs **cannot** be applied to weapons that already have a unique critical attack. However, Motifs also cannot be applied to [Divine Weapons](Crazy_Slots.md).
+Motifs **cannot** be applied to weapons that already have a unique critical attack. Motifs also cannot be applied to [Divine Weapons](Crazy_Slots.md).
 
 Any weapon with a default critical (excluding Fists) can have their Motif put on any other weapon in that weapon class that also has a default critical. Which does nothing.
 
@@ -52,7 +52,7 @@ Daggers
  |
 | 
 
-[The Flippers of Fate](The_Flippers_of_Fate.md)
+[The Flippers of Fate](The_Flippers_of_Fate.md) / [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
 
  | 
 
@@ -79,15 +79,6 @@ Flintlocks, Rifles
  |
 | 
 
-[Golden Swordfish](Golden_Swordfish.md)
-
- | 
-
-Spears
-
- |
-| 
-
 [Serpent's Edge](<Serpent's_Edge.md>)
 
  | 
@@ -106,16 +97,7 @@ Swords, Clubs, Twinblades, Spears, Rifles
  |
 | 
 
-[Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
-
- | 
-
-Swords, Clubs, Twinblades, Spears, Rifles
-
- |
-| 
-
-[Trident Spear](Trident_Spear.md) / \[\[Trident Spear#Alloyed|Template:AlloyedColor\]\]
+[Trident Spear](Trident_Spear.md) / \[\[Trident Spear#Alloyed|Template:AlloyedColor\]\] / [Golden Swordfish](Golden_Swordfish.md)
 
  | 
 
@@ -133,25 +115,7 @@ Flintlocks, Rifles
  |
 | 
 
-[Crescent Cleaver](Crescent_Cleaver.md) / \[\[Crescent Cleaver#Alloyed|Template:AlloyedColor\]\]
-
- | 
-
-Greatswords
-
- |
-| 
-
-[Kyrscleave](Kyrscleave.md)
-
- | 
-
-Greatswords
-
- |
-| 
-
-[The Long Tong of The Law](The_Long_Tong_of_The_Law.md)
+[Kyrscleave](Kyrscleave.md) / [Crescent Cleaver](Crescent_Cleaver.md) / Template:AlloyedColor / [The Long Tong of the Law](The_Long_Tong_of_The_Law.md)
 
  | 
 

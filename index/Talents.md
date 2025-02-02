@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 133983
+revid: 134080
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1561,7 +1561,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Heavy Shoulders \[Common Talent, Ironsing Exclusive\] - If your opponent has 3 or more rods, their dodges are slower.
-    -   Currently is bugged, but on proc suppose to drastically reduce roll distance ([example](https://tenor.com/view/heavy-shoulders-deepwoken-effect-gif-3222924053728144070))[\[1\]](https://cdn.discordapp.com/attachments/1316804088737960108/1316812565266829433/Discord_m8yEDYqRPR.gif?ex=675c68c4&is=675b1744&hm=07974f8e6e6520e3b3a19e00efde071950f32db267e305006b733316eda3c0e8&)
     -   Prerequisite: 55 Ironsing
 
 -   Oh The Irony \[Common Talent, Ironsing Exclusive\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
@@ -2285,6 +2284,7 @@ _**"My cure is most effective."**_
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
     -   Deals 10 Ironsing damage per blade.
     -   Doesn't scale on Ironsing Investment
+    -   Artisan's blade have windup of 1.2s
     -   Hits from Artisan's Blades do not drain armor from enemy.
     -   Artisan's Blades do not benefit from Exposed Durability's damage buff or any other defense debuff.
     -   Not affected by "Return To The Dark Ages"
@@ -2292,6 +2292,7 @@ _**"My cure is most effective."**_
     -   Procs by pulling rods out of someone, amount of Artisan's blade proc depends on pulled amount of rods (6 rods = 3 Artisan's)
     -   4.5 posture per blade.
     -   Artisan blades last 20 seconds.
+    
     -   "Metal infused" attacks are Ignition deepcrusher m1, crit (in any stance), Iron requiem m1 without bullets.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 

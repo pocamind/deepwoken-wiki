@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 133747
+revid: 134078
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -16,7 +16,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 _**"Oaths"** are viewpoints and beliefs that a character vows to live by until the day they fall._ They chiefly serve to further define the player character's potential, personality, and story- providing a progressable set of abilities alongside a set of rules or actions to swear under. Oaths, just like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are classified as unique [Talent Cards](Talents.md) that players obtain only through meeting certain requirements and do not take up talent slots.
 
-**Due to the unique nature of swearing an Oath, only one can be wielded at once.** It is possible to break an Oath with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but "_it's called an Oath for a reason._" Heed the consequences that come with being an Oathbreaker.
+**Due to the unique nature of swearing an Oath, only one can be wielded at once.** It is possible to break an Oath with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but "_it's called an Oath for a reason._" Heed the consequences that come with becoming an Oathbreaker.
 
 Every character begins as a simple Pathfinder, meaning they are without an Oath, but not devoted to being Oathless. Being a Pathfinder offers no real advantages, but it _may_ protect you from others who need Oath Kills for their progression, such as Linkstriders or Contractors, however, don't rely on it.
 
@@ -131,7 +131,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 ## Oath Skipping
 
-If you've progressed a certain Oath once before to max, you are able to skip the progression next time you obtain said Oath, this feature applies across slots. Simply talk to the relevant NPC of the Oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note: that you still need to get the requirements of the Oath you wish to skip. If you are a Chainwarden, Bladeharper, Soulbreaker, or Saintsworn, you cannot skip the Oath progression yet (will be added in the future).
+If you've progressed a certain Oath once before to max, you are able to skip the progression next time you obtain said Oath, this feature applies across slots. Simply talk to the relevant NPC of the Oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note: that you still need to get the requirements of the Oath you wish to skip. If you are a Chainwarden, Bladeharper, Soulbreaker, or Saintsworn, you cannot skip the Oath progression with knowledge yet (will be added in the future).
 
 ## Oathbreaker - Oath Removal
 

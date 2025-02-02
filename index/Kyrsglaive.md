@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 133962
+revid: 134068
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -41,3 +41,4 @@ The Kyrsglaive has a unique **Critical** where you slam the tip of the spear ont
 
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrsieger](Kyrsieger.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), **Kyrsglaive**, [Kyrscleave](Kyrscleave.md))
 -   This weapon was given a new Critical on 2/01/2025, replacing the default spear critical.
+-   it is the only kyrs series weapon with a description

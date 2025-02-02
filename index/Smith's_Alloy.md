@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 133924
+revid: 134074
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -30,7 +30,7 @@ categories: [Relics]
 
 When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars.
 
-### 2\. Motifs
+### 2\. [Motifs](Motifs.md)
 
 Can be used to copy the critical of a weapon and move it to another weapon that is compatible (such as taking a trident spear crit and put it onto another spear or medium weapon) **\[REQUIRES TESTING ACROSS ALL WEAPONS\]** doing this will destroy the weapon you took the crit off and give you a Formless shard which can be used as a dagger, retaining the old enchant before motifs.
 

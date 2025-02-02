@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 133839
+revid: 134084
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -471,7 +471,7 @@ File:Disguising .gif
 
  | Karita Leap (☆☆☆) | Launch yourself into a flying kick, backflipping into the air if you hit a wall. | 
 
--   **Requirements: 20 Light Weapon, Combat Mantra (Requires [Jus Karita](Jus_Karita.md))**
+-   **Requirements: 20 Light Weapon, Mobility Mantra (Requires [Jus Karita](Jus_Karita.md))**
     -   Hitting a wall causes you to backflip.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 133443
+revid: 134069
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -30,13 +30,13 @@ It is also noted that you can get free points even without Autodidact or the Adr
 
 ## Level Hands
 
-(tba) mantras, talent hands etc
+(tba) mantras, talent hands etc.
 
-every level up you get you will be awarded 2-3 talent hands and 0-1 mantra hands, when you are to obtain a mantra from leveling you will be awarded with 2 talent hands and if not you will get 3 talent hands
+Every level up you get you will be awarded 2-3 talent hands and 0-1 mantra hands, when you are to obtain a mantra from leveling you will be awarded with 2 talent hands and if not, you will get 3 talent hands
 
-The current level for getting mantras are 2,4,6,8,9,10,12,14,16,18,19,20 resulting in 12 mantras total, you can obtain more mantras through the [Kelsius quest](Kelsius.md), [Deep shrines](Deep_Shrines.md) and [Monster mantras](Monster_Mantras.md). You wont be able to use more the a certain amount of mantras depending on what build you have with some allowing more mantras then other via [Oaths](Oaths.md) and [Neuroplasticity](Talents.md).
+The current level for getting mantras is 2,4,6,8,9,10,12,14,16,18,19,20 resulting in 12 mantras total, you can obtain more mantras through the [Kelsius quest](Kelsius.md), [Deep shrines](Deep_Shrines.md) and [Monster mantras](Monster_Mantras.md). You won't be able to use more a certain number of mantras depending on what build you have with some allowing more mantras then other via [Oaths](Oaths.md) and [Neuroplasticity](Talents.md).
 
-you can obtain up to a max of 76 talents which can be turned into mantras through the [Shrine of unification](Deep_Shrines/Shrine_of_Unification.md) and turn a mantra card into 2 random talent through the [Shrine of division](Deep_Shrines/Shrine_of_Division.md)
+You can obtain up to a max of 76 talents which can be turned into mantras through the [Shrine of unification](Deep_Shrines/Shrine_of_Unification.md) and turn a mantra card into 2 random talents through the [Shrine of division](Deep_Shrines/Shrine_of_Division.md)
 
 ## Notes/Trivia
 
@@ -44,8 +44,8 @@ you can obtain up to a max of 76 talents which can be turned into mantras throug
 -   If drowning at Power 4 and above, if you reach the Cathedral of the Interstice, you may partake in a trial (defeat an enemy which more often than not, does suit your level of strength) in order to return to the overworld.
 -   At Power 5, your character is eligible to create Guilds.
 -   Once at power 15, if entering The Depths by your own accord, you can speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at Castle Light and descend to the [Eternal Gale](Second_Layer.md). (You must enter through a whirlpool, otherwise you won't get past the life barrier.)
--   Each Power increase cleans your Health Bar if it is stained. This does not work while in The Depths, but can still save you from certain death by healing you.
--   The amount of times you have been sent to the depths increases a counter named Times Drowned in the summary which adds up the number of Drowns to your Power when calculating which trial you must face.[\[1\]](#cite-note-1)
+-   Each Power increase cleans your Health Bar if it is stained. This does not work while in The Depths but can still save you from certain death by healing you.
+-   The number of times you have been sent to the depths increases a counter named Times Drowned in the summary which adds up the number of Drowns to your Power when calculating which trial you must face.[\[1\]](#cite-note-1)
 
 ## References
 
