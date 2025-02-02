@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 133795
+revid: 134087
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -83,7 +83,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 
 ## Upgrades and Modifiers
 
-There are 14 upgrades to purchase, and each can be purchased a maximum of 1 to 6 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 2650 echoes.
+There are 16 upgrades to purchase, and each can be purchased a maximum of 1 to 6 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 2650 echoes.
 
 [Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 40 echoes per item even if they're Soulbound. This is not renewable.
 

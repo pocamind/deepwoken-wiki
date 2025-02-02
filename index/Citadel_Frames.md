@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 133069
+revid: 134112
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -26,10 +26,10 @@ categories: [Equipment, Face, Glasses]
 
 ## Description
 
-**Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. They can be obtained from [Saramaed Hollow](Saramaed_Hollow.md).
+**Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. They can be obtained from various sources, such as [Saramaed Hollow](Saramaed_Hollow.md).
 
 ## Trivia
 
 -   The only face equipment to have innate HP and negative stats.
--   This glasses has Diver faction emblem on hinges.
--   The default ones (with no color) give -2 Posture instead of -1, probably because they aren't your prescription.
+-   These glasses have a Diver faction emblem on their hinges.
+-   The default pair (with no color) give -2 Posture instead of -1, probably because they aren't your prescription.

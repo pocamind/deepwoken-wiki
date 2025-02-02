@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 133638
+revid: 134116
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -147,7 +147,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
   <u>1% armor drain per 5.25 UNSCALED DMG dealt. 1% armor drain per 7 UNSCALED DMG dealt (Aka no DMG mods) (if steadfast)</u><br>
-  <u><b>ARMOR DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
+  <u><b>ARMOR DRAIN DEPENDS ON UNSCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
   Armor drain values are <b>fixed</b> to&nbsp;% dmg and doesn't scale with armor durability.<br>
   Works on any enemy/monster even on those without armor<br>
   No PVE scale.</p></div></td>
@@ -283,6 +283,13 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   When missing an attack (dodge, parry and block are not a miss), lose some blood.</p></div></td>
   <td><div>Weapon is completely red, surrounded by a red aura.<br>
   When sheathed, the weapon keeps their base color.</div></td>
+</tr>
+<tr>
+  <td><figure>File:Rhaemens ember.gif<figcaption></figcaption></figure><center><br>
+  <font>Curse of Rhaemen's Ember<div></div></font></center></td>
+  <td><div><p>Once enough stacks have been applied, the Fire of Life germinates. The explosion deals a random amount of damage and grants temporary health to the affected targets.<br>
+  </p></div></td>
+  <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the no life king.gif<figcaption></figcaption></figure><center><br>

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 133167
+revid: 134118
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Ignition Union]
@@ -29,6 +29,7 @@ This Outfit's Schematic can be found in:
 -   [Lower Erisia](Lower_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>) at the bank
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chests)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [The Depths](The_Depths.md)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 
@@ -36,7 +37,3 @@ This Outfit's Schematic can be found in:
 
 -   One of the best early/mid game armors, as it gives fairly high physical and elemental armor, which rivals some expert tier armors while remaining cheap to make.
 -   Generally better than the [Summer Company Uniform](Summer_Company_Uniform.md). (Debatable)
--   Very similar in appearance to the [Union Initate](Union_Initiate.md) Outfit, the differences being:
-    -   Increased padding around the knees and lower legs
-    -   A thinner belt without pouches
-    -   Additional gold (or what appears to be gold) in the centre of the breastplate

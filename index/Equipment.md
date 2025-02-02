@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 134028
+revid: 134113
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -6446,7 +6446,7 @@ Found from:
 -   Highest theoretical **stealth** kit in game is 30% stealth. (10% Dark Owl Chapeau, 6% Mercenary's Garb/Ministry Cloak/Dark Owl Cloak, 5% Shrouded Capes, 6% Duelist Mask, 3% Master Thief Earrings)
 -   Highest theoretical **ETH** kit in game is 375 ETH. (4x 27 ETH Moon and Waning Rings, 68 ETH (Drowned) Diver's Light Plate, 36 ETH Scarf, 54 ETH Hood, 54 ETH Boots, 27 ETH Hivelord Mask, 32 ETH Old Blood Earrings)
 -   Highest theoretical **Posture** kit is 19 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
--   Highest theoretical **HP** kit in game is 165 HP. (2x 9 HP Moon and 2x 9 HP Waning Rings, 47 HP (Drowned) Diver's Light Plate/Bastions of Enmity, 13 HP Scarf, 32 HP Parasol Planter, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings, 5 HP Citadel Frames)
+-   Highest theoretical **HP** kit in game is 170 HP. (2x 9 HP Moon and 2x 9 HP Waning Rings, 47 HP (Drowned) Diver's Light Plate/Bastions of Enmity, 18 Fauld of Emnity, 32 HP Parasol Planter, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings, 5 HP Citadel Frames)
 -   Highest theoretical **DvM** kit in game is 69% DvM. (3x 4% DvM Rings, 7% DvM Diver's Ring (depths only), 19% DvM (Drowned) Pathfinder Elite, 5% DvM Scarf, 10% DvM Warlock's Brim/Aegis of Enmity, 10% DvM Wartreads of Enmity, 3% DvM Hivelord's Mask/Royal Guard, 3% DvM Earrings)
     -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have been 77%.
 -   Highest theoretical **Monster** **Armor** kit in game is 37% Monster Armor. (21% (Drowned) Arms, 16% Deepwoken Hood/Vigil's Hood/Parasol Planter/Tillian's Beret)

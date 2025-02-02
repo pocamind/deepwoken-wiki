@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 133702
+revid: 134110
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 
 ### Reinforced
 
-Applied after being hit by the Mantra [Reinforce](Attunement-less.md#fortitude-mantras), do 3% more damage and get 10% defense. Allies near you will automatically gain the same effect. And if you reinforce others, this effect can go onto them too. Signified by pale yellow/lime green particles surrounding the body.
+Applied after being hit by the Mantra [Reinforce](Attunement-less.md#fortitude-mantras), do 5% more damage and get 10% defense. Allies near you will automatically gain the same effect. And if you reinforce others, this effect can go onto them too. Signified by pale yellow/lime green particles surrounding the body.
 
 ### Lord's Tithe
 
@@ -98,15 +98,15 @@ Apply charm every M1 and Mantra landed, even without having the Charismatic Cast
 
 ### Mark of Jurik
 
-Buffs the sanity and health regeneration of people near you. Also slightly buffs the nourishment of food and blood regeneration of affected players. Signified by dark blue particles surrounding the body. Can only be applied by players who have the the Jurik and Hollowtide [Capra](Capra.md) Variants.
+Buffs the sanity and health regeneration of people near you. Also slightly buffs the nourishment of food and blood regeneration of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by dark blue particles surrounding the body. This has a 4 minute cooldown, but does not require a campfire to be used. Can only be applied by players who have the the Jurik and Hollowtide [Capra](Capra.md) Variants.
 
 ### Mark of Nemit
 
-Buffs the nourishment of food and health regeneration for people near you. Also slightly buffs the sanity and blood regeneration of affected players. Applied if the person is near a campfire or level 5. Signified by red particles surrounding the body. Can only be applied by players who have the the Nemit [Capra](Capra.md) Variant.
+Buffs the nourishment of food and health regeneration for people near you. Also slightly buffs the sanity and blood regeneration of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by red particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Nemit [Capra](Capra.md) Variant.
 
 ### Mark of Ku
 
-Buffs the blood and health regeneration of people near you. Also slightly buffs the nourishment of food and sanity of affected players. Applied if the person is near a campfire or level 5. Signified by light green particles surrounding the body. Can only be applied by players who have the the Ku [Capra](Capra.md) Variant.
+Buffs the blood and health regeneration of people near you. Also slightly buffs the nourishment of food and sanity of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by light green particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Ku [Capra](Capra.md) Variant.
 
 ## Harmful Status Effects
 

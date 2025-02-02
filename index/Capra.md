@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 133388
+revid: 134103
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Moonseye]
@@ -30,11 +30,12 @@ Capras are an aspect similar to goats, exhibiting various goat-like characterist
     <li>"<i>Mark of Ku, the Mother. Improves the rest of those in your presence.</i>"
   <ul>
     <li>Grants affected players improved blood regen.</li>
-    <li>Heals 15% of affected players total HP over a 30s period.</li>
-    <li>Slightly slows the sanity loss of all affected players for 60 seconds.</li>
-    <li>Slightly buffs the food and thirst gain from consuming food for all affected players for 60 seconds.</li>
+    <li>Heals 15% of affected players total HP.</li>
+    <li>Slightly slows the sanity loss of all affected players.</li>
+    <li>Slightly buffs the food and thirst gain from consuming food for all affected players.</li>
+    <li>All buffs lasts 60 seconds, the healing is over a 60 second period, healing 0.25% HP per second.</li>
     <li>Must be activated at a campfire.</li>
-    <li>Cd: 3 min 30 sec</li>
+    <li>Cooldown: 3 Minutes 30 Seconds.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -43,12 +44,13 @@ Capras are an aspect similar to goats, exhibiting various goat-like characterist
   <ul>
     <li>"<i>Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.</i>"
   <ul>
-    <li>Buffs the food and thirst gain from consuming food for all affected players for 60 seconds.</li>
-    <li>Heals 15% of the affected players total HP over a 30s period.</li>
+    <li>Buffs the food and thirst gain from consuming food for all affected players.</li>
+    <li>Heals 15% of the affected players total HP.</li>
     <li>Grants affected players slightly improved blood regen.</li>
-    <li>Slightly slows the sanity loss of all affected players for 60 seconds.</li>
+    <li>Slightly slows the sanity loss of all affected players.</li>
+    <li>All buffs lasts 60 seconds, the healing is over a 60 second period, healing 0.25% HP per second.</li>
     <li>Must be activated at a campfire.</li>
-    <li>Cd: 3 min 30 sec</li>
+    <li>Cooldown: 3 Minutes 30 Seconds.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -57,12 +59,13 @@ Capras are an aspect similar to goats, exhibiting various goat-like characterist
   <ul>
     <li>"<i>Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.</i>"
   <ul>
-    <li>Slows the sanity loss of all surrounding players for 60 seconds.</li>
-    <li>Heals 15% of the affected players total HP over a 30s period.</li>
+    <li>Slows the sanity loss of all surrounding players.</li>
+    <li>Heals 15% of the affected players total HP.</li>
     <li>Grants affected players slightly improved blood regen.</li>
-    <li>Slightly buffs the food and thirst gain from consuming food for all affected players for 60 seconds.</li>
+    <li>Slightly buffs the food and thirst gain from consuming food for all affected players.</li>
+    <li>All buffs lasts 60 seconds, the healing is over a 60 second period, healing 0.25% HP per second.</li>
     <li>Does not require a campfire.</li>
-    <li>Cd: 4 min</li>
+    <li>Cooldown: 4 Minutes.</li>
   </ul></li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 132897
+revid: 134122
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Factions, The Children of Navae]
@@ -43,37 +43,32 @@ With the Jobs update that came out you can now gain reputation by doing Jobs for
 
 Reputation is gained more slowly with The Children of Navae than most other factions.
 
-### **Dialogue**
+## Dialogue
 
-Ally Reputation:
+### Ally Reputation
 
 -   "Ah, Bloodkin \[Name\]. It's good to have you with us."
-
 -   "By my eyes... I am not worthy to have a prophet of Navae in my presence." (Only the Eastern Tribal Leader will say this if you have almost max reputation with them)
-
 -   "Ah, Bloodkin \[Name\]. I am honored to have your assistance." (Only the Eastern Camp Master will say this if you have almost max reputation with them.)
 
-Very Friendly Reputation: (Close to ally reputation)
+### High-Friend Reputation
 
 -   "Navae guide you, homelander."
-
 -   "Blessing of Navae upon you, homelander." (Both the Eastern Tribal Leader and the Eastern Camp Master will say this.)
 
-  
-Friend Reputation:
+### Friend Reputation
 
 -   "Be aware homelander, those murderers could strike at any moment."
-
 -   "Ah homelander, what might you need?"
 
-Neutral Reputation:
+### Neutral Reputation
 
 -   "Ah, a homelander."
 -   "Keep your distance from my people. I do not wish for this to be violent."
 
-Unique Dialogue:
+### Unique Dialogue
 
-If you've gained max reputation or ally with The Children of Navae in a slot that you wiped you will receive this dialogue if you speak with an Eastern Tribe Leader or Eastern Camp Master. (Yes, this dialogue will appear if you wipe with ally or max reputation has been tested.)
+If you've gained max reputation or ally with The Children of Navae in a slot that you wiped you will receive this dialogue if you speak with an Eastern Tribe Leader or Eastern Camp Master. Or, you currently have Hero reputation or close to it. After achieving this, this seems to be a slot unlock, as in you can always get [Way of Navae](Way_of_Navae.md) for free on that slot.
 
 -   "You... You remind me of someone I once knew. I can't quite put my finger on it, but Navae's presence is strong with you. So that I may fufill my part in prophecy, please allow me to share some of our knowledge with you..." (You will get Way of Navae if you get this dialogue.)
 

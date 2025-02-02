@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 127257
+revid: 134095
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -92,20 +92,28 @@ Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperian
 -   Zeneke
     
 
+## Gallery
+
+### Ganymede Hats
+
+Ganymede begins with an innate hat by default that has no stats. It will be removed upon wearing any other headgear (unequipping the headgear will re-equip the Ganymede hat). Like any other equipment, you can toggle its vanity by holding P and clicking the headgear icon.
+
+Ganymede hats are [transmoggable](Transmogrification.md) onto any other headgear. To perform this, turn in the headgear you want to use for stats and the option to style it after your Ganymede hat will appear. Attempting to equip a Ganymede hat smelt on a non Ganymede character will result in the headgear reverting back to its base appearance.
+
+Ganymede hats also have full [dye](Dye_Packet.md) compatibility, allowing you to dye the outside and the underside of the hat separately. After dying the outside of the hat, the option to dye the uderside will appear. You can press submit without changing anything to keep the base appearance of the hat and move on to the underside dye without spending dye packets.
+
 ## Trivia
 
 -   Despite having no apparent mouth on their faces, this has seemingly no impact on them other than visual difference. They still talk, breathe and eat. It may also be possible that their mouth is simply the exact same darkness as the rest of their face.
--   Their appearance bears a resemblance to the black mages from the _[Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)_ series and the [Snail Shaman](https://hollowknight.wiki.fextralife.com/Snail+Shaman) from _[Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight)_. As the Ganymede are meant to represent snails, it is possible the latter is a direct inspiration, especially due to vesperians also being inspired by Hollow Knight series.
+-   Their appearance bears a resemblance to the black mages from the _[Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)_ series and the [Snail Shaman](https://hollowknight.wiki.fextralife.com/Snail+Shaman) from _[Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight)_. As the Ganymede are meant to represent snails, it is possible the latter is a direct inspiration, especially due to Vesperians also being inspired by Hollow Knight series.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Ganymede's aspect name was changed to Hatskipper.
 -   Ganymede is part of the three aspects with lowest (2.2%) roll chance, the other ones being [Capra](Capra.md) and [Tiran](Tiran.md).
--   Ganymedes make up the main population of [the Hive](The_Hive.md) along with [Vesperians](Vesperian.md) and [Chrysids](Chrysid.md)
--   Ganymede begins with an innate hat by default. It is dyeable & smeltable, and if not smelted will be removed upon wearing any other headgear.
+-   Ganymedes make up the main population of [The Hive](The_Hive.md) along with [Vesperians](Vesperian.md) and [Chrysids](Chrysid.md).
     -   The mesh and texture for the old Ganymede hat comes from the Roblox Catalog, being the ["Frumpled Wizard Hat of Old Coots"](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots).
 -   In the Verse 2 update, Ganymede had its racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing sanity multiplier.
     -   They are the only aspect to have their racial Talent updated.
--   The Ganymede hat can be removed by holding P and pressing the hat icon.
 -   Ganymede's name and the names of its variants are taken from the moons of celestial bodies.
     -   [Ganymede](<https://en.wikipedia.org/wiki/Ganymede_(moon)>) is one of the many moons of Jupiter.
     -   [Titan](<https://en.wikipedia.org/wiki/Titan_(moon)>), [Hyperion](<https://en.wikipedia.org/wiki/Hyperion_(moon)>), [Tethys](<https://en.wikipedia.org/wiki/Tethys_(moon)>) and [Enceladus](https://en.wikipedia.org/wiki/Enceladus) are the names of some of Saturn's moons.
     -   Speculated appearance related to [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil), an 8 year old game arch-mage created. [See relation.](https://imgur.com/ae7oCU8)
--   Everyone used to believe that ganymede have less insanity gain as passive aspect buff, but this video [Ganymede Testing](https://www.youtube.com/watch?v=VUsgKKvy1Jo) busted the myth, instead ganymede has 1.2x sanity gain multiplier, boosting sanity healing rather than weakening insanity gain.
+-   Everyone used to believe that ganymede have less insanity gain as passive aspect buff, but this video [Ganymede Testing](https://www.youtube.com/watch?v=VUsgKKvy1Jo) busted the myth, instead Ganymede has 1.2x sanity gain multiplier, boosting sanity healing rather than weakening insanity gain.

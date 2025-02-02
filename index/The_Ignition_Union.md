@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 133547
+revid: 134106
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -31,7 +31,7 @@ Shoulder to shoulder, together, tall! ”
 
 Their main base of operations is the mountainous [Miner's Landing](<Miner's_Landing.md>), located in the Eastern Luminant. Additionally, they have established two field bases in the Depths: [The Chariot's Spire](<The_Chariot's_Spire.md>) in [Scyphozia](First_Layer.md) and [The Frontier Furnace](The_Frontier_Furnace.md) in the first floor of the [Eternal Gale](Second_Layer.md).
 
-**The Ignition Union** are responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Boltcrusher](Boltcrusher.md) along with the [Railblade](Railblade.md), as well as technologies such as the [Arc Suit](Oath%253A_Arcwarder.md).
+**The Ignition Union** are responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Boltcrusher](Boltcrusher.md) along with the [Railblade](Railblade.md), as well as technologies such as the [Arc Suit](Oath%253A_Arcwarder.md) and [Union Pager](Ignition_Delver.md).
 
 They are one of the three factions contracted by [The Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and the [Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out".
 
@@ -82,7 +82,9 @@ Enemy-Neutral Reputation
 
 [Deepdelver Adar](Adar,_Master_of_Metal.md): An Etrean with the rank of a Deepdelver in one of the towers in Miner's Landing studying on how to bring Ironsing back into the modern world. He has been in the Union presumably since birth from the Union taking him off the streets, due to the living Ironsingers guarding the secrets of the attunement he is hidden with the comrades of the Union not knowing where he is as he would be punished for attempting to turn a normal person into an Ironsinger.
 
-[Deepdelver Gamma](Deepdelver_Gamma.md): A Khan Deepdelver who resides in the Chariot's Spire who is in charge of the area working with supplies and finding a lost member in the Eternal Gale, he has been in the first layer all his life.
+[Deepdelver Gamma](Deepdelver_Gamma.md): A Khan Deepdelver who resides in the Chariot's Spire along with Renau and is in charge of the area working with supplies and finding a lost member in the Eternal Gale, he has been in the first layer all his life.
+
+[Deepdelver Renau](Renau.md): A Canor Deepdelver who resides in the Chariot's Spire along with Gamma and is in charge of sending or going to expeditions into the second layer, he is worried of the current batch of union members who are in the Eternal Gale as they were unqualified with the most being Epsi.
 
 [Deepdelver Finnegan](Finnegan_The_Lost.md): A Former Deepdelver who wields one of the prototypes of the [Boltcrusher](Boltcrusher.md), he had a lover who has deceased from unknown reasons. Because of this his mind broke causing his sanity to crumble attacking anything he sees, as the Ignition Union tasks you to bring him down.
 
