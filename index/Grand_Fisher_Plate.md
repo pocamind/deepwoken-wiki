@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 125004
+revid: 133975
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates, The Divers]
@@ -28,7 +28,7 @@ categories: [Items, Equipment, Arms, Plates, The Divers]
 
 The Grand Fisher Plate, along with the [Grand Fisher Helm](Grand_Fisher_Helm.md), are guaranteed drops from an enemy in the [Depths](First_Layer.md) called "[The Fisherman](The_Fisherman.md)." Equipping it grants 10 health, 1 posture, and 3 legendary pips in addition to a unique Talent.
 
-This armor provides the innate Talent _Diver's Resilience_: "You can parry unparryable attacks from giant monsters, but due to the heft of your plate you have slightly reduced speed." (Slows down the user by 3% from their normal speed. **DO NOT EDIT, ITS CONFIRMED INFO**) This functions similarly to [Ignition Deepdelver](Ignition_Deepdelver.md)'s Force Your Way, the difference being in the tradeoff.
+This armor provides the innate Talent _Diver's Resilience_: "You can parry unparryable attacks from giant monsters, but due to the heft of your plate you have slightly reduced speed." (Reduces movement speed by 3%). This talent has a 10 second cooldown. This functions similarly to [Ignition Deepdelver](Ignition_Deepdelver.md)'s Force Your Way, the difference being in the tradeoff.
 
   
 

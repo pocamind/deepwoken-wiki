@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 133737
+revid: 134028
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -16,7 +16,7 @@ _An essential mechanic in Deepwoken, primarily used to resist damage from most s
 
 An example of an item with rolled stats (in beige) and guaranteed stats (in grey)
 
-Equipment is a type of item found in chests, exchanged for using an [Artifact](Artifacts.md) or by various other means. They can be equipped to grant their listed stat bonuses.
+Equipment is a type of item usually found in chests, but can also be exchanged for using an [Artifact](Artifacts.md) or by various other means. They can be equipped to grant their listed stat bonuses.
 
 There are 7 different types of equipment: Head, Arms, Legs, Torso, Face, Ears, and Rings.
 

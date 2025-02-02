@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 133958
+revid: 133972
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -11317,7 +11317,7 @@ Some assorted improvements, bugfixes, and balancing today.
   
 **Exoskeleton Rework**• We felt like Exoskeleton in its current state just wasn't a good talent for the game. It punished FTD & HP investment and was either far too strong or far too weak in different circumstances. It would either feel cheap for your opponents, or cheap for you when you got one-shot by a multi-hit. We've targeted it a lot with balancing, but we don't believe it has a place in the game in its current state. As such, Exoskeleton has been reworked into a new talent that we hope the users will accept as a better reimagining of the legendary talent. The new Exoskeleton behaves like an improved Vesperian Chitin, giving the user Natural Armor that regenerates when resting.  
   
-**Volume Slider  
+**Volume Slider**  
 • The music in-game now has a volume slider  
   
 **Balancing & Improvements**  
@@ -11348,11 +11348,11 @@ Some assorted improvements, bugfixes, and balancing today.
 • Fixed the circle in the Forest Arena closing in on the corner  
   
 **Optimizations**  
-• Patched multiple memory leaks**
+• Patched multiple memory leaks
 
-### _Patch 0.3.8a_
+### _**Patch 0.3.8a**_
 
-**Some points of consideration for the Exoskeleton Rework:  
+Some points of consideration for the Exoskeleton Rework:  
 • Just so it's clear, Exoskeleton isn't identical to Chitin, it gives substantially more resistance and can stack with Chitin. It also has a larger pool of durability.  
 • Natural Armor stacks with your regular Armor.  
 • Natural Armor is unaffected by PEN.  
@@ -11365,15 +11365,14 @@ We're listening to your feedback, and if Exoskeleton is bad in its new form we c
   
 • Exoskeleton durability now scales with your Power. The base is what it is currently, so this scaling will only be a positive thing.  
 • Natural Armor is now restored to full when you win a PvP Arena match.  
-**
 
-### _Patch 0.3.8b_
+### _**Patch 0.3.8b**_
 
-**• Armor & Natural Armor will both now start at max in the PvP Arena. Your Armor & Natural Armor in the Arena won't save to outside of the Arena.**
+• Armor & Natural Armor will both now start at max in the PvP Arena. Your Armor & Natural Armor in the Arena won't save to outside of the Arena.
 
-## February 12th, 2022
+## **February 12th, 2022**
 
-Talent Improvements**  
+**Talent Improvements**  
 • If you don't pick a talent in a hand, it will now be negatively weighted. This basically just means that if a card pops up in your hands often and you don't pick it, it'll appear in your hands less often in future. Folds already did this, but this change should make it so you get the cards you want more often.  
   
 **Balancing**  
@@ -11409,11 +11408,11 @@ Talent Improvements**
 • Fixed free legendaries not always being given to characters that hit the level cap (if a card is available)  
 • Fixed the Luck gain effect showing when you get luck at max luck  
 • Fixed mob feints being silent  
-• Fixed item names covering up stars**
+• Fixed item names covering up stars
 
-## February 9th, 2022
+## **February 9th, 2022**
 
-**Hi guys, just some balances and fixes to follow up last night's update.  
+Hi guys, just some balances and fixes to follow up last night's update.  
   
 **Luck Improvements**  
 • Base Luck is now 20% instead of 10%. This means that with no Luck gained you have a 20% chance of rolling a Rare. Luck as a result now maxes out at 43%. We're listening to your feedback on Luck and wanna get the mechanic in a good spot where it doesn't feel too mandatory but still comes in use.  
@@ -11451,15 +11450,14 @@ Talent Improvements**
 • Fixed cooldown for Cheap Trick not working  
 • Fixed people queueing onto the same team in 1v1 if they share a guild  
 • Fixed Overflowing Dam not working on guns  
-**
 
-### _Patch 0.3.6a_
+### _**Patch 0.3.6a**_
 
-**• Fixed Flamekeeper Cestus having 14 dmg instead of 15.5**
+• Fixed Flamekeeper Cestus having 14 dmg instead of 15.5
 
-## February 8th, 2022
+## **February 8th, 2022**
 
-Trial of One**  
+**Trial of One**  
 • Deep within the bowels of Minityrsa, a Trial awaits those that dare to seek it...  
 • The Trial of One is a special dungeon that only Power 1 players can attempt. You will be put through a gauntlet of challenges that will effectively speed-run the early game at a considerably higher difficulty than usual.  
   
@@ -11562,11 +11560,11 @@ Trial of One**
   
 **Optimizations**  
 • Reduced the number of combatants in a lot of 'Versus' events  
-• New non-laggy Lightning Assault effect**
+• New non-laggy Lightning Assault effect
 
-### _Patch 0.3.5a_
+### _**Patch 0.3.5a**_
 
-Equipment Reworks**  
+**Equipment Reworks**  
 • Jarvis now properly copies the appearance of one item onto another, but now requires that the equipment be of the same slot  
 • Equipment smelted at Jarvis before this update has now been adjusted to reduce the amount of buffs to a level matching the host equipment. Some players were able to get ungodly levels of HP from smelting high-stat equipment types e.g. Arms Slot into equipment types that usually have low stats, e.g. Face Slot. Some of your smelted equipment might have lower stats after this patch.  
 • Ascended/Enlightened/Celestial Equipment have been replaced with a Quality Stars system for Equipment. You should see these popping up much like Quality Stars do for weapons. They give similar buffs to before, but are more consistent. This is to make these forms of equipment easier to balance, as before this update each tier of a piece of equipment was treated as a separate piece of equipment. It also means that they're easier to pick out in your inventory and have better sorting. Your Ascended+ equipment will be automatically converted to the new system, but may be slightly weaker than before in some cases. The rates for Quality on equipment are very similar to what the rates were for Ascended+ variants of equipment, so you should encounter them just as much.  
@@ -11602,28 +11600,28 @@ Alright, so that's a pretty big list! Wanted to take this time to talk to the co
   
 **Update Philosophy**  
 • We prefer to update the game at a fairly solid pace, and don't really like freezing updates for too long. Preferably we can tackle balance problems ASAP and add in new content as we please, however when we are working on something of a larger scope we will try to let you guys know ahead of time so you understand why the patches slow down.  
-We hope you guys enjoy the things we've added and look forward to adding more in the future.**
+We hope you guys enjoy the things we've added and look forward to adding more in the future.
 
-### _Patch 0.3.5b_
+### _**Patch 0.3.5b**_
 
-**• Fixed Royal Duelist coats not having stats.  
-Also, it's worth mentioning that the current cap for Luck is 33%.**
+• Fixed Royal Duelist coats not having stats.  
+Also, it's worth mentioning that the current cap for Luck is 33%.
 
-### _Patch 0.3.5c_
+### _**Patch 0.3.5c**_
 
-**• Hopefully made PvP queues a bit quicker.**
+• Hopefully made PvP queues a bit quicker.
 
-### _Patch 0.3.5d_
+### _**Patch 0.3.5d**_
 
-**• Health packs from knocking enemies are now based on contribution and are split between all nearby players who damaged the enemy. They should give a reasonable amount again.**
+• Health packs from knocking enemies are now based on contribution and are split between all nearby players who damaged the enemy. They should give a reasonable amount again.
 
-### _Patch 0.3.5e_
+### _**Patch 0.3.5e**_
 
-**• Fixed Bloodless moves dealing no damage.**
+• Fixed Bloodless moves dealing no damage.
 
-## January 26th, 2022
+## **January 26th, 2022**
 
-Content**  
+**Content**  
 • Glacial Arc can now be buffed with Glass Stones  
   
 **Balancing**• Curved Blade of Winds is no longer affected by Wind Armor and is solely reduced by Slash Armor. This means you won't deal 1% damage to Primadon & other monsters  
@@ -11635,11 +11633,11 @@ Content**
 • Fixed Ice Lance breaking occasionally  
 • Fixed Ferryman not correctly scaling to the number of participants  
 • Fixed Shadow Armor not working against all forms of shadow damage  
-• Fixed the Frigate's flags not facing the wind**
+• Fixed the Frigate's flags not facing the wind
 
-## January 25th, 2022
+## **January 25th, 2022**
 
-Content**  
+**Content**  
 • EXP particles shown are now relative to how much the EXP is worth for your current level  
   
 **Bugfixes**  
@@ -11655,23 +11653,23 @@ Content**
 • Fixed hive lifesteal defense event giving rep with the opposite faction  
 • Fixed the cauldron in Greathive Aratel  
 • Fixed Ferryman getting stuck outside of his arena  
-• Fixed guards in Etris getting stuck in the water and just sitting there**
+• Fixed guards in Etris getting stuck in the water and just sitting there
 
-### _Patch 0.3.3a_
+### _**Patch 0.3.3a**_
 
-**• Blood loss from No-Life King reduced to 2x**
+• Blood loss from No-Life King reduced to 2x
 
-### _Patch 0.3.3b_
+### _**Patch 0.3.3b**_
 
-**• Fixed not being able to recall mantras with deep gems. Should be live in new servers**
+• Fixed not being able to recall mantras with deep gems. Should be live in new servers
 
-### _Patch 0.3.3c_
+### _**Patch 0.3.3c**_
 
-**• Fixed moves like Wind Gun, Shadow Gun, Warden's Blades occasionally killing you if you knock with them active.**
+• Fixed moves like Wind Gun, Shadow Gun, Warden's Blades occasionally killing you if you knock with them active.
 
-## January 23rd, 2022
+## **January 23rd, 2022**
 
-Content**  
+**Content**  
 • Added an indicator for gaining/losing reputation with factions. The indicator will also tell you if you've been declared the enemy of a faction or if you've been forgiven by them  
 • Multiplicity Enchant is back with a new effect (the old was far too laggy)  
   
@@ -11688,15 +11686,15 @@ Content**
 • Threshers can no longer grip you whilst underground  
 • Fixed Aeronade dealing 0 damage if you don't hit an enemy directly (finally)  
 • Deferred no longer causes stacking multipliers (your original damage would get multiplied and then so too would your deferred damage)  
-• Fixed mantras given the same name not being suffixed correctly, becoming increasingly long strings of "Bababooey Alter Alter Alter" etc.**
+• Fixed mantras given the same name not being suffixed correctly, becoming increasingly long strings of "Bababooey Alter Alter Alter" etc.
 
-### _Patch 0.3.2a_
+### _**Patch 0.3.2a**_
 
-**• Crypt Blade Shadow Scaling reduced (15 -> 10)**
+• Crypt Blade Shadow Scaling reduced (15 -> 10)
 
-## January 22nd, 2022
+## **January 22nd, 2022**
 
-Content**• 2 New Rings added  
+**Content**• 2 New Rings added  
 • Aelita now spawns her own chest upon completion  
   
 **Secure Soulbinding**  
@@ -11746,41 +11744,40 @@ Enchanted effects have been reduced across the board. They're still strong and u
 • Fixed Quickdraw requiring Int and being rolled without guns  
 • Fixed being able to receive Nullifying Clarity in a Roll 2  
 • Fixed Legion Kata grabbing through iframes  
-**
 
-### _Patch 0.3.2a_
+### _**Patch 0.3.2a**_
 
-**• Hero's Blade damage increased (18 -> 20)**
+• Hero's Blade damage increased (18 -> 20)
 
-### _Patch 0.3.2b_
+### _**Patch 0.3.2b**_
 
-**• Fixed Vampirism not proccing as often as it should  
+• Fixed Vampirism not proccing as often as it should  
 • Fixed Elastic not proccing as often as it should  
 • Fixed Grim not proccing as often as it should  
-• Fixed Heroism not proccing as soon as it should**
+• Fixed Heroism not proccing as soon as it should
 
-### _Patch 0.3.2c_
+### _**Patch 0.3.2c**_
 
-**• Fixed Silencer's Blade causing you to proc suffocation on every m1 (and break your swings until suffocate is cleared)**
+• Fixed Silencer's Blade causing you to proc suffocation on every m1 (and break your swings until suffocate is cleared)
 
-### _Patch 0.3.2d_
+### _**Patch 0.3.2d**_
 
-**• Fixed Silencer's Blade causing suffocation procs to stack. This fix will be in next patch**
+• Fixed Silencer's Blade causing suffocation procs to stack. This fix will be in next patch
 
-## January 20th, 2022
+## **January 20th, 2022**
 
-**Small patch today mostly just to add some moderation features to help moderators do their job with as much info as possible. Can't go into details too much without giving the exploiters an advantage, but we should be able to re-enable exploiter reports following this update.  
+Small patch today mostly just to add some moderation features to help moderators do their job with as much info as possible. Can't go into details too much without giving the exploiters an advantage, but we should be able to re-enable exploiter reports following this update.  
   
 **Features**  
 • Your kill splash will now show a unique ID. Make sure when submitting evidence for restores/reports that this ID is clearly visible if you die.  
   
 **Balancing**  
 • Nerfed Forge Greathammer somewhat (it was better than Pale Morning)  
-• Buffed Pale Morning slightly**
+• Buffed Pale Morning slightly
 
-## January 19th, 2022
+## **January 19th, 2022**
 
-**Smaller patch today.  
+Smaller patch today.  
   
 **Balancing**  
 • Exoskeleton now gives you a brief window (.2s) immediately after being hit where you take considerably reduced damage. This should hopefully make multihit moves less lethal  
@@ -11791,11 +11788,11 @@ Enchanted effects have been reduced across the board. They're still strong and u
 • Patched the ferryman being easily cheesed at mid-range  
 • Fixed the Polis quest  
 • Fixed people hanging off of ships seeming to stay in place on other people's clients  
-• Fixed Legion Kata bugging out sometimes**
+• Fixed Legion Kata bugging out sometimes
 
-## January 18th, 2022
+## **January 18th, 2022**
 
-Server Menu Improvements**  
+**Server Menu Improvements**  
 • Server player counts now update every 30 seconds  
 • Server age is now displayed on the server list  
 • Fixed Singapore servers having a weirdly formatted region identifier  
@@ -11813,15 +11810,15 @@ Server Menu Improvements**
 • Fixed Jus Karita and other fist styles voiding your weapons  
 • Fixed Primadon giving luck on despawn (for real this time)  
 • Fixed Final Act not counting as fire damage, ignoring resistances  
-• Fixed Final Act working on non-mantra damage**
+• Fixed Final Act working on non-mantra damage
 
-### _Patch 0.2.9a_
+### _**Patch 0.2.9a**_
 
-**• Hopefully finally fixed the Duke chest not spawning**
+• Hopefully finally fixed the Duke chest not spawning
 
-## January 17th, 2022
+## **January 17th, 2022**
 
-Server Menu**  
+**Server Menu**  
 • The game now has a Server Menu you can refresh in the main menu. Server regions and player counts are displayed, as well as a unique name for each server. We hope this should help people find servers to play with each other more easily.  
 • In the near future, the Server Menu will have filters for regions and a search bar for names.  
   
@@ -11844,32 +11841,32 @@ Server Menu**
 • Fixed some edgecases where you could clip outside of the trial arena and get stuck there  
 • Fixed being able to hit someone in the very last frame of their reset to combat log them  
 • Fixed being able to get Exoskeleton in Roll 2 •  
-Fixed Primadon giving luck/exp when he despawns/walks back into the sea**
+Fixed Primadon giving luck/exp when he despawns/walks back into the sea
 
-### _Patch 0.2.8a_
+### _**Patch 0.2.8a**_
 
-**To join friends with the new Server Menu, you can either ask for their server name or join them from Roblox and click Quick Join. We may add a way to join friends from the menu at some point.  
+To join friends with the new Server Menu, you can either ask for their server name or join them from Roblox and click Quick Join. We may add a way to join friends from the menu at some point.  
   
-There's some bugginess with the system right now as we haven't shutdown the main game. It should be better after we shutdown. Thanks for your patience!**
+There's some bugginess with the system right now as we haven't shutdown the main game. It should be better after we shutdown. Thanks for your patience!
 
-### _Patch 0.2.8b_
+### _**Patch 0.2.8b**_
 
-**NOTE: On shutdowns you probably won't see any servers in the list at first, because none have started up!  
+NOTE: On shutdowns you probably won't see any servers in the list at first, because none have started up!  
 Just to clarify how things work: • We don't control what regions servers are created in, Roblox do. If we could start up servers in specific regions we would!  
 • That being said, this update should make it easier to find servers in specific regions, instead of before where you just had to pray you got a server in your region.  
-• If you're in a region with few servers, you might be better off using Quick Join, as it could potentially start up a new server in your region.**
+• If you're in a region with few servers, you might be better off using Quick Join, as it could potentially start up a new server in your region.
 
-### _Patch 0.2.8c_
+### _**Patch 0.2.8c**_
 
-**• Also, servers currently update their player count every 60 seconds. This might mean you see servers that seem like they have spots but don't. We'll see if we can make this more frequent, but it will be limited by Roblox's messaging limits.**
+• Also, servers currently update their player count every 60 seconds. This might mean you see servers that seem like they have spots but don't. We'll see if we can make this more frequent, but it will be limited by Roblox's messaging limits.
 
-### _Patch 0.2.9d_
+### _**Patch 0.2.9d**_
 
-**Server Filters • You can now filter for region in the Server Menu.**
+Server Filters • You can now filter for region in the Server Menu.
 
-## January 15th, 2022
+## **January 15th, 2022**
 
-Content**  
+**Content**  
 • Armor categories now sort by tier in the Blacksmith menu (higher level first)  
 • Risky Moves now has a visual indicating you have an auto dodge (Only shows for the user)  
 • New modifier for Gaze  
@@ -11909,26 +11906,26 @@ Content**
 • Fixed Hell's Partisan scaling  
 • Fixed Finishing Touch working on unconscious bodies  
 • Fixed Kata Critical not proccing flourish  
-• Fixed DeepGems proccing off of criticals and light attacks**
+• Fixed DeepGems proccing off of criticals and light attacks
 
-### _Patch 0.2.7a_
+### _**Patch 0.2.7a**_
 
-**• Lowered Fire Blade cost  
+• Lowered Fire Blade cost  
 • Lowered Flame Grab cost  
 • Lowered Fire Forge cost  
-• Reduced the damage reduction for Bloodless slightly (30% -> 20%)**
+• Reduced the damage reduction for Bloodless slightly (30% -> 20%)
 
-### _Patch 0.2.7b_
+### _**Patch 0.2.7b**_
 
-**• Lightning Assault fixed**
+• Lightning Assault fixed
 
-### _Patch 0.2.7c_
+### _**Patch 0.2.7c**_
 
-**• Actually fixed Lightning Stream for real this time (for real)**
+• Actually fixed Lightning Stream for real this time (for real)
 
-## January 14th, 2022
+## **January 14th, 2022**
 
-Content**  
+**Content**  
 • Herbalist hats no longer hide your hair  
 • You can now Spam F to break out of "Frozen" status  
 • Made leveling slightly easier at the higher levels  
@@ -11952,11 +11949,11 @@ Content**
 • Fixed number of modifications on Mantras saving incorrectly, causing costs to skyrocket if you edited them a lot  
 • Note cost for Mantra crafting now subtracts the Notes already paid so you only pay for additions  
 • Fixed a bug with Mantra crafting where if you hit the cap for modifiers it could dupe your mantra  
-• Fixed a bug where the max number of each modifier for Mantra crafting wasn't capping correctly (If you have a bugged Mantra, just use an Amnesic Driftwood on it and it should fix itself)**
+• Fixed a bug where the max number of each modifier for Mantra crafting wasn't capping correctly (If you have a bugged Mantra, just use an Amnesic Driftwood on it and it should fix itself)
 
-## January 13th, 2022
+## **January 13th, 2022**
 
-Content**  
+**Content**  
 • Crafting Mantras with many modifiers no longer requires 'Knowledge' (i.e. a stat from closed testing that no longer exists), and instead prompts you to offer Notes  
 • The Celestial Telescope at Greathive Aratel can now be used  
 • Changed Luck gain visual effect  
@@ -11989,11 +11986,11 @@ Content**
 • Fixed not being able to parry ice eruption  
 • Fixed Gale Punch hitting behind you  
 • Fixed Shadow Meteors coming down in slow motion  
-• Fixed wayward teleporting you if the target leaves the game**
+• Fixed wayward teleporting you if the target leaves the game
 
-## January 12th, 2022
+## **January 12th, 2022**
 
-**Just a small patch for now.  
+Just a small patch for now.  
   
 **Content**  
 • Sailing with a tailwind and your sails correctly adjusted will now give more of a speed boost to reward good sailing Balancing  
@@ -12005,11 +12002,11 @@ Content**
 • Fixed Shadow Gun killing you on knock rarely  
 • Fixed Viscosity enchant killing you on knock rarely  
 • Fixed Lightning Stream breaking rarely  
-• Fixed Astral Wind getting you stuck in place**
+• Fixed Astral Wind getting you stuck in place
 
-## January 11th, 2022
+## **January 11th, 2022**
 
-Balancing**  
+**Balancing**  
 • Gun hitboxes adjusted. Hitting mobs with guns shouldn't be a a pain anymore & hugging opponents will no longer cause you to miss  
 • Parrying Ice Blades on the 1st or 2nd hit now cancels the move. Damage on it nerfed slightly too  
 • Decreased Legion Kata Critical CD from 6 to 4  
@@ -12034,11 +12031,11 @@ Balancing**
 • Fixed being unable to unequip Boulder/Ankle Weights  
 • Fixed a Mantra being unrollable  
 • Hopefully fixed issues with ships phasing in and out of existence  
-• Fixed certain deep gems being able to proc multiple times on multihit moves when they shouldn't be able to**
+• Fixed certain deep gems being able to proc multiple times on multihit moves when they shouldn't be able to
 
-## January 10th, 2022
+## **January 10th, 2022**
 
-Content**  
+**Content**  
 • New Fortitude Talent Balancing  
 • Dying in the Voidsea only instantly takes you to the Depths if you didn't die to another player  
 • Instakill talents no longer work on other players (only happened with crits)  
@@ -12061,15 +12058,15 @@ Content**
   
 **Optimization**  
 • Optimized some events causing considerable lag spikes. The duke event was probably the main culprit  
-• Optimized a LOT of moves that could cause lag spikes or that were just poorly optimized in general**
+• Optimized a LOT of moves that could cause lag spikes or that were just poorly optimized in general
 
-### _Patch 0.2.2a_
+### _**Patch 0.2.2a**_
 
-**• Deep Gems no longer drop in the overworld, including from bosses. They were getting a little too common.**
+• Deep Gems no longer drop in the overworld, including from bosses. They were getting a little too common.
 
-## January 9th, 2022
+## **January 9th, 2022**
 
-**Big balance patch today.  
+Big balance patch today.  
   
 **Content**  
 • New Strength Talent  
@@ -12107,28 +12104,28 @@ Content**
 • Fixed Final Act hitting multiple times  
 • Fixed Rag Doll cancelling interfering with Cap Artist  
 • Entanglement enchantment now properly slows you down during the seconds its defense is active  
-• Fixed Bloodiron and Carnivore not working on certain mobs**
+• Fixed Bloodiron and Carnivore not working on certain mobs
 
-### _Patch 0.2.1a_
+### _**Patch 0.2.1a**_
 
-**• Rapiers were unintentionally added to loot pools early, so have been reverted to base swords.**
+• Rapiers were unintentionally added to loot pools early, so have been reverted to base swords.
 
-### _Patch 0.2.1b_
+### _**Patch 0.2.1b**_
 
-Balancing**  
+**Balancing**  
 • Legion Cestus Base damage buffed (`14.5 --> 15.5`) and now has 5% PEN  
   
 **Bugfixes**  
 • Fixed not being able to make Mushroom Omelette with Dentifilos  
-• Fixed always dropping stacks and not being able to drop single items**
+• Fixed always dropping stacks and not being able to drop single items
 
-### _Patch 0.2.1c_
+### _**Patch 0.2.1c**_
 
-**• Sacred Field resonance's elemental variant now provides melee resistance too**
+• Sacred Field resonance's elemental variant now provides melee resistance too
 
-## January 8th, 2022
+## **January 8th, 2022**
 
-**Fairly small patch today, but includes fixes for some longstanding issues.  
+Fairly small patch today, but includes fixes for some longstanding issues.  
   
 **Content**  
 • Added Zirik, a Hive researcher who may be willing to pull a few strings to help you get back into the Hive's good favour  
@@ -12146,11 +12143,11 @@ Balancing**
 • You can no longer fill up your inventory with 99 pickaxes  
 • Fixed Scuba Drowner waking you up earlier than normal Optimizations  
 • Fixed some memory leaks  
-• Optimized Human Mob status effect handling**
+• Optimized Human Mob status effect handling
 
-### _Patch 0.2.0a_
+### _**Patch 0.2.0a**_
 
-Balancing**  
+**Balancing**  
 • You no longer receive a speed buff from Freestyler's Band while in danger  
   
 **Bugfixes**  
@@ -12162,11 +12159,11 @@ Balancing**
 • Fixed getting yourself as a target from Cestis  
 • Fixed not being able to get a Cestis target when they have left the game Optimizations  
 • Fixed a bug where Mobs would be kept 'awake' when other Mobs that weren't their enemies were nearby. Mobs are normally meant to 'sleep' when no enemies are present, but mobs like the authority guards and hostages would be kept 'awake' when near each other, despite not being enemies. Might actually help a surprising amount with lag as there were a stupid number of guards at Fort Merit being kept fully awake all the time  
-• Reduced the number of guards at Fort Merit to reduce lag**
+• Reduced the number of guards at Fort Merit to reduce lag
 
-## January 7th, 2022
+## **January 7th, 2022**
 
-Content**  
+**Content**  
 • Thresher Scales now requires Bloodiron Spirit  
 • Condensation Drip is no longer a rare  
 • Both Ice Blade/Wind Blade slide attacks are now activated the same way the aerial slashes are (slide jump)  
@@ -12188,11 +12185,11 @@ Content**
 • Optimized status effect replication to client. Might reduce ping and bandwidth  
   
 **Particles**  
-• Roblox have apparently (finally) fixed the particle rendering issues**
+• Roblox have apparently (finally) fixed the particle rendering issues
 
-## January 6th, 2022
+## **January 6th, 2022**
 
-**Mostly bugfixes this time around.  
+Mostly bugfixes this time around.  
   
 **Visual Improvements**  
 • Ice Forge VFX buffed  
@@ -12212,11 +12209,11 @@ Content**
 • Fixed a bug with Portal Travel resonance making people permanently invisible  
   
 **Optimization**  
-• Optimized the Golem, Prime Golem, and Enforcer spin moves. These were all causing lag spikes**
+• Optimized the Golem, Prime Golem, and Enforcer spin moves. These were all causing lag spikes
 
-## January 4th, 2022
+## **January 4th, 2022**
 
-Content**  
+**Content**  
 • 4 new Fire talents  
 • 5 new Lightning talents  
 • 2 new Shadow talents  
@@ -12256,11 +12253,11 @@ Content**
   
 • - Talent Balances  
 • Crippling Darkness nerfed to 25% PEN  
-• Buffed Bloodletter**
+• Buffed Bloodletter
 
-### _Patch 0.1.7a_
+### _**Patch 0.1.7a**_
 
-**Most of the patch today is optimizations to mobs. Should hopefully help with some of the lag.  
+Most of the patch today is optimizations to mobs. Should hopefully help with some of the lag.  
   
 **Balancing**  
 • Lowered the curve on the EXP req for levels. Should make the late game a bit less of a slog without making the early game too much quicker.  
@@ -12278,15 +12275,15 @@ Content**
 • Fixed monsters not aggroing on certain players  
   
 **Optimizations**  
-• Some more big optimizations to mobs. Probably an even bigger impact than last patch was.**
+• Some more big optimizations to mobs. Probably an even bigger impact than last patch was.
 
-### _Patch 0.1.7b_
+### _**Patch 0.1.7b**_
 
-**• Fixed In Twain heavy weapon instakill flourish talent breaking you and holding you in place forever. Will probably need to shutdown again at some point soon for this.**
+• Fixed In Twain heavy weapon instakill flourish talent breaking you and holding you in place forever. Will probably need to shutdown again at some point soon for this.
 
-## January 3rd, 2022
+## **January 3rd, 2022**
 
-Balancing**  
+**Balancing**  
 • You no longer gain luck if you kill people in towns. We have some proper PvP features planned for the near future so don't worry too much about this if you're a PvP player.  
 • Hero blade swing speed buffed  
 • Gale Leap Cooldown increased  
@@ -12313,11 +12310,11 @@ Balancing**
 On another note, here's some updates we have planned for the near future:  
 • 3-4 new Oaths to unlock  
 • Oath progression to obtain new abilities unique to your Oath  
-• Queued & instanced PvP arenas. Win luck through 1v1s and group matches**
+• Queued & instanced PvP arenas. Win luck through 1v1s and group matches
 
-## January 2nd 2022
+## **January 2nd 2022**
 
-Content**  
+**Content**  
 • New Event added  
 • Snow Knight event now only spawns during Winter  
   
@@ -12348,19 +12345,19 @@ Content**
   
 **Optimization**  
 • Optimized status effect handling somewhat, should help with server performance  
-• We've identified some events that are especially laggy - we'll likely be replacing these events**
+• We've identified some events that are especially laggy - we'll likely be replacing these events
 
-### _Patch 0.1.5a_
+### _**Patch 0.1.5a**_
 
-**• Fixed Ice Forge for real this time.**
+• Fixed Ice Forge for real this time.
 
-### _Patch 0.1.5b_
+### _**Patch 0.1.5b**_
 
-**• Fixed everyone having super high health regen.**
+• Fixed everyone having super high health regen.
 
-## January 1st, 2022
+## **January 1st, 2022**
 
-**Happy new year everyone! Lots of balance changes today and some optimizations.  
+Happy new year everyone! Lots of balance changes today and some optimizations.  
   
 **Balancing**  
 • Base Sanity is now 80 (was 100) to make willpower more impactful and to make sanity a bit more of a concern in the Depths. Lots of talents and equipment give sanity too, so this shouldn't be too crazy of a change  
@@ -12392,19 +12389,19 @@ Content**
   
 **Optimizations**  
 • Fixed some more memory leaks.  
-• Just as a note on lag: We're still investigating causes of lag and are working to optimize and reduce them. Server memory usage has gone down by a lot and we aim to reduce it even more. The main sources of lag are mobs, certain moves, and ships. These will likely be what we target next in our optimization.**
+• Just as a note on lag: We're still investigating causes of lag and are working to optimize and reduce them. Server memory usage has gone down by a lot and we aim to reduce it even more. The main sources of lag are mobs, certain moves, and ships. These will likely be what we target next in our optimization.
 
-### _Patch 0.1.4a_
+### _**Patch 0.1.4a**_
 
-**• Should also mention that we've enabled an in-dev Roblox feature for animations that might change how some animations 'blend'. We enabled this feature as it supposedly reduces a lot of lag and server memory from animations. Let us know if it causes any unwanted behaviour in the bug reports channel.**
+• Should also mention that we've enabled an in-dev Roblox feature for animations that might change how some animations 'blend'. We enabled this feature as it supposedly reduces a lot of lag and server memory from animations. Let us know if it causes any unwanted behaviour in the bug reports channel.
 
-### _Patch 0.1.4b_
+### _**Patch 0.1.4b**_
 
-**• Fixed Blessed Gems bugging you out. Will need to wait for the next shutdown for this, sadly.**
+• Fixed Blessed Gems bugging you out. Will need to wait for the next shutdown for this, sadly.
 
-## December 31th, 2021
+## **December 31th, 2021**
 
-Content**  
+**Content**  
 • Regek will now upgrade your Weapon Mantras  
   
 **Balancing**  
@@ -12421,11 +12418,11 @@ Content**
 • Stone Knights can now float  
 • Fixed not being able to swing when using Shadow Meteors  
 • Speed Demon no longer reduces your damage  
-• fixed ardour giving you infinite ether regen**
+• fixed ardour giving you infinite ether regen
 
-## December 30th, 2021
+## **December 30th, 2021**
 
-Content**  
+**Content**  
 • Enchantment of Attraction & Repulsion added  
 • Curse of Yun'Shul now has visual effects Balancing  
 • Ice Skate is now always cancellable  
@@ -12441,16 +12438,16 @@ Content**
 • Fixed some big memory leaks causing old servers to chug  
 • Patched several dupes  
 • Fixed Shadow Roar being unobtainable  
-• Fixed Grim Enchantment causing opponents to lock up**
+• Fixed Grim Enchantment causing opponents to lock up
 
-### _Patch 0.1.2a_
+### _**Patch 0.1.2a**_
 
-Tool Dropping**  
-• Pushed through an emergency patch for dropping tools. The anti-dupe patch made it so if you dropped 1 of a stack it'd delete the remaining stacks in your inventory.**
+**Tool Dropping**  
+• Pushed through an emergency patch for dropping tools. The anti-dupe patch made it so if you dropped 1 of a stack it'd delete the remaining stacks in your inventory.
 
-## December 29th, 2021
+## **December 29th, 2021**
 
-Quality of Life**  
+**Quality of Life**  
 • Your weapon stance (1H/2H) now saves between servers  
   
 **Balancing**  
@@ -12468,17 +12465,17 @@ Quality of Life**
 • Fragile Freeze no longer arbitrarily requires Ice Daggers  
 • Fragile Freeze now works properly with Crystal, causing crystals to instantly detonate on blockbreaking someone  
 • Bottom Freeze now works with Crystal properly  
-• Lightning Eruption visuals changed**
+• Lightning Eruption visuals changed
 
-### _Patch 0.1.1a_
+### _**Patch 0.1.1a**_
 
-Small Patch**  
+**Small Patch**  
 • Hopefully fixed some issues people were having with their data not always saving.  
-• Hopefully fixed people's slots not showing up in the menu.**
+• Hopefully fixed people's slots not showing up in the menu.
 
-## December 28th, 2021
+## **December 28th, 2021**
 
-Content**  
+**Content**  
 • New Intelligence talent  
 • Corrupted resonance downsides implemented  
   
@@ -12496,22 +12493,22 @@ Content**
 • Crazy slots spear skill is now mouse aimable  
 • Aeronade now automatically detonates your gale trap on impact  
 • Gale Trap (MANTRA) now sticks without the Aeronade talent  
-• Shadow Meteors now have less of a delay when coming down**
+• Shadow Meteors now have less of a delay when coming down
 
-### _Patch 0.1.0a_
+### _**Patch 0.1.0a**_
 
-Small Patches**  
+**Small Patches**  
 _Since we had to force update the game, there's a couple patches that made it through alongside the fix._  
 • Fixed amnesic driftwoods not removing buffs from mantras always  
-• You can no longer roll agitating spark on Roll 2**
+• You can no longer roll agitating spark on Roll 2
 
-### _Patch 0.1.0b_
+### _**Patch 0.1.0b**_
 
-**• Fixed Vow of Mastery creation. We're afraid that it won't work until a new patch is pushed.**
+• Fixed Vow of Mastery creation. We're afraid that it won't work until a new patch is pushed.
 
-## December 27th, 2021
+## **December 27th, 2021**
 
-Content**  
+**Content**  
 • Heavy Weapon Mantra Added  
 • Medium Weapon Mantra Added  
 • Light Weapon Mantra Added  
@@ -12576,16 +12573,16 @@ Content**
 • Fixed ice eruption breaking  
 • Fixed songseeker mobs all spawning in the same spot  
 • Fixed Jeremiah  
-• Fixed shadow metralleta not doing as much damage as it should**
+• Fixed shadow metralleta not doing as much damage as it should
 
-### _Patch 0.0.9a_
+### _**Patch 0.0.9a**_
 
-Bugfixes**  
-• Patched the duke being immortal. Wouldn't recommend fighting him until there's new servers.**
+**Bugfixes**  
+• Patched the duke being immortal. Wouldn't recommend fighting him until there's new servers.
 
-## December 26, 2021
+## **December 26, 2021**
 
-Bugfixes**  
+**Bugfixes**  
 • Necromancer no longer gets stuck invisible  
 • Fixed Potion Quaffer not requiring you to have brewed a potion  
   
@@ -12593,11 +12590,11 @@ Bugfixes**
 • Reduced the amount of shurikens created with ice forge  
   
 **Visual Adjustments**  
-• Scuba Drowner now has a visual indicator**
+• Scuba Drowner now has a visual indicator
 
-## December 25th, 2021
+## **December 25th, 2021**
 
-**Small patch today. Hope you guys are all enjoying yourselves!  
+Small patch today. Hope you guys are all enjoying yourselves!  
   
 **Balance Changes**  
 • Eureka buffed  
@@ -12608,11 +12605,11 @@ Bugfixes**
 • Sprint slides can now chain into slope slides, makes it a lot more fluid  
   
 **Other Changes**  
-• Automatic shutdowns have been disabled. Roblox doesn't really support it in big games, sadly. We're sorry for all the trouble it's caused whilst we were testing it. We might just have to firm old servers for now, but we'll keep working on making servers lag less over time. There may also be a server menu coming up at some stage, which should let you find servers with better performance.**
+• Automatic shutdowns have been disabled. Roblox doesn't really support it in big games, sadly. We're sorry for all the trouble it's caused whilst we were testing it. We might just have to firm old servers for now, but we'll keep working on making servers lag less over time. There may also be a server menu coming up at some stage, which should let you find servers with better performance.
 
-## December 24th, 2021
+## **December 24th, 2021**
 
-Content**  
+**Content**  
 • Fire Forge reworked  
 • New Resonance added  
 • New fighting style  
@@ -12620,11 +12617,11 @@ Content**
 **Bugfixes**  
 • Fixed Speed Demon  
 • Fixed lag from loading in with lots of things in your backpack  
-• Fixed stats with values of 10, 20, 30, ... sometimes displaying as 1, 2, 3, ...**
+• Fixed stats with values of 10, 20, 30, ... sometimes displaying as 1, 2, 3, ...
 
-### _Patch 0.0.6a_
+### _**Patch 0.0.6a**_
 
-Content**  
+**Content**  
 • New Ice Mantra  
 • Permanent Gremor (Way of Navae) NPC added  
 • Mods now have a few more tools up their sleeves to help you guys out. for example, they can restore you without you needing to be ingame  
@@ -12648,27 +12645,27 @@ Content**
 • Robber Baron made common  
 • Boot Wallet made common  
 • Buffed EXP for turning in rescued Merit captives  
-• Made Prediction window bigger**
+• Made Prediction window bigger
 
-## December 23, 2021
+## **December 23, 2021**
 
-Features**  
+**Features**  
 • Servers will now automatically shutdown after 9 hours. Will increase the max server lifespan as we continue to optimise the game, but this should help keep servers fresh.  
   
 **Bug Fixes**  
 • Jarvis no longer accepts Rings as smeltable/combinable material  
 • Fixed Snow Knight event being triggered more than intended  
 • Fixed Ferryman not despawning Optimizations  
-• Fixed a few memory leaks with some moves**
+• Fixed a few memory leaks with some moves
 
-### _Patch 0.0.5a_
+### _**Patch 0.0.5a**_
 
-Bugfixes**  
-• Server lifespans will now be randomised so that everyone isn't booted at the same time causing issues with finding servers _not_ shutting down. Our apologies for this happening, we didn't anticipate it.**
+**Bugfixes**  
+• Server lifespans will now be randomised so that everyone isn't booted at the same time causing issues with finding servers _not_ shutting down. Our apologies for this happening, we didn't anticipate it.
 
-### _Patch 0.0.5b_
+### _**Patch 0.0.5b**_
 
-Bugfixes**  
+**Bugfixes**  
 • Fixed widow being immortal  
 • Mantras no longer get deleted if you leave the game whilst they're on a table  
 • Fixed people getting a black screen in the Depths and having to rejoin  
@@ -12679,11 +12676,11 @@ Bugfixes**
   
 **Balance**  
 • Ice Forge damaged lowered Visual Adjustments  
-• Made bloom less intense**
+• Made bloom less intense
 
-## December 22nd, 2021
+## **December 22nd, 2021**
 
-Content**  
+**Content**  
 • Lightning Cloak (Legendary - Mantra)  
 • Aggressive Posture (Rare - Talent)  
 • Bloodletter (Rare - Talent)  
@@ -12700,16 +12697,16 @@ Content**
 • Fixed a bug where Multiplying Spark on wind gun would break your character  
 • Jarvis fixed •  
 Fixed tiny Primadon chest Optimizations  
-• Optimized Necromancer event**
+• Optimized Necromancer event
 
-### _Patch 0.0.4a_
+### _**Patch 0.0.4a**_
 
-Content**  
-• Thresher Scales (Rare - Talent)**
+**Content**  
+• Thresher Scales (Rare - Talent)
 
-## December 22nd, 2021
+## **December 22nd, 2021**
 
-Balance**  
+**Balance**  
 • Sunken Predator now slows enemies  
 • Fire Forge damage and scaling buffed  
 • Valley of Heroes now spawns Snow Knights individually in return they have been buffed a bit more  
@@ -12719,15 +12716,15 @@ Balance**
 • Fixed Lightning Stream  
 • Fixed Fire Slash particles not showing up when blueflame  
 • Fixed Wind gun cooldown  
-• Fixed infinite thumbs on wind guns**
+• Fixed infinite thumbs on wind guns
 
-### _Patch 0.0.3a_
+### _**Patch 0.0.3a**_
 
-**• fixed glacial arc breaking you on use. would recommend not using it until we shutdown later**
+• fixed glacial arc breaking you on use. would recommend not using it until we shutdown later
 
-## December 21th, 2021
+## **December 21th, 2021**
 
-Content**  
+**Content**  
 • Reworked Blessed Gem : Now resets cooldowns on your other moves  
 • Made a new move to replace Wind Bullets  
   
@@ -12757,11 +12754,10 @@ Content**
 • Fixed flame blind  
 • Fixed PVE luck gain not displaying the luck gained visual effect  
 • Some build errors fixed  
-**
 
-### _Patch 0.0.2a_
+### _**Patch 0.0.2a**_
 
-Balance**  
+**Balance**  
 • Spinecutter now has a larger activation window  
 • fixed a bug where the Duke's health wasn't scaling with participant count, but decreased his wind shield durability  
 • wind gun damage nerfed by 25%, made into a 2-star mantra  
@@ -12772,23 +12768,22 @@ Balance**
 • if you haven't selected your level up cards and are trying to use your free invest points, the game will now tell you to pick your cards  
 • wind gun no longer block breaks and can be blocked  
 • fixed rarity on some equipment where the ascended versions were more common than the regular  
-**
 
-### _Patch 0.0.2b_
+### _**Patch 0.0.2b**_
 
-**(shutdown message fixed)**
+(shutdown message fixed)
 
-### _Patch 0.0.2c_
+### _**Patch 0.0.2c**_
 
-**• Fixed a bug where animated equipment (e.g. Black Scarf, Black Adventurer Coat) would leave behind an extra part at the map origin that people could hit you from**
+• Fixed a bug where animated equipment (e.g. Black Scarf, Black Adventurer Coat) would leave behind an extra part at the map origin that people could hit you from
 
-### _Patch 0.0.2d_
+### _**Patch 0.0.2d**_
 
-**• primadon spawner fixed in new servers**
+• primadon spawner fixed in new servers
 
-## December 20th, 2021
+## **December 20th, 2021**
 
-Day One Patch**  
+**Day One Patch**  
 • patched mantras locking up your character forever if they error  
 • patched combat bugging out if you swap your sword and another tool back and forth too quickly  
 • fixed a note dupe  
@@ -12798,9 +12793,8 @@ Day One Patch**
 • fixed erisia not having a combat theme  
 • mudskipper ambushes shouldn't stack up as much over time  
 • various smaller bugfixes  
-**
 
-### _Patch 0.0.1a_
+### _**Patch 0.0.1a**_
 
-**• fixed grand skewer triggering the anti-cheat  
-• fixed a bug where you could roll a race you had as a 'switch to X' option.**
+• fixed grand skewer triggering the anti-cheat  
+• fixed a bug where you could roll a race you had as a 'switch to X' option.

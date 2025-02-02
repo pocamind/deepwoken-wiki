@@ -1,9 +1,9 @@
 ---
 title: Iron Blunderbuss
-revid: 127397
+revid: 134055
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with syntax highlighting errors, Weapons, Rifles, Summer Company, Medium Weapon]
+categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 ---
 
 # Iron Blunderbuss

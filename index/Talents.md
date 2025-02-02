@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 133885
+revid: 133983
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1554,7 +1554,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
     -   15% extra posture damage at 100% armor
-    -   Posture buff not applies to M1s and doesn't work on non Ironsing mantras.
+    -   Posture damage buff does not apply to M1s or non Ironsing mantras.
     -   Prerequisite: 45 Ironsing
 
 -   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
@@ -1612,7 +1612,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Achieve a Power level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
 
 -   Justicar's Prowess \[Common Talent\] - Jus Karita +30% posture damage against other fist styles.
-    -   Deal +30% posture damage against Way of Navae and Legion Kata
+    -   Deal +30% posture damage against Way of Navae, Fang and Coil, and Legion Kata
     -   Prerequisite: Jus Karita
 
 -   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).

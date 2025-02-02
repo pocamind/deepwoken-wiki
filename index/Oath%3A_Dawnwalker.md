@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 133673
+revid: 134042
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]
@@ -59,6 +59,7 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
     -   _Strike down your foes with your blinding light._
     -   Deals 46.5 base Oath damage.
     -   This Mantra is **unparriable** and guardbreaks if anybody attempts to do so.
+    -   This move has an early hitbox. It registers a hit before the attack hits the ground. Make sure to dodge **before** the move is going to land.
     -   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
         -   This means that in low-gravity environments such as [Scyphozia,](First_Layer.md) this mantra is very inconsistent in combat use.
 

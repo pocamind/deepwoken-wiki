@@ -1,6 +1,6 @@
 ---
 title: Crustacean Meat
-revid: 111503
+revid: 133981
 source: https://deepwoken.fandom.com/wiki/Crustacean_Meat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Uses, Ingredients]
@@ -28,5 +28,6 @@ categories: [Uses, Ingredients]
 -   Seafood Surprise - 1 Squid, 1 Fish Meat, 1 Urchin/Crustacean Meat
 -   Mushroom Bisque - 1 Of any Mushroom, 1 Crustacean Meat
 -   Crab Pizza - 1 Crustacean Meat, 1 Bread, 1 Cheese
+-   Crab Stuffed Browncaps - 3 Browncaps, 1 Cheese, 2 Crustacean Meat
 
 For more information, you can read [Food](Food.md).

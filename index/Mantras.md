@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 132421
+revid: 134014
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -58,11 +58,11 @@ All Mantras can be upgraded from their respective element and trainer or from th
 There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
 
 -   Level 1: Novice
--   Level 2: Adept (20+) \[Upgrade Cost: 100 Notes\]
--   Level 3: Expert (40+) \[Upgrade Cost: 200 Notes\]
--   Level 4: Master (60+) \[Upgrade Cost: 300 Notes\]
--   Level 5: Legendary (80+) \[Upgrade Cost: 400 Notes\]
--   Total cost to get one Mantra from level 1 to level 5: 1,000 Notes
+-   Level 2: Adept (20+) \[Upgrade Cost: 150 Notes\]
+-   Level 3: Expert (40+) \[Upgrade Cost: 300 Notes\]
+-   Level 4: Master (60+) \[Upgrade Cost: 450 Notes\]
+-   Level 5: Legendary (80+) \[Upgrade Cost: 600 Notes\]
+-   Total cost to get one Mantra from level 1 to level 5: 1,500 Notes
 
 Each Mantra level gives a damage boost and increases effects from modifiers. The damage boost per level entirely depends on the Mantra in question, and sometimes isn't a linear increase per level. Support Mantras often have their cooldown reduced and duration increased per level. Certain Mantras have different effects at level 5, such as Thunder Kick, Fire Blade, Ice Smash, Shadow Gun, Iron Slam and Champion's Whirlthrow becoming Instant Guardbreaks.
 

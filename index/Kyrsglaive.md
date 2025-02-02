@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 133929
+revid: 133962
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -28,11 +28,16 @@ categories: [Weapons, Spears]
 
 ## Description
 
-The Kyrsglaive is an Endgame [Medium Weapon](Weapons.md) under the Spear category obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It has a unique critical where you slam the tip of the spear onto the ground, summoning bones forward after.
+The Kyrsglaive is an Endgame [Medium Weapon](Weapons.md) under the Spear category obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md).
+
+-   The Kyrsglaive does 24.7 damage at its Medium Weapon requirement and with the addition of bleed damage, it's total damage adds up to 32.2 damage.
+-   The Kyrsglaive does 25.4 damage at 100 Medium Weapon and with the addition of bleed damage, it's total damage adds up to 33.1 damage.
+
+## Criticals
+
+The Kyrsglaive has a unique **Critical** where you slam the tip of the spear onto the ground, summoning bones infront of the player after.
 
 ## Trivia
 
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrsieger](Kyrsieger.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), **Kyrsglaive**, [Kyrscleave](Kyrscleave.md))
--   The Kyrsglaive does 24.7 damage at its Medium Weapon requirement and with the addition of bleed damage, it's total damage adds up to 32.2 damage.
--   The Kyrsglaive does 25.4 damage at 100 Medium Weapon and with the addition of bleed damage, it's total damage adds up to 33.1 damage.
--   A new crit has been added to this wep on 01/02/2025
+-   This weapon was given a new Critical on 2/01/2025, replacing the default spear critical.

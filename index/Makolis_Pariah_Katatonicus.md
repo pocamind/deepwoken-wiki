@@ -1,6 +1,6 @@
 ---
 title: Makolis Pariah Katatonicus
-revid: 128843
+revid: 134050
 source: https://deepwoken.fandom.com/wiki/Makolis_Pariah_Katatonicus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Layer 2, Floor 1]
@@ -12,7 +12,7 @@ Template:NPC name
 
 ## Description
 
-Ezra is a [Kyrsan](Kyrsgarde.md) located at the edges of [Firfire](Firfire.md), resting on a ledge.
+Makolis Pariah Katatonicus is a [Kyrsan](Kyrsgarde.md) located at the edges of [Firfire](Firfire.md), resting on a ledge.
 
 They ask the player to rest with them, to be friends during said time.
 
