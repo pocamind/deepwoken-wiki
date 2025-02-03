@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 133722
+revid: 134358
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -33,7 +33,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent allowing the player to now get 2-star Frostdraw mantras.
 -   Finally, at Frostdraw level 50, players receive the _Master Frostdrawer_ Talent. This finally allows Frostdraw users to unlock the last category, 3-star Mantras.
 
-The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions.md) obtained at [Etris](Etris.md), inside a hut on the edge of town, using two Frigid Prisms, and can upgrade spells for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
+The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions.md) obtained at [Etris](Etris.md), inside a hut on the edge of town, using five Frigid Prisms (2 if already obtained), and can upgrade spells for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
 
 This is where the Attunement trainer is located.
 

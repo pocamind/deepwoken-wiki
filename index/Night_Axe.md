@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 132922
+revid: 134357
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -33,7 +33,8 @@ The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can b
 
 ## Critical
 
-A Shadowcast-empowered upwards swing that guard breaks and steals Ether on hit. Also procs [Sightless Still](Talents.md#shadowcaster) and [Twisted Puppet's](Talents.md#twisted-puppets) Shadowcast burn if you have the talents. This critical has a **3 second** cooldown.
+A Shadowcast-empowered upwards swing that guard breaks and steals Ether on hit. This critical deals **1.25x of your weapon's scaled damage**, meaning if your Night Axe has 30 damage, this critical will deal 37.5 damage. Additionally, this critical deals Slash and Shadow damage, meaning it is more easily resisted. It has a **windup of 0.6s** and **0.3s of endlag**. This critical has a **3 second** cooldown.  
+Also procs any Shadowcast talent that does not specify Mantras, like [Sightless Still](Talents.md#shadowcaster) and [Twisted Puppet's](Talents.md#twisted-puppets) Shadowcast burn for example.
 
 ## Trivia
 
@@ -42,5 +43,5 @@ A Shadowcast-empowered upwards swing that guard breaks and steals Ether on hit. 
 -   Has the highest amount of Chip Damage of any weapon in the entire game.
     -   Contrary to popular belief, Chip Damage IS NOT CAPPED AT 50%.
         -   If you are using the Obfuscation [Enchant](Enchantments.md) with Night Axe, your Chip Damage will total to 90% due to chip being combined multiplicatively.
--   The Night Axe was given a unique crit on the January 25, 2025 update.
--   The Twisted Puppets: Path makes the night axe create black flames.
+-   The Night Axe was given a unique critical on the January 25, 2025 update.
+-   The Twisted Puppets: Path makes the Night Axe create black flames on critical.

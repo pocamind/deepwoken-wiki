@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 133206
+revid: 134361
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Military personnel of The Central Authority, Oath Trainer, NPCs]
@@ -67,6 +67,18 @@ Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](F
   <td colspan="12">What is it? You had better not be wasting my time. There's filth that requires scraping off the map.</td>
 </tr>
 <tr>
+  <td colspan="12">Allow me to assist, sir.</td>
+</tr>
+<tr>
+  <td colspan="12">Ha! Assist? I can't deny you've got guts. We've been tracking down a deserter by the name of Emar Vend. Intel suggests he's camping out somewhere on the Summer Isle.</td>
+</tr>
+<tr>
+  <td colspan="12">I'll bring him in.</td>
+</tr>
+<tr>
+  <td colspan="12">That so? He's been capturing our soldiers and selling them off to Etreans as prisoners of war. If you can capture this coward, you'd be doing us a big favour.</td>
+</tr>
+<tr>
   <td>End</td>
 </tr>
 </tbody>
@@ -80,8 +92,13 @@ Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](F
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">You've impressed me, Chainwarden. What do you need?<p><br>
-  Chain down those that oppose our justice. Should you find someone truly worthy of being ensnared by your chains, the Words will surely find you.</p></td>
+  <td colspan="12">You've impressed me, Chainwarden. What do you need?</td>
+</tr>
+<tr>
+  <td colspan="12">How might I further my skills?</td>
+</tr>
+<tr>
+  <td colspan="12">Chain down those that oppose our justice. Should you find someone truly worthy of being ensnared by your chains, the Words will surely find you.</td>
 </tr>
 <tr>
   <td>End</td>
