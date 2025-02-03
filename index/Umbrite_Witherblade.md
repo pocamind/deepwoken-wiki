@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 134030
+revid: 134150
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -12,7 +12,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
 |---|---|
 | type | Sword |
 | requirements | 65 MED, 10 WLL, LVL 10 |
-| damage | 13 + 3.9 [BLD] |
+| damage | 13 + 3.9 BLD |
 | scaling | 10 MED |
 | range | 7.5 |
 | swing speed | 1.02x |

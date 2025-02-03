@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 133990
+revid: 134235
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -78,10 +78,12 @@ Condemnation's Fall
  | The Heart of Enmity slightly kneels then tosses his axe towards where he's aiming, causing an aoe where the axe lands and major damage alongside ragdoll. he uses this attack when someone is far from him. Heart of Enmity doesn't jump into the sky despite the belief, its just a bug.
 
 Parryable:✗  
-Blockable:✗  
+Blockable:◯  
 Dodgeable:◯
 
  |
+
+  
 
 ## Loot Table/Rewards
 

@@ -1,8 +1,9 @@
 ---
 title: New Kyrsan Arterial Rail
-revid: 123986
+revid: 134173
 source: https://deepwoken.fandom.com/wiki/New_Kyrsan_Arterial_Rail
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations, Chime of Conflict Arenas]
 ---
 
 # New Kyrsan Arterial Rail

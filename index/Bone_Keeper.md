@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 131254
+revid: 134252
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -55,6 +55,7 @@ There are **16** images, be warned
 -   Bone Keepers are likely related to the Kyrsgarde in [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possessing similarities in appearance, down to the red hue on parts of its bones. It most closely resembles the Kyrsgarde Brute.
 -   The Femur Throw and Charge used by the Bone Keeper you encounter at the bridge do not cause knockback. This is the only Bone keeper with this feature as all the other Bone Keepers you encounter have knockback on these moves.
 -   They're called "boneboy" in the game files.
+-   From the description of the kyrsglaive we find that the kyrs weapons are possibly made from them or at least an ancestor
 
 ## References
 

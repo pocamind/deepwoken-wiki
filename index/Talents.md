@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 134140
+revid: 134258
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -30,13 +30,15 @@ File:DeepwokenThumbnail.png
 
 ## Overview
 
-**Talents** are one of the fundamental aspects of _Deepwoken_ that define and differentiate your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. [Mantras](Mantras.md) are gained in the same way. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific and often perilous tasks, although only one of each can exist on your character at the same time. The maximum amount of Talents that you can have (Talent Hands and quests combined) is 76, minus 2 Talents per Mantra you own exlcuding the [Kelsius](Kelsius.md) quest, and without quests being 69 Talents.
+**Talents** are one of the fundamental aspects of _Deepwoken_ that define and differentiate your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. [Mantras](Mantras.md) are gained through the same means. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific and often perilous tasks, although only one of each can exist on your character at the same time.
 
 All Talents belong to a Talent category. A majority of Talents, including Mantras from Whisper Draws, can be given a higher chance to appear by talking to a [Mystic](Mystic.md) and selecting a quote corresponding to the Talent's category, which will only appear if you meet the requirements for a Talent from that category. **Rare Talents are NOT affected by Mystics, and categories containing only Rare Talents will not show their Mystic quote.**
 
 ## Mechanics
 
-The player is given multiple types of Talents. When gained through [powering up](Power.md), the player is given multiple normal Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain Power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws holding 4-5 normal Talent cards and 3 Mantra cards respectively based on the player's stats after powering up, with the chance of there being an additional "Fold" card that lets the player instead save a normal Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws a "Roll 2" card that will grant 2 random normal Talents from your available Talent pool instead of a Mantra. When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonance Talents randomly chosen based on their [Resonance Point](Resonance.md) allocation. [Aces](Aces.md) can be used to permanently prevent a normal Talent or Mantra from showing up or to preserve it and guarantee it shows up in the next Talent or Whisper Draw.
+The player is given multiple types of Talents. When [powering up](Power.md), the player is given multiple regular Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws holding 4-5 Talent cards and 3 Mantra cards respectively based on the player's stats after powering up, with the chance of there being an additional "Fold" card that lets the player instead save a Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws a "Roll 2" card that will grant 2 random Talents from your available Talent pool instead of a Mantra. When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonance Talents randomly chosen based on their [Resonance Point](Resonance.md) allocation. [Aces](Aces.md) can be used to permanently prevent a regular Talent or Mantra card from showing up or to preserve it and guarantee it shows up in the next Talent or Whisper Draw. When gaining a Talent from [Equipment](Equipment.md), it applies the effects of the Talent to your character at no additional cost and does not count towards the total amount of Talents you've chosen.
+
+The maximum amount of Talents that you can have (Talent Hands and quests combined) is 76, minus 2 Talents per Mantra you own exlcuding the [Kelsius](Kelsius.md) quest, and without quests being 69 Talents.
 
 Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
@@ -174,7 +176,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
     -   Synergizes well with Aerial Assault or mantras that send the user and target in the air.
-    -   Prerequisites: 15 Strength, 25 in any weapon stat
+    -   Prerequisites: 15 Strength, 25 Light Weapon OR 25 Medium Weapon OR 25 Heavy Weapon.
 
 ### Aeromancer
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 133489
+revid: 134229
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -110,7 +110,7 @@ Dodgeable:◯
 
  | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale.
 
--   Whether or not you're using providence thorns, this will be a great time to deal some damage because he won't be block, parry, or dodging
+-   Whether or not you're using providence thorns, this will be a great time to deal some damage because he won't be blocking, parrying, or dodging
 
 Parryable:◯  
 Blockable:◯  
@@ -239,7 +239,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 
 Upon defeating Maestro, he will drop a large chest containing many different item including:
 
--   **On First Kill**, and at/above 75 WEP (maybe u need to unbound), he is guaranteed to drop your weapon classes respective weapon being:
+-   **On First Kill**, and at/above 75 WEP (you might need to be unbound), he is guaranteed to drop your weapon classes respective weapon being:
     -   [Cerulean Thread](Cerulean_Thread.md) (LHT)
     -   [Purple Cloud](Purple_Cloud.md) (MED)
     -   [Pale Briar](Pale_Briar.md) (HVY)

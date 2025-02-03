@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 127936
+revid: 134175
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -10,11 +10,11 @@ categories: [Character, Mechanics]
 
 ## Deception
 
-Combat tag, or In Combat (In Danger), is the state a player enters upon being attacked in any sort of way, no matter if it did any effect. This includes dodging, parrying and blocking.
+Combat tag _(Ctag)_, or In Combat (In Danger), is the state a player enters upon being attacked in any sort of way, no matter if it did any effect. This includes dodging, parrying and blocking.
 
 _(Note: Allies through [Vow Of Mastery,](Vow_of_Mastery.md) [Vow Of Allegiance,](Combat_Mechanics.md) [guildmates](Guilds.md), or being friends on Roblox do not proc combat tag if they hit you.)_
 
-The main purpose is to punish rage-quitting and logging in combat.
+The main purpose is to punish rage-quitting and logging in combat. _known as_ _(Clog)_
 
 #### Indicated By
 
@@ -69,8 +69,9 @@ List of Quotes:
 -   Once in Combat you cannot backstab / assasinate without the Dust Lunge Talent.
 -   [Lord Regent](The_Lord_Regent.md) applies Combat Tag when he uses Judgement against you.
 -   You can remove Combat Tag off non allies by saying "Mb \[Name\]" or "Mb All" to lift off all people you put it on.
--   If you dodge a [Environmental](Environmental_Hazards.md) attack or [Bloatskipper](Mudskipper.md) explosion, the name of the attacker will be "_God._"
+-   If you dodge a [Environmental](Environmental_Hazards.md) attack or [Bloatskipper](Mudskipper.md) explosion, the name of the attacker will be "_**God**._"
 -   Allies were able to tag you normally with a shorter PvP timer, it was extremely annoying, this is no longer the case.
 -   There is 2 Exceptions to being Punished by Combat Tag
     1.  Server Shutdown for hotfix or weekly updates.
     2.  Being teleported by a Dungeon Teleporter _(Example: [Ferryman](The_Ferryman.md), [Layer 2](Second_Layer.md) [Lighthook](Light_Hook.md) TP)_ or Jumping into the void in [First Layer](First_Layer.md) when above 75% HP.
+-   Commonly Referred to as Ctag or Danger, _See Terminology (Game)_

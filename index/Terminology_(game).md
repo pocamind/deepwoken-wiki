@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 133662
+revid: 134174
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -117,6 +117,12 @@ _verb_
 _noun_
 
 1.  Value indicating a percentage of damage that goes through a player's [block](Combat_Mechanics.md). Chip Damage will not occur if the attack is parried. E.g. 75% chip damage means that 75% of the supposed damage value if it is met by a block.
+
+### Combo
+
+_noun, verb_
+
+1.  Multiple successive attacks landed without the opponent parrying them.
 
 ### Counter
 
@@ -398,8 +404,8 @@ _noun_
 
 _noun, verb_
 
-1.  (Anti-Air Gun) nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time, at a high altitude, or clicks and holds the top tab of their Roblox client to freeze themselves in mid-air). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
-    1.  Ex. "I just got AA gunned and wiped!"
+-   (Anti-Air Gun) nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time, at a high altitude, or clicks and holds the top tab of their Roblox client to freeze themselves in mid-air). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
+    -   Ex. "I just got AA gunned and wiped!"
 
 The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_Gun) from _Rogue Lineage_, a cannon that served the same purpose of shooting down exploiters who utilize flying exploits.
 
@@ -407,40 +413,40 @@ The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_G
 
 _noun_
 
-1.  Referring to the number of colored bars seen on the server details at the top of the screen, indicating good or bad ping.
-    1.  Ex. "On California servers i would always get 3 bars until recently"
-2.  The number of bars on a player's health, ether, armor, or posture. (Bars are divided by the ticks at the bottom and top of the whole bar)
-    1.  Ex. "I'm on 1 bar of health"
+-   Referring to the number of colored bars seen on the server details at the top of the screen, indicating good or bad ping.
+    -   Ex. "On California servers i would always get 3 bars until recently"
+-   The number of bars on a player's health, ether, armor, or posture. (Bars are divided by the ticks at the bottom and top of the whole bar)
+    -   Ex. "I'm on 1 bar of health"
 
 ### Drip
 
 _verb, noun_
 
-1.  The appearance of one's character. Usually used to describe characters that look particularly good
-    1.  Ex. "This man's dripping out!"
-    2.  Ex. "Your drip doesn't look (or isn't) that good. Maybe you should try this out instead."
+-   The appearance of one's character. Usually used to describe characters that look particularly good
+    -   Ex. "This man's dripping out!"
+    -   Ex. "Your drip doesn't look (or isn't) that good. Maybe you should try this out instead."
 
 ### Guild hopping
 
 _verb_
 
-1.  To be in a guild but change your guild constantly, or are in multiple guilds at same time.
-2.  Seen by the community as, the unwanted members, irrelevant skill
-3.  Mostly, the people with skill issue and no friends,have more chances to become another one
+-   To be in a guild but change your guild constantly, or are in multiple guilds at same time.
+-   Seen by the community as, the unwanted members, irrelevant skill
+-   Mostly, the people with skill issue and no friends,have more chances to become another one
 
 ### Hook
 
 _Verb_
 
-1.  To activate the Lighthook in The Eternal Gale and ascend back to Scyphozia.
-    1.  Ex. "I got 2 minutes left. I’m hooking outta here!"
+-   To activate the Lighthook in The Eternal Gale and ascend back to Scyphozia.
+    -   Ex. "I got 2 minutes left. I’m hooking outta here!"
 
 ### Log/Logging
 
 _verb_
 
-1.  To leave the game as fast as possible when not in combat, usually when being hunted by Voidwalkers and players alike.
-2.  Ex. "I just heard a guy wipe, we should log"
+-   To leave the game as fast as possible when not in combat, usually when being hunted by Voidwalkers and players alike.
+    -   Ex. "I just heard a guy wipe, we should log"
 
 ## Enemies / Monsters
 
@@ -448,8 +454,8 @@ _verb_
 
 _adjective_
 
-1.  attribute; Possessing greater health and attack power than normal. Highlighted by the dark purple smoke/aura.
-    1.  Ex. "I got gripped by a **corrupted** [sharko](Megalodaunt.md)"
+-   attribute; Possessing greater health and attack power than normal. Highlighted by the dark purple smoke/aura.
+    -   Ex. "I got gripped by a **corrupted** [sharko](Megalodaunt.md)"
 
 Exclusive to [monsters](Monsters.md) found in [The Depths](The_Depths.md).
 
@@ -457,53 +463,54 @@ Exclusive to [monsters](Monsters.md) found in [The Depths](The_Depths.md).
 
 _noun_
 
-1.  Refers to a [Thresher](Thresher.md).
+-   Refers to a [Thresher](Thresher.md).
 
 ### Health pack
 
 _noun_
 
-1.  Refers to a player, NPC or Monster that is weak and only serves to replenish health when killed.
-2.  Examples depends on the context.
+-   Refers to a player, NPC or Monster that is weak and only serves to replenish health when killed.
+-   Examples depends on the context.
     1.  If it's in the [First Layer](First_Layer.md) of the Depths, it refers to the [Gigamed](Gigamed.md) (Small version)
     2.  If it's during the [Scion of Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
-3.  Being healed via knocking a player, humanoid, or killing a monster.
+-   Being healed via knocking a player, humanoid, or killing a monster.
 
 ### Jelly / Jellyfish
 
 _noun_
 
-1.  Refers to a [Gigamed](Gigamed.md). Also known as Health Packs to players strong enough to one-shot them.
+-   Refers to a [Gigamed](Gigamed.md). Also known as Health Packs to players strong enough to one-shot them.
 
 ### Kaido
 
 _noun_
 
-1.  Refers to the [Dread Serpent](Dread_Serpent.md). The name comes from [Kaido](https://onepiece.fandom.com/wiki/Kaidou?so=search) from One Piece who has a similar appearance to the Dread Serpent in his dragon form.
+-   Refers to the [Dread Serpent](Dread_Serpent.md). The name comes from [Kaido](https://onepiece.fandom.com/wiki/Kaidou?so=search) from One Piece who has a similar appearance to the Dread Serpent in his dragon form.
+    -   The Devs of deepwoken, do not like this name, so avoid saying it around them.
 
 ### Monkey / Monke
 
 _noun_
 
-1.  Refers to [Primadon](Primadon,_Titan_of_the_East.md).
+-   Refers to [Primadon](Primadon,_Titan_of_the_East.md).
 
 ### Prim
 
 _noun_
 
-1.  Refers to [Primadon](Primadon,_Titan_of_the_East.md).
+-   Refers to [Primadon](Primadon,_Titan_of_the_East.md).
 
 ### Sharko
 
 _noun_
 
-1.  Refers to a [Megalodaunt](Megalodaunt.md). Originates from the [Pathfinder Gathering](Random_Encounters.md#pathfinder-gathering) event's unique NPC-to-NPC conversation.
+-   Refers to a [Megalodaunt](Megalodaunt.md). Originates from the [Pathfinder Gathering](Random_Encounters.md#pathfinder-gathering) event's unique NPC-to-NPC conversation.
 
-### Squibbo
+### Squibbo/Squid
 
 _noun_
 
-1.  Refers to a [Nautilodaunt](Nautilodaunt.md).
+-   Refers to a [Nautilodaunt](Nautilodaunt.md).
 
 ## Build-Related Terms
 
@@ -511,62 +518,62 @@ _noun_
 
 _noun, verb_
 
-1.  How much mobility/anti-mobility a build has, mainly for chasing people and stopping them from running away. examples of chase Talents and Mantras are: Revenge, Encircle, Pursuit, Crippling Comeuppance, etc.
+-   How much mobility/anti-mobility a build has, mainly for chasing people and stopping them from running away. examples of chase Talents and Mantras are: Revenge, Encircle, Pursuit, Crippling Comeuppance, etc.
 
 ### Minmax
 
 _verb, adjective_
 
-1.  To get the most optimal possible combination of Talents and Mantras in your build.
-    1.  Ex. "I've wiped like 10 times while trying to minmax this build."
-    2.  Ex. "My minmaxed PvE build can one-cycle [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)!"
+-   To get the most optimal possible combination of Talents and Mantras in your build.
+    -   Ex. "I've wiped like 10 times while trying to minmax this build."
+    -   Ex. "My minmaxed PvE build can one-cycle [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)!"
 
 ### Mage
 
 _noun_
 
-1.  A type of build that mainly focuses on empowering their Mantras and uses almost solely Mantras and sometimes a [Hero Blade](Hero_Blades.md).
+-   A type of build that mainly focuses on empowering their Mantras and uses almost solely Mantras and sometimes a [Hero Blade](Hero_Blades.md).
 
-### Shrine
+### Shrine/Order
 
 _verb_
 
-1.  To use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), a [Deep Shrine](Deep_Shrines.md) commonly used in builds for its ability to take away and redistribute the player's stats after having spent them on Talents or Mantras with high stat requirements while keeping those Talents or Mantras, allowing for the player to save points to be invested into other stats.
-    1.  "Is it ok to shrine at power 14?"
+-   To use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), a [Deep Shrine](Deep_Shrines.md) commonly used in builds for its ability to take away and redistribute the player's stats after having spent them on Talents or Mantras with high stat requirements while keeping those Talents or Mantras, allowing for the player to save points to be invested into other stats.
+    -   "Is it ok to shrine at power 14?"
 
 _noun_
 
-1.  Shorthand for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+-   Shorthand for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
 
-[Deep Shrines](Deep_Shrines.md) other than the Shrine of Order are always referred to with their full name.
+[Deep Shrines](Deep_Shrines.md) other than the Shrine of Order are usually referred to with their full name.
 
 #### Post-Shrine
 
 _adjective, noun_
 
-1.  Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
-    1.  Ex. "Is 60 strength postshrine good?"
+-   Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
+    -   Ex. "Is 60 strength postshrine good?"
 
 #### Pre-Shrine, Pre
 
 _adjective, noun_
 
-1.  Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
-    1.  Ex. "I always run 80 willpower preshrine"
+-   Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
+    -   Ex. "I always run 80 willpower preshrine"
 
 #### Shrine down
 
 _verb_
 
-1.  To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
-    1.  Ex. "I shrined down agility"
+-   To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), or [Shrine of Mastery](Deep_Shrines.md).
+    -   Ex. "I shrined down agility"
 
 ### Sustain
 
 _noun, verb_
 
-1.  How much healing a build has, or how long it can last in a fight (usually one on one). Does not include tankiness. Sustain can be defined as Bloodless Gems, Flame Wisp, Potions, and other aspects of healing mid-combat without campfires or Graceful Flame.
-    1.  "My Linkstrider build has so much sustain it's crazy"
+-   How much healing a build has, or how long it can last in a fight (usually one on one). Does not include tankiness. Sustain can be defined as Bloodless Gems, Flame Wisp, Potions, and other aspects of healing mid-combat without campfires or Graceful Flame.
+    -   "My Linkstrider build has so much sustain it's crazy"
 
 ### Trackstar
 
@@ -585,15 +592,15 @@ Each attribute has an abbreviation. These can be seen next to the respective att
 
 _noun_
 
-1.  Heavy weapons [attribute](Attributes.md#heavy-weapons).
-    1.  Ex. The Enforcer's Axe requires 75 HVY to wield.
+-   Heavy weapons [attribute](Attributes.md#heavy-weapons).
+    -   Ex. The Enforcer's Axe requires 75 HVY to wield.
 
 #### LHT
 
 _noun_
 
-1.  Light weapons [attribute](Attributes.md#light-weapons).
-    1.  Ex. The Krulian Knife requires 75 LHT to wield.
+-   Light weapons [attribute](Attributes.md#light-weapons).
+    -   Ex. The Krulian Knife requires 75 LHT to wield.
 
 #### Other abbreviations
 
@@ -610,14 +617,14 @@ _noun_
 
 _noun, adjective_
 
-1.  Short form for [Attunement-less](Attunement-less.md).
+-   Short form for [Attunement-less](Attunement-less.md).
 
 ### BMing
 
 _verb, adjective_
 
-1.  **B**lack-**M**arket**ing**. It is the action of trading in-game items for out-of-game compensation (Real life counts too).
-    1.  Ex. "Yo, gimme a curved (**CBOW** or **C**urved **B**lade **O**f **W**inds) and ama give you 1200 Robux."
+-   **B**lack-**M**arket**ing**. It is the action of trading in-game items for out-of-game compensation (Real life counts too).
+    -   Ex. "Yo, gimme a curved (**CBOW** or **C**urved **B**lade **O**f **W**inds) and ama give you 1200 Robux." (Bad Trade)
 
 BMing or black-marketing is a very strictly prohibited thing, do not risk your account for something you can get yourself or earn in-game.
 
@@ -625,26 +632,26 @@ BMing or black-marketing is a very strictly prohibited thing, do not risk your a
 
 _noun_
 
-1.  Short form for [Curved Blade of Winds](Curved_Blade_of_Winds.md), a legendary weapon for the [Galebreathe](Galebreathe.md) Attunement.
+-   Short form for [Curved Blade of Winds](Curved_Blade_of_Winds.md), a legendary weapon for the [Galebreathe](Galebreathe.md) Attunement.
 
 ### Clog/Combat Log
 
 (Read as "c-log")  
 _verb_
 
-1.  A short term for Combat Log - leaving or disconnecting while you are in combat. Doing this will automatically make you be "killed" by the player/mob that granted you the combat tag. This is separate from logging in that it's specifically related to logging during combat.
-    1.  "Ex. "This guy clogged while we were fighting, probably because of his wifi. He has good loot though."
+-   A short term for [Combat Log](Combat_Tag.md) - leaving or disconnecting while you are in combat. Doing this will automatically make you be "killed" by the player/mob that granted you the combat tag. This is separate from logging in that it's specifically related to logging during combat.
+    -   "Ex. "This guy clogged while we were fighting, probably because of his wifi. He has good loot though."
 
 Not to be confused with the verb outside of Deepwoken _to clog_. To assure you are not combat logging, always use the door button on the top left of your screen that makes your character despawn the moment you click.
 
-### Ctag/Combat Tag
+### [Ctag/Combat Tag](Combat_Tag.md)
 
 (Read as "c-tag")  
 _verb_
 
-1.  A short term for Combat Tag - hitting a player to prevent them from leaving the game, forcing them to fight or run from by the tagger.
-    1.  Ex. "Let me ctag him real quick."
-    2.  Ex. "I can't leave, he ctagged me."
+-   A short term for Combat Tag - hitting a player to prevent them from leaving the game, forcing them to fight or run from by the tagger.
+    -   Ex. "Let me ctag him real quick."
+    -   Ex. "I can't leave, he ctagged me."
 
 _noun_
 

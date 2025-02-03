@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 134094
+revid: 134197
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Interluminary Parasol is a giant floating jellyfish-like creature resembling the [Terrapods](Terrapod.md) in terms of physical shape/structure with the exception of a more smooth shell and flexible tentacles.
+The Interluminary Parasol (also referred to as Jellyfish/Big Jellyfish) is a giant floating jellyfish-like creature resembling the [Terrapods](Terrapod.md) in terms of physical shape/structure with the exception of a more smooth shell and flexible tentacles.
 
 According to the item description of it's exclusive drop, the Parasol emerges from the Depths, it's sole purpose being to spread the Depth's influence by bringing it's mobs up to the surface, disrupting the ecosystems on the surface.
 

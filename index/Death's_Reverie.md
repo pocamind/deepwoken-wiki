@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 133087
+revid: 134158
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide]

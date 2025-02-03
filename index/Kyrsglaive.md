@@ -1,9 +1,9 @@
 ---
 title: Kyrsglaive
-revid: 134136
+revid: 134146
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears]
+categories: [Weapons, Spears, Weapons with Unique Criticals]
 ---
 
 # Kyrsglaive
@@ -35,10 +35,10 @@ The Kyrsglaive is an Endgame [Medium Weapon](Weapons.md) under the Spear categor
 
 ## Criticals
 
-The Kyrsglaive has a unique **Critical** where you slam the tip of the spear onto the ground, summoning bones infront of the player after.
+The Kyrsglaive has a unique critical where you slam the tip of the spear onto the ground, guard breaking and summoning a wave of bones. If used in the air, the critical will revert back to base spear critical.
 
 ## Trivia
 
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrsieger](Kyrsieger.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), **Kyrsglaive**, [Kyrscleave](Kyrscleave.md))
--   This weapon was given a new Critical on 2/01/2025, replacing the default spear critical.
+-   This weapon was given a new Critical on February 1st, 2025, replacing the default spear critical.
 -   it is the only kyrs series weapon with a description

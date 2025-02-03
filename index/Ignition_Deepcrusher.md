@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 133562
+revid: 134162
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]

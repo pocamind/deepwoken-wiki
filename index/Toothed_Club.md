@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 118036
+revid: 134151
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
