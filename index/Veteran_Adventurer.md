@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 133311
+revid: 134309
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Talents.md) 10.
 ### _Armor Stats_
 
 This Outfit has 1500 durability and grants +15% Physical resistance, +15% Elemental resistance, +5% Fire resistance, +5% Shadow resistance and +50% Stealth.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 15% Physical, 19.25% Flamecharm, 19.25% Shadowcast, and 15% Elemental.
 
 This Outfit also grants the [Talent Card](Talents.md) _Foolish Outburst,_ which absorbs the [Tempo](Combat_Mechanics.md#gui) cost of a [Vent](Combat_Mechanics.md#combat-basics) should the wearer block or parry it.
 

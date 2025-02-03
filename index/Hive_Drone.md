@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 133438
+revid: 134314
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
@@ -20,7 +20,9 @@ This Outfit requires [Power Level](Power.md) 10.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance, +25% Elemental resistance, +5% Blunt Armor and +5% Wind Armor
+This Outfit has 1000 durability and grants +25% Physical resistance, +25% Elemental resistance, +5% Blunt Armor and +5% Wind Armor.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt, 25% Slash, 28.75% Galebreathe, and 25% Elemental.
 
 This Outfit also grants the [Talent Card](Talents.md) _Lowstride_
 

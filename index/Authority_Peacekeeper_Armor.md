@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 133034
+revid: 134307
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Central Authority]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Power.md) 5 and [Fortitude](Attributes.md) 5.
 ### _Armor Stats_
 
 This Outfit has 1600 durability and grants +15% Physical resistance, +10% Elemental resistance, +10% Slash resistance and +15% Fire resistance.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash, 15% Blunt, 23.5% Flamecharm, and 10% Elemental.
 
 This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases your [Stealth](Stealth.md) & Speed while crouching, and also removes the noise equipping a weapon makes.
 

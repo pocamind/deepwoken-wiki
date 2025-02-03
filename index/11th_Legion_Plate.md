@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 133006
+revid: 134305
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Hundred Legions]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Power.md) 5 and [Fortitude](Attributes.md) 10
 ### _Armor Stats_
 
 This Outfit has 1500 durability and grants +10% Physical resistance and +30% Blunt resistance.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Blunt and 10% Slash.
 
 ## Location
 

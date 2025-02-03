@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 133310
+revid: 134310
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Power.md) 10.
 ### _Armor Stats_
 
 This Outfit has 1500 durability and grants +25% Physical resistance, +20% Elemental resistance and +10% Wind resistance.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 28% Galebreathe, and 20% Elemental.
 
 ## Location
 

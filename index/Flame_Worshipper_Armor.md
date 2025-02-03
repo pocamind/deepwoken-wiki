@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 133136
+revid: 134298
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Power.md) 5.
 ### _Armor Stats_
 
 This Outfit has 1000 durability and grants +10% Physical resistance, +5% Elemental resistance and +25% Fire resistance.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical, 28.75% Flamecharm, and 5% Elemental.
 
 This Outfit also grants the [Talent Card](Talents.md) _Intrepid Flame_, which extinguishes you twice as quick from fire.
 

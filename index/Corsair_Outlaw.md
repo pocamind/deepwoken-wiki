@@ -1,6 +1,6 @@
 ---
 title: Corsair Outlaw
-revid: 128566
+revid: 134304
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits, Bandits]
@@ -14,7 +14,9 @@ Template:ArmorInfobox**Corsair Outlaw** is a Starter [Outfit](Outfits.md) in _De
 
 Corsair Outlaw requires five Cloth, five Fiber, and one [Aeon Logstone](Mantra_Modifiers.md) to craft.
 
-Corsair Outlaw has 1200 durability and grants the user +15% Physical Armor and +10% Elemental Armor upon being equipped. The outfit also grants the user the talent [Lightweight](Talents.md#natural-armor), which increases the user's movement speed by 25% when their armor's durability reaches 0. Lightweight also grants the user +3 Passive Agility.
+Corsair Outlaw has 1200 durability and grants the user +15% Physical Armor and +10% Elemental Armor upon being equipped.
+
+The outfit also grants the user the talent [Lightweight](Talents.md#natural-armor), which increases the user's movement speed by 25% when their armor's durability reaches 0.
 
 Corsair Outlaw can be sold for.
 

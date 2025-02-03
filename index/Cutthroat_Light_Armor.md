@@ -1,6 +1,6 @@
 ---
 title: Cutthroat Light Armor
-revid: 133080
+revid: 134308
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Talents.md) 5.
 ### _Armor Stats_
 
 This Outfit has 1000 durability and grants +10% Physical resistance and +10% Slash resistance.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Slash and 10% Blunt.
 
 This Outfit also grants the [Talent Card](Talents.md) "_Hunter's Reflexes"_, which grants the wearer a slightly larger dodge window (increased by 0.05s).
 

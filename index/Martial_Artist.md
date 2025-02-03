@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 133193
+revid: 134312
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -19,6 +19,8 @@ This Outfit requires [Power Level](Talents.md) 10 and 15 Strength.
 ## Armor Stats
 
 This Outfit has 1200 durability and grants +30% Physical Armor, +20% Elemental Armor, +5% Fire Armor, +5% Ironsing Armor.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 24% Flamecharm, 24% Ironsing, and 20% Elemental.
 
 This Outfit also grants the [Talent Card](Talents.md) _Harsh Response_, which causes enemies to receive less posture back when parrying your attacks.
 

@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 133439
+revid: 134313
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Ignition Union]
@@ -20,7 +20,9 @@ This Outfit requires [Power Level](Power.md) 10.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical Resistance, +25% Elemental Resistance, +5% Blunt Armor and +5% Fire Armor
+This Outfit has 1000 durability and grants +25% Physical Resistance, +25% Elemental Resistance, +5% Blunt Armor and +5% Fire Armor.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt, 25% Slash, 28.75% Flamecharm, and 25% Elemental.
 
 This Outfit also grants the [Talent Cards](Talents.md) _Perseverance_ and _Strong Stern_
 

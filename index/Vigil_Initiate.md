@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 133312
+revid: 134293
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, Etrea]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Power.md) 5.
 ### _Armor Stats_
 
 This Outfit has 1200 durability and grants +20% Physical resistance and +10% Blunt resistance.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt and 20% Slash.
 
 This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which increases the damage of the [Katana](Katana.md) by 25% and the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 

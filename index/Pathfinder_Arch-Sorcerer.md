@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 133700
+revid: 134311
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -23,6 +23,8 @@ This Outfit requires [Power Level](Power.md) 10 and [Intelligence](Attributes.md
 ### _Armor Stats_
 
 This Outfit has 1500 durability and grants +10% Physical resistance, +25% Elemental resistance, +10% Lightning resistance, +10% Ice resistance and +50% Ether Regen.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical, 32.5% Frostdraw, 32.5% Thundercall, and 25% Elemental.
 
 This Outfit also grants the [Talent Card](Talents.md) _Devastating Power_, which gives the player +10 Ether for every equipped mantra.
 

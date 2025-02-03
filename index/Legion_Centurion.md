@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 133187
+revid: 134340
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, The Hundred Legions]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Talents.md) 15 and [Fortitude](Attributes.md)
 ### _Armor Stats_
 
 This Outfit has 3000 durability and grants +30% Physical resistance, +30% Elemental resistance, +5% Wind resistance, +5% Lightning resistance and +20% Ether Regen.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 33.5% Galebreathe, 33.5% Thundercall, and 30% Elemental.
 
 This Outfit also grants the [Talent Card](Talents.md) _Centurion's Resolve_, which makes the Legion Kata fist style deal 10% more damage.
 

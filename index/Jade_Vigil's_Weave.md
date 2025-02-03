@@ -1,6 +1,6 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 133171
+revid: 134342
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Etrea]
@@ -19,6 +19,8 @@ This Outfit requires [Power Level](Talents.md) 15 and 10 Agility.
 ## Armor Stats
 
 This Outfit has 2800 durability and grants +30% Physical Armor, +25% Elemental Armor, +15% Wind Armor, 25% Blood Armor, and +25% Ether Regen.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 43.75% Bloodrend, 36.25% Galebreathe, and 25% Elemental.
 
 This Outfit also grants the [Talent Card](Talents.md) _**Serpent's Dance**_, which gives the [Fang and Coil](Fang_and_Coil.md) fist style a new Running Critical Attack.
 

@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 133173
+revid: 134319
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Talents.md) 12.
 ### _Armor Stats_
 
 This Outfit has 2500 durability and grants +20% Physical resistance, +15% Blunt resistance, +35% Elemental resistance and +50% Ether Regen.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32% Blunt, 20% Slash, and 35% Elemental.
 
 This Outfit also grants the [Talent Card](Talents.md) _Not a Scratch_, which makes your character no longer shows any signs of damage no matter how low the HP is. No cuts, no scratches, no torn clothing, etc.
 

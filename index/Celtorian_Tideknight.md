@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 133059
+revid: 134346
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, Lost Celtor]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Talents.md) 15.
 ### _Armor Stats_
 
 This Outfit has 2800 durability and grants +30% Physical resistance, +25% Elemental resistance, +5% Blunt resistance, +10% Shadow resistance, +16 Sanity and +20% Ether Regen.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt, 30% Slash, 32.5% Shadowcast, 28.75% Frostdraw, and 25% Elemental.
 
 Talent: **Tidekeeper** - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds (1 Minute CD), **This will not proc on Instant Deaths such as the [Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Beam.** **VISCOCITY WILL CAUSE THIS TALENT TO BE EXTREMELY HARD TO PROC.** (an isshins can be used to help)
 

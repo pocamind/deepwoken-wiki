@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 134279
+revid: 134351
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -157,7 +157,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Mutual Exclusive: Return to the Dark Ages
 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
-    -   Overflowing Dam doesn't require you to wait for 2s upon reaching 100% ether, whereas the Talent's Description says you do need to wait to get the damage buff. It just applies the moment you hit full ether.
+    -   Overflowing Dam doesn't require you to wait for 2s upon reaching 100% ether to get the damage buff despite what the talent description says. The damage buff applies the moment you hit full ether.
     -   Prerequisite: 40 Intelligence
     -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
 
@@ -2962,7 +2962,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   The head equipment "[Monastery Cowl](Monastery_Cowl.md)" has this Talent.
 
 -   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
-    -   "Bleed" from Speed Demon gives a 15% damage bonus, is not accounted for in the damage cap, and bypasses armor.
+    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
+    -   "Bleed" from Speed Demon gives a 15% damage bonus.
         -   Bleed from other sources is a 30% damage bonus.
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility

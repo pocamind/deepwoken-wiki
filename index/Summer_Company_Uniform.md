@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 133287
+revid: 134294
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, Summer Company]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Power.md) 5.
 ### _Armor Stats_
 
 This Outfit has 1500 durability and grants +10% Physical resistance, +5% Elemental resistance, +10% Slash resistance and +25% Shadow resistance.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Slash, 10% Blunt, 28.75% Shadowcast, and 5% Elemental.
 
 This Outfit also grants the [Talent Card](Talents.md) _Armor Piercing_, which causes your bullets to ignore 15% of an opponent's physical armor.
 

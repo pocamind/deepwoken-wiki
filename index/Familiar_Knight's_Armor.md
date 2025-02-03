@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 133129
+revid: 134329
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -23,6 +23,8 @@ This Outfit requires [Power Level](Talents.md) 15.
 ### _Armor Stats_
 
 This Outfit has 1300 durability and grants +15% Physical Armor, 10% Slash Armor, and 25% Fire Armor.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash, 15% Blunt, and 25% Flamecharm.
 
 This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which lets you draw your weapon silently and move faster + roll further while crouching.
 
