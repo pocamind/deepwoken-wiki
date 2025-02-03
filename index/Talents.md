@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 134258
+revid: 134279
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3250,7 +3250,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 The NPC in Starswept Valley who gives the quest required to obtain Thresher Scales, highlighted in red.
 
--   The quest giver is located in the [Starswept Valley](The_Starswept_Valley.md), just beyond the stone pillars and leaning on a wall next to a ruined building overhang.
+-   The quest giver is found underneath a broken castle, just outside of the entrance to [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](The_Starswept_Valley.md).
 -   [Jessamine](Jessamine.md) will ask you to kill a [King Thresher](Thresher.md#king-thresher).
 -   King Threshers can rarely spawn surrounded by two/three other Threshers. There's also a guaranteed spawn at the [Lightkeeper Temple](Lightkeeper_Temple.md).
 -   Completing the quest will grant the Talent.

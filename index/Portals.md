@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 133454
+revid: 134274
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,7 +32,7 @@ Pressing C will activate the **Portal** Resonance.
 
 **Portal** grants the user invisibility & invincibility to all damage except insta-kill damage such as death bricks or the orbs within layer 2, increased walk and swim speed for 5-9s until removed from your portal. While using the Bell, interacting with objects, picking up players/npc's, eating and emoting will force you out of your portal early.
 
-If Portals is corrupted, you move faster and can take objects and allied players with you. (Note: the carried player or item will NOT be invisible.)
+If Portals is corrupted, you move faster and can take objects and _ALLIED_ players with you. (Note: the carried player or item will NOT be invisible.)
 
 ### _Resonance Point usage_
 
@@ -56,9 +56,12 @@ When obtained, Portals will spend its points on the following stats:
 -   Trying to use this bell while carrying a player (without it being corrupted) will drop the player.
 -   The Eternal Gale's slowness effect in [Layer 2](Second_Layer.md) can be negated by using the **Portal**, but the wind **may sometimes push you off**, so be cautious when using it.
 -   If you somehow take damage/get assassinated during, it forces you out of the portal.
--   This Resonance can be used to exit the boundaries of [Guild Bases](Guild_Bases.md).[\[1\]](#cite-note-1)
+-   This Resonance can be used to clip through walls[\[1\]](#cite-note-1), and by extention, exit the boundaries of [Guild Bases](Guild_Bases.md).[\[2\]](#cite-note-2)
+    -   Distance clipped likely depends on speed stat and whether or not the bell is corrupted.
+
 -   If two people have portal bell, they can see each other while either one are in the portal.\[Source Needed\]
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=\_bq6CeNMLzE](https://www.youtube.com/watch?v=_bq6CeNMLzE)
+1.  [↑](#cite-ref-1) [https://youtu.be/iY0FSqBhFXs](https://youtu.be/iY0FSqBhFXs)
+2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=\_bq6CeNMLzE](https://www.youtube.com/watch?v=_bq6CeNMLzE)

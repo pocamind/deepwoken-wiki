@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 134128
+revid: 134290
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
@@ -36,28 +36,6 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   They will both spawn and stand still, wait a few seconds, then spawn again and fire their beams.
 -   Getting hit a single time will instantly eliminate you.
 -   Lasts 100 seconds.
-
-**Slay The Beast**
-
--   A bounder spawns in & you must kill it as the minigame lasts indefinitely until the bounder is killed.
--   The bounder can spawn under the carnival in a special arena.
-
-## Entry Spawn Locations
-
-### Etrean Luminant
-
--   To the right of [Lower Erisia](Lower_Erisia.md), where [Mortus](Mortus.md) resides.
--   The small Bandit Camp on the hill with a campfire, under that broken building.
--   At [Isle of Vigils](Isle_of_Vigils.md), near the mantra modifier shop, outside the house with the barber.
--   In [Minityrsa](Minityrsa.md) at the top of a spire near the coast, to the right of the shipwright.
--   Near the [Etris Docks](Etris_Docks.md), to the left of the entrance into [Etrean Wilds](Etrean_Wilds.md).
-
-### Eastern Luminant
-
--   At the meteor at [Songseeker Wilds](Songseeker_Wilds.md) near highway gates.
--   In front of the Blacksmith at [Miner's Landing](<Miner's_Landing.md>)
--   At [Starswept Valley](The_Starswept_Valley.md), near the [The Lordsgrove's door](The_Lordsgrove.md).
--   At the bridge at [Summer Isle](Summer_Isle.md).
 
 ## Rewards
 
