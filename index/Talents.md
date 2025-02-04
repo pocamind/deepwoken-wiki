@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 134351
+revid: 134423
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1409,7 +1409,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice.
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
     -   Even though it's not mentioned, Greataxes also work with this Talent.
-    -   Does not work with crits that don't slam the floor, like Kyrscleave or Railblade.
+    -   Does not work with crits that don't slam the floor, like Railblade.
     -   Prerequisites: Cryonis, 15 Heavy, 45 Frostdraw.
 
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill.

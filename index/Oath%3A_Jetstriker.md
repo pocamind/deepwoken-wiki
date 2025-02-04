@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 133174
+revid: 134420
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -21,7 +21,7 @@ _For the version that existed prior to the March 29, 2024, see [here](Oath%253A_
 
 ## Description
 
-**[Oath](Oaths.md): Jetstriker** is one of the 16 obtainable Oaths in _Deepwoken_. It is highly praised (and hated) for its fluentness in agility. This results in "Trackstar" Builds almost exclusively using this Oath. Jetstriker is infamous for being able to quickly escape any engagement at will if the user knows what they're doing.
+**[Oath](Oaths.md): Jetstriker** is one of the 16 obtainable Oaths in _Deepwoken_. It is highly praised (and detested) for its fluentness in agility. This results in "Trackstar" Builds almost exclusively using this Oath. Jetstriker is infamous for being able to quickly escape any engagement at will if the user knows what they're doing.
 
 “ I can begrudgingly congratulate you! No more easy race wins for me, I suppose! ”
 

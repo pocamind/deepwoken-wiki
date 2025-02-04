@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 134358
+revid: 134422
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -68,7 +68,7 @@ Ice
 
  | Conjure a spike of ice from the ground at the cursor's location.
 
--   Deals 30 DMG and sends target into the air.
+-   At level 5: It has a base damage of 30 and sends target into the air.
 -   Does not inflict Chill.
 -   WIth the Spike Traps Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
 -   Can be modified with cloudstones/stratus stones to make the ice spikes bigger.
@@ -211,8 +211,8 @@ Ice
 
  | Conjures 2 sabers of ice while performing a rapid flurry of slashes forward.
 
--   Deals 70 DMG total
--   First hit 25 and next 3 hits do 15 DMG
+-   At level 5: It has 65 base damage in total.
+-   First hit 20 and next 3 hits do 15 DMG.
 -   Hits 4 times.
 -   Inflicts 1s of Chill per hit
     -   Can't be increased.
@@ -242,7 +242,7 @@ Ice
 
  | Conjures 3-4 chains of ice that lock-on and stun the target for a brief period of time.
 
--   Deals 35 DMG total
+-   At level 5: It has a base damage of 35.
 -   Inflicts Chill.
 -   9 seconds chill and 13 seconds with 1 eternal.
 -   Can be modified with both [Aeon/Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
@@ -271,7 +271,7 @@ Ice
 
  | Perform a stomp with the user's right leg, forming 3 ascending waves of ice formations that encases the target in ice.
 
--   Deals 30 DMG
+-   At level 5: It has a base damage of 30.
 -   Apparently applies chill although VERY short.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
@@ -331,7 +331,7 @@ Ice
 
  | Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead.
 
--   Deals 55 DMG
+-   At level 5: It has a base damage of 60.
 -   Slightly knocks back target(s)
 -   Can break objects.
 -   Breaks block at mantra level 5.
@@ -360,7 +360,7 @@ Ice
 
  | Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact.
 
--   Deals 55 DMG.
+-   At level 5: It has 55 base damage.
 -   Applies Chill. 2 second chill on the first hit, the second hit can apply a 4 second chill with 1 Eternal logstone.
 -   During the wind-up, pressing \[F\] cancels the impale.
 -   Both the impact and the detonation are parriable.
@@ -388,7 +388,7 @@ Ice + Slash
  | Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air.
 
 -   The aoe can be increased with 2 stratus stones.
--   Deals 65 damage.
+-   At level 5: It has 70 base damage.
 -   Applies Chill. (2 seconds per hit, can't be increased)
 -   Capable of proccing Meteor Impact.
 
@@ -415,7 +415,7 @@ Ice
  | Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy.
 
 -   Deals moderate damage.
--   Deals 95 dmg if every projectile landed
+-   At level 5: Deals 95 dmg if every projectile landed
 -   Deals high posture damage.
 -   Does not inflict Chill.
 -   Low cooldown.
@@ -444,8 +444,8 @@ Ice
  | Conjure a deadly rapidly moving saw of ice with the user's left hand.
 
 -   Deals moderate damage.
--   Default ice carve deals 75 DMG
--   Round spark full duration deals 115 DMG
+-   At level 5: The base damage its 70 if landed by the full duration.
+-   Round spark full duration changes its base damage to 110 DMG.
 -   Does not inflict Chill.
 -   Spawns ice floor (You can add vibrant gems to make the ice spawned bigger)
 -   Can be modified with **Cloudstones/Stratus Stones** to increase its size.
@@ -479,7 +479,7 @@ Ice
 
  | User turns invisible and teleports to their opponent within a short range, on hit holds their opponent while they get hit by the ice chains.
 
--   Deals 54 damage.
+-   At level 5: It has 50 base damage.
 -   Applies an extremely long 12 sec chill at base.
 -   This mantra has a cooldown of 8 seconds. It goes on a 4 second cooldown if no targets are found on the area of the grab.
 -   Does not apply chill through block with Unyielding Frost.
@@ -587,7 +587,7 @@ Ice
 
  | Conjures 3 ice cubes above the user that are on standby and throws them to where their cursor is.
 
--   Deals 90 damage. (30 per icecube)
+-   At level 5: It has a base damage of 72 (24 damage per icecube).
 -   Projectiles are homing.
 -   Does not inflict Chill.
 -   Has a good amount of range.
@@ -1279,7 +1279,7 @@ N/A
 -   Nullifying clarity does not reduce Chilled duration. Instead, it gets rid of the Slow effect of your Chill.
 -   The **Ice Cubes** Mantra is possibly a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
 -   It's possible to put your guild base on **Glacial Arc** if you aim it straight forward and upwards then put it on the side.
--   **The source for the frost mantras damage: (This is outdated, and some of these Mantras have gotten their damage reduced. Example: Ice Cubes deal 60 damage, not 90)**
+-   **The source for the frost mantras damage: (This is outdated, and some of these Mantras have gotten their damage reduced. Example: Ice Cubes deal 72 damage, not 90)**
     
     File:Frost Mantras damage.png
     

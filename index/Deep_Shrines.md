@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 133393
+revid: 134414
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -40,7 +40,7 @@ categories: [NPCs, Mechanics]
 
 [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md)
 
-**Shrine of Order**: For 10 Knowledge, balance your stats (up to a limit of -25 points on main stats, with no limit on attunement stats,) but gain a random Flaw. Can only be done once per character.
+**Shrine of Order**: For 10 Knowledge, balance your stats (up to a limit of -25 points on main stats, with no limit on attunement stats,) but gain a random Flaw. Can only be done once per character. You must need **NO OATH** to use this.
 
 **Shrine of Ostentation**: For 10 Knowledge, transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
 

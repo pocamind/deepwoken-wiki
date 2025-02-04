@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 133499
+revid: 134419
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -152,7 +152,7 @@ After having defeated [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for th
   <td>*<i>The Maestro smiles</i>*. Ah, well if it isn't my friend, [name]. / How's Purple Cloud/Pale Briar/Cerulean Thread treating you?</td>
 </tr>
 <tr>
-  <td colspan="12">We've been well, thank you. Care for another round? / Care for another round?</td>
+  <td colspan="12">We've been well, thank you. Care for another round?</td>
 </tr>
 <tr>
   <td colspan="12">Let's see how your skills have improved, eh?</td>
