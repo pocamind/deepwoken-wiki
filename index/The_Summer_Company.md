@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 126656
+revid: 134380
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Summer Company]
@@ -65,11 +65,21 @@ Neutral-Bad Reputation:
 
 ## Notable Members
 
--   Gunsmith Rosen
--   [The Guy](The_Guy.md)
--   [Scope](Scope.md)
--   [Funke, Master of Thunder](Funke,_Master_of_Thunder.md)
--   Trig
+[Gunsmith Rosen](Gunsmith_Rosen.md): A Vesperian who is the current leader of the Summer Company and reintroduced firearms into the modern era. His last name is unconfirmed as Gunsmith is a title given to him, one of his personal creations The [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) is considered a mastercraft among the goons of the company along with the [Iron Blunderbuss](Iron_Blunderbuss.md) being one of his designs, he is presumed to be somewhere in Summer Isle due to him signing off the creation of one of the most powerful weapons of the company, [The Stormseye](Stormseye.md).
+
+[Gunsmith Hierka](Gunsmith_Hierka.md): Former protégé of Rosen who's aspect is currently unknown, they acted as a member deceiving him hiding in the ranks as a member of the Authority's [Bereau of Research](The_Central_Authority.md) in order to steal blueprints of the Summer Company resulting in the creation of the [Rifle Spear](Rifle_Spear.md) which resulted in a tension between the two factions.
+
+[Black Diver Funke](Funke,_Master_of_Thunder.md): A Canor Black Diver who is in the second floor of the Summer Castle capable of turning an [Attunementless](Attunement-less.md) person into a [Thundercaller](Thundercall.md) via the use of spark glands.
+
+[The Guy](The_Guy.md): Simply The Guy, a Canor who commands his team who dislikes him near [Meteor Isle](Meteor_Isle.md), by giving him three spider eggs he grants you access to the Summer Company Cannon which can be used as a quick traverse to Songseeker Wilds. He can also be Charisma checked to turn into, Guy.
+
+[Jarvis](Jarvis.md): A member of the Summer Company who is located inside the castle and has the talent capable of smelting equipment, he is presumably the inventor of the technique and has probably shared it with [Artisan](Guild_Bases.md) who can be hired inside as a smelter in the guild base.
+
+[Scope](Scope.md): A Vesperian located inside the explosive storage rooms guarding the boxes from Bandits and The Ignition Union, he tasks the player with taking care of the two near Summer Isle fighting each other.
+
+[Trig](Trig.md): A Gremor located near the Inn in Summer Isle who tasks the player to find Asius, an Adret who hasn't been paying the Summer Company his dues.
+
+[Mag](Mag.md): A Gremor inside the bowels of the Summer Castle who can turn ores into bullet casings, he is implied to be an Ironsinger due to to being the only one who deals with metals.
 
 ## Trivia
 

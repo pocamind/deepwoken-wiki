@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 124905
+revid: 134381
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,7 +16,7 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 
 -   The player's max Health Points. Starting value is 200 (+4 at Power 1).
     -   Current HP is tracked on the health bar in %, from 100 to 0. When it reach 0%, caused by taking damage, the player is knocked.
--   How to increase: Power (4 Per power), Equipment, Fortitude (.5 Per investment), Talents
+-   How to increase: Power (4 Per power), Equipment, Fortitude (.5 Per investment), Talents, Vitality
 
 ### Posture
 

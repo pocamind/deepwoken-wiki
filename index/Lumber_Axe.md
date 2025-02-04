@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 132816
+revid: 134399
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities, Items]
@@ -10,7 +10,7 @@ categories: [Utilities, Items]
 
 | Lumber Axe | |
 |---|---|
-| usage | Used to cut down trees |
+| usage | Used to cut down treesUsed to attack things |
 
 ## Description
 
