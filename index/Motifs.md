@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 134102
+revid: 134424
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -134,12 +134,22 @@ The weapon class the Motif-ed weapon belongs to
 
  |
 
+### 
+
+Additional Notes
+
+Weapon criticals have their own stats separate to the weapon they're on (except for the damage they deal). This means that weapon criticals like [Shotel](Shotel.md)'s will **retain their unique properties** when put on another weapon; being Shotel critical's 100% chip damage in this case.
+
+As for the damage a Motifed critical will deal on another weapon; critical attack damage is a multiplier to the weapon's scaled damage, it's a stat built into each critical attack and is specific to that critical attack. For example, if you have a hypothetical weapon that has a 1.25x scaled damage multiplier on critical and that weapon has 30 scaled damage, the critical will deal 37.5 damage on that weapon. Then if you were to Motif that weapon and put its critical on a weapon that has 24 scaled damage, the critical will only deal 30 damage.  
+This just means that your **Motifed critical will deal less damage than the weapon it was originally from if your current weapon has less scaled damage and vice versa**.
+
 ## Trivia
 
 -   Banking or [passing down](Hippocampal_Pool.md) a weapon with a Motif completely voids the Motif.
     -   Motifs themselves cannot be banked.
 -   Weapons with a Motif equipped can be dropped.
     -   However, Motifs themselves cannot be dropped.
+-   If you unequip a weapon that has a Motif on it and then leave the game, the Motif will be voided when you rejoin.
 -   Motifs can be applied to the '22 [Hallowtide](Hallowtide.md) weapons.
 -   You can swap Motifs during combat to change up your critical for mixups.
 -   The 'Gun' Motif uniquely can be obtained from and can be applied to _both_ the Rifle and Flintlock weapon classes despite it being a base weapon critical. With that being said, this Motif will do nothing when applied since you're replacing a base weapon critical with the same base weapon critical.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 133373
+revid: 134429
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1627,7 +1627,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   Ministry Agents or Scouts can utilize this Murmur.
 -   Alpha and Crimson Megalodaunts can somehow use its power too.
 -   Some Kyrsgarde are able to use this Murmur.
--   Despite suppressing their own Murmur, Blindseers are able to see Tacet users despite suppressing it.
+-   Despite suppressing their own Murmur, Blindseers are able to see Tacet users.
 
 ### Whispers of Rhythm
 
