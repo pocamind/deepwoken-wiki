@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 134141
+revid: 134370
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -356,7 +356,7 @@ Wind + Lightning + Slash
   <td><center>40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.</center></td>
-  <td><center>Applying flame via flame mantras summons a puppet. Burn from all sources is now black. Burn from all sources except from Shadowcast deals low damage and drains ether. Shadow mantras apply a low damage flame, but do not drain ether nor spawn puppets.</center></td>
+  <td><center>Applying burn via any non-Shadowcast source summons a puppet. Burn from all sources is now black. Burn from all non-Shadowcast sources deals low damage and drains Ether. Shadowcast damage applies a low damage burn that does not drain Ether nor spawn puppets.</center></td>
   <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
 </tr>
 <tr>
@@ -366,7 +366,7 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>You summon a puppet of black flames that homes onto enemies with black flames.</center></td>
-  <td><center>Your puppets now seek out those who are on fire from your flames. Additionally, they will continue seeking for a few seconds after their flame is removed.</center></td>
+  <td><center>Your puppets now seek out the nearest person who's burning with black flames. Additionally, they will continue seeking for a few seconds after their burn is removed.</center></td>
   <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
 </tr>
 <tr>
@@ -386,7 +386,7 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.</center></td>
-  <td><center>Causing an explosion will buff your puppets, making them faster and making them deal slightly more damage.</center></td>
+  <td><center>Causing an explosion will buff your puppets, making them move faster and deal slightly more damage.</center></td>
   <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
 </tr>
 <tr>
@@ -751,7 +751,7 @@ Wind + Lightning + Slash
   <td><center>40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.</center></td>
-  <td><center>Applying flame via flame mantras summons a puppet. Burn from all sources is now black. Burn from all sources except from Shadowcast deals low damage and drains ether. Shadow mantras apply a low damage flame, but do not drain ether nor spawn puppets.</center></td>
+  <td><center>Applying burn via any non-Shadowcast source summons a puppet. Burn from all sources is now black. Burn from all non-Shadowcast sources deals low damage and drains Ether. Shadowcast damage applies a low damage burn that does not drain Ether nor spawn puppets.</center></td>
   <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
 </tr>
 <tr>
@@ -761,7 +761,7 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>You summon a puppet of black flames that homes onto enemies with black flames.</center></td>
-  <td><center>Your puppets now seek out those who are on fire from your flames. Additionally, they will continue seeking for a few seconds after their flame is removed.</center></td>
+  <td><center>Your puppets now seek out the nearest person who's burning with black flames. Additionally, they will continue seeking for a few seconds after their burn is removed.</center></td>
   <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
 </tr>
 <tr>
@@ -781,7 +781,7 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.</center></td>
-  <td><center>Causing an explosion will buff your puppets, making them faster and making them deal slightly more damage.</center></td>
+  <td><center>Causing an explosion will buff your puppets, making them move faster and deal slightly more damage.</center></td>
   <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
 </tr>
 <tr>
