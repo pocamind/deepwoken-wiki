@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 133814
+revid: 134516
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -19,7 +19,7 @@ These are recipes that are not used to produce food or potions.
 ### _Non-Station Recipes_
 
 -   **Wood** - _3 Sticks_
--   **Any pure ore** - 3x of that ore
+-   **ore (3x)** - 1x Pure ore
 -   **Sticks (3x)** - _1 Wood_
 -   [Campfire](Campfire_Pit.md) - _3 Sticks or 1 Wood_
 -   **Fiber** - _2 Bamboo or 1 Spider Egg_

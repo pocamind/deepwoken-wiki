@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 134429
+revid: 134531
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -26,6 +26,15 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
   
 
 ## Figures
+
+### Abel Juno, Etrea's Greatest Warrior.
+
+" _You are a freshie to be gripped. **Abel Juno.** A bit harder to grip than others... But still, an ez grip. "_
+
+-   the Abel Juno is one of the strongest member of [Etrea](Etrea.md). serving as a guard, and is very well respected by the [The Lord Regent](The_Lord_Regent.md) and isn't messed with.
+-   Abel Juno is a Young [Khan](Aspects.md), he is very mysterious and does not appear in the game alot. Some people try to become Abel Juno, but nobody is actually the real Abel Juno except himself.
+-   They Say, Abel Juno could take on everybody at once. even the [Drowned Gods](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). that's because, he is one. he's the drowned God of [Layer 4 : The Hurricanes](The_Depths.md). He's the strongest Drowned God out of all the drowned Gods of all the 9 Layers. He is also Part [Krulian](Krulian.md). And Part of all the [Aspects](Aspects.md).
+-   He is somewhere in the [First Layer](First_Layer.md), since he is just chilling with the Drowned God [Yunshul](<Yun'Shul,_Keeper_of_Hearts.md>). But the player cannot see him as if he were to be seen, you character will be wiped due to his immense aura.
 
 ### The Lord Regent of Etrea, The Fourth Prophet of the Ministry, Zi'eer
 
@@ -389,6 +398,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been in the mist long enough, making them puppets to its will, however, this mist doesn't affect those who are very insane. explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
 -   Their physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
 -   An entity known as "The Voice of Ethiron", tries to fool the player into awakening the Scion of Ethiron so it can fully awake Ethiron. This suggests that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake its master. It could be theorized that the Voice is actually Ethiron itself, taking on the form of a disembodied voice or a ghostly figure (as in the case with Mendacia) to communicate with lesser beings.
+-   It is possible that the Scion of Ethiron is caught in its own time dilation. Hypothetically, this would mean that failing to kill the Scion and allowing it to wake the true Ethiron would have no effect on reality, as these events would simply reset. The only thing destroyed in the process would be the player character's soul.
 
 ### Korilfiend
 

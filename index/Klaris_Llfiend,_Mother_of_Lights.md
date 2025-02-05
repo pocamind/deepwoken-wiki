@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 133181
+revid: 134541
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First Layer]
@@ -449,6 +449,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 
 ## Trivia
 
+-   Klaris's husband is deepwokenpermafreshie122.
 -   There is a typo when returning the Diver Journals to her; she says 'this is the least can offer,' it should say 'this is the least WE can offer.'
 -   You don't have to beat Chaser after you unlock the Galewax shrine for it to count to the Deepshore Fossil quest.
 -   She is the inventor of Radiant Magic.

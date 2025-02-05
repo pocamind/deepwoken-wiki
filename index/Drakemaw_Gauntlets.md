@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 133111
+revid: 134548
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide]
@@ -40,7 +40,7 @@ The user performs a fast forward thrust that ragdolls players and pushes them aw
 
 ## Trivia
 
--   Not droppable.
+-   Like all other Hallowtide exclusive weapons, these are not droppable.
 -   The weapon's critical has potential for M1/Mantra follow-up, especially if your enemy doesn't know how to ragdoll cancel.
 -   It was the only weapon created for Hallowtide 2023 that was not teased by the announcement revealing the release date, with the [Mushroom Costume](Mushroom_Costume.md) being teased instead.
 -   It is the only weapon in the Fists category that deals Bleed damage.

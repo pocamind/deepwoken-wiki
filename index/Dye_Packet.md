@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 133563
+revid: 134562
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -31,7 +31,7 @@ Silentheart markings dyed pink
 
 ## Trivia
 
--   Some equipment are just "tinted" instead of the actual color changing.
+-   Most equipment and outfits are just "tinted" instead of the actual color changing.
 -   Originally, they could only be obtained from Klaris. This was eventually changed on the 8/15/2023 update, making them available for purchase from Merchant Ships.
     -   Previously, Dye Packets would come with a Dye Remover item which was the only way to remove an equipment dye. If purchased from Chili's Merchant Ships, they would not come with the Remover. This item was removed on the 04/06/2024 update.
 -   Dye Packets have no model, so appear invisible on Chili's ship.

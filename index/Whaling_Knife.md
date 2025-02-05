@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 133717
+revid: 134556
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons]
 
 ## Description
 
-The Whaling knife is a midgame dagger type weapon. It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md) And [Duke Erisia](Duke_Ishamon_Erisia.md). It is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
+The Whaling knife is a midgame dagger type weapon. It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md) And [Duke Erisia](Duke_Ishamon_Erisia.md). It is also able to be upgraded with the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
 
 ### Damage
 

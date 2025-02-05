@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 134130
+revid: 134509
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -113,8 +113,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
-  <u><b>1% Food, Thirst steal per 4.5 UNSCALED DMG dealt (aka no dmg mods)</b></u><br>
-  <b>(NOT AFFECTED BY GLUTTONY FLAW OR HUNGER REDUCE BUFFS)</b></p></div></td>
+  <u><b>1% Food, Thirst steal per 4.5 SCALED DMG dealt</b></u><br>
+  <b>(Gluttony steal NOT AFFECTED by gluttony flaw or hunger reduce food buffs.)</b></p></div></td>
   <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
 <tr>
@@ -146,8 +146,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
-  <u>1% armor drain per 5.25 UNSCALED DMG dealt. 1% armor drain per 7 UNSCALED DMG dealt (Aka no DMG mods) (if steadfast)</u><br>
-  <u><b>ARMOR DRAIN DEPENDS ON UNSCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
+  <u>1% armor drain per 5.25 SCALED DMG dealt. 1% armor drain per 7 SCALED DMG dealt(if steadfast)</u><br>
+  <u><b>ARMOR DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
   Armor drain values are <b>fixed</b> to&nbsp;% dmg and doesn't scale with armor durability.<br>
   Works on any enemy/monster even on those without armor<br>
   No PVE scale.</p></div></td>
@@ -193,10 +193,13 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Sear<div></div></font></center></td>
   <td><div><p>Weapon gain +5% PEN and apply <b>Cauterize</b> on hit. Cauterized targets:<br>
-  have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 4%, MED: 6.66%, HVY: 10% per hit).<br>
+  have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 5.65%, MED: 8%, HVY: 10% per hit).<br>
   The PEN it gives also counts for mantra damage and bypasses the 50% PEN cap.<sup><a href="#cite-note-1">[1]</a></sup><br>
-  Lose thirst equal to 20% of damage taken.<br>
-  Each sear stack approximately lasts 15–20 seconds</p></div></td>
+  Drain thirst equal to 20% of weapon scaled DMG, not affected by DMG mods. (As example 43.77/5 = 8.75 water drain)</p>
+  <p><br>
+  Sear stacks lasts 15 seconds, applying a stack wont refresh the timer.</p>
+  <p><br>
+  </p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
@@ -278,7 +281,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
   Weapon deal additional blood bar damage, scales with weapon damage.<br>
-  <u><b>1% blood loss per 3 UNSCALED DMG dealt (aka no dmg mods) (NOT AFFECTED BY HAEMOPHILIA)</b></u><br>
+  <u><b>1% blood loss per 3 SCALED DMG dealt (NOT AFFECTED BY HAEMOPHILIA)</b></u><br>
   <u><b>BLOOD DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
   When missing an attack (dodge, parry and block are not a miss), lose some blood.</p></div></td>
   <td><div>Weapon is completely red, surrounded by a red aura.<br>
@@ -313,7 +316,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:Rhaemens ember.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of Rhaemen's Ember<div></div></font></center></td>
-  <td><div><p>Once enough stacks have been applied, the Fire of Life germinates. The explosion deals a random amount of damage and grants temporary health to the affected targets.<br>
+  <td><div><p>Once enough stacks have been applied (Rapier/Guns: 3, LHT: 6, MED: 3, HVY: 3), the Fire of Life germinates. The explosion deals a random amount of damage and grants temporary health to the affected targets.<br>
   </p></div></td>
   <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
 </tr>
@@ -322,7 +325,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the Unbidden<div></div></font></center></td>
   <td><div><p>Drains the target's ether on hit. This scales with your base damage.<br>
   <u><b>Steals 1 ether per 1.3 M1 dmg</b></u><br>
-  <u><b>ETHER DRAIN DEPENDS ON UNSCALED DMG dealt (aka no dmg mods)</b></u><br>
+  <u><b>ETHER DRAIN DEPENDS ON SCALED DMG dealt (aka no dmg mods)</b></u><br>
   Critical attack is replaced with a counter. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture.<br>
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
   Check Trivia for an explanation of its bugginess in PvE.</p></div></td>

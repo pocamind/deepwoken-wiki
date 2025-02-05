@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 129424
+revid: 134535
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -61,6 +61,7 @@ These aspects are currently exclusive to NPCs and are **UNOBTAINABLE** by curren
 
 ## Trivia
 
+-   Yes, racism in deepwoken is real.
 -   Aspects were originally known as races, but were renamed due to many people and franchises moving away from the term, as well as the possible connotations of having races that could be considered "better" than others. They were initially renamed to "tribes" on the 6th of December, 2024, but were changed to aspects two days after due to the term sounding clunky, if not outright derogatory.
     -   Ironically, one of the main reasons that race was discarded as a term in fantasy is that its inaccurate, as its usually used in reference to vastly different species like elves and goblins. Meanwhile, _Deepwoken_ races are all subcategories of the _homo sapiens_ species, meaning that races is actually being used correctly.
 -   The chances of every other aspect will increase once you have already obtained a aspect, as logic would have it.

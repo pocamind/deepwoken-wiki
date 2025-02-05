@@ -1,6 +1,6 @@
 ---
 title: Hive Arbiter
-revid: 134448
+revid: 134547
 source: https://deepwoken.fandom.com/wiki/Hive_Arbiter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -18,7 +18,7 @@ A Hive Arbiters wears a [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit, 
 
 ## Moveset
 
-A Hive Arbiter's arsenal only consists of a [Katana](Katana.md):
+A Hive Arbiter's arsenal consists of a [Katana](Katana.md) and [Flamecharm](Flamecharm.md) Mantras
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

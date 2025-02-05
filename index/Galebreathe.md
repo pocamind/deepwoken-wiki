@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 133698
+revid: 134543
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -42,31 +42,103 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
 ## Mantras
 
-### Combat Mantras
+### Mobility Mantras
 
-| **Media** | **Details** |
-| --- | --- |
 | 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
  |
-| **Name**: Wind Blade (☆☆☆) |
-| **Description**: _Slicing blades of wind._ |
-| **Ether Cost**: 40 Ether |
-| **Damage Type**: Wind |
-| **Effect**: Launch a wind projectile at cursor's position.
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Wind Blade** (☆☆☆)
+
+_Slicing blades of wind._
+
+ | 
+
+## Wind Blade (☆☆☆)
+
+  
+_Slicing blades of wind._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Wind
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Launch a wind projectile at cursor's position.
 
 -   Deals light damage.
--   Can be improved with the "_Tempest Wind" Talent_, a learnable Talent.
--   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
+-   Can be improved with the "_Tempest Wind" Talent_.
 
  |
 | 
 
+**Air Force** (☆☆☆)
+
+_Shoots out an air blast._
+
+ | 
+
+## Air Force (☆☆☆)
+
+  
+_Shoots out an air blast._
+
  |
-| **Name**: Air Force (☆☆☆) |
-| **Description**: _Shoots out an air blast._ |
-| **Ether Cost**: 20 Ether |
-| **Damage Type**: Wind |
-| **Effect**: Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
+| 
+
+20 Ether
+
+ | 
+
+Wind
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
 
 -   Deals light-medium damage.
 -   Pushes people back and dazes them if they collide with something
@@ -81,12 +153,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Tornado Kick** (☆☆☆)
+
+_Slicing blades of wind._
+
+ | 
+
+## Tornado Kick (☆☆☆)
+
+  
+_Slicing blades of wind._
+
  |
-| **Name**: Tornado Kick (☆☆☆) |
-| **Description**: _Slicing blades of wind._ |
-| **Ether Cost**: 50 Ether |
-| **Damage Type**: Wind |
-| **Effect**: Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
+| 
+
+50 Ether
+
+ | 
+
+Wind
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
 
 -   Deals moderate-high damage (If both the initial and follow-up projectiles hit).
 -   Projectile is medium-ranged and explodes on impact.
@@ -95,12 +189,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Gale Lunge** (★☆☆)
+
+_A rush of piercing wind._
+
+ | 
+
+## Gale Lunge (★☆☆)
+
+  
+_A rush of piercing wind._
+
  |
-| **Name**: Gale Lunge (★☆☆) |
-| **Description**: _A rush of piercing wind._ |
-| **Ether Cost**: 40 Ether |
-| **Damage Type**: Wind + Slash |
-| **Effect**: Lunge forward with your weapon coated in wind.
+| 
+
+40 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Lunge forward with your weapon coated in wind.
 
 -   Deals moderate damage.
 -   Can be used as mobility to push the user forward.
@@ -109,12 +225,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Tornado** (★☆☆)
+
+_A rushing current of wind._
+
+ | 
+
+## Tornado (★☆☆)
+
+  
+_A rushing current of wind._
+
  |
-| **Name**: Tornado (★☆☆) |
-| **Description**: _A rushing current of wind._ |
-| **Ether Cost**: 15 Ether |
-| **Damage Type**: Wind |
-| **Effect**: Conjure a small vortex around yourself, M1 to cast it forward.
+| 
+
+15 Ether
+
+ | 
+
+Wind
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Conjure a small vortex around yourself, M1 to cast it forward.
 
 -   Can be modified with logstones to increase duration, but caps at 1 or 2.
 -   Moves forward on its own after 2 seconds.
@@ -126,12 +264,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Heavenly Wind** (★☆☆)
+
+_A strike from the heavens._
+
+ | 
+
+## Heavenly Wind (★☆☆)
+
+  
+_A strike from the heavens._
+
  |
-| **Name**: Heavenly Wind (★☆☆) |
-| **Description**: _A strike from the heavens._ |
-| **Ether Cost**: 50 Ether |
-| **Damage Type**: Wind + Slash |
-| **Effect**: Leap high into the air before diving down, striking any targeted opponent.
+| 
+
+50 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Leap high into the air before diving down, striking any targeted opponent.
 
 -   Deals moderate damage.
 -   User moves towards the cursor.
@@ -140,17 +300,39 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 -   Feinting it leaves the user unable to use gale lunge and heavenly wind. (Needs testing with more mantras to see interaction, it seems like specific mantras only gets this behavior.)
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
 -   If missed, it results in endlag.
--   Can be used in combination with cap artist to ragdoll and fling yourself insanely far.
+-   Can be used in combination with the Cap Artist Talent to ragdoll and fling yourself insanely far.
 
  |
 | 
 
+**Galetrap** (★☆☆)
+
+_Toss a wind landmine._
+
+ | 
+
+## Galetrap (★☆☆)
+
+  
+_Toss a wind landmine._
+
  |
-| **Name**: Galetrap (★☆☆) |
-| **Description**: _Toss a wind landmine._ |
-| **Ether Cost**: 40 Ether |
-| **Damage Type**: Wind |
-| **Effect**: Deploy a small green landmine at your cursor's location.
+| 
+
+40 Ether
+
+ | 
+
+Wind
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Deploy a small green landmine at your cursor's location.
 
 -   Stepping on it creates a tornado that deals light damage over a few seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
@@ -160,12 +342,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Gale Punch** (★☆☆)
+
+_Form a punch of wind in your fist and release it._
+
+ | 
+
+## Gale Punch (★☆☆)
+
+  
+_Form a punch of wind in your fist and release it._
+
  |
-| **Name**: Gale Punch (★☆☆) |
-| **Description**: _Form a punch of wind in your fist and release it._ |
-| **Ether Cost**: 60 Ether |
-| **Damage Type**: Wind + Slash |
-| **Effect**: Conjure a wind AoE punch that deals damage and knocks targets away.
+| 
+
+60 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Conjure a wind AoE punch that deals damage and knocks targets away.
 
 -   Can be modified with _Cloudstones_, _Stratus stones_, _Perfect Lenses_ and _Crystal lenses_ to increase size.
 -   Can break objects.
@@ -174,12 +378,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Wind Forge** (★☆☆)
+
+_Encircle your foes with blades of wind that halt their escape until they respond._
+
+ | 
+
+## Wind Forge (★☆☆)
+
+  
+_Encircle your foes with blades of wind that halt their escape until they respond._
+
  |
-| **Name**: Wind Forge (★☆☆) |
-| **Description**: _Encircle your foes with blades of wind that halt their escape until they respond._ |
-| **Ether Cost**: 60 Ether |
-| **Damage Type**: Wind + Slash |
-| **Effect**: Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
+| 
+
+60 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
 
 -   Projectiles are homing.
 -   Medium-far range.
@@ -190,12 +416,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Twister Kicks** (★☆☆)
+
+_Go forth with spinning kicks infused with the wind_
+
+ | 
+
+## Twister Kicks (★☆☆)
+
+  
+_Go forth with spinning kicks infused with the wind_
+
  |
-| **Name**: Twister Kicks (★☆☆) |
-| **Description**: _Go forth with spinning kicks infused with the wind_ |
-| **Ether Cost**: 40 Ether |
-| **Damage Type**: Wind + Slash |
-| **Effect**: Dash forwards kicking with a rush of winds dealing damage.
+| 
+
+40 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Dash forwards kicking with a rush of winds dealing damage.
 
 -   Deals moderate damage.
 -   Can break objects.
@@ -203,12 +451,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Updraft** (★☆☆)
+
+_A lifting torrent of wind._
+
+ | 
+
+## Updraft (★☆☆)
+
+  
+_A lifting torrent of wind._
+
  |
-| **Name**: Updraft (★☆☆) |
-| **Description**: _A lifting torrent of wind._ |
-| **Ether Cost**: 50 Ether |
-| **Damage Type**: Wind + Slash |
-| **Effect**: Get ready to spin around and then create a burst of wind around you that goes upward
+| 
+
+50 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Get ready to spin around and then create a burst of wind around you that goes upward
 
 -   Deals moderate-high damage.
 -   Sends opponents flying into the air.
@@ -217,12 +487,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Champion's Whirlthrow** (★★☆)
+
+_Grab your target and toss them with the power of gale._
+
+ | 
+
+## Champion's Whirlthrow (★★☆)
+
+  
+_Grab your target and toss them with the power of gale._
+
  |
-| **Name**: Champion's Whirlthrow (★★☆) |
-| **Description**: _Grab your target and toss them with the power of gale._ |
-| **Ether Cost**: 60 Ether |
-| **Damage Type**: Wind + Blunt (initial grab) |
-| **Effect**: Grab your target before spinning them in 360 degrees and then tossing them.
+| 
+
+60 Ether
+
+ | 
+
+Wind + Blunt (initial grab)
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Grab your target before spinning them in 360 degrees and then tossing them.
 
 -   Deals good-high damage.
 -   Forcible Block Break (Only When Upgraded To Level 5).
@@ -235,12 +527,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Rising Wind** (★★☆)
+
+_Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them_
+
+ | 
+
+## Rising Wind (★★☆)
+
+  
+_Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them_
+
  |
-| **Name**: Rising Wind (★★☆) |
-| **Description**: _Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them_ |
-| **Ether Cost**: 60 Ether |
-| **Damage Type**: Wind + Blunt |
-| **Effect**: Ascend while uppercutting your target, rapidly damaging them.
+| 
+
+60 Ether
+
+ | 
+
+Wind + Blunt
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Ascend while uppercutting your target, rapidly damaging them.
 
 -   Blocking it sends only the user into the air but cancels it after a small bit if it doesn't hit anyone after.
 -   At level 5 It deals 12 damage 4 times, for a total of 58 damage.
@@ -258,12 +572,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Wind Gun** (★★☆)
+
+_A powerful wind blast._
+
+ | 
+
+## Wind Gun (★★☆)
+
+  
+_A powerful wind blast._
+
  |
-| **Name**: Wind Gun (★★☆) |
-| **Description**: _A powerful wind blast._ |
-| **Ether Cost**: 40 Ether |
-| **Damage Type**: Wind |
-| **Effect**: Fire a penetrating bullet of wind.
+| 
+
+40 Ether
+
+ | 
+
+Wind
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Fire a penetrating bullet of wind.
 
 -   Deals heavy damage, pushes and ragdolls opponent; however applies no hit stun.
 -   Applies the _"Suffocate"_ status effect.
@@ -274,12 +610,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Wind Carve** (★★☆)
+
+_A quick swirl of sharp winds._
+
+ | 
+
+## Wind Carve (★★☆)
+
+  
+_A quick swirl of sharp winds._
+
  |
-| **Name**: Wind Carve (★★☆) |
-| **Description**: _A quick swirl of sharp winds._ |
-| **Ether Cost**: 40 Ether |
-| **Damage Type**: Wind + Slash |
-| **Effect**: Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
+| 
+
+40 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** **Effect**: Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
 -   Deals light damage over multiple slashes.
@@ -291,12 +649,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Astral Wind** (★★★)
+
+_A rapid delivery of consecutive attacks._
+
+ | 
+
+## Astral Wind (★★★)
+
+  
+_A rapid delivery of consecutive attacks._
+
  |
-| **Name**: Astral Wind (★★★) |
-| **Description**: _A rapid delivery of consecutive attacks._ |
-| **Ether Cost**: 50 Ether |
-| **Damage Type**: Wind + Slash |
-| **Effect**: Cast several fast, wind-enhanced slashes that form a star.
+| 
+
+50 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Cast several fast, wind-enhanced slashes that form a star.
 
 -   Deals _possibly moderate-heavy_ damage.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes but increase the AoE of the slashes slightly.
@@ -305,12 +685,34 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
  |
 | 
 
+**Pillars of Erisia** (★★★)
+
+_Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp._
+
+ | 
+
+## Pillars of Erisia (★★★)
+
+  
+_Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp._
+
  |
-| **Name**: Pillars of Erisia (★★★) |
-| **Description**: _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp._ |
-| **Ether Cost**: 70 Ether |
-| **Damage Type**: Wind + Slash |
-| **Effect**: Raise your right leg and stomp the ground, conjuring up a huge volley of wind.
+| 
+
+70 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Raise your right leg and stomp the ground, conjuring up a huge volley of wind.
 
 -   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   Gives hyperarmor when casting
@@ -320,17 +722,68 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
  |
 
-### Mobility Mantras
+### Support Mantras
 
-| **Media** | **Details** |
-| --- | --- |
 | 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
  |
-| **Name**: Wind Passage (★★★) |
-| **Description**: _A rush of wind_ |
-| **Ether Cost**: 50 Ether |
-| **Damage Type**: Wind + Slash |
-| **Effect**: Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled.
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Wind Passage** (★★★)
+
+_A rush of wind_
+
+ | 
+
+## Wind Passage (★★★)
+
+  
+_A rush of wind_
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled.
 
 -   Does heavy damage
 -   Can be modified with Crystal/Perfect Lenses to increase the distance travelled, making it a very useful tool for horizontal mobility.
@@ -338,26 +791,6 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 -   Can be used to clip through walls while in [The Second Layer](Second_Layer.md)
 -   It's also compatible with Logstones, but the effect is minimal.
     -   Requires more testing.
-
- |
-
-### Support Mantras
-
-| **Media** | **Details** |
-| --- | --- |
-| 
- |
-| **Name**: Gale Wisp (★★☆) |
-| **Description**: _A servant of wind._ |
-| **Ether Cost**: 60 Ether |
-| **Damage Type**: N/A |
-| **Effect**: Spawns a spherical wisp of wind. Requires ritual casting.
-
--   Grants 30% fall damage resistance.
--   Haunted Gale and Haunted Path: Specter require one less perfect casted mantra hit to activate (3 -> 2).
--   Passively increases the Spectral meter bar for Haunted Path: Specter users by a small percent, the regen is greater than the decay.
--   Has 3 charges (which are consumed via taking fall damage). Logstones increase the amount of charge.
-    -   Note using logstones will force you to cast more signs.
 
  |
 
@@ -369,6 +802,75 @@ Below is a list of all Galebreathe exclusive Talents. Hybrid Talents are listed 
 
 These Talents are found in the _Galebreather_ category.  
 _**"I seek the qualities of Galebreathe Master."**_
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Gale Wisp** (★★☆)
+
+_A servant of wind._
+
+ | 
+
+## Gale Wisp (★★☆)
+
+  
+_A servant of wind._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+N/A
+
+ | 
+
+{{{reqs}}}
+
+ |
+| 
+
+**Effect:** Spawns a spherical wisp of wind. Requires ritual casting.
+
+-   Grants 30% fall damage resistance.
+-   Haunted Gale and Haunted Path: Specter require one less perfect casted mantra hit to activate (3 -> 2).
+-   Passively increases the Spectral meter bar for Haunted Path: Specter users by a small percent, the regen is greater than the decay.
+-   Has 3 charges (which are consumed via taking fall damage). Logstones increase the amount of charge.
+    -   Note using logstones will force you to cast more signs.
+
+ |
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -427,8 +929,6 @@ You can now obtain 3-star Galebreathe mantras.
 +5 Health
 
  |
-
-**Aeromancer:**
 
 These Talents are found in the _Aeromancer_ category.  
 _**"I am a master of the winds."**_
@@ -534,8 +1034,6 @@ N/A
 
  |
 
-**Gale Duelist:**
-
 These Talents are found in the _Gale Duelist_ category.  
 _**"My wind fights for me."**_
 
@@ -554,8 +1052,6 @@ Cast Wind Blade while sliding to unleash a quick whirlwind attack.
 Sends user and opponent into the air.
 
  |
-
-**Galeforce:**
 
 These Talents are found in the _Galeforce_ category.  
 _**"I use the winds to enforce my will."**_
@@ -603,8 +1099,6 @@ Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering
 This will stack the [Mantra Modifiers](Mantra_Modifiers.md) that were on the Inhaled mantra onto the next one you cast. Additionally, the next gale mantra you cast after Inhaling will receive a damage buff. This damage buff is (Inhaled mantra's level times 2)%; meaning a level 1 Inhale will be +2% damage while a level 5 Inhale will be +10%. Inhaling will also grant a Speed Boost and will imbue your melees with wind.
 
  |
-
-**Legion Shock Trooper:**
 
 These Talents are found in the _Legion Shock Trooper_ category.  
 _**"I fight for the Legion."**_
@@ -668,8 +1162,6 @@ N/A
 
  |
 
-**Scholar of the Cloud:**
-
 These Talents are found in the _Scholar of the Cloud_ category.  
 _**"I seek the qualities of Scholar of the Cloud."**_
 
@@ -688,8 +1180,6 @@ Call upon a gust of wind to propel your boat even faster.
 N/A
 
  |
-
-**Silencer:**
 
 These Talents are found in the _Silencer_ category.  
 _**"The song shall be silenced."**_
@@ -723,8 +1213,6 @@ Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
 N/A
 
  |
-
-**Specter:**
 
 These Talents are found in the _Specter_ category.  
 _**"I seek the qualities of Specter."**_
@@ -800,8 +1288,6 @@ After an apparition hits an enemy, receive 30% posture damage on all Galebreathe
 N/A
 
  |
-
-**Whisper:**
 
 These Talents are found in the _Whisper_ category.  
 _**"A whisper in the dark."**_

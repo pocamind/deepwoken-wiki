@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 133277
+revid: 134487
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -50,3 +50,4 @@ When obtained, Smokescreen will spend its points on the following stats:
 
 -   This resonance was added alongside [Smite](Smite.md) & [Preservation](Preservation.md) on the September 15th, 2023 update. All of these bells were inspired by AlwaysAFK.
 -   The card description for Smokescreen is the only one ending in an exclamation mark instead of a period.
+-   Using the corrupt variant's teleport will easily teleport the player under the map, which might cause unavoidable deaths.

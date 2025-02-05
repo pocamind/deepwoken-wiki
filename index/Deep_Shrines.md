@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 134414
+revid: 134559
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -26,7 +26,7 @@ categories: [NPCs, Mechanics]
 
 **Shrine of Temptation**: Trade a Mantra of your choice and 5 Knowledge to gain a Whisper Draw.
 
-**Shrine of Blasphemy**: For 5 Knowledge, instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws, Or reroll a Flaw of your choice into another, random Flaw.
+**Shrine of Blasphemy**: For 5 Knowledge, **POWER 1-16** instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws, Or **POWER 17-20** reroll a Flaw of your choice into another, random Flaw.
 
 [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md)
 
@@ -40,7 +40,7 @@ categories: [NPCs, Mechanics]
 
 [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md)
 
-**Shrine of Order**: For 10 Knowledge, balance your stats (up to a limit of -25 points on main stats, with no limit on attunement stats,) but gain a random Flaw. Can only be done once per character. You must need **NO OATH** to use this.
+**Shrine of Order**: For 10 Knowledge, balance your stats (up to a limit of -25 points on main stats, with no limit on attunement stats,) but gain a random Flaw. Can only be done once per character. You must need **POWER 8+ AND** **NO OATH** to use this.
 
 **Shrine of Ostentation**: For 10 Knowledge, transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
 
