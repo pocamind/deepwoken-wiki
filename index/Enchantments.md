@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 134509
+revid: 134620
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -193,7 +193,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Sear<div></div></font></center></td>
   <td><div><p>Weapon gain +5% PEN and apply <b>Cauterize</b> on hit. Cauterized targets:<br>
-  have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 5.65%, MED: 8%, HVY: 10% per hit).<br>
+  have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 5.45%, MED: 8%, HVY: 10% per hit).<br>
   The PEN it gives also counts for mantra damage and bypasses the 50% PEN cap.<sup><a href="#cite-note-1">[1]</a></sup><br>
   Drain thirst equal to 20% of weapon scaled DMG, not affected by DMG mods. (As example 43.77/5 = 8.75 water drain)</p>
   <p><br>

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 133217
+revid: 134621
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -33,7 +33,7 @@ Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a 
 
 Meet the following requirements in any order:
 
--   Be Attunementless
+-   Be attunementless
 -   Have a total of 75 points in Weapons (LHT, MED, HVY all count, you can do 25/25/25, for example)
 -   Have 25 points in Strength
 -   Have 25 points in **either** Charisma or Agility

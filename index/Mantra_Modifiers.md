@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 132229
+revid: 134593
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
@@ -338,7 +338,7 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 
-To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This will return it to your inventory.
+To remove a Deep Gem from your mantra, you need to rest by a campfire, look for the mantra with the Deep Gem in Mantras, and simply press **Unequip**.
 
 <table><caption>There are six type of Deep Gems, including:</caption>
 <tbody>

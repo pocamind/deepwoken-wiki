@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 134582
+revid: 134587
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -480,7 +480,7 @@ Wind + Slash
 
 **Effect:** Get ready to spin around and then create a burst of wind around you that goes upward
 
--   Deals moderate-high damage.
+-   Deals high damage if all hits land.
 -   Sends opponents flying into the air.
 -   Deals 21 posture damage.
 
