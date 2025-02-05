@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 134370
+revid: 134473
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -16,106 +16,71 @@ _**FOREWORD**: **A table visualizing the requirements of every hybrid ability ca
 
 ## Mantras
 
-| **Media** | **Name** | **Card Description** | **Damage Type** | **Ether Cost** | **Effect & info** |
-| --- | --- | --- | --- | --- | --- |
-| 
- | Flashfire Sweep
-
-(★★★)
-
- | Sweep with flames and lightning before following into a devastating
-
+| **Media** | **Details** |
+| --- | --- |
+|  |
+| **Name**: Flashfire Sweep (★★★)  
+**Combat Mantra**, 50 Flamecharm, 50 Thundercall |
+| **Description**: _Sweep with flames and lightning before following into a devastating_
 uppercut.
 
- | 
+ |
+| **Ether Cost**: 30 Ether |
+| **Damage Type**: Lightning (Leg Sweep)  
+Flame + Blunt (Uppercut) |
+| **Effect**: User leg sweeps their opponent and follows up with an uppercut.
 
-Lightning  
-(Leg Sweep)  
-Flame + Blunt  
-(Uppercut)
-
- | 30 Ether | 
-
--   **Requirements: 50 Flamecharm, 50 Thundercall**_**,**_ _Combat Mantra_
-    -   Acts similar to an uppercut launching opponents in the air when landed.
-    -   Deals moderate damage.
-    -   Can apply both Electrified and Burning.
-    -   Compatible with Surge Path, Eruption Path, Wraith Path, and Azure Flames.
+-   Deals moderate damage.
+-   Can apply both Shock and Burning.
+-   Compatible with Surge Path, Eruption Path, Wraith Path, and Azure Flames.
 
  |
-| 
+|  |
+| **Name**: Iron Tether (★★☆)  
+**Combat Mantra**, 30 Ironsing, 30 Thundercall |
+| **Description**: _Summon two cubes tethered by lightning, setting a trap for your enemies._ |
+| **Ether Cost**: 60 Ether |
+| **Damage Type**: Lightning + Metal |
+| **Effect**: User creates a tripwire using their Thundercall and Ironsing.
 
- | Iron Tether
-
-(★★☆)
-
- | Summon two cubes tethered by lightning, setting a trap for your
-
-enemies.
-
- | 
-
-Lightning + Metal
-
- | 60 Ether | 
-
--   **Requirements: 30 Ironsing, 30 Thundercall**_**,**_ _Combat Mantra_
-    -   Deals light damage.
-    -   Can apply Electrified.
-    -   Compatible with Surge Path and Gilded Path.
-    -   Can be modified with [Eternal and Aeon Logstones](Mantra_Modifiers.md) to increase its duration slightly.
-    -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to summon more.
-    -   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md) allowing it to move.
+-   Deals light damage.
+-   Can apply Electrified.
+-   Compatible with Surge Path and Gilded Path.
+-   Can be modified with [Eternal and Aeon Logstones](Mantra_Modifiers.md) to increase its duration slightly.
+-   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to summon more.
+-   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md) allowing it to move.
 
  |
-| 
+|  |
+| **Name**: Permafrost Prison (★★☆)  
+**Combat Mantra**, 30 Frostdraw, 30 Shadowcast |
+| **Description**: _Imprison your enemies with shadows and impale them with pillars._ |
+| **Ether Cost**: 80 Ether |
+| **Damage Type**: Ice + Shadow |
+| **Effect**: Create a black area around your character. Anyone who stands in this AoE will be impaled by pillars from above.
 
- | Permafrost Prison
-
-(★★☆)
-
- | Imprison your enemies with shadows and impale them with pillars
-
-of ice.
-
- | 
-
-Ice + Shadow
-
- | 80 Ether | 
-
--   **Requirements: 30 Frostdraw, 30 Shadowcast**_**,**_ _Combat Mantra_
-    -   Deals moderate damage.
-    -   Inflicts Chill.
-    -   Compatible with [Cloudstones/Stratus Stones](Mantra_Modifiers.md)
-    -   Can be modified with [Magnet Spark](Mantra_Modifiers.md) allowing it to follow the user.
+-   Deals moderate damage.
+-   Inflicts Chill.
+-   Compatible with [Cloudstones/Stratus Stones](Mantra_Modifiers.md) to make the AoE larger.
+-   Can be modified with [Magnet Spark](Mantra_Modifiers.md) allowing it to follow the user.
 
  |
-| 
+|  |
+| **Name**: Tempest Blitz (★★☆)  
+**Mobility Mantra**, 30 Galebreathe, 30 Thundercall |
+| **Description**: _Sprint forward on the winds themselves and deliver a devastating thunder kick._ |
+| **Ether Cost**: 60 Ether |
+| **Damage Type**: Wind + Lightning + Slash |
+| **Effect**: Backstep and hop on the air, quickly closing the distance. When you reach your opponent, perform a powerful radial attack.
 
- | Tempest Blitz
-
-(★★☆)
-
- | Sprint forward on the winds themselves and deliver a devastating thunder
-
-kick.
-
- | 
-
-Wind + Lightning + Slash
-
- | 60 Ether | 
-
--   **Requirements: 30 Thundercall, 30 Galebreathe**_**,**_ _Mobility Mantra_
-    -   Can be feinted to end early.
-    -   Deals light damage.
-    -   Inflicts Electrified.
-    -   Compatible with Surge Path and Specter Path.
+-   Deals light damage.
+-   Can be feinted to end early.
+-   Inflicts Shock and Winded.
+-   Compatible with Surge Path and Specter Path.
 
  |
 
-## **Talents**
+## Talents
 
 **Bloodrend:**
 
@@ -385,8 +350,8 @@ Wind + Lightning + Slash
   <td><center>Wraith Path: Twisted Puppets<br>
   40 Flamecharm<br>
   40 Shadowcast</center></td>
-  <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.</center></td>
-  <td><center>Causing an explosion will buff your puppets, making them move faster and deal slightly more damage.</center></td>
+  <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.</center></td>
+  <td><center>Causing an explosion will buff your puppets, making them move faster and deal 50% more damage.</center></td>
   <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
 </tr>
 <tr>
@@ -780,8 +745,8 @@ Wind + Lightning + Slash
   <td><center>Wraith Path: Twisted Puppets<br>
   40 Flamecharm<br>
   40 Shadowcast</center></td>
-  <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.</center></td>
-  <td><center>Causing an explosion will buff your puppets, making them move faster and deal slightly more damage.</center></td>
+  <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.</center></td>
+  <td><center>Causing an explosion will buff your puppets, making them move faster and deal 50% more damage.</center></td>
   <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
 </tr>
 <tr>

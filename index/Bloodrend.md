@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 133833
+revid: 134477
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -122,6 +122,7 @@ Bloodrend currently has a total of 17 mantras.
 -   Knockdowns the enemy on hit.
 -   This attack apparently has 2 hits.
 -   At level 5 the initial slamdown deals 70 damage followed by a small tick of 10 damage.
+-   Feiting this mantra leaves you in the air, but does not restore its cooldown.
 
  |
 | 
@@ -186,6 +187,7 @@ Ether
  | Grab and siphon blood out of your victim. | 50 Ether | Blood | Dash forward with a blood-infused fist before lifting any and all target(s) in its way whilst causing the target(s) to implode with blood.
 
 -   At level 5 this mantra deals 50 damage.
+-   Deals about 11 posture damage.
 
  |
 | 
@@ -220,6 +222,7 @@ Ether
  | Slash upwards and launch slashes of blood. | 30 Ether | Blood | Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground.
 
 -   At level 5 and if all the blood slashes land, this mantra deals 60 damage.
+-   Deals about 15 posture.
 
  |
 | 
@@ -247,6 +250,8 @@ Ether
 
 -   Can be modified with a Multiplying Spark, triggering in 2 bursts and stunning the target for a bit longer.
 -   At level 5 and if all the ticks of damage landed (can be vented) this mantra deals 70 damage.
+-   Deals about 11 posture damage.
+-   Switches targets when it cannot hit the previous one.
 
  |
 
@@ -279,6 +284,7 @@ Ether
 -   Leveling up this mantra will increase its range.
 -   At level 5: The fist hit deals 20 damage and the second hit, the dropkick deals 35 damage.
 -   Can be modified by crystal/perfect lenses to increase its range.
+-   Totals a bit more than 10 posture damage.
 
  |
 
@@ -827,10 +833,8 @@ N/A
 
  |
 
-## Tips/Trivia
+## Trivia
 
--   Temporary health acts like a second healthbar that takes damage before your normal healthbar does. Temporary health decays over time and is used or consumed by certain Bloodrend talents.
-    -   Some things bypass temporary health and deal damage to your normal healthbar regardless. Some examples would be Viscosity, the Bloodrend Talent Rush Hour, and the Poison (hp drain) [Corrupted Bell](Resonance.md#corrupted-resonances) downside.
 -   Blood Poison is a stacking effect that is applied on the blood bar. **It does not replace blood**, simply overlay itself on top of it.
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
     -   20% - _**Vasculitis**_ Talent is Activatable
@@ -848,11 +852,7 @@ N/A
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in Vyrelda's dialogue, which is special.
 -   While not an actual element like Fire or Iron, Bloodrend can be resisted by Elemental Resist.
 -   Attempting to complete [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstar](Heartstar.md)[s](Heartstar.md) are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
-
-**References**
-
 -   Sanguine Dive is a reference to Vladimir's W ability in League of Legends.
--   Scarlet Cyclone is possibly a reference to Gyutaro's Rotating Circular Slashes technique from Demon Slayer: Kimetsu no Yaiba.
 -   Bloodtide Ritual may be a reference to Mohg, Lord of Blood's phase transition move "Bloodboon Ritual" from Elden Ring.
 -   Bloodedge could possibly a reference to Ragna The Bloodedge; both in his name and his ability to conjure a scythe of blood; from the Blazblue series.
 -   Veinbreaker is likely a reference to Slayer's "Mappa hunch" in Guilty Gear Strive.

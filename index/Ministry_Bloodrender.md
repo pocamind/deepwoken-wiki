@@ -1,6 +1,6 @@
 ---
 title: Ministry Bloodrender
-revid: 128622
+revid: 134441
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,9 +23,9 @@ A Ministry Bloodrender uses Bloodrend mantras and Krulian Knives.
 | --- | --- | --- | --- | --- | --- |
 | **Assault** | The cultist swings it's dagger before flourishing the opponent away with a spin | ◯ | ◯ | ◯ | (★☆☆) |
 | **Critical** | The cultist enters a stance before unleashing a flurry of slashes. | ◯ | ◯ | ◯ | (★★☆) |
-| **Crucifixion** | The cultist conjures a cross, ragdolling and throwing enemies back. | ? | ◯ | ◯ | (★☆☆) |
-| **Scarlet Cyclone** | The cultist conjures a tornado of blood where they're facing and sends it out. | ? | ◯ | ◯ | (★★☆) |
-| **Razor Blitz** | The cultist creates a scythe out of their own blood and swings it. | ? | ◯ | ◯ | (★★★) |
+| **Crucifixion** | The cultist conjures a cross, ragdolling and throwing enemies back. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Scarlet Cyclone** | The cultist conjures a tornado of blood where they're facing and sends it out. | ◯ | ◯ | ◯ | (★★☆) |
+| **Razor Blitz** | The cultist creates a scythe out of their own blood and swings it. | ◯ | ◯ | ◯ | (★★★) |
 
 ## Trivia
 

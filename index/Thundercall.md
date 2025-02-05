@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 133829
+revid: 134442
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -52,7 +52,7 @@ The Attunement can be unlocked by using a [Sparkblood Potion](Attunement_Potions
 Lightning Blade  
 (☆☆☆)
 
- | Arcing blades of electricity. | 50 Ether | Lightning | Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through target(s).
+ | Arcing blades of electricity. | 50 Ether | Lightning + Slash | Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through target(s).
 
 -   Deals moderate damage.
 -   10 Second Cooldown.
@@ -102,7 +102,7 @@ Lightning Beam
 Electro Carve  
 (★☆☆)
 
- | Produce a highly potent field of electromagnetism, shocking all inside. | 10 Ether | Lightning | Conjure a shocking orb at the end of weapon, dealing rapid damage.
+ | Produce a highly potent field of electromagnetism, shocking all inside. | 10 Ether | Lightning + Slash | Conjure a shocking orb at the end of weapon, dealing rapid damage.
 
 -   Deals light damage; moderate if not parried.
 -   Projectile moves along where the character is facing.
@@ -121,7 +121,7 @@ Electro Carve
 Fleeting Sparks  
 (★☆☆)
 
- | Call forth motes of electricity that seek out your foes. | 60 Ether | Lightning | Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s).
+ | Call forth motes of electricity that seek out your foes. | 60 Ether | Lightning + Slash | Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s).
 
   
 
@@ -360,7 +360,7 @@ Spark Swap
 Lightning Assault  
 (★★☆)
 
- | A rush of lightning. | 60 Ether | Lightning | The character sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting target(s) as they pass.
+ | A rush of lightning. | 60 Ether | Lightning + Slash | The character sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting target(s) as they pass.
 
 -   Deals moderate damage.
 -   10 Second Cooldown.

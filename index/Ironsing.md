@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 133838
+revid: 134445
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -107,7 +107,7 @@ Ether
 
 (★★☆)
 
- | Unleash a rain of metal rods down below. | 50 Ether | Metal | Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly.
+ | Unleash a rain of metal rods down below. | 50 Ether | Metal + Slash | Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly.
 
 -   Deals 153 DMG at 5 lvl, 3 posture per hit (if everything lands),
 -   1.35s wind up, 20s CD, 3.3s CD
@@ -143,13 +143,7 @@ Ether
 
 (★★☆)
 
- | Create a firing line of metal to light up your target. | 40 Ether | Metal
-
-  
-
-(Blast spark)
-
- | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
+ | Create a firing line of metal to light up your target. | 40 Ether | Metal + Bleed + Blunt (Blast spark) | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
 
 -   Deals 145 dmg at 5 lvl non spark
 -   62 dmg at 5 lvl with Blast spark
@@ -167,7 +161,7 @@ Ether
 
 (★★☆)
 
- | Conjure metal swords and rush forward with them | 50 Ether | Metal + Slash | Conjure a vortex of blades before rushing forward, dealing moderate damage.
+ | Conjure metal swords and rush forward with them | 50 Ether | Metal + Slash + Bleed | Conjure a vortex of blades before rushing forward, dealing moderate damage.
 
 -   Rapid-hitting mantra.
 -   Deals 103 dmg at 5 lvl, 10 posture total.
@@ -286,7 +280,7 @@ Ether
 
 (☆☆☆)
 
- | Summon a large metal pillar | 50 Ether | Metal + Bleed | Form a pillar from below, causing the character to ascend upwards as the pillar forms.
+ | Summon a large metal pillar | 50 Ether | Metal + Blunt | Form a pillar from below, causing the character to ascend upwards as the pillar forms.
 
 -   Deals 40 DMG at 5 lvl, lasts 9s. 13s CD
 -   1.5s Windup
@@ -906,7 +900,6 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an Oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
     -   Gold gives a 10% damage buff and a gold particle effect. DMG buff applies only to m1, not to any of mantras (Lasts 25 sec)
     -   Using Irithine gives a green particle effect. Effects unknown.
-    -   ̶U̶s̶i̶n̶g̶ ̶E̶r̶i̶s̶o̶r̶e̶ ̶g̶i̶v̶e̶s̶ ̶a̶ ̶b̶l̶u̶e̶ ̶p̶a̶r̶t̶i̶c̶l̶e̶ ̶e̶f̶f̶e̶c̶t̶.̶ ̶E̶f̶f̶e̶c̶t̶s̶ ̶u̶n̶k̶n̶o̶w̶n̶.̶ (Bugged rn, you cant use it)
 -   Similarly to every other Wisp mantra, **Metal Wisp** gives the player a finger on the hand that casts the mantra.
 -   Ferrofluid, the item required to train Ironsing, is an actual real-life fluid attracted to magnetic forces, created by suspending iron or other magnetically-affected particles in a solution, usually oil.
 -   Caltrops in real life are small, spiked weapons originally used as early as the Roman times to be used against men and horses. Later versions of Caltrops were used in the second world war to deflate tires of automobiles.

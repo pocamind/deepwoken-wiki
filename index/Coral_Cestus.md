@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 132619
+revid: 134437
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists]
@@ -48,3 +48,4 @@ The Broodalloy Cestus critical has the same animation with a new visual and soun
 -   The upper front of the fist resembles a brass knuckle, or a knuckle duster.
 -   The crit can be easily cancelled, even being able to be countered with a single m1, so it's wise to only use the crit when your enemy is under pressure.
 -   This is the second weapon to change descriptions when alloyed
+-   Currently the only cestus that can be alloyed

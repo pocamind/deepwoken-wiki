@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 134423
+revid: 134476
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -280,6 +280,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Generally dangerous to use without Immolation's self damage reduction.
     -   7 second cooldown if you clear the flames by using the tool again, no cooldown (excluding burn immunity) if Flame Within naturally ends.
     -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
+        -   Because Flame Within's mobility buff is a flat increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain mantras like [Arc Suit](Oath%253A_Arcwarder.md#abilities) or [Iron Skin](Ironsing.md#support-mantras).
     -   The damage buff applies to Mantras.
     -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
     -   The old Last Laugh Talent has been merged into Flame Within.
@@ -2213,6 +2214,7 @@ _**"My cure is most effective."**_
 -   _**Will o' Wisp**_ \[Advanced Talent, Attunement Exclusive\] - Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your wisps, allowing any number of Wisps to be active at a time. (+1 Wisp Mantra slot)
     -   Allows the player to summon one of each Wisp at the same time.
     -   Prerequisites: Attunement Wisp mantra, 25 Element
+    -   A possible refrence to Dofus, with " Will o' The Wisp "
 
 ### Saint of Blades
 
@@ -2869,7 +2871,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Grants +4% M1 damage and a speed boost per Puppet for 6s. Caps off at +12% Damage.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame
 
--   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.
+-   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
 -   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames.
@@ -2878,6 +2880,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
     -   Turns [Hero Blade of Flame](Hero_Blades.md), [Ysley's Pyre Keeper "Callow & Verdant"](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Blazing](Enchantments.md), and [Railblade's](Railblade.md) criticals and all flame mantras black.
     -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead; burn from shadow mantras deal slightly less damage than base burn and doesn't spawn puppets.
+    -   Puppets have a 4 second cooldown between spawns.
     -   Flame Within deals less self damage, but drains ether.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
     -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames

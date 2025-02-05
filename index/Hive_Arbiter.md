@@ -1,6 +1,6 @@
 ---
 title: Hive Arbiter
-revid: 134433
+revid: 134448
 source: https://deepwoken.fandom.com/wiki/Hive_Arbiter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -54,4 +54,4 @@ A Hive Arbiter executes it's opponent after knocking them:
 ## Trivia
 
 -   Very rare to come across as they only spawn to hunt player with low Hive reputation, as well as the fact that they are not guaranteed to spawn because sometimes only Constructs spawn.
-    -   They also spawn when the Talent "Bodyguard Detail" is procced.
+    -   They also used to spawn when the now removed Talent "Bodyguard Detail" was procced.

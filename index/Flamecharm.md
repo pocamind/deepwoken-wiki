@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 133781
+revid: 134474
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1210,7 +1210,7 @@ Explosive Rage
 
  | 
 
-Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage.
+Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.
 
  | 
 

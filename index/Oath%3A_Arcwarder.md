@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 133544
+revid: 134439
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -96,7 +96,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   Can apply both Shock and Burning, or its Path alternate variants.
         -   Scales with both Flamecharm and Thundercall.
         -   Obtained alongside Guard.
-        -   Landing this mantra removes 50% of current posture
+        -   Landing this Mantra while in Arc Suit removes 50% of current posture.
 
 -   **Arc Beam** **★★★ - Combat Mantra**
     -   Fire plasma energy. Deals additional damage in PvE.

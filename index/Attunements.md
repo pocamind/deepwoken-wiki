@@ -1,9 +1,9 @@
 ---
 title: Attunements
-revid: 134079
+revid: 134454
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Mantras, Mechanics]
+categories: [Character, Mantras, Mechanics]
 ---
 
 # Attunements
@@ -140,14 +140,6 @@ All of the icons above are undoubtedly official representations of their base at
 ### Non-Path Talents
 
 [Flamecharm](Flamecharm.md)
-
-[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-  
-
-### Non-Path Hybrid Talents
-
-Flamecharm
 
 [Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
