@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 134543
+revid: 134582
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -42,7 +42,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
 ## Mantras
 
-### Mobility Mantras
+### Combat Mantras
 
 | 
 **Name**
@@ -98,7 +98,7 @@ Wind
 
  | 
 
-{{{reqs}}}
+1 Galebreathe
 
  |
 | 
@@ -133,7 +133,7 @@ Wind
 
  | 
 
-{{{reqs}}}
+1 Galebreathe
 
  |
 | 
@@ -175,7 +175,7 @@ Wind
 
  | 
 
-{{{reqs}}}
+1 Galebreathe
 
  |
 | 
@@ -211,7 +211,7 @@ Wind + Slash
 
  | 
 
-{{{reqs}}}
+20 Galebreathe
 
  |
 | 
@@ -247,7 +247,7 @@ Wind
 
  | 
 
-{{{reqs}}}
+20 Galebreathe
 
  |
 | 
@@ -286,7 +286,7 @@ Wind + Slash
 
  | 
 
-{{{reqs}}}
+20 Galebreathe
 
  |
 | 
@@ -327,7 +327,7 @@ Wind
 
  | 
 
-{{{reqs}}}
+20 Galebreathe
 
  |
 | 
@@ -364,7 +364,7 @@ Wind + Slash
 
  | 
 
-{{{reqs}}}
+20 Galebreathe
 
  |
 | 
@@ -400,7 +400,7 @@ Wind + Slash
 
  | 
 
-{{{reqs}}}
+20 Galebreathe
 
  |
 | 
@@ -438,7 +438,7 @@ Wind + Slash
 
  | 
 
-{{{reqs}}}
+20 Galebreathe
 
  |
 | 
@@ -473,7 +473,7 @@ Wind + Slash
 
  | 
 
-{{{reqs}}}
+20 Galebreathe
 
  |
 | 
@@ -509,7 +509,7 @@ Wind + Blunt (initial grab)
 
  | 
 
-{{{reqs}}}
+30 Galebreathe
 
  |
 | 
@@ -549,7 +549,7 @@ Wind + Blunt
 
  | 
 
-{{{reqs}}}
+30 Galebreathe
 
  |
 | 
@@ -594,7 +594,7 @@ Wind
 
  | 
 
-{{{reqs}}}
+30 Galebreathe
 
  |
 | 
@@ -632,7 +632,7 @@ Wind + Slash
 
  | 
 
-{{{reqs}}}
+30 Galebreathe
 
  |
 | 
@@ -671,7 +671,7 @@ Wind + Slash
 
  | 
 
-{{{reqs}}}
+50 Galebreathe
 
  |
 | 
@@ -707,7 +707,7 @@ Wind + Slash
 
  | 
 
-{{{reqs}}}
+50 Galebreathe, Defeated [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  |
 | 
@@ -722,7 +722,7 @@ Wind + Slash
 
  |
 
-### Support Mantras
+### Mobility Mantras
 
 | 
 **Name**
@@ -778,7 +778,7 @@ Wind + Slash
 
  | 
 
-{{{reqs}}}
+50 Galebreathe
 
  |
 | 
@@ -794,14 +794,7 @@ Wind + Slash
 
  |
 
-## Talents
-
-Below is a list of all Galebreathe exclusive Talents. Hybrid Talents are listed [here](Hybrid_Abilities.md#galebreathe).
-
-**Galebreather:**
-
-These Talents are found in the _Galebreather_ category.  
-_**"I seek the qualities of Galebreathe Master."**_
+### Support Mantras
 
 | 
 **Name**
@@ -857,7 +850,7 @@ N/A
 
  | 
 
-{{{reqs}}}
+30 Galebreathe
 
  |
 | 
@@ -871,6 +864,15 @@ N/A
     -   Note using logstones will force you to cast more signs.
 
  |
+
+## Talents
+
+Below is a list of all Galebreathe exclusive Talents. Hybrid Talents are listed [here](Hybrid_Abilities.md#galebreathe).
+
+**Galebreather:**
+
+These Talents are found in the _Galebreather_ category.  
+_**"I seek the qualities of Galebreathe Master."**_
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -929,6 +931,8 @@ You can now obtain 3-star Galebreathe mantras.
 +5 Health
 
  |
+
+**Aeromancer:**
 
 These Talents are found in the _Aeromancer_ category.  
 _**"I am a master of the winds."**_
@@ -1034,6 +1038,8 @@ N/A
 
  |
 
+**Gale Duelist:**
+
 These Talents are found in the _Gale Duelist_ category.  
 _**"My wind fights for me."**_
 
@@ -1052,6 +1058,8 @@ Cast Wind Blade while sliding to unleash a quick whirlwind attack.
 Sends user and opponent into the air.
 
  |
+
+**Galeforce:**
 
 These Talents are found in the _Galeforce_ category.  
 _**"I use the winds to enforce my will."**_
@@ -1099,6 +1107,8 @@ Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering
 This will stack the [Mantra Modifiers](Mantra_Modifiers.md) that were on the Inhaled mantra onto the next one you cast. Additionally, the next gale mantra you cast after Inhaling will receive a damage buff. This damage buff is (Inhaled mantra's level times 2)%; meaning a level 1 Inhale will be +2% damage while a level 5 Inhale will be +10%. Inhaling will also grant a Speed Boost and will imbue your melees with wind.
 
  |
+
+**Legion Shock Trooper:**
 
 These Talents are found in the _Legion Shock Trooper_ category.  
 _**"I fight for the Legion."**_
@@ -1162,6 +1172,8 @@ N/A
 
  |
 
+**Scholar of the Cloud:**
+
 These Talents are found in the _Scholar of the Cloud_ category.  
 _**"I seek the qualities of Scholar of the Cloud."**_
 
@@ -1180,6 +1192,8 @@ Call upon a gust of wind to propel your boat even faster.
 N/A
 
  |
+
+**Silencer:**
 
 These Talents are found in the _Silencer_ category.  
 _**"The song shall be silenced."**_
@@ -1213,6 +1227,8 @@ Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
 N/A
 
  |
+
+**Specter:**
 
 These Talents are found in the _Specter_ category.  
 _**"I seek the qualities of Specter."**_
@@ -1289,6 +1305,8 @@ N/A
 
  |
 
+**Whisper:**
+
 These Talents are found in the _Whisper_ category.  
 _**"A whisper in the dark."**_
 
@@ -1317,12 +1335,10 @@ N/A
 -   Light Green Mudskippers are able to use a buffed version of the **Air Force** mantra, with greater knockback.
 -   Arch\_mage stated that Galebreathe is "**least me**" out of all the elements.
     
-    To cast the _"Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI. Like any other wisp in the game.
 -   The _"Wind Step"_ Talent can be used by other players for a short period after being placed.
 -   The _"Gale Leap"_ Talent requires cliffs of certain height. Strangely, the Talent will not proc if used too close to the edge, requiring the user to jump earlier than expected.
 -   The \[Q\] key activates Gale Dash.
 -   For some bizarre reason, Heavenly Wind has been referred to as Heavenly Strike multiple times in the update logs.
--   Similarly to every other Wisp mantra, **Gale Wisp** gives the player a finger on the hand that casts the mantra
 -   Jumping before activating the _"Tempest Wind"_ Talent will propel the user forward by a few studs while releasing a sound cue.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale, you know you're doing it right when you hear an inhale sound.
