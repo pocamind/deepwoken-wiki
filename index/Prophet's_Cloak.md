@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 134338
+revid: 134763
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, The Ministry]
@@ -40,7 +40,7 @@ This Outfit's Schematic can be found in:
 
 ## Trivia
 
--   Worn by all [Ministry](The_Ministry.md) [NPCs](Ministry_Scout.md).
+-   Worn by most [Ministry](The_Ministry.md) [NPCs](Ministry_Scout.md).
 -   Shirt ID: [https://www.roblox.com/catalog/5049282750/Dark-Mage](https://www.roblox.com/catalog/5049282750/Dark-Mage)
 -   Pants ID: [https://www.roblox.com/catalog/5049284828/Dark-Mage-Pants](https://www.roblox.com/catalog/5049284828/Dark-Mage-Pants)
 -   Shares the same requirements with [Celtorian Tideknight](Celtorian_Tideknight.md)

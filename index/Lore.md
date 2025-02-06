@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 134756
+revid: 134765
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -2056,7 +2056,7 @@ Though technically a blank slate of varying aspects and abilities, even the play
 
 **Lore Sources:** _Nimea and Klaris._
 
--   Individuals born with the Gift; a Regalia that grants them the ability to radiate 'Light' within their very own soul by altering their Murmur. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing.
+-   Individuals born with the Gift; a Regalia that grants them the ability to radiate 'Light' within their very own soul by altering their Murmur. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and ability to use Attunements.
     -   Lightkeep draws from a verse of the Song called the Radiant Tones.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role as a Lightkeeper.
 -   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving the latter complete control over movement between Luminants.[\[2\]](#cite-note-arch-2)
