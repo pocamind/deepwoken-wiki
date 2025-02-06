@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 134587
+revid: 134769
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -637,7 +637,7 @@ Wind + Slash
  |
 | 
 
-**Effect:** **Effect**: Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
+**Effect:** Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
 -   Deals light damage over multiple slashes.

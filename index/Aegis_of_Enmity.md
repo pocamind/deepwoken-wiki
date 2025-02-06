@@ -1,6 +1,6 @@
 ---
 title: Aegis of Enmity
-revid: 133335
+revid: 134785
 source: https://deepwoken.fandom.com/wiki/Aegis_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 100 |
 | requirements | PWR 15, 10 FTD |
 | weight | 1 |
-| innate stats | +5 Health, +1 Posture+2 Legendary |
+| innate stats | +5 Health, +1 Posture+2 Legendary pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
