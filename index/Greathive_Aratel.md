@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 134046
+revid: 134716
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -129,7 +129,7 @@ The most powerful being in the universe rules over his subjects
 #### Observatory
 
 -   Players can find the Celestial Telescope here.
--   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FIR), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for.
+-   Players can buy a [Tourniquet](Training_Gear.md#attunement-training-gears) (BLD), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for.
 
 #### Balconies
 
