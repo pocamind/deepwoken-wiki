@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 134620
+revid: 134761
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -83,8 +83,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze (Putting the Talent on cd too), negating all movement (7 second cooldown).<br>
-  Apply a 0.4 second chill effect (without Crystal) or one crystal (Crystal).</p></div></td>
+  <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze and Chill. (Putting the Talent on cd too), negating all movement (7 second cooldown).<br>
+  Deals Frost dmg on hit (normal frostdraw) or one crystal (Crystal).</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Providence's Thorns<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
   PVP: parrying 3 attacks within 7 seconds deals damage to the attacker after a delay.<br>
-  Deal 4% HP damage, ignores all resistances.<br>
+  Deal 4% HP damage, ignores all resistances(Accept Of Heart Of Enmity).<br>
   PVE Scale: 35% from parried damage x ()userpower in PVE.<br>
   Damage capped at <b>500</b><br>
   Effect is parriable.</p></div></td>
