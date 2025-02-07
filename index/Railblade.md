@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 134697
+revid: 134905
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords]
@@ -29,7 +29,7 @@ categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatsw
 
 ## Description
 
-The **Railblade** is a [Legendary Greatsword](Weapons.md) obtained exclusively from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest at an uncommon-rare rate. The Railblade requires 80 HVY and Power 10 to equip. This weapon deals 35.7 damage at 100 Heavy, and with 6 proficiency and three-star damage, it deals 43.5.
+The **Railblade** is a [Greatsword](Weapons.md) obtained exclusively from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest at an uncommon-rare rate. The Railblade requires 80 HVY and Power 10 to equip. This weapon deals 35.7 damage at 100 Heavy, and with 6 proficiency and three-star damage, it deals 43.5.
 
 ## Critical
 

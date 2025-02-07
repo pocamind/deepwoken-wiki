@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 133449
+revid: 134908
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1801,6 +1801,7 @@ Listed below are all flairs available currently in-game.
 
 ## Trivia
 
+-   Naming yourself "Abel Juno" will give you a 200% PvE dmg boost.
 -   The name "Meliodas" is a reference to [Seven Deadly Sins](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas).
 -   The names "Edward" and "Alphonse" are references to the anime and manga series [Fullmetal Alchemist](https://fma.fandom.com/wiki/Main_Page).
 -   The name Adolin was removed due to its similarity with [a certain Austrian painter in the 1940s](https://en.wikipedia.org/wiki/Adolf_Hitler).

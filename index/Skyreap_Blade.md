@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 133274
+revid: 134895
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Event Item, Hallowtide]
@@ -28,7 +28,7 @@ categories: [Weapons, Greataxes, Event Item, Hallowtide]
 
 ## Description
 
-The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to [Glaive Spellhardt](Glaive_Spellhardt.md). It is one of, if not the fastest Greataxe type weapon in the game, bridging the gap between Medium and Heavy Weapons like Rapiers bridge the gap between Light and Medium weapons. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell. Only obtainable during [Hallowtide](Hallowtide.md).
+The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to [Glaive Spellhardt](Glaive_Spellhardt.md). It is the second fastest Greataxe type weapons in the game, bridging the gap between Medium and Heavy Weapons like Rapiers bridge the gap between Light and Medium weapons. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell. Only obtainable during [Hallowtide](Hallowtide.md).
 
 ## Trivia
 
@@ -38,3 +38,5 @@ The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It i
 -   At max HVY, the damage is (35.1)
 -   Skyreap Blade was previously the only weapon that had a unique running attack animation until the [Imperial Staff](Imperial_Staff.md) was added.
 -   Gripping most humanoids (if not all) will place a grave and make a Taco Bell sound effect.
+-   This weapon is really cool, but unfortunately sucks.
+-   The third fastest swinging heavy weapon in the game 2nd being the [**Ysley's Pyre Keeper**](<Ysley's_Pyre_Keeper.md>) 1st being the [**Quartzstone Pickaxe**](Quartztone_Pickaxe.md)

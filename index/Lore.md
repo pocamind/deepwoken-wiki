@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 134765
+revid: 134907
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -23,7 +23,7 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 
 **DISCLAIMER:** Contributors of this page may input misinformation about lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is based on the game and the developers themselves (Arch\_Mage, Naktigonis, ragoozer, etc.).
 
-  
+ihateniggers
 
 ## Figures
 

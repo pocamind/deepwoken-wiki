@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 134762
+revid: 134903
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -37,3 +37,4 @@ Rifles feature an attack string composed of 5 attacks (instead of the usual 4 fo
 -   Meeting the requirement of MED, the damage is (20.1)
 -   At max MED, the damage is (24.7) and (27.6) with 6 proficiency.
     -   This means that at its maximum damage it falls short of the blunderbuss with no proficiency at 75 med by 0.3 damage.
+-   Generally speaking, the fastest way to get this weapon is through The Depths.

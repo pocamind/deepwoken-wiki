@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 134854
+revid: 134898
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -320,12 +320,12 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   After hitting a target (Rapier/Guns: 3, LHT: 6, MED: 3, HVY: 3)times they explode,<br>
   Apply <font>Flames of Life</font> and Temporary Health to them and others around beside the user.<br>
   The damage of explosion and amount of Temporary Health are randomized,<br>
-  Minimum Damage is always more than <font>Detonation</font>'s explosion damage.<br>
+  But the minimum Damage is always more than <font>Detonation</font>'s explosion damage.<br>
   Similar to <a href="Ysley's_Pyre_Keeper.md">Ysley's Pyre Keeper</a>'s <font>Flames of Life</font>,<br>
   It slows the target's mobility.<br>
   <b>Explosions cannot execute.</b><br>
   <br>
-  Can be obtained via an enchant stone dropped by a <a href="Hive_Construct.md">Golem Constructs</a>, drop from the chests after defeating <a href="Primadon,_Titan_of_the_East.md">Primadon</a>.It also can be obtained by helping out Authority Commander during the <a href="https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2">Authority Commander vs Hive Mech</a>.</p></div></td>
+  Can be obtained via an enchant stone dropped by a <a href="Hive_Construct.md">Hive Construct</a>, drop from the chests after defeating <a href="Primadon,_Titan_of_the_East.md">Primadon</a>.It also can be obtained by helping out Authority Commander during the <a href="https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2">Authority Commander vs Hive Mech</a>.</p></div></td>
   <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
 </tr>
 <tr>

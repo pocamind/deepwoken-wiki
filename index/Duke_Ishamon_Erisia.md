@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 133678
+revid: 134881
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -8,7 +8,7 @@ categories: [Enemies, NPCs, Bosses]
 
 # Duke Ishamon Erisia
 
-“ Vermin! You seek to let Celtor repeat? ”
+“ Mom, get out of my room, I'm playing Fortnite! ”
 
 ― Duke Erisia
 

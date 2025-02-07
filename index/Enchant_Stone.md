@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 134026
+revid: 134899
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -34,7 +34,7 @@ There are multiple ways to obtain an Enchant Stone, the usual and best source be
 -   Chance to obtain from a chest in [Saramaed Hollow](Saramaed_Hollow.md).
 -   Chance to obtain from a chest in [War Mode](War_Mode.md).
 
-The Astral Enchant Stone is unique in that it can only be obtained through the [Weird Trader](Weird_Trader.md) or as a drop from [Star Knights](Star_Knight.md) or [Moon Knights](Moon_Knight.md).
+The Astral Enchant Stone is unique in that it can only be obtained through the [Weird Trader](Weird_Trader.md) or as a drop from [Star Knights](Star_Knight.md) or [Moon Knights](Moon_Knight.md), and The Curse of Rhaemen's Ember Enchant Stone can only be obtained by defeating [Hive Constructs](Hive_Construct.md), drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md),or helping out Authority Commander during the [Authority Commander vs Hive Mech](https://deepwoken.fandom.com/wiki/Random_Encounters#Fight_between_Factions_2).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 120705
+revid: 134885
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -15,7 +15,7 @@ categories: [NPCs, Hallowtide]
 
 ## Description
 
-Glaive is a male [Lightborn](Lightborn.md) located in the Upper Hall/Second Floor of [The Floating Keep](The_Floating_Keep.md). He sells you various [Hallowtide](Hallowtide.md)\-related items for [Joy](Joy.md), though they are usually all combat-related.
+Glaive is a female [Lightborn](Lightborn.md) located in the Upper Hall/Second Floor of [The Floating Keep](The_Floating_Keep.md). She sells you various [Hallowtide](Hallowtide.md)\-related items for [Joy](Joy.md), though they are usually all combat-related.
 
 Here are all the possible options that you can buy from **Glaive Spellhardt**:
 
@@ -153,3 +153,4 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
 ## Trivia
 
 -   Glaive says the same dialogue when you succeed in buying anything.
+-   Glaive is female
