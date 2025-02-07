@@ -1,12 +1,14 @@
 ---
 title: Relics
-revid: 133984
+revid: 134870
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
 ---
 
 # Relics
+
+_**FOREWORD**: **An up-to-date spreadsheet with drop locations for all Relics can be found [\[here\]](https://docs.google.com/spreadsheets/d/1gRiACBmfImek5k7PyVQ2ixDm5or5T20hecZ6fS6KLW4/edit?usp=sharing)**_
 
 “ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed. ”
 
@@ -72,6 +74,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  |
 
@@ -99,6 +102,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Hollow Forge](Hollow_Forge.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  |
 | 
@@ -138,6 +142,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  |
 | 
@@ -182,6 +187,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   Crafting
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  |
 | 
@@ -193,6 +199,7 @@ It grants the user +50 knowledge on subsequent uses.
  | 
 
 -   Crafting
+-   [Carnival of Hearts](Carnival_of_Hearts.md)
 
  |
 | 
@@ -346,6 +353,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
     <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
     <li><a href="Star_Knight.md">Star</a> or <a href="Moon_Knight.md">Moon Knights</a> (Astral only)</li>
+    <li><a href="Primadon,_Titan_of_the_East.md">Primadon</a> or <a href="Hive_Construct.md">Hive Constructs</a> (Curse of Rhaemen's Ember only)</li>
     <li><a href="War_Mode.md">War Mode</a></li>
     <li><a href="Hell_Mode.md">Hell Mode</a></li>
   </ul></td>

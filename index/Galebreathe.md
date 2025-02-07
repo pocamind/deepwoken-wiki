@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 134769
+revid: 134847
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -106,7 +106,7 @@ Wind
 **Effect:** Launch a wind projectile at cursor's position.
 
 -   Deals light damage.
--   Can be improved with the "_Tempest Wind" Talent_.
+-   Can be improved with the "**Tempest Wind**" Talent_._
 
  |
 | 

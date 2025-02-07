@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 133671
+revid: 134855
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics]
@@ -21,7 +21,7 @@ categories: [Necklaces, Torso, Equipment, Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, Scion of Ethiron, Heart of Enmity |
+| obtainment | Duke Erisia, Scion of Ethiron |
 | description | "..." |
 
 ## Description

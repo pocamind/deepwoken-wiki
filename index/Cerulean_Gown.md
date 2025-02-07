@@ -1,6 +1,6 @@
 ---
 title: Cerulean Gown
-revid: 133062
+revid: 134841
 source: https://deepwoken.fandom.com/wiki/Cerulean_Gown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -28,7 +28,7 @@ This Outfit's Schematic can be found in:
 
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [First Layer](First_Layer.md)
--   [The Doom Of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 -   [The Understrand](The_Understrand.md)

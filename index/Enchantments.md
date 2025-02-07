@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 134789
+revid: 134854
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -183,7 +183,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Providence's Thorns<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
   PVP: parrying 3 attacks within 7 seconds deals damage to the attacker after a delay.<br>
-  Deal 4% HP damage, ignores all resistances(Accept Of Heart Of Enmity).<br>
+  Deal 4% HP damage, ignores all resistances(Except For Heart Of Enmity).<br>
   PVE Scale: 35% from parried damage x ()userpower in PVE.<br>
   Damage capped at <b>500</b><br>
   Effect is parriable.</p></div></td>

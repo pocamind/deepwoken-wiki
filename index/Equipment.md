@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 134786
+revid: 134850
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -226,6 +226,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Cloaked Assassin](Cloaked_Assassin.md)
 
  | Gold, Pale, Mist & Crimson |
@@ -252,6 +253,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -583,7 +585,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Guard's, Royal Guard's, Captain's |
@@ -684,7 +686,7 @@ _+Talent: Giantslayer_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -735,7 +737,7 @@ Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 -   [First Layer](First_Layer.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -980,7 +982,7 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
@@ -1000,6 +1002,7 @@ Found from:
 Found from:
 
 -   [Fort Merit](Fort_Merit.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | Dark, Grey, Ochre & White |
 | File:Herbalist's Hat.png | 
@@ -1099,6 +1102,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 | File:KnightHelm.png | 
@@ -1387,7 +1391,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -1476,7 +1480,7 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -1503,6 +1507,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 | File:Brimlilal2.png | 
@@ -1796,7 +1801,7 @@ Found from:
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 -   [Aratel Island](Aratel_Island.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Cloaked Assassin](Cloaked_Assassin.md)
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
@@ -1993,6 +1998,7 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -2015,7 +2021,7 @@ _+4% Stealth_
 Found from:
 
 -   [Summer Isle](Summer_Isle.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -2046,6 +2052,7 @@ Found from:
 -   Trading with [Jeremiah](Jeremiah.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -2130,6 +2137,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [War Mode](War_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -2158,6 +2166,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -2187,7 +2196,7 @@ _+Talent: Blade Dancer_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [War Mode](War_Mode.md)
 
  | Black & White |
@@ -2291,8 +2300,9 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
--   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -2449,7 +2459,7 @@ _+Talent: Heavy Haul_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -2516,6 +2526,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
@@ -2598,7 +2609,7 @@ _+1 Posture_
 Found from:
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
@@ -2809,6 +2820,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [War Mode](War_Mode.md)
 -   [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 | File:Sharko coat.png | 
@@ -2972,7 +2984,7 @@ _+3 Posture_
 Found from:
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -3000,6 +3012,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   Mob drop from [Eastern Tribal Leader](Eastern_Nomad_Leader.md) (**~10%**)
@@ -3054,7 +3067,7 @@ _+Talent: Braced Collapse_
 
 Found from:
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
 
@@ -3111,6 +3124,7 @@ Found from:
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -3281,7 +3295,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)\]\]
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -3311,7 +3325,7 @@ _+Talent: Star Duster_
 Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
 
@@ -3715,6 +3729,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -3736,6 +3751,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -3889,6 +3905,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -3929,7 +3946,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [War Mode](War_Mode.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 | File:Static-assets-upload12369006146430102616.png | 
@@ -3985,7 +4002,7 @@ Found from:
 
 -   [Fishing](Fishing.md)
 -   [Erisia](Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 |  | 
@@ -4010,9 +4027,10 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
--   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -4142,7 +4160,7 @@ Found from:
 
 -   [Deep Widow](Deep_Widow.md) (The Depths)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -4346,6 +4364,7 @@ _+3% Elemental Armor_
 Found from:
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -4371,6 +4390,7 @@ _+3% Physical Armor_
 Found from:
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -4573,6 +4593,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 | File:Old World Sun Pendant.png | 
@@ -4683,6 +4704,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 | File:Dawn Scarf.png | 
@@ -4800,6 +4822,7 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -4882,7 +4905,7 @@ _+Talent: Featherfall_
 
 Sources:
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
@@ -5056,6 +5079,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5081,7 +5105,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -5144,6 +5168,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5210,6 +5235,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 |  | 
@@ -5286,6 +5312,7 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5521,7 +5548,7 @@ Found from:
 Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -5589,6 +5616,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -5606,7 +5634,7 @@ Found from:
 
 Found from:
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -5711,7 +5739,7 @@ Found from:
 
 -   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [Ferryman](The_Ferryman.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -5762,7 +5790,7 @@ Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -5783,7 +5811,7 @@ Reduces the charges required to proc Crystal Explosions and Surge Overloads from
 
 Found from:
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  |
 |  | 
@@ -5806,7 +5834,7 @@ Gives every weapon 1.2 strength scaling when equipped.
 Found from:
 
 -   [Ferryman](The_Ferryman.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Deep Widow](Deep_Widow.md)
@@ -5836,7 +5864,7 @@ Found from:
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -5863,7 +5891,7 @@ Found from:
 
 -   [Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) **(Extremely Rare)**
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -5886,7 +5914,7 @@ Grants +5% damage to Monsters in the Depths.
 
 Found from:
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
@@ -5915,7 +5943,7 @@ Found from:
 Found from:
 
 -   [Ferryman](The_Ferryman.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
@@ -5939,7 +5967,7 @@ Gives the user a massive increase in swimming speed while out of combat.
 
 Found from:
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -5978,7 +6006,7 @@ Found from:
 Found from:
 
 -   [Mudskipper Cave](Lower_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
@@ -6002,7 +6030,7 @@ Makes your "M1" attack 10% slower but do 30% more posture damage.
 
 Found from:
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -6026,7 +6054,7 @@ Take 1.25x damage and deal 1.2x damage at close range.
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -6052,7 +6080,7 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Mudskipper Cave](Lower_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -6079,7 +6107,7 @@ _+2% Lightning Armor_
 Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
@@ -6140,6 +6168,7 @@ Found from:
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
@@ -6160,7 +6189,7 @@ Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -6230,7 +6259,7 @@ Allows wearer to drink sea-water and acid without vomiting.
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -6256,7 +6285,7 @@ Found from:
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -6280,7 +6309,7 @@ This ring runs the random event check more frequently and partially ignores anti
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -6301,7 +6330,7 @@ Enemies you hit have their healing reduced by 50%
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -6326,7 +6355,7 @@ Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -6351,7 +6380,7 @@ Gives every weapon 1.2 intelligence scaling when equipped.
 
 Found from:
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Ferryman](The_Ferryman.md)
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
@@ -6374,7 +6403,7 @@ Found from:
 Found from:
 
 -   [Mudskipper Cave](Lower_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 
@@ -6396,7 +6425,7 @@ Conceal your youth, appearing as if you were older than 40.
 
 Found from:
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Ferryman](The_Ferryman.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
@@ -6428,7 +6457,7 @@ _+2% Wind Armor_
 Found from:
 
 -   [First Layer](First_Layer.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)

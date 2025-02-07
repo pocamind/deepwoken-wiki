@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 133112
+revid: 134827
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -87,13 +87,14 @@ Exhaustive Loot Table
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Dormant_Splinter.md"><font>Dormant Splinter</font></a>, <a href="Fractine.md"><font>Fractine</font></a>, <a href="Nocturne.md"><font>Nocturne</font></a>, <a href="Petra's_Anchor.md"><font>Petra's Anchor</font></a>, <a href="Soulthorn.md"><font>Soulthorn</font></a>, <a href="Wyrmtooth.md"><font>Wyrmtooth</font></a>.</li>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md"><font>Dormant Splinter</font></a>.</li>
+    <li><b>Legendary Weapons</b>: <a href="Fractine.md"><font>Fractine</font></a>, <a href="Soulthorn.md"><font>Soulthorn</font></a>.</li>
     <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Markor's_Inheritor.md#alloyed">Alloyed Inheritor</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Central_Dirk.md">Central Dirk</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Flintlock.md">Flintlock</a>, <a href="Gilded_Knife.md">Gilded Knife</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Tanto.md">Tanto</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
-    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Falchion.md">Falchion</a>, <a href="Gremorian_Longspear.md">Gremorian Longspear</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Iron_Twinblade.md">Iron Twinblade</a>, <a href="Katana.md">Katana</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Officer_Saber.md">Officer Saber</a>, <a href="Pernach.md">Pernach</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Ritual_Spear.md">Ritual Spear</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Scalesplitter.md">Scalesplitter</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Shotel.md">Shotel</a>, <a href="Trident_Spear.md">Trident Spear</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a> <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Worshipper_Longsword.md">Worshipper Longsword</a>.</li>
-    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Forge_Greathammer.md">Forge Greathammer</a>, <a href="Halberd.md">Halberd</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Zweihander.md">Zweihander</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Falchion.md">Falchion</a>, <a href="Gremorian_Longspear.md">Gremorian Longspear</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Iron_Twinblade.md">Iron Twinblade</a>, <a href="Katana.md">Katana</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Nocturne.md">Nocturne</a>, <a href="Officer_Saber.md">Officer Saber</a>, <a href="Pernach.md">Pernach</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Ritual_Spear.md">Ritual Spear</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Scalesplitter.md">Scalesplitter</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Shotel.md">Shotel</a>, <a href="Trident_Spear.md">Trident Spear</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a> <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Worshipper_Longsword.md">Worshipper Longsword</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Forge_Greathammer.md">Forge Greathammer</a>, <a href="Halberd.md">Halberd</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Petra's_Anchor.md">Petra's Anchor</a>, <a href="Zweihander.md">Zweihander</a>.</li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Parrying_Dagger.md">Parrying Dagger</a>, <a href="The_Path's_Defender.md">The Path's Defender</a>, <a href="Worshipper's_Shield.md">Worshipper's Shield</a>.</li>
   </ul></td>

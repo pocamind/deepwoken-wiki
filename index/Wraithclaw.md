@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 134070
+revid: 134868
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]
@@ -76,7 +76,7 @@ The Grudge appearance:
 
 The Grudge appearance:
 
-The NPC requires 75 points in [Galebreathe](Galebreathe.md) to spawn and initiate the fight with.
+The NPC requires uncapped [Galebreathe](Galebreathe.md) to spawn and initiate the fight with.
 
 ## Trivia
 

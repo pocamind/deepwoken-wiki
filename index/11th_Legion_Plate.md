@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 134305
+revid: 134844
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Hundred Legions]

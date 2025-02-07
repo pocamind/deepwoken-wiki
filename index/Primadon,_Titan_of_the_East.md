@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 134810
+revid: 134852
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -160,7 +160,7 @@ Danger:(★★★)
 
 ## Rewards
 
--   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 [Umbral Obsidian](Umbral_Obsidian.md) in them, and can rarely include the **Small Chest** loot.
+-   **8 [Chests](Chests_&_Sacks.md) -** Drops 8 Chests with medium - high tier loot. Most Chests have 1-6 [Umbral Obsidian](Umbral_Obsidian.md) in them, and can rarely include the **Small Chest** loot.
 -   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a high chance of 1-2 Deep Gems or Legendary Rings, and can rarely include the [Stormseye](Stormseye.md), [Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Imperial Staff](Imperial_Staff.md). Relics are also able to be dropped in this chest.
 -   **Resonance progression -** Gives the second best resonance progress (4-7 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [bell](Resonance.md).)**
 -   **2 [Knowledge](Knowledge.md) -** On first kill, Primadon will reward you with 2 knowledge. Subsequent kills will reward 1 knowledge, however if you decide to defeat Primadon with multiple people you must do 20% (8,000) of his health to get the reward of one knowledge.
@@ -202,56 +202,84 @@ Danger:(★★★)
 
 ## Loot Table
 
-| [Weapons](Weapons.md) | [Equipment](Equipment.md) | Miscellaneous |
-| --- | --- | --- |
-| 
--   [Imperial Staff](Imperial_Staff.md)
--   [Stormseye](Stormseye.md)
--   [Forgotten Gladius](Forgotten_Gladius.md)
--   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
--   [Pale Morning](Pale_Morning.md)
--   [Shattered Katana](Shattered_Katana.md)
--   [Imperator's Edge](<Imperator's_Edge.md>)
--   Very Rarely A [Dormant Splinter](Dormant_Splinter.md)
+**Keep in mind that this list is still incomplete.**
 
- | 
-
--   [Star Duster](Star_Duster.md)
--   [Star Boots](Star_Boots.md)
--   [Deepwoken Cloak](Deepwoken_Cloak.md)
--   [Deepwoken Hood](Deepwoken_Hood.md)
--   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
--   [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>)
--   [Vigil Hood](Vigil_Hood.md)
--   [Khan Helmet](Legion_Helmet.md)
--   [Authority Helm](Authority_Helm.md)
--   [Rebel's Bandana](<Rebel's_Bandana.md>)
--   [Nomad Pendant](Nomad_Pendant.md)
--   [Canticlysm Pendant](Canticlysm_Pendant.md)
--   [Bloodfeather Mask](Bloodfeather_Mask.md)
--   Duelist's Mask
--   [Confessor's Charm](<Confessor's_Charm.md>)
--   [Imperial Boots](Imperial_Boots.md)
--   [Brilliant Boots](Brilliant_Boots.md)
--   [Mercenary's Boots](<Mercenary's_Boots.md>)
--   [Bluesteel Boots](Bluesteel_Boots.md)
--   [Novice Brace](Novice_Brace.md)
--   All [Rings](Equipment.md)
--   All [Earrings](Equipment.md)
-
--   [Celtor Commander Plate](Celtor_Commander_Plate.md)
--   [Pale Assassin's Cloak](<Assassin's_Cloak.md>)
--   [Tiran Pendant](Tiran_Pendant.md)
-
- | 
-
--   [Deep Gems](Mantra_Modifiers.md)
--   [Vibrant gems](Mantra_Modifiers.md)
--   [Umbral Obsidian](Umbral_Obsidian.md)
--   [Ardour Manifestation](Ardour_Manifestation.md)
--   Most [Relics](Relics.md) (Including [Idol Of Yunshul's](<Idol_of_Yun'Shul.md>))
-
- |
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td>
+  <ul>
+    <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>.</li>
+    <li><b>Adept</b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, Authority Peacekeeper Armour, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>.</li>
+    <li><b>Expert</b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
+    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Mantra_Modifiers.md">Deep Gems</a></li>
+    <li><a href="Mantra_Modifiers.md">Vibrant gems</a></li>
+    <li><a href="Mantra_Modifiers.md">Tier 2 Mantra Modifiers</a></li>
+    <li><a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
+    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
+    <li>Some <a href="Relics.md">Relics</a>:
+  <ul>
+    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+    <li><a href="Enchantments.md">Curse of Rhaemen's Ember Enchant Stone</a></li>
+    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
+    <li><a href="Moonseye_Tome.md">Moonseye Tome</a></li>
+    <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
+    <li><a href="Rain_Spire.md">Rain Spire</a></li>
+    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+    <li><a href="Void_Spire.md">Void Spire</a></li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a>.</li>
+    <li><b>Alloyed Weapons</b>: <a href="Whaling_Knife.md#alloyed"><font>Alloyed Whaling Knife</font></a></li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Katana.md">Katana</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a> <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Summer_Rifle.md">Summer Rifle</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Markor's_Inheritor.md">Markor's Inheritor</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a>.</li>
+    <li><b>Offhand Weapons</b>: <a href="Parrying_Dagger.md">Parrying Dagger</a></li>
+  </ol></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Pale), <a href="Authority_Helm.md">Authority Helm</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Guardian_Helmet.md">Guardian Helmet</a>, <a href="Gumshoe_Hat.md">Gumshoe Hat</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Royal_Guard's_Kabuto.md">Royal Guard's Kabuto</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
+  <ol>
+    <li><b>Legendary Arms</b>: <a href="Deepwoken_Cloak.md"><font>Deepwoken Cloak</font></a>, <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a>.</li>
+    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale), <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Brigand's_Cloak.md">Brigand's Cloak</a>, <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Celtor_Commander_Plate.md">Celtor Commander Plate</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Grand_Authority_Plate.md">Grand Authority Plate</a>, <a href="Guardian_Pauldrons.md">Guardian Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Novice_Brace.md">Novice Brace</a>, <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Leather_Boots.md">Leather Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Star_Boots.md">Star Boots</a>.</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
+  <ol>
+    <li><b>Relic Torso</b>: <a href="Tiran_Pendant.md"><font>Tiran Pendant</font></a></li>
+    <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Citadel Frames</a> (All), Duelist's Mask, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a>.</li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: <a href="Emerald_Tusk_Earrings.md">Emerald Tusk Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>, <a href="Pendant_Earrings.md">Pendant Earrings</a>.</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
+  <ol>
+    <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Charged_Ring.md"><font>Charged Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a> <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>.</li>
+    <li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Gold_Ring.md">Gold Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a> <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Silver_Ring.md">Silver Ring</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Gallery
 
@@ -260,7 +288,6 @@ There are **13** images, be warned
 ## Trivia
 
 -   Primadon's second phase significantly increases his attack speed.
-
 -   [Deep Gems](Deep_Gems.md) were temporarily stripped from the loot pools of all _Etrean Luminant_ enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to Primadon's loot pool, although Deep Gems are not guaranteed to spawn after his defeat.
     -   This chest has since been repurposed to house many of the rarer drops such as Relics and Legendary Weapons.
 -   Primadon's respawn time is around 3 minutes.

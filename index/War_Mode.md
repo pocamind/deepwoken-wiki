@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 130782
+revid: 134861
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Mechanics]
@@ -142,7 +142,7 @@ Warchest
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>.</li>
+    <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>.</li>
     <li><b>Alloyed Weapons</b>: TBA</li>
     <li><b>Generic Weapons</b>:
   <ol>
@@ -160,7 +160,7 @@ Warchest
     <li><b>Head Equipment</b>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Khan Helmet</a>.</li>
     <li><b>Arm Equipment</b>: <a href="Ironsinger_Heavy_Plate.md">Ironsinger Heavy Plate</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>.</li>
     <li><b>Leg Equipment</b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>.</li>
-    <li><b>Torso Equipment</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
+    <li><b>Torso Equipment</b>: <a href="Warmaster's_Medallion.md"><font>Warmaster's Medallion</font></a></li>
     <li><b>Face Equipment</b>: TBA</li>
     <li><b>Ear Equipment</b>: TBA</li>
     <li><b>Rings</b>:

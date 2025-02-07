@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 134709
+revid: 134830
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2074,11 +2074,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   You'll Need To Get Past Me \[Common Talent\] - When you're attacked, one of your many allies will leap into action to protect their boss.
     -   Spawns in an NPC to attack whoever hits you. The 3 known NPCs are [Bandits](Bandit.md), [Bandit Leaders](Bandit_Leader.md), or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
-    -   Prerequisite: 75 Charisma
-    -   Cooldown of 60 seconds
+    -   The spawned NPC is considered your ally for proccing Talents.
+    -   The spawned NPC applies a player combat tag on hit.
     -   Note that an ally appearing with the Talent only works with players and is scaled by the level of the attacking enemy.
         -   An ally is able to appear anywhere on the map and in any locations (aka Luminants, Depths and Dungeons).
         -   The ally will perform just like a normal NPC, requiring to be gripped after being knocked. (Unless you have insta-grip Talents like Mercy Kill).
+    -   Cooldown of 60 seconds, but it can only proc when outside of combat.
+    -   The NPC can drop their weapon on death.
+    -   Prerequisite: 75 Charisma
 
 ### Pyroclast
 

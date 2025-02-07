@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 133261
+revid: 134842
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]

@@ -1,6 +1,6 @@
 ---
 title: Second Layer
-revid: 133119
+revid: 134853
 source: https://deepwoken.fandom.com/wiki/Second_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,7 +31,7 @@ The Second Layer uniquely is accessed in three different ways:
 
 ## The Ethironal Shrine / The Eternal Gale
 
-The Eternal Gale is a supernatural occurrence that is permanent to the geological structure of Second Layer, covering (and piling) onto the surfaces with unusual snow. It origins from [Ethiron, the Eye of Calamity](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of The Eternal Gale.
+The Eternal Gale is a supernatural occurrence that is permanent to the geological structure of Second Layer, covering (and piling) onto the surfaces with unusual snow. It originates from [Ethiron, the Eye of Calamity](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of The Eternal Gale.
 
 The Eternal Gale itself is a supernatural weather effect comprised not of snow but rather of parasitic organisms; though these are mitigatable by various sources.  
   

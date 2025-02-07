@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 117138
+revid: 134849
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit |
+| obtainment | Fort Merit, Primadon, Titan of the East |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 134506
+revid: 134828
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -285,7 +285,7 @@ Exhaustive Loot Table
     <li><a href="Purple_Cloud.md"><font>Purple Cloud</font></a> (Medium)</li>
     <li><a href="Pale_Briar.md"><font>Pale Briar</font></a> (Heavy)</li>
   </ol></li>
-    <li><b>Legendary Weapons</b>: <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Rosen's_Hellflame.md">Rosen's Hellflame</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Crypt_Blade.md">Crypt Blade</a>.</li>
+    <li><b>Legendary Weapons</b>: <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>.</li>
     <li><b>Alloyed Weapons</b>: <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>

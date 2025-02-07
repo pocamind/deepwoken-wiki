@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 134417
+revid: 134856
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -143,7 +143,6 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
 -   [Smith's Alloy](<Smith's_Alloy.md>)
 -   [Sinner's Ash](<Sinner's_Ash.md>)
 -   [Enchant Stones & Greases](Enchantments.md)
--   [Whistling Periapt](Whistling_Periapt.md)
 
  |
 
