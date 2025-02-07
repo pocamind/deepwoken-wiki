@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 132914
+revid: 134915
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -32,7 +32,5 @@ Using **Sinner's Ash** in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) after 
 ## Trivia
 
 -   You can hold more than one of this item.
--   Holding Sinner's Ash will surround your player in a purple highlight.
-    -   This no longer happens as of late 2024.
 -   The message that appears when using the Sinner's ash without a Resonance used to also appear when using it with a corrupted [Resonance](Resonance.md).
 -   Its estimated drop chance is around 1/333 (Needs further testing)

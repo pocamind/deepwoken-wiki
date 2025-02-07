@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 134600
+revid: 134916
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -38,23 +38,13 @@ If Smite is corrupted, the orbs will instead appear red and black (possibly more
 
 When obtained, Smite will spend its points on the following stats:
 
--   **Orbs:** The amount of orbs summoned upon usage
+-   **Orbs:** The amount of orbs summoned upon usage, going as low as 2 orbs.
 
 -   **Range: the amount of range increases**
 
 -   **Speed: The amount of speed increases**
 
 -   **Damage:** The amount of Damage Each orb does increases
-
-## Variants
-
-There are 2 Variants of Smite
-
--   When Pressing c 7 orbs will appear over your head
--   When Pressing c 4 orbs will appear over your head
--   maybe more
-
-it is not confirmed if the 4 orbs does more or less damage
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 106560
+revid: 134918
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Hive]
@@ -65,12 +65,19 @@ Neutral-Bad Reputation:
 
 ## Notable Members
 
--   [Regek](Regek.md)
--   [Suri](Suri.md)
--   [Laplace](Laplace.md)
--   Kaab
+[Zithori Vhemm Miziri Diri](Developer_Specs.md): Otherwise known as Hivelord Zithori Vhemm Miziri Diri, is the 7th Hivelord and current leader of The Hive, he is presumed to be in the [Central Luminant](Luminants.md)'s Greathive, he is said to be one the most powerful mortals in Lumen due to his profound mastery of [Lifeweave](Lifeweave.md), he wears the [Hive Leader's Garment](<Hive_Leader's_Garment.md>) and the [Hive Greatlord's Royal Adornment](<Hive_Greatlord's_Royal_Adornment.md>).
+
+[Ximac Diri](Ximac_Diri.md): Otherwise known as Hivelord Ximec Diri of the Second, is the 2nd Hivelord and one of the former leaders of The Hive, he is a Ganymede who lead The Hive for an unknown amount of time. He was presumed to powerful because of his rulership of the faction.
+
+[Laplace Diri](Laplace.md): A Ganymede who is a member of the Diri Family, thus being related to Miziri and Ximac Diri, he is capable of changing the enchant of a weapon by wrapping the three enchants together in Linen (Flax Plant fibers turned to Textile) and using an unspecified technique derived from Miziri Diri.
+
+[Regek](Regek.md): A Vesperian who is the librarian of the Greathive Aratel, through his errand of collecting sap from soulblooms located around the Greathive he will let the player increase the potency of their Attunement-less Mantras, he also explains the about the origins of how the Greathives are created.
+
+[Suri](Suri.md): A Vesperian who tasks the player to bring a flower to the grave of his brother located at the [Isle of Vigils](Isle_of_Vigils.md) through unknown reasons, his quest can be restarted if the delicate flower becomes ruined.
+
+[Kaab](Kaab.md): The shipwright of The Hive who will only grant the player access to ships when they hold maximum positive reputation with The Hive, unlike other shipwrights he is capable of modifying boats with lifeweave though this is never seen in game.
 
 ## Trivia
 
 -   All Hive members/NPCs are either [Vesperians](Vesperian.md), [Ganymedes](Ganymede.md) or [Chrysids](Chrysid.md)
--   One of two factions to create and utilise [Monsters](Monsters.md), the other being [The Ignition Union](The_Ignition_Union.md).
+-   One of two factions to create and utilize [Monsters](Monsters.md), the other being [The Ignition Union](The_Ignition_Union.md).

@@ -1,6 +1,6 @@
 ---
 title: Nightwish x Deepwoken Promotional Event
-revid: 123996
+revid: 134913
 source: https://deepwoken.fandom.com/wiki/Nightwish_x_Deepwoken_Promotional_Event
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Events]
@@ -45,6 +45,6 @@ More about the [Yesterwynde Tavern](Yesterwynde_Tavern.md) can be found in its r
 
 -   When approaching each record, they will play their respective song. Make sure your music volume is up!
 -   The Yesterwynde Tavern will play Nightwish songs, indicating which song is playing on the left of the screen.
--   This confirms that [The Ferryman](The_Ferryman.md) has access to vinyl records, means to play them, and is a fan of metal.
+-   This confirms that [The Ferryman](The_Ferryman.md) has access to vinyl records, means to play them, and is therefore a fan of metal.
 -   Every tavern door leads to the same instance of the Yesterwynde Tavern, meaning it can get quite overpopulated and dangerous. You can always exit by walking up to the tavern doors again.
--   The shortest event in the games history, lasting only a few days.
+-   The shortest event in the game's history, lasting only a few days.

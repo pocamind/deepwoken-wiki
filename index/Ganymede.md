@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 134438
+revid: 134914
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -96,7 +96,7 @@ Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperian
 
 ### Ganymede Hats
 
-Ganymede begins with an innate hat by default that has no stats. It will be removed upon wearing any other headgear (unequipping the headgear will re-equip the Ganymede hat). Like any other equipment, you can toggle its vanity by holding P and clicking the headgear icon.
+Ganymede begins with an innate hat by default that has no stats. It will be removed upon wearing any other headgear (unequipping the current headgear will re-equip the Ganymede hat). Like any other equipment, you can toggle its vanity by holding P and clicking the headgear icon.
 
 Ganymede hats are [transmoggable](Transmogrification.md) onto any other headgear. To perform this, turn in the headgear you want to use for stats and the option to style it after your Ganymede hat will appear. Attempting to equip a Ganymede hat smelt on a non Ganymede character will result in the headgear reverting back to its base appearance.
 
