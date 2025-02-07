@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 133788
+revid: 134920
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -73,7 +73,6 @@ While not required, things listed below can prove to make your experience much e
 -   _**Tidekeeper:**_ If you lose 25% of your HP in 3 seconds while having the Celtorian Tideknight armor, you can avoid being knocked for 10 seconds and you gain a 15% damage and 20% defense buff. This will allow you to rush through mobs without (that much) worry.
 -   _**Ardour Scream:**_ It's an essential talent when dealing as much damage as possible. Ardour Scream will cause all victims to take 25% more damage and lose 50% of their total posture, leaving them vulnerable to guard breaks.
 -   _**Evanspear Hand Axe:**_ Evanspear Hand Axe is one of, if not the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration.
--   _**Vampirism:**_ This is easily one of the best enchantments for the Diluvian Mechanism, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
 -   **_Astral:_** The Astral enchant gives the player's weapon 15% more damage in all PVE situations. Its new critical effect summons a projectile that does 100 AoE damage in PVE.
 -   _**Providence Thorns**_: You'll be parrying a lot of enemies whilst inside of the Diluvian Mechanism, so having a heavy weapon such as the Evanspear Hand Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds.
 -   _**Enforcer's Axe/Hammer:**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for the Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.

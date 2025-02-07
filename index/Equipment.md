@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 134850
+revid: 134936
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -354,6 +354,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Black & Brown |
 | 
@@ -3455,7 +3456,8 @@ _+Talent: Overflowing Dam_
 
 Found from:
 
--   [Saramaed Hollow](Saramaed_Hollow.md)
+  
+
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
  | Lilac, Navy, Sky, Verdant |
@@ -4093,6 +4095,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  | N/A |
 |  | 
@@ -5020,6 +5023,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Default (Black), Red & White |
 |  | 

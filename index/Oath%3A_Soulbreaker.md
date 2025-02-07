@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 134482
+revid: 134941
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath:  Soulbreaker | |
 |---|---|
 | oath_req | Any Murmur, A Resonance (dependant), Hero Reputation with Etrea (dependant), A sum of 50 points invested in Willpower and Charisma |
-| effects | +2 Combat Mantra Slot, +1 Mobility Mantra Slot, Ability To Wield All The Murmurs |
+| effects | +2 Combat Mantra Slot, +1 Mobility Mantra Slot, Ability to wield all the Murmurs |
 
 “ THEN IT IS SO. AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. ”
 
@@ -40,7 +40,7 @@ There are two methods from here:
 -   Have a [Resonance](Resonance.md).
 -   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god.
--   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the Kings Ardour, in the order 3,1,1,2,1,1,1.
+-   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the King's Ardour, in the order: 3, 1, 1, 2, 1, 1, 1.
 
 Once **all** requires are met, head over to the [Temple of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
@@ -88,7 +88,7 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
         -   You automatically use Ardour: Scream for free upon finishing an execution
         -   Massively increase the range of Ardour: Scream
         -   Purple lightning particles are left on knocked players after this talent is proc'd
-        -   You perform grips much faster and have unique grip animation. ( Approximately grip duration is 1.8 seconds which is faster than using [Reaper](Blood_Scourge.md) )
+        -   You perform grips much faster and have a unique grip animation. (Approximately grip duration is 1.8 seconds which is faster than using [Reaper](Blood_Scourge.md))
 
 -   **Spotter - Talent Card**
     -   When Callout is used in Rhythm, this Talent marks the target for you and your allies to see, allowing your allies to see an estimate of their health.
@@ -104,15 +104,15 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
 
 -   **Rhythm Advance - Combat Mantra**
     -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
-    -   Upon using m1 after cast, it can hit instantly without winding up.
-    -   On successful hit, shows HP and Posture of enemies you hit
-    -   Provides I-Frames during entire move
+    -   Upon using an m1 after cast, it can hit instantly without winding up.
+    -   On successful hit, shows HP and Posture of enemies you hit.
+    -   Provides I-Frames during entire move.
     -   AOE attack, can hit multiple people at once.
     -   It deals an unknown amount of physical damage.
 
 -   **Tacet Kick - Combat Mantra**
-    -   Similarly to Tacet Drop Kick, the user turns invisible before teleporting to the opponent with the use of tacet and kicking them.
-    -   **May be** useful for catching players.
+    -   Similarly to Tacet Drop Kick, the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them.
+    -   Could prove useful in catching players.
     -   It deals an unknown amount of physical damage.
 
 ## Version History
