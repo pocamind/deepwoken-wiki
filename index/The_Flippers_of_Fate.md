@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 132715
+revid: 135254
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons"]
@@ -26,6 +26,10 @@ categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weap
 | pass down | Yes |
 | obtainment | Chef Odiolavoro |
 | description | "That isn't smoke. It's steam." |
+
+## Description
+
+Twin spatulas somehow used as a weapon.
 
 ## Trivia
 

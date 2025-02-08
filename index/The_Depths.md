@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 134532
+revid: 135229
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map, The Depths]
@@ -61,7 +61,3 @@ Please visit their respective pages below by clicking on them for more informati
 **\- [First Layer (Scyphozia)](First_Layer.md)** for information on the first layer you are sent to, including info on Yun'Shul and the Depths Trial.
 
 **\- [Second Layer (The Eternal Gale)](Second_Layer.md)** for information on the layer you are sent to after falling into the void or diving deeper via the interaction with [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), including info on [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [New Kyrsa](Second_Layer/New_Kyrsa.md).
-
-## Trivia
-
--   You can't get sent to the [First Layer](First_Layer.md) via [Corrupted Blood Scourge](Blood_Scourge.md) if you are under level 12.

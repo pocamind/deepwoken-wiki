@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 134928
+revid: 135194
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
@@ -13,7 +13,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
 | type | Sword |
 | requirements | 75 MED |
 | damage | 20 |
-| scaling | 8 MED |
+| scaling | 7.7 MED |
 | range | 9.5 |
 | swing speed | 0.95x |
 | penetration | 25% |
@@ -51,3 +51,5 @@ The Eye of Malice's critical makes the user jump and thrust the weapon in front 
     -   Damage = 21 > 20
     -   Crit damage was reduced
     -   Range = 10.5 > 9.5
+-   This sword was slightly nerfed on February 8th, 2025.
+    -   Medium Scaling = 8 > 7.7

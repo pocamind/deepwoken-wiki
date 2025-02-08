@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 133125
+revid: 135237
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Fadetrimmer** is one of the 16 obtainable Oaths in _Deepwoken._ It's a utility Oath that grants you the abilities of a [barber](Barber.md).
+**[Oath](Oaths.md): Fadetrimmer** is one of the 16 obtainable Oaths in _Deepwoken._ It's a utility Oath that grants you the abilities of a [barber](Barber.md). Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
 
 “ Whatever, man. ”
 
@@ -31,13 +31,11 @@ Fadetrimmer is a enigmatic oath taken by all barbers in order to morph the physi
 
 Meet the following requirements and talk to a barber about Hair Cutting:
 
--   Power 12+
+-   Get A Low Taper Fade +12
 
 -   Change your hair 12 times at any [Barber](Barber.md) _(the hairs do not have to be unique, restoring to your natural hair 15 times will work also)._
     -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
--   Talk to the barber and pick the option "How is it you're able to do all this stuff?" continue the dialogue, asking to take the Oath.
-
-_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/JwPKrcDB-xE)._
+-   Talk to the barber and pick the option "What is massive?" continue the dialogue, after that he will scream "LOW TAPER FADE!" and you, will get the oath _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/JwPKrcDB-xE)._
 
 _This Oath does not become locked after breaking it at Yun'Shul._
 
@@ -86,6 +84,6 @@ This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
     -   Likewise, Flammable Hair Product is a fairly slow option to apply fire that does no damage by itself- using [Flamecharm](Flamecharm.md) mantras applies fire while dealing actual damage at the same time. Flammable can proc Lava Serpent, if that's any bonus...
 -   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
 -   The color of the scissors on your hips can be changed with a dye packet.
--   Breaking this Oath by talking to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) makes your scissors say: "Whatever, man."
+-   Breaking this Oath by talking to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) makes your scissors say: "Pfft.. this guy doesnt have dat low taper fade..."
 -   Precision Cuts is likely a reference to Gwen's Q ability from League of Legends.
 -   Although seen as a joke Oath, it has a few uses in PVE (Ex: Using Flammable Spray as a placeholder for [Flamecharm](Flamecharm.md)'s burn effects and the Mercy Kill Talent).

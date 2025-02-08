@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 133042
+revid: 135238
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -62,9 +62,11 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
 -   **Palm Strike - Combat Mantra**
     -   Slice your opponent with your palm.
     -   You are slowed down when using this mantra.
+    -   Deals Oath & Physical damage.
     -   If True Strength is active, an additional flurry of slashes is created, ascending both you and your target into the air.
 -   **Soaring Storm - Passive**
     -   Empower your uppercuts with the way of the blade, after Lithe Stepping,, flourishing, or landing an oath ability.
+    -   Deals 24 Oath & Physical damage.
         -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md), [modified Skyshatter Kick](Attunement-less.md), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
 -   **Untouchable - Passive**
     -   By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
@@ -81,13 +83,16 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   While having True Strength active, cancel your air dash to enter a frenzy of slashes.
     -   Its movestackeable with any mantra that can be casted mid-air.
     -   It has a cooldown of 5 seconds.
-    -   Deals 30 Oath and Physical damage.
+    -   Deals 28 Oath & Physical damage.
         -   Despite Developers and update logs saying that this attack deals "true damage," it actually does Physical and Oath damage, this means that if you have more Physical damage resistance than Oath damage resistance, you'll resist the full damage based off your Physical damage resistance.
     -   Only accessible when True Strength is active.
 -   **Decimate - Combat Mantra**
     -   Cut through your opponent.
-    -   If True Strength is active, this attack will extend to nearby enemies. **Fists** cannot use this mantra.
+    -   Deals Oath & Physical damage.
+    -   If True Strength is active, this attack will extend to nearby enemies.
     -   **Autogrips** players if low enough or knocked.
+
+Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
 
 ## Strategy
 

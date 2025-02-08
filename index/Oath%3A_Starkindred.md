@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 133220
+revid: 135181
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -110,3 +110,4 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
     -   This does not work with the Hivekin aspects
 -   The Talent "Death from Above" is a reference to the skill [Sakura Dance](https://sekiro-shadows-die-twice.fandom.com/Sakura_Dance) from _Sekiro: Shadows Die Twice_.
 -   Even after fully progressing the oath using 10 Knowledge, the three sinners will still spawn in their respective locations.
+-   Death from Above cancels Shadow Meteors if it's active.

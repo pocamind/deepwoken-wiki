@@ -1,6 +1,6 @@
 ---
 title: Formless Shard
-revid: 134064
+revid: 135257
 source: https://deepwoken.fandom.com/wiki/Formless_Shard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Daggers]
@@ -30,6 +30,10 @@ categories: [Weapons, Weapons with Unique Criticals, Daggers]
 A Formless Shard can be obtained via using a [Smith's Alloy](<Smith's_Alloy.md>) on a compatable weapon and selecting the Motif option, granting you the weapon's [Motif](Motifs.md) and turning the weapon into a Formless Shard.
 
 Check the [Motifs](Motifs.md) page to see all of the weapons you can obtain a Motif and Formless Shard from.
+
+## Critical Attack
+
+The user swings back their arm and performs a [Mudskipper](Mudskipper.md)\-like swing, albeit with a significantly longer windup. This attack deals **1 damage** and **2 posture damage**. And with a relatively long critical cooldown of **10 seconds**, this critical is the worst damage dealing attack in the game.
 
 ## Trivia
 

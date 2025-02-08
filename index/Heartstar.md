@@ -1,6 +1,6 @@
 ---
 title: Heartstar
-revid: 131572
+revid: 135179
 source: https://deepwoken.fandom.com/wiki/Heartstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -31,6 +31,10 @@ By giving 3 Heartstars to [Vyrelda](Vyrelda,_Master_of_Blood.md) located in [Fir
 ## Obtainment
 
 Heartstars can drop from enemies that use the [Bloodrend](Bloodrend.md) attunement.
+
+### **BOSS**
+
+[Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
 ### NPC
 

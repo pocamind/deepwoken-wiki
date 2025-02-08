@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 135027
+revid: 135247
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1, The Divers]
@@ -105,7 +105,7 @@ If you are deepbound and within Castle Light's radius, You will passively regain
 
 -   While considered a "safe zone" to some extent, [monsters](Monsters.md) CAN enter the barrier. Journeymen Diver NPC's may kill some monsters, but stronger monsters, such as King threshers or Mudskipper Broodlords, will quickly kill the divers.
 -   Occasionally, three black diver npcs can spawn. This happens when there are too many monsters or a player with bad reputation with the Divers enters.
--   Castle Light has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
+-   Castle Light has one of the two blacksmiths in the depths, making it very useful if you need to repair your armor after farming.
     -   If killed with a death ID (Text reading **You died to**), you will not be able to enter Castle Light, unless you are Deepbound.
     -   Castle Light can be entered if the player went through a whirlpool or used Call of the Deep.
 -   Castle Light can be considered the safest area in The Depths to take a break in, featuring a Deepbound exclusive stove, multiple vendors and sanity regeneration for those using [Deepbound](Origins.md).

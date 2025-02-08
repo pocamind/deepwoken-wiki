@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 134847
+revid: 135189
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -374,6 +374,7 @@ Wind + Slash
 -   Can be modified with _Cloudstones_, _Stratus stones_, _Perfect Lenses_ and _Crystal lenses_ to increase size.
 -   Can break objects.
 -   Can be upgraded with the "_Vacuum Punch"_ Talent.
+-   Has Hitstun.
 
  |
 | 

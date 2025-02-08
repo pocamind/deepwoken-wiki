@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 135162
+revid: 135190
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2170,7 +2170,7 @@ _**"My cure is most effective."**_
     -   Prerequisite: Rending Needle: Conductor
 
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
-    -   Does 5 damage per rod. This damage can be resisted by physical armor.
+    -   Does 5.5 damage per rod. This damage can be resisted by physical armor.
     -   Affected by Grim, Taunt, Isshin's ring, Exposed Durability and any other defensive debuffs.
     -   Not affected by "Return To The Dark Ages" Talent
     -   Prerequisites: Master Ironsinger, 75 Ironsing

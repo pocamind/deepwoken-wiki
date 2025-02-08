@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 134475
+revid: 135220
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -53,7 +53,7 @@ Dark Blade
 -   Adding rush shards make dark blade faster.
 -   Adding vibrant gems increase ether steal.
 -   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes.
--   Deals 55 damage at max lvl
+-   Deals 19 damage per hit at 5 lvl
 -   It has a cooldown of 12 seconds.
 
  |
@@ -70,7 +70,7 @@ Shadow Gun
 -   Adding Cloudstones will increase the height and width of the blast
 -   Its animation is identical to the Duelist's M2 from Rogue Lineage.
 -   Guardbreaks at Lvl 5.
--   Deals 35 dmg, 62 with blast spark
+-   Deals 35 dmg, 21.5 per hit, total dmg 65 with blast spark
 
 -   Can be modified with a Blast Spark, making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and triple the ether cost from what’s displayed (I.E. a 19% ether cost shadow gun will actually cost 57% of your ether.)
 -   It has a cooldown of 12 seconds.
@@ -86,7 +86,7 @@ Clutching Shadow
  | A shadowy hand. | 50 Ether | Shadow + Slash (Grab) + Blunt (Slam) | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage and refilling about the same amount of ether as the spell cost. the caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage
 
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
--   Deals 55 DMG total, 48 grab + 6 slam.
+-   Deals 58 DMG total, 48 grab + 10 slam.
 -   It has a cooldown of 12 seconds.
 
  |
@@ -100,7 +100,7 @@ Shadow Chains
  | Chains of shadow. | 15 Ether | Shadow | The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their ether based on the number of chains applied for a duration of 3 seconds
 
 -   Duration of the chain effect can be increased with Logstones
--   Deals 65 DMG total
+-   Deals 17 DMG per chain at 5 lvl
 -   Chain projectile speed and range can be increased with Drift shards and Crystal lenses
 -   Casts an extra chain at level 5 \[Confirmed, level 5 does cast an additional chain.\]
 
@@ -114,7 +114,7 @@ Shadow Eruption
 
  | Form a shockwave of darkness. | 50 Ether | Shadow | The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. It is blockable.
 
--   Deals 30 DMG total
+-   Deals 31 DMG total
 -   Unaffected by Glass & Magnifying Stones.
 -   Although, Stratus Stones and Cloud Stones do increase the size of the eruption.
 -   Pretty similar to [Flamecharm's Flame Repulsion](Flamecharm.md), but with no knockback.
@@ -217,7 +217,7 @@ Eclipse Kick
 -   When maxed out (Lv. 5), has the ability to blockbreak the opponent.
 -   Unaffected by [Insignia Gem](Mantra_Modifiers.md#deep-gems).
 -   If a [Multiplying Spark](Mantra_Modifiers.md) is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the Mantra again shortly after will cast the default Eclipse Kick. If whiffed, you will have to wait for the full duration of the cooldown to cast again.
--   Deals 140 dmg, 15 + 125 dmg with multiplying spark
+-   Deals 140 dmg, 10 + 110 dmg with multiplying spark
 
  |
 | 
@@ -304,7 +304,7 @@ before warp-striking to them.
 
 -   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged
--   Deals 35 DMG
+-   Deals 36 DMG
 
  |
 |  | 
@@ -317,7 +317,7 @@ Shadow Assault
 -   Lenses increase distance.
 -   Glass and Magnifying Stones make hitbox larger.
 -   Can be modified with a blast spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
--   Deals 55 DMG no mod, 80 blast spark.
+-   Deals 52 DMG no mod, 3.75 per hit, does 20 hits total, 75 total dmg blast spark.
 
  |
 | 
@@ -334,7 +334,7 @@ Shade Step
 -   You can't block or parry while submerged.
 -   NPCs can spot you underground.
 -   Can't be modified.
--   Deals 30 DMG
+-   Deals 31 DMG
 
  |
 

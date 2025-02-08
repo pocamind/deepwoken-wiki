@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 134905
+revid: 135231
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords]
@@ -15,7 +15,7 @@ categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatsw
 | damage | 22 |
 | scaling | HVY: 8.3 |
 | range | 8.5 |
-| swing speed | 0.91x |
+| swing speed | 0.88x |
 | penetration | 25% |
 | special effect | Sets enemies you hit with the critical on fire. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -52,8 +52,6 @@ The flames emitted by both Critical Attacks will proc Burn and any applicable Fl
 -   This weapon can only be used in the one-handed stance, allowing access to offhand guns, daggers, and shields.
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the unobtainable Lightborn aspect.
 -   Previously, Railblades dropping from Chaser were equivalent in rarity to items such as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) dropping in the [First Layer](First_Layer.md).
--   It is in contention with the [Skyreap Blade](Skyreap_Blade.md) for the third fastest swinging heavy weapon, the first being the [Quartztone Pickaxe](Quartztone_Pickaxe.md) and second being [Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
--   In lore, the [Hailbreaker](Hailbreaker.md) was produced as a competitor to this weapon.
 
 ## References
 

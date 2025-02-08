@@ -1,9 +1,9 @@
 ---
 title: Canor Fang
-revid: 133738
+revid: 135200
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers]
+categories: [Weapons, Daggers, Weapons with Unique Criticals]
 ---
 
 # Canor Fang

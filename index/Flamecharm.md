@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 134474
+revid: 135282
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -40,15 +40,68 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 
 ### Combat Mantras
 
-| **Media** | **Details** |
-| --- | --- |
-|  |
-| **Name**: Fire Blade (☆☆☆) |
-| **Description**: _Slicing blades of flame._ |
-| **Ether Cost**: 45 Ether |
-| **Damage Type**: Fire |
-| **Effect**: User forcefully slams down their blade coated in flames.
--   Deals moderate damage.
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Fire Blade** (☆☆☆)
+
+_Slicing blades of flame._
+
+ | 
+
+## Fire Blade (☆☆☆)
+
+  
+_Slicing blades of flame._
+
+ |
+| 
+
+45 Ether
+
+ | 
+
+Fire
+
+ | 
+
+1 Flamecharm
+
+ |
+| 
+
+**Effect:** User forcefully slams down their blade coated in flames.
+
+-   Deals 36 damage at lvl 5
 -   Deals high posture damage, becoming an instant-guardbreak at level 5.
 -   Inflicts Burn.
 -   Breaks certain tiles.
@@ -60,14 +113,38 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
     -   A reversal spark can be used to negate this variation, allowing you to use normal fire blade with wings.
 
  |
-|  |
-| **Name**: Flame Repulsion (☆☆☆) |
-| **Description**: _An exertion of flames._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: User charges up releases an explosion of flames around them.
+| 
 
--   Deals moderate damage. If hit, reduces damage taken by 75% and reflects it back.
+**Flame Repulsion** (☆☆☆)
+
+_An exertion of flames._
+
+ | 
+
+## Flame Repulsion (☆☆☆)
+
+  
+_An exertion of flames._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+1 Flamecharm
+
+ |
+| 
+
+**Effect:** User charges up releases an explosion of flames around them.
+
+-   Deals 30.6 damage. If hit, reduces damage taken by 75% and reflects it back.
 -   Deals low posture damage.
 -   Knocks enemies back.
 -   Inflicts Burn
@@ -77,14 +154,38 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md), causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 
  |
-|  |
-| **Name**: Burning Servants (☆☆☆) |
-| **Description**: _Summon a legion of flaming spearmen that lunge inwards._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
+| 
 
--   Deals moderate damage.
+**Burning Servants** (☆☆☆)
+
+_Summon a legion of flaming spearmen that lunge inwards._
+
+ | 
+
+## Burning Servants (☆☆☆)
+
+  
+_Summon a legion of flaming spearmen that lunge inwards._
+
+ |
+| 
+
+30 Ether
+
+ | 
+
+Fire
+
+ | 
+
+1 Flamecharm
+
+ |
+| 
+
+**Effect:** User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
+
+-   Deals 40 (6.7 \* 6) DMG.
 -   Inflcits Burn.
 -   Deals 20 posture damage total.
 -   Does not share a cooldown with other "servants" mantras.
@@ -92,14 +193,38 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to have the warriors attack outwards and ragdoll.
 
  |
-|  |
-| **Name**: Fire Gun (☆☆☆) |
-| **Description**: _A bullet of flames shot through each hand._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: Caster draws out and propels bullets of flames from their hands towards the cursor's location.
+| 
 
--   Deals light damage.
+**Fire Gun** (☆☆☆)
+
+_A bullet of flames shot through each hand._
+
+ | 
+
+## Fire Gun (☆☆☆)
+
+  
+_A bullet of flames shot through each hand._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+1 Flamecharm
+
+ |
+| 
+
+**Effect:** Caster draws out and propels bullets of flames from their hands towards the cursor's location.
+
+-   Deals 14 damage per hit.
 -   No Cooldown.
 -   Inflicts Burn.
 -   Interacts with the environment.
@@ -112,14 +237,38 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md), causing bullets to explode opponents after a certain amount of hits, but reducing the base damage.
 
  |
-|  |
-| **Name**: Flame Grab (☆☆☆) |
-| **Description**: _Jet forwards with flames and slam anyone you catch in your clutches._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: User lunges forward for a grab that slams and burns incoming opponents into the ground.
+| 
 
--   Deals 19 damage at level 1, and 33 damage at level 5.
+**Flame Grab** (☆☆☆)
+
+_Jet forwards with flames and slam anyone you catch in your clutches._
+
+ | 
+
+## Flame Grab (☆☆☆)
+
+  
+_Jet forwards with flames and slam anyone you catch in your clutches._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+1 Flamecharm
+
+ |
+| 
+
+**Effect:** User lunges forward for a grab that slams and burns incoming opponents into the ground.
+
+-   Deals 54 damage at level 5.
 -   Deals 6.5 posture damage.
 -   Inflicts Burn.
 -   Has a 10 second cooldown.
@@ -129,12 +278,36 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
     -   Crystal/Perfect Lens increase the duration, capping at 1.2s with a +3 range modifier.
 
  |
-|  |
-| **Name**: Flame Blind (☆☆☆) |
-| **Description**: _Shoot a projectile that explodes after a short delay and blinds those looking at it._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: N/A |
-| **Effect**: User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
+| 
+
+**Flame Blind** (☆☆☆)
+
+_Shoot a projectile that explodes after a short delay and blinds those looking at it._
+
+ | 
+
+## Flame Blind (☆☆☆)
+
+  
+_Shoot a projectile that explodes after a short delay and blinds those looking at it._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+N/A
+
+ | 
+
+1 Flamecharm
+
+ |
+| 
+
+**Effect:** User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   Deals 1 damage.
@@ -143,12 +316,36 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 -   Can be modified with Aeon/Eternal Logstones to blind for longer.
 
  |
-|  |
-| **Name**: Fire Palm (★☆☆) |
-| **Description**: _A blast of flame._ |
-| **Ether Cost**: 60 Ether |
-| **Damage Type**: Fire |
-| **Effect**: User releases a burst of flame from their palm in a cone shape.
+| 
+
+**Fire Palm** (★☆☆)
+
+_A blast of flame._
+
+ | 
+
+## Fire Palm (★☆☆)
+
+  
+_A blast of flame._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Fire
+
+ | 
+
+20 Flamecharm
+
+ |
+| 
+
+**Effect:** User releases a burst of flame from their palm in a cone shape.
 
 -   Deals 26/27.5/29/30.5/32 damage, and has 2.5 Flamecharm scaling.
 -   Deals 5.5 posture damage.
@@ -158,12 +355,36 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 -   Can be modified with Cloud/Stratus Stones to increase size, every +1 in size makes it 10% bigger.
 
  |
-|  |
-| **Name**: Fire Eruption (★☆☆) |
-| **Description**: _A pyroclastic eruption._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: User slams weapon into the ground below that causes 2 consecutive explosions.
+| 
+
+**Fire Eruption** (★☆☆)
+
+_A pyroclastic eruption._
+
+ | 
+
+## Fire Eruption (★☆☆)
+
+  
+_A pyroclastic eruption._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+20 Flamecharm
+
+ |
+| 
+
+**Effect:** User slams weapon into the ground below that causes 2 consecutive explosions.
 
 -   Deals 24/26.55/29/31.5/34 damage per explosion, and has 2.5 Flamecharm scaling.
 -   The initial explosion does 5.5 posture, the second explosion does 38 posture.
@@ -177,14 +398,38 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
     -   The max AoE modifier is +9.
 
  |
-|  |
-| **Name**: Fire Forge (★☆☆) |
-| **Description**: _Toss a nimble dagger._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: User throws 3 quick burning daggers.
+| 
 
--   Deals 25 (8.5 + 8.5 + 8.5) damage at level 1. (Level 5 info TBA)
+**Fire Forge** (★☆☆)
+
+_Toss a nimble dagger._
+
+ | 
+
+## Fire Forge (★☆☆)
+
+  
+_Toss a nimble dagger._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+20 Flamecharm
+
+ |
+| 
+
+**Effect:** User throws 3 quick burning daggers.
+
+-   Deals 25 (8.5 + 8.5 + 8.5) damage at level 1, 45 (15+15+15) at level 5.
 -   Deals moderate-low posture damage.
 -   Does not inflict Burn.
 -   Breaks certain tiles.
@@ -196,14 +441,36 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
  |
 | 
 
- |
-| **Name**: Relentless Flames (★★☆) |
-| **Description**: _Bear down on your foes with repeated fiery slashes._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: User releases a flurry of seven slashes.
+**Relentless Flames** (★★☆)
 
--   Deals high damage.
+_Bear down on your foes with repeated fiery slashes._
+
+ | 
+
+## Relentless Flames (★★☆)
+
+  
+_Bear down on your foes with repeated fiery slashes._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+30 Flamecharm
+
+ |
+| 
+
+**Effect:** User releases a flurry of seven slashes.
+
+-   Deals 33.5+33.5+23.4+13.4+6.7+6.7, totaling up to 117 damage.
 -   Deals high posture damage.
 -   Inflicts burn.
 -   Will not continue if the first slash misses.
@@ -212,28 +479,74 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
  |
 | 
 
- |
-| **Name**: Flame Sentinel (★★☆) |
-| **Description**: _Conjure a turret of flames._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: User creates a destructible orb that will shoot out fireballs to nearby targets.
+**Flame Sentinel** (★★☆)
 
--   Deals moderate damage.
+_Conjure a turret of flames._
+
+ | 
+
+## Flame Sentinel (★★☆)
+
+  
+_Conjure a turret of flames._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+30 Flamecharm
+
+ |
+| 
+
+**Effect:** User creates a destructible orb that will shoot out fireballs to nearby targets.
+
+-   Deals 43 damage.
 -   Deals low posture damage.
 -   Inflicts Burn.
 -   Can be grabbed by your Flame Grab (Bug).
 -   Can be modified with a magnet spark, making the turret follow the user.
 
  |
-|  |
-| **Name**: Rising Flame (★★☆) |
-| **Description**: _A rising tornado of flames._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
+| 
 
--   Deals 14.6 damage at level 1, and 23.5 damage at level 5.
+**Rising Flame** (★★☆)
+
+_A rising tornado of flames._
+
+ | 
+
+## Rising Flame (★★☆)
+
+  
+_A rising tornado of flames._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+30 Flamecharm
+
+ |
+| 
+
+**Effect:** User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
+
+-   Deals 39 damage at level 5.
 -   Deals 11 posture damage.
 -   Inflicts Burn.
 -   10 second cooldown.
@@ -246,14 +559,36 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
  |
 | 
 
- |
-| **Name**: Flare Volley (★★☆) |
-| **Description**: _Conjure up to 3 fireballs to vollery at your enemies._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire + Blunt |
-| **Effect**: User releases a small fireball projectile that flies forward in a straight path.
+**Flare Volley** (★★☆)
 
--   Deals low damage.
+_Conjure up to 3 fireballs to vollery at your enemies._
+
+ | 
+
+## Flare Volley (★★☆)
+
+  
+_Conjure up to 3 fireballs to vollery at your enemies._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire + Blunt
+
+ | 
+
+30 Flamecharm
+
+ |
+| 
+
+**Effect:** User releases a small fireball projectile that flies forward in a straight path.
+
+-   Deals 26 damage per hit.
 -   Deals moderate posture damage.
 -   Inflicts Burn.
 -   Cooldown resets when landed, allowing you to cast it up to three times.
@@ -262,14 +597,36 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
  |
 | 
 
- |
-| **Name**: Ash Slam (★★★) |
-| **Description**: _Strike the ground, turning it to ash._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire + Blunt |
-| **Effect**: User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
+**Ash Slam** (★★★)
 
--   Deals moderate damage.
+_Strike the ground, turning it to ash._
+
+ | 
+
+## Ash Slam (★★★)
+
+  
+_Strike the ground, turning it to ash._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire + Blunt
+
+ | 
+
+50 Flamecharm
+
+ |
+| 
+
+**Effect:** User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
+
+-   Deals 31+18 damage.
 -   Deals low posture damage.
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
@@ -279,15 +636,37 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
  |
 | 
 
- |
-| **Name**: Flame Ballista (★★★) |
-| **Description**: _Conjure a flaming arrow and fire it at your target._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
+**Flame Ballista** (★★★)
 
--   Deals high damage.
--   Deals high posture damage.
+_Conjure a flaming arrow and fire it at your target._
+
+ | 
+
+## Flame Ballista (★★★)
+
+  
+_Conjure a flaming arrow and fire it at your target._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+50 Flamecharm
+
+ |
+| 
+
+**Effect:** User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
+
+-   Deals 112 damage (FULL CHARGED), 61 dmg (NOT CHARGED)
+-   Deals low posture damage.
 -   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage and posture damage increases with each charge.
     -   M1'ing whilst the mantra is charging will shoot the projectile with the amount of charge it has at that point.
 -   Inflicts Burn.
@@ -299,17 +678,39 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 -   (NEED NEW GIF BELOW THIS WAS BEFORE IT WAS CHANGED)
 
  |
-|  |
-| **Name**: Flaming Scourge (★★★) |
-| **Description**: _Lash out with flames._ |
-| **Ether Cost**: 70 Ether |
-| **Damage Type**: Fire |
-| **Effect**: User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
+| 
 
--   "This'll be over by snack time."
+**Flaming Scourge** (★★★)
+
+_Lash out with flames._
+
+ | 
+
+## Flaming Scourge (★★★)
+
+  
+_Lash out with flames._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+Fire
+
+ | 
+
+50 Flamecharm
+
+ |
+| 
+
+**Effect:** User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. "This'll be over by snack time."
 
 -   Grabs any enemies In range of it.
--   Deals 19 (6 + 6 + 7) damage at level 1, and 27 (8 + 8 + 11) at level 5.
+-   Deals 45 dmg total (14+14+16) at level 5.
 -   Deals 18 posture damage every sweep.
 -   Inflicts burn.
 -   18 second cooldown.
@@ -322,21 +723,73 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
     -   The reversal spark variant deals ~30% less damage than the original.
     -   The reversal spark variant deals 18 posture damage once.
     -   The reversal spark variant has 0.65 windup.
-    
 
  |
 
 ### Mobility Mantras
 
-| **Media** | **Details** |
-| --- | --- |
-|  |
-| **Name**: Flame Leap (★★☆) |
-| **Description**: _Leap up leaving behind a burst of flames._ |
-| **Ether Cost**: 35 Ether |
-| **Damage Type**: Fire |
-| **Effect**: User emits a blast under them that propels the caster and nearby opponents up in the air.
--   Deals moderate-low damage.
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Flame Leap** (★★☆)
+
+_Leap up leaving behind a burst of flames._
+
+ | 
+
+## Flame Leap (★★☆)
+
+  
+_Leap up leaving behind a burst of flames._
+
+ |
+| 
+
+35 Ether
+
+ | 
+
+Fire
+
+ | 
+
+30 Flamecharm
+
+ |
+| 
+
+**Effect:** User emits a blast under them that propels the caster and nearby opponents up in the air.
+
+-   Deals 12 damage.
 -   Deals low posture damage.
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
 -   Is able to proc Meteor Impact, even without hitting an opponent.
@@ -346,14 +799,38 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
     -   This variant does not bring enemies up, and cannot proc Meteor Impact.
 
  |
-|  |
-| **Name**: Flame Assault (★★☆) |
-| **Description**: _Dash forward in a spiral of flames._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: Fire |
-| **Effect**: User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
+| 
 
--   Deals low damage.
+**Flame Assault** (★★☆)
+
+_Dash forward in a spiral of flames._
+
+ | 
+
+## Flame Assault (★★☆)
+
+  
+_Dash forward in a spiral of flames._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+30 Flamecharm
+
+ |
+| 
+
+**Effect:** User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
+
+-   Deals 48 damage.
 -   Deals low posture damage.
 -   Inflicts Burn and Ragdoll.
 -   Can be modified with Crystal/Perfect Lenses and Glass/Magnifying Stones.
@@ -364,14 +841,67 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 
 ### Support Mantras
 
-| **Media** | **Details** |
-| --- | --- |
-|  |
-| **Name**: Flame of Denial (☆☆☆) |
-| **Description**: _Undying flame._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: N/A |
-| **Effect**: Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Flame of Denial** (☆☆☆)
+
+_Undying flame._
+
+ | 
+
+## Flame of Denial (☆☆☆)
+
+  
+_Undying flame._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+N/A
+
+ | 
+
+1 Flamecharm
+
+ |
+| 
+
+**Effect:** Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
+
 -   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds with Azure Flames, if damage isn't substantial.
     -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing is buffed by 20% with Azure Flames.
 -   Flame stays in chest for the duration of the mantra.
@@ -382,12 +912,36 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 -   Can be modified with Vibrant Gems, with an unknown effect. Increases signs for ritual cast.
 
  |
-|  |
-| **Name**: Graceful Flame (★☆☆) |
-| **Description**: _Conjure an undying flame for the caster and their comrades to rest by._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: N/A |
-| **Effect**: Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
+| 
+
+**Graceful Flame** (★☆☆)
+
+_Conjure an undying flame for the caster and their comrades to rest by._
+
+ | 
+
+## Graceful Flame (★☆☆)
+
+  
+_Conjure an undying flame for the caster and their comrades to rest by._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+N/A
+
+ | 
+
+20 Flamecharm
+
+ |
+| 
+
+**Effect:** Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
 
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
@@ -401,12 +955,36 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
     -   Cannot be used in Layer 2 of the Depths at all.
 
  |
-|  |
-| **Name**: Flame Wisp (★★☆) |
-| **Description**: _A servant of flames._ |
-| **Ether Cost**: N/A Ether |
-| **Damage Type**: N/A |
-| **Effect**: The caster summons a wisp of magma.
+| 
+
+**Flame Wisp** (★★☆)
+
+_A servant of flames._
+
+ | 
+
+## Flame Wisp (★★☆)
+
+  
+_A servant of flames._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+N/A
+
+ | 
+
+30 Flamecharm
+
+ |
+| 
+
+**Effect:** The caster summons a wisp of magma.
 
 -   Flame Wisp reduces the burn tick damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
     -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.

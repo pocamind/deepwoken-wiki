@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 133836
+revid: 135169
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Oathless** is one of the 16 obtainable Oaths in _Deepwoken._ It is a rather varied Oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of five [Oaths](Oaths.md) that have no direct stat requirements.
+**[Oath](Oaths.md): Oathless** is one of the 16 obtainable Oaths in _Deepwoken._ It is a rather varied Oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of the 5 [Oaths](Oaths.md) that have no direct stat requirements.
 
 Despite its oxymoronic nature, this still counts as an Oath. So other Oaths like [Linkstrider](Oath%253A_Linkstrider.md) or [Contractor](Oath%253A_Contractor.md) that has their progression tied to killing Oath users can progress by killing people with this Oath, along with other Oaths.
 
@@ -65,7 +65,7 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
     -   Prior to Verse 2, they stated that Oathless was canonically the strongest Oath, though the veracity and exact meaning behind this statement are unclear; the developers are prone to retconning old ideas should they no longer suit their progressing vision of Deepwoken.
     -   More recently, it was supposedly stated to be a "seatwarmer" with the justification being they would like to create enough Oaths such that Oathless becomes redundant—a comment that was received negatively by the community due to its quest being more tedious than other Oaths. Regardless of its intended obsolescence, it still receives balance and QoL changes.
 -   It is one of the few Oaths that can be resworn should you wish for [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) to remove it.
--   Oathless will give you echoes for an Oath upon wiping.
+-   Oathless will give you echoes for an Oath upon wiping. (Which playered abused to farm echoes and even make macros to autofarm echoes which caused the devs to add a 10 minute requirement to the Oath)
 -   It is the only Oath that you can, realistically, get at Power 1.
 -   A bit of an oxymoron, because by being Oathless, you therefore have an Oath.
 -   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, [Viridian](Viridian.md) and [Celadon](Celadon.md), saying "Those eyes.. you wish to" and continue.

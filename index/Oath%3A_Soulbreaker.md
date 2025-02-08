@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 134941
+revid: 135172
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath:  Soulbreaker | |
 |---|---|
 | oath_req | Any Murmur, A Resonance (dependant), Hero Reputation with Etrea (dependant), A sum of 50 points invested in Willpower and Charisma |
-| effects | +2 Combat Mantra Slot, +1 Mobility Mantra Slot, Ability to wield all the Murmurs |
+| effects | +2 Combat Mantra Slot, +1 Wildcard Mantra Slot, Ability to wield all the Murmurs |
 
 “ THEN IT IS SO. AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. ”
 
@@ -61,7 +61,7 @@ This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md
 
 ## Effects
 
-This Oath grants 2 Combat Mantra Slots and 1 Mobility Mantra slot.
+This Oath grants 2 Combat Mantra Slots and 1 Wildcard Mantra slot.
 
 You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their talent upgrade (if any) regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving talents). The user gains a "Soulbreaker's Mantle" 2 rings of purple-ish white energy. Activating Ardour will make the user's weapon emit purple electric-like particles. [Dyeing](Dye_Packet.md) it does not change the particles from the mantle or the Ardour particles.
 
@@ -124,6 +124,12 @@ January 12th 2025
 January 11th 2025
 
 -   Added to the game.
+
+February 8th 2025
+
+-   Mobility mantra slot is replaced by Wildcard mantra slot.
+-   Rhythm Advance's posture damage is increased.
+-   Ardour Slicer's endlag is increased slightly.
 
 ## Trivia
 

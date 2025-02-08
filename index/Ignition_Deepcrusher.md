@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 134162
+revid: 135249
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -33,7 +33,7 @@ This weapon has 1 passive by default:
 
 **Ferrofluid Structure** - Changing the stance of this weapon completely changes the playstyle.
 
--   While used with 2 hands, this weapon is a Club dealing blunt damage and applying a [Metal Rod](Status_Effects.md) per M1. This is best suited for playstyles centered around applying and taking advantage of metal rods also compared to sword has 8 weight
+-   While used with 2 hands, this weapon is a Club dealing blunt damage and applying a [Metal Rod](Status_Effects.md) per M1. This is best suited for playstyles centered around applying and taking advantage of metal rods, also compared to Sword Stance gains 8 weight and 11% extra M1 DMG
 
 -   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains the ability to deal bleed damage, increasing its damage by 30%. This stance is meant to be used if you are looking for bleed dmg at the expense of utility and posture dmg and base m1 dmg, also gains very tiny swingspeed compared to club. (This variant is not recommended to use because it's directly downgrade)
 
@@ -47,7 +47,7 @@ The user stabs their weapon into the floor, causing a metal eruption of spikes t
 
 -   Bleed applied on all 3 hits of Deepcrusher's crit, doesn't matter what stance (1H or 2H)
 -   Crit doing ONLY slash dmg despite stance.
--   Crit is doing 80 DMG at 100 MTL and 100 MED (Can be Improved by adding prof, stat scaling rings and DMG stars)
+-   Crit does 67.5 (30+37.5) at 28 DMG M1
 -   Procs artisan's blade at any Deepcrusher attack (Sword version or Club, crit or M1)
 -   Posture dmg of crit depends on stance, does 15 as sword version and 16.5 as club.
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 134422
+revid: 135239
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -60,7 +60,7 @@ _Piercing spikes of ice._
 
  | 
 
- ? Ether
+50 Ether
 
  | 
 
@@ -68,7 +68,7 @@ Ice
 
  | Conjure a spike of ice from the ground at the cursor's location.
 
--   At level 5: It has a base damage of 30 and sends target into the air.
+-   Deals 30 DMG at 5 lvl and send victim into air.
 -   Does not inflict Chill.
 -   WIth the Spike Traps Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
 -   Can be modified with cloudstones/stratus stones to make the ice spikes bigger.
@@ -87,7 +87,7 @@ _Fire a beam of ice._
 
  | 
 
- ? Ether
+60 Ether
 
  | 
 
@@ -95,7 +95,7 @@ Ice
 
  | Fire a penetrating beam of ice.
 
--   Deals light damage.
+-   Deals 40 (10+10+10+10) damage at 5 lvl.
 -   Inflicts 1 second chill per hit, can be increased to 5 seconds with one eternal logstone.
 -   Hits multiple times in a row.
 -   Knocks back target(s).
@@ -115,7 +115,7 @@ _Revolving blades of ice._
 
  | 
 
- ? Ether
+30 Ether
 
  | 
 
@@ -125,7 +125,7 @@ Ice
 
   
 
--   Deals light damage.
+-   Deals 3.6 damage per spin, 22.5 sword projectile.
 -   Every projectile applies 1 sec chill, can't be increased.
 -   Hits multiple times in a row.
 -   Incredibly good with the **Glass Path: Crystallization** Talent.
@@ -145,7 +145,7 @@ _A legion of frost._
 
  | 
 
- ? Ether
+30 Ether
 
  | 
 
@@ -153,7 +153,7 @@ Ice
 
  | Conjures a surrounding ring of 4 to 5 frozen servants that emits two blasts of frosty mist to the center.
 
--   Deals Moderate damage if both blows hit.
+-   Deals Moderate damage if both blows hit. Blast spark deals 86 (21.5\*4) DMG
 -   Inflicts 2 seconds chill per hit. Can't be increased.
 -   Leaves ice where the Mantra is casted. (With 3 vibrant gems you can spawn massive ice floors with it)
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
@@ -211,8 +211,7 @@ Ice
 
  | Conjures 2 sabers of ice while performing a rapid flurry of slashes forward.
 
--   At level 5: It has 65 base damage in total.
--   First hit 20 and next 3 hits do 15 DMG.
+-   Deals 73 (20.93+16.74+18.42+16.74) DMG at 5 lvl
 -   Hits 4 times.
 -   Inflicts 1s of Chill per hit
     -   Can't be increased.
@@ -234,7 +233,7 @@ _Chains of ice._
 
  | 
 
- ? Ether
+35 Ether
 
  | 
 
@@ -263,7 +262,7 @@ _A flurry of ice spikes._
 
  | 
 
- ? Ether
+60 Ether
 
  | 
 
@@ -271,10 +270,10 @@ Ice
 
  | Perform a stomp with the user's right leg, forming 3 ascending waves of ice formations that encases the target in ice.
 
--   At level 5: It has a base damage of 30.
+-   Deals 30 DMG at 5 lvl
 -   Apparently applies chill although VERY short.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
-    -   Can't vent, block, parry, dodge while frozen in the eruption.
+    -   Can't block, parry, dodge while frozen in the eruption.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward. These walls are destructible.
     -   The walls can deal damage if they spawn very close to your opponent.
 
@@ -331,7 +330,7 @@ Ice
 
  | Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead.
 
--   At level 5: It has a base damage of 60.
+-   Deals 56 DMG at 5 lvl.
 -   Slightly knocks back target(s)
 -   Can break objects.
 -   Breaks block at mantra level 5.
@@ -360,7 +359,7 @@ Ice
 
  | Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact.
 
--   At level 5: It has 55 base damage.
+-   Deals 56 (43+13) damage.
 -   Applies Chill. 2 second chill on the first hit, the second hit can apply a 4 second chill with 1 Eternal logstone.
 -   During the wind-up, pressing \[F\] cancels the impale.
 -   Both the impact and the detonation are parriable.
@@ -388,7 +387,7 @@ Ice + Slash
  | Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air.
 
 -   The aoe can be increased with 2 stratus stones.
--   At level 5: It has 70 base damage.
+-   Deals 70 (16+19+34) DMG at 5 lvl
 -   Applies Chill. (2 seconds per hit, can't be increased)
 -   Capable of proccing Meteor Impact.
 
@@ -414,8 +413,7 @@ Ice
 
  | Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy.
 
--   Deals moderate damage.
--   At level 5: Deals 95 dmg if every projectile landed
+-   Deals 95 (14.8+14.8+13.81+11.84+12.83+10.85+8.88+8.88 ) DMG
 -   Deals high posture damage.
 -   Does not inflict Chill.
 -   Low cooldown.
@@ -435,7 +433,7 @@ _A sharp disk of ice._
 
  | 
 
- ? Ether
+40 Ether
 
  | 
 
@@ -444,8 +442,8 @@ Ice
  | Conjure a deadly rapidly moving saw of ice with the user's left hand.
 
 -   Deals moderate damage.
--   At level 5: The base damage its 70 if landed by the full duration.
--   Round spark full duration changes its base damage to 110 DMG.
+-   Deals 8.4 DMG per hit, total 70 if landed by the full duration 5 lvl.
+-   Round spark full duration changes its damage to 110 DMG.
 -   Does not inflict Chill.
 -   Spawns ice floor (You can add vibrant gems to make the ice spawned bigger)
 -   Can be modified with **Cloudstones/Stratus Stones** to increase its size.
@@ -479,7 +477,7 @@ Ice
 
  | User turns invisible and teleports to their opponent within a short range, on hit holds their opponent while they get hit by the ice chains.
 
--   At level 5: It has 50 base damage.
+-   Deals 36 DMG at 5 lvl.
 -   Applies an extremely long 12 sec chill at base.
 -   This mantra has a cooldown of 8 seconds. It goes on a 4 second cooldown if no targets are found on the area of the grab.
 -   Does not apply chill through block with Unyielding Frost.
@@ -499,7 +497,7 @@ _Knock your enemy skyward with a kick of crystal._
 
  | 
 
- ? Ether
+60 Ether
 
  | 
 
@@ -509,7 +507,7 @@ Ice
 
 (Glasspath: Crystallization is required to learn this mantra.)
 
--   Deals moderate damage.
+-   Deals 34 damage at 5 lvl.
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md) to cause the user of the mantra to perform a side kick that knocks away target(s) instead of launching them upward.
 
  |
@@ -526,7 +524,7 @@ _Impale your foes with a brutal crystal smash._
 
  | 
 
- ? Ether
+40 Ether
 
  | 
 
@@ -536,7 +534,7 @@ Ice
 
 (Glasspath: Crystallization is required to learn this mantra.)
 
--   Deals light damage.
+-   Deals 13 damage per hit, up to 40 dmg at 5 lvl.
 -   Can be modified with a spring spark, making the user spin more.
 
  |
@@ -551,7 +549,7 @@ _Swift bolts of frozen air._
 
  | 
 
- ? Ether
+25 Ether
 
  | 
 
@@ -561,7 +559,7 @@ Ice
 
 (Glasspath: Crystallization is required to learn this mantra.)
 
--   Deals light damage.
+-   Deals 24.2 damage per hit at 5 lvl.
 -   Inconsistent Hitbox.
 -   Is similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
 -   Can be modified with a [Cloudstone](Mantra_Modifiers.md) to increase the shots fired.
@@ -587,7 +585,7 @@ Ice
 
  | Conjures 3 ice cubes above the user that are on standby and throws them to where their cursor is.
 
--   At level 5: It has a base damage of 72 (24 damage per icecube).
+-   Deals 19 dmg per cube at 5 lvl
 -   Projectiles are homing.
 -   Does not inflict Chill.
 -   Has a good amount of range.
@@ -605,7 +603,7 @@ _Send ice rippling out in a shockwave._
 
  | 
 
- ? Ether
+35 Ether
 
  | 
 
@@ -613,7 +611,7 @@ Ice
 
  | Conjures an obelisk of ice in front of the player.
 
--   Deals light damage.
+-   Deals 73 damage upon detonation at 5 lvl.
 -   First hit applies Chill.
     -   12 second base, 16 with 1 **Eternal Logstone**.
 -   Up to 3 Obelisks can be active on the field at any time.
@@ -637,7 +635,7 @@ _An arc of ice._
 
  | 
 
- ? Ether
+50 Ether
 
  | 
 
@@ -645,7 +643,7 @@ Ice
 
  | Conjures a solid ice lance that towards the user's cursor.
 
--   Deals heavy damage when it hits an opponent.
+-   Deals 49 DMG at 5 lvl when it hits an opponent.
 -   Can be used to scale walls and terrain.
 -   Inflicts a 1 second chill (Can't be increased).
 -   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
@@ -713,11 +711,11 @@ N/A
   <td><center>Iceberg<br>
   (★★★)</center></td>
   <td><center><i>Enter a state of cryostasis.</i></center></td>
-  <td><center>&nbsp;? Ether</center></td>
+  <td><center>45 Ether</center></td>
   <td><center>Ice</center></td>
   <td>Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. The user will automatically parry one hit while this is active.
   <ul>
-    <li>Deals 20 damage in total.</li>
+    <li>Deals 6 damage per hit at 5 lvl.</li>
     <li>Heals 2%, increasing with level and Drift/Rush Shards, up to 10%.</li>
     <li>Applies 1 second of chill per hit (Can't be increased).</li>
     <li>Iceberg applies bottom freeze on every hit (regardless of cooldown), but still puts the Frozen Legs status on cooldown.</li>

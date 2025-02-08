@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 134593
+revid: 135186
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Gems, Attunement, Mantras]
@@ -360,7 +360,7 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Blue Gem</td>
-  <td>Reduces Mantra ether cost by half, including Ritual Casted mantras.<p>This is the only gem that provides a tangible effect to mantras that do not hit enemies.</p></td>
+  <td>50% ether reduction to the BASE cost of the mantra, 25% reduction to modifier ether costs.<p>This is the only gem that provides a tangible effect to mantras that do not hit enemies.</p></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
