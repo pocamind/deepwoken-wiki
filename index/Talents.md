@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 134910
+revid: 134963
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -127,6 +127,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Exposed Durability \[Common Talent, Ironsing Exclusive\] - Deal 10% more damage to opponents with no armor durability left.
     -   Also affect players with no outfit (Stranded Outfit)
+    -   Procs on your basic attacks while you have Berserk active.
     -   Prerequisite: 60 Ironsing
 
 -   _An Ironsinger's Instinct_ \[Rare Talent, Ironsing Exclusive\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken. 18s CD
@@ -445,6 +446,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
         -   Your armor is immediately removed for 20 seconds. Includes Exoskeleton/Chitin.
         -   You regain your armor immediately after the buff ends.
         -   Padded Armor, Steel Scales, and Lightweight are activated. However, your M1s activate your opponent's Padded Armor and Steel Scales.
+        -   You benefit from Exposed Durability's 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
         -   Buff is granted for 20 seconds. Buff is granted only for 10 seconds if you don't meet the stat requirement.
         -   Eyes turn red and gain a red trail for 20 seconds.
         -   Hair turns red for 20 seconds.

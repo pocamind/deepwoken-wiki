@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 124993
+revid: 135003
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,28 +40,28 @@ When losing enough sanity, the player will incur negative effects.
 
 ## Sanity Decreasing Effects
 
--   Being in range of the [Megalodaunt](Megalodaunt.md) or [Primadon](Primadon,_Titan_of_the_East.md)'s screech attack
--   Being hit by the [Deep Widow](Deep_Widow.md)'s web or bite attack
--   Being hit by the [Mudskipper Broodlord](Mudskipper_Broodlord.md)
--   Being in the [First Layer](First_Layer.md)
--   Being hit by a player with [Shared Misery](Talents.md) active
--   Drinking or being splashed by a Mindbreaking potion
--   Using [Heretic's Sutra](Quests.md)
--   Using [Blindseer](Oath%253A_Blindseer.md) Mantras
+-   Being in range of the [Megalodaunt](Megalodaunt.md) or [Primadon](Primadon,_Titan_of_the_East.md)'s screech attack.
+-   Being hit by the [Deep Widow](Deep_Widow.md)'s web or bite attack.
+-   Being hit by the [Mudskipper Broodlord](Mudskipper_Broodlord.md).
+-   Being in the [First Layer](First_Layer.md).
+-   Being hit by a player with [Shared Misery](Talents.md) active.
+-   Drinking or being splashed by a Mindbreaking potion.
+-   Using [Heretic's Sutra](Quests.md).
+-   Using [Blindseer](Oath%253A_Blindseer.md) Mantras.
 -   As a potential corrupted [resonance](Resonance.md) downside; gives a massive amount of insanity, making it dangerous to use in general.
--   Being hit by a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you a 2% sanity decrease
+-   Being hit by a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you a 2% sanity decrease.
 -   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md), which constantly gives you insanity when unsheathed while in [The Depths](The_Depths.md).
     -   The effects of this can be reduced through increasing Willpower. However, you'll still die if you don't regenerate your sanity.
--   Being in the immediate vicinity of the pulsating brains with eyes and looking at them in [Ancient Rotlands](Ancient_Rotlands.md)
--   Having the [Wishbound](Developer_Specs.md) flaw during nighttime
+-   Being in the immediate vicinity of the pulsating brains with eyes and looking at them in [Ancient Rotlands](Ancient_Rotlands.md).
+-   Having the [Wishbound](Developer_Specs.md) flaw during nighttime.
 
 ## Sanity Restoring Effects
 
 -   Passive sanity regeneration. (Disabled in the Depths)
 -   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md)) (Graceful Flame included)
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
--   Drinking or being splashed by a Heartening potion
--   The [Conquer Your Fears](Talents.md) Talent
+-   Drinking or being splashed by a Heartening potion.
+-   The [Conquer Your Fears](Talents.md) Talent.
 -   The Castle Light sanity aura, which is exclusive to the [Deepbound](Origins.md) origin.
 
 ## Trivia

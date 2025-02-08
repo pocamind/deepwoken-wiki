@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 134920
+revid: 134974
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -8,7 +8,7 @@ categories: [Layer 1]
 
 # The Diluvian Mechanism
 
-LocationL THE DILUVIAN MECHANISM LocationR
+LocationL THE MECHANISM LocationR
 
 An inscrutable mechanism looms in the centre of the hall. Many hearts have been consumed to spur its accursed gears into motion.
 
@@ -16,23 +16,23 @@ An inscrutable mechanism looms in the centre of the hall. Many hearts have been 
 
 The Diluvian Mechanism standing ominously in the center of the hall, awaiting for the brave ones.
 
-**The Diluvian Mechanism** is a dungeon in Deepwoken. It is a sub-location of [The Depths](The_Depths.md) found near to [Celtor Wastes](Celtor_Wastes.md).
+**THE MECHANISM** is a dungeon in Deepwoken. It is a sub-location of [The Depths](The_Depths.md) found near to [Celtor Wastes](Celtor_Wastes.md).
 
 ## Description
 
-You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) within [Marauder's Entrance](<Marauder's_Entrance.md>). Within the mechanism, you face trials of insufferable amounts of difficult entities. All humanoid enemies you seem to know have been mystically created from the mechanism itself, in the form of their tideknight variants. You'll be facing Angels, Divers, Songseekers and Attunement trainers in their utmost maximum, possessing powers you never have seen. Non-humanoid monsters within this dungeon retain their random chance to be attuned.
+You enter within the **THE MECHANISM** by conversing with [THE MECHANISM](<Diluvian_Mechanism_(NPC).md>) within [Marauder's Entrance](<Marauder's_Entrance.md>). Within **THE MECHANISM**, you face trials of insufferable amounts of difficult entities. All humanoid enemies you seem to know have been mystically created from the **THE MECHANISM** itself, in the form of their tideknight variants. You'll be facing Angels, Divers, Songseekers and Attunement trainers in their utmost maximum, possessing powers you never have seen. Non-humanoid monsters within this dungeon retain their random chance to be attuned.
 
 You can take on this hellish challenge on your own, or share the burden with up to 4 of your companions that are willing to come along with you.
 
 ### Mechanics
 
-Ending at 50 waves, every wave you face will grant you EXP. At the end of every 5 waves, you'll be granted rewards, bell EXP, a replenished health, blood, hunger, and thirst bar, can also get knowledge every 5 waves starting from 25-30 you get 1 knowledge, 35-45 you get 2 knowledge and on wave 50 you'll get 10 knowledge, every 5 waves you get a break until you pull the gear shift. To start and end a round, and leave midway, you would have to speak with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>).
+Ending at 50 waves, every wave you face will grant you EXP. At the end of every 5 waves, you'll be granted rewards, bell EXP, a replenished health, blood, hunger, and thirst bar, can also get knowledge every 5 waves starting from 25-30 you get 1 knowledge, 35-45 you get 2 knowledge and on wave 50 you'll get 10 knowledge, every 5 waves you get a break until you pull the gear shift. To start and end a round, and leave midway, you would have to speak with [THE MECHANISM](<Diluvian_Mechanism_(NPC).md>).
 
 Taking too long in a wave will automatically add the Timebomb modifier to the current wave. It is currently unknown how exactly this functions, but it appears that the more players you have, the faster timebombs will begin to appear.
 
 ### Trial of the Meek
 
-When attempting the option to start the Diluvian Mechanism below Power 3 (including Power 3), you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
+When attempting the option to start **THE MECHANISM** below Power 3 (including Power 3), you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
 
 ### Shrine of Solitude
 
@@ -40,7 +40,7 @@ A Shrine of Solitude, identical to the one found in the Trial of One lies agains
 
 ## Modifiers & Environmental Hazards
 
-Within the Diluvian Mechanism, certain waves have a certain modifier or environmental hazard that adds an additional layer of difficulty. Modifiers show a certain text under the wave number, related to a specific debuff that affects all players, such as making it impossible to cast mantras, or gain health packs. Environmental Hazards are risks and nuisances that naturally spawn around the map, mostly in every wave. The known modifiers and environmental hazards are;
+Within **THE MECHANISM**, certain waves have a certain modifier or environmental hazard that adds an additional layer of difficulty. Modifiers show a certain text under the wave number, related to a specific debuff that affects all players, such as making it impossible to cast mantras, or gain health packs. Environmental Hazards are risks and nuisances that naturally spawn around the map, mostly in every wave. The known modifiers and environmental hazards are;
 
 ### Thin Air
 
@@ -60,22 +60,22 @@ If during the waves, the text "Your past comes to haunt you..." appears, then en
 
 ## Recommendations and Advice
 
-The Diluvian Mechanism is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right Talents and equipment to make haste of this trial.
+**THE MECHANISM** is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right Talents and equipment to make haste of this trial.
 
 While not required, things listed below can prove to make your experience much easier.
 
 -   _**Thresher Scales:**_ Regaining armor is nearly impossible without this Talent, unless you're Ironsing, have Bloodiron Spirit/Ring, or possess any Armor Repair Kits. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a Talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
--   _**Resonance:**_ Having a good bell is the key to survival in the Diluvian Mechanism as, if you have a bell that isn't good for Diluvian (for example: Smite, Smokescreen, etc.) you run a greater risk of wiping. The bells you should seek out for Diluvian are Sacred Field and Corrupted Payback (especially Laser variant). Sacred Field will provide a defensive buff, while Corrupted Payback will heal the caster.
--   _**Warrior's Respite:**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if you're doing it solo or in a Hollowed Wave. Therefore, it's important to have a way of regaining your health during the later stages. Warrior's Respite is essential and can be combined with going up high and healing while attacking the mobs.
+-   _**Resonance:**_ Having a good bell is the key to survival in **THE MECHANISM** as, if you have a bell that isn't good for Diluvian (for example: Smite, Smokescreen, etc.) you run a greater risk of wiping. The bells you should seek out for Diluvian are Sacred Field and Corrupted Payback (especially Laser variant). Sacred Field will provide a defensive buff, while Corrupted Payback will heal the caster.
+-   _**Warrior's Respite:**_ Healing isn't always a guarantee in **THE MECHANISM**, especially if you're doing it solo or in a Hollowed Wave. Therefore, it's important to have a way of regaining your health during the later stages. Warrior's Respite is essential and can be combined with going up high and healing while attacking the mobs.
 -   _**Brick Wall:**_ You will find this talent very helpful, as so you won't get tossed around that much.
 -   _**Graceful Flame:**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame (with the Undying Flame talent), you can regenerate the armor and health of yourself and your allies.
--   _**Force Your Way:**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.
+-   _**Force Your Way:**_ In **THE MECHANISM**, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.
 -   _**Tidekeeper:**_ If you lose 25% of your HP in 3 seconds while having the Celtorian Tideknight armor, you can avoid being knocked for 10 seconds and you gain a 15% damage and 20% defense buff. This will allow you to rush through mobs without (that much) worry.
 -   _**Ardour Scream:**_ It's an essential talent when dealing as much damage as possible. Ardour Scream will cause all victims to take 25% more damage and lose 50% of their total posture, leaving them vulnerable to guard breaks.
 -   _**Evanspear Hand Axe:**_ Evanspear Hand Axe is one of, if not the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration.
 -   **_Astral:_** The Astral enchant gives the player's weapon 15% more damage in all PVE situations. Its new critical effect summons a projectile that does 100 AoE damage in PVE.
--   _**Providence Thorns**_: You'll be parrying a lot of enemies whilst inside of the Diluvian Mechanism, so having a heavy weapon such as the Evanspear Hand Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds.
--   _**Enforcer's Axe/Hammer:**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for the Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
+-   _**Providence Thorns**_: You'll be parrying a lot of enemies whilst inside of **THE MECHANISM**, so having a heavy weapon such as the Evanspear Hand Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds.
+-   _**Enforcer's Axe/Hammer:**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for **THE MECHANISM**, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
 -   _**Teammates:**_ Strength in numbers. If you can, always bring along a friend or two to help you. Having teammates allows you to kill enemies faster, heal and support each other, and progress together.
 
 ## Loot
@@ -118,13 +118,13 @@ Based on the power of the user(s), the starting wave will differ;
 | 11 (Depths Fishing) | 2 Corrupt Lionfish, 2 Corrupt Terrapods |  |
 | 12 (King Joffrey's pets) | 1 Corrupt King Gigamed, 1 Corrupt King Thresher |  |
 | 13 (Owl's Friends) | 2 Stone Knights, 1 Corrupt Owl |  |
-| 14 (Featherly Brotherhood)
+| 14 (CAW-CAWWW)
 
 **\*TIMEBOMB MODIFER\***
 
  | 2 Corrupt Owls |  |
 | 15 (Mutant Galore) | 1 Corrupt Crimson Megalodaunt, 2 Corrupt Crimson Terrapods, 2 Corrupt Nightmare Threshers |  |
-| 16 (Golem Frenzy) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Enforcer |  |
+| 16 (NEW MINECRAFT CUSTOM GOLEMS MOD(DIAMOND GOLEM)) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Enforcer |  |
 | 17 (Happy Family) | 1 Corrupt Nightmare Thresher, 2 Threshers, 1 Mother Thresher |  |
 | 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed, 1 Gigamed |  |
 | 19 (Erisia-Party) | 2 Corrupt Terrapods, 1 Corrupt Owl, 1 Corrupt Golem, 1 Corrupt Megalodaunt, 1 Corrupt Mudskipper Brute | Both Terrapods have a higher chance to be the red version |
@@ -135,20 +135,20 @@ Based on the power of the user(s), the starting wave will differ;
  | 3 Enforcers (Attuned with a random Attunement) |  |
 | 21 (Trial of One Gang) | 1 Stone Knight, 1 Megalodaunt, 1 Alpha Megalodaunt, 1 Enforcer, 1 Golem, 1 Thresher |  |
 | 22 (The Sea's Nightmare) | 2 Nautilodaunts, 2 Attuned(?) Enforcers |  |
-| 23 (Starswept Valley Reunion) | 1 King Thresher, 1 Deep Widow, 1 Owl, 1 Stone Knight, 2 Corrupt Threshers, 1 Alpha Megalodaunt |  |
+| 23 (Curse Of Rah) | 1 King Thresher, 1 Deep Widow, 1 Owl, 1 Stone Knight, 2 Corrupt Threshers, 1 Alpha Megalodaunt |  |
 | 24 (The Less Great Sharko Rumbling) | 1 Corrupt Megalodaunt, 1 Crimson Megalodaunt, 1 Corrupt Alpha Megalodaunt, and 1 Mechalodaunt |  |
-| 25 (Bounder Hell)
+| 25 ("They Don't Bite" The Dogs in question:)
 
 **\*CORPSE EXPLOSION MODIFER\***
 
  | 2 Corrupt Bounders | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. |
-| 26 (The Kick Duo) | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts | Best to position yourself in a corner to reduce the constant knockback. |
+| 26 ("Can I kick it? (Yes you can!)") | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts | Best to position yourself in a corner to reduce the constant knockback. |
 | 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers, 1 Corrupt Mudskipper Brute. |  |
 | 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Nautilodaunt. |  |
-| 29 (Seafood Featheries) | 1 Corrupt Crimson Megalodaunt, 1 Corrupt Glacial Lionfish, 1 Corrupt Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
+| 29 (Red Lobster All-You-Can-Eat) | 1 Corrupt Crimson Megalodaunt, 1 Corrupt Glacial Lionfish, 1 Corrupt Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
 | 30 (Parasyte) | 9 Corrupt Attuned Carbuncles | The Carbuncles can permanently hit stun you. Use Corrupt Payback to do high amounts of damage or vent to get distance. |
 | 31 (hey remember the week when humanoid anti-gank ai broke and you got stunlocked six ways to sunday? yeah that's exactly what this is) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. | Be careful about getting stun locked by the Prime Golems. If you have Corrupt Payback and the talent Full Reset, you can use Corrupt Payback while the Golems are using their Recessive Spin and kill the Fury Nautilodaunt and proc Full Reset, allowing you to use it again and kill the Golems and the King Gigamed. However, keep in mind that the Golems are capable of cancelling your Corrupt Payback, so caution is advised. |
-| 32 (Glacial Ball) | 1 Blizzard Knight, 2 Corrupt Frostmantle Glacial Lionfishes, 1 Corrupt Frostmantle Bonekeeper, 2 Frostmantle Corrupt Crabs, 1 Frostmantle Nautilodaunt |  |
+| 32 (Alaska) | 1 Blizzard Knight, 2 Corrupt Frostmantle Glacial Lionfishes, 1 Corrupt Frostmantle Bonekeeper, 2 Frostmantle Corrupt Crabs, 1 Frostmantle Nautilodaunt |  |
 | 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Flamewreathed Mechalodaunt, 1 Corrupt Rogue Construct | Avoid getting hit by the Rogue Construct's Meteor Punch, it is more than capable of doing around half of your health even with high monster armor. |
 | 34 (Gale Fiesta)
 
@@ -168,7 +168,7 @@ Based on the power of the user(s), the starting wave will differ;
 Alternatively, if you're using Corrupt Payback, you can get rid of most of the mobs at once. Having the talent Grand Feast is highly recommended here as you can still heal a small amount per kill.
 
  |
-| 40 (They Might Be Giants) | 1 Corrupt Attuned Deep Widow, 1 Corrupt Attuned Blizzard Knight, 1 Attuned Enforcer, 1 Corrupt Attuned Bonekeeper | It's best to get rid of the Enforcer and Deep Widow first as they're more fragile than the Blizzard Knight and the Bonekeeper and they can provide a useful healthpack while fighting the Blizzard Knight. |
+| 40 (The Enemies are still MASSIVE) | 1 Corrupt Attuned Deep Widow, 1 Corrupt Attuned Blizzard Knight, 1 Attuned Enforcer, 1 Corrupt Attuned Bonekeeper | It's best to get rid of the Enforcer and Deep Widow first as they're more fragile than the Blizzard Knight and the Bonekeeper and they can provide a useful healthpack while fighting the Blizzard Knight. |
 | 41 (Celtor's Reminiscence) | 12 Corrupt Tideknight Songseekers, 2 Corrupt Shadowmeld Deep Owls | Do NOT underestimate the Tideknights, they can easily gang up on you and do heavy damage with their mantras, plus adding on with their corrupted, and attuned nature, it'll be harder to attack them. Try your best to guard break them, and hit them with multi hits. The Tideknights **can** be attuned despite not being monsters. Furthermore, it's best to target the Flame Tideknight Songseekers first as, if you are not careful, they can fully charge 3 Flame Ballistas and do ungodly amounts of damage. |
 | 42 (Shadow Wizard Money Gang)
 
@@ -207,15 +207,15 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 
 \***TIMEBOMB** **MODIFIER**\*
 
- | 1 Corrupt Attuned Bonekeeper, 2 Corrupt Attuned Kyrsgarde Brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts, 1 Corrupt Mudskipper Broodlord. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ | While the overwhelming amount of mobs can seem terrifying, it also gives you more opportunities to get healthpacks. Keep in mind that the Broodlord's antiheal is modified in the Diluvian Mechanism, instead giving 100% antiheal to all sources except for downing mobs. By constantly healing from the Nautilodaunts, Kyrsgarde Snipers, Kyrsgarde Brutes, and Bounders, you will most likely defeat the Broodlord and then the Bonekeeper. However, if you are unable to get a healthpack in time, you can use the talent Conditioned Runner or stop the Mechanism early. Good luck. |
+ | 1 Corrupt Attuned Bonekeeper, 2 Corrupt Attuned Kyrsgarde Brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts, 1 Corrupt Mudskipper Broodlord. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ | While the overwhelming amount of mobs can seem terrifying, it also gives you more opportunities to get healthpacks. Keep in mind that the Broodlord's antiheal is modified in **THE MECHANISM**, instead giving 100% antiheal to all sources except for downing mobs. By constantly healing from the Nautilodaunts, Kyrsgarde Snipers, Kyrsgarde Brutes, and Bounders, you will most likely defeat the Broodlord and then the Bonekeeper. However, if you are unable to get a healthpack in time, you can use the talent Conditioned Runner or stop **THE MECHANISM** early. Good luck. |
 
 ## Trivia
 
--   Internally, The Diluvian Mechanism dungeon is called "Bathysphere," referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.
--   The Mute [Regalia](Regalia.md) does technically function in the Diluvian Mechanism; however it affects only summoned enemies, i.e. Gigameds spawned by King Gigamed.
--   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or speculation could suggest that the word is used to reference the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event.
--   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena. Note that there is a slight delay before all the mobs in the arena dies, so in that slight delay there is a chance that you may wipe.
--   Murmur Tacet used to work in the Diluvian Mechanism, but it was quickly made unusable after someone completed it solo using it.
--   The Diluvian Mechanism is the most time-efficient way to get legendary weapons and enchantments such as Curved Blade of Winds and Crypt Blade due to the volume of chests and how quickly they spawn. [Hell Mode](Hell_Mode.md) is an option and counts towards [Echoes](Echoes.md), but is less efficient in general.
+-   Internally, **THE MECHANISM** dungeon is called "Bathysphere," referring to an undersea exploration module created in the year 1929, also known as the predecessor of the submarine, which goes by the same name.
+-   The Mute [Regalia](Regalia.md) does technically function in **THE MECHANISM**; however it affects only summoned enemies, i.e. Gigameds spawned by King Gigamed.
+-   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how **THE MECHANISM** is used to sort of "flood" the player(s) with monsters to do battle against, or speculation could suggest that the word is used to reference the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event.
+-   As **THE MECHANISM** is in [The Depths](First_Layer.md), dying in **THE MECHANISM** will cause you to wipe. However, you can stop **THE MECHANISM** during a round by going to **THE MECHANISM**, speaking to it and pulling the brake lever, which kills all the mobs in the arena. Note that there is a slight delay before all the mobs in the arena dies, so in that slight delay there is a chance that you may wipe.
+-   Murmur Tacet used to work in **THE MECHANISM**, but it was quickly made unusable after someone completed it solo using it.
+-   **THE MECHANISM** is the most time-efficient way to get legendary weapons and enchantments such as Curved Blade of Winds and Crypt Blade due to the volume of chests and how quickly they spawn. [Hell Mode](Hell_Mode.md) is an option and counts towards [Echoes](Echoes.md), but is less efficient in general.
 -   The bandit at wave 49 serves as a health pack for players who are low or to rest and heal with a Graceful Flame.
--   As Deepbound, you can choose to start at the Diluvian Mechanism.
+-   As Deepbound, you can choose to start at **THE MECHANISM**.
