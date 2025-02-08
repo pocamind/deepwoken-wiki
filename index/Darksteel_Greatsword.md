@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 135038
+revid: 135077
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union, Alloyed Weapons]
@@ -10,14 +10,15 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 
 | Darksteel Greatsword | |
 |---|---|
+| alloyed name | Template:AlloyedColor |
 | type | Greatsword |
-| requirements | 40 HVY, 10 STR / 75 HVY, 10 STR |
+| requirements | 40 HVY, 10 STR / Template:AlloyedColor HVY, 10 STR |
 | damage | 26 |
-| scaling | HVY: 7 / HVY: 8 |
+| scaling | HVY: 7 / HVY: Template:AlloyedColor |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| chip damage | 10% |
+| chip damage | Template:AlloyedColor |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 25 |
 | weight | 9 |
@@ -25,7 +26,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Starswept Valley, Summer Isle, Saramaed Hollow, Darksteel Pirates, Floating Keep Blacksmith (Halloween Event 2022), First Layer, Primadon, Titan of the East, Duke Ishamon Erisia, Tower Event, Bought from Miner's Landing, Chime of Conflict, War Mode, Chaser, Moon's Eyrie, Dread Serpent, Pure Astruline turn-inAlloyed:, Alloying a Darksteel Greatsword, Dread Serpent |
+| obtainment | Maestro Evengarde Rest, Starswept Valley, Summer Isle, Saramaed Hollow, Darksteel Pirates, Floating Keep Blacksmith (Halloween Event 2022), First Layer, Primadon, Titan of the East, Heart of Enmity, Duke Ishamon Erisia, Tower Event, Bought from Miner's Landing, Chime of Conflict, War Mode, Chaser, Moon's Eyrie, Dread Serpent, Pure Astruline turn-inAlloyed:, Alloying a Darksteel Greatsword, Dread Serpent, Heart of Enmity |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep." |
 
 ## Description

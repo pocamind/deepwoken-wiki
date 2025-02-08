@@ -1,6 +1,6 @@
 ---
 title: Canticlysm Pendant
-revid: 119177
+revid: 135128
 source: https://deepwoken.fandom.com/wiki/Canticlysm_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser, Scholar of the Crimson Contract, Hell Mode, Maestro Evengarde Rest |
+| obtainment | Chaser, Scholar of the Crimson Contract, Hell Mode, Maestro Evengarde Rest, Heart of Enmity |
 | description | "..." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Investigator's Hat"
-revid: 123611
+revid: 135099
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Duke Erisia, War Mode, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Aratel Island, Duke Ishamon Erisia, War Mode, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
 | description | "..." |
 
 ## Description

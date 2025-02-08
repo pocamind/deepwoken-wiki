@@ -1,6 +1,6 @@
 ---
 title: Ring of Curses
-revid: 133251
+revid: 135150
 source: https://deepwoken.fandom.com/wiki/Ring_of_Curses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrea VS Eylis Sea Event, Primadon, Deep Widow, First Layer, Duke Erisia, Maestro Evengarde Rest, Chaser |
+| obtainment | Chests from:, Etrea VS Eylis Sea Event, Primadon, Titan of the East, Deep Widow, First Layer, Heart of Enmity, Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract |
 | description | "You come across mortal encounters more frequently." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Diver's Ring"
-revid: 133108
+revid: 135143
 source: https://deepwoken.fandom.com/wiki/Diver's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:Primadon , First Layer , Duke Erisia , Deep Widow , Second Layer , Chime of Conflict , The Diluvian Mechanism , Maestro Evengarde Rest |
+| obtainment | Chests from:, Primadon, Titan of the East, First Layer, Duke Ishamon Erisia, Deep Widow, Second Layer, Chime of Conflict, Heart of Enmity, The Diluvian Mechanism, Maestro Evengarde Rest |
 | description | "Deal +5% damage to Monsters in the Depths." |
 
 ## Description

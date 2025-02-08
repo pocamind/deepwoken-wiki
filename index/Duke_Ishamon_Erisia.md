@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 134881
+revid: 135055
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -263,9 +263,73 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   [Rare Weapons](Weapons.md)
 -   [Attunement Uncap](Attributes_Unbound.md) (If the requirements are met.)
 -   [Weapon Uncap](Attributes_Unbound.md) (If the requirements are met.)
--   The ability to obtain the [Pillars of Erisia](Galebreathe.md) Mantra in a Whisper hand with sufficient Galebreathe.
+-   The ability to obtain the [Pillars of Erisia](Galebreathe.md#combat-mantras) Mantra in a Whisper hand with sufficient Galebreathe.
 -   [Resonance](Resonance.md) (Bell) progression.
     -   It will take around 6 Dukes with Max Resonance Progression Echo to unlock Resonance with either the boss path or the regalia and around 9-10 without the boss path or the regalia
+
+### 
+
+Exhaustive Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Black_Diver.md">Black Diver</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li>Some <a href="Relics.md">Relics</a>:
+  <ul>
+    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
+    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
+    <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
+    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
+    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></li>
+    <li><b>Alloyed Weapons</b>: <a href="Dawnshot.md#alloyed"><font>Alloyed Dawnshot</font></a></li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a></li>
+    <li><b>Medium Weapons</b>: <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Stoneheart.md">Stoneheart</a></li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>, <a href="Worshipper's_Shield.md">Worshipper's Shield</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Alchemist's_Hat.md">Alchemist's Hat</a>, <a href="Authority_Helm.md">Authority Helm</a>, <a href="Barrel_Helm.md">Barrel Helm</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Grand_Authority_Sallet.md">Bulwark Helm</a>, <a href="Captain's_Kabuto.md">Captain's Kabuto</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, Gladiator Helmet, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Guardian_Helmet.md">Guardian Helmet</a>, <a href="Herbalist's_Hat.md">Herbalist's Hat</a>, Hood (Both Variants), <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Legate_Helm.md">Legate Helm</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Strapped_Hat.md">Strapped Hat</a>, <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Adventurer_Coat.md">Adventurer Coat</a> (All Variants), <a href="Azure_Sentinel_Pauldrons.md">Azure Royal Guard</a>, <a href="Brigand's_Cloak.md">Brigand's Cloak</a>, <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Celtor_Commander_Plate.md">Celtor Commander Plate</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Enforcer_Plate.md">Enforcer Plate</a>, <a href="Gladiator_Pauldrons.md">Gladiator Pauldrons</a>, <a href="Grand_Authority_Plate.md">Grand Authority Plate</a>, <a href="Grand_Pauldrons.md">Grand Pauldrons</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Iron_Pauldrons.md">Iron Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Novice_Brace.md">Novice Brace</a>, Overcoats (Brown &amp; White), <a href="Ranger's_Brace.md">Ranger's Brace</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Silver_Pauldrons.md">Silver Pauldrons</a>, <a href="Simple_Pauldrons.md">Simple Pauldrons</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Steel_Pauldrons.md">Steel Pauldrons</a>, <a href="Vanguard_Brace.md">Vanguard Brace</a>, <a href="Winter_Corps_Parka.md">Winter Corps Parka</a>.</li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Azure_Sentinel_Boots.md">Azure Royal Guard Boots</a>, <a href="Celtorian_Sabatons.md">Celtorian Sabatons</a>, <a href="Enforcer_Boots.md">Enforcer Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Grand_Boots.md">Grand Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a>, <a href="Star_Boots.md">Star Boots</a>.</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
+  <ol>
+    <li><b>Relic Torso</b>: <a href="Whistling_Periapt.md"><font>Whistling Periapt</font></a>.</li>
+    <li><b>Generic Torso</b>: Capes (Both Variants), <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Pathfinder's_Backpack.md">Pathfinder's Backpack</a>, Shrouded Capes (All Variants), <a href="Varicosa_Medallion.md">Varicosa Medallion</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (All Variants), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Citadel Frames</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a>, <a href="Aspirant_Mask.md">Royal Guard</a> (All Variants), <a href="Smith's_Goggles.md">Smith's Goggles</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>, <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a>.</li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: <a href="Emerald_Tusk_Earrings.md">Emerald Tusk Earrings</a>, <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a>, <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a>.</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
+  <ol>
+    <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>.</li>
+    <li><b>Generic Rings</b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Gold_Ring.md">Gold Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 

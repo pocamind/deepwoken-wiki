@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 134985
+revid: 135054
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -258,7 +258,11 @@ Exhaustive Loot Table
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Windrunner_Robes.md">Windrunner Robes</a> (Master Outfit), <a href="Justicar's_Armor.md">Justicar's Armor</a> (Master Outfit), <a href="Cloak_of_Winds.md">Cloak of Winds</a> (Expert Outfit).</td>
+  <td>
+  <ul>
+    <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a></li>
+    <li><b>Master</b>: <a href="Windrunner_Robes.md">Windrunner Robes</a>, <a href="Justicar's_Armor.md">Justicar's Armor</a></li>
+  </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>

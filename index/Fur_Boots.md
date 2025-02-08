@@ -1,6 +1,6 @@
 ---
 title: Fur Boots
-revid: 125138
+revid: 135121
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Minityrsa, Songseeker Wilds, Maestro Evengarde Rest, Dread Serpent, War Mode (Black) |
+| obtainment | Chests from:, Erisia, Minityrsa, Songseeker Wilds, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode (Black) |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

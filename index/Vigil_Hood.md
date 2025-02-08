@@ -1,6 +1,6 @@
 ---
 title: Vigil Hood
-revid: 117776
+revid: 135105
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods, Etrea, Items]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hoods, Etrea, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest |
+| obtainment | Chests from:, Aratel Island, First Layer, Duke Ishamon Erisia, Primadon, Titan of the East, Heart of Enmity, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

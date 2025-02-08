@@ -1,6 +1,6 @@
 ---
 title: Red Eye Pendant
-revid: 123596
+revid: 135132
 source: https://deepwoken.fandom.com/wiki/Red_Eye_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, Crypt of the Unbroken, Miner's Landing, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Second Layer, Crypt of the Unbroken, Miner's Landing, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
 | description | "..." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 134936
+revid: 135064
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -199,7 +199,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Normal & Big |
@@ -251,7 +251,7 @@ _+Talent: Strong Hold_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -276,7 +276,7 @@ _+5 Health_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
@@ -305,7 +305,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [War Mode](War_Mode.md)
 
  | Normal & Big |
@@ -328,7 +328,7 @@ _+Talent: Iron Gut_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -352,7 +352,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -382,6 +382,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -408,11 +409,12 @@ _+10 Health_
 Found from:
 
 -   [Summer Isle](Summer_Isle.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -438,6 +440,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Black & Double |
 |  | 
@@ -460,7 +463,7 @@ _+Talent: Bloodletter_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -509,7 +512,7 @@ _+Talent: Spare Nails_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
@@ -534,7 +537,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
  | Black & Brown |
@@ -558,7 +561,7 @@ _+Talent: Strong Hold_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
@@ -584,7 +587,7 @@ _+8 Health_
 Found from:
 
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -610,10 +613,11 @@ _+Talent: Grasp On Reality_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -657,10 +661,11 @@ _+4% Stealth_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
@@ -689,8 +694,9 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Hell Mode](Hell_Mode.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -739,8 +745,9 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [First Layer](First_Layer.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -764,7 +771,7 @@ _+Talent: The Exterminator_
 Found from:
 
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -858,7 +865,7 @@ _+3 Health_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -886,7 +893,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 
@@ -908,10 +915,11 @@ _+5 Health_
 Found from:
 
 -   [Golden Warrior](Golden_Warrior.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
@@ -960,8 +968,9 @@ _+8 Health_
 Found from:
 
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
@@ -981,7 +990,7 @@ _+1 Posture_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Artifact Turn-ins](Artifacts.md)
@@ -1027,7 +1036,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
  | Normal & Big |
 | File:ImmortalHelm.png | 
@@ -1074,8 +1083,9 @@ _+Talent: Give and Take_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -1101,7 +1111,7 @@ _+2 Posture_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
@@ -1125,9 +1135,10 @@ _+10 Health_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -1169,7 +1180,7 @@ _+1 Posture_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
@@ -1281,6 +1292,7 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -1391,11 +1403,12 @@ _+4 Health_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  | N/A |
 |  | 
@@ -1415,7 +1428,7 @@ _+2 Posture_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -1479,7 +1492,7 @@ _+4 Health_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
@@ -1506,8 +1519,9 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
@@ -1745,7 +1759,7 @@ _+3 Health_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**100%**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**100%**)
 
  | Black, Brown, Green, White |
 | File:Slate Aristocrat Coat.png | 
@@ -1849,7 +1863,7 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -1870,7 +1884,7 @@ Found from:
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**~33%**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~33%**)
 
  | N/A |
 | File:Bastionsofemnity.png | 
@@ -1917,8 +1931,9 @@ _+3 Health_
 Found from:
 
 -   [Hell Mode](Hell_Mode.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Black, Brown, & White |
 | File:Black Parka.png | 
@@ -1944,7 +1959,7 @@ _+Talent: Steady Footing_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
@@ -1972,10 +1987,11 @@ _+1 Posture_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  | N/A |
@@ -1997,7 +2013,7 @@ _+5 Health_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -2025,7 +2041,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -2051,8 +2067,9 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   Trading with [Jeremiah](Jeremiah.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [War Mode](War_Mode.md)
 
@@ -2074,12 +2091,13 @@ _+1 Posture_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | Black, Brown, & White |
@@ -2106,7 +2124,7 @@ _+Talent: Steady Footing_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
@@ -2133,7 +2151,7 @@ _+Talent: Breathing Exercise_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [War Mode](War_Mode.md)
@@ -2165,7 +2183,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Deep Widow](Deep_Widow.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -2273,7 +2291,7 @@ _+Talent: Berserker_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
 
  | N/A |
 | File:Etrean Siege Cuirass.png | 
@@ -2298,11 +2316,12 @@ _+Talent: Battle Tendency_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -2375,7 +2394,7 @@ _+3 Health_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Second Layer](Second_Layer.md)
@@ -2402,7 +2421,7 @@ _+1 Posture_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
@@ -2463,7 +2482,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [Deep Widow](Deep_Widow.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -2509,7 +2528,7 @@ _+1 Posture_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
 
  | N/A |
 |  | 
@@ -2529,7 +2548,7 @@ Found from:
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Summer Isle](Summer_Isle.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 | File:Gumshoe Long Coat.png | 
@@ -2578,7 +2597,7 @@ _+Talent: Lowstride_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
@@ -2634,8 +2653,9 @@ _+1 Posture_
 Found from:
 
 -   [Fort Merit](Fort_Merit.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -2675,7 +2695,7 @@ Sources:
 Found from:
 
 -   [Fort Merit](Fort_Merit.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
 
  | N/A |
 |  | 
@@ -2703,6 +2723,7 @@ _+Talent: Defiant until the End_
 Found from:
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Second Layer](Second_Layer.md)
 -   [War Mode](War_Mode.md)
@@ -2750,7 +2771,7 @@ _+Talent: Polite Awakening_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -2821,6 +2842,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [War Mode](War_Mode.md)
 -   [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
@@ -2868,10 +2890,11 @@ _+Talent: Kick Off_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Hell Mode](Hell_Mode.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -2922,10 +2945,11 @@ _+Talent: Ether Conduit_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
--   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -3013,6 +3037,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -3092,7 +3117,7 @@ _+1 Posture_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
@@ -3121,7 +3146,7 @@ _+1 Posture_
 Found from:
 
 -   [Chime of Conflict](Chime_of_Conflict.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -3253,7 +3278,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -3295,11 +3320,12 @@ Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)\]\]
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  | N/A |
 |  | 
@@ -3325,7 +3351,7 @@ _+Talent: Star Duster_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
@@ -3351,7 +3377,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
 
@@ -3376,7 +3402,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [War Mode](War_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -3403,8 +3429,9 @@ _+Talent: Replenishing Knockout_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -3478,7 +3505,7 @@ _+2 Health_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -3508,7 +3535,7 @@ _+Talent: Steady Footing_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
@@ -3540,7 +3567,7 @@ _+Talent: Winter's Protection_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
@@ -3567,7 +3594,7 @@ _+Talent: Polite Awakening_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -3689,10 +3716,11 @@ _+3 Health_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -3728,7 +3756,7 @@ _+3 Health_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
@@ -3751,7 +3779,7 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Hell Mode](Hell_Mode.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -3775,7 +3803,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -3813,7 +3841,7 @@ Found from:
 Found from:
 
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 | File:Etrean Siege Sabatons.png | 
@@ -3831,10 +3859,11 @@ _+4 Health_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
  | N/A |
@@ -3856,7 +3885,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Hell Mode](Hell_Mode.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -3869,7 +3898,7 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
 
@@ -3878,8 +3907,9 @@ _+3 Health_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
@@ -3895,7 +3925,7 @@ Found from:
 
  | 
 
-_+4 Health_  
+_+4 Health_
 
 +2 Rare Pips
 
@@ -3905,7 +3935,7 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -3924,7 +3954,8 @@ Found from:
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [First Layer](First_Layer.md)
 
  | N/A |
@@ -3934,9 +3965,9 @@ Found from:
 
  | 
 
-_+5 Health_  
+_+5 Health_
 
-+2 Rare Pips  
++2 Rare Pips
 
 +1 Legendary Pip
 
@@ -3963,7 +3994,7 @@ Found from:
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 
  | N/A |
@@ -3973,7 +4004,7 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
 
@@ -3985,8 +4016,9 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Deep Widow](Deep_Widow.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -4030,8 +4062,9 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -4042,7 +4075,7 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
 
@@ -4062,7 +4095,7 @@ Found from:
 
  | 
 
-+2 Rare Pips  
++2 Rare Pips
 
 +1 Legendary Pip
 
@@ -4071,7 +4104,7 @@ Found from:
 Found from:
 
 -   [Second Layer](Second_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -4092,7 +4125,7 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -4115,7 +4148,7 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -4137,7 +4170,7 @@ _+3 Health_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -4149,9 +4182,9 @@ Found from:
 
  | 
 
-_+5 Health_  
+_+5 Health_
 
-+2 Rare Pips  
++2 Rare Pips
 
 +1 Legendary Pip
 
@@ -4162,7 +4195,7 @@ _+5 Health_
 Found from:
 
 -   [Deep Widow](Deep_Widow.md) (The Depths)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -4174,7 +4207,7 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
 
@@ -4186,7 +4219,8 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
 
@@ -4197,7 +4231,7 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
 
@@ -4209,7 +4243,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -4242,7 +4276,7 @@ Found From:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
 
@@ -4254,8 +4288,9 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   Buying from [Merchant Ships](Travelling_Merchant.md)
 
@@ -4266,7 +4301,7 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
 
@@ -4278,8 +4313,9 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -4370,8 +4406,9 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  | N/A |
 | File:Confessors Charm.png | 
@@ -4396,8 +4433,9 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -4417,7 +4455,7 @@ _+3% Elemental Armor_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -4444,7 +4482,7 @@ _+2% Elemental Armor_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -4543,7 +4581,8 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [First Layer](First_Layer.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -4594,9 +4633,10 @@ _+3% Elemental Armor_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  | N/A |
 | File:Old World Sun Pendant.png | 
@@ -4613,7 +4653,7 @@ Found from:
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Rare**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Rare**)
 -   [Miner's Landing](<Miner's_Landing.md>) (**Very Rare**)
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md) (**Rare**)
@@ -4658,7 +4698,7 @@ _+Talent: Robber Baron_
 Found from:
 
 -   [High-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 
  | N/A |
@@ -4678,10 +4718,11 @@ _+3% Elemental Armor_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -4704,7 +4745,7 @@ _+3% Fire Armor_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
@@ -4751,7 +4792,7 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -4781,7 +4822,7 @@ _+2% Elemental Armor_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**100%**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**100%**)
 
  | Red, Black, Midnight & White |
 | File:Threadwork kilt.png | 
@@ -4824,7 +4865,7 @@ _+3% Shadow Armor_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -4932,6 +4973,7 @@ _+Talent: Actions Speak Louder_
 Sources:
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
@@ -4957,7 +4999,7 @@ _+Talent: Whistleguard_
 
 Sources:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
  | N/A |
@@ -5018,10 +5060,11 @@ Variants
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -5070,7 +5113,7 @@ Found from:
 
  | 
 
-_+5% Shadow Armor_  
+_+5% Shadow Armor_
 
 +1 Rare Pip
 
@@ -5080,7 +5123,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
@@ -5096,7 +5139,7 @@ Found from:
  | 
 
 +5 Health  
-\-1 or -2 Posture  
+\-1 or -2 Posture
 
 +1 Rare Pip
 
@@ -5108,7 +5151,8 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
@@ -5170,8 +5214,9 @@ _+6% Stealth_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -5213,8 +5258,9 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Hell Mode](Hell_Mode.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 -   [Aelita](Aelita.md)
@@ -5234,7 +5280,7 @@ Found from:
 Found from:
 
 -   Mob Drop from [Hive Constructs](Hive_Construct.md) (**~20%**)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -5256,7 +5302,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
@@ -5293,7 +5339,7 @@ Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -5336,9 +5382,10 @@ Found from:
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   Mob drop from Masked Songseeker Enemies ~(**10%**)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | Blue, Green & Red |
@@ -5355,7 +5402,7 @@ Found from:
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -5378,8 +5425,9 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 |  | 
@@ -5430,7 +5478,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 -   [First Layer](First_Layer.md)
@@ -5492,7 +5540,7 @@ Variants
 Found from:
 
 -   [Ferryman](The_Ferryman.md) (**100%**)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -5511,7 +5559,7 @@ Found from:
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -5532,7 +5580,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -5551,7 +5599,7 @@ Found from:
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -5571,7 +5619,7 @@ _+3% Stealth_
 Found from:
 
 -   [Fort Merit](Fort_Merit.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -5595,7 +5643,7 @@ Found from:
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -5619,7 +5667,8 @@ Found from:
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -5639,7 +5688,7 @@ Found from:
 Found from:
 
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -5655,7 +5704,7 @@ Found from:
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [First Layer](First_Layer.md) (**Rare**)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -5677,7 +5726,7 @@ Found from:
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -5697,7 +5746,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -5744,7 +5793,7 @@ Found from:
 -   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [Ferryman](The_Ferryman.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Fort Merit](Fort_Merit.md) (**Extremely Rare**)
@@ -5769,7 +5818,7 @@ Found from:
 
 -   [Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) **(Extremely Rare)**
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -5793,10 +5842,11 @@ Grants the ability to recover 2% of Armor durability per kill. (Stacks with Bloo
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -5840,7 +5890,7 @@ Found from:
 -   [Ferryman](The_Ferryman.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Deep Widow](Deep_Widow.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -5867,10 +5917,11 @@ Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -5896,7 +5947,7 @@ Found from:
 -   [Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -5920,12 +5971,13 @@ Found from:
 
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Second Layer](Second_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
@@ -5950,7 +6002,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   [Aelita](Aelita.md) (**Extremely Rare**)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -5973,8 +6025,9 @@ Found from:
 
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -6012,7 +6065,7 @@ Found from:
 -   [Mudskipper Cave](Lower_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   Interacting with [Polis](Polis.md)' first dialogue
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -6037,8 +6090,9 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
@@ -6060,9 +6114,10 @@ Found from:
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -6082,7 +6137,7 @@ Allows the user to slide with little delay.
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Mudskipper Cave](Lower_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
@@ -6110,10 +6165,11 @@ _+2% Lightning Armor_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   Mob drop from [Frostdraw Trainer](Nell,_Master_of_Frost.md)
@@ -6140,7 +6196,7 @@ Found from:
 
 -   [Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) **(Extremely Rare)**
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   Trading with [Jeremiah](Jeremiah.md)
@@ -6166,7 +6222,7 @@ Found from:
 
 -   [Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) (**Extremely Rare**)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -6192,11 +6248,12 @@ Deal more damage to factions that hate you.
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -6239,7 +6296,7 @@ Gives every weapon 1.2 charisma scaling when equipped.
 Found from:
 
 -   [Ferryman](The_Ferryman.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -6265,8 +6322,9 @@ Found from:
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -6288,11 +6346,12 @@ Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -6316,8 +6375,9 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  |
@@ -6336,8 +6396,9 @@ Found from:
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -6358,10 +6419,11 @@ Double the amount of charges of Attunement Wisps.
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
@@ -6387,7 +6449,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Ferryman](The_Ferryman.md)
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Pure Ore Turn-ins](Blacksmith.md) (**Extremely Rare**)
@@ -6434,7 +6496,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
 
@@ -6462,8 +6524,9 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  |

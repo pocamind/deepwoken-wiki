@@ -1,6 +1,6 @@
 ---
 title: Ring of Wisps
-revid: 133253
+revid: 135153
 source: https://deepwoken.fandom.com/wiki/Ring_of_Wisps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Rings, The Divers]
@@ -22,7 +22,7 @@ notices:
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | N/A |
+| obtainment | Etrea VS Eylis Sea Event, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
 | description | N/A |
 
 ## Description

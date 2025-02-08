@@ -1,6 +1,6 @@
 ---
 title: Dazed Band
-revid: 126665
+revid: 135142
 source: https://deepwoken.fandom.com/wiki/Dazed_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrea vs Eylis Sea Event, Miner's Landing, Duke Erisia, Primadon, First Layer, Maestro Evengarde Rest, War Mode, Dread Serpent |
+| obtainment | Chests from:, Etrea vs Eylis Sea Event, Miner's Landing, Duke Ishamon Erisia, Primadon, Titan of the East, Heart of Enmity, First Layer, Maestro Evengarde Rest, War Mode, Dread Serpent |
 | description | "Flourishing an opponent has a chance to stun them automatically." |
 
 ## Description

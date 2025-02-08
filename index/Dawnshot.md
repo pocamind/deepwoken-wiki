@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 134436
+revid: 135074
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Alloyed Weapons, Offhand Guns]
@@ -23,7 +23,7 @@ categories: [Weapons, Flintlocks, Alloyed Weapons, Offhand Guns]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Minityrsa, Summer Isle, Moon's Eyrie, Songseeker Wilds, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, War ModeAlloyed:, Alloying a Dawnshot, Duke Erisia, Maestro Evengarde Rest, Dread Serpent, Sea Events |
+| obtainment | First Layer, Minityrsa, Summer Isle, Moon's Eyrie, Songseeker Wilds, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War ModeAlloyed:, Alloying a Dawnshot, Duke Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Sea Events |
 | description | "With an almost flawless silver sheen that prevents corrosion from saltwater, the Dawnshot was purpose-built by Rosen for his lengthy travels at sea. Its short range is compensated for by the almost wrist-snapping kickback of four barrels. Although, with the Summer Company Cannon making most naval investments in their territories obsolete, this weapon has fallen out of production." |
 
 ## Description

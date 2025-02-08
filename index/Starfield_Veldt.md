@@ -1,6 +1,6 @@
 ---
 title: Starfield Veldt
-revid: 128090
+revid: 135163
 source: https://deepwoken.fandom.com/wiki/Starfield_Veldt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Voidzones]
@@ -26,4 +26,4 @@ The **Star Tree** is a large gathering of tree roots dotted with many glowing wh
 
 ## Notes & Trivia
 
--   This area is one of three areas that contain a Star Tree, alongside the [Starfield Tundra](Starfield_Tundra.md) and [Starfield Grove](Starfield_Grove.md).
+-   This area is one of three areas that contain a Star Tree, alongside the [Starfield Tundra](Starfield_Tundra.md) and [Starfield Grove](Starfield_Grove.md), [stardust](Stardust.md) can be found in these areas.

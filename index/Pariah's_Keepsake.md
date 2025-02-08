@@ -1,6 +1,6 @@
 ---
 title: "Pariah's Keepsake"
-revid: 133228
+revid: 135148
 source: https://deepwoken.fandom.com/wiki/Pariah's_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Rings, The Divers]
@@ -22,7 +22,7 @@ notices:
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | N/A |
+| obtainment | Etrea VS Eylis Sea Event, Duke Ishamon Erisia, Primadon, Titan of the East, Deep Widow, First Layer, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict |
 | description | N/A |
 
 ## Description

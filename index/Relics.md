@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 134870
+revid: 135071
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -118,6 +118,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
@@ -138,6 +139,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Fishing](Fishing.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Depths Sea Island](https://deepwoken.fandom.com/wiki/Random_Encounters#Islands/Outposts)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
@@ -161,6 +163,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -180,6 +183,8 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Hell Mode](Hell_Mode.md)
 -   [Hollow Forge](Hollow_Forge.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   8 Star [Bounty](Bounty_Hunting.md) VoidWalker Chests
@@ -248,6 +253,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 5% shorte
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
@@ -300,6 +306,7 @@ Functionally identical to Legendary Weapons, in soulbounding and Enchant bans, t
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [The Understrand](The_Understrand.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  |
 | 
@@ -351,6 +358,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
     <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
+    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
     <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
     <li><a href="Star_Knight.md">Star</a> or <a href="Moon_Knight.md">Moon Knights</a> (Astral only)</li>
     <li><a href="Primadon,_Titan_of_the_East.md">Primadon</a> or <a href="Hive_Construct.md">Hive Constructs</a> (Curse of Rhaemen's Ember only)</li>
@@ -369,6 +377,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li>Exchange <a href="Kyrsan_Medallions.md">Kyrsan Medallions</a> with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
     <li>Exchange <a href="Knowledge.md">Knowledge</a> with <a href="Laplace.md">Laplace</a></li>
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
+    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
     <li><a href="War_Mode.md">War Mode</a></li>
     <li><a href="Hell_Mode.md">Hell Mode</a></li>
   </ul></td>
