@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 134174
+revid: 135020
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -8,7 +8,7 @@ categories: [Deepwoken]
 
 # Terminology (game)
 
-The following article contains a glossary for general game terms related to _Deepwoken_. _If you were looking for the in-game dialogue mechanic, see [Glossary](Glossary.md)._
+The following article contains a glossary for general game terms related to _Deepwoken_ used by players. _If you were looking for the in-game dialogue mechanic, see [Glossary](Glossary.md)._
 
 ## General Terms
 
@@ -159,11 +159,11 @@ _verb_
 1.  Ganking lower powers in the Depths.
     1.  Ex "Lets depths gank these power 3's"
 
-### Execute
+### Grip
 
 _verb_
 
-1.  To finish a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'grip' is also used.)
+1.  To execute a player, [enemy](Enemies.md) or [monster](Monsters.md).
 
 ### Feint
 
@@ -234,7 +234,7 @@ _noun_
 
 _verb_
 
-1.  To use an attack or other move (typically a Critical) immediately after another move (a Mantra, roll, or M1), causing the move to be performed immediately after the first one's animation ends.
+1.  To input an attack or other move (typically a Critical) within a short window after inputting another move (a Mantra, roll, or M1), causing the move to be performed immediately after the first one's animation ends.
 
 ### Parry
 
@@ -372,7 +372,7 @@ _noun_
 
 1.  Nickname for the legendary [Dimension Travel](Dimensional_Travel.md) Resonance. It is also a reference to Obito Uchiha's Kamui ability from Naruto Shippuden.
 
-### Legendary
+### Legendary bell
 
 _adjective_
 

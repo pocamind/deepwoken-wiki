@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 134963
+revid: 135032
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1462,7 +1462,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Corpse Explosion \[Common Talent\] - Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage.
     -   Burn grip unconscious targets, even yourself, in 4 seconds (same time as a manual grip) instead of 8.
     -   The explosion does not work; you'll burn them to death without an explosion.
-    -   Prerequisites: 60 Flamecharm and Agitating Spark
+    -   Prerequisites: 60 Flamecharm, Agitating Spark
 
 -   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether.
     -   Does not proc with flames produced by the user with Flame Within or Agitating Spark.
