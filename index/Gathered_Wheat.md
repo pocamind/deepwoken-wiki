@@ -1,9 +1,9 @@
 ---
 title: Gathered Wheat
-revid: 111502
+revid: 135714
 source: https://deepwoken.fandom.com/wiki/Gathered_Wheat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Uses, Ingredients]
+categories: [Uses, Ingredients, Harvestables]
 ---
 
 # Gathered Wheat

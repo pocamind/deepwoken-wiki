@@ -1,6 +1,6 @@
 ---
 title: Phalanx Heavy Boots
-revid: 125150
+revid: 135597
 source: https://deepwoken.fandom.com/wiki/Phalanx_Heavy_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from;, Second Layer, Duke Erisia, Maestro Evengarde Rest, Dread Serpent, War Mode, Erisore turn ins, Saramaed Hollow Both the helmet and boots can drop from Saramaed, unsure about the plate. No image proof, but I got them from there aswell. |
+| obtainment | Chests from;, Second Layer, Duke Ishamon Erisia, The Doom of Caeranthil, Maestro Evengarde Rest, Dread Serpent, War Mode, Erisore turn ins, Saramaed Hollow |
 | description | "..." |
 
 ## Description

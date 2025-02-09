@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 135137
+revid: 135627
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -72,7 +72,7 @@ The Headband is an [equipment](Equipment.md) item under the "Face" category. The
   <td>Green</td>
   <td>+1 Rare</td>
   <td></td>
-  <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="War_Mode.md">War Mode</a>, <a href="Aelita.md">Aelita</a>, <a href="The_Ferryman.md">The Ferryman</a> (Winter), <a href="Dread_Serpent.md">Dread Serpent</a></td>
+  <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="War_Mode.md">War Mode</a>, <a href="Aelita.md">Aelita</a>, <a href="The_Ferryman.md">The Ferryman</a> (Winter), <a href="Dread_Serpent.md">Dread Serpent</a>, <a href="The_Doom_of_Caeranthil.md">The Doom of Caeranthil</a></td>
 </tr>
 <tr>
   <td>White</td>

@@ -1,6 +1,6 @@
 ---
 title: Mushroom Omelette
-revid: 98099
+revid: 135591
 source: https://deepwoken.fandom.com/wiki/Mushroom_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -12,7 +12,7 @@ Template:Food Template V1
 
 ## Effects
 
-The Mushroom Omelette gives 20% max hunger and 10% max thirst. The Omelette gives a 15% damage buff to weapons.
+The Mushroom Omelette gives 20% max hunger and 10% max thirst. The Omelette gives a 5% damage buff to weapons.
 
 ## Obtainment
 

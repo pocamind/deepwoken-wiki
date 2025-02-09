@@ -1,9 +1,9 @@
 ---
 title: Whistling Periapt
-revid: 135188
+revid: 135672
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Necklaces, Torso, Equipment, Relics]
+categories: [Necklaces, Torso, Equipment, Relics, Items]
 ---
 
 # Whistling Periapt
@@ -42,6 +42,7 @@ Estimated by rarity to have a ~0.1% drop chance from both [Duke](Duke_Ishamon_Er
 -   If smelted, cannot be banked.
 -   This item's pips can be transmuted with [Armorer's Needle](<Armorer's_Needle.md>) or [Gilded Needle](Gilded_Needle.md).
 -   Whistling Periapt no longer works on vents.
+-   This is one of the droppable torso relics alongside the [Warmaster's Medallion](<Warmaster's_Medallion.md>), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Tiran Pendant](Tiran_Pendant.md).
 
 ## References
 

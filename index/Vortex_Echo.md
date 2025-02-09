@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 134444
+revid: 135755
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons]
@@ -54,3 +54,4 @@ January 11th 2025
     -   The crit used to supposedly entirely reset the cooldown.
 -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on **Vortex Echo's** cooldown, lowering it down to 26 seconds in the overworld.
 -   Certain Mantras with long cooldowns, such as Reinforce and Adrenaline Surge, are still affected by **Vortex Echo's** critical, but the game will show these mantras as if they're under their normal cooldown, this is a visual bug as the mantras will be available to use after a short duration, "skipping" the cooldown indicated visually.
+-   Also works on Hive Fountains.

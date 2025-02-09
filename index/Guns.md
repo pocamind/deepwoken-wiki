@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 135562
+revid: 135564
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
@@ -36,7 +36,9 @@ Note that if your 1H gun is unloaded, pressing your crit button will just do a l
 
 ### Offhand Gun
 
-Using your gun as a side-weapon will **not** gain you the ammo counter, as it will no longer have to shoot bullets or reload. Pressing M2 will make you extend your arm and shoot, creating the usual blast you'd see in other guns with no bullet coming out. Using [Bullet Casings](Bullet_Casings.md) will not affect it. This attack **cannot** be used in your M1 combo like mantras and acts as a standalone hit. The Talent [Quick Draw](Talents.md) from the [Gunslinger](Talents.md) Talent tree will make such possible, although **you need to wait for the full endlag of your M1 and then use M2** otherwise the attack wont happen, which may cost you a hit during an intense fight.
+Using your gun as a side-weapon will **not** gain you the ammo counter, as it will no longer have the innate ability to fire bullets or reload. Pressing M2 will make you extend your arm and shoot, creating the usual blast you'd see in other guns with no bullet coming out. The [Hip Shooter](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent can allow it to fire a projectile bullet with a 5s CD as long as your main weapon is a medium or heavy weapon.
+
+This attack **cannot** be used in your M1 combo like mantras and acts as a standalone hit. The Talent [Quick Draw](Talents.md) from the [Gunslinger](Talents.md) Talent tree will make such possible, although **you need to wait for the full endlag of your M1 and then use M2** otherwise the attack wont happen, which may cost you a hit during an intense fight.
 
 The blast **will** inherit [Enchant](Enchantments.md) effects such as Storm or Obfuscation, however the damage of the gun will be 80% of the equipped pistol's scaled damage, with it's original posture damage (which is exactly **1** for all pistols except Roscoe) and all other effects like chip from the [Alloyed Dawnshot](Dawnshot.md) or [Rosen's Roscoe](<Rosen's_Roscoe.md>).
 
@@ -44,7 +46,7 @@ Furthermore, using a side gun with a non-light main weapon will increase the win
 
 #### Reloading
 
-The amount of bullets you can load into a gun depends on the type you are using. The [Dragoon](Dragoon.md), [Flintlock](Flintlock.md) and [Dawnshot](Dawnshot.md) can hold 4 bullets, and the [Repeater](Repeater.md) and [Silversix](Silversix.md) can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload Talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill Talent](Talents.md#outlaw) is active)
+The amount of bullets you can load into a gun depends on the gun you have equipped. The [Dragoon](Dragoon.md), [Flintlock](Flintlock.md) and [Dawnshot](Dawnshot.md) can hold 4 bullets, and the [Repeater](Repeater.md) and [Silversix](Silversix.md) can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload Talent](Talents.md#outlaw) an empty gun, and 0.25 if the [Ultrakill Talent](Talents.md#outlaw) is active)
 
 ### Talents
 
@@ -109,14 +111,14 @@ _**Stats:**_
 ## Trivia
 
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 Iron for 20 bullets.
-    -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your guild base and [The Furnace](The_Furnace.md).
+    -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your [Guild Base](Guild_Bases.md) and [The Furnace](The_Furnace.md).
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
 -   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem.](Iron_Requiem.md) (two rifles and one Flintlock)
--   The [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Iron Requiem](Iron_Requiem.md) are the only guns with multiple crits.
--   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.
+-   The [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Iron Requiem](Iron_Requiem.md) are the only guns with multiple crits, both being legendary weapons.
 -   One handed guns are the only type of guns where having [iron bullets](Bullet_Casings.md) isn't a direct upgrade.
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip and 15% increased damage.
--   As of 3/8/2024 (m/d/y), rifles and dual pistols no longer shoot a bullet on their m1s.
+-   As of 2024, March 3th, rifles and dual pistols no longer shoot a bullet on their m1s.
 -   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In real life, this is very impractical, as the rifle's springlock and other parts can be easily damaged or even destroyed upon impact, ruining the gun.
 -   Both pistols and rifles in Deepwoken don't have recoil.
 -   The [Dawnshot](Dawnshot.md) is the only gun that can be used with [Pluripotent Alloy](Pluripotent_Alloy.md).
+-   Reloading you gun during other animations, such as blocking, parrying or movestacking used to be possible. This was later fixed 2025, February 2th update.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 134621
+revid: 135610
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -76,7 +76,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 
 -   **Ankle Cutter - Passive**
     -   You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
-        -   Damage and speed of the attack scales on your weapon.
+        -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1.
         -   Can be used while sliding down slopes at no cost to your speed.
         -   Flow state makes ankle cutter faster.
         -   5 seconds cooldown.
@@ -97,6 +97,9 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   11s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
         -   Medium and Heavy variants are capable of auto-gripping with Flow State active.
+        -   Light - deals 10 Fixed Damage.
+        -   Medium - deals 20 Fixed Damage
+        -   Heavy - deals 30 Fixed Damage
 
 -   **Merciless Blade - Passive**
     -   You can now execute enemies much faster.
@@ -108,13 +111,19 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   Can be used at a great range.
         -   11s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
-        -   wind-up Faster with Flow-State but there is a delay between the Slashes, Might Trick Opponents.
+        -   Has faster windup with Flow State active. The delay can trick opponents.
+        -   Light - 15 Fixed Damage
+        -   Medium - 30 Fixed Damage (15 each)
+        -   Heavy - 25 Fixed Damage
 
 -   **Rising Star - Passive**
     -   Press CTRL + M2 to activate a special uppercut attack
         -   7.5s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
         -   _Flow-State makes wind-up Slower? (More testing Needed)_
+        -   Light - 35 Fixed Damage (15 + 20)
+        -   Medium - 30 Fixed Damage
+        -   Heavy - 40 Fixed Damage
 
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.

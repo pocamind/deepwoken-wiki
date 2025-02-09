@@ -1,9 +1,9 @@
 ---
 title: Browncap
-revid: 115059
+revid: 135717
 source: https://deepwoken.fandom.com/wiki/Browncap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients]
+categories: [Ingredients, Harvestables]
 ---
 
 # Browncap

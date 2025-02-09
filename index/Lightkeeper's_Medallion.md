@@ -1,9 +1,9 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 127841
+revid: 135675
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Torso, Necklaces]
+categories: [Items, Equipment, Torso, Necklaces, Relics]
 ---
 
 # Lightkeeper's Medallion
@@ -38,3 +38,4 @@ It's currently known to drop from [Ferryman](The_Ferryman.md) and [Scion of Ethi
 -   Many elements of the medallion resemble the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), which is currently stationed by Viqh under the [Authority's](The_Central_Authority.md) control.
     -   The holder resembles the top part of the Lighthouse.
     -   The embelishment appears to be in the shape of the Lighthouse as a whole.
+-   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Warmaster's Medallion](<Warmaster's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).

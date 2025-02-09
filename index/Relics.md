@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 135071
+revid: 135572
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -47,6 +47,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
@@ -73,6 +74,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
@@ -99,6 +101,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   8 Star [Bounty](Bounty_Hunting.md) Voidwalker Chests
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Hollow Forge](Hollow_Forge.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
@@ -181,9 +184,9 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Hollow Forge](Hollow_Forge.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)

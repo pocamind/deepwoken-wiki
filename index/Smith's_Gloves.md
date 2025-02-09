@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 135117
+revid: 135733
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Gloves]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Gloves]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Saramaed Hollow, Heart of Enmity |
+| obtainment | Chests from:, Summer Isle, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Saramaed Hollow, The Doom of Caeranthil, Heart of Enmity |
 | description | "..." |
 
 ## Description
@@ -32,4 +32,4 @@ Smith's Gloves are an [Equipment](Equipment.md) item under the "Arms" category. 
 
 -   Smith's Gloves are part of the "Smith" set, along with the [Smith's Bandana](<Smith's_Bandana.md>) and [Smith's Goggles](<Smith's_Goggles.md>).
 -   Worn by all [Blacksmith](Blacksmith.md) NPCs, alongside the rest of the set.
--   Other Gloves: [Leather Gloves](Leather_Gloves.md), [Glassdancer Wraps](Glassdancer_Wraps.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md)
+-   Other Gloves: [Leather Gloves](Leather_Gloves.md), [Glassdancer Wraps](Glassdancer_Wraps.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md), [Ignition Gaunlets](Ignition_Gauntlets.md).

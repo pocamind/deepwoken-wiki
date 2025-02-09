@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 135239
+revid: 135712
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,24 +18,24 @@ Frostdraw icon
 
 **Frostdraw** is an [Attunement](Attunements.md) that grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared to other [Attunements](Attunements.md), but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
 
-Landing Frostdraw [Mantras](Mantras.md) applies Chill, which slows down enemies and is able to be improved upon with certain [Talents](Talents.md). Adding [Logstones](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Modifiers) to certain Mantras can increase the duration of Chill.
+Landing Frostdraw [Mantras](Mantras.md) applies Chill, which slows down enemies and is able to be improved upon with certain [Talents](Talents.md). Adding [Logstones](Mantra_Modifiers.md) to certain Mantras can increase the duration of Chill.
 
 ## Training
 
 A Hemafrosted Capra casting a beam of ice.
 
-Frostdraw can be trained by using a combination of [Hemafrost](https://deepwoken.fandom.com/wiki/Training_Items#Attunement_Training), Frostdraw Mantras, and [Frigid Prisms](Frigid_Prism.md).
+This is where the Attunement trainer is located.
+
+Frostdraw can be trained by using a combination of [Hemafrost](Training_Gear.md#attunement-training-gears), Frostdraw Mantras, and [Frigid Prisms](Frigid_Prism.md).
 
 Along with all other elements, users can see their Mantras becoming stronger with training:
 
 -   At Frostdraw level 1, players receive the _Frostdrawer_ Talent.
--   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent, allowing the player to now get 1-star Frostdraw mantras.
--   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent allowing the player to now get 2-star Frostdraw mantras.
+-   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent, allowing the player to now get 1-star Frostdraw Mantras.
+-   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent allowing the player to now get 2-star Frostdraw Mantras.
 -   Finally, at Frostdraw level 50, players receive the _Master Frostdrawer_ Talent. This finally allows Frostdraw users to unlock the last category, 3-star Mantras.
 
 The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions.md) obtained at [Etris](Etris.md), inside a hut on the edge of town, using five Frigid Prisms (2 if already obtained), and can upgrade spells for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
-
-This is where the Attunement trainer is located.
 
 -   Upgrading a Frostdraw Mantra from level 1 to level 2 costs.
 -   Upgrading a Frostdraw Mantra from level 2 to level 3 costs.
@@ -44,106 +44,166 @@ This is where the Attunement trainer is located.
 
 ## Mantras
 
-### Combat
+### Combat Mantras
 
-| **Image** | **Name** | **Card Description** | **Ether Cost** | **Damage Type** | **Effect** |
-| --- | --- | --- | --- | --- | --- |
 | 
- | 
-
-Ice Spikes  
-(☆☆☆)
+**Name**
 
  | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Ice Spikes** (☆☆☆)
 
 _Piercing spikes of ice._
 
  | 
 
+## Ice Spikes (☆☆☆)
+
+  
+_Piercing spikes of ice._
+
+ |
+| 
+
 50 Ether
 
  | 
 
 Ice
 
- | Conjure a spike of ice from the ground at the cursor's location.
+ | 
 
--   Deals 30 DMG at 5 lvl and send victim into air.
--   Does not inflict Chill.
--   WIth the Spike Traps Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
--   Can be modified with cloudstones/stratus stones to make the ice spikes bigger.
+1 Frostdraw
 
  |
 | 
 
- | 
+**Effect:** _Conjure a spike of ice from the ground at the cursor's location._
 
-Ice Beam  
-(☆☆☆)
+-   Deals 30 DMG at level 5 and sends victim into the air.
+-   Does not inflict Chill.
+-   WIth the **Spike Traps** Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
+-   Can be modified with Cloud and Stratus Stones to make the ice spikes bigger.
 
- | 
+ |
+| 
+
+**Ice Beam** (☆☆☆)
 
 _Fire a beam of ice._
 
  | 
 
+## Ice Beam (☆☆☆)
+
+  
+_Fire a beam of ice._
+
+ |
+| 
+
 60 Ether
 
  | 
 
 Ice
 
- | Fire a penetrating beam of ice.
+ | 
 
--   Deals 40 (10+10+10+10) damage at 5 lvl.
--   Inflicts 1 second chill per hit, can be increased to 5 seconds with one eternal logstone.
--   Hits multiple times in a row.
--   Knocks back target(s).
--   You can add a max of 3 stratus stones to increase it's size.
+1 Frostdraw
 
  |
 | 
 
- | 
+**Effect:** _Fire a penetrating beam of ice._
 
-Warden's Blades  
-(☆☆☆)
+-   Deals 40 (10+10+10+10) damage at 5 lvl.
+-   Inflicts 1 second Chill per hit, can be increased to 5 seconds with one Eternal Logstone.
+-   Hits multiple times in a row.
+-   Knocks back targets.
+-   You can add a max of 3 Stratus Stones to increase it's size.
 
- | 
+ |
+| 
+
+**Warden's Blades** (☆☆☆)
 
 _Revolving blades of ice._
 
  | 
 
+## Warden's Blades (☆☆☆)
+
+  
+_Revolving blades of ice._
+
+ |
+| 
+
 30 Ether
 
  | 
 
 Ice
 
- | Form 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance.
+ | 
 
-  
+1 Frostdraw
+
+ |
+| 
+
+**Effect:** _Form 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance._
 
 -   Deals 3.6 damage per spin, 22.5 sword projectile.
 -   Every projectile applies 1 sec chill, can't be increased.
 -   Hits multiple times in a row.
 -   Incredibly good with the **Glass Path: Crystallization** Talent.
--   Can be modified with Cloudstones/Stratus stones to make the blades bigger.
+-   Can be modified with Cloud/Stratus Stones to make the blades bigger.
 
  |
 | 
 
- | 
-
-Frozen Servants  
-(☆☆☆)
-
- | 
+**Frozen Servants** (☆☆☆)
 
 _A legion of frost._
 
  | 
+
+## Frozen Servants (☆☆☆)
+
+  
+_A legion of frost._
+
+ |
+| 
 
 30 Ether
 
@@ -151,28 +211,38 @@ _A legion of frost._
 
 Ice
 
- | Conjures a surrounding ring of 4 to 5 frozen servants that emits two blasts of frosty mist to the center.
+ | 
 
--   Deals Moderate damage if both blows hit. Blast spark deals 86 (21.5\*4) DMG
--   Inflicts 2 seconds chill per hit. Can't be increased.
--   Leaves ice where the Mantra is casted. (With 3 vibrant gems you can spawn massive ice floors with it)
--   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
--   Can be modified with [Blast Spark](Mantra_Modifiers.md) to create one single giant ice soldier that sends a chilling breeze. "This modification makes your character unable to move".
--   You can add 1 stratus stone to make it bigger.
+1 Frostdraw
 
  |
 | 
 
- | 
+**Effect:** _Conjure a surrounding ring of 4 to 5 frozen servants that emit two blasts of frosty mist to the center._
 
-Ice Daggers  
-(★☆☆)
+-   Deals Moderate damage if both blows hit. Blast spark deals 86 (21.5\*4) DMG
+-   Inflicts 2 seconds Chill per hit. Can't be increased.
+-   Leaves ice where the Mantra is casted. (With 3 Vibrant Gems you can spawn massive ice floors with it)
+-   Can be modified with 1 Stratus Stone to make it bigger.
+-   The Frostdraw counterpart to Flamecharm's [Burning Servants](Flamecharm.md#burning-servants), as both do the same thing and can be modified with a Reversal Spark to get the same effect, having the servants attack outwards and ragdoll.
+-   Can be modified with a Blast Spark to create one single giant ice soldier that sends a chilling breeze. This modification makes your character unable to move.
 
- | 
+ |
+| 
+
+**Ice Daggers** (★☆☆)
 
 _Form and toss daggers of ice at your aimed opponent._
 
  | 
+
+## Ice Daggers (★☆☆)
+
+  
+_Form and toss daggers of ice at your aimed opponent._
+
+ |
+| 
 
 60 Ether
 
@@ -180,28 +250,37 @@ _Form and toss daggers of ice at your aimed opponent._
 
 Ice
 
- | Form 3 daggers of ice before throwing them towards the nearest target.
+ | 
 
--   Deals moderate damage.
--   Projectiles are homing.
--   Does not inflict Chill.
--   Can grant an additional effect with the "Frozen Pin-Cushion" Talent, which freezes the target upon hit.
-    -   Requires the mantra itself and 60 Frostdraw.
--   Consumes ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
+20 Frostdraw
 
  |
 | 
 
- | 
+**Effect:** _Form 3 daggers of ice before throwing them towards the nearest target._
 
-Ice Blade  
-(★☆☆)
+-   Deals moderate damage.
+-   Projectiles are homing.
+-   Does not inflict Chill.
+-   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
+-   Can grant an additional effect with the "**Frozen Pin-Cushion**" Talent, which freezes the target upon hit.
 
- | 
+ |
+| 
+
+**Ice Blade** (★☆☆)
 
 _A barrage of freezing blades._
 
  | 
+
+## Ice Blade (★☆☆)
+
+  
+_A barrage of freezing blades._
+
+ |
+| 
 
 50 Ether
 
@@ -209,29 +288,39 @@ _A barrage of freezing blades._
 
 Ice
 
- | Conjures 2 sabers of ice while performing a rapid flurry of slashes forward.
+ | 
 
--   Deals 73 (20.93+16.74+18.42+16.74) DMG at 5 lvl
--   Hits 4 times.
--   Inflicts 1s of Chill per hit
-    -   Can't be increased.
--   1st and 2nd hit are parryable.
--   Cancels if parried.
--   Can be canceled halfway like rapid punches.
+20 Frostdraw
 
  |
 | 
 
- | 
+**Effect:** _Conjure 2 sabers of ice while performing a rapid flurry of slashes forward._
 
-Ice Chain  
-(★☆☆)
+-   Deals 73 (20.93+16.74+18.42+16.74) DMG at 5 lvl
+-   Hits 4 times.
+-   Inflicts 1 second of Chill per hit
+    -   Can't be increased.
+-   1st and 2nd hit are parryable.
+-   Cancels if parried.
+-   Can be canceled halfway like the Rapid Punches Mantra.
 
- | 
+ |
+| 
+
+**Ice Chain** (★☆☆)
 
 _Chains of ice._
 
  | 
+
+## Ice Chain (★☆☆)
+
+  
+_Chains of ice._
+
+ |
+| 
 
 35 Ether
 
@@ -239,28 +328,37 @@ _Chains of ice._
 
 Ice
 
- | Conjures 3-4 chains of ice that lock-on and stun the target for a brief period of time.
+ | 
 
--   At level 5: It has a base damage of 35.
--   Inflicts Chill.
--   9 seconds chill and 13 seconds with 1 eternal.
--   Can be modified with both [Aeon/Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
--   Can be modified with lens to increase the range of casting the mantra.
+20 Frostdraw
+
+ |
+| 
+
+**Effect:** _Conjure 3-4 chains of ice that lock-on and stun the target for a brief period of time._
+
+-   At level 5 it has a base damage of 35.
+-   Inflicts Chill. 9 seconds of Chill and 13 seconds with 1 Eternal Logstone.
+-   Can be modified with Aeon and Eternal Logstones to delay the Mantra from firing.
+-   Can be modified with Crystal and Perfect Lenses to increase the range of casting the Mantra.
 -   On successful hit applies bottom freeze on your opponent.
 
  |
 | 
 
- | 
-
-Ice Eruption  
-(★☆☆)
-
- | 
+**Ice Eruption** (★☆☆)
 
 _A flurry of ice spikes._
 
  | 
+
+## Ice Eruption (★☆☆)
+
+  
+_A flurry of ice spikes._
+
+ |
+| 
 
 60 Ether
 
@@ -268,10 +366,17 @@ _A flurry of ice spikes._
 
 Ice
 
- | Perform a stomp with the user's right leg, forming 3 ascending waves of ice formations that encases the target in ice.
+ | 
 
--   Deals 30 DMG at 5 lvl
--   Apparently applies chill although VERY short.[\[1\]](#cite-note-1)
+20 Frostdraw
+
+ |
+| 
+
+**Effect:** _Perform a stomp with your right leg, forming 3 ascending waves of ice formations that encase the target in ice._
+
+-   Deals 30 DMG at Level 5
+-   Apparently applies Chill although VERY shortly.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't block, parry, dodge while frozen in the eruption.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward. These walls are destructible.
@@ -280,16 +385,19 @@ Ice
  |
 | 
 
- | 
-
-Ice Forge  
-(★☆☆)
-
- | 
+**Ice Forge** (★☆☆)
 
 _Conjure and throw weapons of ice._
 
  | 
+
+## Ice Forge (★☆☆)
+
+  
+_Conjure and throw weapons of ice._
+
+ |
+| 
 
 35 Ether
 
@@ -297,30 +405,41 @@ _Conjure and throw weapons of ice._
 
 Ice
 
- | Forms a barrage of ice shurikens before propelling them at the cursor's location.
+ | 
+
+20 Frostdraw
+
+ |
+| 
+
+**Effect:** _Form a barrage of ice shurikens before propelling them at the cursor's location._
 
 -   Deals light damage.
 -   Non modded deals 40 dmg
 -   Blast spark version 35 dmg
 -   Magnet spark 40 dmg
--   Inflicts Chill.
-    -   9 seconds base, 13 seconds with 1 Eternal Logstone.
--   Casting the mantra itself while standing on ice will summon more projectiles.
+-   Inflicts Chill. 9 seconds of Chill, 13 seconds with 1 Eternal Logstone.
+-   Casting the Mantra itself while standing on ice will summon more projectiles.
     -   Currently bugged.
--   Can be modified with a magnet spark, making it instantly teleport to whoever got hit by the ice projectile and hits with 3 extra ice forge projectiles. However, requires some distance to teleport to the enemy. Does less dmg if you don't proc the ice forge teleport.
--   Can be modified with a blast spark, making the shurikens explodes on impact.
+-   Can be modified with a Magnet Spark, making it instantly teleport to whoever got hit by the ice projectile and hits with 3 extra ice forge projectiles. However, requires some distance to teleport to the enemy. Does less dmg if you don't proc the ice forge teleport.
+-   Can be modified with a Blast Spark, making the shurikens explode on impact.
 
  |
-|  | 
+| 
 
-Ice Smash  
-(★☆☆)
-
- | 
+**Ice Smash** (★☆☆)
 
 _A colossal mace of ice._
 
  | 
+
+## Ice Smash (★☆☆)
+
+  
+_A colossal mace of ice._
+
+ |
+| 
 
 50 Ether
 
@@ -328,82 +447,38 @@ _A colossal mace of ice._
 
 Ice
 
- | Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead.
+ | 
 
--   Deals 56 DMG at 5 lvl.
--   Slightly knocks back target(s)
--   Can break objects.
--   Breaks block at mantra level 5.
--   Inflicts Chill
-    -   5 second base, 9 seconds with 1 **Eternal Logstone**.
+20 Frostdraw
 
  |
 | 
 
- | 
+**Effect:** _Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead._
 
-Ice Lance  
-(★★☆)
+-   Deals 56 DMG at level 5.
+-   Breaks block at level 5.
+-   Inflicts Chill. 5 seconds of Chill, 9 seconds with 1 Eternal Logstone.
+-   Slightly knocks back target(s)
+-   Can break objects.
+-   Can be upgraded with the "**Glacial Finish**" Talent, causing it to initiate a second hit dealing ~85% damage of the first hit.
 
- | 
+ |
+| 
+
+**Ice Lance** (★★☆)
 
 _Form an ice spear and lunges forward._
 
  | 
 
-60 Ether.
+## Ice Lance (★★☆)
 
- | 
-
-Ice
-
- | Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact.
-
--   Deals 56 (43+13) damage.
--   Applies Chill. 2 second chill on the first hit, the second hit can apply a 4 second chill with 1 Eternal logstone.
--   During the wind-up, pressing \[F\] cancels the impale.
--   Both the impact and the detonation are parriable.
--   User gains considerable forward momentum on use.
--   Sometimes used in conjunction with the **Glacial Arc** mantra to fling the player skywards.
-
- |
-|  | 
-
-Rising Frost  
-(★★☆)
-
- | 
-
-_Conjure a glaive of frost and launch your opponents skyward._
-
- | 
-
-30 Ether.
-
- | 
-
-Ice + Slash
-
- | Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air.
-
--   The aoe can be increased with 2 stratus stones.
--   Deals 70 (16+19+34) DMG at 5 lvl
--   Applies Chill. (2 seconds per hit, can't be increased)
--   Capable of proccing Meteor Impact.
+  
+_Form an ice spear and lunges forward._
 
  |
 | 
-
- | 
-
-Ice Flock  
-(★★☆)
-
- | 
-
-_Send forth a flock of ice_
-
- | 
 
 60 Ether
 
@@ -411,9 +486,92 @@ _Send forth a flock of ice_
 
 Ice
 
- | Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy.
+ | 
 
--   Deals 95 (14.8+14.8+13.81+11.84+12.83+10.85+8.88+8.88 ) DMG
+30 Frostdraw
+
+ |
+| 
+
+**Effect:** _Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact._
+
+-   Deals 56 (43+13) damage.
+-   Inflicts Chill. 2 second Chill on the first hit, the second hit can apply a 4 second Chill with 1 Eternal Logstone.
+-   During the wind-up, pressing \[F\] cancels the impale.
+-   Both the impact and the detonation are parriable.
+-   User gains considerable forward momentum on use.
+-   Sometimes used in conjunction with the **Glacial Arc** Mantra to fling the player skywards.
+
+ |
+| 
+
+**Rising Frost** (★★☆)
+
+_Conjure a glaive of frost and launch your opponents skyward._
+
+ | 
+
+## Rising Frost (★★☆)
+
+  
+_Conjure a glaive of frost and launch your opponents skyward._
+
+ |
+| 
+
+30 Ether
+
+ | 
+
+Ice + Slash
+
+ | 
+
+30 Frostdraw
+
+ |
+| 
+
+**Effect:** _Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air._
+
+-   Deals 70 (16+19+34) DMG at 5 lvl
+-   Applies Chill. (2 seconds per hit, can't be increased)
+-   Capable of proccing Meteor Impact.
+-   Can be modified with up to 2 Stratus Stones to increase the size of the AoE.
+
+ |
+| 
+
+**Ice Flock** (★★☆)
+
+_Send forth a flock of ice_
+
+ | 
+
+## Ice Flock (★★☆)
+
+  
+_Send forth a flock of ice_
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Ice
+
+ | 
+
+30 Frostdraw
+
+ |
+| 
+
+**Effect:** _Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy._
+
+-   Deals 95 (14.8+14.8+13.81+11.84+12.83+10.85+8.88+8.88) DMG
 -   Deals high posture damage.
 -   Does not inflict Chill.
 -   Low cooldown.
@@ -422,186 +580,139 @@ Ice
  |
 | 
 
- | 
-
-Ice Carve  
-(★★☆)
-
- | 
+**Ice Carve** (★★☆)
 
 _A sharp disk of ice._
 
  | 
 
+## Ice Carve (★★☆)
+
+  
+_A sharp disk of ice._
+
+ |
+| 
+
 40 Ether
 
  | 
 
 Ice
 
- | Conjure a deadly rapidly moving saw of ice with the user's left hand.
+ | 
+
+30 Frostdraw
+
+ |
+| 
+
+**Effect:** _Conjure a deadly rapidly moving saw of ice with the user's left hand._
 
 -   Deals moderate damage.
--   Deals 8.4 DMG per hit, total 70 if landed by the full duration 5 lvl.
+-   Deals 8.4 DMG per hit, 70 total if landed by the full duration at level 5.
 -   Round spark full duration changes its damage to 110 DMG.
 -   Does not inflict Chill.
 -   Spawns ice floor (You can add vibrant gems to make the ice spawned bigger)
--   Can be modified with **Cloudstones/Stratus Stones** to increase its size.
--   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the user to spin the projectile of the mantra around them.
+-   Can be modified with Cloud and Stratus Stones to increase its size.
+-   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.
     -   However, if an enemy is hit successfully, it will continue to hit for around 8 seconds, dealing high damage.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md) to cause the user to throw the projectile forward before recalling it back.
+-   Can be modified with a Spring Spark to cause the user to throw the projectile forward before recalling it back.
     -   Slows the user down.
 
  |
 | 
 
- | 
-
-Frost Grab  
-(★★☆)
-
- | 
+**Frost Grab** (★★☆)
 
 _An icy chokehold._
 
  | 
 
-40 Ether.
+## Frost Grab (★★☆)
 
- | 
-
-Ice + Blunt  
-(Initial Grab)  
-Ice  
-(Ice Chains)
-
- | User turns invisible and teleports to their opponent within a short range, on hit holds their opponent while they get hit by the ice chains.
-
--   Deals 36 DMG at 5 lvl.
--   Applies an extremely long 12 sec chill at base.
--   This mantra has a cooldown of 8 seconds. It goes on a 4 second cooldown if no targets are found on the area of the grab.
--   Does not apply chill through block with Unyielding Frost.
--   Gives brief I-Frames on hit.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md), creating ice on the ground and stabbing the opponent with pillars. This variant does not apply chill, and can be modified with Vibrant Gems to increase the size of the ice created.
-
- |
-|   
- | 
-
-Crystal Knee  
-(★★☆)
-
- | 
-
-_Knock your enemy skyward with a kick of crystal._
-
- | 
-
-60 Ether
-
- | 
-
-Ice
-
- | Perform a short flipkick that launches the user's target into the air.
-
-(Glasspath: Crystallization is required to learn this mantra.)
-
--   Deals 34 damage at 5 lvl.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md) to cause the user of the mantra to perform a side kick that knocks away target(s) instead of launching them upward.
+  
+_An icy chokehold._
 
  |
 | 
-
- | 
-
-Crystal Impale  
-(★★☆)
-
- | 
-
-_Impale your foes with a brutal crystal smash._
-
- | 
 
 40 Ether
 
  | 
 
-Ice
+Ice + Blunt (Initial Grab), Ice (Ice Chains)
 
- | Ascend before performing a quick spinning dash towards the user's target.
+ | 
 
-(Glasspath: Crystallization is required to learn this mantra.)
-
--   Deals 13 damage per hit, up to 40 dmg at 5 lvl.
--   Can be modified with a spring spark, making the user spin more.
+30 Frostdraw
 
  |
-|  | 
+| 
 
-Ice Lasers  
-(★★☆)
+**Effect:** _User turns invisible and teleports to their opponent within a short range, on hit choking their opponent while they get hit by the ice chains._
 
- | 
-
-_Swift bolts of frozen air._
-
- | 
-
-25 Ether
-
- | 
-
-Ice
-
- | Fires a bullet of ice.
-
-(Glasspath: Crystallization is required to learn this mantra.)
-
--   Deals 24.2 damage per hit at 5 lvl.
--   Inconsistent Hitbox.
--   Is similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
--   Can be modified with a [Cloudstone](Mantra_Modifiers.md) to increase the shots fired.
--   Can be paired with a [Spring Spark](Mantra_Modifiers.md) to delay the projectile from traveling.
+-   Deals 36 DMG at level 5.
+-   Applies an extremely long 12 second Chill at base.
+-   This Mantra has a cooldown of 8 seconds. It goes on a 4 second cooldown if no targets are found on the area of the grab.
+-   Does not apply Chill through block with Unyielding Frost.
+-   Gives brief I-Frames on hit.
+-   Can be modified with a Blast Spark, creating ice on the ground and stabbing the opponent with pillars. This variant does not apply Chill, and can be modified with Vibrant Gems to increase the size of the ice created.
 
  |
-|  | 
+| 
 
-Ice Cubes  
-(★★★)
+**Ice Cubes** (★★★)
 
- | 
-
-_Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cubes._
+_Manifest cubes of Ice to fire at your enemies. Cast the Mantra again to fire cubes._
 
  | 
 
-Costs 45 Ether to summon the icecubes and costs 45 ether to fire them manually for a total of 90 ether cost. However if they're fired off automatically it costs no ether.
+## Ice Cubes (★★★)
+
+  
+_Manifest cubes of Ice to fire at your enemies. Cast the Mantra again to fire cubes._
+
+ |
+| 
+
+45 Ether (Summon), 45 Ether (Fire Manually), 0 Ether (Fired Automatically)
 
  | 
 
 Ice
 
- | Conjures 3 ice cubes above the user that are on standby and throws them to where their cursor is.
+ | 
 
--   Deals 19 dmg per cube at 5 lvl
+50 Frostdraw
+
+ |
+| 
+
+**Effect:** _Conjure 3 ice cubes above the user that are on standby and throws them to where their cursor is. Costs 45 Ether to summon the ice cubes and 45 Ether to fire them manually for a total of 90 Ether cost. However, if they're fired off automatically, it costs no Ether._
+
+-   Deals 19 dmg per cube at level 5.
 -   Projectiles are homing.
 -   Does not inflict Chill.
 -   Has a good amount of range.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to cause the mantra to send out each projectile individually.
+-   Can be modified with a Multiplying Spark to cause the Mantra to send out each projectile individually.
 
  |
-|  | 
+| 
 
-Ice Fissure  
-(★★★)
-
- | 
+**Ice Fissure** (★★★)
 
 _Send ice rippling out in a shockwave._
 
  | 
+
+## Ice Fissure (★★★)
+
+  
+_Send ice rippling out in a shockwave._
+
+ |
+| 
 
 35 Ether
 
@@ -609,31 +720,213 @@ _Send ice rippling out in a shockwave._
 
 Ice
 
- | Conjures an obelisk of ice in front of the player.
+ | 
 
--   Deals 73 damage upon detonation at 5 lvl.
--   First hit applies Chill.
-    -   12 second base, 16 with 1 **Eternal Logstone**.
+50 Frostdraw
+
+ |
+| 
+
+**Effect:** _Conjure an obelisk of ice in front of the user._
+
+-   Deals 73 damage upon detonation at level 5.
+-   First hit applies Chill. 12 seconds Chill, 16 with 1 Eternal Logstone.
 -   Up to 3 Obelisks can be active on the field at any time.
--   Recasting this mantra near an active Obelisk causes it and all others placed to explode.
+-   Recasting this Mantra near an active Obelisk causes it and all others placed to explode.
 -   Summons wherever the user's mouse is pointed, at a range.
 -   Creating an Obelisk on top of target(s) will stun them for 1 second.
 
  |
 
-### Mobility
+### Glass Path: Crystallization Mantras
 
-| **Image** | **Name** | **Card Description** | **Ether Cost** | **Damage Type** | **Effect** |
-| --- | --- | --- | --- | --- | --- |
-|  | 
-Glacial Arc  
-(★☆☆)
+| 
+**Name**
 
  | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Crystal Impale** (★★☆)
+
+_Impale your foes with a brutal crystal smash._
+
+ | 
+
+## Crystal Impale (★★☆)
+
+  
+_Impale your foes with a brutal crystal smash._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Ice
+
+ | 
+
+30 Frostdraw, Glass Path: Crystallization
+
+ |
+| 
+
+**Effect:** _Ascend before performing a quick spinning dash towards the target._
+
+-   Deals 18.8 damage per hit, up to 56.4 dmg at level 5.
+-   Applies Knockdown.
+-   Can be modified with a Spring Spark, removing the knockdown.
+
+ |
+| 
+
+**Crystal Knee** (★★☆)
+
+_Knock your enemy skyward with a kick of crystal._
+
+ | 
+
+## Crystal Knee (★★☆)
+
+  
+_Knock your enemy skyward with a kick of crystal._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Ice
+
+ | 
+
+30 Frostdraw, Glass Path: Crystallization
+
+ |
+| 
+
+**Effect:** _Perform a short flipkick that launches the target into the air._
+
+-   Deals 34 damage at level 5.
+-   Can be modified with a Spring Spark to cause the user of the Mantra to perform a side kick that knocks away target(s) instead of launching them upward.
+
+ |
+| 
+
+**Ice Lasers** (★★☆)
+
+_Swift bolts of frozen air._
+
+ | 
+
+## Ice Lasers (★★☆)
+
+  
+_Swift bolts of frozen air._
+
+ |
+| 
+
+25 Ether
+
+ | 
+
+Ice
+
+ | 
+
+30 Frostdraw, Glass Path: Crystallization
+
+ |
+| 
+
+**Effect:** _Fires a bullet of ice._
+
+-   Deals 24.2 damage per hit at 5 lvl.
+-   Inconsistent hitbox.
+-   Is similar to Galebreathe's "[Wind Gun](Galebreathe.md#wind-gun)" Mantra.
+-   Can be modified with a Cloudstone to increase the shots fired.
+-   Can be paired with a Spring Spark to delay the projectile from traveling.
+
+ |
+
+### Mobility Mantras
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Glacial Arc** (★☆☆)
 
 _An arc of ice._
 
  | 
+
+## Glacial Arc (★☆☆)
+
+  
+_An arc of ice._
+
+ |
+| 
 
 50 Ether
 
@@ -641,95 +934,172 @@ _An arc of ice._
 
 Ice
 
- | Conjures a solid ice lance that towards the user's cursor.
+ | 
 
--   Deals 49 DMG at 5 lvl when it hits an opponent.
--   Can be used to scale walls and terrain.
--   Inflicts a 1 second chill (Can't be increased).
--   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
--   Can be modified with Cloudstones to become wider.
--   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs.
+20 Frostdraw
 
  |
-|  | 
+| 
 
-Ice Skate  
-(★★★)
+**Effect:** _Conjure a torrent of solid ice that extends towards the user's cursor._
 
- | 
+-   Deals 49 DMG at level 5 when it hits an opponent.
+-   Can be used to scale walls and terrain.
+-   Inflicts a 1 second Chill (Can't be increased).
+-   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
+-   Can be modified with Cloudstones to become wider.
+-   Can be modified with Crystal and Perfect Lenses to increase the range of the arc.
+
+ |
+| 
+
+**Ice Skate** (★★★)
 
 _Skate freely on paths of ice._
 
  | 
 
- ? Ether
+## Ice Skate (★★★)
+
+  
+_Skate freely on paths of ice._
+
+ |
+| 
+
+\[missing, add\]
 
  | 
 
 N/A
 
- | Form a frozen path of ice as the user slides on at a high velocity.
+ | 
 
--   Knocked players cannot be held while this mantra is active.
--   When below mantra level 5, gradually loses height similar to gliders.
--   Height loss gain at level 5 is negligible, but still present.
+50 Frostdraw
+
+ |
+| 
+
+**Effect:** _Form a frozen path of ice as the user slides on at a high velocity._
+
+-   Knocked players cannot be held while this Mantra is active.
+-   When below Mantra level 5, gradually loses height similar to gliders.
+    -   Height loss gain at level 5 is negligible, but still present.
 
  |
 
-### Support
+### Support Mantras
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Media</th>
-  <th>Name</th>
-  <th>Card Description</th>
-  <th>Ether Cost</th>
-  <th>Damage Type</th>
-  <th>Effect</th>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure></center></td>
-  <td><center>Frost Wisp<br>
-  (★★☆)</center></td>
-  <td><center><i>A servant of ice.</i></center></td>
-  <td><center>60 Ether</center></td>
-  <td><center>N/A</center></td>
-  <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
-  <ul>
-    <li>Shoots a beam of ice ~0.5 seconds after landing a vent that applies chill and deals ~6 damage.</li>
-    <li>Leveling up the mantra increases the size of the ice floors, and damage of the beam.</li>
-    <li>Procs Cold Front and Chilling Flourish without needing the Talents.
-  <ul>
-    <li>The chill of the beam lasts longer than Cold Front.</li>
-  </ul></li>
-    <li>This mantra is seemingly bugged, having infinite uses, even without any modifiers.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure></center></td>
-  <td><center>Iceberg<br>
-  (★★★)</center></td>
-  <td><center><i>Enter a state of cryostasis.</i></center></td>
-  <td><center>45 Ether</center></td>
-  <td><center>Ice</center></td>
-  <td>Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. The user will automatically parry one hit while this is active.
-  <ul>
-    <li>Deals 6 damage per hit at 5 lvl.</li>
-    <li>Heals 2%, increasing with level and Drift/Rush Shards, up to 10%.</li>
-    <li>Applies 1 second of chill per hit (Can't be increased).</li>
-    <li>Iceberg applies bottom freeze on every hit (regardless of cooldown), but still puts the Frozen Legs status on cooldown.</li>
-    <li>Iceberg is put on CD by reinforce, and vice versa.</li>
-    <li>Does not proc Deep Gems on hit.</li>
-    <li>Can be modified with Cloud/Stratus Stones, Aoen/Eternal Logstones, Drift/Rush Shards, and Crystal/Perfect Lens.
-  <ul>
-    <li>Drift and Rush Shards increases the amount of health healed while the mantra is active.</li>
-    <li>Stones, Logstones, and Lens all do absolutely nothing; no range, healing, or duration difference. (tested)</li>
-  </ul></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Frost Wisp** (★★☆)
+
+_A servant of ice._
+
+ | 
+
+## Frost Wisp (★★☆)
+
+  
+_A servant of ice._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+N/A
+
+ | 
+
+30 Frostdraw
+
+ |
+| 
+
+**Effect:** _Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully._
+
+-   Shoots a beam of ice ~0.5 seconds after landing a vent that applies chill and deals ~6 damage.
+-   Leveling up the Mantra increases the size of the ice floors, and damage of the beam.
+-   Procs Cold Front and Chilling Flourish without needing the Talents.
+    -   The Chill of the beam lasts longer than Cold Front.
+-   This Mantra is seemingly bugged, having infinite uses, even without any modifiers.
+
+ |
+| 
+
+**Iceberg** (★★★)
+
+_Enter a state of cryostasis._
+
+ | 
+
+## Iceberg (★★★)
+
+  
+_Enter a state of cryostasis._
+
+ |
+| 
+
+45 Ether
+
+ | 
+
+Ice
+
+ | 
+
+50 Frostdraw
+
+ |
+| 
+
+**Effect:** _Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. The user will automatically parry one hit while this is active._
+
+-   Deals 6 damage per hit at level 5.
+-   Heals 2%, increasing with level and Drift/Rush Shards, up to 10%.
+-   Applies 1 second of chill per hit (can't be increased).
+-   Iceberg applies bottom freeze on every hit (regardless of cooldown), but still puts the Frozen Legs status on cooldown.
+-   Iceberg is put on CD by [Reinforce](Attunement-less.md#reinforce), and vice versa.
+-   Does not proc Deep Gems on hit.
+-   Can be modified with Cloud/Stratus Stones, Aeon/Eternal Logstones, Drift/Rush Shards, and Crystal/Perfect Lenses.
+    -   Drift and Rush Shards increases the amount of health healed while the Mantra is active.
+    -   Stones, Logstones, and Lenses all do absolutely nothing; no range, healing, or duration difference. (tested)
+
+ |
 
 ## Talents
 
@@ -1139,7 +1509,7 @@ _**"I would see this world freeze."**_
  | 
 
 Bottom Freeze  
-(25 Frostdraw, Any ice projectile mantra)
+(25 Frostdraw, Any ice projectile Mantra)
 
  | 
 
@@ -1250,15 +1620,15 @@ N/A
 ## Trivia
 
 -   The Chilling [Enchantment](Enchantments.md) still applies 1 second Chill in PvP per hit until it applies Bottom Freeze and then goes on cooldown until you can reapply the status.
--   The **Ice Fissure** mantra is a reference to the Roblox game Strife, specifically the class [Obsidian's](https://strife-official.fandom.com/wiki/Obsidian) Pyroclast move, which summons pulsing obelisks.
--   The **Warden's Blades** mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
+-   The **Ice Fissure** Mantra is a reference to the Roblox game Strife, specifically the class [Obsidian's](https://strife-official.fandom.com/wiki/Obsidian) Pyroclast move, which summons pulsing obelisks.
+-   The **Warden's Blades** Mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
     
 -   The **Ice Chain** Mantra is a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
 -   The **Ice Eruption** Mantra is a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in Nioh 2.
 -   The **Ice Smash** Mantra is a reference to one of Cirno's spell cards in Touhou 12.3
--   Frostdraw mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
+-   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
 -   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Captains in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in [Layer 2](Second_Layer.md).
--   The **Ice Chains** mantra was reworked into a new ability on the 8th of February 2022.
+-   The **Ice Chains** Mantra was reworked into a new ability on the 8th of February 2022.
 -   The now-removed "Frozone" Talent was a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from [The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles).
 -   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in [Overwatch](https://en.wikipedia.org/wiki/Overwatch).
 -   Frostdraw has the second-most Mantras with 3 stars on them, second to Ironsing.
@@ -1269,15 +1639,15 @@ N/A
 -   Recommended not to abuse the Chill duration as there is a Talent that makes your enemy get 20% more dmg from light attacks if they are under an elemental status effect.(Charged Return)
 -   Anything that would Freeze while using Glass Path: Crystallization would cause the crystals in your opponent to explode.
 -   Saint jay and Frostbite are less effective with Glass Path: Crystallization as all Ice Mantras apply them for 2 seconds.
--   Frozen Legs applies on all ice mantras and has a fixed duration that can't be increased.
+-   Frozen Legs applies on all ice Mantras and has a fixed duration that can't be increased.
 -   Fragile Freeze will Freeze the opponent on Posture break from anything if they are Chilled.
--   Similarly to every other Wisp mantra, **Frost Wisp** gives the player a finger on the hand that casts the mantra
+-   Similarly to every other Wisp Mantra, **Frost Wisp** gives the player a finger on the hand that casts the Mantra
 -   Bottom Freeze has a global cooldown, meaning it's not recommended to have the Chilling enchant with the Bottom Freeze Talent.
 -   Crystal damage scales with your Frostdraw: 1 damage per 10 Frostdraw.
 -   Nullifying clarity does not reduce Chilled duration. Instead, it gets rid of the Slow effect of your Chill.
 -   The **Ice Cubes** Mantra is possibly a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
 -   It's possible to put your guild base on **Glacial Arc** if you aim it straight forward and upwards then put it on the side.
--   **The source for the frost mantras damage: (This is outdated, and some of these Mantras have gotten their damage reduced. Example: Ice Cubes deal 72 damage, not 90)**
+-   **The source for the frost Mantras damage: (This is outdated, and some of these Mantras have gotten their damage reduced. Example: Ice Cubes deal 72 damage, not 90)**
     
     File:Frost Mantras damage.png
     

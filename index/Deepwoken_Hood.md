@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 135096
+revid: 135635
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hoods]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, First Layer, Duke Ishamon Erisia, Primadon, Titan of the East, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode, Miner's Landing, Saramaed Hollow |
+| obtainment | Chests from:, Fort Merit, First Layer, Duke Ishamon Erisia, Primadon, Titan of the East, Maestro Evengarde Rest, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, War Mode, Miner's Landing, Saramaed Hollow |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 135064
+revid: 135636
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -440,6 +440,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Black & Double |
@@ -517,6 +518,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
  | N/A |
 | File:Brown Hood.png | 
@@ -564,6 +566,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
+-   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -745,6 +748,8 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [First Layer](First_Layer.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -868,6 +873,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
@@ -1990,6 +1996,8 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -3147,6 +3155,7 @@ Found from:
 
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -3321,6 +3330,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -4106,6 +4116,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -4197,6 +4208,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md) (The Depths)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -5154,6 +5166,7 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -5260,6 +5273,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -5387,6 +5401,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
  | Blue, Green & Red |
 | File:Smith's Goggles1.png | 
@@ -5406,6 +5421,7 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5543,6 +5559,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5560,6 +5577,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -5582,6 +5600,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5669,6 +5688,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -5794,6 +5814,7 @@ Found from:
 -   [Ferryman](The_Ferryman.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Fort Merit](Fort_Merit.md) (**Extremely Rare**)
@@ -5822,6 +5843,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [War Mode](War_Mode.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -5892,6 +5914,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Deep Widow](Deep_Widow.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   Trading with [Jeremiah](Jeremiah.md)
@@ -5948,6 +5971,7 @@ Found from:
 -   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Second Layer](Second_Layer.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -6002,6 +6026,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   [Aelita](Aelita.md) (**Extremely Rare**)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -6197,6 +6222,7 @@ Found from:
 -   [Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   Trading with [Jeremiah](Jeremiah.md)
@@ -6227,6 +6253,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -6300,6 +6327,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   Trading with [Jeremiah](Jeremiah.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -6451,6 +6479,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Pure Ore Turn-ins](Blacksmith.md) (**Extremely Rare**)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -6498,6 +6527,7 @@ Found from:
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [War Mode](War_Mode.md)
 
  |

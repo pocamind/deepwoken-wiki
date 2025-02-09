@@ -1,6 +1,6 @@
 ---
 title: Mecha Gatling
-revid: 60980
+revid: 135766
 source: https://deepwoken.fandom.com/wiki/Mecha_Gatling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Monster Mantras](Monster_Mantras.md)
+-   [Monster Mantras#Mecha Gatling](Monster_Mantras.md#mecha-gatling)

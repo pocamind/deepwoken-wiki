@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 135513
+revid: 135736
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -21,6 +21,29 @@ You don't have an attunement, instead relying on your physical and mental abilit
 Most of your mantras focus on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by utilizing your body alone, whether it's utilizing your raw strength combined with the Song to punch down trees and enemies alike, moving at a faster rate than usual, or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement.
 
 In spite of its shortcomings, the potential of Attunement-less is nothing to scoff at, as stat points normally allocated to Attunements can instead be used to obtain Talents, as well making obtaining high investment Talents more worthwhile should a powerful combat mantra scale off the same points.
+
+## Upgrading Mantras
+
+The Attunement-less mantra trainer [Regek](Regek.md) can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.) Alternatively, you can use the Songwright in the guild base (if you hired him already)
+
+Otherwise, you can use the Mantra Trainer in the guildbase without having to do a quest.
+
+-   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
+-   2 of them are located in the Blacksmith's area.
+-   1 is located outside of the Observatory.
+
+Once completed, the user can upgrade their attunement-less mantras by speaking to the trainer and paying an increasing sum of notes for each mantra level. NOTE:
+
+-   Upgrading your mantras at this trainer depends on the **type of mantra** you wish to upgrade and **the number of points** you have in the **respective attribute!**
+
+For example:
+
+1.  20+ points in Strength => Level 2 Strength Mantra.
+2.  40+ points in Strength => Level 3 Strength Mantra.
+3.  60+ points in Strength => Level 4 Strength Mantra.
+4.  80+ points in Strength => Level 5 Strength Mantra.
+
+In short: Every 20 points in a specific attribute will unlock the next level for said mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its mantras aside from a bit of damage scaling.
 
 ## Attribute Mantras
 
@@ -188,6 +211,49 @@ Blunt
  |
 | 
 
+**Skyshatter Kick** (☆☆☆)
+
+**Combat Mantra**
+
+_Unleash two devasting kicks with your brute strength._
+
+ | 
+
+## Skyshatter Kick (☆☆☆)
+
+  
+**Combat Mantra**  
+_Unleash two devasting kicks with your brute strength._
+
+ |
+| 
+
+120 Ether
+
+ | 
+
+Blunt
+
+ | 
+
+80 Strength
+
+ |
+| 
+
+**Effect:** _User performs a long windup before unleashing two devastating kicks._
+
+-   Does MASSIVE damage upon hit, and has a range of 20 studs.
+-   Can be parried, blocked and dodged.
+-   20/30/40/50/60 damage per level, per kick
+-   72 damage at 100 Strength level 5, per kick
+-   2 Strength scaling
+-   Skyshatter Kick can be modified with a [Round Spark](Mantra_Modifiers.md) to Stomp directly into the ground, if a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
+    -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
+
+ |
+| 
+
 **Strong Leap** (☆☆☆)
 
 **Mobility Mantra**
@@ -266,49 +332,6 @@ Blunt
 -   Recommended to get 20 strength if you have an attunment as to utilize the mystic to more easily roll for it.
 
  |
-| 
-
-**Skyshatter Kick** (☆☆☆)
-
-**Combat Mantra**
-
-_Unleash two devasting kicks with your brute strength._
-
- | 
-
-## Skyshatter Kick (☆☆☆)
-
-  
-**Combat Mantra**  
-_Unleash two devasting kicks with your brute strength._
-
- |
-| 
-
-120 Ether
-
- | 
-
-Blunt
-
- | 
-
-80 Strength
-
- |
-| 
-
-**Effect:** _User performs a long windup before unleashing two devastating kicks._
-
--   Does MASSIVE damage upon hit, and has a range of 20 studs.
--   Can be parried, blocked and dodged.
--   20/30/40/50/60 damage per level, per kick
--   72 damage at 100 Strength level 5, per kick
--   2 Strength scaling
--   Skyshatter Kick can be modified with a [Round Spark](Mantra_Modifiers.md) to Stomp directly into the ground, if a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
-    -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
-
- |
 
 ### _Fortitude Mantras_
 
@@ -344,6 +367,49 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 
  |
 | --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Shoulder Bash** (☆☆☆)
+
+**Mobility Mantra**
+
+_Rush at your enemies with your full physical force._
+
+ | 
+
+## Shoulder Bash (☆☆☆)
+
+  
+**Mobility Mantra**  
+_Rush at your enemies with your full physical force._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Blunt
+
+ | 
+
+35 Fortitude
+
+ |
+| 
+
+**Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
+
+-   Deals light damage.
+-   Shoulder Bash damage and duration scales with your Fortitude attribute.
+-   15 second cooldown.
+-   Can collide with and break parts of the map.
+-   Rush shards have no effect
+-   Eternal/Aeon Logstones increase duration
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to make it apply knockback.
+
+ |
 | 
 
 **Rally** (☆☆☆)
@@ -459,49 +525,6 @@ N/A
 
 -   Lasts 5 seconds by default.
 -   Upgrades increase duration up to a maximum of 8 seconds
-
- |
-| 
-
-**Shoulder Bash** (☆☆☆)
-
-**Mobility Mantra**
-
-_Rush at your enemies with your full physical force._
-
- | 
-
-## Shoulder Bash (☆☆☆)
-
-  
-**Mobility Mantra**  
-_Rush at your enemies with your full physical force._
-
- |
-| 
-
-60 Ether
-
- | 
-
-Blunt
-
- | 
-
-35 Fortitude
-
- |
-| 
-
-**Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
-
--   Deals light damage.
--   Shoulder Bash damage and duration scales with your Fortitude attribute.
--   15 second cooldown.
--   Can collide with and break parts of the map.
--   Rush shards have no effect
--   Eternal/Aeon Logstones increase duration
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to make it apply knockback.
 
  |
 
@@ -747,19 +770,19 @@ Intelligence mantras act as "wildcards" in the user's arsenal as they complement
 | --- | --- | --- | --- | --- | --- | --- |
 | 
 
-**Summon Cauldron** (☆☆☆)
+**Ether Barrage** (☆☆☆)
 
-**Support Mantra**
+**Combat Mantra**
 
-_Make a cauldron appear from your memories._
+_Conjure concentrated orbs of Ether to launch at your enemy._
 
  | 
 
-## Summon Cauldron (☆☆☆)
+## Ether Barrage (☆☆☆)
 
   
-**Support Mantra**  
-_Make a cauldron appear from your memories._
+**Combat Mantra**  
+_Conjure concentrated orbs of Ether to launch at your enemy._
 
  |
 | 
@@ -768,20 +791,19 @@ _Make a cauldron appear from your memories._
 
  | 
 
-N/A
+\[missing, add\]
 
  | 
 
-20 Intelligence
+30 Intelligence
 
  |
 | 
 
-**Effect:** _User summons a cauldron that can be used to concoct potions._
+**Effect:** _User rises up in the air, and launches 4 orbs of Ether that explode and ragdoll on impact._
 
--   Despawns when the user moves away from the Cauldron.
--   Usable as a portable shelter for campfires.
--   The Mantra is Ritual Casted.
+-   Can be used from any height, and you will float.
+-   Does not negate fall damage, tested.
 
  |
 | 
@@ -825,19 +847,19 @@ _Predict an opponent's attack and reflect it._
  |
 | 
 
-**Ether Barrage** (☆☆☆)
+**Summon Cauldron** (☆☆☆)
 
-**Combat Mantra**
+**Support Mantra**
 
-_Conjure concentrated orbs of Ether to launch at your enemy._
+_Make a cauldron appear from your memories._
 
  | 
 
-## Ether Barrage (☆☆☆)
+## Summon Cauldron (☆☆☆)
 
   
-**Combat Mantra**  
-_Conjure concentrated orbs of Ether to launch at your enemy._
+**Support Mantra**  
+_Make a cauldron appear from your memories._
 
  |
 | 
@@ -846,19 +868,20 @@ _Conjure concentrated orbs of Ether to launch at your enemy._
 
  | 
 
-\[missing, add\]
+N/A
 
  | 
 
-30 Intelligence
+20 Intelligence
 
  |
 | 
 
-**Effect:** _User rises up in the air, and launches 4 orbs of Ether that explode and ragdoll on impact._
+**Effect:** _User summons a cauldron that can be used to concoct potions._
 
--   Can be used from any height, and you will float.
--   Does not negate fall damage, tested.
+-   Despawns when the user moves away from the Cauldron.
+-   Usable as a portable shelter for campfires.
+-   The Mantra is Ritual Casted.
 
  |
 
@@ -898,43 +921,45 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 | --- | --- | --- | --- | --- | --- | --- |
 | 
 
-**Gaze** (☆☆☆)
+**Exhaustion Strike** (☆☆☆)
 
-**Support Mantra**
+**Combat Mantra**
 
-_Gaze into your opponent's souls._
+_A melee strike that removes your posture's damage on hit._
 
  | 
 
-## Gaze (☆☆☆)
+## Exhaustion Strike (☆☆☆)
 
   
-**Support Mantra**  
-_Gaze into your opponent's souls._
+**Combat Mantra**  
+_A melee strike that removes your posture's damage on hit._
 
  |
 | 
 
-70 Ether
+80 Ether
 
  | 
 
-N/A
+\[missing, add\]
 
  | 
 
-30 Willpower
+40 Willpower
 
  |
 | 
 
-**Effect:** _User casts a penetrating gaze, frightening all opponents they make eye contact with_
+**Effect:** _User pulls their arm back and then transfers their posture damage to their opponent._
 
--   Inflicts shadow insanity on target, causing them to shiver a couple of times. You must be looking at your opponent.
-    -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 1 insanity (shivering)
--   Upgrading this Mantra extends the duration.
-    -   At level 5 it lasts 12 seconds.
--   Can be countered by holding block, wearing a [Blindfold](Blindfold.md), or having a higher Willpower attribute than the caster.
+-   The posture transfer cannot guardbreak.
+-   Exhaustion Strikes posture transfer scales with your Willpower attribute. Going from 20% at Level 1 to 60% at Level 5.
+-   20%/30%/40%/50%/60% posture transfer per level
+-   20/22/24/26/28 damage per level
+-   32.2 damage at 100 Willpower level 5
+-   1.5 Willpower scaling
+-   0.5s wind-up.
 
  |
 | 
@@ -978,45 +1003,43 @@ With Attunement: 20 Willpower, 25 Charisma
  |
 | 
 
-**Exhaustion Strike** (☆☆☆)
+**Gaze** (☆☆☆)
 
-**Combat Mantra**
+**Support Mantra**
 
-_A melee strike that removes your posture's damage on hit._
+_Gaze into your opponent's souls._
 
  | 
 
-## Exhaustion Strike (☆☆☆)
+## Gaze (☆☆☆)
 
   
-**Combat Mantra**  
-_A melee strike that removes your posture's damage on hit._
+**Support Mantra**  
+_Gaze into your opponent's souls._
 
  |
 | 
 
-80 Ether
+70 Ether
 
  | 
 
-\[missing, add\]
+N/A
 
  | 
 
-40 Willpower
+30 Willpower
 
  |
 | 
 
-**Effect:** _User pulls their arm back and then transfers their posture damage to their opponent._
+**Effect:** _User casts a penetrating gaze, frightening all opponents they make eye contact with_
 
--   The posture transfer cannot guardbreak.
--   Exhaustion Strikes posture transfer scales with your Willpower attribute. Going from 20% at Level 1 to 60% at Level 5.
--   20%/30%/40%/50%/60% posture transfer per level
--   20/22/24/26/28 damage per level
--   32.2 damage at 100 Willpower level 5
--   1.5 Willpower scaling
--   0.5s wind-up.
+-   Inflicts shadow insanity on target, causing them to shiver a couple of times. You must be looking at your opponent.
+    -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 1 insanity (shivering)
+-   Upgrading this Mantra extends the duration.
+    -   At level 5 it lasts 12 seconds.
+-   Can be countered by holding block, wearing a [Blindfold](Blindfold.md), or having a higher Willpower attribute than the caster.
 
  |
 
@@ -1479,41 +1502,6 @@ _Close the distance and deliver a fast slash._
  |
 | 
 
-**Flashdraw Strike** (☆☆☆)
-
-**Combat Mantra**
-
-_Switftly unsheathe your blade and deliver an upwards strike._
-
- | 
-
-## Flashdraw Strike (☆☆☆)
-
-  
-**Combat Mantra**  
-_Switftly unsheathe your blade and deliver an upwards strike._
-
- |
-| 
-
-40 Ether
-
- | 
-
-\[missing, add\]
-
- | 
-
-60 Medium Weapon, 25 Agility
-
- |
-| 
-
-**Effect:** _User readies their blade before performing a swift strike that uppercuts any targets within range and the user into the air._
-
- |
-| 
-
 **Twincleave** (☆☆☆)
 
 **Combat Mantra**
@@ -1547,6 +1535,41 @@ _Dart around the battlefield with devastating cleaves delivered in quick success
 **Effect:** _User unleashes 2 slashes, the first moving them forward, the second launching them backwards._
 
 -   Can change the direction you launch backwards by turning your camera.
+
+ |
+| 
+
+**Flashdraw Strike** (☆☆☆)
+
+**Combat Mantra**
+
+_Switftly unsheathe your blade and deliver an upwards strike._
+
+ | 
+
+## Flashdraw Strike (☆☆☆)
+
+  
+**Combat Mantra**  
+_Switftly unsheathe your blade and deliver an upwards strike._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+60 Medium Weapon, 25 Agility
+
+ |
+| 
+
+**Effect:** _User readies their blade before performing a swift strike that uppercuts any targets within range and the user into the air._
 
  |
 
@@ -1622,44 +1645,6 @@ _Unleash a powerful pressure blast from the weight of your weapon._
  |
 | 
 
-**Punishment** (☆☆☆)
-
-**Combat Mantra**
-
-_Absorb damage then return fury upon your foes._
-
- | 
-
-## Punishment (☆☆☆)
-
-  
-**Combat Mantra**  
-_Absorb damage then return fury upon your foes._
-
- |
-| 
-
-\[missing, add\]
-
- | 
-
-\[missing, add\]
-
- | 
-
-50 Heavy Weapon
-
- |
-| 
-
-**Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
-
--   After the cooldown of punishment, activating it again will proceed to do a big AOE swing similar to master's flourish, that affects everyone nearby.
--   Deals damage based off damage absorbed, parryable.
-
- |
-| 
-
 **Onslaught** (☆☆☆)
 
 **Combat Mantra**
@@ -1698,29 +1683,44 @@ _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._
 -   At max level, the initial hit posture breaks
 
  |
+| 
 
-## Upgrading Mantras
+**Punishment** (☆☆☆)
 
-The Attunement-less mantra trainer [Regek](Regek.md) can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.) Alternatively, you can use the Songwright in the guild base (if you hired him already)
+**Combat Mantra**
 
-Otherwise, you can use the Mantra Trainer in the guildbase without having to do a quest.
+_Absorb damage then return fury upon your foes._
 
--   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
--   2 of them are located in the Blacksmith's area.
--   1 is located outside of the Observatory.
+ | 
 
-Once completed, the user can upgrade their attunement-less mantras by speaking to the trainer and paying an increasing sum of notes for each mantra level. NOTE:
+## Punishment (☆☆☆)
 
--   Upgrading your mantras at this trainer depends on the **type of mantra** you wish to upgrade and **the number of points** you have in the **respective attribute!**
+  
+**Combat Mantra**  
+_Absorb damage then return fury upon your foes._
 
-For example:
+ |
+| 
 
-1.  20+ points in Strength => Level 2 Strength Mantra.
-2.  40+ points in Strength => Level 3 Strength Mantra.
-3.  60+ points in Strength => Level 4 Strength Mantra.
-4.  80+ points in Strength => Level 5 Strength Mantra.
+\[missing, add\]
 
-In short: Every 20 points in a specific attribute will unlock the next level for said mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its mantras aside from a bit of damage scaling.
+ | 
+
+\[missing, add\]
+
+ | 
+
+50 Heavy Weapon
+
+ |
+| 
+
+**Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
+
+-   After the cooldown of punishment, activating it again will proceed to do a big AOE swing similar to master's flourish, that affects everyone nearby.
+-   Deals damage based off damage absorbed, parryable.
+
+ |
 
 ## Tips
 

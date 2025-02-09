@@ -1,9 +1,9 @@
 ---
 title: Bloodfouler
-revid: 135535
+revid: 135664
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons]
 ---
 
 # Bloodfouler
@@ -27,23 +27,25 @@ categories: [Weapons]
 
 ## Description
 
-The Bloodfouler is a [Legendary Greatsword](Weapons.md); an Odachi commissioned by (assumedly) the Second Prophet during their training. The blade is well decorated in a crimson pattern, as well as its sheathe proving its intricate craft even more. It scales off of [Bloodrend](Bloodrend.md) alongside [Heavy Weapons](Attributes.md).
+The Bloodfouler is a [Legendary Greatsword](Weapons.md); an odachi commissioned by an unknown member of the Ministry during their training to one day become a prophet. The blade is well decorated in a crimson pattern, as well as its sheathe proving its intricate craft even more. It scales off of [Bloodrend](Bloodrend.md) alongside [Heavy Weapons](Attributes.md).
 
 The weapon can be acquired by retrieving three tomes from the following:
 
 1.  [Volu](Volu.md), who is leaned against the wall in [Outpost Antumbra](Outpost_Antumbra.md)'s basement.
-2.  As a drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), the Scholar of the Crimson Contract.
-3.  As a drop from the [Ministry Cache Agent](Ministry_Agent.md).
+2.  As a drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
+3.  As a drop from the [Ministry Agent](Ministry_Agent.md).
 
 When all three have been retrieved, they can be placed on the case that is right next to Volu, thus putting the Bloodfouler into your hands.
 
+It can also be obtained as a direct drop from Chaser, as well as [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+
 ## Criticals
 
-For the **Standing Critical** of the Bloodfouler, the user move's forward in the direction they are facing doing a 360° sweep.
+For the **standing** critical, the user moves forward in the direction they are facing doing a 360° sweep.
 
-While **running**, when performing the critical you will move forward at the same speed of when you were running.
+While running when performing the critical, you will move forward at the same speed of when you were running.
 
 ## Trivia
 
 -   The sheathe depicts symbols of [The Ministry](The_Ministry.md), alongside an emblem resembling the symbol for [Notes](Notes.md), the [Moonseye](Moonseye.md), and another pattern.
--   it is unknown whether or not the Poser's Ring works with this weapon (need testing)
+-   Does not work with the Poser’s Ring.

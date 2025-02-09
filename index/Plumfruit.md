@@ -1,9 +1,9 @@
 ---
 title: Plumfruit
-revid: 107562
+revid: 135721
 source: https://deepwoken.fandom.com/wiki/Plumfruit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food]
+categories: [Food, Harvestables]
 ---
 
 # Plumfruit

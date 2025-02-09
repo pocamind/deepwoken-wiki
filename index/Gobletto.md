@@ -1,9 +1,9 @@
 ---
 title: Gobletto
-revid: 111458
+revid: 135716
 source: https://deepwoken.fandom.com/wiki/Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients]
+categories: [Ingredients, Harvestables]
 ---
 
 # Gobletto

@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 135075
+revid: 135608
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
@@ -24,7 +24,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest, Chaser, War Mode, Dread Serpent, Heart of EnmityAlloyed:, Alloying an Adretian Axe, Dread Serpent, Heart of Enmity |
+| obtainment | Fort Merit, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest, Chaser, War Mode, Dread Serpent, Heart of EnmityAlloyed:, Alloying an Adretian Axe, Dread Serpent, Heart of Enmity, The Doom of Caeranthil |
 | description | "A bound axe in the typical Adretian fashion." |
 
 ## Description

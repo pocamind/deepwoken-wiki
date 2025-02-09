@@ -1,6 +1,6 @@
 ---
 title: Fur Parka
-revid: 123547
+revid: 135641
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Parkas]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Parkas]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Aratel Island, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol |
 | description | "An essential winter coat to protect you against the cold." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Akira's Ring"
-revid: 133011
+revid: 135651
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aelita (Extremely Rare), Ferryman, Primadon, Duke Erisia, Second Layer, Ancient Rotlands, Fort Merit (Extremely Rare), Maestro Evengarde Rest, Trading with Jeremiah |
+| obtainment | Aelita (Extremely Rare)<, The Ferryman, Primadon, Titan of the East, Duke Ishamon Erisia, Second Layer, The Doom of Caeranthil, Interluminary Parasol, Ancient Rotlands, Fort Merit (Extremely Rare), Maestro Evengarde Rest, Trading with Jeremiah |
 | description | "A ring once worn by a Black Diver. It seems he's since passed the need for such trinkets." |
 
 ## Description

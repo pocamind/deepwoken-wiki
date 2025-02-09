@@ -1,8 +1,9 @@
 ---
 title: Stick
-revid: 131154
+revid: 135731
 source: https://deepwoken.fandom.com/wiki/Stick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items, Harvestables]
 ---
 
 # Stick
@@ -25,6 +26,6 @@ You can use sticks in the following acts:
 
 ## Trivia
 
-These cannot be used for trading to the Lumberjacks in both Vigils and Etrea, you will need to make all your sticks to wood
+These cannot be used for trading to the Lumberjacks in either Vigils and Etrea, you will need to craft all your sticks to wood.
 
 > You can buy 99 wood from the blacksmith in Etrea, then craft 99 sticks and get 99 wood again, this will make it so you travel less to buy wood and farm reputation for Etrea.

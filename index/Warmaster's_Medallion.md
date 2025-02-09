@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 132451
+revid: 135668
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -32,8 +32,6 @@ Equipping it grants the Talent "Actions Speak Louder" which states "Your Critica
 
 If used in [Chime of Conflict](Chime_of_Conflict.md), your Critical cooldown is only reduced by 5% unless in 2v2s or 3v3s. (needs testing)
 
-**The user cannot drop this equipment item, but it can be banked.**
-
 ## Tips/Trivia
 
 -   The second (or third) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Tiran Pendant](Tiran_Pendant.md).
@@ -41,3 +39,4 @@ If used in [Chime of Conflict](Chime_of_Conflict.md), your Critical cooldown is 
     -   There are 3 Authority emblems outside of the attachment.
     -   The neon blades could represent the Circle of Honor, as it is surrounded by a circular border and is the source of the [Warmaster Oath](Oaths.md#warmaster) comes from.
 -   Has virtually no downside on slots with the Dissonant [echo modifier](Echoes.md).
+-   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).

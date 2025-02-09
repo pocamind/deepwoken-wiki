@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 135135
+revid: 135650
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Saramaed Hollow, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Second Layer, Chime of Conflict, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, The Depth Fragment, Voidwalker Bounties, Chaser, Scholar of the Crimson Contract, Voidsea Events |
+| obtainment | Saramaed Hollow, Duke Ishamon Erisia, Primadon, Titan of the East, Interluminary Parasol, First Layer, Second Layer, Chime of Conflict, Heart of Enmity, Maestro Evengarde Rest, The Doom of Caeranthil, Dread Serpent, The Depth Fragment, Voidwalker Bounties, Chaser, Scholar of the Crimson Contract, Voidsea Events |
 | description | "Designed for the scholars of the citadel, these frames are sought after and traded across all major luminant settlements, renowned for their simple yet striking style. They are not your prescription..." |
 
 ## Description

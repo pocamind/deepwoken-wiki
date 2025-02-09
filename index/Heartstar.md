@@ -1,9 +1,9 @@
 ---
 title: Heartstar
-revid: 135179
+revid: 135710
 source: https://deepwoken.fandom.com/wiki/Heartstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mantras]
+categories: [Items, Elemental Ingredients]
 ---
 
 # Heartstar

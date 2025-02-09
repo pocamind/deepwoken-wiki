@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 135526
+revid: 135629
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -20,7 +20,9 @@ The Interluminary Parasol (also referred to as Jellyfish/Big Jellyfish) is a gia
 
 According to the item description of it's exclusive drop, the Parasol emerges from the Depths, it's sole purpose being to spread the Depth's influence by bringing it's mobs up to the surface, disrupting the ecosystems on the surface.
 
-This boss is one of the [World Events](World_Events.md), potentially spawning once every real world hour. Like other world event bosses, it does not grant [bell progression](Resonance.md#bell-progress) when defeated.
+This boss is one of the [World Events](World_Events.md), potentially spawning once every real world hour.
+
+Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md) progression and [Attribute](Attributes.md) XP upon defeat.
 
 ## Moveset
 
@@ -126,8 +128,8 @@ Exhaustive Loot Table
 
 ## Tips & Tricks
 
--   ~Has incredibly high resistance to cannons- it takes barely any damage, if any at all.~ Latest update made parasol take more damage from cannons, making it the most effective cheese method for the boss(took me around 15 minutes to kill it with schooner). It's far more effective to corner the Parasol with a group when it passes by land than it is to bombard it with your boat.
--   Best method to kill it is to shoot with cannons when you're far away and have someone get close with a high hp ship so you can attack.
+-   As of now, an update made the Parasol take more damage from cannons, making it the most effective cheese method for the boss (takes around 15 minutes to kill it with the Schooner). It's far more effective to corner the Parasol with a group when it passes by land than it is to bombard it with your boat.
+-   Best method to kill it is to shoot with cannons when you're far away and have someone get close with a high HP ship so you can attack.
 
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
 

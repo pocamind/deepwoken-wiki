@@ -1,6 +1,6 @@
 ---
 title: Enforcer Pull
-revid: 60978
+revid: 135761
 source: https://deepwoken.fandom.com/wiki/Enforcer_Pull
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Monster Mantras](Monster_Mantras.md)
+-   [Monster Mantras#Enforcer Pull](Monster_Mantras.md#enforcer-pull)

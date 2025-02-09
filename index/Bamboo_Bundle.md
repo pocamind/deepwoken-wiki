@@ -1,9 +1,9 @@
 ---
 title: Bamboo Bundle
-revid: 111501
+revid: 135722
 source: https://deepwoken.fandom.com/wiki/Bamboo_Bundle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Uses, Ingredients]
+categories: [Uses, Ingredients, Harvestables]
 ---
 
 # Bamboo Bundle
