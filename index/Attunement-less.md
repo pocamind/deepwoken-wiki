@@ -1,9 +1,9 @@
 ---
 title: "Attunement-less"
-revid: 134084
+revid: 135492
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Attunement]
+categories: [Attunement]
 ---
 
 # Attunement-less
@@ -33,178 +33,475 @@ In spite of its shortcomings, the potential of Attunement-less is nothing to sco
 
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
-| **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & info** |
-| --- | --- | --- | --- | --- |
 | 
- | Strong Left
+**Name**
 
-(☆☆☆)
+ | 
 
- | _Show your foes your strength._ | 35 Ether | 
+**Ether Cost**
 
--   **Requirements:** _**20 Strength,**_ _Combat Mantra_
-    -   A powerful left cross that knocks your opponent away, inflicting ragdoll and a good amount of knockback in the process.
-    -   Strong Left scales with your Strength attribute.
-    -   Can fell trees. With [Treefelling Blow](Talents.md) Talent, you can gain wood from fallen trees.
-    -   Has a base posture damage of 22
-    -   20/30/40/50/60 base damage per level
-    -   72 damage at 100 Strength level 5
-    -   2 Strength scaling
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Strong Left** (☆☆☆)
+
+**Combat Mantra**
+
+_Show your foes your strength._
+
+ | 
+
+## Strong Left (☆☆☆)
+
+  
+**Combat Mantra**  
+_Show your foes your strength._
 
  |
 | 
 
- | Rapid Punches
+35 Ether
 
-(☆☆☆)
+ | 
 
- | _Unleash a barrage of blows against your foes._ | 30 Ether | 
+Blunt
 
--   **Requirements:** _**20 Strength,**_ _Combat Mantra_
-    -   A flurry of punches that inflicts light damage on your opponent.
-    -   The move is cancelled upon getting parried in the initial hit.
-    -   The user may cancel the barrage at any point during it by right clicking.
-    -   Rapid Punches scales with your Strength attribute.
-    -   Victims struck by the last punch are pushed away.
-    -   60/65/70/75/80 base damage per level
-    -   96 damage at 100 Strength level 5
-    -   2 Strength scaling
+ | 
+
+20 Strength
 
  |
 | 
 
- | Table Flip
+**Effect:** _User unleashes a powerful left cross that knocks their opponent away, inflicting ragdoll and a good amount of knockback in the process._
 
-(☆☆☆)
-
- | _Toss the ground infront of you._ | 35 Ether | 
-
--   **Requirements:** 40 _**Strength,**_ _Combat Mantra_
-    -   Throw a piece of the ground that goes straight in the direction your character (not your camera) is looking at.
-    -   Victims crushed by the rock will be dazed and will be thrown away.
-    -   20/30/40/50/60 damage per level
-    -   72 damage at 100 Strength level 5
-    -   2 Strength scaling
+-   Can fell trees. With [Treefelling Blow](Talents.md) Talent, you can gain wood from fallen trees.
+-   Has a base posture damage of 22
+-   20/30/40/50/60 base damage per level
+-   72 damage at 100 Strength level 5
+-   2 Strength scaling
 
  |
 | 
 
- | Strong Leap
+**Rapid Punches** (☆☆☆)
 
-(☆☆☆)
+**Combat Mantra**
 
- | _Kick off of the ground with your strength, sending you into the air._ | 70 Ether | 
+_Unleash a barrage of blows against your foes._
 
--   **Requirements:** _**50 Strength,**_ _Mobility Mantra_
-    -   A vertical jump that sends the user into the air.
-    -   Altitude travelled decreases significantly as the user loses health.
-    -   Drops carried players/NPCs when used.
-    -   Fall damage is taken if the user gets high enough.
-    -   It doesn't seem to scale depending on level, not granting anymore height from a Level 1 Strong Leap to a Level 5 Strong Leap
+ | 
 
- |
-| 
+## Rapid Punches (☆☆☆)
 
- | Tacet Drop Kick
-
-(☆☆☆)
-
- | _Disguise yourself in tacet and drop kick your enemies._ |  | 
-
--   **Requirements: 5 Strength, Jus Karita, Murmur: Tacet,** _Combat Mantra_
-    -   Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.
-    -   Inflicts knockdown.
-    -   Lands 15% faster when casted while wielding Jus Karita.
-    -   Recommended to get 20 strength if you have an attunment as to utilize the mystic to more easily roll for it.
-    -   _(Used to be 20 strength, was shadow changed to be 5 strength.)_
+  
+**Combat Mantra**  
+_Unleash a barrage of blows against your foes._
 
  |
 | 
 
- | Skyshatter Kick
+30 Ether
 
-(☆☆☆)
+ | 
 
- | _Unleash two devasting kicks with your brute strength._ | 120 Ether | 
+Blunt
 
--   **Requirements:** _**80 Strength,**_ _Combat Mantra_
-    -   Does MASSIVE damage upon hit, and has a range of 20 studs.
-    -   Can be parried, blocked and dodged.
-    -   Has long wind-up.
-    -   Skyshatter kick can be modified with a [Round Spark](Mantra_Modifiers.md) to Stomp directly into the ground, if a Player is hit by this they are both flung into the air, however if more than 2 players are hit, one user will be flung up while the other two including the caster will remain on the ground (might be a bug)
-    -   20/30/40/50/60 damage per level, per kick
-    -   72 damage at 100 Strength level 5, per kick
-    -   2 Strength scaling
+ | 
+
+20 Strength
+
+ |
+| 
+
+**Effect:** _User launches a flurry of punches that inflicts light damage on their opponent._
+
+-   The move is cancelled upon getting parried in the initial hit.
+-   The user may cancel the barrage at any point during it by right clicking.
+-   Victims struck by the last punch are pushed away.
+-   60/65/70/75/80 base damage per level
+-   96 damage at 100 Strength level 5
+-   2 Strength scaling
+
+ |
+| 
+
+**Table Flip** (☆☆☆)
+
+**Combat Mantra**
+
+_Toss the ground infront of you._
+
+ | 
+
+## Table Flip (☆☆☆)
+
+  
+**Combat Mantra**  
+_Toss the ground infront of you._
+
+ |
+| 
+
+35 Ether
+
+ | 
+
+Blunt
+
+ | 
+
+40 Strength
+
+ |
+| 
+
+**Effect:** _User throws a piece of the ground that goes straight in the direction their character (not the camera) is looking at._
+
+-   Victims crushed by the rock will be dazed and will be thrown away.
+-   20/30/40/50/60 damage per level
+-   72 damage at 100 Strength level 5
+-   2 Strength scaling
+
+ |
+| 
+
+**Strong Leap** (☆☆☆)
+
+**Mobility Mantra**
+
+_Kick off of the ground with your strength, sending you into the air._
+
+ | 
+
+## Strong Leap (☆☆☆)
+
+  
+**Mobility Mantra**  
+_Kick off of the ground with your strength, sending you into the air._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+N/A
+
+ | 
+
+50 Strength
+
+ |
+| 
+
+**Effect:** _User jumps vertically into the air._
+
+-   Altitude travelled decreases significantly as the user loses health.
+-   Drops carried players/NPCs when used.
+-   Fall damage is taken if the user gets high enough.
+-   It doesn't seem to scale depending on level, not granting anymore height from a Level 1 Strong Leap to a Level 5 Strong Leap
+
+ |
+| 
+
+**Tacet Drop Kick** (☆☆☆)
+
+**Combat Mantra**
+
+_Disguise yourself in tacet and drop kick your enemies._
+
+ | 
+
+## Tacet Drop Kick (☆☆☆)
+
+  
+**Combat Mantra**  
+_Disguise yourself in tacet and drop kick your enemies._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Blunt
+
+ | 
+
+5 Strength, [Jus Karita](Jus_Karita.md), [Murmur: Tacet](Murmur%253A_Tacet.md)
+
+ |
+| 
+
+**Effect:** _User utilizes Tacet then teleports themselves above an opponent before hitting them with a kick._
+
+-   Blunt Damage Type
+-   Inflicts knockdown.
+-   Lands 15% faster when casted while wielding Jus Karita.
+-   Recommended to get 20 strength if you have an attunment as to utilize the mystic to more easily roll for it.
+
+ |
+| 
+
+**Skyshatter Kick** (☆☆☆)
+
+**Combat Mantra**
+
+_Unleash two devasting kicks with your brute strength._
+
+ | 
+
+## Skyshatter Kick (☆☆☆)
+
+  
+**Combat Mantra**  
+_Unleash two devasting kicks with your brute strength._
+
+ |
+| 
+
+120 Ether
+
+ | 
+
+Blunt
+
+ | 
+
+80 Strength
+
+ |
+| 
+
+**Effect:** _User performs a long windup before unleashing two devastating kicks._
+
+-   Does MASSIVE damage upon hit, and has a range of 20 studs.
+-   Can be parried, blocked and dodged.
+-   20/30/40/50/60 damage per level, per kick
+-   72 damage at 100 Strength level 5, per kick
+-   2 Strength scaling
+-   Skyshatter Kick can be modified with a [Round Spark](Mantra_Modifiers.md) to Stomp directly into the ground, if a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
     -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
-    
 
  |
 
 ### _Fortitude Mantras_
 
-Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a Training Vest, or feel the crushing weight of a Boulder.
+Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](Training_Gear.md#attribute-training-gears), or feel the crushing weight of a [Boulder](Training_Gear.md#attribute-training-gears).
 
-| **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & Info** |
-| --- | --- | --- | --- | --- |
 | 
- | Rally
+**Name**
 
-(☆☆☆)
+ | 
 
- | _Strike your shield a few times to absorb some of the posture received by your allies._ | 70 Ether | 
+**Ether Cost**
 
--   **Requirements:** Fortitude + _**Any Shield**_, _Support Mantra_
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Rally** (☆☆☆)
+
+**Support Mantra**
+
+_Strike your shield a few times to absorb some of the posture received by your allies._
+
+ | 
+
+## Rally (☆☆☆)
+
+  
+**Support Mantra**  
+_Strike your shield a few times to absorb some of the posture received by your allies._
 
  |
 | 
 
- | Reinforce
+70 Ether
 
-(☆☆☆)
+ | 
 
- | _Buff those around you with extra defense and damage._ | 70 Ether | 
+N/A
 
--   **Requirements:** _**50 Fortitude**_, _Support Mantra_
-    -   Gives 10% resistance and 10%(5% if Reinforce was only used on yourself) damage increase to the mantra user and all nearby allies.
-        -   Damage increase only works on M1 and crits.
-        -   Potentially reduces incoming PEN. (needs testing)
-    -   The duration of the mantra is equal to 20 seconds. The cooldown of the mantra is 55 seconds.
-        -   For each mantra level the duration increases by 8 seconds and cooldown decreases by 5 seconds.
-    -   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord's Tithe' and 'Grand Support'._
-    -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
+ | 
+
+1 Fortitude, Any Shield Equipped
 
  |
 | 
 
- | Brace
+**Effect:** _User drums their shield before lowering the posture of allies around them._
 
-(☆☆☆)
-
- | _Brace yourself against attacks and gain hyperarmour._ | 60 Ether | 
-
--   **Requirements:** _**75 Fortitude,**_ _Support Mantra_
-    -   User gains hyperarmor, negating hitstun for the duration of the effect.
-    -   Last 5 Seconds by default.
-    -   _Upgrades increase duration up to a maximum of 8 seconds_
+-   Leveling up this Mantra has no effect
 
  |
 | 
 
- | Shoulder Bash
+**Reinforce** (☆☆☆)
 
-(☆☆☆)
+**Support Mantra**
 
- | _Rush at your enemies with your full physical force._ | 60 Ether | 
+_Buff those around you with extra defense and damage._
 
--   **Requirements:** _**35 Fortitude**_, _Mobility Mantra_
-    -   User quickly charges forward with their shoulder, stopping after the duration is over/colliding with an object or entity/Parried or dodged.
-    -   Deals light damage.
-    -   Shoulder Bash damage and duration scales with your Fortitude attribute.
-    -   This mantra has a 15 second cooldown.
-    -   Can collide with and break parts of the map.
-    -   Rush shards do nothing
-    -   Eternal/Aeon Logstones increase duration
-    -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to apply knockback.
+ | 
+
+## Reinforce (☆☆☆)
+
+  
+**Support Mantra**  
+_Buff those around you with extra defense and damage._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+N/A
+
+ | 
+
+50 Fortitude
+
+ |
+| 
+
+**Effect:** _User buffs others in a small area around them, giving a 10% resistance and 10% (5% if Reinforce was only used on yourself) damage increase to the user and all nearby allies._
+
+-   Damage increase only works on M1 and crits.
+-   Potentially reduces incoming PEN. (needs testing)
+-   Lasts for a duration of 20 seconds. The cooldown of the mantra is 55 seconds.
+-   For each mantra level the duration increases by 8 seconds and cooldown decreases by 5 seconds.
+-   Can be upgraded with the Fortitude Talent Cards **Lord's Tithe** and **Grand Support**.
+-   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
+
+ |
+| 
+
+**Brace** (☆☆☆)
+
+**Support Mantra**
+
+_Brace yourself against attacks and gain hyperarmour._
+
+ | 
+
+## Brace (☆☆☆)
+
+  
+**Support Mantra**  
+_Brace yourself against attacks and gain hyperarmour._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+N/A
+
+ | 
+
+75 Fortitude
+
+ |
+| 
+
+**Effect:** _User prepares themself and turns red, gaining hyperarmor and negating hitstun for the duration of the effect._
+
+-   Lasts 5 seconds by default.
+-   Upgrades increase duration up to a maximum of 8 seconds
+
+ |
+| 
+
+**Shoulder Bash** (☆☆☆)
+
+**Mobility Mantra**
+
+_Rush at your enemies with your full physical force._
+
+ | 
+
+## Shoulder Bash (☆☆☆)
+
+  
+**Mobility Mantra**  
+_Rush at your enemies with your full physical force._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Blunt
+
+ | 
+
+35 Fortitude
+
+ |
+| 
+
+**Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
+
+-   Deals light damage.
+-   Shoulder Bash damage and duration scales with your Fortitude attribute.
+-   15 second cooldown.
+-   Can collide with and break parts of the map.
+-   Rush shards have no effect
+-   Eternal/Aeon Logstones increase duration
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to make it apply knockback.
 
  |
 
@@ -212,118 +509,354 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 
 Agility mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with Ankle weights by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _assassinations._
 
-| **Media** | **Name** | **Card Description** | **Effect & info** |
-| --- | --- | --- | --- |
 | 
- | Revenge
+**Name**
 
-(☆☆☆)
+ | 
 
- | _A vengeful rush._ | 
+**Ether Cost**
 
--   **Requirements:** _**5 Agility,**_ _Combat Mantra_
-    -   A quick dash signified by a red-line effect.
-    -   The move teleports you forwards only upon hitting an opponent.
-    -   This mantra has a cooldown of 15 seconds.
-    -   It has a windup of 0.55 seconds and an endlag of 0.15 seconds.
-    -   It has a posture damage of 5.5, regardless of mantra level.
-    -   This mantra has innate bleed, meaning that the base damage has an extra 30% true damage that doesn't get affected by damage modifiers.
-    -   Its base damage per level is 12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 and has an agility scaling of 2.
-    -   The Damage of the move scales with how much HP the user has left, dealing more damage with less HP.
-        -   Revenge does NOT do any additional damage unless health is BELOW 50%
-        -   45% = 1.2x
-        -   40% = 1.43x
-        -   35% = 1.65x
-        -   30% = 1.86x
-        -   25% = 2.07x
-        -   20% = 2.28x
-        -   15% = 2.5x
-        -   10% = 2.71x
-        -   5% = 2.9x (below 5% the damage stops increasing)
-    -   With the [Pursuit](Talents.md) Talent, Revenge can be used twice in a row if the first use hits.
-    -   Wayward does **NOT** proc on revenge
-    -   Can be upgraded with Stones and Shards. (Increases range of the Mantra).
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Revenge** (☆☆☆)
+
+**Combat Mantra**
+
+_A vengeful rush._
+
+ | 
+
+## Revenge (☆☆☆)
+
+  
+**Combat Mantra**  
+_A vengeful rush._
 
  |
 | 
 
- | Dash
+\[missing, add\]
 
-(☆☆☆)
+ | 
 
- | _An agile dash._ | 
+Slash
 
--   **Requirements:** _**40 Agility,**_ _Mobility Mantra_
-    -   Sends the user a considerable distance forward.
-    -   Range significantly decreases as the user loses health.
-    -   Canceled by attacking.
-    -   Upgrading makes the dash longer.
-    -   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
-    
+ | 
+
+5 Agility
 
  |
 | 
 
- | Adrenaline Surge
+**Effect:** _User quickly dashes forward and creates a red-line effect._
 
-(☆☆☆)
+-   The move teleports you forwards only upon hitting an opponent.
+-   Cooldown of 15 seconds.
+-   It has a windup of 0.55 seconds and an endlag of 0.15 seconds.
+-   It has a posture damage of 5.5, regardless of mantra level.
+-   This mantra has innate bleed, meaning that the base damage has an extra 30% true damage that doesn't get affected by damage modifiers.
+-   Its base damage per level is 12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 and has an agility scaling of 2.
+-   The Damage of the move scales with how much HP the user has left, dealing more damage with less HP.
+    -   Revenge does NOT do any additional damage unless health is BELOW 50%
+    -   45% = 1.2x
+    -   40% = 1.43x
+    -   35% = 1.65x
+    -   30% = 1.86x
+    -   25% = 2.07x
+    -   20% = 2.28x
+    -   15% = 2.5x
+    -   10% = 2.71x
+    -   5% = 2.9x (below 5% the damage stops increasing)
+-   Can be upgraded with the **Pursuit** Talent, allowing it to be used twice in a row if the first use hits.
+-   Wayward Gem does **NOT** proc on Revenge
+-   Can be upgraded with Stones and Shards. (Increases range of the Mantra).
 
- | _An adrenaline rush of mobility._ | 
+ |
+| 
 
--   **Requirements:** _**20 Agility,**_ _Support Mantra_
-    -   Increases movement speed.
-    -   Procs the "Speed Demon" Talent.
-    -   This Mantra can be further viable by using the Talent "Action Surge" which increases the swing speed of weapons by a extra 0.04 while the mantra is active.
-    -   Upgrading reduces cooldown.
-    -   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
+**Twinstrikes** (☆☆☆)
+
+**Combat Mantra**
+
+_An adrenaline rush of mobility._
+
+ | 
+
+## Twinstrikes (☆☆☆)
+
+  
+**Combat Mantra**  
+_An adrenaline rush of mobility._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+40 Agility, 60 Strength
+
+ |
+| 
+
+**Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
+
+ |
+| 
+
+**Dash** (☆☆☆)
+
+**Mobility Mantra**
+
+_An agile dash._
+
+ | 
+
+## Dash (☆☆☆)
+
+  
+**Mobility Mantra**  
+_An agile dash._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+N/A
+
+ | 
+
+40 Agility
+
+ |
+| 
+
+**Effect:** _User sends themself a considerable distance forward_
+
+-   Range significantly decreases as the user loses health.
+-   Canceled by attacking.
+-   Upgrading makes the dash longer.
+-   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
+
+ |
+| 
+
+**Adrenaline Surge** (☆☆☆)
+
+**Support Mantra**
+
+_An adrenaline rush of mobility._
+
+ | 
+
+## Adrenaline Surge (☆☆☆)
+
+  
+**Support Mantra**  
+_An adrenaline rush of mobility._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+N/A
+
+ | 
+
+20 Agility
+
+ |
+| 
+
+**Effect:** _User activates an inner surge of energy_
+
+-   Procs the "Speed Demon" Talent.
+-   This Mantra can be further viable by using the Talent **Action Surge** which increases the swing speed of weapons by a extra 0.04 while the mantra is active.
+-   Upgrading reduces cooldown.
+-   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
 
  |
 
 ### _Intelligence Mantras_
 
-Intelligence mantras act as "wildcards" in the user's arsenal as they complement well with existing mantras. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
+Intelligence mantras act as "wildcards" in the user's arsenal as they complement existing mantras well. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
 
-| **Media** | **Name** | **Card Description** | **Effect & info** |
-| --- | --- | --- | --- |
 | 
- | Summon Cauldron
+**Name**
 
-(☆☆☆)
+ | 
 
- | _Make a cauldron appear from your memories._ | 
+**Ether Cost**
 
--   **Requirements:** _**20 Intelligence,**_ _Support Mantra_
-    -   Summons a cauldron that can be used to concoct potions.
-    -   Despawns when the user moves away from the Cauldron.
-    -   Usable as a portable shelter for campfires.
-    -   The Mantra is Ritual Casted.
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Summon Cauldron** (☆☆☆)
+
+**Support Mantra**
+
+_Make a cauldron appear from your memories._
+
+ | 
+
+## Summon Cauldron (☆☆☆)
+
+  
+**Support Mantra**  
+_Make a cauldron appear from your memories._
 
  |
 | 
 
- | Prediction
+\[missing, add\]
 
-(☆☆☆)
+ | 
 
- | _Predict an opponent's attack and reflect it._ | 
+N/A
 
--   **Requirements:** _**50 Intelligence,**_ Combat _Mantra_
-    -   Creates a white flooring pattern around the user.
-    -   **Deflects** an attack back to the attacker.
-    -   Can be upgraded with Intelligence Talent Cards 'All Knowing,' 'Successive Prediction' and 'Twelve Steps Ahead.'
-    -   Upgrading this Mantra extends the 'prediction' frames (iframes).
+ | 
+
+20 Intelligence
 
  |
 | 
 
- | Ether Barrage
+**Effect:** _User summons a cauldron that can be used to concoct potions._
 
-(☆☆☆)
+-   Despawns when the user moves away from the Cauldron.
+-   Usable as a portable shelter for campfires.
+-   The Mantra is Ritual Casted.
 
- | _Conjure concentrated orbs of Ether to launch at your enemy._ | 
+ |
+| 
 
--   **Requirements: _30 Intelligence,_** Combat _Mantra_
--   User rises up in the air, and launches 4 orbs of Ether that explode and ragdoll on impact.
+**Prediction** (☆☆☆)
+
+**Combat Mantra**
+
+_Predict an opponent's attack and reflect it._
+
+ | 
+
+## Prediction (☆☆☆)
+
+  
+**Combat Mantra**  
+_Predict an opponent's attack and reflect it._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+50 Intelligence
+
+ |
+| 
+
+**Effect:** _User creates a white pattern on the floor while deflecting attacks they take during the duration._
+
+-   **Deflects** an attack back to the attacker.
+-   Can be upgraded with Intelligence Talent Cards **All Knowing**, **Successive Prediction**, and **Twelve Steps Ahead.**
+-   Upgrading this Mantra extends the 'prediction' frames (iframes).
+
+ |
+| 
+
+**Ether Barrage** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure concentrated orbs of Ether to launch at your enemy._
+
+ | 
+
+## Ether Barrage (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure concentrated orbs of Ether to launch at your enemy._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+30 Intelligence
+
+ |
+| 
+
+**Effect:** _User rises up in the air, and launches 4 orbs of Ether that explode and ragdoll on impact._
+
 -   Can be used from any height, and you will float.
 -   Does not negate fall damage, tested.
 
@@ -333,56 +866,157 @@ Intelligence mantras act as "wildcards" in the user's arsenal as they complement
 
 Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate, witness the death of others or players/NPCs, or lose your own sanity through various means.
 
-| **Media** | **Name** | **Card Description** | **Effect & info** |
-| --- | --- | --- | --- |
 | 
- | Gaze
+**Name**
 
-(☆☆☆)
+ | 
 
- | _Gaze into your opponent's souls._ | 
+**Ether Cost**
 
--   **Requirements:** _**30 Willpower**_ _Support Mantra_
-    -   Inflicts shadow insanity on target, causing them to shiver a couple of times. You must be looking at your opponent.
-        -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 1 insanity (shivering)
-    -   Upgrading this Mantra extends the duration.
-        -   At level 5 it lasts 12 seconds.
-    -   Can be countered by holding block, wearing a [Blindfold](Blindfold.md), having higher willpower than the caster (Willpower stat).
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Gaze** (☆☆☆)
+
+**Support Mantra**
+
+_Gaze into your opponent's souls._
+
+ | 
+
+## Gaze (☆☆☆)
+
+  
+**Support Mantra**  
+_Gaze into your opponent's souls._
 
  |
 | 
 
- | Glare
+70 Ether
 
-(☆☆☆)
+ | 
 
- | _Opponents facing you are briefly rendered immobile._ | 
+N/A
 
--   **Requirements (if attunementless):** **5** _**Willpower, 25 Charisma,**_ _Support Mantra_
--   **Requirements (if with an attunement):** **20 _Willpower, 25 Charisma,_** _Support Mantra_
-    -   User summons an invisible AoE projectile upon activation, briefly stunning anyone hit by it.
-    -   May still combat tag opponents who are not facing you.
-    -   This move causes humanoid NPCs to block less.
+ | 
+
+30 Willpower
 
  |
 | 
 
- | Exhaustion Strike
+**Effect:** _User casts a penetrating gaze, frightening all opponents they make eye contact with_
 
-(☆☆☆)
+-   Inflicts shadow insanity on target, causing them to shiver a couple of times. You must be looking at your opponent.
+    -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 1 insanity (shivering)
+-   Upgrading this Mantra extends the duration.
+    -   At level 5 it lasts 12 seconds.
+-   Can be countered by holding block, wearing a [Blindfold](Blindfold.md), or having a higher Willpower attribute than the caster.
 
- | _A melee strike that removes your posture's damage on hit._ | 
+ |
+| 
 
--   **Requirements:** _**40 Willpower,**_ _Combat Mantra_
-    -   The user empties their posture damage, and transfers it to their opponent.
-    -   The posture transfer cannot guardbreak.
-    -   Exhaustion Strikes posture transfer scales with your Willpower attribute. Going from 20% at Level 1 to 60% at Level 5.
-    -   20%/30%/40%/50%/60% posture transfer per level
-    -   20/22/24/26/28 damage per level
-    -   32.2 damage at 100 Willpower level 5
-    -   1.5 Willpower scaling
-    -   0.5s wind up
-    -   Costs 80 ether to cast
+**Glare** (☆☆☆)
+
+**Support Mantra**
+
+_Opponents facing you are briefly rendered immobile._
+
+ | 
+
+## Glare (☆☆☆)
+
+  
+**Support Mantra**  
+_Opponents facing you are briefly rendered immobile._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+N/A
+
+ | 
+
+Without Attunement: 5 Willpower, 25 Charisma  
+With Attunement: 20 Willpower, 25 Charisma
+
+ |
+| 
+
+**Effect:** _User summons an invisible AoE projectile upon activation, briefly stunning anyone hit by it._
+
+-   May still combat tag opponents who are not facing you.
+-   This move causes humanoid NPCs to block less.
+
+ |
+| 
+
+**Exhaustion Strike** (☆☆☆)
+
+**Combat Mantra**
+
+_A melee strike that removes your posture's damage on hit._
+
+ | 
+
+## Exhaustion Strike (☆☆☆)
+
+  
+**Combat Mantra**  
+_A melee strike that removes your posture's damage on hit._
+
+ |
+| 
+
+80 Ether
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+40 Willpower
+
+ |
+| 
+
+**Effect:** _User pulls their arm back and then transfers their posture damage to their opponent._
+
+-   The posture transfer cannot guardbreak.
+-   Exhaustion Strikes posture transfer scales with your Willpower attribute. Going from 20% at Level 1 to 60% at Level 5.
+-   20%/30%/40%/50%/60% posture transfer per level
+-   20/22/24/26/28 damage per level
+-   32.2 damage at 100 Willpower level 5
+-   1.5 Willpower scaling
+-   0.5s wind-up.
 
  |
 
@@ -390,209 +1024,674 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 
 Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends' to level up charisma. You do not have to read the book near an NPC or player, as you will still gain experience by correctly typing the instructed phrase.
 
-| **Media** | **Name** | **Card Description** | **Effect & info** |
-| --- | --- | --- | --- |
 | 
- | Taunt
+**Name**
 
-(☆☆☆)
+ | 
 
- | _Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage._ | 
+**Ether Cost**
 
--   **Requirements:** _**25 Charisma**_ _Support Mantra_
-    -   Affected entities receive 20% more damage.
-    -   Affected entities deal 10% more damage to you specifically.
-    -   Disables Jumping.
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Taunt** (☆☆☆)
+
+**Support Mantra**
+
+_Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage._
+
+ | 
+
+## Taunt (☆☆☆)
+
+  
+**Support Mantra**  
+_Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage._
 
  |
 | 
 
- | Sing
+\[missing, add\]
 
-(☆☆☆)
+ | 
 
- | _Charm those around you with your powerful voice._ | 
+N/A
 
--   **Requirements:** _**25 Charisma** Support Mantra_
-    -   Inflicts Charm on nearby entities.
-    -   Can be modified with stratus stones to increase range.
+ | 
+
+25 Charisma
 
  |
 | 
 
-File:Disguising .gif
+**Effect:** _User taunts their opponent, signified by red particles._
 
- | Disguise
+-   N/A Damage Type
+-   Affected entities receive 20% more damage.
+-   Affected entities deal 10% more damage to you specifically.
+-   Disables Jumping.
 
-(☆☆☆)
+ |
+| 
 
- | _Take on an unimaginable disguise._ | 
+**Sing** (☆☆☆)
 
--   **Requirements:** _**20 Charisma** Mantra_
-    -   Obtained by finding an NPC named [Mime](Mime.md) and killing Barrelskippers.
-    -   Disguises the user.
-    -   You can finally play prop hunt with Voidwalkers.
+**Support Mantra**
+
+_Charm those around you with your powerful voice._
+
+ | 
+
+## Sing (☆☆☆)
+
+  
+**Support Mantra**  
+_Charm those around you with your powerful voice._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+N/A
+
+ | 
+
+25 Charisma
+
+ |
+| 
+
+**Effect:** _User creates a tune with their voice that charms nearby opponents_
+
+-   Inflicts Charm on nearby entities.
+-   Can be modified with stratus stones to increase range.
+
+ |
+| 
+
+**Disguise** (☆☆☆)
+
+**Support Mantra**
+
+_Take on an unimaginable disguise._
+
+ | 
+
+## Disguise (☆☆☆)
+
+  
+**Support Mantra**  
+_Take on an unimaginable disguise._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+N/A
+
+ | 
+
+20 Charisma, Complete [Mime](Mime.md)'s Quest
+
+ |
+| 
+
+**Effect:** _User performs a short ritual before turning into their disguise_
+
+-   This mantra is Ritual Casted.
+-   Obtained by finding an NPC named [Mime](Mime.md) and killing Barrelskippers.
+-   Modifying the Mantra alters what you are disguised as.
+    -   Barrel: No Sparks
+    -   Statue: 1 Reversal Spark
+    -   Crate: 1 Tornado Spark
+    -   Lantern: 1 Blast Spark
+    -   Gobletto: 1 Reversal Spark, 1 Tornado Spark
+    -   Unlit Campfire: 1 Tornado Spark, 1 Blast Spark. Lit Campfire: 1 Blast Spark, 1 Tornado Spark. The order in which you place the ingredients on the board is essential to the state the campfire will be in.
+    -   Skull: 1 Reversal Spark, 1 Blast Spark
 
  |
 
 ## Weapon Mantras
 
--   These mantras are based on the number of weapons points you have, not your attribute or attunement.
+-   These mantras are based on the number of weapon points you have, not your attribute or attunement.
 -   Their damage scales with the amount of weapon points you have.
 -   To increase the damage/level cap, increase your weapon mastery by reading a "Weapon Manual" (only to allocate stats, it cannot be used to train), parry, block and hit enemies with your weapon.
 
 ### _Light Weapon Mantras_
 
-| **Media** | **Name** | **Card Description** | **Effect & info** |
-| --- | --- | --- | --- |
 | 
- | Rapid Slashes
+**Name**
 
-(☆☆☆)
+ | 
 
- | _Rush down your opponent cutting them apart._ | 
+**Ether Cost**
 
--   **Requirements:** _**30 Light Weapon,**_ _Combat Mantra_
-    -   Teleports the user to the enemy which the cursor is pointed at.
-    -   Ignores resistances, and thus deals true damage.
-        -   Rapid Slashes scales with your Light Weapon attribute.
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Rapid Slashes** (☆☆☆)
+
+**Combat Mantra**
+
+_Rush down your opponent cutting them apart._
+
+ | 
+
+## Rapid Slashes (☆☆☆)
+
+  
+**Combat Mantra**  
+_Rush down your opponent cutting them apart._
 
  |
 | 
 
- | Ceaseless Slashes (★★★) | _Click to reveal yourself and deliver a rapid flurry of slashes that can chain together._ | 
+\[missing, add\]
 
--   **Requirements: 50 Light Weapon, Combat Mantra**
-    -   Turn invisible and do a moderate amount of slashes.
-    -   Can be somewhat used as a mobility mantra due to it's compatibility with rush and drift shards.
+ | 
 
- |
-| 
+True
 
- | Karita Leap (☆☆☆) | Launch yourself into a flying kick, backflipping into the air if you hit a wall. | 
+ | 
 
--   **Requirements: 20 Light Weapon, Mobility Mantra (Requires [Jus Karita](Jus_Karita.md))**
-    -   Hitting a wall causes you to backflip.
+30 Light Weapon
 
  |
 | 
 
- | Karita Divebomb
+**Effect:** _User teleports to the enemy their cursor is located on and performs numerous slashes._
 
-(☆☆☆)
+-   Teleports the user to the enemy the cursor is pointed at.
+-   Deals True damage, ignoring resistances.
+-   Scales with your Light Weapon attribute.
 
- | Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap. | 
+ |
+| 
 
--   **Requirements: 20 Light Weapon, Combat Mantra (Requires [Jus Karita](Jus_Karita.md))**
-    -   Jump into air and slam down.
-    -   Windup is **HEAVILY** reduced upon being used directly after Karita Leap
+**Ceaseless Slashes** (★★★)
+
+**Combat Mantra**
+
+_Click to reveal yourself and deliver a rapid flurry of slashes that can chain together._
+
+ | 
+
+## Ceaseless Slashes (★★★)
+
+  
+**Combat Mantra**  
+_Click to reveal yourself and deliver a rapid flurry of slashes that can chain together._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+50 Light Weapon
+
+ |
+| 
+
+**Effect:** _User turns invisible and then reveals themselves, performing a moderate amount of slashes._
+
+-   Can be somewhat used as a mobility mantra due to it's compatibility with Rush and Drift Shards.
+
+ |
+| 
+
+**Karita Leap** (☆☆☆)
+
+**Mobility Mantra**
+
+_Launch yourself into a flying kick, backflipping into the air if you hit a wall._
+
+ | 
+
+## Karita Leap (☆☆☆)
+
+  
+**Mobility Mantra**  
+_Launch yourself into a flying kick, backflipping into the air if you hit a wall._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+20 Light Weapon, [Jus Karita](Jus_Karita.md)
+
+ |
+| 
+
+**Effect:** _User thrusts themself forward with a kick, ragdolling opponents and leaping back into the air if they hit a wall._
+
+-   Hitting a wall causes you to backflip.
+
+ |
+| 
+
+**Karita Divebomb** (☆☆☆)
+
+**Combat Mantra**
+
+_Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap._
+
+ | 
+
+## Karita Divebomb (☆☆☆)
+
+  
+**Combat Mantra**  
+_Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+20 Light Weapon, [Jus Karita](Jus_Karita.md)
+
+ |
+| 
+
+**Effect:** _User jumps into the air and slams down_
+
+-   Windup is **HEAVILY** reduced upon being used directly after Karita Leap
 
  |
 
 ### _Medium Weapon Mantras_
 
-| **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & info** |
-| --- | --- | --- | --- | --- |
 | 
- | Master's Flourish
+**Name**
 
-(☆☆☆)
+ | 
 
- | _A powerful slash that chips through block and slashes through armor._ | 45 Ether | 
+**Ether Cost**
 
--   **Requirements:** _**30 Medium Weapon,**_ _Combat Mantra_
-    -   A spinning double slice with your sword.
-    -   Deals Chip Damage.
-    -   Deals knock back
-    -   Can be modified with a Glass/Magnifying stone to make it bigger
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Master's Flourish** (☆☆☆)
+
+**Combat Mantra**
+
+_A powerful slash that chips through block and slashes through armor._
+
+ | 
+
+## Master's Flourish (☆☆☆)
+
+  
+**Combat Mantra**  
+_A powerful slash that chips through block and slashes through armor._
 
  |
 | 
 
- | Prominence Draw
+45 Ether
 
-(☆☆☆)
+ | 
 
- | _Close the distance and deliver a fast slash._ | 65 Ether | 
+\[missing, add\]
 
--   **Requirements:** **50 Medium Weapon.** _Combat Mantra_
--   If in range, locks on to the closest target/player/humanoid enemy
--   Dash forward and do a large AOE slice with your sword.
--   Allows for move stacking an M1 strike which 100% guarantees the mantra or M1 hit.
+ | 
+
+30 Medium Weapon
+
+ |
+| 
+
+**Effect:** _User performs a spinning double slice with their sword._
+
+-   Deals Chip Damage.
+-   Deals knockback.
+-   Can be modified with a Glass/Magnifying stone to make it bigger
+
+ |
+| 
+
+**Prominence Draw** (☆☆☆)
+
+**Combat Mantra**
+
+_Close the distance and deliver a fast slash._
+
+ | 
+
+## Prominence Draw (☆☆☆)
+
+  
+**Combat Mantra**  
+_Close the distance and deliver a fast slash._
+
+ |
+| 
+
+65 Ether
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+50 Medium Weapon
+
+ |
+| 
+
+**Effect:** _User locks onto all the closest targets that are in range then dashes forward and performing a large AoE slice._
+
+-   Allows for movestacking an M1 strike which 100% guarantees the mantra or M1 hit.
 -   Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.
 
  |
 | 
 
- | Flashdraw
+**Flashdraw Strike** (☆☆☆)
 
-Strike  
-(☆☆☆)
+**Combat Mantra**
 
- | _Switftly unsheathe your blade and deliver an upwards strike._ | 40 Ether | 
+_Switftly unsheathe your blade and deliver an upwards strike._
 
--   **Requirements:** _**60 Medium Weapon, 25 Agility**_ _Combat Mantra_
--   Send the caster up into the air on hit into an uppercut like state
+ | 
+
+## Flashdraw Strike (☆☆☆)
+
+  
+**Combat Mantra**  
+_Switftly unsheathe your blade and deliver an upwards strike._
 
  |
 | 
 
- | Twincleave
-
-(☆☆☆)
-
- | _Dart around the battlefield with devastating cleaves delivered in quick succession._ | 30
-
-Ether
+40 Ether
 
  | 
 
--   **Requirements: _50_** _**Medium Weapon**_
--   Unleashes 2 slashes, the first moving the user forward, the second launching the user backwards.
+\[missing, add\]
+
+ | 
+
+60 Medium Weapon, 25 Agility
+
+ |
+| 
+
+**Effect:** _User readies their blade before performing a swift strike that uppercuts any targets within range and the user into the air._
+
+ |
+| 
+
+**Twincleave** (☆☆☆)
+
+**Combat Mantra**
+
+_Dart around the battlefield with devastating cleaves delivered in quick succession._
+
+ | 
+
+## Twincleave (☆☆☆)
+
+  
+**Combat Mantra**  
+_Dart around the battlefield with devastating cleaves delivered in quick succession._
+
+ |
+| 
+
+30 Ether
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+50 Medium Weapon
+
+ |
+| 
+
+**Effect:** _User unleashes 2 slashes, the first moving them forward, the second launching them backwards._
+
 -   Can change the direction you launch backwards by turning your camera.
 
  |
 
 ### _Heavy Weapon Mantras_
 
-| **Media** | **Name** | **Card Description** | **Effect & info** |
-| --- | --- | --- | --- |
 | 
- | Pressure Blast
+**Name**
 
-(☆☆☆)
+ | 
 
- | _Unleash a powerful pressure blast from the weight of your weapon._ | 
+**Ether Cost**
 
--   **Requirements:** _**30 Heavy Weapon,**_ _Combat Mantra_
-    -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
-    -   Dazes opponents on hit.
-    -   Ragdolls and lightly flings opponents away
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Pressure Blast** (☆☆☆)
+
+**Combat Mantra**
+
+_Unleash a powerful pressure blast from the weight of your weapon._
+
+ | 
+
+## Pressure Blast (☆☆☆)
+
+  
+**Combat Mantra**  
+_Unleash a powerful pressure blast from the weight of your weapon._
 
  |
 | 
 
- | Punishment
+\[missing, add\]
 
-(☆☆☆)
+ | 
 
- | _Absorb damage then return fury upon your foes._ | 
+\[missing, add\]
 
--   **Requirements:** _**50 Heavy Weapon,**_ _Combat Mantra_
-    -   Upon activation, a white circle will appear on the torso, if hit during the circle's animation, it'll turn red. Then proceed to go on a short cooldown. If not activated in time the effect will fade away.
-    -   After the cooldown of punishment, activating it again will proceed to do a big AOE swing similar to master's flourish, that affects everyone nearby.
-    -   Deals damage based off damage absorbed, parryable.
+ | 
+
+30 Heavy Weapon
 
  |
 | 
 
- | Onslaught
+**Effect:** _User performs a heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback._
 
-(☆☆☆)
+-   Dazes opponents on hit.
+-   Ragdolls and lightly flings opponents away
 
- | _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._ | **Requirements:** _**50 Heavy Weapon,**_ _Combat Mantra_
+ |
+| 
 
--   When activated character does an initial swing with a second long windup, then kicks enemy into air and kicks them away.
+**Punishment** (☆☆☆)
+
+**Combat Mantra**
+
+_Absorb damage then return fury upon your foes._
+
+ | 
+
+## Punishment (☆☆☆)
+
+  
+**Combat Mantra**  
+_Absorb damage then return fury upon your foes._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+50 Heavy Weapon
+
+ |
+| 
+
+**Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
+
+-   After the cooldown of punishment, activating it again will proceed to do a big AOE swing similar to master's flourish, that affects everyone nearby.
+-   Deals damage based off damage absorbed, parryable.
+
+ |
+| 
+
+**Onslaught** (☆☆☆)
+
+**Combat Mantra**
+
+_Reel back and swing your weapon, unleashing an onslaught of blows if it hits._
+
+ | 
+
+## Onslaught (☆☆☆)
+
+  
+**Combat Mantra**  
+_Reel back and swing your weapon, unleashing an onslaught of blows if it hits._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+50 Heavy Weapon
+
+ |
+| 
+
+**Effect:** _User does an initial swing with a second long windup, then kicks the enemy into the air, followed by kicking them away._
+
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
 -   Short Range
@@ -646,9 +1745,11 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6&t=379s) at the 6:20 mark on YouTube.
 -   Summoning Cauldron used to be one of the most powerful mantras out there, being able to proc bulldozer for free if you movestacked it with flourish.
 -   As of the 17/02/2024 Update, **Exhaustion Strike**, can no longer guardbreak monsters or players by transferring posture.
+-   Taced Drop Kick used to require 20 strength, but was shadow changed to require 5 strength.
 -   You can obtain other Weapon Mantras as long as you have 30 investment points in them, including Jus Karita mantras.
     -   This used to be 8
--   Rapid Punches and Ceaseless Slashes are the only Attunement-less mantras to be starred, being 1 and 3 stars respectively.
+-   Ceaseless Slashes is the only Attunement-less mantras to be starred, being 3 stars.
+    -   Rapid Punches used to be 1 star, but was changed to 0.
 -   "Strong Left" may have been inspired by [Franky's Strong Right from one piece](https://onepiece.fandom.com/wiki/Franky/Abilities_and_Powers#BF-36/Cyborg_Tactics).
     -   Strong Left used to be notorious for having a large backwards hitbox that was bigger than the actual forwards hitbox, leading to clips such as turning around to make a strong left hit.
 -   Rapid Slashes is Vergil's move from Devil May Cry series.

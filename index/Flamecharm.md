@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 135322
+revid: 135441
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -183,7 +183,7 @@ Fire
  |
 | 
 
-**Effect:** User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
+**Effect:** User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle, attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
 
 -   Deals 40 (6.7 \* 6) DMG.
 -   Inflcits Burn.
@@ -312,7 +312,7 @@ N/A
 -   Blinds nearby targets for 1.5 seconds.
 -   Deals 1 damage.
 -   Will proc gems such as Wayward Gem.
--   Can be upgraded by the [Concussive Flash](Talents.md#duelist-flame) Talent, causing all blinded enemies to be dazed.
+-   Can be upgraded by the **[Concussive Flash](Talents.md#duelist-flame)** Talent, causing all blinded enemies to be dazed.
 -   Can be modified with Aeon/Eternal Logstones to blind for longer.
 
  |

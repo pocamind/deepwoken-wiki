@@ -1,6 +1,6 @@
 ---
 title: Trig
-revid: 131758
+revid: 135374
 source: https://deepwoken.fandom.com/wiki/Trig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, Quests, Summer Company, NPCs located in the Eastern Luminant]
@@ -21,6 +21,8 @@ categories: [Gremor NPCs, NPCs, Quests, Summer Company, NPCs located in the East
 ## Description
 
 **Trig** is a [Gremor](Gremor.md) that wears a the [Summer Company Uniform](Summer_Company_Uniform.md). He gives you a quest for gun Talents.
+
+## Location
 
 Trig is located in [Summer Isle](Summer_Isle.md), at the entrance of the Guildhall/Inn. His quest sends you to find [Asius](Asius.md), a merchant who hasn't been paying his dues to the Summer Company. More information can be found about the quest in the [Summer Isle](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) page.
 

@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 130994
+revid: 135420
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents, Etrea, NPCs located in the Etrean Luminant]
@@ -25,7 +25,7 @@ You can get the [Spell Shout](Valikor.md) Talent by talking to him.
 
 If you wish to turn it off, go to settings in order to disable Spell Shouting.
 
-Keep in mind that spells can only be named for up to 23 symbols and shouldn't have roblox chat restricted content. In addition in certain cases the spell shout will use the manthra's default name instead of the edited one.
+Keep in mind that spells can only be named for up to 23 symbols and shouldn't have roblox chat restricted content. In addition in certain cases the spell shout will use the Mantra's default name instead of the edited one.
 
 ## Dialogue
 

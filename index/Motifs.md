@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 134424
+revid: 135421
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -145,10 +145,8 @@ This just means that your **Motifed critical will deal less damage than the weap
 
 ## Trivia
 
--   Banking or [passing down](Hippocampal_Pool.md) a weapon with a Motif completely voids the Motif.
-    -   Motifs themselves cannot be banked.
--   Weapons with a Motif equipped can be dropped.
-    -   However, Motifs themselves cannot be dropped.
+-   Motifs themselves cannot be banked nor dropped.
+    -   However, weapons with a Motif equipped can be both banked and dropped.
 -   If you unequip a weapon that has a Motif on it and then leave the game, the Motif will be voided when you rejoin.
 -   Motifs can be applied to the '22 [Hallowtide](Hallowtide.md) weapons.
 -   You can swap Motifs during combat to change up your critical for mixups.

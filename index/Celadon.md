@@ -1,6 +1,6 @@
 ---
 title: Celadon
-revid: 132284
+revid: 135373
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Oaths]
@@ -21,6 +21,8 @@ categories: [Adret NPCs, NPCs, Oaths]
 ## Description
 
 **Celadon** is a Boulder [Adret](Adret.md) that wears the [Verdant Sniper](Verdant_Sniper.md) outfit. He is one of the disciples required for the Oathless Quest. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
+
+## Location
 
 Celadon is located in [Summer Isle](Summer_Isle.md). Inside the Guildhall/Inn, go up the stairs to the second floor and look to your right, and you will meet Celadon.
 

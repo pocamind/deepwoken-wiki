@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 132344
+revid: 135438
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -211,10 +211,11 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _I wish to share my blood with the world. **(Scarlet Donor)** (Blood Bank, Donation Drive, Sharing is Caring)_
 -   _I have sewn insidious poison within my enemy's blood. **(Septicemia)** (Hemolysis, Hemolytic Transfusion, Juicy Snack, Tainted Ground, Vasculitis, Can give: Gruesome Harvest) **(Note; Cannot give Panacea)**_
 -   _I use my blood's plasma to better defend myself. **(Transitory Vitality)** (Cyclical Exsanguination, Embolism, Hypovolemic Focus) **(Note; Cannot give Sow and Mend - needed for this tree to appear)**_
--   _My cure is most effective. **(Quack Doctor)** (Blood Bag, Just a Taste, Open Wound) **(Not; Cannot give Blood Transfusion)**_
+-   _My cure is most effective. **(Quack Doctor)** (Blood Bag, Just a Taste, Open Wound) **(Note; Cannot give Blood Transfusion)**_
 
 ### Dual Attunement
 
+-   _The elements crave the blood of others. **(Bloodsong)**_
 -   _I seek the qualities of Cold Phantom. **(Cold Phantom)**_
 -   _I seek the qualities of Cosmic Wind. **(Cosmic Wind)**_
 -   _I seek the qualities of FlashFreeze. **(Flashfreeze)**_
@@ -234,37 +235,60 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   I seek Expert level Mantras of any kind. (★★☆)
 -   I seek Master level Mantras of any kind. (★★★)
 
--   I seek Physical Mantras (☆☆☆) -> (★★★)
+-   I seek Strength Mantras
+-   I seek Fortitude Mantras
+-   I seek Agility Mantras
+-   I seek Intelligence Mantras
+-   I seek Willpower Mantras
+-   I seek Charisma Mantras
 
+-   I seek Light Weapon Mantras
+-   I seek Medium Weapon Mantras
+-   I seek Heavy Weapon Mantras
+
+-   I seek Hybrid Mantras (☆☆☆) -> (★★★) _**(Note; can only give hybrid Attunement mantras)**_
+
+-   I seek Blood Mantras:
+-   I seek Initiate level Blood Mantras (☆☆☆)
+-   I seek Adept level Blood Mantras. (★☆☆)
+-   I seek Expert level Blood Mantras. ( ★★☆)
+-   I seek Master level Blood Mantras. (★★★)
+
+-   I seek Fire Mantras:
 -   I seek Initiate level Fire Mantras (☆☆☆)
 -   I seek Adept level Fire Mantras. (★☆☆)
 -   I seek Expert level Fire Mantras. ( ★★☆)
 -   I seek Master level Fire Mantras. (★★★)
 
+-   I seek Ice Mantras:
 -   I seek Initiate level Ice Mantras (☆☆☆)
 -   I seek Adept level Ice Mantras. (★☆☆)
 -   I seek Expert level Ice Mantras. ( ★★☆)
 -   I seek Master level Ice Mantras. (★★★)
 
+-   I seek Wind Mantras:
 -   I seek Initiate level Wind Mantras (☆☆☆)
 -   I seek Adept level Wind Mantras. (★☆☆)
 -   I seek Expert level Wind Mantras. ( ★★☆)
 -   I seek Master level Wind Mantras. (★★★)
 
--   I seek Initiate level Lightning Mantras (☆☆☆)
--   I seek Adept level Lightning Mantras. (★☆☆)
--   I seek Expert level Lightning Mantras. ( ★★☆)
--   I seek Master level Lightning Mantras. (★★★)
+-   I seek Metal Mantras:
+-   I seek Initiate Metal Mantras (☆☆☆)
+-   I seek Adept level Metal Mantras. (★☆☆)
+-   I seek Expert level Metal Mantras. ( ★★☆)
+-   I seek Master level Metal Mantras. (★★★)
 
+-   I seek Shadow Mantras:
 -   I seek Initiate level Shadow Mantras (☆☆☆)
 -   I seek Adept level Shadow Mantras. (★☆☆)
 -   I seek Expert level Shadow Mantras. ( ★★☆)
 -   I seek Master level Shadow Mantras. (★★★)
 
--   I seek Initiate Metal Mantras (☆☆☆)
--   I seek Adept level Metal Mantras. (★☆☆)
--   I seek Expert level Metal Mantras. ( ★★☆)
--   I seek Master level Metal Mantras. (★★★)
+-   I seek Lightning Mantras:
+-   I seek Initiate level Lightning Mantras (☆☆☆)
+-   I seek Adept level Lightning Mantras. (★☆☆)
+-   I seek Expert level Lightning Mantras. ( ★★☆)
+-   I seek Master level Lightning Mantras. (★★★)
 
 ## Locations
 

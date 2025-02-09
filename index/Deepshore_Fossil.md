@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 131211
+revid: 135412
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Floor 1, Layer 2]
@@ -18,7 +18,7 @@ categories: [Items, Floor 1, Layer 2]
 
 ## Description
 
-The Deepshore Fossil is an item that is obtained from [Layer 2](Second_Layer.md). It is not droppable on death or from the inventory. It is a biomechanical organism used to create an [Enchant Stone](Enchant_Stone.md) of your choice (except [Astral](Enchantments.md)). It can only be used once.
+The Deepshore Fossil is an item that is obtained from [Layer 2](Second_Layer.md). It is not droppable on death or from the inventory. It is a biomechanical organism used to create an [Enchant Stone](Enchant_Stone.md) of your choice (except [Astral](Enchantments.md) and [Curse Of Rhaemen's Ember](Enchantments.md)). It can only be used once.
 
 ## Obtainment
 

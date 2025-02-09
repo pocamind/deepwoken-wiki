@@ -1,6 +1,6 @@
 ---
 title: Jarvis
-revid: 121197
+revid: 135384
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -15,7 +15,7 @@ categories: [NPCs, Mechanics]
 
 ## Description
 
-Jarvis is an NPC located in the basement of [Summer Isle](Summer_Isle.md)'s castle.
+Jarvis is an NPC located in [The Furnace](The_Furnace.md).
 
 His main use is to [smelt](Transmogrification.md) two pieces of equipment into one; the first keeping its attributes, the second being its overall appearance for.
 
