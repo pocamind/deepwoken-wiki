@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 134110
+revid: 135351
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -42,7 +42,7 @@ Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Ca
 
 ### Overheal
 
-Gain Temporary Health which decays overtime. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality). Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. Signified by a white bar on your health bar.
+Gain Temporary Health which decays overtime. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), aswell as the Vampirism enchant. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. Signified by a white bar on your health bar.
 
 ### Fight
 
@@ -50,7 +50,7 @@ Gain a 1.5x damage boost. Applied after given the [Vow of Mastery Command: Fight
 
 ### Live
 
-Restore your health to maximum and get up if you are unconscious. Applied by the [Vow of Mastery Command: Live](Vow_of_Mastery.md). Signified by a large dark blue aura around your character.
+Restore your health to maximum and get up if you are unconscious or below 40%. Applied by the [Vow of Mastery Command: Live](Vow_of_Mastery.md). Signified by a large dark blue aura around your character.
 
 ### Run
 
@@ -90,7 +90,7 @@ Gain a 20% defense boost to all sources. Applied after knocking someone with the
 
 ### Berserking Rage
 
-At the cost of draining all of your armor, your M1 attacks bypass your opponent's armor. Additionally, your Critical attacks gain 10% more PEN. Deactivating the tool will replenish your armor and Natural Armor back to their original values. Applied with the Talent [Berserk](Talents.md#berserker). Signified by your hair and eyes turning red and you gaining a red eye trail.
+At the cost of draining all of your armor, your M1 and Critical attacks bypass your opponent's armor. Deactivating the tool will replenish your armor and Natural Armor back to their original values. Applied with the Talent [Berserk](Talents.md#berserker). Signified by your hair and eyes turning red and you gaining a red eye trail.
 
 ### Overcharm
 

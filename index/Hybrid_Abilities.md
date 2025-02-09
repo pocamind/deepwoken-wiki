@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 134473
+revid: 135330
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -16,32 +16,108 @@ _**FOREWORD**: **A table visualizing the requirements of every hybrid ability ca
 
 ## Mantras
 
-| **Media** | **Details** |
-| --- | --- |
-|  |
-| **Name**: Flashfire Sweep (★★★)  
-**Combat Mantra**, 50 Flamecharm, 50 Thundercall |
-| **Description**: _Sweep with flames and lightning before following into a devastating_
-uppercut.
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
 
  |
-| **Ether Cost**: 30 Ether |
-| **Damage Type**: Lightning (Leg Sweep)  
-Flame + Blunt (Uppercut) |
-| **Effect**: User leg sweeps their opponent and follows up with an uppercut.
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Flashfire Sweep** (★★★)
+
+**Combat Mantra**
+
+_Sweep with flames and lightning before following into a devastating_ uppercut.
+
+ | 
+
+## Flashfire Sweep (★★★)
+
+  
+**Combat Mantra**  
+_Sweep with flames and lightning before following into a devastating_ uppercut.
+
+ |
+| 
+
+30 Ether
+
+ | 
+
+Lightning (Leg Sweep), Flame + Blunt (Uppercut)
+
+ | 
+
+50 Flamecharm, 50 Thundercall
+
+ |
+| 
+
+**Effect:** User leg sweeps their opponent and follows up with an uppercut.
 
 -   Deals moderate damage.
 -   Can apply both Shock and Burning.
 -   Compatible with Surge Path, Eruption Path, Wraith Path, and Azure Flames.
 
  |
-|  |
-| **Name**: Iron Tether (★★☆)  
-**Combat Mantra**, 30 Ironsing, 30 Thundercall |
-| **Description**: _Summon two cubes tethered by lightning, setting a trap for your enemies._ |
-| **Ether Cost**: 60 Ether |
-| **Damage Type**: Lightning + Metal |
-| **Effect**: User creates a tripwire using their Thundercall and Ironsing.
+| 
+
+**Iron Tether** (★★☆)
+
+**Combat Mantra**
+
+_Summon two cubes tethered by lightning, setting a trap for your enemies._
+
+ | 
+
+## Iron Tether (★★☆)
+
+  
+**Combat Mantra**  
+_Summon two cubes tethered by lightning, setting a trap for your enemies._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Lightning + Metal
+
+ | 
+
+30 Ironsing, 30 Thundercall
+
+ |
+| 
+
+**Effect:** User creates a tripwire using their Thundercall and Ironsing.
 
 -   Deals light damage.
 -   Can apply Electrified.
@@ -51,13 +127,39 @@ Flame + Blunt (Uppercut) |
 -   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md) allowing it to move.
 
  |
-|  |
-| **Name**: Permafrost Prison (★★☆)  
-**Combat Mantra**, 30 Frostdraw, 30 Shadowcast |
-| **Description**: _Imprison your enemies with shadows and impale them with pillars._ |
-| **Ether Cost**: 80 Ether |
-| **Damage Type**: Ice + Shadow |
-| **Effect**: Create a black area around your character. Anyone who stands in this AoE will be impaled by pillars from above.
+| 
+
+**Permafrost Prison** (★★☆)
+
+**Combat Mantra**
+
+_Imprison your enemies with shadows and impale them with pillars._
+
+ | 
+
+## Permafrost Prison (★★☆)
+
+  
+**Combat Mantra**  
+_Imprison your enemies with shadows and impale them with pillars._
+
+ |
+| 
+
+80 Ether
+
+ | 
+
+Ice + Shadow
+
+ | 
+
+30 Frostdraw, 30 Shadowcast
+
+ |
+| 
+
+**Effect:** Create a black area around your character. Anyone who stands in this AoE will be impaled by pillars from above.
 
 -   Deals moderate damage.
 -   Inflicts Chill.
@@ -65,13 +167,39 @@ Flame + Blunt (Uppercut) |
 -   Can be modified with [Magnet Spark](Mantra_Modifiers.md) allowing it to follow the user.
 
  |
-|  |
-| **Name**: Tempest Blitz (★★☆)  
-**Mobility Mantra**, 30 Galebreathe, 30 Thundercall |
-| **Description**: _Sprint forward on the winds themselves and deliver a devastating thunder kick._ |
-| **Ether Cost**: 60 Ether |
-| **Damage Type**: Wind + Lightning + Slash |
-| **Effect**: Backstep and hop on the air, quickly closing the distance. When you reach your opponent, perform a powerful radial attack.
+| 
+
+**Tempest Blitz** (★★☆)
+
+**Mobility Mantra**
+
+_Sprint forward on the winds themselves and deliver a devastating thunder kick._
+
+ | 
+
+## Tempest Blitz (★★☆)
+
+  
+**Mobility Mantra**  
+_Sprint forward on the winds themselves and deliver a devastating thunder kick._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Wind + Lightning + Slash
+
+ | 
+
+30 Galebreathe, 30 Thundercall
+
+ |
+| 
+
+**Effect:** Backstep and hop on the air, quickly closing the distance. When you reach your opponent, perform a powerful radial attack.
 
 -   Deals light damage.
 -   Can be feinted to end early.

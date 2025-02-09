@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 135253
+revid: 135349
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -99,7 +99,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
-  times they explode, dealing an additional 16-20 damage to them and others around beside the user. The damage from explosions is not affected by damage modifiers and bypasses armor. The explosion doesn't knock them back. All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.<br>
+  times they explode, dealing an additional 17.5 damage to them and others around beside the user. The damage from explosions is not affected by damage modifiers and bypasses armor. The explosion doesn't knock them back. All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.<br>
   <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon turns orange, depending on material. Metal and Blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
@@ -317,7 +317,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Rhaemens ember.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of Rhaemen's Ember<div></div></font></center></td>
   <td><div><p>Similar to <font>Detonation</font> and <font>Blazing</font>,<br>
-  After hitting a target (Rapier/Guns: 3, LHT: 6, MED: 3, HVY: 3)times they explode,<br>
+  After hitting a target (Rapier/Guns: 3, LHT: 6, MED: 4, HVY: 3)times they explode,<br>
   Apply <font>Flames of Life</font> and Temporary Health to them and others around beside the user.<br>
   The damage of explosion and amount of Temporary Health are randomized,<br>
   But the minimum Damage is always more than <font>Detonation</font>'s explosion damage.<br>

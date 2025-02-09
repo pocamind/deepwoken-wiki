@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 133048
+revid: 135354
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -84,4 +84,4 @@ Dodgeable:◯
 -   It was said by Arch\_Mage that there was supposed to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
 -   Their cry is a heavily distorted wolf howl.
 -   Their item drop, the Bounder Claw, can be taken out of Layer 2 without having to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (either by using the Light Hook or Ignition Deepdriller).
--   On 12/27/24, a rare bug was discovered that resulted in the icon for the Bounder when it killed someone being the texture of its inner cheek/gums, which resembled an inappropriate image. It was deemed _The Boundingaling Incident_.
+-   On 12/27/24, it was discovered that the icon for the Bounder when it killed someone was the texture of its inner cheek/gums, which resembled an inappropriate image. It was deemed _The Boundingaling Incident_.

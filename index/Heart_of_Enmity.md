@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 135161
+revid: 135360
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -172,7 +172,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 
 ###### Offense/General
 
--   It is recommended to fight the Heart of Enmity with only 5 people, as each extra player adds another 50 thousand health to the boss, and makes it difficult to not friendly fire.
+-   It is recommended to fight the Heart of Enmity with only 5 people, as each extra player adds another 40 thousand health to the boss, and makes it difficult to not friendly fire.
 -   Fight the Heart of Enmity in teams of one or two, taking turns to engage the boss. Rest and switch out with teammates as needed to manage the battle effectively.
 -   Try not to hit allies with your offensive bells or high damage moves.
 -   Wearing the [Grand Fisher Plate](Grand_Fisher_Plate.md) or [ignition gauntlets](Ignition_Gauntlets.md) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit is recommended, because it allows you to parry all of his non-parryable attacks.

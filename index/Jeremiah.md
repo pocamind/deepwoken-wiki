@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 130897
+revid: 135337
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the First Layer]
@@ -23,9 +23,9 @@ Jeremiah is an Etrean that can be found in [The City of the Drowned](The_City_of
 -   [Deepwoken Hood](Deepwoken_Hood.md)
 -   [Star Duster](Star_Duster.md)
 -   [Akira's Ring](<Akira's_Ring.md>) **(20%)**
--   [Maestro's Ring](Equipment.md#ring) **(20%)**
--   [Dawnfist's Ring](Equipment.md#ring) **(20%)**
--   [Prophet's Ring](Equipment.md#ring) **(20%)**
+-   [Maestro's Ring](<Maestro's_Ring.md>) **(20%)**
+-   [Dawnfist's Ring](<Dawnfist's_Ring.md>) **(20%)**
+-   [Prophet's Ring](<Prophet's_Ring.md>) **(20%)**
 
 ## Dialogue
 

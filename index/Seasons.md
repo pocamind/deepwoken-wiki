@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 128609
+revid: 135355
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 ## Description
 
-There are 4 seasons in Deepwoken: Spring, Summer, Autumn and Winter. Each season lasts 1 real life day and transition between one another at 12am GMT+0 (Midnight, 7PM EST). Note that the timezone used to determine seasons is based off of the timezone of the server you're in.
+There are 4 seasons in Deepwoken that change in order from left to right: Spring, Summer, Autumn and Winter. Each season lasts 1 real life day and transition between one another at 12am GMT+0 (Midnight, 7PM EST). Note that the timezone used to determine seasons is based off of the timezone of the server you're in.
 
 The difference between seasons are the visuals and interactions relating to items that grow in the environment. Such examples are Wheat not growing in the Winter, certain fruits unable to grow from trees, and certain mobs spawning, such as the [Blizzard Knights](Stone_Knight.md) at Minityrsa only spawning during the winter (if it is not winter the [Aelita](Aelita.md) event will spawn), or [The Ferryman](The_Ferryman.md) dropping different season exclusive items.
 

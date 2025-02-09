@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 134255
+revid: 135357
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -229,7 +229,7 @@ _**(Added back recently, though may be removed in the future.)**_
 
 `Forge-` Blood _**(Blood Orb)**_
 
-`Conjure-` Blood _**(Crucification)**_
+`Conjure-` Blood _**(Crucification, Scarlet Cyclone)**_
 
 Add more if you find them.
 

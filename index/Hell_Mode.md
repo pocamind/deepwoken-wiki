@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 132350
+revid: 135329
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]
@@ -75,3 +75,4 @@ Although Hell Mode is scary, the rewards are often worth the trouble due to both
 -   The initial screen shake and red tint of Hell Mode can be seen in the [Fragments of Self](Fragments_of_Self.md).
 -   Some servers can rarely bug and retain Hell Mode features, even after the original 20 minutes is up. **Death in this is restorable.**
 -   In any private server, hell mode can be activated by just one player.
+-   The hell bell recently got a new model.

@@ -1,6 +1,6 @@
 ---
 title: Asius
-revid: 103738
+revid: 135363
 source: https://deepwoken.fandom.com/wiki/Asius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -21,9 +21,12 @@ categories: [NPCs]
 
 **Asius** is an [Adret](Adret.md) that wears a the [Experienced Adventurer](Experienced_Adventurer.md) outfit. He is crucial for the [Trig](Trig.md) gun quest.
 
-Asius is located in [Summer Isle](Summer_Isle.md). He can be found behind the Inn if you follow the path leading away from the Inn, in an alcove facing the hive.
-
+  
 He is a merchant who hasn't been paying his dues to the Summer Company. He can give you More information can be found about the quest in the [Summer Isle](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) page. Note that you can still come back to Asius to get his papers after you picked "I'll see what I can do."
+
+## Location
+
+Asius is located in [Summer Isle](Summer_Isle.md). He can be found behind the Inn if you follow the path leading away from the Inn, in an alcove facing the hive.
 
 ## Dialogue
 

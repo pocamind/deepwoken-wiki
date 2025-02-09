@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 135200
+revid: 135344
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals]
@@ -39,6 +39,6 @@ Do a short wind-up before bursting out a flurry of EXACTLY 20 slashes.
 ## Trivia
 
 -   Despite the name, it's not actually made from a Canor's fang.
--   Instead of this, it's recommended to use a [Whaling Knife](Whaling_Knife.md) or a [Gilded Knife.](Gilded_Knife.md)
+-   Instead of this, it's recommended to use a [Whaling Knife](Whaling_Knife.md) or a [Gilded Knife.](Gilded_Knife.md) (Unless you want the crit)
 -   Meeting the requirement of LHT, damage is (14.3)
 -   At max LHT, the damage is (19.3)
