@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 132986
+revid: 135521
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -44,7 +44,7 @@ Each slot will call a small, or large fee depending on how many slots you curren
 -   18-60 ( )
 -   61-100 ( ). This comes up to a total of 633,500 notes to get all your bank slots.
 
-To put an item in your safe deposit box, you just need to drag and drop the item you want to deposit into the box. If your box is full and you want to add an item to a stack already present—assuming that stack isn't already at its limit—you'll first need to take out an item that occupies a slot (i.e. equipment) out of it before placing the desired item inside.
+To put an item in your safe deposit box, you must open your inventory and drag and drop the item you want to deposit into the box. If your box is full and you want to add an item to a stack already present—assuming that stack isn't already at its limit—you'll first need to take out an item that occupies a slot (i.e. equipment) out of it before placing the desired item inside.
 
 If you need help figuring out how to put an item in a safe deposit box, or just want to see an example of someone depositing, [here is a great video](https://youtu.be/2m4qD3xfOAM).
 
@@ -68,7 +68,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   [Hallowtide Mask](Hallowtide_Mask.md)
 -   [Attunement potions](Attunement_Potions.md) / [Lotuses](Ingredients.md)
 -   Poser's Ring
--   Manor's Key
+-   Manor Key
 -   Orlandeau's Pity Emerald
 -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)
 

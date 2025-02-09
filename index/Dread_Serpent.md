@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 134827
+revid: 135516
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -31,7 +31,7 @@ _For a visual guide consider watching [this video](https://youtu.be/zcUmCTAAjNU)
 | Name | Description | Media |
 | --- | --- | --- |
 | Dread Breath  
-(★★★) | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boats. This attack deals enough damage to knock a **POWER 20** player in **UNDER TWO SECONDS** consistent fire. If hit while knocked, it causes **extreme** amounts of blood loss.  
+(★★★) | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boats. This attack deals enough damage to knock a **POWER 20** player in **UNDER TWO SECONDS** if consistently landed. If hit while knocked, it causes **extreme** amounts of blood loss.  
 Parryable:✗  
 Blockable:?  
 Dodgeable:?

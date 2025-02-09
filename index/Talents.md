@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 135406
+revid: 135558
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -159,7 +159,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
     -   Overflowing Dam doesn't require you to wait for 2s upon reaching 100% ether to get the damage buff despite what the talent description says. The damage buff applies the moment you hit full ether.
-    -   The effect will be less Effective for those who wield [SilentHeart](Oath%253A_Silentheart.md).
+    -   Damage buff is lowered to 5% for [Silenthearts](Oath%253A_Silentheart.md).
     -   Prerequisite: 40 Intelligence
     -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
 
@@ -1389,6 +1389,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Fortitude, 100 Willpower
 
 -   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when knocked. 60s CD.
+    -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.
     -   Prerequisites: 85 Fortitude
 
 ### Hunter
@@ -1996,7 +1997,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Nimble Blade."**_
 
 -   Fast Blade \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
-    -   Despite claiming it extends the speed boost you get off parrying, it really just give you a speed boost after parrying. Normally parrying without this Talent does not give you a speed boost.
+    -   ~Despite claiming it extends the speed boost you get off parrying, it really just give you a speed boost after parrying. Normally parrying without this Talent does not give you a speed boost.~ Parrying without this talent DOES give a speed boost but it's barely noticeable and lasts for the duration of the parry. (TESTED)
     -   Prerequisite: 20 Agility
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
@@ -2304,7 +2305,7 @@ _**"My cure is most effective."**_
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
-    -   Deals 10 Ironsing damage per blade.
+    -   Deals 11.5 Ironsing damage per blade.
     -   Doesn't scale on Ironsing Investment
     -   Artisan's blade have windup of 1.2s
     -   Hits from Artisan's Blades do not drain armor from enemy.
@@ -2322,7 +2323,7 @@ _**"My cure is most effective."**_
     -   Prerequisites: Gilded Path: Scrapsinger, 50 Ironsing
 
 -   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
-    -   Increases Artisan's Blades damage from 10 to 15, additionally Artisan's Blades will apply 1 rod per each hit.
+    -   Increases Artisan's Blades damage from 11.5 to 16.7, additionally Artisan's Blades will apply 1 rod per each hit.
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.

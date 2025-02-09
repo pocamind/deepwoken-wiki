@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 135492
+revid: 135513
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -601,7 +601,7 @@ Slash
 
 **Combat Mantra**
 
-_An adrenaline rush of mobility._
+_\[missing, add\]_
 
  | 
 
@@ -609,7 +609,7 @@ _An adrenaline rush of mobility._
 
   
 **Combat Mantra**  
-_An adrenaline rush of mobility._
+_\[missing, add\]_
 
  |
 | 

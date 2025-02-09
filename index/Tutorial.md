@@ -1,6 +1,6 @@
 ---
 title: Tutorial
-revid: 125144
+revid: 135523
 source: https://deepwoken.fandom.com/wiki/Tutorial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guides]
@@ -17,7 +17,7 @@ The **Tutorial** is a feature in _Deepwoken_ that is meant for new players, teac
 
 ## Tutorial Progression
 
-To start the tutorial, the player must talk to The Captain, agree to 'get their memory jogged' and wipe their character. Only after creating their character will they be properly introduced to the tutorial.
+To start the tutorial, the player must talk to The Captain, agree to 'get their memory jogged' and wipe their character. Only after creating their character will they be properly introduced to the tutorial
 
 The player will wake up at the lower front of a departing pirate [ship](Ships_&_Sailing.md) known as [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>), bigger than an [Ironclad](Ships_&_Sailing.md). This is where the player gets to know the movement controls and interactions before jumping down to the cannon bay where they get to see Cap'n Orlandeau, the presumed captain of the ship. Speaking with Orlandeau, the player gets scolded for sleeping on the job and their lack of combat experience, which the captain proposes to sharpen up. The player will be instructed to light attack, critical attack, parry and block in the air before having to parry a slash by the captain, this is designed to teach the player [Combat Mechanics](Combat_Mechanics.md). Shortly after, the player will need to craft a Campfire Pit with sticks and make a fire. The player will then be given [Leather Gloves](Leather_Gloves.md) to learn about [Armor](Equipment.md). Both the captain and the player agree to moving to the next room.
 
@@ -31,6 +31,6 @@ Talking to Kelsius inside of the [Temple of the Blade's](Temple_of_the_Blade.md)
 
 -   Orlandeu used to give the player a [Vanguard Brace](Vanguard_Brace.md) instead of Leather Gloves, but during the October 11, 2024 update, this armor piece was given a Power requirement, briefly softlocking all players attempting to complete the Tutorial.
 -   Orlandeau's Emerald is worth 30 Notes.
--   By leaving during the tutorial you can redo it, which has a number of effects in it. The most notable one is Orlandeau's Emerald being renamed to "Orlandeau's Pity Emerald", it's description going from "The non-chaotic variety" to "Smart one, huh?" and being worth only 1 Notes, to avoid the player using this as an infinite money glitch (found randomly through experimenting). You will only be given "Orlandeau's Pity Emerald" once.
+-   By leaving during the tutorial you can redo it, which has a number of effects in it. The most notable one is Orlandeau's Emerald being renamed to "Orlandeau's Pity Emerald", it's description going from "The non-chaotic variety" to "Smart one, huh?" and being worth only 1 Notes, to avoid the player using this as an infinite money glitch (found randomly through experimenting). You will only be given "Orlandeau's Pity Emerald" once per character.
 -   You cannot sell the Dumbbell to the antiquarian as it would be a net profit of 2 notes.
 -   By blocking off the door to the Antiquarian's area, Orlandeau will not move, and instead stay below deck.

@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 134197
+revid: 135526
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -126,7 +126,7 @@ Exhaustive Loot Table
 
 ## Tips & Tricks
 
--   Has incredibly high resistance to cannons- it takes barely any damage, if any at all. It's far more effective to corner the Parasol with a group when it passes by land than it is to bombard it with your boat.
+-   ~Has incredibly high resistance to cannons- it takes barely any damage, if any at all.~ Latest update made parasol take more damage from cannons, making it the most effective cheese method for the boss(took me around 15 minutes to kill it with schooner). It's far more effective to corner the Parasol with a group when it passes by land than it is to bombard it with your boat.
 -   Best method to kill it is to shoot with cannons when you're far away and have someone get close with a high hp ship so you can attack.
 
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.

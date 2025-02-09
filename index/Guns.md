@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 132424
+revid: 135562
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
@@ -34,19 +34,23 @@ When using a singular gun you will gain an ammo counter resembling a revolver ch
 
 Note that if your 1H gun is unloaded, pressing your crit button will just do a light attack, meaning there is no crit for 1H unloaded guns.
 
+### Offhand Gun
+
+Using your gun as a side-weapon will **not** gain you the ammo counter, as it will no longer have to shoot bullets or reload. Pressing M2 will make you extend your arm and shoot, creating the usual blast you'd see in other guns with no bullet coming out. Using [Bullet Casings](Bullet_Casings.md) will not affect it. This attack **cannot** be used in your M1 combo like mantras and acts as a standalone hit. The Talent [Quick Draw](Talents.md) from the [Gunslinger](Talents.md) Talent tree will make such possible, although **you need to wait for the full endlag of your M1 and then use M2** otherwise the attack wont happen, which may cost you a hit during an intense fight.
+
+The blast **will** inherit [Enchant](Enchantments.md) effects such as Storm or Obfuscation, however the damage of the gun will be 80% of the equipped pistol's scaled damage, with it's original posture damage (which is exactly **1** for all pistols except Roscoe) and all other effects like chip from the [Alloyed Dawnshot](Dawnshot.md) or [Rosen's Roscoe](<Rosen's_Roscoe.md>).
+
+Furthermore, using a side gun with a non-light main weapon will increase the windup. Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%.
+
 #### Reloading
 
-The amount of bullets you can load into a gun depends on the type you are using. The Dragoon, Flintlock and Dawnshot can hold 4 bullets, and the Repeater and Silversix can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload Talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill Talent](Talents.md#outlaw) is active)
+The amount of bullets you can load into a gun depends on the type you are using. The [Dragoon](Dragoon.md), [Flintlock](Flintlock.md) and [Dawnshot](Dawnshot.md) can hold 4 bullets, and the [Repeater](Repeater.md) and [Silversix](Silversix.md) can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload Talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill Talent](Talents.md#outlaw) is active)
 
 ### Talents
 
 Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw)
 
 The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and it's alloyed variant, [Iron Requiem](Iron_Requiem.md) and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
-
-If you use a side gun without a main gun, your side gun damage is reduced by 20%.
-
-Furthermore, using a side gun with a non-light main weapon will increase the windup (time to aim and shoot the gun). Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%.
 
 The [Hip Shooter](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent can allow your side gun to fire a projectile bullet as long as your main weapon is a medium or heavy weapon.
 
@@ -78,7 +82,7 @@ Flintlock user using the guns critical attack
 
 **[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.33x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
 
-Note: All Flintlocks excluding the Rosen's Roscoe deal 1 posture damage, with the Rosen's Roscoe dealing 3.5 posture damage.
+**Note: All Flintlocks excluding the Rosen's Roscoe deal 1 posture damage, with the Rosen's Roscoe dealing 3.5 posture damage.**
 
 ## Rifles
 

@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 133058
+revid: 135524
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -34,4 +34,4 @@ The Cavalry Saber is a midgame weapon obtained from both [Depths](The_Depths.md)
 
 -   Meeting the requirement of MED, the damage is (24.2)
 -   At max MED, the damage is (28.9)
--   It is near identical to the [Officer Saber](Officer_Saber.md).
+-   It is nearly identical to and interchangeable with the [Officer Saber](Officer_Saber.md).

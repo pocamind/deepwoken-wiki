@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 135402
+revid: 135525
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -34,8 +34,7 @@ The Oath is a result of the player conducting a **Reflection Ritual** at the Sky
 3.  Defeat Mind's Reflection (a 1:1 copy of yourself, including weapon, Talents and mantras) to obtain the Oath.
     1.  It will use all mantras you have, not just the ones you have equipped. It's best to get rid of unwanted mantras via [Deep Shrines](Deep_Shrines.md) if you're not ready.
     2.  It seems to not have the same mantra modifiers that you may have. For example: Frostdraw's Warden Blades can become bigger using stratus stones but the mirror will have the original size and possibly the original level (not tested).
-    3.  The mirror has 3 lives meaning you have to kill it multiple times to get the Oath and its progression. The indicator for each death will be it teleporting back to the middle whilst venting. It ragdolls onto the floor allowing you to execute it after you are done.
-    4.  If you manage to deduct a life, you **WON'T** heal off the kill and it will respawn. Lock in.
+    3.  The mirror has 3 lives meaning you have to kill it multiple times to get the Oath and its progression. Each life is spawned at a different statue.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/2MkMAHH03x4)._
 

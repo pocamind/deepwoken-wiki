@@ -1,11 +1,9 @@
 ---
 title: Bloodfouler
-revid: 135493
+revid: 135535
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons]
 ---
 
 # Bloodfouler
@@ -39,10 +37,13 @@ The weapon can be acquired by retrieving three tomes from the following:
 
 When all three have been retrieved, they can be placed on the case that is right next to Volu, thus putting the Bloodfouler into your hands.
 
+## Criticals
+
+For the **Standing Critical** of the Bloodfouler, the user move's forward in the direction they are facing doing a 360° sweep.
+
+While **running**, when performing the critical you will move forward at the same speed of when you were running.
+
 ## Trivia
 
 -   The sheathe depicts symbols of [The Ministry](The_Ministry.md), alongside an emblem resembling the symbol for [Notes](Notes.md), the [Moonseye](Moonseye.md), and another pattern.
-
-## Navigation
-
-[https://animebattlearenaaba.fandom.com/wiki/Sukuna](https://animebattlearenaaba.fandom.com/wiki/Sukuna)
+-   it is unknown whether or not the Poser's Ring works with this weapon (need testing)

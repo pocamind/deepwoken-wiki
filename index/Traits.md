@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 126373
+revid: 135520
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -33,7 +33,7 @@ Each trait can only be increased up to 6 points.
 -   Apply 2.5% **pen** to all [Weapon](Weapons.md) M1's and Critical Attacks per point.
 -   Maximum of 39% increase from **scaling.**
 -   **This also applies to EVERY weapon. Hero Blades, Crypt Blades, Light's Final Toll, everything.**
--   Be warned, as this only increases the scaling, not base damage, and as such, should only be used on **high** scaling weapons such as Hivelord's Hubris.
+-   Be warned, as this only increases the scaling, not base damage, and as such, should only be used on **high** scaling weapons such as the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
 
 ### Songchant
 

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 134442
+revid: 135555
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -24,7 +24,7 @@ Thundercall makes use of a highly unpredictable nature due to its speed and high
 
 ## Training
 
-Thundercall can be trained by using a combination of the [Self-Conducting Loop](https://deepwoken.fandom.com/wiki/Training_Items#Attunement_Training) and Thundercall [Mantras](Mantras.md).
+Thundercall can be trained by using a combination of the [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) and Thundercall [Mantras](Mantras.md).
 
 Along with all other elements, users can see their Mantras becoming stronger with training:
 
@@ -33,7 +33,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Thundercall level 30, players receive the _Expert Thundercaller_ Talent allowing the player to now get 2-star Thundercall mantras
 -   Finally, at Thundercall level 50, players receive the _Master Thundercaller_ Talent. This finally allows Thundercall users to unlock the last category, 3-star Mantras.
 
-The Attunement can be unlocked by using a [Sparkblood Potion](Attunement_Potions.md) obtained at [Summer Isle](Summer_Isle.md) from [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) on the second floor of the [castle](https://deepwoken.fandom.com/wiki/Summer_Isle#The_Castle) by using two [Spark Glands](Spark_Gland.md), and can upgrade spells for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
+The Attunement can be unlocked by using a [Sparkblood Potion](Attunement_Potions.md) obtained at [Summer Isle](Summer_Isle.md) from [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) on the second floor of the [Summer Isle castle](Summer_Isle.md#the-castle) by using two [Spark Glands](Spark_Gland.md), and can upgrade spells for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
 
 -   To upgrade a Thundercall Mantra from level 1 to level 2 costs.
 -   To upgrade a Thundercall Mantra from level 2 to level 3 costs.
@@ -44,15 +44,66 @@ The Attunement can be unlocked by using a [Sparkblood Potion](Attunement_Potions
 
 ### Combat Mantras
 
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
 | 
+**Name**
+
  | 
 
-Lightning Blade  
-(☆☆☆)
+**Ether Cost**
 
- | Arcing blades of electricity. | 50 Ether | Lightning + Slash | Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through target(s).
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Lightning Blade** (☆☆☆)
+
+_Arcing blades of electricity._
+
+ | 
+
+## Lightning Blade (☆☆☆)
+
+  
+_Arcing blades of electricity._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Lightning + Slash
+
+ | 
+
+1 Thundercall
+
+ |
+| 
+
+**Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
 
 -   Deals moderate damage.
 -   10 Second Cooldown.
@@ -64,12 +115,34 @@ Lightning Blade
  |
 | 
 
+**Jolt Grab** (☆☆☆)
+
+_An electrified chokehold._
+
  | 
 
-Jolt Grab  
-(☆☆☆)
+## Jolt Grab (☆☆☆)
 
- | An electrified chokehold. | 60 Ether | Lightning | Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user.
+  
+_An electrified chokehold._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+1 Thundercall
+
+ |
+| 
+
+**Effect:** _Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user._
 
 -   Deals 45 thunder damage.
 -   10 Second Cooldown.
@@ -82,27 +155,71 @@ Jolt Grab
  |
 | 
 
+**Lightning Beam** (☆☆☆)
+
+_Fire a beam of lightning._
+
  | 
 
-Lightning Beam  
-(☆☆☆)
+## Lightning Beam (☆☆☆)
 
- | Fire a beam of lightning. | 50 Ether | Lightning | Cast out a straight beam of lightning from where the character is facing.
+  
+_Fire a beam of lightning._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+1 Thundercall
+
+ |
+| 
+
+**Effect:** _Cast out a straight beam of lightning from where the character is facing._
 
 -   Can break objects.
 -   10 Second Cooldown.
--   Can grant an optional effect with the "**Shocking Finish**" Talent, in which **Lightning Beam** is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
+-   Can grant an optional effect with the "**Shocking Finish**" Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
     -   Appears after a second of casting.
 
  |
 | 
 
+**Electro Carve** (★☆☆)
+
+_Produce a highly potent field of electromagnetism, shocking all inside._
+
  | 
 
-Electro Carve  
-(★☆☆)
+## Electro Carve (★☆☆)
 
- | Produce a highly potent field of electromagnetism, shocking all inside. | 10 Ether | Lightning + Slash | Conjure a shocking orb at the end of weapon, dealing rapid damage.
+  
+_Produce a highly potent field of electromagnetism, shocking all inside._
+
+ |
+| 
+
+10 Ether
+
+ | 
+
+Lightning + Slash
+
+ | 
+
+20 Thundercall
+
+ |
+| 
+
+**Effect:** _Conjure a shocking orb from the end of your weapon, dealing rapid damage._
 
 -   Deals light damage; moderate if not parried.
 -   Projectile moves along where the character is facing.
@@ -116,14 +233,34 @@ Electro Carve
  |
 | 
 
+**Fleeting Sparks** (★☆☆)
+
+_Call forth motes of electricity that seek out your foes._
+
  | 
 
-Fleeting Sparks  
-(★☆☆)
-
- | Call forth motes of electricity that seek out your foes. | 60 Ether | Lightning + Slash | Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s).
+## Fleeting Sparks (★☆☆)
 
   
+_Call forth motes of electricity that seek out your foes._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Lightning + Slash
+
+ | 
+
+20 Thundercall
+
+ |
+| 
+
+**Effect:** _Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s)._
 
 -   Deals 45 thunder damage. (Probably 15 per spark)
 -   \[\] Second Cooldown.
@@ -134,14 +271,35 @@ Fleeting Sparks
  |
 | 
 
+**Lightning Impact** (★☆☆)
+
+_Slam those under you with a lightning empowered kick._
+
  | 
 
-Lightning Impact  
-(★☆☆)
+## Lightning Impact (★☆☆)
 
- | Slam those under you with a lightning empowered kick. | 80 Ether | Lightning | Leap into the air before slamming down into the ground, dealing AoE Lightning damage before ascending the user and target(s) hit into the air.
+  
+_Slam those under you with a lightning empowered kick._
 
--   Deals moderate damage.
+ |
+| 
+
+80 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+20 Thundercall
+
+ |
+| 
+
+**Effect:** _Leap into the air before slamming down into the ground, dealing moderate Lightning damage in an AoE before ascending the user and target(s) hit into the air._
+
 -   Can destroy surfaces and light flammable terrain such as patches of grass on fire.
 -   Can light the user and target(s) ablaze.
 -   Applies Knockdown.
@@ -155,12 +313,34 @@ Lightning Impact
  |
 | 
 
+**Lightning Clones** (★☆☆)
+
+_Replicated forms of yourself conjured from electricity._
+
  | 
 
-Lightning Clones  
-(★☆☆)
+## Lightning Clones (★☆☆)
 
- | Replicated forms of yourself conjured from electricity. | 60 Ether | Lightning | Perform a short wind-up before snapping fingers to summon a clone of lightning beside the user, the clone proceeds to attack a nearby target once before disappearing.
+  
+_Replicated forms of yourself conjured from electricity._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+20 Thundercall
+
+ |
+| 
+
+**Effect:** _Perform a short wind-up before snapping fingers to summon a clone of lightning beside the user, the clone proceeds to attack a nearby target once before disappearing._
 
 -   Deals light damage.
 -   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
@@ -174,14 +354,35 @@ Lightning Clones
  |
 | 
 
+**Lightning Strike** (★☆☆)
+
+_A strike of thunder at your desired location._
+
  | 
 
-Lightning Strike  
-(★☆☆)
+## Lightning Strike (★☆☆)
 
- | A strike of thunder at your desired location. | 50 Ether | Lightning | Perform a gesture before conjuring strikes of lightning at the cursor's location.
+  
+_A strike of thunder at your desired location._
 
--   Deals moderate damage.
+ |
+| 
+
+50 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+20 Thundercall
+
+ |
+| 
+
+**Effect:** _Perform a gesture before conjuring strikes of lightning at the cursor's location, dealing moderate damage._
+
 -   Applies Knockdown.
 -   10 Second Cooldown.
 -   Can be cancelled at any point by clicking.
@@ -195,12 +396,34 @@ Lightning Strike
  |
 | 
 
+**Thunder Kick** (★☆☆)
+
+_An unrelenting kick like a clap of thunder._
+
  | 
 
-Thunder Kick  
-(★☆☆)
+## Thunder Kick (★☆☆)
 
- | An unrelenting kick like a clap of thunder. | 60 Ether | Lightning + Blunt | Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any target(s) hit.
+  
+_An unrelenting kick like a clap of thunder._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Lightning + Blunt
+
+ | 
+
+20 Thundercall
+
+ |
+| 
+
+**Effect:** _Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any targets hit._
 
 -   Deals 50 thunder damage.
 -   Guard Breaks at Level 5
@@ -212,14 +435,35 @@ Thunder Kick
  |
 | 
 
+**Storm Blades** (★★☆)
+
+_Conjure weapons of thunder with your ether._
+
  | 
 
-Storm Blades  
-(★★☆)
+## Storm Blades (★★☆)
 
- | Conjure weapons of thunder with your ether. | 45 Ether | Lightning | Conjure a ring of lightning blades that deal AoE damage.
+  
+_Conjure weapons of thunder with your ether._
 
--   Deals light damage.
+ |
+| 
+
+45 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+30 Thundercall
+
+ |
+| 
+
+**Effect:** _Conjure a ring of lightning blades, dealing light AoE damage._
+
 -   12 Second Cooldown
 -   Has a short delay before dealing damage.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile.
@@ -230,61 +474,148 @@ Storm Blades
  |
 | 
 
+**Grand Javelin** (★★☆)
+
+_A javelin made out of lightning._
+
  | 
 
-Grand Javelin  
-(★★☆)
+## Grand Javelin (★★☆)
 
- | A javelin made out of lightning. | 60 Ether | Lightning | Conjure and throw a spear of lightning towards where the character is facing.
+  
+_A javelin made out of lightning._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+30 Thundercall
+
+ |
+| 
+
+**Effect:** _Conjure and throw a spear of lightning towards where the character is facing._
 
 -   Deals 60 thunder damage.
 -   Ragdolls and flings target(s).
 -   Does not break block but deals a lot of posture damage if blocked.
 -   15 Second Cooldown.
--   Can give an optional effect with the "**Grand Skewer**" Talent; which carries the target(s) hit along with projectile if the user presses the \[F\] key while casting.
+-   Can be given an effect with the "**Grand Skewer**" Talent; which carries the target(s) hit along with projectile if the user presses the \[F\] key while casting.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to throw 3 smaller projectiles that travel forward and adjacent respectively.
 
  |
 | 
 
+**Bolt Piercer** (★★☆)
+
+_An arrow of lightning._
+
  | 
 
-Bolt Piercer  
-(★★☆)
+## Bolt Piercer (★★☆)
 
- | An arrow of lightning. | 50 Ether | Lightning | Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location.
+  
+_An arrow of lightning._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+30 Thundercall
+
+ |
+| 
+
+**Effect:** _Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location._
 
 -   Deals high damage.
     -   At Level 1, it can deplete more than half a healthbar from a freshie.
 -   \[\] Second Cooldown
--   Similar to **Lightning Strike**, the user can also damage themselves with this mantra.
+-   Similar to Lightning Strike, the user can also damage themselves with this mantra.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
 
  |
 | 
 
+**Emotion Wave** (★★★)
+
+_Conjure up surging waves of lightning that travel along the ground._
+
  | 
 
-Emotion Wave  
-(★★★)
+## Emotion Wave (★★★)
 
- | Conjure up surging waves of lightning that travel along the ground. | 70 Ether | Lightning | Conjure and slam a bolt of lightning into the ground from the user's right hand, causing volleys of lightning strikes to spread out.
+  
+_Conjure up surging waves of lightning that travel along the ground._
 
--   Deals moderate-high damage.
--   \[30\] Second Cooldown.
+ |
+| 
+
+70 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+50 Thundercall
+
+ |
+| 
+
+**Effect:** _Conjure and slam a bolt of lightning into the ground from the user's right hand, causing volleys of lightning strikes to spread out, dealing moderate-high damage._
+
+-   30 Second Cooldown.
 -   Can be modified with _Cloudstones/Stratus Stones_ to increase the size of the hitbox.
 -   Can be modified with _Crystal/Perfect Lenses_ to increase the range of the lightning strikes.
 
  |
 | 
 
+**Rising Thunder** (★★★)
+
+_Rise up with your opponent and crash down as a bolt of lightning._
+
  | 
 
-Rising Thunder  
-(★★★)
+## Rising Thunder (★★★)
 
- | Rise up with your opponent and crash down as a bolt of lightning. | 70 Ether | Lightning | Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground.
+  
+_Rise up with your opponent and crash down as a bolt of lightning._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+50 Thundercall
+
+ |
+| 
+
+**Effect:** _Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground._
 
 -   Deals 77 thunder damage.
 -   0.5s wind-up and completely safeguards user when landed.
@@ -294,19 +625,176 @@ Rising Thunder
 
  |
 
-### Support Mantras
+### Mobility Mantras
 
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
 | 
+**Name**
+
  | 
 
-Lightning Stream  
-(★☆☆)
+**Ether Cost**
 
- | A stream of lightning. | 50 Ether | Lightning | Grapple onto a target with a stream of lightning before pulling them in.
+ | 
 
--   Deals light damage; moderate for **Blast Spark** variant.
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Lightning Assault** (★★☆)
+
+_A rush of lightning._
+
+ | 
+
+## Lightning Assault (★★☆)
+
+  
+_A rush of lightning._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Lightning + Slash
+
+ | 
+
+30 Thundercall
+
+ |
+| 
+
+**Effect:** _Caster sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting targets as they pass, dealing moderate damage._
+
+-   10 Second Cooldown.
+-   Guaranteed to hit at least one target if you have your crosshair locked onto them.
+-   Can be modified with **Cloudstones/Stratus Stones** to make it go further.
+-   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
+
+ |
+| 
+
+**Lightning Cloak** (★★★)
+
+_A cloak of lightning itself._
+
+ | 
+
+## Lightning Cloak (★★★)
+
+  
+_A cloak of lightning itself._
+
+ |
+| 
+
+20 Ether
+
+ | 
+
+N/A
+
+ | 
+
+50 Thundercall
+
+ |
+| 
+
+**Effect:** _Enveloped in lightning, increase the user's agility, swing speed (+10%), and granting them lightning dashes (long dodges)._
+
+-   A combative action, such as blocking, parrying, or attacking, must be used within **6.5 seconds** or the mantra is deactivated and goes on cooldown.
+-   Lasts a duration of 6.5 – 60 seconds.
+-   Cannot last longer than 60 seconds.
+-   Slower ether regen while active.
+
+ |
+
+### Support Mantras
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Lightning Stream** (★☆☆)
+
+_A stream of lightning._
+
+ | 
+
+## Lightning Stream (★☆☆)
+
+  
+_A stream of lightning._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+20 Thundercall
+
+ |
+| 
+
+**Effect:** _Grapple onto a target with a stream of lightning before pulling them in. Deals light damage; moderate for **Blast Spark** variant._
+
 -   Stuns the target, allowing a small chance to begin a combo.
 -   15 Second Cooldown.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of the projectile traveled.
@@ -317,12 +805,34 @@ Lightning Stream
  |
 | 
 
+**Thunder Wisp** (★★☆)
+
+_A servant of lightning._
+
  | 
 
-Thunder Wisp  
-(★★☆)
+## Thunder Wisp (★★☆)
 
- | A servant of lightning. | 70 Ether | N/A | Conjure a wisp of lightning that applies "Sapping" to a target upon being Uppercutted or flourished.
+  
+_A servant of lightning._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+N/A
+
+ | 
+
+30 Thundercall
+
+ |
+| 
+
+**Effect:** _Conjure a wisp of lightning that applies "Sapping" to a target upon being uppercut or flourished._
 
 -   **Sapping** increases the target's mantra cooldown.
 -   \[\] Second Cooldown.
@@ -332,12 +842,34 @@ Thunder Wisp
  |
 | 
 
+**Spark Swap** (★★★)
+
+_Swap places with a selected target._
+
  | 
 
-Spark Swap  
-(★★★)
+## Spark Swap (★★★)
 
- | Swap places with a selected target. | 10 Ether | N/A | After a short delay and indicator, instantly swap location with whatever target your cursor is on.
+  
+_Swap places with a selected target._
+
+ |
+| 
+
+10 Ether
+
+ | 
+
+N/A
+
+ | 
+
+50 Thundercall
+
+ |
+| 
+
+**Effect:** _After a short delay and indicator, instantly swap location with whatever target your cursor is on._
 
 -   Range scales with current health.
 -   This can be used on NPCs, players or monsters.
@@ -346,43 +878,7 @@ Spark Swap
 -   \[\] Second Cooldown.
 -   Can be used for escaping situations or for trolling, as shown in this video: "[https://www.youtube.com/watch?v=8L1xWJYGbDk](https://www.youtube.com/watch?v=8L1xWJYGbDk)"
 -   Can be modified with **Cloudstones/Stratus Stones** to (Work in Progress).
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to short the cooldown but reduce greatly the range. This allows you to use the mantra in Chime.
-
- |
-
-### Mobility Mantras
-
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
-| 
- | 
-
-Lightning Assault  
-(★★☆)
-
- | A rush of lightning. | 60 Ether | Lightning + Slash | The character sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting target(s) as they pass.
-
--   Deals moderate damage.
--   10 Second Cooldown.
--   Guaranteed to hit at least one target if you have your crosshair locked onto them.
--   Can be modified with **Cloudstones/Stratus Stones** to make it go further.
--   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
-
- |
-| 
-
- | 
-
-  
-Lightning Cloak  
-(★★★)
-
- | A cloak of lightning itself. | 20 Ether | N/A | Enveloped in lightning, increase the user's agility, swing speed (+10%), and granting them lightning dashes (long dodges).
-
--   A combative action, such as blocking, parrying, or attacking, must be used within **6.5 seconds** or the mantra is deactivated and goes on cooldown.
--   Lasts a duration of 6.5 – 60 seconds.
--   Cannot last longer than 60 seconds.
--   Slower ether regen while active.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to shorten the cooldown but greatly reduce the range. This allows you to use the mantra in Chime.
 
  |
 
@@ -1044,12 +1540,12 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 -   **Electro Carve** was formerly a 0-star mantra.
 -   **Lightning Strike** prints out the coordinates of where the strike was in the F9 log. This means that you can use **Lightning Strike** as a makeshift or bootleg compass.
 -   **Bolt Piercer** was formerly a legendary mantra, now either rare or common.
--   **Lightning Cloak** used to be named **Vanishing Cloak**.
+-   **Lightning Cloak** used to be named **Vanishing Cloak**.[\[1\]](#cite-note-1)
 -   The "Static Fakeout" Talent can be used with Spine Cutter.
 -   In the book Our Fortress, Vincent Zeneke notes that the Thundercaller's use of the Canjolin instrument spawned a method of overdrive.
     -   Linking music theory, the use of overdrive is made to alter the sound of an electrical instrument.
         
--   The Mantra **Grand Javelin** is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
+-   The Mantra **Grand Javelin** is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from _Dark Souls_, having a shared sound effect and casting animation.
 -   In Deepwoken testing, known as Oldwoken, Thundercall used to be blue instead of yellow. Even with the addition of Surge Path, the original color is still lost to the ages.
     -   Surge is a more purple shade compared to Oldwoken Thundercall, which was a light blue.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
@@ -1059,13 +1555,17 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 -   During the early days of Deepwoken, Grand Skewer was notorious for a bug that allowed it to instantly kill whatever it hit if an entity was already stuck on it. This often occurred when the already-skewered victim died. Dying to this bug would take lives in the overworld and wipe you in [The Depths](The_Depths.md), and it was fixed a little over two months after the game's release.
     -   For this reason, [Legion Snipers](Legion_Sniper.md) were considered to be fairly dangerous when fought as a group.
 -   **Emotion Wave** is a direct reference to the Ancient Dragons' Lightning Spear incantation from Elden Ring
--   **The source for thundercall mantras damage:**
+-   **The source for thundercall mantras damage**[\[2\]](#cite-note-2)
 -   It is said by [Neero](Neero.md) that Thundercall can "power" golems to "give life" to them.
--   The [Railblade](Railblade.md) was originally intended to be a legendary weapon for this attunement
-    
-    File:Thundercall mantras damage.png
-    
+-   The [Railblade](Railblade.md) was originally intended to be a legendary weapon for this attunement.
 
 Virudhaka's Sword
 
 Sound from Occult A+B
+
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)
+    
+    File:Thundercall mantras damage.png
