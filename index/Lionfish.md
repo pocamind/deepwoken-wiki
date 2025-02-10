@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 134275
+revid: 135910
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -86,8 +86,8 @@ ing the formula for fighting this mob may allow you to solo it at a low level, i
 -   Lionfish do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the Lionfish away from the boat.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
 -   Will usually spawn if you happen to travel to [Voidsea](Voidsea.md) and sail near certain bubble particles. A larger group of bubbles will instead spawn a [Dread Serpent](Dread_Serpent.md).
--   The regular Cero will not damage you if it goes through a solid object before hitting you. The reduced wind-up grip Cero can go through walls.
-    -   This makes it very easy to cheese by simply going on a ledge that is just above the Lionfish.
+-   The regular Cero will not damage you if it goes through a solid object before hitting you, nor does the reduced-windup variant.
+    -   This makes it very easy to cheese by simply going on a ledge that is just above the Lionfish, or hiding from its line of sight (e.g using a tree) to prevent getting hit by Cero.
 
 ## Gallery
 

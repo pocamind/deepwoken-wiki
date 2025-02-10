@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 135330
+revid: 135945
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -46,45 +46,6 @@ _**FOREWORD**: **A table visualizing the requirements of every hybrid ability ca
 
  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 
-
-**Flashfire Sweep** (★★★)
-
-**Combat Mantra**
-
-_Sweep with flames and lightning before following into a devastating_ uppercut.
-
- | 
-
-## Flashfire Sweep (★★★)
-
-  
-**Combat Mantra**  
-_Sweep with flames and lightning before following into a devastating_ uppercut.
-
- |
-| 
-
-30 Ether
-
- | 
-
-Lightning (Leg Sweep), Flame + Blunt (Uppercut)
-
- | 
-
-50 Flamecharm, 50 Thundercall
-
- |
-| 
-
-**Effect:** User leg sweeps their opponent and follows up with an uppercut.
-
--   Deals moderate damage.
--   Can apply both Shock and Burning.
--   Compatible with Surge Path, Eruption Path, Wraith Path, and Azure Flames.
-
- |
 | 
 
 **Iron Tether** (★★☆)
@@ -205,6 +166,45 @@ Wind + Lightning + Slash
 -   Can be feinted to end early.
 -   Inflicts Shock and Winded.
 -   Compatible with Surge Path and Specter Path.
+
+ |
+| 
+
+**Flashfire Sweep** (★★★)
+
+**Combat Mantra**
+
+_Sweep with flames and lightning before following into a devastating uppercut._
+
+ | 
+
+## Flashfire Sweep (★★★)
+
+  
+**Combat Mantra**  
+_Sweep with flames and lightning before following into a devastating uppercut._
+
+ |
+| 
+
+30 Ether
+
+ | 
+
+Lightning (Leg Sweep), Flame + Blunt (Uppercut)
+
+ | 
+
+50 Flamecharm, 50 Thundercall
+
+ |
+| 
+
+**Effect:** User leg sweeps their opponent and follows up with an uppercut.
+
+-   Deals moderate damage.
+-   Can apply both Shock and Burning.
+-   Compatible with Surge Path, Eruption Path, Wraith Path, and Azure Flames.
 
  |
 

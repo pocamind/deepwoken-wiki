@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 135852
+revid: 135935
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -378,7 +378,7 @@ Ice
 -   Deals 30 DMG at Level 5
 -   Apparently applies Chill although VERY shortly.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
-    -   Can't block, parry, dodge while frozen in the eruption.
+    -   Can vent out of the ice. Can't block, parry, or dodge out of it.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward. These walls are destructible.
     -   The walls can deal damage if they spawn very close to your opponent.
 

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 133480
+revid: 135947
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -116,7 +116,7 @@ In Etris two [bandits](Bandit.md) can spawn in front of the guards near the entr
 
 #### Brainsucker Swarm
 
-An event that happens in[Starswept Valley](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
+An event that happens in [Starswept Valley](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
 
 #### Ministry Necromancer
 

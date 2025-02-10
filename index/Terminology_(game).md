@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 135899
+revid: 135937
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -128,8 +128,8 @@ _noun, verb_
 
 _verb, noun_
 
-1.  Abilities/moves that allow the user to retaliate and not take damage without the use of blocking, parrying or dodging.
-    1.  Ex. the following Mantras, Prediction, Punishment, and Equalizer are all **Counters**.
+1.  Abilities/moves that allow the user to negate an attack and automatically retaliate, without the use of blocking, parrying or dodging.
+    1.  Ex. the following Mantras: [Prediction](Attunement-less.md#prediction), [Punishment](Attunement-less.md#punishment), and [Equalizer](Oath%253A_Contractor.md) are all **Counters**.
 2.  (Counterplay) Is an effective strategy against in combat.
     1.  Ex. "What counters Jetstrikers?"
 
@@ -518,7 +518,7 @@ _noun_
 
 _noun, verb_
 
--   How much mobility/anti-mobility a build has, mainly for chasing people and stopping them from running away. examples of chase Talents and Mantras are: Revenge, Encircle, Pursuit, Crippling Comeuppance, etc.
+-   How much mobility/anti-mobility a build has, mainly for chasing people and stopping them from running away. examples of chase Talents and Mantras are: [Revenge](Attunement-less.md#revenge), [Encircle](Shadowcast.md#encircle), Pursuit, Crippling Comeuppance, etc.
 
 ### Minmax
 

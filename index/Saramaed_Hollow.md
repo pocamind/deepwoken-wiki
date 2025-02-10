@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 135904
+revid: 135908
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -135,15 +135,15 @@ Exhaustive Loot Table
   <ol>
     <li><b>Mythic Arms</b>: <a href="Abyss_Wanderer's_Plate.md"><font>Abyss Wanderer's Plate</font></a>, <a href="Delver's_Duster.md"><font>Delver's Duster</font></a>.</li>
     <li><b>Legendary Arms</b>: <a href="Deepwoken_Cloak.md"><font>Deepwoken Cloak</font></a>, <a href="Ignition_Gauntlets.md"><font>Ignition Gauntlets</font></a>, <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a>, <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a>, <a href="Warden_Pauldrons.md"><font>Warden Pauldrons</font></a>.</li>
-    <li><b>Generic Arms</b>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (All), <a href="Legion_Pauldrons.md">Khan Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, Parkas (All), <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>.</li>
+    <li><b>Generic Arms</b>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (All Variants), <a href="Legion_Pauldrons.md">Khan Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, Parkas (All Variants), <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>:
   <ol>
     <li><b>Legendary Legs</b>: <a href="Abyss_Wanderer's_Boots.md"><font>Abyss Wanderer's Boots</font></a>.</li>
     <li><b>Generic Legs</b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a> <a href="Star_Boots.md">Star Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Vanguard_Boots.md">Vanguard Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, Scarf (All).</li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Citadel_Frames.md">Citadel Frames</a> (All), Duelist's Mask, <a href="Headband.md">Headband</a> (All), <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>.</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, Scarf (All Variants).</li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), Duelist's Mask, <a href="Headband.md">Headband</a> (All Variants), <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>.</li>
     <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>.</li>
     <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
   <ol>

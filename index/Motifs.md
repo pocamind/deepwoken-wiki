@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 135421
+revid: 135936
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -140,8 +140,10 @@ Additional Notes
 
 Weapon criticals have their own stats separate to the weapon they're on (except for the damage they deal). This means that weapon criticals like [Shotel](Shotel.md)'s will **retain their unique properties** when put on another weapon; being Shotel critical's 100% chip damage in this case.
 
-As for the damage a Motifed critical will deal on another weapon; critical attack damage is a multiplier to the weapon's scaled damage, it's a stat built into each critical attack and is specific to that critical attack. For example, if you have a hypothetical weapon that has a 1.25x scaled damage multiplier on critical and that weapon has 30 scaled damage, the critical will deal 37.5 damage on that weapon. Then if you were to Motif that weapon and put its critical on a weapon that has 24 scaled damage, the critical will only deal 30 damage.  
+As for the damage a Motifed critical will deal on another weapon; critical attack damage (from most weapons) is a multiplier to the weapon's scaled damage, it's a stat built into each critical attack and is specific to that critical attack. For example, if you have a hypothetical weapon that has a 1.25x scaled damage multiplier on critical and that weapon has 30 scaled damage, the critical will deal 37.5 damage on that weapon. Then if you were to Motif that weapon and put its critical on a weapon that has 24 scaled damage, the critical will only deal 30 damage.  
 This just means that your **Motifed critical will deal less damage than the weapon it was originally from if your current weapon has less scaled damage and vice versa**.
+
+This isn't always the case of course, as some weapon criticals have a set damage value regardless of your weapon's scaled damage (e.g. [Stoneheart](Stoneheart.md)). None of those weapons are Motif-able however.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 135781
+revid: 135909
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -2783,6 +2783,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -3198,9 +3199,9 @@ Found from:
 
  | 
 
-_+6 Health_  
+_+6 Health_
 
-+2 Rare Pips  
++2 Rare Pips
 
 +1 Legendary Pip
 
@@ -3214,6 +3215,8 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  | N/A |
 |  | 

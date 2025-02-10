@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 130637
+revid: 135948
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -206,7 +206,7 @@ These quests usually give EXP, Reputation and/or an item.
 
 **Quest Location**: Etris and Vigils
 
-**Guide**: Talk to [Nanji](Nanji.md) at Etris near the bridge between Lance Leshi's and the barber, interact with a sword reached through a zipline near the mantra training gear shop in Isle of Vigils, then talk to the Nanji again.
+**Guide**: Talk to [Nanji](Nanji.md) at Etris near the bridge between Lance Leshi's and the barber, interact with a sword on the ground near the end of the zipline going away from the Fang and Coil trainer in Isle of Vigils, then talk to the Nanji again.
 
 **Reward/s**: EXP, Compassion.
 

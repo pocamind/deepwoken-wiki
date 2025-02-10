@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 134150
+revid: 135913
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -18,7 +18,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
 | swing speed | 1.02x |
 | penetration | N/A |
 | chip damage | 20% |
-| special effect | M1s apply 50% of unscaled damage as Wither |
+| special effect | M1s apply 50% of scaled damage as Wither |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
@@ -34,7 +34,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 The twisted, awoken form of the [Dormant Splinter](Dormant_Splinter.md) crafted using the soul within the [Cold Forge](The_Cold_Forge.md) with sufficient ores and a vessel.
 
-It deals 50% of its unscaled damage (damage before modifiers such as armor and damage boosts) as Wither, dealing from **9.65** Wither (65MED) to **14.1** Wither (100MED 6PROF 3DMG).
+It deals 50% of its scaled damage (before modifiers) as Wither every basic attack, dealing from **8.55** Wither (65MED) to **11.25** Wither (100MED 6PROF 3\* DMG).
 
 It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
@@ -48,13 +48,20 @@ At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is **28.2 + 8.45\[BL
 
 ## Critical
 
-The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second doing knockback. Both hits apply ~100% Wither~ and 10s of Antiheal (personally only tested twice, unsure if this is intentional or not but the actual damage is EXTREMELY SMALL (roughly only 1-2% of dmg) whereas the wither damage is substantial. The crit only really does damage if the opponent's wither is near / caught up to their health). The first hit is blockable while the second causes a lot of posture damage. The second slash **autogrips** any knocked player or those hit and knocked by it (tested, though rarely doesn't autogrip). The cooldown for this critical is **6** seconds.
+The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second doing knockback. Both hits apply **bleed**. The windup of the first slash is 0.6s, and the windup of the second slash is 0.475s. There is 0.2s of endlag after the critical attack.
+
+The first hit has 0.2s of hyper armor and deals **0.35x** of your weapon's scaled damage, applies **20 Wither** regardless of scaling and damage modifiers. The first slash also applies 10s of full Antiheal, dazes for 1 second, and deals 10 posture damage with 45% chip.
+
+The second slash deals **0.45x** of your weapon's scaled damage, applies **40 wither** regardless of scaling and damage modifiers, deals 33 posture damage with no chip, and **autogrips** any knocked player or those hit and knocked by it.
+
+The cooldown for this critical is **6** seconds.
 
 ## Trivia
 
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
--   when sitting at a campfire it will display "Lkq tg ywdn..."
--   Holding the weapon or not, the Umbrite Whiterblade will display heartbeat noises as well as a incomprehensible whisper followed by a omnious noise that resembles a car engine.
+-   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..."
+-   The Wither application on hit stacks with [Darkened Bastion](Darkened_Bastion.md)'s Withering Soul Talent, but with little effectiveness as Withering Soul's Wither application is 20% of your weapon's **unscaled** damage.
+-   While equipped, the Umbrite Whiterblade will display heartbeat noises as well as a incomprehensible whisper followed by a ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.
 
 ## Version History
