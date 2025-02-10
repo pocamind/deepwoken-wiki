@@ -1,9 +1,9 @@
 ---
 title: Repair Hammer
-revid: 107667
+revid: 135990
 source: https://deepwoken.fandom.com/wiki/Repair_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Utilities, Items]
+categories: [Items, Tools]
 ---
 
 # Repair Hammer

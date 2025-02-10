@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 124925
+revid: 135973
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Ignition Union, Ignition Union Enemies]
@@ -56,4 +56,4 @@ An Ignition Union Fighter executes the player after knocking them:
 
 -   Apply standard humanoid fighting tactics.
 -   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.
--   Make sure to roll when you see them use their **Critical** as hitting them during the **Critical** won't cancel it.
+-   Make sure to roll when you see them use their **Critical** as hitting them during the **Critical** won't cancel it due to the [Darksteel Greatsword's](Darksteel_Greatsword.md) crit having hyperarmor for the majority of it's duration.

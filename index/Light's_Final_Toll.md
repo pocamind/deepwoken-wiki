@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 130634
+revid: 135978
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -56,4 +56,3 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 -   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLL.
 -   Before October 20th, 2023, the weapon used the base critical for the active fist style.
 -   Before February 13th, 2023, this weapon wasn't Legendary, and was therefore [enchantable](Enchantments.md).
--   Always has the Way of Navae idle animation regardless of your currently equipped fist style.

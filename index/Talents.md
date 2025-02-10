@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 135961
+revid: 136001
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -750,6 +750,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The red trail will show up on non-daggers, but will have no effect.
     -   Prerequisite: Knife's Journey
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
+    -   If multiple opponents are flourished, then the person who gets targetted by daggers will get targetted by all of them
     -   Prerequisite: 35 Light Weapon
 
 ### Cryomancer
@@ -2746,6 +2747,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"My fists are imbued with lighting."**_
 
 -   Discharge \[Common Talent, Thundercall Exclusive\] - On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load)
+    -   Damage scales with thundercall investment. ~5 base damage, with 5 thundercall scaling (0.025 per point)
+    -   The effect lasts for 30 seconds.
     -   Prerequisites: 20 Light Weapon, 15 Thundercall
     -   Does not work with Hero Blades (Tested)
 

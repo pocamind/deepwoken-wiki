@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 135936
+revid: 135970
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -149,7 +149,6 @@ This isn't always the case of course, as some weapon criticals have a set damage
 
 -   Motifs themselves cannot be banked nor dropped.
     -   However, weapons with a Motif equipped can be both banked and dropped.
--   If you unequip a weapon that has a Motif on it and then leave the game, the Motif will be voided when you rejoin.
 -   Motifs can be applied to the '22 [Hallowtide](Hallowtide.md) weapons.
 -   You can swap Motifs during combat to change up your critical for mixups.
 -   The 'Gun' Motif uniquely can be obtained from and can be applied to _both_ the Rifle and Flintlock weapon classes despite it being a base weapon critical. With that being said, this Motif will do nothing when applied since you're replacing a base weapon critical with the same base weapon critical.

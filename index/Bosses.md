@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 135864
+revid: 136005
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -19,7 +19,7 @@ The concrete, in-game method of determining if an Enemy/Monster is a **Boss** is
 -   Unique Summoning System or Guaranteed Spawn Locations
 -   Unique & End-Game Drops
 -   Grants [Echoes](Echoes.md) upon defeat.
--   Grants [Resonance Progress](Resonance.md) upon defeat.
+-   Grants [Resonance Progress](Resonance.md#bell-progress) upon defeat.
 -   Grants [Knowledge](Knowledge.md) upon defeat.
 -   Grants [Pluripotent Alloy](Pluripotent_Alloy.md) upon defeat.
 -   Grants [Ardour Manifestation](Ardour_Manifestation.md) upon defeat.

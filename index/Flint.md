@@ -1,9 +1,9 @@
 ---
 title: Flint
-revid: 121338
+revid: 135994
 source: https://deepwoken.fandom.com/wiki/Flint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Items, Tools]
 ---
 
 # Flint
@@ -56,5 +56,5 @@ They can also be sold by [merchant ships](https://deepwoken.fandom.com/wiki/Chil
 
 ## Trivia
 
--   If you have the Talent Survival Kit, which is obtained by wiping with Herbivore, Iron Gut, and Termite, your flint has unlimited uses. This makes Produce Spark, Discovery of Fire, and Umbral Flint useless. However Graceful Flame is still useful in terms of saving wood
+-   If you have the Talent Survival Kit, which is obtained by wiping with Herbivore, Iron Gut, and Termite, your flint has unlimited uses.
 -   Umbral Flint got added on 10.05.2022

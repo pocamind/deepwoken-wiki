@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 135853
+revid: 135971
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1190,7 +1190,7 @@ N/A
 **Effect:** _User performs a short ritual before turning into their disguise_
 
 -   This mantra is Ritual Casted.
--   Obtained by finding an NPC named [Mime](Mime.md) and killing Barrelskippers.
+-   Obtained by finding an NPC named [Mime](Mime.md) and killing Mineskippers.
 -   Modifying the Mantra alters what you are disguised as.
     -   Barrel: No Sparks
     -   Statue: 1 Reversal Spark

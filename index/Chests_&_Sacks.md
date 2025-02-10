@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 118438
+revid: 135974
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,7 +12,7 @@ categories: [Mechanics]
 
 An image of an opened chest
 
-Chests are in-game boxes that spawn at the end of (almost) every [Event](Random_Encounters.md). They contain loot ranging from general items, [Equipment](Equipment.md), [Schematics](Outfits.md), [Weapons](Weapons.md), [Mantra Modifiers](Mantra_Modifiers.md), and very rarely, [Enchanted gear](Enchantments.md). Every area has their own lootpool, some items being exclusive to one area, while others being found across several areas. For example: A chest dropped from a [Songseeker Wilds](Songseeker_Wilds.md) random event may contain items such as the Katana, the Canor Fang or the Glassdancer Wraps. However, chests that have dropped over in [Erisia](Erisia.md) would contain items such as the Stilleto or the Pathfinder Arch-Sorcerer [Schematic](Outfits.md). Though, you can find a [Blindfold](Blindfold.md) in both areas. If you spawn near a chest, you can not open it.
+Chests are in-game boxes that spawn at the end of almost every [Event](Random_Encounters.md). They contain loot ranging from general items, [Equipment](Equipment.md), [Schematics](Outfits.md), [Weapons](Weapons.md), [Mantra Modifiers](Mantra_Modifiers.md), and very rarely, [Enchanted gear](Enchantments.md). Every area has their own lootpool, with some items being exclusive to one area, while others being found across several areas. For example: A chest dropped from a [Songseeker Wilds](Songseeker_Wilds.md) random event may contain items such as the Katana, the Canor Fang or the Glassdancer Wraps. However, chests that have dropped over in [Erisia](Erisia.md) would contain items such as the Stilleto or the Pathfinder Arch-Sorcerer [Schematic](Outfits.md). Though, you can find a [Blindfold](Blindfold.md) in both areas. If you spawn near a chest, you can not open it.
 
 Loot inside a chest is shown with different colors depending on their rarity, ranging from common to enchanted:
 

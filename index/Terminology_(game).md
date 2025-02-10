@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 135937
+revid: 136002
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -547,7 +547,7 @@ _noun_
 
 [Deep Shrines](Deep_Shrines.md) other than the Shrine of Order are almost always referred to with their full name.
 
-#### Post-Shrine
+#### Post-Shrine, Post
 
 _adjective, noun_
 
@@ -660,12 +660,24 @@ _noun_
 
 Referring to the loading screen's tip, you can say "my bad \[name\]" to remove combat tag from the respective player. For lazy players, you can say "mb all" to remove all combat tags from everyone you have tagged.
 
+### DSGS
+
+_noun_
+
+1.  Abbreviation for [Darksteel Greatsword](Darksteel_Greatsword.md).
+
 ### DvM
 
 _noun_
 
 1.  Short form of "Damage versus Monsters". An equipment attribute that increases your damage towards monsters by percentage stated.
     1.  Ex. "There is a possibility that a player can reach 60% DvM in a build"
+
+### GS
+
+_noun_
+
+1.  Abbreviation for [Greatsword](Greatswords.md).
 
 ### KoS
 
