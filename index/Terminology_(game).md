@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 135020
+revid: 135899
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -159,11 +159,11 @@ _verb_
 1.  Ganking lower powers in the Depths.
     1.  Ex "Lets depths gank these power 3's"
 
-### Grip
+### Execute
 
 _verb_
 
-1.  To execute a player, [enemy](Enemies.md) or [monster](Monsters.md).
+1.  To finish a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'grip' is also used.)
 
 ### Feint
 
@@ -372,7 +372,7 @@ _noun_
 
 1.  Nickname for the legendary [Dimension Travel](Dimensional_Travel.md) Resonance. It is also a reference to Obito Uchiha's Kamui ability from Naruto Shippuden.
 
-### Legendary bell
+### Legendary Bell
 
 _adjective_
 
@@ -534,38 +534,38 @@ _noun_
 
 -   A type of build that mainly focuses on empowering their Mantras and uses almost solely Mantras and sometimes a [Hero Blade](Hero_Blades.md).
 
-### Shrine/Order
+### Shrine
 
 _verb_
 
--   To use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), a [Deep Shrine](Deep_Shrines.md) commonly used in builds for its ability to take away and redistribute the player's stats after having spent them on Talents or Mantras with high stat requirements while keeping those Talents or Mantras, allowing for the player to save points to be invested into other stats.
+-   To use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), a [Deep Shrine](Deep_Shrines.md) available to use starting at Power 8 commonly used in builds for its ability to take away and redistribute the player's stats after having spent them on Talents or Mantras with high stat requirements while keeping those Talents or Mantras, allowing for the player to save points to be invested into other stats.
     -   "Is it ok to shrine at power 14?"
 
 _noun_
 
 -   Shorthand for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
 
-[Deep Shrines](Deep_Shrines.md) other than the Shrine of Order are usually referred to with their full name.
+[Deep Shrines](Deep_Shrines.md) other than the Shrine of Order are almost always referred to with their full name.
 
 #### Post-Shrine
 
 _adjective, noun_
 
--   Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
+-   Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
     -   Ex. "Is 60 strength postshrine good?"
 
 #### Pre-Shrine, Pre
 
 _adjective, noun_
 
--   Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), available to use starting at Power 8.
+-   Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
     -   Ex. "I always run 80 willpower preshrine"
 
 #### Shrine down
 
 _verb_
 
--   To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), or [Shrine of Mastery](Deep_Shrines.md).
+-   To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) or [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
     -   Ex. "I shrined down agility"
 
 ### Sustain

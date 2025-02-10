@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 116472
+revid: 135907
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Starswept Valley, Duke Erisia |
+| obtainment | Chests from:, Starswept Valley, Duke Ishamon Erisia, Saramaed Hollow |
 | description | "..." |
 
 ## Description

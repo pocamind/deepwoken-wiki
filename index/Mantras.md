@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 135357
+revid: 135816
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -217,7 +217,7 @@ _**(Added back recently, though may be removed in the future.)**_
 
 `Pierce`\- Wind / Ice _**(Gale Lunge, Ice Lance.)**_
 
-`Pillar`\- Ice _**(Ice Spike.)**_
+`Pillar`\- Ice _**(Ice Spike, Metal Rampart)**_
 
 `Eruption`\- Ice / Shadow / Blood _**(Ice Eruption, Shadow Eruption, Scarlet Cyclone)**_
 
@@ -225,7 +225,7 @@ _**(Added back recently, though may be removed in the future.)**_
 
 `Kick`\- Lightning _**(Thunder Kick.)**_
 
-`Dagger`_\-_ Lightning / Ice _**(Fleeting Sparks, ice dagger)**_
+`Dagger`_\-_ Lightning / Ice _**(Fleeting Sparks, Ice dagger)**_
 
 `Forge-` Blood _**(Blood Orb)**_
 

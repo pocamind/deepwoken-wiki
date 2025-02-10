@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 135769
+revid: 135778
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -81,7 +81,7 @@ _Send a cascading eruption towards your foes, forcing them to react._
  |
 | 
 
-**Effect:** _The caster stomps into the ground and sends out a eruption that can automatically targets the nearest opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) **Grand Stomp** attack._
+**Effect:** _The caster stomps into the ground and sends out a eruption that can automatically targets the nearest opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) '**Grand Stomp'** attack._
 
  |
 | 
@@ -113,7 +113,7 @@ _A javelin of jagged bone._
  |
 | 
 
-**Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) 'Bone Throw' attack._
+**Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) '**Bone Throw'** attack._
 
 -   Grants hyperarmor during startup.
 
@@ -147,9 +147,9 @@ _..._
  |
 | 
 
-**Effect:** The user grows coral on their back and sprays coral in every direction, based on the [Megalodaunt's](Megalodaunt.md) 'Thousand Needles' attack.
+**Effect:** _The user grows coral on their back and sprays coral in every direction, based on the [Megalodaunt's](Megalodaunt.md) '**Thousand Needles'** attack._
 
--   This mantra can damage ships by 90 damage.
+-   This mantra deals 90 damage to ships.
 
  |
 | 
@@ -181,7 +181,7 @@ _\[missing, add\]_
  |
 | 
 
-**Effect:** _The user shoots out a devastating beam of compressed ice, based on the [Dread Serpent's](Dread_Serpent.md) Ice Beam. This move stuns and procs ice, slowing enemies._
+**Effect:** _The user shoots out a devastating beam of compressed ice, based on the [Dread Serpent's](Dread_Serpent.md) **Ice Beam**. This move stuns and procs ice, slowing enemies._
 
 -   Alternatively, it will proc crystal if the user has **[Glass Path: Crystallization](Talents.md#glassdancer)**.
 
@@ -215,7 +215,7 @@ _..._
  |
 | 
 
-**Effect:** _Pull out a Gatling gun, mowing down the enemies in your way. This mantra is based on the [Mechalodaunt's](Mechalodaunt.md) 'Bullet Fury' attack._
+**Effect:** _Pull out a Gatling gun, mowing down the enemies in your way. This mantra is based on the [Mechalodaunt's](Mechalodaunt.md) '**Bullet Fury'** attack._
 
 -   The bullets of the Mecha Gatling do not stun, dealing minuscule damage with a short range of fire.
 -   Alternatively, it will proc eruptions if the user has **[Eruption Path: Lava Serpent](Talents.md#lava-serpent)**.
@@ -318,7 +318,7 @@ _\[missing, add\]_
  |
 | 
 
-**Effect:** _Burrow into the ground, giving invincibility for its duration. Click to cancel the Mantra and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) Dig._
+**Effect:** _Burrow into the ground, giving invincibility for its duration. Click to cancel the Mantra and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) **Dig**._
 
  |
 

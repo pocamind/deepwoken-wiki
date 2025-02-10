@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 134860
+revid: 135904
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -81,7 +81,12 @@ Exhaustive Loot Table
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a> (Adept Outfit), <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a> (Expert Outfit), <a href="Martial_Artist.md">Martial Artist</a> (Expert Outfit), <a href="Legion_Centurion.md">Legion Centurion</a> (Master Outfit), <a href="Prophet's_Cloak.md">Prophet's Cloak</a> (Master Outfit).</td>
+  <td>
+  <ul>
+    <li><b>Adept</b>: <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></li>
+    <li><b>Expert</b>: <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Martial_Artist.md">Martial Artist</a></li>
+    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
+  </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
@@ -92,7 +97,7 @@ Exhaustive Loot Table
     <li><a href="Mantra_Modifiers.md#regular">Mantra Modifiers</a></li>
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>
-    <li>Almost every <a href="Enchant_Stone.md">Enchant Stone</a> (excluding Astral and Curse of Rhaemen's Ember)</li>
+    <li>Every <a href="Enchant_Stone.md">Enchant Stone</a> (excluding Astral)</li>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
     <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
     <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
@@ -130,7 +135,7 @@ Exhaustive Loot Table
   <ol>
     <li><b>Mythic Arms</b>: <a href="Abyss_Wanderer's_Plate.md"><font>Abyss Wanderer's Plate</font></a>, <a href="Delver's_Duster.md"><font>Delver's Duster</font></a>.</li>
     <li><b>Legendary Arms</b>: <a href="Deepwoken_Cloak.md"><font>Deepwoken Cloak</font></a>, <a href="Ignition_Gauntlets.md"><font>Ignition Gauntlets</font></a>, <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a>, <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a>, <a href="Warden_Pauldrons.md"><font>Warden Pauldrons</font></a>.</li>
-    <li><b>Generic Arms</b>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (All), <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, Parkas (All), <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>.</li>
+    <li><b>Generic Arms</b>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (All), <a href="Legion_Pauldrons.md">Khan Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, Parkas (All), <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>:
   <ol>

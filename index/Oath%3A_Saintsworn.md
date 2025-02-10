@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 134545
+revid: 135897
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -100,7 +100,7 @@ By pressing 'L', your weapon changes to the Saintsblade, which is required to us
 
 ### **Saint Stances**
 
-With the Saintsblade equipped, you are able to enter 5 different Saint Stances, corresponding to the 5 elements. Saint Stances are cycled through by using the Critical. Each stance gives the Saintsblade a unique Critical, gives you access to element-specific passive abilities as given by Hero's Assist, and modifies the Blade of Saints Mantra. The cycle order of stances is based off of your highest-invested attunements, with the stance when you first equip the Saintsblade being your highest one, the second one your second highest, and so on.
+With the Saintsblade equipped, you are able to enter 5 different Saint Stances, corresponding to the 5 elements. Saint Stances are cycled through by using the Critical. For each stance the Saintsblade has a unique Critical, gives you access to element-specific passive abilities as given by Hero's Assist, and modifies the Blade of Saints Mantra. The cycle order of stances is based off of your highest-invested attunements, with the stance when you first equip the Saintsblade being your highest one, the second one your second highest, and so on.
 
 ### **Hero's Assist**
 

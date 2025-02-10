@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 135220
+revid: 135843
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -16,7 +16,7 @@ Shadowcast icon
 
 ## Description
 
-**Shadowcast** is an [Attunement](Attunements.md) that, if previously unlocked, can be started with. It is unique due to the fact that it drains ether from those that are hit by its Mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be a little lower. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast Talents are centered on ether drain, obscuring vision and AoE.
+**Shadowcast** is an [Attunement](Attunements.md) that, if previously unlocked, can be started with. It is unique due to the fact that it drains Ether from those that are hit by its Mantras and returns the drained Ether to the caster. This does come at a cost to its damage output, which tends to be a little lower. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast Talents are centered on Ether drain, obscuring vision and AoE.
 
 ## Obtainment & Training
 
@@ -29,7 +29,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Shadowcast level 30, players will receive the _Expert Shadowcaster_ Talent. This allows players to unlock 2-star Shadowcast Mantras
 -   Finally, at Shadowcast level 50, players will receive the _Master Shadowcaster_ Talent. This finally allows Shadowcast users to unlock the last category, 3-star Mantras
 
-The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [The City of the Drowned](The_City_of_the_Drowned.md), using 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. You don't have to venture back into the depths to upgrade it, however, [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She can upgrade your mantras but not give you Shadowcast. Shadowcast is unlocked permanently like other elements and can be started with after being unlocked. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
+The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [The City of the Drowned](The_City_of_the_Drowned.md), using 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. You don't have to venture back into the depths to upgrade it, however, [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She can upgrade your Mantras but not give you Shadowcast. Shadowcast is unlocked permanently like other elements and can be started with after being unlocked. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
 
 -   To upgrade a Shadowcast Mantra from level 1 to level 2 costs.
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
@@ -38,303 +38,774 @@ The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](
 
 ## Mantras
 
-### Combat
+### Combat Mantras
 
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
 | 
+**Name**
+
  | 
 
-Dark Blade  
-(☆☆☆)
+**Ether Cost**
 
- | Slicing blades of dark energy. | 20 Ether | Shadow + Slash | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
+ | 
 
--   Adding rush shards make dark blade faster.
--   Adding vibrant gems increase ether steal.
--   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes.
--   Deals 19 damage per hit at 5 lvl
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Clutching Shadow** (☆☆☆)
+
+_A shadowy hand._
+
+ | 
+
+## Clutching Shadow (☆☆☆)
+
+  
+_A shadowy hand._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Shadow + Slash (Grab) + Blunt (Slam)[\[note 1\]](#cite-note-damage-notation-1)
+
+ | 
+
+1 Shadowcast
+
+ |
+| 
+
+**Effect:** _Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage. The caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage_
+
+-   Refills about the same amount of Ether as the spell cost.
+-   Deals 58 DMG total, 48 grab + 10 slam.
+-   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
 -   It has a cooldown of 12 seconds.
 
  |
 | 
 
+**Dark Blade** (☆☆☆)
+
+_Slicing blades of dark energy._
+
  | 
 
-Shadow Gun  
-(☆☆☆)
+## Dark Blade (☆☆☆)
 
- | An awful blast of dark energy. | 20 Ether | Shadow | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
+  
+_Slicing blades of dark energy._
+
+ |
+| 
+
+20 Ether
+
+ | 
+
+Shadow + Slash
+
+ | 
+
+1 Shadowcast
+
+ |
+| 
+
+**Effect:** _A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable._
+
+-   Adding Rush Shards make Dark Blade faster.
+-   Adding Vibrant Gems increase Ether steal.
+-   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes.
+-   Deals 19 damage per hit at level 5
+-   It has a cooldown of 12 seconds.
+
+ |
+| 
+
+**Shadow Gun** (☆☆☆)
+
+_An awful blast of dark energy._
+
+ | 
+
+## Shadow Gun (☆☆☆)
+
+  
+_An awful blast of dark energy._
+
+ |
+| 
+
+20 Ether
+
+ | 
+
+Shadow
+
+ | 
+
+1 Shadowcast
+
+ |
+| 
+
+**Effect:** _You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable._
 
 -   Adding Lenses will increase the range of the blast forward
 -   Adding Cloudstones will increase the height and width of the blast
 -   Its animation is identical to the Duelist's M2 from Rogue Lineage.
 -   Guardbreaks at Lvl 5.
--   Deals 35 dmg, 21.5 per hit, total dmg 65 with blast spark
-
--   Can be modified with a Blast Spark, making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and triple the ether cost from what’s displayed (I.E. a 19% ether cost shadow gun will actually cost 57% of your ether.)
+-   Deals 35 dmg, 21.5 per hit, total dmg 65 with Blast Spark
+-   Can be modified with a Blast Spark, making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and triple the Ether cost from what’s displayed (I.E. a 19% Ether cost Shadow Gun will actually cost 57% of your Ether.)
 -   It has a cooldown of 12 seconds.
 
  |
 | 
 
+**Shadow Chains** (★☆☆)
+
+_Chains of shadow._
+
  | 
 
-Clutching Shadow  
-(☆☆☆)
+## Shadow Chains (★☆☆)
 
- | A shadowy hand. | 50 Ether | Shadow + Slash (Grab) + Blunt (Slam) | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage and refilling about the same amount of ether as the spell cost. the caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage
-
--   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
--   Deals 58 DMG total, 48 grab + 10 slam.
--   It has a cooldown of 12 seconds.
+  
+_Chains of shadow._
 
  |
 | 
 
+15 Ether
+
  | 
 
-Shadow Chains  
-(★☆☆)
+Shadow
 
- | Chains of shadow. | 15 Ether | Shadow | The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their ether based on the number of chains applied for a duration of 3 seconds
+ | 
 
+20 Shadowcast
+
+ |
+| 
+
+**Effect:** _The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their Ether based on the number of chains applied for a duration of 3 seconds._
+
+-   Deals 17 DMG per chain at level 5
+-   Casts an extra chain at level 5 (Confirmed, level 5 does cast an additional chain.)
 -   Duration of the chain effect can be increased with Logstones
--   Deals 17 DMG per chain at 5 lvl
 -   Chain projectile speed and range can be increased with Drift shards and Crystal lenses
--   Casts an extra chain at level 5 \[Confirmed, level 5 does cast an additional chain.\]
 
  |
 | 
 
+**Shadow Eruption** (★☆☆)
+
+_Form a shockwave of darkness._
+
  | 
 
-Shadow Eruption  
-(★☆☆)
+## Shadow Eruption (★☆☆)
 
- | Form a shockwave of darkness. | 50 Ether | Shadow | The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. It is blockable.
+  
+_Form a shockwave of darkness._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Shadow
+
+ | 
+
+20 Shadowcast
+
+ |
+| 
+
+**Effect:** _The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. Blockable._
 
 -   Deals 31 DMG total
 -   Unaffected by Glass & Magnifying Stones.
--   Although, Stratus Stones and Cloud Stones do increase the size of the eruption.
+-   Clound and Stratus Stones increase the size of the eruption.
 -   Pretty similar to [Flamecharm's Flame Repulsion](Flamecharm.md), but with no knockback.
 
  |
 | 
 
+**Shadow Seekers** (★☆☆)
+
+_Call forth the void to track your opponents._
+
  | 
 
-Shadow Seekers  
-(★☆☆)
+## Shadow Seekers (★☆☆)
 
- | Call forth the void to track your opponents. | 60 Ether | Shadow + Slash | The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase
-
-nearby opponents until the duration has expired or the orb has made contact with the target. Orbs
-
-do a small amount of damage and steal a large amount of ether.
-
--   Shares a cooldown with Shadow Meteors.
--   If attacked while casting, the Shadow Seekers will dissipate
--   You cannot use any Mantras after using this Mantra until the orbs have either hit the target or despawned.
--   If managed to hit, Shadow Seekers will replenish equal or more ether cost.
--   Cloudstones and Stratus Stones increase the amount of shadow seekers, to around 3 times more.
--   Deals 80 dmg total not modded (20 per shadow seeker)
+  
+_Call forth the void to track your opponents._
 
  |
 | 
 
+60 Ether
+
  | 
 
-Shadow Roar  
-(★★☆)
+Shadow + Slash
 
- | Roar a wave of shadows. | 50 Ether | Shadow | The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit.
+ | 
 
-"hit em with a scream!"
+20 Shadowcast
+
+ |
+| 
+
+**Effect:** _The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase_ nearby opponents until the duration has expired or the orb has made contact with the target. Orbs do a small amount of damage and steal a large amount of Ether.
+
+-   Deals 80 damage total (20 per shadow seeker)
+-   Shares a cooldown with Shadow Meteors.
+-   If attacked while casting, the Shadow Seekers will dissipate
+-   You cannot use any Mantras after using this Mantra until the orbs have either hit the target or despawned.
+-   If managed to hit, Shadow Seekers will replenish equal or more Ether cost.
+-   Cloudstones and Stratus Stones increase the amount of shadow seekers, to around 3 times more.
+
+ |
+| 
+
+**Rising Shadow** (★★☆)
+
+_Form a Shockwave of darkness._
+
+ | 
+
+## Rising Shadow (★★☆)
+
+  
+_Form a Shockwave of darkness._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Shadow + Blunt (Slam)[\[note 1\]](#cite-note-damage-notation-1)
+
+ | 
+
+30 Shadowcast
+
+ |
+| 
+
+**Effect:** _User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting_ with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing Ether. This attack can summon multiple tendrils to grab multiple people simultaneously.
+
+-   Deals 32 dmg + 3 slam
+-   Drift and Rush Shards increase projectile speed.
+-   Cloud and Stratus Stones increase range.
+-   Can be modified with a Blast Spark, making your Rising Shadow apply a status effect that massively increases Mantra Ether cost and returns a portion of Ether consumed to the user if enemies manage to cast a Mantra, if your Ether is full you emit a wave of shadow.
+
+ |
+| 
+
+**Shadow Meteors** (★★☆)
+
+_Hail down meteors of darkness._
+
+ | 
+
+## Shadow Meteors (★★☆)
+
+  
+_Hail down meteors of darkness._
+
+ |
+| 
+
+65 Ether
+
+ | 
+
+Shadow
+
+ | 
+
+30 Shadowcast
+
+ |
+| 
+
+**Effect:** _3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable._
+
+-   Deals 41.5 per meteor, 125 DMG total
+-   Shares a cooldown with [Shadow Seekers](Shadowcast.md#shadow-seekers).
+
+ |
+| 
+
+**Shadow Roar** (★★☆)
+
+_Roar a wave of shadows._
+
+ | 
+
+## Shadow Roar (★★☆)
+
+  
+_Roar a wave of shadows._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Shadow
+
+ | 
+
+30 Shadowcast
+
+ |
+| 
+
+**Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and Ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit._ "hit em with a scream!"
 
 -   Deals 82 dmg total, 10.5 per hit.
 
  |
 | 
 
+**Eclipse Kick** (★★★)
+
+_Show your foes your strength.[\[verify 1\]](#cite-note-2)_
+
  | 
 
-Rising Shadow  
-(★★☆)
+## Eclipse Kick (★★★)
 
- | Form a Shockwave of darkness. | 50 Ether | Shadow + Blunt (Slam) | User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting
-
-with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.  
-
--   Drift and Rush Shards increase projectile speed.
--   Cloud and Stratus Stones increase range.
--   Can be modified with a Blast Spark, making your Rising Shadow apply a status effect that massively increases mantra ether cost and returns a portion of ether consumed to the user if enemies manage to cast a mantra, if your ether is full you emit a wave of shadow.
--   Deals 32 dmg + 3 slam
+  
+_Show your foes your strength.[\[verify 1\]](#cite-note-2)_
 
  |
 | 
 
+35 Ether
+
  | 
 
-Shadow Meteors  
-(★★☆)
+Shadow + Blunt (Spark)[\[note 1\]](#cite-note-damage-notation-1)
 
- | Hail down meteors of darkness. | 65 Ether | Shadow | 3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.
+ | 
 
--   Shares a cooldown with Shadow Seekers.
--   Deals 41.5 per meteor, 125 DMG total
+50 Shadowcast, 15 Strength
 
  |
 | 
 
- | 
+**Effect:** _The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back._
 
-Shade Bringer  
-(★★★)
-
- | Temporarily summon a shadow greatsword for a large slash. | 50 Ether | Shadow + Slash | User creates a large black sword from their hands, using it to slash the enemy in front of them.
-
--   Can be modified with a spring spark, making you lunge forward and slam down on the enemy.
--   Can be modified with a multiplying spark, making you slash three times instead of once.
--   Can't be fainted.
--   You **can** combine spring and multiplying sparks on this Mantra.
--   Deals 40 dmg non modded and with spring spark, 80 dmg with multi, 85 with multi and spring
-
- |
-| 
-
- | 
-
-Eclipse Kick  
-(★★★)
-
- | Show your foes your strength. | 35 Ether | Shadow + Blunt (Spark) | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
-
--   Requires 15 Strength[\[1\]](#cite-note-1) and 50 Shadowcast.
 -   Deals a massive amount of posture and health damage.
+-   Deals 140 dmg, 10 + 110 dmg with Multiplying Spark
 -   The axe kick does not proc Deep Gems, the Multiplying Spark's high kick does
 -   Can also break certain tiles and fell trees.
 -   When maxed out (Lv. 5), has the ability to blockbreak the opponent.
--   Unaffected by [Insignia Gem](Mantra_Modifiers.md#deep-gems).
--   If a [Multiplying Spark](Mantra_Modifiers.md) is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the Mantra again shortly after will cast the default Eclipse Kick. If whiffed, you will have to wait for the full duration of the cooldown to cast again.
--   Deals 140 dmg, 10 + 110 dmg with multiplying spark
+-   Unaffected by Insignia Gem.
+-   If a Multiplying Spark is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the Mantra again shortly after will cast the default Eclipse Kick. If whiffed, you will have to wait for the full duration of the cooldown to cast again.
 
  |
 | 
 
+**Shade Bringer** (★★★)
+
+_Temporarily summon a shadow greatsword for a large slash._
+
  | 
 
-Shadow Vortex  
-(★★★)
+## Shade Bringer (★★★)
 
- | Create a shadow vortex that pulls in everything in its surrounding. | 100 Ether | Blunt | The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too. The Mantra doesn't combat tag and has no vertical range cap.
+  
+_Temporarily summon a shadow greatsword for a large slash._
 
+ |
+| 
+
+50 Ether
+
+ | 
+
+Shadow + Slash
+
+ | 
+
+50 Shadowcast
+
+ |
+| 
+
+**Effect:** _User creates a large black sword from their hands, using it to slash the enemy in front of them._
+
+-   Deals 40 dmg non modded and with Spring Spark, 80 dmg with multi, 85 with multi and spring
+-   Can't be feinted.
+-   Can be modified with a Spring Spark, making you lunge forward and slam down on the enemy.
+-   Can be modified with a Multiplying Spark, making you slash three times instead of once.
+-   You **can** combine Spring and Multiplying Sparks on this Mantra.
+
+ |
+| 
+
+**Shadow Vortex** (★★★)
+
+_Create a shadow vortex that pulls in everything in its surrounding._
+
+ | 
+
+## Shadow Vortex (★★★)
+
+  
+_Create a shadow vortex that pulls in everything in its surrounding._
+
+ |
+| 
+
+100 Ether
+
+ | 
+
+Blunt
+
+ | 
+
+50 Shadowcast
+
+ |
+| 
+
+**Effect:** _The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too._
+
+-   The Mantra doesn't combat tag.
+-   Has no vertical range cap.
 -   You can shoot a Shadow Gun into the vortex after it has grabbed a target. Doing so will cause it to explode, dealing extra damage and stealing a high amount of Ether.
--   Is compatible, and can be modified with [Glass/Magnifying Stones](Mantra_Modifiers.md) to increase the range, though it seems to display diminishing returns.
+-   Is compatible, and can be modified with Glass/Magnifying Stones to increase the range, though it seems to display diminishing returns.
 -   Deals 40 dmg, 115 with shadow gun shot into vortex
--   This mantra has a 25 second cooldown.
+-   This Mantra has a 25 second cooldown.
 
  |
 
-### Support
+### Mobility Mantras
 
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
 | 
+**Name**
+
  | 
 
-Shade Devour  
-(★☆☆)
+**Ether Cost**
 
- | Gorge on your own health
+ | 
 
-for raw strength
+**Damage Type**
 
- | 55 Ether | Shadow | Causes a damaging shockwave that adds a +20% weapon damage buff to the user, consumes health upon use.
+ | 
 
--   The damage buff can be increased to 25% with [Vibrant Gems](Mantra_Modifiers.md)
--   Can be modified with Aeon/Eternal Logstones to increase duration of buff.
--   Spine Cutter cannot be used while Shade Devour is active
--   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to perform a bigger shockwave.
--   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to perform 3 shockwaves instead of 1.
--   These sparks can be combined.
--   Shade devour deals 15 dmg, 25 dmg with blast spark, 50 dmg with multi and 50 dmg with multi and blast spark (if all 3 explosions landed)
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Encircle** (★☆☆)
+
+_Conjure shadows around your enemy before warp-striking to them._
+
+ | 
+
+## Encircle (★☆☆)
+
+  
+_Conjure shadows around your enemy before warp-striking to them._
 
  |
 | 
 
- | 
-
-Devouring Eye  
-(★★☆)
-
- | Summons a fragile eye that consumes the ether of those who try to cast Mantras within its gaze. | 40 Ether | N/A | Creates an Eye that steals the ether of anybody that casts a Mantra within its gaze |
-| 
+90 Ether
 
  | 
 
-Shade Wisp  
-(★★☆)
+Shadow + Slash
 
- | Summon a servant of Shade | 70 Ether | N/A | Cloaks the caster in darkness and reduces their visibility
+ | 
 
--   Grants passive tempo
--   Requires a Ritual Cast
--   Visibility reduction towards the caster is reduced
-
-Currently can bug, not allowing you to complete the ritual cast and requiring you to holster your weapon.
+20 Shadowcast
 
  |
-
-### Mobility
-
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
 | 
- | 
 
-Encircle  
-(★☆☆)
+**Effect:** _The user will summon shadows around their target and teleport to them after a short wait._
 
- | Conjure shadows around your enemy
-
-before warp-striking to them.
-
- | 90 Ether | Shadow + Slash | The user will summon shadows around their target and teleport to them after a short wait.
-
+-   Deals 36 damage
 -   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged
--   Deals 36 DMG
-
- |
-|  | 
-
-Shadow Assault  
-(★★☆)
-
- | A rush of darkness. | 50 Ether | Shadow + Slash + Blunt (spark) | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable.
-
--   Lenses increase distance.
--   Glass and Magnifying Stones make hitbox larger.
--   Can be modified with a blast spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
--   Deals 52 DMG no mod, 3.75 per hit, does 20 hits total, 75 total dmg blast spark.
 
  |
 | 
 
+**Shadow Assault** (★★☆)
+
+_A rush of darkness._
+
  | 
 
-Shade Step  
-(★★☆)
+## Shadow Assault (★★☆)
 
- | Submerge into your shadow. Click to launch an attack at any point while submerged. | 30 Ether | Shadow | Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards.
+  
+_A rush of darkness._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Shadow + Slash + Blunt (spark)[\[note 1\]](#cite-note-damage-notation-1)
+
+ | 
+
+30 Shadowcast
+
+ |
+| 
+
+**Effect:** _Ready yourself before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable._
+
+-   Deals 52 DMG no mod, 3.75 per hit, does 20 hits total, 75 total dmg Blast Spark.
+-   Crystal/Perfect Lenses increase distance.
+-   Glass and Magnifying Stones make hitbox larger.
+-   Can be modified with a Blast Spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
+
+ |
+| 
+
+**Shade Step** (★★☆)
+
+_Submerge into your shadow. Click to launch an attack at any point while submerged._
+
+ | 
+
+## Shade Step (★★☆)
+
+  
+_Submerge into your shadow. Click to launch an attack at any point while submerged._
+
+ |
+| 
+
+30 Ether
+
+ | 
+
+Shadow
+
+ | 
+
+30 Shadowcast
+
+ |
+| 
+
+**Effect:** _Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards._
 
 -   After ~3s (or sooner if player uses left click) you jump out creating a shadow 'Spike' that pierces enemies.
+-   Deals 31 DMG
 -   While submerged you have I-Frames.
 -   You can't block or parry while submerged.
 -   NPCs can spot you underground.
 -   Can't be modified.
--   Deals 31 DMG
+
+ |
+
+### Support Mantras
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Shade Devour** (★☆☆)
+
+_Gorge on your own health for raw strength_
+
+ | 
+
+## Shade Devour (★☆☆)
+
+  
+_Gorge on your own health for raw strength_
+
+ |
+| 
+
+55 Ether
+
+ | 
+
+Shadow
+
+ | 
+
+20 Shadowcast
+
+ |
+| 
+
+**Effect:** _Causes a damaging shockwave that adds a +20% weapon damage buff to the user. Consumes health upon use._
+
+-   Deals 15 dmg, 25 dmg with Blast Spark, 50 dmg with multi and 50 dmg with multi + Blast Spark (if all 3 explosions landed)
+-   The damage buff can be increased to 25% with Vibrant Gems
+-   Can be modified with Aeon/Eternal Logstones to increase duration of buff.
+-   Spine Cutter cannot be used while Shade Devour is active
+-   Can be upgraded with a Blast Spark to perform a bigger shockwave.
+-   Can be upgraded with a Multiplying Spark to perform 3 shockwaves instead of 1.
+-   These sparks can be combined.
+
+ |
+| 
+
+**Devouring Eye** (★★☆)
+
+_Summons a fragile eye that consumes the Ether of those who try to cast Mantras within its gaze._
+
+ | 
+
+## Devouring Eye (★★☆)
+
+  
+_Summons a fragile eye that consumes the Ether of those who try to cast Mantras within its gaze._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+N/A
+
+ | 
+
+30 Shadowcast
+
+ |
+| 
+
+**Effect:** _Creates an Eye that steals the Ether of anybody that casts a Mantra within its gaze._
+
+ |
+| 
+
+**Shade Wisp** (★★☆)
+
+_Summon a servant of Shade_
+
+ | 
+
+## Shade Wisp (★★☆)
+
+  
+_Summon a servant of Shade_
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+N/A
+
+ | 
+
+30 Shadowcast
+
+ |
+| 
+
+**Effect:** _Cloaks the caster in darkness and reduces their visibility._
+
+-   This Mantra is Ritual Casted.
+-   Grants passive tempo regeneration
+-   Visibility reduction towards the caster is reduced
+-   Currently can bug, not allowing you to complete the ritual cast and requiring you to holster your weapon.
 
  |
 
@@ -357,7 +828,7 @@ Shadowcaster
 
  | 
 
-Harnesss the power of Shadow in your mantra crafting.
+Harnesss the power of Shadow in your Mantra crafting.
 
  | 
 
@@ -485,7 +956,7 @@ Sightless Still
 
  | 
 
-The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantras.
+The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow Mantras.
 
  | 
 
@@ -524,7 +995,7 @@ Dark God
 
  | 
 
-If a shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
+If a shadowcast Mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
 
  | 
 
@@ -572,7 +1043,7 @@ Dark Replenishment
 
  | 
 
-Knocking out an enemy in combat restores a portion of your ether.
+Knocking out an enemy in combat restores a portion of your Ether.
 
  | 
 
@@ -620,7 +1091,7 @@ Shadow Overflow
 
  | 
 
-Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+Extra Ether stolen with Mantras are exerted as dark energy, damaging and absorbing Ether from those nearby.
 
  | 
 
@@ -659,7 +1130,7 @@ Energy Siphon
 
  | 
 
-Your singularity now pulls ether from the extra players affected.
+Your singularity now pulls Ether from the extra players affected.
 
  | 
 
@@ -680,7 +1151,7 @@ Wraith Path: Twisted Puppets
 
  | 
 
-Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
+Your Flamecharm Mantras summon puppets of shadow and flame. Your flames are now black.
 
  | 
 
@@ -748,21 +1219,22 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 
 -   In past updates the selection icon for Shadowcast had the same art as [Flamecharm](Flamecharm.md), but was oddly tinted white.
 -   Many factions view the use of Shadowcast as taboo due to the nature of the Attunement.
--   Shadow Vortex is a reference to Planetary Devastation from _Naruto Shippuden_.
--   The spring spark modified version of Shade Bringer is a reference to a similar attack used by Knight Artorias from Dark Souls and the Lions Claw ash of war from Elden Ring
--   Shade Wisp is arguably one of the most controversial Mantras ever added to the game, as its purpose is to hide animations. The reason this was added was, according to its creator yayafino, because he hated "parry bots," though he would later clarify this was him trolling. This came shortly after the appearances of the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) were reworked by co-owner Ragoozer himself due to them hiding animations, which some came to view as a direct betrayal of the ethos of the game's very owners. Not helping this was that, according to tester MrTheBest2, almost every tester was staunchly against Shade Wisp's inclusion; it didn't even get past testing, but it was added to the game.
+-   **Shadow Vortex** is a reference to Planetary Devastation from _Naruto Shippuden_.
+-   The Spring Spark modified version of **Shade Bringer** is a reference to a similar attack used by Knight Artorias from _Dark Souls_ and the Lions Claw Ash of War from _Elden Ring_
+-   **Shade Wisp** is arguably one of the most controversial Mantras ever added to the game, as its purpose is to hide animations. The reason this was added was, according to its creator yayafino, because he hated "parry bots," though he would later clarify this was him trolling. This came shortly after the appearances of the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) were reworked by co-owner Ragoozer himself due to them hiding animations, which some came to view as a direct betrayal of the ethos of the game's very owners. Not helping this was that, according to tester MrTheBest2, almost every tester was staunchly against **Shade Wisp**'s inclusion; it didn't even get past testing, but it was added to the game.
 -   Shadowcast has a Talent which blinds the victim on consecutive shadow stacks, however this blind ironically turns the victim's screen white.
     -   Additionally, several Shadowcast moves charge up with a white light.
         
--   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
-    -   An interesting example of this would be using a blast spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
--   Similarly to every other Wisp mantra, **Shade Wisp** gives the player a finger on the hand that casts the mantra
--   Just like every other attunement, Shadowcast has two legendary weapons: the [Crypt Blade](Crypt_Blade.md) and the [Deepspindle](Deepspindle.md). The first is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast, or obtained from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), whilst the second is a rapier obtained in Layer 1 or Outpost Antumbra from a Ministry Cache event.
--   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart Oath](Oath%253A_Silentheart.md), but only to upgrade Shadowcast mantras without going to Scyphozia.
+-   Shadowcast has many moves that seem to be direct references to abilities in _Rogue Lineage_ and _Tales from the Valley_, and the element seems to have much more general utility than the others.
+    -   An interesting example of this would be using a Blast Spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from _Bleach_).
+-   Similarly to every other Wisp Mantra, **Shade Wisp** gives the player a finger on the hand that casts the Mantra
+-   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart Oath](Oath%253A_Silentheart.md), but only to upgrade Shadowcast Mantras without going to Scyphozia.
 -   Shadowcast appears to be the attunement associated with the [Ministry](The_Ministry.md), although NPCs not associated can be seen using it.
 -   Shadowcast is likely a reference to Re: Zero's [Shadow Magic, or otherwise Yin Magic](https://rezero.fandom.com/wiki/Magic#). This is seen as Shadow Magic is said to have very similar properties, instilling fear, stopping movement, etc.
 -   Shadowcast and [Bloodrend](Bloodrend.md) are the only actual attunements (meaning attunementless is not included) to not have their own respective paths.
 
 ## References
 
-1.  [↑](#cite-ref-1) 2/12/2023 Patch Notes
+1.  ↑ [1.0](#cite-ref-damage-notation-1-0) [1.1](#cite-ref-damage-notation-1-1) [1.2](#cite-ref-damage-notation-1-2) [1.3](#cite-ref-damage-notation-1-3) Uses incorrect damage type notation, i'm not sure how to interpret it.
+
+1.  [↑](#cite-ref-2) Is this actually what the description is? someone check

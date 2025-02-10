@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 135627
+revid: 135905
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Bandanas]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Variant Based, Maestro Evengarde Rest (all of them) |
+| obtainment | Variant Based, Maestro Evengarde Rest (all of them), Saramaed Hollow (all of them) |
 | description | "A stylish (color) headband. Capable of hiding even the most dire of hairlines." |
 
 ## Description

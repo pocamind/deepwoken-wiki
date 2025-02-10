@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 128311
+revid: 135770
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -16,7 +16,7 @@ Guilds are associations created by players, allowing people to represent themsel
 
 Once you are **Power 8**, a guild can be founded for **100 notes** by talking to the Guild Clerk in the Guild House at either Etris, west of the compass tree (big white tree) in the center, at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md). Talking to the Guild Clerk will prompt you with a window that allows you to name your Guild, set its primary color and make an emblem.
 
-Guilds also have a score system with 2 main categories - PVE and PVP. For PVE, you gain guild score for killing certain bosses and enemies. For PVP, you gain guild score by killing other players that aren't in your guild. You also lose PVP score if you die to a player. Your overall score adds up the amount of score in both categories. (All guild members, officers, lieutenants, and the owner can gain and lose guild score for your guild.)
+Guilds also have a score system with 2 main categories - PVE and PVP. For PVE, you gain guild score for killing certain bosses and enemies. For PVP, you gain guild score by killing other players that aren't in your guild. (PvP score gain is doubled on weekends) You also lose PVP score if you die to a player. Your overall score adds up the amount of score in both categories. (All guild members, officers, lieutenants, and the owner can gain and lose guild score for your guild.)
 
 ## Emblem Customization
 

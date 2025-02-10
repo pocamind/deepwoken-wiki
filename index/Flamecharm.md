@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 135556
+revid: 135857
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1729,7 +1729,7 @@ You now emit a delayed burst of flames after coming close to death.
 
  | 
 
-N/A
+Deal a burst of fire damage when Flame of Denial procs.
 
  |
 | 
@@ -1741,11 +1741,11 @@ Undying Flame
 
  | 
 
-Your flame can be casted in the depths. Those that gather around it are soothed and regain sanity.
+Your Graceful Flame burns brightly even underwater. Those that gather around it are soothed and regain sanity.
 
  | 
 
-N/A
+Your Graceful Flame can now be cast in the [First Layer](First_Layer.md), additionally people who stand near it passively regenerate sanity and health.
 
  |
 

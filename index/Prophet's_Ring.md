@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Ring"
-revid: 135583
+revid: 135783
 source: https://deepwoken.fandom.com/wiki/Prophet's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Ministry]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings, The Ministry]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Duke Ishamon Erisia (Very Rare), Second Layer, The Doom of Caeranthil, Ancient Rotlands, Maestro Evengarde Rest, Chime of Conflict, Trading with Jeremiah |
+| obtainment | The Ferryman, Duke Ishamon Erisia (Very Rare), Second Layer, The Doom of Caeranthil, Ancient Rotlands, Interluminary Parasol, Maestro Evengarde Rest, Chime of Conflict, Trading with Jeremiah |
 | description | "Once worn by the fanatical followers of a self-proclaimed Prophet from the Southern Luminant. The Shocks Corps were called in to intervene to prevent catastrophe, but upon their arrival the Prophet was nowhere to be found." |
 
 ## Description

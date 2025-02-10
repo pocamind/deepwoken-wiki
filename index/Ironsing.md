@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 135204
+revid: 135896
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -42,7 +42,6 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Ironsing level 30, players will receive the _Expert Ironsinger_ Talent. This allows players to unlock 2-star Ironsing mantras.
 -   Finally, at Ironsing level 50, players will receive the _Master Ironsinger_ Talent. This finally allows Ironsing users to unlock the last category, 3-star Mantras.
 
-  
 **DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion.
 
 The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) is to visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md), which can drop all the ores necessary or alternatively you can obtain them from the saramaed hollow (needs testing Im not sure if iron and gold are there).
@@ -51,152 +50,376 @@ The easiest way to obtain all ores without visiting [The Depths](The_Depths.md) 
 
 ### Combat Mantras
 
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
 | 
- | Metal Eruption
+**Name**
 
-(☆☆☆)
+ | 
 
- | A flurry of metal spikes. | 45 Ether | Metal + Slash + Bleed | Stomp the ground, causing a flurry of metal spikes to erupt forward.
+**Ether Cost**
 
--   Deals 30 + 9 Bleed DMG at 5 lvl, 0.5s windup and 15s CD
--   By rotating your view, you can reangle the mantra to catch rolls.
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Metal Eruption** (☆☆☆)
+
+_A flurry of metal spikes._
+
+ | 
+
+## Metal Eruption (☆☆☆)
+
+  
+_A flurry of metal spikes._
+
+ |
+| 
+
+45 Ether
+
+ | 
+
+Metal + Slash + Bleed
+
+ | 
+
+1 Ironsing
+
+ |
+| 
+
+**Effect:** _Stomp the ground, causing a flurry of metal spikes to erupt forward._
+
+-   Deals 30 + 9 Bleed DMG at level 5, 0.5s windup and 15s CD
+-   By rotating your view, you can reangle the Mantra to catch rolls.
+-   Deals 14.5 posture damage. Heavily reminiscent of the legacy Frostdraw Mantra, [Ice Eruption](Frostdraw.md#ice-eruption).
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity, which was useful in the past because the eruption was collidable, but it is not anymore.
--   Deals 14.5 posture damage. Heavily reminiscent of the legacy Frostdraw mantra, [Ice Eruption](Frostdraw.md).
 
  |
 | 
 
- | Needle Barrage
+**Needle Barrage** (☆☆☆)
 
-(☆☆☆)
+_A barrage of metal rods._
 
- | A barrage of metal rods. | 30
+ | 
 
-Ether
+## Needle Barrage (☆☆☆)
 
- | Metal + Slash | Jump into the air before throwing out 3 projectiles towards the location of the cursor.
+  
+_A barrage of metal rods._
 
--   Deals 25 DMG at 5 lvl if all 6 needles land
+ |
+| 
+
+30 Ether
+
+ | 
+
+Metal + Slash
+
+ | 
+
+1 Ironsing
+
+ |
+| 
+
+**Effect:** _Jump into the air before throwing out 3 projectiles towards the location of the cursor._
+
+-   Deals 25 DMG at level 5 if all 6 needles land
 -   0.63s Windup, 16s CD
--   6 Needles at 5 lvl.
+-   6 Needles at level 5.
 -   Applies Metal Rods on hit.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra increase amount of needles fired but removing the jump.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the Mantra increase amount of needles fired but removing the jump.
     -   This variant keeps the user's momentum.
-    -   Somewhat similar to Flamecharm's [Fire Gun](Flamecharm.md) mantra.
+    -   Somewhat similar to Flamecharm's [Fire Gun](Flamecharm.md) Mantra.
 
  |
 | 
 
- | Metal Kick
+**Metal Kick** (★☆☆)
 
-(★☆☆)
+_A powerful kick laced with metal._
 
- | A powerful kick laced with metal | 30 Ether | Metal + Bleed | Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit.
+ | 
 
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md) that causes the mantra to perform a faster drop-kick that doesn't apply knockdown.
+## Metal Kick (★☆☆)
+
+  
+_A powerful kick laced with metal._
+
+ |
+| 
+
+30 Ether
+
+ | 
+
+Metal + Bleed
+
+ | 
+
+20 Ironsing
+
+ |
+| 
+
+**Effect:** _Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit._
+
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
 -   Both Versions of Metal kick deals 37.32 DMG + 12 Bleed. 13s CD
--   Spring Spark has wind up of 0.5 sec and non spark 1s
+-   Spring Spark has a wind up of 0.5 sec and non spark a wind-up of 1s
 
  |
 | 
 
- | Metal Rain
+**Metal Rain** (★★☆)
 
-(★★☆)
+_Unleash a rain of metal rods down below._
 
- | Unleash a rain of metal rods down below. | 50 Ether | Metal + Slash | Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly.
+ | 
 
--   Deals 5.5 DMG + 1.5 Bleed at 5 lvl, 3 posture per hit.
+## Metal Rain (★★☆)
+
+  
+_Unleash a rain of metal rods down below._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Metal + Slash
+
+ | 
+
+30 Ironsing
+
+ |
+| 
+
+**Effect:** _Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly._
+
+-   Deals 5.5 DMG + 1.5 Bleed at level 5, 3 posture per hit.
 -   1.5s wind up, 20s CD, 3.3s CD
 -   Total hits around 22-23 times
 -   Applies Metal Rods on hit.
--   Comparable to Thundercall's [Bolt Piercer](Thundercall.md) mantra.
+-   Comparable to Thundercall's [Bolt Piercer](Thundercall.md#bolt-piercer) Mantra.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
 -   Can be modified with **Crystal/Pefect Lenses** to extend its range.
 
  |
 | 
 
- | Caltrops
+**Caltrops** (★★☆)
 
-(★★☆)
+_Sharp metal traps._
 
- | Sharp metal traps. | 50 Ether | Metal + Bleed | Throw out 6 caltrops upon use, which stay on the ground for a while.
+ | 
 
--   Deal 5 DMG + 1.5 Bleed per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
--   Functions similar to Galebreathe's [Gale Trap](Galebreathe.md) mantra.
--   Goes through block (**and your character!**) if cast closely to the target.
--   May be blocked or even parried off the ground.
--   With the [Laced Traps](Talents.md) Talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
--   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
--   Can be modified with **Cloudstones/Stratus Stones**.
--   Applies Metal Rods on every 2 hits. Caltrops that are laying down applying 1 metal rod per caltrop.
--   Adds 1 caltrop per level up of the mantra, up to 8.
+## Caltrops (★★☆)
+
+  
+_Sharp metal traps._
 
  |
 | 
 
- | Firing Line
+50 Ether
 
-(★★☆)
+ | 
 
- | Create a firing line of metal to light up your target. | 40 Ether | Metal + Bleed + Blunt | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
+Metal + Bleed
 
--   Deals 145 dmg at 5 lvl non spark
--   26 DMG per cannon ball + 7.8 Bleed at 5 lvl with Blast spark
+ | 
+
+30 Ironsing
+
+ |
+| 
+
+**Effect:** _Throw out 6 caltrops upon use, which stay on the ground for a while._
+
+-   Deals 5 DMG + 1.5 Bleed per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
+-   Functions similar to Galebreathe's [Galetrap](Galebreathe.md#galetrap) Mantra.
+-   Goes through block (**and your character!**) if cast closely to the target.
+-   May be blocked or even parried off the ground.
+-   With the '**Laced Traps'** Talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
+-   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
+-   Can be modified with **Cloudstones/Stratus Stones**.
+-   Applies Metal Rods on every 2 hits. Caltrops that are laying down applying 1 metal rod per caltrop.
+-   Adds 1 caltrop per level up of the Mantra, up to 8.
+
+ |
+| 
+
+**Firing Line** (★★☆)
+
+_Create a firing line of metal to light up your target._
+
+ | 
+
+## Firing Line (★★☆)
+
+  
+_Create a firing line of metal to light up your target._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Metal + Blunt + Bleed
+
+ | 
+
+30 Ironsing
+
+ |
+| 
+
+**Effect:** _Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried._
+
+-   Deals 145 dmg at level 5 non spark
+-   26 DMG per cannon ball + 7.8 Bleed at level 5 with Blast spark
 -   Both have 0.65s wind up and 15s CD
 -   Apply Metal Rods on hit.
 -   You cannot use other Mantras or M1 while this is active.
 -   Can be modified with Drift and Rush Shards, however, it does not increase the firing speed or projectile speed.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra fire a salvo from two cannons.
+-   Can be modified with a Blast Spark to cause the Mantra fire a salvo from two cannons.
 
  |
 | 
 
- | Oxidizing Rush
+**Oxidizing Rush** (★★☆)
 
-(★★☆)
+_Conjure metal swords and rush forward with them._
 
- | Conjure metal swords and rush forward with them | 50 Ether | Metal + Slash + Bleed | Conjure a vortex of blades before rushing forward, dealing moderate damage.
+ | 
 
--   Rapid-hitting mantra.
--   Deals 8.4 DMG + 2.5 Bleed at 5 lvl, 10 posture total.
+## Oxidizing Rush (★★☆)
+
+  
+_Conjure metal swords and rush forward with them._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Metal + Slash + Bleed
+
+ | 
+
+30 Ironsing
+
+ |
+| 
+
+**Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
+
+-   Rapid-hitting Mantra.
+-   Deals 8.4 DMG + 2.5 Bleed at level 5, 10 posture total.
 -   0.6s windup, 13s CD
 -   Applies Metal Rods on hit.
 
  |
 | 
 
- | Metal Fakeout
+**Metal Fakeout** (★★☆)
 
-(★★☆)
+_Create a metal clone and appear behind your target._
 
- | Create a metal clone and appear behind your target. | 45
+ | 
 
-Ether
+## Metal Fakeout (★★☆)
 
- | Metal + Bleed | Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target.
+  
+_Create a metal clone and appear behind your target._
 
--   Deals 45 DMG + 13.5 Bleed at 5 lvl, 12 posture, 0.7s wind up, 12s CD
+ |
+| 
+
+45 Ether
+
+ | 
+
+Metal + Bleed
+
+ | 
+
+30 Ironsing
+
+ |
+| 
+
+**Effect:** _Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target._
+
+-   Deals 45 DMG + 13.5 Bleed at level 5, 12 posture, 0.7s wind up, 12s CD
 -   Applies Metal Rod on hit.
 
  |
 | 
 
- | Iron Quills
+**Iron Quills** (★★☆)
 
-(★★☆)
+_Conjure metal from within, impaling surrounding entities._
 
- | Conjure metal from within, impaling surrounding entities. | 60
+ | 
 
-Ether
+## Iron Quills (★★☆)
 
- | Metal + Slash + Bleed | Send metal spikes piercing through your body, impaling all nearby targets.
+  
+_Conjure metal from within, impaling surrounding entities._
 
--   Does 33.5 DMG + 10 Bleed at 5 lvl, 0.5s wind up, 10s cd.
+ |
+| 
+
+60 Ether
+
+ | 
+
+Metal + Slash + Bleed
+
+ | 
+
+30 Ironsing
+
+ |
+| 
+
+**Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
+
+-   Does 33.5 DMG + 10 Bleed at level 5, 0.5s wind up, 10s cd.
 -   Doesn't break your momentum, meaning you can run while using it or vice versa.
 -   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it.
     -   The blood particles are always red, even if you have Alloyblood.
@@ -204,40 +427,109 @@ Ether
  |
 | 
 
- | Metal Armament
+**Metal Armament** (★★★)
 
-(★★★)
+_Summon a blade of metal to swing alongside you._
 
- | Summon a blade of metal to swing alongside you. | 40 Ether | Metal + Slash | Coat the character's body and weapon in a fluctuating ironlike iron-bits. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds.
+ | 
 
--   Deals 24 dmg at 5 lvl, posture 4 per hit, 0.35s wind up, lasts 20s, 30s cd
--   Deep gems not proccing (Except Blue)
--   Upgrading the level increases the duration of the mantra.
+## Metal Armament (★★★)
+
+  
+_Summon a blade of metal to swing alongside you._
 
  |
 | 
 
- | Metal Gatling
+40 Ether
 
-(★★★)
+ | 
 
- | A deadly rush of several metallic rods. | 50 Ether | Metal + Slash | A gesture is performed on the right hand, causing a barrage of spikey metal beams to form from all angles and impale any nearby targets from all, dealing high damage.
+Metal + Slash
 
--   Deals 67 dmg at 5 lvl, 1.25s wind up, 14s cd.
+ | 
+
+50 Ironsing
+
+ |
+| 
+
+**Effect:** _Coat the character's body and weapon in iron sparks. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds._
+
+-   Deals 24 dmg at level 5, posture 4 per hit, 0.35s wind up, lasts 20s, 30s cd
+-   Upgrading the level increases the duration of the Mantra.
+-   Deep gems do not proc, except for Blue.
+
+ |
+| 
+
+**Metal Gatling** (★★★)
+
+_A deadly rush of several metallic rods._
+
+ | 
+
+## Metal Gatling (★★★)
+
+  
+_A deadly rush of several metallic rods._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Metal + Slash
+
+ | 
+
+50 Ironsing
+
+ |
+| 
+
+**Effect:** _A gesture is performed on the right hand, causing a barrage of spikey metal beams to form from all angles and impale any nearby targets from all, dealing high damage._
+
+-   Deals 67 dmg at level 5, 1.25s wind up, 14s cd.
 -   Can be parried and blocked.
 -   Applies Metal Rods on hit.
--   Cannot be modified with any mantra modifiers.
+-   Cannot be modified with any Mantra modifiers.
 
  |
 | 
 
- | Iron Slam
+**Iron Slam** (★★★)
 
-(★★★)
+_Conjure a giant rod of metal and slam it down._
 
- | Conjure a giant rod of metal and slam it down. | 40 Ether | Metal + Slash + Bleed | Form a large spikey iron rod before slamming it down forwards.
+ | 
 
--   Deals 58.6 DMG + 17.5 Bleed at 5 lvl, 0.73s windup, 18s cd.
+## Iron Slam (★★★)
+
+  
+_Conjure a giant rod of metal and slam it down._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Metal + Slash + Bleed
+
+ | 
+
+50 Ironsing
+
+ |
+| 
+
+**Effect:** _Form a large spiky iron rod before slamming it down forwards._
+
+-   Deals 58.6 DMG + 17.5 Bleed at level 5, 0.73s windup, 18s cd.
 -   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
 -   Block breaks at level 5.
 -   EXTREMELY BUGGY HITBOX
@@ -245,43 +537,141 @@ Ether
  |
 | 
 
- | Iron Hug
+**Iron Hug** (★★★)
 
-(★★★)
+_Crush your opponents bones with an iron infused grab._
 
- | Crush your opponents bones with an iron infused grab. | 50 Ether | Metal + Slash + Bleed | Perform a short windup before tightly hugging the opponent, dealing damage before sending them away.
+ | 
 
--   Deals 9.6 DMG + 3 Bleed per hit, at end of grab does 16 DMG + 4.8 Bleed, leading to total dmg of 72 at 5 lvl, 10 posture, 1s windup, 11s cd.
--   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
--   With the [Metal Absorption](Talents.md) Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
--   Matador procs against Iron Hug's hyperarmor.
+## Iron Hug (★★★)
+
+  
+_Crush your opponents bones with an iron infused grab._
 
  |
 | 
 
- | Rocket Lance
+50 Ether
 
-(★★★)
+ | 
 
- | Create a lance, impale your opponent, and send them flying. | 35 Ether | Metal + Slash + Bleed | After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way.
+Metal + Slash + Bleed
 
--   Deals 56 DMG + 17 Bleed at 5 lvl, 10 posture, 0.5s windup, 13s cd
--   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md) mantra and Frostdraw's [Ice lance](Frostdraw.md) mantra respectively.
+ | 
+
+50 Ironsing
+
+ |
+| 
+
+**Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
+
+-   Deals 9.6 DMG + 3 Bleed per hit, at end of grab does 16 DMG + 4.8 Bleed, leading to total dmg of 72 at level 5, 10 posture, 1s windup, 11s cd.
+-   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
+-   With the '**Metal Absorption'** Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
+-   The '**Matador'** Talent procs against Iron Hug's hyperarmor.
+
+ |
+| 
+
+**Rocket Lance** (★★★)
+
+_Create a lance, impale your opponent, and send them flying._
+
+ | 
+
+## Rocket Lance (★★★)
+
+  
+_Create a lance, impale your opponent, and send them flying._
+
+ |
+| 
+
+35 Ether
+
+ | 
+
+Metal + Slash + Bleed
+
+ | 
+
+50 Ironsing
+
+ |
+| 
+
+**Effect:** _After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way._
+
+-   Deals 56 DMG + 17 Bleed at level 5, 10 posture, 0.5s windup, 13s cd
+-   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md#gale-lunge) Mantra and Frostdraw's [Ice Lance](Frostdraw.md#ice-lance) Mantra.
 
  |
 
 ### Mobility Mantras
 
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
 | 
- | Metal Rampart
+**Name**
 
-(☆☆☆)
+ | 
 
- | Summon a large metal pillar | 50 Ether | Metal + Blunt + Bleed | Form a pillar from below, causing the character to ascend upwards as the pillar forms.
+**Ether Cost**
 
--   Deals 31 DMG + 10 Bleed at 5 lvl, lasts 9s. 13s CD
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Metal Rampart** (☆☆☆)
+
+_Summon a large metal pillar._
+
+ | 
+
+## Metal Rampart (☆☆☆)
+
+  
+_Summon a large metal pillar._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Metal + Blunt + Bleed
+
+ | 
+
+1 Ironsing
+
+ |
+| 
+
+**Effect:** _Form a pillar from below, causing the character to ascend upwards as the pillar forms._
+
+-   Deals 31 DMG + 10 Bleed at level 5, lasts 9s. 13s CD
 -   1.5s Windup
 -   The height of the pillar will depend on what is above the user.
 -   Can be modified with **Cloudstones/Stratus Stones** to extend its width.
@@ -290,13 +680,36 @@ Ether
  |
 | 
 
- | Metal Ball
+**Metal Ball** (★★☆)
 
-(★★☆)
+_Create a metal ball and rush forward._
 
- | Create a metal ball and rush forward. | 40 Ether | Metal + Slash + Bleed | Encased in a metal ball, rush forward while knocking down any targets in the way.
+ | 
 
--   Deals 28 DMG + 8.4 Bleed at 5 lvl, 10 posture, 0.7s windup, 10.5s cd
+## Metal Ball (★★☆)
+
+  
+_Create a metal ball and rush forward._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Metal + Slash + Bleed
+
+ | 
+
+30 Ironsing
+
+ |
+| 
+
+**Effect:** _Encased in a metal ball, rush forward while knocking down any targets in the way._
+
+-   Deals 28 DMG + 8.4 Bleed at level 5, 10 posture, 0.7s windup, 10.5s cd
 -   Covers around 100 studs of distance.
 -   Applies Metal Rods on hit.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
@@ -306,64 +719,183 @@ Ether
 
 ### Support Mantras
 
-| Media | Name | Card Description | Ether Cost | Damage Type | Effect |
-| --- | --- | --- | --- | --- | --- |
 | 
- | Iron Skin
+**Name**
 
-(★☆☆)
+ | 
 
- | Coat your skin with metal to reduce harm. | 20 Ether | N/A | Taking stance, the character's body is hardened like metal, negating 90% of the damage taken during the entirety of the mantra's duration.
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Chain Pull** (★☆☆)
+
+_Manifest chains to brutally pull enemies towards you._
+
+ | 
+
+## Chain Pull (★☆☆)
+
+  
+_Manifest chains to brutally pull enemies towards you._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Metal + Blunt
+
+ | 
+
+20 Ironsing
+
+ |
+| 
+
+**Effect:** _Conjure a chain of metal from the right hand that pulls in any targets from the cursor._
+
+-   Deals 33.5 DMG at level 5, 5 posture, 0.5s windup, 13s cd.
+-   Will not activate properly on certain mobs (namely [The Ferryman](The_Ferryman.md)), consuming Ether but still dealing small damage and instantly restoring the cooldown, allowing for it to be spammed until you run out of Ether.
+-   Can be modified with Crystal and Perfect Lenses to increase its range.
+-   Can be modified with a Reversal Spark, making it knock enemies away.
+
+ |
+| 
+
+**Iron Skin** (★☆☆)
+
+_Coat your skin with metal to reduce harm._
+
+ | 
+
+## Iron Skin (★☆☆)
+
+  
+_Coat your skin with metal to reduce harm._
+
+ |
+| 
+
+20 Ether
+
+ | 
+
+N/A
+
+ | 
+
+20 Ironsing
+
+ |
+| 
+
+**Effect:** _Taking stance, the player's body is hardened like metal, negating 90% of damage taken during the entirety of the Mantra's duration._
 
 -   During usage, the user is unable to move nor act.
--   With the [Intuitive Repairs](Talents.md) Talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
--   Can be upgraded with **Aeon/Eternal Logstones** for increased duration.
-
-Does not negate deferred, fire or fall damage.
-
- |
-| 
-
- | Chain Pull
-
-(★☆☆)
-
- | Manifest chains to brutally pull enemies towards you. | 50 Ether | Metal + Blunt | Conjure a chain of metal from the right hand that pulls in any targets from the cursor.
-
--   Deals 33.5 DMG at 5 lvl, 5 posture, 0.5s windup, 13s cd.
--   Can be modified with Crystal and Perfect Lenses to increase its range.
--   Can be modified with a reversal spark, making it knock enemies away.
--   Will not activate properly on certain mobs (namely [Ferryman](The_Ferryman.md)), consuming Ether but still dealing small damage and instantly restoring the cooldown, allowing for it to be spammed until you run out of Ether.
+-   With the '**Intuitive Repairs'** Talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the Mantra's duration.
+-   Can be upgraded with Aeon/Eternal Logstones for increased duration.
+-   Does not negate damage from [Deferred](Deferred.md), fire, or fall damage.
 
  |
 | 
 
- | Metal Turret
+**Metal Turret** (★★☆)
 
-(★★☆)
+_An automated turret that fires at targets that that cross its sight._
 
- | An automated turret that fires at targets that that cross its sight. | 100 Ether | Metal | Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight.
+ | 
+
+## Metal Turret (★★☆)
+
+  
+_An automated turret that fires at targets that that cross its sight._
+
+ |
+| 
+
+100 Ether
+
+ | 
+
+Metal
+
+ | 
+
+30 Ironsing
+
+ |
+| 
+
+**Effect:** _Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight._
 
 -   Deals 21 DMG per hit, 0.85s windup to cast.
 -   0.55s windup between shots, lasts 20s
 -   Each shot applies a Metal Rod on hit
 -   CD is 30s
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to conjure two turrets instead of one
 -   Requires a ritual cast with one key.
--   Can be modified with **Aeon/Eternal Logstones** to increase duration.
--   Can be modified with **Drift/Rush Shards** to make turret spin faster.
+-   Can be modified with Aeon/Eternal Logstones to increase duration.
+-   Can be modified with Drift/Rush Shards to make turret spin faster.
+-   Can be modified with a Multiplying Spark to conjure two turrets instead of one
 
  |
 | 
 
+**Metal Wisp** (★★☆)
+
+_A servant of metal._
+
  | 
 
-Metal Wisp  
-(★★☆)
+## Metal Wisp (★★☆)
 
- | A servant of metal | 70 Ether | N/A | Conjure a metal wisp that regenerates armor durability.
+  
+_A servant of metal._
 
--   Regenerates 10% FIXED % of armor at 5 lvl.
+ |
+| 
+
+70 Ether
+
+ | 
+
+N/A
+
+ | 
+
+30 Ironsing
+
+ |
+| 
+
+**Effect:** _Conjure a metal wisp that regenerates armor durability._
+
+-   Regenerates 10% FIXED % of armor at level 5.
 -   Applies Metal Rods on vents.
 -   Requires a ritual cast.
 -   Armor Regeneration is scaled with level.
@@ -489,7 +1021,7 @@ People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
 
  | 
 
-People hit by your 'Caltrops' mantra cannot jump and are slowed for a small duration.
+People hit by your 'Caltrops' Mantra cannot jump and are slowed for a small duration.
 
  |
 | 
@@ -663,7 +1195,7 @@ Your 'Iron Hug' also absorbs armor from the enemy.
 
  | 
 
-Landing the Iron Hug mantra will absorb armor from the enemy.
+Landing the Iron Hug Mantra will absorb armor from the enemy.
 
  |
 | 
@@ -675,11 +1207,11 @@ Metal Eater
 
  | 
 
-When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
+When you have no Ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
 
  | 
 
-You can sacrifice some of your armor durability to cast mantras when you're out of ether.
+You can sacrifice some of your armor durability to cast mantras when you're out of Ether.
 
  |
 | 
@@ -730,7 +1262,7 @@ Rending Needle: Conductor
 
  | 
 
-5 metal rods will combine into a conductor rod. If the enemy uses an non-Ironsing elemental mantra, they're dealt their elemental back in turn.
+5 metal rods will combine into a conductor rod. If the enemy uses an non-Ironsing elemental Mantra, they're dealt their elemental back in turn.
 
  | 
 
@@ -886,24 +1418,21 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   On release, Ironsing had 12 mantras and 11 Talents, making it the most content lacking Attunement during its release.
 -   Ironsing is the only Attunement to have five 3-star Mantras.
 -   **Needle Barrage** is practically identical to Autumn Rain from Monad Studios' **Rogue Lineage**.
--   **Firing Line** could be a reference to [Oda Nobunaga](https://fategrandorder.fandom.com/wiki/Oda_Nobunaga) from the **Fate/Series**, in which her signature move being shooting a line of matchlock rifles towards her enemy.
-    -   It could also be a toned down version of an attack used by [Gremmy Thoumeaux](https://bleach.fandom.com/wiki/Gremmy_Thoumeaux) from the **Bleach** Series, where he summons an arsenal of guns behind him and shoots at an enemy.
-
--   **Metal Gatling** could be a reference to [Katakuri's](https://onepiece.fandom.com/wiki/Charlotte_Katakuri) move called "Mochi Gatling" from the anime "**One Piece**".
+-   **Firing Line** could be a reference to [Oda Nobunaga](https://fategrandorder.fandom.com/wiki/Oda_Nobunaga) from the _Fate/Series_, in which her signature move being shooting a line of matchlock rifles towards her enemy.
+    -   It could also be a toned down version of an attack used by [Gremmy Thoumeaux](https://bleach.fandom.com/wiki/Gremmy_Thoumeaux) from the _Bleach_ Series, where he summons an arsenal of guns behind him and shoots at an enemy.
+-   **Metal Gatling** could be a reference to [Katakuri's](https://onepiece.fandom.com/wiki/Charlotte_Katakuri) move called "Mochi Gatling" from the anime _One Piece_.
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon, with the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
 -   Ironsing is one of two Attunements that does not have a [Hero Blade](Hero_Blades.md), with the only other being [Bloodrend](Bloodrend.md).
-    -   Given the lore of Ironsing, Ironsing's Hero Blade would most probably be the most boring of them all. (or not)
-
--   Alloyblood turns your [Bloodrend](Bloodrend.md) mantras Gray.
+-   Alloyblood turns your [Bloodrend](Bloodrend.md) mantras blue-ish grey.
 -   Ironsing is called 'Element' in the game's code.
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an Oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
     -   Gold gives a 10% damage buff and a gold particle effect. DMG buff applies only to m1, not to any of mantras (Lasts 25 sec)
     -   Using Irithine gives a green particle effect. Effects unknown.
--   Similarly to every other Wisp mantra, **Metal Wisp** gives the player a finger on the hand that casts the mantra.
+-   Similarly to every other Wisp Mantra, **Metal Wisp** gives the player a finger on the hand that casts the Mantra.
 -   Ferrofluid, the item required to train Ironsing, is an actual real-life fluid attracted to magnetic forces, created by suspending iron or other magnetically-affected particles in a solution, usually oil.
 -   Caltrops in real life are small, spiked weapons originally used as early as the Roman times to be used against men and horses. Later versions of Caltrops were used in the second world war to deflate tires of automobiles.
 -   The icons for Ironsing Talents formerly featured the symbol for Frostdraw. It was replaced with a unique icon during the 30th of August, 2024 update, 466 days after the attunement's release.
--   The support mantra: "Iron Skin", especially in Scrapsinger variant might or might not be a reference to "The Indestructible Virgin" from Scissor Seven. [\[1\]](#cite-note-1)
+-   The support Mantra **Iron Skin**, especially the Scrapsinger variant, might or might not be a reference to "The Indestructible Virgin" from Scissor Seven. [\[1\]](#cite-note-1)
 
 K1LLUA announcing the Ironsing path: Scrapsing in #polls, asking for either Trick or Treat.
 

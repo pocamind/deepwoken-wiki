@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 135629
+revid: 135866
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -20,7 +20,7 @@ The Interluminary Parasol (also referred to as Jellyfish/Big Jellyfish) is a gia
 
 According to the item description of it's exclusive drop, the Parasol emerges from the Depths, it's sole purpose being to spread the Depth's influence by bringing it's mobs up to the surface, disrupting the ecosystems on the surface.
 
-This boss is one of the [World Events](World_Events.md), potentially spawning once every real world hour.
+This boss is one of the [World Events](World_Events.md), spawning every odd hour of the day in the Eastern Luminant.
 
 Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md) progression and [Attribute](Attributes.md) XP upon defeat.
 
@@ -66,18 +66,24 @@ Exhaustive Loot Table
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Cerulean_Gown.md">Cerulean Gown</a> (Expert Outfit), <a href="Seamstress's_Attire.md">Seamstress's Attire</a> (Expert Outfit), <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a> (Expert Outfit), <a href="Vigil_Sentinel.md">Vigil Sentinel</a> (Master Outfit).</td>
+  <td>
+  <ul>
+    <li><b>Expert</b>: <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a></li>
+    <li><b>Master</b>: <a href="Vigil_Sentinel.md">Vigil Sentinel</a></li>
+  </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
     <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:</li>
+    <li>Some <a href="Relics.md">Relics</a>:
+  <ul>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
     <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li><a href="Void_Spire.md">Void Spire</a></li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>
@@ -88,8 +94,8 @@ Exhaustive Loot Table
     <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
-    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
-    <li><b>Medium Weapons</b>: <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>.</li>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>.</li>
     <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Kanabo.md">Kanabo</a>.</li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>.</li>
@@ -99,7 +105,7 @@ Exhaustive Loot Table
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>:
+    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>:
   <ol>
     <li><b>Unique Head</b>: <a href="Parasol_Planter.md"><font>Parasol Planter</font></a>.</li>
     <li><b>Generic Head</b>: <a href="Grand_Authority_Sallet.md">Bulwark Helm</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>.</li>
@@ -107,20 +113,13 @@ Exhaustive Loot Table
     <li><b><a href="Equipment.md#arms"><font>Arms Equipment</font></a></b>:
   <ol>
     <li><b>Unique Arms</b>: <a href="Summer_Scarf.md"><font>Summer Scarf</font></a> (All Variants).</li>
-    <li><b>Generic Arms</b>: <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, Parka (White), <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>.</li>
+    <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, Parka (White), <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>:
-  <ol>
-    <li><b>Generic Legs</b>: <a href="Star_Boots.md">Star Boots</a>.</li>
-  </ol></li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipments</font></a></b>: <a href="Dark_Owl_Cape.md">Dark Owl Cape</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a>.</li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>:<a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (Red), <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants?), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Iron_Mask.md">Iron Mask</a>.</li>
-    <li><b><a href="Equipment.md#ears"><font>Ear Equipments</font></a></b>: <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a>.</li>
-    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
-  <ol>
-    <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Essentially all Legendary Rings.</li>
-    <li><b>Generic Rings</b>: N/A</li>
-  </ol></li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: <a href="Star_Boots.md">Star Boots</a>.</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Dark_Owl_Cape.md">Dark Owl Cape</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a>.</li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (Red), <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Iron_Mask.md">Iron Mask</a>.</li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a>.</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Essentially all Legendary Rings.</li>
   </ul></td>
 </tr>
 </tbody>

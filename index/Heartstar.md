@@ -1,6 +1,6 @@
 ---
 title: Heartstar
-revid: 135710
+revid: 135777
 source: https://deepwoken.fandom.com/wiki/Heartstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -27,6 +27,8 @@ categories: [Items, Elemental Ingredients]
 Heartstar is an [Attunement](Attunements.md) item with the primarily used to unlock the [Bloodrend](Bloodrend.md) attunement. Secondary uses include being a consumable, and to spawn [Primadon](Primadon,_Titan_of_the_East.md).
 
 By giving 3 Heartstars to [Vyrelda](Vyrelda,_Master_of_Blood.md) located in [Firfire](Firfire.md), you will obtain the [Bloodrend](Bloodrend.md) attunement.
+
+[Vyrelda](Vyrelda,_Master_of_Blood.md) can also be found in the [Derelict Highchurch](Derelict_Highchurch.md), and she can be given Heartstars there too.
 
 ## Obtainment
 

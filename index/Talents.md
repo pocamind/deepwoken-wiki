@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 135593
+revid: 135871
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -646,10 +646,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
+    -   Deals 0.11 damage whenever it procs.
+    -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
     -   Will apply combat tag against opponents.
-    -   Deals a very very small damage (like 1 damage) whenever it procs.
     -   Effect Lasts 15s (7.5s against Disbelief Talent)
-    -   Proc Cooldown: 0.25s
+    -   Has no proc cooldown. Will reapply Choatic Charm every time you get hit.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you, additionally any charmed allies will get up twice as fast after getting knocked out.
@@ -887,9 +888,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Frozen Web \[Common Talent, Dual attunement\] - Landing a critical with a Static Link on your opponent applies Chilled.
     -   Applies chill for 7 seconds.
-    -   Applies 1 Crystal per hit of the critical if you have Crystallization path.
     -   Applies bottom freeze.
     -   Applies fragile freeze if the critical guardbreaks.
+    -   When using Crystallization Path, it'll spawn the VFX and play the sound effects for creating crystals, but won't actually inflict any.
     -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
 
 ### Duelist
@@ -2927,8 +2928,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   When Flame of Denial activates, release an explosion around you.
     -   Prerequisite: 40 Willpower, 40 Flamecharm, Flame of Denial
 
--   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths.
-    -   Graceful Flame can now be casted in the depths. Graceful Flame passively restores sanity and health to those around it.
+-   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your Graceful Flame burns brightly even underwater. Those that gather around it are soothed and regain sanity.
+    -   Graceful Flame can now be casted in the [First Layer](First_Layer.md). Graceful Flame passively restores sanity and health to those around it.
     -   Merged with the old Soundness of Mind Talent.
     -   Prerequisites: 40 Willpower, 40 Flamecharm, Graceful Flame
 

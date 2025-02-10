@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 134413
+revid: 135864
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -23,6 +23,10 @@ The concrete, in-game method of determining if an Enemy/Monster is a **Boss** is
 -   Grants [Knowledge](Knowledge.md) upon defeat.
 -   Grants [Pluripotent Alloy](Pluripotent_Alloy.md) upon defeat.
 -   Grants [Ardour Manifestation](Ardour_Manifestation.md) upon defeat.
+
+## World Bosses
+
+Exceptionally strong enemies that may require multiple people to take down. World Bosses usually have a set spawn, and reward players with 1 or 2 Knowledge, Resonance progression, and a load of Experience on defeat.
 
 ## Mini-Bosses
 

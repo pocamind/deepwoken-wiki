@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 135664
+revid: 135902
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons]
@@ -33,7 +33,7 @@ The weapon can be acquired by retrieving three tomes from the following:
 
 1.  [Volu](Volu.md), who is leaned against the wall in [Outpost Antumbra](Outpost_Antumbra.md)'s basement.
 2.  As a drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
-3.  As a drop from the [Ministry Agent](Ministry_Agent.md).
+3.  As a drop from [The Understrand](The_Understrand.md).
 
 When all three have been retrieved, they can be placed on the case that is right next to Volu, thus putting the Bloodfouler into your hands.
 
@@ -44,6 +44,8 @@ It can also be obtained as a direct drop from Chaser, as well as [The Diluvian M
 For the **standing** critical, the user moves forward in the direction they are facing doing a 360° sweep.
 
 While running when performing the critical, you will move forward at the same speed of when you were running.
+
+**As of release**, both criticals apply 25% blood poisoning.
 
 ## Trivia
 
