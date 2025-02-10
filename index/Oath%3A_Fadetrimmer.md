@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 135237
+revid: 135954
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -84,6 +84,6 @@ This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
     -   Likewise, Flammable Hair Product is a fairly slow option to apply fire that does no damage by itself- using [Flamecharm](Flamecharm.md) mantras applies fire while dealing actual damage at the same time. Flammable can proc Lava Serpent, if that's any bonus...
 -   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
 -   The color of the scissors on your hips can be changed with a dye packet.
--   Breaking this Oath by talking to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) makes your scissors say: "Pfft.. this guy doesnt have dat low taper fade..."
+-   Breaking this Oath by talking to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) makes your scissors say: "Whatever man."
 -   Precision Cuts is likely a reference to Gwen's Q ability from League of Legends.
 -   Although seen as a joke Oath, it has a few uses in PVE (Ex: Using Flammable Spray as a placeholder for [Flamecharm](Flamecharm.md)'s burn effects and the Mercy Kill Talent).

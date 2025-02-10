@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 135946
+revid: 135959
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons]
@@ -49,3 +49,4 @@ While running when performing the critical, you will move forward at the same sp
 
 -   The sheathe depicts symbols of [The Ministry](The_Ministry.md), alongside an emblem resembling the symbol for [Notes](Notes.md), the [Moonseye](Moonseye.md), and another pattern.
 -   Does not work with the Poser’s Ring.
+-   It does not change appearance with Alloyblood.

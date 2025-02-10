@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 135189
+revid: 135960
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -74,41 +74,6 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 
-
-**Wind Blade** (☆☆☆)
-
-_Slicing blades of wind._
-
- | 
-
-## Wind Blade (☆☆☆)
-
-  
-_Slicing blades of wind._
-
- |
-| 
-
-40 Ether
-
- | 
-
-Wind
-
- | 
-
-1 Galebreathe
-
- |
-| 
-
-**Effect:** Launch a wind projectile at cursor's position.
-
--   Deals light damage.
--   Can be improved with the "**Tempest Wind**" Talent_._
-
- |
 | 
 
 **Air Force** (☆☆☆)
@@ -189,16 +154,16 @@ Wind
  |
 | 
 
-**Gale Lunge** (★☆☆)
+**Wind Blade** (☆☆☆)
 
-_A rush of piercing wind._
+_Slicing blades of wind._
 
  | 
 
-## Gale Lunge (★☆☆)
+## Wind Blade (☆☆☆)
 
   
-_A rush of piercing wind._
+_Slicing blades of wind._
 
  |
 | 
@@ -207,59 +172,19 @@ _A rush of piercing wind._
 
  | 
 
-Wind + Slash
-
- | 
-
-20 Galebreathe
-
- |
-| 
-
-**Effect:** Lunge forward with your weapon coated in wind.
-
--   Deals moderate damage.
--   Can be used as mobility to push the user forward.
--   Has a relatively large hitbox.
-
- |
-| 
-
-**Tornado** (★☆☆)
-
-_A rushing current of wind._
-
- | 
-
-## Tornado (★☆☆)
-
-  
-_A rushing current of wind._
-
- |
-| 
-
-15 Ether
-
- | 
-
 Wind
 
  | 
 
-20 Galebreathe
+1 Galebreathe
 
  |
 | 
 
-**Effect:** Conjure a small vortex around yourself, M1 to cast it forward.
+**Effect:** Launch a wind projectile at cursor's position.
 
--   Can be modified with logstones to increase duration, but caps at 1 or 2.
--   Moves forward on its own after 2 seconds.
--   Deals high damage but over multiple hits.
--   Projectile is short-ranged.
--   Has a special interaction with Haunted Gale. Haunted gale caps at 2 strikes per mantra, but when Tornado moves, the cap resets, allowing another 2 strikes.
--   Pulls people in if close to it (kinda buggy)
+-   Deals light damage.
+-   Can be improved with the "**Tempest Wind**" Talent_._
 
  |
 | 
@@ -305,6 +230,79 @@ Wind + Slash
  |
 | 
 
+**Gale Lunge** (★☆☆)
+
+_A rush of piercing wind._
+
+ | 
+
+## Gale Lunge (★☆☆)
+
+  
+_A rush of piercing wind._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+20 Galebreathe
+
+ |
+| 
+
+**Effect:** Lunge forward with your weapon coated in wind.
+
+-   Deals moderate damage.
+-   Can be used as mobility to push the user forward.
+-   Has a relatively large hitbox.
+
+ |
+| 
+
+**Gale Punch** (★☆☆)
+
+_Form a punch of wind in your fist and release it._
+
+ | 
+
+## Gale Punch (★☆☆)
+
+  
+_Form a punch of wind in your fist and release it._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+20 Galebreathe
+
+ |
+| 
+
+**Effect:** Conjure a wind AoE punch that deals damage and knocks targets away.
+
+-   Deals Hitstun.
+-   Can break objects.
+-   Can be modified with _Cloud/Stratus Stones_ and _Perfect/Crystal Lenses_ to increase size.
+-   Can be upgraded with the "_Vacuum Punch"_ Talent.
+
+ |
+| 
+
 **Galetrap** (★☆☆)
 
 _Toss a wind landmine._
@@ -342,25 +340,25 @@ Wind
  |
 | 
 
-**Gale Punch** (★☆☆)
+**Tornado** (★☆☆)
 
-_Form a punch of wind in your fist and release it._
+_A rushing current of wind._
 
  | 
 
-## Gale Punch (★☆☆)
+## Tornado (★☆☆)
 
   
-_Form a punch of wind in your fist and release it._
+_A rushing current of wind._
 
  |
 | 
 
-60 Ether
+15 Ether
 
  | 
 
-Wind + Slash
+Wind
 
  | 
 
@@ -369,50 +367,14 @@ Wind + Slash
  |
 | 
 
-**Effect:** Conjure a wind AoE punch that deals damage and knocks targets away.
+**Effect:** Conjure a small vortex around yourself, M1 to cast it forward.
 
--   Can be modified with _Cloudstones_, _Stratus stones_, _Perfect Lenses_ and _Crystal lenses_ to increase size.
--   Can break objects.
--   Can be upgraded with the "_Vacuum Punch"_ Talent.
--   Has Hitstun.
-
- |
-| 
-
-**Wind Forge** (★☆☆)
-
-_Encircle your foes with blades of wind that halt their escape until they respond._
-
- | 
-
-## Wind Forge (★☆☆)
-
-  
-_Encircle your foes with blades of wind that halt their escape until they respond._
-
- |
-| 
-
-60 Ether
-
- | 
-
-Wind + Slash
-
- | 
-
-20 Galebreathe
-
- |
-| 
-
-**Effect:** Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
-
--   Projectiles are homing.
--   Medium-far range.
--   Forces you to stand still when casted.
--   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to increase the range.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md), making the blades shoot out from different directions.
+-   Can be modified with logstones to increase duration, but caps at 1 or 2.
+-   Moves forward on its own after 2 seconds.
+-   Deals high damage but over multiple hits.
+-   Projectile is short-ranged.
+-   Has a special interaction with Haunted Gale. Haunted gale caps at 2 strikes per mantra, but when Tornado moves, the cap resets, allowing another 2 strikes.
+-   Pulls people in if close to it (kinda buggy)
 
  |
 | 
@@ -484,6 +446,44 @@ Wind + Slash
 -   Deals high damage if all hits land.
 -   Sends opponents flying into the air.
 -   Deals 21 posture damage.
+
+ |
+| 
+
+**Wind Forge** (★☆☆)
+
+_Encircle your foes with blades of wind that halt their escape until they respond._
+
+ | 
+
+## Wind Forge (★☆☆)
+
+  
+_Encircle your foes with blades of wind that halt their escape until they respond._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+20 Galebreathe
+
+ |
+| 
+
+**Effect:** Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
+
+-   Projectiles are homing.
+-   Medium-far range.
+-   Forces you to stand still when casted.
+-   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to increase the range.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md), making the blades shoot out from different directions.
 
  |
 | 
@@ -573,44 +573,6 @@ Wind + Blunt
  |
 | 
 
-**Wind Gun** (★★☆)
-
-_A powerful wind blast._
-
- | 
-
-## Wind Gun (★★☆)
-
-  
-_A powerful wind blast._
-
- |
-| 
-
-40 Ether
-
- | 
-
-Wind
-
- | 
-
-30 Galebreathe
-
- |
-| 
-
-**Effect:** Fire a penetrating bullet of wind.
-
--   Deals heavy damage, pushes and ragdolls opponent; however applies no hit stun.
--   Applies the _"Suffocate"_ status effect.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) in order to shoot multiple bullets at once.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot a round of short ranged bullets.
--   Both Sparks can be combined, making three consecutive short-range bullet rounds. Additionally you can apply two of one spark.
-
- |
-| 
-
 **Wind Carve** (★★☆)
 
 _A quick swirl of sharp winds._
@@ -646,6 +608,44 @@ Wind + Slash
 -   Pushes opponents hit by the final slash away.
 -   Cannot be canceled once the mantra initiates.
     -   So it's advised to avoid it being parried by turning away since it'll result in free hits for your opponent.
+
+ |
+| 
+
+**Wind Gun** (★★☆)
+
+_A powerful wind blast._
+
+ | 
+
+## Wind Gun (★★☆)
+
+  
+_A powerful wind blast._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Wind
+
+ | 
+
+30 Galebreathe
+
+ |
+| 
+
+**Effect:** Fire a penetrating bullet of wind.
+
+-   Deals heavy damage, pushes and ragdolls opponent; however applies no hit stun.
+-   Applies the _"Suffocate"_ status effect.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) in order to shoot multiple bullets at once.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot a round of short ranged bullets.
+-   Both Sparks can be combined, making three consecutive short-range bullet rounds. Additionally you can apply two of one spark.
 
  |
 | 

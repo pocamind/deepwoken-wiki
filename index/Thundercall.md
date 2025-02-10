@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 135555
+revid: 135957
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -76,45 +76,6 @@ The Attunement can be unlocked by using a [Sparkblood Potion](Attunement_Potions
 | --- | --- | --- | --- | --- | --- | --- |
 | 
 
-**Lightning Blade** (☆☆☆)
-
-_Arcing blades of electricity._
-
- | 
-
-## Lightning Blade (☆☆☆)
-
-  
-_Arcing blades of electricity._
-
- |
-| 
-
-50 Ether
-
- | 
-
-Lightning + Slash
-
- | 
-
-1 Thundercall
-
- |
-| 
-
-**Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
-
--   Deals moderate damage.
--   10 Second Cooldown.
--   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
--   Can grant an optional effect with the "**Stormcaller Slash**" Talent, which lets the user perform a short wind-up slash at the end of the mantra casted by pressing the \[F\] key.
-    -   Can be stacked with the **Magnet Spark** variant of the mantra to perform 4 slashes in total.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform a **third** short-ranged teleporting slash.
-
- |
-| 
-
 **Jolt Grab** (☆☆☆)
 
 _An electrified chokehold._
@@ -151,6 +112,45 @@ Lightning
     -   This replaces the lunging hitbox with an AoE one, in which the latter contains a blindspot located behind the user.
     -   Can be additionally modified with **Crystal/Perfect Lenses** to increase the range of the AoE hitbox.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
+
+ |
+| 
+
+**Lightning Blade** (☆☆☆)
+
+_Arcing blades of electricity._
+
+ | 
+
+## Lightning Blade (☆☆☆)
+
+  
+_Arcing blades of electricity._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Lightning + Slash
+
+ | 
+
+1 Thundercall
+
+ |
+| 
+
+**Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
+
+-   Deals moderate damage.
+-   10 Second Cooldown.
+-   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
+-   Can grant an optional effect with the "**Stormcaller Slash**" Talent, which lets the user perform a short wind-up slash at the end of the mantra casted by pressing the \[F\] key.
+    -   Can be stacked with the **Magnet Spark** variant of the mantra to perform 4 slashes in total.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform a **third** short-ranged teleporting slash.
 
  |
 | 
@@ -271,6 +271,47 @@ Lightning + Slash
  |
 | 
 
+**Lightning Clones** (★☆☆)
+
+_Replicated forms of yourself conjured from electricity._
+
+ | 
+
+## Lightning Clones (★☆☆)
+
+  
+_Replicated forms of yourself conjured from electricity._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+20 Thundercall
+
+ |
+| 
+
+**Effect:** _Perform a short wind-up before snapping fingers to summon a clone of lightning beside the user, the clone proceeds to attack a nearby target once before disappearing._
+
+-   Deals light damage.
+-   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
+-   15 Second Cooldown.
+-   Can grant a different effect with the "**Static Flash Clone**" Talent, which causes the mantra to summon a clone briefly as an afterimage before disappearing, granting the user a small speed boost and making them invisible for a short period of time before resurfacing from invisibility.
+    -   When used with the **Blast Spark** mantra variant, the clone conjures a **Lightning Strike** when it disappears.
+-   Modifying the mantra with **Aeon/Eternal Logstones** does not produce more clones.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the clone to detonate and shock upon hitting a target/death.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to summon an additional clone.
+
+ |
+| 
+
 **Lightning Impact** (★☆☆)
 
 _Slam those under you with a lightning empowered kick._
@@ -309,47 +350,6 @@ Lightning
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md), making you move forward a little before slamming down.
 -   Guard breaks even at Lv. 1
 -   Can be easily used to glitch through thin or less than moderate sized walls.
-
- |
-| 
-
-**Lightning Clones** (★☆☆)
-
-_Replicated forms of yourself conjured from electricity._
-
- | 
-
-## Lightning Clones (★☆☆)
-
-  
-_Replicated forms of yourself conjured from electricity._
-
- |
-| 
-
-60 Ether
-
- | 
-
-Lightning
-
- | 
-
-20 Thundercall
-
- |
-| 
-
-**Effect:** _Perform a short wind-up before snapping fingers to summon a clone of lightning beside the user, the clone proceeds to attack a nearby target once before disappearing._
-
--   Deals light damage.
--   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
--   15 Second Cooldown.
--   Can grant a different effect with the "**Static Flash Clone**" Talent, which causes the mantra to summon a clone briefly as an afterimage before disappearing, granting the user a small speed boost and making them invisible for a short period of time before resurfacing from invisibility.
-    -   When used with the **Blast Spark** mantra variant, the clone conjures a **Lightning Strike** when it disappears.
--   Modifying the mantra with **Aeon/Eternal Logstones** does not produce more clones.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the clone to detonate and shock upon hitting a target/death.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to summon an additional clone.
 
  |
 | 
@@ -435,21 +435,21 @@ Lightning + Blunt
  |
 | 
 
-**Storm Blades** (★★☆)
+**Bolt Piercer** (★★☆)
 
-_Conjure weapons of thunder with your ether._
+_An arrow of lightning._
 
  | 
 
-## Storm Blades (★★☆)
+## Bolt Piercer (★★☆)
 
   
-_Conjure weapons of thunder with your ether._
+_An arrow of lightning._
 
  |
 | 
 
-45 Ether
+50 Ether
 
  | 
 
@@ -462,14 +462,14 @@ Lightning
  |
 | 
 
-**Effect:** _Conjure a ring of lightning blades, dealing light AoE damage._
+**Effect:** _Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location._
 
--   12 Second Cooldown
--   Has a short delay before dealing damage.
--   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile.
--   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touches its walls.
-    -   **This increases its cooldown from 12 seconds to 20 seconds.**
-    -   Good for isolating a target for a 1v1 situation.
+-   Deals high damage.
+    -   At Level 1, it can deplete more than half a healthbar from a freshie.
+-   \[\] Second Cooldown
+-   Similar to Lightning Strike, the user can also damage themselves with this mantra.
+-   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
+-   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
 
  |
 | 
@@ -513,21 +513,21 @@ Lightning
  |
 | 
 
-**Bolt Piercer** (★★☆)
+**Storm Blades** (★★☆)
 
-_An arrow of lightning._
+_Conjure weapons of thunder with your ether._
 
  | 
 
-## Bolt Piercer (★★☆)
+## Storm Blades (★★☆)
 
   
-_An arrow of lightning._
+_Conjure weapons of thunder with your ether._
 
  |
 | 
 
-50 Ether
+45 Ether
 
  | 
 
@@ -540,14 +540,14 @@ Lightning
  |
 | 
 
-**Effect:** _Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location._
+**Effect:** _Conjure a ring of lightning blades, dealing light AoE damage._
 
--   Deals high damage.
-    -   At Level 1, it can deplete more than half a healthbar from a freshie.
--   \[\] Second Cooldown
--   Similar to Lightning Strike, the user can also damage themselves with this mantra.
--   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
--   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
+-   12 Second Cooldown
+-   Has a short delay before dealing damage.
+-   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile.
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touches its walls.
+    -   **This increases its cooldown from 12 seconds to 20 seconds.**
+    -   Good for isolating a target for a 1v1 situation.
 
  |
 | 

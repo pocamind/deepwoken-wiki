@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 134516
+revid: 135956
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -19,7 +19,7 @@ These are recipes that are not used to produce food or potions.
 ### _Non-Station Recipes_
 
 -   **Wood** - _3 Sticks_
--   **ore (3x)** - 1x Pure ore
+-   **Ore (3x)** - 1x Pure ore
 -   **Sticks (3x)** - _1 Wood_
 -   [Campfire](Campfire_Pit.md) - _3 Sticks or 1 Wood_
 -   **Fiber** - _2 Bamboo or 1 Spider Egg_
@@ -34,6 +34,7 @@ These are recipes that are not used to produce food or potions.
 -   [Armorer's Needle](<Armorer's_Needle.md>) - _5_ [_Smith's Alloys_](<Smith's_Alloy.md>)
 -   [Forge Needle](Forge_Needle.md) - _1 [Armorer's Needle](<Armorer's_Needle.md>), 5 [Smith's Alloys](<Smith's_Alloy.md>) or 1 [Gilded Needle](Gilded_Needle.md), 1 [Smith's Alloy](<Smith's_Alloy.md>)_
 -   [Gilded Needle](Gilded_Needle.md) - _5 [Armorer's Needles](<Armorer's_Needle.md>), 1 [Gold](Ores.md)_
+-   [Shadow's Flight](<Shadow's_Flight.md>) - 2 [Void Feathers](Dark_Feather.md) and an [Umbral Obsidian](Umbral_Obsidian.md).
 
 Picture of a Crafting Bench
 

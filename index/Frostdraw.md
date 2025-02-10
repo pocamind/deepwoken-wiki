@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 135935
+revid: 135963
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -78,21 +78,21 @@ The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions
 | --- | --- | --- | --- | --- | --- | --- |
 | 
 
-**Ice Spikes** (☆☆☆)
+**Frozen Servants** (☆☆☆)
 
-_Piercing spikes of ice._
+_A legion of frost._
 
  | 
 
-## Ice Spikes (☆☆☆)
+## Frozen Servants (☆☆☆)
 
   
-_Piercing spikes of ice._
+_A legion of frost._
 
  |
 | 
 
-50 Ether
+30 Ether
 
  | 
 
@@ -105,12 +105,14 @@ Ice
  |
 | 
 
-**Effect:** _Conjure a spike of ice from the ground at the cursor's location._
+**Effect:** _Conjure a surrounding ring of 4 to 5 frozen servants that emit two blasts of frosty mist to the center._
 
--   Deals 30 DMG at level 5 and sends victim into the air.
--   Does not inflict Chill.
--   WIth the **Spike Traps** Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
--   Can be modified with Cloud and Stratus Stones to make the ice spikes bigger.
+-   Deals Moderate damage if both blows hit. Blast spark deals 86 (21.5\*4) DMG
+-   Inflicts 2 seconds Chill per hit. Can't be increased.
+-   Leaves ice where the Mantra is casted. (With 3 Vibrant Gems you can spawn massive ice floors with it)
+-   Can be modified with 1 Stratus Stone to make it bigger.
+-   The Frostdraw counterpart to Flamecharm's [Burning Servants](Flamecharm.md#burning-servants), as both do the same thing and can be modified with a Reversal Spark to get the same effect, having the servants attack outwards and ragdoll.
+-   Can be modified with a Blast Spark to create one single giant ice soldier that sends a chilling breeze. This modification makes your character unable to move.
 
  |
 | 
@@ -153,6 +155,43 @@ Ice
  |
 | 
 
+**Ice Spikes** (☆☆☆)
+
+_Piercing spikes of ice._
+
+ | 
+
+## Ice Spikes (☆☆☆)
+
+  
+_Piercing spikes of ice._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Ice
+
+ | 
+
+1 Frostdraw
+
+ |
+| 
+
+**Effect:** _Conjure a spike of ice from the ground at the cursor's location._
+
+-   Deals 30 DMG at level 5 and sends victim into the air.
+-   Does not inflict Chill.
+-   WIth the **Spike Traps** Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
+-   Can be modified with Cloud and Stratus Stones to make the ice spikes bigger.
+
+ |
+| 
+
 **Warden's Blades** (☆☆☆)
 
 _Revolving blades of ice._
@@ -187,83 +226,6 @@ Ice
 -   Hits multiple times in a row.
 -   Incredibly good with the **Glass Path: Crystallization** Talent.
 -   Can be modified with Cloud/Stratus Stones to make the blades bigger.
-
- |
-| 
-
-**Frozen Servants** (☆☆☆)
-
-_A legion of frost._
-
- | 
-
-## Frozen Servants (☆☆☆)
-
-  
-_A legion of frost._
-
- |
-| 
-
-30 Ether
-
- | 
-
-Ice
-
- | 
-
-1 Frostdraw
-
- |
-| 
-
-**Effect:** _Conjure a surrounding ring of 4 to 5 frozen servants that emit two blasts of frosty mist to the center._
-
--   Deals Moderate damage if both blows hit. Blast spark deals 86 (21.5\*4) DMG
--   Inflicts 2 seconds Chill per hit. Can't be increased.
--   Leaves ice where the Mantra is casted. (With 3 Vibrant Gems you can spawn massive ice floors with it)
--   Can be modified with 1 Stratus Stone to make it bigger.
--   The Frostdraw counterpart to Flamecharm's [Burning Servants](Flamecharm.md#burning-servants), as both do the same thing and can be modified with a Reversal Spark to get the same effect, having the servants attack outwards and ragdoll.
--   Can be modified with a Blast Spark to create one single giant ice soldier that sends a chilling breeze. This modification makes your character unable to move.
-
- |
-| 
-
-**Ice Daggers** (★☆☆)
-
-_Form and toss daggers of ice at your aimed opponent._
-
- | 
-
-## Ice Daggers (★☆☆)
-
-  
-_Form and toss daggers of ice at your aimed opponent._
-
- |
-| 
-
-60 Ether
-
- | 
-
-Ice
-
- | 
-
-20 Frostdraw
-
- |
-| 
-
-**Effect:** _Form 3 daggers of ice before throwing them towards the nearest target._
-
--   Deals moderate damage.
--   Projectiles are homing.
--   Does not inflict Chill.
--   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
--   Can grant an additional effect with the "**Frozen Pin-Cushion**" Talent, which freezes the target upon hit.
 
  |
 | 
@@ -342,6 +304,44 @@ Ice
 -   Can be modified with Aeon and Eternal Logstones to delay the Mantra from firing.
 -   Can be modified with Crystal and Perfect Lenses to increase the range of casting the Mantra.
 -   On successful hit applies bottom freeze on your opponent.
+
+ |
+| 
+
+**Ice Daggers** (★☆☆)
+
+_Form and toss daggers of ice at your aimed opponent._
+
+ | 
+
+## Ice Daggers (★☆☆)
+
+  
+_Form and toss daggers of ice at your aimed opponent._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Ice
+
+ | 
+
+20 Frostdraw
+
+ |
+| 
+
+**Effect:** _Form 3 daggers of ice before throwing them towards the nearest target._
+
+-   Deals moderate damage.
+-   Projectiles are homing.
+-   Does not inflict Chill.
+-   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
+-   Can grant an additional effect with the "**Frozen Pin-Cushion**" Talent, which freezes the target upon hit.
 
  |
 | 
@@ -466,6 +466,87 @@ Ice
  |
 | 
 
+**Ice Carve** (★★☆)
+
+_A sharp disk of ice._
+
+ | 
+
+## Ice Carve (★★☆)
+
+  
+_A sharp disk of ice._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Ice
+
+ | 
+
+30 Frostdraw
+
+ |
+| 
+
+**Effect:** _Conjure a deadly rapidly moving saw of ice with the user's left hand._
+
+-   Deals moderate damage.
+-   Deals 8.4 DMG per hit, 70 total if landed by the full duration at level 5.
+-   Round spark full duration changes its damage to 110 DMG.
+-   Does not inflict Chill.
+-   Spawns ice floor (You can add vibrant gems to make the ice spawned bigger)
+-   Can be modified with Cloud and Stratus Stones to increase its size.
+-   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.
+    -   However, if an enemy is hit successfully, it will continue to hit for around 8 seconds, dealing high damage.
+-   Can be modified with a Spring Spark to cause the user to throw the projectile forward before recalling it back.
+    -   Slows the user down.
+
+ |
+| 
+
+**Ice Flock** (★★☆)
+
+_Send forth a flock of ice_
+
+ | 
+
+## Ice Flock (★★☆)
+
+  
+_Send forth a flock of ice_
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Ice
+
+ | 
+
+30 Frostdraw
+
+ |
+| 
+
+**Effect:** _Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy._
+
+-   Deals 95 (14.8+14.8+13.81+11.84+12.83+10.85+8.88+8.88) DMG
+-   Deals high posture damage.
+-   Does not inflict Chill.
+-   Low cooldown.
+-   Good for area denial.
+
+ |
+| 
+
 **Ice Lance** (★★☆)
 
 _Form an ice spear and lunges forward._
@@ -538,87 +619,6 @@ Ice + Slash
 -   Applies Chill. (2 seconds per hit, can't be increased)
 -   Capable of proccing Meteor Impact.
 -   Can be modified with up to 2 Stratus Stones to increase the size of the AoE.
-
- |
-| 
-
-**Ice Flock** (★★☆)
-
-_Send forth a flock of ice_
-
- | 
-
-## Ice Flock (★★☆)
-
-  
-_Send forth a flock of ice_
-
- |
-| 
-
-60 Ether
-
- | 
-
-Ice
-
- | 
-
-30 Frostdraw
-
- |
-| 
-
-**Effect:** _Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy._
-
--   Deals 95 (14.8+14.8+13.81+11.84+12.83+10.85+8.88+8.88) DMG
--   Deals high posture damage.
--   Does not inflict Chill.
--   Low cooldown.
--   Good for area denial.
-
- |
-| 
-
-**Ice Carve** (★★☆)
-
-_A sharp disk of ice._
-
- | 
-
-## Ice Carve (★★☆)
-
-  
-_A sharp disk of ice._
-
- |
-| 
-
-40 Ether
-
- | 
-
-Ice
-
- | 
-
-30 Frostdraw
-
- |
-| 
-
-**Effect:** _Conjure a deadly rapidly moving saw of ice with the user's left hand._
-
--   Deals moderate damage.
--   Deals 8.4 DMG per hit, 70 total if landed by the full duration at level 5.
--   Round spark full duration changes its damage to 110 DMG.
--   Does not inflict Chill.
--   Spawns ice floor (You can add vibrant gems to make the ice spawned bigger)
--   Can be modified with Cloud and Stratus Stones to increase its size.
--   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.
-    -   However, if an enemy is hit successfully, it will continue to hit for around 8 seconds, dealing high damage.
--   Can be modified with a Spring Spark to cause the user to throw the projectile forward before recalling it back.
-    -   Slows the user down.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 135896
+revid: 135962
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -196,46 +196,6 @@ Metal + Bleed
  |
 | 
 
-**Metal Rain** (★★☆)
-
-_Unleash a rain of metal rods down below._
-
- | 
-
-## Metal Rain (★★☆)
-
-  
-_Unleash a rain of metal rods down below._
-
- |
-| 
-
-50 Ether
-
- | 
-
-Metal + Slash
-
- | 
-
-30 Ironsing
-
- |
-| 
-
-**Effect:** _Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly._
-
--   Deals 5.5 DMG + 1.5 Bleed at level 5, 3 posture per hit.
--   1.5s wind up, 20s CD, 3.3s CD
--   Total hits around 22-23 times
--   Applies Metal Rods on hit.
--   Comparable to Thundercall's [Bolt Piercer](Thundercall.md#bolt-piercer) Mantra.
--   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
--   Can be modified with **Crystal/Pefect Lenses** to extend its range.
-
- |
-| 
-
 **Caltrops** (★★☆)
 
 _Sharp metal traps._
@@ -318,21 +278,21 @@ Metal + Blunt + Bleed
  |
 | 
 
-**Oxidizing Rush** (★★☆)
+**Iron Quills** (★★☆)
 
-_Conjure metal swords and rush forward with them._
+_Conjure metal from within, impaling surrounding entities._
 
  | 
 
-## Oxidizing Rush (★★☆)
+## Iron Quills (★★☆)
 
   
-_Conjure metal swords and rush forward with them._
+_Conjure metal from within, impaling surrounding entities._
 
  |
 | 
 
-50 Ether
+60 Ether
 
  | 
 
@@ -345,12 +305,12 @@ Metal + Slash + Bleed
  |
 | 
 
-**Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
+**Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
 
--   Rapid-hitting Mantra.
--   Deals 8.4 DMG + 2.5 Bleed at level 5, 10 posture total.
--   0.6s windup, 13s CD
--   Applies Metal Rods on hit.
+-   Does 33.5 DMG + 10 Bleed at level 5, 0.5s wind up, 10s cd.
+-   Doesn't break your momentum, meaning you can run while using it or vice versa.
+-   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it.
+    -   The blood particles are always red, even if you have Alloyblood.
 
  |
 | 
@@ -390,21 +350,61 @@ Metal + Bleed
  |
 | 
 
-**Iron Quills** (★★☆)
+**Metal Rain** (★★☆)
 
-_Conjure metal from within, impaling surrounding entities._
+_Unleash a rain of metal rods down below._
 
  | 
 
-## Iron Quills (★★☆)
+## Metal Rain (★★☆)
 
   
-_Conjure metal from within, impaling surrounding entities._
+_Unleash a rain of metal rods down below._
 
  |
 | 
 
-60 Ether
+50 Ether
+
+ | 
+
+Metal + Slash
+
+ | 
+
+30 Ironsing
+
+ |
+| 
+
+**Effect:** _Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly._
+
+-   Deals 5.5 DMG + 1.5 Bleed at level 5, 3 posture per hit.
+-   1.5s wind up, 20s CD, 3.3s CD
+-   Total hits around 22-23 times
+-   Applies Metal Rods on hit.
+-   Comparable to Thundercall's [Bolt Piercer](Thundercall.md#bolt-piercer) Mantra.
+-   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
+-   Can be modified with **Crystal/Pefect Lenses** to extend its range.
+
+ |
+| 
+
+**Oxidizing Rush** (★★☆)
+
+_Conjure metal swords and rush forward with them._
+
+ | 
+
+## Oxidizing Rush (★★☆)
+
+  
+_Conjure metal swords and rush forward with them._
+
+ |
+| 
+
+50 Ether
 
  | 
 
@@ -417,12 +417,86 @@ Metal + Slash + Bleed
  |
 | 
 
-**Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
+**Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
 
--   Does 33.5 DMG + 10 Bleed at level 5, 0.5s wind up, 10s cd.
--   Doesn't break your momentum, meaning you can run while using it or vice versa.
--   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it.
-    -   The blood particles are always red, even if you have Alloyblood.
+-   Rapid-hitting Mantra.
+-   Deals 8.4 DMG + 2.5 Bleed at level 5, 10 posture total.
+-   0.6s windup, 13s CD
+-   Applies Metal Rods on hit.
+
+ |
+| 
+
+**Iron Hug** (★★★)
+
+_Crush your opponents bones with an iron infused grab._
+
+ | 
+
+## Iron Hug (★★★)
+
+  
+_Crush your opponents bones with an iron infused grab._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Metal + Slash + Bleed
+
+ | 
+
+50 Ironsing
+
+ |
+| 
+
+**Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
+
+-   Deals 9.6 DMG + 3 Bleed per hit, at end of grab does 16 DMG + 4.8 Bleed, leading to total dmg of 72 at level 5, 10 posture, 1s windup, 11s cd.
+-   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
+-   With the '**Metal Absorption'** Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
+-   The '**Matador'** Talent procs against Iron Hug's hyperarmor.
+
+ |
+| 
+
+**Iron Slam** (★★★)
+
+_Conjure a giant rod of metal and slam it down._
+
+ | 
+
+## Iron Slam (★★★)
+
+  
+_Conjure a giant rod of metal and slam it down._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Metal + Slash + Bleed
+
+ | 
+
+50 Ironsing
+
+ |
+| 
+
+**Effect:** _Form a large spiky iron rod before slamming it down forwards._
+
+-   Deals 58.6 DMG + 17.5 Bleed at level 5, 0.73s windup, 18s cd.
+-   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
+-   Block breaks at level 5.
+-   EXTREMELY BUGGY HITBOX
 
  |
 | 
@@ -496,80 +570,6 @@ Metal + Slash
 -   Can be parried and blocked.
 -   Applies Metal Rods on hit.
 -   Cannot be modified with any Mantra modifiers.
-
- |
-| 
-
-**Iron Slam** (★★★)
-
-_Conjure a giant rod of metal and slam it down._
-
- | 
-
-## Iron Slam (★★★)
-
-  
-_Conjure a giant rod of metal and slam it down._
-
- |
-| 
-
-40 Ether
-
- | 
-
-Metal + Slash + Bleed
-
- | 
-
-50 Ironsing
-
- |
-| 
-
-**Effect:** _Form a large spiky iron rod before slamming it down forwards._
-
--   Deals 58.6 DMG + 17.5 Bleed at level 5, 0.73s windup, 18s cd.
--   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
--   Block breaks at level 5.
--   EXTREMELY BUGGY HITBOX
-
- |
-| 
-
-**Iron Hug** (★★★)
-
-_Crush your opponents bones with an iron infused grab._
-
- | 
-
-## Iron Hug (★★★)
-
-  
-_Crush your opponents bones with an iron infused grab._
-
- |
-| 
-
-50 Ether
-
- | 
-
-Metal + Slash + Bleed
-
- | 
-
-50 Ironsing
-
- |
-| 
-
-**Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
-
--   Deals 9.6 DMG + 3 Bleed per hit, at end of grab does 16 DMG + 4.8 Bleed, leading to total dmg of 72 at level 5, 10 posture, 1s windup, 11s cd.
--   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
--   With the '**Metal Absorption'** Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
--   The '**Matador'** Talent procs against Iron Hug's hyperarmor.
 
  |
 | 

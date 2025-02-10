@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 135857
+revid: 135965
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -16,7 +16,7 @@ Flamecharm Icon
 
 ## Description
 
-**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create combustion using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility.
+**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create combustion using Ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility.
 
 ## Training
 
@@ -29,7 +29,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent. This allows players to unlock 2-star Flamecharm mantras.
 -   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent. This finally allows Flamecharm users to unlock the last category, 3-star Mantras.
 
-The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion](Attunement_Potions.md) obtained in the [Songseeker Wilds](Songseeker_Wilds.md) using two [Dying Embers](Dying_Embers.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion](Attunement_Potions.md) obtained in the [Songseeker Wilds](Songseeker_Wilds.md) using two [Dying Embers](Dying_Embers.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
 
 -   To upgrade a Flamecharm Mantra from level 1 to level 2 costs.
 -   To upgrade a Flamecharm Mantra from level 2 to level 3 costs.
@@ -70,6 +70,45 @@ The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion]
 
  |
 | --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Burning Servants** (☆☆☆)
+
+_Summon a legion of flaming spearmen that lunge inwards._
+
+ | 
+
+## Burning Servants (☆☆☆)
+
+  
+_Summon a legion of flaming spearmen that lunge inwards._
+
+ |
+| 
+
+30 Ether
+
+ | 
+
+Fire
+
+ | 
+
+1 Flamecharm
+
+ |
+| 
+
+**Effect:** User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle, attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
+
+-   Deals 40 (6.7 \* 6) DMG.
+-   Inflcits Burn.
+-   Deals 20 posture damage total.
+-   Does not share a cooldown with other "servants" mantras.
+-   Can be modified with [Cloudstones](Mantra_Modifiers.md) to add more warriors. Max possible amount of warriors without talent "Fan the flames" is 9 (2 Cloudstones).
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to have the warriors attack outwards and ragdoll.
+
+ |
 | 
 
 **Fire Blade** (☆☆☆)
@@ -115,86 +154,6 @@ Fire
  |
 | 
 
-**Flame Repulsion** (☆☆☆)
-
-_An exertion of flames._
-
- | 
-
-## Flame Repulsion (☆☆☆)
-
-  
-_An exertion of flames._
-
- |
-| 
-
-\[missing, add\]
-
- | 
-
-Fire
-
- | 
-
-1 Flamecharm
-
- |
-| 
-
-**Effect:** User charges up releases an explosion of flames around them.
-
--   Deals 30.6 damage. If hit, reduces damage taken by 75% and reflects it back.
--   Deals low posture damage.
--   Knocks enemies back.
--   Inflicts Burn
--   Has a 0.5 second wind-up.
--   Grants the user brief hyper-armor near the end of the cast.
--   Can be modified with Cloud/Stratus Stones to increase the size.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md), causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
-
- |
-| 
-
-**Burning Servants** (☆☆☆)
-
-_Summon a legion of flaming spearmen that lunge inwards._
-
- | 
-
-## Burning Servants (☆☆☆)
-
-  
-_Summon a legion of flaming spearmen that lunge inwards._
-
- |
-| 
-
-30 Ether
-
- | 
-
-Fire
-
- | 
-
-1 Flamecharm
-
- |
-| 
-
-**Effect:** User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle, attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
-
--   Deals 40 (6.7 \* 6) DMG.
--   Inflcits Burn.
--   Deals 20 posture damage total.
--   Does not share a cooldown with other "servants" mantras.
--   Can be modified with [Cloudstones](Mantra_Modifiers.md) to add more warriors. Max possible amount of warriors without talent "Fan the flames" is 9 (2 Cloudstones).
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to have the warriors attack outwards and ragdoll.
-
- |
-| 
-
 **Fire Gun** (☆☆☆)
 
 _A bullet of flames shot through each hand._
@@ -231,10 +190,48 @@ Fire
     -   Breaks pieces of environment, including the Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
     -   Lights campfire pits.
 -   Propels the user backward if cast while jumping/walking backward or in water.
--   Clicking again while firing will fire additional bullets, at the cost of more ether.
+-   Clicking again while firing will fire additional bullets, at the cost of more Ether.
 -   Can be modified with Drift/Rush Shards to make the bullets fly faster + farther.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md), causing the bullets to split in 2 after being fired.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md), causing bullets to explode opponents after a certain amount of hits, but reducing the base damage.
+
+ |
+| 
+
+**Flame Blind** (☆☆☆)
+
+_Shoot a projectile that explodes after a short delay and blinds those looking at it._
+
+ | 
+
+## Flame Blind (☆☆☆)
+
+  
+_Shoot a projectile that explodes after a short delay and blinds those looking at it._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+N/A
+
+ | 
+
+1 Flamecharm
+
+ |
+| 
+
+**Effect:** User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
+
+-   Blinds nearby targets for 1.5 seconds.
+-   Deals 1 damage.
+-   Will proc gems such as Wayward Gem.
+-   Can be upgraded by the **[Concussive Flash](Talents.md#duelist-flame)** Talent, causing all blinded enemies to be dazed.
+-   Can be modified with Aeon/Eternal Logstones to blind for longer.
 
  |
 | 
@@ -280,16 +277,16 @@ Fire
  |
 | 
 
-**Flame Blind** (☆☆☆)
+**Flame Repulsion** (☆☆☆)
 
-_Shoot a projectile that explodes after a short delay and blinds those looking at it._
+_An exertion of flames._
 
  | 
 
-## Flame Blind (☆☆☆)
+## Flame Repulsion (☆☆☆)
 
   
-_Shoot a projectile that explodes after a short delay and blinds those looking at it._
+_An exertion of flames._
 
  |
 | 
@@ -298,7 +295,7 @@ _Shoot a projectile that explodes after a short delay and blinds those looking a
 
  | 
 
-N/A
+Fire
 
  | 
 
@@ -307,52 +304,16 @@ N/A
  |
 | 
 
-**Effect:** User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
+**Effect:** User charges up releases an explosion of flames around them.
 
--   Blinds nearby targets for 1.5 seconds.
--   Deals 1 damage.
--   Will proc gems such as Wayward Gem.
--   Can be upgraded by the **[Concussive Flash](Talents.md#duelist-flame)** Talent, causing all blinded enemies to be dazed.
--   Can be modified with Aeon/Eternal Logstones to blind for longer.
-
- |
-| 
-
-**Fire Palm** (★☆☆)
-
-_A blast of flame._
-
- | 
-
-## Fire Palm (★☆☆)
-
-  
-_A blast of flame._
-
- |
-| 
-
-60 Ether
-
- | 
-
-Fire
-
- | 
-
-20 Flamecharm
-
- |
-| 
-
-**Effect:** User releases a burst of flame from their palm in a cone shape.
-
--   Deals 26/27.5/29/30.5/32 damage, and has 2.5 Flamecharm scaling.
--   Deals 5.5 posture damage.
--   This mantra has 0.7 seconds windup and 0.2 seconds of endlag
--   It has a cooldown of 16 seconds
--   Inflicts Burn.
--   Can be modified with Cloud/Stratus Stones to increase size, every +1 in size makes it 10% bigger.
+-   Deals 30.6 damage. If hit, reduces damage taken by 75% and reflects it back.
+-   Deals low posture damage.
+-   Knocks enemies back.
+-   Inflicts Burn
+-   Has a 0.5 second wind-up.
+-   Grants the user brief hyper-armor near the end of the cast.
+-   Can be modified with Cloud/Stratus Stones to increase the size.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md), causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 
  |
 | 
@@ -441,21 +402,21 @@ Fire
  |
 | 
 
-**Relentless Flames** (★★☆)
+**Fire Palm** (★☆☆)
 
-_Bear down on your foes with repeated fiery slashes._
+_A blast of flame._
 
  | 
 
-## Relentless Flames (★★☆)
+## Fire Palm (★☆☆)
 
   
-_Bear down on your foes with repeated fiery slashes._
+_A blast of flame._
 
  |
 | 
 
-\[missing, add\]
+60 Ether
 
  | 
 
@@ -463,18 +424,19 @@ Fire
 
  | 
 
-30 Flamecharm
+20 Flamecharm
 
  |
 | 
 
-**Effect:** User releases a flurry of seven slashes.
+**Effect:** User releases a burst of flame from their palm in a cone shape.
 
--   Deals 33.5+33.5+23.4+13.4+6.7+6.7, totaling up to 117 damage.
--   Deals high posture damage.
--   Inflicts burn.
--   Will not continue if the first slash misses.
--   Can be cancelled midway by feinting.
+-   Deals 26/27.5/29/30.5/32 damage, and has 2.5 Flamecharm scaling.
+-   Deals 5.5 posture damage.
+-   This Mantra has 0.7 seconds windup and 0.2 seconds of endlag
+-   It has a cooldown of 16 seconds
+-   Inflicts Burn.
+-   Can be modified with Cloud/Stratus Stones to increase size, every +1 in size makes it 10% bigger.
 
  |
 | 
@@ -513,6 +475,82 @@ Fire
 -   Inflicts Burn.
 -   Can be grabbed by your Flame Grab (Bug).
 -   Can be modified with a magnet spark, making the turret follow the user.
+
+ |
+| 
+
+**Flare Volley** (★★☆)
+
+_Conjure up to 3 fireballs to vollery at your enemies._
+
+ | 
+
+## Flare Volley (★★☆)
+
+  
+_Conjure up to 3 fireballs to vollery at your enemies._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire + Blunt
+
+ | 
+
+30 Flamecharm
+
+ |
+| 
+
+**Effect:** User releases a small fireball projectile that flies forward in a straight path.
+
+-   Deals 26 damage per hit.
+-   Deals moderate posture damage.
+-   Inflicts Burn.
+-   Cooldown resets when landed, allowing you to cast it up to three times.
+-   Sometimes returns cooldown even when missed. Needs testing.
+
+ |
+| 
+
+**Relentless Flames** (★★☆)
+
+_Bear down on your foes with repeated fiery slashes._
+
+ | 
+
+## Relentless Flames (★★☆)
+
+  
+_Bear down on your foes with repeated fiery slashes._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+Fire
+
+ | 
+
+30 Flamecharm
+
+ |
+| 
+
+**Effect:** User releases a flurry of seven slashes.
+
+-   Deals 33.5+33.5+23.4+13.4+6.7+6.7, totaling up to 117 damage.
+-   Deals high posture damage.
+-   Inflicts burn.
+-   Will not continue if the first slash misses.
+-   Can be cancelled midway by feinting.
 
  |
 | 
@@ -559,44 +597,6 @@ Fire
  |
 | 
 
-**Flare Volley** (★★☆)
-
-_Conjure up to 3 fireballs to vollery at your enemies._
-
- | 
-
-## Flare Volley (★★☆)
-
-  
-_Conjure up to 3 fireballs to vollery at your enemies._
-
- |
-| 
-
-\[missing, add\]
-
- | 
-
-Fire + Blunt
-
- | 
-
-30 Flamecharm
-
- |
-| 
-
-**Effect:** User releases a small fireball projectile that flies forward in a straight path.
-
--   Deals 26 damage per hit.
--   Deals moderate posture damage.
--   Inflicts Burn.
--   Cooldown resets when landed, allowing you to cast it up to three times.
--   Sometimes returns cooldown even when missed. Needs testing.
-
- |
-| 
-
 **Ash Slam** (★★★)
 
 _Strike the ground, turning it to ash._
@@ -619,7 +619,7 @@ Fire + Blunt
 
  | 
 
-50 Flamecharm
+50 Flamecharm, 20 Strength
 
  |
 | 
@@ -630,7 +630,6 @@ Fire + Blunt
 -   Deals low posture damage.
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
--   Requires at least 20 Strength to obtain.
 -   Can be modified with Crystal/Perfect Lenses to make hitbox bigger.
 
  |
@@ -668,7 +667,7 @@ Fire
 -   Deals 112 damage (FULL CHARGED), 61 dmg (NOT CHARGED)
 -   Deals low posture damage.
 -   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage and posture damage increases with each charge.
-    -   M1'ing whilst the mantra is charging will shoot the projectile with the amount of charge it has at that point.
+    -   M1'ing whilst the Mantra is charging will shoot the projectile with the amount of charge it has at that point.
 -   Inflicts Burn.
 -   Has a unique effect where it ricochets when blocked.
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
@@ -717,7 +716,7 @@ Fire
 -   Has a 0.6 second windup.
 -   Has a 0.2 second endlag.
 -   Mantra continues if the second hit isn't parried.
-    -   _Autoparry frames on the second hit will **NOT** cancel the mantra._
+    -   _Autoparry frames on the second hit will **NOT** cancel the Mantra._
     -   _Mantra also continues after the user gets knocked._
 -   Can be modified with a Reversal spark, acting as a pull/grab, but dealing less damage.
     -   The reversal spark variant deals ~30% less damage than the original.
@@ -760,47 +759,6 @@ Fire
 | --- | --- | --- | --- | --- | --- | --- |
 | 
 
-**Flame Leap** (★★☆)
-
-_Leap up leaving behind a burst of flames._
-
- | 
-
-## Flame Leap (★★☆)
-
-  
-_Leap up leaving behind a burst of flames._
-
- |
-| 
-
-35 Ether
-
- | 
-
-Fire
-
- | 
-
-30 Flamecharm
-
- |
-| 
-
-**Effect:** User emits a blast under them that propels the caster and nearby opponents up in the air.
-
--   Deals 12 damage.
--   Deals low posture damage.
--   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
--   Is able to proc Meteor Impact, even without hitting an opponent.
--   Shares similar traits to the Strong Leap mantra.
--   The Mantra will not summon flames nor do damage if used in bodies of water.
--   Can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap.
-    -   This variant does not bring enemies up, and cannot proc Meteor Impact.
-
- |
-| 
-
 **Flame Assault** (★★☆)
 
 _Dash forward in a spiral of flames._
@@ -834,8 +792,49 @@ Fire
 -   Deals low posture damage.
 -   Inflicts Burn and Ragdoll.
 -   Can be modified with Crystal/Perfect Lenses and Glass/Magnifying Stones.
-    -   Lens will cause the mantra to fly farther (at the same pace).
+    -   Lens will cause the Mantra to fly farther (at the same pace).
     -   Stones will increase the hitbox size.
+
+ |
+| 
+
+**Flame Leap** (★★☆)
+
+_Leap up leaving behind a burst of flames._
+
+ | 
+
+## Flame Leap (★★☆)
+
+  
+_Leap up leaving behind a burst of flames._
+
+ |
+| 
+
+35 Ether
+
+ | 
+
+Fire
+
+ | 
+
+30 Flamecharm
+
+ |
+| 
+
+**Effect:** User emits a blast under them that propels the caster and nearby opponents up in the air.
+
+-   Deals 12 damage.
+-   Deals low posture damage.
+-   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
+-   Is able to proc Meteor Impact, even without hitting an opponent.
+-   Shares similar traits to the Strong Leap Mantra.
+-   The Mantra will not summon flames nor do damage if used in bodies of water.
+-   Can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap.
+    -   This variant does not bring enemies up, and cannot proc Meteor Impact.
 
  |
 
@@ -904,7 +903,7 @@ N/A
 
 -   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds with Azure Flames, if damage isn't substantial.
     -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing is buffed by 20% with Azure Flames.
--   Flame stays in chest for the duration of the mantra.
+-   Flame stays in chest for the duration of the Mantra.
 -   Requires ritual casting.
 -   Freezes user in place for a brief moment after casting.
 -   Restores some of the user's sanity.
@@ -993,7 +992,7 @@ N/A
 -   Flame Wisp also seems to reduce parasite growth.
 -   With Wraith Path: Twisted Puppets, you will heal from burns by Shadow Mantras and Burning Puppets, but not by Flame Mantras.
     -   The amount of healing will not be severely reduced (results were +1% (~5) hp per 5-6 burn ticks).
--   Considered a Wisp mantra, taking up either a Wisp, Support, or Wildcard slot.
+-   Considered a Wisp Mantra, taking up either a Wisp, Support, or Wildcard slot.
 -   Has 3 charges (which are consumed when healing is triggered). Logstones increase the amount of charges.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 
@@ -1118,7 +1117,7 @@ A simple production of Flame for the use of making Campfires.
 
  | 
 
-Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage.
+Caster uses a small amount of Ether to create a small ember in their hands, used for lighting up campfire pits, does no damage.
 
  |
 | 
@@ -1288,7 +1287,7 @@ The Final Act
 
  | 
 
-Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
+Landing a fire Mantra immediately after flourishing an opponent will cause them to explode.
 
  | 
 
@@ -1359,7 +1358,7 @@ Warding Radiance
 
  | 
 
-Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
+Every fire Mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
 
  | 
 
@@ -1463,7 +1462,7 @@ Pleeksty's Will
 
  | 
 
-You gain significantly more ether from consuming elemental ingredients.
+You gain significantly more Ether from consuming elemental ingredients.
 
  | 
 
@@ -1479,7 +1478,7 @@ Pleeksty's Faith
 
  | 
 
-When on fire, automatically quench flames at the cost of some ether.
+When on fire, automatically quench flames at the cost of some Ether.
 
  | 
 
@@ -1548,7 +1547,7 @@ Flash Point
 
  | 
 
-Block-breaking an enemy with a fire mantra applies Burning.
+Block-breaking an enemy with a fire Mantra applies Burning.
 
  | 
 
@@ -1603,7 +1602,7 @@ Hungry Flames
 
  | 
 
-When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
+When you have no Ether, consume Stomach and Water to instantly cast your next fire Mantra.
 
  | 
 
@@ -1827,25 +1826,25 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   As of the 31/10/2024 update, Burn damage now scales on your Flamecharm investment. Additionally, Burn damage was changed to be resisted by Fire Armor in the same update.
 -   All Flamecharm mantras deal reduced damage (??%) in the rain, unless the user has the Unyielding Inferno Talent.
 -   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of _Deepwoken_.
-    -   The **Flame of Denial** mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
+    -   The **Flame of Denial** Mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
     -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.fandom.com/wiki/Power_Within) from _Dark Souls_, boosting overall damage while draining health.
-    -   Although the **Fire Palm** mantra looks similar to the "Ignis" spell from the Roblox game _Rogue Lineage_, the Mantra is actually inspired from the "Combustion" skill in _Dark Souls_ and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
--   Although the **Flame Blind** mantra looks similar to the snap version of the "Velo" spell from the Roblox game _Rogue Lineage_, the mantra is actually inspired from the _Valorant_ character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
--   The **Fire Gun** mantra is most likely a nod to "Higan" (火ガン, literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from _One Piece._
--   The **Flame Sentinel** mantra is likely a reference to the "[Life Detector](https://jojowiki.com/Magician%27s_Red#Life_Detector)" technique from the Stand "Magician's Red" from _JoJo's Bizarre Adventure_, which can detect lifeforms manifesting as a floating flame candelabrum.
+    -   Although the **Fire Palm** Mantra looks similar to the "Ignis" spell from the Roblox game _Rogue Lineage_, the Mantra is actually inspired from the "Combustion" skill in _Dark Souls_ and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
+-   Although the **Flame Blind** Mantra looks similar to the snap version of the "Velo" spell from the Roblox game _Rogue Lineage_, the Mantra is actually inspired from the _Valorant_ character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
+-   The **Fire Gun** Mantra is most likely a nod to "Higan" (火ガン, literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from _One Piece._
+-   The **Flame Sentinel** Mantra is likely a reference to the "[Life Detector](https://jojowiki.com/Magician%27s_Red#Life_Detector)" technique from the Stand "Magician's Red" from _JoJo's Bizarre Adventure_, which can detect lifeforms manifesting as a floating flame candelabrum.
 -   The **Flaming Scourge** Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from _One Piece_ called Buzzcut Mochi.
 -   The **Flame Ballista** and **Flame Repulsion**'s spring spark variant are references to _Jujutsu Kaisen_.
     -   **Flame Ballista** is Sukuna's Fire Arrow [\[1\]](#cite-note-1), and **Flame Repulsion**'s spark takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Limitless).
--   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
+-   There used to be a Mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player procs "Meteor Impact" on another Flamecharm user who also has the Talent, should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
     -   Meteor Impact used to also apply to Uppercutting and had a range multiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.
--   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as Undying Flames causes the user's flames work in [The Depths](The_Depths.md) and the **Flame of Denial** mantra can restore some sanity upon use, while also allowing you to not die.
+-   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as Undying Flames causes the user's flames work in [The Depths](The_Depths.md) and the **Flame of Denial** Mantra can restore some sanity upon use, while also allowing you to not die.
     -   The **Graceful Flame** can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
--   The **Graceful Flame** mantra does not allow anyone to cook food, regardless of its Level.
--   The **Flame Leap** mantra's Reversal Version negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
--   The **Flame Leap** mantra's Reversal Version gets replaced with it's base version when used in water.
--   The **Flame Leap** mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
+-   The **Graceful Flame** Mantra does not allow anyone to cook food, regardless of its Level.
+-   The **Flame Leap** Mantra's Reversal Version negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
+-   The **Flame Leap** Mantra's Reversal Version gets replaced with it's base version when used in water.
+-   The **Flame Leap** Mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" Mantra.
 -   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
 -   Flamecharm's **Burn** damage scales with Azure Flames... Which can lead to some icky burn damage if you are going for that.
 -   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
@@ -1854,7 +1853,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.
 -   Before its release, **Flaming Scourge** was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
 -   Flamecharm was invented by [Amorus Pleeksty](Amorus_Pleeksty.md), a Tiran who later went on to become a Deepwoken
--   The **Fire Gun** mantra gives the player fingers, similar to when casting a Wisp mantra. Its there, but it's difficult to see due to particles
+-   The **Fire Gun** Mantra gives the player fingers, similar to when casting a Wisp Mantra. Its there, but it's difficult to see due to particles
 
 ## References
 

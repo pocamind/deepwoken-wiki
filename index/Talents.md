@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 135871
+revid: 135961
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2172,9 +2172,11 @@ _**"My cure is most effective."**_
     -   Prerequisite: Rending Needle: Conductor
 
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
-    -   Does 5.5 damage per rod. This damage can be resisted by physical armor.
+    -   Deals 5.5 dmg per rod at meeting requirements. This damage can be resisted by physical armor.
+    -   Scaling: 4 + Ironsing\*0.02
     -   Affected by Grim, Taunt, Isshin's ring, Exposed Durability and any other defensive debuffs.
     -   Not affected by "Return To The Dark Ages" Talent
+    -   Best PVE path due to armor drain and damage to mobs unlike other paths.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
 
@@ -2190,12 +2192,14 @@ _**"My cure is most effective."**_
         -   Thundercall Mantra: Applies Shock + Cancels mantra (base path) / Applies Surge stack + cancels mantra (Surge path)
         -   Attunement-less/Ironsing/Bloodrend/Oath Mantra: The rod does not fall off, but their armor is still drained
     -   You can't pull out Conductor rods, nor can they be consumed with Scrapsinger.
+    -   Conductor's rod on proc dont apply rod/pull immunity.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer
 
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
     -   Enemies have damage reduced by 30% when Metal Jailed.
+    -   When restrained, victim will have 6 second rod and pull immunity, upon jailer expire immunity will be set to 1s.
     -   Will restrain for 1.08s with 5 rod proc and 1.6s if 10 rod proc
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Conductor

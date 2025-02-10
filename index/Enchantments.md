@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 135914
+revid: 135952
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -75,7 +75,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>After landing 2/3/4 hits, every hit for 5 seconds including the final hit will apply burning (8 damage normally, 9 damage with Azure Flames). This can be used to trigger Flamecharm Talents.<br>
+  <td><div><p>After landing 2/3/4 hits, every hit for 5 seconds including the final hit will apply burning (Burn DMG scales from user flamecharm investment). This can be used to trigger Flamecharm Talents.<br>
   Lava Serpent will create an explosion instead of creating a fire.<br>
   Twisted Puppets will summon a puppet instead of creating a fire.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.</div></td>
@@ -172,7 +172,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Weapon deals less posture damage.<br>
   Landing close range hits give a speed boost. Speed boost lasts for 2 seconds.<br>
   Procs hit based talents through block such as [Brazen Blow]</p>
-  <p><u>CHIP DAMAGE IS NOT AFFECTED BY PEN OR DMG MODIFICATOR</u><br>
+  <p><u>CHIP DAMAGE IS NOT AFFECTED BY PEN OR DMG MODS</u><br>
   </p>
   <p>(Formula to calculate chip damage: 80% innate chip and 50% chip from Obfuscation would amount to 1 - (1 - 0.8) * (1 - 0.5) = 0.9, aka 90% chip damage).<br>
   </p></div></td>
@@ -183,7 +183,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Providence's Thorns<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
   PVP: parrying 3 attacks within 7 seconds deals damage to the attacker after a delay.<br>
-  Deal 4% HP damage, ignores all resistances(Except For Heart Of Enmity).<br>
+  Deal 4% HP damage, ignores all resistances.<br>
   PVE Scale: 35% from parried damage x ()userpower in PVE.<br>
   Damage capped at <b>500</b><br>
   Effect is parriable.</p></div></td>
@@ -332,7 +332,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the Unbidden<div></div></font></center></td>
   <td><div><p>Drains the target's ether on hit. This scales with your base damage.<br>
   <u><b>Steals 1 ether per 1.3 M1 dmg</b></u><br>
-  <u><b>ETHER DRAIN DEPENDS ON SCALED DMG dealt (aka no dmg mods)</b></u><br>
+  <u><b>ETHER DRAIN DEPENDS ON SCALED DMG(no dmg mods)</b></u><br>
   Critical attack is replaced with a counter. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture.<br>
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
   Check Trivia for an explanation of its bugginess in PvE.</p></div></td>
