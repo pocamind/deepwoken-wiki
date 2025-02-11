@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 136051
+revid: 136102
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]

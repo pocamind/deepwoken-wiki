@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 134364
+revid: 136114
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -31,7 +31,7 @@ Players can choose any amount of wishes per expedition. Misérables ONLY kills y
 
 ## Wish Knowledge Calculator
 
-If you want to calculate the Knowledge you'd need for a certain amount of wishes, use this [Desmos Calculator](https://www.desmos.com/calculator/muzhvqr7m4). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
+If you want to calculate the Knowledge you'd need for a certain amount of wishes, use this [Desmos Calculator](https://www.desmos.com/calculator/mftmw3nwvo). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
 
 ## Dialogue
 

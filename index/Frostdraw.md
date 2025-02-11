@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 135963
+revid: 136101
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1622,17 +1622,17 @@ N/A
 ## Trivia
 
 -   The Chilling [Enchantment](Enchantments.md) still applies 1 second Chill in PvP per hit until it applies Bottom Freeze and then goes on cooldown until you can reapply the status.
--   The **Ice Fissure** Mantra is a reference to the Roblox game Strife, specifically the class [Obsidian's](https://strife-official.fandom.com/wiki/Obsidian) Pyroclast move, which summons pulsing obelisks.
--   The **Warden's Blades** Mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
+-   The **Ice Fissure** Mantra is a reference to the Roblox game _Strife_, specifically the class [Obsidian's](https://strife-official.fandom.com/wiki/Obsidian) Pyroclast move, which summons pulsing obelisks.
+-   The **Warden's Blades** Mantra is likely a reference to _Devil May Cry_, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
     
--   The **Ice Chain** Mantra is a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
--   The **Ice Eruption** Mantra is a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in Nioh 2.
--   The **Ice Smash** Mantra is a reference to one of Cirno's spell cards in Touhou 12.3
+-   The **Ice Chain** Mantra is a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
+-   The **Ice Eruption** Mantra is a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in _Nioh 2_.
+-   The **Ice Smash** Mantra is a reference to one of Cirno's spell cards in _Touhou 12.3_.
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
 -   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Captains in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in [Layer 2](Second_Layer.md).
 -   The **Ice Chains** Mantra was reworked into a new ability on the 8th of February 2022.
--   The now-removed "Frozone" Talent was a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from [The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles).
--   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in [Overwatch](https://en.wikipedia.org/wiki/Overwatch).
+-   The now-removed "Frozone" Talent was a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from _[The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles)_.
+-   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in _[Overwatch](https://en.wikipedia.org/wiki/Overwatch)_.
 -   Frostdraw has the second-most Mantras with 3 stars on them, second to Ironsing.
 -   Frostdraw has the most Mantras out of all attunements in the game.
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
@@ -1640,7 +1640,7 @@ N/A
 -   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
 -   Recommended not to abuse the Chill duration as there is a Talent that makes your enemy get 20% more dmg from light attacks if they are under an elemental status effect.(Charged Return)
 -   Anything that would Freeze while using Glass Path: Crystallization would cause the crystals in your opponent to explode.
--   Saint jay and Frostbite are less effective with Glass Path: Crystallization as all Ice Mantras apply them for 2 seconds.
+-   Saint Jay and Frostbite are less effective with Glass Path: Crystallization as all Ice Mantras apply them for 2 seconds.
 -   Frozen Legs applies on all ice Mantras and has a fixed duration that can't be increased.
 -   Fragile Freeze will Freeze the opponent on Posture break from anything if they are Chilled.
 -   Similarly to every other Wisp Mantra, **Frost Wisp** gives the player a finger on the hand that casts the Mantra

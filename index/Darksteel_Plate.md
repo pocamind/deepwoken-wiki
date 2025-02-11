@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 133083
+revid: 136115
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -33,7 +33,7 @@ This Outfit's Schematic can be found
 
 ## Trivia
 
--   Arguably one the best Expert-tier armors stat-wise, although it is somewhat expensive to make.
+-   Arguably one the best Expert-tier armors in terms of stats, stat-wise, however it is held back by being somewhat expensive to craft.
 -   Shares its description with the Authority Peacekeeper Armour.
 -   Might be a reference to the material "Darksteel" in Magic: The gathering
 -   **Current** darksteel plate is an outfit created by **KAHAEL:**

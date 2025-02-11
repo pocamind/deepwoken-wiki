@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136039
+revid: 136117
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -14,7 +14,6 @@ File:DeepwokenThumbnail.png
 
 ## Foreword
 
-[See all Talents here](#talents).  
 **Here's an explanation on how to use \[_CTRL + F\] or \[F3\]_ for this page. (You can also do this on mobile! Press the 3 dots on the mobile Google browser and tap on "Find in page"!)**
 
 -   FIND A SPECIFIC TALENT: Input the Talent name to find the specific Talent and its requirements.
@@ -27,6 +26,8 @@ File:DeepwokenThumbnail.png
     -   _(i.e "I prefer to attack unseen." for the Assassin Talent tree)_
         -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific Talent tree with [Mystic](Mystic.md) isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the Talent(s)._
 -   **Rare Talents are NOT affected by Mystics, and categories containing only Rare Talents will not show their Mystic quote when talking to the NPC.**
+
+[See all Talents here](#talents).
 
 ## Overview
 

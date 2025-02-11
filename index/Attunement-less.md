@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 136044
+revid: 136119
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -215,7 +215,7 @@ Blunt
 
 **Combat Mantra**
 
-_Unleash two devasting kicks with your brute strength._
+_Unleash two devastating kicks with your brute strength._
 
  | 
 
@@ -223,7 +223,7 @@ _Unleash two devasting kicks with your brute strength._
 
   
 **Combat Mantra**  
-_Unleash two devasting kicks with your brute strength._
+_Unleash two devastating kicks with your brute strength._
 
  |
 | 
@@ -329,7 +329,8 @@ Blunt
 -   Blunt Damage Type
 -   Inflicts knockdown.
 -   Lands 15% faster when casted while wielding Jus Karita.
--   Recommended to get 20 strength if you have an attunment as to utilize the mystic to more easily roll for it.
+-   Requirements are increased if you have an Attunement.
+-   Can still be used after removing [Tacet](Murmur%253A_Tacet.md).
 
  |
 
@@ -479,12 +480,12 @@ N/A
  |
 | 
 
-**Effect:** _User buffs others in a small area around them, giving a 10% resistance and 10% (5% if Reinforce was only used on yourself) damage increase to the user and all nearby allies._
+**Effect:** _User buffs themselves and others in a small area around them, granting 10% damage resistance and a 10% damage buff to the user and all nearby allies. (Reinforce's damage buff is reduced to 5% if Reinforce was only used on yourself.)_
 
--   Damage increase only works on M1 and crits.
--   Potentially reduces incoming PEN. (needs testing)
--   Lasts for a duration of 20 seconds. The cooldown of the mantra is 55 seconds.
--   For each mantra level the duration increases by 8 seconds and cooldown decreases by 5 seconds.
+-   Damage increase only applies to weapon attacks.
+-   The damage reduction can be reduced by PEN, but PEN has halved effectiveness on it.
+-   Reinforce lasts 20 seconds with a 55 second cooldown.
+-   For each mantra level, Reinforce's duration increases by 8 seconds and cooldown decreases by 5 seconds.
 -   Can be upgraded with the Fortitude Talent Cards **Lord's Tithe** and **Grand Support**.
 -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
 
@@ -521,7 +522,7 @@ N/A
  |
 | 
 
-**Effect:** _User prepares themself and turns red, gaining hyperarmor and negating hitstun for the duration of the effect._
+**Effect:** _User prepares themselves and turns red, gaining hyperarmor and negating hitstun for the duration of the effect._
 
 -   Lasts 5 seconds by default.
 -   Upgrades increase duration up to a maximum of 8 seconds
@@ -685,7 +686,7 @@ N/A
  |
 | 
 
-**Effect:** _User sends themself a considerable distance forward_
+**Effect:** _User sends themselves a considerable distance forward_
 
 -   Range significantly decreases as the user loses health.
 -   Canceled by attacking.

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 135960
+revid: 136112
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -606,8 +606,7 @@ Wind + Slash
 -   Deals light damage over multiple slashes.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to increase it's size. Puts the Carve ball further away with _Perfect Lenses_ and _Crystal Lenses_.
 -   Pushes opponents hit by the final slash away.
--   Cannot be canceled once the mantra initiates.
-    -   So it's advised to avoid it being parried by turning away since it'll result in free hits for your opponent.
+-   Can be canceled once the mantra initiates.
 
  |
 | 

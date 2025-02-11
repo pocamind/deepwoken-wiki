@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 134895
+revid: 136106
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Event Item, Hallowtide]
@@ -38,5 +38,4 @@ The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It i
 -   At max HVY, the damage is (35.1)
 -   Skyreap Blade was previously the only weapon that had a unique running attack animation until the [Imperial Staff](Imperial_Staff.md) was added.
 -   Gripping most humanoids (if not all) will place a grave and make a Taco Bell sound effect.
--   This weapon is really cool, but unfortunately sucks.
--   The third fastest swinging heavy weapon in the game 2nd being the [**Ysley's Pyre Keeper**](<Ysley's_Pyre_Keeper.md>) 1st being the [**Quartzstone Pickaxe**](Quartztone_Pickaxe.md)
+-   The third fastest swinging heavy weapon in the game, second being the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and the first being the [Quartztone Pickaxe](Quartztone_Pickaxe.md).
