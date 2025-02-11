@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136117
+revid: 136131
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1269,7 +1269,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
     -   Applying chill, freeze, or frost elemental damage applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals makes them explode.
-    -   3 base damage per crystal explosion. (Scales with frostdraw investment)
+    -   3 base damage per crystal explosion, has 5 scaling. Formula to calculate crystal DMG is (3+frostdraw investment\*0.015)
     -   1s cooldown on explosion proc.
     -   Increases damage of Crystal Impale and Crystal Knee.
     -   Changes Chilling enchant to proc 1 crystal per hit.
@@ -2503,7 +2503,8 @@ _**"My cure is most effective."**_
 > _**"I convert blood to iron."**_
 
 -   _Bloodiron Spirit_ \[Rare Talent\] - You regain some Armor upon killing enemies. (+5 Health)
-    -   Any kill gives you 3% of your total armor durability.
+    -   Any kill gives you 2.5% of your total armor durability.
+    -   Stacks with bloodiron ring, totalling in 5% armor per kill.
 
 ### Soverign of Slaughter
 

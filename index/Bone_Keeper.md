@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 135803
+revid: 136134
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Bone Keeper is a monster found in the [Eternal Gale](Second_Layer.md). It can also appear in the Depths Trial at the power 20 trial with high drowns, potentially Template:Corruptedcolor.
+The Bone Keeper is a monster found in the [Eternal Gale](Second_Layer.md). It can also appear in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) as an encounter in the Trial, potentially Template:Corruptedcolor.
 
 Bone Keepers are giant, humanoid creatures, with inhuman proportions, having short legs yet large arms. It has noticeably clawed feet, with bone claws for hands. They sport a red and gold loincloth of sorts on their lower body and lack clothing on their upper half. Their head also appears to be made out of a cylindrical formation of bones.
 
@@ -52,10 +52,9 @@ There are **16** images, be warned
 
 -   Bone Keepers used to heal at a rate of 20 HP per second (60 HP when Corrupted). This made them extremely tedious to defeat at times, locking out lower DPS builds from fighting them. After being made to fight it with [Jus Karita](Jus_Karita.md) and no equipment, which resulted in 70+ deaths, developer Ragoozer had it removed.[\[1\]](#cite-note-1)
     -   This same update also buffed Jus Karita.
--   Bone Keepers are likely related to the Kyrsgarde in [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possessing similarities in appearance, down to the red hue on parts of its bones. It most closely resembles the Kyrsgarde Brute.
+-   Bone Keepers are the precursors of the Kyrsgardes, as mentioned by the [Kyrsglaive](Kyrsglaive.md) description.
 -   The Femur Throw and Charge used by the Bone Keeper you encounter at the bridge do not cause knockback. This is the only Bone keeper with this feature as all the other Bone Keepers you encounter have knockback on these moves.
 -   They're called "boneboy" in the game files.
--   From the description of the kyrsglaive we find that the kyrs weapons are possibly made from them or at least an ancestor
 
 ## References
 

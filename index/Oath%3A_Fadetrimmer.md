@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 135954
+revid: 136122
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -31,11 +31,11 @@ Fadetrimmer is a enigmatic oath taken by all barbers in order to morph the physi
 
 Meet the following requirements and talk to a barber about Hair Cutting:
 
--   Get A Low Taper Fade +12
+-   Power 12+
 
 -   Change your hair 12 times at any [Barber](Barber.md) _(the hairs do not have to be unique, restoring to your natural hair 15 times will work also)._
     -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
--   Talk to the barber and pick the option "What is massive?" continue the dialogue, after that he will scream "LOW TAPER FADE!" and you, will get the oath _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/JwPKrcDB-xE)._
+-   Talk to the barber and pick the option "How is it you're able to do all this stuff?" continue the dialogue, asking to take the Oath. For a more in-depth walkthrough, consider watching [this video](https://youtu.be/JwPKrcDB-xE).
 
 _This Oath does not become locked after breaking it at Yun'Shul._
 
