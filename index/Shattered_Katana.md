@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 135972
+revid: 136145
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Multiple Criticals]
@@ -40,7 +40,7 @@ While one handed it uses the default [Katana](Katana.md) crit, but gains a uniqu
 
 -   Its model resembles the Black Mortal Blade, a weapon from _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_.
     -   Fittingly, the two-handed critical was inspired by Isshin the Sword Saint, who wields the blade.
--   It is one of three weapons that comes with a scabbard, the others being the Katana, and [Purple Cloud](Purple_Cloud.md).
+-   It is one of four weapons that comes with a scabbard, the others being the [Katana](Katana.md), [Purple Cloud](Purple_Cloud.md), and [Bloodfouler](Bloodfouler.md).
     -   Therefore, it also works with the Poser's Ring and can be used to start [Zana's](Zana.md) quest.
     -   It's appropriate that the scabbards of both the Shattered and regular Katana are placed cutting-edge facing upwards: many samurai preferred to draw their swords facing downward only if they were wearing armor, as that would prevent the blade from getting caught on it. Conversely, they would wear their katana facing upwards without armor since that wouldn't be an issue; as most [outfits](Outfits.md) in Deepwoken lack heavy armor, it makes sense for the scabbard to be facing up.
 -   The incredible length of the blade would classify this weapon as an ōdachi, as opposed to a katana.

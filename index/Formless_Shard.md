@@ -1,6 +1,6 @@
 ---
 title: Formless Shard
-revid: 135257
+revid: 136146
 source: https://deepwoken.fandom.com/wiki/Formless_Shard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Daggers]
@@ -39,4 +39,5 @@ The user swings back their arm and performs a [Mudskipper](Mudskipper.md)\-like 
 
 -   Formless Shard copies the enchant and star values of what weapon it was previously
 -   The only purpose this weapon serves is for the player to still have an equipped weapon after destroying their previous weapon to obtain a Motif.
+    -   The enchanted can be traded in at [Laplace](Laplace.md).
 -   Formless Shard is the weakest weapon in Deepwoken with a close second being [Dormant Splinter](Dormant_Splinter.md).

@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 134478
+revid: 136141
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -46,13 +46,14 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 -   Reinforced Hunger grants certain buffs, signified by a specially colored secondary bar on top of the normal Hunger bar until it's depleted.
 -   The type of boost can be identified by hovering over the differently colored bar.
 -   Different types of boosts will replace each other. Same types of boosts will stack in duration.
+-   The "Buff Strength" stat on food does not indicate the power of the buff, but instead how much of your hunger bar becomes reinforced upon consumption. For example, a Glazed Fish and Mushroom Omelette provide the same melee damage multiplier.
 
 ### Boosts
 
 -   _"You feel your wounds closing up..."_ This buff slightly increases the user's health regeneration speed.
 -   _"You feel as though you could go longer without food..."_ This buff significantly decreases the user's starvation speed.
 -   _"Your magic feels stronger..."_ This buff increases the user's mantra damage. (It possibly increases the effects of Enchants instead, needs confirmation)
--   _"Your weapons feel stronger..."_ This buff increases the user's melee damage.
+-   _"Your weapons feel stronger..."_ This buff increases the user's melee damage. (~1.04% damage multiplier)
 -   _"You feel ether surging into you..."_ This buff increases the user's ether regeneration speed.
 -   _"You feel quicker on your feet..."_ This buff increases your walking/running speed.
 

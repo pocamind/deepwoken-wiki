@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 135172
+revid: 136147
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -54,6 +54,7 @@ Or:
 -   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
 
 -   Use a [Sinner's Ash](<Sinner's_Ash.md>) before you get teleported out of the dungeon. Doing this with a [Resonance](Resonance.md) will not corrupt it, but will still consume the Sinner's Ash.
+-   Requires A [Murmur](Murmur.md)
 
 ## Progression
 

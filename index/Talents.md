@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136131
+revid: 136155
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2001,7 +2001,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Nimble Blade."**_
 
 -   Fast Blade \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
-    -   ~Despite claiming it extends the speed boost you get off parrying, it really just give you a speed boost after parrying. Normally parrying without this Talent does not give you a speed boost.~ Parrying without this talent DOES give a speed boost but it's barely noticeable and lasts for the duration of the parry. (TESTED)
+    -   Parrying without this talent gives you a speed boost, but it's barely noticeable and lasts for the duration of the parry. (TESTED)
+    -   Increases the speed boost duration by 3 seconds.
     -   Prerequisite: 20 Agility
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
