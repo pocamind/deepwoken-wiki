@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 134340
+revid: 136029
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, The Hundred Legions]
@@ -40,4 +40,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia
 
--   Believed to be the best armor for Legion Kata fist style due to its 10% damage boost.
+-   Often stated to be the best armor for users of the the Legion Kata fist style due to the 10% damage boost it grants

@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 135203
+revid: 136020
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals]
@@ -38,7 +38,7 @@ I tried to upload a video of the crit, but it was ruled out as vandalism. If som
 
 ## Trivia
 
--   This weapon serves as an alternate for [Alloyed Tanto](Tanto.md), which is a pseudo medium weapon.
+-   This weapon serves as an alternate for [Alloyed Tanto](Tanto.md), which is often used as a pseudo medium weapon.
 -   Meeting the requirement of LHT, the damage is (17.4)
 -   At max LHT, the damage is (21.7)
 -   Remodeled on December 24th 2024 as a part of World Events update.

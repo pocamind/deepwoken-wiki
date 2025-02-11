@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 136002
+revid: 136041
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -512,13 +512,27 @@ _noun_
 
 -   Refers to a [Nautilodaunt](Nautilodaunt.md).
 
-## Build-Related Terms
+## Character/Build Related Terms
+
+These are terms related to the character, such as their build, abilities, and gear.
 
 ### Chase
 
 _noun, verb_
 
 -   How much mobility/anti-mobility a build has, mainly for chasing people and stopping them from running away. examples of chase Talents and Mantras are: [Revenge](Attunement-less.md#revenge), [Encircle](Shadowcast.md#encircle), Pursuit, Crippling Comeuppance, etc.
+
+### Godroll
+
+_adjective, noun_
+
+1.  The additional stats or a singular additional stat of a piece of equipment, which are normally random, being the highest or most favorable amounts they can possibly be, often obtained through influencing the equipment's stats with [Armorer's Needles](<Armorer's_Needle.md>), [Forge Needles](Forge_Needle.md), and [Gilded Needles](Gilded_Needle.md); equipment with minmaxed stats.
+    1.  Ex. "I have godroll boots and a godroll helmet"
+    2.  Ex. "With a full godroll HP kit you can reach high amounts of HP."
+    3.  Ex. "What's the godroll for Poser's Ring?"
+2.  The allocated stats of a [Resonance](Resonance.md), which are normally random, being the highest or most favorable amounts they can possibly be.
+
+It's called a god _roll_ because the stats are normally random.
 
 ### Minmax
 
@@ -532,18 +546,18 @@ _verb, adjective_
 
 _noun_
 
--   A type of build that mainly focuses on empowering their Mantras and uses almost solely Mantras and sometimes a [Hero Blade](Hero_Blades.md).
+1.  A type of build that mainly focuses on empowering their Mantras and uses almost solely Mantras and sometimes a [Hero Blade](Hero_Blades.md).
 
 ### Shrine
 
 _verb_
 
--   To use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), a [Deep Shrine](Deep_Shrines.md) available to use starting at Power 8 commonly used in builds for its ability to take away and redistribute the player's stats after having spent them on Talents or Mantras with high stat requirements while keeping those Talents or Mantras, allowing for the player to save points to be invested into other stats.
-    -   "Is it ok to shrine at power 14?"
+1.  To use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), a [Deep Shrine](Deep_Shrines.md) available to use starting at Power 8 commonly used in builds for its ability to take away and redistribute the player's stats after having spent them on Talents or Mantras with high stat requirements while keeping those Talents or Mantras, allowing for the player to save points to be invested into other stats.
+    1.  "Is it ok to shrine at power 14?"
 
 _noun_
 
--   Shorthand for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+1.  Shorthand for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
 
 [Deep Shrines](Deep_Shrines.md) other than the Shrine of Order are almost always referred to with their full name.
 
@@ -551,22 +565,22 @@ _noun_
 
 _adjective, noun_
 
--   Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
-    -   Ex. "Is 60 strength postshrine good?"
+1.  Referring to the stats, Talents/Mantras obtained, or state of a build after using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+    1.  Ex. "Is 60 strength postshrine good?"
 
 #### Pre-Shrine, Pre
 
 _adjective, noun_
 
--   Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
-    -   Ex. "I always run 80 willpower preshrine"
+1.  Referring to the stats, Talents/Mantras obtained, or state of a build before using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+    1.  Ex. "I always run 80 willpower preshrine"
 
 #### Shrine down
 
 _verb_
 
--   To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) or [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
-    -   Ex. "I shrined down agility"
+1.  To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) or [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
+    1.  Ex. "I shrined down agility"
 
 ### Sustain
 

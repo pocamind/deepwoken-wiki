@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 135816
+revid: 136046
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -17,6 +17,8 @@ categories: [Mantras, Character, Attunement, Mechanics]
 Considered to be the root of Ether's usage - **Mantras**, sometimes referred to in lore as _words of the Song_, are the heart of _Deepwoken's_ magic system. Simply put, these are be the magic abilities that you use to fend off your adversaries or assist yourself in achieving specific goals.
 
 Mantras are obtained by receiving a [Whisper Draw](Whisper_Draw.md) upon powering up (Power 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19, and 20. A total of 12 mantras you will get by powering up), as well as completing the _one-time-use_ [Kelsius Quest](Kelsius.md) in the [Isle of Vigils](Isle_of_Vigils.md) bringing that up to 13. If you are unsatisfied with a mantra you've chosen, it can be rerolled via the [Shrine of Temptation](Deep_Shrines.md).
+
+A player's Mantras are tied to their character's stats - the higher a given stat, the more likely you are to obtain a corresponding Mantra. Similarly, to weapons and armor, Mantras can also have 1-3 stars which correlate with their rarity and strength. Mantras with higher stars have higher stat requirements.
 
 ## Classification of Mantras
 
@@ -47,10 +49,6 @@ Ranged Mantra Resistance; Standing from the center of the green circle, their is
 
 Ranged Mantras are any Mantra that can deal damage from at least 30 studs away, these Mantras have their damage fall off, reaching fully ranged resistance past 60 studs, Certain enemies like [Scion](Scion_of_Ethiron.md) do not have this resistance while other enemies such as the [Megalodaunts](Megalodaunt.md) do have ranged resistance. Humanoid mobs such as the [Bandit Leader](Bandit_Leader.md) can roll and block ranged attacks, but this does not apply to most monster mobs like the Megalodaunt that cannot block or roll.
 
-## Types of Mantras
-
-A player's Mantras are tied to their character's stats - the higher a given stat, the more likely you are to obtain a corresponding Mantra. Similarly, to weapons and armor, Mantras can also have 1-3 stars which correlate with their rarity and strength. Mantras with higher stars have higher stat requirements.
-
 ## Upgrading Mantras
 
 _Main Article - [Spelltrainers](Attunement_Trainers.md)_
@@ -80,6 +78,8 @@ To modify a Mantra, the Mantra must be recalled at a campfire into the player's 
 -   Most Mantra modifiers increase the ether cost of a Mantra. It is possible for a Mantra to consume most or all of a player's ether upon one use.
 -   You can also change the name of a Mantra by putting it on a Mantra table and saying the name you want it to be.
 -   You can identify what modifiers you have on your Mantra by hovering your mouse over it. Including it's ether cost in numbers & percentage, as well as how many signs on a ritual Mantra.
+
+## Types of Mantras
 
 ### [Flamecharm Mantras](Flamecharm.md)
 
@@ -199,37 +199,37 @@ Mantra IDs are accessed using the built-in Roblox Dev-Console that can be activa
 
 _**(Added back recently, though may be removed in the future.)**_
 
-`Squad`\- Flame / Frost / Illusion _**(Burning Servants, Frozen Servants, Illusory Servants.)**_
+`Squad`\- Flame / Frost / Illusion _**([Burning Servants](Flamecharm.md#burning-servants), [Frozen Servants](Frostdraw.md#frozen-servants), [Illusory Servants](Oath%253A_Visionshaper.md).)**_
 
-`StrongPunch`\- Fire / Shadow / Strength / WeaponMedium _**(Ash Slam, Eclipse Kick, Strong Left, Master's Flourish.)**_
+`StrongPunch`\- Fire / Shadow / Strength / WeaponMedium _**([Ash Slam](Flamecharm.md#ash-slam), [Eclipse Kick](Shadowcast.md#eclipse-kick), [Strong Left](Attunement-less.md#strong-left), [Master's Flourish](Attunement-less.md#masters-flourish).)**_
 
-`Wisp`\- Fire / Shadow / Lightning / Wind / Frost _**(Flame Wisp, Shadow Wisp, Thunder Wisp, Gale Wisp, Frost Wisp.)**_
+`Wisp`\- Fire / Shadow / Lightning / Wind / Frost _**([Flame Wisp](Flamecharm.md#flame-wisp), [Shade Wisp](Shadowcast.md#shade-wisp), [Thunder Wisp](Thundercall.md#thunder-wisp), [Gale Wisp](Galebreathe.md#gale-wisp), [Frost Wisp](Frostdraw.md#frost-wisp).)**_
 
-`Toss`\- Lightning / Ice / Enforcer / Bonekeeper _**(Grand Javelin, Ice Flock, Enforcer Pull, Brachial Spear.)**_
+`Toss`\- Lightning / Ice / Enforcer / Bonekeeper _**([Grand Javelin](Thundercall.md#grand-javelin), [Ice Flock](Frostdraw.md#ice-flock), [Enforcer Pull](Monster_Mantras.md#enforcer-pull), [Brachial Spear](Monster_Mantras.md#brachial-spear).)**_
 
-`Strike`\- Fortitude _**(Shoulder Bash.)**_
+`Strike`\- Fortitude _**([Shoulder Bash](Attunement-less.md#shoulder-bash).)**_
 
-`Skate`\- Ice _**(Ice Skate.)**_
+`Skate`\- Ice _**([Ice Skate](Frostdraw.md#ice-skate).)**_
 
-`RisingSlash`\- Fire / Lightning / Shadow / Wind _**(Rising Flame, Rising Thunder, Rising Shadow, Rising Wind.)**_
+`RisingSlash`\- Fire / Lightning / Shadow / Wind _**([Rising Flame](Flamecharm.md#rising-flame), [Rising Thunder](Thundercall.md#rising-thunder), [Rising Shadow](Shadowcast.md#rising-shadow), [Rising Wind](Galebreathe.md#rising-wind).)**_
 
-`Palm`\- Fire / Shadow _**(Fire Palm, Shadow Meteors.)**_
+`Palm`\- Fire / Shadow _**([Fire Palm](Flamecharm.md#fire-palm), Shadow Meteors.)**_
 
-`Pierce`\- Wind / Ice _**(Gale Lunge, Ice Lance.)**_
+`Pierce`\- Wind / Ice _**([Gale Lunge](Galebreathe.md#gale-lunge), [Ice Lance](Frostdraw.md#ice-lance).)**_
 
-`Pillar`\- Ice _**(Ice Spike, Metal Rampart)**_
+`Pillar`\- Ice _**([Ice Spikes](Frostdraw.md#ice-spikes), [Metal Rampart](Ironsing.md#metal-rampart))**_
 
-`Eruption`\- Ice / Shadow / Blood _**(Ice Eruption, Shadow Eruption, Scarlet Cyclone)**_
+`Eruption`\- Ice / Shadow / Blood _**([Ice Eruption](Frostdraw.md#ice-eruption), [Shadow Eruption](Shadowcast.md#shadow-eruption), [Scarlet Cyclone](Bloodrend.md#scarlet-cyclone))**_
 
-`Blade`\- Fire / Ice / Lightning / Wind / Shadow _**(Fire Blade, Ice Blade, Lightning Blade, Wind Blade, Shadow Blade.)**_
+`Blade`\- Fire / Ice / Lightning / Wind / Shadow _**([Fire Blade](Flamecharm.md#fire-blade), [Ice Blade](Frostdraw.md#ice-blade), [Lightning Blade](Thundercall.md#lightning-blade), [Wind Blade](Galebreathe.md#wind-blade), [Dark Blade](Shadowcast.md#dark-blade).)**_
 
-`Kick`\- Lightning _**(Thunder Kick.)**_
+`Kick`\- Lightning _**([Thunder Kick](Thundercall.md#thunder-kick).)**_
 
-`Dagger`_\-_ Lightning / Ice _**(Fleeting Sparks, Ice dagger)**_
+`Dagger`_\-_ Lightning / Ice _**([Fleeting Sparks](Thundercall.md#fleeting-sparks), [Ice Daggers](Frostdraw.md#ice-daggers))**_
 
-`Forge-` Blood _**(Blood Orb)**_
+`Forge-` Blood _**([Blood Orb](Bloodrend.md#blood-orb))**_
 
-`Conjure-` Blood _**(Crucification, Scarlet Cyclone)**_
+`Conjure-` Blood _**([Crucifixion](Bloodrend.md#crucifixion), [Scarlet Cyclone](Bloodrend.md#scarlet-cyclone))**_
 
 Add more if you find them.
 

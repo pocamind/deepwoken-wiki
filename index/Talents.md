@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136001
+revid: 136039
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -500,6 +500,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 50 Bloodrend
 
 -   Sanguine Siphon \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
+    -   The next mantra will deal an additional 20% damage.
     -   Prerequisite: 40 Bloodrend
 
 -   Sheltering Grasp \[Common Talent\] - Blood mantras cast within blood pools have a reduced blood cost.

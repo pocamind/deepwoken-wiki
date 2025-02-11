@@ -1,6 +1,6 @@
 ---
 title: "Seamstress's Attire"
-revid: 133265
+revid: 136027
 source: https://deepwoken.fandom.com/wiki/Seamstress's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, World Event]
@@ -31,4 +31,4 @@ This Outfit's Schematic can be found in:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
-It is also sold by [Nyanna](Nyanna.md) for 200 Notes.
+It can also be sold by [Nyanna](Nyanna.md) for 200 Notes.

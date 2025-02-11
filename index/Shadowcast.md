@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 135843
+revid: 136043
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -255,7 +255,7 @@ Shadow
 
 -   Deals 31 DMG total
 -   Unaffected by Glass & Magnifying Stones.
--   Clound and Stratus Stones increase the size of the eruption.
+-   Cloud and Stratus Stones increase the size of the eruption.
 -   Pretty similar to [Flamecharm's Flame Repulsion](Flamecharm.md), but with no knockback.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 134437
+revid: 136036
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists]
@@ -12,20 +12,20 @@ categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists]
 |---|---|
 | alloyed name | Template:AlloyedColor |
 | type | Fist |
-| requirements | 50 LHT / 85 LHT |
-| damage | 14 / 16.5 |
+| requirements | 50 LHT / Template:AlloyedColor LHT |
+| damage | 14 / Template:AlloyedColor |
 | scaling | LHT: 9.5 |
 | range | 6 |
 | swing speed | 1.10x |
-| penetration | 10% / 20% |
+| penetration | 10% / Template:AlloyedColor |
 | stances | 1 Handed |
-| weight | 5 / 5.5 |
+| weight | 5 / Template:AlloyedColor |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Mudskipper Brute, Mudskipper BroodlordAlloyed:, Alloying a Coral Cestus |
-| description | Cestus fashioned from the remains of a Mudskipper Brute., You've done the unthinkable... merging nature and metal into a brutal instrument of destruction. The raw purple sheen of untreated pluripotent alloys twists through the craggy gnarled texture of the brute's skin, mirroring the crushing fists of Mudskipper Broodlords. Though not made from authentic materials, its added weight and durability are sure to leave no foe standing. |
+| description | Cestus fashioned from the remains of a Mudskipper Brute., Template:AlloyedColor |
 
 ## Description
 
@@ -35,7 +35,7 @@ The **Coral Cestus** is a Fist Light Weapon that requires 50 LHT to use and drop
 
 The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short knockdown.
 
-The Broodalloy Cestus critical has the same animation with a new visual and sound effect. On top of this, the critical now auto executes anyone who's at low hp or already knocked and drains sanity on hit.
+The Template:AlloyedColor critical has the same animation with a new visual and sound effect. On top of this, the critical now auto executes anyone who's at low health or already knocked.
 
 ## Trivia
 

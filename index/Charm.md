@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 119036
+revid: 136042
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents]
@@ -25,6 +25,8 @@ Charm Talents can be split into two categories; those that give enemies charm an
 **Chaotic Charm** - Charm those nearby when attacked at low health. (Enemies and Allies) Enemies affected by _this_ charm have their damage increased to anyone but you, and deal reduced damage towards you.
 
 **Charismatic Cast** - Landing a hit with a mantra on an enemy causes them to be charmed by your moves, reducing their damage done to you. Allies recover from being knocked twice as quickly when charmed by you.
+
+**Unnecessary Theatrics** - Landing a critical, uppercut, or flourish causes the target to be charmed by you briefly. Also creates a text bubble above your head with a random one-liner.
 
 ### [Charm Augmenting Talents](https://deepwoken.fandom.com/wiki/Talents#Charm_Caster)
 

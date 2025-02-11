@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 135355
+revid: 136019
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -64,6 +64,6 @@ Examples of Winter.
 -   Aelita will still have a chance of spawning Snow Knights if it only recently turned to Spring in the server.
 -   The one and only moment in history where the time in Deepwoken will be the exact same as the time in real life, down to the tenth of a second, is projected to be 15:15:50.4 UTC (50.4 seconds after 3:15 PM UTC) on April 15, 2030. After this moment, Deepwoken will be permanently set in the future.
 -   During the Hallowtide Event, the map appears as Fall, regardless of the season.
--   When the game released the time was round 1270 as said in TheRealRunchee's video 'Full Lore Timeline'
+-   When the game released the time was around 1270 as said in TheRealRunchee's video 'Full Lore Timeline'
 
 Where x is a year in Deepwoken, f(x) is the corresponding year in real life, and g(x) is the number of days after December 31, 2021 that day will occur.

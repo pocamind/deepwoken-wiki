@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 107977
+revid: 136024
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ Template:Creature Infobox V3**Also known as Duke Golems or Prime Golems.**
 
 **Golem Primes** are large, bulky stone constructs that resemble their original counterparts, but with a red core, red eyes and a sleek black paint job.
 
-Golem Primes are found exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), and are much deadlier than a regular **Rock Golem**.
+Golem Primes are found exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and are much deadlier than a regular **Rock Golem**.
 
 In combat, Golem Primes are very hardy, having moderately high health and high slash resistance. Despite essentially being the same as a regular Rock Golem, take high caution when fighting a Golem Prime as their attacks are much stronger compared to the latter, but they are still pretty easy once you know how to fight them.
 

@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 108105
+revid: 136018
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Oaths]
@@ -16,7 +16,7 @@ categories: [Mechanics, Items, Oaths]
 | pass down | No |
 | desc | A piece of the very stars, allowing one to cross the world's webs. |
 
-_Not to be confused with the [Star Duster](Star_Duster.md)._
+_Not to be confused with the [Star Duster](Star_Duster.md), a piece of equipment_
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 135913
+revid: 136022
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -34,7 +34,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 The twisted, awoken form of the [Dormant Splinter](Dormant_Splinter.md) crafted using the soul within the [Cold Forge](The_Cold_Forge.md) with sufficient ores and a vessel.
 
-It deals 50% of its scaled damage (before modifiers) as Wither every basic attack, dealing from **8.55** Wither (65MED) to **11.25** Wither (100MED 6PROF 3\* DMG).
+It deals 50% of its scaled damage (before modifiers) as Wither every basic attack, dealing from **8.55** Wither (65MED) to **11.25** Wither (100 MED 6, PROF, 3\* DMG).
 
 It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
@@ -48,7 +48,7 @@ At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is **28.2 + 8.45\[BL
 
 ## Critical
 
-The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second doing knockback. Both hits apply **bleed**. The windup of the first slash is 0.6s, and the windup of the second slash is 0.475s. There is 0.2s of endlag after the critical attack.
+The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second knocking back the target Both hits apply **bleed**. The windup of the first slash is 0.6s, and the windup of the second slash is 0.475s. There is 0.2s of endlag after the critical attack.
 
 The first hit has 0.2s of hyper armor and deals **0.35x** of your weapon's scaled damage, applies **20 Wither** regardless of scaling and damage modifiers. The first slash also applies 10s of full Antiheal, dazes for 1 second, and deals 10 posture damage with 45% chip.
 

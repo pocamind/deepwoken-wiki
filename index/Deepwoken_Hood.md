@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 135635
+revid: 136051
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -34,3 +34,4 @@ A Deepwoken Hood is an accessory under the "_Head_" category. They can be found 
 
 -   Not the best for HP, but if you're looking for the highest amount of DVM/Phys Armor/Elem Armor/Mons Armor, this and the [Vigil Hood](Vigil_Hood.md) are the [Equipment](Equipment.md) pieces for you. Highest Potential Stats - DVM: 9% | Phys & Elem Armor: 17% | Mons Armor: 16% (w/ 10 health or 6 DVM).
 -   The Deepwoken Hood is part of the "Deepwoken" set, with the only other piece being the [Deepwoken Cloak](Deepwoken_Cloak.md).
+-   It seems equipment that requires stats to equip is bugged because it is possible to equip this on a build with 0 agility as long as you meet the level requirement.

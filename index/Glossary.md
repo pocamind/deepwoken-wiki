@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 136003
+revid: 136055
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,7 +12,14 @@ categories: [Mechanics]
 
 The Glossary is a feature that explains terminology and events in game that reveal information about certain topics. Glossary entries can be accessed by clicking underlined words or phrases in NPC dialogue.
 
-## Glossary
+### Entities
+
+#### The Celestials
+
+-   The former inhabitants of the Heavens above. Similar in many ways to Mankind, but of a different species altogether.
+-   When the Tides came, the Celestials were driven from the Heavens down to the Surface below.
+-   Many within Lumen view the Celestials as Gods, with many major religions within Lumen worshipping them.
+-   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the Western Luminant and beyond.
 
 ### Factions
 
@@ -57,9 +64,9 @@ The Glossary is a feature that explains terminology and events in game that reve
 
 #### Mur of Light
 
--   A goddess worshipped by many in the Etrean Luminant.
+-   A Goddess worshipped by many in the Etrean Luminant.
 -   Many believe that Mur was responsible for bringing about the knowledge that Murmurs to the Kingdom of Etrea.
--   As with many Gods, the contemporary understanding is that Mur may have been a Celestial
+-   As with many Gods, the contemporary understanding is that Mur may have been a Celestial. (Unlocked by asking [Theadre](Theadre.md) if Mur could be a Celestial)
 -   Andros said they hadn't seen any accounts of Mur outside of the Etrean Luminant.
 
 #### The Sovereign Drallis Ehr
@@ -87,7 +94,7 @@ The Glossary is a feature that explains terminology and events in game that reve
 -   With the Depths closer than ever before, sightings of misshapen monstrosities and nightmarish beasts emerging from below plagued the shores of Lumen, hemming mankind ever inwards towards the safety of the peaks.
 -   As the Tides came, so too did the Void snake its fingers into the now-vacant shallows of sunken ruins. In modern times, the vast majority of Lumen is ensnared in the grasp of the Voidsea.
 -   Though the Tides brought about a physical calamity through the submergence of Lumen, they also brought about an existential calamity in the Drowning.
--   The times since the Tides began are often referred to as 'The Aftertide', \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or as being 'Post-Tidal'. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+-   The times since the Tides began are often referred to as 'The Aftertide', or as being 'Post-Tidal'.
 -   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as Lumen continues to slip further and further into the Depths below.
 
 ### Places
@@ -133,17 +140,12 @@ The Glossary is a feature that explains terminology and events in game that reve
 -   Those that make a living by exploring ruins and driftlands.
 -   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
 
+  
+
 ### Black Divers
 
 -   The highest-ranking field personnel of the Divers, granted oversight and authority second only to the Administrators of Operating Bases.
 -   Black Divers have all descended beyond the First Layer on solo expeditions and have lived to tell the tale. As such, every Black Diver stands as a formidable individual, with many of their rank consisting of the most brilliant (and twisted) minds of the era.
-
-### The Celestials
-
--   The former inhabitants of the Heavens above. Similar in many ways to Mankind, but of a different species altogether.
--   When the Tides came, the Celestials were driven from the Heavens down to the Surface below.
--   Many within Lumen view the Celestials as Gods, with many major religions within Lumen worshipping them.
--   Of these religions, the [Starkindred](Oath%253A_Starkindred.md) Faith is one of the most populous, holding considerable influence over the Western Luminant and beyond.
 
 ### The Citadel of Markor
 

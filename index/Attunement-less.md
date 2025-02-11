@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 135971
+revid: 136044
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1318,43 +1318,6 @@ _Click to reveal yourself and deliver a rapid flurry of slashes that can chain t
  |
 | 
 
-**Karita Leap** (☆☆☆)
-
-**Mobility Mantra**
-
-_Launch yourself into a flying kick, backflipping into the air if you hit a wall._
-
- | 
-
-## Karita Leap (☆☆☆)
-
-  
-**Mobility Mantra**  
-_Launch yourself into a flying kick, backflipping into the air if you hit a wall._
-
- |
-| 
-
-\[missing, add\]
-
- | 
-
-\[missing, add\]
-
- | 
-
-20 Light Weapon, [Jus Karita](Jus_Karita.md)
-
- |
-| 
-
-**Effect:** _User thrusts themself forward with a kick, ragdolling opponents and leaping back into the air if they hit a wall._
-
--   Hitting a wall causes you to backflip.
-
- |
-| 
-
 **Karita Divebomb** (☆☆☆)
 
 **Combat Mantra**
@@ -1388,6 +1351,43 @@ _Launch into the air and deliver a devastating divebomb kick. Chains from Karita
 **Effect:** _User jumps into the air and slams down_
 
 -   Windup is **HEAVILY** reduced upon being used directly after Karita Leap
+
+ |
+| 
+
+**Karita Leap** (☆☆☆)
+
+**Mobility Mantra**
+
+_Launch yourself into a flying kick, backflipping into the air if you hit a wall._
+
+ | 
+
+## Karita Leap (☆☆☆)
+
+  
+**Mobility Mantra**  
+_Launch yourself into a flying kick, backflipping into the air if you hit a wall._
+
+ |
+| 
+
+\[missing, add\]
+
+ | 
+
+\[missing, add\]
+
+ | 
+
+20 Light Weapon, [Jus Karita](Jus_Karita.md)
+
+ |
+| 
+
+**Effect:** _User thrusts themself forward with a kick, ragdolling opponents and leaping back into the air if they hit a wall._
+
+-   Hitting a wall causes you to backflip.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 133293
+revid: 136021
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons]
@@ -47,3 +47,4 @@ The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. it is 
 ## Trivia
 
 -   This is currently the only dagger in the game that does not have any endlag.
+-   This weapon is often treated as a pseudo-medium weapon due to it's slower swing speed and higher damage in comparison to other daggers
