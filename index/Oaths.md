@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 136152
+revid: 136192
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -24,8 +24,7 @@ All **Oath Damage** is a separate damage type that is only affected by Oathless 
 
 ### Obtainable Oaths
 
-_Notes:_  
-ts = essentially means crashout
+_Notes:_
 
 _"comb." means a combined total across multiple listed stats_  
 

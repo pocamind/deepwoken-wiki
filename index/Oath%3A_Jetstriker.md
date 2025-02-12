@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 134420
+revid: 136201
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -74,7 +74,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
     -   While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
         -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance; you will easily hurt yourself. This also boosts players alongside you too.
         -   You can only boost yourself up twice **in a row** before it goes on cooldown, meaning if you boost yourself once and wait a slight bit, it will not go on cooldown.
-        -   With slightly high agility, players are unable to follow you up Stratos Step
+        -   With slightly high agility, players are unable to follow you up Stratos Steps.
 
 -   **Decisive Winds - Talent**
     -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)

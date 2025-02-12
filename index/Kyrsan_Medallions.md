@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 134458
+revid: 136197
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2, Currency]
@@ -23,7 +23,7 @@ Example of a Kyrsan Medallion chest
 
 Currently, New Kyrsa is the only location where Medallions can be found. There are two primary ways of obtainment:
 
--   They can be found in pink chests around the city, containing 7-16 Kyrsan Medallions.
+-   They can be found in pink chests around the city, containing 7-18 Kyrsan Medallions.
     -   These chests spawn only at static locations around the location and their location and content resets after player spawning in [Kyrsan Shrine of Arrival](Kyrsan_Shrine_of_Arrival.md) or defeating the [Scion of Ethiron](Scion_of_Ethiron.md).
 -   They can be obtained via summon event inside the trap buildings. Activating the event via a button will result in 2 waves of [Kyrsgarde](Kyrsgarde.md) spawning. After defeating the enemies, multiple Kyrsan Medallions will spawn at the central point of the building.
 

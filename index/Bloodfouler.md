@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 136175
+revid: 136200
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons]
@@ -48,5 +48,6 @@ While running when performing the critical, you will move forward at the same sp
 ## Trivia
 
 -   The sheathe depicts symbols of [The Ministry](The_Ministry.md), alongside an emblem resembling the symbol for [Notes](Notes.md), the [Moonseye](Moonseye.md), and another pattern.
+-   The creator of the Bloodfouler is likely an Etrean due to the weapon's shape deriving from Etrean make.
 
 -   It does not change appearance with Alloyblood.

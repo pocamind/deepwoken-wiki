@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 136184
+revid: 136202
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Deepwoken, Developer Specs]
@@ -194,8 +194,6 @@ _For more information about Stag Acrossus/Nuttoons, read Stag Acrossus._
 [MICROWAVETM](MICROWAVETM.md) - Mod shop only
 
 [Moderator Cap](Moderator_Cap.md) - Mod shop only
-
-[Inquisitor's Duster](<Inquisitor's_Duster.md>) - Dev interaction (?)
 
 [Worldshaper's Laurel](<Worldshaper's_Laurel.md>) - Winning the Banner Contest
 

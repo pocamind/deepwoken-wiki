@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 135227
+revid: 136204
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1817,7 +1817,7 @@ Listed below are all flairs available currently in-game.
 -   The names "Usopp" and "Alvida" are references to the anime and manga series, [_One Piece._](https://onepiece.fandom.com/)
     -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only Ussop was added.[\[1\]](#cite-note-1) Alvida was added much later
 -   The names "Solaire", "Ornstein", "Smough", "Seath", "Patches", "Artorias", "Gwyn", "Wolnir", "Aldrich", "Oceiros", "Lorian", "Lothric", "Midir", and "Gael", are a reference to various characters from the _Dark Souls_ series.
-    -   Initially, the name "Ornstein" was erroneously spelled as "Orstein."
+    -   Initially, the name "Ornstein" was _**incorrectly**_ spelled as "Orstein."
 -   The name "Kamina" is a reference to the popular [Gurren Lagann](https://gurrenlagann.fandom.com/wiki/Kamina) character of the same name.
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
     -   Funnily enough, they are both technically the same person.
