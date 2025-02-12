@@ -1,6 +1,6 @@
 ---
 title: Dungeons
-revid: 128396
+revid: 136222
 source: https://deepwoken.fandom.com/wiki/Dungeons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,3 +15,5 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 -   [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)
 -   [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)
 -   [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Bladeharper](Oath%253A_Bladeharper.md) obtainment room

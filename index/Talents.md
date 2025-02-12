@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136155
+revid: 136223
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2495,8 +2495,10 @@ _**"My cure is most effective."**_
 
 > _**"I seek the qualities of Showboater."**_
 
--   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly. (Does not proc "Golden Tongue" Talent).
+-   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
     -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
+    -   Lasts around 6 seconds, on flourish, uppercut and criticals equally.
+    -   Does not proc "Golden Tongue" Talent
     -   Prerequisites: Charismatic Cast, 75 Charisma
 
 ### Soul Converter

@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 133474
+revid: 136212
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -30,7 +30,7 @@ categories: [Weapons, Fists, Fighting Styles]
 
 ## Description
 
-Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from helping the Legion Centurion fight the Adret in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md). While sharing the same statistics as [Way of Navae](Way_of_Navae.md), they differ in M1 animations, stances and critical attacks.
+Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from talking to a Legion Captain with high positive reputation with the Hundret Legions in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md). While sharing the same statistics as [Way of Navae](Way_of_Navae.md), they differ in M1 animations, stances and critical attacks.
 
 While Legion Kata has the same damage as **Way of Navae**, the critical possesses more potential to mix-up the opponent, useful for fighting players rather than NPCs. The suplex comes out quickly and can easily confuse an opponent you are fighting against.
 
@@ -40,9 +40,11 @@ User performs a suplex, turning their opponent upside down and firmly slamming t
 
 ## Obtainment
 
-To obtain it, you must gain Ally reputation with [The Hundred Legions](The_Hundred_Legions.md), the most accessible way to do this is to help the Legion Captain in the Legion vs. Authority Lieutenant event at [Starswept Valley](The_Starswept_Valley.md). It will take two successful attempts before the Legion gives you the recommendation.
+To obtain it, you must gain Ally reputation with [The Hundred Legions](The_Hundred_Legions.md), the most accessible way to do this is to do tasks on job boards at [Starswept Valley](The_Starswept_Valley.md).
 
-Alternatively, you can do the [legion scout quest](https://deepwoken.fandom.com/wiki/Quests#Lars). This way you will gain enough reputation to get recommendation without helping in the said event, but you will still need to talk to Legion Captain in [Starswept Valley](The_Starswept_Valley.md) to get it.
+Alternatively, you can do the [legion scout quest](https://deepwoken.fandom.com/wiki/Quests#Lars). This way you will gain enough reputation.
+
+afterwards you will need to talk to a Legion Captain in the [Starswept Valley](The_Starswept_Valley.md) to get it, their spawn is very common.
 
 Afterwards, once you obtain the recommendation, you must go to [The Viper's Jaw](<The_Viper's_Jaw.md>) in [Erisia](Erisia.md) and turn it in to [Amara](Amara.md). This will grant you the Legion Kata Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 

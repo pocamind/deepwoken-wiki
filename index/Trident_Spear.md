@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 136008
+revid: 136215
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique Criticals, Alloyed Weapons]
@@ -30,7 +30,7 @@ categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique 
 
 ## Description
 
-The Trident Spear is a midgame medium weapon in the form of a three-pronged spear. It can be obtained by doing the explosion crate quest at [Summer Isle](Summer_Isle.md), chests at [Saramaed Summit](Saramaed_Summit.md), chests at [Miner's Landing](<Miner's_Landing.md>), chests at [Upper Erisia](Upper_Erisia.md) or from [Depths](The_Depths.md) chests. The Trident Spear is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats while giving it a Damascus steel-type texture.
+The Trident Spear is a midgame medium weapon in the form of a three-pronged spear. It can be obtained by doing the explosion crate quest at [Summer Isle](Summer_Isle.md), chests at [Saramaed Summit](Saramaed_Summit.md), chests at [Miner's Landing](<Miner's_Landing.md>), chests at [Upper Erisia](Upper_Erisia.md) or from [Depths](The_Depths.md) chests. The Trident Spear is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats while giving it a Damascus steel-type texture and a slight purple hue
 
 ## Critical
 

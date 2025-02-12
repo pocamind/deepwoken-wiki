@@ -1,9 +1,9 @@
 ---
 title: Light Hook
-revid: 131990
+revid: 136236
 source: https://deepwoken.fandom.com/wiki/Light_Hook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, StubPages, Items]
+categories: [OutdatedPages, Pages with broken file links, StubPages, Items]
 notices:
   - "This page may contain incorrect information. Please wait for an updated version to release. We aren't entirely sure how recharging works."
 ---
@@ -25,6 +25,10 @@ The Light Hook lasts for a finite amount of time, and will disappear once that t
 -   The Light Hook does not need to be fully charged to enter the second layer through Castle Light again.
 
 **Activating the Light Hook will remove any items you have collected in the second layer**, same as the Deepdrill.
+
+File:Light Hook.png
+
+Light Hook
 
 ## Recharging
 

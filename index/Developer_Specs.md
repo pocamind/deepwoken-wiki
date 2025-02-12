@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 136202
+revid: 136234
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Deepwoken, Developer Specs]
@@ -147,7 +147,7 @@ He also has a [Heliodar](Heliodar.md) slot.
 
 ### Melon\_Sensei/Par
 
-Par has the spec to spawn a ~cat maid~ "servant" that will execute any downed players/NPCs. Not much is known about this spec at the moment.
+Par has the spec to spawn a ~cat maid~ "felinor servant" (Seriously dawg?) that will execute any downed players/NPCs. Not much is known about this spec at the moment.
 
 ### Spookeree/Sycne (Asher Eko / Hiroh Palo / Destroyman III)
 
@@ -219,9 +219,9 @@ Calabash - Mod spec or Exclusive Weapon
 
 [Primal Vesperian](Primal_Vesperian.md) - Arch\_Mage, Nuttoons.
 
-[Abberant Capra](Aberrant_Capra.md) -
+[Abberant Capra](Aberrant_Capra.md) - SudoMesh
 
-[Auroran](Auroran.md) -
+[Auroran](Auroran.md) - Auchura
 
 [Heliodar](Heliodar.md) -
 

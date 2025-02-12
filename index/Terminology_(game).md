@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 136041
+revid: 136231
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -34,12 +34,12 @@ _adjective_
 
 1.  (Competitive) A very good, very **comp**etitively viable build, Talent or other ability; meta.
     1.  Ex. "Is Twister Kicks comp?"
-2.  A PvP/competitively focused guild.
-    1.  Ex. "Yo guys join my comp guild"
 
 _noun_
 
 1.  Competitive play (PvP, chime).
+2.  A PvP/competitively focused guild.
+    1.  Ex. "Yo guys wanna join my comp guild?"
 
 ### Freshie
 
@@ -94,8 +94,9 @@ Can also refer to a bar section of another resource like Blood or Hunger.
 
 _verb_
 
-1.  To deal damage equivalent to \[number\] sections of health to an opponent, or to still have 5 (full HP) or \[number\] bars of health remaining after fighting an opponent.
+1.  To still have 5 (full HP) or \[number\] bars of health remaining after fighting an opponent.
     1.  Ex. "If we ever fought i would 5 bar u"
+2.  To deal damage equivalent to \[number\] sections of health to an opponent.
 
 "5 barred" or "5 bar" can be used to humiliate someone bad at PvP, or imply that they are. It can also be used in a joking or ironic context.
 
@@ -526,11 +527,11 @@ _noun, verb_
 
 _adjective, noun_
 
-1.  The additional stats or a singular additional stat of a piece of equipment, which are normally random, being the highest or most favorable amounts they can possibly be, often obtained through influencing the equipment's stats with [Armorer's Needles](<Armorer's_Needle.md>), [Forge Needles](Forge_Needle.md), and [Gilded Needles](Gilded_Needle.md); equipment with minmaxed stats.
+1.  The additional stats or a singular additional stat of a piece of equipment being the highest or most favorable amounts they can possibly be, often obtained through influencing the equipment's stats with [Armorer's Needles](<Armorer's_Needle.md>), [Forge Needles](Forge_Needle.md), and [Gilded Needles](Gilded_Needle.md); equipment with minmaxed stats.
     1.  Ex. "I have godroll boots and a godroll helmet"
-    2.  Ex. "With a full godroll HP kit you can reach high amounts of HP."
-    3.  Ex. "What's the godroll for Poser's Ring?"
-2.  The allocated stats of a [Resonance](Resonance.md), which are normally random, being the highest or most favorable amounts they can possibly be.
+    2.  Ex. "With a full godroll HP kit you can tank alot of hits"
+    3.  Ex. "What's the godroll for Ignition Gauntlets?"
+2.  The allocated stats of a [Resonance](Resonance.md) being the highest or most favorable amounts they can possibly be.
 
 It's called a god _roll_ because the stats are normally random.
 
@@ -579,8 +580,9 @@ _adjective, noun_
 
 _verb_
 
-1.  To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) or [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
+1.  To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
     1.  Ex. "I shrined down agility"
+2.  (rarely) To reduce a stat with the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
 
 ### Sustain
 

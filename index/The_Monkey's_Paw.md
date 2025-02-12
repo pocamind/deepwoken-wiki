@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 134631
+revid: 136221
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -35,5 +35,5 @@ On the edge of the ridge there's a fire that is always burning. You can interact
 -   The music for this area when fighting [Primadon](Primadon,_Titan_of_the_East.md) is [A Symphony Of Strife](Deepwoken_OST.md) by Naktigonis
 -   The location's name is likely a reference to the story "The Monkey's Paw" by W.W. Jacobs, where a family of three receives a severed monkey's paw that will grant them three wishes. However, each wish comes with a terrible consequence.
     -   The wish in this game is the items used in the Sacrificial Flame, and the "consequence" is the [Primadon](Primadon,_Titan_of_the_East.md) coming up from out of the water.
--   Be careful while you are here, as this is a popular ganking spot for some guilds and you may stumble upon people which will attack you after you kill Primadon or even during it, exercise caution and make sure no undesirable third party is waiting to ambush you here before starting Primadon's boss fight.
+-   Be careful while you are here, as this is a popular ganking spot for many players and you may stumble upon people which will attack you after you kill Primadon or even during it, exercise caution and make sure no undesirable third party is waiting to ambush you here before starting Primadon's boss fight.
 -   The Monkey's Paw, along with Layer 2 floors 1 and 2, are the only few places where Roblox terrain is used for its environment.

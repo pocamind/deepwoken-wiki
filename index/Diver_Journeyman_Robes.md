@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 134316
+revid: 136218
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Divers]
@@ -36,4 +36,4 @@ This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increas
 -   Stat wise, this outfit is an upgrade to Diver Apprentice in all ways (beside the lack of Ether Regen and the same durability).
     -   It has an additional 10% Physical Armor, 15% Elemental Armor and an extra 10% Blunt Armor, which Diver Apprentice does not have.
 -   All ingredients can be obtained in The Depths. Players with the Deepbound Origin should craft this armor as soon as possible, as it is the most easily achievable upgrade to their starter armor and will help them survive The Depth much more.
--   A good replacement for the hive drone as the only difference is the blunt resistance and the Talent
+-   A good replacement for the [Hive Drone](Hive_Drone.md) as the only difference is the increased blunt resistance and the lack of 5% Wind Armor
