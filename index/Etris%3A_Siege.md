@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 112658
+revid: 136171
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Random Encounters, Etrea, Etrean Luminant]
@@ -17,7 +17,7 @@ The clash of blades rings throughout the city, decaying to havoc.
   
 
   
-Also referred to as, "Etris Raid Event", "[Etris](Etris.md) vs Authority Raid Event," "[Etris](Etris.md) Raid," ''[Etris](Etris.md) Burning Event',' ''[Etris](Etris.md) War Event"
+Also referred to as "Etris Raid Event", "Etris vs Authority Raid Event", "Etris Raid", "Etris Burning Event, "Etris War Event"
 
 ## Description
 
@@ -25,9 +25,9 @@ The siege of Etris is a large and rare event in which [the Authority](The_Centra
 
 At the beginning of the event, [Seraphina](Seraphina.md) talks about the Authority ceasing their operations in the East, as if they're preparing for something. Soon after, the docks are greeted by a large number of both [Etrean](Etrean_Guardsmen.md) and [Authority](Authority_Officer.md) soldiers fighting as a deafening explosion rings throughout the island. Slowly, the Authority crawls up into the city of Etris, starting from the docks, to the Etrea Wilds, and eventually reaching the main city, causing more and more havoc to break out.
 
-Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will prioritise Authority Commanders above all. [Nell](Nell,_Master_of_Frost.md) the Ice Trainer will stay neutral unless provoked, in which she will help fight off the Authority.
+Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will prioritize Authority Commanders above all. [Nell](Nell,_Master_of_Frost.md) the Ice Trainer will stay neutral unless provoked, in which she will help fight off the Authority.
 
-If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, the powerful [Wyrmtooth](Wyrmtooth.md) and [Kanabo](Kanabo.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>).
+If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md) or an [Authority Commander](<Authority_Commander_(Enemy).md>), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, the powerful [Wyrmtooth](Wyrmtooth.md) and [Kanabo](Kanabo.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>).
 
 You are bound to accidentally hit NPCS belonging to the Etrea faction. Don't worry, as even though it gives bad reputation then, the positive reputation given for beating the event overcomes the negative reputation by quite a lot.
 

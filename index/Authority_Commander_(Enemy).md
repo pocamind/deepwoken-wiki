@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 132485
+revid: 136176
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -12,11 +12,11 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Authority Commanders are high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least **ONE** Commander is located within the prison of [Fort Merit](Fort_Merit.md), in a room staring at some empty shelves. An Authority Commander can also be found in the [Etris Siege](Cinders_of_Etris.md) event.
+Authority Commanders are high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least **ONE** Commander is located within the prison of [Fort Merit](Fort_Merit.md), in a room staring at some empty shelves. An Authority Commander can also be found in the [Etris: Siege](Cinders_of_Etris.md) event.
 
 ## Moveset
 
-Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Cavalry Saber](Cavalry_Saber.md)\]\] along with the [Flamecharm](Flamecharm.md) Attunement, and some hand-to-hand combat:
+Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Cavalry Saber](Cavalry_Saber.md) along with the [Flamecharm](Flamecharm.md) Attunement, and some hand-to-hand combat:
 
 | Moves | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
