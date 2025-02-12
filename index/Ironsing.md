@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 136091
+revid: 136210
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -381,7 +381,8 @@ Metal + Slash
 
 -   Deals 5.5 DMG + 1.5 Bleed at level 5, 3 posture per hit.
 -   1.5s wind up, 20s CD, 3.3s CD
--   Total hits around 22-23 times
+-   Does 23 hits total.
+-   Doesn't apply parry stun to user.
 -   Applies Metal Rods on hit.
 -   Comparable to Thundercall's [Bolt Piercer](Thundercall.md#bolt-piercer) Mantra.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
@@ -531,6 +532,7 @@ Metal + Slash
 **Effect:** _Coat the character's body and weapon in iron sparks. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds._
 
 -   Deals 24 dmg at level 5, posture 4 per hit, 0.35s wind up, lasts 20s, 30s cd
+-   Applies very brief parry stun to user.
 -   Upgrading the level increases the duration of the Mantra.
 -   Deep gems do not proc, except for Blue.
 
@@ -566,7 +568,8 @@ Metal + Slash
 
 **Effect:** _A gesture is performed on the right hand, causing a barrage of spikey metal beams to form from all angles and impale any nearby targets from all, dealing high damage._
 
--   Deals 67 dmg at level 5, 1.25s wind up, 14s cd.
+-   Deals 90 dmg at level 5, 1.25s wind up, 14s cd.
+-   Doesn't apply parry stun to user.
 -   Can be parried and blocked.
 -   Applies Metal Rods on hit.
 -   Cannot be modified with any Mantra modifiers.

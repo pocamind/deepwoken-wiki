@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 134087
+revid: 136209
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -317,9 +317,11 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 **(Power 2)** Chain of Perfection \[Echo Talent\] - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) without getting hit by one of the boss' attacks.**_
 
--   Increases PvE damage the more melee hits you deal without taking hits in return.
+-   Increases PvE damage by 5% each melee hit you deal without taking hits in return.
     -   Unlocked on the initial slot, and any characters or slots created after obtainment upon reaching power 2.
         -   Unlocked on slots prior to obtainment IF it obtains a level.
+        -   The maximum threshold of damage is 2x.
+        -   Chain of Perfection does **not** work in PvP.
 
 **(Power 3)** Engage \[Echo Talent\] - _Gain Engage at Power 3 ._ _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 

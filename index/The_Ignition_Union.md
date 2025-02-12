@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 134106
+revid: 136208
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -87,6 +87,8 @@ Enemy-Neutral Reputation
 [Deepdelver Renau](Renau.md): A Canor Deepdelver who resides in the Chariot's Spire along with Gamma and is in charge of sending or going to expeditions into the second layer, he is worried of the current batch of union members who are in the Eternal Gale as they were unqualified with the most being Epsi.
 
 [Deepdelver Finnegan](Finnegan_The_Lost.md): A Former Deepdelver who wields one of the prototypes of the [Boltcrusher](Boltcrusher.md), he had a lover who has deceased from unknown reasons. Because of this his mind broke causing his sanity to crumble attacking anything he sees, as the Ignition Union tasks you to bring him down.
+
+[Gawain Corbet](Books.md): A presumed Adret Deepdelver of The Ignition Union who created the song "The Hammer's Call", his current whereabouts are unknown.
 
 [Alpha](Alpha.md): An old Canor seeming as the leader in the Frontier Furnace.
 
