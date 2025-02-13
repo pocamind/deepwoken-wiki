@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 136234
+revid: 136243
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Deepwoken, Developer Specs]
@@ -200,6 +200,12 @@ _For more information about Stag Acrossus/Nuttoons, read Stag Acrossus._
 [Mod Suit](Mod_Suit.md) / [Mod Skirt](Mod_Skirt.md) - Mod Shop Only
 
 ## Exclusive Weapons
+
+[Ebonshard Lexicon](Ebonshard_Lexicon.md) - Exclusive to Nuttoons
+
+[The Rock](The_Rock.md) - Exclusive to Nuttoons
+
+[Soulshot](Soulshot.md) - Exclusive to Nuttoons
 
 Paintbrush - Winning an Art Contest
 

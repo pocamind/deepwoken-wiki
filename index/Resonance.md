@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 135401
+revid: 136237
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -239,7 +239,7 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   The higher the level you are, the easier it is to obtain a **Resonance**
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
 -   The most popular, now debunked, method around the time _Deepwoken_ released involved staying in The Depths for **seven hours straight** whilst farming for level & luck. Although being comically wrong, it set the groundwork for people to discover the truth behind **Resonances.**
--   A number of doors other than the one at the [Temple of Hearts](Temple_of_Hearts.md) require a **Resonance** to open. One is at the end of the parkour in the Depths, one is in Saramaed Summit, and one is near a waterfall at [Aratel Island](Aratel_Island.md).
+-   A number of doors other than the one at the [Temple of Hearts](Temple_of_Hearts.md) require a **Resonance** to open. One was at the end of the parkour in the Depths prior to it becoming the home of the Diluvian Mechanism, one is in Saramaed Summit, and one is near a waterfall at [Aratel Island](Aratel_Island.md).
 -   It also seems like the amount of Progress needed for a **Resonance** share among all slots in an account. (If the previous slot gets a **Resonance** early then other slots will likely get it early too.)
 -   As of 2/8/2025, World Bosses like The Doom of Caeranthil and Interluminary Parasol now give Resonance progression.
 -   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" and you don't have a bell, **DO NOT try to go and bell check**, as it is most likely a bug. If this happens, rejoin until his dialogue changes.

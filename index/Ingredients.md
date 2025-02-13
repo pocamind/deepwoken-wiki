@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 129554
+revid: 136249
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -65,6 +65,8 @@ Lotuses are unique ingredients that are used to make attribute flasks, which are
 Lotuses can also be used to obtain the [Saltchemist Oath](Oath%253A_Saltchemist.md).
 
 Lotuses and attribute flasks cannot be dropped. Lotuses can be added to potions, though they have no effect. Lotuses can be sold for 15 notes each.
+
+-   JUST A HEADS UP DO NOT USE A CAULDRON TO MAKE FLASK you use a CRAFTING TABLE!
 
 2 of each lotus crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of Intelligence).
 

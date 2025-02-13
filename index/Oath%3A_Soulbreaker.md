@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 136182
+revid: 136239
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -58,7 +58,7 @@ Or:
 
 ## Progression
 
-This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md) up to 5 times to max it (except for [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)). [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wishes also counts (needs more testing).
+This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md) (excluding for [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)) or making wishes with the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) up to 5 times to max it.
 
 ## Effects
 
@@ -136,4 +136,4 @@ February 8th 2025
 
 -   Currently, this is one of four Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), [Saintsworn](Oath%253A_Saintsworn.md), and [Chainwarden](Oath%253A_Chainwarden.md))
     -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.
--   It is recommended to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to progress this Oath as it only uses 1 Knowledge each time.
+-   It is recommended to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) or [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) to progress this Oath as they only use 1 Knowledge each time.

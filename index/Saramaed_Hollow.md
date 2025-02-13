@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 136132
+revid: 136241
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -159,14 +159,14 @@ The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudski
 
 More loot will appear if bringing more players, but naturally, this will also result in more monsters. Be cautious!
 
-Relics and enchant stones can drop from any chest at any floor.
+[Relics](Relics.md) and [Enchant Stones](Enchant_Stone.md) can drop from any chest at any floor.
 
 Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Threshers](Thresher.md) Spawn.
 
 ## **Tips**
 
 -   The Saramaed Hollow is a fairly low-risk, high-reward dungeon as you have the chance of getting most relics, enchant stones, and godroll gear just from killing medium level mobs like Megalodaunts and Threshers.
--   Additionally, if you are low / about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m and will have to restart the delving all over again.
+-   Additionally, if you are low and about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m and will have to restart the delving all over again.
     -   Do note that if you are doing it with one or more friends, you need to wait for all of them to be near / inside the Deepdrill before you can use the radio to call you up.
 -   The Saramaed Hollow is also a good grinding fodder for if you're NOT low-level, having weak mobs like Mudskippers and Megalodaunts to boost early game progression. However, Brutes spawn earlier than Megalodaunts despite being much harder to handle. Threshers and Desert Knights help you progress midgame, and Broodlords and Megalodaunt variants to give you that final push to max level.
 -   It is recommended to stockpile the ores to get to skip a floor that is a hustle dealing with.
@@ -177,14 +177,15 @@ Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Th
 ## Trivia
 
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
--   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m
+-   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m.
 -   The more people you have, the more ores you need.
     -   1 Person, 5 Ores
-    -   2 People, 7 Ores,
+    -   2 People, 7 Ores
     -   3 People, 9 Ores
+-   [Phoenix Flames](Talents.md) may resurrect you in case you get knocked by fire hazards or lava, which can help if you fall in.
 -   Rarely, there may be a floor that usually comes after or at 1.5km that requires you to kill just one thresher in turn for amazing loot.
     -   Uncommonly, there may also be a floor that requires you to kill just two threshers in exchange for amazing loot.
 -   The cave paintings show that civilization has once been here long before the Union have.
-    -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast. (Possibly a Megalodaunt?)
+    -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast, possibly a Megalodaunt.
     -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
--   There is a sentence when trying to leave on next floor without 1 member in the drill. "Leave no delver behind". This is surely a reference to "Leave no dwarf behind" from other game Deep Rock Galactic.
+-   There is a sentence when trying to leave to the next floor without 1 member in the drill. "Leave no delver behind". This is a reference to "Leave no dwarf behind" from another game, Deep Rock Galactic.

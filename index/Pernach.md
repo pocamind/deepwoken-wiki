@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 135797
+revid: 136248
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -32,6 +32,8 @@ categories: [Weapons, Clubs]
 The **Pernach** is a medium blunt weapon found by fighting the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Chaser,](Chaser,_Scholar_of_the_Crimson_Contract.md) Scion of Ethiron, Diluvian Mechanism, and [Duke Erisia](Duke_Ishamon_Erisia.md) boss fights. It can also be found inside [chests](Chests_&_Sacks.md) from [Aratel Island](Aratel_Island.md) and rarely from the [First Layer](First_Layer.md).
 
 It can be considered the endgame version of the [Mace](Mace.md).
+
+-   This weapon cannot be used with the [Pluripotent Alloy](Pluripotent_Alloy.md)
 
 ## Trivia
 

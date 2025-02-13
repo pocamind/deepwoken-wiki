@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 133598
+revid: 136247
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive aspects, Developer Spec]
@@ -85,6 +85,7 @@ Unknown
 -   Ettheking
 -   rJeneration
 -   yayafino
+-   GunChowDa
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 135672
+revid: 136245
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Items]
@@ -29,6 +29,8 @@ categories: [Necklaces, Torso, Equipment, Relics, Items]
 The Whistling Periapt, or commonly called Duke Relic, is a Mythic Torso [Equipment](Equipment.md) that released in the September 27th 2024 patch.
 
 It comes with the [Talent](Talents.md) Whistleguard. Upon inflicting continuous damage onto an enemy without getting parried or dodged, a whirling ball of wind coats your character. When hit, the shield parries any attack for free and dissolves into the air after. Shields cannot stack and disappear upon using any mantra, critical attack or feinting. Whistleguard has a 10s cd.
+
+Burn damage in PvE combat can also trigger Whistleguard.
 
 Estimated by rarity to have a ~0.1% drop chance from both [Duke](Duke_Ishamon_Erisia.md) and [Ethiron](Scion_of_Ethiron.md)
 

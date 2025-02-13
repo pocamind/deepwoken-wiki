@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 135165
+revid: 136246
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -25,7 +25,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ― Vice Warden Morredh
 
-Chainwardens are strong enforcers of justice serving [The Central Authority](The_Central_Authority.md). They are sworn to enact justice upon anyone they determine to oppose it, using their Chains to condemn and punish those who oppose their own sense of justice.
+Chainwardens are strong enforcers of justice serving [The Central Authority](The_Central_Authority.md). They are sworn to enact justice upon anyone they determine to oppose it, using their Chains to condemn and punish those who oppose their own sense of order.
 
 ## Obtainment
 

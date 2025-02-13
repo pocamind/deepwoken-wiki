@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 135794
+revid: 136242
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Summer Company, Offhand Guns]
@@ -35,3 +35,4 @@ Rosen's Roscoe is a flintlock type weapon that can be used both in both akimbo a
 -   Second fastest pistol in the game in terms of swing speed.
 -   The weapon is also called 'big iron' in the campfire menu.
 -   Along with the [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) and [Iron Requiem](Iron_Requiem.md), these are the only three flintlocks in the game to have a unique sound effect on M1/crit.
+-   There's a bugged version of this weapon that have the Common Rarity and is Unsellable
