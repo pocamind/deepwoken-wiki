@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136223
+revid: 136262
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1887,7 +1887,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Already Dead \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take reduced damage from abilities with a health cost.
     -   Lowers Shade Devour self-damage. Removes Deepspindle running crit self-damage.
-    -   Obtained from: [Deepscorn Casque](Equipment.md)
+    -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
 
 -   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.
     -   Obtained from: [Darkened Bastion](Darkened_Bastion.md)
@@ -1900,9 +1900,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The damage buff starts at 70% Sanity (Tier 1 [Insanity](Insanity.md)) and scales non-linearly with your sanity until it caps out at +15% damage with 0% Sanity (Tier 3 Insanity).
     -   [Deepbound's](Origins.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
     -   Prerequisites: 30 Fortitude, 30 Strength
+    -   Can also be obtained from the [Thrall of Enmity](Thrall_of_Enmity.md) face equipment.
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
-    -   The bonus PEN is applied starting from 35% Sanity
+    -   The bonus PEN is applied starting from 35% Sanity.
     -   Scales on your current sanity percentage, similar to Lose Your Mind.
     -   Prerequisite: 80 Willpower
 

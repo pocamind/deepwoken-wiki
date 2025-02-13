@@ -1,6 +1,6 @@
 ---
 title: Malte
-revid: 135410
+revid: 136267
 source: https://deepwoken.fandom.com/wiki/Malte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]

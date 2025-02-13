@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 136205
+revid: 136273
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics]

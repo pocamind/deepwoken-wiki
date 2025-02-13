@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 133389
+revid: 136285
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 2, Floor 1]
@@ -30,7 +30,7 @@ If you talk to him with a Resonance and the Tarnished flaw, he will offer to unt
 | Abyssal Ridge | Based on the [Nautilodaunt's](Nautilodaunt.md) Grand Stomp attack. The user stomps onto the ground and sends out a homing eruption, automatically targeting the nearest opponent. | ◯ | ◯ | ◯ | (★☆☆) | [Nautilodaunt Beak](Nautilodaunt_Beak.md) |
 | Dread Breath | Turns user's head into a head of a [Dread Serpent](Dread_Serpent.md), breathing out ice beam for the duration of the mantra. | ◯ | ◯ | ◯ | (★★☆) | [Dread Serpent Tooth](Dread_Serpent.md) |
 | Whirling Blade | Grow a Terrapod claw from their left arm and spin forward after a short windup, cancelling if parried. | ◯ | ◯ | ◯ | (★★☆) | [Terrapod Shell](Terrapod_Shell.md) |
-| Brachial Spear | Throws a giant femur towards selected area. Deals high damage and high knockback, high wind-up time. | ◯ | ✗ | ◯ | (★★☆) | [Giant Femur](Bone_Keeper.md) |
+| Brachial Spear | Throws a giant femur towards selected area. Deals high damage and high knockback, high wind-up time. | ◯ | ✗ | ◯ | (★★☆) | [Giant Femur](Giant_Femur.md) |
 | Mecha Gatling | Mounts a gatling gun upon the player's shoulder and fires it forwards, multi-hit. | ◯ | ◯ | ◯ | (★★☆) | [Broken Gatling Gun](Broken_Gatling_Gun.md) |
 
 ## Trivia

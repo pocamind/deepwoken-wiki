@@ -1,6 +1,6 @@
 ---
 title: Erosius Amaltus Urivortus Alistus Casius Walistoshus
-revid: 130877
+revid: 136271
 source: https://deepwoken.fandom.com/wiki/Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, NPCs located in the First Floor of the Second Layer]
@@ -30,3 +30,4 @@ You need to find the spear in the [Firfire Caverns](Firfire_Caverns.md) to obtai
 ## Trivia
 
 -   When Talking to Erosius or any other kyrsan on layer 2 floor 1, it will call you by a unique name. Each player will have a unique name and will be transferred from slot to slot.
+-   He is presumably hundreds of years old as the longer a Kyrsgarde gets older the more words are given to their name.
