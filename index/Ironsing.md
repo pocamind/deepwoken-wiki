@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 136210
+revid: 136302
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -178,7 +178,7 @@ _A powerful kick laced with metal._
 
  | 
 
-Metal + Bleed
+Metal + Slash + Bleed
 
  | 
 
@@ -256,7 +256,7 @@ _Create a firing line of metal to light up your target._
 
  | 
 
-Metal + Blunt + Bleed
+Metal + Slash + Bleed
 
  | 
 
@@ -333,7 +333,7 @@ _Create a metal clone and appear behind your target._
 
  | 
 
-Metal + Bleed
+Metal + Slash + Bleed
 
  | 
 
@@ -858,10 +858,10 @@ Metal
 **Effect:** _Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight._
 
 -   Deals 21 DMG per hit, 0.85s windup to cast.
--   0.55s windup between shots, lasts 20s
+-   0.55s between shots, lasts 20s
 -   Each shot applies a Metal Rod on hit
 -   CD is 30s
--   Requires a ritual cast with one key.
+-   Requires a ritual cast with two keys + modifiers make it more key casts.
 -   Can be modified with Aeon/Eternal Logstones to increase duration.
 -   Can be modified with Drift/Rush Shards to make turret spin faster.
 -   Can be modified with a Multiplying Spark to conjure two turrets instead of one
@@ -899,7 +899,7 @@ N/A
 **Effect:** _Conjure a metal wisp that regenerates armor durability._
 
 -   Regenerates 10% FIXED % of armor at level 5.
--   Applies Metal Rods on vents.
+-   Applies Metal Rod on vents.
 -   Requires a ritual cast.
 -   Armor Regeneration is scaled with level.
 -   Armor Regeneration will only be triggered when none of it is wasted. (After 5 seconds of not being hit)

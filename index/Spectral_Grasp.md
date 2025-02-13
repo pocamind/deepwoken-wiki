@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 133280
+revid: 136320
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Event Item, Weapons with Unique Criticals, Daggers, Hallowtide]
@@ -43,4 +43,5 @@ After a short wind-up, the user slashes twice with the weapon, applying 10 Withe
 -   The M1 attacks have a special ghastly sound effect that is unique to this weapon.
 -   This is the 2nd dagger with the highest scaled damage (before bleed), at 27.7, beaten by the alloyed tanto's 29.3.
 -   This weapon might be inspired by Karambit and its m1 and crit may be a nod to a Indonesian martial arts called 'Silat' which usually paired with a Karambit
+-   Like all other Hallowtide exclusive weapons, this is not droppable.
 -   When it first released, Spectral Grasp had the [Whaling Knife](Whaling_Knife.md)'s critical and no unique animations, this was changed the in a hotfix soon afterwards.

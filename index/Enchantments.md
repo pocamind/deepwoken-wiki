@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 136297
+revid: 136301
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -237,7 +237,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
   <font>Tears of the Edenkite<div></div></font></center></td>
   <td><div><p>On Flourish or Critical, create 5 bubbles around you that home onto an enemy, dealing damage and stunning. These bubbles are parryable. (20 seconds cooldown)<br>
-  Each bubble deals 11 TRUE DMG, doesn't scale from weapon DMG</p></div></td>
+  Bubble deals DMG that bypasses armor (NOT TRUE DMG), approximately scales by "1+WeaponInvestment*0.1" formula (NEEDS FURTHER TESTING)</p></div></td>
   <td><div><p>Weapon is covered in a sky blue and black aura as well as the player emits bubbles.</p></div></td>
 </tr>
 <tr>

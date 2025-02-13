@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 136112
+revid: 136317
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -207,7 +207,7 @@ _A strike from the heavens._
 
  | 
 
-Wind + Slash
+Wind
 
  | 
 
@@ -222,7 +222,7 @@ Wind + Slash
 -   User moves towards the cursor.
     -   Highly recommended to turn off Shift-Lock to do this.
 -   Good mobility.
--   Feinting it leaves the user unable to use gale lunge and heavenly wind. (Needs testing with more mantras to see interaction, it seems like specific mantras only gets this behavior.)
+-   Feinting it leaves the user unable to use Gale Lunge and Heavenly Wind. (Needs testing with more mantras to see interaction, it seems like specific mantras only gets this behavior.)
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
 -   If missed, it results in endlag.
 -   Can be used in combination with the Cap Artist Talent to ragdoll and fling yourself insanely far.
@@ -506,7 +506,7 @@ _Grab your target and toss them with the power of gale._
 
  | 
 
-Wind + Blunt (initial grab)
+Wind + Blunt (Grab), Wind
 
  | 
 

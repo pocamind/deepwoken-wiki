@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 136101
+revid: 136314
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -641,7 +641,7 @@ _An icy chokehold._
 
  | 
 
-Ice + Blunt (Initial Grab), Ice (Ice Chains)
+Ice + Blunt (Grab), Ice (Ice Chains)
 
  | 
 

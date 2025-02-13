@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 134559
+revid: 136304
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -12,7 +12,7 @@ categories: [NPCs, Mechanics]
 
 ## Description
 
-**Deep Shrines** are a group of 9 shrines sharing identical appearance (excluding Solitude), scattered across the Lumen. Each bestows different deals in exchange for the client's [knowledge](Knowledge.md). Each Deep Shrine can be found in a unique location in the overworld as well as the [Temple of Hearts](Temple_of_Hearts.md), accessible by Deepbounds and anyone who has obtained their resonance.
+**Deep Shrines** are a group of 10 shrines sharing identical appearance (excluding Solitude), scattered across the Lumen. Each bestows different deals in exchange for the client's [knowledge](Knowledge.md). Each Deep Shrine can be found in a unique location in the overworld as well as the [Temple of Hearts](Temple_of_Hearts.md), accessible by Deepbounds and anyone who has obtained their resonance.
 
 ### Limitations
 

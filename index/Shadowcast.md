@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 136043
+revid: 136312
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -90,7 +90,7 @@ _A shadowy hand._
 
  | 
 
-Shadow + Slash (Grab) + Blunt (Slam)[\[note 1\]](#cite-note-damage-notation-1)
+Shadow + Slash (Grab), Blunt (Slam)
 
  | 
 
@@ -318,7 +318,7 @@ _Form a Shockwave of darkness._
 
  | 
 
-Shadow + Blunt (Slam)[\[note 1\]](#cite-note-damage-notation-1)
+Shadow, Blunt (Slam)
 
  | 
 
@@ -408,14 +408,14 @@ Shadow
 
 **Eclipse Kick** (★★★)
 
-_Show your foes your strength.[\[verify 1\]](#cite-note-2)_
+_Show your foes your strength.[\[verify 1\]](#cite-note-1)_
 
  | 
 
 ## Eclipse Kick (★★★)
 
   
-_Show your foes your strength.[\[verify 1\]](#cite-note-2)_
+_Show your foes your strength.[\[verify 1\]](#cite-note-1)_
 
  |
 | 
@@ -424,7 +424,7 @@ _Show your foes your strength.[\[verify 1\]](#cite-note-2)_
 
  | 
 
-Shadow + Blunt (Spark)[\[note 1\]](#cite-note-damage-notation-1)
+Shadow, Shadow + Blunt (Mul. Spark)
 
  | 
 
@@ -610,7 +610,7 @@ _A rush of darkness._
 
  | 
 
-Shadow + Slash + Blunt (spark)[\[note 1\]](#cite-note-damage-notation-1)
+Shadow + Slash/Blunt (Bl. Spark)
 
  | 
 
@@ -1235,6 +1235,4 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-damage-notation-1-0) [1.1](#cite-ref-damage-notation-1-1) [1.2](#cite-ref-damage-notation-1-2) [1.3](#cite-ref-damage-notation-1-3) Uses incorrect damage type notation, i'm not sure how to interpret it.
-
-1.  [↑](#cite-ref-2) Is this actually what the description is? someone check
+1.  [↑](#cite-ref-1) Is this actually what the description is? someone check

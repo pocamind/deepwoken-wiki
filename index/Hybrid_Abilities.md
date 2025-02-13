@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 135945
+revid: 136313
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -191,7 +191,7 @@ _Sweep with flames and lightning before following into a devastating uppercut._
 
  | 
 
-Lightning (Leg Sweep), Flame + Blunt (Uppercut)
+Lightning (Leg Sweep), Fire + Blunt (Uppercut)
 
  | 
 

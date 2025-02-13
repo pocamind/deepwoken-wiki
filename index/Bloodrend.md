@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 135916
+revid: 136308
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1302,13 +1302,13 @@ N/A
 
 -   Blood Poison is a stacking effect that is applied on the blood bar. **It does not replace blood**, simply overlay itself on top of it.
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
-    -   20% - _**Vasculitis**_ Talent is Activatable
+    -   20% - _Vasculitis_ Talent is Activatable
         -   Vasculitis - Your opponent cannot proc deep gems for a brief duration. (Must hit them while they are over 20% BP.)
-    -   25% - _**Hemolysis**_ Talent is Activatable
+    -   25% - _Hemolysis_ Talent is Activatable
         -   Hemolysis - Deal 20% more critical attack damage.
     -   40% - Enemies are under 50% Anti-Heal
     -   50% - Enemies have their damage reduced by ≈30%
-    -   60% - _**Bloodwarden's Sense**_ Talent is Activatable
+    -   60% - _Bloodwarden's Sense_ Talent is Activatable
         -   Bloodwarden's Sense - Enemies you attack with a mantra are highlighted red briefly.
     -   70% - _**Gruesome Harvest**_ Talent is Activatable
         -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you slight temporary health.

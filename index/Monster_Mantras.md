@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 135778
+revid: 136309
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -14,7 +14,7 @@ Monster Mantras are [Mantras](Mantras.md) that players are capable of obtaining 
 
 ## Obtainment
 
-Talk to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) at the end of the maze in Layer 2: Floor 2, after which he appears and stays at [Castle Light](Castle_Light.md), allowing you to speak with him and obtain the mantras. Monster mantras are obtained by talking to Carrion and giving him rare drops from certain monsters. The drops follow: [Enforcer Eye](Enforcer_Eye.md), [Thresher Talon](Thresher_Talon.md), [Megalodaunt Coral](Megalodaunt_Coral.md), [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>), [Giant Femur](Bone_Keeper.md), [Broken Gatling Gun](Broken_Gatling_Gun.md), [Terrapod Shell](Terrapod_Shell.md) and the [Nautilodaunt Beak](Nautilodaunt_Beak.md).
+Talk to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) at the end of the maze in Layer 2: Floor 2, after which he appears and stays at [Castle Light](Castle_Light.md), allowing you to speak with him and obtain the mantras. Monster mantras are obtained by talking to Carrion and giving him rare drops from certain monsters. The drops follow: [Enforcer Eye](Enforcer_Eye.md), [Thresher Talon](Thresher_Talon.md), [Megalodaunt Coral](Megalodaunt_Coral.md), [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>), [Giant Femur](Giant_Femur.md), [Broken Gatling Gun](Broken_Gatling_Gun.md), [Terrapod Shell](Terrapod_Shell.md) and the [Nautilodaunt Beak](Nautilodaunt_Beak.md).
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/pEgA0zXlJsk)._
 
