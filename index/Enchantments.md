@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 136272
+revid: 136297
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -453,9 +453,10 @@ Displacement
 
  | 
 
-On proc, grant a speed boost and hyperarmor. 30% chance to proc.
+On proc, grant a speed boost for 3-5s and nullify hitstun speed reduce.  
+30% chance to proc.
 
-**IN PVE DISPLACEMENT PROCS BUT GRANTS NO HYPER OR SPEED BOOST**
+**IN PVE DISPLACEMENT PROCS ONLY AGAINST HUMANOIDS**
 
  | 
 

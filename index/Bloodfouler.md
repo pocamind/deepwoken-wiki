@@ -1,9 +1,9 @@
 ---
 title: Bloodfouler
-revid: 136200
+revid: 136294
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons]
+categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons, The Ministry]
 ---
 
 # Bloodfouler
