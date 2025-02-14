@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 124587
+revid: 136376
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -35,6 +35,8 @@ The Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight
 Each of the Hero Blades have their own unique critical attack.
 
 A common misconception is their damage type. Hero Blades deal **Physical Slash Damage**, like normal swords. However, their critical attacks deal elemental damage of the relevant type. Additionally, they scale off [Proficiency](Traits.md), **not** [Songchant](Traits.md), like normal swords.
+
+Furthermore Hero blades CANNOT be enchanted
 
 ## Trivia
 

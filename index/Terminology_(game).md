@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 136231
+revid: 136385
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -57,6 +57,7 @@ _noun_
 1.  A weak player or enemy who's easy to beat or bad at the game.
     1.  Ex: "I'm not playing with you freshie, because you're a healthpack and you gonna die to everything"
     2.  Ex. "No way he is so trash in ganking bro, we lost the war because of him. What a healthpack!"
+2.  The siphon you get upon killing an enemy.
 
 ### Permafreshie
 

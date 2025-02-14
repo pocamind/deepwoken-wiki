@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 136055
+revid: 136397
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -215,4 +215,4 @@ The Glossary is a feature that explains terminology and events in game that reve
 
 ## Trivia
 
--   In many cases, the word "city" links to _The Drowned City of Celtor_ despite the city in question not being Celtor at all. Similarly, the word "Luminant" will often link to _The Central Luminant_.
+-   In many cases, the word "city" links to _The Drowned City of Celtor_ despite the city in question not being Celtor at all. Similarly, the word "Luminant" will often link to _The Central Luminant_ even when referring to entirely different Luminants.

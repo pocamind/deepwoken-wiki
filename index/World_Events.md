@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 135258
+revid: 136382
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -18,7 +18,7 @@ These times are for people whose ratio between their current time zone and GMT i
 
 World events are focused on uniting the players towards accomplishing a single goal and awarding them individually. However, note that ganking is not disabled.
 
-Defeating world event bosses does not grant [bell progression](Resonance.md#bell-progress).
+Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md) progression and [Attribute](Attributes.md) XP upon defeat.
 
 ## List of World Events
 

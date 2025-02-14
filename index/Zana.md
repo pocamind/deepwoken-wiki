@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 136194
+revid: 136406
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Quests, Rings, NPCs located in the Etrean Luminant]
@@ -107,7 +107,7 @@ Zana acts as an encounter in the places you're suppose to challenge him; so it'l
 ## Trivia
 
 -   He can drop Frigid Prisms, even though he isn't meant to be killed.
--   He is a reference to the “metamancer,” playertype, specifically those from Verse 1. He uses a Shattered Katana and Royal Pathfinder and hints at being a Flamecharmer, along with all of his fights being at popular ganking spots. Even the aspect he is pokes fun at how many of these players were Vesperians. The only thing missing is [Blindseer](Oath%253A_Blindseer.md) and possibly Azure Flames.
+-   He is a reference to the “metamancer,” playertype, specifically those from Verse 1. He uses a Shattered Katana and Royal Pathfinder and hints at being a Flamecharmer, along with all of his fights being at popular ganking spots. Even the aspect he is pokes fun at how many of these players were Vesperians. The only thing missing is Blindseer.
 -   He has 500 HP and deals 20 damage per hit, in all locations.
--   When encountered in one of the ganking spots, his mask will switch into a random Vesperian mask and his Royal Pathfinder coat will be removed, while the former also occurs with [Polis](Polis.md), it's unclear why the latter occurs, or if it's even a bug.
+-   When encountered in one of the ganking spots, his mask will switch into a random Vesperian mask and his Royal Pathfinder coat will be removed, while the former also occurs with [Polis](Polis.md), it's unclear why the latter occurs, or if it's even a bug. (most likely a bug)
 -   The coat he wears appears to have no sleeves.

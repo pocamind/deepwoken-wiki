@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 136326
+revid: 136380
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -727,7 +727,7 @@ N/A
 
 **Effect:** _User activates an inner surge of energy_
 
--   Procs the "Speed Demon" Talent.
+-   Counts as a speed boost, meaning it can proc all related talents (including "Speed Demon").
 -   This Mantra can be further viable by using the Talent **Action Surge** which increases the swing speed of weapons by a extra 0.04 while the mantra is active.
 -   Upgrading reduces cooldown.
 -   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.

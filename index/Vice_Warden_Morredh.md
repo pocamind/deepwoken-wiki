@@ -1,9 +1,9 @@
 ---
 title: Vice Warden Morredh
-revid: 134361
+revid: 136399
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Military personnel of The Central Authority, Oath Trainer, NPCs]
+categories: [Military personnel of The Central Authority, Oath Trainer, NPCs]
 ---
 
 # Vice Warden Morredh
@@ -21,6 +21,8 @@ categories: [Canor NPCs, Military personnel of The Central Authority, Oath Train
 ## Description
 
 Vice Warden Morredh is an NPC that appears within the confines of [Fort Merit](Fort_Merit.md). He is the crux of the [Chainwarden](Oath%253A_Chainwarden.md) obtainment process.
+
+Being a [Canor](Canor.md) has afforded him more benefits than other non-[Adret](Adret.md) in [The Central Authority](The_Central_Authority.md), earning him the position of Vice Warden, though he aspires to someday become more than just a _Vice_ Warden and replace [Warden Jericho](Warden_Jericho.md) as the one in charge of the eastern world.
 
 ## Dialogue
 
