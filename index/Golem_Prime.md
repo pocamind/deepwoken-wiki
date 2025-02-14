@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 136024
+revid: 136344
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,7 +28,7 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 | **Stomp** | The golem raises its leg before giving a powerful earthshaking stomp. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Ground Slam** | The golem brings its arms over its head, before quickly slamming them down into the ground in a vicious swing. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Uppercut** | The golem winds up its arm behind it, before quickly swinging it outwards. | ✗ | ◯ | ◯ | (★★☆) |
-| **Scream** | The golem screams, making the ceiling above it drop rubble, dealing high damage if the rubble lands on a player. | ✗ | ✗ | ◯ | (★★★) |
+| **Scream** | The golem screams, making the ceiling above it drop rubble, dealing high damage if the rubble lands on a player. (can lag players on lower-end devices) | ✗ | ✗ | ◯ | (★★★) |
 
 ### Passives
 
@@ -46,7 +46,7 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 
 -   Do not attempt to fight Golem Primes until you have mastered fighting normal golems.
 -   Since you can rapidly parry it's spinning move, the Providence Thorns enchant can kill Golem Primes incredibly fast.
--   Golem Primes are incredibly dangerous, especially when there is multiple Golem Primes on you, so when in Duke's Manor, you would want to try aggro them one at a time, unless you have a good PVE build.
+-   Golem Primes are incredibly dangerous, especially when there is multiple Golem Primes on you, so when in Duke's Manor, you would want to try aggro them one at a time, unless you have a good PVE build or enough HP to tank the onslaught
 
 ## Trivia
 

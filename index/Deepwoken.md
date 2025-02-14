@@ -1,6 +1,6 @@
 ---
 title: Deepwoken
-revid: 134703
+revid: 136347
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Lore]
@@ -16,7 +16,7 @@ _Not to be confused with the name of the game, [Deepwoken](Deepwoken_Wiki.md)._
 
 ### Known Deepwoken
 
-There are two known Deepwoken. Owing to their immortality, both are over one thousand years old.
+There are two known Deepwoken. Owing to their immortality, both are likely over one thousand years old.
 
 -   [Amorus Pleeksty](Amorus_Pleeksty.md)
     -   Pleeksty ate a part of [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) in the form of a meteor flower. He received pyrokinetic powers, leading to the invention of [Flamecharm](Flamecharm.md).

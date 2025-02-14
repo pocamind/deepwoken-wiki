@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 123514
+revid: 136345
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades]
@@ -29,7 +29,7 @@ categories: [Weapons, Twinblades]
 
 ## Description
 
-The Iron Twinblade is a medium weapon that has a medium requirement of 15 and 4 scaling. It does not currently have an alloy.
+The Iron Twinblade is a medium weapon that has requirement of 15 and has 4 scaling. It is currently not yet compatible with the [Pluripotent Alloy](Pluripotent_Alloy.md)
 
 ## M1s and Aerial
 

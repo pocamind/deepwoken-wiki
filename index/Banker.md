@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 135521
+revid: 136346
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -22,7 +22,7 @@ They can be found in:
 -   [Greathive Aratel](Greathive_Aratel.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Castle Light](Castle_Light.md) (but only people with the [Deepbound Origin](Origins.md) can interact with them)
+-   [Castle Light](Castle_Light.md) (only those of the [Deepbound Origin](Origins.md) can interact with them)
 -   [Fort Merit](Fort_Merit.md)
 -   [The Floating Keep](The_Floating_Keep.md)
 -   [Guild Bases](Guild_Bases.md)

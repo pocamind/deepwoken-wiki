@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 135858
+revid: 136355
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
@@ -19,7 +19,6 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | endlag | 0.00s[sic] |
 | penetration | 15% |
 | chip damage | 0% |
-| special effect | Spawns green flames on hit that cut the target's mobility in half. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 5 |
 | bankable | Yes |
