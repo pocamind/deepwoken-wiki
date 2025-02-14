@@ -1,6 +1,6 @@
 ---
 title: Cerulean Gown
-revid: 134841
+revid: 136330
 source: https://deepwoken.fandom.com/wiki/Cerulean_Gown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -32,3 +32,4 @@ This Outfit's Schematic can be found in:
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 -   [The Understrand](The_Understrand.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)

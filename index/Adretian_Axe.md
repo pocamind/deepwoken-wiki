@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 135788
+revid: 136328
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
@@ -38,3 +38,4 @@ The Adretian Axe is a [Heavy Weapon](Weapons.md) of the Greataxe category. It ca
 -   At max HVY, the non-alloyed damage is (37.4)
     -   At max HVY, the alloyed damage is (38.4)
 -   Went from a tool of mass destruction to a budget [Iron Birch](Iron_Birch.md) in one update, then went from being a budget [Iron Birch](Iron_Birch.md) to objectively one of the best Heavy weapons in another.
+-   Named after the [Adret](Adret.md) [Aspect](Aspects.md).

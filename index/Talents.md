@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136316
+revid: 136322
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1690,7 +1690,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
 
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
-    -   Has scaling, but it barely exists:
+    -   Has scaling, but it barely exists[\[2\]](#cite-note-2)
     -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
 
 ### Leader
@@ -1866,7 +1866,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
     -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
-    -   Can stack up to 20 times, for a 100% damage boost.[\[2\]](#cite-note-2)
+    -   Can stack up to 20 times, for a 100% damage boost.[\[3\]](#cite-note-3)
         -   This effect is not accounted for in the 75% damage boost cap.
     -   Lose the entirety of the damage boost after taking damage. (Excludes self damage from sources like Flame Within and Jumpstart, but not fall damage.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
@@ -3447,8 +3447,6 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 
 ## References
 
-1.  [↑](#cite-ref-1)
-    
-    File:Neuro.png
-    
-2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
+1.  [↑](#cite-ref-1) File:Neuro.png
+2.  [↑](#cite-ref-2)
+3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)

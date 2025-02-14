@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 136177
+revid: 136323
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Ma
 
 # Equipment
 
-_**FOREWORD**: **An up-to-date spreadsheet with the maximum number of stats each equipment can get can be found [\[here\]](https://docs.google.com/spreadsheets/d/1aELC50v4668ss5ShtI2RkshCQCOScH-ljFma_7o_NcY/edit?usp=drivesdk)**_
+_**FOREWORD**: **An up-to-date spreadsheet with the maximum amount of each stat each equipment can get can be found [\[here\]](https://docs.google.com/spreadsheets/d/1aELC50v4668ss5ShtI2RkshCQCOScH-ljFma_7o_NcY/edit?usp=drivesdk)**_
 
-_**FOREWORD: A spreadsheet that can calculate the stats for each pip on each equipment. can be found [\[here\]](https://docs.google.com/spreadsheets/d/1flicSgb8pdMw7DKEdk1erfMZPtOF0YPOwuVveDBk6XY/edit?usp=sharing)**_
+_**FOREWORD: A spreadsheet that can calculate the stats for each pip on each equipment can be found [\[here\]](https://docs.google.com/spreadsheets/d/1flicSgb8pdMw7DKEdk1erfMZPtOF0YPOwuVveDBk6XY/edit?usp=sharing)**_
 
 _An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also providing various benefits. It can be used to improve (or worsen) your character's appearance. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md)._
 

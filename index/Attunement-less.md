@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 136119
+revid: 136326
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -326,7 +326,6 @@ Blunt
 
 **Effect:** _User utilizes Tacet then teleports themselves above an opponent before hitting them with a kick._
 
--   Blunt Damage Type
 -   Inflicts knockdown.
 -   Lands 15% faster when casted while wielding Jus Karita.
 -   Requirements are increased if you have an Attunement.
@@ -582,11 +581,11 @@ _A vengeful rush._
  |
 | 
 
-\[missing, add\]
+60 Ether
 
  | 
 
-Slash
+Slash + Bleed
 
  | 
 
@@ -1112,7 +1111,6 @@ N/A
 
 **Effect:** _User taunts their opponent, signified by red particles._
 
--   N/A Damage Type
 -   Affected entities receive 20% more damage.
 -   Affected entities deal 10% more damage to you specifically.
 -   Disables Jumping.
