@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 136302
+revid: 136369
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -150,7 +150,8 @@ Metal + Slash
 **Effect:** _Jump into the air before throwing out 3 projectiles towards the location of the cursor._
 
 -   Deals 25 DMG at level 5 if all 6 needles land
--   0.63s Windup, 16s CD
+-   0.8s Windup, 16s CD
+-   Inconsistent tracking and wind up.
 -   6 Needles at level 5.
 -   Applies Metal Rods on hit.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the Mantra increase amount of needles fired but removing the jump.
@@ -568,7 +569,7 @@ Metal + Slash
 
 **Effect:** _A gesture is performed on the right hand, causing a barrage of spikey metal beams to form from all angles and impale any nearby targets from all, dealing high damage._
 
--   Deals 90 dmg at level 5, 1.25s wind up, 14s cd.
+-   Deals 90 dmg at level 5, 7.5 posture total, 1.25s wind up, 14s cd.
 -   Doesn't apply parry stun to user.
 -   Can be parried and blocked.
 -   Applies Metal Rods on hit.

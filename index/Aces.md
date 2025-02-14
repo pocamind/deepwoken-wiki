@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 121931
+revid: 136366
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Skills, Talents]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Character, Skills, Talents]
 
 ## Burns
 
-Used to burn Talents. Once a Talent is burnt, it cannot reappear ever again. Useful for removing useless Talents in order to increase chances of getting Talents that you want. If you have accidentally burnt a card, you can restore it through the [Shrine of Conceit](Deep_Shrines.md) for 1 [Knowledge](Knowledge.md).
+Used to burn Talents. Once a Talent is burnt, it cannot reappear ever again. Useful for removing useless Talents in order to increase chances of getting Talents that you want. If you have accidentally burnt a card, you can restore it through the [Shrine of Conceit](Deep_Shrines.md) for 1 [Knowledge](Knowledge.md). Burning whole hand of cards will replace it with a new one.
 
 File:Screenshot 2022-09-12 7.26.11 PM.png
 
