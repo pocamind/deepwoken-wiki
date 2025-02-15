@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 133263
+revid: 136452
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -22,7 +22,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia Bandit Chests, First Layer |
+| obtainment | Erisia Bandit Chests, First Layer, Purchasable from the blacksmith at Meteor Isle |
 | description | "A curved blade that hails from the savannah of Markor. Though now assimilated into the Central Authority, the people of Markor still celebrate a rich culture." |
 
 ## Description
