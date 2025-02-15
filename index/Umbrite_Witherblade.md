@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 136022
+revid: 136421
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -59,7 +59,7 @@ The cooldown for this critical is **6** seconds.
 ## Trivia
 
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
--   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..."
+-   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to act as a placeholder.
 -   The Wither application on hit stacks with [Darkened Bastion](Darkened_Bastion.md)'s Withering Soul Talent, but with little effectiveness as Withering Soul's Wither application is 20% of your weapon's **unscaled** damage.
 -   While equipped, the Umbrite Whiterblade will display heartbeat noises as well as a incomprehensible whisper followed by a ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.

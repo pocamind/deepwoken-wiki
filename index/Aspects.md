@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 136275
+revid: 136440
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -62,7 +62,7 @@ These aspects are currently exclusive to NPCs and are **UNOBTAINABLE** by curren
 ## Trivia
 
 -   Aspects were originally known as races, but were renamed due to many people and franchises moving away from the term, as well as the possible connotations of having races that could be considered "better" than others. They were initially renamed to "tribes" on the 6th of December, 2024, but were changed to aspects two days after due to the term sounding clunky, if not outright derogatory.
-    -   Ironically, one of the main reasons that race was discarded as a term in fantasy is that its inaccurate, as its usually used in reference to vastly different species like elves and goblins. Meanwhile, _Deepwoken_ races are all subcategories of the _homo sapiens_ species, meaning that races is actually being used correctly.
+    -   Ironically, one of the main reasons that race was discarded as a term in fantasy is that it's inaccurate, as it's usually used in reference to vastly different species like elves and goblins. Meanwhile, _Deepwoken_ races are all subcategories of the _homo sapiens_ species, meaning that races is actually being used correctly.
 -   The chances of every other aspect will increase once you have already obtained a aspect, as logic would have it.
     -   As such, a method of obtaining rarer aspects is by keeping a common aspect and continually rerolling so that the common aspect will not appear, thus boosting the chances of other aspects.
 -   Take caution: it's not advised to reroll aspects until you have the maximum amount of slots, since the price difference of 50 Robux is rather minimal, and extra slots are always useful.

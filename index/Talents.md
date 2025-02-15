@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136384
+revid: 136412
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1690,7 +1690,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
 
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
-    -   Has scaling, but it barely exists[\[2\]](#cite-note-2)
+    -   Has scaling, but it barely exists.[\[2\]](#cite-note-2)
     -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
 
 ### Leader
@@ -2536,6 +2536,7 @@ _**"My cure is most effective."**_
     -   Prerequisites: Phantom Step, 60 Galebreathe
 
 -   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 30% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
+    -   The posture damage boost activates from Inhaled M1s and Crits. If you are using [Wraithclaw](Wraithclaw.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md) or [Hero Blade of Wind](<Hero's_Blade_of_Wind.md>) (only critical) you don't have to inhale a mantra for it to take effect.
     -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
 
 ### Static Weaver

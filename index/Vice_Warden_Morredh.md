@@ -1,9 +1,9 @@
 ---
 title: Vice Warden Morredh
-revid: 136399
+revid: 136436
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Military personnel of The Central Authority, Oath Trainer, NPCs]
+categories: [Canor NPCs, Military personnel of The Central Authority, Oath Trainer, NPCs]
 ---
 
 # Vice Warden Morredh

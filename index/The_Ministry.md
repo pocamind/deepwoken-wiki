@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 136401
+revid: 136451
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions, The Ministry]
@@ -57,6 +57,7 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 -   [Emel](Emel.md)
 -   [Imel](Imel.md)
 -   [Rimil](Rimil.md)
+-   [Volu](Volu.md)
 
 ## Trivia
 

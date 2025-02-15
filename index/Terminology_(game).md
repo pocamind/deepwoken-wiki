@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 136385
+revid: 136416
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -528,7 +528,7 @@ _noun, verb_
 
 _adjective, noun_
 
-1.  The additional stats or a singular additional stat of a piece of equipment being the highest or most favorable amounts they can possibly be, often obtained through influencing the equipment's stats with [Armorer's Needles](<Armorer's_Needle.md>), [Forge Needles](Forge_Needle.md), and [Gilded Needles](Gilded_Needle.md); equipment with minmaxed stats.
+1.  The additional stats or a singular additional stat of a piece of equipment, which are normally random, being the highest or most favorable amounts they can possibly be, often obtained through influencing the equipment's stats with [Armorer's Needles](<Armorer's_Needle.md>), [Forge Needles](Forge_Needle.md), and [Gilded Needles](Gilded_Needle.md); equipment with minmaxed stats.
     1.  Ex. "I have godroll boots and a godroll helmet"
     2.  Ex. "With a full godroll HP kit you can tank alot of hits"
     3.  Ex. "What's the godroll for Ignition Gauntlets?"

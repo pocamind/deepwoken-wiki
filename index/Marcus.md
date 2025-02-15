@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 134051
+revid: 136423
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
