@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 136457
+revid: 136528
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -37,7 +37,7 @@ You can also obtain a **Resonance** from a very rare event in the overworld call
 -   **Corrupted** Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   Soul Siphon - [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   Unnamed Ice Bell(?) - [Coldheart Fortinbras](Coldheart_Fortinbras.md)
--   unnamed bell - [volu](Volu.md)
+-   Unnamed Bell - [Volu](Volu.md)
 
 ## Overview
 
@@ -109,7 +109,9 @@ _If you do not talk to [Sibex](Sibex.md), you will be in the dark on how far you
 
 YOU DO **NOT** NEED TO FOLLOW THE PATH THAT YOU ARE GIVEN. KILLING BOSSES WILL GIVE YOU PROGRESS, JUST NOT BONUS PROGRESS IF YOU ARENT ON THE BOSS PATH.
 
-You can also very rarely obtain your Resonance from the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, although you do not get to pick your resonance this way.
+You can also very rarely obtain your Resonance from the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, although you do not get to pick your Resonance this way.
+
+The Ancient Soul [Regalia](Regalia.md) grants you a hand of Resonance draws upon creating a character.
 
 ### The Path - Progress & Nature of Your Soul
 

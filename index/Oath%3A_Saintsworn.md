@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 135897
+revid: 136488
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -162,7 +162,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 
 **Frostdraw** **Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else." - Faust
 
-**Thundercall** **Obelisk**: "Thundercall, huh? You want that power? That zing that come with it? But remember thundercall isn't something you can control easily, not even if you try really hard." - Tessa
+**Thundercall** **Obelisk**: "Thundercall, huh? You want that power? That zing that comes with it? But remember thundercall isn't something you can control easily, not even if you try really hard." - Tessa
 
 ## Trivia
 
@@ -171,7 +171,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 -   The Saintsblade has the most base M1 damage amount at 30 of all other base weapons in the game. (Not 100% confirmed)
 -   Ironically, this Oath does NOT require the user to be wielding a Heroblade of any kind.
 -   Saintsworn's cosmetic, the Pseudo-Hero's Blades, cannot be dyed.
--   Saintsworn gives the most mantra slots out of any Oath, being 5 total mantra slots, making it incredibly flexible and spammable..
+-   Saintsworn gives the most mantra slots out of any Oath, being 5 total mantra slots, making it incredibly flexible and spammable.
 -   Saint's Overload have 20 seconds of duration before going off and it can be seen from the flying blade that it changes color to white.
 -   The 5 blade on your back will vanish one by one after Hero's Assist is triggered.
 -   Currently, this is one of four Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), [Soulbreaker](Oath%253A_Soulbreaker.md) and [Chainwarden](Oath%253A_Chainwarden.md))

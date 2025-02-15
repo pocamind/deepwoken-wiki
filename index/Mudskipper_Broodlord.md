@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 133448
+revid: 136501
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -75,7 +75,7 @@ Dodgeable:◯
 **Broodrot Smash**  
 (★★★)
 
- | Rigorously leaps forward and raises its arms into the air, swinging down on its prey with an unparriable rotten slam. This move autogrips knocked enemies.
+ | Rigorously leaps forward and raises its arms into the air, swinging down on its prey with an unparriable rotten slam. This move autogrips knocked enemies. (After the mob ai change he only uses this move to grip)
 
   
 Parryable:X  
@@ -95,7 +95,7 @@ Dodgeable:◯
   
 Parryable: N/A  
 Blockable:◯  
-Dodgeable: N/A
+Dodgeable: ◯  
 
  | 
 

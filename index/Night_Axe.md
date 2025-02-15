@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 136422
+revid: 136544
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -12,7 +12,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals]
 |---|---|
 | type | Greataxe |
 | requirements | 80 HVY |
-| damage | 22 |
+| damage | 23 |
 | scaling | HVY: 8 |
 | range | 8.5 |
 | swing speed | 0.77x |
@@ -38,8 +38,8 @@ Also procs any Shadowcast talent that does not specify Mantras, like [Sightless 
 
 ## Trivia
 
--   Meeting the requirement of HVY, the damage is (32.6)
--   At max HVY, the damage is (35.2)
+-   Meeting the requirement of HVY, the damage is (34)
+-   At max HVY, the damage is (36.8)
 -   Has the highest amount of Chip Damage of any weapon in the entire game.
     -   Contrary to popular belief, Chip Damage IS NOT CAPPED AT 50%.
         -   If you are using the Obfuscation [Enchant](Enchantments.md) with Night Axe, your Chip Damage will total to 90% due to chip being combined multiplicatively.

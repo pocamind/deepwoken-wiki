@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 136421
+revid: 136546
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -13,8 +13,8 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
 | type | Sword |
 | requirements | 65 MED, 10 WLL, LVL 10 |
 | damage | 13 + 3.9 BLD |
-| scaling | 10 MED |
-| range | 7.5 |
+| scaling | 12 MED |
+| range | 8 |
 | swing speed | 1.02x |
 | penetration | N/A |
 | chip damage | 20% |
@@ -54,18 +54,24 @@ The first hit has 0.2s of hyper armor and deals **0.35x** of your weapon's scale
 
 The second slash deals **0.45x** of your weapon's scaled damage, applies **40 wither** regardless of scaling and damage modifiers, deals 33 posture damage with no chip, and **autogrips** any knocked player or those hit and knocked by it.
 
-The cooldown for this critical is **6** seconds.
+The cooldown for this critical is **8** seconds.
 
 ## Trivia
 
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
 -   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to act as a placeholder.
--   The Wither application on hit stacks with [Darkened Bastion](Darkened_Bastion.md)'s Withering Soul Talent, but with little effectiveness as Withering Soul's Wither application is 20% of your weapon's **unscaled** damage.
+-   The Wither application on hit stacks with [Darkened Bastion](Darkened_Bastion.md)'s Withering Soul Talent, granting an additional 25% of your scaled damage as Wither.
 -   While equipped, the Umbrite Whiterblade will display heartbeat noises as well as a incomprehensible whisper followed by a ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.
 
 ## Version History
 
+-   Feburary 15th, 2025.
+    -   Withering Soul now fully affects Umbrite Witherblade alongside Deepspindle (the full effect of Withering Soul was nerfed to 25% in the same update, as they changed it to scaled damage rather than unscaled)
+    -   Umbrite Witherblade range buffed (7.5 -> 8)
+    -   Increased Umbrite Witherblade's MED scaling (10 -> 12), critical damage
+    -   Increased Umbrite Witherblade's converted wither on M1 slightly
+    -   Increased Umbrite Witherblade's critical cooldown (6s -> 8s)
 -   December Somewhenth 2024.
     -   Umbrite Witherblade crafting cost reduced (10 -> 3 [Umbrite](Ores.md))
 -   December 24th 2024.

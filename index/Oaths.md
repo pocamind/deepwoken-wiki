@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 136483
+revid: 136487
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -57,7 +57,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Chainwardenfinal](Oath%253A_Chainwarden.md)
 
-[easy to get stop complaingingwarden](Mushroom_Omelette.md)
+[Chainwarden](Oath%253A_Chainwarden.md)
 
 (comb. 40 STR or FTD or WLL)
 
@@ -83,7 +83,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Jetstriker](Oath%253A_Jetstriker.md)
 
-(5 billion Agility)
+(50 AGL)
 
 [Linkstriderfinal](Oath%253A_Linkstrider.md)
 
@@ -130,7 +130,6 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 ### Upcoming Oaths
 
 -   Warmaster
--   Toastymaster
 
 ## Oath Skipping
 
@@ -138,7 +137,7 @@ If you've progressed a certain Oath once before to max, you are able to skip the
 
 ## Oathbreaker - Oath Removal
 
-It is possible to remove your Oath (you can do this as many times as you want) by making a wish to Yun ‘Shul. This comes with a warning: **You could potentially close off your former Oath to you forever.**
+It is possible to remove your Oath (you can do this as many times as you want) by making a wish to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This comes with a warning: **You could potentially close off your former Oath to you forever.**
 
 Upon breaking an Oath, unique effects will occur:
 

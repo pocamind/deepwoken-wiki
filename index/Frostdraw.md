@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 136314
+revid: 136524
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -776,6 +776,8 @@ Having the Attunement Path Talent **Glass Path: Crystallization** unlocks new Ma
 
 **Crystal Impale** (★★☆)
 
+**Combat Mantra**
+
 _Impale your foes with a brutal crystal smash._
 
  | 
@@ -783,6 +785,7 @@ _Impale your foes with a brutal crystal smash._
 ## Crystal Impale (★★☆)
 
   
+**Combat Mantra**  
 _Impale your foes with a brutal crystal smash._
 
  |
@@ -812,6 +815,8 @@ Ice
 
 **Crystal Knee** (★★☆)
 
+**Combat Mantra**
+
 _Knock your enemy skyward with a kick of crystal._
 
  | 
@@ -819,6 +824,7 @@ _Knock your enemy skyward with a kick of crystal._
 ## Crystal Knee (★★☆)
 
   
+**Combat Mantra**  
 _Knock your enemy skyward with a kick of crystal._
 
  |
@@ -847,6 +853,8 @@ Ice
 
 **Ice Lasers** (★★☆)
 
+**Combat Mantra**
+
 _Swift bolts of frozen air._
 
  | 
@@ -854,6 +862,7 @@ _Swift bolts of frozen air._
 ## Ice Lasers (★★☆)
 
   
+**Combat Mantra**  
 _Swift bolts of frozen air._
 
  |

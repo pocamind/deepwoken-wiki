@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 135354
+revid: 136538
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -8,7 +8,7 @@ categories: [Monsters, Layer 2]
 
 # Bounder
 
-**Bounder**
+Bounder
 
 [Gallery](Bounder/Gallery.md)
 
@@ -20,9 +20,9 @@ Template:Creature Info Box v2
 
 ## Description
 
-Bounders are monsters that dwell within the [Second Layer](Second_Layer.md) of The Depths. They are infamous for their lethality, with an equally horrific appearance.
+Pidões are monsters that dwell within the [Second Layer](Second_Layer.md) of The Depths. They are infamous for their lethality, with an equally horrific appearance.
 
-Bounders have a body structure that resembles [Megalodaunts](Megalodaunt.md), featuring animalistic traits that, although similar, are present in a much more awful form. They have significantly hunched posture, elongated limbs, six ringed eyes, and notably, an upsettingly wide mouth with two sets of gigantic teeth. Unlike Megalodaunts, Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
+Pidões have a body structure that resembles [Megalodaunts](Megalodaunt.md), featuring animalistic traits that, although similar, are present in a much more awful form. They have significantly hunched posture, elongated limbs, six ringed eyes, and notably, an upsettingly wide mouth with two sets of gigantic teeth. Unlike Megalodaunts, Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
 
 Whenever an entity enters the territory or hunting grounds of a Bounder, an echoing growl can be heard, signifying their presence (though not necessarily their aggression). By default, they will crawl around at a relatively slow pace, only ever displaying their speed and agility while hunting.
 
@@ -73,7 +73,7 @@ Dodgeable:◯
 
 ### **Passives**
 
--   **Strong Monster Resistance** - Physical attacks deal 50% less damage to Bounders.
+-   **Charge slash** - Physical attacks deal 50% less damage to Bounders.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 136154
+revid: 136550
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -9,6 +9,8 @@ categories: [Mechanics]
 # Regalia
 
 **Regalia** are passive abilities that positively affect progression.
+
+As of the 15/02/2025 update, new Regalias were added. If you have any information about them, please add them below.
 
 ## Obtainment
 
@@ -74,6 +76,20 @@ Grants increased [Resonance progress](Resonance.md#bell-progress) gain from all 
 Grants unique dialogue with [The Legendary Boot](Legendary_Boot.md). In order to obtain it, you also need 100 [LHT](Weapons.md#light-weapons), and [Jus Karita](Jus_Karita.md). Functionally, this does nothing to progression, abilities, or anything crucial to the game, but it is just a silly piece of dialogue.
 
 "The Legendary Boot waits for the day that one worthy will claim it. Someone worthy with smaller feet."
+
+### **Natural Harmony**
+
+When creating a character, you start with a hand of [Resonance](Resonance.md) draws.
+
+**You can pass this on to your next character by wiping below Power 6.**
+
+### **Folk Hero**
+
+You start with Ally [Reputation](Reputation.md) with all factions.
+
+### **Vital Sight**
+
+You can see the HP bars of other players, regardless of alliance.
 
 ## Trivia
 
