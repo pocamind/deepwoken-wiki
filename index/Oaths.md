@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 136462
+revid: 136483
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -57,7 +57,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Chainwardenfinal](Oath%253A_Chainwarden.md)
 
-[Chainwarden](Oath%253A_Chainwarden.md)
+[easy to get stop complaingingwarden](Mushroom_Omelette.md)
 
 (comb. 40 STR or FTD or WLL)
 
@@ -82,6 +82,8 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 [Jetstrikerfinal](Oath%253A_Jetstriker.md)
 
 [Jetstriker](Oath%253A_Jetstriker.md)
+
+(5 billion Agility)
 
 [Linkstriderfinal](Oath%253A_Linkstrider.md)
 
@@ -128,6 +130,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 ### Upcoming Oaths
 
 -   Warmaster
+-   Toastymaster
 
 ## Oath Skipping
 

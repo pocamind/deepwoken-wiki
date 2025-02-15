@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 136464
+revid: 136473
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons]
@@ -10,9 +10,8 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 
 | Vortex Echo | |
 |---|---|
-| alloyed name | alloyed pleeksyswynter |
 | type | Relic |
-| requirements | 65 LHT, 65 CHA, 65 Girlcast + Trained Fists |
+| requirements | 65 LHT, 65 CHA + Trained Fists |
 | damage | 13.5 |
 | scaling | LHT: 8 CHA: 3.5 |
 | range | 6 |
@@ -23,7 +22,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | metallica squirting contest |
+| obtainment | Weathered Timepiece + Temporal Crux + Kyrsan Schematic in a Crafting Table |
 | description | "A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow a just a bit older." |
 
 ## Description
@@ -40,10 +39,7 @@ The Critical attack will reduce **most** active cooldowns by 30 seconds (mantras
 
 | List of unaffected cooldowns: |
 | --- |
-| iron slam
-iron quills jerkmate rivals la cuckuracha la cuckuracha no prede camina porque no tiene dos puewetes a caminal
-
- |
+| Windwaker |
 
 ## Version History
 

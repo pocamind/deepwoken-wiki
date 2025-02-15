@@ -1,6 +1,6 @@
 ---
 title: Ebonshard Lexicon
-revid: 136466
+revid: 136474
 source: https://deepwoken.fandom.com/wiki/Ebonshard_Lexicon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greathammers, Weapons with Unique Criticals, Developer Spec]
@@ -10,7 +10,7 @@ notices:
 
 # Ebonshard Lexicon
 
-| laalaa poopie heehee googoogaagaa | |
+| Ebonshard Lexicon | |
 |---|---|
 | type | Greathammer |
 | requirements | 200 HVY, 150 STR |
@@ -41,5 +41,5 @@ An AOE void blast that does upward of 400+ damage. (Multi-hit, Hyperarmor, autog
 
 ## Trivia
 
--   One of the threes exclusive weapons to the crappy "developer" nuttoons who is boosted and sucks and friggin packet yo im jakin it im jakin it
+-   One of the threes exclusive weapons to the concept artist and developer Nuttoons.
 -   This weapon is not tied to the [Dormant Splinter](Dormant_Splinter.md) in the slightest bit.

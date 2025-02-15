@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 136346
+revid: 136471
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -42,7 +42,7 @@ Each slot will call a small, or large fee depending on how many slots you curren
 -   7-12, ( )
 -   13-17, ( )
 -   18-60 ( )
--   61-100 ( ). This comes up to a total of 633,500 notes to get all your bank slots.
+-   61-102 ( ). This comes up to a total of 653,500 notes to get all your bank slots.
 
 To put an item in your safe deposit box, you must open your inventory and drag and drop the item you want to deposit into the box. If your box is full and you want to add an item to a stack already present—assuming that stack isn't already at its limit—you'll first need to take out an item that occupies a slot (i.e. equipment) out of it before placing the desired item inside.
 

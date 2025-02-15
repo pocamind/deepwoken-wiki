@@ -1,6 +1,6 @@
 ---
 title: Aranea
-revid: 133017
+revid: 136478
 source: https://deepwoken.fandom.com/wiki/Aranea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -32,7 +32,7 @@ The **Aranea** is a Bow that could briefly be found through [chests](Chests_&_Sa
 
 The bow is set to be upcoming future content.
 
-## Trivia
+Meeting the LHT requirements of 200, the Aranea deals a whopping **45.5** damage. With 6 Proficiency ontop, it deals **57.8** damage rounded up, slightly above a 100 HVY Hivelord's Hubris at 57.2.
 
 -   Currently, the stats are for testing, as no player can have 200 points in Light weapons.
 -   Identical stats and description to the [Repeater](Repeater.md).
