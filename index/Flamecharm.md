@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 135965
+revid: 136682
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -101,9 +101,9 @@ Fire
 
 **Effect:** User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle, attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
 
--   Deals 40 (6.7 \* 6) DMG.
+-   Deals 40.02 (6.7 \* 6) + 33.49 DMG.
+-   Has 9.17x PVE scale (40 + 33.49 PVP DMG, 368.88 + 307.4 PVE DMG)
 -   Inflcits Burn.
--   Deals 20 posture damage total.
 -   Does not share a cooldown with other "servants" mantras.
 -   Can be modified with [Cloudstones](Mantra_Modifiers.md) to add more warriors. Max possible amount of warriors without talent "Fan the flames" is 9 (2 Cloudstones).
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to have the warriors attack outwards and ragdoll.
@@ -140,7 +140,8 @@ Fire
 
 **Effect:** User forcefully slams down their blade coated in flames.
 
--   Deals 36 damage at lvl 5
+-   Deals 35.88 damage at lvl 5
+-   Has 9.18x PVE scale (35.88 PVP, 329.38 PVE DMG)
 -   Deals high posture damage, becoming an instant-guardbreak at level 5.
 -   Inflicts Burn.
 -   Breaks certain tiles.
@@ -183,7 +184,8 @@ Fire
 
 **Effect:** Caster draws out and propels bullets of flames from their hands towards the cursor's location.
 
--   Deals 14 damage per hit.
+-   Deals 17.34 damage per hit at 5 lvl, Blast spark does 4.34 DMG + 17.5 explosion DMG.
+-   Has 5.13x PVE scale (17.34 PVP DMG, 88.96 PVE DMG), blast park in PVE does 22.24+132.2 explosion
 -   No Cooldown.
 -   Inflicts Burn.
 -   Interacts with the environment.
@@ -265,8 +267,9 @@ Fire
 
 **Effect:** User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
--   Deals 54 damage at level 5.
+-   Deals 53.82 damage at level 5.
 -   Deals 6.5 posture damage.
+-   Has 9.18x PVE scale (53.82 PVP, 494.07 PVE)
 -   Inflicts Burn.
 -   Has a 10 second cooldown.
 -   Has a 0.5 second windup.
@@ -347,11 +350,12 @@ Fire
 
 **Effect:** User slams weapon into the ground below that causes 2 consecutive explosions.
 
--   Deals 24/26.55/29/31.5/34 damage per explosion, and has 2.5 Flamecharm scaling.
+-   Deals 24/26.55/29/31.5/34 damage per explosion, and has 2.5 Flamecharm scaling, does 40.66\*2 DMG at 5 lvl 80 flame..
 -   The initial explosion does 5.5 posture, the second explosion does 38 posture.
 -   The second explosion ragdolls enemies.
 -   Has a windup of 0.5 seconds, and 0.8 second delay between explosions.
 -   Has a 10 second cooldown, and a 0.2 second endlag.
+-   Has 9.18x PVE scale (40.66 PVP DMG, 373.33 PVE DMG)
 -   Inflicts Burn.
 -   Can be modified with Glass Stones and Magnifying Stones to increase the radius of the explosions.
     -   The actual hitbox of the explosion and visual size often do not match when modified.
@@ -390,8 +394,9 @@ Fire
 
 **Effect:** User throws 3 quick burning daggers.
 
--   Deals 25 (8.5 + 8.5 + 8.5) damage at level 1, 45 (15+15+15) at level 5.
+-   Deals 25 (8.5 + 8.5 + 8.5) damage at level 1, 44.25 (14.75+14.75+14.75) at level 5, Tornado spark makes it do 7.38 per dagger 59 DMG total.
 -   Deals moderate-low posture damage.
+-   Has 8.45x PVE scale (44.25 PVP, 374.34 PVE DMG)
 -   Does not inflict Burn.
 -   Breaks certain tiles.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
@@ -431,9 +436,10 @@ Fire
 
 **Effect:** User releases a burst of flame from their palm in a cone shape.
 
--   Deals 26/27.5/29/30.5/32 damage, and has 2.5 Flamecharm scaling.
+-   Deals 26/27.5/29/30.5/32 damage, 38.27 DMG at 80 Flame. and has 2.5 Flamecharm scaling.
 -   Deals 5.5 posture damage.
 -   This Mantra has 0.7 seconds windup and 0.2 seconds of endlag
+-   Has 9.14x PVE scale (38.27 PVP DMG, 349.88 PVE)
 -   It has a cooldown of 16 seconds
 -   Inflicts Burn.
 -   Can be modified with Cloud/Stratus Stones to increase size, every +1 in size makes it 10% bigger.
@@ -470,8 +476,9 @@ Fire
 
 **Effect:** User creates a destructible orb that will shoot out fireballs to nearby targets.
 
--   Deals 43 damage.
+-   Deals 43.06 damage.
 -   Deals low posture damage.
+-   Has 9.18x PVE scale (43.06 PVP, 395.25 PVE DMG)
 -   Inflicts Burn.
 -   Can be grabbed by your Flame Grab (Bug).
 -   Can be modified with a magnet spark, making the turret follow the user.
@@ -508,8 +515,8 @@ Fire + Blunt
 
 **Effect:** User releases a small fireball projectile that flies forward in a straight path.
 
--   Deals 26 damage per hit.
--   Deals moderate posture damage.
+-   Deals 25.59 damage per hit at 5 lvl
+-   Has 9.18x PVE scale (25.59 PVP DMG, 234.96 DMG)
 -   Inflicts Burn.
 -   Cooldown resets when landed, allowing you to cast it up to three times.
 -   Sometimes returns cooldown even when missed. Needs testing.
@@ -546,7 +553,8 @@ Fire
 
 **Effect:** User releases a flurry of seven slashes.
 
--   Deals 33.5+33.5+23.4+13.4+6.7+6.7, totaling up to 117 damage.
+-   Deals 33.5+33.5+23.4+13.4+6.7+6.7, totaling up to 117 damage
+-   Has 17.2x PVE scaling(33.5 PVP DMG, 578.67 PVE DMG)
 -   Deals high posture damage.
 -   Inflicts burn.
 -   Will not continue if the first slash misses.
@@ -584,8 +592,8 @@ Fire
 
 **Effect:** User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
--   Deals 39 damage at level 5.
--   Deals 11 posture damage.
+-   Deals 38.27 damage at level 5. 11 posture
+-   Has 9.18x PVE scale (38.27 PVP, 351.34 PVE DMG)
 -   Inflicts Burn.
 -   10 second cooldown.
 -   Has a 0.48 second windup.
@@ -626,7 +634,8 @@ Fire + Blunt
 
 **Effect:** User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
 
--   Deals 31+18 damage.
+-   Deals 31.1+18.86 damage at 5 lvl
+-   Has 9.14x PVE scale (31.1+18.86 PVP, 285.46+171.28 PVE)
 -   Deals low posture damage.
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
@@ -664,7 +673,8 @@ Fire
 
 **Effect:** User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
 
--   Deals 112 damage (FULL CHARGED), 61 dmg (NOT CHARGED)
+-   Deals 112 damage (FULL CHARGED), 64.13 dmg (NOT CHARGED)
+-   Has 9.18x PVE scale (64.13 PVP DMG, 588.68 PVE DMG)
 -   Deals low posture damage.
 -   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage and posture damage increases with each charge.
     -   M1'ing whilst the Mantra is charging will shoot the projectile with the amount of charge it has at that point.
@@ -709,9 +719,10 @@ Fire
 **Effect:** User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. "This'll be over by snack time."
 
 -   Grabs any enemies In range of it.
--   Deals 45 dmg total (14+14+16) at level 5.
+-   Deals 45 dmg total (14+14+16) at level 5, reversal spark 14+16.74 at 5 lvl
 -   Deals 18 posture damage every sweep.
 -   Inflicts burn.
+-   Has 9.18x PVE scale
 -   18 second cooldown.
 -   Has a 0.6 second windup.
 -   Has a 0.2 second endlag.
@@ -788,8 +799,8 @@ Fire
 
 **Effect:** User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
--   Deals 48 damage.
--   Deals low posture damage.
+-   Deals 47.84 damage at 5 lvl.
+-   Has 9.17x PVE scale (47.84 DMG, 439.17 PVE DMG)
 -   Inflicts Burn and Ragdoll.
 -   Can be modified with Crystal/Perfect Lenses and Glass/Magnifying Stones.
     -   Lens will cause the Mantra to fly farther (at the same pace).
@@ -827,8 +838,9 @@ Fire
 
 **Effect:** User emits a blast under them that propels the caster and nearby opponents up in the air.
 
--   Deals 12 damage.
+-   Deals 11.96 damage at 5 lvl
 -   Deals low posture damage.
+-   Has 9.17x PVE scale (11.96 PVP, 109.79 PVE)
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
 -   Is able to proc Meteor Impact, even without hitting an opponent.
 -   Shares similar traits to the Strong Leap Mantra.

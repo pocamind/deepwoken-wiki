@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 135564
+revid: 136685
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
@@ -78,7 +78,7 @@ Flintlock user using the guns critical attack
 
 **[Dragoon](Dragoon.md):** **16** damage, **11** range, **12** LHT scaling, **1.17x** attack speed, sold for **500** notes in summer isle. (65 LHT req)
 
-[**Rosen's Roscoe**](<Rosen's_Roscoe.md>): **16** damage, **11** range, **11** LHT scaling, **1.2x** attack speed, **20%** chip damage. Dropped by enemies. (75 LHT req)
+[**Rosen's Roscoe**](<Rosen's_Roscoe.md>): **16** damage, **11** range, **11** LHT scaling, **1.2x** attack speed, **20%** chip damage. (75 LHT req)
 
 **[Iron Requiem](Iron_Requiem.md):** **21** damage, **10** range**, 3** LHT scaling + 4 Ironsing scaling, **1.17x** attack speed. Dropped by [Finnegan The Lost](Finnegan_The_Lost.md) or found in [Saramaed Hollow](Saramaed_Hollow.md). (40 LHT, 75 Ironsing req)
 
@@ -118,7 +118,12 @@ _**Stats:**_
 -   One handed guns are the only type of guns where having [iron bullets](Bullet_Casings.md) isn't a direct upgrade.
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip and 15% increased damage.
 -   As of 2024, March 3th, rifles and dual pistols no longer shoot a bullet on their m1s.
--   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In real life, this is very impractical, as the rifle's springlock and other parts can be easily damaged or even destroyed upon impact, ruining the gun.
+-   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents.
 -   Both pistols and rifles in Deepwoken don't have recoil.
 -   The [Dawnshot](Dawnshot.md) is the only gun that can be used with [Pluripotent Alloy](Pluripotent_Alloy.md).
 -   Reloading you gun during other animations, such as blocking, parrying or movestacking used to be possible. This was later fixed 2025, February 2th update.
+-   Running animations for One handed guns is currently bugged. Your arms don't move at all.
+    
+    File:One handed gun animation bug.png
+    
+    One handed gun running animations. (Currently bugged)

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 136335
+revid: 136675
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -37,7 +37,7 @@ Meet the following requirements, which is required for either method:
 There are two methods from here:
 
 -   Have Hero reputation with [Etrea](Etrea.md).
--   Have a [Resonance](Resonance.md).
+-   Have a [Resonance](Resonance.md).(You do not need resonance to unlock the dialogues with [Theadre](Theadre.md) and [Bookkeeper Andros](Bookkeeper_Andros.md))
 -   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god.
 -   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the King's Ardour, in the order: 3, 1, 1, 2, 1, 1, 1.

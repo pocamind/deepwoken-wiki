@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 136502
+revid: 136693
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -188,4 +188,5 @@ Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Th
 -   The cave paintings show that civilization has once been here long before the Union have.
     -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast, possibly a Megalodaunt.
     -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
+-   Well known deepwoken youtuber Agamatsu has a meme regarding on how boring this dungeon is on all of his livestream thumbnails.
 -   There is a sentence when trying to leave to the next floor without 1 member in the drill. "Leave no delver behind". This is a reference to "Leave no dwarf behind" from another game, Deep Rock Galactic.

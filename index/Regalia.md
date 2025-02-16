@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 136664
+revid: 136691
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,7 +22,7 @@ categories: [Mechanics]
 
 Mute (also known as “Animal King”) has the ability to make monsters unable to see you, meaning they won't attack unless you attack them first. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if you don't attack them for over 15 seconds. Most humanoid enemies will still aggro to the player on sight.
 
-**Wiping your character with the Mute Regalia while below Power 6 is known to pass the Regalia on to the next character. However, there is a chance the same could happen when wiping at Powers 7, 8, and 9, though this requires further testing**. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
+**Wiping your character with the Mute Regalia while below Power 7 is known to pass the Regalia on to the next character. However, there is a chance the same could happen when wiping at Powers 7, 8, and 9, though this requires further testing**. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
 
 If you are attempting to get Mute, wiping on a high level file has a higher chance of giving you Mute on your next life. Mute is also considered the best and most useful **Regalia**, because it simply makes your life much easier.
 
@@ -39,8 +39,6 @@ If you are attempting to get Mute, wiping on a high level file has a higher chan
     -   [Rogue Constructs](Hive_Construct.md#rogue-construct)
     -   [Enforcers](Enforcer.md)
     -   Ambush [Mechalodaunts](Megalodaunt.md#mechalodaunt)
-
--   Does work in Saramaed Hollow.
 
 -   Mute does work against some humanoids.
     -   [Ministry Necromancers](Ministry_Necromancer.md)
@@ -81,7 +79,9 @@ When creating a character, you start with a hand of [Resonance](Resonance.md) dr
 
 ### Noble[\[3\]](#cite-note-archnamedrop1-3)
 
-You start with Ally [Reputation](Reputation.md) with all factions.
+You start with Ally [Reputation](Reputation.md) with all factions but [The Ministry](The_Ministry.md).
+
+[The Ministry](The_Ministry.md) gives you Friend [Reputation](Reputation.md).
 
 ### Inheritance[\[3\]](#cite-note-archnamedrop1-3)
 
@@ -91,9 +91,23 @@ You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md).
 
 You start with 20 [Aces](Aces.md).
 
-### Card Dealer
+### Joker
 
 You are granted an additional [Talent](Talents.md) choice in each Talent hand.
+
+### Hungerless
+
+You no longer lose hunger or thirst (with the exception being blood regeneration, gluttony enchant, vomit)
+
+You lose alot less hunger and thirst while regenerating blood (3 Bars of blood for 5% of Hunger and Thirst)
+
+### **Adept**
+
+[Knowledge](Knowledge.md) gain is doubled.
+
+### Blessing from Below
+
+You are granted an additional [Resonance](Resonance.md) choice when rerolling or obtaining one.
 
 ## Trivia
 

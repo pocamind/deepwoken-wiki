@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 136150
+revid: 136690
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Layer 2, Floor 2, Dungeons]

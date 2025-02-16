@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 136312
+revid: 136672
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -102,7 +102,8 @@ Shadow + Slash (Grab), Blunt (Slam)
 **Effect:** _Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage. The caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage_
 
 -   Refills about the same amount of Ether as the spell cost.
--   Deals 58 DMG total, 48 grab + 10 slam.
+-   Deals 57.41 DMG total, 47.84 grab + 9.57 slam.
+-   Grab has 9.18x PVE scale, Slam has 59.47x PVE scale (47.84 DMG grab + 9.57 slam PVP, 439.17 DMG grab + 569.17 slam PVE)
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
 -   It has a cooldown of 12 seconds.
 
@@ -138,11 +139,11 @@ Shadow + Slash
 
 **Effect:** _A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable._
 
+-   Deals 19.14 damage per hit, total 57.42 at level 5, 12s cd.
+-   Has 9.178x PVE scale (19.14 DMG PVP, 175.67 PVE DMG)
 -   Adding Rush Shards make Dark Blade faster.
 -   Adding Vibrant Gems increase Ether steal.
--   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes.
--   Deals 19 damage per hit at level 5
--   It has a cooldown of 12 seconds.
+-   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes. (Extra 19.14 DMG)
 
  |
 | 
@@ -176,11 +177,14 @@ Shadow
 
 **Effect:** _You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable._
 
+-   Deals 35.88 dmg non modded at 5 lvl, 3 stratus and 3 perfect lenses will do 23.92 dmg. (-50% DMG)
+-   Blast spark version does 23.68 per hit, 71.04 total. With 3 stratus stones and 3 perfect lenses does 15.79 per hit, 47.37 total. (-50% DMG)
+-   Each modification makes you lose 8.33% DMG.
+-   Has 9.18x PVE scale (35.88 DMG PVP, 329.38 PVE)
 -   Adding Lenses will increase the range of the blast forward
--   Adding Cloudstones will increase the height and width of the blast
+-   Adding Cloudstones/Stratus Stones will increase the height and width of the blast
 -   Its animation is identical to the Duelist's M2 from Rogue Lineage.
 -   Guardbreaks at Lvl 5.
--   Deals 35 dmg, 21.5 per hit, total dmg 65 with Blast Spark
 -   Can be modified with a Blast Spark, making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and triple the Ether cost from what’s displayed (I.E. a 19% Ether cost Shadow Gun will actually cost 57% of your Ether.)
 -   It has a cooldown of 12 seconds.
 
@@ -216,7 +220,8 @@ Shadow
 
 **Effect:** _The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their Ether based on the number of chains applied for a duration of 3 seconds._
 
--   Deals 17 DMG per chain at level 5
+-   Deals 17.25 DMG per chain at level 5, total 69
+-   Has 9.178x PVE scale (17.25 PVP DMG, 158.32 PVE)
 -   Casts an extra chain at level 5 (Confirmed, level 5 does cast an additional chain.)
 -   Duration of the chain effect can be increased with Logstones
 -   Chain projectile speed and range can be increased with Drift shards and Crystal lenses
@@ -253,7 +258,8 @@ Shadow
 
 **Effect:** _The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. Blockable._
 
--   Deals 31 DMG total
+-   Deals 31.1 DMG total
+-   Has 9.178x PVE scale (31.1 DMG PVP, 285.46 PVE DMG)
 -   Unaffected by Glass & Magnifying Stones.
 -   Cloud and Stratus Stones increase the size of the eruption.
 -   Pretty similar to [Flamecharm's Flame Repulsion](Flamecharm.md), but with no knockback.
@@ -329,7 +335,8 @@ Shadow, Blunt (Slam)
 
 **Effect:** _User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting_ with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing Ether. This attack can summon multiple tendrils to grab multiple people simultaneously.
 
--   Deals 32 dmg + 3 slam
+-   Deals 32.29 dmg + 5 slam
+-   Has 9.18x PVE scale, slam has 6.5x (32.29 DMG + 5 Slam PVP, 296.44 DMG + 32.4 slam)
 -   Drift and Rush Shards increase projectile speed.
 -   Cloud and Stratus Stones increase range.
 -   Can be modified with a Blast Spark, making your Rising Shadow apply a status effect that massively increases Mantra Ether cost and returns a portion of Ether consumed to the user if enemies manage to cast a Mantra, if your Ether is full you emit a wave of shadow.
@@ -366,7 +373,8 @@ Shadow
 
 **Effect:** _3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable._
 
--   Deals 41.5 per meteor, 125 DMG total
+-   Deals 41.86 per meteor, 125.58 DMG total
+-   Has 9.179x PVE scale (41.86 PVP DMG, 384.27 PVE DMG)
 -   Shares a cooldown with [Shadow Seekers](Shadowcast.md#shadow-seekers).
 
  |
@@ -399,9 +407,10 @@ Shadow
  |
 | 
 
-**Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and Ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit._ "hit em with a scream!"
+**Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and Ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit._ "Hit em with a scream!"
 
--   Deals 82 dmg total, 10.5 per hit.
+-   Deals 86.08 dmg total, 10.76 per hit.
+-   Has 9.183x PVE scale (10.76 PVP DMG, 98.81 PVE)
 
  |
 | 
@@ -435,8 +444,8 @@ Shadow, Shadow + Blunt (Mul. Spark)
 
 **Effect:** _The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back._
 
--   Deals a massive amount of posture and health damage.
--   Deals 140 dmg, 10 + 110 dmg with Multiplying Spark
+-   Deals 137.54 dmg, 10.76 + 110.03 dmg with Multiplying Spark
+-   Has 9.18x PVE scale (137.54 PVP DMG, 1262.62 PVE DMG, Multi spark: 10.76 + 110.03 PVP DMG, 98.81 + 1010.09)
 -   The axe kick does not proc Deep Gems, the Multiplying Spark's high kick does
 -   Can also break certain tiles and fell trees.
 -   When maxed out (Lv. 5), has the ability to blockbreak the opponent.
@@ -475,7 +484,8 @@ Shadow + Slash
 
 **Effect:** _User creates a large black sword from their hands, using it to slash the enemy in front of them._
 
--   Deals 40 dmg non modded and with Spring Spark, 80 dmg with multi, 85 with multi and spring
+-   Deals 41.26 DMG as non-modded and Spring Spark. 27.51\*3 DMG with Multi spark, 90.78 (41.26+24.76+24.76) with multi and spring spark
+-   Has 9.18x PVE scale (41.26 PVP DMG,378.79 PVE DMG)
 -   Can't be feinted.
 -   Can be modified with a Spring Spark, making you lunge forward and slam down on the enemy.
 -   Can be modified with a Multiplying Spark, making you slash three times instead of once.
@@ -585,7 +595,8 @@ Shadow + Slash
 
 **Effect:** _The user will summon shadows around their target and teleport to them after a short wait._
 
--   Deals 36 damage
+-   Deals 35.88 damage at 5 lvl
+-   Has 9.18x PVE scale (35.88 PVP DMG, 329.38 PVE DMG)
 -   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged
 
@@ -621,7 +632,8 @@ Shadow + Slash/Blunt (Bl. Spark)
 
 **Effect:** _Ready yourself before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable._
 
--   Deals 52 DMG no mod, 3.75 per hit, does 20 hits total, 75 total dmg Blast Spark.
+-   Deals 51.67 DMG no mod. With blast spark 3.75 per hit, does 20 hits total, 75 total dmg.
+-   Has 9.18x PVE scale (51.67 DMG PVP, 474.3 PVE DMG)
 -   Crystal/Perfect Lenses increase distance.
 -   Glass and Magnifying Stones make hitbox larger.
 -   Can be modified with a Blast Spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
@@ -659,7 +671,8 @@ Shadow
 **Effect:** _Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards._
 
 -   After ~3s (or sooner if player uses left click) you jump out creating a shadow 'Spike' that pierces enemies.
--   Deals 31 DMG
+-   Deals 31.1 DMG at 5 lvl
+-   Has 9.178x PVP scale (31.1 DMG PVP, 285.46 PVE)
 -   While submerged you have I-Frames.
 -   You can't block or parry while submerged.
 -   NPCs can spot you underground.
@@ -730,7 +743,8 @@ Shadow
 
 **Effect:** _Causes a damaging shockwave that adds a +20% weapon damage buff to the user. Consumes health upon use._
 
--   Deals 15 dmg, 25 dmg with Blast Spark, 50 dmg with multi and 50 dmg with multi + Blast Spark (if all 3 explosions landed)
+-   Deals 16.27 dmg, 24.64 dmg with Blast Spark, 16.27\*3 dmg with Multi spark and 16.27\*3 dmg with Multi + Blast Spark
+-   Has 9.177x PVE scale (16.27 PVP, 149.32 PVE)
 -   The damage buff can be increased to 25% with Vibrant Gems
 -   Can be modified with Aeon/Eternal Logstones to increase duration of buff.
 -   Spine Cutter cannot be used while Shade Devour is active
