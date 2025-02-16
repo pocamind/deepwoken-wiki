@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 135351
+revid: 136615
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,11 +34,11 @@ When Reinforce is applied to an ally or enemy with the Talent Lord’s Tithe, st
 
 ### Hyperarmor
 
-Make your attacks uninterruptible and become immune to most forms of stun; Vents and Thundercall's Shock will bypass this and will interrupt your attack. Can be applied with the Critical attack of most heavy weapons, [Brace](Attunement-less.md#fortitude-mantras), and many other sources. Signified by your character gaining a red highlight.
+Make your attacks uninterruptible and become immune to most forms of stun; Vents and Thundercall's Shock will bypass this and will interrupt your attack. Can be applied with the Critical attack of most heavy weapons, [Brace](Attunement-less.md#fortitude-mantras), and many other sources. Signified by your character gaining a red highlight. Hyperarmor ends early if you cast a Mantra.
 
 ### True Hyperarmor
 
-Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword's](Darksteel_Greatsword.md) and [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attacks. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
+Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword's](Darksteel_Greatsword.md) Critical attack, [Stoneheart's](Stoneheart.md) Critical's charge animation, and [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attack. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
 
 ### Overheal
 
@@ -196,7 +196,7 @@ Have your dodge frames lowered for a brief period. Applied after being flourishe
 
 ### Anti-Heal
 
-Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by an M1 by someone that has the Talent [All the Dead Gods](Talents.md#heretic) for 8 seconds, or when hit by [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack for 10 seconds. The Anti-Heal effectiveness from All the Dead Gods can be calculated by combining your Willpower and Intelligence stats, dividing them by 105, and then multiplying them by 100; as the Anti-Heal effectiveness scales on investment up to their combined requirement. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
+Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by an M1 by someone that has the Talent [All the Dead Gods](Talents.md#heretic) for 8 seconds, or when hit by the first hit of [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack for 10 seconds. The Anti-Heal effectiveness from All the Dead Gods scales on investment up to its combined requirement. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
 
 ### Pestilence
 

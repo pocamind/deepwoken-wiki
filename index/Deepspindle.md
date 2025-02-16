@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 136334
+revid: 136560
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -44,13 +44,15 @@ The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent
     -   The guaranteed drops from Silhuett's event can only be obtained once per slot; corresponding fights with the Ministry Agent will only guarantee the [Deepscorn Casque](Deepscorn_Casque.md).
     -   Assuming Ally reputation with [The Ministry](The_Ministry.md), Silhuett's event's fight can be skipped immediately, giving you all the items; while random spawned events will allow you to fight a [Black Diver](<Black_Diver_(NPC).md>) or [Mudskipper Broodlord](Mudskipper_Broodlord.md) instead. Low/Neutral reputation random encounters will still have you fight the Ministry Agent, but will not guarantee drops like [Silhuett's](Silhuett.md) event. It should be mentioned that Broodlords and Black Divers WILL drop the same chest as the Agent, so these may be better grinding options for some, as their health pools are significantly smaller and their ai significantly easier.
 
+Utilizing the Deepspindle with [Darkened Bastion](Darkened_Bastion.md) Outfit equipped will apply 25% of your weapon's scaled damage as Wither on M1s. Most other weapons have halved effectiveness with this talent, applying 12.5% if their scaled damage as Wither.
+
 ## Critical
 
 The Deepspindle has two different critical attacks.
 
 For the **standing** critical, the user thrusts the weapon forward with both hands, marking an enemy before dealing damage multiple times. You cannot parry the damage which occurs after the initial hit, however, you can vent out of it. This critical attack is counted as "Shadow" damage, meaning it is affected by shadow resistance from outfits such as [Black Diver](Black_Diver.md) and [Navaen War Chief](Navaen_War_Chief.md), and activates [Dawnwalker's](Oath%253A_Dawnwalker.md) "Protagonist Syndrome" passive.
 
-For the **running** critical, the user stabs the weapon into themselves, dealing self-damage and sending out two shadow blasts, teleporting them in front of the hit target upon hitting an enemy. Like the standing critical, this is also considered "Shadow" damage.
+For the **running** critical, the user stabs the weapon into themselves, dealing self-damage and sending out two shadow blasts, teleporting them in front of the hit target upon hitting an enemy. The self-damage is removed if you have the [Deepscorn Casque](Deepscorn_Casque.md) headgear equipped. Like the standing critical, this is also considered "Shadow" damage.
 
 The running critical will put the player in the [Dark Rift](Talents.md) state after landing, which have a 20 second cooldown. Both critical attacks have a cooldown of 9 **seconds**. However, the standing critical's duration lasts for a long time meaning the standing critical effectively has a cooldown of around 6.5 seconds as long as it lands.
 
@@ -62,6 +64,5 @@ The running critical will put the player in the [Dark Rift](Talents.md) state af
 -   Meeting the requirement of LHT and SDW, the damage is (23.19)
 -   At max LHT and SDW, the damage is (27.65)
 -   The running critical damage can be negated by the Unique equipment Talent "Already Dead", available by equipping the Deepscorn Casque.
--   This weapon gains 40% wither on hit when paired with the Darkened Bastion outfit, instead of the normal 20% received by other weapons.
 -   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the [Deepscorn Casque](Deepscorn_Casque.md), and the Deepspindle all at once (when sent via Silhuette).
 -   The magic circle sitting on top of the crossguard sports symbols bearing resemblance to the [Ministry](The_Ministry.md).

@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 136546
+revid: 136563
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -34,7 +34,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 The twisted, awoken form of the [Dormant Splinter](Dormant_Splinter.md) crafted using the soul within the [Cold Forge](The_Cold_Forge.md) with sufficient ores and a vessel.
 
-It deals 50% of its scaled damage (before modifiers) as Wither every basic attack, dealing from **8.55** Wither (65MED) to **11.25** Wither (100 MED 6, PROF, 3\* DMG).
+It deals 50% of its scaled damage (before modifiers) as Wither every basic attack, dealing from **10.3** Wither (65MED) to **15.5** Wither (100 MED 6, PROF, 3\* DMG).
 
 It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
@@ -42,9 +42,11 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 -   [Razor Cutlass](Razor_Cutlass.md)
 -   3 [Umbrite](Ores.md)
 
-Meeting the Requirement of 65 MED, the damage is **19.3 + 5.8 \[BLD\]**
+Meeting the Requirement of 65 MED, the damage is **20.6 + 6.2 \[BLD\]**
 
-At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is **28.2 + 8.45\[BLD\]**
+At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is **31 + 9.3\[BLD\]**
+
+Wielding this weapon with the [Darkened Bastion](Darkened_Bastion.md) Outfit equipped will apply an additional 25% of your weapon's scaled damage as Wither on M1s. Most other weapons have halved effectiveness with this Outfit, only applying 12.5% of their scaled damage as Wither.
 
 ## Critical
 
@@ -60,7 +62,6 @@ The cooldown for this critical is **8** seconds.
 
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
 -   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to act as a placeholder.
--   The Wither application on hit stacks with [Darkened Bastion](Darkened_Bastion.md)'s Withering Soul Talent, granting an additional 25% of your scaled damage as Wither.
 -   While equipped, the Umbrite Whiterblade will display heartbeat noises as well as a incomprehensible whisper followed by a ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.
 

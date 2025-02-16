@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 135813
+revid: 136595
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -32,6 +32,7 @@ Knowledge is a special in-game currency that can be used to engage in a deals wi
 
 Achieving milestones and completing certain quests will award the player with Knowledge.
 
+-   Spawning in with the Inheritance [Regalia](Regalia.md), which gives 50 Knowledge on spawn. This Regalia persists on wipe if your Power was low enough on your previous slot.
 -   Choosing your first [Resonance,](Resonance.md) awarding 5 knowledge. (Note: You have to **CHOOSE** the [Resonance](Resonance.md), meaning you're only awarded the knowledge after you pick your desired [Resonance](Resonance.md))
 -   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level, with the maximum being 5 Knowledge. _The currency is granted to every slot upon **creation of a new character**. It won't be given to already-existing characters._
 -   Gaining [Power](Power.md), awarding 1 Knowledge per Power level, with the maximum being 19 Knowledge.
@@ -40,6 +41,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 1 Medallions for 1 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _This can be repeated as long as you have the medallions to afford it. **Klaris may refuse your Medallions as she will not talk to you if you are below Power 15.**_
 -   Finishing [Mendacia's](Mendacia.md) quest in Layer 2 Floor 1, awarding 2 Knowledge after talking to her in Layer 2 Floor 2 (Denying quest also give you knowledge though)
 -   Catching [Golden Fish](Fishing.md), awarding 1 Knowledge per catch, maximum being 5 catches.
+-   Defeating any [Boss](Bosses.md) solo, awarding 1 knowledge and can be repeated.
 -   Killing [Primadon](Primadon,_Titan_of_the_East.md) for the first time, awarding 2 Knowledge.
     -   Killing [Primadon](Primadon,_Titan_of_the_East.md) while having dealt at least 8000 damage (20% of his HP). This rewards 1 Knowledge and can be repeated.
 -   Killing [The Ferryman](The_Ferryman.md) for the first time, awarding 2 Knowledge after taking the exit portal.

@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 135810
+revid: 136558
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits]
@@ -24,7 +24,10 @@ This Outfit has 2600 durability and grants +30% Physical resistance, +30% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 44% Shadowcast, and 30% Elemental.
 
-The Outfit provides the [Talent Card](Talents.md) _Withering Soul_, which makes your m1s proc 20% of their damage as wither, wielding the [Deepspindle](Deepspindle.md) will double the amount to 40%
+The Outfit provides the [Talent Card](Talents.md) _Withering Soul_, which makes your M1's proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) will double the amount to 25%.
+
+-   The Wither applied is based off your weapon's scaled damage.
+-   [Umbrite Witherblade](Umbrite_Witherblade.md) also gains the full 25% Wither.
 
 ## Location
 

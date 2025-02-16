@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136412
+revid: 136611
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1270,6 +1270,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
     -   Applying chill, freeze, or frost elemental damage applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals makes them explode.
     -   3 base damage per crystal explosion, has 5 scaling. Formula to calculate crystal DMG is (3+frostdraw investment\*0.015)
+    -   Has 4.45x PVE scale (18.75 DMG PVP, 83.53 DMG PVE), affected by chain of perfection.
     -   1s cooldown on explosion proc.
     -   Increases damage of Crystal Impale and Crystal Knee.
     -   Changes Chilling enchant to proc 1 crystal per hit.
@@ -1889,7 +1890,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Lowers Shade Devour self-damage. Removes Deepspindle running crit self-damage.
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
 
--   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.
+-   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your M1's proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.
+    -   The Wither applied is based off your weapon's scaled damage.
+    -   [Umbrite Witherblade](Umbrite_Witherblade.md) also gains the full 25% Wither.
     -   Obtained from: [Darkened Bastion](Darkened_Bastion.md)
 
 ### Mindbreaker
@@ -2182,6 +2185,7 @@ _**"My cure is most effective."**_
     -   Affected by Grim, Taunt, Isshin's ring, Exposed Durability and any other defensive debuffs.
     -   Not affected by "Return To The Dark Ages" Talent
     -   Best PVE path due to armor drain and damage to mobs unlike other paths.
+    -   Has 6.5x PVE scale (5.5 DMG PVP to 35.60 PVE DMG)
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
 
@@ -2315,8 +2319,9 @@ _**"My cure is most effective."**_
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
-    -   Deals 11.5 Ironsing damage per blade.
-    -   Doesn't scale on Ironsing Investment
+    -   Deals 11.5 Ironsing damage per blade at 80 Ironsing.
+    -   Has 6.47x PVE scale (11.5 DMG PVP, 74.50 PVE DMG)
+    -   Scales on Ironsing Investment.
     -   Artisan's blade have windup of 1.2s
     -   Hits from Artisan's Blades do not drain armor from enemy.
     -   Artisan's Blades do not benefit from Exposed Durability's damage buff or any other defense debuff.
@@ -2326,7 +2331,7 @@ _**"My cure is most effective."**_
     -   4.5 posture per blade.
     -   Artisan blades last 20 seconds.
     
-    -   "Metal infused" attacks are Ignition deepcrusher m1, crit (in any stance), Iron requiem m1 without bullets.
+    -   "Metal infused" attacks are Ignition Deepcrusher m1, crit (in any stance), Iron requiem m1 without bullets.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Songs Unforged \[Common Talent, Ironsing Exclusive\] - Your weapon criticals will now activate scrapsinger.
@@ -3080,9 +3085,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Aerial Assault \[Common Talent\] - Allows you to move quickly when you dodge mid-air. (+2 Passive Agility)
     -   Prerequisite: [Ivory](Ivory.md)'s quest at the Pathfinders Respite
 
--   Brutal Momentum \[Common Talent\] - \[Heavy Weapons\] Successfully dodging will give your next swing hyperarmor.
-    -   Prerequisites: 50 Heavy Weapon, Heavy equipped.
-    -   Since 30 November 2024 update, earlier inability to proc Hyperarmor weapons: Pyrekeeper, Railblade and Greataxes now have return Hyperarmor swings on parry, which means that Brutal Momentum works on them.
+-   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor.
+    -   Prerequisites: 50 Heavy Weapon, Heavy Weapon equipped.
+    -   Since the November 30th, 2024 update, earlier inability to proc Hyperarmor weapons: Pyrekeeper, Railblade and Greataxes now have return Hyperarmor swings on parry, which means that Brutal Momentum works on them.
 
 -   Matador \[Common Talent\] - Deal +20% more damage to human enemies with hyperarmor.
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
@@ -3401,7 +3406,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken.
--   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 20% of their damage as Wither. Wielding the Deepspindle will double the amount to 40%.
+-   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.
+    -   The Wither applied is based off your weapon's scaled damage.
+    -   [Umbrite Witherblade](Umbrite_Witherblade.md) also gains the full 25% Wither.
 -   Whistleguard: [Whistling Periapt](Whistling_Periapt.md) - The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.
     -   The wind shield grants one (1) autoparry frame and has a cooldown of 10 seconds.
     -   The wind shield lasts a few seconds or until you get hit (in which case, it will automatically parry the attack), cast any mantra, feint any attack, or use your critical attack.

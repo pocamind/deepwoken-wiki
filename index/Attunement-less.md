@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 136380
+revid: 136612
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -524,7 +524,8 @@ N/A
 **Effect:** _User prepares themselves and turns red, gaining hyperarmor and negating hitstun for the duration of the effect._
 
 -   Lasts 5 seconds by default.
--   Upgrades increase duration up to a maximum of 8 seconds
+-   Levels increase duration up to a maximum of 8 seconds.
+-   Hyperarmor ends early if you cast a Mantra.
 
  |
 
@@ -672,7 +673,7 @@ _An agile dash._
  |
 | 
 
-\[missing, add\]
+60 Ether
 
  | 
 
@@ -1640,6 +1641,7 @@ _Unleash a powerful pressure blast from the weight of your weapon._
 
 -   Dazes opponents on hit.
 -   Ragdolls and lightly flings opponents away
+-   Has Autoparry frames
 
  |
 | 

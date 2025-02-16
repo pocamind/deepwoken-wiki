@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 135856
+revid: 136620
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -235,7 +235,7 @@ Bandits raiding a Guild Base.
 
 ## Trivia
 
--   You gain weapon and attunement exp from hitting dummies in the Training Hall
+-   You gain weapon and attunement exp from hitting dummies in the Training Hall (Fixed)
 -   You will gain a small amount of experience for each unique guild base you visit
 -   You do not need to have every single guild base room in order to buy the Arena Extension.
     -   You simply need to buy either room in the back middle left/middle right (the "back" being 3 purchased rooms deep).
