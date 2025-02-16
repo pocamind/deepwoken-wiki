@@ -1,6 +1,6 @@
 ---
 title: Vesque
-revid: 132000
+revid: 136657
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
@@ -16,7 +16,7 @@ categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
 
 ## Description
 
-**Vesque** is an [Etrean](Etrean.md) NPC located on the [Isle of Vigils](Isle_of_Vigils.md), who teaches the [Fang and Coil](Fang_and_Coil.md) fighting style. From his dialogue, it can be inferred that he is a [Vigil](The_Vigils.md) belonging to a special division that practises hand-to-hand combat.
+**Vesque** is an [Etrean](Etrean.md) NPC located on the [Isle of Vigils](Isle_of_Vigils.md), who teaches the [Fang and Coil](Fang_and_Coil.md) fighting style. From his dialogue, it can be inferred that he is a [Vigil](The_Vigils.md) belonging to a special division that practices hand-to-hand combat.
 
 ## Dialogue
 

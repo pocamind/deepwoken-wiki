@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 136639
+revid: 136664
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -77,7 +77,7 @@ Grants unique dialogue with [The Legendary Boot](Legendary_Boot.md). Functionall
 
 When creating a character, you start with a hand of [Resonance](Resonance.md) draws.
 
-**You can pass this on to your next character by wiping below Power 6. This allows you to easily farm for legendary [Resonances](Resonance.md).**
+**You can pass this on to your next character by wiping below Power 10. This allows you to easily farm for legendary [Resonances](Resonance.md).**
 
 ### Noble[\[3\]](#cite-note-archnamedrop1-3)
 
@@ -91,6 +91,10 @@ You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md).
 
 You start with 20 [Aces](Aces.md).
 
+### Card Dealer
+
+You are granted an additional [Talent](Talents.md) choice in each Talent hand.
+
 ## Trivia
 
 -   For almost the entirety of the game's lifespan, Mute was the only Regalia known to exist, until Arch\_Mage told the community about the others and the obtainment method.[\[1\]](#cite-note-archinfo-1)
@@ -100,4 +104,4 @@ You start with 20 [Aces](Aces.md).
 
 1.  ↑ [1.0](#cite-ref-archinfo-1-0) [1.1](#cite-ref-archinfo-1-1) [1.2](#cite-ref-archinfo-1-2) [https://www.youtube.com/watch?v=pUgSI5Xg0VQ](https://www.youtube.com/watch?v=pUgSI5Xg0VQ)
 2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=0zHNjRDTsiU](https://www.youtube.com/watch?v=0zHNjRDTsiU)
-3.  ↑ [3.0](#cite-ref-archnamedrop1-3-0) [3.1](#cite-ref-archnamedrop1-3-1) [3.2](#cite-ref-archnamedrop1-3-2) [3.3](#cite-ref-archnamedrop1-3-3)
+3.  ↑ [3.0](#cite-ref-archnamedrop1-3-0) [3.1](#cite-ref-archnamedrop1-3-1) [3.2](#cite-ref-archnamedrop1-3-2) [3.3](#cite-ref-archnamedrop1-3-3) Source for names of Regalia added on 2/15/2025.

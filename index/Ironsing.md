@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 136552
+revid: 136663
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -235,7 +235,7 @@ Metal + Bleed
 -   May be blocked or even parried off the ground.
 -   With the '**Laced Traps'** Talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
 -   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
--   Can be modified with **Cloudstones/Stratus Stones**.
+-   Can be modified with **Cloudstones/Stratus Stones** (Does nothing)
 -   Applies Metal Rods on every 2 hits. Caltrops that are laying down applying 1 metal rod per caltrop.
 -   Adds 1 caltrop per level up of the Mantra, up to 8.
 
@@ -271,8 +271,8 @@ Metal + Slash + Bleed
 
 **Effect:** _Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried._
 
--   Deals 145 dmg at level 5 non spark
--   26 DMG per cannon ball + 7.8 Bleed at level 5 with Blast spark
+-   Deals 7.18 DMG + 2.16 bleed at level 5 non spark (Total hits: 15)
+-   26 DMG per cannon ball + 7.8 Bleed at level 5 with Blast spark (Total hits: 2)
 -   PVE scale broken right now. Deals same dmg as PVP in PVE
 -   Both have 0.65s wind up and 15s CD
 -   Apply Metal Rods on hit.
@@ -431,6 +431,7 @@ Metal + Slash + Bleed
 -   Deals 8.37 DMG + 2.52 Bleed per hit at level 5, 10 posture total, 0.6s windup, 13s CD
 -   Has 9.18x PVE scale (8.37 DMG + 2.52 Bleed PVP, 76.85 DMG + 23.07 Bleed PVE)
 -   Applies Metal Rods on hit.
+-   Sends you 5 studs forward on cast
 
  |
 | 
@@ -726,7 +727,7 @@ Metal + Slash + Bleed
 
 -   Deals 28 DMG + 8.4 Bleed at level 5, 10 posture, 0.7s windup, 10.5s cd
 -   Has 9.3x PVE scale (28 DMG + 8.4 bleed in PVP, 260.76 + 78.24 Bleed in PVE)
--   Covers around 100 studs of distance.
+-   Covers 82 studs of distance.
 -   Applies Metal Rods on hit.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
     -   Needs further testing.

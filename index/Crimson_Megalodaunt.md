@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 124087
+revid: 136669
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -12,11 +12,11 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The result of a rare case where a Megalodaunt gets exposed to the Vents of Korilfied of the Third Layer, resulting in this unique species able to utilize [Flamecharm.](Flamecharm.md)
+The result of a rare case where a [Megalodaunt](Megalodaunt.md) gets exposed to the Vents of Korilfied of the Third Layer, resulting in this unique species able to utilize [Flamecharm.](Flamecharm.md)
 
 Red Megalodaunts only features a different skin tone when compared to it's original counterpart, with it being dyed a color of Crimson Red. In addition, it is observed that Red Megalodaunts may utilize Flamecharm by invoking the Song through it's scream, which causes flaming swords to rain down from the sky. These are the only notable differences that are associated with this unique mutation, and aside from being outcasts of Megalodaunt packs, behave no more different than a regular Megalodaunt.
 
-They are a significantly rarer sight, and are only found in selected locations at the Eastern Luminant, namely Songseeker Wilds and the Starswept Valley. Of which, they can always be found on one of the bridges at Starswept Valley somewhere near Bluster's Rift. They would also appear in the Etrean Luminant with the use of a Megalodaunt Bait, but as expected, they are a much rarer sight. As they are somehow considered as outcasts by Megalodaunt packs, they will attack other Megalodaunts as well.
+They are a significantly rarer sight, and are only found in selected locations at the Eastern Luminant, namely Songseeker Wilds and the Starswept Valley. Of which, they can always be found on one of the bridges at Starswept Valley somewhere near [Bluster Rift](Bluster_Rift.md). They would also appear in the [Etrean Luminant](Luminants.md) with the use of a [Megalodaunt Bait](Monster_Bait.md), but as expected, they are a much rarer sight. As they are somehow considered as outcasts by Megalodaunt packs, they will attack other Megalodaunts as well.
 
 ## Attacks
 

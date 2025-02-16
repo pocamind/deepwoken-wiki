@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 135031
+revid: 136667
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -13,12 +13,11 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals]
 | type | Greataxe |
 | requirements | 100 HVY 20 STR PWR 20 |
 | damage | 26 |
-| scaling | HVY: 11 |
-| range | 10 |
+| scaling | HVY: 9 |
+| range | 9 |
 | swing speed | 0.7x |
-| chip damage | 25% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 10 |
+| weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

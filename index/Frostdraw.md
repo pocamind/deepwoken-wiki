@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 136524
+revid: 136660
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -107,7 +107,8 @@ Ice
 
 **Effect:** _Conjure a surrounding ring of 4 to 5 frozen servants that emit two blasts of frosty mist to the center._
 
--   Deals Moderate damage if both blows hit. Blast spark deals 86 (21.5\*4) DMG
+-   Deals 33.48 DMG if both blows hit. Blast spark deals 86 (21.5\*4) DMG
+-   Has 9.18x PVE scale
 -   Inflicts 2 seconds Chill per hit. Can't be increased.
 -   Leaves ice where the Mantra is casted. (With 3 Vibrant Gems you can spawn massive ice floors with it)
 -   Can be modified with 1 Stratus Stone to make it bigger.
@@ -146,7 +147,8 @@ Ice
 
 **Effect:** _Fire a penetrating beam of ice._
 
--   Deals 40 (10+10+10+10) damage at 5 lvl.
+-   Deals 39.24 (9.81\*4) damage at 5 lvl.
+-   Has 9.17x PVE Scale (9.81 DMG PVP, 90.03 PVE DMG)
 -   Inflicts 1 second Chill per hit, can be increased to 5 seconds with one Eternal Logstone.
 -   Hits multiple times in a row.
 -   Knocks back targets.
@@ -184,7 +186,8 @@ Ice
 
 **Effect:** _Conjure a spike of ice from the ground at the cursor's location._
 
--   Deals 30 DMG at level 5 and sends victim into the air.
+-   Deals 29.9 DMG at level 5 and sends victim into the air.
+-   Has 9.17x PVE Scale (29.9 PVP DMG, 274.48 PVE DMG)
 -   Does not inflict Chill.
 -   WIth the **Spike Traps** Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
 -   Can be modified with Cloud and Stratus Stones to make the ice spikes bigger.
@@ -221,7 +224,8 @@ Ice
 
 **Effect:** _Form 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance._
 
--   Deals 3.6 damage per spin, 22.5 sword projectile.
+-   Deals 3.59 damage per spin hit, 22.5 sword projectile.
+-   Has 9.17x PVE Scale (3.59 DMG PVP, 32.94 DMG PVE)
 -   Every projectile applies 1 sec chill, can't be increased.
 -   Hits multiple times in a row.
 -   Incredibly good with the **Glass Path: Crystallization** Talent.
@@ -259,7 +263,8 @@ Ice
 
 **Effect:** _Conjure 2 sabers of ice while performing a rapid flurry of slashes forward._
 
--   Deals 73 (20.93+16.74+18.42+16.74) DMG at 5 lvl
+-   Deals 72.83 (20.93+16.74+16.74+18.42) DMG at 5 lvl
+-   Has 9.18x PVE scale
 -   Hits 4 times.
 -   Inflicts 1 second of Chill per hit
     -   Can't be increased.
@@ -299,7 +304,8 @@ Ice
 
 **Effect:** _Conjure 3-4 chains of ice that lock-on and stun the target for a brief period of time._
 
--   At level 5 it has a base damage of 35.
+-   Deals 35.88 DMG at 5 lvl
+-   Has 9.18x PVE scale (35.88 PVP DMG, 329.38 PVE DMG)
 -   Inflicts Chill. 9 seconds of Chill and 13 seconds with 1 Eternal Logstone.
 -   Can be modified with Aeon and Eternal Logstones to delay the Mantra from firing.
 -   Can be modified with Crystal and Perfect Lenses to increase the range of casting the Mantra.
@@ -337,7 +343,8 @@ Ice
 
 **Effect:** _Form 3 daggers of ice before throwing them towards the nearest target._
 
--   Deals moderate damage.
+-   Deals 10.76 damage per hit at 5 lvl.
+-   Has 9.18x PVE scale (10.76 PVP DMG, 98.81 PVE DMG)
 -   Projectiles are homing.
 -   Does not inflict Chill.
 -   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
@@ -375,7 +382,8 @@ Ice
 
 **Effect:** _Perform a stomp with your right leg, forming 3 ascending waves of ice formations that encase the target in ice._
 
--   Deals 30 DMG at Level 5
+-   Deals 29.9 DMG at Level 5
+-   Has 9.18x PVE scale (29.9 PVP DMG, 274.48 PVE DMG)
 -   Apparently applies Chill although VERY shortly.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can vent out of the ice. Can't block, parry, or dodge out of it.
@@ -414,15 +422,13 @@ Ice
 
 **Effect:** _Form a barrage of ice shurikens before propelling them at the cursor's location._
 
--   Deals light damage.
--   Non modded deals 40 dmg
--   Blast spark version 35 dmg
--   Magnet spark 40 dmg
+-   Non modded deals 29.4 DMG, Blast spark version 29.4 DMG, Magnet spark 29.4+14.7 DMG
+-   Has 9.187x PVE scale (29.4 PVP DMG, 270.12 PVE DMG)
 -   Inflicts Chill. 9 seconds of Chill, 13 seconds with 1 Eternal Logstone.
 -   Casting the Mantra itself while standing on ice will summon more projectiles.
     -   Currently bugged.
--   Can be modified with a Magnet Spark, making it instantly teleport to whoever got hit by the ice projectile and hits with 3 extra ice forge projectiles. However, requires some distance to teleport to the enemy. Does less dmg if you don't proc the ice forge teleport.
--   Can be modified with a Blast Spark, making the shurikens explode on impact.
+-   Can be modified with a Magnet Spark, making it instantly teleport to whoever got hit by the ice projectile and hits with 3 extra ice forge projectiles. However, requires 25 studs distance to teleport to the enemy.
+-   Can be modified with a Blast Spark, making the shurikens explode on impact, leading to way more multi hits + posture dmg, it doesn't increase total DMG tho.
 
  |
 | 
@@ -456,8 +462,9 @@ Ice
 
 **Effect:** _Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead._
 
--   Deals 56 DMG at level 5.
+-   Deals 56.21 DMG at level 5.
 -   Breaks block at level 5.
+-   Has 9.18x PVE scale (56.21 PVP DMG, 516.03 PVE DMG)
 -   Inflicts Chill. 5 seconds of Chill, 9 seconds with 1 Eternal Logstone.
 -   Slightly knocks back target(s)
 -   Can break objects.
@@ -496,8 +503,9 @@ Ice
 **Effect:** _Conjure a deadly rapidly moving saw of ice with the user's left hand._
 
 -   Deals moderate damage.
--   Deals 8.4 DMG per hit, 70 total if landed by the full duration at level 5.
--   Round spark full duration changes its damage to 110 DMG.
+-   Deals 8.37 DMG per hit, total hits 9, 75.33 total if landed by the full duration at level 5.
+-   Round spark full duration changes its damage to 119.6 DMG. (5.98 per hit, total hits 20)
+-   Has 9.18x PVE scale (8.37 DMG PVP, 76.85 DMG PVE)
 -   Does not inflict Chill.
 -   Spawns ice floor (You can add vibrant gems to make the ice spawned bigger)
 -   Can be modified with Cloud and Stratus Stones to increase its size.
@@ -538,7 +546,8 @@ Ice
 
 **Effect:** _Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy._
 
--   Deals 95 (14.8+14.8+13.81+11.84+12.83+10.85+8.88+8.88) DMG
+-   Deals random amount of DMG, highest one is 95 (14.8+14.8+13.81+11.84+12.83+10.85+8.88+8.88) DMG
+-   Has 8.60x PVE scale
 -   Deals high posture damage.
 -   Does not inflict Chill.
 -   Low cooldown.
@@ -576,7 +585,8 @@ Ice
 
 **Effect:** _Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact._
 
--   Deals 56 (43+13) damage.
+-   Deals 55.66 (43.06+12.6) damage.
+-   First hit has 9.18x PVE Scale, next that detonating spear 6.5x (43.06+12.6 PVP DMG, 395.25 + 81.65 PVE DMG)
 -   Inflicts Chill. 2 second Chill on the first hit, the second hit can apply a 4 second Chill with 1 Eternal Logstone.
 -   During the wind-up, pressing \[F\] cancels the impale.
 -   Both the impact and the detonation are parriable.
@@ -615,7 +625,8 @@ Ice + Slash
 
 **Effect:** _Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air._
 
--   Deals 70 (16+19+34) DMG at 5 lvl
+-   Deals 69.49 DMG (16.74+19.26+33.49) at 5 lvl
+-   Has 9.17x PVE scale (33.49 DMG PVP, 307.42 PVE DMG)
 -   Applies Chill. (2 seconds per hit, can't be increased)
 -   Capable of proccing Meteor Impact.
 -   Can be modified with up to 2 Stratus Stones to increase the size of the AoE.
@@ -652,12 +663,13 @@ Ice + Blunt (Grab), Ice (Ice Chains)
 
 **Effect:** _User turns invisible and teleports to their opponent within a short range, on hit choking their opponent while they get hit by the ice chains._
 
--   Deals 36 DMG at level 5.
+-   Deals 25.84 DMG at level 5.
+-   Has 9.178x PVE scale (25.84 PVP DMG, 237.16 PVE DMG)
 -   Applies an extremely long 12 second Chill at base.
 -   This Mantra has a cooldown of 8 seconds. It goes on a 4 second cooldown if no targets are found on the area of the grab.
 -   Does not apply Chill through block with Unyielding Frost.
 -   Gives brief I-Frames on hit.
--   Can be modified with a Blast Spark, creating ice on the ground and stabbing the opponent with pillars. This variant does not apply Chill, and can be modified with Vibrant Gems to increase the size of the ice created.
+-   Can be modified with a Blast Spark, creating ice on the ground and stabbing the opponent with pillars. This variant does not apply Chill, deal less DMG (25.84>19.38) and can be modified with Vibrant Gems to increase the size of the ice created.
 
  |
 | 
@@ -691,7 +703,8 @@ Ice
 
 **Effect:** _Conjure 3 ice cubes above the user that are on standby and throws them to where their cursor is. Costs 45 Ether to summon the ice cubes and 45 Ether to fire them manually for a total of 90 Ether cost. However, if they're fired off automatically, it costs no Ether._
 
--   Deals 19 dmg per cube at level 5.
+-   Deals 19.14 dmg per cube at level 5.
+-   Has 9.178x PVE scale (19.14 PVP DMG, 175.67 PVE DMG)
 -   Projectiles are homing.
 -   Does not inflict Chill.
 -   Has a good amount of range.
@@ -729,7 +742,8 @@ Ice
 
 **Effect:** _Conjure an obelisk of ice in front of the user._
 
--   Deals 73 damage upon detonation at level 5.
+-   Deals 72.45 damage upon detonation at level 5.
+-   Has 6.48x PVE scale (72.45 PVP DMG, 469.48 PVE DMG)
 -   First hit applies Chill. 12 seconds Chill, 16 with 1 Eternal Logstone.
 -   Up to 3 Obelisks can be active on the field at any time.
 -   Recasting this Mantra near an active Obelisk causes it and all others placed to explode.
@@ -808,6 +822,7 @@ Ice
 
 -   Deals 18.8 damage per hit, up to 56.4 dmg at level 5.
 -   Applies Knockdown.
+-   Has 9.18x PVE scale (18.8 PVP DMG, 172.5 PVE DMG)
 -   Can be modified with a Spring Spark, removing the knockdown.
 
  |
@@ -845,7 +860,8 @@ Ice
 
 **Effect:** _Perform a short flipkick that launches the target into the air._
 
--   Deals 34 damage at level 5.
+-   Deals 33.5 DMG with default path and x DMG with glass path at level 5 (TBA)
+-   Has 9.17x PVE scale (33.5 PVP DMG, 307.42 PVE DMG)
 -   Can be modified with a Spring Spark to cause the user of the Mantra to perform a side kick that knocks away target(s) instead of launching them upward.
 
  |
@@ -883,7 +899,8 @@ Ice
 
 **Effect:** _Fires a bullet of ice._
 
--   Deals 24.2 damage per hit at 5 lvl.
+-   Deals 24.16 damage per hit at 5 lvl.
+-   Has 9.18 PVE Scale (24.16 PVP, 221.8 PVE DMG)
 -   Inconsistent hitbox.
 -   Is similar to Galebreathe's "[Wind Gun](Galebreathe.md#wind-gun)" Mantra.
 -   Can be modified with a Cloudstone to increase the shots fired.
@@ -954,7 +971,8 @@ Ice
 
 **Effect:** _Conjure a torrent of solid ice that extends towards the user's cursor._
 
--   Deals 49 DMG at level 5 when it hits an opponent.
+-   Deals 48.8 DMG at level 5 when it hits an opponent.
+-   Has 9.18x PVE scale (48.8 DMG PVP, 447.95 PVE)
 -   Can be used to scale walls and terrain.
 -   Inflicts a 1 second Chill (Can't be increased).
 -   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
@@ -1100,7 +1118,8 @@ Ice
 
 **Effect:** _Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. The user will automatically parry one hit while this is active._
 
--   Deals 6 damage per hit at level 5.
+-   Deals 7 damage per hit at level 5.
+-   Has 6.48x PVE scale (7 DMG PVP, 45.36 PVE DMG)
 -   Heals 2%, increasing with level and Drift/Rush Shards, up to 10%.
 -   Applies 1 second of chill per hit (can't be increased).
 -   Iceberg applies bottom freeze on every hit (regardless of cooldown), but still puts the Frozen Legs status on cooldown.

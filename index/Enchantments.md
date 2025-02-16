@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 136499
+revid: 136666
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -325,7 +325,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Similar to <a href="Ysley's_Pyre_Keeper.md">Ysley's Pyre Keeper</a>'s <font>Flames of Life</font>.<br>
   <b>Explosions cannot execute.</b><br>
   <br>
-  Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a> and <a href="Rogue_Construct.md">Rogue Construct</a> chests. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a>.</p></div></td>
+  Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, and <a href="Calamus.md">Calamus</a> job chests. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a>. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></p></div></td>
   <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
 </tr>
 <tr>

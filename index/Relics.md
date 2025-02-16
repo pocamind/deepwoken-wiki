@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 135572
+revid: 136656
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -301,7 +301,12 @@ Functionally identical to Legendary Weapons, in soulbounding and Enchant bans, t
 | Media | Description | Obtainment |
 | --- | --- | --- |
 | 
- | **[Dormant Splinter](Dormant_Splinter.md)** - "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to other materials, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." | 
+ | **[Dormant Splinter](Dormant_Splinter.md)** - A blade made of [Umbrite](Ores.md), twisted and turned semi-sentient as a result of [Coldheart Fortinbras'](Coldheart_Fortinbras.md) and his attempts to put his deceased wife's soul into a weapon with various twisted attunements within his [Cold Forge](The_Cold_Forge.md).
+
+  
+_"This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to other materials, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match."_
+
+ | 
 
 -   [Voidsea](Voidsea.md) Events
 -   [Dread Serpent](Dread_Serpent.md)
@@ -314,25 +319,40 @@ Functionally identical to Legendary Weapons, in soulbounding and Enchant bans, t
  |
 | 
 
- | **[Fondant Splitter](Fondant_Splitter.md)** - "Is this safe to eat? We'll see..." | 
-
--   Crafting in [The Cold Forge](The_Cold_Forge.md) with a [Dormant Splinter](Dormant_Splinter.md), [Cake](Food.md), and a [Sword](<Sword_(weapon).md>)/[Messer](Messer.md)/[Scimitar](Scimitar.md)/[Katana](Katana.md)
-
- |
-| 
-
 File:Witherblade.png
 
- | **[Umbrite Witherblade](Umbrite_Witherblade.md)** - "Once a derelict frame, now restored by your offerings, pulsing quicker and quicker... Its fibers twist and crack, reaching out to consume the cutlass, its shape warping into a rough mirage of the weapon. Infused with minerals it once knew, channeling the warped umbrite through its slick inky veins. Each strike drains the very soul of your foes, leaving them withered and undone." | 
+ | **[Umbrite Witherblade](Umbrite_Witherblade.md)** - A result of the Dormant Splinter combining with a [Razor Cutlass](Razor_Cutlass.md). The Splinter and it's bloodthirst have seeped into the Cutlass, making it a shade of it's former self with the use of the twisted element known as [Umbrite](Ores.md). It is a powerful weapon that inflicts [Wither](Status_Effects.md) with each attack, rotting away at their ability to recover from damage.
+
+  
+_"Once a derelict frame, now restored by your offerings, pulsing quicker and quicker... Its fibers twist and crack, reaching out to consume the cutlass, its shape warping into a rough mirage of the weapon. Infused with minerals it once knew, channeling the warped umbrite through its slick inky veins. Each strike drains the very soul of your foes, leaving them withered and undone."_
+
+ | 
 
 -   Crafting in [The Cold Forge](The_Cold_Forge.md) with a [Dormant Splinter](Dormant_Splinter.md), 3 [Umbral Obsidian](Umbral_Obsidian.md), and a [Razor Cutlass](Razor_Cutlass.md).
 
  |
 | 
 
+ | **[Fondant Splitter](Fondant_Splitter.md)** - A result of the Dormant Splinter combining with a cake. Have a nice meal...?
+
+  
+_"Is this safe to eat? We'll see..."_
+
+ | 
+
+-   Crafting in [The Cold Forge](The_Cold_Forge.md) with a [Dormant Splinter](Dormant_Splinter.md), [Cake](Food.md), and a [Sword](<Sword_(weapon).md>)/[Messer](Messer.md)/[Scimitar](Scimitar.md)/[Katana](Katana.md)
+
+ |
+| 
+
 File:Vortexechoupclose.png
 
- | **[Vortex Echo](Vortex_Echo.md)** - "A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow a just a bit older." | 
+ | **[Vortex Echo](Vortex_Echo.md)** - A result of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) watch being infused with [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) Gale, becoming something that can distort time in ways the feeble human mind cannot comprehend.
+
+  
+_"A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow a just a bit older."_
+
+ | 
 
 -   Crafting with a [Weathered Timepiece](Weathered_Timepiece.md), [Kyrsan Schematic](Kyrsan_Schematic.md), and [Temporal Crux](Temporal_Crux.md)
 
