@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 136663
+revid: 136698
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -226,10 +226,10 @@ Metal + Bleed
  |
 | 
 
-**Effect:** _Throw out 6 caltrops upon use, which stay on the ground for a while._
+**Effect:** _Throw out 7 caltrops upon use, which stay on the ground for a while._
 
--   Deals 5.47 DMG + 1.65 Bleed per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
--   Has 9.17x PVE Scale (5.47 DMG + 1.65 Bleed PVP, 50.19 DMG + 15.06 Bleed PVE)
+-   Deals 10.94 DMG + 3.3 Bleed per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
+-   Has 9.17x PVE Scale (10.94 DMG + 3.3 Bleed PVP, 100.38 DMG + 30.12 Bleed PVE)
 -   Functions similar to Galebreathe's [Galetrap](Galebreathe.md#galetrap) Mantra.
 -   Goes through block (**and your character!**) if cast closely to the target.
 -   May be blocked or even parried off the ground.

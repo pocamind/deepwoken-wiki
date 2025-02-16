@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 136666
+revid: 136697
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -282,9 +282,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
   Weapon deal additional blood bar damage, scales with weapon damage.<br>
-  <u><b>1% blood loss per 3 SCALED DMG dealt (NOT AFFECTED BY HAEMOPHILIA)</b></u><br>
+  <u><b>Additional 1 Blood DMG per 4.66 SCALED DMG dealt (NOT AFFECTED BY HAEMOPHILIA)</b></u><br>
   <u><b>BLOOD DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
-  When missing an attack (dodge, parry and block are not a miss), lose some blood.</p></div></td>
+  When missing an attack (dodge, parry and block are not a miss), lose 2% of total blood.</p></div></td>
   <td><div>Weapon is completely red, surrounded by a red aura.<br>
   When sheathed, the weapon keeps their base color.</div></td>
 </tr>
