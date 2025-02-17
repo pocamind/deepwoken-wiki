@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 134918
+revid: 136794
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Hive]
@@ -67,7 +67,7 @@ Neutral-Bad Reputation:
 
 [Zithori Vhemm Miziri Diri](Developer_Specs.md): Otherwise known as Hivelord Zithori Vhemm Miziri Diri, is the 7th Hivelord and current leader of The Hive, he is presumed to be in the [Central Luminant](Luminants.md)'s Greathive, he is said to be one the most powerful mortals in Lumen due to his profound mastery of [Lifeweave](Lifeweave.md), he wears the [Hive Leader's Garment](<Hive_Leader's_Garment.md>) and the [Hive Greatlord's Royal Adornment](<Hive_Greatlord's_Royal_Adornment.md>).
 
-[Ximac Diri](Ximac_Diri.md): Otherwise known as Hivelord Ximec Diri of the Second, is the 2nd Hivelord and one of the former leaders of The Hive, he is a Ganymede who lead The Hive for an unknown amount of time. He was presumed to powerful because of his rulership of the faction.
+[Ximac Diri](Ximac_Diri.md): Otherwise known as Hivelord Ximec Diri of the Second, is the 2nd Hivelord and one of the former leaders of The Hive, he is a Ganymede who lead The Hive for an unknown amount of time. He was presumed to powerful because of his rulership of the faction, due to being the second Hivelord he is also the creator of the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 
 [Laplace Diri](Laplace.md): A Ganymede who is a member of the Diri Family, thus being related to Miziri and Ximac Diri, he is capable of changing the enchant of a weapon by wrapping the three enchants together in Linen (Flax Plant fibers turned to Textile) and using an unspecified technique derived from Miziri Diri.
 
@@ -81,3 +81,4 @@ Neutral-Bad Reputation:
 
 -   All Hive members/NPCs are either [Vesperians](Vesperian.md), [Ganymedes](Ganymede.md) or [Chrysids](Chrysid.md)
 -   One of two factions to create and utilize [Monsters](Monsters.md), the other being [The Ignition Union](The_Ignition_Union.md).
+-   They have four Greathives in Lumen, with the Greathive in the Eastern Luminant being the most recently created ones while the biggest Greathive is located in The Central Luminant.

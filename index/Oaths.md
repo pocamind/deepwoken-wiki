@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 136776
+revid: 136785
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -142,47 +142,66 @@ Upon breaking an Oath, unique effects will occur:
 -   [Arcwarder](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
     -   You lose some reputation with [The Ignition Union](The_Ignition_Union.md).
     -   Upon talking to Delta he'll say "You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an _Oath_ for a reason, mate."
-        -   This Oath cannot be reobtained if broken
+    -   Arcwarder **cannot** be reobtained if broken.
+
 -   [Bladeharper](Oath%253A_Bladeharper.md): The Blade Within - "Was this not the future we sought? Perhaps not."
+    -   Bladeharper **can** be reobtained if broken.
+
 -   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
+    -   Blindseer **can** be reobtained if broken.
+
 -   [Contractor](Oath%253A_Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
     -   You instantly become maximum negative reputation (villain) with [Etrea](Etrea.md) and [The Ministry](The_Ministry.md).
-    -   Will get instantly gripped if by chance you stumble into the courtroom of the Lord Regent, meaning it cannot be reobtained.
+    -   Will get instantly gripped if by chance you stumble into the courtroom of the Lord Regent, meaning it **cannot** be reobtained if broken.
     -   You are regranted access to Castle Light.
+
 -   [Chainwarden](Oath%253A_Chainwarden.md): [Vice Warden Morredh](Vice_Warden_Morredh.md) - "Another deserter? You're pathetic."
-    -   You cannot reobtain this oath after breaking it, as the Vice Warden will insult you upon interaction
+    -   Chainwarden **cannot** be reobtained after breaking it, as the Vice Warden will insult you upon interaction
+
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
-    -   You can regain the Oath again after breaking it. However, the price will be 60 [Medallions](Kyrsan_Medallions.md) instead of 30.
+    -   You **can** reobtain Dawnwalker after breaking it. However, the price will be 60 [Medallions](Kyrsan_Medallions.md) instead of 30.
+
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man."
-    -   This Oath does not become locked after being broken.
+    -   Fadetrimmer **can** be reobtained if broken.
+
 -   [Jetstriker](Oath%253A_Jetstriker.md): [Alirian](Alirian.md) - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
     -   Talking to [Alirian](Alirian.md) will prompt the following conversation:
         -   "Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that." / **Please forgive me.**
         -   "Hmm. Okay, sure. You'll still make a good rival. Want to strike up an Oath again?" / **I'll follow your oath, my dear rival.**
-            -   You'll regain [Jetstriker](Oath%253A_Jetstriker.md).
+            -   You'll **regain** [Jetstriker](Oath%253A_Jetstriker.md).
         -   "This is our path then, my friendly nemesis! To be a [Jetstriker](Oath%253A_Jetstriker.md), one who walks with the Song's flow itself.. ah, it's so freeing."
+
 -   [Linkstrider](Oath%253A_Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
-    -   This Oath does not become locked after being broken.
+    -   This Oath **can** be reobtained if broken.
 
 -   [Oathless](Oath%253A_Oathless.md): [Cerulean](Cerulean.md) - "The way opens more to you, my disciple. Safe travels."
     -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? / **I'd like to become Oathless once more.**
-        -   You'll regain [Oathless](Oath%253A_Oathless.md).
+        -   You'll **regain** [Oathless](Oath%253A_Oathless.md).
+
 -   [Saltchemist](Oath%253A_Saltchemist.md): ??? - "_Your body feels still. Inert. The Panacea's effects have worn off_."
-    -   Talking to [Adrofalis](Adrofalis.md) again will give you the prompt to regain [Saltchemist](Oath%253A_Saltchemist.md).
+    -   Saltchemist **can** be reobtained if broken.
+
 -   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
     -   The Attunement Trainers will respawn afterwards.
     -   If you attempt to regain the Oath, [The Dreadstar](The_Dreadstar.md) will not spawn after you survive the Ghosts on the [Beloved Zofia](Beloved_Zofia.md).
+    -   Silentheart **cannot** be reobtained if broken.
+
 -   [Starkindred](Oath%253A_Starkindred.md): [Samael](Samael.md) - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
     -   Talking to [Samael](Samael.md) again will cause him to say "Insolent worm. Leave."
-    -   This oath cannot be reobtained after breaking it.
+    -   Starkindred **cannot** be reobtained if broken.
+
 -   [Saintsworn](Oath%253A_Saintsworn.md) (needs testing, see if different levels of attunement effects dialogue or not.)
+    -   Saintsworn **cannot** be reobtained if broken.
+
 -   [Soulbreaker](Oath%253A_Soulbreaker.md): [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) - \*Something awful holds your mind in its grip.\* "THEN IT IS SO, YOU SHALL FORGET THE PROMISE YOU MADE, A NEW PATH OPENING IN ITS PLACE." \*The sensation departs you. Your mind is quiet once more.\*
+    -   Soulbreaker **can** be reobtained if broken.
+
 -   [Visionshaper](Oath%253A_Visionshaper.md): [The Nestmind](The_Nestmind.md) - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
     -   Talking to [Surge](Surge.md) again will prompt the following conversation:
         -   "Retired from the Hunt, eh? If you can prove yourself a hunter again I'd be happy to welcome you back." / **Bring me back.**
         -   "Hmm... Perhaps you are ready after all... But be mindful that this is only the beginning." / **\[End Dialogue\]**
-            -   You'll be brought to [A Conscious Intersection](A_Conscious_Intersection.md) again and by talking to [The Nestmind](The_Nestmind.md) again, you'll regain [Visionshaper](Oath%253A_Visionshaper.md) (You'll need [void feathers](Dark_Feather.md)).
+            -   You'll be brought to [A Conscious Intersection](A_Conscious_Intersection.md) again and by talking to [The Nestmind](The_Nestmind.md) again, you'll **regain** [Visionshaper](Oath%253A_Visionshaper.md) (You'll need [void feathers](Dark_Feather.md)).
 
 Note: Wiping after breaking your Oath will leave the "Obtained an Oath" echo task incomplete if you didn't make a new Oath prior to wiping.
 

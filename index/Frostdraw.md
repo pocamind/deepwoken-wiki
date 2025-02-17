@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 136660
+revid: 136791
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -30,10 +30,10 @@ Frostdraw can be trained by using a combination of [Hemafrost](Training_Gear.md#
 
 Along with all other elements, users can see their Mantras becoming stronger with training:
 
--   At Frostdraw level 1, players receive the _Frostdrawer_ Talent.
--   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent, allowing the player to now get 1-star Frostdraw Mantras.
--   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent allowing the player to now get 2-star Frostdraw Mantras.
--   Finally, at Frostdraw level 50, players receive the _Master Frostdrawer_ Talent. This finally allows Frostdraw users to unlock the last category, 3-star Mantras.
+-   At 1 Frostdraw, players receive the _Frostdrawer_ Talent, allowing the player to obtain 0-star Frostdraw Mantras.
+-   At 20 Frostdraw, players receive the _Adept Frostdrawer_ Talent, allowing the player to obtain 1-star Frostdraw Mantras.
+-   At 30 Frostdraw, players receive the _Expert Frostdrawer_ Talent allowing the player to obtain 2-star Frostdraw Mantras.
+-   Finally, at 50 Frostdraw, players receive the _Master Frostdrawer_ Talent, allowing them to obtain 3-star Frostdraw Mantras.
 
 The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions.md) obtained at [Etris](Etris.md), inside a hut on the edge of town, using five Frigid Prisms (2 if already obtained), and can upgrade spells for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
 
@@ -41,6 +41,8 @@ The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions
 -   Upgrading a Frostdraw Mantra from level 2 to level 3 costs.
 -   Upgrading a Frostdraw Mantra from level 3 to level 4 costs.
 -   Upgrading a Frostdraw Mantra from level 4 to level 5 costs.
+
+Upgrading your Mantras with the [Songwright](Songwright.md) NPC increases the Note cost by 50%.
 
 ## Mantras
 

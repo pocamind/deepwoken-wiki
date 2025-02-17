@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 136774
+revid: 136792
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
@@ -58,7 +58,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 
 -   The weapon is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_, an arsenal consisting of a large greatsword and an accompanying dagger to use as a pivot. Its fire-infused state is a reference to the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) who, as Lords of Cinder, imbue their form and weapon with fire in the second phase of their fight.
 -   It is the weapon with the most different stat requirements, being Heavy, Flamecharm and Light.
-    -   Ysley's Pyre Keeper also having 5 different criticals effectively renders it the most complex weapon in the game, especially in combination with how uniquely it scales with Light.
+    -   Ysley's Pyre Keeper also having 5 different criticals effectively renders it the most ~complex~ weapon in the game, especially in combination with how uniquely it scales with Light.
 -   This weapon was originally hidden from testers, explaining how OP it was on release.
 -   It was formerly the only Elemental weapon to not require 75 of the element. With a requirement of 65 HVY, 50 FLM, and 15 LHT, its total required investment was the third highest of any weapon; 5 points behind the [Ignition Deepcrusher](Ignition_Deepcrusher.md) at the time, and 30 points behind the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
     -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
