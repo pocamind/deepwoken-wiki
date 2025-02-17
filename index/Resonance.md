@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 136729
+revid: 136733
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -8,13 +8,13 @@ categories: [Resonances, Mechanics]
 
 # Resonance
 
-**Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key. Obtaining a **Resonance** grants the player 5 [Knowledge](Knowledge.md).
+**Resonances,** also known as **Bells**, are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the Resonance itself is obtained, players can call forth their ability at will with the 'C' key. Obtaining a Resonance grants the player 5 [Knowledge](Knowledge.md).
 
-Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful [NPC](Sibex.md) (Sibex) that many would deem important in most progressions. For a quick guide, consider watching [this video](https://www.youtube.com/watch?v=9i1-6TMZRVU).
+Obtaining a Resonance will also allow the opening of Resonance Doors around [The Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful [NPC](Sibex.md) (Sibex) that many would deem important in most progressions. For a quick guide, consider watching [this video](https://www.youtube.com/watch?v=9i1-6TMZRVU).
 
-You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md), [Starswept Valley](The_Starswept_Valley.md), [Bluster Rift](Bluster_Rift.md), and [Voidsea](Voidsea.md), and will be protected by a [Star Knight](Star_Knight.md). Once it is defeated, the meteor can be interacted with to obtain a random **Resonance**.
+You can also obtain a Resonance from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md), [Starswept Valley](The_Starswept_Valley.md), [Bluster Rift](Bluster_Rift.md), and [Voidsea](Voidsea.md), and will be protected by a [Star Knight](Star_Knight.md). Once it is defeated, the meteor can be interacted with to obtain a random Resonance.
 
-**Resonance's** can now also be obtained through the Ancient soul regalia. You get a hand of resonance cards at power 1.
+Resonances can also be obtained through the Ancient Soul [Regalia](Regalia.md).
 
 | 
 **NORMAL RESONANCES**

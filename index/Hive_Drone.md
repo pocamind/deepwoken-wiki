@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 134314
+revid: 136760
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
@@ -38,6 +38,7 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
+-   Worn by [Hive Scouts](Hive_Scout.md).
 -   One of the cheapest Expert armors to make.
 -   Better than the [Ignition Union Uniform](Ignition_Union_Uniform.md) in everything except durability, and cheaper to make despite being an Expert-tier outfit.
 -   **Current** hive drone is an outfit made by **KAHAEL:**

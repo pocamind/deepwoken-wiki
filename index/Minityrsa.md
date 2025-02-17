@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 119361
+revid: 136759
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Islands, The Ministry]
@@ -18,7 +18,7 @@ Ocean water freezes against the stone, as if trying to climb onto the shore.
 
 ## Overview
 
-Minityrsa is a mostly uninhabited island perpetually blanketed in snow. It can be found to the right of the Luminant Gates. Despite being mostly inhabited, there are remains of buildings and structures scattered around.
+Minityrsa is a mostly uninhabited island perpetually blanketed in snow. It can be found to the right of the Luminant Gates. Despite being mostly uninhabited, there are remains of buildings and structures scattered around.
 
 ## Points of Interest
 

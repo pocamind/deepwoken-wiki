@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 136731
+revid: 136756
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -77,12 +77,6 @@ When creating a character, you start with a hand of [Resonance](Resonance.md) dr
 
 **You can pass this on to your next character by wiping below Power 10. This allows you to easily farm for legendary [Resonances](Resonance.md).**
 
-### Noble[\[4\]](#cite-note-archnamedrop1-4)
-
-You start with Ally [Reputation](Reputation.md) with all factions but [The Ministry](The_Ministry.md).
-
-[The Ministry](The_Ministry.md) gives you Friend [Reputation](Reputation.md).
-
 ### Inheritance[\[4\]](#cite-note-archnamedrop1-4)
 
 You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md).
@@ -99,7 +93,7 @@ You are granted an additional [Talent](Talents.md) choice in each Talent hand.
 
 You no longer lose hunger or thirst (with the exception being blood regeneration, gluttony enchant, vomit)
 
-You lose alot less hunger and thirst while regenerating blood (3 Bars of blood for 5% of Hunger and Thirst)
+You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood for 5% of Hunger and Thirst)
 
 ### Insightful[\[5\]](#cite-note-archnamedrop2-5)
 

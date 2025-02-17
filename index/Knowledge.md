@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 136595
+revid: 136741
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -33,13 +33,13 @@ Knowledge is a special in-game currency that can be used to engage in a deals wi
 Achieving milestones and completing certain quests will award the player with Knowledge.
 
 -   Spawning in with the Inheritance [Regalia](Regalia.md), which gives 50 Knowledge on spawn. This Regalia persists on wipe if your Power was low enough on your previous slot.
--   Choosing your first [Resonance,](Resonance.md) awarding 5 knowledge. (Note: You have to **CHOOSE** the [Resonance](Resonance.md), meaning you're only awarded the knowledge after you pick your desired [Resonance](Resonance.md))
+-   Choosing your first [Resonance](Resonance.md), awarding 5 Knowledge. (Note: You have to **CHOOSE** the [Resonance](Resonance.md), meaning you're only awarded the knowledge after you pick your desired [Resonance](Resonance.md))
 -   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level, with the maximum being 5 Knowledge. _The currency is granted to every slot upon **creation of a new character**. It won't be given to already-existing characters._
 -   Gaining [Power](Power.md), awarding 1 Knowledge per Power level, with the maximum being 19 Knowledge.
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete.
 -   Supplying the [Diver Expedition](Random_Encounters.md#supply-the-diver-expedition), awarding 1 Knowledge after turning in the supplies.
 -   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 1 Medallions for 1 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _This can be repeated as long as you have the medallions to afford it. **Klaris may refuse your Medallions as she will not talk to you if you are below Power 15.**_
--   Finishing [Mendacia's](Mendacia.md) quest in Layer 2 Floor 1, awarding 2 Knowledge after talking to her in Layer 2 Floor 2 (Denying quest also give you knowledge though)
+-   Finishing [Mendacia](Mendacia.md)'s quest in Layer 2 Floor 1, awarding 2 Knowledge after talking to her in Layer 2 Floor 2 (Denying quest also give you knowledge though)
 -   Catching [Golden Fish](Fishing.md), awarding 1 Knowledge per catch, maximum being 5 catches.
 -   Defeating any [Boss](Bosses.md) solo, awarding 1 knowledge and can be repeated.
 -   Killing [Primadon](Primadon,_Titan_of_the_East.md) for the first time, awarding 2 Knowledge.
@@ -55,8 +55,9 @@ Achieving milestones and completing certain quests will award the player with Kn
     -   [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Megalodaunt](Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md), [Rock Golem](Rock_Golem.md), [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md).
 -   Using the [Moonseye Tome](Moonseye_Tome.md) relic, which grants 100 Knowledge the first time, then 50 Knowledge for each subsequent uses.
 -   Completing waves in [The Diluvian Mechanism](The_Diluvian_Mechanism.md), which gives around 20 Knowledge in total when completing through wave 50.
+-   Completing [Hell Mode](Hell_Mode.md), which gives 15 Knowledge to each player who rang the bell when finished.
 
-The limit of on-hand Knowledge a player can have is 999. **The currency is bound to a slot and is lost upon wiping.**
+The limit of on-hand Knowledge a player can have is 999. The currency is bound to a slot and is lost upon wiping.
 
 A checklist can be found [here](https://docs.google.com/document/d/1RxSJhKnT9RZ-FWgMiHhZwltjNjVejLS9nFHQgqAnFWY/edit).
 
@@ -64,7 +65,7 @@ A checklist can be found [here](https://docs.google.com/document/d/1RxSJhKnT9RZ-
 
 As stated at the beginning of this page, Knowledge can be used to bargain with powerful objects and beings.
 
--   Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more. Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division—read below), uses 5 Knowledge per deal. (4 knowledge for Ganymedes). Making a deal with the Shrine of Blasphemy will consume 5 knowledge but give 3 back as you level up 3 times when making a deal with the shrine of blasphemy.
+-   Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more. Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division—read below), uses 5 Knowledge per deal. (4 Knowledge for Ganymedes). Making a deal with the Shrine of Blasphemy will consume 5 knowledge but give 3 back as you level up 3 times when making a deal with the shrine of blasphemy.
 
 -   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
 -   Engaging in a deal with **Shrine of Conceit** or **Shrine of Mastery**, uses 1 Knowledge.
