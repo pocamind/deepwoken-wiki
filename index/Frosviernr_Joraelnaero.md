@@ -1,6 +1,6 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 115303
+revid: 136802
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Floor 2, Layer 2, Quests]
@@ -8,7 +8,7 @@ categories: [NPCs, Floor 2, Layer 2, Quests]
 
 # Frosviernr Joraelnaero
 
-| Frosviernr Jorealnaero | |
+| Frosviernr Joraelnaero | |
 |---|---|
 | name | Frosviernr Jorealnaero |
 | location | New Kyrsa |

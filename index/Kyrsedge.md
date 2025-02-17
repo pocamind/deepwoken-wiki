@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 133184
+revid: 136810
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -33,7 +33,7 @@ The Kyrsedge is a [Light Weapon](Weapons.md) under the Dagger category obtained 
 
 ## Trivia
 
--   Part of the Kyrs series (**Kyrsedge**, [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md)).
+-   A part of the Kyrs series (**Kyrsedge**, [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md))
 -   Seems to be paired with Kyrstear.
 -   Meeting the requirement of LHT, the damage is (19.2)
 -   At max LHT, the damage is (21.3)

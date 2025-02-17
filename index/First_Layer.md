@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 136580
+revid: 136806
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -133,6 +133,8 @@ Scyphozia, being a naturally hostile location, is intentionally difficult to sur
 
 Information to keep in mind.
 
+  
+
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in Layer One. You start with 80 max sanity, and every point allows 30 more seconds before losing it. You can last approximately 40 minutes before your character gains maximum insanity. Although impossible to die to natural insanity in the depths, insanity can severely affect your combat abilities and having max insanity will make you **die instantly when downed or below 10% health.** Willpower, Talents, and equipment grant extra sanity.
     -   Consider utilizing Flamecharm to cast Graceful Flame with Undying Flame. The Talent removes any risk of going insane in the First Layer as sitting by a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and [Castle](Castle_Light.md) [Light](Castle_Light.md) do not restore sanity.
     -   [Blindseer](Oath%253A_Blindseer.md) doubles or even triples the time you can stay in the Depths.
@@ -154,6 +156,8 @@ Information to keep in mind.
 -   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?".
     -   (As of now the quest is not done, which was started by Arch\_Mage. Morning doesn't exist in-game at the moment and will stay so until the quest is finished by developers.)
 
+  
+
 ### Joining The Divers
 
 -   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the [City of the Drowned](The_City_of_the_Drowned.md). He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
@@ -161,14 +165,18 @@ Information to keep in mind.
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the [Divers](The_Divers.md) and unlock the origin [Deepbound](Origins.md).
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75). Failing this check leads to the same fate as the [Ignition Union](The_Ignition_Union.md) group. Success causes him to leave, although this has no result other than that.
 
+  
+
+  
+
 ### [Oath: Visionshaper](Oath%253A_Visionshaper.md)
 
-Deep southeast in the Depths, you can find a secret room located near the [Deep Widow](Deep_Widow.md). Here, there is a man named [Surge](Surge.md) who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
-
-Once you have spoken with [Surge](Surge.md), the [Nestmind](The_Nestmind.md) - a being that exists within a deeper layer of The Depths - will open their realm to you. It offers scraps of knowledge on about the [Deep](Deep_Owl.md) [Owls](Deep_Owl.md) and the Depths.
+Deep southeast in the Depths, you can find a secret room located near the [Deep Widow](Deep_Widow.md). Here, there is a man named [Surge](Surge.md) who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.Once you have spoken with [Surge](Surge.md), the [Nestmind](The_Nestmind.md) - a being that exists within a deeper layer of The Depths - will open their realm to you. It offers scraps of knowledge on about the [Deep](Deep_Owl.md) [Owls](Deep_Owl.md) and the Depths.
 
 -   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
 -   This quest is **very** tedious and dangerous, so it is recommended you come with a group or to otherwise be prepared.
+
+  
 
 ## Loot Table
 
@@ -266,7 +274,6 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 -   According to the "Munet Journal, XIV", It canonically takes 2 weeks for a being to escape the depths.
-
 -   **The Boulder Event in the Depths can spawn most monsters including 2 [Threshers](Thresher.md), a [Megalodaunt](Megalodaunt.md), an [Alpha](Alpha_Megalodaunt.md) [Megalodaunt](Alpha_Megalodaunt.md), a [King](King_Thresher.md) [Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [hellmode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)**
 -   If you go into the Depths Trial arena solo, but your Difficulty Score is low enough for your trial to be Nothing, then the Voice of Enmity and Voice of Odium have special dialogue(something about you being feeble/weak i forgot what they say exactly), and the Voice of Authority doesn't talk.
 -   Previously, 4 bells located throughout the city were required to be rung in order to escape the depths.

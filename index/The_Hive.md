@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 136794
+revid: 136797
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Hive]
@@ -13,7 +13,7 @@ notices:
 | The Hive | |
 |---|---|
 | territory | Greathive Aratel, The Lordsgrove |
-| goals | Saving themselves from the drownings via construction of greathives |
+| goals | Saving themselves from the drownings via construction of Greathives |
 
 “ DO NOT STAND IN THE WAY OF TRUE PROGRESS. ”
 
@@ -26,6 +26,8 @@ The Hive is a faction that operates within large trees known as Greathives. An e
 The Hive was founded by the ancestors of the [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md). They are ruled by an overarching Greatlord who delegates the management of each Greathive to their respective Hivelords. Statues of them have been built in honor at the entrance of [The Lordsgrove](The_Lordsgrove.md) to commemorate their efforts in creating and advancing the Hive.
 
 The Hive uses an unobtainable attunement known as Lifeweave, which allows them to transfer life energy for a variety of applications, such as creating organic technology in the form of [Hive Constructs](Hive_Construct.md), and for being used to power devices, such as the teleporting fountains in the East Luminant. In addition to that, Kaab, the shipwright of **Greathive Aratel** states that he is able to "Lifeweave modifications" onto ship vessels. While they are extremely far behind in "conventional" technology, their ability to tap into the biotech niche allows them to compete with other factions.
+
+The Hive are ruled by a Greatlord, who delegates the management of each individual Greathive to a Hivelord.
 
 They frequently get into battles with [The Kingdom of Etrea](Etrea.md), who attempt to steal their Lifeweaving artifacts for unknown reasons.
 
@@ -65,11 +67,11 @@ Neutral-Bad Reputation:
 
 ## Notable Members
 
-[Zithori Vhemm Miziri Diri](Developer_Specs.md): Otherwise known as Hivelord Zithori Vhemm Miziri Diri, is the 7th Hivelord and current leader of The Hive, he is presumed to be in the [Central Luminant](Luminants.md)'s Greathive, he is said to be one the most powerful mortals in Lumen due to his profound mastery of [Lifeweave](Lifeweave.md), he wears the [Hive Leader's Garment](<Hive_Leader's_Garment.md>) and the [Hive Greatlord's Royal Adornment](<Hive_Greatlord's_Royal_Adornment.md>).
+[Zithori Vhemm Miziri Diri](Developer_Specs.md): Greatlord Zithori Vhemm Miziri Diri was the 7th Greatlord and former leader of The Hive. He was replaced by Gift of Life after his death.
 
-[Ximac Diri](Ximac_Diri.md): Otherwise known as Hivelord Ximec Diri of the Second, is the 2nd Hivelord and one of the former leaders of The Hive, he is a Ganymede who lead The Hive for an unknown amount of time. He was presumed to powerful because of his rulership of the faction, due to being the second Hivelord he is also the creator of the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
+[Ximac Diri](Ximac_Diri.md): Hivelord Ximec Diri of the Second was the Hivelord of one of the Hives Greathives. He was replaced following an incident that lead to numerous deaths.
 
-[Laplace Diri](Laplace.md): A Ganymede who is a member of the Diri Family, thus being related to Miziri and Ximac Diri, he is capable of changing the enchant of a weapon by wrapping the three enchants together in Linen (Flax Plant fibers turned to Textile) and using an unspecified technique derived from Miziri Diri.
+[Laplace Diri](Laplace.md): A Ganymede who is a member of the Diri Family, thus being related to Miziri and Ximac Diri, he is capable of changing the enchantment of a weapon by wrapping the three enchants together in Linen (Flax Plant fibers turned to Textile) and using an unspecified technique derived from Miziri Diri.
 
 [Regek](Regek.md): A Vesperian who is the librarian of the Greathive Aratel, through his errand of collecting sap from soulblooms located around the Greathive he will let the player increase the potency of their Attunement-less Mantras, he also explains the about the origins of how the Greathives are created.
 

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 136209
+revid: 136807
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -72,7 +72,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
 -   Obtaining a [Murmur](Murmur.md), awarding 5 Echoes.
--   Defeating the [Dread Serpent](Dread_Serpent.md) _OR_ [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) awarding 5 Echoes each.
+-   Defeating the [Dread Serpent](Dread_Serpent.md) _OR_ [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) [\[1\]](#cite-note-1), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) awarding 5 Echoes each.
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
 -   Defeating [Scion of Ethiron](Scion_of_Ethiron.md), awarding 10 echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
@@ -359,7 +359,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   The [Boulder](Training_Gear.md)
     -   Starvation
 -   Kelsius' mantra hand and Deep Shrines do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
--   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
+-   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[2\]](#cite-note-2) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) does not reward Echoes.
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
 -   Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) will also count for defeating the [Dread Serpent](Dread_Serpent.md), granting you the 5 Echoes you would've gotten if you had defeated the Dread Serpent. For obvious reasons, killing both will not award you with additional Echoes.
@@ -377,4 +377,5 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=S9ASMo7t9Fc](https://www.youtube.com/watch?v=S9ASMo7t9Fc)
+1.  [↑](#cite-ref-1) Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) will also count for defeating the [Dread Serpent](Dread_Serpent.md), granting you the 5 Echoes you would've gotten if you had defeated the Dread Serpent. For obvious reasons, killing both will not award you with additional Echoes.
+2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=S9ASMo7t9Fc](https://www.youtube.com/watch?v=S9ASMo7t9Fc)

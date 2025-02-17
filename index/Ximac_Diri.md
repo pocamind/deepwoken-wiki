@@ -1,6 +1,6 @@
 ---
 title: Ximac Diri
-revid: 132143
+revid: 136800
 source: https://deepwoken.fandom.com/wiki/Ximac_Diri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Hivelords]

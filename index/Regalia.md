@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 136773
+revid: 136796
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,7 +8,7 @@ categories: [Mechanics]
 
 # Regalia
 
-**Regalia** are passive abilities that positively affect progression or aid the player in some way. The only way to obtain them is random chance every time a new character is created.
+**Regalia** are passive abilities that positively affect progression or aid the player in some way. The only way to obtain them is random chance every time a new character is created, or by wiping a character with the Regalia below Power 7-10.
 
 ## Obtainment
 
@@ -21,8 +21,6 @@ categories: [Mechanics]
 ### Mute
 
 Mute (also known as “Animal King”) has the ability to make monsters unable to see you, meaning they won't attack unless you attack them first. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if you don't attack them for over 15 seconds. Most humanoid enemies will not still aggro to the player on sight.
-
-**Wiping your character with the Mute Regalia while below Power 7 is known to pass the Regalia on to the next character. However, there is a chance the same could happen when wiping at Powers 7, 8, and 9, though this requires further testing**. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[3\]](#cite-note-3)
 
 If you are attempting to get Mute, wiping on a high level file has a higher chance of giving you Mute on your next life. Mute is also considered the best and most useful **Regalia**, because it simply makes your life much easier.
 
@@ -59,8 +57,6 @@ If you are attempting to get Mute, wiping on a high level file has a higher chan
 
 Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by 300%.[\[1\]](#cite-note-archinfo-1)
 
-**You can pass this on to your next character by wiping at Power 10 or below.**
-
 ### Inspired
 
 Grants increased [Resonance progress](Resonance.md#bell-progress) gain from all paths instead of only one.  
@@ -73,43 +69,39 @@ Grants unique dialogue with [The Legendary Boot](Legendary_Boot.md). Functionall
 
 "The Legendary Boot waits for the day that one worthy will claim it. Someone worthy with smaller feet."
 
-### Ancient Soul[\[4\]](#cite-note-archnamedrop1-4)
+### Ancient Soul[\[3\]](#cite-note-archnamedrop1-3)
 
 When creating a character, you start with a hand of [Resonance](Resonance.md) draws.
 
-**You can pass this on to your next character by wiping at Power 10 or below. This allows you to easily farm for legendary [Resonances](Resonance.md) and [Echoes](Echoes.md).**
+### Noble[\[3\]](#cite-note-archnamedrop1-3)
 
-### Noble[\[4\]](#cite-note-archnamedrop1-4)
+A flat increase is applied to your reputation with each faction.
 
-You start with Ally [Reputation](Reputation.md) with all factions but [The Ministry](The_Ministry.md), [The Knives of Eylis](The_Knives_of_Eylis.md), and [The Hundred Legions](The_Hundred_Legions.md). You start with Friend reputation with [The Ministry](The_Ministry.md), [The Knives of Eylis](The_Knives_of_Eylis.md), and [The Hundred Legions](The_Hundred_Legions.md).
-
-### Inheritance[\[4\]](#cite-note-archnamedrop1-4)
+### Inheritance[\[3\]](#cite-note-archnamedrop1-3)
 
 You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md).
 
-### Ace of Spades[\[4\]](#cite-note-archnamedrop1-4)
+### Ace of Spades[\[3\]](#cite-note-archnamedrop1-3)
 
 You start with 20 [Aces](Aces.md).
 
-### Joker[\[5\]](#cite-note-archnamedrop2-5)
+### Joker[\[4\]](#cite-note-archnamedrop2-4)
 
 You are granted an additional [Talent](Talents.md) choice in each Talent hand.
 
-### Hungerless[\[5\]](#cite-note-archnamedrop2-5)
+### Hungerless[\[4\]](#cite-note-archnamedrop2-4)
 
 You no longer lose hunger or thirst (with the exception being blood regeneration, gluttony enchant, vomit)
 
 You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood for 5% of Hunger and Thirst)
 
-### Insightful[\[5\]](#cite-note-archnamedrop2-5)
+### Insightful[\[4\]](#cite-note-archnamedrop2-4)
 
 [Knowledge](Knowledge.md) gain is increased.
 
 The amount of Knowledge gained with the Insightful Regalia is 1.5x the amount without the Regalia, rounding to the nearest number. For example, something that would reward 1 Knowledge will instead reward 2, but if it would reward 2 Knowledge it would give 3 instead.
 
-**You can pass this on to your next character by wiping at Power 10 or below.**
-
-### Oscillator[\[5\]](#cite-note-archnamedrop2-5)
+### Oscillator[\[4\]](#cite-note-archnamedrop2-4)
 
 You are granted an additional [Resonance](Resonance.md) choice when rerolling or obtaining one.
 
@@ -122,6 +114,5 @@ You are granted an additional [Resonance](Resonance.md) choice when rerolling or
 
 1.  ↑ [1.0](#cite-ref-archinfo-1-0) [1.1](#cite-ref-archinfo-1-1) [1.2](#cite-ref-archinfo-1-2) [https://www.youtube.com/watch?v=pUgSI5Xg0VQ](https://www.youtube.com/watch?v=pUgSI5Xg0VQ)
 2.  [↑](#cite-ref-2)
-3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=0zHNjRDTsiU](https://www.youtube.com/watch?v=0zHNjRDTsiU)
-4.  ↑ [4.0](#cite-ref-archnamedrop1-4-0) [4.1](#cite-ref-archnamedrop1-4-1) [4.2](#cite-ref-archnamedrop1-4-2) [4.3](#cite-ref-archnamedrop1-4-3)
-5.  ↑ [5.0](#cite-ref-archnamedrop2-5-0) [5.1](#cite-ref-archnamedrop2-5-1) [5.2](#cite-ref-archnamedrop2-5-2) [5.3](#cite-ref-archnamedrop2-5-3)
+3.  ↑ [3.0](#cite-ref-archnamedrop1-3-0) [3.1](#cite-ref-archnamedrop1-3-1) [3.2](#cite-ref-archnamedrop1-3-2) [3.3](#cite-ref-archnamedrop1-3-3)
+4.  ↑ [4.0](#cite-ref-archnamedrop2-4-0) [4.1](#cite-ref-archnamedrop2-4-1) [4.2](#cite-ref-archnamedrop2-4-2) [4.3](#cite-ref-archnamedrop2-4-3)
