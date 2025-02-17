@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 134468
+revid: 136762
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -34,7 +34,7 @@ The **Pale Briar** is a Greataxe that is obtained by beating [Maestro Evengarde 
 
 Its base damage is 23; at 100 HVY, it deals 35.9 damage. All Greataxe Talents work on this, and the critical attack of the weapon, a barrage of light that locks on and tracks the first person hit, is a multi-hit attack. This makes the weapon great for stunning and multi hit attacks, while still not damaging too much.
 
-Uniquely to it, each hits of the critical attack can trigger enchant stacks, instead of being limited to the usual 1 stack per multi hit use, this makes enchants such as Grim, Detonation, Chilling, and Curse of Rhaemen's Ember significantly stronger.
+Uniquely to it, each hits of the critical attack can trigger enchant stacks, instead of being limited to the usual 1 stack per multi hit use, this makes enchants such as Grim, Detonation, Chilling, and Curse of Rhaemen's Ember significantly stronger, however, enchants like Astral only proc once during the critical.
 
 ## Critical
 
@@ -43,6 +43,8 @@ pale briar crit
 The user chants their weapon, summoning an area of damage that grows in size and tracks onto the first enemy, lasting for a few seconds.
 
 The critical has a cooldown of **10 seconds**.
+
+The critical actually scales with Songchant.
 
 ## Trivia
 

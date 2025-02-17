@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 136756
+revid: 136773
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -59,6 +59,8 @@ If you are attempting to get Mute, wiping on a high level file has a higher chan
 
 Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by 300%.[\[1\]](#cite-note-archinfo-1)
 
+**You can pass this on to your next character by wiping at Power 10 or below.**
+
 ### Inspired
 
 Grants increased [Resonance progress](Resonance.md#bell-progress) gain from all paths instead of only one.  
@@ -75,7 +77,11 @@ Grants unique dialogue with [The Legendary Boot](Legendary_Boot.md). Functionall
 
 When creating a character, you start with a hand of [Resonance](Resonance.md) draws.
 
-**You can pass this on to your next character by wiping below Power 10. This allows you to easily farm for legendary [Resonances](Resonance.md).**
+**You can pass this on to your next character by wiping at Power 10 or below. This allows you to easily farm for legendary [Resonances](Resonance.md) and [Echoes](Echoes.md).**
+
+### Noble[\[4\]](#cite-note-archnamedrop1-4)
+
+You start with Ally [Reputation](Reputation.md) with all factions but [The Ministry](The_Ministry.md), [The Knives of Eylis](The_Knives_of_Eylis.md), and [The Hundred Legions](The_Hundred_Legions.md). You start with Friend reputation with [The Ministry](The_Ministry.md), [The Knives of Eylis](The_Knives_of_Eylis.md), and [The Hundred Legions](The_Hundred_Legions.md).
 
 ### Inheritance[\[4\]](#cite-note-archnamedrop1-4)
 
@@ -100,6 +106,8 @@ You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood 
 [Knowledge](Knowledge.md) gain is increased.
 
 The amount of Knowledge gained with the Insightful Regalia is 1.5x the amount without the Regalia, rounding to the nearest number. For example, something that would reward 1 Knowledge will instead reward 2, but if it would reward 2 Knowledge it would give 3 instead.
+
+**You can pass this on to your next character by wiping at Power 10 or below.**
 
 ### Oscillator[\[5\]](#cite-note-archnamedrop2-5)
 

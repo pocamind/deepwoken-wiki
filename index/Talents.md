@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136611
+revid: 136777
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -648,7 +648,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
-    -   Deals 0.11 damage whenever it procs.
+    -   Deals 0.1 damage whenever it procs.
     -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
     -   Will apply combat tag against opponents.
     -   Effect Lasts 15s (7.5s against Disbelief Talent)

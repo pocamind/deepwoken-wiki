@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 135518
+revid: 136775
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea, Isle of Vigil, Temple of the Blade]
@@ -89,6 +89,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   Talking to Apprentice Kj after giving the Gale Stone finishes the quest.
 -   This quest will allow you to obtain [Weaponry Unbound](Attributes_Unbound.md).
 -   Vigil Isaac can be found next to the Mantra Modification table at Vigils after completing the quest.
+-   **Reward(s)**\- EXP, Compassion
 
 ### The Librarian Quest
 

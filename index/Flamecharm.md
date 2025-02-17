@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 136682
+revid: 136769
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -488,14 +488,14 @@ Fire
 
 **Flare Volley** (★★☆)
 
-_Conjure up to 3 fireballs to vollery at your enemies._
+_Conjure up to 3 fireballs to volley at your enemies._
 
  | 
 
 ## Flare Volley (★★☆)
 
   
-_Conjure up to 3 fireballs to vollery at your enemies._
+_Conjure up to 3 fireballs to volley at your enemies._
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 135169
+revid: 136780
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Oathless | |
 |---|---|
 | oath_req | 10 minutes of playtime |
-| effects | +10 Health, +20% Oath Resistance, +3 Wildcard Mantra Slots |
+| effects | +10 Health, +20% Oath Armor, +3 Wildcard Mantra Slots |
 
 “ Those eyes.. you wish to walk alone too. ”
 
@@ -48,7 +48,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Effects
 
-This Oath grants the player three extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath Resistance. Oath Resistance decreases the damage received from all Oath-related attacks,[\[1\]](#cite-note-1) including Mantras and [Silentheart](Oath%253A_Silentheart.md) Talents.
+This Oath grants the player three extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath armor. Oath Armor decreases the damage received from all Oath-related attacks,[\[1\]](#cite-note-1) including Mantras and [Silentheart](Oath%253A_Silentheart.md) abilities.
+
+Oathless' Oath resistance is actually Oath **armor** instead, which means it **is affected by PEN, is completely nullified if you have no armor durability, and is bypassed entirely by Oath abilities that have more than one damage typing**. This is because when an attack has more than one damage typing, you'll resist that damage based off your highest corresponding armor resistance; for example if you had 35% Blunt armor and 30% Thundercall armor, you'll resist 35% of Thunder Kick's damage. And so, because every Master [Outfit](Outfits.md#master) grants more than 20% Physical/Elemental armor, depending on what [Oath](Oaths.md) your opponent has, Oathless' 20% Oath armor may do absolutely nothing.
 
 As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not, which makes sense because Oathless makes you unbound to an Oath. Unless seen in a Bounty Board.
 
@@ -71,7 +73,7 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 -   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, [Viridian](Viridian.md) and [Celadon](Celadon.md), saying "Those eyes.. you wish to" and continue.
     -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"
 -   If you obtained Oathless on a past file, you can simply talk to [Cerulean](Cerulean.md) to obtain it, allowing you to skip the quest.
-    -   This means that you can speedrun obtaining an Oath with [The Ignition Union](The_Ignition_Union.md) [Origin](Origins.md), which is useful as an easy echo farm, or if you need just a bit more echoes to get an upgrade.
+    -   This means that you can speedrun obtaining an Oath with [Ignition Delver Origin](Origins.md#ignition-delver), which is useful as an easy echo farm, or if you need just a bit more echoes to get an upgrade.
 
 ## References
 

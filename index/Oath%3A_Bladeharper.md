@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 136375
+revid: 136778
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -71,11 +71,11 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
 -   **Palm Strike - Combat Mantra**
     -   Slice your opponent with your palm.
     -   You are slowed down when using this mantra.
-    -   Deals 31 Oath & Physical damage.
+    -   Deals 31 Oath & Slash damage.
     -   If True Strength is active, an additional flurry of slashes is created, dealing 16 damage total (4 slashes that deal 4 damage each) and ascending both you and your target into the air. On top of this, you'll deal the damage of the base attack a second time, making True Strength more than double the damage output of this Mantra.
 -   **Soaring Storm - Passive**
     -   Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
-    -   Deals a total of 24 Oath & Physical damage (hits 6 times with each hit dealing 4 damage).
+    -   Deals a total of 24 Oath & Slash damage (hits 6 times with each hit dealing 4 damage).
     -   Proc condition is removed if in True Strength.
         -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#combat-mantras), [modified Skyshatter Kick](Attunement-less.md#strength-mantras), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
 -   **Untouchable - Passive**
@@ -93,12 +93,12 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   While having True Strength active, cancel your air dash to enter a frenzy of slashes.
     -   It is movestackeable with any mantra that can be casted mid-air.
     -   It has a cooldown of 5 seconds.
-    -   Deals a total of 28 Oath & Physical damage (hits 4 times with each hit dealing 7 damage).
+    -   Deals a total of 28 Oath & Slash damage (hits 4 times with each hit dealing 7 damage).
         -   Despite Developers and update logs saying that this attack deals "true damage," it actually does Physical and Oath damage, this means that if you have more Physical damage resistance than Oath damage resistance, you'll resist the full damage based off your Physical damage resistance.
     -   Only accessible when True Strength is active.
 -   **Decimate - Combat Mantra**
     -   Cut through your opponent.
-    -   Deals 18.67 Oath & Physical damage twice (37.34 total damage).
+    -   Deals 18.67 Oath & Slash damage twice (37.34 total damage).
     -   If True Strength is active, this attack will extend to nearby enemies. Once you teleport to a new enemy, hit them with a significantly weakened Decimate and proc a flurry of slashes. The weakened decimate deals 0.1 damage and the slashes deal 12 damage total (3 slashes that deal 4 damage each).
     -   **Autogrips** players if low enough or knocked.
 
