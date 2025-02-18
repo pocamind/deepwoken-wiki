@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 136619
+revid: 136820
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -28,7 +28,7 @@ The concrete, in-game method of determining if an Enemy/Monster is a **Boss** is
 
 ## World Bosses
 
-Exceptionally strong enemies that may require multiple people to take down. World Bosses usually have a set spawn, and reward players with 1 or 2 Knowledge, Resonance progression, and a load of Experience on defeat.
+Exceptionally strong enemies that are only summoned during World Events. World Bosses usually have a set spawn, and reward players with 1 or 2 Knowledge, Resonance progression, and a load of Experience on defeat.
 
 ## Mini-Bosses
 

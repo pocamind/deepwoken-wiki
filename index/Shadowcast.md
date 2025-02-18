@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 136672
+revid: 136838
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -24,10 +24,10 @@ Shadowcast can be trained with a combination of the Pure Heart and Shadowcast Ma
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At Shadowcast level 1, players will receive the _Shadowcaster_ Talent. This allows players to use 0-star Shadowcast Mantras
--   At Shadowcast level 20, players will receive the _Adept Shadowcaster_ Talent. This allows players to use 1-star Shadowcast Mantras
--   At Shadowcast level 30, players will receive the _Expert Shadowcaster_ Talent. This allows players to unlock 2-star Shadowcast Mantras
--   Finally, at Shadowcast level 50, players will receive the _Master Shadowcaster_ Talent. This finally allows Shadowcast users to unlock the last category, 3-star Mantras
+-   At 1 Shadowcast, players will receive the _Shadowcaster_ Talent. This allows players to obtain 0-star Shadowcast Mantras
+-   At 20 Shadowcast, players will receive the _Adept Shadowcaster_ Talent. This allows players to obtain 1-star Shadowcast Mantras
+-   At 30 Shadowcast, players will receive the _Expert Shadowcaster_ Talent. This allows players to obtain 2-star Shadowcast Mantras
+-   Finally, at 50 Shadowcast, players will receive the _Master Shadowcaster_ Talent. This allows players to obtain 3-star Shadowcast Mantras
 
 The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [The City of the Drowned](The_City_of_the_Drowned.md), using 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. You don't have to venture back into the depths to upgrade it, however, [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She can upgrade your Mantras but not give you Shadowcast. Shadowcast is unlocked permanently like other elements and can be started with after being unlocked. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
 
@@ -35,6 +35,8 @@ The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
 -   To upgrade a Shadowcast Mantra from level 3 to level 4 costs.
 -   To upgrade a Shadowcast Mantra from level 4 to level 5 costs.
+
+Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
 
 ## Mantras
 
@@ -1236,16 +1238,14 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   **Shadow Vortex** is a reference to Planetary Devastation from _Naruto Shippuden_.
 -   The Spring Spark modified version of **Shade Bringer** is a reference to a similar attack used by Knight Artorias from _Dark Souls_ and the Lions Claw Ash of War from _Elden Ring_
 -   **Shade Wisp** is arguably one of the most controversial Mantras ever added to the game, as its purpose is to hide animations. The reason this was added was, according to its creator yayafino, because he hated "parry bots," though he would later clarify this was him trolling. This came shortly after the appearances of the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) were reworked by co-owner Ragoozer himself due to them hiding animations, which some came to view as a direct betrayal of the ethos of the game's very owners. Not helping this was that, according to tester MrTheBest2, almost every tester was staunchly against **Shade Wisp**'s inclusion; it didn't even get past testing, but it was added to the game.
--   Shadowcast has a Talent which blinds the victim on consecutive shadow stacks, however this blind ironically turns the victim's screen white.
-    -   Additionally, several Shadowcast moves charge up with a white light.
-        
 -   Shadowcast has many moves that seem to be direct references to abilities in _Rogue Lineage_ and _Tales from the Valley_, and the element seems to have much more general utility than the others.
+    
     -   An interesting example of this would be using a Blast Spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from _Bleach_).
--   Similarly to every other Wisp Mantra, **Shade Wisp** gives the player a finger on the hand that casts the Mantra
+-   Similarly to every other ritual cast Mantra, **Shade Wisp** gives the player a finger on the hand that casts the Mantra.
 -   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart Oath](Oath%253A_Silentheart.md), but only to upgrade Shadowcast Mantras without going to Scyphozia.
 -   Shadowcast appears to be the attunement associated with the [Ministry](The_Ministry.md), although NPCs not associated can be seen using it.
 -   Shadowcast is likely a reference to Re: Zero's [Shadow Magic, or otherwise Yin Magic](https://rezero.fandom.com/wiki/Magic#). This is seen as Shadow Magic is said to have very similar properties, instilling fear, stopping movement, etc.
--   Shadowcast and [Bloodrend](Bloodrend.md) are the only actual attunements (meaning attunementless is not included) to not have their own respective paths.
+-   Shadowcast and [Bloodrend](Bloodrend.md) are the only attunements to not have their own respective paths.
 
 ## References
 

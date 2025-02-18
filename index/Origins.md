@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 133683
+revid: 136819
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -78,7 +78,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you (the banker, the antiquarian, a working fire place, etc.).
 -   **\[CON\]** **You cannot do Trial of One.** Although spawning at the [Diluvian Mechanism](The_Diluvian_Mechanism.md) might serve as a good alternative, it is much more difficult.
--   **\[PRO\]** You regain sanity from killing monsters in the Depths.
+-   ~**\[PRO\]** You regain sanity from killing monsters in the Depths.~Not true, the lose your mind talent gives sanity from killing monsters in the depths, not the origin. It has been tested in the diluvian mechanism and does not work. You will still go insane even while killing monsters.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
 -   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
 -   \[**PRO\]** You can always enter Castle Light regardless of the status of your soul. (If you die in the overworld while on second life you can still enter)

@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 136603
+revid: 136832
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -576,7 +576,7 @@ _verb_
 
 1.  To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
     1.  Ex. "I shrined down agility"
-2.  (rarely) To reduce a stat with the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
+2.  (rarely) To reduce a stat using the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
 
 ### Sustain
 

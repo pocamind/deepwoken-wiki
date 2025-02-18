@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 136730
+revid: 136841
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -42,19 +42,20 @@ Bloodrend can be trained with a combination of the Tourniquet and Bloodrend Mant
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At Power 1, players will receive the _Bloodrender_ Talent upon picking the Bloodrend Attunement on spawn.
--   At Bloodrend level 20, players will receive the _Adept Bloodrender_ Talent. This allows players to use 1-star Bloodrend mantras.
--   At Bloodrend level 30, players will receive the _Expert Bloodrender_ Talent. This allows players to unlock 2-star Bloodrend mantras.
--   Finally, at Bloodrend level 50, players will receive the _Master Bloodrender_ Talent. This finally allows Bloodrend users to unlock the last category, 3-star Mantras. They also uniquely benefit from having 25% more blood capacity and increased blood regeneration.
+-   At 1 Bloodrend, players will receive the _Bloodrender_ Talent. This allows players to obtain 0-star Bloodrend Mantras.
+-   At 20 Bloodrend, players will receive the _Adept Bloodrender_ Talent. This allows players to obtain 1-star Bloodrend Mantras.
+-   At 30 Bloodrend, players will receive the _Expert Bloodrender_ Talent. This allows players to obtain 2-star Bloodrend Mantras.
+-   Finally, at 50 Bloodrend, players will receive the _Master Bloodrender_ Talent. This allows Bloodrend users to obtain 3-star Bloodrend Mantras. They also uniquely benefit from having 25% more blood capacity and increased blood regeneration.
 
-The [Attunement](Attunements.md) can be unlocked by entering Layer 2 in [Firfire](Firfire.md) near [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+You can speak to [Vyrelda](Vyrelda,_Master_of_Blood.md) at [Derelict Highchurch](Derelict_Highchurch.md) to upgrade your Bloodrend Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
 -   To upgrade a Bloodrend Mantra from level 1 to level 2 costs.
 -   To upgrade a Bloodrend Mantra from level 2 to level 3 costs.
 -   To upgrade a Bloodrend Mantra from level 3 to level 4 costs.
 -   To upgrade a Bloodrend Mantra from level 4 to level 5 costs.
 
-Bloodrend Uncapped can be obtained by defeating any humanoid boss (Duke, Chaser, Ferryman, etc), while having 75 points invested into it.
+Mantra levels will cost 50% more Notes if you use the [Songwright](Songwright.md) NPC to upgrade them.  
+Bloodrend Unbound can be obtained by defeating any humanoid boss (Duke, Chaser, Ferryman, etc), while having 75 points invested into it.
 
 ## Mantras
 

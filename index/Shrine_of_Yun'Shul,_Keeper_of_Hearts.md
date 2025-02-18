@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 135221
+revid: 136816
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1, Oath Trainer]
@@ -14,11 +14,11 @@ categories: [Drowned Gods, NPCs, Layer 1, Oath Trainer]
 
   
 
-_This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see Yun’Shul._ Template:NPC name**The Shrine of Yun'Shul, Keeper of Hearts** is a shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md), dedicated to the Drowned God Yun’Shul.
+_This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see Yun’Shul._ Template:NPC name**The Shrine of Yun'Shul, Keeper of Hearts** is a shrine found in the Monkey's Paw, found behind a resonance door next to Primadon's spawn.
 
 ## Description
 
-The Shrine of Yun’Shul is a unique interactable shrine found in [Scyphozia](First_Layer.md). It can grant players that wield a [Resonance](Resonance.md) wishes.
+The Shrine of Yun’Shul is a unique interactable shrine found in Monkeys Paw. It can grant players that wield a [Resonance](Resonance.md) wishes.
 
 The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him.
 

@@ -1,6 +1,6 @@
 ---
 title: Animal King
-revid: 74441
+revid: 136821
 source: https://deepwoken.fandom.com/wiki/Animal_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Regalia](Regalia.md)
+-   [Regalia#Mute](Regalia.md#mute)

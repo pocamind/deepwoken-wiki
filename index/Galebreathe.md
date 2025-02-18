@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 136317
+revid: 136835
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -120,14 +120,14 @@ Wind
 
 **Tornado Kick** (☆☆☆)
 
-_Slicing blades of wind._
+_Kick a gust of wind forward, if it hits and enemy leap into the air and launch 3 more._
 
  | 
 
 ## Tornado Kick (☆☆☆)
 
   
-_Slicing blades of wind._
+_Kick a gust of wind forward, if it hits and enemy leap into the air and launch 3 more._
 
  |
 | 
@@ -490,14 +490,14 @@ Wind + Slash
 
 **Champion's Whirlthrow** (★★☆)
 
-_Grab your target and toss them with the power of gale._
+_Grab your opponent and toss them with the power of gale. Pressing F will toss your opponent straight down._
 
  | 
 
 ## Champion's Whirlthrow (★★☆)
 
   
-_Grab your target and toss them with the power of gale._
+_Grab your opponent and toss them with the power of gale. Pressing F will toss your opponent straight down._
 
  |
 | 

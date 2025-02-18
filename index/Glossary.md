@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 136397
+revid: 136834
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -38,6 +38,13 @@ The Glossary is a feature that explains terminology and events in game that reve
 
 -   The ability to conjure flames and heat through the Song.
 -   As an attunement, Flamecharm is thought to have been discovered and pioneered by Amorus Pleeksty, who is said to have descended into the Third Layer and consumed a flower of Korilfiend. Productions of flame through the Song are recorded to histories prior to Pleeksty's discovery of the attunement, and indeed these were the foundation of the so-called Songwork that spurred the Canticlysm's industry.
+
+#### Mantras
+
+-   A small passage of the Song that can be 'spoken' in order to invoke its effects into being.
+-   Though a Mantra is described as a 'passage' that one 'speaks', the words cannot be pronounced, at least by a human, and are not strictly even sounds. Those that speak aloud the name of a Mantra are not speaking the words of a Mantra, they do so in order to bring forth the Mantra's 'words' in their mind.
+-   Speech isn't necessary to cast Mantras. The precise means of invoking a Mantra varies from person-to-person, but is broadly described as "speaking' from within, akin to holding an inner monologue, or to bringing a memory to the forefront of your thoughts.
+-   Often, the more one understands and is able to conjure fourth the words of a Mantra, the more effective they are at using it.
 
 #### Oaths
 
@@ -205,13 +212,6 @@ The Glossary is a feature that explains terminology and events in game that reve
 -   Lightkeepers are afforded little freedom, when spending their lives wasting away in their Lighthouses guarded by a legion of soldiers
 -   A nation's economy rests on its Lightkeepers, with passage between the Luminants being strictly controlled and tariffed by the few that have Lightkeepers in their retinue.
 -   The Radiant Tones utilized by adherents of the Dawnwalker Oath are based on research into Lightkeeping, though are incapable of illuminating the Void.
-
-### Mantras
-
--   A small passage of the Song that can be 'spoken' in order to invoke its effects into being.
--   Though a Mantra is described as a 'passage' that one 'speaks', the words cannot be pronounced, at least by a human, and are not strictly even sounds. Those that speak aloud the name of a Mantra are not speaking the words of a Mantra, they do so in order to bring forth the Mantra's 'words' in their mind.
--   Speech isn't necessary to cast Mantras. The precise means of invoking a Mantra varies from person-to-person, but is broadly described as "speaking' from within, akin to holding an inner monologue, or to bringing a memory to the forefront of your thoughts.
--   Often, the more one understands and is able to conjure fourth the words of a Mantra, the more effective they are at using it.
 
 ## Trivia
 

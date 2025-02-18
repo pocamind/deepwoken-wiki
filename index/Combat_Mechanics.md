@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 132967
+revid: 136828
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -119,10 +119,8 @@ These are stats that are you required to maintain in order to survive in the wor
     <li>The player's Water and Stomach bar will rapidly decrease.</li>
     <li>Getting hit while bleeding out drains a large amount of Water and Stomach</li>
     <li>Blood loss is based off of damage.</li>
-  </ul><p><i>Maximum blood increases with power, gaining ~10% more blood each power. Thus, the maximum amount of blood is doubled at power 10 and tripled at power 20, compared to the starting amount.</i></p>
-  <p><br>
-  </p>
-  <p><i>When healing at a campfire, your Water and Stomach will work together to replenish your Blood.</i></p></td>
+  </ul><p><i>Maximum blood is equal to half of your max HP.</i></p>
+  <p><i>Different damage sources deals an amount of blood damage, scaled with the attack damage.</i></p><div><p><i>When healing at a campfire, your Water and Stomach will work together to replenish your Blood.</i></p></div></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

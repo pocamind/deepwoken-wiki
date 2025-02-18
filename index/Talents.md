@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136777
+revid: 136829
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -495,9 +495,12 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Obtained at 50 Bloodrend.
 
 -   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
-    -   Gives you a tool that passively drains your blood and health for these buffs. Rush Hour can be deactivated at any time by using the tool again.
-    -   While buffed, you regenerate blood when you land M1s.
-    -   The damage buff its 15% (according to a tester).
+    -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
+    -   Drains 4.5 HP per second and 2% Blood per second.
+    -   Increase **ALL** outgoing damage by 15% (this include damage sources that dont normally benefit from damage buffs). Can go over the damage cap, resulting in 2.01x maximum.
+    -   Increase blood damage by +35% (additive).
+    -   Increase speed by 30%.
+    -   Recover 5% Blood when dealing damage (0.35s cooldown).
     -   Prerequisite: 50 Bloodrend
 
 -   Sanguine Siphon \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
@@ -603,6 +606,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   20 second cooldown.
     -   Prerequisite: 25 Agility
     -   Mutual Exclusives: Observation, Safety Dance
+    -   can't get from mystic :(
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (2 seconds).
