@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 132624
+revid: 136858
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows]
@@ -12,7 +12,7 @@ _This page is about the Vow of Mastery Talent. If you were looking for the mecha
 
 “ Come on, boys. Won't you shake a poor sinners hand? ”
 
-― Celtor trying to solo his Linkstrider Oath
+― some random Celtor trying to solo his Linkstrider Oath
 
 ## Description
 

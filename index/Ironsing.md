@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 136698
+revid: 136843
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -20,9 +20,7 @@ Ironsing Icon
 
 ## Obtainment & Training
 
-Ironsing can be trained with a combination of Ferrofluid and Ironsing mantras.
-
-The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. **If you have obtained Ironsing before, obtaining a [Pluripotent Alloy](Pluripotent_Alloy.md) and talking to the blacksmith is not required.** Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md).
+The [Attunement Trainer](Attunement_Trainers.md), [Adar](Adar,_Master_of_Metal.md), can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. **If you have obtained Ironsing before, obtaining a [Pluripotent Alloy](Pluripotent_Alloy.md) and talking to the blacksmith is not required.** Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md).
 
 **The ores you need are:**
 
@@ -35,16 +33,30 @@ The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on 
 
 After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
 
-Along with all other elements, users can see their Mantras becoming stronger with practice:
-
--   At Ironsing level 1, players will receive the _Ironsinger_ Talent. This allows players to use 0-star Ironsing mantras.
--   At Ironsing level 20, players will receive the _Adept Ironsinger_ Talent. This allows players to use 1-star Ironsing mantras.
--   At Ironsing level 30, players will receive the _Expert Ironsinger_ Talent. This allows players to unlock 2-star Ironsing mantras.
--   Finally, at Ironsing level 50, players will receive the _Master Ironsinger_ Talent. This finally allows Ironsing users to unlock the last category, 3-star Mantras.
-
 **DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion.
 
 The easiest way to obtain all of the required ores without visiting [The Depths](The_Depths.md) is to visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md), which can drop all the ores necessary or alternatively you can obtain them from the [Saramaed Hollow](Saramaed_Hollow.md) (needs testing)
+
+### Training
+
+Ironsing can be trained with a combination of the Ferrofluid and Ironsing Mantras.
+
+Along with all other elements, users can see their Mantras becoming stronger with practice:
+
+-   At 1 Ironsing, players will receive the _Ironsinger_ Talent. This allows players to obtain 0-star Ironsing Mantras.
+-   At 20 Ironsing, players will receive the _Adept Ironsinger_ Talent. This allows players to obtain 1-star Ironsing Mantras.
+-   At 30 Ironsing, players will receive the _Expert Ironsinger_ Talent. This allows players to obtain 2-star Ironsing Mantras.
+-   Finally, at 50 Ironsing, players will receive the _Master Ironsinger_ Talent. This allows Ironsing users to obtain 3-star Ironsing Mantras.
+
+You can speak to [Adar](Adar,_Master_of_Metal.md) at [Miner's Landing](<Miner's_Landing.md>) to upgrade your Ironsing Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+
+-   To upgrade a Ironsing Mantra from level 1 to level 2 costs.
+-   To upgrade a Ironsing Mantra from level 2 to level 3 costs.
+-   To upgrade a Ironsing Mantra from level 3 to level 4 costs.
+-   To upgrade a Ironsing Mantra from level 4 to level 5 costs.
+
+Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.  
+Ironsing Unbound can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ## Mantras
 

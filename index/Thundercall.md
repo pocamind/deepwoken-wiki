@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 135957
+revid: 136845
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -22,23 +22,32 @@ _A Thundercall infused sword_
 
 Thundercall makes use of a highly unpredictable nature due to its speed and high slow/stun potential.
 
-## Training
+## Obtainment & Training
 
-Thundercall can be trained by using a combination of the [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) and Thundercall [Mantras](Mantras.md).
+### Obtainment
 
-Along with all other elements, users can see their Mantras becoming stronger with training:
+The [Attunement Trainer](Attunement_Trainers.md), [Funke](Funke,_Master_of_Thunder.md), can be located in one of the rooms on the upper level of the [Summer Isle castle](Summer_Isle.md#the-castle). When speaking to him, he will request five (5) [Spark Glands](Spark_Gland.md). If you have obtained Thundercall previously on your account, he will request two (2) Spark Glands instead. Once you give him the Spark Glands, he will hand you the [Sparkgland Potion](Attunement_Potions.md); drink this to obtain Thundercall.
 
--   At Thundercall level 1, players receive the _Thundercaller_ Talent.
--   At Thundercall level 20, players receive the _Adept Thundercaller_ Talent, allowing the player to now get 1-star Thundercall mantras.
--   At Thundercall level 30, players receive the _Expert Thundercaller_ Talent allowing the player to now get 2-star Thundercall mantras
--   Finally, at Thundercall level 50, players receive the _Master Thundercaller_ Talent. This finally allows Thundercall users to unlock the last category, 3-star Mantras.
+### Training
 
-The Attunement can be unlocked by using a [Sparkblood Potion](Attunement_Potions.md) obtained at [Summer Isle](Summer_Isle.md) from [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) on the second floor of the [Summer Isle castle](Summer_Isle.md#the-castle) by using two [Spark Glands](Spark_Gland.md), and can upgrade spells for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
+Thundercall can be trained with a combination of the [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) and using Thundercall Mantras.
+
+Along with all other elements, users can see their Mantras becoming stronger with practice:
+
+-   At 1 Thundercall, players will receive the _Thundercaller_ Talent. This allows players to obtain 0-star Thundercall Mantras.
+-   At 20 Thundercall, players will receive the _Adept Thundercaller_ Talent. This allows players to obtain 1-star Thundercall Mantras.
+-   At 30 Thundercall, players will receive the _Expert Thundercaller_ Talent. This allows players to obtain 2-star Thundercall Mantras.
+-   Finally, at 50 Thundercall, players will receive the _Master Thundercaller_ Talent. This allows Thundercall users to obtain 3-star Thundercall Mantras.
+
+You can speak to [Funke](Funke,_Master_of_Thunder.md) to upgrade your Thundercall Mantras for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
 
 -   To upgrade a Thundercall Mantra from level 1 to level 2 costs.
 -   To upgrade a Thundercall Mantra from level 2 to level 3 costs.
 -   To upgrade a Thundercall Mantra from level 3 to level 4 costs.
 -   To upgrade a Thundercall Mantra from level 4 to level 5 costs.
+
+Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.  
+Thundercall Unbound can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ## Mantras
 

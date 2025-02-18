@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 135520
+revid: 136862
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,7 +8,7 @@ categories: [Mechanics]
 
 # Traits
 
-## What is a Trait?
+## Description
 
 Traits are attributes given to you to further increase your strength beside basic attributes, gears and Talents.
 

@@ -1,6 +1,6 @@
 ---
 title: "F'leche"
-revid: 130881
+revid: 136855
 source: https://deepwoken.fandom.com/wiki/F'leche
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -92,3 +92,4 @@ F'leche is a [Tiran](Tiran.md) woman found in [New Kyrsa, The Sleeping City](Sec
 
 -   Unlike some NPCs in New Kyrsa, she is safe to talk to and cannot harm you.
 -   F'leche's racial variant is a Cardinal.
+-   The name "F'leche" is a reference to the word "Flèche". Which means "Arrow" in French.

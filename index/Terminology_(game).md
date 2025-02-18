@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 136832
+revid: 136854
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -441,7 +441,7 @@ _verb_
 
 ### Hook
 
-_Verb_
+_verb_
 
 1.  To activate the Lighthook in The Eternal Gale and ascend back to Scyphozia.
     1.  Ex. "I got 2 minutes left. I’m hooking outta here!"

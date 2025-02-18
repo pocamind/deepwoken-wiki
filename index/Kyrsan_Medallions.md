@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 136197
+revid: 136860
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2, Currency]
@@ -27,7 +27,7 @@ Currently, New Kyrsa is the only location where Medallions can be found. There a
     -   These chests spawn only at static locations around the location and their location and content resets after player spawning in [Kyrsan Shrine of Arrival](Kyrsan_Shrine_of_Arrival.md) or defeating the [Scion of Ethiron](Scion_of_Ethiron.md).
 -   They can be obtained via summon event inside the trap buildings. Activating the event via a button will result in 2 waves of [Kyrsgarde](Kyrsgarde.md) spawning. After defeating the enemies, multiple Kyrsan Medallions will spawn at the central point of the building.
 
-**Using the light hook or dying while in Second Layer, will result in collected Medallions being lost.** The only way to keep the currency is escaping via Klaris light hook after defeating the Scion of Ethiron. Once obtained, these medallions cannot be dropped or lost upon death.
+**Using the light hook or dying while in Second Layer will result in all of your collected Medallions being lost.** The only way to keep the currency is escaping via Klaris light hook after defeating the Scion of Ethiron. Once obtained, these medallions cannot be dropped or lost upon death.
 
 The limit of on-hand Medallions a player can have is 250. **The currency is bound to a slot and is lost upon wiping.**
 
@@ -53,3 +53,5 @@ Medallions can also be spent at [Misérables](Misérables.md) for a unique deal:
 -   The medallions used to be kept as a physical item after leaving the [Second Layer](Second_Layer.md). This was changed in order to fight exploiters abusing the system.
 -   You can't exchange medallions with Klaris when below Power 15
 -   They **do** have a limit to how many you can hold, which is 250 in total.
+    
+    Medallions outside of Layer 2

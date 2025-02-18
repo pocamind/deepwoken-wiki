@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 136796
+revid: 136846
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -79,7 +79,7 @@ A flat increase is applied to your reputation with each faction.
 
 ### Inheritance[\[3\]](#cite-note-archnamedrop1-3)
 
-You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md).
+You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md), as well as every item from the [Advanced Tools](Echoes.md) echo upgrade.
 
 ### Ace of Spades[\[3\]](#cite-note-archnamedrop1-3)
 

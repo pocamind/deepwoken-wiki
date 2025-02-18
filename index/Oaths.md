@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 136785
+revid: 136857
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -20,7 +20,7 @@ _**"Oaths"** are viewpoints and beliefs that a character vows to live by until t
 
 Every character begins as a simple Pathfinder, meaning they are without an Oath, but not devoted to being Oathless. Being a Pathfinder offers no real advantages, but it _may_ protect you from others who need Oath Kills for their progression, such as Linkstriders or Contractors, however, don't rely on it.
 
-All **Oath Damage** is a separate damage type that is only affected by Oathless or general defense modifiers, such as Reinforce or Ardour Scream.
+**Oath Damage** is an entirely separate type of damage that is only affected by Oathless or general defense modifiers, such as Reinforce or Ardour Scream.
 
 ### Obtainable Oaths
 
