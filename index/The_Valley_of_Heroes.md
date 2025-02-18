@@ -1,6 +1,6 @@
 ---
 title: The Valley of Heroes
-revid: 127478
+revid: 136867
 source: https://deepwoken.fandom.com/wiki/The_Valley_of_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -20,7 +20,7 @@ Valley of Heroes resembles an icy valley littered with frozen asteroids and stat
 
 When the player reaches the center of the valley, one of two events will happen depending on whether it is winter or not:
 
--   If it isn't winter, then [Aelita](Aelita.md) will spawn and play a game with the player.
+-   If it isn't [winter](Seasons.md), then [Aelita](Aelita.md) will spawn and play a game with the player.
 -   If it is winter, white meteorites will start falling from the sky and when they land, 6 [Blizzard Knights](Stone_Knight.md#blizzard-knight) will spawn. Defeating them will give you a chest with several [Hero blades](Hero_Blades.md).
 
 ## Trivia/Notes

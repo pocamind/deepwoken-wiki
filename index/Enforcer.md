@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 136572
+revid: 136869
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -131,11 +131,11 @@ _**If you're a freshie reading this page and about to do the enforcer trial for 
 
 ### Rewards
 
--   **[enforcer's Axe:](<Enforcer's_Axe.md>)** An endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game. Requires 75 HVY to use.
--   **[enforcer's Blade](<Enforcer's_Blade.md>):** A greatsword that serves as a middle point between the Axe and Hammer, having a decent amount of posture damage and chip damage but lacking in the ability to instantly guardbreak. Fairly rare drop.
--   **[enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the enforcer's Blade, the Hammer is also a rare drop. Boasts superior posture damage and requires 80 HVY and 25 STR to use.
+-   **[Enforcer's Axe:](<Enforcer's_Axe.md>)** An endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game. Requires 75 HVY to use.
+-   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A greatsword that serves as a middle point between the Axe and Hammer, having a decent amount of posture damage and chip damage but lacking in the ability to instantly guardbreak. Fairly rare drop.
+-   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the enforcer's Blade, the Hammer is also a rare drop. Boasts superior posture damage and requires 80 HVY and 25 STR to use.
 -   **[Progress](Resonance.md):** The enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
--   **[enforcer Eye](Enforcer_Eye.md):** A rare drop used to obtain the enforcer Pull [Monster Mantra](Monster_Mantras.md).
+-   **[Enforcer Eye](Enforcer_Eye.md):** A rare drop used to obtain the enforcer Pull [Monster Mantra](Monster_Mantras.md).
 
 ## Trivia
 

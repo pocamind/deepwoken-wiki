@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 132325
+revid: 136874
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics]
@@ -39,6 +39,7 @@ The "Strange Egg" is a rare version of the regular artifact that can only be giv
     -   [Weapons](Weapons.md)
     -   [Armor](Equipment.md)
     -   This equipment is eligible to be [enchanted](Enchantments.md).
+    -   Curse of Rhaemen's Ember
 -   [Smith's Alloys](<Smith's_Alloy.md>) and [Armorer's Needles](<Armorer's_Needle.md>) (rarely)
 
 ## Locations

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 136843
+revid: 136866
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -35,7 +35,7 @@ After you give him these ores, he will give you an Alloyed Elixir. Drink the Eli
 
 **DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion.
 
-The easiest way to obtain all of the required ores without visiting [The Depths](The_Depths.md) is to visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md), which can drop all the ores necessary or alternatively you can obtain them from the [Saramaed Hollow](Saramaed_Hollow.md) (needs testing)
+The easiest way to obtain all of the required ores without visiting [The Depths](The_Depths.md) is to visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md), which can drop all the ores necessary or alternatively you can obtain them from the [Saramaed Hollow](Saramaed_Hollow.md) fairly easily.
 
 ### Training
 

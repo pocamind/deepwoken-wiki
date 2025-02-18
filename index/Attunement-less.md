@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 136612
+revid: 136872
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -416,7 +416,7 @@ Blunt
 
 **Support Mantra**
 
-_Strike your shield a few times to absorb some of the posture received by your allies._
+_Absorb incoming posture damage for allies around you for a set duration. When you parry, you restore the posture of your allies. Restores some posture on cast._
 
  | 
 
@@ -424,7 +424,7 @@ _Strike your shield a few times to absorb some of the posture received by your a
 
   
 **Support Mantra**  
-_Strike your shield a few times to absorb some of the posture received by your allies._
+_Absorb incoming posture damage for allies around you for a set duration. When you parry, you restore the posture of your allies. Restores some posture on cast._
 
  |
 | 
@@ -437,14 +437,14 @@ N/A
 
  | 
 
-1 Fortitude, Any Shield Equipped
+10 Fortitude, Any Shield Equipped
 
  |
 | 
 
-**Effect:** _User drums their shield before lowering the posture of allies around them._
+**Effect:** _User drums their shield before lowering the posture of nearly allies and themselves. Applies Rally onto nearby allies which causes posture taken to be transferred to the Rally user._
 
--   Leveling up this Mantra has no effect
+-   Levelling up this Mantra increases how much posture is restored on cast.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 136142
+revid: 136882
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -63,28 +63,28 @@ A Semblance's arsenal consists of 4 weapons, being [Soulthorn](Soulthorn.md), [N
 </tr>
 <tr>
   <td>Time-Slowing Orb</td>
-  <td>The Semblance stops moving, and creates a bubble. After it's been made, any player that steps inside is severely slowed.</td>
+  <td>The Semblance creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed.</td>
   <td><font>✗</font></td>
   <td><font>✗</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Wind Blade</td>
-  <td>User shoots out an arc of gale.</td>
+  <td>The Semblance shoots out an arc of gale.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Wind Forge</td>
-  <td>User conjures up a line of 4 wind projectiles before sending them towards the target.</td>
+  <td>The Semblance conjures up a line of 4 wind projectiles before sending them towards the target.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Twister Kicks</td>
-  <td>User dashes forwards kicking with a rush of winds dealing damage.</td>
+  <td>The Semblance dashes forwards kicking with a rush of winds dealing damage.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★☆)</td>
@@ -103,7 +103,7 @@ The Semblance executes it's opponents after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | \[[Fractine](Fractine.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
-\[[Soulthorn](Soulthorn.md) & [Nocturne](Nocturne.md)\] Pins down opponent before slicing their throat with their blade.
+\[[Soulthorn](Soulthorn.md), [Nocturne](Nocturne.md) & [Shattered Katana](Shattered_Katana.md)\] Pins down opponent before slicing their throat with their blade.
 
  |
 
@@ -111,6 +111,6 @@ The Semblance executes it's opponents after knocking them:
 
 -   If you zoom in the camera enough to their face, it reveals they're actually headless.
 -   **Semblance** means the outward appearance or apparent form of something, especially when the reality is different. Signifying they could not be real, simply an enemy whose form our mortal eyes cannot comprehend or from a different reality.
--   Despite wielding incredibly strong weapons, they have a relatively low health pool, and barely any resistances making this the easiest way to obtain a legendary weapon.
--   They may be related to [The Knives of Eylis](The_Knives_of_Eylis.md) or the [Voidmother](The_Voidmother.md) due to being able to use the **Time-Slowing Orb**, or due to their name they may be [The Knives of Eylis](The_Knives_of_Eylis.md) from another reality, however this maybe unlikely due to their weaponry. They are slowed by their own time slowing orb
--   The Shattered Katana of the Semblance being called the Shade could be a reference to Shadow Fight 2. (Needs Confirmation)
+-   Despite wielding incredibly strong weapons, they have a relatively low health pool, with little to no resistances making this the easiest way to obtain a **Legendary Weapon**.
+-   They may be related to [The Knives of Eylis](The_Knives_of_Eylis.md) or the [Voidmother](The_Voidmother.md) due to being able to use the **Time-Slowing Orb**, or due to their name they may be [The Knives of Eylis](The_Knives_of_Eylis.md) from another reality, however this maybe unlikely due to their weaponry.
+-   The Shattered Katana of the Semblance being called the Shade could be a reference to Shadow Fight 2. **(Needs Confirmation)**
