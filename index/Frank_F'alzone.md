@@ -1,6 +1,6 @@
 ---
 title: "Frank F'alzone"
-revid: 124940
+revid: 136963
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs]
@@ -27,7 +27,7 @@ Aye, 'appy to see ye, \[Name\]. I' eard Orlandeau hollerin' at ye from here! Did
 1.  You could say that.
 2.  \[End Dialogue\]
 
-'Appy to hear, mate. I've been doin' what I do best 'round 'ere. \*The man proudly holds yp a mop, as if it were a trophy.\* This.. this here, my beauty, my star. With her, Oi'm the destroyer of all mold upon this deck.
+'Appy to hear, mate. I've been doin' what I do best 'round 'ere. \*The man proudly holds up a mop, as if it were a trophy.\* This.. this here, my beauty, my star. With her, Oi'm the destroyer of all mold upon this deck.
 
 1.  You've been swabbing?
 2.  \[End Dialogue\]

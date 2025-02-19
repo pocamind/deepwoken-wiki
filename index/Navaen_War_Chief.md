@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 134339
+revid: 136961
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, The Children of Navae]
@@ -24,7 +24,7 @@ This Outfit has 3000 durability and grants +30% Physical Armor, 50% Stealth, +5%
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 37% Frostdraw, 33.5% Shadowcast, and 30% Elemental.
 
-This Outfit also grants the [Talent Card](Talents.md) _Chief's Will_, which grants a 25% penetration buff on the [Way of Navae](https://deepwoken.fandom.com/wiki/Fists?so=search#Way_of_Navae) light attacks. This bypasses the PEN cap.
+This Outfit also grants the [Talent Card](Talents.md) _Chief's Will_, which grants a 25% penetration buff on the [Way of Navae](Fists.md#way-of-navae) light attacks. This bypasses the PEN cap and applies to weapon criticals too despite what the talent description says.
 
 ## Location
 
@@ -38,5 +38,5 @@ This Outfit's Schematic is obtainable from:
 
 ## Trivia/Notes
 
--   This is debatably the best armor for those who want to do a lot of damage with the [Way of Navae](https://deepwoken.fandom.com/wiki/Fists?so=search#Way_of_Navae) fist style.
--   One of four armors that buff one fist/kick style, the others being [Legion Centurion](Legion_Centurion.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), and [Justicar's Armor](<Justicar's_Armor.md>).
+-   This is debatably the best armor for those who want to do a lot of damage with the [Way of Navae](Fists.md#way-of-navae) fist style.
+-   One of five armors that buff one fist/kick style, the others being [Legion Centurion](Legion_Centurion.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>), and [Justicar's Armor](<Justicar's_Armor.md>).

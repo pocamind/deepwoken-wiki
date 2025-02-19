@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 123268
+revid: 136972
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -56,6 +56,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 -   [Katana](Katana.md)
 -   [Vigil Longsword](Vigil_Longsword.md)
 -   [Razor Cutlass](Razor_Cutlass.md)
+-   [Scalesplitter](Scalesplitter.md)
 -   [Morning Star](Morning_Star.md)
 -   [Iron Cestus](Iron_Cestus.md)
 -   [Canor Fang](Canor_Fang.md)

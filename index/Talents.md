@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136959
+revid: 136960
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3349,7 +3349,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 25% additional penetration.
-    -   Gives [Way of Navae](Way_of_Navae.md) **basic attacks** 25% more PEN. This does **not** apply to critical attacks.
+    -   Gives [Way of Navae](Way_of_Navae.md) weapon attacks have 25% more PEN. This applies to critical attacks despite what the talent description says.
     -   This bypasses the PEN cap.
 -   Coldseep Reactor [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
