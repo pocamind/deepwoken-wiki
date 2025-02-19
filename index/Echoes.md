@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 136807
+revid: 136934
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -241,7 +241,7 @@ There are 16 upgrades to purchase, and each can be purchased a maximum of 1 to 6
 </tr>
 <tr>
   <td><center><b>Dissonant</b></center></td>
-  <td><center>You cannot use a Resonance.</center></td>
+  <td><center>You cannot use a Resonance. You are also unable to get the Ancient Soul Regalia.</center></td>
   <td><center><b>+30%</b></center></td>
 </tr>
 <tr>

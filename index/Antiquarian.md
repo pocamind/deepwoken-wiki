@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 120111
+revid: 136943
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -28,6 +28,7 @@ They can be found in:
 -   [Fort Merit](Fort_Merit.md)
 -   [Voidheart](Voidheart.md) (next to the spawn, opposite side of the [bounty board](Bounty_Hunting.md)).
 -   [The Floating Keep](The_Floating_Keep.md)
+-   [Player Guild Base](Guild_Bases.md) (right next to the stairs at the entrance, however only if your guild base has a total of 9 rooms - this can be checked by counting them or, more easily, clicking your guild’s icon on the leaderboard.)
 
 ## Prices
 

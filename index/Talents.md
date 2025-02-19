@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136829
+revid: 136928
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -496,11 +496,11 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
-    -   Drains 4.5 HP per second and 2% Blood per second.
-    -   Increase **ALL** outgoing damage by 15% (this include damage sources that dont normally benefit from damage buffs). Can go over the damage cap, resulting in 2.01x maximum.
-    -   Increase blood damage by +35% (additive).
-    -   Increase speed by 30%.
-    -   Recover 5% Blood when dealing damage (0.35s cooldown).
+    -   Drains 4.5 HP per second and 2% Blood per second. The damage taken from this **cannot** be reduced by any source.
+    -   Grants a final 1.15x damage multiplier (15% damage buff) to **ALL** outgoing damage (this includes damage sources that don't normally benefit from damage buffs like **Bleed** or **Burn** damage). This damage buff bypasses the damage modifier cap, resulting in a 2.01x maximum modifier.
+    -   Increases blood damage by +35% (additive).
+    -   Grants a 30% active speed boost. This counts for talents such as Speed Demon and Cheap Shot.
+    -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
     -   Prerequisite: 50 Bloodrend
 
 -   Sanguine Siphon \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
@@ -656,7 +656,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
     -   Will apply combat tag against opponents.
     -   Effect Lasts 15s (7.5s against Disbelief Talent)
-    -   Has no proc cooldown. Will reapply Choatic Charm every time you get hit.
+    -   Has no proc cooldown. Will reapply Chaotic Charm every time you get hit.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you, additionally any charmed allies will get up twice as fast after getting knocked out.
@@ -2184,9 +2184,9 @@ _**"My cure is most effective."**_
     -   Prerequisite: Rending Needle: Conductor
 
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
-    -   Deals 5.5 dmg per rod at meeting requirements. This damage can be resisted by physical armor.
+    -   Increases the amount of iron rods you can apply from 5 to 10.
     -   Scaling: 4 + Ironsing\*0.02
-    -   Affected by Grim, Taunt, Isshin's ring, Exposed Durability and any other defensive debuffs.
+        -   Deals 5.5 physical damage per rod when meeting requirements.
     -   Not affected by "Return To The Dark Ages" Talent
     -   Best PVE path due to armor drain and damage to mobs unlike other paths.
     -   Has 6.5x PVE scale (5.5 DMG PVP to 35.60 PVE DMG)
@@ -2210,6 +2210,7 @@ _**"My cure is most effective."**_
     -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer
 
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
+    -   Increases the amount of iron rods you can apply from 5 to 10.
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
     -   Enemies have damage reduced by 30% when Metal Jailed.
     -   When restrained, victim will have 6 second rod and pull immunity, upon jailer expire immunity will be set to 1s.
@@ -2300,7 +2301,7 @@ _**"My cure is most effective."**_
 > _**"I seek the qualities of Scoundrel."**_
 
 -   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. 5s Cooldown (+1 Passive Agility)
-    -   The "bleed" does not refer to Bleed Damage, but rather a very miniscule amount of damage to the blood bar.
+    -   The "bleed" does not refer to **Bleed Damage**, but rather a very miniscule amount of damage to the blood bar.
         -   The damage is so small, that there is no pixel difference between the damage received with or without it.
     -   The cooldown is actually 8 seconds despite what the Talent description says.
     -   This Talent also works with [Jus Karita](Jus_Karita.md).

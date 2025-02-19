@@ -1,6 +1,6 @@
 ---
 title: Whisper Draw
-revid: 133793
+revid: 136938
 source: https://deepwoken.fandom.com/wiki/Whisper_Draw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,19 +8,19 @@ categories: [Mechanics]
 
 # Whisper Draw
 
-Whipser Draws are special hands of [Talent](Talents.md) cards that provide the player with [Mantras](Mantras.md). You can usually choose from 2-3 Mantras, a random Mantra or a 'Roll 2', giving you 2 random Talents that are available to you.
+Whisper Draws are special hands of [Talent](Talents.md) cards that provide the player with [Mantras](Mantras.md). You can usually choose from 2-3 Mantras, a random Mantra or a 'Roll 2', giving you 2 random Talents that are available to you.
 
 ## Info
 
-Whipser Draws only present themselves on [powering up to certain levels](Power.md). By the time the player has reached Power 20, they will have been offered 12 Whipser Draws. A Whisper Draw can also be gained through completing [Kelsius](Kelsius.md)' quest, consuming a Mantra at the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md), or combining two [Talents](Talents.md) into a Mantra at the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md).
+Whisper Draws only present themselves on [powering up to certain levels](Power.md). By the time the player has reached Power 20, they will have been offered 12 Whisper Draws. A Whisper Draw can also be gained through completing [Kelsius](Kelsius.md)' quest, consuming a Mantra at the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md), or combining two [Talents](Talents.md) into a Mantra at the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md).
 
-Every Whipser Draw also provides you with an [Ace](Aces.md), allowing you to either burn or freeze Mantra and Talent cards.
+Every Whisper Draw also provides you with an [Ace](Aces.md), allowing you to either burn or freeze Mantra and Talent cards.
 
-<table><caption><b><u>Whipser Draw Levels:</u></b></caption>
+<table><caption><b><u>Whisper Draw Levels:</u></b></caption>
 <tbody>
 <tr>
   <th><b>Power Level</b></th>
-  <th><b>Whipser Draw?</b></th>
+  <th><b>Whisper Draw?</b></th>
 </tr>
 <tr>
   <td>2</td>

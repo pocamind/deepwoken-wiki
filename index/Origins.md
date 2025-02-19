@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 136819
+revid: 136941
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -37,11 +37,11 @@ Note: Asking The Captain to remind you about him in [Fragments of Self](Fragment
 
 **Lone Warrior** gives players a convenient way to access Trial of One from the get-go, allowing them to kickstart their progression.
 
-With simply doing Trial of One, you end up at Power 6 with 5 points remaining. With the Autodidact boon, you end up at Power 7 with 2 points remaining. With the aspect Adret and the boon Autodidact, you end up at Power 8 with 3 points remaining.
+With simply doing Trial of One, you end up at Power 6 with 5 points remaining. With the Autodidact boon or [Adret](Adret.md) aspect, you end up at Power 7 with 2 points remaining. With the aspect Adret and the boon Autodidact, you end up at Power 8 with 3 points remaining.
 
 -   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One gate.
 -   **\[PRO\]** Spawns you in the Trial of One.
--   **\[PRO\]** Allows use of the Shrine of Solitude.
+-   **\[PRO\]** Allows use of the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md).
 -   **\[PRO\]** Dying in the Trial of One gives you an option to instantly send you to the [Fragments of Self](Fragments_of_Self.md), however you must have defeated the [Megalodaunt](Megalodaunt.md) to have this option.
 -   **\[CON\]** Your default spawn puts you in enemy territory, and there is no nearby town.
 
@@ -51,7 +51,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 > 
 > ― Flavor Text
 
-**_Obtainment_:** Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining The Divers. Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
+**_Obtainment_:** Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining [The Divers](The_Divers.md). Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
 
 -   **You don't actually need to join the Divers** to obtain Deepbound, you just need to talk to him.
 

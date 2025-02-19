@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 129379
+revid: 136925
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons]
 
 The Hero Blade of Frost is one of the several elemental weapons apart of the Hero blade line, being specifically the [Frostdraw](Frostdraw.md) variation of the [Hero Blades](Hero_Blades.md).
 
-Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades. At max ELE, the damage is (28.3) for all the Hero Blades. With Hero Blade builds it is recommended to keep being only 80 elemental, as the 20 elemental for Mantra scaling is usually not necessary for builds unless you genuinely have 20 spare points you cannot do anything with.
+Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades. At max ELE, the damage is (28.3) for all the Hero Blades.
 
 ## Critical
 

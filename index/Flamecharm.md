@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 136789
+revid: 136937
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,23 +18,33 @@ Flamecharm Icon
 
 **Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create combustion using Ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility.
 
+## Obtainment & Training
+
+### Obtainment
+
+The [Attunement Trainer](Attunement_Trainers.md), [Amashi](Amashi,_Master_of_Flame.md), can be located at the [Songseeker Temple](Songseeker_Temple.md) in [Songseeker Wilds](Songseeker_Wilds.md). When speaking to Amashi, he will request five (5) [Dying Embers](Dying_Embers.md). If you have obtained Flamecharm previously on your account, Amashi will request two (2) Dying Embers instead. Once you give Amashi the Dying Embers, he will hand you the [Hearthblood Potion](Attunement_Potions.md); drink this to obtain Flamecharm.
+
 ## Training
 
 Flamecharm can be trained with a combination of the [Hearthgem](Training_Gear.md#attunement-training-gears) and Flamecharm Mantras.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At Power 1, players will receive the _Flamecharmer_ Talent upon picking the Flamecharm Attunement on spawn.
--   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent. This allows players to use 1-star Flamecharm mantras.
--   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent. This allows players to unlock 2-star Flamecharm mantras.
--   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent. This finally allows Flamecharm users to unlock the last category, 3-star Mantras.
+-   At 1 Flamecharm, players will receive the _Flamecharmer_ Talent. This allows players to obtain 0-star Flamecharm Mantras.
+-   At 20 Flamecharm, players will receive the _Adept Flamecharmer_ Talent. This allows players to obtain 1-star Flamecharm mantras.
+-   At 30 Flamecharm, players will receive the _Expert Flamecharmer_ Talent. This allows players to obtain 2-star Flamecharm mantras.
+-   Finally, 50 Flamecharm, players will receive the _Master Flamecharmer_ Talent. This allows players to obtain 3-star Flamecharm Mantras.
 
-The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion](Attunement_Potions.md) obtained in the [Songseeker Wilds](Songseeker_Wilds.md) using two [Dying Embers](Dying_Embers.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
+You can speak to [Amashi](Amashi,_Master_of_Flame.md) to upgrade your Flamecharm Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same Mantra 100 Notes more expensive.
 
--   To upgrade a Flamecharm Mantra from level 1 to level 2 costs.
--   To upgrade a Flamecharm Mantra from level 2 to level 3 costs.
--   To upgrade a Flamecharm Mantra from level 3 to level 4 costs.
--   To upgrade a Flamecharm Mantra from level 4 to level 5 costs.
+-   Upgrading a Flamecharm Mantra from level 1 to level 2 costs.
+-   Upgrading a Flamecharm Mantra from level 2 to level 3 costs.
+-   Upgrading a Flamecharm Mantra from level 3 to level 4 costs.
+-   Upgrading a Flamecharm Mantra from level 4 to level 5 costs.
+
+Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.
+
+[Flamecharm Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ## Mantras
 
@@ -252,7 +262,7 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
  |
 | 
 
-\[missing, add\]
+50
 
  | 
 
@@ -538,7 +548,7 @@ _Bear down on your foes with repeated fiery slashes._
  |
 | 
 
-\[missing, add\]
+40
 
  | 
 

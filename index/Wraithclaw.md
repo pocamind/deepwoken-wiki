@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 136853
+revid: 136940
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]
@@ -34,8 +34,9 @@ The **Wraithclaw** is a Legendary [Cestus](Weapons.md); spiralettes of wind arou
 
 The Wraithclaw comes with a single passive ability:
 
--   **Gale After Cut** - M1 attacks now apply After Cut, dealing ~5%~ 10% of the initial damage of the attack.
-    -   I tested this with and without inhale, it was 10 percent both times.
+-   **Gale After Cut** - M1 attacks now apply After Cut, dealing 5% of the initial damage of the attack.
+
+-   If you have the After Cut **talent** your M1 attacks will apply an After Cut dealing 10% of the initial attack instead of the 5%
 
 Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talents.md), such as [Legion Centurion](Legion_Centurion.md) or [Navaen War Chief](Navaen_War_Chief.md), work with this weapon, but Critical Attacks stay unchanged and do not switch depending on your style.
 
