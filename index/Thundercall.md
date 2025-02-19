@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 136845
+revid: 136976
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -114,8 +114,7 @@ Lightning
 
 **Effect:** _Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user._
 
--   Deals 45 thunder damage.
--   10 Second Cooldown.
+-   Deals 33.49 DMG at 5 lvl, 5.5 posture, 10s CD. (39.47 DMG with Magnet spark)
     -   Activates only when the cursor is locked onto a target.
     -   Knockdown is also removed for the mantra variant.
     -   This replaces the lunging hitbox with an AoE one, in which the latter contains a blindspot located behind the user.
@@ -154,8 +153,7 @@ Lightning + Slash
 
 **Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
 
--   Deals moderate damage.
--   10 Second Cooldown.
+-   Deals 52.64 (13.16\*4) + 53.9 (Stormcaller) DMG, 10s CD
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
 -   Can grant an optional effect with the "**Stormcaller Slash**" Talent, which lets the user perform a short wind-up slash at the end of the mantra casted by pressing the \[F\] key.
     -   Can be stacked with the **Magnet Spark** variant of the mantra to perform 4 slashes in total.
@@ -193,8 +191,8 @@ Lightning
 
 **Effect:** _Cast out a straight beam of lightning from where the character is facing._
 
+-   Deals 43.06 DMG, 13 posture, 10s CD at 5 lvl.
 -   Can break objects.
--   10 Second Cooldown.
 -   Can grant an optional effect with the "**Shocking Finish**" Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
     -   Appears after a second of casting.
 
@@ -230,9 +228,8 @@ Lightning + Slash
 
 **Effect:** _Conjure a shocking orb from the end of your weapon, dealing rapid damage._
 
--   Deals light damage; moderate if not parried.
+-   Deals 83.72 (11.96\*7) DMG, 7.5 posture, 30s (Blast Spark version deals 96.84 (10.76\*9) DMG, 11 posture.), Magnet spark 75.32 (10.76\*7) DMG.
 -   Projectile moves along where the character is facing.
--   10 Second Cooldown.
 -   Shocks opponents inside of it while dealing damage.
 -   Can be modified with **Cloudstones/Stratus Stones** increase the AoE.
     -   This can also result in the mantra dealing reduced damage.
@@ -271,8 +268,7 @@ Lightning + Slash
 
 **Effect:** _Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s)._
 
--   Deals 45 thunder damage. (Probably 15 per spark)
--   \[\] Second Cooldown.
+-   Deals 47.25 (15.75\*3) DMG, 10 posture, 15s CD
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to double the amount of projectiles conjured.
     -   This modifier does the same amount of damage as default.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) making the projectiles home towards the target and removing the beams of thunder.
@@ -309,9 +305,9 @@ Lightning
 
 **Effect:** _Perform a short wind-up before snapping fingers to summon a clone of lightning beside the user, the clone proceeds to attack a nearby target once before disappearing._
 
--   Deals light damage.
+-   A clone deals 2x less DMG of your scaled M1, 15s CD.
+-   Blast spark spawns a clone and if a clone hits something it deals weaker m1 + 33.6 AOE Thunder DMG at 5 lvl.
 -   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
--   15 Second Cooldown.
 -   Can grant a different effect with the "**Static Flash Clone**" Talent, which causes the mantra to summon a clone briefly as an afterimage before disappearing, granting the user a small speed boost and making them invisible for a short period of time before resurfacing from invisibility.
     -   When used with the **Blast Spark** mantra variant, the clone conjures a **Lightning Strike** when it disappears.
 -   Modifying the mantra with **Aeon/Eternal Logstones** does not produce more clones.
@@ -350,10 +346,10 @@ Lightning
 
 **Effect:** _Leap into the air before slamming down into the ground, dealing moderate Lightning damage in an AoE before ascending the user and target(s) hit into the air._
 
+-   Deals 34.68 DMG, 100+ posture, 12s CD. Orbs from "**Rain of Static**" Talent deal 1 posture and 9.45 DMG per hit.
 -   Can destroy surfaces and light flammable terrain such as patches of grass on fire.
 -   Can light the user and target(s) ablaze.
 -   Applies Knockdown.
--   12 Second Cooldown.
 -   Can grant a different effect with the "**Rain of Static**" Talent, which makes the user rain down orbs of lightning from the air before slamming down.
 -   Can proc _Meteor Impact_
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md), making you move forward a little before slamming down.
@@ -392,8 +388,8 @@ Lightning
 
 **Effect:** _Perform a gesture before conjuring strikes of lightning at the cursor's location, dealing moderate damage._
 
+-   Deals 10.76 per hit DMG, 3.15 posture per hit, 10s CD
 -   Applies Knockdown.
--   10 Second Cooldown.
 -   Can be cancelled at any point by clicking.
 -   Can strike a total of 1-7 times, but can be cancelled if the user hit and damaged in any way.
     -   This includes being hit by the user's own Lightning Strike.
@@ -434,9 +430,7 @@ Lightning + Blunt
 
 **Effect:** _Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any targets hit._
 
--   Deals 50 thunder damage.
--   Guard Breaks at Level 5
--   10 Second Cooldown.
+-   Deals 44.25 DMG, 100+ posture, 0.65s windup, 10s CD
 -   Press F immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
     -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
     -   Doesn't work if the initial kick guardbroke the target (needs further testing)
@@ -473,10 +467,8 @@ Lightning
 
 **Effect:** _Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location._
 
--   Deals high damage.
+-   Deals 22.72 Per hit, 3.15 posture per hit, 28s CD
     -   At Level 1, it can deplete more than half a healthbar from a freshie.
--   \[\] Second Cooldown
--   Similar to Lightning Strike, the user can also damage themselves with this mantra.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
 
@@ -512,10 +504,9 @@ Lightning
 
 **Effect:** _Conjure and throw a spear of lightning towards where the character is facing._
 
--   Deals 60 thunder damage.
+-   Deals 55.51 DMG, 11 Posture, 15s CD at 5 lvl. (52.86 DMG (17.62\*3), also 16.4 posture total with multiplying spark)
 -   Ragdolls and flings target(s).
 -   Does not break block but deals a lot of posture damage if blocked.
--   15 Second Cooldown.
 -   Can be given an effect with the "**Grand Skewer**" Talent; which carries the target(s) hit along with projectile if the user presses the \[F\] key while casting.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to throw 3 smaller projectiles that travel forward and adjacent respectively.
 
@@ -551,7 +542,7 @@ Lightning
 
 **Effect:** _Conjure a ring of lightning blades, dealing light AoE damage._
 
--   12 Second Cooldown
+-   Deals 33.49 DMG, 0 posture, 12s CD
 -   Has a short delay before dealing damage.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile.
 -   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touches its walls.
@@ -588,9 +579,9 @@ Lightning
  |
 | 
 
-**Effect:** _Conjure and slam a bolt of lightning into the ground from the user's right hand, causing volleys of lightning strikes to spread out, dealing moderate-high damage._
+**Effect:** _Conjure and slam a bolt of lightning into the ground from the user's right hand, causing volleys of lightning strikes to spread out\*_
 
--   30 Second Cooldown.
+-   Deals 37.14 (Floor hit) + 27.51 (per thunder strike) at 5 lvl, 15.5 posture from floor hit + 11 per thunder strike, 30s CD
 -   Can be modified with _Cloudstones/Stratus Stones_ to increase the size of the hitbox.
 -   Can be modified with _Crystal/Perfect Lenses_ to increase the range of the lightning strikes.
 
@@ -626,11 +617,10 @@ Lightning
 
 **Effect:** _Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground._
 
--   Deals 77 thunder damage.
+-   Deals 70 DMG (20.57+49.43), 5.5 posture, 0.5s windup, 15s CD
 -   0.5s wind-up and completely safeguards user when landed.
 -   Ragdolls target(s).
 -   Can be blocked.
--   15 Second Cooldown.
 
  |
 
@@ -695,9 +685,9 @@ Lightning + Slash
  |
 | 
 
-**Effect:** _Caster sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting targets as they pass, dealing moderate damage._
+**Effect:** _Caster sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting targets as they pass"_
 
--   10 Second Cooldown.
+-   Deals 29.9 DMG, 7.6 posture, 10s CD at 5 lvl
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Can be modified with **Cloudstones/Stratus Stones** to make it go further.
 -   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
@@ -805,7 +795,7 @@ Lightning
 **Effect:** _Grapple onto a target with a stream of lightning before pulling them in. Deals light damage; moderate for **Blast Spark** variant._
 
 -   Stuns the target, allowing a small chance to begin a combo.
--   15 Second Cooldown.
+-   Deals 15 DMG, 4.2 posture, 0.4s windup, 15s CD at 5 lvl.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of the projectile traveled.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to grapple on peoples instead of pulling them.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to stun the target instead of pulling them towards the user.

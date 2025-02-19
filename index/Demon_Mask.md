@@ -1,6 +1,6 @@
 ---
 title: Demon Mask
-revid: 123586
+revid: 136985
 source: https://deepwoken.fandom.com/wiki/Demon_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -32,4 +32,4 @@ It can be dropped from chests in the [First Layer](First_Layer.md). It provides 
 
 ## Trivia
 
--   As seen above, there are other colored variants in shops, but they are sadly unobtainable.
+-   As seen above, there are other colored variants in shops, but they are sadly unobtainable without clever [dye packet](Dye_Packet.md) usage

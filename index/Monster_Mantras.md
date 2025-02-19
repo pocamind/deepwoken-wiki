@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 136954
+revid: 137044
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -81,7 +81,7 @@ _Send a cascading eruption towards your foes, forcing them to react._
  |
 | 
 
-**Effect:** _The caster stomps into the ground and sends out a eruption that can automatically targets the nearest opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) '**Grand Stomp'** attack._
+**Effect:** _The caster stomps into the ground and sends out a eruption that can automatically targets the nearest opponent, knocking them upward. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) '**Grand Stomp'** attack._
 
  |
 | 
@@ -115,7 +115,9 @@ _A javelin of jagged bone._
 
 **Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) '**Bone Throw'** attack._
 
+-   Unblockable. (taken from [Carrion](Carrion,_Father_of_Evolution.md)'s page, may not be true)
 -   Grants hyperarmor during startup.
+-   Ragdolls the opponent very far.
 
  |
 | 
@@ -138,7 +140,7 @@ _..._
 
  | 
 
-\[missing, add\]
+Slash?
 
  | 
 
@@ -172,7 +174,7 @@ _\[missing, add\]_
 
  | 
 
-\[missing, add\]
+Ice?
 
  | 
 
@@ -183,7 +185,8 @@ _\[missing, add\]_
 
 **Effect:** _The user shoots out a devastating beam of compressed ice, based on the [Dread Serpent's](Dread_Serpent.md) **Ice Beam**. This move stuns and procs ice, slowing enemies._
 
--   Alternatively, it will proc crystal if the user has **[Glass Path: Crystallization](Talents.md#glassdancer)**.
+-   Inflicts Chill.
+-   It will proc crystals if the user has **Glass Path: Crystallization**.
 
  |
 | 
@@ -206,7 +209,7 @@ _..._
 
  | 
 
-\[missing, add\]
+Blunt + Fire?
 
  | 
 
@@ -217,8 +220,9 @@ _..._
 
 **Effect:** _Pull out a Gatling gun, mowing down the enemies in your way. This mantra is based on the [Mechalodaunt's](Mechalodaunt.md) '**Bullet Fury'** attack._
 
--   The bullets of the Mecha Gatling do not stun, dealing minuscule damage with a short range of fire.
--   Alternatively, it will proc eruptions if the user has **[Eruption Path: Lava Serpent](Talents.md#lava-serpent)**.
+-   The bullets do not stun, dealing minuscule damage with a short range of fire.
+-   Inflicts Burn and sets the user on fire.
+-   Will proc eruptions if the user has **Eruption Path: Lava Serpent**.
 
  |
 | 
@@ -241,7 +245,7 @@ _A chitinous scythe to cut through your foes in a whirl._
 
  | 
 
-\[missing, add\]
+Slash?
 
  | 
 
@@ -253,6 +257,7 @@ _A chitinous scythe to cut through your foes in a whirl._
 **Effect:** _The user grows a Terrapod claw from their left arm and begins to spin forward after a short windup._
 
 -   Deals moderate damage if hit by the entire spin.
+-   Deals heavy posture damage. (taken from [Carrion](Carrion,_Father_of_Evolution.md)'s page, may not be true)
 -   Cancels if parried.
 
  |
@@ -309,7 +314,7 @@ _\[missing, add\]_
 
  | 
 
-\[missing, add\]
+Blunt
 
  | 
 
@@ -385,7 +390,7 @@ N/A
 
 **Effect:** _Conjure strings of the [Enforcer](Enforcer.md), auto-tracking enemies and pulling them in._
 
--   Missing still takes Ether and does not put this mantra on cooldown. (Requires a to obtain)
+-   Missing still takes Ether and does not put this mantra on cooldown.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Varicosa District
-revid: 106574
+revid: 136994
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths, Layer 1, Lost Celtor]
@@ -10,7 +10,7 @@ categories: [Locations, The Depths, Layer 1, Lost Celtor]
 
 LocationL Varicosa District LocationR
 
-TERRITORY OF lost celtor (lawless territory)
+TERRITORY OF Lost Celtor (lawless territory)
 
 It's sometimes mused that the greed, excess and petty politics of those in this district had already killed this city before it drowned.
 

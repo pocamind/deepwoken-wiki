@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsman Hostage
-revid: 124944
+revid: 137014
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsman_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -16,7 +16,7 @@ An Etrean guard being held hostage at Fort Merit
 
 ## Description
 
-Etrean Guardsman Hostages is from the [Etrea](Etrea.md) faction. They appear as [Etreans](Etrean.md), having white skin, their hair color, hair, and aspect variant varying. Like [Etrean Guards](Etrean_Guardsmen.md), they wear the same armor.
+Etrean Guardsman Hostages is from the [Etrea](Etrea.md) faction. They appear exclusively as [Etreans](Etrean.md), having white skin, their hair color, hair, and Aspect variant varying. Like [Etrean Guards](Etrean_Guardsmen.md), they wear the same armor.
 
 They are found kneeling down with their hands tied behind their backs in the prison cells within [Fort Merit](Fort_Merit.md).
 

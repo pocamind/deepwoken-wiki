@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 136937
+revid: 137034
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,9 +18,7 @@ Flamecharm Icon
 
 **Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create combustion using Ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility.
 
-## Obtainment & Training
-
-### Obtainment
+## Obtainment
 
 The [Attunement Trainer](Attunement_Trainers.md), [Amashi](Amashi,_Master_of_Flame.md), can be located at the [Songseeker Temple](Songseeker_Temple.md) in [Songseeker Wilds](Songseeker_Wilds.md). When speaking to Amashi, he will request five (5) [Dying Embers](Dying_Embers.md). If you have obtained Flamecharm previously on your account, Amashi will request two (2) Dying Embers instead. Once you give Amashi the Dying Embers, he will hand you the [Hearthblood Potion](Attunement_Potions.md); drink this to obtain Flamecharm.
 
@@ -109,14 +107,14 @@ Fire
  |
 | 
 
-**Effect:** User summons six blazing warriors armed with [Halberds](Halberd.md) in a circle, attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
+**Effect:** User summons six blazing warriors armed with Halberds in a circle, attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
 
 -   Deals 40.02 (6.7 \* 6) + 33.49 DMG.
 -   Has 9.17x PVE scale (40 + 33.49 PVP DMG, 368.88 + 307.4 PVE DMG)
 -   Inflcits Burn.
 -   Does not share a cooldown with other "servants" mantras.
--   Can be modified with [Cloudstones](Mantra_Modifiers.md) to add more warriors. Max possible amount of warriors without talent "Fan the flames" is 9 (2 Cloudstones).
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to have the warriors attack outwards and ragdoll.
+-   Can be modified with Cloudstones to add more warriors. Max possible amount of warriors without talent "**Fan The Flames**" is 9 (2 Cloudstones).
+-   Can be modified with a Reversal Spark to have the warriors attack outwards and ragdoll.
 
  |
 | 
@@ -154,13 +152,11 @@ Fire
 -   Has 9.18x PVE scale (35.88 PVP, 329.38 PVE DMG)
 -   Deals high posture damage, becoming an instant-guardbreak at level 5.
 -   Inflicts Burn.
--   Breaks certain tiles.
-    -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
--   Compatible with Aeon/Eternal Logstones and Vibrant Gems.
-    -   (Logstone effects TBA)
-    -   Vibrant gems will cause the attack to destroy more environment.
+-   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
+-   Can be modified with Aeon/Eternal Logstones to \[TBA\].
+-   Can be modified with Vibrant Gems, causing the attack to destroy more environment.
 -   While having [Starkindred](Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
-    -   A reversal spark can be used to negate this variation, allowing you to use normal fire blade with wings.
+    -   A Reversal Spark can be used to negate this variation, allowing you to use normal fire blade with wings.
 
  |
 | 
@@ -192,20 +188,17 @@ Fire
  |
 | 
 
-**Effect:** Caster draws out and propels bullets of flames from their hands towards the cursor's location.
+**Effect:** Caster draws out and propels bullets of flames from their hands towards the cursor's location. Clicking again while firing will fire additional bullets, at the cost of more Ether.
 
--   Deals 17.34 damage per hit at 5 lvl, Blast spark does 4.34 DMG + 17.5 explosion DMG.
+-   Deals 17.34 damage per hit at 5 lvl, Blast spark does 4.34 DMG + 17.5 explosion DMG. No cooldown.
 -   Has 5.13x PVE scale (17.34 PVP DMG, 88.96 PVE DMG), blast park in PVE does 22.24+132.2 explosion
--   No Cooldown.
 -   Inflicts Burn.
--   Interacts with the environment.
-    -   Breaks pieces of environment, including the Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
-    -   Lights campfire pits.
+-   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
+-   Lights campfire pits.
 -   Propels the user backward if cast while jumping/walking backward or in water.
--   Clicking again while firing will fire additional bullets, at the cost of more Ether.
 -   Can be modified with Drift/Rush Shards to make the bullets fly faster + farther.
--   Can be modified with a [Round Spark](Mantra_Modifiers.md), causing the bullets to split in 2 after being fired.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md), causing bullets to explode opponents after a certain amount of hits, but reducing the base damage.
+-   Can be modified with a Round Spark, causing the bullets to split in 2 after being fired.
+-   Can be modified with a Blast Spark, causing bullets to explode opponents after a certain amount of hits, but reducing the base damage.
 
  |
 | 
@@ -242,7 +235,7 @@ N/A
 -   Blinds nearby targets for 1.5 seconds.
 -   Deals 1 damage.
 -   Will proc gems such as Wayward Gem.
--   Can be upgraded by the **[Concussive Flash](Talents.md#duelist-flame)** Talent, causing all blinded enemies to be dazed.
+-   Can be upgraded by the **Concussive Flash** Talent, causing all blinded enemies to be dazed.
 -   Can be modified with Aeon/Eternal Logstones to blind for longer.
 
  |
@@ -262,7 +255,7 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
  |
 | 
 
-50
+50 Ether
 
  | 
 
@@ -277,15 +270,13 @@ Fire
 
 **Effect:** User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
--   Deals 53.82 damage at level 5.
--   Deals 6.5 posture damage.
+-   Deals 53.82 damage, 6.5 posture at level 5. 10s cooldown.
 -   Has 9.18x PVE scale (53.82 PVP, 494.07 PVE)
 -   Inflicts Burn.
--   Has a 10 second cooldown.
 -   Has a 0.5 second windup.
 -   Shares a cooldown with all other grab mantras.
 -   Travels for 0.6 seconds.
-    -   Crystal/Perfect Lens increase the duration, capping at 1.2s with a +3 range modifier.
+-   Crystal/Perfect Lens increase the duration, capping at 1.2s with a +3 range modifier.
 
  |
 | 
@@ -319,14 +310,14 @@ Fire
 
 **Effect:** User charges up releases an explosion of flames around them.
 
--   Deals 30.6 damage. If hit, reduces damage taken by 75% and reflects it back.
+-   Deals 30.6 damage. If hit, reduces damage taken by 75% and reflects it back, increasing base mantra damage based on damage taken. Can reflect fall damage.
 -   Deals low posture damage.
 -   Knocks enemies back.
 -   Inflicts Burn
 -   Has a 0.5 second wind-up.
 -   Grants the user brief hyper-armor near the end of the cast.
 -   Can be modified with Cloud/Stratus Stones to increase the size.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md), causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
+-   Can be modified with a Spring Spark, causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 
  |
 | 
@@ -360,17 +351,15 @@ Fire
 
 **Effect:** User slams weapon into the ground below that causes 2 consecutive explosions.
 
--   Deals 24/26.55/29/31.5/34 damage per explosion, and has 2.5 Flamecharm scaling, does 40.66\*2 DMG at 5 lvl 80 flame..
+-   Deals 24/26.55/29/31.5/34 damage per explosion, and has 2.5 Flamecharm scaling, does 40.66\*2 DMG at 5 lvl 80 Flame. 10s cooldown.
 -   The initial explosion does 5.5 posture, the second explosion does 38 posture.
--   The second explosion ragdolls enemies.
--   Has a windup of 0.5 seconds, and 0.8 second delay between explosions.
--   Has a 10 second cooldown, and a 0.2 second endlag.
 -   Has 9.18x PVE scale (40.66 PVP DMG, 373.33 PVE DMG)
+-   The second explosion ragdolls enemies.
+-   Has a windup of 0.5 seconds, 0.2 second endlag, and 0.8 second delay between explosions.
 -   Inflicts Burn.
--   Can be modified with Glass Stones and Magnifying Stones to increase the radius of the explosions.
+-   Can be modified with Glass Stones and Magnifying Stones to increase the radius of the explosions (+9 AoE max).
     -   The actual hitbox of the explosion and visual size often do not match when modified.
     -   Each modifier reduces damage.
-    -   The max AoE modifier is +9.
 
  |
 | 
@@ -408,11 +397,10 @@ Fire
 -   Deals moderate-low posture damage.
 -   Has 8.45x PVE scale (44.25 PVP, 374.34 PVE DMG)
 -   Does not inflict Burn.
--   Breaks certain tiles.
-    -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
--   Improved by Talent "Hell's Partisan," allowing it to inflict Burn.
+-   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
+-   Improved by Talent "**Hell's Partisan**", allowing it to inflict Burn.
 -   Can be modified with Crystal/Perfect lens to make the daggers move faster
--   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to make it throw 5 daggers in a straight line
+-   Can be modified with a Tornado Spark to make it throw 5 daggers in a straight line
 
  |
 | 
@@ -446,11 +434,9 @@ Fire
 
 **Effect:** User releases a burst of flame from their palm in a cone shape.
 
--   Deals 26/27.5/29/30.5/32 damage, 38.27 DMG at 80 Flame. and has 2.5 Flamecharm scaling.
--   Deals 5.5 posture damage.
--   This Mantra has 0.7 seconds windup and 0.2 seconds of endlag
+-   Deals 26/27.5/29/30.5/32 damage, 38.27 DMG at 80 Flame, 5.5 posture, and has 2.5 Flamecharm scaling. 16s cooldown.
 -   Has 9.14x PVE scale (38.27 PVP DMG, 349.88 PVE)
--   It has a cooldown of 16 seconds
+-   Has 0.7 seconds windup and 0.2 seconds of endlag
 -   Inflicts Burn.
 -   Can be modified with Cloud/Stratus Stones to increase size, every +1 in size makes it 10% bigger.
 
@@ -491,7 +477,7 @@ Fire
 -   Has 9.18x PVE scale (43.06 PVP, 395.25 PVE DMG)
 -   Inflicts Burn.
 -   Can be grabbed by your Flame Grab (Bug).
--   Can be modified with a magnet spark, making the turret follow the user.
+-   Can be modified with a Magnet Spark, making the turret follow the user.
 
  |
 | 
@@ -563,10 +549,10 @@ Fire
 
 **Effect:** User releases a flurry of seven slashes.
 
--   Deals 33.5+33.5+23.4+13.4+6.7+6.7, totaling up to 117 damage
+-   Deals 117 (33.5 + 33.5 + 23.4 + 13.4 + 6.7 + 6.7) total damage.
 -   Has 17.2x PVE scaling(33.5 PVP DMG, 578.67 PVE DMG)
 -   Deals high posture damage.
--   Inflicts burn.
+-   Inflicts Burn.
 -   Will not continue if the first slash misses.
 -   Can be cancelled midway by feinting.
 
@@ -602,15 +588,14 @@ Fire
 
 **Effect:** User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
--   Deals 38.27 damage at level 5. 11 posture
+-   Deals 38.27 damage, 11 posture at level 5.
 -   Has 9.18x PVE scale (38.27 PVP, 351.34 PVE DMG)
 -   Inflicts Burn.
 -   10 second cooldown.
--   Has a 0.48 second windup.
--   Has a 0.7 second endlag if missed.
+-   Has a 0.48 second windup, and 0.7 second endlag if missed.
 -   Does not send the user into the air if missed.
--   Improved by Talents "Meteor Impact" and "Phoenix Impact".
--   Can be modified with Cloud/Stratus stones to make hitbox larger.
+-   Improved by Talents "**Meteor Impact**" and "**Phoenix Impact**".
+-   Can be modified with Cloud/Stratus Stones to make the hitbox larger.
 
  |
 | 
@@ -649,7 +634,7 @@ Fire + Blunt
 -   Deals low posture damage.
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
--   Can be modified with Crystal/Perfect Lenses to make hitbox bigger.
+-   Can be modified with Crystal/Perfect Lenses to make the hitbox bigger.
 
  |
 | 
@@ -691,10 +676,9 @@ Fire
 -   Inflicts Burn.
 -   Has a unique effect where it ricochets when blocked.
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
--   Can be modified with a spring spark to make the user float upwards upon shooting.
 -   Can be modified with Crystal/Perfect Lenses to increase speed and range.
--   Can be modified with Glass/Magnifying Stones to make explosion larger.
--   (NEED NEW GIF BELOW THIS WAS BEFORE IT WAS CHANGED)
+-   Can be modified with Glass/Magnifying Stones to make the explosion larger.
+-   Can be modified with a Spring Spark to make the user float upwards upon shooting. (NEED NEW GIF BELOW THIS WAS BEFORE IT WAS CHANGED)
 
  |
 | 
@@ -728,21 +712,17 @@ Fire
 
 **Effect:** User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. "This'll be over by snack time."
 
--   Grabs any enemies In range of it.
--   Deals 45 dmg total (14+14+16) at level 5, reversal spark 14+16.74 at 5 lvl
--   Deals 18 posture damage every sweep.
+-   Deals 45 dmg total (14+14+16) at level 5, Reversal Spark 14+16.74 at 5 lvl. 18s cooldown.
+-   Deals 18 posture damage every sweep, Reversal Spark dealing 18 posture damage just once.
 -   Inflicts burn.
 -   Has 9.18x PVE scale
--   18 second cooldown.
--   Has a 0.6 second windup.
--   Has a 0.2 second endlag.
+-   Has a 0.6 second windup and 0.2 seconds of endlag.
 -   Mantra continues if the second hit isn't parried.
     -   _Autoparry frames on the second hit will **NOT** cancel the Mantra._
     -   _Mantra also continues after the user gets knocked._
 -   Can be modified with a Reversal spark, acting as a pull/grab, but dealing less damage.
     -   The reversal spark variant deals ~30% less damage than the original.
-    -   The reversal spark variant deals 18 posture damage once.
-    -   The reversal spark variant has 0.65 windup.
+    -   The reversal spark variant has 0.65s windup.
 
  |
 
@@ -811,10 +791,9 @@ Fire
 
 -   Deals 47.84 damage at 5 lvl.
 -   Has 9.17x PVE scale (47.84 DMG, 439.17 PVE DMG)
--   Inflicts Burn and Ragdoll.
--   Can be modified with Crystal/Perfect Lenses and Glass/Magnifying Stones.
-    -   Lens will cause the Mantra to fly farther (at the same pace).
-    -   Stones will increase the hitbox size.
+-   Inflicts Burn and Ragdolls.
+-   Can be modified with Crystal/Perfect Lenses to cause the Mantra to fly farther (at the same pace).
+-   Can be modified with Glass/Magnifying Stones to increase the hitbox size.
 
  |
 | 
@@ -852,11 +831,11 @@ Fire
 -   Deals low posture damage.
 -   Has 9.17x PVE scale (11.96 PVP, 109.79 PVE)
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
--   Is able to proc Meteor Impact, even without hitting an opponent.
+-   Is able to proc **Meteor Impact**, even without hitting an opponent.
 -   Shares similar traits to the Strong Leap Mantra.
 -   The Mantra will not summon flames nor do damage if used in bodies of water.
--   Can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap.
-    -   This variant does not bring enemies up, and cannot proc Meteor Impact.
+-   Can be modified with a Reversal Spark, delivering an explosive frontflip instead of a vertical leap.
+    -   This variant does not bring enemies up, and cannot proc **Meteor Impact**.
 
  |
 
@@ -921,15 +900,14 @@ N/A
  |
 | 
 
-**Effect:** Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
+**Effect:** Caster conjures an aura of flame in their hand before forcefully inserting it in their chest. Requires Ritual Casting.
 
 -   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds with Azure Flames, if damage isn't substantial.
     -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing is buffed by 20% with Azure Flames.
 -   Flame stays in chest for the duration of the Mantra.
--   Requires ritual casting.
 -   Freezes user in place for a brief moment after casting.
--   Restores some of the user's sanity.
--   Can be upgraded with the Denial Repulse Talent, causing a small AOE explosion upon receiving lethal damage.
+-   Restores some of the user's Sanity.
+-   Can be upgraded with the **Denial Repulse** Talent, causing a small AOE explosion upon receiving lethal damage.
 -   Can be modified with Vibrant Gems, with an unknown effect. Increases signs for ritual cast.
 
  |
@@ -962,17 +940,16 @@ N/A
  |
 | 
 
-**Effect:** Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
+**Effect:** Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire. Requires Ritual Casting.
 
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
--   Requires ritual casting.
 -   Allows you to cook food.
 -   Can be upgraded with Duration, Intensity and Mantra Size modifiers, as well as the Undying Flame talent.
     -   Adding intensity causes the flame to passively heal nearby players. Stacks with its normal healing.
-    -   The talent Azure Flames increases Undying Flame's passive healing by 20%.
+    -   Azure Flames increases Undying Flame's passive healing by 20%.
     -   Each modifier adds signs to the ritual cast.
-    -   The Undying Flame talent allows it to be cast in Layer 1 of the Depths. Lasts for a shorter duration in depths. However you cannot use this in the Depths Trials.
+    -   The **Undying Flame** Talent allows it to be cast in Layer 1 of the Depths. Lasts for a shorter duration in Depths. However you cannot use this in the Depths Trials.
     -   Cannot be used in Layer 2 of the Depths at all.
 
  |
@@ -1005,16 +982,14 @@ N/A
  |
 | 
 
-**Effect:** The caster summons a wisp of magma.
+**Effect:** The caster summons a wisp of magma. Requires Ritual Casting.
 
 -   Flame Wisp reduces the burn tick damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
     -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.
 -   Ignites nearby campfire pits if not currently healing you.
--   Requires ritual casting.
--   Flame Wisp also seems to reduce parasite growth.
+-   Flame Wisp also seems to reduce [parasite](Second_Layer/The_Ethironal_Shrine.md#parasites) growth.
 -   With Wraith Path: Twisted Puppets, you will heal from burns by Shadow Mantras and Burning Puppets, but not by Flame Mantras.
     -   The amount of healing will not be severely reduced (results were +1% (~5) hp per 5-6 burn ticks).
--   Considered a Wisp Mantra, taking up either a Wisp, Support, or Wildcard slot.
 -   Has 3 charges (which are consumed when healing is triggered). Logstones increase the amount of charges.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 134439
+revid: 136977
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -119,6 +119,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 -   "From each according to their ability, to each according to their needs" Is a quote by Karl Marx's 'Critique of the Gotha Program.'
 -   By taking a helmet off via pressing P, hair will be visible even while Arcwarder is active.
 -   This and [Saintsworn](Oath%253A_Saintsworn.md) are the only [Oaths](Oaths.md) to require any points invested in an [Attunement](Attunements.md)
+-   This and [Oathless](Oath%253A_Oathless.md) are the only 2 Oaths that have no cosmetics as the Arc Suit is a mantra
 -   Dexerius is planning to rework the Oath, adding a "defense mode" and a "attack mode" feature
 
 ## References

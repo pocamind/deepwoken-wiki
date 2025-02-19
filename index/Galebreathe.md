@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 136950
+revid: 137047
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -103,17 +103,16 @@ Wind
  |
 | 
 
-**Effect:** Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
+**Effect:** _Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target._
 
 -   Deals 37.79 DMG + 3.25 (if hit was against wall), 6.8 posture, 14s cd.
 -   Pushes people back and dazes them if they collide with something
 -   Does not apply hitstun from the blast.
-
 -   Can break objects.
 -   Can be upgraded with Cloudstones, Stratus stones, Perfect lenses and Crystal Lenses to make it bigger and longer.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 -   Doesn't proc Haunted Gale.
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md), making it pull your opponents instead of blasting them away.
+-   Can be modified with a Reversal Spark, making it pull your opponents instead of blasting them away.
 
  |
 | 
@@ -145,7 +144,7 @@ Wind
  |
 | 
 
-**Effect:** Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
+**Effect:** _Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target._
 
 -   Deals 133.96 (33.49\*4) DMG, 32.78 posture total (16.4 kick + 5.46\*3 hits), 8s cd.
 -   Projectile is medium-ranged and explodes on impact.
@@ -181,10 +180,10 @@ Wind
  |
 | 
 
-**Effect:** Launch a wind projectile at cursor's position.
+**Effect:** _Launch a wind projectile towards where you're facing._
 
 -   Deals 33.07 DMG, 13 posture cd, 8s cd.
--   Can be improved with the "**Tempest Wind**" Talent_, making it Rising Flame like attack that deals 53.82 dmg at 5 lvl_
+-   Can be improved with the "**Tempest Wind**" Talent, making it a [Rising Flame](Flamecharm.md#rising-flame)\-like attack that deals 53.82 dmg at 5 lvl
 
  |
 | 
@@ -216,17 +215,15 @@ Wind
  |
 | 
 
-**Effect:** Leap high into the air before diving down, striking any targeted opponent.
+**Effect:** _Leap high into the air before diving down towards your cursor, striking any targeted opponent._
 
 -   Deals 51.43 DMG, 11 posture, 15s cd at 5 lvl.
-
--   User moves towards the cursor.
-    -   Highly recommended to turn off Shift-Lock to do this.
+-   Highly recommended to turn off Shift-Lock to do this.
 -   Good mobility.
 -   Feinting it leaves the user unable to use Gale Lunge and Heavenly Wind. (Needs testing with more mantras to see interaction, it seems like specific mantras only gets this behavior.)
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
 -   If missed, it results in endlag.
--   Can be used in combination with the Cap Artist Talent to ragdoll and fling yourself insanely far.
+-   Can be used in combination with the **Cap Artist** Talent to ragdoll and fling yourself insanely far.
 
  |
 | 
@@ -258,12 +255,9 @@ Wind + Slash
  |
 | 
 
-**Effect:** Lunge forward with your weapon coated in wind.
+**Effect:** _Lunge forward with your weapon coated in wind._
 
 -   Deals 20.91 DMG, 8.6 posture, 13s cd at 5 lvl.
-
-damage.
-
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
 
@@ -297,16 +291,14 @@ Wind + Slash
  |
 | 
 
-**Effect:** Conjure a wind AoE punch that deals damage and knocks targets away.
+**Effect:** _Conjure a wind AoE punch that deals damage and knocks targets away._
 
--   Deals 62.79 (20.93\*3) DMG,27 (
-
-8.58\* ) posture, 9.5s at 5 lvl.cd
-
+-   Deals 62.79 (20.93\*3) DMG, 27 (8.58\*3) posture, 9.5s cd at 5 lvl.
 -   Applies Hitstun.
 -   Can break objects.
--   Can be modified with _Cloud/Stratus Stones_ and _Perfect/Crystal Lenses_ to increase size.
--   Can be upgraded with the "_Vacuum Punch"_ Talent.
+-   Can be modified with Cloud/Stratus Stones and Perfect/Crystal Lenses to increase size.
+-   Can be modified with Vibrant Gems to increase the speed of the push, or pull with **Vacuum Punch**.
+-   Can be upgraded with the "**Vacuum Punch**" Talent.
 
  |
 | 
@@ -338,11 +330,10 @@ Wind
  |
 | 
 
-**Effect:** Deploy a small green landmine at your cursor's location.
+**Effect:** _Deploy a small green landmine at your cursor's location, activating a small tornado when made contact with._
 
 -   Deals 38.87 (2.99\*13) DMG, 5.5 posture if thrown trap blocked, 13.78 posture if blocked entire active trap, 10s cd.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
--   Stepping on Galetrap activates a mini tornado.
 -   Applies the _"Suffocate"_ status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 
@@ -376,9 +367,7 @@ Wind
  |
 | 
 
-**Effect:** Conjure a small vortex around yourself, M1 to cast it forward.
-
-  
+**Effect:** _Conjure a small vortex around yourself, M1 to cast it forward._
 
 -   Moves forward on its own after 2 seconds.
 -   Deals 17.7 + 0.89 DMG 12 times, 223 DMG total ,tornado lasts for 4.6 s, 1.3 posture per hit, 9s cd at 5 lvl.
@@ -416,7 +405,7 @@ Wind + Slash
  |
 | 
 
-**Effect:** Dash forwards kicking with a rush of winds dealing damage.
+**Effect:** _Dash forwards kicking with a rush of winds dealing damage._
 
 -   Deals 58.36 (14.59\*4) DMG, 17.5 posture, 11s cd at 5 lvl.
 -   Can break objects.
@@ -451,9 +440,9 @@ Wind + Slash
  |
 | 
 
-**Effect:** Get ready to spin around and then create a burst of wind around you that goes upward
+**Effect:** _Ready yourself and then spin, creating a vertical column of sharp winds._
 
--   Deals 52.84 DMG, 23 posture, 13s cd at 5 lvl
+-   Deals 52.84 DMG, 23 posture, 13s cd at 5 lvl.
 -   Sends opponents flying into the air.
 
  |
@@ -486,14 +475,14 @@ Wind + Slash
  |
 | 
 
-**Effect:** Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
+**Effect:** _Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target._
 
 -   Deals 10.76 dmg per projectile (43.04 total), 2.15 posture per projectile, 10s cd.
 -   Projectiles are homing.
 -   Medium-far range.
 -   Forces you to stand still when casted.
--   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to increase the range.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md), making the blades shoot out from different directions.
+-   Can be modified with Perfect/Crystal Lenses to increase the range.
+-   Can be modified with a Multiplying Spark, making the blades shoot out from different directions.
 
  |
 | 
@@ -516,7 +505,7 @@ _Grab your opponent and toss them with the power of gale. Pressing F will toss y
 
  | 
 
-Wind + Blunt (Grab), Wind
+Wind + Blunt (Grab), Wind (Throw)
 
  | 
 
@@ -525,12 +514,12 @@ Wind + Blunt (Grab), Wind
  |
 | 
 
-**Effect:** Grab your target before spinning them in 360 degrees and then tossing them.
+**Effect:** _Grab your target before spinning them in 360 degrees and then tossing them._
 
--   Deals 63.82 damage at 5 lvl + 6.2 dmg against wall, 9s cd
+-   Deals 63.82 damage at 5 lvl + 6.2 dmg against wall, 9s cd.
 -   Forcible Block Break (Only When Upgraded To Level 5).
 -   The second hit (The throw) ragdolls the opponent and the ragdoll is cancellable.
--   Procs "Breathing Impact" if thrown at a wall.
+-   Procs **Breathing Impact** if thrown at a wall.
 -   Applies knockback.
     -   Requires more testing.
 -   The old "**Skull Crusher**" Talent is now innate with this mantra.
@@ -565,11 +554,10 @@ Wind + Blunt
  |
 | 
 
-**Effect:** Ascend while uppercutting your target, rapidly damaging them.
+**Effect:** _Ascend while uppercutting your target, rapidly damaging them._
 
 -   Blocking it sends only the user into the air but cancels it after a small bit if it doesn't hit anyone after.
 -   Deals 63.28 (13.44+13.44+13.44+11.48+11.48) DMG, 5.5 posture, 14s cd.
-
 -   Posture breaking with this mantra won't continue it on to the multihits.
 -   Gems apply ONLY to the last hit, making bloodless' healing very low.
 -   Missing will not send the user into the air.
@@ -577,8 +565,8 @@ Wind + Blunt
     -   Applies Knockdown frames on proc.
 -   Gives I-Frames throughout the duration of the mantra.
 -   Can be vented to cancel it early (If you hold down F after use, it will automatically parry when venting)
--   Doesn't proc _Haunted Gale_
--   Can proc _Meteor Impact_
+-   Doesn't proc **Haunted Gale**
+-   Can proc **Meteor Impact**
 
  |
 | 
@@ -610,11 +598,11 @@ Wind + Slash
  |
 | 
 
-**Effect:** Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
+**Effect:** _Empower your weapon before elegantly releasing a cut that forms a small controllable tempest._
 
 -   Rapidly damages the opponent.
 -   Deals 57.59 (4.43\*13), 13 posture total, 10s cd at 5 lvl.
--   Can be modified with _Cloudstones_ and _Stratus Stones_ to increase it's size. Puts the Carve ball further away with _Perfect Lenses_ and _Crystal Lenses_.
+-   Can be modified with Cloud/Stratus Stones to increase it's size. Puts the Carve ball further away with Perfect/Crystal Lenses.
 -   Pushes opponents hit by the final slash away.
 -   Can be canceled once the mantra initiates.
 
@@ -648,14 +636,14 @@ Wind
  |
 | 
 
-**Effect:** Fire a penetrating bullet of wind.
+**Effect:** _Fire a penetrating bullet of wind._
 
 -   Deals 57.41 DMG, 3.15 posture, 15s cd.
 -   Blast spark version deals 36.6 + 14. 15 against wall, 26 posture.
 -   Pushes and ragdolls opponent.
 -   Applies the _"Suffocate"_ status effect.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) in order to shoot multiple bullets at once.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot a round of short ranged bullets.
+-   Can be modified with a Multiplying Spark in order to shoot multiple bullets at once.
+-   Can be modified with a Blast Spark to shoot a round of short ranged bullets.
 -   Both Sparks can be combined, making three consecutive short-range bullet rounds. Additionally you can apply two of one spark.
 
  |
@@ -688,11 +676,11 @@ Wind + Slash
  |
 | 
 
-**Effect:** Cast several fast, wind-enhanced slashes that form a star.
+**Effect:** _Cast several fast, wind-enhanced slashes that form a star._
 
 -   Deals 51.85 DMG, 13.6 posture, has 15s cd.
--   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 -   Last hit of the mantra sends the opponent upwards, sometimes even when parried. (Only at Mantra Lv: 2+)
+-   Can be modified with Cloud/Stratus Stones to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 
  |
 | 
@@ -724,13 +712,13 @@ Wind + Slash
  |
 | 
 
-**Effect:** Raise your right leg and stomp the ground, conjuring up a huge volley of wind.
+**Effect:** _Raise your right leg and stomp the ground, conjuring up a huge volley of wind._
 
 -   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   Gives hyperarmor when casting
--   Deals _possibly moderate-heavy_
+-   Deals possibly moderate-heavy damage.
 -   Applies Ragdoll
--   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to make it reach further.
+-   Can be modified with Perfect/Crystal Lenses to make it reach further.
 
  |
 
@@ -795,14 +783,10 @@ Wind + Slash
  |
 | 
 
-**Effect:** Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled.
+**Effect:** _Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled._
 
--   Deals 65.18 DMG, 16.5 posture, has 12s cd at 5 lvl
-
-ge
-
+-   Deals 65.18 DMG, 16.5 posture, 12s cd at 5 lvl.
 -   Can be modified with Crystal/Perfect Lenses to increase the distance travelled, making it a very useful tool for horizontal mobility.
--   Uses the [Shadow Assault](Shadowcast.md) startup sound.
 -   Can be used to clip through walls while in [The Second Layer](Second_Layer.md)
 -   It's also compatible with Logstones, but the effect is minimal.
     -   Requires more testing.
@@ -870,7 +854,7 @@ N/A
  |
 | 
 
-**Effect:** Spawns a spherical wisp of wind. Requires ritual casting.
+**Effect:** _Spawns a spherical wisp of wind. Requires ritual casting._
 
 -   Grants 30% fall damage resistance.
 -   Haunted Gale and Haunted Path: Specter require one less perfect casted mantra hit to activate (3 -> 2).
@@ -1372,7 +1356,8 @@ N/A
     -   Alternatively, you could cast it early to feint the M1 but due to its low windup, it's very difficult to parry or punish unless it's used by itself. However, letting the aerial M1 hit before casting it is very powerful because it leaves no room for a counterattack after blocking or rolling the M1, but this is negated by parries.
 -   Pairing this attunement along the [Jetstriker Oath](Oath%253A_Jetstriker.md) can ultimately make it one of the best mobility builds, given Galebreathe's wide variety of mobility moves and [Jetstriker's](Oath%253A_Jetstriker.md) mobility-based kit. The [Gale Step and Aerogliding](Talents.md) Talents, along with all of the [Jetstriker](Oath%253A_Jetstriker.md) Talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md). One great weapon paring with this attunement is the [Curved Blade of Winds](Curved_Blade_of_Winds.md), this legendary weapon has 2 forms that compliment both styles of Galebreathe.
 -   Galebreathe is good for pressuring an opponent thanks to its high mobility.
--   **Tornado** would sometimes be referred to as "Wind Eruption" in patch notes.
+-   **Tornado** would sometimes be referred to as "Wind Eruption" in patch notes. This is because its internal Mantra ID is "Eruption:Wind".
+-   **Wind Passage** shares it's startup sound with [Shadow Assault](Shadowcast.md#shadow-assault).
 
 ## References
 

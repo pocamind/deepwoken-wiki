@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 135789
+revid: 136983
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Alloyed Weapons, Offhand Guns]
@@ -30,7 +30,7 @@ categories: [Weapons, Flintlocks, Alloyed Weapons, Offhand Guns]
 
 The Dawnshot is a midgame gun, which can be obtained through the [First Layer](First_Layer.md), [Summer Isle Events](https://deepwoken.fandom.com/wiki/Summer_Isle#Missions), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Minityrsa](Minityrsa.md) or the [Songseeker Wilds](Songseeker_Wilds.md). It requires 40 Light Weapon to be used with good overall stats for its midgame role. It can be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md) to turn it into an endgame weapon and give it a slightly lighter hue
 
-The Dawnshot has a [Bullet](Bullet_Casings.md) capacity of 4.
+The Dawnshot's maximum [Bullet](Bullet_Casings.md) capacity is 4.
 
 ### Damage
 
@@ -56,7 +56,7 @@ The Dawnshot has a [Bullet](Bullet_Casings.md) capacity of 4.
 
 ## Trivia
 
--   The Dawnshot is the fastest weapon to receive compatibility with [Pluripotent Alloy](Pluripotent_Alloy.md), receiving it at the same time as it was released.
+-   The Dawnshot is the fastest weapon to receive compatibility with the [Pluripotent Alloy](Pluripotent_Alloy.md), receiving it in the same update as it was released.
 -   The Dawnshot is the only gun to possess chip damage and penetration.
--   The Dawnshot is the only alloyable pistol / gun in the game.
+-   The Dawnshot is the only gun in the game that can be alloyed
 -   The Dawnshot bears a resemblance to [Retort](https://criticalrole.miraheze.org/wiki/Retort), a pistol used by [Percival de Rolo](https://criticalrole.miraheze.org/wiki/Percival_de_Rolo) in the Amazon Prime show, [The Legend of Vox Machina](https://criticalrole.miraheze.org/wiki/The_Legend_of_Vox_Machina).

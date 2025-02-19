@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 133578
+revid: 137017
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,7 +17,7 @@ Chance of obtaining aspect: **15.2%**
 
 ## Description
 
-Canor are an uncommon aspect considered to have the characteristics of a canine but the attributes and features of a lion. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. Canor don't strongly side with any particular faction, most of their original ones having died out, but their loyalty and dedication often results in them being high ranking members among the whole Lumen, such as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) of The Divers, [Morredh](Vice_Warden_Morredh.md) of The Authority, and [Alpha](Alpha.md) of the Ignition Union. Their blind loyalty is such that they receive marginal preferential treatment from the otherwise prejudiced Central Authority. Canor have three distinct facial markings to choose from.
+Canor is an uncommon [Aspect](Aspects.md) considered to have the characteristics of a canine but the attributes and features of a lion. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. Canor don't strongly side with any particular faction, most of their original ones having died out, but their loyalty and dedication often results in them being high ranking members among the whole Lumen, such as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) of The Divers, [Morredh](Vice_Warden_Morredh.md) of The Authority, and [Alpha](Alpha.md) of the Ignition Union. Their blind loyalty is such that they receive marginal preferential treatment from the otherwise prejudiced Central Authority. Canor have three distinct facial markings to choose from.
 
 ## Racial Traits
 
@@ -90,8 +90,8 @@ Canor share a strong bond with the Adret aspect, staying true to the relationshi
 
 ## Trivia
 
--   The surnames of the Canor are noticeably German, or German inspired. (Since they're dog people this means they're german shepherds I guess)
--   Canor also seem to be known for their heavy weaponry, as the [Zweihänder](Zweihander.md) (Which also happens to be a German weapon), which is known to be used by the Canor Borderwatchers. There is also the [Pale Morning](Pale_Morning.md), which is a replica of a Greathammer wielded by a Canor Warlord, and the [Canorian Axe](Canorian_Axe.md), a Greataxe that is a replica of ones used by the Canor Swornfangs.
+-   The surnames of the Canor are noticeably German, or German inspired.
+-   Canor also seem to be known for their heavy weaponry, as the [Zweihänder](Zweihander.md) (a German weapon), which is known to be used by the Canor Borderwatchers. There is also the [Pale Morning](Pale_Morning.md), which is a replica of a Greathammer wielded by a Canor Warlord, and the [Canorian Axe](Canorian_Axe.md), a Greataxe that is a replica of ones used by the Canor Swornfangs.
 -   The Default Canor hair id is 20372960. [See on Roblox](https://www.roblox.com/catalog/20372960/Bed-Hair)
 -   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.
 -   The Lord Regent, seemingly, does not like Canor for an unknown reason.

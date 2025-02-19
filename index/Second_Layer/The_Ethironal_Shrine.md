@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 134133
+revid: 137035
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -53,7 +53,7 @@ To do this repeat the same steps as the Main method up to 3
 3.  Run from the 2 bounders until you reach a portal
 4.  enter the portal **(Requires defeating chaser once on your character before)**
 
-## Traversal
+## Hazards
 
 The Eternal Gale is full of threats towards the player, and thus, should be briefed.
 

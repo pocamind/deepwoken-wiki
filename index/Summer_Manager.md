@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 124924
+revid: 137007
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Summer Company, Summer Company Enemies]
@@ -16,7 +16,7 @@ Summer Managers are enemy NPCs that can only be found on Summer Isle. They can o
 
 -   A Summer Manager accompanied by two Summer Company Guards standing around Ignition Union corpses with an Explosive Crate
 
-A Summer Manager only wears a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [aspect](Aspects.md) and gender varying.
+A Summer Manager only wears a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [Aspect](Aspects.md) and gender varying.
 
 ## Moveset
 
@@ -47,5 +47,5 @@ A Summer Manager executes the player after knocking them:
 ## Trivia
 
 -   Despite supposedly holding a higher rank than [Summer Company Guards](Summer_Company_Guard.md), their uniform is identical.
--   Their hitboxes are particularly wonky, they can put a gun through your head but still not land a single shot.
+-   Their hitboxes are particularly wonky, as they can put a gun through your head but still not land a single shot.
 -   Despite them being in an event, spitting on them/assassinating them gives you negative summer company reputation.

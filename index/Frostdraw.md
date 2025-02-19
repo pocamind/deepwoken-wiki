@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 136900
+revid: 136973
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -41,8 +41,6 @@ The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions
 -   Upgrading a Frostdraw Mantra from level 2 to level 3 costs.
 -   Upgrading a Frostdraw Mantra from level 3 to level 4 costs.
 -   Upgrading a Frostdraw Mantra from level 4 to level 5 costs.
-
-Upgrading your Mantras with the [Songwright](Songwright.md) NPC increases the Note cost by 50%.
 
 ## Mantras
 

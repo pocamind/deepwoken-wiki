@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 136801
+revid: 136986
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -57,7 +57,7 @@ A Songseeker Galebreather executes it's opponents after knocking them:
 
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Constantly flourishing them/using mantras will prevent them from spamming mantras.
--   Watch out for their "Heavenly Wind", as this move can catch the player off guard.
+-   Watch out for their "Heavenly Wind", as this move can catch the player off guard due to its very fast windup and odd hitbox
 -   Get them into corners as it will make it impossible for the Songseeker Galebreathers to deal damage. Even though they will cast mantras, they won't deal damage while being attacked when casting a mantra. Or keep hitting them and spamming mantras on them.
 -   Fighting Songseeker Galebreathers with Songseeker Flamecharmers can be very annoying, and lethal. If you are planning to fight the two monks at the same time, make sure to know what you are doing otherwise you can get knocked easily.
 

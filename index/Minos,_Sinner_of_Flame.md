@@ -1,6 +1,6 @@
 ---
 title: "Minos, Sinner of Flame"
-revid: 123152
+revid: 137013
 source: https://deepwoken.fandom.com/wiki/Minos%2C_Sinner_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-**Minos, Sinner of Flame** is a powerful Starkindred apostate located at [Summer Isle](Summer_Isle.md), beside the Guild Hall. He must be defeated to progress the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md). He uses an alternate [Divine Longspear](Crazy_Slots.md), as well as [Flamecharm](Flamecharm.md). He combines Flamecharm Mantras with his Starkindred Mantras, and can quickly become overwhelming to someone inexperienced if they are attempting to kill him solo. He wears a red [Hivelord Mask](Hivelord_Mask.md), and an unknown [Outfit](Outfits.md) shared by the other Sinners.
+**Minos, Sinner of Flame** is a powerful Starkindred apostate located at [Summer Isle](Summer_Isle.md) beside the Guild Hall. He must be defeated to progress the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md). He uses an alternate version of the [Divine Longspear](Crazy_Slots.md), as well as [Flamecharm](Flamecharm.md). He combines Flamecharm Mantras with his Starkindred Mantras and can quickly become overwhelming to someone inexperienced if they are attempting to kill him solo. He wears a red [Hivelord Mask](Hivelord_Mask.md), and an unknown [Outfit](Outfits.md) shared by the other Sinners and the Flamecharm variant of [Necroskippers](Necroskipper.md).
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: Ata
-revid: 131710
+revid: 136998
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, Vendors, NPCs located in the Eastern Luminant]
@@ -150,4 +150,4 @@ Asta is located at [Meteor Isle](Meteor_Isle.md), she's on the street in the mid
 
 ## Trivia
 
--   Currently the best and most guaranteed way to obtain specific [Sparks](Mantra_Modifiers.md) without grinding.
+-   Currently the best and most guaranteed way to obtain specific [Sparks](Mantra_Modifiers.md) without grinding areas such as [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>).

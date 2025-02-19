@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 130875
+revid: 136984
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics, Quests]
@@ -135,3 +135,4 @@ An NPC located inside [The Lordsgrove](The_Lordsgrove.md).
 ## Trivia
 
 -   [Jeremiah](Jeremiah.md), located in the City of the Drowned in the [First Layer](First_Layer.md), serves a similar purpose, instead taking [Gems](Treasures.md).
+-   Often seen as a rip-off, as the price of 350 Notes may be rather steep considering the usually lackluster loot that can more easily be obtained by grinding

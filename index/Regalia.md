@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 136933
+revid: 137037
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -74,6 +74,8 @@ Grants unique dialogue with [The Legendary Boot](Legendary_Boot.md). Functionall
 When creating a character, you start with a hand of [Resonance](Resonance.md) draws.
 
 This cannot be obtained if you have the Tarnished Flaw, and requires you to obtain a resonance before you can get it.
+
+**This passes down if you wipe at level 10 or below, as do most of the Regalias. This allows players to easily farm [Echoes](Echoes.md) and Bell Pity. (Legendary Bells)**
 
 ### Noble[\[3\]](#cite-note-archnamedrop1-3)
 

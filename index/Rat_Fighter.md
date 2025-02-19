@@ -1,6 +1,6 @@
 ---
 title: Rat Fighter
-revid: 90840
+revid: 137010
 source: https://deepwoken.fandom.com/wiki/Rat_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Rat Warriors, not to be confused with the [Golden Warrior](Golden_Warrior.md), are exclusively found in the [Rat's Den](<Rat's_Den.md>), a sub-location of [Erisia](Erisia.md).
 
-They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldrons.md), a recolored Etrean Guard outfit and a pair of [Flameguard Boots](Flameguard_Boots.md).
+They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldrons.md), a recolored [Etrean Guard](Etrean_Guard.md) outfit and a pair of [Flameguard Boots](Flameguard_Boots.md).
 
 ## Moveset
 

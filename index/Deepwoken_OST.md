@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 133435
+revid: 137019
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links]
@@ -100,7 +100,7 @@ Using [Moonseye Tome](Moonseye_Tome.md)
 | 15 | [The Song Of Fathoms (Band Version)](https://soundcloud.com/naktigonis/the-song-of-fathoms-band-version) | 2:50 | [Instruments](Instruments.md) | File:The Song Of Fathoms (Band Version).mp3 |
 | 16 | [The Gideshu March (Band Version)](https://soundcloud.com/naktigonis/naktigonis-the-gideshu-march-band-version) | 2:43 | [Instruments](Instruments.md) | File:The Gideshu March (Band Version).mp3 |
 | 17 | [Carol of Resonances](https://soundcloud.com/naktigonis/carol-of-resonances) | 2:43 | [Instruments](Instruments.md) | File:Carol of Resonances.mp3 |
-| 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) | File:TheWindsinger'sDance.mp3 |
+| 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), The Blade Within | File:TheWindsinger'sDance.mp3 |
 | 19 | [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) | 4:32 | [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) | File:A God, Manufactured.mp3 |
 | TBA | Synthetic Deicide[\[2\]](#cite-note-naktimessage2-2) | TBA | [Chaser's Death](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
 | TBA | Bread And Roses[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |

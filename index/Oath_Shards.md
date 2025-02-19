@@ -1,6 +1,6 @@
 ---
 title: Oath Shards
-revid: 97853
+revid: 136996
 source: https://deepwoken.fandom.com/wiki/Oath_Shards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -21,4 +21,4 @@ Picture of an Oath Shard
 
 ## Trivia
 
--   It resembles a translucent version of the [Alloy](Pluripotent_Alloy.md)/[Enchant Stone](Enchant_Stone.md) model with a slight iridescent tint.
+-   It resembles a translucent version of the [Pluripotent Alloy](Pluripotent_Alloy.md) and [Enchant Stone](Enchant_Stone.md) models but with a slight iridescent tint.
