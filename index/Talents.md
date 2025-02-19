@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136928
+revid: 136959
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1482,6 +1482,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisite: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without this Talent, you will wipe through his flames.
+
+-   Simmerbloom \[Common Talent\] - M1's on Pleeksty's Inferno are now granted flames
+    -   Prerequisite: "Simmerbloom Diadem" Head Equipment.
 
 ### Innate (Aspect Talents)
 

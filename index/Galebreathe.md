@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 136835
+revid: 136950
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -105,10 +105,10 @@ Wind
 
 **Effect:** Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
 
--   Deals light-medium damage.
+-   Deals 37.79 DMG + 3.25 (if hit was against wall), 6.8 posture, 14s cd.
 -   Pushes people back and dazes them if they collide with something
 -   Does not apply hitstun from the blast.
--   Deals immense posture damage.
+
 -   Can break objects.
 -   Can be upgraded with Cloudstones, Stratus stones, Perfect lenses and Crystal Lenses to make it bigger and longer.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
@@ -147,7 +147,7 @@ Wind
 
 **Effect:** Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
 
--   Deals moderate-high damage (If both the initial and follow-up projectiles hit).
+-   Deals 133.96 (33.49\*4) DMG, 32.78 posture total (16.4 kick + 5.46\*3 hits), 8s cd.
 -   Projectile is medium-ranged and explodes on impact.
 -   Initial hit doesn't apply hit stun but pushes people away.
 
@@ -183,8 +183,8 @@ Wind
 
 **Effect:** Launch a wind projectile at cursor's position.
 
--   Deals light damage.
--   Can be improved with the "**Tempest Wind**" Talent_._
+-   Deals 33.07 DMG, 13 posture cd, 8s cd.
+-   Can be improved with the "**Tempest Wind**" Talent_, making it Rising Flame like attack that deals 53.82 dmg at 5 lvl_
 
  |
 | 
@@ -218,7 +218,8 @@ Wind
 
 **Effect:** Leap high into the air before diving down, striking any targeted opponent.
 
--   Deals moderate damage.
+-   Deals 51.43 DMG, 11 posture, 15s cd at 5 lvl.
+
 -   User moves towards the cursor.
     -   Highly recommended to turn off Shift-Lock to do this.
 -   Good mobility.
@@ -259,7 +260,10 @@ Wind + Slash
 
 **Effect:** Lunge forward with your weapon coated in wind.
 
--   Deals moderate damage.
+-   Deals 20.91 DMG, 8.6 posture, 13s cd at 5 lvl.
+
+damage.
+
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
 
@@ -295,7 +299,11 @@ Wind + Slash
 
 **Effect:** Conjure a wind AoE punch that deals damage and knocks targets away.
 
--   Deals Hitstun.
+-   Deals 62.79 (20.93\*3) DMG,27 (
+
+8.58\* ) posture, 9.5s at 5 lvl.cd
+
+-   Applies Hitstun.
 -   Can break objects.
 -   Can be modified with _Cloud/Stratus Stones_ and _Perfect/Crystal Lenses_ to increase size.
 -   Can be upgraded with the "_Vacuum Punch"_ Talent.
@@ -332,8 +340,9 @@ Wind
 
 **Effect:** Deploy a small green landmine at your cursor's location.
 
--   Stepping on it creates a tornado that deals light damage over a few seconds.
+-   Deals 38.87 (2.99\*13) DMG, 5.5 posture if thrown trap blocked, 13.78 posture if blocked entire active trap, 10s cd.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
+-   Stepping on Galetrap activates a mini tornado.
 -   Applies the _"Suffocate"_ status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 
@@ -369,9 +378,10 @@ Wind
 
 **Effect:** Conjure a small vortex around yourself, M1 to cast it forward.
 
--   Can be modified with logstones to increase duration, but caps at 1 or 2.
+  
+
 -   Moves forward on its own after 2 seconds.
--   Deals high damage but over multiple hits.
+-   Deals 17.7 + 0.89 DMG 12 times, 223 DMG total ,tornado lasts for 4.6 s, 1.3 posture per hit, 9s cd at 5 lvl.
 -   Projectile is short-ranged.
 -   Has a special interaction with Haunted Gale. Haunted gale caps at 2 strikes per mantra, but when Tornado moves, the cap resets, allowing another 2 strikes.
 -   Pulls people in if close to it (kinda buggy)
@@ -408,7 +418,7 @@ Wind + Slash
 
 **Effect:** Dash forwards kicking with a rush of winds dealing damage.
 
--   Deals moderate damage.
+-   Deals 58.36 (14.59\*4) DMG, 17.5 posture, 11s cd at 5 lvl.
 -   Can break objects.
 
  |
@@ -443,9 +453,8 @@ Wind + Slash
 
 **Effect:** Get ready to spin around and then create a burst of wind around you that goes upward
 
--   Deals high damage if all hits land.
+-   Deals 52.84 DMG, 23 posture, 13s cd at 5 lvl
 -   Sends opponents flying into the air.
--   Deals 21 posture damage.
 
  |
 | 
@@ -479,6 +488,7 @@ Wind + Slash
 
 **Effect:** Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
 
+-   Deals 10.76 dmg per projectile (43.04 total), 2.15 posture per projectile, 10s cd.
 -   Projectiles are homing.
 -   Medium-far range.
 -   Forces you to stand still when casted.
@@ -517,7 +527,7 @@ Wind + Blunt (Grab), Wind
 
 **Effect:** Grab your target before spinning them in 360 degrees and then tossing them.
 
--   Deals good-high damage.
+-   Deals 63.82 damage at 5 lvl + 6.2 dmg against wall, 9s cd
 -   Forcible Block Break (Only When Upgraded To Level 5).
 -   The second hit (The throw) ragdolls the opponent and the ragdoll is cancellable.
 -   Procs "Breathing Impact" if thrown at a wall.
@@ -558,9 +568,9 @@ Wind + Blunt
 **Effect:** Ascend while uppercutting your target, rapidly damaging them.
 
 -   Blocking it sends only the user into the air but cancels it after a small bit if it doesn't hit anyone after.
--   At level 5 It deals 12 damage 4 times, for a total of 58 damage.
--   It deals 5 posture damage.
--   Posturebreaking with this mantra won't continue it on to the multihits.
+-   Deals 63.28 (13.44+13.44+13.44+11.48+11.48) DMG, 5.5 posture, 14s cd.
+
+-   Posture breaking with this mantra won't continue it on to the multihits.
 -   Gems apply ONLY to the last hit, making bloodless' healing very low.
 -   Missing will not send the user into the air.
 -   Pressing F during the animation lets you kick them down into the ground which applies daze.
@@ -603,7 +613,7 @@ Wind + Slash
 **Effect:** Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
--   Deals light damage over multiple slashes.
+-   Deals 57.59 (4.43\*13), 13 posture total, 10s cd at 5 lvl.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to increase it's size. Puts the Carve ball further away with _Perfect Lenses_ and _Crystal Lenses_.
 -   Pushes opponents hit by the final slash away.
 -   Can be canceled once the mantra initiates.
@@ -640,7 +650,9 @@ Wind
 
 **Effect:** Fire a penetrating bullet of wind.
 
--   Deals heavy damage, pushes and ragdolls opponent; however applies no hit stun.
+-   Deals 57.41 DMG, 3.15 posture, 15s cd.
+-   Blast spark version deals 36.6 + 14. 15 against wall, 26 posture.
+-   Pushes and ragdolls opponent.
 -   Applies the _"Suffocate"_ status effect.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) in order to shoot multiple bullets at once.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot a round of short ranged bullets.
@@ -678,7 +690,7 @@ Wind + Slash
 
 **Effect:** Cast several fast, wind-enhanced slashes that form a star.
 
--   Deals _possibly moderate-heavy_ damage.
+-   Deals 51.85 DMG, 13.6 posture, has 15s cd.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 -   Last hit of the mantra sends the opponent upwards, sometimes even when parried. (Only at Mantra Lv: 2+)
 
@@ -785,7 +797,10 @@ Wind + Slash
 
 **Effect:** Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled.
 
--   Does heavy damage
+-   Deals 65.18 DMG, 16.5 posture, has 12s cd at 5 lvl
+
+ge
+
 -   Can be modified with Crystal/Perfect Lenses to increase the distance travelled, making it a very useful tool for horizontal mobility.
 -   Uses the [Shadow Assault](Shadowcast.md) startup sound.
 -   Can be used to clip through walls while in [The Second Layer](Second_Layer.md)

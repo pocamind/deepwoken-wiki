@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 136782
+revid: 136954
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -100,7 +100,7 @@ _A javelin of jagged bone._
  |
 | 
 
-\[missing, add\]
+60 Ether
 
  | 
 

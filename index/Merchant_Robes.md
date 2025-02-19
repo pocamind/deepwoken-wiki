@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 133699
+revid: 136958
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -20,7 +20,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants no resistances.
+This Outfit has 1200 durability and grants +10% Physical Armor and +5% Elemental Armor.
 
 This Outfit also grants the [Talent Card](Talents.md) _Merchant's Accord;_ Merchants and [Antiquarians](Antiquarian.md) will do business with you no matter how poor your reputation is.
 

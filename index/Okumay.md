@@ -1,6 +1,6 @@
 ---
 title: Okumay
-revid: 131746
+revid: 136956
 source: https://deepwoken.fandom.com/wiki/Okumay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -16,7 +16,7 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Second Floor of the Second 
 
 ## Description
 
-Okumay is a [Chrysid](Chrysid.md) located in [The Sunken Railways](The_Sunken_Railways.md). They are an engineer, and they appear to be fascinated in the Kyrsan structures and dreams of taking the technology to the surface and amassing a grand amount of wealth.
+Okumay is a [Chrysid](Chrysid.md) wearing the [Vigil Initiate](Vigil_Initiate.md) located in [The Sunken Railways](The_Sunken_Railways.md). They are an engineer, and they appear to be fascinated in the Kyrsan structures and dreams of taking the technology to the surface and amassing a grand amount of wealth.
 
 ## Dialogue
 

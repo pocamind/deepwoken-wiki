@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 133521
+revid: 136955
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -75,9 +75,9 @@ Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 30
 
 **Enforcer:**
 
-**"The last test was easy. How about this next test?"**
+**"The last test was easy. How about this next test?"** Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. ~800 HP. The Enforcer you get can be any variant: Axe, Sword or Hammer. (16 sword hits, consistent with all variants)
 
-Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. ~800 HP. The Enforcer you get can be any variant: Axe, Sword or Hammer. (16 sword hits, consistent with all variants)
+Easily the hardest part of the trial. If you can beat this, the rest should be easy.
 
 **Weakened Desert Knight:**
 
