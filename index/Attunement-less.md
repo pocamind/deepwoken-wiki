@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 136872
+revid: 137067
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -167,6 +167,7 @@ Blunt
 -   60/65/70/75/80 base damage per level
 -   96 damage at 100 Strength level 5
 -   2 Strength scaling
+-   Hits after the first one are 360 degree blockable.
 
  |
 | 

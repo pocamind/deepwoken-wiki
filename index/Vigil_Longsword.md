@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 136354
+revid: 137066
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals]
@@ -43,6 +43,6 @@ Performs an upward slash in front of the user dealing moderate to high posture d
     -   Meeting the alloyed requirement, the damage is (28.4)
 -   At max MED, the non-alloyed damage is (29)
     -   At max MED, the alloyed damage is (31.3)
--   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) but it has more dmg and speed in exchange for less pen. The Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
+-   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) but it has more dmg in exchange for less pen. The Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
 -   Its model was changed to match the length of its stats.
 -   The Vigil Longsword was given a unique crit on the January 25, 2025 update.

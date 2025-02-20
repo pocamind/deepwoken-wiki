@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 135344
+revid: 137068
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals]
@@ -42,3 +42,4 @@ Do a short wind-up before bursting out a flurry of EXACTLY 20 slashes.
 -   Instead of this, it's recommended to use a [Whaling Knife](Whaling_Knife.md) or a [Gilded Knife.](Gilded_Knife.md) (Unless you want the crit)
 -   Meeting the requirement of LHT, damage is (14.3)
 -   At max LHT, the damage is (19.3)
+-   Procs enchants 5 times if crit is fully landed

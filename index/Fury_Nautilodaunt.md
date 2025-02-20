@@ -1,9 +1,9 @@
 ---
 title: Fury Nautilodaunt
-revid: 136220
+revid: 137073
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Monsters, Furious fella]
 ---
 
 # Fury Nautilodaunt

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 136869
+revid: 137065
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,17 +8,17 @@ categories: [Monsters]
 
 # Enforcer
 
-“ The titans known as enforcer are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. ”
+“ The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. ”
 
-― enforcer's Axe description
+― Enforcer's Axe description
 
 Template:Creature Info Box v2
 
 ## **Description**
 
-**The enforcer** is a Depths [Mini-Boss](Bosses.md) that acts as the second to last trial of [The Depths](The_Depths.md) Trials, being a difficult trial for anyone that is unfamiliar with it. The enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths," but its origins are more complicated; according to the flavor text of [the](<Enforcer's_Blade.md>) [enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md) and were morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
+**The Enforcer** is a Depths [Mini-Boss](Bosses.md) that acts as the second to last trial of [The Depths](The_Depths.md) Trials, being a difficult trial for anyone that is unfamiliar with it. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths," but its origins are more complicated; according to the flavor text of [the](<Enforcer's_Blade.md>) [Enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md) and were morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
 
-The Axe enforcer is the main type, but there is also an enforcer's Hammer and enforcer's Blade variant. The only significant differences between these are minor changes in size, health, damage, and posture damage. Besides these, they act identically to normal enforcers.
+The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and Enforcer's Blade variant. The only significant differences between these are minor changes in size, health, damage, and posture damage. Besides these, they act identically to normal Enforcers.
 
 ## Attacks
 
@@ -27,7 +27,7 @@ The Axe enforcer is the main type, but there is also an enforcer's Hammer and en
 | 
 **High Swing**
 
- | The enforcer lifts its weapon high and swings it down. This is a slower attack that does high health and posture damage.  
+ | The Enforcer lifts its weapon high and swings it down. This is a slower attack that does high health and posture damage.  
 
 Parryable:◯  
 Blockable:◯  
@@ -40,7 +40,7 @@ Dodgeable:◯
 
 **Low Swing**
 
- | The enforcer puts its weapon to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than High Swing.  
+ | The Enforcer puts its weapon to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than High Swing.  
 
 Parryable:◯  
 Blockable:◯  
@@ -53,7 +53,7 @@ Dodgeable:◯
 
 **Kick**
 
- | The enforcer kicks straight forward, throwing anyone hit far back and dazing them. This does low damage, and now has a higher quality animation shown by the enforcer turning sideways and chambering its leg.  
+ | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. This does low damage, and now has a higher quality animation shown by the Enforcer turning sideways and chambering its leg.  
 
 Parryable:◯  
 Blockable:◯  
@@ -66,7 +66,7 @@ Dodgeable:◯
 
 **Whirlwind**
 
- | The enforcer begins to spin rapidly from the waist-up while holding its weapon out, walking towards the closest opponent (fairly slowly) to cut them apart. (Typically used after Kick if it lands)  
+ | The Enforcer begins to spin rapidly from the waist-up while holding its weapon out, walking towards the closest opponent (fairly slowly) to cut them apart. (Typically used after Kick if it lands)  
 
 Parryable:◯  
 Blockable:◯  
@@ -79,7 +79,7 @@ Dodgeable:◯
 
 **Space Pull**
 
- | The enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment. Currently, you are dropped before the enforcer attacks again. This attack is typically used at the start of the fight, or if the player **runs too far away**. (Disabled in [Hell Mode](Hell_Mode.md))  
+ | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment. Currently, you are dropped before the Enforcer attacks again. This attack is typically used at the start of the fight, or if the player **runs too far away**. (Disabled in [Hell Mode](Hell_Mode.md))  
 
 Parryable:✗  
 Blockable:✗  
@@ -90,7 +90,7 @@ Dodgeable:◯
 
 **Feint**
 
- | The enforcer swings its weapon and retracts it, catching the player off guard. | 
+ | The Enforcer swings its weapon and retracts it, catching the player off guard. | 
 
  |
 
@@ -98,52 +98,52 @@ Dodgeable:◯
 
 | Name | Media | Description |
 | --- | --- | --- |
-| Headsplitter |  | The enforcer holds its weapon up with one hand, and smashes it down on any player, killing them, a reference to the [Greataxes'](Greataxes.md) grip execution. |
+| Headsplitter |  | The Enforcer holds its weapon up with one hand, and smashes it down on any player, killing them, a reference to the GreatAxes' grip execution. |
 
 ## Passives
 
 -   **Resilient -** Monsters damage buffs are half as effective against them.
--   **Monster Resistance** - Physical attacks deal ??? less damage to enforcers.
+-   **Monster Resistance** - Physical attacks deal ?% less damage to Enforcers.
 
 ## **Combat**
 
-The enforcer is definitely a shake-up to the game's formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
+The Enforcer is definitely a shake-up to the game's formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
 
-The enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only (3700, 4000 or 4100 depending on the variant) health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 16 (this can get lower based on your drown count), it would have about 890 health. Still large, but nowhere too big. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits.
+The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only (3700, 4000 or 4100 depending on the variant) health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 16 (this can get lower based on your drown count), it would have about 890 health. Still large, but nowhere too big. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from Axe hits.
 
-Do not be deceived by these stats, though. The dangerous part of the enforcer isn't its stats, but its complexity and how it uses them. It draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy. It can chain together entire strings of parries, feints, basic attacks and special attacks. Even though the danger falls off in the far endgame, it can still kill any overconfident high level player. Ultimately, it's the definition of a skill check rather than a stat check.
+Do not be deceived by these stats, though. The dangerous part of the Enforcer isn't its stats, but its complexity and how it uses them. It draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy. It can chain together entire strings of parries, feints, basic attacks and special attacks. Even though the danger falls off in the far endgame, it can still kill any overconfident high level player. Ultimately, it's the definition of a skill check rather than a stat check.
 
 ### In General
 
--   Get familiar with the enforcer. Watch videos, watch guides with it, watch streams, watch as much as you can about the fight, and what goes down. Fighting it blindly on your first attempt, let alone on a power 17+ character, will surely lead to death. Its design and role are an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
--   The biggest thing about the enforcer is the feints; when it does this, dodge.
-    -   Holding F to parry will allow you to block the enforcer's following attack if it feints, but blocking is not as sustainable as dodging, and getting posture broken could be deadly.
-    -   Try to roll cancel when dodging enforcers; not putting distance between you and it will prevent it from getting an easy opportunity to Whirlwind, as it mostly uses its other attacks at medium to long range.
--   Whirlwind is by far its most heavy-hitting attack, but the enforcer can be outran and damaged with ranged attacks while it's spinning. Experienced players may be able to spam parry it (similarly to a [Rock Golem](Rock_Golem.md)'s spin) but this is inherently risky.
+-   Get familiar with the Enforcer. Watch videos, watch guides with it, watch streams, watch as much as you can about the fight, and what goes down. Fighting it blindly on your first attempt, let alone on a power 17+ character, will surely lead to death. Its design and role are an integral part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
+-   The biggest thing about the Enforcer is the feints; when it does this, dodge.
+    -   Holding F to parry will allow you to block the Enforcer's following attack if it feints, but blocking is not as sustainable as dodging, and getting posture broken could be deadly.
+    -   Try to roll cancel when dodging Enforcers; not putting distance between you and it will prevent it from getting an easy opportunity to Whirlwind, as it mostly uses its other attacks at medium to long range.
+-   Whirlwind is by far its most heavy-hitting attack, but the Enforcer can be outran and damaged with ranged attacks while it's spinning. Experienced players may be able to spam parry it (similarly to a [Rock Golem](Rock_Golem.md)'s spin) but this is inherently risky.
     -   Although more difficult and quite a bit more risky, you can actually m1 while spam parrying to deal more damage to it, and maybe even block break it
--   Use heavy attacks if possible. There's a chance that The enforcer will parry or block them, but if it lands, it will deal high damage and will usually posture break it, allowing you to hit it freely for a moment. Be wary on your timing though, as you won't want to be stuck charging a critical while it's Whirlwinding you.
-    -   Don't over-commit on counter attacks, the enforcer has permanent hyper-armor and cannot be stunned or dazed by normal M1s.
+-   Use heavy attacks if possible. There's a chance that The Enforcer will parry or block them, but if it lands, it will deal high damage and will usually posture break it, allowing you to hit it freely for a moment. Be wary on your timing though, as you won't want to be stuck charging a critical while it's Whirlwinding you.
+    -   Don't over-commit on counter attacks, the Enforcer has permanent hyper-armor and cannot be stunned or dazed by normal M1s.
     -   Feinting can force it to react defensively.
 
-All in all, keep your nerves hardened, don't be fooled by the intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so it's better to fight it on your own terms. Sending yourself to The Depths just to beat The enforcer for closure, even once, may serve as a huge confidence boost for the future.
+All in all, keep your nerves hardened, don't be fooled by the intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so it's better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, may serve as a huge confidence boost for the future.
 
-_**If you're a freshie reading this page and about to do the enforcer trial for the first time, good luck! Remember not to panic, and focus on parry trading. You got this!**_
+_**If you're a freshie reading this page and about to do the Enforcer trial for the first time, good luck! Remember not to panic, and focus on parry trading. You got this!**_
 
 ### Rewards
 
--   **[Enforcer's Axe:](<Enforcer's_Axe.md>)** An endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game. Requires 75 HVY to use.
+-   **[Enforcer's Axe:](<Enforcer's_Axe.md>)** An endgame weapon of choice for heavy users, this Axe has some of the highest damage potential in the game. Requires 75 HVY to use.
 -   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A greatsword that serves as a middle point between the Axe and Hammer, having a decent amount of posture damage and chip damage but lacking in the ability to instantly guardbreak. Fairly rare drop.
--   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the enforcer's Blade, the Hammer is also a rare drop. Boasts superior posture damage and requires 80 HVY and 25 STR to use.
--   **[Progress](Resonance.md):** The enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
--   **[Enforcer Eye](Enforcer_Eye.md):** A rare drop used to obtain the enforcer Pull [Monster Mantra](Monster_Mantras.md).
+-   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, the Hammer is also a rare drop. Boasts superior posture damage and requires 80 HVY and 25 STR to use.
+-   **[Resonance Progress](Resonance.md):** The Enforcer gives a moderate amount of Resonance EXP, and more if fought with the corresponding Nature.
+-   **[Enforcer Eye](Enforcer_Eye.md):** A rare drop used to obtain the Enforcer Pull [Monster Mantra](Monster_Mantras.md).
 
 ## Trivia
 
--   The enforcer can pull you through emotes that don't anchor you down; for example, the "Griddy" emote will not affect enforcer's pull, meanwhile the "Resting" emote will.
+-   The Enforcer can pull you through emotes that don't anchor you down; for example, the "Griddy" emote will not affect Enforcer's pull, meanwhile the "Resting" emote will.
 -   It is possible to cheese it by just running away and throwing potions/bombs or glitching outside the trial room and hitting it through the walls.
--   After the 18/07/2022 update, The enforcer cannot use its pull attack when Hell Mode is active, due to too many enforcers pulling people into the void.
--   During the weekly update for 21/11/2022, The enforcer could temporarily spawn as corrupted variants. This lead to 12000 health enforcers which did 100+ damage per hit, wiping many players.
--   enforcer's Eye and Giant Femur are the only Monster Mantra Drops to have boosted drop rates out of the other mobs that have one.
--   enforcer (Blade Variant) is smaller than enforcer (Axe Variant), Meanwhile enforcer (Hammer Variant) is bigger than enforcer (Axe Variant).
--   If The enforcer spawns attuned to Shadowcast and due to its black design, its animations can be semi-hidden by the particles.
--   Ironically, The enforcer is really easy to beat using their weapon critical. By parrying their attack once then using the enforcer weapon critical. Using these method repeatedly will kill The enforcer is a short time without getting any high risk to wipe.
+-   After the 18/07/2022 update, The Enforcer cannot use its pull attack when Hell Mode is active, due to too many Enforcers pulling people into the void.
+-   During the weekly update for 21/11/2022, The Enforcer could temporarily spawn as corrupted variants. This lead to 12000 health Enforcers which did 100+ damage per hit, wiping many players.
+-   Enforcer's Eye and Giant Femur are the only [Monster Mantra Drops](Monster_Mantras.md) to have boosted drop rates out of the other mobs that have one.
+-   The Enforcer's Blade Variant is physically smaller than The Enforcer's Axe Variant, Meanwhile The Enforcer's Hammer Variant is bigger than The Enforcer's Axe Variant.
+-   If The Enforcer spawns attuned to [Shadowcast](Shadowcast.md), due to its black effects, its animations can be semi-hidden by the particles.
+-   Ironically, The Enforcer is really easy to beat using their own weapon critical. By parrying their attack once then using the Enforcer weapon critical. Using this method repeatedly will kill The Enforcer in a short time without any risk of wiping.

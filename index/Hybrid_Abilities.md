@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 136313
+revid: 137063
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]

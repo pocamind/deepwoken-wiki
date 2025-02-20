@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 137015
+revid: 137059
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -149,7 +149,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 -   [Akira](Akira.md) is found as an encounter in [The Depths](The_Depths.md), within the outskirts of Celtor Wastes.
 -   Though a normally capable fighter who deals with deeper layers, the higher ups have reassigned him to the First Layer to take care of recruits, much to his chagrin.
--   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
+-   Akira wields a purple _**Corrupted**_ Resonance called Top-Pop, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
     -   This is probably another reason why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
     -   Strong enough opponents like Klaris will not be instantly killed by the bell.[\[1\]](#cite-note-rag-1) This explains why he retreats when you pick the Charisma option dialogue with 100 Charisma, fooled into thinking that you're too strong and that he can't use his bell to instantly kill you, or at least not without shaving a good amount of his lifeforce off.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
@@ -190,8 +190,10 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   He killed two more expeditions after this, and may have killed even more, such as [Ignition Union](The_Ignition_Union.md) members.
     -   One of his victims was an Ignition Union Deepdelver, presumably named Beta.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
+    -   His own resonance is called Soul Siphon. It lets him extract power from effigies of the dead and those stolen bells on his hips are those effigies.[\[4\]](#cite-note-vy-4)
 -   Though he is an [Adret](Adret.md), he has a never before seen facial markings for the aspect.
 -   User of Bloodrend, granted to him by the Second Prophet.[\[1\]](#cite-note-rag-1)
+-   He has a created his own special variant of the oath which is why he's known as the crimson scholar.[\[4\]](#cite-note-vy-4)
 -   Slightly less powerful than a Power 20 player.[\[1\]](#cite-note-rag-1)
 -   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity. The time dilation affects him because he is literally standing on top of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 -   Despite not using them in the fight against him, he uses a pair of [Flareblood Kamas](Flareblood_Kamas.md) designed and created by him during his time as an apprentice under the Second Prophet.[\[3\]](#cite-note-kamas-3)
@@ -545,8 +547,6 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - [Starswept Valley](The_Starswept_Valley.md) Flavor Text_
 
-  
-
 -   A desert land that occupies most of [Aratel Island](Aratel_Island.md); consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one of another.
 -   Blue stars of light rain down upon the Valley, thus getting the title of [Starswept](The_Starswept_Valley.md).
     -   Along with blue fragmented stars, Blue Meteorites containing [Meteor Knights](Stone_Knight.md) crash down from Constellia into the Valley as an encounter, emerging out of the rubble upon landing.[\[2\]](#cite-note-arch-2)
@@ -603,9 +603,9 @@ The Citadel
 
 ### Northern Luminant
 
--   A frozen Tundra.
+-   A frozen tundra.
 -   Said that the temperatures are so extreme, that it has become very lethal recently due to the temperatures going lower with the pass of time.
--   [Polis](Polis.md) originates from here.
+-   [Polis](Polis.md) originates from a region of the Northern Luminant called the Frozen Coast.
 -   Originally inhabited by the Elder Edenkite.
     -   The beheaded corpse of the Elder Edenkite who was killed by The Mad Steward remains there to this day.
 
@@ -818,7 +818,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   _(Gunsmith Rosen)_ The Leader of [Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." indicates he's still alive and retained as the Leader of Summer Company, though it may just mean spiritually.
     -   The recent creation of the Stormseye with Kyrsan Medallions seemingly confirms that Rosen is alive and still creating new types of guns.[\[7\]](#cite-note-stormseye-7)
--   [Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for Firearms in exchange for goods and the likings.
+-   [Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for firearms in exchange for goods and the liking.
     -   Despite the fact that the Rifle Spear's description say that [Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[2\]](#cite-note-arch-2)
         -   The [Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[2\]](#cite-note-arch-2)
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
@@ -1576,7 +1576,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 -   Contractors are people who had sworn an Oath to any of the Nine Prophets of the Ministry, granting them a fraction of what that Prophet is capable of.
 -   The Powers granted to a Contractor are not universal, as swearing the Oath to a different prophet may yield different results.
--   Since the Oath is directly tied to the will of the Prophet, getting stronger meant completing errands for them. In the case of Zi'eer, you are only tasked with banishing those who had sworn servitude under other causes in the Depths.
+-   Since the Oath is directly tied to the will of the Prophet, getting stronger means completing errands for them. In the case of Zi'eer, you are only tasked with banishing those who had sworn servitude under other causes in the Depths.
 -   The Oath effectively binds anyone in strict servitude of that Prophet and that Prophet alone. In other words, they become puppets and pawns of the Prophet's will.
     -   However, as explained by Vyrelda (and Chaser who she elaborates on), who are under Oath of the Second Prophet, one can be given more liberty if judged strong enough.
 -   Similar to how Blindseer and Visionshaper are two Oaths that are against each other. Contractors are a polar opposite Warmasters.
@@ -2062,7 +2062,7 @@ Though technically a blank slate of varying aspects and abilities, even the play
     -   Lightkeep draws from a verse of the Song called the Radiant Tones.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role as a Lightkeeper.
 -   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving the latter complete control over movement between Luminants.[\[2\]](#cite-note-arch-2)
--   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."_, Lightkeeping can be utilized to iluminate objects long lost to the Tides.
+-   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."_, Lightkeeping can be utilized to illuminate objects long lost to the Tides.
 -   The only Lightkeeper that we know of is the one mentioned by Nimea and Klaris, Viqh, the Lightkeeper of the Eastern Lighthouse.
 -   Apparently Lightkeepers can't leave their lighthouse at any cost, as told by Klaris, showing that they are of great value and can't be put to any risk.
 -   Lightkeepers are highly important for nautical travel between Luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'Petra's Dawn' was the only ship that has made the expedition between Luminants without any blessing from a Lightkeeper.
@@ -2231,7 +2231,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) [1.76](#cite-ref-rag-1-76) Developer ragoozer
 2.  ↑ [2.00](#cite-ref-arch-2-0) [2.01](#cite-ref-arch-2-1) [2.02](#cite-ref-arch-2-2) [2.03](#cite-ref-arch-2-3) [2.04](#cite-ref-arch-2-4) [2.05](#cite-ref-arch-2-5) [2.06](#cite-ref-arch-2-6) [2.07](#cite-ref-arch-2-7) [2.08](#cite-ref-arch-2-8) [2.09](#cite-ref-arch-2-9) [2.10](#cite-ref-arch-2-10) [2.11](#cite-ref-arch-2-11) [2.12](#cite-ref-arch-2-12) [2.13](#cite-ref-arch-2-13) [2.14](#cite-ref-arch-2-14) [2.15](#cite-ref-arch-2-15) [2.16](#cite-ref-arch-2-16) [2.17](#cite-ref-arch-2-17) [2.18](#cite-ref-arch-2-18) [2.19](#cite-ref-arch-2-19) [2.20](#cite-ref-arch-2-20) [2.21](#cite-ref-arch-2-21) [2.22](#cite-ref-arch-2-22) [2.23](#cite-ref-arch-2-23) [2.24](#cite-ref-arch-2-24) [2.25](#cite-ref-arch-2-25) [2.26](#cite-ref-arch-2-26) [2.27](#cite-ref-arch-2-27) [2.28](#cite-ref-arch-2-28) [2.29](#cite-ref-arch-2-29) [2.30](#cite-ref-arch-2-30) [2.31](#cite-ref-arch-2-31) [2.32](#cite-ref-arch-2-32) [2.33](#cite-ref-arch-2-33) [2.34](#cite-ref-arch-2-34) [2.35](#cite-ref-arch-2-35) [2.36](#cite-ref-arch-2-36) [2.37](#cite-ref-arch-2-37) [2.38](#cite-ref-arch-2-38) [2.39](#cite-ref-arch-2-39) [2.40](#cite-ref-arch-2-40) [2.41](#cite-ref-arch-2-41) [2.42](#cite-ref-arch-2-42) [2.43](#cite-ref-arch-2-43) [2.44](#cite-ref-arch-2-44) [2.45](#cite-ref-arch-2-45) [2.46](#cite-ref-arch-2-46) [2.47](#cite-ref-arch-2-47) [2.48](#cite-ref-arch-2-48) [2.49](#cite-ref-arch-2-49) [2.50](#cite-ref-arch-2-50) [2.51](#cite-ref-arch-2-51) [2.52](#cite-ref-arch-2-52) [2.53](#cite-ref-arch-2-53) [2.54](#cite-ref-arch-2-54) [2.55](#cite-ref-arch-2-55) [2.56](#cite-ref-arch-2-56) [2.57](#cite-ref-arch-2-57) [2.58](#cite-ref-arch-2-58) [2.59](#cite-ref-arch-2-59) [2.60](#cite-ref-arch-2-60) [2.61](#cite-ref-arch-2-61) [2.62](#cite-ref-arch-2-62) [2.63](#cite-ref-arch-2-63) [2.64](#cite-ref-arch-2-64) [2.65](#cite-ref-arch-2-65) [2.66](#cite-ref-arch-2-66) [2.67](#cite-ref-arch-2-67) [2.68](#cite-ref-arch-2-68) [2.69](#cite-ref-arch-2-69) [2.70](#cite-ref-arch-2-70) [2.71](#cite-ref-arch-2-71) [2.72](#cite-ref-arch-2-72) [2.73](#cite-ref-arch-2-73) [2.74](#cite-ref-arch-2-74) [2.75](#cite-ref-arch-2-75) [2.76](#cite-ref-arch-2-76) [2.77](#cite-ref-arch-2-77) [2.78](#cite-ref-arch-2-78) Developer Arch\_Mage
 3.  ↑ [3.0](#cite-ref-kamas-3-0) [3.1](#cite-ref-kamas-3-1) [3.2](#cite-ref-kamas-3-2) [3.3](#cite-ref-kamas-3-3) [Flareblood Kamas](Flareblood_Kamas.md) description
-4.  ↑ [4.0](#cite-ref-vy-4-0) [4.1](#cite-ref-vy-4-1) [4.2](#cite-ref-vy-4-2) [4.3](#cite-ref-vy-4-3) [Vyrelda](Vyrelda,_Master_of_Blood.md)
+4.  ↑ [4.0](#cite-ref-vy-4-0) [4.1](#cite-ref-vy-4-1) [4.2](#cite-ref-vy-4-2) [4.3](#cite-ref-vy-4-3) [4.4](#cite-ref-vy-4-4) [4.5](#cite-ref-vy-4-5) [Vyrelda](Vyrelda,_Master_of_Blood.md)
 5.  ↑ [5.0](#cite-ref-firstlight-5-0) [5.1](#cite-ref-firstlight-5-1) [5.2](#cite-ref-firstlight-5-2) [5.3](#cite-ref-firstlight-5-3) [5.4](#cite-ref-firstlight-5-4) [5.5](#cite-ref-firstlight-5-5) [5.6](#cite-ref-firstlight-5-6) [5.7](#cite-ref-firstlight-5-7) [First Light](First_Light.md) description
 6.  ↑ [6.0](#cite-ref-doc-6-0) [6.1](#cite-ref-doc-6-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 7.  ↑ [7.0](#cite-ref-stormseye-7-0) [7.1](#cite-ref-stormseye-7-1) [7.2](#cite-ref-stormseye-7-2) [Stormseye](Stormseye.md) description
