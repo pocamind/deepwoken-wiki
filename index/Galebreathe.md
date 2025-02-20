@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 137047
+revid: 137095
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -854,7 +854,7 @@ N/A
  |
 | 
 
-**Effect:** _Spawns a spherical wisp of wind. Requires ritual casting._
+**Effect:** _Spawns a spherical wisp of wind. Requires Ritual Casting._
 
 -   Grants 30% fall damage resistance.
 -   Haunted Gale and Haunted Path: Specter require one less perfect casted mantra hit to activate (3 -> 2).
@@ -1348,7 +1348,7 @@ N/A
     -   It is the only Attunement to be able to do this without any evolution paths.
 -   Allows for the most agile and swift mobility in Deepwoken.
 -   **Heavenly Wind** may also double as a mobility mantra as you can take advantage of its upward boost by cancelling the mantra.
--   **Wind Blade** with its Talent can double as a very decent ranged/melee attack and an upgraded version of uppercut.
+-   **Wind Blade** with its Talent "_Tempest Leap_" can double as a very decent ranged/melee attack and an upgraded version of uppercut.
 -   The "_Gale Leap_" Talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
 -   The majority of Galebreathe mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.
 -   The wind phantom visual from the "_Haunted Gale_" Talent appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.[\[2\]](#cite-note-2)

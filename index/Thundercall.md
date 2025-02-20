@@ -1,9 +1,9 @@
 ---
 title: Thundercall
-revid: 136976
+revid: 137094
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Attunement]
+categories: [Attunement]
 ---
 
 # Thundercall
@@ -22,13 +22,11 @@ _A Thundercall infused sword_
 
 Thundercall makes use of a highly unpredictable nature due to its speed and high slow/stun potential.
 
-## Obtainment & Training
-
-### Obtainment
+## Obtainment
 
 The [Attunement Trainer](Attunement_Trainers.md), [Funke](Funke,_Master_of_Thunder.md), can be located in one of the rooms on the upper level of the [Summer Isle castle](Summer_Isle.md#the-castle). When speaking to him, he will request five (5) [Spark Glands](Spark_Gland.md). If you have obtained Thundercall previously on your account, he will request two (2) Spark Glands instead. Once you give him the Spark Glands, he will hand you the [Sparkgland Potion](Attunement_Potions.md); drink this to obtain Thundercall.
 
-### Training
+## Training
 
 Thundercall can be trained with a combination of the [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) and using Thundercall Mantras.
 
@@ -831,7 +829,7 @@ N/A
  |
 | 
 
-**Effect:** _Conjure a wisp of lightning that applies "Sapping" to a target upon being uppercut or flourished._
+**Effect:** _Conjure a wisp of lightning that applies "Sapping" to a target upon being uppercut or flourished. Requires Ritual Casting._
 
 -   **Sapping** increases the target's mantra cooldown.
 -   \[\] Second Cooldown.
@@ -1554,7 +1552,6 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 -   During the early days of Deepwoken, Grand Skewer was notorious for a bug that allowed it to instantly kill whatever it hit if an entity was already stuck on it. This often occurred when the already-skewered victim died. Dying to this bug would take lives in the overworld and wipe you in [The Depths](The_Depths.md), and it was fixed a little over two months after the game's release.
     -   For this reason, [Legion Snipers](Legion_Sniper.md) were considered to be fairly dangerous when fought as a group.
 -   **Emotion Wave** is a direct reference to the Ancient Dragons' Lightning Spear incantation from Elden Ring
--   **The source for thundercall mantras damage**[\[2\]](#cite-note-2)
 -   It is said by [Neero](Neero.md) that Thundercall can "power" golems to "give life" to them.
 -   The [Railblade](Railblade.md) was originally intended to be a legendary weapon for this attunement.
 
@@ -1565,6 +1562,3 @@ Sound from Occult A+B
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)
-    
-    File:Thundercall mantras damage.png

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 136838
+revid: 137100
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -18,18 +18,20 @@ Shadowcast icon
 
 **Shadowcast** is an [Attunement](Attunements.md) that, if previously unlocked, can be started with. It is unique due to the fact that it drains Ether from those that are hit by its Mantras and returns the drained Ether to the caster. This does come at a cost to its damage output, which tends to be a little lower. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast Talents are centered on Ether drain, obscuring vision and AoE.
 
-## Obtainment & Training
+## Obtainment
 
-Shadowcast can be trained with a combination of the Pure Heart and Shadowcast Mantras, or eating [Umbral Obsidian](Umbral_Obsidian.md).
+The [Attunement](Attunements.md) can be unlocked by drinking a [Nightblood potion](Attunement_Potions.md) obtained from [Nostor](Nostor,_Master_of_Shadow.md) in the [The Depths](First_Layer.md) inside the [The City of the Drowned](The_City_of_the_Drowned.md), requiring 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md). You don't have to venture back into the depths to upgrade Shadowcast Mantras however, as [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She will upgrade your Mantras but not allow you to obtain Shadowcast. Shadowcast is unlocked permanently from the character creation screen.
+
+## Training
+
+Shadowcast can be trained with a combination of the [Pure Heart](Training_Gear.md#attunement-training-gears) and using Shadowcast Mantras, or eating [Umbral Obsidian](Umbral_Obsidian.md).
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At 1 Shadowcast, players will receive the _Shadowcaster_ Talent. This allows players to obtain 0-star Shadowcast Mantras
--   At 20 Shadowcast, players will receive the _Adept Shadowcaster_ Talent. This allows players to obtain 1-star Shadowcast Mantras
--   At 30 Shadowcast, players will receive the _Expert Shadowcaster_ Talent. This allows players to obtain 2-star Shadowcast Mantras
--   Finally, at 50 Shadowcast, players will receive the _Master Shadowcaster_ Talent. This allows players to obtain 3-star Shadowcast Mantras
-
-The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [The City of the Drowned](The_City_of_the_Drowned.md), using 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. You don't have to venture back into the depths to upgrade it, however, [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She can upgrade your Mantras but not give you Shadowcast. Shadowcast is unlocked permanently like other elements and can be started with after being unlocked. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
+-   At 1 Shadowcast, players will receive the _Shadowcaster_ Talent. This allows players to obtain 0-star Shadowcast Mantras.
+-   At 20 Shadowcast, players will receive the _Adept Shadowcaster_ Talent. This allows players to obtain 1-star Shadowcast Mantras.
+-   At 30 Shadowcast, players will receive the _Expert Shadowcaster_ Talent. This allows players to obtain 2-star Shadowcast Mantras.
+-   Finally, at 50 Shadowcast, players will receive the _Master Shadowcaster_ Talent. This allows players to obtain 3-star Shadowcast Mantras.
 
 -   To upgrade a Shadowcast Mantra from level 1 to level 2 costs.
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
@@ -816,9 +818,8 @@ N/A
  |
 | 
 
-**Effect:** _Cloaks the caster in darkness and reduces their visibility._
+**Effect:** _Cloaks the caster in darkness and reduces their visibility. Requires Ritual Casting._
 
--   This Mantra is Ritual Casted.
 -   Grants passive tempo regeneration
 -   Visibility reduction towards the caster is reduced
 -   Currently can bug, not allowing you to complete the ritual cast and requiring you to holster your weapon.

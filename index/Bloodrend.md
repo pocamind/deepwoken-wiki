@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 136936
+revid: 137101
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -20,9 +20,7 @@ Bloodrend Icon
 
 Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. However, Bloodrend is difficult to make use of outside of single target combat, as blood poison decays, making it hard to achieve high percentages of it against multiple enemies.
 
-## Obtainment & Training
-
-### Obtainment
+## Obtainment
 
 The [Attunement Trainer](Attunement_Trainers.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), can be located in an igloo on the east side of Firfire Village, caring for an injured diver. She is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) at least once. After killing Chaser, re-enter Layer 2 and go talk with Vyrelda - she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the Ministry's goons for so long, who are aching for her. She mentions "Bloodrend" and how she only wished to be taught under the Second for purely the attunement - no ties, no relationships…
 
@@ -33,10 +31,9 @@ Walk out the building, and run around the village for a while. The blood-renders
 \***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [Light Hook](Light_Hook.md) to leave L2**
 
   
-
 After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her.) It will also be available from the [character creation](Character_Creation.md) screen. She can train your mantras in exchange for Notes.
 
-### Training
+## Training
 
 Bloodrend can be trained with a combination of the Tourniquet and Bloodrend Mantras.
 
@@ -556,6 +553,7 @@ Blood
 -   At level 5 and if all the ticks of damage landed (can be vented) this mantra deals 70 damage.
 -   Deals about 11 posture damage.
 -   Switches targets when it cannot hit the previous one.
+-   Can be modified with Vibrant Gems to increase the duration.
 -   Can be modified with a Multiplying Spark, triggering in 2 bursts and stunning the target for a bit longer.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 136741
+revid: 137103
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -32,7 +32,8 @@ Knowledge is a special in-game currency that can be used to engage in a deals wi
 
 Achieving milestones and completing certain quests will award the player with Knowledge.
 
--   Spawning in with the Inheritance [Regalia](Regalia.md), which gives 50 Knowledge on spawn. This Regalia persists on wipe if your Power was low enough on your previous slot.
+-   Spawning in with the Insightful [Regalia](Regalia.md#insightful), this does not outright grant Knowledge, but instead increases all Knowledge gain by 1.5x. If you were to normally gain an odd number of Knowledge, it will round up to the nearest whole number instead of granting you 0.5 Knowledge. This Regalia persists on death if your level was low enough when you wiped.
+-   Spawning in with the Inheritance [Regalia](Regalia.md#inheritance), which gives 50 Knowledge on spawn.
 -   Choosing your first [Resonance](Resonance.md), awarding 5 Knowledge. (Note: You have to **CHOOSE** the [Resonance](Resonance.md), meaning you're only awarded the knowledge after you pick your desired [Resonance](Resonance.md))
 -   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level, with the maximum being 5 Knowledge. _The currency is granted to every slot upon **creation of a new character**. It won't be given to already-existing characters._
 -   Gaining [Power](Power.md), awarding 1 Knowledge per Power level, with the maximum being 19 Knowledge.
@@ -70,7 +71,9 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 -   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
 -   Engaging in a deal with **Shrine of Conceit** or **Shrine of Mastery**, uses 1 Knowledge.
 -   Engaging in a deal with **Shrine of Division**, uses 5 knowledge.
--   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), uses 15 Knowledge. If you wish to stack Clarity wishes, it costs an extra 5 each stack.
+-   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), uses 15 Knowledge. If you wish to stack Clarity wishes, it costs an extra 5 on top of the previous Knowledge cost.
+-   Purchasing an item from a [Blacksmith](Blacksmith.md) using [Seasonal Medals](Seasonal_Medals.md), this can range from 1 to 10 Knowledge depending on the item.
+-   Purchasing [Enchant Grease](Enchant_Grease.md) from [Laplace](Laplace.md), costing 5 Knowledge per Grease.
 
 -   Knowledge functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage_ and _Tales from the Valley_, which in turn are references to _[Insight](https://bloodborne.fandom.com/wiki/Insight)_ from _Bloodborne_.
 -   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding (unless you are in need of emergency Knowledge before using Shrine of Order).

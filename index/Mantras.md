@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 136046
+revid: 137085
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -47,7 +47,7 @@ Mantra Cancelling is exactly what it sounds. You cancel a Mantra, which essentia
 
 Ranged Mantra Resistance; Standing from the center of the green circle, their is no scaling while red is where ranged resistance scaling starts and ends, past that, full resistance is applied.
 
-Ranged Mantras are any Mantra that can deal damage from at least 30 studs away, these Mantras have their damage fall off, reaching fully ranged resistance past 60 studs, Certain enemies like [Scion](Scion_of_Ethiron.md) do not have this resistance while other enemies such as the [Megalodaunts](Megalodaunt.md) do have ranged resistance. Humanoid mobs such as the [Bandit Leader](Bandit_Leader.md) can roll and block ranged attacks, but this does not apply to most monster mobs like the Megalodaunt that cannot block or roll.
+Ranged Mantras are any Mantra that can deal damage from at least 30 studs away, these Mantras have their damage fall off, reaching fully ranged resistance past 60 studs, Certain enemies like the [Scion of Ethiron](Scion_of_Ethiron.md) do not have this resistance while other enemies such as the [Megalodaunts](Megalodaunt.md) do have ranged resistance. Humanoid mobs such as the [Bandit Leader](Bandit_Leader.md) can roll and block ranged attacks, but this does not apply to most monster mobs like the Megalodaunt that cannot block or roll.
 
 ## Upgrading Mantras
 

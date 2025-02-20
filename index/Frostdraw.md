@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 136973
+revid: 137093
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1078,7 +1078,7 @@ N/A
  |
 | 
 
-**Effect:** _Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully._
+**Effect:** _Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully. Requires Ritual Casting._
 
 -   Shoots a beam of ice ~0.5 seconds after landing a vent that applies chill and deals ~6 damage.
 -   Leveling up the Mantra increases the size of the ice floors, and damage of the beam.

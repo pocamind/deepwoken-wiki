@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 137067
+revid: 137102
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -22,9 +22,9 @@ Most of your mantras focus on your physical and mental capabilities instead of a
 
 In spite of its shortcomings, the potential of Attunement-less is nothing to scoff at, as stat points normally allocated to Attunements can instead be used to obtain Talents, as well making obtaining high investment Talents more worthwhile should a powerful combat mantra scale off the same points.
 
-## Upgrading Mantras
+## Training
 
-The Attunement-less mantra trainer [Regek](Regek.md) can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.) Alternatively, you can use the Songwright in the guild base (if you hired him already)
+The Attunement-less Mantra trainer [Regek](Regek.md) can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.) Alternatively, you can use the Songwright in the guild base (if you hired him already)
 
 Otherwise, you can use the Mantra Trainer in the guildbase without having to do a quest.
 
@@ -643,7 +643,7 @@ _Launch quick and devastating kicks._
 
  | 
 
-\[missing, add\]
+Blunt
 
  | 
 
@@ -653,6 +653,8 @@ _Launch quick and devastating kicks._
 | 
 
 **Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
+
+-   Upgraded with points invested into Agility.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Galewax
-revid: 120710
+revid: 137088
 source: https://deepwoken.fandom.com/wiki/Galewax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 1]
@@ -16,4 +16,4 @@ categories: [Items, Layer 2, Floor 1]
 -   Galewax you collect disappears from your inventory when you beat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and go back up to [layer 1](First_Layer.md).
 -   You need to complete the Galewax quest to get a [Deepshore Fossil](Deepshore_Fossil.md)
 
-Galewax is also used in the recipes for the [Delver Boots](Delver_Boots.md), boots that negate the [Eternal Gale](Second_Layer.md)'s flinging effects, and the [Wormwarder Lantern](Wormwarder_Lantern.md), which negates all parasites. However, because Galewax disappears when you leave [L2](Second_Layer.md), you either need the Talent Master Craftsman, or you need to use the crafting station in [The Frontier Furnace](The_Frontier_Furnace.md).
+Galewax is also used in the recipes for the [Delver Boots](Delver_Boots.md), boots that allow you negate the [Eternal Gale](Second_Layer.md)'s flinging effects, and the [Wormwarder Lantern](Wormwarder_Lantern.md), which negates all parasites. However, because Galewax disappears when you leave [L2](Second_Layer.md), you either need the Talent Master Craftsman, or you need to use the crafting station in [The Frontier Furnace](The_Frontier_Furnace.md).

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 136866
+revid: 137092
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -18,7 +18,7 @@ Ironsing Icon
 
 **Ironsing** is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen Talents.
 
-## Obtainment & Training
+## Obtainment
 
 The [Attunement Trainer](Attunement_Trainers.md), [Adar](Adar,_Master_of_Metal.md), can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. **If you have obtained Ironsing before, obtaining a [Pluripotent Alloy](Pluripotent_Alloy.md) and talking to the blacksmith is not required.** Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md).
 
@@ -37,7 +37,7 @@ After you give him these ores, he will give you an Alloyed Elixir. Drink the Eli
 
 The easiest way to obtain all of the required ores without visiting [The Depths](The_Depths.md) is to visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md), which can drop all the ores necessary or alternatively you can obtain them from the [Saramaed Hollow](Saramaed_Hollow.md) fairly easily.
 
-### Training
+## Training
 
 Ironsing can be trained with a combination of the Ferrofluid and Ironsing Mantras.
 
@@ -882,12 +882,12 @@ Metal
  |
 | 
 
-**Effect:** _Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight._
+**Effect:** _Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight. Requires Ritual Casting._
 
 -   Deals 21 DMG per hit, 0.85s windup to cast, 0.55s delay between shots, lasts 20 seconds, 30s CD
 -   Has 9.4x PVE scale (21 DMG PVP, 197.63 IN PVE)
 -   Each shot applies a Metal Rod on hit
--   Requires a ritual cast with two keys + modifiers make it more key casts.
+-   Requires a ritual cast with two keys + adding modifiers increases the number of keys.
 -   Can be modified with Aeon/Eternal Logstones to increase duration.
 -   Can be modified with Drift/Rush Shards to make turret spin faster.
 -   Can be modified with a Multiplying Spark to conjure two turrets instead of one
@@ -922,11 +922,10 @@ N/A
  |
 | 
 
-**Effect:** _Conjure a metal wisp that regenerates armor durability._
+**Effect:** _Conjure a metal wisp that regenerates armor durability. Requires Ritual Casting._
 
 -   Regenerates 10% FIXED % of armor at level 5.
 -   Applies Metal Rod on vents.
--   Requires a ritual cast.
 -   Armor Regeneration is scaled with level.
 -   Armor Regeneration will only be triggered when none of it is wasted. (After 5 seconds of not being hit)
 
