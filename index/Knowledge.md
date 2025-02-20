@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 137113
+revid: 137153
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -53,7 +53,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Killing the [Scion of Ethiron](Scion_of_Ethiron.md) for the first time, awarding 2 Knowledge.
 -   Killing a [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
 -   Killing the following monsters for the first time, awarding 1 Knowledge each:
-    -   [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Megalodaunt](Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md), [Rock Golem](Rock_Golem.md), [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md).
+    -   [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Megalodaunt](Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md), [Rock Golem](Rock_Golem.md), [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md).
 -   Using the [Moonseye Tome](Moonseye_Tome.md) relic, which grants 100 Knowledge the first time, then 50 Knowledge for each subsequent uses.
 -   Completing waves in [The Diluvian Mechanism](The_Diluvian_Mechanism.md), which gives around 20 Knowledge in total when completing through wave 50.
 -   Completing [Hell Mode](Hell_Mode.md), which gives 15 Knowledge to each player who rang the bell when finished.

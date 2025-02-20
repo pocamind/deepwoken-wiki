@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 136906
+revid: 137126
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1, Oath Trainer]
@@ -22,9 +22,9 @@ The Shrine of Yun’Shul is a unique interactable shrine found in [Scyphozia](Fi
 
 The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him.
 
-Speaking with Yun'Shul will show another dialouge for [Soulbreaker](Oath%253A_Soulbreaker.md) [Oath](Oaths.md) after meeting all requirements, this is the 2nd to last step.
+Speaking with Yun'Shul will show another dialogue for getting the [Soulbreaker](Oath%253A_Soulbreaker.md) [Oath](Oaths.md) after meeting all requirements, the second to last step.
 
-It's possible to interact with the shrine at range using [Idol of Yun'Shul](Relics.md) [Relic](Relics.md). This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it- to get the most mileage out of it, you should be unable to obtain a wish from the shrine itself by the time you use it.
+It's possible to interact with the shrine at range using the [Idol of Yun'Shul](Relics.md). This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it; though, it can still be used without a wish - to get the most mileage out of it, you should be unable to obtain a wish from Yun'Shul's _shrine_ itself by the time you use it.
 
 ## Wishes
 
@@ -36,7 +36,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
     -   A wish can be obtained by levelling up 3 times, via the use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge.
         -   Misérables in particular enables you to stack wishes. Its Clarity transaction will cost 5 more [Knowledge](Knowledge.md) for each wish you already have.
     -   Wishes are occasionally granted on updates.
--   [Tarnished](Boons_and_Flaws.md) prevents you from rerolling your Resonance.
+-   [Tarnished](Boons_and_Flaws.md) prevents you from rerolling your Resonance, as well as debuffing it.
     -   You can remove it at [Yamaketzal](Yamaketzal.md) for 1000 Notes, at [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 Knowledge, or by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md) (which also grants a wish.)
 
   
@@ -57,7 +57,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
 6.  "**The Vows I made to keep an Oath no longer suit my ideals. I wish for a new path."**
     -   Removes your current [Oath](Oaths.md). Gives a disclaimer prior to breaking it, warning you that becoming an Oathbreaker has its own consequences. Upon breaking an Oath, you will receive a dialogue from your Oath-giver along with other potential consequences.
 7.  "**I wish for my Soul's Murmur to be highly strung no longer."**
-    -   Your current [Murmur](Murmur.md) will be removed without any further notice or opportunity for confirmation. This action can be done multiple times but will cost you your murmur and a wish. You can still regain the same Murmur afterwards(Murmur Rhythm is currently bugged and you CAN'T get it again after removing it).
+    -   Your current [Murmur](Murmur.md) will be removed without any further notice or opportunity for confirmation. This action can be done multiple times but will cost you your murmur and a wish. You can still regain the same Murmur afterwards (Murmur: Rhythm is currently bugged and you **CAN'T** get it again after removing it).
     -   If you wipe after your Murmur is removed, you won't receive the Echoes for having it, and you'll have to get a Murmur again.
 
 ## Trivia
@@ -66,4 +66,4 @@ If you meet all the criteria, you are able to make one of seven wishes:
 -   You are combat tagged immediately upon speaking to Yun'Shul’s shrine without a Resonance, making it impossible to survive.
 -   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
 -   There is an [Enchantment](Enchantments.md) named after Yun'Shul, the Curse of Yun'Shul.
--   The objects in the shrine’s temple are [Deep Shrines](Deep_Shrines.md), in fact, every [Deep Shrines](Deep_Shrines.md) in the game can be found in the [Temple of Hearts](Temple_of_Hearts.md).
+-   The objects in the shrine’s temple are [Deep Shrines](Deep_Shrines.md), in fact, every [Deep Shrine](Deep_Shrines.md) in the game can be found in the [Temple of Hearts](Temple_of_Hearts.md).

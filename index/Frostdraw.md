@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 137108
+revid: 137124
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -20,7 +20,7 @@ Frostdraw icon
 
 Landing Frostdraw [Mantras](Mantras.md) applies Chill, which slows down enemies and is able to be improved upon with certain [Talents](Talents.md). Adding [Logstones](Mantra_Modifiers.md) to certain Mantras can increase the duration of Chill.
 
-## Trainings
+## Training
 
 A Hemafrosted Capra casting a beam of ice.
 

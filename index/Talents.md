@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 136960
+revid: 137146
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3095,7 +3095,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor.
     -   Prerequisites: 50 Heavy Weapon, Heavy Weapon equipped.
-    -   Since the November 30th, 2024 update, earlier inability to proc Hyperarmor weapons: Pyrekeeper, Railblade and Greataxes now have return Hyperarmor swings on parry, which means that Brutal Momentum works on them.
 
 -   Matador \[Common Talent\] - Deal +20% more damage to human enemies with hyperarmor.
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).

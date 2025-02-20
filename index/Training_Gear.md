@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 129719
+revid: 137130
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement]
@@ -322,5 +322,6 @@ A held hearthgem
 -   You can slowly train your attributes by spamming the corresponding Training Gears, all EXCEPT for the Weapon Manual.
 -   There's a [quest](Quests.md) at the [Isle of Vigils](Isle_of_Vigils.md) sparring room that grants you EXP for letting an NPC have one use of your Weapon Manual.
 -   You can train core attributes using [Lotus Flasks](Ingredients.md).
+-   Ferrofluid is a real thing. It is a liquid with magnetic nanoparticles suspended in the fluid.
 -   The Hearthgem is the only training item where its description has an uncapitalized name of its [Attunement](Attunements.md).
     -   "flamecharm" vs "Frostdrawing" "Thundercall" "Galebreathing" "Shadowcast" "Ironsinging" "Bloodrending"

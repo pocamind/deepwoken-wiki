@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 134902
+revid: 137136
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies]
@@ -16,9 +16,9 @@ Template:Creature Infobox V3
 
 ## Description
 
-They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive, which explains its unique abilities to create life with every attack. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), however it's size is not to be underestimated. They wield incredible power and can easily take out an inexperienced player.
+It has a brown wood-like appearance, with foliage around its legs, resembling wires. It also sports a Hive logo made of wood on its torso. It is powered by the Lifeweaving technology of the Hive, which explains its unique abilities to create life with some attacks. It is shorter than a [Megalodaunt](Megalodaunt.md), however it's size is not to be underestimated. It wields incredible power and can easily take out an inexperienced player.
 
-They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one and are underleved / unprepared, run as fast as you can. It can be tipped over, so if you have [Flame Balista](Flamecharm.md#combat-mantras), [Grand Javelin](Thundercall.md#combat-mantras) or [Wind Gun](Galebreathe.md#combat-mantras), you can use them to stun it to aid your escape.
+It cannot climb, but does walk very fast, so if you're unlucky enough to encounter one and are underleved / unprepared, it is recommended to run away. It can be tipped over, so if you have [Flame Balista](Flamecharm.md#combat-mantras), [Grand Javelin](Thundercall.md#combat-mantras) or [Wind Gun](Galebreathe.md#combat-mantras), you can use them to stun it to aid your escape.
 
 ## Spawn Locations
 
@@ -28,9 +28,8 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 
 | Name | Animation | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Punch** | TBA | The Construct quickly swings downwards, dealing high damage. | ◯ | ✗ | ◯ | (★☆☆) |
-| **Stomp** | TBA | The Construct steps on the ground, dealing high damage. Hard to notice as the animation is so subtle. This can combine with their walking animation, disguising the attack making it impossible to avoid or parry without predicting it. | ◯ | ✗ | ◯ | (★★☆) |
-| **Swing** | TBA | The Construct uncoils its arms and swings them upwards, dealing high damage (~100) and insta-grips/insta-executes if the damage done exceeds player's remaining health.
+| **Stomp** | TBA | The Construct steps on the ground, dealing high damage. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Swing** | TBA | The Construct uncoils its arms and swings them upwards.
 -   Flings and ragdolls player.
 
  | ✗ | ✗ | ◯ | (★★☆) |
@@ -43,24 +42,20 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
  | ◯ | ✗ | ◯ | (★★★) |
 | **Lifeweave Flourish** | 
 
- | Punches or steps on the ground dealing high damage, and spawning temporary trees with every step, allowing it to climb some short walls. Heavily blocks your vision, so if you're cheesing it, be careful if it uses this attack and suddenly glitches up the wall next to you without you noticing, or pushes you off onto the golem when they despawn. You cannot walk through some of the tree's leaves. | ◯ | ✗ | ◯ | (★★☆) |
+ | Used alongside 'Stomp', spawns a few temporary trees within 1 second, allowing it to climb some short walls. You cannot walk through some of the tree's leaves. | ✗ | ✗ | ✗ | (★★☆) |
 
 ## Tips
 
 -   These things do unrelenting damage even at Power 20. Do not take them lightly. Pay attention to undodgeable cues and stay wary for the blue particles around the fist signifying a Meteor Punch usage.
 -   Be careful if fighting alongside Hive Constructs; if you get downed, there's a solid chance you will get instantly executed in the crossfire.
 -   If you are being chased by a Thresher, King Thresher, Sand Knight, etc. and there's a Hive Construct nearby, try going to the Construct as it will aggro onto the mob trying to kill you.
--   There are many ledges in Minityrsa that allow you to easily cheese the Rogue Construct without taking damage.
--   Meteor Punch and Stomp can be parried, but if you miss, you will take heavy damage. Engage them at your own risk.
+-   Meteor Punch can be parried, but if you miss, you will take heavy damage.
 
 ## Trivia
 
 -   It was virtually impossible to fight these directly for years after Deepwoken's release due to their animations being heavily bugged. They were fixed at an unknown date.
--   The Rogue Construct in [Minityrsa](Minityrsa.md) and the [Meteor Knights](Stone_Knight.md) will not aggro onto each other
--   Works with Stone Knight, even prioritizes it above an [Authority Captain](Authority_Captain.md).
+-   Prioritizes [Stone knights](Stone_Knight.md) below [Authority Captains](Authority_Captain.md), meaning it will fight the Captain before the Knight.
 -   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](The_Starswept_Valley.md).
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
-    -   Hive Constructs will always win these events without player intervention.
--   Hive Constructs are unable to swim, and will instantly drown if they attempt to enter water.
+    -   Hive Constructs will almost always win these events without player intervention.
 -   Unlike most monsters, they have cancollide on, which means you can touch their model without phasing through them.
--   For an unknown reason, as of 6/22/2024, multiple rogue constructs are able to spawn at one time.
