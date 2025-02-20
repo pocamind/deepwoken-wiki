@@ -1,14 +1,15 @@
 ---
 title: Weapons
-revid: 136918
+revid: 137105
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Character, Mechanics, Items]
 ---
 
 # Weapons
 
-_If you are on mobile, go to [this page for a better experience](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Wgarols-MmbklgVkeu)._  
-_Need help editing? go to [this page](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Wgarols-Efivilg)_
+_If you are on mobile, go to this page for a better experience._  
+_Need help editing? go to [this page](Weapons/Editing.md)_
 
 ## Description
 
@@ -16,27 +17,27 @@ _Tools constructed with the intent to harm others, polished to be efficient kill
 
   
   
-Weapons can be bought from shops or obtained from [chests](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Cjeqtq_%24_Qaakq). Training your Weapon stat requires you to hit/parry with your weapon.
+Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon.
 
 When obtaining a weapon, it comes up to 3 stars on it, which adds either +2% extra damage per star, +5% extra penetration per star (14% at 3 stars), or +4% weight (posture damage) per star. It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favourable weapon can be. Weapons can also come with an enchant or a curse. Certain weapons can also scale off of a player's Attunement (Hero Blades, for example), or just another attribute altogether (Light's Final Toll scaling off of Willpower, for example).
 
 All weapons within the game have chances of being found with (or without) different enchantments or qualities along with them. Even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the qualities of your weapon.
 
--   [Smith's Alloy](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Soivh%25s%5DAnlmy), a relic that adds a star to your currently equipped weapon. If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
--   [Laplace](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Lcpnaae), who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (Works with both weapons and equipment even if they are soul bounded).
--   [Enchant Stones](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Elcjalt%5DSvole), items that can be found in Layer 2, Maestro, and Astral Knights guaranteeing a specific enchant.
--   [Deepshore Fossil](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Dgersjope%5DFmsqin), an item enchanting your current weapon with any enchant of your choice aside from the Astral and Curse of Rhaemen's Ember enchants.
+-   [Smith's Alloy](<Smith's_Alloy.md>), a relic that adds a star to your currently equipped weapon. If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
+-   [Laplace](Laplace.md), who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (Works with both weapons and equipment even if they are soul bounded).
+-   [Enchant Stones](Enchant_Stone.md), items that can be found in Layer 2, Maestro, and Astral Knights guaranteeing a specific enchant.
+-   [Deepshore Fossil](Deepshore_Fossil.md), an item enchanting your current weapon with any enchant of your choice aside from the Astral enchant.
 
-[Enchanted](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Elcjaltoeltq) weapons always have at least one star. (Re-equipping your weapon will add a star to it if it does not already have one.)
+[Enchanted](Enchantments.md) weapons always have at least one star. (Re-equipping your weapon will add a star to it if it does not already have one.)
 
 ## Stances
 
 Pressing Y will change your stance, changing the way you wield your weapon.
 
 -   **Light Weapons** are locked to the One Handed stance.
-    -   **[Fists](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Fksvs)** are able to switch between the [Way of Navae](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Wcy%5Dod_Latag), [Legion Kata](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Lggkol_Iava) and [Fang & Coil](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Fcne_cnf_Aokl) fighting styles.
--   All **Medium Weapons** except for Rifles, the [Imperial Staff](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Iopgrkan_Qtcfd), the [Wyrmtooth](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-W%7Brotmovh) and the [Purple Cloud](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Pwrrlg_Almuf) can freely switch between One Handed and Two Handed stances.
--   All **Heavy Weapons** except for the [Railblade](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Rcinbnafe) and [Gran Sudaruska](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Gpal_Qufapuqkc) are locked to Two Handed stances; however, this can be changed through obtaining 40 HVY, which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
+    -   **[Fists](Fists.md)** are able to switch between the [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md) and [Fang & Coil](Fang_and_Coil.md) fighting styles.
+-   All **Medium Weapons** except for Rifles, the [Imperial Staff](Imperial_Staff.md), the [Wyrmtooth](Wyrmtooth.md) and the [Purple Cloud](Purple_Cloud.md) can freely switch between One Handed and Two Handed stances.
+-   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through obtaining 40 HVY, which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
 
 ### One-Handed
 
@@ -49,22 +50,22 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 
 ## Key Terminology
 
--   **Requirements:** [Attribute(s)](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Avtpi%60uveq) and/or [levels](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Pmwgr) required to wield a weapon.
+-   **Requirements:** [Attribute(s)](Attributes.md) and/or [levels](Power.md) required to wield a weapon.
 -   **Base Damage:** Base weapon damage dealt with 0 points of scaling.
--   **Penetration:** Weapon damage% ignoring [armor](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Owtdivs) and/or resistances. Caps out at 50%, but the cap can be removed with Million Ton Piercer or Ether Overdrive Talents.
+-   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) and/or resistances. Caps out at 50%, but the cap can be removed with Million Ton Piercer or Ether Overdrive Talents.
 -   **Chip Damage:** Weapon damage bypassing through block.
 -   **Scaling:** Scaling for weapon attribute(s).
 -   **Weight:** Posture damage dealt.
 -   **Range:** Horizontal reach of a weapon (not counted by studs).
 -   **Swing Speed:** Speed of basic weapon attacks (M1s). Compared to the default Sword swing speed of 1.00x
 -   **Endlag:** Lingering duration after a basic weapon attack (Self-stun after M1s).
--   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/103 points in each scaled attribute) and 6 [Proficiency](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Tpaktq) (including bleed). This doesn't account for any DMG stars on a weapon.
--   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Pnupirovelt%5DAnlmy) version. Stats which remain white are the same as the non-alloyed version.
+-   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/103 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
+-   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
 -   **Bleed:** 30% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 130% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with bleed weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
--   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Hclnoutkdg_*Etelt%2B), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Hclnoutkdg_Oefans) at [Blacksmiths](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Bnaakqmktj) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Hkproaaopcl%5DPmon) located in the [Fragments of Self](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Fpaemgnvs%5Dod_Qenf)
--   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Eahmeq) (or through the [Bank](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Iveo_%40alk) for the cost of 1 [Knowledge](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Kloulgdee) if soulbound.)
+-   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
+-   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound.)
     -   **Relic:** Functionally identical to Legendary Weapons, but are crafted instead of being dropped by a mob or quest. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
--   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Bmsqeq).
+-   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
 -   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some / given to by special people.
 
 ## Types of Weapons
@@ -12573,7 +12574,7 @@ This is the formula used to calculate the damage of a weapon with one scaled att
 
 -   0.00075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.065)\]} + BaseDamage
 
-_[Damage calculator (Single, Dual and Tertiary Attribute Scaling \[Scaling rings included\])](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-wuw%2Cdgsooq.aoo%2Faancwlctmr-mtoa0aidwg)_
+_[Damage calculator (Single, Dual and Tertiary Attribute Scaling \[Scaling rings included\])](https://www.desmos.com/calculator/mvoc0cifwe)_
 
 The formula to calculate the damage with damage multipliers taken into account is:
 
@@ -12597,22 +12598,22 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
 
 ## Trivia
 
--   You can pass down soulbound weapons for 40 [echoes](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Eahmeq) each; however the weapon will be automatically soulbound to the next character.
+-   You can pass down soulbound weapons for 40 [echoes](Echoes.md) each; however the weapon will be automatically soulbound to the next character.
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.[\[1\]](#cite-note-1)
--   [Hero Blades](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Hgrm_%40lcdgs), despite requiring attunement stat points and not weapon stat points, scale with **Proficiency** as opposed to **Songchant**.
+-   [Hero Blades](Hero_Blades.md), despite requiring attunement stat points and not weapon stat points, scale with **Proficiency** as opposed to **Songchant**.
 -   The weapon with the highest:
-    -   Base Damage: [Divine Greatsword](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Cpaxy%5DSnovs) (30)
-    -   Requirement: [Hivelord's Hubris](<https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Hkvglmrf'q_Ju%60rks>), [Kanabo](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Kcncbm), [Chorus of Agonies](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Cjopuq_mf%5DAeoligs) (100 HVY)
-    -   Dual Requirement: [Hivelord's Hubris](<https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Hkvglmrf'q_Ju%60rks>) (100 HVY, 60 STR)
-    -   Triple Requirement: [Imperator's Edge](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Iopgrctmr%25s%5DEfgg) (80 STR, 80 FTD, 80 MED)
-    -   Highest Attribute Cost: [Imperator's Edge](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Iopgrctmr%25s%5DEfgg) (240 Attribute Points)
-    -   Penetration: [Shattered Katana](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Sjavtgrgd%5DKctcnc)/[First Light](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Fkrqt%5DLkgjt)/[Nemit's Sickle](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Ngmkt%25s%5DSkcilg)/[Kyrsedge](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-K%7Brqefgg)/[Kyrstreza](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-K%7Brqtpexa)/[Flareblood Kamas](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Fnape%60lmof_Iaoaq)/[Pernach](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Pgrlaah)/[Pleeksty's Inferno](<https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Pnegkqt%7B'q_Kndepnm>)/[Nocturne](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Nmcvupng) (30%)
-    -   Chip damage: [Night Axe](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Nkgjt%5DAze) (80%)
-    -   Scaling: [Repeater](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Rgpgavep), [Divine Flintlock](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Cpaxy%5DSnovs) (15)
-    -   Weight: [Sovereign's Punishment](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Smvgrgien%25s%5DPwnksjmgnv) (13)
-    -   Range: [Repeater](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Rgpgavep), [Divine Flintlock](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Cpaxy%5DSnovs) (12)
-    -   Swing Speed: [Divine Flintlock](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Cpaxy%5DSnovs!Lkgjt) (1.33x)
-    -   Highest DPS: [Divine Greatsword](https://unblocker.tollea.eu/uv/service/hvtrs8%2F-dgerwmkgn%2Cfcnfoo.aoo%2Fuiii-Cpaxy%5DSnovs) (110 DPS)
+    -   Base Damage: [Divine Greatsword](Crazy_Slots.md) (30)
+    -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md), [Chorus of Agonies](Chorus_of_Agonies.md) (100 HVY)
+    -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
+    -   Triple Requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
+    -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)
+    -   Penetration: [Shattered Katana](Shattered_Katana.md)/[First Light](First_Light.md)/[Nemit's Sickle](<Nemit's_Sickle.md>)/[Kyrsedge](Kyrsedge.md)/[Kyrstreza](Kyrstreza.md)/[Flareblood Kamas](Flareblood_Kamas.md)/[Pernach](Pernach.md)/[Pleeksty's Inferno](<Pleeksty's_Inferno.md>)/[Nocturne](Nocturne.md) (30%)
+    -   Chip damage: [Night Axe](Night_Axe.md) (80%)
+    -   Scaling: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (15)
+    -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
+    -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (12)
+    -   Swing Speed: [Divine Flintlock](Crazy_Slots.md#light) (1.33x)
+    -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
 -   Both of the Rifle Basic Attacks have the same range.
 -   Aranea is the first item to have an unobtainable stat prerequisite.
 -   The Rifle weapons are the only type of weapon that have four basic m1s before a flourish.
@@ -12620,5 +12621,3 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
 ## References
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=VyqkdcwrjH4](https://www.youtube.com/watch?v=VyqkdcwrjH4)
-
-https://unblocker.tollea.eu/uv/service/hvtrs8/-dgerwmkgn,fcnfoo.aoo/uiii-Cctggmr{:Uecpmnq https://unblocker.tollea.eu/uv/service/hvtrs8/-dgerwmkgn,fcnfoo.aoo/uiii-Cctggmr{:Ahcrccvep https://unblocker.tollea.eu/uv/service/hvtrs8/-dgerwmkgn,fcnfoo.aoo/uiii-Cctggmr{:Oeahcnkcq https://unblocker.tollea.eu/uv/service/hvtrs8/-dgerwmkgn,fcnfoo.aoo/uiii-Cctggmr{:Ktgmq

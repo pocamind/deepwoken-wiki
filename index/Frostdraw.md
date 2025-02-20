@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 137093
+revid: 137108
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -20,13 +20,11 @@ Frostdraw icon
 
 Landing Frostdraw [Mantras](Mantras.md) applies Chill, which slows down enemies and is able to be improved upon with certain [Talents](Talents.md). Adding [Logstones](Mantra_Modifiers.md) to certain Mantras can increase the duration of Chill.
 
-## Training
+## Trainings
 
 A Hemafrosted Capra casting a beam of ice.
 
 This is where the Attunement trainer is located.
-
-Frostdraw can be trained by using a combination of [Hemafrost](Training_Gear.md#attunement-training-gears), Frostdraw Mantras, and [Frigid Prisms](Frigid_Prism.md).
 
 Along with all other elements, users can see their Mantras becoming stronger with training:
 

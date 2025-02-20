@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 137082
+revid: 137110
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,12 +8,12 @@ categories: [Mechanics]
 
 # Regalia
 
-**Regalia** are passive abilities that positively affect progression or aid the player in some way. The only way to obtain them is random chance every time a new character is created, or by wiping a character with the Regalia at Power 6 or below.
+**Regalia** are passive abilities that positively affect progression or aid the player in some way. The only way to obtain them is random chance every time a new character is created.
 
 ## Obtainment
 
 -   Regalia can be randomly obtained every time you create a character.
--   There is no way to affect your chance of getting a Regalia. However this may be false as wiping on higher levels may increase your chances.
+-   There is no way to affect your chance of getting a Regalia.
 -   You may only have 1 Regalia per character, and your character acquiring a Regalia is not guaranteed.[\[1\]](#cite-note-archinfo-1)[\[2\]](#cite-note-2)
 
 ## List of Regalia
