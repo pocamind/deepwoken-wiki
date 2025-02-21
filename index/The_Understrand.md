@@ -1,6 +1,6 @@
 ---
 title: The Understrand
-revid: 136135
+revid: 137189
 source: https://deepwoken.fandom.com/wiki/The_Understrand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Layer 1, The Ministry]
@@ -34,9 +34,9 @@ This event also has a timer, if you do not beat the NPC in time, you will be tel
 
 At Low Ministry Reputation: [Ministry Agent](Ministry_Agent.md)
 
-At Neutral Ministry and Divers Reputation: [Mudskipper Broodlord](Mudskipper_Broodlord.md)
+At Ally Ministry and Divers Reputation: [Mudskipper Broodlord](Mudskipper_Broodlord.md)
 
-At Neutral Ministry and Low Divers Reputation: [Black Diver](<Black_Diver_(NPC).md>)
+At Ally Ministry and Low Divers Reputation: [Black Diver](<Black_Diver_(NPC).md>)
 
 ### This spawns a chest which has a chance to drop:
 
