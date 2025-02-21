@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Brim"
-revid: 137152
+revid: 137161
 source: https://deepwoken.fandom.com/wiki/Warlock's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hats, Items, Equipment, Head, World Event]

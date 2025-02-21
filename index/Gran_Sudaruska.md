@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 135236
+revid: 137157
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -39,7 +39,7 @@ Gran Sudaruska comes with two passive abilities:
 
 ## Critical
 
-The critical causes the user to spin the axe in the air, raining down ice shards and uppercutting anyone hit by it, with added physical damage to mobs with elemental resistance.
+The critical causes the user to spin the axe in the air, raining down ice shards and uppercutting anyone hit by it, with added physical damage to mobs with elemental resistance. It also teleports you to the player in you get hit by the crit.
 
 The critical attack has a cooldown of **10 seconds**
 
@@ -72,6 +72,7 @@ The critical attack has a cooldown of **10 seconds**
     -   When trying to equip the weapon as a Contractor, the game will state "The weapon rejects your very soul, the antithesis to your ideals."
     -   You can however, equip her before obtaining Contractor, just don't unequip her after obtainment or you won't be able to re-equip her.
 -   The critical works with Meteor Impact.
+-   The critical tps you to the person who used the crit.
 -   Gran Sudaruska used to have a Power requirement of 3, although it was impossible to meet the other requirements within Power 3.
 -   Gran Sudaruska could be used one handed even if the One Handed Training Talent was not obtained prior to its removal.
 -   Gran Sudaruska's Critical attack used to only be a spherical hitbox infront of the player, however on the July 5th 2024 update, this was instead changed to be a 360 hitbox around the player.

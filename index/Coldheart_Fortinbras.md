@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 135949
+revid: 137165
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 **Coldheart Fortinbras** is an enemy found in [The Depths](The_Depths.md). He can spawn randomly as an event, or more likely as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md) or in/around [The City of the Drowned](The_City_of_the_Drowned.md)). When Fortinbras spawns, he will be in the leaning emote until you approach him.
 
-As a Black Diver, Fortinbras was a scientist of sorts, acting out of [The Cold Forge](The_Cold_Forge.md). Fortinbras had a lover named Deirdre (guessed her soul to be inside of the machine so far, as said in the text) and was motivated to seek out Bloodrend to save her. As per the recommendations of fellow Black Diver, [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), he sought out [Vyrelda](Vyrelda,_Master_of_Blood.md) to unlock its secrets. His growing madness eventually lead him to be shunned by his colleagues.
+As a Black Diver, Fortinbras was a scientist of sorts, acting out of [The Cold Forge](The_Cold_Forge.md). Fortinbras had a lover named Deirdre and was motivated to seek out Bloodrend to save her. As per the recommendations of fellow Black Diver, [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), he sought out [Vyrelda](Vyrelda,_Master_of_Blood.md) to unlock its secrets. His growing madness eventually lead him to be shunned by his colleagues.
 
 He is wearing a [Black Diver](Black_Diver.md) Outfit and uses the [Frostdraw](Frostdraw.md) and [Bloodrend](Bloodrend.md) attunements while wielding the legendary Frostdraw weapon: the [Hailbreaker](Hailbreaker.md), with his version capable of having [Enchantments](Enchantments.md) on it.
 

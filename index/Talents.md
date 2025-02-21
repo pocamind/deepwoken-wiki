@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137146
+revid: 137169
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2667,6 +2667,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Target Switch \[Common Talent\] - Parrying an opponent while hitting someone else makes your next mantra free.
     -   This effect is signaled by a yellow halo.
+    -   This talent will still proc if you hit a knocked enemy.
     -   Prerequisite: 20 Intelligence
 
 -   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.

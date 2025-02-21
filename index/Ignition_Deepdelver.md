@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 134343
+revid: 137159
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Outfits, Armors, Items, Master Outfits, The Ignition Union]
@@ -45,7 +45,7 @@ This Outfit's Schematic can be found in:
     -   **Pillars of Erisia** ([Duke Erisia](Duke_Ishamon_Erisia.md))
     -   **Cero** ([Lionfish](Lionfish.md))
     -   All of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) non-parryable attacks
-    -   **Crab Crab**[\[1\]](#cite-note-crabcrab-1) ([Crustaceous Rex](Crustaceous_Rex.md))
+    -   ~**Crab Crab**[\[1\]](#cite-note-crabcrab-1) ([Crustaceous Rex](Crustaceous_Rex.md))~
     -   [Kyrsieger](Kyrsieger.md) critical
     -   The last hit of **Mortal Draw: Floating Passage** ([Maestro Evengarde Rest](Maestro_Evengarde_Rest.md))
 

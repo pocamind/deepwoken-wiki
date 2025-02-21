@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 133013
+revid: 137167
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, Lore, The Hundred Legions, NPCs located in the Etrean Luminant]
@@ -16,19 +16,15 @@ categories: [Khan NPCs, NPCs, Lore, The Hundred Legions, NPCs located in the Etr
 
 ## Description
 
-Amara is the Centurion of the [11th Legion](The_Hundred_Legions.md). She is the main source of [lore](Lore.md) dedicated to the Legion. She is not the only Centurion in the East, as she mentions the presence of other Centurions in [Starswept Valley](The_Starswept_Valley.md), with those being the [Legion Captains](Legion_Captain.md) and the [Legion Snipers](Legion_Sniper.md), the last one she warns you about as it is hostile no matter your [Reputation](Reputation.md) with the Legion.
+Amara is the Centurion of the [11th Legion](The_Hundred_Legions.md). She is not the only Centurion in the East, as she mentions the presence of other Centurions in [Starswept Valley](The_Starswept_Valley.md), with those being the [Legion Captains](Legion_Captain.md) and the [Legion Snipers](Legion_Sniper.md), the last one she warns you about as it is hostile no matter your [Reputation](Reputation.md) with the Legion.
 
 She also teaches you the [Legion Kata](Fists.md) fighting style after turning in a Captain's Recc obtained by assisting the 11th Legion in [Aratel Island](Aratel_Island.md) or in [Upper Erisia](Upper_Erisia.md).
+
+Her and the 11th Scouting Legion arrived in the East from the Western Luminant to observe the conflict between [the Central Authority](The_Central_Authority.md) and [Etrea](Etrea.md).
 
 ## Location
 
 Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Jaw.md>) far inside in a Legion hideout with other legionares, the entrance to the cave is located to the right of the bandit camp
-
-## Lore
-
-Her and the 11th Scouting Legion arrived in the East from the Western Luminant to observe the conflict between [the Central Authority](The_Central_Authority.md) and [Etrea](Etrea.md).
-
-According to Arch\_Mage, she's just a normal Centurion.
 
 ## Trivia
 
