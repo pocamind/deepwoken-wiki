@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 137063
+revid: 137173
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -124,7 +124,9 @@ Ice + Shadow
 
 -   Deals moderate damage.
 -   Inflicts Chill.
+-   Works with [Twisted Puppets](Talents.md) applying fire but not spawning puppets.
 -   Compatible with [Cloudstones/Stratus Stones](Mantra_Modifiers.md) to make the AoE larger.
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md) but does not seem to do any effect. (if you know more correct me, but I put 3 eternal logstones and saw no effect)
 -   Can be modified with [Magnet Spark](Mantra_Modifiers.md) allowing it to follow the user.
 
  |

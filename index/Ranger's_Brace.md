@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Brace"
-revid: 123612
+revid: 137180
 source: https://deepwoken.fandom.com/wiki/Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Braces]
@@ -20,12 +20,12 @@ categories: [Items, Equipment, Arms, Braces]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Artifacts, Blacksteel Pirate, Duke Erisia, Erisia, Hell Mode, Maestro Evengarde Rest, Dread Serpent, Chaser |
+| obtainment | Chests From:, Artifacts, Blacksteel Pirate, Duke Ishamon Erisia, Erisia, Hell Mode, Maestro Evengarde Rest, Dread Serpent, Chaser |
 | description | "..." |
 
 ## Description
 
-The Ranger's Brace is an [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 3 Health, 1 Posture, and 2 Rare Pips. It is found in chests from [Artifacts](Artifacts.md), [Blacksteel Pirates](Blacksteel_Pirate.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Erisia](Erisia.md), and [Hell Mode](Hell_Mode.md),.
+The Ranger's Brace is an [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 3 Health, 1 Posture, and 2 Rare Pips. It is found in chests from [Artifacts](Artifacts.md), [Blacksteel Pirates](Blacksteel_Pirate.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Erisia](Erisia.md), and [Hell Mode](Hell_Mode.md).
 
 ## Trivia
 

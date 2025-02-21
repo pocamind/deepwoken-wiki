@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 132630
+revid: 137179
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Multiple Criticals]
@@ -37,9 +37,9 @@ M1s without bullets apply metal rods and bleed dmg. M1s with bullets proc talent
 
 ## Critical
 
-For the neutral critical, you fire 1 shot out of your gun. The critical attack reloads 1 bullet and applies 1 Rod if it lands. Unlike all other guns, Iron Requiem's neutral critical can be used with no bullets in the chamber, allowing you to use it for reloading purposes. Additionally, it also procs [Rapid Fire](Talents.md#outlaw) and thus can be used in rapid succession, however it will not proc this talent unless you have ammo loaded.
+For the **standing critical**, the user fires a large bullet that explodes on contact. The critical attack reloads 1 bullet and applies 1 Rod if it lands. This critical can be used without ammunition, allowing you to use it for reloading purposes. Additionally, it also procs [Rapid Fire](Talents.md#outlaw) and thus can be used in rapid succession, however it will not proc this talent unless there is ammo loaded.
 
-For the running critical, you whip around wildly and unload every bullet in the chamber into your opponent. You will continue firing until you are out of ammo or until four bullets have been unloaded, applying 1 Rod per hit. This critical cannot be used if you are using dual guns.
+For the **running critical**, whip around wildly and continuously fire the pistol around your opponent, applying a rod each time the pistol is fired. This critical can fire up to 4 or less bullets, and will not work if there is no ammo loaded.
 
 ## Trivia
 
@@ -52,7 +52,3 @@ For the running critical, you whip around wildly and unload every bullet in the 
 File:Iron's requiem close up .png
 
 Iron Requiem close up
-
-File:Reguar ironsing.png
-
-Iron Requem without scrapsinger

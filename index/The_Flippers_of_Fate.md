@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 135254
+revid: 137182
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons"]
@@ -35,4 +35,4 @@ Twin spatulas somehow used as a weapon.
 
 -   This weapon shares a critical with the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
 -   The description reads _"That isn't smoke. It's steam."_ which is in reference to [a scene](https://www.youtube.com/watch?v=4jXEuIHY9ic) from the twenty first episode of the seventh seasons of American animated sitcom, _[The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)_.
--   This is the fastest weapon in the game.
+-   This is the fastest weapon in the game, with a whopping 1.26 swing speed

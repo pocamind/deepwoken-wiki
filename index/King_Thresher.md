@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 133180
+revid: 137172
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,11 +12,11 @@ _Also known as Big/King Croc, Mother Thresher, and many other names_ Template:Cr
 
 ## Description
 
-The King Thresher is a much bigger and more powerful Thresher that spawns in the [Starswept Valley](The_Starswept_Valley.md), as well as [the Depths](The_Depths.md), along with two smaller Threshers. It drops a King Thresher Spine that can be used for crafting armour. There will usually be a chest reward after you kill this monster.
+The King Thresher is a larger, aged male Thresher that is found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). Sometimes, it can be found with another Thresher.
 
-There is currently a quest in game in Starswept Valley where you are tasked with hunting a King Thresher for its scales. Upon completing this quest you will permanently receive the Thresher Scales Talent at Power 10. This quest can be completed/recompleted to get a hand of cards if you already have the Talent.
+King Threshers, as its name suggests are similar to an Alpha Megalodaunt in terms of social hierarchy; a dominant Thresher leading their own pack. They are a result of male Threshers competing with each other in populated nests, where behavioral shifts sink in. Their growth is derived from an organ in their necks which can be significantly ended if a competing Thresher's teeth is lodged into an opposing Thresher, thus leading into a Thresher emerging as a king. These Threshers have distinct features from their lesser counterparts, such as its large size, purple body, and a unique ability to breathe purple flames.
 
-  
+A King Thresher is required to be killed at the Starswept Valley to complete [Jessamine's quest](Jessamine.md), granting the Thresher Scales [Echo Talent](Echoes.md), which repairs the player's armor while resting at a campfire. This quest can be completed/recompleted to get a hand of cards if you already have the Talent.
 
 ## Attacks
 
