@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 133693
+revid: 137212
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -51,6 +51,7 @@ Certain uncommon-rare variants of monsters thematically already have an attuneme
 Certain Monsters have unique visual effects when attuned.
 
 -   Thunderstruck [Gigamed](Gigamed.md) (Lightning is blue as opposed to yellow.)
+    -   Thunderstruck Gigameds have almost full immunity to [Thundercall](Thundercall.md) Mantas
 
 Corrupted and Attuned are fairly common (and in later waves, almost guaranteed) in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 

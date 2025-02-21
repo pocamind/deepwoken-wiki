@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 137065
+revid: 137221
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -98,7 +98,7 @@ Dodgeable:◯
 
 | Name | Media | Description |
 | --- | --- | --- |
-| Headsplitter |  | The Enforcer holds its weapon up with one hand, and smashes it down on any player, killing them, a reference to the GreatAxes' grip execution. |
+| Headsplitter |  | The Enforcer holds its weapon up with one hand, and smashes it down on any player, killing them, a reference to the [Greataxes'](Greataxes.md) grip execution. |
 
 ## Passives
 

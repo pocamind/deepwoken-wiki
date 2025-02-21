@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 137092
+revid: 137242
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -882,7 +882,7 @@ Metal
  |
 | 
 
-**Effect:** _Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight. Requires Ritual Casting._
+**Effect:** _Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight. Ritual Casted._
 
 -   Deals 21 DMG per hit, 0.85s windup to cast, 0.55s delay between shots, lasts 20 seconds, 30s CD
 -   Has 9.4x PVE scale (21 DMG PVP, 197.63 IN PVE)
@@ -922,7 +922,7 @@ N/A
  |
 | 
 
-**Effect:** _Conjure a metal wisp that regenerates armor durability. Requires Ritual Casting._
+**Effect:** _Conjure a metal wisp that regenerates armor durability. Ritual Casted._
 
 -   Regenerates 10% FIXED % of armor at level 5.
 -   Applies Metal Rod on vents.

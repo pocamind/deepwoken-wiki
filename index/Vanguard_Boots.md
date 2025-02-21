@@ -1,6 +1,6 @@
 ---
 title: Vanguard Boots
-revid: 116896
+revid: 137210
 source: https://deepwoken.fandom.com/wiki/Vanguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -32,4 +32,4 @@ Vanguard Boots are part of the "**Vanguard**" set; with the only other armor pie
 
 ## Trivia
 
--   These boots correspond to the Vanguard Brace you get from the [Tutorial](Tutorial.md).
+-   These boots correspond to the Vanguard Brace you used to get from the [Tutorial](Tutorial.md) before an update that gave most equipment power requirements.

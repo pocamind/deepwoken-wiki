@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137034
+revid: 137235
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -900,7 +900,7 @@ N/A
  |
 | 
 
-**Effect:** Caster conjures an aura of flame in their hand before forcefully inserting it in their chest. Requires Ritual Casting.
+**Effect:** Caster conjures an aura of flame in their hand before forcefully inserting it in their chest. Ritual Casted.
 
 -   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds with Azure Flames, if damage isn't substantial.
     -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing is buffed by 20% with Azure Flames.
@@ -908,7 +908,7 @@ N/A
 -   Freezes user in place for a brief moment after casting.
 -   Restores some of the user's Sanity.
 -   Can be upgraded with the **Denial Repulse** Talent, causing a small AOE explosion upon receiving lethal damage.
--   Can be modified with Vibrant Gems, with an unknown effect. Increases signs for ritual cast.
+-   Can be modified with Vibrant Gems, with unknown effect. Increases signs for ritual cast.
 
  |
 | 
@@ -940,7 +940,7 @@ N/A
  |
 | 
 
-**Effect:** Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire. Requires Ritual Casting.
+**Effect:** Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire. Ritual Casted.
 
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
@@ -982,7 +982,7 @@ N/A
  |
 | 
 
-**Effect:** The caster summons a wisp of magma. Requires Ritual Casting.
+**Effect:** The caster summons a wisp of magma. Ritual Casted.
 
 -   Flame Wisp reduces the burn tick damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
     -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.
@@ -990,7 +990,7 @@ N/A
 -   Flame Wisp also seems to reduce [parasite](Second_Layer/The_Ethironal_Shrine.md#parasites) growth.
 -   With Wraith Path: Twisted Puppets, you will heal from burns by Shadow Mantras and Burning Puppets, but not by Flame Mantras.
     -   The amount of healing will not be severely reduced (results were +1% (~5) hp per 5-6 burn ticks).
--   Has 3 charges (which are consumed when healing is triggered). Logstones increase the amount of charges.
+-   Converts about 25-30 burning damage total. Logstones increase the amount of burn it can convert.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 
  |

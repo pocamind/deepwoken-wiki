@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 133089
+revid: 137203
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -20,7 +20,7 @@ categories: [NPCs, Mechanics]
 
 ## Description
 
-Located at the [Hidden Village](../The_Hidden_Village.md) of Erisia, obscured by vines and wood.
+Located deep within the [Hidden Village](../The_Hidden_Village.md) of Erisia, obscured by vines and wood.
 
 ## Effects/Details
 
@@ -29,12 +29,12 @@ Located at the [Hidden Village](../The_Hidden_Village.md) of Erisia, obscured by
 This shrine has 2 effects depending on your Power:
 
 -   Power 1-16: For 5 Knowledge, instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws. However, you gain a Flaw and must catch up on the 45 Investment points of these 3 Power Ups. This can only be done once per character.
--   Power 17-20: For 5 Knowledge, reroll a Flaw of your choice into another, random Flaw.
+-   Power 17-20: For 5 Knowledge, reroll a Flaw of your choice into a random Flaw.
 
 ### Details
 
--   Bear in mind that the many card draws you will perform are based on your current stats, **you do not gain any attribute points from this**.
--   The 45 Investment Points you need to catch up will make it harder to recover a Life while in the Overworld.
+-   Bear in mind that the many card draws you will perform are based on your current stats. **you do not gain any attribute points from this**.
+-   The 45 Investment Points you need to catch up will make it harder to recover a Life while in the Overworld, especially if you use free points from the [Adret](../Adret.md) Aspect and the Autodidact Boon
 -   With the 3 Power Ups granted, you immediately gain 3 Knowledge.
 -   Since you gain bonus damage in PVE based on your level, you immediately attain higher damage.
 

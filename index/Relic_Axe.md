@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 137016
+revid: 137205
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -33,12 +33,13 @@ The Relic Axe is a [Heavy Weapon](Weapons.md) of legendary rarity that is obtain
 
 ## Critical
 
-The critical is identical to that of standard Greataxes, but it generates three stone pillars of ascending height in the direction the player is facing, similar to the Sand Knight's Eruption move.
+The critical is identical to that of the standard Greataxe critical, but it generates three stone pillars of ascending height in the direction the player is facing, similar to the Sand Knight's Eruption move.
 
 ## Trivia
 
 -   Meeting the requirement of HVY, the damage is (37.7)
 -   At max HVY, the damage is (41.9)
--   The stone pillars spawned by the critical have collision and can be stood on and climbed (used to not be the case and would act like Celtor city walls).
+-   The stone pillars spawned by the critical have collision and can be stood on and climbed.
+    -   This used to not be the case and would act like how the walls on the [City of the Drowned](The_City_of_the_Drowned.md) currently work.
 -   The stone pillars are perfect for putting a guild base on since their size is almost exactly the size of the guild base and can be placed anywhere.
 -   The stone pillars are unparryable, however they are both blockable and dodgeable.

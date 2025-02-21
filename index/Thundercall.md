@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 137094
+revid: 137239
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -829,7 +829,7 @@ N/A
  |
 | 
 
-**Effect:** _Conjure a wisp of lightning that applies "Sapping" to a target upon being uppercut or flourished. Requires Ritual Casting._
+**Effect:** _Conjure a wisp of lightning that applies "Sapping" to a target upon being uppercut or flourished. Ritual Casted._
 
 -   **Sapping** increases the target's mantra cooldown.
 -   \[\] Second Cooldown.

@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 137061
+revid: 137222
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -113,7 +113,7 @@ _A javelin of jagged bone._
  |
 | 
 
-**Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) '**Bone Throw'** attack._
+**Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) '**Femur Throw'** attack._
 
 -   Unblockable. (taken from [Carrion](Carrion,_Father_of_Evolution.md)'s page, may not be true)
 -   Grants hyperarmor during startup.
@@ -149,7 +149,7 @@ Slash?
  |
 | 
 
-**Effect:** _The user grows coral on their back and sprays coral in every direction, based on the [Megalodaunt's](Megalodaunt.md) '**Thousand Needles'** attack._
+**Effect:** _The user grows coral on their back and sprays coral in every direction. Based on the [Megalodaunt's](Megalodaunt.md) '**Thousand Needles'** attack._
 
 -   This mantra deals 90 damage to ships.
 
@@ -323,7 +323,7 @@ Blunt
  |
 | 
 
-**Effect:** _Burrow into the ground, giving invincibility for its duration. Click to cancel the Mantra and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) **Dig**._
+**Effect:** _Burrow into the ground, giving invincibility for its duration. Click to cancel the Mantra and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) '**Burrow'**._
 
  |
 
@@ -388,7 +388,7 @@ N/A
  |
 | 
 
-**Effect:** _Conjure strings of the [Enforcer](Enforcer.md), auto-tracking enemies and pulling them in._
+**Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](Enforcer.md)'s '**Space Pull'** attack._
 
 -   Missing still takes Ether and does not put this mantra on cooldown.
 

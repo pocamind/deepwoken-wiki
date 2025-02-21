@@ -1,9 +1,9 @@
 ---
 title: Mantra Modifiers
-revid: 136684
+revid: 137255
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Gems, Attunement, Mantras]
+categories: [Attunement, Mantras, Items, Gems]
 ---
 
 # Mantra Modifiers
@@ -29,7 +29,7 @@ There are currently three types of mantra modifiers; Regular, Deep Gems, and Spa
 
 Heavily modified mantras will require [Note](Notes.md) offerings to be made. To see their prices and scaling, review [Mantra Table](Mantra_Lectern.md).
 
-Glass Stones and Magnifying Stones seem to have vastly different effects on mantras, ex: Glass Stone / Magnifying Stone
+Glass Stones and Magnifying Stones seem to have vastly different effects on mantras compared to other mantra modifiers.
 
 Keep in mind, not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible.
 
@@ -223,7 +223,7 @@ Rush Shard
 
 Amnesic Driftwood
 
- | Removes all Modifiers on a Mantra. | Removes every single modifier previously added to the mantra, including Sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidentally added too many modifiers which pushed the ether cost past max ether. This also gives back the modifiers you used on the mantra this does not count for sparks. | 
+ | Removes all Modifiers on a Mantra. | Removes every single modifier previously added to the mantra, including Sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidentally added too many modifiers which pushed the ether cost past max ether. This also gives back the modifiers you used on the mantra, except for sparks. | 
 
 -   Bandits
 -   Bandit Leaders
@@ -257,13 +257,11 @@ Glass Stone
 
 Magnifying Stone
 
- | Same as Glass Stone, just better
+ | 
 
 -   +3 AoE
 -   \-1 Duration
 -   +20 Ether Cost
-
-"Images perceived through the stone seem to give off an expanding aura." -flavor text
 
  | 
 
@@ -297,8 +295,6 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 -   Duke Erisia
 
  |
-
-  
 
 ### Specific Effects of Modifiers
 
@@ -392,11 +388,11 @@ Sparks are modifiers that are only able to be used on specific mantras.
 
 If the modifier cannot be applied to the specific Mantra you use it on, a message appears reading **Incompatible Ingredients,** and you will lose the spark and other modifiers involved.
 
-| Image | Modifier | Applicable Mantras | Effect |
-| --- | --- | --- | --- |
-| 
- | 
+**Lists of applicable Mantras are not actively maintained, and some may be missing.**
 
+| Image | Applicable Mantras | Effect |
+| --- | --- | --- |
+| 
 Blast Spark
 
  | 
@@ -427,8 +423,6 @@ _"The surface is slick and oily. You feel like putting it near a flame would be 
  |
 | 
 
- | 
-
 Magnet Spark
 
  | 
@@ -452,8 +446,6 @@ _"The items in your pack are drawn to it."_
 
  |
 | 
-
- | 
 
 Multiplying Spark
 
@@ -483,8 +475,6 @@ _"You swear you see double - or triple - when you hold it."_
  |
 | 
 
- | 
-
 Reversal Spark
 
  | 
@@ -508,8 +498,6 @@ _"You feel homesick when you hold it."_
  |
 | 
 
- | 
-
 Round Spark
 
  | 
@@ -527,8 +515,6 @@ _"A tingling sensation that spreads out forms on your skin when you hold it."_
 
  |
 | 
-
- | 
 
 Spring Spark
 
@@ -553,8 +539,6 @@ _"The sensation of being lifted off your feet is conjured when you hold it."_
  |
 | 
 
- | 
-
 Tornado Spark
 
  | 
@@ -571,10 +555,12 @@ Applies "Spin" to compatible Mantra.
 _"You feel dizzy when you hold it."_
 
  |
+
+### Developer-Exclusive Sparks
+
+| Image | Applicable Mantras | Effect |
+| --- | --- | --- |
 | 
-
- | 
-
 Mirage Stone
 
  | 
@@ -590,8 +576,6 @@ Possible sanity recover if you hit the attack.(?) Tested with multiple Mantras, 
  |
 | 
 
- | 
-
 Falseflame Stone
 
  | 
@@ -604,8 +588,6 @@ Unknown.
 
  |
 | 
-
- | 
 
 Haunting Stone
 
@@ -621,11 +603,13 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  |
 
-  
-
 ## Specific effects of Sparks
 
+**This list is not actively maintained and may be missing some Mantras with unique spark effects.**
+
 **Blast Spark:**
+
+### Blast Spark
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -860,7 +844,7 @@ Shoulder Bash
 
 **Magnet Spark:**
 
-## Specific Effects of Sparks
+### Magnet Spark
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -1018,7 +1002,7 @@ Illusory Realm
 
 **Multiplying Spark:**
 
-## Specific Effects of Sparks
+### Multiplying Spark
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -1223,7 +1207,7 @@ Iron Tether
 
 **Reversal Spark:**
 
-## Specific Effects of Sparks
+### Reversal Spark
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -1366,7 +1350,7 @@ Chain Pull
 
 **Round Spark:**
 
-## Specific Effects of Sparks
+### Round Spark
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -1434,7 +1418,7 @@ Skyshatter Kick
 
 **Spring Spark:**
 
-## Specific Effects of Sparks
+### Spring Spark
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -1577,7 +1561,7 @@ Dash
 
 **Tornado Spark:**
 
-## Specific Effects of Sparks
+### Tornado Spark
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -1629,7 +1613,7 @@ Dark Blade
 
 **Paired Sparks:**
 
-## Specific Effects of Sparks
+### Paired Sparks
 
 | Mantra | Original | Modified | Combination | Effect |
 | --- | --- | --- | --- | --- |
@@ -1775,7 +1759,7 @@ Shade Devour
 
 **With Talent:**
 
-## Specific Effects of Sparks
+### With Talent
 
 | Mantra | Original | Modified | Combination | Effect |
 | --- | --- | --- | --- | --- |

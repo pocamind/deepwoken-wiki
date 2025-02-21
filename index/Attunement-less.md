@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 137102
+revid: 137237
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -10,21 +10,21 @@ categories: [Attunement]
 
 Attunement-less icon
 
-Attunement-less mantras, or Physical mantras consist of mantras that are chosen based on your attributes, similar to Talents, rather than your attunements.
+Attunement-less Mantras, or Physical Mantras, consist of Mantras that are chosen based on your attributes, similar to Talents, rather than your Attunements.
 
-**NOTE: Attunement-less mantras are rarer if you have an attunement and depend on how much you have in said stat opposed to your attunement.**
+**NOTE: Attunement-less Mantras are rarer if you have an Attunement and depend on how much you have in said stat opposed to your Attunement.**
 
 ## Description
 
-You don't have an attunement, instead relying on your physical and mental abilities to give yourself an edge in battle.
+You don't have an Attunement, instead relying on your physical and mental abilities to give yourself an edge in battle.
 
-Most of your mantras focus on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by utilizing your body alone, whether it's utilizing your raw strength combined with the Song to punch down trees and enemies alike, moving at a faster rate than usual, or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement.
+Most of your Mantras focus on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by utilizing your body alone, whether it's utilizing your raw strength combined with the Song to punch down trees and enemies alike, moving at a faster rate than usual, or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement.
 
-In spite of its shortcomings, the potential of Attunement-less is nothing to scoff at, as stat points normally allocated to Attunements can instead be used to obtain Talents, as well making obtaining high investment Talents more worthwhile should a powerful combat mantra scale off the same points.
+In spite of its shortcomings, the potential of Attunement-less is nothing to scoff at, as stat points normally allocated to Attunements can instead be used to obtain Talents, as well making obtaining high investment Talents more worthwhile should a powerful combat Mantra scale off the same points.
 
 ## Training
 
-The Attunement-less Mantra trainer [Regek](Regek.md) can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.) Alternatively, you can use the Songwright in the guild base (if you hired him already)
+The Attunement-less Mantra trainer [Regek](Regek.md) can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their Mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.) Alternatively, you can use the Songwright in the guild base (if you hired him already)
 
 Otherwise, you can use the Mantra Trainer in the guildbase without having to do a quest.
 
@@ -32,9 +32,9 @@ Otherwise, you can use the Mantra Trainer in the guildbase without having to do 
 -   2 of them are located in the Blacksmith's area.
 -   1 is located outside of the Observatory.
 
-Once completed, the user can upgrade their attunement-less mantras by speaking to the trainer and paying an increasing sum of notes for each mantra level. NOTE:
+Once completed, the user can upgrade their Attunement-less Mantras by speaking to the trainer and paying an increasing sum of notes for each Mantra level. NOTE:
 
--   Upgrading your mantras at this trainer depends on the **type of mantra** you wish to upgrade and **the number of points** you have in the **respective attribute!**
+-   Upgrading your Mantras at this trainer depends on the **type of Mantra** you wish to upgrade and **the number of points** you have in the **respective attribute!**
 
 For example:
 
@@ -43,18 +43,18 @@ For example:
 3.  60+ points in Strength => Level 4 Strength Mantra.
 4.  80+ points in Strength => Level 5 Strength Mantra.
 
-In short: Every 20 points in a specific attribute will unlock the next level for said mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its mantras aside from a bit of damage scaling.
+In short: Every 20 points in a specific attribute will unlock the next level for said Mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that Mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its Mantras aside from a bit of damage scaling.
 
 ## Attribute Mantras
 
--   These mantras are based on your attributes, not your attunements.
--   Their damage/efficiency scales with the attribute's level.
--   Although the mantras have nothing to do with attunements, having an attunement can sometimes make certain attunement**less** mantras have higher obtainment requirements (e.g; Glare). Source: Arch\_Mage and tester(s)
--   _(Side Note: Do not confuse upgrading mantras at trainers with using modifiers.)_
+-   These Mantras are based on your attributes, not your Attunements.
+-   Their damage/efficiency scales with the attribute's level. (Note: All Attunement-less mantras are currently bugged and have 0 scaling)
+-   Although the Mantras have nothing to do with Attunements, having an Attunement can sometimes make certain Attunement**less** Mantras have higher obtainment requirements (e.g; Glare). Source: Arch\_Mage and tester(s)
+-   _(Side Note: Do not confuse upgrading Mantras at trainers with using modifiers.)_
 
 ### _Strength Mantras_
 
-Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
+Strength Mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
 | 
 **Name**
@@ -336,7 +336,7 @@ Blunt
 
 ### _Fortitude Mantras_
 
-Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](Training_Gear.md#attribute-training-gears), or feel the crushing weight of a [Boulder](Training_Gear.md#attribute-training-gears).
+Fortitude Mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a [Training Vest](Training_Gear.md#attribute-training-gears), or feel the crushing weight of a [Boulder](Training_Gear.md#attribute-training-gears).
 
 | 
 **Name**
@@ -485,7 +485,7 @@ N/A
 -   Damage increase only applies to weapon attacks.
 -   The damage reduction can be reduced by PEN, but PEN has halved effectiveness on it.
 -   Reinforce lasts 20 seconds with a 55 second cooldown.
--   For each mantra level, Reinforce's duration increases by 8 seconds and cooldown decreases by 5 seconds.
+-   For each Mantra level, Reinforce's duration increases by 8 seconds and cooldown decreases by 5 seconds.
 -   Can be upgraded with the Fortitude Talent Cards **Lord's Tithe** and **Grand Support**.
 -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
 
@@ -532,7 +532,7 @@ N/A
 
 ### _Agility Mantras_
 
-Agility mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with Ankle weights by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _assassinations._
+Agility Mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with Ankle weights by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _assassinations._
 
 | 
 **Name**
@@ -601,8 +601,8 @@ Slash + Bleed
 -   The move teleports you forwards only upon hitting an opponent.
 -   Cooldown of 15 seconds.
 -   It has a windup of 0.55 seconds and an endlag of 0.15 seconds.
--   It has a posture damage of 5.5, regardless of mantra level.
--   This mantra has innate bleed, meaning that the base damage has an extra 30% true damage that doesn't get affected by damage modifiers.
+-   It has a posture damage of 5.5, regardless of Mantra level.
+-   This Mantra has innate bleed, meaning that the base damage has an extra 30% true damage that doesn't get affected by damage modifiers.
 -   Its base damage per level is 12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 and has an agility scaling of 2.
 -   The Damage of the move scales with how much HP the user has left, dealing more damage with less HP.
     -   Revenge does NOT do any additional damage unless health is BELOW 50%
@@ -732,7 +732,7 @@ N/A
 **Effect:** _User activates an inner surge of energy_
 
 -   Counts as a speed boost, meaning it can proc all related talents (including "Speed Demon").
--   This Mantra can be further viable by using the Talent **Action Surge** which increases the swing speed of weapons by a extra 0.04 while the mantra is active.
+-   This Mantra can be further viable by using the Talent **Action Surge** which increases the swing speed of weapons by a extra 0.04 while the Mantra is active.
 -   Upgrading reduces cooldown.
 -   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
 
@@ -740,7 +740,7 @@ N/A
 
 ### _Intelligence Mantras_
 
-Intelligence mantras act as "wildcards" in the user's arsenal as they complement existing mantras well. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
+Intelligence Mantras act as "wildcards" in the user's arsenal as they complement existing Mantras well. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
 
 | 
 **Name**
@@ -881,17 +881,16 @@ N/A
  |
 | 
 
-**Effect:** _User summons a cauldron that can be used to concoct potions._
+**Effect:** _User summons a cauldron that can be used to concoct potions. Ritual Casted._
 
 -   Despawns when the user moves away from the Cauldron.
 -   Usable as a portable shelter for campfires.
--   The Mantra is Ritual Casted.
 
  |
 
 ### _Willpower Mantras_
 
-Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate, witness the death of others or players/NPCs, or lose your own sanity through various means.
+Willpower Mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate, witness the death of others or players/NPCs, or lose your own sanity through various means.
 
 | 
 **Name**
@@ -1049,7 +1048,7 @@ N/A
 
 ### _Charisma Mantras_
 
-Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends' to level up charisma. You do not have to read the book near an NPC or player, as you will still gain experience by correctly typing the instructed phrase.
+Charisma Mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends' to level up charisma. You do not have to read the book near an NPC or player, as you will still gain experience by correctly typing the instructed phrase.
 
 | 
 **Name**
@@ -1190,9 +1189,8 @@ N/A
  |
 | 
 
-**Effect:** _User performs a short ritual before turning into their disguise_
+**Effect:** _User performs a short ritual before turning into their disguise. Ritual Casted._
 
--   This mantra is Ritual Casted.
 -   Obtained by finding an NPC named [Mime](Mime.md) and killing Mineskippers.
 -   Modifying the Mantra alters what you are disguised as.
     -   Barrel: No Sparks
@@ -1207,7 +1205,7 @@ N/A
 
 ## Weapon Mantras
 
--   These mantras are based on the number of weapon points you have, not your attribute or attunement.
+-   These Mantras are based on the number of weapon points you have, not your attribute or Attunement.
 -   Their damage scales with the amount of weapon points you have.
 -   To increase the damage/level cap, increase your weapon mastery by reading a "Weapon Manual" (only to allocate stats, it cannot be used to train), parry, block and hit enemies with your weapon.
 
@@ -1316,7 +1314,7 @@ _Click to reveal yourself and deliver a rapid flurry of slashes that can chain t
 
 **Effect:** _User turns invisible and then reveals themselves, performing a moderate amount of slashes._
 
--   Can be somewhat used as a mobility mantra due to it's compatibility with Rush and Drift Shards.
+-   Can be somewhat used as a mobility Mantra due to it's compatibility with Rush and Drift Shards.
 
  |
 | 
@@ -1499,7 +1497,7 @@ _Close the distance and deliver a fast slash._
 
 **Effect:** _User locks onto all the closest targets that are in range then dashes forward and performing a large AoE slice._
 
--   Allows for movestacking an M1 strike which 100% guarantees the mantra or M1 hit.
+-   Allows for movestacking an M1 strike which 100% guarantees the Mantra or M1 hit.
 -   Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.
 
  |
@@ -1729,34 +1727,34 @@ _Absorb damage then return fury upon your foes._
 ## Tips
 
 -   You can increase the distance travelled of dashes with [Drift Shard](Mantra_Modifiers.md) and [Rush Shards](Mantra_Modifiers.md), although this does not work with Strong Leap, this makes the spell a little too costly, a [Blue Gem](Deep_Gems.md) will help with this though.
--   **Although many attunement-less mantras have relatively low requirements, it’s highly recommended to spec into those stats.**
--   You can't increase the duration of Charisma mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md); neither with some other mantras like Adrenaline Rush, Brace or Reinforce.
+-   **Although many Attunement-less Mantras have relatively low requirements, it’s highly recommended to spec into those stats.**
+-   You can't increase the duration of Charisma Mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md); neither with some other Mantras like Adrenaline Rush, Brace or Reinforce.
 -   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
--   Charisma mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
--   Most Attunement-less mantras serve as utility in order to assist you in either combat or general survival.
--   Although Reinforce is a little costly for a mantra, a [Blue Gem](Deep_Gems.md) can reduce it to around 50 ether, which can help with ether cost.
+-   Charisma Mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
+-   Most Attunement-less Mantras serve as utility in order to assist you in either combat or general survival.
+-   Although Reinforce is a little costly for a Mantra, a [Blue Gem](Deep_Gems.md) can reduce it to around 50 ether, which can help with ether cost.
 -   Strong Left is best used during a parry trade in order to be as close as possible to your opponent due to its lackluster range but incredibly high damage and short wind-up.
--   Rapid Punches has a short dash and should be used when doing a combo. Keep in mind that if the punches are parried, they will not be cancelled, but the opponent is able to hit you while the barrage is still active. Highly suggested you cancel the mantra after around 5 hits to avoid giving your opponent a free m1 on you.
+-   Rapid Punches has a short dash and should be used when doing a combo. Keep in mind that if the punches are parried, they will not be cancelled, but the opponent is able to hit you while the barrage is still active. Highly suggested you cancel the Mantra after around 5 hits to avoid giving your opponent a free m1 on you.
 
 ## Trivia
 
--   The majority of mantra modifiers have gotten their functionality removed from Attunement-less mantras, along with the general "mantra modification mini-overhaul" due to their incredible power with Physical Mantras.
+-   The majority of Mantra modifiers have gotten their functionality removed from Attunement-less Mantras, along with the general "Mantra modification mini-overhaul" due to their incredible power with Physical Mantras.
     -   Cloud/Stratus stone increased the hitboxes of moves so much, most of the time you wouldn't even have to look at the enemy.
-    -   Before it was nerfed, Revenge would always teleport you forward regardless of whether the mantra landed or not. Allowing for easy escapes when upgraded with shard modifiers.
-    -   Aeon/Eternal logstones were removed as if you added enough of these on a Charisma mantra, the effect would last so long the mantra's cooldown would have ended before the effect wore off, this may have also applied to Reinforce.
-        -   Reinforce and Brace now upgrade duration by leveling them up at Regek.
--   Prediction has, by far, the most Talent card upgrades out of all the attunement-less mantras.
--   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6&t=379s) at the 6:20 mark on YouTube.
--   Summoning Cauldron used to be one of the most powerful mantras out there, being able to proc bulldozer for free if you movestacked it with flourish.
--   As of the 17/02/2024 Update, **Exhaustion Strike**, can no longer guardbreak monsters or players by transferring posture.
--   Taced Drop Kick used to require 20 strength, but was shadow changed to require 5 strength.
--   You can obtain other Weapon Mantras as long as you have 30 investment points in them, including Jus Karita mantras.
+    -   Before it was nerfed, **Revenge** would always teleport you forward regardless of whether the Mantra landed or not. Allowing for easy escapes when upgraded with shard modifiers.
+    -   Aeon/Eternal logstones were removed as if you added enough of these on a Charisma Mantra, the effect would last so long the Mantra's cooldown would have ended before the effect wore off. This may have also applied to **Reinforce**.
+        -   **Reinforce** and **Brace** now upgrade duration by leveling them up at Regek.
+-   **Prediction** has, by far, the most Talent card upgrades out of all the Attunement-less Mantras.
+-   A small sample of **Reinforce**'s sound effect is taken from the anime _[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)_, specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6&t=379s) at the 6:20 mark on YouTube.
+-   **Summon Cauldron** used to be one of the most powerful Mantras out there, being able to proc _Bulldozer_ for free if you movestacked it with flourish.
+-   As of the 17/02/2024 Update, **Exhaustion Strike** can no longer guardbreak monsters or players by transferring posture.
+-   **Tacet Drop Kick** used to require 20 strength, but was shadow changed to require 5 strength.
+-   You can obtain other Weapon Mantras as long as you have 30 investment points in them, including Jus Karita Mantras.
     -   This used to be 8
--   Ceaseless Slashes is the only Attunement-less mantras to be starred, being 3 stars.
-    -   Rapid Punches used to be 1 star, but was changed to 0.
--   "Strong Left" may have been inspired by [Franky's Strong Right from one piece](https://onepiece.fandom.com/wiki/Franky/Abilities_and_Powers#BF-36/Cyborg_Tactics).
-    -   Strong Left used to be notorious for having a large backwards hitbox that was bigger than the actual forwards hitbox, leading to clips such as turning around to make a strong left hit.
--   Rapid Slashes is Vergil's move from Devil May Cry series.
--   Revenge has its sound effects from the indie RPG game "OMORI" ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
--   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance Ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them. The reason they are not hunted by Silenthearts is probably due to the fact that it is not abuse of the song, it is merely an enhancement of your own physical attributes.
--   Ether Barrage might be a reference to a bug that happened, where a duplicate of Rapid Punches would be available to pick as an Intelligence Combat Mantra.
+-   **Ceaseless Slashes** is the only Attunement-less Mantras to be starred, being 3 stars.
+    -   **Rapid Punches** used to be 1 star, but was changed to 0.
+-   **Strong Left** may have been inspired by [Franky's Strong Right from _One Piece_](https://onepiece.fandom.com/wiki/Franky/Abilities_and_Powers#BF-36/Cyborg_Tactics).
+-   **Strong Left** used to be notorious for having a large backwards hitbox that was bigger than the actual forwards hitbox, leading to clips such as turning around to make a Strong Left hit.
+-   **Rapid Slashes** is one of Vergil's moves from the _Devil May Cry_ series.
+-   **Revenge** takes its sound effects from the indie RPG game _OMORI_ ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
+-   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them. The reason they are not hunted by Silenthearts is probably due to the fact that it is not abuse of the song, it is merely an enhancement of your own physical attributes.
+-   At some point, there was a bug where a duplicate of **Rapid Punches** would be available to pick as an Intelligence Combat Mantra.

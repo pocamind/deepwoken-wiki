@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 137124
+revid: 137238
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -25,6 +25,8 @@ Landing Frostdraw [Mantras](Mantras.md) applies Chill, which slows down enemies 
 A Hemafrosted Capra casting a beam of ice.
 
 This is where the Attunement trainer is located.
+
+Frostdraw can be trained by using a combination of [Hemafrost](Training_Gear.md#attunement-training-gears), Frostdraw Mantras, and [Frigid Prisms](Frigid_Prism.md).
 
 Along with all other elements, users can see their Mantras becoming stronger with training:
 
@@ -1076,7 +1078,7 @@ N/A
  |
 | 
 
-**Effect:** _Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully. Requires Ritual Casting._
+**Effect:** _Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully. Ritual Casted._
 
 -   Shoots a beam of ice ~0.5 seconds after landing a vent that applies chill and deals ~6 damage.
 -   Leveling up the Mantra increases the size of the ice floors, and damage of the beam.

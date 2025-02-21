@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Pitch
-revid: 137062
+revid: 137223
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pitch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Event Item, Hallowtide]
@@ -8,7 +8,7 @@ categories: [Mantras, Event Item, Hallowtide]
 
 # Pumpkin Pitch
 
-Template:Areainfobox Pumpkin Pitch is an [Attunement-less](Attunement-less.md) mantra obtainable by trading in 300 [Joy](Joy.md) with [Glaive Spellhardt](Glaive_Spellhardt.md) at [The Floating Keep](The_Floating_Keep.md) or through [blacksmiths](Blacksmith.md) via the [Hallowtide '23 Medallion](Seasonal_Medals.md).
+Template:Areainfobox Pumpkin Pitch is an [Attunement-less](Attunement-less.md) [Mantra](Mantras.md) obtainable by trading in 300 [Joy](Joy.md) with [Glaive Spellhardt](Glaive_Spellhardt.md) at [The Floating Keep](The_Floating_Keep.md) or through [blacksmiths](Blacksmith.md) via the [Hallowtide '23 Medallion](Seasonal_Medals.md).
 
 ## Description
 

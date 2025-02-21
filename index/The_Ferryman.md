@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 133679
+revid: 137251
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -69,7 +69,7 @@ Dodgeable:◯
  |  |
 | 
 
-**Bolt Piercer**  
+**Lightning Strike**  
 (★☆☆)  
 (★★☆)
 
@@ -77,7 +77,7 @@ Dodgeable:◯
 
 -   Targets the area relative to your player and it's movement, however, if the player is moving, he will only attempt to strike in-front of the player, and as such this move is avoidable by going to the sides or backwards.
 -   Becomes much faster in his second phase.
--   If The Ferryman is in hitstun while casting this move, the Bolt Piercer will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
+-   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
 -   Due to the attack being faster in the second phase, a much "longer" attack opportunity will be given afterward.
 
 Parryable:◯  
@@ -223,8 +223,6 @@ Aside from his seasonal rewards, the Ferryman also provides a line of five chest
 -   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   **[Pluripotent Alloy](Pluripotent_Alloy.md)** - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   **[Dormant Splinter](Dormant_Splinter.md)** - A rare [relic](Relics.md) weapon used for crafting the [Umbrite WItherblade](Umbrite_Witherblade.md) or the [Fondant Splitter](Fondant_Splitter.md) at [The Cold Forge](The_Cold_Forge.md).
-
-He also drop Moonseye Tome very rarely
 
 ## Dialogue
 

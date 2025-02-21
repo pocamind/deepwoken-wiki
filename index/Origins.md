@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 136948
+revid: 137207
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Character, Mechanics, Creation]
 
 # Origins
 
-**Origins** are a feature in _Deepwoken_ which provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways. You **CANNOT** change your origin _mid progression_, you will need to **WIPE** in order to pick a new origin.
+**Origins** are a feature in _Deepwoken_ that provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways. You **CANNOT** change your origin _mid progression_, as you will need to **WIPE** in order to pick a new origin.
 
 ## Castaway
 
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Character, Mechanics, Creation]
 > 
 > ― Origin description
 
-_Castaway_ is the default, intended way to play the game, and is available to the player upon purchase of the game. _It has no restrictions and no benefits._
+_Castaway_ is the default and intended way to play the game, and is available to the player upon purchase of the game. _It has no restrictions and no benefits._
 
 -   You can choose between [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md) as your spawn.
 -   You begin with nothing but the [Stranded](Stranded.md) outfit, and a starting weapon of your choice; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective [Attunement](Attunements.md). _If you have [no Attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead._
@@ -25,7 +25,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
     -   Friend of The Kingdom of Etrea and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
 
-Note: Asking The Captain to remind you about him in [Fragments of Self](Fragments_of_Self.md) **will lock you** to this origin.
+Note: Asking The Captain to remind you of him in [Fragments of Self](Fragments_of_Self.md) **will lock you** to this origin for that specific slot until you wipe again
 
 ## Lone Warrior
 
@@ -39,11 +39,11 @@ Note: Asking The Captain to remind you about him in [Fragments of Self](Fragment
 
 With simply doing Trial of One, you end up at Power 6 with 5 points remaining. With the Autodidact boon or [Adret](Adret.md) aspect, you end up at Power 7 with 2 points remaining. With the aspect Adret and the boon Autodidact, you end up at Power 8 with 3 points remaining.
 
--   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One gate.
--   **\[PRO\]** Spawns you in the Trial of One.
+-   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One.
+-   **\[PRO\]** Spawns you directly inside the [Trial of One](Trial_of_One.md).
 -   **\[PRO\]** Allows use of the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md).
 -   **\[PRO\]** Dying in the Trial of One gives you an option to instantly send you to the [Fragments of Self](Fragments_of_Self.md), however you must have defeated the [Megalodaunt](Megalodaunt.md) to have this option.
--   **\[CON\]** Your default spawn puts you in enemy territory, and there is no nearby town.
+-   **\[CON\]** Your default spawn puts you extremely close to enemy territory, and there is no nearby town.
 
 ## Deepbound
 
@@ -53,9 +53,9 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 **_Obtainment_:** Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining [The Divers](The_Divers.md). Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
 
--   **You don't actually need to join the Divers** to obtain Deepbound, you just need to talk to him.
+-   **You don't actually need to join the Divers guild** to obtain Deepbound, you just need to talk to him.
 
-**Deepbound** grants players a way to progress primarily in [The Depths](The_Depths.md), with many added benefits to make it much easier. However, while they are not forced to stay in The Depths to progress, the _Deepbound Contract_ innate Talent, which is provided alongside this Origin, will attempt to stop players from leaving The Depths too early.
+**Deepbound** grants players a way to progress primarily in [The Depths](The_Depths.md), with many added benefits to make it much easier to survive. However, while they are not forced to stay in The Depths to progress, the _Deepbound Contract_ innate Talent, which is provided alongside this Origin, will attempt to stop players from leaving The Depths too early.
 
 -   You can choose to either spawn at [Castle Light](Castle_Light.md) or the [Diluvian Mechanism](The_Diluvian_Mechanism.md), both located in [The Depths](The_Depths.md).
 -   Your starting reputations are:
@@ -74,16 +74,16 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** Increased EXP Gain in [The Depths](The_Depths.md), increased further below Power 15.
 -   **\[CON\]** Reduced EXP Gain in the Overworld.
 -   **\[PRO\]** You regain sanity in Castle Light.
--   **\[PRO/CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the possibility of a [Nautilodaunt](Nautilodaunt.md).
+-   **\[PRO/CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the rare possibility of a [Nautilodaunt](Nautilodaunt.md).
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you (the banker, the antiquarian, a working fire place, etc.).
 -   **\[CON\]** **You cannot do Trial of One.** Although spawning at the [Diluvian Mechanism](The_Diluvian_Mechanism.md) might serve as a good alternative, it is much more difficult.
 -   ~**\[PRO\]** You regain sanity from killing monsters in the Depths.~Not true, the talent "Conquer your fears" gives sanity from killing monsters in the depths, not the origin. It has been tested in the diluvian mechanism and does not work. You will still go insane even while killing monsters.
--   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
+-   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health and whether or not they're corrupted.
 -   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
 -   \[**PRO\]** You can always enter Castle Light regardless of the status of your soul. (If you die in the overworld while on second life you can still enter)
 -   **\[PRO\]** If you are a contractor, You will still be able to enter castle light.
--   \[Neutral\] for an unknown reason you always spawn at 17
+-   \[Neutral\] for an unknown reason you always spawn at 17 (may not be intended)
 
 ## Voidwalker
 

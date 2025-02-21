@@ -1,9 +1,9 @@
 ---
 title: Scion of Ethiron
-revid: 135056
+revid: 137219
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters, Bosses]
+categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
 ---
 
 # Scion of Ethiron
@@ -15,7 +15,6 @@ Eternally bound to guard his shrine... ”
 
 ― [Naerotiv](Naerotiv.md)
 
-  
 Template:Creature Infobox V3
 
 ## Description

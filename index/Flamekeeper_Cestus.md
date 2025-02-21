@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 129300
+revid: 137202
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -36,4 +36,4 @@ An endgame option for pure Fists users, competing with the [Coral Cestus](Coral_
 -   Meeting the requirement of LHT, the damage is (22.7)
 -   At max LHT, the damage is (26.5)
 -   The weapon references The Covenant of the Flame.
--   Despite its namesake, [Flamecharm](Flamecharm.md) has no effect or relevance to this weapon.
+-   Despite its namesake, The [Flamecharm](Flamecharm.md) Attunement has no effect on, or relevance to this weapon.

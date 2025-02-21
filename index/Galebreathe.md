@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 137095
+revid: 137240
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -854,7 +854,7 @@ N/A
  |
 | 
 
-**Effect:** _Spawns a spherical wisp of wind. Requires Ritual Casting._
+**Effect:** _Spawns a spherical wisp of wind. Ritual Casted._
 
 -   Grants 30% fall damage resistance.
 -   Haunted Gale and Haunted Path: Specter require one less perfect casted mantra hit to activate (3 -> 2).
