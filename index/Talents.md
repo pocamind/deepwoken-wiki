@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137281
+revid: 137308
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -497,7 +497,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
     -   Drains 4.5 HP per second and 2% Blood per second. The damage taken from this **cannot** be reduced by any source.
-    -   Grants a final 1.15x damage multiplier (15% damage buff) to **ALL** outgoing damage (this includes damage sources that don't normally benefit from damage buffs like **Bleed** or **Burn** damage). This damage buff bypasses the damage modifier cap, resulting in a 2.01x maximum modifier.
+    -   Grants a 15% damage buff.
     -   Increases blood damage by +35% (additive).
     -   Grants a 30% active speed boost. This counts for talents such as Speed Demon and Cheap Shot.
     -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
@@ -3351,7 +3351,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 25% additional penetration.
     -   Gives [Way of Navae](Way_of_Navae.md) weapon attacks have 25% more PEN. This applies to critical attacks despite what the talent description says.
     -   This bypasses the PEN cap.
--   Coldseep Reactor [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
+-   Coldseep Reactor: [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
     -   Grants 20% Mantra PEN.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 136246
+revid: 137298
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -63,26 +63,31 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   _**Heavily**_ reduced cooldown on hit/block.
     -   **CURRENTLY BUGGED: BLOODLESS GEM DOES NOT WORK WITH THIS MANTRA.**
     -   Chain is applied even if the mantra dodged or blocked, but not when parried
+-   Obtainment: Obtained with the Oath itself.
 -   **Impel** - **Combat Mantra**
     -   _Blast through your opponent's guard and pull them towards you._
     -   Fire 4 dark blasts at your cursor, chaining those hit by at least 3 blasts. Enemies hit by the mantra while chained will then get pulled and kicked away, similar to Chain Lash (will not remove chains).
     -   Aimable with your mouse.
     -   This mantra has a 15 second cooldown.
+-   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Rupture** - **Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
     -   On base use, readies two devastating punches that deals damage and dazes on hit. The second punch will only commence if the first one hits a valid target.
     -   On a chained target, the user pulls on the chain, dealing damage and exploding enemies away from **your camera placement**.
     -   If you add a [reversal spark](Mantra_Modifiers.md), it will send enemies away in the **opposite way of your camera.**
+-   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
     -   Damage stacks are independent from person to person.
     -   After using Restrain 3+ times, casting Restrain will cause an AOE blast.
+-   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Chain Lash - Passive:** On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
     -   Using an M1 after the chain has been pulled with cause you to kick your foes, sending them flying.
         -   The Chain applied can be used for Rupture.
     -   The kick deals approximately 45 damage, and is unknown to be reduced by any amount of armor.
+-   Obtainment: Obtained after the second _chained_ Hunted Player/Humanoid Boss grip.
 
 ## Trivia
 

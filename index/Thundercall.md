@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 137239
+revid: 137301
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -266,7 +266,7 @@ Lightning + Slash
 
 **Effect:** _Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s)._
 
--   Deals 47.25 (15.75\*3) DMG, 10 posture, 15s CD
+-   Deals 47.25 (15.75\*3) DMG, 10 posture, 14s CD
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to double the amount of projectiles conjured.
     -   This modifier does the same amount of damage as default.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) making the projectiles home towards the target and removing the beams of thunder.
@@ -428,7 +428,7 @@ Lightning + Blunt
 
 **Effect:** _Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any targets hit._
 
--   Deals 44.25 DMG, 100+ posture, 0.65s windup, 10s CD
+-   Deals 44.25 DMG, 100+ posture, 0.65s windup, 11s CD
 -   Press F immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
     -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
     -   Doesn't work if the initial kick guardbroke the target (needs further testing)
@@ -502,7 +502,8 @@ Lightning
 
 **Effect:** _Conjure and throw a spear of lightning towards where the character is facing._
 
--   Deals 55.51 DMG, 11 Posture, 15s CD at 5 lvl. (52.86 DMG (17.62\*3), also 16.4 posture total with multiplying spark)
+-   Deals 55.51 DMG, 11 Posture, 15s CD at 5 lvl.
+-   With Multiplying spark: 52.86 DMG (17.62\*3, 16.4 posture total, 15s CD
 -   Ragdolls and flings target(s).
 -   Does not break block but deals a lot of posture damage if blocked.
 -   Can be given an effect with the "**Grand Skewer**" Talent; which carries the target(s) hit along with projectile if the user presses the \[F\] key while casting.
@@ -793,7 +794,7 @@ Lightning
 **Effect:** _Grapple onto a target with a stream of lightning before pulling them in. Deals light damage; moderate for **Blast Spark** variant._
 
 -   Stuns the target, allowing a small chance to begin a combo.
--   Deals 15 DMG, 4.2 posture, 0.4s windup, 15s CD at 5 lvl.
+-   Deals 15 DMG, 4.2 posture, 0.4s windup, 14s CD at 5 lvl.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of the projectile traveled.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to grapple on peoples instead of pulling them.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to stun the target instead of pulling them towards the user.

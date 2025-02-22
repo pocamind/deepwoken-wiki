@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 137241
+revid: 137300
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -106,7 +106,7 @@ Shadow + Slash (Grab), Blunt (Slam)
 **Effect:** _Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage. The caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage_
 
 -   Refills about the same amount of Ether as the spell cost.
--   Deals 57.41 DMG total, 47.84 grab + 9.57 slam.
+-   Deals 57.41 (47.84 grab + 9.57 slam.) DMG, 6.5 posture, 11.5s CD.
 -   Grab has 9.18x PVE scale, Slam has 59.47x PVE scale (47.84 DMG grab + 9.57 slam PVP, 439.17 DMG grab + 569.17 slam PVE)
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
 -   It has a cooldown of 12 seconds.
@@ -143,7 +143,7 @@ Shadow + Slash
 
 **Effect:** _A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable._
 
--   Deals 19.14 damage per hit, total 57.42 at level 5, 12s cd.
+-   Deals 57.42(19.14\*3), 9.99 posture (3.33\*3), 12s CD at 5 lvl.
 -   Has 9.178x PVE scale (19.14 DMG PVP, 175.67 PVE DMG)
 -   Adding Rush Shards make Dark Blade faster.
 -   Adding Vibrant Gems increase Ether steal.
@@ -181,8 +181,8 @@ Shadow
 
 **Effect:** _You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable._
 
--   Deals 35.88 dmg non modded at 5 lvl, 3 stratus and 3 perfect lenses will do 23.92 dmg. (-50% DMG)
--   Blast spark version does 23.68 per hit, 71.04 total. With 3 stratus stones and 3 perfect lenses does 15.79 per hit, 47.37 total. (-50% DMG)
+-   Deals 35.88 dmg non modded at 5 lvl, guardbreaks, 12s CD. (3 stratus and 3 perfect lenses version will do 23.92 dmg. (-50% DMG))
+-   Blast spark version deals 71.04 (23.68\*3). 27 posture (9\*3), 10s CD. (With 3 stratus stones and 3 perfect lenses does 15.79 per hit, 47.37 total. (-50% DMG))
 -   Each modification makes you lose 8.33% DMG.
 -   Has 9.18x PVE scale (35.88 DMG PVP, 329.38 PVE)
 -   Adding Lenses will increase the range of the blast forward
@@ -224,7 +224,7 @@ Shadow
 
 **Effect:** _The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their Ether based on the number of chains applied for a duration of 3 seconds._
 
--   Deals 17.25 DMG per chain at level 5, total 69
+-   Deals 69 (17.25\*4) DMG, 0 Posture, 15s CD at 5 lvl.
 -   Has 9.178x PVE scale (17.25 PVP DMG, 158.32 PVE)
 -   Casts an extra chain at level 5 (Confirmed, level 5 does cast an additional chain.)
 -   Duration of the chain effect can be increased with Logstones
@@ -262,7 +262,7 @@ Shadow
 
 **Effect:** _The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. Blockable._
 
--   Deals 31.1 DMG total
+-   Deals 31.1 DMG total, 5.5 posture, 11s CD at 5 lvl.
 -   Has 9.178x PVE scale (31.1 DMG PVP, 285.46 PVE DMG)
 -   Unaffected by Glass & Magnifying Stones.
 -   Cloud and Stratus Stones increase the size of the eruption.
@@ -300,7 +300,7 @@ Shadow + Slash
 
 **Effect:** _The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase_ nearby opponents until the duration has expired or the orb has made contact with the target. Orbs do a small amount of damage and steal a large amount of Ether.
 
--   Deals 80 damage total (20 per shadow seeker)
+-   Deals 80 (20\*4) DMG, 1 posture per hit, 14s CD
 -   Shares a cooldown with Shadow Meteors.
 -   If attacked while casting, the Shadow Seekers will dissipate
 -   You cannot use any Mantras after using this Mantra until the orbs have either hit the target or despawned.
@@ -339,7 +339,7 @@ Shadow, Blunt (Slam)
 
 **Effect:** _User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting_ with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing Ether. This attack can summon multiple tendrils to grab multiple people simultaneously.
 
--   Deals 32.29 dmg + 5 slam
+-   Deals 32.29 dmg + 5 slam, 5.5 posture, 10s CD.
 -   Has 9.18x PVE scale, slam has 6.5x (32.29 DMG + 5 Slam PVP, 296.44 DMG + 32.4 slam)
 -   Drift and Rush Shards increase projectile speed.
 -   Cloud and Stratus Stones increase range.
@@ -377,7 +377,7 @@ Shadow
 
 **Effect:** _3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable._
 
--   Deals 41.86 per meteor, 125.58 DMG total
+-   Deals 125.58 (41.86\*3), 6.3 (2.1\*3) posture, 16s CD.
 -   Has 9.179x PVE scale (41.86 PVP DMG, 384.27 PVE DMG)
 -   Shares a cooldown with [Shadow Seekers](Shadowcast.md#shadow-seekers).
 
@@ -413,7 +413,7 @@ Shadow
 
 **Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and Ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit._ "Hit em with a scream!"
 
--   Deals 86.08 dmg total, 10.76 per hit.
+-   Deals 86.08 (10.76\*8) DMG, 28 (3.5\*8) posture, 16s CD.
 -   Has 9.183x PVE scale (10.76 PVP DMG, 98.81 PVE)
 
  |
@@ -448,7 +448,8 @@ Shadow, Shadow + Blunt (Mul. Spark)
 
 **Effect:** _The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back._
 
--   Deals 137.54 dmg, 10.76 + 110.03 dmg with Multiplying Spark
+-   Deals 137.54 dmg, Guardbreak, 12s CD at 5 lvl.
+-   Deals 10.76 + 110.03 dmg with Multiplying Spark
 -   Has 9.18x PVE scale (137.54 PVP DMG, 1262.62 PVE DMG, Multi spark: 10.76 + 110.03 PVP DMG, 98.81 + 1010.09)
 -   The axe kick does not proc Deep Gems, the Multiplying Spark's high kick does
 -   Can also break certain tiles and fell trees.
@@ -488,7 +489,8 @@ Shadow + Slash
 
 **Effect:** _User creates a large black sword from their hands, using it to slash the enemy in front of them._
 
--   Deals 41.26 DMG as non-modded and Spring Spark. 27.51\*3 DMG with Multi spark, 90.78 (41.26+24.76+24.76) with multi and spring spark
+-   Deals 41.26 DMG as non-modded and spring spark, 13 posture, 12s CD
+-   Spark versions: 27.51\*3 DMG, 13 posture per hit with Multi spark, 90.78 (41.26+24.76+24.76), 27.75 (13+6.76+8) posture with Multi and Spring spark.
 -   Has 9.18x PVE scale (41.26 PVP DMG,378.79 PVE DMG)
 -   Can't be feinted.
 -   Can be modified with a Spring Spark, making you lunge forward and slam down on the enemy.
@@ -527,12 +529,11 @@ Blunt
 
 **Effect:** _The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too._
 
+-   Deals around 40 DMG (Does around 75.6 DMG if hit by shadow gun), Guardbreaks at block attempt, 20s CD
 -   The Mantra doesn't combat tag.
 -   Has no vertical range cap.
 -   You can shoot a Shadow Gun into the vortex after it has grabbed a target. Doing so will cause it to explode, dealing extra damage and stealing a high amount of Ether.
 -   Is compatible, and can be modified with Glass/Magnifying Stones to increase the range, though it seems to display diminishing returns.
--   Deals 40 dmg, 115 with shadow gun shot into vortex
--   This Mantra has a 25 second cooldown.
 
  |
 
@@ -599,7 +600,7 @@ Shadow + Slash
 
 **Effect:** _The user will summon shadows around their target and teleport to them after a short wait._
 
--   Deals 35.88 damage at 5 lvl
+-   Deals 35.88 DMG, 6.5 posture, 10s CD at 5 lvl
 -   Has 9.18x PVE scale (35.88 PVP DMG, 329.38 PVE DMG)
 -   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged
@@ -636,7 +637,8 @@ Shadow + Slash/Blunt (Bl. Spark)
 
 **Effect:** _Ready yourself before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable._
 
--   Deals 51.67 DMG no mod. With blast spark 3.75 per hit, does 20 hits total, 75 total dmg.
+-   Deals 51.67 DMG, 9.5 posture, 19s CD
+-   With Blast spark: 75 (3.75\*20) DMG, 10.53 posture per hit if u will try to block during blast spark multi hit attack.
 -   Has 9.18x PVE scale (51.67 DMG PVP, 474.3 PVE DMG)
 -   Crystal/Perfect Lenses increase distance.
 -   Glass and Magnifying Stones make hitbox larger.
@@ -675,7 +677,7 @@ Shadow
 **Effect:** _Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards._
 
 -   After ~3s (or sooner if player uses left click) you jump out creating a shadow 'Spike' that pierces enemies.
--   Deals 31.1 DMG at 5 lvl
+-   Deals 31.1 DMG, 14.5 posture, 12s CD
 -   Has 9.178x PVP scale (31.1 DMG PVP, 285.46 PVE)
 -   While submerged you have I-Frames.
 -   You can't block or parry while submerged.
@@ -747,7 +749,8 @@ Shadow
 
 **Effect:** _Causes a damaging shockwave that adds a +20% weapon damage buff to the user. Consumes health upon use._
 
--   Deals 16.27 dmg, 24.64 dmg with Blast Spark, 16.27\*3 dmg with Multi spark and 16.27\*3 dmg with Multi + Blast Spark
+-   Deals 16.27 DMG, 8.6 posture per hit, 19s CD.
+-   Spark versions: 24.64 dmg with Blast Spark, 16.27\*3 dmg with Multi spark and 16.27\*3 dmg with Multi + Blast Spark
 -   Has 9.177x PVE scale (16.27 PVP, 149.32 PVE)
 -   The damage buff can be increased to 25% with Vibrant Gems
 -   Can be modified with Aeon/Eternal Logstones to increase duration of buff.
