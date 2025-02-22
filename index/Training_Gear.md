@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 137130
+revid: 137317
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement]
@@ -46,7 +46,7 @@ All of the training gears cost notes and sell for notes. Use of the item will no
 
 ### List of Training Gears
 
-| **Attribute Type** | **Item Name** | **In-Game Description** | **Uses** | **Picture** |
+| **Attribute** | **Item Name** | **In-Game Description** | **Uses** | **Picture** |
 | --- | --- | --- | --- | --- |
 | 
 **Strength**
@@ -203,7 +203,7 @@ A weapon manual being held
         -   Encyclopedia is in a secret passageway behind the building with the Math Textbook and Weapon Manual. Turn right once you exit the room with Parsnip and you should be able to see the secret passage. Down the ladder of that room you can see a bookcase. Encyclopedia is on there
             -   Behind the boxes on the left of the bookself, there you can also buy [Instruments](Instruments.md)
 
--   Both
+-   Both Luminants
     -   [Voidheart](Voidheart.md): On the bookcases near [Croissant](Mantra_Collector.md)
     -   [Guild Base](Guild_Bases.md): This is only possible if the Guild Base unlocks the Library
     -   [The Floating Keep](The_Floating_Keep.md): Inside the Castle, on the first floor, after coming out of the room with [Lysander Spellhardt](Lysander_Spellhardt.md), turn left and you'll see 2 bookcases. The books are on them. **Note that you cannot buy Math Textbook here.** **This is only possible during the [Hollowtide Event](Hallowtide.md).**

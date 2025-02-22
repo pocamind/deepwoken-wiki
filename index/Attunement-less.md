@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 137269
+revid: 137323
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -22,7 +22,7 @@ Most of your Mantras focus on your physical and mental capabilities instead of a
 
 In spite of its shortcomings, the potential of Attunement-less is nothing to scoff at, as stat points normally allocated to Attunements can instead be used to obtain Talents, as well making obtaining high investment Talents more worthwhile should a powerful combat Mantra scale off the same points.
 
-## Training
+## Upgrading Mantras
 
 The Attunement-less Mantra trainer [Regek](Regek.md) can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their Mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.) Alternatively, you can use the Songwright in the guild base (if you hired him already)
 
@@ -48,7 +48,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 ## Attribute Mantras
 
 -   These Mantras are based on your attributes, not your Attunements.
--   Their damage/efficiency scales with the attribute's level. (Note: All Attunement-less mantras are currently bugged and have 0 scaling)
+-   Their damage/efficiency scales with the attribute's level.
 -   Although the Mantras have nothing to do with Attunements, having an Attunement can sometimes make certain Attunement**less** Mantras have higher obtainment requirements (e.g; Glare). Source: Arch\_Mage and tester(s)
 -   _(Side Note: Do not confuse upgrading Mantras at trainers with using modifiers.)_
 
@@ -807,8 +807,9 @@ _Conjure concentrated orbs of Ether to launch at your enemy._
 
 **Effect:** _User rises up in the air, and launches 4 orbs of Ether that explode and ragdoll on impact._
 
+-   When close enough to the enemy, the orbs will autotrack.
 -   Can be used from any height, and you will float.
--   Does not negate fall damage, tested.
+    -   Does not negate fall damage.
 
  |
 | 

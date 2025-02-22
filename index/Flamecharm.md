@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137284
+revid: 137329
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -439,6 +439,42 @@ Fire
 -   Has 0.7 seconds windup and 0.2 seconds of endlag
 -   Inflicts Burn.
 -   Can be modified with Cloud/Stratus Stones to increase size, every +1 in size makes it 10% bigger.
+
+ |
+| 
+
+**Searing Snare** (★☆☆)
+
+_Place a fiery snare at a chosen location. Enemies that stumble into it are scorched._
+
+ | 
+
+## Searing Snare (★☆☆)
+
+  
+_Place a fiery snare at a chosen location. Enemies that stumble into it are scorched._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Fire
+
+ | 
+
+20 Flamecharm
+
+ |
+| 
+
+**Effect:** Cast a circular area mark that follows your cursor. Click to create an eruption of flame at that location.
+
+-   Deals 62 damage, ?? posture at level 5.
+-   Can be modified with Crystal/Perfect Lenses to increase the casting range.
+-   Can be modified with a Spring Spark, causing it to ragdoll but makes it able to damage the user.
 
  |
 | 

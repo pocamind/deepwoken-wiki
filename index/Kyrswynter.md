@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 136809
+revid: 137321
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -46,6 +46,8 @@ For the running critical, the user winds up before leaping forward with the weap
 The criticals can be chained together by attacking before the standing critical, which allows you to perform the running critical after the standing critical hits.
 
 Both criticals share a cooldown of **9 seconds**.
+
+As of 2/22/2025, criticals and weapon model now share the color of the path the player is using.
 
 ## Obtainment
 

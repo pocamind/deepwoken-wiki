@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137308
+revid: 137315
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2809,7 +2809,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Discovery Of Fire \[Common Talent, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons.
     -   Grants the tool "Discovery of Fire", which uses ether to light up all nearby campfires.
     -   Using this ability will light nearby downed enemies aflame.
-    -   Since December 2023, you can't light up campfires for some reason
     -   Can be parried
     -   Prerequisite: 50 Thundercall
 

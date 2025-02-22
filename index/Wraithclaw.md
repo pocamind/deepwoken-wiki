@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 136940
+revid: 137322
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]
@@ -57,6 +57,8 @@ For the **standing** critical, the user windups into a barrage of six slashes, e
 For the **aerial** critical, the user quickly whirls in front of them, dealing moderate damage and massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md).
 
 Both criticals share the cooldown of **10 seconds**.
+
+As of 2/22/2025, criticals now share the color of the attunement path the player is using.
 
 ## Obtainment
 

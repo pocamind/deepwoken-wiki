@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 137164
+revid: 137320
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -60,7 +60,7 @@ For the **running** critical, the user imbues the club with flame, slashing in f
 
 Both criticals share a cooldown of **10 seconds**.
 
-Azure and Twisted Puppets variant of the critical does not change visual colors. (Needs to be fixed as it should change colors depending on the variant.)
+As of 2/22/2025, criticals now share the color of the path the player is using.
 
 ## Trivia
 
