@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 133189
+revid: 137273
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -107,4 +107,4 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 -   You need a wallbreak mantra to access to Entropy Catalyst. However, you can clip through by running at full speed, rolling then jumping right after.
     -   You can also climb up the surrounding walls (often with clever Chime of Dwelling usage.)
 -   Scarlet Lotuses are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
--   Anyone can use the white orb once it is spawned, regardless of who places them.
+-   Anyone can use the white orb once it is spawned, regardless of who places them. \* If you have Pristine Lotuses and put a knocked player on the sacrifice ritual, you should get a Scarlet and a completed sacrifice crater.

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 137243
+revid: 137285
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -121,7 +121,7 @@ Blood
 
 **Effect:** _Launch an orb-shaped projectile of blood to wherever the character is facing._
 
--   At level 5 it deals 40 damage.
+-   Deals 38.27 DMG at 5 lvl
 -   Leaves behind a Blood Pool.
 -   Can be modified with a Multiplying Spark, making it launch 3 orbs instead.
     -   Damage per orb gets reduced, however, hitting all 3 orbs ends up dealing more damage than the non-spark version.
@@ -158,7 +158,8 @@ Blood
 
 **Effect:** _Launch a crucifix-shaped projectile at the cursor's position._
 
--   At level 5 it deals 50 damage.
+-   Deals 47.84 DMG at 5 lvl
+-   has 9.18x PVE scale (47.84 PVP, 439.17 PVE DMG)
 -   Ragdolls.
 -   It doesn't work well outside of Shift-Lock currently.
 
@@ -194,9 +195,8 @@ Blood
 
 **Effect:** _Perform a quick gesture before conjuring and sending a volley of blood that goes through enemies towards wherever the character is facing before dissipating when hitting an object or exceeding its range._
 
--   At level 5 (AND IF ALL TICKS OF DAMAGE LAND) this attack deals approximately 120 damage (Not exact amount).
--   18 second CD
--   Can be modified with a Multiplying Spark, conjuring 2 more projectiles adjacent of the initial. (unknown if damage per cyclone its reduced)
+-   Deals 155.5 (15.55\*10) DMG at 5 lvl
+-   Can be modified with a Multiplying Spark, conjuring 2 more projectiles adjacent of the initial. (Reduced DMG from 15.5 to 6.22)
 -   Can be modified with a Reversal Spark, making the projectile travel half of the distance of the original before returning to the user.
     -   Both sparks can be paired together.
 
@@ -232,7 +232,7 @@ Blood
 
 **Effect:** _Quickly conjure up a scythe of blood before rushing forward, hitting any target(s) in its way._
 
--   At level 5 this attack deals 45 damage.
+-   Deals 38.27 DMG at 5 lvl
 
  |
 | 
@@ -266,8 +266,9 @@ Blood
 
 **Effect:** _Conjure a stake of blood near the character that locks onto an enemy and impales them; stakes can also form from nearby blood pools conjured from the user._
 
+-   Deals 53.8 (10.76\*5) DMG at 5 lvl
+-   Has 2.7x PVE scale (53.8 DMG PVP, 145.3 PVE)
 -   Leaves behind a Blood Pool.
--   Deals moderate damage (atleast a single stake).
 
  |
 | 
@@ -301,7 +302,7 @@ Blood
 
 **Effect:** _Jump up into the air before slamming down, dealing AoE damage and applying knockdown._
 
--   At level 5 the initial slamdown deals 70 damage followed by a small tick of 10 damage.
+-   Deals 56.2 + 16.86 (likely bleed), total DMG 73.06 at 5 lvl
 -   Leaves behind a Blood Pool.
 -   Applies knockdown to the enemy on hit.
 -   This attack apparently has 2 hits.
@@ -340,7 +341,7 @@ Blood
 **Effect:** _Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on its impact location. Activating the mantra again will cause the daggers to fly towards and hit the nearest target._
 
 -   At mantra level 5, the quantity of daggers thrown out is increased from 3 > 6.
--   At level 5: It deals 60 damage if all knives land. It also deals 60 damage in the re-cast if all knives land, for a total of 120 damage if all 6 knives land both times. Its highly probable that each singular knive deals 10 damage.
+-   Deals 55.62 (9.27\*6) at throw + 55.62 (9.27\*6) at recall, total DMG 111.24 at 5 lvl.
 
  |
 | 
@@ -374,8 +375,7 @@ Blood
 
 **Effect:** _Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground._
 
--   At level 5 and if all the blood slashes land, this mantra deals 60 damage.
--   Deals about 15 posture.
+-   Deals (19.14+19.14+20.09) at 5 lvl
 
  |
 | 
@@ -409,7 +409,7 @@ Blood
 
 **Effect:** _Quickly conjure blades from the arms of the character before dashing forward, launching the target(s) upwards and initiating an attack. If landed successfully, fly back in the opposite direction before initiating a follow-up attack._
 
--   At level 5: The first hit deals 45 damage and the second one 20 damage.
+-   Deals 63.75 (41.86 1st hit + 21.89 2nd hit) at 5 lvl
 
  |
 | 
@@ -444,7 +444,7 @@ Blood
 **Effect:** _Jump into the air before blasting a continuous beam of blood at a nearby target._
 
 -   Beam locks onto target for the entire duration of the mantra.
--   If hit for the whole duration, it deals 65 damage.
+-   Deals 52.78 (3.77\*14) + 3.59, total 56.37 DMG at 5 lvl
 
  |
 | 
@@ -478,8 +478,7 @@ Blood
 
 **Effect:** _Dash forward with a blood-infused fist before lifting any and all target(s) in its way whilst causing the target(s) to implode with blood._
 
--   At level 5 this mantra deals 50 damage.
--   Deals about 11 posture damage.
+-   Deals 31.38 (10.46\*3) at start + 21.98 at end of attack, total DMG 53.36 at 5 lvl.
 
  |
 | 
@@ -514,8 +513,7 @@ Blood
 **Effect:** _Activate to initiate charging, the user's character will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. M1 while charging to initiate the punch. Once fully charged, the mantra gains the ability to blockbreak._
 
 -   Damage and posture scales based on the duration charged.
--   At level 5 and fully charged this attack deals 130 damage.
--   There is a bug where this Mantra cannot be leveled up.
+-   Deals 41.86 DMG (non charged), 71.76 (Full charged) at 5 lvl.
 -   Becomes unparryable at about the 3rd Flash
 
  |
@@ -550,10 +548,11 @@ Blood
 
 **Effect:** _Perform a gesture that causes a nearby target to explode continuously with blood.'_
 
--   At level 5 and if all the ticks of damage landed (can be vented) this mantra deals 70 damage.
--   Deals about 11 posture damage.
+-   Deals 29.3 (grab) + 41.02 (5.86\*7) blood drain, total DMG 70.32 at 5 lvl.
+-   With 3x vibrants DMG increases to 99.62 (29.3+5.86\*13), but ether cost increased to 110.
+-   1 Vibrant gives extra 5.86 DMG, 2 Vibrants 23.44 DMG, 3 Vibrants 35.16 DMG
 -   Switches targets when it cannot hit the previous one.
--   Can be modified with Vibrant Gems to increase the duration.
+-   Can be modified with Vibrant Gems to increase amount of hits leading to extra DMG.
 -   Can be modified with a Multiplying Spark, triggering in 2 bursts and stunning the target for a bit longer.
 
  |
@@ -588,7 +587,8 @@ Blood
 
 **Effect:** _Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage for every second passed. Simultaneously, a projectile shaped like a [Bloodtide Trident](Bloodtide_Trident.md) is conjured and ascended for every second of the mantra's duration before finally plummeting at the mantra's duration expiring and dealing massive AoE damage._
 
--   At level 5, and if all hits land, this mantra deals a total of 85 damage.
+-   Deals 52.59 DMG (uncharged), 73.94 DMG (Full Charged) + 2.39 per hit AOE at 5 lvl
+-   Takes 7 ticks to full charge or 5.5 seconds
 
  |
 
@@ -655,6 +655,7 @@ Blood
 
 **Effect:** _Quickly dive into a pool of blood and gain the ability move around while being invulnerable before resurfacing whilst dealing damage._
 
+-   Deals 47.84 DMG at 5 lvl
 -   Leaves behind a Blood Pool
 -   Mantra is similar to that of [Beast Burrow](Monster_Mantras.md#beast-burrow) and [Shade Step](Shadowcast.md#shade-step)
 -   While this mantra is active, you can **reload** your gun (1H) inside of it

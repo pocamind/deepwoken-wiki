@@ -1,9 +1,9 @@
 ---
 title: Sky Statue
-revid: 127687
+revid: 137277
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [Pages with broken file links, NPCs, Tips]
 ---
 
 # Sky Statue
@@ -23,7 +23,7 @@ Sky Statue located next to Lower Erisia
 
 1.  On top of the gate between the sea with lower erisia and isle of vigils and the sea with minitersa and the waterlocks
 2.  Behind Lord Regent's Manor
-3.  On top of songseeker's mountain by the MINITYRSA gate
+3.  On top of Songseeker's mountain by the MINITYRSA gate
 
 Sky Statue located in Etris behind Lord Regent's Manor.
 
@@ -36,3 +36,7 @@ Sky Statue Puzzle Dialogue (Might be edited)
 Sky statue located near songseeker
 
 As stated by TheRealPunchee, a mod for the game, the statues look towards the [The Floating Keep](The_Floating_Keep.md) from the Hallowtide event
+
+## Tips
+
+-   You can easily get to the ones at songseeker and on top of the gate by using a chime of dwelling and campfires.

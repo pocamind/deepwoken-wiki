@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 134175
+revid: 137279
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -18,7 +18,7 @@ The main purpose is to punish rage-quitting and logging in combat. _known as_ _(
 
 #### Indicated By
 
--   The white/red skull is popping up at the top of the screen.
+-   The light blueish purple/red skull is popping up at the top of the screen.
 -   Combat music of the Location you're in will start playing.
 
 #### Consequences of entering combat

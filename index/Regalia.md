@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 137265
+revid: 137271
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,7 +34,7 @@ Mute (also known as “Animal King”) has the ability to make monsters unable t
     -   [Prime Golems](Rock_Golem.md#golem-prime)
     -   [Rogue Constructs](Hive_Construct.md#rogue-construct)
     -   [Enforcers](Enforcer.md)
-    -   Ambush [Mechalodaunts](Megalodaunt.md#mechalodaunt)
+    -   Ambush [Mechalodaunts](Mechalodaunt.md)
 
 -   Mute does work against some humanoids.
     -   [Ministry Necromancers](Ministry_Necromancer.md)

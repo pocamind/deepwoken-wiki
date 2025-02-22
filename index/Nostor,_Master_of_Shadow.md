@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 133450
+revid: 137272
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
@@ -46,7 +46,7 @@ Rapid Punches
 
 -   _Perfect Flash_ - If Nostor has full Health their mantras do 25% more damage.
 -   _Impervious Slumber_ - If Nostor gets hit while knocked, their knocked timer isn't reset.
--   _Dark Hours_ - Nostor's Shadowcast mantras deal more damage at night.
+-   _Dark Hours_ - Nostor's Shadowcast mantras deal more damage at night. (Pretty much just more damage, since you fight them in the Depths.)
 -   _Dark Rift_ - If Nostor successfully dodges an attack they enter a rifted state where they can't be damaged until its duration ends. Can be cancelled if they attack or feint.
 -   _Singularity_ - If Nostor hits an enemy, the enemy will briefly hang in place when hit by a shadow move.
 -   _Black Hole_ - Nostor's singularity pulls everyone nearby in.

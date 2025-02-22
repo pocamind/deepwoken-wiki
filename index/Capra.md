@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 137268
+revid: 137274
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Moonseye]
@@ -17,7 +17,7 @@ Chance of obtaining aspect: **2.2%**
 
 ## Description
 
-Capras are an aspect similar to goats, exhibiting various goat-like characteristics such as horns, rectangular pupils, and even masks shaped like a goat’s skull. Capra NPCs are rarely found in the Lumen of Deepwoken, and their characteristics are unspecified. Capras start with an intelligence and willpower bonus along with the ability to buff the regeneration of others at a campfire, with each buff having more potency dependent on the aspect variant.
+Capras are an [aspect](Aspects.md) similar to goats, exhibiting various goat-like characteristics such as horns, rectangular pupils, and even masks shaped like a goat’s skull. Capra NPCs are rarely found in the Lumen of Deepwoken, and their characteristics are unspecified. Capras start with an intelligence and willpower bonus along with the ability to buff the regeneration of others at a campfire, with each buff having more potency dependent on the aspect variant.
 
 ## Racial Traits
 

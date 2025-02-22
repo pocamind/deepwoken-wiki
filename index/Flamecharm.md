@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137264
+revid: 137284
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -153,7 +153,7 @@ Fire
 -   Deals high posture damage, becoming an instant-guardbreak at level 5.
 -   Inflicts Burn.
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
--   Can be modified with Aeon/Eternal Logstones to \[TBA\].
+-   Can be modified with Aeon/Eternal Logstones to make it MASSIVE.
 -   Can be modified with Vibrant Gems, causing the attack to destroy more environment.
 -   While having [Starkindred](Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
     -   A Reversal Spark can be used to negate this variation, allowing you to use normal fire blade with wings.
