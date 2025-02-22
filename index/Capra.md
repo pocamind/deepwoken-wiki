@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 134103
+revid: 137268
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Moonseye]
@@ -141,6 +141,7 @@ These are no longer in the game as of 1/22/2023.
 -   Capras look similar to some depictions, which are not truly accurate, of a wendigo, which is a creature formed by committing cannibalism out of hunger.
 -   The Capras had their appearance reworked on 1/22/2023.
 -   As of the 2/20/2023 update, each Capra variant's mark grants the buffs that the other two have, but with less effectiveness. Additionally, each Capra mark was given the hp regen buff.
+-   Currently marks sfx and vfx are NOT showing up, but the effect still apply, 2/21/25) its considered a low priority issue, so may take a while to be fixed.
 
 ## References
 

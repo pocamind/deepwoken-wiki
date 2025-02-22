@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 137237
+revid: 137269
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -694,7 +694,8 @@ N/A
 -   Range significantly decreases as the user loses health.
 -   Canceled by attacking.
 -   Upgrading makes the dash longer.
--   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
+-   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2. (using the spring spark variant 2 times will use double amount of ether)
+-   Lens slightly make it longer.
 
  |
 | 
