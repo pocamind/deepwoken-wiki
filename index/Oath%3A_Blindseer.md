@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 136989
+revid: 137334
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -28,7 +28,7 @@ categories: [Oaths]
     -   Have the 3 Talents from the Mental Fortress set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from Talent rolls, not equipment.
     -   Be blind, either through the **Blinded** Talent from Blindfolds or the Blind Flaw.
 -   Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
--   Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.
+-   Above the bandit village lies the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Climb up the wall bordering the village to reach it.
 -   Climb above the temple doors or go through them if they are open and proceed inside the temple.
     -   Watch out for the Watcher guarding the temple, as they will spawn a [Lesser Angel](Hollow_Angel.md) if they catch sight of you. In case you defeat the angel, it's recommended to carry him around the temple, as the watcher won't detect you as long as the angel hasn't been executed.
 

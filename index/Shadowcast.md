@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 137300
+revid: 137337
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -266,7 +266,7 @@ Shadow
 -   Has 9.178x PVE scale (31.1 DMG PVP, 285.46 PVE DMG)
 -   Unaffected by Glass & Magnifying Stones.
 -   Cloud and Stratus Stones increase the size of the eruption.
--   Pretty similar to [Flamecharm's Flame Repulsion](Flamecharm.md), but with no knockback.
+-   Pretty similar to Flamecharm's [Flame Repulsion](Flamecharm.md#flame-repulsion), but with no knockback.
 
  |
 | 

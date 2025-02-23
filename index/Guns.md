@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 136685
+revid: 137344
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
@@ -122,8 +122,8 @@ _**Stats:**_
 -   Both pistols and rifles in Deepwoken don't have recoil.
 -   The [Dawnshot](Dawnshot.md) is the only gun that can be used with [Pluripotent Alloy](Pluripotent_Alloy.md).
 -   Reloading you gun during other animations, such as blocking, parrying or movestacking used to be possible. This was later fixed 2025, February 2th update.
--   Running animations for One handed guns is currently bugged. Your arms don't move at all.
+-   Running animations for One handed guns is currently bugged. Your arms don't move at all. (Fixed)
     
     File:One handed gun animation bug.png
     
-    One handed gun running animations. (Currently bugged)
+    One handed gun running animations. (Fixed)

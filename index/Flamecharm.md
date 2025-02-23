@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137329
+revid: 137350
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -472,7 +472,12 @@ Fire
 
 **Effect:** Cast a circular area mark that follows your cursor. Click to create an eruption of flame at that location.
 
--   Deals 62 damage, ?? posture at level 5.
+-   Upgrading the Mantra increases casting range.
+-   Deals 62 damage at level 5.
+-   Deals high posture damage.
+-   You can move and use other Mantras while in casting state.
+-   Cancels if you're hit in casting state.
+-   **Fan The Flames** does **not** increase casting range.
 -   Can be modified with Crystal/Perfect Lenses to increase the casting range.
 -   Can be modified with a Spring Spark, causing it to ragdoll but makes it able to damage the user.
 
@@ -570,7 +575,7 @@ _Bear down on your foes with repeated fiery slashes._
  |
 | 
 
-40
+40 Ether
 
  | 
 
@@ -714,7 +719,7 @@ Fire
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
 -   Can be modified with Crystal/Perfect Lenses to increase speed and range.
 -   Can be modified with Glass/Magnifying Stones to make the explosion larger.
--   Can be modified with a Spring Spark to make the user float upwards upon shooting. (NEED NEW GIF BELOW THIS WAS BEFORE IT WAS CHANGED)
+-   Can be modified with a Spring Spark to make the user do a jump before shooting. (NEED NEW GIF BELOW THIS WAS BEFORE IT WAS CHANGED)
 
  |
 | 
@@ -868,7 +873,7 @@ Fire
 -   Has 9.17x PVE scale (11.96 PVP, 109.79 PVE)
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
 -   Is able to proc **Meteor Impact**, even without hitting an opponent.
--   Shares similar traits to the Strong Leap Mantra.
+-   Shares similar traits to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
 -   The Mantra will not summon flames nor do damage if used in bodies of water.
 -   Can be modified with a Reversal Spark, delivering an explosive frontflip instead of a vertical leap.
     -   This variant does not bring enemies up, and cannot proc **Meteor Impact**.

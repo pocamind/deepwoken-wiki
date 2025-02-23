@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 137323
+revid: 137341
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -808,6 +808,7 @@ _Conjure concentrated orbs of Ether to launch at your enemy._
 **Effect:** _User rises up in the air, and launches 4 orbs of Ether that explode and ragdoll on impact._
 
 -   When close enough to the enemy, the orbs will autotrack.
+    -   Crystal/Perfect Lenses increase how far you can be for it to autotrack.
 -   Can be used from any height, and you will float.
     -   Does not negate fall damage.
 

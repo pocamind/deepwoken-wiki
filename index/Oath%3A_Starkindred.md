@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 135181
+revid: 137351
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -66,7 +66,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
     -   While active, Air Dash goes much further in any direction, however the effectiveness is reduced if going horizontally.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   If undyed, comes in the color of your aspect's hair color.
-    -   The mantra **[Fire Blade](Flamecharm.md)** now launches the user upward before releasing a large plume of flames, to remove this effect apply a Reversal spark to **[Fire Blade](Flamecharm.md)**.
+    -   The mantra **[Fire Blade](Flamecharm.md#fire-blade)** now launches the user upward before releasing a large plume of flames, to remove this effect apply a Reversal spark to **[Fire Blade](Flamecharm.md#fire-blade)**.
 
 -   **Ascension** **\- Combat Mantra**
     -   _Take to the skies for a devastating strike._
@@ -82,7 +82,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 
 -   **Sinister Halo** **\- Combat Mantra**
     -   _Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
-        -   Similar to the [Galebreathe](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
+        -   Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
 
 -   **Death From Above - Talent**
     -   _Upon cancelling your Air Dash, reveal your wings and strike your enemy._
