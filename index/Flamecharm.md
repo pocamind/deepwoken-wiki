@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137350
+revid: 137361
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -470,12 +470,12 @@ Fire
  |
 | 
 
-**Effect:** Cast a circular area mark that follows your cursor. Click to create an eruption of flame at that location.
+**Effect:** Cast a circular area mark that follows your cursor. Cast again to create an eruption of flame at that location, otherwise it will automatically erupt after 3 seconds.
 
 -   Upgrading the Mantra increases casting range.
 -   Deals 62 damage at level 5.
 -   Deals high posture damage.
--   You can move and use other Mantras while in casting state.
+-   You can move, M1, and use other Mantras while in casting state.
 -   Cancels if you're hit in casting state.
 -   **Fan The Flames** does **not** increase casting range.
 -   Can be modified with Crystal/Perfect Lenses to increase the casting range.

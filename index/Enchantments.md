@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 137148
+revid: 137366
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -282,9 +282,13 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
   Weapon deal additional blood bar damage, scales with weapon damage.<br>
-  <u><b>Additional 1 Blood DMG per 4.66 SCALED DMG dealt (NOT AFFECTED BY HAEMOPHILIA)</b></u><br>
-  <u><b>BLOOD DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
-  When missing an attack (dodge, parry and block are not a miss), lose 2% of total blood.</p></div></td>
+  Curse of the Bloodthirsty's blood loss follows this formula:<br>
+  "0.1 * S * M + (0.1 * S + 3) × (0.9 + 0.1 * M), with S being scaled damage and M being attack blood damage multiplier (M = 1 for slash, M = 0.65 for blunt, M = 3 for daggers)"<br>
+  On daggers, the formula is nerfed to "0.1 * S * 3 + (0.1 * S + 1) × (0.9 + 0.1 * 3)"<br>
+  Bloodthirsty's formula changes whenever attacking an opponent with alloyblood:<br>
+  "0.1 * S * M * 0.25 + (0.1 * S + 3) × (0.9 + 0.25(2 - M) + 0.1 * M)" due to this, fighting low iron investment alloy blood leads to more blood DMG.<br>
+  Blood DMG not affected by DMG modifiers and DMG multipliers (such as alloyblood, cauterized wounds, haemophilia), BUT affected by damage reduction and armor resistances<br>
+  When missing an light attack (dodge, parry, crit and block are not a miss), lose 2% of total blood.</p></div></td>
   <td><div>Weapon is completely red, surrounded by a red aura.<br>
   When sheathed, the weapon keeps their base color.</div></td>
 </tr>

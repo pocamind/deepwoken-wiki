@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 133207
+revid: 137357
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -146,7 +146,7 @@ On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrow
 ## Trivia
 
 -   The Nautilodaunt cannot vent in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
--   The Nautilodaunt is likely inspired by the Mind Flayers from _Dungeons & Dragons_, which similarly implant parasites into humans. Dagon from _Jujutsu Kaisen_ also bears similarity to the Nautilodaunt.
+-   The Nautilodaunt is likely inspired by the Mind Flayers from _Dungeons & Dragons_, which similarly implant parasites into humans. [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from _[Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen)_ also bears similarity to the Nautilodaunt.
 -   The Nautilodaunt is one of two monsters that can be both guard broken and posture stunned, the other being [The Enforcer](Enforcer.md).
 -   When it isn't in combat, it will automatically begin healing, going from 250 to full health within a matter of seconds.
 -   It spawns roughly every 18 minutes.

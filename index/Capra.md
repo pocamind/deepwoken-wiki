@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 137274
+revid: 137368
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Moonseye]
@@ -133,7 +133,7 @@ These are no longer in the game as of 1/22/2023.
 -   Each of the marks appear to originate from a different real-world source, most closely in definition with Old Greek, and varying regions of Euro-Asia.
 -   One of the Capra-exclusive ornaments does not have teeth included on the mask, while the rest do.
 -   If you do not have any hair on your avatar as a Capra, you will be given a type of hair.
--   Once you mark another player, you will gain extra health regen, and presumably sanity/food buffs linked to the corresponding Marks.
+-   Once you mark another player, you will gain extra health regen, and presumably sanity/food buffs linked to the corresponding Mark.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), the Capra aspect name was changed to Skullskipper.
 -   According to Arch\_Mage, Capras are slightly inspired by the Shin from _The Stormlight Archive_, which is reflected by the aspect having wider eyes than average because they lack epicanthic folds.[\[1\]](#cite-note-inspo-1)
 -   The latin word "Capra" is representative of Goats.

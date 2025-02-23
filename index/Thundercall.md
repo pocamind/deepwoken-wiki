@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 137301
+revid: 137367
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -112,7 +112,8 @@ Lightning
 
 **Effect:** _Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user._
 
--   Deals 33.49 DMG at 5 lvl, 5.5 posture, 10s CD. (39.47 DMG with Magnet spark)
+-   Deals 33.49 DMG (37.27 with 6 songchant) at 5 lvl, 5.5 posture, 10s CD.
+-   Deals 39.47 DMG (43.93 with 6 songchant) with Magnet spark)
     -   Activates only when the cursor is locked onto a target.
     -   Knockdown is also removed for the mantra variant.
     -   This replaces the lunging hitbox with an AoE one, in which the latter contains a blindspot located behind the user.
@@ -151,7 +152,8 @@ Lightning + Slash
 
 **Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
 
--   Deals 52.64 (13.16\*4) + 53.9 (Stormcaller) DMG, 10s CD
+-   Deals 52.64 (13.16\*2) + 26.95 (Stormcaller) DMG, 10s CD
+-   With 6 songchant its 29.28 (14.64\*2) + 26.95 (Stormcaller)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
 -   Can grant an optional effect with the "**Stormcaller Slash**" Talent, which lets the user perform a short wind-up slash at the end of the mantra casted by pressing the \[F\] key.
     -   Can be stacked with the **Magnet Spark** variant of the mantra to perform 4 slashes in total.
@@ -189,7 +191,7 @@ Lightning
 
 **Effect:** _Cast out a straight beam of lightning from where the character is facing._
 
--   Deals 43.06 DMG, 13 posture, 10s CD at 5 lvl.
+-   Deals 43.06 (47.92 with 6 songchant) DMG, 13 posture, 10s CD at 5 lvl.
 -   Can break objects.
 -   Can grant an optional effect with the "**Shocking Finish**" Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
     -   Appears after a second of casting.
@@ -226,7 +228,9 @@ Lightning + Slash
 
 **Effect:** _Conjure a shocking orb from the end of your weapon, dealing rapid damage._
 
--   Deals 83.72 (11.96\*7) DMG, 7.5 posture, 30s (Blast Spark version deals 96.84 (10.76\*9) DMG, 11 posture.), Magnet spark 75.32 (10.76\*7) DMG.
+-   Deals 83.72 (11.96\*7) DMG, 7.5 posture, 30s
+-   Spark versions: Blast Spark version deals 96.84 (10.76\*9) DMG, 11 posture., Magnet spark 75.32 (10.76\*7) DMG.
+-   With 6 Songchant non modded: 93.17 (13.31\*7) DMG, Blast spark does 107.82 (11.98\*9) DMG, Magnet spark does 83.86 (11.98\*7) DMG
 -   Projectile moves along where the character is facing.
 -   Shocks opponents inside of it while dealing damage.
 -   Can be modified with **Cloudstones/Stratus Stones** increase the AoE.
@@ -266,7 +270,8 @@ Lightning + Slash
 
 **Effect:** _Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s)._
 
--   Deals 47.25 (15.75\*3) DMG, 10 posture, 14s CD
+-   Deals 38.31 (12.77\*3) DMG, 10 posture, 14s CD
+-   With 6 Songchant 43.2 (14.4\*3) DMG
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to double the amount of projectiles conjured.
     -   This modifier does the same amount of damage as default.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) making the projectiles home towards the target and removing the beams of thunder.
@@ -344,7 +349,7 @@ Lightning
 
 **Effect:** _Leap into the air before slamming down into the ground, dealing moderate Lightning damage in an AoE before ascending the user and target(s) hit into the air._
 
--   Deals 34.68 DMG, 100+ posture, 12s CD. Orbs from "**Rain of Static**" Talent deal 1 posture and 9.45 DMG per hit.
+-   Deals 34.68 (38.61 with 6 songchant) DMG, 100+ posture, 12s CD. Orbs from "**Rain of Static**" Talent deal 1 posture and 9.45 DMG per hit.
 -   Can destroy surfaces and light flammable terrain such as patches of grass on fire.
 -   Can light the user and target(s) ablaze.
 -   Applies Knockdown.
@@ -386,7 +391,7 @@ Lightning
 
 **Effect:** _Perform a gesture before conjuring strikes of lightning at the cursor's location, dealing moderate damage._
 
--   Deals 10.76 per hit DMG, 3.15 posture per hit, 10s CD
+-   Deals 10.76 (11.98 with 6 songchant) per hit DMG, 3.15 posture per hit, 10s CD
 -   Applies Knockdown.
 -   Can be cancelled at any point by clicking.
 -   Can strike a total of 1-7 times, but can be cancelled if the user hit and damaged in any way.
@@ -428,7 +433,7 @@ Lightning + Blunt
 
 **Effect:** _Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any targets hit._
 
--   Deals 44.25 DMG, 100+ posture, 0.65s windup, 11s CD
+-   Deals 44.25 DMG (49.26 DMG with 6 songchant), 100+ posture, 0.65s windup, 11s CD
 -   Press F immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
     -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
     -   Doesn't work if the initial kick guardbroke the target (needs further testing)
@@ -465,7 +470,7 @@ Lightning
 
 **Effect:** _Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location._
 
--   Deals 22.72 Per hit, 3.15 posture per hit, 28s CD
+-   Deals 22.72 (25.29 with 6 songchant) DMG Per hit, 3.15 posture per hit, 28s CD
     -   At Level 1, it can deplete more than half a healthbar from a freshie.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
@@ -502,8 +507,8 @@ Lightning
 
 **Effect:** _Conjure and throw a spear of lightning towards where the character is facing._
 
--   Deals 55.51 DMG, 11 Posture, 15s CD at 5 lvl.
--   With Multiplying spark: 52.86 DMG (17.62\*3, 16.4 posture total, 15s CD
+-   Deals 55.51 (58.84 with 6 songchant) DMG, 11 Posture, 15s CD at 5 lvl.
+-   With Multiplying spark: 52.86 DMG (17.62\*3 (with 6 songchant is 20.59\*3) 16.4 posture total, 15s CD
 -   Ragdolls and flings target(s).
 -   Does not break block but deals a lot of posture damage if blocked.
 -   Can be given an effect with the "**Grand Skewer**" Talent; which carries the target(s) hit along with projectile if the user presses the \[F\] key while casting.
@@ -541,9 +546,9 @@ Lightning
 
 **Effect:** _Conjure a ring of lightning blades, dealing light AoE damage._
 
--   Deals 33.49 DMG, 0 posture, 12s CD
+-   Deals 33.49 (37.27 with 6 songchant) DMG, 0 posture, 12s CD
 -   Has a short delay before dealing damage.
--   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile.
+-   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile. (Keep in mind, the bigger storm blades are the less DMG they deal)
 -   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touches its walls.
     -   **This increases its cooldown from 12 seconds to 20 seconds.**
     -   Good for isolating a target for a 1v1 situation.
@@ -581,6 +586,7 @@ Lightning
 **Effect:** _Conjure and slam a bolt of lightning into the ground from the user's right hand, causing volleys of lightning strikes to spread out\*_
 
 -   Deals 37.14 (Floor hit) + 27.51 (per thunder strike) at 5 lvl, 15.5 posture from floor hit + 11 per thunder strike, 30s CD
+-   With 6 songchant its 41.34 + 30.62
 -   Can be modified with _Cloudstones/Stratus Stones_ to increase the size of the hitbox.
 -   Can be modified with _Crystal/Perfect Lenses_ to increase the range of the lightning strikes.
 
@@ -616,7 +622,8 @@ Lightning
 
 **Effect:** _Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground._
 
--   Deals 70 DMG (20.57+49.43), 5.5 posture, 0.5s windup, 15s CD
+-   Deals 46.28 DMG (20.57+25.71), 5.5 posture, 0.5s windup, 15s CD
+-   With 6 Songchant 51.52 (22.9+28.62)
 -   0.5s wind-up and completely safeguards user when landed.
 -   Ragdolls target(s).
 -   Can be blocked.
@@ -686,7 +693,7 @@ Lightning + Slash
 
 **Effect:** _Caster sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting targets as they pass"_
 
--   Deals 29.9 DMG, 7.6 posture, 10s CD at 5 lvl
+-   Deals 29.9 (34.95 with 6 songchant) DMG, 7.6 posture, 10s CD at 5 lvl
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Can be modified with **Cloudstones/Stratus Stones** to make it go further.
 -   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.

@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 136854
+revid: 137360
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -622,6 +622,12 @@ _noun_
 -   **THN/THD**: Thundercall (instead of **LTN**)
 -   **SHD**: Shadowcast (instead of **SDW**)
 -   **Galebreath**: Galebreathe
+
+### 1H, 2H
+
+_noun_
+
+1.  Short for One-Handed and Two-Handed [weapon stances](Weapons.md#stances) respectively.
 
 ### Attless
 
