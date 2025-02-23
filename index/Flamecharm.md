@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137361
+revid: 137423
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -190,8 +190,8 @@ Fire
 
 **Effect:** Caster draws out and propels bullets of flames from their hands towards the cursor's location. Clicking again while firing will fire additional bullets, at the cost of more Ether.
 
--   Deals 17.34 damage per hit at 5 lvl, Blast spark does 4.34 DMG + 17.5 explosion DMG. No cooldown.
--   Has 5.13x PVE scale (17.34 PVP DMG, 88.96 PVE DMG), blast park in PVE does 22.24+132.2 explosion
+-   Deals 17.34 damage per hit at 5 lvl, Blast Spark does 4.34 DMG + 17.5 explosion DMG. No cooldown.
+-   Has 5.13x PVE scale (17.34 PVP DMG, 88.96 PVE DMG), Blast Spark in PVE does 22.24+132.2 explosion
 -   Inflicts Burn.
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
 -   Lights campfire pits.
@@ -398,7 +398,7 @@ Fire
 -   Has 8.45x PVE scale (44.25 PVP, 374.34 PVE DMG)
 -   Does not inflict Burn.
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
--   Improved by Talent "**Hell's Partisan**", allowing it to inflict Burn.
+-   Can be upgraded with the "**Hell's Partisan**" Talent, allowing it to inflict Burn and making the next hit you land after landing a flame dagger summon a spear from above to impale them.
 -   Can be modified with Crystal/Perfect lens to make the daggers move faster
 -   Can be modified with a Tornado Spark to make it throw 5 daggers in a straight line
 
@@ -445,11 +445,15 @@ Fire
 
 **Searing Snare** (★☆☆)
 
+File:Snaringflame mantra.gif
+
 _Place a fiery snare at a chosen location. Enemies that stumble into it are scorched._
 
  | 
 
 ## Searing Snare (★☆☆)
+
+File:Snaringflame mantra.gif
 
   
 _Place a fiery snare at a chosen location. Enemies that stumble into it are scorched._
@@ -473,7 +477,7 @@ Fire
 **Effect:** Cast a circular area mark that follows your cursor. Cast again to create an eruption of flame at that location, otherwise it will automatically erupt after 3 seconds.
 
 -   Upgrading the Mantra increases casting range.
--   Deals 62 damage at level 5.
+-   Deals ~62 damage at level 5.
 -   Deals high posture damage.
 -   You can move, M1, and use other Mantras while in casting state.
 -   Cancels if you're hit in casting state.
@@ -1172,22 +1176,6 @@ Your flames burn just as strong even in the fiercest of storms.
  | 
 
 Graceful Flames and lit campfires will not be extinguished in rain.
-
- |
-| 
-
- | 
-
-Wildfire  
-(30 Flamecharm, Fire Palm)
-
- | 
-
-Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
-
- | 
-
-When F is pressed, Fire Palm will be wide, but have little to no range in front of you.
 
  |
 

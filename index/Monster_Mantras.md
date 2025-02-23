@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 137222
+revid: 137414
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -140,7 +140,7 @@ _..._
 
  | 
 
-Slash?
+Slash
 
  | 
 
@@ -174,7 +174,7 @@ _\[missing, add\]_
 
  | 
 
-Ice?
+Ice
 
  | 
 
@@ -209,7 +209,7 @@ _..._
 
  | 
 
-Blunt + Fire?
+Blunt + Fire
 
  | 
 
@@ -245,7 +245,7 @@ _A chitinous scythe to cut through your foes in a whirl._
 
  | 
 
-Slash?
+Slash
 
  | 
 

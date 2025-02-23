@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 136563
+revid: 137386
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -62,7 +62,7 @@ The cooldown for this critical is **8** seconds.
 
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
 -   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to act as a placeholder.
--   While equipped, the Umbrite Whiterblade will display heartbeat noises as well as a incomprehensible whisper followed by a ominous noise that resembles a car engine.
+-   While equipped, the Umbrite Witherblade will display heartbeat noises as well as a incomprehensible whisper followed by a ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.
 
 ## Version History

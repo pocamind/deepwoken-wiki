@@ -1,9 +1,9 @@
 ---
 title: Wraithclaw
-revid: 137371
+revid: 137403
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]
+categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]
 ---
 
 # Wraithclaw
@@ -26,19 +26,20 @@ categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attuneme
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Grudge |
-| description | "Bound and woven with hair and sinew, a spectral claw forms from the grudges of those sacrificed to create it. Across Lumen, many believe that the voices of the dead are carried by the wind. So too do many believe that the winds of Lumen originate from the swirling vortex of the Moonseye above. Perhaps these voices are those of the Old World, mourning and howling at what has become of Lumen." |
+| description | Bound and woven with hair and sinew, a spectral claw forms from the grudges of those sacrificed to create it. Across Lumen, many believe that the voices of the dead are carried by the wind. So too do many believe that the winds of Lumen originate from the swirling vortex of the Moonseye above. Perhaps these voices are those of the Old World, mourning and howling at what has become of Lumen. |
+
+The Wraithclaw is a weapon in _Deepwoken_.
 
 ## Description
 
-The **Wraithclaw** is a Legendary [Cestus](Weapons.md); spiralettes of wind around the hand underset by wraps and sinew which anchor six blades of spectral energy. They are the souls of the dead carried by the gale giving into claws, to rake and dig into opponents much as their dreading and sorrowful hearts do their own. It scales off Light Weapon and [Galebreathe](Galebreathe.md).
+The **Wraithclaw** is a Legendary [Cestus](Weapons.md); spiralettes of wind around the hand underset by wraps and sinew which anchor six blades of spectral energy. They are the souls of the dead carried by the gale giving into claws, to rake and dig into opponents much as their dreading and sorrowful hearts do their own. It's damage scales off both Light Weapon and [Galebreathe](Galebreathe.md).
 
 The Wraithclaw comes with a single passive ability:
 
 -   **Gale After Cut** - M1 attacks now apply After Cut, dealing 5% of the initial damage of the attack.
+    -   If you have the After Cut Talent, your M1 attacks will apply an After Cut dealing 10% of the initial attack instead of the usual 5%.
 
--   If you have the After Cut **talent** your M1 attacks will apply an After Cut dealing 10% of the initial attack instead of the 5%
-
-Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talents.md), such as [Legion Centurion](Legion_Centurion.md) or [Navaen War Chief](Navaen_War_Chief.md), work with this weapon, but Critical Attacks stay unchanged and do not switch depending on your style.
+Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talents.md), such as [Legion Centurion](Legion_Centurion.md) or [Navaen War Chief](Navaen_War_Chief.md), work with this weapon, but critical attacks stay unchanged and do not switch depending on your style.
 
 With the minimum stat requirement (25 LHT & 75 WND) to equip the weapon, the weapon will deal 23.4 damage.
 
@@ -47,6 +48,17 @@ With the minimum stat requirement (25 LHT & 75 WND) to equip the weapon, the wea
 With 100 LHT and 100 WND, it will deal 30.2 damage.
 
 -   It will deal around 31.5 damage with the 5% innate After Cut effect, and around 33.2 with the 10% After Cut effect from the Talent.
+
+The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" which you have to defeat. Various spawn locations for the NPC are:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Upper Erisia](Upper_Erisia.md)
+-   [The Depths (Scyphozia)](First_Layer.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Bluster Rift](Bluster_Rift.md)
+
+The NPC requires uncapped [Galebreathe](Galebreathe.md) to spawn and initiate the fight with.
 
 ## Critical
 
@@ -58,28 +70,7 @@ For the **aerial** critical, the user quickly whirls in front of them, dealing m
 
 Both criticals share the cooldown of **10 seconds**.
 
-As of 2/22/2025, criticals now share the color of the attunement path the player is using.
-
-## Obtainment
-
-**This section contains spoilers. Read at your own risk.**
-
-The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" which you have to defeat. Various confirmed spawn locations for the NPC are:
-
--   [Minityrsa](Minityrsa.md)
--   [Upper Erisia](Upper_Erisia.md)
--   [The Depths (Scyphozia)](First_Layer.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Bluster Rift](Bluster_Rift.md)
-
-The Grudge's appearance:
-
-The Grudge appearance:
-
-The Grudge appearance:
-
-The NPC requires uncapped [Galebreathe](Galebreathe.md) to spawn and initiate the fight with.
+  
 
 ## Trivia
 

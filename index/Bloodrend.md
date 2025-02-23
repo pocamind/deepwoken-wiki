@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 137355
+revid: 137413
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -561,7 +561,7 @@ Blood
  |
 | 
 
-**Effect:** _Perform a gesture that causes a nearby target to explode continuously with blood.'_
+**Effect:** _Perform a gesture that causes a nearby target to explode continuously with blood._
 
 -   Deals 29.3 (grab) + 41.02 (5.86\*7) blood drain, total DMG 70.32, 13.2 Posture, Has 15.5s CD
 -   1 Vibrant gives extra 5.86 DMG, 2 Vibrants 23.44 DMG, 3 Vibrants 35.16 DMG (DMG increases by increased amount of hits by blood drain)
@@ -1323,7 +1323,7 @@ N/A
     -   50% - Enemies have their damage reduced by ≈30%
     -   60% - _Bloodwarden's Sense_ Talent is Activatable
         -   Bloodwarden's Sense - Enemies you attack with a mantra are highlighted red briefly.
-    -   70% - _**Gruesome Harvest**_ Talent is Activatable
+    -   70% - _Gruesome Harvest_ Talent is Activatable
         -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you slight temporary health.
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
 

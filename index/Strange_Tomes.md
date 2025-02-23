@@ -1,6 +1,6 @@
 ---
 title: Strange Tomes
-revid: 135756
+revid: 137385
 source: https://deepwoken.fandom.com/wiki/Strange_Tomes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -39,3 +39,4 @@ Volume 3 Obtainment: [The Understrand](The_Understrand.md) (Entered not via [Sil
 ## Trivia
 
 -   This is a reference to [Gravity Falls](https://en.wikipedia.org/wiki/Gravity_Falls)
+-   These items aren't bankable/droppable

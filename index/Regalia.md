@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 137271
+revid: 137427
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,7 +8,7 @@ categories: [Mechanics]
 
 # Regalia
 
-**Regalia** are passive abilities that positively affect progression or aid the player in some way. The only way to obtain them is random chance every time a new character is created.
+**Regalia** are passive abilities that positively affect progression or aid the player in some way. The only way to obtain them is random chance upon character creation, or, for most of them, upon character creation after wiping a character with a Regalia at [Power](Power.md) 6 or below.
 
 ## Obtainment
 
@@ -83,7 +83,7 @@ A flat increase is applied to your reputation with each faction.
 
 You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md), as well as every item from the [Advanced Tools](Echoes.md) echo upgrade.
 
-This Regalia is not kept upon wiping.
+This Regalia is not kept upon wiping at or below Power 6.
 
 ### Ace of Spades[\[3\]](#cite-note-archnamedrop1-3)
 

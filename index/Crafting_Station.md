@@ -1,6 +1,6 @@
 ---
 title: Crafting Station
-revid: 108040
+revid: 137405
 source: https://deepwoken.fandom.com/wiki/Crafting_Station
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -31,15 +31,15 @@ A few items you build here must be learned with a Schematic.
 
 ### [Etris](Etris.md)
 
--   Next to the fishmonger's settlement @ [Etris Docks](Etris_Docks.md)
--   Within the General store @ [Etris](Etris.md)
--   Within the Blacksmith @ [Etris](Etris.md)
+-   Next to the fishmonger's settlement at [Etris Docks](Etris_Docks.md)
+-   Within the General store at [Etris](Etris.md)
+-   Within the Blacksmith at [Etris](Etris.md)
 
 ### [Isle of Vigils](Isle_of_Vigils.md)
 
 -   Inside the inn
 -   At the cottage hosting attunement training items
--   Nearby the blacksmith @ [Temple of the Blade](Temple_of_the_Blade.md)
+-   Nearby the blacksmith at [Temple of the Blade](Temple_of_the_Blade.md)
 
 ### [Guild base](Guild_Bases.md)
 

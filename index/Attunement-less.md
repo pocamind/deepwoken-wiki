@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 137381
+revid: 137422
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -315,7 +315,7 @@ Blunt
 
  | 
 
-5 Strength, [Jus Karita](Jus_Karita.md), [Murmur: Tacet](Murmur%253A_Tacet.md)
+5 Strength/?? Strength (With Attunement), [Jus Karita](Jus_Karita.md), [Murmur: Tacet](Murmur%253A_Tacet.md)
 
  |
 | 
@@ -608,7 +608,7 @@ Slash + Bleed
     -   5% = 2.9x (below 5% the damage stops increasing)
 -   Can be upgraded with the **Pursuit** Talent, allowing it to be used twice in a row if the first use hits.
 -   Wayward Gem does **NOT** proc on Revenge
--   Can be upgraded with Glass/Magnifying Stones and Drift/Rush Shards (Increases range of the Mantra).
+-   Can be upgraded with Cloud/Stratus Stones and Drift/Rush Shards (Increases range of the Mantra).
 
  |
 | 
@@ -708,7 +708,7 @@ _An adrenaline rush of mobility._
  |
 | 
 
-\[missing, add\]
+20
 
  | 
 
@@ -985,8 +985,7 @@ N/A
 
  | 
 
-Without Attunement: 5 Willpower, 25 Charisma  
-With Attunement: 20 Willpower, 25 Charisma
+5 Willpower/20 Willpower (With Attunement), 25 Charisma
 
  |
 | 
@@ -1253,7 +1252,7 @@ _Rush down your opponent cutting them apart._
  |
 | 
 
-\[missing, add\]
+60
 
  | 
 
@@ -1296,7 +1295,7 @@ _Click to reveal yourself and deliver a rapid flurry of slashes that can chain t
 
  | 
 
-\[missing, add\]
+Slash
 
  | 
 
@@ -1333,7 +1332,7 @@ _Launch into the air and deliver a devastating divebomb kick. Chains from Karita
 
  | 
 
-\[missing, add\]
+Blunt
 
  | 
 
@@ -1370,7 +1369,7 @@ _Launch yourself into a flying kick, backflipping into the air if you hit a wall
 
  | 
 
-\[missing, add\]
+Blunt
 
  | 
 
@@ -1440,7 +1439,7 @@ _A powerful slash that chips through block and slashes through armor._
 
  | 
 
-\[missing, add\]
+Slash
 
  | 
 
@@ -1479,7 +1478,7 @@ _Close the distance and deliver a fast slash._
 
  | 
 
-\[missing, add\]
+Slash
 
  | 
 
@@ -1517,7 +1516,7 @@ _Dart around the battlefield with devastating cleaves delivered in quick success
 
  | 
 
-\[missing, add\]
+Slash
 
  | 
 
@@ -1554,7 +1553,7 @@ _Switftly unsheathe your blade and deliver an upwards strike._
 
  | 
 
-\[missing, add\]
+Slash
 
  | 
 
@@ -1622,7 +1621,7 @@ _Unleash a powerful pressure blast from the weight of your weapon._
 
  | 
 
-\[missing, add\]
+Slash
 
  | 
 
@@ -1661,7 +1660,7 @@ _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._
 
  | 
 
-\[missing, add\]
+Slash (1st Hit), Blunt (Kicks)
 
  | 
 
@@ -1701,7 +1700,7 @@ _Absorb damage then return fury upon your foes._
 
  | 
 
-\[missing, add\]
+Slash
 
  | 
 

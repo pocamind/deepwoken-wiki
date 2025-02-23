@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 137360
+revid: 137409
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -12,15 +12,18 @@ The following article contains a glossary for general game terms related to _Dee
 
 ## General Terms
 
+These are mostly terms created and used by the community, and see little, if any, official use in-game, but are common phrases that many players use.
+
 ### Boosted
 
 _adjective_
 
 1.  A player that uses high-quality equipment yet lacks the skill to back it up.
-    1.  Ex. "I just killed some boosted trash when they tried to gank me earlier"
-2.  Player that needs help from friends cause he cannot fight a boss or beat a mob without their help, they also seek attention to play with someone who boosts them
+    1.  Also: a player that uses high-quality equipment, especially that obtained in the endgame, whose skill is low enough to presume they did not earn it themselves.
+    2.  Ex. "I just killed some boosted trash when they tried to gank me earlier"
+2.  A player that needs help from friends cause he cannot fight a boss or beat a mob without their help.
 
-The point of the term is that it makes the assumption that the player being talked about was 'boosted up' by being given good items by more experienced friends of theirs.
+Usage of the term makes the assumption that the player being referenced was 'boosted up' by being given good items by more experienced friends of theirs.
 
 ### Chime
 
@@ -34,19 +37,19 @@ _adjective_
 
 1.  (Competitive) A very good, very **comp**etitively viable build, Talent or other ability; meta.
     1.  Ex. "Is Twister Kicks comp?"
+    2.  Ex. "Yo guys wanna join my comp guild?"
 
 _noun_
 
 1.  Competitive play (PvP, chime).
 2.  A PvP/competitively focused guild.
-    1.  Ex. "Yo guys wanna join my comp guild?"
 
 ### Freshie
 
 _noun_
 
 1.  A newly created character, usually wearing the [Stranded](Stranded.md), [Diver Apprentice](Diver_Apprentice_Robes.md), or [Whaler Initiate](Whaler_Initiate.md) outfit. The threshold for the maximum power level for being classified as a freshie differs, but is usually around Power 6.
-2.  New player into deepwoken, people normally call them freshies, because they don't know how to play the game or just a little.
+2.  A player who is new to Deepwoken.
     1.  Ex. "I saw a freshie get ganked earlier, they didn't stand a chance."
     2.  Ex. "The freshie from lower erisia tried to fight a sharko but, cause of his skill issue, he got crushed"
 
@@ -54,13 +57,15 @@ _noun_
 
 _noun_
 
-1.  Refers to a player, NPC or Monster that is weak and only serves to replenish health when killed. Examples depend on context.
+1.  Refers to an NPC or Monster that is weak and only serves to replenish health when killed. Examples depend on context.
     1.  If it's in the [First Layer](First_Layer.md) of the Depths, it refers to the [Gigamed](Gigamed.md) (Small version)
     2.  If it's during the [Scion of Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
+    3.  May also be used generally anywhere to refer to any easily slain mob.
 2.  A weak player or enemy who's easy to beat or bad at the game.
     1.  Ex: "I'm not playing with you freshie, because you're a healthpack and you gonna die to everything"
     2.  Ex. "No way he is so trash in ganking bro, we lost the war because of him. What a healthpack!"
-3.  Being healed via knocking a player, humanoid, or killing a monster.
+    3.  This usage of the term comes from the same as meaning 1 above, as players also give healthpacks, but is a less literal term and more used as an insult.
+3.  The health gained via knocking a player, humanoid, or killing a monster.
 
 ### Permafreshie
 
@@ -75,6 +80,8 @@ Permanent + Freshie = Permafreshie
 
 ## Combat Terms
 
+These are technical terms that apply to combat and may be official or player-made definitions, and may or may not see in-game or other developer use.
+
 ### Active Frames
 
 _noun_
@@ -83,11 +90,18 @@ _noun_
 
 This term originated from 2D fighting games such as [_Street Fighter_](https://en.wikipedia.org/wiki/Street_Fighter) and was adopted by _Deepwoken_ from _[Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)_ and _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.
 
+### Airswing
+
+_verb_
+
+1.  To use an attack, most often the M1 of a weapon with a high swing speed and no endlag, but without the intention of hitting the opponent. This is most often utilized to bait a parry, allowing one to typically get in a hit.
+    1.  Ex. "I fought some boosted cheese build in chime. He did nothing but airswing for two minutes and I 5-barred him."
+
 ### Bar
 
 _noun_
 
-1.  Referring to one of the 5 sections of a player or boss's health bar, used as a measurement of damage or referring to health remaining.
+1.  Referring to one of the 5 sections of a player or boss's health bar, especially when used as a measurement of damage or when referring to remaining health.
     1.  Ex. "Why did i just take 3 bars from that..."
     2.  Ex. "I'm at 2 bars help me!!!"
     3.  Ex. "Bro that squibbo had me on half a bar"
@@ -108,7 +122,7 @@ _verb_
 
 _verb_
 
-1.  To block a Mantra/attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed and take heavy damage as well as being stunned.
+1.  To block a Mantra/attack. This is achieved by holding F.
     1.  Ex. Light weapons are hard to parry but not hard to block as they deal little posture damage.
 
 ### Block/Guard/Posture Break
@@ -121,13 +135,20 @@ _verb_
 
 _noun_
 
-1.  Value indicating a percentage of damage that goes through a player's [block](Combat_Mechanics.md). Chip Damage will not occur if the attack is parried. E.g. 75% chip damage means that 75% of the supposed damage value if it is met by a block.
+1.  Value indicating a percentage of damage that goes through a player's [block](Combat_Mechanics.md). Chip Damage will not occur if the attack is parried. E.g. 75% chip damage means that 75% of the supposed damage value will still go through if it is met by a block.
 
 ### Combo
 
 _noun, verb_
 
 1.  Multiple successive attacks landed without the opponent parrying them.
+2.  Can also be used as a verb, as in "to combo," with the same meaning.
+
+#### True Combo
+
+_noun_
+
+1.  A combo that, when the first hit or a certain hit lands, can **not** be avoided by any means, leading to guaranteed (or **true**) damage.
 
 ### Counter
 
@@ -135,7 +156,7 @@ _verb, noun_
 
 1.  Abilities/moves that allow the user to negate an attack and automatically retaliate, without the use of blocking, parrying or dodging.
     1.  Ex. the following Mantras: [Prediction](Attunement-less.md#prediction), [Punishment](Attunement-less.md#punishment), and [Equalizer](Oath%253A_Contractor.md) are all **Counters**.
-2.  (Counterplay) Is an effective strategy against in combat.
+2.  (Counterplay) To be an effective strategy against something in combat.
     1.  Ex. "What counters Jetstrikers?"
 
 Not to be confused with the [Payback](Payback.md) Resonance, nicknamed "Full Counter".
@@ -144,7 +165,7 @@ Not to be confused with the [Payback](Payback.md) Resonance, nicknamed "Full Cou
 
 _verb_
 
-1.  To defeat a boss that can periodically become invulnerable within a certain amount of its vulnerable periods.
+1.  To defeat a boss that can periodically become invulnerable within a certain amount of its vulnerable periods, or cycles (see below).
     1.  Ex. "My PVE build can one cycle Ethiron!"
 
 _noun_
@@ -156,8 +177,8 @@ _noun_
 
 _noun_
 
-1.  People/guilds in The Depths that gank weaker players with the intent of wiping them.
-    1.  Ex. "Help I'm getting depths ganked!"
+1.  People/guilds in The Depths that gank players with the intent of wiping them.
+    1.  Ex. "Yesterday a guild of depths gankers joined and wiped the entire server"
 
 _verb_
 
@@ -168,18 +189,20 @@ _verb_
 
 _verb_
 
-1.  To finish a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'grip' is also used.)
+1.  To finish a player, [enemy](Enemies.md) or [monster](Monsters.md), commonly known to players as **Gripping**.
 
 ### Feint
 
 _verb_
 
-1.  To stop your weapon or Mantra windup while swinging, used to bait people to parry which make them unable to parry the next immediate attack you use. Successfully done can make your opponent block your next attack, messing up their parry timing and increasing their posture. Can be performed by pressing M2 right after initiating your M1 attack.
+1.  To stop your weapon or Mantra windup while swinging, typically used to bait people to parry which, if done, often makes them unable to parry the next immediate attack you use.
     1.  Ex. "You can't just hit me while I'm feinting!!!"
+2.  To do an attack (or other action) mimicking the effects of a feint. This may be due to poor animations or hitboxes, or may be an intentional action by a player.
+    1.  Ex. "I hate people who feint by airswinging."
 
 ### Flood/Flooding
 
-_verb_
+_verb, noun_
 
 1.  To fill up a server with players that are in the same guild.
 2.  Guild that fills up a server to gank and spin back against intruders or do Hell Mode or Diluvian in the Depths.
@@ -188,27 +211,27 @@ _verb_
 
 _verb_
 
-1.  To use the fourth, kick attack of your weapon, knocking your opponent back.
+1.  To use the (usually) fourth attack of your weapon, unique in that it knocks your opponent back by default.
     1.  Ex. "The freshie died to a single flourish from my Silentheart detonation Petra's Anchor build."
 
 ### Gank
 
 _verb_
 
-1.  To hunt for or attack and battle with other players with the intent to kill, usually done in groups. Also known as getting Jumped.
+1.  To hunt for or attack and battle with other players with the intent to kill, usually done in groups. Also known as getting jumped.
     1.  Ex. "Hop on, we're ganking at Songseeker."
     2.  Ex. "Help, I'm getting jumped!"
 
 _noun_
 
-1.  (rarely) A hunt to find and kill other players, usually used as a noun when planning to do so or retrospectively after already doing so.
+1.  A hunt to find and kill other players, usually used as a noun when planning to do so or retrospectively after already doing so; the act of ganking.
     1.  Ex. "I almost got wiped in a gank—thank god I escaped!"
 
 ### Grip
 
 _verb_
 
-1.  To finish off a player, [enemy](Enemies.md) or [monster](Monsters.md).
+1.  To finish off a player, [enemy](Enemies.md) or [monster](Monsters.md). See Execute above.
 
 ### I-frames
 
@@ -222,6 +245,7 @@ _verb_
 _verb_
 
 1.  To incapacitate a player or humanoid [enemy](Enemies.md) usually by reducing their health to 0%, ragdolling them. When a player is **knocked**, they can be gripped/executed (B) or carried (V). When a player is knocked, they are unable to do anything for the most part.
+    1.  Ex. "Some guy knocked me and carried me for ten minutes before he disconnected in combat."
 
 ### Knockdown
 
@@ -245,7 +269,7 @@ _verb_
 
 _verb_
 
-1.  To perfectly block an attack by pressing the "F" key at the right time. There will be a large, yellow spark at the clash of your weapon and their attack. This will stun the opponent for an extremely short duration. Parrying will reduce your posture, negate damage, remove End-lag, and is the cornerstone of Deepwoken's combat system.
+1.  To perfectly block an attack by pressing the "F" key at the right time. There will be a large, yellow spark at the clash of your weapon and their attack. This will stun the opponent for an extremely short duration. Parrying will reduce your posture, negate damage, remove end-lag, and is the cornerstone of Deepwoken's combat system.
     1.  Ex. "When **parry**ing NPCs, try not to move around in order to focus on your timing."
 
 ### Pdodge
@@ -259,14 +283,18 @@ _verb_
 _verb_
 
 1.  When a passive Talent or ability activates
-    1.  Ex. Roll cancelling before hitting an enemy's back with a critical or basic attack will cause Spinecutter (Talent) to proc.
+    1.  Ex. Roll cancelling before hitting an enemy's back with a critical or basic attack will cause [Spine cutter](https://deepwoken.fandom.com/wiki/Talents#:~:text=Spine%20Cutter) to proc.
 
 ### Spin back/Spinback
 
 _verb_
 
-1.  Going back to a player you died to previously, usually on a higher power slot, to rechallenge them
+1.  Going back to a player you died to previously, usually on a higher power slot, to challenge them again
     1.  Ex. "Stay here imma spin back."
+
+Sometimes shortened to **spin**.
+
+1.  Ex. "Hold on they're spinning, get back to songseeker"
 
 ### Spot Dodge
 
@@ -279,7 +307,7 @@ _verb_
 _verb_
 
 1.  To overpower with [attributes](Attributes.md) (stats) as opposed to skill.
-    1.  Ex. "Due to the fact that the Owl has 1.8k health, it is possible to **stat check** it if you are at a high enough [Power](Power.md) due to PvE scaling,"[(source)](Deep_Owl.md#notes)
+    1.  Ex. "Due to the fact that the [Owl](Deep_Owl.md) has 1.8k health, it is possible to **stat check** it if you are at a high enough [Power](Power.md) due to PvE scaling."
 
 ### Void/Voiding
 
@@ -307,31 +335,31 @@ Not to be confused with the [Wind-Up](Wind-Up.md) Resonance.
 
 ## Death Terms
 
-(terms having to do with the player's lives, drowns, etc)
+These terms relate to things that happen whenever a player dies, or are otherwise related to death.
 
 ### Ascension/Ascend
 
 _noun_
 
-1.  The ritual in The Depths that sends a character back to the surface
+1.  The ritual in The Depths that sends a character back to the surface. Seldom used by players.
 
 ### Drown
 
 _verb_
 
-1.  To die in a manner that results in your soul sinking to The Depths. (e.g. dying with a stained health bar, dying in a voidzone, etc)
+1.  To die in a manner that results in your soul sinking to The Depths (e.g. dying with a stained health bar, dying in a [Voidzone](Voidzones.md), etc).
 
 ### Restore
 
 _verb_
 
-1.  To be revived from Fragments of Self by a moderator after making a ticket due to an unfair death or buying a Drowned Favor for 1000 Robux
+1.  To be revived from Fragments of Self by a moderator after making a ticket due to an unfair death, or buying a Drowned Favor for 1000 Robux
 
 ### Sink
 
 _verb_
 
-1.  to descend to The Depths without dying (e.g. whirlpools and Call of the Deep) allowing the player to enter Castle Light and the Chariot’s Spire.
+1.  to descend to The Depths without dying (e.g. whirlpools and Call of the Deep), allowing the player to enter Castle Light and the Chariot’s Spire.
 
 ### Stain
 
@@ -339,25 +367,32 @@ _verb_
 
 1.  To die whilst having your second life, or regular health bar, resulting in having a stained/rusty health bar.
 
+Even if you have both lives, your health bar will be stained in [Voidzones](Voidzones.md).
+
 ### Wipe
 
 _verb_
 
-1.  To die in The Depths (Scyphozia, The Eternal Gale) and spawn in Fragments of Self.
+1.  To die in The Depths and spawn in Fragments of Self.
 
 ## Resonance Terms
+
+These terms all relate to [Resonances](Resonance.md).
 
 ### Bell
 
 _noun_
 
 1.  A nickname for [Resonance](Resonance.md), used widely by the community.
+2.  May also, more accurately, refer to the [model](Resonance.md#bell-models) of that Resonance.
+
+In lore, resonances are not strictly bells, though these are the only ones we see in game.
 
 ### Bell-check
 
 _verb_
 
-1.  to check if you or someone else has enough [Resonance Progress](Resonance.md#bell-progress) to unlock a [Resonance](Resonance.md) through dying, usually done alone by fall damage, in Layer 2 with a Light Hook, or with friends.
+1.  To check if one has enough [Resonance Progress](Resonance.md#bell-progress) to unlock a [Resonance](Resonance.md) through dying, mots often done either alone by fall damage or in Layer 2 with a Light Hook, or with friends.
 
 ### Corrupted/Cursed
 
@@ -381,13 +416,14 @@ _noun_
 
 _adjective_
 
-1.  A Resonance which is significantly more rare than the other Resonances, there are currently two legendary Resonances in the game, being [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md).
+1.  A Resonance which is significantly rarer than other Resonances, currently [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md).
 
 ### Reaper
 
-_noun_
+_noun, verb_
 
 1.  Nickname for the the [Blood Scourge](Blood_Scourge.md) Resonance, used to instantly execute any downed players, [enemies](Enemies.md) or [monsters](Monsters.md) in a small radius around where it was cast.
+2.  To use Blood Scourge (to execute a knocked player).
     1.  Ex. "He just got knocked, reaper him"
     2.  Ex. "Getting knocked in a friendly 1v1 is not an invitation for your ally to drop a corrupted reaper on me"
 
@@ -405,11 +441,13 @@ _noun_
 
 ## Outside Combat
 
+These are general terms that are more specific but do not exclusively apply to combat scenarios.
+
 ### AA-Gun/AA-Gunned
 
 _noun, verb_
 
-1.  (Anti-Air Gun) nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time, at a high altitude, or clicks and holds the top tab of their Roblox client to freeze themselves in mid-air). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
+1.  (Anti-Air Gun) Nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time or at a high altitude). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
     1.  Ex. "I just got AA gunned and wiped!"
 
 The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_Gun) from _Rogue Lineage_, a cannon that served the same purpose of shooting down exploiters who utilize flying exploits.
@@ -435,31 +473,31 @@ _verb, noun_
 
 _verb_
 
-1.  To be in a guild but change your guild constantly, or are in multiple guilds at same time.
-2.  Seen by the community as, the unwanted members, irrelevant skill
-3.  Mostly, the people with skill issue and no friends,have more chances to become another one
+1.  To change your guild constantly, or to be in multiple guilds at same time.
 
 ### Hook
 
 _verb_
 
-1.  To activate the Lighthook in The Eternal Gale and ascend back to Scyphozia.
+1.  To activate the [Light hook](Light_Hook.md) in The Eternal Gale and ascend back to Scyphozia.
     1.  Ex. "I got 2 minutes left. I’m hooking outta here!"
 
 ### Log/Logging
 
 _verb_
 
-1.  To leave the game as fast as possible when not in combat, usually when being hunted by Voidwalkers and players alike.
+1.  To leave the game as fast as possible when not in combat, usually when being hunted by a player, so as to avoid conflict.
     1.  Ex. "I just heard a guy wipe, we should log"
 
 ## Enemies / Monsters
+
+These terms relate to the many [enemies](Enemies.md) in game.
 
 ### Corrupted
 
 _adjective_
 
-1.  attribute; Possessing greater health and attack power than normal. Highlighted by the dark purple smoke/aura.
+1.  attribute; Possessing greater health and attack power than normal, highlighted by a dark purple smoke/aura.
     1.  Ex. "I got gripped by a **corrupted** [sharko](Megalodaunt.md)"
 
 Exclusive to [monsters](Monsters.md) found in [The Depths](The_Depths.md).
@@ -474,14 +512,14 @@ _noun_
 
 _noun_
 
-1.  Refers to a [Gigamed](Gigamed.md). Also known as Health Packs to players strong enough to one-shot them.
+1.  Refers to a [Gigamed](Gigamed.md). Also known as Health Packs due to the ease with which they can be killed.
 
 ### Kaido
 
 _noun_
 
 1.  Refers to the [Dread Serpent](Dread_Serpent.md). The name comes from [Kaido](https://onepiece.fandom.com/wiki/Kaidou?so=search) from One Piece who has a similar appearance to the Dread Serpent in his dragon form.
-    1.  The Devs of deepwoken, do not like this name, so avoid saying it around them.
+    1.  The developers of Deepwoken have stated they do not like the usage of this name.
 
 ### Monkey / Monke
 
@@ -499,7 +537,7 @@ _noun_
 
 _noun_
 
-1.  Refers to a [Megalodaunt](Megalodaunt.md). Originates from the [Pathfinder Gathering](Random_Encounters.md#pathfinder-gathering) event's unique NPC-to-NPC conversation.
+1.  Refers to a [Megalodaunt](Megalodaunt.md).
 
 ### Squibbo/Squid
 
@@ -509,39 +547,60 @@ _noun_
 
 ## Character/Build Related Terms
 
-These are terms related to the character, such as their build, abilities, and gear.
+These are terms related to the character, such as their build (see below), abilities, and gear.
+
+### Build
+
+_noun, verb_
+
+1.  The set of stats, and often their weapon and abilities, that a player has or plans on obtaining on a given character.
+    1.  Ex. "Dude this build is cooked, I need ardour scream and heretic's sutra preshrine"
+2.  To create a build, as defined above.
+    1.  Ex. "Hey can you build me something for [Gran Sudaruska](Gran_Sudaruska.md)?"
 
 ### Chase
 
 _noun, verb_
 
-1.  How much mobility/anti-mobility a build has, mainly for chasing people and stopping them from running away. examples of chase Talents and Mantras are: [Revenge](Attunement-less.md#revenge), [Encircle](Shadowcast.md#encircle), Pursuit, Crippling Comeuppance, etc.
+1.  How much mobility/anti-mobility a build has, mainly for chasing people and stopping them from running away. Examples of chase Talents and Mantras are: [Revenge](Attunement-less.md#revenge), [Encircle](Shadowcast.md#encircle), Pursuit, Crippling Comeuppance, etc.
 
 ### Godroll
 
 _adjective, noun_
 
-1.  The additional stats or a singular additional stat of a piece of equipment, which are normally random, being the highest or most favorable amounts they can possibly be, often obtained through influencing the equipment's stats with [Armorer's Needles](<Armorer's_Needle.md>), [Forge Needles](Forge_Needle.md), and [Gilded Needles](Gilded_Needle.md); equipment with minmaxed stats.
+1.  The additional stats or a singular additional stat of a piece of equipment, which are normally random, being the highest or most favorable amounts they can possibly be, often (though not exclusively) obtained through influencing the equipment's stats with [Armorer's Needles](<Armorer's_Needle.md>), [Forge Needles](Forge_Needle.md), and [Gilded Needles](Gilded_Needle.md); [equipment](Equipment.md) with minmaxed stats.
     1.  Ex. "I have godroll boots and a godroll helmet"
     2.  Ex. "With a full godroll HP kit you can tank alot of hits"
-    3.  Ex. "What's the godroll for Ignition Gauntlets?"
+    3.  Ex. "What's the godroll for [Ignition Gauntlets](Ignition_Gauntlets.md)?"
 2.  The allocated stats of a [Resonance](Resonance.md) being the highest or most favorable amounts they can possibly be.
+3.  Generally, refers to an instance of anything that is randomized having the most favorable outcome.
 
-It's called a god _roll_ because the stats are normally random.
+Known as a god _roll_ due to the stats being randomized (by default).
 
 ### Minmax
 
-_verb, adjective_
+_verb_
 
 1.  To get the most optimal possible combination of Talents and Mantras in your build.
     1.  Ex. "I've wiped like 10 times while trying to minmax this build."
-    2.  Ex. "My minmaxed PvE build can one-cycle [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)!"
+    2.  May include other stats, like Equipment rolls (see Godroll above).
+
+#### Minmaxed
+
+_adjective_
+
+1.  (Of a build) As optimal as possible; past participle of minmax.
+    1.  Ex. "After wiping this build 43 times, it's finally minmaxed... I never want to prog again."
+2.  Godroll equipment (see above).
+    1.  Ex. "What's the minmaxed HP on any helmet?"
+    2.  Typically less common than Godroll.
 
 ### Mage
 
 _noun_
 
 1.  A type of build that mainly focuses on empowering their Mantras and uses almost solely Mantras and sometimes a [Hero Blade](Hero_Blades.md).
+2.  A build that fights from afar, rarely engaging in close combat (which is achievable almost exclusively through mantras, hence the name).
 
 ### Shrine
 
@@ -577,13 +636,14 @@ _verb_
 1.  To reduce a stat using the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
     1.  Ex. "I shrined down agility"
 2.  (rarely) To reduce a stat using the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
+    1.  Ex. "Why can't I shrine down my strength?"
 
 ### Sustain
 
 _noun, verb_
 
-1.  How much healing a build has, or how long it can last in a fight (usually one on one). Does not include tankiness. Sustain can be defined as Bloodless Gems, Flame Wisp, Potions, and other aspects of healing mid-combat without campfires or Graceful Flame.
-    1.  "My Linkstrider build has so much sustain it's crazy"
+1.  How much healing a build has, or how long it can last in a fight (usually one on one). Does not include tankiness. Sustain can be defined as aspects of healing mid-combat without campfires or Graceful Flame.
+    1.  "My [Linkstrider](Oath%253A_Linkstrider.md) build has so much sustain it's crazy"
 
 ### Trackstar
 
@@ -639,10 +699,10 @@ _noun, adjective_
 
 _verb, adjective_
 
-1.  **B**lack-**M**arket**ing**. It is the action of trading in-game items for out-of-game compensation (Real life counts too).
-    1.  Ex. "Yo, gimme a curved (**CBOW** or **C**urved **B**lade **O**f **W**inds) and ama give you 1200 Robux." (Bad Trade)
+1.  **B**lack-**M**arket**ing**. It is the action of trading in-game items for out-of-game compensation.
+    1.  Ex. "Yo, gimme a curved (**CBOW** or **C**urved **B**lade **O**f **W**inds) and ama give you 1200 Robux."
 
-BMing or black-marketing is a very strictly prohibited thing, do not risk your account for something you can get yourself or earn in-game.
+Black-marketing is a very strictly prohibited thing, and you run the risk of being banned; do not risk your account for something you can get yourself or earn in-game.
 
 ### CBOW/Curved
 
@@ -660,12 +720,12 @@ _verb_
 
 Not to be confused with the verb outside of Deepwoken _to clog_. To assure you are not combat logging, always use the door button on the top left of your screen that makes your character despawn the moment you click.
 
-### [Ctag/Combat Tag](Combat_Tag.md)
+### Ctag
 
 (Read as "c-tag")  
 _verb_
 
-1.  A short term for Combat Tag - hitting a player to prevent them from leaving the game, forcing them to fight or run from by the tagger.
+1.  A short term for [Combat Tag](Combat_Tag.md) - hitting a player to prevent them from leaving the game, forcing them to fight or run from the tagger.
     1.  Ex. "Let me ctag him real quick."
     2.  Ex. "I can't leave, he ctagged me."
 
@@ -674,7 +734,7 @@ _noun_
 1.  A combat tag, usually from a player.
     1.  Ex. "Remove my combat tag, or else."
 
-Referring to the loading screen's tip, you can say "my bad \[name\]" to remove combat tag from the respective player. For lazy players, you can say "mb all" to remove all combat tags from everyone you have tagged.
+Referring to the loading screen's tip, you can say "my bad \[name\]" to remove combat tag from the respective player, or "my bad all" to remove all combat tags from everyone you have tagged. "mb" also works in place of "my bad," and is more common.
 
 ### DSGS
 
@@ -726,7 +786,7 @@ _noun_
 
 _verb_
 
-1.  Short form of "Do a 1v1". 1v1s refer to the act of sparring another player with or without murderous intent. This phrase mostly indicates friendly spars
+1.  Short form of "Do a 1v1". 1v1s refer to the act of sparring another player with or without murderous intent. This phrase mostly indicates friendly spars.
     1.  Ex. "Yo bro can we run 1s?"
 
 ### SK
