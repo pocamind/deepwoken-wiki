@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 137242
+revid: 137383
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -123,7 +123,8 @@ Metal + Slash + Bleed
 
 **Effect:** _Stomp the ground, causing a flurry of metal spikes to erupt forward._
 
--   Deals 29.9 + 8.97 Bleed DMG at level 5, 14.5 posture, 0.5s windup and 15s CD.
+-   Deals 38.87 (29.9 + 8.97 Bleed) DMG at level 5, 14.5 posture, 0.5s windup and 15s CD. at 5 lvl
+-   With 6 Songchant deals 43.27 (33.28 + 9.99 Bleed) DMG
 -   Has 9.17x PVE scale (29.9 DMG + 8.97 Bleed PVP, 274.48 + 82.35 Bleed PVE)
 -   By rotating your view, you can reangle the Mantra to catch rolls.
 -   Heavily reminiscent of the legacy Frostdraw Mantra, [Ice Eruption](Frostdraw.md#ice-eruption).
@@ -162,7 +163,8 @@ Metal + Slash
 
 **Effect:** _Jump into the air before throwing out 3 projectiles towards the location of the cursor._
 
--   Deals total 24.6 DMG (4.1 dmg per hit) at level 5, 0.8s windup, 16s CD
+-   Deals total 24.6 (4.1\*6) DMG, 0.8s windup, 16s CD at 5 lvl.
+-   With 6 songchant deals 27.36 (4.56\*6) DMG
 -   Has 9.18x PVE Scale (24.6 DMG PVP, 225.84 DMG PVE)
 -   Inconsistent tracking and wind up.
 -   6 Needles at level 5.
@@ -204,7 +206,8 @@ Metal + Slash + Bleed
 **Effect:** _Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit._
 
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
--   Both Versions of Metal kick deals 37.32 DMG + 12 Bleed. 13s CD
+-   Both Versions of Metal kick deals 49.32 (37.32 + 12 Bleed), 13s CD
+-   With 6 songchant deals 53.98 (41.53 + 12.45 Bleed)
 -   Has 9.2x PVE scale (37.32 + 12 PVP, 342.55 + 102.78 in PVE)
 -   Spring Spark has a wind up of 0.5 sec and non spark a wind-up of 1s
 
@@ -240,7 +243,8 @@ Metal + Bleed
 
 **Effect:** _Throw out 7 caltrops upon use, which stay on the ground for a while._
 
--   Deals 10.94 DMG + 3.3 Bleed per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
+-   Deals 10.94 + 3.3 Bleed DMG per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
+-   With 6 songchant deal 12.02 + 3.6 Bleed DMG per flying caltrop.
 -   Has 9.17x PVE Scale (10.94 DMG + 3.3 Bleed PVP, 100.38 DMG + 30.12 Bleed PVE)
 -   Functions similar to Galebreathe's [Galetrap](Galebreathe.md#galetrap) Mantra.
 -   Goes through block (**and your character!**) if cast closely to the target.
@@ -283,8 +287,10 @@ Metal + Slash + Bleed
 
 **Effect:** _Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried._
 
--   Deals 7.18 DMG + 2.16 bleed at level 5 non spark (Total hits: 15)
--   26 DMG per cannon ball + 7.8 Bleed at level 5 with Blast spark (Total hits: 2)
+-   Deals 140.1 (7.18 + 2.16 Bleed \* 15) DMG non spark
+-   With 6 songchant non spark version deals 155.85 (7.99 + 2.4 Bleed \* 15) DMG
+-   Blast spark version deals 67.6 (26 + 7.8 Bleed \* 2) DMG with Blast spark
+-   Blast spark with 6 songchant deals 76.16 (29.29 + 8.79 Bleed \* 2)
 -   PVE scale broken right now. Deals same dmg as PVP in PVE
 -   Both have 0.65s wind up and 15s CD
 -   Apply Metal Rods on hit.
@@ -324,7 +330,8 @@ Metal + Slash + Bleed
 
 **Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
 
--   Does 33.49 DMG + 10.05 Bleed at level 5, 0.5s wind up, 10s cd.
+-   Deals 43.54 (33.49 + 10.05 Bleed) DMG, 0.5s wind up, 10s cd at 5 lvl.
+-   With 6 songchant deals 48.46 (37.27 + 11.19 Bleed) DMG
 -   Has 9.18x PVE scale (33.49 DMG + 10.05 bleed, 307.42 DMG + 92.22 bleed PVE)
 -   Doesn't break your momentum, meaning you can run while using it or vice versa.
 -   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it.
@@ -362,7 +369,8 @@ Metal + Slash + Bleed
 
 **Effect:** _Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target._
 
--   Deals 45 DMG + 13.5 Bleed at level 5, 12 posture, 0.7s wind up, 12s CD
+-   Deals 58.5 (45 + 13.5 Bleed) DMG, 12 posture, 0.7s wind up, 12s CD at 5 lvl.
+-   With 6 songchant deals 65.77 (50.59+15.18 Bleed) DMG
 -   Has 9.27x PVE scale (45 DMG + 13.5 Bleed in PVP, 417.21 + 125.16 Bleed in PVE)
 -   Applies Metal Rod on hit.
 
@@ -399,8 +407,9 @@ Metal + Slash
 **Effect:** _Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly._
 
 -   Deals 5.74 DMG + 1.71 Bleed per hit at level 5, 3 posture per hit, 1.5s wind up, 20s CD.
+-   With 6 songchant 6.39 + 1.92 per hit
 -   Has 9.18x PVE scale (5.74 DMG + 1.71 Bleed PVP, 52.7 DMG + 15.81 Bleed
--   Does 23 hits total.
+-   Does around 23 hits total.
 -   Doesn't apply parry stun to user.
 -   Applies Metal Rods on hit.
 -   Comparable to Thundercall's [Bolt Piercer](Thundercall.md#bolt-piercer) Mantra.
@@ -440,7 +449,8 @@ Metal + Slash + Bleed
 **Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
 
 -   Rapid-hitting Mantra.
--   Deals 8.37 DMG + 2.52 Bleed per hit at level 5, 10 posture total, 0.6s windup, 13s CD
+-   Deals 8.37 + 2.52 Bleed DMG per hit, 10 posture total, 0.6s windup, 13s CD per hit
+-   With 6 songchant deals 9.32 + 2.79 Bleed per hit
 -   Has 9.18x PVE scale (8.37 DMG + 2.52 Bleed PVP, 76.85 DMG + 23.07 Bleed PVE)
 -   Applies Metal Rods on hit.
 -   Sends you 5 studs forward on cast
@@ -477,8 +487,9 @@ Metal + Slash + Bleed
 
 **Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
 
--   Deals 9.57 DMG + 2.88 Bleed per hit, at end of grab does 15.95 DMG + 4.77 Bleed, leading to total DMG of 67 at level 5, 10 posture, 1s windup, 11s cd.
--   In PVE deals 87.83 DMG + 26.34 Bleed per hit and at end of grab 146.39 DMG + 43.92 Bleed, Leading to total DMG of 647. (PVE scale is 9.65x)
+-   Deals 67 (9.57 + 2.88 Bleed \* 4, at end of grab does 15.95 DMG + 4.77 Bleed) DMG, 10 posture, 1s windup, 11s cd at 5 lvl
+-   With 6 songchant deals 78.38 (10.65 + 3.18 Bleed \* 4 + 17.75 + 5.31 Bleed) DMG
+-   Has 9.65x PVE scale (87.83 DMG + 26.34 Bleed \* 4 and at end of grab 146.39 DMG + 43.92 Bleed, total DMG 647)
 -   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
 -   With the '**Metal Absorption'** Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
 -   The '**Matador'** Talent procs against Iron Hug's hyperarmor.
@@ -515,7 +526,8 @@ Metal + Slash + Bleed
 
 **Effect:** _Form a large spiky iron rod before slamming it down forwards._
 
--   Deals 58.6 DMG + 17.5 Bleed at level 5, 0.73s windup, 18s cd.
+-   Deals 76.1 (58.6 + 17.5 Bleed) at level 5, 0.73s windup, 18s cd.
+-   With 6 Songchant deals 84.79 (65.23+19.56 bleed) DMG
 -   Has 9.18X PVE scale (58.6 DMG + 17.5 Bleed PVP, 537.98 DMG + 161.4 Bleed PVE)
 -   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
 -   Block breaks at level 5.
@@ -553,7 +565,7 @@ Metal + Slash
 
 **Effect:** _Coat the character's body and weapon in iron sparks. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds._
 
--   Deals 23.92 dmg at level 5, posture 4 per hit, 0.35s wind up, lasts 20s, 30s cd
+-   Deals 23.92 (26.62 with 6 songchant) DMG, posture 4 per hit, 0.35s wind up, lasts 20s, 30s cd at 5 lvl.
 -   Has 5.15x PVE scale (23.92 DMG PVP, 122.71 PVE DMG)
 -   Applies very brief parry stun to user.
 -   Upgrading the level increases the duration of the Mantra.
@@ -591,7 +603,8 @@ Metal + Slash
 
 **Effect:** _A gesture is performed on the right hand, causing a barrage of spikey metal beams to form from all angles and impale any nearby targets from all, dealing high damage._
 
--   Deals 80 dmg at level 5, 7.5 posture total, 7 total hits, 1.25s wind up, 14s cd.
+-   Deals 79.52 (11.36\*7) DMG, 7.5 posture total, 7 total hits, 1.25s wind up, 14s cd at 5 lvl.
+-   With 6 Songchant deals 88.55 (12.65\*7) DMG
 -   Has 9.2x PVE scaling (11.36 in PVP, 104 in PVE per hit)
 -   Doesn't apply parry stun to user.
 -   Can be parried and blocked.
@@ -630,7 +643,8 @@ Metal + Slash + Bleed
 
 **Effect:** _After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way._
 
--   Deals 56 DMG + 17 Bleed at level 5, 10 posture, 0.5s windup, 13s cd
+-   Deals 73 DMG (56 DMG + 17) Bleed at level 5, 10 posture, 0.5s windup, 13s cd
+-   With 6 Songchant deals 81.35 (62.57 DMG + 18.78 Bleed) DMG
 -   Has 9.2x PVE scale (56 DMG + 17 Bleed PVP, 516.03 + 154.8 in PVE)
 -   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md#gale-lunge) Mantra and Frostdraw's [Ice Lance](Frostdraw.md#ice-lance) Mantra.
 
@@ -699,7 +713,8 @@ Metal + Blunt + Bleed
 
 **Effect:** _Form a pillar from below, causing the character to ascend upwards as the pillar forms._
 
--   Deals 31 DMG + 10 Bleed at level 5, 0.5s windup to hit, 1.52s for full pillar, Lasts 9s. 13s CD, CD starts since windup.
+-   Deals 41 (31 + 10 Bleed) DMG, 0.5s windup to hit, 1.52s for full pillar, Lasts 9s. 13s CD, CD starts since windup.
+-   With 6 Songchant deals 44.99 (34.61 + 10.38 Bleed) DMG
 -   Has 9.2x PVE scale (31 DMG + 10 Bleed PVP, 285.46 + 85.65 Bleed PVE)
 -   The height of the pillar will depend on what is above the user.
 -   Can be modified with **Cloudstones/Stratus Stones** to extend its width.
@@ -737,7 +752,8 @@ Metal + Slash + Bleed
 
 **Effect:** _Encased in a metal ball, rush forward while knocking down any targets in the way._
 
--   Deals 28 DMG + 8.4 Bleed at level 5, 10 posture, 0.7s windup, 10.5s cd
+-   Deals 36.4 (28 + 8.4 Bleed) DMG, 10 posture, 0.7s windup, 10.5s cd at 5 lvl
+-   With 6 songchant deals 41.1 (31.62 + 9.48 bleed) DMG.
 -   Has 9.3x PVE scale (28 DMG + 8.4 bleed in PVP, 260.76 + 78.24 Bleed in PVE)
 -   Covers 82 studs of distance.
 -   Applies Metal Rods on hit.
@@ -809,7 +825,7 @@ Metal + Blunt
 
 **Effect:** _Conjure a chain of metal from the right hand that pulls in any targets from the cursor._
 
--   Deals 33.5 DMG at level 5, 5 posture, 0.5s windup, 13s cd.
+-   Deals 33.5 (37.27 with 6 songchant) DMG, 5 posture, 0.5s windup, 13s cd. at 5 lvl
 -   Has 9.2x PVE Scale (33.5 PVP DMG, 307.42 IN PVE)
 -   Will not activate properly on certain mobs (namely [The Ferryman](The_Ferryman.md)), consuming Ether but still dealing small damage and instantly restoring the cooldown, allowing for it to be spammed until you run out of Ether.
 -   Can be modified with Crystal and Perfect Lenses to increase its range.
@@ -884,7 +900,8 @@ Metal
 
 **Effect:** _Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight. Ritual Casted._
 
--   Deals 21 DMG per hit, 0.85s windup to cast, 0.55s delay between shots, lasts 20 seconds, 30s CD
+-   Deals 21 DMG per hit, 0.85s windup to cast, 0.55s delay between shots, lasts 20 seconds, 30s CD at 5 lvl
+-   With 6 Songchant deals 23.96 DMG per hit
 -   Has 9.4x PVE scale (21 DMG PVP, 197.63 IN PVE)
 -   Each shot applies a Metal Rod on hit
 -   Requires a ritual cast with two keys + adding modifiers increases the number of keys.

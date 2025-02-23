@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 137322
+revid: 137371
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]
@@ -44,17 +44,17 @@ With the minimum stat requirement (25 LHT & 75 WND) to equip the weapon, the wea
 
 -   Around 24.5 damage with the 5% innate After Cut effect, and around 25.7 with the 10% After Cut effect from the Talent.
 
-With 100 LHT and 100 WND, it will deals 30.2 damage.
+With 100 LHT and 100 WND, it will deal 30.2 damage.
 
--   Around 31.5 damage with the 5% innate After Cut effect, and around 33.2 with the 10% After Cut effect from the Talent.
+-   It will deal around 31.5 damage with the 5% innate After Cut effect, and around 33.2 with the 10% After Cut effect from the Talent.
 
 ## Critical
 
 The Wraithclaw has **two** criticals.
 
-For the **standing** critical, the user windups into a barrage of six slashes, each dealing a small amount of damage & posture damage with low range, with the final hit dealing greater damage and posture. The attack can be cancelled by user themselves by pressing M2, and additionally cancels after receiving damage or getting parried.
+For the **standing** critical, the user winds up a barrage of six slashes, each dealing a small amount of damage & posture damage with low range, with the final hit dealing greater damage and posture. The attack can be cancelled by user themselves by pressing M2, getting damaged or getting parried.
 
-For the **aerial** critical, the user quickly whirls in front of them, dealing moderate damage and massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md).
+For the **aerial** critical, the user quickly whirls in front of them, dealing moderate damage and a massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md).
 
 Both criticals share the cooldown of **10 seconds**.
 
@@ -73,7 +73,7 @@ The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" w
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Bluster Rift](Bluster_Rift.md)
 
-The Grudge appearance:
+The Grudge's appearance:
 
 The Grudge appearance:
 

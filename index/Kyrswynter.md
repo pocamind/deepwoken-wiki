@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 137321
+revid: 137378
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -29,6 +29,8 @@ categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Wea
 
 ## Description
 
+**This section contains spoilers. Read at your own risk!**
+
 The **Kyrswynter** is a Legendary Spear; an intricate curved and wrapped white polearm, its blue-white coloration indicating the frost of the Kyrsgarde, and the patterns under its hilt indicating the winds of the Eternal Gale.
 
 The Kyrswynter comes with a single passive ability:
@@ -50,8 +52,6 @@ Both criticals share a cooldown of **9 seconds**.
 As of 2/22/2025, criticals and weapon model now share the color of the path the player is using.
 
 ## Obtainment
-
-**This section contains spoilers. Read at your own risk.**
 
 The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 

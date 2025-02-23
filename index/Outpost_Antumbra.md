@@ -1,6 +1,6 @@
 ---
 title: Outpost Antumbra
-revid: 113146
+revid: 137375
 source: https://deepwoken.fandom.com/wiki/Outpost_Antumbra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -26,7 +26,7 @@ Outpost Antumbra is the small outpost for The Ministry, it has a good amount of 
 
 ## Quests
 
--   There is a quest for 3 Aces and a hand of Talents. You must find Elykris. He tells you to get a book of Ministry records found inside Outpost Antumbra. Once you return the book to him, you get the rewards.
+-   There is a quest for 3 Aces and a hand of Talents. You must find [Elykris](Elykris.md). He tells you to get a book of Ministry records found inside Outpost Antumbra. Once you return the book to him, you get the rewards.
 
 ## The 'Purple Lights'
 

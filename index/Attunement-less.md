@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 137341
+revid: 137381
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -121,10 +121,8 @@ Blunt
 **Effect:** _User unleashes a powerful left cross that knocks their opponent away, inflicting ragdoll and a good amount of knockback in the process._
 
 -   Can fell trees. With [Treefelling Blow](Talents.md) Talent, you can gain wood from fallen trees.
--   Has a base posture damage of 22
--   20/30/40/50/60 base damage per level
+-   20/30/40/50/60 base damage per level, 22 posture, 2 Strength scaling
 -   72 damage at 100 Strength level 5
--   2 Strength scaling
 
  |
 | 
@@ -164,9 +162,8 @@ Blunt
 -   The move is cancelled upon getting parried in the initial hit.
 -   The user may cancel the barrage at any point during it by right clicking.
 -   Victims struck by the last punch are pushed away.
--   60/65/70/75/80 base damage per level
+-   60/65/70/75/80 base damage per level, 2 Strength scaling
 -   96 damage at 100 Strength level 5
--   2 Strength scaling
 -   Hits after the first one are 360 degree blockable.
 
  |
@@ -205,9 +202,8 @@ Blunt
 **Effect:** _User throws a piece of the ground that goes straight in the direction their character (not the camera) is looking at._
 
 -   Victims crushed by the rock will be dazed and will be thrown away.
--   20/30/40/50/60 damage per level
+-   20/30/40/50/60 damage per level, 2 Strength scaling
 -   72 damage at 100 Strength level 5
--   2 Strength scaling
 
  |
 | 
@@ -246,10 +242,9 @@ Blunt
 
 -   Does MASSIVE damage upon hit, and has a range of 20 studs.
 -   Can be parried, blocked and dodged.
--   20/30/40/50/60 damage per level, per kick
+-   20/30/40/50/60 damage per level, per kick, 2 Strength scaling
 -   72 damage at 100 Strength level 5, per kick
--   2 Strength scaling
--   Skyshatter Kick can be modified with a [Round Spark](Mantra_Modifiers.md) to Stomp directly into the ground, if a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
     -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
 
  |
@@ -402,9 +397,8 @@ Blunt
 
 **Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
 
--   Deals light damage.
+-   Deals light damage. 15 second cooldown.
 -   Shoulder Bash damage and duration scales with your Fortitude attribute.
--   15 second cooldown.
 -   Can collide with and break parts of the map.
 -   Rush shards have no effect
 -   Eternal/Aeon Logstones increase duration
@@ -599,13 +593,10 @@ Slash + Bleed
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Cooldown of 15 seconds.
+-   12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 damage per level, 5.5 posture regardless of level, 2 Agility scaling. 15s cooldown.
 -   It has a windup of 0.55 seconds and an endlag of 0.15 seconds.
--   It has a posture damage of 5.5, regardless of Mantra level.
 -   This Mantra has innate bleed, meaning that the base damage has an extra 30% true damage that doesn't get affected by damage modifiers.
--   Its base damage per level is 12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 and has an agility scaling of 2.
--   The Damage of the move scales with how much HP the user has left, dealing more damage with less HP.
-    -   Revenge does NOT do any additional damage unless health is BELOW 50%
+-   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP.
     -   45% = 1.2x
     -   40% = 1.43x
     -   35% = 1.65x
@@ -617,7 +608,7 @@ Slash + Bleed
     -   5% = 2.9x (below 5% the damage stops increasing)
 -   Can be upgraded with the **Pursuit** Talent, allowing it to be used twice in a row if the first use hits.
 -   Wayward Gem does **NOT** proc on Revenge
--   Can be upgraded with Stones and Shards. (Increases range of the Mantra).
+-   Can be upgraded with Glass/Magnifying Stones and Drift/Rush Shards (Increases range of the Mantra).
 
  |
 | 
@@ -654,7 +645,7 @@ Blunt
 
 **Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
 
--   Upgraded with points invested into Agility.
+-   Upgraded with Agility and not Strength.
 
  |
 | 
@@ -694,8 +685,8 @@ N/A
 -   Range significantly decreases as the user loses health.
 -   Canceled by attacking.
 -   Upgrading makes the dash longer.
+-   Can be modified with Crystal/Perfect Lenses to make it slightly longer.
 -   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2. (using the spring spark variant 2 times will use double amount of ether)
--   Lens slightly make it longer.
 
  |
 | 
@@ -732,9 +723,9 @@ N/A
 
 **Effect:** _User activates an inner surge of energy_
 
--   Counts as a speed boost, meaning it can proc all related talents (including "Speed Demon").
--   This Mantra can be further viable by using the Talent **Action Surge** which increases the swing speed of weapons by a extra 0.04 while the Mantra is active.
+-   Counts as a speed boost, meaning it can proc all related talents (including "**Speed Demon**").
 -   Upgrading reduces cooldown.
+-   Can be upgraded with the Talent "**Action Surge**" which increases the swing speed of weapons by a extra 0.04 while the Mantra is active.
 -   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
 
  |
@@ -836,7 +827,7 @@ _Predict an opponent's attack and reflect it._
 
  | 
 
-\[missing, add\]
+Enemy's Attack
 
  | 
 
@@ -848,7 +839,7 @@ _Predict an opponent's attack and reflect it._
 **Effect:** _User creates a white pattern on the floor while deflecting attacks they take during the duration._
 
 -   **Deflects** an attack back to the attacker.
--   Can be upgraded with Intelligence Talent Cards **All Knowing**, **Successive Prediction**, and **Twelve Steps Ahead.**
+-   Can be upgraded with Intelligence Talent Cards **All Knowing**, **Successive Prediction**, and **Twelve Steps Ahead**.
 -   Upgrading this Mantra extends the 'prediction' frames (iframes).
 
  |
@@ -886,7 +877,7 @@ N/A
 
 **Effect:** _User summons a cauldron that can be used to concoct potions. Ritual Casted._
 
--   Despawns when the user moves away from the Cauldron.
+-   Despawns when the user moves away from the cauldron.
 -   Usable as a portable shelter for campfires.
 
  |
@@ -962,9 +953,8 @@ _A melee strike that removes your posture's damage on hit._
 -   The posture transfer cannot guardbreak.
 -   Exhaustion Strikes posture transfer scales with your Willpower attribute. Going from 20% at Level 1 to 60% at Level 5.
 -   20%/30%/40%/50%/60% posture transfer per level
--   20/22/24/26/28 damage per level
+-   20/22/24/26/28 damage per level, 1.5 Willpower scaling.
 -   32.2 damage at 100 Willpower level 5
--   1.5 Willpower scaling
 -   0.5s wind-up.
 
  |
@@ -1722,7 +1712,7 @@ _Absorb damage then return fury upon your foes._
 
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
--   After the cooldown of punishment, activating it again will proceed to do a big AOE swing similar to master's flourish, that affects everyone nearby.
+-   After the cooldown of Punishment, activating it again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish), that affects everyone nearby.
 -   Deals damage based off damage absorbed, parryable.
 
  |
@@ -1733,7 +1723,7 @@ _Absorb damage then return fury upon your foes._
 -   **Although many Attunement-less Mantras have relatively low requirements, it’s highly recommended to spec into those stats.**
 -   You can't increase the duration of Charisma Mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md); neither with some other Mantras like Adrenaline Rush, Brace or Reinforce.
 -   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
--   Charisma Mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
+-   Charisma Mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit 'n run" playstyle in order to defeat you.
 -   Most Attunement-less Mantras serve as utility in order to assist you in either combat or general survival.
 -   Although Reinforce is a little costly for a Mantra, a [Blue Gem](Deep_Gems.md) can reduce it to around 50 ether, which can help with ether cost.
 -   Strong Left is best used during a parry trade in order to be as close as possible to your opponent due to its lackluster range but incredibly high damage and short wind-up.

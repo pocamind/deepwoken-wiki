@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 137240
+revid: 137373
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -105,7 +105,7 @@ Wind
 
 **Effect:** _Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target._
 
--   Deals 37.79 DMG + 3.25 (if hit was against wall), 6.8 posture, 14s cd.
+-   Deals 37.79 DMG (42.07 DMG with 6 songchant), 6.8 posture, 14s cd.
 -   Pushes people back and dazes them if they collide with something
 -   Does not apply hitstun from the blast.
 -   Can break objects.
@@ -147,6 +147,7 @@ Wind
 **Effect:** _Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target._
 
 -   Deals 133.96 (33.49\*4) DMG, 32.78 posture total (16.4 kick + 5.46\*3 hits), 8s cd.
+-   With 6 songchant deals 149.08 (37.27\*4) DMG
 -   Projectile is medium-ranged and explodes on impact.
 -   Initial hit doesn't apply hit stun but pushes people away.
 
@@ -182,8 +183,8 @@ Wind
 
 **Effect:** _Launch a wind projectile towards where you're facing._
 
--   Deals 33.07 DMG, 13 posture cd, 8s cd.
--   Can be improved with the "**Tempest Wind**" Talent, making it a [Rising Flame](Flamecharm.md#rising-flame)\-like attack that deals 53.82 dmg at 5 lvl
+-   Deals 33.07 (37.27 with 6 songchant) DMG, 13 posture cd, 8s cd.
+-   Can be improved with the "**Tempest Wind**" Talent, making it a [Rising Flame](Flamecharm.md#rising-flame)\-like attack that deals 53.82 (59.91 with 6 songchant) dmg at 5 lvl
 
  |
 | 
@@ -217,7 +218,7 @@ Wind
 
 **Effect:** _Leap high into the air before diving down towards your cursor, striking any targeted opponent._
 
--   Deals 51.43 DMG, 11 posture, 15s cd at 5 lvl.
+-   Deals 51.43 (57.24 with 6 songchant) DMG, 11 posture, 15s cd at 5 lvl.
 -   Highly recommended to turn off Shift-Lock to do this.
 -   Good mobility.
 -   Feinting it leaves the user unable to use Gale Lunge and Heavenly Wind. (Needs testing with more mantras to see interaction, it seems like specific mantras only gets this behavior.)
@@ -257,7 +258,7 @@ Wind + Slash
 
 **Effect:** _Lunge forward with your weapon coated in wind._
 
--   Deals 20.91 DMG, 8.6 posture, 13s cd at 5 lvl.
+-   Deals 20.91 (23.3 with 6 songchant) DMG, 8.6 posture, 13s cd at 5 lvl.
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
 
@@ -293,7 +294,8 @@ Wind + Slash
 
 **Effect:** _Conjure a wind AoE punch that deals damage and knocks targets away._
 
--   Deals 62.79 (20.93\*3) DMG, 27 (8.58\*3) posture, 9.5s cd at 5 lvl.
+-   Deals 63.99 (20.93\*3+1.2) DMG, 27 (8.58\*3) posture, 9.5s cd at 5 lvl.
+-   With 6 songchant deals 71.23 (23.3\*3 + 1.33)
 -   Applies Hitstun.
 -   Can break objects.
 -   Can be modified with Cloud/Stratus Stones and Perfect/Crystal Lenses to increase size.
@@ -333,6 +335,7 @@ Wind
 **Effect:** _Deploy a small green landmine at your cursor's location, activating a small tornado when made contact with._
 
 -   Deals 38.87 (2.99\*13) DMG, 5.5 posture if thrown trap blocked, 13.78 posture if blocked entire active trap, 10s cd.
+-   With 6 songchant deals 43.29 (3.33\*13) DMG
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
 -   Applies the _"Suffocate"_ status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
@@ -370,7 +373,8 @@ Wind
 **Effect:** _Conjure a small vortex around yourself, M1 to cast it forward._
 
 -   Moves forward on its own after 2 seconds.
--   Deals 17.7 + 0.89 DMG 12 times, 223 DMG total ,tornado lasts for 4.6 s, 1.3 posture per hit, 9s cd at 5 lvl.
+-   Deals 223 (17.7 + 0.89\*12) DMG, tornado lasts for 4.6 s, 1.3 posture per hit, 9s cd at 5 lvl.
+-   With 6 Songchant deals 268.97 (19.7+0.99\*12) DMG
 -   Projectile is short-ranged.
 -   Has a special interaction with Haunted Gale. Haunted gale caps at 2 strikes per mantra, but when Tornado moves, the cap resets, allowing another 2 strikes.
 -   Pulls people in if close to it (kinda buggy)
@@ -408,6 +412,7 @@ Wind + Slash
 **Effect:** _Dash forwards kicking with a rush of winds dealing damage._
 
 -   Deals 58.36 (14.59\*4) DMG, 17.5 posture, 11s cd at 5 lvl.
+-   With 6 songchant deals 64.96 (16.24\*4) DMG
 -   Can break objects.
 
  |
@@ -442,7 +447,8 @@ Wind + Slash
 
 **Effect:** _Ready yourself and then spin, creating a vertical column of sharp winds._
 
--   Deals 52.84 DMG, 23 posture, 13s cd at 5 lvl.
+-   Deals 52.84 (35.88+12.56+4.4) DMG, 23 posture, 13s cd at 5 lvl.
+-   With 6 songchant deals 58.81 (39.94+13.98+4.89) DMG
 -   Sends opponents flying into the air.
 
  |
@@ -477,7 +483,8 @@ Wind + Slash
 
 **Effect:** _Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target._
 
--   Deals 10.76 dmg per projectile (43.04 total), 2.15 posture per projectile, 10s cd.
+-   Deals 43.04 (10.76\*4) DMG, 2.15 posture per projectile, 10s cd.
+-   With 6 songchant deals 47.84 (11.96\*4) DMG
 -   Projectiles are homing.
 -   Medium-far range.
 -   Forces you to stand still when casted.
@@ -516,8 +523,8 @@ Wind + Blunt (Grab), Wind (Throw)
 
 **Effect:** _Grab your target before spinning them in 360 degrees and then tossing them._
 
--   Deals 63.82 damage at 5 lvl + 6.2 dmg against wall, 9s cd.
--   Forcible Block Break (Only When Upgraded To Level 5).
+-   Deals 60.02 (5+1.2+53.82) + 10 if against wall DMG, GB posture, 10s cd at 5 lvl
+-   With 6 songchant deals 66.24 (5+1.33+59.91) + 10 DMG if against wall
 -   The second hit (The throw) ragdolls the opponent and the ragdoll is cancellable.
 -   Procs **Breathing Impact** if thrown at a wall.
 -   Applies knockback.
@@ -558,6 +565,7 @@ Wind + Blunt
 
 -   Blocking it sends only the user into the air but cancels it after a small bit if it doesn't hit anyone after.
 -   Deals 63.28 (13.44+13.44+13.44+11.48+11.48) DMG, 5.5 posture, 14s cd.
+-   With 6 Songchant deals 65.88 (13.44+13.44+13.44+12.78+12.78) DMG
 -   Posture breaking with this mantra won't continue it on to the multihits.
 -   Gems apply ONLY to the last hit, making bloodless' healing very low.
 -   Missing will not send the user into the air.
@@ -602,6 +610,7 @@ Wind + Slash
 
 -   Rapidly damages the opponent.
 -   Deals 57.59 (4.43\*13), 13 posture total, 10s cd at 5 lvl.
+-   With 6 songchant deals 64.09 (4.93\*13) DMG
 -   Can be modified with Cloud/Stratus Stones to increase it's size. Puts the Carve ball further away with Perfect/Crystal Lenses.
 -   Pushes opponents hit by the final slash away.
 -   Can be canceled once the mantra initiates.
@@ -638,8 +647,8 @@ Wind
 
 **Effect:** _Fire a penetrating bullet of wind._
 
--   Deals 57.41 DMG, 3.15 posture, 15s cd.
--   Blast spark version deals 36.6 + 14. 15 against wall, 26 posture.
+-   Deals 57.41 (63.9 with 6 songchant) DMG, 3.15 posture, 15s cd.
+-   Blast spark version deals 59 DMG, With 6 songchant does 67 DMG. 15 against wall, 26 posture.
 -   Pushes and ragdolls opponent.
 -   Applies the _"Suffocate"_ status effect.
 -   Can be modified with a Multiplying Spark in order to shoot multiple bullets at once.
@@ -678,7 +687,8 @@ Wind + Slash
 
 **Effect:** _Cast several fast, wind-enhanced slashes that form a star._
 
--   Deals 51.85 DMG, 13.6 posture, has 15s cd.
+-   Deals 51.85 (10.37\*5) DMG, 13.6 posture, has 15s cd.
+-   With 6 songchant deals 57.7 (11.54\*5) DMG
 -   Last hit of the mantra sends the opponent upwards, sometimes even when parried. (Only at Mantra Lv: 2+)
 -   Can be modified with Cloud/Stratus Stones to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 
@@ -785,7 +795,7 @@ Wind + Slash
 
 **Effect:** _Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled._
 
--   Deals 65.18 DMG, 16.5 posture, 12s cd at 5 lvl.
+-   Deals 65.18 (72.55 with 6 songchant) DMG, 16.5 posture, 12s cd at 5 lvl.
 -   Can be modified with Crystal/Perfect Lenses to increase the distance travelled, making it a very useful tool for horizontal mobility.
 -   Can be used to clip through walls while in [The Second Layer](Second_Layer.md)
 -   It's also compatible with Logstones, but the effect is minimal.
