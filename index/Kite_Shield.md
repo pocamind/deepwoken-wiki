@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 129165
+revid: 137488
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -20,7 +20,7 @@ categories: [Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia (Chests), Artifacts |
+| obtainment | Erisia (Chests), Artifacts, Meteor Isle (Blacksmith) |
 | description | A fine shield to hold back the horrors of the world. |
 
 ## Description

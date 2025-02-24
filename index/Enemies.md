@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 132054
+revid: 137489
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Enemies]
 
 _This page is for human 'mob' enemies, for bosses, see [Bosses](Bosses.md). For monsters, see [Monsters](Monsters.md)._
 
-**Enemies** in _Deepwoken_ are neutral-hostile humanoid NPCs that will attack the players. However, instead of being agressive to everything, some of these NPCS will attack selectively, such as based on your reputation.
+**Enemies** in _Deepwoken_ are neutral-hostile humanoid NPCs that will attack the players. However, instead of being aggressive to everything, some of these NPCS will attack selectively, such as based on your reputation.
 
 ## Overview
 

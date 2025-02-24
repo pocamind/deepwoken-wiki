@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 137432
+revid: 137492
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -37,12 +37,12 @@ _adjective_
 
 1.  (Competitive) A very good, very **comp**etitively viable build, Talent or other ability; meta.
     1.  Ex. "Is Twister Kicks comp?"
-    2.  Ex. "Yo guys wanna join my comp guild?"
 
 _noun_
 
 1.  Competitive play (PvP, chime).
 2.  A PvP/competitively focused guild.
+    1.  Ex. "Yo guys wanna join my comp guild?"
 
 ### Freshie
 

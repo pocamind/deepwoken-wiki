@@ -1,6 +1,6 @@
 ---
 title: Allure
-revid: 128079
+revid: 137491
 source: https://deepwoken.fandom.com/wiki/Allure
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Enchantments](Enchantments.md)
+-   [Enchantments#:~:text=Allure](Enchantments.md#textallure)
