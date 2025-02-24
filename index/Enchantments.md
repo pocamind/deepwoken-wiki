@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 137366
+revid: 137480
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -75,7 +75,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>After landing 2/3/4 hits, every hit for 5 seconds including the final hit will apply burning (Burn DMG scales from user flamecharm investment, minimal dmg 3.3). This can be used to trigger Flamecharm Talents.<br>
+  <td><div><p>After landing 2/3/4 hits, every hit for 5 seconds including the final hit will apply <a href="Status_Effects.md#burn">Burn</a> (Burn DMG scales from user flamecharm investment, minimal dmg 3.3). This can be used to trigger Flamecharm Talents.<br>
   Lava Serpent will create an explosion instead of creating a fire.<br>
   Twisted Puppets will summon a puppet instead of creating a fire.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.</div></td>
@@ -83,14 +83,14 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze and Chill. (Putting the Talent on cd too), negating all movement (7 second cooldown).<br>
+  <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a>. (Putting the Talent on cd too), negating all movement (7 second cooldown).<br>
   Deals Frost dmg on hit (normal frostdraw) or one crystal (Crystal).</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
-  <td><div><p>Weapon deals 1.07x damage and deal damage overtime.<br>
+  <td><div><p>Weapon deals 1.07x damage and inflicts <a href="Deferred.md">Deferred</a>, which deals damage overtime.<br>
   Damage is dealt over 2.5 seconds in 10% increments. The damage overtime cannot be avoided once applied.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
@@ -106,7 +106,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Elastic<div></div></font></center></td>
-  <td><div><p>On hit, a pink string connecting the weapon and your target will appear, pulling the target towards you (doesn't work with bullets).</p></div></td>
+  <td><div><p>On hit inflict Tethered, causing a pink string connecting the weapon and your target to appear, pulling the target towards you (doesn't work with bullets).</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
@@ -122,14 +122,14 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
   After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
-  The target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.<br>
+  The target is afflicted with <a href="Grim.md">Grim</a> for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.<br>
   Instead of making those affected take more damage, it buffs the damage of the person attacking them, meaning grim <b>is</b> affected by the damage modifier cap.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and light red aura.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Harrowing<div></div></font></center></td>
-  <td><div><p>Coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
+  <td><div><p>Inflicts <a href="Harrowing.md">Harrowing</a>, which coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
   This effect lasts for 4 seconds.<br>
   Can only be obtained from the Hallowtide event.</p></div></td>
   <td><div>Weapon turns translucent and emits purple smoke with orange-ish particles.</div></td>
@@ -157,7 +157,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
   <td><div><p>The weapon's critical becomes a katana's but deals no damage.<br>
-  On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker +20%. Nemesis critical does not benefit from damage multipliers. Deals 18 posture damage regardless of your weapon's Weight stat.<br>
+  On hit, a <a href="Status_Effects.md#nemesis-mark">red eye marker</a> is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker +20%. Nemesis critical does not benefit from damage multipliers. Deals 18 posture damage regardless of your weapon's Weight stat.<br>
   If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
   </p>
   <p>The critical can still trigger critical Talents like Bear Trap but not Manipulator.<br>
@@ -192,7 +192,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Sear<div></div></font></center></td>
-  <td><div><p>Weapon gain +5% PEN and apply <b>Cauterize</b> on hit. Cauterized targets:<br>
+  <td><div><p>Weapon gain +5% PEN and apply Cauterize on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 5.45%, MED: 8%, HVY: 10% per hit).<br>
   The PEN it gives also counts for mantra damage and bypasses the 50% PEN cap.<sup><a href="#cite-note-1">[1]</a></sup><br>
   Drain thirst equal to 20% of weapon scaled DMG, not affected by DMG mods. (As example 43.77/5 = 8.75 water drain)</p>
@@ -205,9 +205,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
-  <td><div><p>Applies a Solar Mark on Crit or Flourish.<br>
-  Solar Mark last 8s, and reduces tempo gain/ether regeneration.<br>
-  Venting steals a portion of marked enemies tempo.</p></div></td>
+  <td><div><p>Applies Solar Mark on Crit or Flourish.<br>
+  Solar Mark lasts 8s, and reduces tempo gain/ether regeneration.<br>
+  Venting steals a portion of marked enemies' tempo.</p></div></td>
   <td><div>Weapon turns orange with bright orange particles orbiting it.</div></td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
-  <td><div><p>Adds a temporary health for 20% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
+  <td><div><p>Adds <a href="Status_Effects.md#temporary-health">Temporary Health</a> for 20% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
   The healing is not affected by PVE Scaling.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>
@@ -281,7 +281,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
-  Weapon deal additional blood bar damage, scales with weapon damage.<br>
+  Weapon deals additional blood bar damage, scales with weapon damage.<br>
   Curse of the Bloodthirsty's blood loss follows this formula:<br>
   "0.1 * S * M + (0.1 * S + 3) × (0.9 + 0.1 * M), with S being scaled damage and M being attack blood damage multiplier (M = 1 for slash, M = 0.65 for blunt, M = 3 for daggers)"<br>
   On daggers, the formula is nerfed to "0.1 * S * 3 + (0.1 * S + 1) × (0.9 + 0.1 * 3)"<br>
@@ -458,7 +458,7 @@ Displacement
 
  | 
 
-On proc, grant a speed boost for 3-5s and nullify hitstun speed reduce.  
+On proc, grants a speed boost for 3-5s and nullifies the speed reduction from hitstun.  
 30% chance to proc.
 
 **IN PVE DISPLACEMENT PROCS ONLY AGAINST HUMANOIDS**
@@ -475,7 +475,7 @@ Drowned
 
  | 
 
-Drowned equipment grant, on top of their innate stats and Talents:  
+Grants the equipment, on top of its innate stats and Talents:  
   
 10 Health  
 10 Ether  

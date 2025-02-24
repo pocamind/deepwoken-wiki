@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 137208
+revid: 137454
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -144,6 +144,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **[Nautilodaunts](Nautilodaunt.md)** draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft. They also draw heavy inspiration from [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/f), with their physique being near identical.
 -   Humanoid enemies casting mantras have a chance to say "behold my magic spell" as a spell shout.
     -   Originally, this was a bug, where enemies would always say the line on any mantra cast, which was a debug quote to test spell shout.
+-   The [Lionfish](Lionfish.md)'s beam attack is a reference to Cero from Bleach.
 
 ## Resonance
 

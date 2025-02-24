@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 137376
+revid: 137443
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -152,10 +152,10 @@ Lightning + Slash
 
 **Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
 
--   Deals 52.64 (13.16\*2) + 26.95 (Stormcaller) DMG, 10s CD
+-   Deals 26.32 (13.16\*2) + 26.95 (Stormcaller) DMG, 10s CD
 -   With 6 songchant its 29.28 (14.64\*2) + 26.95 (Stormcaller)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
--   Can grant an optional effect with the "**Stormcaller Slash**" Talent, which lets the user perform a short wind-up slash at the end of the mantra casted by pressing the \[F\] key.
+-   At end of mantra, performs a "**Stormcaller Slash**", which can be cancelled by pressing the \[F\] key.
     -   Can be stacked with the **Magnet Spark** variant of the mantra to perform 4 slashes in total.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform a **third** short-ranged teleporting slash.
 

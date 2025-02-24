@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 136615
+revid: 137445
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -116,7 +116,7 @@ These status effects won't kill you, but they can give you a debuff or drain you
 
 This effect can be applied by being hit by a weapon that applies bleed, [Crimson Terrapods](Terrapod.md#crimson), or Mantras that apply bleed ([Ironsing](Ironsing.md) and [Revenge](Attunement-less.md#agility-mantras)). Bleed deals 10% of the initial attack's damage in three damage ticks, totaling to a 30% total damage increase. Bleed from [Speed Demon](Talents.md#vigil-swordsman) only results in a 15% total damage increase. Reduces your blood levels and deals some HP damage; signified by blood pouring out from your character. Lower blood levels mean lower healing.
 
-### Burning
+### Burn
 
 This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move and many other sources. Drains your health at a relatively negligible pace (Around 8 DMG per second). If an unconscious body is set on fire, they will automatically be gripped after 8 seconds if not picked up (5 seconds if the user who applied the fire has the talent Corpse Explosion). Can be gotten rid of by rolling, jumping in water, or by sliding. Extinguishing the fire on yourself will grant you immunity to burn for 2s. Burn damage scales on the user's Flamecharm investment. Signified by fire particles coming from your character. Additionally, certain objects (notably the long carpets in Voidheart) can also be set on fire and burn the person upon touch.
 
@@ -138,7 +138,7 @@ This effect can be applied by being hit with Galebreathe Mantras or Galeforced m
 
 Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe Mantra if the user has A World Without Song. Unable to cast Mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
 
-### Chilled
+### Chill
 
 Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mantra, from being hit by a Frostmantled enemy, from the [Crustaceous Rex](Crustaceous_Rex.md)'s bubbles, or from a [Glacial Lionfish](Glacial_Lionfish.md)'s Chilling Cero. Signified by cyan smoke on your character.
 
@@ -150,7 +150,7 @@ Have a crystal stacked on you. When you reach 5 crystals, they will detonate, da
 
 Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents, Mantras, and [Hailbreaker](Hailbreaker.md) Critical. Signified by being encased in a block of ice. Mash F to escape faster.
 
-### Shocked
+### Shock
 
 Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry) and bypasses hyperarmor. Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
 
@@ -210,7 +210,7 @@ Anti-Heal effect applied when being assassinated by a player who has the [Deep W
 
 While active, suffer from 80% Anti-Heal meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
 
-### Charmed
+### Charm
 
 Deal 10% less damage to the player who charmed you. If the charmer has the Talent Tough Love, take 10% more damage to the player who has charmed you. Having the [Disbelief](Talents.md#mental-fortress) Talent halves the duration when applied to you. Can be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent and others that grant Overcharm, causing you to take 10% less self-damage and get up from being knocked twice as fast. Signified by hearts appearing around the user.
 
@@ -248,7 +248,7 @@ Become marked for an auto aim katana critical. Signified by a pink-reddish eye o
 
 ### Moonseye Mark
 
-Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use a followup crit on you or users of the [Soulthorn](Soulthorn.md) to use their stage 2 and 3 crits on you depending on your Moonseye Mark stacks.
+Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use a followup crit on you, or users of the [Soulthorn](Soulthorn.md) to use their stage 2 and 3 crits on you depending on your Moonseye Mark stacks.
 
 ### Angry/Enraged
 

@@ -1,6 +1,6 @@
 ---
 title: Light Hook
-revid: 136257
+revid: 137487
 source: https://deepwoken.fandom.com/wiki/Light_Hook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, StubPages, Items]
@@ -16,7 +16,7 @@ This page focuses on the Light Hook utility and _not_ the technically separate L
 
 ## Usage
 
-The Light Hook can be activated manually or automatically by player death. Upon activation, it will send the player back to Castle Light with their health restored.
+The Light Hook can be activated manually or automatically if the player dies. Upon activation, it will send the player back to Castle Light with their health restored.
 
 The Light Hook lasts for a finite amount of time, and will disappear once that time is up — leaving the player stranded unless they can escape manually through (much more difficult) alternative means.
 
