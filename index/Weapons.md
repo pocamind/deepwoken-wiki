@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 137105
+revid: 137498
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -4954,7 +4954,7 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
 
 Heavy Weapons are two-handed weapons, but they can be wielded with one hand if you have 40 stat points into heavy weapon. They are slow, but have superior range and pack quite a punch. They feature powerful critical attacks, that usually provide hyperarmor, instantly guard breaks if blocked and apply knockdown on the enemy.
 
-All Heavy Weapons uniquely possess the "return swing" function, which allows them to gain Armor on a basic attack after a successful parry.
+All Heavy Weapons uniquely possess the "return swing" function, which allows them to gain hyperarmor on a basic attack after a successful parry.
 
 **Greataxes:**
 

@@ -1,6 +1,6 @@
 ---
 title: Varicosa District
-revid: 136994
+revid: 137499
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths, Layer 1, Lost Celtor]
@@ -20,9 +20,9 @@ It's sometimes mused that the greed, excess and petty politics of those in this 
 
 ## Overview
 
-The Varicosa District is a section of The City of the Drowned distinguished by its rocky, yellow-topped buildings. Here, you can find the Shadow trainer and common places to barrel-up to enter the Cathedral of Interstice from above.
+The Varicosa District is a section of The City of the Drowned distinguished by its rocky, yellow-topped buildings. Here, you can find the Shadowcast trainer and common places to barrel-up to enter the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) from above.
 
-[Jeremiah](Jeremiah.md), an NPC that you can trade deep gems for items, can be found here.
+[Jeremiah](Jeremiah.md), an NPC that you can trade Deep Gems to for items, can be found here.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 137492
+revid: 137497
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -148,7 +148,7 @@ _noun, verb_
 
 _noun_
 
-1.  A combo that, when the first hit or a certain hit lands, can **not** be avoided by any means, leading to guaranteed (or **true**) damage.
+1.  A combo that, when the first hit or a certain hit lands, subsequent hits can **not** be avoided by any means, leading to guaranteed (or **true**) damage.
 
 ### Counter
 
@@ -211,7 +211,7 @@ _verb, noun_
 
 _verb_
 
-1.  To use the (usually) fourth attack of your weapon, unique in that it knocks your opponent back by default.
+1.  To use the fourth or otherwise final attack in your weapon's attack cycle, unique in that it knocks your opponent back by default.
     1.  Ex. "The freshie died to a single flourish from my Silentheart detonation Petra's Anchor build."
 
 ### Gank
@@ -289,7 +289,7 @@ _verb_
 
 _verb_
 
-1.  Going back to a player you died to previously, usually on a higher power slot, to challenge them again
+1.  Going back to a player you died to previously, usually on a higher Power slot, to challenge them again
     1.  Ex. "Stay here imma spin back."
 
 Sometimes shortened to **spin**.
@@ -447,7 +447,7 @@ These are general terms that are more specific but do not exclusively apply to c
 
 _noun, verb_
 
-1.  (Anti-Air Gun) Nickname for an anti-cheat mechanism that automatically kills the player if it detects them to be flying (in mid-air for a long time or at a high altitude). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
+1.  (Anti-Air Gun) Nickname for an anti-cheat mechanism that automatically kills or voids (see below) the player if it detects them to be flying (in mid-air for a long time). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
     1.  Ex. "I just got AA gunned and wiped!"
 
 The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_Gun) from _Rogue Lineage_, a cannon that served the same purpose of shooting down exploiters who utilize flying exploits.
@@ -489,9 +489,23 @@ _verb_
 1.  To leave the game as fast as possible when not in combat, usually when being hunted by a player, so as to avoid conflict.
     1.  Ex. "I just heard a guy wipe, we should log"
 
+### Void
+
+_verb_
+
+1.  For an item to unexpectedly disappear from the player's inventory as the result of a bug.
+    1.  Ex. "My manor key just voided what happened???"
+2.  To be instantly killed by one of the game's anti-cheat mechanisms, or to make contact with the overworld's void (see below), causing the player to respawn.
+
+_noun_
+
+1.  The floor of the [first](First_Layer.md) or [second layer](Second_Layer.md) of [The Depths](The_Depths.md) that's able to kill a player if they fall onto it.
+    1.  Ex. "Lol i just knocked that guy into the void"
+2.  The out-of-bounds bottom of the overworld that when touched will respawn the player.
+
 ## Enemies / Monsters
 
-These terms relate to the many [enemies](Enemies.md) in game.
+These terms relate to the many [enemies](Enemies.md) and [monsters](Monsters.md) in the game.
 
 ### Corrupted
 
@@ -518,7 +532,7 @@ _noun_
 
 _noun_
 
-1.  Refers to the [Dread Serpent](Dread_Serpent.md). The name comes from [Kaido](https://onepiece.fandom.com/wiki/Kaidou?so=search) from One Piece who has a similar appearance to the Dread Serpent in his dragon form.
+1.  Refers to the [Dread Serpent](Dread_Serpent.md). The name comes from [Kaido](https://onepiece.fandom.com/wiki/Kaidou) from the anime _One Piece_ who has a similar appearance to the Dread Serpent in his dragon form.
     1.  The developers of Deepwoken have stated they do not like the usage of this name.
 
 ### Monkey / Monke
@@ -531,7 +545,7 @@ _noun_
 
 _noun_
 
-1.  Refers to [Primadon](Primadon,_Titan_of_the_East.md).
+1.  Short form of [Primadon](Primadon,_Titan_of_the_East.md).
 
 ### Sharko
 

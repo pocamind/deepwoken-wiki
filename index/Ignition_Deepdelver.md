@@ -1,9 +1,9 @@
 ---
 title: Ignition Deepdelver
-revid: 137159
+revid: 137514
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Outfits, Armors, Items, Master Outfits, The Ignition Union]
+categories: [Outfits, Armors, Items, Master Outfits, The Ignition Union]
 ---
 
 # Ignition Deepdelver
@@ -26,9 +26,9 @@ The outfit has 3000 durability, grants +15% Frostdraw and Ironsing Armor, +35% E
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 44.75% Ironsing, 44.7% Frostdraw, and 35% Elemental.
 
-The [Force Your Way](Talents.md#ignition-deepdelver) Talent grants the player the ability to parry unparryable attacks (from monsters NOT players) at the cost of some armor durability, losing around 1%. Whenever an attack that's not normally parryable is parried, the armor will let off some sparks and steam (which is purely visual). Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
+The [Force Your Way](Talents.md#ignition-deepdelver) Talent grants the player the ability to parry un-parryable attacks from large monsters at the cost of some armor durability, losing around 1%. Whenever an attack that's not normally parryable is parried, the armor will let off some sparks and steam (which is purely visual). Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
 
-This effect is also given by the arms equipment [Ignition Gauntlets](Ignition_Gauntlets.md). A similar one can be obtained from the [Grand Fisher Plate](Grand_Fisher_Plate.md).
+This effect is also given by the arms equipment [Ignition Gauntlets](Ignition_Gauntlets.md), as well as a similar one from the [Grand Fisher Plate](Grand_Fisher_Plate.md).
 
 ## Location
 
@@ -45,10 +45,5 @@ This Outfit's Schematic can be found in:
     -   **Pillars of Erisia** ([Duke Erisia](Duke_Ishamon_Erisia.md))
     -   **Cero** ([Lionfish](Lionfish.md))
     -   All of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) non-parryable attacks
-    -   ~**Crab Crab**[\[1\]](#cite-note-crabcrab-1) ([Crustaceous Rex](Crustaceous_Rex.md))~
-    -   [Kyrsieger](Kyrsieger.md) critical
+    -   [Kyrsieger](Kyrsieger.md)'s critical
     -   The last hit of **Mortal Draw: Floating Passage** ([Maestro Evengarde Rest](Maestro_Evengarde_Rest.md))
-
-## References
-
-1.  [↑](#cite-ref-crabcrab-1-0) File:ThisTrulyWasACrabCrab.png

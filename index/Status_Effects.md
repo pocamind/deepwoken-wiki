@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 137445
+revid: 137509
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -18,7 +18,7 @@ These status effects can be beneficial to the player.
 
 ### Resting
 
-This effect causes the player to regain lost health and blood much faster, but lose hunger and thirst much faster (for blood regain). This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md), [Graceful Flame](Flamecharm.md), or the Stove.
+This effect causes the player to regain lost health and blood much faster, but lose hunger and thirst much faster (for blood regain). This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md), [Graceful Flame](Flamecharm.md#graceful-flame), or the Stove.
 
 ### Bloodlusted
 
@@ -26,7 +26,7 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 
 ### Reinforced
 
-Applied after being hit by the Mantra [Reinforce](Attunement-less.md#fortitude-mantras), do 5% more damage and get 10% defense. Allies near you will automatically gain the same effect. And if you reinforce others, this effect can go onto them too. Signified by pale yellow/lime green particles surrounding the body.
+Applied after being hit by the Mantra [Reinforce](Attunement-less.md#reinforce), do 5% more damage and get 10% defense. Allies near you will automatically gain the same effect. And if you reinforce others, this effect can go onto them too. Signified by pale yellow/lime green particles surrounding the body.
 
 ### Lord's Tithe
 
@@ -34,7 +34,7 @@ When Reinforce is applied to an ally or enemy with the Talent Lord’s Tithe, st
 
 ### Hyperarmor
 
-Make your attacks uninterruptible and become immune to most forms of stun; Vents and Thundercall's Shock will bypass this and will interrupt your attack. Can be applied with the Critical attack of most heavy weapons, [Brace](Attunement-less.md#fortitude-mantras), and many other sources. Signified by your character gaining a red highlight. Hyperarmor ends early if you cast a Mantra.
+Make your attacks uninterruptible and become immune to most forms of stun; Vents and Thundercall's Shock will bypass this and will interrupt your attack. Can be applied with the Critical attack of most heavy weapons, [Brace](Attunement-less.md#brace), and many other sources. Signified by your character gaining a red highlight. Hyperarmor ends early if you cast a Mantra.
 
 ### True Hyperarmor
 
@@ -42,7 +42,7 @@ Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Ca
 
 ### Overheal
 
-Gain Temporary Health which decays overtime. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), aswell as the Vampirism enchant. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. Signified by a white bar on your health bar.
+Gain Temporary Health which decays overtime. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), aswell as the [Vampirism](Vampirism.md) enchant. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. Signified by a white bar on your health bar.
 
 ### Fight
 
@@ -62,7 +62,7 @@ Gain 20% damage resistance and 5% dmg boost. Gained by being a target ally of a 
 
 ### Rallied
 
-All posture damage given to you will instead be sent to the person who used [Rally](Attunement-less.md#fortitude-mantras). Signified by your character emitting white circles.
+All posture damage given to you will instead be sent to the person who used [Rally](Attunement-less.md#rally). Signified by your character emitting white circles.
 
 ### Cool Head
 
@@ -70,15 +70,15 @@ For the duration, you are unable to be lit on fire, signified by a cold breath c
 
 ### Engulfed by Lightning
 
-Applied by the Mantra [Lightning Cloak.](Thundercall.md) Have your swing speed and movement speed increased while active. Signified by pulsating electricity around your character.
+Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have your swing speed and movement speed increased while active. Signified by pulsating electricity around your character.
 
 ### Engulfed by Shadows
 
-Applied by the Mantra [Shade Devour.](Shadowcast.md) Increases your weapon damage by 20-25%, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md) on the mantra. Signified by a dark aura emanating from your character.
+Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your weapon damage by 20-25%, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md) on the mantra. Signified by a dark aura emanating from your character.
 
 ### Adrenaline Surge
 
-Have your movement and parkour speed increased by 15% and your swing speed increased by 0.04 if you have Action Surge. Applied by the [Adrenaline Surge](Attunement-less.md#agility-mantras) Mantra. Signified by a white circle in your chest.
+Have your movement and parkour speed increased by 15% and your swing speed increased by 0.04 if you have Action Surge. Applied by the [Adrenaline Surge](Attunement-less.md#adrenaline-surge) Mantra. Signified by a white circle in your chest.
 
 ### Radiant
 
@@ -94,7 +94,7 @@ At the cost of draining all of your armor, your M1 and Critical attacks bypass y
 
 ### Overcharm
 
-Apply charm every M1 and Mantra landed, even without having the Charismatic Cast or Tough Love Talents. Deal 10% more damage with basic attacks to enemies charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md#charisma-mantras) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also self proc [Charm](#charmed), reducing your self damage by 10%.
+Apply charm every M1 and Mantra landed, even without having the Charismatic Cast or Tough Love Talents. Deal 10% more damage with basic attacks to enemies charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md#sing) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also self proc [Charm](#charmed), reducing your self damage by 10%.
 
 ### Mark of Jurik
 
@@ -114,7 +114,7 @@ These status effects won't kill you, but they can give you a debuff or drain you
 
 ### Bleed
 
-This effect can be applied by being hit by a weapon that applies bleed, [Crimson Terrapods](Terrapod.md#crimson), or Mantras that apply bleed ([Ironsing](Ironsing.md) and [Revenge](Attunement-less.md#agility-mantras)). Bleed deals 10% of the initial attack's damage in three damage ticks, totaling to a 30% total damage increase. Bleed from [Speed Demon](Talents.md#vigil-swordsman) only results in a 15% total damage increase. Reduces your blood levels and deals some HP damage; signified by blood pouring out from your character. Lower blood levels mean lower healing.
+This effect can be applied by being hit by a weapon that applies bleed, [Crimson Terrapods](Terrapod.md#crimson), or Mantras that apply bleed ([Ironsing](Ironsing.md) and [Revenge](Attunement-less.md#revenge)). Bleed deals 10% of the initial attack's damage in three damage ticks, totaling to a 30% total damage increase. Bleed from [Speed Demon](Talents.md#vigil-swordsman) only results in a 15% total damage increase. Reduces your blood levels and deals some HP damage; signified by blood pouring out from your character. Lower blood levels mean lower healing.
 
 ### Burn
 
@@ -136,7 +136,7 @@ This effect can be applied by being hit with Galebreathe Mantras or Galeforced m
 
 ### Suffocate
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe Mantra if the user has A World Without Song. Unable to cast Mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
+Can be applied by being hit by [Wind Gun](Galebreathe.md#wind-gun), [Galetrap](Galebreathe.md#galetrap) or by any other Galebreathe Mantra if the user has A World Without Song. Unable to cast Mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
 
 ### Chill
 
@@ -160,7 +160,7 @@ Do 10% less damage and turn M1 attacks into lightning damage. Applied through be
 
 ### Sapped
 
-This can be applied by being flourished by someone using Thunder Wisp or by someone overloading your surge stacks with Fried Circuits. While Sapped, your Mantra cooldowns are increased, you will also be shocked when Sapping ends. Indicated by a lightning javelin piercing you.
+This can be applied by being flourished by someone using [Thunder Wisp](Thundercall.md#thunder-wisp) or by someone overloading your surge stacks with Fried Circuits. While Sapped, your Mantra cooldowns are increased, you will also be shocked when Sapping ends. Indicated by a lightning javelin piercing you.
 
 ### Overloaded
 
@@ -228,23 +228,23 @@ Become slowed and deal less damage, also become a valid target for Symbiotic Lee
 
 ### Bottom Freeze
 
-Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling enchantment](Enchantments.md). Signified by the legs of your character being frozen in ice.
+Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling](Chilling.md) enchantment. Signified by the legs of your character being frozen in ice.
 
 ### Harrowing
 
-This is applied by being hit by the [Harrowing](Enchantments.md) enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
+This is applied by being hit by the [Harrowing](Harrowing.md) enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
 
 ### Deferred
 
-This is applied by being hit by the [Deferred](Enchantments.md) enchant. Take DOT by (WD \* 1.07) \* .1); damage is dealt 10 times over the course of 2.5 seconds.
+This is applied by being hit by the [Deferred](Deferred.md) enchant. Take DOT by (WD \* 1.07) \* .1); damage is dealt 10 times over the course of 2.5 seconds.
 
 ### Tethered
 
-Become tethered to your attacker, being pulled towards them forcefully. Applied by being hit with the [Elastic enchant.](Enchantments.md) Signified by a pink string between yourself and your attacker.
+Become tethered to your attacker, being pulled towards them forcefully. Applied by being hit with the [Elastic](Elastic.md) enchant. Signified by a pink string between yourself and your attacker.
 
 ### Nemesis Mark
 
-Become marked for an auto aim katana critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis enchant](Enchantments.md)
+Become marked for an auto aim katana critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis](Nemesis.md) enchant.
 
 ### Moonseye Mark
 
@@ -252,7 +252,7 @@ Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to 
 
 ### Angry/Enraged
 
-Applied through being hit by the Mantra [Taunt](Attunement-less.md#charisma-mantras) or being block broken by a player who has the [Cornered Fool](Talents.md#empath) Talent. Receive 20% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
+Applied through being hit by the Mantra [Taunt](Attunement-less.md#taunt) or being block broken by a player who has the [Cornered Fool](Talents.md#empath) Talent. Receive 20% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
 
 ### Fear
 
@@ -268,15 +268,15 @@ Screen turns slightly black around the edges and have your vision obscured. Gain
 
 ### Cauterized
 
-Applied by being hit by the [Sear](Enchantments.md) enchant. Incoming attacks have increased PEN, which is increased every time you get hit by the Sear enchant until it caps out at +40% PEN. No visual effect.
+Applied by being hit by the [Sear](Sear.md) enchant. Incoming attacks have increased PEN, which is increased every time you get hit by the Sear enchant until it caps out at +40% PEN. No visual effect.
 
 ### Solar Mark
 
-Applied by being flourished or hit by critical attacks from weapons with the [Solar enchant](Enchantments.md). Reduces tempo and ether gain/regeneration. Indicated by a pulsating star on your character.
+Applied by being flourished or hit by critical attacks from weapons with the [Solar](Solar.md) enchant. Reduces tempo and ether gain/regeneration. Indicated by a pulsating star on your character.
 
 ### Grim
 
-Take 20% more damage and 50% more posture damage from all sources for 6 seconds. Applied by being hit by the [Grim enchant](Enchantments.md). Signified by red bubbles on your torso.
+Take 20% more damage and 50% more posture damage from all sources for 6 seconds. Applied by being hit by the [Grim](Grim.md) enchant. Signified by red bubbles on your torso.
 
 ### Time Stasis
 
@@ -288,7 +288,7 @@ Applied by standing near someone with audacity when they're executing someone. W
 
 ### Wither
 
-Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and healthpacking when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion's](Darkened_Bastion.md) _Withering Soul_ Talent, [Umbrite Witherblade's](Umbrite_Witherblade.md) M1s and Critical Attack, [Pleeksy's Inferno's](<Pleeksty's_Inferno.md>) Critical Attack, [Spectral Grasp's](Spectral_Grasp.md) Critical Attack, or can be applied to self with [Bladeharper's](Oath%253A_Bladeharper.md) _Reveal_, [Vortex Echo's](Vortex_Echo.md) Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
+Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and gaining health when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s M1s and Critical Attack, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, or can be applied to self with [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
 
 ## Deadly Status Effects
 

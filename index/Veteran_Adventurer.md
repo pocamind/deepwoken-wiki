@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 134309
+revid: 137510
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -37,7 +37,7 @@ This Outfit's Schematic can be obtained from:
 ## Trivia
 
 -   This Outfit's appearance is a reference to _[Guilty Gear](https://en.wikipedia.org/wiki/Guilty_Gear)_ protagonist [Sol Badguy](https://guiltygear.fandom.com/wiki/Sol_Badguy); specifically, it references his appearance in the seventh installment _[GUILTY GEAR -STRIVE-](https://en.wikipedia.org/wiki/Guilty_Gear_Strive)._
-    -   The Equipment Talent affecting Vents is a nod to the series' "[Psych Burst](https://guiltygear.fandom.com/wiki/Psych_Burst)" mechanic, which served as a direct inspiration.
+    -   The Equipment Talent affecting Vents is a nod to the series' "Psych Burst" mechanic, which served as a direct inspiration.
 -   Worn by f3bian during the [Battle Royale](Battle_Royale.md).
 -   Formerly worn exclusively by [Serena](Serena.md), before becoming publicly-available only in the Battle Royale gamemode. It was made obtainable in the main game due to popular demand.
 -   Clothing IDs: [Shirt](https://www.roblox.com/catalog/6155128410/Crimson-Paladin), [Pants](https://www.roblox.com/catalog/6155129851/Crimson-Paladin-Pants)

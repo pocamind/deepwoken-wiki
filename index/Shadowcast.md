@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 137337
+revid: 137516
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
