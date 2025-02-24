@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137423
+revid: 137428
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1849,6 +1849,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 
 ## Trivia
 
+-   **Searing Snare** has the same sound effects as [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood Explosion move
 -   As of the 31/10/2024 update, Burn damage now scales on your Flamecharm investment. Additionally, Burn damage was changed to be resisted by Fire Armor in the same update.
 -   All Flamecharm mantras deal reduced damage (??%) in the rain, unless the user has the Unyielding Inferno Talent.
 -   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of _Deepwoken_.

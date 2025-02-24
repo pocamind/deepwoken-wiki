@@ -1,6 +1,6 @@
 ---
 title: Charisma
-revid: 121527
+revid: 137436
 source: https://deepwoken.fandom.com/wiki/Charisma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Attributes#Charisma (CHA)](Attributes.md#charisma-cha)
+-   [Attributes#CHA](Attributes.md#cha)

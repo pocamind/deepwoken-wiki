@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 134562
+revid: 137430
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -12,7 +12,7 @@ Dye Packet's GUI
 
 ## Description
 
-Dye Packet is an item that can be obtained from [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) by handing in one [Kyrsan Medallion](Kyrsan_Medallions.md) per packet, getting it from the [Weird Trader](Weird_Trader.md) or rarely in [Merchant Ships](Travelling_Merchant.md) for around. It cannot be dropped but the dyed equipment can be dropped. Dye Remover no longer comes with the Dye Packet when you purchase one. Dye can be removed at a [Barber](Barber.md), or Dye Remover can be bought for. The maximum Dye Packets that can be held per slot is 99.
+A Dye Packet is a [Relic](Relics.md) that can be obtained from [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) by handing in one [Kyrsan Medallion](Kyrsan_Medallions.md) per packet, getting it from the [Weird Trader](Weird_Trader.md) or rarely in [Merchant Ships](Travelling_Merchant.md) for around. It cannot be dropped but the dyed equipment can be dropped. Dye Remover no longer comes with the Dye Packet when you purchase one. Dye can be removed at a [Barber](Barber.md), or Dye Remover can be bought for. The maximum Dye Packets that can be held per slot is 99.
 
 File:Pinkheart.png
 

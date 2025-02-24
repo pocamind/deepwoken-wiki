@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 136484
+revid: 137433
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -117,7 +117,7 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
 
 An umbrella term that includes all weapon stats is Weapon, abbreviated as "WEP", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).
 
-### Heavy Weapons (HVY)
+### Heavy Weapon (HVY)
 
 -   Increases your character's proficiency with [heavy weapons](Weapons.md)—this increases the extra damage dealt by your weapon's scaling.
     -   Equipping better weapons of this class will require a higher point investment.
@@ -125,17 +125,17 @@ An umbrella term that includes all weapon stats is Weapon, abbreviated as "WEP",
         -   Some weapon Talents are locked to certain weapon types. For example, Greataxe Talents differ from Greatsword Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.
 -   Gain heavy weapons EXP by dealing damage with a heavy weapon or parrying attacks.
 
-### Medium Weapons (MED)
+### Medium Weapon (MED)
 
--   Increases your character's proficiency with medium weapons—this increases the extra damage dealt by your weapon's scaling.
+-   Increases your character's proficiency with [medium weapons](Weapons.md)—this increases the extra damage dealt by your weapon's scaling.
     -   Equipping better weapons of this class will require a higher point investment.
     -   Unlocks medium weapon related [Talents](Talents.md) and [Mantras](Attunement-less.md#medium-weapon-mantras).
         -   Some weapon Talents are locked to certain weapon types. For example, Spear Talents differ from Rifle Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.
 -   Gain medium weapons EXP by dealing damage with a medium weapon or parrying attacks.
 
-### Light Weapons (LHT)
+### Light Weapon (LHT)
 
--   Increases your character's proficiency with light weapons—this increases the extra damage dealt by your weapon's scaling.
+-   Increases your character's proficiency with [light weapons](Weapons.md)—this increases the extra damage dealt by your weapon's scaling.
     -   Equipping better weapons of this class will require a higher point investment.
     -   Unlocks light weapon related [Talents](Talents.md) and [Mantras](Attunement-less.md#light-weapon-mantras).
         -   Some weapon Talents are locked to certain weapon types. For example, Dagger Talents differ from Fist Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.

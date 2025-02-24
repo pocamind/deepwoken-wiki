@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 137314
+revid: 137440
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Character]
@@ -102,8 +102,8 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example, "Tuuli" means "Wind" in Finnish, which would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some of them aren't related to the aspect at all.
 
 -   Tiran eyes may be inspired from Makima's eyes of the anime "Chainsaw Man", having a very similar eye pattern.
--   The Jay variant shares many similarities (hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or [Felinor](Felinor.md) and having slightly darker eyes.
-    -   This may be unintentional.
+-   The Jay variant shares many similarities (hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a eat or ~[Felinor](Felinor.md)~ and having slightly darker eyes.
+
 -   The color of the glider will depend on the aspect variant you choose, crow being black/purple, cardinal being red and so on, matching their hair color with their glider.
     -   This presents the disturbing possibility of Tiran's gliders being made from their own hair.
 

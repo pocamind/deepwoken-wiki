@@ -1,6 +1,6 @@
 ---
 title: Agility
-revid: 122190
+revid: 137434
 source: https://deepwoken.fandom.com/wiki/Agility
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Attributes#Agility (AGL)](Attributes.md#agility-agl)
+-   [Attributes#AGL](Attributes.md#agl)

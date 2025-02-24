@@ -1,6 +1,6 @@
 ---
 title: Intelligence
-revid: 121273
+revid: 137435
 source: https://deepwoken.fandom.com/wiki/Intelligence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Attributes#Intelligence (INT)](Attributes.md#intelligence-int)
+-   [Attributes#INT](Attributes.md#int)

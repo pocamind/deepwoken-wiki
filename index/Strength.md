@@ -1,6 +1,6 @@
 ---
 title: Strength
-revid: 121277
+revid: 137438
 source: https://deepwoken.fandom.com/wiki/Strength
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Attributes#Strength (STR)](Attributes.md#strength-str)
+-   [Attributes#STR](Attributes.md#str)

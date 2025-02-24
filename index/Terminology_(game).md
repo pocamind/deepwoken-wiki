@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 137409
+revid: 137432
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -231,7 +231,7 @@ _noun_
 
 _verb_
 
-1.  To finish off a player, [enemy](Enemies.md) or [monster](Monsters.md). See Execute above.
+1.  To finish off a player, [enemy](Enemies.md) or [monster](Monsters.md). See [Execute](#execute) above.
 
 ### I-frames
 
@@ -392,7 +392,7 @@ In lore, resonances are not strictly bells, though these are the only ones we se
 
 _verb_
 
-1.  To check if one has enough [Resonance Progress](Resonance.md#bell-progress) to unlock a [Resonance](Resonance.md) through dying, mots often done either alone by fall damage or in Layer 2 with a Light Hook, or with friends.
+1.  To check if one has enough [Resonance Progress](Resonance.md#bell-progress) to unlock a [Resonance](Resonance.md) through dying, most often done either alone with fall damage, in Layer 2 with a Light Hook, or with friends.
 
 ### Corrupted/Cursed
 
@@ -583,7 +583,7 @@ _verb_
 
 1.  To get the most optimal possible combination of Talents and Mantras in your build.
     1.  Ex. "I've wiped like 10 times while trying to minmax this build."
-    2.  May include other stats, like Equipment rolls (see Godroll above).
+    2.  May include other stats, like Equipment rolls (see [Godroll](#godroll) above).
 
 #### Minmaxed
 
@@ -591,7 +591,7 @@ _adjective_
 
 1.  (Of a build) As optimal as possible; past participle of minmax.
     1.  Ex. "After wiping this build 43 times, it's finally minmaxed... I never want to prog again."
-2.  Godroll equipment (see above).
+2.  [Godroll](#godroll) equipment (see above).
     1.  Ex. "What's the minmaxed HP on any helmet?"
     2.  Typically less common than Godroll.
 
