@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 137414
+revid: 137584
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]

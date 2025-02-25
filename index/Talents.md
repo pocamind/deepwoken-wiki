@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137563
+revid: 137572
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -384,16 +384,23 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Prerequisites: 60 Thundercall, Power 10
 
 -   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage and posture damage to you.
+    -   Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
+    -   This also only applies to weapon attacks.
     -   Prerequisites: 65 Thundercall, First Interrogation
 
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Electrified targets have their physical attack deal lightning damage instead and deal 10% less damage.
+    -   Electrified only reduces damage from weapon attacks.
     -   Resolve Crusher's "Electrified" effect is only applied after the 5th stack (not the 4th stated by the Talent)
-    -   Each stack lasts for 5 seconds. If another stack is not applied within that timeframe, the stack is reset, and you need 5 more stacks to activate this Talent.
+    -   **Only** Thundercall Mantras build up stacks for this. Thunder damage from any other source will not build up stacks.
+    -   Each stack lasts for 5 seconds. If another stack is not applied within that timeframe, the stack is reset, and you'll need 5 more stacks to activate this Talent.
     -   Electrified, when procced, lasts for 4 seconds.
     -   Prerequisite: 65 Thundercall
 
 -   First Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
+    -   Only procs on weapon attacks from Electrified opponents.
+    -   Ether given is equal to half of the attack's unmodified damage.
+    -   Still gives ether even if you block, parry, or dodge their attack.
     -   Prerequisites: 65 Thundercall, Resolve Crusher
 
 ### Bastion

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 137413
+revid: 137582
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]

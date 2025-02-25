@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 137427
+revid: 137574
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,7 +20,7 @@ categories: [Mechanics]
 
 ### Mute
 
-Mute (also known as “Animal King”) has the ability to make monsters unable to see you, meaning they won't attack unless you attack them first. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if you don't attack them for over 15 seconds. Most humanoid enemies will not still aggro to the player on sight.
+Mute (also known as “Animal King”) has the ability to make monsters unable to see you, meaning they won't attack unless you attack them first. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if you don't attack them for over 15 seconds. Most humanoid enemies will not still aggro to the player on sight. (If you wipe at or below [Power](Power.md) 10 you will keep this Regalia)
 
 #### Exceptions
 
@@ -35,6 +35,7 @@ Mute (also known as “Animal King”) has the ability to make monsters unable t
     -   [Rogue Constructs](Hive_Construct.md#rogue-construct)
     -   [Enforcers](Enforcer.md)
     -   Ambush [Mechalodaunts](Mechalodaunt.md)
+    -   [Bone Keepers](Bone_Keeper.md)
 
 -   Mute does work against some humanoids.
     -   [Ministry Necromancers](Ministry_Necromancer.md)

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 137527
+revid: 137585
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -787,7 +787,7 @@ _Conjure concentrated orbs of Ether to launch at your enemy._
 
  | 
 
-\[missing, add\]
+Blunt
 
  | 
 
@@ -939,7 +939,7 @@ _A melee strike that removes your posture's damage on hit._
 
  | 
 
-\[missing, add\]
+Slash
 
  | 
 
