@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 124000
+revid: 137517
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -120,3 +120,4 @@ A Cloaked Assassin executes it's opponent after knocking them:
 ## Trivia
 
 -   Cloaked Assassins wear an [Assassin's Cloak](<Assassin's_Cloak.md>). However, their cloak is missing its sleeves.
+-   When spawning as a Faction Ambush, they can lose sight of their target and stop chasing them, saying ''Rats, we lost them.''

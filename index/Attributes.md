@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 137433
+revid: 137524
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -211,7 +211,7 @@ _**NOTE:** The message that appears when training an attunement, "The elements a
 ## Tips
 
 -   A useful site to help plan out your build is [https://deepwoken.co/builder](https://deepwoken.co/builder). Also refer to [Talents](Talents.md), [Mantras](Mantras.md), [Resonance](Resonance.md), [Murmur](Murmur.md), and [Oaths](Oaths.md) to see what you wish to include in your build.
--   A great tool training charisma is [https://charisma-trainer.vercel.app](https://charisma-trainer.vercel.app/).
+-   A few great tools for training charisma are [https://charisma-trainer.vercel.app](https://charisma-trainer.vercel.app/) and [https://ergonomic-charisma-trainer.vercel.app](https://ergonomic-charisma-trainer.vercel.app/).
 -   Experimentation is the best way to learn what kind of builds you enjoy! There are many creative builds that one can make! See what works and learn from your voyages.
 -   You may sometimes spend all your investment points yet still not power up. This means you got enough regular EXP to increase a stat, but not enough to level up.
 -   If you lack regular EXP, using training gear will give the message "I've learnt what I can from training right now, I should put it into practice..."

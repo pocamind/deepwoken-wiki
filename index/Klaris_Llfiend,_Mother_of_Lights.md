@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 135222
+revid: 137526
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First Layer, Oath Trainer]
@@ -462,6 +462,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 -   The name Klaris is likely derived from the French name Claire, which fittingly means"clear."
 -   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.[\[5\]](#cite-note-5)
     -   Klaris uses Regular Torso, unlike [Eylis](Eylis,_the_Punished_Dreamer.md) who uses Lean.
+    -   Whomever wrote this is clearly a dimwit, martial arts refers to all forms of fighting and Dawnwalker magic is very much used to fight. It is actually also specifically used in tandem with the internal structure of the human form rather than just spreading out externally without much connection. Klaris has every reason to be muscular.
 -   Some extra dialogue was removed/revamped when [Enchant Grease](Enchant_Grease.md) was added to the game.
     -   The old version of the dialogue can be viewed [here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=112179#Shop_UI:~:text=Equipment%20Enchantment%20%5B5%20Medallions%5D).
 

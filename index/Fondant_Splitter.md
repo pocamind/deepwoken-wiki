@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 133959
+revid: 137525
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable]
@@ -55,6 +55,7 @@ The critical has a cooldown of twenty seconds.
 -   The Fondant Splitter is functionally soulbound, similar to the [Diver's Light Plate](<Diver's_Light_Plate.md>).
 -   The weapon is a reference to a popular trend among the community, where people used to bake real Dormant Splinter cakes in order to get a hint from Nuttoons.[\[2\]](#cite-note-2)
 -   The weapon originally required 5 MED and LVL 3 on release, but was changed to its current state on December 24th, 2024.
+-   This weapon can no longer be enchanted.
 -   The weapon's crit was exclusive to the Calabash weapon spec before release.
 
 ## References

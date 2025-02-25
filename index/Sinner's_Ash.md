@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 135069
+revid: 137523
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
