@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 137443
+revid: 137560
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -507,7 +507,7 @@ Lightning
 
 **Effect:** _Conjure and throw a spear of lightning towards where the character is facing._
 
--   Deals 55.51 (58.84 with 6 songchant) DMG, 11 Posture, 15s CD at 5 lvl.
+-   Deals 55.51 (58.84 with 6 songchant) DMG, 11 Posture, 15s CD.
 -   With Multiplying spark: 52.86 DMG (17.62\*3 (with 6 songchant is 20.59\*3) 16.4 posture total, 15s CD
 -   Ragdolls and flings target(s).
 -   Does not break block but deals a lot of posture damage if blocked.
@@ -861,7 +861,7 @@ _Swap places with a selected target._
  |
 | 
 
-10 Ether
+20 Ether
 
  | 
 
@@ -878,9 +878,10 @@ N/A
 
 -   Range scales with current health.
 -   This can be used on NPCs, players or monsters.
+-   Has ~1s wind up, blockable (needs testing)
 -   Estimated 300 - 350 Stud range.
 -   Cannot be used while in water or airborne.
--   \[\] Second Cooldown.
+-   30 Second Cooldown.
 -   Can be used for escaping situations or for trolling, as shown in this video: "[https://www.youtube.com/watch?v=8L1xWJYGbDk](https://www.youtube.com/watch?v=8L1xWJYGbDk)"
 -   Can be modified with **Cloudstones/Stratus Stones** to (Work in Progress).
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to shorten the cooldown but greatly reduce the range. This allows you to use the mantra in Chime.
