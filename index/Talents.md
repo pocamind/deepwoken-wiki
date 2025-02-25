@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137426
+revid: 137553
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -12,7 +12,7 @@ File:DeepwokenThumbnail.png
 
 File:DeepwokenThumbnail.png
 
-## Foreword
+## cForeword
 
 **Here's an explanation on how to use \[_CTRL + F\] or \[F3\]_ for this page. (You can also do this on mobile! Press the 3 dots on the mobile Google browser and tap on "Find in page"!)**
 
@@ -1117,7 +1117,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Flamecharm
 
 -   Unyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms.
-    -   Negates the dmg decrease Flamecharm receives from rain.
+    -   Negates the damage decrease Flamecharm and Puppets receive from rain.
     -   Prevents fire from going out in rain.
     -   Prerequisite: 35 Flamecharm
 
@@ -2178,7 +2178,7 @@ _**"My cure is most effective."**_
 
 ### Rending Needle
 
-> _**"I seek the qualities of Rending Needle."**_
+> _**"I wanna show people my Rending Needle 👅. "**_
 
 -   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
     -   Steals 10% armor on proc
@@ -2873,7 +2873,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I often like to play pranks on others."**_
 
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
-    -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot gives 3% PEN. This can bypass the 50% PEN cap.
+    -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN. This can bypass the 50% PEN cap.
     -   Prerequisite: 65 Agility
 
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
@@ -2881,6 +2881,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 75 Agility
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
+    -   Procs even if Revenge is blocked or parried.
     -   Prerequisites: Revenge (Agility Mantra), 90 Agility
 
 -   Crippling Comeuppance \[Common Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
@@ -2902,26 +2903,41 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I seek the qualities of twisted puppets."**_
 
+-   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
+    -   Turns [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Rosen's Roscoe](<Rosen's_Roscoe.md>), [Blazing](Enchantments.md), and [Railblade's](Railblade.md) criticals and all Flamecharm mantras black. Additionally, the orange on the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)'s and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s models change to black. And the orange on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s model changes to purple.
+    -   Twisted Puppets has two different burn types. They both look identical and they **both** scale on your Flamecharm investment and _drain_ ether from affected players.
+        -   Shadow damage from any source applies **Shadow Burn**. Shadow Burn does less damage than base Flamecharm burn, but more than Puppet Burn.
+        -   Anything that would normally apply burn applies **Puppet Burn**. Puppet Burn does less damage than Shadow Burn and significantly less damage than base Flamecharm burn. Puppet Burn allows you to spawn Puppets.
+    -   Puppets deal 20 damage with **no** innate investment scaling. Puppet damage can be increased with damage modifiers. Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
+    -   Puppets deal 11 posture damage.
+    -   Puppets have a 4 second cooldown between spawns.
+    -   Prerequisites: 40 Flamecharm & 40 Shadowcast
+    -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames
+
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based Talents when they explode.
+    -   Grants Puppets Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm.
+        -   Your Puppets will deal 30 damage at 100 Flamecharm with this talent.
+    -   Your Puppets apply Puppet burn, allowing you to spawn more Puppets.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
 -   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.
+    -   Gives you a Talent tool that must be actively used to proc this Talent.
     -   Grants +4% M1 damage and a speed boost per Puppet for 6s. Caps off at +12% Damage.
+    -   Puppets turn purple after being alive for 15 seconds.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame
 
 -   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.
+    -   The buff is signified by an orange swirling aura around your Puppets.
+    -   Buffs all currently alive Puppets and all Puppets that spawn within the next 10 seconds.
+    -   The damage buff is bugged and does not work.
+    -   The following abilities and Talents proc Explosive Rage: Explosive Finish, Emperor Flame, The Final Act, and the [Detonation](Enchantments.md#blessings) enchant.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
 -   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames.
+    -   Your Puppets home onto the closest entity (excluding yourself) who is burning from either of the Twisted Puppets burn types.
+        -   This can include allies.
+    -   Puppets move significantly faster when they get close to a burning target.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
-
--   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
-    -   Turns [Hero Blade of Flame](Hero_Blades.md), [Ysley's Pyre Keeper "Callow & Verdant"](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Blazing](Enchantments.md), and [Railblade's](Railblade.md) criticals and all flame mantras black.
-    -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead; burn from shadow mantras deal slightly less damage than base burn and doesn't spawn puppets.
-    -   Puppets have a 4 second cooldown between spawns.
-    -   Flame Within deals less self damage, but drains ether.
-    -   Prerequisites: 40 Flamecharm & 40 Shadowcast
-    -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames
 
 ### Tyrant
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 137480
+revid: 137547
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -90,7 +90,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
-  <td><div><p>Weapon deals 1.07x damage and inflicts <a href="Deferred.md">Deferred</a>, which deals damage overtime.<br>
+  <td><div><p>Weapon deals 1.07x damage and inflicts Deferred, which deals damage overtime.<br>
   Damage is dealt over 2.5 seconds in 10% increments. The damage overtime cannot be avoided once applied.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
@@ -122,14 +122,14 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
   After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
-  The target is afflicted with <a href="Grim.md">Grim</a> for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.<br>
+  The target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.<br>
   Instead of making those affected take more damage, it buffs the damage of the person attacking them, meaning grim <b>is</b> affected by the damage modifier cap.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and light red aura.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Harrowing<div></div></font></center></td>
-  <td><div><p>Inflicts <a href="Harrowing.md">Harrowing</a>, which coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
+  <td><div><p>Inflicts Harrowing, which coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
   This effect lasts for 4 seconds.<br>
   Can only be obtained from the Hallowtide event.</p></div></td>
   <td><div>Weapon turns translucent and emits purple smoke with orange-ish particles.</div></td>
@@ -157,7 +157,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
   <td><div><p>The weapon's critical becomes a katana's but deals no damage.<br>
-  On hit, a <a href="Status_Effects.md#nemesis-mark">red eye marker</a> is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker +20%. Nemesis critical does not benefit from damage multipliers. Deals 18 posture damage regardless of your weapon's Weight stat.<br>
+  On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker +20%. Nemesis critical does not benefit from damage multipliers. Deals 18 posture damage regardless of your weapon's Weight stat.<br>
   If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
   </p>
   <p>The critical can still trigger critical Talents like Bear Trap but not Manipulator.<br>

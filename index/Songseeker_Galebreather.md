@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 136986
+revid: 137548
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -64,6 +64,7 @@ A Songseeker Galebreather executes it's opponents after knocking them:
 ## Trivia
 
 -   They're relatively easy to fight, even at low Power.
+-   Their AI can bug out when fighting them with Fang and Coil causing them to spam vent (should be tested more)
 -   They look exactly like [Thunder Songseekers](Songseeker_Thundercaller.md).
 -   They were originally not in the game. When added, it was stated in the update log that they had 'been on vacation.'
 -   They are the only songseekers to have only 3 mantras.

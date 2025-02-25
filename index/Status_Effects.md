@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 137509
+revid: 137535
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -188,7 +188,7 @@ Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a t
 
 ### Poisoned
 
-This can be applied by being hit by the Deep Widow's venomous bite. While poisoned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage. There is no visual indicator for it.
+This can be applied by being hit by the [Deep Widow](Deep_Widow.md)'s venomous bite. While poisoned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage. There is no visual indicator for it.
 
 ### Dazed
 

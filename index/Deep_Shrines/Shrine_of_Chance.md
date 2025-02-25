@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 133606
+revid: 137537
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -32,11 +32,12 @@ Trade a Talent of your choice and 5 Knowledge to perform a Talent Draw with 3 ca
 
 ### Details
 
--   The shrine of chance used to be located at Fort Merit
+-   The shrine of chance used to be located at Fort Merit.
 -   One of the most valuable Deep Shrines, this lets you obtain Talents you might have missed.
 -   The Talent Draw is affected by a Mystic, make sure to use them to not waste Knowledge.
 -   To get a Rare Talent, you must trade in a Rare Talent.
--   To get an Advanced Talent, you can trade a Common Talent. Don't forget its prerequisite(s).
+    -   In some circumstances with mutually exclusive talents, you must have at least a full set of two or three Rare Talents to switch out with, otherwise you will not be able to obtain the talent you wish (ex: Observation & Risky Moves). Unburn or convert Rare Talents if necessary to achieve this.
+-   To get an Advanced Talent, you can trade a Common Talent. Don't forget its prerequisite(s), and remember that a Mystic **can** be used to get the Advanced Talent you require.
 -   You cannot trade away a Talent if it is a prerequisite of another Talent. You must get rid of each Talent in the reverse requirement order to trade them away.
 
 ## Navigation
