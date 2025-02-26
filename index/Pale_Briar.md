@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 137266
+revid: 137627
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -44,7 +44,7 @@ The user chants their weapon, summoning an area of damage that grows in size and
 
 The critical has a cooldown of **10 seconds**.
 
-The critical actually scales with Songchant.
+The critical scales with weapon investment and proficiency **(TESTED, DO NOT EDIT)**
 
 ## Trivia
 

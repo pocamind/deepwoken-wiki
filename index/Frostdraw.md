@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 137577
+revid: 137630
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1084,7 +1084,7 @@ N/A
 -   Leveling up the Mantra increases the size of the ice floors, and damage of the beam.
 -   Procs Cold Front and Chilling Flourish without needing the Talents.
     -   The Chill of the beam lasts longer than Cold Front.
--   This Mantra is seemingly bugged, having infinite uses, even without any modifiers.
+-   This Mantra is seemingly bugged, having infinite uses, even without any modifiers. -- seems to only consume uses when venting and hitting someone with the beam aspect of the wisp (Tested by BlossomTheDoe/GrimmKun)
 
  |
 | 
