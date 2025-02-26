@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 136295
+revid: 137610
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords, The Ignition Union]
@@ -27,9 +27,11 @@ categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatsw
 | obtainment | Layer 2 (F1/F2)Voidwalker Bounty Chests |
 | description | "A now legendary blade devised by the Ignition Union to exterminate the terrifying foes lurking deeper within the Depths. Said to constantly generate a warding heat that protects the wearer against the insidious chill of the Eternal Gale." |
 
+The Railblade is a weapon in _Deepwoken_.
+
 ## Description
 
-The **Railblade** is a Legendary [Greatsword](Weapons.md) obtained exclusively from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest at an uncommon-rare rate. The Railblade requires 80 HVY and Power 10 to equip. This weapon deals 35.7 damage at 100 Heavy, and with 6 proficiency and three-star damage, it deals 43.5.
+The **Railblade** is a [Greatsword](Weapons.md) obtained exclusively from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest at an uncommon-rare rate. The Railblade requires 80 HVY and Power 10 to equip. This weapon deals 35.7 damage at 100 Heavy, and with 6 proficiency and three-star damage, it deals 43.5.
 
 ## Critical
 

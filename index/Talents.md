@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137572
+revid: 137605
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -288,6 +288,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
     -   The old Last Laugh Talent has been merged into Flame Within.
     -   Will deal 3% damage upon use, lowered to 1.5% with Deepscorn Casque.
+    -   Grotesque Resilience reduces the damage taken from DOT by 25%.
     -   Prerequisite: 25 Flamecharm
 
 ### Angler
@@ -320,14 +321,13 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 -   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
-    -   If you end up having "Vegetarian" flaw with this Talent, killing an enemy will make you vomit, effectively losing all of the food and thirst you would gain in the process
+    -   Obtaining the "Vegetarian" flaw from shrines such as Shrine of Blasphemy or Order will remove the talent, giving you a free talent hand at the next power.
     -   Prerequisites: 5 Strength, 5 Willpower
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md) (Flaw), Herbivore
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
     -   40% tempo gain, 55% ether gain, 3% blood gain, 5% health gain.
-    -   **NOTE: The health gain WAS bugged and you didn't gain any extra health upon kills. It is now fixed and works as it should.**
     -   Prerequisite: Carnivore
 
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
@@ -2692,7 +2692,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 > _**"I enjoy a good meal."**_
 
--   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%.
+-   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +25%.
     -   Increases food nutritional value by 25%.
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
 
