@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 137584
+revid: 137635
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -209,7 +209,7 @@ _..._
 
  | 
 
-Blunt + Fire
+Fire
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 137589
+revid: 137648
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -224,9 +224,9 @@ Shadow
 
 **Effect:** _The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their Ether based on the number of chains applied for a duration of 3 seconds._
 
--   Deals 69 (17.25\*4) DMG, 0 Posture, 15s CD at 5 lvl.
+-   Deals 69 (17.25\*4) DMG, 0 Posture, 15s CD at level 5.
 -   Has 9.178x PVE scale (17.25 PVP DMG, 158.32 PVE)
--   Casts an extra chain at level 5 (Confirmed, level 5 does cast an additional chain.)
+-   Casts an extra chain at level 5.
 -   Duration of the chain effect can be increased with Logstones
 -   Chain projectile speed and range can be increased with Drift shards and Crystal lenses
 

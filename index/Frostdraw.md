@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 137630
+revid: 137643
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1084,7 +1084,7 @@ N/A
 -   Leveling up the Mantra increases the size of the ice floors, and damage of the beam.
 -   Procs Cold Front and Chilling Flourish without needing the Talents.
     -   The Chill of the beam lasts longer than Cold Front.
--   This Mantra is seemingly bugged, having infinite uses, even without any modifiers. -- seems to only consume uses when venting and hitting someone with the beam aspect of the wisp (Tested by BlossomTheDoe/GrimmKun)
+-   This Mantra can infinitely place ice on the ground without any modifiers. Only consumes uses when proccing Cold Front or Chilling Flourish via the wisp.
 
  |
 | 
@@ -1127,7 +1127,7 @@ Ice
 -   Does not proc Deep Gems on hit.
 -   Can be modified with Cloud/Stratus Stones, Aeon/Eternal Logstones, Drift/Rush Shards, and Crystal/Perfect Lenses.
     -   Drift and Rush Shards increases the amount of health healed while the Mantra is active.
-    -   Stones, Logstones, and Lenses all do absolutely nothing; no range, healing, or duration difference. (tested)
+    -   Stones, Logstones, and Lenses all do absolutely nothing; no range, healing, or duration difference.
 
  |
 

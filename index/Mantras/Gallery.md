@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 137590
+revid: 137633
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement]
@@ -9321,7 +9321,7 @@ _\[missing, add\]_
 -   Deals little damage.
 -   Unparryable.
 -   Procs M1 Talents
--   Procs **Temperature Shock**
+-   Procs Flamecharm Talents, **Temperature Shock**, and **Eruption Path: Lava Serpent**
 -   Buggy when used in water.
 -   Modifiers don't work on it.
 

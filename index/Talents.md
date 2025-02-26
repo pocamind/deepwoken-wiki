@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137620
+revid: 137646
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1730,6 +1730,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Safety Dance_ \[Rare Talent\] - Your base dodge frames are increased by 0.05s. (+1 Passive Agility)
     -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
+    -   Dodge IFrames increased from 0.3s to 0.35s.
     -   Prerequisite: 20 Agility
     -   Mutual Exclusive: Risky Moves
 
@@ -2919,7 +2920,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Twisted Puppets has two different burn types. They both look identical and they **both** scale on your Flamecharm investment and _drain_ ether from affected players.
         -   Shadow damage from any source applies **Shadow Burn**. Shadow Burn does less damage than base Flamecharm burn, but more than Puppet Burn.
         -   Anything that would normally apply burn applies **Puppet Burn**. Puppet Burn does less damage than Shadow Burn and significantly less damage than base Flamecharm burn. Puppet Burn allows you to spawn Puppets.
-    -   Puppets deal 20 damage with **no** innate investment scaling. Puppet damage can be increased with damage modifiers. Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
+    -   Puppets deal 20 **typeless** damage with **no** innate investment scaling. Because Puppets deal typeless damage, they **bypass** armor resistances and Everchanging Aegis. They do **NOT** do True Damage however, as general resistances still work on them.
+    -   Puppet damage can be increased with damage modifiers. Additionally, Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
     -   Puppets deal 11 posture damage.
     -   Puppets have a 4 second cooldown between spawns.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast

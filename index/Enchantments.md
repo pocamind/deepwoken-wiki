@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 137547
+revid: 137636
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -253,7 +253,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
-  <td><div><p>Adds <a href="Status_Effects.md#temporary-health">Temporary Health</a> for 20% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
+  <td><div><p>Adds <a href="Status_Effects.md#temporary-health">Temporary Health</a> for 20% of damage dealt (capped to 100 temp hp at a time), and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
   The healing is not affected by PVE Scaling.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>
@@ -324,9 +324,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Similar to <font>Detonation</font> and <font>Blazing</font>,<br>
   After hitting a target (LHT: 6, MED: 4, HVY: 3)times they explode,<br>
   Apply <font>Flames of Life</font> and Temporary Health to them and others around beside the user.<br>
-  The damage of explosion and amount of Temporary Health are randomized,<br>
-  But the minimum Damage is always more than <font>Detonation</font>'s explosion damage.<br>
-  Similar to <a href="Ysley's_Pyre_Keeper.md">Ysley's Pyre Keeper</a>'s <font>Flames of Life</font>.<br>
+  The damage of explosion and amount of Temporary Health are randomized with the lowest explosion damage around 5 and highest around 50. Temporary Health gained are randomized from around 20 to 30. Similar to <a href="Ysley's_Pyre_Keeper.md">Ysley's Pyre Keeper</a>'s <font>Flames of Life</font>.<br>
   <b>Explosions cannot execute.</b><br>
   <br>
   Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, and <a href="Calamus.md">Calamus</a> job chests. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a>. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></p></div></td>
