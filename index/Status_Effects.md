@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 137535
+revid: 137621
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,11 +26,11 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 
 ### Reinforced
 
-Applied after being hit by the Mantra [Reinforce](Attunement-less.md#reinforce), do 5% more damage and get 10% defense. Allies near you will automatically gain the same effect. And if you reinforce others, this effect can go onto them too. Signified by pale yellow/lime green particles surrounding the body.
+Applied after being hit by the Mantra [Reinforce](Attunement-less.md#reinforce), do 5% more damage and get 10% defense. Allies near you will automatically gain the same effect. And if you reinforce others, DMG buff increased up to 10%, effect can go onto them too. Signified by pale yellow/lime green particles surrounding the body.
 
 ### Lord's Tithe
 
-When Reinforce is applied to an ally or enemy with the Talent Lord’s Tithe, steal their ether until your ether bar is full. Signified by red and yellow particles surrounding the body.
+When Reinforce is applied to an ally or enemy with the Talent Lord’s Tithe, steal their ether until your ether bar is full or until someone hit Lord's Tithe user in block or damage him with anything. Signified by red and yellow particles surrounding the body.
 
 ### Hyperarmor
 
@@ -38,11 +38,11 @@ Make your attacks uninterruptible and become immune to most forms of stun; Vents
 
 ### True Hyperarmor
 
-Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword's](Darksteel_Greatsword.md) Critical attack, [Stoneheart's](Stoneheart.md) Critical's charge animation, and [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attack. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
+Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword's](Darksteel_Greatsword.md) Critical attack, [Stoneheart's](Stoneheart.md) Critical's charge animation, [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attack and [Iron Hug](Ironsing.md). This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
 
 ### Overheal
 
-Gain Temporary Health which decays overtime. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), aswell as the [Vampirism](Vampirism.md) enchant. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. Signified by a white bar on your health bar.
+Gain Temporary Health which decays overtime. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), aswell as the [Vampirism](Vampirism.md) enchant. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. Temporary health capped at 100 hp. Signified by a white bar on your health bar.
 
 ### Fight
 
@@ -58,7 +58,7 @@ Gain a speed boost, and an unstoppable urge to run. You're unable to stop runnin
 
 ### Positive Link
 
-Gain 20% damage resistance and 5% dmg boost. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
+Gain 20% damage resistance, 5% dmg boost and constant speed boost that enough to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
 
 ### Rallied
 
@@ -136,7 +136,7 @@ This effect can be applied by being hit with Galebreathe Mantras or Galeforced m
 
 ### Suffocate
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md#wind-gun), [Galetrap](Galebreathe.md#galetrap) or by any other Galebreathe Mantra if the user has A World Without Song. Unable to cast Mantras for a duration while also taking very minor damage. If the user has the Talent Stifled Jump, you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
+Can be applied by being hit by [Wind Gun](Galebreathe.md#wind-gun), [Galetrap](Galebreathe.md#galetrap) or by any other Galebreathe Mantra if the user has A World Without Song. Unable to cast Mantras for a duration while also taking 1 damage per tick. If the user has the Talent Stifled Jump, you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
 
 ### Chill
 
@@ -152,7 +152,7 @@ Have your body completely engulfed in ice and lose the ability to do anything to
 
 ### Shock
 
-Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry) and bypasses hyperarmor. Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
+Hitstun of the attack that apply shock is increased (0.9s>1s), meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry) and bypasses hyperarmor. Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
 
 ### Electrified
 
@@ -171,7 +171,7 @@ Inflicted by Thundercall Surge Path Mantras. This makes you charged with electri
 Inflicted by being hit by [Ironsing](Ironsing.md) Mantras. Effect varies depending on which path the Ironsinger uses:
 
 -   Normally: Allows you to be pulled in towards them when they press X.
--   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing Mantra.
+-   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing, Attunementless, Bloodrend, Oath Mantra.
 -   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
 -   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on Talents they might have) Signified by big metal rods in your body. (These will be yellow/gold if the user has Scrapsinger)
 
@@ -216,7 +216,7 @@ Deal 10% less damage to the player who charmed you. If the charmer has the Talen
 
 ### Hidden Tendril
 
-Become able to be targeted by Lord Slice mantra from Contractor, as well as being able to be pulled together with another target inflicted with this. Visible only to the one who applied it, signified by a black string between the caster and target.
+Become able to be targeted by Lord Slice mantra from Contractor, as well as being able to be pulled together with another target inflicted with this. Visible only to the one who applied it, can be removed by using a vent. signified by a black string between the caster and target.
 
 ### Drained
 

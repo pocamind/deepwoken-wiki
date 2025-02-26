@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137605
+revid: 137620
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1816,6 +1816,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**" I am often in my own world."**_
 
+-   _Impervious Slumber_ \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked.
+    -   Prerequisite: 35 Fortitude
+
 -   _Warrior's Respite_ \[Rare Talent\] - Stop moving for 15 seconds in order to initiate healing.
     -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect.
     -   Does not activate when on moving ships.
@@ -3238,9 +3241,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower.
     -   Prerequisite: 15 Strength
-
--   _Impervious Slumber_ \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked.
-    -   Prerequisite: 35 Fortitude
 
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you.
     -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).

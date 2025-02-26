@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 137607
+revid: 137622
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]
@@ -79,7 +79,8 @@ Both criticals share the cooldown of **10 seconds**.
 
 -   It is similar to "Tekagi-Shuko", a weapon comprised of deadly "claws" that protrudes from the palm, utilized by ninjas.
 
--   With chainwarden, one of the claws disappear and are replaced by the chained gauntlet. It is unsure if this is intentional or not.
+-   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and are replaced by the chained gauntlet. It is unsure if this is intentional or not.
     
 -   It seems as if your slot has Mute regalia (animal king), he will not spawn on you. (needs more testing)
 -   While using the criticals it will play the sound of a bear roaring.
+-   The [Fang and Coil](Fang_and_Coil.md) running crit is not added with the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit
