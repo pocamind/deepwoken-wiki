@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137680
+revid: 137684
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -989,12 +989,13 @@ N/A
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
 -   Allows you to cook food.
--   Can be upgraded with Duration, Intensity and Mantra Size modifiers, as well as the Undying Flame talent.
-    -   Adding intensity causes the flame to passively heal nearby players. Stacks with its normal healing.
-    -   Azure Flames increases Undying Flame's passive healing by 20%.
-    -   Each modifier adds signs to the ritual cast.
-    -   The **Undying Flame** Talent allows it to be cast in Layer 1 of the Depths. Lasts for a shorter duration in Depths. However you cannot use this in the Depths Trials.
+-   Can be upgraded with the **Undying Flame** Talent, allowing it to be cast in Layer 1 of the Depths. Lasts for a shorter duration in Depths. However you cannot use this in the Depths Trials.
     -   Cannot be used in Layer 2 of the Depths at all.
+    -   **Azure Flames** increases **Undying Flame'**s passive healing by 20%.
+-   Can be modified with Aeon/Eternal Logstones to increase duration.
+-   Can be modified with Cloud/Stratus Stones to increase size.
+-   Can be modified with Vibrant Gems causing the flame to passively heal nearby players. Stacks with its normal healing.
+-   Each modifier adds signs to the ritual cast.
 
  |
 | 
@@ -1850,7 +1851,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 
 -   **Searing Snare** has the same sound effects as [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood Explosion move
 -   As of the 31/10/2024 update, Burn damage now scales on your Flamecharm investment. Additionally, Burn damage was changed to be resisted by Fire Armor in the same update.
--   All Flamecharm mantras deal reduced damage (??%) in the rain, unless the user has the Unyielding Inferno Talent.
+-   All Flamecharm mantras deal reduced damage (??%) in the rain, unless the user has the _Unyielding Inferno_ Talent.
 -   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of _Deepwoken_.
     -   The **Flame of Denial** Mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
     -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.fandom.com/wiki/Power_Within) from _Dark Souls_, boosting overall damage while draining health.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 137283
+revid: 137685
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -141,6 +141,8 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Interluminary Parasol](Interluminary_Parasol.md)
 
  |
 | **Extra/Important information:** |
