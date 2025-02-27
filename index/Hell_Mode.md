@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 137647
+revid: 137667
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]
@@ -30,13 +30,11 @@ Once the conditions are met, [The Depths](The_Depths.md) (current server) will t
 -   Every mob that can normally spawn corrupted _will_ be corrupted, with the exception of [King Threshers](King_Thresher.md), and [Broodlords](Mudskipper_Broodlord.md) which will **not** spawn corrupted.
 -   The [Enforcer](Enforcer.md) and the [Nautilodaunt](Nautilodaunt.md) are added to the regular spawn pool for the duration of the event.
 -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into the void. Existing Enforcers can use the attack again once Hell Mode ends.
-    -   King Thresher's burrowing attack is disabled.
     -   Mudskipper Broodlords have their anti-heal reduced to 50%
--   [Megalodaunts](Megalodaunt.md) will always spawn as their Alpha version.
 
 -   [King Gigamed](Gigamed.md) is removed from the spawn pool.
 
-These conditions affect everybody currently in the server, not just the people who interacted with the bell. Only those who rang the bell have the increased spawn rate, however.
+These conditions affect everybody currently in the server, not just the people who interacted with the bell. However, only those who rang the bell have the increased spawn rate.
 
 ## Completion and Reward
 

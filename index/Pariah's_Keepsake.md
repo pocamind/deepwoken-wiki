@@ -1,6 +1,6 @@
 ---
 title: "Pariah's Keepsake"
-revid: 135148
+revid: 137655
 source: https://deepwoken.fandom.com/wiki/Pariah's_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Rings, The Divers]
@@ -23,7 +23,7 @@ notices:
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Etrea VS Eylis Sea Event, Duke Ishamon Erisia, Primadon, Titan of the East, Deep Widow, First Layer, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict |
-| description | N/A |
+| description | You deal +20% extra damage to factions who hate you. |
 
 ## Description
 

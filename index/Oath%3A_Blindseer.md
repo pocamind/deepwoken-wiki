@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 137334
+revid: 137661
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -89,7 +89,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Sightless Beam can be canceled midway by pressing F.
     -   Steals eyesight proccing the blind effect if enough hits land.
     -   Has a **high** windup.
-        -   Not parryable, entirely blockable. Can be used to bait vents by staying at a distance.
+        -   Not parryable, deals a little bit of posture damage every hit. Can be used to bait vents by staying at a distance.
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advised to get a friend to distract them.
     -   You can run during the windup, but can only walk while the beam is active.

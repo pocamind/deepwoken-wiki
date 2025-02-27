@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 131065
+revid: 137664
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -31,7 +31,7 @@ In order to reroll your bell icon with the barber you must pay 1 knowledge
 "Hey friend, need a new style?"
 
 1.  Sure. (Allows Hair customization.)
-2.  Help me, barber A most wretched cut has befallen me. (Changes hair back to how it was previously. This option only appears if a Fadetrimmer has used their Precision Cuts on you changing your hair.)
+2.  Help me, barber. A most wretched cut has befallen me. (Changes hair back to how it was previously. This option only appears if a Fadetrimmer has used their Precision Cuts on you changing your hair.)
 3.  Restore me to my natural hair. (Changes hairstyle to the one your avatar is currently wearing.)
 4.  Change my eyelashes. (Changes your eyelashes as said.)
 5.  Change my gender representation. (Changes gender to male, female, or neutral.)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137646
+revid: 137663
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -631,6 +631,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold shaded outline on your character.
     -   Does not work on non-humanoid NPCs.
+    -   Only works on m1's.
     -   Works only if you successfully hit someone with flourish. Doesn't work on parry, block, dodge hits.
     -   Prerequisite: 25 Strength
 
@@ -767,7 +768,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I command the cold."**_
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them.
-    -   You can spam F to get out of Freeze.
+    -   You can spam F to get out of Freeze faster.
     -   Not mentioned in the description, but this also freezes enemies who are guardbroken while Chilled.
     -   Prerequisite: 60 Frostdraw.
 
@@ -943,7 +944,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 15 Strength, 25 Fortitude
     -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this Talent.
 
--   _Tap Dancer_ \[Rare Talent, Agility\] - Roll immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
+-   _Tap Dancer_ \[Rare Talent, Agility\] - Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
     -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
     -   Prerequisite: 60 Agility
 
@@ -1259,9 +1260,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   While not mentioned in the Talent description, inhaling a spell will cause the wind to be applied to your M1's \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   Inhaling a Galebreathe Mantra adds (Mantra Level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale mantra a 10% damage buff.
+    -   Inhaling a Galebreathe Mantra adds (Mantra Level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale mantra a 10% damage buff.)
     -   Prerequisites: 60 Galebreathe
-    -   Inhaling grants a speed boost for a short duration, this speed boost has a 2 second cooldown.
+    -   Inhaling grants a speed boost for 3 seconds.
 
 ### Genius Intellect
 
@@ -1305,7 +1306,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I always shoot first."**_
 
--   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 15% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
+-   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
     -   Doesn't bypass PEN cap/Doesn't work if you hit 50% pen cap.
     -   Prerequisites: 30 Medium/Light Weapon and have completed the \[\[Summer Isle#Trig \[QUEST\]|Trig quest\]\] (helping The Summer Company)
     -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent.
@@ -1437,7 +1438,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Frozen Pin-Cushion_ \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents.
     -   Prerequisites: Ice Daggers, 60 Frostdraw.
-    -   Instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage
+    -   With crystal path, instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased.
     -   Contrary to popular belief, you can steal healing with Saint Jay (only green healing, though). However, the second passive of Saint Jay is bugged.

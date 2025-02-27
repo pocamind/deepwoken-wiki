@@ -1,6 +1,6 @@
 ---
 title: Ring of Wisps
-revid: 135153
+revid: 137656
 source: https://deepwoken.fandom.com/wiki/Ring_of_Wisps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Rings, The Divers]
@@ -23,7 +23,7 @@ notices:
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Etrea VS Eylis Sea Event, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
-| description | N/A |
+| description | These essence of the soul gathers around the gemstone of this ring, granting additional strength to bound wisps. |
 
 ## Description
 

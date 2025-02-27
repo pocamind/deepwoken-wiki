@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 127164
+revid: 137659
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -1545,7 +1545,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > We're workers of Summer Company,  
 > We work for the Summer Company...
 > 
-> > "Our Fortress", also known as "Our Fortress Of Smoke And Steel" or simply "The Summer Company Song" is a song and composition written by Gunsmith Severin Smolkin in the year 1062 CE. Smolkin, a smith of small arms and expert flamecharmer, often experimented with utilising flamecharming in small-scale steel smithing, producing thin steel wires for the firing mechanisms of his wepaons. While testing the testion of such wires in a clamp set atop a half-open barrel, he noticed that they often made a pleasant resonant sound when pulled or plucked.
+> > "Our Fortress", also known as "Our Fortress Of Smoke And Steel" or simply "The Summer Company Song" is a song and composition written by Gunsmith Severin Smolkin in the year 1062 CE. Smolkin, a smith of small arms and expert flamecharmer, often experimented with utilising flamecharming in small-scale steel smithing, producing thin steel wires for the firing mechanisms of his weapons. While testing the testion of such wires in a clamp set atop a half-open barrel, he noticed that they often made a pleasant resonant sound when pulled or plucked.
 > > 
 > > Intrigued by this property, Smolkin experimented further. Realising that the barrel acted as a sort of amplifier for the sound's volume, he tested out various designs, before settling on a rather unusual one. The instrument's body consists of an oblong round wooden resonation chamber with a convex back, covered in a membrane of fine animal skin at the front, with a long neck attached to the top, and a small retractable peg at the bottom. The neck has six thin steel strings attached to it, spanning from its top where it is wrapped around pegs, to the bottom where it is fastened to a metal plate bed.
 > > 
