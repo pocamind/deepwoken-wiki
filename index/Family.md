@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 127550
+revid: 137688
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -21,7 +21,7 @@ Having certain traits can make you someone else's relative. The chance to be rel
 -   Juvenile - Same variant of the same aspect, must be 20 years younger than your relative
 -   Elder - Same variant of the same aspect, must be 20 years older than your relative
 -   Nephew/Niece/Nibling - Same variant of the same aspect, same last names, must be 20 years younger than your relative
--   Uncle/Aunt - Same variant of the same aspect, same last names. must be 20 years older than your relative
+-   Uncle/Aunt/Pibling - Same variant of the same aspect, same last names. must be 20 years older than your relative
 
 ## Notes
 
