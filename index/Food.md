@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 136141
+revid: 137673
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -50,12 +50,12 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 
 ### Boosts
 
--   _"You feel your wounds closing up..."_ This buff slightly increases the user's health regeneration speed.
--   _"You feel as though you could go longer without food..."_ This buff significantly decreases the user's starvation speed.
--   _"Your magic feels stronger..."_ This buff increases the user's mantra damage. (It possibly increases the effects of Enchants instead, needs confirmation)
--   _"Your weapons feel stronger..."_ This buff increases the user's melee damage. (~1.04% damage multiplier)
--   _"You feel ether surging into you..."_ This buff increases the user's ether regeneration speed.
--   _"You feel quicker on your feet..."_ This buff increases your walking/running speed.
+-   _"You feel your wounds closing up..."_ This buff slightly increases the user's health regeneration speed. (17.5% natural health regen buff)
+-   _"You feel as though you could go longer without food..."_ This buff significantly decreases the user's starvation speed. (10% reduced natural hunger loss)
+-   _"Your magic feels stronger..."_ This buff increases the user's mantra damage. (5% mantra and enchant damage buff)
+-   _"Your weapons feel stronger..."_ This buff increases the user's melee damage. (5% weapon damage buff)
+-   _"You feel ether surging into you..."_ This buff increases the user's ether regeneration speed. (Doesn't work as of 2/26/25)
+-   _"You feel quicker on your feet..."_ This buff increases your walking/running speed. (Doesn't work as of 2/26/25)
 
 Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of Talents.
 

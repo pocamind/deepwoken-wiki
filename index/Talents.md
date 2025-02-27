@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137663
+revid: 137677
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -448,6 +448,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
     -   While the Talent says criticals only gain 10% PEN, they will still gain the full armor bypass bonus just like m1s.
+    -   Some weapon criticals are classified as basic attacks (e.g. [Shattered Katana](Shattered_Katana.md) and [Wraithclaw](Wraithclaw.md)), which means they benefit from the full armor nullification.
     -   When activated:
         -   Your armor is immediately removed for 20 seconds. Includes Exoskeleton/Chitin.
         -   You regain your armor immediately after the buff ends.
@@ -3370,8 +3371,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 25% additional penetration.
-    -   Gives [Way of Navae](Way_of_Navae.md) weapon attacks have 25% more PEN. This applies to critical attacks despite what the talent description says.
+    -   Gives [Way of Navae](Way_of_Navae.md) basic attacks have 25% more PEN. This does **NOT** apply to criticals.
     -   This bypasses the PEN cap.
+    -   [Wraithclaw](Wraithclaw.md)'s criticals are classified as basic attacks, making them the only fist style criticals to benefit from this Talent's PEN bonus.
 -   Coldseep Reactor: [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
@@ -3434,7 +3436,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Only grants a 10% damage buff, the Talent was nerfed but the description was never changed.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds
--   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken.
+-   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
     -   [Umbrite Witherblade](Umbrite_Witherblade.md) also gains the full 25% Wither.

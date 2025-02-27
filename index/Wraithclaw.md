@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 137622
+revid: 137678
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]
@@ -32,7 +32,7 @@ The Wraithclaw is a weapon in _Deepwoken_.
 
 ## Description
 
-The **Wraithclaw** is a Legendary [Cestus](Weapons.md); spiralettes of wind around the hand underset by wraps and sinew which anchor six blades of spectral energy. They are the souls of the dead carried by the gale giving into claws, to rake and dig into opponents much as their dreading and sorrowful hearts do their own. It's damage scales off both Light Weapon and [Galebreathe](Galebreathe.md).
+The **Wraithclaw** is a Legendary [Cestus](Weapons.md#fists); spiralettes of wind around the hand underset by wraps and sinew which anchor six blades of spectral energy. They are the souls of the dead carried by the gale giving into claws, to rake and dig into opponents much as their dreading and sorrowful hearts do their own. It's damage scales off both Light Weapon and [Galebreathe](Galebreathe.md).
 
 The Wraithclaw comes with a single passive ability:
 
@@ -66,7 +66,9 @@ The Wraithclaw has **two** criticals.
 
 For the **standing** critical, the user winds up a barrage of six slashes, each dealing a small amount of damage & posture damage with low range, with the final hit dealing greater damage and posture. The attack can be cancelled by user themselves by pressing M2, getting damaged or getting parried.
 
-For the **aerial** critical, the user quickly whirls in front of them, dealing moderate damage and a massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md).
+For the **aerial** critical, the user quickly whirls in front of them, dealing moderate damage and a massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md#legion-shock-trooper).
+
+Both of these criticals are classified as _basic attacks_, which means they benefit from things like [Berserk's](Talents.md#berserker) armor nullification and [Navaen War Chief's](Navaen_War_Chief.md) PEN increase.
 
 Both criticals share the cooldown of **10 seconds**.
 

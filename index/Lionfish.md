@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 135910
+revid: 137668
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -104,4 +104,3 @@ ing the formula for fighting this mob may allow you to solo it at a low level, i
     -   The Cero is Galebreathe based, which is hinted through the visual effect of the Everchanging Aegis talent.\[citation needed\]
 -   If you use a sea highway, even a dinghy can outrun them.
 -   Arch\_Mage has confirmed that they will be getting a model re-work and possibly a combat re-work as well.\[citation needed\]
--   [Lionfish](https://en.wikipedia.org/wiki/Pterois) in real life are nothing like the Lionfish in-game.

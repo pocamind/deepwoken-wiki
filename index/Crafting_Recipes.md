@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 135956
+revid: 137672
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -68,11 +68,11 @@ Certain foods grant a Food Buff, indicated by a colored food bar and a descripti
 ### Known Boosts
 
 -   _"You feel your wounds closing up..." =_ This buff significantly increases the user's health regeneration speed.
--   _"You feel as if you could go longer without food..." =_ This buff significantly decreases the user's starvation speed.
--   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage.
--   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
--   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.
--   _**"You feel quicker on your feet..."** =_ This buff increase the user's movement speed
+-   _"You feel as if you could go longer without food..." =_ This buff significantly decreases the user's starvation speed. (10% less natural hunger drain)
+-   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage. (5% mantra and enchant damage buff)
+-   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage. (5% weapon damage buff)
+-   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed. (currently broken as of 2/26/25)
+-   _**"You feel quicker on your feet..."** =_ This buff increase the user's movement speed (currently broken as of 2/26/25)
 
 Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both can eat) - **\[N\]** - Neither
 
@@ -80,7 +80,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 
 -   **\[G\] [Noodles](Food.md)** - _1 Egg, 2 Gathered Wheat_
 -   **\[G\] [Redd Juice](Food.md)** - _3 Redd_
--   **\[V\] [Fruit Salad](Food.md)** - _3 Unique fruits. (example: 1 Pomar, 1 Plumfruit, 1 Redd; increases heal rate)_
+-   **\[V\] [Fruit Salad](Food.md)** - _3 Unique fruits. (example: 1 Pomar, 1 Plumfruit, 1 Redd; increases natural heal regen by 17.5%)_
 -   **\[C\] [Sushi](Food.md)** - _1 Fish Meat, 1 Seaweed Bundle_
 -   **\[G\] [Grilled Cheese](Food.md)** _\- 1 Cheese, 1 Bread_
 -   **\[C\] [Crab Pizza](Food.md)** - _1 Crustacean Meat, 1 Bread, 1 Cheese_
@@ -93,9 +93,9 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 -   **\[G\] [Bread](Food.md)** - _3 Gathered Wheat_
 -   **\[C\] [Omelette](Food.md)** - _2 Eggs_
 -   **\[C\] [Cooked Egg](Food.md)** - _1 Egg_
--   **\[N\] [Mushroom Omelette](Food.md)** - _2 Eggs 1 Mushroom (Any)_ (Increased weapon damage)
--   **\[C\] [Fish Omelette](Food.md)** - _1 Fish Meat, 2 Eggs_ (Buffs Mantra damage)
--   **\[V\] [Sticky Bun](Food.md)** - 1 _Sap, 3 Gathered Wheat_ (Makes your ether regen faster.)
+-   **\[N\] [Mushroom Omelette](Food.md)** - _2 Eggs 1 Mushroom (Any)_ (Increases weapon damage by 5%)
+-   **\[C\] [Fish Omelette](Food.md)** - _1 Fish Meat, 2 Eggs_ (Buffs Mantra damage by 5%)
+-   **\[V\] [Sticky Bun](Food.md)** - 1 _Sap, 3 Gathered Wheat_ (Makes your ether regen faster. (currently doesn't work) )
 -   **\[C\] [Cooked Fish Meat](Food.md)** - _1 Fish Meat_
 -   **\[G\] [Plumfruit Muffin](Food.md)** - _1 Plumfruit, 1 Gathered Wheat_
 -   **\[V\] [Fruit Cake](Food.md)** - _2 Unique Fruits, 1 Gathered Wheat_
@@ -103,12 +103,13 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 -   **\[V\] [Candied Fruit](Food.md)** - _1 Pomar/Calabash_ or _2 of any other fruit, 1 Sap_ (Buff: Enchant)
 -   **\[C\] [Urchin Stew](Food.md)** - _3 Urchin_
 -   **\[C\] [Seafood Surprise](Food.md)** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
--   **\[C\] [Seafood Boil](Food.md)** - _1 Squid, 1 Fish Meat, 1 Crustacean Meat_ (Reduces hunger loss)
+-   **\[C\] [Seafood Boil](Food.md)** - _1 Squid, 1 Fish Meat, 1 Crustacean Meat_ (Reduces hunger loss by 10%)
 -   **\[C\] [Fish Stew](Food.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
 -   **\[C\] [Calamari](Food.md)** - _1 Squid, 1 Gathered Wheat_
--   **\[C\] [Glazed Fish](Food.md) -** _1 Fish Meat, 1 Sap_ (Increased weapon damage)
+-   **\[C\] [Glazed Fish](Food.md) -** _1 Fish Meat, 1 Sap_ (Increases weapon damage by 5%)
 -   **\[C\] [Sauteed Scallops](Food.md)** - _2 Scallops_
--   **\[G\] [Cake](Food.md)** - 1 _Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased speed)
+-   **\[G\] [Cake](Food.md)** - _1 Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased speed. (currently doesn't work))
+-   **\[C\] [Crab Stuffed Browncaps](Food.md)** - _2 Crustacean Meat, 3 Browncaps, 1 Cheese (Health Regen)_
 
 ## Alchemy
 
