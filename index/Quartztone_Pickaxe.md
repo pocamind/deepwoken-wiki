@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 136125
+revid: 137705
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greataxes, Weapons with Unique Criticals]
@@ -30,8 +30,6 @@ categories: [Weapons, Pages with broken file links, Greataxes, Weapons with Uniq
 ## Description
 
 The **Quartztone Pickaxe** is a rare, previously exclusive Greataxe resembling a pickaxe found most often in the [Saramaed Hollow](Saramaed_Hollow.md) dungeon. It's the only weapon alongside the [Boltcrusher](Boltcrusher.md) that can be used to mine ores; it also mines them faster.
-
-Its also of Legendary rarity
 
 ## Criticals
 
