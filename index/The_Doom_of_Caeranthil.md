@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 136907
+revid: 137700
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -22,7 +22,7 @@ The Doom (also referred to as World Serpent) is a colossal sea serpent monster t
 
 The Doom will swim across the seas of the [Etrean Luminant](Luminants.md) in a specific pattern: it will begin near the Sea Highway gate to the south of [Erisia](Erisia.md), go to the east of erisia, go to [Etris Docks](Etris_Docks.md), go to Erisia's entrance and finally, [Vigil Docks](Isle_of_Vigils.md).
 
-Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted (If they don't have it or don'thave another murmur); a chest with loot will also spawn at the player's location, and the player will be granted a large(verify) amount of [Etrea](Etrea.md) reputation.
+Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted to those with no Murmur, a chest with loot will also spawn at the player's location, and the player will be granted a large amount of [Etrea](Etrea.md) reputation.
 
 It can be damaged by cannons, however the damage is very little even at Power 20.
 
