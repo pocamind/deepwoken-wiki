@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 137027
+revid: 137712
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions, The Ministry]
@@ -12,7 +12,7 @@ notices:
 
 | The Ministry | |
 |---|---|
-| territory | Outpost Antumbra |
+| territory | Outpost Antumbra The Understrand |
 | goals | The sinking of the Overworld into the depths, Silence the Children of Navae |
 
 “ GODSEEKERS, PROPHETS IN BLACK, OFFERING THIS CITY OF STONE AS IF IT WERE FESTERING MEAT. A PALTRY OFFERING, BUT MORE THAN YOUR KIND USUALLY AMOUNT TO. ”
@@ -61,5 +61,5 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 ## Trivia
 
--   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
+-   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), [Ministry Agent](Ministry_Agent.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   The Ministry's emblem appears as a polar opposite to Lost Celtor, especially being associated in [drowning the latter's capital](Lost_Celtor.md) as well as the "arrow" motifs.

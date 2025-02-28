@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 136265
+revid: 137714
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -24,7 +24,7 @@ Template:NPC name
 
 To accept the quest, choose "You need some help around here?" When talking to him.
 
-After accepting the quest, (?) Will spawn a FOOD crate at the back of his shop. To finish the quest, talk to [Stratos](Stratos.md) crate in hand.
+After accepting the quest, (?) will spawn a food crate at the back of his shop. To finish the quest, talk to [Stratos](Stratos.md) with the crate in hand.
 
 ## Dialogue
 
@@ -34,14 +34,14 @@ After accepting the quest, (?) Will spawn a FOOD crate at the back of his shop. 
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">"Welcome to Lance's Food ... I guess."</td>
+  <td colspan="12">"Welcome to Lance's Food... I guess."</td>
 </tr>
 <tr>
   <td colspan="6">You okay?</td>
   <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="6">"Everyone talks about Lance and how he's so great ... Even our own mother doesn't remember my name."</td>
+  <td colspan="6">"Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name."</td>
   <td colspan="6">End</td>
 </tr>
 <tr>
@@ -69,25 +69,85 @@ After accepting the quest, (?) Will spawn a FOOD crate at the back of his shop. 
   
 If spoken to again (?)'s 'name' will be displayed with a (?) at the end.
 
-If talked to again choosing the same dialogue options. Your responses will change after the second text box.
+If talked to again choosing the same dialogue options, your responses will change after the second text box.
 
-_\*The man looks like he's been stabbed in the heart.\* "_I... I already told you..."
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">"Welcome to Lance's Food... I guess."</td>
+</tr>
+<tr>
+  <td colspan="6">You okay?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">"Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name."</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">Well, what is your name?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The man looks like he's been stabbed in the heart.* "</i>I... I already told you..."</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">UHH NO I MEANT YOUR MIDDLE NAME?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">"Oh... Well it's... <i>*You hear white noise. What? Come on, there has to be something supernatural at foot here. Surely. Did this guy make a deal with a Drowned God or something? A <a href="Vows.md">Vow</a>? What is wrong with this guy?*</i> "People always seem so interested in my middle name..."</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
-"UHH NO I MEANT YOUR MIDDLE NAME?"
+After speaking to him a _third_ time, (?)'s dialogue changes again.
 
-\[End Dialogue\]
-
-"Oh... Well it's... _\*You hear white noise. What? Come on, there has to be something supernatural at foot here. Surely. Did this guy make a deal with a Drowned God or something? A Vow? What is wrong with this guy?\*_ "People always seem so interesting in my middle name..."
-
-\[End Dialogue\]
-
-After speaking to him a THIRD time when asking for his middle name be met with
-
-_\*You gaze into the man's eyes. Cold. Glassy. Like empty windows into the void itself. Oh Gods, we're being pulled in. Anchor the ship! Avert your eyes, damn you!\*_ "...I told you that one too..."
-
-\[Walk away wordlessly, it's the only way. Abort conversation. Leave. Exit. GET OUT OF THERE MAN\]
-
-  
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">"Welcome to Lance's Food... I guess."</td>
+</tr>
+<tr>
+  <td colspan="6">You okay?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">"Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name."</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">Well, what is your name?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The man looks like he's been stabbed in the heart.* "</i>I... I already told you..."</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">UHH NO I MEANT YOUR MIDDLE NAME?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*You gaze into the man's eyes. Cold. Glassy. Like empty windows into the void itself. Oh Gods, we're being pulled in. Anchor the ship! Avert your eyes, damn you!*</i> "...I told you that one too..."</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="12">[Walk away wordlessly, it's the only way. Abort conversation. Leave. Exit. GET OUT OF THERE MAN]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 137707
+revid: 137721
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -782,6 +782,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
     -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment itself.
 -   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
 -   Ferocity has negative acceleration on its particles meaning they will follow your movement at 5x speed or higher.
+-   Heroism (Formally known as "Blessing of the Hero") Enchant used to do 3x your scaled weapon damage as seen from [infernasus video](https://youtu.be/SOdkNcZATtA?si=ERCaXcVMek6acKTk)
 -   Nemesis causes enemies to react to its critical even without a hitbox.
 -   Obfuscation is incredibly useful when fighting block-heavy mobs like [Immortal Guardians](Immortal_Guardian.md) or [Enforcers](Enforcer.md).
 -   Umbral Knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
