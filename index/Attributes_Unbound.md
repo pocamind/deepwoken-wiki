@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 136856
+revid: 137796
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -24,7 +24,7 @@ Character attributes will permanently be unbounded if you have previously done t
 4.  Use Strong Left on the coffin in the room, and then climb down the ladder within.
 5.  Read the book on the ground, and Strength Unbound will be granted.
 
-_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=S_O53fdplkM)._
+_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=O8XC5zqrUPI&feature=youtu.be)._
 
 ### Fortitude Unbound
 

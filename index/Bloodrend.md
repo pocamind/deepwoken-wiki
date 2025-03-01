@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 137760
+revid: 137784
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -794,6 +794,7 @@ N/A
 **Effect:** _The caster summons a wisp of blood. Ritual Casted._
 
 -   Blood Wisp regenerates a portion of your blood (less than 5%) three times over X seconds.
+-   Upgrading the Mantra increases regeneration.
     -   Aeon and Eternal Logstones increase the duration of the mantra and how many steps are required to cast it. They decrease the cost of each individual step.
 
  |

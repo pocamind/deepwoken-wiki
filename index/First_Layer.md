@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 137658
+revid: 137793
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -20,7 +20,9 @@ The **First Layer** of the Depths, also known as **Scyphozia,** is the first of 
     -   [The Military District](The_Military_District.md)
     -   [The Cathedral of Interstice](Cathedral_of_the_Interstice.md)
     -   [District of Commerce](District_of_Commerce.md)
+
 -   [Temple of Hearts](Temple_of_Hearts.md)
+
 -   [Castle Light](Castle_Light.md)
     -   [Light's Causeway](<Light's_Causeway.md>)
 
@@ -89,13 +91,15 @@ Some things add extra Difficulty Score:
 
 | Difficulty Score | Enemy(ies) |
 | --- | --- |
-| 1-14 | Nothing (you are sent up without a fight) |
-| 15-19 | [Mudskipper Knight](Mudskipper_Knight.md) |
-| 20-29 | [Lesser Angel](Hollow_Angel.md) |
-| 30-49 | [Megalodaunt](Megalodaunt.md) (which can be Corrupted) |
-| 50-79 | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
+| 1-14 (est. [Power](Power.md) 1-4)\* | Nothing (you are sent up without a fight) |
+| 15-19 (est. [Power](Power.md) 5-6)\* | [Mudskipper Knight](Mudskipper_Knight.md) |
+| 20-29 (est. [Power](Power.md) 7-9)\* | [Lesser Angel](Hollow_Angel.md) |
+| 30-49 (est. [Power](Power.md) 10-16)\* | [Megalodaunt](Megalodaunt.md) (which can be Corrupted) |
+| 50-79 (est. [Power](Power.md) 17-20)\* | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
 | 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
 | 5-8 players, one having a Difficulty Score of 60+ | [Heart of Enmity](Heart_of_Enmity.md) (Starting from the 9th player, they will get kicked out of the fight) |
+
+\*This is an estimation. Depending on your drowns and other factors, you could be facing worse enemies.
 
 -   Some monster in Trials have a possibility of being corrupted.
 -   Curiously, **any** monster can be corrupted if spawned in the trial, including enemies that can otherwise never be: [Bounders](Bounder.md), [Golems](Rock_Golem.md), [Brainsuckers](Brainsucker.md), etc. When this occurs, however, their AI will (probably) break. Exemplified in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
@@ -173,58 +177,60 @@ Once you have spoken with [Surge](Surge.md), the [Nestmind](The_Nestmind.md) - a
 
 Below is a list of potential items that can spawn in chests in Scyphozia. Scyphozia is the best place in the game for loot and corrupted monsters give better loot than normal monsters.
 
-| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
-| --- | --- | --- | --- |
-| 
--   [Prophet's Cloak](<Prophet's_Cloak.md>)
--   [Authority Commander](Authority_Commander.md)
--   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md)
--   [Black Diver](Black_Diver.md)
--   [Legion Centurion](Legion_Centurion.md)
--   [Diver Apprentice Robes](Diver_Apprentice_Robes.md)
--   [Navaen War Chief](Navaen_War_Chief.md)
--   [Eager Tradesman](Eager_Tradesman.md)
+**Keep in mind that this list is still incomplete.**
 
- | 
-
--   [Ring of Wisps](Equipment.md)
--   [Assassin Hood](<Assassin's_Hood.md>) **(Series)**
--   [Dazed Band](Equipment.md)
--   [Pale Assassin's Cloak](<Assassin's_Cloak.md>)
--   [Freestyler's Band](Equipment.md)
--   [Enforcer Boots](Enforcer_Boots.md)
--   [Pariah's Keepsake](Equipment.md)
--   [Providence Coat](Providence_Coat.md)
--   [Bloodiron Ring](Equipment.md)
--   [Purifying Ring](Equipment.md)
--   [Demon Mask](Demon_Mask.md)
--   [Isshin's Ring](Equipment.md)
--   [Hivelord mask](Hivelord_Mask.md)
--   [Windmill Ring](Equipment.md)
--   [Light Eater Ring](Equipment.md)
--   [Star Boots](Star_Boots.md)
--   [Pathfinder's Backpack](<Pathfinder's_Backpack.md>)
-
- | 
-
--   [Shattered Katana](Shattered_Katana.md)
--   [Pale Morning](Pale_Morning.md)
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
--   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
--   [Serpent's Edge](<Serpent's_Edge.md>)
--   [Iron Birch](Iron_Birch.md)
--   [Crypt Blade](Crypt_Blade.md)
--   [Enforcer's Blade](<Enforcer's_Blade.md>)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Darkalloy Greatsword](Darksteel_Greatsword.md)
--   [Anklets of Alsin](Anklets_of_Alsin.md)
--   [Deepspindle](Deepspindle.md)
-
- | 
-
--   [Deep Gems](Deep_Gems.md)
-
- |
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td>
+  <ul>
+    <li><b>Master</b>: <a href="Authority_Commander.md">Authority Commander</a>, <a href="Black_Diver.md">Black Diver</a>, <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
+    <li><b>Expert</b>: <a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a></li>
+    <li><b>Adept</b>: <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a></li>
+    <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Deepspindle.md"><font>Deepspindle</font></a>.</li>
+    <li><b>Alloyed Weapons</b>: <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></li>
+    <li><b>Medium Weapons</b>: <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Enforcer's_Blade.md">Enforcer's Blade</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Pale_Morning.md">Pale Morning</a></li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: N/A</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> <b>(Series)</b></li>
+    <li><b><a href="Equipment.md#arms"><font>Arms Equipment</font></a></b>:
+  <ol>
+    <li><b>Legendary Arms</b>: <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a>, <a href="Providence_Coat.md"><font>Providence Coat</font></a>.</li>
+    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Pale Assassin's Cloak</a></li>
+  </ol></li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: <a href="Enforcer_Boots.md">Enforcer Boots</a>, <a href="Star_Boots.md">Star Boots</a></li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipments</font></a></b>: <a href="Pathfinder's_Backpack.md">Pathfinder's Backpack</a></li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a></li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipments</font></a></b>: N/A</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Tips from Experienced Depths Divers
 
@@ -265,7 +271,6 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 -   According to the "Munet Journal, XIV", It canonically takes 2 weeks for a being to escape the depths.
-
 -   **The Boulder Event in the Depths can spawn most monsters including 2 [Threshers](Thresher.md), a [Megalodaunt](Megalodaunt.md), an [Alpha](Alpha_Megalodaunt.md) [Megalodaunt](Alpha_Megalodaunt.md), a [King](King_Thresher.md) [Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [hellmode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)**
 -   If you go into the Depths Trial arena solo, but your Difficulty Score is low enough for your trial to be Nothing, then the Voice of Enmity and Voice of Odium have special dialogue(something about you being feeble/weak i forgot what they say exactly), and the Voice of Authority doesn't talk.
 -   Previously, 4 bells located throughout the city were required to be rung in order to escape the depths.

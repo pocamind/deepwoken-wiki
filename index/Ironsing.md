@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 137751
+revid: 137795
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1050,7 +1050,8 @@ Your Ironsing mantras deal more posture damage to enemies the more armor durabil
 
  | 
 
-The higher durability your enemy has, the more posture damage they take.
+The more % of armor enemy has the more posture buff is.  
+Each 1% of armor gives extra 0.15% posture DMG.
 
  |
 | 
@@ -1114,7 +1115,7 @@ Deal additional armor damage to enemies per metal rod affecting them.
 
  | 
 
-Deal _(???)_ more armor damage to enemies per metal rod affecting them.
+Deal 5% more armor damage to enemies per metal rod affecting them.
 
  |
 | 
@@ -1153,7 +1154,7 @@ Successfully dodging an attack coats you in metal and reduces the damage of the 
 
  | 
 
-Upon dodging, reduce the damage taken from the next attack.
+Upon dodging, reduce the damage taken from the next attack by 60%.
 
  |
 | 
@@ -1208,7 +1209,7 @@ If your opponent has 3 or more rods, their dodges are slower.
 
  | 
 
-If your opponent has 3 or more rods, their dodges are slower.
+Reduces roll distance by 30%
 
  |
 | 
@@ -1252,11 +1253,11 @@ Metal Eater
 
  | 
 
-When you have no Ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
+When you have no Ether, consume Armor durability to cast your Ironsing mantras.
 
  | 
 
-You can sacrifice some of your armor durability to cast mantras when you're out of Ether.
+Takes 30% armor to cast Ironsing mantra (Fixed % armor per metal eater proc)
 
  |
 | 
@@ -1272,7 +1273,7 @@ Pulling an opponent absorbs a portion of their current Armor durability.
 
  | 
 
-Pulling an opponent absorbs a portion of their current Armor durability.
+Pulling an opponent absorbs 2% per rod of their current Armor durability.
 
  |
 | 
@@ -1307,11 +1308,11 @@ Rending Needle: Conductor
 
  | 
 
-5 metal rods will combine into a conductor rod. If the enemy uses an non-Ironsing elemental Mantra, they're dealt their elemental back in turn.
+5 metal rods will combine into a conductor rod. If the enemy uses any mantra other than Bloodrend, Ironsing, Attunementless, Oath Mantra, they're dealt their elemental back in turn.
 
  | 
 
-+1 Posture FROM: Ironsinger
+FROM: Ironsinger
 
  |
 | 
@@ -1327,7 +1328,7 @@ If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pull
 
  | 
 
-+1 Posture FROM: Ironsinger
+FROM: Ironsinger
 
  |
 | 
@@ -1343,7 +1344,7 @@ If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of
 
  | 
 
-+1 Posture FROM: Ironsinger
+FROM: Ironsinger
 
  |
 
@@ -1446,7 +1447,7 @@ Successful procs of Scrapsinger will increase the amount of armor damage your op
 
  | 
 
-When sucessfully proccing Scrapsigner, your opponent takes increased armor damage until it reaches a cap of 10. When reaching the cap, your opponent takes +5% damage until your stacks decay.
+On successful proc of Scrapsinger steal extra 5% armor. After reaching 10 metal rods, opponent will take extra 5% DMG until rod stacks will drop below 10.
 
  |
 

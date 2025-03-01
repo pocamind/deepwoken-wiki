@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137777
+revid: 137787
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -175,7 +175,7 @@ _A bullet of flames shot through each hand._
  |
 | 
 
-\[missing, add\]
+10 Ether per shot
 
  | 
 
@@ -198,7 +198,7 @@ Fire
 -   Propels the user backward if cast while jumping/walking backward or in water.
 -   Can be modified with Drift/Rush Shards to make the bullets fly faster + farther.
 -   Can be modified with a Round Spark, causing the bullets to split in 2 after being fired.
--   Can be modified with a Blast Spark, causing bullets to explode opponents after a certain amount of hits, but reducing the base damage.
+-   Can be modified with a Blast Spark, causing bullets to explode opponents after 6 hits, but reducing the base damage.
 
  |
 | 
@@ -217,7 +217,7 @@ _Shoot a projectile that explodes after a short delay and blinds those looking a
  |
 | 
 
-\[missing, add\]
+20 Ether
 
  | 
 
@@ -295,7 +295,7 @@ _An exertion of flames._
  |
 | 
 
-\[missing, add\]
+30 Ether
 
  | 
 
@@ -336,7 +336,7 @@ _A pyroclastic eruption._
  |
 | 
 
-\[missing, add\]
+45 Ether
 
  | 
 
@@ -378,7 +378,7 @@ _Toss a nimble dagger._
  |
 | 
 
-\[missing, add\]
+55 Ether
 
  | 
 
@@ -501,7 +501,7 @@ _Conjure a turret of flames._
  |
 | 
 
-\[missing, add\]
+60 Ether
 
  | 
 
@@ -540,7 +540,7 @@ _Conjure up to 3 fireballs to volley at your enemies._
  |
 | 
 
-\[missing, add\]
+50 Ether per fireball
 
  | 
 
@@ -617,7 +617,7 @@ _A rising tornado of flames._
  |
 | 
 
-\[missing, add\]
+60 Ether
 
  | 
 
@@ -658,7 +658,7 @@ _Strike the ground, turning it to ash._
  |
 | 
 
-\[missing, add\]
+35 Ether
 
  | 
 
@@ -697,7 +697,7 @@ _Conjure a flaming arrow and fire it at your target._
  |
 | 
 
-\[missing, add\]
+60 Ether
 
  | 
 
@@ -818,7 +818,7 @@ _Dash forward in a spiral of flames._
  |
 | 
 
-\[missing, add\]
+40 Ether
 
  | 
 
