@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 137621
+revid: 137759
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -38,7 +38,7 @@ Make your attacks uninterruptible and become immune to most forms of stun; Vents
 
 ### True Hyperarmor
 
-Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword's](Darksteel_Greatsword.md) Critical attack, [Stoneheart's](Stoneheart.md) Critical's charge animation, [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attack and [Iron Hug](Ironsing.md). This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
+Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword's](Darksteel_Greatsword.md) Critical attack, [Stoneheart's](Stoneheart.md) Critical's charge animation, [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attack and the [Iron Hug](Ironsing.md#iron-hug) Mantra. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
 
 ### Overheal
 
@@ -66,7 +66,7 @@ All posture damage given to you will instead be sent to the person who used [Ral
 
 ### Cool Head
 
-For the duration, you are unable to be lit on fire, signified by a cold breath coming out of your character's mouth periodically.
+Applied by the [Cool Head](Talents.md#cryomancer) Talent. For the duration, you are unable to be lit on fire, signified by a cold breath coming out of your character's mouth periodically.
 
 ### Engulfed by Lightning
 

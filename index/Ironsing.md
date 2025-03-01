@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 137744
+revid: 137751
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -249,7 +249,7 @@ Metal + Bleed
 -   Functions similar to Galebreathe's [Galetrap](Galebreathe.md#galetrap) Mantra.
 -   Goes through block (**and your character!**) if cast closely to the target.
 -   May be blocked or even parried off the ground.
--   With the '**Laced Traps'** Talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
+-   With the '**Laced Traps'** Talent, makes the opponent slowed down and unable to jump if hit.
 -   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
 -   Can be modified with **Cloudstones/Stratus Stones** (Does nothing)
 -   Applies Metal Rods on every 2 hits. Caltrops that are laying down applying 1 metal rod per caltrop.
@@ -491,7 +491,7 @@ Metal + Slash + Bleed
 -   With 6 songchant deals 78.38 (10.65 + 3.18 Bleed \* 4 + 17.75 + 5.31 Bleed) DMG
 -   Has 9.65x PVE scale (87.83 DMG + 26.34 Bleed \* 4 and at end of grab 146.39 DMG + 43.92 Bleed, total DMG 647)
 -   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
--   With the '**Metal Absorption'** Talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
+-   With the '**Metal Absorption'** Talent, Iron Hug will absorb the opponents' armor.
 -   The '**Matador'** Talent procs against Iron Hug's hyperarmor.
 
  |
@@ -864,7 +864,7 @@ N/A
 **Effect:** _Taking stance, the player's body is hardened like metal, negating 90% of damage taken during the entirety of the Mantra's duration._
 
 -   During usage, the user is unable to move nor act.
--   With the '**Intuitive Repairs'** Talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the Mantra's duration.
+-   With the '**Intuitive Repairs'** Talent, Iron Skin will cause armor and natural armor to be restored during the Mantra's duration.
 -   Can be upgraded with Aeon/Eternal Logstones for increased duration.
 -   Does not negate damage from [Deferred](Deferred.md), [fire](Status_Effects.md#burn), or fall damage.
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137743
+revid: 137777
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -445,7 +445,7 @@ Fire
 
 **Searing Snare** (★☆☆)
 
-File:Snaringflame mantra.gif
+File:SearFLame.gif
 
 _Place a fiery snare at a chosen location. Enemies that stumble into it are scorched._
 
@@ -453,7 +453,7 @@ _Place a fiery snare at a chosen location. Enemies that stumble into it are scor
 
 ## Searing Snare (★☆☆)
 
-File:Snaringflame mantra.gif
+File:SearFLame.gif
 
   
 _Place a fiery snare at a chosen location. Enemies that stumble into it are scorched._
@@ -477,10 +477,9 @@ Fire
 **Effect:** Cast a circular area mark that follows your cursor. Cast again to create an eruption of flame at that location.
 
 -   Upgrading the Mantra increases placement range.
--   Deals ~62 damage at level 5.
--   Deals high posture damage.
+-   Deals 47.84 damage, 20 posture, 19.5s CD at 5 lvl
 -   Cancels the eruption if hit mid-detonation.
--   You have full control while in placement state. You can move normally, M1, use your Critical, and even use other Mantras.
+-   You are in full control while in placement state. You can move normally, M1, use your Critical, and even use other Mantras.
 -   **Fan The Flames** does **not** increase placement range.
 -   Can be modified with Crystal/Perfect Lenses to increase the placement range.
 -   Can be modified with a Spring Spark, causing it to ragdoll and launch away but makes it able to damage the user.
@@ -878,9 +877,12 @@ Fire
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
 -   Is able to proc **Meteor Impact**, even without hitting an opponent.
 -   Shares similar traits to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
+-   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
 -   The Mantra will not summon flames nor do damage if used in bodies of water.
 -   Can be modified with a Reversal Spark, delivering an explosive frontflip instead of a vertical leap.
     -   This variant does not bring enemies up, and cannot proc **Meteor Impact**.
+    -   This variant negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
+    -   This variant gets replaced with it's base variant when used in water.
 
  |
 
@@ -1850,7 +1852,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 
 ## Trivia
 
--   **Searing Snare** has the same sound effects as [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood Explosion move
+-   **Searing Snare** has the same sound effects as [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood Explosion move.
 -   As of the 31/10/2024 update, Burn damage now scales on your Flamecharm investment. Additionally, Burn damage was changed to be resisted by Fire Armor in the same update.
 -   All Flamecharm mantras deal reduced damage (??%) in the rain, unless the user has the _Unyielding Inferno_ Talent.
 -   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of _Deepwoken_.
@@ -1870,16 +1872,13 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
     -   The **Graceful Flame** can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
 -   The **Graceful Flame** Mantra does not allow anyone to cook food, regardless of its Level.
--   The **Flame Leap** Mantra's Reversal Version negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
--   The **Flame Leap** Mantra's Reversal Version gets replaced with it's base version when used in water.
--   The **Flame Leap** Mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" Mantra.
 -   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
 -   Flamecharm's **Burn** damage scales with Azure Flames and Flamecharm invest. Which can lead to some icky burn damage if you are going for that.
 -   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 -   If the character has the Azure Flames Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames. It can also work with Twisted Puppets, having the critical turn black and a spawn in Puppets.
 -   You cannot have both Azure Flames and Twisted Puppets at the same time.
 -   Flamecharm will not receive any nerfs until widespread backlash. Often seen when it had a true-hit move that did a bar, and it took a month to nerf and fix. This trend was seen with [Ironsing](Ironsing.md) when it first came out.
--   Before its release, **Flaming Scourge** was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md#support-mantras), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
+-   Before its release, **Flaming Scourge** was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md#shade-wisp), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
 -   Flamecharm was invented by [Amorus Pleeksty](Amorus_Pleeksty.md), a Tiran who later went on to become a Deepwoken
 -   The **Fire Gun** Mantra gives the player fingers, similar to when casting a Wisp Mantra. Its there, but it's difficult to see due to particles
 

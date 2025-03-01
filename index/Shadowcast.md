@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 137648
+revid: 137767
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -107,6 +107,7 @@ Shadow + Slash (Grab), Blunt (Slam)
 
 -   Refills about the same amount of Ether as the spell cost.
 -   Deals 57.41 (47.84 grab + 9.57 slam.) DMG, 6.5 posture, 11.5s CD.
+-   With 6 Songchant 63.9 (53.25+10.65) DMG
 -   Grab has 9.18x PVE scale, Slam has 59.47x PVE scale (47.84 DMG grab + 9.57 slam PVP, 439.17 DMG grab + 569.17 slam PVE)
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
 -   It has a cooldown of 12 seconds.
@@ -143,7 +144,8 @@ Shadow + Slash
 
 **Effect:** _A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable._
 
--   Deals 57.42(19.14\*3), 9.99 posture (3.33\*3), 12s CD at 5 lvl.
+-   Deals 57.42 (19.14\*3) DMG, 9.99 posture (3.33\*3), 12s CD at 5 lvl.
+-   With 6 Songchant 63.9 (21.3\*3) DMG
 -   Has 9.178x PVE scale (19.14 DMG PVP, 175.67 PVE DMG)
 -   Adding Rush Shards make Dark Blade faster.
 -   Adding Vibrant Gems increase Ether steal.
@@ -183,6 +185,7 @@ Shadow
 
 -   Deals 35.88 dmg non modded at 5 lvl, guardbreaks, 12s CD. (3 stratus and 3 perfect lenses version will do 23.92 dmg. (-50% DMG))
 -   Blast spark version deals 71.04 (23.68\*3). 27 posture (9\*3), 10s CD. (With 3 stratus stones and 3 perfect lenses does 15.79 per hit, 47.37 total. (-50% DMG))
+-   With 6 songchant nonmodded shadow gun 39.94 DMG, Blast spark 79.08 (26.36\*3)
 -   Each modification makes you lose 8.33% DMG.
 -   Has 9.18x PVE scale (35.88 DMG PVP, 329.38 PVE)
 -   Adding Lenses will increase the range of the blast forward
@@ -225,6 +228,7 @@ Shadow
 **Effect:** _The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their Ether based on the number of chains applied for a duration of 3 seconds._
 
 -   Deals 69 (17.25\*4) DMG, 0 Posture, 15s CD at level 5.
+-   With 6 songchant 76.8 (19.2\*4) DMG
 -   Has 9.178x PVE scale (17.25 PVP DMG, 158.32 PVE)
 -   Casts an extra chain at level 5.
 -   Duration of the chain effect can be increased with Logstones
@@ -262,7 +266,7 @@ Shadow
 
 **Effect:** _The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. Blockable._
 
--   Deals 31.1 DMG total, 5.5 posture, 11s CD at 5 lvl.
+-   Deals 31.1 (34.61 With 6 songchant) DMG total, 5.5 posture, 11s CD at 5 lvl.
 -   Has 9.178x PVE scale (31.1 DMG PVP, 285.46 PVE DMG)
 -   Unaffected by Glass & Magnifying Stones.
 -   Cloud and Stratus Stones increase the size of the eruption.
@@ -300,7 +304,8 @@ Shadow + Slash
 
 **Effect:** _The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase_ nearby opponents until the duration has expired or the orb has made contact with the target. Orbs do a small amount of damage and steal a large amount of Ether.
 
--   Deals 80 (20\*4) DMG, 1 posture per hit, 14s CD
+-   Deals 82.65 (16.53\*5) DMG, 1 posture per hit, 14s CD
+-   With 6 songchant 93.2 (18.64\*5) DMG
 -   Shares a cooldown with Shadow Meteors.
 -   If attacked while casting, the Shadow Seekers will dissipate
 -   You cannot use any Mantras after using this Mantra until the orbs have either hit the target or despawned.
@@ -339,7 +344,8 @@ Shadow, Blunt (Slam)
 
 **Effect:** _User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting_ with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing Ether. This attack can summon multiple tendrils to grab multiple people simultaneously.
 
--   Deals 32.29 dmg + 5 slam, 5.5 posture, 10s CD.
+-   Deals 37.29 (32.29 + 5 slam) DMG, 5.5 posture, 10s CD.
+-   With 6 songchant 40.94 (35.94+5) DMG.
 -   Has 9.18x PVE scale, slam has 6.5x (32.29 DMG + 5 Slam PVP, 296.44 DMG + 32.4 slam)
 -   Drift and Rush Shards increase projectile speed.
 -   Cloud and Stratus Stones increase range.
@@ -378,6 +384,7 @@ Shadow
 **Effect:** _3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable._
 
 -   Deals 125.58 (41.86\*3), 6.3 (2.1\*3) posture, 16s CD.
+-   With 6 songchant 139.77 (46.59\*3) DMG
 -   Has 9.179x PVE scale (41.86 PVP DMG, 384.27 PVE DMG)
 -   Shares a cooldown with [Shadow Seekers](Shadowcast.md#shadow-seekers).
 
@@ -414,6 +421,7 @@ Shadow
 **Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and Ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit._ "Hit em with a scream!"
 
 -   Deals 86.08 (10.76\*8) DMG, 28 (3.5\*8) posture, 16s CD.
+-   With 6 songchant 95.84 (11.98\*8) DMG
 -   Has 9.183x PVE scale (10.76 PVP DMG, 98.81 PVE)
 
  |
@@ -448,8 +456,8 @@ Shadow, Shadow + Blunt (Mul. Spark)
 
 **Effect:** _The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back._
 
--   Deals 137.54 dmg, Guardbreak, 12s CD at 5 lvl.
--   Deals 10.76 + 110.03 dmg with Multiplying Spark
+-   Deals 137.54 (153.09 with 6 songchant) dmg, Guardbreak, 12s CD at 5 lvl.
+-   Deals 10.76 + 110.03 dmg with Multiplying Spark. (With 6 Songchant 134.45( 11.98+122.47) DMG)
 -   Has 9.18x PVE scale (137.54 PVP DMG, 1262.62 PVE DMG, Multi spark: 10.76 + 110.03 PVP DMG, 98.81 + 1010.09)
 -   The axe kick does not proc Deep Gems, the Multiplying Spark's high kick does
 -   Can also break certain tiles and fell trees.
@@ -489,8 +497,9 @@ Shadow + Slash
 
 **Effect:** _User creates a large black sword from their hands, using it to slash the enemy in front of them._
 
--   Deals 41.26 DMG as non-modded and spring spark, 13 posture, 12s CD
+-   Deals 41.26 (45.93 with 6 songchant)\\ DMG as non-modded and spring spark, 13 posture, 12s CD
 -   Spark versions: 27.51\*3 DMG, 13 posture per hit with Multi spark, 90.78 (41.26+24.76+24.76), 27.75 (13+6.76+8) posture with Multi and Spring spark.
+-   With 6 Songchant Spark versions do: 91.86 (30.62\*3) DMG MULTI spark, 101.05 (45.93+27.56+27.56) DMG MULTI+SPRING spark
 -   Has 9.18x PVE scale (41.26 PVP DMG,378.79 PVE DMG)
 -   Can't be feinted.
 -   Can be modified with a Spring Spark, making you lunge forward and slam down on the enemy.
@@ -529,8 +538,10 @@ Blunt
 
 **Effect:** _The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too._
 
--   Deals around 40 DMG (Does around 75.6 DMG if hit by shadow gun), Guardbreaks at block attempt, 20s CD
--   The Mantra doesn't combat tag.
+-   Deals around 40 DMG (Does around 75.6 (39.72 explosion+ 35.88 shadow gun) DMG if hit by shadow gun), Guardbreaks at block attempt, 20s CD
+-   With 6 songchant deals around 50 DMG (86.53 DMG (46.59 explosion +39.94 shadow gun) DMG if hit by shadow gun)
+-   The Mantra apply PVE tag to anyone who near it.
+-   Explosion by Shadow gun doesn't happen if shadow gun was used before vortex sucked someone in.
 -   Has no vertical range cap.
 -   You can shoot a Shadow Gun into the vortex after it has grabbed a target. Doing so will cause it to explode, dealing extra damage and stealing a high amount of Ether.
 -   Is compatible, and can be modified with Glass/Magnifying Stones to increase the range, though it seems to display diminishing returns.
@@ -600,49 +611,10 @@ Shadow + Slash
 
 **Effect:** _The user will summon shadows around their target and teleport to them after a short wait._
 
--   Deals 35.88 DMG, 6.5 posture, 10s CD at 5 lvl
+-   Deals 35.88 (39.94 with 6 songchant) DMG, 6.5 posture, 10s CD at 5 lvl
 -   Has 9.18x PVE scale (35.88 PVP DMG, 329.38 PVE DMG)
 -   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged
-
- |
-| 
-
-**Shadow Assault** (★★☆)
-
-_A rush of darkness._
-
- | 
-
-## Shadow Assault (★★☆)
-
-  
-_A rush of darkness._
-
- |
-| 
-
-50 Ether
-
- | 
-
-Shadow + Slash/Blunt (Bl. Spark)
-
- | 
-
-30 Shadowcast
-
- |
-| 
-
-**Effect:** _Ready yourself before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable._
-
--   Deals 51.67 DMG, 9.5 posture, 19s CD
--   With Blast spark: 75 (3.75\*20) DMG, 10.53 posture per hit if u will try to block during blast spark multi hit attack.
--   Has 9.18x PVE scale (51.67 DMG PVP, 474.3 PVE DMG)
--   Crystal/Perfect Lenses increase distance.
--   Glass and Magnifying Stones make hitbox larger.
--   Can be modified with a Blast Spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
 
  |
 | 
@@ -677,12 +649,52 @@ Shadow
 **Effect:** _Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards._
 
 -   After ~3s (or sooner if player uses left click) you jump out creating a shadow 'Spike' that pierces enemies.
--   Deals 31.1 DMG, 14.5 posture, 12s CD
+-   Deals 31.1 (34.61 with 6 songchant) DMG, 14.5 posture, 12s CD
 -   Has 9.178x PVP scale (31.1 DMG PVP, 285.46 PVE)
 -   While submerged you have I-Frames.
 -   You can't block or parry while submerged.
 -   NPCs can spot you underground.
 -   Can't be modified.
+
+ |
+| 
+
+**Shadow Assault** (★★☆)
+
+_A rush of darkness._
+
+ | 
+
+## Shadow Assault (★★☆)
+
+  
+_A rush of darkness._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Shadow + Slash/Blunt (Bl. Spark)
+
+ | 
+
+30 Shadowcast
+
+ |
+| 
+
+**Effect:** _Ready yourself before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable._
+
+-   Deals 51.67 (57.51 with 6 songchant) DMG, 9.5 posture, 19s CD
+-   With Blast spark: 75 (3.75\*20) DMG, 10.53 posture per hit if u will try to block during blast spark multi hit attack.
+-   With 6 songchant Blast spark deals 83 (4.15\*20) DMG
+-   Has 9.18x PVE scale (51.67 DMG PVP, 474.3 PVE DMG)
+-   Crystal/Perfect Lenses increase distance.
+-   Glass and Magnifying Stones make hitbox larger.
+-   Can be modified with a Blast Spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
 
  |
 
@@ -750,7 +762,8 @@ Shadow
 **Effect:** _Causes a damaging shockwave that adds a +20% weapon damage buff to the user. Consumes health upon use._
 
 -   Deals 16.27 DMG, 8.6 posture per hit, 19s CD.
--   Spark versions: 24.64 dmg with Blast Spark, 16.27\*3 dmg with Multi spark and 16.27\*3 dmg with Multi + Blast Spark
+-   Spark versions: 24.64 dmg with Blast Spark, 48.81 (16.27\*3) DMG with Multi spark and 48.81 (16.27\*3) DMG with Multi + Blast Spark
+-   With 6 songchant 27.42 with Blast spark, 54.3 (18.1\*3) DMG with Multi spark and 54.3 (18.1\*3) DMG with Multi + Blast Spark
 -   Has 9.177x PVE scale (16.27 PVP, 149.32 PVE)
 -   The damage buff can be increased to 25% with Vibrant Gems
 -   Can be modified with Aeon/Eternal Logstones to increase duration of buff.
