@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 137740
+revid: 137741
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -116,7 +116,8 @@ _verb_
     1.  Ex. "If we ever fought i would 5 bar u"
 2.  To deal damage equivalent to \[number\] sections of health to an opponent.
 
-"5 barred" or "5 bar" can be used to humiliate someone bad at PvP, or imply that they are. It can also be used in a joking or ironic context. (Though, "5 bar" is generally able to be said after having won a fight while above 4 bars, because most likely the speaker had already been hit at least once, no longer having exactly 5 full bars of HP.)
+"5 barred" or "5 bar" can be used to humiliate someone bad at PvP, or imply that they are. It can also be used in a joking or ironic context.  
+Also, "5 bar" is generally able to be said after having won a fight while above 4 bars, because the speaker has most likely already been hit at least once, no longer having exactly 5 full bars of HP.
 
 ### Block
 

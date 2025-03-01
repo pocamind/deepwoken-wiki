@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 137715
+revid: 137744
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -163,11 +163,11 @@ Metal + Slash
 
 **Effect:** _Jump into the air before throwing out 3 projectiles towards the location of the cursor._
 
--   Deals total 24.6 (4.1\*6) DMG, 0.8s windup, 16s CD at 5 lvl.
+-   Deals total 28.7 (4.1\*7) DMG, 0.8s windup, 16s CD at 5 lvl.
 -   With 6 songchant deals 27.36 (4.56\*6) DMG
 -   Has 9.18x PVE Scale (24.6 DMG PVP, 225.84 DMG PVE)
 -   Inconsistent tracking and wind up.
--   6 Needles at level 5.
+-   7 Needles at level 5.
 -   Applies Metal Rods on hit.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the Mantra increase amount of needles fired but removing the jump.
     -   This variant keeps the user's momentum.

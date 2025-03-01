@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 136834
+revid: 137742
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -11,6 +11,8 @@ categories: [Mechanics]
 ## Overview
 
 The Glossary is a feature that explains terminology and events in game that reveal information about certain topics. Glossary entries can be accessed by clicking underlined words or phrases in NPC dialogue.
+
+Glossary entries can be expanded when interacting with those who reveal more information on the topic. Information from different sources are separated in boxes.
 
 ### Entities
 
