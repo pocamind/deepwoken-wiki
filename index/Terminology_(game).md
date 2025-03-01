@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 137497
+revid: 137740
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -116,7 +116,7 @@ _verb_
     1.  Ex. "If we ever fought i would 5 bar u"
 2.  To deal damage equivalent to \[number\] sections of health to an opponent.
 
-"5 barred" or "5 bar" can be used to humiliate someone bad at PvP, or imply that they are. It can also be used in a joking or ironic context.
+"5 barred" or "5 bar" can be used to humiliate someone bad at PvP, or imply that they are. It can also be used in a joking or ironic context. (Though, "5 bar" is generally able to be said after having won a fight while above 4 bars, because most likely the speaker had already been hit at least once, no longer having exactly 5 full bars of HP.)
 
 ### Block
 
@@ -493,9 +493,11 @@ _verb_
 
 _verb_
 
-1.  For an item to unexpectedly disappear from the player's inventory as the result of a bug.
-    1.  Ex. "My manor key just voided what happened???"
-2.  To be instantly killed by one of the game's anti-cheat mechanisms, or to make contact with the overworld's void (see below), causing the player to respawn.
+1.  To be flung far outside the map, into the **void**.
+2.  For an item to unexpectedly disappear from the player's inventory as the result of a bug.
+    1.  Ex. "My [manor key](Manor_Key.md) just voided what happened???"
+3.  To make contact with the overworld's void, causing the player to respawn.
+4.  (uncommon) To be instantly killed by one of the game's anti-cheat mechanisms.
 
 _noun_
 

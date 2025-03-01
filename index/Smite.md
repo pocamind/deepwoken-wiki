@@ -1,9 +1,9 @@
 ---
 title: Smite
-revid: 134916
+revid: 137725
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonances]
+categories: [Pages with broken file links, Resonances]
 ---
 
 # Smite
@@ -45,6 +45,10 @@ When obtained, Smite will spend its points on the following stats:
 -   **Speed: The amount of speed increases**
 
 -   **Damage:** The amount of Damage Each orb does increases
+
+## Gallery
+
+File:Regular Smite with 7 orbs.png
 
 ## Trivia
 

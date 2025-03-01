@@ -1,6 +1,6 @@
 ---
 title: Light Hook
-revid: 137487
+revid: 137728
 source: https://deepwoken.fandom.com/wiki/Light_Hook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, StubPages, Items]
@@ -42,6 +42,6 @@ Heading to [New Kyrsa](Second_Layer/New_Kyrsa.md) does **not** provide any extra
 
 -   All of the caveats in exiting via the Light Hook apply to the [Ignition Deepdriller](Llevyn.md) as well.
 -   The Light Hook that Klaris offers at the end of each floor functions entirely separate from the utility item. It still takes you back up and gives you invincibility while doing so, but will work irrespective of your Light Hook's charge status (if you even entered with one). It also allows you to bring your items.
--   Returning to Castle Light via the Light Hook will give you back all of your health, and manually activating it will give an additional refill of your blood, hunger, and thirst by about half.
+-   Returning to Castle Light via the Light Hook will give you back all of your health, and manually activating it will give an additional refill of your blood, hunger, and thirst by about half. Also restore full sanity.
 -   [Heartstars](Heartstar.md), used to obtain [Bloodrend](Bloodrend.md), are not removed when exiting via Light Hook, likely as a fail-safe in case one of the [Ministry Bloodrenders](Ministry_Bloodrender.md) does not drop one.
 -   It used to be possible to keep items without completing a floor by equipping them, but this was patched after item equips (including weapons, equipment, [Deep Gems](Mantra_Modifiers.md#deep-gems), and [Enchant Stones](Enchant_Stone.md)) were disabled in the second layer.

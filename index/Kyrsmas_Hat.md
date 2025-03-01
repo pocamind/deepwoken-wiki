@@ -1,6 +1,6 @@
 ---
 title: Kyrsmas Hat
-revid: 128700
+revid: 137733
 source: https://deepwoken.fandom.com/wiki/Kyrsmas_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Head, Hats, Event Item]
@@ -29,5 +29,7 @@ categories: [Items, Equipment, Head, Hats, Event Item]
 The **Kyrsmas Hat** is a Unique, Event [Equipment](Equipment.md) Item found under the "_Head"_ category. It was made first obtainable during the 2024 [Kyrsmas Event](Kyrsmas.md), and is rarely obtained through the [Scion of Ethiron](Scion_of_Ethiron.md) Chest.
 
 The hat itself resembles a typical Christmas / Santa Hat, _(while taking upon a blurple hue),_ and has a miniature [Frozen Membrane](Frozen_Membrane.md) bauble on its closure, which emits particles, and it dyes alongside the hat itself when [Armor Dye](Dye_Packet.md) is used on it.
+
+Could be considered a part of the Kyrs series alongside the [Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md), and [Kyrsieger](Kyrsieger.md).
 
 Full shot of the hat

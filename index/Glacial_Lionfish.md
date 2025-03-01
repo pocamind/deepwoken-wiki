@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 118554
+revid: 137731
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -23,12 +23,12 @@ Notably enough, it's the only other way to obtain the extremely rare True Seraph
 | **Name** | **Description** | **Media** |  |
 | --- | --- | --- | --- |
 | **Bite**  
-(★☆☆) | The Lionfish opens its jaws, biting down the foes in its direction 3 times in succession, Chilled those hit and dealing _**25 damage**_. (Roughly 40+ damage if corrupted)  
+(★☆☆) | The Lionfish opens its jaws, biting down the foes in its direction 3 times in succession, [Chilling](https://deepwoken.fandom.com/wiki/Status_Effects#Chill) those hit and dealing _**25 damage**_. (Roughly 40+ damage if corrupted)  
 Parryable:◯ Blockable:◯ Dodgeable: ◯
 
  |  |
 | **Glacial Cero**  
-(★★☆) | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a blue glowing orb. Once fully charged, it'll come back down, firing a massive laser beam at its opponent, dealing _**considerably more damage**_ than a default Lionfish Cero, and Chilled whoever gets hit by it. This also leaves ice where it lands. For the glacial lionfish, this move isn't exclusive to the depths and can be used in the overworld.
+(★★☆) | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a blue glowing orb. Once fully charged, it'll come back down, firing a massive laser beam at its opponent, dealing _**considerably more damage**_ than a default Lionfish Cero, and [Chilling](https://deepwoken.fandom.com/wiki/Status_Effects#Chill) whoever gets hit by it. This also leaves ice where it lands. For the Glacial Lionfish, this move isn't exclusive to the depths and can be used in the overworld.
 
 This will auto-grip you if hit by it at low health.
 
@@ -45,4 +45,5 @@ Parryable: ✗ Blockable: ✗ Dodgeable: ◯
 
 ## Tips & Tricks
 
--   All standard tips from the [lionfish](Lionfish.md) page apply here, however, do note that they will use their beam if fished up on the surface.
+-   All standard tips from the regular [Lionfish](Lionfish.md) page apply here, though fight the Glacial Lionfish with more caution as it can take many more hits, especially when corrupted.
+-   Like the regular [Lionfish](Lionfish.md), Glacial Cero can be negated by getting out of its line of sight, such as using a wall.

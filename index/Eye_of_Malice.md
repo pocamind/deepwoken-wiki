@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 135194
+revid: 137739
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
@@ -30,7 +30,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, World Event]
 
 ## Description
 
-The Eye of Malice is a Legendary Medium Sword that drops from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It is a whipblade made of several segments.
+The Eye of Malice is a Legendary [Medium Sword](Weapons.md) that drops from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It is a whipblade made of several segments.
 
 The M1s proc an orange eye mark.
 
