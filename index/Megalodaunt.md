@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 133194
+revid: 137843
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 137669
+revid: 137835
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -40,7 +40,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
 -   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo) and [Mahoraga](https://jujutsu-kaisen.fandom.com/wiki/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga).
--   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo%23Jujutsu).
+-   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Technique_Reversal:_Red).
 -   **Flaming Scourge** is inspired by Charlotte Katakuri's **Buzzcut Mochi**.
 
 ### Thundercall
