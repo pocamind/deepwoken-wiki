@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137787
+revid: 137826
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -109,7 +109,8 @@ Fire
 
 **Effect:** User summons six blazing warriors armed with Halberds in a circle, attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
 
--   Deals 40.02 (6.7 \* 6) + 33.49 DMG.
+-   Deals 40.02 (6.7 \* 6) + 33.49 DMG, 24 posture + 30 or more posture, 10s CD at 5 lvl
+-   With 6 songchant 44.7 (7.45\*6) + 37.27 DMG
 -   Has 9.17x PVE scale (40 + 33.49 PVP DMG, 368.88 + 307.4 PVE DMG)
 -   Inflcits Burn.
 -   Does not share a cooldown with other "servants" mantras.
@@ -148,7 +149,7 @@ Fire
 
 **Effect:** User forcefully slams down their blade coated in flames.
 
--   Deals 35.88 damage at lvl 5
+-   Deals 35.88 (39.94 with 6 songchant) DMG, 10s CD at lvl 5
 -   Has 9.18x PVE scale (35.88 PVP, 329.38 PVE DMG)
 -   Deals high posture damage, becoming an instant-guardbreak at level 5.
 -   Inflicts Burn.
@@ -190,7 +191,8 @@ Fire
 
 **Effect:** Caster draws out and propels bullets of flames from their hands towards the cursor's location. Clicking again while firing will fire additional bullets, at the cost of more Ether.
 
--   Deals 17.34 damage per hit at 5 lvl, Blast Spark does 4.34 DMG + 17.5 explosion DMG. No cooldown.
+-   Deals 17.34 damage per hit at 5 lvl, Blast Spark does 4.34 DMG + 17.5 explosion DMG. 1 posture per hit + 16 posture explosion, No cooldown.
+-   With 6 songchant 18.92 DMG per hit, Blast spark 4.83 DMG +17.5 explosion DMG at 5 lvl
 -   Has 5.13x PVE scale (17.34 PVP DMG, 88.96 PVE DMG), Blast Spark in PVE does 22.24+132.2 explosion
 -   Inflicts Burn.
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
@@ -270,7 +272,7 @@ Fire
 
 **Effect:** User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
--   Deals 53.82 damage, 6.5 posture at level 5. 10s cooldown.
+-   Deals 53.82 (59.91 with 6 songchant) DMG, 6.5 posture at level 5. 10s cooldown.
 -   Has 9.18x PVE scale (53.82 PVP, 494.07 PVE)
 -   Inflicts Burn.
 -   Has a 0.5 second windup.
@@ -310,8 +312,9 @@ Fire
 
 **Effect:** User charges up releases an explosion of flames around them.
 
--   Deals 30.6 damage. If hit, reduces damage taken by 75% and reflects it back, increasing base mantra damage based on damage taken. Can reflect fall damage.
--   Deals low posture damage.
+-   Deals 30.6 (34.08 with 6 songchant) DMG, 15 posture, 15s CD.
+-   Spring Spark deals 50.4 (20.05+28.35), 53.23 (22.63 + 30.67 with 6 songchant), 16 (6+10) posture.
+-   If hit, reduces damage taken by 75% and reflects it back, increasing base mantra damage based on damage taken. Can reflect fall damage.
 -   Knocks enemies back.
 -   Inflicts Burn
 -   Has a 0.5 second wind-up.
@@ -351,7 +354,7 @@ Fire
 
 **Effect:** User slams weapon into the ground below that causes 2 consecutive explosions.
 
--   Deals 24/26.55/29/31.5/34 damage per explosion, and has 2.5 Flamecharm scaling, does 40.66\*2 DMG at 5 lvl 80 Flame. 10s cooldown.
+-   Deals 24/26.55/29/31.5/34 damage per explosion, and has 2.5 Flamecharm scaling, does 81.32 (40.66\*2), 90.52 (45.26\*2 with 6 songchant) DMG at 5 lvl 80 Flame. 10s cooldown.
 -   The initial explosion does 5.5 posture, the second explosion does 38 posture.
 -   Has 9.18x PVE scale (40.66 PVP DMG, 373.33 PVE DMG)
 -   The second explosion ragdolls enemies.
@@ -393,8 +396,8 @@ Fire
 
 **Effect:** User throws 3 quick burning daggers.
 
--   Deals 25 (8.5 + 8.5 + 8.5) damage at level 1, 44.25 (14.75+14.75+14.75) at level 5, Tornado spark makes it do 7.38 per dagger 59 DMG total.
--   Deals moderate-low posture damage.
+-   Deals 25 (8.5\*3) damage at 1 lvl, 44.25 (14.75\*3), 4 posture per hit at 5 lvl, Tornado spark deals 59.04 (7.38\*8) DMG, 2.6 posture per hit, 10s CD.
+-   With 6 songchant 49.26 (16.42\*3), Tornado spark 65.68 (8.21\*8) DMG
 -   Has 8.45x PVE scale (44.25 PVP, 374.34 PVE DMG)
 -   Does not inflict Burn.
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
@@ -434,7 +437,7 @@ Fire
 
 **Effect:** User releases a burst of flame from their palm in a cone shape.
 
--   Deals 26/27.5/29/30.5/32 damage, 38.27 DMG at 80 Flame, 5.5 posture, and has 2.5 Flamecharm scaling. 16s cooldown.
+-   Deals 26/27.5/29/30.5/32 damage, 38.27 (42.6 with 6 songchant) DMG at 80 Flame, 5.5 posture, and has 2.5 Flamecharm scaling. 16s cooldown.
 -   Has 9.14x PVE scale (38.27 PVP DMG, 349.88 PVE)
 -   Has 0.7 seconds windup and 0.2 seconds of endlag
 -   Inflicts Burn.
@@ -477,7 +480,7 @@ Fire
 **Effect:** Cast a circular area mark that follows your cursor. Cast again to create an eruption of flame at that location.
 
 -   Upgrading the Mantra increases placement range.
--   Deals 47.84 damage, 20 posture, 19.5s CD at 5 lvl
+-   Deals 47.84 (53.25 with 6 songchant) damage, 20 posture, 19.5s CD at 5 lvl
 -   Cancels the eruption if hit mid-detonation.
 -   You are in full control while in placement state. You can move normally, M1, use your Critical, and even use other Mantras.
 -   **Fan The Flames** does **not** increase placement range.
@@ -516,8 +519,7 @@ Fire
 
 **Effect:** User creates a destructible orb that will shoot out fireballs to nearby targets.
 
--   Deals 43.06 damage.
--   Deals low posture damage.
+-   Deals 43.06 (47.92 with 6 songchant) DMG, 14 posture per hit, 20s duration, 40s CD.
 -   Has 9.18x PVE scale (43.06 PVP, 395.25 PVE DMG)
 -   Inflicts Burn.
 -   Can be grabbed by your Flame Grab (Bug).
@@ -555,7 +557,7 @@ Fire + Blunt
 
 **Effect:** User releases a small fireball projectile that flies forward in a straight path.
 
--   Deals 25.59 damage per hit at 5 lvl
+-   Deals 25.59 (28.49 with 6 songchant) DMG, 5 posture per hit, 12s CD (1s delay between each hit) at 5 lvl
 -   Has 9.18x PVE scale (25.59 PVP DMG, 234.96 DMG)
 -   Inflicts Burn.
 -   Cooldown resets when landed, allowing you to cast it up to three times.
@@ -632,7 +634,7 @@ Fire
 
 **Effect:** User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
--   Deals 38.27 damage, 11 posture at level 5.
+-   Deals 38.27 (42.6 with 6 songchant) DMG, 11 posture, 10s CD at level 5.
 -   Has 9.18x PVE scale (38.27 PVP, 351.34 PVE DMG)
 -   Inflicts Burn.
 -   10 second cooldown.
@@ -712,7 +714,8 @@ Fire
 
 **Effect:** User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
 
--   Deals 112 damage (FULL CHARGED), 64.13 dmg (NOT CHARGED)
+-   Deals 112 damage (FULL CHARGED), 64.13 dmg (NOT CHARGED), posture 14 both, 15s CD
+-   With 6 songchant 61.86 (not charged), 124.76 DMG (Full charged)
 -   Has 9.18x PVE scale (64.13 PVP DMG, 588.68 PVE DMG)
 -   Deals low posture damage.
 -   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage and posture damage increases with each charge.
@@ -756,8 +759,8 @@ Fire
 
 **Effect:** User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. "This'll be over by snack time."
 
--   Deals 45 dmg total (14+14+16) at level 5, Reversal Spark 14+16.74 at 5 lvl. 18s cooldown.
--   Deals 18 posture damage every sweep, Reversal Spark dealing 18 posture damage just once.
+-   Deals 45 dmg total 44.74 (14+14+16.74) DMG at level 5, Reversal Spark 30.74 (14+16.74) at 5 lvl, 18 posture per sweep, 18s CD.
+-   With 6 songchant (14+14+18.64), and reversal spark 32.64 (14+18.64)
 -   Inflicts burn.
 -   Has 9.18x PVE scale
 -   Has a 0.6 second windup and 0.2 seconds of endlag.
@@ -833,7 +836,7 @@ Fire
 
 **Effect:** User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
--   Deals 47.84 damage at 5 lvl.
+-   Deals 47.84 (53.25 with 6 song) damage at 5 lvl.
 -   Has 9.17x PVE scale (47.84 DMG, 439.17 PVE DMG)
 -   Inflicts Burn and Ragdolls.
 -   Can be modified with Crystal/Perfect Lenses to cause the Mantra to fly farther (at the same pace).
@@ -871,8 +874,7 @@ Fire
 
 **Effect:** User emits a blast under them that propels the caster and nearby opponents up in the air.
 
--   Deals 11.96 damage at 5 lvl
--   Deals low posture damage.
+-   Deals 11.96 (13.31 with 6 songchant) DMG, 10 posture, 18s CD
 -   Has 9.17x PVE scale (11.96 PVP, 109.79 PVE)
 -   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
 -   Is able to proc **Meteor Impact**, even without hitting an opponent.

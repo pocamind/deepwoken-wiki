@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 137212
+revid: 137834
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -56,8 +56,6 @@ Certain Monsters have unique visual effects when attuned.
 Corrupted and Attuned are fairly common (and in later waves, almost guaranteed) in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Humanoid Monsters
-
-### Humanoid Monsters
 
 **Exclusive to the Etrean Luminant & The Depths: Scyphozia (Layer 1)**
 
@@ -130,11 +128,11 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 -   **Most monsters can be staggered.** While humanoid NPCs can be posture broken, most monsters can be Staggered (on rare occasion, some can both be Staggered and posture broken). Depending on your ability to deal ARMOR DAMAGE, hitting a monster drains their armor bar (Ironsing works to drain their armor, metal enchant doesn't). When armor bar is empty, the monster will be stunned for around 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself, but once they wake up from stun their armor is fully regenerated.
 -   **All monsters have 25% physical armor and in some cases up to 50%. However humanoids dont have any armor and tanky by their hp. (Info from Arch\_Mage)**
 
-## PVE Scaling
+## PvE Scaling
 
 If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the [Megalodaunt](Megalodaunt.md) apparently has 1000 health. What's happening here? At max, a weapon does, like, 30-50 damage, does it take a max player 20 to 34 hits to kill one? Not really.
 
-When you level up, you automatically gain bonus damage during PVE, which is currently around **(10.38% x 3).** This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
+When you level up, you automatically gain bonus damage during PvE, which is currently around **(10.38% x 3).** This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
 
 Calculating how much health a Monster has from just your damage alone won't be correct, you need to factor in your Power.
 

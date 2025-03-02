@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 136882
+revid: 137829
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -112,5 +112,6 @@ The Semblance executes it's opponents after knocking them:
 -   If you zoom in the camera enough to their face, it reveals they're actually headless.
 -   **Semblance** means the outward appearance or apparent form of something, especially when the reality is different. Signifying they could not be real, simply an enemy whose form our mortal eyes cannot comprehend or from a different reality.
 -   Despite wielding incredibly strong weapons, they have a relatively low health pool, with little to no resistances making this the easiest way to obtain a **Legendary Weapon**.
--   They may be related to [The Knives of Eylis](The_Knives_of_Eylis.md) or the [Voidmother](The_Voidmother.md) due to being able to use the **Time-Slowing Orb**, or due to their name they may be [The Knives of Eylis](The_Knives_of_Eylis.md) from another reality, however this maybe unlikely due to their weaponry.
+-   They may be related to [The Knives of Eylis](The_Knives_of_Eylis.md) or the [Voidmother](The_Voidmother.md) due to being able to use the **Time-Slowing Orb**, or due to their name they may be [The Knives of Eylis](The_Knives_of_Eylis.md) from another reality, however this maybe unlikely due to their weaponry. Interestingly, one of their lines is "She...", which may be reffering to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md)
+
 -   The Shattered Katana of the Semblance being called the Shade could be a reference to Shadow Fight 2. **(Needs Confirmation)**

@@ -1,6 +1,6 @@
 ---
 title: Dwelling Charm
-revid: 116670
+revid: 137827
 source: https://deepwoken.fandom.com/wiki/Dwelling_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Items]
@@ -27,3 +27,4 @@ A Dwelling Charm allows you to summon your [Guild Base](Guild_Bases.md) ten time
 ## Trivia
 
 -   The physical model is a white tag with red, unreadable lettering on it. We do not know if this is a real language or a made-up one.
+-   Allows a void walker actively on the hunt to place their guild base even while under the effects of the grasp of eylis unlike the chime of dwelling

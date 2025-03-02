@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 121694
+revid: 137828
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Guilds, Items]
@@ -31,6 +31,7 @@ The Chime of Dwelling does not work in or under the following:
 -   [Boatman's Watch](<Boatman's_Watch.md>) and other [Voidsea](Voidsea.md) areas
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
 -   The Interstice ([Dimensional Travel](Dimensional_Travel.md))
+-   When under the effects of Grasp of Eylis as a void walker (actively hunting a player)
 
 The Guild Base Layout
 
