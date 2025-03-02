@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 136646
+revid: 137802
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -22,7 +22,7 @@ The Dread Serpent appears as a long, gray serpent-like dragon possessing four ho
 
 Upon defeat, a purple orb flutters toward the player, granting [Murmur: Ardour](Murmur%253A_Ardour.md). You must hit him at least once to obtain the Murmur. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Murmur.
 
-Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur%253A_Ardour.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown. A Dread Serpent is also responsible for the sinking of the Petra's Dawn, the first boat to cross the Voidsea without the help of a Lightkeeper's Gift. The background information concerning the Dread Serpent is derived mainly from the lore book titled _[Lumen's Folklore: Volume 'North'.](Books.md)_
+Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur%253A_Ardour.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown. A Dread Serpent is also responsible for the sinking of the Petra's Dawn, the first boat to cross the Voidsea without the help of a Lightkeeper's Gift. The background information concerning the Dread Serpent is derived mainly from the lore book titled _[Lumen's Folklore: Volume 'North'.](Books.md#lumens-folklore-volume-north)_
 
 ## Attacks
 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 137685
+revid: 137804
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -213,7 +213,7 @@ Once you face death in The Depths and your health goes down to 0%, if you have m
 -   **You will be healed to 100%.**
 -   **Your Blood, Thirst and Hunger meters will be replenished.**
 -   **Your [Sanity](Insanity.md) will be fully replenished**
--   **Finally, a hand of 3 cards will appear before you, with each card providing their name, rarity, and a brief description of what they do.** Deep magenta cards indicate a **Corrupted Resonance**, light gold cards are **Legendary**, while light lavender cards are **Drowned**.
+-   **Finally, a hand of 3 cards (4 if you have [Oscillator](Regalia.md)) will appear before you, with each card providing their name, rarity, and a brief description of what they do.** Deep magenta cards indicate a **Corrupted Resonance**, light gold cards are **Legendary**, while light lavender cards are **Drowned**.
 
 Once you select your card, using C will activate your **Resonance**.
 
@@ -235,11 +235,12 @@ The draw consists of four cards, three of which are selected randomly (identical
 
 -   If your current **Resonance** isn't a **Corrupted Resonance**, the fourth card has a chance of being **Corrupted**. If your current **Resonance** _is_ a **Corrupted Resonance**, the fourth card will always be a _non-corrupted_ version of your **Resonance** with an extra fifth card of your **Corrupted Resonance** alongside it.
 
-This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear the _Tarnished_ flaw and returns your resonance to normal.
+This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear the _Tarnished_ flaw and will return your resonance to normal. You can also just buy the [Soul Plasticity](Echoes.md) echoes upgrade, as this disables the ability to have a tarnished bell altogether.
 
--   One can visit [Yamaketzal](Yamaketzal.md) to removes the _Tarnished_ [Flaw](Boons_and_Flaws.md), without gaining a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does grant a wish, but it does not allow to reroll by talking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
--   Otherwise, [Misérables](Misérables.md) will remove the _Tarnished_ [Flaw](Boons_and_Flaws.md) or, if chosen through dialogue, grant the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+-   One can visit [Yamaketzal](Yamaketzal.md) to remove the _Tarnished_ [Flaw](Boons_and_Flaws.md), without gaining a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does grant a wish, but it does not allow a reroll via talking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+-   Otherwise, [Misérables](Misérables.md) will remove the _Tarnished_ [Flaw](Boons_and_Flaws.md) f chosen through dialogue, which also grants the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 -   And recently, [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) can now untarnish your bell for **1 [knowledge](Knowledge.md)**, and is unlocked in Layer 2 Floor 2 after the library, more info [here](Carrion,_Father_of_Evolution.md).
+-   If you have the [Soul Plasticity](Echoes.md) echoes upgrade you won't be able to have a _Tarnished_ resonance.
 
 In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players will get one free wish from Yun'Shul every 3 levels.
 
@@ -261,6 +262,7 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   Arch Mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect resonance progression.
 -   If you reroll Corrupted Resonance or Drowned Resonance you will get 5 cards, 3 new Resonances, the corrupted bell you had (different variant & points) and the non corrupted bell version you had.
 -   Sometimes if you go **Boss Path**, the path can change into depths, meaning you will have to go to depths to progress bell.
+-   Bosses are the most efficient way to gain bell progression.
 
 ## References
 
