@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 136471
+revid: 137823
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -52,16 +52,15 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 
 -   [Weapons](Weapons.md) and [Equipment](Equipment.md) that are Enchanted, Soulbound, or event exclusive.
 -   [Enchant Stone](Enchant_Stone.md)
--   [Relics](Relics.md)
+-   [Relics](Relics.md) (Including Alloys)
 -   [Dye Packet](Dye_Packet.md)
 -   Monster parts required for [Monster Mantras](Monster_Mantras.md)
 
 #### Unstorable Items:
 
--   [Pluripotent Alloy](Pluripotent_Alloy.md)
 -   [Kyrsan Medallions (Itemized)](Kyrsan_Medallions.md)
 -   [Ardour Manifestation](Ardour_Manifestation.md)
--   [Void Feather(s)](Dark_Feather.md)
+-   [Void Feather(s)](Dark_Feather.md) (Craft it into 3 [Dark Feathers](Dark_Feather.md) then bank it instead)
 -   [Deepshore Fossil](Deepshore_Fossil.md)
 -   Tools (Repair Hammer, Glider, Etc.)
 -   Campfires (Store wood instead)

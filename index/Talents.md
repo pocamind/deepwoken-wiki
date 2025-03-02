@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137794
+revid: 137825
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -31,7 +31,7 @@ File:DeepwokenThumbnail.png
 
 ## Overview
 
-**Talents** are one of the fundamental aspects of _Deepwoken_ that define and differentiate your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. [Mantras](Mantras.md) are gained through the same means. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents called [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific and often perilous tasks, although only one of each can exist on your character at the same time.
+**Talents** are one of the fundamental aspects of _Deepwoken_ that define and differentiate your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. [Mantras](Mantras.md) are gained through the same means. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents like [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific and often perilous tasks, although only one of each can exist on your character at the same time.
 
 All Talents belong to a Talent category. A majority of Talents, including Mantras from Whisper Draws, can be given a higher chance to appear by talking to a [Mystic](Mystic.md) and selecting a quote corresponding to the Talent's category, which will only appear if you meet the requirements for a Talent from that category. **Rare Talents are NOT affected by Mystics, and categories containing only Rare Talents will not show their Mystic quote when talking to the NPC.**
 
@@ -1889,7 +1889,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
-    -   The scaling is 5% + IRONSING INVESTMENT\*0.05, meaning that you will have 8.75% damage reduction upon meeting the requirements for this Talent. (**TESTED DONT EDIT**)
+    -   The scaling is 5% + IRONSING INVESTMENT\*0.05, meaning that you will have 8.75% damage reduction upon meeting the requirements for this Talent.
     -   Prerequisite: 75 Ironsing
 
 ### Metamancer
@@ -2371,6 +2371,7 @@ _**"My cure is most effective."**_
     -   Extra 5% armor drain on flourish/crit, as example 2% from pulled out rod + Reshape and Remold applies bonus 5%
     -   Bonus armor drain works **ONLY ON CRIT OR FLOURISH**, not on further hits after that.
     -   5% DMG bonus currently bugged. (Since Summer 2023)
+    -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[4\]](#cite-note-4)
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
 ### Seeker of Sound
@@ -3495,3 +3496,4 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 1.  [↑](#cite-ref-1) File:Neuro.png
 2.  [↑](#cite-ref-2)
 3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
+4.  [↑](#cite-ref-4)

@@ -1,6 +1,6 @@
 ---
 title: Eastern Interstitial Lighthouse
-revid: 108047
+revid: 137815
 source: https://deepwoken.fandom.com/wiki/Eastern_Interstitial_Lighthouse
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -14,7 +14,7 @@ The only means of transportation to other Luminants. Without it, we may as well 
 
   
 
-**Eastern Interstitial Lighthouse** is a location in _Deepwoken_. It is found in the East Luminant, next to the [Starfield Veldt](Starfield_Veldt.md), and also in the Etrean Luminant, near [Minityrsa](Minityrsa.md) and the [Voidsea](Voidsea.md).
+**Eastern Interstitial Lighthouse** is a location in _Deepwoken_. It is found in the East Luminant, next to the [Starfield Veldt](Starfield_Veldt.md), and also in the Etrean Luminant, near [Minityrsa](Minityrsa.md) and the [Voidsea](Voidsea.md), as these are the same location across two servers.
 
 ## Overview
 

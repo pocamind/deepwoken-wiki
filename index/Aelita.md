@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 136911
+revid: 137816
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Oath Trainer, World Event, NPCs located in the Etrean Luminant]
@@ -10,7 +10,7 @@ categories: [Felinor NPCs, NPCs, Oath Trainer, World Event, NPCs located in the 
 
 | Aelita | |
 |---|---|
-| name | Aelita |
+| name | Aelita Arlekino |
 | aspect | Felinor |
 | location | Valley of Heroes (During Spring, Summer and Autumn) |
 
@@ -76,11 +76,10 @@ She is the twin sister of [Tillian](Tillian.md).
 -   [Silentheart](Oath%253A_Silentheart.md)'s can beat the game by using a move from one of their talents in place of a mantra.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair) Aelita's hair ID: 6536255505
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
--   Her outfit is the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md), but is currently pending a rework due to the misconduct of the original's creator.
+-   Her outfit was the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md), but has received a rework due to the misconduct of the original's creator.
 -   There is a glitch with this event that allows you to skip it and instantly spawns a chest allowing to beat this event even if you lack Mantras. Glitching Aelita will not make the event music stop.
 -   If killed by her during the Carnival of Hearts, she will use the “A Fearsome Enemy” tag.
 -   When she puts you in danger during the Carnival of Hearts, her tag is .aelita4693.
--   Her last name turns out to be Arlekino
 
 ## References
 
