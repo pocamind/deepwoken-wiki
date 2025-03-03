@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 137935
+revid: 137991
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -307,5 +307,6 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 
 -   When you are at a campfire, hovering over classes in your Talent list in-game shows you the Mystic prompt for it.
 -   The mystic uses the following outfits made by **SirAndrove2**:
+-   Mystics are exclusively Chrysids. Seemingly due to their connection with spirituality and religion, however there is one non-Chrysid mystic, being the one in [Saramaed's Hollow](Saramaed_Hollow.md).
 -   [https://www.roblox.com/catalog/6400450739/Nilfgaardian](https://www.roblox.com/catalog/6400450739/Nilfgaardian) - Shirt
 -   [https://www.roblox.com/catalog/6399954985/Nilfgaardian](https://www.roblox.com/catalog/6399954985/Nilfgaardian) - Pants

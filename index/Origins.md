@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 137666
+revid: 137988
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -91,9 +91,9 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 > 
 > ― Flavor Text
 
-**_Obtainment_:** On a single character, grip 5 players who are not allied with you (Chime of Conflict grips count, but only as '0.5' of a grip.) Afterwards, talk to Eiris- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble. You will be warped to the [Voidheart](Voidheart.md), where you need to talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) to receive the origin.
+**_Obtainment_:** On a single character, grip any 5 players. (Chime of Conflict grips count, but only as '0.5' of a grip.) Afterwards, talk to Eiris, who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option; which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble. You will be warped to the [Voidheart](Voidheart.md), where you need to talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) to receive the origin.
 
-**Voidwalker** grants players a PvP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PvE for EXP as well but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ innate Talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate Talent, which solidifies your connection to Eylis.
+**Voidwalker** grants players a PvP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PvE for EXP as well but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ Innate Talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate Talent, which solidifies your connection to Eylis.
 
 -   Grants the Knives of Eylis Talent "Voidwalker Contract"
     -   Your starting location is [The Voidheart](Voidheart.md).
@@ -105,7 +105,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.
     -   **\[PRO/CON\]** If your target runs too far away and is no longer in combat, or likewise if you get away from your target, you are brought back to the [Voidheart](Voidheart.md).
-    -   The are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
+    -   There are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
         -   **\[PRO\]** With the **Ferocity** option, your selected target will be highlighted in **red** through walls for a moment after you teleport, _so make sure to move your camera around quickly to spot the red highlight_.
         -   **\[CON\]** ...but you will gain a very obvious tentacle-whirring effect on your head that will alert your target of your immediate intentions, alongside a loud whirring sound effect that initially plays when you get teleported near your bounty.
         -   **\[PRO\]** With the **Stealth** option, you do not make a sound, do not receive the particle effects until you engage your target, and can approach players that are further away from Ferocity's range...
@@ -133,9 +133,9 @@ _**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) t
 
 Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by clearing out the [Summer Company guards](Summer_Company_Guard.md) found in Boiler Room of [Miner's Landing](<Miner's_Landing.md>), then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be noted that this doesn't mean that you need to do his quest twice!
 
-You can do Trial of One.
+You can do Trial of One as an Ignition Delver.
 
-**Ignition Deepdelver's** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the [Saramaed Hollow](Saramaed_Hollow.md) dungeon which can be done at lower powers (granted you stay on the earlier floors). They can also remotely accept jobs via their [Union Pager](Ignition_Delver.md), allowing them to quickly stack up jobs and EXP. Additionally, they can spawn at the [Chariot's Spire](<The_Chariot's_Spire.md>) in the depths if they wish.
+**Ignition Deepdelver's** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the [Saramaed Hollow](Saramaed_Hollow.md) dungeon which can be done at lower powers (granted you stay on the earlier floors). They can also remotely accept jobs via their [Union Pager](Ignition_Delver.md), allowing them to quickly stack up jobs and EXP. Additionally, they can spawn at the [Chariot's Spire](<The_Chariot's_Spire.md>) in the Depths if they wish.
 
 -   Your starting reputations are:
     -   Friend of The [Ignition Union](The_Ignition_Union.md) and [Lost Celtor](Lost_Celtor.md)
@@ -158,7 +158,7 @@ You can do Trial of One.
     -   **\[PRO\]** Useful for getting around Eastern Luminant
 -   **\[PRO\]** You regain sanity in [Chariot's Spire](<The_Chariot's_Spire.md>).
 -   **\[PRO\]** Grants the ability to use the [Hollow Forge](Hollow_Forge.md) in [Miner's Landing](<Miner's_Landing.md>) and [Chariot's Spire](<The_Chariot's_Spire.md>) to make [Smith Alloy](<Smith's_Alloy.md>) and [Armorer's Needles](<Armorer's_Needle.md>).
--   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished[\[1\]](#cite-note-1)
+-   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished.[\[1\]](#cite-note-1)
 
 ## Upcoming Origins
 
@@ -203,7 +203,7 @@ The following is speculation:
 -   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[2\]](#cite-note-2)
 -   With the Deepbound and Voidwalker origins having contract Talents to factions belonging to The Divers and The Knives of Eylis faction respectfully, keeping it in mind that they are origin exclusive justifying their unique features, it is likely the Hive origin (along with presumably the Authority) that they will also contain contract based Talents, which so far have seen a general trend of greatly increasing experience from one path of progression and reducing another path in exchange, it appears that they will contain this feature as well.
 -   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, (or unfortunately depending on who you are) this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you. However, in some cases, it is simply better to go Stealth in places where the outline from Ferocity would be too difficult to see anyways, such as Minitrysa.
--   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
+-   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have the Tutorial Origin. It doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
 -   Despite the Summer Company and the Ignition Union's rivalry, Summer Company NPCs won't react any differently if you are an Ignition Delver.
 

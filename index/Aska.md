@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 133427
+revid: 137992
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Weapons, Enemies, NPCs located in the First Floor of the Second Layer]
@@ -186,6 +186,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 ## Trivia
 
+-   His aspect is Capra, evidenced by the goat teeth near his mouth. However his variant is unknown, it is likely a unique one related to Flamecharm given the bones around his mouth are black which signifies scorching and his skin is orange which signifies flames.
 -   If you do not meet the requirements, you will _**wipe immediately**_. Be certain that you have met the requirements before initiating the fight.
 -   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does _not_ need to be equipped to initiate the fight, if you have Pleetsky's Will, which anyone can obtain by talking to [Ploom](Ploom.md).
 -   Aska is visibly missing an arm. During the fight with him, he creates a new one out of fire.

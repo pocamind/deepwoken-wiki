@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 137296
+revid: 137990
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -16,7 +16,7 @@ categories: [NPCs, Mechanics]
 
 ― Shrine of Order
 
-**If you're looking for another shrine return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
+**If you're looking for another shrine, return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
 
 ## Description
 
@@ -32,11 +32,11 @@ Located in:
 
 For 10 Knowledge, balance your stats (up to a limit\*), but gain a random Flaw. Can only be done once per character.
 
-**You need Power 8+ and no [Oath](../Oaths.md) to perform this deal.** (If you made a mistake and your sanity has crumbled, you may break the Oath to order yourself,)
+**You need Power 8+ and no [Oath](../Oaths.md) to perform this deal.** If you took an oath beforehand, you may break the Oath to order yourself. This has [consequences](https://deepwoken.fandom.com/wiki/Oaths#Oathbreaker_-_Oath_Removal) of its own, however.
 
 ### Details
 
--   The main purpose of the Shrine Of Order is allowing you to obtain expensive [Talents](../Talents.md) or [Mantras](../Mantras.md), to then take a portion of these points away to invest into other stats, allowing your builds to effectively have more points than intended.
+-   The main purpose of the Shrine of Order is allowing you to obtain expensive [Talents](../Talents.md) or [Mantras](../Mantras.md), to then take a portion of these points away to invest into other stats, allowing your builds to effectively have more points than intended.
 -   The stats that will be ordered are any of the stats that have at least 1 point invested in by the player. In the case of racial points, you need to invest 1 point (making it 3 or 4) for it to count.
 -   Certain Talents such as [Reinforced Armor](../Talents.md), [Alloyblood](../Talents.md), [All the Dead Gods](../Talents.md), and [Collapsed Lung](../Talents.md) become weaker the lesser the attributes are applied.
 -   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.

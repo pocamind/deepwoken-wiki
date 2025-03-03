@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 137251
+revid: 137984
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -30,7 +30,7 @@ According to [Yamaketzal](Yamaketzal.md), he is an amalgamation of souls dredged
 4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual. **You can dispose of any said previously used campfires by walking up to them and pressing B.**
 5.  A ring akin to [Teleportation Resonance](Teleportation.md) will appear, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
     -   Being combat tagged will prevent you from being teleported.
-6.  The Ferryman will spawn in the middle. Talk with him and initate the wager by completing his dialogue, if at any point you wish to back-out before fighting him, you may.
+6.  The Ferryman will spawn in the middle. Talk with him and initiate the wager by completing his dialogue, if at any point you wish to back-out before fighting him, you may.
 
 The Ferryman is a fairly easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 15+. His speed, damage, health, and Mantra potency will scale greatly depending on how many players are present in the dungeon, and as such it is recommended to fight him alone.
 
@@ -161,7 +161,7 @@ Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be l
 
 The Ferryman can prove a tough boss for new-comers, while being extremely easy for any repeat experiences, as he is the first major "Unique" enemy many players may encounter.
 
--   Campfires may prove incredibly helpful, as due to the Ferryman only attacking after either a prolonged period, or whenever he displaces himself, it's incredibly easy to rest and heal a bar of health with only two or three attacks parried.
+-   Please note that you may longer use campfires due to it now being a voidzone.
 -   Remain calm doing this boss, as the less hits you take, the more damage you will deal due to his Inverse Chain.
 -   His moves are all **INCREDIBLY** loud and telegraphed, turning up your volume will allow you to hear any attacks you may be unable to see. In almost all cases, the moments he grants the player an attack opportunity are telegraphed with a spin, although the duration will vary from attack to attack.
 -   Make sure to sell or store items in your inventory; You will be surprised how much the speed debuff of being overencumbered can hurt.

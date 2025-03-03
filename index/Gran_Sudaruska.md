@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 137573
+revid: 137993
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -68,11 +68,10 @@ The critical attack has a cooldown of **10 seconds**
         -   Other instances—"Become memories, pawn.", "As I thought... Weak.", "Break, fragile pawn."—are all close to what he says.
 -   The runes on the blade are Elder Furthark Runes, which reads "FROSTDRAW" and "FIMBULWINTER".
     -   Fimbulwinter is a harsh winter that preludes Ragnarök in Norse mythology.
--   Contractors may not use the Gran Sudaruska, due to the fact the soul of the woman who occupies it hates the Ministry.
-    -   When trying to equip the weapon as a Contractor, the game will state "The weapon rejects your very soul, the antithesis to your ideals."
-    -   You can however, equip her before obtaining Contractor, just don't unequip her after obtainment or you won't be able to re-equip her.
+-   When trying to equip the weapon as a [Contractor](Oath%253A_Contractor.md), the game will state "The weapon rejects your very soul, the antithesis to your ideals." This is due to the fact that the soul of Sudaruska, the woman who occupies the weapon, hates the Ministry.
+    -   You can however, equip her before obtaining Contractor. Unequipping afterwards will make it impossible to equip her once more until you oathbreak Contractor or equip her as a new character.
 -   The critical works with Meteor Impact.
--   The critical tps you to the person who used the crit.
+-   The critical teleports you to the person who used the crit.
 -   Gran Sudaruska used to have a Power requirement of 3, although it was impossible to meet the other requirements within Power 3.
 -   Gran Sudaruska could be used one handed even if the One Handed Training Talent was not obtained prior to its removal.
 -   Gran Sudaruska's Critical attack used to only be a spherical hitbox infront of the player, however on the July 5th 2024 update, this was instead changed to be a 360 hitbox around the player.

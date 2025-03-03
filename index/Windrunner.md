@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 131763
+revid: 137983
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pages with broken file links, NPCs, Talents, NPCs located in the Etrean Luminant]
@@ -54,3 +54,4 @@ _"If you value your life, you will run. I can tell you are fast, run far from th
 
 -   In his dialogue, he talks about "_The Contractor that resides within the Palace_" (likely the [Lord Regent](The_Lord_Regent.md)) and "_the Warmaster in his Fortress_" (likely Warden Jericho or Drallis Ehr). He then says "_Two men attempting to keep an Oath... Which oath is right?_".
 -   He has green eyes.
+-   The Windrunner in name is likely a reference to the _[Order of Windrunners](https://coppermind.net/wiki/Order_of_Windrunners)_ from the _Stormlight Archives_ given other inspirations from the novels prevalent in Deepwoken_._[\[1\]](https://coppermind.net/wiki/Order_of_Windrunners)
