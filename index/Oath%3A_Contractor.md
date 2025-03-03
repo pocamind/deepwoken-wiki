@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 136292
+revid: 137850
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -71,7 +71,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   Pulls together any two opponents you've attached Hidden Tendril to.
 
 -   **Judgement - Combat Mantra**
-    -   Summon a black casting circle before envelopinga humanoid target in tendrils and tearing them apart. The target is unable to move or act during the animation.
+    -   Summon a black casting circle before enveloping a humanoid target in tendrils and tearing them apart. The target is unable to move or act during the animation.
         -   Applies Hidden Tendril.
         -   The target gains invincibility frames while active.
         -   **Instantly executes** if it brings the target's HP to 0 or used on a knocked target.

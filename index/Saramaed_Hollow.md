@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 136693
+revid: 137852
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -142,7 +142,7 @@ Exhaustive Loot Table
     <li><b>Legendary Legs</b>: <a href="Abyss_Wanderer's_Boots.md"><font>Abyss Wanderer's Boots</font></a>.</li>
     <li><b>Generic Legs</b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a> <a href="Star_Boots.md">Star Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Vanguard_Boots.md">Vanguard Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, Scarf (All Variants).</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>,<a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>, <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, Scarf (All Variants).</li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), Duelist's Mask, <a href="Headband.md">Headband</a> (All Variants), <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>.</li>
     <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>.</li>
     <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
