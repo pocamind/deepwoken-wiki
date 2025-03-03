@@ -1,9 +1,9 @@
 ---
 title: Lucy
-revid: 130933
+revid: 137921
 source: https://deepwoken.fandom.com/wiki/Lucy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the First Layer]
+categories: [Canor NPCs, NPCs, NPCs located in the First Layer]
 ---
 
 # Lucy
@@ -11,6 +11,7 @@ categories: [NPCs, NPCs located in the First Layer]
 | Lucy | |
 |---|---|
 | name | Lucy |
+| aspect | Canor |
 | location | The City of the Drowned |
 
 ## Description

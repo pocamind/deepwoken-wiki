@@ -1,6 +1,6 @@
 ---
 title: Deep Angel
-revid: 109697
+revid: 137893
 source: https://deepwoken.fandom.com/wiki/Deep_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Enemies that can wield Enchantments]

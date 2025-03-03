@@ -1,9 +1,9 @@
 ---
 title: Sarkale
-revid: 102621
+revid: 137950
 source: https://deepwoken.fandom.com/wiki/Sarkale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 1]
+categories: [Khan NPCs, NPCs, Layer 2, Floor 1]
 ---
 
 # Sarkale
@@ -11,6 +11,7 @@ categories: [NPCs, Layer 2, Floor 1]
 | Sarkale | |
 |---|---|
 | name | Sarkale |
+| aspect | Khan |
 | location | Firfire Caverns |
 
 ## Description

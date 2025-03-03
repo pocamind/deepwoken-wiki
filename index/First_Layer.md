@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 137793
+revid: 137898
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -94,18 +94,18 @@ Some things add extra Difficulty Score:
 | 1-14 (est. [Power](Power.md) 1-4)\* | Nothing (you are sent up without a fight) |
 | 15-19 (est. [Power](Power.md) 5-6)\* | [Mudskipper Knight](Mudskipper_Knight.md) |
 | 20-29 (est. [Power](Power.md) 7-9)\* | [Lesser Angel](Hollow_Angel.md) |
-| 30-49 (est. [Power](Power.md) 10-16)\* | [Megalodaunt](Megalodaunt.md) (which can be Corrupted) |
+| 30-49 (est. [Power](Power.md) 10-16)\* | [Megalodaunt](Megalodaunt.md) (which can be Template:CorruptedColor) |
 | 50-79 (est. [Power](Power.md) 17-20)\* | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
+| 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Template:CorruptedColor) |
 | 5-8 players, one having a Difficulty Score of 60+ | [Heart of Enmity](Heart_of_Enmity.md) (Starting from the 9th player, they will get kicked out of the fight) |
 
 \*This is an estimation. Depending on your drowns and other factors, you could be facing worse enemies.
 
--   Some monster in Trials have a possibility of being corrupted.
--   Curiously, **any** monster can be corrupted if spawned in the trial, including enemies that can otherwise never be: [Bounders](Bounder.md), [Golems](Rock_Golem.md), [Brainsuckers](Brainsucker.md), etc. When this occurs, however, their AI will (probably) break. Exemplified in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
+-   Some monster in Trials have a possibility of being Template:CorruptedColor
+-   Curiously, **any** monster can be Template:CorruptedColor if spawned in the trial, including enemies that can otherwise never be: [Bounders](Bounder.md), [Golems](Rock_Golem.md), [Brainsuckers](Brainsucker.md), etc. When this occurs, however, their AI will (probably) break. Exemplified in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
 -   Any monster (excluding [Mudskipper Knights](Mudskipper_Knight.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
--   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** Corrupted.
-    -   This corrupted factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
+-   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** Template:CorruptedColor.
+    -   This Template:CorruptedColor factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a Template:CorruptedColor version of a trial monster before escaping the Depths.
         -   It is highly recommended to be wary of players in the cathedral's elevator.
         -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation. Note that leaving the server in the trial room will always teleport you to outside of the gate. In an unlikely but possible scenario, if the player has [Blindseer](Oath%253A_Blindseer.md) or [Rhythm](Murmur%253A_Rhythm.md) they can use it to detect any invisible players.
             -   Also note that all barrels despawn prior to reaching the top. Any barrel that remains is a player using [Disguise](Mime.md).

@@ -1,9 +1,9 @@
 ---
 title: Mystic
-revid: 135438
+revid: 137935
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Talents]
+categories: [Chrysid NPCs, NPCs, Talents]
 ---
 
 # Mystic
@@ -11,6 +11,7 @@ categories: [NPCs, Talents]
 | Mystic | |
 |---|---|
 | name | Mystic |
+| aspect | Chrysid |
 | location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing, Isle of Vigils, Guild Bases, Meteor Isle |
 
 **You can press "Ctrl + F" & "\[F3\]"(Windows) or "Cmd + F"(Mac) to search for prompts!**

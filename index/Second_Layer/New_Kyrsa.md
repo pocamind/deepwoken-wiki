@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 136690
+revid: 137862
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Layer 2, Floor 2, Dungeons]
@@ -117,6 +117,7 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 -   Do **NOT** enter random buildings, as they may be a trap-room which will lead to a **swift death**.
 -   Sliding on ROBLOX Smooth Terrain is risky, as it can take you down into the void unintentionally, and as such, should be done sparingly.
 -   Bring as many people as you wish, as the Scion's health does **not** increase proportionally to players.
+-   Avoid fighting multiple Kyrsagsrde unless you have Brick Wall. Engaging a group of them without knowing how to fight them can leave you trapped in an endless stun lock, likely leading to a wipe.
 
 ## Trivia
 

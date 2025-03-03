@@ -1,9 +1,9 @@
 ---
 title: Mendacia
-revid: 120723
+revid: 137924
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Lore, Layer 2]
+categories: [Tiran NPCs, NPCs, Quests, Lore, Layer 2]
 ---
 
 # Mendacia
@@ -11,6 +11,7 @@ categories: [NPCs, Quests, Lore, Layer 2]
 | Mendacia | |
 |---|---|
 | name | Mendacia, Voice of Ethiron |
+| aspect | Tiran |
 
 ## Description
 

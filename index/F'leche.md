@@ -1,9 +1,9 @@
 ---
 title: "F'leche"
-revid: 136855
+revid: 137879
 source: https://deepwoken.fandom.com/wiki/F'leche
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Tiran NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # F'leche
@@ -11,6 +11,7 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 | F'leche | |
 |---|---|
 | name | F'leche |
+| aspect | Tiran |
 | location | New Kyrsa, The Sleeping City |
 
 ## Description

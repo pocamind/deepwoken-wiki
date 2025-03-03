@@ -1,9 +1,9 @@
 ---
 title: Laplace
-revid: 111124
+revid: 137918
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Hive]
+categories: [Ganymede NPCs, NPCs, The Hive]
 ---
 
 # Laplace
@@ -11,6 +11,7 @@ categories: [NPCs, The Hive]
 | Laplace | |
 |---|---|
 | name | Laplace Diri |
+| aspect | Ganymede |
 | location | Greathive Aratel |
 
 ## Description

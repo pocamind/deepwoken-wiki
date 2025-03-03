@@ -1,9 +1,9 @@
 ---
 title: Plath
-revid: 130965
+revid: 137942
 source: https://deepwoken.fandom.com/wiki/Plath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Celtor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Plath
@@ -11,6 +11,7 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 | Plath | |
 |---|---|
 | name | Plath |
+| aspect | Celtor |
 | location | Kyrsan Wilds |
 
 ## Description

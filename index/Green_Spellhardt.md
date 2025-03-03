@@ -1,9 +1,9 @@
 ---
 title: Green Spellhardt
-revid: 120413
+revid: 137903
 source: https://deepwoken.fandom.com/wiki/Green_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Hallowtide]
+categories: [Lightborn NPCs, NPCs, Hallowtide]
 ---
 
 # Green Spellhardt
@@ -11,6 +11,7 @@ categories: [NPCs, Hallowtide]
 | Green | |
 |---|---|
 | name | Green |
+| aspect | Lightborn |
 | location | The Floating Keep |
 
 ## Description

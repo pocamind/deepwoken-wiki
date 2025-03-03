@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 117436
+revid: 137949
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,6 +10,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Rook Rethige | |
 |---|---|
 | name | Rook Rethige |
+| aspect | Greater Navaran |
 
 ## Description
 

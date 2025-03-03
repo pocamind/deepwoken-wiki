@@ -1,9 +1,9 @@
 ---
 title: Exter
-revid: 130874
+revid: 137878
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant]
+categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Exter
@@ -11,6 +11,7 @@ categories: [NPCs, NPCs located in the Eastern Luminant]
 | Exter | |
 |---|---|
 | name | Exter |
+| aspect | Gremor |
 | location | Meteor Isle |
 
 ## Description

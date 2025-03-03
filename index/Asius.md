@@ -1,6 +1,6 @@
 ---
 title: Asius
-revid: 135363
+revid: 137868
 source: https://deepwoken.fandom.com/wiki/Asius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Asius | |
 |---|---|
 | name | Asius |
+| aspect | Adret |
 | location | Summer Isle |
 
 “ Hey get away, I don't want any attention over here. ”

@@ -1,8 +1,9 @@
 ---
 title: Deran
-revid: 120310
+revid: 137872
 source: https://deepwoken.fandom.com/wiki/Deran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Khan NPCs]
 ---
 
 # Deran
@@ -10,6 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Deran | |
 |---|---|
 | name | Deran |
+| aspect | Khan |
 | location | The Chariot's Spire |
 
 ## Description

@@ -1,9 +1,9 @@
 ---
 title: Neero
-revid: 108091
+revid: 137938
 source: https://deepwoken.fandom.com/wiki/Neero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Lore]
+categories: [Celtor NPCs, NPCs, Lore]
 ---
 
 # Neero
@@ -11,6 +11,7 @@ categories: [NPCs, Lore]
 | Neero | |
 |---|---|
 | name | Neero |
+| aspect | Celtor |
 | location | Temple of the Forgotten Flame |
 
 “ Our job is to make sense of the world left behind in these time-adjacent places. Well, at least for us historian types, not so much the looters. ”

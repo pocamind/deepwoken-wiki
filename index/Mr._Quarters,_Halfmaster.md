@@ -1,9 +1,9 @@
 ---
 title: "Mr. Quarters, Halfmaster"
-revid: 112534
+revid: 137927
 source: https://deepwoken.fandom.com/wiki/Mr._Quarters%2C_Halfmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Adret NPCs, NPCs]
 ---
 
 # Mr. Quarters, Halfmaster
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Mr. Quarters, Halfmaster | |
 |---|---|
 | name | Mr. Quarters, Halfmaster |
+| aspect | Adret |
 | location | The Scoundrel's Bounty |
 
 ## Description

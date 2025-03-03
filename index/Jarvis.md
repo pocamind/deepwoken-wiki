@@ -1,9 +1,9 @@
 ---
 title: Jarvis
-revid: 135384
+revid: 137905
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [Etrean NPCs, NPCs, Mechanics]
 ---
 
 # Jarvis
@@ -11,6 +11,7 @@ categories: [NPCs, Mechanics]
 | Jarvis | |
 |---|---|
 | name | Jarvis |
+| aspect | Etrean |
 | location | Summer Isle |
 
 ## Description

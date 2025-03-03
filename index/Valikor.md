@@ -1,9 +1,9 @@
 ---
 title: Valikor
-revid: 135420
+revid: 137960
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Talents, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, NPCs, Talents, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Valikor
@@ -11,6 +11,7 @@ categories: [NPCs, Talents, Etrea, NPCs located in the Etrean Luminant]
 | Valikor | |
 |---|---|
 | name | Valikor |
+| aspect | Etrean |
 | location | Isle of Vigils library |
 
 “ There is no such thing as a bright future for you. You will suffer under my fist, disrespectful swine. ”

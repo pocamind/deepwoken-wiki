@@ -1,9 +1,9 @@
 ---
 title: Gild
-revid: 133436
+revid: 137887
 source: https://deepwoken.fandom.com/wiki/Gild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, NPCs located in the First Layer]
+categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the First Layer]
 ---
 
 # Gild
@@ -11,6 +11,7 @@ categories: [Pages with broken file links, NPCs, NPCs located in the First Layer
 | Gild | |
 |---|---|
 | name | Gild |
+| aspect | Celtor |
 | location | Varicosa District, First Layer |
 
 ## Description

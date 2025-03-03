@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 137631
+revid: 137859
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1302,6 +1302,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 | File:Parasolplanter.png | 

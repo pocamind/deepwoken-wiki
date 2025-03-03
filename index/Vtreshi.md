@@ -1,9 +1,9 @@
 ---
 title: Vtreshi
-revid: 130997
+revid: 137963
 source: https://deepwoken.fandom.com/wiki/Vtreshi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Etrean NPCs, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Vtreshi
@@ -11,6 +11,7 @@ categories: [NPCs, NPCs located in the First Floor of the Second Layer]
 | Vtreshi | |
 |---|---|
 | name | Vtreshi |
+| aspect | Etrean |
 | location | Ethironal Shrine Sanctuary |
 
 ## Description

@@ -1,9 +1,9 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 124216
+revid: 137906
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Lore, Layer 2, Floor 2]
+categories: [Lightborn NPCs, NPCs, Lore, Layer 2, Floor 2]
 ---
 
 # Kaide, the Drowned Light
@@ -11,6 +11,7 @@ categories: [NPCs, Lore, Layer 2, Floor 2]
 | Kaide, the Drowned Light | |
 |---|---|
 | name | Kaide, The Drowned Light |
+| aspect | Lightborn |
 | location | New Kyrsa, The Sleeping City |
 
 ## Description

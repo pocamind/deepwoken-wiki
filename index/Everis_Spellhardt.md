@@ -1,6 +1,6 @@
 ---
 title: Everis Spellhardt
-revid: 120412
+revid: 137877
 source: https://deepwoken.fandom.com/wiki/Everis_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -11,6 +11,7 @@ categories: [NPCs, Hallowtide]
 | Everis Spellhardt | |
 |---|---|
 | name | Everis |
+| aspect | Lightborn |
 | location | The Floating Keep |
 
 ## Description

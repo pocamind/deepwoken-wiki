@@ -1,6 +1,6 @@
 ---
 title: Erosius Amaltus Urivortus Alistus Casius Walistoshus
-revid: 136271
+revid: 137876
 source: https://deepwoken.fandom.com/wiki/Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, NPCs located in the First Floor of the Second Layer]
@@ -11,6 +11,7 @@ categories: [NPCs, Quests, NPCs located in the First Floor of the Second Layer]
 | Erosius Amaltus Urivortus Alistus Casius Walistoshus | |
 |---|---|
 | name | Erosius Amaltus Urivortus Alistus Casius Walistoshus |
+| aspect | Kyrsan |
 | location | Firfire |
 
 “ Oh, a Fringewalker? Faer fraeum hoeame, are we? ”

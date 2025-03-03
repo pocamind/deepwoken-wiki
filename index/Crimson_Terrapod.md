@@ -1,6 +1,6 @@
 ---
 title: Crimson Terrapod
-revid: 106280
+revid: 137891
 source: https://deepwoken.fandom.com/wiki/Crimson_Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

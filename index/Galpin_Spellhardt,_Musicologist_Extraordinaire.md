@@ -1,9 +1,9 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 130636
+revid: 137886
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Hallowtide]
+categories: [Lightborn NPCs, NPCs, Hallowtide]
 ---
 
 # Galpin Spellhardt, Musicologist Extraordinaire
@@ -11,6 +11,7 @@ categories: [NPCs, Hallowtide]
 | Galpin Spellhardt | |
 |---|---|
 | name | Galpin Spellhardt, Musicologist Extraordinaire |
+| aspect | Lightborn |
 | location | The Floating Keep |
 
 ## Description

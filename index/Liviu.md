@@ -1,9 +1,9 @@
 ---
 title: Liviu
-revid: 116746
+revid: 137920
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Chrysid NPCs, NPCs]
 ---
 
 # Liviu
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Liviu | |
 |---|---|
 | name | Liviu |
+| aspect | Chrysid |
 | location | Greathive Aratel Library |
 
 A [Chrysid](Chrysid.md) lore NPC located in the Library at [Greathive Aratel](Greathive_Aratel.md), next to the mystic. Seeming to be involved with world around them as they talk a lot about the "Acolyte" and how they're watched to at least "seem busy.

@@ -1,9 +1,9 @@
 ---
 title: Nimea
-revid: 111211
+revid: 137940
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Lore]
+categories: [Etrean NPCs, NPCs, Lore]
 ---
 
 # Nimea
@@ -11,6 +11,7 @@ categories: [NPCs, Lore]
 | Nimea | |
 |---|---|
 | name | Nimea |
+| aspect | Etrean |
 | location | The Hidden Village |
 
 “ Light is to Void as Paint is to a Canvas- it draws out substance. ”

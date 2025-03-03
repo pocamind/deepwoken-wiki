@@ -1,9 +1,9 @@
 ---
 title: Ivory
-revid: 111610
+revid: 137904
 source: https://deepwoken.fandom.com/wiki/Ivory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Celtor NPCs, NPCs]
 ---
 
 # Ivory
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Ivory | |
 |---|---|
 | name | Ivory |
+| aspect | Celtor |
 | location | Pathfinder's Respite |
 
 ## Description

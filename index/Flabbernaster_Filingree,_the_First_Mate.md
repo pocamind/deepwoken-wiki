@@ -1,9 +1,9 @@
 ---
 title: "Flabbernaster Filingree, the First Mate"
-revid: 116822
+revid: 137882
 source: https://deepwoken.fandom.com/wiki/Flabbernaster_Filingree%2C_the_First_Mate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Gremor NPCs, NPCs]
 ---
 
 # Flabbernaster Filingree, the First Mate
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Flabbernaster Filingree, the First Mate | |
 |---|---|
 | name | Flabbernaster Filingree, the First Mate |
+| aspect | Gremor |
 | location | The Scoundrel's Bounty |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 136802
+revid: 137881
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Floor 2, Layer 2, Quests]
@@ -11,6 +11,7 @@ categories: [NPCs, Floor 2, Layer 2, Quests]
 | Frosviernr Joraelnaero | |
 |---|---|
 | name | Frosviernr Jorealnaero |
+| aspect | Kyrsan |
 | location | New Kyrsa |
 
 “ ...My brother could fashion the finest spears of frost infinitely more elegant than the conjured weaponry of our contemporarys. ”

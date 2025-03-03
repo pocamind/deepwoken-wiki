@@ -1,9 +1,9 @@
 ---
 title: Kasen
-revid: 130907
+revid: 137909
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer]
+categories: [Capra NPCs, NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Kasen
@@ -11,6 +11,7 @@ categories: [NPCs, Quests, Talents, NPCs located in the First Floor of the Secon
 | Kasen | |
 |---|---|
 | name | Kasen |
+| aspect | Capra |
 | location | Ethironal Shrine Outskirts |
 
 ## Description

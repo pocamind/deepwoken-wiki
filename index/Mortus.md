@@ -1,9 +1,9 @@
 ---
 title: Mortus
-revid: 122236
+revid: 137926
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Capra NPCs, NPCs]
 ---
 
 # Mortus
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Mortus | |
 |---|---|
 | name | Mortus |
+| aspect | Capra |
 | location | Fishing Hut, near Erisia |
 
 **Mortus** is a Capra with gray hair that wears the [Corsair Outlaw](Corsair_Outlaw.md) Outfit.

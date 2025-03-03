@@ -1,9 +1,9 @@
 ---
 title: Serendi
-revid: 116821
+revid: 137951
 source: https://deepwoken.fandom.com/wiki/Serendi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Etrean NPCs, NPCs]
 ---
 
 # Serendi
@@ -11,6 +11,7 @@ categories: [NPCs]
 | Serendi | |
 |---|---|
 | name | Serendi |
+| aspect | Etrean |
 | location | The Scoundrel's Bounty |
 
 ## Description
