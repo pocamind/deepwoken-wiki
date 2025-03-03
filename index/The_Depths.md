@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 137803
+revid: 137975
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map, The Depths]
@@ -18,7 +18,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
 The Depths is a purgatory to all the Drowned, and home to the [sea monsters](Monsters.md) dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying within the Depths will kill your character for good, sending you to the [Fragment of Self](Fragments_of_Self.md) where you are able to either revive yourself, or completely wipe your character, forcing you to start all over again from [Power](Power.md) 1.
 
-Returning to the overworld (Layer 0) is possible through the depths. If you are skilled enough to face the threats that you meet when entering the bastion, based on the players level and the amount times you've drowned, it will give you the appropriate mob to challenge you for your freedom. Levels 1-3 face no threat when attempting escape, levels 4-6 face a Mudskipper knight, levels 7-9 face an angel, levels 10-16 face sharks (megalodaunt) and levels 17-20 face the enforcer. (Having more players will increase the number of mobs you face every one player.)
+Returning to the overworld (Layer 0) is possible through the depths. If you are skilled enough to face the threats that you meet when entering the bastion, based on the players level and the amount times you've drowned, it will give you the appropriate mob to challenge you for your freedom. Levels 1-3 face no threat when attempting escape, levels 4-6 face a Mudskipper knight, levels 7-9 face an angel, levels 10-16 face sharks (megalodaunt) and levels 17-20 face the enforcer. (Having more players will increase the number of mobs you face every one player.) (its sekmer324 i know im noname in the fandom BUT i got squid in escaping trials AS A POWER 11)
 
 Despite being a resting place for souls, the Depths is a physical location in the world of _Deepwoken_. It can be reached through cavern systems and just swimming to the bottom of the ocean. It has its own ecosystem and is able to support the bizarre marine life that inhabits it. When dying in water, the player's corpse actually sinks to the Depths. Though seemingly underwater and at the bottom of the ocean, with people down there even releasing bubbles when they breathe, you cannot drown or swim. The animals have also evolved more akin to land animals, such as [Megalodaunts](Megalodaunt.md) becoming better runners and jumpers but sacrificing their ability to swim well.
 
