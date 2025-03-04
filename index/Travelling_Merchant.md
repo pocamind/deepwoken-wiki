@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 138324
+revid: 138358
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -114,6 +114,7 @@ The prices of Chili's items may vary from price to price.
 
 Chili's Ship
 
+-   You can place a guild base here to get some notes from you're Bank.
 -   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
 -   Despite being a shield, [The Path's Defender](<The_Path's_Defender.md>) is registered as a main weapon when being bought from Chili.[\[1\]](#cite-note-1)

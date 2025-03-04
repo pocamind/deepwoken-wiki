@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 137730
+revid: 138360
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -135,7 +135,7 @@ Text
 
 [Text](Announcements.md) 
 
--   _Learning the [Way of Navae](Way_of_Navae.md), [Jus Karita](Jus_Karita.md), and [Legion Kata](Legion_Kata.md) fighting styles on a character will unlock that combat style as an option on all slot, and for the next characters._
+-   _Learning the [Way of Navae](Way_of_Navae.md), [Jus Karita](Jus_Karita.md), [Legion Kata](Legion_Kata.md), and [Fang and Coil](Fang_and_Coil.md) fighting styles on a character will unlock that combat style as an option on all slot, and for the next characters._
 -   _Using 25 [Echoes](Echoes.md)_ _(each, 100 total)_ _unlocks the four new starting weapons shown above._
 
 ## Boons and Flaws
@@ -213,7 +213,9 @@ Here is what makes the [Voidwalker Origin](Origins.md#voidwalker) unique:
 -   Gain innate [Talent](Talents.md) 'Voidwalker Contract'
     -   Increased EXP gain from Bounties, but reduced EXP gain from Events.
     -   You start with negative reputation towards most factions.
--   Gain innate [Talent](Talents.md) 'Grasp of Eylis'
+-   Gain innate [Talent](Talents.md) 'Grasp of Eylis' with two Options to hunt your prey. With Ferocity or with Stealth
+-   With Ferocity you see your bounty through walls and your arrival is evidenced with a sound cue.
+-   With Stealth you spawn but you cant your see your bounty through walls,but your arrival is silent. This is meant to sneak up to your prey.
     -   Using the Talent allows you to teleport to a [bounty target](Bounty_Hunting.md) you have claimed.
     -   If they flee too far from you, or they log, you are sent back to the [Voidheart](Voidheart.md).
     -   You gain the ability to see your target through walls momentarily.
