@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 137795
+revid: 138301
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -163,7 +163,7 @@ Metal + Slash
 
 **Effect:** _Jump into the air before throwing out 3 projectiles towards the location of the cursor._
 
--   Deals total 28.7 (4.1\*7) DMG, 0.8s windup, 16s CD at 5 lvl.
+-   Deals total 28.7 (4.1\*7) DMG, 0.8s windup, 12s CD at 5 lvl.
 -   With 6 songchant deals 27.36 (4.56\*6) DMG
 -   Has 9.18x PVE Scale (24.6 DMG PVP, 225.84 DMG PVE)
 -   Inconsistent tracking and wind up.
@@ -369,7 +369,7 @@ Metal + Slash + Bleed
 
 **Effect:** _Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target._
 
--   Deals 58.5 (45 + 13.5 Bleed) DMG, 12 posture, 0.7s wind up, 12s CD at 5 lvl.
+-   Deals 58.5 (45 + 13.5 Bleed) DMG, 12 posture, 0.6s wind up, 12s CD at 5 lvl.
 -   With 6 songchant deals 65.77 (50.59+15.18 Bleed) DMG
 -   Has 9.27x PVE scale (45 DMG + 13.5 Bleed in PVP, 417.21 + 125.16 Bleed in PVE)
 -   Applies Metal Rod on hit.

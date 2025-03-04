@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 133473
+revid: 138299
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -28,7 +28,7 @@ categories: [Weapons, Fists, Fighting Styles]
 
 Way of Navae is a martial arts-based fighting style obtained by rescuing a Nomad from [Erisia](Erisia.md) or [Fort Merit](Fort_Merit.md), or by speaking to an [Eastern Tribal Leader](Eastern_Nomad_Leader.md) while having high positive reputation with the Children of Navae. While sharing the same statistics as [Legion Kata](Legion_Kata.md), they differ in M1 animations, stances and critical attacks.
 
-While Way of Navae has the same damage as **Legion Kata**, the critical possesses more range and is able to instantly guard break if the opponent fails to parry it. While the windup for the critical is longer, this is a great mix up when using your normal M1's which is what usually leads to guard breaks. This is quite useful against NPCs, especially [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Enforcer](Enforcer.md).
+While Way of Navae has the same damage as **Legion Kata**, the critical possesses more range and is able to instantly guard break if the opponent fails to parry it. While the windup for the critical is longer, this is a great mix up when using your normal M1's which is what usually leads to guard breaks.
 
 **After unlocking Way of Navae, you can choose it as your starter weapon in the character menu**. Once you unlock Way of Navae, it is available on all slots.
 

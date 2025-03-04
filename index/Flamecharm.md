@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 137826
+revid: 138304
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -312,7 +312,7 @@ Fire
 
 **Effect:** User charges up releases an explosion of flames around them.
 
--   Deals 30.6 (34.08 with 6 songchant) DMG, 15 posture, 15s CD.
+-   Deals 30.6 (34.08 with 6 songchant) DMG, 15 posture, 0.7s windup, 15s CD.
 -   Spring Spark deals 50.4 (20.05+28.35), 53.23 (22.63 + 30.67 with 6 songchant), 16 (6+10) posture.
 -   If hit, reduces damage taken by 75% and reflects it back, increasing base mantra damage based on damage taken. Can reflect fall damage.
 -   Knocks enemies back.

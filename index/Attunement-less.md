@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 137585
+revid: 138302
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1712,7 +1712,7 @@ Slash
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
 -   After the cooldown of Punishment, activating it again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish), that affects everyone nearby.
--   Deals damage based off damage absorbed, parryable.
+-   Deals damage based off damage absorbed, 0.35s windup, parryable.
 
  |
 

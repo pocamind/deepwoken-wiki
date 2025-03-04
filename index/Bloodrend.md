@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 138283
+revid: 138298
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -278,6 +278,8 @@ Blood
 -   With 6 songchant 59.9 (11.98\*5) DMG
 -   Has 2.7x PVE scale (53.8 DMG PVP, 145.3 PVE)
 -   Leaves behind a Blood Pool.
+-   Every level adds a blood stake (6 at max lv)
+-   Posture DMG and DMG scales with blood pools
 -   7 blood pools should be enough to blockbreak (needs testing)
 
  |
@@ -1329,6 +1331,7 @@ N/A
 
 ## Trivia
 
+-   **WARNING** ONCE 6 BLOOD POOLS ARE PLACED THEY WILL QUICKLY DISSAPATE
 -   Blood Poison is a stacking effect that is applied on the blood bar. **It does not replace blood**, simply overlay itself on top of it.
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
     -   20% - _Vasculitis_ Talent is Activatable

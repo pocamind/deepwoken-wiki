@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 138205
+revid: 138303
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -420,7 +420,10 @@ Shadow
 
 **Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and Ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit._ "Hit em with a scream!"
 
--   Deals 86.08 (10.76\*8) DMG, 28 (3.5\*8) posture, 16s CD.
+-   Deals 86.08 (10.76\*8) DMG, 28 (3.5\*8) posture, 0.6s windup,
+
+16s CD.
+
 -   With 6 songchant 95.84 (11.98\*8) DMG
 -   Has 9.183x PVE scale (10.76 PVP DMG, 98.81 PVE)
 
@@ -611,7 +614,7 @@ Shadow + Slash
 
 **Effect:** _The user will summon shadows around their target and teleport to them after a short wait._
 
--   Deals 35.88 (39.94 with 6 songchant) DMG, 6.5 posture, 10s CD at 5 lvl
+-   Deals 35.88 (39.94 with 6 songchant) DMG, 6.5 posture, 1s windup, 10s CD at 5 lvl
 -   Has 9.18x PVE scale (35.88 PVP DMG, 329.38 PVE DMG)
 -   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged

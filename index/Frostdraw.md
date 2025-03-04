@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 137711
+revid: 138306
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -107,7 +107,7 @@ Ice
 
 **Effect:** _Conjure a surrounding ring of 4 to 5 frozen servants that emit two blasts of frosty mist to the center._
 
--   Deals 33.48 (16.74\*2) DMG, 5.5 posture,10s CD. Blast spark deals 86 (21.5\*4) DMG, 5.5 posture, 10s CD.
+-   Deals 33.48 (16.74\*2) DMG, 5.5 posture,0.4s windup, 10s CD. Blast spark deals 86 (21.5\*4) DMG, 5.5 posture, 10s CD.
 -   With 6 songchant 37.28 (18.64\*2) and blast spark 95.84 (23.96\*4) DMG
 -   Has 9.18x PVE scale
 -   Inflicts 2 seconds Chill per hit. Can't be increased.
@@ -148,7 +148,7 @@ Ice
 
 **Effect:** _Fire a penetrating beam of ice._
 
--   Deals 39.24 (9.81\*4) DMG, 4.2 posture, 12s CD at 5 lvl.
+-   Deals 39.24 (9.81\*4) DMG, 4.2 posture, 0.35s windup, 0.15s endlag, 12s CD at 5 lvl.
 -   With 6 songchant 43.68 (10.92\*4) DMG
 -   Has 9.17x PVE Scale (9.81 DMG PVP, 90.03 PVE DMG)
 -   Inflicts 1 second Chill per hit, can be increased to 5 seconds with one Eternal Logstone.
@@ -753,7 +753,7 @@ Ice
 
 **Effect:** _Conjure an obelisk of ice in front of the user._
 
--   Deals 72.45 DMG, 1 + 26 (or higher), 15s CD (4s delay before able to detonate)
+-   Deals 72.45 DMG, 1 + 26 (or higher), 0.4s windup on place down and 0.4s wind up to detonate, 15s CD (4s delay before able to detonate)
 -   Doesn't scale with songchant
 -   Has 6.48x PVE scale (72.45 PVP DMG, 469.48 PVE DMG)
 -   First hit applies Chill. 12 seconds Chill, 16 with 1 Eternal Logstone.
@@ -873,7 +873,7 @@ Ice
 
 **Effect:** _Perform a short flipkick that launches the target into the air._
 
--   Deals 33.5 DMG with default path and x DMG with glass path,11 posture, 6.5s CD (TBA)
+-   Deals 33.5 DMG with default path and x DMG with glass path,11 posture, 0.45s windup, 6.5s CD (TBA)
 -   With 6 songchant 37.27 DMG with default path and x DMG with Glass path
 -   With spring spark DMG decreases by 21.7%.
 -   Has 9.17x PVE scale (33.5 PVP DMG, 307.42 PVE DMG)

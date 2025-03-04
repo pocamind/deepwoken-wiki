@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 138272
+revid: 138307
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -152,7 +152,10 @@ Lightning + Slash
 
 **Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
 
--   Deals 26.32 (13.16\*2) + 26.95 (Stormcaller) DMG, 10s CD
+-   Deals 26.32 (13.16\*2) + 26.95 (Stormcaller, 0
+
+.6s windup) DMG, 10s CD
+
 -   With 6 songchant its 29.28 (14.64\*2) + 26.95 (Stormcaller)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
 -   At end of mantra, performs a "**Stormcaller Slash**", which can be cancelled by pressing the \[F\] key.
@@ -191,7 +194,7 @@ Lightning
 
 **Effect:** _Cast out a straight beam of lightning from where the character is facing._
 
--   Deals 43.06 (47.92 with 6 songchant) DMG, 13 posture, 10s CD at 5 lvl.
+-   Deals 43.06 (47.92 with 6 songchant) DMG, 13 posture, 0.4s windup, 10s CD at 5 lvl.
 -   Can break objects.
 -   Can grant an optional effect with the "**Shocking Finish**" Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
     -   Appears after a second of casting.
@@ -878,7 +881,7 @@ N/A
 
 -   Range scales with current health.
 -   This can be used on NPCs, players or monsters.
--   Has ~1s wind up, blockable (needs testing)
+-   Has 0.8s wind up, blockable (needs testing)
 -   Estimated 300 - 350 Stud range.
 -   Cannot be used while in water or airborne.
 -   30 Second Cooldown.

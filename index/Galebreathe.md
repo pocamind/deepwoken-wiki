@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 138106
+revid: 138305
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -485,7 +485,7 @@ Wind + Slash
 
 **Effect:** _Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target._
 
--   Deals 43.04 (10.76\*4) DMG, 2.15 posture per projectile, 10s cd.
+-   Deals 43.04 (10.76\*4) DMG, 2.15 posture per projectile, 0.55s windup, 10s cd.
 -   With 6 songchant deals 47.84 (11.96\*4) DMG
 -   Projectiles are homing.
 -   Medium-far range.
@@ -525,7 +525,7 @@ Wind + Blunt (Grab), Wind (Throw)
 
 **Effect:** _Grab your target before spinning them in 360 degrees and then tossing them._
 
--   Deals 60.02 (5+1.2+53.82) + 10 if against wall DMG, GB posture, 10s cd at 5 lvl
+-   Deals 60.02 (5+1.2+53.82) + 10 if against wall DMG, GB posture, 0.65s windup, 10s cd at 5 lvl
 -   With 6 songchant deals 66.24 (5+1.33+59.91) + 10 DMG if against wall
 -   The second hit (The throw) ragdolls the opponent and the ragdoll is cancellable.
 -   Procs **Breathing Impact** if thrown at a wall.

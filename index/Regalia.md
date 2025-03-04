@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 137574
+revid: 138300
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -25,7 +25,7 @@ Mute (also known as “Animal King”) has the ability to make monsters unable t
 #### Exceptions
 
 -   Mute does **not** work in some locations.
-    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md), (Mute only doesn’t work if you are doing it solo. Bring some friends and it’ll work as normal)
+    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md), (Mute does not work on initial aggro. Waiting 15 seconds will unaggro most monsters in Dilluvian.)
     -   Most Dungeons, such as the [Second Layer](Second_Layer.md) or [Trial of One](Trial_of_One.md)
 -   Mute does **not** work against some monsters.
     -   [Desert Knights](Stone_Knight.md#desert-knight)

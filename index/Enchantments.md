@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 137721
+revid: 138295
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -90,7 +90,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
-  <td><div><p>Weapon deals 1.07x damage and inflicts Deferred, which deals damage overtime.<br>
+  <td><div><p>Weapon deals 1.07x damage and inflicts <a href="Status_Effects.md#deferred">Deferred</a>, which deals damage overtime.<br>
   Damage is dealt over 2.5 seconds in 10% increments. The damage overtime cannot be avoided once applied.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
@@ -106,7 +106,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Elastic<div></div></font></center></td>
-  <td><div><p>On hit inflict Tethered, causing a pink string connecting the weapon and your target to appear, pulling the target towards you (doesn't work with bullets).</p></div></td>
+  <td><div><p>On hit inflict <a href="Status_Effects.md#tethered">Tethered</a>, causing a pink string connecting the weapon and your target to appear, pulling the target towards you (doesn't work with bullets).</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
@@ -122,14 +122,14 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
   After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
-  The target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.<br>
+  The target is afflicted with <a href="Status_Effects.md#grim">Grim</a> for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.<br>
   Instead of making those affected take more damage, it buffs the damage of the person attacking them, meaning grim <b>is</b> affected by the damage modifier cap.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and light red aura.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Harrowing<div></div></font></center></td>
-  <td><div><p>Inflicts Harrowing, which coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
+  <td><div><p>Inflicts <a href="Status_Effects.md#harrowing">Harrowing</a>, which coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
   This effect lasts for 4 seconds.<br>
   Can only be obtained from the Hallowtide event.</p></div></td>
   <td><div>Weapon turns translucent and emits purple smoke with orange-ish particles.</div></td>
@@ -157,7 +157,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
   <td><div><p>The weapon's critical becomes a katana's but deals no damage.<br>
-  On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker +20%. Nemesis critical does not benefit from damage multipliers. Deals 18 posture damage regardless of your weapon's Weight stat.<br>
+  On hit, a <a href="Status_Effects.md#nemesis-mark">red eye marker</a> is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing damage equal to the hit that applied the marker +20%. Nemesis critical does not benefit from damage multipliers. Deals 18 posture damage regardless of your weapon's Weight stat.<br>
   If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
   </p>
   <p>The critical can still trigger critical Talents like Bear Trap but not Manipulator.<br>
@@ -192,7 +192,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Sear<div></div></font></center></td>
-  <td><div><p>Weapon gain +5% PEN and apply Cauterize on hit. Cauterized targets:<br>
+  <td><div><p>Weapon gain +5% PEN and apply <a href="Status_Effects.md#cauterized">Cauterize</a> on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 5.45%, MED: 8%, HVY: 10% per hit).<br>
   The PEN it gives also counts for mantra damage and bypasses the 50% PEN cap.<sup><a href="#cite-note-1">[1]</a></sup><br>
   Drain thirst equal to 20% of weapon scaled DMG, not affected by DMG mods. (As example 43.77/5 = 8.75 water drain)</p>
@@ -205,7 +205,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
-  <td><div><p>Applies Solar Mark on Crit or Flourish.<br>
+  <td><div><p>Applies <a href="Status_Effects.md#solar-mark">Solar Mark</a> on Crit or Flourish.<br>
   Solar Mark lasts 8s, and reduces tempo gain/ether regeneration.<br>
   Venting steals a portion of marked enemies' tempo.</p></div></td>
   <td><div>Weapon turns orange with bright orange particles orbiting it.</div></td>
