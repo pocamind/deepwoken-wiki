@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 133390
+revid: 138324
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -65,7 +65,7 @@ The prices of Chili's items may vary from price to price.
     -   [Tanto](Tanto.md)
     -   [Vigil Longsword](Vigil_Longsword.md)
     -   [Whaling Knife](Whaling_Knife.md)
--   **Armors:**
+-   **Equipments:**
     -   [Authority Helm](Authority_Helm.md)
     -   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
     -   Black Parka

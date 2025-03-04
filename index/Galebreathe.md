@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 138305
+revid: 138332
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -103,7 +103,7 @@ Wind
  |
 | 
 
-**Effect:** _Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target._
+**Effect:** _Conjure a strong blast of air from your hands in the direction of your mouse that staggers your target._
 
 -   Deals 37.79 DMG (42.07 DMG with 6 songchant), 6.8 posture, 14s cd.
 -   Pushes people back and dazes them if they collide with something

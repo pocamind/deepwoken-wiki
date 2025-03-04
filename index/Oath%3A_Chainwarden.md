@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 138169
+revid: 138309
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -92,6 +92,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 ## Trivia
 
 -   Restrain chains the opponent even if the hit was blocked.
+-   Chains break if distance difference between user and victim reached 40 studs
 -   Restrain has almost no cooldown as long as you are landing the mantra, working even if dodged or blocked, but not when parried. Restrain goes on cooldown if whiffed
 -   Chained targets from Restrain are slowed when they run away from you.
 -   Chainwarden can chain multiple enemies, but enemies can only be chained by one person at a time. Nothing happens if another Chainwarden attempts to chain an already chained enemy.
