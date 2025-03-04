@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 136429
+revid: 138217
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals]

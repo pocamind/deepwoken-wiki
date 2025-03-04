@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 137056
+revid: 138068
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]

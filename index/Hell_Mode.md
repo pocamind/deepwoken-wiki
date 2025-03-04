@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 137667
+revid: 138122
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]

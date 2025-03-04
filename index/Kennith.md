@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 137910
+revid: 138140
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]

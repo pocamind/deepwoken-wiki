@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 124956
+revid: 138043
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations, The Hundred Legions]

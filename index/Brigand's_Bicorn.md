@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 135624
+revid: 138051
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]

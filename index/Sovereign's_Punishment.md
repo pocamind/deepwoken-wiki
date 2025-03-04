@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 133278
+revid: 138213
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons of The Central Authority]

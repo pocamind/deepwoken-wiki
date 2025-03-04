@@ -1,6 +1,6 @@
 ---
 title: Stag Wraps
-revid: 133663
+revid: 138214
 source: https://deepwoken.fandom.com/wiki/Stag_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Items, Equipment, Arms, Wraps, Developer Spec]

@@ -1,6 +1,6 @@
 ---
 title: "Eylis, the Punished Dreamer"
-revid: 134740
+revid: 138096
 source: https://deepwoken.fandom.com/wiki/Eylis%2C_the_Punished_Dreamer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Knives of Eylis]

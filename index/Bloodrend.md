@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 137784
+revid: 138283
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -57,6 +57,8 @@ Bloodrend Unbound can be obtained by defeating any humanoid boss (Duke, Chaser, 
 ## Mantras
 
 Bloodrend currently has a total of 17 mantras.
+
+  
 
 ### Combat Mantras
 
@@ -276,7 +278,7 @@ Blood
 -   With 6 songchant 59.9 (11.98\*5) DMG
 -   Has 2.7x PVE scale (53.8 DMG PVP, 145.3 PVE)
 -   Leaves behind a Blood Pool.
--   7 Blood Pools should usually be more than enough to posture break players
+-   7 blood pools should be enough to blockbreak (needs testing)
 
  |
 | 

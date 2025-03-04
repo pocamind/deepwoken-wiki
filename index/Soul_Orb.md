@@ -1,6 +1,6 @@
 ---
 title: Soul Orb
-revid: 117313
+revid: 138211
 source: https://deepwoken.fandom.com/wiki/Soul_Orb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

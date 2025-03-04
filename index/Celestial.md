@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 133433
+revid: 138056
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]

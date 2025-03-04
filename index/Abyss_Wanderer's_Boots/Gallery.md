@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots/Gallery"
-revid: 120966
+revid: 138034
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Galleries]

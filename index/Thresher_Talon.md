@@ -1,6 +1,6 @@
 ---
 title: Thresher Talon
-revid: 123635
+revid: 138231
 source: https://deepwoken.fandom.com/wiki/Thresher_Talon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]

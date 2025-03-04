@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 133561
+revid: 138167
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapons", Moonseye]

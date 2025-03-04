@@ -1,6 +1,6 @@
 ---
 title: Tillian
-revid: 129681
+revid: 138266
 source: https://deepwoken.fandom.com/wiki/Tillian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, NPCs]
@@ -10,7 +10,7 @@ categories: [World Event, NPCs]
 
 | Tillian | |
 |---|---|
-| name | Tillian |
+| name | Tillian Arlekino |
 | aspect | Canor (Albino) |
 
 ## Description
@@ -26,4 +26,3 @@ He is the twin brother of [Aelita](Aelita.md), and like his sister, both take th
 -   Hair ID is 18805252356 ([https://www.roblox.com/catalog/18805252356/White-Long-Scene-Emo-Hair](https://www.roblox.com/catalog/18805252356/White-Long-Scene-Emo-Hair))
 -   Tillian's Mouth Piercing is 3D.
 -   When the update was first pushed, he was erroneously depicted wearing the [Seamstress's Attire](<Seamstress's_Attire.md>) Outfit, as a placeholder.
--   His full name is Tillian Arlekino

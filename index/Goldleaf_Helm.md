@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 135098
+revid: 138112
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]

@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 134419
+revid: 138095
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]

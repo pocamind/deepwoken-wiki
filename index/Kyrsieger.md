@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 137388
+revid: 138146
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]

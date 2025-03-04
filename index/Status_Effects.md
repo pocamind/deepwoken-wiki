@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 137759
+revid: 138274
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -9,8 +9,6 @@ categories: [Mechanics]
 # Status Effects
 
 Status effects are effects that can negatively affect the player or give the player an advantage. Some of these are deadly and should be taken with caution.
-
-  
 
 ## Supporting Status Effects
 
@@ -40,7 +38,7 @@ Make your attacks uninterruptible and become immune to most forms of stun; Vents
 
 Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword's](Darksteel_Greatsword.md) Critical attack, [Stoneheart's](Stoneheart.md) Critical's charge animation, [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attack and the [Iron Hug](Ironsing.md#iron-hug) Mantra. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
 
-### Overheal
+### Temporary Health
 
 Gain Temporary Health which decays overtime. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), aswell as the [Vampirism](Vampirism.md) enchant. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. Temporary health capped at 100 hp. Signified by a white bar on your health bar.
 

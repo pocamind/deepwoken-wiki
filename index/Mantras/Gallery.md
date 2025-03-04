@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 137633
+revid: 138270
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement]
@@ -12,7 +12,7 @@ categories: [Mantras, Character, Attunement]
 
 **Gifs**
 
-## Flamecharm
+## [Flamecharm](../Flamecharm.md)
 
 ### Combat Mantras
 
@@ -1049,7 +1049,7 @@ N/A
 
  |
 
-## Frostdraw
+## [Frostdraw](../Frostdraw.md)
 
 ### Combat Mantras
 
@@ -2219,7 +2219,7 @@ Ice [ResistanceFrostdraw](../Frostdraw.md)
 
  |
 
-## Thundercall
+## [Thundercall](../Thundercall.md)
 
 ### Combat Mantras
 
@@ -3108,7 +3108,7 @@ N/A
 
  |
 
-## Galebreathe
+## [Galebreathe](../Galebreathe.md)
 
 ### Combat Mantras
 
@@ -3975,7 +3975,7 @@ N/A
 
  |
 
-## Shadowcast
+## [Shadowcast](../Shadowcast.md)
 
 ### Combat Mantras
 
@@ -4874,7 +4874,7 @@ N/A
 
  |
 
-## Ironsing
+## [Ironsing](../Ironsing.md)
 
 ### Combat Mantras
 
@@ -5783,7 +5783,7 @@ N/A
 
  |
 
-## Bloodrend
+## [Bloodrend](../Bloodrend.md)
 
 ### Combat Mantras
 
@@ -6530,7 +6530,7 @@ N/A
 
  |
 
-## Hybrid Mantras
+## [Hybrid Mantras](../Hybrid_Abilities.md)
 
 | 
 **Name**
@@ -8770,7 +8770,7 @@ Slash ResistanceSlash
 
  |
 
-## Monster Mantras
+## [Monster Mantras](../Monster_Mantras.md)
 
 ### Combat Mantras
 

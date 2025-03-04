@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Beak
-revid: 136279
+revid: 138165
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Beak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Monster Mantra Ingredients]

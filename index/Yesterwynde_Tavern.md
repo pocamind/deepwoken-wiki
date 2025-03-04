@@ -1,6 +1,6 @@
 ---
 title: Yesterwynde Tavern
-revid: 125054
+revid: 138246
 source: https://deepwoken.fandom.com/wiki/Yesterwynde_Tavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Events]

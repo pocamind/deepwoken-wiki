@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 136011
+revid: 138236
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]

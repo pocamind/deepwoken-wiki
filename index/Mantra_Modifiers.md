@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 137255
+revid: 138271
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -614,7 +614,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Fire Gun
+[Fire Gun](Flamecharm.md#fire-gun)
 
 (☆☆☆)
 
@@ -629,7 +629,7 @@ Fire Gun
  |
 | 
 
-Frost Grab
+[Frost Grab](Frostdraw.md#frost-grab)
 
 (★★☆)
 
@@ -644,7 +644,7 @@ Frost Grab
  |
 | 
 
-Frozen Servants
+[Frozen Servants](Frostdraw.md#frozen-servants)
 
 (☆☆☆)
 
@@ -659,7 +659,7 @@ Frozen Servants
  |
 | 
 
-Ice Forge
+[Ice Forge](Frostdraw.md#ice-forge)
 
 (★☆☆)
 
@@ -674,7 +674,7 @@ Ice Forge
  |
 | 
 
-Electro Carve
+[Electro Carve](Thundercall.md#electro-carve)
 
 (★☆☆)
 
@@ -689,7 +689,7 @@ Electro Carve
  |
 | 
 
-Lightning Clones
+[Lightning Clones](Thundercall.md#lightning-clones)
 
 (★☆☆)
 
@@ -704,7 +704,7 @@ Lightning Clones
  |
 | 
 
-Lightning Stream
+[Lightning Stream](Thundercall.md#lightning-stream)
 
 (★☆☆)
 
@@ -720,7 +720,7 @@ Lightning Stream
  |
 | 
 
-Wind Gun
+[Wind Gun](Galebreathe.md#wind-gun)
 
 (★★☆)
 
@@ -736,7 +736,7 @@ Wind Gun
  |
 | 
 
-Shadow Gun
+[Shadow Gun](Shadowcast.md#shadow-gun)
 
 (☆☆☆)
 
@@ -751,7 +751,7 @@ Shadow Gun
  |
 | 
 
-Rising Shadow
+[Rising Shadow](Shadowcast.md#rising-shadow)
 
 (★☆☆)
 
@@ -766,7 +766,7 @@ Rising Shadow
  |
 | 
 
-Shade Devour
+[Shade Devour](Shadowcast.md#shade-devour)
 
 (★☆☆)
 
@@ -782,7 +782,7 @@ Shade Devour
  |
 | 
 
-Shadow Assault
+[Shadow Assault](Shadowcast.md#shadow-assault)
 
 (★★☆)
 
@@ -798,7 +798,7 @@ Shadow Assault
  |
 | 
 
-Needle Barrage
+[Needle Barrage](Ironsing.md#needle-barrage)
 
 (☆☆☆)
 
@@ -813,7 +813,7 @@ Needle Barrage
  |
 | 
 
-Firing Line
+[Firing Line](Ironsing.md#firing-line)
 
 (★★☆)
 
@@ -828,7 +828,7 @@ Firing Line
  |
 | 
 
-Shoulder Bash
+[Shoulder Bash](Attunement-less.md#shoulder-bash)
 
 (☆☆☆)
 
@@ -849,7 +849,7 @@ Shoulder Bash
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Flame Sentinel
+[Flame Sentinel](Flamecharm.md#flame-sentinel)
 
 (★★☆)
 
@@ -864,7 +864,7 @@ Flame Sentinel
  |
 | 
 
-Ice Forge
+[Ice Forge](Frostdraw.md#ice-forge)
 
 (★☆☆)
 
@@ -879,7 +879,7 @@ Ice Forge
  |
 | 
 
-Jolt Grab
+[Jolt Grab](Thundercall.md#jolt-grab)
 
 (☆☆☆)
 
@@ -895,7 +895,7 @@ Jolt Grab
  |
 | 
 
-Lightning Blade
+[Lightning Blade](Thundercall.md#lightning-blade)
 
 (☆☆☆)
 
@@ -911,7 +911,7 @@ Lightning Blade
  |
 | 
 
-Fleeting Sparks
+[Fleeting Sparks](Thundercall.md#fleeting-sparks)
 
 (★☆☆)
 
@@ -926,7 +926,7 @@ Fleeting Sparks
  |
 | 
 
-Electro Carve
+[Electro Carve](Thundercall.md#electro-carve)
 
 (★☆☆)
 
@@ -941,7 +941,7 @@ Electro Carve
  |
 | 
 
-Iron Tether
+[Iron Tether](Hybrid_Abilities.md#iron-tether)
 
 (★★☆)
 
@@ -956,7 +956,7 @@ Iron Tether
  |
 | 
 
-Permafrost Prison
+[Permafrost Prison](Hybrid_Abilities.md#permafrost-prison)
 
 (★★☆)
 
@@ -971,7 +971,7 @@ Permafrost Prison
  |
 | 
 
-Tranquil Circle
+[Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle)
 
 (☆☆☆)
 
@@ -986,7 +986,7 @@ Tranquil Circle
  |
 | 
 
-Illusory Realm
+[Illusory Realm](Oath%253A_Visionshaper/Old_Visionshaper.md)
 
 (☆☆☆)
 
@@ -1007,7 +1007,7 @@ Illusory Realm
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Blood Orb
+[Blood Orb](Bloodrend.md#blood-orb)
 
 (☆☆☆)
 
@@ -1022,7 +1022,7 @@ Blood Orb
  |
 | 
 
-Scarlet Cyclone
+[Scarlet Cyclone](Bloodrend.md#scarlet-cyclone)
 
 (☆☆☆)
 
@@ -1037,7 +1037,7 @@ Scarlet Cyclone
  |
 | 
 
-Ice Cubes
+[Ice Cubes](Frostdraw.md#ice-cubes)
 
 (★★★)
 
@@ -1052,7 +1052,7 @@ Ice Cubes
  |
 | 
 
-Lightning Clones
+[Lightning Clones](Thundercall.md#lightning-clones)
 
 (★☆☆)
 
@@ -1067,7 +1067,7 @@ Lightning Clones
  |
 | 
 
-Fleeting Sparks
+[Fleeting Sparks](Thundercall.md#fleeting-sparks)
 
 (★☆☆)
 
@@ -1082,7 +1082,7 @@ Fleeting Sparks
  |
 | 
 
-Grand Javelin
+[Grand Javelin](Thundercall.md#grand-javelin)
 
 (★★☆)
 
@@ -1097,7 +1097,7 @@ Grand Javelin
  |
 | 
 
-Spark Swap
+[Spark Swap](Thundercall.md#spark-swap)
 
 (★★★)
 
@@ -1112,7 +1112,7 @@ Spark Swap
  |
 | 
 
-Wind Forge
+[Wind Forge](Galebreathe.md#wind-forge)
 
 (★☆☆)
 
@@ -1127,7 +1127,7 @@ Wind Forge
  |
 | 
 
-Wind Gun
+[Wind Gun](Galebreathe.md#wind-gun)
 
 (★★☆)
 
@@ -1143,7 +1143,7 @@ Wind Gun
  |
 | 
 
-Shade Bringer
+[Shade Bringer](Shadowcast.md#shade-bringer)
 
 (★★★)
 
@@ -1159,7 +1159,7 @@ Shade Bringer
  |
 | 
 
-Shade Devour
+[Shade Devour](Shadowcast.md#shade-devour)
 
 (★☆☆)
 
@@ -1175,7 +1175,7 @@ Shade Devour
  |
 | 
 
-Eclipse Kick
+[Eclipse Kick](Shadowcast.md#eclipse-kick)
 
 (★★★)
 
@@ -1191,7 +1191,7 @@ Eclipse Kick
  |
 | 
 
-Iron Tether
+[Iron Tether](Hybrid_Abilities.md#iron-tether)
 
 (☆☆☆)
 
@@ -1212,7 +1212,7 @@ Iron Tether
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Scarlet Cyclone
+[Scarlet Cyclone](Bloodrend.md#scarlet-cyclone)
 
 (☆☆☆)
 
@@ -1227,7 +1227,7 @@ Scarlet Cyclone
  |
 | 
 
-Fire Blade
+[Fire Blade](Flamecharm.md#fire-blade)
 
 (☆☆☆)
 
@@ -1242,7 +1242,7 @@ Fire Blade
  |
 | 
 
-Burning Servants
+[Burning Servants](Flamecharm.md#burning-servants)
 
 (☆☆☆)
 
@@ -1257,7 +1257,7 @@ Burning Servants
  |
 | 
 
-Flame Leap
+[Flame Leap](Flamecharm.md#flame-leap)
 
 (★★☆)
 
@@ -1274,7 +1274,7 @@ Flame Leap
  |
 | 
 
-Frozen Servants
+[Frozen Servants](Frostdraw.md#frozen-servants)
 
 (☆☆☆)
 
@@ -1289,7 +1289,7 @@ Frozen Servants
  |
 | 
 
-Lightning Stream
+[Lightning Stream](Thundercall.md#lightning-stream)
 
 (★☆☆)
 
@@ -1304,7 +1304,7 @@ Lightning Stream
  |
 | 
 
-Lightning Impact
+[Lightning Impact](Thundercall.md#lightning-impact)
 
 (★★☆)
 
@@ -1319,7 +1319,7 @@ Lightning Impact
  |
 | 
 
-Air Force
+[Air Force](Galebreathe.md#air-force)
 
 (☆☆☆)
 
@@ -1334,7 +1334,7 @@ Air Force
  |
 | 
 
-Chain Pull
+[Chain Pull](Ironsing.md#chain-pull)
 
 (★☆☆)
 
@@ -1355,7 +1355,7 @@ Chain Pull
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Fire Gun
+[Fire Gun](Flamecharm.md#fire-gun)
 
 (☆☆☆)
 
@@ -1370,7 +1370,7 @@ Fire Gun
  |
 | 
 
-Ice Eruption
+[Ice Eruption](Frostdraw.md#ice-eruption)
 
 (★☆☆)
 
@@ -1386,7 +1386,7 @@ Ice Eruption
  |
 | 
 
-Ice Carve
+[Ice Carve](Frostdraw.md#ice-carve)
 
 (★★☆)
 
@@ -1402,7 +1402,7 @@ Ice Carve
  |
 | 
 
-Skyshatter Kick
+[Skyshatter Kick](Attunement-less.md#skyshatter-kick)
 
 (☆☆☆)
 
@@ -1423,7 +1423,7 @@ Skyshatter Kick
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Flame Repulsion
+[Flame Repulsion](Flamecharm.md#flame-repulsion)
 
 (☆☆☆)
 
@@ -1438,7 +1438,7 @@ Flame Repulsion
  |
 | 
 
-Flame Ballista
+[Flame Ballista](Flamecharm.md#flame-ballista)
 
 (★★★)
 
@@ -1453,7 +1453,7 @@ Flame Ballista
  |
 | 
 
-Ice Carve
+[Ice Carve](Frostdraw.md#ice-carve)
 
 (★★☆)
 
@@ -1469,7 +1469,7 @@ Ice Carve
  |
 | 
 
-Ice Lasers
+[Ice Lasers](Frostdraw.md#ice-lasers)
 
 (★★☆)
 
@@ -1484,7 +1484,7 @@ Ice Lasers
  |
 | 
 
-Crystal Knee
+[Crystal Knee](Frostdraw.md#crystal-knee)
 
 (★★☆)
 
@@ -1499,7 +1499,7 @@ Crystal Knee
  |
 | 
 
-Crystal Impale
+[Crystal Impale](Frostdraw.md#crystal-impale)
 
 (★★☆)
 
@@ -1514,7 +1514,7 @@ Crystal Impale
  |
 | 
 
-Shade Bringer
+[Shade Bringer](Shadowcast.md#shade-bringer)
 
 (★★★)
 
@@ -1530,7 +1530,7 @@ Shade Bringer
  |
 | 
 
-Metal Kick
+[Metal Kick](Ironsing.md#metal-kick)
 
 (★☆☆)
 
@@ -1545,7 +1545,7 @@ Metal Kick
  |
 | 
 
-Dash
+[Dash](Attunement-less.md#agile-dash)
 
 (☆☆☆)
 
@@ -1566,7 +1566,7 @@ Dash
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Fire Forge
+[Fire Forge](Flamecharm.md#fire-forge)
 
 (★☆☆)
 
@@ -1581,7 +1581,7 @@ Fire Forge
  |
 | 
 
-Storm Blades
+[Storm Blades](Thundercall.md#storm-blades)
 
 (★☆☆)
 
@@ -1597,7 +1597,7 @@ Storm Blades
  |
 | 
 
-Dark Blade
+[Dark Blade](Shadowcast.md#dark-blade)
 
 (☆☆☆)
 
@@ -1618,7 +1618,7 @@ Dark Blade
 | Mantra | Original | Modified | Combination | Effect |
 | --- | --- | --- | --- | --- |
 | 
-Scarlet Cyclone
+[Scarlet Cyclone](Bloodrend.md#scarlet-cyclone)
 
 (☆☆☆)
 
@@ -1638,7 +1638,7 @@ Scarlet Cyclone
  |
 | 
 
-Fire Gun
+[Fire Gun](Flamecharm.md#fire-gun)
 
 (☆☆☆)
 
@@ -1658,7 +1658,7 @@ Fire Gun
  |
 | 
 
-Fleeting Sparks
+[Fleeting Sparks](Thundercall.md#fleeting-sparks)
 
 (★☆☆)
 
@@ -1678,7 +1678,7 @@ Fleeting Sparks
  |
 | 
 
-Lightning Clones
+[Lightning Clones](Thundercall.md#lightning-clones)
 
 (★☆☆)
 
@@ -1698,7 +1698,7 @@ Lightning Clones
  |
 | 
 
-Wind Gun
+[Wind Gun](Galebreathe.md#wind-gun)
 
 (★★☆)
 
@@ -1718,7 +1718,7 @@ Wind Gun
  |
 | 
 
-Shade Bringer
+[Shade Bringer](Shadowcast.md#shade-bringer)
 
 (★★★)
 
@@ -1738,7 +1738,7 @@ Shade Bringer
  |
 | 
 
-Shade Devour
+[Shade Devour](Shadowcast.md#shade-devour)
 
 (★☆☆)
 
@@ -1764,7 +1764,7 @@ Shade Devour
 | Mantra | Original | Modified | Combination | Effect |
 | --- | --- | --- | --- | --- |
 | 
-Lightning Clones
+[Lightning Clones](Thundercall.md#lightning-clones)
 
 (★☆☆)
 

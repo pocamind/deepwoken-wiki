@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 133146
+revid: 138108
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

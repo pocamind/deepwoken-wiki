@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Flame"
-revid: 136924
+revid: 138123
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons]

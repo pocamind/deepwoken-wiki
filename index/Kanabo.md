@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 136757
+revid: 138138
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, Etrea]

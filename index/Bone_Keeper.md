@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 137790
+revid: 138049
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]

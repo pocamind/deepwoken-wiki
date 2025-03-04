@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 136216
+revid: 138073
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union, Alloyed Weapons]

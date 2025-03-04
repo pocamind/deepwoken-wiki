@@ -1,6 +1,6 @@
 ---
 title: Union Pager
-revid: 124853
+revid: 138234
 source: https://deepwoken.fandom.com/wiki/Union_Pager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

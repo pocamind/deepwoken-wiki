@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 137610
+revid: 138190
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords, The Ignition Union]

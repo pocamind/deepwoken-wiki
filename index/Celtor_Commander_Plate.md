@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Plate
-revid: 123607
+revid: 138058
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]

@@ -1,6 +1,6 @@
 ---
 title: Enforcer Eye
-revid: 136286
+revid: 138086
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Monster Mantra Ingredients, Ingredients]
