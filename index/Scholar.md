@@ -1,6 +1,6 @@
 ---
 title: Scholar
-revid: 128576
+revid: 138367
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -38,4 +38,4 @@ This Outfit's Schematic can be found in:
 
 -   This Outfit was introduced in the 8/18/23 update, alongside the [Eager Tradesman](Eager_Tradesman.md) Outfit.
 -   This Outfit is known for being worn by the [Antiquarian](Antiquarian.md).
--   With this Outfit's Talent, _Scholar's Intuition_, the time taken to gain a Willpower level by meditating is reduced from 27s to 22s, an increase of 18.5% efficiency.
+-   With this Outfit's Talent, _Scholar's Intuition_, the time taken to gain a Willpower level by meditating is reduced from 31s to 22s, an increase of 30% efficiency.

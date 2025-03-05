@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 138358
+revid: 138363
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -65,7 +65,8 @@ The prices of Chili's items may vary from price to price.
     -   [Tanto](Tanto.md)
     -   [Vigil Longsword](Vigil_Longsword.md)
     -   [Whaling Knife](Whaling_Knife.md)
--   **Equipments:**
+
+-   **Equipment:**
     -   [Authority Helm](Authority_Helm.md)
     -   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
     -   Black Parka
@@ -100,7 +101,6 @@ The prices of Chili's items may vary from price to price.
 
 -   **Utilities:**
     -   [Canteen](Canteen.md)
-    
     -   [Glider](Gliders.md)
     -   [Hunters Brace](<Hunter's_Brace.md>)
     -   [Lore Books](Books.md)
@@ -108,13 +108,12 @@ The prices of Chili's items may vary from price to price.
     -   [Pickaxe](Pickaxe.md)
     -   [Umbral Flint](Flint.md)
     -   [Dye Packet](Dye_Packet.md)
-    
 
 ## Trivia
 
 Chili's Ship
 
--   You can place a guild base here to get some notes from you're Bank.
+-   You can place a [Guild Base](Guild_Bases.md) within Chili's boat.
 -   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
 -   Despite being a shield, [The Path's Defender](<The_Path's_Defender.md>) is registered as a main weapon when being bought from Chili.[\[1\]](#cite-note-1)

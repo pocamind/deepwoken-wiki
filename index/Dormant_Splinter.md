@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 138081
+revid: 138373
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -48,7 +48,7 @@ It can alternatively be found from a variety of events in the [Voidsea](Voidsea.
 
 ## Crafting
 
-The main use for the **Dormant Splinter** is to be crafted into other weapons, through use of [The Cold Forge](The_Cold_Forge.md). There are only two weapons at the moment, but more are likely to be added.
+The main use for the **Dormant Splinter** is to be crafted into other weapons, through use of [The Cold Forge](The_Cold_Forge.md). There are only two weapons at the moment, but more may be added.
 
 Recipes:
 
