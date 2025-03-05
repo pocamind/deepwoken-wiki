@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 137946
+revid: 138390
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -176,7 +176,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 | --- |
 | **Go to [The Depths](The_Depths.md), and kill Players, [Corrupted Monsters](The_Depths.md), and Monsters unique to The Depths.** |
 | **Extra/Important information:** |
-| Only monsters unique to The Depths will count. This includes [Gigamed](Gigamed.md), [Crustaceous Rex](Crustaceous_Rex.md), [The Enforcer](Enforcer.md), and [Nautilodaunt](Nautilodaunt.md). **Other monsters WILL NOT give progress, unless they are Corrupted.**
+| Only monsters unique to The Depths will count. This includes [Gigamed](Gigamed.md), [Crustaceous Rex](Crustaceous_Rex.md), [The Enforcer](Enforcer.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Nautilodaunt](Nautilodaunt.md). **Other monsters WILL NOT give progress, unless they are Corrupted.**
   
 When killing players, you will not gain Progress upon grip unless they are around your general Power level. _You must also bear the weight of ruining someone's day, but if you intend to go this method, then that should be easy for you..._
 

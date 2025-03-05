@@ -1,9 +1,9 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 136686
+revid: 138395
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs, Bosses, The Divers]
+categories: [Enemies, NPCs, Bosses, The Divers, The Ministry]
 ---
 
 # Chaser, Scholar of the Crimson Contract

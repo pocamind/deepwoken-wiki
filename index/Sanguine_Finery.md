@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 134336
+revid: 138392
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, World Event]
@@ -35,3 +35,4 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   This outfit is best known for being worn by the Bloodrend trainer [Vyrelda](Vyrelda,_Master_of_Blood.md).
+-   It is currently almost impossible to obtain this due to Carnival of Hearts being bugged.

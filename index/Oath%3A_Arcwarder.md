@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 138168
+revid: 138393
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -44,7 +44,7 @@ The Arc Suit is a defence orientated piece of semi-sentient armour that [the Uni
 -   20 fortitude, 20 [Flamecharm](Flamecharm.md) and 20 [Thundercall](Thundercall.md).
 -   Return to surface and talk to [Delta](Delta.md) at [Miner's Landing](<Miner's_Landing.md>) inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the Oath, you must kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md)
 
-_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/MvnGyREWMxA)._
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/joHZD3rZVkM)._
 
 Arcwarder is **not** reobtainable if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 
