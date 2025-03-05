@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 138355
+revid: 138380
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -163,11 +163,11 @@ Metal + Slash
 
 **Effect:** _Jump into the air before throwing out 3 projectiles towards the location of the cursor._
 
--   Deals total 28.7 (4.1\*7) DMG, 0.8s windup, 12s CD at 5 lvl.
+-   Deals total 24.6 (4.1\*6) DMG, 0.55s windup, 12s CD at 5 lvl.
 -   With 6 songchant deals 27.36 (4.56\*6) DMG
 -   Has 9.18x PVE Scale (24.6 DMG PVP, 225.84 DMG PVE)
 -   Inconsistent tracking and wind up.
--   7 Needles at level 5.
+-   6 Needles at level 5.
 -   Applies Metal Rods on hit.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the Mantra increase amount of needles fired but removing the jump.
     -   This variant keeps the user's momentum.
@@ -488,7 +488,7 @@ Metal + Slash + Bleed
 
 **Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
 
--   Deals 67 (9.57 + 2.88 Bleed \* 4, at end of grab does 15.95 DMG + 4.77 Bleed) DMG, 10 posture, 1s windup, 11s cd at 5 lvl
+-   Deals 67 (9.57 + 2.88 Bleed \* 4, at end of grab does 15.95 DMG + 4.77 Bleed) DMG, 10 posture, 0.8s windup, 11s cd at 5 lvl
 -   With 6 songchant deals 78.38 (10.65 + 3.18 Bleed \* 4 + 17.75 + 5.31 Bleed) DMG
 -   Has 9.65x PVE scale (87.83 DMG + 26.34 Bleed \* 4 and at end of grab 146.39 DMG + 43.92 Bleed, total DMG 647)
 -   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
