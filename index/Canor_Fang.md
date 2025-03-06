@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 137068
+revid: 138420
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals]
@@ -34,7 +34,7 @@ Notably, this weapon have the highest weight stat of any daggers, at 5. Most oth
 
 ## Critical
 
-Do a short wind-up before bursting out a flurry of EXACTLY 20 slashes.
+Do a short wind-up before bursting out a flurry of 5 slashes. (Bleed)
 
 ## Trivia
 
@@ -42,4 +42,3 @@ Do a short wind-up before bursting out a flurry of EXACTLY 20 slashes.
 -   Instead of this, it's recommended to use a [Whaling Knife](Whaling_Knife.md) or a [Gilded Knife.](Gilded_Knife.md) (Unless you want the crit)
 -   Meeting the requirement of LHT, damage is (14.3)
 -   At max LHT, the damage is (19.3)
--   Procs enchants 5 times if crit is fully landed

@@ -1,6 +1,6 @@
 ---
 title: Shrine of the Drowned
-revid: 137168
+revid: 138412
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

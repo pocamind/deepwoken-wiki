@@ -1,8 +1,9 @@
 ---
 title: Caeranthil
-revid: 126303
+revid: 138416
 source: https://deepwoken.fandom.com/wiki/Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Lore]
 ---
 
 # Caeranthil

@@ -1,9 +1,9 @@
 ---
 title: Volu
-revid: 136278
+revid: 138415
 source: https://deepwoken.fandom.com/wiki/Volu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs]
+categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, The Ministry]
 ---
 
 # Volu
