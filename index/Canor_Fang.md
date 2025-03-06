@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 138420
+revid: 138425
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals]
@@ -34,7 +34,7 @@ Notably, this weapon have the highest weight stat of any daggers, at 5. Most oth
 
 ## Critical
 
-Do a short wind-up before bursting out a flurry of 5 slashes. (Bleed)
+Do a short wind-up before bursting out a flurry of 5 slashes. (Inflicts Template:BleedColor)
 
 ## Trivia
 

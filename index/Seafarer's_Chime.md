@@ -1,9 +1,9 @@
 ---
 title: "Seafarer's Chime"
-revid: 101768
+revid: 138441
 source: https://deepwoken.fandom.com/wiki/Seafarer's_Chime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Items, Tools]
 ---
 
 # Seafarer's Chime

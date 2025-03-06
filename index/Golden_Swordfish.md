@@ -1,9 +1,9 @@
 ---
 title: Golden Swordfish
-revid: 138422
+revid: 138423
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, Weapons with Unique Criticals]
+categories: [Weapons, Rapiers, Weapons with Unique Criticals, Light Weapons, Fishing]
 ---
 
 # Golden Swordfish
