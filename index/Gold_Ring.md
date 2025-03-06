@@ -1,6 +1,6 @@
 ---
 title: Gold Ring
-revid: 128271
+revid: 138453
 source: https://deepwoken.fandom.com/wiki/Gold_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -28,3 +28,9 @@ Gold Ring is an [Equipment](Equipment.md) item under the "Rings" category.
 ## Description
 
 Gold Ring grants the user one Uncommon Pip upon being equipped.
+
+  
+
+## Trivia
+
+-   You can get one for free from [Polis](Polis.md)!

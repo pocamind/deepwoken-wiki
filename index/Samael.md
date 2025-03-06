@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 137348
+revid: 138455
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oath Trainers, NPCs located in the Eastern Luminant]
@@ -11,7 +11,7 @@ categories: [NPCs, Oath Trainers, NPCs located in the Eastern Luminant]
 | Samael | |
 |---|---|
 | name | Samael |
-| aspect | ??? |
+| aspect | ??? (Angel?) |
 | location | Derelict Highchurch |
 
 “ Do you wish to join the Starkindred, and feast upon the Holy Ichor of our God? It will be irreversible. You will be... born anew, lamb. ”
@@ -293,3 +293,4 @@ His [aspect](Aspects.md) is hidden by his [mask](Thrall_of_Enmity.md), and even 
 
 -   Of the current in-game playable aspects, Samael cannot be any of the following based on lacking their defining features: [Adret](Adret.md), [Capra](Capra.md), [Chrysid](Chrysid.md), [Ganymede](Ganymede.md), [Gremor](Gremor.md), [Tiran](Tiran.md), and [Vesperian](Vesperian.md).
     -   This leaves [Canor](Canor.md), [Celtor](Celtor.md), [Etrean](Etrean.md), and [Khan](Khan.md). Clipping into his mask shows no facial features. It's possible Canor could be ruled out due to not being able to achieve that level of paleness within the character creation menu, but one could argue that his pursuit of the Celestials has taken all of his melanin. Or, he could be none of these...
+    -   It can be assumed that he is an angel, a supposedly unobtainable aspect. Considering Angels have been revealed to be thralls of enmity, it is under the assumption that Samael is working with the depths itself in a sense.

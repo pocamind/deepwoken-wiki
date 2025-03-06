@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Solitude
-revid: 133096
+revid: 138451
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Solitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -35,7 +35,7 @@ In all other cases, this shrine does nothing. Does NOT progress towards the [Con
 -   Free Mystic for the Lone Warrior Origin
 -   Free Mystic to those progressing via the Diluvian Mechanism.
 -   Free Mystic available away from Castle Light in Temple of The Heart, this is primarily going to be for Deepbounds due to their early access but can be accessed by anyone who owns a Resonance.
--   Costs no knowledge. (So sigma!)
+-   Costs no knowledge.
 
 ## Navigation
 
