@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 138294
+revid: 138475
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -128,39 +128,39 @@ It has a few sub-variants:
 
 -   White Flames: Flames scale on INT, meaning they can be a lot more deadly. (Currently bugged and does not scale based on INT)
 
-### [Winded](Status_Effects.md#winded) Link
+### Winded
 
 This effect can be applied by being hit with Galebreathe Mantras or Galeforced monsters, it reduces your attack speed for its duration. Signified by green (white if the user has Spectre Path) spirals on your character.
 
-### [Suffocate](Status_Effects.md#suffocate) Link
+### Suffocate
 
 Can be applied by being hit by [Wind Gun](Galebreathe.md#wind-gun), [Galetrap](Galebreathe.md#galetrap) or by any other Galebreathe Mantra if the user has A World Without Song. Unable to cast Mantras for a duration while also taking 1 damage per tick. If the user has the Talent Stifled Jump, you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
 
-### [Chill](Status_Effects.md#chill) Link
+### Chill
 
 Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mantra, from being hit by a Frostmantled enemy, from the [Crustaceous Rex](Crustaceous_Rex.md)'s bubbles, or from a [Glacial Lionfish](Glacial_Lionfish.md)'s Chilling Cero. Signified by cyan smoke on your character.
 
-### [Crystal](Status_Effects.md#crystal) Link
+### Crystal
 
 Have a crystal stacked on you. When you reach 5 crystals, they will detonate, damaging you heavily. Applied by being hit by most Mantras from a Frostdrawer using Glass Path: Crystalization. Signified by having a crystal stacked on you.
 
-### [Frozen](Status_Effects.md#frozen) Link
+### Frozen
 
 Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents, Mantras, and [Hailbreaker](Hailbreaker.md) Critical. Signified by being encased in a block of ice. Mash F to escape faster.
 
-### [Shock](Status_Effects.md#shock) Link
+### Shock
 
 Hitstun of the attack that apply shock is increased (0.9s>1s), meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry) and bypasses hyperarmor. Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
 
-### [Electrified](Status_Effects.md#electrified) Link
+### Electrified
 
 Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) Mantra combined with the Talent Resolve Crusher. Signified by a swirling lightning effect in the users torso.
 
-### [Sapped](Status_Effects.md#sapped) Link
+### Sapped
 
 This can be applied by being flourished by someone using [Thunder Wisp](Thundercall.md#thunder-wisp) or by someone overloading your surge stacks with Fried Circuits. While Sapped, your Mantra cooldowns are increased, you will also be shocked when Sapping ends. Indicated by a lightning javelin piercing you.
 
-### [Overloaded](Status_Effects.md#overloaded) Link
+### Overloaded
 
 Inflicted by Thundercall Surge Path Mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you. Signified by a blurple rod planted in your body.
 
@@ -188,11 +188,11 @@ Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a t
 
 This can be applied by being hit by the [Deep Widow](Deep_Widow.md)'s venomous bite. While poisoned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage. There is no visual indicator for it.
 
-### [Dazed](Status_Effects.md#dazed) Link
+### Dazed
 
 Have your dodge frames lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras
 
-### [Anti-Heal](Status_Effects.md#anti-heal) Link
+### Anti-Heal
 
 Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by an M1 by someone that has the Talent [All the Dead Gods](Talents.md#heretic) for 8 seconds, or when hit by the first hit of [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack for 10 seconds. The Anti-Heal effectiveness from All the Dead Gods scales on investment up to its combined requirement. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
 
@@ -204,11 +204,11 @@ While active, suffer from 50% Anti-Heal for 5 seconds, halving all incoming heal
 
 Anti-Heal effect applied when being assassinated by a player who has the [Deep Wound](Talents.md#assassin) Talent. The Anti-Heal lasts 20 seconds. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a dark red smoke on your character.
 
-### [Broodlord Rot](Status_Effects.md#broodlord-rot) Link
+### Broodlord Rot
 
 While active, suffer from 80% Anti-Heal meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
 
-### [Charm](Status_Effects.md#charm) Link
+### Charm
 
 Deal 10% less damage to the player who charmed you. If the charmer has the Talent Tough Love, take 10% more damage to the player who has charmed you. Having the [Disbelief](Talents.md#mental-fortress) Talent halves the duration when applied to you. Can be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent and others that grant Overcharm, causing you to take 10% less self-damage and get up from being knocked twice as fast. Signified by hearts appearing around the user.
 
@@ -228,27 +228,27 @@ Become slowed and deal less damage, also become a valid target for Symbiotic Lee
 
 Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling](Chilling.md) enchantment. Signified by the legs of your character being frozen in ice.
 
-### [Harrowing](Harrowing.md) Link
+### Harrowing
 
 This is applied by being hit by the [Harrowing](Harrowing.md) enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
 
-### [Deferred](Deferred.md) Link
+### Deferred
 
 This is applied by being hit by the [Deferred](Deferred.md) enchant. Take DOT by (WD \* 1.07) \* .1); damage is dealt 10 times over the course of 2.5 seconds.
 
-### Tethered Link
+### Tethered
 
 Become tethered to your attacker, being pulled towards them forcefully. Applied by being hit with the [Elastic](Elastic.md) enchant. Signified by a pink string between yourself and your attacker.
 
-### [Nemesis Mark](Status_Effects.md#nemesis-mark) Link
+### Nemesis Mark
 
 Become marked for an auto aim katana critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis](Nemesis.md) enchant.
 
-### [Moonseye Mark](Status_Effects.md#moonseye-mark) Link
+### Moonseye Mark
 
 Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use a followup crit on you, or users of the [Soulthorn](Soulthorn.md) to use their stage 2 and 3 crits on you depending on your Moonseye Mark stacks.
 
-### [Angry/Enraged](Status_Effects.md#angry) Link
+### Angry/Enraged
 
 Applied through being hit by the Mantra [Taunt](Attunement-less.md#taunt) or being block broken by a player who has the [Cornered Fool](Talents.md#empath) Talent. Receive 20% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
 
@@ -284,7 +284,7 @@ Applied by standing in the time stasis bubble made by the [Knives of Eylis Capta
 
 Applied by standing near someone with audacity when they're executing someone. Which inflicts a stun AOE around everyone near them making them stuck in place for around 5 seconds. Signified by White Eyes in the moment of the execution. Also grants nearby allies a 10% damage buff.
 
-### [Wither](Status_Effects.md#wither) Link
+### Wither
 
 Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and gaining health when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s M1s and Critical Attack, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, or can be applied to self with [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
 
