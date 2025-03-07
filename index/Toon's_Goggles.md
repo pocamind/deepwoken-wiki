@@ -1,9 +1,9 @@
 ---
 title: "Toon's Goggles"
-revid: 133831
+revid: 138504
 source: https://deepwoken.fandom.com/wiki/Toon's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Equipment, Face, Goggles, Developer Spec]
+categories: [Exclusive, Equipment, Face, Goggles, Developer Spec, Developer Specs, Items]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---

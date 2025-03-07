@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Longcoat
-revid: 116448
+revid: 138517
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -30,4 +30,4 @@ The Gumshoe Longcoat is an [Equipment](Equipment.md) item under the "Arms" categ
 
 ## Trivia
 
--   The Gumshoe Longcoat is part of the "Gumshoe" set; with the only other piece being the [Gumshoe Hat](Gumshoe_Hat.md).
+-   The Gumshoe Longcoat is part of the "Gumshoe" set; with the only other piece in the set being the [Gumshoe Hat](Gumshoe_Hat.md).

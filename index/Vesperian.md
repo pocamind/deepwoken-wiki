@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 138235
+revid: 138485
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -29,8 +29,10 @@ Vesperians are described as a beetle themed aspect with organically grown masks 
   <ul>
     <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"
   <ul>
-    <li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li>
-    <li>This buff stacks with <a href="Talents.md#freak-of-nature">Exoskeleton</a> (Rare Talent), but the effect is reduced to 3%.</li>
+    <li>5% physical damage reduction. Degrades with damage from any source, but can be replenished at a campfire.</li>
+    <li>Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.</li>
+    <li>This buff and durability stacks with <a href="Talents.md#freak-of-nature">Exoskeleton</a> (Rare Talent), but they total to 14.5% Physical resistance due to being added multiplicatively. Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability on top, leading to 800 total durability at Power 20.</li>
+    <li>Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)</li>
   </ul></li>
   </ul></td>
 </tr>

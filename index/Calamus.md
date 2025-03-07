@@ -1,9 +1,9 @@
 ---
 title: Calamus
-revid: 133900
+revid: 138501
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
+categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, The Hive]
 ---
 
 # Calamus

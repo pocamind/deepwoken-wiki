@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 138455
+revid: 138529
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oath Trainers, NPCs located in the Eastern Luminant]
@@ -22,7 +22,7 @@ categories: [NPCs, Oath Trainers, NPCs located in the Eastern Luminant]
 
 Samael is an NPC that will grant you the [Starkindred](Oath%253A_Starkindred.md) Oath. He is located in the hidden area in the [Derelict Highchurch](Derelict_Highchurch.md), go down the trapdoor ladder and walk around the library interacting with a red book on a bookshelf; this will collapse the false wall hiding the large white double doors. The book is the same each time. Interact with the book again to open the doors. He will be found to the left of the unconscious [Celestial](Celestial.md).
 
-His [aspect](Aspects.md) is hidden by his [mask](Thrall_of_Enmity.md), and even so there are no distinguishable racial features that we know of. His outfit is the [Pathfiner Archi-Sorcerer](Pathfinder_Arch-Sorcerer.md).  
+His [aspect](Aspects.md) is hidden by his [mask](Thrall_of_Enmity.md), and even so there are no distinguishable racial features that we know of. His outfit is the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md).  
   
   
   

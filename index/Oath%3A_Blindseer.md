@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 137661
+revid: 138489
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Blindseer** is one of the 16 obtainable Oaths in _Deepwoken._ The Oath is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat and the depths. It is the opposing Oath to [Visionshaper](Oath%253A_Visionshaper.md).
+**[Oath](Oaths.md): Blindseer** is one of the 16 obtainable Oaths in _Deepwoken._ The Oath is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat and in [The Depths.](The_Depths.md) It is the opposing Oath to [Visionshaper](Oath%253A_Visionshaper.md).
 
 ## Obtainment
 

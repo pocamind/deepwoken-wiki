@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 137830
+revid: 138482
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1142,8 +1142,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Human Architecture."**_
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
-    -   Vesperians will only gain 8% armor from this Talent, totalling to 13% with their own natural armor.
-    -   Natural Armors can be affected by PEN, but its effectiveness is reduced by 75%.
+    -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
+    -   [Vesperian](Vesperian.md)'s Chitin stacks with Exoskeleton, totaling to 14.5% Physical damage reduction.
+    -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
+    -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
+    -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
+    -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
+    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
     -   Prerequisite: 40 Fortitude.
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health. (+5 Health)
@@ -1499,7 +1504,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I rely on my instincts."**_
 
 -   Chitin \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
-    -   While not empty, receive 5% less damage from every source, but this bonus is halved to 2.5% if you have the Exoskeleton Talent. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
+    -   Grants 5% damage reduction in the form of Natural Armor.
+    -   Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.
+    -   Chitin stacks with the Exoskeleton Talent, totaling to 14.5% Physical damage reduction.
+    -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
+    -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
+    -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
+    -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
+    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
 
 -   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects
     -   1.2x Sanity gain multiplier. You require 1 less Knowledge when making deals with [Deep Shrines](Deep_Shrines.md) (Knowledge cost can't go below 1).

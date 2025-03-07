@@ -1,9 +1,9 @@
 ---
 title: Asius
-revid: 137868
+revid: 138506
 source: https://deepwoken.fandom.com/wiki/Asius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Quests]
 ---
 
 # Asius

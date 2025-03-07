@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 138074
+revid: 138492
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Alloyed Weapons, Offhand Guns]
@@ -28,7 +28,7 @@ categories: [Weapons, Flintlocks, Alloyed Weapons, Offhand Guns]
 
 ## Description
 
-The Dawnshot is a midgame gun, which can be obtained through the [First Layer](First_Layer.md), [Summer Isle Events](https://deepwoken.fandom.com/wiki/Summer_Isle#Missions), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Minityrsa](Minityrsa.md) or the [Songseeker Wilds](Songseeker_Wilds.md). It requires 40 Light Weapon to be used with good overall stats for its midgame role. It can be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md) to turn it into an endgame weapon and give it a slightly lighter hue
+The Dawnshot is a midgame gun, which can be obtained through the [First Layer](First_Layer.md), [Summer Isle Events](https://deepwoken.fandom.com/wiki/Summer_Isle#Missions), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Minityrsa](Minityrsa.md) or the [Songseeker Wilds](Songseeker_Wilds.md). It requires 40 Light Weapon to be used and has good overall stats for its midgame role. It can be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md) to turn it into an endgame weapon and give it a slightly lighter hue
 
 The Dawnshot's maximum [Bullet](Bullet_Casings.md) capacity is 4.
 

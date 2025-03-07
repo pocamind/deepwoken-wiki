@@ -1,6 +1,6 @@
 ---
 title: Necroskipper
-revid: 137998
+revid: 138491
 source: https://deepwoken.fandom.com/wiki/Necroskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters, Etrean Luminant]
@@ -14,7 +14,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 Beings formed out of the remnants of ether-proficient warriors, they are brought back once more in a **group of three** by [Ministry Necromancers](Ministry_Necromancer.md). However, they are only limited to the common elements of [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), they seem to have basic proficiencies in these elements, being able to conjure fireballs and ice blades respectively.
 
-Seemingly from the same magic of the Necromancy, they also wear colour-coded armor over a plated outfit.
+Seemingly from the same magic of the Necromancy, they also wear colour-coded armor over a plated outfit that is also worn by [Minos](Minos,_Sinner_of_Flame.md).
 
 ## Moveset
 
@@ -93,3 +93,4 @@ Dodgeable: ◯
 -   Try to hit all of them at once so one doesn't use a Mantra while you're preoccupied with another.
 -   Fighting a [Ministry Necromancer](Ministry_Necromancer.md) at lower levels can be extremely painful and annoying to fight, because if you take too long to kill all three Necroskippers, they'll simply summon another wave.
 -   If you parry the red Necroskipper's fire attack, they'll set themselves on fire, and can deal enough damage to down them, in which case the fire will grip them.
+-   Be careful when fighting at low levels, as Flame Ballista can deal extremely high amounts of damage if not defended against

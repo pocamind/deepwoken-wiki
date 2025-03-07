@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper/Old Visionshaper"
-revid: 133455
+revid: 138516
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper/Old_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Oaths]
@@ -21,7 +21,7 @@ notices:
 
 ## Description
 
-**[Oath](../Oaths.md): Visionshaper** is one of the 14 obtainable Oaths in _Deepwoken_. It allows one to utilize the power of illusions with a pact made with [The Nestmind](../The_Nestmind.md) to quickly and effectively overwhelm their enemies in various ways. It is the opposing Oath to [Blindseer](../Oath%253A_Blindseer.md).
+**[Oath](../Oaths.md): Visionshaper** is one of the 16 obtainable Oaths in _Deepwoken_. It allows one to utilize the power of illusions with a pact made with [The Nestmind](../The_Nestmind.md) to quickly and effectively overwhelm their enemies in various ways. It is the opposing Oath to [Blindseer](../Oath%253A_Blindseer.md).
 
 “ Things aren't always what they seem, little mouse... In time, you may pretend to be one of us, use abilities inherent to my kind... And you may do with these as you please, but are you prepared to pay the toll? ”
 
@@ -40,7 +40,7 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
 -   When you leave the area, you will find yourself in [A Conscious Intersection](../A_Conscious_Intersection.md).
     -   Talk to the [Nestmind](../The_Nestmind.md), ensuring you select the first options. Select "I accept" once it mentions food.
     -   Refusing to become the [Nestmind](../The_Nestmind.md)'s food will steal your dark feather and teleport you back.
-    -   **Do not fall.** You will be sent to Layer 2.
+    -   **Do not fall.** You will be sent to Layer 2 without a [light hook](../Light_Hook.md).
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=MXBJfraH_cI)._
 
@@ -105,6 +105,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
 -   This Oath was created by Dexerius, along with [Arcwarder](../Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
 -   You can craft a Void Feather using 3 Dark Feathers and 1 [Umbral Obsidian](../Umbral_Obsidian.md). Non-Corrupted [Deep Owls](../Deep_Owl.md) can also rarely drop them. Also Illusion counter cancel fall damage with tough timing.
 -   Dexerius based this Oath on the hit anime 'Naruto' based on the visionshaper clones being based off shadow clone jutsu and genjutsu. As well as the realm being based off the Kamui.
+-   This version of the oath was cut after its revamp on September 13, 2024
 
 ## References
 

@@ -1,8 +1,9 @@
 ---
 title: Sea Highway
-revid: 124793
+revid: 138523
 source: https://deepwoken.fandom.com/wiki/Sea_Highway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
 ---
 
 # Sea Highway
