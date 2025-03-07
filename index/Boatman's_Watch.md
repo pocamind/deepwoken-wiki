@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 130810
+revid: 138533
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -49,3 +49,4 @@ Once spawned, you will not be able to leave Boatman's Watch until you defeat [Th
 -   Although not really trivial, there are two [eggs](Egg.md) in this island, one found on a tree growing on the rocks near the dock and another found in a bigger tree growing in a patch of grass to the right of [Ferryman](The_Ferryman.md)'s location, these two [eggs](Egg.md) can be used to create [Mushroom Omelettes](Mushroom_Omelette.md) with the high abundancy of [Goblettos](Gobletto.md) which can be helpful in the fight against [The Ferryman](The_Ferryman.md).
 -   Within the Ferryman's instance, the tree behind the teleporter will have [sap](Sap.md) that does not deplete after 5-20 collections. This can be a very consistent way of getting [sap](Sap.md), if you ever need it.
 -   Despite the fact that [Adrofalis](Adrofalis.md) has not entered [The Ferryman](The_Ferryman.md)'s portal, he can still hear their music and lightning.
+-   For Kamui users, the co-ordinates of Boatman's watch are 48160, 54284
