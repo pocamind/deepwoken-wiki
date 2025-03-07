@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 133752
+revid: 138574
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters, The Children of Navae]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Navaen Hostages hail from the [Children of Navae](Reputation.md) faction. They appear as [Gremors](Gremor.md), having brown hair and long horns. They have magenta eyes that fade into a darker shade toward the bottom of the iris. As for their clothing, they sport the [Navaen Nomad](Navaen_Nomad_Robes.md) robes, as all the [Children of Navae](Reputation.md) do.
+Navaen Hostages hail from the [Children of Navae](Reputation.md) faction. They appear exclusively as [Gremors](Gremor.md), having long horns. Their eyes fade into a darker shade toward the bottom of the iris. As for their clothing, they sport the [Navaen Nomad](Navaen_Nomad_Robes.md) robes, as all the [Children of Navae](Reputation.md) do.
 
 They are found in a prisoner pose, kneeled down on both knees and having their arms behind them, though they are forced into a standard pose when being knocked back. They usually randomly spawn randomly in [Erisia](Erisia.md) or in the prison cells in [Fort Merit](Fort_Merit.md). They seem to spawn especially often in the [Towerstruck Lands](Towerstruck_Lands.md), [The Garden Reservoir](The_Garden_Reservoir.md) and near [The Birdcage](The_Birdcage.md).
 

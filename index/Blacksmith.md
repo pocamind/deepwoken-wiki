@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 137869
+revid: 138570
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Armors]
@@ -37,7 +37,7 @@ _More info: [Transmogrification](Transmogrification.md)_
 
 -   Press the second option with a pure ore in hand.
     -   Pure Iron is not able to be turned in.
-    -   Erisore chests are the plain wooden chests, and they usually give blindfolds.
+    -   Erisore chests are the plain wooden chests, and they usually give blindfolds among other Erisia loot.
     -   If you turn in a pure ore 5 times, you get the excavator Talent.
 
 ### Craft event items with Knowledge

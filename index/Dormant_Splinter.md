@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 138373
+revid: 138575
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -35,7 +35,7 @@ The **Dormant Splinter** is a Relic rarity [Sword](<Sword_(weapon).md>); a black
 Meeting the requirement of MED and LVL, the damage is (**5.1**)  
 At max MED and 6 Proficiency, the damage is (**8.8**) (11.2 with bleed)
 
-The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Cache Agent, or by chance from a random related event. To get it from a Ministry Cache:
+The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Cache Agent, or by chance from a random event in the [Voidsea.](Voidsea.md) To get it from a Ministry Cache:
 
 1.  Obtain [Shadow Travel](Talents.md) or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find an [Understrand](The_Understrand.md) entrance. The entrance can spawn as a part of [Silhuett's](Silhuett.md) event, or as a random spawn in the following area, signified by their purple glow and the hex circle:

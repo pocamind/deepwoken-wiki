@@ -1,9 +1,9 @@
 ---
 title: Chick
-revid: 110701
+revid: 138551
 source: https://deepwoken.fandom.com/wiki/Chick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Monsters]
+categories: [Cut Content, Monsters, Enemies]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Temple Approach
-revid: 121471
+revid: 138542
 source: https://deepwoken.fandom.com/wiki/Temple_Approach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea]
@@ -18,7 +18,7 @@ TERRITORY OF etrea
 
 ## Overview
 
-Temple Approach is an area that leads into the [Temple of the Blade](Temple_of_the_Blade.md).
+Temple Approach is an area in the [Isle of Vigils](Isle_of_Vigils.md) that leads into the [Temple of the Blade](Temple_of_the_Blade.md).
 
 ## Potential Enemies
 

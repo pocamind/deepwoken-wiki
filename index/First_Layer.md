@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 138259
+revid: 138538
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -12,7 +12,7 @@ File:Depths New Lightning.png
 
 ## Overview
 
-The **First Layer** of the Depths, also known as **Scyphozia,** is the first of the infiinite layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
+The **First Layer** of the Depths, also known as **Scyphozia,** is the first of the infiinite layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
 ## Points of Interest
 
@@ -75,7 +75,7 @@ Find a rock, cliff, or another high place, and use a glider to reach the top of 
 
 ― "The Song of Fathoms / Oscillation"
 
-Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. If there are multiple players in the trial room, the enemy type encountered in the trial is decided by the highest power present. Every other player **WILL STILL** contribute to the enemy count (Ex. one power 20 player and two power 13 players will spawn three [Enforcers](Enforcer.md)).
+The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. If there are multiple players in the trial room, the enemy type encountered in the trial is decided by the highest power present. Every other player **WILL STILL** contribute to the enemy count (Ex. one power 20 player and two power 13 players will spawn three [Enforcers](Enforcer.md)).
 
 Once the trial is completed, players are also granted total immunity to damage until they are teleported out of the Depths. Note that escaping will always cleanse the health bar.
 
@@ -99,18 +99,18 @@ Some things add extra Difficulty Score:
 | 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Template:CorruptedColor) |
 | 5-8 players, one having a Difficulty Score of 60+ | [Heart of Enmity](Heart_of_Enmity.md) (Starting from the 9th player, they will get kicked out of the fight) |
 
-\*This is an estimation. Depending on your drowns and other factors, you could be facing worse enemies.
+\* This is an estimation. Depending on your drowns and other factors, you could be facing worse enemies.
 
--   Some monster in Trials have a possibility of being Template:CorruptedColor
+-   Some monster in the Trial have a possibility of being Template:CorruptedColor
 -   Curiously, **any** monster can be Template:CorruptedColor if spawned in the trial, including enemies that can otherwise never be: [Bounders](Bounder.md), [Golems](Rock_Golem.md), [Brainsuckers](Brainsucker.md), etc. When this occurs, however, their AI will (probably) break. Exemplified in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
 -   Any monster (excluding [Mudskipper Knights](Mudskipper_Knight.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
 -   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** Template:CorruptedColor.
     -   This Template:CorruptedColor factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a Template:CorruptedColor version of a trial monster before escaping the Depths.
-        -   It is highly recommended to be wary of players in the cathedral's elevator.
-        -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation. Note that leaving the server in the trial room will always teleport you to outside of the gate. In an unlikely but possible scenario, if the player has [Blindseer](Oath%253A_Blindseer.md) or [Rhythm](Murmur%253A_Rhythm.md) they can use it to detect any invisible players.
-            -   Also note that all barrels despawn prior to reaching the top. Any barrel that remains is a player using [Disguise](Mime.md).
+        -   It is highly recommended to be wary of players in the Cathedral's elevator.
+            -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation. Note that leaving the server in the trial room will always teleport you to outside of the gate. In an unlikely but possible scenario, if the player has [Blindseer](Oath%253A_Blindseer.md) or [Rhythm](Murmur%253A_Rhythm.md) they can use it to detect any invisible players.
+                -   Also note that all barrels despawn prior to reaching the top. Any barrel that remains is a player using [Disguise](Mime.md).
 -   Once the monster spawns, you will automatically be locked in combat. The combat tag in the Depths trial takes 10 minutes to despawn.
-    -   Regardless, low-level trial mobs will allow you to outwait the combat tag by simply climbing on top of the chains and waiting. Mobs with long-range attacks or pull moves, such as angels, megalodaunts, ~and enforcers~, do not allow this. At the top of the chain, players cannot be pulled by an enforcer unless they fall.
+    -   Regardless, low-level trial mobs will allow you to outwait the combat tag by simply climbing on top of the chains and waiting. Mobs with long-range attacks such as Angels and Megalodaunts do not allow this. At the top of the chain, players cannot be pulled by an Enforcer unless they fall.
     -   As of late, the combat tag is _not_ a boss tag. As such, player can close the game the instant the trial begins with zero repercussions (so long as their health is above 60%).
         -   **Do not rely on this**. It is likely unintended, and will be patched soon.
 -   If 2 or more players enter the Trial, all will fight the monster of the highest power. It will also look to see if anyone has the Vow of Thorns modifier on and apply it.
@@ -143,7 +143,7 @@ Information to keep in mind.
     -   [Ignition Delvers](Origins.md) may use the campfire in [The Chariot's Spire](<The_Chariot's_Spire.md>), much like Deepbound.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 2.5x HP and 1.5x damage. These grant [Chests](Chests_&_Sacks.md) with even better loot.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing. \[Citation needed\]
--   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the Talent undying flame), you might want to consider bringing _**healing potions**_.
+-   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the Talent Undying Flame), you might want to consider bringing _**healing potions**_.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
 -   _**Warrior's Respite**_ is an extremely useful Talent in The Depths, allowing you to heal without special abilities. Another good card is _**Conditioned Runner**_, which allows you to heal while running.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils. Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, any group of mobs can aid your escape. Keep in mind that hitting a monster even once **will** make them attack you.
@@ -250,7 +250,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras) will be helpful in fleeing any unwanted fights and navigate the treacherous terrain.
 -   **AVOID** fighting a [Megalodaunt](Megalodaunt.md) near pitfalls - getting kicked by a Megalodaunt will likely fling you off the edge, which may lead you to an unexpected wipe, or Layer 2 visit. If you do happen to fight one near a pitfall/cliff, and there is no chance of regaining flat ground with no risks of pitfalls, face your character towards the edge of the cliff. The Megalodaunt will **always** attack facing the characters front side.
 -   **AVOID** the [Nautilodaunt](Nautilodaunt.md) if you're unexperienced with it. The Nautilodaunt will make loud grumbling noises when in it's idle spawn state. Once spotted, it is extremely difficult to escape. Unlike any normal monster, they can spot you at unfairly long distances, even when you're not even in their line of sight. They're very tough but also highly intelligent in close combat, being able to skillfully parry, block and vent attacks and criticals which leaves you having a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log after your combat tag disappears. Because if you didn't know already, they will **never** stop chasing you.
--   Avoid any monsters you have little to no experience with, especially [Deep](Deep_Owl.md) [Owls](Deep_Owl.md), [King](King_Thresher.md) [Threshers](King_Thresher.md) and [Nautilodaunts](Nautilodaunt.md), which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**. For many mobs, you can fight them somewhere else with less risk (Except for the Nautilodaunts since they spawn in the Depths, but the Diluvian Mechanism is a very unorthodox but available way to train).
+-   Avoid any monsters you have little to no experience with, especially [Deep](Deep_Owl.md) [Owls](Deep_Owl.md), [King](King_Thresher.md) [Threshers](King_Thresher.md) and [Nautilodaunts](Nautilodaunt.md), which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**. For many mobs, you can fight them somewhere else with less risk (Except for the Nautilodaunts since they spawn in the Depths, but [the Diluvian Mechanism](The_Diluvian_Mechanism.md) is a very unorthodox but available way to train).
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe if not careful.
 -   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire, but can be used with graceful flame. Thresher scales does not work with the Diver lockers.
@@ -271,8 +271,8 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 -   According to the "Munet Journal, XIV", It canonically takes 2 weeks for a being to escape the depths.
--   **The Boulder Event in the Depths can spawn most monsters including 2 [Threshers](Thresher.md), a [Megalodaunt](Megalodaunt.md), an [Alpha](Alpha_Megalodaunt.md) [Megalodaunt](Alpha_Megalodaunt.md), a [King](King_Thresher.md) [Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [hellmode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)**
--   If you go into the Depths Trial arena solo, but your Difficulty Score is low enough for your trial to be Nothing, then the Voice of Enmity and Voice of Odium have special dialogue(something about you being feeble/weak i forgot what they say exactly), and the Voice of Authority doesn't talk.
+-   **The Boulder Event in the Depths can spawn most monsters including 2 [Threshers](Thresher.md), a [Megalodaunt](Megalodaunt.md), an [Alpha](Alpha_Megalodaunt.md) [Megalodaunt](Alpha_Megalodaunt.md), a [King](King_Thresher.md) [Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [Hell Mode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)**
+-   If you go into the Depths Trial arena solo, but your Difficulty Score is low enough for your trial to be Nothing, then the Voice of Enmity and Voice of Odium have special dialogue, and the Voice of Authority doesn't talk.
 -   Previously, 4 bells located throughout the city were required to be rung in order to escape the depths.
     -   This was adjusted, likely because of how much time it took and how risky it was, causing players to use unintended but easier methods.
     -   In the same update, one of the elevator entrances were replaced with the sub-elevator, with a risky approach.

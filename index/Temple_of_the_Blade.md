@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 136775
+revid: 138564
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea, Isle of Vigil, Temple of the Blade]
@@ -22,7 +22,7 @@ Temple of the Blade during Winter
 
 ## Overview
 
-The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_Vigils.md). It contains most of the Isle's necessities and has a unique Sparring Arena, where players may practice fighting [the trainer](Blade_Instructor.md), without the risk of being gripped, usually good for beginners who want to learn the combat basics.
+The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_Vigils.md). It contains most of the Isle's necessities and has a unique Sparring Arena, where players may practice fighting [the trainer](Blade_Instructor.md), without the risk of being gripped. This area is usually good for beginners who want to learn the basics of combat or more experienced players who wish to farm weapon EXP early game
 
 ## Points of Interest
 

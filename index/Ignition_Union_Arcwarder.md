@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 132573
+revid: 138559
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Ignition Union, Ignition Union Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-**Ignition Union Arcwarders** are **[Ambush Enemies](https://deepwoken.fandom.com/wiki/Category:Ambush_Enemies)** tied to the [Ignition Union](The_Ignition_Union.md), and wield their Oaths. They will start hunting down the player if their reputation is very low with the Union. They are highly dangerous NPCs and can easily kill any inexperienced player.
+**Ignition Union Arcwarders** are **[Ambush Enemies](https://deepwoken.fandom.com/wiki/Category:Ambush_Enemies)** tied to the [Ignition Union](The_Ignition_Union.md), and wield the [Arcwarder Oath](Oath%253A_Arcwarder.md). They will start hunting down the player if their reputation is very low with the Union. They are highly dangerous NPCs and can easily kill any inexperienced player.
 
 ## Moveset
 
@@ -46,7 +46,7 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 -   For some really bizarre reason, they could wield **enchanted** [Railblades](Railblade.md) when Railblades were still Legandary weapons, which wasn't possible for players during that time.[\[1\]](#cite-note-1)
 -   They are one of the few NPCs that use Oaths, with the said NPCs being the [Black Divers](<Black_Diver_(NPC).md>), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) / [Old Knife of Eylis](Old_Knife_of_Eylis.md), [the Starkindred angels](Iblis,_The_Fallen_Angel.md) and the [Ministry Enforcer](Ministry_Enforcer.md).
 -   They will ambush you along with a [Mechalodaunt](Megalodaunt.md).
--   Despite the [Arcwarder Oath](Oath%253A_Arcwarder.md) is given to either Deepdelvers and people who have gained the Union's trust. The Ignition Union Arcwarders wear the [Ignition Union Uniform](Ignition_Union_Uniform.md).
+-   Despite the [Arcwarder Oath](Oath%253A_Arcwarder.md) being given to Deepdelvers and people who have gained the Union's trust. The Ignition Union Arcwarders wear the [Ignition Union Uniform](Ignition_Union_Uniform.md).
 
 ## References
 

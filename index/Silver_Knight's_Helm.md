@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 138142
+revid: 138558
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Helmets, Items]
 
 ## Description
 
-The Knight's Helm is an Equipment in the "_Head_" category_._ Equipping this item will give you +10 health, as well as extra randomized stats based on the amount of pips. It is also worn by the [Upgraded Celtorian Guard](Celtorian_Guard.md) found in the wave 46 of the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
+The Knight's Helm is an Equipment in the "_Head_" category_._ Equipping this item will give you +10 health, as well as extra randomized stats based on the amount of Pips. It is also worn by the [Upgraded Celtorian Guard](Celtorian_Guard.md) found in wave 46 of the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
   
 

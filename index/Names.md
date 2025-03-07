@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 136204
+revid: 138556
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -14,38 +14,41 @@ Your Name is one of the many ways to choose how you appear in-game to yourself a
 
 -   A Randomized name will be assigned to you at the beginning of character creation, though this may be changed at any time during the process or later at a [Barber](Barber.md) for 100 notes.
 
--   Your name consists of a First name, Last name and Title, The Latter of which is only assigned to players under exceptional circumstances such as winning Community Events or as a reward to Moderators and Testers.
+-   Your name consists of a first name and last name. Some characters may obtain a "Title" after their name, which is indicated with a comma after the name, although these are exclusive to community events and the moderation team.
 
 -   First names may be chosen from 3 pools of Masculine, Feminine and Neutral choices.
 -   Last names are exclusive to each [Aspect](Aspects.md).
 
 ## Flairs
 
-Flairs (Not to be confused with Titles) are cosmetic name colours obtained by surpassing the most difficult challenges in-game, including PvP and PvE accomplishments.
-
-Listed below are all flairs available currently in-game.
+Flairs are cosmetic name colours obtained by surpassing the most difficult challenges in-game, including PvP and PvE accomplishments. They will change the colour of your name on the character list (Top-Right corner in-game) depending on which flair(s) you have obtained. If you have obtained more than one flair, the one with the lowest priority will display on the character list.
 
 <table><caption></caption>
 <tbody>
 <tr>
   <th>Flair</th>
+  <th>Priority</th>
   <th>Requirements</th>
 </tr>
 <tr>
   <td>Emerald</td>
-  <td>Achieve the W Rank badge, Completing all Echo Accomplishments while under the effects of every original Echo Modifier.</td>
+  <td>4</td>
+  <td>Obtain the badge "W-Rank", obtainable through getting S-Rank (all echo quests) with all echo modifiers enabled.</td>
 </tr>
 <tr>
   <td>Silver</td>
-  <td>Currently holding between the 101st-250th rank within Chime of Conflict.</td>
+  <td>3</td>
+  <td>Currently holding between the 250th-51st rank within the Chime of Conflict.</td>
 </tr>
 <tr>
   <td>Gold</td>
-  <td>Currently holding between the 100th-11th rank within Chime of Conflict.</td>
+  <td>2</td>
+  <td>Currently holding between the 50th-11th rank within the Chime of Conflict.</td>
 </tr>
 <tr>
-  <td>Godseeker</td>
-  <td>Currently holding between the 10th-1st rank within Chime of Conflict.</td>
+  <td>Ruby</td>
+  <td>1</td>
+  <td>Currently holding between the 10th-1st rank within the Chime of Conflict.</td>
 </tr>
 </tbody>
 </table>

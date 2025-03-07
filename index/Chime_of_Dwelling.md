@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 137828
+revid: 138563
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Guilds, Items]
@@ -43,7 +43,7 @@ Chime of Dwelling Item.
 -   Anybody can enter the base through the door, but only guild members can use appliances
 -   If your guild base is present on the map you are able to respawn to it if you die or reset
 -   Players cannot go into or out of guild halls while holding a body
--   Guild Bases only despawn if the whole guild has left the server
+-   Guild Bases only despawn if every guild member has left the server
 -   If a base is present and the Chime is used again somewhere else, the current base will be moved to the new location, given that no one is present inside of the base
 -   Similar to the [Chime of Conflict](Chime_of_Conflict.md), this item is undroppable, and resides in your inventory at all times
 -   If you are looking for a detailed page about the guilds inside, read [Guild Base](Guild_Bases.md) or [Guilds](Guilds.md)

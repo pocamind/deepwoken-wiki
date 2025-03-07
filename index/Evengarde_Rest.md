@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 138095
+revid: 138576
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -18,7 +18,7 @@ _This is his appearance as a static NPC within the [Temple of the Blade](Temple_
 
 ## Description
 
-**Evengarde Rest** is the current Maestro of the Vigil Guard and is highly respected by all of them. He resides within the [Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. A master of combat arts, Rest is able to teach players how to overcome the limits of their weapon proficiencies.
+**Evengarde Rest** is the current Maestro of the Vigil Guard and is highly respected by all of them. He resides within [The Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. A master of combat arts, Rest is able to teach players how to overcome the limits of their weapon proficiencies.
 
 Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's attribute.
 

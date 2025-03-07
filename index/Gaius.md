@@ -1,6 +1,6 @@
 ---
 title: Gaius
-revid: 131727
+revid: 138562
 source: https://deepwoken.fandom.com/wiki/Gaius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Etrean Luminant]
@@ -16,7 +16,7 @@ categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Etrean Lu
 
 ## Description
 
-Gaius is a NPC that is a part of [The Hundred Legions](The_Hundred_Legions.md), belonging to the 11th Scouting Legion. He rants on how he has the most potential in all of the [Legion](The_Hundred_Legions.md) and shouldn't be stationed in the Etrean Luminant.
+Gaius is a NPC that is a part of [The Hundred Legions](The_Hundred_Legions.md), belonging to the 11th Scouting Legion. He rants about how he has the most potential in all of the [Legion](The_Hundred_Legions.md) and shouldn't be stationed in the Etrean Luminant.
 
 ## Location
 

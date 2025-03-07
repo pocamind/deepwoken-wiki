@@ -1,6 +1,6 @@
 ---
 title: Vesque
-revid: 136657
+revid: 138539
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
@@ -87,5 +87,6 @@ categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
 
 ## Trivia
 
+-   Vesque seems to be a whole different race variant of Etrean.
 -   Vesque appears to suffer from an inferiority complex: his idiolect has a recurring theme of needing prestige and self-aggrandization, such to the point that the player character treats him like a nuisance.
     -   Despite this, he is perfectly capable of teaching the player how to wield Fang and Coil. In addition, he wears the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) Outfit, the description of which implies he is a master of the art.

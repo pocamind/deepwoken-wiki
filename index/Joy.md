@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 124928
+revid: 138571
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Mechanics, Currency]
@@ -17,7 +17,7 @@ Joy is used for currency in the [Hallowtide](Hallowtide.md) event, and can be tr
 
 Joy is bound to your character. If your slot wipes, and you make a new character, Joy will NOT be transferred over.
 
-Generally, it is recommended for you to to buy the [**Hallowtide '22, '23, and '24 Medals**](Seasonal_Medals.md), the _Hallowtide Aspect Variants_, and (optionally) the [_Spectral Instrument Set_](Instruments.md#spectral-instruments) first. As the all the yearly medals will allow you to unlock Hallowtide-exclusive weapons and equipments with knowledge _**after the event is over**_. Which also includes the [Harrowing](Enchantments.md) enchantment and Pumpkin Pitch mantra.
+Generally, it is recommended for you to to buy the [**Hallowtide '22, '23, and '24 Medals**](Seasonal_Medals.md), the _Hallowtide Aspect Variants_, and (optionally) the [_Spectral Instrument Set_](Instruments.md#spectral-instruments) first. As the all the yearly medals will allow you to unlock Hallowtide-exclusive weapons and equipment with knowledge _**after the event is over**_. Which also includes the [Harrowing](Enchantments.md) enchantment and Pumpkin Pitch mantra.
 
 ## Obtainment
 
@@ -36,9 +36,9 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
     1.  For **35 Joy**: You can buy 3 Head Equipments: [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>), [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), and [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>).
         -   You can also buy 2 Unique Outfits: [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>).
     2.  For **50 Joy**: You can buy the [Pumpkin Head](Pumpkin_Head.md) Head equipment.
-    3.  For **70 Joy**: You can buy a _Hollowtide Variant_ for all of your aspects. This purchase is account-wide, unlocking for your current and future slots and aspects. You can talk to Lysander again to activate the variants immediately.
-    4.  For **100 Joy**: You can buy a random [relic](Relics.md). This does not include Rain, Void Spire, Enchant relics, Gilded Needle, and the [Whistling Periapt](Whistling_Periapt.md). All chances for any relics are the same.
-        -   You can also buy a Head Equipment: [Mushroom Costume](Mushroom_Costume.md).
+    3.  For **70 Joy**: You can buy a _Hallowtide Variant_ for all of your aspects. This purchase is account-wide, unlocking for your current and future slots and aspects. You can talk to Lysander again to activate the variants immediately.
+    4.  For **100 Joy**: You can buy a random [relic](Relics.md). This does not include Rain Spire, Void Spire, Enchant relics, Gilded Needle, and the [Whistling Periapt](Whistling_Periapt.md). All chances for any relics are the same.
+        -   You can also buy a Head Equipment: for the same price [Mushroom Costume](Mushroom_Costume.md).
     5.  For **200 Joy**: You can buy the [**Hallowtide '22 and '23 Medals**](Seasonal_Medals.md). More information can be found in its respective page.
     6.  For **300 Joy**: You can buy the [**Hallowtide '24 Medal**](Seasonal_Medals.md). More information can be found on its respective page.
 
