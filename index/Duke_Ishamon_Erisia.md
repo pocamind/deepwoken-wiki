@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 138258
+revid: 138624
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -18,7 +18,7 @@ Template:EnemyInfobox1.0
 
 **Duke Ishamon Erisia** (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
-Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
+Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
 He is a noble who resided in the City of Celtor before the Great Drowning. In appearance, the Duke is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 

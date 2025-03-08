@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 137908
+revid: 138601
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, The Divers, NPCs located in the Etrean Luminant]
@@ -20,7 +20,7 @@ categories: [Adret NPCs, NPCs, Quests, The Divers, NPCs located in the Etrean Lu
 
 ## Description
 
-Karliah is an apprentice Diver in [Etris](Etris.md) who, by a quest, allows you to unbound your Charisma. Karliah's quest has numerous Charisma checks, and you can only unbind the attribute if you have it at max.
+Karliah is an apprentice Diver in [Etris](Etris.md) who, via a quest, allows you to [unbound](Attributes_Unbound.md) your Charisma. Karliah's quest has numerous Charisma checks, and you can only unbind the attribute if you have it at max, that being 75.
 
 More details about the quest can be found [here](Etris.md#diver-apprentice-quest).
 
@@ -28,7 +28,7 @@ More details about the quest can be found [here](Etris.md#diver-apprentice-quest
 
 After the quest, Karliah quits [The Divers](The_Divers.md) and can be found resting in her house wearing different clothing. Now grateful for your insight on the realities of life, she reflects on how friendly the people of Etris are with her.
 
-NOTE: Do not pick the first option neither the second option after saving Karliah from the Mudskipper attack, or the quest will end unsuccesful.
+NOTE: Do not pick the first option or the second option after saving Karliah from the Mudskipper attack, or the quest will end unsuccessfully and you will not get your unbound.
 
   
 

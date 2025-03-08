@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 137660
+revid: 138607
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -24,7 +24,7 @@ categories: [Resonances]
 
 ### _Appearance_
 
-When used, small circles appear around your right arm. Per use, more circles will appear indicating an increase in level. The circles can be multiple different colors, such as green or gold.
+When used, small circles appear around your right arm. Per use, more circles will appear indicating an increase in level. The circles can be multiple different colors, such as green or gold, and red when charged in combat
 
 ## Usage
 

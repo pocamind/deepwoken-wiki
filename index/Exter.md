@@ -1,6 +1,6 @@
 ---
 title: Exter
-revid: 137878
+revid: 138582
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -16,7 +16,7 @@ categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
 
 ## Description
 
-Exter is a [Gremor](Gremor.md) NPC who resides in [Meteor Isle](Meteor_Isle.md), he is just one of the residents of the village there and apparently has no connection with The Children of Navae faction. You can find it centered on top of a large rock looking at some ancient ruins and a large horizon in front of it.
+Exter is a [Gremor](Gremor.md) NPC who resides in [Meteor Isle](Meteor_Isle.md). He is just one of the residents of the village there and apparently has no connection with The Children of Navae faction. You can find him centered on top of a large rock looking at some ancient ruins and a large horizon in front of it.
 
 ## Dialogue
 

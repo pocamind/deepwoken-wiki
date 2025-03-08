@@ -1,6 +1,6 @@
 ---
 title: "Flabbernaster Filingree, the First Mate"
-revid: 137882
+revid: 138620
 source: https://deepwoken.fandom.com/wiki/Flabbernaster_Filingree%2C_the_First_Mate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs]
@@ -16,7 +16,7 @@ categories: [Gremor NPCs, NPCs]
 
 ## Description
 
-Flabbernaster Filingree, the First Mate is a [Gremor](Gremor.md) NPC who was part of [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>), being his first mate. Appears to be well-versed in combat, considering how she devastated the player in sparring the day before.
+Flabbernaster Filingree, the First Mate is a [Gremor](Gremor.md) NPC who was part of [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>), being his first mate. Appears to be well-versed in combat, considering how she had supposedly devastated the player in a sparring match the day before.
 
 ## Dialogue
 

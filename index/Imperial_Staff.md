@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 138130
+revid: 138618
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Multiple Criticals]
@@ -46,3 +46,4 @@ The running critical is a multi-hit where the user spins the staff in their hand
 -   The Imperial Staff is inspired by Sun Wukong's "金箍棒" (Jīn gū bàng; lit. gold cudgel), including the little effects around the head the staff gives you imitating the controlling crown Sun Wukong wore. The Jīn gū bàng is Wukong's signature weapon, a pillar once owned by the Dragon King of the East Sea, portrayed as a gold and red staff in most media like movies and games.
 -   The placeholder critical for this weapon was the [Unsung Scythern](Unsung_Scythern.md)'s when used in old servers during its release.
 -   Just like [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md) this weapon is locked in one-handed stance
+-   The Aerial crit can proc meteor impact

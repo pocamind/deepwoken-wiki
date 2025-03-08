@@ -1,6 +1,6 @@
 ---
 title: Light Eater Ring
-revid: 135147
+revid: 138606
 source: https://deepwoken.fandom.com/wiki/Light_Eater_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -25,4 +25,4 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Light Eater Ring** causes the user to regenerate ether upon taking damage from [Flamecharm](Flamecharm.md) mantras, or [Thundercall](Thundercall.md) mantras, or burn. The ether regeneration scales on damage taken. The user must be at Power 3 to equip this ring.
+**Light Eater Ring** causes the user to regenerate ether upon taking damage from [Flamecharm](Flamecharm.md) and [Thundercall](Thundercall.md) mantras, or the burn status effect. The ether regeneration scales on damage taken. The user must be at Power 3 to equip this ring.

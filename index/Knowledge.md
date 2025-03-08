@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 137236
+revid: 138635
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -50,6 +50,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Killing [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time, awarding 2 Knowledge.
     -   Killing [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealt at least 35% of his HP. This rewards 1 Knowledge and can be repeated.
 -   Killing [Duke Erisia](Duke_Ishamon_Erisia.md) for the first time, awarding 2 Knowledge once teleported out of the dungeon.
+    -   Killing [Duke Erisia](Duke_Ishamon_Erisia.md) while having dealt at least (Unknown %) of his HP. This rewards 1 Knowledge and can be repeated.
 -   Killing the [Scion of Ethiron](Scion_of_Ethiron.md) for the first time, awarding 2 Knowledge.
 -   Killing a [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
 -   Killing the following monsters for the first time, awarding 1 Knowledge each:

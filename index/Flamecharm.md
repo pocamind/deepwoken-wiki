@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 138452
+revid: 138610
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -16,15 +16,15 @@ Flamecharm Icon
 
 ## Description
 
-**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create combustion using Ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility.
+**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create flames using Ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility and mobility.
 
 ## Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), [Amashi](Amashi,_Master_of_Flame.md), can be located at the [Songseeker Temple](Songseeker_Temple.md) in [Songseeker Wilds](Songseeker_Wilds.md). When speaking to Amashi, he will request five (5) [Dying Embers](Dying_Embers.md). If you have obtained Flamecharm previously on your account, Amashi will request two (2) Dying Embers instead. Once you give Amashi the Dying Embers, he will hand you the [Hearthblood Potion](Attunement_Potions.md); drink this to obtain Flamecharm.
+The [Attunement Trainer](Attunement_Trainers.md), [Amashi](Amashi,_Master_of_Flame.md), can be located at the [Songseeker Temple](Songseeker_Temple.md) in [Songseeker Wilds](Songseeker_Wilds.md). When speaking to Amashi, he will request five [Dying Embers](Dying_Embers.md). If you have obtained Flamecharm previously on your account, Amashi will request two Dying Embers instead. Once you give Amashi the Dying Embers, he will hand you the [Hearthblood Potion](Attunement_Potions.md); drink this to obtain Flamecharm.
 
 ## Training
 
-Flamecharm can be trained with a combination of the [Hearthgem](Training_Gear.md#attunement-training-gears) and Flamecharm Mantras.
+Flamecharm can be trained with a combination of the [Hearthgem](Training_Gear.md#attunement-training-gears) and landing Flamecharm Mantras.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 

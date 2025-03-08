@@ -1,6 +1,6 @@
 ---
 title: Imperial Pauldrons
-revid: 135110
+revid: 138614
 source: https://deepwoken.fandom.com/wiki/Imperial_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -30,4 +30,4 @@ The Imperial Pauldrons is an [Equipment](Equipment.md) item under the "Arms" cat
 
 ## Trivia
 
--   The Imperial Pauldrons are part of the "Imperial" set; with the only other piece being the [Imperial Boots](Imperial_Boots.md).
+-   The Imperial Pauldrons are part of the "Imperial" set; with the only other piece in the set being the [Imperial Boots](Imperial_Boots.md).

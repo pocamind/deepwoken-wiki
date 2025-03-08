@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 130946
+revid: 138622
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -21,7 +21,7 @@ categories: [Pages with broken file links, NPCs, Quests, Etrea, NPCs located in 
 
 Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) and the [Barber](Barber.md), Nanji is an Etrean NPC who is looking for her brother [Ilji](Ilji.md). Choosing the correct dialogue responses will begin the [Chipped Sword](Chipped_Sword.md) sidequest.
 
-Though it is unadvisable, you can accept the quest first before going through the trouble of getting to the [Isle of Vigils](Isle_of_Vigils.md) for the [Chipped Sword](Chipped_Sword.md), and back to Etris. It is generally recommended that first you go to Vigils for the sword, then back to Etris, saving the round trip.
+Though it is unadvisable, you can accept the quest first before going through the trouble of getting to the [Isle of Vigils](Isle_of_Vigils.md) for the [Chipped Sword](Chipped_Sword.md), and back to Etris. It is generally recommended that first you go to Vigils for the sword, then back to Etris, therefore saving the round trip.
 
 ## Quest details
 
@@ -29,7 +29,7 @@ File:Image 2022-04-18 224253146.png
 
 An Etrean interacting with the sword
 
-Completing her sidequest will reward you with EXP, positive Etris reputation, and Compassion.
+Completing her sidequest will reward you with EXP, positive [Etrea](Etrea.md) reputation, and Compassion.
 
 1.  Go to the [Isle of Vigils](Isle_of_Vigils.md).
 2.  Find the Well Preserved Grave near the attunement training gear shop.

@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 132254
+revid: 138617
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies, Etrea]
@@ -8,12 +8,12 @@ categories: [Pages with broken file links, Enemies, Enemies that can wield Encha
 
 # Etrean Royal Guard (Enemy)
 
-Not to be confused with the outfit that has a similar name, [Royal Etrean Guard](Royal_Etrean_Guard.md).  
+Not to be confused with the outfit that posesses a similar name, that being the [Royal Etrean Guard](Royal_Etrean_Guard.md) outfit.  
 Template:EnemyInfobox1.0
 
 ## Description
 
-An Etrean Royal Guard is a type of enemy NPC that wields a [Katana](Katana.md) and can be found inside and outside the Palace at [Etris](Etris.md). Attacking them or going near them without enough reputation brings you the same fate as attacking the Fort Merit guards. They'll appear when you grip two Etrean guards, even if you have positive reputation. They have a much higher required reputation level for peaceful interaction than normal [Etrean Guards](Etrean_Guardsmen.md), requiring the player to be referred to by name for them not to attack on sight.
+An Etrean Royal Guard is a type of enemy NPC that wields a [Katana](Katana.md) and can be found inside and outside the Palace at [Etris](Etris.md). Attacking them or going near them without high enough reputation brings you the same fate as attacking any other faction guards. They'll appear when you grip two Etrean guards, even if you have positive reputation. They have a much higher required reputation level for peaceful interaction than normal [Etrean Guards](Etrean_Guardsmen.md), requiring the player to be referred to by name for them not to attack on sight.
 
 An Etrean Royal Guard wears a [Blackleaf Helm](Blackleaf_Helm.md) and a darkened version of the [Royal Etrean Guard](Royal_Etrean_Guard.md) outfit. They are all [Etrean](Etrean.md).
 

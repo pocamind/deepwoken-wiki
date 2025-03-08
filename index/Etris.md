@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 134353
+revid: 138646
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -20,7 +20,7 @@ File:Etrisshadered.png
 
 ## Overview
 
-Etris is the capital of the [Etrean Kingdom](Etrea.md), being on top of a tall mountain with amazing views and dangerous falls. It marks the beginning of the adventures of many, as it is one of the two spawn locations new players can choose. It resides on a tall mountain. To get to the docks, you must take a short walk past the Navaen camp and pass the Etrean Wilderness.
+Etris is the capital of the [Kingdom of Etrea](Etrea.md), being on top of a tall mountain with amazing views and dangerous, possibly life-threatening falls. It marks the beginning of the adventures of many, as it is one of the two spawn locations new players can choose. It resides on a tall mountain. To get to the docks, you must take a short walk past the Navaen camp and pass the Etrean Wilderness.
 
 ## Landmarks & Sub locations
 
@@ -121,7 +121,7 @@ General store
 #### The Den
 
 -   The [Den Master](Den_Master.md) can be found here. He sells [Cloudstones](Mantra_Modifiers.md), [Amnesic Driftwood](Mantra_Modifiers.md), [Drift Shards](Mantra_Modifiers.md), and [Crystal Lenses](Mantra_Modifiers.md) for each.
--   To get there, either sail with the right wall from the docks, or fall from where [Kennith](Kennith.md) dies.
+-   To get there, either sail with the right wall from the docks, or fall to the right of where [Kennith](Kennith.md)'s dismembered corpse is hung up
 
 #### Alchemist's Lodge
 
@@ -130,7 +130,7 @@ General store
 
 #### Miscellaneous
 
--   [Polis](Polis.md) can be found in the middle of the city. If you follow the first dialogue, he will give you a [Gold Ring](Equipment.md).
+-   [Polis](Polis.md) can be found in the middle of the city. If you follow the first dialogue, he will give you a [Gold Ring](Equipment.md) that you can equip or sell
 
 ## Quests
 
@@ -145,7 +145,7 @@ General store
 
 -   Talk to Jim, a red-haired [Canor](Canor.md) located in a house within the [Etris Docks](Etris_Docks.md).
 -   He mutters about lacking the necessary ingredients; agreeing to help him requires 2 Dying Embers.
--   The reward for completing this quest is a random high tier [mantra modifier](Mantra_Modifiers.md).
+-   The reward for completing this quest is a random high tier [mantra modifier](Mantra_Modifiers.md) and a Talent hand
 
 ### Lumberjack Quest
 
@@ -154,6 +154,7 @@ General store
 -   Accepting his quest gives you a lumber axe for free.
 -   6 wood for.
 -   This quest is repeatable.
+-   An incredible way of getting Etrea reputation
 
 ### Treefelling Blow Talent Quest
 
@@ -177,19 +178,19 @@ General store
 
 Warning: This quest is exceptionally difficult. Recommended for high-level and properly equipped players.
 
--   To begin this quest, you must have a positive [reputation](Reputation.md) in Etrea. This can be achieved by helping the Etrean Guards in the [Etrea vs Authority](Random_Encounters.md#x-vs-x) event or the [Etrean Guards vs Pirates event](Random_Encounters.md). If you have a lot of notes, you can simply buy wood and hand it to the lumberjack. Similarly, you can chop trees and sell their wood to the lumberjack.
+-   To begin this quest, you must have around Ally [reputation](Reputation.md) with Etrea. This can be achieved by helping the Etrean Guards in the [Etrea vs Authority](Random_Encounters.md#x-vs-x) event or the [Etrean Guards vs Pirates event](Random_Encounters.md). If you have a lot of notes, you can simply buy wood and hand it to the lumberjack. Similarly, you can chop trees and sell their wood to the lumberjack.
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to [Kennith](Kennith.md). Kennith is an Etrean Guard and is located next to a bridge near the [Palace](Etris_Palace.md).
 -   [Kennith](Kennith.md) will ask you to talk to the locals of Etris about the [Lord Regent's](The_Lord_Regent.md) reputation as a ruler.
 -   Talk to Bookkeeper [Andros](Bookkeeper_Andros.md) in the library.
 
--   After talking to [Andros](Bookkeeper_Andros.md), head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of [Kennith](Kennith.md). A Royal Guard will send you to the Lord Regent as an audience. (Additionally, you are able to skip this stage by talking to any [Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) as opposed to the one at the death scene of [Kennith](Kennith.md) you must sneak up on them or they will aggro you)
+-   After talking to [Andros](Bookkeeper_Andros.md), head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of [Kennith](Kennith.md). A Royal Guard will send you to the Lord Regent as an audience. (Additionally, you are able to skip this stage by talking to any [Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) as opposed to the one at the death scene of [Kennith](Kennith.md) you must sneak up on them or they will aggro on you)
 
 -   Make sure you talk to the [Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) to tell them that the the Lord Regent is expecting you, making them docile unless provoked.
 
--   Heading upstairs, talk to the Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**. He will hire you into doing his bidding of obtaining an artifact (known as the Forge) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) in [Erisia](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
+-   Heading upstairs, talk to the Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**. He will hire you into doing his bidding of obtaining an artifact (known as the Forge of Sin) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) in [Erisia](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
 -   Traverse through [Erisia](Erisia.md). Go through the [Towerstruck Lands](Towerstruck_Lands.md) and into the [Garden Reservoir](The_Garden_Reservoir.md); there, a portal will be seen, which leads to the Manor.
 -   To use the key to unlock the black iron gate, the key must be glowing white.
--   Descend to the elevators, and fight against a handful of [enemies](Enemies.md) and humanoid constructs.
+-   Descend to the elevators, and fight against a handful of [enemies](Enemies.md) and [Golems](Rock_Golem.md).
 -   Fight [Duke Erisia](Duke_Ishamon_Erisia.md); a [Celtor](Celtor.md) scientist who went insane from his corrupted knowledge.
     -   Failure to fight the [boss](Bosses.md) (via escaping the boss room through the elevators again or dying) and reporting to the Lord Regent that you failed to drive the Duke out of the Manor causes the Lord Regent to execute you where you stand.
 -   After you defeat the Duke, if you visit the Lord Regent once again, he thanks you for your help and disposes of you, as you're no longer needed.

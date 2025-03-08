@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 133978
+revid: 138619
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -24,7 +24,7 @@ categories: [Resonances]
 
 ### Appearance
 
-On usage, the user will leave behind a vortex-esque portal and be transported into a realm called [_The Interstice_](The_Interstice.md), where surfaces are dark, the fog is heavy, and abandoned, destroyed buildings lay.
+Upon usage, the user will leave behind a vortex shaped portal and be transported into a realm called [_The Interstice_](The_Interstice.md), where surfaces are dark, the fog is heavy, and abandoned, destroyed buildings lay around.
 
 ## Usage
 

@@ -1,6 +1,6 @@
 ---
 title: Thresher Spine
-revid: 111793
+revid: 138637
 source: https://deepwoken.fandom.com/wiki/Thresher_Spine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -20,7 +20,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-The **Thresher Spine** is a common drops from [Threshers](Thresher.md), and can be found in the [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), [Lightkeeper Temple](Lightkeeper_Temple.md), [Deep Thresher Nest](Deep_Thresher_Nest.md), and [The Diluvian Mechanism](The_Diluvian_Mechanism.md). They can be sold to an [Antiquarian](Antiquarian.md) for 15 notes. If you have 10 of them in your inventory, you cannot pick up any more. You can use this item to craft armor like [Black Diver](Black_Diver.md) or show it to [Sibex](Sibex.md) for him to check your [Resonance](Resonance.md) progression.
+The **Thresher Spine** is a common drop from [Threshers](Thresher.md), and can be found in the [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), [Lightkeeper Temple](Lightkeeper_Temple.md), [Deep Thresher Nest](Deep_Thresher_Nest.md), and [The Diluvian Mechanism](The_Diluvian_Mechanism.md). They can be sold to an [Antiquarian](Antiquarian.md) for 15 notes. If you have 10 of them in your inventory, you cannot pick up any more. You can use this item to craft [outfits](Outfits.md) like [Black Diver](Black_Diver.md) or show it to [Sibex](Sibex.md) for him to check your [Resonance](Resonance.md) progression.
 
 ## Trivia
 

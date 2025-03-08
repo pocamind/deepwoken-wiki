@@ -1,6 +1,6 @@
 ---
 title: Summer Company Guard
-revid: 124920
+revid: 138611
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Summer Company, Summer Company Enemies]
@@ -23,7 +23,7 @@ A Summer Company Guard only wears the [Summer Company Uniform](Summer_Company_Un
 
 ## Moveset
 
-A Summer Company Guard's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
+A Summer Company Guard's arsenal consists of a [Flintlock](Flintlock.md) pistol and the following mantras:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

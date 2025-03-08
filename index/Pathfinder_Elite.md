@@ -1,9 +1,9 @@
 ---
 title: Pathfinder Elite
-revid: 131030
+revid: 138625
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms]
+categories: [Items, Equipment, Arms, Drops, Coats]
 ---
 
 # Pathfinder Elite

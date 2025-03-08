@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart/Old Silentheart"
-revid: 133218
+revid: 138621
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart/Old_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Oaths]
@@ -23,7 +23,7 @@ notices:
 
 **[Oath](../Oaths.md): Silentheart** is one of the 14 obtainable Oaths_._ It sacrifices [Mantras](../Mantras.md) and [Attunements](../Attunements.md) as a whole in exchange for significant mantra resistance and a unique set of attacks integrated into your moveset.
 
-**As of September 13, 2024, it has received a fairly substantial rework.** These changes are not currently on this page.
+**As of September 13, 2024, the Silentheart Oath has received a fairly substantial rework.** These changes are not on this page.
 
 “ You feel as though a part of yourself has drifted away, into the vast nothingness of the Song. As sudden as this sensation arrived, a new piece of you took place. This heart beats differently, it drums to the beat of the world, not the Song, ever silent. ”
 

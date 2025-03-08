@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 137890
+revid: 138585
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -20,7 +20,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-Bounders are monsters that dwell within the [Second Layer](Second_Layer.md) of The Depths. They are infamous for their lethality, with an equally horrific appearance.
+Bounders are monsters that dwell within the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md). They are infamous for their lethality, with an equally horrific appearance.
 
 Bounders have a body structure that resembles [Megalodaunts](Megalodaunt.md), featuring animalistic traits that, although similar, are present in a much more awful form. They have significantly hunched posture, elongated limbs, six ringed eyes, and notably, an upsettingly wide mouth with two sets of gigantic teeth. Unlike Megalodaunts, Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
 
