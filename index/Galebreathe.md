@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 138378
+revid: 138655
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -299,7 +299,7 @@ Wind + Slash
 -   Deals 63.99 (20.93\*3+1.2) DMG, 27 (8.58\*3) posture, 0.55s windup, 9.5s cd at 5 lvl.
 -   With 6 songchant deals 71.23 (23.3\*3 + 1.33)
 -   Applies Hitstun.
--   Can break objects.
+-   Can break objects (must be at least second lvl).
 -   Can be modified with Cloud/Stratus Stones and Perfect/Crystal Lenses to increase size.
 -   Can be modified with Vibrant Gems to increase the speed of the push, or pull with **Vacuum Punch**.
 -   Can be upgraded with the "**Vacuum Punch**" Talent.
