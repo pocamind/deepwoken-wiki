@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 138652
+revid: 138665
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -315,7 +315,7 @@ Blood
 **Effect:** _Jump up into the air before slamming down, dealing AoE damage and applying knockdown._
 
 -   Deals 73.06 (56.2 slam + 16.86 Bleed), total DMG 73.06, 15.3 posture, Has 10s CD
--   With 6 songchant 88.5 (68.07 slam + 20.43 BLeed) DMG
+-   With 6 songchant 88.5 (68.07 slam + 20.43 Bleed) DMG
 -   Has 9.18x PVE scale (56.2 + 16.86 DMG PVP, 515.91 + 154.77 PVE DMG)
 -   Leaves behind a Blood Pool.
 -   Applies knockdown to the enemy on hit.

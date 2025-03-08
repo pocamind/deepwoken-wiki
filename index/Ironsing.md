@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 138380
+revid: 138664
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -333,7 +333,7 @@ Metal + Slash + Bleed
 
 -   Deals 43.54 (33.49 + 10.05 Bleed) DMG, 0.45s wind up, 10s cd at 5 lvl.
 -   With 6 songchant deals 48.46 (37.27 + 11.19 Bleed) DMG
--   Has 9.18x PVE scale (33.49 DMG + 10.05 bleed, 307.42 DMG + 92.22 bleed PVE)
+-   Has 9.18x PVE scale (33.49 DMG + 10.05 Bleed, 307.42 DMG + 92.22 Bleed PVE)
 -   Doesn't break your momentum, meaning you can run while using it or vice versa.
 -   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it.
     -   The blood particles are always red, even if you have Alloyblood.
@@ -490,6 +490,7 @@ Metal + Slash + Bleed
 
 -   Deals 67 (9.57 + 2.88 Bleed \* 4, at end of grab does 15.95 DMG + 4.77 Bleed) DMG, 10 posture, 0.8s windup, 11s cd at 5 lvl
 -   With 6 songchant deals 78.38 (10.65 + 3.18 Bleed \* 4 + 17.75 + 5.31 Bleed) DMG
+-   Gives True Hyperarmor on use, also gives IFrames to victim and user if mantra lands.
 -   Has 9.65x PVE scale (87.83 DMG + 26.34 Bleed \* 4 and at end of grab 146.39 DMG + 43.92 Bleed, total DMG 647)
 -   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
 -   With the '**Metal Absorption'** Talent, Iron Hug will absorb the opponents' armor.
@@ -528,7 +529,7 @@ Metal + Slash + Bleed
 **Effect:** _Form a large spiky iron rod before slamming it down forwards._
 
 -   Deals 76.1 (58.6 + 17.5 Bleed) at level 5, 0.73s windup, 18s cd.
--   With 6 Songchant deals 84.79 (65.23+19.56 bleed) DMG
+-   With 6 Songchant deals 84.79 (65.23+19.56 Bleed) DMG
 -   Has 9.18X PVE scale (58.6 DMG + 17.5 Bleed PVP, 537.98 DMG + 161.4 Bleed PVE)
 -   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
 -   Block breaks at level 5.
@@ -754,8 +755,8 @@ Metal + Slash + Bleed
 **Effect:** _Encased in a metal ball, rush forward while knocking down any targets in the way._
 
 -   Deals 36.4 (28 + 8.4 Bleed) DMG, 10 posture, 0.7s windup (0.5s to start moving + 0.2s to hit), 10.5s cd at 5 lvl
--   With 6 songchant deals 41.1 (31.62 + 9.48 bleed) DMG.
--   Has 9.3x PVE scale (28 DMG + 8.4 bleed in PVP, 260.76 + 78.24 Bleed in PVE)
+-   With 6 songchant deals 41.1 (31.62 + 9.48 Bleed) DMG.
+-   Has 9.3x PVE scale (28 DMG + 8.4 Bleed in PVP, 260.76 + 78.24 Bleed in PVE)
 -   Covers 82 studs of distance.
 -   Applies Metal Rods on hit.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
@@ -1031,11 +1032,11 @@ Alloyblood
 
  | 
 
-You don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.
+You don't Bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.
 
  | 
 
-Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you get hit by an attack that deals bleed damage is now **light grey**. Turns Bloodrend mantras blue-ish grey.
+Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you get hit by an attack that deals Bleed damage is now **light grey**. Turns Bloodrend mantras blue-ish grey.
 
  |
 | 
