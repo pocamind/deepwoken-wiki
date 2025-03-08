@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 138298
+revid: 138652
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -279,8 +279,8 @@ Blood
 -   Has 2.7x PVE scale (53.8 DMG PVP, 145.3 PVE)
 -   Leaves behind a Blood Pool.
 -   Every level adds a blood stake (6 at max lv)
+-   lv 5 does around 30 posture
 -   Posture DMG and DMG scales with blood pools
--   7 blood pools should be enough to blockbreak (needs testing)
 
  |
 | 

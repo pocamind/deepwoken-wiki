@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 134794
+revid: 138651
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
@@ -47,13 +47,28 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   The chests can drop [Relics](Relics.md) including [Moonseye Tomes](Moonseye_Tome.md), [Sinner's Ashes](<Sinner's_Ash.md>), [Armorer's Needles](<Armorer's_Needle.md>), [Gilded Needles](Gilded_Needle.md), and maybe more.
 -   The chests can contain large amounts of items, [as seen in this video](https://www.youtube.com/watch?v=rwZ_5dDwGSE), where the chests drop 44 iron bombs and 16 cakes.
 
+## Current Bugs
+
+These were collected from multiple player testers after a month researching the minigame itself and attempting to make it work. This info will be useful for all players looking to take part in the [World Event](World_Events.md) but dont wish to deal with the event breaking most of the time. After these are patched make sure to delete and possibly add to the Trivia section.
+
+-   After the event starts theres a very short timer of sorts which determines who's a valid candidate and who isnt.
+    -   Put simply; **if you dont spawn fast enough you wont be accounted for the minigames and cannot participate**. Players with weaker devices simply cannot connect fast enough for the event to count them in and are therefore entirely excluded from a third of the current [World Events](World_Events.md).
+    -   If you hear no music and see no dialogue you wont be able to participate, win rewards or be accounted for in the 2 player minimum value for the event to even begin. You may still attack and hit other players and participants, but doing so **will not combat tag them**.
+-   Being allies or sharing a guild with other participants means nothing and will not cause the event to fail. Feel free to join in with your friends!
+    -   The Carnival of Hearts treats everyone equally (unless you're poor).
+
+A few known issues regarding the actual minigames:
+
+-   **Hot Pomato** will have **ALL** participants be given the flaming pomar and be unable to pass them to another player, therefore, **EVERYONE LOSES**.
+    -   Even when the other participants explode first the minigame continues, allowing more than enough time for you to explode too.
+-   **Beam Blitz** will simply not work most of the time, as neither [Aelita](Aelita.md) or [Tillian](Tillian.md) shoot more than twice, sometimes not even shooting at all until the timer is over.
+
+-   **Bomb Ball** is currently the only way to win the minigame.
+    -   Make sure **EVERYONE** except you is dead before the minigame ends if you wish to win.
+
 ## Trivia
 
 -   This event is extremely buggy, with most cases the challenge never happening and the contestants having left the server.
 -   There was a bug on release where players could use their weapons and mantras during the minigames, and kill all the other players. This bug has been fixed.
 -   Players can use the [Dimensional Travel](Dimensional_Travel.md) resonance during the event to go on top of the tent and avoid all challenges.
 -   Players can roll-clip onto the stands after the minigame has started, avoiding the minigames and other players.
--   There is a bug(?) in which you can teleport to the Carnival of Hearts despite there being another [World Event](World_Events.md) going on at the same time via an already existing Aelita/Tillian. Entering using this method will cause you to be stuck in the Carnival of Hearts until you either reset or leave the game.
--   There is a bug where, if you are voidwalking someone and enter the Carnival of Hearts, but your bounty does not, you will be teleported back to [Voidheart](Voidheart.md). In this state, you'll be unhittable, though you can't hit anyone back either.
--   Entering the Carnival of Hearts solo, meaning no other players enter and you are alone, does not award any chests upon completion. Instead, you are teleported back to where you entered from and the text "It seems there wasn't enough turnout to the carnival" shows. This will not progress the [Saintsworn](Oath%253A_Saintsworn.md) oath.
--   While inside the Carnival of Hearts, during the countdown, if the player gets PVP tagged they won't be teleported to the minigames arena, basically skipping all the minigames, the event will proceed normally and at the end the player will still be rewarded with a chest.
