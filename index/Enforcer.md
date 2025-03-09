@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 138433
+revid: 138736
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths]
@@ -143,7 +143,7 @@ _**If you're a freshie reading this page and about to do the Enforcer trial for 
 -   It is possible to cheese it by just running away and throwing potions/bombs or glitching outside the trial room and hitting it through the walls.
 -   After the 18/07/2022 update, The Enforcer cannot use its pull attack when Hell Mode is active, due to too many Enforcers pulling people into the void.
 -   During the weekly update for 21/11/2022, The Enforcer could temporarily spawn as corrupted variants. This lead to 12000 health Enforcers which did 100+ damage per hit, wiping many players.
--   Enforcer's Eye and Giant Femur are the only [Monster Mantra Drops](Monster_Mantras.md) to have boosted drop rates out of the other mobs that have one.
+-   Enforcer's Eye, Giant Femur and Dread Serpent's Tooth are the only [Monster Mantra Drops](Monster_Mantras.md) to have boosted drop rates out of the other mobs that have one.
 -   The Enforcer's Blade Variant is physically smaller than The Enforcer's Axe Variant, Meanwhile The Enforcer's Hammer Variant is bigger than The Enforcer's Axe Variant.
 -   If The Enforcer spawns attuned to [Shadowcast](Shadowcast.md), due to its black effects, its animations can be semi-hidden by the particles.
 -   Ironically, The Enforcer is really easy to beat using their own weapon critical. By parrying their attack once then using the Enforcer weapon critical. Using this method repeatedly will kill The Enforcer in a short time without any risk of wiping.
