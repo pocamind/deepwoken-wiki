@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 138691
+revid: 138697
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -136,7 +136,7 @@ The weapon class the Motif-ed weapon belongs to
 
  |
 
-### Overwritable Weapons
+### Overridable Weapons
 
 There are a few specific weapons that can equip Motifs despite them not being Motifable themselves. For instance, you can Motif [Whaling Knife](Whaling_Knife.md)'s critical onto the [Tanto](Tanto.md), but you can't apply Tanto's critical to any other weapon. These weapons are:
 

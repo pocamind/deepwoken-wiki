@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 134321
+revid: 138702
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -24,7 +24,7 @@ This Outfit has 2000 durability and grants +10% Blunt Armor, +100% Ether Regen, 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32.5% Blunt, 25% Slash, 43.75% Ironsing, 28.75% Shadowcast, and 25% Elemental.
 
-This Outfit grants the [Talent](Talents.md) Giantslayer, but this talent was merged into Underdog in the same update this outfit was added, meaning the Giantslayer talent from this outfit **does nothing**.
+This Outfit grants the [Talent](Talents.md) Underdog, granting you a 3% damage buff against opponents who have more current health than you and a 10% damage buff against non-humanoid monsters.
 
 ## Location
 
@@ -35,4 +35,4 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   Added in the 'World Events' update.
--   The "Giantslayer" Talent was merged with [Underdog](Talents.md#champion), making this outfit very unique.
+-   Originally had the Giantslayer Talent, but due to Giantslayer being merged with Underdog on the same update this outfit was added, the outfit effectively had no Talent. Heretic's Memento's innate Talent was changed to Underdog on March 8th, 2025.

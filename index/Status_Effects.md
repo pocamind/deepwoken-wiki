@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 138475
+revid: 138715
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -122,7 +122,7 @@ It has a few sub-variants:
 
 -   Azure Burning: Has higher burn damage (from 8 DMG per second to 9 DMG per second compared to normal burning).
 
--   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path.
+-   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path. Is also applied with the [Curse of Rhaemen's Ember](Enchantments.md#curses) enchant.
 
 -   Black Flames: Consumes your ether while you are burning.
 

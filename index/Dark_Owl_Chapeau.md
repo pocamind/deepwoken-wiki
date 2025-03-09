@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 138071
+revid: 138700
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -16,7 +16,7 @@ categories: [Equipment, Head, Hats]
 | requirements | Power 10 |
 | weight | 1 |
 | innate stats | 10% Stealth, 5% Shadow armor, +1 Rare Pip, +1 Legendary Pip |
-| innate talent | Giantslayer |
+| innate talent | Underdog |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -34,6 +34,6 @@ The Dark Owl Chapeau is an [Equipment](Equipment.md) item under the "Head" categ
 
 ## Tips/Trivia
 
--   Can be useful as a swapout for PvE on a PvP build that did not take Giantslayer, due to the innate Talent.
+-   Can be useful for both PvP and PvE due to the Underdog Talent.
 -   Part of the Dark Owl series; the other pieces being the [Dark Owl Cloak](Dark_Owl_Cloak.md) and [Dark Owl Cape](Dark_Owl_Cape.md).
 -   "Chapeau" is French for "Hat."

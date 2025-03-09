@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 138692
+revid: 138705
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -37,7 +37,9 @@ All Talents belong to a Talent category. A majority of Talents, including Mantra
 
 ## Mechanics
 
-The player is given multiple types of Talents. When [powering up](Power.md), the player is given multiple regular Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws holding 4-5 Talent cards (5-6 with the [Joker](Regalia.md#joker) Regalia) and 3 Mantra cards respectively based on the player's stats after powering up, with the chance of there being an additional "Fold" card that lets the player instead save a Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws there is always a "Roll 2" card that will grant 2 random Talents from your available Talent pool instead of a Mantra. [Aces](Aces.md) can be used to permanently prevent a regular Talent or Mantra card from showing up or to preserve it and guarantee it shows up in the next Talent or Whisper Draw. Talent Hands and Whisper Draws can also be gained from [quests](Quests.md); from each NPC whose quest aligns with _Curiosity_, _Bravery_, or _Compassion_, completing one quest in each category allows you to gain a maximum of 3 extra Talent Hands that are each to be given on your next power-up, and [Kelsius](Kelsius.md)' quest grants a Whisper Draw on completion. When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonance Talents randomly chosen based on their [Resonance Point](Resonance.md) allocation. When gaining a Talent from [Equipment](Equipment.md), it applies the effects of the Talent to your character at no additional cost and does not count towards the total amount of Talents you've chosen.
+The player is given multiple types of Talents. When [powering up](Power.md), the player is given multiple regular Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws hold 4-5 Talent cards (5-6 with the [Joker](Regalia.md#joker) Regalia) and 3 Mantra cards respectively based on the player's stats after powering up, with the chance of there being an additional "Fold" card that lets the player instead save a Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws there is always a "Roll 2" card that will grant 2 random Talents from your available Talent pool instead of a Mantra. [Aces](Aces.md) can be used to permanently prevent a regular Talent or Mantra card from showing up or to preserve it and guarantee it shows up in the next Talent or Whisper Draw. Talent Hands and Whisper Draws can also be gained from [quests](Quests.md); from each NPC whose quest aligns with _Curiosity_, _Bravery_, or _Compassion_, completing your first quest in the category grants you an extra Talent Hand on your next power-up, allowing you to gain up to 3 extra Talent Hands, and [Kelsius](Kelsius.md)' quest grants a Whisper Draw on completion.
+
+When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonance Talents randomly chosen based on their [Resonance Point](Resonance.md) allocation. When gaining a Talent from [Equipment](Equipment.md), it applies the effects of the Talent to your character at no additional cost and does not count towards the total amount of Talents you've chosen.
 
 The maximum amount of Talents that you can have, from all Talent Hands, the 3 Talent Quests and the extra Whisper Draw divided combines to a total of 74 maximum Talents, without the quests being a total of 69 Talents. Each mantra taken deduces 2 possible Talents from your total, with [Monster Mantras](Monster_Mantras.md) and the extra Whisper Draw from [Kelsius](Kelsius.md) not counting towards this deduction.
 
@@ -2730,6 +2732,9 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%.
     -   Increases food boosts by 30%.
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
+-   Umami \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
+    -   Acts similar to the Gluttony enchant, but only removes the opponent's hunger instead of stealing it.
+    -   Obtained from: [Chef's Toque](<Chef's_Toque.md>)
 
 ### The Demon Blade
 
@@ -2913,7 +2918,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 75 Agility
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
-    -   Procs even if Revenge is blocked or parried.
+    -   Procs even if Revenge is blocked, parried, dodged, or vented.
     -   Prerequisites: Revenge (Agility Mantra), 90 Agility
 
 -   Crippling Comeuppance \[Common Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
@@ -3454,7 +3459,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 15% more damage.
     -   Only grants a 10% damage buff, the Talent was nerfed but the description was never changed.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
--   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds
+-   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds.
+-   Umami: [Chef's Toque](<Chef's_Toque.md>) - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.

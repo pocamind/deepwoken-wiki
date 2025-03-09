@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 137821
+revid: 138731
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons]
@@ -41,7 +41,7 @@ The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. it is 
 
 **For the [alloyed](Pluripotent_Alloy.md) version**:
 
--   Metting the LHT requirement for this weapon will make it deal 23.7 damage.
+-   Meeting the LHT requirement for this weapon will make it deal 23.7 damage.
     -   At max LHT, it will deal 25.6 damage.
 
 ## Trivia
