@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 138732
+revid: 138758
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -25,7 +25,7 @@ This page is about content that has either been removed or changed drastically i
 
 ## Quests
 
--   **Aerial Assault -** This quest was granted by an NPC named Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>). She tasked you to go interact with the purple flames at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Then upon returning to Ivory, she granted you the Echo Talent Aerial Assault. This quest, the quest giver, and the Talent itself were all removed on the May 8th, 2025 update when Aerial Assault was made base behavior.
+-   **Aerial Assault (quest) -** This quest was granted by an NPC named Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>). She tasked you to go interact with the purple flames at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Then upon returning to Ivory, she granted you the Aerial Assault Echo Talent. This quest, the quest giver, and the Talent itself were all removed on the March 8th, 2025 update when Aerial Assault was made base behavior.
 -   **Chaser's Hemokinesis -** A quest was planned that would reveal how Chaser obtained his blood powers from the Ministry's Second Prophet via interacting with Ministry members hiding around the Second Layer's first floor. This would have tied into the Dungeon Invasion mechanic in some unknown way.[\[1\]](#cite-note-1)
 -   **Commander Rayner -** A quest that required travelling to the Isle of Crows and finding a basement. Though the Isle was removed, Rayner remained for a bit until eventually he too was removed.
 

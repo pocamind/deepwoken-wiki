@@ -1,6 +1,6 @@
 ---
 title: Epsi
-revid: 138090
+revid: 138761
 source: https://deepwoken.fandom.com/wiki/Epsi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -88,5 +88,5 @@ Epsi is a young [Gremor](Gremor.md) boy working for [The Ignition Union](The_Ign
 ## Trivia
 
 -   Epsi is likely named after Epsilon, the equivalent of the letter 'E' in the Greek alphabet, as many of the other members of the Ignition Union in the area are named after Greek letters.
--   Epsi, due to being a child, possesses a shorter model than other NPCs, being the only one to do so other than Karliah.
-    -   An NPC in the tutorial, Serendi, is mentioned to be shorter than the player and thus needs to stand on crates to be at eye level with the player, despite being standard height. It may simply be that small character models are reserved for children.
+-   Epsi, due to being a child, possesses a shorter model than other NPCs, being the only one to do so other than [Karliah](Karliah.md).
+    -   An NPC in the tutorial, [Serendi](Serendi.md), is mentioned to be shorter than the player and thus needs to stand on crates to be at eye level with the player, despite being standard height. It may simply be that small character models are reserved for children.

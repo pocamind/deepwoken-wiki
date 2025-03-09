@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 138741
+revid: 138764
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -180,7 +180,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 > _**"I dance with the winds."**_
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
-    -   Synergizes well with Aerial Assault or mantras that send the user and target in the air.
+    -   Synergizes well with air dashing or mantras that send the user and target in the air.
     -   Prerequisites: 15 Strength, 25 Light Weapon OR 25 Medium Weapon OR 25 Heavy Weapon.
 
 ### Aeromancer
@@ -3138,9 +3138,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I am a master of all weapons."**_
 
--   Aerial Assault \[Common Talent\] - Allows you to move quickly when you dodge mid-air. (+2 Passive Agility)
-    -   Prerequisite: [Ivory](Ivory.md)'s quest at the Pathfinders Respite
-
 -   Brutal Momentum \[Common Talent\] - \[Heavy Weapons\] Successfully dodging will give your next swing hyperarmor.
     -   Prerequisites: 50 Heavy Weapon, Heavy equipped.
     -   Since 30 November 2024 update, earlier inability to proc Hyperarmor weapons: Pyrekeeper, Railblade and Greataxes now have return Hyperarmor swings on parry, which means that Brutal Momentum works on them.
@@ -3325,12 +3322,6 @@ Introduced in the Verse 2 update, crucial Talents have been given their own ques
 -   The quest giver, Arthur, is located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md). He will request that you kill a [Megalodaunt](Megalodaunt.md). This can be any Megalodaunt anywhere.
 -   It is common to find a Megalodaunt inside of the cave behind him, but if none spawn then you can always find two guaranteed spawns at the "Sharko Cave" in Lower Erisia.
 -   After killing the Megalodaunt and talking to him once you will obtain Engage and Critical Attack across all slots. Every new character after completing the quest will get Engage at Power 3 and Critical Attack at Power 5.
-
-### Aerial Assault
-
--   The quest giver is located in Lower Erisia near [Alastir](Alastir.md), leaning on one of the stone pillars.
--   Make your way to the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) and interact with the purple flame in front of Neero.
--   You will automatically gain this at Power 2 on all new slots.
 
 ### Chain of Perfection
 
