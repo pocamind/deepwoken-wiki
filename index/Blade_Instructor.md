@@ -1,9 +1,11 @@
 ---
 title: Blade Instructor
-revid: 133041
+revid: 138676
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Etrea, Kingdom of Etrea Enemies, Etrean Luminant]
+categories: [Cut Content, Enemies, Etrea, Kingdom of Etrea Enemies, Etrean Luminant]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Blade Instructor
@@ -12,9 +14,11 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Instructor is an NPC that can only spawned in via sparring. To spawn him, the player must talk to [Das](Das.md) who is located in the training hall on [Isle of Vigils](Isle_of_Vigils.md), only then will an Instructor spawn.
+The Instructor was an NPC that can only spawned in via sparring. To spawn him, the player had to talk to [Das](Das.md), only then would an Instructor spawn.
 
-Instructors wear a Gladiator Helmet and a [Cloak of Winds](Cloak_of_Winds.md) outfit with their [aspect](Aspects.md) varying.
+Instructors wore a Gladiator Helmet and a [Cloak of Winds](Cloak_of_Winds.md) outfit with their [aspect](Aspects.md) varying.
+
+With the introduction of [Training Mode](Training_Mode.md), they were rendered obsolete and removed.
 
 ## Moveset
 
@@ -46,31 +50,20 @@ Dodgeable:◯
 
 ## Finisher
 
-If the instructor is the one that downs the player they will disappear and the player will receive all of their health back, although they will not regain any blood. However, if the player is downed by any other means, the instructor will grip the player like any other NPC.
+If the Instructor is the one that downs the player they will disappear and the player will receive all of their health back, although they will not regain any blood. However, if the player is downed by any other means, the Instructor will grip the player like any other NPC.
 
 | Name | Description |
 | --- | --- |
 | Disappear | Unequips weapon before disappearing into thin air. |
 
-## Tips
-
--   It's an instructor, he's meant for practicing basic combat abilities.
--   Same skill level as a non-dagger [Bandit Leader](Bandit_Leader.md) and does not wield any attunements.
--   You can use the [Training Vest](Training_Gear.md#attribute-training-gears) to train fortitude by letting him hit you. Most effective at early levels.
--   You can basically train all your stats on him on early levels.
--   Easily killed if you know how to parry.
--   Recommend for any new players to train on this guy before fighting any other NPCs.
-
 ## Trivia
 
--   The Instructor can be killed by using moves that instantly grip opponents when they are on low HP, using certain moves, like Mani Katti, and employing burn. You can also grip him with help of the Poser's Ring with a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md), dealing enough damage and then sheathing your katana will knock him and you can grip him.[\[1\]](#cite-note-vigilguardsdgaf-1)
--   The [Blade Temple Guards](Blade_Temple_Guard.md) do not react should an Instructor be gripped near them.[\[1\]](#cite-note-vigilguardsdgaf-1)
+-   The Instructor could be killed by using moves that instantly grip opponents when they are on low HP, using certain moves, like Mani Katti, and employing burn. You could also grip him with help of the Poser's Ring with a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md), dealing enough damage and then sheathing your katana will knock him and you can grip him.[\[1\]](#cite-note-vigilguardsdgaf-1)
+-   The [Blade Temple Guards](Blade_Temple_Guard.md) did not react should an Instructor be gripped near them.[\[1\]](#cite-note-vigilguardsdgaf-1)
 -   Defeating one sometimes grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Etrea.md), usually when you don't get a health pack from killing them.
--   Logging while in combat with him will result in losing a life.
--   Gripping them will prompt them to say 'Hey, what do you think you're doing?!'
--   You can glitch an instructor by starting the spar and not doing anything at all.
-    -   To fix it, you just need to defeat him.
--   There is a secret text bubble that appears if the player is knocked due to hunger or other means while in a battle with him that says "Not bad, but not good enough," which could be due to the Instructor being meant to knock the player
+-   Gripping them would prompt them to say 'Hey, what do you think you're doing?!'
+-   You could glitch an instructor by starting the spar and not doing anything at all. To fix it, you just needed to defeat them.
+-   There was a secret text bubble that appears if the player is knocked due to hunger or other means while in a battle with him that says "Not bad, but not good enough," which could be due to the Instructor being meant to knock the player.
 
 ## References
 

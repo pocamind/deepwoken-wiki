@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 138247
+revid: 138668
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals]
@@ -12,7 +12,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 |---|---|
 | type | Greatsword |
 | requirements | HVY: 25, FIR: 75, LHT: 10 |
-| damage | 23 |
+| damage | 21 |
 | scaling | HVY: 5, FIR: 6 |
 | range | 8 |
 | swing speed | 0.93x |

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 137200
+revid: 138686
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -30,25 +30,20 @@ For 1 Knowledge, you can trade 1 of your [Trait](../Traits.md) Points into anoth
 
 ### Details
 
--   Bear in mind that you still cannot add more than 6 Points into a given Trait.
--   **You also cannot remove more than 3 attribute points per character (only a max of 3 points can be moved on a character).**
--   Also **really important** you can only take/change attribute points from stats that are **recently** modified
-    -   For example, if you want to repair the fortitude stat at the end of the build but the mistake was made when you used [Shrine of Order](https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order) you cannot move the fortitude point anymore, only the last 3 points added can be changed.
--   You **cannot** remove innate attribute points granted by your aspect.
--   Despite popular belief, you can still change your attributes with this after Shrine of Order, though with a caveat.
-    -   For example: If you Shrine of Order, and your [Agility](../Attributes.md#agility) goes from 1 -> 27, you can use shrine of mastery to lower it to 24, as long as you don't have a Talent that costs 25 agility.
-    -   This is useful for cleaning up Shrine of Order "defects." As you can just lower it to 25 agility, and have 2 points spent elsewhere.
+-   You cannot add more than 6 Points into a given Trait.
+-   You can only remove 3 attribute points per character.
+-   You cannot remove innate attribute points granted by your aspect.
+    -   This is not true if you have the [Multifaceted](../Echoes.md#upgrades-and-modifiers) Echo Upgrade, as it converts innate attribute points into regular investment points.
 -   You cannot re-arrange stats if you have a Talent that requires a higher investment of said stat.
     -   For example: If you went 40 Strength to pick Showstopper and used the Shrine of Order to reduce your Strength, you wouldn't be able to remove points off Strength as long as you have Showstopper.
-
--   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
-
--   If you no longer meet the requirements for a mantra after using Shrine of Mastery, you will keep it equipped with **no** penalties.
-
--   The attribute point reallocation works on the stat requirements on almost all [Oaths](../Oaths.md), allowing you to go below your Oath stat reqs while keeping your Oath.
+-   Despite popular belief, you can still change your attributes with this after Shrine of Order.
+    -   This idea stemmed from the previously mentioned Talent investment exception.
+-   Unlike with Talents, you can re-arrange stats used to acquire almost all [Oaths](../Oaths.md), allowing you to go below your Oath stat requirements while keeping your Oath.
     -   The only exceptions to this are [Arcwarder](../Oath%253A_Arcwarder.md) and [Saintsworn](../Oath%253A_Saintsworn.md), as you cannot lower your Attunement stats due to the Attunement Adept Talents.
     -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath Talents themselves have no stat requirement attached to them.
     -   When this was brought to the attention of Arch\_Mage, one of the main developers, he said "3 points aint the end of the world."
+-   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
+-   If you no longer meet the requirements for a mantra after using Shrine of Mastery, you will keep it equipped with **no** penalties.
 -   This shrine does not count for the "Bargained with Deep Shrines" echo.
 
 ## Navigation

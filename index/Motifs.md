@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 138185
+revid: 138691
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -11,6 +11,8 @@ categories: [Mechanics]
 ## Description
 
 Motifs are an obtainable tool added during the February 1st, 2025 update. Using a [Smith's Alloy](<Smith's_Alloy.md>) on certain weapons grants you a Motif, while destroying said weapon. You can use Motifs at a Campfire to give a compatible weapon the Critical attack of the Motif.
+
+Having a Motif on a weapon will make your weapon will go translucent on critical, showcasing a glowing version of the weapon you got the Motif from and **increasing the windup of your critical by 0.15s**.
 
 ## Obtaining and using Motifs
 
@@ -23,7 +25,7 @@ Motifs can be unequipped at any time at a Campfire without voiding the Motif.
 
 ## Compatibility
 
-Motifs **can only be applied to weapons that can be extracted for their Motif**. This means, most weapons with unique criticals **cannot** cannot equip a Motif. For example, You can apply a Motif to [The Flippers of Fate](The_Flippers_of_Fate.md) or [Crescent Cleaver](Crescent_Cleaver.md), but you cannot apply a Motif to [Katana](Katana.md). Motifs cannot be applied to [Divine Weapons](Crazy_Slots.md).
+Motifs **can only be applied to weapons that can be extracted for their Motif** or weapons that can have their unique criticals overwritten (see below for more info). This means, most weapons with unique criticals **cannot** cannot equip a Motif. For example, You can apply a Motif to [The Flippers of Fate](The_Flippers_of_Fate.md) or [Crescent Cleaver](Crescent_Cleaver.md), but you cannot apply a Motif to [Katana](Katana.md). Motifs cannot be applied to [Divine Weapons](Crazy_Slots.md).
 
 Any weapon with a default critical (excluding Fist weapons) can be used to obtain a Motif. Like other Motifs, base critical Motifs can only be equipped on any other weapon in that weapon class that can also be used to obtain a Motif. This includes other weapons with the weapon class' default critical, which of course, does nothing when applied.
 
@@ -134,11 +136,19 @@ The weapon class the Motif-ed weapon belongs to
 
  |
 
-### 
+### Overwritable Weapons
 
-Additional Notes
+There are a few specific weapons that can equip Motifs despite them not being Motifable themselves. For instance, you can Motif [Whaling Knife](Whaling_Knife.md)'s critical onto the [Tanto](Tanto.md), but you can't apply Tanto's critical to any other weapon. These weapons are:
 
-Weapon criticals have their own stats separate to the weapon they're on (except for the damage they deal). This means that weapon criticals like [Shotel](Shotel.md)'s will **retain their unique properties** when put on another weapon; being Shotel critical's 100% chip damage in this case.
+-   [Tanto](Tanto.md) / \[\[Tanto#Alloyed|Template:AlloyedColor\]\]
+-   [True Seraph Spear](True_Seraph_Spear.md)
+-   [Gremorian Longspear](Gremorian_Longspear.md) / \[\[Gremorian Longspear#Alloyed|Template:AlloyedColor\]\]
+
+  
+
+### Additional Notes
+
+Weapon criticals have their own stats separate to the weapon they're on. This means that weapon criticals like [Shotel](Shotel.md)'s will **retain their unique properties** when put on another weapon; being Shotel critical's 100% chip damage in this case.
 
 As for the damage a Motifed critical will deal on another weapon; critical attack damage (from most weapons) is a multiplier to the weapon's scaled damage, it's a stat built into each critical attack and is specific to that critical attack. For example, if you have a hypothetical weapon that has a 1.25x scaled damage multiplier on critical and that weapon has 30 scaled damage, the critical will deal 37.5 damage on that weapon. Then if you were to Motif that weapon and put its critical on a weapon that has 24 scaled damage, the critical will only deal 30 damage.  
 This just means that your **Motifed critical will deal less damage than the weapon it was originally from if your current weapon has less scaled damage and vice versa**.

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 138610
+revid: 138679
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -201,6 +201,7 @@ Fire
 -   Can be modified with Drift/Rush Shards to make the bullets fly faster + farther.
 -   Can be modified with a Round Spark, causing the bullets to split in 2 after being fired.
 -   Can be modified with a Blast Spark, causing bullets to explode opponents after 6 hits, but reducing the base damage.
+-   Can be cancelled with right click (not feint)
 
  |
 | 
