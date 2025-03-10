@@ -1,6 +1,6 @@
 ---
 title: Chained Ring
-revid: 138775
+revid: 138818
 source: https://deepwoken.fandom.com/wiki/Chained_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, Duke Ishamon Erisia |
+| obtainment | Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, Duke Ishamon Erisia, Chime of Conflict |
 | description | Reduces incoming knockback but removes your ability to Air Dash. |
 
 ## **Description**

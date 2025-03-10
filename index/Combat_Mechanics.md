@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 137356
+revid: 138817
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -432,7 +432,10 @@ Main article: [Status Effects](Status_Effects.md)
   <td>Represented by purple mist surrouding the victim's body.<p><b>Every source of healing is disabled. This includes:</b></p>
   <ul>
     <li>Passive health regen</li>
-    <li>Health packs from knocks</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
     <li>Spit healing</li>
     <li>Reinforce</li>
     <li>Symbiotic Sustain from a <a href="Oath%253A_Linkstrider.md">Linkstrider</a></li>

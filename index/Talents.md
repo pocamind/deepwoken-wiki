@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 138809
+revid: 138819
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3499,6 +3499,7 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 -   The Strength stat unbounded Talent (Strength Unbounded) is under the category "One Eyed King" which is a reference to [a very strong character](https://tokyoghoul.fandom.com/wiki/One-Eyed_King) in the anime Tokyo Ghoul.
 -   The total amount of Talent Cards at Power 20 without Roll 2's or Mantra Quests is 47.
 -   The Mystic quote for the Quack Doctor talents may be a reference to [a line said by SCP-049](https://youtu.be/82VznLgRdAE?si=wsIlsGGs-EMJQp14&t=100) in SCP – Containment Breach.
+-   The term "Talents" may be a reference to _the Wheel of Time_'s Talents that are associated with its magic system.
 
 ## References
 
