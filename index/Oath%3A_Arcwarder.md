@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 138650
+revid: 138797
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -68,7 +68,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   Comes in Umbral, Black, Gold, Dark Gray, Light Gray and White may be changed with a Dye Packet.
 
 -   **Arc Module: Leap - Passive**
-    -   _Holding Spacebar after double jumping propels you up for a short duration._
+    -   _Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration._
         -   Allows you to double jump.
 
 -   **Arc Module: Dash - Passive**
@@ -114,6 +114,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
     -   The Arcwarder suit is inspired by Bondrewd's suit from the anime and manga series _Made in Abyss_. The Immortal Guardians wear an exact copy of the aforementioned suit, while the Arcwarder suit has been slightly redesigned.
 -   Arcwarder was originally named _Arcshifter_.[\[1\]](#cite-note-1)
 -   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md).
+-   This would make Arc Suit the only mantra compatible with [Dye Packets](Dye_Packet.md)
 -   As of May 1st. 2024, The Arcwarder suit’s main color and glow can now be dyed.
 -   This Oath was created by Dexerius, along with [Visionshaper](Oath%253A_Visionshaper.md).[\[2\]](#cite-note-2)
 -   If you are wearing the Arc Suit while gliding and the Arc Suit breaks off, your glider will be forcibly put away.

@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 137181
+revid: 138805
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Greatswords]
@@ -47,7 +47,7 @@ The cooldown for the critical is **10 seconds**.
 
 -   The Wyrmtooth is based on [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from Elden Ring. If you want to argue against this, look at the weapon model and the critical attack.
 -   At Proficiency 6, it deals 31.3 damage at base and 41.7 damage when both MED and HVY are maxed.
--   In an update on 1/11/25, the Wyrmtooth was given the ability to utilize Greatsword talents, but not general heavy weapon talents.
+-   In an update on 1/11/25, the Wyrmtooth was given the ability to utilize Greatsword talents, but not general heavy weapon talents. However in reality this only allows it to use the talent "Destructive Recovery"
 -   In an update on 4/13/24, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame.
 -   The Wyrmtooth is not classed as a katana, so [Paired Soul](Talents.md) doesn't apply to it.
 -   Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.

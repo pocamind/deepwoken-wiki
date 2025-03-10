@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 138764
+revid: 138803
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2941,7 +2941,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I seek the qualities of twisted puppets."**_
 
 -   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
-    -   Turns [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Rosen's Roscoe](<Rosen's_Roscoe.md>), [Blazing](Enchantments.md), and [Railblade's](Railblade.md) criticals and all Flamecharm mantras black. Additionally, the orange on the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)'s and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s models change to black. And the orange on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s model changes to purple.
+    -   Turns [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Rosen's Hellflame](<Rosen's_Hellflame.md>), [Blazing](Enchantments.md), and [Railblade's](Railblade.md) criticals and all Flamecharm mantras black. Additionally, the orange on the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)'s and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s models change to black. And the orange on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s model changes to purple.
     -   Twisted Puppets has two different burn types. They both look identical and they **both** scale on your Flamecharm investment and _drain_ ether from affected players.
         -   Shadow damage from any source applies **Shadow Burn**. Shadow Burn does less damage than base Flamecharm burn, but more than Puppet Burn.
         -   Anything that would normally apply burn applies **Puppet Burn**. Puppet Burn does less damage than Shadow Burn and significantly less damage than base Flamecharm burn. Puppet Burn allows you to spawn Puppets.
