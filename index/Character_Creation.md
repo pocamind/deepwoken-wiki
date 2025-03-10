@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 138360
+revid: 138815
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -127,13 +127,17 @@ Jus Karita
 
 Jus Karita 
 
+  
+
 Legion Kata
 
 Legion Kata 
 
-Text
+Fang and Coil
 
-[Text](Announcements.md) 
+Fang and Coil 
+
+  
 
 -   _Learning the [Way of Navae](Way_of_Navae.md), [Jus Karita](Jus_Karita.md), [Legion Kata](Legion_Kata.md), and [Fang and Coil](Fang_and_Coil.md) fighting styles on a character will unlock that combat style as an option on all slot, and for the next characters._
 -   _Using 25 [Echoes](Echoes.md)_ _(each, 100 total)_ _unlocks the four new starting weapons shown above._
