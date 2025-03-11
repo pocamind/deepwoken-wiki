@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 138625
+revid: 138828
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Drops, Coats]
@@ -32,3 +32,7 @@ The Pathfinder Elite is an animated [Equipment](Equipment.md) item under the "Ar
 -   Can be commonly obtained as a drop from the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
 This can be considered the preferred Monster hunting armor, as due to its innate 5% DVM and having 4 rare pips and 2 legendary pips at 3 stars, it can have 16% Monster Armor along with +6% DVM for a total of 16% Monster armor, 11% dvm, and 3 health, which is the highest possible monster armor while having good dvm.
+
+## Additional notes:
+
+-   The unobtainable "Magenta Pathfinder Elite" cannot be [smelted](Transmogrification.md) onto another item. If you attempt to smelt it onto another item, you will be met with "Hm?! What is zis?!" dialogue by either [Jarvis](Jarvis.md) or an Artisan who is the guild. Evidence: https://medal.tv/games/roblox/clips/jR63eGjhV9ak3INPO

@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 138500
+revid: 138825
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Fury Nautilodaunt is a rare variant of the [Nautilodaunt](Nautilodaunt.md), that by some ungodly means has learnt and is now capable of actively utilizing the [Thundercall](Thundercall.md) Attunement. Their skin is noticeably darker than their regular counterparts, with a slight yellow tint, while their eyes glow a bright yellow, atypical to it's white-eyed original counterparts. Aside from the change in color, the Fury Nautilodaunt's Thundercall usage has given it the ability to electrify its prey with each and every one of its attacks, debilitating the prey in the process. Finally, it is also observed to be much more durable than a regular Nautilodaunt. All of this combined making it a far more dangerous threat, capable of taking out fully geared PVE builds if underestimated, especially when Corrupted
+The Fury Nautilodaunt is a variant of the [Nautilodaunt](Nautilodaunt.md), that by some ungodly means has learnt and is now capable of actively utilizing the [Thundercall](Thundercall.md) Attunement. Their skin is noticeably darker than their regular counterparts, with a slight yellow tint, while their eyes glow a bright yellow, atypical to it's white-eyed original counterparts. Aside from the change in color, the Fury Nautilodaunt's Thundercall usage has given it the ability to electrify its prey with each and every one of its attacks, debilitating the prey in the process. Finally, it is also observed to be much more durable than a regular Nautilodaunt. All of this combined making it a far more dangerous threat, capable of taking out fully geared PVE builds if underestimated, especially when Corrupted
 
 ## Attack Patterns
 

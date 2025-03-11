@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 138819
+revid: 138821
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2615,7 +2615,7 @@ _**"My cure is most effective."**_
 > _**"I seek the qualities of Stormcaller."**_
 
 -   Storm Link \[Common Talent, Dual Attunement\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
-    -   Only adds thundercall elemental damage to your gale mantras, does not proc any Talents, status effects, or stun.
+    -   Converts Galebreathe mantra elemental damage to Thundercall elemental damage and adds +10% damage. Does not proc any Talents, status effects, or stun.
     -   Prerequisites: Static Link, 60 Thundercall, 50 Galebreathe
 
 ### Sturdy Resolve

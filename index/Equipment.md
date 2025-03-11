@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 138726
+revid: 138822
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -4666,6 +4666,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  | N/A |
 | File:Old World Sun Pendant.png | 

@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 138812
+revid: 138830
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,11 +27,10 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 The **Mantle of Enmity** is a Unique [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants 1 Rare Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
 
-This equipment grants the talent _'Heartwing Beat'_ that transforms your aerial attack into a quick true hyperamor slash, inflicting wither on hit. This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred.md) talent.
+This equipment grants the talent _Heartwing Beat_ that transforms your aerial attack into a quick true hyperamor slash, inflicting wither on hit. This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred.md) talent.
 
 ## Trivia
 
 -   It is part of the Enmity set consisting of the [Bastions of Enmity](Bastions_of_Enmity.md) arms, the [Wartreads of Enmity](Wartreads_of_Enmity.md) boots, the [Aegis of Enmity](Aegis_of_Enmity.md) helmet, both the [Fauld of Enmity](Fauld_of_Enmity.md) and **Mantle of Enmity** torsos, and finally, the [Thrall of Enmity](Thrall_of_Enmity.md) face.
--   The wings resemble those on the back of the [Heart of Enmity](Heart_of_Enmity.md).
 -   When worn, the wings will flow behind you if you have the Cloth Physics setting enabled.
 -   This item is currently unable to be banked.
