@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 137691
+revid: 138841
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -64,19 +64,20 @@ Diluvian Mechanism is a place to be wary of if you're not properly prepared, or 
 
 While not required, things listed below can prove to make your experience much easier.
 
--   _**Thresher Scales:**_ Regaining armor is nearly impossible without this Talent, unless you're Ironsing, have Bloodiron Spirit/Ring, or possess any Armor Repair Kits. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a Talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
--   _**Resonance:**_ Having a good bell is the key to survival in Diluvian Mechanism as, if you have a bell that isn't good for Diluvian (for example: Smite, Smokescreen, etc.) you run a greater risk of wiping. The bells you should seek out for Diluvian are Sacred Field and Corrupted Payback (especially Laser variant). Sacred Field will provide a defensive buff, while Corrupted Payback will heal the caster.
--   _**Warrior's Respite:**_ Healing isn't always a guarantee in Diluvian Mechanism, especially if you're doing it solo or in a Hollowed Wave. Therefore, it's important to have a way of regaining your health during the later stages. Warrior's Respite is essential and can be combined with going up high and healing while attacking the mobs.
+-   _**[Thresher Scales](Talents.md):**_ Regaining armor is nearly impossible without this Talent, unless you're Ironsing, have Bloodiron Spirit/Ring, or possess any Armor Repair Kits. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a Talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
+-   _**[Resonance](Resonance.md):**_ Having a good bell is the key to survival in Diluvian Mechanism as, if you have a bell that isn't good for Diluvian (for example: Smite, Smokescreen, etc.) you run a greater risk of wiping. The bells you should seek out for Diluvian are Sacred Field and Corrupted Payback (especially Laser variant). Sacred Field will provide a defensive buff, while Corrupted Payback will heal the caster.
+-   _**[Warrior's Respite](Talents.md):**_ Healing isn't always a guarantee in Diluvian Mechanism, especially if you're doing it solo or in a Hollowed Wave. Therefore, it's important to have a way of regaining your health during the later stages. Warrior's Respite is essential and can be combined with going up high and healing while attacking the mobs.
 -   _**Brick Wall:**_ You will find this talent very helpful, as so you won't get tossed around that much.
--   _**Graceful Flame:**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame (with the Undying Flame talent), you can regenerate the armor and health of yourself and your allies.
--   _**Force Your Way:**_ In Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.
--   _**Tidekeeper:**_ If you lose 25% of your HP in 3 seconds while having the Celtorian Tideknight armor, you can avoid being knocked for 10 seconds and you gain a 15% damage and 20% defense buff. This will allow you to rush through mobs without (that much) worry.
--   _**Ardour Scream:**_ It's an essential talent when dealing as much damage as possible. Ardour Scream will cause all victims to take 25% more damage and lose 50% of their total posture, leaving them vulnerable to guard breaks.
--   _**Evanspear Hand Axe:**_ Evanspear Hand Axe is one of, if not the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration.
--   **_Astral:_** The Astral enchant gives the player's weapon 15% more damage in all PVE situations. Its new critical effect summons a projectile that does 100 AoE damage in PVE.
--   _**Providence Thorns**_: You'll be parrying a lot of enemies whilst inside of Diluvian Mechanism, so having a heavy weapon such as the Evanspear Hand Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds.
--   _**Enforcer's Axe/Hammer:**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
--   _**Teammates:**_ Strength in numbers. If you can, always bring along a friend or two to help you. Having teammates allows you to kill enemies faster, heal and support each other, and progress together.
+-   _**[Graceful Flame](Flamecharm.md):**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame (with the Undying Flame talent), you can regenerate the armor and health of yourself and your allies.
+-   _**[Force Your Way](Ignition_Deepdelver.md):**_ In Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.
+-   _**[Tidekeeper](Celtorian_Tideknight.md):**_ If you lose 25% of your HP in 3 seconds while having the Celtorian Tideknight armor, you can avoid being knocked for 10 seconds and you gain a 15% damage and 20% defense buff. This will allow you to rush through mobs without (that much) worry.
+-   _**[Ardour Scream](Murmur%253A_Ardour.md):**_ It's an essential talent when dealing as much damage as possible. Ardour Scream will cause all victims to take 25% more damage and lose 50% of their total posture, leaving them vulnerable to guard breaks.
+-   _**[Evanspear Hand Axe](Evanspear_Greataxe.md):**_ Evanspear Hand Axe is one of the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration.
+-   _**[Enforcer's Axe/Hammer](<Enforcer's_Axe.md>):**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
+-   [_**Pale Briar**_](Pale_Briar.md): Out of all the weapon The Pale Briar is the best choice for Diluvian, the critical being an AoE attack can deal with crowds of mobs, easily out damage Enforcer Axe and Evanspear Hand Axe.
+-   **_[Astral](Enchantments.md):_** The Astral enchant gives the player's weapon 15% more damage in all PVE situations. Its new critical effect summons a projectile that does 100 AoE damage in PVE.
+-   _**[Providence Thorns](Enchantments.md)**_: You'll be parrying a lot of enemies whilst inside of Diluvian Mechanism, so having a heavy weapon such as the Evanspear Hand Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds.
+-   _**[Teammates](Mudskipper.md):**_ Strength in numbers. If you can, always bring along a friend or two to help you. Having teammates allows you to kill enemies faster, heal and support each other, and progress together.
 
 ## Loot
 

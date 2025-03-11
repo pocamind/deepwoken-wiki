@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 138745
+revid: 138842
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1019,7 +1019,7 @@ Stratoshock
 
  | 
 
-You lightning deals an additional +5% damage when in the rain.
+Your lightning deals an additional +5% damage when in the rain.
 
  | 
 

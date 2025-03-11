@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 132245
+revid: 138849
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -130,7 +130,7 @@ Old Models
 
 ## Astruline
 
-A pink ore that comes from meteor deposits. Found in [Songseeker Caves](Songseeker_Wilds.md), under [Starswept Valley](The_Starswept_Valley.md), inside [The City of the Drowned](The_City_of_the_Drowned.md) in certain locations (pink roofs near the gates behind the houses to the left or to the right depending on where you come from) or from the Moonseye golem. The drop rate for Pure Astruline is around 15%.
+A pink ore that comes from meteor deposits. Found in [Songseeker Caves](Songseeker_Wilds.md), under [Starswept Valley](The_Starswept_Valley.md), inside [The City of the Drowned](The_City_of_the_Drowned.md) in certain locations (pink roofs near the gates behind the houses to the left or to the right depending on where you come from) or from the [Moon Knight](Moon_Knight.md). The drop rate for Pure Astruline is around 15%.
 
 Old Models
 
