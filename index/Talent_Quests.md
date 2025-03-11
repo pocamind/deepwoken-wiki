@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 132240
+revid: 138833
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -24,14 +24,6 @@ Some of the Talents obtained this way are **Echo Talents** - a mechanic added in
 Engage and Critical Attack come from the same quest, given by an Etrean Soldier named [Arthur](Arthur.md) in [Towerstruck Lands](Towerstruck_Lands.md), at the entrance to [The Garden Reservoir](The_Garden_Reservoir.md). He asks you to defeat a [Megalodaunt](Megalodaunt.md), which frequently spawn inside the cave.
 
 Upon defeating a [Megalodaunt](Megalodaunt.md) and returning to [Arthur](Arthur.md), you will gain the Engage and Critical Attack Talents, and automatically gain Engage at Power 3 and Critical Attack at Power 5 on all new characters.
-
-### Aerial Assault
-
-**Aerial Assault:** You can now dodge in mid-air.
-
-Aerial Assault can be obtained from a [Pathfinder](Ivory.md) in [Pathfinder's Respite](<Pathfinder's_Respite.md>), next to the Questgiver for the Glider Blueprint. After talking to him, he will ask you to gaze into the purple flame in the Temple Of The Forgotten Flame, which is above the bandit camp in [Lower Erisia](Lower_Erisia.md). The NPC's name is [Ivory](Ivory.md).
-
-Note that you have to go into the building to access the purple flames, as the purple flames outside the building cannot be used. After interacting with the flame, returning awards the Talent Aerial Assault, which allows you to perform an advanced dodge mid-air allowing you to travel a bit in the direction of your camera. All new characters will gain Aerial Assault at Power 2. When entering the Temple, watch out for the Watcher at the top, which will spawn a [Lesser Angel](Hollow_Angel.md) if he sees you.
 
 ### Thresher Scales
 

@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 137939
+revid: 138831
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Monsters]

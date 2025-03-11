@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 133579
+revid: 138834
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,7 +17,7 @@ Chance of obtaining aspect: **17.8%**
 
 ## Description
 
-Adrets are a common aspect that have blue skin with orange eyes and face markings. Adrets have a willpower and charisma bonus upon selection, as well as three extra points to be able to use when powering up. Additionally, you get a higher starting reputation across all factions. Adrets are considered a new aspect and originate from the Central Luminant. Unlike other aspects, Adrets do not have a distinct animal feature, and instead have tattoos on their face as a unique feature.
+Adrets are a common aspect that have blue skin with orange eyes and face markings. Adrets have a willpower and charisma bonus upon selection, as well as three extra points to be able to use when powering up similar to the Autodidact boon. Additionally, you get a higher starting reputation across all factions. Adrets are considered a new aspect and originate from the Central Luminant. Unlike other aspects, Adrets do not have a distinct animal feature, and instead have tattoos on their face as a unique feature.
 
 ## Racial Traits
 
