@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 138821
+revid: 138883
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1932,6 +1932,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Already Dead \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take reduced damage from abilities with a health cost.
     -   Lowers Shade Devour self-damage. Removes Deepspindle running crit self-damage.
+    -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
+    -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
 
 -   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your M1's proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.
@@ -2585,6 +2587,13 @@ _**"My cure is most effective."**_
 -   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 30% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
     -   The posture damage boost activates from Inhaled M1s and Crits. If you are using [Wraithclaw](Wraithclaw.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md) or [Hero Blade of Wind](<Hero's_Blade_of_Wind.md>) (only critical) you don't have to inhale a mantra for it to take effect.
     -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
+
+### Spoils of Enmity
+
+-   Heartwing Beat \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
+    -   Replaces your aerial attack with a true hyperarmor attack that applies wither and has innate bleed.
+    -   This talent has a 6 second cooldown.
+    -   Granted by the [Mantle of Enmity](Mantle_of_Enmity.md) torso equipment.
 
 ### Static Weaver
 
@@ -3379,6 +3388,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 5% instead.
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Lowers the self-damage taken from Shade Devour, Static Withdraw, and Flame Within's self damage tick on cast (NOT the burn damage). Additionally removes Deepspindle running critical attack self-damage completely.
+    -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
+    -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed.
     -   Also available as a common Talent.
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
@@ -3415,7 +3426,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   If you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
     -   Reduces Bleed damage by 25%
     -   Does not work on all Damage over Time effects.
-        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), Rush Hour from Bloodrend
+        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), or Rush Hour from Bloodrend.
+-   Heartwing Beat: [Mantle of Enmity](Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
+    -   Replaces your aerial attack with a true hyperarmor attack that applies wither and has innate bleed.
+    -   This talent has a 6 second cooldown.
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
     -   Your dodge window is increased by 0.05s.
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.

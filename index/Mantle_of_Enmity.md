@@ -1,8 +1,9 @@
 ---
 title: Mantle of Enmity
-revid: 138830
+revid: 138877
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Torso, Items, Relics]
 ---
 
 # Mantle of Enmity
@@ -25,9 +26,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The **Mantle of Enmity** is a Unique [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants 1 Rare Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
+The **Mantle of Enmity** is a Unique Relic [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants 1 Rare Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
 
-This equipment grants the talent _Heartwing Beat_ that transforms your aerial attack into a quick true hyperamor slash, inflicting wither on hit. This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred.md) talent.
+This equipment grants the talent _Heartwing Beat_ that transforms your aerial attack into a quick true hyperamor slash, inflicting wither and bleed damage on hit. This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred.md) talent.
 
 ## Trivia
 

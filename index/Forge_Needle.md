@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 138103
+revid: 138874
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -28,4 +28,4 @@ For rare equipment that are hard to find many 3 star versions of such as: [Simme
 ## Trivia
 
 -   This item was added on August 2, 2024, along with the [Grand Fisher Set](Grand_Fisher_Plate.md).
--   Considered somewhat useless, as grinding out the armor set usually takes much less time then getting five [Smith's Alloys](<Smith's_Alloy.md>).
+-   Considered somewhat useless, as grinding out the armor set usually takes much less time then getting three [Smith's Alloys](<Smith's_Alloy.md>).

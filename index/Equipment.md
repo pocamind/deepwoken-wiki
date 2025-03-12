@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 138872
+revid: 138875
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -4961,6 +4961,27 @@ Sources:
 
 -   [Ferryman](The_Ferryman.md) **(~1%)**
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+
+ | N/A |
+| File:Mantle.png | 
+
+[Mantle of Enmity](Mantle_of_Enmity.md)
+
+(**Relic**)
+
+(**Unique**)
+
+ | 
+
++1 Rare Pip
+
+_+Talent: Heartwing Beat_
+
+ | 
+
+Sources:
+
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  | N/A |
 | File:Tiran Pendant Equipment.png | 

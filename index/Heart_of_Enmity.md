@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 138766
+revid: 138876
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -151,7 +151,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
   <ol>
     <li><b>Unique Torso</b>: <a href="Fauld_of_Enmity.md"><font>Fauld of Enmity</font></a></li>
-    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md"><font>Warmaster's Medallion</font></a>, <a href="Mantle_of_Enmity.md">Mantle of Enmity</a></li>
+    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md"><font>Warmaster's Medallion</font></a>, <a href="Mantle_of_Enmity.md"><font>Mantle of Enmity</font></a></li>
     <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li>
   </ol></li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>:

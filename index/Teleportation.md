@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 138308
+revid: 138885
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -26,7 +26,7 @@ categories: [Resonances]
 
 On usage, a gold ring expands on the ground around the user. When charged, particles will rise from the ring indicating it's charged state.
 
-Shortly after charging, all players inside **Teleportation's** radius teleport to the set waypoint, appearing similar to teleportation used by [Greathive Aratel](Greathive_Aratel.md)'s fountains.
+Shortly after charging, all players inside **Teleportation's** radius will be teleported to the set waypoint, appearing similar to the teleportation used by [Greathive Aratel](Greathive_Aratel.md)'s fountains.
 
 ## Usage
 
