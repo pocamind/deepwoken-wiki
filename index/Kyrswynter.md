@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 138838
+revid: 138871
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -60,7 +60,9 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 3.  Defeat the [Scion of Ethiron](Scion_of_Ethiron.md).
 4.  Go to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) as the Eternal Gale is collapsing and speak to him. You need the 75 Frostdraw to **obtain** the Kyrswynter but you need points in Medium Weapon to **equip** the Kyrswynter.
 
-## Trivia
+## Gallery
+
+### Trivia
 
 -   Previously the running critical used to have an Ice Blue indicator. This was later changed to a standard Red indicator to avoid confusion.
 -   The running crit is almost identical to (and probably inspired by) the Royal Greatswords "Wolf's Assault" in Elden Ring

@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 138697
+revid: 138869
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -164,3 +164,4 @@ This isn't always the case of course, as some weapon criticals have a set damage
 -   The 'Gun' Motif uniquely can be obtained from and can be applied to _both_ the Rifle and Flintlock weapon classes despite it being a base weapon critical. With that being said, this Motif will do nothing when applied since you're replacing a base weapon critical with the same base weapon critical.
     -   Using the 'Gun' Motif on the [Iron Blunderbuss](Iron_Blunderbuss.md) does nothing; the critical stays the same instead of becoming ranged.
 -   Passing down a [Weapon](Weapons.md) with a Motif completely voids the Motif.
+-   as of the update 3/8/2025 they have updated the motifable weapons (someone please add)

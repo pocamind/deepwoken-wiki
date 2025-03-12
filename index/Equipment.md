@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 138822
+revid: 138872
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -25,12 +25,15 @@ Most equipment comes with innate stats that always appear, for example: **+1 Pos
 All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Pips, indicated at the bottom right of the tooltip and at the bottom of the tool. These Pips represent the bonus stats of an item and what amount of the stat they grant.  
 All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and Legendary
 
-Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to torso, face, ears, and ring equipment with more than **two** pips, and head, arms, and legs equipment with more than **three** pips.
+Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to equipment that has **2** or more pips.
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
 ★ = +1 Rare Pip (Head, Arms, and Legs also get +1 HP) ★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP) ★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP) (Torso, Face, Ears, and Rings cannot be 3 Star)
 
-However, these pips can be rerolled by using [Armorer's Needle](<Armorer's_Needle.md>) and [Gilded Needle](Gilded_Needle.md).  
+These pips can be rerolled by using [Armorer's Needle](<Armorer's_Needle.md>) and [Gilded Needle](Gilded_Needle.md).
+
+-   However, there's currently a bug where you cannot use a Needle on an equipment that only has 2 pips, despite them being exempt from stat diversity. This makes finding any 2 star Torso, Face, Ears, or Rings equipment that does not have any innate pips but also has two of the same pip type very hard, as they have to be found naturally. For example, a 2 star Konga's Clutch Ring with both pip types being health can only be found directly in chests.
+
 Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
 
 <table><caption>Pips Info</caption>
