@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 138116
+revid: 138906
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons]
@@ -31,4 +31,4 @@ Grand Authority Sabatons are part of the "**Grand Authority**" set; with the onl
 
 ## Trivia
 
--   The Grand Authority Sabatons were originally designed as part of an Authority-themed set, the _Grand Authority Armament's_ \[_[sic](https://en.wikipedia.org/wiki/sic)_\] set, alongside the [Bulwark Helm](Grand_Authority_Sallet.md), which is why the latter provides the same Talent as the [Authority Helm](Authority_Helm.md). For some unknown reason, they were separated, with the Grand Authority Plate and Sabatons, being colored red rather than yellow.
+-   The Grand Authority Sabatons were originally designed as part of an Authority-themed set, the _Grand Authority Armament's_ \[_[sic](https://en.wikipedia.org/wiki/sic)_\] set, alongside the [Bulwark Helm](Grand_Authority_Sallet.md), which is why the latter provides the same Talent as the [Authority Helm](Authority_Helm.md). For some unknown reason, they were separated, with the Grand Authority Plate and Sabatons, being colored yellow rather than red.

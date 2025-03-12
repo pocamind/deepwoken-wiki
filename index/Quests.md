@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 135948
+revid: 138902
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -27,14 +27,6 @@ These quests, when completed, give Talents that will be unlocked on every charac
 **Guide**: Talk to the [Etrean](Etrean.md) NPC [Arthur](Arthur.md) outside of the entrance of The Garden Reservoir. He will ask you to avenge his friends by killing a [Megalodaunt](Megalodaunt.md). Kill one and return.
 
 **Reward(s)**: Engage + Critical Assault. EXP, Bravery.
-
-**Aerial Assault:**
-
-**Quest Location**: [Pathfinder's Respite](<Pathfinder's_Respite.md>),[Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
-
-**Guide**: Talk to the Celtor NPC [Ivory](Ivory.md) in the ruins in the Pathfinder's Respite. She will ask you to look at a flame in the Temple of the Forgotten Flame. Interact with the flame in the center as you enter the temple and come back.
-
-**Reward/s**: Aerial Assault, EXP
 
 **Thresher Scales:**
 
