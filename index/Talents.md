@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 138883
+revid: 138948
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1526,17 +1526,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   This does not apply to self damage.
 
 -   Mark of Jurik \[Jurik and Hollowtide [Capra](Capra.md) Variant Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
-    -   Gain a tool that lowers the sanity drain of nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen. 4m CD. (currently marks sfx and vfx are NOT showing up, but the effect still apply, 2/21/25)
+    -   Gain a tool that lowers the sanity drain of nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen. 4m CD.
         -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
         -   Also buffs non allies. Does not require you to be resting at a campfire.
 
 -   Mark of Ku \[Ku [Capra](Capra.md) Variant Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
-    -   Gain a tool that buffs the blood regen of nearby players. Also buffs the effected players' HP regen and slightly buffs their sanity and their food & thirst replenishment from consuming food. 3m 30s CD. (currently marks sfx and vfx are NOT showing up, but the effect still apply, 2/21/25)
+    -   Gain a tool that buffs the blood regen of nearby players. Also buffs the effected players' HP regen and slightly buffs their sanity and their food & thirst replenishment from consuming food. 3m 30s CD.
         -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
         -   Also buffs non allies. Can only be used while you are resting on a campfire.
 
 -   Mark of Nemit \[Nemit [Capra](Capra.md) Variant Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
-    -   Gain a tool that buffs the food and thirst replenishment of nearby players. Also buffs the effected players' HP regen and slightly buffs their blood regen and sanity. 3m 30s CD. (currently marks sfx and vfx are NOT showing up, but the effect still apply, 2/21/25)
+    -   Gain a tool that buffs the food and thirst replenishment of nearby players. Also buffs the effected players' HP regen and slightly buffs their blood regen and sanity. 3m 30s CD.
         -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
         -   Also buffs non allies. Can only be used while you are resting on a campfire.
 

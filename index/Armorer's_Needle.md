@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 138038
+revid: 138985
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -20,6 +20,8 @@ categories: [Relics]
 ## Description
 
 **Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a single pip of their choice on a piece of equipment before being consumed. It appears to be a needle in the shape of a musical treble clef. It can be crafted into the [Gilded Needle](Gilded_Needle.md) with 5 Armorer's Needles and 1 gold or you can craft the [Forge Needle](Forge_Needle.md) with 1 Armorer's Needles and 5 [Smith's Alloy](<Smith's_Alloy.md>). **Armorer's Needle** can also be crafted by combining **5** [Smith's Alloy](<Smith's_Alloy.md>) by hand. If your slot has the Ignition Delver [Origin](Origins.md), you can craft them at the [Hollow Forge](Hollow_Forge.md) with only **3** [Smith's Alloy](<Smith's_Alloy.md>) or **9** [Pluripotent Alloy](Pluripotent_Alloy.md).
+
+You can hold a max of 25 armorer needles at once, trying to craft more will spend the resources and return nothing.
 
 Currently known to drop from a wide variety of sources. They can be obtained fairly consistently from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [Scion of Ethiron](Scion_of_Ethiron.md), [The Ferryman](The_Ferryman.md), the [Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), [Heart of Enmity](Heart_of_Enmity.md), and [World Events](World_Events.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 138931
+revid: 138937
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -481,7 +481,7 @@ Grants the equipment, on top of its innate stats and Talents:
 5% Monster Damage  
 5% Monster Armor
 
-These stats do not consume stat rolls for equipment. Additionally, you may not be able to wear more than one piece of equipment with the Drowned enchantment.
+These stats do not consume stat rolls for equipment.
 
  | 
 

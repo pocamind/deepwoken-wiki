@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 138426
+revid: 138983
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -33,7 +33,7 @@ Note that all the maps contain lava as an environmental hazard, which deal an ex
 
 Orb which used to refuel Union Drill
 
-**Saramaed Hollow** features 20 Floors in 100 meter increments. Floor 0/0 Meter is a lobby area that features a campfire, training gear, an Antiquarian, a Mystic and a Blacksmith.
+**Saramaed Hollow** features 20 Floors in 100 meter increments (2000 meters or 2KM in total). Floor 0/0 Meter is a lobby area that features a campfire, training gear, an Antiquarian, a Mystic and a Blacksmith.
 
 Each floor of the dungeon has you go down 100 meters (IE: floor 10 is 1000m, floor 20 is 2000m). To travel through each floor, the Ignition Deepdrill is used, fitted with a lever to go to the next floor and a radio to return to the lobby, which can notably be used anytime, even while in danger.
 
@@ -171,22 +171,24 @@ Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Th
 -   The Saramaed Hollow is also a good grinding fodder for if you're NOT low-level, having weak mobs like Mudskippers and Megalodaunts to boost early game progression. However, Brutes spawn earlier than Megalodaunts despite being much harder to handle. Threshers and Desert Knights help you progress midgame, and Broodlords and Megalodaunt variants to give you that final push to max level.
 -   It is recommended to stockpile the ores to get to skip a floor that is a hustle dealing with.
 -   Try and crouch down; this will reduce the monsters detection rate and prevent you from getting attacked by other monsters.
--   Despite all these upsides, it is very time consuming and the drops are very RNG based, meaning you can either get REALLY lucky and hit the jackpot, or go back up to the surface practically empty-handed.
--   The Saramaed Hollow can be used to very easily farm notes, since the first layers are relatively easy and give large chests that give a ton of equipment. The equipment can then be sold to the antiquarian above, leading to over a thousand notes a minute.
+-   Despite all these upsides, it is very time consuming and the drops are very RNG based, meaning you can either get REALLY lucky and hit the jackpot, or, more than likely, go back up to the surface practically empty-handed.
+-   The Saramaed Hollow can be used to very easily farm notes, since the first layers are relatively easy and give large chests that give a ton of equipment. The equipment can then be sold to the antiquarian above, leading to over a thousand notes per floor.
+
+Good luck, and happy deepdelving!
 
 ## Trivia
 
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m.
--   The more people you have, the more ores you need.
+-   The more people you have, the more ores you need to continue to progress.
     -   1 Person, 5 Ores
     -   2 People, 7 Ores
     -   3 People, 9 Ores
 -   [Phoenix Flames](Talents.md) may resurrect you in case you get knocked by fire hazards or lava, which can help if you fall in.
 -   Rarely, there may be a floor that usually comes after or at 1.5km that requires you to kill just one thresher in turn for amazing loot.
     -   Uncommonly, there may also be a floor that requires you to kill just two threshers in exchange for amazing loot.
--   The cave paintings show that civilization has once been here long before the Union have.
+-   The cave paintings show that civilisation has once been here long before the Union have.
     -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast, possibly a Megalodaunt.
     -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
--   Well known deepwoken youtuber Agamatsu has a meme regarding on how boring this dungeon is on all of his livestream thumbnails.
--   There is a sentence when trying to leave to the next floor without 1 member in the drill. "Leave no delver behind". This is a reference to "Leave no dwarf behind" from another game, Deep Rock Galactic.
+-   Well known Deepwoken Youtuber Agamatsu has a meme regarding on how boring this dungeon is on all of his livestream thumbnails.
+-   When you try to leave the dungeon by calling for the cable crew to haul you back up and your teammate isn't nearby, a message "Leave no delver behind" will be displayed. This is a reference to "Leave no dwarf behind" from another game, Deep Rock Galactic.
