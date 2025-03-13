@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 138589
+revid: 138994
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -90,8 +90,8 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 
 -   **Illusory Counter** **\- Combat Mantra**
     -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of the previous location.
-    -   Can be modified with a Reversal Spark which seemingly does nothing.
-        -   Reflects any effect that would have been applied by the attack (such as fire, which would burn the attacker instead).
+    -   Can be modified with a Reversal Spark which reflects any effect that would have been applied by the attack (such as fire, which would burn the attacker instead).
+        
     -   Does not restrict movement like most mantra casts.
 
 -   **Mirror Illusion - Support Mantra**

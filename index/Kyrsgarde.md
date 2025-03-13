@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 133185
+revid: 138998
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -45,7 +45,7 @@ The Enemy ones are found within the city itself.
 ## Trivia
 
 -   They are quite similar to the [Miasmera](Miasmera.md), a scrapped Monster.
--   Having the Brick Wall Talent makes the fight with the lancers **trivially** easy.
+-   Having the Brick Wall [Talent](Talents.md) makes the fight with the lancers **trivially** easy.
 -   The Kyrsgarde are enslaved by presumably Ethiron themselves or something related to Ethiron, having their will morphed to Ethiron's, this may be due to the fact that the puppet known as the "Scion of Ethiron" had done something to them using some sort of "mist". Or the fact they built Kyrsa City on top of Ethiron's Bedchamber. However it also could've been the fact that their foolishness lead to a failure related to some sort of ritual to prevent the Scion of Ethiron in someway.
 -   The Kyrsans in Firfire are not hostile, due to how far they are from the Ethiron's mist presence.
     -   In fact, they will give you a name similar to themselves, which is consistent with the UserID of the player, meaning it is shared across every slot.

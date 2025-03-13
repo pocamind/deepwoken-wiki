@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 138763
+revid: 139000
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -12,13 +12,13 @@ File:Depths New Lightning.png
 
 ## Overview
 
-The **First Layer** of the Depths, also known as **Scyphozia,** is the first of the infiinite layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
+The **First Layer** of the Depths, also known as **Scyphozia,** is the first of the infiinite layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, dying to [Primadon,](Primadon,_Titan_of_the_East.md) being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
 ## Points of Interest
 
 -   [The Varicosa District](Varicosa_District.md)
     -   [The Military District](The_Military_District.md)
-    -   [The Cathedral of Interstice](Cathedral_of_the_Interstice.md)
+    -   [Cathedral of the Interstice](Cathedral_of_the_Interstice.md)
     -   [District of Commerce](District_of_Commerce.md)
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
@@ -39,7 +39,7 @@ The **First Layer** of the Depths, also known as **Scyphozia,** is the first of 
 
 Detailed map of the entire Depths First Layer
 
-The main method to escape is by the Cathedral of Interstice, which houses the Trial in the center of the city. The Trial must be entered through the elevator.
+The main method to escape is by the Cathedral of the Interstice, which houses the Trial in the center of the city. The Trial must be entered through the elevator.
 
 The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether, but will only work in Layer 1. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
 
@@ -81,11 +81,11 @@ Once the trial is completed, players are also granted total immunity to damage u
 
 ### _Note:_
 
-**Your Difficulty Score is calculated by "(Power x 3) + Drowns".** This dictates the type of enemy you will be faced with when initiating the Trial. Total times drowned can be viewed at a campfire (in the summary page); the number increases each time you are sent to the Depths through death (not whirlpools or Deepbound's "Call of the Deep").
+**Your Difficulty Score is calculated by "(Power x 3) + Drowns".** This dictates the type of enemy you will be faced with when initiating the Trial. Total times drowned can be viewed at a campfire (in the summary page); the number increases each time you are sent to the Depths through death (not Whirlpools or Deepbound's "Call of the Deep").
 
-Some things add extra Difficulty Score:
+Some things can add extra Difficulty Score:
 
--   The echo mod **Vow Of Thorn** adds 30 Difficulty Score
+-   The echo modifier **Vow Of Thorns** adds 30 Difficulty Score
 -   The **Shrine of Courage** adds 50 Difficulty Score
 -   The **Deepbound** Origin has an innate 50 Difficulty Score induced by Power (they count as being at least power 17). They normally gain Difficulty Score when above that.
 
@@ -130,7 +130,7 @@ Scyphozia, being a naturally hostile location, is intentionally difficult to sur
 -   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** Talent tree, is a good way to combat the slow drain of Sanity that being within purgatory imposes. Though all Talents in the **Mental Fortress** Talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity upon killing monsters of the Deep. Requires **10 Willpower**.
 -   _**Underdog**_ allows more damage to larger foes. Good for fighting Sharkos, Lionfish and Crabs. Requires **40 Willpower.**
 -   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through **40 Willpower** and all 3 **Mental Fortress** cards, will allow passive survival in Layer One for over an hour due to the base sanity stat.
--   **%Damage vs Monsters (DvM) and %Monster Armor** equipment with stat modifiers usually has a form of DvM and/or Monster Armor, which is useful.
+-   **Damage vs Monsters (DvM) and Monster Armor** equipment with stat modifiers usually have a form of DvM and/or Monster Armor, which is useful.
 
 ### Tips and Tricks
 
@@ -166,7 +166,7 @@ Information to keep in mind.
 
 ### [Oath: Visionshaper](Oath%253A_Visionshaper.md)
 
-Deep southeast in the Depths, you can find a secret room located near the [Deep Widow](Deep_Widow.md). Here, there is a man named [Surge](Surge.md) who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
+Deep southeast in the Depths, you can find a secret room located near the [Deep Widow](Deep_Widow.md). Here, there is a 'man' named [Surge](Surge.md) who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
 
 Once you have spoken with [Surge](Surge.md), the [Nestmind](The_Nestmind.md) - a being that exists within a deeper layer of The Depths - will open their realm to you. It offers scraps of knowledge on about the [Deep](Deep_Owl.md) [Owls](Deep_Owl.md) and the Depths.
 
@@ -245,7 +245,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   Having a sense of direction and environmental awareness is **vital** for your survivability and safety. Maximize the usage of your map (keybind 'M') if your new to the depths. Falling into the void while your above 60% Health (only applies for characters power 3+, as lower power leveled characters **will get wiped**) will send you to the Ethironal Shrine Outskirts in Layer 2, Floor one. In order to escape the floor unprepared, (Light Hook is not available) you will have to activate the Deepdriller or kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Ringing the bells (not corrupted bells) in the [The City of the Drowned](The_City_of_the_Drowned.md) will restore some HP and sanity, equivalent to that of knocking an NPC or monster around your power.
 -   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the [Deepbound](Origins.md) origin.
--   If you find yourself in the Depths with very little health, there are some options for you. These options include using the _Warrior's Respite_ Talent, killing a low-level mob (i.e a Jellyfish or a Mudskipper) for healthpack, or a friend thats conveniently in the Depths to place down a Graceful Flame for you.
+-   If you find yourself in the Depths with very little health, there are some options for you. These options include using the _Warrior's Respite_ Talent, killing a low-level mob (i.e a Jellyfish or a Mudskipper) for healthpack, or a friend that can place a Graceful Flame for you.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras) will be helpful in fleeing any unwanted fights and navigate the treacherous terrain.
 -   **AVOID** fighting a [Megalodaunt](Megalodaunt.md) near pitfalls - getting kicked by a Megalodaunt will likely fling you off the edge, which may lead you to an unexpected wipe, or Layer 2 visit. If you do happen to fight one near a pitfall/cliff, and there is no chance of regaining flat ground with no risks of pitfalls, face your character towards the edge of the cliff. The Megalodaunt will **always** attack facing the characters front side.
@@ -259,7 +259,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   If [Finnegan The Lost](Finnegan_The_Lost.md) or [The Fisherman](The_Fisherman.md) randomly spawn upon you, and you are not powerful enough to defeat them, run. It is not worth risking it against an enemy that has too much HP for you to properly deal with, and they dont have a good arsenal of player-catching mantras with them - just try not to get stuck with the Fisherman's chains, or get caught by Finnegan's Metal Ball.
 -   Stay aware of your surroundings. With the recent job updates, the presence of more players increases the likelihood of monster spawns, which could make your situation worse if you're fighting a monster or players. While it is good having players in a server which could potentially help you in sticky situations, its not always a guarantee that they are friendly or they are there within your vicinity.
 -   If you are unfamiliar with monsters and the Depths in general, always try bringing another experienced and competent friend with you, as it will make learning the harrowing tribulations of the Depths slightly more easing for you.
--   If you are a new player, it is **heavily advised to log** if you hear cracking and rumbling randomly inside the Depths. This is the 'Collapse' which spawns in a horde of dangerous and threatening monsters in 2-4 rocks that fall from the depths' ceiling.
+-   If you are a new player, it is **heavily advised to log** if you hear cracking and rumbling randomly inside the Depths. This is the 'Depths Collapse' which spawns in a horde of dangerous and threatening monsters in 2-4 rocks that fall from the depths' ceiling.
 
 ## Trivia
 
@@ -270,8 +270,8 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   Staying in The Depths for prolonged periods of time (from 20 minutes onwards with 0 Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. You can be executed by insanity if you are low enough, but you can stay alive as long as you keep your health up. Max insanity will instantly kill you if you are using the Curse of the No-Life King enchant.
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
--   According to the "Munet Journal, XIV", It canonically takes 2 weeks for a being to escape the depths.
--   **The Boulder Event in the Depths can spawn most monsters including 2 [Threshers](Thresher.md), a [Megalodaunt](Megalodaunt.md), an [Alpha](Alpha_Megalodaunt.md) [Megalodaunt](Alpha_Megalodaunt.md), a [King](King_Thresher.md) [Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [Hell Mode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)**
+-   According to the "Munet Journal, XIV", it canonically takes 2 weeks for a being to escape the depths.
+-   The Depths Collapse Event can spawn most monsters including 2 [Threshers](Thresher.md), a [Megalodaunt](Megalodaunt.md), an [Alpha](Alpha_Megalodaunt.md) [Megalodaunt](Alpha_Megalodaunt.md), a [King](King_Thresher.md) [Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [Hell Mode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)
 -   If you go into the Depths Trial arena solo, but your Difficulty Score is low enough for your trial to be Nothing, then the Voice of Enmity and Voice of Odium have special dialogue, and the Voice of Authority doesn't talk.
 -   Previously, 4 bells located throughout the city were required to be rung in order to escape the depths.
     -   This was adjusted, likely because of how much time it took and how risky it was, causing players to use unintended but easier methods.

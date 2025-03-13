@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 138977
+revid: 139001
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -215,6 +215,7 @@ Exhaustive Loot Table
 -   When it was first teased, it was known to the devs and community as the "World Serpent."
 -   Given its drops, design and Murmur: Ardour orb, it can be reasonably assumed that this creature is somehow related to the Dread Serpent. possibly a stronger variant or mutation.
 -   The player must defeat this boss before it fires it's Luminant Beam at Etris Docks to obtain the fist style "[Fang and Coil](Fang_and_Coil.md)" from [Vesque](Vesque.md).
+-   It is internally referred to as ".kaijuu".
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 138585
+revid: 138997
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -26,7 +26,7 @@ Bounders have a body structure that resembles [Megalodaunts](Megalodaunt.md), fe
 
 Whenever an entity enters the territory or hunting grounds of a Bounder, an echoing growl can be heard, signifying their presence (though not necessarily their aggression). By default, they will crawl around at a relatively slow pace, only ever displaying their speed and agility while hunting.
 
-Bounders are comparatively harder to kill than most other monsters in the world of Deepwoken due to their exceptional lethality and their above average health pool. While they have a relatively simple moveset, their erratic movements and hard-hitting strikes make them difficult to pin down. They are unforgiving terrors that can finish off anyone who isn't accustomed to their behavior within seconds.
+Bounders are comparatively harder to kill than most other monsters in the world of Deepwoken due to their exceptional lethality and their above average health pool. While they have a relatively simple moveset, their erratic movements and devestating strikes make them difficult to pin down. They are unforgiving terrors that can finish off anyone who isn't accustomed to their behavior within seconds.
 
 ## Moveset
 
@@ -81,6 +81,7 @@ Dodgeable:◯
 -   Despite its resemblance to the Megalodaunt, its anatomy more-so resembles a frog, evident by their posture and ability to leap long distance, and the way they attack prey.
 -   Like every other Layer 2 monster, [Mute](Regalia.md#mute) has no effect on Bounders.
 -   Curiously, Bounders are social creatures, as shown by their ability to create nests and live as a pack. Beyond this, there isn't much evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
+-   Bounders are often considered by the community as one of the most dangerous monsters in the Second Layer, if not the entire game due to their insane damage
 -   It was said by Arch\_Mage that there was supposed to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
 -   Their cry is a heavily distorted wolf howl.
 -   Their item drop, the Bounder Claw, can be taken out of Layer 2 without having to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (either by using the Light Hook or Ignition Deepdriller).
