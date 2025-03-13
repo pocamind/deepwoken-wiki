@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 135741
+revid: 138911
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops]
@@ -38,3 +38,4 @@ categories: [Weapons, Spears, Drops]
 -   Basically a downgraded Kyrsglaive, still a very good weapon if your build can't reach 90 MED to use the Kyrsglaive.
 -   This weapon is in the same “family” of spears, with the others being [Serrated Warspear](Serrated_Warspear.md) and True Seraph’s Spear.
 -   There is a [Legion Captain](Legion_Captain.md) named Acheron, who can recommend you to [Amara](Amara.md). The spear likely belonged to them.
+-   Curse of Rhaemen's Ember on Acheron's warspear

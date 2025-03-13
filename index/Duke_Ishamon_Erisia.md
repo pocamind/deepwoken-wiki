@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 138886
+revid: 138912
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -455,4 +455,4 @@ Exhaustive Loot Table
 
 If you don't kill all the enemies in the first area, the Duke and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
 
--   Duke has approximately 800 erudition. (had to alter this he vents like 23 times in a 10 - 25 minute run)
+-   Duke has approximately 800 erudition.

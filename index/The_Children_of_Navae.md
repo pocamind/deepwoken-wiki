@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 134707
+revid: 138917
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Factions, The Children of Navae]
@@ -39,7 +39,7 @@ There is only one [random encounter](Random_Encounters.md) in which you may assi
 
 In the aftermath of this event, it is possible to give a Navaen hostage to the tribal leader if they are still alive.
 
-With the Jobs update that came out you can now gain reputation by doing Jobs for The Children of Navae.
+The Children of Navae have available [Jobs](Job_Boards.md) on almost every job board in the game.
 
 Reputation is gained more slowly with The Children of Navae than most other factions.
 

@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 138889
+revid: 138925
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -131,7 +131,8 @@ File:Bone floor.gif
  |
 | 
 
-**Bone Stream**
+**Bone Stream**  
+★
 
  | Bones will rise from the ground and circle around **a single floor**. Similar to Bonegrow in able to remain active during other attacks, but sends you further, is more constant, does more damage, and is completely unable to be blocked.
 
