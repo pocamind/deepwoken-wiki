@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 138704
+revid: 139013
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -100,11 +100,11 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
         -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
         -   Can be used with Bloodless to heal more health.
         -   Can be used with a Wind Gem to make it easier to avoid being hit while leeching.
-        -   Leech ticks can proc [Hard Read](Talents.md).
+        -   Leech ticks can proc [Hard Read](Talents.md), [Anxious Guard](https://deepwoken.fandom.com/wiki/Talents) and most blocking related talents.
 
 ## Trivia
 
 -   You need a wallbreak mantra to access to Entropy Catalyst. However, you can clip through by running at full speed, rolling then jumping right after.
     -   You can also climb up the surrounding walls (often with clever Chime of Dwelling usage.)
--   Scarlet Lotuses are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
+-   [Scarlet Lotuses](https://deepwoken.fandom.com/wiki/Pristine_Lotus) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
 -   Anyone can use the white orb once it is spawned, regardless of who places them. \* If you have Pristine Lotuses and put a knocked player on the sacrifice ritual, you should get a Scarlet and a completed sacrifice crater.

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 138686
+revid: 139021
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -44,7 +44,7 @@ For 1 Knowledge, you can trade 1 of your [Trait](../Traits.md) Points into anoth
     -   When this was brought to the attention of Arch\_Mage, one of the main developers, he said "3 points aint the end of the world."
 -   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
 -   If you no longer meet the requirements for a mantra after using Shrine of Mastery, you will keep it equipped with **no** penalties.
--   This shrine does not count for the "Bargained with Deep Shrines" echo.
+-   This shrine does not count for the "Bargained with Deep Shrines" echo. \* If you no longer meet the requeriments for a outfit with stat requisites, you will keep the outfit with no penalties
 
 ## Navigation
 

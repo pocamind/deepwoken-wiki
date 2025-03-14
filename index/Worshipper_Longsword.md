@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 138437
+revid: 139010
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons]
@@ -22,12 +22,12 @@ categories: [Weapons, Swords, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in: , Minityrsa, Deep Widow, Songseeker Wilds, Dread Serpent |
+| obtainment | Chests in: , Minityrsa, Deep Widow, Songseeker Wilds, Dread SerpentPurchased in:, Miner's Landing |
 | description | "A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from." |
 
 ## Description
 
-The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widow](Deep_Widow.md).
+The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widow](Deep_Widow.md). Additionally, it can be purchased in a room in Miner's Landing connecting to a separate building.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 137741
+revid: 139008
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -23,7 +23,7 @@ _adjective_
     2.  Ex. "I just killed some boosted trash when they tried to gank me earlier"
 2.  A player that needs help from friends cause he cannot fight a boss or beat a mob without their help.
 
-Usage of the term makes the assumption that the player being referenced was 'boosted up' by being given good items by more experienced friends of theirs.
+Usage of the term makes the assumption that the player being referenced was 'boosted up' by being given good items by more experienced friends of theirs. This term originates from Rogue Lineage, which is why it makes more sense in there as in Rogue you can much more easily get "Boosted".
 
 ### Chime
 
@@ -370,6 +370,14 @@ _verb_
 
 Even if you have both lives, your health bar will be stained in [Voidzones](Voidzones.md).
 
+### **Stained**
+
+_noun_
+
+1.  To only have one life left, resulting in having a stained/rusty health bar.
+
+Even if you have both lives, your health bar will be stained in [Voidzones](Voidzones.md).
+
 ### Wipe
 
 _verb_
@@ -602,7 +610,7 @@ _verb_
     1.  Ex. "I've wiped like 10 times while trying to minmax this build."
     2.  May include other stats, like Equipment rolls (see [Godroll](#godroll) above).
 
-#### Minmaxed
+### Minmaxed
 
 _adjective_
 
@@ -612,7 +620,7 @@ _adjective_
     1.  Ex. "What's the minmaxed HP on any helmet?"
     2.  Typically less common than Godroll.
 
-### Mage
+### **Mage**
 
 _noun_
 
@@ -668,6 +676,13 @@ _noun_
 
 1.  A type of build, usually using the [Jetstriker](Oath%253A_Jetstriker.md) Oath, that specializes in movement speed, either to run away from opponents in PvP or to make traversal across the game faster.
     1.  Ex. "I hate trackstar builds, they're so annoying!!!"
+
+### Blasphemy
+
+_noun_
+
+1.  A build that requires the use of [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) as it shrines at stats lower than power 8.
+    1.  Ex. "This is a blasphemy build you have to use the blasphemy before you order."
 
 ## Acronyms/Short Forms
 

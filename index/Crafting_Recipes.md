@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 137672
+revid: 139016
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -67,7 +67,7 @@ Certain foods grant a Food Buff, indicated by a colored food bar and a descripti
 
 ### Known Boosts
 
--   _"You feel your wounds closing up..." =_ This buff significantly increases the user's health regeneration speed.
+-   _"You feel your wounds closing up..." =_ This buff significantly increases the user's health regeneration speed in 17.5%
 -   _"You feel as if you could go longer without food..." =_ This buff significantly decreases the user's starvation speed. (10% less natural hunger drain)
 -   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage. (5% mantra and enchant damage buff)
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage. (5% weapon damage buff)
@@ -80,7 +80,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 
 -   **\[G\] [Noodles](Food.md)** - _1 Egg, 2 Gathered Wheat_
 -   **\[G\] [Redd Juice](Food.md)** - _3 Redd_
--   **\[V\] [Fruit Salad](Food.md)** - _3 Unique fruits. (example: 1 Pomar, 1 Plumfruit, 1 Redd; increases natural heal regen by 17.5%)_
+-   **\[V\] [Fruit Salad](Food.md)** - _3 Unique fruits. (example: 1 Pomar, 1 Plumfruit, 1 Redd; increases health regen by 17.5%)_
 -   **\[C\] [Sushi](Food.md)** - _1 Fish Meat, 1 Seaweed Bundle_
 -   **\[G\] [Grilled Cheese](Food.md)** _\- 1 Cheese, 1 Bread_
 -   **\[C\] [Crab Pizza](Food.md)** - _1 Crustacean Meat, 1 Bread, 1 Cheese_
@@ -109,7 +109,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 -   **\[C\] [Glazed Fish](Food.md) -** _1 Fish Meat, 1 Sap_ (Increases weapon damage by 5%)
 -   **\[C\] [Sauteed Scallops](Food.md)** - _2 Scallops_
 -   **\[G\] [Cake](Food.md)** - _1 Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased speed. (currently doesn't work))
--   **\[C\] [Crab Stuffed Browncaps](Food.md)** - _2 Crustacean Meat, 3 Browncaps, 1 Cheese (Health Regen)_
+-   **\[C\] [Crab Stuffed Browncaps](Food.md)** - _2 Crustacean Meat, 3 Browncaps, 1 Cheese; ; increases health regen by 17.5%)_
 
 ## Alchemy
 

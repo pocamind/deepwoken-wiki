@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 138948
+revid: 139014
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2599,7 +2599,7 @@ _**"My cure is most effective."**_
 
 > _**"I weave webs of lightning."**_
 
--   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long.
+-   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (this talent is bugged and currently doesn't apply the longer stun)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
@@ -2708,8 +2708,8 @@ These Talents are designed to let you survive longer against starvation and thir
 -   _Punishing Blow_ \[Rare Talent\] - You now daze swinging opponents when hitting them with an M1 with a heavy weapon.
     -   Prerequisite: 20 Heavy Weapon
 
--   Target Switch \[Common Talent\] - Parrying an opponent while hitting someone else makes your next mantra free.
-    -   This effect is signaled by a yellow halo.
+-   Target Switch \[Common Talent\] - Parrying an opponent then hitting someone else makes your next mantra free.
+    -   This effect is signalled by a yellow halo.
     -   This talent will still proc if you hit a knocked enemy.
     -   Prerequisite: 20 Intelligence
 

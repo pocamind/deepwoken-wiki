@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 138489
+revid: 139018
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -60,7 +60,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Heal nearby allies for 60 HP at the cost of your Sanity
         -   Allies include Guildmates, and those with whom you share a Vow of Mastery or Vow of Allegiance.
         -   The sanity cost is only deducted on a successful heal.
-    -   It has a 40 second cooldown.
+    -   It has a 60 second cooldown.
     -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
     -   Doesn't work on NPCs.
     -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
@@ -93,7 +93,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advised to get a friend to distract them.
     -   You can run during the windup, but can only walk while the beam is active.
-    -   Once the beam starts firing the user gain immunity to all forms of stun, including [Thundercall](Thundercall.md), meaning the user is the only person capable of stopping the beam early.
+    -   Getting vented while using beam cancels it.
     -   Obtainment: 5 Pathfinders helped in the Depth Trial (must be alive)
 
 ## Notes

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 138664
+revid: 139017
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -869,6 +869,7 @@ N/A
 -   With the '**Intuitive Repairs'** Talent, Iron Skin will cause armor and natural armor to be restored during the Mantra's duration.
 -   Can be upgraded with Aeon/Eternal Logstones for increased duration.
 -   Does not negate damage from [Deferred](Deferred.md), [fire](Status_Effects.md#burn), or fall damage.
+-   Duration scales on level.
 
  |
 | 

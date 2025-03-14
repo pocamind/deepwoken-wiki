@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 134344
+revid: 139020
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, World Event]
@@ -27,6 +27,8 @@ This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemen
 It gives the "Orbital Ice" [Talent](Talents.md), which when parrying on ice forms a ring of ice around the user that grants 15% physical resistance.
 
 This outfit's talent will work even if you have the "Fists of Fortitude" talent despite it being mutually exclusive with Orbital ice, allowing you to use both talents simultaneously.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances using this outfit, orbital ice and fists or fortitude are: 46% Physical, 55% Frostdraw and 40% elemental.
 
 ## Location
 
