@@ -1,6 +1,6 @@
 ---
 title: Emel
-revid: 137874
+revid: 139066
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
@@ -39,7 +39,7 @@ Oh, great, great! You're going to _kill someone_. Specifically, any poor sap you
 1.  I can handle it.
 2.  \[End Dialogue\]
 
-_SPLENDID!_ Your task for now is to find and eliminate a _living being_ a ss smart as you on Songseeker. Once you've _killed them_, come back for a surprise...
+_SPLENDID!_ Your task for now is to find and eliminate a _living being_ as smart as you on Songseeker. Once you've _killed them_, come back for a surprise...
 
 If you talk to him again without having completed:
 

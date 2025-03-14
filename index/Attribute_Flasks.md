@@ -1,6 +1,6 @@
 ---
 title: Attribute Flasks
-revid: 138975
+revid: 139058
 source: https://deepwoken.fandom.com/wiki/Attribute_Flasks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Ingredients, Items]
@@ -36,9 +36,7 @@ File:Wasn't always yellow.png
 
 Brilliant Lotus
 
-Gives intelligence
-
-  
+Gives Intelligence
 
   
 

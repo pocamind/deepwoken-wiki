@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 138927
+revid: 139065
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -87,7 +87,7 @@ Blockable:◯
 Dodgeable:◯  
 
  |  |
-| **Stomp 3x** | Primadon performs 3 quick stomps with its **left** foot.
+| **Trample** | Primadon performs 3 quick stomps with its **left** foot.
 
 Parryable:◯  
 Dodgeable:◯  
@@ -157,8 +157,8 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 ## Rewards
 
 -   **8 [Chests](Chests_&_Sacks.md) -** Drops 8 Chests with medium - high tier loot. Most Chests have 1-6 [Umbral Obsidian](Umbral_Obsidian.md) in them, and can rarely include the **Small Chest** loot.
--   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a high chance of 1-2 Deep Gems or Legendary Rings, and can rarely include the [Stormseye](Stormseye.md), [Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Imperial Staff](Imperial_Staff.md). Relics are also able to be dropped in this chest.
--   **Resonance progression -** Gives the second best resonance progress (4-7 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [bell](Resonance.md).)**
+-   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a high chance of 1-2 Deep Gems or Legendary Rings, and can rarely include the [Stormseye](Stormseye.md), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), and the [Imperial Staff](Imperial_Staff.md). Relics are also able to be dropped in this chest.
+-   **Resonance progression -** Gives the second best resonance progress (4-7 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [your Bell](Resonance.md).)**
 -   **2 [Knowledge](Knowledge.md) -** On first kill, Primadon will reward you with 2 knowledge. Subsequent kills will reward 1 knowledge, however if you decide to defeat Primadon with multiple people you must do 20% (8,000) of his health to get the reward of one knowledge.
 
 ## Strategies & Tips
@@ -184,7 +184,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 ### General Combat
 
 -   The biggest problem most people have is timing. **Kick** should be dodged just as it comes down instead of when it winds up.
-    -   Stay close or it will use its fists.
+-   Stay close or Primadon will use its fists.
 -   You can fit two M1s with heavy weapons each time it attacks, or three times with medium weapons after **Trample**.
 -   An easy way to cheese the fight is by placing an [Undying Flames](Flamecharm.md#undying-ember) [Graceful Flame](Flamecharm.md) (you will take damage while casting) and fight Primadon next to it so you heal back the damage you lose.
 -   The **Kick** and **Stomp** abilities make a whooshing sound every time they are raised, adding on to the _obvious_ factor of its attacks.

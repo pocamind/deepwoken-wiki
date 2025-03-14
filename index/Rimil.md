@@ -1,6 +1,6 @@
 ---
 title: Rimil
-revid: 134929
+revid: 139060
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
@@ -18,7 +18,7 @@ categories: [Canor NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminan
 
 Rimil is a [Canor](Canor.md) NPC who resides in the Aratel Sea, more specifically in [Meteor Isle](Meteor_Isle.md). As a member of [The Ministry](The_Ministry.md), you can find them leaning against a large log very close to the main village.
 
-If you decide to talk to them, they will give you the mission to kill a player in the [Starswept Valley](The_Starswept_Valley.md). If you complete it you will gain reputation with the Ministry and a payment for your deeds.  As the NPC in Etrean luminant on statue island, you must grab (kill) a person in Starswept Valley and return to them to get reputation and rewards.
+If you decide to talk to them, they will give you the mission to kill a player in the [Starswept Valley](The_Starswept_Valley.md). If you complete it you will gain reputation with the Ministry and a payment for your deeds. As the NPC in Etrean luminant on statue island, you must grip (kill) a person in Starswept Valley and return to them to get reputation and rewards.
 
 ## Dialogue
 

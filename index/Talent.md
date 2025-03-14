@@ -1,6 +1,6 @@
 ---
 title: Talent
-revid: 7956
+revid: 139061
 source: https://deepwoken.fandom.com/wiki/Talent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   Category:Talents
+-   [Talents](Talents.md)

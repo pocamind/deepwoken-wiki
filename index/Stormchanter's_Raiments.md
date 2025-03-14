@@ -1,6 +1,6 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 134335
+revid: 139068
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, World Event]
@@ -17,6 +17,8 @@ Template:ArmorInfobox**Stormchanter's Raiments** is a Master [Outfit](Outfits.md
 This Outfit costs and requires five (5) Cloth and Fiber, five (5) [Spark Glands](Spark_Gland.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), eight (8) [Iron](Ores.md), one (1) [Insignia Gem](Mantra_Modifiers.md).
 
 This Outfit requires [Power Level](Talents.md) 15 and 45 [Thundercall](Thundercall.md).
+
+This Outfit isn't droppable but is bankable.
 
 ### _Armor Stats_
 

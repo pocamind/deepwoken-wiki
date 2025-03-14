@@ -1,6 +1,6 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 136990
+revid: 139069
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, World Event]
@@ -17,6 +17,8 @@ Template:ArmorInfobox**Tempestmaker's Threads** is a Master [Outfit](Outfits.md)
 This Outfit costs and requires five (5) Cloth and Fiber, five (5) [Gale Stones](Gale_Stone.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), eight (8) [Iron](Ores.md), one (1) [Wind Gem](Mantra_Modifiers.md).
 
 This Outfit requires [Power Level](Talents.md) 15 and 45 [Galebreathe](Galebreathe.md).
+
+This Outfit isn't droppable but is bankable.
 
 ### _Armor Stats_
 
