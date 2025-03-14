@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 138842
+revid: 139032
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -356,7 +356,7 @@ Lightning
 -   Can grant a different effect with the "**Rain of Static**" Talent, which makes the user rain down orbs of lightning from the air before slamming down.
 -   Can proc _Meteor Impact_
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md), making you move forward a little before slamming down.
--   Guard breaks even at Lv. 1
+-   Guard breaks at Level 5.
 -   Can be easily used to glitch through thin or less than moderate sized walls.
 
  |
@@ -887,6 +887,8 @@ N/A
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to shorten the cooldown but greatly reduce the range. This allows you to use the mantra in Chime.
 
  |
+
+  
 
 ## Talents
 

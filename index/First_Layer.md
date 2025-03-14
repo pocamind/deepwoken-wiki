@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 139000
+revid: 139042
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -239,7 +239,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   The [Trial of One](Trial_of_One.md) provides an effective guide to some of the monsters that permeate the depths (the Megalodaunt, Thresher, and the Enforcer), increasing your survival rate once you can conquer them.
 -   If you see a group of high-level people, log to the main menu. Your chances of not combat logging are better than your chances of not getting gripped in The Depths. There is also certain quests such as obtaining [Contractor](Oath%253A_Contractor.md) that require the player to grip people in The Depths, which gives them an incentive to ambush what may seem like jaywalking freshies.
 -   The same goes if there many people of the same guild flooding the server. It's not worth risking your chances to be caught in the crossfire of a depths gank, or a depths cleanse (killing anything that moves in the depths).
-    -   Certain guilds are known for purposefully wiping players in the depths, such as the **Avenger, Anguish, Attuned, Akers, Sakura, Akai, and Sweeperstop.**
+    -   Certain guilds are known for purposefully wiping players in the depths, such as the **Avenger, Anguish, Attuned, Akers, Sakura, Akai, Unnamed, Elysan Fields, Eznore La Squadra, Nightcrawlers, Raisins and Sweeperstop.**
         -   Do note **this information is mercurial and may quickly become outdated**. Regardless, it's advised to switch servers if you see a player from these guilds, as they are still (probably) on high alert.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked, and try guard-breaking them every once in a while, as their posture is not remarkably big.
 -   Having a sense of direction and environmental awareness is **vital** for your survivability and safety. Maximize the usage of your map (keybind 'M') if your new to the depths. Falling into the void while your above 60% Health (only applies for characters power 3+, as lower power leveled characters **will get wiped**) will send you to the Ethironal Shrine Outskirts in Layer 2, Floor one. In order to escape the floor unprepared, (Light Hook is not available) you will have to activate the Deepdriller or kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).

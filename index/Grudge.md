@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 136196
+revid: 139039
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Grudge is a hostile NPC that has a low chance to be randomly encountered as an event in specific locations. Current known locations are [Minityrsa](Minityrsa.md), [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths (Scyphozia)](First_Layer.md), [Upper Erisia](Upper_Erisia.md) and [Meteor Isle](Meteor_Isle.md). It is a green, ghostlike figure that wields the legendary weapon [Wraithclaw](Wraithclaw.md) and utilizes [Galebreathe](Galebreathe.md), specifically it's Specter Path.
+Grudge is a hostile NPC that has a low chance to be randomly encountered as an event in specific locations. Current known locations are [Minityrsa](Minityrsa.md), [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths (Scyphozia)](First_Layer.md), [Upper Erisia](Upper_Erisia.md) and [Meteor Isle](Meteor_Isle.md). It is a green, ghostlike figure that wields the legendary weapon [Wraithclaw](Wraithclaw.md) and utilizes [Galebreathe](Galebreathe.md), specifically it's Specter Path. He wears what seems to be the [Bloodfeather Cowl](Bloodfeather_Cowl.md)
 
 The only requirement for this NPC to spawn is having uncapped [Galebreathe](Galebreathe.md).
 
