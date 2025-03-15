@@ -1,6 +1,6 @@
 ---
 title: Mantra Lectern
-revid: 108080
+revid: 139079
 source: https://deepwoken.fandom.com/wiki/Mantra_Lectern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras]
@@ -30,7 +30,7 @@ The amount of Mantra Modifiers will increase the value of your Mantra. The blue 
     -   It seems it can range from as low as 100 to maybe 3,000 Notes.
 -   If you didn't have enough notes to pay for the offering, the mantra table will retract your mantra to your hotbar, and nullify your modifiers, then stating "Needs Offering."
 
-When going a certain distance away from the mantra table, your mantra will be retracted taken aback to your hotbar. A message will appear in front of your screen saying "Craft Failed". The modifiers placed on there will also be nullified and cannot be taken back. So it is recommended you stay near the table until you finish your mantra modifying.
+When going a certain distance away from the mantra table, your mantra will be retracted taken aback to your hotbar. A message will appear in front of your screen saying "Craft Failed". The modifiers placed on there will be given back so you are free to re-try and experiment.
 
 If applying sparks to your mantra, and it's incompatible with the mantra, a message will appear in front of your screen saying "Ingredients Incompatible". Looking at [Mantra Modifiers](Mantra_Modifiers.md) can help see if your mantra has the compatible spark or not.
 
