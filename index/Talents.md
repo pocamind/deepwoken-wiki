@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139014
+revid: 139081
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2022,11 +2022,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   Works with [Jus Karita](Jus_Karita.md) and [Light's Final Toll](<Light's_Final_Toll.md>) despite not using "fists" as a weapon.
         -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
 
--   _Fists of Fortitude_ \[Rare Talent\] - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%. (+1 Carry Load)
+-   _Fists of Fortitude_ \[Rare Talent\] - \[Fists\] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)
+    -   Only procs on M1s with the exceptions of a few weapons.
+        -   Can proc on [Wraithclaw](Wraithclaw.md)'s criticals due to them being classified as basic attacks, with the neutral critical proccing it almost instantly due to being a multihit.
+        -   Can proc on [Legion Kata](Legion_Kata.md)'s critical due to it being classified as a basic attack.
+    -   This Talent also **works** with [Jus Karita](Jus_Karita.md) but won't come out on your Talent hands unless you have any **Fist Style** equipped.
     -   Prerequisites: Fists, 20 Fortitude, 20 Light Weapon
-    -   You must land 6 hits on your opponent for _Fists of Fortitude_ to activate.
-    -   The Cooldown is 1 minute and 10 seconds.
-    -   This Talent also **works** with [Jus Karita](Jus_Karita.md) but won't come out on your Talent hands**,** you **MUST** have **FISTS** equiped to **get it**.
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
@@ -2957,12 +2958,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Puppets deal 20 **typeless** damage with **no** innate investment scaling. Because Puppets deal typeless damage, they **bypass** armor resistances and Everchanging Aegis. They do **NOT** do True Damage however, as general resistances still work on them.
     -   Puppet damage can be increased with damage modifiers. Additionally, Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
     -   Puppets deal 11 posture damage.
-    -   Puppets have a 4 second cooldown between spawns.
+    -   Puppets spawn whenever Puppet Burn deals damage with a 4 second cooldown.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
     -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames
 
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based Talents when they explode.
-    -   Grants Puppets Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm.
+    -   Grants Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm.
         -   Your Puppets will deal 30 damage at 100 Flamecharm with this talent.
     -   Your Puppets apply Puppet burn, allowing you to spawn more Puppets.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
