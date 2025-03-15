@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 138934
+revid: 139088
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -6273,6 +6273,7 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   Mob drop from [Frostdraw Trainer](Nell,_Master_of_Frost.md)
 
  |
