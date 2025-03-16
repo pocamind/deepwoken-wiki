@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 137179
+revid: 139106
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Multiple Criticals]
@@ -43,7 +43,7 @@ For the **running critical**, whip around wildly and continuously fire the pisto
 
 ## Trivia
 
--   On release it had the exact same scaling as the Ignition Deepcrusher, being 4 MTL and 3 MED.
+-   On release it had the exact same scaling as the [Ignition Deepcrusher](Ignition_Deepcrusher.md), being 4 MTL and 3 MED.
 -   The description previously had "print(4\*1) Reverse-engineered..." in it.
 -   The Ironsing icon is engraved on both sides of the gun.
 -   Along with the [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) and [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only three flintlocks in the game to play a unique sound effect on M1/crit.

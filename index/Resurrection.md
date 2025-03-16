@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 133248
+revid: 139114
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -33,9 +33,9 @@ A spinning white circle appears on the back of the player who used resonance. A 
 
 Pressing C will cast the **Resurrection** Resonance on the player you have your cursor over.
 
-Activating resonance marks a living being, giving it a minor speed buff for the duration of the marker (5-8 seconds, depending on points). Can tag any player. (hold the C button to forcefully cast on self, must already be activated.)
+Activating resonance marks a living being, giving it a minor speed buff for the duration of the marker (5-9 seconds, depending on points). Can tag any player. (hold the C button to forcefully cast on self, must already be activated.)
 
-While players have a marker on them if they are knocked, they will be lifted into the air and restored to 40% of their health. This will cause the resonance to go on cooldown.
+While players have a marker on them if they are knocked, they will be lifted into the air and have their health set to 40%. This will cause the resonance to go on cooldown.
 
 If not, then the star on the target will fade away and the Resonance has a chance to go on cooldown.
 
@@ -68,3 +68,4 @@ When obtained, Resurrection will spend its points on the following stats:
 -   A very powerful corrupted resonance, as the damage downside of resurrection will proc on usage. If you were to die of damage due to the resonance or whilst active, you get a free 40% back.
 -   If the enemy defeated your ally with an active resurrection on them, the enemy does not gain any health and posture from defeating the ally.
 -   The second bell with a passive ability, the other being [Jar of Souls](Jar_of_Souls.md).
+-   Does not stack with talents like polite awakening.

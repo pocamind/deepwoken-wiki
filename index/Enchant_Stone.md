@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 139102
+revid: 139107
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -18,7 +18,7 @@ categories: [Items, Relics, Layer 2]
 | pass down | No |
 | desc | "A shard of enchantment, it can apply its given Enchant to your currently equipped weapon" |
 
-The **Enchant Stone** is a mythical-tier item that can be used to apply an [Enchantment](Enchantments.md) to your currently held weapon. Each stone is imbued with a random enchant or curse. When used, an option will appear to confirm if this is the weapon you wish to enchant and soulbind. After usage, an animation will play and the enchant stone will disappear from the inventory. Your current weapon will receive the enchantment provided by the enchant stone. This can also be used to re-roll enchants on already enchanted weapons
+The **Enchant Stone** is a mythical-tier item that can be used to apply an [Enchantment](Enchantments.md) to your currently equipped weapon. Each stone is imbued with a random enchant or curse. When used, an option will appear to confirm if this is the weapon you wish to enchant and soulbind. After usage, an animation will play and the enchant stone will disappear from the inventory. Your current weapon will receive the enchantment provided by the enchant stone. This can also be used to re-roll enchants on already enchanted weapons
 
 ## Obtainment
 
