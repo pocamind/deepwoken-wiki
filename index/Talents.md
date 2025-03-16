@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139081
+revid: 139091
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1525,7 +1525,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Allies take 35% less damage from you and deal 35% less damage to you. This can stack with the Give and Take Talent, totaling to 48% damage reduction.
     -   This does not apply to self damage.
 
--   Mark of Jurik \[Jurik and Hollowtide [Capra](Capra.md) Variant Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
+-   Mark of Jurik \[Jurik and Hallowtide [Capra](Capra.md) Variant Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
     -   Gain a tool that lowers the sanity drain of nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen. 4m CD.
         -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
         -   Also buffs non allies. Does not require you to be resting at a campfire.

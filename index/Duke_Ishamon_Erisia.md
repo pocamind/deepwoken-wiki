@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 138993
+revid: 139095
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -18,7 +18,7 @@ Template:EnemyInfobox1.0
 
 **Duke Ishamon Erisia** (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
-Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, which is a modified version of his Gale Stomp.
+Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
 He is a noble who resided in the City of Celtor before the Great Drowning. In appearance, the Duke is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
@@ -263,7 +263,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   [Rare Weapons](Weapons.md)
 -   [Attunement Uncap](Attributes_Unbound.md) (If the requirements are met.)
 -   [Weapon Uncap](Attributes_Unbound.md) (If the requirements are met.)
--   The ability to obtain the [Pillars of Erisia](Galebreathe.md#combat-mantras) Mantra in a Whisper hand with sufficient Galebreathe.
+-   The ability to obtain the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand with sufficient Galebreathe.
 -   [Resonance](Resonance.md) (Bell) progression.
     -   It will take around 6 Dukes with Max Resonance Progression Echo to unlock Resonance with either the boss path or the regalia and around 9-10 without the boss path or the regalia
 
@@ -446,7 +446,7 @@ Exhaustive Loot Table
 -   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack.
 -   Duke can be (rarely) seen conversing with the [Mindless Servants](Mindless_Servant.md) in the tubes next to him idly. This is likely a bug, as Mudskippers and even Terrapods can start small talk when idle.
 -   He is able to drown; if you glitch you and him into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
--   If Taunt is utilized before the player talks with Duke, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)
+-   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)
 
 ## Bugs
 
