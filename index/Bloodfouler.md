@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 138687
+revid: 139123
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons, The Ministry]
@@ -11,11 +11,11 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 | Bloodfouler | |
 |---|---|
 | type | Greatsword |
-| requirements | 50 HVY, LVL 12, 75 BLD |
-| damage | 20.5 + 6.5 BLD |
-| scaling | HVY: 6, BLD: 5 |
+| requirements | 50 HVY, LVL 10, 75 BLD |
+| damage | 20 + 6 BLD |
+| scaling | HVY: 6, BLD: 4 |
 | range | 9.5 |
-| swing speed | 0.87x |
+| swing speed | 0.86x |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8.5 |
 | bankable | Yes |

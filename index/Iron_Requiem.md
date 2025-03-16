@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 139106
+revid: 139133
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Multiple Criticals]
@@ -33,7 +33,7 @@ The Iron Requiem has a [Bullet](Bullet_Casings.md) capacity of 6, meaning you ge
 
 Meeting requirement for this weapon gives you 29.3 dmg with 0 prof. (Standing crit does 58 dmg and running one 66, with no gun talents)
 
-M1s without bullets apply metal rods and bleed dmg. M1s with bullets proc talents and have better range.
+M1s without bullets apply Bleed dmg. M1s with bullets proc talents and have better range
 
 ## Critical
 

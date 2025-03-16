@@ -1,6 +1,6 @@
 ---
 title: Aranea
-revid: 136478
+revid: 139150
 source: https://deepwoken.fandom.com/wiki/Aranea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -10,10 +10,10 @@ notices:
 
 # Aranea
 
-| Aranea | |
+| Aranea (guiding star) | |
 |---|---|
 | type | Gun |
-| requirements | 200 LHT |
+| requirements | 100 LHT 100 MND |
 | damage | 14 |
 | scaling | LHT: 15 |
 | range | 12 |
@@ -32,10 +32,10 @@ The **Aranea** is a Bow that could briefly be found through [chests](Chests_&_Sa
 
 The bow is set to be upcoming future content.
 
-Meeting the LHT requirements of 200, the Aranea deals a whopping **45.5** damage. With 6 Proficiency ontop, it deals **57.8** damage rounded up, slightly above a 100 HVY Hivelord's Hubris at 57.2.
+Meeting the LHT requirements of 100, the Aranea deals a whopping **45.5** damage. With 6 Proficiency ontop, it deals **57.8** damage rounded up, slightly above a 100 HVY Hivelord's Hubris at 57.2.
 
 -   Currently, the stats are for testing, as no player can have 200 points in Light weapons.
 -   Identical stats and description to the [Repeater](Repeater.md).
 -   It is believed to be added to the game by accident, and got removed soon after.
--   Despite obviously being a bow, it is categorised as a gun
+-   This weapon is the first of it's class as a bow.
 -   Aranea's string can be seen stretched while the bow is idle, this is unlike real world bows, in which the string does not stretch at all, but rather the legs bend.

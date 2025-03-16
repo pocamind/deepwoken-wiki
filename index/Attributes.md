@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 137524
+revid: 139132
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -35,9 +35,16 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 [Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75(77/78 with aspect stat bonus) Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLY TO WEAPON & ATTUNEMENT.**
 
+## Body and Mind
+
+Body and Mind are categories for the Core Attributes; Strength, Fortitude, and Agility are Body attributes, while Intelligence, Willpower, and Charisma are Mind attributes. Talents, weapon requirements, and weapon scaling can be based off your Mind or Body stat rather than scaling directly on the individual Attributes, leading to much more stat diversity in a build.
+
+-   Your Mind stat is based off the highest invested attribute in the Body category. For example if you have 50 Strength, 35 Fortitude, and 25 Agility, your Body stat will be 50.
+-   Your Mind stat is based off the highest invested attribute in the Mind category. For example, if you have 0 Intelligence, 25 Willpower, and 50 Charisma, your Mind stat will be 50.
+
 ### Strength (STR)
 
--   Physical strength. _Increases **carry load**, **armor penetration**, and the **damage scaling of strength mantras**._
+-   Physical strength. _Increases **carry load** and **armor penetration**_**. This Attribute falls under the Body category.**
     -   Increases [Carry Load](Carry_Load.md) by 1 per point in Strength.
     -   For every point in strength, gain 0.1% melee and mantra penetration.
     -   Many heavy weapons require an amount of Strength to be held, such as a _[Petra's Anchor](<Petra's_Anchor.md>)_ needing 10 STR, or a _[Hivelord's Hubris](<Hivelord's_Hubris.md>)_ needing 60 STR.
@@ -47,7 +54,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ### Fortitude (FTD)
 
--   Resilience against threats. _Increases **Health** slightly per point._
+-   Resilience against threats. _Increases **Health** slightly per point._ This Attribute falls under the Body category.
     -   Every point in Fortitude increases your chances to resist food poisoning when eating raw materials.
     -   At 50 Fortitude, can eat most raw materials without vomiting.
     -   Adds 0.5 HP to your character for every Fortitude point.
@@ -61,7 +68,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ### Agility (AGL)
 
--   Sleight of Hand and Nimbleness. _Increases **Parkour** and **Stealth** slightly per point._[\[1\]](#cite-note-1)
+-   Sleight of Hand and Nimbleness. _Increases **Parkour** and **Stealth** slightly per point._[\[1\]](#cite-note-1) This Attribute falls under the Body category.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speed bonuses from parkour.
         -   **Your mobility is affected by your health, reducing speed/maneuverability the lower your health gets**.
             -   _This can be mitigated with the [Endurance Runner](Talents.md#alley-cat) Talent._
@@ -76,7 +83,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ### Intelligence (INT)
 
--   Logic and problem-solving skills. _Increases **Ether** slightly per intelligence point._
+-   Logic and problem-solving skills. _Increases **Ether** slightly per intelligence point._ This Attribute falls under the Mind category.
     -   One point in Intelligence gives 2 Ether.
     -   Increases potion potency and damage with Iron Bombs.
 -   Unlocks Intelligence-related [Talents](Talents.md) and [Mantras](Attunement-less.md#intelligence-mantras).
@@ -86,7 +93,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ### Willpower (WLL)
 
--   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._[\[2\]](#cite-note-2)
+-   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._[\[2\]](#cite-note-2) This Attribute falls under the Mind category.
     -   One point in Willpower gives +3 sanity and +0.5 tempo.
         -   [Ganymede](Ganymede.md) has a 1.2x Sanity gain multiplier, meaning they gain 3.6 Sanity per point in Willpower.
     -   One point in Willpower reduces the amount of time you are knocked for by 0.05s.
@@ -98,7 +105,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ### Charisma (CHA)
 
--   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._[\[3\]](#cite-note-3)
+-   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._[\[3\]](#cite-note-3) This Attribute falls under the Mind category.
     -   One point in Charisma gives 1.5 ether.
     -   Charisma can be used in certain dialogue checks that require charisma.
     -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
@@ -163,7 +170,7 @@ _**NOTE:** The message that appears when training an attunement, "The elements a
 
 -   Increases damage scaling of Flamecharm mantras.[\[4\]](#cite-note-4)
     -   Unlocks [Flamecharm Talents](Flamecharm.md#talents).
-    -   Increases intensity of flames. (Someone please elaborate on this)
+    -   Increases intensity of flames. (deals more damage)
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using [Hearthgem](Training_Gear.md#attunement-training-gears) or eating [Dying Embers](Dying_Embers.md).
 
 ### Frostdraw (ICE)
