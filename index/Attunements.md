@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 138639
+revid: 139225
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics]
@@ -19,7 +19,7 @@ There are currently four base Attunements that anyone may select when first crea
 -   The more attunements you wield, the more expensive it will become to manage them, because you do not have an infinite number of points to spend on your character. Choose wisely.
 -   By choosing no attunement, you are provided 10 extra investment points to make up for the loss of attunement. Normally, these 10 points would be auto invested if you chose an attunement.
 
-Post-creation, the character is able to learn more attunements throughout their adventures by visiting individual _attunement trainers_ around the world. For the character to wield more attunements post-creation, they must collect 2 of the respective elemental ingredients- aside for Ironsing, which utilizes a more convoluted unlock method.
+Post-creation, the character is able to learn more attunements throughout their adventures by visiting individual _attunement trainers_ around the world. For the character to wield more attunements post-creation, they must collect 5 of the respective elemental ingredients- aside for Ironsing, which utilizes a more convoluted unlock method.
 
 -   [Flamecharm](Flamecharm.md) = [Dying Embers](Dying_Embers.md)
 -   [Frostdraw](Frostdraw.md) = [Frigid Prisms](Frigid_Prism.md)

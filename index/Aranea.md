@@ -1,16 +1,14 @@
 ---
 title: Aranea
-revid: 139150
+revid: 139219
 source: https://deepwoken.fandom.com/wiki/Aranea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Upcoming content, Weapons]
-notices:
-  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
+categories: [Weapons]
 ---
 
 # Aranea
 
-| Aranea (guiding star) | |
+| Aranea | |
 |---|---|
 | type | Gun |
 | requirements | 100 LHT 100 MND |
@@ -26,11 +24,13 @@ notices:
 | obtainment | Chime of Conflict, The Diluvian Mechanism |
 | description | A recent invention of the Summer Company's gunsmiths, a firearm with high rate of fire. |
 
-## **Description**
+Redirect to:
+
+-   [Guiding Star](Guiding_Star.md)
+
+## Description
 
 The **Aranea** is a Bow that could briefly be found through [chests](Chests_&_Sacks.md) in [Chime of Conflict](Chime_of_Conflict.md). It required 200 points in Light weapons to be utilized.
-
-The bow is set to be upcoming future content.
 
 Meeting the LHT requirements of 100, the Aranea deals a whopping **45.5** damage. With 6 Proficiency ontop, it deals **57.8** damage rounded up, slightly above a 100 HVY Hivelord's Hubris at 57.2.
 

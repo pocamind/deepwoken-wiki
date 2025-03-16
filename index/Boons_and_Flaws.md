@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 131693
+revid: 139221
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -264,7 +264,7 @@ _"You cannot see."_
 
  | 
 
-You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. This flaw does not provide protection from Flame Blind and Gaze.
+You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. This flaw provides protection from Flame Blind and Gaze.
 
 -   Gremor's who are blind see better than others, being blessed by Navae.
 
@@ -396,6 +396,8 @@ Gained from rerolling a bell at Yun-Shul, and can not be selected in the charact
 
 (Not an Unlockable Flaw)
 
+  
+
  | 
 
 0
@@ -446,6 +448,8 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
 (Not an Unlockable Flaw)
 
 (Disabled)
+
+  
 
  | 
 

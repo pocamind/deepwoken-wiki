@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139091
+revid: 139243
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1279,7 +1279,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Neuroplasticity_ \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
-    -   Prerequisite: 35 Charisma OR 35 Intelligence OR 35 Willpower[\[1\]](#cite-note-1)
+    -   Prerequisite: 35 Mind (35 Charisma OR 35 Intelligence OR 35 Willpower)[\[1\]](#cite-note-1)
 
 ### Glassdancer
 
@@ -1839,7 +1839,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Survival Kit \[Common Talent, Charisma, Willpower, Intelligence\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
     -   Flint now has infinite uses.
     -   Obtainment: Wipe with Herbivore, Iron Gut and Termite.
-    -   Prerequisite: 20 Intelligence / 20 Willpower / 20 Charisma.
+    -   Prerequisite: 20 Mind (20 Intelligence OR 20 Willpower OR 20 Charisma).
 
 ### Meditative Trance
 

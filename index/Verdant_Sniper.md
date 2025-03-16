@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 137001
+revid: 139241
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -39,4 +39,3 @@ This Outfit's Schematic can be found at:
 -   [https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants](https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants)
 -   Frank F'alzone in the [tutorial](Tutorial.md) uses this outfit
 -   [Plath](Plath.md) wears this outfit, alongside [Cerulean](Cerulean.md) and all of the [Oathless](Oath%253A_Oathless.md) wanderers.
--   The description mentions a bow. However, there are no (usable) bows currently in the game, with the technical exception of the [Shard Bow](Shard_Bow.md) resonance.
