@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 138198
+revid: 139350
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -27,11 +27,11 @@ categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Weap
 
 ## Description
 
-**Rosen's Hellflame** is a legendary Rifle, boasting a design similar to a bulked-up [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with a gilded stock on the rifle and magazine made to hold fire. This weapon can be obtained from [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Saramaed Hollow](Saramaed_Hollow.md), and [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
-
-This weapon scales off Medium and Flamecharm.
+**Rosen's Hellflame** is a Legendary Rifle: the product of the highly intelligent Gunsmith Rosen. In exterior design, it is akin to the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with its shape similar and mechanisms gilded, though it bears a much more lavish design, and boasts a sheen of scarlet metal. Utilizing ether, it can propel fire from its magazine out of the barrel in spectacular display. The weapon scales off Medium and Flamecharm.
 
 Every 2nd and 4th M1 will apply burn / proc Lava Serpent (depending on which path you take)
+
+This weapon can be obtained from [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Saramaed Hollow](Saramaed_Hollow.md), and [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 139321
+revid: 139358
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", Children of Navae, Bows]
@@ -45,6 +45,8 @@ The user crouches down and fires three explosive Ether arrows in quick successio
 
 ## Trivia
 
--   Formerly known as the "Aranea", which was accidentally released as a drop in [Chime of Conflict](Chime_of_Conflict.md) chests and had a whopping requirement of 200 Light, rendering it unusable for normal players.
+-   Formerly known as the "Aranea", a weapon that was accidentally released as a drop from [Chime of Conflict](Chime_of_Conflict.md) chests and had a impossible requirement of 200 Light weapons, rendering it unusable for normal players.
+    -   The model Guiding Star uses an almost one-to-one model from the Aranea.
 -   This is currently the only weapon that requires and scales off Mind.
 -   The Guiding Star is the first and (currently) only Bow in the game.
+-   The Guiding Star currently has the farthest range of any weapon in the game at 12 units.

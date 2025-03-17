@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 138244
+revid: 139367
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]
@@ -32,7 +32,7 @@ The Wraithclaw is a weapon in _Deepwoken_.
 
 ## Description
 
-The **Wraithclaw** is a Legendary [Cestus](Weapons.md#fists); spiralettes of wind around the hand underset by wraps and sinew which anchor six blades of spectral energy. They are the souls of the dead carried by the gale giving into claws, to rake and dig into opponents much as their dreading and sorrowful hearts do their own. It's damage scales off both Light Weapon and [Galebreathe](Galebreathe.md).
+The **Wraithclaw** is a Legendary [Cestus](Weapons.md#fists); branching spirals of wind around the wrists underset by wraps and sinew which anchor six blades of spectral energy over the knuckles. The Wraithclaw is forged from the souls of the dead carried by the gale giving into claws, to rake and dig into opponents much as their dreading and sorrowful hearts do their own. Its damage scales off both Light Weapon and [Galebreathe](Galebreathe.md).
 
 The Wraithclaw comes with a single passive ability:
 
@@ -83,6 +83,7 @@ Both criticals share the cooldown of **10 seconds**.
 
 -   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and are replaced by the chained gauntlet. It is unsure if this is intentional or not.
     
--   It seems as if your slot has Mute regalia (animal king), he will not spawn on you. (needs more testing)
+-   It seems as if your slot has Mute regalia (animal king), Grudge will not spawn on you. (needs more testing)
 -   While using the criticals it will play the sound of a bear roaring.
+-   The latter part of the weapon's description is speculated to be a meta comment on the common and popular criticism from the Deepwoken community by veteran players.
 -   The [Fang and Coil](Fang_and_Coil.md) running crit is not added with the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit

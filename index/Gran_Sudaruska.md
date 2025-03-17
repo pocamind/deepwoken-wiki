@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 138114
+revid: 139359
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -16,7 +16,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | scaling | ICE: 8, HVY: 4 |
 | range | 8.5 |
 | swing speed | 0.83x |
-| special effect | Rain down ice shards after 3 hits, Talks when killing Ministry NPCs or Players, Critical freezes enemy upon connection (Places crystals if the player has Glass Path:Crystallization) |
+| special effect | Rain down Ice/Crystal Shards after 3 hits, Talks when killing Ministry NPCs or Contractors, Critical freezes and uppercuts enemy upon connection (Plants Crystals if the player has Glass Path: Crystallization) |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 6 |
 | bankable | Yes |
@@ -24,11 +24,11 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Ministry Ambushes (Chest), Diluvian Mechanism (wave 30-50), Second Layer (Floor 1 Chests), Weird Trader |
-| description | "In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the last front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska." |
+| description | "In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the lost front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska." |
 
 ## Description
 
-**Gran Sudaruska** is a Legendary [Greataxe](Weapons.md); a tall and heavy black bat-winged battleaxe fused by frost and Sudaruska's soul, lighting it with cold color. It scales with both Heavy and [Frostdraw](Frostdraw.md).
+**Gran Sudaruska** is a Legendary [Greataxe](Weapons.md); a tall and heavy black bat-winged battleaxe fused by frost and Sudaruska's soul, lighting it with cold color. It scales with both Heavy and [Frostdraw](Frostdraw.md). You can wield it either one-handed or two-handed despite having lower than 40 HVY.
 
 Gran Sudaruska comes with two passive abilities:
 
@@ -41,12 +41,12 @@ Gran Sudaruska comes with two passive abilities:
 
 The critical causes the user to spin the axe in the air, raining down ice shards and uppercutting anyone hit by it, with added physical damage to mobs with elemental resistance.
 
-The critical attack has a cooldown of **10 seconds**
+The critical attack has a cooldown of **10 seconds.**
 
 ## Trivia
 
 -   Gran Sudaruska M1s do not apply crystal or chill. This is intended.
-    -   Prior to a patch, Gran Sudaruska used to convert **all** damage into Ice/Chill damage, leading to unintentional mechanics such as basic attacks, any mantras, and even **Venting** to apply crystals, this was patched and removed, however the m1s used to apply crystal prior to a later hotfix.
+    -   Prior to a patch, Gran Sudaruska used to convert **all** damage into Ice/Chill damage, leading to unintentional mechanics such as basic attacks, any mantras, and even **Venting** to apply crystals, this was patched and removed. However, the M1s used to apply Crystals prior to a later hotfix.
 -   The first and only weapon that currently has the ability to speak.
     -   Some of her voice lines are:
         -   "Fall beneath our frost, drowned pawn."
@@ -70,8 +70,9 @@ The critical attack has a cooldown of **10 seconds**
     -   Fimbulwinter is a harsh winter that preludes Ragnarök in Norse mythology.
 -   When trying to equip the weapon as a [Contractor](Oath%253A_Contractor.md), the game will state "The weapon rejects your very soul, the antithesis to your ideals." This is due to the fact that the soul of Sudaruska, the woman who occupies the weapon, hates the Ministry.
     -   You can however, equip her before obtaining Contractor. Unequipping afterwards will make it impossible to equip her once more until you oathbreak Contractor or equip her as a new character.
+    -   You can also equip her while wearing the [Prophet's Cloak](<Prophet's_Cloak.md>).
 -   The critical works with Meteor Impact.
 -   The critical teleports you to the person who used the crit.
 -   Gran Sudaruska used to have a Power requirement of 3, although it was impossible to meet the other requirements within Power 3.
 -   Gran Sudaruska could be used one handed even if the One Handed Training Talent was not obtained prior to its removal.
--   Gran Sudaruska's Critical attack used to only be a spherical hitbox infront of the player, however on the July 5th 2024 update, this was instead changed to be a 360 hitbox around the player.
+-   Gran Sudaruska's Critical attack used to only be a spherical hitbox infront of the player. However, on the July 5th 2024 update, this was instead changed to be a 360 hitbox around the player.

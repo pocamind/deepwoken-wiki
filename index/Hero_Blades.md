@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 136448
+revid: 139349
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -26,17 +26,15 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 
 ## Overview
 
-**The Hero Blades** are a series of elemental blades rumored to be made from the essence of the song and are found within the game of _Deepwoken_, each taking the form of a blade with runes inscribed upon them. With each being made from an attunement based on the Hero who the weapon was created for with the blades keeping this form even though the original wielder has now passed on. Due to how the blades were created only those with powerful connections to the song are able to wield these weapons with each blade being attuned to one of the many natural elements of the song.
+**The Hero Blades** are a series of legendary blades, each rumored to be made from an attunement based on the individual elemental Hero whom they were created for. Perhaps due to how the blades were created, only those with powerful connections to the song are able to wield one of these weapons, each attuned to one of the many elements of the song.
 
-What attunement the weapon possesses is based on the hero who once wielded it, the [Khan](Khan.md) hero having a blade made of flames, the [Capra](Capra.md) hero having a blade made of frost, the [Tiran](Tiran.md) hero having a blade made of wind, the [Adret](Adret.md) hero having a blade made of lightning, and the [Felinor](Felinor.md) hero having a blade made from shadow. Each blade requiring 75 in their respective attunement and level 11+.
+What attunement the weapon possesses is based on the hero who once wielded it, the [Khan](Khan.md) hero having a blade made of flames, the [Capra](Capra.md) hero having a blade made of frost, the [Tiran](Tiran.md) hero having a blade made of wind, the [Adret](Adret.md) hero having a blade made of lightning, and the [Felinor](Felinor.md) hero having a blade made from shadow. Each blade requires 75 in their respective attunement and level 11+.
 
-The Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md#blizzard-knight) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting and completing sets of 5 rounds in mysterious [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating the [Blizzard Knights](Stone_Knight.md) will guarantee a chest with several of the blades though they will have random attunements.
+The Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md#blizzard-knight) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting and completing the mysterious [Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating the [Blizzard Knights](Stone_Knight.md) will guarantee a chest with one to a several of the blades at random.
 
 Each of the Hero Blades have their own unique critical attack.
 
-A common misconception is their damage type. Hero Blades deal **Physical Slash Damage**, like normal swords. However, their critical attacks deal elemental damage of the relevant type. Additionally, they scale off [Proficiency](Traits.md), **not** [Songchant](Traits.md), like normal swords.
-
-Furthermore Hero blades CANNOT be enchanted
+A common misconception is their damage type. Hero Blades deal **Physical Slash Damage**, like normal swords. However, their critical attacks deal elemental damage of the relevant type. Additionally, they scale off [Proficiency](Traits.md) like normal weapons, **not** [Songchant](Traits.md).
 
 ## Trivia
 

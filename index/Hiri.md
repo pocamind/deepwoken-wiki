@@ -1,6 +1,6 @@
 ---
 title: Hiri
-revid: 130892
+revid: 139360
 source: https://deepwoken.fandom.com/wiki/Hiri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, The Hive, NPCs located in the Eastern Luminant]
@@ -30,7 +30,13 @@ Hiri is a male [Chrysid](Chrysid.md) found in the Library section of the [Greath
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Something wrong, traveler? You've been staring for a moment now. Surprised to see a Chrysid in the Greathive?<p>Ah, another Moonlit descendant. Surprised to see another of our kin here in the Greathive? <b>(When interacting as a Chrysid)</b></p></td>
+  <td colspan="12">
+  <ul>
+    <li>Something wrong, traveler? You've been staring for a moment now. Surprised to see a Chrysid in the Greathive?</li>
+  </ul>
+  <ul>
+    <li>Ah, another Moonlit descendant. Surprised to see another of our kin here in the Greathive? <b>(When interacting as a Chrysid)</b></li>
+  </ul></td>
 </tr>
 <tr>
   <td colspan="12">I don't see many Chrysids around here. Why is that?<p>I don't see many Chrysids around here. <b>(When interacting as a Chrysid)</b></p></td>

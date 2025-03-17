@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 139065
+revid: 139330
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -188,7 +188,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   You can fit two M1s with heavy weapons each time it attacks, or three times with medium weapons after **Trample**.
 -   An easy way to cheese the fight is by placing an [Undying Flames](Flamecharm.md#undying-ember) [Graceful Flame](Flamecharm.md) (you will take damage while casting) and fight Primadon next to it so you heal back the damage you lose.
 -   The **Kick** and **Stomp** abilities make a whooshing sound every time they are raised, adding on to the _obvious_ factor of its attacks.
--   As Cannons use blunt damage, you can actually broadside the Primadon to death.
+-   As Cannons use blunt damage, you can actually broadside the Primadon to death. However, as of the 3/16/25 update, Primadon has gained a ??% cannon resistance.
 
 #### Move-set
 
@@ -281,7 +281,7 @@ There are **13** images, be warned
 
 ## Trivia
 
--   Primadon's second phase significantly increases his attack speed.
+-   Primadon's second phase significantly increases his attack speed, only allowing one hit in between his attacks.
 -   [Deep Gems](Deep_Gems.md) were temporarily stripped from the loot pools of all _Etrean Luminant_ enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to Primadon's loot pool, although Deep Gems are not guaranteed to spawn after his defeat.
     -   This chest has since been repurposed to house many of the rarer drops such as Relics and Legendary Weapons.
 -   Primadon's respawn time is around 3 minutes.

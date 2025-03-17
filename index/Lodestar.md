@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 139324
+revid: 139366
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,18 +11,18 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Lodestar NPC is a job board mini boss that drops the [Guiding Star](Guiding_Star.md) and the [Navaen War Chief](Navaen_War_Chief.md).
+The Lodestar is a humanoid enemy NPC, that can be found at [Summer Isle](Summer_Isle.md) and [Starswept Valley](The_Starswept_Valley.md) when taking the **Lodestar Bounty [Job](Job_Boards.md)**. Their aspect is that of a Male Redwood [Gremor](Gremor.md). They drop their weapon and outfit upon death, that being the [Guiding Star](Guiding_Star.md). His outfit consists of a [Black Blindfold](Blindfold.md), and a [Nevaen War Chief](Navaen_War_Chief.md) [Outfit](Outfits.md).
 
 ## Moveset
 
-His arsenal consists of the weapon known as the [Guiding Star](Guiding_Star.md).
+The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guiding_Star.md).
 
 | Name | Description | Parryable? | Blockable? |
 | --- | --- | --- | --- |
 | 
 Assault
 
- | Fires an arrow at the target. | ◯ | ◯ |
+ | Constantly fires arrows at the opponent repeatedly and flourishes them away with a knockback arrow. | ◯ | ◯ |
 | 
 
 Critical
@@ -32,27 +32,27 @@ Critical
 
 Warden's Blades
 
- | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished. | ◯ | ◯ |
+ | Lodestar forms 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance. | ◯ | ◯ |
 | 
 
 Ice Daggers
 
- | User forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ |
+ | Lodestar forms 3 daggers of ice before throwing them towards the nearest target. | ◯ | ◯ |
 | 
 
 Crystal Impale
 
- | User ascends before performing a quick spinning dash towards the target. | ◯ | ◯ |
+ | Lodestar ascends before performing a quick spinning dash towards the target. | ◯ | ◯ |
 | 
 
 Sightless Beam
 
- | User fires a high pressure beam from their blindfolded eyes. | ✗ | ◯ |
+ | Lodestar fires a high pressure beam from their blindfolded eyes. | ✗ | ◯ |
 | 
 
 Wind Forge
 
- | User conjures up a line of 4 wind projectiles before sending them towards the target. | ◯ | ◯ |
+ | Lodestar conjures up a line of 4 wind projectiles before sending them towards the target. | ◯ | ◯ |
 
   
 

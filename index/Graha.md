@@ -1,6 +1,6 @@
 ---
 title: Graha
-revid: 138579
+revid: 139331
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, The Divers, NPCs located in the First Layer]
@@ -38,3 +38,4 @@ Graha is one of the NPCs who resides in [Castle Light](Castle_Light.md). He is a
 ## Trivia
 
 -   Graha's racial variant appears to be Besague
+-   He mentions how the stove next to him is the only way to cook anything (this is a lie) although he likely doesn't know about the stove in chariot's spire

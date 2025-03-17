@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 138067
+revid: 139357
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -24,18 +24,18 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Heart of Enmity, Ministry Agent, The Ferryman, Sea Events, Weird Trader |
+| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Heart of Enmity, Ministry Agent, The Ferryman, Sea Events, Weird Trader, Lodestar |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description
 
-The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a dark gray blade adorned with symbols and wreathed in shadow, made from the bodies of the deceased. It can be obtained from the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). It scales off [Shadowcast](Shadowcast.md) alongside Heavy.
+The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a stocky bull-necked hilt giving rise to an ominous blade serving as the crypt and final resting place of a previous generation, hence it's. The weapon itself is wreathed in waning shadow, and is made of a large and long, forthright blade that is adorned in sharp symmetry and pallid patterns. The Crypt Blade scales off [Shadowcast](Shadowcast.md) alongside [Heavy Weapons](Attributes.md).
 
-The Crypt Blade comes with 2 passive abilities:
+The Crypt Blade comes with 3 passive abilities:
 
 -   **Last Dead's Boon** - M1 attacks now steal ether.
 
--   **Shadow Affinity** - Non-mantra specific shadow Talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md)).
+-   **Shadow Affinity** - Non-mantra specific shadow Talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md))
 
 -   **Wrathful Blade** - If used with Wraith Path: Twisted Puppets, your blade also procs black flames similarly to the Blazing Enchantment.
 

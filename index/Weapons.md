@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 139306
+revid: 139365
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -36,8 +36,8 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 
 -   **Light Weapons** are locked to the One Handed stance.
     -   **[Fists](Fists.md)** are able to switch between the [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md) and [Fang & Coil](Fang_and_Coil.md) fighting styles.
--   All **Medium Weapons** except for Rifles, the [Imperial Staff](Imperial_Staff.md), the [Wyrmtooth](Wyrmtooth.md) and the [Purple Cloud](Purple_Cloud.md) can freely switch between One Handed and Two Handed stances.
--   All **Heavy Weapons** except for the [Railblade](Railblade.md) and [Gran Sudaruska](Gran_Sudaruska.md) are locked to Two Handed stances; however, this can be changed through obtaining 40 HVY, which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
+-   All **Medium Weapons** except for Bows, Rifles, the [Imperial Staff](Imperial_Staff.md), the [Purple Cloud](Purple_Cloud.md), and the [Wyrmtooth](Wyrmtooth.md) can freely switch between One Handed and Two Handed stances.
+-   All **Heavy Weapons** except for [Gran Sudaruska](Gran_Sudaruska.md) and the [Railblade](Railblade.md) are locked to Two Handed stances; however, this can be changed through obtaining 40 HVY, which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
 
 ### One-Handed
 

@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 139123
+revid: 139353
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons, The Ministry]
@@ -27,9 +27,9 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 
 ## Description
 
-The Bloodfouler is a [Legendary Greatsword](Weapons.md); an odachi commissioned by an unknown member of the Ministry during their training to one day become a prophet. The blade is well decorated in a crimson pattern, as well as its sheathe proving its intricate craft even more. It scales off of [Bloodrend](Bloodrend.md) alongside [Heavy Weapons](Attributes.md).
+The Bloodfouler is a [Legendary Greatsword](Weapons.md); a massive odachi that is as fearsome as it is long. Under a now worn, serrated blade you bring your hands around a hilt wrapped in scarlet cloth. The odachi sports decorative symbols along its make, with spikes that crop out opposite to the edge early in the blade's spine. The Bloodfouler comes with a black leather and strapped sheathe.
 
-The weapon can be acquired by retrieving three tomes from the following:
+The Bloodfouler scales off [Heavy Weapons](Attributes.md) alongside [Bloodrend](Bloodrend.md). The weapon can be acquired by retrieving three tomes from the following:
 
 1.  [Volu](Volu.md), who is leaned against the wall in [Outpost Antumbra](Outpost_Antumbra.md)'s basement.
 2.  As a drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
@@ -48,5 +48,5 @@ While running when performing the critical, you will move forward at the same sp
 ## Trivia
 
 -   The sheathe depicts symbols of [The Ministry](The_Ministry.md), alongside an emblem resembling the symbol for [Notes](Notes.md), the [Moonseye](Moonseye.md), and another pattern.
--   The creator of the Bloodfouler is likely an Etrean due to the weapon's shape deriving from Etrean make.
+-   The creator of the Bloodfouler is likely an Etrean due to the Ministry's ties with Etrea, as well as the weapon's shape being derived from Etrean make.
 -   It does not change appearance with Alloyblood.

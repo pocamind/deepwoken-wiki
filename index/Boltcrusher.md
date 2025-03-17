@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 138048
+revid: 139347
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greathammers, The Ignition Union, "Attunement-based Weapons", Multiple Criticals]
@@ -31,9 +31,9 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatham
 
 ## Description
 
-The **Boltcrusher** is a Legendary [Thundercall](Thundercall.md) [Greathammer](Weapons.md) that scales off of and requires investment in both the [Thundercall](Attributes.md#thundercall) and [Heavy Weapons](Attributes.md#heavy-weapons) stats. It is a large Great hammer with a drill at one end of it, with various pipes connected all over.
+The **Boltcrusher** is a Legendary [Greathammer](Weapons.md): a powerful engine cased with various parts and plates atop a wieldy metal spine. On the back of the hammer's head is a driven drill, and on its front is a weighted blunt piece to offset the weight of the drill and deal damage. It scales with [Thundercall](Thundercall.md) alongside [Heavy Weapons](Attributes.md).
 
-The Drilling-edge of [Ignition Union](The_Ignition_Union.md) technology, the Boltcrusher was devised by [Ignition Deepdelvers](Ignition_Deepdelver.md) in order to assist in [Depths](The_Depths.md) resource extraction and the elimination of "those who can't hold up their end of the deal".
+Drilling-edge [Ignition Union](The_Ignition_Union.md) technology, the Boltcrusher was devised by [Ignition Deepdelvers](Ignition_Deepdelver.md) in order to assist in [Depths](The_Depths.md) resource extraction.
 
 The Boltcrusher is obtained as a guaranteed drop from [Finnegan The Lost](Finnegan_The_Lost.md), an enemy NPC found in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md) as part of the "[Drowned Delver](Finnegan_The_Lost.md)" Job. The Job itself can be taken from [Job Boards](Job_Boards.md) scattered in a variety of locations, with an increased spawnrate at [the Chariot's Spire](<The_Chariot's_Spire.md>).
 
