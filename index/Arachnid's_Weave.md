@@ -1,6 +1,6 @@
 ---
 title: "Arachnid's Weave"
-revid: 139313
+revid: 139323
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits]
@@ -11,7 +11,7 @@ categories: [Armors, Items, Outfits, Master Outfits]
 Template:ArmorInfobox
 
   
-**Arachnid's Weave** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Arachnid's Corset** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

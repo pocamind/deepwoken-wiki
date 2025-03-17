@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 131764
+revid: 139326
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -16,7 +16,7 @@ categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant]
 
 ## Description
 
-Yamaketzal is an NPC found outside the fire temple on **[Songseeker Wilds](Songseeker_Wilds.md).** He appears to be drunk, as he is swaying around and talking in an odd manner.
+Yamaketzal is an NPC found outside the temple on **[Songseeker Wilds](Songseeker_Wilds.md).** He appears to be drunk, as he is swaying around and talking in an odd manner.
 
 Talking to him will give you the Talent card "[Chime of Conflict](Chime_of_Conflict.md)". Afterwards, it will now automatically given on all slots when they start out. Additionally, he can give you echo Talents that you unlocked in another slot but you don't own in your current slot.
 

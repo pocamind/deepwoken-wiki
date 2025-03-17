@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 139317
+revid: 139324
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -59,5 +59,5 @@ Wind Forge
 ## Trivia
 
 -   A "Lodestar" is an archaic word for stars used to help travellers find their way. In other words; A guiding star.
--   He has at least three dialogues on spawn, with those being "Loathesome fate...", "So our paths finally cross." and "Let the trials begin."
+-   He has at least four dialogues on spawn, with those being "Loathesome fate...", "So our paths finally cross." ,"Bear your Fangs, wolf." and "Let the trials begin."
 -   He has at least two dialogues on grip, with those being "So it ends in failure..." and "Do I take the blindfold off now?"

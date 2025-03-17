@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 138825
+revid: 139328
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths]
@@ -44,7 +44,7 @@ While the normal variant of this enemy has the health equivalent to a [Megalodau
 
 While this mob can **not** be power checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to [Mantras](Attunements.md), it can still be posture broken incredibly fast and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md). Take note that with the additional health of this variant comes the passive ability of applying the Electrifying status effect, making it harder to land a hit with the true-stun and removal of hyper-armour.
 
-Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 1800 (which can reach numbers as small as ??? with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreaks such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) will make this mob into a far easier challenge.
+Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 1800 (which can reach numbers as small as ??? with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreak crits such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) like the [Evanspear Handaxe](Evanspear_Greataxe.md) for example will make this mob into a far easier challenge.
 
 However, without a "cheese weapon," each of the Nautilodaunt's attacks can prove difficult, so they will be gone through in order:
 
