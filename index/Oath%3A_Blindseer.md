@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 139018
+revid: 139282
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -42,7 +42,7 @@ Blindseer **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_o
 
 ## Progression
 
-To progress the Oath and obtain the Blindseer Mantras, you need to help pathfinders, or players who lack an Oath in the Depths Trial. The first mantra is unlocked after the first successful trial, the second at 3, and the last at 5. A passive Talent is also obtained after four trials (you can quickly leave three seconds after the Voice of Authority starts talking).
+To progress the Oath and obtain the Blindseer Mantras, you need to help pathfinders, or players who lack an Oath in the Depths Trial. The first mantra is unlocked after the first successful trial, the second at 3, and the last at 5. A passive Talent is also obtained after four trials (you can quickly leave three seconds after the Voice of Authority starts talking). Do note that helping people who have Oathless will not grant progression.
 
 The hints toward how to progress this Oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 

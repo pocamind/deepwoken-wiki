@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 139256
+revid: 139288
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -59,5 +59,5 @@ Wind Forge
 ## Trivia
 
 -   A "Lodestar" is an archaic word for stars used to help travellers find their way. In other words; A guiding star.
--   He has at least one dialogue on spawn, with that being "Loathesome fate..."
+-   He has at least two dialogues on spawn, with those being "Loathesome fate..." and "So our paths finally cross..."
 -   He has at least two dialogues on grip, with those being "So it ends in failure..." and "Do I take the blindfold off now?"

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139243
+revid: 139304
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3403,6 +3403,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   [Wraithclaw](Wraithclaw.md)'s criticals are classified as basic attacks, making them the only fist style criticals to benefit from this Talent's PEN bonus.
 -   Coldseep Reactor: [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
+-   Corrosive Touch: Arachnid’s Corset - Landing a successful Critical Attack or Flourish will corrode a portion of your opponent's Armor.
+    -   Drain 5% of your opponent's armor after landing a Critical attack or Flourish. This has a 7 second cooldown and can only proc once per critical attack.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
     -   Grants 20% Mantra PEN.
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
@@ -3466,6 +3468,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Only grants a 10% damage buff, the Talent was nerfed but the description was never changed.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds.
+-   Tidal Shock: [Cala-Mariner](Cala-Mariner.md) - Landing a successful Critical Attack will temporarily put you in a state where you dodge all mantras, as well as dazing your opponent.
+    -   Your Critical attacks will apply Daze on hit.
+    -   For the next 4s after landing your Critical attack, if you were to be hit by any Mantra, you'll automatically dodge the Mantra, voiding its damage. The dodge vfx is similar to [Nautilodaunt's](Nautilodaunt.md) Vent vfx, but it displaces you physically.
+    -   13 second cooldown.
 -   Umami: [Chef's Toque](<Chef's_Toque.md>) - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.

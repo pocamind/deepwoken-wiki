@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 139087
+revid: 139306
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -12611,7 +12611,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
     -   Scaling: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (15)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
-    -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md) (12)
+    -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md), [Guiding Star](Guiding_Star.md) (12)
     -   Swing Speed: [Divine Flintlock](Crazy_Slots.md#light) (1.33x)
     -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
 -   Both of the Rifle Basic Attacks have the same range.

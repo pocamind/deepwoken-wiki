@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 139162
+revid: 139293
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -112,7 +112,7 @@ Fire
 -   Deals 40.02 (6.7 \* 6) + 33.49 DMG, 24 posture + 30 or more posture, 10s CD at 5 lvl
 -   With 6 songchant 44.7 (7.45\*6) + 37.27 DMG
 -   Has 9.17x PVE scale (40 + 33.49 PVP DMG, 368.88 + 307.4 PVE DMG)
--   Inflcits Burn.
+-   Inflicts Burn.
 -   Does not share a cooldown with other "servants" mantras.
 -   Can be modified with Cloudstones to add more warriors. Max possible amount of warriors without talent "**Fan The Flames**" is 9 (2 Cloudstones).
 -   Can be modified with a Reversal Spark to have the warriors attack outwards and ragdoll.
@@ -959,7 +959,7 @@ N/A
 -   Freezes user in place for a brief moment after casting.
 -   Restores some of the user's Sanity.
 -   Can be upgraded with the **Denial Repulse** Talent, causing a small AOE explosion upon receiving lethal damage.
--   Can be modified with Vibrant Gems, Increases healing, Increases signs for ritual cast.
+-   Can be modified with Vibrant Gems, increasing both the healing and the signs required for ritual cast.
 
  |
 | 
