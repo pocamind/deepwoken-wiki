@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 137901
+revid: 139457
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -46,4 +46,4 @@ Parryable: ✗ Blockable: ✗ Dodgeable: ◯
 ## Tips & Tricks
 
 -   All standard tips from the regular [Lionfish](Lionfish.md) page apply here, though fight the Glacial Lionfish with more caution as it can take many more hits, especially when corrupted.
--   Like the regular [Lionfish](Lionfish.md), Glacial Cero can be negated by getting out of its line of sight, such as using a wall.
+-   Like the regular [Lionfish](Lionfish.md), Glacial Cero can be negated by getting out of its line of sight, such as using a wall or object.

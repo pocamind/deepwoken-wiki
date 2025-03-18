@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 138665
+revid: 139436
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -19,6 +19,8 @@ Bloodrend Icon
 **Bloodrend** is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own blood.
 
 Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. However, Bloodrend is difficult to make use of outside of single target combat, as blood poison decays, making it hard to achieve high percentages of it against multiple enemies.
+
+It's extremely effective at long to mid range. To counter this attunement, prioritize staying up close and applying constant pressure, as bloodrend lacks close range low windup mantras. Keep in mind that any mistake is likely to lead to you getting severely punished by the bloodrend user, even at close range.
 
 ## Obtainment
 

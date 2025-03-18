@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 139365
+revid: 139453
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -3456,6 +3456,14 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
 </tr>
 </tbody>
 </table>
+
+**Bow:**
+
+|- |**[Ironcry](Ironcry.md)**||N/A||15||MED: 6.5||10%|| - ||4||12.5||0.97x|| - ||22.3 |- |**[Hunting Bow](Hunting_Bow.md)**||20 MED||14||MED: 7||5%|| - ||4||12||1x|| - ||21.4 |- |**[Shadebolt](Shadebolt.md)**||45 MED  
+30 SDW||16||MED: 8  
+SDW: 2||10%|| - ||4.5||12||1x|| - ||28 |- |**[Guiding Star](Guiding_Star.md)**||75 MED  
+25 MND||14||MED: 10  
+MND: 3||10%|| - ||5||12||1x|| - ||27.7 |-
 
 **All:**
 

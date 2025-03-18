@@ -1,6 +1,6 @@
 ---
 title: Weapons/Editing
-revid: 133418
+revid: 139448
 source: https://deepwoken.fandom.com/wiki/Weapons/Editing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -28,6 +28,8 @@ Spears: [AllSpearWeapons2](https://deepwoken.fandom.com/wiki/Template:AllSpearWe
 Clubs: [AllClubWeapons2](https://deepwoken.fandom.com/wiki/Template:AllClubWeapons2)  
 Rifles: [AllRifleWeapons2](https://deepwoken.fandom.com/wiki/Template:AllRifleWeapons2)  
 Twinblades: [AllTwinbladeWeapons2](https://deepwoken.fandom.com/wiki/Template:AllTwinbladeWeapons2)
+
+Bow [AllBowWeapons2](https://deepwoken.fandom.com/wiki/Template:AllBowWeapons2)
 
 ## Heavy Weapons
 
