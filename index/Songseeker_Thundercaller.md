@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 124899
+revid: 139425
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -61,6 +61,7 @@ A Songseeker Thundercaller executes it's opponent after knocking them:
 
 -   Despite being immune to [assassination](Stealth.md), the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Constantly flourishing them/using Mantras will prevent them from spamming Mantras.
+-   Lightning Stream can be extremely dangerous, especially if a Flame Songseeker fires a fully charged flame ballista while you're being dragged towards the caster of the stream
 -   Songseeker Thundercallers can pose a significant threat if they team up with a Songseeker Flamecharmer or a Songseeker Frostdrawer. Always block Lightning Stream since their range and landing the Mantra is quite high, grabbing you back to them.
 -   Running away from Thundercallers can be difficult since they will immediately use Lighting Stream.
 

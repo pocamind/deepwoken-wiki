@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 139285
+revid: 139413
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Items, Relics]
@@ -35,3 +35,4 @@ This equipment grants the talent _Heartwing Beat_ that transforms your aerial at
 -   It is part of the Enmity set consisting of the [Bastions of Enmity](Bastions_of_Enmity.md) arms, the [Wartreads of Enmity](Wartreads_of_Enmity.md) boots, the [Aegis of Enmity](Aegis_of_Enmity.md) helmet, both the [Fauld of Enmity](Fauld_of_Enmity.md) and **Mantle of Enmity** torsos, and finally, the [Thrall of Enmity](Thrall_of_Enmity.md) face.
 -   When worn, the wings will flow behind you if you have the Cloth Physics setting enabled.
 -   This item is currently unable to be banked.
+-   The rates seem to have been shadow buffed during the 3/16/2025 update.

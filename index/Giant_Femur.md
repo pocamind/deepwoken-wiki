@@ -1,6 +1,6 @@
 ---
 title: Giant Femur
-revid: 136287
+revid: 139399
 source: https://deepwoken.fandom.com/wiki/Giant_Femur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]

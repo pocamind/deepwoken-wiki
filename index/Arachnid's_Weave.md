@@ -1,6 +1,6 @@
 ---
 title: "Arachnid's Weave"
-revid: 139391
+revid: 139408
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits]
@@ -35,3 +35,4 @@ This Outfit's Schematic can be obtained from the [Deep Widow](Deep_Widow.md) as 
 ## Trivia/Notes
 
 -   This outfit has the lowest Physical resistance out of any Master armor, with a measly 20%.
+-   Arachnid's Weave originally had 15% Physical resist and a staggering 40% Elemental resist. This, along with its name (it was originally called Arachnid's Corset) were shadow updated on the same day this outfit was added to the game.

@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 133039
+revid: 139424
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
@@ -18,7 +18,7 @@ Template:EnemyInfobox1.0
 
 Beiruul is a Redwood [Gremor](Gremor.md) NPC, a resident of [Meteor Isle](Meteor_Isle.md), she wants to take revenge on the Central Authority for the constant harassment they enact and the looming threat they pose to her people; choosing the correct dialogue responses will begin the [Navae's Retribution](Quests.md) sidequest.
 
-During the Navae's Retribution quest, she will fight alongside the player to defeat several [Authority Peacekeepers](Authority_Peacekeeper.md) and [Authority Officers](Authority_Officer.md).|
+During the Navae's Retribution quest, she will fight alongside the player to defeat several [Authority Peacekeepers](Authority_Peacekeeper.md) and [Authority Officers](Authority_Officer.md).
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 137979
+revid: 139397
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -81,7 +81,9 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
 -   **Untouchable - Passive**
     -   By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
         -   Upon proccing Untouchable, enter the True Strength state for 15 seconds where your uppercuts, air attack, and Oath mantras are empowered.
-        -   To proc the Talent you must land 5 hits with any weapon, meaning M1s or criticals. Multi-hit criticals like the [Curved Blade of Winds](Curved_Blade_of_Winds.md) 1H critical or the [Trident Spear](Trident_Spear.md) critical will proc the Talent upon 5 hits of the critical landing. Additionally some non-weapon attacks build up stacks for Untouchable, like [Twisted Puppets'](Talents.md#twisted-puppets) Puppets and some Mantras.
+        -   To proc the Talent you must build up 10 Untouchable stacks by landing your attacks.
+            -   Weapon attacks build up 2 stacks each, resulting in 5 hits for Untouchable to proc. You gain stacks for every hit on a multihitting critical, allowing you to instantly enter True Strength with some weapon criticals.
+            -   Non weapon attacks (like Burn, Mantras, Eruptions, etc.) build up 1 stack each. Bleed does not build up stacks however.
 -   **Reveal - Utility**
     -   Pour your heart out, and reveal your true strength.
         -   Toggle On and Off the True Strength state.

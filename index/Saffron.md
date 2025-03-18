@@ -1,6 +1,6 @@
 ---
 title: Saffron
-revid: 125029
+revid: 139419
 source: https://deepwoken.fandom.com/wiki/Saffron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, Oaths]
@@ -19,7 +19,7 @@ categories: [Khan NPCs, NPCs, Oaths]
 
 ## Description
 
-**Saffron** is an Albino [Khan](Khan.md) that wears the [Verdant Sniper](Verdant_Sniper.md) outfit. He is one of the npcs required for the Oathless Quest. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
+**Saffron** is an Albino [Khan](Khan.md) that wears the [Verdant Sniper](Verdant_Sniper.md) outfit. He is one of the three npcs required for the Oathless Quest. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
 
 Saffron is located in [Meteor Isle](Meteor_Isle.md). Facing the [Mystic](Mystic.md), turning left will show you a house. Inside of it will contain a brewing stand. Go to the second floor of said house, and you will meet Saffron.
 
