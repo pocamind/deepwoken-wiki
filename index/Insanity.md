@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 135003
+revid: 139394
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

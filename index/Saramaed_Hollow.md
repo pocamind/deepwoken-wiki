@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 138983
+revid: 139396
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -23,7 +23,7 @@ File:Photo 2024-10-15 19-27-35.jpg
 
 **Deepdelver Tau**. NPC that sends you to **Saramaed Hollow.**
 
-This dungeon, taking place deep underground beneath Miner's Landing and its [Saramaed Summit](Saramaed_Summit.md), is the primary method of progression for the [Ignition Delver](Origins.md) Origin. However, anyone can partake in this dungeon as long as they have above neutral reputation with the Ignition Union.
+This dungeon, taking place deep underground beneath Miner's Landing and its [Saramaed Summit](Saramaed_Summit.md), is the primary method of progression for the [Ignition Delver](Origins.md#ignition-delver) Origin. However, anyone can partake in this dungeon as long as they have above neutral reputation with the Ignition Union.
 
 **Saramaed Hollow** can be entered by interacting with **Deepdelver Tau** in [Miner's Landing](<Miner's_Landing.md>) behind the watermill, if you're part of the Divers (aka the origin), Deepdelver Tau will tell you to scram, but this can be overwritten by increasing your rep slightly (it took me one of the Summer's Dusk quests to be allowed). You can choose to work solo or as a team of up to 5 players. To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. None of the mobs are corrupted; they can only be Attuned.
 
@@ -187,7 +187,7 @@ Good luck, and happy deepdelving!
 -   [Phoenix Flames](Talents.md) may resurrect you in case you get knocked by fire hazards or lava, which can help if you fall in.
 -   Rarely, there may be a floor that usually comes after or at 1.5km that requires you to kill just one thresher in turn for amazing loot.
     -   Uncommonly, there may also be a floor that requires you to kill just two threshers in exchange for amazing loot.
--   The cave paintings show that civilisation has once been here long before the Union have.
+-   The cave paintings show that civilization has once been here long before the Union have.
     -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast, possibly a Megalodaunt.
     -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
 -   Well known Deepwoken Youtuber Agamatsu has a meme regarding on how boring this dungeon is on all of his livestream thumbnails.
