@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 138439
+revid: 139469
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons, Medium Weapon]
@@ -44,7 +44,7 @@ While one handed it uses the default [Katana](Katana.md) crit, but gains a uniqu
     -   Therefore, it also works with the Poser's Ring and can be used to start [Zana's](Zana.md) quest.
     -   It's appropriate that the scabbards of both the Shattered and regular Katana are placed cutting-edge facing upwards: many samurai preferred to draw their swords facing downward only if they were wearing armor, as that would prevent the blade from getting caught on it. Conversely, they would wear their katana facing upwards without armor since that wouldn't be an issue; as most [outfits](Outfits.md) in Deepwoken lack heavy armor, it makes sense for the scabbard to be facing up.
 -   The incredible length of the blade would classify this weapon as an ōdachi, as opposed to a katana.
-    -   Despite its blade being much longer than the Katana, both weapons have 8 range.
+    -   Despite its blade being much longer than the Katana, both weapons have the same range of 8.
 -   The Talent "Paired Soul" (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits) buffs the Shattered Katana's damage by 5% instead of the Katana's 25%.
     -   Both weapons deal very similar damage at equivalent attribute levels. Their main differences become the PEN.
 -   On release, the Shattered Katana had 50% PEN and 0.75x swing speed (Which is 1x swing speed of now). It also received the full 25% damage buff from Paired Soul which was later nerfed to it's current 5%.

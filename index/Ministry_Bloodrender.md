@@ -1,6 +1,6 @@
 ---
 title: Ministry Bloodrender
-revid: 138419
+revid: 139497
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies, The Ministry]
@@ -16,9 +16,9 @@ The Ministry Bloodrenders are a tri-group of blood cultists, working under the s
 
 According to [Vyrelda](Vyrelda,_Master_of_Blood.md), they are hunting her under the Second Prophet's orders, due to having left the Ministry.
 
-## Moves
+## Moveset
 
-A Ministry Bloodrender uses Bloodrend mantras and Krulian Knives.
+A Ministry Bloodrender uses Bloodrend mantras and the Krulian Knife.
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
@@ -33,4 +33,4 @@ A Ministry Bloodrender uses Bloodrend mantras and Krulian Knives.
 -   Strangely enough, they don't wear [Blindfolds](Blindfold.md) like their colleagues.
 -   They also are said to monitor Chaser and give him orders, meaning they have some sort of power over him, it just isn't seen or stated.
 -   They can also spawn at the [Derelict Highchurch](Derelict_Highchurch.md) if you take [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest there. (Do note that she only shows up there after obtaining [Bloodrend](Bloodrend.md).)
--   In such quest the chest you get from killing them is full of L2 loot
+    -   In such quest, the chest you get from killing them is full of [Layer 2](Second_Layer.md) loot, meaning you can get rare items such as an [Evanspear Hand Axe](Evanspear_Greataxe.md).

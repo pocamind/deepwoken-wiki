@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 138174
+revid: 139475
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -57,7 +57,7 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 ## Trivia
 
 -   The first Oath to be released in the game.
-    -   Used to be obtainable through a hand of cards at around [Power](Power.md) 30 (the equivalent to current-day Power 10).
+    -   Used to be obtainable through a hand of cards at around [Power](Power.md) 30 (the Verse 1 equivalent to current-day Power 10).
 -   Commonly agreed to be a subpar Oath compared to the other non-stat locked Oaths.
     -   However, being the only Oath to grant +3 Wildcard slots (with others giving only 1 or none) and its solid stats makes Oathless very flexible.
 -   Obtaining Oathless doesn't award the Oathsworn [badge](Badges.md).

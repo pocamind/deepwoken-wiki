@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 139421
+revid: 139493
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Summer Company]
@@ -28,7 +28,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 
 ## Description
 
-The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medallion](Kyrsan_Medallions.md) that sits in the centre of the Stormseye. This invention functions by utilizing the power of Thundercall to better hit foes with charged ammunition and sharp, sudden strikes, fitting of its deliberate deadly design. It scales from Medium Weapons and [Thundercall](Thundercall.md).
+The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medallion](Kyrsan_Medallions.md) that sits in the centre of the Stormseye. This invention functions by utilizing the power of Thundercall to better hit foes with charged ammunition and sharp, sudden strikes, fitting of its deliberately deadly design. It scales from Medium Weapons and [Thundercall](Thundercall.md).
 
 The Stormseye comes with 2 passive abilities:
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 138534
+revid: 139478
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]
@@ -49,15 +49,18 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 
 -   **Blinding Dawn (★★★) - Combat Mantra**
     -   _Spin rapidly to unleash powerful rays of light._
+    -   Has 1.2s windup, takes 2.1s to land all hits.
     -   Deals 18 total hits of Oath damage, with 9.333 base damage per hit.
 
 -   **Radiant Kick** (★★★) - **Combat Mantra**
     -   _Kick your foes at the speed of light._
+    -   Has 0.45s windup
     -   Deals a base of 19.5 Oath damage twice.
 
 -   **Radiant Dawn** (★★★) - **Combat Mantra**
     -   _Strike down your foes with your blinding light._
     -   Deals 46.5 base Oath damage.
+    -   Takes 1.45s (to hit), 0.45s (to jump in air) + 1s to land.
     -   This Mantra is **unparriable** and guardbreaks if anybody attempts to do so.
     -   This move has an early hitbox. It registers a hit before the attack hits the ground. Make sure to dodge **before** the move is going to land.
     -   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.

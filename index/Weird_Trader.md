@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 131761
+revid: 139491
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant]
@@ -58,8 +58,8 @@ The event despawns after 30 minutes have elapsed or if you leave the server afte
         -   [Morning Star](Morning_Star.md)
         -   [Officer Saber](Officer_Saber.md)
         -   [Pernach](Pernach.md)
-        -   [Rifle Spear](Rifle_Spear.md)
         -   [Razor Cutlass](Razor_Cutlass.md)
+        -   [Rifle Spear](Rifle_Spear.md)
         -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
         -   [Scimitar](Scimitar.md)
         -   [Serpent's Edge](<Serpent's_Edge.md>)
@@ -72,16 +72,16 @@ The event despawns after 30 minutes have elapsed or if you leave the server afte
     -   Heavy Weapons
         -   [Adretian Axe](Adretian_Axe.md)
         -   [Alloyed Adretian Axe](Adretian_Axe.md#alloyed)
+        -   [Alloyed Inheritor](<Markor's_Inheritor.md>)
         -   [Alloyed Steel Maul](Steel_Maul.md#alloyed)
         -   [Canorian Axe](Canorian_Axe.md)
         -   [Darkalloy Greatsword](Darksteel_Greatsword.md#alloyed)
         -   [Forge Greathammer](Forge_Greathammer.md)
+        -   [Halberd](Halberd.md)
         -   [Iron Birch](Iron_Birch.md)
-        -   [Alloyed Inheritor](<Markor's_Inheritor.md>)
         -   [Pale Morning](Pale_Morning.md)
         -   [Steel Maul](Steel_Maul.md)
         -   [Zweihander](Zweihander.md)
-        -   [Halberd](Halberd.md)
     -   Other
         -   [Ethiron Curseshield](Ethiron_Curseshield.md)
         -   [Old World Greatshield](Old_World_Greatshield.md)
@@ -96,16 +96,16 @@ The event despawns after 30 minutes have elapsed or if you leave the server afte
     -   [Browncap](Browncap.md)
     -   [Calabash](Calabash.md)
     -   [Dentifilo](Dentifilo.md)
-    -   [Gobletto](Gobletto.md)
     -   [Egg](Egg.md)
+    -   [Gathered Wheat](Gathered_Wheat.md)
+    -   [Gobletto](Gobletto.md)
     -   [Ongo](Ongo.md)
+    -   [Pomar](Pomar.md)
     -   [Redd](Redd.md)
     -   [Sap](Sap.md)
     -   [Spider Egg](Spider_Egg.md)
     -   [Urchin](Urchin.md)
     -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat, Chum**)
-    -   [Pomar](Pomar.md)
-    -   [Gathered Wheat](Gathered_Wheat.md)
 
 -   Ores, including:
     -   [Erisore](Ores.md#erisore)

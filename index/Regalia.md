@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 139395
+revid: 139462
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -78,7 +78,7 @@ This Regalia is not kept upon wiping at or below Power 6.
 
 ### Noble[\[3\]](#cite-note-archnamedrop1-3)
 
-A flat increase is applied to your reputation with each faction. It also functions similarly to Mute, making 'Bandit' NPCs no longer hostile (if you are ambushed, they'll still aggro but will de-aggro after a few seconds if you do not attack them). Bandit NPCs are the following: [Lowly Bandit](Bandit.md), [Thief](Thief.md), [Bandit Leader](Bandit_Leader.md), [Bounty Hunter](<Bounty_Hunter_(NPC).md>) and [Cloaked Assassin](Cloaked_Assassin.md). It may work on [Blacksteel Pirate](Blacksteel_Pirate.md) too.
+A flat increase is applied to your reputation with each faction. It also functions similarly to Mute, making 'Bandit' NPCs no longer hostile (if you are ambushed, they'll still aggro but will de-aggro after a few seconds if you do not attack them). Bandit NPCs are the following: [Lowly Bandits](Bandit.md), [Thieves](Thief.md), [Bandit Leaders](Bandit_Leader.md), [Bounty Hunters](<Bounty_Hunter_(NPC).md>), [Cloaked Assassins](Cloaked_Assassin.md), and [Blacksteel Pirates](Blacksteel_Pirate.md).
 
 ### Inheritance[\[3\]](#cite-note-archnamedrop1-3)
 

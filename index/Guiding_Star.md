@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 139371
+revid: 139490
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", Children of Navae, Bows]
@@ -49,4 +49,4 @@ The user crouches down and fires three explosive Ether arrows in quick successio
     -   The model Guiding Star uses an almost one-to-one model from the Aranea.
 -   This is currently the only weapon that requires and scales off Mind.
 -   The Guiding Star is the first and (currently) only Bow in the game.
--   The Guiding Star currently has the farthest range of any weapon in the game at 12 units, only 1 more than the 2nd longest ranged medium weapon, the [Imperator's Edge](<Imperator's_Edge.md>).
+-   The Guiding Star currently is tied with the [Repeater](Repeater.md) for the longest range of any weapon in game, at 12 units

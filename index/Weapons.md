@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 139453
+revid: 139495
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -3459,11 +3459,79 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
 
 **Bow:**
 
-|- |**[Ironcry](Ironcry.md)**||N/A||15||MED: 6.5||10%|| - ||4||12.5||0.97x|| - ||22.3 |- |**[Hunting Bow](Hunting_Bow.md)**||20 MED||14||MED: 7||5%|| - ||4||12||1x|| - ||21.4 |- |**[Shadebolt](Shadebolt.md)**||45 MED  
-30 SDW||16||MED: 8  
-SDW: 2||10%|| - ||4.5||12||1x|| - ||28 |- |**[Guiding Star](Guiding_Star.md)**||75 MED  
-25 MND||14||MED: 10  
-MND: 3||10%|| - ||5||12||1x|| - ||27.7 |-
+<table><caption>Medium Weapons</caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Requirements</th>
+  <th>Base Damage</th>
+  <th>Scaling</th>
+  <th>Armor Penetration</th>
+  <th>Chip Damage</th>
+  <th>Posture Damage</th>
+  <th>Range</th>
+  <th>Swing Speed</th>
+  <th>Endlag</th>
+  <th>Scaled Damage</th>
+</tr>
+<tr>
+  <td><b><a href="Ironcry.md">Ironcry</a></b></td>
+  <td>N/A</td>
+  <td>15</td>
+  <td>MED: 6.5</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>12.5</td>
+  <td>0.97x</td>
+  <td>-</td>
+  <td>22.3</td>
+</tr>
+<tr>
+  <td><b><a href="Hunting_Bow.md">Hunting Bow</a></b></td>
+  <td>20 MED</td>
+  <td>14</td>
+  <td>MED: 7</td>
+  <td>5%</td>
+  <td>-</td>
+  <td>4</td>
+  <td>12</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>21.4</td>
+</tr>
+<tr>
+  <td><b><a href="Shadebolt.md">Shadebolt</a></b></td>
+  <td>45 MED<br>
+  30 SDW</td>
+  <td>16</td>
+  <td>MED: 8<br>
+  SDW: 2</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>4.5</td>
+  <td>12</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>28</td>
+</tr>
+<tr>
+  <td><b><a href="Guiding_Star.md"><font>Guiding Star</font></a></b></td>
+  <td>75 MED<br>
+  25 MND</td>
+  <td>14</td>
+  <td>MED: 10<br>
+  MND: 3</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>12</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>27.7</td>
+</tr>
+</tbody>
+</table>
 
 **All:**
 
@@ -12623,7 +12691,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
     -   Swing Speed: [Divine Flintlock](Crazy_Slots.md#light) (1.33x)
     -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
 -   Both of the Rifle Basic Attacks have the same range.
--   Aranea is the first item to have an unobtainable stat prerequisite.
+-   The Aranea was the first item to have an unobtainable stat prerequisite before being turned into the [Guiding Star](Guiding_Star.md).
 -   The Rifle weapons are the only type of weapon that have four basic m1s before a flourish.
 
 ## References
