@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 139439
+revid: 139509
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -154,7 +154,6 @@ Fire
 -   Deals high posture damage, becoming an instant-guardbreak at level 5.
 -   Inflicts Burn.
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
--   Can be modified with Aeon/Eternal Logstones to make it MASSIVE.
 -   Can be modified with Vibrant Gems, causing the attack to destroy more environment.
 -   While having [Starkindred](Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
     -   A Reversal Spark can be used to negate this variation, allowing you to use normal fire blade with wings.
@@ -1132,11 +1131,11 @@ Azure Flames
 
  | 
 
-Many of your flames turn blue, signifying their increased intensity (burning deals 8 damage per second/explosion deals more posture damage).
+Many of your flames turn blue, signifying their increased intensity.
 
  | 
 
-N/A
+Burn deals more damage. Eruptions have a shorter delay, more posture damage, and a larger AoE.
 
  |
 | 
@@ -1152,7 +1151,7 @@ Flames wear off twice as fast on you.
 
  | 
 
-N/A
+Halves the maximum burn duration. This does not affect Flame Within.
 
  |
 | 
@@ -1184,7 +1183,9 @@ Your flames burn just as strong even in the fiercest of storms.
 
  | 
 
-Graceful Flames and lit campfires will not be extinguished in rain.
+Your Flamecharm Mantras and Twisted Puppets will no longer have a damage debuff while it's raining.
+
+Lit campfires and burn will not be extinguished in rain.
 
  |
 
@@ -1209,7 +1210,7 @@ An application of Pleeksty's concept of the inner flame, also known as the soul 
 
  | 
 
-Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by casting again. 7s cooldown. Can be used while you're knocked to incinerate yourself. Costs 25 Ether to activate.
+Sets the caster ablaze for 30 seconds, increasing strength and movement speed but dealing burn damage. Can be cancelled by casting again. 7s cooldown if deactivated manually, no cooldown if duration runs through. Can be used while you're knocked to incinerate yourself. Costs 25 Ether to activate.
 
  |
 
@@ -1232,7 +1233,7 @@ Your blinding light now concusses foes.
 
  | 
 
-N/A
+**Flame Blind** now applies daze.
 
  |
 
@@ -1247,7 +1248,7 @@ _**"I believe in the men who followed Pleeksty before."**_
  | 
 
 Meteor Impact  
-(25 Flamecharm, Rising Flame)
+(25 Flamecharm, Any "Rising" Mantra)
 
  | 
 
@@ -1255,7 +1256,9 @@ Aerial moves will follow up into a devastating slam.
 
  | 
 
-N/A
+After landing certain "uppercut" Mantras and weapon criticals, press M1 to perform a Meteor Impact. This does your weapon's aerial attack damage + a flat amount unaffected by your Flamecharm investment.
+
+The Mantras that can proc this effect are as follows: Rising Flame, Flame Leap (and its spark variant), Rising Frost, Rising Wind, Lightning Impact, [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints, Rising Thunder (on Guard Break), and Wind Blade (but only the Tempest Wind variant).
 
  |
 | 
@@ -1271,7 +1274,7 @@ If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
 
  | 
 
-N/A
+If you use Meteor Impact while burning, restore some HP and Ether.
 
  |
 
@@ -1294,7 +1297,7 @@ Fire mantras now move you in the direction you're facing.
 
  | 
 
-N/A
+Gives you a lunge or dash-like movement during the windup of your Flamecharm Mantras; useful for closing distance with close ranged Mantras.
 
  |
 | 
@@ -1310,7 +1313,7 @@ Your dancing steps now gives a faster speed boost.
 
  | 
 
-N/A
+Increases the movement speed boost that Dancing Steps grants.
 
  |
 | 
@@ -1326,7 +1329,7 @@ Landing a fire Mantra immediately after flourishing an opponent will cause them 
 
  | 
 
-N/A
+Landing a Flamecharm mantra after a flourish will cause an explosion, dealing extra damage.
 
  |
 
@@ -1345,11 +1348,13 @@ Cauterized Wounds
 
  | 
 
-Blood Loss from all sources are reduced.
+Blood Loss from all sources are reduced. (+1 Passive Agility)
 
  | 
 
-+1 Passive Agility
+Stacks with the [Alloyblood](Ironsing.md) Talent, which has a similar effect. The effectiveness of this talent is reduced if you have the [No Life King](Enchantments.md#curses) Enchant.
+
+This does **not** affect the blood cost from casting [Bloodrend](Bloodrend.md) Mantras, the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) Downside, and the [Curse of Bloodthirsty](Enchantments.md#curses) Enchant's blood loss on whiff effect.
 
  |
 | 
@@ -1361,11 +1366,11 @@ Flamewalker
 
  | 
 
-When Warding Radiance is active you leave trails of flame when you slide.
+When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
 
  | 
 
-+1 Passive Agility
+When Warding Radiance is active, sliding will leave a trail of flame. If your opponent touches the flame trail, they'll be lit ablaze or an Eruption will proc.
 
  |
 | 
@@ -1377,11 +1382,11 @@ Hell's Partisan
 
  | 
 
-After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above
+After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
 
  | 
 
-+4 Sanity
+After landing **Fire Forge**, your next Flamecharm Mantra will spawn a flame spear from above that'll impale your opponent, applying burn or an Eruption.
 
  |
 | 
@@ -1393,11 +1398,11 @@ Warding Radiance
 
  | 
 
-Every fire Mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
+Every fire Mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+4 Sanity)
 
  | 
 
-+4 Sanity
+Hell's Partisan can now be procced on Flamecharm Mantras that aren't **Fire Forge** while you have the halo active.
 
  |
 
@@ -1416,11 +1421,11 @@ Immolation
 
  | 
 
-Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
+Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
 
  | 
 
-+8 Sanity
+Flamecharm Mantras cost 70% less Ether if you're burning. Take 50% less damage from self burn. If you hit someone while you're burning, apply burn; this effect procs on anything that deals physical damage (even if physical isn't the sole damage type) and anything that has the slash (blood splatter) vfx on hit. This applies burn even with Eruption Path.
 
  |
 | 
@@ -1436,7 +1441,7 @@ Any time you would burn to death, you instead rise again with 50% of your health
 
  | 
 
-N/A
+If you were to burn to death, restore 50% of your maximum health and get back up. If you used Flame Within while knocked to proc this effect, only restore 25% of your maximum health instead.
 
  |
 | 
@@ -1452,6 +1457,8 @@ If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Inc
 
  | 
 
+Hitting a burning target spreads the burn status effect to everyone nearby. This affects allies and yourself unless you have the Controlled Combustion Talent. This applies burn even with Eruption Path.
+
  |
 
 **Inferno:**
@@ -1464,20 +1471,6 @@ _**"All must burn."**_
 | 
  | 
 
-All-Consuming Flame  
-(65 Flamecharm)
-
- | 
-
-Your flames will incinerate unconscious Targets much faster.
-
- | 
-
- |
-| 
-
- | 
-
 Corpse Explosion  
 (60 Flamecharm, Agitating Spark)
 
@@ -1486,6 +1479,8 @@ Corpse Explosion
 Bodies that you burn to death immediately explode dealing massive damage.
 
  | 
+
+Decreases the amount of time it takes bodies to burn to death from 8s -> 5s. The explosion does not work.
 
  |
 | 
@@ -1517,7 +1512,7 @@ When on fire, automatically quench flames at the cost of some Ether.
 
  | 
 
-N/A
+Automatically removes burn at an Ether cost. Burn applied to self via Agitating Spark and Flame Within do not proc this Talent.
 
  |
 
@@ -1540,6 +1535,10 @@ Your fire abilities no longer proc burn and instead proc on eruption under the e
 
  | 
 
+Eruptions have a short delay before proccing. Eruptions are procced whenever you would've applied burn (with very few exceptions).
+
+Eruption damage scales on Flamecharm investment. Eruptions have a 3 second cooldown.
+
  |
 | 
 
@@ -1554,7 +1553,7 @@ Upon being guard broken, you erupt. 30s cooldown.
 
  | 
 
-N/A
+Ignores the regular Eruption cooldown. Deals 10 damage with no scaling. Molten Defence Eruptions do not benefit from any of your Talents.
 
  |
 | 
@@ -1582,27 +1581,11 @@ Flash Point
 
  | 
 
-Block-breaking an enemy with a fire Mantra applies Burning.
+Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block-breaking an enemy with a fire Mantra applies Burning.
 
  | 
 
-N/A
-
- |
-| 
-
- | 
-
-Scorched Earth  
-(75 Flamecharm, Eruption Path: Lava Serpent)
-
- | 
-
-Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD
-
- | 
-
-N/A
+Increases your next Eruption's damage and AoE by 50%.
 
  |
 | 
@@ -1618,7 +1601,7 @@ Your eruptions leave lethal pools of lava beneath them.
 
  | 
 
-N/A
+On Eruption, leave a pool of lava that deals Flamecharm damage over time. Damage dealt scales on your Flamecharm investment.
 
  |
 
@@ -1664,7 +1647,7 @@ Your Agitating Spark no longer spreads to your allies.
 
  | 
 
-N/A
+Agitating spark no longer spreads burn to your allies, this includes yourself.
 
  |
 
@@ -1687,6 +1670,8 @@ If an enemy is on fire when you flourish, blast them away with a fire blast.
 
  | 
 
+Causes an explosion, dealing damage.
+
  |
 | 
 
@@ -1701,7 +1686,7 @@ Set enemies on fire when you flourish them.
 
  | 
 
-N/A
+Your flourish and uppercuts will set your opponent ablaze/proc an Eruption.
 
  |
 
@@ -1724,7 +1709,7 @@ Absorb fire produced by you, once you reach 5 stacks your next attack will be an
 
  | 
 
-N/A
+Fire is absorbed from Agitating Spark procs, automatically extinguishing the burn unless Emperor Flame is on cooldown.
 
  |
 | 
@@ -1740,7 +1725,7 @@ Successfully dodging leaves a heat mirage clone that sets enemies that swung at 
 
  | 
 
-When dodging an attack, you leave behind a fire clone that burns the attacking enemy.
+When dodging an attack, you leave behind a fire clone that burns the attacking enemy. Causes an Eruption with Eruption Path.
 
  |
 
@@ -1800,7 +1785,9 @@ Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now 
 
  | 
 
-N/A
+Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** ether on affected targets.
+
+Puppets deal 20 _typeless_ damage with no innate investment scaling and 11 posture damage. Puppet spawning has a 4 second cooldown.
 
  |
 |  | 
@@ -1814,6 +1801,8 @@ Your puppets can now inflict burn and fire-based Talents when they explode.
 
  | 
 
+Gives your Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm. Additionally, your Puppets apply Puppet Burn on hit, allowing them to spawn more Puppets.
+
  |
 |  | 
 
@@ -1825,6 +1814,10 @@ Explosive Rage
 Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.
 
  | 
+
+Whenever an explosion is caused from a Flamecharm talent or the [Detonation Enchant](Enchantments.md#blessings), proc this effect. Causing all Puppets that are currently alive and all Puppets that spawn in the next 10 seconds to gain a large movement speed boost, signified by an orange swirling aura.
+
+The damage buff currently does not work.
 
  |
 |  | 
@@ -1838,7 +1831,7 @@ You summon a puppet of black flames that homes onto enemies with black flames.
 
  | 
 
-N/A
+Your Puppets home in on targets who are burning from either of Twisted Puppets' burn types. Increases Puppet move speed when they get near a burning target.
 
  |
 |  | 
@@ -1852,7 +1845,9 @@ Sacrifice puppets who have been alive for half of their lifetime and burn purple
 
  | 
 
-Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost for 6 seconds, and 1 Emperor Flame Stack per puppet sacrificed.
+Burning Sacrifice is an active ability in the form of a Talent tool. On use, you Gain +4% damage (caps at 12%), a speed boost, and 1 Emperor Flame Stack per Puppet sacrificed. These buffs last 6 seconds.
+
+Puppets turn purple if they've been alive for 15 seconds, signifying that they only have 10 seconds left to live.
 
  |
 
@@ -1860,7 +1855,10 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 
 -   **Searing Snare** has the same sound effects as [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood Explosion move.
 -   As of the 31/10/2024 update, Burn damage now scales on your Flamecharm investment. Additionally, Burn damage was changed to be resisted by Fire Armor in the same update.
--   All Flamecharm mantras deal reduced damage (??%) in the rain, unless the user has the _Unyielding Inferno_ Talent.
+-   All Flamecharm Mantras and Twisted Puppets' Puppets deal reduced damage (??%) in the rain, unless the user has the _Unyielding Inferno_ Talent.
+-   Eruption delay can be reduced with the [Deepfire Ring](Deepfire_Ring.md) and the Azure Flames Talent.
+    -   Eruption AoE can be increased with the Empowered Eruption buff from Empowered Eruption and Flash Point Talents as well as Azure Flames.
+-   The [Deepfire Ring](Deepfire_Ring.md) Equipment increases burn tick rate, but it also decreases burn's maximum duration to even it out. This is seen as a direct upgrade from base burn due to the higher DPS when your opponent would not be burning for the full duration anyways. This ring also decreases Eruption delay.
 -   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of _Deepwoken_.
     -   The **Flame of Denial** Mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
     -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.fandom.com/wiki/Power_Within) from _Dark Souls_, boosting overall damage while draining health.
@@ -1879,7 +1877,7 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
 -   The **Graceful Flame** Mantra does not allow anyone to cook food, regardless of its Level.
 -   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
--   Flamecharm's **Burn** damage scales with Azure Flames and Flamecharm invest. Which can lead to some icky burn damage if you are going for that.
+-   Flamecharm's **Burn** damage scales with Flamecharm invest and can be increased further with the Azure Flames Talent. Which can lead to some icky burn damage if you are going for that.
 -   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 -   If the character has the Azure Flames Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames. It can also work with Twisted Puppets, having the critical turn black and spawn in Puppets.
 -   You cannot have both Azure Flames and Twisted Puppets at the same time.

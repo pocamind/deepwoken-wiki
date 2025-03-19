@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 136488
+revid: 139511
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -112,9 +112,37 @@ With the Saintsblade equipped, you are able to enter 5 different Saint Stances, 
 
 **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
 
-**Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing chill or applying crystals.
+**Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing chill or applying crystals.
 
-**Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly increasing the windup, while also greatly increasing the damage of the mantra.
+**Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly increasing the windup, while also greatly increasing the damage of the mantra. The damage buff is currently bugged and does not work, meaning this does nothing but nerf your mantra.
+
+### **Ether Proselyte**
+
+Ether Proselyte is a Talent that allows your elemental Mantras to proc the Talents of your currently equipped Saint Stance. This however does not work with all attuned Talents. A google doc containing all Talents Ether Proselyte allows you to use can be found [here](https://docs.google.com/document/d/1xfNg3CLlZm5aSVfhThQ279o8RH7_-VmBisbyOlITXz4/edit?usp=sharing).
+
+**Ether Proselyte: Flamecharm Stance**: In the **Flamecharm** Saint Stance, all attuned Mantras will proc the following Talents:
+
+-   Dancing Steps & Graceful Steps: Your attuned mantras will gain a lunge during their windup, closing distance.
+-   Hungry Flames: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether.
+-   Immolation: Your attuned Mantras will cost 70% less Ether if you're burning.
+-   Warding Radiance: Your attuned Mantras will build up halo stacks.
+
+**Ether Proselyte: Galebreathe Stance**: In the **Galebreathe** Saint Stance, all attuned Mantras will proc the following Talents:
+
+-   A World Without Song: Your attuned Mantras will apply Suffocation. This also works on burn, interestingly enough.
+-   Inhale: You can inhale non-Galebreathe Mantras, however their buffs will not carry over to non-Galebreathe mantras.
+
+**Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras will proc the following Talents:
+
+-   Nothing, no Shadowcast Talents have synergy with Ether Proselyte.
+
+**Ether Proselyte: Frostdraw Stance**: In the **Frostdraw** Saint Stance, all attuned Mantras will proc the following Talents:
+
+-   Cryonis: Your attuned Mantras will have a reduced Ether cost while standing on ice.
+
+**Ether Proselyte: Thundercall Stance**: In the **Thundercall** Saint Stance, all attuned Mantras will proc the following Talents:
+
+-   Link Conduction: Your attuned Mantras will gain Ether cost reduction while you have a Static Link active.
 
 ## Mantra(s)
 
@@ -167,6 +195,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 ## Trivia
 
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Visionshaper](Oath%253A_Visionshaper.md).
+-   The 20 investment requirement in each attunement only applies to talking to their respective obelisk, not to obtaining the Oath in general. This means, you can talk to a number of the obelisks [pre-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) while you still meet their requirements, and then talk to the remaining obelisks [post-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) to obtain the Oath with less than 20 invest in some of your attunements.
 -   The text that appears when training an attunement, "The elements are not in alignment..." is a hint towards obtaining Saintsworn and was added with the release of the Oath.
 -   The Saintsblade has the most base M1 damage amount at 30 of all other base weapons in the game. (Not 100% confirmed)
 -   Ironically, this Oath does NOT require the user to be wielding a Heroblade of any kind.

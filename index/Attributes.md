@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 139237
+revid: 139518
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -165,7 +165,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   All of the attunements are:
     -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md) while having 75 points invested into the attunement. (have to deal most of the damage)**_
 
-An umbrella term that includes all attunement stats is Elemental, abbreviated as "ELM", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).  
+An umbrella term that includes all attunement stats is Element, abbreviated as "ELM", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).  
 _**NOTE:** The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't._
 
 ### Flamecharm (FIR)

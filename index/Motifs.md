@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 138869
+revid: 139503
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -69,7 +69,7 @@ Daggers
 
  | 
 
-Swords, Clubs, Twinblades, Spears
+Swords, Clubs, Twinblades, Spears, Bows
 
  |
 | 
@@ -78,7 +78,7 @@ Swords, Clubs, Twinblades, Spears
 
  | 
 
-Swords, Clubs, Twinblades, Spears
+Swords, Clubs, Twinblades, Spears, Bows
 
  |
 | 
@@ -87,7 +87,7 @@ Swords, Clubs, Twinblades, Spears
 
  | 
 
-Swords, Clubs, Twinblades, Spears
+Swords, Clubs, Twinblades, Spears, Bows
 
  |
 | 
@@ -138,7 +138,7 @@ The weapon class the Motif-ed weapon belongs to
 
 ### Overridable Weapons
 
-There are a few specific weapons that can equip Motifs despite them not being Motifable themselves. For instance, you can Motif [Whaling Knife](Whaling_Knife.md)'s critical onto the [Tanto](Tanto.md), but you can't apply Tanto's critical to any other weapon. These weapons are:
+There are a few specific weapons that can equip Motifs despite them not being Motif-able themselves. For instance, you can Motif [Whaling Knife](Whaling_Knife.md)'s critical onto the [Tanto](Tanto.md), but you can't apply Tanto's critical to any other weapon. These weapons are:
 
 -   [Tanto](Tanto.md) / \[\[Tanto#Alloyed|Template:AlloyedColor\]\]
 -   [True Seraph Spear](True_Seraph_Spear.md)

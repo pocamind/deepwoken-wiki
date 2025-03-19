@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 139490
+revid: 139521
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", Children of Navae, Bows]
@@ -29,13 +29,15 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-At
 
 ## Description
 
-The **Guiding Star** is a Legendary [Bow](Weapons.md) that scales with Mind attributes and MED, obtained through the "Lodestar Bounty" [Job](Job_Boards.md). You are tasked with defeating the [Lodestar](Lodestar.md), who will drop a [Navaen War Chief](Navaen_War_Chief.md) schematic and the Guiding Star on death. This weapon deals 24.4 damage at 75 MED and 25 MND with 3 PROF; 28.4 damage at 100 MED and 50 MND with 3 PROF; 32.2 damage at 100 MED and 60 MND with 6 PROF.
+The **Guiding Star** is a Legendary [Bow](Weapons.md); an astral, luminous bow that fires arrows with the mind of its wielder. It takes the shape of antlers as bow limbs with glowing strings woven near the ends of it. It scales with Medium Weapons alongside Mind.
 
-The Guiding Star consumes your Ether to produce its arrows. It does not prevent you from attacking with zero Ether, but it will deal reduced damage. Its attacks have range fall-off, meaning they deal less damage at longer ranges.
+The bow is obtained through the "[Lodestar Bounty](Lodestar.md)" Job as a guaranteed drop. The Job itself can be found at the [Starswept Valley](The_Starswept_Valley.md) [Job Board](Job_Boards.md).
+
+The Guiding Star consumes small amounts of Ether to fire arrows. If the user has no Ether, it will deal reduced damage. If used at longer ranges, the arrows will deal reduced damage depending on how far the user is from the target.
 
 ## Critical
 
-The user crouches down and fires three explosive Ether arrows in quick succession.
+The user slightly lowers down and fires three explosive Ether arrows in quick succession.
 
 ## Tips
 
@@ -45,8 +47,11 @@ The user crouches down and fires three explosive Ether arrows in quick successio
 
 ## Trivia
 
--   Formerly known as the "Aranea", a weapon that was accidentally released as a drop from [Chime of Conflict](Chime_of_Conflict.md) chests and had a impossible requirement of 200 Light weapons, rendering it unusable for normal players.
-    -   The model Guiding Star uses an almost one-to-one model from the Aranea.
+-   Formerly known as the "Aranea", a weapon that was accidentally released as a drop from [Chime of Conflict](Chime_of_Conflict.md) chests and had an absurd and impossible requirement of 200 Light weapons, rendering it unusable for normal players.
+    -   Both bows featured the same model & appearance, but only the arrow is missing.
 -   This is currently the only weapon that requires and scales off Mind.
+-   This weapon deals 24.4 damage at 75 MED and 25 MND with 3 PROF; 28.4 damage at 100 MED and 50 MND with 3 PROF; 32.2 damage at 100 MED and 60 MND with 6 PROF.
 -   The Guiding Star is the first and (currently) only Bow in the game.
--   The Guiding Star currently is tied with the [Repeater](Repeater.md) for the longest range of any weapon in game, at 12 units
+-   The Aranea, seen in its accidental debut
+    
+    The Guiding Star currently is tied with the [Repeater](Repeater.md) for the longest range of any weapon in game, at 12 studs.
