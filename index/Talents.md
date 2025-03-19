@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139524
+revid: 139529
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -849,7 +849,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   You cannot use mantras during the effect.
     -   You hover with a dark outline while dark rift is active.
     -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.
-    -   Prerequisites: 60 Shadowcast, Dark hours
+    -   Prerequisites: 60 Shadowcast, Dark Hours
 
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them.
     -   Prerequisites: 45 Shadowcast, Dark God

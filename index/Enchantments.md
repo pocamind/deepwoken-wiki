@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 139380
+revid: 139533
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -329,7 +329,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   The damage of explosion and amount of Temporary Health are randomized with the lowest explosion damage around 5 and highest around 50. Temporary Health gained are randomized from around 20 to 30. Similar to <a href="Ysley's_Pyre_Keeper.md">Ysley's Pyre Keeper</a>'s <font>Flames of Life</font>.<br>
   <b>Explosions cannot execute.</b><br>
   <br>
-  Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, and <a href="Calamus.md">Calamus</a> job chests. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a>. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a><br>
+  Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, and <a href="Calamus.md">Calamus</a> job chests and turning in a artifact to the hive banker. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a>. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a><br>
   Explosion has 7.56X PVE scale and Green Fire PVE scale is 6.66x. Temporary Health doesn't scale with PVE.</p></div></td>
   <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
 </tr>
@@ -734,7 +734,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 
  |
 
-## Changelogs
+## dhangelogs
 
 -   **January 2, 2022** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
 -   **February 18, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.

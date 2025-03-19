@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 139527
+revid: 139532
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -33,13 +33,15 @@ This weapon has 1 passive by default:
 
 **Ferrofluid Structure** - Changing the stance of this weapon completely changes the playstyle.
 
--   While used with 2 hands, this weapon is a Club dealing blunt damage and applying a [Metal Rod](Status_Effects.md) per M1. This is best suited for playstyles centered around applying and taking advantage of metal rods, also compared to Sword Stance gains 8 weight and 11% extra M1 DMG
+-   While used with 2 hands, this weapon is a Club dealing blunt damage and applying a [Metal Rod](Status_Effects.md) per M1. This is best suited for playstyles centered around applying and taking advantage of metal rods. Note compared to its other stance it has 8 weight and 11% extra base M1 DMG.
 
--   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains the ability to deal bleed damage, increasing its damage by 30%. This stance is meant to be used if you are looking for bleed dmg at the expense of utility and posture dmg and base m1 dmg, also gains very tiny swingspeed compared to club. (This variant is not recommended to use because it's directly downgrade)
+-   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains innate bleed damage, increasing its unmodified damage by 30%. It also gains a slight swing speed increase compared to club. This stance is meant to be used if you are looking for more from your m1s at the expense of rod application on m1s, half of your weapon's posture damage and some base m1 damage (which may be multiplied with damage modifiers, unlike bleed damage).
+
+At requirements, this weapon deals 26.1 damage while in Club form, and 30.8 (23.7 + 7.1) while in Sword form.
 
 At 100 MED and 100 MTL, this weapon deals 30.2 damage while in Club form, and 35.7 (27.5 + 8.2 BLEED) damage while in Sword form.
 
-Max possible DMG with 100 MTL, 100 MED, 6 PROF and 3\* dmg is 36.5 (**+**10.95 if speed demon proc, making it 47.5) on Club and 42.9 (33 + 9.9 BLEED) Sword, making this weapon have highest dmg among all medium in the game.
+> To put it in perspective, even with 6 PROF and 3\* dmg that number becomes 36.5 (+5.475 if speed demon proc, making it 41.975) on Club and 42.9 (33 + 9.9 BLEED) on Sword, making this weapon have the third highest dmg among all medium weapons in the game, behind Razor Cutlass, Curved Blade of Winds (more with gale's 30% bleed talent), and Kyrswynter, but that does not count other mediums access to enchantments like Detonation, which gives a ~+6 m1 damage increase that bypass resistances after the first hit, which if factored in with speed demon, causes every medium weapon with 5 MED scaling or more at max medium investment to deal more average damage on m1 than Ignition Deepcrusher. In other words, this is one of the _worst_ possible weapons to make an M1 build around, due to its low scaling and legendary status.
 
 ## Critical
 
@@ -50,8 +52,7 @@ The user stabs their weapon into the floor, causing a metal eruption of spikes t
 -   Crit does 67.5 (30+37.5) at 28 DMG M1
 -   Procs artisan's blade at any Deepcrusher attack (Sword version or Club, crit or M1)
 -   Posture dmg of crit depends on stance, does 15 as sword version and 16.5 as club.
--   AP frames do not work against
--   2nd part (eruption) of crit and have to be manually parried
+-   Very easy to counter, as there is enough time after parrying the shove to M1, and then to M1 after parrying the spike eruption.
 
 ## Trivia
 
