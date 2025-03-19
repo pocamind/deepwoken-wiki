@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 107352
+revid: 139539
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -36,7 +36,7 @@ Ghosts can be found on board of the [Beloved Zofia](Beloved_Zofia.md). They are 
   <td>Critical</td>
   <td>Performs a windup before thrusting blade forward.</td>
   <td><font>◯</font></td>
-  <td><font>✗</font></td>
+  <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>
 </tbody>

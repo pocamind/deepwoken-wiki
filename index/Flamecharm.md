@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 139528
+revid: 139543
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1135,9 +1135,9 @@ Many of your flames turn blue, signifying their increased intensity.
 
  | 
 
-Burn, Flamecharm Mantras, Flamecharm Legendary [Weapons](Weapons.md#elemental), and Eruptions turn blue.
+Burn, Flamecharm Mantras, Flamecharm Legendary [Weapons](Weapons.md#elemental), and Eruptions turn blue,
 
-Burn deals more damage. Eruptions have a shorter delay, more posture damage, and a larger AoE.
+Burn deals more damage, Eruptions from Lava Serpent have a shorter delay, more posture damage, and a larger AoE.
 
  |
 | 
@@ -1153,7 +1153,7 @@ Flames wear off twice as fast on you.
 
  | 
 
-Halves the maximum burn duration. This does not affect Flame Within.
+Halves your maximum burn duration. This does not affect Flame Within.
 
  |
 | 
@@ -1169,7 +1169,7 @@ A simple production of Flame for the use of making Campfires.
 
  | 
 
-Caster uses a small amount of Ether to create a small ember in their hands, used for lighting up campfire pits, does no damage.
+Grants the Utility tool "Produce Spark". Using Produce Spark consumes a small amount of ether to light campfires.
 
  |
 | 
@@ -1187,7 +1187,7 @@ Your flames burn just as strong even in the fiercest of storms.
 
 Your Flamecharm Mantras and Twisted Puppets will no longer have a damage debuff while it's raining.
 
-Lit campfires and burn will not be extinguished in rain.
+Your lit campfires and burning effects will no longer be extinguished by rain.
 
  |
 
@@ -1212,7 +1212,7 @@ An application of Pleeksty's concept of the inner flame, also known as the soul 
 
  | 
 
-Sets the caster ablaze for 30 seconds, increasing strength and movement speed but dealing burn damage. Can be cancelled by casting again. 7s cooldown if deactivated manually, no cooldown if duration runs through. Can be used while you're knocked to incinerate yourself. Costs 25 Ether to activate.
+Grants the utility tool "Flame Within". Using Flame Within sets the caster ablaze for a maximum of 30 seconds, increasing strength and movement speed but dealing burn damage to the user. Can be freely cancelled by using it again while it's active. 7s cooldown if deactivated manually, no cooldown if duration runs through. Can be used while you're knocked to incinerate yourself. Costs 25 Ether to activate.
 
  |
 
@@ -1235,7 +1235,7 @@ Your blinding light now concusses foes.
 
  | 
 
-**Flame Blind** now applies daze.
+The Mantra **Flame Blind** now applies daze.
 
  |
 
@@ -1258,7 +1258,7 @@ Aerial moves will follow up into a devastating slam.
 
  | 
 
-After landing certain "uppercut" Mantras and weapon criticals, press M1 to perform a Meteor Impact. This does your weapon's aerial attack damage + a flat amount unaffected by your Flamecharm investment.
+After landing certain "uppercut" Mantras and weapon criticals, pressing M1 performs a Meteor Impact. This does your weapon's aerial attack damage + a flat amount unaffected by your Flamecharm investment.
 
 The Mantras that can proc this effect are as follows: Rising Flame, Flame Leap (and its spark variant), Rising Frost, Rising Wind, Lightning Impact, [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints, Rising Thunder (on Guard Break), and Wind Blade (but only the Tempest Wind variant).
 
@@ -1276,7 +1276,7 @@ If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
 
  | 
 
-If you use Meteor Impact while burning, restore some HP and Ether.
+N/A
 
  |
 
@@ -1331,7 +1331,7 @@ Landing a fire Mantra immediately after flourishing an opponent will cause them 
 
  | 
 
-Landing a Flamecharm mantra after a flourish will cause an explosion, dealing extra damage.
+N/A
 
  |
 
@@ -1372,7 +1372,7 @@ When Warding Radiance is active you leave trails of flame when you slide. (+1 Pa
 
  | 
 
-When Warding Radiance is active, sliding will leave a trail of flame. If your opponent touches the flame trail, they'll be lit ablaze or an Eruption will proc.
+When Warding Radiance is active, sliding will leave a trail of flame. If your opponent touches the flame trail, they'll be lit ablaze or an Eruption will proc if you have Lava Serpent.
 
  |
 | 
@@ -1427,7 +1427,7 @@ Fire spells cost 70% less while on fire. If you hit someone while on fire, apply
 
  | 
 
-Flamecharm Mantras cost 70% less Ether if you're burning. Take 50% less damage from self burn. If you hit someone while you're burning, apply burn; this effect procs on anything that deals physical damage (even if physical isn't the sole damage type) and anything that has the slash (blood splatter) vfx on hit. This applies burn even with Eruption Path.
+Flamecharm Mantras cost 70% less Ether if you're burning. Take 50% less damage from self inflicted burns. If you hit someone while you're burning, apply burn; this effect procs on anything that deals physical damage (even if physical isn't the sole damage type) and anything that has the slash (blood splatter) vfx on hit. This applies burn even with Eruption Path.
 
  |
 | 
@@ -1482,7 +1482,7 @@ Bodies that you burn to death immediately explode dealing massive damage.
 
  | 
 
-Decreases the amount of time it takes bodies to burn to death from 8s -> 5s. The explosion does not work.
+Decreases the amount of time it takes bodies to burn to death from 8s -> 5s. The explosion is bugged and doesn't work.
 
  |
 | 
@@ -1727,7 +1727,7 @@ Successfully dodging leaves a heat mirage clone that sets enemies that swung at 
 
  | 
 
-When dodging an attack, you leave behind a fire clone that burns the attacking enemy. Causes an Eruption with Eruption Path.
+N/A
 
  |
 

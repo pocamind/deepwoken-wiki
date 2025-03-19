@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 139512
+revid: 139535
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -977,7 +977,7 @@ Flints and Flamecharm are for simpletons.
 
  | 
 
-N/A
+Grants the utility "Discovery of Fire". Using Discovery of Fire lights all nearby campfires, and burns people close by.
 
  |
 | 
@@ -993,7 +993,7 @@ Play the resurrector. Use your lightning to defibrillate your allies on the batt
 
  | 
 
-N/A
+Grants the utility "Kickstart". Using Kickstart near a knocked player allows you to resuscitate them early.
 
  |
 | 
@@ -1151,7 +1151,7 @@ Grand Javelin now carries opponents with it through the skies. (Press F while ca
 
  | 
 
-N/A
+Pressing F during the windup for Grand Javelin changes it to carry those it hits, as opposed to ragdolling them.
 
  |
 
@@ -1174,7 +1174,7 @@ Your lightning attacks in water strike others near them with lightning.
 
  | 
 
-+4 Ether
+Grants +4 Ether.
 
  |
 
@@ -1197,7 +1197,7 @@ When being carried use this Talent to shock your captor, forcing them to drop yo
 
  | 
 
-N/A
+Grants the utility "Static Withdraw". Using Static Withdraw while being carried forces you to be dropped.
 
  |
 | 
@@ -1213,7 +1213,7 @@ Using Static Withdraw when not being carried shocks yourself increasing your abi
 
  | 
 
-+4 Ether
+Grants +4 Ether. Allows Static Withdraw to be used without being knocked. Using Static Withdraw without being knocked damages you and grants a small outgoing damage and speed buff for a short duration.
 
  |
 | 
@@ -1229,7 +1229,7 @@ Your Jumpstart no longer gives you movement buffs, but your outgoing physical da
 
  | 
 
-+4 Ether
+Grants +4 Ether. Removes the speed buffs from Jumpstart, but reduces the self damage on use and increases the damage buffs in return.
 
  |
 
@@ -1268,7 +1268,7 @@ Getting knocked with an active tether allows you to steal health from tethered t
 
  | 
 
-+1 Ether
+Grants +1 Ether.
 
  |
 | 
@@ -1355,7 +1355,7 @@ Gathering Electricity
 
  | 
 
-+10 Carry Load
+Grants +10 Carry Load.
 
  |
 | 
@@ -1367,7 +1367,7 @@ Overcharge
 
  | 
 
-Your next dash after activating Static Blade is enhanced by lightnings.
+Your next dash after activating Static Blade is enhanced by lightning.
 
  | 
 
@@ -1410,7 +1410,7 @@ Discharge
 
  | 
 
-+7 Carry Load
+Grants +7 Carry Load.
 
  |
 
@@ -1433,7 +1433,7 @@ Every 3 perfect casted lightning mantra builds a stack at 3 stacks your next lig
 
  | 
 
-+7 Carry Load
+Grants +7 Carry Load.
 
  |
 | 
@@ -1449,7 +1449,7 @@ After successfully casting lightning impact, strike down countless thunder at th
 
  | 
 
-+7 Carry Load
+Grants +7 Carry Load. Modifies the mantra Lightning Impact, increasing it's duration but grants it a ranged attack.
 
  |
 
@@ -1474,7 +1474,7 @@ Your lightning no longer applies Shock, instead applying Surge. At maximum stati
 
 Attacks that normally apply Shock apply 1 Surge stack instead. Surge stacks are global status effects, meaning anyone with the path can utilize it, and each stack lasts 30 seconds.  
 After applying 5 Surge stacks, land any move that would apply another to Overload the stacks.  
-Surge Overload deals 2.5 damage with 5 Thundercall scaling per Surge stack and has an AoE that deals 2 damage per Surge stack, the AoE cannot hit the Overloaded target without the Closed Circuit talent.
+Surge Overload deals 2.5 damage with 5 Thundercall scaling per Surge stack and has an AoE that deals 2 damage per Surge stack, the AoE cannot hit the Overloaded target without the talent Closed Circuit.
 
  |
 | 
@@ -1490,7 +1490,7 @@ Overloading an enemy applies Sapped for 5s.
 
  | 
 
-Sapped effect causes the duration of mantra cooldowns to increase.
+The 'Sapped' effect causes the duration of the victims' mantra cooldowns to increase.
 
  |
 | 
@@ -1506,7 +1506,7 @@ Surge Overloads that fail to arc the other opponents will deal additional damage
 
  | 
 
-Adds 5 damage with 5 Thundercall scaling to the Overload.
+Adds 5 damage with 5 Thundercall scaling to the Overload. Allows Overloads to hit the overloaded enemy.
 
  |
 | 
