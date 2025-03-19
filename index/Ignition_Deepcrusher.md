@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 139223
+revid: 139527
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -50,6 +50,8 @@ The user stabs their weapon into the floor, causing a metal eruption of spikes t
 -   Crit does 67.5 (30+37.5) at 28 DMG M1
 -   Procs artisan's blade at any Deepcrusher attack (Sword version or Club, crit or M1)
 -   Posture dmg of crit depends on stance, does 15 as sword version and 16.5 as club.
+-   AP frames do not work against
+-   2nd part (eruption) of crit and have to be manually parried
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139314
+revid: 139524
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2338,7 +2338,7 @@ _**"My cure is most effective."**_
 
 ### Scoundrel
 
-> _**"I seek the qualities of Scoundrel."**_
+> _**"I seek the qualities oiem f Scoundrel."**_
 
 -   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. 5s Cooldown (+1 Passive Agility)
     -   The "bleed" does not refer to **Bleed Damage**, but rather a very miniscule amount of damage to the blood bar.
@@ -2371,10 +2371,11 @@ _**"My cure is most effective."**_
     -   Artisan's Blades do not benefit from Exposed Durability's damage buff or any other defense debuff.
     -   Not affected by "Return To The Dark Ages"
     -   Parrying Artisan's blade gives Auto Parry frames.
-    -   Procs by pulling rods out of someone, amount of Artisan's blade proc depends on pulled amount of rods (6 rods = 3 Artisan's)
+    -   Procs by pulling rods out of someone, amount of Artisan's blade proc depends on pulled amount of rods (2 rods = 1 Artisan's)
     -   4.5 posture per blade.
     -   Artisan blades last 20 seconds.
-    -   "Metal infused" attacks are Ignition Deepcrusher m1, crit (in any stance), Iron requiem m1 without bullets.
+    -   "Metal infused" attacks are Ignition Deepcrusher M1, crit (in any stance), Iron Requem Crit and unloaded M1
+    
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Songs Unforged \[Common Talent, Ironsing Exclusive\] - Your weapon criticals will now activate scrapsinger.

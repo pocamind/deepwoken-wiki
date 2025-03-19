@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 138206
+revid: 139522
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -33,7 +33,7 @@ If Shard Bow is corrupted, it deals an additional 5 posture damage and hits appl
 
 #### _**Variants**_
 
--   **Variant 1** allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. The damage can vary depending on the user's and their opponents stats. It does ~62 damage (with Wyvern's Claw). does 15 posture damage (20 corrupted)
+-   **Variant 1** allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. The damage can vary depending on the user's and their opponents stats. It does ~70 damage (with Wyvern's Claw). does 15 posture damage (20 corrupted)
 
 -   **Variant 2** allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further. It does ~47 (46.75) damage per shot. _Up to further experimentation, may scale off a stat not displayed. does 7.5 posture damage per shot (10 if corrupted)_
 

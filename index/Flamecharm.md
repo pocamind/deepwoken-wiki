@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 139509
+revid: 139528
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1135,6 +1135,8 @@ Many of your flames turn blue, signifying their increased intensity.
 
  | 
 
+Burn, Flamecharm Mantras, Flamecharm Legendary [Weapons](Weapons.md#elemental), and Eruptions turn blue.
+
 Burn deals more damage. Eruptions have a shorter delay, more posture damage, and a larger AoE.
 
  |
@@ -1787,7 +1789,7 @@ Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now 
 
 Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** ether on affected targets.
 
-Puppets deal 20 _typeless_ damage with no innate investment scaling and 11 posture damage. Puppet spawning has a 4 second cooldown.
+Puppets deal 20 _typeless_ damage with no innate investment scaling and 11 posture damage. Puppet spawning has a 4 second cooldown. Your Flamecharm Mantras, Burn, Flamecharm Legendary [Weapons](Weapons.md#elemental) turn black.
 
  |
 |  | 
