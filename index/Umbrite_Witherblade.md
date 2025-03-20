@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 137696
+revid: 139556
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -36,7 +36,7 @@ The Umbrite Witherblade is a weapon in _Deepwoken_.
 
 The twisted, awoken form of the [Dormant Splinter](Dormant_Splinter.md) crafted using the soul within the [Cold Forge](The_Cold_Forge.md) with sufficient ores and a vessel.
 
-It deals 50% of its scaled damage (before modifiers) as Wither every basic attack, dealing from **10.3** Wither (65MED) to **15.5** Wither (100 MED 6, PROF, 3\* DMG).
+It deals 50% of its scaled damage (before modifiers) as Wither every basic attack, dealing from **10.3** Wither (65MED) to **15.5** Wither (100 MED, 6 PROF, 3\* DMG).
 
 It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 

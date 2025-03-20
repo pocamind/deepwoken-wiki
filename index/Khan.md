@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 133441
+revid: 139557
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -30,6 +30,7 @@ Khans are a rare aspect with light skin, and a monkey-like appearance. Khans hav
   <ul>
     <li>All equipment requirements are lowered by 3.</li>
     <li>Applies to stat points, but not levels. For example, you could equip a weapon/equipment with a 20 point requirement at 17 points, but not a Power 10 requirement at Power 7.</li>
+    <li>Currently nonfunctional along with silientheart's ability to equip weapons below stat requirement</li>
   </ul></li>
   </ul></td>
 </tr>

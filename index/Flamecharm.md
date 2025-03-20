@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 139543
+revid: 139559
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -483,7 +483,7 @@ Fire
 -   Deals 47.84 (53.25 with 6 songchant) damage, 20 posture, 19.5s CD at 5 lvl
 -   Cancels the eruption if hit mid-detonation.
 -   You are in full control while in placement state. You can move normally, M1, use your Critical, and even use other Mantras.
--   There's no limit to how long you can be in placement state.
+-   You can be in placement state for an infinite amount of time.
 -   **Fan The Flames** does **not** increase placement range.
 -   Can be modified with Crystal/Perfect Lenses to increase the placement range.
 -   Can be modified with a Spring Spark, causing it to ragdoll and launch away but makes it able to damage the user.

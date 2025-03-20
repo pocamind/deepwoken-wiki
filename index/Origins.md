@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 137988
+revid: 139564
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -102,6 +102,9 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events.
 -   Grants the Knives of Eylis Talent "Grasp of Eylis"
+    
+    Grasp of Eylis ferocity option
+    
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.
     -   **\[PRO/CON\]** If your target runs too far away and is no longer in combat, or likewise if you get away from your target, you are brought back to the [Voidheart](Voidheart.md).
@@ -110,7 +113,10 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
         -   **\[CON\]** ...but you will gain a very obvious tentacle-whirring effect on your head that will alert your target of your immediate intentions, alongside a loud whirring sound effect that initially plays when you get teleported near your bounty.
         -   **\[PRO\]** With the **Stealth** option, you do not make a sound, do not receive the particle effects until you engage your target, and can approach players that are further away from Ferocity's range...
         -   **\[CON\]** ...but you do not gain vision of your target. It should be noted that you can still tell where they generally are from the bounty itself.
--   Grants the Knives of Eylis Talent "Voideye".
+-   Grants the Knives of Eylis Talent "Voideye"
+    
+    Voideye animation
+    
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
     -   This ability has a 5-minute cooldown. _The cooldown also automatically ends whenever a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
