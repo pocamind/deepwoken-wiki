@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 139578
+revid: 139581
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -64,6 +64,7 @@ Wind Forge
 ## Trivia
 
 -   A "Lodestar" is an archaic word for stars used to help travellers find their way. In other words: a guiding star.
--   He has at least four dialogues on spawn, with those being "Loathesome fate...", "So our paths finally cross." ,"Bear your Fangs, wolf." and "Let the trials begin."
+-   He has at least four dialogues on spawn, with those being "Loathsome fate...", "So our paths finally cross." ,"Bear your Fangs, wolf." and "Let the trials begin."
 -   He has at least two dialogues on grip, with those being "So it ends in failure..." and "Do I take the blindfold off now?"
--   It appears from his dialogue, he thinks he is, or possibly got tricked into doing a Trial that includes a [blindfold](Blindfold.md) _(Possibly [Trial of One](Trial_of_One.md) however this could be unlikely.)_ due to his dialogue, as his death dialogue makes him think he has "Failed the Trial." or that "It is over."
+-   The Lodestar might be mistaking us for his target shown in his spawn and grip dialogue, as the description on the Guiding Star talks of a 'trail' that the Lodestar could be going through during 'The Festive of the Light', a part of the trail is to blindly hunt a wolf unseen, with the participant failing should they suffer any wounds, with the Guiding Star 'speaking' to the participant, Guiding them to completion.
+    -   the Lodestar might be indirectly violating the trail by being a Blindseer, which would allow them to use their sight during the trail.

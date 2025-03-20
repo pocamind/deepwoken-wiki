@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 136861
+revid: 139584
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Spelltrainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant]
@@ -36,16 +36,16 @@ After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highc
   <td colspan="12">Hm? Do you mind? I'm trying to staunch the bleeding on this one. Can't say it's working.</td>
 </tr>
 <tr>
-  <td colspan="12">Your outfit... You're not a diver, are you?</td>
+  <td colspan="12">Your outfit.. You're not a Diver, are you?</td>
 </tr>
 <tr>
-  <td colspan="12">Nah. Doesn't mean i can't help one who's about to crock. *As she works, you can see the blood in the Diver coiling up and knitting around itself in complex patterns</td>
+  <td colspan="12">Nah. Doesn't mean I can't help one who's about to croak. *As she works, you can see the blood in the Diver coiling up and knitting around itself in complex patterns.*</td>
 </tr>
 <tr>
-  <td colspan="12">You're manipulating the Blood... Do you know anything about Chaser?</td>
+  <td colspan="12">You're manipulating the blood... Do you know anything about Chaser?</td>
 </tr>
 <tr>
-  <td colspan="12">Chaser? Yeah. Guess you could call him a classmate. We both studied under the Second Prophet</td>
+  <td colspan="12">Chaser? Yeah. Guess you could call him a classmate. We both studied under the Second Prophet.</td>
 </tr>
 <tr>
   <td colspan="12">Wait. The Second Prophet? You don't mean...</td>
@@ -88,7 +88,7 @@ After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highc
   <td colspan="6">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="6">Alright, i'll do it.</td>
+  <td colspan="6">Alright, I'll do it.</td>
 </tr>
 <tr>
   <td colspan="6">Glad to hear it. Be on with it, though. I can't sit around here waiting all day.</td>
@@ -107,13 +107,13 @@ After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highc
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">You got the Heartstars? Should be some you can rip out of the Second's students lurking around here</td>
+  <td colspan="12">You got the Heartstars? Should be some you can rip out of the Second's students lurking around here.</td>
 </tr>
 <tr>
   <td colspan="12">Here.</td>
 </tr>
 <tr>
-  <td colspan="12">Can't do much without the 3 Heartstars i asked for...</td>
+  <td colspan="12">Can't do much without the 3 Heartstars I asked for...</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -129,13 +129,13 @@ After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highc
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">You got the Heartstars? Should be some you can rip out of the Second's students lurking around here</td>
+  <td colspan="12">You got the Heartstars? Should be some you can rip out of the Second's students lurking around here.</td>
 </tr>
 <tr>
   <td colspan="12">Here.</td>
 </tr>
 <tr>
-  <td colspan="12">*She takes the crystals and begins processing them into a powder. The powder then meets a glass vial full of some form of solvent*</td>
+  <td colspan="12">*She takes the crystals and begins processing them into a powder. The powder then meets a glass vial full of some form of solvent.*</td>
 </tr>
 <tr>
   <td colspan="12">So, what's next?</td>
@@ -173,7 +173,7 @@ After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highc
   <td colspan="12">Ah. You again. Need teaching?</td>
 </tr>
 <tr>
-  <td colspan="12">Yes, i do. (With no Bloodrend mantras or all Bloodrend mantras maxed)</td>
+  <td colspan="12">Yes, I do. (With no Bloodrend mantras or all Bloodrend mantras maxed)</td>
 </tr>
 <tr>
   <td colspan="12">Can't see anything you need improvement on.</td>

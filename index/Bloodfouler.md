@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 139472
+revid: 139587
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons, The Ministry]
@@ -27,7 +27,7 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 
 ## Description
 
-The Bloodfouler is a [Legendary Greatsword](Weapons.md); a massive odachi that is as fearsome as it is long. Under a now worn, serrated blade you bring your hands around a hilt wrapped in scarlet cloth. The odachi sports decorative symbols along its make, with spikes that crop out opposite to the edge early in the blade's spine. The Bloodfouler comes with a black leather and strapped sheathe.
+The Bloodfouler is a [Legendary Greatsword](Weapons.md); a massive odachi that is as fearsome as it is long. Under a now worn, serrated blade you bring your hands around a hilt wrapped in scarlet cloth. The odachi sports decorative symbols along its make, and spikes that crop out opposite to the edge early into the blade's spine. The Bloodfouler comes with a strapped and black leather sheathe.
 
 The Bloodfouler scales off [Heavy Weapons](Attributes.md) alongside [Bloodrend](Bloodrend.md). The weapon can be acquired by retrieving three tomes from the following:
 

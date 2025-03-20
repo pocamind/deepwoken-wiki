@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 139350
+revid: 139588
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -27,7 +27,7 @@ categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Weap
 
 ## Description
 
-**Rosen's Hellflame** is a Legendary Rifle: the product of the highly intelligent Gunsmith Rosen. In exterior design, it is akin to the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with its shape similar and mechanisms gilded, though it bears a much more lavish design, and boasts a sheen of scarlet metal. Utilizing ether, it can propel fire from its magazine out of the barrel in spectacular display. The weapon scales off Medium and Flamecharm.
+**Rosen's Hellflame** is a Legendary Rifle: the product of the highly intelligent Gunsmith Rosen. In exterior design, it is akin to the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with its shape similar and mechanisms gilded, though it bears a much more lavish design, and boasts a sheen of scarlet metal. Utilizing ether, it can propel fire from out of the barrel in spectacular display. The weapon scales off Medium and Flamecharm.
 
 Every 2nd and 4th M1 will apply burn / proc Lava Serpent (depending on which path you take)
 

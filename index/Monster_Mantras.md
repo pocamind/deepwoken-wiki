@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 139571
+revid: 139580
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -68,7 +68,7 @@ _Send a cascading eruption towards your foes, forcing them to react._
  |
 | 
 
-\[esc empty\]
+\[missing, add\]
 
  | 
 
