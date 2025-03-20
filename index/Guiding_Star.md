@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 139521
+revid: 139576
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", Children of Navae, Bows]
@@ -18,7 +18,6 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-At
 | swing speed | 1.05x |
 | special effect | M1s cost Ether |
 | stances | 2 Handed |
-| selling price | 100 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -29,7 +28,7 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-At
 
 ## Description
 
-The **Guiding Star** is a Legendary [Bow](Weapons.md); an astral, luminous bow that fires arrows with the mind of its wielder. It takes the shape of antlers as bow limbs with glowing strings woven near the ends of it. It scales with Medium Weapons alongside Mind.
+The **Guiding Star** is a Legendary [Bow](Weapons.md); an astral, luminous bow that fires arrows with the mind of its wielder. It takes the shape of antlers as bow limbs with glowing strings woven near the ends of it. It's also covered in spider webbing. It scales with Medium Weapons alongside Mind.
 
 The bow is obtained through the "[Lodestar Bounty](Lodestar.md)" Job as a guaranteed drop. The Job itself can be found at the [Starswept Valley](The_Starswept_Valley.md) [Job Board](Job_Boards.md).
 

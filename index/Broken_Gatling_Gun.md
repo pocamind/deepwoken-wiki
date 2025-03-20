@@ -1,9 +1,9 @@
 ---
 title: Broken Gatling Gun
-revid: 114709
+revid: 139566
 source: https://deepwoken.fandom.com/wiki/Broken_Gatling_Gun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 ---
 
 # Broken Gatling Gun

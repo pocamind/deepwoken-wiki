@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 139319
+revid: 139571
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -10,7 +10,7 @@ categories: [Mantras]
 
 ## Description
 
-Monster Mantras are [Mantras](Mantras.md) that players are capable of obtaining which mimic a specific move from a [monster](Monsters.md). Obtaining the monster drops require to acquire the [Mantras](Mantras.md). It can be difficult to obtain, although most, if not all of the [Mantras](Mantras.md) are considered worth the requirements. Having the ability to throw bones like a [Bonekeeper](Bone_Keeper.md), shoot coral as if you were a [Megalodaunt](Megalodaunt.md), pull enemies as though you were an [Enforcer](Enforcer.md), monster mantras allow the player to have more versatility within combat. These mantras do not belong to any Attunement, being their own category of abilities. This means the Mantras are not upgradable, retaining the damage from obtainment.
+Monster Mantras are [Mantras](Mantras.md) that players are capable of obtaining which mimic a specific move from a [monster](Monsters.md). Obtaining the monster drops require to acquire the [Mantras](Mantras.md). It can be difficult to obtain, although most, if not all of the [Mantras](Mantras.md) are considered worth the requirements. Having the ability to throw bones like a [Bonekeeper](Bone_Keeper.md), shoot coral as if you were a [Megalodaunt](Megalodaunt.md), pull enemies as though you were an [Enforcer](Enforcer.md), monster mantras allow the player to have more versatility within combat. These mantras do not belong to any [Attunement](Attunements.md), being their own category of abilities. This means the Mantras are not upgradable, retaining the [damage](Combat_Mechanics.md) from obtainment.
 
 ## Obtainment
 
@@ -398,3 +398,4 @@ N/A
 
 -   For unknown reasons, Abyssal Ridge was originally a Mobility Mantra.
 -   Monster Mantras are somewhat similar conceptually to Blue Mages in the Final Fantasy Series; Blue Mages are able to acquire enemy abilities (Monster Spells) through various means in encounters, somewhat echoed in Monster Mantras and their obtainment methods.
+-   The maximum stack size of monster mantra ingredients is 6.

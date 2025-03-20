@@ -1,8 +1,9 @@
 ---
 title: Temporal Crux
-revid: 130792
+revid: 139565
 source: https://deepwoken.fandom.com/wiki/Temporal_Crux
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Uses, Items, Ingredients, Drops]
 ---
 
 # Temporal Crux

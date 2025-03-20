@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 139019
+revid: 139567
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -30,7 +30,7 @@ When used, particles of flame, lightning, or shadow appear below the user's feet
 
 Pressing C will activate the **Run It Back** Resonance.
 
-**Run It Back** will grant the user around five to ten seconds of immunity (randomized upon getting your bell). Once finished, the user will be teleported back to the position where it was first used. **WHILE THIS BELL IS ACTIVE:** all forms of incoming healing are immensely reduced and damage output is reduced in 25%.
+**Run It Back** will grant the user around five to ten seconds of immunity (randomized upon getting your bell). Once finished, the user will be teleported back to the position where it was first used. **WHILE THIS BELL IS ACTIVE:** all forms of incoming healing are immensely reduced, campfire is disabled and damage output is reduced in 25%.
 
 If Run It Back is corrupted, it grants the user 5 second of hyperarmor on use. However, hyperarmor ends early if you cast a Mantra.
 

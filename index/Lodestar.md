@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 139553
+revid: 139578
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Lodestar is a humanoid enemy NPC, that can be found at [Summer Isle](Summer_Isle.md) and [Starswept Valley](The_Starswept_Valley.md) when taking the **Lodestar Bounty [Job](Job_Boards.md)**. Their Aspect is that of a Male Redwood [Gremor](Gremor.md). They drop their weapon and outfit upon death, that being the [Guiding Star](Guiding_Star.md).
+The Lodestar is a humanoid enemy NPC, that can be found at [Summer Isle](Summer_Isle.md) and [Starswept Valley](The_Starswept_Valley.md) when taking the **Lodestar Bounty [Job](Job_Boards.md)**. Their Aspect is that of a Male Redwood [Gremor](Gremor.md). They drop their weapon and outfit upon death.
 
 His outfit consists of a [Black Blindfold](Blindfold.md), and a [Nevaen War Chief](Navaen_War_Chief.md) [Outfit](Outfits.md).
 
@@ -66,3 +66,4 @@ Wind Forge
 -   A "Lodestar" is an archaic word for stars used to help travellers find their way. In other words: a guiding star.
 -   He has at least four dialogues on spawn, with those being "Loathesome fate...", "So our paths finally cross." ,"Bear your Fangs, wolf." and "Let the trials begin."
 -   He has at least two dialogues on grip, with those being "So it ends in failure..." and "Do I take the blindfold off now?"
+-   It appears from his dialogue, he thinks he is, or possibly got tricked into doing a Trial that includes a [blindfold](Blindfold.md) _(Possibly [Trial of One](Trial_of_One.md) however this could be unlikely.)_ due to his dialogue, as his death dialogue makes him think he has "Failed the Trial." or that "It is over."

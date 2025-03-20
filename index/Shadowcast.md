@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 139438
+revid: 139575
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -10,7 +10,7 @@ categories: [Attunement]
 
 “ Ooh dearie, I can see the darkness within your heart. But it simply won't do until you draw it out. ”
 
-― Beatra, Trainer of Shadow
+― Nostor, Trainer of Shadow
 
 Shadowcast icon
 

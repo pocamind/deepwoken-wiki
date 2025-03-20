@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 139225
+revid: 139572
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics]
@@ -8,13 +8,13 @@ categories: [Character, Mantras, Mechanics]
 
 # Attunements
 
-**Attunements** are forms of magic that the player can choose on Character Creation or obtain in the game through [Trainers](Attunement_Trainers.md).
+**Attunements** are forms of magic that the player can choose on [Character Creation](Character_Creation.md) or obtain in the game through [Trainers](Attunement_Trainers.md).
 
 **IMPORTANT NOTE:** _For those learning about [Shrine of Order](Deep_Shrines/Shrine_of_Order.md),_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. Unlike other stats, they have no "bottom-limit" - where, for example, a 65 investment in Agility when influenced by Shrine of Order can lose a maximum of 25 points to become a 40 investment instead. They can lose an unlimited amount of points, reminiscent of the old behavior of Shrine of Order._  
 
 ## Overview
 
-There are currently four base Attunements that anyone may select when first creating a character, with three more being unlockable throughout the world.(Note that Ironsing, Shadowcast and Bloodrend, the 3 attunements you have to attain, will remain permanently unlocked for all of your slots). Within the character creation menu, you may choose up to two attunements to start off with- or [none](Attunement-less.md), preferences considered.
+There are currently four base Attunements that anyone may select when first [creating a character](Character_Creation.md), with three more being unlockable throughout the world.(Note that Ironsing, Shadowcast and Bloodrend, the 3 attunements you have to attain, will remain permanently unlocked for all of your slots). Within the character creation menu, you may choose up to two attunements to start off with- or [none](Attunement-less.md), preferences considered.
 
 -   The more attunements you wield, the more expensive it will become to manage them, because you do not have an infinite number of points to spend on your character. Choose wisely.
 -   By choosing no attunement, you are provided 10 extra investment points to make up for the loss of attunement. Normally, these 10 points would be auto invested if you chose an attunement.
