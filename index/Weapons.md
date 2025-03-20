@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 139534
+revid: 139551
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -3457,7 +3457,7 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
 </tbody>
 </table>
 
-**Bow:**
+**Bows:**
 
 Bows are one handed medium weapons that see the user fire arrows to attack. They boast high ranges and have fast animations, making them harder to parry than most other options. Bows use ether to generate, and fire, arrows, however bows can still attack without ether at the cost of their damage output\*.
 

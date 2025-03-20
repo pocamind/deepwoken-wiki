@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 133476
+revid: 139555
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -63,24 +63,24 @@ This includes every source of carry load that isn't a regular Talent.
 
 In order of carry load given:
 
--   [Emergency Repairs](Talent_Quests.md) gives 2 carry load.
--   [Spare Nails](Talent_Quests.md) gives 2 carry load.
--   [Treefelling Blow](Talent_Quests.md) gives 4 carry load.
--   [Hook, Line, and Sinker](Talent_Quests.md) gives 4 carry load.
+-   [Emergency Repairs](Talent_Quests.md#emergency-repairs-and-spare-nails) gives 2 carry load.
+-   [Spare Nails](Talent_Quests.md#emergency-repairs-and-spare-nails) gives 2 carry load.
+-   [Treefelling Blow](Talent_Quests.md#treefelling-blow) gives 4 carry load.
+-   [Hook, Line, and Sinker](Talent_Quests.md#proficient-baiting-hook-line-and-sinker-and-fishers-lure) gives 4 carry load.
 -   The [Union Initiate](Union_Initiate.md) outfit gives 10 carry load.
 -   The [Wormwarder Lantern](Wormwarder_Lantern.md) gives 10 carry load.
     -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   The [Threadwork Kilt](Threadwork_Kilt.md) gives 20 carry load.
     -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   [Saltchemist](Oath%253A_Saltchemist.md) gives 20 carry load.
--   The carrying capacity [echo upgrade](Echoes.md) gives 5 carry load per upgrade, with a maximum of 30 extra carry load.
+-   The carrying capacity [echo upgrade](Echoes.md#upgrades-and-modifiers) gives 5 carry load per upgrade, with a maximum of 30 extra carry load.
     -   Each upgrade costs 50 echoes, needing 300 total echoes to fully upgrade.
 -   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) gives 35 carry load.
     -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   The [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) gives 50 carry load.
 -   The Packmule [Boon](Boons_and_Flaws.md) gives 50 carry load.
--   The [base character](Character_Stats.md) starts off with 100 carry load.
--   [Strength](Attributes.md) increases your carry load by 1 for every point of strength you get.
+-   The [base character](Character_Stats.md#carry-load) starts off with 100 carry load.
+-   [Strength](Attributes.md#strength-str) increases your carry load by 1 for every point of strength you get.
     -   [Canor](Canor.md) and [Khan](Khan.md) can get up to 103 strength due to their 3 starting strength, resulting in 103 extra carry load.
     -   [Gremor](Gremor.md) can get up to 102 strength due to its 2 starting strength, resulting in 102 extra carry load.
     -   Every other [aspect](Aspects.md) can only get up to 100 strength, resulting in 100 extra carry load.

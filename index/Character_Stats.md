@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 134381
+revid: 139554
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -41,7 +41,7 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 
 -   The player's maximum inventory capacity. Starting value is 100.
     -   Current inventory usage and maximum capacity can be tracked at the bottom of the inventory. Player can carry more item past their max Carry Load, up to 1.2x their max carry load, but gradually become slower.
--   How to increase: Equipment, Strength, Talents
+-   How to increase: [Equipment, Strength, Talents](Carry_Load.md)
 
 ### \[Mantra Type\] Mantra Slot
 
