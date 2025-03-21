@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139529
+revid: 139592
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -699,7 +699,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Freezing Wight \[Common Talent, Dual Attunement\] - Your Haunted Gale now procs Chilled.
     -   7 seconds duration.
-    -   Procs Frozen Legs.
     -   Applies 1 Crystal if used with Crystallization path.
     -   Also works with Specter path's Apparitions.
     -   Prerequisites: Haunted Gale, 40 Frostdraw
@@ -3404,7 +3403,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   [Wraithclaw](Wraithclaw.md)'s criticals are classified as basic attacks, making them the only fist style criticals to benefit from this Talent's PEN bonus.
 -   Coldseep Reactor: [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
--   Corrosive Touch: Arachnid’s Corset - Landing a successful Critical Attack or Flourish will corrode a portion of your opponent's Armor.
+-   Corrosive Touch: [Arachnid's Corset](<Arachnid's_Weave.md>) - Landing a successful Critical Attack or Flourish will corrode a portion of your opponent's Armor.
     -   Drain 5% of your opponent's armor after landing a Critical attack or Flourish. This has a 10 second cooldown and can only proc once per critical attack.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
     -   Grants 20% Mantra PEN.
