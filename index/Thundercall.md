@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 139535
+revid: 139608
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -24,7 +24,7 @@ Thundercall makes use of a highly unpredictable nature due to its speed and high
 
 ## Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), [Funke](Funke,_Master_of_Thunder.md), can be located in one of the rooms on the upper level of the [Summer Isle castle](Summer_Isle.md#the-castle). When speaking to him, he will request five (5) [Spark Glands](Spark_Gland.md). If you have obtained Thundercall previously on your account, he will request two (2) Spark Glands instead. Once you give him the Spark Glands, he will hand you the [Sparkgland Potion](Attunement_Potions.md); drink this to obtain Thundercall.
+The [Attunement Trainer](Attunement_Trainers.md), [Funke](Funke,_Master_of_Thunder.md), can be located in one of the rooms on the upper level of the [Summer Isle castle](Summer_Isle.md#the-castle). When speaking to him, he will request five (5) [Spark Glands](Spark_Gland.md). If you have obtained Thundercall previously on your account, he will request two (2) Spark Glands instead. Once you give him the Spark Glands, he will hand you the [Sparkblood Potion](Attunement_Potions.md); drink this to obtain Thundercall.
 
 ## Training
 

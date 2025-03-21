@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 136786
+revid: 139610
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -37,10 +37,10 @@ Meet the following requirements, which is required for either method:
 There are two methods from here:
 
 -   Have Hero reputation with [Etrea](Etrea.md).
--   Have a [Resonance](Resonance.md).(You do not need resonance to unlock the dialogues with [Theadre](Theadre.md) and [Bookkeeper Andros](Bookkeeper_Andros.md))
--   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god.
--   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the King's Ardour, in the order: 3, 1, 1, 2, 1, 1, 1.
+-   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the King's Ardour.
+-   Have a [Resonance](Resonance.md).
+-   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 
 Once **all** requires are met, head over to the [Temple of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
@@ -52,7 +52,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 Or:
 
 -   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
-
 -   Use a [Sinner's Ash](<Sinner's_Ash.md>) before you get teleported out of the dungeon. Doing this with a [Resonance](Resonance.md) will not corrupt it, but will still consume the Sinner's Ash.
 -   Requires A [Murmur](Murmur.md)
 
