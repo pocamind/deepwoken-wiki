@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 137279
+revid: 139594
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -55,7 +55,7 @@ When the skull at the top appears for both PvP or PvE, it will also have a quote
 
 List of Quotes:
 
-1.  "The Depths coil around your neck like a knot." while in [the Depths](The_Depths.md).
+1.  "The Depths coil around your soul like a knot." while in [the Depths](The_Depths.md).
 2.  "The Void's influence draws you ever closer to the Depths." while in a [Voidzone](Voidzones.md).
 3.  "Your heart beats faster as the end draws near." while in a area that is not the Depths or a Voidzone and you are on your last live.
 4.  "Adrenaline surges into your veins as tensions thicken." while in a area that is not the Depths or a Voidzone and you have two lives left.

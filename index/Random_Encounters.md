@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 136288
+revid: 139596
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -157,9 +157,9 @@ Groups of bandits engage the guards of [Summer Isle](Summer_Isle.md) in various 
 
 A single Ministry scout, sitting around a campfire in Summer Isle, surrounded by the corpses of bandits. Killing them will reward you with EXP and the campfire will turn into a chest.
 
-#### Megalodaunt vs Red Megalodaunt
+#### Megalodaunt vs Crimson Megalodaunt
 
-Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event involving a regular Megalodaunt fighting its red variant. If left by themselves, the red one will always win. Red Megalodaunts have roughly 2x it's normal HP and being able to rain fire swords.
+Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event involving a regular Megalodaunt fighting its red variant. If left by themselves, the red one will always win. Red Megalodaunts have 3x it's normal HP and being able to rain fire swords.
 
 #### Meteor Isle Authority Raid
 

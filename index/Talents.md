@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139592
+revid: 139593
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2935,6 +2935,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Revenge, 100 Agility
 
 -   Maiming Claws \[Common Talent, Agility\] - Down Comes the Claw now disables your opponent's posture regeneration for 3s on proc. (+1 Passive Agility)
+    -   Applies to passive posture regeneration, Steady Nerves, and posture restoration from parrying. All other sources of posture restoration ignore Maiming Claws entirely.
     -   In the 30/05/2024 update, the duration of Maiming Claws was increased to 4s, but the Talent description was never updated.
     -   Prerequisites: 100 Agility, Down Comes the Claw
 
