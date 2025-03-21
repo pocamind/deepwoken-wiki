@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 132985
+revid: 139599
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -52,7 +52,7 @@ There are many means to obtain Notes, and some are better than others.
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) drops a good amount of items and is very close to an Antiquarian.
 -   [Saramaed Hollow](Saramaed_Hollow.md) drops items at a very fast rate and the dungeon itself contains an Antiquarian. You can either wait until the last few chests of the dungeon in order to pick up more valuable loot, or extract immediately after reaching max Carry Load from picking up all items.
 -   [Voidwalkers](Origins.md#voidwalker) specifically benefit from being able to access Antiquarians faster than other origins if farming [Primadon](Primadon,_Titan_of_the_East.md) or [The Ferryman](The_Ferryman.md) due to others being unable to access Guild Bases directly at their locations. The former drops a massive amount of items and the latter drops many high-value items. Bear in mind the Voideye cooldown, however.
--   Crypt of the Unbroken can be farmed extremely quickly, especially using an assassination-based build. Getting all 5 chests can take as little as 2 minutes if you know what you're doing. However, the rate you get items at is too fast for the Voideye cooldown, so unless you have a guild base with an antiquarian, it won't be as effective.
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can be farmed extremely quickly, especially using an assassination-based build. Getting all 5 chests can take as little as 2 minutes if you know what you're doing. However, the rate you get items at is too fast for the [Voideye](Origins.md#voidwalker) cooldown, so unless you have a [guild base](Guild_Bases.md) with an antiquarian, it won't be as effective.
 
 ##### Somewhat Efficient
 

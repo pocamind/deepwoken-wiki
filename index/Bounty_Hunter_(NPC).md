@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter (NPC)
-revid: 124931
+revid: 139603
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Bounty Hunters can be found during faction ambushes in place of members of that faction or [Cloaked Assassins](Cloaked_Assassin.md) when the player is not high enough level for them to spawn. They spawn in groups of three.
 
-A Bounty Hunter wears the unobtainable "Bounty Hunter" outfit along with the "Mercenary's Garb "with their [aspect](Aspects.md) varying.
+A Bounty Hunter wears the [Bounty Hunter](Bounty_Hunter.md) outfit along with the [Mercenary's Garb](<Mercenary's_Garb.md>) with their [aspect](Aspects.md) varying.
 
 ## Moves
 
