@@ -1,6 +1,6 @@
 ---
 title: "C'lantaa"
-revid: 139611
+revid: 139628
 source: https://deepwoken.fandom.com/wiki/C'lantaa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -19,8 +19,6 @@ categories: [Tiran NPCs, NPCs, NPCs located in the Second Floor of the Second La
 A [Tiran](Tiran.md) man found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) in a building with the teleporter to the tunnel near the vent into [The Sunken Railways](The_Sunken_Railways.md). He is wearing a [Hive Adjudicator](Hive_Adjudicator.md) outfit. Similar with other residents of the city, he is unable to recall his past aside from not having a well-off one. Gives general information about the denizens of the city and his theory about Ethiron controlling the [Kyrsans](Kyrsgarde.md).
 
 ## Dialogue
-
-hi
 
 <table><caption>Initiating Dialogue</caption>
 <tbody>
