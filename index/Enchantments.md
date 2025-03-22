@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 139629
+revid: 139664
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -83,7 +83,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a>. (Putting the Talent on cd too), negating all movement (7 second cooldown).<br>
+  <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a>. (Putting the Talent on cd too), negating all movement (7 second cooldown).<br>
   Deals Frost dmg on hit (normal frostdraw) or one crystal (Crystal).</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>
@@ -98,7 +98,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Detonationgif.gif<figcaption></figcaption></figure><center><br>
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
-  (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
+  (LHT: 5, MED: 4, HVY: 3)<br>
   times they explode, dealing an additional 17.5 damage to them and others around beside the user. The damage from explosions is not affected by damage modifiers and bypasses armor. The explosion doesn't knock them back. All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.<br>
   <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon turns orange, depending on material. Metal and Blade parts become a glowing orange that gives off particles.</div></td>
@@ -121,7 +121,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
-  After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
+  After hitting the target up to (LHT: 5, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
   The target is afflicted with <a href="Status_Effects.md#grim">Grim</a> for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.<br>
   Instead of making those affected take more damage, it buffs the damage of the person attacking them, meaning grim <b>is</b> affected by the damage modifier cap.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and light red aura.</div></td>
@@ -324,7 +324,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Rhaemens ember.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of Rhaemen's Ember<div></div></font></center></td>
   <td><div><p>Similar to <font>Detonation</font> and <font>Blazing</font>,<br>
-  After hitting a target (LHT: 6, MED: 4, HVY: 3)times they explode,<br>
+  After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode,<br>
   Apply <font>Flames of Life</font> and Temporary Health to them and others around beside the user.<br>
   The damage of explosion and amount of Temporary Health are randomized with the lowest explosion damage around 5 and highest around 50. Temporary Health gained are randomized from around 20 to 30. Similar to <a href="Ysley's_Pyre_Keeper.md">Ysley's Pyre Keeper</a>'s <font>Flames of Life</font>.<br>
   <b>Explosions cannot execute.</b><br>
@@ -336,10 +336,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbidden<div></div></font></center></td>
-  <td><div><p>Drains the target's ether on hit. This scales with your base damage.<br>
+  <td><div><p>Drains the target's ether on hit. This scales with your scaled damage.<br>
   <u><b>Steals 1 ether per 1.3 M1 dmg</b></u><br>
-  <u><b>ETHER DRAIN DEPENDS ON SCALED DMG(no dmg mods)</b></u><br>
-  Critical attack is replaced with a counter. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture.<br>
+  <u><b>ETHER DRAIN DEPENDS ON SCALED DMG (no dmg mods)</b></u><br>
+  Critical attack is replaced with a counter that, upon use, takes away 25% ether. (if available). Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture and refunding 15% ether.<br>
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
   Check Trivia for an explanation of its bugginess in PvE.</p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>

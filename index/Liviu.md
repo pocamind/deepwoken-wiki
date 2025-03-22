@@ -1,6 +1,6 @@
 ---
 title: Liviu
-revid: 137920
+revid: 139684
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs]

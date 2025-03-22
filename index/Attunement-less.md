@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139031
+revid: 139685
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -44,6 +44,8 @@ For example:
 4.  80+ points in Strength => Level 5 Strength Mantra.
 
 In short: Every 20 points in a specific attribute will unlock the next level for said Mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that Mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its Mantras aside from a bit of damage scaling.
+
+  
 
 ## Attribute Mantras
 
@@ -845,6 +847,48 @@ Enemy's Attack
  |
 | 
 
+**Neural Pathway** (☆☆☆)
+
+**Mobility Mantra**
+
+_Using your mind's eye, you force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you._
+
+ | 
+
+## Neural Pathway (☆☆☆)
+
+  
+**Mobility Mantra**  
+_Using your mind's eye, you force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+N/A
+
+ | 
+
+35 Intelligence
+
+ |
+| 
+
+**Effect:** _Teleport a short distance towards the direction you're moving._
+
+-   Upgrading the mantra decreases cooldown.
+-   15s cooldown at level 1, ?? cd at level 5.
+-   Can be used to clip through thin walls.
+-   No endlag, great as a gap closer.
+-   If not moving, you instead teleport towards the direction you're facing. You'll also teleport a smaller distance.
+-   Shares a cooldown with [Flame Leap](Flamecharm.md#flame-leap).
+
+ |
+| 
+
 **Summon Cauldron** (☆☆☆)
 
 **Support Mantra**
@@ -1147,6 +1191,49 @@ N/A
 
 -   Inflicts Charm on nearby entities.
 -   Can be modified with stratus stones to increase range.
+
+ |
+| 
+
+**Dread Whisper** (☆☆☆)
+
+**Support Mantra**
+
+_Grab your opponent and whisper a terrible truth in their ear. Further truths are unbearable. Deals increased damage to the insane._
+
+ | 
+
+## Dread Whisper (☆☆☆)
+
+  
+**Support Mantra**  
+_Grab your opponent and whisper a terrible truth in their ear. Further truths are unbearable. Deals increased damage to the insane._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+N/A
+
+ | 
+
+50 Charisma
+
+ |
+| 
+
+**Effect:** _User lunges at the opponent to grab them. When landed on a target, they hold them while whispering dark truths in their ear._
+
+-   Deals ?? damage, scaling slightly with how insane the opponent is. 10s cd.
+-   Inflicts Charm for 7.5s on hit.
+-   Bypasses block and is unventable, but is parryable.
+-   Bypasses dodge, still grabbing the opponent but dealing no damage. This is likely a bug.
+-   Shares a cooldown with [Clutching Shadow](Shadowcast.md#clutching-shadow).
+-   Does not apply insanity.
+-   Can be modified with Crystal/Perfect Lenses.
 
  |
 | 
@@ -1673,6 +1760,7 @@ Slash (1st Hit), Blunt (Kicks)
 
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
+-   Contrary to what's shown in the gif, the first hit does **not** have hyperarmor.
 -   Short Range
 -   At max level, the initial hit posture breaks
 

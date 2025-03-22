@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 139560
+revid: 139674
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -292,7 +292,7 @@ There are **13** images, be warned
     -   It takes ~80 parries to kill Primadon without damaging him.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
--   It would take roughly 15-35 cannonballs alone to kill the Primadon, depending on your weapon's damage.
+-   It would take roughly ??-?? cannonballs alone to kill the Primadon, depending on your weapon's damage.
 -   As of 3/29/2024, Primadon was slightly tweaked to have a bluer color scheme.
     -   The purple "nose" is due to developer Arch\_Mage explaining how primates flip their lips.[\[1\]](#cite-note-1)
 -   Primadon, during Verse One, stood at a height of 25 meters (81 feet)

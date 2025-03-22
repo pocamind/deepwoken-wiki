@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 139580
+revid: 139662
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -324,6 +324,8 @@ Blunt
 | 
 
 **Effect:** _Burrow into the ground, giving invincibility for its duration. Click to cancel the Mantra and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) '**Burrow'**._
+
+-   Shares a cooldown with [Shade Step](Shadowcast.md#shade-step) and [Sanguine Dive](Bloodrend.md#sanguine-dive).
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 139161
+revid: 139688
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -766,7 +766,7 @@ Ice
 
 ### Glass Path: Crystallization Mantras
 
-Having the Attunement Path Talent **Glass Path: Crystallization** unlocks new Mantras, something unseen among other Attunement Paths.
+Having the [Attunement Path](Attunements.md#alternative-paths) Talent **Glass Path: Crystallization** unlocks new Mantras, something unseen among other Attunement Paths.
 
 | 
 **Name**

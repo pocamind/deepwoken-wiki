@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 139579
+revid: 139686
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -421,9 +421,6 @@ Shadow
 **Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and Ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit._ "Hit em with a scream!"
 
 -   Deals 86.08 (10.76\*8) DMG, 28 (3.5\*8) posture, 0.6s windup,
-
-16s CD.
-
 -   With 6 songchant 95.84 (11.98\*8) DMG
 -   Has 9.183x PVE scale (10.76 PVP DMG, 98.81 PVE)
 
@@ -655,8 +652,9 @@ Shadow
 -   Deals 31.1 (34.61 with 6 songchant) DMG, 14.5 posture, 12s CD
 -   Has 9.178x PVP scale (31.1 DMG PVP, 285.46 PVE)
 -   While submerged you have I-Frames.
--   You can't block or parry while submerged.
+-   You can't block, parry, or jump while submerged.
 -   NPCs can spot you underground.
+-   Shares a cooldown with [Sanguine Dive](Bloodrend.md#sanguine-dive) and [Beast Burrow](Monster_Mantras.md#beast-burrow).
 -   Can't be modified.
 
  |

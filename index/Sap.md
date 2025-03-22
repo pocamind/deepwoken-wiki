@@ -1,6 +1,6 @@
 ---
 title: Sap
-revid: 135725
+revid: 139681
 source: https://deepwoken.fandom.com/wiki/Sap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Uses, Ingredients, Harvestables]
@@ -20,7 +20,7 @@ categories: [Uses, Ingredients, Harvestables]
 
 ## Description
 
-**Sap** is an [Ingredient](Ingredients.md) in Deepwoken. It is found on any kind of trees, and looks like a small, yellow liquid coming out of the tree. It can be harvested all-year round. It is used frequently in recipes, specifically food items that require sweetness. It also gives the strongest negative speed buff and the strongest positive Ether regen buff.
+**Sap** is an [Ingredient](Ingredients.md) in Deepwoken. It is found on any kind of trees, and looks like a small, yellow liquid coming out of the tree. It is used frequently in recipes, specifically food items that require sweetness. It also gives the strongest negative speed buff and the strongest positive Ether regen buff.
 
 For more information, read [Alchemy](Alchemy.md) and [Ingredients](Ingredients.md).
 
@@ -35,7 +35,7 @@ For more information, you can read [Food](Food.md).
 
 ## Trivia
 
--   Sap cannot be found during the Summer.
+-   Sap cannot be found during the Winter.
 -   The model when you are holding sap is just a translucent, orange block.
 -   Sap can be harvested on the main tree in [Greathive Aratel](Greathive_Aratel.md).
 -   **(Patched)** ~Up to 20 Sap can be harvested by going to [Boatman's Watch](<Boatman's_Watch.md>), entering [The Ferryman](The_Ferryman.md)'s instance and harvesting the sap behind the teleporter.~

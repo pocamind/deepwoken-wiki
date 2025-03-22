@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 139574
+revid: 139687
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -59,8 +59,6 @@ Bloodrend Unbound can be obtained by defeating any humanoid boss (Duke, Chaser, 
 ## Mantras
 
 Bloodrend currently has a total of 17 mantras.
-
-  
 
 ### Combat Mantras
 
@@ -692,7 +690,7 @@ Blood
 -   Deals 47.84 (53.25 with 6 songchant) DMG, 16.5 posture, has 14s CD at 5 lvl
 -   Has 9.18x PVE scale (47.84 PVP, 439.17 PVE DMG)
 -   Leaves behind a Blood Pool
--   Mantra is similar to that of [Beast Burrow](Monster_Mantras.md#beast-burrow) and [Shade Step](Shadowcast.md#shade-step)
+-   Shares a cooldown with similar Mantras [Beast Burrow](Monster_Mantras.md#beast-burrow) and [Shade Step](Shadowcast.md#shade-step)
 -   While this mantra is active, you can **reload** your gun (1H) inside of it
 -   Has a shorter windup if used while user is standing on a Blood Pool
 -   Feinting it still leaves a Blood Pool, allowing you to effectively place one for free. (Still costs Ether)
