@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 139582
+revid: 139641
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", Children of Navae, Bows]
@@ -12,10 +12,10 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-At
 |---|---|
 | type | Bow |
 | requirements | 75 MED, 25 MND |
-| damage | 14 |
+| damage | 15 |
 | scaling | MED : 10 / MND : 3 |
 | range | 12 |
-| swing speed | 1.05x |
+| swing speed | 1x |
 | special effect | M1s cost Ether |
 | stances | 2 Handed |
 | weight | 5 |
@@ -50,7 +50,7 @@ The user slightly lowers down and fires three explosive Ether arrows in quick su
     -   Both bows featured the same model & appearance, but only the arrow is missing.
 -   This is currently the only weapon that requires and scales off Mind.
     -   The description on the Guiding Star claims that previous users of the weapon had 'talked', and were guided through their trail, with the bow, hinting at it potentially having some power with soul 'magic'.
--   This weapon deals 24.4 damage at 75 MED and 25 MND with 3 PROF; 28.4 damage at 100 MED and 50 MND with 3 PROF; 32.2 damage at 100 MED and 60 MND with 6 PROF.
+-   This weapon deals 26.1 damage at 75 MED and 25 MND with 3 PROF; 30.5 damage at 100 MED and 50 MND with 3 PROF; 33.5 damage at 100 MED and 60 MND with 6 PROF.
 -   The Guiding Star is the first and (currently) only Bow in the game.
 -   The Aranea, seen in its accidental debut
     

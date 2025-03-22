@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 139457
+revid: 139639
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Glacial Lionfish are the product of an unknown phenomena, which will cause the genetic makeup of creatures in the world to experience certain mutations, granting them unique traits that is atypical to their biology. The Glacial Lionfish is one such example, with the mutation causing them to be in-tune with [Frostdraw](Frostdraw.md).
+Glacial Lionfish are the product of an unknown phenomena, which will cause the genetic makeup of creatures in the world to experience certain mutations, granting them unique traits that is atypical to their biology. The Glacial Lionfish is one example, with the mutation causing them to be in-tune with [Frostdraw](Frostdraw.md).
 
 Glacial Lionfish only features a primarily white coloring and blue blank eyes. In addition, it is observed that Glacial Lionfish may utilize [Frostdraw](Frostdraw.md) by invoking the Song through its attacks, causing them to inflict Chilling, and in the case of its Cero attack, gain a blue coloration and leave ice where it lands.
 

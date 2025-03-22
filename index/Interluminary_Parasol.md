@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 138829
+revid: 139638
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -69,7 +69,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><b>Expert</b>: <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a></li>
-    <li><b>Master</b>: <a href="Vigil_Sentinel.md">Vigil Sentinel</a></li>
+    <li><b>Master</b>: <a href="Vigil_Sentinel.md">Vigil Sentinel</a>, <a href="Jade_Vigil's_Weave.md">Jade Vigil's Weave</a></li>
   </ul></td>
 </tr>
 <tr>

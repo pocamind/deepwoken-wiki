@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 138994
+revid: 139636
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -113,6 +113,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 ## Trivia
 
 -   The Mental Fortress [Talent](Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
+-   Sudaruska's Fury counts as a non-Oath mantra, and can be used by your Shaper Clone, under the name "IceStorm".
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
     -   Dexerius was thought to have taken inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series, but this was proven false.
 -   On 20th of September 2024, Visionshaper received a rework that removed Illusory Realm for Mirror Illusion, and changed the behavior of Shaper Clones.
