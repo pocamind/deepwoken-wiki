@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 138888
+revid: 139709
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -144,7 +144,7 @@ Based on the power of the user(s), the starting wave will differ;
 **\*CORPSE EXPLOSION MODIFER\***
 
  | 2 Corrupt Bounders | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. |
-| 26 ("Can I kick it? (Yes you can!)") | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts | Best to position yourself in a corner to reduce the constant knockback. |
+| 26 ("The Kick Duo") | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts | Best to position yourself in a corner to reduce the constant knockback. |
 | 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers, 1 Corrupt Mudskipper Brute. |  |
 | 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Nautilodaunt. |  |
 | 29 (Red Lobster All-You-Can-Eat) | 1 Corrupt Crimson Megalodaunt, 1 Corrupt Glacial Lionfish, 1 Corrupt Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
@@ -170,7 +170,7 @@ Based on the power of the user(s), the starting wave will differ;
 Alternatively, if you're using Corrupt Payback, you can get rid of most of the mobs at once. Having the talent Grand Feast is highly recommended here as you can still heal a small amount per kill.
 
  |
-| 40 (The Enemies are still MASSIVE) | 1 Corrupt Attuned Deep Widow, 1 Corrupt Attuned Blizzard Knight, 1 Attuned Enforcer, 1 Corrupt Attuned Bonekeeper | It's best to get rid of the Enforcer and Deep Widow first as they're more fragile than the Blizzard Knight and the Bonekeeper and they can provide a useful healthpack while fighting the Blizzard Knight. |
+| 40 (Sleeping Giants) | 1 Corrupt Attuned Deep Widow, 1 Corrupt Attuned Blizzard Knight, 1 Attuned Enforcer, 1 Corrupt Attuned Bonekeeper | It's best to get rid of the Enforcer and Deep Widow first as they're more fragile than the Blizzard Knight and the Bonekeeper and they can provide a useful healthpack while fighting the Blizzard Knight. |
 | 41 (Celtor's Reminiscence) | 12 Corrupt Tideknight Songseekers, 2 Corrupt Shadowmeld Deep Owls | Do NOT underestimate the Tideknights, they can easily gang up on you and do heavy damage with their mantras, plus adding on with their corrupted, and attuned nature, it'll be harder to attack them. Try your best to guard break them, and hit them with multi hits. The Tideknights **can** be attuned despite not being monsters. Furthermore, it's best to target the Flame Tideknight Songseekers first as, if you are not careful, they can fully charge 3 Flame Ballistas and do ungodly amounts of damage. |
 | 42 (Shadow Wizard Money Gang)
 

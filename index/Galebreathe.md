@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 139678
+revid: 139711
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -799,6 +799,7 @@ Wind + Slash
 **Effect:** _Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled._
 
 -   Deals 65.18 (72.55 with 6 songchant) DMG, 16.5 posture, 0.95s windup (0.6s to teleport, 0.35s wait time to hit after teleport), 12s cd at 5 lvl.
+-   Decreases in range as your health gets lower.
 -   Travels half as far if there's no enemy in its path.
 -   Can be modified with Crystal/Perfect Lenses to increase the distance travelled, making it a very useful tool for horizontal mobility.
 -   Can be used to clip through walls while in [The Second Layer](Second_Layer.md)

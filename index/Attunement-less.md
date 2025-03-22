@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139685
+revid: 139717
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1021,7 +1021,7 @@ _Opponents facing you are briefly rendered immobile._
  |
 | 
 
-100
+100 Ether
 
  | 
 
@@ -1232,7 +1232,10 @@ N/A
 -   Bypasses block and is unventable, but is parryable.
 -   Bypasses dodge, still grabbing the opponent but dealing no damage. This is likely a bug.
 -   Shares a cooldown with [Clutching Shadow](Shadowcast.md#clutching-shadow).
--   Does not apply insanity.
+-   Does **not** apply insanity,
+
+"Getting hit during the grab doesn't cancel the mantra, so be careful when using it around multiple enemies.
+
 -   Can be modified with Crystal/Perfect Lenses.
 
  |

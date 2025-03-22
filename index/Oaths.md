@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 139634
+revid: 139706
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -232,8 +232,6 @@ Proof of Time Magic's existence and it being an "Oath"
 
 ## Trivia
 
--   It's possible to obtain every Oath on a single character without wipeing by using [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) and [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wishes from [Misérables](Misérables.md)
-    -   This was confirmed on March 21st, 2025 when Deepwoken Content Creator Always\_Afk released his Oathbreaker Abridged video.
 -   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true. A Pathfinder is merely treated as being without an Oath for gameplay purposes, as _[Oathless](Oath%253A_Oathless.md)_ cannot be used as a term given it is an actual Oath.
     -   Probably because "Person without an Oath" would be too long to fit onto a Wanted Poster.
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.

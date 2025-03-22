@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 139699
+revid: 139701
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1808,7 +1808,6 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The names "Edward" and "Alphonse" are references to the anime and manga series [Fullmetal Alchemist](https://fma.fandom.com/wiki/Main_Page).
 -   The name Adolin was removed due to its similarity with [a certain Austrian painter in the 1940s](https://en.wikipedia.org/wiki/Adolf_Hitler).
 -   The name "Hawk" was removed due to being used to reference "Hawk Tuah".
--   The name "Halflight" is a reference to a skill in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) which shares the same name, very disco.
 -   Most names added after the release of the game are available in all three gender categories. This is likely a bug.
 -   If you don't have a valid aspect, you don't have a last name. If you have a valid aspect but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
 -   Random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
@@ -1818,9 +1817,11 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The names "Omar" and "Olie" are references to community members omar\_io and Olieware respectfully, the latter of whom suggested the idea of the [Flamecharm](Flamecharm.md) Mantra Flame Ballista.
 -   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The names "Usopp", "Luffy" and "Alvida" are references to the anime and manga series, [_One Piece._](https://onepiece.fandom.com/)
-    -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only Ussop was added.[\[1\]](#cite-note-1) Alvida and luffy were added much later
--   The names "Solaire", "Ornstein", "Smough", "Seath", "Patches", "Artorias", "Gwyn", "Wolnir", "Aldrich", "Oceiros", "Lorian", "Lothric", "Midir", and "Gael", are a reference to various characters from the _Dark Souls_ series.
+    -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only Usopp and Kaido were added initially.[\[1\]](#cite-note-1) Alvida and Luffy were added much later.
+-   The names "Solaire", "Ornstein", "Smough", "Seath", "Patches", "Artorias", "Gwyn", "Wolnir", "Aldrich", "Oceiros", "Lorian", "Lothric", "Midir", "Halflight", and "Gael", are references to various characters from the _Dark Souls_ series.
     -   Initially, the name "Ornstein" was _**incorrectly**_ spelled as "Orstein."
+    -   The names Shabriri, Vyke, Maliketh, Godrick, and Godfrey are references to _Elden Ring_, a spiritual successor to _Dark Souls_.
+    -   The name "Halflight" could also potentially a reference to a skill in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) which shares the same name, very disco.
 -   The name "Kamina" is a reference to the popular [Gurren Lagann](https://gurrenlagann.fandom.com/wiki/Kamina) character of the same name.
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
     -   Funnily enough, they are both technically the same person.
@@ -1844,7 +1845,6 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
     -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from _[Hamlet](https://en.wikipedia.org/wiki/Hamlet)_.
     -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from _[Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet)_.
     -   Agrippa and Demetrius are from _[Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra)_.
--   The name Ulysses is a reference to a novel of the same name by James Joyce.
 -   The name Sashenka may be a reference to a novel of the same name by Simon Sebag Montefiore.
 -   The names Frieren, Stark, and Fern are a reference to the manga and anime series, _[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren)_.
 -   The name Wanderer is a reference to the [Genshin Impact](https://genshin.hoyoverse.com/en/) character, Scaramouche.
@@ -1861,7 +1861,6 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The name Kiyoko may be a reference to the anime and manga series, Haikyu.
 -   The name Sisyphus is a reference to the ancient Greek myth of Sisyphus, who was doomed to forever train FTD using a Boulder
 -   The name Minos is also a reference to Greek mythology.
--   The names Shabriri, Vyke, Maliketh, Godrick, and Godfrey are references to _Elden Ring_.
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
 -   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in. John Doe is a placeholder name when the true name of a person is unknown or purposefully hidden.
@@ -1873,7 +1872,6 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The names Phos, Cinnabar, Rutile, Antarc, and Padparadscha are references to the anime and manga series, [Land of the Lustrous](https://en.wikipedia.org/wiki/Land_of_the_Lustrous).
 -   The names Montresor and Fortunato are a reference to The Cask of Amontillado, a story by Edgar Allan Poe.
 -   The name "Orpheus" is a reference to the "Master of Strings" of the same name from Greek Mythology, and could possibly be a reference to [Orpheus from the Persona series](https://megamitensei.fandom.com/wiki/Orpheus)
--   The names "Mario" and "Luigi" are references to Mario and Luigi from the [Mario series](https://en.wikipedia.org/wiki/Super_Mario)
 -   The names "Maras" and "Nosfa" are references to Fallen World; a game being created by InnerTenacity
 -   There are repeatable names, due to the same name being a selectable first and last name. Something like Regulus Regulus.
 -   The name "Crona" might be a reference to Crona from [Soul Eater](https://souleater.fandom.com/wiki/Crona).

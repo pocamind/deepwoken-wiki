@@ -1,6 +1,6 @@
 ---
 title: District of Commerce
-revid: 106573
+revid: 139704
 source: https://deepwoken.fandom.com/wiki/District_of_Commerce
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, Lost Celtor]
@@ -14,7 +14,7 @@ LocationL District of Commerce LocationR
 
 TERRITORY OF Lost Celtor
 
-The corridors of trade have been hulled out and replaced with the endless procession of the lost.
+The heart of the city's trade, whose streets once brimmed with exuberance and life, now only plies its own share of miseries, tragedies, and long-nursed agonies.
 
   
 
