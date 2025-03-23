@@ -1,8 +1,9 @@
 ---
 title: "Seamaster's Cap"
-revid: 139782
+revid: 139789
 source: https://deepwoken.fandom.com/wiki/Seamaster's_Cap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Head, Hats, Items]
 ---
 
 # Seamaster's Cap
@@ -14,22 +15,19 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | selling price | 25 |
 | requirements | N/A |
 | weight | 1 |
-| innate stats | +1 Posture |
-| innate talent | N/A |
+| innate stats | +1 Posture, +1 Legendary Pip |
+| innate talent | Seamaster's Guile |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Voidsea |
+| obtainment | Voidsea events, Moon's Eyrie |
 | description | Ten thousand thundering typhoons! |
 
 ## Description
 
-Seamaster's Cap
+The Seamaster's Cap is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants you 1 Posture, 1 Legendary Pips, and the [Talent](Talents.md#equipment-talents) 'Seamaster's Guile'. This equipment is currently bugged and does not grant any talent.
 
-captains hat with a anchor!! (ooh aahhh) Probably based off of blind obsession Ishmael limbus who knows!!
+## Trivia
 
-  
-hey guys i dont know how to work fandom just put the image in the thing or smth
-
-39394O441102 was here!!!!
+-   The Seamaster's Cap was supposed to release with its Talent, but due to a bug, the Talent was not present on the equipment when it was first added.

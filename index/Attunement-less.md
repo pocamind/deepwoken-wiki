@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139745
+revid: 139812
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1226,7 +1226,7 @@ N/A
  |
 | 
 
-**Effect:** _User lunges at the opponent to grab them. When landed on a target, they hold them while whispering dark truths in their ear._
+**Effect:** _User lunges at the opponent to grab them. On contact with a target, they hold them while whispering dark truths in their ear._
 
 -   Deals ?? damage, scaling slightly with how insane the opponent is. 10s CD.
 -   Inflicts Charm for 7.5s on hit.
@@ -1235,7 +1235,6 @@ N/A
 -   Shares a cooldown with all grab mantras.
 -   Does **not** apply insanity,
 -   Getting hit during the grab doesn't cancel the mantra, so be careful when using it around multiple enemies.
--   Shsres a cooldown with [Clutching Shadow](Shadowcast.md#clutching-shadow).
 -   Can be modified with Crystal/Perfect Lenses.
 
  |

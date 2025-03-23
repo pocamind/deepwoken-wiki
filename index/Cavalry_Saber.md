@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 139772
+revid: 139788
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons]
@@ -42,3 +42,4 @@ Perform a flurry of quick slashes without losing momentum. Hits 4 times.
 -   At max MED, the damage is (28.9)
     -   At max MED when alloyed, the damage is (31.8)
 -   It is nearly identical to and interchangeable with the [Officer Saber](Officer_Saber.md).
+-   This weapon shares a critical with the [Officer Saber](Officer_Saber.md).

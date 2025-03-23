@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 139088
+revid: 139790
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1377,6 +1377,26 @@ Found from:
 -   [First Layer](First_Layer.md)
 
  | Guard's, Royal Guard's, Captain's |
+|  | 
+
+[Seamaster's Cap](<Seamaster's_Cap.md>)
+
+ | 
+
+_+1 Posture_
+
++1 Legendary Pip
+
+_+Talent: Seamaster's Guile_
+
+ | 
+
+Found From:
+
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
+-   [Voidsea](Voidsea.md) events
+
+ | N/A |
 |  | 
 
 [Simmerbloom Diadem](Simmerbloom_Diadem.md)

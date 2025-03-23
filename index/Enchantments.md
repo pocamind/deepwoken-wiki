@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 139664
+revid: 139783
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -734,7 +734,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 
  |
 
-## dhangelogs
+## Changelogs
 
 -   **January 2, 2022** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
 -   **February 18, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.

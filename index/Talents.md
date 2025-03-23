@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139742
+revid: 139801
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3423,6 +3423,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Your flourish timer lasts longer with fists.
     -   Increases your flourish timer while using [Fists](Fists.md) from 2 seconds to 3 seconds.
+-   Fleetfoot: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 10% armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
 -   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
@@ -3452,6 +3453,20 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Also available as a common Talent.
 -   Merchant's Accord: [Merchant Robes](Merchant_Robes.md) - Merchants and Antiquarians will do business with you no matter how poor your reputation is.
     -   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Origins.md#deepbound) or [Ignition Delver](Origins.md#ignition-delver).
+-   Mocking Favor: [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>) - When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)
+    -   Grants a random buff or affliction whenever you spit.
+    -   List of buffs being:
+        -   [Visionshaper](Oath%253A_Visionshaper.md) invisibility from the Cheap Trick Talent for a short duration.
+        -   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Attunement-less.md#reinforce)'s vfx.
+        -   30% Posture restoration. Indicated by a metal clanging sound effect.
+        -   A free reroll, granting you an additional buff or affliction.
+        -   One 0 cost Mantra, this affects your allies as well. Indicated by a dark blue [Reinforce](Attunement-less.md#reinforce)\-like vfx.
+        -   A percentage of the damage you've taken recently will be turned into healing.
+        -   Vent cooldown reset, allowing you to Vent again.
+    -   List of afflictions being:
+        -   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s.
+        -   Suffocation applied to self for a few seconds.
+        -   Lowers your Swingspeed. Indicated by black 'x' marks coming off of your body.
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Wielding a katana with this outfit grants extra damage.
     -   Increases _[Katana](Katana.md)_ damage by 25%.
     -   Increases _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md#alloyed)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
