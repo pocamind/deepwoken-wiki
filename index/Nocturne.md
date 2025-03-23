@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 138167
+revid: 139728
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapons", Moonseye]
@@ -28,23 +28,26 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapo
 
 ## Description
 
-The **Nocturne** is a dual-wielded medium weapon found in the [Moon's Eyrie](<Moon's_Eyrie.md>) island located east of the compass in the Eastern Luminant, the [Dread Serpent](Dread_Serpent.md), or other Voidsea events. It is a common drop from a [Moon Knight](Moon_Knight.md)'s boss chest. This weapon deals 30.4 damage at 100 Medium and deals 34.8 damage with the added 6 proficiency meaning it deals 36.9 with three-star damage.
+The **Nocturne** is a dual-wielded medium weapon found at the [Moon's Eyrie](<Moon's_Eyrie.md>), east of the compass in the Eastern Luminant, the [Dread Serpent](Dread_Serpent.md), or other Voidsea events. It is a common drop from a [Moon Knight](Moon_Knight.md)'s chest.
+
+This weapon deals 30.4 damage at 100 Medium and deals 34.8 damage with the added 6 proficiency meaning it deals 36.9 with three-star damage.
 
 ## Critical
 
-Stabs your opponent in a short range after a very slow wind-up and applies a [Moonseye](Moonseye.md) symbol on them, applying through block, parry, and on hit, pressing M1 immediately after it will perform a follow-up attack, teleports after them and dealing heavy damage.
+The user stabs the opponent in a short range after a very slow wind-up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) on hit while bypassing the opponent's parry and block. The user can respond with a follow-up M1 after the initial hit, stepping back from the target and unleashing a horizontal split. The followup M1 will deal the same damage as the initial hit.
 
 Can be cancelled by damage in wind-up.
 
 ## Trivia
 
 -   Nocturne originates from the game [Kill Simulator](https://www.roblox.com/games/13997333541/Kill-Simulator) by Toons Incorporated.[\[1\]](#cite-note-1)
--   When enchanted, only one blade will appear with the effect. This is a visual bug and does not change how the weapon or enchant performs in battle. (Fixed as of 10/26/2024.)
--   Nocturne can be equipped with a side weapon but the side weapon will not visually appear on the character.
+-   Prior to the 10/26/2024 update, enchantments put on Nocturne applied to only one blade instead of two.
+-   Nocturne can be equipped with an offhand tool, but will not visually appear on the character.
 -   The Nocturne uses the same stance as the two handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 -   Nocturne was created on July 6th, 2023 which can be fact checked by viewing the date the mesh was created.[\[2\]](#cite-note-2)
     -   At the same time the Nocturne was published, a sheath model was also made.
--   If you wielded a singular weapon two-handed before equipping Nocturne, only one blade will appear, but the weapon will still be in a dual-wield stance. This is a visual bug and does not affect the performance of the weapon.
+    -   The sheathe is visible when the Obfuscation or Curse of Yun'Shul enchant is applied on this weapon.
+-   If you wielded a singular weapon two-handed before switching to Nocturne, only one blade will appear, but the weapon will still be in a dual-wield stance. This is a visual bug and does not affect the performance of the weapon.
 
 ## References
 

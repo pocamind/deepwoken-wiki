@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Solitude
-revid: 138451
+revid: 139725
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Solitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -28,7 +28,7 @@ Located in [Trial of One](../Trial_of_One.md), [Temple of Hearts](../Temple_of_H
 
 This shrine acts like a [Mystic](../Mystic.md), allowing you to affect your card draws.
 
-In all other cases, this shrine does nothing. Does NOT progress towards the [Contractor Oath](../Oath%253A_Contractor.md) when a deal is made.
+In all other cases, this shrine does nothing. Does NOT progress towards the [Soulbreaker](../Oath%253A_Soulbreaker.md) when a deal is made.
 
 ### Details
 

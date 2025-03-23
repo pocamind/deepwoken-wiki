@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 139597
+revid: 139732
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -213,6 +213,7 @@ Once you face death in The Depths and your health goes down to 0%, if you have m
 -   **You will be healed to 100%.**
 -   **Your Blood, Thirst and Hunger meters will be replenished.**
 -   **Your [Sanity](Insanity.md) will be fully replenished**
+-   **You will get 5** [Knowledge](Knowledge.md)
 -   **Finally, a hand of 3 cards (4 if you have [Oscillator](Regalia.md)) will appear before you, with each card providing their name, rarity, and a brief description of what they do.** Deep magenta cards indicate a **Corrupted Resonance**, light gold cards are **Legendary**, while light lavender cards are **Drowned**.
 
 Once you select your card, using C will activate your **Resonance**.

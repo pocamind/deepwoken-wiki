@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139593
+revid: 139730
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1215,9 +1215,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I feel like a warrior encased in ice."**_
 
 -   _Frozen Legs_ \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling.
-    -   Works with Crystallization.
+    -   Does not work with Crystallization.
     -   Lasts the first 1.5 seconds after chill/freeze procs.
-    -   Only procs off mantras
+    -   Only procs off mantras.
     -   Prerequisite: 60 Frostdraw.
 
 ### Gale Duelist

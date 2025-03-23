@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 139559
+revid: 139724
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1870,7 +1870,7 @@ Puppets turn purple if they've been alive for 15 seconds, signifying that they o
 -   The **Flame Sentinel** Mantra is likely a reference to the "[Life Detector](https://jojowiki.com/Magician%27s_Red#Life_Detector)" technique from the Stand "Magician's Red" from _JoJo's Bizarre Adventure_, which can detect lifeforms manifesting as a floating flame candelabrum.
 -   The **Flaming Scourge** Mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from _One Piece_ called Buzzcut Mochi.
 -   The **Flame Ballista** and **Flame Repulsion**'s spring spark variant are references to _Jujutsu Kaisen_.
-    -   **Flame Ballista** is Sukuna's Fire Arrow [\[1\]](#cite-note-1), and **Flame Repulsion**'s spark takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Limitless).
+    -   **Flame Ballista** is Sukuna's "[Fuga](https://jujutsu-kaisen.fandom.com/wiki/Shrine#Divine_Flame)" [\[1\]](#cite-note-1), and **Flame Repulsion**'s spark takes inspiration from Gojo's [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Technique_Reversal:_Red).
 -   There used to be a Mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player procs "Meteor Impact" on another Flamecharm user who also has the Talent, should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
     -   Meteor Impact used to also apply to Uppercutting and had a range multiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.
