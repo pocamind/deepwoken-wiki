@@ -1,9 +1,9 @@
 ---
 title: Tanto
-revid: 138731
+revid: 139761
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Alloyed Weapons]
+categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals]
 ---
 
 # Tanto
@@ -28,9 +28,13 @@ categories: [Weapons, Daggers, Alloyed Weapons]
 | obtainment | Chests from:, Starswept Valley, The Depths, Rogue Construct, Chime of Conflict, Dread SerpentAlloyed:, Alloying a Tanto, Chime of Conflict |
 | description | "A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile." |
 
-#### Description
+### Description
 
 The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. it is noticeably slower than most of the other daggers, with a swing speed of 1.13. For comparison, the [Krulian Knife](Krulian_Knife.md) has a swing speed of 1.25x. To make up for its lack of speed, it outranges most other daggers in the game. This weapon can also be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md).
+
+## Critical
+
+A short windup before jumping in the air and slashing forwards in a cartwheel-like motion.
 
 ### Damage
 

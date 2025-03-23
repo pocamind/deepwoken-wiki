@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 139686
+revid: 139744
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -110,7 +110,7 @@ Shadow + Slash (Grab), Blunt (Slam)
 -   With 6 Songchant 63.9 (53.25+10.65) DMG
 -   Grab has 9.18x PVE scale, Slam has 59.47x PVE scale (47.84 DMG grab + 9.57 slam PVP, 439.17 DMG grab + 569.17 slam PVE)
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
--   It has a cooldown of 12 seconds.
+-   Shares a cooldown with [Dread Whisper](Attunement-less.md#dread-whisper).
 
  |
 | 

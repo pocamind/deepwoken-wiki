@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139736
+revid: 139745
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -882,7 +882,8 @@ N/A
 -   Upgrading the mantra decreases cooldown.
 -   15s cooldown at level 1, ?? cd at level 5.
 -   Can be used to clip through thin walls.
--   No endlag, great as a gap closer or as a back step.
+-   Can be used to cancel fall damage
+-   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
 -   If not moving, you instead teleport towards the direction you're facing. You'll also teleport a smaller distance.
 -   Shares a cooldown with [Flame Leap](Flamecharm.md#flame-leap).
 
@@ -1227,13 +1228,14 @@ N/A
 
 **Effect:** _User lunges at the opponent to grab them. When landed on a target, they hold them while whispering dark truths in their ear._
 
--   Deals ?? damage, scaling slightly with how insane the opponent is. 10s cd.
+-   Deals ?? damage, scaling slightly with how insane the opponent is. 10s CD.
 -   Inflicts Charm for 7.5s on hit.
 -   Bypasses block and is unventable, but is parryable.
 -   Bypasses dodge and parry, still grabbing the opponent but dealing no damage. This is likely a bug.
 -   Shares a cooldown with all grab mantras.
 -   Does **not** apply insanity,
 -   Getting hit during the grab doesn't cancel the mantra, so be careful when using it around multiple enemies.
+-   Shsres a cooldown with [Clutching Shadow](Shadowcast.md#clutching-shadow).
 -   Can be modified with Crystal/Perfect Lenses.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139730
+revid: 139742
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2929,10 +2929,10 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Procs even if Revenge is blocked, parried, dodged, or vented.
-    -   Prerequisites: Revenge (Agility Mantra), 90 Agility
+    -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 90 Agility
 
 -   Crippling Comeuppance \[Common Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
-    -   Prerequisites: Revenge, 100 Agility
+    -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 100 Agility
 
 -   Maiming Claws \[Common Talent, Agility\] - Down Comes the Claw now disables your opponent's posture regeneration for 3s on proc. (+1 Passive Agility)
     -   Applies to passive posture regeneration, Steady Nerves, and posture restoration from parrying. All other sources of posture restoration ignore Maiming Claws entirely.
