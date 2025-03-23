@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 139787
+revid: 139826
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals]
@@ -24,7 +24,7 @@ categories: [Pages with broken file links, Weapons, Swords, Weapons of The Centr
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, The Depths, Dread SerpentTemplate:AlloyedColor, Alloying an Officer Saber, Moon's Eyrie, Duke Erisia |
+| obtainment | Fort Merit, The Depths, Dread Serpent, Chime of ConflictTemplate:AlloyedColor, Alloying an Officer Saber, Moon's Eyrie, Duke Erisia |
 | description | "The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 139503
+revid: 139824
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -78,7 +78,7 @@ Swords, Clubs, Twinblades, Spears, Bows
 
  | 
 
-Swords, Clubs, Twinblades, Spears, Bows
+Swords, Spears
 
  |
 | 

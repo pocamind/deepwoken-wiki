@@ -1,6 +1,6 @@
 ---
 title: Disguise
-revid: 43773
+revid: 139839
 source: https://deepwoken.fandom.com/wiki/Disguise
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Mime](Mime.md)
+-   [Attunement-less#Disguise](Attunement-less.md#disguise)

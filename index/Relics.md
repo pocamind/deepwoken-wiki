@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 138768
+revid: 139828
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Items, Equipment]
 
 _**FOREWORD**: **An up-to-date spreadsheet with drop locations for all Relics can be found [\[here\]](https://docs.google.com/spreadsheets/d/1gRiACBmfImek5k7PyVQ2ixDm5or5T20hecZ6fS6KLW4/edit?usp=sharing)**_
 
-“ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed. ”
+“ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, seeming almost ashamed. ”
 
 ― First Usage of Mooneye's Tome
 
@@ -293,6 +293,16 @@ This has a 6 second cooldown and charges cannot be stacked.
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
  |
+| 
+
+File:EnmityMantle.png
+
+ | Mantle Of Enmity - A set of wing resembling those of [The Heart Of Enmity](Heart_of_Enmity.md), Grants the talent "Heartwing Beat" which transforms your aerial attack to a double hit  
+hyperarmor slash that applies wither on hit. Which deals 22.5 damage on base and will scale according to your currently held weapon. | 
+
+-   [Heart of Enmity](Heart_of_Enmity.md)
+
+ |
 
 ### Weapon Relics
 
@@ -432,6 +442,6 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 
 ## Trivia
 
--   All Relics are storeable in banks, which means you can transfer them between slots. However, they do require a Vow of Safekeeping, which costs 1 knowledge to make.
+-   All Relics are storeable in banks (excluding the Mantle Of Enmity), which means you can transfer them between slots. However, they do require a Vow of Safekeeping, which costs 1 knowledge to make.
 -   Some relics (Smith’s Alloy, Sinner’s Ash, Moonseye Tome, Idol of Yun’Shul) were ideas by the YouTuber Agamatsu.
 -   Video: [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)

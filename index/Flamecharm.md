@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 139743
+revid: 139850
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -938,7 +938,7 @@ _Undying flame._
  |
 | 
 
-\[missing, add\]
+80 Ether
 
  | 
 
@@ -978,7 +978,7 @@ _Conjure an undying flame for the caster and their comrades to rest by._
  |
 | 
 
-\[missing, add\]
+80 Ether
 
  | 
 
@@ -1021,7 +1021,7 @@ _A servant of flames._
  |
 | 
 
-\[missing, add\]
+70 Ethee
 
  | 
 

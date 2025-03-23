@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139812
+revid: 139837
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -44,8 +44,6 @@ For example:
 4.  80+ points in Strength => Level 5 Strength Mantra.
 
 In short: Every 20 points in a specific attribute will unlock the next level for said Mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that Mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its Mantras aside from a bit of damage scaling.
-
-  
 
 ## Attribute Mantras
 
@@ -881,7 +879,6 @@ N/A
 
 -   Upgrading the mantra decreases cooldown.
 -   15s cooldown at level 1, ?? cd at level 5.
--   Can be used to clip through thin walls.
 -   Can be used to cancel fall damage
 -   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
 -   If not moving, you instead teleport towards the direction you're facing. You'll also teleport a smaller distance.

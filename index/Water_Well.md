@@ -1,14 +1,16 @@
 ---
 title: Water Well
-revid: 130368
+revid: 139859
 source: https://deepwoken.fandom.com/wiki/Water_Well
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Mechanics]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Mechanics]
 ---
 
 # Water Well
+
+| Water Well | |
+|---|---|
+| usage | A source of drinkable water. |
 
 ## Description
 
@@ -16,27 +18,51 @@ Water Wells are a source of Drinkable Water for Players, usually located in majo
 
 Pressing E on them will give you ~50% of Thirst back, also [Canteens](Canteen.md) can collect Clean water here,
 
-## Location
+## Locations
 
-Water Wells can be found all over the map
+**Etrean Luminant:**
 
--   Etrean Luminant
-    -   [Etris](Etris.md)
-        -   3 locations: [Etris Docks](Etris_Docks.md), [Etris Palace](Etris_Palace.md), behind [Nerin](Nerin.md)'s house.
-    -   [Isle of Vigils](Isle_of_Vigils.md)
-        -   3-4 locations
-    -   [Erisia](Erisia.md)
-        -   Bandit camp in [Erisia](Erisia.md)
+**Etris:**
 
--   Eastern Luminant
-    -   [Fort Merit](Fort_Merit.md)
-    -   [Greathive Aratel](Greathive_Aratel.md)
-    -   [Summer Isle](Summer_Isle.md)
-    -   [Miner's Landing](<Miner's_Landing.md>)
+The water wells in [Etris](Etris.md) is located next to Guild house, between [Etris Docks](Etris_Docks.md) and entrance to [Etris](Etris.md) and on right entrance to [the King's Garden](<The_King's_Garden.md>)
 
--   Both
-    -   [Voidheart](Voidheart.md)
-    -   [The Floating Keep](The_Floating_Keep.md)
+**Voidheart:**
+
+The water well in the [Voidheart](Voidheart.md) is located next to the [Mystic](Mystic.md) and [Blacksmith](Blacksmith.md).
+
+-   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Origins.md).
+
+**Isle of Vigils:**
+
+The water wells located at entrance of [Isle of Vigils](Isle_of_Vigils.md), between [Temple Approach](Temple_Approach.md) and [Friid, Master of Gale](Friid,_Master_of_Gale.md), and behind Inn
+
+**Lower Erisia:**
+
+The water well in the [Lower Erisia](Lower_Erisia.md) is located in middle of Bandit camp
+
+**Eastern Luminant:**
+
+**Summer Isle:**
+
+The water well on [Summer Isle](Summer_Isle.md) is located behind antiquarian
+
+**Miner's Landing:**
+
+The water well at [Miner's Landing](<Miner's_Landing.md>) is located nearby Smith next to a wooden building
+
+**Meteor Isle:**
+
+The water well on [Meteor Isle](Meteor_Isle.md) can be found in the middle of Isle
+
+**Fort Merit:**
+
+The water well at [Fort Merit](Fort_Merit.md) can be found at highest point of Fort Merit between guild hall and job board.
+
+**Greathive Aratel:**
+
+The water well at [Greathive Aratel](Greathive_Aratel.md) is located in front of [Blacksmith](Blacksmith.md)
+
+-   You need a canteen to use this Well
 
 ## Trivia
 

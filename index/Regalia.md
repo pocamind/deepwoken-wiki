@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 139462
+revid: 139830
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -93,6 +93,8 @@ You start with 20 [Aces](Aces.md).
 ### Joker[\[4\]](#cite-note-archnamedrop2-4)
 
 You are granted an additional [Talent](Talents.md) choice in each Talent hand.
+
+This Regalia is not kept upon wiping at or below Power 6.
 
 ### Hungerless[\[4\]](#cite-note-archnamedrop2-4)
 
