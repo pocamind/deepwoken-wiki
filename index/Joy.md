@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 138571
+revid: 139941
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Mechanics, Currency]
@@ -17,7 +17,7 @@ Joy is used for currency in the [Hallowtide](Hallowtide.md) event, and can be tr
 
 Joy is bound to your character. If your slot wipes, and you make a new character, Joy will NOT be transferred over.
 
-Generally, it is recommended for you to to buy the [**Hallowtide '22, '23, and '24 Medals**](Seasonal_Medals.md), the _Hallowtide Aspect Variants_, and (optionally) the [_Spectral Instrument Set_](Instruments.md#spectral-instruments) first. As the all the yearly medals will allow you to unlock Hallowtide-exclusive weapons and equipment with knowledge _**after the event is over**_. Which also includes the [Harrowing](Enchantments.md) enchantment and Pumpkin Pitch mantra.
+Generally, it is recommended for you to to buy the [**Hallowtide '22, '23, and '24 Medals**](Seasonal_Medals.md), the _Hallowtide Aspect Variants_, and (optionally) the [_Spectral Instrument Set_](Instruments.md#spectral-instruments) first. As the all the yearly medals will allow you to unlock Hallowtide-exclusive weapons and equipment with knowledge _**after the event is over**_. Which also includes the [Harrowing](Enchantments.md) enchantment and [Pumpkin Pitch](Pumpkin_Pitch.md) mantra.
 
 ## Obtainment
 
@@ -42,7 +42,7 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
     5.  For **200 Joy**: You can buy the [**Hallowtide '22 and '23 Medals**](Seasonal_Medals.md). More information can be found in its respective page.
     6.  For **300 Joy**: You can buy the [**Hallowtide '24 Medal**](Seasonal_Medals.md). More information can be found on its respective page.
 
--   [Glaive Spellhardt](Glaive_Spellhardt.md): Sells you Hallowtide-exclusive [weapons](Weapons.md) and mantras, [Harrowing Enchant](Enchantments.md), and a master [outfit](Outfits.md) gacha.
+-   [Glaive Spellhardt](Glaive_Spellhardt.md): Sells you Hallowtide-exclusive [weapons](Weapons.md) and [mantras](Pumpkin_Pitch.md), [Harrowing Enchant](Enchantments.md), and a master [outfit](Outfits.md) gacha.
     1.  For **20 Joy**: You can buy a random Master [Outfit](Outfits.md). Useful to get [Celtorian Tideknight](Celtorian_Tideknight.md).
     2.  For **80 Joy**: You can buy a Hallowtide-exclusive shield, the [Gourdguard](Gourdguard.md).
     3.  For **100 Joy**: You can buy All Hallowtide-exclusive weapons. The cost is 100 Joy per weapon.
@@ -50,7 +50,7 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
         -   **Medium Weapons**: [Hallowscleave](Hallowscleave.md), [Bloodtide Trident](Bloodtide_Trident.md), [Death's Reverie](<Death's_Reverie.md>).
         -   **Heavy Weapons**: [Skyreap Blade](Skyreap_Blade.md), [Putrid Edenstaff](Putrid_Edenstaff.md), [Wretched Mawblades](Wretched_Mawblades.md).
     4.  For **150 Joy**: You can buy a [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md).
-    5.  For **300 Joy**: You can buy the Pumpkin Pitch mantra.
+    5.  For **300 Joy**: You can buy the [Pumpkin Pitch](Pumpkin_Pitch.md) mantra.
 
 -   [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md): Sells you a Hallowtide-exclusive [Instrument](Instruments.md) skin, the [_Spectral Instrument Set_](Instruments.md#spectral-instruments), and some [Shanties](Books.md).
     1.  For **20 Joy**: You can buy [Shanties](Books.md), though not all of them can be used to play music:

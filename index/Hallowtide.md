@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 124626
+revid: 139937
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -51,7 +51,7 @@ The second Hallowtide added...
 -   **New Features**
 -   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>)
 -   [Harrowing Enchant](Enchantments.md)
--   Pumpkin Pitch (mantra)
+-   [Pumpkin Pitch](Pumpkin_Pitch.md)
 
 -   **New Helmets**
 -   [Mushroom Costume](Mushroom_Costume.md)

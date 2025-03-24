@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 137888
+revid: 139943
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide]
@@ -36,7 +36,7 @@ With 2024 Hallowtide, came with 3 newly-added Hallowtide-exclusive weapons on to
 10.  [Death's Reverie](<Death's_Reverie.md>) (Twinblade) \[100 Joy\]
 11.  [Spectral Grasp](Spectral_Grasp.md) (Dagger) \[100 Joy\]
 12.  [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md) \[150 Joy\]
-13.  Pumpkin Pitch (Mantra) \[300 Joy\]
+13.  [Pumpkin Pitch](Pumpkin_Pitch.md) (Mantra) \[300 Joy\]
     
 
 **2023:**
@@ -52,7 +52,7 @@ With 2023 Hallowtide, came with 3 newly-added Hallowtide-exclusive weapons on to
 7.  [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist) \[100 Joy\]
 8.  [Gourdguard](Gourdguard.md) (Shield) \[80 Joy\]
 9.  [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md) \[150 Joy\]
-10.  Pumpkin Pitch (Mantra) \[300 Joy\]
+10.  [Pumpkin Pitch](Pumpkin_Pitch.md) (Mantra) \[300 Joy\]
     
 
 **2022:**

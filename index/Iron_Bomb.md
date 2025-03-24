@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 138969
+revid: 139938
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -68,7 +68,7 @@ Iron bombs are able to be influenced by universal damage boosters such as but no
 -   Every weapon but fists takes time to sheathe, which makes you vulnerable and unable to throw bombs in an instant, making you predictable, it is highly suggested to go for fists if you'd like to base yourself around bombs.
 -   [The Viper's Jaw](<The_Viper's_Jaw.md>) is home to many materials needed to create bombs, having a rich balance of coal and iron.
 -   An alternative to [The Viper's Jaw](<The_Viper's_Jaw.md>) is the [Widow's Hollow](<Widow's_Hollow.md>) above the starswept sands. This spot is suggested for end-game gathering, as you require a [union hook](Talent_Quests.md) to access this easily.
--   If you managed to get your hands on Pumpkin Pitch (mantra), you can use this as a feint for your bombs, keeping your opponent busy and unsure wether you're throwing a fake or real bomb.
+-   If you managed to get your hands on [Pumpkin Pitch](Pumpkin_Pitch.md), you can use this as a feint for your bombs, keeping your opponent busy and unsure wether you're throwing a fake or real bomb.
 -   When talking to Mystic, tell them " I sabotage others " to gain the bomb Talents easier.
 
 ## Trivia

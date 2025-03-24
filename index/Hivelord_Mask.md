@@ -1,6 +1,6 @@
 ---
 title: Hivelord Mask
-revid: 136127
+revid: 139924
 source: https://deepwoken.fandom.com/wiki/Hivelord_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -33,3 +33,4 @@ The Hivelord Mask is a sand-colored ovular mask with five spike jutting out from
 ## Trivia
 
 -   Appears to be heavily inspired off of the **SKT T1 JHIN** skin from _League of Legends_.
+-   [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) wears this albeit the red version.

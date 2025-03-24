@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 138225
+revid: 139936
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Etrean Luminant, Hallowtide]
@@ -55,7 +55,7 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 -   [Spectral Grasp (Dagger)](Spectral_Grasp.md) \[100 Joy\]
 -   [Harrowing Enchant Stone](Enchantments.md) \[150 Joy\]
 -   [Galphin's Spectral Instrument Set](Instruments.md#spectral-instruments) \[200 Joy\]
--   Pumpkin Pitch (mantra) \[300 Joy\]
+-   [Pumpkin Pitch](Pumpkin_Pitch.md) \[300 Joy\]
 -   Hallowtide '24 Medal \[300 Joy\]
 
 ### General, Weaponry and Mantra Shop

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 139478
+revid: 139944
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers, Moonseye]
@@ -79,7 +79,7 @@ This Oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   Activates after doing any amount of damage with dawnwalker mantras, last 7 seconds with a 12 second cooldown on proc.
-    -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.
+    -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod, Saint Jay.
     -   Does not clear any active elemental status effects, only prevents new ones from proccing.
 
 ## Trivia

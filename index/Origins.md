@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 139607
+revid: 139922
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -148,7 +148,7 @@ You can do Trial of One as an Ignition Delver.
     -   Enemy of The Knives of Eylis, The Ministry, Summer Company and The Hundred Legions.
 -   Grants the Innate Talent "Union Card"
     -   Your starting location is [Miners Landing](<Miner's_Landing.md>) or [The Chariot's Spire](<The_Chariot's_Spire.md>).
-    -   **\[PRO\]** Increased EXP Gain from dungeons (ex: layer 2, Saramaed hollow, Duke, and Ferryman) and jobs...
+    -   **\[PRO\]** Increased EXP Gain from dungeons (layer 2, Saramaed hollow, Duke, Ferryman...) and jobs...
     -   **\[CON\]** ...but reduced EXP Gain from everything else.
 -   Grants the Innate Talent "Union Pager"
     -   **\[PRO\]** Allows you to remotely accept jobs.

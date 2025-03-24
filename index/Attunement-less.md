@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139912
+revid: 139923
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -44,6 +44,8 @@ For example:
 4.  80+ points in Strength => Level 5 Strength Mantra.
 
 In short: Every 20 points in a specific attribute will unlock the next level for said Mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that Mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its Mantras aside from a bit of damage scaling.
+
+  
 
 ## Attribute Mantras
 
@@ -879,7 +881,6 @@ N/A
 
 -   Upgrading the Mantra decreases its cooldown by 2.5s per level.
 -   15s cooldown at level 1, 5s CD at level 5.
--   Can be used to cancel fall damage
 -   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
 -   If not moving, you instead teleport towards the direction you're facing. You'll also teleport a smaller distance.
 -   Shares a cooldown with [Flame Leap](Flamecharm.md#flame-leap).
@@ -1227,12 +1228,11 @@ N/A
 
 -   Deals ?? damage, scaling slightly with how insane the opponent is. 10s CD.
 -   Inflicts Charm for 7.5s on hit.
-
-Is unventable.
-
+-   Is unventable.
 -   Shares a cooldown with all grab mantras.
 -   Does **not** apply insanity.
--   Landing the grab multiple times in succession will ramp up the damage.
+-   Landing the grab multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
+    -   Dread Whisper must be landed again within 15s of landing the previous one to gain the damage buff.
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
 -   Getting hit during the grab doesn't cancel the mantra, so be careful when using it around multiple enemies.
 -   Can be modified with Crystal/Perfect Lenses.
