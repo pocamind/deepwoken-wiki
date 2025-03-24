@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 139636
+revid: 139893
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -89,9 +89,8 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
         -   Clones will only copy the standing critical or aerial of weapons and cannot trigger any other alternate criticals of weapons like [Boltcrusher](Boltcrusher.md) or [Deepspindle](Deepspindle.md).
 
 -   **Illusory Counter** **\- Combat Mantra**
-    -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of the previous location.
-    -   Can be modified with a Reversal Spark which reflects any effect that would have been applied by the attack (such as fire, which would burn the attacker instead).
-        
+    -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with your opponent, and spawn a Visionshaper Clone in place of the previous location.
+    -   Can be modified with a Reversal Spark which spawns a clone of your opponent, similar to Mirror Illusion.
     -   Does not restrict movement like most mantra casts.
 
 -   **Mirror Illusion - Support Mantra**

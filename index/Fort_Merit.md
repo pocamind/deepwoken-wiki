@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 138104
+revid: 139894
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Central Authority]
@@ -46,7 +46,7 @@ It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that 
 -   Pick up the [Etrean hostages](Etrean_Guardsman_Hostage.md) within the prison and talk to the Guardmaster while carrying them.
 -   You will be rewarded with a chest containing great gear and loot, but you will lose [reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md)
 -   After your second rescue, the Guardmaster tell you the boat is full. Meaning you have to wait 8 minutes before being able to rescue more hostages.
--   You can bypass the time limit by killing the Commander and receiving the shipping schedule. Note that this is turned in once per character.
+-   You can bypass the time limit by killing the Commander and receiving the shipping schedule. Note that this is turned in only once per character.
 
 ### **[Brutus Quest (Fortitude Uncap)](Attributes_Unbound.md)**
 

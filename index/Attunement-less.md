@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139876
+revid: 139898
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -877,8 +877,8 @@ N/A
 
 **Effect:** _Teleport a short distance towards the direction you're moving._
 
--   Upgrading the mantra decreases cooldown.
--   15s cooldown at level 1, ?? cd at level 5.
+-   Upgrading the Mantra decreases its cooldown by 2.5s per level.
+-   15s cooldown at level 1, 5s CD at level 5.
 -   Can be used to cancel fall damage
 -   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
 -   If not moving, you instead teleport towards the direction you're facing. You'll also teleport a smaller distance.

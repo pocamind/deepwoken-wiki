@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139863
+revid: 139884
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3425,6 +3425,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
+-   Excavator: [Miner's Hardhat](<Miner's_Hardhat.md>) - Chance to receive two sets of ore when mining You mine things more quickly.
+    -   You can also obtain this Talent by turning in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any [Blacksmith](Blacksmith.md).
 -   Featherfall: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
     -   Negates fall damage up until it reaches a cap for damage negated. Then, Featherfall will go on a 2 minute cooldown.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
@@ -3479,6 +3481,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Increases _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md#alloyed)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
+-   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining.
+    -   Combining this Talent with excavator gives you a chance to get 4 ores at a time.
+-   Seamaster's Guile: [Seamaster's Cap](<Seamaster's_Cap.md>) - While you're at the helm of a ship, it takes 25% less damage
+    -   Your boat will take 25% less damage if the person piloting it has this talent.
 -   Serpent's Dance: [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) - Unleash the power of Fang and Coil to unlock a devastating Running Critical Attack, feint to cancel momentum.
     -   Allows you to use [Fang and Coil](Fang_and_Coil.md)'s running critical. This attack does not work on any Cestus that already has a unique crit.
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 10% less damage from airborne enemies.
@@ -3506,14 +3512,11 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Some mantras, like [Mecha Gatling](Monster_Mantras.md), can build up stacks for this.
     -   If you have the wind shield active and a Talent that allows you to parry unparryable monster attacks, such as Force Your Way or Diver's Resilience, you will autoparry them.
 -   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
+-   Winter's Protection [Winter Corps Parka](Winter_Corps_Parka.md) - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
+    -   Increases the time it takes for parasites to kill you.
+    -   Negates damage buffs from weather. This only applies to Stratoshock.
 -   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
--   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining
-    -   Combining this Talent with excavator gives you a chance to get 4 ores at a time
--   Excavator: [Miner's Hardhat](<Miner's_Hardhat.md>) - Chance to receive two sets of ore when mining You mine things more quickly.
-    -   You can also obtain this Talent by turning in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any [Blacksmith](Blacksmith.md).
--   Seamaster's Guile: [Seamaster's Cap](<Seamaster's_Cap.md>) - While you're at the helm of a ship, it takes 25% less damage
-    -   Basically reduces DMG towards boat 25% if person who controls a ship has this talent
 
 ## Blacklisted Talents
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 139511
+revid: 139883
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -122,27 +122,37 @@ Ether Proselyte is a Talent that allows your elemental Mantras to proc the Talen
 
 **Ether Proselyte: Flamecharm Stance**: In the **Flamecharm** Saint Stance, all attuned Mantras will proc the following Talents:
 
--   Dancing Steps & Graceful Steps: Your attuned mantras will gain a lunge during their windup, closing distance.
--   Hungry Flames: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether.
--   Immolation: Your attuned Mantras will cost 70% less Ether if you're burning.
--   Warding Radiance: Your attuned Mantras will build up halo stacks.
+-   **Dancing Steps** & **Graceful Steps**: Your attuned mantras will gain a lunge during their windup, closing distance.
+-   **Hungry Flames**: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether.
+-   **Immolation**: Your attuned Mantras will cost 70% less Ether if you're burning.
+-   **Scorched** **Peak**: Guard breaking your opponent with any attuned Mantra will cause them to be struck by lightning. This can also be caused if you guard break them while they are burning, but that is not exclusive to this Saint Stance.
+-   **The Final Act**: Landing an attuned Mantra after a flourish will cause an explosion.
+-   **Warding Radiance**: Your attuned Mantras will build up halo stacks.
 
 **Ether Proselyte: Galebreathe Stance**: In the **Galebreathe** Saint Stance, all attuned Mantras will proc the following Talents:
 
--   A World Without Song: Your attuned Mantras will apply Suffocation. This also works on burn, interestingly enough.
--   Inhale: You can inhale non-Galebreathe Mantras, however their buffs will not carry over to non-Galebreathe mantras.
+-   **A World Without Song**: Your attuned Mantras will apply Suffocation.
+-   **Inhale**: You can inhale non-Galebreathe Mantras, however their modifiers/the inhale damage buff will not carry over to non-Galebreathe mantras.
 
 **Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras will proc the following Talents:
 
--   Nothing, no Shadowcast Talents have synergy with Ether Proselyte.
+-   **Dark Hours**: Your attuned Mantras will gain a 15% damage buff during night or in the depths.
+-   **Pressure** **Detonation**: Block breaking with any attuned mantra will suffocate your opponent and steal their tempo.
 
 **Ether Proselyte: Frostdraw Stance**: In the **Frostdraw** Saint Stance, all attuned Mantras will proc the following Talents:
 
--   Cryonis: Your attuned Mantras will have a reduced Ether cost while standing on ice.
+-   **Cryonis**: Your attuned Mantras will have a reduced Ether cost while standing on ice.
 
 **Ether Proselyte: Thundercall Stance**: In the **Thundercall** Saint Stance, all attuned Mantras will proc the following Talents:
 
--   Link Conduction: Your attuned Mantras will gain Ether cost reduction while you have a Static Link active.
+-   **Link Conduction**: Your attuned Mantras will gain Ether cost reduction while you have a Static Link active.
+-   **Jolting Current**: Your attuned Mantras will strike nearby opponents with lightning while in water.
+-   **Voltaic** **Conductor**: Your attuned Mantras will do 20% more chip damage to opponents affected by Conductor Rods.
+
+**Ether Proseltyte: Miscellaneous**: in **any** Saint Stance, your Mantras will proc the following Talents:
+
+-   **Winter's Protection**: Its effects are currently unknown.
+-   **Unyielding Inferno**: Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance.
 
 ## Mantra(s)
 

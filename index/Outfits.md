@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 139820
+revid: 139899
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -16,7 +16,7 @@ You may also keep the stats of an Outfit you are currently wearing while choosin
 
 ## Outfit Stats
 
--   **Durability:** The "health" of the outfit. Depletes by the amount of damage resisted. At 0% durability, the outfit will no longer grant its defensive values. However, other stats like ether regen, stealth and the associated Talents will still be active.
+-   **Durbaility:** The "health" of the outfit. Depletes by the amount of damage resisted. At 0% durability, the outfit will no longer grant its defensive values. However, other stats like ether regen, stealth and the associated Talents will still be active.
 -   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks additively with the following:
     -   **Slash/Blunt Armor:** Reduce damage taken from bladed weapons such as swords, daggers or axes/from blunt weapons such as maces, fists, guns or hammers.
 -   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks additively with the following:
