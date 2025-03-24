@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139898
+revid: 139912
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1227,10 +1227,13 @@ N/A
 
 -   Deals ?? damage, scaling slightly with how insane the opponent is. 10s CD.
 -   Inflicts Charm for 7.5s on hit.
--   Bypasses block and is unventable, but is parryable.
--   Bypasses dodge and parry, still grabbing the opponent but dealing no damage. This is likely a bug.
+
+Is unventable.
+
 -   Shares a cooldown with all grab mantras.
--   Does **not** apply insanity,
+-   Does **not** apply insanity.
+-   Landing the grab multiple times in succession will ramp up the damage.
+-   Grants iframes to the user and the opponent hit for the duration of the stun.
 -   Getting hit during the grab doesn't cancel the mantra, so be careful when using it around multiple enemies.
 -   Can be modified with Crystal/Perfect Lenses.
 

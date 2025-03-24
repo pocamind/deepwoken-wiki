@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139884
+revid: 139905
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2366,7 +2366,6 @@ _**"My cure is most effective."**_
     -   Has 6.47x PVE scale (11.5 DMG PVP, 74.50 PVE DMG)
     -   Scales on Ironsing Investment.
     -   Artisan's blade have windup of 1.2s
-    -   Hits from Artisan's Blades do not drain armor from enemy.
     -   Artisan's Blades do not benefit from Exposed Durability's damage buff or any other defense debuff.
     -   Not affected by "Return To The Dark Ages"
     -   Parrying Artisan's blade gives Auto Parry frames.
