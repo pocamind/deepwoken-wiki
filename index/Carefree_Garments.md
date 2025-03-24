@@ -1,9 +1,9 @@
 ---
 title: Carefree Garments
-revid: 139819
+revid: 139881
 source: https://deepwoken.fandom.com/wiki/Carefree_Garments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Adept Outfits]
+categories: [Pages with broken file links, Armors, Items, Outfits, Adept Outfits]
 ---
 
 # Carefree Garments
@@ -33,4 +33,11 @@ This Outfit's Schematic can be obtained from [Layer 1](First_Layer.md) chests, t
 ## Trivia/Notes
 
 -   It changes appearance depending on the character gender.
+
+This Outfit in its Female Version
+
+This Outfit in its Female Version
+
+  
+
 -   Changing your gender at a barber will also change the visual appearance of the outfit with the associated gender.

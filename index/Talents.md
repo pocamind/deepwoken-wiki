@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139801
+revid: 139863
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2699,6 +2699,13 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Can be used to go through walls if you can aim at the knocked entity through it.
     -   Prerequisites: Dustlunge, 100 Agility
 
+### Sea Dog
+
+> _**"..."**_
+
+-   Seamaster's Guile \[Common, [Equipment](Equipment.md) Exclusive\]\] - While you're at the helm of a ship, it takes 25% less damage
+    -   If person who controls ship has this talent all DMG towards boat reduced by 25%
+
 ### Tactician
 
 > _**"I think before I fight."**_
@@ -3505,6 +3512,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Combining this Talent with excavator gives you a chance to get 4 ores at a time
 -   Excavator: [Miner's Hardhat](<Miner's_Hardhat.md>) - Chance to receive two sets of ore when mining You mine things more quickly.
     -   You can also obtain this Talent by turning in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any [Blacksmith](Blacksmith.md).
+-   Seamaster's Guile: [Seamaster's Cap](<Seamaster's_Cap.md>) - While you're at the helm of a ship, it takes 25% less damage
+    -   Basically reduces DMG towards boat 25% if person who controls a ship has this talent
 
 ## Blacklisted Talents
 

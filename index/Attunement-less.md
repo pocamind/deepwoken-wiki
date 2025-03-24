@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139837
+revid: 139876
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -307,7 +307,7 @@ _Disguise yourself in tacet and drop kick your enemies._
  |
 | 
 
-\[missing, add\]
+60 Ether
 
  | 
 
@@ -904,7 +904,7 @@ _Make a cauldron appear from your memories._
  |
 | 
 
-\[missing, add\]
+20 Ether
 
  | 
 
@@ -1133,7 +1133,7 @@ _Taunt those around you, causing them to be unable to jump and to take more dama
  |
 | 
 
-\[missing, add\]
+100 Ether
 
  | 
 
@@ -1172,7 +1172,7 @@ _Charm those around you with your powerful voice._
  |
 | 
 
-\[missing, add\]
+100 Ether
 
  | 
 
@@ -1254,7 +1254,7 @@ _Take on an unimaginable disguise._
  |
 | 
 
-\[missing, add\]
+100 Ether
 
  | 
 
@@ -1414,7 +1414,7 @@ _Launch into the air and deliver a devastating divebomb kick. Chains from Karita
  |
 | 
 
-\[missing, add\]
+60 Ether
 
  | 
 
@@ -1451,7 +1451,7 @@ _Launch yourself into a flying kick, backflipping into the air if you hit a wall
  |
 | 
 
-\[missing, add\]
+60 Ether
 
  | 
 
@@ -1703,7 +1703,7 @@ _Unleash a powerful pressure blast from the weight of your weapon._
  |
 | 
 
-\[missing, add\]
+35 Ether
 
  | 
 
@@ -1742,7 +1742,7 @@ _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._
  |
 | 
 
-\[missing, add\]
+65 Ether
 
  | 
 
@@ -1783,7 +1783,7 @@ _Absorb damage then return fury upon your foes._
  |
 | 
 
-\[missing, add\]
+30 Ether (Counter), 30 Ether (Slash)
 
  | 
 
