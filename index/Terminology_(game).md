@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 139008
+revid: 140053
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -799,6 +799,18 @@ _noun_
 _noun_
 
 1.  Short form for [Light's Final Toll](<Light's_Final_Toll.md>), a Fist weapon scaling off Willpower
+
+### MTP
+
+_noun_
+
+1.  Abbreviation for [Million Ton Piercer](https://deepwoken.fandom.com/wiki/Talents#:~:text=Million%20Ton%20Piercer%20%5BAdvanced%20Talent%5D), a Talent that increases PEN by 5% and removes the 50% PEN cap on attacks.
+
+### NLK
+
+_noun_
+
+1.  Abbreviation for [Curse of the No Life King](Enchantments.md#curses), a weapon enchantment.
 
 ### PEN
 

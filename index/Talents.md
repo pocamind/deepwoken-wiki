@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 139905
+revid: 140046
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2114,7 +2114,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Pardon Me \[Common Talent, Charisma Exclusive\] - Crimes you commit in allied territories are often ignored. Who's asking?
     -   Guards from faction which you are at or above neutral reputation will not aggro on you.
-        -   Crimes still induce reputation lose however will turn hostile/react to crimes when your reputation become negative.
+        -   Crimes still induce reputation loss however will turn hostile/react to crimes when your reputation become negative.
     -   Prerequisite: 85 Charisma
 
 ### Prospector
@@ -3487,6 +3487,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Serpent's Dance: [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) - Unleash the power of Fang and Coil to unlock a devastating Running Critical Attack, feint to cancel momentum.
     -   Allows you to use [Fang and Coil](Fang_and_Coil.md)'s running critical. This attack does not work on any Cestus that already has a unique crit.
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 10% less damage from airborne enemies.
+-   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 -   Surestep: [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.

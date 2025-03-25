@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 139558
+revid: 140054
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -65,7 +65,6 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 ## Effects
 
 -   Ability to wield weapons with 25 investment points lower than its weapon stat requirement (this will not work on core attribute requirements).
-    -   This is currently nonfucntional as if of march 19, 2025 along with khan's versatile passive.
 -   **Entirely lose access to cast mantras**, including learned (or future) Mantras, [Attunement-less](Attunement-less.md) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had Mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.

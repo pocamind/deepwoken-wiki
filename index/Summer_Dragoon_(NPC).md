@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 138566
+revid: 140047
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Summer Company, Summer Company Enemies]
@@ -65,16 +65,15 @@ Summer Dragoons are high ranking members of the [Summer Company](The_Summer_Comp
 
 ## Talents
 
--   Armor Piercing - Your bullets now ignore 20% of an opponent's physical armor.
--   Safety Dance - Your base dodge frames are increased by 25%.
--   Ready or Not - The first attack to hit you while out of combat has its damage cut in half.
+-   _Armor Piercing_ - Your gun attacks now ignore 10% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
+-   _Safety Dance_ - Your base dodge frames are increased by 0.05s.
+-   _Ready or Not_ - The first attack to hit you while out of combat has its damage cut in half.
 
   
 
 ## Trivia
 
 -   Arch\_Mage once stated that NPCS with rifles weren't coded as an explanation for why [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) didn't use a [Stormseye](Stormseye.md), however this was false given the existence of this NPC.[\[1\]](#cite-note-1)
-    -   its more likely that they just used sword m1s like the ministry agent before Npcs we able to use rapiers but we will never know as this enemy is rare as all hell
 -   Despite their existence in game as [Ambush NPCs](Faction_Ambushes.md), there are no Summer Dragoon NPCs that can be interacted at Summer Isle unlike the Ignition Deepdelvers that can be interacted with in [Miner's Landing](<Miner's_Landing.md>) as they are absent.
 
 ## References
