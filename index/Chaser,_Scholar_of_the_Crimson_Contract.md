@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 140036
+revid: 140037
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, The Divers, The Ministry]
@@ -52,7 +52,7 @@ Dodgeable:◯
 -   There is an indicator and the unparriable sound cue before the attack.
 
 Parryable:✗  
-Blockable:◯\*\*  
+Blockable:◯  
 Dodgeable:◯
 
  |  |
@@ -78,7 +78,7 @@ Dodgeable✗
 -   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the remainder of the fight. He may attempt to use it again, but it will fail.
 
 Parryable:✗  
-Blockable:◯\*  
+Blockable:◯  
 Dodgeable:◯
 
  |  |
