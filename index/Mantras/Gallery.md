@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 138270
+revid: 139961
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement]
@@ -9291,19 +9291,22 @@ N/A
 
 **Pumpkin** Pitch
 
-_\[missing, add\]_
+**Combat Mantra**
+
+_Lob explosive pumpkins at your foes._
 
  | 
 
 ## Pumpkin Pitch
 
   
-_\[missing, add\]_
+**Combat Mantra**  
+_Lob explosive pumpkins at your foes._
 
  |
 | 
 
-\[missing, add\]
+20 Ether
 
  | 
 
@@ -9311,7 +9314,7 @@ _\[missing, add\]_
 
  | 
 
-300 [Joy](../Joy.md)
+300 [Joy](../Joy.md), or [Hallowtide '23 Medal](../Seasonal_Medals.md) and 10 [Knowledge](../Knowledge.md)
 
  |
 | 

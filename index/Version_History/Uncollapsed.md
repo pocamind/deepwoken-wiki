@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 133972
+revid: 139976
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -19,6 +19,649 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **March 21st, 2024**
+
+**Content & Systems**  
+• New INT Mantra: Neural Pathway  
+• New CHA Mantra: Dread Whisper  
+• New Head Equipment: Seamaster's Cap  
+• New Equipment Talent: Seamaster's Guile  
+• New Outfit Talent: Mocking Favor (Jester's Garb/Trickster's Habit)  
+• New Outfit "Carefree Garments"  
+• New Great Maul Critical  
+• New Officer/Cavalry Saber Critical  
+• New Alloy: Officer Saber  
+• New Alloy: Cavalry Saber  
+• Further upgraded the Tab menu. Now shows your Origin/Oath. Boons and Flaws now all have their own icons  
+• The Boon/Flaw menu in Character Creation has been revamped, making it a lot more intuitive and easy to use  
+• Notifications (i.e. the text that pops up in the top-middle of your screen) are no longer immediately cleared by other notifications, and instead get pushed downwards to prevent missing information  
+• Khans can now choose to forego their sideburns. Fadetrimmers have worked with the world's best Ironsingers to devise scissors capable of cutting Khan Sideburn Hair. Truly, 1567 CE will go down in barber history  
+  
+**Balancing & Tweaks**  
+• While in combat, 0 Tempo now grants 0 Ether Regen, instead of granting 0.5 Ether per second. Tempo's boost to your Ether regen now has a curve  
+• Ignition Delvers no longer gain sanity from being at Castle Light. Deepbound players no longer gain sanity from being at the Chariot's Spire  
+• Increased rate of sanity recovery for Deepbounds/Delvers when at their bases  
+• Fixed Lose Your Mind not increasing rate of insanity gain for Deepbounds/Delvers  
+• Using the light hook tool or dying after touching the Floor 2 escape sequence light hook no longer refills your sanity. HP will still be refilled up to 50% of your maximum  
+• The Simple flaw now also reduces your Knowledge gain by 25% (rounds up). Had no actual downside at Power 20 previously  
+• Dive mantras (Beast Burrow, Shade Step, Sanguine Dive) now have shared cooldowns  
+• Wind Passage distance is now halved if no enemies are in its hitbox  
+• Unbidden Counter now consumes 25% ether to cast (if available) and refunds 15% of it if successful  
+• Unbidden now gives you ether back on m1, drain on victims reduced  
+• You can no longer jump during Shade Step  
+• Grim/Rhaemen/Chilling/Detonation enchants now proc at 5 hits for light weapons  
+• Shade Step and Sanguine Dive now have an Indicator  
+• Reduced maximum Flame Repulsion size  
+• Mirror Illusion now has windup visuals  
+• Mirage Clone now gives autoparry frames  
+• Broodalloy Cestus Critical cooldown reduced (10s -> 6s)  
+• Coral Cestus Critical cooldown reduced (7s -> 5s)  
+• Tidal Shock now can't be used while Whistleguard is on CD, and vice versa  
+• Fixed Guiding Star M1s having a larger hitbox than intended  
+• Guiding Star base damage increased (14 -> 15)  
+• Guiding Star swing speed nerfed (1.05x -> 1x)  
+• Heavily reduced the extra damage dealt from knocking someone down from the air with Crystal Impale or following up Crystal Knee with said mantra (250% extra damage -> 50% extra damage)  
+• Railblade no longer performs its followup slash if it whiffs on the rushdown  
+• Fixed Impel and Restrain going through iframes  
+• Legion Kata crit windup increased  
+• Updated default Book fonts  
+  
+**Carnival Fixes & Tweaks**  
+• Carnival loot pool improved  
+• Eliminated players now have a chance to drop a chest  
+• Carnival now gives EXP based on the amount of eliminated players  
+• Fixed not being able to pass the pomar  
+• Fixed Beam Blitz  
+• Fixed various bugs with Flaming Pomar  
+• Fixed Chest sometimes spawning under the map  
+• Fixed being able to climb during circus games  
+• You can no longer slide during Circus intermission  
+  
+**Bugfixes & Optimization**  
+• Fixed Khans/Silenthearts not getting their stat req discount  
+• Fixed self-damage being considered a PvP combat tag  
+• Outdated or otherwise invalid boons/flaws now get corrected automatically. Also optimized the systems for boons/flaws somewhat  
+• Fixed inconsistencies with boons/flaws and shrining them/rolling them  
+• Added safeguards that teleport you back should you end up clipping outside of Diluvian Mechanism  
+• Added safeguards that teleport you back in should you end up clipping outside of The Profane Cavern and The Condemned Archives arenas  
+• Curse of the No-Life-King headpop deaths no longer bypass spawn forcefield, giving you the opportunity to switch weapons after dying with light hook in Layer 2  
+• Fixed lumberjacks being as strong as they are canonically  
+• Fixed Loyalty/Give and Take not always working with humanoid mobs  
+• Made it harder to clip through walls using Wind Passage  
+• Fixed Wind Passage "Backwarping" bug outside of Layer 2  
+• Fixed a bug where Heart of Enmity would rarely softlock when summoning his servants  
+• Fixed Fire Hero Critical bringing you up weirdly  
+• Fixed not being able to shift lock while in new tab menu  
+• Fixed Mobs not respecting Vent CD
+
+### _**Patch 2.2.0a**_
+
+**Hotfixes**  
+• Fixed Neural Pathway ignoring wall checks when teleporting  
+• Fixed Shrine of Blasphemy, Order and Yun'Shul being able to give you Simple and Vegetarian flaws  
+• Fixed hitboxes on Heart of Enmity's Grab and downward Slice attacks  
+• Mocking Favor can now be activated by emoting normally and fixed it making action status last longer than usual  
+• Added debuff SFX for Mocking Favor  
+• Mocking Favor Invisibility duration increased  
+• Fixed Encore not working properly with Mocking Favor  
+• Fixed World Without Song not proccing exclusively on mantras  
+• Fixed The Final Act, Dark Hours, Scorched Peak, Pressure Detonation, Unyielding Inferno, Winter's Protection Jolting Current, Voltaic Conductor not working with Ether Proselyte  
+• Fixed Reversal Spark not working with Illusionary Counter  
+• Fixed Beam Blitz (Again)  
+• Fixed Dread Whisper grab bypassing block, parry, dodge  
+• Fixed Dread Whisper not granting iframes to the user after landing the grab. The target will now also receive iframes against other attacks  
+• Dread Whisper's damage bonus for landing the grab again can now be procced in PvE too  
+• Fixed being able to create a character with no boons and no flaws selected, which caused another bug where you would gain a flaw as a boon
+
+## **March 16th, 2024**
+
+**Content & Systems**  
+• New MED/MIND Bow: Guiding Star  
+• New Master Outfit: Cala-Mariner  
+• New Outfit Talent: Tidal Shock  
+• New Master Outfit: Arachnid's Weave  
+• New Outfit Talent: Corrosive Touch  
+• The Journal Tab UI has been revamped with a new design that scales to fit different displays much more dynamically, as well as being more responsive. More on this front soon!  
+• The Equipment Vanity menu has been merged into the Tab Equipment Menu. P is no longer bound by default  
+• While in the Depths, your health bar now dynamically displays your 'void threshold', i.e. the health you have to be above to safely make it to Layer 2 by falling into a void  
+• Unmet weapon requirements are now explained to you instead of it just saying you don't have them  
+• Upgraded the dialogue rendering system to work with new Roblox font features  
+• Added Mind (MND) and Body (BDY) requirement/scaling type. Mind is the highest of your WLL/CHA/INT. Body is the highest of your STR/FTD/AGL  
+  
+**Scaling Changes & Fixes**  
+• The system for PvE scaling and attribute scaling has been rewritten. In general, this helps fix some edgecase issues where scaling was improperly too high/too low, or where some things didn't scale to begin with  
+• M1 PvE scaling is now proportional to your swing speed, with high swing-speed weapons now doing a bit more PvE damage and low swing-speed weapons doing a bit less. This is to help make higher swing speed weapons with lower damage values a more viable pick for PvE. The usual disadvantage to low swingspeed weapons is that they can be reacted to more easily, and with most monsters being unable to parry/etc., this has made them pretty much the default pick for PvE builds  
+• Fixed Saint's Synergy doubling the scaling of your non-highest elements (would still cap out at the same amount, but would make low-investments hit the cap much quicker)  
+• Fixed a bug with elemental scaling causing low Songchant investment to scale lower than intended. The trait description has been amended to correspond with this  
+• Summons now get PvE scaling on their mantras  
+  
+**Balancing & Tweaks**  
+• Your Void Threshold now changes gradually instead of instantly, preventing people from ganking you and then typing 'mb all' to rugpull you  
+• Flame Leap Reversal Spark feint now delays its cooldown until you touch the ground  
+• Heavenly Wind feint now delays its cooldown until you touch the ground  
+• Reduced horizontal boost with Starkindred Wings air dash in the Depths  
+• Heart of Enmity now absorbs the remaining HP of the servants that he consumes for his Pull attack  
+• Fixed Shard Bow movestacks, base damage increased to compensate (55 -> 70)  
+• Being stunned out of Prominence Draw's or Close Shave's forward movement now puts the mantra on CD  
+• Being stunned out of Onslaught, Restrain or Eclipse Kick (unfeintable mantras) now puts the mantra on CD  
+• Feinting the second hit of Twinstrikes now places it on full CD  
+• Spark Swap now re-checks the user being midair or not to prevent being able to use the mantra as you jump off a cliff  
+• Bloodfouler base damage reduced (20.5 -> 20), BLD scaling reduced (5 -> 4), swingspeed reduced (0.87x -> 0.86x), LVL req reduced (12 -> 10)  
+  
+**Bugfixes & Optimization**  
+• Greatly optimized M1 weapon scaling handling. Was doing some laggy operations every M1  
+• Further optimized gun M1 checks  
+• Fixed Idol of Yun'Shul and Yun'Shul's Resonance reroll options softlocking players  
+• Fixed animation transitioning between Enmity armor-broken state to idle state  
+• Optimized Heart of Enmity's enforcer summoning and his combat logic in general  
+• Fixed an edgecase with windup cancelling  
+• Fixed Heart of Enmity's non-combat animations sometimes not loading in  
+• Fixed italics not rendering in dialogue  
+• Fixed mob aspect talents sometimes not being applied  
+• Greatly optimized golem turrets in the Etrean Luminant  
+• Optimized ignition areas in Layer 2 Floor 1  
+• Fixed bouncy sources of water (e.g. Voidheart)  
+• Fixed water not being configured the same way as the overworld in dungeons, voidheart, etc.  
+• Fixed misconfigured water sources in the East Luminant (e.g. fort merit rapids)  
+• Fixed being able to use Dimensional Travel in glads  
+• Fixed Gaunts of Enmity FTD req not applying  
+• Fixed a few particles not showing properly (e.g. nemesis mark)  
+• Fixed Idol of Yun'Shul reroll resonance option always tarnishing you regardless of whether you unlocked Soul Plasticity or not
+
+### _**Patch 2.1.9a**_
+
+**Hotfixes**  
+• Fixed Mind score showing Body score instead  
+• Fixed Krulian Knife stats
+
+## **March 8th, 2025**
+
+**Content & Systems**  
+• New Relic Equipment: Mantle of Enmity  
+• New Critical: True Seraph Spear  
+• New Ring: Chained Ring; Reduces incoming knockback but removes your ability to Air Dash  
+• Enmity can now be challenged by up to 20 players. Beware, his difficulty increases as you bring more comrades!  
+• Air Dashing is now a base mechanic available at Power 1. The Aerial Assault talent and quest have been removed  
+• Echo Modifiers now have their own window in character creation. One-time purchase Echo Unlocks are also now shown separately to repeat-purchase Echo Upgrades  
+• Motif Crits now have a 0.15s windup of transforming your weapon into the Motif's weapon. This should help telegraph them as being non-standard, but also acts as a balance for motifs in general  
+• Added support for specific crits to be able to be overwritten by Motifs, while still not being extractable  
+  
+**Balancing Highlights**  
+• Your Tempo bar is now only replenished on being hit if you actually get combat tagged. This fixes allies being able to repeatedly refill your tempo bar, among other broken interactions that'd let you get a free tempo bar  
+• Vent CD now reduces with the number of players who have combat tagged you. 1 player is 10s, 4 players is 6s. Minimum is 6s  
+• The tempo you receive from being hit by mantras is now based on the percentage of your max health that the damage makes up, instead of being based on the flat damage value. This generally means that players with less health will receive more tempo from being hit by mantras  
+• The cooldown for receiving tempo from crits is now separated into a CD for the attacker and victim each instead of being solely tied to the attacker  
+• The small cooldown for tempo gain on being hit is now tied to the attacker, meaning that taking damage from multiple enemies rapidly should give you tempo consistently  
+• Tempo gain from hitting others is now reduced in PvP if you have more max HP than your opponent. For example, if you have 2x the health of your opponent, your tempo gain from hitting them will be divided by 2  
+• Getting KO'd no longer clears all of your Wither - instead, being unconscious will rapidly heal your Wither. This fixes Res bell clearing all your Wither, which led to some very broken interactions. e.g. being able to spam Vortex Echo without a downside  
+• Health packs received from players you're more than 5 levels above are now significantly reduced  
+• Backstepping speed boost penalty has been made harsher (0.5x -> 0.25x)  
+• Reduced backstepping tempo decay multiplier slightly (2x -> 1.75x)  
+  
+**Balancing & Tweaks**  
+• Heart of Enmity's loot pool size now scales per extra player above 5. When 20 players defeat him, chest size is doubled  
+• Heart of Enmity scaling per player adjusted: extra health gain per player above 5 reduced (40000 -> 30000), damage multiplier now limited to 1.75x  
+• Reduced Anti-Heal amount on Enmity's Slice attack after he stomps (75% -> 50%)  
+• Fixed the health regen penalty in Dimensional Travel stacking with the Voidzone health regen penalty  
+• After a humanoid mob vents, it can no longer vent until it has received enough damage again  
+• Once a vent's tempo cost has been absorbed by Foolish Outburst, it can't be absorbed by others  
+• Multiple people can now follow another player's Wind Steps and Stratos Steps  
+• Reduced Bloodrend mantra blood steal, increased rate at which Blood Poisoning disappears  
+• Gremorian Longspear, True Seraph Spear, Tanto crits can now be overwritten  
+• Gruesome Harvest reqs reduced (95 BLD -> 85 BLD)  
+• Lightning Impact now guard breaks at max upgrades  
+• Warden Ceremonial crit no longer refreshes if it doesn't deal damage  
+• Fixed Imperial Staff aerial crit not hitting when used high up  
+• Imperial Staff aerial crit no longer has insane endlag after landing it  
+• Halberd crit should stop its momentum once you reach an enemy more reliably now  
+• Aeroglide now has a longer CD in combat  
+• Rush of the Ancients now has a longer CD in combat  
+• Stratos Step now has a longer CD in combat  
+• Rising Flame is no longer delayed and works closer to other uppercuts  
+• Brazen Blow now only procs on m1s  
+• Fixed Brazen Blow, Impairing Blow, and Heavy Fatigue going through parry/dodge  
+• Curse of Rhaemen's Ember proc damage reduced, stacks are no longer permanent  
+• Flame Ballista Spring Spark can no longer be used in mid-air  
+• You can no longer have Berserk active while Run it Back is active  
+• Burning status no longer procs Everchanging Aegis  
+• Mindsoothe CD increased (40s -> 60s)  
+• Already Dead now reduces Symbiotic Sustain damage by 20% instead of 50%  
+• Already Dead now affects most corrupted downsides  
+• Sightless Beam is now cancelled by Venting and has slightly reduced range  
+• Visionshaper swap window increased  
+• Crescendo crit no longer has hyperarmor and has reduced posture damage, but is faster and has increased stun duration on its first hit  
+• Added crit SFX To Crescendo crit  
+• You can no longer use campfires while in iframes/Run it Back  
+• You can no longer place campfires on Ramparts/Ice Arcs  
+• Lightning Strike mantra now waits until the user has recovered from being parried before striking again  
+• Storm Cage casters are now pushed back by their own cage (but still don't take the damage)  
+• Lowered the volume of the Trial Voices dialogue before the Heart of Enmity fight starts  
+• Fixed not being able to dodge Clutching Shadow  
+• Fixed Heavenly Wind movestacks  
+• Bloodfouler crit damage reduced, base damage reduced (21.5 -> 20.5)  
+• Ysley's Pyre Keeper base damage reduced (23 -> 21)  
+• Fixed Ysley's Pyre Keeper neutral critical hitting behind you, hitbox size reduced  
+• Ysley's Pyre Keeper running critical windup increased  
+• Fixed being able to movestack Pyrekeeper neutral crit  
+• Floor is Lava duration reduced (3s -> 2s)  
+• Food buffs no longer carry over between servers  
+• Flamewalker now recolors with Twisted Puppets  
+  
+**Bugfixes & Optimization**  
+• Implemented a new data-handling system behind the scenes. Should greatly optimize a lot of the handling of weapons and cut down on the server lag from changing/equipping weapons  
+• Fixed some inconsistencies between combat tag types  
+• Fixed Frostbite and Antiheal also preventing certain forms of DoT like poison  
+• Fixed Echo Modifiers showing up as their internal names at the rest summary screen instead of their ingame names  
+• Fixed guild base tags not correctly assigning players to specific guild bases  
+• Fixed not being able to reclaim guilds you're the leader of  
+• Fixed guild base doors not lighting up  
+• Fixed an anim mask with Ice Carve cancelling  
+• Fixed various bugs with Sightless Beam  
+• Fixed Visionshaper swap window not applying to criticals  
+• Fixed Flame Sentinel destroying all of Chaser's Blood Jars when casted  
+• Fixed Lightning Assault colliding with water and by extension hopefully fixed being able to zoom across the map with it when used while swimming  
+• Fixed Survivalist Boon not protecting against Acid Rain while gliding  
+• Fixed Heart of Enmity's boss combat tag not being applied correctly when the fight starts  
+• Fixed Heart of Enmity only rarely aiming at nearby players when landing his grab and batting them away. For real this time?  
+• Fixed Heart of Enmity backing away from players that are in melee range  
+• Fixed a lot of Heart of Enmity's attacks not stunning at all. Oops  
+• Fixed Denial Repulse  
+• Fixed 1H Gun crit not hitting when close to an enemy  
+• Fixed Stormcaller Slash causing Lightning Blade endlag to linger longer than necessary  
+• Fixed Lightning Blade magnet spark slash erroneously being after Stormcaller Slash  
+• Fixed Kyrsglaive, Kyrswynter and Serrated Warspear not dealing bleed damage despite their tooltips showing so  
+• Various fixes to Voidheart out of bounds area  
+• Fixed a few methods of clipping out of Guild Bases  
+• Fixed Legion Kata critical being able to grab and move giant monsters. Sorry  
+• Fixed Detonation enchant bypassing Immortality  
+• Fixed Eye of Malice crit hitting behind you  
+• Optimized Petra's Anchor crit followup on M1  
+• Optimized the generic 'dust blast' vfx on a lot of crits  
+• Optimized and revamped the food buff system behind the scenes  
+• Fixed animations not replaying properly on weapon equip/unequip  
+• Fixed gliding not refreshing animation state (i.e. fixed the weird glider dance)  
+• Flame Sentinel hitscan fix that made Chaser's Jars no longer break on casting the mantra reverted in L2F1, the hitscan will still no longer deal damage to enemies and structures elsewhere  
+• Fixed Heretic's Memento and Dark Owl Chapeau giving no talent, since Giantslayer is deprecated. They now give Underdog, the talent that Giantslayer was merged with  
+• Fixed being teleported back up to a wildly different spot if you clip below the map in the overworld  
+• Fixed Carnival of Hearts not adding you as a participant if you load in more than a few seconds late  
+• Added a fallback safety system for if map geometry changes that should prevent you falling to your death when you log back in
+
+### _**Patch 2.1.8a**_
+
+**Sea Revert**  
+• While we work on a new rewrite of the sea, the sea has been reverted back to how it was before, as the version ingame is mostly just laggy and ugly. When we release the new rewrite, it'll be available as a new option, instead of being forced onto everyone. Our plan is to eventually make it default, but this won't happen until we're happy with the performance.  
+• The upside is that the algorithm behind the sea rewrite can actually be used with the old sea, so it isn't a complete reversion!
+
+## **March 1st, 2025**
+
+**Training Mode**  
+• Added Training Mode, a new option available in the main menu under 'Combat Training'  
+• Accessible even without a character, Training Mode lets you fight against a trainer and set their parameters on the fly, letting players figure out the combat system intuitively  
+• Individual behaviors like parrying, dodging, blocking, moving, attacking, etc. can all be toggled separately, letting you practice freely  
+• Training Mode also lets you swap between weapon types and heal whenever you need to  
+• Blade Temple instructor sparring now takes you to this mode on an existing character, letting you fight against a basic NPC in a controlled environment. The intent here isn't to create a sandbox lab, but rather just a place where you can figure out the combat  
+• A training instructor is now available at Heart Plaza in Greathive Aratel  
+  
+**Content & Systems**  
+• New Critical: Tanto  
+• All Guild Bases are now visible on the map UI, not just your own  
+• World Events are now visible on the map UI and will update their locations in realtime  
+• Grasp of Eylis can now target those in guild bases, placing you near to their door and highlighting it. Moving too far away from the door of the guild base they're in will end the hunt  
+• Redesigned the settings menu, now has categories  
+• Right-clicking a keybind now clears it (backspace already did the same)  
+• The Ignition Union have expanded Chariot's Spire somewhat...  
+  
+**Balancing & Tweaks**  
+• While in combat, your vision becomes clearer. Ambient lighting is now more balanced towards visibility while in combat to help you read the battle  
+• Names will now render over geometry when nearby  
+• Patched 'emotecasting'/'emotestacking'  
+• Rhythm range is now based on your Power  
+• Increased Cold Blooded proc CD (1s -> 3s)  
+• Jar of Souls Burst variant wind-up decreased (1s -> 0.9s) to better match its visual  
+• Jar of Souls non-burst variant now deals 25% more damage in PvE  
+• Jar of Souls Burst variant damage reduced by 25%  
+• Jar of Souls total tick count reduced by 20%, base tick count increased (3 -> 4)  
+• Fixed Jar of Souls movestacks  
+• Blood Wisp regen now scales with upgrades  
+• Fixed Clutching Shadow visuals being mistimed  
+• Fixed Jar of Souls' beam hitbox width and visuals not matching up  
+• Crazy Slots GS ability damage reduced slightly  
+• The Book UI is now draggable  
+  
+**Bugfixes & Optimization**  
+• Optimized a lot of the meshes in ignition union areas. Some of these models were very poorly optimized previously so there should be some good performance gains  
+• Fixed the bug of attempting to use Relentless Hunt while on cooldown increasing your attack speed. (For real)  
+• Fixed several issues with the glossary system that was causing it to miss a lot of terms in dialogue/books with entries  
+• Fixed a lot of cases where books would have inconsistent page lengths. Also fixes issues where words would get squished up into subsequent paragraphs  
+• Fixed strange text-wrapping behavior on books and glossary entries  
+• Closing a book now correctly closes the glossary  
+• Items dropped by mobs and players are less likely to clip below the ground now  
+• Optimized Ardour Ether drain handling  
+• Fixed return to menu confirmation not showing up if overburdened  
+• Fixed your username being displayed instead of your character name next to the settings icon  
+• Guild Base map markers now get correctly cleaned up  
+• Mobs no longer sprint in place when unable to move  
+• Optimized new sea further. Behind the scenes, another rewrite is in the works as this current iteration is kinda just ugly and laggy  
+• Fixed Saintsblade keybind being visible even if you don't have Saintsworn
+
+## **February 22nd, 2025**
+
+**Visual Overhauls**  
+• The sea has been visually reworked. As well as looking better, it should also perform better as it now multithreads the wave calculations  
+• When in combat, the sea becomes slightly transparent, letting you see the silhouettes of things beneath the waves. This should help fix a lot of the issues with water fights with animation hiding  
+• The sea now dynamically changes color to match weather/biome  
+• Low GFX mode no longer turns the sea into an ugly flat plane, instead reducing the resolution  
+• Added a custom chat bubble design  
+• Added a few ways to flavor your chat messages. Typing a chat message in all caps or ending in an exclamation mark now makes it bold. Typing a chat message wrapped in asterisks now makes it italicised. There's a few more ways to alter your chat, but we'll let you figure those ones out  
+• Chat bubbles that players didn't type themselves are now slightly faded out  
+• Your chat bubbles are now tinted slightly in your guild's color  
+• Mobs should no longer force your camera inwards, instead behaving like players  
+• A lot of VFX no longer forces your camera inwards  
+• Enchants and other VFX tied to your character are now hidden in first-person mode  
+• The game's full-text logo has been updated to match the current iteration of the logo  
+  
+**Content & Systems**  
+• New Flame Mantra: Searing Snare ★  
+• Kyrswynter now has path coloring  
+• Pleetsky's Inferno now has path coloring  
+• Wraithclaw now has path coloring  
+• Reworked Vampirism VFX  
+  
+**Balancing & Tweaks**  
+• M1's should now cancel all other 'Action' animations that would interfere with them  
+• Weapon attacks can no longer apply Wither through block/parry/dodge  
+• The following are now affected by damage multiplier caps: Ardour M1s that guardbreak, Hero's Blade of Wind criticals that guardbreak, Pressure Break, Protagonist Syndrome, Rush Hour, Hemolysis, 1H Gun M1s and criticals, Pariah's Keepsake, Underdog's PvE damage multiplier  
+• Fixed Immortality/Immortal Helm not working on Detonation, Deferred, Poser's Ring, Chip Damage, Auto Executes  
+• Taunt status now goes away if the caster and target are too far away from each other  
+• Many Mantras that guardbreak now have an increased Ether cost at max upgrades: Fire Blade, Ice Smash, Iron Slam, Thunder Kick, Champion's Whirlthrow, Shadow Gun  
+• Fixed using Ardour Scream mid-attack to hide anims  
+• Twinstrikes now scales with Mantra upgrades  
+• Bloodfoulder HVY scaling reduced (6.5 -> 6)  
+• Bloodfouler HVY requirement reduced (55 -> 50)  
+• Champion's Regalia now only applies to M1s  
+• Rockmaller Aerial no longer instant  
+• Fixed not being able to followup on Rising Wind  
+• You can now cancel out of performing a Stormcaller Slash by right clicking  
+• Fixed Crystal Impale going through parry  
+• Reduced Ether cost on Reality Shift slightly  
+• Railblade CD increased (9 -> 10)  
+• Lightning Blade now has more consistent timing  
+  
+**Bugfixes & Optimization**  
+• Refactored a lot of the default Roblox client scripts for stuff like cameras and controls. Should have some performance improvements as these are all pretty laggy and covered a lot of input schemas and behaviors you wouldn't see in Deepwoken  
+• Fixed non-elemental Mantras not scaling with their corresponding attributes correctly  
+• Fixed players that stream in and out missing their name display UI  
+• Fixed Glads not matchmaking combatants into lobbies correctly and not setting team size correctly  
+• Fixed some bugs Carnival where you wouldn't be considered a participant sometimes  
+• Fixed being able to enter the Carnival while in Character Creation  
+• Fixed Dungeon Call's timer not working and throwing a bunch of errors  
+• Fixed the ugly glitch of base walk anims overlapping with the walk anims for weapons  
+• Fixed 1H gun sprint anims  
+• Fixed some issues with Wither damage not being applied correctly  
+• Fixed PvE DC auto restores failing, as well as Light Hook failing to protect you from deaths  
+• Fixed Dread Serpent and Lionfish AIs rarely breaking  
+• Fixed Boltcrusher Drill critical rarely breaking  
+• Fixed Ceaseless Slashes breaking when used by Visionshaper Clones  
+• Fixed Equalizer not cancelling Sightless Beam post-counter  
+• Fixed Shields not appearing on your back when sheathed sometimes  
+• Fixed a bug with how Visionshaper clones are acknowledged  
+• Fixed Rising Wind making Scion drop into the void  
+• Fixed being able to use Idols of Yun'Shul while wiped. Prevents being able to reroll Resonances in this state which would cause you to not receive your Echo Triumph for having one  
+• Fixed Dimensional Travel being usable in glads  
+• Fixed list prompt coloring (e.g. Armorer's Needle prompt)  
+• Fixed a number of Frostdraw VFX's always being recolored regardless of whether you have Glass Path: Crystallization or not
+
+### _**Patch 2.1.6a**_
+
+**Hotfixes**  
+• Improved sea throttling behavior significantly. Should especially improve performance of new sea on low GFX mode  
+• Optimized new sea by improving multithread handling. Should have some good performance gains  
+• Improved how the sea looks at different distances. Also uses less resources  
+• Fixed a bunch of ClientFX warnings being thrown  
+• Fixed seam-tears in sea mesh  
+• Note: Remaining ugliness and performance issues with the new sea will be patched out! The main thing is that the new system is a lot easier to tweak and get performant, as well as preparing the game for upcoming Roblox features like scrolling texture maps, etc.
+
+## **February 17th, 2025**
+
+**Content & Systems**  
+• New Regalias. Existing characters are eligible  
+• Added a new and improved overhead UI for player names, guilds, etc.  
+• Allies now have green-tinted names on their overhead UI  
+• Wither damage numbers now show up on training dummies  
+  
+**Balancing & Tweaks**  
+• Using a Mantra now removes your hyper armor  
+• You no longer have to click M1 at all when reeling in a fish. We're taking the carp out of carpal tunnel  
+• Defeating Bosses like Chaser now grants Knowledge if you solo them  
+• Increased the amount of time you have to react to direction changes during the fishing minigame  
+• Training Dummies no longer grant XP  
+• Deepbound characters now get reduced passive insanity while in the Depths  
+• Umbrite Witherblade range buffed (7.5 -> 8)  
+• Withering Soul now fully affects Umbrite Witherblade alongside Deepspindle  
+• Heart of Enmity will now combat tag all players when the fight begins so that his health bar is visible from the get-go  
+• Increased Umbrite Witherblade's MED scaling (10 -> 12), critical damage  
+• Increased Umbrite Witherblade's converted wither on M1 slightly  
+• Increased Umbrite Witherblade's critical cooldown (6s -> 8s)  
+• Increased Bloodfouler's standing critical cooldown (5s -> 6s)  
+• Increased Bloodfouler's running critical cooldown (6s -> 7s)  
+• Increased Night Axe base damage (22 -> 23)  
+• Wither on M1's now scale with your weapon's final damage to your opponents, instead of the raw unscaled damage value of the weapon  
+• In exchange, reduced Withering Soul's wither damage m1 ratio (20% -> 15% for regular weapons, 40% -> 25% for Deepspindle). This should keep Wither on M1's roughly the same damage wise, not accounting for damage resistances or multipliers  
+• Wither is no longer applied on knocked targets  
+• Visionshapers now have a small (.2s) window to swap while casting a mantra as opposed to before where they could swap during the final sequence of a mantra  
+• Venting now gets rid of Visionshaper clones instantly  
+• Reality Shift no longer consumes a clones action unless the move was successfully casted  
+• Visionshaper clones no longer give tempo on hit  
+• Visionshaper clones now ignore player status when copying actions  
+• Bleed and deferred hits will no longer make mobs vent immediately  
+• Rising Wind last now triggers uppercut and damage scaling reduced slightly  
+• Fixed Updraft's diminishing returns for landing multiple hits never kicking in  
+• Slightly reduced Updraft's damage  
+• Reduced Tornado's PvE scaling (60% effectiveness -> 50%)  
+• Tornado now has diminishing returns in PvE, each successive hit will deal 5% less damage than the previous one  
+• Lowered volume on Wind Gun cast  
+• Shadestep volume lowered  
+• Fixed Rising Thunder PVE scaling  
+• Getting hit during Ice Eruption now breaks you free  
+• Last hit of Rising Wind no longer ragdolls  
+• Pressure Blast is now parryable  
+• Pressure Blast posture damage increased  
+• Brutal Momentum duration reduced  
+• Rapid Punches is now 360 blockable after the first tick of damage  
+• Resurrection bell revival now has a CD per player  
+• Fixed Resurrection bell setting your health below what it was  
+• Veinbreaker windup slightly increased (post-cast)  
+• Shadestep windup increased slightly  
+• Fixed Wind Carve vfx not clearing after early cancel  
+• Gale Dash now gets cancelled if the user gets parried  
+• Wretched Mawblades no longer follows up unless the first part hits  
+• Shadow Gun damage now gets reduced based on the size/range upgrade  
+• Prominence Draw now goes on a short cooldown when cancelled mid-way  
+• Fleeting Sparks posture damage increased  
+• Curse of the Unbidden now has slight endlag  
+• Rising Shadow leech variant damage buffed  
+• Rising Flame size upgrade scaling reduced  
+• Flame Palm windup reduced very slightly  
+• Fixed Ferryman's Lightning Strikes damaging through parry  
+• Increased the sight range of Enmity's Servants  
+• You'll Need To Get Past Me no longer procs on allies  
+• You are now automatically considered allied with others in Depths Trials  
+• Rifles can no longer utilise MED motifs  
+• Flintlocks can no longer utilise LHT motifs  
+  
+**Bugfixes & Optimization**  
+• Fixed getting Dungeon Calls/Challenges in character creation and other places you weren't supposed to  
+• Fixed getting the 'Fold' option at Power 20  
+• Fixed Clutching Shadow visuals appearing late  
+• Optimized Ferryman status effect handling  
+• Fixed Stormcaller Slash  
+• Fixed Mantra tooltip cost percentages not factoring in Blue Gem's Ether cost reduction  
+• Added a failsafe for Saintsblade Fire clipping through walls  
+• Fixed a softlock with Kanabo Critical  
+• Fixed Blue Gem's Ether cost reduction being applied twice  
+• Fixed Blue Gem's Ether cost reduction persisting when the gem gets slotted out  
+• Fixed King Thresher staggered animations never ending  
+• Fixed Mute remaining disabled after Hell Mode is over  
+• Fixed random events spawning in Heart of Enmity trials  
+• Fixed not being able to choose Twinstrikes at the Shrine of Temptation/etc.  
+• Fixed reputation rewards for events  
+• Fixed Barber's Skillset UI not dismissing  
+• Fixed base walk anim
+
+### _**Patch 2.1.5a**_
+
+**Hotfixes**  
+• Fixed bell unlock vfx playing on enemies instead of the player who unlocked them  
+• Fixed not being able to use Chime of Conflict to queue into another match after having won one  
+• Slightly decreased the player overhead UI size  
+• Fixed Player Overhead UI will being shown above players who are in Tacet  
+• Optimized parallel mob and player behaviors
+
+## **February 8th, 2025**
+
+**Content & Systems**  
+• New AGL/STR Mantra: Twinstrikes  
+• Added Training Dummies to the Guild Base Training room. Training Dummies display damage numbers on hit  
+• Chime ranks ingame now go up to #999  
+• Guild ranks ingame now go up to #500  
+• Fixed leaderboards by adding a cache system behind the scenes. Should also cut down on server bandwidth  
+• Updated Battle Royale's weapon pool, adding over 50 new weapons to the mix!  
+  
+**Gladiator Gamemode**  
+• Added Challenge: Gladiator to the Chime of Conflict. Specify a player to send them a request to fight their team. This doesn't have to be sent in the same server as them. You'll need a minimum of 3 participants alongside you, capping off at your desired team size. You can fight with team sizes of up to 20 a side  
+• Once gathered, you'll face off against the other team. Every member of your team gets a number indicating their order in the roster. Each team will have 2 fighters active in the arena at a time. Should a fighter die, they'll be replaced by the next player in their team's roster. This keeps going until either your team runs out of members - or your opponents do!  
+  
+**Boss Changes**  
+• The categorisation of enemies as minibosses/bosses/world bosses has been revised. Minibosses are elite enemies that are harder to kill than the other enemies you face in an area. Bosses are challenging enemies that are usually the strongest in the area. Worldbosses are threats that are the strongest in a region and that may require coordination with several other players to defeat  
+• The Worldbosses currently are: Heart of Enmity, Parasol, Caeranthil's Wake, Scion of Ethiron  
+• The Bosses currently are: Dread Serpent, Chaser, Duke, Maestro, Ferryman, Primadon  
+• Worldbosses now grant double the Resonance prog and attribute training EXP  
+• Heart of Enmity now awards Knowledge on defeat if you contribute more than 20% of the damage  
+• Killing World Bosses in general will now net you 1 Knowledge per kill if you contribute more than 25% to the kill, and will give you 2 Knowledge the first time you contribute more than 10% to the kill  
+• You now only get Knowledge from minibosses the first time you contribute more than 50% to the kill  
+• You now get 2 Knowledge from killing bosses the first time you contribute more than 33% to the kill  
+• Many of the inherent rewards formerly tied to defeating a Worldboss now apply to Bosses instead  
+• Heartstars now have a small chance to drop from Chaser  
+• Removed the interaction where mobs with cannonball resistance (Parasol, Dread Serpent) would bypass cannons being able to pierce through Ranged Armor. This should make cannons much more effective against them  
+• Slightly reduced Heart of Enmity's health scaling per additional player above 5 (50000 -> 40000)  
+• Slightly reduced Heart of Enmity's damage multiplier per additional player above 5 (15% -> 10%, limit: 45% max -> 30% max)  
+  
+**Balancing & Tweaks**  
+• Soulbreaker's Mobility slot is now a Wildcard slot  
+• Given the addition of Backstepping as a mechanic, Fast Blade has been reverted to how it was before its rework, as the main issue with it was the ability to freely disengage by s-holding  
+• Autoparry no longer works against Vents  
+• Gun users can no longer reload while parrying & blocking  
+• Feinting now cancels heavy m1 hyperarmor early  
+• Greatly reduced waiting time between Carnival of Hearts minigames  
+• Blue Gem now only applies 50% reduction to the BASE cost of the mantra, applying a 25% reduction to modifier ether costs  
+• Imperial Staff now has spear parry animations, fixed some clunky visuals with the critical  
+• Stormcaller Slash now happens automatically  
+• Lightning Blade movestack fixed  
+• Made Curse of Rhaemen's Ember enchant stones more common, seeded into more lootpools  
+• Fixed Curse of Rhaemen's Ember's temporary health proc being affected by antiheal sources  
+• Increased the threshold of how high and low Curse of Rhaemen's Ember random values can go, nerfed the range of the AOE, increased the amt of charges required on some weapon types  
+• You can now use Decimate with Fists  
+• Corrected Overflowing Dam's damage multiplier, was still 15% when it was meant to be nerfed to 10%  
+• Overflowing Dam is now less effective with Silentheart  
+• Relentless Hunt now has slight endlag when interrupted  
+• Fixed being able to hide your aerial M1 animation by attempting to use Relentless Hunt while it's on CD  
+• Fixed Silentheart Relentless Hunt (heavy) movestacking  
+• Fixed Mayhem + M1 movestacking  
+• Fixed Forge Greathammer Critical movestacking and not having slight movement slowdown when the critical ends or gets interrupted  
+• Reduced Tempo Gain from Shade Wisp  
+• Bloodedge, Blood Orb, and Crimson Rain have slight endlag now before being able to cast another mantra  
+• Rhythm Advance posture damage raised  
+• Ardour Slicer endlag increased slightly  
+• Damage output while using Run it Back is now reduced by 25%  
+• Rally now clears more posture based on upgrades, range scaling increased  
+• Prominence Draw windup increased slightly  
+• Eye of Malice damage scaling reduced slightly  
+• Death from Above now cancels Shadow Meteors if it's active  
+• Using Crit during Shadow Meteors now cancels it  
+• Flame Ballista Spring variant can no longer be used high in the air  
+• Clutching Shadow damage nerfed slightly  
+• Clutching Shadow now has more time to react after the indicator appears  
+• You can now vent out of Rising Wind  
+• You can no longer rotate your char during the last phase of the Forge Greathammer crit  
+• Railblade swing speed nerfed slightly  
+• Ice Eruption is now ventable, windup reducedd  
+• Ice Carve no longer returns ether if missed  
+• Wind Carve can now be cancelled by right clicking  
+• Metal Turret duration scaling reduced  
+• Gale Punch now has hitstun  
+• Jolt Grab windup reduced back to what it was pre nerf  
+• Whistling Periapt no longer works on vents  
+• Tears of Edenkite damage now scales with weapon invest  
+• Air Force now has a cap to its range and now has hitstun  
+• Glare windup reduced slightly  
+• Fixed the caster not having iframes during Rising Wind  
+• Fixed Hyperarmor not going away when feinting Onslaught  
+• Fixed Ice Forge not dealing posture damage  
+• Ceaseless slashes base damage and windup reduced very slightly, and now each tick of damage goes up for every successful hit  
+• Metal Rain windup reduced slightly  
+• Iron Tether now longer puts the caster in parry stun, now has damage scaling with its level  
+• Fixed being able to parry/block during ash slam  
+• Fixed being able to block/parry during Wretched Mawblades Critical  
+• Saintsblade Fire stance no longer guardbreaks but still does high posture  
+• Ice Cubes stop homing if they're ever close to their target  
+• Fixed certain moves not being interrupted after being hit by Equalizer  
+• Fixed being able to use Reality Shift after getting parried  
+• You can now sprint during Rising Shadow  
+• Pulling the Diluvian Mechanism brakes will now also extinguish flames. A moment of silence for these unfortunate souls, please  
+• Forge Greathammer now has endlag  
+  
+**Bugfixes & Optimization**  
+• Fixed Motifs not saving in weapons in tool form  
+• Fixed Absolute Radiance causing you to take true damage from elements  
+• Fixed spawning outside the Carnival  
+• Fixed rewards not spawning in Carnival of Hearts  
+• Fixed a variety of bugs and inconsistencies with the Carnival of Hearts  
+• Fixed the additional sound effects and vfx from comboing an enemy not playing  
+• Fixed being hit during Frost Grab  
+• Fixed Warding Halo spawning within your head  
+• Fixed Flame Assault and Lightning Impact sometimes not moving you  
+• Tweaked the physics for Rising Wind  
+• Fixed Gran Sudaruska having a lingering hitbox  
+• Fixed some inconsistencies with Reality Shift  
+• Fixed Shadow Meteors not ending when the caster gets parried sometimes  
+• Fixed Turtle Shell, fixed shields not appearing on your back when sheathed  
+• Fixed being able to get wiped by Misérables despite having a Lighthook. Again  
+• Fixed being able to cast mantras during Rising Shadow  
+• Fixed Flame Blind  
+• Fixed Gaze working while downed  
+• Fixed being able to use Ardour Scream while downed  
+• Fixed weird instances where you wouldn't be dropped after being hit during Equalizer  
+• Fixed blunt hit fx  
+• Fixed a ton of hit fx not working due to hit pos  
+• Fixed a mantra soft lock with Rising Shadow  
+• For Heart of Enmity Depths Trials, the trial combat tag will now be cleared immediately as soon as the fight is won  
+• Optimized Ferryman attacks  
+•
+
+### _**Patch 2.1.4a**_
+
+**Hotfixes**  
+• Fixed Glads  
+• Fixed Glads not queueing you up against your challenger  
+• Robbed Training Dummies of their sentience  
+• Training Dummies can no longer be damaged if you are in PvP combat  
+• Fixed Ash Slam having huge endlag when feinted or interrupted  
+• Bloodedge damage nerfed slightly  
+• Crimson Rain damage per dagger nerfed  
+• Soulflare Siphon has less active frames  
+• Fixed venting not breaking you out of Ice Eruption  
+• Ardour Slicer windup is more telegraphed  
+• Fixed overly long launch times  
+• Fixed human mobs spamming vents  
+• Fixed Rising Shadow's tendrils always sinking to the depths which made the mantra completely unusable  
+• Fixed incorrect distance calculations for Rising Shadow, meant that the wind-up nerf for being up close was applied very inconsistently  
+• Fixed Ferryman not giving you opportunities for counter-attacking after parrying his moves  
+• Fixed Dazed Band not proccing  
+• Fixed Flame Emperor not proccing  
+• Fixed not receiving damage at all when getting hit sometimes  
+• Fixed instances of not receiving damage at all when getting hit  
+• Fixed Decimate still not being usable with fists
 
 ## **February 1st, 2025**
 

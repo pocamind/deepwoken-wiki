@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139923
+revid: 139957
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -44,8 +44,6 @@ For example:
 4.  80+ points in Strength => Level 5 Strength Mantra.
 
 In short: Every 20 points in a specific attribute will unlock the next level for said Mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that Mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its Mantras aside from a bit of damage scaling.
-
-  
 
 ## Attribute Mantras
 
@@ -597,7 +595,7 @@ Slash + Bleed
 -   The move teleports you forwards only upon hitting an opponent.
 -   12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 damage per level, 5.5 posture regardless of level, 2 Agility scaling. 15s cooldown.
 -   It has a windup of 0.55 seconds and an endlag of 0.15 seconds.
--   This Mantra has innate bleed, meaning that the base damage has an extra 30% true damage that doesn't get affected by damage modifiers.
+-   This Mantra has innate Bleed, meaning that the base damage has an extra 30% true damage that doesn't get affected by damage modifiers.
 -   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP.
     -   45% = 1.2x
     -   40% = 1.43x
@@ -883,6 +881,7 @@ N/A
 -   15s cooldown at level 1, 5s CD at level 5.
 -   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
 -   If not moving, you instead teleport towards the direction you're facing. You'll also teleport a smaller distance.
+-   For ~2.5s after teleporting, all fall damage is negated.
 -   Shares a cooldown with [Flame Leap](Flamecharm.md#flame-leap).
 
  |
@@ -1151,7 +1150,7 @@ N/A
 
 -   Affected entities receive 20% more damage.
 -   Affected entities deal 10% more damage to you specifically.
--   Disables Jumping.
+-   Affected entities become unable to jump.
 
  |
 | 
@@ -1215,7 +1214,7 @@ _Grab your opponent and whisper a terrible truth in their ear. Further truths ar
 
  | 
 
-N/A
+Blunt
 
  | 
 

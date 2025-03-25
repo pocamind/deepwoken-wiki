@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 139641
+revid: 139947
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", Children of Navae, Bows]
@@ -55,3 +55,5 @@ The user slightly lowers down and fires three explosive Ether arrows in quick su
 -   The Aranea, seen in its accidental debut
     
     The Guiding Star currently is tied with the [Repeater](Repeater.md) for the longest range of any weapon in game, at 12 studs.
+
+Bow shooting (regular)

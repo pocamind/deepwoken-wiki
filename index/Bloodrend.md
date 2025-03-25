@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 139687
+revid: 139955
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -303,7 +303,7 @@ _Leap into the air and slam down with vengeance._
 
  | 
 
-Blood
+Blood + Bleed
 
  | 
 

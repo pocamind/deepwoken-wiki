@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 139850
+revid: 139964
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1021,7 +1021,7 @@ _A servant of flames._
  |
 | 
 
-70 Ethee
+70 Ether
 
  | 
 
