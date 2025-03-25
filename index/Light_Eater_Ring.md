@@ -1,6 +1,6 @@
 ---
 title: Light Eater Ring
-revid: 138606
+revid: 140031
 source: https://deepwoken.fandom.com/wiki/Light_Eater_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Heart of Enmity, Maestro Evengarde Rest, War Mode, Dread Serpent, Drops from:, Frostdraw Trainer |
+| obtainment | Chests from:, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, War Mode, Dread Serpent, Drops from:, Frostdraw Trainer |
 | description | "Taking damage from fire or lightning will cause you to regenerate ether." |
 
 ## Description

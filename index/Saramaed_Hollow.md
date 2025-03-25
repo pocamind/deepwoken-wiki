@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 139396
+revid: 140025
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -148,7 +148,7 @@ Exhaustive Loot Table
     <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
   <ol>
     <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>.</li>
-    <li><b>Generic Rings</b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Deepfire_Ring.md">Deepfire Ring</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Finisher's_Ring.md">Finisher's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
+    <li><b>Generic Rings</b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Deepfire_Ring.md">Deepfire Ring</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Finisher's_Ring.md">Finisher's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
   </ol></li>
   </ul></td>
 </tr>

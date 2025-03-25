@@ -1,16 +1,12 @@
 ---
 title: Version History/Uncollapsed
-revid: 139976
+revid: 140020
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
 ---
 
 # Version History/Uncollapsed
-
-[Regular](2026.md)
-
-**Uncollapsed**
 
 ## Legend
 
@@ -20,7 +16,7 @@ The update highest on the webpage (the one right below the legend) is the most r
 
   
 
-## **March 21st, 2024**
+## **March 21st, 2025**
 
 **Content & Systems**  
 • New INT Mantra: Neural Pathway  
@@ -114,7 +110,7 @@ The update highest on the webpage (the one right below the legend) is the most r
 • Dread Whisper's damage bonus for landing the grab again can now be procced in PvE too  
 • Fixed being able to create a character with no boons and no flaws selected, which caused another bug where you would gain a flaw as a boon
 
-## **March 16th, 2024**
+## **March 16th, 2025**
 
 **Content & Systems**  
 • New MED/MIND Bow: Guiding Star  

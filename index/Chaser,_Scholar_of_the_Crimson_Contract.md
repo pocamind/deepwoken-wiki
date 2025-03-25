@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 138930
+revid: 140036
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, The Divers, The Ministry]
@@ -160,25 +160,91 @@ Whenever Chaser's HP drops below 80%, he will collapse the ceiling, preventing h
     -   The slams are followed by a random move from his moveset.
     -   During his last move, he will chain two quick **Body Slams** along a normal one, eventually ending the fight.
 
-## Rewards
+## Loot Table and Rewards
 
-After Chaser is defeated, a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md) opens and a medium sized [chest](Chests_&_Sacks.md) is spawned. It contains:
-
--   Many Kyrsan series weapons.
--   2 Knowledge on first kill, 1 knowledge per kill if contributing 35% or more damage.
--   Very high odds of Deep Gems.
--   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including [Ironsinger Heavy Plates](Ironsinger_Heavy_Plate.md), all guaranteed to be at least 1 star quality.
--   Strange Tome Volume #2.
-
--   Rarely, [Heartstars](Heartstar.md), [Enchantment Stones](Enchant_Stone.md), [Sinner's Ashes](<Sinner's_Ash.md>), [Moonseye Tomes](Moonseye_Tome.md), various Legendary Weapons, or the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
-
--   Extremely Rarely, and exclusively from Chaser, you may obtain the [Flareblood Kamas](Flareblood_Kamas.md), or [Bloodforged Crown](Bloodforged_Crown.md).
+After Chaser is defeated, a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md) opens and a medium sized [chest](Chests_&_Sacks.md) is spawned. On top of this, he will grant 2 [Knowledge](Knowledge.md) on first kill, 1 Knowledge per kill if contributing 35% or more damage, and an additional 1 Knowledge per kill if fought solo.
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Attributes.md), resonance progress, as well as some positive [Divers](The_Divers.md) reputation.
 
 **Roughly** six Chaser solos, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
 
 Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
+
+If [Aska](Aska.md) were to fall off the map, you will receive the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) upon killing Chaser instead. The item will instantly be added to your inventory rather than being in the chest.
+
+### 
+
+Exhaustive Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li>Strange Tome Volume #2</li>
+    <li><a href="Heartstar.md">Heartstars</a></li>
+    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li>Some <a href="Relics.md">Relics</a>:
+  <ul>
+    <li><a href="Enchant_Stone.md">Enchant Stones</a></li>
+    <li><a href="Moonseye_Tome.md">Moonseye Tomes</a></li>
+    <li><a href="Rain_Spire.md">Rain Spire</a></li>
+    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
+    <li><a href="Void_Spire.md">Void Spire</a></li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Bloodfouler.md"><font>Bloodfouler</font></a>, <a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>.</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Evanspear_Greataxe.md">Evanspear Hand Axe</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a>.</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>, <a href="The_Path's_Defender.md">The Path's Defender</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td><center><b>All equipment are guaranteed to be at least 1 star quality.</b></center>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>:
+  <ol>
+    <li><b>Mythical Head</b>: <a href="Bloodforged_Crown.md"><font>Bloodforged Crown</font></a>.</li>
+    <li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Silver_Knight's_Helm.md">Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipments</font></a></b>:
+  <ol>
+    <li><b>Mythical Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a>.</li>
+    <li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a>.</li>
+    <li><b>Generic Arms</b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, Overcoats (Brown &amp; Black), <a href="Ranger's_Brace.md">Ranger's Brace</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>.</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipments</font></a></b>:
+  <ol>
+    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md"><font>Warmaster's Medallion</font></a>.</li>
+    <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>: <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Aspirant_Mask.md">Royal Guard</a> (Red), <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>.</li>
+    <li><b><a href="Equipment.md#ears"><font>Ears</font></a></b>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a>.</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
+  <ol>
+    <li><b>Legendary Rings</b>: <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>.</li>
+    <li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a> <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Silver_Ring.md">Silver Ring</a>.</li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
