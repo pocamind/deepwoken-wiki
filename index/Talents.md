@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 140046
+revid: 140082
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3254,7 +3254,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Makes everything darker and creates fog at long distances
     -   While the Blindseer Oath grants full vision even with a blindfold, the Talent still works.
     -   The Talent grants immunity to the Flame Blind mantra.
-    -   The face equipment "[Blindfold](Blindfold.md)" have this Talent.
+    -   The face equipment "[Blindfold](Blindfold.md)" grants access to this Talent.
 
 -   Coldseep Reactor \[Common Talent, [Equipment](Equipment.md) Exclusive\] - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.

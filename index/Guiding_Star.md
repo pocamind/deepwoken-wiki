@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 139947
+revid: 140085
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", Children of Navae, Bows]
@@ -16,7 +16,7 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-At
 | scaling | MED : 10 / MND : 3 |
 | range | 12 |
 | swing speed | 1x |
-| special effect | M1s cost Ether |
+| special effect | Basic and critical attacks will cost Ether. |
 | stances | 2 Handed |
 | weight | 5 |
 | bankable | Yes |
@@ -54,6 +54,4 @@ The user slightly lowers down and fires three explosive Ether arrows in quick su
 -   The Guiding Star is the first and (currently) only Bow in the game.
 -   The Aranea, seen in its accidental debut
     
-    The Guiding Star currently is tied with the [Repeater](Repeater.md) for the longest range of any weapon in game, at 12 studs.
-
-Bow shooting (regular)
+    The Guiding Star currently is tied with the [Repeater](Repeater.md) for the longest range of any weapon in game, at 12 studs.\\
