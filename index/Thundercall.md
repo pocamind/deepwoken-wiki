@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 139608
+revid: 140087
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -395,7 +395,7 @@ Lightning
 -   Applies Knockdown.
 -   Can be cancelled at any point by clicking.
 -   Can strike a total of 1-7 times, but can be cancelled if the user hit and damaged in any way.
-    -   This includes being hit by the user's own Lightning Strike.
+    -   This includes being hit by the user's own Lightning Strike. (they removed the self damage in a shadow patch)
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
 -   Can be modified with **Aeon/Eternal Logstones** to increase the number of strikes.
 -   Can be modified with **Crystal/Perfect Lenses** to increase max distance of strikes.

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 139744
+revid: 140089
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -540,7 +540,7 @@ Blunt
 
 -   Deals around 40 DMG (Does around 75.6 (39.72 explosion+ 35.88 shadow gun) DMG if hit by shadow gun), Guardbreaks at block attempt, 20s CD
 -   With 6 songchant deals around 50 DMG (86.53 DMG (46.59 explosion +39.94 shadow gun) DMG if hit by shadow gun)
--   The Mantra apply PVE tag to anyone who near it.
+-   Applies PVE tag to anyone who is near it.
 -   Explosion by Shadow gun doesn't happen if shadow gun was used before vortex sucked someone in.
 -   Has no vertical range cap.
 -   You can shoot a Shadow Gun into the vortex after it has grabbed a target. Doing so will cause it to explode, dealing extra damage and stealing a high amount of Ether.
