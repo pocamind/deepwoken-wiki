@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 139957
+revid: 140110
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -595,8 +595,8 @@ Slash + Bleed
 -   The move teleports you forwards only upon hitting an opponent.
 -   12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 damage per level, 5.5 posture regardless of level, 2 Agility scaling. 15s cooldown.
 -   It has a windup of 0.55 seconds and an endlag of 0.15 seconds.
--   This Mantra has innate Bleed, meaning that the base damage has an extra 30% true damage that doesn't get affected by damage modifiers.
--   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP.
+-   This Mantra has innate Bleed, meaning that it will deal an additional 30% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
+-   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP. The Bleed's damage does not scale.
     -   45% = 1.2x
     -   40% = 1.43x
     -   35% = 1.65x
@@ -606,7 +606,10 @@ Slash + Bleed
     -   15% = 2.5x
     -   10% = 2.71x
     -   5% = 2.9x (below 5% the damage stops increasing)
--   Can be upgraded with the **Pursuit** Talent, allowing it to be used twice in a row if the first use hits.
+-   Revenge's damage from health scaling will cap at 50 regardless of level/Agility invest. This does not count the Bleed damage.
+-   Can be upgraded with the **Pursuit** Talent, allowing it to be used twice in a row if the first use hits. 25 second cooldown.
+    -   Pursuit procs even when the Mantra is parried, blocked, dodged, or even vented, but this may be a bug.
+-   Can be upgraded with the **Crippling Comeuppance** Talent, which makes your Revenge put your opponent's mobility slot Mantras on a 15 second cooldown if you land your Revenge. This Talent has a 30 second cooldown.
 -   Wayward Gem does **NOT** proc on Revenge
 -   Can be upgraded with Cloud/Stratus Stones and Drift/Rush Shards (Increases range of the Mantra).
 
@@ -1227,6 +1230,7 @@ Blunt
 
 -   Deals ?? damage, scaling slightly with how insane the opponent is. 10s CD.
 -   Inflicts Charm for 7.5s on hit.
+    -   Because of this, it will instantly proc Narcissist's Overcharm if you have the Talent.
 -   Is unventable.
 -   Shares a cooldown with all grab mantras.
 -   Does **not** apply insanity.

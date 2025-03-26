@@ -1,6 +1,6 @@
 ---
 title: King Thresher Spine
-revid: 115345
+revid: 140104
 source: https://deepwoken.fandom.com/wiki/King_Thresher_Spine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -20,7 +20,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-The **King Thresher Spine** is an ingredient dropped from the [King Thresher](Thresher.md), it can be found at [Starswept Valley](The_Starswept_Valley.md),[Deep Thresher Nest](Deep_Thresher_Nest.md), and [The Depths](The_Depths.md) or in the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>).
+The **King Thresher Spine** is an ingredient dropped from the [King Thresher](Thresher.md), it can be found at [Starswept Valley](The_Starswept_Valley.md), [Deep Thresher Nest](Deep_Thresher_Nest.md), and [The Depths](The_Depths.md) or in the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>).
 
 ## Trivia
 

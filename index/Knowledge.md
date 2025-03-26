@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 140096
+revid: 140108
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -10,7 +10,7 @@ categories: [Mechanics, Currency]
 
 | Knowledge | |
 |---|---|
-| usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables, Increasing reputation with The Ministry through the Soothsayer, Instantly fully progressing an Oath completed on a previous slot |
+| usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables, Increasing reputation with The Ministry through the Soothsayer, Instantly fully progressing an Oath completed on a previous slot, Banking Relics, Enchanted items, and certain rare Ingredients. |
 | obtainment | Levelling up, Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones, Defeating bosses, Soloing bosses, Soloing waves 35+ in the diluvian mechanism, Defeating certain unique mobs for the first time, Echoes upgrades, Using the Moonseye Tome relic |
 
 “ Do you have the knowledge within you then, my dull friend? ”
@@ -23,6 +23,8 @@ Your Knowledge **grows**...
 Prior to _**Verse 2**_, if one wanted to make a specific build, then it would be entirely up to luck on whether or not they would be able to obtain this build—aside from using methods to narrow down Whisper cards and using Aces to clear up any unwanted Talent cards. This often led to a round of wipes until the player (now tired and exhausted) eventually obtained their desired build- or at least, an image of it.
 
 With the advent of **_Verse 2_**, these acts are left in the past. One can now thoroughly customize and change up their build- Talents, mantras, undo burns, and more using the many **[Deep Shrines](Deep_Shrines.md)** around the overworld, and can even gain as many bell rerolls as one desires through the fabled **[Misérables](Misérables.md)** so long as they have sufficient _Knowledge._
+
+The Simple flaw decreases knowledge gained from all sources by 25% (rounds up). Gaining 1-3 knowledge will have no change, but a tax will be applied once 4 or more is gained at once.
 
 ## Overview
 
@@ -69,9 +71,9 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 
 -   Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more. Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division—read below), uses 5 Knowledge per deal. (4 Knowledge for Ganymedes). Making a deal with the Shrine of Blasphemy will consume 5 knowledge but give 3 back as you level up 3 times when making a deal with the shrine of blasphemy.
 
--   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
--   Engaging in a deal with **Shrine of Conceit** or **Shrine of Mastery**, uses 1 Knowledge.
--   Engaging in a deal with **Shrine of Division**, uses 5 knowledge.
+-   Engaging in a deal with **[Shrine of Order](Deep_Shrines/Shrine_of_Order.md)**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
+-   Engaging in a deal with **[Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md)** or **[Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md)**, uses 1 Knowledge.
+-   Engaging in a deal with **[Shrine of Division](Deep_Shrines/Shrine_of_Division.md)** or **[Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md)**, uses 5 knowledge.
 -   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), uses 15 Knowledge. If you wish to stack Clarity wishes, it costs an extra 5 on top of the previous Knowledge cost.
 -   Purchasing an item from a [Blacksmith](Blacksmith.md) using [Seasonal Medals](Seasonal_Medals.md), this can range from 1 to 10 Knowledge depending on the item.
 -   Purchasing [Enchant Grease](Enchant_Grease.md) from [Laplace](Laplace.md), costing 5 Knowledge per Grease.
@@ -80,10 +82,9 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 -   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding (unless you are in need of emergency Knowledge before using Shrine of Order).
 -   Power-gained Knowledge will be enough to make a deal with the Shrine of Order at Power 10.
 -   [Ganymedes](Ganymede.md) have a special racial bonus that make [Deep Shrines](Deep_Shrines.md) cost one less Knowledge point to make a deal with.
-    -   [Deep Shrines](Deep_Shrines.md) will cost 4 Knowledge.
-    -   [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) will still cost 5 Knowledge
-    -   [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) and [Shrine of Mastery](https://deepwoken.fandom.com/wiki/Deep_Shrines#Shrine_of_Mastery) will still cost 1 Knowledge.
-    -   _This is similar to the Khan racial bonus, which allows you to use tools when you have 3 points less than the required amount._
+    -   Most [Deep Shrines](Deep_Shrines.md) will cost 4 Knowledge.
+    -   [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) will still cost 9 Knowledge
+    -   The [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) and [Shrine of Mastery](https://deepwoken.fandom.com/wiki/Deep_Shrines#Shrine_of_Mastery) are unaffected, and will still cost 1 Knowledge.
 -   An icon identical to Knowledge was in the game during the early beta. Its purpose was unknown.
 -   Knowledge is not simply just knowing about things; it is specifically "forbidden knowledge" as described by Klaris, which explains why it is valuable enough to be traded with other beings.
     -   As such, the Moonseye Tome likely floods the user's mind with aforementioned forbidden knowledge. As the cacophony and madness of the voices decreases, so too does the Knowledge granted by the tome.

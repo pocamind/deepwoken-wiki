@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 139711
+revid: 140102
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -146,8 +146,8 @@ Wind
 
 **Effect:** _Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target._
 
--   Deals 133.96 (33.49\*4) DMG, 32.78 posture total (16.4 kick + 5.46\*3 hits), 0.65s windup, 0.25s delay between each kick, 8s cd.
--   With 6 songchant deals 149.08 (37.27\*4) DMG
+-   Deals 133.96 (33.49\*4) DMG, 32.78 posture total (16.4 kick + 5.46\*3 hits), 0.65s windup, 0.25s delay between each kick, 8s CD at 5 lvl
+-   With 6 songchant deals 149.08 (37.27\*4) DMG at 5 lvl
 -   Projectile is medium-ranged and explodes on impact.
 -   Initial hit doesn't apply hit stun but pushes people away.
 
@@ -183,7 +183,7 @@ Wind
 
 **Effect:** _Launch a wind projectile towards where you're facing._
 
--   Deals 33.07 (37.27 with 6 songchant) DMG, 13 posture cd, 0.65s windup, 8s cd.
+-   Deals 33.07 (37.27 with 6 songchant) DMG, 13 posture cd, 0.65s windup, 8s CD at 5 lvl
 -   Can be improved with the "**Tempest Wind**" Talent, making it a [Rising Flame](Flamecharm.md#rising-flame)\-like attack that deals 53.82 (59.91 with 6 songchant) DMG, 0.6s windup at 5 lvl
 -   Project lasts about 3-5 seconds
 -   Modifying with a drift/rush shard will increase projectile speed significantly
@@ -336,8 +336,8 @@ Wind
 
 **Effect:** _Deploy a small green landmine at your cursor's location, activating a small tornado when made contact with._
 
--   Deals 38.87 (2.99\*13) DMG, 5.5 posture if thrown trap blocked, 13.78 posture if blocked entire active trap, 0.65s windup, 10s cd.
--   With 6 songchant deals 43.29 (3.33\*13) DMG
+-   Deals 38.87 (2.99\*13) DMG, 5.5 posture if thrown trap blocked, 13.78 posture if blocked entire active trap, 0.65s windup, 10s cd at 5 lvl
+-   With 6 songchant deals 43.29 (3.33\*13) DMG at 5 lvl
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
 -   Applies the _"Suffocate"_ status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
@@ -376,7 +376,7 @@ Wind
 
 -   Moves forward on its own after 2 seconds.
 -   Deals 223 (17.7 + 0.89\*12) DMG, tornado lasts for 4s, 1.3 posture per hit, 0.8s windup, 0.3s delay between hits 9s cd at 5 lvl.
--   With 6 Songchant deals 268.97 (19.7+0.99\*12) DMG
+-   With 6 Songchant deals 268.97 (19.7+0.99\*12) DMG at 5 lvl
 -   Projectile is short-ranged.
 -   Has Inniate Aftercut
 -   Has a special interaction with Haunted Gale. Haunted gale caps at 2 strikes per mantra, but when Tornado moves, the cap resets, allowing another 2 strikes.
@@ -414,8 +414,8 @@ Wind + Slash
 
 **Effect:** _Dash forwards kicking with a rush of winds dealing damage._
 
--   Deals 58.36 (14.59\*4) DMG, 17.5 posture, 0.5s windup, 11s cd at 5 lvl.
--   With 6 songchant deals 64.96 (16.24\*4) DMG
+-   Deals 58.36 (14.59\*4) DMG, 17.5 posture, 0.5s windup, 11s CD at 5 lvl.
+-   With 6 songchant deals 64.96 (16.24\*4) DMG at 5 lvl
 -   Can break objects.
 
  |
@@ -450,8 +450,8 @@ Wind + Slash
 
 **Effect:** _Ready yourself and then spin, creating a vertical column of sharp winds._
 
--   Deals 52.84 (35.88+12.56+4.4) DMG, 23 posture, 0.45s windup, 13s cd at 5 lvl.
--   With 6 songchant deals 58.81 (39.94+13.98+4.89) DMG
+-   Deals 52.84 (35.88+12.56+4.4) DMG, 23 posture, 0.45s windup, 13s CD at 5 lvl.
+-   With 6 songchant deals 58.81 (39.94+13.98+4.89) DMG at 5 lvl
 -   Sends opponents flying into the air.
 
  |
@@ -486,7 +486,7 @@ Wind + Slash
 
 **Effect:** _Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target._
 
--   Deals 43.04 (10.76\*4) DMG, 2.15 posture per projectile, 0.55s windup + 1s to hit, 10s cd.
+-   Deals 43.04 (10.76\*4) DMG, 2.15 posture per projectile, 0.55s windup + 1s to hit, 10s CD at 5 lvl
 -   With 6 songchant deals 47.84 (11.96\*4) DMG
 -   Projectiles are homing.
 -   Medium-far range.
@@ -526,7 +526,7 @@ Wind + Blunt (Grab), Wind (Throw)
 
 **Effect:** _Grab your target before spinning them in 360 degrees and then tossing them._
 
--   Deals 60.02 (5+1.2+53.82) + 10 if against wall DMG, GB posture, windup ranges from 0.7 to 0.9s (buggy), 10s cd at 5 lvl
+-   Deals 60.02 (5+1.2+53.82) + 10 if against wall DMG, GB posture, windup ranges from 0.7 to 0.9s (buggy), 10s CD at 5 lvl
 -   With 6 songchant deals 66.24 (5+1.33+59.91) + 10 DMG if against wall
 -   The second hit (The throw) ragdolls the opponent and the ragdoll is cancellable.
 -   Procs **Breathing Impact** if thrown at a wall.
@@ -567,8 +567,8 @@ Wind + Blunt
 **Effect:** _Ascend while uppercutting your target, rapidly damaging them._
 
 -   Blocking it sends only the user into the air but cancels it after a small bit if it doesn't hit anyone after.
--   Deals 63.28 (13.44+13.44+13.44+11.48+11.48) DMG, 5.5 posture, 0.5s windup, 14s cd.
--   With 6 Songchant deals 65.88 (13.44+13.44+13.44+12.78+12.78) DMG
+-   Deals 63.28 (13.44+13.44+13.44+11.48+11.48) DMG, 5.5 posture, 0.5s windup, 14s CD at 5 lvl
+-   With 6 Songchant deals 65.88 (13.44+13.44+13.44+12.78+12.78) DMG at 5 lvl
 -   Posture breaking with this mantra won't continue it on to the multihits.
 -   Gems apply ONLY to the last hit, making bloodless' healing very low.
 -   Missing will not send the user into the air.
@@ -650,7 +650,7 @@ Wind
 
 **Effect:** _Fire a penetrating bullet of wind._
 
--   Deals 57.41 (63.9 with 6 songchant) DMG, 3.15 posture, 0.55s windup, 15s cd.
+-   Deals 57.41 (63.9 with 6 songchant) DMG, 3.15 posture, 0.55s windup, 15s CD at 5 lvl
 -   Blast spark version deals 59 DMG, With 6 songchant does 67 DMG. 15 against wall, 26 posture.
 -   Pushes and ragdolls opponent.
 -   Applies the _"Suffocate"_ status effect.
@@ -690,8 +690,8 @@ Wind + Slash
 
 **Effect:** _Cast several fast, wind-enhanced slashes that form a star._
 
--   Deals 51.85 (10.37\*5) DMG, 13.6 posture, 0.45s windup, has 15s cd.
--   With 6 songchant deals 57.7 (11.54\*5) DMG
+-   Deals 51.85 (10.37\*5) DMG, 13.6 posture, 0.45s windup, has 15s CD at 5 lvl
+-   With 6 songchant deals 57.7 (11.54\*5) DMG at 5 lvl
 -   Last hit of the mantra sends the opponent upwards, sometimes even when parried. (Only at Mantra Lv: 2+)
 -   Can be modified with Cloud/Stratus Stones to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 
@@ -798,7 +798,7 @@ Wind + Slash
 
 **Effect:** _Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled._
 
--   Deals 65.18 (72.55 with 6 songchant) DMG, 16.5 posture, 0.95s windup (0.6s to teleport, 0.35s wait time to hit after teleport), 12s cd at 5 lvl.
+-   Deals 65.18 (72.55 with 6 songchant) DMG, 16.5 posture, 0.95s windup (0.6s to teleport, 0.35s wait time to hit after teleport), 12s CD at 5 lvl.
 -   Decreases in range as your health gets lower.
 -   Travels half as far if there's no enemy in its path.
 -   Can be modified with Crystal/Perfect Lenses to increase the distance travelled, making it a very useful tool for horizontal mobility.
