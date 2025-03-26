@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 139972
+revid: 140093
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -27,7 +27,7 @@ categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Weap
 
 ## Description
 
-**Rosen's Hellflame** is a Legendary Rifle: the product of the highly intelligent Gunsmith Rosen. In exterior design, it is akin to the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with its shape similar and mechanisms gilded, though it bears a much more lavish design, and boasts a sheen of scarlet metal. Utilizing ether, it can propel fire from out of the barrel in spectacular display. The weapon scales off Medium and Flamecharm.
+**Rosen's Hellflame** is a Legendary Rifle: the product of the highly intelligent Gunsmith Rosen. In exterior design, it is akin to the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with its shape similar and mechanisms gilded, though it bears a much more lavish design, and boasts a sheen of scarlet metal. Utilizing ether, it can propel fire from out of the barrel in spectacular display or sometimes a spiral way. This weapon scales off Medium and Flamecharm.
 
 Every 2nd and 4th M1 will apply burn / proc Lava Serpent (depending on which path you take)
 
@@ -37,7 +37,7 @@ This weapon can be obtained from [The Diluvian Mechanism](The_Diluvian_Mechanism
 
 The Rosen's Hellflame has two critical attacks.
 
-The normal critical holds the rifle in front of you and shoots a constant torrent of flames from its barrel. The crit consumes ether to spray flames and will end if you run out of ether or if 5 seconds pass. It is not cancelled on being parried or blocked. This critical can be canceled by pressing M2.
+The normal critical holds the rifle in front of you and shoots a constant torrent of flames from its barrel. The crit consumes ether to spray flames and will end if you run out of ether or if 5 seconds' pass. It is not cancelled on being parried or blocked. This critical can be canceled by pressing M2.
 
 The jumping critical causes your character to perform a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a burn-inflicting patch of fire on the ground which sets any foes on fire if they come in contact with it.
 

@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 131202
+revid: 140097
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -63,6 +63,8 @@ If you have the [Ignition Delver origin](Origins.md), you are able to turn **3**
 -   [Shotel](Shotel.md)
 -   [Trident Spear](Trident_Spear.md)
 -   [Vigil Longsword](Vigil_Longsword.md)
+-   [Cavalry Saber](Cavalry_Saber.md)
+-   [Officer Saber](Officer_Saber.md)
 
 ### Heavy Weapons
 
