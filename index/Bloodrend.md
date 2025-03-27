@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 139955
+revid: 140117
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1079,7 +1079,7 @@ _**"I have sewn insidious poison within my enemy's blood."**_
  | 
 
 Gruesome Harvest  
-(95 Bloodrend)
+(85 Bloodrend)
 
  | 
 

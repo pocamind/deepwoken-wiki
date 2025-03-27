@@ -1,6 +1,6 @@
 ---
 title: Carefree Garments
-revid: 139906
+revid: 140114
 source: https://deepwoken.fandom.com/wiki/Carefree_Garments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -28,7 +28,7 @@ The [Fleetfoot](Talents.md#equipment-talents) Talent grants you a speed boost af
 
 ## Location
 
-This Outfit's Schematic can be obtained from [Layer 1](First_Layer.md) chests, the [Diluvian Mechanism](The_Diluvian_Mechanism.md), and the [Carnival of Hearts](Carnival_of_Hearts.md)
+This Outfit's Schematic can be obtained from [Layer 1](First_Layer.md) chests, the [Diluvian Mechanism](The_Diluvian_Mechanism.md), and the [Carnival of Hearts](Carnival_of_Hearts.md).
 
 ## Trivia/Notes
 
