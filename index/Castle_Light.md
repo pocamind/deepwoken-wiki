@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 135247
+revid: 140143
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1, The Divers]
@@ -64,8 +64,8 @@ The Armory.
 -   [Banker](Banker.md)
 -   [Barber](Barber.md)
 -   [Blacksmith](Blacksmith.md)
--   Dust
--   Graha
+-   [Dust](Dust.md)
+-   [Graha](Graha.md)
 -   [Mark Adaset](Mark_Adaset.md)
 -   [Mystic](Mystic.md)
 -   [Nyanna](Nyanna.md)

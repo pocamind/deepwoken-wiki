@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 139426
+revid: 140141
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -125,7 +125,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
     -   Status/Elemental Effects
     -   Flinging
     -   Grabbing Mantras/Crits (e.g. [Legion Kata](Legion_Kata.md) crit or Jolt Grab)
--   **Most monsters can be staggered.** While humanoid NPCs can be posture broken, most monsters can be Staggered (on rare occasion, some can both be Staggered and posture broken). Depending on your ability to deal ARMOR DAMAGE, hitting a monster drains their armor bar (Ironsing works to drain their armor, metal enchant doesn't). When armor bar is empty, the monster will be stunned for around 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself, but once they wake up from stun their armor is fully regenerated.
+-   **Most monsters can be staggered.** While humanoid NPCs can be posture broken, most monsters can be Staggered (on rare occasion, some can both be Staggered and posture broken). Depending on your ability to deal ARMOR DAMAGE, hitting a monster drains their armor bar (Ironsing works to drain their armor, Metal enchant increases damage to armor, but due to the draining effect you could say it also drains their armor.). When armor bar is empty, the monster will be stunned for around 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself, but once they wake up from stun their armor is fully regenerated.
 -   **All monsters have 25% physical armor and in some cases up to 50%. However humanoids dont have any armor and tanky by their hp. (Info from Arch\_Mage)**
 
 ## PvE Scaling

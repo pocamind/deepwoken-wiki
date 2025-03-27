@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Conceit
-revid: 138078
+revid: 140139
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Conceit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -15,6 +15,8 @@ categories: [NPCs, Mechanics]
 “ DELVE INTO YOUR LONG FORGOTTEN PAST. WHAT POSSIBILITIES HAVE YOU SHED? ”
 
 ― Shrine of Conceit
+
+Shrine of Conceit location on the map
 
 **If your looking for another shrine return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
 
