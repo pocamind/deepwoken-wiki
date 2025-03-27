@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 140115
+revid: 140119
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -12,7 +12,7 @@ categories: [Outfits, Items]
 
 ## Transmogging
 
-You may also keep the stats of an Outfit you are currently wearing while choosing the look of another Outfit you already crafted. To do this, you must "Transmog" to a crafted Outfit you want to have the appearance of instead of swapping to it. This way you can mislead players with the appearance of your Outfit and max out your fashion stat.
+You may also keep the stats of an Outfit you are currently wearing while choosing the look of another Outfit you already crafted. To do this, you must "Transmog" to a crafted Outfit you want to have the appearance of instead of swapping to it. This way you can mislead players with the appearance of your Outfit and max out your fashion stat, or be funny by wearing something like [Black Diver](Black_Diver.md) for stats while wearing the [Diver Apprentice](Diver_Apprentice_Robes.md) Outfit to make people think you're a diver freshie.
 
 ## Outfit Stats
 

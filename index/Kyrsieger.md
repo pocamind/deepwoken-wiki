@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 140069
+revid: 140124
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -8,7 +8,7 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 
 # Kyrsieger
 
-| Kyrsieger | |
+| Kyrsieger(Coolest weapon known to man) | |
 |---|---|
 | type | Greatsword |
 | requirements | 50 HVY, 15 CHA |
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Scion of Ethiron, Weird Trader |
+| obtainment | Scion of Ethiron, Weird Trader, Dead People |
 | description | "The fall of Constellia was first heralded by a devastating piercing through its crystalline arches. Perhaps the most renowned member of the Kyrsan arsenal, the blade's explosive power can only be invoked through a solemn prayer to Ethiron. The words of this prayer worm their way into the minds of its bearer willing or not." |
 
 ## Description
@@ -35,9 +35,9 @@ It drops surprisingly commonly, exclusively from the [Scion of Ethiron](Scion_of
 
 ## Critical
 
-The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of purple energy. The critical is unable to be parried, signified by the red eye icon and sound que before firing. Holding down the critical attack button causes it to charge for a few more seconds, increasing the range, posture damage dealt and becomes an insta-guard break at max charge. The critical also applies charm upon hit.
+The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of purple energy. The critical is unable to be parried, signified by the red eye icon and sound que before firing. Holding down the critical attack button causes it to charge for a few more seconds, increasing the range, posture damage dealt and becomes an insta-guard break at max charge. The critical also applies charm upon hit. The game is kinda buns so sometimes a fully charged critical does 0 posture.
 
-The critical has a cooldown of **15 seconds**.
+The critical has a cooldown of **15 seconds**. (Should be 10 seconds and do more damage but the devs hate cool and balanced stuff)
 
 ## Trivia
 
@@ -47,4 +47,5 @@ The critical has a cooldown of **15 seconds**.
 -   The Kyrsieger was used in an assault on Constellia, the city Kaide, The Drowned Light ruled over.
 -   Weapon is soulbound upon being equipped.
 -   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.
--   At max HVY and CHA, the weapon deals 40.3 damage.
+-   At max HVY and CHA, the weapon deals 40.2 damage.
+-   Do a 360 No-Scope to charm some hot Felinor baddies!

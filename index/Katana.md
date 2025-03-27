@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 139473
+revid: 140130
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons]
@@ -25,7 +25,7 @@ categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Primadon, Titan of the East, Moon's Eyrie, The Diluvian Mechanism, Songseeker Wilds, Crypt of the Unbroken, Chime of Conflict, Dread SerpentAlloyed:, Alloying a Katana, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Primadon, Titan of the East, Moon's Eyrie, The Diluvian Mechanism, Songseeker Wilds, Crypt of the Unbroken, Chime of Conflict, Dread SerpentAlloyed:, Alloying a Katana, Maestro Evengarde Rest, Dread Serpent, Dead People |
 | description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
 
 ## Description

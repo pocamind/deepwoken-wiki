@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 140087
+revid: 140137
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1248,7 +1248,7 @@ Static Link
 
  | 
 
-Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long.
+Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long.
 
  | 
 
@@ -1313,22 +1313,6 @@ Static Allure
  | 
 
 Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Quick Link  
-(40 Thundercall, 15 Intelligence)
-
- | 
-
-Landing an uppercut adds a static link to your opponent.
 
  | 
 

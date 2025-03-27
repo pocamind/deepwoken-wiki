@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 138434
+revid: 140128
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords, The Ignition Union, Heavy Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatsw
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Layer 2 (F1/F2)Voidwalker Bounty Chests |
+| obtainment | Layer 2 (F1/F2)Voidwalker Bounty Chests, Dead People |
 | description | "A now legendary blade devised by the Ignition Union to exterminate the terrifying foes lurking deeper within the Depths. Said to constantly generate a warding heat that protects the wearer against the insidious chill of the Eternal Gale." |
 
 The Railblade is a weapon in _Deepwoken_.
