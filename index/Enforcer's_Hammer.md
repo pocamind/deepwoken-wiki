@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 140126
+revid: 140146
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Drops, Heavy Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Drops, Heavy 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Dropped directly from the Enforcer, Dead People |
+| obtainment | Dropped directly from the Enforcer |
 | description | "The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation." |
 
 ## Description

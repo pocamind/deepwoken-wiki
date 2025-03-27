@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 140095
+revid: 140151
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]
@@ -14,7 +14,9 @@ categories: [Items, Tools]
 
 ## Description
 
-The Lumber Axe is useful to obtain Wood. Wood is often used for Campfire Pits.
+The Lumber Axe is a tool used to chop trees for wood logs. Wood is commonly used to craft Campfire Pits or make Repair Kits, but can also be turned into sticks.
+
+The Lumber Axe can also be used to attack players, and deals double damage to obstacles/structures, when attacking players this **can** proc Talents like Spine Cutter and the Enchant on your equipped weapon.
 
 There are many ways to obtain the axe:
 
@@ -25,14 +27,11 @@ There are many ways to obtain the axe:
     -   Isle of Vigils Inn
     -   [Greathive Aratel](Greathive_Aratel.md) Blacksmith
     -   [Voidheart](Voidheart.md)
-
--   Buying it for 3 notes at the [Bandit](Bandit.md) Village
+    -   [Bandit](Bandit.md) Village
 
 -   Crafting it using 2 Logs and 2 Iron at a crafting table.
 -   Purchasing one from [Merchant Ships](Travelling_Merchant.md).
 
-Lumber axe can attack players and deals double damage to obstacles, when attacking players this **can** proc spine cutter and enchants from equipped weapon.
-
 ## Trivia
 
--   Used to have 80 STR scaling that lead up to 150 DMG, but was fixed at 22 March 2025 with a note "Fixed lumberjacks being as strong as they are canonically"
+-   The Lumber Axe used to have a massive 80 STR scaling that lead up to dealing an absurd amounts of damage, but was changed on the [March 21st 2025](Version_History/2025.md) with a note saying "Fixed lumberjacks being as strong as they are canonically".
