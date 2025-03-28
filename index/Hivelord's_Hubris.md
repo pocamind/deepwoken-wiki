@@ -1,9 +1,9 @@
 ---
 title: "Hivelord's Hubris"
-revid: 140219
+revid: 140236
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Greathammers]
+categories: [Weapons, Greathammers]
 ---
 
 # Hivelord's Hubris
@@ -45,5 +45,3 @@ At 100 HVY it deals **49** damage and **57.2** with 6 proficiency.
 ## References
 
 1.  [↑](#cite-ref-1)
-
-File:Dickman.png

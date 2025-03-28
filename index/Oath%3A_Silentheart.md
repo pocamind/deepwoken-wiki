@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 140081
+revid: 140237
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -99,7 +99,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
         -   Medium and Heavy variants are capable of auto-gripping with Flow State active.
         -   Light - deals 10 Fixed Damage.
-        -   Medium - deals 20 Fixed Damage
+        -   Medium - deals 20 Fixed Damage (35 in flow state)
         -   Heavy - deals 30 Fixed Damage
 
 -   **Merciless Blade - Passive**
@@ -114,7 +114,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
         -   Has faster windup with Flow State active. The delay can trick opponents.
         -   Light - 15 Fixed Damage
-        -   Medium - 30 Fixed Damage (15 each)
+        -   Medium - 30 Fixed Damage (15 each) (20 each in flow state)
         -   Heavy - 25 Fixed Damage
 
 -   **Rising Star - Passive**
@@ -123,7 +123,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
         -   _Flow-State makes wind-up Slower? (More testing Needed)_
         -   Light - 35 Fixed Damage (15 + 20)
-        -   Medium - 30 Fixed Damage
+        -   Medium - 30 Fixed Damage (40 in flow state)
         -   Heavy - 40 Fixed Damage
 
 -   **True Vantage - Passive**

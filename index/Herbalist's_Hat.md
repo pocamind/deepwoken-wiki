@@ -1,6 +1,6 @@
 ---
 title: "Herbalist's Hat"
-revid: 116365
+revid: 140243
 source: https://deepwoken.fandom.com/wiki/Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -30,5 +30,5 @@ The Herbalist's Hat is an [Equipment](Equipment.md) item under the "Head" catego
 
 ## Trivia
 
--   The Herbalist's Hat and the [Alchemist's Hat](<Alchemist's_Hat.md>) have a very similar design, with the only difference being the color of the strings.
+-   The Herbalist's Hat and the [Alchemist's Hat](<Alchemist's_Hat.md>) have a very similar model, with the only difference being the color of the strings.
 -   The Herbalist's Hat has a bigger version of itself, which is called the [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>).

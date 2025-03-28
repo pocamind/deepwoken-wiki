@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 140137
+revid: 140242
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -313,7 +313,10 @@ Lightning
 -   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
 -   Can grant a different effect with the "**Static Flash Clone**" Talent, which causes the mantra to summon a clone briefly as an afterimage before disappearing, granting the user a small speed boost and making them invisible for a short period of time before resurfacing from invisibility.
     -   When used with the **Blast Spark** mantra variant, the clone conjures a **Lightning Strike** when it disappears.
--   Modifying the mantra with **Aeon/Eternal Logstones** does not produce more clones.
+-   Only 6 clones can exist at a time.
+-   Modifying the mantra with **Aeon/Eternal Logstones** _increases the health_ and amount of time the clones are active.
+    -   The health modifications do not affect the second clone if a Multiplying Spark is used
+    -   With 3 Aeon & Eternal Longstones the clones will last for 80 seconds
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the clone to detonate and shock upon hitting a target/death.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to summon an additional clone.
 

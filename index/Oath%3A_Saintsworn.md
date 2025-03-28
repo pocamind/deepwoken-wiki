@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 139883
+revid: 140234
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -82,7 +82,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-To progress Saintsworn, you need to complete [World Events.](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Interluminary Parasol](Interluminary_Parasol.md), and [Carnival of Hearts](Carnival_of_Hearts.md))
+To progress Saintsworn, you need to complete [World Events](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and [Interluminary Parasol](Interluminary_Parasol.md)).
 
 With the first completion of the World Event, you will get Ether Proselyte, Hero's Assist and Saint's Negation.
 
@@ -96,7 +96,7 @@ Each stance uses the critical of the matching hero blade.
 
 ### **Saintsblade**
 
-By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **30** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**. The Saintsblade doesn't scale off of any attribute or trait, nor does it apply elemental status effects. It does, however, gain extra PEN from Proficiency.
+By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **30** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**. The Saintsblade doesn't scale off of any attribute or trait, nor does it apply elemental status effects. It does, however, gain extra PEN from Proficiency. The Saintsblade can proc Enchants from your normal weapon, as well as boost it's stats from Stars (confirmation needed).
 
 ### **Saint Stances**
 
