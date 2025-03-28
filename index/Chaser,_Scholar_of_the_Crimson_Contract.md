@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 140037
+revid: 140295
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, The Divers, The Ministry]
@@ -335,7 +335,7 @@ Exhaustive Loot Table
 -   Much like the Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
 -   Chaser had two name changes. At first, his name was changed from "Chaser, Scholar of the Crimson Contract" to "Chaser, Scholar of the Burning Blood". In September 2024 it was changed back to "Chaser, Scholar of the Crimson Contract".
 -   His hair ID is 77799954 & the beard ID is 4995497755
--   Chaser's Hex Code Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
+-   Chaser's Hex Code Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' above) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
 -   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[7\]](#cite-note-7)
 -   Due to Chaser's attacks ignoring armor damage resistance, the only additional threat he presents to W Rank players is the doubled damage from Fragile Heart.
 -   Chaser's old laugh used to be the same as the [Duke's](Duke_Ishamon_Erisia.md) but lower pitched and echoed.

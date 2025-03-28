@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 138544
+revid: 140291
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -20,13 +20,11 @@ categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second 
 
 ## Description
 
-**Captain Orlandeau** (more stylized as **Cap'n Orlandeau**) is a Panther [Felinor](Felinor.md) captain of [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). He initially first appeared as a tutorial guide for the game upon talking to him (in the form of a fragment of your memory) in the [Fragments of Self](Fragments_of_Self.md) and taking the [Castaway Origin](Origins.md). Once manned a crew of seven in his ship, his ship was scuttled by [The Authority](The_Central_Authority.md), seemingly resulting in his death.
+**Captain Orlandeau** (more stylized as **Cap'n Orlandeau**) is a Panther [Felinor](Felinor.md) and the captain of [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). He initially first appears in the [tutorial](Tutorial.md) for the game, which can be repeated by talking to him (in the form of a fragment from your own memory) in the [Fragments of Self](Fragments_of_Self.md) while being a [Castaway](Origins.md).
 
-He navigated The Depths, finding his way to [Castle Light](Castle_Light.md), leaving him as the sole survivor among the Scoundrel's Bounty crew. After a disagreement with [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md), she had him damned the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md). Believing this may be his final plunder, he explores the sleeping city in search of wealth, fame, and power.
+After the events of the tutorial, he navigated The Depths, finding his way to [Castle Light](Castle_Light.md), leaving him as the sole survivor among the crew of the Scoundrel's Bounty. After having an argument with [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md), she damned him to the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md). Believing this may be his final plunder, he explores the sleeping city in search of wealth, fame, and power.
 
-The player can run into him atop of one of the balconies in the city. His dialogue changes depending on if you did the tutorial or not.
-
-In the tutorial, he teaches you the basics of the game, including how to fight, parry, block, sell items, and more. He fashions a Razor Cutlass as a weapon, which he uses to teach the player the basics of combat.
+The player can run into him in New Kyrsa atop of one of the balconies near the middle of the city with his dialogue changing depending on if you did the tutorial or not.
 
 ## Dialogue in the City of New Kyrsa
 

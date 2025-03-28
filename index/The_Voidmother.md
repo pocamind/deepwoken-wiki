@@ -1,6 +1,6 @@
 ---
 title: The Voidmother
-revid: 137962
+revid: 140297
 source: https://deepwoken.fandom.com/wiki/The_Voidmother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Knives of Eylis]
@@ -85,7 +85,6 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 </tr>
 <tr>
   <td colspan="6"><i><b>Very well, Knife.</b></i></td>
-  <td colspan="6"><s><i><b>Your heart beats faster still. Return once you have killed your fear.</b></i></s> no longer this</td>
 </tr>
 <tr>
   <td colspan="6">End (You get teleported)</td>

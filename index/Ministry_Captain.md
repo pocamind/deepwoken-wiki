@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 140282
+revid: 140292
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -57,4 +57,4 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 -   Ministry Captains are identical an appearance to [Ministry Scouts](Ministry_Scout.md), yet hold a higher rank.
     -   This trend can also be seen with [Apprentice Divers](Apprentice_Diver.md) and regular [Divers](Diver.md).
     -   They are NOT to be confused with their scout variant, as using a light approach on them will almost always result in death for their higher HP pool and their variety of attacks along with them spawning in packs of 3.
-    -   The only way of making them apart is seeing if they use shadow roar or not.
+    -   The only way of telling them apart is seeing if they use shadow roar or not.

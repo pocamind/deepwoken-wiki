@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 139282
+revid: 140298
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,6 +80,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Invisible players are revealed by a Blindseer Eye icon.
         -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portals.
     -   With this Talent, the [Tacet Murmur](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
+    -   This works on anyone who is invisible, yourself included.
     -   Obtainment: 4 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
@@ -91,9 +92,9 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Has a **high** windup.
         -   Not parryable, deals a little bit of posture damage every hit. Can be used to bait vents by staying at a distance.
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
-        -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advised to get a friend to distract them.
+        -   Nautilodaunts and Enforcers are very likely to just block the entire beam. It is advised to get a friend to distract them.
     -   You can run during the windup, but can only walk while the beam is active.
-    -   Getting vented while using beam cancels it.
+    -   Getting hit by a Vent while using Sightless Beam cancels it.
     -   Obtainment: 5 Pathfinders helped in the Depth Trial (must be alive)
 
 ## Notes
@@ -104,8 +105,9 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 
 ## Trivia
 
--   **BLINDSEER MANTRAS DONT SCALE WITH WILLPOWER AT ALL**
+-   **BLINDSEER MANTRAS DON'T SCALE WITH WILLPOWER AT ALL.**
 -   You can reroll the Mental Fortress Talents and still keep the oath.
+-   Many Blindseer moves drain your sanity as a price, so it's best to use the moves with caution.
 -   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
 -   The glyph on the wall also can be found at King Tresher room in Lightkeeper Temple, the glyph also stating about how to progress Blindseer Oath.
 -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
@@ -114,7 +116,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   There is a bug where the mask decoration persists even upon Oath removal.
 -   As stated in an interview with Raguza, he got the inspiration for blindseer when he was cosplaying lee sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the trophy room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
--   **Be extremely careful** with who you let into your trial, as you have no idea if the pathfinder you're helping has an [Echo modifier](Echoes.md) such as Vow of Thorns or Deep Champion, or if they have activated the [Shrine of Courage](Shrine_of_Courage.md)
+-   **Be extremely careful** with who you let into your trial, as you have no idea if the Pathfinder you're helping has an [Echo modifier](Echoes.md) such as Vow of Thorns or Deep Champion, or if they have activated the [Shrine of Courage](Shrine_of_Courage.md). It's recommended to bring Pathfinder friends to help you progress Blindseer.
 -   The Blindseer eye is a repeated symbol throughout the game.
-    -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the [Vesperian](Vesperian.md) variation of Blindseer
-    -   Unparryable attacks of [monsters](Monsters.md), weapons, and mantras are accompanied by a red Blindseer eye (e.g. [bonekeeper](Bone_Keeper.md) grab and megalodaunt kick)
+    -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the [Vesperian](Vesperian.md) variation of Blindseer.
+    -   Unparryable attacks of [monsters](Monsters.md), weapons, and mantras are accompanied by a red Blindseer eye (e.g. [Bone Keeper](Bone_Keeper.md)'s grab).

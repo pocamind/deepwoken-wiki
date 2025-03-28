@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 138807
+revid: 140289
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies]
@@ -33,6 +33,11 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 -   Flings and ragdolls player.
 
  | ✗ | ✗ | ◯ | (★★☆) |
+| **Scream** | TBA | The Construct screams, signifying that **Meteor Punch** is off cooldown and can be used again. Does no damage.
+
+-   Stay cautious of the Meteor Punch attack after he uses this move.
+
+ | N/A | N/A | N/A | (☆☆☆) |
 | **Meteor Punch** | 
 
  | Punches the ground with it's right fist, creating two circular shock-waves that do roughly 200 damage.
@@ -54,7 +59,7 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 ## Trivia
 
 -   It was virtually impossible to fight these directly for years after Deepwoken's release due to their animations being heavily bugged. They were fixed at an unknown date.
--   Prioritizes [Stone knights](Stone_Knight.md) below [Authority Captains](Authority_Captain.md), meaning it will fight the Captain before the Knight.
+-   Prioritizes [Stone Knights](Stone_Knight.md) below [Authority Captains](Authority_Captain.md), meaning it will fight the Captain before the Knight.
 -   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](The_Starswept_Valley.md).
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
     -   Hive Constructs will almost always win these events without player intervention.
