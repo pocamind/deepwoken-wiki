@@ -1,9 +1,9 @@
 ---
 title: Chum
-revid: 124767
+revid: 140268
 source: https://deepwoken.fandom.com/wiki/Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Fishing]
+categories: [Items, Fishing, Alchemy]
 ---
 
 # Chum

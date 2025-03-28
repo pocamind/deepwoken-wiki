@@ -1,6 +1,6 @@
 ---
 title: Makolis Pariah Katatonicus
-revid: 138505
+revid: 140287
 source: https://deepwoken.fandom.com/wiki/Makolis_Pariah_Katatonicus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Layer 2, Floor 1]
@@ -52,5 +52,3 @@ They ask the player to rest with them, and to be friends during said time.
 </tr>
 </tbody>
 </table>
-
-|}

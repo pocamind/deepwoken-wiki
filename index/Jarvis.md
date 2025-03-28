@@ -1,9 +1,9 @@
 ---
 title: Jarvis
-revid: 139477
+revid: 140255
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Mechanics]
+categories: [Etrean NPCs, NPCs, Mechanics, NPCs located in the Eastern Luminant]
 ---
 
 # Jarvis

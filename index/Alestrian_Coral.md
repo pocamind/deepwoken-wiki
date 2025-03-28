@@ -1,9 +1,9 @@
 ---
 title: Alestrian Coral
-revid: 135724
+revid: 140269
 source: https://deepwoken.fandom.com/wiki/Alestrian_Coral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Harvestables]
+categories: [Ingredients, Harvestables, Alchemy]
 ---
 
 # Alestrian Coral

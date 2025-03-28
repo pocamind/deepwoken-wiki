@@ -1,9 +1,9 @@
 ---
 title: Job Boards
-revid: 133745
+revid: 140256
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Quests, NPCs]
+categories: [In progress without reason, InProgressPages, Quests]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

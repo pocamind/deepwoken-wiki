@@ -1,9 +1,9 @@
 ---
 title: Seaweed Bundle
-revid: 107447
+revid: 140276
 source: https://deepwoken.fandom.com/wiki/Seaweed_Bundle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients]
+categories: [Ingredients, Alchemy]
 ---
 
 # Seaweed Bundle

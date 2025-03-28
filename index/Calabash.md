@@ -1,9 +1,9 @@
 ---
 title: Calabash
-revid: 135720
+revid: 140267
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Ingredients, Items, Harvestables]
+categories: [Food, Ingredients, Items, Harvestables, Alchemy]
 ---
 
 # Calabash

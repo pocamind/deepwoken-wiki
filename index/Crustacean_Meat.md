@@ -1,9 +1,9 @@
 ---
 title: Crustacean Meat
-revid: 138518
+revid: 140261
 source: https://deepwoken.fandom.com/wiki/Crustacean_Meat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Uses, Ingredients, Drops, Items]
+categories: [Uses, Ingredients, Drops, Items, Alchemy]
 ---
 
 # Crustacean Meat

@@ -1,9 +1,9 @@
 ---
 title: Scallop
-revid: 135726
+revid: 140275
 source: https://deepwoken.fandom.com/wiki/Scallop
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Uses, Ingredients, Harvestables]
+categories: [Uses, Ingredients, Harvestables, Alchemy]
 ---
 
 # Scallop
