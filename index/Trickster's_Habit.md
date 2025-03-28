@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 139810
+revid: 140168
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -38,9 +38,8 @@ List of buffs being:
 
 List of afflictions being:
 
--   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s.
 -   Suffocation applied to self for a few seconds.
--   Lowers your Swingspeed. Indicated by black 'x' marks coming off of your body.
+-   Randomizes your Spit CD, anywhere between 5-20~ seconds. Indicated by a ''Black cross'' effect.
 
 ## Location
 
@@ -52,3 +51,4 @@ This Outfit's Schematic can be found in:
 
 -   Worn by [Tillian](Tillian.md) during the Carnival of Hearts.
 -   This outfit shares identical stats with [Tillian's](Tillian.md) sister [Aelita's](Aelita.md) outfit: "the [Jester's Garb](<Jester's_Garb.md>)."
+-   The ''Black cross'' effect, procs the [talent](Talents.md) ''Charged return'' granting 10% increased DMG while under its effect.

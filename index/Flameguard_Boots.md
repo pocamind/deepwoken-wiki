@@ -1,6 +1,6 @@
 ---
 title: Flameguard Boots
-revid: 123604
+revid: 140199
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -26,7 +26,7 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-Flameguard Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through Hell Mode.
+goon boots
 
 ## Trivia
 
