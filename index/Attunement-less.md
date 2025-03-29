@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 140332
+revid: 140373
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1052,7 +1052,7 @@ N/A
 
 -   May still combat tag opponents who are not facing you.
 -   This move causes humanoid NPCs to block less.
--   Shares a cooldown with Sing.
+-   Shares a cooldown with [Sing](Attunement-less.md#sing).
 
  |
 | 
@@ -1208,7 +1208,7 @@ N/A
 
 -   Inflicts Charm on nearby entities.
 -   Can be modified with stratus stones to increase range.
--   Shares a cooldown with Glare.
+-   Shares a cooldown with [Glare](Attunement-less.md#glare).
 -   Can be upgraded with the **Encore** Talent, applying **true stun** if you land Sing on a Charmed opponent.
 -   Can be upgraded with the **Propagandist** Talent, granting your allies [Overcharm](Status_Effects.md#overcharm) for 15 seconds.
 
@@ -1418,6 +1418,7 @@ Slash
 
 **Effect:** _User turns invisible and then reveals themselves, performing a moderate amount of slashes._
 
+-   Constantly consumes Ether while invisible.
 -   M1 during this Mantra to perform the slashes. Performing slashes consumes Ether.
 -   The slashes lock onto the closest target within Ceaseless' range.
 -   If you go too long without doing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.

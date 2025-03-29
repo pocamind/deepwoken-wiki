@@ -1,6 +1,6 @@
 ---
 title: Dwelling Charm
-revid: 137827
+revid: 140349
 source: https://deepwoken.fandom.com/wiki/Dwelling_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Items]
@@ -20,11 +20,11 @@ categories: [Guilds, Items]
 
 ## Description
 
-Dwelling Charms can be purchased at Guild Halls for and at Guild Bases for.
+Dwelling Charms can be purchased at Guild Halls for or inside of a Guild Base for.
 
 A Dwelling Charm allows you to summon your [Guild Base](Guild_Bases.md) ten times until it runs out, commonly used if you aren't a guild officer or leader who can do it for free using the [Chime of Dwelling](Chime_of_Dwelling.md).
 
 ## Trivia
 
--   The physical model is a white tag with red, unreadable lettering on it. We do not know if this is a real language or a made-up one.
--   Allows a void walker actively on the hunt to place their guild base even while under the effects of the grasp of eylis unlike the chime of dwelling
+-   The physical model is a white tag with red, unreadable lettering on it. It is currently unknown whether or not this is a real language or a made-up one.
+-   Allows a voidwalker actively on the hunt to place their guild base even while under the effects of the grasp of eylis unlike the chime of dwelling

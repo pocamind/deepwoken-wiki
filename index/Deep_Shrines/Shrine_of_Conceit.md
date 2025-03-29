@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Conceit
-revid: 140139
+revid: 140353
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Conceit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -22,7 +22,7 @@ Shrine of Conceit location on the map
 
 ## Description
 
-Located in [Saramaed Summit](../Saramaed_Summit.md) at [Miner's Landing](<../Miner's_Landing.md>) above the Ignition Union vs Summer Company event near the Resonance Door.
+Located within the [Saramaed Summit](../Saramaed_Summit.md) at [Miner's Landing](<../Miner's_Landing.md>) above the Ignition Union vs Summer Company event near the Resonance Door.
 
 ## Effects/Details
 

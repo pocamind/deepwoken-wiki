@@ -1,6 +1,6 @@
 ---
 title: Marro
-revid: 131744
+revid: 140359
 source: https://deepwoken.fandom.com/wiki/Marro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -36,7 +36,7 @@ The Chrysid Elder of my village, yes. Traditionally they are often deemed an Eld
 1.  What do you mean?
 2.  \[End Dialogue\]
 
-When a Chrysid reaches a point of great wisdom, they soon are bleesed with a neck mane as proof o f their knowledge. Very few Chrysids tend to possess one, it's a great honor to be able to serve him.
+When a Chrysid reaches a point of great wisdom, they soon are bleesed with a neck mane as proof of their knowledge. Very few Chrysids tend to possess one, it's a great honor to be able to serve him.
 
 1.  \[End Dialogue\]
 

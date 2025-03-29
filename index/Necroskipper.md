@@ -1,6 +1,6 @@
 ---
 title: Necroskipper
-revid: 138491
+revid: 140350
 source: https://deepwoken.fandom.com/wiki/Necroskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters, Etrean Luminant]
@@ -14,7 +14,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 Beings formed out of the remnants of ether-proficient warriors, they are brought back once more in a **group of three** by [Ministry Necromancers](Ministry_Necromancer.md). However, they are only limited to the common elements of [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), they seem to have basic proficiencies in these elements, being able to conjure fireballs and ice blades respectively.
 
-Seemingly from the same magic of the Necromancy, they also wear colour-coded armor over a plated outfit that is also worn by [Minos](Minos,_Sinner_of_Flame.md).
+Seemingly from the same magic of the Necromancy, they also wear colour-coded armor over a plated outfit that is also worn by [Iblis](Iblis,_The_Fallen_Angel.md) and [the](Minos,_Sinner_of_Flame.md) [other](Astaroth,_Sinner_of_Wind.md) [sinners](Abaddon,_Sinner_of_Ice.md).
 
 ## Moveset
 

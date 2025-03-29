@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 133104
+revid: 140354
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies]
@@ -53,7 +53,7 @@ Jolt Grab
 Gale Lunge
 
  | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Relentless Flames | User bear down on their foes with repeated fiery slashes. | ◯ | ✗ | (★★☆) |
+| Relentless Flames | User bear down on their foes with repeated fiery slashes. | ◯ | ◯ | (★★☆) |
 | Glacial Arc | An Arc of ice. | ◯ | ◯ | (★☆☆) |
 
 ### Boons

@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 137845
+revid: 140355
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Alpha Megalodaunt is a unique type of Megalodaunt naturally found in the Depths and the [Starswept Valley](The_Starswept_Valley.md). In addition, they may also be found, curiously, inside the Crypt of the Unbroken located at [Minityrsa](Minityrsa.md), found hanging around in one of the libraries.
+The Alpha Megalodaunt is a unique type of Megalodaunt most commonly found within [the Depths](The_Depths.md) and the [Starswept Valley](The_Starswept_Valley.md). In addition, they may also be found, curiously, inside the Crypt of the Unbroken located at [Minityrsa](Minityrsa.md), found hanging around in one of the libraries.
 
 “ Subordinate megalodaunts tend to pay close attention to the alpha of their territory, for reasons we cannot understand. Subject A has expressed the impressive ability to bring a creature as lazy as Subject C to his feet, a feat insurmountable to us, meager scholars. ”
 

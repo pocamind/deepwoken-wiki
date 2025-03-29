@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 139359
+revid: 140363
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -47,7 +47,7 @@ The critical attack has a cooldown of **10 seconds.**
 
 -   Gran Sudaruska M1s do not apply crystal or chill. This is intended.
     -   Prior to a patch, Gran Sudaruska used to convert **all** damage into Ice/Chill damage, leading to unintentional mechanics such as basic attacks, any mantras, and even **Venting** to apply crystals, this was patched and removed. However, the M1s used to apply Crystals prior to a later hotfix.
--   The first and only weapon that currently has the ability to speak.
+-   Gran Sudaruska is the first and only weapon that currently has the ability to speak.
     -   Some of her voice lines are:
         -   "Fall beneath our frost, drowned pawn."
         -   "Become memories, pawn."
@@ -69,10 +69,10 @@ The critical attack has a cooldown of **10 seconds.**
 -   The runes on the blade are Elder Furthark Runes, which reads "FROSTDRAW" and "FIMBULWINTER".
     -   Fimbulwinter is a harsh winter that preludes Ragnarök in Norse mythology.
 -   When trying to equip the weapon as a [Contractor](Oath%253A_Contractor.md), the game will state "The weapon rejects your very soul, the antithesis to your ideals." This is due to the fact that the soul of Sudaruska, the woman who occupies the weapon, hates the Ministry.
-    -   You can however, equip her before obtaining Contractor. Unequipping afterwards will make it impossible to equip her once more until you oathbreak Contractor or equip her as a new character.
+    -   You can however, equip her before obtaining Contractor. Unequipping afterwards will make it impossible to equip her once more until you break your oath as a Contractor or equip her as a new character.
     -   You can also equip her while wearing the [Prophet's Cloak](<Prophet's_Cloak.md>).
 -   The critical works with Meteor Impact.
 -   The critical teleports you to the person who used the crit.
--   Gran Sudaruska used to have a Power requirement of 3, although it was impossible to meet the other requirements within Power 3.
+-   Bizarrely, Gran Sudaruska used to have a Power requirement of 3, despite it being impossible to meet the stat requirements within Power 3.
 -   Gran Sudaruska could be used one handed even if the One Handed Training Talent was not obtained prior to its removal.
 -   Gran Sudaruska's Critical attack used to only be a spherical hitbox infront of the player. However, on the July 5th 2024 update, this was instead changed to be a 360 hitbox around the player.

@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 138584
+revid: 140351
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, The Central Authority]
@@ -11,6 +11,8 @@ categories: [Enemies, Authority Enemies, The Central Authority]
 Template:EnemyInfobox1.0
 
 ## Description
+
+_not to be confused with the outfit of a similar name, the Authority Peacekeeper Armour_
 
 Authority Peacekeepers are a type of enemy NPC found patrolling [Fort Merit](Fort_Merit.md). Despite their intimidating appearance, they are surprisingly weak compared to the [Authority Officer](Authority_Officer.md).
 

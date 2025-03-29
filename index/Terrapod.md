@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 138221
+revid: 140345
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Monsters]
 ― Mortus, on the Terrapod
 
   
-**Also known as Headcrabs, Turtles, or Bedbugs**
+**Also known as Headcrabs, Turtles, Crabs, or Bedbugs**
 
 **Normal:**
 

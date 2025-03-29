@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 137202
+revid: 140356
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -29,7 +29,7 @@ categories: [Weapons, Fists]
 
 The **Flamekeeper Cestus** is a Cestus that requires 65 LHT to use.
 
-An endgame option for pure Fists users, competing with the [Coral Cestus](Coral_Cestus.md) and [Drakemaw Gauntlets](Drakemaw_Gauntlets.md). The Flamekeeper Cestus in particular shares a better synergy with the Speed Demon talent and retains the critical attack of your Fist Style.
+An endgame option for pure Fists users, competing with the [Coral Cestus](Coral_Cestus.md), [Gaunts of Enmity](Gaunts_of_Enmity.md), and the [Drakemaw Gauntlets](Drakemaw_Gauntlets.md). The Flamekeeper Cestus in particular shares a better synergy with the Speed Demon talent and retains the critical attack of your Fist Style.
 
 ## Trivia
 

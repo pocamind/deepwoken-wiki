@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 139475
+revid: 140370
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -52,7 +52,7 @@ This Oath grants the player three extra [Wildcard Mantra](Mantras.md) slots, 10 
 
 Oathless' Oath resistance is actually Oath **armor** instead, which means it **is affected by PEN, is completely nullified if you have no armor durability, and is bypassed entirely by Oath abilities that have more than one damage typing**. This is because when an attack has more than one damage typing, you'll resist that damage based off your highest corresponding armor resistance; for example if you had 35% Blunt armor and 30% Thundercall armor, you'll resist 35% of Thunder Kick's damage. And so, because every Master [Outfit](Outfits.md#master) grants more than 20% Physical/Elemental armor, depending on what [Oath](Oaths.md) your opponent has, Oathless' 20% Oath armor may do absolutely nothing.
 
-As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not, which makes sense because Oathless makes you unbound to an Oath. Unless seen in a Bounty Board.
+As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not, which makes sense because Oathless makes you unbound to an Oath. Unless seen in a [Bounty Board](Bounty_Hunting.md).
 
 ## Trivia
 
@@ -66,14 +66,12 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 -   Developer intentions behind the design of Oathless have historically been divisive.
     -   Prior to Verse 2, they stated that Oathless was canonically the strongest Oath, though the veracity and exact meaning behind this statement are unclear; the developers are prone to retconning old ideas should they no longer suit their progressing vision of Deepwoken.
     -   More recently, it was supposedly stated to be a "seatwarmer" with the justification being they would like to create enough Oaths such that Oathless becomes redundant—a comment that was received negatively by the community due to its quest being more tedious than other Oaths. Regardless of its intended obsolescence, it still receives balance and QoL changes.
--   It is one of the few Oaths that can be resworn should you wish for [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) to remove it.
+-   It is one of the Oaths that can be resworn should you wish for [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) to remove it.
 -   Oathless will give you echoes for an Oath upon wiping. (Which playered abused to farm echoes and even make macros to autofarm echoes which caused the devs to add a 10 minute requirement to the Oath)
--   It is the only Oath that you can, realistically, get at Power 1.
 -   A bit of an oxymoron, because by being Oathless, you therefore have an Oath.
 -   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, [Viridian](Viridian.md) and [Celadon](Celadon.md), saying "Those eyes.. you wish to" and continue.
     -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"
 -   If you obtained Oathless on a past file, you can simply talk to [Cerulean](Cerulean.md) to obtain it, allowing you to skip the quest.
-    -   This means that you can speedrun obtaining an Oath with [Ignition Delver Origin](Origins.md#ignition-delver), which is useful as an easy echo farm, or if you need just a bit more echoes to get an upgrade.
 
 ## References
 
