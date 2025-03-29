@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 140110
+revid: 140317
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -44,6 +44,8 @@ For example:
 4.  80+ points in Strength => Level 5 Strength Mantra.
 
 In short: Every 20 points in a specific attribute will unlock the next level for said Mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that Mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its Mantras aside from a bit of damage scaling.
+
+  
 
 ## Attribute Mantras
 
@@ -480,6 +482,10 @@ N/A
 -   The damage reduction can be reduced by PEN, but PEN has halved effectiveness on it.
 -   Reinforce lasts 20 seconds with a 55 second cooldown.
 -   For each Mantra level, Reinforce's duration increases by 8 seconds and cooldown decreases by 5 seconds.
+    -   At level 2 lasts 28sec with 50sec CD.
+    -   At level 3 lasts 36sec with 45sec CD.
+    -   At level 4 lasts 44sec with 40sec CD.
+    -   At level 5 lasts 52sec with 35sec CD.
 -   Can be upgraded with the Fortitude Talent Cards **Lord's Tithe** and **Grand Support**.
 -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
 
@@ -881,7 +887,11 @@ N/A
 **Effect:** _Teleport a short distance towards the direction you're moving._
 
 -   Upgrading the Mantra decreases its cooldown by 2.5s per level.
--   15s cooldown at level 1, 5s CD at level 5.
+    -   At Level 1 has 15s CD.
+    -   At Level 2 has 12.5sCD.
+    -   At Level 3 has 10s CD.
+    -   At Level 4 has 7.5s CD.
+    -   At Level 5 has 5s CD.
 -   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
 -   If not moving, you instead teleport towards the direction you're facing. You'll also teleport a smaller distance.
 -   For ~2.5s after teleporting, all fall damage is negated.
@@ -1228,7 +1238,7 @@ Blunt
 
 **Effect:** _User lunges at the opponent to grab them. On contact with a target, they hold them while whispering dark truths in their ear._
 
--   Deals ?? damage, scaling slightly with how insane the opponent is. 10s CD.
+-   Deals 20.49 damage at level 5, scaling slightly with how insane the opponent is. 10s CD.
 -   Inflicts Charm for 7.5s on hit.
     -   Because of this, it will instantly proc Narcissist's Overcharm if you have the Talent.
 -   Is unventable.
@@ -1238,7 +1248,10 @@ Blunt
     -   Dread Whisper must be landed again within 15s of landing the previous one to gain the damage buff.
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
 -   Getting hit during the grab doesn't cancel the mantra, so be careful when using it around multiple enemies.
--   Can be modified with Crystal/Perfect Lenses.
+-   Incredibly fast and hard to react without predicting it, meaning it's rather easy to land on the least defensive type of players.
+-   The move lasts a decent while, allowing for effects like Burn to tear through health.
+    -   It also allows for Twisted Flames' Puppets and teammates using mantras such as Eclipse Kick to have a large window of time to hit your opponent.
+-   Can be modified with Crystal/Perfect Lenses to increase it's range.
 
  |
 | 
