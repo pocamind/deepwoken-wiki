@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 133830
+revid: 140328
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
@@ -133,4 +133,4 @@ Suri's brother's grave is located near the barber at [Isle of Vigils](Isle_of_Vi
 ## Trivia
 
 -   The flower seems to bug when changing luminant and can't be broken when taking damage
--   Likely a reference to Hollow Knight, which has a similar quest in which you deliver a flower to a grave and lose it if you take damage.
+-   His quest is likely a reference to Hollow Knight, which has a similar quest in which you are tasked to deliver a flower to a grave and lose it if you take damage.

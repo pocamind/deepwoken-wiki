@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 140317
+revid: 140331
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -122,7 +122,7 @@ Blunt
 
 **Effect:** _User unleashes a powerful left cross that knocks their opponent away, inflicting ragdoll and a good amount of knockback in the process._
 
--   Can fell trees. With [Treefelling Blow](Talents.md) Talent, you can gain wood from fallen trees.
+-   Can fell trees. With the [**Treefelling Blow**](Talents.md) Talent, you can gain wood from fallen trees.
 -   20/30/40/50/60 base damage per level, 22 posture, 2 Strength scaling
 -   72 damage at 100 Strength level 5
 
@@ -486,8 +486,9 @@ N/A
     -   At level 3 lasts 36sec with 45sec CD.
     -   At level 4 lasts 44sec with 40sec CD.
     -   At level 5 lasts 52sec with 35sec CD.
--   Can be upgraded with the Fortitude Talent Cards **Lord's Tithe** and **Grand Support**.
 -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
+-   Can be upgraded with the **Grand Support** Talent, healing everyone you buff with your Reinforce by 3% of their maximum HP, including yourself. This only procs when you buff another person with Reinforce.
+-   Can be upgraded with the **Lord's Tithe** Talent, stealing up to 20% of affected people's Ether to regeneration your own.
 
  |
 | 
@@ -848,8 +849,10 @@ Enemy's Attack
 **Effect:** _User creates a white pattern on the floor while deflecting attacks they take during the duration._
 
 -   **Deflects** an attack back to the attacker.
--   Can be upgraded with Intelligence Talent Cards **All Knowing**, **Successive Prediction**, and **Twelve Steps Ahead**.
 -   Upgrading this Mantra extends the 'prediction' frames (iframes).
+-   Can be upgraded with the **All Knowing** Talent, removing the range limit Prediction normally has.
+-   Can be upgraded with the **Successive Prediction** Talent, which allows you to predict multihits, as it grants a brief window of auto prediction.
+-   Can be upgraded with the **Twelve Steps Ahead** Talent, halving Prediction's cooldown on successful Prediction (minimum 2s) and doubling Prediction's cooldown if you whiff it (maximum 30s). Going 30s without using Prediction will reset this effect.
 
  |
 | 
@@ -1049,6 +1052,7 @@ N/A
 
 -   May still combat tag opponents who are not facing you.
 -   This move causes humanoid NPCs to block less.
+-   Shares a cooldown with Sing.
 
  |
 | 
@@ -1164,6 +1168,8 @@ N/A
 -   Affected entities receive 20% more damage.
 -   Affected entities deal 10% more damage to you specifically.
 -   Affected entities become unable to jump.
+-   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
+-   Can be upgraded with the **Oh the Irony** Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
 
  |
 | 
@@ -1202,6 +1208,9 @@ N/A
 
 -   Inflicts Charm on nearby entities.
 -   Can be modified with stratus stones to increase range.
+-   Shares a cooldown with Glare.
+-   Can be upgraded with the **Encore** Talent, applying **true stun** if you land Sing on a Charmed opponent.
+-   Can be upgraded with the **Propagandist** Talent, granting your allies [Overcharm](Status_Effects.md#overcharm) for 15 seconds.
 
  |
 | 
@@ -1247,7 +1256,6 @@ Blunt
 -   Landing the grab multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
     -   Dread Whisper must be landed again within 15s of landing the previous one to gain the damage buff.
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
--   Getting hit during the grab doesn't cancel the mantra, so be careful when using it around multiple enemies.
 -   Incredibly fast and hard to react without predicting it, meaning it's rather easy to land on the least defensive type of players.
 -   The move lasts a decent while, allowing for effects like Burn to tear through health.
     -   It also allows for Twisted Flames' Puppets and teammates using mantras such as Eclipse Kick to have a large window of time to hit your opponent.
@@ -1373,8 +1381,7 @@ True
 **Effect:** _User teleports to the enemy their cursor is located on and performs numerous slashes._
 
 -   Teleports the user to the enemy the cursor is pointed at.
--   Deals True damage, ignoring resistances.
--   Scales with your Light Weapon attribute.
+-   Bypasses armor resistances, but the damage can still be resisted with other sources of damage reduction.
 
  |
 | 
@@ -1411,6 +1418,9 @@ Slash
 
 **Effect:** _User turns invisible and then reveals themselves, performing a moderate amount of slashes._
 
+-   M1 during this Mantra to perform the slashes. Performing slashes consumes Ether.
+-   The slashes lock onto the closest target within Ceaseless' range.
+-   If you go too long without doing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
 -   Can be somewhat used as a mobility Mantra due to it's compatibility with Rush and Drift Shards.
 
  |
@@ -1448,7 +1458,7 @@ Blunt
 
 **Effect:** _User jumps into the air and slams down_
 
--   Windup is **HEAVILY** reduced upon being used directly after Karita Leap
+-   Windup is **HEAVILY** reduced upon being used directly after Karita Leap.
 
  |
 | 
@@ -1818,7 +1828,7 @@ Slash
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
 -   After the cooldown of Punishment, activating it again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish), that affects everyone nearby.
--   Deals damage based off damage absorbed, 0.35s windup, parryable.
+-   Deals damage based off damage absorbed, which is then multiplied. 0.35s windup, parryable.
 
  |
 

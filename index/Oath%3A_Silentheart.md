@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 140237
+revid: 140330
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -38,7 +38,7 @@ Meet the following requirements in any order:
 -   Have 25 points in Strength
 -   Have 25 points in **either** Charisma or Agility
 -   Die to a **player** that uses an attunement. Chime of Conflict does not count, nor does getting gripped in the [Second Layer](Second_Layer.md) with a Light Hook.
--   Encounter a ghost npc on the [Beloved Zofia](Beloved_Zofia.md) and speak to the Dreadstar afterwards, if you are the firat player to do so on a server this will spawn the dread star in, if you however are not the first in the server to do so you must slay/survive a ghost encounter to interact with the Dreadstar.
+-   Encounter a ghost npc on the [Beloved Zofia](Beloved_Zofia.md) and speak to the Dreadstar afterwards, if you are the first player to do so on a server this will spawn the dread star in, if you however are not the first in the server to do so you must slay/survive a ghost encounter to interact with the Dreadstar.
 
 Once **all** met, head over to the [Beloved Zofia](Beloved_Zofia.md) in the [Voidsea](Voidsea.md) to talk to The Dreadstar
 
