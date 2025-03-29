@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 140303
+revid: 140342
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -10,25 +10,25 @@ categories: [Enemies, NPCs, Bosses]
 
 “ The ruins of that city will never cage me. And with what's at stake... I can't stop now. ”
 
-― Duke Erisia
+― Duke Ishamon Erisia
 
 Template:EnemyInfobox1.0
 
 ## Description
 
-**Duke Ishamon Erisia** (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+**Duke Ishamon Erisia** (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Ishamon Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
-Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
+Defeating him will also allow [Galebreathe](Galebreathe.md) user(s) to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
-He is a noble who resided in the City of Celtor before the Great Drowning. In appearance, the Duke is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
+He is a noble who resided in the City of Celtor before the Great Drowning. In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a [Resonance](Resonance.md) by his side that allows him to create and control [Hillbillies](Rock_Golem.md), although it is never visibly used during the boss fight. Duke Ishamon Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
-While the Duke is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him. With a [Stone](Enchantments.md) 10+ Weight Weapon, combined with a [Heavy Hands Ring](Equipment.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can oneshot his posture every M1.
+While Duke Erisia is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him. With a [Stone](Enchantments.md) 10+ Weight Weapon, combined with a [Heavy Hands Ring](Equipment.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can oneshot his posture every M1.
 
 ## Moveset
 
-Duke Erisia's arsenal consists of [Way of Navae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
+Duke Ishamon Erisia's arsenal consists of [Way of Navae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
 
-_For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)._
+_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=Mz3Mi_OZYno)._
 
 | Name/Danger | Description | Media |
 | --- | --- | --- |
@@ -37,7 +37,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 
  | Firmly pummels opponent with basic attacks before finishing up the combo by flourishing them.
 
--   Duke will always start using Assault after using Strong Left.  
+-   Duke Ishamon Erisia will always start using Assault after using Strong Left.  
     
 
 Parryable:◯  
@@ -61,7 +61,7 @@ Dodgeable:◯
 **Counter**  
 ★
 
- | The Duke shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
+ | Duke Erisia shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
 
 -   He laughs afterward when something strikes his counter.
 -   No range limit, damage is always induced if the counter is hit.
@@ -77,7 +77,7 @@ Dodgeable:N/A
 
 **Feint**  
 
- | The Duke pulls his fist back before it hits you, only to hit you again with his other hand.
+ | Duke Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
 
 -   Essentially an average Legion Kata feint.  
     
@@ -91,7 +91,7 @@ Dodgeable:◯
 
 **Binding Tempest**  
 
- | The Duke rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, the Duke teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
+ | Duke Erisia rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, Duke Ishamon Erisia teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
 
 -   Telegraphed by the lack of sound while rising and longer cast time, compared to Aero Spear.
 -   Will daze targets if they hit a wall while ragdolled.
@@ -108,7 +108,7 @@ Dodgeable:◯
 
 **Aero Spear**  
 
- | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
+ | Duke Erisia flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
 
 -   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
 
@@ -122,7 +122,7 @@ Dodgeable:◯
 
 **Gale Stomp**  
 
- | The Duke stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
+ | Duke Erisia stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
 -   Will daze targets if they hit a wall while ragdolled.
 
@@ -137,7 +137,7 @@ Dodgeable:◯
 **Cyclone Bomb**  
 ★
 
- | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried. however it is a very rare attack.
+ | Duke Erisia flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried. however it is a very rare attack.
 
 -   Covers a large Area of Effect.
 
@@ -151,9 +151,9 @@ Dodgeable:◯
 
 **Strong Left**  
 
- | Duke will charge up a punch, and teleport to his target,
+ | Duke Ishamon Erisia will charge up a punch, and teleport to his target,
 
--   Duke transition to Assault after using Strong Left.  
+-   Duke Ishamon Erisia transition to Assault after using Strong Left.  
     
 
 Parryable:◯  
@@ -165,10 +165,10 @@ Dodgeable:◯
 
 **Summon Mindless Servants**  
 
- | The Duke snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
+ | Duke Erisia snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
 -   Essentially health-packs and serve no real threat. They are just stronger Mudskippers
--   If fought solo, they may become a threat as they will combo you while fighting Duke if not killed fast enough.
+-   If fought solo, they may become a threat as they will combo you while fighting Duke Ishamon Erisia if not killed fast enough.
 -   There are ten pods in the room, and thus a maximum of ten Servants that can be summoned in a fight. Generally, he will summon three batches of three before summoning a lone Servant.
 -   Only used once the posture shield is down. (Phase 2)  
     
@@ -195,29 +195,29 @@ Dodgeable:◯
 
 ### Talents
 
--   Impervious Slumber - Hitting knocked Duke won't reset his time knocked, he cannot be carried as well. Grip him while you can.
+-   Impervious Slumber - Hitting knocked Duke Ishamon Erisia won't reset his time knocked, he cannot be carried as well. Grip him while you can.
 -   Breathing Impact - When knocked into objects by wind mantras you will take additional blunt damage based off of how hard you are hit.
 -   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage dealt to you again. If an attack was a mantra, it does 5% damage instead.
--   Suffocating Impact - When flourished into walls by Duke, you are suffocated and winded for a short duration.
--   Gale Coil - Duke's suffocates last twice as long.
--   Stifled Jump - If you jump while suffocated by Duke you will be dazed.
--   Air Pressure - When Duke dodges an attack or hits your block his next dash will be a Gale Dash.
--   Pressure Break - When Duke breaks your posture, you will take intense wind pressure damage and be flung backwards.
--   Silencer's Edge - If Duke melees you while you are 'Suffocated' he will gain a speed boost.
--   Silencer's Blade - If Duke melees you while you are 'Suffocated' it will extend the duration of the Suffocation
--   Collapsed Lung - When block broken by Duke you are unable to Vent for 3s.
--   Dirty Boxing - If Duke hits you after feinting you with his fist, you will suffer slight bleed and have your vision obscured slightly.
--   Concussion - When Duke flourishes you into walls you will have your vision altered for a short duration and will be dazed longer than usual.
--   Concussive Force - Enemies knocked by Duke will remain downed longer than usual.
--   Bulldozer - If flourished into a wall by Duke, you have a chance to break the wall and be guard broken on impact.
--   Million Ton Piercer - Duke has 5% extra PEN and has no PEN cap.
--   Shield Breaker - Blunt damage from Duke now deals full posture damage to shields (essentially your shield is useless for blocking).
--   Audacity - When Duke starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation. (Though this Talent sucks, just use a ranged mantra)
--   Matador - Duke deals +20% more damage to human enemies with hyperarmor.
--   Showstopper - When you roll through one of Duke's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
--   Berserker - When Duke knocks an enemy, he gains 20% DMG resistance for 15 seconds.
+-   Suffocating Impact - When flourished into walls by Duke Ishamon Erisia, you are suffocated and winded for a short duration.
+-   Gale Coil - Duke Ishamon Erisia's suffocates last twice as long.
+-   Stifled Jump - If you jump while suffocated by Duke Ishamon Erisia you will be dazed.
+-   Air Pressure - When Duke Ishamon Erisia dodges an attack or hits your block his next dash will be a Gale Dash.
+-   Pressure Break - When Duke Ishamon Erisia breaks your posture, you will take intense wind pressure damage and be flung backwards.
+-   Silencer's Edge - If Duke Ishamon Erisia melees you while you are 'Suffocated' he will gain a speed boost.
+-   Silencer's Blade - If Duke Ishamon Erisia melees you while you are 'Suffocated' it will extend the duration of the Suffocation
+-   Collapsed Lung - When block broken by Duke Ishamon Erisia you are unable to Vent for 3s.
+-   Dirty Boxing - If Duke Ishamon Erisia hits you after feinting you with his fist, you will suffer slight bleed and have your vision obscured slightly.
+-   Concussion - When Duke Ishamon Erisia flourishes you into walls you will have your vision altered for a short duration and will be dazed longer than usual.
+-   Concussive Force - Enemies knocked by Duke Ishamon Erisia will remain downed longer than usual.
+-   Bulldozer - If flourished into a wall by Duke Ishamon Erisia, you have a chance to break the wall and be guard broken on impact.
+-   Million Ton Piercer - Duke Ishamon Erisia has 5% extra PEN and has no PEN cap.
+-   Shield Breaker - Blunt damage from Duke Ishamon Erisia now deals full posture damage to shields (essentially your shield is useless for blocking).
+-   Audacity - When Duke Ishamon Erisia starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation. (Though this Talent sucks, just use a ranged mantra)
+-   Matador - Duke Ishamon Erisia deals +20% more damage to human enemies with hyperarmor.
+-   Showstopper - When you roll through one of Duke Ishamon Erisia's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
+-   Berserker - When Duke Ishamon Erisia knocks an enemy, he gains 20% DMG resistance for 15 seconds.
 -   Charged Return - Being under an elemental status effect causes Duke's M1's and critical attacks to do 20% more damage.
--   Boss Armor - Duke is immune to instant guard break effects.
+-   Boss Armor - Duke Ishamon Erisia is immune to instant guard break effects.
 
 ## Finisher
 
@@ -235,15 +235,15 @@ Duke Erisia executes his opponent after knocking them:
 In terms of strategy to avoid his attacks as much as possible;
 
 -   If he isn't moving or doing anything, he's preparing for a mantra. You can get three safe hits in with a heavy or medium weapon, at which point you should stop attacking and prepare for his attack. Reading his mantras is very difficult, due to the fact that many of them have a low windup or are hard to read; for the highest level of consistency, it's best to do a full dodge (from my experience), but you'll want to learn your own strategy for handling him in the first phase.
--   If Duke does his Strong Left attack, he will follow it up by attempting to combo you with regular punches and criticals. Parry trading with him is relatively simple, as you know he will parry every attack, and he doesn't feint often. This is the time when you'll want to do the most damage, but only m1 to keep consistency.
--   Heavy-Hands Ring & [Murmur: Ardour](Murmur%253A_Ardour.md) can drastically increase posture damage, making Duke's first phase much faster.
+-   If Duke Ishamon Erisia does his Strong Left attack, he will follow it up by attempting to combo you with regular punches and criticals. Parry trading with him is relatively simple, as you know he will parry every attack, and he doesn't feint often. This is the time when you'll want to do the most damage, but only m1 to keep consistency.
+-   Heavy-Hands Ring & [Murmur: Ardour](Murmur%253A_Ardour.md) can drastically increase posture damage, making Duke Ishamon Erisia's first phase much faster.
 -   After dealing enough damage, his shield will turn off, allowing you to hit him normally. If you're low on health, however, you'll still need to focus hard to avoid dying, as many of his mantras insta-grip. Focus on backing him into a corner and posture-breaking him as much as possible, but keep in mind he has a very high amount of Tempo and so he'll vent every time you flourish him into a wall.
 -   When you see him summon his servants, you've pretty much won, as you'll be able to regenerate back to full health immediately. Keep backing him into a corner so he cannot back out of your effective range, and attack him constantly until he dies.
 -   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Astral to focus on high damage, but Vampirism makes it safer.
 -   You must STAY ALIVE whilst his shield is active, if you are knocked you cannot be saved as his shield blocks and parries every attack and any players who try to save you will have their attacks parried.
 -   If you attempt to assassinate him, the fight will automatically start.
 -   Since the Mindless Servants can hinder your attack and serve as a nuisance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with them.
--   As The Duke tries to block a lot defensively in the second phase, the Enforcer Axe and Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
+-   As Duke Ishamon Erisia tries to block a lot defensively in the second phase, the Enforcer Axe and Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
 
   
 
@@ -251,12 +251,12 @@ In terms of strategy to avoid his attacks as much as possible;
 
 Phases begin in sequence, depending on the Bosses' Max HP.
 
--   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, The Duke surrounds himself with a shield of Galebreathe, instantly parrying all attacks and Mantras. To destroy the shield, land attacks until it breaks. Focuses on **damage** _. (15k per player)_
--   **Phase 2 -** **Hand-to-hand combat**: The Duke's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants per player, and the remainder of them when there's less than 3 x n servants, where n = present players).
+-   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, Duke Ishamon Erisia surrounds himself with a shield of Galebreathe, instantly parrying all attacks and Mantras. To destroy the shield, land attacks until it breaks. Focuses on **damage** _. (15k per player)_
+-   **Phase 2 -** **Hand-to-hand combat**: Duke Ishamon Erisia's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants per player, and the remainder of them when there's less than 3 x n servants, where n = present players).
 
 ### Rewards
 
-Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
+Upon defeating Duke Ishamon Erisia, you are rewarded a colossal sized chest that contains:
 
 -   Rare Items & Equipment
 -   Relics ([Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), [Smith's Alloy](<Smith's_Alloy.md>), [Sinner's Ash](<Sinner's_Ash.md>), [Armorer's Needle](<Armorer's_Needle.md>))
@@ -345,23 +345,23 @@ Exhaustive Loot Table
   </td>
 </tr>
 <tr>
-  <td colspan="4">The Lord Regent sent me to retrieve the Forge.</td>
+  <td colspan="4">The Lord Biden sent me to retrieve the Forge.</td>
   <td colspan="4">What are you doing with the forge?</td>
   <td colspan="4"><b><a href="Oath%253A_Contractor.md">Contractor</a></b><br>
   Let's skip the pleasantries, you know why I'm here.</td>
 </tr>
 <tr>
-  <td colspan="4">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.<br>
+  <td colspan="4">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Biden must see me as a mere agent's workload.<br>
   </td>
   <td colspan="4"><i>*He narrows his eyes, deathly cold.*</i> Everything I can do to stop the oncoming catastrophe, you <i>indolent worm</i>. With it, I turn <i>useless fools</i> like you into something of use... <i>You don't know what I do for mankind.</i></td>
-  <td colspan="4">You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.</td>
+  <td colspan="4">You're right, there's no reasoning with a monster like you. For America's salvation, I will be the one to slay you.</td>
 </tr>
 <tr>
   <td colspan="4">That 'thing'? Agent?</td>
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*The Duke eyes you up and down for a moment before bursting into a roaring laughter.*</i><br>
+  <td colspan="4"><i>*Donald eyes you up and down for a moment before bursting into a roaring laughter.*</i><br>
   </td>
 </tr>
 <tr>
@@ -373,17 +373,17 @@ Exhaustive Loot Table
   <td><a href="Origins.md"><b>Voidwalker</b></a></td>
 </tr>
 <tr>
-  <td><i>*The Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...<br>
+  <td><i>*Donald smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...<br>
   </td>
-  <td><i>*The Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...<br>
+  <td><i>*Donald smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...<br>
   </td>
-  <td><i>*The Duke smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...</td>
+  <td><i>*Donald smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...</td>
 </tr>
 <tr>
   <td colspan="3">What are you talking about?</td>
 </tr>
 <tr>
-  <td colspan="3">There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.<br>
+  <td colspan="3">There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen The White House's layout roam free.<br>
   </td>
 </tr>
 <tr>
@@ -424,35 +424,36 @@ Exhaustive Loot Table
 ## Trivia
 
 -   The music for his bossfight is [Sin-Smelted Scoriae](Deepwoken_OST.md) by Naktigonis.
-    -   Naktigonis also provides the voice of the Duke, first heard in [an April Fools Twitter post](https://x.com/naktigonis/status/1509956038598053895?s=20) posted by Naktigonis, joking about _Sin-Smelted Scoriae's_ release.
--   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
--   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.\[citation needed\] The current dialogue states "The ruins of that city will **never** cage me. And with what's at stake... I can't stop now" when you fight Duke after your first encounter. This dialogue shows that Duke does in fact, escape the Depths after you kill him.
+    -   Naktigonis also provides the voice of Duke Ishamon Erisia, first heard in [an April Fools Twitter post](https://x.com/naktigonis/status/1509956038598053895?s=20) posted by Naktigonis, joking about _Sin-Smelted Scoriae's_ release.
+-   Duke Ishamon Erisia gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
+-   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.\[citation needed\] The current dialogue states "The ruins of that city will **never** cage me. And with what's at stake... I can't stop now" when you fight Duke Ishamon Erisia after your first encounter. This dialogue shows that Duke Ishamon Erisia does in fact, escape the Depths after you kill him.
 -   In older versions of _Deepwoken_, you would have to make sure your group catches up with you. If you entered first, they would've likely been locked out of the boss room. This no longer happens as everyone will be teleported into the boss room once the first person activates the barrier.
 -   This bosses attacks heavily resemble the interpretation of TOARU's Accelerator in Anime Battle Arena, a game that Par has worked on prior.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
--   Duke will always laugh when his counter is activated, even if the attack is from a mob such as a prime golem.
--   Before the [Stoneheart](Stoneheart.md)'s description referred to him as Ishamon, his first name remained unknown, leading to it becoming a meme in the community.
-    -   Upon being asked, Arch\_Mage said his name was "Duke Fancypants."
-    -   Naktigonis said it was "Duke Duke Erisia Erisia (of Erisia)."
+-   Duke Ishamon Erisia will always laugh when his counter is activated, even if the attack is from a mob such as a prime golem.
+-   Before the [Stoneheart](Stoneheart.md)'s description referred to him as John, his first name remained unknown, leading to it becoming a meme in the community.
+    -   Upon being asked, Arch\_Mage said his name was "Duke Ishamon Erisia Juan Duke Erisia."
+    -   Naktigonis said it was "Duke Ishamon Erisia Duke Ishamon Erisia Duke Erisia (Duke Erisia)."
 -   As of 6/10/2024, this is possibly the most commonly trolled page in the Deepwoken Wiki.
--   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his golem capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
+-   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his hillbilly capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
--   In [a video about seals](https://x.com/Hautdesert/status/1722430043526181058), Duke states he is a Virgo.
--   In a video from Naktigonis [celebrating the millionth viewing of Sin-Smelted Scoriae](https://youtu.be/DCCjnfrZBCc) on YouTube, it is revealed that the Duke is a member of the band "The Seal Unleashed" as the vocalist.
-    -   Duke Erisia confirms that The Seal Unleashed does, in fact, perform Sin-Smelted Scoriae every single time someone challenges him to a fight.
+-   In [a video about seals](https://x.com/Hautdesert/status/1722430043526181058), Duke Ishamon Erisia states he is a Virgo.
+-   In a video from Naktigonis [celebrating the millionth viewing of Sin-Smelted Scoriae](https://youtu.be/DCCjnfrZBCc) on YouTube, it is revealed that Duke Erisia is a member of the band "The Seal Unleashed" as the vocalist.
+    -   Duke Ishamon Erisia confirms that The Seal Unleashed does, in fact, perform Sin-Smelted Scoriae every single time someone challenges him to a fight.
 -   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack.
--   Duke can be (rarely) seen conversing with the [Mindless Servants](Mindless_Servant.md) in the tubes next to him idly. This is likely a bug, as Mudskippers and even Terrapods can start small talk when idle.
+-   Duke Ishamon Erisia can be (rarely) seen conversing with the [Mindless Servants](Mindless_Servant.md) in the tubes next to him idly. This is likely a bug, as Mudskippers and even Terrapods can start small talk when idle.
 -   He is able to drown; if you glitch you and him into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
--   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)
+-   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke Ishamon Erisia, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)
 
 ## Bugs
 
--   Killing Duke Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has been in the game.
+-   Killing Duke Ishamon Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has been in the game.
 -   Can instantly cast Aero Spear if his head is caught under something, especially the pipes found around the edges of his arena.
 
-If you don't kill all the enemies in the first area, the Duke and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
+If you don't kill all the enemies in the first area, Duke Ishamon Erisia and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
 
--   Duke has approximately 800 erudition.
+-   Duke Ishamon Erisia has approximately 800 erudition.
+-   Whoever the hell changed every Duke Erisia into Donald trump, I am hunting you.

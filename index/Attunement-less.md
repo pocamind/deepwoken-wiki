@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 140331
+revid: 140332
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -488,7 +488,7 @@ N/A
     -   At level 5 lasts 52sec with 35sec CD.
 -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
 -   Can be upgraded with the **Grand Support** Talent, healing everyone you buff with your Reinforce by 3% of their maximum HP, including yourself. This only procs when you buff another person with Reinforce.
--   Can be upgraded with the **Lord's Tithe** Talent, stealing up to 20% of affected people's Ether to regeneration your own.
+-   Can be upgraded with the **Lord's Tithe** Talent, stealing up to 20% of affected people's Ether to regenerate your own.
 
  |
 | 

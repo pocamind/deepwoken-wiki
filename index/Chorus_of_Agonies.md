@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 137183
+revid: 140339
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals]
@@ -11,7 +11,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals]
 | Chorus of Agonies | |
 |---|---|
 | type | Greataxe |
-| requirements | 100 HVY 20 STR |
+| requirements | 100 HVY 20 STR LVL 10 |
 | damage | 27 |
 | scaling | HVY: 11 |
 | range | 10 |
