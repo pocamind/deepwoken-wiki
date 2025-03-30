@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 137990
+revid: 140440
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -32,7 +32,7 @@ Located in:
 
 For 10 Knowledge, balance your stats (up to a limit\*), but gain a random Flaw. Can only be done once per character.
 
-**You need Power 8+ and no [Oath](../Oaths.md) to perform this deal.** If you took an oath beforehand, you may break the Oath to order yourself. This has [consequences](https://deepwoken.fandom.com/wiki/Oaths#Oathbreaker_-_Oath_Removal) of its own, however.
+**You need Power 8+ and no [Oath](../Oaths.md) excluding [Oathless](../Oath%253A_Oathless.md) to perform this deal.** If you took an oath beforehand, you may break the Oath to order yourself. This has [consequences](https://deepwoken.fandom.com/wiki/Oaths#Oathbreaker_-_Oath_Removal) of its own, however.
 
 ### Details
 

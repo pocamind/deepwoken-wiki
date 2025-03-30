@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 140386
+revid: 140442
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,11 +16,11 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-**Duke Ishamon Erisia** (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Ishamon Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+**Duke Ishamon Erisia** is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) user(s) to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
-He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before the Great Drowning. In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Hillbillies](Rock_Golem.md), although it is never visibly used during the boss fight. Duke Ishamon Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
+He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before the Great Drowning. In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. Duke Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
 While Duke Erisia is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him. With a [Stone](Enchantments.md) 10+ Weight Weapon such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) or the [Pale Briar](Pale_Briar.md), combined with a [Heavy Hands Ring](Equipment.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can obliterate his posture and guardbreak him with every M1.
 
@@ -37,7 +37,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  | Firmly pummels opponent with basic attacks before finishing up the combo by flourishing them.
 
--   Duke Ishamon Erisia will always start using Assault after using Strong Left.  
+-   Duke Erisia will always start using Assault after using Strong Left.  
     
 
 Parryable:◯  
@@ -91,7 +91,7 @@ Dodgeable:◯
 
 **Binding Tempest**  
 
- | Duke Erisia rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, Duke Ishamon Erisia teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
+ | Duke Erisia rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, Duke Erisia teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
 
 -   Telegraphed by the lack of sound while rising and longer cast time, compared to Aero Spear.
 -   Will daze targets if they hit a wall while ragdolled.
@@ -151,9 +151,9 @@ Dodgeable:◯
 
 **Strong Left**  
 
- | Duke Ishamon Erisia will charge up a punch, and teleport to his target,
+ | Duke Erisia will charge up a punch, and teleport to his target,
 
--   Duke Ishamon Erisia transition to Assault after using Strong Left.  
+-   Duke Erisia will transition to using Assault after using Strong Left.  
     
 
 Parryable:◯  
@@ -168,7 +168,7 @@ Dodgeable:◯
  | Duke Erisia snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
 -   Essentially health-packs and serve no real threat. They are just stronger Mudskippers
--   If fought solo, they may become a threat as they will combo you while fighting Duke Ishamon Erisia if not killed fast enough.
+-   If fought solo, they may become a threat as they will combo you while fighting Ishamon if not killed fast enough.
 -   There are ten pods in the room, and thus a maximum of ten Servants that can be summoned in a fight. Generally, he will summon three batches of three before summoning a lone Servant.
 -   Only used once the posture shield is down. (Phase 2)  
     
@@ -195,33 +195,33 @@ Dodgeable:◯
 
 ### Talents
 
--   Impervious Slumber - Hitting knocked Duke Ishamon Erisia won't reset his time knocked, he cannot be carried as well. Grip him while you can.
+-   Impervious Slumber - Hitting Duke Erisia while knocked won't reset his time knocked. He cannot be carried as well.
 -   Breathing Impact - When knocked into objects by wind mantras you will take additional blunt damage based off of how hard you are hit.
 -   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage dealt to you again. If an attack was a mantra, it does 5% damage instead.
--   Suffocating Impact - When flourished into walls by Duke Ishamon Erisia, you are suffocated and winded for a short duration.
--   Gale Coil - Duke Ishamon Erisia's suffocates last twice as long.
--   Stifled Jump - If you jump while suffocated by Duke Ishamon Erisia you will be dazed.
--   Air Pressure - When Duke Ishamon Erisia dodges an attack or hits your block his next dash will be a Gale Dash.
--   Pressure Break - When Duke Ishamon Erisia breaks your posture, you will take intense wind pressure damage and be flung backwards.
--   Silencer's Edge - If Duke Ishamon Erisia melees you while you are 'Suffocated' he will gain a speed boost.
--   Silencer's Blade - If Duke Ishamon Erisia melees you while you are 'Suffocated' it will extend the duration of the Suffocation
--   Collapsed Lung - When block broken by Duke Ishamon Erisia you are unable to Vent for 3s.
--   Dirty Boxing - If Duke Ishamon Erisia hits you after feinting you with his fist, you will suffer slight bleed and have your vision obscured slightly.
--   Concussion - When Duke Ishamon Erisia flourishes you into walls you will have your vision altered for a short duration and will be dazed longer than usual.
--   Concussive Force - Enemies knocked by Duke Ishamon Erisia will remain downed longer than usual.
--   Bulldozer - If flourished into a wall by Duke Ishamon Erisia, you have a chance to break the wall and be guard broken on impact.
--   Million Ton Piercer - Duke Ishamon Erisia has 5% extra PEN and has no PEN cap.
--   Shield Breaker - Blunt damage from Duke Ishamon Erisia now deals full posture damage to shields (essentially your shield is useless for blocking).
--   Audacity - When Duke Ishamon Erisia starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation. (Though this Talent sucks, just use a ranged mantra)
--   Matador - Duke Ishamon Erisia deals +20% more damage to human enemies with hyperarmor.
--   Showstopper - When you roll through one of Duke Ishamon Erisia's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
--   Berserker - When Duke Ishamon Erisia knocks an enemy, he gains 20% DMG resistance for 15 seconds.
+-   Suffocating Impact - When flourished into walls by Duke Erisia, you are suffocated and winded for a short duration.
+-   Gale Coil - Duke Erisia's suffocates last twice as long.
+-   Stifled Jump - Those who jump while suffocated by Duke Erisia will be dazed.
+-   Air Pressure - When Duke Erisia dodges an attack or hits your block his next dash will be a Gale Dash.
+-   Pressure Break - When Duke Erisia breaks your posture, you will take intense wind pressure damage and be flung backwards.
+-   Silencer's Edge - If Duke Erisia melees you while you are 'Suffocated' he will gain a speed boost.
+-   Silencer's Blade - If Duke Erisia melees you while you are 'Suffocated' it will extend the duration of the Suffocation
+-   Collapsed Lung - When block broken by Duke Erisia you are unable to Vent for 3s.
+-   Dirty Boxing - If Duke Erisia hits you after feinting you with his fist, you will suffer slight bleed and have your vision obscured slightly.
+-   Concussion - When Duke Erisia flourishes you into walls you will have your vision altered for a short duration and will be dazed longer than usual.
+-   Concussive Force - Enemies knocked by Duke Erisia will remain downed longer than usual.
+-   Bulldozer - If flourished into a wall by Duke Erisia, you have a chance to break the wall and be guard broken on impact.
+-   Million Ton Piercer - Duke Erisia has 5% extra PEN and has no PEN cap.
+-   Shield Breaker - Blunt damage from Duke Erisia now deals full posture damage to shields (essentially your shield is useless for blocking).
+-   Audacity - When Duke Erisia starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation.
+-   Matador - Duke Erisia deals +20% more damage to human enemies with hyperarmor.
+-   Showstopper - When you roll through one of Duke Erisia's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
+-   Berserker - When Duke Erisia knocks an enemy, he gains 20% DMG resistance for 15 seconds.
 -   Charged Return - Being under an elemental status effect causes Duke's M1's and critical attacks to do 20% more damage.
--   Boss Armor - Duke Ishamon Erisia is immune to instant guard break effects.
+-   Boss Armor - Duke Erisia is immune to instant guard break effects.
 
 ## Finisher
 
-Duke Erisia executes his opponent after knocking them:
+Duke Ishamon Erisia executes his opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -235,15 +235,15 @@ Duke Erisia executes his opponent after knocking them:
 In terms of strategy to avoid his attacks as much as possible;
 
 -   If he isn't moving or doing anything, he's preparing for a mantra. You can get three safe hits in with a heavy or medium weapon, at which point you should stop attacking and prepare for his attack. Reading his mantras is very difficult, due to the fact that many of them have a low windup or are hard to read; for the highest level of consistency, it's best to do a full dodge (from my experience), but you'll want to learn your own strategy for handling him in the first phase.
--   If Duke Ishamon Erisia does his Strong Left attack, he will follow it up by attempting to combo you with regular punches and criticals. Parry trading with him is relatively simple, as you know he will parry every attack, and he doesn't feint often. This is the time when you'll want to do the most damage, but only m1 to keep consistency.
--   Heavy-Hands Ring & [Murmur: Ardour](Murmur%253A_Ardour.md) can drastically increase posture damage, making Duke Ishamon Erisia's first phase much faster.
+-   If the Duke does his Strong Left attack, he will follow it up by attempting to combo you with regular punches and criticals. Parry trading with him is relatively simple, as you know he will parry every attack, and he doesn't feint often. This is the time when you'll want to do the most damage, but only m1 to keep consistency.
+-   Heavy-Hands Ring & [Murmur: Ardour](Murmur%253A_Ardour.md) can drastically increase posture damage, making Ishamon's first phase much faster.
 -   After dealing enough damage, his shield will turn off, allowing you to hit him normally. If you're low on health, however, you'll still need to focus hard to avoid dying, as many of his mantras insta-grip. Focus on backing him into a corner and posture-breaking him as much as possible, but keep in mind he has a very high amount of Tempo and so he'll vent every time you flourish him into a wall.
 -   When you see him summon his servants, you've pretty much won, as you'll be able to regenerate back to full health immediately. Keep backing him into a corner so he cannot back out of your effective range, and attack him constantly until he dies.
 -   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Astral to focus on high damage, but Vampirism makes it safer.
 -   You must STAY ALIVE whilst his shield is active, if you are knocked you cannot be saved as his shield blocks and parries every attack and any players who try to save you will have their attacks parried.
 -   If you attempt to assassinate him, the fight will automatically start.
 -   Since the Mindless Servants can hinder your attack and serve as a nuisance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with them.
--   As Duke Ishamon Erisia tries to block a lot defensively in the second phase, the Enforcer Axe and Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
+-   As the Duke tries to block a lot defensively in the second phase, the Enforcer Axe and Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
 
   
 
@@ -251,8 +251,8 @@ In terms of strategy to avoid his attacks as much as possible;
 
 Phases begin in sequence, depending on the Bosses' Max HP.
 
--   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, Duke Ishamon Erisia surrounds himself with a shield of Galebreathe, instantly parrying all attacks and Mantras. To destroy the shield, land attacks until it breaks. Focuses on **damage** _. (15k per player)_
--   **Phase 2 -** **Hand-to-hand combat**: Duke Ishamon Erisia's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants per player, and the remainder of them when there's less than 3 x n servants, where n = present players).
+-   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, Duke Erisia surrounds himself with a shield of Galebreathe, instantly parrying all attacks and Mantras. To destroy the shield, land attacks until it breaks. Focuses on **damage** _. (15k per player)_
+-   **Phase 2 -** **Hand-to-hand combat**: Duke Erisia's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants per player, and the remainder of them when there's less than 3 x n servants, where n = present players).
 
 ### Rewards
 
