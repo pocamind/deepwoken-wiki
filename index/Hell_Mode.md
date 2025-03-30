@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 138122
+revid: 140449
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]
@@ -46,7 +46,7 @@ If the 20 minutes mark is reached before the kill requirement, the event will fo
 
 The event will end early if the original players who activate the event all die or otherwise leave the server.
 
-Upon reaching 100 or more kills, players that rung the bell or had participated by killing at least one monster (untested) will receive [Diver's Light Plate](<Diver's_Light_Plate.md>) in their inventory and a chest that will appear under them. These chests contain very high tier items, including a ~very large~ (3-5\* relics per run due to loot being nerfed across diluvian and hell mode) number of [Relics](Relics.md), [Enchant Stones](Enchant_Stone.md) and [Greases](Enchant_Grease.md), endgame and midgame [equipment](Equipment.md) and [weapons](Weapons.md) with guarantee 2-star quality and [Deep Gems](Mantra_Modifiers.md#deep-gems). These chests are accessible to any player and anyone can take the contents, so it is recommended to distance yourself from any players you do not trust when spawning a chest. Lower tier chests that are still more valuable than your average depths chest will also spawn after a kill of some specific monsters that are not locked to a certain player.
+Upon reaching 100 or more kills, players that rung the bell will receive [Diver's Light Plate](<Diver's_Light_Plate.md>) in their inventory and a chest that will appear under them. These chests contain very high tier items, including [Relics](Relics.md) (around 3-5), [Enchant Stones](Enchant_Stone.md) and [Greases](Enchant_Grease.md), mid and endgame [equipment](Equipment.md) and [weapons](Weapons.md) with guarantee 2-star quality, and [Deep Gems](Mantra_Modifiers.md#deep-gems). These chests are accessible to any player and anyone can take the contents, so it is recommended to distance yourself from any players you do not trust when spawning a chest. Lower tier chests that are still more valuable than your average depths chest will also spawn after a kill of some specific monsters that are not locked to a certain player.
 
 ## Tips
 

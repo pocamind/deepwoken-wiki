@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 139830
+revid: 140446
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -74,7 +74,7 @@ When creating a character, you start with a hand of [Resonance](Resonance.md) dr
 
 This cannot be obtained if you have the Tarnished Flaw, and requires you to obtain a resonance before you can get it.
 
-This Regalia is not kept upon wiping at or below Power 6.
+This Regalia is not kept upon wiping at any power level.
 
 ### Noble[\[3\]](#cite-note-archnamedrop1-3)
 
@@ -84,7 +84,7 @@ A flat increase is applied to your reputation with each faction. It also functio
 
 You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md), as well as every item from the [Advanced Tools](Echoes.md) echo upgrade.
 
-This Regalia is not kept upon wiping at or below Power 6.
+This Regalia is not kept upon wiping at any power level.
 
 ### Ace of Spades[\[3\]](#cite-note-archnamedrop1-3)
 
