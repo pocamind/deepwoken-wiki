@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 140346
+revid: 140386
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -447,13 +447,9 @@ Exhaustive Loot Table
 -   Duke Ishamon Erisia can be (rarely) seen conversing with the [Mindless Servants](Mindless_Servant.md) in the tubes next to him idly. This is likely a bug, as Mudskippers and even Terrapods can start small talk when idle.
 -   He is able to drown; if you glitch you and him into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
 -   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke Ishamon Erisia, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)
+-   If you don't kill all the enemies in the first area, Duke Ishamon Erisia and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
 
 ## Bugs
 
 -   Killing Duke Ishamon Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has been in the game.
 -   Can instantly cast Aero Spear if his head is caught under something, especially the pipes found around the edges of his arena.
-
-If you don't kill all the enemies in the first area, Duke Ishamon Erisia and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
-
--   Duke Ishamon Erisia has approximately 800 erudition.
--   Whoever the hell changed every Duke Erisia into Donald trump, I am hunting you.

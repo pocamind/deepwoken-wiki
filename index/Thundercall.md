@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 140329
+revid: 140396
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -891,8 +891,6 @@ N/A
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to shorten the cooldown but greatly reduce the range. This allows you to use the mantra in Chime.
 
  |
-
-  
 
 ## Talents
 

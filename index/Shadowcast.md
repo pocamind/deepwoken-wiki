@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 140089
+revid: 140395
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -460,6 +460,7 @@ Shadow, Shadow + Blunt (Mul. Spark)
 -   Deals 10.76 + 110.03 dmg with Multiplying Spark. (With 6 Songchant 134.45( 11.98+122.47) DMG)
 -   Has 9.18x PVE scale (137.54 PVP DMG, 1262.62 PVE DMG, Multi spark: 10.76 + 110.03 PVP DMG, 98.81 + 1010.09)
 -   The axe kick does not proc Deep Gems, the Multiplying Spark's high kick does
+-   Grants Hyperarmor during startup.
 -   Can also break certain tiles and fell trees.
 -   When maxed out (Lv. 5), has the ability to blockbreak the opponent.
 -   Unaffected by Insignia Gem.
