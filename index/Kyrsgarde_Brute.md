@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Brute
-revid: 128829
+revid: 140522
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Monsters, Floor 2]

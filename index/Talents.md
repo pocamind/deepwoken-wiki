@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 140466
+revid: 140526
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1374,10 +1374,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal for 8s. (+7 Sanity)
     -   Whenever you land an M1 or Critical, the target has most healing forms reduced/disabled for 8 seconds.
         -   Anti-heal percentage from a non-passive source scales with the total numerical investment of Willpower + Intelligence. Scales up to 100% with 105 points in both stats collectively. (Ex. Still has 100% antiheal at \[60 Willpower + 45 Intelligence\] OR \[60 Intelligence + 45 Willpower\]). Relevant for [Shrine of Order](Deep_Shrines.md).
-        -   Antiheal percentage can be calculated by dividing your points in INT + WLP by 105. (Ex. 35 INT + 45 WLP = 80) > (80/105 = 76.2% Antiheal)
+        -   Anti-heal percentage can be calculated by dividing your points in INT + WLP by 105. (Ex. 35 INT + 45 WLP = 80) > (80/105 = 76.2% Anti-heal)
+    -   Unique to All the Dead God's anti-heal, it stacks with _itself_, but **multiplicatively**. This means you **cannot** reach 100% anti-heal unless you meet the 105 combined point requirement, but you can still get very high anti-heal values by landing enough hits.
+        -   The formula for this would be (1 - ((1 - 0.anti-heal amount) \* (1 - 0.anti-heal amount) \* ...)) \* 100, with the amount of times you repeat it being based on the amount of hits landed. (Ex. 5 hits with 52% antiheal would look like this (1-((1-0.52)\*(1-0.52)\*(1-0.52)\*(1-0.52)\*(1-0.52))) \* 100 = 97.45% anti-heal)
+        -   All the Dead God's anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
     -   The scaling from investment only affects spit healing, [Bloodless Gem](Deep_Gems.md) and [Blood Scourge](Blood_Scourge.md).
         -   Passive health regeneration and campfire regeneration are FULLY blocked even if the full requirements are not met. (Ex. 30 INT + 60 WLP will still negate campfire & health regen entirely even though every other health source will only be reduced by 85.7%.)
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
+    -   Also applies on weapon criticals.
     -   Does not work on allies.
     -   Does _**NOT**_ affect healthpacks.
     -   Prerequisites: 65 Willpower, 40 Intelligence

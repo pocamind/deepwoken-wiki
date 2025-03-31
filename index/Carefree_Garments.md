@@ -1,6 +1,6 @@
 ---
 title: Carefree Garments
-revid: 140114
+revid: 140512
 source: https://deepwoken.fandom.com/wiki/Carefree_Garments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -30,7 +30,7 @@ The [Fleetfoot](Talents.md#equipment-talents) Talent grants you a speed boost af
 
 This Outfit's Schematic can be obtained from [Layer 1](First_Layer.md) chests, the [Diluvian Mechanism](The_Diluvian_Mechanism.md), and the [Carnival of Hearts](Carnival_of_Hearts.md).
 
-## Trivia/Notes
+## Trivia
 
--   It changes appearance depending on the character gender.
--   Changing your gender at a barber will also change the visual appearance of the outfit with the associated gender.
+-   It used to change appearance based on your gender presentation, with the Default variant being assigned to the masculine/gender neutral gender presentation, and the Dress variant being assigned to the feminine gender presentation.
+    -   This was changed along with the removal of gender presentations in the March 31st, 2025 update.

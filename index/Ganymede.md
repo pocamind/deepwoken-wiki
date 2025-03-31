@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 138107
+revid: 140500
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -11,7 +11,7 @@ categories: [Aspects]
 Template:Races-Main
 
 _Peculiar folk who are often known for their wisdom and intelligence.  
-Though quite rare, Ganymede science still leads man forward._
+Though quite rare, Ganymede science still leads Man forward._
 
 Chance of obtaining aspect: **2.2%**
 

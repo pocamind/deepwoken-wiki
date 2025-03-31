@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 140038
+revid: 140516
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -15,6 +15,58 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **March 31st, 2025**
+
+**The Character Customization Update**  
+• Character customization has been overhauled from the ground up to support a much greater amount of fidelity and options for customization  
+• You can now pick your eyebrows, eyes, and mouth separately. This separation opens up the opportunity for us to get a lot more creative with faces, as the new system lets us expand on the range of designs available without needing to make a million replicas for every different aspect  
+• Aspect markings are now separate from scars, letting you combine the two  
+• Chrysids now get eyebrows. Hurray!  
+• Added a variety of new brows, eyes, and mouths  
+• Character creation's UI has been overhauled, making it much easier to navigate  
+• Barbers now give you access to the same options for appearance as in character creation. This makes characters considerably easier to edit, and ensures Barbers stay up to date with the latest customisation options!  
+• You can now have up to 6 Hair Styles  
+• Added Outfit Styles: Different versions of the same outfit are now all grouped under one outfit and can be freely changed at a Blacksmith without having to craft each one. This applies to different colors, but also to the different styles of outfits that were available based on your character's gender  
+• The Masc/Fem/Neutral gender presentation option has been removed with the introduction of the Outfit variant system  
+• Existing characters have been converted to the new customisation options where possible, but you can always visit a Barber for a change  
+  
+**Content & Systems**  
+• New Outfit: Varicosan Finery  
+• New Outfit Talent: Benefactor  
+• Added a global tooltip system that lets us now easily give UI tooltips (previously these were all hard-coded...). Also has some nice QoL like the tooltips not being cut off by the edge of the screen  
+• Added a lot more tooltips to the game's UI to help explain mechanics and different interfaces  
+  
+**Balancing & Tweaks**  
+• Spawns without an Inn are now a lot more varied in their locations (not just Etris and Songseeker!)  
+• Chests dropped by defeating Heart of Enmity are now locked to their corresponding player for 10s. This will also prevent them from merging with other chests  
+• Great Maul HVY req raised (65 -> 75)  
+• Reduced Great Maul's knockdown duration greatly (1.75s -> 0.65s)  
+• Scarlet Cannon's and Razor Blitz's cooldowns now only start ticking down once your feet hit the ground  
+• Aerogliding CD is now delayed until you touch the ground  
+• In Layer 2, Wind Passage distance nerf and wall-clipping fix have been reverted  
+• Fixed Visionshaper clones not being able to use Searing Snare  
+  
+**Bugfixes & Optimization**  
+• Implemented a workaround for a Roblox issue with streaming. This was causing all the huge frame drops in Etrean/East Luminant for the last week  
+• Greatly optimized character loading and reflection of character data on character appearances  
+• Leaving the bounds of a guild base now correctly returns you to the entrance, fixing the longstanding issue of people travelling between bases  
+• Heavily optimized Rhythm Advance VFX  
+• Fixed Ironsing Pull not working  
+• Optimized combat tags further  
+• Optimized ragdolls  
+• Optimized Dawnwalker VFX  
+• Fixed Heavenly Wind not going on CD until you touch the ground if used high in the air  
+• Fixed a number of inconsistencies between custom hair and default avatar hair  
+• Fixed beards not correctly loading into your hair styles  
+• Enabled Roblox improvements to their pathfinding algorithm  
+• Fixed a bug with Crazy Slots guns that could softlock you  
+• Fixed the Grandhive Aratel, Miner's Landing and Voidheart antiquarians not having faction allegiance configured, fixed the Chariot's Spire antiquarian having allegiance with the Divers  
+• Fixed the Layer 2 Floor 2 sewers railway having a spot of void to fall in between the obelisk and a chest spawn  
+• Fixed the sizzle sound effect played when damaged by acid and lava pools playing forever  
+• Optimized character slot updates  
+• Fixed Rosen's Roscoe being unobtainable  
+• Optimized Equipment loading
 
 ## **March 21st, 2025**
 
