@@ -1,6 +1,6 @@
 ---
 title: The Great Sharko Rumbling
-revid: 93031
+revid: 140495
 source: https://deepwoken.fandom.com/wiki/The_Great_Sharko_Rumbling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -28,3 +28,7 @@ This started out fine, but slow. The fishermen wanted more, and thus, they place
 Adventurers, warriors, pirates, mages, gladiators, and anyone else who could fight were called back to the islands to make a desperate last stand, and they succeeded in tiding off the literal, and metaphorical wave of Megalodaunts, sending them back reeling to the deep.
 
 After the re-building of society, the economy was able to boom due to the influx of treasures gained from the Megalodaunts.
+
+## Origin of the event
+
+During the update that introduced Megalodaunt Bait, players figured out that Megalodaunt Bait could be repeatedly used. With this, players started placing multiple Megalodaunt Bait in a singular area (most notable one being Etris Docks), resulting in a large amount of Megalodaunts flooding a singular area, swarming players and guards alike, giving them almost no chance to survive and fight back. The baits were quickly disabled, made unavailable for a very long time.

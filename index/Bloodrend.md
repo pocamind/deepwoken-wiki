@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 140117
+revid: 140493
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -59,6 +59,8 @@ Bloodrend Unbound can be obtained by defeating any humanoid boss (Duke, Chaser, 
 ## Mantras
 
 Bloodrend currently has a total of 17 mantras.
+
+  
 
 ### Combat Mantras
 
@@ -1351,6 +1353,6 @@ N/A
 -   Attempting to complete [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstars](Heartstar.md) are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
 -   **Sanguine Dive** is a reference to Vladimir's W ability in _League of Legends_.
 -   **Bloodtide Ritual** is a reference to [Mohg, Lord of Blood's](https://eldenring.wiki.fextralife.com/Mohg,+Lord+of+Blood) phase transition move "Bloodboon Ritual" from _Elden Ring_.
--   **Bloodedge** could possibly a reference to Ragna The Bloodedge; both in his name and his ability to conjure a scythe of blood; from the _Blazblue_ series.
+-   **Bloodedge** is likely a reference to Naoto Kurogane's "Bloodedge" and "Edge of Eternity" from BlazBlue Centralfiction.
 -   **Veinbreaker** is likely a reference to Slayer's "Mappa hunch" in Guilty Gear Strive.
 -   **Crucifixion** is a reference to Klaus' 'Unbreakable Cross Shield' from _Blood Blockade Battlefront_; confirmed by a tester.

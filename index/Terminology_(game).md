@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 140053
+revid: 140494
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -583,6 +583,13 @@ _noun, verb_
 2.  To create a build, as defined above.
     1.  Ex. "Hey can you build me something for [Gran Sudaruska](Gran_Sudaruska.md)?"
 
+### Blasphemy Build
+
+_noun_
+
+1.  A build that requires use of the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) below Power 8 in order to then use the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+    1.  Ex. "This is a blasphemy build you have to use the blasphemy before you order."
+
 ### Chase
 
 _noun, verb_
@@ -676,13 +683,6 @@ _noun_
 
 1.  A type of build, usually using the [Jetstriker](Oath%253A_Jetstriker.md) Oath, that specializes in movement speed, either to run away from opponents in PvP or to make traversal across the game faster.
     1.  Ex. "I hate trackstar builds, they're so annoying!!!"
-
-### Blasphemy
-
-_noun_
-
-1.  A build that requires the use of [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) as it shrines at stats lower than power 8.
-    1.  Ex. "This is a blasphemy build you have to use the blasphemy before you order."
 
 ## Acronyms/Short Forms
 
