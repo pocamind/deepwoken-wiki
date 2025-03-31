@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 140373
+revid: 140463
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1789,7 +1789,7 @@ Slash (1st Hit), Blunt (Kicks)
 
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
--   Contrary to what's shown in the gif, the first hit does **not** have hyperarmor.
+-   Contrary to what's shown in the gif, the wind-up before the first hit does **not** have hyperarmor.
 -   Short Range
 -   At max level, the initial hit posture breaks
 

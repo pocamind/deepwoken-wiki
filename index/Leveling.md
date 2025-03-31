@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 134069
+revid: 140480
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -12,31 +12,19 @@ categories: [Character, Mechanics]
 
 ― Unimpressed Etrean
 
-# Character Power
-
-## Description
-
-Power Levels are your character's experience and combat ability. The more power you have, the better; along with encountering/unlocking dialogue and dangers.
-
 ## Investment & Free Points
 
-The amount of investment required to power up will always be **15 Points**. The only exception is during Power 1, where going [Attunement-less](Attunement-less.md) and not fully spending your free core attribute points alongside having the multifaceted echo upgrade may bring it up to **40 Points.**
+Power Levels represent your character's progression and prowess. These are increased after spending all of your Investment Points shown in the character menu by pressing Tab (by default). The amount of investment required to power up will always be **15 Points**. The only exception is during Power 1, where going [Attunement-less](Attunement-less.md) and not fully spending your free core attribute points alongside having the multifaceted echo upgrade can bring it up to a total of **30 Points**.
 
-If you have the Autodidact Boon, for every Power Level, you gain 3 free points to allocate at a resting place. [Adrets](Adret.md) have this boon by default as a racial trait, and if you have both the Autodidact Boon and the Adret aspect you will always get 6 Free Points on every level. Free Points allow you to increase any attributes of your choice regardless of any experience needed (although, if you don't have enough, this still won't allow you to power up for free). Autodidact and Adret points cannot be used after completing Power 20, and by then are completely useless. It is recommended to use your points as much as you can before reaching that milestone.
+If you have the [Autodidact Boon](Boons_and_Flaws.md), for every Power Level you gain 3 free points to **allocate at a resting place**. [Adrets](Adret.md) have this boon by default as a racial trait, and if you have both the [Autodidact Boon](Boons_and_Flaws.md) and the [Adret](Adret.md) aspect you will instead get 6 Free Points on every level. Free Points allow you to increase any attributes of your choice regardless of any experience needed (although you still need it to level up). [Autodidact](Boons_and_Flaws.md) and [Adret](Adret.md) points cannot be used after completing Power 20, and by then are completely useless. It is recommended to use your points as much as you can before reaching that milestone.
 
-**You can spend Free Points whilst sitting near a campfire (or anything that can substitute a campfire).**
+It is also noted that you can get Free Points even without [Autodidact](Boons_and_Flaws.md) or the [Adret](Adret.md) aspect by collecting white orbs that may very rarely spawn out of humanoid and monster enemies, or you can strike a deal with the [Shrine of Courage](Shrine_of_Courage.md).
 
-It is also noted that you can get free points even without Autodidact or the Adret aspect by collecting white orbs that spawn out of humanoid and monster enemies (has a certain chance to do so) or you can talk to [Shrine of Courage](Shrine_of_Courage.md). This will not affect anything else after reaching Power 20 and using up all your investment points.
+## Talent Hands & Whisper Draws
 
-## Level Hands
+Every level up you get you will be awarded 3 Talents, and only 2 if you get a Whisper Draw. **The current levels for getting Mantras are 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19 and 20, resulting in a total of 12 mantras**. You can obtain more through the [Kelsius Quest](Kelsius.md), [Deep shrines](Deep_Shrines.md) and [Monster Mantras](Monster_Mantras.md). You can obtain up to a **maximum of 76 Talents**. See where all of these come from in the [Talents](Talents.md) page. These Talents can be turned into Mantras through the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md) and vice-versa through the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md).
 
-(tba) mantras, talent hands etc.
-
-Every level up you get you will be awarded 2-3 talent hands and 0-1 mantra hands, when you are to obtain a mantra from leveling you will be awarded with 2 talent hands and if not, you will get 3 talent hands
-
-The current level for getting mantras is 2,4,6,8,9,10,12,14,16,18,19,20 resulting in 12 mantras total, you can obtain more mantras through the [Kelsius quest](Kelsius.md), [Deep shrines](Deep_Shrines.md) and [Monster mantras](Monster_Mantras.md). You won't be able to use more a certain number of mantras depending on what build you have with some allowing more mantras then other via [Oaths](Oaths.md) and [Neuroplasticity](Talents.md).
-
-You can obtain up to a max of 76 talents which can be turned into mantras through the [Shrine of unification](Deep_Shrines/Shrine_of_Unification.md) and turn a mantra card into 2 random talents through the [Shrine of division](Deep_Shrines/Shrine_of_Division.md)
+Keep in mind that there exists a **limit to the amount of mantras of the same type you are allowed to have equipped**, although it can still be increased the quantity via [Oaths](Oaths.md) and [Neuroplasticity](Talents.md).
 
 ## Notes/Trivia
 

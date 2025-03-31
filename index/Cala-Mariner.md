@@ -1,6 +1,6 @@
 ---
 title: "Cala-Mariner"
-revid: 139311
+revid: 140464
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits]
@@ -36,3 +36,4 @@ This Outfit's Schematic can be obtained from the [Nautilodaunt](Nautilodaunt.md)
 ## Trivia/Notes
 
 -   This outfit has by far the most expensive crafting recipe, requiring 5 [Odd Tentacles](Odd_Tentacle.md) and a [Nautilodaunt Beak](Nautilodaunt_Beak.md). Expect to farm [Nautilodaunts](Nautilodaunt.md) a lot if you wish to obtain this outfit for yourself.
+-   The outfits name is a pun on calamari and mariner.

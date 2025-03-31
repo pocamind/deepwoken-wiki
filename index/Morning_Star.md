@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 134152
+revid: 140481
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -30,7 +30,7 @@ categories: [Weapons, Clubs]
 
 ## Description
 
-The **Morning Star** is a medium blunt medium weapon. It can be considered the midgame version of the [Mace](Mace.md).
+The **Morning Star** is a blunt club type medium weapon. It can be considered the midgame version of the [Mace](Mace.md).
 
 ## Trivia
 
