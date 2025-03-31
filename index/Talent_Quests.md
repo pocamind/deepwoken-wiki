@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 138833
+revid: 140462
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -90,9 +90,9 @@ This talent can also be obtained by picking the Ignition Union origin.
 
 Ethiron's Gaze is obtained at Firfire after retrieving the spear in the Firfire Caverns and then talking to the NPC in the village. This lessens the fog permanently for you and opens up the blocked blue/purple doorways in order to get to [Nest Corridor](Nest_Corridor.md) and fight [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)/use the Ignition Deepdriller to escape.
 
-### Pleetsky's Will
+### Pleeksty's Will
 
-**Pleetsky's Will:** You gain significantly more Ether from consuming elemental ingredients
+**Pleeksty's Will:** You gain significantly more Ether from consuming elemental ingredients
 
 Pleetsky's Will is obtained via talking to [Ploom](Ploom.md) in Lance's Food, [Etris](Etris.md). It can be obtained if you have 20 Flamecharm. If you have 50 Charisma or 40 Flamecharm, you can pick those options to instantly get the Talent. If you do not have those, you can trade him 3 [Dying Embers](Dying_Embers.md) in order to get the Talent.
 
