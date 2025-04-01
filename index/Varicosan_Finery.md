@@ -1,13 +1,13 @@
 ---
 title: Varicosan Finery
-revid: 140567
+revid: 140571
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Varicosan Finery
 
-Template:ArmorInfobox**Varicosan Finery** is an ? [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Varicosan Finery** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
