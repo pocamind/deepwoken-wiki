@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 138365
+revid: 140582
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Weapons, Enemies, NPCs located in the First Floor of the Second Layer]
@@ -26,8 +26,6 @@ If you do meet the requirements while having the Destined Echo modifier, Aska wi
 
 To initiate the fight instead of wiping instantly, your character must fulfill some requirements:
 
-**Confirmed:**
-
 -   75 [Flamecharm](Flamecharm.md)
 -   No Light Hook
 -   Either [Pleeksty's Will](Talents.md#inferno) Talent, [Pleeksty's Faith](Talents.md#inferno) Talent, **OR** the [Flame Worshipper](Flame_Worshipper_Armor.md) Outfit
@@ -50,7 +48,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <th>Danger</th>
 </tr>
 <tr>
-  <td>Basic Attack</td>
+  <td>Assault</td>
   <td>N/A</td>
   <td>Aska hits the player with an ordinary attack.</td>
   <td><font>◯</font></td>

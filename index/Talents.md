@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 140526
+revid: 140580
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1265,7 +1265,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The following Galebreathe Mantras have knockback and can benefit from this Talent: Air Force, Champion's Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind Gun
     -   Prerequisite: 30 Galebreathe
 
--   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+-   Inhale \[Galebreathe Exclusive\] - [Feinting a](Combat_Mechanics.md#combat-basics) [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   While not mentioned in the Talent description, inhaling a spell will cause the wind to be applied to your M1's \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   Inhaling a Galebreathe Mantra adds (Mantra Level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale mantra a 10% damage buff.)
     -   Prerequisites: 60 Galebreathe

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 140463
+revid: 140604
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1255,10 +1255,9 @@ Blunt
 -   Does **not** apply insanity.
 -   Landing the grab multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
     -   Dread Whisper must be landed again within 15s of landing the previous one to gain the damage buff.
--   Grants iframes to the user and the opponent hit for the duration of the stun.
 -   Incredibly fast and hard to react without predicting it, meaning it's rather easy to land on the least defensive type of players.
--   The move lasts a decent while, allowing for effects like Burn to tear through health.
-    -   It also allows for Twisted Flames' Puppets and teammates using mantras such as Eclipse Kick to have a large window of time to hit your opponent.
+-   Grants iframes to the user and the opponent hit for the duration of the stun.
+    -   This allows for Twisted Flames' Puppets to home in closer and for teammates using mantras such as Eclipse Kick to try timing these to hit the opponent as soon as they're released.
 -   Can be modified with Crystal/Perfect Lenses to increase it's range.
 
  |

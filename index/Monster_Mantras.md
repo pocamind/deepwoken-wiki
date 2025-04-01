@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 139716
+revid: 140577
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -115,7 +115,7 @@ Blunt
 
 **Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) '**Femur Throw'** attack._
 
--   Unblockable. (taken from [Carrion](Carrion,_Father_of_Evolution.md)'s page, may not be true)
+-   Deals HEAVY posture damage.
 -   Grants hyperarmor during startup.
 -   Ragdolls the opponent very far.
 

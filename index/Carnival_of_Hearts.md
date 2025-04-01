@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 139781
+revid: 140605
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
@@ -48,21 +48,10 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   The chests can contain large amounts of items, [as seen in this video](https://www.youtube.com/watch?v=rwZ_5dDwGSE), where the chests drop 44 iron bombs and 16 cakes.
 -   The Carnival also gives XP based on the number of eliminated players.
 
-## Current Bugs
-
-These were collected from multiple player testers after a month researching the minigame itself and attempting to make it work. This info will be useful for all players looking to take part in the [World Event](World_Events.md) but don't wish to deal with the event breaking most of the time. After these are patched make sure to delete and possibly add to the Trivia section.
-
--   Being allies or sharing a guild with other participants means nothing and will not cause the event to fail. Feel free to join in with your friends!
-    -   The Carnival of Hearts treats everyone equally (unless you're poor).
-
-A few known issues regarding the actual minigames:
-
--   During **Beam Blitz**, [Aelita](Aelita.md) and [Tillian](Tillian.md) will sometimes not have their purple outline, making it hard to spot where they are.
-
 ## Trivia
 
--   Before a shadow update on March 20th, 2025, this event event was extremely buggy, where in most cases the minigames would not start and players would be kicked from the server.
-    -   In the rare case the minigames did start, [Aelita](Aelita.md) and [Tillian](Tillian.md) would only shoot one beam during Beam Blitz, and Hot Pomato would kill all players, meaning eliminating every other player during Bomb Battle was the only way to get Carnival rewards.
+-   Before a shadow update on March 20th, 2025, this event was extremely buggy, where in most cases the minigames would not start and players would be kicked from the server, the suspected reasoning behind it was a short timer where those who joined were counted for the minigames, and therefore resulted in players who connected too late not being considered, often only having a single 'valid player' or none at all for it to begin.
+    -   In the rare case the minigames did start, [Aelita](Aelita.md) and [Tillian](Tillian.md) would only shoot one beam during **Beam Blitz** and **Hot Pomato** give everyone a bomb and kill all players, meaning eliminating every other player during **Bomb Battle** was the only way to get exclusive Carnival rewards.
 -   There was a bug on release where players could use their weapons and mantras during the minigames, and kill all the other players. This bug has been fixed.
 -   Players can use the [Dimensional Travel](Dimensional_Travel.md) resonance during the event to go on top of the tent and avoid all challenges.
 -   Players can roll-clip onto the stands after the minigame has started, avoiding the minigames and other players.

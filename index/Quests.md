@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 138902
+revid: 140578
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -270,7 +270,7 @@ File:Theguy.png
 
 **Navae's Retribution:**
 
-**Quest Location**: [Fort Merit](Fort_Merit.md) **Guide**: Talk to [Beiruul](Beiruul.md) at [Meteor Isle](Meteor_Isle.md), then go to Fort Merit. Event occurs near the lift. Kill some Authority Peacekeepers then return to Meteor Isle.
+**Quest Location**: [Fort Merit](Fort_Merit.md) **Guide**: Talk to [Beiruul](Beiruul.md) at [Meteor Isle](Meteor_Isle.md), then go to Fort Merit. Event occurs near the lift. Kill some Authority Peacekeepers ~4-6, then return to Meteor Isle.
 
 **Reward/s**: EXP, Bravery, 2 [Knowledge](Knowledge.md)
 

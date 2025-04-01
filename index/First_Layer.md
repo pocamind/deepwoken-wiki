@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 139897
+revid: 140579
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -175,7 +175,7 @@ Once you have spoken with [Surge](Surge.md), the [Nestmind](The_Nestmind.md) - a
 
 ## Loot Table
 
-Below is a list of potential items that can spawn in chests in Scyphozia. Scyphozia is the best place in the game for loot and corrupted monsters give better loot than normal monsters.
+Below is a list of potential items that can spawn within chests in Scyphozia. Scyphozia is the one of the best places in the game for high end loot, and corrupted monsters give better loot than normal monsters.
 
 **Keep in mind that this list is still incomplete.**
 
@@ -186,8 +186,8 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
   <td>
   <ul>
     <li><b>Master</b>: <a href="Authority_Commander.md">Authority Commander</a>, <a href="Black_Diver.md">Black Diver</a>, <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
-    <li><b>Expert</b>: <a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a></li>
-    <li><b>Adept</b>: <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a></li>
+    <li><b>Expert</b>: <a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a></li>
+    <li><b>Adept</b>: <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Carefree_Garments.md">Carefree Garments</a></li>
     <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a></li>
   </ul></td>
 </tr>
@@ -205,11 +205,11 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
     <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Deepspindle.md"><font>Deepspindle</font></a>.</li>
     <li><b>Alloyed Weapons</b>: <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>
   <ol>
-    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></li>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li>
     <li><b>Medium Weapons</b>: <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a></li>
     <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Enforcer's_Blade.md">Enforcer's Blade</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Pale_Morning.md">Pale Morning</a></li>
   </ol></li>
-    <li><b>Offhand Weapons</b>: N/A</li>
+    <li><b>Offhand Weapons</b>: <a href="Parrying_Dagger.md">Parrying Dagger</a></li>
   </ul></td>
 </tr>
 <tr>
