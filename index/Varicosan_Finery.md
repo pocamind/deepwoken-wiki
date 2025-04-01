@@ -1,6 +1,6 @@
 ---
 title: Varicosan Finery
-revid: 140558
+revid: 140567
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,6 +24,12 @@ The Outfit has 1500 durability, grants +20% Physical Armor and +20% Elemental Ar
 ## Location
 
 This Outfit's Schematic can be obtained from [Layer 1](First_Layer.md) chests.
+
+  
+
+  
+
+  
 
 ## Trivia
 

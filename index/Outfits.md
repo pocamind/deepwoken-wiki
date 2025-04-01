@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 140514
+revid: 140559
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -154,7 +154,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td><b><a href="Lost_Celtor.md">Lost Celtor</a></b></td>
   <td></td>
   <td></td>
-  <td></td>
+  <td><a href="Varicosan_Finery.md">Varicosan Finery</a></td>
   <td><a href="Celtorian_Tideknight.md">Celtorian Tideknight</a></td>
 </tr>
 <tr>

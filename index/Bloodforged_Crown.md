@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 136467
+revid: 140560
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]
@@ -36,5 +36,5 @@ When equipped, even while its visibility is toggled off, it will play an animati
 -   Goes great with [No Life King](Enchantments.md) builds, due to the fact that the innate Talent decreases blood loss, one of No Life King's greatest weaknesses.
     -   Like [Alloyblood](Talents.md), this also negates the long-term combat risk of fighting against [Flareblood Kamas](Flareblood_Kamas.md), which Chaser also drops.
     -   Be aware that NLK has heavily reduced effectiveness from both Cauterized Wounds and Alloyblood.
--   Arguably one of, if not the most valuable obtainable item in the game. It's also one of the rarest
+-   Arguably one of, if not the most valuable obtainable item in the game. It's also one of the rarest and therefore most sought after
     -   Although changed to Mythic rarity, it doesn't make it rarer than when it was Legendary.
