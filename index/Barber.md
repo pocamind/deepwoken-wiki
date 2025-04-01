@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 137664
+revid: 140537
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -30,29 +30,12 @@ In order to reroll your bell icon with the barber you must pay 1 knowledge
 
 "Hey friend, need a new style?"
 
-1.  Sure. (Allows Hair customization.)
-2.  Help me, barber. A most wretched cut has befallen me. (Changes hair back to how it was previously. This option only appears if a Fadetrimmer has used their Precision Cuts on you changing your hair.)
-3.  Restore me to my natural hair. (Changes hairstyle to the one your avatar is currently wearing.)
-4.  Change my eyelashes. (Changes your eyelashes as said.)
-5.  Change my gender representation. (Changes gender to male, female, or neutral.)
-6.  Change my face markings. (Changes face decal.)
-7.  Change my race ornament. (Changes racial ornament if have)
-8.  Change my body shape. (Changes body shape)
-9.  Could you remove some of my dyes? (You can pick the dye you want to remove)
-10.  Change my face (Changes your face emote)
-11.  Change my variant. (Changes racial variant.)
-12.  Change my skin tone. (Changes skin tone.)
-13.  Change my name. \[100 Notes\] (Changes name for 100 [Notes](Notes.md))
-14.  Could you alter the shape of my Resonance? \[1 Knowledge\] (You can change and pick the shape of your resonance for 1 [Knowledge](Knowledge.md))
-15.  How are you able to do all of this stuff?
+1.  A new style sounds good. (Opens character customization.)
+2.  Change my name. \[100 Notes\] (Changes name for 100 [Notes](Notes.md))
+3.  How are you able to do all of this stuff?
 
-1 - "All Done! It looks great!" / "Uhh... You gonna ask for anything?" (Canceling/not putting hair ID)
-
-2 - "Stars above, you _need help. Here."_
-
-3-8 - "Okay! All done!"
-
-10 - "I took an oath as a Fadetrimmer." (Continues in a short conversation)
+  
+3 - "I took an oath as a Fadetrimmer." (Continues in a short conversation)
 
 -   Player: 1. "...A Fadetrimmer?"
 -   Barber: "Yeah. We are a pretty underground Oath. You probably haven't heard of us."

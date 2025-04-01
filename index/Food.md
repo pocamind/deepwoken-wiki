@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 139405
+revid: 140531
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -50,12 +50,12 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 
 ### Boosts
 
--   _"You feel your wounds closing up..."_ This buff slightly increases the user's health regeneration speed. (17.5% natural health regen buff)
--   _"You feel as though you could go longer without food..."_ This buff significantly decreases the user's starvation speed. (10% reduced natural hunger loss)
--   _"Your magic feels stronger..."_ This buff increases the user's mantra damage. (5% mantra and enchant damage buff)
--   _"A hearty meal that'll empower your melee strikes!"_ This buff increases the user's melee damage. (3.85% weapon damage buff)
--   _"You feel ether surging into you..."_ This buff increases the user's ether regeneration speed. (Doesn't work as of 2/26/25)
--   _"A complex meal that'll get you moving!"_ This buff increases your walking/running speed. (Doesn't work as of 2/26/25)
+-   _"A soothing meal to recover your strength!"_ This buff increases the user's health regeneration speed. (17.5% of your base regen added on top of your current health regen)
+-   _"A filling meal to keep you fed for longer!"_ This buff significantly decreases the user's starvation speed. (10% reduced natural hunger loss)
+-   _"An energising meal that'll empower your mantras!"_ This buff increases the user's mantra damage. (5% mantra damage buff)
+-   _"A hearty meal that'll empower your melee strikes!"_ This buff increases the user's melee damage. (5% weapon damage buff)
+-   _"An aromatic meal to cultivate your focus!"_ This buff increases the user's ether regeneration speed. (Doesn't work as of 2/26/25)
+-   _"A complex meal that'll get you moving!"_ This buff increases your sprinting speed. (5% running speed buff)
 
 Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of Talents.
 
@@ -181,7 +181,6 @@ Lifting The Meat Lord
     -   Pomar may represent a pineapple. Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they damage you.
     -   Alternatively, may also represent a mango. Mango skin contains urushiol oil, which causes a reaction to the body near identical of that to poison ivy which may be why they damage you.
 -   Mantra damage buff foods and Weapon damage buff foods provide around a 5% increase in damage.[\[1\]](#cite-note-1)
-    -   The Weapon damage buff provides a 3.85% increase in damage.[\[2\]](#cite-note-2)
 -   Before the plates were added for most foods in a (supposed) shadow-update, the Cake model had no underside.
 -   According to [Destroyman III](Destroyman_III.md), the strength buff the Megurger gives you is not from the food itself, but the concept.
 -   The Glazed Fish model is placed incorrectly on the hand compared to other plate dishes.
@@ -197,4 +196,3 @@ Lifting The Meat Lord
 ## References
 
 1.  [↑](#cite-ref-1) [https://youtu.be/Zdj637SL9TI](https://youtu.be/Zdj637SL9TI)
-2.  [↑](#cite-ref-2) [https://imgur.com/a/GHzO0yA](https://imgur.com/a/GHzO0yA)
