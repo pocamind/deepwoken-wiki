@@ -1,6 +1,6 @@
 ---
 title: Mudwoken
-revid: 138162
+revid: 140657
 source: https://deepwoken.fandom.com/wiki/Mudwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["April Fools' Day events", Events]
@@ -11,14 +11,14 @@ categories: ["April Fools' Day events", Events]
 | Mudwoken | |
 |---|---|
 | date1 | 1296 |
-| date2 | 4/1/2022 |
+| date2 | 4/1/2023 |
 | effects | Majority of NPCs and all players become Mudskippers |
 | items | None |
 | type | April Fools Update |
 
 ## Mudwoken
 
-Mudwoken was an update pushed on April 1st, 2022. This was an update made as a joke, in which every player would be a [Mudskipper](Mudskipper.md) no matter their aspect. Canonically, Mudwoken was 91 years ago in-game from April 1st, 2023.
+Mudwoken was an update pushed on April 1st, 2022. This was an update made as a joke, in which every player would be a [Mudskipper](Mudskipper.md) no matter their aspect. Canonically, Mudwoken was 183 years ago in-game from April 1st, 2023.
 
   
 

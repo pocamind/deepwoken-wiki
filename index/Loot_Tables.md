@@ -1,19 +1,21 @@
 ---
 title: Loot Tables
-revid: 140606
+revid: 140659
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Loot Tables
 
-This Page is in dev, It will take a while to add everything
+This Page is in dev, It will take a while to add everything: if you see '(Template)' on any of the Tables that means they haven't been updated yet.
 
 # Location loot tables
 
-## [Lower Erisia](Lower_Erisia.md) Loot Table
+Location are places where POI text appears on screen when you arrive.
 
-**temp**
+## [Lower Erisia](Lower_Erisia.md) & [Upper Erisia](Upper_Erisia.md) Loot Tables
+
+_Erisa is one of the first location most people visit, divided into two parts, lower & upper, they share a loot table_
 
 <table>
 <tbody>
@@ -59,9 +61,351 @@ This Page is in dev, It will take a while to add everything
 </tbody>
 </table>
 
+## [Minityrsa](Minityrsa.md) Loot Table
+
+_A snow covered island where the [Trial of One](Trial_of_One.md) is located, containing slightly better items then Erisia._
+
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfits</a></td>
+  <td>
+  <ul>
+    <li><b>Master</b>:</li>
+    <li><b>Expert</b>:<a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Darksteel_Plate.md">Darksteel Plate</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></li>
+    <li><b>Adept</b>:</li>
+    <li><b>Starter</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Hero_Blades.md"><font>Hero's Blades</font></a> (Winter Exclusive), <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li>
+    <li><b><a href="Weapons.md#light">Light Weapons</a></b>:<a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Canor_Fang.md">Canor Fang</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></li>
+    <li><b><a href="Weapons.md#medium">Medium Weapons</a></b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Katana.md">Katana</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li>
+    <li><b><a href="Weapons.md#heavy">Heavy Weapons</a></b>: <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a>, <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Night_Axe.md">Night Axe</a>, <a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head">Head Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>:<a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a></li>
+    <li><b><a href="Equipment.md#legs">Leg Equipments</a></b>:<a href="Legion_Boots.md">Khan Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li>
+    <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>: Capes, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a></li>
+    <li><b><a href="Equipment.md#face">Face Equipments</a></b>: <a href="Blindfold.md">Blindfold</a>,<a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>, <a href="Eyeglasses.md">Eyeglasses</a></li>
+    <li><b><a href="Equipment.md#ears">Ear Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings</a></b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><b>Drops</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## [Songseeker Wilds](Songseeker_Wilds.md) Loot Table
+
+_One of the first island inside the Eastern Luminant, most people come here for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), or for the [Oath: Starkindred](Oath%253A_Starkindred.md), the loot here is comparable to that found at Minityrsa_
+
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfits</a></td>
+  <td>
+  <ul>
+    <li><b>Master</b>:</li>
+    <li><b>Expert</b>:<a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></li>
+    <li><b>Adept</b>:</li>
+    <li><b>Starter</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b><a href="Weapons.md#light">Light Weapons</a></b>: <a href="Canor_Fang.md">Canor Fang</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a></li>
+    <li><b><a href="Weapons.md#medium">Medium Weapons</a></b>: <a href="Katana.md">Katana</a>, <a href="Shotel.md">Shotel</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
+    <li><b><a href="Weapons.md#heavy">Heavy Weapons</a></b>: <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Sacred_Hammer.md">Sacred Hammer</a></li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head">Head Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>:<a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a>, <a href="Royal_Duelist.md">Royal Duelist</a></li>
+    <li><b><a href="Equipment.md#legs">Leg Equipments</a></b>:<a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li>
+    <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>:Capes,</li>
+    <li><b><a href="Equipment.md#face">Face Equipments</a></b>: <a href="Blindfold.md">Blindfold</a>, <a href="Eyeglasses.md">Eyeglasses</a></li>
+    <li><b><a href="Equipment.md#ears">Ear Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings</a></b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><b>Drops</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## [Summer Isle](Summer_Isle.md) Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics (template)</a></td>
+  <td>
+  <ul>
+    <li><b>Master</b>:</li>
+    <li><b>Expert</b>:</li>
+    <li><b>Adept</b>:</li>
+    <li><b>Starter</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapon Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b><a href="Weapons.md#light">Light Weapons</a></b>:<a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Dawnshot.md">Dawnshot</a></li>
+    <li><b><a href="Weapons.md#medium">Medium Weapons</a></b>:<a href="Trident_Spear.md">Trident Spear</a>,<a href="Cavalry_Saber.md">Cavalry Saber</a> ,<a href="Serpent's_Edge.md">Serpent's Edge</a></li>
+    <li><b><a href="Weapons.md#heavy">Heavy Weapons</a></b>:<a href="Forge_Greathammer.md">Forge Greathammer</a><a href="Darksteel_Greatsword.md">, Darksteel Greatsword</a></li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head">Head Equipments</a></b>:<a href="Tophat.md">Tophat</a></li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>:<a href="Aristocrat_Coat.md">Aristocrat Coat</a></li>
+    <li><b><a href="Equipment.md#legs">Leg Equipments</a></b>:<a href="Novice_Boots.md">Novice Boots</a></li>
+    <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>:<a href="Fleet_Warden_Cape.md">Fleet Warden Cape</a></li>
+    <li><b><a href="Equipment.md#face">Face Equipments</a></b>:<a href="Rebel's_Bandana.md">Rebel's Bandana</a></li>
+    <li><b><a href="Equipment.md#ears">Ear Equipments</a></b>:<a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li>
+    <li><b><a href="Equipment.md#rings">Rings</a></b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous (template)</b></td>
+  <td>
+  <ul>
+    <li><b>Drops</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+  
+
+## [Miner's Landing](<Miner's_Landing.md>) & [Saramaed Hollow](Saramaed_Hollow.md) Loot Tables
+
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics (template)</a></td>
+  <td>
+  <ul>
+    <li><b>Master</b>:</li>
+    <li><b>Expert</b>:</li>
+    <li><b>Adept</b>:</li>
+    <li><b>Starter</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapon Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b><a href="Weapons.md#light">Light Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#medium">Medium Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#heavy">Heavy Weapons</a></b>:</li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head">Head Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#legs">Leg Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#face">Face Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#ears">Ear Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings</a></b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous (template)</b></td>
+  <td>
+  <ul>
+    <li><b>Drops</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## [Saramaed Summit](Saramaed_Summit.md) Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics (template)</a></td>
+  <td>
+  <ul>
+    <li><b>Master</b>:</li>
+    <li><b>Expert</b>:</li>
+    <li><b>Adept</b>:</li>
+    <li><b>Starter</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapon Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b><a href="Weapons.md#light">Light Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#medium">Medium Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#heavy">Heavy Weapons</a></b>:</li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head">Head Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#legs">Leg Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#face">Face Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#ears">Ear Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings</a></b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous (template)</b></td>
+  <td>
+  <ul>
+    <li><b>Drops</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## [Starswept Valley](The_Starswept_Valley.md) Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics (template)</a></td>
+  <td>
+  <ul>
+    <li><b>Master</b>:</li>
+    <li><b>Expert</b>:</li>
+    <li><b>Adept</b>:</li>
+    <li><b>Starter</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapon Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b><a href="Weapons.md#light">Light Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#medium">Medium Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#heavy">Heavy Weapons</a></b>:</li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head">Head Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#legs">Leg Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#face">Face Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#ears">Ear Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings</a></b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous (template)</b></td>
+  <td>
+  <ul>
+    <li><b>Drops</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## [Moon's Eyrie](<Moon's_Eyrie.md>) Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics (template)</a></td>
+  <td>
+  <ul>
+    <li><b>Master</b>:</li>
+    <li><b>Expert</b>:</li>
+    <li><b>Adept</b>:</li>
+    <li><b>Starter</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapon Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b><a href="Weapons.md#light">Light Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#medium">Medium Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#heavy">Heavy Weapons</a></b>:</li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head">Head Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#legs">Leg Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#face">Face Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#ears">Ear Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings</a></b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous (template)</b></td>
+  <td>
+  <ul>
+    <li><b>Drops</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
 ## [Scyphozia](First_Layer.md) Loot Table
 
-**Keep in mind that this list is still incomplete.**
+_The first layer of the depths, where most souls go to die, holding more reliable high-end loot then most other places._
 
 <table>
 <tbody>
@@ -115,6 +459,114 @@ This Page is in dev, It will take a while to add everything
 </tr>
 </tbody>
 </table>
+
+## [The Eternal Gale](Second_Layer/The_Ethironal_Shrine.md) Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics (template)</a></td>
+  <td>
+  <ul>
+    <li><b>Master</b>:</li>
+    <li><b>Expert</b>:</li>
+    <li><b>Adept</b>:</li>
+    <li><b>Starter</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapon Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b><a href="Weapons.md#light">Light Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#medium">Medium Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#heavy">Heavy Weapons</a></b>:</li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head">Head Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#legs">Leg Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#face">Face Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#ears">Ear Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings</a></b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous (template)</b></td>
+  <td>
+  <ul>
+    <li><b>Drops</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## [New Kyrsa](Second_Layer/New_Kyrsa.md) Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics (template)</a></td>
+  <td>
+  <ul>
+    <li><b>Master</b>:</li>
+    <li><b>Expert</b>:</li>
+    <li><b>Adept</b>:</li>
+    <li><b>Starter</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapon Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b><a href="Weapons.md#light">Light Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#medium">Medium Weapons</a></b>:</li>
+    <li><b><a href="Weapons.md#heavy">Heavy Weapons</a></b>:</li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment Drops (template)</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head">Head Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>:</li>
+    <li><b><a href="Equipment.md#legs">Leg Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#face">Face Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#ears">Ear Equipments</a></b>:</li>
+    <li><b><a href="Equipment.md#rings">Rings</a></b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous (template)</b></td>
+  <td>
+  <ul>
+    <li><b>Drops</b>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+# Boss Loot Tables
+
+All bosses have differing loot tables found here
+
+# Enemy Specific Loot Tables
+
+any drops locked to a enemy kill can be found here
+
+# Special Loot Tables
+
+"Special" refers to any loot table not tied to a Location, Boss, or Enemy such as Voidwalker chests or Chime of Conflict
 
 # Template Table
 
