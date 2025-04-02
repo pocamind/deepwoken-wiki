@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 139491
+revid: 140609
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant]
@@ -24,7 +24,7 @@ The Weird Trader is an inconspicuous [Ganymede](Ganymede.md) that can rarely be 
 
 The Weird Trader will request three items, from a long list of possible choices. Providing these three items will reward the player with a very rare [weapon](Weapons.md), a [relic](Relics.md) or an [Astral Enchantment Stone](Enchantments.md) (~5%). This trade can only be performed once per encounter, a new Weird Trader must be found to attempt another trade.
 
-Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md), a I-Frame mantra, or other forms of fall damage negation.
+Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md), an I-Frame mantra, or some other form of fall damage negation.
 
 The event despawns after 30 minutes have elapsed or if you leave the server after talking to him.
 

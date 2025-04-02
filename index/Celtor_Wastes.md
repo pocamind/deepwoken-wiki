@@ -1,6 +1,6 @@
 ---
 title: Celtor Wastes
-revid: 129484
+revid: 140615
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, The Depths]
@@ -16,7 +16,10 @@ LocationL Celtor Wastes LocationR
   
 
   
-**Celtor Wastes** is a location in _Deepwoken_. It is a region in [The Depths](The_Depths.md).
+
+  
+
+**Celtor Wastes** is a location in _Deepwoken_. It is a region in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
 
 ## Overview
 
@@ -30,18 +33,20 @@ The main area of farming in [the Depths](The_Depths.md), outside the [City of th
 
 -   [Castle Light](Castle_Light.md)
 -   [Diver's Camp](<Diver's_Camp.md>)
+-   [The Chariot's Spire](<The_Chariot's_Spire.md>)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [The Cold Forge](The_Cold_Forge.md)
 
 ## Events
 
 -   [Akira](Akira.md)
--   [Lionfish](Lionfish.md) vs. [Apprentice Diver](Apprentice_Diver.md)
--   [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt) vs. [Apprentice Diver](Apprentice_Diver.md)
+-   Apprentice Diver vs. (either): Alpha Megalodaunt, King Thresher, Lionfish, Glacial Lionfish, Crustaceous Rex
 -   [Depths Collapse](Random_Encounters.md#the-depths-collapse)  
     
 
 ## Loot Table
 
-Below is a list of potential items that can spawn in chests in Celtor Waste.
+Below is a list of potential items that can spawn in chests in Celtor Wastes.
 
 | [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
 | --- | --- | --- | --- |
