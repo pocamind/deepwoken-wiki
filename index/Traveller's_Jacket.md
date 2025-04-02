@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 140520
+revid: 140626
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -30,6 +30,6 @@ All players spawn with this Outfit's Schematic ready to purchase and equip at th
 
 -   This Outfit is typically the first most players will buy.
 -   Traveller's Jacket was originally named Traveler's Cloak with all variants being entirely separate from each other rather than just being cosmetic options.
--   The Red coat had 1 extra durability a long long time ago.
--   The Purple coat is missing the notches on the arms that all other variants have.
--   The White Coat has textures on the hands that look like a palm.
+-   The Red jacket had 1 extra durability a long long time ago.
+-   The Lilac jacket is missing the notches on the arms that all other variants have.
+-   The Default jacket has textures on the hands that look like a palm.

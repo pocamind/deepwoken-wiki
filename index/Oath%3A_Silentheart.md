@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 140330
+revid: 140622
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -91,6 +91,14 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
     -   Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
         -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
         -   Given as a Talent tool.
+        -   Flow state changes the behavior of a move
+            -   does increased damage
+                -   e.g. medium mayhem damage (20 -> 35), medium rising star (30 -> 40), medium relentless hunt (30 damage overall -> 40 damage overall)
+            -   medium and heavy mayhem autogrip
+            -   light relentless hunt now returns to the user back to their original position and preforms a secondary slash there
+                -   You can reload during the second slash
+            -   changes windup of ankle cutter and possibly other moves
+            -   _**although it does provide buffs it adds a loud whooshing sound effect right before you do the move**_
         -   Active for 1 second. ~4s CD.
 
 -   **Mayhem - Passive**

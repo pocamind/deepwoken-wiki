@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 140580
+revid: 140629
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -351,6 +351,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 -   Deep Wound \[Common Talent, Light\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.
     -   The damage increase granted from this Talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
+    -   The anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
     -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" has this Talent.
     -   Prerequisite: 35 Agility
 
@@ -1375,9 +1376,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Whenever you land an M1 or Critical, the target has most healing forms reduced/disabled for 8 seconds.
         -   Anti-heal percentage from a non-passive source scales with the total numerical investment of Willpower + Intelligence. Scales up to 100% with 105 points in both stats collectively. (Ex. Still has 100% antiheal at \[60 Willpower + 45 Intelligence\] OR \[60 Intelligence + 45 Willpower\]). Relevant for [Shrine of Order](Deep_Shrines.md).
         -   Anti-heal percentage can be calculated by dividing your points in INT + WLP by 105. (Ex. 35 INT + 45 WLP = 80) > (80/105 = 76.2% Anti-heal)
-    -   Unique to All the Dead God's anti-heal, it stacks with _itself_, but **multiplicatively**. This means you **cannot** reach 100% anti-heal unless you meet the 105 combined point requirement, but you can still get very high anti-heal values by landing enough hits.
-        -   The formula for this would be (1 - ((1 - 0.anti-heal amount) \* (1 - 0.anti-heal amount) \* ...)) \* 100, with the amount of times you repeat it being based on the amount of hits landed. (Ex. 5 hits with 52% antiheal would look like this (1-((1-0.52)\*(1-0.52)\*(1-0.52)\*(1-0.52)\*(1-0.52))) \* 100 = 97.45% anti-heal)
-        -   All the Dead God's anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
+    -   The anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
     -   The scaling from investment only affects spit healing, [Bloodless Gem](Deep_Gems.md) and [Blood Scourge](Blood_Scourge.md).
         -   Passive health regeneration and campfire regeneration are FULLY blocked even if the full requirements are not met. (Ex. 30 INT + 60 WLP will still negate campfire & health regen entirely even though every other health source will only be reduced by 85.7%.)
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
@@ -1983,9 +1982,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md)
 
 -   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H._
+    -   Increase outgoing M1 posture damage by 20% and reduce incoming posture damage by 15%.
+    -   Gain a +15% damage modifier when posture breaking with an M1.
     -   Will drain ether when in use under power 20. (ether drain scales on level)
     -   Deactivated when having 0% ether, or upon using Ardour scream.
-    -   Increase outgoing M1 posture damage by 15% and reduce incoming posture damage by 15%
     -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md), [The Doom Of Caeranthil](The_Doom_of_Caeranthil.md), or talk with the [Old Stranger](Old_Stranger.md).
 
 -   _**[Murmur: Rhythm](Murmur%253A_Rhythm.md)**_ _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
