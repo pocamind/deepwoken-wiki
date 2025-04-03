@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 140674
+revid: 140688
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -651,6 +651,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   Wither gain
         -   Ring of Pestillence duration
         -   The potency of potions
+        -   Time knocked (cut by 50% multiplicatively after other modifiers)
 
 ### Charm Caster
 
