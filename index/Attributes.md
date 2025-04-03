@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 139518
+revid: 140693
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -95,11 +95,9 @@ Body and Mind are categories for the Core Attributes. Talents, weapon requiremen
 
 ### Willpower (WLL)
 
--   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** and reduce knock time per point._[\[2\]](#cite-note-2) This Attribute falls under the Mind category.
+-   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo**._[\[2\]](#cite-note-2) This Attribute falls under the Mind category.
     -   One point in Willpower gives +3 sanity and +0.5 tempo.
         -   [Ganymede](Ganymede.md) has a 1.2x Sanity gain multiplier, meaning they gain 3.6 Sanity per point in Willpower.
-    -   One point in Willpower reduces the amount of time you are knocked for by 0.05s.
-        -   At 100 Willpower, you will be knocked for 5 seconds as opposed to 10 seconds with 0 Willpower.
 -   Unlocks Willpower-related [Talents](Talents.md) and [Mantras](Attunement-less.md#willpower-mantras).
 -   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, having an empty stomach, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using Prayer Beads.
 -   _**[Unbounded](Attributes_Unbound.md#willpower-unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_

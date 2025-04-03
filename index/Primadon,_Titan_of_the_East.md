@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 140432
+revid: 140696
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -179,7 +179,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   Primadon cannot actually grip you, unless he stomps or throws you. You can abuse this mechanic to have a friend with Primadon chasing them get downed to the rock throws and get Primadon on their downed body to be able to heal up.
     -   **WAIT FOR YOUR FRIEND TO STAND UP BECAUSE IF Primadon DOES A STOMP OR GRABS THEM, THEY WILL DIE.**
     -   In other words, get Primadon to chase your friend and attack them, letting _you_ heal, just remember to wait for them to stand up, due to the grab and stomp being auto-grip.
--   If you need to retreat from Primadon, either wait before it Disengages first before running away (be aware that it will keep throwing rocks at you quite often, which you will need to dodge.) or have a friend try and take the aggro for you, be warned, however, that Primadon's aggro priority is unlike most mobs, and it may ignore other people hitting him in favour of pursuing you while you escape, so be careful.
+-   If you need to retreat from Primadon, either wait before it Disengages first before running away (be aware that it will keep throwing rocks at you quite often, which you will need to dodge.) or have a friend try and take the aggro for you, be warned, however, that Primadon's aggro priority is unlike most mobs, and it may ignore other people hitting him in favour of pursuing you while you escape, so be careful. Alternatively, if you have very low health and have the Perseverance talent, you can let Primadon ragdoll you with a kick and fling you towards the nearest rope. You'll usually have enough time to wake up and climb the rope before it reaches you.
 
 ### General Combat
 
@@ -286,13 +286,11 @@ There are **13** images, be warned
     -   This chest has since been repurposed to house many of the rarer drops such as Relics and Legendary Weapons.
 -   Primadon's respawn time is around 3 minutes.
     -   This cooldown is account wise for the player who summoned Primadon and any who dealt damage to him.
-    
 -   In the game files, it is called "MonkyWorldBoss." and ".monky"
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since parrying deals damage according to your level, allowing you to only parry to kill it.
     -   It takes ~80 parries to kill Primadon without damaging him.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
--   It would take roughly ??-?? cannonballs alone to kill the Primadon, depending on your weapon's damage.
 -   As of 3/29/2024, Primadon was slightly tweaked to have a bluer color scheme.
     -   The purple "nose" is due to developer Arch\_Mage explaining how primates flip their lips.[\[1\]](#cite-note-1)
 -   Primadon, during Verse One, stood at a height of 25 meters (81 feet)
