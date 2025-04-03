@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Knight
-revid: 137997
+revid: 140711
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths, Eastern Luminant]
@@ -18,9 +18,11 @@ Template:Creature Infobox V3
 
 ## Description
 
-Found commonly where the drowned reside, Mudskipper Knights are the decayed remnants of those who knew basic combat, appearing in the Depths inside of Deluvian or by entering the Trial between Power 3-6, or found in the graves of the [Burning Stone Gardens](Burning_Stone_Gardens.md), they commonly prove much more skilled than standard humanoids due to their previous fighting prowess with a [Falchion](Falchion.md).
+Found commonly where the drowned reside, Mudskipper Knights are the decayed remnants of those who knew basic combat. They appear in the [Depths](First_Layer.md) within [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and during the fight in the Depths Trial at power levels 3-6.
 
-They can also be found crashing into [Meteor Isle](Meteor_Isle.md) with higher stats to compensate for the change in Luminants, with a wide variety of weapons along with the improved [Darksteel Plate](Darksteel_Plate.md) armor and basic equipment. Wiping them all out spawns a Chest.
+Outside of the Depths, they can be found in both the Etrean and Eastern Luminants. In the former, they are located in graves at the [Burning Stone Gardens](Burning_Stone_Gardens.md), while in the latter, they can be found crashing into [Meteor Isle](Meteor_Isle.md). Here, they are a slightly buffed version of the earlier ones you would have encountered, compensating for the change in [Luminants](Luminants.md).
+
+Within the Etrean Luminant and in [Scyphozia](First_Layer.md), they wield a [Falchion](Falchion.md), have no equipment, and wear relatively weak armor. In contrast, the Mudskipper Knights found on [Meteor Isle](Meteor_Isle.md) may wield a variety of weaponry and now wear [Darksteel Plate](Darksteel_Plate.md) armor alongside some basic equipment.
 
   
 

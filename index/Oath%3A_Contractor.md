@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 139811
+revid: 140706
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -65,7 +65,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 -   **Hidden Tendril - Passive (+10 Ether)**
     -   Landing any physical mantra places a Hidden Tendril on the opponent.
         -   Physical critical attacks, uppercuts, flourishes, and most attunement-less mantras will also apply a Hidden Tendril.
-        -   **All** of this Oaths abilties are unable to be used on Non-Humanoids.
+        -   **All** of this Oaths abilities are unable to be used on Non-Humanoids.
 
 -   **String Trick - Passive**
     -   Pulls together any two opponents you've attached Hidden Tendril to.

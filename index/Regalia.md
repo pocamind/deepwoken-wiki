@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 140460
+revid: 140715
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,8 +12,8 @@ categories: [Mechanics]
 
 ## Obtainment
 
--   Regalia can be randomly obtained every time you create a character.
--   There is no way to affect your chance of getting a Regalia.
+-   Regalia can be randomly obtained every time you create a character or power up.
+-   Your odds of obtaining a Regalia increase the more progressed your previous character was (no specifics on how much it boosts it).
 -   You may only have 1 Regalia per character, and your character acquiring a Regalia is not guaranteed.[\[1\]](#cite-note-archinfo-1)[\[2\]](#cite-note-2)
 
 ## List of Regalia
