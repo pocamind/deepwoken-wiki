@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 138797
+revid: 140735
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -61,8 +61,8 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 -   **Arc Suit** **★★★ - Support Mantra**
     -   _Conjure and equip your Arcwarder suit._
         -   Encases the user in durable armor for 15 seconds.
-        -   Can be modified with up to 3 Vibrant Gems to increase damage reduction up to 15%.
-        -   Can be modified with Aeon/Eternal Logstones to a maximum duration of 1 minute.
+        -   Can be modified with Aeon/Eternal Logstones to a maximum duration of 1 minute. This however also scales up its cooldown.
+        -   Can be modified with up to 3 Vibrant Gems to increase damage reduction up to 10%.
         -   Has i-Frames on the second half of its windup.
         -   Orbital Ice is less effective when used alongside the Arc Suit.
         -   Comes in Umbral, Black, Gold, Dark Gray, Light Gray and White may be changed with a Dye Packet.
@@ -92,21 +92,26 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 
 -   **Arc Wave** ★★★ - Combat Mantra
     -   Stomp the ground releasing a wave of Arc energy.
-        -   Deals moderate Oath damage.
+        -   Deals moderate Oath, Flame and Thunder damage.
         -   Can apply both Shock and Burning, or its Path alternate variants.
         -   Scales with both Flamecharm and Thundercall.
         -   Obtained alongside Guard.
+        -   10s CD.
         -   Landing this Mantra while in Arc Suit removes 50% of current posture.
+        -   Has 7.6x PVE scale.
 
 -   **Arc Beam** **★★★ - Combat Mantra**
     -   Fire plasma energy. Deals additional damage in PvE.
-        -   Deals 20 Base Oath DMG
+        -   Deals 20 base Oath, Flame, and Thunder damage.
         -   Can apply both Shock and Burning, or its Path alternate variants.
         -   Scales with both Flamecharm and Thundercall.
+        -   10s CD.
         -   Can be used in the air to shoot under yourself.
             -   You have to have downwards momentum for this to activate, wait until after the peak of your jump.
         -   Instantly grips low health players if the attack were to knock them.
-        -   Has 17x PVE scale in PvE.
+        -   Has 17x PVE scale.
+
+Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, all of Arcwarder's attacks deal Oath, Flame, and Thunder damage. This means they will be resisted by either your Flame or Thunder resistance (whichever is higher) unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Elemental resistance.
 
 ## Trivia
 
