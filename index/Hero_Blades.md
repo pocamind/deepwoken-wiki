@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 139349
+revid: 140762
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -21,7 +21,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, Diluvian mechanism. |
 | description | “A blade said to be enruned with a passage of the song, it evokes the element within." |
 
 ## Overview

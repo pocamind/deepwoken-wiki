@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 138153
+revid: 140750
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -138,7 +138,6 @@ Dodgeable:◯
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
 -   In the Winter of 1291, an event transpired that was later officially dubbed the Sharko Rumbling. This was caused by the addition of [Megalodaunt Bait](Monster_Bait.md). This was uncapped, allowing players to flood servers with tens if not hundreds of Megalodaunts, which proceeded to kill an extreme amount of players and cause heavy lag. Since then, the item has been tweaked.
 -   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.
--   Megalodaunts supposedly live in packs, which is why they have an "Alpha" (being the Alpha Megalodaunt) and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in [The Viper's Jaw](<The_Viper's_Jaw.md>), only 2 Megalodaunts are spotted living together, without an Alpha existing among them. This also explains why normal Megalodaunts are hostile towards their Crimson counterparts, but not their Alpha counterparts. According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met an unfortunate fate being devoured by one of these specimens while studying them.
--   Megalodaunts participated in the 2024 April fools event under the name of Red Daunts and won.
+-   participated in the 2024 April fools event under the name of Red Daunts and won.
 -   [Destroyman III](Destroyman_III.md) is a small, chibi Megalodaunt that can talk.
 -   According to [Mortus](Mortus.md), the flesh of a Megalodaunt is edible. That being said [Mergurger](Food.md) is said to be made out of Megalodaunt's flesh and is described to be rather foul food.

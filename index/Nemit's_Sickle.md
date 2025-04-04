@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 138640
+revid: 140756
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Items]
@@ -28,7 +28,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Ite
 
 ## Description
 
-The Nemit's Sickle is a dagger that boasts a 30% penetration against armor and an extremely high swing speed like most of the other daggers. It does less damage than few other daggers, however its high penetration and scaling make up for it.
+The Nemit's Sickle is a dagger that boasts a 30% penetration against armor and an extremely high swing speed like most of the other daggers. It does less damage than few other daggers, however its high penetration and high scaling make up for it.
 
 ## Critical
 

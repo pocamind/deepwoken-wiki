@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 137928
+revid: 140751
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -27,7 +27,7 @@ Enhanced (or Emergent) Mudskippers can do what normal Mudskippers do, but will a
 
 ### Lore
 
-The Mudskippers are a large family of species consisting of mindless enemies formed from the bodies of the decayed, or by the forceful conversion from a [Nautilodaunt](Nautilodaunt.md). Their notable feature aside from their bright unusual colours, are their empty eyes and the large mass of coral on their head that covers one of their eyes.
+The Mudskippers are a large category with lots of variations made up of mindless enemies formed from the bodies of the decayed, or by the forceful conversion from a [Nautilodaunt](Nautilodaunt.md). Their notable feature aside from their bright unusual colours, are their empty eyes and the large mass of coral on their head that covers one of their eyes. They all used to be human at some point or another, they are not their own species.
 
 They are mostly in complete lack of intellect with a [few exceptions](Mudskipper_Knight.md), leaving them only able to scratch their enemy with no sense of basic combat knowledge, making them entirely defenseless if fought back. However, they seem to still have some sense of intellect, as they will only attack you one at a time, and will tend to swap out if there are multiple.
 

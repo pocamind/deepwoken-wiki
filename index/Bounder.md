@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 138997
+revid: 140746
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -22,11 +22,11 @@ Template:Creature Info Box v2
 
 Bounders are monsters that dwell within the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md). They are infamous for their lethality, with an equally horrific appearance.
 
-Bounders have a body structure that resembles [Megalodaunts](Megalodaunt.md), featuring animalistic traits that, although similar, are present in a much more awful form. They have significantly hunched posture, elongated limbs, six ringed eyes, and notably, an upsettingly wide mouth with two sets of gigantic teeth. Unlike Megalodaunts, Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
+Bounders have significantly hunched posture, elongated limbs, six ringed eyes, disturbingly humanoid hands and notably, an upsettingly wide mouth with two sets of gigantic teeth. Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
 
 Whenever an entity enters the territory or hunting grounds of a Bounder, an echoing growl can be heard, signifying their presence (though not necessarily their aggression). By default, they will crawl around at a relatively slow pace, only ever displaying their speed and agility while hunting.
 
-Bounders are comparatively harder to kill than most other monsters in the world of Deepwoken due to their exceptional lethality and their above average health pool. While they have a relatively simple moveset, their erratic movements and devestating strikes make them difficult to pin down. They are unforgiving terrors that can finish off anyone who isn't accustomed to their behavior within seconds.
+Bounders are comparatively harder to kill than most other monsters in the world of Deepwoken due to their high damage and their above average health pool. While they have a relatively simple moveset, their erratic movements and devestating strikes make them difficult to pin down. They are unforgiving terrors that can finish off anyone who isn't accustomed to their behavior within seconds.
 
 ## Moveset
 

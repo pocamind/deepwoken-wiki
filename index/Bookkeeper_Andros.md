@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 136240
+revid: 140764
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -139,7 +139,3 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   He could be a Celtor, considering the fact that he has green eyes.

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 140406
+revid: 140758
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -188,12 +188,10 @@ Shadow
 -   With 6 songchant nonmodded shadow gun 39.94 DMG, Blast spark 79.08 (26.36\*3)
 -   Each modification makes you lose 8.33% DMG.
 -   Has 9.18x PVE scale (35.88 DMG PVP, 329.38 PVE)
+-   Guardbreaks at Lvl 5.
 -   Adding Lenses will increase the range of the blast forward
 -   Adding Cloudstones/Stratus Stones will increase the height and width of the blast
--   Its animation is identical to the Duelist's M2 from Rogue Lineage.
--   Guardbreaks at Lvl 5.
 -   Can be modified with a Blast Spark, making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and triple the Ether cost from what’s displayed (I.E. a 19% Ether cost Shadow Gun will actually cost 57% of your Ether.)
--   It has a cooldown of 12 seconds.
 
  |
 | 
@@ -1260,7 +1258,8 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   **Shade Wisp** is arguably one of the most controversial Mantras ever added to the game, as its purpose is to hide animations. The reason this was added was, according to its creator yayafino, because he hated "parry bots," though he would later clarify this was him trolling. This came shortly after the appearances of the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) were reworked by co-owner Ragoozer himself due to them hiding animations, which some came to view as a direct betrayal of the ethos of the game's very owners. Not helping this was that, according to tester MrTheBest2, almost every tester was staunchly against **Shade Wisp**'s inclusion; it didn't even get past testing, but it was added to the game.
 -   Shadowcast has many moves that seem to be direct references to abilities in _Rogue Lineage_ and _Tales from the Valley_, and the element seems to have much more general utility than the others.
     
-    -   An interesting example of this would be using a Blast Spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from _Bleach_).
+    -   An interesting example of this would be using a Blast Spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash from _Rogue Lineage_ (and by extension, Cero Metralleta from _Bleach_).
+    -   Base **Shadow Gun**'s animation is identical to the Duelist's M2 from _Rogue Lineage_.
 -   Similarly to every other ritual cast Mantra, **Shade Wisp** gives the player a finger on the hand that casts the Mantra.
 -   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart Oath](Oath%253A_Silentheart.md), but only to upgrade Shadowcast Mantras without going to Scyphozia.
 -   Shadowcast appears to be the attunement associated with the [Ministry](The_Ministry.md), although NPCs not associated can be seen using it.
