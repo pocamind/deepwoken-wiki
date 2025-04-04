@@ -1,6 +1,6 @@
 ---
 title: Bastions of Enmity
-revid: 140713
+revid: 140727
 source: https://deepwoken.fandom.com/wiki/Bastions_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Equipment, Items]
@@ -33,3 +33,4 @@ The **Bastions of Enmity** is a Unique [Equipment](Equipment.md) item under the 
 -   It is a part of the Enmity set consisting of the **Bastions of Enmity** arms, the [Wartreads of Enmity](Wartreads_of_Enmity.md) boots, the [Aegis of Enmity](Aegis_of_Enmity.md) helmet, the [Fauld of Enmity](Fauld_of_Enmity.md) and [Mantle of Enmity](Mantle_of_Enmity.md) torsos, and the [Thrall of Enmity](Thrall_of_Enmity.md) face.
 -   This equipment was secretly nerfed shortly after release. It previously granted the wearer 17 innate health.
 -   Has the same pips as the [Diver's Light Plate](<Diver's_Light_Plate.md>) and [Grand Fisher Plate](Grand_Fisher_Plate.md) with 1 extra innate Posture, making this the best arms equipment in the game.
+    -   Despite having the same pips as [Grand Fisher Plate](Grand_Fisher_Plate.md), this equipment is seemingly limited to 1 physical % pip. Untested whether this applies to other pips such as elemental %.

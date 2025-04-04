@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 140718
+revid: 140726
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,11 +11,11 @@ This Page is in dev, It will take a while to add everything: if you see '(Templa
 
 # Location loot tables
 
-Location are places where POI text appears on screen when you arrive.
+Location are places where Point-of-interest text appears on screen when you arrive.
 
 ## [Lower Erisia](Lower_Erisia.md) & [Upper Erisia](Upper_Erisia.md) Loot Tables
 
-_Erisa is one of the first location most people visit, divided into two parts, lower & upper, they share a loot table_
+_Erisia is one of the first location most people visit, divided into two parts, lower & upper, they share a loot table_
 
 <table>
 <tbody>
@@ -576,9 +576,7 @@ any drops locked to a enemy kill can be found here
 ## Template Loot Table
 
 this loot table is a template for later use (ignore, don't delete).  
-Copy and Paste for a starter Table easily.
-
-**ignore this table**
+Copy and Paste for a starter Table easily. **ignore this table**
 
 <table>
 <tbody>

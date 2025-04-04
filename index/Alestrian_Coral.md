@@ -1,6 +1,6 @@
 ---
 title: Alestrian Coral
-revid: 140269
+revid: 140728
 source: https://deepwoken.fandom.com/wiki/Alestrian_Coral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy]
@@ -24,5 +24,5 @@ Alestrian Coral is an [Ingredient](Ingredients.md) found in the [First Layer](Fi
 
 ## Trivia
 
--   Alestrian Coral is basically a useless material, unless you are specifically looking to create speed potions.
+-   Was once only useful for creating speed potions, but is now also used to create [Varicosan Finery](Varicosan_Finery.md).
 -   The shape of the coral resembles trees in [The Depths](The_Depths.md).

@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 139809
+revid: 140723
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,24 +32,24 @@ Once used, the user extends their right arm (and left arm if Divine Flintlock), 
 
 Pressing C will activate the **Crazy Slots** Resonance and its unique special skill.
 
-**Crazy Slots** calls forth a randomly chosen weapon each time it is used, with [Enchantments](Enchantments.md) and curses being transferred onto the summoned weapon. Each weapon scales with its respective stat and has a unique skill that can be used by re-activating the ability.
+**Crazy Slots** calls forth a randomly chosen weapon each time it is used, with [Enchantments](Enchantments.md) and stars being copied from your main weapon onto the summoned weapon. Each weapon scales with its respective stat and has a unique skill that can be used by re-activating the ability.
 
-If Crazy Slot is corrupted, its cooldown is halved, it becomes much more likely to obtain a Divine Weapon of your highest stat investment and the Divine Weapons will be colored in purple instead of gold.
+If Crazy Slots is corrupted, its cooldown is halved, rolls are further weighted towards your highest stat investment and the durations of the summons are increased. Additionally, your Divine Weapons will be colored purple instead of gold.
 
 ### _Resonance Point usage_
 
-When obtained, Crazy Slots will spend its points on the following stats.
+When obtained, Crazy Slots will spend its points on the following stats:
 
--   **Weapon roll Weight + Length:** The more points are spent on a weapon, the more likely it is to be obtained when using the resonance, along with its length.
--   The length of time rolled into a weapon can be betwen 30 seconds to 2 minutes 30 seconds with differences of 15 seconds between varients such as rolling 1 minute on spear and 45 seconds on your dagger (unsure about corrupted max cap of time, max time tested: 2 minutes and 45 seconds) (after testing the amount of time rolled into all your weapons collectively can be difrent for each person suggesting that roll weight is 100 precent a seperate stat from time length)
+-   **Weapon Weight:** Increases the likelihood of an individual Divine weapon being summoned relative to its counterparts.
+-   **Time:** Increases the time for which an individual Divine weapon lasts before dematerializing.
+    -   Varies between 30 seconds to 150 seconds, in 15-second intervals (30s, 45s, 60s, 75s, etc.).
+    -   Corrupted rolls may have a higher maximum durations (requires more testing)
 
-When spending its points, Crazy Slots will favor spending them toward weapons in which you have the highest weapon attribute stat.
+Crazy Slots will favor its point distribution towards weapons aligned with your highest WEP attribute.
 
 ## Weapons
 
-These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
-
-Stat wise, compared to other endgame weapons, Divine Weapons have higher base damage (+2-5), which helps alleviate the potential loss of damage from weapons who aren't part of your main weapon training.
+These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notably, they have very high base stats, which helps to alleviate the potential loss of damage from using weapons outside of your main attribute. This also enables them to be viable even for builds which have no weapon investment (e.g. [Hero Blades](Hero_Blades.md)).
 
 ### _Normal_
 
@@ -144,22 +144,17 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 
 ## Trivia/Notes
 
+-   The exceptionally high base damage for each weapon makes them especially powerful in PvE; it is a tried-and-true choice for M1 builds.
 -   Some of the Divine Weapons are references to weapons in other media:
     -   The Divine Longsword resembles the _[Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto)_ from the [_Fate_](https://typemoon.fandom.com/wiki/Fate_series) series.
     -   The Divine Spear resembles the _[Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear)_ from _[Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)_.
     -   The Divine Greatsword bear some resembles to both the _[Clarent](https://typemoon.fandom.com/wiki/Clarent)_ and the _[Arondight](https://typemoon.fandom.com/wiki/Arondight)_ from the _Fate_ series.
     -   The Divine Greataxe seems to be derived from the weapon used by [_Lestin Serra Alma_](https://shining.fandom.com/wiki/Lestin_Serra_Alma) from [_Shining Resonance Refrain_](https://en.wikipedia.org/wiki/Shining_Resonance_Refrain).
-    -   The Divine Dagger resembles one of Victor Swords from [Immortals: Fenyx Rising](https://store.steampowered.com/app/2221920/Immortals_Fenyx_Rising/).
--   This resonance is inspired by a character from _[Hunter x Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter)_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
-    -   This resonance also may be inspired by "_Shardblades"_ in _[The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_, as the wielders of said divine weapons can make them appear by holding out their arm, and when summoned they produce white mist.
--   Corrupted Crazy Slots increases the duration of the Divine Weapons.
--   Even without decent weapon proficiency (i.e the user is a Hero Blade user), Crazy Slots weapons can still be used for their powerful abilities. They also possess fairly high base stats to begin with.
--   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons.
--   If your weapon has stars, their effects will also apply to your Crazy Slots weapons.
--   While Crazy Slots' roll chances are affected by your weapon stat, it is also possible that one of the two weapons for that stat may be more common depending on where the points were spent. This is just speculation, however.
--   It is possible that "time" may be a stat in which points can be allocated when rolling Crazy Slots, as your weapon will only last a certain amount of time before disappearing on its own.
--   Along with the [Iron Requiem](Iron_Requiem.md) and [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only three flintlocks in the game to play a unique sound effect on M1/crit.
--   The Divine weapons can actually be wielded without the resonance, though whether there is a reason for this or not is unexplained.
+    -   The Divine Dagger resembles one of Victor Swords from [_Immortals: Fenyx Rising_](https://store.steampowered.com/app/2221920/Immortals_Fenyx_Rising/).
+-   This Resonance is inspired by a character from _[Hunter x Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter)_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
+-   This Resonance may also be inspired by the "_Shardblades"_ from _[The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_, which are powerful summonable weapons that produce white mist when materialized.
+-   The Divine Flintlock is one of the only three pistols in the game to play a unique sound on M1/crit, alongside the [Iron Requiem](Iron_Requiem.md) and [Rosen's Roscoe](<Rosen's_Roscoe.md>).
+-   The Divine weapons can actually be wielded without the Resonance, though whether or not there is a reason for this has yet to be explained.
     -   The Golden Warriors found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Divine Greataxes.
-    -   The [Greater Angels](https://deepwoken.fandom.com/wiki/Angels?so=search#Greater) found in the [Trial of One](Trial_of_One.md) both wield Divine Spears.
-    -   The [Immortal Guardians](Immortal_Guardian.md), and by extension their Nightmare counterpart, in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can wield either a Divine Greatsword or Divine Greataxe.
+    -   The [Greater Angels](Sworn_Angel.md) found in the [Trial of One](Trial_of_One.md) both wield Divine Spears.
+    -   The [Immortal Guardians](Immortal_Guardian.md), and by extension their Nightmare counterparts, in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can wield either a Divine Greatsword or Divine Greataxe.
