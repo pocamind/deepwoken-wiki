@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 140390
+revid: 140744
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -758,7 +758,7 @@ Fire
  |
 | 
 
-**Effect:** User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. "This'll be over by snack time."
+**Effect:** User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. "This'll be over by snack time." - Some Etrean Who claims to see the future
 
 -   Deals 45 dmg total 44.74 (14+14+16.74) DMG at level 5, Reversal Spark 30.74 (14+16.74) at 5 lvl, 18 posture per sweep, 18s CD.
 -   With 6 songchant (14+14+18.64), and reversal spark 32.64 (14+18.64)

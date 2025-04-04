@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 140578
+revid: 140736
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -312,7 +312,7 @@ These quests give EXP, chests and/or reputation as rewards and are repeatable.
 
 **Golden Rats:**
 
-**Quest Location**: [Rat's Den](<Rat's_Den.md>)([Burning Stone Gardens](Burning_Stone_Gardens.md)) **Guide**: Kill [Golden Rats](Golden_Warrior.md) inside the Rat's Den to get Gold Plates. Turn them into the chest in Golden Rat Guard standing outside.
+**Quest Location**: [Rat's Den](<Rat's_Den.md>)([Burning Stone Gardens](Burning_Stone_Gardens.md)) **Guide**: Kill [Golden Rats](Golden_Warrior.md) inside the Rat's Den to get Gold Plates. Turn them into the Golden Rat Guard standing outside for a chest.
 
 **Reward/s**: Chest
 
