@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Shadow"
-revid: 138626
+revid: 140793
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items]
@@ -26,7 +26,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 
 The Hero Blade of Shadow is an elemental weapon and the [Shadowcast](Shadowcast.md) variation of the [Hero Blades](Hero_Blades.md).
 
-Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades. At max ELE, the damage is (28.3) for all the Hero Blades.
+Meeting the ELM requirement, the damage is (26.2) for all the Hero Blades. At max ELM, the damage is (28.3) for all the Hero Blades.
 
 ## Critical
 
