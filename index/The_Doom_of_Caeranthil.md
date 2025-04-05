@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 140125
+revid: 140784
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Doom of Caeranthil is a [World Event](World_Events.md) [Boss](Bosses.md) that spawns in the Open Sea of the [Etrean Luminant](Luminants.md) every odd hour of the day.
+The Doom of Caeranthil is a [World Event](World_Events.md) [Boss](Bosses.md) that spawns in the Open Sea of the [Etrean Luminant](Luminants.md) every odd hour of the day (For UTC/GMT).
 
 The Doom (also referred to as World Serpent) is a colossal sea serpent monster that has ravaged and destroyed islands, having earned its name when it destroyed the island of [Caeranthil](Caeranthil.md) in the [Southern Luminant](Luminants.md).
 

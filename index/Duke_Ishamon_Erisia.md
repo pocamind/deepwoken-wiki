@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 140442
+revid: 140786
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -345,7 +345,7 @@ Exhaustive Loot Table
   </td>
 </tr>
 <tr>
-  <td colspan="4">The Lord Biden sent me to retrieve the Forge.</td>
+  <td colspan="4">The Lord Regent sent me to retrieve the Forge.</td>
   <td colspan="4">What are you doing with the forge?</td>
   <td colspan="4"><b><a href="Oath%253A_Contractor.md">Contractor</a></b><br>
   Let's skip the pleasantries, you know why I'm here.</td>
@@ -354,14 +354,14 @@ Exhaustive Loot Table
   <td colspan="4">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Biden must see me as a mere agent's workload.<br>
   </td>
   <td colspan="4"><i>*He narrows his eyes, deathly cold.*</i> Everything I can do to stop the oncoming catastrophe, you <i>indolent worm</i>. With it, I turn <i>useless fools</i> like you into something of use... <i>You don't know what I do for mankind.</i></td>
-  <td colspan="4">You're right, there's no reasoning with a monster like you. For America's salvation, I will be the one to slay you.</td>
+  <td colspan="4">You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.</td>
 </tr>
 <tr>
   <td colspan="4">That 'thing'? Agent?</td>
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*Donald eyes you up and down for a moment before bursting into a roaring laughter.*</i><br>
+  <td colspan="4"><i>*Duke eyes you up and down for a moment before bursting into a roaring laughter.*</i><br>
   </td>
 </tr>
 <tr>
@@ -373,17 +373,17 @@ Exhaustive Loot Table
   <td><a href="Origins.md"><b>Voidwalker</b></a></td>
 </tr>
 <tr>
-  <td><i>*Donald smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...<br>
+  <td><i>*Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...<br>
   </td>
-  <td><i>*Donald smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...<br>
+  <td><i>*Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...<br>
   </td>
-  <td><i>*Donald smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...</td>
+  <td><i>*Duke smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...</td>
 </tr>
 <tr>
   <td colspan="3">What are you talking about?</td>
 </tr>
 <tr>
-  <td colspan="3">There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen The White House's layout roam free.<br>
+  <td colspan="3">There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen The Manor's layout roam free.<br>
   </td>
 </tr>
 <tr>

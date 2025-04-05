@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 140764
+revid: 140783
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -139,3 +139,7 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Prior to the 31st of March 2025 update, Andros' aspect was unknown. It was theorised to be Celtor, but it was unconfirmed. After the update, he can be assumed with almost 100% accuracy to be a Celtor, as his skin color and eye color matches with a Celtor variant.
