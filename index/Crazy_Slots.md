@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 140723
+revid: 140791
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -145,10 +145,10 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
 ## Trivia/Notes
 
 -   The exceptionally high base damage for each weapon makes them especially powerful in PvE; it is a tried-and-true choice for M1 builds.
--   Some of the Divine Weapons are references to weapons in other media:
+-   The designs of the Divine weapons were inspired by weapons from other media:
     -   The Divine Longsword resembles the _[Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto)_ from the [_Fate_](https://typemoon.fandom.com/wiki/Fate_series) series.
     -   The Divine Spear resembles the _[Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear)_ from _[Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)_.
-    -   The Divine Greatsword bear some resembles to both the _[Clarent](https://typemoon.fandom.com/wiki/Clarent)_ and the _[Arondight](https://typemoon.fandom.com/wiki/Arondight)_ from the _Fate_ series.
+    -   The Divine Greatsword resembles both the _[Clarent](https://typemoon.fandom.com/wiki/Clarent)_ and the _[Arondight](https://typemoon.fandom.com/wiki/Arondight)_ from the _Fate_ series.
     -   The Divine Greataxe seems to be derived from the weapon used by [_Lestin Serra Alma_](https://shining.fandom.com/wiki/Lestin_Serra_Alma) from [_Shining Resonance Refrain_](https://en.wikipedia.org/wiki/Shining_Resonance_Refrain).
     -   The Divine Dagger resembles one of Victor Swords from [_Immortals: Fenyx Rising_](https://store.steampowered.com/app/2221920/Immortals_Fenyx_Rising/).
 -   This Resonance is inspired by a character from _[Hunter x Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter)_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
