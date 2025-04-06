@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 140786
+revid: 140801
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -433,8 +433,8 @@ Exhaustive Loot Table
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
 -   Duke Ishamon Erisia will always laugh when his counter is activated, even if the attack is from a mob such as a prime golem.
--   Before the [Stoneheart](Stoneheart.md)'s description referred to him as John, his first name remained unknown, leading to it becoming a meme in the community.
-    -   Upon being asked, Arch\_Mage said his name was "Duke Ishamon Erisia Juan Duke Erisia."
+-   Before the [Stoneheart](Stoneheart.md)'s description referred to him as Ishamon, his first name remained unknown, leading to it becoming a meme in the community.
+    -   Upon being asked, Arch\_Mage said his name was "Duke Ishamon Erisia Duke Erisia."
     -   Naktigonis said it was "Duke Ishamon Erisia Duke Ishamon Erisia Duke Erisia (Duke Erisia)."
 -   As of 6/10/2024, this is possibly the most commonly trolled page in the Deepwoken Wiki.
 -   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his hillbilly capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.

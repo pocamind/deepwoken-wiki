@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 139021
+revid: 140800
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -43,8 +43,9 @@ For 1 Knowledge, you can trade 1 of your [Trait](../Traits.md) Points into anoth
     -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath Talents themselves have no stat requirement attached to them.
     -   When this was brought to the attention of Arch\_Mage, one of the main developers, he said "3 points aint the end of the world."
 -   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
--   If you no longer meet the requirements for a mantra after using Shrine of Mastery, you will keep it equipped with **no** penalties.
--   This shrine does not count for the "Bargained with Deep Shrines" echo. \* If you no longer meet the requeriments for a outfit with stat requisites, you will keep the outfit with no penalties
+-   If you no longer meet the requirements for a mantra or your mantra's levels after using Shrine of Mastery, you will keep it equipped with its previous level intact with **no** penalties.
+-   This shrine does not count for the "Bargained with Deep Shrines" echo.
+-   If you no longer meet the requirements for a outfit with stat requisites, you will keep the outfit with no penalties.
 
 ## Navigation
 

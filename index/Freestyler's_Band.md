@@ -1,6 +1,6 @@
 ---
 title: "Freestyler's Band"
-revid: 135144
+revid: 140803
 source: https://deepwoken.fandom.com/wiki/Freestyler's_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -25,4 +25,4 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Freestyler's Band** is a Ring [Equipment](Equipment.md) piece that gives the user a massive increase in swimming speed while out of combat.
+Freestyler's Band is a Ring [Equipment](Equipment.md) piece that gives the user a _**MASSIVE**_ increase in swimming speed while out of combat.
