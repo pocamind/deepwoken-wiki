@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 140785
+revid: 140808
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -175,7 +175,7 @@ Dodgeable:◯
  |
 | 
 
-**Player cutting slash**
+**Hawk Tuah Counter**
 
 **(★★★★★)**
 
