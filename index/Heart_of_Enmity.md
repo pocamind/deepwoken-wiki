@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 140708
+revid: 140815
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -80,6 +80,18 @@ Condemnation's Fall
 Parryable:✗  
 Blockable:◯  
 Dodgeable:◯
+
+ |
+| 
+
+Charged Pull  
+★
+
+ | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage. During this charge up, Enmity is free to be hit.
+
+Parryable:✗  
+Blockable:✗  
+Dodgeable:✗
 
  |
 

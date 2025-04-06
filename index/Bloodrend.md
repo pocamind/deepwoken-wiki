@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 140493
+revid: 140816
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -239,7 +239,7 @@ Blood
  |
 | 
 
-**Effect:** _Quickly conjure up a scythe of blood before rushing forward, hitting any target(s) in its way._
+**Effect:** _Quickly conjure up a scythe similar to that of a [Skyreap Blade](Skyreap_Blade.md) with Curse of Bloodthirsty enchantment and rushing forward, hitting any target(s) in its way._
 
 -   Deals 38.27 (42.6 with 6 songchant) DMG, 15 posture, has 10s CD at 5 lvl
 -   Has 9.18x PVE scale (38.27 PVP, 351.34 PVE DMG)

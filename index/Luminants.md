@@ -1,9 +1,9 @@
 ---
 title: Luminants
-revid: 96381
+revid: 140818
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Map, Mantras, Locations, Lore]
+categories: [Pages with broken file links, Map, Mantras, Locations, Lore]
 ---
 
 # Luminants
@@ -35,3 +35,9 @@ The Southern Luminant, what used to be a Luminant brimmed with temperate forest 
 ## Northern Luminant
 
 The Northern Luminant holds the frigid landscape of the Glacial Coast, commented on by [Polis](Polis.md) in Etris. It is home to the Elder Edenkite, and the [Drakkard](Drakkard.md). The description of the [Winter Corps](Winter_Corps_Boots.md) armor mentions a species of thorny plant named "Drakethistle" existing in this Luminant, possibly making it out to be a frozen landscape with vegetation somehow spread throughout it.
+
+## Gallery
+
+File:Southern Luminant.png
+
+The Southern Luminant
