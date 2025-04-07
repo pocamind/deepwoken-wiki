@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 140118
+revid: 140835
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -5963,6 +5963,7 @@ Found from:
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  |
 |  | 

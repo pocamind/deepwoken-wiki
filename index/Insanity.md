@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 139394
+revid: 140833
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -17,7 +17,7 @@ categories: [Mechanics]
 
 Insanity is dictated by a meter that is not directly shown to the player, but its progress can be tracked by a blue hue on the border of the screen. Once your sanity has decreased enough, it will begin to debilitate your character in increasingly harsher ways the more insane you become.
 
-Players start with base 80 sanity. Being in The Depths passively takes sanity at a rate of 1 point every 30 seconds, meaning you can spend about 40 minutes in The Depths with 0 Willpower and no equipment bonuses before you reach maximum insanity.
+Players start with 80 base sanity. Being in The Depths passively takes sanity at a rate of 1 point every 30 seconds, meaning you can spend about 40 minutes in The Depths with 0 Willpower and no equipment bonuses before you reach maximum insanity and proceed to inevitably die
 
 Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md), by taking Talent cards from the Mental Fortress deck, wearing a blindfold, or wearing equipment with a sanity bonus.
 

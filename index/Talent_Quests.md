@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 140462
+revid: 140832
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -100,4 +100,5 @@ Pleetsky's Will is obtained via talking to [Ploom](Ploom.md) in Lance's Food, [E
 
 **Mercy Kill:** When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
 
-Mercy Kill is obtained whenever the player [unbounds](Attributes_Unbound.md) their [attunement](Attunements.md) or weapon mastery. It is very useful against large swaths of 1-hitable enemies.
+Mercy Kill is obtained whenever the player [unbounds](Attributes_Unbound.md) their [attunement](Attunements.md) or weapon mastery. It is very useful against large swaths of 1-hitable enemies.  
+Mercy Kill can also be obtained by unbounding the Agility attribute or defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).

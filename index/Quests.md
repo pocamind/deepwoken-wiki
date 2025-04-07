@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 140736
+revid: 140831
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -170,7 +170,7 @@ Valikor
 
 **Quest Location**: N/A
 
-**Guide**: Unbound your weapon (or attunement) mastery through either completing the lost brother quest or Defeating any of [Bosses](Bosses.md).
+**Guide**: [Unbound](Attributes_Unbound.md) your Weapon, Attunement, or Agility attribute. Alternatively, defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) will also grant Mercy Kill regardless of your stats.
 
 **Reward/s**: Mercy Kill
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 140743
+revid: 140834
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3166,7 +3166,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 20 Strength, 5 Agility
 
 -   Mercy Kill \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-    -   Prerequisite: [Unbounding](Attributes_Unbound.md) either weapons (HVY, MED or LHT), your attunement, or a physical stat (STR, FTD or AGL) for the first time ever.
+    -   Prerequisite: [Unbounding](Attributes_Unbound.md) either weapons (HVY, MED or LHT), your attunement, or the Agility stat for the first time ever.
+        -   Mercy Kill is also obtained when killing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) regardless of your stats.
 
 -   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
     -   Prerequisite: 40 Strength
@@ -3376,7 +3377,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 ### Harvester
 
 -   Talk to [Ciea](Ciea.md) which is located inside of the hive widow cave entrance. They will ask you to make 3 potions.
-    -   See [Alchemy](Alchemy.md) for potion recipes that won't do absolutely nothing.
+    -   See [Alchemy](Alchemy.md) for potion recipes.
 -   The closest cauldron is located at the Light Keepers Temple, if you do not have the Summon Cauldron mantra. Most ingredients can be found at Fort Merit.
 
 ### Excavator
