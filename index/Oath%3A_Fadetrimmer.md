@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 140855
+revid: 140858
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,11 +32,10 @@ Fadetrimmer is a enigmatic oath taken by all barbers in order to morph the physi
 Meet the following requirements and talk to a barber about Hair Cutting:
 
 -   Power 12+
-
 -   Change your hair 12 times at any [Barber](Barber.md) _(the hairs do not have to be unique, restoring to your natural hair 12 times will work also)._
     -   You need to accept the hair change and end dialogue for the haircut to count.
     -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
--   Talk to the barber and pick the option "How is it you're able to do all this stuff?" continue the dialogue, asking to take the Oath.
+-   Talk to the barber and pick the option "How is it you're able to do all this stuff?". Continue the dialogue, asking to take the Oath.
 
 For a more in-depth walkthrough, consider watching [this video](https://youtu.be/JwPKrcDB-xE).
 
@@ -82,7 +81,7 @@ This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
 
 -   The Fadetrimmer Oath was mentioned by the Barbers ever since they were added to the game, on August 22, 2022. The Oath was added to the game on the July 24, 2023, almost a year later.
 -   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment. Like a lot of things he says, this didn't age well.
--   Fadetrimmer's haircuts will stay on the opponent for ten minutes, or when you leave the server.
+-   Fadetrimmer's haircuts will stay on the opponent for ten minutes, or when you leave the server. They can also go to a [Barber](Barber.md) and say _"Help me, barber. A most wretched cut has befallen me."_ to undo the haircut.
     -   It also bears similarities to a few [Attunement-less](Attunement-less.md) moves. For example, Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash, and Precision Cuts is very similar to Exhaustion Strike, but with more hits.
 -   The description of this Oath is a reference to the "Ginger Fringe Incident" meme.
 -   The hitbox on the Hair Products _is_ the spray visual effect, and due to this, it is nearly impossible to land in combat without setup.
@@ -95,6 +94,5 @@ This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
 -   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build, especially since the cooldown is very low and you can heal more than one ally at the same time with it. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
     -   Revitalizing Hair Product if used incorrectly in PvE can be actively detrimental to your team, as it's possible to heal mobs like bosses with it.
 -   The color of the scissors' blades on your hips can be changed with a [Dye Packet](Dye_Packet.md).
--   Breaking this Oath by talking to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) makes your scissors say: "Whatever man."
 -   Although seen as a joke Oath, it has a few uses in PVE (Ex: Using Flammable Spray as a placeholder for [Flamecharm](Flamecharm.md)'s burn effects and the Mercy Kill Talent).
 -   Precision Cuts is likely a reference to Gwen's Q ability from League of Legends.

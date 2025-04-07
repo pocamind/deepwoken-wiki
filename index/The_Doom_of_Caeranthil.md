@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 140784
+revid: 140861
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -18,13 +18,13 @@ Template:Creature Infobox V3
 
 The Doom of Caeranthil is a [World Event](World_Events.md) [Boss](Bosses.md) that spawns in the Open Sea of the [Etrean Luminant](Luminants.md) every odd hour of the day (For UTC/GMT).
 
-The Doom (also referred to as World Serpent) is a colossal sea serpent monster that has ravaged and destroyed islands, having earned its name when it destroyed the island of [Caeranthil](Caeranthil.md) in the [Southern Luminant](Luminants.md).
+The Doom (also referred to as the World Serpent) is a colossal sea serpent monster that has ravaged and destroyed islands, having earned its name when it destroyed the island of [Caeranthil](Caeranthil.md) in the [Southern Luminant](Luminants.md).
 
 The Doom will swim across the seas of the [Etrean Luminant](Luminants.md) in a specific pattern: it will begin near the Sea Highway gate to the south of [Erisia](Erisia.md), go to the east of erisia, go to [Etris Docks](Etris_Docks.md), go to Erisia's entrance and finally, [Vigil Docks](Isle_of_Vigils.md).
 
 Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted to those with no Murmur, a chest with loot will also spawn at the player's location, and the player will be granted a large amount of [Etrea](Etrea.md) reputation.
 
-It can be damaged by cannons, however the damage is very little even at Power 20.
+It can be damaged by cannons, if you do not want to attack him in close combat.
 
 Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md) progression and [Attribute](Attributes.md) XP upon defeat.
 
@@ -37,7 +37,7 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 
  | The Doom dives in the water, taking a couple of seconds before submerging into the water.
 
--   He will use either Sudden Ambush or Pressure Eruption after this move
+-   He will use either Sudden Ambush or Pressure Eruption after this move.
 
  | 
 
@@ -132,6 +132,7 @@ Dodgeable:✗
 -   When doing this with other players, it might be helpful to keep a couple of boats manned so you can hop on and chase it or get some speed to avoid its Sudden Ambush or Pressure Eruptions. Take turns piloting the boat if need be. If you do not have an Ironclad, immediately turn to the wind direction and/or angle your sails to match the wind. **However** **this will cause the Caeranthil to use it's Dive move often**, use this strategy only if other players are already doing so.
 -   Have some mobility mantras on hand, and max their range with modifiers if you can afford the ether cost. [Ice skates](Frostdraw.md) is an excellent mantra to have for this fight, being able to save losing hunger from swimming for extended periods of time. Keep in mind that sometimes [Jet Kick](Oath%253A_Jetstriker.md) might not work, and you'll likely hit the Caeranthil's hitbox instead of moving forward.
 -   Sudden Ambush and Luminant Beam are one-shot moves. Keep a close eye for when it dives and do everything to avoid the ambush. The [Payback](Payback.md) resonance can tank the Sudden ambush move, but it’s unable to hit the serpent with it. Although the [Tidekeeper](Celtorian_Tideknight.md) can't, Mythic stability can save you from the one-shot moves.
+    -   While you _can_ parry Sudden Ambush, you would need Force Your Way from [Ignition Deepdelver](Ignition_Deepdelver.md) (or alternatively, Diver's Resilience from [Grand Fisher Plate](Grand_Fisher_Plate.md)) or [Ignition Gauntlets](Ignition_Gauntlets.md), as well as the parry timing being very strict. Piloting the boat away from Sudden Ambush is an easier way to avoid the attack.
 -   The best duo of talents that can save you when you fighting The Doom of Caeranthil is Mythic Stability paired with Scuba Drowner. You can tank the instant kill/grip moves and Scuba Drowner will keep you from dying after Mythic Stability procs while you're knocked in water. But be careful, as both Mythic Stability and Scuba Drowner have a 1 minute cooldown.
 
 ## Loot Table/Rewards
@@ -213,7 +214,7 @@ Exhaustive Loot Table
 ## Trivia
 
 -   When it was first teased, it was known to the devs and community as the "World Serpent."
--   Given its drops, design and Murmur: Ardour orb, it can be reasonably assumed that this creature is somehow related to the Dread Serpent. possibly a stronger variant or mutation.
+-   Given its drops, design and the Murmur: Ardour orb, it can be reasonably assumed that this creature is somehow related to the Dread Serpent. possibly a stronger variant or mutation.
 -   The player must defeat this boss when it isn't firing it's Luminant Beam at Etris Docks to obtain the fist style "[Fang and Coil](Fang_and_Coil.md)" from [Vesque](Vesque.md).
 -   It is internally referred to as ".kaijuu".
 
