@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 138612
+revid: 140827
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -41,6 +41,8 @@ The effects of this Oath happen as a result of drinking the **Root Panacea**, an
 -   Upon obtaining the Oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/8atBg8DFbpU)._
+
+You can obtain/"skip" the salts and mantra obtaiment instantly with 10 knowledge (Not reccomended since the materials are easy to get)
 
 Saltchemist **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 

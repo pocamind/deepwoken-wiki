@@ -1,9 +1,9 @@
 ---
 title: Etris
-revid: 138646
+revid: 140822
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
+categories: [Locations, Etrean Luminant, Etrea]
 ---
 
 # Etris
@@ -15,8 +15,6 @@ TERRITORY OF Etrea
 Highest amongst the peaks of the mountains, a proud fortress of a city stands against the world itself.
 
   
-
-File:Etrisshadered.png
 
 ## Overview
 

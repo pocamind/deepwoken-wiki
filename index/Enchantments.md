@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 140694
+revid: 140820
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -432,7 +432,7 @@ Allure
 
 On proc, apply Charm on the enemy for 10s (5s against the Talent "Disbelief"). All charm related Talent that the user have are applied except for Lasting Charisma.
 
-Nearly guaranteed chance to proc (90%) **DOESNT WORK ON MOBS, ONLY HUMANOIDS NPCS**
+50% chance to proc **DOESNT WORK ON MOBS, ONLY HUMANOIDS NPCS**
 
  | 
 
