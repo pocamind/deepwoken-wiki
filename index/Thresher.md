@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 137958
+revid: 140847
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -91,6 +91,7 @@ The Thresher picks up the target with its mouth and violently shakes its head be
 -   When you see it Burrow, it is going to pop up to hit you after 2 red flashes. To avoid this, dodge right as you see the second flash. If you are standing still, rolling when you see the first flash may be more reliable.
 -   Although inconsistent and difficult to pull off, you can space yourself with a spear or gun and kite it from outside of its attack range.
 -   If you get hit with the tail swipe attack, feint to do a backflip and get back up. This will allow you to parry it's next attack instead of laying on the ground.
+-   Due to it's animations being very janky, it is sometimes recommended for players to zoom into first person to react to attacks such as the bites, being hard to see.
 
 ## Trivia
 

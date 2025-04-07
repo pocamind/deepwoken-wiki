@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 138157
+revid: 140843
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, The Ignition Union]
@@ -83,7 +83,7 @@ The Chests are in the following Locations:
 
 -   Speak to Orion, a Celtorian Ignition Union Member. Located in the next room behind the waterwheel, or next to [Delta](Oath%253A_Arcwarder.md).
 -   Orion offers you to help handle the conflict (Getting rid of a few [Summer goons](Summer_Goon.md)) in the upper level's reactor room; next to (but not inside) the [Saramaed Summit](Saramaed_Summit.md) Voidzone.
--   Neutralize the conflict, and return to Orion for the reward; which is both Ignition Union Reputation and an alternative access to Saramaed Summit (Iron Door connecting between the Voidzone to outside).
+-   Neutralize the conflict, and return to Orion for the reward; which is both Ignition Union Reputation, unlocking Ignition Union origin and an alternative access to Saramaed Summit (Iron Door connecting between the Voidzone to outside).
 -   Note: this quest is repeatable.
 
 #### Alpha's Quest

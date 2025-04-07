@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 139361
+revid: 140855
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -34,6 +34,7 @@ Meet the following requirements and talk to a barber about Hair Cutting:
 -   Power 12+
 
 -   Change your hair 12 times at any [Barber](Barber.md) _(the hairs do not have to be unique, restoring to your natural hair 12 times will work also)._
+    -   You need to accept the hair change and end dialogue for the haircut to count.
     -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
 -   Talk to the barber and pick the option "How is it you're able to do all this stuff?" continue the dialogue, asking to take the Oath.
 
@@ -49,7 +50,7 @@ This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
 
 -   **Precision Cuts ★★★ - Combat Mantra**
     -   _Snip forward 3 times with your scissors!_
-    -   Deals 60 Oath DMG with 0 songchant.
+    -   Deals 60 Oath DMG with 0 songchant (20 per hit).
     -   Deals 67.86 Oath DMG with 6 songchant (22.62 per hit)
 
 -   **Close Shave** **★★★ - Combat Mantra**
@@ -68,26 +69,32 @@ This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
 -   **Hair Products - Passive**
     -   _What's in these things?_
     -   Shows a popup menu that allows you to select either Flammable, Charming, or Revitalizing.
-        -   Flammable ignites the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent).
-        -   Charming Charms the opponent for 15 seconds. The Charm is duration unaffected by [Lasting Charisma](Talents.md#charm-caster).
-        -   Revitalizing heals a flat 10% HP of the target.
+        -   Flammable ignites the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent). 10s cd.
+        -   Charming Charms the opponent for 15 seconds. 10s cd. The Charm is duration unaffected by [Lasting Charisma](Talents.md#charm-caster).
+        -   Revitalizing heals a flat 10% HP of the target. 10s cd. Can heal non-allies and even mobs.
 
 -   **Hair Spray - Passive**
     -   _Apply your Hair Products._
     -   Applies the spray that was selected in the Hair Products' popup menu.
+    -   All three hair products have a 10 second cooldown.
 
 ## Trivia
 
 -   The Fadetrimmer Oath was mentioned by the Barbers ever since they were added to the game, on August 22, 2022. The Oath was added to the game on the July 24, 2023, almost a year later.
 -   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment. Like a lot of things he says, this didn't age well.
--   Revitalizing can be used on more than one ally, offering a good amount of support, on par with Reinforce.
 -   Fadetrimmer's haircuts will stay on the opponent for ten minutes, or when you leave the server.
     -   It also bears similarities to a few [Attunement-less](Attunement-less.md) moves. For example, Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash, and Precision Cuts is very similar to Exhaustion Strike, but with more hits.
 -   The description of this Oath is a reference to the "Ginger Fringe Incident" meme.
--   Charming Hair Product is virtually useless due to the existence of [Charismatic Cast](Talents.md).
-    -   Likewise, Flammable Hair Product is a fairly slow option to apply fire that does no damage by itself- using [Flamecharm](Flamecharm.md) mantras applies fire while dealing actual damage at the same time. Flammable can proc Lava Serpent, if that's any bonus...
--   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
--   The color of the scissors on your hips can be changed with a dye packet.
+-   The hitbox on the Hair Products _is_ the spray visual effect, and due to this, it is nearly impossible to land in combat without setup.
+    -   The spray itself does not move far from the point of use and doesn't carry the player's momentum, which makes attempting to land it while moving substantially more difficult.
+-   While the Charming Hair Product seems to be useless due to the existence of [Charismatic Cast](Talents.md#charm-caster), it actually does have some, somewhat niche uses.
+    -   The Charm duration from the Charming Hair Product is 15 seconds, while Charm from Charismatic Cast is half that, so it can be useful for low/no Charisma builds that cannot afford the Lasting Charisma Talent.
+    -   Additionally, the spray is technically a multihit with each hit applying Charm, so it will therefore proc [Narcissist's](Talents.md#toxic-personality) [Overcharm](Status_Effects.md#overcharm) instantly upon use.
+-   Flammable Hair Product is largely seen as useless due to it being a fairly slow option to apply burn/proc Eruptions that does no damage by itself- using [Flamecharm](Flamecharm.md) mantras applies burn/procs Eruptions while dealing actual damage at the same time.
+    -   Additionally, due to burn and Eruptions scaling on your Flamecharm invest, the Flammable Hair Product will have very low damage output unless you have high Flamecharm investment... at which point it becomes almost entirely pointless.
+-   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build, especially since the cooldown is very low and you can heal more than one ally at the same time with it. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
+    -   Revitalizing Hair Product if used incorrectly in PvE can be actively detrimental to your team, as it's possible to heal mobs like bosses with it.
+-   The color of the scissors' blades on your hips can be changed with a [Dye Packet](Dye_Packet.md).
 -   Breaking this Oath by talking to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) makes your scissors say: "Whatever man."
--   Precision Cuts is likely a reference to Gwen's Q ability from League of Legends.
 -   Although seen as a joke Oath, it has a few uses in PVE (Ex: Using Flammable Spray as a placeholder for [Flamecharm](Flamecharm.md)'s burn effects and the Mercy Kill Talent).
+-   Precision Cuts is likely a reference to Gwen's Q ability from League of Legends.
