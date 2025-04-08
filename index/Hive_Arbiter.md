@@ -1,9 +1,9 @@
 ---
 title: Hive Arbiter
-revid: 139840
+revid: 141070
 source: https://deepwoken.fandom.com/wiki/Hive_Arbiter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
+categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies, Ambush Enemies]
 ---
 
 # Hive Arbiter

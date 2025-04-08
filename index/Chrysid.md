@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 126097
+revid: 141010
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -94,3 +94,5 @@ The Chrysid people are an aspect related to moths, inheriting their compound eye
     -   Additionally, it'd also continue the trend of the Greathive aspects having inspiration for their design(s) taken from Hollow Knight.
 
 -   With [Oath: Starkindred](Oath%253A_Starkindred.md) on Chrysid, you get special wings which are supposed to be "Moth" Wings. There's an image on the [Oath: Starkindred](Oath%253A_Starkindred.md) page.
+-   On March 31st, 2025, Chrysids were given eyebrows.
+    -   On April 7th, 2025, Chrysids could chose to lose the eyebrows again

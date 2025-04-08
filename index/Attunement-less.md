@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 140604
+revid: 140988
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -806,7 +806,7 @@ Blunt
  |
 | 
 
-**Effect:** _User rises up in the air, and launches 4 orbs of Ether that explode and ragdoll on impact._
+**Effect:** _User rises up in the air, and launches 4 orbs of Ether toward their cursor that explode and ragdoll on impact._
 
 -   When close enough to the enemy, the orbs will autotrack.
     -   Crystal/Perfect Lenses increase how far you can be for it to autotrack.

@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 140937
+revid: 141068
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons]
@@ -18,7 +18,6 @@ categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons]
 | swing speed | 0.8x |
 | endlag | 0.1s |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| selling price | 100 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
@@ -37,7 +36,5 @@ Perform several spinning attacks while moving forwards, throwing around your hea
 
 ## Trivia
 
--   When initially released, the Lumensplitter used the same description as the one found on the [Darksteel Greatsword](Darksteel_Greatsword.md).
--   When this weapon released, it was enchantable for a short amount of time. This was quickly patched.
--   On release, this weapon dropped from various dungeon locations like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), [Chime of Conflict](Chime_of_Conflict.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md). This however was unintentional and was patched soon after.
--   This weapon shares a requirement with the [Kanabo](Kanabo.md), but is better or equal to it in every way. For example, it has more damage and scaling.
+-   The Lumensplitter was heavily bugged on release, using the same description as the [Darksteel Greatsword](Darksteel_Greatsword.md), being enchantable for a very short duration, and dropping from sources it wasn't supposed to, such as [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), [Chime of Conflict](Chime_of_Conflict.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
+-   This weapon shares requirements with the [Kanabo](Kanabo.md), but is better or to it in almost every way, with bleed damage and better scaling values.

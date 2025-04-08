@@ -1,9 +1,9 @@
 ---
 title: Journeyman Diver Guard
-revid: 124909
+revid: 141073
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies]
+categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
 ---
 
 # Journeyman Diver Guard

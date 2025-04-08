@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 140500
+revid: 140999
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -117,3 +117,4 @@ Ganymede hats also have full [dye](Dye_Packet.md) compatibility, allowing you to
     -   [Titan](<https://en.wikipedia.org/wiki/Titan_(moon)>), [Hyperion](<https://en.wikipedia.org/wiki/Hyperion_(moon)>), [Tethys](<https://en.wikipedia.org/wiki/Tethys_(moon)>) and [Enceladus](https://en.wikipedia.org/wiki/Enceladus) are the names of some of Saturn's moons.
     -   Speculated appearance related to [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil), an 8 year old game arch-mage created. [See relation.](https://imgur.com/ae7oCU8)
 -   Everyone used to believe that ganymede have less insanity gain as passive aspect buff, but this video [Ganymede Testing](https://www.youtube.com/watch?v=VUsgKKvy1Jo) busted the myth, instead Ganymede has 1.2x sanity gain multiplier, boosting sanity healing rather than weakening insanity gain.
+-   On April 7th, 2025, Ganymede's were updated with new aspect markings, making them the second aspect to receive new customization after the character customization update on March 31st, 2025.

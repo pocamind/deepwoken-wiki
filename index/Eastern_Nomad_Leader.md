@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 127308
+revid: 141028
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Children of Navae, Children of Navae Enemies]

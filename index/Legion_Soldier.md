@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 124627
+revid: 141021
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Hundred Legions, The Hundred Legions Enemies]
