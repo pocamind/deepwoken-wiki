@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Battlegrounds
-revid: 140725
+revid: 140896
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Battlegrounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, "April Fools' Day events", Events]
@@ -22,7 +22,7 @@ notices:
 
 Deepwoken Battlegrounds was an update to _Deepwoken_ released on April 1st, 2025 to celebrate April Fools Day, upholding the tradition of annual April Fool's events. The Battleground mode could be accessed by clicking "BATTLEGROUNDS" on the main menu, taking the player into the battlegrounds servers. In Battlegrounds, players would spawn either on [The Floating Keep](The_Floating_Keep.md), above the [Battle Royale](Battle_Royale.md) map, or down on the Battle Royale map itself, with the player having 50 points in all [stats](Character_Stats.md) besides the three Weapon stats which all had 100, access to all (non-oath) [mantras](Mantras.md) freely, a base [Sword](<Sword_(weapon).md>), and the exclusive Ether Fly mantra.
 
-On the Battle Royale map, players could find excessive amounts of [Deep Tomes](Battle_Royale.md#deep-totems) and [Loot Chests](Battle_Royale.md#chests), along with the chance to find any weapons in the base game and outfits to wear. Death had very little penalty in the battlegrounds game mode, with people only losing their weapon, enchant effect, and any held items such as Bombs. Killing players was rewarded by granting the killer copies of their victim's [Talents](Talents.md), and the ability to equip their weapon.
+On the Battle Royale map, players could find excessive amounts of [Deep Totems](Battle_Royale.md#deep-totems) and [Loot Chests](Battle_Royale.md#chests), along with the chance to find any weapons in the base game and outfits to wear. Death had very little penalty in the battlegrounds game mode, with people only losing their weapon, enchant effect, and any held items such as Bombs. Killing players was rewarded by granting the killer copies of their victim's [Talents](Talents.md), and the ability to equip their weapon.
 
 ## Trivia
 

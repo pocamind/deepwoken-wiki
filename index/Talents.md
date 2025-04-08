@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 140864
+revid: 140920
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -526,10 +526,12 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Brain Death \[Common Talent, Dual Attunement\] - Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra.
     -   Prerequisite: 40 Bloodrend, 40 Galebreathe
 
--   Cold Blooded \[Common Talent, Dual Attunement\] - Chilled enemies passively lose blood, alternatively take blood from enemies when their crystals explode.
+-   Cold Blooded \[Common Talent, Dual Attunement\] - Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)
+    -   Applies a VERY small amount of blood poisoning, in fact the amount it applies gets cleared almost immediately.
     -   Prerequisite: 40 Bloodrend, 40 Frostdraw
 
 -   Electrolyte \[Common Talent, Dual Attunement\] - Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.
+    -   The electrify has a very short duration to the point where it will sometimes be cleared by the time your opponent gets out of hitstun.
     -   Prerequisite: 40 Bloodrend, 40 Thundercall
 
 -   Malevolent Sapper \[Common Talent, Dual Attunement\] - The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.
@@ -774,6 +776,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   You can spam F to get out of Freeze faster.
     -   Not mentioned in the description, but this also freezes enemies who are guardbroken while Chilled.
     -   Prerequisite: 60 Frostdraw.
+    -   Only applies on instant guardbreaks and criticals/M1's
 
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them.
     -   Leaves 3-4 ice patches on the ground.

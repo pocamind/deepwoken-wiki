@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 140418
+revid: 140879
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -18,8 +18,6 @@ These times are for people whose ratio between their current time zone and GMT i
 
 World events are focused on uniting the players towards accomplishing a single goal and awarding them individually. However, you should note that ganking is not disabled and may result in players attempting to kill you so you can't get the loot.
 
-Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md) progression and [Attribute](Attributes.md) XP upon defeat.
-
 ## List of World Events
 
 -   **Carnival of Hearts**
@@ -36,3 +34,9 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 
 -   **Siege of Etris** (to be added, is currently a regular random event)
     -   Prevent The Authority from successfully [sieging Etris](Cinders_of_Etris.md) with the help of the Etrean Guards and Royal Guards
+
+## Rewards
+
+-   Unique rewards for each world event ([Eye Of Malice](Eye_of_Malice.md), [Parasol Planter](Parasol_Planter.md) etc.)
+-   [Resonance](Resonance.md) progression and a great amount of attribute EXP
+-   [Crowns](Crowns.md)

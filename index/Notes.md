@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 139599
+revid: 140886
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -8,13 +8,11 @@ categories: [Mechanics, Currency]
 
 # Notes
 
+“ Delicate shells with a distinct shape, Notes are the default currency of commerce within Lumen, Though their value may vary from shore to shore, few fail to recognise them. ”
+
+― Notes' description
+
 Notes() are the standard currency in _Deepwoken_. They are used to purchase various things, such as [Food](Food.md), [Weapons](Weapons.md), and tools.
-
-“ Show me shiny, show me magic! I give you sand dollar. ”
-
-― [Mantra Collector](Mantra_Collector.md)
-
-  
 
 ## Functions
 
@@ -36,7 +34,9 @@ The max amount of Notes you can carry at a time is.
 -   Turning in [Knowledge](Knowledge.md) at the [Soothsayer](Soothsayer.md).
 -   Completing various [quests](Quests.md).
 -   [Echoes](Echoes.md) can grant a miniscule amount of starting Notes to a character.
--   Mugging a downed player with the Pickpocket [Talent](Talents.md)
+-   Mugging a downed player with the Pickpocket [Talent](Talents.md).
+-   Doing [jobs](Job_Boards.md).
+-   Turning in [Crowns](Crowns.md).
 
 ### Banker
 

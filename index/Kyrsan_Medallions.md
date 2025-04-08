@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 137079
+revid: 140889
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2, Currency]
@@ -12,6 +12,10 @@ categories: [Items, Layer 2, Floor 2, Currency]
 |---|---|
 | usage | Obtainment of end-game items. Unlocking and progressing the Oath: Dawnwalker |
 | obtainment | Chests located in New Kyrsa, The Sleeping CityKilling all the Kyrsans in the building that prevents you from entering. |
+
+“ A relic made of strange metal. How could thralls produce such beauty? ”
+
+― Kyrsan Medallion's description
 
 The medallions in hand
 

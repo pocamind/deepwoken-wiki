@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 140858
+revid: 140869
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,7 +32,7 @@ Fadetrimmer is a enigmatic oath taken by all barbers in order to morph the physi
 Meet the following requirements and talk to a barber about Hair Cutting:
 
 -   Power 12+
--   Change your hair 12 times at any [Barber](Barber.md) _(the hairs do not have to be unique, restoring to your natural hair 12 times will work also)._
+-   Change your hair 12 times at any [Barber](Barber.md) _(You don't actually need to change anything; pressing accept without changing anything 12 times works too.)_
     -   You need to accept the hair change and end dialogue for the haircut to count.
     -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
 -   Talk to the barber and pick the option "How is it you're able to do all this stuff?". Continue the dialogue, asking to take the Oath.
