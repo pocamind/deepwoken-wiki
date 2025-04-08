@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 140938
+revid: 140970
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs]
@@ -16,7 +16,7 @@ categories: [Ganymede NPCs]
 
 ## Description
 
-Sev is a [Ganymede](Ganymede.md) NPC that is used to exchange [Crowns](Crowns.md) for dyes. He is uniquely blue and wears a green [Party Hat](Party_Hat.md).
+Sev is a [Ganymede](Ganymede.md) NPC that is used to exchange [Crowns](Crowns.md) for dyes. Their skin is uniquely blue and they wear a green [Party Hat](Party_Hat.md).
 
 ## Location
 

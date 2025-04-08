@@ -1,6 +1,6 @@
 ---
 title: Volu
-revid: 138415
+revid: 140965
 source: https://deepwoken.fandom.com/wiki/Volu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, The Ministry]
@@ -26,3 +26,4 @@ Upon initiating a dialogue he will hand you the first volume of the Strange Tome
 
 -   Volu appears to have a bell we just don't know it's ability yet
 -   If you talk to him after making or having the [Bloodfouler](Bloodfouler.md) he takes it from you
+-   If you talk to him after gathering the three tomes and putting the Bloodfouler safely away in a bank, his dialogue does not change from the default dialogue of not having gotten all three tomes, proving that he is not actually mysterious or powerful and is simply stupid.
