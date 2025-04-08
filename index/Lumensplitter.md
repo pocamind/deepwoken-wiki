@@ -1,9 +1,9 @@
 ---
 title: Lumensplitter
-revid: 140933
+revid: 140937
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links]
+categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons]
 ---
 
 # Lumensplitter
@@ -24,24 +24,20 @@ categories: [Weapons, Pages with broken file links]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, Primadon, The Doom of Caeranthil |
+| obtainment | The Doom of Caeranthil |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 ## Description
 
-The Lumensplitter is a Heavy [Greatsword](https://deepwoken.fandom.com/wiki/Weapons#Greatswords) with unique teeth-like prongs forming its blade.
+The Lumensplitter is a Greatsword with unique teeth-like prongs forming its blade.
 
 ## Critical
 
--   Has a cooldown of 10 seconds.
-    
-    File:Spinningslashed2.0.gif
-    
-    crit (i dunno how to move it under crit section :sob:)
-    
+Perform several spinning attacks while moving forwards, throwing around your heavy weapon as if it is weightless. This attack will grab opponents and will pull them along for the entire duration of the critical, throwing them at the very end. All hits are parryable even if you get hit by the first one. Has a cooldown of 10 seconds.
 
 ## Trivia
 
 -   When initially released, the Lumensplitter used the same description as the one found on the [Darksteel Greatsword](Darksteel_Greatsword.md).
--   This weapon is NOT enchantable.
+-   When this weapon released, it was enchantable for a short amount of time. This was quickly patched.
+-   On release, this weapon dropped from various dungeon locations like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), [Chime of Conflict](Chime_of_Conflict.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md). This however was unintentional and was patched soon after.
 -   This weapon shares a requirement with the [Kanabo](Kanabo.md), but is better or equal to it in every way. For example, it has more damage and scaling.

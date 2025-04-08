@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 140397
+revid: 140958
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement]
@@ -9314,7 +9314,7 @@ _Lob explosive pumpkins at your foes._
 
  | 
 
-300 [Joy](../Joy.md), or [Hallowtide '23 Medal](../Seasonal_Medals.md) and 10 [Knowledge](../Knowledge.md)
+300 [Joy](../Joy.md) at [Glaive Spellhardt](../Glaive_Spellhardt.md), or [Hallowtide '23 Medal](../Seasonal_Medals.md) and 10 [Knowledge](../Knowledge.md) at a [Blacksmith](../Blacksmith.md)
 
  |
 | 

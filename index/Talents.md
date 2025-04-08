@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 140920
+revid: 140940
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2915,9 +2915,10 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I use my blood's plasma to better defend myself."**_
 
--   _Sow and Mend_ \[Rare Talent\] - Sacrifice 17.5% of your blood for temporary health. (15s CD)
+-   _Sow and Mend_ \[Rare Talent\] - Sacrifice 17.5% of your blood for temporary health. (25s CD)
     -   Gives ~8% temporary health.
     -   Prerequisites: 60 Bloodrend, Master Bloodrender
+
 -   Cyclical Exsanguination \[Common Talent\] - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
     -   Prerequisite: 65 Bloodrend, Sow and Mend
 

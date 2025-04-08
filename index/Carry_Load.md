@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 139555
+revid: 140959
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -93,7 +93,7 @@ Combining both Talents and other sources, the total amounts to **569**. However,
 
 Due to attribute limitations, the current best carry load build can only get **546**/**655** carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
 
--   If you create a build that gets more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
+-   If you create a build that can get more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 140682
+revid: 140962
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -34,7 +34,7 @@ S Rank is achievable by doing all echoes tasks (listed below).
 
 A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Vow of Thorns and Glass Bones.
 
-[https://deepwoken-checklist.vercel.app/index.html](https://deepwoken-checklist.vercel.app/index.html) check list incase u need it
+[https://deepwoken-checklist.vercel.app/index.html](https://deepwoken-checklist.vercel.app/index.html) check list in case you need it
 
 W Rank being obtained
 
