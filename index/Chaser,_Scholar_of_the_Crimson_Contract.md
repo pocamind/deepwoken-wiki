@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 140295
+revid: 141154
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, The Divers, The Ministry]
@@ -186,12 +186,13 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>Strange Tome Volume #2</li>
+    <li>Strange Tome Volume #2, a quest item for the <a href="Bloodfouler.md">Bloodfouler</a></li>
+    <li><a href="Weathered_Timepiece.md">Weathered Timepiece</a>, a crafting component for the <a href="Vortex_Echo.md">Vortex Echo</a></li>
     <li><a href="Heartstar.md">Heartstars</a></li>
     <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li><a href="Enchant_Stone.md">Enchant Stones</a></li>
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>
-    <li><a href="Enchant_Stone.md">Enchant Stones</a></li>
     <li><a href="Moonseye_Tome.md">Moonseye Tomes</a></li>
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
     <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>

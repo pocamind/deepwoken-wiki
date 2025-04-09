@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 140891
+revid: 141172
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -42,7 +42,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete.
 -   Supplying the [Diver Expedition](Random_Encounters.md#supply-the-diver-expedition), awarding 1 Knowledge after turning in the supplies.
 -   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 1 Medallions for 1 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _This can be repeated as long as you have the medallions to afford it. **Klaris may refuse your Medallions as she will not talk to you if you are below Power 15.**_
--   Turning in [Crowns](Crowns.md) and turning them into [Sev](Sev.md). This can be repeated.
+-   Turning in [Crowns](Crowns.md) by clicking the currency icon. This can be repeated.
 -   Finishing [Mendacia](Mendacia.md)'s quest in Layer 2 Floor 1, awarding 2 Knowledge after talking to her in Layer 2 Floor 2 (Denying quest also give you knowledge though)
 -   Catching [Golden Fish](Fishing.md), awarding 1 Knowledge per catch, maximum being 5 catches.
 -   Defeating any [Boss](Bosses.md) solo, awarding 1 knowledge and can be repeated.

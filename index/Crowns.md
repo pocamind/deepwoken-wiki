@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 141088
+revid: 141173
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 | Crowns | |
 |---|---|
-| usage | -Used to obtain Knowledge/Notes-Turned in to Sev for (?) |
+| usage | -Used to obtain Knowledge/Notes-Turned in to Sev for Dye Packets |
 | obtainment | World EventsWorld Bosses |
 
 “ Awarded for prestigious deeds, or for a prestigious talent for pilfering. Holds tremendous value in all corners of Lumen. ”
@@ -24,7 +24,7 @@ Crowns are an end-game currency that can be obtained from World Events or World 
 
 Crowns can only be obtained from [World Events](World_Events.md) or World Bosses, earning 1 per completion or boss defeat.
 
-Certain bosses, such as the [Scion of Ethiron](Scion_of_Ethiron.md) or the [Heart of Enmity](Heart_of_Enmity.md) warrants 1 crown on defeat.
+Certain bosses, such as the [Scion of Ethiron](Scion_of_Ethiron.md) or the [Heart of Enmity](Heart_of_Enmity.md) warrants 1 crown on defeat as they are technically World Bosses.
 
 ### **Usage**
 

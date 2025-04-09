@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 135849
+revid: 141168
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -70,7 +70,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Friid](Friid,_Master_of_Gale.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Funke](Funke,_Master_of_Thunder.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Gaius](Gaius.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | None | None |
-| [Gild](Gild.md) | [Lost Celtor](Lost_Celtor.md) | The Depths, Varicosa District | None |  |
+| [Gild](Gild.md) | [Lost Celtor](Lost_Celtor.md) | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | None |  |
 | [Graha](Graha.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), next to the stove | None |  |
 | [The Guy](The_Guy.md) | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will belittle you by saying "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
 Check the rest out for yourself, canonically smells really bad
@@ -80,7 +80,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Imel](Imel.md) | [The Ministry](The_Ministry.md) | [The Etrean Sea](The_Etrean_Sea.md), statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | [Ishan](Ishan.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. |
 | [Jeandae](Loot_Bag_Gacha.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Gacha NPC. Will give you something random from the Songseeker Wilds lootpool in exchange for 350 notes. |  |
-| [Jeremiah](Jeremiah.md) | Unaligned | The Depths, Varicosa District | Trade 1 [Deep Gem](Deep_Gems.md) for 1 random item | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
+| [Jeremiah](Jeremiah.md) | Unaligned | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | Trade 1 [Deep Gem](Deep_Gems.md) for 1 random item | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
 | [Jessamine](Jessamine.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md), [Widow's Hollow](<Widow's_Hollow.md>) | Thresher Scales quest |  |
 | [Jim](Jim.md) | Unaligned | [Etris](Etris.md), Docks | Gives a Talent hand in exchange for 2 [Dying Embers](Dying_Embers.md) |  |
 | [Joshua](Joshua.md) | Unaligned | [Etris](Etris.md) | Talks about [Karliah](Karliah.md) |  |
@@ -129,7 +129,7 @@ Check the rest out for yourself, canonically smells really bad
 
  | Teaches new players the basics of the game | Gives different dialogue if you have the Castaway origin who has done the tutorial |
 | [Pete](Pete.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
-| [Petris](Petris.md) | Unaligned | [The Depths](First_Layer.md), The City of the Drowned | Gives clues to summon [The Ferryman](The_Ferryman.md) |  |
+| [Petris](Petris.md) | Unaligned | [The Depths](First_Layer.md), [The City of the Drowned](The_City_of_the_Drowned.md) | Gives clues to summon [The Ferryman](The_Ferryman.md) |  |
 | [Plath](Plath.md) | Unaligned | [Kyrsan Wilds](Kyrsan_Wilds.md) | None |  |
 | [Ploom](Ploom.md) | Unaligned | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants Talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
 | [Polis](Polis.md) | Unaligned | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
@@ -142,11 +142,12 @@ Check the rest out for yourself, canonically smells really bad
 | [Rook Rethige](Rook_Rethige.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | None | Speaks like a discord user |
 | Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Saffron](Saffron.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |
-| [Samael](Samael.md) | Starkindred Faithful | Derelict Highchurch | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
+| [Samael](Samael.md) | Starkindred Faithful | [Derelict Highchurch](Derelict_Highchurch.md) | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
 | [Sekh](Sekh.md) | [The Hive](The_Hive.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |  |
 | [Serena](Serena.md) | Unalighned | [Starswept Valley](The_Starswept_Valley.md) | Asks for water from a [canteen](Canteen.md). Gives XP and a chest, or attacks you. |  |
 | [Serendi](Serendi.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
+| [Sev](Sev.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sells dye for crowns. |  |
 | [Sibex](Sibex.md) | Unaligned | [The Aratel Sea](The_Aratel_Sea.md) ontop of a Statue on the islands infront of [Starswept Valley](The_Starswept_Valley.md) | Tells you how close you are to unlocking your [Resonance](Resonance.md) and what method is best to unlock it. |  |
 | [Scope](Scope.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
 | [The Stranger](Quiet_Stranger.md) | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Used to grant [Murmur: Tacet](Murmur%253A_Tacet.md) to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
