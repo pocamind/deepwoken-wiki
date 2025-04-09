@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 140886
+revid: 141190
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -74,3 +74,4 @@ There are many means to obtain Notes, and some are better than others.
 
 -   The Note cap was formerly 10,000. At an unknown date, this was changed to 15,000.
 -   The currency being named "Notes" is a reference to musical notes, tying in with Deepwoken's [musical](Lore.md#the-song) [theming](Lore.md#resonance-bells).
+-   as we know notes are shell of a special variation, though how it comes that how or why shells that are said the be delicate came to be a currency is unknown

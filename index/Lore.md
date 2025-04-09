@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 138481
+revid: 141177
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1550,7 +1550,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 -   Dawnwalkers are people who swore an Oath with the Black Diver Klaris Llfiend, learning the arts of the Radiant Tones by way of binding themselves to her ways, and using the powers of the Oath to defeat the encroaching darkness of the world.
 -   Despite being an Oath, the progression of this Oath seems to be purely transactional as the player can only progress their Oath by exchanging Kyrsan Medallions to Klaris.
-    -   It is fair to say that since you've already bound yourself to Klaris' cause, it is only natural that getting stronger is your only concern in order banish darkness from the world.
+    -   It is fair to say that since you've already bound yourself to Klaris' cause, it is only natural that getting stronger is your only concern in order to banish darkness from the world.
 -   The Oath, despite what is stated by flavor text, doesn't actually operate at Lightspeed.[\[2\]](#cite-note-arch-2)[\[13\]](#cite-note-yaya-13)
 
 ### Silentheart
