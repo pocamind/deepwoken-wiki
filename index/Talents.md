@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 140940
+revid: 141098
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -659,26 +659,33 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I use the song to charm others."**_
 
--   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
-    -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
-    -   Effect lasts 15s (7.5s against Disbelief Talent).
-    -   Chaotic Charm's effect is a more potent version of regular Charm, which means the defense buff doesn't stack with regular Charm.
-    -   Deals 0.1 damage whenever it procs.
-    -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
-    -   Will apply combat tag against opponents.
-    -   Has no proc cooldown. Will reapply Chaotic Charm every time you get hit.
-    -   Prerequisites: 55 Charisma, Charismatic Cast
-
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you, additionally any charmed allies will get up twice as fast after getting knocked out.
-    -   Charmed targets deals 10% less damage to you
+    -   This charm lasts 10s (5s against Disbelief Talent).
+    -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   Prerequisite: 25 Charisma
 
+-   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
+    -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
+    -   Charms for 15s (7.5s against Disbelief Talent).
+    -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional 10% damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
+    -   This status effect only applies a 10% damage reduction effect, which stacks with Charm to grant a total of 19% damage reduction.
+    -   Deals 0.1 typeless damage whenever it procs.
+    -   Can be blocked, preventing damage and Charm proc.
+    -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
+    -   Will apply combat tag against opponents.
+    -   Has 0.25s cooldown.
+    -   Typeless self damage will not proc Chaotic Charm, but something like Flame Within will.
+    -   Prerequisites: 55 Charisma, Charismatic Cast
+
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
-    -   Doubles the duration of charm from 7.5s to 15s.
-    -   Counteracted by the Disbelief Talent.
+    -   Increases the duration of **Charismatic Cast's** Charm from 10s to 15s (from 5s to 7.5s against Disbelief Talent).
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
 -   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.
+    -   Charms for 2 seconds with a 1 second cooldown.
+    -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
+    -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
+    -   Procs through block parry and dodge.
     -   Instead of your charm debuffing affected players and making them take more damage, it actually applies an on-hit buff when attacking someone affected by your charm, granting a damage buff to that attack. This means Tough Love **is** affected by the damage modifier cap.
     -   Prerequisites: 25 Charisma, Charismatic Cast
     -   Mutual Exclusives: Narcissist
@@ -1874,8 +1881,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
     -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
-        -   Charm now last 3.75 seconds (down from 7.5 seconds)
-        -   Lasting Charisma Charm last 7.5 seconds (down from 15 seconds)
+        -   Charismatic Cast, [Allure](Enchantments.md#equipment): 10s -> 5s
+        -   Lasting Charisma, Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
+        -   Tough Love: 2s -> 1s
+        -   Unnecessary Theatrics: 7s -> 3.5s
+        -   [Dread Whisper](Attunement-less.md#dread-whisper): 7.5s -> 3.25s
+        -   Overcharm's basic attacks: 5s -> 2.5s
     -   Prerequisite: 25 Willpower
 
 ### Merchant
@@ -2552,7 +2563,7 @@ _**"My cure is most effective."**_
 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
     -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
-    -   Lasts around 6 seconds, on flourish, uppercut and criticals equally.
+    -   Charms for 7 seconds (3.5s against Disbelief Talent)
     -   Does not proc "Golden Tongue" Talent
     -   Prerequisites: Charismatic Cast, 75 Charisma
 
@@ -2908,6 +2919,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Narcissist \[Common Talent, Charisma Exclusive\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
     -   Overcharms for 4 seconds.
+    -   Charms yourself for 8 seconds.
     -   Mutual Exclusives: Tough Love
     -   Prerequisites: Charismatic Cast, 60 Charisma
 

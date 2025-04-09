@@ -1,6 +1,6 @@
 ---
 title: "Heratic's Sutra"
-revid: 131876
+revid: 141111
 source: https://deepwoken.fandom.com/wiki/Heratic's_Sutra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,6 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Heretic's Sutra](<Heretic's_Sutra%253Fredirect=no.md>)
-
-\]\]
+-   [Quests#Heretic's Sutra](Quests.md#heretics-sutra)

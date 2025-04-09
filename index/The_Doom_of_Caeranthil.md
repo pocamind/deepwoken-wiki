@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 140945
+revid: 141123
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -158,6 +158,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><a href="Murmur%253A_Ardour.md">Murmur: Ardour</a></li>
+    <li>One <a href="Crowns.md">Crown</a></li>
     <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>

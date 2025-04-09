@@ -1,6 +1,6 @@
 ---
 title: Diamond
-revid: 93742
+revid: 141105
 source: https://deepwoken.fandom.com/wiki/Diamond
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Gems](Gems%253Fredirect=no.md)
+-   [Treasures](Treasures.md)

@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 141007
+revid: 141148
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]

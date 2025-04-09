@@ -1,6 +1,6 @@
 ---
 title: Gold Bar
-revid: 93743
+revid: 141107
 source: https://deepwoken.fandom.com/wiki/Gold_Bar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Gems](Gems%253Fredirect=no.md)
+-   [Treasures](Treasures.md)

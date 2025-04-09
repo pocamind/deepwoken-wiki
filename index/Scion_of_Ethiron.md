@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 140482
+revid: 141091
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -148,7 +148,7 @@ Dodgeable:◯
 
 **Debris**  
 
- | The Scion summons 1 Kyrsgarde Sniper on up to 9 Shrines, these have greatly reduced health and stats and are unable to move. These only serve to heal you in the fight via killing them. This move will only be used after Ethiron has been stunned once | 
+ | The Scion summons 1 Kyrsgarde Sniper on up to 9 Shrines, these have greatly reduced health and stats and are unable to move. These only serve to heal you in the fight via killing them. | 
 
  |
 
@@ -178,7 +178,8 @@ To avoid the ultimate, slide, wait for the sound cue of the Scion firing it's or
 Upon defeating the Scion, it will drop a large chest at the entrance of his bedchamber containing:
 
 -   Many Kyrsan series weapons.
--   2 Knowledge on first kill, 1 knowledge per kill if contributing 35% or more damage.
+-   2 [Knowledge](Knowledge.md) on first kill, 1 knowledge per kill if contributing 35% or more damage.
+-   1 [Crown](Crowns.md) on kill
 -   Very high odds of Deep Gems.
 -   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including [Ironsinger Heavy Plates](Ironsinger_Heavy_Plate.md), all guaranteed to be at least 1 star quality.
 -   Exclusively from the Scion, a [Kyrsieger](Kyrsieger.md)

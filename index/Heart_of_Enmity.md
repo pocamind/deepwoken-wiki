@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 140815
+revid: 141124
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -105,12 +105,13 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Heretic's_Memento.md">Heretic's Memento</a></td>
+  <td><a href="Heretic's_Memento.md"><font>Heretic's Memento</font></a></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
+    <li>One <a href="Crowns.md">Crown</a></li>
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>

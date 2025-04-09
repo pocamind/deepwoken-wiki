@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 140441
+revid: 141120
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -194,27 +194,98 @@ The best way to damage the Ferryman is utilising the attack opportunities from p
 **"Progress":** As with all bosses, the Ferryman grants [Resonance](Resonance.md) progress on defeat, scaling with damage done along with whoever got the last hit.
 
 -   Seasonal Rewards - Speaking to the Ferryman after defeating him will reward the player with an additional reward. **If there are multiple people in the dungeon, the reward will only be given to the one who initiates dialogue** (unless it's Summer).
-    -   Spring - One [Knowledge](Knowledge.md). Repeatable. He speaks about him being a Krulian, Enlightening you.
+    -   Spring - Instead of an additional chest, he awards you with one [Knowledge](Knowledge.md). This is repeatable. He speaks about him being a Krulian, Enlightening you.
     -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), along with many miscellaneous Legendary Rings.
     -   Autumn - Identical to Summer, being an additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), along with many miscellaneous Legendary Rings.
     -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted. Subsequent defeats award an [Aelita](Aelita.md) chest, but does not give additional Krulian Knives.
 
 Aside from his seasonal rewards, the Ferryman also provides a line of five chests which may drop Earrings, Legendary Rings, Weapons, and rarely, [Relics](Relics.md).
 
--   **[Deep Gems](Deep_Gems.md)** - Rare gems that can be applied to mantras to improve them.
--   **[Krulian Knife](Krulian_Knife.md)** - In addition to being the seasonal reward for Winter, the Krulian Knife can also be found in each of the five chests.
--   **[Stormseye](Stormseye.md)** - An incredibly rare Thundercall-based Rifle, requiring 75LTN and 40MED.
--   **[Crypt Blade](Crypt_Blade.md)** - The Crypt Blade is a end-game Shadow Heavy legendary greatsword, requiring 75SHD and 40HVY.
--   **[Crescendo](Crescendo.md)** - A medium twinblade sword that scales with and requires medium.
--   **[Legendary Rings](Equipment.md#rings)** - An assortment of rings with higher pip-quality than standard rings, with many providing Weapon Scaling for attributes.
--   **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Relic-Tier torso equipment that disables the effects of deep-gems for three minutes.
--   **[Justicar's Armor](<Justicar's_Armor.md>)** - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage by 10%.
--   **[Ferryman's Coat](<Ferryman's_Coat.md>)** - A Schematic to create the coat worn by the Ferryman himself, grants high Lightning Resistance and a unique Talent that converts elemental damage into Lightning damage.
--   **[Smith's Alloy](<Smith's_Alloy.md>)** - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars.
--   **[Armorer's Needle](<Armorer's_Needle.md>)** - A [relic](Relics.md) that allows the user to change a singular pip of their choosing from an [equipment](Equipment.md); though they are unable to control exactly what it changes into. Handy for gear that is close to being a godroll.
--   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
--   **[Pluripotent Alloy](Pluripotent_Alloy.md)** - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.
--   **[Dormant Splinter](Dormant_Splinter.md)** - A rare [relic](Relics.md) weapon used for crafting the [Umbrite Witherblade](Umbrite_Witherblade.md) or the [Fondant Splitter](Fondant_Splitter.md) at [The Cold Forge](The_Cold_Forge.md).
+### 
+
+Exhaustive Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td>
+  <ul>
+    <li><b>Master</b>: <a href="Justicar's_Armor.md">Justicar's Armor</a></li>
+    <li><b>Unique</b>: <a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Books.md#the-ferrymans-lullaby">The Ferryman's Lullaby</a> (Book)</li>
+    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li><a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
+    <li>Some <a href="Relics.md">Relics</a>:
+  <ul>
+    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+    <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
+    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+  </ul></li>
+    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b><font>Relic Weapons</font></b>: <a href="Dormant_Splinter.md"><font>Dormant Splinter</font></a>.</li>
+    <li><b><font>Legendary Weapons</font></b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>.</li>
+    <li><b><font>Alloyed Weapons</font></b>: N/A</li>
+    <li><b><font>Generic Weapons</font></b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a>.</li>
+    <li><b>Heavy Weapons</b>: N/A</li>
+  </ol></li>
+    <li><b><font>Offhand Weapons</font></b>: N/A</li>
+    <li><b><font>Seasonal Exclusive Weapons</font></b>: <a href="Iron_Birch.md">Iron Birch</a> (Winter), <a href="Shattered_Katana.md">Shattered Katana</a> (Winter).</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>:
+  <ol>
+    <li><b>All Seasons</b>: N/A</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Crimson, Gold, &amp; Mist) (Winter).</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
+  <ol>
+    <li><b>All Seasons</b>: N/A</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a> (All Variants) (Winter), <a href="Authority_Commander_Coat.md">Authority Commander Coat</a> (All Variants) (Winter), <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Crimson, Gold, &amp; Mist) (Winter), <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a> (All Variants) (Summer &amp; Winter).</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: N/A</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
+  <ol>
+    <li><b>All Seasons</b>: <a href="Lightkeeper's_Medallion.md"><font>Lightkeeper's Medallion</font></a>.</li>
+    <li><b>Seasonal Exclusive</b>: Scarf (Black) (Winter).</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>:
+  <ol>
+    <li><b>All Seasons</b>: N/A</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Headband.md">Headband</a> (Black, Blue, Green, White) (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter).</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>:
+  <ol>
+    <li><b>All Seasons</b>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>.</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a> (Summer &amp; Autumn).</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
+  <ol>
+    <li><b>All Seasons</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Ferryman's_Ring.md"><font>Ferryman's Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Almost all Legendary Rings.</li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 139638
+revid: 141125
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -60,8 +60,6 @@ Dodgeable:◯
 
 Exhaustive Loot Table
 
-**Keep in mind that this list is still very incomplete.**
-
 <table>
 <tbody>
 <tr>
@@ -76,6 +74,7 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
+    <li>One <a href="Crowns.md">Crown</a></li>
     <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>

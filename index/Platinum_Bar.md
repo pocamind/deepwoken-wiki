@@ -1,6 +1,6 @@
 ---
 title: Platinum Bar
-revid: 93747
+revid: 141110
 source: https://deepwoken.fandom.com/wiki/Platinum_Bar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Gems](Gems%253Fredirect=no.md)
+-   [Treasures](Treasures.md)
