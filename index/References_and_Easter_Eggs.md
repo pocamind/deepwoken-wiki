@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 137853
+revid: 141231
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -39,7 +39,7 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   **Flame Within** works similarly to [Power Within](https://darksouls.fandom.com/wiki/Power_Within).
 -   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
--   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo) and [Mahoraga](https://jujutsu-kaisen.fandom.com/wiki/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga).
+-   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) "Divine Flame" move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo) and [Mahoraga](https://jujutsu-kaisen.fandom.com/wiki/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga).
 -   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Technique_Reversal:_Red).
 -   **Flaming Scourge** is inspired by Charlotte Katakuri's **Buzzcut Mochi**.
 
@@ -141,7 +141,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **[The Enforcer](Enforcer.md)'s** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
--   **[Nautilodaunts](Nautilodaunt.md)** draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft. They also draw heavy inspiration from [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/f), with their physique being near identical.
+-   **[Nautilodaunts](Nautilodaunt.md)** draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft. They also draw heavy inspiration from [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/f), with their physique being near identical and sharing the same color of skin if they spawn as their "fury" variant.
 -   Humanoid enemies casting mantras have a chance to say "behold my magic spell" as a spell shout.
     -   Originally, this was a bug, where enemies would always say the line on any mantra cast, which was a debug quote to test spell shout.
 -   The [Lionfish](Lionfish.md)'s beam attack is a nod to the [attack of the same name](https://bleach.fandom.com/wiki/Cero) from the _Bleach_ franchise, using the same sound effect and a pose that resembles the [Menos Grande](https://bleach.fandom.com/wiki/Hollow%23Gillian) that introduced the technique.
@@ -323,6 +323,9 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The "Hoss" emote is a reference to Akuma from Street Fighter, while the name of emote is a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.
 -   When enemies spot you there is a chance to play the alert sound effect from _Metal Gear Solid_.
 -   Voideye's Teleportation animation bears a striking resemblance to Final Fantasy XIV's teleport animation.
+-   If the game has trouble loading you somewhere, the loading screen will display the image of a confused/shocked dog, with the text: "Uh oh. Where's the game? This can't be good. Games are supposed to _work_. Games are supposed to let you _play_ them. ...Probably won't be broken forever though, right? Like they've probably got a guy for this, right? Man."
+    -   If this keeps going long enough, the text will be replaced with this: "Huh. Still no dice? Maybe if we wait like 30 seconds longer some suggestions for games to play while we wait will start scrolling down the screen. Games do that kinda things nowadays, apparently. As if the game breaking wasnt enough".
+        -   The games that can appear are the following: Abyss World, Bad Business, Barotrauma, Checkers, Chess, Citizen Sleeper, CONE, CRAZY HORSE GAME, Deep Rock Galatic, Don't Play ABA please, Doors, Dredge, Dwarf Fortress, Find Everything, Halo 3, Inscryption, Lethal Company, Monkey Raft, My Movie, Noita, Rain World, Road to Gramby's, Shovelware's Brain Game, Snakes & Ladders, Space Station 14, Stars Align, Straftat, Super Bomb Survival, Super Doomspire, Twilight Imperium 4, Valheim.
 
 ## Trivia
 
