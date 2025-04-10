@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 138758
+revid: 141222
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -212,7 +212,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Unyielding Focus \[Common Talent\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
     -   In the January 3rd, 2023 update, Unyielding Focus was merged into Disbelief.
 -   **Uproar \[Common Talent\] -** When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration. Landing a hit on another player will end your Uproar.
-    -   In the January 18th, 2025 update, Uproar was removed from the game.
+    -   In the January 18th, 2025 update, Uproar was removed from the game due to devs not able to balance this talent right.
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
 -   **Vital Point \[Common Talent, Agility\] -** Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   In the January 13th, 2022 update, Vital Point was merged into Lights out.
