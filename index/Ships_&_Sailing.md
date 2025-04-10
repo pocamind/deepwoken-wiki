@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 131912
+revid: 141211
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -35,7 +35,7 @@ For more information on Ship Control and Sailing, click [here](Ships_&_Sailing.m
 
 ## Boats
 
-**(Square Brackets are referring to [Celtor's](Celtor.md) Racial Buffs)**
+**(Square Brackets are referring to [Celtor](Celtor.md)'s Racial Buffs)**
 
 | Image | Boat | Details |
 | --- | --- | --- |

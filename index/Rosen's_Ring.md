@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Ring"
-revid: 138522
+revid: 141193
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Items]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings, Items]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Primadon, Titan of the East, The Ferryman, The Doom of Caeranthil, Summer Isle (Extremely Rare), Duke Ishamon Erisia (Very Rare), Second Layer, Interluminary Parasol, Ancient Rotlands, Pure Ore Turn-ins (Extremely Rare), Maestro Evengarde Rest |
+| obtainment | Primadon, Titan of the East, The Ferryman, The Doom of Caeranthil, Summer Isle (Extremely Rare), Duke Ishamon Erisia (Very Rare), Second Layer, Scion of Ethiron, Interluminary Parasol, Ancient Rotlands, Pure Ore Turn-ins (Extremely Rare), Maestro Evengarde Rest |
 | description | "A ring once worn by a genius inventor. Said to have been discarded once he turned to other methods of inspiration." |
 
 ## Description
