@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141098
+revid: 141219
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -255,14 +255,14 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 > _**"I skulk in alleyways, looking for my next prize."**_
 
--   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, gain a speed boost. (+2 Passive Agility)
-    -   The enemy must not be in combat to trigger this effect.
-    -   Prerequisite: 5 Agility
-
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
     -   Halve the speed penalty tied to lost health.
     -   Prerequisites: 25 Agility, 25 Fortitude
     -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" has this Talent.
+
+-   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, gain a speed boost. (+2 Passive Agility)
+    -   The enemy must not be in combat to trigger this effect.
+    -   Prerequisite: 5 Agility
 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
@@ -283,14 +283,15 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain 10% extra damage and 10% extra speed.
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Generally dangerous to use without Immolation's self damage reduction.
-    -   7 second cooldown if you clear the flames by using the tool again, no cooldown (excluding burn immunity) if Flame Within naturally ends.
+    -   7 second cooldown if you clear the flames by using the tool again or if the burn gets extinguished, 2 second cooldown (due to burn immunity) if Flame Within naturally ends.
     -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
         -   Because Flame Within's mobility buff is a flat increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain mantras like [Arc Suit](Oath%253A_Arcwarder.md#abilities) or [Iron Skin](Ironsing.md#iron-skin).
-    -   The damage buff applies to Mantras.
-    -   Can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
-    -   The old Last Laugh Talent has been merged into Flame Within.
-    -   Will deal 3% damage upon use, lowered to 1.5% with Deepscorn Casque.
-    -   Grotesque Resilience reduces the damage taken from DOT by 25%.
+    -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
+    -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
+    -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
+    -   Grotesque Resilience reduces the damage taken from Flame Within's burn DoT by 25%.
+    -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct downgrade for Flame within.
+    -   The old Last Laugh Talent was merged into Flame Within.
     -   Prerequisite: 25 Flamecharm
 
 ### Angler
@@ -1482,8 +1483,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
-    -   "Apply fire damage" applies the burn status effect instead of adding fire damage. It also applies burn even if you have Eruption Path: Lava Serpent.
-        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. Clutching Shadow or Metal Eruption). And all attacks that have the slash (blood particle) vfx on hit like Ice Daggers or Gale Lunge will also proc Immolation, applying burn.
+    -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
+        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow) or [Metal Eruption](Ironsing.md#metal-eruption)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.
     -   Prerequisites: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
@@ -1509,6 +1510,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without this Talent, you will wipe through his flames.
 
 -   Simmerbloom \[Common Talent\] - M1's on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
+    -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) M1s now apply burn/eruptions. This has no cooldown.
+        -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
     -   Obtained from [Simmerbloom Diadem](Simmerbloom_Diadem.md)
     -   Requirements for Equipment: [Power](Power.md) 10, 80 Flamecharm
 
@@ -3506,6 +3509,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Your boat will take 25% less damage if the person piloting it has this talent.
 -   Serpent's Dance: [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) - Unleash the power of Fang and Coil to unlock a devastating Running Critical Attack, feint to cancel momentum.
     -   Allows you to use [Fang and Coil](Fang_and_Coil.md)'s running critical. This attack does not work on any Cestus that already has a unique crit.
+-   Simmerbloom: [Simmerbloom Diadem](Simmerbloom_Diadem.md) - M1's on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
+    -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) M1s now apply burn/eruptions. This has no cooldown.
+        -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 10% less damage from airborne enemies.
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 -   Surestep: [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.

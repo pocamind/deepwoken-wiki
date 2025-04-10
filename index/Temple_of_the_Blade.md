@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 138564
+revid: 141217
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea, Isle of Vigil, Temple of the Blade]
@@ -123,5 +123,5 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Lance's Brother will say that his own mother doesn't know his name and if you talk to Lance on Etris he will, confused, say he doesn't have a brother.
 -   If you drop the food crate while running, You will get stuck in the box until you pick it back up.
     -   If you do this after jumping off of a short ledge (ex. the table that Lance's brother stands behind) before doing this, you can fly.
--   If for some reason you don't have the requirements for any mantras, completing "The Librarian" Quest will not give you any reward.
+-   If for some bizzare reason you don't have the requirements for any mantras, completing "The Librarian" Quest will not give you any reward.
 -   If you asked for Lance's brother name before delivering the food crate, Stratos will say his real name which is "@#$%&".

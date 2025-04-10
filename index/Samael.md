@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 138535
+revid: 141213
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oath Trainers, NPCs located in the Eastern Luminant]
@@ -285,4 +285,5 @@ His [aspect](Aspects.md) is hidden by his [mask](Thrall_of_Enmity.md), and even 
 
 -   Of the current in-game playable aspects, Samael cannot be any of the following based on lacking their defining features: [Adret](Adret.md), [Capra](Capra.md), [Chrysid](Chrysid.md), [Ganymede](Ganymede.md), [Gremor](Gremor.md), [Tiran](Tiran.md), and [Vesperian](Vesperian.md).
     -   This leaves [Canor](Canor.md), [Celtor](Celtor.md), [Etrean](Etrean.md), and [Khan](Khan.md). Clipping into his mask shows no facial features. It's possible Canor could be ruled out due to not being able to achieve that level of paleness within the character creation menu, but one could argue that his pursuit of the Celestials has taken all of his melanin. Or, he could be none of these...
-    -   It can be assumed that he is an angel, a supposedly unobtainable aspect. Considering Angels have been revealed to be thralls of enmity, it is under the assumption that Samael is working with the depths itself in a sense.
+    -   It's also possible he is simply an Angel, a supposedly unobtainable aspect. Considering some Angels are Thralls of Enmity, it's possible Samael is working with the Depths itself in a sense.
+    -   Another, simpler explanation is that overdosing on Celestial Ichor simply had a huge toll on his appearance.

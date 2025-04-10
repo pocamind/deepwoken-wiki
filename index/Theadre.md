@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 131757
+revid: 141221
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
@@ -61,7 +61,7 @@ Theadre is an NPC who can be found standing at the base of a statue at [The Lord
   <td colspan="6">What do you think of the Lord Regent?</td>
 </tr>
 <tr>
-  <td colspan="6">The King who will cast aside the aspersions fabricated by your kind...</td>
+  <td colspan="6">The king who will cast aside the asperasions fabricated by your kind...</td>
   <td colspan="6">He is no King... But I know that what he does is all in the name of Etrea. Surely, when the King returns, he will vacate the throne..</td>
 </tr>
 <tr>
