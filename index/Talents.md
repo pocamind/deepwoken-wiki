@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141229
+revid: 141245
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2260,11 +2260,11 @@ _**"My cure is most effective."**_
     -   Conductor rods last 30 seconds or until an elemental mantra is used.
     -   On proc, the Conductor Rod will apply the elemental effect of the Mantra your opponent is trying to use to themselves.
     -   If your opponent uses a Mantra while being affected by a Conductor rod, 5% of their armor will be **drained** and it proc have the following effect:
-        -   Flamecharm Mantra: Apply Burn (base path) / Cause Eruption (Eruption path)
-        -   Frostdraw Mantra: Deals a very low amount of damage (base path) / Apply Crystal on victim (Crystallization path)
-        -   Galebreathe Mantra: Suffocate + cancels mantra (base path) / spawns Apparitions (Specter Path)
+        -   Flamecharm Mantra: Apply Burn (base path) / No effect with eruption path, rod falls off.
+        -   Frostdraw Mantra: Deals a very low amount of damage (Base path) / Apply Crystal on victim (Crystallization path)
+        -   Galebreathe Mantra: Suffocate + cancels mantra (Base path) / spawns Apparitions (Specter Path)
         -   Shadowcast Mantra: Doubles the Ether cost of the Mantra cast
-        -   Thundercall Mantra: Applies Shock + Cancels mantra (base path) / Applies Surge stack + cancels mantra (Surge path)
+        -   Thundercall Mantra: Applies Shock + Cancels mantra (Base path) / Applies Surge stack + cancels mantra (Surge path)
         -   Attunement-less/Ironsing/Bloodrend/Oath Mantra: The rod does not fall off, but their armor is still drained
     -   You can't pull out Conductor rods, nor can they be consumed with Scrapsinger.
     -   Conductor's rod on proc dont apply rod/pull immunity.

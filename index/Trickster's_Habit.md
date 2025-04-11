@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 140168
+revid: 141244
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -24,7 +24,7 @@ This Outfit has 2500 durability and grants +20% Physical resistance, +15% Blunt 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32% Blunt, 20% Slash, and 35% Elemental.
 
-This Outfit also grants the [Talent](Talents.md#equipment-talents) Mocking Favor, causing Aelita or Tillian to appear when you taunt (spit). She'll do an emote and apply a random buff or affliction. This talent has a 30 second cooldown.
+This Outfit also grants the [Talent](Talents.md#equipment-talents) Mocking Favor, causing Aelita to appear when you taunt (spit). She'll do an emote and apply a random buff or affliction. This talent has a 30 second cooldown.
 
 List of buffs being:
 

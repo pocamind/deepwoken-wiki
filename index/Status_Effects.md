@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 138715
+revid: 141235
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -106,6 +106,18 @@ Buffs the nourishment of food and health regeneration for people near you. Also 
 
 Buffs the blood and health regeneration of people near you. Also slightly buffs the nourishment of food and sanity of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by light green particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Ku [Capra](Capra.md) Variant.
 
+### Mocking Favor: Boons
+
+Mocking favor is the outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>). Whenever you taunt (spit) or emote, [Tillian](Tillian.md) or [Aelita](Aelita.md) will spawn and will grant you a random boon or affliction. Due to the large amount of effects this can apply, they'll all be listed together. See the afflictions side of this Talent [here](#mocking-favor-afflictions).
+
+-   **Again!** - Rerolls the effect given to you at no extra cost, granting an entirely different effect. No visual effect.
+-   **Now You See Me...** - A very short duration invisibility. Signified by the same visual effect that [Visionshaper's Cheap Trick](Oath%253A_Visionshaper.md#abilities) has.
+-   **Tempo Gain** - Grants ~18% Tempo. Signified by a light blue [Reinforce](Attunement-less.md#reinforce)\-like effect.
+-   **Posture Clear** - Restores 30% of your current Posture. Signified by [Rally's](Attunement-less.md#rally) shield clanging sound effect.
+-   **Free Mantra** - Makes your next Mantra cast cost 0 Ether. This effect is also granted to your allies. Signified with a visual that is almost identical to [Capra's Mark of Jurik](Capra.md#racial-traits).
+-   **Vent Reset** - Resets your Vent cooldown, allowing you to use it again. No visual effect.
+-   **Damage Reabsorption** - Around 30-40% of the damage you've taken very recently will be restored to you. This has a short activation window of only a few seconds. No visual effect.
+
 ## Harmful Status Effects
 
 These status effects won't kill you, but they can give you a debuff or drain your health to a certain extent.
@@ -116,15 +128,15 @@ This effect can be applied by being hit by a weapon that applies bleed, [Crimson
 
 ### Burn
 
-This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move and many other sources. Drains your health at a relatively negligible pace (Around 8 DMG per second). If an unconscious body is set on fire, they will automatically be gripped after 8 seconds if not picked up (5 seconds if the user who applied the fire has the talent Corpse Explosion). Can be gotten rid of by rolling, jumping in water, or by sliding. Extinguishing the fire on yourself will grant you immunity to burn for 2s. Burn damage scales on the user's Flamecharm investment. Signified by fire particles coming from your character. Additionally, certain objects (notably the long carpets in Voidheart) can also be set on fire and burn the person upon touch.
+This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move and many other sources. Drains your health at a relatively negligible pace. If an unconscious body is set on fire, they will automatically be gripped after 8 seconds if not picked up (5 seconds if the user who applied the fire has the talent Corpse Explosion). Can be gotten rid of by rolling, jumping in water, or by sliding. Extinguishing the fire on yourself will grant you immunity to burn for 2s. Burn damage scales on the user's Flamecharm investment. Signified by fire particles coming from your character. Additionally, certain objects (notably the long carpets in Voidheart) can also be set on fire and burn the person upon touch.
 
 It has a few sub-variants:
 
--   Azure Burning: Has higher burn damage (from 8 DMG per second to 9 DMG per second compared to normal burning).
+-   Azure Burning: Has higher burn damage.
 
 -   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path. Is also applied with the [Curse of Rhaemen's Ember](Enchantments.md#curses) enchant.
 
--   Black Flames: Consumes your ether while you are burning.
+-   Black Flames: Consumes your Ether while you are burning and spawns Puppets. This burn type comes from Wraith Path: Twisted Puppets.
 
 -   White Flames: Flames scale on INT, meaning they can be a lot more deadly. (Currently bugged and does not scale based on INT)
 
@@ -192,6 +204,10 @@ This can be applied by being hit by the [Deep Widow](Deep_Widow.md)'s venomous b
 
 Have your dodge frames lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras
 
+### Tranquil
+
+You lose the ability to cast Mantras but gain complete Mantra immunity instead. Applied with the [Blindseer](Oath%253A_Blindseer.md) Mantra, **Tranquil Circle**. Signified by light grey particles emanating from character, somewhat similar to [Obfuscation's](Enchantments.md#blessings) effect.
+
 ### Anti-Heal
 
 Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by an M1 by someone that has the Talent [All the Dead Gods](Talents.md#heretic) for 8 seconds, or when hit by the first hit of [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack for 10 seconds. The Anti-Heal effectiveness from All the Dead Gods scales on investment up to its combined requirement. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
@@ -211,6 +227,10 @@ While active, suffer from 80% Anti-Heal meaning you will only get healed 20% of 
 ### Charm
 
 Deal 10% less damage to the player who charmed you. If the charmer has the Talent Tough Love, take 10% more damage to the player who has charmed you. Having the [Disbelief](Talents.md#mental-fortress) Talent halves the duration when applied to you. Can be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent and others that grant Overcharm, causing you to take 10% less self-damage and get up from being knocked twice as fast. Signified by hearts appearing around the user.
+
+### Chaotic Charm
+
+Deal an additional 10% less damage to the player who Charmed you and 20% more damage to all other players. This status effect is entirely separate from Charm itself and thus will be entirely unaffected by the Disbelief Talent. No visual effect. Procced when hitting a player who has [Chaotic Charm](Talents.md#charm-caster) while they are under 25% HP.
 
 ### Hidden Tendril
 
@@ -243,6 +263,14 @@ Become tethered to your attacker, being pulled towards them forcefully. Applied 
 ### Nemesis Mark
 
 Become marked for an auto aim katana critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis](Nemesis.md) enchant.
+
+### Mocking Favor: Afflictions
+
+Mocking favor is the outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>). Whenever you taunt (spit) or emote, [Tillian](Tillian.md) or [Aelita](Aelita.md) will spawn and will grant you a random boon or affliction. Due to the large amount of effects this can apply, they'll all be listed together. See the boons side of this Talent [here](#mocking-favor-boons).
+
+-   **Take a Break** - Longer spit cooldown with no other effects. No visual effect.
+-   **Silence** - Suffocation is applied to yourself, removing your ability to cast Mantras for a short duration. Signified by the Suffocation effect.
+-   **Fatigued Swings** - Lowers your Swingspeed. Signified by black multiplication marks falling from your character.
 
 ### Moonseye Mark
 

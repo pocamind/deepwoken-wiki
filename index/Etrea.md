@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 139327
+revid: 141238
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Factions, Etrea]
@@ -71,3 +71,4 @@ The fountain leading to the Hive
 
 -   Like other major factions, they seem to be based on a real-world culture, with Etrea being based on East Asian countries.
 -   In the Kings Garden, much like in Vigils and the hidden village, there is a fountain, it is located next to Lord Regents Palace
+-   interestingly, the Etrea logo is the same as the Deepwoken logo
