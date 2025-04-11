@@ -1,6 +1,6 @@
 ---
 title: Doubled Rates Weekends
-revid: 111767
+revid: 141250
 source: https://deepwoken.fandom.com/wiki/Doubled_Rates_Weekends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics]
@@ -17,11 +17,15 @@ Every real life weekend, certain changes to Deepwoken's quality of life will occ
 
 ## Changes
 
--   All [Chest](Chests_&_Sacks.md) sizes are visually doubled in size and grant twice the number of items, in turn yielding higher rates for high demand [Relics](Relics.md), [Legendary Weapons](Weapons.md) and starred equipment.
-    -   Chest sizes may remain doubled for extended periods.
 -   [Battle Royale](Battle_Royale.md) is open to be played via the Chime of Conflict, always opening on Friday and ending by Monday.
     -   The times at which Battle Royale is unlocked are actually independent of 2x weekends, but coincides for much of the latter's duration.
 -   [Guild Points](Guilds.md) are doubled, so a boss such as [The Ferryman](The_Ferryman.md) will instead give 6 points instead of 3 points towards your guild's "PVE Score".
+
+## Removed Changes
+
+-   All [Chest](Chests_&_Sacks.md) sizes are visually doubled in size and grant twice the number of items, in turn yielding higher rates for high demand [Relics](Relics.md), [Legendary Weapons](Weapons.md) and starred equipment.
+    -   Chest sizes may remain doubled for extended periods.
+        -   It is unknown why doubled chests were removed.
 
 ## Tips
 
