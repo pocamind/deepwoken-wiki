@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141245
+revid: 141256
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -802,11 +802,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   15s cooldown after the burn immunity ends.
     -   Prerequisite: 30 Frostdraw
 
--   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them.
+-   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your Light Attack's and Critical will now freeze chilled opponents on guardbreak.
+    -   Guardbreaking a chilled opponent with a weapon attack will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time.
     -   You can spam F to get out of Freeze faster.
-    -   Not mentioned in the description, but this also freezes enemies who are guardbroken while Chilled.
     -   Prerequisite: 60 Frostdraw.
-    -   Only applies on instant guardbreaks and criticals/M1's
 
 ### Cryonic
 

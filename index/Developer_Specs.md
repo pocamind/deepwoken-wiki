@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 136243
+revid: 141258
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Deepwoken, Developer Specs]
@@ -207,7 +207,7 @@ _For more information about Stag Acrossus/Nuttoons, read Stag Acrossus._
 
 [Soulshot](Soulshot.md) - Exclusive to Nuttoons
 
-Paintbrush - Winning an Art Contest
+[Worldpainter Brush](Worldpainter_Brush.md) - Winning an Art Contest
 
 [Unsung Scythern](Unsung_Scythern.md) - Exclusive Custom.
 

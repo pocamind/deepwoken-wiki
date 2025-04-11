@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 139688
+revid: 141257
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1285,11 +1285,11 @@ Condensation Drip
 
  | 
 
-Passively collect condensation from the air, greatly reducing your thirst. (Approximately 3 times slower)
+Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether)
 
  | 
 
-+4 Ether
+Approximately lower passive thirst gain by 3x.
 
  |
 | 
@@ -1317,11 +1317,13 @@ Fragile Freeze
 
  | 
 
-Your ice Mantras will freeze opponents upon blockbreaking them.
+Your Light Attack's and Critical will now freeze chilled opponents on guardbreak.
 
  | 
 
-N/A
+Guardbreaking a chilled opponent with a weapon attack will [encase them in ice](Status_Effects.md#frozen), removing their ability to move, parry, block, or dodge for a short amount of time.  
+
+You can spam F to get out of Freeze faster.
 
  |
 | 
@@ -1395,11 +1397,9 @@ Glacial Coasting
 
  | 
 
-Sliding while Orbital Ice is active leaves trails of ice.
+Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility)
 
  | 
-
-+1 Passive Agility
 
  |
 | 
@@ -1411,11 +1411,10 @@ Orbital Ice
 
  | 
 
-When landing a parry while standing on ice, automatically forms a ring of gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage, scaling with Frostdraw.
+When landing a parry while standing on ice, automatically forms a ring of gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage, scaling with Frostdraw. (+2 Passive Agility)
 
  | 
 
-+2 Passive Agility.  
 90 Second Cooldown.
 
  |
@@ -1439,7 +1438,7 @@ Cast while sliding to perform a running attack with your ice sabers.
 
  | 
 
-N/A
+The Talent activates after you've slide jumped, and not during the slide jump, contrary to the Talent description.
 
  |
 | 
@@ -1478,7 +1477,7 @@ Your slow effect prevents your opponents from rolling.
 
  | 
 
-N/A
+Only procs on Mantras. Lasts for the first 1.5s of Chill duration. Does **not** work with Crystallization Path.
 
  |
 
@@ -1503,7 +1502,10 @@ Your ice abilities no longer grant a slow effect or the ability to freeze and in
 
  | 
 
-N/A
+Your Frostdraw Mantras, Chilling Enchant, and Legendary Weapons (like [Gran Sudaruska](Gran_Sudaruska.md)) are now a reddish pink.  
+
+Applying chill, freeze, or frost elemental damage applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals or guard breaking your opponent while they have crystals makes them explode. Crystals explosions deal 3 damage with 5 scaling (+0.015 damage per point in Frostdraw) per crystal.  
+1 second cooldown on crystal explosions.
 
  |
 | 
@@ -1521,7 +1523,7 @@ Your Crystal explosions now have an AoE that applies crystals to all hit.
 
  | 
 
-N/A
+Will also damage the target that procced the crystal explosion, increasing total damage.
 
  |
 | 
