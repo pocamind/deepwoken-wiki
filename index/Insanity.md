@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 140833
+revid: 141274
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -63,6 +63,7 @@ When losing enough sanity, the player will incur negative effects.
 -   Drinking or being splashed by a Heartening potion.
 -   The [Conquer Your Fears](Talents.md) Talent.
 -   The Castle Light sanity aura, which is exclusive to the [Deepbound](Origins.md) origin.
+-   The Chariot's Spire sanity aura, which is exclusive to the [Ignition Delver](Origins.md) origin.
 
 ## Trivia
 

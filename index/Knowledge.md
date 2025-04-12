@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 141172
+revid: 141276
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -56,6 +56,7 @@ Achieving milestones and completing certain quests will award the player with Kn
     -   Killing [Duke Erisia](Duke_Ishamon_Erisia.md) while having dealt at least (Unknown %) of his HP. This rewards 1 Knowledge and can be repeated.
 -   Killing the [Scion of Ethiron](Scion_of_Ethiron.md) for the first time, awarding 2 Knowledge.
 -   Killing a [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
+-   Killing the Attunement Trainers for [Silentheart](Oath%253A_Silentheart.md), awarding 1 knowledge each for a total of 6 knowledge.
 -   Killing the following monsters for the first time, awarding 1 Knowledge each:
     -   [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Megoladaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md), [Rock Golem](Rock_Golem.md), [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md), [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md), [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md), and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md).
 -   Using the [Moonseye Tome](Moonseye_Tome.md) relic, which grants 100 Knowledge the first time, then 50 Knowledge for each subsequent uses.

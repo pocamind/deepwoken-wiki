@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 141235
+revid: 141272
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -92,7 +92,7 @@ At the cost of draining all of your armor, your M1 and Critical attacks bypass y
 
 ### Overcharm
 
-Apply charm every M1 and Mantra landed, even without having the Charismatic Cast or Tough Love Talents. Deal 10% more damage with basic attacks to enemies charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md#sing) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also self proc [Charm](#charmed), reducing your self damage by 10%.
+Apply charm every M1 and Mantra landed, even without having the Charismatic Cast or Tough Love Talents. Deal 10% more damage with basic attacks to enemies charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md#sing) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also self proc [Charm](#charmed), thereby reducing your self-damage by 10%.
 
 ### Mark of Jurik
 
