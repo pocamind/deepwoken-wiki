@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141256
+revid: 141282
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -434,7 +434,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 30%. (+5 Health)
     -   Scales linearly with investment up to its requirement. You'll have 10% pen reduction at 65 FTD and gain 0.8% PEN reduction per point in FTD above 65; scaling up to the full 30% once you hit 90 FTD.
-    -   PEN calculation: incoming PEN \*0.7 = reduced incoming PEN. (However, Reinforced Armor does not reduce damage that entirely bypasses your armor (e.g. Oath damage))
+    -   PEN calculation: incoming PEN \*0.7 = reduced incoming PEN.
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer
@@ -1880,8 +1880,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"My mind is indomitable."**_
 
 -   Breathing Exercise \[Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+5 Health)
-    -   Your passive sanity regen is increased.
+    -   Your passive sanity regen is increased by 50%
         -   You do not regen sanity when something is actively draining it, like being in The Depths.
+    -   Increases passive sanity regeneration at day time 0.25>0.375 sanity per second (0.05>0.075 during night time), Campfire sanity regen 0.5>0.75 sanity per second.
     -   Prerequisite: 5 Willpower
 
 -   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. When an Ally grips an enemy nearby to you, you regain Sanity. (+3 Sanity)

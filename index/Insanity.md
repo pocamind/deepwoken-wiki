@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 141274
+revid: 141279
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -57,8 +57,8 @@ When losing enough sanity, the player will incur negative effects.
 
 ## Sanity Restoring Effects
 
--   Passive sanity regeneration. (Disabled in the Depths)
--   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md)) (Graceful Flame included)
+-   Passive sanity regeneration. Regen 0.25 sanity per second at day time and 0.05 at night time. (Disabled in the Depths)
+-   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md)) (Graceful Flame included) regenerates 0.5 sanity per second.
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
 -   Drinking or being splashed by a Heartening potion.
 -   The [Conquer Your Fears](Talents.md) Talent.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 140835
+revid: 141277
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -6678,7 +6678,7 @@ Found from:
     -   Due to this, you'll have to take the following theoretical kits with a grain of salt, as this bug could result in higher maximums.
 -   Highest theoretical **stealth** kit in game is 30% stealth. (10% Dark Owl Chapeau, 6% Mercenary's Garb/Ministry Cloak/Dark Owl Cloak, 5% Shrouded Capes, 6% Duelist Mask, 3% Master Thief Earrings)
 -   Highest theoretical **ETH** kit in game is 375 ETH. (4x 27 ETH Moon and Waning Rings, 68 ETH (Drowned) Diver's Light Plate, 36 ETH Scarf, 54 ETH Hood, 54 ETH Boots, 27 ETH Hivelord Mask, 32 ETH Old Blood Earrings)
--   Highest theoretical **Posture** kit is 19 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
+-   Highest theoretical **Posture** kit is 20 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 1 Threadwork Kilt, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
 -   Highest theoretical **HP** kit in game is 170 HP. (2x 9 HP Moon and 2x 9 HP Waning Rings, 47 HP (Drowned) Diver's Light Plate/Bastions of Enmity, 18 Fauld of Emnity, 32 HP Parasol Planter, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings, 5 HP Citadel Frames)
     -   Having multiple pieces of equipment with drowned **does not increase your stats further.**
 -   Highest theoretical **DvM** kit in game is 72% DvM. (3x 4% DvM Rings, 7% DvM Diver's Ring (depths only), 19% DvM (Drowned) Pathfinder Elite, 8% DvM Fauld of Enmity, 10% DvM Warlock's Brim/Aegis of Enmity, 10% DvM Wartreads of Enmity, 3% DvM Hivelord's Mask/Royal Guard, 3% DvM Earrings)
