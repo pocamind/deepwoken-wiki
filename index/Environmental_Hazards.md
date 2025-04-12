@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 140457
+revid: 141304
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,7 +24,7 @@ categories: [Mechanics]
 <tr>
   <td>Rain</td>
   <td>Everywhere (Excluding Starswept Valley, <a href="The_Depths.md">Depths</a>), summoned via <a href="Rain_Spire.md">Rain Spire</a>.</td>
-  <td>Procs certain Talents, All uncovered lit campfires are snuffed out after a few seconds (not including flamecharm's graceful flame).</td>
+  <td>Procs certain Talents, All uncovered lit campfires are snuffed out after a few seconds (not including Flamecharm's Graceful Flame).</td>
 </tr>
 <tr>
   <td>Hail</td>

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 140622
+revid: 141310
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -92,13 +92,13 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
         -   Given as a Talent tool.
         -   Flow state changes the behavior of a move
-            -   does increased damage
+            -   Does increased damage
                 -   e.g. medium mayhem damage (20 -> 35), medium rising star (30 -> 40), medium relentless hunt (30 damage overall -> 40 damage overall)
-            -   medium and heavy mayhem autogrip
-            -   light relentless hunt now returns to the user back to their original position and preforms a secondary slash there
+            -   Medium and heavy mayhem autogrip
+            -   Light relentless hunt now returns to the user back to their original position and preforms a secondary slash there
                 -   You can reload during the second slash
-            -   changes windup of ankle cutter and possibly other moves
-            -   _**although it does provide buffs it adds a loud whooshing sound effect right before you do the move**_
+            -   Changes windup of ankle cutter and possibly other moves
+            -   _**Although it does provide buffs it adds a loud whooshing sound effect right before you do the move**_
         -   Active for 1 second. ~4s CD.
 
 -   **Mayhem - Passive**
@@ -151,10 +151,11 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 ## Notes
 
 -   Dying to an attunement user does not necessarily mean being gripped. Dying by any method as long as they are the killer will work.
+-   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) **(ALL OF THESE ARE UNCOMFIRMED)**
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random Talents.
     -   You're also still able to be given a whisper on level up.
     -   The Mantra from [Kelsius](Kelsius.md) CAN be exchanged for Talents.
--   The No Attunement trainer Regek cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadheart.
+-   The Attunement-less trainer, Regek, cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadstar.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   [Vyrelda](Vyrelda,_Master_of_Blood.md) simply tells the player "I don't have time for this" and makes no other comment.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
@@ -162,9 +163,8 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 -   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md) and [Amashi](Amashi,_Master_of_Flame.md)(Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
     -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Origins.md) and faction ambushes won't come after you.
 -   Rising star is not used by pressing your Control + M2 keys, but by pressing your Crouch + Feint keybinds (whatever they are for you). For example, if you have Crouch on the C key and Feint on the F key, you need to press C + F to use Rising Star
--   If the Dreadstar doesn't appear, interact with one of the Ghosts on the ship.
--   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ Talent card with a different description alongside the old Talent set. (image attached)
--   The Silentheart Talent description says that it halves weapon stat requirements; but this is incorrect, as it was changed to 25 less investment points in the same update that Silentheart was reworked. The Talent card was never changed.
+-   To make the Dreadstar appear, interact with one of the Ghosts on the ship and fight them.
+-   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ Talent card with a different description alongside the old Talent set. (image attachment)
 
 ## Trivia
 

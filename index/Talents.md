@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141282
+revid: 141303
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -564,9 +564,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
     -   Prerequisites: Use a Greataxe, 30 Heavy Weapon
 
--   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown).
-    -   Can be procced by bleed, allowing for hitstun from a single M1 to proc Brazen Blow.
-    -   Procs by hitting someone through block with chip DMG ([Obfuscation Enchant](Enchantments.md), Precision Swing, Inniate chip DMG and etc)
+-   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown)
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapon
 
 -   _Heavy Fatigue_ \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
