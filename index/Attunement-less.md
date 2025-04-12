@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 140988
+revid: 141295
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]

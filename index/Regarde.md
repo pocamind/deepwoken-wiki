@@ -1,21 +1,33 @@
 ---
 title: Regarde
-revid: 141269
+revid: 141294
 source: https://deepwoken.fandom.com/wiki/Regarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Regarde
 
-place that he is located at
+## Description
 
-regarde bro
+An invisible NPC, with his model missing or being bugged, located in Heart Plaza in the [Greathive Aratel](Greathive_Aratel.md).
 
-there's a hidden npc in hives, perhaps bugged, he is located on the 3rd floor in the hive aratel.
+After interacting with him, he sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) similarly as [Evengarde Rest](Evengarde_Rest.md) or the [Instructor](Blade_Instructor.md) in [Isle of Vigils](Isle_of_Vigils.md), with the difference being he is invisible even in the Temple Sparring Hall. He also seems to be very broken while fighting him.
 
-File:Regarde3.png
+## Dialogue
 
-the dialogue when you talk to him
-
-He acts like a spar trainer, teleporting to the spar section
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Feh. Y'look like a fighter. By my eye, I reckon. Fancy a spar?</td>
+</tr>
+<tr>
+  <td>Let's spar.</td>
+</tr>
+<tr>
+  <td>End.</td>
+</tr>
+</tbody>
+</table>

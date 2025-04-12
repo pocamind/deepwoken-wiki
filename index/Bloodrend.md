@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 140939
+revid: 141296
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -59,8 +59,6 @@ Bloodrend Unbound can be obtained by defeating any humanoid boss (Duke, Chaser, 
 ## Mantras
 
 Bloodrend currently has a total of 17 mantras.
-
-  
 
 ### Combat Mantras
 
