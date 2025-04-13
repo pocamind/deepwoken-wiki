@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 141270
+revid: 141322
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -12,7 +12,7 @@ categories: [Character, Attributes]
 
 Character attributes will permanently be unbounded if you have previously done the quest on that slot before, allowing you to unbind your attribute after 75 without repeating the quest. This is a permanent unbound in all character slots without each slot requiring to do the quest to unbound.
 
-[Attributes](Attributes.md) are normally allowed to go up to 75. Obtaining these uncapping cards allow the player to go up to 100. Only a handful of Talents require stats past 75, so uncapping is not a necessity for every build. (Note that racial bonuses affect caps, letting you reach 77 and 102 respectively.)
+[Attributes](Attributes.md) are normally allowed to go up to 75. Obtaining these uncapping cards allow the player to go up to 100. Only a handful of Talents require stats past 75, so uncapping is not a necessity for every build. (Note that racial bonuses affect caps, letting you reach 77 and 102 respectively.) Do note that if your Aspect gives a stat bonus in a specific stat, then you will need to reach that new cap in order to gain the unbound card. (eg. you have a cap of 78 agility instead of 75 from Tiran's racial bonus, then in order to get Agility Unbound when talking to the Windrunner you will need to have 78 agility.)
 
 ## Character Attributes Unbound
 

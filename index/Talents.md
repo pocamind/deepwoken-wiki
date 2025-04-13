@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141303
+revid: 141320
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -387,11 +387,6 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
     -   Prerequisites: 60 Thundercall, Power 10
 
--   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage and posture damage to you.
-    -   Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
-    -   This also only applies to weapon attacks.
-    -   Prerequisites: 65 Thundercall, First Interrogation
-
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Electrified targets have their physical attack deal lightning damage instead and deal 10% less damage.
     -   Electrified only reduces damage from weapon attacks.
@@ -406,6 +401,10 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Ether given is equal to half of the attack's unmodified damage.
     -   Still gives ether even if you block, parry, or dodge their attack.
     -   Prerequisites: 65 Thundercall, Resolve Crusher
+-   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage and posture damage to you.
+    -   Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
+    -   This also only applies to weapon attacks.
+    -   Prerequisites: 65 Thundercall, First Interrogation
 
 ### Bastion
 

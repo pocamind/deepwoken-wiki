@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 139133
+revid: 141319
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Multiple Criticals]
@@ -31,7 +31,11 @@ The Iron Requiem is a [Legendary](Weapons.md#elemental) [Ironsing](Ironsing.md)\
 
 The Iron Requiem has a [Bullet](Bullet_Casings.md) capacity of 6, meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
 
-Meeting requirement for this weapon gives you 29.3 dmg with 0 prof. (Standing crit does 58 dmg and running one 66, with no gun talents)
+Meeting requirement for this weapon gives you 29.3 dmg with 0 prof
+
+Critical has 42 base dmg with 5 ironsing scale, 0.4s windup, 14 posture per hit.
+
+Running critical has 12 base dmg per hit, 5 ironsing scale, 0.55s windup, 1.5 posture per hit.
 
 M1s without bullets apply Bleed dmg. M1s with bullets proc talents and have better range
 
