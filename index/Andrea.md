@@ -1,6 +1,6 @@
 ---
 title: Andrea
-revid: 133583
+revid: 141312
 source: https://deepwoken.fandom.com/wiki/Andrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the First Layer]
@@ -73,7 +73,7 @@ Andrea is located inside [Celtor City](The_City_of_the_Drowned.md), sitting outs
   <td colspan="6">The Trial isn't anything to worry about.</td>
 </tr>
 <tr>
-  <td colspan="6">Yeah. You think I don't know that? I don't have a choice. It's either take the trial or rot away here in this city. You've seen the gaurds, right? People who linger here too long lose... their <i>self</i>.</td>
+  <td colspan="6">Yeah. You think I don't know that? I don't have a choice. It's either take the trial or rot away here in this city. You've seen the guards, right? People who linger here too long lose... their <i>self</i>.</td>
   <td colspan="6">*She weighs up your words for a moment, reading your face.* You're either lying to my face or you're a fool. People rot away in this city for a reason. Few are strong enough to attempt the Trial, and even more scarce are those strong enough to last out <i>there</i> in the wastes.</td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 140783
+revid: 141315
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -117,7 +117,7 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
   <td colspan="12"></td>
   <td colspan="12"></td>
   <td colspan="6"></td>
-  <td colspan="6">The myths differ in their accounts, but they speak of him travelling to the Southern Luminant to strike a deal with an entity of some kind. Some attributu it to Mur, others to something more ancient. Perhaps even something from *below...</td>
+  <td colspan="6">The myths differ in their accounts, but they speak of him travelling to the Southern Luminant to strike a deal with an entity of some kind. Some attribute it to Mur, others to something more ancient. Perhaps even something from *below...</td>
 </tr>
 <tr>
   <td colspan="12"></td>

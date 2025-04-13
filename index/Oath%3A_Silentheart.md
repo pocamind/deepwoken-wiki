@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 141310
+revid: 141311
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -170,6 +170,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 
 -   The lines that adorn a Silentheart's arms and chest are tattoos, not veins.
     -   Despite this, they will lose their coloration should the Silentheart be killed by [Blood Scourge](Blood_Scourge.md), which specifically drains blood.
+-   After completing Silentheart (e.g killing all the attunement trainers) they will have a new unique dialogue option, that being "Your Ether ... Just what have you done?" signifying that obtaining SilentHeart may alter your ether in a very bad way
 -   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have Talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
 -   The color of Silentheart's arm-tattoos/markings can be changed with a [Dye Packet](Dye_Packet.md). This will also change the color of **Dread Fighter**, **True Vantage** vent, and other Silentheart effects.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands.[\[1\]](#cite-note-1)
