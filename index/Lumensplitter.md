@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 141285
+revid: 141329
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weapons with Unique Criticals, Greatswords, Heavy Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Pages with broken file links, Weapons with Unique Critical
 
 ## Description
 
-The Lumensplitter is a Legendary Greatsword; a large, serrated curved blade consisting of teeth-like prongs tied together amongst a black chassis. It can only be obtained by defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). Its m1's consist of 3 slashes followed by a kick.File:Lumensplitter m1.gif
+The Lumensplitter is a Legendary Greatsword; a large, serrated curved blade consisting of teeth-like prongs reeling back toward a black chassis. It can only be obtained by defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). Its m1's consist of 3 slashes followed by a kick.File:Lumensplitter m1.gif
 
 ## Critical
 
