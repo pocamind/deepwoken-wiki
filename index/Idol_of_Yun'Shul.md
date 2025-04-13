@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 139505
+revid: 141326
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -31,6 +31,8 @@ _(one-time use, re-obtainable)_
 -   Upon usage for bell rerolling, you'll obtain the Tarnished flaw.
     -   You cannot use an Idol of Yun'Shul to bell reroll until you untarnish yourself.
 -   Can't be used in Combat. Dialogue appears saying "The Idol won't respond to a panicked heart."
+-   Cannot be used for [Oathbreaker](https://deepwoken.fandom.com/wiki/Oaths#Oathbreaker_-_Oath_Removal)
 -   Cannot be used to talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) for [Contractor](Oath%253A_Contractor.md) Progression
+-   Cannot be used to talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) to attain [Soulbreaker](Oath%253A_Soulbreaker.md)
 -   It functions without the need of a Resonance, but will not provide you one.
 -   Cannot be used to escape the depths in [Layer 2](Second_Layer.md) or in [Fragments of Self](Fragments_of_Self.md).

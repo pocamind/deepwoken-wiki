@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141320
+revid: 141324
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1770,7 +1770,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Leaf in the Wind."**_
 
 -   _Observation_ \[Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
-    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll.
+    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames
     -   Prerequisite: 20 Agility
     -   Mutual Exclusive: Risky Moves
 
