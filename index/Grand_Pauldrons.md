@@ -1,6 +1,6 @@
 ---
 title: Grand Pauldrons
-revid: 117139
+revid: 141339
 source: https://deepwoken.fandom.com/wiki/Grand_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -26,7 +26,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Grand Pauldrons is an [Equipment](Equipment.md) item under the "Arms" category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md) ([First Layer](First_Layer.md)).
+The Grand Pauldrons is an [Equipment](Equipment.md) item under the "Arms" category. The stats and Pips gained from equipping them have not yet been documented. They are commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md) ([First Layer](First_Layer.md)).
 
 ## Trivia
 

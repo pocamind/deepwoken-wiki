@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 141311
+revid: 141343
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -70,22 +70,21 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
--   All Silentheart moves have doubled damage in PVE.
 -   All Silentheart moves deal Oath damage, not slash/weapon/mantra.
 
 ## Abilities
 
 -   **Ankle Cutter - Passive**
     -   You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
-        -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1.
+        -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1 and adding 30% as bleed dmg.
         -   Can be used while sliding down slopes at no cost to your speed.
-        -   Flow state makes ankle cutter faster.
+        -   Flow state makes ankle cutter faster as well as increasing DMG by 48%
         -   5 seconds cooldown.
 
 -   **Dread Fighter - Passive**
     -   Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
-        -   Stacks up to ? times and each stacks grant ?% mantra resistance.
+        -   Stacks up to 5 times and each stacks grant 5% mantra resistance leading to total 25% resistances.
 
 -   **Flow State - Active**
     -   Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
@@ -94,6 +93,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   Flow state changes the behavior of a move
             -   Does increased damage
                 -   e.g. medium mayhem damage (20 -> 35), medium rising star (30 -> 40), medium relentless hunt (30 damage overall -> 40 damage overall)
+                -   Heavy mayhem (30.9 -> 30.9), Heavy rising star (41.2 -> 41.2), Heavy Relentless hunt (25.75 -> 30.9)
             -   Medium and heavy mayhem autogrip
             -   Light relentless hunt now returns to the user back to their original position and preforms a secondary slash there
                 -   You can reload during the second slash
@@ -145,7 +145,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
 
 -   **Vengeful Pursuit - Passive**
-    -   Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.
+    -   Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you
         -   8 seconds cooldown.
 
 ## Notes
