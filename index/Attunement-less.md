@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 141295
+revid: 141333
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -439,7 +439,7 @@ N/A
  |
 | 
 
-**Effect:** _User drums their shield before lowering the posture of nearly allies and themselves. Applies Rally onto nearby allies which causes posture taken to be transferred to the Rally user._
+**Effect:** _User drums their shield before lowering the posture of nearby allies and themselves. Applies Rally onto nearby allies which causes posture taken to be transferred to the Rally user._
 
 -   Levelling up this Mantra increases how much posture is restored on cast.
 

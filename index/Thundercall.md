@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 140396
+revid: 141332
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -737,6 +737,7 @@ N/A
 -   A combative action, such as blocking, parrying, or attacking, must be used within **6.5 seconds** or the mantra is deactivated and goes on cooldown.
 -   Lasts a duration of 6.5 – 60 seconds.
 -   Cannot last longer than 60 seconds.
+-   If the caster's ether goes to 0, lightning cloak will immediately end.
 -   Slower ether regen while active.
 
  |
