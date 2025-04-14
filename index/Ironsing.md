@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 139354
+revid: 141348
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -947,7 +947,6 @@ N/A
 -   Regenerates 10% (FIXED %) of armor at level 5.
 -   Applies Metal Rod on vents.
 -   Armor Regeneration is scaled with level.
--   Armor Regeneration will only be triggered when none of it is wasted. (After 5 seconds of not being hit)
 
  |
 

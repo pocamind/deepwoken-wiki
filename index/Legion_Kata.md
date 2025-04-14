@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 139466
+revid: 141351
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -26,7 +26,7 @@ categories: [Weapons, Fists, Fighting Styles]
 
 “ Gain the ability to use the Legion's martial arts. ”
 
-―
+― Style description
 
 ## Description
 
@@ -36,7 +36,7 @@ While Legion Kata has the same damage as **Way of Navae**, the critical possesse
 
 ### Critical
 
-User performs a suplex, turning their opponent upside down and firmly slamming them into the ground. You are able to spit while using it, effectively giving the critical a lifesteal effect.
+User performs a suplex, turning their opponent upside down and firmly slamming them into the ground.
 
 ## Obtainment
 

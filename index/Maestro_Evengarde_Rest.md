@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 141191
+revid: 141354
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -340,7 +340,6 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
 
 ## Trivia
 
--   Maestro's sword is a dark purple color. And it may look like he has [Murmur : Ardour](Murmur%253A_Ardour.md), but he doesn't. He just painted it.
 -   The music of his bossfight is [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) by Naktigonis.
 -   The fight is a homage to _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_, the game that inspired Deepwoked setting. Many of the moves reference its 9abilities and bosses, such as [Genichiro Ashina](https://sekiro-shadows-die-twice.fandom.com/wiki/Genichiro_Ashina) or the [One Mind Combat Art](https://sekiro-shadows-die-twice.fandom.com/wiki/One_Mind).
     -   For example, the green trails on his blade are inspired by the red trails of the [Mortal Blade](https://sekiro-shadows-die-twice.fandom.com/wiki/Mortal_Blade), wielded by the protagonist [Wolf](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro).
@@ -363,4 +362,4 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
     -   This also lowers your [Etrea](Etrea.md) reputation greatly, usually setting it to Neutral or lower depending on your current standing.
 -   The specific weapon of a different type can still drop if you're using a different weapon type. (Ex: Cerulean Thread dropping while using medium).
 -   His Hair ID is 6101425666.
--   He has Heterochromia (meaning both his eyes are different colors). It is unknown if he is born with this or it's somehow gained from his powers.
+-   He has heterochromia, meaning both his eyes are different colors). It is unknown if he is born with this or it's somehow gained from his powers.
