@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 141222
+revid: 141374
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -222,6 +222,12 @@ This page is about content that has either been removed or changed drastically i
     -   In the August 16th, 2024 update, Wildfire became base behavior Fire Palm.
 -   **Aggressive Posture \[Common Talent\]** - Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
     -   In the January 31st, 2025 update, Aggressive Posture has been removed due to clashing with a new mechanic called Backstepping
+-   **_Warrior's Respite_ \[Rare Talent\]** - Stop moving for 15 seconds in order to initiate healing.
+    -   In the April 15st, 2025 update, Warrior's Respite talent was made innate.
+-   **Duelist's Dance \[Common Talent\]** - Parrying an opponent gives you 25% more posture back. (+1 Posture, +4 Carry Load)
+    -   In the April 15st, 2025 update, Duelist's Dance talent was removed due to the fact that Duelist's Dance and Harsh Response were canceled each other and were mandatory on every build.
+-   Harsh Response \[Common Talent\] - Enemies receive less posture back when parrying your attacks.
+    -   In the April 15st, 2025 update, Harsh Response talent was removed due to the fact that Duelist's Dance and Harsh Response were canceled each other and were mandatory on every build.
 
 ## Other
 

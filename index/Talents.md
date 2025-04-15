@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141359
+revid: 141373
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -353,6 +353,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Deep Wound \[Common Talent, Light\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.
     -   The damage increase granted from this Talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
     -   The anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
+    -   Leaves cloud like particles similar to ATDG but red.[\[1\]](#cite-note-1)
     -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" has this Talent.
     -   Prerequisite: 35 Agility
 
@@ -716,10 +717,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I stand far above others, an insurmountable challenge."**_
 
 -   _Destructive Recovery_ \[Rare Talent\] - \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load)
-    -   Prerequisites: 25 Strength & 40 Heavy Weapon, Harsh Response, Use a Greatsword
-
--   Harsh Response \[Common Talent\] - Enemies receive less posture back when parrying your attacks.
-    -   Prerequisite: 25 Strength
+    -   Prerequisites: 25 Strength & 40 Heavy Weapon, Use a Greatsword
 
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 10%.
     -   Active on every heavy weapon.
@@ -929,9 +927,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Enemies remain knocked for 15 seconds instead of 10.
     -   Prerequisite: 15 Strength
     -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this Talent.
-
--   Duelist's Dance \[Common Talent\] - Parrying an opponent gives you 25% more posture back. (+1 Posture, +4 Carry Load)
-    -   Prerequisite: 20 Strength
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will gain 5% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
     -   If your critical hits a block, this Talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit)
@@ -1292,7 +1287,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Neuroplasticity_ \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
-    -   Prerequisite: 35 Mind (35 Charisma OR 35 Intelligence OR 35 Willpower)[\[1\]](#cite-note-1)
+    -   Prerequisite: 35 Mind (35 Charisma OR 35 Intelligence OR 35 Willpower)[\[2\]](#cite-note-2)
 
 ### Glassdancer
 
@@ -1750,7 +1745,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
 
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
-    -   Has scaling, but it barely exists.[\[2\]](#cite-note-2)
+    -   Has scaling, but it barely exists.[\[3\]](#cite-note-3)
     -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
 
 ### Leader
@@ -1866,12 +1861,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Impervious Slumber_ \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked.
     -   Prerequisite: 35 Fortitude
 
--   _Warrior's Respite_ \[Rare Talent\] - Stop moving for 15 seconds in order to initiate healing.
-    -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect.
-    -   Does not activate when on moving ships.
-    -   Does activate when in water and with spawn immunity.
-    -   Prerequisite: 15 Fortitude
-
 ### Mental Fortress
 
 > _**"My mind is indomitable."**_
@@ -1937,7 +1926,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
     -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
-    -   Can stack up to 20 times, for a 100% damage boost.[\[3\]](#cite-note-3)
+    -   Can stack up to 20 times, for a 100% damage boost.[\[4\]](#cite-note-4)
         -   This effect is not accounted for in the 75% damage boost cap.
     -   Lose the entirety of the damage boost after taking damage. (Excludes self damage from sources like Flame Within and Jumpstart, but not fall damage.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
@@ -2411,7 +2400,7 @@ _**"My cure is most effective."**_
     -   Extra 5% armor drain on flourish/crit, as example 2% from pulled out rod + Reshape and Remold applies bonus 5%
     -   Bonus armor drain works **ONLY ON CRIT OR FLOURISH**, not on further hits after that.
     -   5% DMG bonus currently bugged. (Since Summer 2023)
-    -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[4\]](#cite-note-4)
+    -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[5\]](#cite-note-5)
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
 ### Seeker of Sound
@@ -3592,7 +3581,8 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 
 ## References
 
-1.  [↑](#cite-ref-1) File:Neuro.png
-2.  [↑](#cite-ref-2)
-3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
-4.  [↑](#cite-ref-4)
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2) File:Neuro.png
+3.  [↑](#cite-ref-3)
+4.  [↑](#cite-ref-4) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
+5.  [↑](#cite-ref-5)
