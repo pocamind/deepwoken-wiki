@@ -1,6 +1,6 @@
 ---
 title: "Alchemist's Hat"
-revid: 133012
+revid: 141386
 source: https://deepwoken.fandom.com/wiki/Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -16,7 +16,7 @@ categories: [Equipment, Head, Hats, Items]
 | requirements | None |
 | weight | 1 |
 | innate stats | +1 Uncommon Pip |
-| innate talent | Apothecary,Pitcher |
+| innate talent | Apothecary |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Hats, Items]
 
 ## Description
 
-The Alchemist's Hat is an [Equipment](Equipment.md) in the "_Head_" category. Equipping this will give you the [Pitcher](Talents.md) and [Apothecary](Talents.md) Talents, along with the randomized stats you get from the Pips. It can be found in chests from [Hive](Greathive_Aratel.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The First Layer](First_Layer.md), and from bounties.
+The Alchemist's Hat is an [Equipment](Equipment.md) in the "_Head_" category. Equipping this will give you the [Apothecary](Talents.md) Talent, along with the randomized stats you get from the Pips. It can be found in chests from [Hive](Greathive_Aratel.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The First Layer](First_Layer.md), and from bounties.
 
 ## Trivia
 

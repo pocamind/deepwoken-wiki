@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 141374
+revid: 141389
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -226,8 +226,10 @@ This page is about content that has either been removed or changed drastically i
     -   In the April 15st, 2025 update, Warrior's Respite talent was made innate.
 -   **Duelist's Dance \[Common Talent\]** - Parrying an opponent gives you 25% more posture back. (+1 Posture, +4 Carry Load)
     -   In the April 15st, 2025 update, Duelist's Dance talent was removed due to the fact that Duelist's Dance and Harsh Response were canceled each other and were mandatory on every build.
--   Harsh Response \[Common Talent\] - Enemies receive less posture back when parrying your attacks.
+-   **Harsh Response \[Common Talent\]** - Enemies receive less posture back when parrying your attacks.
     -   In the April 15st, 2025 update, Harsh Response talent was removed due to the fact that Duelist's Dance and Harsh Response were canceled each other and were mandatory on every build.
+-   **Pitcher \[Common Talent\]** - You can throw things further. (+3 Carry Load, +1 Passive Agility)
+    -   In the April 15st, 2025 update, Pitcher has been made innate.
 
 ## Other
 

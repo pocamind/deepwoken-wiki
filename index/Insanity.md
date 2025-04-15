@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 141279
+revid: 141391
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -58,10 +58,11 @@ When losing enough sanity, the player will incur negative effects.
 ## Sanity Restoring Effects
 
 -   Passive sanity regeneration. Regen 0.25 sanity per second at day time and 0.05 at night time. (Disabled in the Depths)
+    -   The [Breathing Exercise](Talents.md#mental-fortress) grants 50% more passive sanity regeneration, granting 0.375 sanity during the day, and 0.075 sanity at night.
 -   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md)) (Graceful Flame included) regenerates 0.5 sanity per second.
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
 -   Drinking or being splashed by a Heartening potion.
--   The [Conquer Your Fears](Talents.md) Talent.
+-   The [Conquer Your Fears](Talents.md#mental-fortress) Talent grants sanity when depths mobs die or when allies grip humanoid enemies near you.
 -   The Castle Light sanity aura, which is exclusive to the [Deepbound](Origins.md) origin.
 -   The Chariot's Spire sanity aura, which is exclusive to the [Ignition Delver](Origins.md) origin.
 

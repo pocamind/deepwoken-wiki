@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141373
+revid: 141390
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -373,10 +373,6 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 ### Athlete
 
 > _**"I am athletic."**_
-
--   Pitcher \[Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility)
-    -   Prerequisites: 5 Strength, 5 Agility, throw an object and hit a player/npc.
-    -   The head Equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this Talent.
 
 -   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility)
     -   Prerequisite: Power 1
@@ -2680,7 +2676,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this Talent.
 
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
-    -   Prerequisites: Herbivore, 10 Fortitude, vomit once
+    -   Prerequisites: 20 Fortitude or 20 Willpower, vomit once
     -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this Talent.
 
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible. (+3 Health)

@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 140959
+revid: 141382
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,13 +27,11 @@ In order of carry load given:
 -   _Gourmand_ gives 2 carry load.
 -   _Unstoppable_ Force gives 2 carry load.
 -   _Destructive Recovery_ gives 2 carry load.
--   _Pitcher_ gives 3 carry load.
 -   _Pocket Sand_ gives 4 carry load.
 -   _Unwavering_ Resolve gives 4 carry load.
 -   _Shield Breaker_ gives 4 carry load.
 -   _Captain Etrea_ gives 4 carry load.
 -   _Lootskipper_ gives 4 carry load.
--   _Duelist's Dance_ gives 4 carry load.
 -   _Spine Cutter_ gives 6 carry load.
 -   _Face Cutter_ gives 6 carry load.
 -   _Turning of the Wheel_ gives 6 carry load.
@@ -55,7 +53,7 @@ In order of carry load given:
 -   _Gathering Electricity_ gives 10 carry load.
 -   _Concussive Flash_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would theoretically provide 194 carry load.
+All of these [Talents](Talents.md) combined would theoretically provide 187 carry load.
 
 ### Other Sources
 
@@ -89,12 +87,13 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **569**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **683**.
+Combining both Talents and other sources, the total amounts to **562**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **674**.
 
-Due to attribute limitations, the current best carry load build can only get **546**/**655** carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
+Due to attribute limitations, the current best carry load build can only get 539/647 carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
 
 -   If you create a build that can get more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
 
 ## Trivia
 
 -   Interestingly, if you reduce your carry load (by taking off a backpack, for example) while at maximum capacity, you can still carry your previous max amount of items, even after rejoining. Though, if you drop any item, you won't be able to pick it back up.
+-   Two talents, _Pitcher_ and _Duelist's Dance,_ used to give 3 and 4 carry load respectively, but were removed on April 15th, 2025. This is the only time carry load has been removed from the game.
