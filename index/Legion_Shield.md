@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 129170
+revid: 141358
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, The Hundred Legions, Offhand]
@@ -28,5 +28,4 @@ A Khan Shield is a [side weapon](Weapons.md) in the Shield category. It can be o
 
 ## Trivia
 
--   The head on the face of the shield is of the Legion Praetorian mentioned in the [Imperial Staff](Imperial_Staff.md) description.
--   Seems to be a very rare drop (needs proof)
+-   The practions of decorating Khan Shields with face may be a reference to the shield of Athena, which sported the head of Medusa on it.
