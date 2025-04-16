@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 141259
+revid: 141403
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -82,12 +82,13 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions. The target takes more damage and blood loss after the pull.
         -   Can slam people into walls.
         -   Only usable if Hidden Tendril is applied to the target.
-        -   Deals true damage. (Unknown exact amount)
+        -   Deals around 40 true damage.
 
 -   **Equalizer - Combat Mantra**
     -   Whip forward with Tendril and gain a blue aura. If it connects, it deals damage to the target, and gives the user a blue aura.
         -   Being attacked with the blue aura will ignore the attack and stun the attacker for about 2 seconds, acting as a counter.
         -   Non-Humanoids will bypass the counter aura, instead outright hitting you.
+        -   Can be vented out of.
 
 ## Trivia
 

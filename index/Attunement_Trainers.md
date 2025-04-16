@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 138438
+revid: 141430
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Attunement, Mantras, Enemies]
@@ -27,21 +27,28 @@ An Attunement Trainer will not train you if you do not have the element learned.
 
 ## List of Trainers
 
-| Representation | Trainer | Name | Island | Location | Description |
-| --- | --- | --- | --- | --- | --- |
+| Representation | Trainer of | Location | Description |
+| --- | --- | --- | --- |
 | 
- | [Galebreathe](Galebreathe.md) | [Friid](Friid,_Master_of_Gale.md) | [Isle of Vigils](Isle_of_Vigils.md) | She is found sitting next to a campfire at a tent in a small area close to the entrance to the temple. | Friid is a [Celtor](Celtor.md) who uses [Galebreathe](Galebreathe.md).
+[Friid, Master of Gale](Friid,_Master_of_Gale.md)
+
+ | [Galebreathe](Galebreathe.md) | Area: [Isle of Vigils](Isle_of_Vigils.md)
+
+She is found sitting next to a campfire at a tent in a small area close to the entrance to the temple.
+
+ | Friid is a [Celtor](Celtor.md) who uses [Galebreathe](Galebreathe.md).
 
 When fought, she uses a [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 
  |
 | 
 
- | [Frostdraw](Frostdraw.md) | [Nell](Nell,_Master_of_Frost.md) | [Etris](Etris.md) | 
+[Nell, Master of Frost](Nell,_Master_of_Frost.md)
+
+ | [Frostdraw](Frostdraw.md) | Area: [Etris](Etris.md)
 
 Follow the path at the right of the [Guildhouse.](Guilds.md)
 
-  
 Click on the image to see full size.
 
  | Nell is a [Adret](Adret.md) who uses [Frostdraw](Frostdraw.md).
@@ -51,11 +58,9 @@ When fought, she uses a [Gran Sudaruska](Gran_Sudaruska.md).
  |
 | 
 
- | [Flamecharm](Flamecharm.md) | [Amashi](Amashi,_Master_of_Flame.md) | [Songseeker](Songseeker_Wilds.md)
+[Amashi, Master of Flame](Amashi,_Master_of_Flame.md)
 
-[Wilds](Songseeker_Wilds.md)
-
- | 
+ | [Flamecharm](Flamecharm.md) | Area: [Songseeker Wilds](Songseeker_Wilds.md)
 
 This trainer is inside the [temple](Songseeker_Temple.md) on top of the mountain.
 
@@ -69,35 +74,75 @@ When fought, he uses a [Hero Blade of Flame](Hero_Blades.md).
  |
 | 
 
- | [Thundercall](Thundercall.md) | [Funke](Funke,_Master_of_Thunder.md) | [Summer Isle](Summer_Isle.md) | He is located in the second floor of the castle. | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
+[Funke, Master of Thunder](Funke,_Master_of_Thunder.md)
+
+ | [Thundercall](Thundercall.md) | Area: [Summer Isle](Summer_Isle.md)
+
+He is located in the second floor of the castle.
+
+ | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
 
 When fought, he uses a [Stormseye](Stormseye.md).
 
  |
 | 
 
- | [Shadowcast](Shadowcast.md) | [Nostor](Nostor,_Master_of_Shadow.md) | [Varicosa District](Varicosa_District.md) | To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest and has light-teal-colored rooftops, it is located on the north-western side of the city. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey. Map location
+[Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md)
 
-Go there, look for the entrance to the [Shadowtrainers](Attunement_Trainers.md) cave. [(See picture)](https://i.gyazo.com/fe9c3bee9f6d52b9d9de27f61663ccc8.png)
+ | [Shadowcast](Shadowcast.md) | Area: [Varicosa District](Varicosa_District.md)
+
+To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest and has light-teal-colored rooftops, it is located on the north-western side of the city. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
+
+Map location:
+
+Go there, look for the entrance to Nostor's cave.
 
  | Nostor is a [Ganymede](Ganymede.md) who uses [Shadowcast](Shadowcast.md).
 
 When fought, they use a [Crypt Blade](Crypt_Blade.md).
 
  |
-|  | [Ironsing](Ironsing.md) | [Adar](Adar,_Master_of_Metal.md) | [Miner's Landing](<Miner's_Landing.md>) | He can be found inside a lab which can be reached using hidden platforms. | Adar is an [Etrean](Etrean.md) who uses [Ironsing](Ironsing.md).
+| 
+
+[Beatra](Beatra.md)
+
+ | [Shadowcast](Shadowcast.md) | Area: [Derelict Highchurch](Derelict_Highchurch.md)
+
+She can be found to the left of the Derelict Highchurch.  
+She is incapable of actually teaching Shadowcast, and can only be used to level up Shadowcast Mantras. Only Nostor can teach it.
+
+ | Beatra is a [Tiran](Tiran.md) who uses [Shadowcast](Shadowcast.md). |
+| 
+
+[Adar, Master of Metal](Adar,_Master_of_Metal.md)
+
+ | [Ironsing](Ironsing.md) | Area: [Miner's Landing](<Miner's_Landing.md>)
+
+He can be found inside a lab which can be reached using hidden platforms.
+
+ | Adar is an [Etrean](Etrean.md) who uses [Ironsing](Ironsing.md).
 
 When fought he uses a [Darksteel Greatsword](Darksteel_Greatsword.md).
 
  |
-|  | [Attunement-less](Attunement-less.md) | [Regek](Regek.md) | [The Hive](The_Hive.md) | They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md). | Regek is a [Vesperian](Vesperian.md) who uses [Attunement-less](Attunement-less.md). |
-|  | [Shadowcast](Shadowcast.md) | [Beatra](Beatra.md) | [Derelict Highchurch](Derelict_Highchurch.md) | She can be found to the left of the Derelict Highchurch.  
+| 
 
-She is incapable of actually teaching Shadowcast, and can only be used to level up Shadowcast Mantras. Only Nostor can teach it.
+[Regek](Regek.md)
 
- | Beatra is a [Tiran](Tiran.md) who uses [Shadowcast](Shadowcast.md). |
-|  | [Bloodrend](Bloodrend.md) | [Vyrelda](Vyrelda,_Master_of_Blood.md) | [Firfire](Firfire.md)  
-[Derelict Highchurch](Derelict_Highchurch.md) | She is located in an igloo of Firfire, in Layer 2. She is found treating a wounded Diver, after unlocking Bloodrend, she appears inside the Derelict Highchurch. | Vyrelda is a [Etrean](Etrean.md) who uses [Bloodrend](Bloodrend.md). |
+ | [Attunement-less](Attunement-less.md) | Area: [The Hive](The_Hive.md)
+
+They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md).
+
+ | Regek is a [Vesperian](Vesperian.md) who uses [Attunement-less](Attunement-less.md). |
+| 
+
+[Vyrelda](Vyrelda,_Master_of_Blood.md)
+
+ | [Bloodrend](Bloodrend.md) | Area: [Firfire](Firfire.md) or [Derelict Highchurch](Derelict_Highchurch.md)
+
+She is located in an igloo of Firfire in Layer 2. She is found treating a wounded Diver. After unlocking Bloodrend, she appears inside the Derelict Highchurch.
+
+ | Vyrelda is a [Etrean](Etrean.md) who uses [Bloodrend](Bloodrend.md). |
 
 ## Trivia
 

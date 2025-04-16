@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 141231
+revid: 141420
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -14,7 +14,7 @@ categories: [Deepwoken]
 
 This is a page dedicated to all of the easter eggs and references to other works of media found in Deepwoken. Be warned that this may spoil many of the referenced media to you. View at your own risk.
 
-## Armors/Equipments
+## Outfits/Equipments
 
 -   The style of the **Double Strapped Hat** seems to take inspiration from _Bloodborne_.
 -   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from the _Devil May Cry series_.
@@ -25,7 +25,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   Master Thief Earrings are very similar to those of Chrollo Lucifer from _Hunter × Hunter._
 -   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in _Avatar: The Last Airbender_.
 -   The Old World Sun Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
--   The Outfit Veteran Adventurer is a reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) outfit from Guilty Gear Strive.
+-   The Outfit Veteran Adventurer is a reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) outfit from _Guilty Gear -STRIVE-_.
 -   Every Familiar Helmet from the Hallowtide event are helmets taken from _Rogue Lineage_.
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight Helmet**, respectively.
 -   Every [Mushroom Costume](Mushroom_Costume.md) is a direct reference to the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from _[Rogue Lineage](https://rogue-lineage.fandom.com/wiki/)_.
@@ -239,7 +239,6 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The names **Frieren**, **Fern**, **Stark**, and **Eisen** are a reference to the manga _Sousou no Frieren_.
 -   The names "**Angela**," "**Binah**," "**Chesed**," "**Gebura**," "**Hokma**," "**Netzach**," "**Tiphereth**," "**Roland**," "**Argalia**", "**Xiao**", "**Zena**", and "**Iori**", while references to older media such as the _Kabbalah Tree of Life_, and _Orlando Furioso,_ were added in reference to the games _Lobotomy Corporation_ and _Library of Ruina_.
 -   The names **Phos, Padparadscha, Rutile, Diamond,** and **Cinnabar** are references to the manga _Land of the Lustrous_.
--   The name **Yakub** is a reference to Yakub, the creator of white people (actually, he started the process and his followers completed it) in [Nation Of Islam](<https://en.wikipedia.org/wiki/Yakub_(Nation_of_Islam)>) doctrine.
 
 ## World
 

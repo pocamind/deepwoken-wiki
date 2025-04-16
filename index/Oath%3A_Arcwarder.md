@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 140735
+revid: 141404
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -92,7 +92,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 
 -   **Arc Wave** ★★★ - Combat Mantra
     -   Stomp the ground releasing a wave of Arc energy.
-        -   Deals moderate Oath, Flame and Thunder damage.
+        -   Deals 20 base Oath, Flame and Thunder damage, same as Arc Beam.
         -   Can apply both Shock and Burning, or its Path alternate variants.
         -   Scales with both Flamecharm and Thundercall.
         -   Obtained alongside Guard.
@@ -106,7 +106,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   Can apply both Shock and Burning, or its Path alternate variants.
         -   Scales with both Flamecharm and Thundercall.
         -   10s CD.
-        -   Can be used in the air to shoot under yourself.
+        -   Can be used in the air to shoot under yourself. This variant deals the same damage as the normal Arc Beam.
             -   You have to have downwards momentum for this to activate, wait until after the peak of your jump.
         -   Instantly grips low health players if the attack were to knock them.
         -   Has 17x PVE scale.

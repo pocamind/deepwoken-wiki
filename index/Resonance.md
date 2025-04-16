@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 139849
+revid: 141395
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -105,7 +105,7 @@ _(From data of 100 rerolls, the calculated chance of getting a corrupted Legenda
 
 Tarnished bells have a 1 second wind-up to being casted after activation.
 
-Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and pay 1000 notes, or [Misérables](Misérables.md) and choose Clarity. Going to [Yamaketzal](Yamaketzal.md) will simply remove your Tarnished status, without granting a wish, whereas going to [Misérables](Misérables.md) will remove your Tarnished status and grant a wish at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of the [second layer](Second_Layer.md), after which, if the player talked to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) and made him spawn in [Castle Light](Castle_Light.md) he can now untarnish your bell for 1 knowledge instead of 15 at the [Misérables](Misérables.md) how ever, this will NOT grant you a wish with [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). You can also completely be immune to being Tarnished if you have the Echo Upgrade "[Soul Plasticity](Echoes.md)"
+Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and pay 1000 notes, go to [Misérables](Misérables.md) and choose Clarity, or go to Carrion, Father of Evolution and pay 1 Knowledge. Going to [Yamaketzal](Yamaketzal.md) or Carrion, Father of Evolution will simply remove your Tarnished status, without granting a wish, whereas going to [Misérables](Misérables.md) will remove your Tarnished status and grant a wish at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of the [second layer](Second_Layer.md), after which, if the player talked to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) and made him spawn in [Castle Light](Castle_Light.md) he can now untarnish your bell for 1 knowledge instead of 15 at the [Misérables](Misérables.md) how ever, this will NOT grant you a wish with [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). You can also completely be immune to being Tarnished if you have the Echo Upgrade "[Soul Plasticity](Echoes.md)"
 
 ## Obtaining
 

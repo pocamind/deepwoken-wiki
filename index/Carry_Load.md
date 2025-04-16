@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 141382
+revid: 141411
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,7 +28,7 @@ In order of carry load given:
 -   _Unstoppable_ Force gives 2 carry load.
 -   _Destructive Recovery_ gives 2 carry load.
 -   _Pocket Sand_ gives 4 carry load.
--   _Unwavering_ Resolve gives 4 carry load.
+-   _Unwavering Resolve_ gives 4 carry load.
 -   _Shield Breaker_ gives 4 carry load.
 -   _Captain Etrea_ gives 4 carry load.
 -   _Lootskipper_ gives 4 carry load.
@@ -96,4 +96,4 @@ Due to attribute limitations, the current best carry load build can only get 539
 ## Trivia
 
 -   Interestingly, if you reduce your carry load (by taking off a backpack, for example) while at maximum capacity, you can still carry your previous max amount of items, even after rejoining. Though, if you drop any item, you won't be able to pick it back up.
--   Two talents, _Pitcher_ and _Duelist's Dance,_ used to give 3 and 4 carry load respectively, but were removed on April 15th, 2025. This is the only time carry load has been removed from the game.
+-   Three Talents that granted carry load were removed from the game. These Talents are: _Volt Kick_, _Pitcher_, and _Duelist's Dance_. Volt Kick granted 7 carry load, but was removed from the game on August 30th, 2024. Pitcher and Duelist's Dance used to give 3 and 4 carry load respectively, but were removed on April 15th, 2025.

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 140141
+revid: 141393
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -130,11 +130,13 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 
 ## PvE Scaling
 
-If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the [Megalodaunt](Megalodaunt.md) apparently has 1000 health. What's happening here? At max, a weapon does, like, 30-50 damage, does it take a max player 20 to 34 hits to kill one? Not really.
+If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the [Megalodaunt](Megalodaunt.md) apparently has 1000 health. What's happening here? At max, a weapon does, like, 30-50 damage, why doesn't it take a max power player 20 to 34 hits to kill one?.
 
-When you level up, you automatically gain bonus damage during PvE, which is currently around **(10.38% x 3).** This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
+When you level up, you automatically gain bonus damage during PvE, know as "PvE scaling", This is why even when someone doesn't upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
 
 Calculating how much health a Monster has from just your damage alone won't be correct, you need to factor in your Power.
+
+The Mathematical formula used to find the DMG multiplier for PvE scaling is ( 2.7 + ( ( P o w e r − 1 ) / 19 ) ∗ 4.86 ) {\\displaystyle (2.7+((Power-1)/19)\*4.86)} {\\displaystyle (2.7+((Power-1)/19)\*4.86)}
 
 ### Formulas
 

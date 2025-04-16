@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 140511
+revid: 141419
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, Drops]
@@ -22,7 +22,7 @@ This Outfit has 1200 durability and grants +30% Physical Armor, +20% Elemental A
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 24% Flamecharm, 24% Ironsing, and 20% Elemental.
 
-This Outfit also grants the [Talent Card](Talents.md) _Harsh Response_, which causes enemies to receive less posture back when parrying your attacks.
+This Outfit also grants the [_Bruiser's Mixup_](Talents.md#brawler) Talent, which allows your Fist attacks to inflict bleed temporarily after stance swapping.
 
 ## Location
 
@@ -40,3 +40,4 @@ This Outfit's Schematic can be obtained from:
 
 -   It used to change appearance based on your gender presentation, with the Default variant being assigned to the feminine/gender neutral gender presentation, and the Shirtless variant being assigned to the masculine gender presentation.
     -   This was changed along with the removal of gender presentations in the March 31st, 2025 update.
+-   Martial Artist used to grant the Talent _Harsh Response_, but after this Talent was removed from the game, Martial Artist was changed to give _Bruiser's Mixup_ instead.

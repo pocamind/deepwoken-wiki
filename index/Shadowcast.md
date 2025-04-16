@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 140955
+revid: 141415
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -32,6 +32,8 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 20 Shadowcast, players will receive the _Adept Shadowcaster_ Talent. This allows players to obtain 1-star Shadowcast Mantras.
 -   At 30 Shadowcast, players will receive the _Expert Shadowcaster_ Talent. This allows players to obtain 2-star Shadowcast Mantras.
 -   Finally, at 50 Shadowcast, players will receive the _Master Shadowcaster_ Talent. This allows players to obtain 3-star Shadowcast Mantras.
+
+Shadowcast Mantras are upgraded at the [Attunement Trainers](Attunement_Trainers.md) [Nostor](Nostor,_Master_of_Shadow.md) or [Beatra](Beatra.md).
 
 -   To upgrade a Shadowcast Mantra from level 1 to level 2 costs.
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
@@ -443,7 +445,7 @@ _Show your foes your strength._
 
  | 
 
-Shadow, Shadow + Blunt (Mul. Spark)
+Shadow, Mul. Spark: Blunt (1st Hit), Shadow
 
  | 
 

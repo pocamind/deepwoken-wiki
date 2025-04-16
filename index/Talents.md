@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141390
+revid: 141433
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -326,7 +326,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
     -   Obtaining the "Vegetarian" flaw from shrines such as Shrine of Blasphemy or Order will remove the talent, giving you a free talent hand at the next power.
     -   Prerequisites: 5 Strength, 5 Willpower
-    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md) (Flaw), Herbivore
+    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md) (Flaw)
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
@@ -1029,6 +1029,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load)
     -   Refunds the ether cost of a mantra proportionate to your INT.
+    -   Refunds 20% at 30 Intelligence, scaling up to 25% refunded at 100 Intelligence.
     -   It has **6 seconds** cooldown.
     -   Prerequisite: 30 Intelligence
 
@@ -1847,7 +1848,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Survival Kit \[Common Talent, Charisma, Willpower, Intelligence\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
     -   Flint now has infinite uses.
-    -   Obtainment: Wipe with Herbivore, Iron Gut and Termite.
+    -   Obtainment: Wipe with Iron Gut and Termite.
     -   Prerequisite: 20 Mind (20 Intelligence OR 20 Willpower OR 20 Charisma).
 
 ### Meditative Trance
@@ -1960,6 +1961,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   [Deepbound's](Origins.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
     -   Prerequisites: 30 Fortitude, 30 Strength
     -   Can also be obtained from the [Thrall of Enmity](Thrall_of_Enmity.md) face equipment.
+    -   The specific specific formula is- f(x) = 15 - 15 \* (x/0.7)^1.2 {0.7≥x≥0} (x= current sanity / maximum sanity)
+        -   ex. 321 sanity w/ 175 current sanity would be a 3.89% increase [\[1\]](https://www.desmos.com/calculator/q9hbw3enrw)
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
     -   The bonus PEN is applied starting from 35% Sanity.
@@ -2669,11 +2672,6 @@ _**"My cure is most effective."**_
 > _**"I will not fall to the elements."**_
 
 These Talents are designed to let you survive longer against starvation and thirst by making living off of Mother Nature easier.
-
--   Herbivore \[Common Talent\] - You gain more nutrition from eating plants.
-    -   Prerequisite: 8 Fortitude
-    -   Mutually Exclusive: Carnivore
-    -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this Talent.
 
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
     -   Prerequisites: 20 Fortitude or 20 Willpower, vomit once

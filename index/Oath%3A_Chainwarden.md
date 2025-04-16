@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 140799
+revid: 141407
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -59,15 +59,17 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   **Restrain - Combat Mantra**
     -   _Deliver a powerful kick that binds your opponent's soul to yours._
     -   Deals 30 true damage.
+    -   Damage can be increased further with the talent Perpetual Wrath, increasing at intervals of 8 up to a total of 54 damage.
     -   Applies a chain that halts the opponent's mobility.
     -   _**Heavily**_ reduced cooldown on hit/block.
-    -   **CURRENTLY BUGGED: BLOODLESS GEM DOES NOT WORK WITH THIS MANTRA.**
+    -   Applying a Bloodless gem on Restrain appears to not reduce the damage at all, but still heals you.
     -   Chain is applied even if the mantra dodged or blocked, but not when parried
 -   Obtainment: Obtained with the Oath itself.
 -   **Impel** - **Combat Mantra**
     -   _Blast through your opponent's guard and pull them towards you._
     -   Fire 4 dark blasts at your cursor, chaining those hit by at least 3 blasts. Enemies hit by the mantra while chained will then get pulled and kicked away, similar to Chain Lash (will not remove chains).
     -   Aimable with your mouse.
+    -   Each orb deals a remarkably low 5.1 damage but the subsequent Chain Lash does 45 damage, totaling at 65.4 damage total if everything lands.
     -   This mantra has a 15 second cooldown.
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
@@ -75,6 +77,8 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
     -   On base use, readies two devastating punches that deals damage and dazes on hit. The second punch will only commence if the first one hits a valid target.
     -   On a chained target, the user pulls on the chain, dealing damage and exploding enemies away from **your camera placement**.
+    -   Base variant deals 35 damage (20 + 15), chained variant deals 45 damage.
+    -   Similarly to Restrain, the damage on base Rupture is not reduced at all by Bloodless, but it strangely still heals you.
     -   If you add a [reversal spark](Mantra_Modifiers.md), it will send enemies away in the **opposite way of your camera.**
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 141389
+revid: 141409
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -93,6 +93,8 @@ This page is about content that has either been removed or changed drastically i
     -   **Aerial Stab \[Common Priority Talent\] -** \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
 -   **Agitating Static \[Common Talent, Thundercall exclusive\] -** Using Discovery of Fire will light nearby downed enemies aflame.
     -   In the October 6, 2023 update, Agitating Static was merged into Discovery of Fire.
+-   **Aggressive Posture \[Common Talent\]** - Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
+    -   In the January 31st, 2025 update, Aggressive Posture has been removed due to clashing with a new mechanic called Backstepping.
 -   **Black Out \[Common Talent, Shadowcast Exclusive\] -** Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
     -   In the August 15th, 2023 update, Black Out was merged into Sightless Still.
 -   **Blood Shadow \[Rare Talent\] -** Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
@@ -120,6 +122,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 13th, 2022 update, Diplomat was merged into Celebrity.
 -   **Drifting Winds \[Common Talent\] -** Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
     -   In the May 15th, 2023 update, Drifting Winds became base behavior for Galebreathe.
+-   **Duelist's Dance \[Common Talent\] -** Parrying an opponent gives you 25% more posture back. (+1 Posture, +4 Carry Load)
+    -   In the April 15th, 2025 update, Duelist's Dance talent was removed due to the fact that Duelist's Dance and Harsh Response were canceled each other and were mandatory on every build.
 -   **Elemental Rebound \[Rare Talent\] -** Elemental Mantras now grant extra tempo upon landing. (+3 Elemental Intensity)
     -   In the March 8th, 2024 update, Elemental Rebound was made innate and was changed so that all mantras grant Tempo, not just elemental ones.
 -   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
@@ -152,11 +156,15 @@ This page is about content that has either been removed or changed drastically i
     -   In the August 15th, 2023 update, Graceful Landing was merged into Kick Off.
 -   **Hardened Nerves \[Common Talent\] -** Slightly increases posture. (+2 Posture)
     -   In the January 19th, 2024 update, Hardened Nerves was made innate, increasing the base posture of all players by 2.
+-   **Harsh Response \[Common Talent\] -** Enemies receive less posture back when parrying your attacks.
+    -   In the April 15th, 2025 update, Harsh Response talent was removed due to the fact that Duelist's Dance and Harsh Response were canceled each other and were mandatory on every build.
 -   **Health Pack \[Common Talent\] -** It's extra health, do you need anything else? (+10 Health)
     -   In the January 19th, 2024 update, Health Pack was made innate, increasing the base HP of all players by 10.
 -   **Heartbreaker \[Common Talent\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
     -   In the December 20th, 2022 update, Heartbreaker was merged into Lethal Precision.
 -   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
+-   **Herbivore \[Common Talent\] -** You gain more nutrition from eating plants.
+    -   In the April 15th, 2025 update, Herbivore was removed from the game.
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
 -   **In Twain \[Common Talent\] -** \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
     -   In the January 3rd, 2023 update, In Twain and Lethal Force were merged into Lethal Precision.
@@ -174,6 +182,8 @@ This page is about content that has either been removed or changed drastically i
 -   **One Handed Training** \[Common Talent\] - **\[Heavy Weapons\] You can now wield heavy weapons one handed.**
     -   In the July 26th, 2024 update, One Handed Training was made innate, but you still need 40 Heavy Weapon to wield your weapon one handed.
 -   **Perfect Cancel \[Generic Talent, Common Talent\] -** \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
+-   **Pitcher \[Common Talent\] -** You can throw things further. (+3 Carry Load, +1 Passive Agility)
+    -   In the April 15th, 2025 update, Pitcher has been made innate.
 -   **Pyromania \[Common Talent\] -** Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
     -   In the October 6th, 2023 update, Pyromania was merged into Immolation.
 -   **Quick Link \[Common Talent, Thundercall Exclusive\]** - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
@@ -216,20 +226,12 @@ This page is about content that has either been removed or changed drastically i
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
 -   **Vital Point \[Common Talent, Agility\] -** Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   In the January 13th, 2022 update, Vital Point was merged into Lights out.
--   **Volt Kick \[Common Talent, Thundercall Exclusive\]** - After landing a lightning kick successfully, press \[F\] to followup on your opponent with a less potent kick. (+7 Carry Load)
+-   **Volt Kick \[Common Talent, Thundercall Exclusive\] -** After landing a lightning kick successfully, press \[F\] to followup on your opponent with a less potent kick. (+7 Carry Load)
     -   In the August 30th, 2024 update, Volt Kick became base behavior for Thunder Kick.
--   **Wildfire \[Common Talent, Flamecharm Exclusive\]** - Pressing \[F\] before releasing your Fire Palm will release a wider but shorter flame.
+-   **_Warrior's Respite_ \[Rare Talent\] -** Stop moving for 15 seconds in order to initiate healing.
+    -   In the April 15th, 2025 update, Warrior's Respite talent was made innate.
+-   **Wildfire \[Common Talent, Flamecharm Exclusive\] -** Pressing \[F\] before releasing your Fire Palm will release a wider but shorter flame.
     -   In the August 16th, 2024 update, Wildfire became base behavior Fire Palm.
--   **Aggressive Posture \[Common Talent\]** - Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
-    -   In the January 31st, 2025 update, Aggressive Posture has been removed due to clashing with a new mechanic called Backstepping
--   **_Warrior's Respite_ \[Rare Talent\]** - Stop moving for 15 seconds in order to initiate healing.
-    -   In the April 15st, 2025 update, Warrior's Respite talent was made innate.
--   **Duelist's Dance \[Common Talent\]** - Parrying an opponent gives you 25% more posture back. (+1 Posture, +4 Carry Load)
-    -   In the April 15st, 2025 update, Duelist's Dance talent was removed due to the fact that Duelist's Dance and Harsh Response were canceled each other and were mandatory on every build.
--   **Harsh Response \[Common Talent\]** - Enemies receive less posture back when parrying your attacks.
-    -   In the April 15st, 2025 update, Harsh Response talent was removed due to the fact that Duelist's Dance and Harsh Response were canceled each other and were mandatory on every build.
--   **Pitcher \[Common Talent\]** - You can throw things further. (+3 Carry Load, +1 Passive Agility)
-    -   In the April 15st, 2025 update, Pitcher has been made innate.
 
 ## Other
 

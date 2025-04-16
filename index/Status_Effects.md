@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 141272
+revid: 141424
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -202,7 +202,7 @@ This can be applied by being hit by the [Deep Widow](Deep_Widow.md)'s venomous b
 
 ### Dazed
 
-Have your dodge frames lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras
+Have your dodge frames lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras, criticals, or applied by certain Talents.
 
 ### Tranquil
 
