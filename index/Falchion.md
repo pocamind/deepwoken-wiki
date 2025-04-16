@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 136324
+revid: 141454
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Alloyed Weapons]
@@ -10,15 +10,16 @@ categories: [Weapons, Swords, Alloyed Weapons]
 
 | Falchion | |
 |---|---|
+| alloyed name | Template:AlloyedColor |
 | type | Sword |
-| requirements | 20 / 75 MED |
+| requirements | 20 / Template:AlloyedColor MED |
 | damage | 16 |
 | scaling | MED: 6 / MED: 7 |
 | range | 7.5 |
 | swing speed | 1.06x |
-| penetration | 20% |
+| penetration | Template:AlloyedColor |
 | stances | 2 Handed, 1 Handed |
-| weight | 4 |
+| weight | 4 / Template:AlloyedColor |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

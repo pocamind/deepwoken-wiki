@@ -1,6 +1,6 @@
 ---
 title: Maedhran
-revid: 130770
+revid: 141434
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the Eastern Luminant]
@@ -10,9 +10,9 @@ categories: [NPCs, Vendors, NPCs located in the Eastern Luminant]
 
 Template:NPC name
 
-Maedhran is an NPC found in [Miner's Landing](<Miner's_Landing.md>). He will sell you [Mantra Modifiers](Mantra_Modifiers.md) for each.
+Maedhran (pronounced MAY-THRAN) is an NPC found in [Miner's Landing](<Miner's_Landing.md>). He explains a story about defeating a leader named Ironjaw, and sells lesser [Mantra Modifiers](Mantra_Modifiers.md) for each after listening intently.
 
-The mantra modifiers he sells are;
+The mantra modifiers he sells are:
 
 1.  Aeon Logstones
 2.  Amnesic Driftwood

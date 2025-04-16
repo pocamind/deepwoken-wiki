@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141433
+revid: 141459
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -25,7 +25,7 @@ File:DeepwokenThumbnail.png
 -   FIND A MYSTIC PHRASE FOR A TALENT: Below each Talent tree/category name will be the respective [Mystic](Mystic.md) quote.
     -   _(i.e "I prefer to attack unseen." for the Assassin Talent tree)_
         -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific Talent tree with [Mystic](Mystic.md) isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the Talent(s)._
--   **Rare Talents are NOT affected by Mystics, and categories containing only Rare Talents will not show their Mystic quote when talking to the NPC.**
+-   **Rare Talents are NOT affected by Mistic, and categories containing only Rare Talents will not show their Mystic quote when talking to the NPC.**
 
 [See all Talents here](#talents).
 
@@ -2038,9 +2038,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Fists of Fortitude_ \[Rare Talent\] - \[Fists\] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)
     -   Only procs on M1s with the exceptions of a few weapons.
-        -   Can proc on [Wraithclaw](Wraithclaw.md)'s criticals due to them being classified as basic attacks, with the neutral critical proccing it almost instantly due to being a multihit.
-        -   Can proc on [Legion Kata](Legion_Kata.md)'s critical due to it being classified as a basic attack.
+        -   Can proc on [Wraithclaw](Wraithclaw.md)'s and [Legion Kata](Legion_Kata.md)'s criticals due to them being classified as basic attacks, with Wraithclaw's neutral critical proccing it almost instantly due to being a multihit.
     -   This Talent also **works** with [Jus Karita](Jus_Karita.md) but won't come out on your Talent hands unless you have any **Fist Style** equipped.
+    -   Mutual Exclusive: Orbital Ice
+    -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
     -   Prerequisites: Fists, 20 Fortitude, 20 Light Weapon
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.

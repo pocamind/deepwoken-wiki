@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 141277
+revid: 141457
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -5963,7 +5963,14 @@ Found from:
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Fishing](Fishing.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  |
 |  | 

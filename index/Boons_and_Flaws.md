@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 139705
+revid: 141437
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -359,7 +359,7 @@ Count as 2 flaws, cannot be taken with another flaw.
  |
 | 
 
-Restless
+RestIess
 
  | 
 
