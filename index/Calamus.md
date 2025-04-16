@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 138501
+revid: 141464
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, The Hive]
@@ -24,7 +24,7 @@ Calamus is located in the [Starswept Valley](The_Starswept_Valley.md) ontop of a
 
 ## Quest Details
 
-Talking to calamus grants you the option to help her slay [beasts](Monsters.md), completing the quest rill reward you a chest with average loot, and grant positive [Reputation](Reputation.md) with The Hive, her quest is repeatable.
+Talking to calamus grants you the option to help her slay [beasts](Monsters.md), completing the quest will reward you a chest with average loot, and grant positive [Reputation](Reputation.md) with The Hive, her quest is repeatable.
 
 1.  Find the monster you need to slay
 2.  Slay it

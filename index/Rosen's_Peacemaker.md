@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 135085
+revid: 141462
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -40,3 +40,4 @@ Rosen's Peacemaker is a Medium Weapon and was released in the Verse 2 content up
 -   First shown in combat in Agamatsu's 1v1 between him and Nuttoons.
 -   The critical's speed is very similar to the regular swing speed.
 -   The maker of both the [Iron Blunderbuss](Iron_Blunderbuss.md) and the Rosen's Peacemaker is [Gunsmith Rosen](Lore.md).
+-   It is considered a direct upgrade to the [Summer Rifle](Summer_Rifle.md) as they share the same swing speed but has more superior stats.
