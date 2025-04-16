@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 141420
+revid: 141477
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -16,10 +16,10 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 ## Outfits/Equipments
 
--   The style of the **Double Strapped Hat** seems to take inspiration from _Bloodborne_.
--   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from the _Devil May Cry series_.
+-   The style of the **Double Strapped Hat** seems to take inspiration from _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.
+-   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from the _Devil May Cry_ series.
 -   The mod spec Outfit **[Hive Leader's Garment](<Hive_Leader's_Garment.md>)** along with the [companion hat](<Hive_Greatlord's_Royal_Adornment.md>) is [Scaramouche's](https://genshin-impact.fandom.com/wiki/The_Balladeer) outfit from open world RPG _Genshin Impact_.
--   The Outfit **Black Diver's** original design was [Bondrewd's](https://madeinabyss.fandom.com/wiki/Bondrewd) outfit from [Made in Abyss](https://en.wikipedia.org/wiki/Made_in_Abyss).
+-   The Outfit **Black Diver's** original design was [Bondrewd's](https://madeinabyss.fandom.com/wiki/Bondrewd) outfit from _[Made in Abyss](https://en.wikipedia.org/wiki/Made_in_Abyss)_.
     -   Made even more apparent when combining it with a [Diver's Light Plate](<Diver's_Light_Plate.md>).
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its [smaller version](<Alchemist's_Hat.md>) are a reference to [Big Hat Logan](https://darksouls.fandom.com/wiki/Big_Hat_Logan) from _Dark Souls_.
 -   Master Thief Earrings are very similar to those of Chrollo Lucifer from _Hunter × Hunter._
@@ -188,6 +188,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Action Surge** is similar in effect to the Rogue Lineage skill of the same name, albeit much less potent. It may also be a reference to the Dungeons and Dragons Fighter class feature of the same name.
 -   **Blood and Iron** is a reference to the [Roblox game](https://roblox-blood-iron.fandom.com/wiki/) of the same name.
 -   The [Mystic](Mystic.md) quote for the Talent category **Quack Doctor** is "[My cure is most effective](https://scp-wiki.wikidot.com/scp-049)."
+-   **Mythic Stability** is a reference to the [Sigil Knight Commander](https://rogue-lineage.fandom.com/wiki/Sigil_Knight_Commander) class from Rogue Lineage, which has a similarly named passive that also prevent executions.
 
 ## Weapons
 

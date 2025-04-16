@@ -1,6 +1,6 @@
 ---
 title: Varicosan Finery
-revid: 141342
+revid: 141489
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ This Outfit requires [Power Level](Talents.md) 10.
 
 ### _Armor Stats_
 
-The Outfit has 1500 durability, grants +20% Physical Armor and +20% Elemental Armor. Additionally, it provides the Reciprocity Talent.
+The Outfit has 1500 durability, grants +20% Physical Armor and +20% Elemental Armor. Additionally, it provides the Reciprocity Talent. Selling goods to [antiquarians](Antiquarian.md) will slightly increase [reputation](Reputation.md) with respective fraction
 
 ## Location
 

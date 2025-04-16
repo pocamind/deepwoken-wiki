@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 141450
+revid: 141491
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Guilds, Items]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Mechanics, Guilds, Items]
 
 ## Description
 
-File:Broma gilld.png
+File:Chimeofdwelling.png
 
 An open guild base with the Chime of Dwelling. The guild name is up on the door and its symbol is on the door.
 

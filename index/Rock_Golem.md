@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 138195
+revid: 141472
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
