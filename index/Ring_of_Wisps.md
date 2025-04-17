@@ -1,6 +1,6 @@
 ---
 title: Ring of Wisps
-revid: 141441
+revid: 141515
 source: https://deepwoken.fandom.com/wiki/Ring_of_Wisps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Rings, The Divers]
@@ -29,4 +29,4 @@ notices:
 
 Ring of Wisps grants the user double the amount of charges of Attunement Wisps.
 
-Currently bugged (at least on FIame and Blood wisps).
+Currently bugged (at least on Flame and Blood wisps).

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 141333
+revid: 141524
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1302,7 +1302,7 @@ N/A
     -   Crate: 1 Tornado Spark
     -   Lantern: 1 Blast Spark
     -   Gobletto: 1 Reversal Spark, 1 Tornado Spark
-    -   Unlit Campfire: 1 Tornado Spark, 1 Blast Spark. Lit Campfire: 1 Blast Spark, 1 Tornado Spark. The order in which you place the ingredients on the board is essential to the state the campfire will be in.
+    -   Lit Campfire: 1 Blast Spark, 1 Tornado Spark.
     -   Skull: 1 Reversal Spark, 1 Blast Spark
 
  |
@@ -1853,11 +1853,12 @@ Slash
         -   **Reinforce** and **Brace** now upgrade duration by leveling them up at Regek.
 -   **Prediction** has, by far, the most Talent card upgrades out of all the Attunement-less Mantras.
 -   A small sample of **Reinforce**'s sound effect is taken from the anime _[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)_, specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6&t=379s) at the 6:20 mark on YouTube.
+-   There was a bug with the campfire variant of **Disguise** that resulted in the fire particle block falling into the void. This gave the appearance of an unlit campfire and started a rumor that you could achieve this based off spark order. This however is not true, and the bug was seemingly patched, making the unlit variant of this Mantra entirely unobtainable.
 -   **Summon Cauldron** used to be one of the most powerful Mantras out there, being able to proc _Bulldozer_ for free if you movestacked it with flourish.
 -   As of the 17/02/2024 Update, **Exhaustion Strike** can no longer guardbreak monsters or players by transferring posture.
 -   **Tacet Drop Kick** used to require 20 strength, but was shadow changed to require 5 strength.
 -   You can obtain other Weapon Mantras as long as you have 30 investment points in them, including Jus Karita Mantras.
-    -   This used to be 8
+    -   This used to be 8.
 -   **Ceaseless Slashes** is the only Attunement-less Mantras to be starred, being 3 stars.
     -   **Rapid Punches** used to be 1 star, but was changed to 0.
 -   **Strong Left** may have been inspired by [Franky's Strong Right from _One Piece_](https://onepiece.fandom.com/wiki/Franky/Abilities_and_Powers#BF-36/Cyborg_Tactics).
