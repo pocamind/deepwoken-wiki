@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 140656
+revid: 141500
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -83,7 +83,7 @@ Large and threatening fire-based spells. Excels in crowd control and area denial
 
 -   Very good at close range
 -   Lava serpent can be unlocked at 40 Flamecharm, dealing ragdoll after any Mantra for the removal of burn.
--   Can be further upgraded with Azure Flame for even more damage.
+-   Can be further upgraded with Azure Flame for slightly increased burn damage/empowered Eruptions.
 -   Decent mid-range presence
 -   Good pressure
 -   Great at dealing LOTS of damage.

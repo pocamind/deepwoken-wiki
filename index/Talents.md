@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141459
+revid: 141506
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -982,6 +982,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I feel the pain of those around me."**_
 
 -   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD.
+    -   The Taunt damage buff is also applied to the attack that guard broke.
     -   Prerequisites: 85 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 141457
+revid: 141498
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -6372,7 +6372,7 @@ Found from:
 
  | 
 
-Deal more damage to factions that hate you.
+Deal +20% extra damage to factions that hate you.
 
   
 **Requires Power 3**
