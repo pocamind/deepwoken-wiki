@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 138075
+revid: 141576
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide]
@@ -25,8 +25,6 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hal
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hollowtide Medal [7 Knowledge], The Trial of the Gourdskipper |
 | description | "Have the lambs stopped screaming?" |
-
-Death's Reverie is a weapon in _Deepwoken_.
 
 ## Description
 

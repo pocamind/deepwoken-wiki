@@ -1,6 +1,6 @@
 ---
 title: Gourdskipper
-revid: 139940
+revid: 141592
 source: https://deepwoken.fandom.com/wiki/Gourdskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters, Hallowtide]
@@ -35,6 +35,8 @@ Seasonal Scratch
 Similar to the [Instructor](Blade_Instructor.md), this only happens if you are knocked from sources such as Fire or by being dropped off a shoulder, they cannot normally grip.
 
  |
+
+  
 
 ## Trivia
 

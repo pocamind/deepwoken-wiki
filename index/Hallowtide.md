@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 139937
+revid: 141596
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]

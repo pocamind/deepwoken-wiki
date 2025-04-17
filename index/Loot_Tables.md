@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 141176
+revid: 141569
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,9 +9,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 This Page is in dev, It will take a while to add everything: if you see '(Template)' on any of the Tables that means they haven't been updated yet.
 
-# Location loot tables
+# Location Loot Tables
 
-Location are places where Point-of-interest text appears on screen when you arrive.
+Location are places where Point-of-Interest text appears on screen when you arrive.
 
 ## [Lower Erisia](Lower_Erisia.md) & [Upper Erisia](Upper_Erisia.md) Loot Tables
 
@@ -81,7 +81,7 @@ _A snow covered island where the [Trial of One](Trial_of_One.md) is located, con
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Hero_Blades.md"><font>Hero's Blades</font></a> (Winter Exclusive)</li>
+    <li><b>Legendary Weapons</b>: <a href="Hero_Blades.md"><font>Hero's Blades</font></a> (Winter Exclusive, Valley of Heroes)</li>
     <li><b><a href="Weapons.md#light">Light Weapons</a></b>:<a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Canor_Fang.md">Canor Fang</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></li>
     <li><b><a href="Weapons.md#medium">Medium Weapons</a></b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Katana.md">Katana</a></li>
     <li><b><a href="Weapons.md#heavy">Heavy Weapons</a></b>:</li>
@@ -383,7 +383,7 @@ _One of the first island inside the Eastern Luminant, most people come here for 
   <td><b><a href="Weapons.md">Weapon Drops (template)</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>:</li>
+    <li><b>Legendary Weapons</b>: <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li>
     <li><b>Light Weapons</b>: <a href="Crucible_Rapier.md">Crucible Rapier</a></li>
     <li><b>Medium Weapons</b>: <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Champion's_Sword.md">Champion's Sword</a></li>
     <li><b>Heavy Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a></li>
@@ -529,7 +529,7 @@ _The first layer of the depths, where most souls go to die, holding more reliabl
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>:</li>
+    <li><b>Legendary Weapons</b>: <a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a>, <a href="Light's_Final_Toll.md"><font>Light's Final Toll</font></a></li>
     <li><b>Light Weapons</b>:</li>
     <li><b>Medium Weapons</b>:</li>
     <li><b>Heavy Weapons</b>:</li>

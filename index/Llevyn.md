@@ -1,11 +1,9 @@
 ---
 title: Llevyn
-revid: 137735
+revid: 141567
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Llevyn
@@ -14,13 +12,169 @@ notices:
 |---|---|
 | name | Llevyn |
 | aspect | Adret |
-| location | The Frontier Furnace |
+| location | The Frontier FurnacePilgrim's Respite (as 'Radio') |
 
 ## Description
 
 Llevyn is an NPC in the First Floor of the [Second Layer](Second_Layer.md). If you talk to him after powering on the Generator, he can call down an **Ignition Deepdriller** which will arrive at the end of the [Nest Corridor](Nest_Corridor.md).
 
 The Deepdriller escape method is mainly used by players that got here without a Light Hook and don't want to risk dying from the parasites or [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
+
+## Dialogue
+
+**First Encounter:**
+
+This is when you talk to him for the first time, located at the [The Frontier Furnace](The_Frontier_Furnace.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Hm... I believe that should do it.</td>
+</tr>
+<tr>
+  <td colspan="12">What are you doing?</td>
+</tr>
+<tr>
+  <td colspan="12">Hm? Oh, just checking over the windgate status in this area. Seems the caverns windgate has been disabled...</td>
+</tr>
+<tr>
+  <td colspan="12">Hey, you wouldn't happen to know a way out of this place, would you?</td>
+</tr>
+<tr>
+  <td colspan="12">*<i>They eye you up and down.</i>* Alright. You did kinda save our behinds out there. I'll call in a Deepdriller. As generous as I am, <i>I'm afraid that you won't be able to keep anything you've picked up here if you take the driller.</i></td>
+</tr>
+<tr>
+  <td colspan="12">Where can I find it?</td>
+</tr>
+<tr>
+  <td colspan="12">If my calculations are correct... It should be arriving at the end of the Nest Corridor, past the Firfire Caverns. Sorry about that. They aren't particularly accurate. Again, <i>you really won't be able to keep anything you found here if you take the driller.</i> I'm serious.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+This is when you talk to him after having talked to him already, located at the [The Frontier Furnace](The_Frontier_Furnace.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">You got that generator again... You're a real lifesaver, you know that?</td>
+</tr>
+<tr>
+  <td colspan="12">You got a drill ready?</td>
+</tr>
+<tr>
+  <td colspan="12">*<i>They eye you up and down.</i>* Alright. You did kinda save our behinds out there. I'll call in a Deepdriller. As generous as I am, <i>I'm afraid that you won't be able to keep anything you've picked up here if you take the driller.</i></td>
+</tr>
+<tr>
+  <td colspan="12">Where can I find it?</td>
+</tr>
+<tr>
+  <td colspan="12">If my calculations are correct... It should be arriving at the end of the Nest Corridor, past the Firfire Caverns. Sorry about that. They aren't particularly accurate. Again, <i>you really won't be able to keep anything you found here if you take the driller.</i> I'm serious.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**As Radio:**
+
+This is when you talk to him after having talked to him already, located at the [Pilgrim's Respite](<Pilgrim's_Respite.md>).
+
+**Before Defeating Bonekeeper:**
+
+Before Defeating the [Bone Keeper](Bone_Keeper.md). Coming back to see if he has anything more to say, there won't be an outline to talk after having already seen this conversation.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">*<i>You hear the hum of radio feedback.</i>*</td>
+</tr>
+<tr>
+  <td colspan="12">Hello?</td>
+</tr>
+<tr>
+  <td colspan="12">Huh? <b>WAIT!</b> Don't go anywhere! Are you actually human?</td>
+</tr>
+<tr>
+  <td colspan="12">I think so?</td>
+</tr>
+<tr>
+  <td colspan="12">You don't understand how relieved I am. There isn't a lot of -- but I need you -- power on the generator for -- door.</td>
+</tr>
+<tr>
+  <td colspan="12">Door? Generator? Slow down.</td>
+</tr>
+<tr>
+  <td colspan="12">The line could -- -- -- minute! The door is built -- -- tower, with the rickety bridge -- near the one that you're in! The generator -- *<i>The line suddenly terminates, leaving nothing but the eerie silence.</i>*</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**After Defeating Bonekeeper:**
+
+After Defeating the [Bone Keeper](Bone_Keeper.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah! Are you the one who switched the generator back on? You're a life-saver! Swing by the base, boss says he wants to thank you.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Easter Egg:**
+
+This is an Easter Egg that happens when you glitch inside to enter [The Frontier Furnace](The_Frontier_Furnace.md) without opening the doors properly by turning on the generator.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Hm... I believe that should do it.</td>
+</tr>
+<tr>
+  <td colspan="12">What are you doing?</td>
+</tr>
+<tr>
+  <td colspan="12">Hm? Oh, just checking over the windgate status in this area. Seems the caverns windgate has been disabled...</td>
+</tr>
+<tr>
+  <td colspan="12">Hey, you wouldn't happen to know a way out of this place, would you?</td>
+</tr>
+<tr>
+  <td colspan="12">Oh me? Yeah I do. However, it happens to be a <i>useless piece of junk</i> without any power. You see a generator around here? It's on top of one of the towers- wait, how did you even get in here? Huh? <i><b>I know what you are.</b></i></td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

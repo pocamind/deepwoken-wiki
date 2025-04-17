@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 137922
+revid: 141599
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide]

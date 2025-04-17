@@ -1,6 +1,6 @@
 ---
 title: Alina Spellhardt
-revid: 137867
+revid: 141574
 source: https://deepwoken.fandom.com/wiki/Alina_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]

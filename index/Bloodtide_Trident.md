@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 138047
+revid: 141575
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowtide]
@@ -20,8 +20,8 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowt
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, but requires 1 Knowledge |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
@@ -31,7 +31,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowt
 
 The Bloodtide Trident is a Medium Weapon in the Spear category. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Medal" (from [Glaive Spellhardt](Glaive_Spellhardt.md) during Hallowtide again) for 7 knowledge anytime.
 
-like all other Hallowtide exclusive weapons, It cannot be dropped to other players.
+Like all other Hallowtide exclusive weapons, it cannot be dropped to other players.
 
 ## Critical
 

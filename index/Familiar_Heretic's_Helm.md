@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Helm"
-revid: 136259
+revid: 141585
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
