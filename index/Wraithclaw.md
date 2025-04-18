@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 139367
+revid: 141681
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists]
@@ -66,7 +66,9 @@ The Wraithclaw has **two** criticals.
 
 For the **standing** critical, the user winds up a barrage of six slashes, each dealing a small amount of damage & posture damage with low range, with the final hit dealing greater damage and posture. The attack can be cancelled by user themselves by pressing M2, getting damaged or getting parried.
 
-For the **aerial** critical, the user quickly whirls in front of them, dealing moderate damage and a massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md#legion-shock-trooper).
+Standing crit DMG: 0.6x of M1 DMG (First hit) + 0.35x\*4 of M1 DMG (Middle hits) + 1x of M1 DMG (Last hit) + 10% aftercut DMG bonus
+
+For the **aerial** critical, the user quickly whirls in front of them, dealing 2x of M1 DMG + 10% aftercut bonus and a massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md#legion-shock-trooper).
 
 Both of these criticals are classified as _basic attacks_, which means they benefit from things like [Berserk's](Talents.md#berserker) armor nullification and [Navaen War Chief's](Navaen_War_Chief.md) PEN increase.
 

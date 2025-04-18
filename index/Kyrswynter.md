@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 139080
+revid: 141683
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -43,7 +43,23 @@ The Kyrswynter has **two** different criticals.
 
 For the standing critical, the user pokes the spear forward, ragdolling enemies and knocking them back before conjuring a blast underneath them. Standing on the blast allows you to combo into an uppercut.
 
+Standing critical stats:
+
+1.4x of M1 DMG + .42x BLEED (Stab)/ 1.2x of M1 DMG + .36x BLEED (Blast)
+
+20 posture (Stab/Blast)
+
+0.65s windup (Stab)/1.3s after Stab (Blast)
+
 For the running critical, the user winds up before leaping forward with the weapon, finishing with an explosive ice blast. Right clicking while still in the air will allow you to cancel your forward momentum.
+
+Running crit stats:
+
+1.1x of M1 DMG + 1.25x of M1 DMG + 30% BLEED on each individual crit hit, leading to 2.95x of M1 DMG total.
+
+20+12 posture
+
+1.45s windup
 
 The criticals can be chained together by attacking before the standing critical, which allows you to perform the running critical after the standing critical hits.
 
