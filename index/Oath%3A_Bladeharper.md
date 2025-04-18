@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 140732
+revid: 141715
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -130,7 +130,7 @@ It is recommended to have mantras for this fight and a high Attunement level as 
 
 When fighting the mirror keep in mind that it has all of your Talents and such, but there are times when it can do something that you haven't seen before. The mirror gains the next progression of the Oath whilst fighting it; For example on the second fight they will possess only Soaring Storm and Untouchable when fighting so plan accordingly.
 
-The mirror parries quite often along with dodging your moves at times, but it does not vent unless it loses a life. It also has a tendency to stay just outside of your range (and in turn you will stay just outside of your mirror's), so use this opportunity to hit it with mantras.
+The mirror parries quite often along with dodging your moves at times, but it does not vent unless it loses a life. It also has a tendency to stay just outside of your range (and in turn you will stay just outside of your mirror's), so use this opportunity to hit it with mantras, another way to abuse this is by staying away, taking that time to heal and get back into fighting.
 
 If you still have difficulty fighting it then try switching to a weaker weapon, though this is not recommended as this can slow down your ability to kill the mirror and causes you to rely mostly on your mantras. But on the other hand, this causes the mirror to also be weaker as it also deals less damage but if you are hit too much then it is just better for you to distance yourself and wait for the mirror to make a mistake and fight back.
 

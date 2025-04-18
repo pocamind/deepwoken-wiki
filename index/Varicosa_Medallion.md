@@ -1,6 +1,6 @@
 ---
 title: Varicosa Medallion
-revid: 127557
+revid: 141716
 source: https://deepwoken.fandom.com/wiki/Varicosa_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -26,6 +26,6 @@ categories: [Items, Equipment, Torso, Necklaces]
 
 ## Description
 
-The Varicosa Medallion is an [Equipment](Equipment.md) item under the "Torso" category. It's name references the [Varicosa District](Varicosa_District.md), in [The City of the Drowned](The_City_of_the_Drowned.md). It features a white chain with a distinctive black, circular shape attatched to it.
+The Varicosa Medallion is an [Equipment](Equipment.md) item under the "Torso" category. It's name references the [Varicosa District](Varicosa_District.md) in [The City of the Drowned](The_City_of_the_Drowned.md). It features a white chain with a distinctive black circle attatched to it.
 
 Having 1 Rare and Legendary Pip, along with an innate 3% Shadow Armor, makes this one of the best, although not the best, Torso equipment pieces in the game, with the best being the [Confessor's Charm](<Confessor's_Charm.md>) or [Canticlysm Pendant](Canticlysm_Pendant.md).

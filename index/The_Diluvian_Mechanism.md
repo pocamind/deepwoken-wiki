@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 139709
+revid: 141699
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -74,7 +74,7 @@ While not required, things listed below can prove to make your experience much e
 -   _**[Ardour Scream](Murmur%253A_Ardour.md):**_ It's an essential talent when dealing as much damage as possible. Ardour Scream will cause all victims to take 25% more damage and lose 50% of their total posture, leaving them vulnerable to guard breaks.
 -   _**[Evanspear Hand Axe](Evanspear_Greataxe.md):**_ Evanspear Hand Axe is one of the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration.
 -   _**[Enforcer's Axe/Hammer](<Enforcer's_Axe.md>):**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
--   [_**Pale Briar**_](Pale_Briar.md): Out of all the weapon The Pale Briar is the best choice for Diluvian, the critical being an AoE attack can deal with crowds of mobs, easily out damage Enforcer Axe and Evanspear Hand Axe.
+-   [_**Pale Briar**_](Pale_Briar.md): Out of all the weapons The Pale Briar is the best choice for Diluvian, the critical being an AoE attack can deal with crowds of mobs, easily out damage Enforcer Axe and Evanspear Hand Axe.
 -   [_**Wild Enchant**_](Enchantments.md): The Wild enchant gives the weapon an AoE on basic and critical attack when it hits an enemy, best paired with The Pale Briar.
 -   **_[Astral Enchant](Enchantments.md):_** The Astral enchant gives the player's weapon 20% more damage in all PVE situations. Its new critical effect summons a projectile that does 100 AoE damage in PVE.
 -   _**[Providence's Thorns](Enchantments.md)**_: You'll be parrying a lot of enemies whilst inside of Diluvian Mechanism, so having a heavy weapon such as the Evanspear Hand Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds.

@@ -1,6 +1,6 @@
 ---
 title: Deepfire Ring
-revid: 141194
+revid: 141698
 source: https://deepwoken.fandom.com/wiki/Deepfire_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -26,6 +26,6 @@ categories: [Equipment, Rings]
 
 **Deepfire Ring** is a Ring [Equipment](Equipment.md) piece that causes your burn ticks to occur at a faster rate but reduce the maximum duration of the Burn status effect
 
-Effectively, this increase the DPS of Burn since no one burn for the entire duration. It does however negatively affect Flame Within by making it run out faster.
+Effectively, this increases the DPS of Burn since no one burns for the entire duration. It does however negatively affect Flame Within by making it run out faster.
 
 If using Explosion Path: Lava Serpent, the ring will instead reduce the delay for explosions to occur.

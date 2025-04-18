@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 141680
+revid: 141714
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -216,11 +216,11 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 -   Currently, this is one of four Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), [Soulbreaker](Oath%253A_Soulbreaker.md) and [Chainwarden](Oath%253A_Chainwarden.md))
     -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.rr
 -   Your Attunement Path will affect the color of your Saintsblade in the corresponding stance.
--   The color of the current Saint Stance will apply to the colored parts of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) or [Crazy Slots](Crazy_Slots.md)' greataxe when you equip them, and change colors when you use their Criticals.
+-   The color of the current Saint Stance will apply to the colored parts of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Ignition Deepcrusher](Ignition_Deepcrusher.md), [Hailbreaker](Hailbreaker.md), [Divine Greataxe](Crazy_Slots.md), and [Divine Dagger](Crazy_Slots.md) when you equip them, and change colors when you use their Criticals.
     
     Pyre Keeper's color changing when using its Critical with Saintsworn
     
-    -   This is because in the game's code, the game looks for neon objects named "Blade" within your currently equipped weapon to apply the color to. According to Nuttoons, this could possibly cause this to happen with the [Hailbreaker](Hailbreaker.md) and the [Ignition Deepcrusher](Ignition_Deepcrusher.md) as well.[\[1\]](#cite-note-1)[\[2\]](#cite-note-2)
+    -   According to Nuttoons, this is because in the game's code, the game looks for neon objects named "Blade" within your currently equipped weapon to apply the Saintsblade color to.[\[1\]](#cite-note-1)[\[2\]](#cite-note-2)
 
 ## References
 
