@@ -1,9 +1,9 @@
 ---
 title: Enforcer
-revid: 140419
+revid: 141630
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies, The Depths]
+categories: [Pages with broken file links, Monsters, Enemies, The Depths]
 ---
 
 # Enforcer
@@ -136,6 +136,12 @@ _**If you're a freshie reading this page and about to do the Enforcer trial for 
 -   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, the Hammer is also a rare drop. Boasts superior posture damage and requires 80 HVY and 25 STR to use.
 -   **[Resonance Progress](Resonance.md):** The Enforcer gives a moderate amount of Resonance EXP, and more if fought with the corresponding Nature.
 -   **[Enforcer Eye](Enforcer_Eye.md):** A rare drop used to obtain the Enforcer Pull [Monster Mantra](Monster_Mantras.md).
+
+## Gallery
+
+Axe variant enforce idle
+
+Axe variant enforce idle
 
 ## Trivia
 

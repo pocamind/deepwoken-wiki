@@ -1,6 +1,6 @@
 ---
 title: Llevyn
-revid: 141567
+revid: 141615
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -90,7 +90,7 @@ This is when you talk to him after having talked to him already, located at the 
 
 **As Radio:**
 
-This is when you talk to him after having talked to him already, located at the [Pilgrim's Respite](<Pilgrim's_Respite.md>).
+This is when you talk to him through the radio at the [Pilgrim's Respite](<Pilgrim's_Respite.md>). His name appears as 'Radio' during this.
 
 **Before Defeating Bonekeeper:**
 

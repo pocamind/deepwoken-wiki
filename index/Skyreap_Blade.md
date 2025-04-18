@@ -1,9 +1,9 @@
 ---
 title: Skyreap Blade
-revid: 141608
+revid: 141635
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Event Item, Hallowtide]
+categories: [Weapons, Weapons with Unique Criticals, Greataxes, Event Item, Hallowtide]
 ---
 
 # Skyreap Blade
@@ -30,9 +30,17 @@ categories: [Weapons, Greataxes, Event Item, Hallowtide]
 
 The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to [Glaive Spellhardt](Glaive_Spellhardt.md). It is the second fastest Greataxe type weapons in the game, bridging the gap between Medium and Heavy Weapons like Rapiers bridge the gap between Light and Medium weapons. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell. Only obtainable during [Hallowtide](Hallowtide.md).
 
+## Critical
+
+Perform two quick hyperarmor swings followed by a devastating third swing. All three hits on this critical apply [**Daze**](Status_Effects.md#dazed), **Bleed**, and **ragdoll** for a very short duration.  
+The first two swings deal 20 posture damage while the third guard breaks. The first two hits have a 0.6x scaled damage multiplier each (they each deal 60% of your weapon's scaled damage), while the third hit has 1x scaled damage multiplier (or 100% of your weapon's scaled damage), leading to very high damage output.
+
+This critical will end early if any hit is parried or if the first hit whiffs entirely. This critical has a **9 second cooldown**.
+
 ## Trivia
 
 -   Mentions the "Edenkite" in the description, which is a species referenced in the book Lumen's Folklore: Volume 'North' that existed in the cold, desolate, Northern Luminant.
+-   Skyreap Blade is the first [Hallowtide](Hallowtide.md) '22 weapon to get a unique critical, with it's critical releasing over two years after the weapon's initial release.
 -   This weapon, alongside the other Hallowtide weapons, has a pseudo-soulbound mechanic attached to it, where you cannot drop it, but it can still be passed down through the Hippocampal Pool in [Fragments of Self](Fragments_of_Self.md) without having to spend echoes.
 -   Meeting the requirement of HVY, the damage is (32.1)
 -   At max HVY, the damage is (35.1)

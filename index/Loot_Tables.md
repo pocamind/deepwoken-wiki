@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 141569
+revid: 141645
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -222,7 +222,7 @@ _One of the first island inside the Eastern Luminant, most people come here for 
   <ul>
     <li><b>Master</b>:</li>
     <li><b>Expert</b>: <a href="Verdant_Sniper.md">Verdant Sniper</a></li>
-    <li><b>Adept</b>:</li>
+    <li><b>Adept</b>: <a href="Summer_Company_Uniform.md">Summer Company Uniform</a></li>
     <li><b>Starter</b>:</li>
   </ul></td>
 </tr>
@@ -373,9 +373,9 @@ _One of the first island inside the Eastern Luminant, most people come here for 
   <td><a href="Outfits.md">Outfit Schematics (template)</a></td>
   <td>
   <ul>
-    <li><b>Master</b>:</li>
-    <li><b>Expert</b>:</li>
-    <li><b>Adept</b>:</li>
+    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
+    <li><b>Expert</b>: <a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></li>
+    <li><b>Adept</b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a></li>
     <li><b>Starter</b>:</li>
   </ul></td>
 </tr>
@@ -384,10 +384,10 @@ _One of the first island inside the Eastern Luminant, most people come here for 
   <td>
   <ul>
     <li><b>Legendary Weapons</b>: <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li>
-    <li><b>Light Weapons</b>: <a href="Crucible_Rapier.md">Crucible Rapier</a></li>
-    <li><b>Medium Weapons</b>: <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Champion's_Sword.md">Champion's Sword</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a></li>
-    <li><b>Offhand Weapons</b>:</li>
+    <li><b>Light Weapons</b>: <a href="Crucible_Rapier.md">Crucible Rapier</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></li>
+    <li><b>Medium Weapons</b>: <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a>, Master Hawk's Handaxe, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>,</li>
+    <li><b>Offhand Weapons</b>: <a href="Legion_Shield.md">Khan Shield</a></li>
   </ul></td>
 </tr>
 <tr>

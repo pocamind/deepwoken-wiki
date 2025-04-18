@@ -1,6 +1,6 @@
 ---
 title: Ploom
-revid: 131748
+revid: 141666
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -79,8 +79,8 @@ Ploom is a Ganymede reading a book located within Lance's Food in [Etris](Etris.
   <td colspan="6">[Obtained Talent] Ah, hello friend! I hope you're finding use with what I taught you.</td>
 </tr>
 <tr>
-  <td colspan="6">Yep.</td>
-  <td colspan="6">End</td>
+  <td colspan="11">What are you reading?</td>
+  <td colspan="6">What can you tell me about Pleeksty?</td>
 </tr>
 <tr>
   <td colspan="3"><b>Player has 3 embers</b></td>
