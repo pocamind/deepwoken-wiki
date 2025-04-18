@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141506
+revid: 141687
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -529,6 +529,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Electrolyte \[Common Talent, Dual Attunement\] - Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.
     -   The electrify has a very short duration to the point where it will sometimes be cleared by the time your opponent gets out of hitstun.
+    -   With surge path, apply a surge rod on proc instead of the electrify effect.
+    -   Takes about 3% temporary health per proc.
     -   Prerequisite: 40 Bloodrend, 40 Thundercall
 
 -   Malevolent Sapper \[Common Talent, Dual Attunement\] - The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.
@@ -2925,12 +2927,14 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 60 Bloodrend, Master Bloodrender
 
 -   Cyclical Exsanguination \[Common Talent\] - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
+    -   8 second cooldown.
     -   Prerequisite: 65 Bloodrend, Sow and Mend
 
 -   Embolism \[Common Talent\] - If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.
     -   Prerequisite: 65 Bloodrend, Sow and Mend
 
 -   Hypovolemic Focus \[Common Talent\] - While you have temporary health, your opponent regains far less posture from parrying you
+    -   The opponent regains 20% less posture damage from parrying you.
     -   Prerequisite: 65 Bloodrend, Sow and Mend
 
 ### Trickster
