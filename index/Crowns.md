@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 141757
+revid: 141830
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency]
@@ -10,22 +10,24 @@ categories: [Currency]
 
 | Crowns | |
 |---|---|
-| usage | -Exchange for / 1 Knowledge-Turned in to Sev for Dye Packets |
-| obtainment | World Events , Scion of Ethiron , Heart of Enmity |
+| usage | -Exchange for / 1 Knowledge-Traded with certain NPCs |
+| obtainment | World Bosses , War Mode |
 
 “ Awarded for prestigious deeds, or for a prestigious talent for pilfering. Holds tremendous value in all corners of Lumen. ”
 
 ― Crowns' description
 
-Crowns are an end-game currency that can be obtained from completing [World Events](World_Events.md) or defeating certain Bosses such as [The Heart of Emity](Heart_of_Enmity.md).
+Crowns are an end-game currency that can be obtained from completing end game activities.
 
 ## Overview
 
 ### **Obtaining**
 
-Crowns can only be obtained from [World Events](World_Events.md), earning 1 crown per completion.
+Crown can be obtained 2 ways: [World Bosses](Bosses.md#world-bosses) or War Mode.
 
-Additionally, certain bosses, called [World Bosses](Bosses.md#world-bosses), such as the [Scion of Ethiron](Scion_of_Ethiron.md) or the [Heart of Enmity](Heart_of_Enmity.md) grant a crown on defeat as they are classified as World Bosses.
+-   **World Bosses** (namely [Scion of Ethiron](Scion_of_Ethiron.md), [Heart of Enmity](Heart_of_Enmity.md), [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and the [Interluminary Parasol](Interluminary_Parasol.md)) will reward up to 2 Crowns (based on contribution) when defeated.
+    -   Scion of Ethiron however is exempt from that, being capped at 1 Crown.
+-   **War Mode** will reward Crowns to the winning guild based on individual contribution and the Warchest score.
 
 ### **Usage**
 
@@ -33,11 +35,13 @@ Crowns are able to be exchanged for Knowledge or Notes by interacting with the i
 
 -   200 [Notes](Notes.md) per Crown
 -   1 [Knowledge](Knowledge.md) per Crown
--   1 [Mounts](Mounts.md) per 3 Crown(s)
 
-Additionally, they can also be exchanged through [Sev](Sev.md)\* for one [Dye Packet](Dye_Packet.md) per Crown.
+Some NPCs only deals in Crowns, these are:
 
--   \*More trade options for crowns are planed, as revealed in the [April 7th Update's](Version_History/2025.md) logs.
+-   [Sev](Sev.md), the Dye Vendor, exchanging Dye Packet for 1 Crown a piece
+-   [Sordino](Sordino.md) the Tamer of Beasts, exchanging varying Mounts for Crowns
+
+Note that currently, the Crown system is being slowly rolled out, meaning more uses/trades for Crowns are to be expected.
 
 ## **Trivia**
 

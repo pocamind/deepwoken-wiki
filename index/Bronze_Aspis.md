@@ -1,6 +1,6 @@
 ---
 title: Bronze Aspis
-revid: 141768
+revid: 141792
 source: https://deepwoken.fandom.com/wiki/Bronze_Aspis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -19,7 +19,7 @@ categories: [Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aratel Sea events, Erisia |
+| obtainment | Aratel Sea events, Deep Crucible, Erisia |
 | description | A round, wooden shield often accompanied by spear or shortblade. |
 
 ## Description

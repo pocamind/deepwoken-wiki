@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 141435
+revid: 141825
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -107,7 +107,7 @@ Ice
 
 **Effect:** _Conjure a surrounding ring of 4 to 5 frozen servants that emit two blasts of frosty mist to the center._
 
--   Deals 33.48 (16.74\*2) DMG, 5.5 posture,0.4s windup, 10s CD. Blast spark deals 86 (21.5\*4) DMG, 5.5 posture, 10s CD.
+-   Deals 33.48 (16.74\*2) DMG, 5.5 posture, 0.4s windup, 10s CD. Blast spark deals 86 (21.5\*4) DMG, 5.5 posture, 10s CD at 5 lvl.
 -   With 6 songchant 37.28 (18.64\*2) and blast spark 95.84 (23.96\*4) DMG
 -   Has 9.18x PVE scale
 -   Inflicts 2 seconds Chill per hit. Can't be increased.
@@ -226,7 +226,7 @@ Ice
 
 **Effect:** _Form 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance._
 
--   Deals 57.44 (3.59\*16)+22.5 sword projectile DMG, 1 posture per hit, 11s CD.
+-   Deals 57.44 (3.59\*16)+22.5 sword projectile DMG, 1 posture per hit, 11s CD at 5 lvl.
 -   With 6 songchant 63.84 (3.99\*16) + 25.29 sword projectile DMG.
 -   Has 9.17x PVE Scale (3.59 DMG PVP, 32.94 DMG PVE)
 -   Every projectile applies 1 sec chill, can't be increased.
@@ -308,7 +308,7 @@ Ice
 
 **Effect:** _Conjure 3-4 chains of ice that lock-on and stun the target for a brief period of time._
 
--   Deals 35.88 (39.94 with 6 songchant) DMG, 3.3 posture, 9.5s CD.
+-   Deals 35.88 (39.94 with 6 songchant) DMG, 3.3 posture, 9.5s CD at 5 lvl.
 -   Has 9.18x PVE scale (35.88 PVP DMG, 329.38 PVE DMG)
 -   Inflicts Chill. 9 seconds of Chill and 13 seconds with 1 Eternal Logstone.
 -   Can be modified with Aeon and Eternal Logstones to delay the Mantra from firing.
@@ -347,7 +347,7 @@ Ice
 
 **Effect:** _Form 3 daggers of ice before throwing them towards the nearest target._
 
--   Deals 32.28 (10.76\*3) DMG, 3.15 posture, 13s CD (4s if missed)
+-   Deals 32.28 (10.76\*3) DMG, 3.15 posture, 13s CD (4s if missed) at 5 lvl.
 -   With 6 songchant 35.94 (11.98\*3) DMG
 -   Has 9.18x PVE scale (10.76 PVP DMG, 98.81 PVE DMG)
 -   Projectiles are homing.
@@ -387,7 +387,7 @@ Ice
 
 **Effect:** _Perform a stomp with your right leg, forming 3 ascending waves of ice formations that encase the target in ice._
 
--   Deals 29.9 (33.28 with 6 songchant) DMG, Bypass block, 30s CD.
+-   Deals 29.9 (33.28 with 6 songchant) DMG, Bypass block, 30s CD at 5 lvl.
 -   Has 9.18x PVE scale (29.9 PVP DMG, 274.48 PVE DMG)
 -   Apparently applies Chill although VERY shortly.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
@@ -427,7 +427,7 @@ Ice
 
 **Effect:** _Form a barrage of ice shurikens before propelling them at the cursor's location._
 
--   Non modded deals 4.9 per hit DMG, Blast spark version 4.9 per hit DMG, Magnet spark 4.9 per hit + 4.9\*3 (if teleported.) DMG
+-   Non modded deals 4.9 DMG per hit, Blast spark version 4.9 DMG per hit, Magnet spark 4.9 per hit + 4.9\*3 DMG (if teleported.)
 -   With 6 songchant non modded deals 5.46 per hit, Blast spark 5.46 per hit, Magnet spark 5.46 per hit + 5.46\*3 (if teleported) DMG
 -   Main gimmick of Blast spark version is increased posture from 0 to 20 total.
 -   Has 9.187x PVE scale (29.4 PVP DMG, 270.12 PVE DMG)
@@ -469,7 +469,7 @@ Ice
 
 **Effect:** _Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead._
 
--   Deals 56.21 (62.57 with 6 songchant) DMG, Guardbreaks, 10s CD.
+-   Deals 56.21 (62.57 with 6 songchant) DMG, Guardbreaks, 10s CD at 5 lvl.
 -   Breaks block at level 5.
 -   Has 9.18x PVE scale (56.21 PVP DMG, 516.03 PVE DMG)
 -   Inflicts Chill. 5 seconds of Chill, 9 seconds with 1 Eternal Logstone.
@@ -554,7 +554,7 @@ Ice
 
 **Effect:** _Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy._
 
--   Deals random amount of DMG, highest one is 95 (14.8+14.8+13.81+11.84+12.83+10.85+8.88+8.88) DMG,7.65 posture,12s CD.
+-   Deals random amount of DMG, highest one is 95 (14.8+14.8+13.81+11.84+12.83+10.85+8.88+8.88) DMG, 7.65 posture, 12s CD at 5 lvl.
 -   With 6 songchant highest one is 105.43 (16.47+14.28+14.28+13.18+12.08+15.38+9.88+9.88) DMG.
 -   Has 8.60x PVE scale
 -   Deals high posture damage.
@@ -594,7 +594,7 @@ Ice
 
 **Effect:** _Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact._
 
--   Deals 55.66 (43.06+12.6) DMG, 8.5 posture, 12s CD at 5 lvl
+-   Deals 55.66 (43.06+12.6) DMG, 8.5 posture, 12s CD at 5 lvl.
 -   With 6 songchant 60.52 (47.92+12.6) DMG.
 -   First hit has 9.18x PVE Scale, next that detonating spear 6.5x (43.06+12.6 PVP DMG, 395.25 + 81.65 PVE DMG)
 -   Inflicts Chill. 2 second Chill on the first hit, the second hit can apply a 4 second Chill with 1 Eternal Logstone.
@@ -635,7 +635,7 @@ Ice + Slash
 
 **Effect:** _Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air._
 
--   Deals 69.49 DMG (16.74+19.26+33.49) DMG, 7+5 posture, 13s CD.
+-   Deals 69.49 DMG (16.74+19.26+33.49) DMG, 7+5 posture, 13s CD at 5 lvl.
 -   With 6 songchant 77.34 (18.64+21.43+37.27) DMG
 -   Has 9.17x PVE scale (33.49 DMG PVP, 307.42 PVE DMG)
 -   Applies Chill. (2 seconds per hit, can't be increased)
@@ -674,7 +674,7 @@ Ice + Blunt (Grab), Ice (Ice Chains)
 
 **Effect:** _User turns invisible and teleports to their opponent within a short range, on hit choking their opponent while they get hit by the ice chains._
 
--   Deals 25.84 (28.76 with 6 songchant) DMG, 6.5 posture, 10s CD (3s if missed)
+-   Deals 25.84 (28.76 with 6 songchant) DMG, 6.5 posture, 10s CD (3s if missed) at 5 lvl.
 -   Has 9.178x PVE scale (25.84 PVP DMG, 237.16 PVE DMG)
 -   Applies an extremely long 12 second Chill at base.
 -   This Mantra has a cooldown of 8 seconds. It goes on a 4 second cooldown if no targets are found on the area of the grab.
@@ -753,7 +753,7 @@ Ice
 
 **Effect:** _Conjure an obelisk of ice in front of the user._
 
--   Deals 72.45 DMG, 1 + 26 (or higher), 0.4s windup on place down and 0.4s wind up to detonate, 15s CD (4s delay before able to detonate)
+-   Deals 72.45 DMG at 5 lvl, 1 + 26 (or higher) posture, 0.4s windup on place down and 0.4s wind up to detonate, 15s CD (4s delay before able to detonate).
 -   Doesn't scale with songchant
 -   Has 6.48x PVE scale (72.45 PVP DMG, 469.48 PVE DMG)
 -   First hit applies Chill. 12 seconds Chill, 16 with 1 Eternal Logstone.
@@ -915,7 +915,7 @@ Ice
 
 **Effect:** _Fires a bullet of ice._
 
--   Deals 24.16 (26.89 with 6 songchant) DMG, 1 posture, 6s CD.
+-   Deals 24.16 (26.89 with 6 songchant) DMG, 1 posture, 6s CD at 5 lvl.
 -   Has 9.18 PVE Scale (24.16 PVP, 221.8 PVE DMG)
 -   Inconsistent hitbox.
 -   Is similar to Galebreathe's "[Wind Gun](Galebreathe.md#wind-gun)" Mantra.
@@ -987,7 +987,7 @@ Ice
 
 **Effect:** _Conjure a torrent of solid ice that extends towards the user's cursor._
 
--   Deals 48.8 (51.69 with 6 songchant) DMG, 16.5 posture, 12s CD.
+-   Deals 48.8 (51.69 with 6 songchant) DMG, 16.5 posture, 12s CD at 5 lvl.
 -   Has 9.18x PVE scale (48.8 DMG PVP, 447.95 PVE)
 -   Can be used to scale walls and terrain.
 -   Inflicts a 1 second Chill (Can't be increased).
