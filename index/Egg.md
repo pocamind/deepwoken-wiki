@@ -1,12 +1,14 @@
 ---
 title: Egg
-revid: 140459
+revid: 141771
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Harvestables]
 ---
 
 # Egg
+
+Not to be confused with Thresher Eggs, a separate item
 
 "You don't have to tell me what happened, you just need to eat these."
 

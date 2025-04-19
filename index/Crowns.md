@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 141564
+revid: 141757
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency]
@@ -33,10 +33,9 @@ Crowns are able to be exchanged for Knowledge or Notes by interacting with the i
 
 -   200 [Notes](Notes.md) per Crown
 -   1 [Knowledge](Knowledge.md) per Crown
+-   1 [Mounts](Mounts.md) per 3 Crown(s)
 
 Additionally, they can also be exchanged through [Sev](Sev.md)\* for one [Dye Packet](Dye_Packet.md) per Crown.
-
-Also, Crowns will be used to purchase mounts once they have been added
 
 -   \*More trade options for crowns are planed, as revealed in the [April 7th Update's](Version_History/2025.md) logs.
 
