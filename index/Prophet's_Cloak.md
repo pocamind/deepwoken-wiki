@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 134763
+revid: 141875
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, The Ministry]
@@ -36,7 +36,8 @@ This Outfit's Schematic can be found in:
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   Chests obtained by [fishing](Fishing.md)
--   Chests from [Rogue Construct](https://deepwoken.fandom.com/wiki/Golem_Constructs#Rogue_Construct_)
+-   Chest obtained from [Rogue Construct](Rogue_Construct.md)
+-   Chest obtained upon defeating all enemies in sea events in [random encounters](Random_Encounters.md)
 
 ## Trivia
 

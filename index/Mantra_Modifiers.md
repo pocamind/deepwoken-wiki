@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 138271
+revid: 141874
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -1788,7 +1788,6 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   Mantras that aren't written/listed are likely incompatible.
 -   Clicking a mantra modifier (not Deep Gems) will produce small white dots that travel in the direction of the nearest mantra table.
 -   A good place to farm for low-level mantra modifiers, especially Sparks, is [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). A gargantuan amount of [Mindless Servants](Mindless_Servant.md) and [Brainsuckers](Brainsucker.md) spawn there when entering the manor. (This method doesn't really work anymore, the [Mindless Servants](Mindless_Servant.md) aren't dropping consistent loot, only sometimes.)
--   Having incompatible mantra modifiers or not having enough notes to successfully modify formerly voided the mantra modifiers. This is no longer the case, and they are refunded on any failure.
 -   There is an NPC called the [Den Master](Den_Master.md) that sells mantra modifiers including Cloudstones, Amnesic Driftwood, Drift Shards, and Crystal Lenses for 10 notes each. He's located in a secret cave near Etris near sea level.
 -   A good way to obtain any spark you want guaranteed is going to [Ata](Ata.md) at [Meteor Isle](Meteor_Isle.md). She sells any spark for each.
 -   Glass/Magnifying Stones are the only known mantra modifiers that are crafted from other mantra modifiers.

@@ -1,6 +1,6 @@
 ---
 title: Mounts
-revid: 141762
+revid: 141884
 source: https://deepwoken.fandom.com/wiki/Mounts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,10 +8,22 @@ categories: [Pages with broken file links]
 
 # Mounts
 
+## Description
+
+Mounts are tamed creatures, that can be used to traverse terrain quicker. Mounts can be purchased at [Sordino](Sordino.md) after completing his quest, doing so, will unlock his shop permanetly across all slots. Obtaining a mount will give you [Beast Whistle](Beast_Whistle.md).
+
 File:A Mudskipper riding a Thresher.png
 
 A wild mudskipper riding a Thresher
 
-The NPC ([Sordino](Sordino.md)) for the mounts is near [Jessamine](Jessamine.md)
+### Current Mounts
 
-Thresher mounts are 3 [Crowns](Crowns.md)
+-   Thresher - Unlock cost 3 [Crowns](Crowns.md)
+
+#### Uncoming Mounts
+
+**\-**
+
+## Trivia
+
+TBA

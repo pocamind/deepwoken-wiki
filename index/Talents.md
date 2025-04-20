@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141842
+revid: 141883
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -500,7 +500,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
     -   Drains 4.5 HP per second and 2% Blood per second. The damage taken from this **cannot** be reduced by any source.
-    -   Grants a 15% damage buff.
+    -   Grants a 15% damage buff to all sources of DMG & bypasses DMG cap making possible to get 2.01x DMG mods instead of 1.75x
     -   Increases blood damage by +35% (additive).
     -   Grants a 30% active speed boost. This counts for talents such as Speed Demon and Cheap Shot.
     -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
@@ -1904,7 +1904,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: [Iron Skin](Ironsing.md#iron-skin) (Mantra), 25 Ironsing
 
 -   Metal Absorption \[Common Talent, Ironsing Exclusive\] - Your 'Iron Hug' also absorbs armor from the enemy.
-    -   Iron Hug will steal 20% of armor from the target.
+    -   Iron Hug will steal 285 durability from target.
     -   Prerequisites: [Iron Hug](Ironsing.md#iron-hug) (Mantra), 30 Ironsing
 
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras.
@@ -1913,7 +1913,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
-    -   Each rod will steal 2% armor (up to 20%)
+    -   Each rod will steal 52 durability off armor.
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
