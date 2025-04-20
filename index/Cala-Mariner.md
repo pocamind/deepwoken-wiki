@@ -1,6 +1,6 @@
 ---
 title: "Cala-Mariner"
-revid: 141215
+revid: 141838
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits]
@@ -19,7 +19,7 @@ Template:ArmorInfobox
 
 This Outfit costs and requires three (3) Cloth, four (4) Fiber, five (5) [Odd Tentacles](Odd_Tentacle.md), one (1) [Nautilodaunt Beak](Nautilodaunt_Beak.md), one (1) [Blue Gem](Mantra_Modifiers.md), and ten (10) [Vibrant Gems](Mantra_Modifiers.md).
 
-This Outfit requires [Power Level](Talents.md) 15.
+This Outfit requires [Power Level](Talents.md) 15 and 5 [Willpower](https://deepwoken.fandom.com/wiki/Attributes#WLL).
 
 ### _Armor Stats_
 

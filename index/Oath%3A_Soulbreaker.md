@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 141552
+revid: 141837
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -110,12 +110,12 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
     -   On successful hit, shows HP and Posture of enemies you hit.
     -   Provides I-Frames during entire move.
     -   AOE attack, can hit multiple people at once.
-    -   It deals an unknown amount of physical damage.
+    -   It deals around 50 physical damage.
 
 -   **Tacet Kick - Combat Mantra**
     -   Similarly to Tacet Drop Kick, the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them.
     -   Could prove useful in catching players.
-    -   It deals an unknown amount of physical damage.
+    -   It deals around 15 physical damage.
 
 ## Version History
 

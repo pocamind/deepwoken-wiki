@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 141812
+revid: 141840
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -54,7 +54,7 @@ The Top Shelf
 </tbody>
 </table>
 
-#### Main dialogue
+### Main dialogue
 
 -   1\. Could you remove some of my dyes? (Only appears if you're wearing something dyed)
 -   2\. How are you able to do all of this stuff?
@@ -64,7 +64,7 @@ The Top Shelf
         -   1\. "...Can I take the Oath?"
             -   Barber: "\*_They look at you up and down._\* Not with that get-up you can't." (if without meeting the requirements)
 
-#### If you're wearing something dyed
+### If you're wearing something dyed
 
 -   1\. Could you remove some of my dyes?
     -   Barber: "Sure, what would you like removed?" (Continues)

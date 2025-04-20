@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 141825
+revid: 141844
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -20,6 +20,10 @@ Frostdraw icon
 
 Landing Frostdraw [Mantras](Mantras.md) applies Chill, which slows down enemies and is able to be improved upon with certain [Talents](Talents.md). Adding [Logstones](Mantra_Modifiers.md) to certain Mantras can increase the duration of Chill.
 
+## Obtainment
+
+The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions.md) obtained from the [Attunement Trainer](Attunement_Trainers.md), [Nell](Nell,_Master_of_Frost.md), located in [Etris](Etris.md) at the end of a path to the right of the Guild Hall inside a hut, using 5 [Frigid Prisms](Frigid_Prism.md) (2 if already obtained).
+
 ## Training
 
 A Hemafrosted Capra casting a beam of ice.
@@ -35,7 +39,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Frostdraw, players receive the _Expert Frostdrawer_ Talent allowing the player to obtain 2-star Frostdraw Mantras.
 -   Finally, at 50 Frostdraw, players receive the _Master Frostdrawer_ Talent, allowing them to obtain 3-star Frostdraw Mantras.
 
-The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions.md) obtained at [Etris](Etris.md), inside a hut on the edge of town, using five Frigid Prisms (2 if already obtained), and can upgrade spells for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
+[Nell](Nell,_Master_of_Frost.md) can upgrade Frostdraw Mantras for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
 
 -   Upgrading a Frostdraw Mantra from level 1 to level 2 costs.
 -   Upgrading a Frostdraw Mantra from level 2 to level 3 costs.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141687
+revid: 141842
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2361,7 +2361,7 @@ _**"My cure is most effective."**_
         -   The damage is so small, that there is no pixel difference between the damage received with or without it.
     -   The cooldown is actually 8 seconds despite what the Talent description says.
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
-    -   Prerequisites: Trained Fist, 25 Agility
+    -   Prerequisites: Fist/Kick style equipped, 25 Agility
 
 -   Pocket Sand \[Common Talent\] - \[Fist\] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
     -   This Talent does not work with [Jus Karita](Jus_Karita.md).
