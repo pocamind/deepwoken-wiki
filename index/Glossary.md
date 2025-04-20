@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 137742
+revid: 141859
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -136,6 +136,18 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   When it comes to the Voidsea, the conventional laws of times and space hang in the towel.
 -   Islands dragged into the Voidsea, may suddenly be spat back out fifty years later, its inhabitants wholly unaware of the time that has passed.
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
+
+### Time Periods
+
+#### The Old World
+
+-   The times before the Tides arrived.
+-   The Canticlysm is often thought of as the defining era of the Old World.
+
+#### The Canticlysm
+
+-   A so-called 'Golden Age of Mankind' that was precipitated by the initial discovery and application of the Song within Lumen.
+-   A time of great expansion, discovery, and conflict.
 
 ### Terminology
 

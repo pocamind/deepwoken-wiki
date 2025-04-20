@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 134385
+revid: 141865
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -18,9 +18,9 @@ A land lost to time, now made a battleground for warriors who know not why they 
 
 ## Overview
 
-Lower Erisia is a portion of [Erisia](Erisia.md) that drifted in through the Voidsea from changing currents. Typically, this island is for beginners from power 1-7 and referred by many as "bandit island." It is recommended to learn the basics here, before going to [Trial of One](Trial_of_One.md).
+Lower Erisia (as it's name suggests), is the lower portion of [Erisia](Erisia.md) that drifted in through the Voidsea from changing currents. Typically, this island is for beginners from power 1-7 and referred by many as "bandit island." It is recommended to learn the basics of combat here, before going anywhere else to progress as a new player.
 
-This island is recommended for those [Power Level](Power.md) 1 through 20.
+This island is recommended for those [Power Level](Power.md) 1 through 10 for grinding. (After power 10, there isn't much to see or do here).
 
 ## Points of Interest
 

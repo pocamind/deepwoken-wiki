@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 141473
+revid: 141867
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -37,7 +37,7 @@ Brainsuckers are a [monster](Monsters.md) that spawns alone above the waves of t
 
 -   Their attacks, particularly Bite, have very strange hitboxes, making parrying them difficult. This, combined with its low damage, makes it more worthwhile to simply mash your basic attack until it dies.
 -   Landing [Ice Lance](Frostdraw.md) on them will cause them to be flung incredibly far, meaning putting a wayward on it may lead to you being sent incredibly far.
--   They are generally only a nuisance, and will very rarely prove a threat unless in large groups.
+-   They seriously aren't a threat. Even as a level 1, you can just stat check it.
 
 ## Trivia
 
