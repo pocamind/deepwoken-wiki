@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 141799
+revid: 141857
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -89,6 +89,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
         -   Being attacked with the blue aura will ignore the attack and stun the attacker for about 2 seconds, acting as a counter.
         -   Non-Humanoids will bypass the counter aura, instead outright hitting you.
         -   Can be vented out of.
+        -   Whip hit deals 20 oath DMG
 
 ## Trivia
 
