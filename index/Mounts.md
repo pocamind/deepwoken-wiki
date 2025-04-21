@@ -1,6 +1,6 @@
 ---
 title: Mounts
-revid: 141884
+revid: 141908
 source: https://deepwoken.fandom.com/wiki/Mounts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,7 +20,7 @@ A wild mudskipper riding a Thresher
 
 -   Thresher - Unlock cost 3 [Crowns](Crowns.md)
 
-#### Uncoming Mounts
+#### Upcoming Mounts
 
 **\-**
 

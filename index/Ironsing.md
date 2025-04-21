@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 141902
+revid: 141906
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1245,7 +1245,7 @@ Your 'Iron Hug' also absorbs armor from the enemy.
 
  | 
 
-Landing the Iron Hug Mantra will absorb armor from the enemy.
+Landing the Iron Hug Mantra will absorb 15% of current enemy's armor durability.
 
  |
 | 
@@ -1277,7 +1277,7 @@ Pulling an opponent absorbs a portion of their current Armor durability.
 
  | 
 
-Pulling an opponent absorbs 2% per rod of their current Armor durability.
+Each individual rod absorbs 2% of current enemy's armor durability.
 
  |
 | 
@@ -1305,6 +1305,22 @@ _**"I seek the qualities of Rending Needle."**_
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+ | 
+
+Conductor's cable  
+(75 Ironsing)
+
+ | 
+
+Applying Conductor rods on opponents steals 10% of their current armor durability to you.
+
+ | 
+
+FROM: Ironsinger
+
+ |
+| 
+
  | 
 
 Rending Needle: Conductor  
@@ -1451,7 +1467,7 @@ Successful procs of Scrapsinger will increase the amount of armor damage your op
 
  | 
 
-On successful proc of Scrapsinger steal extra 5% armor. After reaching 10 metal rods, opponent will take extra 5% DMG until rod stacks will drop below 10.
+On successful proc of Scrapsinger gain 25% extra armor drain multiplier. After reaching 10 metal rods, opponent will take extra 5% DMG until rod stacks will drop below 10.
 
  |
 

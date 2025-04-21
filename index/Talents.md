@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141883
+revid: 141907
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1608,7 +1608,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 55 Ironsing
 
 -   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
-    -   15% extra posture damage at 100% armor.
+    -   15% extra posture damage at 100% armor, scales from % armor left (Means that 2600 and 1000 durability armor will have same effect at 100% armor and etc)
     -   Posture damage buff does not apply to M1s or non Ironsing mantras.
     -   Prerequisite: 45 Ironsing
 
@@ -1904,7 +1904,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: [Iron Skin](Ironsing.md#iron-skin) (Mantra), 25 Ironsing
 
 -   Metal Absorption \[Common Talent, Ironsing Exclusive\] - Your 'Iron Hug' also absorbs armor from the enemy.
-    -   Iron Hug will steal 285 durability from target.
+    -   Iron Hug will steal 15% of current enemy's armor durability (If iron hug someone with 1k durability armor, you will get only 150 durability to you, as example 2600 durability armor will get 6% armor)
     -   Prerequisites: [Iron Hug](Ironsing.md#iron-hug) (Mantra), 30 Ironsing
 
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras.
@@ -1913,7 +1913,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Ironsing
 
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
-    -   Each rod will steal 52 durability off armor.
+    -   Each rod will steal 2% of current enemy's armor durability (If you pull 10 rods out of 1k durability armor, you will get only 200 durability to you, as example 2600 durability armor which is 7%)
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
@@ -2241,14 +2241,14 @@ _**"My cure is most effective."**_
 > _**"I seek the qualities of Rending Needle."**_
 
 -   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
-    -   Steals 10% armor on proc
+    -   Steals 10% of your enemy's armor durability on proc
     -   Prerequisite: Rending Needle: Conductor
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
     -   Works as default path with exception of applying a Conductor rod after 5 normal metal rods are applied.
     -   Conductor rods last 30 seconds or until an elemental mantra is used.
     -   On proc, the Conductor Rod will apply the elemental effect of the Mantra your opponent is trying to use to themselves.
-    -   If your opponent uses a Mantra while being affected by a Conductor rod, 5% of their armor will be **drained** and it proc have the following effect:
+    -   If your opponent uses a Mantra while being affected by a Conductor rod, 5% of their current armor durability will be **drained** and it proc have the following effect:
         -   Flamecharm Mantra: Apply Burn (base path) / No effect with eruption path, rod falls off.
         -   Frostdraw Mantra: Deals a very low amount of damage (Base path) / Apply Crystal on victim (Crystallization path)
         -   Galebreathe Mantra: Suffocate + cancels mantra (Base path) / spawns Apparitions (Specter Path)
@@ -2393,14 +2393,14 @@ _**"My cure is most effective."**_
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   Refine and Reuse \[Common Talent, Ironsing Exclusive\] - Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.
-    -   Doesn't work well with Reinforced Armor.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   Songs Unforged \[Common Talent, Ironsing Exclusive\] - Your weapon criticals will now activate scrapsinger.
     -   Prerequisites: Gilded Path: Scrapsinger, 50 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
-    -   Extra 5% armor drain on flourish/crit, as example 2% from pulled out rod + Reshape and Remold applies bonus 5%
+    -   Gives 25% armor **DRAIN** bonus, basically each rod **DRAIN** 2.5% instead of 2%.
+    -   You **STEAL** same amount of armor as if you used a iron pull.
     -   Bonus armor drain works **ONLY ON CRIT OR FLOURISH**, not on further hits after that.
     -   5% DMG bonus currently bugged. (Since Summer 2023)
     -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[5\]](#cite-note-5)
