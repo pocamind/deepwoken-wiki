@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 141348
+revid: 141902
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -128,8 +128,9 @@ Metal + Slash + Bleed
 -   Has 9.17x PVE scale (29.9 DMG + 8.97 Bleed PVP, 274.48 + 82.35 Bleed PVE)
 -   By rotating your view, you can reangle the Mantra to catch rolls.
 -   Heavily reminiscent of the legacy Frostdraw Mantra, [Ice Eruption](Frostdraw.md#ice-eruption).
--   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption.
+-   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption, but reduces posture DMG.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity, which was useful in the past because the eruption was collidable, but it is not anymore.
+-   This mantra hits 4 times, but if it hits a person, that person would be immune to next 3 hits from metal eruption.
 
  |
 | 
@@ -569,7 +570,7 @@ Metal + Slash
 
 -   Deals 23.92 (26.62 with 6 songchant) DMG, posture 4 per hit, 0.6s wind up, lasts 20s, 30s cd at 5 lvl.
 -   Has 5.15x PVE scale (23.92 DMG PVP, 122.71 PVE DMG)
--   Applies very brief parry stun to user.
+-   Applies very brief parry stun to user and gives very brief auto parry frames to opponent if parried.
 -   Upgrading the level increases the duration of the Mantra.
 -   Deep gems do not proc, except for Blue.
 
@@ -759,6 +760,7 @@ Metal + Slash + Bleed
 -   Has 9.3x PVE scale (28 DMG + 8.4 Bleed in PVP, 260.76 + 78.24 Bleed in PVE)
 -   Covers 82 studs of distance.
 -   Applies Metal Rods on hit.
+-   Applies 0.5s knockdown on hit, has 0.2s endlag.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
     -   Needs further testing.
 
