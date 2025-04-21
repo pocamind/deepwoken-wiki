@@ -1,6 +1,6 @@
 ---
 title: Bronze Aspis
-revid: 141792
+revid: 141910
 source: https://deepwoken.fandom.com/wiki/Bronze_Aspis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -28,4 +28,4 @@ Bronze Aspis is a [side weapon](Weapons.md) in the [Shields](Weapons.md#offhand)
 
 ## Notes
 
-The second worst shield in the game, having more weight than [Targe](Targe.md), but less than [Kite Shield](Kite_Shield.md).
+-   The second worst shield in the game, having more weight than [Targe](Targe.md), but less than [Kite Shield](Kite_Shield.md).
