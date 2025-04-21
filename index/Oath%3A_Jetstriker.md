@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 141347
+revid: 141891
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -68,7 +68,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
         -   This Talent is the same as the old legendary Talent named 'Vanishing Follow-Up,' which was removed due to changes in the flourish system after Layer 2 was dropped.
 
 -   **Momentum Bar - Passive**
-    -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player. When maxed-out, mantras will deal more damage and the color of mantras will change according to the cosmetic of the Oath.
+    -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player. When maxed-out, mantras will deal 20% more damage and the color of mantras will change according to the cosmetic of the Oath.
 
 -   **Stratos Step - Talent**
     -   While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
@@ -86,13 +86,19 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 -   **Fake Strike - Combat Mantra**
     -   Trick your opponent and quickly go behind them.
+    -   Deals 21.68 Oath damage per hit (3).
+        -   Deals 65.04 Oath damage if all land.
+    -   Deals 20% more damage at maximum Momentum.
 
 -   **Jet Kick - Mobility Mantra**
-    -   Rush forward with a jet kick. Requires a target if you're in combat. It has a base damage of 30.
+    -   Rush forward with a jet kick. Requires a target if you're in combat.
+    -   Deals 38.25 Oath damage.
+    -   Deals 20% more damage at maximum Momentum.
 
 ## Notes
 
--   The Knockdown for Vigil's Grace didn't cancel the heavy weapon's knockback, so the enemy would just slip away while on the floor.
+-   **JETSTRIKER MANTRAS DON'T SCALE WITH AGILITY AT ALL.**
+-   The Knockdown for the, since removed, Vigil's Grace Talent didn't cancel the heavy weapon's knockback, so the enemy would just slip away while on the floor.
 -   Vigil's Grace card had another Oath name instead of Jetstriker, this time being "Oath: Windrunner"
 -   Jetstriker did not have mantras prior to March 29, 2024.
 -   Aside from how useful it is for trackstar builds, it also has potential to become powerful in both PVE and PVP. This is because of the great offensive and defensive capabilities from the I-frame running m1s and dodges respectively. If this is combined with high Passive Agility Talents and ways to gain speed quickly, you don't have to worry about getting punished for using running m1s, not to mention the insane mobility options this provides. To help this even more you can fully ignore [Scion of Ethiron](Scion_of_Ethiron.md) ultimate by timing the boosted dodge without having to activate things like ghost/risky moves and others.
