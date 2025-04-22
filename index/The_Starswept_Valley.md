@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 132096
+revid: 141962
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Locations in the Eastern Luminant]
@@ -58,80 +58,62 @@ The weather for Starswept Valley.
 
 Below is a list of potential items that can spawn in chests in Starswept Valley.
 
-| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
-| --- | --- | --- | --- |
-| 
--   [11th Legion Plate](11th_Legion_Plate.md)
--   [Legion Centurion](Legion_Centurion.md)
--   [Prophet's Cloak](<Prophet's_Cloak.md>)
--   [Hive Drone](Hive_Drone.md)
--   [Hive Tactician Armor](Hive_Tactician_Armor.md)
-
- | 
-
--   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
--   [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
--   [Authority Helm](Authority_Helm.md)
--   [Goldleaf Helm](Goldleaf_Helm.md)
--   [Blackleaf Helm](Blackleaf_Helm.md)
--   Gladiator Helm
--   [Knight's Helm](<Silver_Knight's_Helm.md>)
--   [Khan Helmet](Legion_Helmet.md)
--   [Pale Assassin's Hood](<Assassin's_Hood.md>)
--   [Vigil Hood](Vigil_Hood.md)
--   [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
--   [Headband (Series)](Headband.md)
--   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
--   [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)
--   [Practicioner's Earrings](<Practicioner's_Earrings.md>)
--   Scarf (Series)
--   [Pale Assassins Cloak](<Assassin's_Cloak.md>)
--   [Star Duster](Star_Duster.md)
--   Black Parka (Series)
--   [Royal Pathfinder](Royal_Pathfinder.md)
--   [White Fur Pauldrons](Fur_Pauldrons.md)
--   [Khan Pauldrons](Legion_Pauldrons.md)
--   [Silver Pauldrons](Silver_Pauldrons.md)
--   [Woodland Pauldrons](Woodland_Pauldrons.md)
--   [Bluesteel Boots](Bluesteel_Boots.md)
--   [Flameguard Boots](Flameguard_Boots.md)
--   [Imperial Boots](Imperial_Boots.md)
--   [Khan Boots](Legion_Boots.md)
--   [Star Boots](Star_Boots.md)
--   [Tracker's Boots](<Tracker's_Boots.md>)
--   [Vanguard Boots](Vanguard_Boots.md)
--   [Woodland Boots](Woodland_Boots.md)
--   [Silver Sabatons](Silver_Sabatons.md)
-
- | 
-
--   [Apprentice Rapier](Apprentice_Rapier.md)
--   [Crucible Rapier](Crucible_Rapier.md)
--   Master Hawk's Handaxe
--   [Champion's Sword](<Champion's_Sword.md>)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
--   [Khan Shield](Legion_Shield.md)
--   [Legion Cestus](Legion_Cestus.md)
--   [Nemit's Sickle](<Nemit's_Sickle.md>)
--   [Pale Morning](Pale_Morning.md)
--   [Sacred Hammer](Sacred_Hammer.md)
--   [Shattered Katana](Shattered_Katana.md)
--   [Tanto](Tanto.md)
--   [Forgotten Gladius](Forgotten_Gladius.md)
--   [Iron Cestus](Iron_Cestus.md)
--   [Iron Birch](Iron_Birch.md)
--   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
-
- | 
-
--   [Platinum Bar](Treasures.md)
--   [Diamond](Treasures.md)
--   [Gold Bar](Treasures.md)
--   [Ruby](Treasures.md)
--   [Sapphire](Treasures.md)
-
- |
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td>
+  <ul>
+    <li><b>Adept</b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>.</li>
+    <li><b>Expert</b>: <a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>.</li>
+    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Enchantments.md#curses">Curse of Rhaemen's Ember Enchant Stone</a></li>
+    <li>Most <a href="Treasures.md">Gems</a>:
+  <ul>
+    <li><a href="Treasures.md">Platinum Bar</a></li>
+    <li><a href="Treasures.md">Diamond</a></li>
+    <li><a href="Treasures.md">Gold Bar</a></li>
+    <li><a href="Treasures.md">Ruby</a></li>
+    <li><a href="Treasures.md">Sapphire</a></li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li>
+    <li><b>Alloyed Weapons</b>: N/A</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Crucible_Rapier.md">Crucible Rapier</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Tanto.md">Tanto</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Pernach.md">Pernach</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Shattered_Katana.md">Shattered Katana</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Markor's_Inheritor.md">Markor's Inheritor</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Sovereign's_Punishment.md">Sovereign's Punishment</a>.</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="Legion_Shield.md">Khan Shield</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Pale), <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, Gladiator Helmet, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Silver_Knight's_Helm.md">Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale), <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), <a href="Legion_Pauldrons.md">Khan Pauldrons</a>, Parkas (Black), <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Silver_Pauldrons.md">Silver Pauldrons</a>, <a href="Star_Duster.md">Star Duster</a>, <a href="Woodland_Pauldrons.md">Woodland Pauldrons</a>.</li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Flameguard_Boots.md">Flameguard Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (Black, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a>, <a href="Star_Boots.md">Star Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Vanguard_Boots.md">Vanguard Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>.</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: Scarf (All Variants).</li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Headband.md">Headband</a> (Blue, Green, &amp; White), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a>.</li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a>, <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a>.</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: TBA</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

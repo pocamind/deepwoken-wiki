@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 140767
+revid: 141964
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -241,12 +241,12 @@ Proof of Time Magic's existence and it being an "Oath"
 -   Almost all Oath Mantras can be modified with [Vibrant Gems](Mantra_Modifiers.md).
     -   However, no Oath Mantras can be leveled up beyond level 1.
 -   Some Oaths change your character's eye color.
-    -   Linkstrider gives the user Cyan eyes.
-    -   Visionshaper gives the user Bright Magenta eyes.
-    -   Jetstriker gives the user Silver eyes.
-    -   Dawnwalker gives the user White eyes.
-    -   Contractor gives the user Dark Maroon eyes.
-    -   Silentheart gives a darker and duller shade of the player's current eye color.
+    -   [Linkstrider](Oath%253A_Linkstrider.md) gives the user Cyan eyes.
+    -   [Visionshaper](Oath%253A_Visionshaper.md) gives the user Bright Magenta eyes.
+    -   [Jetstriker](Oath%253A_Jetstriker.md) gives the user Silver eyes.
+    -   [Dawnwalker](Oath%253A_Dawnwalker.md) gives the user White eyes.
+    -   [Contractor](Oath%253A_Contractor.md) gives the user Dark Maroon eyes.
+    -   [Silentheart](Oath%253A_Silentheart.md) gives a darker and duller shade of the player's current eye color.
 -   In the [Battle Royale](Battle_Royale.md) gamemode, Oaths can be obtained by collecting Oath Shards from chests.
     -   It takes 3 shards to obtain the Oath, and one for each subsequent Talent.
 -   [Oathless](Oath%253A_Oathless.md) does not take 10 [Knowledge](Knowledge.md) when skipped, instead grants the Oath immediately.

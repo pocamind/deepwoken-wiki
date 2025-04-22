@@ -1,6 +1,6 @@
 ---
 title: Fur Pauldrons
-revid: 125134
+revid: 141931
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Dread Serpent, Aratel Island, Maestro Evengarde Rest (Black), War Mode (White) |
+| obtainment | Chests from:, Erisia, Dread Serpent, Aratel Island, Starswept Valley (White), Maestro Evengarde Rest (Black), War Mode (White) |
 | description | "..." |
 
 ## Description

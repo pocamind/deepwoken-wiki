@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 141498
+revid: 141959
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -227,6 +227,7 @@ _+Talent: Assassin_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
@@ -254,6 +255,7 @@ _+Talent: Strong Hold_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
@@ -308,6 +310,7 @@ _+Talent: Pitcher_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [War Mode](War_Mode.md)
@@ -332,6 +335,7 @@ _+Talent: Iron Gut_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -383,6 +387,7 @@ _+Talent: Concussive Force_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -903,6 +908,7 @@ _+Talent: Concussive Force_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
@@ -927,6 +933,7 @@ Found from:
 
 -   [Golden Warrior](Golden_Warrior.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -1124,6 +1131,7 @@ _+2 Posture_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
@@ -1148,6 +1156,7 @@ _+10 Health_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -1553,6 +1562,7 @@ Found from:
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -1995,6 +2005,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
@@ -2434,6 +2445,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Second Layer](Second_Layer.md)
@@ -2811,6 +2823,7 @@ _+Talent: Polite Awakening_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -3243,6 +3256,7 @@ _+Talent: Ready or Not_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
@@ -3323,6 +3337,8 @@ _+1 Posture_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -3399,6 +3415,7 @@ _+Talent: Star Duster_
 Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
@@ -3642,6 +3659,7 @@ _+Talent: Polite Awakening_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -3804,6 +3822,7 @@ _+3 Health_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -3932,6 +3951,7 @@ _+3 Health_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -3956,6 +3976,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -4028,6 +4049,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [War Mode](War_Mode.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 
  | N/A |
 | File:Static-assets-upload12369006146430102616.png | 
@@ -4066,6 +4088,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
@@ -4219,6 +4242,7 @@ _+3 Health_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -4244,6 +4268,7 @@ _+5 Health_
 Found from:
 
 -   [Deep Widow](Deep_Widow.md) (The Depths)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
@@ -4270,6 +4295,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -4293,6 +4319,7 @@ _+3 Health_
 Found from:
 
 -   [Erisia](Erisia.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -4367,6 +4394,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -4828,6 +4856,9 @@ _+3% Attunement Armor, changes depending on Scarf Variant_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
+-   [Aelita](Aelita.md)
+-   [Ferryman](The_Ferryman.md) (Winter)
 
  | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 |  | 
@@ -5336,6 +5367,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -5562,6 +5594,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 -   [First Layer](First_Layer.md)
@@ -5645,6 +5678,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -5795,6 +5829,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [First Layer](First_Layer.md) (**Rare**)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -5815,6 +5850,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |

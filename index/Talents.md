@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 141907
+revid: 141957
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1401,7 +1401,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds.
         -   Namely Shared Misery and _Piercing Will_.
         -   Note that this passive does **NOT** work with _Lose Your Mind_, as it only procs based on your current sanity percentage. And while Heretic's Sutra can help with sanity loss, it does not passively activate _Lose Your Mind_.
-    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to Kasen, located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
+    -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
 
 ### Human Architecture
 

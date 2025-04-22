@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 139824
+revid: 141919
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -29,15 +29,25 @@ Motifs **can only be applied to weapons that can be extracted for their Motif** 
 
 Any weapon with a default critical (excluding Fist weapons) can be used to obtain a Motif. Like other Motifs, base critical Motifs can only be equipped on any other weapon in that weapon class that can also be used to obtain a Motif. This includes other weapons with the weapon class' default critical, which of course, does nothing when applied.
 
-You can see if your weapon is compatible in the Campfire menu; if your weapon has a Motif slot, then it can use and create Motifs.
+### Overridable Weapons
+
+There are a few specific weapons that can equip Motifs despite them not being Motif-able themselves. For instance, you can Motif [Whaling Knife](Whaling_Knife.md)'s critical onto the [Tanto](Tanto.md), but you can't apply Tanto's critical to any other weapon. These weapons are:
+
+-   [Tanto](Tanto.md) / \[\[Tanto#Alloyed|Template:AlloyedColor\]\]
+-   [Gremorian Longspear](Gremorian_Longspear.md) / \[\[Gremorian Longspear#Alloyed|Template:AlloyedColor\]\]
+-   [True Seraph Spear](True_Seraph_Spear.md)
 
 ### 
 
 Full list of Motif-able weapons
 
-| Weapon you can get a Motif from | What weapon classes the Motif works on |
-| --- | --- |
+| Weapon you can get a Motif from | Critical visual (important for scaling) | What weapon classes the Motif works on |
+| --- | --- | --- |
 | 
+[Krulian Knife](Krulian_Knife.md)
+
+ | 
+
 [Krulian Knife](Krulian_Knife.md)
 
  | 
@@ -46,6 +56,10 @@ Daggers
 
  |
 | 
+
+[Nemit's Sickle](<Nemit's_Sickle.md>)
+
+ | 
 
 [Nemit's Sickle](<Nemit's_Sickle.md>)
 
@@ -60,6 +74,10 @@ Daggers
 
  | 
 
+[Whaling Knife](Whaling_Knife.md)
+
+ | 
+
 Daggers
 
  |
@@ -69,10 +87,18 @@ Daggers
 
  | 
 
+[Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
+
+ | 
+
 Swords, Clubs, Twinblades, Spears, Bows
 
  |
 | 
+
+[Serpent's Edge](<Serpent's_Edge.md>)
+
+ | 
 
 [Serpent's Edge](<Serpent's_Edge.md>)
 
@@ -87,12 +113,20 @@ Swords, Spears
 
  | 
 
+[Shotel](Shotel.md)
+
+ | 
+
 Swords, Clubs, Twinblades, Spears, Bows
 
  |
 | 
 
 [Trident Spear](Trident_Spear.md) / \[\[Trident Spear#Alloyed|Template:AlloyedColor\]\] / [Golden Swordfish](Golden_Swordfish.md)
+
+ | 
+
+[Trident Spear](Trident_Spear.md)
 
  | 
 
@@ -105,10 +139,18 @@ Spears
 
  | 
 
+\[\[Crescent Cleaver#Alloyed|Template:AlloyedColor\]\]
+
+ | 
+
 Greatswords
 
  |
 | 
+
+[Kanabo](Kanabo.md)
+
+ | 
 
 [Kanabo](Kanabo.md)
 
@@ -123,6 +165,10 @@ Greathammers
 
  | 
 
+[Halberd](Halberd.md)
+
+ | 
+
 Greataxes, Spears
 
  |
@@ -132,36 +178,37 @@ Any weapon with a default critical attack (excluding fists)
 
  | 
 
+**Light Weapons**:  
+Dagger: [Stiletto](Stiletto.md), Fists: N/A, Gun: [Dawnshot](Dawnshot.md), Rapier: ?
+
+**Medium Weapons**:  
+Sword: [Sword](<Sword_(weapon).md>), Spear: ?, Club: ?, Gun: [Dawnshot](Dawnshot.md), Twinblade: [Scalesplitter](Scalesplitter.md), Bow: N/A
+
+**Heavy Weapons**:  
+Greataxe: [Battleaxe](Battleaxe.md), Greatsword: [Divine Greatsword](Crazy_Slots.md), Greathammer: ?
+
+ | 
+
 The weapon class the Motif-ed weapon belongs to
 
  |
 
-### Overridable Weapons
-
-There are a few specific weapons that can equip Motifs despite them not being Motif-able themselves. For instance, you can Motif [Whaling Knife](Whaling_Knife.md)'s critical onto the [Tanto](Tanto.md), but you can't apply Tanto's critical to any other weapon. These weapons are:
-
--   [Tanto](Tanto.md) / \[\[Tanto#Alloyed|Template:AlloyedColor\]\]
--   [True Seraph Spear](True_Seraph_Spear.md)
--   [Gremorian Longspear](Gremorian_Longspear.md) / \[\[Gremorian Longspear#Alloyed|Template:AlloyedColor\]\]
-
-  
-
-### Additional Notes
+## Additional Notes
 
 Weapon criticals have their own stats separate to the weapon they're on. This means that weapon criticals like [Shotel](Shotel.md)'s will **retain their unique properties** when put on another weapon; being Shotel critical's 100% chip damage in this case.
 
-As for the damage a Motifed critical will deal on another weapon; critical attack damage (from most weapons) is a multiplier to the weapon's scaled damage, it's a stat built into each critical attack and is specific to that critical attack. For example, if you have a hypothetical weapon that has a 1.25x scaled damage multiplier on critical and that weapon has 30 scaled damage, the critical will deal 37.5 damage on that weapon. Then if you were to Motif that weapon and put its critical on a weapon that has 24 scaled damage, the critical will only deal 30 damage.  
-This just means that your **Motifed critical will deal less damage than the weapon it was originally from if your current weapon has less scaled damage and vice versa**.
+As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. Unfortunately for most weapons, this entirely **bypasses** innate scaling on that weapon. Scaling rings will still work though.
 
-This isn't always the case of course, as some weapon criticals have a set damage value regardless of your weapon's scaled damage (e.g. [Stoneheart](Stoneheart.md)). None of those weapons are Motif-able however.
+For example: If you had [Shotel](Shotel.md) Motif on [Razor Cutlass](Razor_Cutlass.md), it'd have 18 base damage with 4 medium scaling whereas the Razor Cutlass has 7.5 medium scaling. Razor Cutlass has low base damage with high scaling, but because it now uses Shotel's medium scaling for the critical instead, it'll deal significantly less damage than the innate sword critical would even if you don't take into account scaled damage multipliers.  
+Or if you had Greatsword Motif on [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), it'd remove the innate Intelligence and Charisma scaling for the critical and replace it with 12 heavy weapon scaling from [Divine Greatsword](Crazy_Slots.md), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete.  
+And of course this could instead _add_ core attribute/elemental scaling, like in the case of [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md) Motifs.
 
 ## Trivia
 
 -   Motifs themselves cannot be banked nor dropped.
     -   However, weapons with a Motif equipped can be both banked and dropped.
--   Motifs can be applied to the '22 [Hallowtide](Hallowtide.md) weapons.
--   You can swap Motifs during combat to change up your critical for mixups.
+-   Motifs can be applied to the '22 [Hallowtide](Hallowtide.md) weapons (excluding skyreap).
+-   You can swap Motifs during combat to change up your critical for mixups, however you'll need a campfire or [Graceful Flame](Flamecharm.md#graceful-flame) to do this more than once.
 -   The 'Gun' Motif uniquely can be obtained from and can be applied to _both_ the Rifle and Flintlock weapon classes despite it being a base weapon critical. With that being said, this Motif will do nothing when applied since you're replacing a base weapon critical with the same base weapon critical.
     -   Using the 'Gun' Motif on the [Iron Blunderbuss](Iron_Blunderbuss.md) does nothing; the critical stays the same instead of becoming ranged.
 -   Passing down a [Weapon](Weapons.md) with a Motif completely voids the Motif.
--   as of the update 3/8/2025 they have updated the motifable weapons (someone please add)

@@ -1,6 +1,6 @@
 ---
 title: Kasen
-revid: 137909
+revid: 141958
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer]
@@ -16,13 +16,43 @@ categories: [Capra NPCs, NPCs, Quests, Talents, NPCs located in the First Floor 
 
 ## Description
 
-Kasen is a Capra NPC in [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Eternal Gale](Second_Layer/The_Ethironal_Shrine.md).
+Kasen is a Capra NPC in [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Eternal Gale](Second_Layer/The_Ethironal_Shrine.md). The fastest way to get to him is, upon entering the Shrine, immediately turn right and dash off of the bridge and onto the cliffs. Then, jump down.
 
-Talking to him with at least 80 Willpower and have **had** tier 1 insanity, he will teach you Heretic's Sutra, a [Talent](https://deepwoken.fandom.com/wiki/Talents#Heretic) that reduces the sanity of the user by a flat amount.
+Talking to him with at least 80 Willpower and have **had** tier 1 insanity, he will teach you Heretic's Sutra, a [Talent](Talents.md#heretic) that reduces the sanity of the user by a flat amount.
 
 ## Dialogue
 
-_**THE VOICES**_... Can you hear them? Those who are _empowered_ by the voices are those who are most insusceptible to its _fallacies._ _**I SEE... THE VOICES SAY YOU WILL DO.**_ Recite this chant and the voices will reach out to you.
+**Requirements Met:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6"><b>THE VOICES</b>... Can you hear them? Those who are <b>empowered</b> by the voices are those who are most insusceptible to its <b>fallacies. I SEE... THE VOICES SAY YOU WILL DO.</b> Recite this chant and the voices will reach out to you.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Insanity met, not Willpower:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6"><b>THE VOICES</b>... Can you hear them? Those who are <b>empowered</b> by the voices are those who are most insusceptible to its <b>fallacies</b>. The voices may be familiar with you but it might be too much for someone with such a <b>WEAK</b> will.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 140696
+revid: 141920
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -161,42 +161,9 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   **Resonance progression -** Gives the second best resonance progress (4-7 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [your Bell](Resonance.md).)**
 -   **2 [Knowledge](Knowledge.md) -** On first kill, Primadon will reward you with 2 knowledge. Subsequent kills will reward 1 knowledge, however if you decide to defeat Primadon with multiple people you must do 20% (8,000) of his health to get the reward of one knowledge.
 
-## Strategies & Tips
+### 
 
-[Power](Power.md) 15-20 is **highly** recommended if fighting the boss, due to level scaling damage done to NPCs.
-
-### Preparation
-
--   Unlike some other bosses, Primadon's health does **not** scale with the number of players present on the island- you are instead given _16 minutes_ to kill this boss. If this isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
--   Having armor that grants Physical / Blunt damage resistance greatly reduces the Primadon's damage during his stomps.
--   It is recommended to stay completely still while fighting. When between Primadon's feet, it will only **Stomp, Trample, Disengage** and **Kick**. This is a great way to solo it as its foot attacks are obvious and can be easily parried or rolled out of.
-    -   If Primadon does use **Disengage**, quickly close the distance so he doesn't use **Grab** or **Rock Throw**.
-    -   If multiple players are attacking Primadon at the same time, make sure that they are all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
--   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung.
-    -   If you were catapulted out into the ocean, there is a chance that a [Lionfish](Lionfish.md) will spawn in to kill you even if you have the [Scuba Drowner](Talents.md#waterborne) Talent or survived the fall.
--   Blessed, Wind, Wayward, and Insignia Gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will heal _very_ little due to Primadon's immunity to elemental damage resistance.
-    -   Debuffs from Mantras do affect Primadon.
--   Primadon cannot actually grip you, unless he stomps or throws you. You can abuse this mechanic to have a friend with Primadon chasing them get downed to the rock throws and get Primadon on their downed body to be able to heal up.
-    -   **WAIT FOR YOUR FRIEND TO STAND UP BECAUSE IF Primadon DOES A STOMP OR GRABS THEM, THEY WILL DIE.**
-    -   In other words, get Primadon to chase your friend and attack them, letting _you_ heal, just remember to wait for them to stand up, due to the grab and stomp being auto-grip.
--   If you need to retreat from Primadon, either wait before it Disengages first before running away (be aware that it will keep throwing rocks at you quite often, which you will need to dodge.) or have a friend try and take the aggro for you, be warned, however, that Primadon's aggro priority is unlike most mobs, and it may ignore other people hitting him in favour of pursuing you while you escape, so be careful. Alternatively, if you have very low health and have the Perseverance talent, you can let Primadon ragdoll you with a kick and fling you towards the nearest rope. You'll usually have enough time to wake up and climb the rope before it reaches you.
-
-### General Combat
-
--   The biggest problem most people have is timing. **Kick** should be dodged just as it comes down instead of when it winds up.
--   Stay close or Primadon will use its fists.
--   You can fit two M1s with heavy weapons each time it attacks, or three times with medium weapons after **Trample**.
--   An easy way to cheese the fight is by placing an [Undying Flames](Flamecharm.md#undying-ember) [Graceful Flame](Flamecharm.md) (you will take damage while casting) and fight Primadon next to it so you heal back the damage you lose.
--   The **Kick** and **Stomp** abilities make a whooshing sound every time they are raised, adding on to the _obvious_ factor of its attacks.
--   As Cannons use blunt damage, you can actually broadside the Primadon to death. However, as of the 3/16/25 update, Primadon has gained a ??% cannon resistance.
-
-#### Move-set
-
--   Primadon is extremely likely to use **Kick** when it follows up one or multiple **Tramples** with a regular **Stomp**. Predicting **Kick** and readying to perfect roll greatly increases your chances of success.
--   Primadon has the most "end-lag" after it uses **Trample**, or **Stomp** followed by **Trample/Stomp**. If it **Kicks** after a **Stomp** then the end-lag will be significantly lower.
--   If you see the right foot raise, prepare for **Trample** and if you see the left foot raise (_not_ swing back, as this represents **Kick**,) prepare for one **Stomp**. Dodge the **Kicks** and parry the **Stomps** and success will be certain.
-
-## Loot Table
+Exhaustive Loot Table
 
 <table>
 <tbody>
@@ -274,6 +241,41 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 </tr>
 </tbody>
 </table>
+
+## Strategies & Tips
+
+[Power](Power.md) 15-20 is **highly** recommended if fighting the boss, due to level scaling damage done to NPCs.
+
+### Preparation
+
+-   Unlike some other bosses, Primadon's health does **not** scale with the number of players present on the island- you are instead given _16 minutes_ to kill this boss. If this isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
+-   Having armor that grants Physical / Blunt damage resistance greatly reduces the Primadon's damage during his stomps.
+-   It is recommended to stay completely still while fighting. When between Primadon's feet, it will only **Stomp, Trample, Disengage** and **Kick**. This is a great way to solo it as its foot attacks are obvious and can be easily parried or rolled out of.
+    -   If Primadon does use **Disengage**, quickly close the distance so he doesn't use **Grab** or **Rock Throw**.
+    -   If multiple players are attacking Primadon at the same time, make sure that they are all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
+-   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung.
+    -   If you were catapulted out into the ocean, there is a chance that a [Lionfish](Lionfish.md) will spawn in to kill you even if you have the [Scuba Drowner](Talents.md#waterborne) Talent or survived the fall.
+-   Blessed, Wind, Wayward, and Insignia Gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will heal _very_ little due to Primadon's immunity to elemental damage resistance.
+    -   Debuffs from Mantras do affect Primadon.
+-   Primadon cannot actually grip you, unless he stomps or throws you. You can abuse this mechanic to have a friend with Primadon chasing them get downed to the rock throws and get Primadon on their downed body to be able to heal up.
+    -   **WAIT FOR YOUR FRIEND TO STAND UP BECAUSE IF Primadon DOES A STOMP OR GRABS THEM, THEY WILL DIE.**
+    -   In other words, get Primadon to chase your friend and attack them, letting _you_ heal, just remember to wait for them to stand up, due to the grab and stomp being auto-grip.
+-   If you need to retreat from Primadon, either wait before it Disengages first before running away (be aware that it will keep throwing rocks at you quite often, which you will need to dodge.) or have a friend try and take the aggro for you, be warned, however, that Primadon's aggro priority is unlike most mobs, and it may ignore other people hitting him in favour of pursuing you while you escape, so be careful. Alternatively, if you have very low health and have the Perseverance talent, you can let Primadon ragdoll you with a kick and fling you towards the nearest rope. You'll usually have enough time to wake up and climb the rope before it reaches you.
+
+### General Combat
+
+-   The biggest problem most people have is timing. **Kick** should be dodged just as it comes down instead of when it winds up.
+-   Stay close or Primadon will use its fists.
+-   You can fit two M1s with heavy weapons each time it attacks, or three times with medium weapons after **Trample**.
+-   An easy way to cheese the fight is by placing an [Undying Flames](Flamecharm.md#undying-ember) [Graceful Flame](Flamecharm.md) (you will take damage while casting) and fight Primadon next to it so you heal back the damage you lose.
+-   The **Kick** and **Stomp** abilities make a whooshing sound every time they are raised, adding on to the _obvious_ factor of its attacks.
+-   As Cannons use blunt damage, you can actually broadside the Primadon to death. However, as of the 3/16/25 update, Primadon has gained a ??% cannon resistance.
+
+#### Move-set
+
+-   Primadon is extremely likely to use **Kick** when it follows up one or multiple **Tramples** with a regular **Stomp**. Predicting **Kick** and readying to perfect roll greatly increases your chances of success.
+-   Primadon has the most "end-lag" after it uses **Trample**, or **Stomp** followed by **Trample/Stomp**. If it **Kicks** after a **Stomp** then the end-lag will be significantly lower.
+-   If you see the right foot raise, prepare for **Trample** and if you see the left foot raise (_not_ swing back, as this represents **Kick**,) prepare for one **Stomp**. Dodge the **Kicks** and parry the **Stomps** and success will be certain.
 
 ## Gallery
 
