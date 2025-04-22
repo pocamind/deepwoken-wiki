@@ -1,6 +1,6 @@
 ---
 title: Kasen
-revid: 141958
+revid: 141967
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer]
@@ -18,7 +18,7 @@ categories: [Capra NPCs, NPCs, Quests, Talents, NPCs located in the First Floor 
 
 Kasen is a Capra NPC in [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Eternal Gale](Second_Layer/The_Ethironal_Shrine.md). The fastest way to get to him is, upon entering the Shrine, immediately turn right and dash off of the bridge and onto the cliffs. Then, jump down.
 
-Talking to him with at least 80 Willpower and have **had** tier 1 insanity, he will teach you Heretic's Sutra, a [Talent](Talents.md#heretic) that reduces the sanity of the user by a flat amount.
+By talking to him with at least 80 Willpower and have **had** tier 1 insanity, he will teach you Heretic's Sutra, a [Talent](Talents.md#heretic) that reduces the sanity of the user by a flat amount.
 
 ## Dialogue
 
@@ -38,7 +38,23 @@ Talking to him with at least 80 Willpower and have **had** tier 1 insanity, he w
 </tbody>
 </table>
 
-**Insanity met, not Willpower:**
+**Willpower met, not Insanity:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6"><b>THE VOICES</b>... Can you hear them? Those who are <b>empowered</b> by the voices are those who are most insusceptible to its <b>fallacies</b>. It seems you can endure the strain the voices [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>], but you've never left your mind astray long enough for them to reach out to you.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Insanity met/Nothing met:**
 
 <table>
 <tbody>

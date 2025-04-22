@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 141517
+revid: 141969
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -8,19 +8,17 @@ categories: [Mechanics, Character, Creation]
 
 # Boons and Flaws
 
-**Boons and Flaws** are unique attributes players must choose when creating their character.
+**Boons and Flaws** are unique attributes that players must choose when creating their character.
 
 They are modifiers that effect gameplay in various ways, including vital core mechanics such as ether, hunger, and reputation, for the better, or worse.
 
 Boons are positive and helpful effects. They usually have less of an impact than Flaws, though. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Boons able to be equipped.
 
-Flaws can be rerolled by talking to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and selecting the 2nd option, "**My flaws weigh me down too much, I wish for relief.**" this dialogue only appears once, even if you bargain with [Misérables](Misérables.md) for another wish.
+Flaws can be rerolled by talking to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and selecting the 2nd option, "**My flaws weigh me down too much, I wish for relief.**". This dialogue only appears once, even if you bargain with [Misérables](Misérables.md) for another wish.
 
-Alternatively, the [Shrine of Blasphemy](https://deepwoken.fandom.com/wiki/Deep_Shrines#Shrine_of_Blasphemy) will reroll a flaw of your choice for 5 [Knowledge](Knowledge.md) given that you are above power 17. This is a much better alternative to wasting a wish with the Shrine of Yun'Shul.
+Alternatively, the [Shrine of Blasphemy](Deep_Shrines.md#shrine-of-blasphemy) will reroll a flaw of your choice for 5 [Knowledge](Knowledge.md) given that you are above power 17. This is a much better alternative to wasting a wish with the Shrine of Yun'Shul.
 
 ## Boons
-
-Boons are positive and helpful effects. They usually have less of an impact than Flaws, though. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Boons able to be equipped.
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
@@ -146,7 +144,7 @@ Carry load is increased by 50, item stack limits are increased by 25% (rounded),
  |
 | 
 
-SIy
+Sly
 
  | 
 
@@ -166,8 +164,6 @@ Unlocked from paying off your negative reputation with any faction.
 
 ## Flaws
 
-Flaws are negative and harmful effects. They usually have more of an impact than Boons. Picking more Flaws allows more Boons to be picked.
-
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
 | 
@@ -179,7 +175,7 @@ _"You can't eat the flesh of animals."_
 
  | 
 
-You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator), but allows you to get the [Herbivore and Iron Gut Talents](https://deepwoken.fandom.com/wiki/Talents#Survival_Instinct) at 10 FTD.
+You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](Talents.md#apex-predator), but allows you to get the [Iron Gut Talent](Talents.md#survival-instinct) at 10 FTD.
 
  | 
 
@@ -266,7 +262,7 @@ _"You cannot see."_
 
 You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. This flaw provides protection from Flame Blind and Gaze.
 
--   Gremor's who are blind see better than others, being blessed by Navae.
+-   Gremors who are blind see better than others, being blessed by Navae.
 
 Gained from obtaining the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md).
 
@@ -297,7 +293,7 @@ Reputation can still be gained normally.
 
 Paying to restore reputation only resets up to the default, low reputation.
 
-To get this flaw added to the flaw selection screen, gain negative reputation from any faction that you don't start with negative reputation (eg going from neutral Etrea reputation to bad Etrea reputation.
+To get this flaw added to the flaw selection screen, gain negative reputation from any faction that you don't start with negative reputation (eg going from neutral Etrea reputation to bad Etrea reputation).
 
  | 
 
@@ -392,7 +388,7 @@ Increases Resonance Startup by 1 second, along with a varying unique debuff, dep
 
   
 
-Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by [Yamaketzal](Yamaketzal.md) for 1000 notes, by [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 Knowledge, or by obtaining Clarity through [Misérable](Misérables.md) for 15 Knowledge
+Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by [Yamaketzal](Yamaketzal.md) for 1,000 notes, by [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1 Knowledge, or by obtaining Clarity through [Misérable](Misérables.md) for 15 Knowledge
 
 (Not an Unlockable Flaw)
 

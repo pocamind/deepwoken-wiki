@@ -1,6 +1,6 @@
 ---
 title: Celtor Wastes
-revid: 140615
+revid: 141974
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, The Depths]
@@ -19,7 +19,7 @@ LocationL Celtor Wastes LocationR
 
   
 
-**Celtor Wastes** is a location in _Deepwoken_. It is a region in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
+**Celtor Wastes** is a location in _Deepwoken_. It is a region in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md) and takes up a large part of the First Layer
 
 ## Overview
 
