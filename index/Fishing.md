@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 141367
+revid: 142004
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -198,7 +198,7 @@ Below is a list of bait that can be used. Don't see a valid bait? Feel free to t
 
 -   The general format and delivery of the lines that your character speaks is a possible reference to the _Animal Crossing_ series.
 -   Some spots won't let you fish.
--   There is no height limit, you can fish from the top of cliff faces.
+-   There is no height limit, you can fish from the top of cliff faces.(altough you have a range limit on the line of the rod)
 -   Some locations are better for fishing than others, for example the Vigils Docks.
 -   Fish meat can be used as bait or as food, though I would recommend cooking it if you are intending to eat it. Cooked Fish Meat is a pretty solid food item, giving you 15 Stomach Fill and 5 Water Fill. Good for Carnivores that need food.
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish for food and items that can be useful on your journey.

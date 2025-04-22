@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 141874
+revid: 142009
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -1412,7 +1412,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This modifier causes the user to kick into the ground. If landed, both the user and the player was hit fly into the air similarly to an uppercut.
+-   This modifier causes the user to kick into the ground. If landed, both the user and the player was hit fly into the air similarly to an uppercut. This will trigger any uppercut talents that the caster has, such as Bladeharper's Soaring Storm.
 
  |
 

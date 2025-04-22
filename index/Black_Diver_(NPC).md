@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 125012
+revid: 142021
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Divers, Diver Enemies]
@@ -22,7 +22,7 @@ If you talk to him in [The Understrand](The_Understrand.md), he will get mad at 
 
 A Black Diver's arsenal consists of the Oath [Dawnwalker](Oath%253A_Dawnwalker.md) and either a [Forgotten Gladius](Forgotten_Gladius.md), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Pale Morning](Pale_Morning.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement. They fittingly wear the [Black Diver](Black_Diver.md) armor.
 
-Mantras with a star beside them mean only Black Diver (Ambush) and Black Diver (Tideknight) use them. Black Diver (Guard) do **not** use the mantras with a star beside the name.
+\* Only used Black Diver (Ambush) and Black Diver (Tideknight)  
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -46,7 +46,11 @@ Critical
 Gale Lunge
 
  | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Astral Wind | User casts several fast, wind enhanced slashes that form a star, dealing high damage. | ◯ | ◯ | (★★★) |
+| 
+
+Astral Wind
+
+ | User casts several fast, wind enhanced slashes that form a star, dealing high damage. | ◯ | ◯ | (★★★) |
 | 
 
 Jolt Grab
@@ -54,26 +58,38 @@ Jolt Grab
 (Magnet Spark)
 
  | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
-| Jolt Grab | Dashes forward to grab an opponent before smashing them into the floor, sending out a shocking AoE.
+| 
+
+Jolt Grab
+
+ | Dashes forward to grab an opponent before smashing them into the floor, sending out a shocking AoE.
 
 This variant uses Surge Path: Unstable Capacitor.
 
  | ◯ | ◯ | (★☆☆) |
-| Rising Thunder | User performs an animation similar to Lightning Assault in the air before returning back to the ground. | ◯ | ◯ | (★★★) |
-| Ice Smash | User performs a wind-up before conjuring and slamming a spiked ice club into the ground ahead. | ◯ | ✗ | (★★☆) |
 | 
 
-Blinding Dawn\*
+Rising Thunder
+
+ | User performs an animation similar to Lightning Assault in the air before returning back to the ground. | ◯ | ◯ | (★★★) |
+| 
+
+Ice Smash
+
+ | User performs a wind-up before conjuring and slamming a spiked ice club into the ground ahead. | ◯ | ✗ | (★★☆) |
+| 
+
+Blinding Dawn  
 
  | User starts spinning rapidly while unleashing powerful rays of light. | ◯ | ◯ | (★★☆) |
 | 
 
-Radiant Kick\*
+Radiant Kick  
 
  | User teleports to the nearest opponent with a kick at the speed of light. | ◯ | ◯ | (★★☆) |
 | 
 
-Radiant Dawn\*
+Radiant Dawn  
 
  | User leaps into the air before crashing down with the power of light. | ◯ | ✗ | (★★★) |
 

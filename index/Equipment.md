@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 141973
+revid: 142012
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1900,6 +1900,8 @@ _+2 Health_
 
 +2 Rare Pips
 
+**Requires Power 5**
+
  | 
 
 Found from:
@@ -2224,6 +2226,8 @@ _+8% Shadow Armor_
 +1 Legendary Pip
 
 _+Talent: Disbelief_
+
+**Requires Power 8**
 
  | 
 

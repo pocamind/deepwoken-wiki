@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Lancer
-revid: 133186
+revid: 142014
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Lancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
