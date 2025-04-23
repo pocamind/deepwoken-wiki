@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 141996
+revid: 142029
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals]
@@ -41,5 +41,5 @@ The Kyrsglaive has a unique critical where you slam the tip of the spear onto th
 
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), **Kyrsglaive**, [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md), [Kyrsieger](Kyrsieger.md))
 -   This weapon was given a new Critical on February 1st, 2025, replacing the default spear critical.
--   it is the only kyrs series weapon with a description
--   we now know that the kyrs series of weapons are made of either bonekeeprs or another unknown species in the gale
+-   It is the only Kyrs series weapon with a description.
+-   Weapons of Kyrsan craftmanship are made of either [Bone Keepers](Bone_Keeper.md) or an unknown species in the [Eternal Gale](Second_Layer.md).

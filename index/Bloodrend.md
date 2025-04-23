@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 141296
+revid: 142036
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1347,10 +1347,11 @@ N/A
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
 
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in [Vyrelda](Vyrelda,_Master_of_Blood.md)'s dialogue, which is special.
--   While not an actual element like Fire or Iron, Bloodrend can be resisted by Elemental Resist.
+-   While Bloodrend might seem like it'd be a good counter against [Curse of the No Life King](Enchantments.md#curses) users and people with the [Haemophilia](Boons_and_Flaws.md#flaws) Flaw, Bloodrend Mantra blood drain is actually entirely unaffected by blood damage modifiers.
+-   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#ironsinger), [Cauterized Wounds](Talents.md#flame-warden), [Curse of the No Life King](Enchantments.md#curses) Enchant, and the [Haemophilia](Boons_and_Flaws.md#flaws) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
 -   Attempting to complete [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstars](Heartstar.md) are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
 -   **Sanguine Dive** is a reference to Vladimir's W ability in _League of Legends_.
 -   **Bloodtide Ritual** is a reference to [Mohg, Lord of Blood's](https://eldenring.wiki.fextralife.com/Mohg,+Lord+of+Blood) phase transition move "Bloodboon Ritual" from _Elden Ring_.
 -   **Bloodedge** is likely a reference to Naoto Kurogane's "Bloodedge" and "Edge of Eternity" from BlazBlue Centralfiction.
 -   **Veinbreaker** is likely a reference to Slayer's "Mappa hunch" in Guilty Gear Strive.
--   **Crucifixion** is a reference to Klaus' 'Unbreakable Cross Shield' from _Blood Blockade Battlefront_; confirmed by a tester.
+-   **Crucifixion** is a reference to Klaus' "Unbreakable Cross Shield" from _Blood Blockade Battlefront_; confirmed by a tester.

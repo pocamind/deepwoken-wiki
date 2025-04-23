@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 141863
+revid: 142035
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -17,10 +17,6 @@ A Thresher is a large crocodilian [monster](Monsters.md) that is commonly found 
 Appearing as a blind crocodilian with large teeth and green scales, they have an incredible sense of smell as well as possessing an arsenal of sharp claws that can easily hunt and kill their prey respectively. They are evidently social creatures as they tend to live in nests, though the density and size of their nests affect the behavior of male Threshers. This leads into a competition between the males, emerging a [King](King_Thresher.md) in their stead that leads the pack.
 
 They are not all hostile though. [Sordino](Sordino.md), a man found at Starswept Valley, has managed to make some of these Threshers docile in which you can ride as a mount - provided you have the Crowns to buy such an elusive beast.
-
-  
-
-  
 
 ## Attacks
 
