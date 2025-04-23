@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 141844
+revid: 142107
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -278,6 +278,7 @@ Ice
     -   Can't be increased.
 -   1st and 2nd hit are parryable.
 -   Cancels if parried.
+-   Shares a cooldown with all other "blade" Mantras.
 -   Can be canceled halfway like the Rapid Punches Mantra.
 
  |
@@ -606,6 +607,7 @@ Ice
 -   Both the impact and the detonation are parriable.
 -   User gains considerable forward momentum on use.
 -   Sometimes used in conjunction with the **Glacial Arc** Mantra to fling the player skywards.
+-   Shares a cooldown with [Gale Lunge](Galebreathe.md#gale-lunge).
 
  |
 | 
@@ -682,6 +684,7 @@ Ice + Blunt (Grab), Ice (Ice Chains)
 -   Has 9.178x PVE scale (25.84 PVP DMG, 237.16 PVE DMG)
 -   Applies an extremely long 12 second Chill at base.
 -   This Mantra has a cooldown of 8 seconds. It goes on a 4 second cooldown if no targets are found on the area of the grab.
+-   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 -   Does not apply Chill through block with Unyielding Frost.
 -   Gives brief I-Frames on hit.
 -   Can be modified with a Blast Spark, creating ice on the ground and stabbing the opponent with pillars. This variant does not apply Chill, deal less DMG (25.84>19.38, with 6 songchant 28.76>21.56) and can be modified with Vibrant Gems to increase the size of the ice created.

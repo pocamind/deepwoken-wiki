@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 140956
+revid: 142106
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -153,6 +153,7 @@ Fire
 -   Has 9.18x PVE scale (35.88 PVP, 329.38 PVE DMG)
 -   Deals high posture damage, becoming an instant-guardbreak at level 5.
 -   Inflicts Burn.
+-   Shares a cooldown with all "blade" Mantras, **except** for [Lightning Blade](Thundercall.md#lightning-blade).
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
 -   Can be modified with Vibrant Gems, causing the attack to destroy more environment.
 -   While having [Starkindred](Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
@@ -276,7 +277,7 @@ Fire
 -   Has 9.18x PVE scale (53.82 PVP, 494.07 PVE)
 -   Inflicts Burn.
 -   Has a 0.5 second windup.
--   Shares a cooldown with all other grab mantras.
+-   Shares a cooldown with all other [grab mantras](List_of_Grab_Mantras.md).
 -   Travels for 0.6 seconds.
 -   Crystal/Perfect Lens increase the duration, capping at 1.2s with a +3 range modifier.
 

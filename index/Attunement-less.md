@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 142049
+revid: 142090
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1251,7 +1251,7 @@ Blunt
 -   Inflicts Charm for 7.5s on hit.
     -   Because of this, it will instantly proc Narcissist's Overcharm if you have the Talent.
 -   Is unventable.
--   Shares a cooldown with all grab mantras.
+-   Shares a cooldown with all [grab mantras](List_of_Grab_Mantras.md) and [Iron Hug](Ironsing.md#iron-hug).
 -   Does **not** apply insanity.
 -   Landing the grab multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
     -   Dread Whisper must be landed again within 15s of landing the previous one to gain the damage buff.
@@ -1259,7 +1259,6 @@ Blunt
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
     -   This allows for Twisted Flames' Puppets to home in closer and for teammates using mantras such as Eclipse Kick to try timing these to hit the opponent as soon as they're released.
 -   Can be modified with Crystal/Perfect Lenses to increase it's range.
--   Shares same CD with [Iron hug](Ironsing.md)
 
  |
 | 

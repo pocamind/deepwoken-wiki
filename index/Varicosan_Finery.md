@@ -1,13 +1,15 @@
 ---
 title: Varicosan Finery
-revid: 142052
+revid: 142058
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Varicosan Finery
 
-Template:ArmorInfobox**Varicosan Finery** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox
+
+**Varicosan Finery** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -24,12 +26,6 @@ The Outfit has 1500 durability, grants +20% Physical Armor and +20% Elemental Ar
 ## Location
 
 This Outfit's Schematic can be obtained from [Layer 1](First_Layer.md) chests.
-
-  
-
-  
-
-  
 
 ## Trivia
 

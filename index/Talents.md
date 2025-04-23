@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142015
+revid: 142084
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -933,7 +933,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
     -   5 second cooldown per enemy in PVP.
-    -   5 second cooldown per enemy _type_ in PVE, meaning if you use Spine Cutter on a Mudskipper Brute, you cannot use Spine Cutter on any Mudskipper Brutes until the cooldown wears off.
+    -   5 second cooldown per enemy _**type**_ in PVE, meaning if you use Spine Cutter on a Mudskipper Brute, you cannot use Spine Cutter on any Mudskipper Brutes until the cooldown wears off.
     -   The second slash has no PEN.
     -   Can proc from some physical Mantras.
     -   Prerequisites: 20 Strength, 25 Agility
@@ -1027,7 +1027,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load)
     -   6 second Cooldown.
     -   Stacks of Inspiration last 3 seconds. New stacks do not refresh the duration.
-    -   Ether Absorption and Mantra Permanence do not grant stacks of Inspiration.
     -   Prerequisite: 30 Intelligence
 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load)
@@ -3269,6 +3268,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Berserker \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
+    -   The arms equipment "[Enforcer Plate](Enforcer_Plate.md)" has this Talent.
     -   Prerequisites: 35 Fortitude, 30 Strength
 
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)

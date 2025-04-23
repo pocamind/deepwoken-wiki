@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 141415
+revid: 142114
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -112,7 +112,7 @@ Shadow + Slash (Grab), Blunt (Slam)
 -   With 6 Songchant 63.9 (53.25+10.65) DMG
 -   Grab has 9.18x PVE scale, Slam has 59.47x PVE scale (47.84 DMG grab + 9.57 slam PVP, 439.17 DMG grab + 569.17 slam PVE)
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
--   Shares a cooldown with [Dread Whisper](Attunement-less.md#dread-whisper).
+-   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 
  |
 | 
@@ -149,6 +149,7 @@ Shadow + Slash
 -   Deals 57.42 (19.14\*3) DMG, 9.99 posture (3.33\*3), 12s CD at 5 lvl.
 -   With 6 Songchant 63.9 (21.3\*3) DMG
 -   Has 9.178x PVE scale (19.14 DMG PVP, 175.67 PVE DMG)
+-   Shares a cooldown with all other blade Mantras.
 -   Adding Rush Shards make Dark Blade faster.
 -   Adding Vibrant Gems increase Ether steal.
 -   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes. (Extra 19.14 DMG)
@@ -614,7 +615,8 @@ Shadow + Slash
 
 -   Deals 35.88 (39.94 with 6 songchant) DMG, 6.5 posture, 1s windup, 10s CD at 5 lvl
 -   Has 9.18x PVE scale (35.88 PVP DMG, 329.38 PVE DMG)
--   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
+-   Mantras can not be cast during the windup of Encircle.
+-   Attacks initiated during the windup will continue after the teleport.
 -   Will still teleport the user if parried/dodged
 
  |
@@ -1267,3 +1269,4 @@ Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost
 -   Shadowcast appears to be the attunement associated with the [Ministry](The_Ministry.md), although NPCs not associated can be seen using it.
 -   Shadowcast is likely a reference to Re: Zero's [Shadow Magic, or otherwise Yin Magic](https://rezero.fandom.com/wiki/Magic#). This is seen as Shadow Magic is said to have very similar properties, instilling fear, stopping movement, etc.
 -   Shadowcast and [Bloodrend](Bloodrend.md) are the only attunements to not have their own respective paths.
+-   The Encircle mantra is notorious for a tech involving using the Stoneheart critical, which is unparriable and has hyperarmor, during Encircles windup.

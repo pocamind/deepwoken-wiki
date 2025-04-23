@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 141843
+revid: 142085
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -267,6 +267,7 @@ Wind + Slash
 -   Deals 20.91 (23.3 with 6 songchant) DMG, 8.6 posture, 0.5s windup, 13s cd at 5 lvl.
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
+-   Shares a cooldown with [Ice Lance](Frostdraw.md#ice-lance).
 
  |
 | 

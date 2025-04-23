@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 141881
+revid: 142105
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -118,6 +118,7 @@ Lightning
     -   Knockdown is also removed for the mantra variant.
     -   This replaces the lunging hitbox with an AoE one, in which the latter contains a blindspot located behind the user.
     -   Can be additionally modified with **Crystal/Perfect Lenses** to increase the range of the AoE hitbox.
+-   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
 
  |
@@ -157,6 +158,7 @@ Lightning + Slash
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
 -   At end of mantra, performs a "**Stormcaller Slash**", which can be cancelled by pressing the \[F\] key.
     -   Can be stacked with the **Magnet Spark** variant of the mantra to perform 4 slashes in total.
+-   Shares a cooldown with all "blade" Mantras, **except** for [Fire Blade](Flamecharm.md#fire-blade).
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform a **third** short-ranged teleporting slash.
 
  |

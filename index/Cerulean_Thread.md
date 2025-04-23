@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 138061
+revid: 142115
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry, Multiple Criticals]
@@ -35,7 +35,7 @@ The Cerulean Thread is a Dagger that is obtained by upon beating [Maestro Evenga
 
 The critical of the weapon is divided into two parts.
 
-For the normal critical, the user winds up before thrusting their weapon forward, marking the first enemy hit with a string. The connection will be broken upon taking damage.
+For the normal critical, the user winds up before thrusting their weapon forward, marking the first enemy hit with a string. The connection will be broken upon getting vented.
 
 For the follow-up critical, the user performs the normal critical, extending with a strike that sends your opponent upwards with multiple slashes and ending with a ragdolling backstab.
 

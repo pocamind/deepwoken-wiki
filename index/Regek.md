@@ -1,6 +1,6 @@
 ---
 title: Regek
-revid: 138409
+revid: 142121
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, In progress without reason, InProgressPages, Spelltrainers, NPCs, The Hive, NPCs located in the Eastern Luminant, Quests]
@@ -26,11 +26,14 @@ After completing the quest you can upgrade your physical mantras at Regek, this 
 
 The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) in the blacksmith's area, with the 3rd being located outside of the [Observatory](Greathive_Aratel.md).
 
-## Trivia
+## Notes
 
 -   Upgrading your attunement-less mantras depends on mantras type and the amount of points you have in that certain attribute. For example:
     1.  20+ points in Strength => Level 2 Strength Mantra.
     2.  40+ points in Strength => Level 3 Strength Mantra.
     3.  60+ points in Strength => Level 4 Strength Mantra.
     4.  80+ points in Strength => Level 5 Strength Mantra.
+
+## Trivia
+
 -   They also tell you some lore about [The Hive](The_Hive.md).

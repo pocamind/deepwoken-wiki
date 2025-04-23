@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 141349
+revid: 142079
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -444,7 +444,6 @@ Exhaustive Loot Table
 -   In a video from Naktigonis [celebrating the millionth viewing of Sin-Smelted Scoriae](https://youtu.be/DCCjnfrZBCc) on YouTube, it is revealed that Duke Erisia is a member of the band "The Seal Unleashed" as the vocalist.
     -   Duke Ishamon Erisia confirms that The Seal Unleashed does, in fact, perform Sin-Smelted Scoriae every single time someone challenges him to a fight.
 -   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack.
--   Duke Ishamon Erisia is actually a fan of the "Yakuza" video game series
 -   Duke Ishamon Erisia can be (rarely) seen conversing with the [Mindless Servants](Mindless_Servant.md) in the tubes next to him idly. This is likely a bug, as Mudskippers and even Terrapods can start small talk when idle.
 -   He is able to drown; if you glitch you and him into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
 -   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke Ishamon Erisia, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 141906
+revid: 142089
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -112,7 +112,7 @@ _A flurry of metal spikes._
 
  | 
 
-Metal + Slash + Bleed
+Metal + Slash + Template:Bleed2
 
  | 
 
@@ -123,9 +123,9 @@ Metal + Slash + Bleed
 
 **Effect:** _Stomp the ground, causing a flurry of metal spikes to erupt forward._
 
--   Deals 38.87 (29.9 + 8.97 Bleed) DMG at level 5, 14.5 posture, 0.5s windup and 15s CD. at 5 lvl
--   With 6 Songchant deals 43.27 (33.28 + 9.99 Bleed) DMG
--   Has 9.17x PVE scale (29.9 DMG + 8.97 Bleed PVP, 274.48 + 82.35 Bleed PVE)
+-   Deals 38.87 (29.9 + 8.97 Template:Bleed2) DMG at level 5, 14.5 posture, 0.5s windup and 15s CD. at 5 lvl
+-   With 6 Songchant deals 43.27 (33.28 + 9.99 Template:Bleed2) DMG
+-   Has 9.17x PVE scale (29.9 DMG + 8.97 Template:Bleed2 PVP, 274.48 + 82.35 Template:Bleed2 PVE)
 -   By rotating your view, you can reangle the Mantra to catch rolls.
 -   Heavily reminiscent of the legacy Frostdraw Mantra, [Ice Eruption](Frostdraw.md#ice-eruption).
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption, but reduces posture DMG.
@@ -195,7 +195,7 @@ _A powerful kick laced with metal._
 
  | 
 
-Metal + Slash + Bleed
+Metal + Slash + Template:Bleed2
 
  | 
 
@@ -207,8 +207,8 @@ Metal + Slash + Bleed
 **Effect:** _Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit._
 
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
--   Both Versions of Metal kick deals 49.32 (37.32 + 12 Bleed), 13s CD
--   With 6 songchant deals 53.98 (41.53 + 12.45 Bleed)
+-   Both Versions of Metal kick deals 49.32 (37.32 + 12 Template:Bleed2), 13s CD
+-   With 6 songchant deals 53.98 (41.53 + 12.45 Template:Bleed2)
 -   Has 9.2x PVE scale (37.32 + 12 PVP, 342.55 + 102.78 in PVE)
 -   Spring Spark has a wind up of 0.55 second and non spark a wind-up of 0.95s (0.65s to enter gain height and enter fall state + 0.4s or more seconds to land(depending on ur fall distance))
 -   You have True Hyperamor once you enter Fall state with No Spark Metal kick
@@ -234,7 +234,7 @@ _Sharp metal traps._
 
  | 
 
-Metal + Bleed
+Metal + Template:Bleed2
 
  | 
 
@@ -245,9 +245,9 @@ Metal + Bleed
 
 **Effect:** _Throw out 7 caltrops upon use, which stay on the ground for a while._
 
--   Deals 10.94 + 3.3 Bleed DMG per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
--   With 6 songchant deal 12.02 + 3.6 Bleed DMG per flying caltrop.
--   Has 9.17x PVE Scale (10.94 DMG + 3.3 Bleed PVP, 100.38 DMG + 30.12 Bleed PVE)
+-   Deals 10.94 + 3.3 Template:Bleed2 DMG per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
+-   With 6 songchant deal 12.02 + 3.6 Template:Bleed2 DMG per flying caltrop.
+-   Has 9.17x PVE Scale (10.94 DMG + 3.3 Template:Bleed2 PVP, 100.38 DMG + 30.12 Template:Bleed2 PVE)
 -   Functions similar to Galebreathe's [Galetrap](Galebreathe.md#galetrap) Mantra.
 -   Goes through block (**and your character!**) if cast closely to the target.
 -   May be blocked or even parried off the ground.
@@ -278,7 +278,7 @@ _Create a firing line of metal to light up your target._
 
  | 
 
-Metal + Slash + Bleed
+Metal + Slash + Template:Bleed2
 
  | 
 
@@ -289,14 +289,15 @@ Metal + Slash + Bleed
 
 **Effect:** _Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried._
 
--   Deals 140.1 (7.18 + 2.16 Bleed \* 15) DMG non spark
--   With 6 songchant non spark version deals 155.85 (7.99 + 2.4 Bleed \* 15) DMG
--   Blast spark version deals 67.6 (26 + 7.8 Bleed \* 2) DMG with Blast spark
--   Blast spark with 6 songchant deals 76.16 (29.29 + 8.79 Bleed \* 2)
+-   Deals 140.1 (7.18 + 2.16 Template:Bleed2 \* 15) DMG non spark
+-   With 6 songchant non spark version deals 155.85 (7.99 + 2.4 Template:Bleed2 \* 15) DMG
+-   Blast spark version deals 67.6 (26 + 7.8 Template:Bleed2 \* 2) DMG with Blast spark
+-   Blast spark with 6 songchant deals 76.16 (29.29 + 8.79 Template:Bleed2 \* 2)
 -   PVE scale broken right now. Deals same dmg as PVP in PVE
 -   Blast spark has 0.55s windup, No Spark version 0.8s windup (0.55s for first shot but seems not doing any DMG)
 -   Apply Metal Rods on hit.
 -   You cannot use other Mantras or M1 while this is active.
+-   Shares a cooldown with [Metal Turret](Ironsing.md#metal-turret).
 -   Can be modified with Drift and Rush Shards, however, it does not increase the firing speed or projectile speed.
 -   Can be modified with a Blast Spark to cause the Mantra fire a salvo from two cannons.
 
@@ -321,7 +322,7 @@ _Conjure metal from within, impaling surrounding entities._
 
  | 
 
-Metal + Slash + Bleed
+Metal + Slash + Template:Bleed2
 
  | 
 
@@ -332,9 +333,9 @@ Metal + Slash + Bleed
 
 **Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
 
--   Deals 43.54 (33.49 + 10.05 Bleed) DMG, 0.45s wind up, 10s cd at 5 lvl.
--   With 6 songchant deals 48.46 (37.27 + 11.19 Bleed) DMG
--   Has 9.18x PVE scale (33.49 DMG + 10.05 Bleed, 307.42 DMG + 92.22 Bleed PVE)
+-   Deals 43.54 (33.49 + 10.05 Template:Bleed2) DMG, 0.45s wind up, 10s cd at 5 lvl.
+-   With 6 songchant deals 48.46 (37.27 + 11.19 Template:Bleed2) DMG
+-   Has 9.18x PVE scale (33.49 DMG + 10.05 Template:Bleed2, 307.42 DMG + 92.22 Template:Bleed2 PVE)
 -   Doesn't break your momentum, meaning you can run while using it or vice versa.
 -   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it.
     -   The blood particles are always red, even if you have Alloyblood.
@@ -360,7 +361,7 @@ _Create a metal clone and appear behind your target._
 
  | 
 
-Metal + Slash + Bleed
+Metal + Slash + Template:Bleed2
 
  | 
 
@@ -371,9 +372,9 @@ Metal + Slash + Bleed
 
 **Effect:** _Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target._
 
--   Deals 58.5 (45 + 13.5 Bleed) DMG, 12 posture, 0.65s wind up, 12s CD at 5 lvl.
--   With 6 songchant deals 65.77 (50.59+15.18 Bleed) DMG
--   Has 9.27x PVE scale (45 DMG + 13.5 Bleed in PVP, 417.21 + 125.16 Bleed in PVE)
+-   Deals 58.5 (45 + 13.5 Template:Bleed2) DMG, 12 posture, 0.65s wind up, 12s CD at 5 lvl.
+-   With 6 songchant deals 65.77 (50.59+15.18 Template:Bleed2) DMG
+-   Has 9.27x PVE scale (45 DMG + 13.5 Template:Bleed2 in PVP, 417.21 + 125.16 Template:Bleed2 in PVE)
 -   Applies Metal Rod on hit.
 
  |
@@ -408,9 +409,9 @@ Metal + Slash
 
 **Effect:** _Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly._
 
--   Deals 5.74 DMG + 1.71 Bleed per hit at level 5, 3 posture per hit, 1.2s wind up, 20s CD.
+-   Deals 5.74 DMG + 1.71 Template:Bleed2 per hit at level 5, 3 posture per hit, 1.2s wind up, 20s CD.
 -   With 6 songchant 6.39 + 1.92 per hit
--   Has 9.18x PVE scale (5.74 DMG + 1.71 Bleed PVP, 52.7 DMG + 15.81 Bleed
+-   Has 9.18x PVE scale (5.74 DMG + 1.71 Template:Bleed2 PVP, 52.7 DMG + 15.81 Template:Bleed2
 -   Does around 23 hits total.
 -   Doesn't apply parry stun to user.
 -   Applies Metal Rods on hit.
@@ -439,7 +440,7 @@ _Conjure metal swords and rush forward with them._
 
  | 
 
-Metal + Slash + Bleed
+Metal + Slash + Template:Bleed2
 
  | 
 
@@ -451,9 +452,9 @@ Metal + Slash + Bleed
 **Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
 
 -   Rapid-hitting Mantra.
--   Deals 108.9 (8.37 + 2.52 Bleed \* 10) DMG per hit, 10 posture total, 0.5s windup, 13s CD per hit
--   With 6 songchant deals 121.1 (9.32 + 2.79 Bleed \* 10)
--   Has 9.18x PVE scale (8.37 DMG + 2.52 Bleed PVP, 76.85 DMG + 23.07 Bleed PVE)
+-   Deals 108.9 (8.37 + 2.52 Template:Bleed2 \* 10) DMG per hit, 10 posture total, 0.5s windup, 13s CD per hit
+-   With 6 songchant deals 121.1 (9.32 + 2.79 Template:Bleed2 \* 10)
+-   Has 9.18x PVE scale (8.37 DMG + 2.52 Template:Bleed2 PVP, 76.85 DMG + 23.07 Template:Bleed2 PVE)
 -   Applies Metal Rods on hit.
 -   Sends you 5 studs forward on cast
 
@@ -478,7 +479,7 @@ _Crush your opponents bones with an iron infused grab._
 
  | 
 
-Metal + Slash + Bleed
+Metal + Slash + Template:Bleed2
 
  | 
 
@@ -489,13 +490,14 @@ Metal + Slash + Bleed
 
 **Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
 
--   Deals 67 (9.57 + 2.88 Bleed \* 4, at end of grab does 15.95 DMG + 4.77 Bleed) DMG, 10 posture, 0.8s windup, 11s cd at 5 lvl
--   With 6 songchant deals 78.38 (10.65 + 3.18 Bleed \* 4 + 17.75 + 5.31 Bleed) DMG
+-   Deals 67 (9.57 + 2.88 Template:Bleed2 \* 4, at end of grab does 15.95 DMG + 4.77 Template:Bleed2) DMG, 10 posture, 0.8s windup, 11s cd at 5 lvl
+-   With 6 songchant deals 78.38 (10.65 + 3.18 Template:Bleed2 \* 4 + 17.75 + 5.31 Template:Bleed2) DMG
 -   Gives True Hyperarmor on use, also gives IFrames to victim and user if mantra lands.
--   Has 9.65x PVE scale (87.83 DMG + 26.34 Bleed \* 4 and at end of grab 146.39 DMG + 43.92 Bleed, total DMG 647)
+-   Has 9.65x PVE scale (87.83 DMG + 26.34 Template:Bleed2 \* 4 and at end of grab 146.39 DMG + 43.92 Template:Bleed2, total DMG 647)
 -   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
 -   With the '**Metal Absorption'** Talent, Iron Hug will absorb the opponents' armor.
 -   The '**Matador'** Talent procs against Iron Hug's hyperarmor.
+-   Shares a cooldown with [Dread Whisper](Attunement-less.md#dread-whisper).
 
  |
 | 
@@ -518,7 +520,7 @@ _Conjure a giant rod of metal and slam it down._
 
  | 
 
-Metal + Slash + Bleed
+Metal + Slash + Template:Bleed2
 
  | 
 
@@ -529,9 +531,9 @@ Metal + Slash + Bleed
 
 **Effect:** _Form a large spiky iron rod before slamming it down forwards._
 
--   Deals 76.1 (58.6 + 17.5 Bleed) at level 5, 0.73s windup, 18s cd.
--   With 6 Songchant deals 84.79 (65.23+19.56 Bleed) DMG
--   Has 9.18X PVE scale (58.6 DMG + 17.5 Bleed PVP, 537.98 DMG + 161.4 Bleed PVE)
+-   Deals 76.1 (58.6 + 17.5 Template:Bleed2) at level 5, 0.73s windup, 18s cd.
+-   With 6 Songchant deals 84.79 (65.23+19.56 Template:Bleed2) DMG
+-   Has 9.18X PVE scale (58.6 DMG + 17.5 Template:Bleed2 PVP, 537.98 DMG + 161.4 Template:Bleed2 PVE)
 -   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
 -   Block breaks at level 5.
 -   EXTREMELY BUGGY HITBOX
@@ -635,7 +637,7 @@ _Create a lance, impale your opponent, and send them flying._
 
  | 
 
-Metal + Slash + Bleed
+Metal + Slash + Template:Bleed2
 
  | 
 
@@ -646,9 +648,9 @@ Metal + Slash + Bleed
 
 **Effect:** _After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way._
 
--   Deals 73 DMG (56 DMG + 17) Bleed at level 5, 10 posture, 0.5s windup, 13s cd
--   With 6 Songchant deals 81.35 (62.57 DMG + 18.78 Bleed) DMG
--   Has 9.2x PVE scale (56 DMG + 17 Bleed PVP, 516.03 + 154.8 in PVE)
+-   Deals 73 DMG (56 DMG + 17) Template:Bleed2 at level 5, 10 posture, 0.5s windup, 13s cd
+-   With 6 Songchant deals 81.35 (62.57 DMG + 18.78 Template:Bleed2) DMG
+-   Has 9.2x PVE scale (56 DMG + 17 Template:Bleed2 PVP, 516.03 + 154.8 in PVE)
 -   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md#gale-lunge) Mantra and Frostdraw's [Ice Lance](Frostdraw.md#ice-lance) Mantra.
 
  |
@@ -705,7 +707,7 @@ _Summon a large metal pillar._
 
  | 
 
-Metal + Blunt + Bleed
+Metal + Blunt + Template:Bleed2
 
  | 
 
@@ -716,9 +718,9 @@ Metal + Blunt + Bleed
 
 **Effect:** _Form a pillar from below, causing the character to ascend upwards as the pillar forms._
 
--   Deals 41 (31 + 10 Bleed) DMG, 0.5s windup to hit, 1.5s for full pillar, Lasts 9s. 13s CD, CD starts since windup.
--   With 6 Songchant deals 44.99 (34.61 + 10.38 Bleed) DMG
--   Has 9.2x PVE scale (31 DMG + 10 Bleed PVP, 285.46 + 85.65 Bleed PVE)
+-   Deals 41 (31 + 10 Template:Bleed2) DMG, 0.5s windup to hit, 1.5s for full pillar, Lasts 9s. 13s CD, CD starts since windup.
+-   With 6 Songchant deals 44.99 (34.61 + 10.38 Template:Bleed2) DMG
+-   Has 9.2x PVE scale (31 DMG + 10 Template:Bleed2 PVP, 285.46 + 85.65 Template:Bleed2 PVE)
 -   The height of the pillar will depend on what is above the user.
 -   Can be modified with **Cloudstones/Stratus Stones** to extend its width.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
@@ -744,7 +746,7 @@ _Create a metal ball and rush forward._
 
  | 
 
-Metal + Slash + Bleed
+Metal + Slash + Template:Bleed2
 
  | 
 
@@ -755,9 +757,9 @@ Metal + Slash + Bleed
 
 **Effect:** _Encased in a metal ball, rush forward while knocking down any targets in the way._
 
--   Deals 36.4 (28 + 8.4 Bleed) DMG, 10 posture, 0.7s windup (0.5s to start moving + 0.2s to hit), 10.5s cd at 5 lvl
--   With 6 songchant deals 41.1 (31.62 + 9.48 Bleed) DMG.
--   Has 9.3x PVE scale (28 DMG + 8.4 Bleed in PVP, 260.76 + 78.24 Bleed in PVE)
+-   Deals 36.4 (28 + 8.4 Template:Bleed2) DMG, 10 posture, 0.7s windup (0.5s to start moving + 0.2s to hit), 10.5s cd at 5 lvl
+-   With 6 songchant deals 41.1 (31.62 + 9.48 Template:Bleed2) DMG.
+-   Has 9.3x PVE scale (28 DMG + 8.4 Template:Bleed2 in PVP, 260.76 + 78.24 Template:Bleed2 in PVE)
 -   Covers 82 studs of distance.
 -   Applies Metal Rods on hit.
 -   Applies 0.5s knockdown on hit, has 0.2s endlag.
@@ -909,6 +911,7 @@ Metal
 -   With 6 Songchant deals 23.96 DMG per hit
 -   Has 9.4x PVE scale (21 DMG PVP, 197.63 IN PVE)
 -   Each shot applies a Metal Rod on hit
+-   Shares a cooldown with [Firing Line](Ironsing.md#firing-line).
 -   Requires a ritual cast with two keys + adding modifiers increases the number of keys.
 -   Can be modified with Aeon/Eternal Logstones to increase duration.
 -   Can be modified with Drift/Rush Shards to make turret spin faster.
@@ -1034,11 +1037,11 @@ Alloyblood
 
  | 
 
-You don't Bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.
+You don't Bleed like others do. Template:Bleed2 damage is reduced by 30%. Blood loss is reduced by 75%.
 
  | 
 
-Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you get hit by an attack that deals Bleed damage is now **light grey**. Turns Bloodrend mantras blue-ish grey.
+Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you get hit by an attack that deals Template:Bleed2 damage is now **light grey**. Turns Bloodrend mantras blue-ish grey.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 141714
+revid: 142118
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -220,7 +220,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
     
     Pyre Keeper's color changing when using its Critical with Saintsworn
     
-    -   According to Nuttoons, this is because in the game's code, the game looks for neon objects named "Blade" within your currently equipped weapon to apply the Saintsblade color to.[\[1\]](#cite-note-1)[\[2\]](#cite-note-2)
+    -   According to Nuttoons, this is because in the game's code, the game looks for meshes named "Blade" within your currently equipped weapon to apply the Saintsblade color to.[\[1\]](#cite-note-1)[\[2\]](#cite-note-2)
 
 ## References
 
