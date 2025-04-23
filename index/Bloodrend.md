@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 142036
+revid: 142044
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -59,6 +59,8 @@ Bloodrend Unbound can be obtained by defeating any humanoid boss (Duke, Chaser, 
 ## Mantras
 
 Bloodrend currently has a total of 17 mantras.
+
+  
 
 ### Combat Mantras
 
@@ -198,7 +200,7 @@ Blood
  |
 | 
 
-**Effect:** _Perform a quick gesture before conjuring and sending a volley of blood that goes through enemies towards wherever the character is facing before dissipating when hitting an object or exceeding its range._
+**Effect:** _Perform a quick gesture before conjuring and sending a cyclone of blood that goes through enemies and towards wherever the character is facing before dissipating when hitting an object or exceeding its range._
 
 -   Deals 155.5 (15.55\*10) DMG, 1 posture per hit, 17.5s CD
 -   With 6 songchant 173.1 (17.31\*10) DMG
@@ -237,7 +239,7 @@ Blood
  |
 | 
 
-**Effect:** _Quickly conjure up a scythe similar to that of a [Skyreap Blade](Skyreap_Blade.md) with Curse of Bloodthirsty enchantment and rushing forward, hitting any target(s) in its way._
+**Effect:** _Quickly conjure up a scythe similar to that of a [Skyreap Blade](Skyreap_Blade.md) in a blood red color and rush forward, hitting any target(s) in its way._
 
 -   Deals 38.27 (42.6 with 6 songchant) DMG, 15 posture, has 10s CD at 5 lvl
 -   Has 9.18x PVE scale (38.27 PVP, 351.34 PVE DMG)

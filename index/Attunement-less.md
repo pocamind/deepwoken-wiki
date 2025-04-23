@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 141620
+revid: 142049
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1259,6 +1259,7 @@ Blunt
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
     -   This allows for Twisted Flames' Puppets to home in closer and for teammates using mantras such as Eclipse Kick to try timing these to hit the opponent as soon as they're released.
 -   Can be modified with Crystal/Perfect Lenses to increase it's range.
+-   Shares same CD with [Iron hug](Ironsing.md)
 
  |
 | 
