@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 124890
+revid: 142155
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -27,7 +27,8 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Every point of [Agility](Attributes.md) grants +0.2% Stealth.
     -   Passive Agility does NOT grant Stealth.
 -   The [Felinor](Felinor.md) aspect starts with 20% Stealth and has a 1.2x multiplier on Stealth gain.
--   The [Talent Card](Talents.md) _Lowstride_ improves Stealth while crouched.
+-   The [Talent Card](Talents.md) _Lowstride_ improves Stealth while crouched. The following outfits have the _Lowstride_ Talent:
+    -   Authority Peacekeeper Armour, [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), and [Shadow Hunter](Shadow_Hunter.md).
 -   **Equipping specific outfits: (See below)**
     -   [Navaen War Chief](Navaen_War_Chief.md) grants +50% Stealth.
     -   [Darkened Bastion](Darkened_Bastion.md) grants +50% Stealth.
@@ -35,19 +36,26 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   [Whaler Coat](Whaler_Coat.md) grants +50% Stealth.
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
     -   [Whaler Initiate](Whaler_Initiate.md) grants 25% Stealth.
-    -   [Shadow Hunter](Shadow_Hunter.md) grants the [Talent Card](Talents.md) _Lowstride._
-    -   Authority Peacekeeper Armour grants the [Talent Card](Talents.md) _Lowstride._
-
 -   Wearing the following Equipment(See below)
-    -   Head: [Assassin's Hood](<Assassin's_Hood.md>)(5%), Hood(4% for Black Hood, 2% from Brown Hood), [Bloodfeather Cowl](Bloodfeather_Cowl.md)(6%), [Dark Cowl](Dark_Cowl.md)(4%), [Dark Owl Chapeau](Dark_Owl_Chapeau.md)(10%), [Monastery Cowl](Monastery_Cowl.md)(5%).
-    -   Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)(3%), [Dark Owl Cloak](Dark_Owl_Cloak.md)(6%), [Mercenary's Garb](<Mercenary's_Garb.md>)(6%), [Ministry Operative Cloak](Ministry_Operative_Cloak.md)(6%), [Sandrunner Wraps](Sandrunner_Wraps.md)(4%).
+    -   Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)(10%), [Bloodfeather Cowl](Bloodfeather_Cowl.md)(6%), [Assassin's Hood](<Assassin's_Hood.md>)(5%), [Monastery Cowl](Monastery_Cowl.md)(5%), [Dark Cowl](Dark_Cowl.md)(4%), Hood(4% for Black Hood, 2% from Brown Hood).
+    -   Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)(6%), [Mercenary's Garb](<Mercenary's_Garb.md>)(6%), [Ministry Operative Cloak](Ministry_Operative_Cloak.md)(6%), [Sandrunner Wraps](Sandrunner_Wraps.md)(4%), [Assassin's Cloak](<Assassin's_Cloak.md>)(3%).
     -   Legs: **None :(**
-    -   Torso: [Dark Owl Cape](Dark_Owl_Cape.md)(2%), Shrouded Capes(5%)
+    -   Torso: Shrouded Capes(5%), [Dark Owl Cape](Dark_Owl_Cape.md)(2%)
     -   Face: Duelist's Mask(6%)
     -   Earrings: [Master Thief Earrings](Master_Thief_Earrings.md)(3%)
     -   Rings: **None :(**
 
 On the other hand, the [Obvious Flaw](Boons_and_Flaws.md) grants you -20% base Stealth and does not impact Stealth gain.
+
+The current maximum Stealth possible, not counting crouching/Lowstride, is:
+
+-   [Felinor](Felinor.md) - **140.72%**.
+-   [Felinor](Felinor.md) with [Multifaceted](Echoes.md#upgrades-and-modifiers) - **140%**.
+-   Any +3 Agility Aspect ([Tiran](Tiran.md)) - **100.6%**.
+-   Any +2 Agility Aspect ([Etrean](Etrean.md)/[Chrysid](Chrysid.md)/[Khan](Khan.md)/[Lightborn](Lightborn.md)/[Drakkard](Drakkard.md)) - **100.4%**.
+-   Any other Aspect or any Aspect (excluding [Felinor](Felinor.md)) with the [Multifaceted](Echoes.md#upgrades-and-modifiers) Echo Upgrade - **100%**.
+
+All of these of course use the best equipment with 100 or more Agility. If you have Obvious, subtract 20 from the above scores.
 
 ## Usage
 
@@ -60,7 +68,7 @@ When crouching:
 -   Players can activate [Murmur: Rhythm](Murmur%253A_Rhythm.md), a Murmur that points out nearby entities by making them "pulse".
 -   Parkour is restricted.
 -   Increased stealth.
--   Cancels the obvious [flaw](Boons_and_Flaws.md).
+-   Cancels the Obvious [flaw](Boons_and_Flaws.md).
 
 Against [humanoid monsters](Monsters.md) or [enemies](Enemies.md), Assassinations deal large damage.
 

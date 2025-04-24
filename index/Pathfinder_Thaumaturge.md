@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 133231
+revid: 142145
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -24,7 +24,7 @@ This Outfit requires 10 Intelligence and Power 5.
 
 This Outfit has 1000 Durability and grants the wearer +10% Physical Armor and +15% Elemental Armor.
 
-This Outfit also grants the [Talent Card](Talents.md) "_Now You See Me_ ", which grants the player 50% more stealth whilst crouched.
+This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases your [Stealth](Stealth.md) & Speed while crouching, and also removes the noise equipping a weapon makes.
 
 ## Location
 

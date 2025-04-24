@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 134295
+revid: 142148
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -24,7 +24,7 @@ This Outfit has 1500 durability and grants +10% Physical resistance, +5% Element
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical, 14.5% Shadowcast, and 5% Elemental.
 
-This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases your [Stealth](Stealth.md) and roll distance while crouching, reduces the speed penalty for crouching, and allows you to draw and sheathe your weapon silently.
+This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases your [Stealth](Stealth.md) & Speed while crouching, and also removes the noise equipping a weapon makes.
 
 ## Location
 

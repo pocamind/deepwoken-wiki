@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 142105
+revid: 142158
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -741,6 +741,7 @@ N/A
 -   Cannot last longer than 60 seconds.
 -   If the caster's ether goes to 0, lightning cloak will immediately end.
 -   Slower ether regen while active.
+-   Counts as a speed boost, meaning it can proc all related talents (including "**Speed Demon**").
 
  |
 

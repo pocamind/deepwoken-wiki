@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Sorcerer
-revid: 128574
+revid: 142144
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -22,7 +22,7 @@ This Outfit requires [Intelligence](Attributes.md) 5.
 
 This Outfit has 1000 durability grants the user +5% Physical resistance and +10% Elemental resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which increases your stealth while crouching.
+This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases your [Stealth](Stealth.md) & Speed while crouching, and also removes the noise equipping a weapon makes.
 
 ## Location
 
