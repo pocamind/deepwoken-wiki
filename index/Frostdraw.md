@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 142107
+revid: 142126
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -614,14 +614,14 @@ Ice
 
 **Rising Frost** (★★☆)
 
-_Conjure a glaive of frost and launch your opponents skyward._
+_Conjure a glaive of frost to launch your opponents skywards._
 
  | 
 
 ## Rising Frost (★★☆)
 
   
-_Conjure a glaive of frost and launch your opponents skyward._
+_Conjure a glaive of frost to launch your opponents skywards._
 
  |
 | 

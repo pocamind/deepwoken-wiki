@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 139938
+revid: 142129
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -39,7 +39,7 @@ You are able to get up to high obstacles by propelling yourself using your bombs
 
 ## Information
 
-The base damage for bombs is 10 "true damage". Bomb damage scales with [Intelligence](Attributes.md#int); for every 3-4~ Intelligence, your bombs will deal 1 more true damage. Iron bombs with 100 intelligence would deal 35 true damage.
+The base damage for bombs is 10 "true damage". Bomb damage scales with [Intelligence](Attributes.md#int); for every ~3 Intelligence, your bombs will deal 1 more damage. Iron bombs with 100 intelligence would deal 45 true damage.
 
 Iron bombs are able to be influenced by universal damage boosters such as but not limited to:
 
@@ -73,11 +73,10 @@ Iron bombs are able to be influenced by universal damage boosters such as but no
 
 ## Trivia
 
--   Bombs can proc Twisted puppets (Unsure if it can proc lava serpent)
--   Bombs scale with Intelligence, every 3-4~ intelligence points grants 1 more true damage.
+-   Bombs can proc burn related talents
 -   Bombs DO NOT scale off of Songchant
 -   Bombs deal "true damage", which goes through most resistences, still can be resisted by general resistences such as reinforce
--   You can take down people that are power 20 with just 100 intelligence and a minimum of 8 bombs.
+-   You can take down people that are power 20 with just 100 intelligence and a minimum of 6 bombs.
 -   You can kill mobs quickly with bombs, but PvE scaling dependant on your power plays a huge factor in this. Talents as Underdog greatly improve the usage for bombs in PvE.
 -   [The biggest bomb preacher](https://www.youtube.com/@TijnHams/videos)
 -   [Helpful guide](https://youtu.be/yEaDf1yHxCg?si=3a6atZGJYWW_YNpW)

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 142048
+revid: 142131
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Fadetrimmer | |
 |---|---|
-| oath_req | Power 12, 12 non-unique haircuts |
+| oath_req | Power 12, 12 haircuts |
 | effects | +1 Combat Mantra Slot, +1 Wildcard Mantra Slot |
 
 “ Yeah. We are a pretty underground Oath. You probably haven't heard of us. ”
@@ -25,16 +25,16 @@ categories: [Oaths]
 
 ― Your Scissors upon an Oathbreak
 
-Fadetrimmer is a enigmatic oath taken by all barbers in order to morph the physical appearance of their customers. By taking this oath, you are given a pair of seemingly sentient scissors as you and your new companion set out to fix the direst of hairlines and trims.
+Fadetrimmer is a enigmatic Oath taken by all barbers in order to morph the physical appearance of their customers. By taking this Oath, you are given a pair of seemingly sentient scissors, as you and your new companion set out to fix the direst of hairlines and trims.
 
 ## Obtainment
 
 Meet the following requirements and talk to a barber about Hair Cutting:
 
 -   Power 12+
--   Change your hair 12 times at any [Barber](Barber.md) _(You don't actually need to change anything; pressing accept without changing anything 12 times works too.)_
-    -   You need to accept the hair change and end dialogue for the haircut to count.
-    -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
+-   Change your appearance 12 times at any [Barber](Barber.md) _(You don't actually need to change anything; pressing accept without changing anything 12 times works too.)_
+    -   You need to accept the appearance change and end dialogue for it to count.
+    -   If you have changed your appearance enough times before being power 12, you do not need to repeat the step.
 -   Talk to the barber and pick the option "How is it you're able to do all this stuff?". Continue the dialogue, asking to take the Oath.
 
 For a more in-depth walkthrough, consider watching [this video](https://youtu.be/JwPKrcDB-xE).
@@ -92,7 +92,7 @@ This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
     -   The Charm duration from the Charming Hair Product is 15 seconds, which is longer than Charismatic Cast's Charm, so it can be useful for low/no Charisma builds that cannot afford the Lasting Charisma Talent.
     -   Additionally, the spray is technically a multihit with each hit applying Charm, so it will therefore proc [Narcissist's](Talents.md#toxic-personality) [Overcharm](Status_Effects.md#overcharm) instantly upon use.
 -   Flammable Hair Product is largely seen as useless due to it being a fairly slow option to apply burn/proc Eruptions that does no damage by itself- using [Flamecharm](Flamecharm.md) mantras applies burn/procs Eruptions while dealing actual damage at the same time.
-    -   Additionally, due to burn and Eruptions scaling on your Flamecharm invest, the Flammable Hair Product will have very low damage output unless you have high Flamecharm investment... at which point it becomes almost entirely pointless.
+    -   Additionally, due to burn and Eruptions scaling on your Flamecharm investment, the Flammable Hair Product will have very low damage output unless you have high Flamecharm investment... at which point it becomes almost entirely pointless.
 -   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build, especially since the cooldown is very low and you can heal more than one ally at the same time with it. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
     -   Revitalizing Hair Product if used incorrectly in PvE can be actively detrimental to your team, as it's possible to heal mobs like bosses with it.
 -   The color of the scissors' blades on your hips can be changed with a [Dye Packet](Dye_Packet.md).
