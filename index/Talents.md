@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142084
+revid: 142186
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2374,7 +2374,7 @@ _**"My cure is most effective."**_
     -   Prerequisite: 35 Ironsing
 
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
-    -   Deals 11.5 Ironsing damage per blade at 80 Ironsing.
+    -   Deals 11.13 Ironsing damage per blade at 80 Ironsing, 12 at 100 Iron.
     -   Has 6.47x PVE scale (11.5 DMG PVP, 74.50 PVE DMG)
     -   Scales on Ironsing Investment.
     -   Artisan's blade have windup of 1.2s
@@ -2388,7 +2388,7 @@ _**"My cure is most effective."**_
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
-    -   Increases Artisan's Blades damage from 11.5 to 16.7, additionally Artisan's Blades will apply 1 rod per each hit.
+    -   Increases Artisan's Blades damage from 11.13 to 16.7, (18 at 100 iron) additionally Artisan's Blades will apply 1 rod per each hit.
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   Refine and Reuse \[Common Talent, Ironsing Exclusive\] - Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.
@@ -3376,8 +3376,6 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 -   The quest giver is found underneath a broken castle, just outside of the entrance to [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](The_Starswept_Valley.md).
 -   [Jessamine](Jessamine.md) will ask you to kill a [King Thresher](Thresher.md#king-thresher).
--   King Threshers can rarely spawn surrounded by two/three other Threshers. There's also a guaranteed spawn at the [Lightkeeper Temple](Lightkeeper_Temple.md).
--   Completing the quest will grant the Talent.
 -   You will automatically gain this when leveling up post Power 9 on any slot.
     -   If you've unlocked this Talent on a different slot, but your current slot is already Power 20, you can speak to [Yamaketzal](Yamaketzal.md) to obtain this Talent.
 

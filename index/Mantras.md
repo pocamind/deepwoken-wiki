@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 142123
+revid: 142182
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -35,7 +35,7 @@ Mantras are a key aspect of combat, and it is incredibly important to master the
 
 ### Perfect Casting
 
-Perfect Casting a Mantra does not inherently do anything outside of Flame Grab and Jolt Grab, it just activates certain Talents (developer confirmed). Flame Grab and Jolt Grab have a reduced travel time if perfect casted, which is a **nerf** to the Mantra. To perfect cast a Mantra, you simply need to click as soon as you select the Mantra that you used. There are various Talents that require you to perfect cast in order to make use of them, such as Eureka, Jolt Cast, Haunted Gale etc.
+To perfect cast a Mantra, you simply need to click as soon as you select the Mantra that you used. There are various Talents that require you to perfect cast in order to make use of them, such as Eureka, Jolt Cast, Haunted Gale etc.
 
 ### Mantra Cancelling
 

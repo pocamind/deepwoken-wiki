@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 142154
+revid: 142201
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -272,6 +272,7 @@ Shadow
 -   Unaffected by Glass & Magnifying Stones.
 -   Cloud and Stratus Stones increase the size of the eruption.
 -   Pretty similar to Flamecharm's [Flame Repulsion](Flamecharm.md#flame-repulsion), but with no knockback.
+-   The second hit does not apply parry stun on the user.
 
  |
 | 
@@ -861,7 +862,7 @@ _**"I speak to the shadows."**_
  | 
 
 Shadowcaster  
-(SHADOW 1 Shadowcast)
+(1 Shadowcast)
 
  | 
 
@@ -877,7 +878,7 @@ N/A
  | 
 
 Adept Shadowcaster  
-(SHADOW 20 Shadowcast)
+(20 Shadowcast)
 
  | 
 
@@ -893,7 +894,7 @@ N/A
  | 
 
 Expert Shadowcaster  
-(SHADOW 30 Shadowcast)
+(30 Shadowcast)
 
  | 
 
@@ -909,7 +910,7 @@ N/A
  | 
 
 Master Shadowcaster  
-(SHADOW 50 Shadowcast)
+(50 Shadowcast)
 
  | 
 
@@ -925,7 +926,7 @@ You can now obtain 3-Star Leveled Shadowcaster Mantras.
  | 
 
 Shadow Travel  
-(SHADOW 75 Shadowcast, Dark God)
+(75 Shadowcast, Dark God)
 
  | 
 
@@ -941,7 +942,7 @@ N/A
  | 
 
 Blossoming Darkness  
-(SHADOW 30 Shadowcast, Shadow Roar)
+(30 Shadowcast, Shadow Roar)
 
  | 
 
@@ -957,7 +958,7 @@ N/A
  | 
 
 Fear  
-(SHADOW 50 Shadowcast)
+(50 Shadowcast)
 
  | 
 
@@ -973,7 +974,7 @@ N/A
  | 
 
 Lasting Sorrow  
-(SHADOW 50 Shadowcast)
+(50 Shadowcast)
 
  | 
 
@@ -989,7 +990,7 @@ N/A
  | 
 
 Sightless Still  
-(SHADOW 30 Shadowcast)
+(30 Shadowcast)
 
  | 
 
@@ -1005,7 +1006,7 @@ N/A
  | 
 
 Singularity  
-(SHADOW 40 Shadowcast)
+(40 Shadowcast)
 
  | 
 
@@ -1028,7 +1029,7 @@ _**"I feed on the souls of my enemies."**_
  | 
 
 Dark God  
-(SHADOW 20 Shadowcast)
+(20 Shadowcast)
 
  | 
 
@@ -1044,7 +1045,7 @@ N/A
  | 
 
 Dark Hours  
-(SHADOW 35 Shadowcast)
+(35 Shadowcast)
 
  | 
 
@@ -1060,7 +1061,7 @@ N/A
  | 
 
 Dark Synergy  
-(SHADOW 45 Shadowcast, Dark God)
+(45 Shadowcast, Dark God)
 
  | 
 
@@ -1076,7 +1077,7 @@ N/A
  | 
 
 Dark Replenishment  
-(SHADOW 50 Shadowcast, 25 Intelligence, Dark God)
+(50 Shadowcast, 25 Intelligence, Dark God)
 
  | 
 
@@ -1092,7 +1093,7 @@ N/A
  | 
 
 Dark Rift  
-(SHADOW 60 Shadowcast, Dark Hours)
+(60 Shadowcast, Dark Hours)
 
  | 
 
@@ -1108,7 +1109,7 @@ N/A
  | 
 
 Overwhelming Drain  
-(SHADOW 40 Shadowcast, Shadow Eruption)
+(40 Shadowcast, Shadow Eruption)
 
  | 
 
@@ -1124,7 +1125,7 @@ N/A
  | 
 
 Shadow Overflow  
-(SHADOW 55 Shadowcast, Dark God)
+(55 Shadowcast, Dark God)
 
  | 
 
@@ -1147,7 +1148,7 @@ _**"I am the one who speaks to death."**_
  | 
 
 Blackhole  
-(SHADOW 60 Shadowcast, POWER 13, Singularity)
+(60 Shadowcast, POWER 13, Singularity)
 
  | 
 
@@ -1163,7 +1164,7 @@ N/A
  | 
 
 Energy Siphon  
-(SHADOW 65 Shadowcast, Singularity)
+(65 Shadowcast, Singularity)
 
  | 
 
