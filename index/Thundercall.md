@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 142158
+revid: 142225
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -124,6 +124,43 @@ Lightning
  |
 | 
 
+**Lightning Beam** (☆☆☆)
+
+_Fire a beam of lightning._
+
+ | 
+
+## Lightning Beam (☆☆☆)
+
+  
+_Fire a beam of lightning._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+1 Thundercall
+
+ |
+| 
+
+**Effect:** _Cast out a straight beam of lightning from where the character is facing._
+
+-   Deals 43.06 (47.92 with 6 songchant) DMG, 13 posture, 0.4s windup, 10s CD at 5 lvl.
+-   Can break objects.
+-   Can grant an optional effect with the "**Shocking Finish**" Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
+    -   Appears after a second of casting.
+
+ |
+| 
+
 **Lightning Blade** (☆☆☆)
 
 _Arcing blades of electricity._
@@ -160,43 +197,6 @@ Lightning + Slash
     -   Can be stacked with the **Magnet Spark** variant of the mantra to perform 4 slashes in total.
 -   Shares a cooldown with all "blade" Mantras, **except** for [Fire Blade](Flamecharm.md#fire-blade).
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform a **third** short-ranged teleporting slash.
-
- |
-| 
-
-**Lightning Beam** (☆☆☆)
-
-_Fire a beam of lightning._
-
- | 
-
-## Lightning Beam (☆☆☆)
-
-  
-_Fire a beam of lightning._
-
- |
-| 
-
-50 Ether
-
- | 
-
-Lightning
-
- | 
-
-1 Thundercall
-
- |
-| 
-
-**Effect:** _Cast out a straight beam of lightning from where the character is facing._
-
--   Deals 43.06 (47.92 with 6 songchant) DMG, 13 posture, 0.4s windup, 10s CD at 5 lvl.
--   Can break objects.
--   Can grant an optional effect with the "**Shocking Finish**" Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
-    -   Appears after a second of casting.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 140722
+revid: 142229
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,7 +40,7 @@ Mute (also known as “Animal King”) has the ability to make monsters unable t
 -   Mute does work against some humanoids.
     -   [Ministry Necromancers](Ministry_Necromancer.md)
     -   [Lesser Angel](Hollow_Angel.md#lesser-angel) (if not summoned by a Watcher)
-    -   [Immortal Guardians](Immortal_Guardian.md) (will not execute the player, but instead talks to the player and returns to their spot)
+    -   [Immortal Guardians](Immortal_Guardian.md) (will not execute the player, but instead talks to the player and returns to their spot, as of 4/25/2025, may also just kill you?)
         -   Messages include:
             -   "BLEED."
             -   "PRIMITIVE."
