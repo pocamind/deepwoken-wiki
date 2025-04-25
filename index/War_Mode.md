@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 136193
+revid: 142205
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Mechanics]
@@ -46,7 +46,7 @@ By killing marked players and keeping hold of Guild Banners, players accumulate 
 
 Marked Player kills are worth 100 points while Guild Banners periodically generate 10 points each. Note that Guild Banners will only begin to generate points once the Warchest reaches 300 points.
 
-It is worth nothing that flooding the server has a downside, as you incur a point gain penalty if there are too many guild members in the server.
+It is worth noting that flooding the server has a downside, as you incur a point gain penalty if there are too many guild members in the server.
 
 The Warchest is a collective point pool and encompass the total score generated during War Mode. Once War Mode ends, the guild with the highest score wins. The Warchest score will dictate the value/amount of rewards to the winning guild, which is then shared with every living members with a chest spawning for each one.
 

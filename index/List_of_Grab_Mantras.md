@@ -1,6 +1,6 @@
 ---
 title: List of Grab Mantras
-revid: 142190
+revid: 142208
 source: https://deepwoken.fandom.com/wiki/List_of_Grab_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mantras]
@@ -10,7 +10,7 @@ notices:
 
 # List of Grab Mantras
 
-This is a list of [Mantras](Mantras.md) that importantly **all share a cooldown**.
+This is a list of [Mantras](Mantras.md) that, importantly, **all share a cooldown**.
 
 These Mantras generally involve the user restraining the opponent while performing an attack.
 

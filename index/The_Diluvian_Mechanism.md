@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 141699
+revid: 142214
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -16,7 +16,7 @@ An inscrutable mechanism looms in the centre of the hall. Many hearts have been 
 
 The Diluvian Mechanism standing ominously in the center of the hall, awaiting for the brave ones.
 
-Diluvian Mechanism is a dungeon in Deepwoken. It is a sub-location of [The Depths](The_Depths.md) found near to [Celtor Wastes](Celtor_Wastes.md).
+Diluvian Mechanism is a [dungeon](Dungeons.md) in Deepwoken. It is a sub-location of [The Depths](The_Depths.md) found near to [Celtor Wastes](Celtor_Wastes.md).
 
 ## Description
 
