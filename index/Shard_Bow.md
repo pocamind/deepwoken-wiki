@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 140698
+revid: 142221
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -42,7 +42,6 @@ _**It is affected by “Wyvern’s Claw” which gives 10% damage while airborne
 ## Trivia
 
 -   Both variants of Shard Bow do true damage, meaning the damage bypasses any form of resistance.
--   Does a little less damage than a Strong Left (presumably without 100 str scaling) according to Agamatsu.
 -   Reference to _The Stormlight Archive'_s Grandbows.
 -   Possibly a reference to the Risk of Rain Huntress ability called "Ballista" which makes you jump into the sky and fire three "energy bolts."
 -   Shard bow's string stretches when pulled back, unlike real world bows, in which the string does not stretch, but rather the legs bend.

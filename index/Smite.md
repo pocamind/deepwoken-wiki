@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 137725
+revid: 142222
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances]
@@ -26,7 +26,7 @@ categories: [Pages with broken file links, Resonances]
 
 ### _Appearance_
 
-When used, multiple white spheres appear around the user. These spheres will fire at enemies dealing decent damage. Does 20 damage per orb (80 damage in total) The corrupted version does 25 damage per orb (150 damage in total). Its BASE cooldown its 50sec, but this can vary.
+When used, multiple white spheres appear around the user. These spheres will fire at enemies dealing true damage. Does 10 damage per orb. The corrupted version does 15 damage per orb. Its BASE cooldown its 50sec, but this can vary.
 
 ## Usage
 
