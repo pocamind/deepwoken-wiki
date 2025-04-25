@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Cuirass
-revid: 136764
+revid: 142217
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cuirasses, Etrea]
@@ -31,3 +31,4 @@ The Etrean Siege Cuirass is an [Equipment](Equipment.md) item under the "Arms" c
 ## Trivia
 
 -   The Etrean Siege Cuirass is part of the "Etrean Siege" set; with the only other piece being the [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
+-   The Innate Talent tied to this Equipment is a direct reference to [the second part of JoJo's Bizarre Adventure](https://jojowiki.com/Battle_Tendency), sharing the same name. The description of the talent also plays into this, being a reference to how [Hamon](https://jojowiki.com/Ripple) (occasionally referred to as 'Ripple') functions in the series.

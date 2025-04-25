@@ -1,6 +1,6 @@
 ---
 title: Llevyn
-revid: 141615
+revid: 142218
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -13,6 +13,10 @@ categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Flo
 | name | Llevyn |
 | aspect | Adret |
 | location | The Frontier FurnacePilgrim's Respite (as 'Radio') |
+
+“ Alsin above... Don't just stand there and take my blessing for granted! Hurry to that Deepdriller. ”
+
+― Llevyn
 
 ## Description
 
@@ -58,6 +62,20 @@ This is when you talk to him for the first time, located at the [The Frontier Fu
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Alsin above... Don't just stand there and take my blessing for granted! Hurry to that Deepdriller. You'll find it at the end of the Nest Corridor beyond Firfire Caverns.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
 **Subsequent Encounters:**
 
 This is when you talk to him after having talked to him already, located at the [The Frontier Furnace](The_Frontier_Furnace.md).
@@ -81,6 +99,20 @@ This is when you talk to him after having talked to him already, located at the 
 </tr>
 <tr>
   <td colspan="12">If my calculations are correct... It should be arriving at the end of the Nest Corridor, past the Firfire Caverns. Sorry about that. They aren't particularly accurate. Again, <i>you really won't be able to keep anything you found here if you take the driller.</i> I'm serious.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Alsin above... Don't just stand there and take my blessing for granted! Hurry to that Deepdriller. You'll find it at the end of the Nest Corridor beyond Firfire Caverns.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
