@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 141407
+revid: 142232
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -108,6 +108,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   Currently, this is one of four Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), [Saintsworn](Oath%253A_Saintsworn.md), and [Soulbreaker](Oath%253A_Soulbreaker.md))
     -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.
 -   Due to how easy this Oath's Requirements are to reach, it can be obtained on almost any build.
+-   If you use any cestus while having this Oath, one of them will be replaced by the chained gauntlet.
 
 ## References
 

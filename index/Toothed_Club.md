@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 134151
+revid: 142233
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -30,7 +30,7 @@ categories: [Weapons, Clubs]
 
 ## Description
 
-The **Toothed Club** is a medium blunt weapon. It is not recommended to use this weapon over the [Mace](Mace.md) due to it's low damage output.
+The **Toothed Club** is a medium blunt clube type weapon. It is not recommended to use this weapon over the [Mace](Mace.md) due to it's low damage output.
 
 ## Trivia
 
