@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 142182
+revid: 142231
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -49,7 +49,7 @@ Ranged Mantras are any Mantra that can deal damage from at least 30 studs away, 
 
 ## Upgrading Mantras
 
-_Main Article - [Spelltrainers](Attunement_Trainers.md)_
+_Main Article - [Attunement Trainers](Attunement_Trainers.md)_
 
 All Mantras can be upgraded from their respective element and trainer or from the guild base's Songwright for more notes as long as you have the points allocated into them. Each 20 points allocated in your element/attribute will allow you to upgrade your Mantra(s).
 
