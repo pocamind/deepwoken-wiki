@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 142120
+revid: 142238
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, NPCs, Ignition Union Enemies, The Ignition Union, NPCs located in the Eastern Luminant]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Adar is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Ironsing](Ironsing.md) trainer.
 
-In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You can only do this when you have talked to [Rudral](Blacksmith.md) and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md) or if you have obtained [Ironsing](Ironsing.md) before on a previous Slot.
+In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You must give them all to him at once. You can only do this when you have talked to [Rudral](Blacksmith.md) and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md) or if you have obtained [Ironsing](Ironsing.md) before on a previous Slot.
 
 ## Location
 

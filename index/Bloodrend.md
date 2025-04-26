@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 142044
+revid: 142236
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -243,6 +243,7 @@ Blood
 
 -   Deals 38.27 (42.6 with 6 songchant) DMG, 15 posture, has 10s CD at 5 lvl
 -   Has 9.18x PVE scale (38.27 PVP, 351.34 PVE DMG)
+-   Auto-grips.
 
  |
 | 
