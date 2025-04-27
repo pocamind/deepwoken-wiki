@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 137494
+revid: 142292
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -14,7 +14,7 @@ Template:Races-Main
 peaceful life as nomads before the tides came.  
 Tolerant of extremes that many others would avoid._"
 
-Chance of obtaining aspect: **13.3%**
+Chance of obtaining aspect: **11%**
 
 ## Description
 

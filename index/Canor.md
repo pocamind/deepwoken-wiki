@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 137017
+revid: 142291
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Aspects]
 Template:Races-Main _With canine features, the Canor are fiercely loyal.  
 Often found as guards and personal servants in the retinue of powerful people._
 
-Chance of obtaining aspect: **15.2%**
+Chance of obtaining aspect: **13%**
 
   
 

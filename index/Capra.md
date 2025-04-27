@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 139430
+revid: 142310
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Moonseye]
@@ -13,7 +13,7 @@ Template:Races-Main
 _Keepers of old knowledge,  
 they wander the lands offering their experience to those in need of it._
 
-Chance of obtaining aspect: **2.2%**
+Chance of obtaining aspect: **2%**
 
 ## Description
 

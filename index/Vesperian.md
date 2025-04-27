@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 141308
+revid: 142296
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -13,7 +13,7 @@ Template:Races-Main
 _Never seen without their mask.  
 Poorly understood, but begrudgingly appreciated due to their natural Talents._
 
-Chance of obtaining aspect: **6.2%**
+Chance of obtaining aspect: **6%**
 
 ## Description
 

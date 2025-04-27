@@ -1,9 +1,9 @@
 ---
 title: First Light
-revid: 142246
+revid: 142263
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Greatswords, Weapons with Unique Criticals]
+categories: [Weapons, Greatswords, Weapons with Unique Criticals]
 ---
 
 # First Light
@@ -29,8 +29,6 @@ categories: [Weapons, Pages with broken file links, Greatswords, Weapons with Un
 | description | "Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korlfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend." |
 
 ## Description
-
-File:Image 2023-04-16 125111912.png
 
 The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare drop from slaying a [Crimson Megalodaunt](Crimson_Megalodaunt.md), or by finding it inside a Merchant Ship. It has unique animations and a unique critical.
 
@@ -58,4 +56,3 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
     -   This victory earned the necessary points for their duo to place second overall, giving [Lightborn](Lightborn.md) to both Trunks and Agamatsu.
 -   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s talent, Actions Speak Louder, the critical cooldown is reduced to only 23 seconds. (If you couldn't use your Resonance anyways, like in 1v1 Chime matches, then it will be reduced to 28 seconds.)
 -   The model of the flaming swords are identical to the one of the [Worshipper Longsword](Worshipper_Longsword.md).
--   It's was remodelled by Nuttoons as for 27/04/2025

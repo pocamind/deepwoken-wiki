@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 133408
+revid: 142294
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -13,7 +13,7 @@ Template:Races-Main
 _Akin to their feline features, the Felinor are carefree and whimsical.  
 Seen to be thieves and outlaws, but merely seek a life of freedom._
 
-Chance of obtaining aspect: **8.9%**
+Chance of obtaining aspect: 7.5**%**
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 141010
+revid: 142303
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -12,7 +12,7 @@ Template:Races-Main
 
 _Deeply spiritual folk who have an uncanny knack for deciphering the emotions of others while keeping their own a closed book._
 
-Chance of rolling: **4.43%**
+Chance of rolling: **4%**
 
 ## Description
 

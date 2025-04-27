@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 138659
+revid: 142288
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -13,7 +13,7 @@ Template:Races-Main
 _Defined by their snake-like features and cunning.  
 Isolationists who tend to their own interests._
 
-Chance of obtaining aspect: **15.0%**
+Chance of obtaining aspect: **15%**
 
 ## Description
 

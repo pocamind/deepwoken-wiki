@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 133434
+revid: 142289
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -14,7 +14,7 @@ _Silver-tongued traders whose
 pride often gets the better of them.  
 Renowned as ship-builders and seafarers alike._
 
-Chance of obtaining aspect: **17.8%**
+Chance of obtaining aspect: **15%**
 
 ## Description
 

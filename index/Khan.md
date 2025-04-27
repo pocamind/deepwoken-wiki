@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 140649
+revid: 142293
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -12,7 +12,7 @@ Template:Races-Main
 
 _Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over._
 
-Chance of obtaining aspect: **8%**
+Chance of obtaining aspect: 7.5**%**
 
 ## Description
 
