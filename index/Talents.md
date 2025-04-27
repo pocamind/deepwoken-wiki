@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142186
+revid: 142411
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -847,10 +847,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them.
     -   Prerequisites: 45 Shadowcast, Dark God
+    -   Deals 5 damage on proc.
+    -   Does not steal or halt any ether regen.
 
 -   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
-    -   Has a 2s cooldown.
-    -   Deal damage around you whenever you steal ether.
+    -   Has a 4s cooldown.
+    -   Deal 5 damage around you in a small aoe from the target you hit.
     -   Prerequisites: 55 Shadowcast, Dark God
 
 -   Dark Hours \[Shadowcast Exclusive\] Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
@@ -882,9 +884,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Blackhole \[Common Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in.
     -   Prerequisites: Singularity, 60 Shadowcast, Power 13
+    -   Pulls anyone nearby in a medium sized aoe to the opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2))
 
 -   Energy Siphon \[Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected.
     -   Prerequisites: Singularity, 60 Shadowcast
+    -   Takes about 6% from the affected opponent.
 
 ### Deepwoken
 
@@ -2480,6 +2484,7 @@ _**"My cure is most effective."**_
     -   Prerequisite: 50 Shadowcast
 
 -   Lasting Sorrow \[Common Talent, Shadowcast Exclusive\] - Shadows last longer on your opponent.
+    -   Doubles the shadow effect duration.
     -   Prerequisite: 50 Shadowcast
 
 -   _Shadow Travel_ \[Rare Talent, Shadowcast Exclusive\] - Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.
