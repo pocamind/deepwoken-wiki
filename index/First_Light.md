@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 141886
+revid: 142246
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords, Weapons with Unique Criticals]
@@ -40,7 +40,7 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 The plunge deals 20 Flamecharm damage with 5 Flamecharm scaling (30 damage at 100 Flamecharm), 5.5 posture damage, applies burn, and continues the critical to the second stage even if parried or whiffed entirely.  
 The swords from the sword rain deal 13 damage with 5 Flamecharm scaling (19.5 damage at 100 Flamecharm) and 1.5 posture damage. The swords do not apply burn and cannot proc any enchant or "on critical" Talent effect (like [Manipulator](Talents.md#toxic-personality)). The swords are also 360 blockable.
 
-This critical is mostly used as a distraction or pressure as opposed to dealing actual damage due to the randomness of the swords and the large area it covers. **Has the longest Crit Cooldown ingame of 30 seconds. Furthermore, while the initial eruption procs flames, THE FALLING SWORDS DO NOT.**
+This critical is mostly used as a distraction or pressure as opposed to dealing actual damage due to the randomness of the swords and the large area it covers. **Has the longest Crit Cooldown ingame of 25 seconds. Furthermore, while the initial eruption procs flames, THE FALLING SWORDS DO NOT.**
 
 ## Trivia
 
@@ -58,3 +58,4 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
     -   This victory earned the necessary points for their duo to place second overall, giving [Lightborn](Lightborn.md) to both Trunks and Agamatsu.
 -   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s talent, Actions Speak Louder, the critical cooldown is reduced to only 23 seconds. (If you couldn't use your Resonance anyways, like in 1v1 Chime matches, then it will be reduced to 28 seconds.)
 -   The model of the flaming swords are identical to the one of the [Worshipper Longsword](Worshipper_Longsword.md).
+-   It's was remodelled by Nuttoons as for 27/04/2025

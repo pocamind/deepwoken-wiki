@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 142227
+revid: 142240
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -1299,7 +1299,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This causes the "Lightning Stream" mantra to pull to closest enemy towards you.
+-   This causes the "Lightning Stream" mantra to pull you to the enemy instead of pulling the enemy to you.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 142193
+revid: 142241
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -362,6 +362,7 @@ Fire
 -   Has a windup of 0.5 seconds, 0.2 second endlag, and 0.8 second delay between explosions.
 -   Inflicts Burn.
 -   Can be modified with Glass Stones and Magnifying Stones to increase the radius of the explosions (+9 AoE max).
+-   Each mantra level increases the AoE of this mantra.
     -   The actual hitbox of the explosion and visual size often do not match when modified.
     -   Each modifier reduces damage.
 
