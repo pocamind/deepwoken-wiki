@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 142263
+revid: 142492
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals]
@@ -46,6 +46,7 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   One of four greatswords (Others being the Kyrsieger, Enforcer's Blade and Railblade), that has no endlag on m1s.
 -   Deals 37 damage at 75 HVY, and roughly 40.8 damage at 100 HVY.
+
 -   The special animations for this sword may be the old Railblade animations because when you spawn in Visionshaper clones, they will utilize the older animations of the First Light.
 -   Back then, it had its own M1 animations. As it was later then removed, because "It was unfinished and buggy." However they have been recently remade.
 -   The swords from the sword rain on the critical are not counted as "weapon damage" or "basic attacks" for any effect in the game. This allows them to do things like not lose damage if you have a [Ring of Casters](Ring_of_Casters.md) equipped, but also not gain damage if you have [Shade Devour](Shadowcast.md#shade-devour) active.
@@ -54,5 +55,6 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
 -   While it has good stats and has no endlag, it is severely held back by its useless and unnecessarily high cooldown critical, making players opt to use Nemesis.
 -   During the Deepwoken Youtuber Battle Royale Tournament on 7/1/2023, Youtuber "Trunks" used this sword to clutch out a victory during the 4th Round of the Tournament against "Floppingman" and "nogo" during the final circle.
     -   This victory earned the necessary points for their duo to place second overall, giving [Lightborn](Lightborn.md) to both Trunks and Agamatsu.
--   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s talent, Actions Speak Louder, the critical cooldown is reduced to only 23 seconds. (If you couldn't use your Resonance anyways, like in 1v1 Chime matches, then it will be reduced to 28 seconds.)
+-   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s talent, Actions Speak Louder, the critical cooldown is reduced to only 20 seconds. (If you couldn't use your Resonance anyways, like in 1v1 Chime matches, then it will be reduced to 23.75 seconds.)
 -   The model of the flaming swords are identical to the one of the [Worshipper Longsword](Worshipper_Longsword.md).
+-   Recieved a new modal on 27/4/25

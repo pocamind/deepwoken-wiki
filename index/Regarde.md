@@ -1,15 +1,20 @@
 ---
 title: Regarde
-revid: 141294
+revid: 142511
 source: https://deepwoken.fandom.com/wiki/Regarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Regarde
 
-## Description
+| Regarde | |
+|---|---|
+| name | Regarde |
+| aspect | Vesperian |
+| location | Heart Plaza, Greathive Aratel |
 
-An invisible NPC, with his model missing or being bugged, located in Heart Plaza in the [Greathive Aratel](Greathive_Aratel.md).
+## Description
 
 After interacting with him, he sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) similarly as [Evengarde Rest](Evengarde_Rest.md) or the [Instructor](Blade_Instructor.md) in [Isle of Vigils](Isle_of_Vigils.md), with the difference being he is invisible even in the Temple Sparring Hall. He also seems to be very broken while fighting him.
 

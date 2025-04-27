@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 140150
+revid: 142424
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons]
@@ -36,7 +36,7 @@ When paired with the Poser's Ring, the damage of its M1s and critical will be su
 
 ## Critical
 
-The user sheaths their katana before lunging forward and slashing horizontally. This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
+The user sheaths their katana before lunging forward and slashing horizontally. The crit deals 10% more damage than the M1 and procs bleed. This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
 
 ## Gallery
 
