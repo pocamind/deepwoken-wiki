@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 142508
+revid: 142571
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -33,3 +33,4 @@ Dodgeable:◯
 
 -   When spawning:
     -   Speak worm. Tell me what you know.
+    -   What did you see? Well?

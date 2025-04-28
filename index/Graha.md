@@ -1,6 +1,6 @@
 ---
 title: Graha
-revid: 139331
+revid: 142557
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, The Divers, NPCs located in the First Layer]
@@ -16,21 +16,24 @@ categories: [Vesperian NPCs, NPCs, The Divers, NPCs located in the First Layer]
 
 ## Description
 
-Graha is one of the NPCs who resides in [Castle Light](Castle_Light.md). He is an [Apprentice Diver](Apprentice_Diver.md) of the [Vesperian](Vesperian.md) aspect and can be found next to the [stove](Campfire_Pit.md). He discusses making Urchin Stew.
+Graha is one of the NPCs he is an [Apprentice Diver](Apprentice_Diver.md) of the [Vesperian](Vesperian.md) aspect. He discusses making Urchin Stew.
 
-  
+## Location
 
-  
+Graha is located in [Castle Light](Castle_Light.md), on the second floor next to the [stove](Campfire_Pit.md).
 
 ## Dialogue
 
-<table><caption>Speaking to him.</caption>
+<table>
 <tbody>
 <tr>
-  <th>This stove is the only to cook <i>anything</i> down here! Most of our meals are Urchin Stew, though.. not much else around here to cook. I just throw three of 'em over the heat and call it a day.</th>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
+  <td>This stove is the only to cook <i>anything</i> down here! Most of our meals are Urchin Stew, though.. not much else around here to cook. I just throw three of 'em over the heat and call it a day.</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

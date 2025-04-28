@@ -1,6 +1,6 @@
 ---
 title: Regarde
-revid: 142511
+revid: 142534
 source: https://deepwoken.fandom.com/wiki/Regarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant]
@@ -12,11 +12,15 @@ categories: [NPCs, NPCs located in the Eastern Luminant]
 |---|---|
 | name | Regarde |
 | aspect | Vesperian |
-| location | Heart Plaza, Greathive Aratel |
+| location | Greathive Aratel |
 
 ## Description
 
-After interacting with him, he sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) similarly as [Evengarde Rest](Evengarde_Rest.md) or the [Instructor](Blade_Instructor.md) in [Isle of Vigils](Isle_of_Vigils.md), with the difference being he is invisible even in the Temple Sparring Hall. He also seems to be very broken while fighting him.
+Regarde is a [Vesperian](Vesperian.md) NPC. Interacting with him sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) and initiates [Training Mode](Training_Mode.md). He is the Eastern counterpart of the [Instructor](Das.md) at the Isle of Vigils.
+
+## Location
+
+He is located in [Greathive Aratel](Greathive_Aratel.md) in the Heart Plaza, standing across [Suri](Suri.md).
 
 ## Dialogue
 
@@ -32,7 +36,7 @@ After interacting with him, he sends you to the [Temple Sparring Hall](<Temple_S
   <td>Let's spar.</td>
 </tr>
 <tr>
-  <td>End.</td>
+  <td>End, teleports you to the Temple Sparring Hall</td>
 </tr>
 </tbody>
 </table>

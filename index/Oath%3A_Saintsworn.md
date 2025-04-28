@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 142118
+revid: 142567
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -213,8 +213,6 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 -   Saintsworn gives the most mantra slots out of any Oath, being 5 total mantra slots, making it incredibly flexible and spammable.
 -   Saint's Overload have 20 seconds of duration before going off and it can be seen from the flying blade that it changes color to white.
 -   The 5 blade on your back will vanish one by one after Hero's Assist is triggered.
--   Currently, this is one of four Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), [Soulbreaker](Oath%253A_Soulbreaker.md) and [Chainwarden](Oath%253A_Chainwarden.md))
-    -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.rr
 -   Your Attunement Path will affect the color of your Saintsblade in the corresponding stance.
 -   The color of the current Saint Stance will apply to the colored parts of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Ignition Deepcrusher](Ignition_Deepcrusher.md), [Hailbreaker](Hailbreaker.md), [Divine Greataxe](Crazy_Slots.md), and [Divine Dagger](Crazy_Slots.md) when you equip them, and change colors when you use their Criticals.
     

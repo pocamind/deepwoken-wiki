@@ -1,9 +1,9 @@
 ---
 title: Dust
-revid: 137873
+revid: 142552
 source: https://deepwoken.fandom.com/wiki/Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, The Divers, NPCs located in the First Layer]
+categories: [NPCs, The Divers, NPCs located in the First Layer]
 ---
 
 # Dust
@@ -16,23 +16,24 @@ categories: [Celtor NPCs, NPCs, The Divers, NPCs located in the First Layer]
 
 ## Description
 
-Dust is a [Celtor](Celtor.md) NPC who resides in the [Castle Light](Castle_Light.md), being one of the [Diver's Apprentices](Apprentice_Diver.md), you can find her praying in front of a tombstone in the cemetery that was built to the left on the outskirts of the Castle Light, mourning her fallen fellow Divers.
+Dust is a [Celtor](Celtor.md) NPC who is one of the [Diver's Apprentices](Apprentice_Diver.md), you can find her praying in front of a tombstone in the cemetery that was built to the left on the outskirts of the Castle Light, mourning her fallen fellow Divers.
 
-  
+## Location
 
-  
-
-  
+Dust is located outside [Castle Light](Castle_Light.md) in the cemetery to it's left.
 
 ## Dialogue
 
-<table><caption>Speaking to her.</caption>
+<table>
 <tbody>
 <tr>
-  <th>Gods... as above, so below, please. Have mercy on us sinful children of Lumen, for it is all we have.</th>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
+  <td>Gods... as above, so below, please. Have mercy on us sinful children of Lumen, for it is all we have.</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

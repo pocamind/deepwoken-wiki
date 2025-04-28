@@ -1,9 +1,9 @@
 ---
 title: Red Death
-revid: 142507
+revid: 142566
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Weapons with Unique Criticals]
+categories: [In progress without reason, InProgressPages, Weapons, Weapons with Unique Criticals, Items]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -32,7 +32,7 @@ notices:
 
 The **Red Death** is a legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowcast.md) hybrid weapon used by [Ministry Heartbleeders](Ministry_Heartspiller.md) in order to both interrogate and assassinate targets, leaving no trace behind. It has a tint of both black and red, with delicate yet simple details close to its blade. It can be dropped from [Ministry Heartbleeder](Ministry_Heartspiller.md).
 
-When gripping a player, they will shake and turn transparent for a few seconds before disappearing in a black smoke along with its loot.
+When gripping a player, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving nothing but their loot.
 
 ## Critical
 

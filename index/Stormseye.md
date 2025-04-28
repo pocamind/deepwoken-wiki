@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 139493
+revid: 142588
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Summer Company]
@@ -28,16 +28,16 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 
 ## Description
 
-The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medallion](Kyrsan_Medallions.md) that sits in the centre of the Stormseye. This invention functions by utilizing the power of Thundercall to better hit foes with charged ammunition and sharp, sudden strikes, fitting of its deliberately deadly design. It scales from Medium Weapons and [Thundercall](Thundercall.md).
+The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medallion](Kyrsan_Medallions.md) that sits in the center of the Stormseye. This invention functions by utilizing the power of Thundercall to better hit foes with charged ammunition and sharp, sudden strikes, fitting of its deliberately deadly design. It scales from Medium Weapons and the [Thundercall](Thundercall.md) Attunement
 
 The Stormseye comes with 2 passive abilities:
 
 -   **Medallion Shockwave** - Sometimes, your flourish M1 now creates an explosion that knocks people away and applies [Electrified](Status_Effects.md#electrified). If the user has Surge Path: Unstable Capacitator, apply a surge stack with this flourish instead.
 
 -   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
-    -   Oddly, this passive also applies to weapons pulled from [Crazy Slots](Crazy_Slots.md) or forced by other means.
+    -   Oddly, this passive also applies to weapons pulled from [Crazy Slots](Crazy_Slots.md) or if forced by other means.
 
-This weapon procs all static and electrified Talents as well as all [Thundercall](Thundercall.md) status effects, including Interrogator, Static Blade, and the Stratoshock buffs.
+This weapon procs all static and electrified Talents as well as all [Thundercall](Thundercall.md) status effects, including Interrogator, proccing Surge stacks, Static Blade, and the Stratoshock buffs.
 
 -   Meeting the requirement of LTN and MED, the weapon deals 26.4 damage.
 -   At max LTN and MED, the weapon deals 31 damage.

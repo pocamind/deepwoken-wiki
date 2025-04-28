@@ -1,9 +1,9 @@
 ---
 title: Das
-revid: 131721
+revid: 142576
 source: https://deepwoken.fandom.com/wiki/Das
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
+categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Das
@@ -16,7 +16,7 @@ categories: [Vesperian NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Das is a [Vesperian](Vesperian.md) NPC that lets you train with a [sparring instructor](Blade_Instructor.md), you are able to spar as many times as you want.
+Das is a [Vesperian](Vesperian.md) NPC. Interacting with him sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) and initiates [Training Mode](Training_Mode.md). He is the Etrean counterpart of the [Instructor](Regarde.md) at [Greathive Aratel](Greathive_Aratel.md).
 
 ## Location
 
@@ -42,7 +42,7 @@ Das is located in [Isle of Vigils](Isle_of_Vigils.md) inside the [Temple of the 
   <td>I want to spar with an instructor.</td>
 </tr>
 <tr>
-  <td>End, Sparring starts</td>
+  <td>End, teleports you to the Temple Sparring Hall</td>
 </tr>
 </tbody>
 </table>

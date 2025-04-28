@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 141263
+revid: 142591
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -136,6 +136,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Mr. Quarters, Halfmaster](Mr._Quarters,_Halfmaster.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
 | [Rabanastre](Rabanastre.md) | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. |
 | [Raphael](Raphael.md) | Unaligned | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
+| [Regarde](Regarde.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Sparring instructor at hive |  |
 | [Regek](Regek.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. |  |
 | [Renau](Renau.md) | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |  |
 | [Rimil](Rimil.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants quest to kill an enemy in the [Starswept Valley](The_Starswept_Valley.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
@@ -162,6 +163,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |  |
 | [Vesque](Vesque.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Gives you the [Fang and Coil](Fang_and_Coil.md) fist style |  |
 | [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |  |
+| [Voidmother](The_Voidmother.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Sends you out of Voidheart |  |
 | [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
 | [Vyrelda](Vyrelda,_Master_of_Blood.md) | Unaligned | [Second Layer](Second_Layer.md), in an Igloo at [Firfire](Firfire.md), [Derelict Highchurch](Derelict_Highchurch.md) | Begins the quest to obtain Bloodrend. | Will ask you to hunt down students of the Second Skulking who drop Heartstars and bring 3 of them back to her. |
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |  |

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 142232
+revid: 142573
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -96,16 +96,22 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 ## Trivia
 
 -   Restrain chains the opponent even if the hit was blocked.
--   Chains break if distance difference between user and victim reached 40 studs
--   Restrain has almost no cooldown as long as you are landing the mantra, working even if dodged or blocked, but not when parried. Restrain goes on cooldown if whiffed
--   Chained targets from Restrain are slowed when they run away from you.
+-   Chains break if distance difference between user and victim reached 40 studs.
+-   Restrain has almost no cooldown as long as you are landing the mantra, working even if dodged or blocked, but not when parried. Restrain goes on cooldown if whiffed.
+-   Chained targets are slowed when they run away from you.
 -   Chainwarden can chain multiple enemies, but enemies can only be chained by one person at a time. Nothing happens if another Chainwarden attempts to chain an already chained enemy.
 -   Using Rupture on a chained target will break the current chain and ragdoll the target in the direction of your camera (For example, looking behind you will ragdoll them toward you).
+-   The Chained Captive NPC has unique dialogue if you no longer meet the requirements of the Oath when speaking to them. In all cases, your only dialogue option is to end dialogue.
+    -   "..." - If you already have an Oath.
+    -   "_The captive stays silent, staring at you with wild eyes wrought with concern._" - If you no longer meet the reputation requirement.
+    -   "Send help, your will alone won't be enough to break these chains." - If you don't meet the stat requirements. This will always mention "will" regardless of your stat setup, as Chainwarden is a combined requirement Oath.
+        -   These lines of dialogue are rarely seen as the NPC will not spawn in until you speak to the Vice Warden while having the Oath's requirements. Additionally, if you are missing multiple requirements, the NPC will default to the missing reputation line or the already have an Oath line.
+        -   The dialogue for lacking requirements possibly hints at Chainwarden's chains being breakable in lore just by having high willpower (not the Deepwoken stat).
 -   Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.
 -   On release, was an incredibly small and lackluster Oath, having only 2 Mantras and no passives/Talents, with Arch having said that there were no Talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)
     -   This was confirmed to be an error when a shadow-patch gave Chainwarden the Talents it was missing.
 -   If you break your Oath using a Yunshul's wish at [Temple of Hearts](Temple_of_Hearts.md), [Vice Warden Morredh](Vice_Warden_Morredh.md) says "Another deserter? You're pathetic."
--   Currently, this is one of four Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), [Saintsworn](Oath%253A_Saintsworn.md), and [Soulbreaker](Oath%253A_Soulbreaker.md))
+-   Currently, this is one of three Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md) and [Soulbreaker](Oath%253A_Soulbreaker.md))
     -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.
 -   Due to how easy this Oath's Requirements are to reach, it can be obtained on almost any build.
 -   If you use any cestus while having this Oath, one of them will be replaced by the chained gauntlet.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 141271
+revid: 142565
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -85,7 +85,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Chilling<div></div></font></center></td>
   <td><div><p>Weapon hits apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Essentially it grants a 4% damage buff that bypasses the damage modifier cap (due to it being a separate instance of damage). Because the second damage instance is dealt as Frostdraw damage, it can be resisted by Frostdraw resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.<br>
   After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a>. (Putting the Talent on cd too), negating all movement (7 second cooldown).<br>
-  Deals Frost dmg on hit (normal Frostdraw) or one crystal (Crystal).</p></div></td>
+  Deals Frost dmg on hit (normal Frostdraw) or one crystal (Crystal).</p>
+  <p><b>Chilling's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's damage before modifiers.</b></p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>
 <tr>
@@ -199,9 +200,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   The PEN it gives also counts for mantra damage and bypasses the 50% PEN cap.<sup><a href="#cite-note-1">[1]</a></sup><br>
   Drain thirst equal to 20% of weapon scaled DMG, not affected by DMG mods. (As example 43.77/5 = 8.75 water drain)</p>
   <p><br>
-  Sear stacks lasts 15 seconds, applying a stack wont refresh the timer.</p>
-  <p><br>
-  </p></div></td>
+  Sear stacks lasts 15 seconds, applying a stack wont refresh the timer.</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
@@ -224,10 +223,11 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
-  <td><div><p>On proc, deal 15% extra damage and stun with a 5 second cooldown, visualized by a purple lightning after-shock.<br>
+  <td><div><p>Weapon hits apply a second instance of Thundercall damage that deals 15% of the attack that procced it, visualized by a purple lightning after-shock. This has a 5 second cooldown. Essentially it grants a 15% damage buff that bypasses the damage modifier cap (due to it being a separate instance of damage). Because the second damage instance is dealt as Thundercall damage, it can be resisted by Thundercall resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.<br>
   By having the Surge Path: Unstable Capacitor Talent, on proc the stun is replaced with a surge stack.<br>
-  In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by an additional 17.5%. Has a 5 second cooldown.</p></div></td>
-  <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple and thunder effects .</div></td>
+  In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing the Storm proc damage instance to 17.5% of the attack that procced it. Has a 5 second cooldown.</p>
+  <p><b>Storm's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's damage before modifiers.</b></p></div></td>
+  <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple and thunder effects.</div></td>
 </tr>
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>

@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 141651
+revid: 142559
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons, The Ministry]
@@ -16,6 +16,7 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 | scaling | HVY: 6, BLD: 4 |
 | range | 9.5 |
 | swing speed | 0.86x |
+| special effect | Restores a percentage of the users blood upon landing m1 |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8.5 |
 | bankable | Yes |

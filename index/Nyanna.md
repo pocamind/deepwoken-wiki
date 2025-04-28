@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 138427
+revid: 142575
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the First Layer]
@@ -8,11 +8,15 @@ categories: [NPCs, Vendors, NPCs located in the First Layer]
 
 # Nyanna
 
+| Nyanna | |
+|---|---|
+| name | Nyanna |
+| aspect | Felinor |
+| location | Castle Light |
+
 “ Are you slow? Yes, premium notes. I sell to the lazy and rich. If you don't like my prices, go try finding these weapons and schematics yourself. ”
 
 ― Nyanna to a neophyte
-
-Template:NPC name
 
 ## Description
 
