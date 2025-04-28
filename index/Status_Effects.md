@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 141424
+revid: 142611
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -133,11 +133,8 @@ This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) 
 It has a few sub-variants:
 
 -   Azure Burning: Has higher burn damage.
-
--   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path. Is also applied with the [Curse of Rhaemen's Ember](Enchantments.md#curses) enchant.
-
 -   Black Flames: Consumes your Ether while you are burning and spawns Puppets. This burn type comes from Wraith Path: Twisted Puppets.
-
+-   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path. Is also applied with the [Curse of Rhaemen's Ember](Enchantments.md#curses) enchant.
 -   White Flames: Flames scale on INT, meaning they can be a lot more deadly. (Currently bugged and does not scale based on INT)
 
 ### Winded

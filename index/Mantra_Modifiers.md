@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 142240
+revid: 142615
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]

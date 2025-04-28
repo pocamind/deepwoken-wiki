@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142411
+revid: 142613
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1976,6 +1976,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 80 Willpower
 
 -   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
+    -   Whenever you are at a net lose of sanity or use Heretic Sutra, every weapon hits reduce the target's sanity by 3%.
     -   Prerequisites: 85 Willpower
 
 ### Mr Charm
