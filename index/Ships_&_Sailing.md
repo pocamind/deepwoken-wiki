@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 142051
+revid: 142624
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 ## Description
 
-Boats and Ships are the main method of Sea Transportation in Deepwoken to get to different islands throughout the map. There are three seas, [The Etrean Sea](The_Etrean_Sea.md), [The Aratel Sea](The_Aratel_Sea.md), and [The Voidsea](Voidsea.md). There are currently 6 ships which are:
+Boats and Ships are the main method of Sea Transportation in Deepwoken to get to different islands throughout the map. There are three seas, [The Etrean Sea](The_Etrean_Sea.md), [The Aratel Sea](The_Aratel_Sea.md), and [The Voidsea](Voidsea.md). There are currently 6 ships the player can use, those boats being:
 
 -   Dinghy
 -   Sloop
@@ -108,3 +108,4 @@ For more information on Ship Control and Sailing, click [here](Ships_&_Sailing.m
 -   Mantras that can damage the environment/terrain are capable of hurting Boats. However, the best way to destroy a Boat is sailing one into a Whirlpool, which instantly destroys it.
 -   When Boats are below 50% Health, they'll gradually move slower, and you can't respawn on it until it is over 50% Health again.
 -   [Seafarer's Chime](<Seafarer's_Chime.md>) is obtained upon purchasing your first Boat.
+-   The flag at the top of the mast of your boat always points in the direction of the wind.

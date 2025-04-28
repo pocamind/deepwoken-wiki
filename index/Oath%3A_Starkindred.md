@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 140828
+revid: 142626
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -66,7 +66,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
     -   While active, Air Dash goes much further in any direction, however the effectiveness is reduced if going horizontally.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   If undyed, comes in the color of your aspect's hair color.
-    -   The mantra **[Fire Blade](Flamecharm.md#fire-blade)** now launches the user upward before releasing a large plume of flames, to remove this effect apply a Reversal spark to **[Fire Blade](Flamecharm.md#fire-blade)**.
+    -   The mantra **[Fire Blade](Flamecharm.md#fire-blade)** now launches the user upward before releasing a large plume of flames, to remove this effect apply a [Reversal Spark](Mantra_Modifiers.md) to **Fire Blade**.
 
 -   **Ascension** **\- Combat Mantra**
     -   _Take to the skies for a devastating strike._

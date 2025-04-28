@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 133697
+revid: 142637
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings]
@@ -27,11 +27,11 @@ categories: [Armors, Equipment, Rings]
 
 The Poser's Ring is an [Equipment](Equipment.md) item under the "Ring" category. It can be obtained by completing [Zana's](Zana.md) quest.
 
-While using a Katana, the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their katana. When this happens, all damage dealt by the katana will be dealt instantly.
+While using a [Katana](Katana.md), the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their katana. When this happens, all damage dealt by the katana will be dealt instantly.
 
 ## Trivia
 
--   The Poser's Ring can be used with either the Katana, Alloyed Katana or the Shattered Katana
+-   The Poser's Ring can be used with either the Katana, Alloyed Katana or the Shattered Katana.
 -   Mantras are useable with Poser's Ring.
 -   The Poser's Ring is NOT bankable.
 -   It cannot be dropped as it will be soulbounded to your character.
@@ -41,3 +41,4 @@ While using a Katana, the Poser's Ring makes it so that your Katana's attacks an
 -   Actually does a very little amount of dmg until sheathed rather than doing "0" dmg (around 10 or so if using shattered katana, a little less with normal katana)
 -   Shares the same model as [Diver's Ring](<Diver's_Ring.md>)
 -   While player damage from Poser's Ring sheath cannot exceed 70%, any and all monsters (humanoid or not) doesn't share that cap, meaning with enough m1's without sheathing you are capable of depleting an entire boss health bar from 100% to 0%. Despite thinking that its the same damage but instant, this is extremely CHEESY due to **being able to instantly skip boss second phases and such.**
+-   This cancels deferred's debuff of dealing damage over 2.5 seconds.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142613
+revid: 142635
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -847,7 +847,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them.
     -   Prerequisites: 45 Shadowcast, Dark God
-    -   Deals 5 damage on proc.
+    -   Deals 5 damage on proc. (only on flourish.)
+    -   Does not proc any shadow talents except shadow overflow. (might proc sightless still)
     -   Does not steal or halt any ether regen.
 
 -   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
@@ -884,11 +885,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Blackhole \[Common Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in.
     -   Prerequisites: Singularity, 60 Shadowcast, Power 13
-    -   Pulls anyone nearby in a medium sized aoe to the opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2))
+    -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2))
 
 -   Energy Siphon \[Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected.
     -   Prerequisites: Singularity, 60 Shadowcast
-    -   Takes about 6% from the affected opponent.
+    -   Takes about ~15 ether from the affected opponent on proc.
 
 ### Deepwoken
 

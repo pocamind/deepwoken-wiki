@@ -1,6 +1,6 @@
 ---
 title: "Korilfiend, the Inferno's Provenance"
-revid: 96035
+revid: 142621
 source: https://deepwoken.fandom.com/wiki/Korilfiend%2C_the_Inferno's_Provenance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, Lore]
@@ -12,7 +12,7 @@ categories: [Drowned Gods, Lore]
 
 ## Overview
 
-Little is known about Korilfiend besides their name, and that the apparently rogue Black Diver, Amorus Pleeksty, has eaten a part of them in the Third Layer in the form of a flower and invented [Flamecharm](Flamecharm.md) as a result. They were also the one who created the Forge of Sin, [Artifacts](Artifacts.md) and bears an unknown connection to the Temple Of The Forgotten Flame. They take the appearance of a large magma serpent.
+Little is known about Korilfiend besides their name, and that the apparently rogue Black Diver, [Amorus Pleeksty](Amorus_Pleeksty.md), has eaten a part of them in the Third Layer in the form of a flower and invented [Flamecharm](Flamecharm.md) as a result. They were also the one who created the Forge of Sin, [Artifacts](Artifacts.md) and bears an unknown connection to the Temple Of The Forgotten Flame. They take the appearance of a large magma serpent.
 
 ## Trivia
 

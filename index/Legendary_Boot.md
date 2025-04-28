@@ -1,9 +1,9 @@
 ---
 title: Legendary Boot
-revid: 120027
+revid: 142639
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, NPCs]
+categories: [NPCs]
 ---
 
 # Legendary Boot
@@ -52,11 +52,6 @@ Go past the bandit camp in lower Erisia. Then take a left until you reach the cl
 
 > **Legendary Boot: You think wielding a musical instrument makes you _WORTHY?_**
 
-Dialogue
-
-### Notes
+### Trivia
 
 -   It's probably impossible to obtain the legendary boot. It's just a joke.
--   Perhaps, we don't know yet what it means to be _**WORTHY**_.
--   Justicar will get attention soon -Arch Mage
-    -   This is the anklets of alsin + mantras
