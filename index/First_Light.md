@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 142553
+revid: 142601
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals]
@@ -56,4 +56,4 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
     -   This victory earned the necessary points for their duo to place second overall, giving [Lightborn](Lightborn.md) to both Trunks and Agamatsu.
 -   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s talent, Actions Speak Louder, the critical cooldown is reduced to only 20 seconds. (If you couldn't use your Resonance anyways, like in 1v1 Chime matches, then it will be reduced to 23.75 seconds.)
 -   The model of the flaming swords are identical to the one of the [Worshipper Longsword](Worshipper_Longsword.md).
--   Recieved a new modal on 27/4/25
+-   Received a new model on 27/4/25

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 142089
+revid: 142598
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -762,7 +762,7 @@ Metal + Slash + Template:Bleed2
 -   Has 9.3x PVE scale (28 DMG + 8.4 Template:Bleed2 in PVP, 260.76 + 78.24 Template:Bleed2 in PVE)
 -   Covers 82 studs of distance.
 -   Applies Metal Rods on hit.
--   Applies 0.5s knockdown on hit, has 0.2s endlag.
+-   Doesn't apply hitstun but applies 0.5s knockdown on hit, has 0.2s endlag.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
     -   Needs further testing.
 
