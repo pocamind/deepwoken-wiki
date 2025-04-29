@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 142615
+revid: 142647
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -375,10 +375,6 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 </tr>
 </tbody>
 </table>
-
-  
-
-  
 
 **Sparks:**
 

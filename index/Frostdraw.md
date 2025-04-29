@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 142194
+revid: 142648
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1019,7 +1019,7 @@ _Skate freely on paths of ice._
  |
 | 
 
-\[missing, add\]
+50 Ether
 
  | 
 
@@ -1034,6 +1034,8 @@ N/A
 
 **Effect:** _Form a frozen path of ice as the user slides on at a high velocity._
 
+-   Right click to cancel sliding.
+-   Constantly consumes Ether to continue sliding.
 -   Knocked players cannot be held while this Mantra is active.
 -   When below Mantra level 5, gradually loses height similar to gliders.
     -   Gradual height loss at level 5 is negligible, but still present.

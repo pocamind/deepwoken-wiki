@@ -1,9 +1,9 @@
 ---
 title: Moon Knight
-revid: 131074
+revid: 142652
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Knights, Moonseye]
+categories: [Monsters, Knights]
 ---
 
 # Moon Knight
@@ -75,7 +75,4 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 ## Trivia
 
 -   Moon Knights are recolored Star Knights.
-
 -   The [Star Knight](Star_Knight.md) is probably the newer and stronger design of the Moon Knight, which is why the Star Knights protect the Resonant Dawn meteor while the Moon Knights stay on their home island.
-
--   The term "Moonscorch" comes from the game Fear and Hunger.

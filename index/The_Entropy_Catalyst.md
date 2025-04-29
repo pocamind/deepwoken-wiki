@@ -1,9 +1,9 @@
 ---
 title: The Entropy Catalyst
-revid: 132649
+revid: 142661
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Moonseye]
+categories: [Pages with broken file links, Locations]
 ---
 
 # The Entropy Catalyst
@@ -16,10 +16,6 @@ The Entropy Catalyst is a location within [The Aratel Sea](The_Aratel_Sea.md), i
 
 This location is a [Voidzone](Voidzones.md), meaning that dying here will send you to the Depths. You can find [Pristine Lotuses](Pristine_Lotus.md) and [Erisore](Ores.md#erisore) here.
 
-## How do I use this?
-
-It's simple, just take a good look at the four humanoid grave-esque spots adjacent from the center.
-
 By picking up a **knocked** person who has an [Oath](Oaths.md) (such as Blindseer, Dawnwalker, Starkindred etc), and interacting with one of the four holes, it will sacrifice them and a wind will form about the circle, filling with light and prompting the player to sacrifice 3 more.
 
 As this place is a Voidzone, do note that this will send a character to the Depths. When all four slots are filled, a large glowing orb will emerge from the middle of the pattern. Interacting with this orb will make it explode, knocking back everyone standing nearby. If a player is struck by the explosion, and has met the requirements to become a [Linkstrider](Oath%253A_Linkstrider.md), they will gain the Linkstrider Oath.
@@ -27,8 +23,6 @@ As this place is a Voidzone, do note that this will send a character to the Dept
 Alternatively, you can pick up Pristine Lotuses here and kill players that have an Oath, When 4 of them have been turned into Scarlet Lotuses, return to The Entropy Catalyst and gain the Oath.
 
 Decent guide on how to get to the Entropy Catalyst: [https://www.youtube.com/watch?v=K-TZn1VZIcI](https://www.youtube.com/watch?v=K-TZn1VZIcI)
-
-_Good luck friends, and stay safe in Layer 2!_
 
 File:Catalyst.png
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 142090
+revid: 142680
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -742,7 +742,7 @@ N/A
 
 ### _Intelligence Mantras_
 
-Intelligence Mantras act as "wildcards" in the user's arsenal as they complement existing Mantras well. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
+-   Intelligence Mantras act as "wildcards" in the user's arsenal as they complement existing Mantras well. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
 
 | 
 **Name**
@@ -812,6 +812,7 @@ Blunt
     -   Crystal/Perfect Lenses increase how far you can be for it to autotrack.
 -   Can be used from any height, and you will float.
     -   Does not negate fall damage.
+-   Has a bug when trying to apply Stratus Stones where it doesn't use any, doesn't have any effect, but still adds to the ether used.
 
  |
 | 

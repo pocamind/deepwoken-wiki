@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 142639
+revid: 142675
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -8,19 +8,21 @@ categories: [NPCs]
 
 # Legendary Boot
 
-## The Legendary Boot
+| Legendary Boot | |
+|---|---|
+| name | Legendary Boot |
+| aspect | None |
+| location | Erisia |
 
-### Summary
+## Descrition
 
-The legendary boot can be found in [Lower Erisia](Lower_Erisia.md). It is not an event, but a stationary NPC which does not despawn. It can be found by going through a waterfall in lower Erisia.
+The legendary Boot is an NPC with no purpose, other than being a joke.
 
-### Location
+## Location
 
-Waterfall Entrance
+The Legendary Boot is located in [Erisia](Erisia.md) on top of a rock, that is in an opening after passing through a waterfall.
 
-Go past the bandit camp in lower Erisia. Then take a left until you reach the cliff. There will be a waterfall in the cliff and it is just through there
-
-### Dialogue
+## Dialogue
 
 > Legendary Boot: The Legendary Boot waits for the day that one _**worthy**_ would claim it.
 
@@ -51,7 +53,3 @@ Go past the bandit camp in lower Erisia. Then take a left until you reach the cl
 > 2\. But I've unlocked my resonance, I should be _worthy_.
 
 > **Legendary Boot: You think wielding a musical instrument makes you _WORTHY?_**
-
-### Trivia
-
--   It's probably impossible to obtain the legendary boot. It's just a joke.

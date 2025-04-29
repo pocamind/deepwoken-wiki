@@ -1,9 +1,9 @@
 ---
 title: Star Knight
-revid: 131050
+revid: 142662
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Knights, Moonseye]
+categories: [Monsters, Knights]
 ---
 
 # Star Knight

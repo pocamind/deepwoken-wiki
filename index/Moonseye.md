@@ -1,9 +1,8 @@
 ---
 title: Moonseye
-revid: 133445
+revid: 142655
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore, Moonseye]
 ---
 
 # Moonseye
