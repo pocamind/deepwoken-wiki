@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 142022
+revid: 142704
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -209,7 +209,7 @@ Maestro Evengarde Rest executes his opponent after knocking them:
 -   Chronostasis - Maestro Evengarde Rest's basic attacks puts the victim's Resonance on cooldown for four seconds.
 -   Guardbreak Resist - Maestro Evengarde Rest is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this Talent procs
 -   Pressure Break - If Maestro Evengarde Rest guardbreaks you, you'll get ragdolled and tossed back.
--   Stifled Jump - Jumping while suffocated by Maestro Evengarde Rest's Galebreathe will result in you getting dazed. No
+-   Stifled Jump - Jumping while suffocated by Maestro Evengarde Rest's Galebreathe will result in you getting dazed.
 -   Showstopper - When rolling through one of Maestro Evengarde Rest's physical attacks, he will stomp the ground and daze you. Removes your speed buffs.
 -   Bulldozer - Getting flourished into a wall by Maestro Evengarde Rest has a chance to guardbreak you.
 -   Concussion - Getting flourished into a wall by Maestro Evengarde Rest causes your screen to blind and your daze to lengthen.
@@ -220,7 +220,6 @@ Maestro Evengarde Rest executes his opponent after knocking them:
 Maestro Evengarde Rest is a rather straightforward fight compared to most other bosses, opting out of any gimmicks or puzzles and instead being a simple duel. A decent mastery of how to parry trade with humanoid NPCs is required to resist his attacks.
 
 -   His moveset incorporate a mix of quick and delayed moves both, which can catch you off guard and make you lose a parry. If you failed a parry, use a dodge as an attempt to recover.
--   Can be cheesed with murmur:tacet (note: unbind taunt/spit)
 -   Obtaining and equipping the [Windrunner Robes](Windrunner_Robes.md) or [Summer Dragoon](Summer_Dragoon.md) can help in the fight as they both have a whopping total of 55% Wind Armor.
     -   The [Ferryman's Coat](<Ferryman's_Coat.md>) can be used as a substitute.
 -   Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.
@@ -249,6 +248,10 @@ Upon defeating Maestro, he will drop a large chest containing many different ite
 -   The [Windrunner Robes](Windrunner_Robes.md) and other Outfits.
 -   Rarely, the [Monastery Champion Set](Monastery_Champion_Robes.md), the [Imperial Staff](Imperial_Staff.md), or [Lesser Relics](Relics.md)
 -   Extremely Rarely, a [Sinner's Ash](<Sinner's_Ash.md>)
+
+Despite his loot-pool's variety and size, he will mainly drop **Enchant Stones**, and good starred equipment, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md) due to the ease and speed of accessing his fight.
+
+Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wayward Gems. Maestro's Ring is weighted more strongly than other rings.
 
 ### 
 
@@ -334,10 +337,6 @@ Exhaustive Loot Table
 </tbody>
 </table>
 
-Despite his loot-pool's variety and size, he will mainly drop **Enchant Stones**, and good starred equipment, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md) due to the ease and speed of accessing his fight.
-
-Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wayward Gems. Maestro's Ring is weighted more strongly than other rings.
-
 ## Trivia
 
 -   The music of his bossfight is [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) by Naktigonis.
@@ -362,4 +361,4 @@ Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wa
     -   This also lowers your [Etrea](Etrea.md) reputation greatly, usually setting it to Neutral or lower depending on your current standing.
 -   The specific weapon of a different type can still drop if you're using a different weapon type. (Ex: Cerulean Thread dropping while using medium).
 -   His Hair ID is 6101425666.
--   He has heterochromia, meaning both his eyes are different colors). It is unknown if he is born with this or it's somehow gained from his powers.
+-   He has heterochromia, meaning both his eyes are different colors. It is unknown if he is born with this or it's somehow gained from his powers.

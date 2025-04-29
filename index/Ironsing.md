@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 142598
+revid: 142700
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -211,7 +211,7 @@ Metal + Slash + Template:Bleed2
 -   With 6 songchant deals 53.98 (41.53 + 12.45 Template:Bleed2)
 -   Has 9.2x PVE scale (37.32 + 12 PVP, 342.55 + 102.78 in PVE)
 -   Spring Spark has a wind up of 0.55 second and non spark a wind-up of 0.95s (0.65s to enter gain height and enter fall state + 0.4s or more seconds to land(depending on ur fall distance))
--   You have True Hyperamor once you enter Fall state with No Spark Metal kick
+-   Your base Metal kick can't be Interrupted once you enter Fall state, but you still can get hitstun basically you will hit your enemy with metal kick but won't be able to attack after landing metal kick.
 
  |
 | 
