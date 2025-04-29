@@ -1,9 +1,9 @@
 ---
 title: Sordino
-revid: 142034
+revid: 142730
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Stub pages without reason, StubPages, Vendors]
+categories: [Canor NPCs, Stub pages without reason, StubPages, Vendors, NPCs located in the Eastern Luminant, NPCs]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---

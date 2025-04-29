@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 133602
+revid: 142725
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Children of Navae]
@@ -50,3 +50,4 @@ Remnants of the stars themselves rain down upon this rocky spire.
 -   Meteor Isle is a unique piece of land; rumored to be an Oasis of greenery and peace. Meteor Isle is entirely a neutral location due to the equilibrium of Hivekin, Etreans and Navaens.
     -   Although there _are_ mixed relationships between each other, they refrain themselves from violence in Meteor Isle.
 -   You cannot set a spawn point in the Inn as they will tell the player that they are closed.
+    -   Alternatively, if you wish to set your spawn point here you may set a [Guild Base](Guild_Bases.md) or use the [Voideye](Origins.md#voidwalker)

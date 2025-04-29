@@ -1,9 +1,9 @@
 ---
 title: Beloved Zofia
-revid: 137626
+revid: 142731
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations]
+categories: [Pages with broken file links, Locations, Oaths, Etrean Luminant]
 ---
 
 # Beloved Zofia

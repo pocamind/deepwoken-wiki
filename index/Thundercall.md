@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 142714
+revid: 142720
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -813,7 +813,7 @@ Lightning
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of the projectile traveled.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to grapple on peoples instead of pulling them.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to stun the target instead of pulling them towards the user.
-    -   Increases damage dealt by 10%.
+    -   Increases damage dealt.
 
  |
 | 

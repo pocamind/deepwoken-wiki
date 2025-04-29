@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 142648
+revid: 142736
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1039,6 +1039,7 @@ N/A
 -   Knocked players cannot be held while this Mantra is active.
 -   When below Mantra level 5, gradually loses height similar to gliders.
     -   Gradual height loss at level 5 is negligible, but still present.
+-   Does not lose height when used in Layer 1, yet loses height in Overworld and Layer 2.
 
  |
 
