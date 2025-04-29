@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 141318
+revid: 142716
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -48,8 +48,8 @@ At 100 MED and 100 MTL, this weapon deals 30.2 damage while in Club form, and 35
 The user stabs their weapon into the floor, causing a metal eruption of spikes to surround the player. Both the shove and the spike eruption deal stun and damage. If the shove is parried, no autoparry frames will be given for the spike eruption, and the eruption will not be cancelled. This shares similarities with the critical effects of the [Hero Blade of Flame](Hero_Blades.md) and the [First Light](First_Light.md) (excluding the sword rain aspect).
 
 -   Bleed applied on all 3 hits of Deepcrusher's crit, doesn't matter what stance (1H or 2H)
--   Crit doing ONLY slash dmg despite stance.
--   Crit does 20+25 base DMG + 30% BLEED, Has 5 ironsing scale. (To calculate scale use this formula: base damage \* (1 + (scaling/10) \* (investment / 100))
+-   1st hit of Deepcrusher's crit does Ironsing DMG and 2nd part of crit does slash DMG
+-   Crit does 20 + 25 base DMG + 30% BLEED, Has 5 ironsing scale. (To calculate scale use this formula: base damage \* (1 + (scaling/10) \* (investment / 100))
 -   Crit windup values are 0.55s first hit, 0.4s windup to second hit to come out.
 -   Procs artisan's blade at any Deepcrusher attack (Sword version or Club, crit or M1)
 -   Posture dmg of crit depends on stance, does 15 as sword version and 16.5 as club.

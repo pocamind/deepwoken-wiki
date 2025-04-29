@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 140761
+revid: 142717
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics, Murmurs]
@@ -19,7 +19,7 @@ Using Ardour Scream.
 
 ## Overview
 
-Like [Oaths](Oaths.md), players can only obtain one Murmur. (Unless you have the oath [Soulbreaker](Oath%253A_Soulbreaker.md))
+Players can only obtain one Murmur, though gaining the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath, you can wield all three Murmurs.
 
 Currently, there are three known obtainable Murmurs; [Ardour](Murmur%253A_Ardour.md), [Tacet](Murmur%253A_Tacet.md), and [Rhythm](Murmur%253A_Rhythm.md). Should you wish, they can be removed via the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), using a Wish.
 
@@ -29,8 +29,8 @@ Murmurs are strong but hard to master abilities. A weak user will have a harder 
 
 There are currently three Murmurs:
 
--   [Ardour](Murmur%253A_Ardour.md) - A Murmur that increases outgoing posture and increases your own, with a pseudo-mantra that debuffs the enemies defense by 25% and posture by 50%.
--   [Tacet](Murmur%253A_Tacet.md) - A Murmur focused on stealth and concealing oneself, that can lead to unlocking a [mantra](Attunement-less.md) that leaves you out of sight for a powerful dropkick. [Jus Karita](Jus_Karita.md) and 5 strength is needed alongside this to unlock **Tacet Drop Kick**
+-   [Ardour](Murmur%253A_Ardour.md) - A Murmur that increases outgoing posture and increases your own, with a pseudo-Mantra that debuffs the enemies defense by 25% and posture by 50%.
+-   [Tacet](Murmur%253A_Tacet.md) - A Murmur focused on stealth and concealing oneself, that can lead to unlocking a [Mantra](Attunement-less.md) that leaves you out of sight for a powerful dropkick. [Jus Karita](Jus_Karita.md) and 5 strength is needed alongside this to unlock **Tacet Drop Kick**
 -   [Rhythm](Murmur%253A_Rhythm.md) - A support-based Murmur that allows for tracking of others and their health.
 
 ## Trivia
@@ -41,6 +41,5 @@ There are currently three Murmurs:
     -   Ardour means great enthusiasm or passion. In this case it could mean a burning passion for fighting.
 -   Rhythm used to be obtainable by defeating [The Ferryman](The_Ferryman.md) during spring. This was scrapped in Verse 2.
 -   Murmurs were likely introduced to the world of Deepwoken through the being [Mur of Light](Mur_Of_Light.md).
--   Tacet is the only murmur to have a corresponding mantra.
+-   Tacet is the only murmur to have a corresponding Mantra.
 -   Murmur Talent cards can be obtained using the [Mystic](Mystic.md) and selecting "_My soul is an instrument with its own frequency."_
--   As of 1/11/2025 You are able to wield all three murmurs through the oath Soulbreaker

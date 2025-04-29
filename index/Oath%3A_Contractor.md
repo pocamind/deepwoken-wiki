@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 141857
+revid: 142718
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -69,6 +69,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 
 -   **String Trick - Passive**
     -   Pulls together any two opponents you've attached Hidden Tendril to.
+    -   Deals 4.8 Oath DMG twice
 
 -   **Judgement - Combat Mantra**
     -   Summon a black casting circle before enveloping a humanoid target in tendrils and tearing them apart. The target is unable to move or act during the animation.

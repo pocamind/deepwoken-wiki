@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Ring"
-revid: 133132
+revid: 142711
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -30,4 +30,4 @@ categories: [Equipment, Rings]
 
 ## Trivia
 
--   The first and only ring to effect [Murmurs](Murmur%253A_Rhythm.md).
+-   The first and only ring to affect [Murmurs](Murmur%253A_Rhythm.md).

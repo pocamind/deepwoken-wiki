@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 140532
+revid: 142706
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -14,7 +14,7 @@ categories: [NPCs, Mechanics]
 
 “ PUPPET. STATE YOUR PURPOSE. ”
 
-― Shrine of Mastery
+― Shrine of Chance
 
 **If your looking for another shrine return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
 
@@ -22,7 +22,7 @@ categories: [NPCs, Mechanics]
 
 Located in the [Meteor Isle](../Meteor_Isle.md) cave (with the crashed meteor).
 
-When using this shrine, please make sure to **check if you burned the card you're trying to get** or **check if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 5 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
+When using this shrine, please make sure to **check if you burned the card you're trying to get** using the [Shrine of Conceit](Shrine_of_Conceit.md) or **check if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 5 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
 
 ## Effects/Details
 
