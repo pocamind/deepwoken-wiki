@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 142085
+revid: 142793
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -189,7 +189,7 @@ Wind
 
 -   Deals 33.07 (37.27 with 6 songchant) DMG, 13 posture cd, 0.65s windup, 8s CD at 5 lvl
 -   Can be improved with the "**Tempest Wind**" Talent, making it a [Rising Flame](Flamecharm.md#rising-flame)\-like attack that deals 53.82 (59.91 with 6 songchant) DMG, 0.6s windup at 5 lvl
--   Project lasts about 3-5 seconds
+-   Projectile lasts about 3-5 seconds
 -   Modifying with a drift/rush shard will increase projectile speed significantly
 
  |

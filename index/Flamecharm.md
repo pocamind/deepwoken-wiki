@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 142751
+revid: 142790
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -724,7 +724,7 @@ Fire
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
 -   Can be modified with Crystal/Perfect Lenses to increase speed and range.
 -   Can be modified with Glass/Magnifying Stones to make the explosion larger.
--   Can be modified with a Spring Spark to make the user do a jump before shooting. (NEED NEW GIF BELOW THIS WAS BEFORE IT WAS CHANGED)
+-   Can be modified with a Spring Spark to make the user do a jump before shooting.
 
  |
 | 

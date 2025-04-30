@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 139043
+revid: 142788
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -17,7 +17,7 @@ Books are items that are found in the world of Deepwoken and are a separate cate
 Some books are obtained in specific areas only, and cannot be found outside of it. Such books include:
 
 -   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md)
--   The Gideshu March: [Fort Merit](Fort_Merit.md)
+-   The Gideshu March: [Fort Merit](Fort_Merit.md) or rarely on [Merchant Ships](Random_Encounters.md#traveling-merchant)[\[1\]](#cite-note-1)
 -   Operation 'Distant Light' Report: [Fort Merit](Fort_Merit.md)
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
 -   Ossuary Maintenance: [Greathive Aratel](Greathive_Aratel.md)
@@ -1951,11 +1951,12 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 >     -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashet fights a [Crustaceous Rex](Crustaceous_Rex.md).
 >     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
 >     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
->     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period.[\[1\]](#cite-note-1)
+>     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period.[\[2\]](#cite-note-2)
 > -   It is implied that Ryrda from God in the Machine is the same Ryrda in Lament of Cirryn.
 >     -   In both stories, they are [Vesperians](Vesperian.md).
 >     -   In Lament of Cirryn, the main character Ekhusa keeps a shard of Ryrda's mask for good luck, and hopes that she will meet him again.
 > 
 > ## References
 > 
-> 1.  [↑](#cite-ref-1)
+> 1.  [↑](#cite-ref-1) [https://deepwoken.fandom.com/f/p/4400000000000464924](https://deepwoken.fandom.com/f/p/4400000000000464924)
+> 2.  [↑](#cite-ref-2)
