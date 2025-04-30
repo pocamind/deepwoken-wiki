@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 139893
+revid: 142800
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -102,7 +102,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 -   **Shaper Mimicry - Passive**
     -   The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.
         -   Your clones will repeat your basic actions like jumping, M1'ing, blocking, venting, and parrying.
-            -   Although it isn't listed in the Talent description, your clones will also vent when you vent.
+            -   Although it isn't listed in the Talent description, your clones will also vent when you vent. Your clones will still vent even if you don't have enough tempo.
 
 -   **Cheap Trick - Passive**
     -   When hit below 50% health, turn invisible and summon a Shaper Clone, granting I-frames on activation.
