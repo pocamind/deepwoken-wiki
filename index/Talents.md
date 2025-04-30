@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142756
+revid: 142825
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -437,7 +437,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 > _**"I seek the qualities of Blindseer."**_
 
--   _All-Seeing Eye \[Unlockable Talent, Blindseer Exclusive\]: The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted._
+-   _All-Seeing Eye \[Unlockable Talent, Blindseer Exclusive\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted._
     -   Prerequisites: Help 4 Pathfinders in the [Depths Trial](Cathedral_of_the_Interstice.md).
 
 ### Berserker
@@ -1860,7 +1860,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Meditative Trance
 
-> _**" I am often in my own world."**_
+> _**"I am often in my own world."**_
 
 -   _Impervious Slumber_ \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked.
     -   Prerequisite: 35 Fortitude
@@ -2380,21 +2380,20 @@ _**"My cure is most effective."**_
     -   Prerequisite: 35 Ironsing
 
 -   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
-    -   Deals 11.13 Ironsing damage per blade at 80 Ironsing, 12 at 100 Iron.
-    -   Has 6.47x PVE scale (11.5 DMG PVP, 74.50 PVE DMG)
-    -   Scales on Ironsing Investment.
+    -   Has base DMG of 8 and Scaling 5 (Formula to calculate Scaled DMG: "base damage \* (1 + (scaling/10) \* (investment / 100))")
+    -   Has 6.47x PVE scale (10 DMG PVP, 64.70 PVE DMG)
     -   Artisan's blade have windup of 1.2s
-    -   Artisan's Blades do not benefit from Exposed Durability's damage buff or any other defense debuff.
+    -   Artisan's Blades **ARE** **NOT AFFECTED** by DMG mods at **ALL**
     -   Not affected by "Return To The Dark Ages"
-    -   Parrying Artisan's blade gives Auto Parry frames.
-    -   Procs by pulling rods out of someone, amount of Artisan's blade proc depends on pulled amount of rods (2 rods = 1 Artisan's)
+    -   Parrying Artisan's blade gives brief Auto Parry frames.
+    -   Also can proc by pulling rods out of someone, amount of Artisan's blade proc depends on pulled amount of rods (2 rods = 1 Artisan's)
     -   4.5 posture per blade.
     -   Artisan blades last 20 seconds.
     -   "Metal infused" attacks are [Ignition Deepcrusher](Ignition_Deepcrusher.md) M1s and critical attack (in any stance), [Iron Requiem](Iron_Requiem.md) unloaded M1s and critical attacks.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] - Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
-    -   Increases Artisan's Blades damage from 11.13 to 16.7, (18 at 100 iron) additionally Artisan's Blades will apply 1 rod per each hit.
+    -   Increases Artisan's Blades damage by 1.5x, additionally Artisan's Blades will apply 1 rod per each hit.
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   Refine and Reuse \[Common Talent, Ironsing Exclusive\] - Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.

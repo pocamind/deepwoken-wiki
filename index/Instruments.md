@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 141873
+revid: 142806
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Events, Event Only Content, Hallowtide]
@@ -15,7 +15,7 @@ Instruments can be purchased, for each, at:
 -   [Etris](Etris.md) inside the [Antiquarian](Antiquarian.md)'s store.
 -   [Isle of Vigils](Isle_of_Vigils.md) inside the Inn.
 -   [Castle Light](Castle_Light.md) near the campfire.
--   [Miner's Landing](<Miner's_Landing.md>) under a ladder in a room to the left of Parsnip and in the Pub (Why are there 2?).
+-   [Miner's Landing](<Miner's_Landing.md>) under a ladder in a room to the left of Parsnip and in the Pub.
 -   [Greathive Aratel](Greathive_Aratel.md) in the observatory.
 -   [The Varicosa District](Varicosa_District.md) inside one of the buildings in the southeast sector.
 
@@ -23,17 +23,17 @@ If you are near another player, the prompt to play a song now adds Play Along, s
 
 To access songs, you must read the corresponding book. These books can be obtained from either searching through a bookshelf or buying them from a [Merchant Ship](Travelling_Merchant.md). The current books in the game that give you shanties are:
 
--   [The Song of Fathoms / Oscillation](Books.md)
--   [The Gideshu March](Books.md)
--   [A Light In The Sky](Books.md)
+-   [The Song of Fathoms / Oscillation](Books.md#the-song-of-fathoms--oscillation)
+-   [The Gideshu March](Books.md#the-gideshu-march)
+-   [A Light In The Sky](Books.md#a-light-in-the-sky)
 
 **The following songs can be played on the instruments:**
 
--   [_The Gideshu March_](https://www.youtube.com/watch?v=IZgNo7Pv0hA)
--   [_The Song of Fathoms_](https://www.youtube.com/watch?v=I6rD5jW1qv0)
--   [_A Memory of Tides_](https://www.youtube.com/watch?v=Zu9uDHqFcS8)
--   [_Carol of Resonances_](https://www.youtube.com/watch?v=t89tvQBZhWQ)
--   [_A Light in the Sky_](https://www.youtube.com/watch?v=WSxvkVEJ8zs)
+-   [_The Gideshu March_](https://www.youtube.com/watch?v=IZgNo7Pv0hA) YouTube link
+-   [_The Song of Fathoms_](https://www.youtube.com/watch?v=I6rD5jW1qv0) YouTube link
+-   [_A Memory of Tides_](https://www.youtube.com/watch?v=Zu9uDHqFcS8) YouTube link
+-   [_Carol of Resonances_](https://www.youtube.com/watch?v=t89tvQBZhWQ) YouTube link
+-   [_A Light in the Sky_](https://www.youtube.com/watch?v=WSxvkVEJ8zs) YouTube link
 
 ## Instrument Skins
 

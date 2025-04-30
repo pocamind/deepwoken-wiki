@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 141890
+revid: 142802
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -9,8 +9,6 @@ categories: [Bosses]
 # Bosses
 
 _This page is for bosses. For Monster enemies, see [Monsters](Monsters.md). For enemies, see [Enemies](Enemies.md)._
-
-  
 
 ## Overview
 

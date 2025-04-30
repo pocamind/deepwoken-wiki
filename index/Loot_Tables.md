@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 141645
+revid: 142819
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -431,10 +431,10 @@ _One of the first island inside the Eastern Luminant, most people come here for 
   <td><b><a href="Weapons.md">Weapon Drops (template)</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>:</li>
+    <li><b>Legendary Weapons</b>: <a href="Soulthorn.md">Soulthorn</a></li>
     <li><b>Light Weapons</b>:</li>
-    <li><b>Medium Weapons</b>: <a href="Nocturne.md">Nocturne</a>, <a href="Soulthorn.md">Soulthorn</a></li>
-    <li><b>Heavy Weapons</b>:</li>
+    <li><b>Medium Weapons</b>: <a href="Nocturne.md">Nocturne</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Fractine.md">Fractine</a></li>
     <li><b>Offhand Weapons</b>:</li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Ardour"
-revid: 140641
+revid: 142829
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Ardour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -12,7 +12,7 @@ categories: [Murmurs]
 
 Template:ImageCaption Infobox_"An application of the Song that enables one to channel the Murmur into raw strength. Press H."_
 
-**Murmur: Ardour** is one of the 3 [Murmurs](Murmur.md) that, when active gives extra 20% posture damage on outgoing M1 posture damage and reduces incoming posture damage by 15%, guardbreaking with an M1 while is Ardour active grants that attack an extra 15% damage multiplier. Activating the Murmur will release gentle purple particles from your weapon, and will make a quiet hum alongside whispers as long as it is active. It will also add a vibrato to the sound of your weapon's swings. Running out of ether at any point while using Ardour will cancel it.
+**Murmur: Ardour** is one of the 3 [Murmurs](Murmur.md) that, when active, gives extra 20% posture damage on outgoing M1 posture damage, and reduces incoming posture damage by 15%, guardbreaking with an M1 while is Ardour active grants that attack an extra 15% damage multiplier. Activating the Murmur will release gentle purple particles from your weapon, and will make a quiet hum alongside whispers as long as it is active. It will also add a vibrato to the sound of your weapon's swings. Running out of ether at any point while using Ardour will cancel it.
 
 By default, it drains a large amount of [ether](Ether.md) when used; however, at Power 19 the ether cost is low enough for your ether regen to overpower it, but it will still be slow. At Power 20, activation of the Murmur will be free and your ether regen won't be affected.
 
@@ -22,7 +22,7 @@ This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour) and has b
 
 _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release.)"_
 
-**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 1.5x posture damage and 25% more damage and are forced out of Tacet. This ability does not scale on Power, always costing ether. The way it's damage increase works is by increasing whoever hits the target with a +25% damage modifier and as such **cannot** **bypass the 75% damage modifier cap**. [Taunt](Talents.md) and [Tough Love](Talents.md) work the exact same way, and therefore also won't be capable of bypassing it.
+**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 1.5x posture damage and 25% more damage and are forced out of Tacet. This ability does not scale on Power, always costing ether. The way its damage increase works is by increasing whoever hits the target with a +25% damage modifier and as such **cannot** **bypass the 75% damage modifier cap**. [Taunt](Talents.md) and [Tough Love](Talents.md) work the exact same way, and therefore also won't be capable of bypassing it.
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Vesque
-revid: 138590
+revid: 142812
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
@@ -22,43 +22,42 @@ categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
 
 **First Encounter:**
 
-**First Encounter:**
+**Requirements Unmet:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="8">Hm? You don't look like much. I've got things to do. Maybe when you've made a name for yourself, heh... You'll say it was all due to this encounter.</td>
+  <td colspan="12">Hm? You don't look like much. I've got things to do. Maybe when you've made a name for yourself, heh... You'll say it was all due to this encounter.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
 
-**Defeated The Doom of Caeranthil:**
+**Requirements Met:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="8">So you're the talk of the town, huh? All I'm saying is that if it were me... Well. Let's just say I'd do it with a little more expertise. I can demonstrate how <i>I</i> would have killed it, if you want.</td>
+  <td colspan="12">So you're the talk of the town, huh? All I'm saying is that if it were me... Well. Let's just say I'd do it with a little more expertise. I can demonstrate how <i>I</i> would have killed it, if you want.</td>
 </tr>
 <tr>
-  <td colspan="4">If I let you teach me will you leave me alone?</td>
-  <td colspan="4">Don't Vigils usually use blades?</td>
+  <td colspan="6">If I let you teach me will you leave me alone?</td>
+  <td colspan="6">Don't Vigils usually use blades?</td>
 </tr>
 <tr>
-  <td colspan="4">You'll be thankful when you kill those things twice as effectively. Now, the proper way of doing things goes a little like this...</td>
-  <td colspan="4">Tch. Looks like you haven't done your reading. The Blade is the wielder's conviction. Their precision. Their cunning. When you have all of that in spades, well. Then you don't need a weapon. Then you <i>are</i> the weapon.</td>
+  <td colspan="6">You'll be thankful when you kill those things twice as effectively. Now, the proper way of doing things goes a little like this...</td>
+  <td colspan="6">Tch. Looks like you haven't done your reading. The Blade is the wielder's conviction. Their precision. Their cunning. When you have all of that in spades, well. Then you don't need a weapon. Then you <i>are</i> the weapon.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
-  <td colspan="4">End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -68,19 +67,19 @@ categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="8">Your stance could do with some work. Your shoulders and footwork are all off.</td>
+  <td colspan="12">Your stance could do with some work. Your shoulders and footwork are all off.</td>
 </tr>
 <tr>
-  <td colspan="8">Don't Vigils usually use blades?</td>
+  <td colspan="12">Don't Vigils usually use blades?</td>
 </tr>
 <tr>
-  <td colspan="8">[See first instance]</td>
+  <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="8">End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>

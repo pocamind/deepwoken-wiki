@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 141606
+revid: 142805
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]
@@ -18,7 +18,7 @@ Currently, there are 2 types of medals, [**Hallowtide**](Hallowtide.md) medals a
 
 -   Hallowtide: There are currently 3 [Hallowtide](Hallowtide.md) medals.
     1.  Hallowtide '22 Medal: You can purchase this medal for 200 [Joy](Joy.md) during the 2023 and 2024 Hallowtide event.
-    2.  Hallowtide '23 Medal: You can purchase this medal for 200 [Joy](Joy.md) during the 2023 and 2024 Hallowtide event.
+    2.  Hallowtide '23 Medal: You can purchase this medal for 200 [Joy](Joy.md) during the 2024 Hallowtide event and for 300 [Joy](Joy.md) during the 2023 event Hallowtide event.
     3.  Hallowtide '24 Medal: You can purchase this medal for 300 [Joy](Joy.md) during the 2024 Hallowtide event.
 -   Festival of a Billion Souls: Login during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) event.
 
@@ -50,8 +50,8 @@ All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclus
     -   [Spectral Grasp](Spectral_Grasp.md) \[7 Knowledge\]
     -   [Death's Reverie](<Death's_Reverie.md>) \[7 Knowledge\]
     -   [Wretched Mawblades](Wretched_Mawblades.md) \[7 Knowledge\]
-    -   [Galpin's Spectral Instrument Set](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) \[10 Knowledge\]
-    -   [A Light In The Sky](Books.md) \[2 Knowledge\]
+    -   [Galpin's Spectral Instrument Set](Instruments.md#spectral-instruments) \[10 Knowledge\]
+    -   [A Light In The Sky](Books.md#a-light-in-the-sky) \[2 Knowledge\]
     -   [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) \[3 Knowledge\]
     -   [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) \[3 Knowledge\]
 
