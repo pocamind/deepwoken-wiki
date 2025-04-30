@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 140494
+revid: 142763
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -684,6 +684,18 @@ _noun_
 1.  A type of build, usually using the [Jetstriker](Oath%253A_Jetstriker.md) Oath, that specializes in movement speed, either to run away from opponents in PvP or to make traversal across the game faster.
     1.  Ex. "I hate trackstar builds, they're so annoying!!!"
 
+### Vantablack
+
+**adjective**
+
+1.  Where a player's outfit consists of pure black-dyed or otherwise very dark equipment to obscure their body and make their attacks difficult to discern, or to blend in with the black color of their weapon or the VFX of their attacks.
+
+### Vantawhite
+
+**adjective**
+
+1.  Where a player's outfit consists of pure white-dyed or otherwise very bright equipment to obscure their body and make their attacks difficult to discern, or to blend in with the bright color of the VFX of their attacks.
+
 ## Acronyms/Short Forms
 
 ### Attributes
@@ -787,6 +799,12 @@ _noun_
 
 1.  Abbreviation for [Greatsword](Greatswords.md).
 
+### HB
+
+_noun_
+
+1.  Abbreviation for [Hero Blade](Hero_Blades.md) -- one of them -- a weapon belonging to a group of 5 blades that forgo weapon proficiency attributes, each instead scaling completely off of a different elemental attribute.
+
 ### KoS
 
 _noun_
@@ -800,11 +818,17 @@ _noun_
 
 1.  Short form for [Light's Final Toll](<Light's_Final_Toll.md>), a Fist weapon scaling off Willpower
 
+### MA
+
+_noun_
+
+1.  Abbreviation for Monster Armor, an equipment attribute that grants resistance against damage from [monsters](Monsters.md) by the listed amount.
+
 ### MTP
 
 _noun_
 
-1.  Abbreviation for [Million Ton Piercer](https://deepwoken.fandom.com/wiki/Talents#:~:text=Million%20Ton%20Piercer%20%5BAdvanced%20Talent%5D), a Talent that increases PEN by 5% and removes the 50% PEN cap on attacks.
+1.  Abbreviation for [Million Ton Piercer](https://deepwoken.fandom.com/wiki/Talents#:~:text=Million%20Ton%20Piercer%20%5BAdvanced%20Talent%5D), a Talent that increases PEN by 5% and removes the PEN cap on attacks.
 
 ### NLK
 

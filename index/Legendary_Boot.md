@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 142675
+revid: 142745
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -16,7 +16,7 @@ categories: [NPCs]
 
 ## Descrition
 
-The legendary Boot is an NPC with no purpose, other than being a joke.
+The legendary Boot is an NPC that servers as a joke.
 
 ## Location
 

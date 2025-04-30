@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 141969
+revid: 142764
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -8,17 +8,7 @@ categories: [Mechanics, Character, Creation]
 
 # Boons and Flaws
 
-**Boons and Flaws** are unique attributes that players must choose when creating their character.
-
-They are modifiers that effect gameplay in various ways, including vital core mechanics such as ether, hunger, and reputation, for the better, or worse.
-
-Boons are positive and helpful effects. They usually have less of an impact than Flaws, though. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Boons able to be equipped.
-
-Flaws can be rerolled by talking to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and selecting the 2nd option, "**My flaws weigh me down too much, I wish for relief.**". This dialogue only appears once, even if you bargain with [Misérables](Misérables.md) for another wish.
-
-Alternatively, the [Shrine of Blasphemy](Deep_Shrines.md#shrine-of-blasphemy) will reroll a flaw of your choice for 5 [Knowledge](Knowledge.md) given that you are above power 17. This is a much better alternative to wasting a wish with the Shrine of Yun'Shul.
-
-## Boons
+PENIS
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
@@ -31,7 +21,7 @@ _"Foods are much more nutritional."_
 
  | 
 
-Increase Hunger/Thirst gain from food and drinks by 50%.
+Penis?
 
  | 
 

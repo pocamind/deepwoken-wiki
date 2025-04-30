@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 142700
+revid: 142746
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -295,6 +295,7 @@ Metal + Slash + Template:Bleed2
 -   Blast spark with 6 songchant deals 76.16 (29.29 + 8.79 Template:Bleed2 \* 2)
 -   PVE scale broken right now. Deals same dmg as PVP in PVE
 -   Blast spark has 0.55s windup, No Spark version 0.8s windup (0.55s for first shot but seems not doing any DMG)
+-   The Blast Spark variant does not apply hitstun to the target.
 -   Apply Metal Rods on hit.
 -   You cannot use other Mantras or M1 while this is active.
 -   Shares a cooldown with [Metal Turret](Ironsing.md#metal-turret).

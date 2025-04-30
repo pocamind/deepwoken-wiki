@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142635
+revid: 142756
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -241,7 +241,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
     -   Prerequisite: 60 Intelligence
 
--   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
+-   _Potion Quaffer_ \[Rare Talent\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
     -   Drink potions faster. (~0.5 seconds faster)
     -   Increases the strength of regeneration potion ingredients for the user.
     -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
@@ -767,7 +767,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The red trail will show up on non-daggers, but will have no effect.
     -   Prerequisite: Knife's Journey
 
--   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
+-   Successive Throw \[Common Talent\] - \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   If multiple opponents are flourished, then the person who gets targetted by daggers will get targetted by all of them
     -   Prerequisite: 35 Light Weapon
 
@@ -836,39 +836,39 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I feed on the souls of my enemies."**_
 
--   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
+-   Blighted Song \[Common Talent, Shadowcast Exclusive\] - Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
     -   Prerequisite: Shadow Chains, 10 Fortitude
 
--   Dark God \[Common Talent, Shadowcast Exclusive\] If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
+-   Dark God \[Common Talent, Shadowcast Exclusive\] - If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
     -   Prerequisite: 20 Shadowcast
 
--   Dark Replenishment \[Shadowcast Exclusive\] Knocking out an enemy in combat restores a portion of your ether.
+-   Dark Replenishment \[Shadowcast Exclusive\] - Knocking out an enemy in combat restores a portion of your ether.
     -   Prerequisites: 50 Shadowcast, 25 Intelligence, Dark God
 
--   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them.
+-   Dark Synergy \[Shadowcast Exclusive\] - Engulf your enemy in shadows when flourishing them.
     -   Prerequisites: 45 Shadowcast, Dark God
     -   Deals 5 damage on proc. (only on flourish.)
     -   Does not proc any shadow talents except shadow overflow. (might proc sightless still)
     -   Does not steal or halt any ether regen.
 
--   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+-   Shadow Overflow \[Shadowcast Exclusive\] - Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
     -   Has a 4s cooldown.
     -   Deal 5 damage around you in a small aoe from the target you hit.
     -   Prerequisites: 55 Shadowcast, Dark God
 
--   Dark Hours \[Shadowcast Exclusive\] Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
+-   Dark Hours \[Shadowcast Exclusive\] - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
     -   Night cycle is XX:50 to XX:10.
     -   Always active in the depths.
     -   Prerequisite: 35 Shadowcast
 
--   _Dark Rift_ \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+-   _Dark Rift_ \[Rare Talent, Shadowcast Exclusive\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
     -   Blocking, parrying, dodging, or sliding will also cancel the effect.
     -   You cannot use mantras during the effect.
     -   You hover with a dark outline while dark rift is active.
     -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.
     -   Prerequisites: 60 Shadowcast, Dark Hours
 
--   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed.
+-   Overwhelming Drain \[Shadowcast Exclusive\] - If multiple enemies are hit by your Shadow Eruption, they are dazed.
     -   Prerequisite: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)
 
 ### Dawnwalker
@@ -883,7 +883,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am the one who speaks to death."**_
 
--   Blackhole \[Common Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in.
+-   Blackhole \[Common Talent, Shadowcast Exclusive\] - Your singularity pulls everyone nearby in.
     -   Prerequisites: Singularity, 60 Shadowcast, Power 13
     -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2))
 
@@ -1768,7 +1768,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Leaf in the Wind."**_
 
--   _Observation_ \[Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
+-   _Observation_ \[Rare Talent, Agility\] - Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
     -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames
     -   Prerequisite: 20 Agility
     -   Mutual Exclusive: Risky Moves
@@ -2393,7 +2393,7 @@ _**"My cure is most effective."**_
     -   "Metal infused" attacks are [Ignition Deepcrusher](Ignition_Deepcrusher.md) M1s and critical attack (in any stance), [Iron Requiem](Iron_Requiem.md) unloaded M1s and critical attacks.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
--   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
+-   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] - Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
     -   Increases Artisan's Blades damage from 11.13 to 16.7, (18 at 100 iron) additionally Artisan's Blades will apply 1 rod per each hit.
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
@@ -2476,7 +2476,7 @@ _**"My cure is most effective."**_
 -   _Expert Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 2-star Leveled Shadowcaster Mantras._
     -   Obtained at 30 Shadowcast
 
--   _Master Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] -You can now obtain 3-star Leveled Shadowcaster Mantras. (+5 Health)_
+-   _Master Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 3-star Leveled Shadowcaster Mantras. (+5 Health)_
     -   Obtained at 50 Shadowcast
 
 -   Blossoming Darkness \[Common Talent, Shadowcast Exclusive\] - The more Ether you drain during Shadow Roar, the bigger it gets.
@@ -2536,7 +2536,7 @@ _**"My cure is most effective."**_
 
 > _**"The song shall be silenced."**_
 
--   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.
+-   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] - Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.
     -   Landing M1 attacks on suffocated targets apply a new stack of suffocation.
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 

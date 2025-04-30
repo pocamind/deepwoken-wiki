@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 142618
+revid: 142751
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -450,15 +450,11 @@ Fire
 
 **Searing Snare** (★☆☆)
 
-File:SearFLame.gif
-
 _Place a fiery snare at a chosen location. Enemies that stumble into it are scorched._
 
  | 
 
 ## Searing Snare (★☆☆)
-
-File:SearFLame.gif
 
   
 _Place a fiery snare at a chosen location. Enemies that stumble into it are scorched._

@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 142730
+revid: 142758
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Stub pages without reason, StubPages, Vendors, NPCs located in the Eastern Luminant, NPCs]
@@ -36,10 +36,6 @@ Sordino's Marvellous Menagerie
 </tr>
 </tbody>
 </table>
-
-## Dialogue
-
-TBA
 
 ## Trivia
 

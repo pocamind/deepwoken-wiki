@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 142647
+revid: 142755
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -1430,6 +1430,21 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  | 
 
 -   This modifier causes the "Flame Repulsion" mantra to shoot out a projectile exploding into a repulsion of flame dealing knockback.
+
+ |
+| 
+
+[Searing Snare](Flamecharm.md#searing-snare)
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Searing Snare" mantra to ragdoll opponents hit by it.
 
  |
 | 
