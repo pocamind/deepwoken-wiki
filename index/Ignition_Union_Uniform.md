@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 134118
+revid: 142903
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Ignition Union]
@@ -30,6 +30,7 @@ This Outfit's Schematic can be found in:
 -   [Miner's Landing](<Miner's_Landing.md>) at the bank
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chests)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [Brainsucker](Brainsucker.md)
 -   [The Depths](The_Depths.md)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Leather Pauldrons
-revid: 116457
+revid: 142907
 source: https://deepwoken.fandom.com/wiki/Leather_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:Erisia |
+| obtainment | Chests From:, Erisia, Brainsucker |
 | description | "..." |
 
 ## Description

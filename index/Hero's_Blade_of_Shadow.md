@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Shadow"
-revid: 141682
+revid: 142883
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items]
@@ -32,15 +32,7 @@ Meeting the ELM requirement, the damage is (26.2) for all the Hero Blades. At ma
 
 The user quickly lunges forward (the lunge distance scaling with speed bonuses), dealing damage and stealing Ether on hit. If the user has Singularity or Sightless Still, the critical will apply additional effects based on the exclusive Talents.
 
-Crit stats:
-
-30 base DMG with 5 Shadowcast scaling
-
-10 posture
-
-0.55s windup
-
-10 posture
+Crit stats: 30 base DMG with 5 Shadowcast scaling, 10 posture, 0.55s windup
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 142834
+revid: 142893
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -37,7 +37,7 @@ After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Bloo
 
 ## Training
 
-Bloodrend can be trained with a combination of the Tourniquet and Bloodrend Mantras.
+Bloodrend can be trained with a combination of the [Tourniquet](Training_Gear.md#attunement-training-gears) and Bloodrend Mantras.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
@@ -114,11 +114,11 @@ _Release an amalgamation of your blood._
 
  | 
 
-\[missing, add\]
+Blood
 
  | 
 
-\[missing, add\]
+1 Bloodrend
 
  |
 | 
@@ -535,9 +535,11 @@ Blood
 **Effect:** _Activate to initiate charging, the user's character will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. M1 while charging to initiate the punch. Once fully charged, the mantra gains the ability to blockbreak._
 
 -   Can be charged up to 5 times, increasing damage and posture damage
-
-15; 35; 40; 45; 90 base damage (level 1) 20; 40; 45; 50; 95 base damage (level 2) 25; 45; 50; 55; 100 base damage (level 3) 30; 50; 55; 60; 105 base damage (level 4) 35; 55; 60; 65; 110 base damage (level 5)
-
+    -   15; 35; 40; 45; 90 base damage (level 1)
+    -   20; 40; 45; 50; 95 base damage (level 2)
+    -   25; 45; 50; 55; 100 base damage (level 3)
+    -   30; 50; 55; 60; 105 base damage (level 4)
+    -   35; 55; 60; 65; 110 base damage (level 5)
 -   Does 25 posture at 1/2 charges, becomes unblockable past that, 10s CD at 5 lvl
 -   Has 5.13x PVE scaling
 
@@ -615,9 +617,7 @@ Blood
 **Effect:** _Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage for every second passed. Simultaneously, a projectile shaped like a [Bloodtide Trident](Bloodtide_Trident.md) is conjured and ascended for every second of the mantra's duration before finally plummeting at the mantra's duration expiring and dealing massive AoE damage._
 
 -   Initial ticks deal 2 damage and posture damage per hit no matter the level, final hit does increased damage and posture the longer the attack is held
-
-24 > 42/29 > 47/34 > 52/39 > 57/44 > 62 base damage (final hit), 22 > 31 posture (final hit), .425s windup, 34.5s CD
-
+-   24 > 42/29 > 47/34 > 52/39 > 57/44 > 62 base damage (final hit), 22 > 31 posture (final hit), .425s windup, 34.5s CD
 -   Has 7.15x PVE scaling
 -   Takes 7 ticks to full charge or 5.5 seconds
 

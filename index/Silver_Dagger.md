@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 138208
+revid: 142904
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -22,7 +22,7 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Sold at Summer Isle for, Chime of Conflict |
+| obtainment | Erisia, Brainsucker, Sold at Summer Isle for, Chime of Conflict |
 | description | A gleaming dagger with a dusting of silver. Beloved by outlaws who fancy themselves fashionable. |
 
 ## Description

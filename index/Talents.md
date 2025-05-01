@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142863
+revid: 142897
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -789,10 +789,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Slows thirst drain by approximately 3 times.
     -   Prerequisites: 20 Intelligence, 15 Frostdraw
 
--   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire.
-    -   If you were to catch fire while standing on ice, gain total immunity to the burning status effect.
+-   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown
     -   While the effect is active, the user breathes cold air.
-    -   15s cooldown after the burn immunity ends.
     -   Prerequisite: 30 Frostdraw
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your Light Attack's and Critical will now freeze chilled opponents on guardbreak.

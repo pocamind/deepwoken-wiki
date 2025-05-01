@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 142012
+revid: 142910
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -2751,6 +2751,7 @@ Sources:
 Found from:
 
 -   [Fort Merit](Fort_Merit.md)
+-   [Isle of Vigils](Isle_of_Vigils.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
 
  | N/A |
@@ -2852,6 +2853,7 @@ Found from:
 
 -   Given from [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) during the [Tutorial](Tutorial.md)
 -   [Erisia](Erisia.md)
+-   [Brainsucker](Brainsucker.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
@@ -2871,6 +2873,7 @@ _+1 Posture_
 Found from:
 
 -   [Erisia](Erisia.md)
+-   [Brainsucker](Brainsucker.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | N/A |
@@ -4091,6 +4094,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Aratel Island](Aratel_Island.md)
+-   [Brainsucker](Brainsucker.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -4113,6 +4117,7 @@ Found from:
 
 -   [Fishing](Fishing.md)
 -   [Erisia](Erisia.md)
+-   [Brainsucker](Brainsucker.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
@@ -5216,6 +5221,7 @@ _+Talent: Blinded_
 Found from:
 
 -   [Erisia](Erisia.md)
+-   [Brainsucker](Brainsucker.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 

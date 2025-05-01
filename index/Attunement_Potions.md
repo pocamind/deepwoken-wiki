@@ -1,23 +1,22 @@
 ---
 title: Attunement Potions
-revid: 140092
+revid: 142881
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items]
+categories: [Pages with broken file links, Items, Attunement]
 ---
 
 # Attunement Potions
 
 ## Description
 
-Attunement Potions are the only way to obtain and permanently unlock further [Attunements](Attunements.md) in [Character Creation](Character_Creation.md). Upon drinking one, you will take a small amount of elemental damage (changing depending on the Attunement and Path) and be Rag dolled for a moment. When you stand back up, you will acquire 1 attribute point in that Attunement, and will permanently unlock it in Character Creation. Attunement Potions cannot be dropped or thrown.
+Attunement Potions are the only way to obtain and permanently unlock further [Attunements](Attunements.md) in [Character Creation](Character_Creation.md). Upon drinking one, you will take a small amount of elemental damage (changing depending on the Attunement and Path) and be ragdolled for a moment. When you stand back up, you will acquire 1 attribute point in that Attunement, and will permanently unlock it in Character Creation. Attunement Potions cannot be dropped or thrown.
 
-  
-There is currently a bug as of 1/5/25 where if you drink an attunement potion whilst you are picking cards from a power up, a point will be put into the attunement but not taken from you. This is useful to get points back if you are trying to obtain Saintsworn, but doesn't give much.
+There is currently a bug as of 1/5/25 where if you drink an attunement potion whilst you are picking cards from a power up, a point will be put into the attunement but not taken from you. This is useful to get points back if you are trying to obtain [Saintsworn](Oath%253A_Saintsworn.md), but doesn't give much.
 
 ## Obtainment
 
-The only way to acquire an Attunement Potion is to complete a quest given by the relevant [Spelltrainer](Attunement_Trainers.md), this quest usually involves obtaining 5 (2 if you've already done it before) of a specific Elemental Ingredient; with [Ironsing](Ironsing.md) being the only deviation from this.
+The only way to acquire an Attunement Potion is to complete a quest given by the relevant [Attunement Trainer](Attunement_Trainers.md), this quest usually involves obtaining 5 (2 if you've already done it before) of a specific Elemental Ingredient; with [Ironsing](Ironsing.md) being the only deviation from this.
 
 | Name | Image | Req. Elemental Ingredient | Spelltrainer | Attunement Granted |
 | --- | --- | --- | --- | --- |
@@ -30,7 +29,7 @@ File:Glass.png
 
  | 
 
-[Frigid Prisim](Frigid_Prism.md)
+[Frigid Prism](Frigid_Prism.md)
 
  | 
 
@@ -133,7 +132,7 @@ File:Alloyed elixir.png
 
  | 
 
-[Iron, Gold, Erisore, Ithrine, Astruline, Umbrite](Ores.md)
+[Iron, Gold, Erisore, Irithine, Astruline, Umbrite](Ores.md)
 
  | 
 

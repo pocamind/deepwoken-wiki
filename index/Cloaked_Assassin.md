@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 141078
+revid: 142887
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -12,13 +12,13 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Cloaked Assassins are enemies NPCs. They are wearing sleeveless assassin's cloaks and assassin's hoods. They are of different races.
+The Cloaked Assassins are enemy NPCs. They wear a sleeveless version of the [Assassin's Cloak](<Assassin's_Cloak.md>) and an [Assassin's Hood](<Assassin's_Hood.md>). They can be of various races.
 
-Cloaked Assassins are spotted in various [Sea events](Random_Encounters.md#sea-events), either captured an island or ambush in a [Merchant Ship](Travelling_Merchant.md). They can also be found in groups of 3 during factions ambushes, spawning in place of the factions NPCs or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
+Cloaked Assassins are spotted in various [Sea events](Random_Encounters.md#sea-events), having either captured an island or ambushing a [Merchant Ship](Travelling_Merchant.md). They can also be found in groups of 3 during faction ambushes, spawning in place of the faction NPCs or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
 
 ## Moveset
 
-Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian Knife](Krulian_Knife.md), [Champion's Dagger](<Champion's_Dagger.md>) or [Tanto](Tanto.md) along with the [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md), [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md) attunement:
+Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian Knife](Krulian_Knife.md), [Champion's Dagger](<Champion's_Dagger.md>) or [Tanto](Tanto.md) along with the [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md), [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md) Attunements:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -84,7 +84,7 @@ Chain Pull
 
 ### Talents
 
--   Precise Swing - After landing a critical your next light attack will chip past your
+-   Precise Swing - After landing a critical, their next light attack will deal 5% chip damage towards your block.
 -   Pressure Succession
 -   Cheap Shot - Your attacks gain 10% PEN when you have an active speed boost.
 -   Frozen Pin-Cushion - Ice Daggers now freeze opponents.
@@ -119,5 +119,5 @@ A Cloaked Assassin executes it's opponent after knocking them:
 
 ## Trivia
 
--   Cloaked Assassins wear an [Assassin's Cloak](<Assassin's_Cloak.md>). However, their cloak is missing its sleeves.
+-   Cloaked Assassins wear an [Assassin's Cloak](<Assassin's_Cloak.md>). However, their cloak is missing its sleeves. It is unknown why this is.
 -   When spawning as a Faction Ambush, they can lose sight of their target and stop chasing them, saying ''Rats, we lost them.''

@@ -1,6 +1,6 @@
 ---
 title: Leather Boots
-revid: 117597
+revid: 142906
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fishing, Erisia, Primadon |
+| obtainment | Chests from:, Fishing, Erisia, Brainsucker, Primadon |
 | description | "A pair of worn leather boots. And they're your size!" |
 
 ## Description

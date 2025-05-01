@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 142831
+revid: 142891
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -853,7 +853,7 @@ _noun_
 
 _noun_
 
-1.  Short form for Reinforced Armor, a Talent that reduces all incoming PEN by 30%.
+1.  Short form for [Reinforced Armor](https://deepwoken.fandom.com/wiki/Talents#:~:text=Reinforced%20Armor), a Talent that reduces all incoming PEN by 30%.
     1.  Ex. "If you take RA preshrine I'm going to wipe you"
 
 ### Run a 1/Run \[the\] 1's
@@ -880,6 +880,12 @@ _noun_
 _noun_
 
 1.  Short form for [Trial of One](Trial_of_One.md).
+
+### WWS/AWWS
+
+_noun_
+
+1.  Abbreviation for [A World Without Song](https://deepwoken.fandom.com/wiki/Talents#:~:text=A%20World%20Without%20Song), a [Galebreathe](Galebreathe.md) Talent that causes every 3 hits with a Galebreathe Mantra to apply [Suffocate](Status_Effects.md#suffocate).
 
 ## For Editors
 

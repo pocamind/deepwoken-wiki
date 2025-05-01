@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 142736
+revid: 142898
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1312,7 +1312,7 @@ Cool Head
 
  | 
 
-If set on fire while on ice, immediately put it out and enter a state of chill for 30 seconds. During this state you cannot be lit on fire. 15 second cooldown.
+If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown
 
  | 
 

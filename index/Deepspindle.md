@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 138079
+revid: 142895
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -60,7 +60,7 @@ The running critical will put the player in the [Dark Rift](Talents.md) state af
 
 -   This item _can_ be dropped.
 -   Ironically, this weapon is longer than the [Crypt Blade](Crypt_Blade.md).
--   Doing hell mode increases the spawn rate of finding Silhuette.
+-   Doing hell mode increases the spawn rate of finding Silhuett.
 -   Meeting the requirement of LHT and SDW, the damage is (23.19)
 -   At max LHT and SDW, the damage is (27.65)
 -   The running critical damage can be negated by the Unique equipment Talent "Already Dead", available by equipping the Deepscorn Casque.
