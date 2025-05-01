@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 142853
+revid: 142864
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1253,7 +1253,7 @@ Blunt
 -   Inflicts Charm for 7.5s on hit.
     -   Because of this, it will instantly proc Narcissist's Overcharm if you have the Talent.
 -   Is unventable.
--   Shares a cooldown with all [grab mantras](List_of_Grab_Mantras.md) and [Iron Hug](Ironsing.md#iron-hug).
+-   Shares a cooldown with all other [grab mantras](List_of_Grab_Mantras.md).
 -   Does **not** apply insanity.
 -   Landing the grab multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
     -   Dread Whisper must be landed again within 15s of landing the previous one to gain the damage buff.
@@ -1417,13 +1417,15 @@ Slash
  |
 | 
 
-**Effect:** _User turns invisible and then reveals themselves, performing a moderate amount of slashes._
+**Effect:** _User turns invisible and then reveals themselves, performing a flurry of slashes._
 
 -   Constantly consumes Ether while invisible.
 -   M1 during this Mantra to perform the slashes. Performing slashes consumes Ether.
+-   You can right click to cancel the Mantra.
+-   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra.
 -   The slashes lock onto the closest target within Ceaseless' range.
--   If you go too long without doing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
--   Can be somewhat used as a mobility Mantra due to it's compatibility with Rush and Drift Shards.
+-   If you go too long without landing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
+-   Can be modified with Drift/Rush Shards and Crystal/Perfect Lenses, effects unknown.
 
  |
 | 

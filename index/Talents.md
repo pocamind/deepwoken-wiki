@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142825
+revid: 142863
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1728,10 +1728,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the path of the Serpent."**_
 
 -   Eruption Path: Lava Serpent \[Common Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet.
-    -   Instead of setting your target on fire, create an eruption on hit. Eruption damage scales with your Flamecharm investment, dealing a maximum of 20 damage at 100 Flamecharm. (3s cooldown)
+    -   Instead of setting your target on fire, create an eruption on hit. Eruption damage scales with your Flamecharm investment (3s CD)
     -   Despite what the talent description says, you can still proc burn with Eruption Path.
         -   Burn can still be applied via: Agitating Spark, Flame Within (Self), Flash Point, Immolation, and hitting flammable terrain with Flamecharm Mantras.
         -   Because of there being so few sources of burn application with Eruption path, using Talents that require burn, especially Emperor Flame, with this path is not recommended. Those Talents all still function normally though of course.
+        -   Eruptions have 15 base DMG and 5 Scaling. Formula to calculate scaled DMG: "15 \* (1 + (5/10) \* (Flamecharm invest/ 100))"
     -   Prerequisite: 40 Flamecharm
     -   Mutual Exclusive: The Final Act, Wraith Path: Twisted Puppets
 

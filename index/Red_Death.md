@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 142640
+revid: 142857
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Weapons with Unique Criticals, Items]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Spear |
 | requirements | 45 MED, 35 BLD, 55 SDW, 25 MND, LVL 8 |
-| damage | 16.5 |
+| damage | 16.5+4.9 BLD |
 | scaling | 2 MED, 2 BLD, 2 SDW, 2 MND |
 | range | 9.5 |
 | swing speed | 0.92x |
