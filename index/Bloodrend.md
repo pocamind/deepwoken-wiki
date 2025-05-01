@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 142236
+revid: 142834
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -114,21 +114,20 @@ _Release an amalgamation of your blood._
 
  | 
 
-Blood
+\[missing, add\]
 
  | 
 
-1 Bloodrend
+\[missing, add\]
 
  |
 | 
 
 **Effect:** _Launch an orb-shaped projectile of blood to wherever the character is facing._
 
--   Deals 38.27 DMG, 8.7 posture, Has 10s CD
--   Multi spark version deals 48.36 (16.12\*3) total DMG, 2.16 posture per orb (6.5 posture total), 10s CD
--   With 6 songchant one blood orb version deals 45.43, with Multi spark deals 51.24 (17.08\*3)
--   Has 9.31x PVE scale (38.27 DMG PVP, 356.2 PVE DMG)
+-   Deals 14.5/19/23.5/28/32.5 base damage per level, 8 posture, 0.6 windup, Has 10s CD
+-   Multi spark version deals 6.83/8.33/9.83/11.33/12.83 base damage per level, per orb, 2 posture per orb, 0.6s windup 10s CD
+-   Has 9.31x PVE scaling
 -   Leaves behind a Blood Pool.
 -   Can be modified with a Multiplying Spark, making it launch 3 orbs instead.
     -   Damage per orb gets reduced, however, hitting all 3 orbs ends up dealing more damage than the non-spark version.
@@ -165,8 +164,8 @@ Blood
 
 **Effect:** _Launch a crucifix-shaped projectile at the cursor's position._
 
--   Deals 47.84 (53.25 with 6 songchant) DMG, 14.1 posture, Has 10s CD at 5 lvl
--   has 9.18x PVE scale (47.84 PVP, 439.17 PVE DMG)
+-   Deals 16/22/28/34/40 base damage per level, 13 posture, 0.7s windup Has 10s CD at 5 lvl
+-   has 9.18x PVE scaling
 -   Ragdolls.
 -   It doesn't work well outside of Shift-Lock currently.
 
@@ -202,10 +201,9 @@ Blood
 
 **Effect:** _Perform a quick gesture before conjuring and sending a cyclone of blood that goes through enemies and towards wherever the character is facing before dissipating when hitting an object or exceeding its range._
 
--   Deals 155.5 (15.55\*10) DMG, 1 posture per hit, 17.5s CD
--   With 6 songchant 173.1 (17.31\*10) DMG
--   Has 3.5x PVE Scale (155.5 PVP DMG, 545.7 PVE DMG)
--   Can be modified with a Multiplying Spark, conjuring 2 more projectiles adjacent of the initial. (Reducing DMG from 15.5 per hit to 6.22, with 6 songchant 17.31 to 6.94)
+-   Deals 7/8.5/10/11.5/13 base damage per level, hits 10 times, 1 posture per hit, 17.5s CD, 0.5s windup.
+-   Has 3.5x PVE Scaling
+-   Can be modified with a Multiplying Spark, conjuring 2 more projectiles adjacent of the initial. (Reducing damage per hit to 2.8/3.4/4/4.6/5.2 per level, hits 10 times, 0.33 posture per hit, 0.5s windup.
 -   Can be modified with a Reversal Spark, making the projectile travel half of the distance of the original before returning to the user.
     -   Both sparks can be paired together.
 
@@ -241,8 +239,8 @@ Blood
 
 **Effect:** _Quickly conjure up a scythe similar to that of a [Skyreap Blade](Skyreap_Blade.md) in a blood red color and rush forward, hitting any target(s) in its way._
 
--   Deals 38.27 (42.6 with 6 songchant) DMG, 15 posture, has 10s CD at 5 lvl
--   Has 9.18x PVE scale (38.27 PVP, 351.34 PVE DMG)
+-   Deals 16/20/24/28/32 damage per level, 15 posture, 0.4s windup, has 10s CD at 5 lvl,
+-   Has 9.18x PVE scaling
 -   Auto-grips.
 
  |
@@ -277,12 +275,10 @@ Blood
 
 **Effect:** _Conjure a stake of blood near the character that locks onto an enemy and impales them; stakes can also form from nearby blood pools conjured from the user._
 
--   Deals 53.8 (10.76\*5) DMG, 2.2 per hit, 11 posture total, Has 14s CD
--   With 6 songchant 59.9 (11.98\*5) DMG
--   Has 2.7x PVE scale (53.8 DMG PVP, 145.3 PVE)
+-   Deals 5/6/7/8/9 base damage per level, per stake, 2 posture per stake at level 5, 1.15s windup, Has 14s CD
+-   Has 2.7x PVE scaling
 -   Leaves behind a Blood Pool.
 -   Every level adds a blood stake (6 at max lv)
--   lv 5 does around 30 posture
 -   Posture DMG and DMG scales with blood pools
 
  |
@@ -317,13 +313,13 @@ Blood + Bleed
 
 **Effect:** _Jump up into the air before slamming down, dealing AoE damage and applying knockdown._
 
--   Deals 73.06 (56.2 slam + 16.86 Bleed), total DMG 73.06, 15.3 posture, Has 10s CD
--   With 6 songchant 88.5 (68.07 slam + 20.43 Bleed) DMG
--   Has 9.18x PVE scale (56.2 + 16.86 DMG PVP, 515.91 + 154.77 PVE DMG)
+-   Deals 18.5/26/33.5/41/48.5 damage per level (slam) + 30% (Bleed), 14 posture, 0.75s windup Has 10s CD
+-   Has 9.18x PVE scaling
 -   Leaves behind a Blood Pool.
 -   Applies knockdown to the enemy on hit.
 -   This attack apparently has 2 hits.
 -   Feinting this mantra leaves you in the air, but does not restore its cooldown.
+-   Only has 2 scaling
 
  |
 | 
@@ -358,10 +354,10 @@ Blood
 **Effect:** _Perform a quick gesture before throwing 3 blood daggers. The daggers remain stationary on its impact location. Activating the mantra again will cause the daggers to fly towards and hit the nearest target._
 
 -   At mantra level 5, the quantity of daggers thrown out is increased from 3 > 6.
--   Deals 55.62 (9.27\*6) at throw + 55.62 (9.27\*6) at recall, total DMG 111.24, 2.175 posture per dagger, 15s CD at 5 lvl.
--   With 6 songchant 64.98 (10.83\*6) + 64.98 at recall DMG, 129.96 DMG total.
+-   Deals 4.75/5.5/6.25/7/7.75 per hit, per dagger, 4 posture per dagger, 0.6s windup (0.5s recall windup) 15s CD at level 5.
+-   Recalled daggers deal the same damage and posture damage.
 -   Has 1 second cooldown before you able to recall daggers
--   Has 4.38x PVE Scale (111.24 PVP, 488.1 PVE)
+-   Has 4.38x PVE Scaling
 
  |
 | 
@@ -395,8 +391,7 @@ Blood
 
 **Effect:** _Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground._
 
--   Deals 57.42 (19.14\*3), 16.2 (5.4+5.4+5.4) posture, 10.5s CD
--   With 6 songchant 63.9 (21.3\*3) DMG
+-   Deals 8/10/12/14/16 damage per level, per slash, 5 posture per slash, 0.6s windup, 10.5s CD
 -   Has 9.178x PVE scale (57.42 PVP DMG, 527.01 PVE DMG)
 
  |
@@ -431,9 +426,8 @@ Blood
 
 **Effect:** _Quickly conjure blades from the arms of the character before dashing forward, launching the target(s) upwards and initiating an attack. If landed successfully, fly back in the opposite direction before initiating a follow-up attack._
 
--   Deals 62.65 (41.86 1st hit + 20.79 2nd hit) DMG, 11 posture, has 10s CD at 5 lvl
--   With 6 songchant 69.89 (46.59+23.3) DMG
--   Has 9.18x PVE scale (41.86 + 20.79 PVP DMG, 384.27 + 191.6 PVE DMG)
+-   Deals 15+7.5/20+10/25+12.5/30+15/35+17.5 damage per level, 1 posture, 0.5s windup has 10s CD at 5 lvl
+-   Has 9.18x PVE scaling
 -   If first hit is blocked then entire move is stopped and goes on CD.
 
  |
@@ -469,9 +463,9 @@ Blood
 **Effect:** _Jump into the air before blasting a continuous beam of blood at a nearby target._
 
 -   Beam locks onto target for the entire duration of the mantra.
--   Deals 53.85 (3.59\*15), 18.6 posture total, Has 13s CD at 5 lvl
--   With 6 songchant 59.85 (3.99\*15) DMG
--   Has 2.69x PVE scale (53.85 PVP DMG, 144.8565 PVE DMG)
+-   Hits 17 times
+-   Deals 1/1.5/2/2.5/3 damage per level, per hit, 1 posture per hit, 1.1s windup Has 13s CD at level 5
+-   Has 2.69x PVE scaling
 
  |
 | 
@@ -505,9 +499,8 @@ Blood
 
 **Effect:** _Dash forward with a blood-infused fist before lifting any and all target(s) in its way whilst causing the target(s) to implode with blood._
 
--   Deals 31.38 (10.46\*3) at start + 21.98 at end of attack, total DMG 53.36, 9 posture, has 10s CD at 5 lvl
--   With 6 songchant 58.64 (11.65\*3+23.69) DMG
--   Has 6.12x PVE scale on grab, 13.11x PVE scale on blood drain (31.38 + 21.98 PVP, 192.14 + 288.21)
+-   Deals 3 \* 3.75/5/6.25/7.5/8.75 + 7.5/10/12.5/15/17.5 (last hit), 11 posture, 0.5s windup has 10s CD at 5 lvl
+-   Has 6.12x PVE scaling on grab, 13.11x PVE scaling on blood drain
 
  |
 | 
@@ -541,12 +534,12 @@ Blood
 
 **Effect:** _Activate to initiate charging, the user's character will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. M1 while charging to initiate the punch. Once fully charged, the mantra gains the ability to blockbreak._
 
--   Damage and posture scales based on the duration charged.
--   Deals 41.86 DMG (non charged) 25 posture, 131.56 (Full charged), 10s CD at 5 lvl
--   With 6 songchant 46.59 (non charged), 146.44 (full charged)
--   Has 5.13x PVE scale (131.56 DMG PVP, 674.9 PVE DMG)
--   Quite buggy at full charged DMG at max stacks varies from 71.76 or 131.56
--   Becomes **unparryable** and **unblockable** at about the 3rd Flash
+-   Can be charged up to 5 times, increasing damage and posture damage
+
+15; 35; 40; 45; 90 base damage (level 1) 20; 40; 45; 50; 95 base damage (level 2) 25; 45; 50; 55; 100 base damage (level 3) 30; 50; 55; 60; 105 base damage (level 4) 35; 55; 60; 65; 110 base damage (level 5)
+
+-   Does 25 posture at 1/2 charges, becomes unblockable past that, 10s CD at 5 lvl
+-   Has 5.13x PVE scaling
 
  |
 | 
@@ -580,10 +573,11 @@ Blood
 
 **Effect:** _Perform a gesture that causes a nearby target to explode continuously with blood._
 
--   Deals 70.32 (29.3 (grab) + 41.02 (5.86\*7) blood drain), 13.2 Posture, Has 15.5s CD
+-   Deals 14.5/17/19.5/22/24.5) base damage per level (initial hit) each tick after that does 20% of the first hit, 12 Posture, 1s windup, 15.5s CD
 -   With 6 songchant 78.26 (32.62+45.64 (6.52\*7) DMG
--   1 Vibrant gives extra 5.86 DMG (extra 1 tick of dmg), 2 Vibrants 23.44 DMG (extra 4 ticks), 3 Vibrants 35.16 DMG (extra 6 ticks)
--   Has 9.18x PVE scale (29.3 + 41.02 PVP, 268.99 + 376.6 PVE DMG)
+-   Each level gives an extra 1 hit
+-   1 Vibrant gem gives 2 extra hits
+-   Has 9.18x PVE scaling
 -   Switches targets when it cannot hit the previous one.
 -   Can be modified with Vibrant Gems to increase amount of hits leading to extra DMG.
 -   Can be modified with a Multiplying Spark, triggering in 2 bursts and stunning the target for a bit longer.
@@ -620,9 +614,11 @@ Blood
 
 **Effect:** _Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage for every second passed. Simultaneously, a projectile shaped like a [Bloodtide Trident](Bloodtide_Trident.md) is conjured and ascended for every second of the mantra's duration before finally plummeting at the mantra's duration expiring and dealing massive AoE damage._
 
--   Deals 52.59 DMG (uncharged) 24 posture, 73.94 DMG (Full Charged), 2.39 per hit AOE 2.1 posture, 34.5s CD at 5 lvl
--   With 6 songchant 58.54 (uncharged), 82.3 (full charged), 2.66 per AOE hit.
--   Has 7.15x PVE scale (52.59 DMG PVP, 376.31 PVE)
+-   Initial ticks deal 2 damage and posture damage per hit no matter the level, final hit does increased damage and posture the longer the attack is held
+
+24 > 42/29 > 47/34 > 52/39 > 57/44 > 62 base damage (final hit), 22 > 31 posture (final hit), .425s windup, 34.5s CD
+
+-   Has 7.15x PVE scaling
 -   Takes 7 ticks to full charge or 5.5 seconds
 
  |
@@ -690,8 +686,8 @@ Blood
 
 **Effect:** _Quickly dive into a pool of blood and gain the ability move around while being invulnerable before resurfacing whilst dealing damage._
 
--   Deals 47.84 (53.25 with 6 songchant) DMG, 16.5 posture, has 14s CD at 5 lvl
--   Has 9.18x PVE scale (47.84 PVP, 439.17 PVE DMG)
+-   Deals 24/28/32/36/40 base damage per level, 15 posture, 0.65s windup(dive), 0.25s windup(rise) has 14s CD at level 5
+-   Has 9.18x PVE scaling
 -   Leaves behind a Blood Pool
 -   Shares a cooldown with similar Mantras [Beast Burrow](Monster_Mantras.md#beast-burrow) and [Shade Step](Shadowcast.md#shade-step)
 -   While this mantra is active, you can **reload** your gun (1H) inside of it
@@ -731,9 +727,9 @@ Blood
 **Effect:** _Conjure out tendrils of blood with both arms to grab onto a target before launching the user towards them, kicking them whilst dealing damage._
 
 -   Leveling up this mantra will increase its range.
--   Deals 51.08 (14 + 37.08) DMG, 13.2 posture, 13.5s CD
--   With 6 songchant 55.27 (14+41.27) DMG
--   Grab has 6.48x PVE scale, dropkick 9.18x PVE scale. (14 + 37.08 DMG PVP, 90.72 + 340.36 PVE DMG)
+-   First hit always does 10 base damage with 5 bloodrend scaling
+-   Deals 15/19/23/27/31 base damage per level (final hit), 12 posture, 1s windup 13.5s CD
+-   Grab has 6.48x PVE scaling, dropkick 9.18x PVE scaling.
 
  |
 

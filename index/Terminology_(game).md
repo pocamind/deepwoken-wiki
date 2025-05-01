@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 142763
+revid: 142831
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -732,6 +732,12 @@ _noun_
 _noun_
 
 1.  Short for One-Handed and Two-Handed [weapon stances](Weapons.md#stances) respectively.
+
+### ATDG
+
+_noun_
+
+1.  Abbreviation for [All the Dead Gods](https://deepwoken.fandom.com/wiki/Talents#:~:text=All%20the%20Dead%20Gods), a Talent that causes your M1s to apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds, which disables almost all forms of healing.
 
 ### Attless
 

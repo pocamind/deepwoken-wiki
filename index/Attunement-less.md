@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 142735
+revid: 142853
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1404,7 +1404,7 @@ _Click to reveal yourself and deliver a rapid flurry of slashes that can chain t
  |
 | 
 
-\[missing, add\]
+50 Ether
 
  | 
 
