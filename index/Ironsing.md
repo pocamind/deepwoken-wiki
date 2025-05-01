@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 142746
+revid: 142865
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -498,7 +498,7 @@ Metal + Slash + Template:Bleed2
 -   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
 -   With the '**Metal Absorption'** Talent, Iron Hug will absorb the opponents' armor.
 -   The '**Matador'** Talent procs against Iron Hug's hyperarmor.
--   Shares a cooldown with [Dread Whisper](Attunement-less.md#dread-whisper).
+-   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 
  |
 | 

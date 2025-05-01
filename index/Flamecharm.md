@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 142790
+revid: 142871
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -277,7 +277,7 @@ Fire
 -   Has 9.18x PVE scale (53.82 PVP, 494.07 PVE)
 -   Inflicts Burn.
 -   Has a 0.5 second windup.
--   Shares a cooldown with all other [grab mantras](List_of_Grab_Mantras.md).
+-   Shares a cooldown with all of [these mantras](List_of_Grab_Mantras.md).
 -   Travels for 0.6 seconds.
 -   Crystal/Perfect Lens increase the duration, capping at 1.2s with a +3 range modifier.
 
