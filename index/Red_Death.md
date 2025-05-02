@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 142857
+revid: 142921
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Weapons with Unique Criticals, Items]
@@ -42,6 +42,7 @@ Hold your spear upwards, glowing with an inner black and red outline for a few s
 
 -   The weapon's design was based on a fence post. [\[1\]](#cite-note-1)
 -   The name is based on the 'Red Death' from the 'Destiny' franchise. [\[2\]](#cite-note-2)
+-   The symbol underneath the blade has a similar shape to the Etrean symbol.
 
 ## References
 

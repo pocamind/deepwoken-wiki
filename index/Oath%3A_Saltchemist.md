@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 142874
+revid: 142924
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -102,7 +102,7 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 
 ## Location
 
-The tower is located next to the Ferryman's ritual.
+[Adrofalis's](Adrofalis.md) lab is located inside the broken tower next to ferryman's arena, it is hidden by a fake wall
 
 ## Trivia
 

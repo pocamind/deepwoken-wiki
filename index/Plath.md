@@ -1,9 +1,9 @@
 ---
 title: Plath
-revid: 137942
+revid: 142930
 source: https://deepwoken.fandom.com/wiki/Plath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Plath

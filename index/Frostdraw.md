@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 142898
+revid: 142919
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1619,11 +1619,11 @@ Frost Buster
 
  | 
 
-Greatsword and Greathammer criticals now place Ice underneath the path they carve.
+Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
 
  | 
 
-Also works with Greataxes. Does not work with [Pale Briar](Pale_Briar.md)
+This procs on all heavies with the base weapon critical, all weapons with the [Crescent Cleaver](Crescent_Cleaver.md) critical, **but only if you land it**, and the Enforcer weapon trio ([Enforcer's Axe](<Enforcer's_Axe.md>), [Enforcer's Blade](<Enforcer's_Blade.md>), [Enforcer's Hammer](<Enforcer's_Hammer.md>)).
 
  |
 | 

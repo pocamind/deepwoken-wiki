@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 142785
+revid: 142916
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals]
@@ -44,4 +44,4 @@ Has a unique critical attack consisting of three one-handed heavy slashes, each 
     -   However, do note that the strategy above will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.)
 -   Possibly a reference to the [Flamberge](https://darksouls.wiki.fextralife.com/Flamberge) from Dark Souls.
     -   The Flamberge is also a [real weapon](https://en.wikipedia.org/wiki/Flamberge).
--   Also could be a refernce to Iguro Obanai's nichirin blade from [Demon Slayer](https://kimetsu-no-yaiba.fandom.com/wiki/Kimetsu_no_Yaiba_Wiki).
+-   Also could be a refernce to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) [nichirin blade](https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Sword) from [Demon Slayer](https://kimetsu-no-yaiba.fandom.com/wiki/Kimetsu_no_Yaiba_Wiki).

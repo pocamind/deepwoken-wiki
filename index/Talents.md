@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142897
+revid: 142918
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1445,10 +1445,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Ice Mantras cost 40% less ether if casted while standing on ice.
     -   Prerequisite: 40 Frostdraw
 
--   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice.
+-   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
-    -   Even though it's not mentioned, Greataxes also work with this Talent.
-    -   Does not work with crits that don't slam the floor, like Railblade.
+    -   Even though it's not mentioned, some Greataxes also work with this Talent.
+    -   Frost Buster works on the following weapons (this list is not fully complete):
+        -   Any weapon with the basic heavy weapon critical (including greataxes, despite what the description states).
+        -   [Crescent Cleaver](Crescent_Cleaver.md) and all weapons that share its critical, but **only if you land it**.
+        -   The Enforcer weapon trio ([Enforcer's Blade](<Enforcer's_Blade.md>), [Enforcer's Hammer](<Enforcer's_Hammer.md>), [Enforcer's Axe](<Enforcer's_Axe.md>)).
     -   Prerequisites: Cryonis, 15 Heavy Weapon, 45 Frostdraw
 
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill.
