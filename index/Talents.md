@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142944
+revid: 142962
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -623,17 +623,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I have never lost."**_
 
--   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
+-   _Champion's Regalia_ \[Legendary Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold shaded outline on your character.
     -   Does not work on non-humanoid NPCs.
     -   Only works on m1's.
     -   Works only if you successfully hit someone with flourish. Doesn't work on parry, block, dodge hits.
-    -   Prerequisite: 25 Strength
+    -   Prerequisite: 50 Strength
 
 -   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 70 Willpower
     -   Currently, the only things Defiance cuts in half are:
-        -   Flamecharm's burn damage
+        -   Flamecharm's burn damage x5
         -   Frostdraw's chill duration
         -   Galebreathe's winded duration
         -   Galebreathe's suffocation duration
@@ -1610,7 +1610,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 100 Ironsing
 
 -   Heavy Shoulders \[Common Talent, Ironsing Exclusive\] - If your opponent has 3 or more rods, their dodges are slower.
-    -   Reduces roll distance by ~30%.
+    -   Reduces roll distance by 10%.
     -   Prerequisite: 55 Ironsing
 
 -   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.

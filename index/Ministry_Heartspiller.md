@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 142935
+revid: 142959
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies]
@@ -12,9 +12,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Ministry Heartbleeders are [Ministry](The_Ministry.md) agents under the Second Prophet, gathering information through ruthless interrogation. They wield [Bloodrend](Bloodrend.md) and [Shadowcast](Shadowcast.md) in order to torture and then erase their victims. They can be found spawning at [Minityrsa](Minityrsa.md) or within [The Depths](First_Layer.md). They can be found interrogating a pathfinder hostage.
+Ministry Heartbleeders are [Ministry](The_Ministry.md) agents under the Second Prophet that specialise in information gathering via torture. They wield [Bloodrend](Bloodrend.md) and [Shadowcast](Shadowcast.md) in order to torture and then erase their victims. They can be found spawning at [Minityrsa](Minityrsa.md) or within [The Depths](First_Layer.md). They can be found interrogating a pathfinder hostage.
 
-Ministry Heartbleeders don a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), a [Crimson Blindfold](Blindfold.md), a [Prophet's Cloak](<Prophet's_Cloak.md>), and a dark red [Ministry Cloak](Ministry_Cloak.md) with three medals on attached to the left breast. The 3 medals on their chest signify their rank as a Heartbleeder.[\[1\]](#cite-note-1)
+Ministry Heartbleeders wear a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), a [Crimson Blindfold](Blindfold.md), a [Prophet's Cloak](<Prophet's_Cloak.md>), and a dark red [Ministry Cloak](Ministry_Cloak.md) with three medals on attached to the left breast. The 3 medals on their chest signify their rank as a Heartbleeder, with the one we fight likely being a high rank.[\[1\]](#cite-note-1)
 
 As stated by Arch Mage, you don't have to meet any requirements for the NPC to spawn.[\[2\]](#cite-note-2)
 
