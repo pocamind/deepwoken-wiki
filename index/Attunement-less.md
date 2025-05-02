@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 142864
+revid: 142964
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1054,6 +1054,7 @@ N/A
 
 -   May still combat tag opponents who are not facing you.
 -   This move causes humanoid NPCs to block less.
+-   Parry window is at the end of the first flash
 -   Shares a cooldown with [Sing](Attunement-less.md#sing).
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142962
+revid: 142981
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -391,6 +391,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   **Only** Thundercall Mantras build up stacks for this. Thunder damage from any other source will not build up stacks.
     -   Each stack lasts for 5 seconds. If another stack is not applied within that timeframe, the stack is reset, and you'll need 5 more stacks to activate this Talent.
     -   Electrified, when procced, lasts for 4 seconds.
+    -   The visual effect for this talent is currently bugged, and isn't visible.
     -   Prerequisite: 65 Thundercall
 
 -   First Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
@@ -528,7 +529,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 40 Bloodrend, 40 Frostdraw
 
 -   Electrolyte \[Common Talent, Dual Attunement\] - Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.
-    -   The electrify has a very short duration to the point where it will sometimes be cleared by the time your opponent gets out of hitstun.
+    -   Does not proc electrified, procs shock instead.
     -   With surge path, apply a surge rod on proc instead of the electrify effect.
     -   Takes about 3% temporary health per proc.
     -   Prerequisite: 40 Bloodrend, 40 Thundercall

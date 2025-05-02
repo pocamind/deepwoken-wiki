@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 139112
+revid: 142978
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -160,3 +160,4 @@ Charisma
 -   The leech command will always drain the subject of all their ether, no matter if the master has 40%, 50%, 60% or even 99% ether.
 
 -   _If a Vow Master (A) has a Vow on another Vow Master (B), (A) can use their commands on (B)'s Subjects (granted that both are in the same server)._
+-   Locate command highlights the whole player model, including a thresher if they mounting it.
