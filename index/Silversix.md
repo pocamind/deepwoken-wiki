@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 130172
+revid: 142940
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Offhand Guns]
@@ -37,6 +37,7 @@ The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on A
 -   Known for being used by 20 power players for ranged bullet shots before Silversix lost its ability to fire projectiles as a sidearm.
 -   At max LHT, the damage is (19.8)
 -   Despite being called Silver**six**, the gun can only hold 2 bullets at a time.
+-   The Silversix has the longest range of any starting weapon, beating out even the Irontusk's 9 range.
 
 ## Gallery
 

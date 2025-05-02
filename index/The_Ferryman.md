@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 141869
+revid: 142939
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -191,8 +191,8 @@ The best way to damage the Ferryman is utilising the attack opportunities from p
 
 ## Rewards
 
-**"Progress":** As with all bosses, the Ferryman grants [Resonance](Resonance.md) progress on defeat, scaling with damage done along with whoever got the last hit.
-
+-   **Knowledge:** The Ferryman grants 2 [Knowledge](Knowledge.md) when you first defeat him, and 1 Knowledge on every subsequent defeat, regardless of season.
+-   **"Progress":** As with all bosses, the Ferryman grants [Resonance](Resonance.md) progress on defeat, scaling with damage done along with whoever got the last hit.
 -   Seasonal Rewards - Speaking to the Ferryman after defeating him will reward the player with an additional reward. **If there are multiple people in the dungeon, the reward will only be given to the one who initiates dialogue** (unless it's Summer).
     -   Spring - Instead of an additional chest, he awards you with one [Knowledge](Knowledge.md). This is repeatable. He speaks about him being a Krulian, Enlightening you.
     -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), along with many miscellaneous Legendary Rings.

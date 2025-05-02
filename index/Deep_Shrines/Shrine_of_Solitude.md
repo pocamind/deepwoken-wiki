@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Solitude
-revid: 141968
+revid: 142946
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Solitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -22,21 +22,9 @@ categories: [NPCs, Mechanics]
 
 Located in [Trial of One](../Trial_of_One.md), [Temple of Hearts](../Temple_of_Hearts.md) and [The Diluvian Mechanism](../The_Diluvian_Mechanism.md) on the opposite wall of the entrance.
 
-## Effects/Details
+## Usage and Effect
 
-### Effects
-
-This shrine acts like a [Mystic](../Mystic.md), allowing you to affect your card draws.
-
-In all other cases, this shrine does nothing. Does NOT progress towards the [Soulbreaker](../Oath%253A_Soulbreaker.md) when a deal is made.
-
-### Details
-
--   Free Mystic for the Lone Warrior Origin
--   Free Mystic to those progressing via the Diluvian Mechanism.
--   Free Mystic available away from Castle Light in Temple of The Heart (though a more dangerous option than paying 25 notes), this is primarily going to be for Deepbounds due to their early access but can be accessed by anyone who owns a Resonance.
--   Costs no knowledge.
--   For some reason, it can't be used if you went there instead of spawning there. (Needs more testing)
+This shrine acts like a [Mystic](../Mystic.md), allowing you to affect and influence your odds for Talent Card draws. **Can NOT be used if you're not using the Lone Warrior Origin or Dilluvian Mechanism or** **to progress towards the [Soulbreaker](../Oath%253A_Soulbreaker.md) Oath.** Unlike other Shrines, it does not cost any [Knowledge](../Knowledge.md).
 
 ## Navigation
 

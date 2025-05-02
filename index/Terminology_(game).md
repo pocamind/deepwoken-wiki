@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 142891
+revid: 142942
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -809,7 +809,7 @@ _noun_
 
 _noun_
 
-1.  Abbreviation for [Hero Blade](Hero_Blades.md) -- one of them -- a weapon belonging to a group of 5 blades that forgo weapon proficiency attributes, each instead scaling completely off of a different elemental attribute.
+1.  Abbreviation for [Hero Blade](Hero_Blades.md) -- one of them -- a weapon belonging to a group of 5 blades that forgo weapon proficiency attributes, each instead requiring high investment in, and scaling completely off of, a different elemental attribute.
 
 ### KoS
 

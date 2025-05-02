@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142918
+revid: 142944
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1054,6 +1054,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: Rising Flame, Flame Leap, Flame Leap (Reversal Spark), Rising Frost, Rising Wind, Lightning Impact, and [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints. There may be more that do, but simply aren't documented yet.
         -   Rising Thunder can also activate it, but only if the initial grab guard breaks, which is very unlikely. Additionally, Wind Blade can activate it as well, but only if you use the Tempest Wind Talent's variant of the mantra.
     -   Some mantras, despite leaving both players in the air, can't activate Meteor Impact, such as Flashfire Sweep, Celestial Assault, or Skyshatter Kick (Round Spark)
+    -   Hitting someone with meteor impact deals M1 DMG + 10 DMG to them.
     -   Prerequisites: Any "Rising" Mantra, 25 Flamecharm
         -   [Rising Flame](Flamecharm.md#rising-flame), [Rising Frost](Frostdraw.md#rising-frost), [Rising Thunder](Thundercall.md#rising-thunder), [Rising Wind](Galebreathe.md#rising-wind), or [Rising Shadow](Shadowcast.md#rising-shadow)
 
