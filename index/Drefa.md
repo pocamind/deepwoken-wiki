@@ -1,6 +1,6 @@
 ---
 title: Drefa
-revid: 131725
+revid: 143001
 source: https://deepwoken.fandom.com/wiki/Drefa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -16,9 +16,11 @@ categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Drefa is an [Etrean](Etrean.md) NPC who resides on the [Isle of Vigils](Isle_of_Vigils.md). Despite her location, she probably has no connection with the [Etrea](Etrea.md) faction, but she is a merchant native to the kingdom. You can find her next to a large log near the house where the [Banker](Banker.md) and [Antiquarian](Antiquarian.md) reside in [Temple Approach](Temple_Approach.md).
+Drefa is an [Etrean](Etrean.md) NPC, when to her she will give you a small quest, giving you a [Lumber axe](Lumber_Axe.md) to collect wood for the fire, if you give her 6 wood, you will earn 5 notes and reputation with Etrea.
 
-Talking to her, she will give you a small quest, giving you a [Lumber axe](Lumber_Axe.md) to collect wood for the fire, if you give her 6 wood, you will earn 5 notes and reputation with Etrea.
+## Location
+
+Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing beside a log next to the [Banker](Banker.md) and [Antiquarian](Antiquarian.md) of the isle.
 
 ## Dialogue
 

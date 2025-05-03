@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 137019
+revid: 142985
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links]
@@ -102,11 +102,11 @@ Using [Moonseye Tome](Moonseye_Tome.md)
 | 17 | [Carol of Resonances](https://soundcloud.com/naktigonis/carol-of-resonances) | 2:43 | [Instruments](Instruments.md) | File:Carol of Resonances.mp3 |
 | 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), The Blade Within | File:TheWindsinger'sDance.mp3 |
 | 19 | [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) | 4:32 | [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) | File:A God, Manufactured.mp3 |
+| 20 | [ELEISON](https://soundcloud.com/naktigonis/eleison) | 6:00 | [Scion of Ethiron](Scion_of_Ethiron.md) | someone add this |
 | TBA | Synthetic Deicide[\[2\]](#cite-note-naktimessage2-2) | TBA | [Chaser's Death](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
 | TBA | Bread And Roses[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
 | TBA | Class Struggle[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing Combat](<Miner's_Landing.md>) | TBA |
 | TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |
-| TBA | ELEISON[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
 | TBA | _Katabasis_[\[1\]](#cite-note-naktimessage-1) | TBA | [New Kyrsa Combat](Second_Layer/New_Kyrsa.md) | TBA |
 | TBA | The Prince Peripatetic[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [The Sunken Railways](The_Sunken_Railways.md)
 
@@ -151,6 +151,6 @@ Boss Theme
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [1.4](#cite-ref-naktimessage-1-4) [1.5](#cite-ref-naktimessage-1-5) Mentioned in an update from Naktigonis about Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
-2.  ↑ [2.0](#cite-ref-naktimessage2-2-0) [2.1](#cite-ref-naktimessage2-2-1) [2.2](#cite-ref-naktimessage2-2-2) [2.3](#cite-ref-naktimessage2-2-3) [2.4](#cite-ref-naktimessage2-2-4) [2.5](#cite-ref-naktimessage2-2-5) [2.6](#cite-ref-naktimessage2-2-6) [2.7](#cite-ref-naktimessage2-2-7) [2.8](#cite-ref-naktimessage2-2-8) Mentioned in a roadmap for Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1191508430956007606)
+1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [1.4](#cite-ref-naktimessage-1-4) Mentioned in an update from Naktigonis about Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
+2.  ↑ [2.0](#cite-ref-naktimessage2-2-0) [2.1](#cite-ref-naktimessage2-2-1) [2.2](#cite-ref-naktimessage2-2-2) [2.3](#cite-ref-naktimessage2-2-3) [2.4](#cite-ref-naktimessage2-2-4) [2.5](#cite-ref-naktimessage2-2-5) [2.6](#cite-ref-naktimessage2-2-6) [2.7](#cite-ref-naktimessage2-2-7) Mentioned in a roadmap for Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1191508430956007606)
 3.  [↑](#cite-ref-3) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".

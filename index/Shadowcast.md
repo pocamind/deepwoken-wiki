@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 142201
+revid: 143003
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -693,7 +693,7 @@ Shadow + Slash/Blunt (Bl. Spark)
 
 **Effect:** _Ready yourself before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable._
 
--   Deals 51.67 (57.51 with 6 songchant) DMG, 9.5 posture, 19s CD
+-   Deals 51.67 (57.51 with 6 songchant) DMG, 9.5 posture, 12s CD
 -   With Blast spark: 75 (3.75\*20) DMG, 10.53 posture per hit if u will try to block during blast spark multi hit attack.
 -   With 6 songchant Blast spark deals 83 (4.15\*20) DMG
 -   Has 9.18x PVE scale (51.67 DMG PVP, 474.3 PVE DMG)

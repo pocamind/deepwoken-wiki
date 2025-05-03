@@ -1,58 +1,52 @@
 ---
 title: Artifacts
-revid: 141911
+revid: 142995
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Mechanics]
+categories: [Items, Mechanics]
 ---
 
 # Artifacts
 
+| Artifacts | |
+|---|---|
+| usage | Given to a Banker for various loot.Activating the Deep Crucible. |
+| drops | EXP, 200 Notes, 10 various items including:, Outfit Schematics, Weapons, Armor, Smith's Alloy, Armorer's Needle, Curse of Rhaemen's Ember Enchant Stone (Eastern only) |
+| obtainment | Erisia, Open Sea (Etrean Luminant) Starswept Valley (Eastern Luminant) |
+
 _Not to be confused with [Relics](Relics.md)._
 
-An Adret carrying a piece of The Forge.
+  
 
-## Description
+## Overview
 
-Artifacts in Deepwoken are valuable pieces of technology or objects that can be given to banker NPCs for moderate rewards such as rare armor, [Mantra ingredients](Mantra_Modifiers.md), [weapons](Weapons.md) and [Armor schematics](Outfits.md), and a handful of XP. There is currently one type of Artifact in the game.
+Artifacts in Deepwoken are valuable pieces of technology or objects that can be given to [Bankers](Banker.md) for moderate rewards such as rare armor, [Mantra Ingredients](Mantra_Modifiers.md), [Weapons](Weapons.md) and [Outfit Schematics](Outfits.md), and a handful of XP. There are two variants of Artifacts found in the game.
 
-Artifacts are generally found around [Lower](Lower_Erisia.md) and [Upper Erisia](Upper_Erisia.md) but can be found on other islands, as well as being able to spawn on rock formations out at sea such as the ones in the vicinity of [Erisia](Erisia.md). They can also be found out in open waters. Due to the random nature of where they spawn you may find them guarded by [Enemies](Enemies.md) or completely unguarded making it easy to pick up and run off with. You will know an Artifact has spawned near you as a loud pulsating noise can be heard emitting from it and large purple rings can be spotted flying upwards away from the Artifact's vicinity.
+In the [Etrean Luminant](Luminants.md), Artifacts are generally found around [Upper Erisia](Upper_Erisia.md) but can also be found within the open sea. In the [Eastern Luminant](Luminants.md), Artifacts take on a different appearance and can be found in the [Starswept Valley](The_Starswept_Valley.md).
 
-When you pick up an Artifact it will make a loud noise and will then cease making noise/rings.
+An untouched Artifact will emit a loud noise while creating pulsating rings around it. When it is picked up by a player, it will play a sound before releasing more particles.
 
 An Artifact is also necessary to activate the [Deep Crucible](Deep_Crucible.md).
 
-## Strange Egg
-
-File:Hive Artifact.png
-
-The strange egg
-
-The "Strange Egg" is a rare version of the regular artifact that can only be given to the [Banker](Banker.md) at the [Greathive Aratel](Greathive_Aratel.md).
-
-## Rewards
-
--   EXP
--   200 [Notes](Notes.md)
--   10 Common to Rare Items, including:
-    -   [Armor Schematics](https://deepwoken.fandom.com/wiki/Armors?so=search#Outfit_List)
-    -   [Weapons](Weapons.md)
-    -   [Armor](Equipment.md)
-    -   This equipment is eligible to be [enchanted](Enchantments.md).
-    -   [Curse of Rhaemen's Ember](Enchantments.md)
--   [Smith's Alloys](<Smith's_Alloy.md>) and [Armorer's Needles](<Armorer's_Needle.md>) (rarely)
-
 ## Locations
 
--   They spawn randomly around [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Starswept Valley](The_Starswept_Valley.md).
+### Etrean Luminant
 
-## Tips/Trivia
+-   [Erisia](Erisia.md)
+-   [The Etrean Sea](The_Etrean_Sea.md)
+
+### Eastern Luminant
+
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
+
+## Trivia
 
 -   The Piece of the Forge Artifact used to sell for 800 Notes.
 -   They despawn after 1 hour.
 -   Be cautious bringing an Artifact to a bank. Players occasionally will jump others holding them due to the ease of loot.
     -   Hiding them in a Guild Base is also an option, as you won't be seen carrying it around and can create a guild entrance next to a bank to take Artifacts out of.
 -   Anyone standing nearby whilst you turn in an Artifact will also receive notes and XP.
--   Artifacts are likely related to the Forge of Sin, as bankers will call it a "Piece of the Forge," and pieces of their models are in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
+-   Etrean Luminant Artifacts are likely related to the Forge of Sin, as bankers formerly called it a "Piece of the Forge," and pieces of their models are in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 -   The [Castle Light](Castle_Light.md) Banker has an Artifact turn-in option, but Artifacts do not currently spawn in the Depths.
 -   The sound used by an artifact is from the series Avengers Assemble season 1 episode 13, from neptunes trident.
