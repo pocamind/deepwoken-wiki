@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 142573
+revid: 143094
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -31,7 +31,7 @@ Chainwardens are strong enforcers of justice serving [The Central Authority](The
 
 1.  The Oath requires at least 40 points combined into Strength, Fortitude and Willpower, such as 20 Strength, 5 Fortitude and 15 Willpower or 0 Strength, 30 Fortitude and 10 Willpower (You can have more than 40 in those three stats).
 2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend rep or higher (requirement is actually somewhat higher than the minimum for Friend rep), and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
-3.  After talking to the hostage below the building, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. Upon defeating him, you will be granted the Oath. (Note, if more than one person tries to obtain the Oath, Emar Vend will spawn only ONCE. Whoever spawns him gets the Oath from the grip but, after getting kill credit, go back to Vice Warden Morredh and he will instead give you the Oath.)
+3.  After talking to the hostage below the building, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He usually spawns at the top of the castle. **NOTE: Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.** Upon defeating him, you will be granted the Oath. (Note, if more than one person tries to obtain the Oath, Emar Vend will spawn only ONCE. Whoever spawns him gets the Oath from the grip but, after getting kill credit, go back to Vice Warden Morredh and he will instead give you the Oath.)
 
 Chainwarden **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, as the Vice Warden will insult you.
 
@@ -102,12 +102,11 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   Chainwarden can chain multiple enemies, but enemies can only be chained by one person at a time. Nothing happens if another Chainwarden attempts to chain an already chained enemy.
 -   Using Rupture on a chained target will break the current chain and ragdoll the target in the direction of your camera (For example, looking behind you will ragdoll them toward you).
 -   The Chained Captive NPC has unique dialogue if you no longer meet the requirements of the Oath when speaking to them. In all cases, your only dialogue option is to end dialogue.
-    -   "..." - If you already have an Oath.
+    -   "..." - If you already have an Oath, or if you already rescued the NPC and rejoined.
     -   "_The captive stays silent, staring at you with wild eyes wrought with concern._" - If you no longer meet the reputation requirement.
     -   "Send help, your will alone won't be enough to break these chains." - If you don't meet the stat requirements. This will always mention "will" regardless of your stat setup, as Chainwarden is a combined requirement Oath.
         -   These lines of dialogue are rarely seen as the NPC will not spawn in until you speak to the Vice Warden while having the Oath's requirements. Additionally, if you are missing multiple requirements, the NPC will default to the missing reputation line or the already have an Oath line.
         -   The dialogue for lacking requirements possibly hints at Chainwarden's chains being breakable in lore just by having high willpower (not the Deepwoken stat).
--   Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.
 -   On release, was an incredibly small and lackluster Oath, having only 2 Mantras and no passives/Talents, with Arch having said that there were no Talents, while melonbeard said the Oath was finished and needed no work.[\[1\]](#cite-note-1)
     -   This was confirmed to be an error when a shadow-patch gave Chainwarden the Talents it was missing.
 -   If you break your Oath using a Yunshul's wish at [Temple of Hearts](Temple_of_Hearts.md), [Vice Warden Morredh](Vice_Warden_Morredh.md) says "Another deserter? You're pathetic."

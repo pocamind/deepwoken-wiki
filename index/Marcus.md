@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 137923
+revid: 143064
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -27,6 +27,28 @@ Marcus is inarguably the coolest Golem, if not the coolest NPC(apart from Meatlo
 The only entity that can surpass Marcus' incomprehensible power would be [The Meat Lord](The_Meat_Lord.md), as both have risen to levels above the powers of Drowned Gods.
 
 Although Marcus does not give any rewards, XP, loot or even gameplay advice to the player, it's always great to talk to him as he is the chillest \[_[sic](https://en.wikipedia.org/wiki/sic)_\] NPC in all of Deepwoken.
+
+## Dialouge
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6">Sup.</td>
+</tr>
+<tr>
+  <td colspan="6">How do you feel?</td>
+</tr>
+<tr>
+  <td colspan="6">Live and let go, man.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
 
 ## How To Find Marcus
 

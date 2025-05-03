@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143050
+revid: 143063
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -63,7 +63,7 @@ There are certain Talents that you receive automatically upon meeting their requ
 -   [Oath](#oath) Talents
 -   Any Talents received by drawing a card hand (e.g. - King Thresher spine quest after completing it for the second time)
 
-Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool.** However, if you use the Shrine of Chance to remove the mutually exclusive Talent that you currently have, the other Talent returns to your Talent pool so that it may be obtained once again.
+Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool.** However, if you use the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) to remove the mutually exclusive Talent that you currently have, the other Talent returns to your Talent pool so that it may be obtained once again.
 
 _When it comes to mutually exclusive Talents, you can have either:_
 
@@ -2993,7 +2993,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Puppets deal 11 posture damage.
     -   Puppets spawn whenever Puppet Burn deals damage with a 4 second cooldown.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
-    -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames
+    -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames, Flashboil
 
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based Talents when they explode.
     -   Grants Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm.
@@ -3100,7 +3100,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   This Talent is incredibly good for PvE in high mob density areas like [The Diluvian Mechanism](The_Diluvian_Mechanism.md) because of the AoE nature and long duration per cloud. Additionally, you can create a large amount of steam clouds at the same time by hitting multiple mobs at once.
     -   This can be used with all Flamecharm attunement paths, however because it's procced easiest with burn, it is not recommended to have Eruption path with this Talent.
     -   Prerequisites: 30 Flamecharm, 30 Frostdraw
-    -   Mutual Exclusive: Glass Path: Crystallization
+    -   Mutual Exclusives: Glass Path: Crystallization, Wraith Path: Twisted Puppets
         -   The mutual exclusive with Crystal path seems to be a bit buggy though, as Crystal path locks out Flashboil, but not the other way around.
 
 -   Boiling Point \[Common Talent, Dual Attunement\] - Using a fire mantra near your own steam cloud detonates it.

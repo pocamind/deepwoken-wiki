@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 138364
+revid: 143066
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -228,6 +228,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _I seek the qualities of Heat Column. **(Heat Column)**_
 -   _I seek the qualities of Doomsday Engine. **(Doomsday Engine)**_
 -   _I seek the qualities of Frozen Lightning. **(Frozen Lightning)**_
+-   _I seek the qualities of Vaporborne. **(Vaporborne)**_
 
 ## Mantras
 

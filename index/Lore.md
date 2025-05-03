@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 141855
+revid: 143080
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -230,8 +230,6 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 -   The name of his expedition team was the "Pioneer Divers", the ones who heard the "Song of Fathoms" for the first time.
 
 ### Viqh, Lightkeeper of the Eastern Lighthouse
-
-_"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 
 -   Currently residing in the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
 -   In charge of connecting the East Luminant to the rest of the Luminants from the Voidsea.

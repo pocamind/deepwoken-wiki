@@ -1,6 +1,6 @@
 ---
 title: Mod Skirt
-revid: 133892
+revid: 143068
 source: https://deepwoken.fandom.com/wiki/Mod_Skirt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
@@ -16,15 +16,13 @@ Template:ArmorInfobox**Mod Skirt** is a Unique (Spec/Mod) [Outfit](Outfits.md) i
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth, and five (5) Fiber.
+This Outfit has no requirement to craft.
 
 This Outfit has no [Power Level](Talents.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 2800 durability and grants +30% Physical Armor, +30% Elemental Armor, +5% Ice Armor, +5% Blunt Armor, +5% Shadow Armor and 20% Ether Regen.
-
-This Outfit grants the [Talent Card](Talents.md) _The Path, Unveiled,_ which increases [Jus Karita](Jus_Karita.md) / [Anklets of Alsin](Anklets_of_Alsin.md) damage by 15%.
+This Outfit has 100 durability and grants no resistances.
 
 ## Location
 
