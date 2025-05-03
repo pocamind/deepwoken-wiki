@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 142424
+revid: 143014
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons]
@@ -12,20 +12,20 @@ categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons wit
 |---|---|
 | alloyed name | Template:AlloyedColor |
 | type | Sword |
-| requirements | 25 MED / 75 MED |
-| damage | 18 / 20 |
-| scaling | MED: 6 / MED: 7 |
+| requirements | 25 MED / Template:AlloyedColor MED |
+| damage | 18 / Template:AlloyedColor |
+| scaling | MED: 6 / MED: Template:AlloyedColor |
 | range | 8 |
 | swing speed | 1x |
-| penetration | 10% |
-| chip damage | 10% |
+| penetration | Template:AlloyedColor |
+| chip damage | Template:AlloyedColor |
 | stances | 2 Handed, 1 Handed |
-| weight | 5 / 6 |
+| weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Primadon, Titan of the East, Moon's Eyrie, The Diluvian Mechanism, Songseeker Wilds, Crypt of the Unbroken, Chime of Conflict, Dread SerpentAlloyed:, Alloying a Katana, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Primadon, Titan of the East, Moon's Eyrie, The Diluvian Mechanism, Songseeker Wilds, Crypt of the Unbroken, Chime of Conflict, Dread SerpentTemplate:AlloyedColor, Alloying a Katana, Maestro Evengarde Rest, Dread Serpent |
 | description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
 
 ## Description

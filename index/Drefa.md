@@ -1,6 +1,6 @@
 ---
 title: Drefa
-revid: 143001
+revid: 143025
 source: https://deepwoken.fandom.com/wiki/Drefa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -17,6 +17,8 @@ categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 ## Description
 
 Drefa is an [Etrean](Etrean.md) NPC, when to her she will give you a small quest, giving you a [Lumber axe](Lumber_Axe.md) to collect wood for the fire, if you give her 6 wood, you will earn 5 notes and reputation with Etrea.
+
+Her counterpart that exists in [Etris](Etris.md) is [Korin](Korin.md).
 
 ## Location
 

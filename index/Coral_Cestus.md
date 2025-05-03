@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 138064
+revid: 143012
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists]
@@ -39,8 +39,8 @@ The Template:AlloyedColor critical has the same animation with a new visual and 
 
 ## Trivia
 
--   Meeting the requirement of LHT, the damage is (19 / 26.5)
--   At max LHT, the damage is (24 / 28.3)
+-   Meeting the requirement of LHT, the damage is (19 / Template:AlloyedColor)
+-   At max LHT, the damage is (24 / Template:AlloyedColor)
 -   Coral Cestus originally had higher stats and a light weapon requirement of 75, the stats and requirements were reduced when it received an alloy.
 -   The critical did not work with Legion Kata on release, making the special critical exclusive to Way of Navae. This was fixed soon after the weapon was added.
 -   Each gauntlet has a colored gradient under the "coral" texture, making it the first weapon to have gradient enchant textures. This allows us to see the primary colors associated with each enchant.

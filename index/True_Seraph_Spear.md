@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 139760
+revid: 143009
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Weapons with Unique Criticals]
@@ -11,7 +11,7 @@ categories: [Weapons, Spears, Drops, Weapons with Unique Criticals]
 | True Seraph Spear | |
 |---|---|
 | type | Spear |
-| requirements | 90 MED |
+| requirements | 80 MED |
 | damage | 18.5 |
 | scaling | MED: 7 |
 | range | 9 |
@@ -29,7 +29,7 @@ categories: [Weapons, Spears, Drops, Weapons with Unique Criticals]
 
 ## Description
 
-The True Seraph Spear is a MED [weapon](Weapons.md). This spear can be obtained from killing a Corrupted [King Thresher](King_Thresher.md) or a [Glacial Lionfish](Glacial_Lionfish.md) in [The Depths](The_Depths.md). It has the second highest MED requirement out of all spears, alongside the [Kyrsglaive](Kyrsglaive.md), first being [Imperator's Edge](<Imperator's_Edge.md>). Also the most tedious spear to obtain. it has the highest chip damage in the medium weapon category. The True Seraph Spear does 28.2 damage at 100 MED and 27.2 damage at 90 MED (the requirement to use this weapon).
+The True Seraph Spear is a MED [weapon](Weapons.md). This spear can be obtained from killing a Corrupted [King Thresher](King_Thresher.md) or a [Glacial Lionfish](Glacial_Lionfish.md) in [The Depths](The_Depths.md). It has the second highest MED requirement out of all spears, alongside the [Kyrsglaive](Kyrsglaive.md), first being [Imperator's Edge](<Imperator's_Edge.md>). Also the most tedious spear to obtain. it has the highest chip damage in the medium weapon category. The True Seraph Spear does 28.2 damage at 100 MED and 26.3 damage at 80 MED (the requirement to use this weapon).
 
 ## Critical
 

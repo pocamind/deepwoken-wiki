@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 142559
+revid: 143015
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons, The Ministry]
@@ -42,9 +42,11 @@ It can also be obtained as a direct drop from Chaser, as well as [The Diluvian M
 
 ## Criticals
 
-For the **standing** critical, the user moves forward in the direction they are facing doing a 360° sweep. Standing crit deals 115% of a m1's damage, Inflicts 25% blood poisoning, 1 second windup and deals 18 posture damage on block. 5 second crit cd, also applies a short ragdoll.
+For the **standing** critical, the user moves forward in the direction they are facing doing a 360° sweep. Standing crit deals 115% of a m1's damage, Inflicts 25% blood poisoning, 1 second windup and deals 18 posture damage on block. Also applies a short ragdoll.
 
-While running when performing the critical, you will move forward at the same speed of when you were running. Running Crit deals 115% of a m1, Inflicts 20% blood poisioning 0.75 sec windup and it deals 35+ posture, 6 second crit cd.
+While running when performing the critical, you will move forward at the same speed of when you were running. Running Crit deals 115% of a m1, Inflicts 20% blood poisioning 0.75 sec windup and it deals 35+ posture.
+
+**The cooldown for both criticals is 8 seconds.**
 
 ## Trivia
 
