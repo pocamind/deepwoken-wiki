@@ -1,6 +1,6 @@
 ---
 title: Varicosan Finery
-revid: 142220
+revid: 143052
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ This Outfit requires [Power Level](Talents.md) 10.
 
 ### _Armor Stats_
 
-The Outfit has 1500 durability, grants +20% Physical Armor and +20% Elemental Armor. Additionally, it provides the Reciprocity Talent. This Talent currently does not work, but it's supposed to give you faction [reputation](Reputation.md) when selling goods to their respective [antiquarian](Antiquarian.md).
+The Outfit has 1500 durability, grants +20% Physical Armor and +20% Elemental Armor. Additionally, it provides the Benefactor Talent, which grants you faction [reputation](Reputation.md) when selling goods to their respective [antiquarian](Antiquarian.md).
 
 ## Location
 
@@ -29,6 +29,7 @@ This Outfit's Schematic can be obtained from [Layer 1](First_Layer.md) chests.
 
 ## Trivia
 
+-   This outfit originally granted a Talent named "_Reciprocity_", which did nothing as there isn't a Talent by that name. This was fixed sometime in a shadow update.
 -   Suit Shirt - [https://www.roblox.com/catalog/16826381385/Formal-Suit-Shirt](https://www.roblox.com/catalog/16826381385/Formal-Suit-Shirt)
 -   Suit Pants - [https://www.roblox.com/catalog/16831806056/Formal-Suit-Pants](https://www.roblox.com/catalog/16831806056/Formal-Suit-Pants)
 -   Dress Shirt - [https://www.roblox.com/catalog/16826386577/Functional-Dress-Shirt](https://www.roblox.com/catalog/16826386577/Functional-Dress-Shirt)

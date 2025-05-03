@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 142964
+revid: 143045
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1632,7 +1632,7 @@ _Dart around the battlefield with devastating cleaves delivered in quick success
  |
 | 
 
-30 Ether
+45 Ether
 
  | 
 

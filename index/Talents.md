@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 142981
+revid: 143050
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1306,7 +1306,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Changes Chilling enchant to proc 1 crystal per hit.
     -   Changes color of Gran Sudaruska and Chilling enchant to become a pinkish red color.
     -   Prerequisite: 40 Frostdraw
-    -   Mutual Exclusive: Unyielding Frost
+    -   Mutual Exclusives: Unyielding Frost, Flashboil
+        -   The mutual exclusive with Flashboil seems to be a bit buggy though, as Crystal path locks out Flashboil, but not the other way around.
 
 -   Crystal Shrapnel \[Common Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit.
     -   Will also damage the target that procced the crystal explosion, increasing total damage.
@@ -3087,6 +3088,26 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Does not work on Surge stacks applied to yourself.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 
+### Vaporborne
+
+> _**"I seek the qualities of Vaporborne"**_
+
+-   Flashboil \[Common Talent, Dual Attunement\] - Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
+    -   Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a _stationary_ steam cloud.
+    -   Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's.
+    -   Steam clouds are unparryable, unblockable, and bypass armor resistances.
+    -   Steam clouds last 10 seconds and have an internal proc cooldown **per target** of 10 seconds.
+    -   This Talent is incredibly good for PvE in high mob density areas like [The Diluvian Mechanism](The_Diluvian_Mechanism.md) because of the AoE nature and long duration per cloud. Additionally, you can create a large amount of steam clouds at the same time by hitting multiple mobs at once.
+    -   This can be used with all Flamecharm attunement paths, however because it's procced easiest with burn, it is not recommended to have Eruption path with this Talent.
+    -   Prerequisites: 30 Flamecharm, 30 Frostdraw
+    -   Mutual Exclusive: Glass Path: Crystallization
+        -   The mutual exclusive with Crystal path seems to be a bit buggy though, as Crystal path locks out Flashboil, but not the other way around.
+
+-   Boiling Point \[Common Talent, Dual Attunement\] - Using a fire mantra near your own steam cloud detonates it.
+    -   Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.
+    -   The detonation is unparryable, unblockable, and bypasses armor resistances.
+    -   Prerequisites: Flashboil
+
 ### Vigil Swordsman
 
 > _**"I fight for Maestro Evengarde Rest."**_
@@ -3433,6 +3454,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed.
     -   Also available as a common Talent.
+-   Benefactor: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to Antiquarians within faction territories.
+    -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.

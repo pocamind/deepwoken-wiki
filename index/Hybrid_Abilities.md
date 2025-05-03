@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 141406
+revid: 143044
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -408,6 +408,24 @@ Wind + Lightning + Slash
   <td><center>Detonating Crystals will cause an Eruption.</center></td>
   <td><center><i>"I seek the qualities of Pyroclast."</i></center></td>
 </tr>
+<tr>
+  <td><center>Flashboil<br>
+  <sup>[Vaporborne]</sup></center></td>
+  <td><center>30 Flamecharm<br>
+  30 Frostdraw</center></td>
+  <td><center>Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.</center></td>
+  <td><center>Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.<br>
+  Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's. Steam clouds last 10 seconds and have an internal proc cooldown per target of 10 seconds.</center></td>
+  <td><center><i>"I seek the qualities of Vaporborne"</i></center></td>
+</tr>
+<tr>
+  <td><center>Boiling Point<br>
+  <sup>[Vaporborne]</sup></center></td>
+  <td><center>Flashboil</center></td>
+  <td>Using a fire mantra near your own steam detonates it.</td>
+  <td>Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.</td>
+  <td><center><i>"I seek the qualities of Vaporborne"</i></center></td>
+</tr>
 </tbody>
 </table>
 
@@ -575,6 +593,24 @@ Wind + Lightning + Slash
   <td><center>Detonating crystals causes an eruption soon after.</center></td>
   <td><center>Detonating Crystals will cause an Eruption.</center></td>
   <td><center><i>"I seek the qualities of Pyroclast."</i></center></td>
+</tr>
+<tr>
+  <td><center>Flashboil<br>
+  <sup>[Vaporborne]</sup></center></td>
+  <td><center>30 Flamecharm<br>
+  30 Frostdraw</center></td>
+  <td><center>Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.</center></td>
+  <td><center>Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.<br>
+  Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's. Steam clouds last 10 seconds and have an internal proc cooldown per target of 10 seconds.</center></td>
+  <td><center><i>"I seek the qualities of Vaporborne"</i></center></td>
+</tr>
+<tr>
+  <td><center>Boiling Point<br>
+  <sup>[Vaporborne]</sup></center></td>
+  <td><center>Flashboil</center></td>
+  <td>Using a fire mantra near your own steam detonates it.</td>
+  <td>Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.</td>
+  <td><center><i>"I seek the qualities of Vaporborne"</i></center></td>
 </tr>
 </tbody>
 </table>

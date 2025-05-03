@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-revid: 140259
+revid: 143056
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, Oaths, NPCs located in the Eastern Luminant]
@@ -189,4 +189,3 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 -   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Cerulean City_](https://bulbapedia.bulbagarden.net/wiki/Cerulean_City).
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Saffron](Saffron.md), [Celadon](Celadon.md), and [Viridian](Viridian.md).
 -   Cerulean usually means the shade of the color blue.
--   The [Cerulean Thread](Cerulean_Thread.md) may also be named after him.

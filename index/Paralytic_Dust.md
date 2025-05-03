@@ -1,6 +1,6 @@
 ---
 title: Paralytic Dust
-revid: 143035
+revid: 143042
 source: https://deepwoken.fandom.com/wiki/Paralytic_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -32,8 +32,11 @@ Pressing C will activate the **Paralytic Dust** Resonance.
 
 ## Resonance Point Usage
 
-Unknown
+-   Sleeping variant:
+    -   throw black dust into the air in an aoe around you, ragdolls you and anyone else nearby for 5 seconds and heals them for 5%.
+-   Throw varaint:
+    -   Throw white dust in front of you ragdolling anyone hit for 5 seconds and dazes for 10 seconds
 
 ## Trivia
 
--   Bruh
+-   Said to have been manufactored by Lena Kamali

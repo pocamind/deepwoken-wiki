@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 142575
+revid: 143053
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the First Layer]
@@ -71,6 +71,7 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 -   [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) ( )
 -   [Prophet's Cloak](<Prophet's_Cloak.md>) ( )
 -   [Seamstress's Attire](<Seamstress's_Attire.md>) ( )
+-   [Varicosan Finery](Varicosan_Finery.md) ( )
 -   [Whaler Coat](Whaler_Coat.md) ( )
 
 ## Trivia

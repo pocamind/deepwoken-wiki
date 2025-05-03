@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 143028
+revid: 143055
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -53,24 +53,25 @@ As the name implies, this Talent allows the player to get wood by punching down 
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="8">Hey. We need more wood to keep the fires burning, you got any?</td>
+  <td colspan="12">Hey. We need more wood to keep the fires burning, you got any?</td>
 </tr>
 <tr>
-  <td colspan="8">Yeah.</td>
+  <td colspan="12">Yeah.</td>
 </tr>
 <tr>
-  <td colspan="4">[Enough wood]</td>
-  <td colspan="4">[Not enough wood]</td>
+  <td colspan="6">[Enough wood]</td>
+  <td colspan="6">[Not enough wood]</td>
 </tr>
 <tr>
-  <td colspan="4">Thanks for the help. (Lose 6 wood)</td>
-  <td colspan="4">Uh.. it seems like you don't have much on you. Come back with more wood and we can see about payment.</td>
+  <td colspan="6">Thanks for the help.</td>
+  <td colspan="6">Uh.. it seems like you don't have much on you. Come back with more wood and we can see about payment.</td>
 </tr>
 <tr>
-  <td colspan="8">End</td>
+  <td colspan="6">End, Lose 6 Wood, Gained 5 Notes, Gained slight reputation with Etrea</td>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>
@@ -89,14 +90,12 @@ As the name implies, this Talent allows the player to get wood by punching down 
   <td colspan="12">Can you tell me anything about Etrea?</td>
 </tr>
 <tr>
-  <td colspan="4">[Negative reputation]</td>
-  <td colspan="4">[Neutral reputation]</td>
-  <td colspan="4">[Positive reputation]</td>
+  <td colspan="6">[Negative or Neutral reputation]</td>
+  <td colspan="6">[Positive reputation]</td>
 </tr>
 <tr>
-  <td colspan="4"></td>
-  <td colspan="4">Look, I don't have the time to be chatting pleasantries with you. Leave me be.</td>
-  <td colspan="4">Many of the lads here take up the sword and train at the Blade Temple to try to become a Vigil. Not many make the cut, though. Myself included. Still, it's a good experience. Maybe they'd take you on?</td>
+  <td colspan="6">Look, I don't have the time to be chatting pleasantries with you. Leave me be.</td>
+  <td colspan="6">Many of the lads here take up the sword and train at the Blade Temple to try to become a Vigil. Not many make the cut, though. Myself included. Still, it's a good experience. Maybe they'd take you on?</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

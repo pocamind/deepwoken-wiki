@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 141679
+revid: 143058
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons", Multiple Criticals]
@@ -57,25 +57,19 @@ With 100 MED and 100 WND, it will deals 30.6 damage
 
 The user propels in a whirlwind of air, gravitating towards their cursor. Applies **Suffocate** if collided with.
 
-Crit stats:
-
-0.25x of M1s dmg per hit + 10% aftercut bonus
-
-2.5 posture per hit
-
-10s CD
+-   Crit stats:
+-   0.25x of M1s dmg per hit + 10% aftercut bonus
+-   2.5 posture per hit
+-   10s CD
 
 ### Two Handed Critical
 
 The user shoots a blast of air and on collision or after a short amount of time it will proceed to explode.
 
-Crit stats:
-
-0.3x of M1s DMG per hit + 10% aftercut bonus
-
-1.5 posture per hit
-
-10s CD
+-   Crit stats:
+-   0.3x of M1s DMG per hit + 10% aftercut bonus
+-   1.5 posture per hit
+-   10s CD
 
 ## Trivia
 
