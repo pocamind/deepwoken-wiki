@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 139922
+revid: 143239
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -90,6 +90,8 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 > “ The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself has a plan in mind for you. ”
 > 
 > ― Flavor Text
+
+### _**If you're looking to rid yourself of Voidwalkers, check the [Bounty Hunting](Bounty_Hunting.md) page instead.**_
 
 **_Obtainment_:** On a single character, grip any 5 players. (Chime of Conflict grips count, but only as '0.5' of a grip.) Afterwards, talk to Eiris, who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option; which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble. You will be warped to the [Voidheart](Voidheart.md), where you need to talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) to receive the origin.
 

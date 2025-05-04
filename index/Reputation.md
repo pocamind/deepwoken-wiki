@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 143106
+revid: 143247
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -20,11 +20,11 @@ The reputation tab found while sitting at campfires. This is the starting reputa
 
 Reputation represents how the players interact with a faction and how they interact with the player.
 
-The world of Deepwoken is populated by different factions, each with their own stories, goals, characters and locations. The player is bound to interact with them in many ways, in which case reputation will play a part in how these interactions will go.
+The world of Deepwoken is populated by different factions, each with their own stories, goals, characters, and locations. The player is bound to interact with them in many ways, in which case reputation will play a part in how these interactions will go.
 
 ## Reputation status
 
-The player reputations is a value ranging from -300 to 300, with different threshold granting different titles within a faction, changing how the faction interacts with the player.
+The player's reputation is a value ranging from -300 to 300, with different thresholds granting different titles within a faction, changing how the faction interacts with the player.
 
 Certain aspects of the game, such as certain NPCs dialogue or certain quests, require a certain status within a faction to be available.
 
@@ -66,7 +66,7 @@ The player can gain reputation with a faction by:
 The player can lose reputation with a faction by:
 
 -   Committing crimes within a faction controlled area, such as towns
-    -   Crimes include Assault, Assassinations and killing Town Guards or Players within the town
+    -   Crimes include Assault, Assassinations and killing Town Guards or Players within the town in a non-lawless area
 -   Killing NPCs from random events that spawn by themselves, without an enemy or opposing faction
 
 ## Bribe
@@ -169,6 +169,8 @@ File:Ignition Union.png
 -   [Immortal Guardians](Immortal_Guardian.md)
 -   [Blacksteel Pirates](Blacksteel_Pirate.md)
 -   [Starkindred Church](Samael.md)
+
+  
 
 ## Trivia
 

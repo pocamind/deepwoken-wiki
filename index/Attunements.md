@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 142125
+revid: 143257
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics]
@@ -47,6 +47,8 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 -   60 = Level 4 Mantra
 -   80 = Level 5 Mantra
 
+  
+
 ## Base Attunements
 
 Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation, then wiping and doing it again.
@@ -72,6 +74,7 @@ Attunements unlocked on spawn. These attunements can all be unlocked as starting
 [Galebreathe](Galebreathe.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
+  
 
 ## Obtainable Attunements
 
@@ -89,6 +92,7 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 
 [Bloodrend](Bloodrend.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
+  
   
 
 ## Iconography
@@ -119,12 +123,11 @@ All of the icons above are undoubtedly official representations of their base at
 
 [Galebreathe](Galebreathe.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-  
-
 [Ironsing](Ironsing.md)
 
 [Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
+  
   
 
 ### Hybrid Paths

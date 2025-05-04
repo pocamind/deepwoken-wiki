@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 142959
+revid: 143236
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies]
@@ -12,9 +12,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Ministry Heartbleeders are [Ministry](The_Ministry.md) agents under the Second Prophet that specialise in information gathering via torture. They wield [Bloodrend](Bloodrend.md) and [Shadowcast](Shadowcast.md) in order to torture and then erase their victims. They can be found spawning at [Minityrsa](Minityrsa.md) or within [The Depths](First_Layer.md). They can be found interrogating a pathfinder hostage.
+Ministry Heartspillers are [Ministry](The_Ministry.md) agents under the Second Prophet that specialise in information gathering via torture. They wield [Bloodrend](Bloodrend.md) and [Shadowcast](Shadowcast.md) in order to torture and then erase their victims. They can be found spawning at [Minityrsa](Minityrsa.md) or within [The Depths](First_Layer.md). They can be found interrogating a pathfinder hostage.
 
-Ministry Heartbleeders wear a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), a [Crimson Blindfold](Blindfold.md), a [Prophet's Cloak](<Prophet's_Cloak.md>), and a dark red [Ministry Cloak](Ministry_Cloak.md) with three medals on attached to the left breast. The 3 medals on their chest signify their rank as a Heartbleeder, with the one we fight likely being a high rank.[\[1\]](#cite-note-1)
+Ministry Heartspillers wear a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), a [Crimson Blindfold](Blindfold.md), a [Prophet's Cloak](<Prophet's_Cloak.md>), and a dark red [Ministry Cloak](Ministry_Cloak.md) with three medals on attached to the left breast. The 3 medals on their chest signify their rank as a Heartspiller, with the one we fight likely being a high rank.[\[1\]](#cite-note-1)
 
 As stated by Arch Mage, you don't have to meet any requirements for the NPC to spawn.[\[2\]](#cite-note-2)
 
@@ -25,14 +25,14 @@ As stated by Arch Mage, you don't have to meet any requirements for the NPC to s
 
 ## Moveset
 
-A Ministry Heartbleeder wields a [Red Death](Red_Death.md) alongside a mix of Shadowcast and Bloodrend Mantras.
+A Ministry Heartspiller wields a [Red Death](Red_Death.md) alongside a mix of Shadowcast and Bloodrend Mantras.
 
 | Name | Description | Media |
 | --- | --- | --- |
 | 
 **Assault**
 
- | The Heartbleeder firmly thrusts their spear forward.
+ | The Heartspiller firmly thrusts their spear forward.
 
 Parry: ◯  
 Block: ◯
@@ -42,7 +42,7 @@ Block: ◯
 
 **Critical**
 
- | The Heartbleeder raises their spear to the sky, before bringing it down, unleashing a barrage of orbs.
+ | The Heartspiller raises their spear to the sky, before bringing it down, unleashing a barrage of orbs.
 
 Parry: ?  
 Block: ?
@@ -52,7 +52,7 @@ Block: ?
 
 **Rising Shadow**
 
- | The Heartbleeder moves their hands outward, creating a black tendril that chases nearby enemies. When connecting with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.
+ | The Heartspiller moves their hands outward, creating a black tendril that chases nearby enemies. When connecting with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.
 
 Parry: ◯  
 Block: ◯
@@ -62,7 +62,7 @@ Block: ◯
 
 **Crucifixion**
 
- | The Heartbleeder conjures a cross, ragdolling and throwing enemies back.
+ | The Heartspiller conjures a cross, ragdolling and throwing enemies back.
 
 Parry: ◯  
 Block: ◯
@@ -72,7 +72,7 @@ Block: ◯
 
 **Veinbreaker**
 
- | The Heartbleeder will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. If fully charged, This move gains the ability to guardbreak.
+ | The Heartspiller will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. If fully charged, This move gains the ability to guardbreak.
 
 Parry: ◯  
 Block: ✗

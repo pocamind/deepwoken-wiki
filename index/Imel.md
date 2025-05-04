@@ -1,6 +1,6 @@
 ---
 title: Imel
-revid: 143062
+revid: 143243
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant]
@@ -16,9 +16,13 @@ categories: [Adret NPCs, NPCs, Quests, The Ministry, NPCs located in the Etrean 
 
 ## Description
 
-Imel is an [Adret](Adret.md) NPC who resides in the territory of [the Sea of Etrea](The_Etrean_Sea.md), being a member of [the Ministry](The_Ministry.md) faction. You can find her leaning in the corner of a small and very attractive islet with four king statues, located in the Sea Highway near Lower Erisia, directly infront.
+Imel is an [Adret](Adret.md) NPC who resides in the territory of [the Sea of Etrea](The_Etrean_Sea.md), being a member of [the Ministry](The_Ministry.md) faction. You can find her leaning in the corner of a small islet with four king statues, located in the Sea Highway near Lower Erisia, directly infront of it.
 
-If you decide to talk to her, she will give you a mission to kill some enemies in [Erisia](Erisia.md), you must grip (kill) a player in Erisia and return to them to obtain reputation and rewards, if you complete it you will gain reputation with the Ministry and a payment for your deeds.
+If you decide to talk to her, she will give you a mission to kill an enemy in [Erisia](Erisia.md); you must grip (kill) a player in Erisia and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
+
+Imel's Location (Bottom left of screen)
+
+Location:
 
 ## Dialogue
 
