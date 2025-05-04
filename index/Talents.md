@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143063
+revid: 143167
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -629,7 +629,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Does not work on non-humanoid NPCs.
     -   Only works on m1's.
     -   Works only if you successfully hit someone with flourish. Doesn't work on parry, block, dodge hits.
-    -   Prerequisite: 50 Strength
+    -   Prerequisite: 25 Strength
 
 -   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 70 Willpower

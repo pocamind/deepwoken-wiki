@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 143083
+revid: 143133
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -18,7 +18,6 @@ The smell of gunpowder blankets this tropical paradise.
 
   
 
-  
 **Summer Isle** is a populated island in [The Aratel Sea](The_Aratel_Sea.md), it is the [Summer Company's](The_Summer_Company.md) headquarters and is the only location with access to firearms and Hunter's Braces for sale.
 
 One of the most eventful populated islands in the Eastern Luminant, having basically the essentials of starter islands: an inn, guards, training gear along with nice additions, those being ores, more sources of food and NPC events you wouldn't find at Etris, Isle Of Vigils or Greathive Aratel. A good place to quickly resupply your rations and repair/gather equipment, and enjoy the tropical scenery.
@@ -29,9 +28,7 @@ One of the most eventful populated islands in the Eastern Luminant, having basic
 
 #### _Gunsmiths_
 
-Main Article - [Guns](Guns.md)
-
-The Summer Isle's main attractions are the firearms, which can be found inside the main building at the gunsmith, the prices being:
+Main Article - [Guns](Guns.md) The Summer Isle's main attractions are the firearms, which can be found inside the main building at the gunsmith, the prices being:
 
 -   [Flintlocks](Flintlock.md) - 100 Notes. The first guns the player to access early-game, dealing 10 damage on hit.
 -   Req: 20 LHT.
@@ -164,7 +161,7 @@ The Summer Company cannon
 ### _The Cannon_
 
 -   An enormous cannon lying on the cliffs on the Summer Isle. If a player has negative reputation, the Summer Company will aim the cannon at them, and fire. It fires a hit-scan projectile, that launches players far away, deals a large amount of damage. A horn will play before firing, alerting the player to their imminent demise. The cannon will NOT fire if the player is swimming. If the player is sailing or on the island in front of summer isle, it will fire.
--   The cannon also serves as a fast travel point to the Songseeker Wilds. Provide 3 [Spider Eggs](Spider_Egg.md) to [The Guy](The_Guy.md) in the cave across from [Meteor Isle](Meteor_Isle.md) at Hive, and then climb up onto the cannon. Just touching the barrel places you inside, and shoots you over to the Songseeker WIlds.
+-   The cannon also serves as a fast travel point to the Songseeker Wilds. Provide 3 [Spider Eggs](Spider_Egg.md) to [The Guy](The_Guy.md) in the cave across from [Meteor Isle](Meteor_Isle.md) at Hive, and then climb up onto the cannon. Just touching the barrel places you inside, and shoots you over to the Songseeker Wilds.
 
 ### _[The Hidden Grove](The_Hidden_Grove.md)_
 
@@ -190,22 +187,22 @@ Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_
 -   Bandits spawning on the front entrance's stairs in a group of seven, ambushing the castle's entrance.
 -   You will be rewarded with a decent amount of XP upon killing all the seven bandits.
 
-#### Bandits V.S. Summer CompanySummericonfaction
+#### Bandits V.S. Summer Company [Summericonfaction](The_Summer_Company.md)
 
 -   Bandit Captains and Bandits fighting with Summer Company Thugs.
 -   You will be rewarded with a small amount of XP and a chest if you help the Summer Company Thugs win.
 
-#### Ignition Union V.S. Summer CompanySummericonfaction
+#### Ignition Union V.S. Summer Company [Summericonfaction](The_Summer_Company.md)
 
 -   Ignition Union Footsoldiers fighting with Summer Company Thugs.
 -   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter.
 
-#### Ministry MassacreMinistryiconfaction
+#### Ministry Massacre [Ministryiconfaction](The_Ministry.md)
 
 -   A [Ministry Scout](Ministry_Scout.md) sitting at a campfire with several Bandit corpses around them.
 -   You will be rewarded with a decent amount of XP and a chest upon killing the Ministry Scout.
 
-#### NomadsNavaeiconfaction V.S. The MinistryMinistryiconfaction
+#### Nomads [Navaeiconfaction](The_Children_of_Navae.md) V.S. The Ministry [Ministryiconfaction](The_Ministry.md)
 
 -   One [Eastern Tribal Leader](Eastern_Nomad_Leader.md) and one [Eastern Tribe Nomad](Eastern_Nomad.md) fighting off two [Ministry Scouts](Ministry_Scout.md).
 -   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter. Although Ministry Scouts do give more XP upon killing.

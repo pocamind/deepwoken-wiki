@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 142537
+revid: 143126
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions, The Ministry, Lore]
@@ -33,7 +33,7 @@ They enjoy recruiting people to kill others, sometimes to kill specific individu
 
 Everyone starts with a deep enemy reputation with the Ministry. The [Adret](Adret.md) aspect does not counteract this enough to have a neutral or above reputation.
 
-Doing the repeatable bounty quest(called "Party Trick") increases your reputation with the Ministry. This may be done by talking to either [Emel](Emel.md), [Imel](Imel.md), or [Rimil](Rimil.md) and killing a player in the required location.
+Doing the repeatable bounty quest (called "Party Trick") increases your reputation with the Ministry. This may be done by talking to either [Emel](Emel.md), [Imel](Imel.md), or [Rimil](Rimil.md) and killing a player in the required location.
 
 Dying to [Nostor](Nostor,_Master_of_Shadow.md) allows you to gain some reputation as well, but it also obviously results in you being wiped since its in [The Depths](The_Depths.md).
 
@@ -43,7 +43,7 @@ Going to the [Soothsayer](Soothsayer.md) in the [Starfield Tundra](Starfield_Tun
 
 There is only one [random event](Random_Encounters.md) in which you can assist The Ministry and gain reputation:
 
--   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) Navaeiconfaction vs [Ministry Scouts](Ministry_Scout.md)File:Eylisiconfactoin.png([Summer Isle](Summer_Isle.md))
+-   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) File:Children of Naveaeiconfaction.png  vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](The_Ministry.md) ([Summer Isle](Summer_Isle.md))
 
 Reputation with The Ministry is gained much more rapidly than that of most other factions.
 
@@ -61,5 +61,5 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 ## Trivia
 
--   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), [Ministry Agent](Ministry_Agent.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
+-   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), [Ministry Agent](Ministry_Agent.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Ministry Heartbleeders](Ministry_Heartspiller.md).
 -   The Ministry's emblem appears as a polar opposite to Lost Celtor, especially being associated in [drowning the latter's capital](Lost_Celtor.md) as well as the "arrow" motifs.

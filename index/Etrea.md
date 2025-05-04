@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 141238
+revid: 143117
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Factions, Etrea]
@@ -47,10 +47,10 @@ There are a substantial amount of ways to gain reputation with Etrea:
 
 On top of that, Etrea has many [random events](Random_Encounters.md) across the Luminants in which you may assist them and gain reputation:
 
--   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Authority Officers](Authority_Officer.md)Authorityiconfaction ([Erisia](Erisia.md))
--   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs [Authority Officer](Authority_Officer.md) Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
--   Vigil SwordsmenEtreaiconfaction vs [Hive Scouts](Hive_Scout.md)Hiveiconfaction([Starswept Valley](The_Starswept_Valley.md))
--   Etrean SoldiersEtreaiconfaction vs [Knives of Eylis](Knife_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Erisia](Erisia.md))
+-   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Authority Officer](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md))
+-   Vigil Swordsmen [Etreaiconfaction](Etrea.md) vs [Hive Scouts](Hive_Scout.md) [Hiveiconfaction](The_Hive.md) ([Starswept Valley](The_Starswept_Valley.md))
+-   Etrean Soldiers [Etreaiconfaction](Etrea.md) vs [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
 Etrea is among the factions with a [Bounty Board](Bounty_Hunting.md). They also have a reputation reset NPC, Nerin, located above the main entrance area of [Etris](Etris.md).
 
@@ -71,4 +71,4 @@ The fountain leading to the Hive
 
 -   Like other major factions, they seem to be based on a real-world culture, with Etrea being based on East Asian countries.
 -   In the Kings Garden, much like in Vigils and the hidden village, there is a fountain, it is located next to Lord Regents Palace
--   interestingly, the Etrea logo is the same as the Deepwoken logo
+-   interestingly, the Etrea logo is similar to the Deepwoken logo, only flipped.

@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 142979
+revid: 143189
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union]
@@ -31,10 +31,9 @@ The **Ignition Deepcrusher** is a Legendary Club and Sword; an invention of ferr
 
 This weapon has 1 passive by default:
 
-**Ferrofluid Structure** - Changing the stance of this weapon completely changes the playstyle.
+**Ferrofluid Structure** - Changing the stance of this weapon completely changes the playstyle:
 
 -   While used with 2 hands, this weapon is a Club dealing blunt damage and applying a [Metal Rod](Status_Effects.md) per M1. This is best suited for playstyles centered around applying and taking advantage of metal rods. Note compared to its other stance it has 8 weight and 11% extra base M1 DMG.
-
 -   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains innate bleed damage, increasing its unmodified damage by 30%. It also gains a slight swing speed increase compared to club. This stance is meant to be used if you are looking for more from your m1s at the expense of rod application on m1s, half of your weapon's posture damage and some base m1 damage (which may be multiplied with damage modifiers, unlike bleed damage).
 
 At requirements, this weapon deals 26.1 damage while in Club form, and 30.8 (23.7 + 7.1) while in Sword form.

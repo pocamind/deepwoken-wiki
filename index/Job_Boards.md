@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 140256
+revid: 143120
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests]
@@ -24,7 +24,7 @@ Territories controlled entirely by a faction (e.g. [Fort Merit](Fort_Merit.md) a
 
 **Erisia:**
 
-_Jobs relating to Erisia can be given by [Etrea](Etrea.md)Etreaiconfaction and [The Hundred Legions](The_Hundred_Legions.md)._
+_Jobs relating to Erisia can be given by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Hundred Legions](The_Hundred_Legions.md) ._
 
 -   **Authority Patrol**
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
@@ -40,7 +40,7 @@ _Jobs relating to Erisia can be given by [Etrea](Etrea.md)Etreaiconfaction and [
 
 **Songseeker Wilds:**
 
-_Jobs relating to the Songseeker Wilds can be given by [The Ignition Union](The_Ignition_Union.md) and [The Central Authority](The_Central_Authority.md)Authorityiconfaction._
+_Jobs relating to the Songseeker Wilds can be given by [The Ignition Union](The_Ignition_Union.md) and [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md) ._
 
 -   **Authority Patrol**
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
@@ -51,7 +51,7 @@ _Jobs relating to the Songseeker Wilds can be given by [The Ignition Union](The_
 
 **Summer Isle:**
 
-_Jobs relating to Summer Isle can be given by the [Summer Company](The_Summer_Company.md)Summericonfaction._
+_Jobs relating to Summer Isle can be given by the [Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md) ._
 
 -   **Security Detail**
     -   Tasks the player with taking on two [Bandits](Bandit.md) and one [Bandit Leader](Bandit_Leader.md).
@@ -62,7 +62,7 @@ _Jobs relating to Summer Isle can be given by the [Summer Company](The_Summer_Co
 
 **Starswept Valley:**
 
-_Jobs relating to the Starswept Valley can be given by [The Central Authority](The_Central_Authority.md)Authorityiconfaction, [The Hive](The_Hive.md)Hiveiconfaction, [The Ignition Union](The_Ignition_Union.md), [The Hundred Legions](The_Hundred_Legions.md) and The Children Of NavaeNavaeiconfaction._
+_Jobs relating to the Starswept Valley can be given by [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [The Hundred Legions](The_Hundred_Legions.md) and The Children Of Navae [Navaeiconfaction](The_Children_of_Navae.md) ._
 
 -   **Thresher Infestation**
     -   Tasks the player with defeating one [Thresher](Thresher.md).
@@ -75,7 +75,7 @@ _Jobs relating to the Starswept Valley can be given by [The Central Authority](T
 
 **Celtor:**
 
-_Jobs relating to The Depths can be given by [The Divers](The_Divers.md)Diversiconfaction and [The Ignition Union](The_Ignition_Union.md)._
+_Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md) and [The Ignition Union](The_Ignition_Union.md) ._
 
 -   **A Daunting Task**
     -   Tasks the player with Defeating one [Megalodaunt](Megalodaunt.md).

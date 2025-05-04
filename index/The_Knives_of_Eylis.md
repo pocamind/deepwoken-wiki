@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 133718
+revid: 143137
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Knives of Eylis]
@@ -37,7 +37,7 @@ If you are a Voidwalker, you may gain reputation by completing Knives of Eylis b
 
 If you are not a Voidwalker, there is only one event in which you may help the Knives of Eylis and gain reputation:
 
--   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs [Knives of Eylis](Knife_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
+-   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
 There is no dialogue that changes depending on the reputation with the Knives of Eylis. If you gain negative reputation with the Knives as a Voidwalker, you may lose access to certain amenities in the Voidheart, such as the [Antiquarian](Antiquarian.md) or [Banker](Banker.md).
 

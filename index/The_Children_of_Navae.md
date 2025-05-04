@@ -1,9 +1,9 @@
 ---
 title: The Children of Navae
-revid: 140490
+revid: 143135
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Factions, The Children of Navae]
+categories: [Factions, The Children of Navae]
 ---
 
 # The Children of Navae
@@ -35,7 +35,7 @@ Your reputation will also increase if you do [Beiruul's](Beiruul.md) quest in [M
 
 There is only one [random encounter](Random_Encounters.md) in which you may assist the Children of Navae and gain reputation:
 
--   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) Navaeiconfaction vs [Ministry Scouts](Ministry_Scout.md)File:Eylisiconfactoin.png([Summer Isle](Summer_Isle.md))
+-   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](The_Children_of_Navae.md)  vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](The_Ministry.md) ([Summer Isle](Summer_Isle.md))
 
 In the aftermath of this event, it is possible to give a Navaen hostage to the tribal leader if they are still alive.
 

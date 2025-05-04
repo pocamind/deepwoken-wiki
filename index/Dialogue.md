@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 73667
+revid: 143108
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,9 +26,9 @@ Reputation is a thing in Deepwoken. Depending on your actions, such as having a 
 
 ## Attribute Check Requirements
 
-[Ploom, The Flameworshipper (Etris)](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Flamecharmer_Ploom_Quest>) - Flamecharm Requirement: 40 | Charisma Requirement: 50
+Ploom, The Flameworshipper (Etris) - Flamecharm Requirement: 40 | Charisma Requirement: 50
 
-[Karliah, the Adret Diver (Etris)](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Diver_Escort_Quest>) - Charisma Requirement: 10 (Notes) / 20 (Persuade) / 50 (Rethink)
+Karliah, the Adret Diver (Etris) - Charisma Requirement: 10 (Notes) / 20 (Persuade) / 50 (Rethink)
 
 [Hobo](Hobo.md) ([Erisia](Erisia.md)), Chest Dialogue - Charisma Requirement: 50
 
@@ -36,7 +36,7 @@ Akira, Black Diver (The Depths, First Layer - Charisma Requirement: ~100)
 
 * * *
 
-## Etrea Reputation
+## [Etreaiconfaction](Etrea.md) Etrea Reputation
 
 ###### Read more about Reputation [here](Reputation.md)
 
@@ -52,7 +52,7 @@ Talking to Nerin
 -   Good Reputation - _\*The guard gives you a crooked smile.\*_ "Have a nice day friend. If you ever get into trouble, you know who to look for..."
 -   Hostile Reputation - "Ah, it seems you've made quite a name for yourself around these parts, friend."
 
-## Children of Navae
+## [Navaeiconfaction](The_Children_of_Navae.md) Children of Navae
 
 Talking to guards/camp masters
 
@@ -72,7 +72,7 @@ Talking to Guards
 -   Neutral Reputation - "Stay out of trouble traveller trouble lies everywhere here." | "The empire appreciates your contributions traveller."
 -   Unfriendly Reputation - "The Empire's wrath will come down on you if you stay on this path..." | "..."
 
-## Central Authority Reputation
+## [Authorityiconfaction](The_Central_Authority.md) Central Authority Reputation
 
 Talking to Guards
 
@@ -81,7 +81,7 @@ Talking to Guards
 -   Neutral Reputation - "Ah another one of the locals. Gods, why did I have to get a post in the East?" | "Make one wrong move Outlander, and you're done."
 -   Unfriendly Reputation - (You do not be unfriendly with them, you only either be allies or their enemies.)
 
-## Summer Company Reputation
+## [Summericonfaction](The_Summer_Company.md) Summer Company Reputation
 
 Talking to Guards
 
@@ -95,7 +95,7 @@ Talking to Nepo
 -   Good Reputation - "_\*The man barely looks up from his book, scowling at you.\*_ "I'm on break and your nose seems to be clean, keep it that way."
 -   Hostile Reputation - "_\*The man barely looks up from his book, scowling at you.\*_ "I'm on break, what do you want?"
 
-## Hive Reputation
+## [Hiveiconfaction](The_Hive.md) Hive Reputation
 
 Talking to Guards
 
@@ -109,7 +109,7 @@ Talking to Zirik
 -   Good Reputation - _\*They seem to be pretending to look very interested in some plants.\*_ "Wow! What beautiful grasses these are. Gorgeous. Simply marvellous."
 -   Hostile Reputation - "Placeholder"
 
-## Diver Reputation
+## [Diversiconfaction](The_Divers.md) Diver Reputation
 
 Talking to Guards
 

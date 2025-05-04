@@ -1,6 +1,6 @@
 ---
 title: Eres
-revid: 131726
+revid: 143122
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Eastern Luminant]
@@ -20,7 +20,7 @@ categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Eastern Luminant]
 
 ## Description
 
-An [Etrean](Etrean.md) found in the settlement on [Meteor Isle](Meteor_Isle.md), Eres was part of an [Etrean Navy](Etrean_Soldier.md) unit that was captured by [The Central Authority](The_Central_Authority.md) in [Aratel](The_Aratel_Sea.md) and imprisoned at [Fort Merit](Fort_Merit.md). He alludes to being rescued by the settlers on Meteor Isle and has dedicated the remainder of his life to helping others escape the horrors of the war. He also talks about his relationship with [Sekh](Sekh.md), a [Vesperian](Vesperian.md) [Hive Scout](Hive_Scout.md) who also resides on Meteor Isle.
+Eres is an [Etrean](Etrean.md) NPC, his racial variant appears to be Mamba. Found in the settlement on [Meteor Isle](Meteor_Isle.md), Eres was part of an [Etrean Navy](Etrean_Soldier.md) unit that was captured by [The Central Authority](The_Central_Authority.md) in [Aratel](The_Aratel_Sea.md) and imprisoned at [Fort Merit](Fort_Merit.md). He alludes to being rescued by the settlers on Meteor Isle and has dedicated the remainder of his life to helping others escape the horrors of the war. He also talks about his relationship with [Sekh](Sekh.md), a [Vesperian](Vesperian.md) [Hive Scout](Hive_Scout.md) who also resides on Meteor Isle.
 
 ## Dialogue
 
@@ -288,7 +288,6 @@ It is possible to unlock unique dialogue with Eres if you have already spoken to
 
 ## Trivia
 
--   Eres' racial variant appears to be Mamba, with black hair, red irises and yellow sclera.
 -   Based on Eres' story, some of the [Etrean prisoners](Etrean_Guardsman_Hostage.md) in Fort Merit that the player can rescue may be his friends.
     -   However, it is equally likely that - as Eres fears - his friends have already been executed and the Etreans in Fort Merit are from a different unit.
 -   Eres' prayer [references](Lore.md) a "king", who could be the Fifth King of Etrea - Eres asks for help resisting the "ocean's call", and it is said that the Fifth King could cut through the waves themselves. Finally, the prayer references "clouded sight", which could be [The Lord Regent](The_Lord_Regent.md)'s mental veil.

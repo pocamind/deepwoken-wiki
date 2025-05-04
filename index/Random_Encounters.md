@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 140448
+revid: 143105
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -29,10 +29,10 @@ These events occur randomly in the world or within a location.
 
 Groups of NPCs from different factions will spawn in Etrean Luminant and attack each other. Helping a side will usually reward you with their respective reputation.
 
--   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Authority Officers](Authority_Officer.md)Authorityiconfaction ([Erisia](Erisia.md))
--   [Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
--   [Legion Soldiers](Legion_Soldier.md) vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
--   [Legion Captain](Legion_Captain.md) + Legion Soldier vs Authority OfficersAuthorityiconfaction ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Erisia](Erisia.md))
+-   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs Authority Officers [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md))
+-   [Legion Soldiers](Legion_Soldier.md) vs Authority Officers [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md))
+-   [Legion Captain](Legion_Captain.md) + Legion Soldier vs Authority Officers [Authorityiconfaction](The_Central_Authority.md) ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))
 
 A Bandit Camp in Erisia
 
@@ -52,7 +52,7 @@ A group of three [thieves](Thief.md), recognizable by their black armor and the 
 
 #### Knives of Eylis
 
-Three to four [Knives of Eylis](Knife_of_Eylis.md) are escorting a captured a [Navean Nomad Hostage](Navaen_Hostage.md) in [Upper Erisia](Upper_Erisia.md). They wield [Whaling Knives](Whaling_Knife.md) and the [leader](Subtle_Knife_of_Eylis.md) of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP, but killing them also gives negative [Reputations](Reputation.md) in [Knives of Eylis](The_Knives_of_Eylis.md). Occurs at Upper Erisia. Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
+Three to four [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) are escorting a captured a [Navean Nomad Hostage](Navaen_Hostage.md) [Navaeiconfaction](The_Children_of_Navae.md) in [Upper Erisia](Upper_Erisia.md). They wield [Whaling Knives](Whaling_Knife.md) and the [leader](Subtle_Knife_of_Eylis.md) of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP, but killing them also gives negative [Reputations](Reputation.md) in [Knives of Eylis](The_Knives_of_Eylis.md). Occurs at Upper Erisia. Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
 
 The hostage is no different from any other Navaen nomad hostage, and you may give them into the [Eastern Camp Master](Cheral.md).
 
@@ -128,11 +128,11 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is 
 
 Groups of NPCs from different factions will spawn in Eastern Luminant and attack each other. Helping a side will usually reward you with their respective reputation.
 
--   [Summer Company Guards](Summer_Company_Guard.md) Summericonfaction vs [Ignition Union Fighters](Ignition_Union_Fighter.md) ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
--   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) Navaeiconfaction vs [Ministry Scouts](Ministry_Scout.md)File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
--   [Vigil Swordsmen](Vigil_Swordsman.md)Etreaiconfaction vs [Hive Scouts](Hive_Scout.md)Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
--   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
--   [Hive Construct](Hive_Construct.md) Hiveiconfaction vs [Authority Captain](Authority_Captain.md) Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
+-   [Summer Company Guards](Summer_Company_Guard.md) [Summericonfaction](The_Summer_Company.md) vs [Ignition Union Fighters](Ignition_Union_Fighter.md) ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
+-   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](The_Children_of_Navae.md) vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](The_Ministry.md) ([Summer Isle](Summer_Isle.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Hive Scouts](Hive_Scout.md) [Hiveiconfaction](The_Hive.md) ([Starswept Valley](The_Starswept_Valley.md))
+-   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md) ([Starswept Valley](The_Starswept_Valley.md))
+-   [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md) ([Starswept Valley](The_Starswept_Valley.md))
 
 #### Songseeker
 
@@ -183,7 +183,7 @@ Across the Luminants, events will appear in the seas. Some are challenges, some 
 
 #### Fights between Factions
 
-[Etrean Soldiers](Etrean_Soldier.md)Etreaiconfaction vs [Knives of Eylis](Knife_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
+[Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
 #### Islands/Outposts
 

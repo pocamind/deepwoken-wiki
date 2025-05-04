@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 143080
+revid: 143123
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -724,13 +724,13 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 ## Factions
 
-### The Kingdom of Etrea
+### The Kingdom of Etrea [Etreaiconfaction](Etrea.md)
 
 -   **Territory:** _Etrea, Etris, Etris Docks, Isle of Vigils_
 -   **Encountered In:** _The Aratel Sea, Aratel Island, Erisia Island_
 -   **Attunements:** Galebreathe
--   **Alliances:** _Vigil of Winds (Neutral), The Ministry, Contractors_
--   **Enemies:** _The Central Authority, The Hive_, _The Knives of Eylis_
+-   **Alliances:** _Vigil of Winds (Neutral), The Ministry [Ministryiconfaction](The_Ministry.md), Contractors_
+-   **Enemies:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md), The Hive [Hiveiconfaction](The_Hive.md)_, _The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)_
 -   **Lore Sources:** _Etris_
 
 -   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
@@ -749,13 +749,13 @@ An Etrean Guard, part of the Nation of Etrea
 
   
 
-### The Children of Navae
+### The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)
 
 -   **Territory:** _N/A, Meteor Isle_
 -   **Encountered In:** _Etrean Wilds, Summer Isle_
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown/The Hive(?) (Currently Negotiating on Meteor Isle)_
--   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Knives of Eylis, The Central Authority_
+-   **Enemies:** _The Ministry [Ministryiconfaction](The_Ministry.md), The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md), The Central Authority [Authorityiconfaction](The_Central_Authority.md)_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch\_Mage (Discord)_
 -   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other aspects also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
 -   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
@@ -774,7 +774,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe, Thundercall_
 -   **Alliances:** _N/A_
--   **Enemies:** _[The Central Authority](The_Central_Authority.md)_
+-   **Enemies:** _[The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)_
 -   **Lore Sources:** _[Amara](Amara.md), Brutus_
 
 -   A military organization from the [Western Luminant](Luminants.md).
@@ -791,15 +791,15 @@ Amara, a Member of The Legion.
 
   
 
-### The Summer Company
+### The Summer Company [Summericonfaction](The_Summer_Company.md)
 
 _"Aye, thanks for the help. The Authority better start sending some help before we start declining their firearm contracts." - Scope_
 
 -   **Territory:** _[Summer Isle](Summer_Isle.md)_
 -   **Encountered In:** _[Summer Isle](Summer_Isle.md), [Miner’s Landing](<Miner's_Landing.md>)_
 -   **Attunements:** _N/A_
--   **Alliances:** _[The Central Authority](The_Central_Authority.md) (Business Relations)_
--   **Enemies:** _The Ignition Union, [The Ministry](Minityrsa.md) File:Eylisiconfactoin.png_
+-   **Alliances:** _[The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md) (Business Relations)_
+-   **Enemies:** _The Ignition Union, [The Ministry](Minityrsa.md) [Ministryiconfaction](The_Ministry.md)_
 -   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned), [Arch\_Mage](https://www.roblox.com/users/4416634/profile) (Discord)_
 
 -   A Faction that resides at Summer Isle. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
@@ -824,7 +824,7 @@ A Summer Company Member.
 
   
 
-### The Ministry File:Ministryiconfactoin.png
+### The Ministry [Ministryiconfaction](The_Ministry.md)
 
 _"Celtor will repeat itself here... The world will fall under The Depths..." - Dark Mage Cultist_
 
@@ -832,7 +832,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _[Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md)_
 -   **Alliances:** _Etrea (Neutral)_
--   **Enemies:** _[Ignition Union](The_Ignition_Union.md), The Children Of Navae, [The Summer Company](The_Summer_Company.md), The Central Authority._
+-   **Enemies:** _[Ignition Union](The_Ignition_Union.md), The Children Of Navae [Navaeiconfaction](The_Children_of_Navae.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), The Central Authority._
 -   **Lore Sources:**
 
 -   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance and ability to fade into the background of the world stage.
@@ -854,13 +854,13 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 
 A Dark Mage, located in Minityrsa.
 
-### The Knives of Eylis
+### The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)
 
 -   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia, Songseeker Wilds_
 -   **Attunements:** _None_
--   **Alliances:** _The Central Authority (Business Relations)_
--   **Enemies:** _The Kingdom of Etrea, The Children of Navae_
+-   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md) (Business Relations)_
+-   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)_
 -   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Eylis, The Punished Dreamer (NPC)._
 
 -   The Knives of Eylis are an organization of ruthless, randomly hired mercenaries that work under Eylis, the Punished Dreamer.
@@ -877,8 +877,8 @@ A Dark Mage, located in Minityrsa.
 -   **Territory:** _Miner's Landing, The Chariot's Spire, The Frontier Furnace._
 -   **Encountered In:** _Summer Isle, Celtor Wastes, Miner's Landing, The Chariot's Spire, The Frontier Furnace_
 -   **Attunements:** _Flamecharm, Thundercall, & Ironsing_
--   **Alliances:** _The Central Authority (Business Relations)_
--   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
+-   **Alliances:** _The Central Authority (Business Relations) [Authorityiconfaction](The_Central_Authority.md)_
+-   **Enemies:** _The Summer Company [Summericonfaction](The_Summer_Company.md), The Divers [Diversiconfaction](The_Divers.md)_, _The Ministry [Ministryiconfaction](The_Ministry.md)_
 -   **Lore Sources:** _Arcwarder (Description), Darksteel Greatsword (Description), Deepdelver Gamma (Dialogue)_
 
 -   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[10\]](#cite-note-dsgs-10) and Railblade.[\[11\]](#cite-note-railblade-11)
@@ -893,13 +893,13 @@ A Dark Mage, located in Minityrsa.
 -   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[12\]](#cite-note-alpha-12) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[2\]](#cite-note-arch-2)
     -   Furthermore, the Union is shown to employ at least one child soldier in [Epsi](Epsi.md), something not even the Authority stoops low enough to do.
 
-### The Central Authority
+### The Central Authority [Authorityiconfaction](The_Central_Authority.md)
 
 -   **Territory:** _Fort Merit, Central Luminant, Markor_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
--   **Alliances:** _The Divers (Business relation), The Summer Company (Business relations), The Ignition Union (Business relations)_, _The Knives of Eylis_
--   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundred Legions_,
+-   **Alliances:** _The Divers (Business relation) [Diversiconfaction](The_Divers.md), The Summer Company (Business relations) [Summericonfaction](The_Summer_Company.md), The Ignition Union (Business relations)_, _The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)_
+-   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae (Captives) [Navaeiconfaction](The_Children_of_Navae.md), The Hundred Legions_,
 -   **Lore Sources:** _Authority Interrogator Talents, Kelsius, Weapon Descriptions, Scope, Random Encounters_
 
 -   The Authority is an Empire and a faction of "Peacekeepers."
@@ -937,12 +937,12 @@ An Authority Captain
 
   
 
-### The Hive
+### The Hive [Hiveiconfaction](The_Hive.md)
 
 -   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
 -   **Attunements:** _Flamecharm, Lifeweave_
--   **Alliances:** _The Children of Navae_ (Neutral/Negotiating.)
--   **Enemies:** _The Kingdom of Etrea_
+-   **Alliances:** _The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)_ (Neutral/Negotiating.)
+-   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md)_
 -   **Lore Sources:** _Regek_
 
 -   They are lead by various Hivelords that act under a Greatlord.[\[13\]](#cite-note-yaya-13)
@@ -963,11 +963,11 @@ An Authority Captain
 -   Their society is structured like insects, using terms such as Hive and Drone.
 -   The Authority are _not_ at war with the Hive, though tensions are very high between the two and lethal skirmishes aren't uncommon.
 
-### The Divers
+### The Divers [Diversiconfaction](The_Divers.md)
 
 -   **Territory:** _Markor Citadel, Castle Light._
 -   **Attunements:** _Flamecharm, Frostdraw, Galebreathe, Thundercall and Shadowcast_
--   **Alliances:** _The Central Authority_ _(Business Relations)_
+-   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md)_ _(Business Relations)_
 -   **Enemies:** Ignition Union
 -   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord), Klaris (Dialogue). Dr Carrion (Dialogue), Divers Outfit Schematics (Description)._
 
@@ -1012,7 +1012,7 @@ An Authority Captain
 -   **Territory:** _The Isle of Vigils_
 -   **Encountered In:** _The Isle of Vigils_
 -   **Attunements:** _Galebreathe_
--   **Alliances:** _The Kingdom of Etrea_
+-   **Alliances:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md)_
 -   **Enemies:** _N/A_
 -   **Lore Sources:** _Apprentice Kj_
 -   A force of katana-weilding swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
@@ -1028,8 +1028,8 @@ An Authority Captain
 -   **Territory:** _Unknown_
 -   **Encountered In:** _Etris_
 -   **Attunements:** _Unknown_
--   **Alliances:** _The Ministry File:Eylisiconfactoin.png_
--   **Enemies:** _The Central Authority, The Warmasters, The Divers._
+-   **Alliances:** _The Ministry [Ministryiconfaction](The_Ministry.md)_
+-   **Enemies:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md), The Warmasters, The Divers [Diversiconfaction](The_Divers.md) ._
 -   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, ragoozer (Discord)_
 
 -   Contractors are a group of individuals that have taken an Oath with a Prophet of the Ministry.
@@ -1059,15 +1059,15 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   **Territory:** _None_
 -   **Attunements:** _All_
--   **Alliances:** _The Divers_
+-   **Alliances:** _The Divers [Diversiconfaction](The_Divers.md)_
 -   **Enemies:** N/A
 -   **Lore Sources:** _Carrion (Discord), The Apothecary [Discord Server](https://discord.gg/4nFgupKP)._
 
 -   A group of alchemists who follow Dr. Carrion and his experiments sharing one same goal.
--   Former subdivision of the Divers, removed after certain actions, though they still remain on good terms. Many but not all members of the Apothecary are Divers, with Dr Carrion even being a Black Diver.
+-   Former subdivision of the Divers, removed after certain actions, though they still remain on good terms. Many but not all members of the Apothecary are Divers, with Dr. Carrion even being a Black Diver.
 -   Their ranks consist of Bluecap Officers and regular Browncap members. Yes they are named after mushrooms.
 -   The Goal of the Apothecary is to create the Moonseye Vigor, said to be able to "transcend" people.
-    -   Dr Carrion himself drank a prototype of the Moonseye Vigor, driving him into insanity and giving him green eyes.
+    -   Dr. Carrion himself drank a prototype of the Moonseye Vigor, driving him into insanity and giving him green eyes.
 
 ### Songseekers
 
@@ -1141,8 +1141,8 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   **Encountered in:** _Central Luminant(?)_
 -   **Attunements:** _Unknown_
--   **Alliances:** _The Central Authority(?)_
--   **Enemies:** _Contractors, The Ministry(?)_
+-   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md) (?)_
+-   **Enemies:** _Contractors, The Ministry [Ministryiconfaction](The_Ministry.md) (?)_
 -   **Lore Sources:** _ragoozer, Warden Jericho Journal, Windrunner._
 
 -   Creators and source of power of the Warmaster Oath.[\[1\]](#cite-note-rag-1)
@@ -1456,7 +1456,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 **Lore Sources:** _Vyrelda_
 
 -   The power to control, manipulate, and conjure your own blood.
--   It is used as both a Ministry Oath and an Attunement.
+-   It is used as both a Ministry [Ministryiconfaction](The_Ministry.md) Oath and an Attunement.
     -   Vyrelda states that as an Oath, it is destructive and drains others lifeforce, but as an Attunement it is able to be "both a salve and a weapon".
 -   Bloodrend is only mainly accessible to those who swear an Oath to the Second Prophet of the Ministry, though the vows of the Oath can be changed, as in the case of Chaser and Vyrelda,
 
@@ -1500,7 +1500,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 -   People who swore themselves to never be bound by an Oath, granting them a convincing illusion of freedom.
 -   Due to the contradictory value of the Oath, it is believed that 'Oathless' is one of the weaker Oaths in the Deepwoken world.
-    -   It is worth noting that while it is true that the notion of the Oath is contradictory, this does not subvert it's effects. In other words, the Oath matches it's vows, hence the relevancy of it's legitimacy is not affected since it is the notion and illusion that matters, as long as such a notion isn't shattered.
+    -   It is worth noting that while it is true that the notion of the Oath is contradictory, this does not subvert its effects. In other words, the Oath matches its vows, hence the relevancy of its legitimacy is not affected since it is the notion and illusion that matters, as long as such a notion isn't shattered.
 -   Arch\_Mage has mentioned that Oathless is the most powerful Oath there is, though the canon-value of this claim remains to be seen.
 
 ### Jetstriker
@@ -1566,12 +1566,12 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 ### Contractors
 
--   Contractors are people who had sworn an Oath to any of the Nine Prophets of the Ministry, granting them a fraction of what that Prophet is capable of.
+-   Contractors are people who had sworn an Oath to any of the Nine Prophets of The Ministry [Ministryiconfaction](The_Ministry.md), granting them a fraction of what that Prophet is capable of.
 -   The Powers granted to a Contractor are not universal, as swearing the Oath to a different prophet may yield different results.
 -   Since the Oath is directly tied to the will of the Prophet, getting stronger means completing errands for them. In the case of Zi'eer, you are only tasked with banishing those who had sworn servitude under other causes in the Depths.
 -   The Oath effectively binds anyone in strict servitude of that Prophet and that Prophet alone. In other words, they become puppets and pawns of the Prophet's will.
     -   However, as explained by Vyrelda (and Chaser who she elaborates on), who are under Oath of the Second Prophet, one can be given more liberty if judged strong enough.
--   Similar to how Blindseer and Visionshaper are two Oaths that are against each other. Contractors are a polar opposite Warmasters.
+-   Similar to how Blindseer and Visionshaper are two Oaths that are against each other, Contractors are a polar opposite of Warmasters.
 
 ### Warmasters
 
@@ -1586,7 +1586,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 -   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'[\[1\]](#cite-note-rag-1)
     -   A common theme in the world of Deepwoken is the fact that consuming something of power grants a transfer of power from the consumed, to the consuming.
--   There are two known Deepwoken, Amorus Pleeksty and The First Prophet of the Ministry.[\[1\]](#cite-note-rag-1)
+-   There are two known Deepwoken, Amorus Pleeksty and The First Prophet of the Ministry [Ministryiconfaction](The_Ministry.md) .[\[1\]](#cite-note-rag-1)
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of.[\[1\]](#cite-note-rag-1)
     -   For example, Amorus Pleeksty became incredibly in tune with fire to the point of being able to communicate with it after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
 -   Becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
@@ -2004,7 +2004,7 @@ Though technically a blank slate of varying aspects and abilities, even the play
 
 -   Every Player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry, learned through various means.
     -   In the Castaway Origin, they learned this with the training of their captain.
-    -   In the Deepbound Origin, they presumably went through standard Diver training.
+    -   In the Deepbound Origin, they presumably went through standard Diver training, and even grew up in the Depths.
     -   In the Voidwalker Origin, they were presumably trained by the Knives of Eylis.
     -   In the Lone Warrior Origin, they have fuzzy memories of combat.
     -   In the Ignition Union Origin, they've gone through standard Union training, with additional knowledge of caves such as the [Saramaed Hollow](Saramaed_Hollow.md)

@@ -1,9 +1,9 @@
 ---
 title: Enemies
-revid: 139621
+revid: 143115
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Enemies]
+categories: [Enemies]
 ---
 
 # Enemies
@@ -32,25 +32,25 @@ This page consists of Humanoid NPCs that fight back or attack you on sight. Incl
 
 ## Reputable Factions
 
-**The Ministry File:Eylisiconfactoin.png**
+**The Ministry [Ministryiconfaction](The_Ministry.md)**
 
-**The Summer Company**
+**The Summer Company [Summericonfaction](The_Summer_Company.md)**
 
 **The Ignition Union**
 
-**Isle Of Vigils**
+**Isle Of Vigils [Etreaiconfaction](Etrea.md)**
 
-**Etrea**
+**Etrea [Etreaiconfaction](Etrea.md)**
 
-**Knives of Eylis**
+**Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)**
 
-**The Central Authority**
+**The Central Authority [Authorityiconfaction](The_Central_Authority.md)**
 
-**The Hive**
+**The Hive [Hiveiconfaction](The_Hive.md)**
 
-**The Divers**
+**The Divers [Diversiconfaction](The_Divers.md)**
 
-**The Children of Navae**
+**The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)**
 
 **The Hundred Legions**
 
@@ -62,17 +62,17 @@ _Main Article - [Faction Ambushes](Faction_Ambushes.md)_
 
 These are the NPCS that factions will send after you if you have low enough reputation with them.
 
-**The Ministry File:Eylisiconfactoin.png**
+**The Ministry [Ministryiconfaction](The_Ministry.md)**
 
-**The Summer Company**
+**The Summer Company [Summericonfaction](The_Summer_Company.md)**
 
 **The Ignition Union**
 
-**Etrea**
+**Etrea [Etreaiconfaction](Etrea.md)**
 
-**The Central Authority**
+**The Central Authority [Authorityiconfaction](The_Central_Authority.md)**
 
-**The Hive**
+**The Hive [Hiveiconfaction](The_Hive.md)**
 
 **The Legion**
 
@@ -82,11 +82,11 @@ These are the NPCS that factions will send after you if you have low enough repu
 
 ## Bosses/Unique Enemies
 
-**Etrea**
+**Etrea [Etreaiconfaction](Etrea.md)**
 
 **The Ignition Union**
 
-**The Ministry File:Eylisiconfactoin.png**
+**The Ministry [Etreaiconfaction](Etrea.md)**
 
 **Attunement Trainers**
 
