@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 143254
+revid: 143260
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -148,15 +148,14 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
-  LHT: Needs more testing.<br>
-  Med/HVY: 1% armor drain per 4.725 SCALED DMG. 1% armor drain per 6.3 SCALED DMG (if steadfast)<br>
+  Armor drain for weapons within 27-40 DMG range: 1% armor drain per 4.725 SCALED DMG or 6.3 SCALED DMG (Steadfast)<br>
   <u><b>ARMOR DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
-  Armor drain values are <b>fixed</b> to&nbsp;% dmg and doesn't scale with armor durability.<br>
-  Metal curves your armor drain If your DMG is too high, so you can't drain all your enemy's armor in few hits<br>
-  As example 56 DMG heavy gets 8.3 DMG/1% armor scaling, 45 DMG 6.66 DMG/1% armor, 40.2 DMG 6.3 DMG/1% armor (tested with steadfast)<br>
-  Works on any enemy/monster even on those without armor<br>
-  No PVE scale.<br>
-  Drains monster armor</p></div></td>
+  Armor drain values are <b>fixed</b> to&nbsp;% DMG and doesn't scale with armor durability.<br>
+  Metal has diminishing returns, so you can't drain all your enemy's armor in few hits<br>
+  As example 56 DMG heavy gets 8.3 DMG/1% armor scaling, 45 DMG 6.66 DMG/1% armor, 40.2 DMG 6.3 DMG/1% armor (Steadfast values)<br>
+  You can still steal armor even if target has none.<br>
+  Doesn't drain mobs armor<br>
+  </p></div></td>
   <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>
 <tr>
