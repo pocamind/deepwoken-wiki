@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 142885
+revid: 143357
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals]
@@ -45,7 +45,7 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   One of the few greatswords that have no endlag on M1s (some others being the [Kyrsieger](Kyrsieger.md), [Enforcer's Blade](<Enforcer's_Blade.md>), and [Railblade](Railblade.md) just to name a few).
 -   Deals 37 M1 damage at 75 HVY, and 40.8 M1 damage at 100 HVY.
--   Similar to a [Flamecharm](Flamecharm.md) Mantra, both parts of First Light's critical will receive a damage buff during the rain unless you have the [Unyeilding Inferno](Talents.md#flamecharmer) Talent.
+-   Similar to a [Flamecharm](Flamecharm.md) Mantra, both parts of First Light's critical will receive a damage debuff during the rain unless you have the [Unyielding Inferno](Talents.md#flamecharmer) Talent.
 -   First Light is one of two weapons to have a critical that scales solely on an attunement stat despite the weapon not requiring said attunement to wield. The other being the [Krulian Knife](Krulian_Knife.md).
 -   The special animations for this sword may be the old Railblade animations because when you spawn in Visionshaper clones, they will utilize the older animations of the First Light.
 -   The weapon originally had it's own unique M1 animations, but they were removed due to being "unfinished and buggy". First Light was later granted new animations; the ones we have today.

@@ -1,18 +1,14 @@
 ---
 title: Food
-revid: 140531
+revid: 143367
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Food, Mechanics]
+categories: [Food, Mechanics]
 ---
 
 # Food
 
 ## Description
-
-File:Reinforced Food Bar.png
-
-An example of a Reinforced Hunger bar
 
 Food is a necessary need for your Character's survival. Both food and water drain at a rate of 1.25% per minute.
 
@@ -39,8 +35,6 @@ _One needs food and drink to live, much like you. Without it, one will die a slo
 
 ## Food Boosts
 
-File:SlowedStomach.png
-
 Some foods fill a portion of your Hunger bar with a different color, known as Reinforced Hunger.
 
 -   Reinforced Hunger grants certain buffs, signified by a specially colored secondary bar on top of the normal Hunger bar until it's depleted.
@@ -50,12 +44,12 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 
 ### Boosts
 
--   _"A soothing meal to recover your strength!"_ This buff increases the user's health regeneration speed. (17.5% of your base regen added on top of your current health regen)
+-   _"A hearty meal that'll empower your melee strikes!"_ The Power buff increases the user's melee damage. (5% weapon damage buff)
+-   _"An energising meal that'll empower your mantras!"_ The Enchant buff increases the user's mantra damage. (5% mantra damage buff)
+-   _"A complex meal that'll get you moving!"_ The Speed buff increases your sprinting speed. (5% running speed buff)
+-   _"An aromatic meal to cultivate your focus!"_ The Ether buff increases the user's ether regeneration speed. (Doesn't work as of 2/26/25)
+-   _"A soothing meal to recover your strength!"_ The Health buff increases the user's health regeneration speed. (17.5% of your base regen added on top of your current health regen)
 -   _"A filling meal to keep you fed for longer!"_ This buff significantly decreases the user's starvation speed. (10% reduced natural hunger loss)
--   _"An energising meal that'll empower your mantras!"_ This buff increases the user's mantra damage. (5% mantra damage buff)
--   _"A hearty meal that'll empower your melee strikes!"_ This buff increases the user's melee damage. (5% weapon damage buff)
--   _"An aromatic meal to cultivate your focus!"_ This buff increases the user's ether regeneration speed. (Doesn't work as of 2/26/25)
--   _"A complex meal that'll get you moving!"_ This buff increases your sprinting speed. (5% running speed buff)
 
 Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of Talents.
 

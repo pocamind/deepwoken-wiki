@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 140516
+revid: 143341
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -16,7 +16,314 @@ The update highest on the webpage (the one right below the legend) is the most r
 
   
 
-## **March 31st, 2025**
+## **May 2nd, 2025**
+
+**Content & Systems**  
+• New Layer 2 boss theme: ELEISON, composed by our talented Naktigonis  
+• New Layer 2 theme: 11:59, also composed by Naktigonis  
+• New Common Resonance: Paralytic Dust  
+• New Hybrid Talents: Flashboil, Boiling Point  
+  
+**Balancing & Tweaks**  
+• You can no longer use the banker while carrying other players or mobs. Fixes being able to hold players hostage in the middle of ganks forever  
+• Fixed being able to cast Resonances while stunned or attacking  
+• Nemesis critical no longer procs m1 talents  
+• Starkindred Air Dash passive is now disabled in The Depths  
+• Hive Lifevents', aka Jump Pads' cooldowns are now handled per player instead of being global  
+• Heavenly Wind is now 360 blockable  
+• Death from Above no longer has hyperarmor  
+• Fixed Deferred enchant damage being unaffected by the global damage multiplier soft cap. Previously for Deferred, a total damage modifier of e. g. +70% counted as a damage multiplier of 1.7x instead of being reduced to 1.6x  
+• Symbiotic Sustain cooldown increased  
+• The first hit of Wretched Mawblades' critical now deals 15% less damage  
+• Increased the cooldown of both Bloodfouler criticals (6/7 -> 8)  
+• True Seraph's Spear Medium Weapon requirement reduced (90 -> 80)  
+• Reduced posture damage on Cavalry Saber and Officer Saber criticals by 40%  
+• Reduced Alloyed Katana Weight (6 -> 5)  
+• Lowered Broodalloy Cestus Damage (16.5 -> 15.5)  
+• Increased Twincleave's Ether cost  
+• Royal Etrean Guard's 5% Slash Resistance has been removed  
+• Lumensplitter critical damage & posture reduced by 30%  
+• Twinblade critical hitbox increased  
+• Reduced the effectiveness of the swingspeed debuff applied by Winded (10% -> 5%) and Specter Winded (20% -> 15%)  
+• Increased the spawn chances of the Ministry Heartspiller event for some areas  
+• Red Death's unique grip effect now also plays when killing mobs  
+• All weather besides Rain no longer reduce music volume by 50%. Rain now only reduces music volume by 20%  
+  
+**Bugfixes & Optimization**  
+• Fixed Scion of Ethiron's wind wells not being dispersable, which caused his ultimate attack to be uncancellable  
+• Fixed Scion of Ethiron's blinding attack not blinding you  
+• Slightly tweaked Scion of Ethiron's ultimate attack visual  
+• Fixed Saint Stance related bugs  
+• Fixed Saintsworn Oath skip not costing knowledge  
+• Fixed Rising Thunder not doing proper damage on follow-up  
+• Further toned down the impact of Lava Eruption vfx on Photosensitive Mode  
+• Optimized snow weather
+
+### _**Patch 2.2.6a**_
+
+**Hotfixes**  
+• Fixed Paralytic Dust not applying its 90% damage reduction on paralyzed targets  
+• Fixed Corrupted Paralytic Dust not applying corruption downsides  
+• Reduced the hitbox sizes on Paralytic Dust  
+• Fixed all combat themes sharing the same volume. Before, a number of combat themes, notably INSOMNIA and A God, Manufactured would play at low volumes  
+• Fixed Regarde not being fightable
+
+## **April 26th, 2025**
+
+**Hunks of Chunks**  
+• Implemented a new chunking/spatial indexing system for character positioning queries. With this new system, mobs have been majorly optimized. Chunks with no players nearby are marked as inactive, indicating to all the mobs inside that they don't need to run any checks or look for any enemies around them. This is a major improvement compared to the current system where, by necessity, mobs would perform distance and vision checks on characters on the other side of the map. Now, mobs will only check nearby chunks, which effectively reduces the performance cost of sleeping mobs to nearly zero, and greatly reduces the lag from awake mobs searching for enemies  
+• **TL;DR** we substantially rewrote a whole load of the core code for mobs to be _MUCH_ more performant. This new system will also open the way for us to optimize other areas of the game like hitboxes, hit registration, and AoE effects  
+• In particular, the overworld will see the biggest performance improvements from this system, with the hope being that we can add more islands without worrying too much about performance. With the previous system, if no one was present on an island, it'd still have a performance cost from whatever mobs were present there. This should greatly reduce the performance cost of areas that players aren't occupying  
+  
+**Invisibility Rewrite**  
+• Added a new system for managing invisibility/transparency that aims to fix all of the recurring issues in the game with invisibility not working correctly  
+• The new system is considerably better optimized, more reliable, has built-in support for multiple dynamic sources of transparency/invisibility, and has built-in support for trails/decals/particles/etc.  
+• Since it's a whole system and not just a fix to an individual ability, it means any bugs we fix with invisibility should apply to all effects/abilities that use the new system  
+• The new invisibility system also innately fixes the issue where players that joined your server after you went invisible were able to see you  
+  
+**Content & Systems**  
+• New Blood/Shadow Hybrid LW: Red Death  
+• First Light has been remodelled and visually overhauled  
+• Added full UTF-8 support to dialogue  
+• Added Saintsworn Oath Skip  
+  
+**Balancing & Tweaks**  
+• Slightly increased First Light's critical damage, but critical now ends early if the initial hit is parried  
+• Radius of sword rain is now 25% smaller/denser. Sword rain now has telegraphing beams showing where the blades will land, helping with parry timing  
+• First Light crit cooldown reduced (30s -> 25s)  
+• Speed boosts while Mounted are now considerably weaker, but base mount sprint speed is faster  
+• Mount dash speed curve has been adjusted. Tapping dash semi-frequently is now the best way to keep your max speed, though you don't need to mash it  
+• Dashing on a mount now keeps you at max speed for 2 seconds  
+• The heal received from unlocking your Resonance in the Depths now clears any Wither buildup you have  
+• Increased the scale of Enforcer's Axe model to match hitboxes  
+• Slightly reduced Enforcer's Axe/Blade/Hammer critical range  
+• Warmaster's Medallion/Actions Speak Louder bell cd penalty reduced (2x -> 1.5x)  
+• Fixed Everchanging Aegis proccing on yourself  
+• Fixed Saint Stances still working when not using the Saintsblade  
+• Magical Resolve no longer procs on self damage  
+• Target Switch no longer procs on self damage  
+• Reduced Fire Eruption base AoE by 1/4. Its AoE scaling cap is now applied after Fan the Flames' additional scaling  
+• Reduced Flame Repulsion AoE scaling from modifiers by 1/3. Additional scaling provided by Fan the Flames is unaffected  
+• Improved readability on Bloodrend mantras by heavily reducing the highlighting effect  
+• Fixed being able to use Iron Pull and Linkstrider Links while mounted/gliding  
+• Stench enchant procs are now capped to 10 damage per tick for a total of up to 30 damage  
+• Bloodfouler now restores a percentage of your blood upon landing m1's  
+• Fixed being able to movestack Relentless Hunt (Medium/Heavy) with Rising Star  
+• Silentheart's abilities are now resisted by Physical resistance and can no longer proc enchants  
+• Aerogliding no longer has a cooldown outside of PvP combat  
+• Tacet circle particles now clean up much more quickly, helping to indicate that you've left tacet  
+• Speed boosts while Mounted are now considerably weaker, but base mount sprint speed is faster  
+• Fixed being able to use Vow Commands while in the middle of other actions  
+• LHT Mayhem now receives buffs from Flow State (autogrip, slight damage increase)  
+• Fixed parry anim hiding with Silentheart moves  
+• Fixed Mayhem eating your dodge frames when activated on CD  
+• Fixed a variety of block/crit stacking methods. Using crits should now much more reliably cancel and prevent blocking  
+• Fixed Lightning Blade magnet slash being super delayed, 2nd slash being delayed, and made it so you can cancel the magnet slash  
+• Fixed motif movestacks  
+  
+**Bugfixes & Optimization**  
+• Optimized mob target validation. Should cut down on lag for aggro'd mobs a fair bit  
+• Mobs no longer keep other mobs awake - only players can wake mobs up. This does change behavior somewhat, but also greatly improves performance as we won't have 2 random mobs fighting for their lives when no players are even around to see it  
+• Fixed some issues with getting forcibly stuck in shift-lock. Optimized shift-lock  
+• Fixed the Meatlord sometimes softlocking you when opening his shop  
+• Fixed Layer 2 and Void Spire and blind(fold) fog not working  
+• Fixed becoming invulnerable to fall damage when entering The Interstice while inside a Void Spire  
+• Rerolling Simple now correctly gives you 2 flaws  
+• Characters with too few flaws for their boons are now automatically corrected, gaining a random flaw  
+• Characters with too many flaws for their boons are now automatically corrected, losing a random flaw  
+• Fixed tooltips getting stuck on UI elements that have been removed  
+• Optimized Bloodrend highlights  
+• Fixed Crucifixion creating a duplicate cross  
+• Fixed Aerogliding not ending correctly, causing it to become unusable and continue to drain ether while on cooldown  
+• Fixed a small bug where you could get a nudge of aeroglide usage while on cooldown  
+• Fixed Blood Orb  
+• Fixed Blast Shadow Assault having inconsistent visuals, fixed a memory leak too  
+• Fixed being able to jankily swim with Mounts (they'll probably be able to actually swim soon but at the moment it just looks and feels bad)  
+• Fixed Eye of Malice model lingering when swapping weapons  
+• Fixed missing Flow State Anklecutter sound cue  
+• Fixed Fear holding Relentless Hunt in midair
+
+## **April 19th, 2025**
+
+**Mounts**  
+• Mounts have been added to the game, providing fast out-of-combat travel. The types of mounts and their functionality are both things we plan to expand on!  
+• To acquire your very own mount, seek out the renowned tamer of beasts Sordino with a few Crowns ready  
+  
+**Content & Systems**  
+• New Mount: Thresher  
+• New Early-game Shield: Bronze Aspis  
+• Barbers now utilise the new and improved shop interface system  
+• You can now see the dye color values on dyed outfits in your rest menu  
+• Updated metal material textures. Has more of a brushed/corroded look vs. the default scratched Roblox metal textures. Should help metal materials pop a bit more  
+  
+**Balancing & Tweaks**  
+• War Mode can now reward Crowns based on contribution and prize pot  
+• Thrown potions now use the new projectile system so their trajectories and hitboxes should be more consistent  
+• Players launched by Heart of Enmity's grab attack now create a small-scale explosion on collision  
+• Tooltips now scale with their contents better, cutting down on whitespace  
+• Improved Targe model, now has separate materials  
+  
+**Bugfixes & Optimization**  
+• Optimized a lot of the input-handling code on the client by revamping the keybind system behind the scenes. Should let us expand on keybind functionality in future  
+• Optimized the horizontal mobility effect both client-sided and server-sided used by a lot of abilities such as Ice Lance, Fake Strike, Dark Blade, etc.  
+• Optimized ritual casting  
+• Fixed Lumensplitter voiding people  
+• Fixed some long-standing issues caused by things unexpectedly loading before/after each other  
+• Fixed Ice Carve windup animation persisting when the mantra is feinted/interrupted  
+• Fixed Lv. 1 Blood Wisp having level scaling that was equivalent to a Lv. 21 mantra  
+• Fixed the player activating the Ignition Deepdrill to enter Layer 2 not getting their Light Hook removed, which resulted in their Layer 2 run not counting as a hookless run  
+• Fixed the big pipe at the Chariot's Spire entrance casting a big invisible wall that blocked the way  
+• Command: Summon can no longer teleport players into or out of Depths Trials. No more sneaking into Enmity's class late  
+• Fixed being able to use the Banker just as you teleport away from him to remain in a state of invulnerability while far away. No more kiting all Servants of Enmity to the disposable yet invincible Power 1 Deepbound freshie  
+• Fixed a Jetstriker softlock  
+• Fixed a bug preventing those who started the game Jan 18th 2025 between 2-4 PM UTC from creating a character. A moment of silence please for these poor souls  
+• Fixed Crystal Lens and Perfect Lens not increasing the range (i. e. duration) of Dash since the release of the game  
+• Fixed a memory leak with players that leave before their data has loaded  
+• Fixed Training Dummies persisting in a state of limbo when Guild Bases get cleaned up, which was a big memory leak that degraded the performance of Overworld servers the older they got  
+• Fixed Enmity's Axe projectile travelling at half its original speed  
+• Fixed Enmity's Axe projectile not correctly facing towards its target  
+• Fixed Heart of Enmity not properly launching grabbed players into other players, which caused an issue where people would get hit by invisible projectiles  
+• Fixed a few shops not always handling themselves correctly  
+• Fixed resonance dyes not showing
+
+### _**Patch 2.2.5a**_
+
+**Hotfixes**  
+• Buffed Thresher speed  
+• Fixed not being able to click exit on Bankers (you can walk away to dismiss it in old servers if you get stuck)  
+• Fixed ritual casts  
+• The explosion caused by a player being launched from Heart of Enmity's grab now only damages the player's allies  
+• Fixed dismounting with E bugging you  
+• NOTE: Aware of thresher animations not playing for others, working on a fix.
+
+## **April 15th, 2025**
+
+**Content & Systems**  
+• New Skyreap Blade Critical  
+• Added a new Shop GUI for dialogue that should greatly streamline NPC vendors and let us expand the range of shops available effortlessly. No more sifting through 30-odd options of "Pomar \[2000 Notes\]" and clicking through an endless stream of dialogue just to buy items  
+  
+**Talent Removals & Merges**  
+• Warrior's Respite is now a base mechanic. After standing still in one spot for 15 seconds while injured, you'll start to Recuperate, catching your breath and accelerating your natural healing. If you had Warrior's Respite, you'll be refunded a hand of cards.  
+• Duelist's Dance and Harsh Response have been removed. If you had these talents, you'll be refunded the corresponding hands of cards.  
+• These two talents were must-picks for any build, but they pretty much just cancelled each other out. So with everyone using them they basically did nothing, but they were still mandatory. Every comp build basically had a 2 talent point sink. The STR investment to get these 2 talents could very easily be shrined down, so it didn't even really act as a balancer for attunement builds.  
+• Pitcher has been removed, with the benefits it gave now mostly innate. If you had Pitcher, you'll be refunded a hand of cards.  
+• Herbivore has been removed. If you had Herbivore, you'll be refunded a hand of cards  
+  
+**Projectile Revamp**  
+• Many projectiles now have much more realistic trajectories, and should far more consistently land where you aim  
+• Many explosive projectiles now explode when dodged by an enemy instead of vanishing into thin air. Naturally, since you have dodge iframes you won't be affected by the explosion  
+• Parrying many projectiles now immediately destroys them  
+• The aiming cone for cannons has been widened (70° -> 80°)  
+• Fixed some long-lived projectiles cleaning up too early  
+• Optimized moves that fire multiple projectiles  
+  
+**Balancing & Systems**  
+• Contributing to world boss kills can now grant up to 2 Crowns. However, the minimum contribution for receiving a Crown has been increased. Scion of Ethiron remains capped to 1 Crown  
+• You now get a small amount of Tempo for parrying M1's, and for having your M1 parried  
+• The base posture restore on parry from parrying players has been reduced slightly to match what Duelist's Dance plus Harsh Response cancelled out to.  
+• The base posture restore on parry from parrying mobs been increased slightly, as very few mobs actually had Harsh Response to cancel out the Duelist's Dance.  
+• In PvE, being at 0 Tempo now grants 0.5 Ether per second again  
+• Chaining horizontal mobility moves no longer applies a penalty when out of combat. Previously, the penalty was absent only in dungeons (and still is)  
+• Slightly tweaked the appearance of the Celtorian Commander armor set  
+• Martial Artist now gives Bruiser's Mixup instead of Harsh Response  
+• Destructive Recovery no longer requires Harsh Response  
+• Iron Gut no longer requires Herbivore. Stat req increased (10 FTD -> 20 FTD OR 20 WLL)  
+• Crimson Rain now goes on full cooldown if all of your daggers are parried or otherwise destroyed. Fixes an interaction where you'd waste a cast on an empty recall  
+• Greatly increased Parasol's spatial awareness  
+• Parasol, Primadon, Caeranthil, and Dread Serpent can now all target enemies behind walls. No more hiding  
+• Boats and Mechanisms (e.g. elevators) no longer provide cover against Mob line of sight. Fixes a lot of cheesing with cannons  
+• Added deciduous trees. Expert arbologists from the Citadel have been quoted as saying "where'd the leaves go" and "what's a rake"  
+• Palm trees no longer change colors with the seasons  
+• The dialogue UI now scales and adjusts much more dynamically to fit screen space  
+  
+**Bugfixes & Optimization**  
+• Fixed Diluvian Mechanism not being considered by Deepbound sanity passive  
+• Fixed Shrine of Solitude not functioning in Diluvian Mechanism  
+• Fixed Resonances not unlocking in Diluvian  
+• Improved rendering performance by moving a lot of one-time lighting corrections to be generated on the fly instead of taking up space in the pipeline  
+• Optimized vfx for entropy travel  
+• Made a lot of lighting effects fade in instead of immediately changing  
+• Optimized Knives time bubble (was very poorly optimized)  
+• Fixed Knives leaving other mobs permanently in slowed time  
+• Knives now drop their bubble when they deaggro  
+• Fixed Crimson Rain having inconsistent cooldowns  
+• Fixed Going Nowhere having unreliable behavior  
+• The Soulbreaker Mantle's particles now correctly change with dye
+
+### _**Patch 2.2.4a**_
+
+**Hotfixes**  
+• Fixed horizontal mobility chain having inverted logic, making it always apply a penalty when it shouldn't. Oops  
+• Fixed Eye of Malice tinting your screen permanently crimson. Scary  
+• You can no longer teleport to players that are being transported by the Teleportation Resonance  
+• Command: Summon and Command: Return no longer allow you to teleport to characters that are marked as being unable to be teleported to. In other words, the two commands now respect teleport restrictions  
+• Fixed Enmity's axe projectile not firing
+
+## **April 7th, 2024**
+
+  
+**New Endgame Currency: Crowns**  
+• Can be turned into Notes/Knowledge, but Notes/Knowledge cannot be used to earn Crowns  
+• Currently, Crowns can only be earnt through World Events or through World Bosses. As we add more endgame content, this will expand  
+• Sev, an eccentric dye vendor, has set up shop on Meteor Isle. Their business appears to be struggling, however, as they refuse to do business for anything other than Crowns...  
+  
+**Character Customisation Upgrades**  
+• Reworked the dye system behind the scenes. Should let us support dyes more dynamically and with less hard-coded behavior, as well as let us automatically support new things to dye. Also means removing dyes is automatically supported. Your existing dyes haven't changed, don't worry!  
+• Added a variety of new face options  
+• Added burn scars as marking options. Added more scars in general  
+• You can now dye all 6 hair slots  
+• Dye Packets now automatically support every Aspect Feature, including any new features we add  
+• Dye Packets now have automatic support for Aspect Markings, including any new marks we add  
+• Dye Packets now have automatic support for Oath cosmetics  
+• Dyeing one oath's cosmetics and then changing your oath now carries the dye over to your new oath  
+• Felinors can now freely choose whether they have ear fluff or not, regardless of their aspect variant  
+• Ganymedes now have their own Aspect Markings to choose from  
+• Chrysids can once again choose to have no eyebrows  
+• Removed eyeholes from facial markings. No longer necessary since Roblox fixed issues with decal layering  
+  
+**Content & Systems**  
+• New Legendary Weapon: Lumensplitter  
+• New setting: "Preload Animations". When enabled, most player and mob animations are automatically loaded as soon as you join the game  
+  
+**Balancing & Tweaks**  
+• Visionshaper clones now copy your Fist Style  
+• Improved FoV effects when using Bloodtide Ritual  
+• Carnival now gives players more time to enter  
+• Fixed assassination talents going through parry  
+• Fire Hero Critical no longer teleports  
+• Ice Skate now descends when used in the depths  
+• Sow and Mend health cap reduced and CD increased  
+• Blood Wisp regen reduced  
+• Blood Edge now has more endlag when missed  
+• Trident Spear Critical is now slower when swimming (oh the irony)  
+• Fixed Ice Cubes and Burning Servants not giving Auto Parry frames  
+• Hungry Flames Stomach and Water penalty doubled  
+• Polished Armour reduction slightly lowered  
+• Reworked Cold Blooded to apply blood poison rather than blood drain  
+• Fragile Freeze now only works on guardbreaks from Criticals/M1s  
+  
+**Bugfixes & Optimization**  
+• Fixed a big memory leak with Haunted Path: Specter, greatly optimized Spectral Gauge. Spectral Gauge decay is now also much less dependent on server ping  
+• Fixed a major memory leak with character respawns  
+• Greatly optimized Jetstriker Momentum bar  
+• Optimized equipment loading and refreshing  
+• Fixed Prediction fully reflecting PvE scaled damage, which allowed Visionshaper Clones to deal really high damage if they landed it  
+• Fixed a few visual issues with faces  
+• Fixed an issue with Mantras where you could equip two at the same time, leading to buggy interactions that could be abused  
+• Fixed rejoining in Layer 2 Floor 2 placing you back in Floor 1  
+• Fixed equipment visibility toggles not updating to reflect their status
+
+## **April 1st, 2024**
+
+Hello Deepwoken fans.  
+  
+**The Deepwoken 'permadeath RPG experiment' has concluded.**  
+  
+In talks with our Corporate Sponsors, we have pioneered a new, inspiring, innovative direction for this Roblox experience that our metrics analysts are saying will _'target a wider audience'_, _'hit ARPPU targets'_, and _'dude. give it a month. just give it a month and they'll forget about the rugpull and you can cram that thing full of microtransactions. think about it man. we can finally get that yacht. have you ever been on a yacht? it'll change your life man. straight up give it a month man'_. As firm believers of the good within every human heart, and that the moneymen in their crisp suits are very good at their jobs, we are inclined to listen.  
+  
+**Please enjoy 'Deepwoken Battlegrounds'.**
+
+## **March 31st, 2024**
 
 **The Character Customization Update**  
 • Character customization has been overhauled from the ground up to support a much greater amount of fidelity and options for customization  
@@ -68,7 +375,18 @@ The update highest on the webpage (the one right below the legend) is the most r
 • Fixed Rosen's Roscoe being unobtainable  
 • Optimized Equipment loading
 
-## **March 21st, 2025**
+### _**Patch 2.2.1a**_
+
+**Hotfixes**  
+• Fixed Traits and Flaws being aligned to the right side of the UI instead of the left side  
+• Fixed Varicosan Finery being unobtainable. Turns out this was probably for the best, as the talent needed fixing too  
+• Fixed Wisps being invisible  
+• Fixed Flame Sentinel Magnet spark falling through the ground  
+• Fixed a lot of mouse-aim mantras ignoring mouse aim  
+• Fixed Vesperian Masks and Khan Circlets not being dyeable  
+• Fixed a memory leak that occured every time Eye of Malice was unsheathed. This also happened to make Rhythm Advance spin the user around on demon helicopter mode
+
+## **March 21st, 2024**
 
 **Content & Systems**  
 • New INT Mantra: Neural Pathway  
@@ -162,7 +480,7 @@ The update highest on the webpage (the one right below the legend) is the most r
 • Dread Whisper's damage bonus for landing the grab again can now be procced in PvE too  
 • Fixed being able to create a character with no boons and no flaws selected, which caused another bug where you would gain a flaw as a boon
 
-## **March 16th, 2025**
+## **March 16th, 2024**
 
 **Content & Systems**  
 • New MED/MIND Bow: Guiding Star  
@@ -771,6 +1089,17 @@ The update highest on the webpage (the one right below the legend) is the most r
 • Fixed an exploit that allowed players to use Oath mantras of other Oaths temporarily  
 • Sanguine Dive VFX fixed  
 • Fixed Adrenaline Surge VFX not lining up with the duration
+
+### _**Patch 2.1.3a**_
+
+  
+**Hotfixes**  
+• Reduced anti heal amount on two of Enmity's attack hits, the maximum anti heal potency he can apply now is 75% (25% healing effectiveness)  
+• Fixed giant boss monsters (Enmity, Primadon, Scion of Ethiron) sometimes autoparrying attacks they shouldn't and not granting tempo for hitting them  
+• Upped Dungeon player limit to allow for more than 16 players to participate in Carnival of Hearts  
+• Fixed a bug where a burn proc can occur immediately after rolling out of fire and before burn immunity kicks in  
+• Fixed a softlock from applying Motifs outside a campfire  
+• Fixed poor scaling on list prompts
 
 ## **January 24th, 2025**
 

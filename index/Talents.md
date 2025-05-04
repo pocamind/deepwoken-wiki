@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143167
+revid: 143320
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1307,7 +1307,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Changes color of Gran Sudaruska and Chilling enchant to become a pinkish red color.
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusives: Unyielding Frost, Flashboil
-        -   The mutual exclusive with Flashboil seems to be a bit buggy though, as Crystal path locks out Flashboil, but not the other way around.
 
 -   Crystal Shrapnel \[Common Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit.
     -   Will also damage the target that procced the crystal explosion, increasing total damage.
@@ -3101,7 +3100,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   This can be used with all Flamecharm attunement paths, however because it's procced easiest with burn, it is not recommended to have Eruption path with this Talent.
     -   Prerequisites: 30 Flamecharm, 30 Frostdraw
     -   Mutual Exclusives: Glass Path: Crystallization, Wraith Path: Twisted Puppets
-        -   The mutual exclusive with Crystal path seems to be a bit buggy though, as Crystal path locks out Flashboil, but not the other way around.
+        -   The mutual exclusive with Crystal and Twisted Puppets paths seems to be a bit buggy though, as Crystal/Puppets paths locks out Flashboil, but not the other way around.
 
 -   Boiling Point \[Common Talent, Dual Attunement\] - Using a fire mantra near your own steam cloud detonates it.
     -   Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.

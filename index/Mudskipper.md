@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 140782
+revid: 143316
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -23,7 +23,7 @@ There are 2 types of these normal Mudskippers. One that can be found naturally, 
 
 Normal Mudskippers can only attack with their scratches, with the second attack being faster than the first. When there are multiple of them, they will usually swap in and out of each other, taking turns on hitting the player.
 
-Enhanced (or Emergent) Mudskippers can do what normal Mudskippers do, but will also have a Mantra to help with in their disposal. Shooting from their mouth, this [Air Force](Galebreathe.md) Mantra will knock the player back greatly when hit. They can only be found during the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event, popping up from the ground.
+Enhanced (or Emergent) Mudskippers can do what normal Mudskippers do, but will also have a Mantra to help with in their disposal. Shooting from their mouth, this [Air Force](Galebreathe.md#air-force) Mantra will knock the player back greatly when hit. They can only be found during the [Mudskipper Emergence](Random_Encounters.md#mudskipper-emergence) event, popping up from the ground.
 
 ### Lore
 
@@ -70,7 +70,7 @@ Dodgeable: ◯
     -   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking, while others could be using any secondary abilities they have access to. For example, _Air Force_. If they don't have any, they would usually just take turns hitting you.
     -   If you are struggling with a horde, try using ranged attacks like [Fire Palm](Flamecharm.md) or [Ice Forge](Frostdraw.md).
 
--   If they are Enhanced Mudskippers, listen to when are about to cast [_Air Force_](Galebreathe.md), and dodge.
+-   If they are Enhanced Mudskippers, listen to when are about to cast [_Air Force_](Galebreathe.md#air-force), and dodge.
     -   If you get hit by _Air Force_, you will be flung backwards greatly, maybe even off a cliff. Make sure you pay attention to your surroundings so that you may not fall into worse situations.
     -   If there are more than one Enhanced Mudskippers, they will often spam this Mantra. Hold block when you feel that they are going to do this.
 

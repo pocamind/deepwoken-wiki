@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 142887
+revid: 143319
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -33,52 +33,52 @@ Critical
  | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★★☆) |
 | 
 
-Strong Left
+[Strong Left](Attunement-less.md#strong-left)
 
  | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
 | 
 
-Revenge
+[Revenge](Attunement-less.md#revenge)
 
  | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation. | ◯ | ◯ | (★★☆) |
 | 
 
-Dash
+[Dash](Attunement-less.md#agile-dash)
 
  | A dash that sends the user a considerable distance forward. Deals no damage. | N/A | N/A | (☆☆☆) |
 | 
 
-Ice Daggers
+[Ice Daggers](Frostdraw.md#ice-daggers)
 
  | Forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
 | 
 
-Ice Eruption
+[Ice Eruption](Frostdraw.md#ice-eruption)
 
  | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze. | ✗ | ✗ | (★★★) |
 | 
 
-Lightning Stream
+[Lightning Stream](Thundercall.md#lightning-stream)
 
  | Grapples onto an enemy and pulls them in. | ◯ | ◯ | (★☆☆) |
 | 
 
-Lightning Cloak
+[Lightning Cloak](Thundercall.md#lightning-cloak)
 
  | The user's body is enveloped in a lightning-like cloak, improving agility, swing speed, and granting lightning dashes. | N/A | N/A | (★★★) |
 | 
 
-Clutching Shadow
+[Clutching Shadow](Shadowcast.md#clutching-shadow)
 
  | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down. | ◯ | ◯ | (★☆☆) |
 | 
 
-Shadow Assault
+[Shadow Assault](Shadowcast.md#shadow-assault)
 
  | The user pulls back weapon and rushes forward in a shadowy attack | ◯ | ◯ | (★★☆) |
 | 
 
-Chain Pull
+[Chain Pull](Ironsing.md#chain-pull)
 
  | Summons a chain out of their hand that quickly pulls you towards them. | ◯ | ◯ | (★★☆) |
 

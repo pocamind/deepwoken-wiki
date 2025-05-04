@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 142855
+revid: 143314
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
@@ -94,7 +94,7 @@ Sordino's Marvellous Menagerie
 </tbody>
 </table>
 
-**Coming back with no Eggs:**
+**Quest Ongoing:**
 
 <table>
 <tbody>

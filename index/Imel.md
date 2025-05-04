@@ -1,6 +1,6 @@
 ---
 title: Imel
-revid: 143243
+revid: 143301
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant]
@@ -12,17 +12,15 @@ categories: [Adret NPCs, NPCs, Quests, The Ministry, NPCs located in the Etrean 
 |---|---|
 | name | Imel |
 | aspect | Adret |
-| location | The Etrean Sea, statues |
+| location | The Etrean Sea |
 
 ## Description
 
-Imel is an [Adret](Adret.md) NPC who resides in the territory of [the Sea of Etrea](The_Etrean_Sea.md), being a member of [the Ministry](The_Ministry.md) faction. You can find her leaning in the corner of a small islet with four king statues, located in the Sea Highway near Lower Erisia, directly infront of it.
+Imel is an [Adret](Adret.md) NPC of the Boulder variant, who is member of [the Ministry](The_Ministry.md) faction, she will give you a mission to kill an enemy in [Erisia](Erisia.md); you must grip (kill) a player in Erisia and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
 
-If you decide to talk to her, she will give you a mission to kill an enemy in [Erisia](Erisia.md); you must grip (kill) a player in Erisia and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
+## Location
 
-Imel's Location (Bottom left of screen)
-
-Location:
+imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with four king statues, she is leaning against a wall facing the gate to [Erisia](Erisia.md).
 
 ## Dialogue
 
@@ -58,6 +56,5 @@ AH! Have you forgotten your _TASK_? Kill a living being as smart as you anywhere
 
 ## Trivia
 
--   Imel's racial variant appears to be Boulder.
 -   Due to the similarity in name and breed variant, Imel may be the sister of [Emel](Emel.md).
 -   Another member of the Ministry ([Emel](Emel.md)) with the same mission as Imel in the Eastern Sea, on the islet near Summer Isle, gives you the mission to kill on the island of [Songseeker Wilds](Songseeker_Wilds.md).
