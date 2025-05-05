@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 138227
+revid: 143629
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Locations]
@@ -52,7 +52,7 @@ A drawing of HorrorTM on the wall with a speechbubble.
 
 ### Fishing
 
-An area where the moderators can [fish](Fishing.md), however if you fall down into the pit, you get sent down to the [Depths](First_Layer.md)
+An area where the moderators can [fish](Fishing.md), however if you fall down into the pit, you get sent down to the [Depths](First_Layer.md) spawning directly in front of [Castle Light](Castle_Light.md).
 
 ### Kitchen
 
@@ -79,7 +79,8 @@ or something
 ### Cosmetics Room
 
 -   A room populated by [Fadetrimmer](Oath%253A_Fadetrimmer.md) entities.
--   GRUMBLE - A Reskinned dark humanoid barber.
+-   GLUMBO - A Reskinned dark humanoid barber.
+-   Contains a machine that dispenses Dye Packets.
 
 ### Office Creature
 

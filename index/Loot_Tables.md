@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 142819
+revid: 143631
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
