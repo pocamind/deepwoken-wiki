@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 138815
+revid: 143569
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -77,15 +77,15 @@ _\[More information about [attunements](Attunements.md) can be found on their co
 
 ## Weapon Classes
 
-When customizing your character, there is a total of three [Weapon Classes](Weapons.md) you can choose from:
+When customizing your character, there are a total of three [Weapon Classes](Weapons.md) you can choose from:
 
--   **[Heavy Weapons](Weapons.md#heavy-weapons):** _[Battleaxe](Battleaxe.md), [Avenger](Avenger.md)_
--   **[Medium Weapons](https://deepwoken.fandom.com/wiki/Weapons#Medium_Weapons):** _[Sword](<Sword_(weapon).md>), [Irontusk](Irontusk.md)_
--   **[Light Weapons](https://deepwoken.fandom.com/wiki/Weapons#Light_Weapons):** _[Stiletto](Stiletto.md), [Quickfang](Quickfang.md), [Silversix](Silversix.md), (Plus [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), [Jus Karita](Jus_Karita.md), and [Fang & Coil](Fang_and_Coil.md) (if formerly unlocked)_.
+-   **[Heavy Weapons](Weapons.md#heavy-weapons):** _[Battleaxe](Battleaxe.md) (Greataxe), [Avenger](Avenger.md) (Greatsword)_
+-   **[Medium Weapons](https://deepwoken.fandom.com/wiki/Weapons#Medium_Weapons):** _[Sword](<Sword_(weapon).md>) (Sword), [Irontusk](Irontusk.md) (Spear)_
+-   **[Light Weapons](https://deepwoken.fandom.com/wiki/Weapons#Light_Weapons):** _[Stiletto](Stiletto.md) (Dagger), [Quickfang](Quickfang.md) (Rapier), [Silversix](Silversix.md) (Flintlock), along with [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), [Jus Karita](Jus_Karita.md), and [Fang & Coil](Fang_and_Coil.md) if formerly unlocked, these being Fist class weapons_.
 
-_([Weapon Manual](Training_Gear.md#attribute-training-gears) do not teach you a new Weapon Classes, but they allow you to train the type of style of the Weapon you are currently using. To change your Weapon Class, you need to equip the specific Weapon corresponding to your desired style)_
+_(The [Weapon Manual](Weapon_Manual.md) does not teach you new weapon classes, but it allows you to train the [Attribute](Attributes.md) for the class of weapon you are currently using. To change your weapon class or train a separate weapon class, you need to equip a specific weapon subclass corresponding to your desired class)_
 
-### Starting Weapon Classes
+### Starting Weapons
 
 [Sword](<Sword_(weapon).md>)
 
@@ -103,10 +103,6 @@ _([Weapon Manual](Training_Gear.md#attribute-training-gears) do not teach you a 
 
 _\[More information about [weapons and combat styles](Weapons.md) can be found on their corresponding [page](Weapons.md).\]_
 
-[Way of Navae](Way_of_Navae.md)
-
-Way of Navae 
-
 [Quickfang](Quickfang.md)
 
 [Quickfang](Quickfang.md) 
@@ -123,11 +119,15 @@ Way of Navae 
 
 [Avenger](Avenger.md) 
 
+  
+
+[Way of Navae](Way_of_Navae.md)
+
+Way of Navae 
+
 Jus Karita
 
 Jus Karita 
-
-  
 
 Legion Kata
 
@@ -140,7 +140,7 @@ Fang and Coil 
   
 
 -   _Learning the [Way of Navae](Way_of_Navae.md), [Jus Karita](Jus_Karita.md), [Legion Kata](Legion_Kata.md), and [Fang and Coil](Fang_and_Coil.md) fighting styles on a character will unlock that combat style as an option on all slot, and for the next characters._
--   _Using 25 [Echoes](Echoes.md)_ _(each, 100 total)_ _unlocks the four new starting weapons shown above._
+-   _Spending 25 [Echoes](Echoes.md) each on the "Advanced Weapons" Echo Upgrade (100 total) will unlock each of the other four starting weapons shown above._
 
 ## Boons and Flaws
 

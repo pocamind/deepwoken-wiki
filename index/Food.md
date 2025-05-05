@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 143367
+revid: 143400
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -33,23 +33,23 @@ _One needs food and drink to live, much like you. Without it, one will die a slo
     -   With about 1/8 thirst left, your vision becomes blurry, and your swing speed is lowered.
 -   Once you reach the point of no return, you are permanently knocked for the rest of your life (which is to say not long) and cannot be picked up until you've died. When you wake up, you'll have ?% of your Blood, Thirst and Hunger restored.
 
-## Food Boosts
+## Food Buffs
 
 Some foods fill a portion of your Hunger bar with a different color, known as Reinforced Hunger.
 
 -   Reinforced Hunger grants certain buffs, signified by a specially colored secondary bar on top of the normal Hunger bar until it's depleted.
--   The type of boost can be identified by hovering over the differently colored bar.
--   Different types of boosts will replace each other. Same types of boosts will stack in duration.
+-   The type of buff can be identified by hovering over the differently colored bar.
+-   Different types of buffs will replace each other. Same types of buffs will stack in duration.
 -   The "Buff Strength" stat on food does not indicate the power of the buff, but instead how much of your hunger bar becomes reinforced upon consumption. For example, a Glazed Fish and Mushroom Omelette provide the same melee damage multiplier.
 
-### Boosts
+### Buffs
 
 -   _"A hearty meal that'll empower your melee strikes!"_ The Power buff increases the user's melee damage. (5% weapon damage buff)
 -   _"An energising meal that'll empower your mantras!"_ The Enchant buff increases the user's mantra damage. (5% mantra damage buff)
 -   _"A complex meal that'll get you moving!"_ The Speed buff increases your sprinting speed. (5% running speed buff)
 -   _"An aromatic meal to cultivate your focus!"_ The Ether buff increases the user's ether regeneration speed. (Doesn't work as of 2/26/25)
 -   _"A soothing meal to recover your strength!"_ The Health buff increases the user's health regeneration speed. (17.5% of your base regen added on top of your current health regen)
--   _"A filling meal to keep you fed for longer!"_ This buff significantly decreases the user's starvation speed. (10% reduced natural hunger loss)
+-   _"A filling meal to keep you fed for longer!"_ The Full buff significantly decreases the user's starvation speed. (10% reduced natural hunger loss)
 
 Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of Talents.
 

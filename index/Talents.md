@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143320
+revid: 143442
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1247,7 +1247,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Legion Kata \[Common Talent\] - Gain the ability to use the Legion's martial arts.
     -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).
-    -   Prerequisite: Talk with [Amara](Amara.md) while having Captain's Recc in your inventory. **NOTE: IF YOU HAVE CLICKED WHILE HOLDING THE RECC OUT, DELETING IT, YOU CAN STILL LEARN LEGION KATA**
+    -   Prerequisite: Talk with [Amara](Amara.md) while having Captain's Rec in your inventory. **NOTE: IF YOU HAVE CLICKED WHILE HOLDING THE REC OUT, DELETING IT, YOU CAN STILL LEARN LEGION KATA**
 
 ### Galebreather
 

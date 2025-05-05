@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 140292
+revid: 143405
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]

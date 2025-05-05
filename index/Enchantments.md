@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 143260
+revid: 143423
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -83,9 +83,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>Weapon hits apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Essentially it grants a 4% damage buff that bypasses the damage modifier cap (due to it being a separate instance of damage). Because the second damage instance is dealt as Frostdraw damage, it can be resisted by Frostdraw resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.<br>
-  After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a>. (Putting the Talent on cd too), negating all movement (7 second cooldown).<br>
-  Deals Frost dmg on hit (normal Frostdraw) or one crystal (Crystal).</p>
+  <td><div><p>M1s apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Essentially it grants a 4% damage buff that bypasses the damage modifier cap (due to it being a separate instance of damage). Because the second damage instance is dealt as Frostdraw damage, it can be resisted by Frostdraw resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.<br>
+  After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> (base Frostdraw) and <a href="Status_Effects.md#chill">Chill</a> (base Frostdraw) OR one crystal (Crystallization Path). 7 second cooldown. Bottom Freeze procs with this enchant put the Talent on cooldown as well.</p>
   <p><b>Chilling's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's damage before modifiers.</b></p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>

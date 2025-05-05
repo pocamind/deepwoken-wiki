@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 143044
+revid: 143478
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -422,8 +422,8 @@ Wind + Lightning + Slash
   <td><center>Boiling Point<br>
   <sup>[Vaporborne]</sup></center></td>
   <td><center>Flashboil</center></td>
-  <td>Using a fire mantra near your own steam detonates it.</td>
-  <td>Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.</td>
+  <td><center>Using a fire mantra near your own steam detonates it.</center></td>
+  <td><center>Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.</center></td>
   <td><center><i>"I seek the qualities of Vaporborne"</i></center></td>
 </tr>
 </tbody>
@@ -608,8 +608,8 @@ Wind + Lightning + Slash
   <td><center>Boiling Point<br>
   <sup>[Vaporborne]</sup></center></td>
   <td><center>Flashboil</center></td>
-  <td>Using a fire mantra near your own steam detonates it.</td>
-  <td>Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.</td>
+  <td><center>Using a fire mantra near your own steam detonates it.</center></td>
+  <td><center>Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.</center></td>
   <td><center><i>"I seek the qualities of Vaporborne"</i></center></td>
 </tr>
 </tbody>
