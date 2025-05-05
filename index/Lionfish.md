@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 138150
+revid: 143588
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -53,7 +53,7 @@ Parryable:✗
 **Dive**  
 (☆☆☆)
 
- | The Lionfish dives below the waves, lurking beneath its prey as it prepares to ambush its opponent. **(Etrean Luminant Exclusive)** |
+ | The Lionfish dives below the waves, lurking beneath its prey as it prepares to ambush its opponent. **(Overworld Exclusive)** |
 | 
 
 **Cero**  

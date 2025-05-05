@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 141605
+revid: 143621
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, Hallowtide, Heavy Weapons, Unique Critical]
@@ -28,7 +28,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, H
 
 ## Description
 
-The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "[Hallowtide 23 Medal](Seasonal_Medals.md)" (from [Glaive Spellhardt](Glaive_Spellhardt.md) during Hallowtide again) for 7 knowledge anytime.
+The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category. You can obtain this during Hallowtide's [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "[Hallowtide 23 Medal](Seasonal_Medals.md)" (from [Glaive Spellhardt](Glaive_Spellhardt.md) during Hallowtide again) for 7 knowledge anytime.
 
 ## Critical
 

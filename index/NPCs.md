@@ -1,11 +1,9 @@
 ---
 title: NPCs
-revid: 142835
+revid: 143612
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [NPCs]
 ---
 
 # NPCs
@@ -40,6 +38,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Beiruul](Beiruul.md) | The Children Of Navae | [Meteor Isle](Meteor_Isle.md) | If the player gets the right answers she gives you a sidequest called Navae's Retribution. |  |
 | [Brutus](Brutus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Fort Merit](Fort_Merit.md) | Fortitude unbound | Leaves the player knocked and vulnerable to guards |
 | [Bookkeeper Andros](Bookkeeper_Andros.md) | Unaligned | [Etris](Etris.md), library near the inn | Duke of Sin questline |  |
+| [Caitus](Caitus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md) | Talks about an incoming message from legion fleets |  |
 | [Calamus](Calamus.md) | [The Hive](The_Hive.md) | [Starswept Valley](The_Starswept_Valley.md) | Gives you a quest to hunt a monster. Quest completion gives Hive rep |  |
 | [Calypso](Calypso.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None |  |
 | [Cave Master](Cave_Master.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |

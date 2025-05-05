@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143442
+revid: 143623
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2142,7 +2142,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Pardon Me \[Common Talent, Charisma Exclusive\] - Crimes you commit in allied territories are often ignored. Who's asking?
     -   Guards from faction which you are at or above neutral reputation will not aggro on you.
-        -   Crimes still induce reputation loss however will turn hostile/react to crimes when your reputation become negative.
+        -   Crimes still induce reputation loss however, guards will turn hostile/react to crimes when your reputation becomes negative.
     -   Prerequisite: 85 Charisma
 
 ### Prospector

@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 142004
+revid: 143597
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -188,6 +188,7 @@ Below is a list of bait that can be used. Don't see a valid bait? Feel free to t
 -   Fish Meat: Results from **100 Fish Meat**: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lionfish, 11 Chest and 15 Fails. (All fishing Talents used.)
 -   Redd: Slightly lower than average bites. Results from **?? Redd**: 2 miss, 2 sea bass, 1 squid, 1 red snapper.
 -   Pufferfish: Not Properly Documented. (Possibly better chance of catching Mudskippers?)
+-   Sap: Not Properly Documented.
 
 | Bait & Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
 | --- | --- | --- | --- | --- | --- | --- | --- |
