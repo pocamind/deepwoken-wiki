@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 143631
+revid: 143632
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -155,8 +155,8 @@ _A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Min
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><b>Drops</b>: <a href="Umbral_Obsidian.md">Umbral Obsidian</a>, <a href="Mantra_Modifiers.md">T1 and T2 Mantra Modifiers</a>, <a href="Immortal_Helm.md">Immortal Helm</a>, <a href="Ores.md">Umbrite</a>, <a href="Megalodaunt_Hide.md">Megalodaunt Hide</a>, <a href="Megalodaunt_Coat.md">Megalodaunt Coat</a>, <a href="Megalodaunt_Coral.md">Megalodaunt Coral</a>.</li>
-    <li><b>Relics</b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
+    <li><b>Drops: <a href="Umbral_Obsidian.md">Umbral Obsidian</a>, <a href="Mantra_Modifiers.md">T1 and T2 Mantra Modifiers</a>, <a href="Immortal_Helm.md">Immortal Helm</a>, <a href="Ores.md">Umbrite</a>, <a href="Megalodaunt_Hide.md">Megalodaunt Hide</a>, <a href="Megalodaunt_Coat.md">Megalodaunt Coat</a>, <a href="Megalodaunt_Coral.md">Megalodaunt Coral</a>.</b></li>
+    <li><b>Relics: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</b></li>
   </ul></td>
 </tr>
 </tbody>
@@ -164,7 +164,7 @@ _A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Min
 
 ## [Songseeker Wilds](Songseeker_Wilds.md) Loot Table
 
-_One of the first island inside the Eastern Luminant, most people come here for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), or for the [Oath: Starkindred](Oath%253A_Starkindred.md), the loot here is comparable to that found at Minityrsa_
+_One of the first island inside the Eastern Luminant, most people come here for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), or for the [Oath: Starkindred](Oath%253A_Starkindred.md) worms, the loot here is comparable to that found at Minityrsa_
 
 <table>
 <tbody>

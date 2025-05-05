@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 143055
+revid: 143655
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in 
 | Korin | |
 |---|---|
 | name | Korin |
-| aspect | Etrean, File Variant |
+| aspect | File Etrean |
 | location | Etris |
 
 ## Description
@@ -105,6 +105,8 @@ As the name implies, this Talent allows the player to get wood by punching down 
 
 **Treefelling Quest:**
 
+Regarding the [Treefelling Blow Quest](Quests.md#treefelling-blow).
+
 **Quest Start:**
 
 <table>
@@ -161,8 +163,32 @@ As the name implies, this Talent allows the player to get wood by punching down 
   <td colspan="4">*<i>The bewildered lumberjack's expression reminds you of your intellectual quest to punch down <b>5</b> trees. Your research is crucial. The world must know.</i>*</td>
 </tr>
 <tr>
-  <td colspan="4">End, talent got</td>
+  <td colspan="4">End, Treefelling Blow Talent Obtained</td>
   <td colspan="4">End</td>
+</tr>
+</tbody>
+</table>
+
+**Gaining Axe:**
+
+This is the dialogue that plays if you talk to Korin without yet possessing a [Lumber Axe](Lumber_Axe.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Looking for some work? I need someone to gather some wood for me.</td>
+</tr>
+<tr>
+  <td colspan="12">Yeah. [Obtain Axe]</td>
+</tr>
+<tr>
+  <td colspan="12">Go cut some trees and bring the wood back here. We need that wood to keep the fires burning in the winter, so you'd be doing us a big favour.</td>
+</tr>
+<tr>
+  <td colspan="12">End, Lumber Axe Obtained</td>
 </tr>
 </tbody>
 </table>

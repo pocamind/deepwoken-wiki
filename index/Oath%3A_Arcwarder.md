@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 141893
+revid: 143643
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -41,7 +41,7 @@ The Arc Suit is a defence orientated piece of semi-sentient armour that [the Uni
         -   Option 1 causes [Epsi](Epsi.md) to perish due to the parasites, he will always be outside of [Firfire Caverns](Firfire_Caverns.md) when you repeat [Floor 1](Second_Layer.md), so you may choose the right option until the questline is completed.
     -   Dying while the quest is active will not require the player to talk to him again.
 -   Talk to Alpha again. (WARNING: You HAVE to return to Alpha for this quest, or else Delta will not give you Arcwarder.)
--   20 fortitude, 20 [Flamecharm](Flamecharm.md) and 20 [Thundercall](Thundercall.md).
+-   20 Fortitude, 20 [Flamecharm](Flamecharm.md) and 20 [Thundercall](Thundercall.md).
 -   Return to surface and talk to [Delta](Delta.md) at [Miner's Landing](<Miner's_Landing.md>) inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the Oath, you must kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md)
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/joHZD3rZVkM)._
@@ -54,7 +54,7 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
 
 ## Effects
 
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, when casted a suit of armor appears around the user. The visor and breastplate both glow yellow. The suit also functions as a dim source of light. The suit gives total resistance to parasites and allows you to walk on parasite pools.
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, when casted a suit of armor appears around the user. The visor and breastplate both glow yellow. The suit also functions as a dim source of light. The suit gives total resistance to [parasites](Second_Layer/The_Ethironal_Shrine.md#parasites) in Layer 2 and allows you to walk on parasite pools.
 
 ## Abilities
 

@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 142045
+revid: 143642
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -65,6 +65,8 @@ Upon exiting the outskirts and entering the shrine, the first thing noticed will
 
 ### Parasites
 
+_An Ignition Lantern._
+
 The Parasites function as a **passive time limit** for the player, accumulating over-time in snow covered areas until they all burst and leave the player dead. It takes ~**5 minutes** for a lethal amount of parasites to accumulate on the player, instantly killing them. Parasites do not accumulate within areas with no snow.
 
 Though, these are reducable via the following means.
@@ -73,6 +75,7 @@ Though, these are reducable via the following means.
 -   [Survivalist](../Boons_and_Flaws.md): +1.5 minutes.
 -   [Wormwarder Lantern](../Wormwarder_Lantern.md): Negates parasites, movement speed penalty.
 -   [Grand Fisher Helm](../Grand_Fisher_Helm.md): Negates parasites.
+-   [Arc Suit](../Oath%253A_Arcwarder.md): Negates parasites.
 
 Otherwise, in order to remove your parasites, you must interact with an [Ignition Lantern](../Ignition_Lanterns.md), which removes all parasites instantly.
 

@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 142942
+revid: 143664
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -829,6 +829,12 @@ _noun_
 _noun_
 
 1.  Abbreviation for Monster Armor, an equipment attribute that grants resistance against damage from [monsters](Monsters.md) by the listed amount.
+
+### Mini
+
+_noun_
+
+1.  Shorthand for [Minityrsa](Minityrsa.md).
 
 ### MTP
 

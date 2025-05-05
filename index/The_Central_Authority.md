@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 143129
+revid: 143637
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -61,7 +61,7 @@ While the Authority lacks in reputation beneficial quests, it benefits from havi
 -   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) vs [Legion Soldiers](Legion_Soldier.md) (Upper Erisia)
 -   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) vs Legion Soldier + [Legion Captain](Legion_Captain.md) ([The Viper's Jaw](<The_Viper's_Jaw.md>)/Upper Erisia)
 -   [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md) vs Legion Captain ([Starswept Valley)](The_Starswept_Valley.md)
--   [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md) \] vs [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) (Starswept Valley)
+-   [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md) \]vs [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) (Starswept Valley)
 
 Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) exclusive NPC's such as the [Banker](Banker.md) and [Antiquarian](Antiquarian.md) as usual.
 
