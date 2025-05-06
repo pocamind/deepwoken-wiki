@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143695
+revid: 143709
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -181,6 +181,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
     -   Synergizes well with air dashing or mantras that send the user and target in the air.
+    -   Mantras receive a 4% damage boost instead of the promised 5% for an unknown reason.
     -   Prerequisites: 15 Strength, 25 Light Weapon OR 25 Medium Weapon OR 25 Heavy Weapon.
 
 ### Aeromancer
