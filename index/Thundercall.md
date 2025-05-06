@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 143060
+revid: 143736
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -118,6 +118,7 @@ Lightning
     -   Knockdown is also removed for the mantra variant.
     -   This replaces the lunging hitbox with an AoE one, in which the latter contains a blindspot located behind the user.
     -   Can be additionally modified with **Crystal/Perfect Lenses** to increase the range of the AoE hitbox.
+-   Perfect casting Jolt Grab makes the grab shorter.
 -   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
 
@@ -700,6 +701,7 @@ Lightning + Slash
 **Effect:** _Caster sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting targets as they pass"_
 
 -   Deals 29.9 (34.95 with 6 songchant) DMG, 7.6 posture, 10s CD at 5 lvl
+-   Has an unusually inconsistent hitbox, sometimes not hitting those in its path.
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Can be modified with **Cloudstones/Stratus Stones** to make it go further.
 -   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.

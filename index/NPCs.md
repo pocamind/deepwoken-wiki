@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 143612
+revid: 143713
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -147,7 +147,6 @@ Check the rest out for yourself, canonically smells really bad
 | [Scope](Scope.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
 | [Sekh](Sekh.md) | [The Hive](The_Hive.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |  |
-| [Serena](Serena.md) | Unalighned | [Starswept Valley](The_Starswept_Valley.md) | Asks for water from a [canteen](Canteen.md). Gives XP and a chest, or attacks you. |  |
 | [Serendi](Serendi.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
 | [Sev](Sev.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sells dye for crowns. |  |
 | [Sibex](Sibex.md) | Unaligned | [The Aratel Sea](The_Aratel_Sea.md) ontop of a Statue on the islands infront of [Starswept Valley](The_Starswept_Valley.md) | Tells you how close you are to unlocking your [Resonance](Resonance.md) and what method is best to unlock it. |  |

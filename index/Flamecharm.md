@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 143665
+revid: 143711
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -769,7 +769,6 @@ Fire
 -   Can be modified with a Reversal spark, acting as a pull/grab, but dealing less damage.
     -   The reversal spark variant deals ~30% less damage than the original.
     -   The reversal spark variant has 0.65s windup.
-    -   "Oh Doughnuts, So Delicious, Doughnuts!" - Some Strange Etrean "Future Seer"
 
  |
 

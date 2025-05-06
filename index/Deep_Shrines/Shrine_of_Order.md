@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 140440
+revid: 143728
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -18,13 +18,15 @@ categories: [NPCs, Mechanics]
 
 **If you're looking for another shrine, return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
 
-## Description
+## Location
 
-Located in:
+Path
 
-[Songseeker Mines](../Songseeker_Wilds.md), through the passage containing mudskippers.
+Located in: [Songseeker Mines](../Songseeker_Wilds.md), through the passage containing mudskippers.
 
 [Temple of Hearts](../Temple_of_Hearts.md), being the first large shrine on the left when going towards the [Shrine of Yun'Shul](<../Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+
+Songseeker Mines entrance
 
 ## Effects/Details
 

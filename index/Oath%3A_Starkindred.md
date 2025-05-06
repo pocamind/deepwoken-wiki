@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 143016
+revid: 143722
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -71,6 +71,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   **Ascension** **\- Combat Mantra**
     -   _Take to the skies for a devastating strike._
         -   The user rises into the air before swooping in.
+        -   Deals 37 Oath damage.
         -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
         -   Applies hard knockdown on hit.
         -   This attack cannot be modified. Wayward Gem will not proc.
@@ -79,14 +80,18 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   **Celestial Assault** **\- Combat Mantra**
     -   _Use your wings and deliver two critical blows._
         -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
+        -   Deals 40 (20\*2) Oath damage.
 
 -   **Sinister Halo** **\- Combat Mantra**
     -   _Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
         -   Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
+        -   Deals 32 (3.2\*10) Oath damage.
 
 -   **Death From Above - Talent**
     -   _Upon cancelling your Air Dash, reveal your wings and strike your enemy._
         -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
+        -   Deals 75 (25\*3) Slash/Physical damage.
+        -   Able to instantly guardbreak on the first slash, with the second and third dealing high posture.
         -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
         -   Despite what is shown in the gif, Death From Above no longer has hyperarmor.
 

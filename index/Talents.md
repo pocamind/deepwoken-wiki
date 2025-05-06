@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143709
+revid: 143715
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -849,7 +849,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Dark Synergy \[Shadowcast Exclusive\] - Engulf your enemy in shadows when flourishing them.
     -   Prerequisites: 45 Shadowcast, Dark God
     -   Deals 5 damage on proc. (only on flourish.)
-    -   Does not proc any shadow talents except shadow overflow. (might proc sightless still)
+    -   Does not proc any shadow talents except shadow overflow.
     -   Does not steal or halt any ether regen.
 
 -   Shadow Overflow \[Shadowcast Exclusive\] - Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
@@ -2993,6 +2993,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Puppet damage can be increased with damage modifiers. Additionally, Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
     -   Puppets deal 11 posture damage.
     -   Puppets spawn whenever Puppet Burn deals damage with a 4 second cooldown.
+    -   Makes your burn damage deal about 75% less than with normal burn.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
     -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames, Flashboil
 

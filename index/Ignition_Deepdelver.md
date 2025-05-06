@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 141198
+revid: 143737
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items, Master Outfits, The Ignition Union]
@@ -16,7 +16,7 @@ Template:ArmorInfobox
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, one (1) [Blue Gem](Deep_Gems.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), one (1) [Bounder](Bounder.md) Claw, one (1) [Frozen Membrane](Frozen_Membrane.md), and one (1) [Worn Cog](Worn_Cog.md).
+This Outfit costs and requires five (5) Cloth and Fiber, one (1) [Blue Gem](Deep_Gems.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), one (1) [Bounder Claw](Bounder_Claw.md), one (1) [Frozen Membrane](Frozen_Membrane.md), and one (1) [Worn Cog](Worn_Cog.md).
 
 This Outfit requires [Power Level](Talents.md) 15.
 

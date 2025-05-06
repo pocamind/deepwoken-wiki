@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 138210
+revid: 143725
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Locations in the Eastern Luminant]
@@ -35,10 +35,14 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 
 ### Large Island
 
+Mineskipper mineshaft location
+
+Shrine of Order path
+
 -   There are a lot of trees bearing [fruits](Food.md), ranging from [Redd](Redd.md), Plumfruit and Pomar.
 -   A mineshaft that is sealed off by debris, using terrain destroying mantras like Strong Left can open it up, containing several nodes of Rock, Coal, Iron and Gold.
     -   There are also [Mineskippers](Mudskipper.md#mineskipper) within the mineshaft.
-    -   Going up the mineshaft will also lead to the Shrine of Order.
+    -   Going up the mineshaft will also lead to the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
     -   Along with that, you will find some nodes of [Astruline](Ores.md#astruline).
 -   A gateway that leads to the [Ancient Rotlands](Ancient_Rotlands.md), a [voidzone](Voidzones.md) that was once home to a Celestial.
 -   There are two structures:
