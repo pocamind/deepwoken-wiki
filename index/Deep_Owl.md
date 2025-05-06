@@ -1,9 +1,9 @@
 ---
 title: Deep Owl
-revid: 142932
+revid: 143690
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies, NPCs]
+categories: [Pages with broken file links, Monsters, Enemies, NPCs]
 ---
 
 # Deep Owl
@@ -158,8 +158,13 @@ The owls special attacks are affected by shadow armour.
 -   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
 -   Occasionally when hit by the Deep Owls overhead grab, it will bug out and be flung/teleported out of its aggression distance, though this doesn't happen often.
--   When interacting with a Deep Owl after it's initial dialouge while it hasn't turned hostile, or with the Mute Regalia, the player will receive the text: "\*The creature tilts its head curiously.\*"
+-   When interacting with a Deep Owl after it's initial dialouge while it hasn't turned hostile, or with the Mute Regalia, the player will receive the text: "\*The creature tilts its head curiously.\*"[\[2\]](#cite-note-2)
 
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)
+    
+    File:MenacingOwl.png
+    
+    This is the what the in-game text reads when interacting with a deep owl.

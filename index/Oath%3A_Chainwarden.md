@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 143094
+revid: 143677
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Description
 
-**[Oath](Oaths.md): Chainwarden** is one of the 16 obtainable Oaths in _Deepwoken_. The Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that deal significant true damage if used correctly.
+**[Oath](Oaths.md): Chainwarden** is one of the 16 obtainable Oaths in _Deepwoken_. The Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that deal significant Oath damage if used correctly.
 
 “ What is it? You had better not be wasting my time. There's filth that requires scraping off the map. ”
 
@@ -58,13 +58,14 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 -   **Restrain - Combat Mantra**
     -   _Deliver a powerful kick that binds your opponent's soul to yours._
-    -   Deals 30 true damage.
-    -   Damage can be increased further with the talent Perpetual Wrath, increasing at intervals of 8 up to a total of 54 damage.
+    -   Deals 30 Oath damage.
+    -   Damage can be increased further with the talent Perpetual Wrath, increasing at intervals of 8 up to a total of 54 Oath damage.
     -   Applies a chain that halts the opponent's mobility.
     -   _**Heavily**_ reduced cooldown on hit/block.
     -   Applying a Bloodless gem on Restrain appears to not reduce the damage at all, but still heals you.
     -   Chain is applied even if the mantra dodged or blocked, but not when parried
 -   Obtainment: Obtained with the Oath itself.
+
 -   **Impel** - **Combat Mantra**
     -   _Blast through your opponent's guard and pull them towards you._
     -   Fire 4 dark blasts at your cursor, chaining those hit by at least 3 blasts. Enemies hit by the mantra while chained will then get pulled and kicked away, similar to Chain Lash (will not remove chains).

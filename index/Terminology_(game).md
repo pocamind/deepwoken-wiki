@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 143664
+revid: 143672
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -834,7 +834,9 @@ _noun_
 
 _noun_
 
-1.  Shorthand for [Minityrsa](Minityrsa.md).
+1.  Short form for [Minityrsa](Minityrsa.md).
+    1.  Ex. "I've been running around mini waiting for a [heartspiller](Ministry_Heartspiller.md) to spawn for so long..."
+2.  (much less common) Short form for [The Ministry](The_Ministry.md).
 
 ### MTP
 

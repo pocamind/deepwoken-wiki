@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 136298
+revid: 143687
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrean Luminant, Etrea, NPCs located in the Etrean Luminant]
@@ -21,6 +21,8 @@ Kelsius is an Adret NPC located in the **[Isle of Vigils](Isle_of_Vigils.md)** l
 ## Just a Librarian Quest
 
 This quest tasks you with retrieving books from an unnamed group of people from the cabin located under Etris. Upon interacting with the NPC blocking the doorway, they will move aside and usher you in. In the next room inside the cabin, theres an NPC by the name of Khan who reveals Kelsius as a murderer and knocks the player out(?). Upon returning to Kelsius, you gain some dialogue options and the ability to use the attribute books for notes. If the quest was done on previously, Kelsius asks you to find books in Isle of Vigils instead. These books can be located behind the Antiquarian on a pile of rocks.
+
+Do NOT pick up the books before speaking to Kelsius, or you will be locked out of the quest and need to submit a restore.
 
 ## Trivia
 

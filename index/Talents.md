@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143623
+revid: 143692
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -770,6 +770,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Successive Throw \[Common Talent\] - \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   If multiple opponents are flourished, then the person who gets targetted by daggers will get targetted by all of them
+    -   Deals 5 damage on proc. (doesnt scale with weapon or traits)
     -   Prerequisite: 35 Light Weapon
 
 ### Cryomancer
@@ -3120,6 +3121,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Bear Trap \[Common Talent\] - Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
+    -   Makes the opponent unable to jump for 4 seconds.
+    -   Upon being applied to an opponent, they gain 6s worth of bear trap immunity.
     -   Prerequisites: 20 Strength, 20 Agility
 
 -   Blade Dancer \[Common Talent\] - Landing an M1 removes your roll cooldown. (+1 Passive Agility)

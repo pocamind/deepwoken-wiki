@@ -1,9 +1,9 @@
 ---
 title: Stratos
-revid: 142633
+revid: 143686
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
+categories: [Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
 ---
 
 # Stratos
@@ -12,7 +12,7 @@ Template:NPC name
 
 ## Description
 
-**Stratos** is the second-in-command of the Blade Temple, residing on the [Isle of Vigils](Isle_of_Vigils.md). He is found sitting in front of a small pond at the main entrance of the [Temple of the Blade](Temple_of_the_Blade.md). In order to talk to him, you need to have good reputation with [Etrea](Etrea.md). He says that he will teach you once you feel the "essence of the wind", starting his quest.
+**Stratos** is the second-in-command of the Blade Temple, residing on the [Isle of Vigils](Isle_of_Vigils.md). He is found sitting in front of a small pond at the main entrance of the [Temple of the Blade](Temple_of_the_Blade.md). In order to talk to him, you need to have good reputation with [Etrea](Etrea.md), otherwise he refuses to talk to you UNLESS you have his [delivery](<Lance's_Brother.md#crate-delivery-quest>). In which case, he will pay you 25 Notes for the trouble. He says that he will teach you once you feel the "essence of the wind", starting his [quest](#windwaker-quest).
 
 ## Windwaker Quest
 
@@ -22,9 +22,69 @@ To complete the quest, you need to sail for ≈15 minutes total on sea highways.
 
 ### The Reward
 
-After sailing for long enough, you can return to Stratos and you will receive the "Windwaker" Talent. Similarly to "[Produce Spark](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Flamecharmer)", "[Flame Within](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Amoran_Seeker)" and "[Discovery of Fire](https://deepwoken.fandom.com/wiki/Thundercall?so=search#Thundercaller)", you can activate the Talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown (~55 sec).
+After sailing for long enough, you can return to Stratos and you will receive the "Windwaker" Talent. Similarly to "[Produce Spark](Talents.md#flamecharmer)", "[Flame Within](Talents.md#amoran-seeker)" and "[Discovery of Fire](Talents.md#thundercaller)", you can activate the Talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown (~55 sec).
 
 File:Arch proof.png
+
+## Dialouge
+
+Food Delivery quest
+
+**Food Delivery:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The wind that once held you back now urges you forward.*</i> Ah, a delivery for the temple?</td>
+</tr>
+<tr>
+  <td colspan="6">Yep.</td>
+</tr>
+<tr>
+  <td colspan="6">Ah, thank you, here is something for your troubles.</td>
+</tr>
+<tr>
+  <td colspan="6">End (Given 25 Notes)</td>
+</tr>
+</tbody>
+</table>
+
+**Asked the name of Lance's Brother:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The wind that once held you back now urges you forward.*</i> Ah, a delivery for the temple?</td>
+</tr>
+<tr>
+  <td colspan="6">Yep.</td>
+</tr>
+<tr>
+  <td colspan="6">Ah, thank you, here is something for your troubles. Did <b>@#$%&amp;</b> send you?<i>*Wait, what was that last bit. Was that a name?!*</i></td>
+</tr>
+<tr>
+  <td colspan="6">Huh? @#$%&amp;?</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*They tilt their head quizzically at you.*</i> Yes, <b>@#$%&amp;</b>. The famed Lance Leshi's brother?</td>
+</tr>
+<tr>
+  <td colspan="6">Oh, you mean <i>(?)</i>?</td>
+</tr>
+<tr>
+  <td colspan="6">Uh? No, I don't believe so. <b>@#$%&amp;</b> was the name their mother gave me. Extraordinary cook she was. And a keen blade too. <i>*Okay, no luck. This guy clearly doesn't know his name either.*</i></td>
+</tr>
+<tr>
+  <td colspan="6">End (Given 25 Notes)</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

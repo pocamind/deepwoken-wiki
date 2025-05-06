@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 143478
+revid: 143682
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -84,7 +84,7 @@ Lightning + Metal
 -   Can apply Electrified.
 -   Compatible with Surge Path and Gilded Path.
 -   Can be modified with [Eternal and Aeon Logstones](Mantra_Modifiers.md) to increase its duration slightly.
--   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to summon more.
+-   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to summon 3.
 -   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md) allowing it to move.
 
  |
