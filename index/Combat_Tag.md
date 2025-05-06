@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 141516
+revid: 143703
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -57,7 +57,7 @@ List of Quotes:
 
 1.  "The Depths coil around your soul like a knot." while in [the Depths](The_Depths.md).
 2.  "The Void's influence draws you ever closer to the Depths." while in a [Voidzone](Voidzones.md).
-3.  "Your heart beats faster as the end draws near." while in a area that is not the Depths or a Voidzone and you are on your last live.
+3.  "Your heart beats faster as the end draws near." while in a area that is not the Depths or a Voidzone and you are on your last life.
 4.  "Adrenaline surges into your veins as tensions thicken." while in a area that is not the Depths or a Voidzone and you have two lives left.
 
 ## Trivia/Notes

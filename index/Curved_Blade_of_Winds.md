@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 143152
+revid: 143707
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons", Multiple Criticals]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 | damage | 17.5 |
 | scaling | MED: 5, WND: 5 |
 | range | 8 |
-| swing speed | 1.04x, 1.02x (one-handed) |
+| swing speed | 1.04x (one-handed), 1.02x (two-handed) |
 | penetration | 15% |
 | chip damage | 5% |
 | special effect | Aftercut is applied to all attacks. |
@@ -70,3 +70,5 @@ The user shoots a blast of air and on collision or after a short amount of time 
 -   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", which has no meaning.
 -   As the weapon is a dual wield, you are unable to utilize a Shield or Off-Hand gun.
 -   The original model was a Wardens Blade with wind particles put onto the blade.
+-   When one-handing this weapon, you have two blades, meaning the two-hand stance only has one.
+    -   This often leads people to mistake the single sword stance as the faster stance.

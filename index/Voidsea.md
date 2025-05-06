@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 142256
+revid: 143706
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -39,7 +39,7 @@ Sometimes, when you are sailing through **Voidsea**, you may be teleported to a 
 -   As seen from the book, _Studies on Canticlysm, Vol. IV_, the Voidsea was originally called The World's Edge.
 -   Dying in [Boatman's Watch](<Boatman's_Watch.md>), [Beloved Zofia](Beloved_Zofia.md) and [Moon's Eyrie](<Moon's_Eyrie.md>) will send you to [The Depths](The_Depths.md).
 -   You lose sanity here but it's so low that it won't be a problem
--   The only islands that can spawn are depths islands sometimes harboring a void sea exclusive enemy
+-   Island events that spawn in the Voidsea take on a monochrome appearance.
 -   If you are playing on Low Graphics mode, sailing past 100k in an axis will remove the sea texture, causing you to sail above "the void." Note that it is safe to jump off your boat and swim, and turning off Low GFX will make the sea re-appear.
     
     A boat Floating over the Void.
