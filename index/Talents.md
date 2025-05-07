@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143715
+revid: 143791
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3096,14 +3096,15 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Flashboil \[Common Talent, Dual Attunement\] - Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
     -   Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a _stationary_ steam cloud.
+        -   The burn status effect doesn't count as "Flamecharm damage" for this Talent, meaning if you apply burn via Agitating Spark, Immolation, or some other non-Flamecharm damaging source to a chilled target, nothing will happen.
     -   Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's.
     -   Steam clouds are unparryable, unblockable, and bypass armor resistances.
     -   Steam clouds last 10 seconds and have an internal proc cooldown **per target** of 10 seconds.
     -   This Talent is incredibly good for PvE in high mob density areas like [The Diluvian Mechanism](The_Diluvian_Mechanism.md) because of the AoE nature and long duration per cloud. Additionally, you can create a large amount of steam clouds at the same time by hitting multiple mobs at once.
-    -   This can be used with all Flamecharm attunement paths, however because it's procced easiest with burn, it is not recommended to have Eruption path with this Talent.
+    -   This can be used with Eruption path, however because it's procced easiest with burn, it is not recommended to have said path with this Talent.
     -   Prerequisites: 30 Flamecharm, 30 Frostdraw
     -   Mutual Exclusives: Glass Path: Crystallization, Wraith Path: Twisted Puppets
-        -   The mutual exclusive with Crystal and Twisted Puppets paths seems to be a bit buggy though, as Crystal/Puppets paths locks out Flashboil, but not the other way around.
+        -   The mutual exclusive with Crystal and Twisted Puppets paths seems to be a bit buggy though, as Crystal/Puppets paths locks out Flashboil, but not the other way around. (Obtain Flashboil **before** you obtain the Crystal/Twisted Path(s) to have both.)
 
 -   Boiling Point \[Common Talent, Dual Attunement\] - Using a fire mantra near your own steam cloud detonates it.
     -   Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.

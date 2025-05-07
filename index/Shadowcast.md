@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 143708
+revid: 143794
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -149,7 +149,6 @@ Shadow + Slash
 -   Deals 57.42 (19.14\*3) DMG, 9.99 posture (3.33\*3), 12s CD at 5 lvl.
 -   With 6 Songchant 63.9 (21.3\*3) DMG
 -   Has 9.178x PVE scale (19.14 DMG PVP, 175.67 PVE DMG)
--   Shares a cooldown with all other blade Mantras.
 -   Adding Rush Shards make Dark Blade faster.
 -   Adding Vibrant Gems increase Ether steal.
 -   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes. (Extra 19.14 DMG)

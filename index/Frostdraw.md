@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 142919
+revid: 143797
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -278,7 +278,6 @@ Ice
     -   Can't be increased.
 -   1st and 2nd hit are parryable.
 -   Cancels if parried.
--   Shares a cooldown with all other "blade" Mantras.
 -   Can be canceled halfway like the Rapid Punches Mantra.
 
  |

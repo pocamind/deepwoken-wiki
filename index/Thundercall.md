@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 143736
+revid: 143800
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -194,9 +194,10 @@ Lightning + Slash
 -   Deals 26.32 (13.16\*2) + 26.95 (Stormcaller, 0.6s windup) DMG, 10s CD
 -   With 6 songchant its 29.28 (14.64\*2) + 26.95 (Stormcaller)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
--   At end of mantra, performs a "**Stormcaller Slash**", which can be cancelled by pressing the \[F\] key.
+-   Can be cancelled midway after the first 2 slashes by right-clicking.
+-   At end of Mantra, performs a "**Stormcaller Slash**", a former talent which is now innate.
+    -   Can be right-click cancelled right after the flash of lightning, which puts the Mantra on CD for 5 seconds.
     -   Can be stacked with the **Magnet Spark** variant of the mantra to perform 4 slashes in total.
--   Shares a cooldown with all "blade" Mantras, **except** for [Fire Blade](Flamecharm.md#fire-blade).
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform a **third** short-ranged teleporting slash.
 
  |
