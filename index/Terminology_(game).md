@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 143672
+revid: 143781
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -370,7 +370,7 @@ _verb_
 
 Even if you have both lives, your health bar will be stained in [Voidzones](Voidzones.md).
 
-### **Stained**
+### Stained
 
 _noun_
 
@@ -627,7 +627,7 @@ _adjective_
     1.  Ex. "What's the minmaxed HP on any helmet?"
     2.  Typically less common than Godroll.
 
-### **Mage**
+### Mage
 
 _noun_
 
@@ -686,13 +686,13 @@ _noun_
 
 ### Vantablack
 
-**adjective**
+_adjective_
 
 1.  Where a player's outfit consists of pure black-dyed or otherwise very dark equipment to obscure their body and make their attacks difficult to discern, or to blend in with the black color of their weapon or the VFX of their attacks.
 
 ### Vantawhite
 
-**adjective**
+_adjective_
 
 1.  Where a player's outfit consists of pure white-dyed or otherwise very bright equipment to obscure their body and make their attacks difficult to discern, or to blend in with the bright color of the VFX of their attacks.
 

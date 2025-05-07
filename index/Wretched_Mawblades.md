@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 141614
+revid: 143790
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide]
@@ -45,6 +45,7 @@ Slash forward with both blades, before spinning around in a bloody slash.
 -   Rephika is a [Chrysid](Chrysid.md) surname, while Narsus is a [Khan](Khan.md) surname.
 -   Shortly after release, this weapon became infamous for doing hilariously high amounts of damage with its Critical Attack when Guard Breaking another player if enchanted with the Stone enchantment, enough to one shot players. This was confirmed to be a bug, and was promptly fixed in a [hotfix on the 9th of November 2024](Version_History/2024.md).
 -   when initially released, the Wretched Mawblades only needed 55HVY to use, this was changed to the current requirements on [November 16th, 2024](Version_History/2024.md).
+-   From it's description, Canary Rephika and Grimlock Narsus were experimented on by lightborns with the two becoming the mawblades.
 
 ## References
 

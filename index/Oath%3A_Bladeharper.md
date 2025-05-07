@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 142629
+revid: 143769
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -148,3 +148,4 @@ Finally the most important piece of advice, stay calm, as you would with any and
 -   The slashing effects closely resemble the "Cleave" and "Dismantle" abilities of Ryomen Sukuna from _Jujutsu Kaisen_.
 -   Originally, Decimate could not be used on Fist weapons of any kind. This was theorized to be due to Melonbeard's disliking to the Fist weapon class, which he is very open about.
     -   When asked about this, Melonbeard said "No Sukuna build"
+-   The mirror self can sometimes speak. The only instance so far is of it saying "Behold my magic spell."

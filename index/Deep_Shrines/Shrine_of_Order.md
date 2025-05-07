@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 143728
+revid: 143786
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -20,7 +20,7 @@ categories: [NPCs, Mechanics]
 
 ## Location
 
-Path
+The path
 
 Located in: [Songseeker Mines](../Songseeker_Wilds.md), through the passage containing mudskippers.
 

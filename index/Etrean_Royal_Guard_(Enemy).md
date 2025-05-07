@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 143750
+revid: 143784
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies, Etrea]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Enemies, Enemies that can wield Encha
 
 # Etrean Royal Guard (Enemy)
 
-Not to be confused with the outfit that posesses a similar name, that being the [Royal Etrean Guard](Royal_Etrean_Guard.md) outfit.  
+_Not to be confused with the [Etrean Royal Guard NPC](<Etrean_Royal_Guard_(NPC).md>) or the [Royal Etrean Guard](Royal_Etrean_Guard.md) outfit._  
 Template:EnemyInfobox1.0
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 142732
+revid: 143788
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -34,7 +34,7 @@ The twinblades contain several wax candles on each end.
 
 ## Critical
 
-Spin the weapon above your head before preforming a slam that lights enemies on fire and deals high posture. You move faster while spinning the weapon.
+Spin the weapon above your head before preforming a slam that lights enemies on fire and deals high posture. During the windup you will move faster.
 
 ## Trivia
 
@@ -43,3 +43,4 @@ Spin the weapon above your head before preforming a slam that lights enemies on 
 -   Using the critical while having speed boosts i.e. speed potions causes you to move at great speeds.
 -   It was originally Unique tier, being unbankable and unsellable. It was changed to be the same tier as all other Hallowtide weapons in a hotfix after the weapon's release.
 -   The critical used to guardbreak, however, it was nerfed to just do high posture.
+-   Despite it's 1.01x swing speed it oddly outpaces weapons that have a 1.02x swing speed in an m1 clash.

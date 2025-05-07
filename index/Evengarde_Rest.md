@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 143113
+revid: 143778
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -20,7 +20,7 @@ _This is his appearance as a static NPC within the [Temple of the Blade](Temple_
 
 **Evengarde Rest** is the current Maestro of the Vigil Guard and is highly respected by all of them. He resides within [The Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. A master of combat arts, Rest is able to teach players how to overcome the limits of their weapon proficiencies.
 
-Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's attribute.
+Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence." If you lack 75 points in your weapon type's attribute, he will not uncap it
 
 After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals his devotion to the kingdom and his aspirations of felling [the evil that controls it](The_Ministry.md). However, he expresses dissatisfaction at his inability to deter [The Central Authority](The_Central_Authority.md) should [The Lord Regent](The_Lord_Regent.md) be eliminated, which would almost certainly result in them staging a final assault with everything they have. Seeing the assimilation of cultures into the Authority's war machine as a fate worse than even the one the Ministry has in store for them, he can only watch as his people are puppeteered by forces beyond their knowledge and control to their deaths.
 

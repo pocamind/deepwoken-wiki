@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 143340
+revid: 143787
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, Medium Weapons]
@@ -34,14 +34,17 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, Medium W
 
 The weapon shares its M1s with other twinblades.
 
-The running attack consists of two hits; the first one comes out normally, while the second one is slightly delayed. If the first hit is parried, the second one does not come out.
+The running attack consists of two hits, the first one comes out normally, while the second one is slightly delayed. If the first hit is parried, the second one does not come out.
 
 Like all other Twinblades, the Crescendo possesses a unique aerial attack animation.
 
 ## Critical
 
-Perform two spinning attacks with hyperarmour, however the Crescendo's critical requires a hit on its initial slash to maintain hyperarmour. Both attacks have long windups.
+Perform two spinning attacks.
 
 ## Trivia
 
 -   For a while after the weapons release, its critical hit was unparriable. This was later confirmed to be a bug and fixed.
+-   Prior to having it's hyperarmor removed, players using this weapon could immediately use the critical even after getting parried which lead the enemy to get hit for parrying and m1ing.
+-   It's hyperarmor was removed in exchange for a faster windup on the second part of the attack.
+-   You can feint the second hit on the critical if you hold R + M2 on your keyboard and mouse, though it is not recommended as if you just hold M2 it won't be feinted alongside the fact that you are vulnerable while feinting as your index finger can't move fast enough to parry.
