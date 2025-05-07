@@ -1,6 +1,6 @@
 ---
 title: Volu
-revid: 143775
+revid: 143824
 source: https://deepwoken.fandom.com/wiki/Volu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, The Ministry]
@@ -20,7 +20,7 @@ Volu is a [Capra](Capra.md) NPC, he is affiliated with [The Ministry](The_Minist
 
 ## Location
 
-Volu is located in [Outpost Antumbra](Outpost_Antumbra.md) in the basement that leads to the [Trial of One](Trial_of_One.md), leaning against a wall with a pedastal next to him.
+Volu is located in [Outpost Antumbra](Outpost_Antumbra.md) in the basement that leads to the [Trial of One](Trial_of_One.md), leaning against a wall with a pedestal next to him.
 
 ## Dialogue
 

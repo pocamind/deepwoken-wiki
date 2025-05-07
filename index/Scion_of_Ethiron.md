@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 143662
+revid: 143802
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -161,7 +161,7 @@ Dodgeable:◯
 
 ## Beating the Scion
 
-While the Scion may look incredibly daunting to fight, it is regarded as one of the easiest bosses ingame by the wider community. But make sure to **calm down** before fighting the Scion, as panic will lead to you being hit by it's ultimate.
+While the Scion may look incredibly daunting to fight, it is regarded as one of the easiest bosses ingame by the wider community, having **no threatening moves** aside from the ultimate. But make sure to **calm down** before fighting the Scion, as panic will lead to you being hit by it's ultimate.
 
 _**Note that many forms of on-demand Invincibility are disabled, and as such should not be relied on to dodge it's Ultimate.**_
 

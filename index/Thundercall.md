@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 143800
+revid: 143825
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -44,8 +44,9 @@ You can speak to [Funke](Funke,_Master_of_Thunder.md) to upgrade your Thundercal
 -   To upgrade a Thundercall Mantra from level 3 to level 4 costs.
 -   To upgrade a Thundercall Mantra from level 4 to level 5 costs.
 
-Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.  
-Thundercall Unbound can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
+Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.
+
+[Thundercall Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ## Mantras
 

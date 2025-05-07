@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 143655
+revid: 143836
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in 
 | Korin | |
 |---|---|
 | name | Korin |
-| aspect | File Etrean |
+| aspect | Etrean |
 | location | Etris |
 
 ## Description

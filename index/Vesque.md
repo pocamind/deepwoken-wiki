@@ -1,6 +1,6 @@
 ---
 title: Vesque
-revid: 142812
+revid: 143837
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
@@ -16,11 +16,37 @@ categories: [Etrean NPCs, NPCs located in the Etrean Luminant, NPCs]
 
 ## Description
 
-**Vesque** is an [Etrean](Etrean.md) NPC located on the [Isle of Vigils](Isle_of_Vigils.md), who teaches the [Fang and Coil](Fang_and_Coil.md) fighting style. From his dialogue, it can be inferred that he is a [Vigil](The_Vigils.md) belonging to a special division that practices hand-to-hand combat.
+Vesque is an [Etrean](Etrean.md) NPC who teaches the [Fang and Coil](Fang_and_Coil.md) fighting style. From his dialogue, it can be inferred that he is a [Vigil](The_Vigils.md) belonging to a special division that practices hand-to-hand combat.
+
+## Location
+
+Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a small tree, that is infront of the [Cave Master](Cave_Master.md)'s cave.
 
 ## Dialogue
 
 **First Encounter:**
+
+**Negative Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Tch. Get lost. And keep my name out of your mouth, you hear?</td>
+</tr>
+<tr>
+  <td>I haven't even said your name?</td>
+</tr>
+<tr>
+  <td>Keep it that way. Or else. You get me?</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 **Requirements Unmet:**
 

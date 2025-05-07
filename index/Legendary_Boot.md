@@ -1,9 +1,9 @@
 ---
 title: Legendary Boot
-revid: 142745
+revid: 143833
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Legendary Boot
@@ -16,7 +16,7 @@ categories: [NPCs]
 
 ## Descrition
 
-The legendary Boot is an NPC that servers as a joke.
+The legendary Boot is an NPC that has no purpose other than being a silly joke.
 
 ## Location
 

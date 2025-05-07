@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 143045
+revid: 143805
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -534,7 +534,7 @@ N/A
 
 ### _Agility Mantras_
 
-Agility Mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with Ankle weights by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _assassinations._
+Agility Mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with [Ankle Weights](Training_Gear.md#attribute-training-gears) by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _assassinations._
 
 | 
 **Name**

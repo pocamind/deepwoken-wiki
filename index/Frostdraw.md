@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 143797
+revid: 143823
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -45,6 +45,10 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   Upgrading a Frostdraw Mantra from level 2 to level 3 costs.
 -   Upgrading a Frostdraw Mantra from level 3 to level 4 costs.
 -   Upgrading a Frostdraw Mantra from level 4 to level 5 costs.
+
+Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
+
+[Frostdraw Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ## Mantras
 
@@ -278,7 +282,8 @@ Ice
     -   Can't be increased.
 -   1st and 2nd hit are parryable.
 -   Cancels if parried.
--   Can be canceled halfway like the Rapid Punches Mantra.
+-   Can be upgraded with the **Glacial Mobility** Talent, which allows you to perform two spinning slices when casting the Mantra after a slide jump.
+-   Can be canceled by timing a right-click after any of the slashes.
 
  |
 | 

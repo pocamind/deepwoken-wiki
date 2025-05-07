@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 143680
+revid: 143822
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -53,8 +53,9 @@ You can speak to [Vyrelda](Vyrelda,_Master_of_Blood.md) at [Derelict Highchurch]
 -   To upgrade a Bloodrend Mantra from level 3 to level 4 costs.
 -   To upgrade a Bloodrend Mantra from level 4 to level 5 costs.
 
-Mantra levels will cost 50% more Notes if you use the [Songwright](Songwright.md) NPC to upgrade them.  
-Bloodrend Unbound can be obtained by defeating any humanoid boss (Duke, Chaser, Ferryman, etc), while having 75 points invested into it.
+Mantra levels will cost 50% more Notes if you use the [Songwright](Songwright.md) NPC to upgrade them.
+
+[Bloodrend Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ## Mantras
 

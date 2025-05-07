@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 142865
+revid: 143820
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -55,8 +55,9 @@ You can speak to [Adar](Adar,_Master_of_Metal.md) at [Miner's Landing](<Miner's_
 -   To upgrade a Ironsing Mantra from level 3 to level 4 costs.
 -   To upgrade a Ironsing Mantra from level 4 to level 5 costs.
 
-Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.  
-Ironsing Unbound can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
+Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.
+
+[Ironsing Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ## Mantras
 

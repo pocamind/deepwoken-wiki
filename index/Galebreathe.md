@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 142793
+revid: 143826
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -30,19 +30,23 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
 Galebreathe can be trained by using a combination of Gale Kata and Galebreathe Mantras.
 
-Like all other elements, users can see their Mantras become stronger with training:
+Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At Galebreathe level 1, Galebreathers receive the _Galebreather_ Talent. This allows players to use 0-star Galebreathe mantras.
--   At Galebreathe level 20, players receive the _Adept Galebreather_ Talent. This allows players to use 1-star Galebreathe mantras.
--   At Galebreathe level 30, players receive the _Expert Galebreather_ Talent. This allows players to use 2-star Galebreathe mantras.
--   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent. This finally allows Galebreathe users to unlock the last category, 3-star Mantras. This Talent also grants +5 HP.
+-   At 1 Galebreathe, players will receive the _Galebreather_ Talent. This allows players to obtain 0-star Galebreathe Mantras.
+-   At 20 Galebreathe, players will receive the _Adept Galebreather_ Talent. This allows players to obtain 1-star Galebreathe Mantras.
+-   At 30 Galebreathe, players will receive the _Expert Galebreather_ Talent. This allows players to obtain 2-star Galebreathe Mantras.
+-   Finally, at 50 Galebreathe, players will receive the _Master Galebreather_ Talent. This allows players to obtain 3-star Galebreathe Mantras.
 
-You can upgrade Galebreathe Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+Galebreathe Mantras are upgraded at the [Attunement Trainers](Attunement_Trainers.md) [Friid](Friid,_Master_of_Gale.md).
 
 -   To upgrade a Galebreathe Mantra from level 1 to level 2 costs.
 -   To upgrade a Galebreathe Mantra from level 2 to level 3 costs.
 -   To upgrade a Galebreathe Mantra from level 3 to level 4 costs.
 -   To upgrade a Galebreathe Mantra from level 4 to level 5 costs.
+
+Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
+
+[Galebreathe Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ## Mantras
 
