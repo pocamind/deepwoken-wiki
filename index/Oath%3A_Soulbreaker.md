@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 142568
+revid: 143738
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -119,13 +119,13 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
 
 ## Version History
 
-January 12th 2025
-
--   Broken mantras fixed (Rhythm Advance, Ardour Blade)
-
 January 11th 2025
 
 -   Added to the game.
+
+January 12th 2025
+
+-   Broken mantras fixed (Rhythm Advance, Ardour Blade)
 
 February 8th 2025
 

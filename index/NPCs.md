@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 143713
+revid: 143764
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -57,6 +57,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Emel](Emel.md) | [The Ministry](The_Ministry.md) | [Summer Isle](Summer_Isle.md), island near the port | Grants quest to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | [Epsi](Epsi.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | He is part of the quest to obtain [Oath: Arcwarder](Oath%253A_Arcwarder.md) |  |
 | [Eres](Eres.md) | [The Kingdom of Etrea](Etrea.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
+| [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Erisae](Loot_Bag_Gacha.md) | Unaligned | Inside [Erisor's Church](<Erisor's_Church.md>) | Gacha NPC, in exchange for 350, she will give you something random from the Erisia lootpool out of her bag |  |
 | [Maestro Evengarde Rest](Evengarde_Rest.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
 | [Exter](Exter.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | None |  |
@@ -141,7 +142,6 @@ Check the rest out for yourself, canonically smells really bad
 | [Renau](Renau.md) | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |  |
 | [Rimil](Rimil.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants quest to kill an enemy in the [Starswept Valley](The_Starswept_Valley.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | [Rook Rethige](Rook_Rethige.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | None | Speaks like a discord user |
-| Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Saffron](Saffron.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |
 | [Samael](Samael.md) | Starkindred Faithful | [Derelict Highchurch](Derelict_Highchurch.md) | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
 | [Scope](Scope.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
@@ -164,6 +164,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Vesque](Vesque.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Gives you the [Fang and Coil](Fang_and_Coil.md) fist style |  |
 | [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |  |
 | [Voidmother](The_Voidmother.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Sends you out of Voidheart |  |
+| [Volu](Volu.md) | [The Ministry](The_Ministry.md) | [Outpost Antumbra](Outpost_Antumbra.md) | Grants you the [Bloodfouler](Bloodfouler.md) upon giving him all 3 [Strange Tomes](Strange_Tomes.md) |  |
 | [Vtreshi](Vtreshi.md) | [The Divers](The_Divers.md) | [Second Layer](Second_Layer.md) | Gives a bit of dialogue about the union hook and Ignition Union. |  |
 | [Vyrelda](Vyrelda,_Master_of_Blood.md) | Unaligned | [Second Layer](Second_Layer.md), in an Igloo at [Firfire](Firfire.md), [Derelict Highchurch](Derelict_Highchurch.md) | Begins the quest to obtain Bloodrend. | Will ask you to hunt down students of the Second Skulking who drop Heartstars and bring 3 of them back to her. |
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |  |
