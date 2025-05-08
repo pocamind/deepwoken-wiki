@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 143819
+revid: 143930
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -110,7 +110,7 @@ Shadow + Slash (Grab), Blunt (Slam)
 **Effect:** _Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage. The caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage_
 
 -   Refills about the same amount of Ether as the spell cost.
--   Deals 57.41 (47.84 grab + 9.57 slam.) DMG, 6.5 posture, 11.5s CD.
+-   Deals 57.41 (47.84 grab + 9.57 slam.) DMG, 6.5 posture, 11.5s CD. 3s CD when missed.
 -   With 6 Songchant 63.9 (53.25+10.65) DMG
 -   Grab has 9.18x PVE scale, Slam has 59.47x PVE scale (47.84 DMG grab + 9.57 slam PVP, 439.17 DMG grab + 569.17 slam PVE)
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun

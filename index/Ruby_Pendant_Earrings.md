@@ -1,6 +1,6 @@
 ---
 title: Ruby Pendant Earrings
-revid: 133347
+revid: 143931
 source: https://deepwoken.fandom.com/wiki/Ruby_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -30,5 +30,5 @@ categories: [Equipment, Ears]
 
 ## Trivia
 
--   Amethyst Pendant Earrings look ALMOST the same as [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), only difference being a slight recolor.
+-   Ruby Pendant Earrings look ALMOST the same as [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), only difference being a slight recolor.
 -   These Earrings are a part of the Pendant series of Earrings this list includes, [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md), [Pendant Earrings](Pendant_Earrings.md).
