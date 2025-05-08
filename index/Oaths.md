@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 142833
+revid: 143882
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -251,5 +251,5 @@ Proof of Time Magic's existence and it being an "Oath"
     -   It takes 3 shards to obtain the Oath, and one for each subsequent Talent.
 -   [Oathless](Oath%253A_Oathless.md) does not take 10 [Knowledge](Knowledge.md) when skipped, instead grants the Oath immediately.
     -   This is only after uptraining _Oathless_ once.
--   Currently, there are four Oaths where you cannot skip progression with Knowledge. These Oaths are: [Chainwarden](Oath%253A_Chainwarden.md), [Bladeharper](Oath%253A_Bladeharper.md), [Saintsworn](Oath%253A_Saintsworn.md), and [Soulbreaker](Oath%253A_Soulbreaker.md)
+-   Currently, there are three Oaths where you cannot skip progression with Knowledge. These Oaths are: [Chainwarden](Oath%253A_Chainwarden.md), [Bladeharper](Oath%253A_Bladeharper.md), and [Soulbreaker](Oath%253A_Soulbreaker.md)
     -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.

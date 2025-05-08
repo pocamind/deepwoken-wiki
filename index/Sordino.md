@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 143846
+revid: 143883
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
@@ -149,11 +149,11 @@ Sordino's Marvellous Menagerie
   <td colspan="2">Wait. Can you alter people's memories with your ability?</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">O'course, you jus' let me know if any catch yer eye. They're all lovely sorts, really. Er. Once I work me magic, that is.</td>
   <td colspan="2">Why? Who's askin'? Someone put you up to this?</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">End</td>
   <td colspan="2">Uh. Just personal curiosity.</td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ Sordino's Marvellous Menagerie
   <td colspan="2">Naw. Right nasty one he was. Cheated at cards the one time. Deserved it.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2"></td>
   <td colspan="2">End</td>
 </tr>
 </tbody>

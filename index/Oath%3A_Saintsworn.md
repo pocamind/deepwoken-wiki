@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 143810
+revid: 143880
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -219,6 +219,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
     Pyre Keeper's color changing when using its Critical with Saintsworn
     
     -   According to Nuttoons, this is because in the game's code, the game looks for meshes named "Blade" within your currently equipped weapon to apply the Saintsblade color to.[\[1\]](#cite-note-1)[\[2\]](#cite-note-2)
+-   Each Obelisk is surrounded by a kind of damaging floor hazard. Flamecharm's is surrounded by lava; Galebreathe's is surrounded by acid; Thundercall's is surrounded by a bright yellow floor hazard that applies [Shock](Status_Effects.md#shock); and Frostdraw's is surrounded by a cyan floor hazard that applies [Chill](Status_Effects.md#chill). All except for Shadowcast, which is already in quite a hazardous position: at the top of the Moon's Eyrie, a [Voidzone](Voidzones.md) that experiences periodic wind that can knock you off of it.
 
 ## References
 

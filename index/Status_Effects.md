@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 142611
+revid: 143910
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -76,15 +76,15 @@ Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your
 
 ### Adrenaline Surge
 
-Have your movement and parkour speed increased by 15% and your swing speed increased by 0.04 if you have Action Surge. Applied by the [Adrenaline Surge](Attunement-less.md#adrenaline-surge) Mantra. Signified by a white circle in your chest.
+Have your movement and parkour speed increased by 15% and your swing speed increased by 0.04 if you have the [Action Surge](Talents.md#vigil-swordsman) talent. Applied by the [Adrenaline Surge](Attunement-less.md#adrenaline-surge) Mantra. Signified by a white circle in your chest.
 
 ### Radiant
 
-Become immune to all elemental status effects. Gained by proccing the Absolute Radiance Talent from the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath
+Become immune to all elemental status effects. Gained by proccing the Absolute Radiance Talent from the [Dawnwalker](Oath%253A_Dawnwalker.md) oath.
 
 ### Gone Berserk
 
-Gain a 20% defense boost to all sources. Applied after knocking someone with the Talent [Berserker](Talents.md#miscellaneous).
+Gain a 20% defense boost to all sources. Applied after knocking someone with the Talent [Berserker](Talents.md#miscellaneous). Signified by a yellow hue surrounding your character upon being hit.
 
 ### Berserking Rage
 
@@ -93,6 +93,10 @@ At the cost of draining all of your armor, your M1 and Critical attacks bypass y
 ### Overcharm
 
 Apply charm every M1 and Mantra landed, even without having the Charismatic Cast or Tough Love Talents. Deal 10% more damage with basic attacks to enemies charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md#sing) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also self proc [Charm](#charmed), thereby reducing your self-damage by 10%.
+
+### Inspired
+
+Granted by reaching 3 stacks of Inspiration with the [Ether Conduit](Talents.md#ether-adept) talent. Stacks of Inspiration can be gained through the talents [Ether Absorption](Talents.md#ether-adept) and [Ether Blade](Talents.md#ether-adept). Mantras deal 10% more damage for the duration of the status, which is always 5 seconds long. Signified by a light blue hue and outline surrounding your character.
 
 ### Mark of Jurik
 

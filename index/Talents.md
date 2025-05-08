@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143860
+revid: 143884
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1031,8 +1031,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Agility, 15 Intelligence
 
 -   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load)
-    -   6 second Cooldown.
+    -   5 second Cooldown.
     -   Stacks of Inspiration last 3 seconds. New stacks do not refresh the duration.
+    -   Contrary to the in-game talent description, the damage buff ("Inspired" status) lasts 5s instead of 3s.
     -   Prerequisite: 30 Intelligence
 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load)
