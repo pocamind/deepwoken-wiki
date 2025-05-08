@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 140716
+revid: 143949
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Alchemy, Starswept Valley, NPCs, Quests, NPCs located in the Eastern Luminant]

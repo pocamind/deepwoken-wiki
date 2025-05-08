@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 143682
+revid: 143941
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -124,7 +124,7 @@ Ice + Shadow
 
 -   Deals moderate damage.
 -   Inflicts Chill.
--   Works with [Twisted Puppets](Talents.md) applying fire but not spawning puppets.
+-   Works with [Twisted Puppets](Talents.md) applying Shadow Burn (it won't spawn puppets).
 -   Compatible with [Cloudstones/Stratus Stones](Mantra_Modifiers.md) to make the AoE larger.
 -   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md) but does not seem to do any effect. (Currently bugged, Aeon Logstones work but Eternal Logstones appear to shorten the amount of hits)
 -   Can be modified with [Magnet Spark](Mantra_Modifiers.md) allowing it to follow the user.
@@ -469,8 +469,8 @@ Wind + Lightning + Slash
   <td><center>40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.</center></td>
-  <td><center>Applying burn via any non-Shadowcast source summons a puppet. Burn from all sources is now black. Burn from all non-Shadowcast sources deals low damage and drains Ether. Shadowcast damage applies a low damage burn that does not drain Ether nor spawn puppets.</center></td>
-  <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
+  <td><center>Burn, Blazing Enchant, and Flamecharm legendary weapons are now black. Both Twisted Puppets burn types deal low damage and <b>drain</b> ether. Applying burn via any non-Shadowcast source summons a puppet. Puppets have a 4s spawn cd, deal 20 typeless damage, and 10 posture damage.</center></td>
+  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Moths to a Flame<br>
@@ -479,8 +479,8 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>You summon a puppet of black flames that homes onto enemies with black flames.</center></td>
-  <td><center>Your puppets now seek out the nearest person who's burning with black flames. Additionally, they will continue seeking for a few seconds after their burn is removed.</center></td>
-  <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
+  <td><center>Your puppets now seek out the nearest person who's burning with black flames. Additionally, they will continue seeking for a few seconds after their burn is removed. Puppets gain a speed boost when moving near a burning opponent.</center></td>
+  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Burning Puppets<br>
@@ -489,8 +489,8 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Your puppets can now inflict burn and fire-based Talents when they explode.</center></td>
-  <td><center>When your puppets hit your opponent, they will apply burn and will proc Flamecharm Talents.</center></td>
-  <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
+  <td><center>When your puppets hit your opponent, they will apply Puppet Burn (burn that spawns puppets) and gain 5 Flamecharm scaling. Increasing their damage by 0.1 per point in Flamecharm up to 30 damage at 100 Flamecharm.</center></td>
+  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Explosive Rage<br>
@@ -499,8 +499,8 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.</center></td>
-  <td><center>Causing an explosion will buff your puppets, making them move faster and deal 50% more damage.</center></td>
-  <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
+  <td><center>Causing an explosion via the Detonation <a href="Enchantments.md#blessings">Enchant</a>, The Final Act, or Explosive Finish will buff your puppets, making them move faster and deal 50% more damage. The damage buff is currently bugged and does not work.</center></td>
+  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Burning Sacrifice<br>
@@ -510,8 +510,8 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.</center></td>
-  <td><center>Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds.</center></td>
-  <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
+  <td><center>Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds. Puppets turn purple if they've been alive for 15 seconds.</center></td>
+  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -882,8 +882,8 @@ Wind + Lightning + Slash
   <td><center>40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.</center></td>
-  <td><center>Applying burn via any non-Shadowcast source summons a puppet. Burn from all sources is now black. Burn from all non-Shadowcast sources deals low damage and drains Ether. Shadowcast damage applies a low damage burn that does not drain Ether nor spawn puppets.</center></td>
-  <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
+  <td><center>Burn, Blazing Enchant, and Flamecharm legendary weapons are now black. Both Twisted Puppets burn types deal low damage and <b>drain</b> ether. Applying burn via any non-Shadowcast source summons a puppet. Puppets have a 4s spawn cd, deal 20 typeless damage, and 10 posture damage.</center></td>
+  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Moths to a Flame<br>
@@ -892,8 +892,8 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>You summon a puppet of black flames that homes onto enemies with black flames.</center></td>
-  <td><center>Your puppets now seek out the nearest person who's burning with black flames. Additionally, they will continue seeking for a few seconds after their burn is removed.</center></td>
-  <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
+  <td><center>Your puppets now seek out the nearest person who's burning with black flames. Additionally, they will continue seeking for a few seconds after their burn is removed. Puppets gain a speed boost when moving near a burning opponent.</center></td>
+  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Burning Puppets<br>
@@ -902,8 +902,8 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Your puppets can now inflict burn and fire-based Talents when they explode.</center></td>
-  <td><center>When your puppets hit your opponent, they will apply burn and will proc Flamecharm Talents.</center></td>
-  <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
+  <td><center>When your puppets hit your opponent, they will apply Puppet Burn (burn that spawns puppets) and gain 5 Flamecharm scaling. Increasing their damage by 0.1 per point in Flamecharm up to 30 damage at 100 Flamecharm.</center></td>
+  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Explosive Rage<br>
@@ -912,8 +912,8 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.</center></td>
-  <td><center>Causing an explosion will buff your puppets, making them move faster and deal 50% more damage.</center></td>
-  <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
+  <td><center>Causing an explosion via the Detonation <a href="Enchantments.md#blessings">Enchant</a>, The Final Act, or Explosive Finish will buff your puppets, making them move faster and deal 50% more damage. The damage buff is currently bugged and does not work.</center></td>
+  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Burning Sacrifice<br>
@@ -923,8 +923,8 @@ Wind + Lightning + Slash
   40 Flamecharm<br>
   40 Shadowcast</center></td>
   <td><center>Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.</center></td>
-  <td><center>Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds.</center></td>
-  <td><center><i>"I seek the qualities of twisted puppets."</i></center></td>
+  <td><center>Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds. Puppets turn purple if they've been alive for 15 seconds.</center></td>
+  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 </tbody>
 </table>

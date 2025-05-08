@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 143247
+revid: 143944
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -166,11 +166,8 @@ File:Ignition Union.png
 -   [Bandits](Bandit.md)
 -   [Songseekers](Songseeker_Wilds.md)
 -   [Golden Rat Fighters](Rat_Fighter.md)
--   [Immortal Guardians](Immortal_Guardian.md)
 -   [Blacksteel Pirates](Blacksteel_Pirate.md)
 -   [Starkindred Church](Samael.md)
-
-  
 
 ## Trivia
 

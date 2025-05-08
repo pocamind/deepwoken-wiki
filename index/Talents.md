@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143884
+revid: 143945
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -502,8 +502,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
     -   Drains 4.5 HP per second and 2% Blood per second. The damage taken from this **cannot** be reduced by any source.
-    -   Grants a 15% damage buff to all sources of DMG & bypasses DMG cap making possible to get 2.01x DMG mods instead of 1.75x
-    -   Increases blood damage by +35% (additive).
+    -   Grants a 15% damage buff to all sources of DMG. This is affected by the damage multiplier cap.
+    -   Increases blood bar damage by +35% (additive).
     -   Grants a 30% active speed boost. This counts for talents such as Speed Demon and Cheap Shot.
     -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
     -   Prerequisite: 50 Bloodrend
