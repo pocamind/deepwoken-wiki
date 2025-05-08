@@ -1,6 +1,6 @@
 ---
 title: Eiris
-revid: 141956
+revid: 143869
 source: https://deepwoken.fandom.com/wiki/Eiris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -22,7 +22,7 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, NPCs locat
 
 ## Description
 
-Eiris is an NPC that you must speak to in order to unlock the [Voidwalker Origin](Origins.md#voidwalker). After meeting the requirements of gripping 5 non-allied players on a single slot (Chimes of Conflict counts as 0.5 of a grip), you may find them resting against the mast under the dock of the non-burning boat flying red flags during the [Knives of Eylis vs Kingdom of Etrea random event](Random_Encounters.md#fights-between-factions).
+Eiris is an NPC that you must speak to in order to unlock the [Voidwalker Origin](Origins.md#voidwalker). After meeting the requirements of gripping 5 non-allied players on a single slot (Chimes of Conflict counts as 0.5 of a grip), you may find them resting against the mast under the dock of the non-burning boat (which flies red flags) during the [Knives of Eylis vs Kingdom of Etrea random event](Random_Encounters.md#fights-between-factions).
 
 ## Dialouge
 

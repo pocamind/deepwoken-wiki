@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 143786
+revid: 143871
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -45,7 +45,7 @@ For 10 Knowledge, balance your stats (up to a limit\*), but gain a random Flaw. 
 -   Mantras' upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
 -   You will unequip any weapons you no longer meet the requirements for if the requirements are no longer met.
 -   \*A singular stat cannot lose more than 25 points, with the exception of Attunement stats. which can lose more than 25 points.
--   Does not progress towards Contractor Oath.
+-   Does not progress towards [Contractor Oath](../Oath%253A_Contractor.md).
 
 ## Navigation
 

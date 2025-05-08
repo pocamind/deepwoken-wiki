@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 140291
+revid: 143864
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]

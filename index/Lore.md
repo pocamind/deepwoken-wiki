@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 143429
+revid: 143877
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -309,12 +309,12 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 ### The Dreadstar
 
 -   Located in the [Beloved Zofia](Beloved_Zofia.md).
--   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
+-   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colors are inverted, ~but there is no indication of it being related to the Drowned God.~ (well this is wrong as if you talk to the dreadstar after you either killed all the elemental trainers or spend 10 knowledge to instantly progress the oath the dreadstar **CLEARLY** states, "You offer your heart to the **Keeper,** and lo, fate has claimed our enemies. In time, it will claim them all." The "Keeper," refers to yun'shul, the "keeper" of hearts.)
 -   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the Song.
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, making The Song in you suppressed.
 -   Despite cutting all relations with the Song, a [Silentheart](Oath%253A_Silentheart.md) is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
--   Has a deep hatred against the Song and to the six Attunement trainers (not counting the Attunement-less trainer)
+-   Has a deep hatred against the Song and to the six Attunement trainers (not counting the Attunement-less and the bloodrend trainer)
     -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the Song by attunement users or by other means, but this is just a speculation.
 -   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful.
 
@@ -2004,7 +2004,7 @@ Though technically a blank slate of varying aspects and abilities, even the play
 
 -   Every Player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry, learned through various means.
     -   In the Castaway Origin, they learned this with the training of their captain.
-    -   In the Deepbound Origin, they presumably went through standard Diver training, and even grew up in the Depths.
+    -   In the Deepbound Origin, they presumably went through standard Diver training.
     -   In the Voidwalker Origin, they were presumably trained by the Knives of Eylis.
     -   In the Lone Warrior Origin, they have fuzzy memories of combat.
     -   In the Ignition Union Origin, they've gone through standard Union training, with additional knowledge of caves such as the [Saramaed Hollow](Saramaed_Hollow.md)

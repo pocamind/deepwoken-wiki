@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143811
+revid: 143860
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -530,9 +530,9 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 40 Bloodrend, 40 Frostdraw
 
 -   Electrolyte \[Common Talent, Dual Attunement\] - Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.
-    -   Does not proc electrified, procs shock instead.
-    -   With surge path, apply a surge rod on proc instead of the electrify effect.
-    -   Takes about 3% temporary health per proc.
+    -   Does NOT proc electrify at all.
+    -   Applies shock or a surge rod on proc.
+    -   Takes 3% temporary health per proc.
     -   Prerequisite: 40 Bloodrend, 40 Thundercall
 
 -   Malevolent Sapper \[Common Talent, Dual Attunement\] - The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.

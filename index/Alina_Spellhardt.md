@@ -1,9 +1,9 @@
 ---
 title: Alina Spellhardt
-revid: 141574
+revid: 143853
 source: https://deepwoken.fandom.com/wiki/Alina_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Hallowtide]
+categories: [NPCs, Hallowtide, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant]
 ---
 
 # Alina Spellhardt

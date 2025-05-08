@@ -1,6 +1,6 @@
 ---
 title: Everis Spellhardt
-revid: 141580
+revid: 143866
 source: https://deepwoken.fandom.com/wiki/Everis_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -23,14 +23,13 @@ Everis is one of many [Lightborns](Lightborn.md) scattered across [The Floating 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Would you like to go home?</td>
+  <td>Would you like to go home?</td>
 </tr>
 <tr>
   <td>Yes.</td>
-  <td>End</td>
 </tr>
 <tr>
   <td>Off you go!</td>

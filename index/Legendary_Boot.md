@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 143833
+revid: 143852
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -16,7 +16,7 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 
 ## Descrition
 
-The legendary Boot is an NPC that has no purpose other than being a silly joke.
+The legendary Boot is an NPC that searches for someone worthy to wear it. It is possible to be worthy by having the [Worthy Regalia](Regalia.md).
 
 ## Location
 
@@ -24,32 +24,80 @@ The Legendary Boot is located in [Erisia](Erisia.md) on top of a rock, that is i
 
 ## Dialogue
 
-> Legendary Boot: The Legendary Boot waits for the day that one _**worthy**_ would claim it.
+**Being Unworthy:**
 
-> 1\. \[ Claim it\]
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4"><i>The Legendary Boot waits for the day that one worthy will claim it.</i></td>
+</tr>
+<tr>
+  <td colspan="4">[Claim it]</td>
+</tr>
+<tr>
+  <td colspan="4"><i>Someone <b>WORTHY</b></i>.</td>
+</tr>
+<tr>
+  <td colspan="2">[Requires Resonance]</td>
+  <td colspan="2">[Requires Power 20]</td>
+</tr>
+<tr>
+  <td colspan="2">I've unlocked my Resonance, I should be worthy.</td>
+  <td colspan="2">But i'm really strong, I should be worthy.</td>
+</tr>
+<tr>
+  <td colspan="2"><i>You think carrying around a musical instrument makes you <b>WORTHY?</b></i></td>
+  <td colspan="2"><i>Not strong enough to be <b>WORTHY</b></i>.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
 
-> Something stirs within the depths of your soul, It's as if your very birth, your very reason for existing was meant for this moment. **(Requires the _WORTH_ [Regalia](Regalia.md).)**
+**Being Worthy:**
 
-> \[Just take it already\]
-
-> You hold onto the boot, it tingles with anticipation.
-
-> \[Wear it\]
-
-> As you slip your foot into the boot, a sudden realization dawns on you.
-
-> What?
-
-> Your feet are too big for the **Legendary Boot.**
-
-> 2\. \[End Dialogue\]
-
-> **Legendary Boot**: Someone _**WORTHY**_.
-
-> 1\. But I'm very powerful, I should be _worthy_. (Requires power 8)
-
-> **Legendary Boot: Not powerful enough to be _WORTHY_.**
-
-> 2\. But I've unlocked my resonance, I should be _worthy_.
-
-> **Legendary Boot: You think wielding a musical instrument makes you _WORTHY?_**
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>The Legendary Boot waits for the day that one worthy will claim it.</i></td>
+</tr>
+<tr>
+  <td>[Claim it]</td>
+</tr>
+<tr>
+  <td>[Requires Worthy Regalia]</td>
+</tr>
+<tr>
+  <td><i>Something stirs within the depths of your soul, it's as if your very birth, your very reason for existing was meant for this moment.</i></td>
+</tr>
+<tr>
+  <td>[Just take it already]</td>
+</tr>
+<tr>
+  <td><i>You hold onto the boot, it tingles with anticipation.</i></td>
+</tr>
+<tr>
+  <td>[Wear it]</td>
+</tr>
+<tr>
+  <td><i>As you slip your foot into the boot, a sudden realization dawns on you.</i></td>
+</tr>
+<tr>
+  <td>What?</td>
+</tr>
+<tr>
+  <td><i>Your feet are too big for the <b>Legendary Boot.</b></i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
