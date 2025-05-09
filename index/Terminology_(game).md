@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 143781
+revid: 143952
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -615,7 +615,8 @@ _verb_
 
 1.  To get the most optimal possible combination of Talents and Mantras in your build.
     1.  Ex. "I've wiped like 10 times while trying to minmax this build."
-    2.  May include other stats, like Equipment rolls (see [Godroll](#godroll) above).
+
+May include other stats, like Equipment rolls (see [Godroll](#godroll) above).
 
 ### Minmaxed
 
@@ -815,7 +816,7 @@ _noun_
 
 _noun_
 
-1.  (Kill on Sight) A list of people who are to be killed as soon as any member of someone's guild sees them.
+1.  (Kill on Sight) A list of people who are to be killed as soon as any member of one's guild sees them.
     1.  Ex. "I'm putting you on kos"
 
 ### LFT

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143945
+revid: 143953
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1864,6 +1864,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Flint now has infinite uses.
     -   Obtainment: Wipe with Iron Gut and Termite.
     -   Prerequisite: 20 Mind (20 Intelligence OR 20 Willpower OR 20 Charisma).
+    -   NOTE: As of 4/15/25, Survival Kit is unobtainable due to a bug.
 
 ### Meditative Trance
 

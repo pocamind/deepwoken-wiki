@@ -1,6 +1,6 @@
 ---
 title: "Korilfiend, the Inferno's Provenance"
-revid: 142621
+revid: 143970
 source: https://deepwoken.fandom.com/wiki/Korilfiend%2C_the_Inferno's_Provenance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, Lore]
@@ -16,7 +16,6 @@ Little is known about Korilfiend besides their name, and that the apparently rog
 
 ## Trivia
 
--   They are currently the only Drowned God lacking an epithet.
 -   The description of the Deepfire Ring implies Korilfiend has human fingers.
 -   The Third Layer of the Depths, where Korilfiend resides, is known as _The Vents_.
 -   Crimson Megalodaunts appear with a dark red color because they have been exposed to _The Vents_ and have mutated enough to inherit Flamecharming.
