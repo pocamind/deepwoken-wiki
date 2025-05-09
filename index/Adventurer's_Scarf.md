@@ -1,6 +1,6 @@
 ---
 title: "Adventurer's Scarf"
-revid: 141939
+revid: 144029
 source: https://deepwoken.fandom.com/wiki/Adventurer's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Scarves]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Torso, Scarves]
 | type | Torso |
 | rarity | Variant Based |
 | selling price | Variant Based |
-| requirements | None |
+| requirements | PWR 5 |
 | weight | 0.5 |
 | innate stats | + 3% Attunement Armor, Depending on color, 1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 143953
+revid: 144050
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -181,7 +181,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
     -   Synergizes well with air dashing or mantras that send the user and target in the air.
-    -   Mantras receive a 4% damage boost instead of the promised 5% for an unknown reason.
     -   Prerequisites: 15 Strength, 25 Light Weapon OR 25 Medium Weapon OR 25 Heavy Weapon.
 
 ### Aeromancer
@@ -707,9 +706,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Cold Phantom."**_
 
 -   Freezing Wight \[Common Talent, Dual Attunement\] - Your Haunted Gale now procs Chilled.
-    -   7 seconds duration.
-    -   Applies 1 Crystal if used with Crystallization path.
-    -   Also works with Specter path's Apparitions.
+    -   Applies 7 seconds of chill or 1 Crystal.
+    -   Also works with Specter Path's Apparitions.
+    -   Changes the damage type of Haunted Gale Ghosts/Specter Apparitions from pure Galebreathe to Galebreathe & Frostdraw, making them easier to resist and allowing them to proc things that require the Frostdraw damage type (e.g. Flashboil).
     -   Prerequisites: Haunted Gale, 40 Frostdraw
 
 ### Colossus

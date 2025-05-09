@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 142921
+revid: 144052
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Weapons with Unique Criticals, Items]
@@ -36,7 +36,7 @@ When gripping a player, they will shake and turn transparent for a few seconds b
 
 ## Critical
 
-Hold your spear upwards, glowing with an inner black and red outline for a few seconds, and then move it forward, throwing a group of spears towards your opponent and dealing **bleed** damage.
+Hold your spear upwards, glowing with an inner black and red outline for a moment, and then move it forward, launching a barrage of spears forward and dealing **bleed** damage.
 
 ## Trivia
 

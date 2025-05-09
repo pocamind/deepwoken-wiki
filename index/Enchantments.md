@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 143694
+revid: 144048
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -147,13 +147,11 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
-  Armor drain for weapons within 27-40 DMG range: 1% armor drain per 4.725 SCALED DMG or 6.3 SCALED DMG (Steadfast)<br>
-  <u><b>ARMOR DRAIN DEPENDS ON SCALED DMG OF WEAPON AND NOT AFFECTED BY DMG MODS</b></u><br>
-  Armor drain values are <b>fixed</b> to&nbsp;% DMG and doesn't scale with armor durability.<br>
+  <u>'<i>ARMOR STEAL SCALES OF SCALED DMG AND NOT AFFECTED BY DMG MODS</i></u><br>
+  27-40 scaled DMG armor drain values: 1% armor drain per 4.725 SCALED DMG or 6.3 SCALED DMG (Steadfast)<br>
   Metal has diminishing returns, so you can't drain all your enemy's armor in few hits<br>
-  As example 56 DMG heavy gets 8.3 DMG/1% armor scaling, 45 DMG 6.66 DMG/1% armor, 40.2 DMG 6.3 DMG/1% armor (Steadfast values)<br>
-  You can still steal armor even if target has none.<br>
-  Doesn't drain mobs armor<br>
+  You can still gain armor off even if target has none.<br>
+  Doesn't affect mobs armor<br>
   </p></div></td>
   <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>
@@ -288,12 +286,16 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Weapon gains 1.1x damage.<br>
   Weapon deals additional blood bar damage, scales with weapon damage.<br>
   Curse of the Bloodthirsty's blood loss follows this formula:<br>
-  "0.1 * S * M + (0.1 * S + 3) × (0.9 + 0.1 * M), with S being scaled damage and M being attack blood damage multiplier (M = 1 for slash, M = 0.65 for blunt, M = 3 for daggers)"<br>
-  On daggers, the formula is nerfed to "0.1 * S * 3 + (0.1 * S + 1) × (0.9 + 0.1 * 3)"<br>
+  "0.1 * S * M + (0.1 * S + 3) × (0.9 + 0.1 * M)<br>
+  with S being scaled damage and M being attack blood damage multiplier (M = 1 for slash, M = 0.65 for blunt, M = 3 for daggers)"<br>
+  On daggers, the formula is nerfed to<br>
+  "0.1 * S * 3 + (0.1 * S + 1) × (0.9 + 0.1 * 3)"<br>
   Bloodthirsty's formula changes whenever attacking an opponent with alloyblood:<br>
-  "0.1 * S * M * 0.25 + (0.1 * S + 3) × (0.9 + 0.25(2 - M) + 0.1 * M)" due to this, fighting low iron investment alloy blood leads to more blood DMG.<br>
-  Blood DMG not affected by DMG modifiers and DMG multipliers (such as alloyblood, cauterized wounds, haemophilia), BUT affected by damage reduction and armor resistances<br>
-  When missing an light attack (dodge, parry, crit and block are not a miss), lose 2% of total blood.</p></div></td>
+  "0.1 * S * M * 0.25 + (0.1 * S + 3) × (0.9 + 0.25(2 - M) + 0.1 * M)"<br>
+  due to this, fighting low iron investment alloy blood leads to more blood DMG.<br>
+  Blood DMG not affected by DMG modifiers and blood DMG multipliers (such as alloyblood, cauterized wounds, haemophilia), BUT affected by damage reduction and armor resistances<br>
+  When missing an light attack (dodge, parry, crit and block are not a miss), lose 2% of total blood.<br>
+  Source: <sup><a href="#cite-note-3">[3]</a></sup></p></div></td>
   <td><div>Weapon is completely red, surrounded by a red aura.<br>
   When sheathed, the weapon keeps their base color.</div></td>
 </tr>
@@ -351,10 +353,11 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
-  <td><div><p>On proc, add (LHT: 3%, MED: 4.5%, HVY:6%) of your max health to your damage. 12 second CD per victim.<br>
-  Rarely, you lose 7% of your max health and have 7/10% of your max health added to your damage instead.<br>
-  (likely ~15% and ~5% chance respectively)<br>
-  Can autogrip if it procs self damage at low enough health. These effects are mutually exclusive and share a cooldown.</p></div></td>
+  <td><div><p>On proc, <b>add</b> (LHT: 3%, MED: 4.5%, HVY:6%) of your max health to your damage. 12 second CD per victim.<br>
+  On proc, this enchant takes your M1 DMG (with no DMG mods) adds up&nbsp;% of your max health and then applies DMG multipliers. (If there is any)<br>
+  Rarely, you lose 7% of your max health as downside during the proc<br>
+  Can autogrip if it procs self damage at low enough health.<br>
+  These effects are mutually exclusive and share a cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>
 </tr>
@@ -786,7 +789,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
         
         
         _
-    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[3\]](#cite-note-3) and still holds that sentiment to this day.
+    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[4\]](#cite-note-4) and still holds that sentiment to this day.
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
     -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment itself.
 -   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
@@ -811,7 +814,8 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
     File:Arch sear pen.png
     
 2.  [↑](#cite-ref-2) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))
-3.  [↑](#cite-ref-3)
+3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=wX-crHmTLV8](https://www.youtube.com/watch?v=wX-crHmTLV8)
+4.  [↑](#cite-ref-4)
 
   
 

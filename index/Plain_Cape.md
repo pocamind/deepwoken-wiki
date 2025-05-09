@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 116513
+revid: 144033
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Capes]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Torso, Capes]
 | type | Torso |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | None |
+| requirements | PWR 5 |
 | weight | 0.5 |
 | innate stats | 3% Physical Armor, 1 Legendary Pip |
 | innate talent | N/A |
