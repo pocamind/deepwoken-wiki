@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 143677
+revid: 143987
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -77,6 +77,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   **Rupture** - **Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
     -   On base use, readies two devastating punches that deals damage and dazes on hit. The second punch will only commence if the first one hits a valid target.
+    -   Surprisingly, the non-chained version is extremely fast, around the same speed as Exhaustion Strike with lesser range, two-hits, much lower cooldown and more damage.
     -   On a chained target, the user pulls on the chain, dealing damage and exploding enemies away from **your camera placement**.
     -   Base variant deals 35 damage (20 + 15), chained variant deals 45 damage.
     -   Similarly to Restrain, the damage on base Rupture is not reduced at all by Bloodless, but it strangely still heals you.

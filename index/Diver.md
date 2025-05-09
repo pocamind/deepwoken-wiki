@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 141072
+revid: 143989
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -20,7 +20,7 @@ A Diver's appearance only consists of a [Diver Apprentice](Diver_Apprentice_Robe
 
 ## Moveset
 
-A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron Birch](Iron_Birch.md) or [Silver Dagger](Silver_Dagger.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement:
+A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron Birch](Iron_Birch.md) or [Silver Dagger](Silver_Dagger.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunements along with [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

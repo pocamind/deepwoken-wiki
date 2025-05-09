@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 141891
+revid: 143983
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -43,11 +43,11 @@ _This Oath does not become locked after breaking it at Yun'Shul._
 
 Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This can be done at any order, and each Orb will grant you one Talent (Talents obtained in the same order, no matter of the obtainment order of the Orbs). You have to return to her to get the Talents. The location of these orbs are:
 
--   On top of Lord Regent's palace in Etris.
--   On the upper rim of The Birdcage in Erisia.
--   On top of one of the tallest intact Towers in Towerstruck lands, close to Burning Stone Gardens
--   In the Isle of Vigils temple, in front of Stratos.
--   On an ice pillar at the top of Minityrsa's Frozen Pond, overlooking the coast.
+-   On top of [Lord Regent's palace](Etris_Palace.md) in Etris.
+-   On the upper rim of [The Birdcage](The_Birdcage.md) in Erisia.
+-   On top of one of the tallest intact Towers in [Towerstruck Lands](Towerstruck_Lands.md), close to [Burning Stone Gardens](Burning_Stone_Gardens.md)
+-   In the [Isle of Vigils](Isle_of_Vigils.md) temple, in front of [Stratos](Stratos.md).
+-   On an ice pillar at the top of [Minityrsa](Minityrsa.md)'s Frozen Pond, overlooking the coast.
 
 Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 

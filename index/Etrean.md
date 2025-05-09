@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 142288
+revid: 143979
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,7 +17,7 @@ Chance of obtaining aspect: **15%**
 
 ## Description
 
-Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common aspect, and can be found most commonly at Etris. Etreans get an agility and intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as being Xenophobic and intolerant of the ways of other aspects and countries.
+Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common aspect, and can be found most commonly at [Etris](Etris.md). Etreans get an Agility and Intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as being Xenophobic and intolerant of the ways of other aspects and areas.
 
 ## Racial Traits
 
@@ -50,18 +50,7 @@ Etreans are described as snake-like people, who commonly have pale skin, and sli
 **Lore:**
 
   
-A proud culture hailing from the Etrean Luminant. The people of Etris are said to have been in a sorry state since the departure of their king. The current regent serving in the stead of the king is a suspicious man with dubious intentions. The Etreans yearn for their king's return and some words on the wind speak of his return, others hiss falsehoods. The Etrean guards take up Galebreathe as their attunement.
-
-**Strengths:**
-
-  
-
--   +1 Health
--   +2 Agility
--   +2 Intelligence
--   Takes less damage in acid rain.
--   The durations of Chilled, Suffocation, and Potions will be lessened when applied to you.
-    
+A proud culture hailing from the [Etrean Luminant](Luminants.md). The people of [Etris](Etris.md) are said to have been in a sorry state since the departure of their king. The current regent serving in the stead of the king is a suspicious man with dubious intentions. The Etreans yearn for their king's return and some words on the wind speak of his return, others hiss falsehoods. The Etrean guards take up [Galebreathe](Galebreathe.md) as their attunement.
 
 **Surnames:**
 
@@ -98,7 +87,6 @@ A proud culture hailing from the Etrean Luminant. The people of Etris are said t
 
 -   It was stated pre-release that Etreans were Xenophobic and would discriminate against players based on their aspect. This was _mostly_ removed (or perhaps never existed at all) some time before the game came out, however the community's perception of Etreans has not changed.
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
--   Despite having acid rain resistance, they lack full immunity. The Survivalist boon is still a viable option.
+-   Despite having acid rain resistance, they lack full immunity. The [Survivalist](Boons_and_Flaws.md) boon is still a viable option.
 -   During 4/1/2022 April fools update (Mudwoken), Etrean aspect name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, Suyuan etc)
--   When under the effect of a Potion, Suffocation, or Chilled, you'll only be affected by it for roughly 75% of the duration.

@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 142733
+revid: 143990
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -35,7 +35,7 @@ Like all other Hallowtide exclusive weapons, it cannot be dropped to other playe
 
 ## Critical
 
-The Bloodtide Trident has a unique critical that is similar to the [Flareblood Kamas](Flareblood_Kamas.md), however, instead of launching its target into the air, it pulls the target towards the user. The spear's targeting is controlled by the player's cursor.
+The Bloodtide Trident has a unique critical that is similar to the [Flareblood Kamas](Flareblood_Kamas.md), however, instead of launching its target into the air, it pulls the target towards the user. The critical's targeting is controlled by the player's cursor.
 
 ## Trivia
 

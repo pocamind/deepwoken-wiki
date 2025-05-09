@@ -1,6 +1,6 @@
 ---
 title: List of Grab Mantras
-revid: 142870
+revid: 143998
 source: https://deepwoken.fandom.com/wiki/List_of_Grab_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -14,9 +14,9 @@ These Mantras generally involve the user restraining the opponent while performi
 
 | Name | Media |
 | --- | --- |
-| [Flame Grab](Flamecharm.md#flame-grab) |  |
-| [Frost Grab](Frostdraw.md#frost-grab) |  |
-| [Jolt Grab](Thundercall.md#jolt-grab) |  |
-| [Clutching Shadow](Shadowcast.md#clutching-shadow) |  |
-| [Iron Hug](Ironsing.md#iron-hug) |  |
-| [Dread Whisper](Attunement-less.md#dread-whisper) |  |
+| [**Flame Grab**](Flamecharm.md#flame-grab) |  |
+| [**Frost Grab**](Frostdraw.md#frost-grab) |  |
+| [**Jolt Grab**](Thundercall.md#jolt-grab) |  |
+| [**Clutching Shadow**](Shadowcast.md#clutching-shadow) |  |
+| [**Iron Hug**](Ironsing.md#iron-hug) |  |
+| [**Dread Whisper**](Attunement-less.md#dread-whisper) |  |

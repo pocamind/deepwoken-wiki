@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 143795
+revid: 143976
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -114,7 +114,8 @@ Fire
 -   Has 9.17x PVE scale (40 + 33.49 PVP DMG, 368.88 + 307.4 PVE DMG)
 -   Inflicts Burn.
 -   Does not share a cooldown with other "servants" mantras.
--   Can be modified with Cloudstones to add more warriors. Max possible amount of warriors without talent "**Fan The Flames**" is 9 (2 Cloudstones).
+-   Can be modified with Cloudstones and Stratus stones to add more warriors. Max possible amount of warriors without talent "**Fan The Flames**" is 9 (2 Cloudstones).
+-   modifying may reduce the damage of each separate warrior "stab" by a fixed amount or a percentage, needs more testing.
 -   Can be modified with a Reversal Spark to have the warriors attack outwards and ragdoll.
 
  |

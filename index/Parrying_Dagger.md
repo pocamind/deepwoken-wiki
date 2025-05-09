@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 136982
+revid: 143982
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers, Offhand]
@@ -23,12 +23,12 @@ categories: [Weapons, Parrying Daggers, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Etris Store, Erisia, The Depths, Primadon, Deep Widow, Dread Serpent, Bounties, Chime of Conflict, Voidsea |
+| obtainment | Etris weapon shop, Erisia, The Depths, Primadon, Deep Widow, Dread Serpent, Bounties, Chime of Conflict, Voidsea |
 | description | A dagger that is used more as a pivot for parrying than as a weapon of its own right. |
 
 ## Description
 
-The Parrying Dagger is a side weapon that when equipped in the offhand will increase posture restoration from parries by 20%, with each point of Weight increasing the posture restoration by 10% (e.g. 5 weight would mean 50% bonus to posture restoration.) Found in the weapons shop in Etris and can be purchased for. Additionally, it can be dropped from [Deep Widow](Deep_Widow.md) or [Primadon](Primadon,_Titan_of_the_East.md) chests. It requires 10 Agility to equip.
+The Parrying Dagger is a side weapon that when equipped in the offhand will increase posture restoration from parries by 20%, with each point of Weight increasing the posture restoration by 10% (e.g. 5 weight would mean 50% bonus to posture restoration.) Found in the weapons shop in [Etris](Etris.md) and can be purchased for. Additionally, it can be dropped from [Deep Widow](Deep_Widow.md) or [Primadon](Primadon,_Titan_of_the_East.md) chests. It requires 10 Agility to equip.
 
 ## Trivia
 
