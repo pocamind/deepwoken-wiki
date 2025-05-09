@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 142987
+revid: 144002
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greataxes, Event Item, Hallowtide]
@@ -45,5 +45,4 @@ This critical will end early if any hit is parried or if the first hit whiffs en
 -   Meeting the requirement of HVY, the damage is (32.1)
 -   At max HVY, the damage is (35.1)
 -   Skyreap Blade was previously the only weapon that had a unique running attack animation until the [Imperial Staff](Imperial_Staff.md) was added.
--   Gripping most humanoids (if not all) will place a grave and make a Taco Bell sound effect.
 -   The third fastest swinging heavy weapon in the game, second being the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and the first being the [Quartztone Pickaxe](Quartztone_Pickaxe.md).
