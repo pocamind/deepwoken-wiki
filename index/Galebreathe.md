@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 143826
+revid: 144104
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -127,14 +127,14 @@ Wind
 
 **Tornado Kick** (☆☆☆)
 
-_Kick a gust of wind forward, if it hits and enemy leap into the air and launch 3 more._
+_Kick a gust of wind forward, if it hits an enemy leap into the air and launch 3 more._
 
  | 
 
 ## Tornado Kick (☆☆☆)
 
   
-_Kick a gust of wind forward, if it hits and enemy leap into the air and launch 3 more._
+_Kick a gust of wind forward, if it hits an enemy leap into the air and launch 3 more._
 
  |
 | 
@@ -384,7 +384,7 @@ Wind
 **Effect:** _Conjure a small vortex around yourself, M1 to cast it forward._
 
 -   Moves forward on its own after 2 seconds.
--   Deals 223 (17.7 + 0.89\*12) DMG, tornado lasts for 4s, 1.3 posture per hit, 0.8s windup, 0.3s delay between hits 9s cd at 5 lvl.
+-   Deals 223 ((17.7 + 0.89)\*12) DMG, tornado lasts for 4s, 1.3 posture per hit, 0.8s windup, 0.3s delay between hits 9s cd at 5 lvl.
 -   With 6 Songchant deals 268.97 (19.7+0.99\*12) DMG at 5 lvl
 -   Projectile is short-ranged.
 -   Has Inniate Aftercut
