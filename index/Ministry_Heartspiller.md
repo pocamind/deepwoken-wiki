@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 143999
+revid: 144111
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies]
@@ -20,8 +20,12 @@ As stated by Arch Mage, you don't have to meet any requirements for the NPC to s
 
 ## Dialogue
 
--   Speak worm. Tell me what you know.
--   What did you see? Well?
+-   Speak worm. Tell me what you know. (On spawn)
+-   What did you see? Well? (On spawn)
+-   Tch. Loose ends. (On aggro)
+-   Far too late. (On grip)
+
+  
 
 ## Moveset
 

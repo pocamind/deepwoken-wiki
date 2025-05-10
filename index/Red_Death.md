@@ -1,9 +1,9 @@
 ---
 title: Red Death
-revid: 144102
+revid: 144110
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Weapons with Unique Criticals, Items]
+categories: [In progress without reason, InProgressPages, Weapons, Weapons with Unique Criticals, Items, Multiple Criticals]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
