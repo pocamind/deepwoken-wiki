@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 143874
+revid: 144054
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -84,11 +84,12 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Exter](Exter.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Reveals lore about the knives of eylis |  |
 | [Ezra](Ezra.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md) | The quest is repeatable |
+| [F'leche](<F'leche.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
 | [Falei](Falei.md) | [The Divers](The_Divers.md) | [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Second Layer](Second_Layer.md) | None |  |
 | [Flabbernaster Filingree, the First Mate](Flabbernaster_Filingree,_the_First_Mate.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
-| [F'leche](<F'leche.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
 | [Frank F'alzone](<Frank_F'alzone.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | [Friid](Friid,_Master_of_Gale.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
+| [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Gives you the [Kyrswynter](Kyrswynter.md) when meeting the reqs |  |
 | [Funke](Funke,_Master_of_Thunder.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Gaius](Gaius.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | None | None |
 | [Gild](Gild.md) | [Lost Celtor](Lost_Celtor.md) | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | None |  |

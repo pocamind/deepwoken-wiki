@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 143941
+revid: 144058
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -632,7 +632,7 @@ Wind + Lightning + Slash
   <td><center>Haunted Gale<br>
   40 Frostdraw</center></td>
   <td><center>Your Haunted Gale now procs Chilled.</center></td>
-  <td><center>Your Haunted Gale ghosts or Specter Apparitions apply Chilled for 7 seconds on hit. Alternatively, it applies 1 Crystal if you have the Crystallization path. They can also proc Bottom Freeze.</center></td>
+  <td><center>Your Haunted Gale ghosts or Specter Apparitions apply Chilled for 7 seconds or 1 Crystal on hit. This Talent also changes the damage type of ghosts/Apparitions from pure Galebreathe to Galebreathe &amp; Frostdraw. They can also proc Bottom Freeze.</center></td>
   <td><center><i>"I seek the qualities of Cold Phantom."</i></center></td>
 </tr>
 </tbody>
@@ -738,7 +738,7 @@ Wind + Lightning + Slash
   <td><center>Haunted Gale<br>
   40 Frostdraw</center></td>
   <td><center>Your Haunted Gale now procs Chilled.</center></td>
-  <td><center>Your Haunted Gale ghosts or Specter Apparitions apply Chilled for 7 seconds on hit. Alternatively, it applies 1 Crystal if you have the Crystallization path. They can also proc Bottom Freeze.</center></td>
+  <td><center>Your Haunted Gale ghosts or Specter Apparitions apply Chilled for 7 seconds or 1 Crystal on hit. This Talent also changes the damage type of ghosts/Apparitions from pure Galebreathe to Galebreathe &amp; Frostdraw. They can also proc Bottom Freeze.</center></td>
   <td><center><i>"I seek the qualities of Cold Phantom."</i></center></td>
 </tr>
 </tbody>

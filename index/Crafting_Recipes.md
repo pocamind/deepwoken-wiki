@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 141344
+revid: 144059
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -41,8 +41,8 @@ Picture of a Crafting Bench
 ### _[Crafting Station](Crafting_Station.md) Recipes_
 
 -   **[Canteen](Canteen.md)** - _1 Beeswax, 1 Calabash_
--   **[Glider](Gliders.md)** (Requires Glider Schematic) - _2 Sticks, 2 Cloth_
--   **Sharkscale Glider** (Requires Glider Schematic) - _2 Sticks, 2 Megalodaunt Hide_
+-   **[Glider](Gliders.md)** - _2 Sticks, 2 Cloth_
+-   **Sharkscale Glider** - _2 Sticks, 2 Megalodaunt Hide_
 -   **Lumber Axe** - 2 Wood, 2 Iron
 -   **Pickaxe** - 2 Wood, 2 Iron
 -   **Fishing Rod** - 2 Stick, 1 Fiber

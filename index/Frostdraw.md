@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 143985
+revid: 144055
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1710,6 +1710,7 @@ N/A
 -   The **Ice Cubes** Mantra is possibly a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
 -   It's possible to put your guild base on **Glacial Arc** if you aim it straight forward and upwards then put it on the side.
 -   **The source for the frost Mantras damage: (This is outdated, and some of these Mantras have gotten their damage reduced. Example: Ice Cubes deal 72 damage, not 90)**
+-   When **Glacial Arc** is used in layer 2 of the depths, it will start falling apart piece by piece.
     
     File:Frost Mantras damage.png
     

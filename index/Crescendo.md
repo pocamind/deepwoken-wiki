@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 144005
+revid: 144060
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, Medium Weapons]
@@ -40,7 +40,7 @@ Like all other Twinblades, the Crescendo possesses a unique aerial attack animat
 
 ## Critical
 
-Perform two spinning attacks with the second hit dealing high posture. You can feint the second hit on the critical if you hold R + M2 on your keyboard and mouse.
+Perform two spinning attacks with the second hit dealing high posture.
 
 ## Trivia
 
