@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 143341
+revid: 144066
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -15,6 +15,43 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **May 9th,2025**
+
+**Less is more... right?**  
+• Smaller than usual patch this time around as we're continuing to rewrite core parts of the codebase. This patch brings noticable FPS improvements.  
+  
+**Content & Systems**  
+• Added Red Death running critical  
+• Red Death's model has been updated  
+• You can now reset your character to your spawn location from the Main Menu  
+• Atmosphere and Lighting logic has been partially rewritten to allow for more flexibility and slightly better performance. This may result in slight changes to environment visuals.  
+  
+**Balancing & Tweaks**  
+• Mantras whose cooldowns start ticking once you touch the ground now have their in-air use cooldown increased (30s -> 60s)  
+• Crystal Impale now goes on a 3s cooldown when feinted. Feinting the mantra now also places it on a 60 second cooldown unless you land, as described above  
+• Insignia Gem no longer reduces the windup of Sightless Beam  
+• Red Death PEN increased (20% -> 25%), Weight increased (5.5 -> 6)  
+• Reduced Eye of Malice Range (9.5 -> 9)  
+• Palm Strike Windup increased  
+• Twisted Puppets flame damage and Ether drain is now cut in half  
+• You can no longer avoid your own Paralytic Dust with self sleep variant  
+• Disguise is no longer a ritual cast mantra  
+• Significantly reduced Rhythm detection range against players who are disguised  
+• Callout can no longer ping disguised players  
+• Fixed Tacet not being immune to Rhythm  
+• Ministry Heartspiller event spawn chances have been increased again  
+• Carnival of Hearts can now give you the requirement to obtain Visionshaper  
+  
+**Bugfixes & Optimization**  
+• Heavily optimized client-sided effect checking loop. This removes around 4% - 10% of the client script work performed, which should result in noticable performance improvements  
+• Server names are now better randomised  
+• Fixed a longstanding bug where collapsing trees had collision, causing players to get flung around if the tree collapsed into the ocean  
+• Fixed a map error in Voidheart where broken pillars would reveal holes to fall in  
+• Fixed Kelsius quest completion dialogue being the opposite of what it should be depending on what route the player takes  
+• Fixed being able to pick up Kelsius' books before starting the quest, softlocking your slot from completing the quest  
+• Implemented a safeguard to fix slots that have become softlocked by using Call of the Deep during Character Creation  
+• Fixed a graphical error with Rhythm and Callout that prevented some detail on the pulsing circles from rendering and throwing a bunch of errors in client log
 
 ## **May 2nd, 2025**
 

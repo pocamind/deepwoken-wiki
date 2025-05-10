@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 138442
+revid: 144073
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -14,7 +14,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, World Event, Legend
 | requirements | 75 MED |
 | damage | 20 |
 | scaling | 7.7 MED |
-| range | 9.5 |
+| range | 9 |
 | swing speed | 0.95x |
 | penetration | 25% |
 | chip damage | 15% |
