@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 144046
+revid: 144150
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -28,7 +28,7 @@ categories: [Items, Equipment, Torso, Necklaces, Relics]
 
 The Warmaster's Medallion is an [Equipment](Equipment.md) item under the "Torso" category.
 
-Equipping it grants the Talent "Actions Speak Louder" which states "Your Critical Attack cooldown is 20% shorter, but your Resonance cooldown is double as long. In areas where your Resonance is suppressed, reduces your cooldown by 5% instead."
+Equipping it grants the Talent "Actions Speak Louder" which states "Your Critical Attack cooldown is 20% shorter, but your Resonance cooldowns are 50% longer. In areas where your Resonance is suppressed, reduces your cooldown by 5% instead."
 
 If used in [Chime of Conflict](Chime_of_Conflict.md), your Critical cooldown is only reduced by 5% unless in 2v2s or 3v3s. (needs testing)
 
