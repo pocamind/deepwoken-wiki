@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 140267
+revid: 144146
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Ingredients, Items, Harvestables, Alchemy]
@@ -27,6 +27,6 @@ A consumable fruit that can be found in [Etris](Etris.md), [Isle of Vigils](Isle
         -   This exists through one of _Key Exploits_'s livestreams. He pulled out the aforementioned Red Calabash and said "Agamatsu! Yoo, if you ever want to make a Red Calabash unsolved video, hit me up. I can give you all the _gifs_ and _videos_ you need!" He then proceeds to float around and eat the fruit.
         -   However, at the end of it all, a then-moderator of the game (Tarvero as Lightseeker Araki) was seen holding the Red Calabash in-game. When asked about it, he said that "You don't understand the sacrifice..."
     -   It is also noted that the Canteen was probably the start of this "Red Calabash" meme, due to its similar reddish/deep orange color.
--   Calabash in real life are actually poisonous, being able to cause stomach ulcers and other gourd-related injuries.
+-   Calabash in real life are actually poisonous (when stored improperly or over-ripe), being able to cause stomach ulcers and other gourd-related injuries.
     -   Please do not eat a Calabash IRL.
 -   Multiple guilds have sprung up around it (most references to the cabbage cult from Runescape).

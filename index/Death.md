@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 144141
+revid: 144144
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Death, Mechanics, Character]
@@ -36,13 +36,15 @@ See Escaping The Depths [here](The_Depths.md#escaping-the-depths).
 ## Tips on not dying
 
 -   Heal at every good opportunity, and keep an eye on your blood, hunger, and thirst bars. Ensure you have at least some food on you for your adventures, along with wood and a flint for a [campfire](Campfire_Pit.md).
--   It is very unwise to kill people outside of lawless areas in towns as [the guards of said town will hunt you down](Reputation.md), and you will not survive unless you are powerful enough.
--   If an NPC puts you in a bad spot, so long as you are above 50% of your maximum HP, you can safely combat log (quit the game with the blue skull present) without losing a life.
+-   It is unwise to kill people outside of lawless areas in towns as [the guards of said town will hunt you down](Reputation.md), and you will not survive unless you are powerful enough.
+-   There are two types of in danger tagging: General danger (blue skull), and player combat (red skull). Player combat always takes priority over general danger (NPCs, environmental hazards, etc.). If you are in combat, you cannot menu by clicking the menu button in the top left corner. You can, however, log by quitting the game.
+    -   If you are in a bad spot while in general danger, so long as you are above 60% of your maximum HP, you can safely log without losing a life.
+    -   If you log while in player combat, you **will** lose a life. Therefore, it is recommended to always menu instead of quitting in general, as if you are in the middle of quitting the game, there is a possibility of someone putting you in player combat and costing you a life.
 -   To avoid being [voidwalked](Bounty_Hunting.md), increase your [Reputation](Reputation.md) with Etrea [Etreaiconfaction](Etrea.md), The Central Authority [Authorityiconfaction](The_Central_Authority.md), The Hive [Hiveiconfaction](The_Hive.md), the Summer Company [Summericonfaction](The_Summer_Company.md), the Ignition Union, The Divers [Diversiconfaction](The_Divers.md), and The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)
     -   If a player you don't recognize is coming towards you, and they look scary, menu. Especially if they have a black aura around them.
-    -   If a player is clearly about to attack you, and you can't take them in a fight, menu.
-    -   If you are in player combat (the red skull is showing), and you clearly aren't strong enough to fight back, run. You cannot log in this state without losing a life. Get good at dodging and running until you are out of player combat, then menu.
-    -   You want to avoid logging (quitting without going to Deepwoken's main menu) as there can be a delay between you logging, and your character actually disappearing. If you are hit in this state, it will count as logging during player combat and you **will** lose a life.
+    -   If a player is clearly about to attack you, and you can't take them in a fight, run and menu.
+    -   If you are in player combat, and you clearly aren't strong enough to fight back, run. Get good at dodging and running until you are out of player combat, then menu.
+-   You are not safe in a guild. All placed guild locations are visible on the map. Take care of your business in your guild quickly, then leave the vicinity.
 -   [Lower Erisia](Lower_Erisia.md) will sometimes have "freshie stompers" lurking. Always watch your back, especially when you're a low power.
 -   Know your own capabilities. There is no shame in running and getting help if you are, or are about to be, in a bad spot.
 
@@ -54,5 +56,5 @@ See Escaping The Depths [here](The_Depths.md#escaping-the-depths).
 
 ## Trivia
 
--   In [Lore](Lore.md), the first time you die, you become "injured" - not actually "dead" as in your life being taken away. The second time you die, you become "drowned" as you descend to the different layers of [The Depths](The_Depths.md). It is only when you die in The Depths will your character truly "die," as your soul is sucked downwards through the Nine Layers so fast, the mind is unable to process the information it receives and the soul is torn apart.
-    -   Before [The Tides](Lore.md#the-tides), souls who perished ascended into the heavens above.
+-   In [Lore](Lore.md), the first time you die, you become "injured" - not actually "dead" as in your life being taken away. The second time you die, you become "drowned" as you descend to the different layers of [The Depths](The_Depths.md). It is only when you die in The Depths will your character truly "die," as your soul is sucked downwards through the layers so fast, the mind is unable to process the information it receives and the soul is torn apart.
+    -   Before [The Tides](Lore.md#the-tides), souls who perished ascended into the Moonseye above.
