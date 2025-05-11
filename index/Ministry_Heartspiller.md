@@ -1,9 +1,9 @@
 ---
 title: Ministry Heartspiller
-revid: 144136
+revid: 144157
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Ministry Enemies]
+categories: [Pages with broken file links, Enemies, Ministry Enemies]
 ---
 
 # Ministry Heartspiller
@@ -89,6 +89,7 @@ Block: ✗
 
 -   If you're having trouble with spawning the npc, using Ring of Curses is a good way to increase the chances of the event from spawning.
     -   Combining this along with Hell mode, you'll get an even more increased rate of the event from spawning (Risky).
+    -   Toons has confirmed that there _is_ some places where the spawn rate both increases and decreases. It is not known, however, where it is.[\[3\]](#cite-note-0-3)
 
 ## Reference
 
@@ -96,3 +97,7 @@ Block: ✗
 2.  [↑](#cite-ref-2)
     
     Arch Mage Statement
+    
+3.  [↑](#cite-ref-0-3-0)
+    
+    File:Toonsreddeathspot.png
