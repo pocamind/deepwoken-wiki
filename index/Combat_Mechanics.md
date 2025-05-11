@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 141249
+revid: 144128
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
     <li>Natural health regeneration is disabled if their hunger bar is below 12.5%.</li>
     <li>The lower your Health is, the slower you get. In short, Health directly affects your agility.</li>
   </ul><p>The player's Health bar has three states:</p><figure><figcaption><p>This is the normal state of the health bar.<br>
-  The player will lose one life on death (excluding <a href="Echoes.md#modifiers">Hollow</a> modifier).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once.<br>
+  The player will lose one life on death (excluding <a href="Echoes.md#upgrades-and-modifiers">Hollow or Vow of Thorns</a> modifiers).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once.<br>
   The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in The Depths.<br>
   The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death.</p></figcaption></figure></td>
 </tr>

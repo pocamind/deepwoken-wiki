@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 139875
+revid: 144138
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -32,7 +32,6 @@ Equipping it grants the Talent "Featherfall" which grants Nearly complete immuni
 
 ## Trivia
 
--   ~If you aren't in combat, you can re-equip the Tiran Pendant to get rid of the cooldown.~ Doesn't work anymore.
 -   The third (or second) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   Used to have a bug which relogging while the passive was on cooldown would double the cooldown leading to massive cooldowns on the passive.
 -   This is one of the droppable torso relics alongside the [Warmaster's Medallion](<Warmaster's_Medallion.md>), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 141859
+revid: 144116
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,12 +16,30 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 
 ### Entities
 
+#### Ethiron, the Maelstrom's Eye
+
+-   A Drowned God said to preside over Wind.
+-   Their gales are said to drag even Time itself into their wake.
+-   Thought to preside over the Second Layer, granting it the moniker of 'The Eternal Gale'.
+
+#### Korilfiend, the Inferno's Provenance
+
+-   A Drowned God said to preside over Heat.
+-   A flower containing vestiges of Korilfiend's power is said to have been consumed by Amorus Pleeksty, who later developed the art of [Flamecharming](Flamecharm.md).
+
 #### The Celestials
 
 -   The former inhabitants of the Heavens above. Similar in many ways to Mankind, but of a different species altogether.
 -   When the Tides came, the Celestials were driven from the Heavens down to the Surface below.
 -   Many within Lumen view the Celestials as Gods, with many major religions within Lumen worshipping them.
 -   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the Western Luminant and beyond.
+
+#### The Drowned Gods
+
+-   Entities of immense and unknowable power that are said to slumber deep within [the Depths](The_Depths.md).
+-   Many believe that the Song has stirred them from their sleep and brought about the Tides. Should a Drowned God wake, it's also believed that it would result in Lumen's undoing.
+-   The names of Drowned gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
+-   Worship of Drowned Gods is taboo across most of the Lumen, with their faithful being branded as cultists and heretics.
 
 ### Factions
 
@@ -95,6 +113,14 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 
 ### Phenomena
 
+#### The Drowning
+
+-   Since the Tides, a phenomenon known as 'the Drowning' occurs on death.
+-   As Lumen was dragged further into the Depths by the Tides, so too were the souls of the dead dragged further down.
+-   The souls of the deceased are dragged ruthlessly down, awakening to find themselves in the Depths.
+-   Often, the strong, the notable, the willful, the pious, or simply the unfortunate are said to possess 'heavier' souls, sinking further into the Depths should they Drown.
+-   No one who has perished in the Depths has ever returned.
+
 #### The Tides
 
 -   Following the discovery and widespread use of the Song during the Canticlysm, a tipping point was reached, and all manner of strange phenomena emerged.
@@ -130,12 +156,38 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   Lumen is composed of two halves; the Surface below and the Heavens above
 -   The skies between the Surface and the Heavens are obscured by vast amounts of Voidfog.
 
+#### The Lullaby Isles
+
+-   The Chrysid homeland, a fruitful archipelago surround by treacherous mountain range.
+-   Home to the Moonlit Faith, a devout religion that revere the passage of souls to the Moonseye.
+
+#### The Nightsea
+
+-   The inky black seas of the Heavens above. Studded with twinkling points of light known as Stars.
+-   When night falls and the Suncross retreats into the Voidfog, the Nightsea becomes visible from the surface bellow.
+-   Seeing them through the telescope, you know that the Stars of the Nightsea are in reality the ruins of Celestial civilization.
+
+#### The Voidfog
+
+-   The impenetrable mists that surround and obscure Lumen's skies.
+-   At a passing glance, they resemble clouds.
+
 #### The Voidsea
 
 -   Much of the world following the Tides has been subsumed into the Voidsea, an anomalous and near-insurmountable stretch of water that represents the gradual dissolution of Lumen into the Depths.
 -   When it comes to the Voidsea, the conventional laws of times and space hang in the towel.
 -   Islands dragged into the Voidsea, may suddenly be spat back out fifty years later, its inhabitants wholly unaware of the time that has passed.
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
+
+#### The Western Luminant
+
+-   Of a warmer and more humid climate than much of Lumen, the Western Luminant is a rich overgrown jungle of pillar-like mountain peaks.
+-   The predominant powers within the Western Luminant are the Hundred Legions and the Starkindred Faith.
+
+#### Third Layer
+
+-   Said to be the inhospitable waste where the Drowned God Korilfiend resides.
+-   Riddled with thermal vents and geysers that exude extreme temperature
 
 ### Time Periods
 
@@ -180,12 +232,6 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   The Depths is often thought to be structured in 'Layers', referring to the distinct regions of the Depths, with deeper layers holding to the conventions of reality ever more loosely.
 -   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the Third Layer without ever passing through the First and Second Layers. This being said, the typical routes established do generally follow this order.
 -   The way most individuals reach the Depths is through the effects of the Drowning.
-
-### The Drowned Gods
-
--   Entities of immense and unknowable power that are said to slumber deep within [the Depths](The_Depths.md).
--   Many believe that the Song has stirred them from their sleep and brought about the Tides. Should a Drowned God wake, it's also believed that it would result in Lumen's undoing.
--   The names of Drowned gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer. Worship of Drowned Gods is taboo across most of the Lumen, with their faithful being branded as cultists and heretics.
 
 ### The Eternal Gale, The Second Layer
 

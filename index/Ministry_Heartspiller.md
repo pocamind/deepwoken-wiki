@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 144111
+revid: 144136
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies]
@@ -24,6 +24,8 @@ As stated by Arch Mage, you don't have to meet any requirements for the NPC to s
 -   What did you see? Well? (On spawn)
 -   Tch. Loose ends. (On aggro)
 -   Far too late. (On grip)
+
+Additionally, if the pathfinder hostage is still alive when the agent is gripped, they will say "Thank you..."
 
   
 

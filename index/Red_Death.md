@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 144110
+revid: 144135
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Weapons with Unique Criticals, Items, Multiple Criticals]
@@ -25,12 +25,12 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ministry Heartbleeder |
+| obtainment | Ministry Heartspiller |
 | description | Tool of the Ministry Heartbleeders, a covert cel under the 2nd Prophet's authority who gather information through ruthless interrogation tactics. Imbued with a hybrid meter of two separate verses of the Song, it utilises Bloodrend to remove all organic traces, and Shadowcast to remove all traces of ether. Even the metal itself is oleophobic, rejecting organic oils and fluids, so the spear itself carries no prints or traces. |
 
 ## Description
 
-The **Red Death** is a Legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowcast.md) Spear; a vile tool used by [Ministry Heartspillers](Ministry_Heartspiller.md) to aid in ruthless interrogating tactics while also leaving no trace of the target's organic remains and ether. It can be dropped from the [Ministry Heartspiller](Ministry_Heartspiller.md).
+The **Red Death** is a Legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowcast.md) Spear; a vile tool used by [Ministry Heartspillers](Ministry_Heartspiller.md) to aid in ruthless interrogation tactics while also leaving no trace of the target's organic remains and ether. It can be dropped from the [Ministry Heartspiller](Ministry_Heartspiller.md).
 
 When gripping a player, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving nothing but their loot.
 
@@ -48,7 +48,7 @@ Both criticals have a cooldown of **8 seconds**.
 
 -   The weapon's design was based on a fence post. [\[1\]](#cite-note-1)
 -   The name is based on the 'Red Death' from the 'Destiny' franchise. [\[2\]](#cite-note-2)
--   The emblem [The Ministry](The_Ministry.md) is set below the crossguard of the spear.
+-   The emblem of [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) is set below the crossguard of the spear.
 -   May also be a reference to 'The Masque of the Red Death', a short story about a deadly plague by Edgar Allen Poe.
 
 ## References
