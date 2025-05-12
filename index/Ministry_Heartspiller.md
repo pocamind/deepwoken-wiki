@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 144184
+revid: 144197
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Ministry Enemies]
@@ -91,11 +91,10 @@ Block: ✗
 
 -   If you're having trouble with spawning the npc, using Ring of Curses is a good way to increase the chances of the event from spawning.
     -   Combining this along with Hell mode, you'll get an even more increased rate of the event from spawning (Risky).
-    -   Toons has confirmed that there _is_ some places where the spawn rate both increases and decreases. It is not known, however, where it is.[\[3\]](#cite-note-0-3)
+    -   Toons has confirmed that there _are_ some places where the spawn rate both increases and decreases. It is not known, however, where it is.[\[3\]](#cite-note-0-3)
     -   Apparently there has been a case with multiple players where the event spawns once you have the following requirements:
-        1.  Villain reputation with the [Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) ;
-        2.  Unbounded Frostdraw;
-        3.  Running around certain locations in Minityrsa or the Celtor City.
+        1.  Villain reputation with the [Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
+        2.  Running around certain locations in Minityrsa or the Celtor City.
 
 ## Reference
 

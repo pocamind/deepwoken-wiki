@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 140667
+revid: 144189
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations, The Hundred Legions]
@@ -90,14 +90,13 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   Normal light weapons
 -   Normal Heavy weapons
 -   [All hero blade variants](Hero_Blades.md)
--   All legendary weapons
+-   All legendary weapons\* besides any released after April 8th 2025 because the devs are STILL lazy fucks
 
 -   Participants start with a [base](<Sword_(weapon).md>) [sword](<Sword_(weapon).md>) and a [Flimsy Glider](Gliders.md) which can only be used once after its initial use to drop from the spawn. It also falls faster than a normal glider and will auto deploy if once you go under a certain height threshold.
     -   Flimsy Gliders auto-deploy when you're about to hit the ground.
 -   Only one group can win.
--   Participants are currently known to be grouped in parties of two.
 -   Better loot can be found on the edges of the map, making it only accessible early game due to zone.
--   Upon death you are sent to floating keep and remain there for the remaining duration of the round.
+-   Upon death you are forced to spectate an alive teammate (if possible) or your body
 
 ## Trivia
 

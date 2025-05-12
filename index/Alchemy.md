@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 140262
+revid: 144190
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items, Alchemy]
@@ -26,9 +26,11 @@ Only one potion effect can be active at a time. Applying a new effect to a chara
 
 Using the [Saltchemist](Oath%253A_Saltchemist.md) Oath, it is possible to generate an infinite supply of 3 potions of your choice, by adding them to the Perpetual Distillery. Each of the three potions will be bound to a key, and can be set to either "throw" or "drink" mode. Pressing a potion's key will use the potion, with a 40 second cooldown per potion. Using a "drink" mode potion will place all other "drink" mode potions that share an effect on cooldown, though the same restriction does not apply to "throw" mode potions.
 
-### Cauldron Locations
+### Cauldron Access
 
-There are ten known functioning cauldrons in the game. One is found in a hut on a hill above the guild hall on [Etris](Etris.md), next to the [Frostdraw](Frostdraw.md) Trainer. The second is found on the second floor of the castle on [Summer Isles](Summer_Isle.md). The third is found next to the Physical Mantra trainer at [Greathive Aratel](Greathive_Aratel.md). The fourth is found at [Boatman's Watch](<Boatman's_Watch.md>). The fifth is found at [Castle Light](Castle_Light.md) in the same room as the antiquarian. The sixth is in a house at [Meteor Isle](Meteor_Isle.md). The seventh is found in the [Voidheart](Voidheart.md) next to the mystic. The eighth is in [Fort Merit](Fort_Merit.md) in a house at the top of the stairs that begin at the prison entrance. The ninth is in [Miner's Landing](<Miner's_Landing.md>) next to the Ironsing trainer. The tenth is in [Lightkeeper Temple](Lightkeeper_Temple.md) in the second room on the left when entering the [King Thresher](Thresher.md)'s room. You are also able to create your own cauldron using Summon Cauldron, which appears at exactly 20 Intelligence as a Mantra, but is unlikely to draw unless [Attunementless](Attunement-less.md). You are also able to access a cauldron easily if you build a laboratory inside of a [Guild Base](Guild_Bases.md).
+_See [Cauldron](Cauldron.md) for all cauldron locations._
+
+There are many functioning cauldrons scattered throughout the Luminants. You are also able to create your own cauldron using [Summon Cauldron](Attunement-less.md#summon-cauldron), which appears at exactly 20 Intelligence as a Mantra, but is less likely to draw unless [Attunementless](Attunement-less.md). You are also able to access a cauldron easily if you build a laboratory inside of a [Guild Base](Guild_Bases.md).
 
 ## Mechanics
 

@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 144187
+revid: 144188
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Death, Mechanics, Character]
@@ -33,7 +33,7 @@ _If you want to know more about the ways you can die, read the [Death Compendium
 -   Heal at every good opportunity and keep an eye on your **Blood**, **Hunger**, and **Thirst** bars. Ensure you have at least some food on you for your adventures, along with wood and a flint for a [campfire](Campfire_Pit.md).
 -   It is unwise to kill people in general, as player combat is the #1 most dangerous activity in the entirety of Deepwoken and you will **NOT** survive unless you are skilled enough.
     -   Although frowned upon, you can always log off before being hit if you see a player with ill intentions. **However, always beware of Combat Tags**. There are two types of in [Combat Tags](Combat_Tag.md) (check it's page for a proper explication). If you are in combat, you cannot log off by clicking the menu button in the top left corner. You can, however, log by quitting the game. Doing so while tagged will often **kill you**, the only exception is beyond above 60% health during a **PvE** **Combat Tag**.
-    -   There is an option in the configurations to turn of the leave game prompt for much faster logging. **Heavily recommended**.
+    -   There is an option in the configurations to turn off the leave game prompt for much faster logging. **Heavily recommended**.
 -   Avoid [Voidwalkers](Origins.md#voidwalker) by increasing your [Reputation](Reputation.md) with the 6 main factions, those being; [Etrea](Etrea.md)[Etreaiconfaction](Etrea.md), [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Hive](The_Hive.md)[Hiveiconfaction](The_Hive.md), [Summer Company](The_Summer_Company.md)[Summericonfaction](The_Summer_Company.md), [The Ignition Union](The_Ignition_Union.md), [The Divers](The_Divers.md)[Diversiconfaction](The_Divers.md) and also their own faction, [The Knives of Eylis](The_Knives_of_Eylis.md)[Knives of Eylis](The_Knives_of_Eylis.md)
     -   Voidwalkers have a distinct black swirling aura around them, though it may not show up until it's too late, so stay alert.
     -   If you are in combat, and you clearly aren't strong enough to fight back, run. Get good at dodging and running until you are out of player combat, then log.
