@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 144113
+revid: 144165
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -94,6 +94,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Gaius](Gaius.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | None | None |
 | [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Exchanges joy for exclusive music related items |  |
 | [Gild](Gild.md) | [Lost Celtor](Lost_Celtor.md) | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | None |  |
+| ive Spellhardt | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
 | [Graha](Graha.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), next to the stove | None |  |
 | [The Guy](The_Guy.md) | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will belittle you by saying "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
 
