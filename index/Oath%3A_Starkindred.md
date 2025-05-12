@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 143741
+revid: 144177
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Starkindred | |
 |---|---|
-| oath_req | 40 Strength |
+| oath_req | 40 Strength + 1 Player Grip |
 | effects | +2 Combat Mantra slots, +8 Health, Modified Fire Blade, Better Aerial Assault |
 
 “ THE PATH YOU CHOOSE TO FOLLOW IS WROUGHT WITH LIES. DECEIT. YOU ARE THE TRUE FOOLS, PLAYING AS GOD. ”
@@ -29,7 +29,7 @@ The Starkindred Church is a malevolent cult that worships [Celestials](Celestial
 
 ## Obtainment
 
-1.  Have 40 Strength.
+1.  Have 40 Strength and grip any player. ([Chime of Conflict](Chime_of_Conflict.md) does not count)
 2.  Talk to [Samael](Samael.md), located in the [Derelict Highchurch](Derelict_Highchurch.md) above the Voidzone in the [Ancient Rotlands](Ancient_Rotlands.md).
     1.  Walk up to the stairs to the [Songseeker Temple](Songseeker_Temple.md) and take a left, you'll see a broken bridge. Jump over the bridge to get to the church. Or, if you have [Union Hook](Talent_Quests.md#union-hook), there are two hooks on the backside of the Church that lead directly to it.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.
