@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 144165
+revid: 144204
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -94,7 +94,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Gaius](Gaius.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | None | None |
 | [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Exchanges joy for exclusive music related items |  |
 | [Gild](Gild.md) | [Lost Celtor](Lost_Celtor.md) | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | None |  |
-| ive Spellhardt | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
+| [Glaive Spellhardt](Glaive_Spellhardt.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
 | [Graha](Graha.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), next to the stove | None |  |
 | [The Guy](The_Guy.md) | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will belittle you by saying "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
 
@@ -128,6 +128,7 @@ Check the rest out for yourself, canonically smells really bad
 | [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
 | [Lucien](Lucien.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | Her sanity has already crumbled |  |
+| [Lysander Spellhardt](Lysander_Spellhardt.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
 | [Mag](Mag.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
 | [Maedhran](Maedhran.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), On the cliff the Union hook leads to. | Sells some [mantra modifiers](Mantra_Modifiers.md). | Before accessing his shop, you have to listen to the tale he tells. |
 | [Malisae](Loot_Bag_Gacha.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | Gacha NPC. Will give you something random from the Miner's Landing lootpool in exchange for 350 notes. |  |

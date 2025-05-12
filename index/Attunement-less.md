@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 144175
+revid: 144199
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1861,10 +1861,11 @@ Slash
 -   A small sample of **Reinforce**'s sound effect is taken from the anime _[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)_, specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6&t=379s) at the 6:20 mark on YouTube.
 -   There was a bug with the campfire variant of **Disguise** that resulted in the fire particle block falling into the void. This gave the appearance of an unlit campfire and started a rumor that you could achieve this based off spark order. This however is not true, and the bug was seemingly patched, making the unlit variant of this Mantra entirely unobtainable.
 -   **Summon Cauldron** used to be one of the most powerful Mantras out there, being able to proc _Bulldozer_ for free if you movestacked it with flourish.
--   As of the 17/02/2024 Update, **Exhaustion Strike** can no longer guardbreak monsters or players by transferring posture.
+-   **Exhaustion Strike** used to be able to guardbreak players and monsters by transferring posture, this of course is no longer the case.
 -   **Tacet Drop Kick** used to require 20 strength, but was shadow changed to require 5 strength.
--   You can obtain other Weapon Mantras as long as you have 30 investment points in them, including Jus Karita Mantras.
-    -   This used to be 8.
+-   Strangely, **Prominence Draw** deals less damage if your weapon's sheathe location is at your hip or if your weapon isn't a medium weapon. This is the only weapon mantra to deal reduced damage if you aren't using the respective weapon type.
+-   You can obtain and use weapon mantras from other weapon classes as long as you meet their requirements.
+-   All weapon mantras used to have a requirement of 8 weapon investment.
 -   **Ceaseless Slashes** is the only Attunement-less Mantras to be starred, being 3 stars.
     -   **Rapid Punches** used to be 1 star, but was changed to 0.
 -   **Strong Left** may have been inspired by [Franky's Strong Right from _One Piece_](https://onepiece.fandom.com/wiki/Franky/Abilities_and_Powers#BF-36/Cyborg_Tactics).
@@ -1872,4 +1873,4 @@ Slash
 -   **Rapid Slashes** is one of Vergil's moves from the _Devil May Cry_ series.
 -   **Revenge** takes its sound effects from the indie RPG game _OMORI_ ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
 -   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them. The reason they are not hunted by Silenthearts is probably due to the fact that it is not abuse of the song, it is merely an enhancement of your own physical attributes.
--   At some point, there was a bug where a duplicate of **Rapid Punches** would be available to pick as an Intelligence Combat Mantra.
+-   For about a week before **Ether Barrage** was added, there was a bug where a duplicate of **Rapid Punches** would be available to pick as an Intelligence Combat Mantra. This of course was a placeholder, and was later replaced by **Ether Barrage** when it fully released.

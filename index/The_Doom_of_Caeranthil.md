@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 141309
+revid: 144214
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -211,6 +211,10 @@ Exhaustive Loot Table
 </tr>
 </tbody>
 </table>
+
+## Gallery
+
+The Doom of Caeranthil's path mapped out.
 
 ## Trivia
 

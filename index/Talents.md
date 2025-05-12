@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144174
+revid: 144215
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1082,11 +1082,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I dance with the flames."**_
 
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing.
+    -   Casting a Flamecharm Mantra will give you a moderate boost of horizontal movement in the direction your character is facing. This will still proc even if the Mantra is feinted.
+    -   Very useful for closing distance and getting into close quarters combat.
+    -   Despite what Graceful Step's Talent description implies, this Talent does **not** grant a speed boost.
     -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8
 
--   _Graceful Steps_ \[Rare Talent, Flamecharm Exclusive\] - Your dancing step now give a faster speed boost.
-    -   If you lack the ether to cast a mantra, the speed boost will trigger regardless.
-    -   Description may be a bit misleading: This Talent makes so the dash that you do with the Talent "Dancing steps" its faster. It does NOT give any "speed boost".
+-   _Graceful Steps_ \[Rare Talent, Flamecharm Exclusive\] - Your dancing steps now gives a faster speed boost.
+    -   If you lack the ether to cast a Mantra, the speed boost will trigger regardless. Also triggers if the Mantra is feinted.
+    -   The speed boost has a very short duration; having a fast swingspeed weapon is recommended to capitalize off this Talent's effect.
     -   Prerequisites: 80 Flamecharm, [Power](Power.md) 13, Dancing Steps
 
 -   _The Final Act_ \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
