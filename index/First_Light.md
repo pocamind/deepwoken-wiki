@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 143357
+revid: 144219
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals]
@@ -37,7 +37,7 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 The plunge deals 25 Flamecharm damage with 5 Flamecharm scaling (37.5 damage at 100 Flamecharm), 5 posture damage (5.5 if two handed), and **applies burn**. The critical will end early if this attack is parried.  
 The swords from the sword rain deal 14 Flamecharm damage with 5 Flamecharm scaling (21 damage at 100 Flamecharm) and 3.5 posture damage (3.85 if two handed). The swords **do not apply burn** and **cannot proc any enchant or "on critical" Talent effect** (like [Manipulator](Talents.md#toxic-personality)). The swords are also 360 blockable.
 
-This critical is mostly used as a distraction or pressure as opposed to dealing actual damage due to the randomness of the swords and the large area it covers. **Has the longest Crit Cooldown ingame of 25 seconds.**
+This critical is mostly used as a distraction or pressure as opposed to dealing actual damage due to the randomness of the swords and the large area it covers. **Has the (second, vortex echo is first with 30 seconds) longest Crit Cooldown ingame of 25 seconds.**
 
 ## Trivia
 
@@ -57,4 +57,3 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
     -   This victory earned the necessary points for their duo to place second overall, giving [Lightborn](Lightborn.md) to both Trunks and Agamatsu.
 -   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s Talent, _Actions Speak Louder_, the critical cooldown is reduced to only 20 seconds. (If you couldn't use your Resonance anyways, like in 1v1 Chime matches, then it will be reduced to 23.75 seconds.) This is still longer than any other critical attack cooldown in the game.
 -   The model of the flaming swords are identical to the one of the [Worshipper Longsword](Worshipper_Longsword.md).
--   Received a new model on April 27th, 2025.
