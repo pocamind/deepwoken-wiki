@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 144197
+revid: 144227
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Ministry Enemies]
@@ -20,16 +20,28 @@ As stated by Arch Mage, you don't have to meet any requirements for the NPC to s
 
 ## Dialogue
 
--   Speak worm. Tell me what you know. (On spawn)
--   What did you see? Well? (On spawn)
--   Oh well, another one for the pyre. (On aggro)
--   Tch. Loose ends. (On aggro)
--   Far too late. (On grip)
--   Do you think what you're doing means anything? (On grip)
+**On spawn:**
+
+-   Speak worm. Tell me what you know.
+-   What did you see? Well?
+-   Tell me. Who did you meet with?
+    -   Pathfinder: I'd die before I told you!
+        -   It's all the same to me.
+            
+
+**On Aggro:**
+
+-   Oh well, another one for the pyre.
+-   Tch. Loose ends.
+    
+
+**On Grip:**
+
+-   Far too late.
+-   Do you think what you're doing means anything?
+    
 
 Additionally, if the pathfinder hostage is still alive when the agent is gripped, they will say "Thank you..."
-
-  
 
 ## Moveset
 

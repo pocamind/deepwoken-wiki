@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 144192
+revid: 144221
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -90,7 +90,7 @@ Training Hall
 
  | 
 
-An arena meant for dueling your guild members. There are 2 dummies which can be used to test damage, the left tests your base damage, the right includes pve scaling. Hitting either dummy will cause it to display damage counters, showing how much you dealt. If a dummy is lit on fire, you can extinguish the fire by hitting it, or waiting a while.
+An arena meant for testing attacks and abilities. There are 2 dummies which can be used to test damage, the left tests your base damage, the right includes pve scaling. Hitting either dummy will cause it to display damage counters, showing how much you dealt. If a dummy is lit on fire, you can extinguish the fire by hitting it, or waiting a while.
 
 [Training Gears](Training_Gear.md#attribute-training-gears) are sold in this room.
 

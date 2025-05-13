@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 143820
+revid: 144222
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -454,7 +454,7 @@ Metal + Slash + Template:Bleed2
 **Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
 
 -   Rapid-hitting Mantra.
--   Deals 108.9 (8.37 + 2.52 Template:Bleed2 \* 10) DMG per hit, 10 posture total, 0.5s windup, 13s CD per hit
+-   Deals 108.9 (8.37 + 2.52 Template:Bleed2 \* 10) DMG per hit, 10 posture total, 0.5s windup, 13s CD at 5 lvl
 -   With 6 songchant deals 121.1 (9.32 + 2.79 Template:Bleed2 \* 10)
 -   Has 9.18x PVE scale (8.37 DMG + 2.52 Template:Bleed2 PVP, 76.85 DMG + 23.07 Template:Bleed2 PVE)
 -   Applies Metal Rods on hit.
