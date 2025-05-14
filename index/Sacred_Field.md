@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 142223
+revid: 144252
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -40,9 +40,10 @@ If Sacred Field is corrupted, the field will follow its user instead of staying 
 
 When obtained, Sacred Field will spend its points on the following stats:
 
--   **Resistance type:** Decides the type of resistance that will be used.
+-   **Resistance type:** Decides the type of resistance that will be used (you can roll all three).
     -   Physical resistance reduces damage from physical attacks (example: m1, critical, etc.)
     -   Elemental resistance reduces damage from elemental attacks (example: [Lionfish](Lionfish.md) beam, attunements, etc.)
+    -   Sanity resistance reduces sanity loss (example: sharko roar? is untested but confirmed by tester)
 -   **Resistance strength:** The more points are spent on this stat, the higher the damage resist percentage is.
 -   **Range:** The more points are spent on this stat, the larger the area covered by the resonance is.
 -   **Duration:** The more points are spent on this stat, the longer the resonance lasts.

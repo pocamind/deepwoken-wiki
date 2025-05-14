@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 144199
+revid: 144250
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -399,7 +399,8 @@ Blunt
 
 **Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
 
--   Deals light damage. 15 second cooldown.
+-   It has a base damage of 20/25/30/35/40 damage per level.
+-   Has a 15 second cooldown.
 -   Shoulder Bash damage and duration scales with your Fortitude attribute.
 -   Can collide with and break parts of the map.
 -   Rush shards have no effect
