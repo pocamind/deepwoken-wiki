@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 144053
+revid: 144257
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry]
@@ -278,7 +278,7 @@ Exhaustive Loot Table
   <td colspan="6">The City?</td>
 </tr>
 <tr>
-  <td colspan="6">Oh you don't know? This tower sits atop <b>New Kyrsa, the Sleeping City</b>. There lies the so-called bedchambers of the <b>Drowned God Ethiron</b>. Together perhaps we could - [ATTACKS]</td>
+  <td colspan="6">Oh you don't know? This tower sits atop <b><a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a></b>. There lies the so-called bedchambers of the <b><a href="Ethiron,_The_Maelstrom's_Eye.md">Drowned God Ethiron</a></b>. Together perhaps we could - [ATTACKS]</td>
 </tr>
 <tr>
   <td colspan="6">You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.</td>
