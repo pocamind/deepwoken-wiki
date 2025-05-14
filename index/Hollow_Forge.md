@@ -1,6 +1,6 @@
 ---
 title: Hollow Forge
-revid: 143806
+revid: 144237
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,7 +16,7 @@ categories: [Mechanics]
 
 The Hollow Forge is a in appearance a furnace; in the middle its the window with on-going lava and valves on the top. It can be found in [Miner's Landing](<Miner's_Landing.md>) and [The Chariot's Spire](<The_Chariot's_Spire.md>). It was likely created by [The Ignition Union](The_Ignition_Union.md), hence why it is only usable by them.
 
-**It can only be used with the Ignition Delver [Origin](Origins.md), and both Smith's Alloys and Pluripotent Alloys cannot be dropped. Smith's Alloys can be banked but Pluripotent Alloys cannot be banked.**
+While the Forge can **only be used by players with the [Ignition Delver](Origins.md#ignition-delver) Origin**, you can perform a workaround for a few of the conversions. [Smith's Alloys](<Smith's_Alloy.md>) and [Armorer's Needles](<Armorer's_Needle.md>) can be banked, meaning you can transfer these Relics to a slot with this Origin to convert them into the opposing type. [Pluripotent Alloys](Pluripotent_Alloy.md) on the other hand, are not so lucky, as they cannot be transferred between slots.
 
 ## Usage
 

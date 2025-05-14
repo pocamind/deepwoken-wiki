@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 144055
+revid: 144239
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -282,7 +282,7 @@ Ice
     -   Can't be increased.
 -   1st and 2nd hit are parryable.
 -   Cancels if parried.
--   Can be upgraded with the **Glacial Mobility** Talent, which allows you to perform two spinning slices when casting the Mantra after a slide jump.
+-   Can be upgraded with the **Glacial Mobility** Talent, which allows you to perform a spinning slice when casting the Mantra after a slide jump, dealing ~1.7x the damage of the first hit of the base version.
 -   Can be canceled by timing a right-click after any of the slashes.
 
  |
@@ -1681,7 +1681,7 @@ N/A
 
 ## Trivia
 
--   The Chilling [Enchantment](Enchantments.md) still applies 1 second Chill in PvP per hit until it applies Bottom Freeze and then goes on cooldown until you can reapply the status.
+-   The [Chilling](Chilling.md) Enchantment still applies 1 second Chill in PvP per hit until it applies Bottom Freeze and then goes on cooldown until you can reapply the status.
 -   The **Ice Fissure** Mantra is a reference to the Roblox game _Strife_, specifically the class [Obsidian's](https://strife-official.fandom.com/wiki/Obsidian) Pyroclast move, which summons pulsing obelisks.
 -   The **Warden's Blades** Mantra is likely a reference to _Devil May Cry_, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
     

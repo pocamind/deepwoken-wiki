@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144215
+revid: 144238
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2050,17 +2050,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I am one with Navae."**_
 
 -   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+4 Carry Load)
+    -   Works with [Jus Karita](Jus_Karita.md) and [Light's Final Toll](<Light's_Final_Toll.md>) despite not using "fists" as a weapon.
+    -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
     -   Prerequisites: Trained Fist, Moving Fortress, Shield Equipped, 20 Fortitude and 30 Strength.
-        -   Works with [Jus Karita](Jus_Karita.md) and [Light's Final Toll](<Light's_Final_Toll.md>) despite not using "fists" as a weapon.
-        -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
 
 -   _Fists of Fortitude_ \[Rare Talent\] - \[Fists\] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)
     -   Only procs on M1s with the exceptions of a few weapons.
         -   Can proc on [Wraithclaw](Wraithclaw.md)'s and [Legion Kata](Legion_Kata.md)'s criticals due to them being classified as basic attacks, with Wraithclaw's neutral critical proccing it almost instantly due to being a multihit.
     -   This Talent also **works** with [Jus Karita](Jus_Karita.md) but won't come out on your Talent hands unless you have any **Fist Style** equipped.
-    -   Mutual Exclusive: Orbital Ice
-    -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
     -   Prerequisites: Fists, 20 Fortitude, 20 Light Weapon
+    -   Mutual Exclusive: Orbital Ice
+        -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
@@ -2085,8 +2085,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Nimble Blade."**_
 
 -   Fast Blade \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
-    -   Parrying without this talent gives you a speed boost, but it's barely noticeable and lasts for the duration of the parry. (TESTED)
-    -   Increases the speed boost duration by 3 seconds.
+    -   Parrying without this Talent gives you a speed boost, but it's barely noticeable and lasts for the duration of the parry. (TESTED)
+    -   Increases the speed boost duration from parrying by 3 seconds.
     -   Prerequisite: 20 Agility
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)

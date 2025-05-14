@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 144217
+revid: 144233
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -8,9 +8,7 @@ categories: [NPCs]
 
 # NPCs
 
-## Description
-
-NPCs are the various inhabitants of the Deepwoken world. While some serve functions such as being merchants or giving quests, some just exist to make the world feel more alive, as well as giving special titbits of information. Sometimes, having a higher [Charisma](Attributes.md#charisma) or Intelligence stat will unlock special interactions with them.
+gre== Description == NPCs are the various inhabitants of the Deepwoken world. While some serve functions such as being merchants or giving quests, some just exist to make the world feel more alive, as well as giving special titbits of information. Sometimes, having a higher [Charisma](Attributes.md#charisma) or Intelligence stat will unlock special interactions with them.
 
 | NPC | Faction | Location | Purpose | Notes |
 | --- | --- | --- | --- | --- |
@@ -97,6 +95,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Glaive Spellhardt](Glaive_Spellhardt.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
 | [Graha](Graha.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), next to the stove | None |  |
 | Green | Unaligned | [The Floating Keep](The_Floating_Keep.md) | None |  |
+| [Gunsmith](Gunsmith.md) | [Summer Company](The_Summer_Company.md) | [Guild Bases](Guild_Bases.md) | Makes bullet casing |  |
 | [The Guy](The_Guy.md) | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will belittle you by saying "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
 
 Check the rest out for yourself, canonically smells really bad
@@ -106,6 +105,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Imel](Imel.md) | [The Ministry](The_Ministry.md) | [The Etrean Sea](The_Etrean_Sea.md), statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | [Ishan](Ishan.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. |
 | [Jeandae](Loot_Bag_Gacha.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Gacha NPC. Will give you something random from the Songseeker Wilds lootpool in exchange for 350 notes. |  |
+| [Jarvis](Jarvis.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | Smelts pieces of equipment together |  |
 | [Jeremiah](Jeremiah.md) | Unaligned | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | Trade 1 [Deep Gem](Deep_Gems.md) for 1 random item | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
 | [Jessamine](Jessamine.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md), [Widow's Hollow](<Widow's_Hollow.md>) | Thresher Scales quest |  |
 | [Jim](Jim.md) | Unaligned | [Etris](Etris.md), Docks | Gives a Talent hand in exchange for 2 [Dying Embers](Dying_Embers.md) |  |

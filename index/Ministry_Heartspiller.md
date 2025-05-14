@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 144227
+revid: 144241
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Ministry Enemies]
@@ -66,6 +66,26 @@ Block: ◯
 
 Parry: ?  
 Block: ?
+
+ | TBA |
+| 
+
+**Vent**
+
+ | The Heartspiller releases an explosion of blue ether, pushing their enemy away.
+
+Parry: ◯  
+Block: ◯
+
+ | TBA |
+| 
+
+**Shadow Eruption**
+
+ | The Heartspiller swipes with their right hand before releasing a large sphere of shadow, hitting their enemy twice and applying shadow.
+
+Parry: ◯  
+Block: ◯
 
  | TBA |
 | 
