@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 143005
+revid: 144263
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -309,7 +309,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ### Echo Quests
 
-**(Power 1)** Glider - _Gain the Glider Recipe at Power 1. **Obtained by asking Elite Pathfinder Alastir at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider**_
+**(Power 1)** Glider - _Gain the Glider Recipe at Power 1. **Obtained by asking Elite Pathfinder [Alastir](Alastir.md) at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider**_
 
 **(Power 2)** Chain of Perfection \[Echo Talent\] - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) without getting hit by one of the boss' attacks.**_
 
@@ -319,7 +319,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
         -   The maximum threshold of damage is 2x.
         -   Chain of Perfection does **not** work in PvP.
 
-**(Power 3)** Engage \[Echo Talent\] - _Gain Engage at Power 3 ._ _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
+**(Power 3)** Engage \[Echo Talent\] - _Gain Engage at Power 3 ._ _**Obtained by completing the quest given by Etrean Soldier [Arthur](Arthur.md) at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 
 -   Landing M1 attacks restores some of your Ether.
 
@@ -346,10 +346,10 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   The [Silversix](Silversix.md) Guns,
     -   The [Avenger](Avenger.md) Greatsword.
 -   The seven Tools from "Advanced Tools" are obtained in linear order through purchases listed below:
-    -   A Lumber Axe and Pickaxe.
-    -   Flint and Canteen.
-    -   Repair Hammer and Fishing rod.
-    -   Glider.
+    -   A [Lumber Axe](Lumber_Axe.md) and [Pickaxe](Pickaxe.md).
+    -   [Flint](Flint.md) and [Canteen](Canteen.md).
+    -   [Repair Hammer](Repair_Hammer.md) and Fishing rod.
+    -   [Glider](Gliders.md).
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
     -   The [Boulder](Training_Gear.md)

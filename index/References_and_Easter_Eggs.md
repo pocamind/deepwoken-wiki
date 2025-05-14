@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 141477
+revid: 144262
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -56,7 +56,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 ### Frostdraw
 
--   The **Ice Skate** mantra is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with freezing ability being used to skate around.
+-   The **Ice Skate** Mantra is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with freezing ability being used to skate around.
     -   Previously, there was an advanced/legendary Talent with the same name, allowing the user of **Ice Skates** to skate on solid ground.
 -   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh%23Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
@@ -65,7 +65,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 ### Galebreathe
 
 -   The **Aerogliding** Talent is a reference to Jett, from _Valorant_, whose passive ability which allows her to glide instead of falling.
--   **Wind Blade** could be a reference to the [Moonlight Greatsword](https://eldenring.wiki.fextralife.com/Moonlight+Greatsword) from the _Souls_ games.
+-   **Wind Blade** could be a reference to the [Moonlight Greatsword](https://darksouls.fandom.com/wiki/Moonlight_Greatsword) from the _Souls_ games.
 -   **Wind Forge** modified with a Multiplying Spark is a reference to [Gilgamesh's Noble Phantasm "Gate of Babylon"](https://typemoon.fandom.com/wiki/Gilgamesh#Noble_Phantasms) from the _Fate_ series.
 
 ### Shadowcast
