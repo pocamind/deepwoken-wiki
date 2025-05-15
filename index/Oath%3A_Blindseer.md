@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 144112
+revid: 144301
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Blindseer** is one of the 16 obtainable Oaths in _Deepwoken._ The Oath is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat and in [The Depths.](The_Depths.md) It is the opposing Oath to [Visionshaper](Oath%253A_Visionshaper.md).
+**[Oath](Oaths.md): Blindseer** is one of the 16 obtainable Oaths in _Deepwoken._ The Oath is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat and in [The Depths](The_Depths.md). It is the opposing Oath to [Visionshaper](Oath%253A_Visionshaper.md).
 
 ## Obtainment
 
@@ -52,7 +52,7 @@ The hints toward how to progress this Oath are glyphs located at [Summer Isle](S
 
 This Oath grants the player 1 Wildcard Mantra, 1 Support Mantra slots and 10 Sanity.
 
-This Oath also grants the players full vision and increased brightness **while wearing a Blindfold**, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to Gaze. Blind flaw does not provide protection from Gaze.
+This Oath also grants the players full vision and increased brightness **while wearing a Blindfold**, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath.
 
 With the stat requirements, the Talents, the blinded Talent and the Oath Talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depths at no risk.
 
@@ -65,7 +65,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   It has a 60 second cooldown.
     -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
     -   Doesn't work on NPCs.
-    -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
+    -   Obtainment: 1 Pathfinder helped in the Depths Trial (must be alive)
 
 -   **Tranquil Circle - Support Mantra**
     -   Disables mantras from being used in its radius.
@@ -75,7 +75,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Adds 10% Monster Armor to players standing in its radius.
     -   About the size of a medium Sacred field roll.
     -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle much smaller but makes it follow the user.
-    -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
+    -   Obtainment: 3 Pathfinders helped in the Depths Trial (must be alive)
 
 -   **All-Seeing Eye - Passive**
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
@@ -83,7 +83,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
         -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portals.
     -   With this Talent, the [Tacet Murmur](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
     -   This works on anyone who is invisible, yourself included.
-    -   Obtainment: 4 Pathfinders helped in the Depth Trial (must be alive)
+    -   Obtainment: 4 Pathfinders helped in the Depths Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
@@ -97,28 +97,30 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
         -   Nautilodaunts and Enforcers are very likely to just block the entire beam. It is advised to get a friend to distract them.
     -   You can run during the windup, but can only walk while the beam is active.
     -   Getting hit by a Vent while using Sightless Beam cancels it.
-    -   Obtainment: 5 Pathfinders helped in the Depth Trial (must be alive)
+    -   Obtainment: 5 Pathfinders helped in the Depths Trial (must be alive)
 
 ## Notes
 
--   Having the Blind [Flaw](Boons_and_Flaws.md) removes the Blindfold requirement.
+-   **Blindseer Mantras don't scale with Willpower at all.**
+-   Having the Blind [Flaw](Boons_and_Flaws.md#flaws) removes the Blindfold requirement.
+-   While you don't need to keep the Blindfold equipped after obtaining the Oath, having the _Blinded_ Talent grants immunity to abilities like [Gaze](Attunement-less.md#gaze) and [Flame Blind](Flamecharm.md#flame-blind). The Blind [flaw](Boons_and_Flaws.md#flaws) also grants this effect.
 -   Well-suited Oath for PvE.
 -   Pairs well with Lose Your Mind, a Talent that makes you deal more damage the more insane you are.
--   **BLINDSEER MANTRAS DON'T SCALE WITH WILLPOWER AT ALL.**
--   You can reroll the Mental Fortress Talents and still keep the oath.
+-   You can reroll the Mental Fortress Talents and still keep the Oath.
 -   Many Blindseer moves drain your sanity as a price, so it's best to use the moves with caution.
+-   If you wish to dye the Blindseer eye Oath cosmetic, you need to [dye](Dye_Packet.md) your actual eyes, not the "Blindseer Cosmetic."
 
 ## Trivia
 
 -   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
--   The glyph on the wall also can be found at King Tresher room in Lightkeeper Temple, the glyph also stating about how to progress Blindseer Oath.
+-   The glyph on the wall also can be found the room with the [King Thresher](King_Thresher.md) in [Lightkeeper Temple](Lightkeeper_Temple.md), the glyph also stating about how to progress the Blindseer Oath.
 -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
--   The Blindseer Eye can be dyed by dying your eyes using a [Dye Packet](Dye_Packet.md).
--   Vesperians with this Oath do not have a glowing Blindseer eye, and instead have a yellow eye painted onto their mask on a gray background. This eye can be dyed by dying the mask.
-    -   There is a bug where the mask decoration persists even upon Oath removal.
--   As stated in an interview with Raguza, he got the inspiration for blindseer when he was cosplaying lee sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.
--   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the trophy room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
+-   [Vesperians](Vesperian.md) with this Oath do not have a glowing Blindseer eye, and instead have a yellow eye painted onto their mask on a gray background. This eye can be dyed by dying the mask.
+    -   There is a bug where the mask decoration persists even upon [Oath](Oaths.md) removal.
+-   If you unequip your face accessory while having Blindseer, you'll be _visually_ given a dark yellow-ish blindfold that cannot be dyed nor unequipped. This blindfold has no stats nor Talents and cannot have its visual toggled.
+-   As stated in an interview with the owner of the game, Raguza, he got the inspiration for Blindseer when he was cosplaying Lee Sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.
+-   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the Trophy Room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
 -   **Be extremely careful** with who you let into your trial, as you have no idea if the Pathfinder you're helping has an [Echo modifier](Echoes.md) such as Vow of Thorns or Deep Champion, or if they have activated the [Shrine of Courage](Shrine_of_Courage.md). It's recommended to bring Pathfinder friends to help you progress Blindseer.
--   The Blindseer eye is a repeated symbol throughout the game.
+-   The Blindseer eye is a repeated symbol throughout the game, used for unparryable attacks.
     -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the [Vesperian](Vesperian.md) variation of Blindseer.
-    -   Unparryable attacks of [monsters](Monsters.md), weapons, and mantras are accompanied by a red Blindseer eye (e.g. [Bone Keeper](Bone_Keeper.md)'s grab).
+    -   Unparryable attacks of [Monsters](Monsters.md), weapons, and mantras are accompanied by a red Blindseer eye (e.g. [Bone Keeper](Bone_Keeper.md)'s grab).

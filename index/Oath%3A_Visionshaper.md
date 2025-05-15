@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 144229
+revid: 144296
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -109,13 +109,22 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
         -   60 second cooldown.
     -   Become invisible for 2.5 seconds whenever you knock an enemy. This does not grant I-frames.
 
+## Notes
+
+-   Almost exclusively a PvP Oath, as the clones die very easily in PvE and deal significantly less damage than the user. On top of this, Mirror Illusion doesn't even hit non-humanoids.
+-   If you wish to dye the Visionshaper eye trail Oath cosmetic, you need to [dye](Dye_Packet.md) your actual eyes, not the "Visionshaper Cosmetic."
+
 ## Trivia
 
 -   The Mental Fortress [Talent](Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
 -   Sudaruska's Fury counts as a non-Oath mantra, and can be used by your Shaper Clone, under the name "IceStorm".
--   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
+-   Using Illusory Counter with its Reversal Spark can allow for some interesting interactions in PvE, as it's the only way to clone non-humanoid mobs and bosses.
+    -   When cloning non-humanoid mobs, they'll T-pose and won't be able to move or attack. It's more of a funny interaction rather than something you can actively use in combat, especially when someone clones the [Heart of Enmity](Heart_of_Enmity.md) or some other very large mob.
+    -   When cloning humanoid [bosses](Bosses.md), it allows you to see the internal name for the ability they used last. For example, [Duke Erisia's](Duke_Ishamon_Erisia.md) Aero Spear ability is named DukeBlast and his Strong Left-like attack is named DukePunch. You can of course use Reality Shift to make the boss clones use their copied boss abilities.
+-   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Saintsworn](Oath%253A_Saintsworn.md).[\[1\]](#cite-note-1)
     -   Dexerius was thought to have taken inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series, but this was proven false.
 -   On 20th of September 2024, Visionshaper received a rework that removed Illusory Realm for Mirror Illusion, and changed the behavior of Shaper Clones.
+    -   If you had a slot that had Visionshaper pre-removal of Illusory Realm, your Illusory Realm would be replaced with the [Disguise](Attunement-less.md#disguise) Mantra.
 
 ## References
 

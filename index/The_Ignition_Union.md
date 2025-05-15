@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 136208
+revid: 144299
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -76,8 +76,6 @@ Enemy-Neutral Reputation
 
 ## Notable Members
 
-[Deepdelver Hoffa](Lore.md): Otherwise known as Colonel Hoffa. A powerful Ignition Deepdelver mentioned in lore whose aspect is currently unidentified as of now, they are mentioned to be as strong as [Akira](Akira.md) and is suspected to be an Arcwarder.
-
 [Deepdelver Tau](Deepdelver_Tau.md): A Ganymede Deepdelver in charge of leading players into expeditions into the [Saramaed Hollow](Saramaed_Hollow.md), Tau is in charge of bringing the Deep Drill back to the surface when a signal is called by the player via the radio communication system inside the drill.
 
 [Deepdelver Adar](Adar,_Master_of_Metal.md): An Etrean with the rank of a Deepdelver in one of the towers in Miner's Landing studying on how to bring Ironsing back into the modern world. He has been in the Union presumably since birth from the Union taking him off the streets, due to the living Ironsingers guarding the secrets of the attunement he is hidden with the comrades of the Union not knowing where he is as he would be punished for attempting to turn a normal person into an Ironsinger.
@@ -107,7 +105,6 @@ Enemy-Neutral Reputation
 -   Whilst being executed, Ignition Union NPCs may call the player a "scab". A [scab](https://en.wikipedia.org/wiki/Strikebreaker#) is a pejorative term for individuals hired during an ongoing labour strike to keep a company operating at the bare minimum efficiency until the strike is dissolved. Alternatively, it may just be an insult based on the substances that forms over wounds.
 -   Despite the Ignition Union's feuds with the Divers and the Summer Company, they are all ironically contracted in some capacity to the Central Authority.
 -   The Ignition Union has its own [anthem](Books.md#the-hammers-call), titled "The Hammer's Call," a modern adaptation of an [Adretian](Adret.md) folk song penned by a "Gawain Corbet" in the year 1272.
-    -   This makes them the third faction, along with the [Summer Company](The_Summer_Company.md) and [The Central Authority](The_Central_Authority.md) to have in in-universe song associated with them.
 -   [Miner's Landing](<Miner's_Landing.md>) is one of two cities in-game to be focused on industrialism more than medievalism along with [Summer Isle](Summer_Isle.md).
 -   The Ignition Union is one of four factions that have an [Oath](Oaths.md) tied to them.
 -   One of two factions to create and utilize [Monsters](Monsters.md), the other being [The Hive](The_Hive.md).

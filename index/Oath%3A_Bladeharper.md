@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 143769
+revid: 144302
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -116,6 +116,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   If True Strength is active, this attack will extend to nearby enemies. Once you teleport to a new enemy, hit them with a significantly weakened Decimate and proc a flurry of slashes. The weakened decimate deals 0.1 damage and the slashes deal 12 damage total (3 slashes that deal 4 damage each).
         -   Deals a total of 49.74 Oath & Slash damage in True Strength (18.67 \* 2 base hits + 0.1 teleport + (4 \* 3 slashes)).
     -   Direct hits **autogrip** players if low enough or knocked.
+    -   Able to be used on fist
     -   Obtainment: Obtained after the final Mind Reflection fight.
 
 Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
@@ -138,6 +139,7 @@ Finally the most important piece of advice, stay calm, as you would with any and
 
 ## Trivia
 
+-   You can use the oath and Decimate with fist, but to fight the Blade Within you must use a different weapon, like a dagger or rapier.
 -   The statue in the center of the Blade Within will be the weapon you had equipped when you were teleported.
 -   The Oath bracelets were formerly called "Snakerings" (as viewed from the Dye Packet), which was later changed to "Bladeharper Serpents".
 -   Its obtainment method is inspired by the way in which Ichigo Kurosaki, the protagonist of BLEACH, obtained his "Bankai" ability.
@@ -146,6 +148,6 @@ Finally the most important piece of advice, stay calm, as you would with any and
 -   Currently, this is one of three Oaths where you cannot skip progression with knowledge, the others being [Chainwarden](Oath%253A_Chainwarden.md), and [Soulbreaker](Oath%253A_Soulbreaker.md).
     -   This is probably due to the Oath being added after the progression skip update, and the progression skip hasn't been implemented, or has been fully forgotten about.
 -   The slashing effects closely resemble the "Cleave" and "Dismantle" abilities of Ryomen Sukuna from _Jujutsu Kaisen_.
--   Originally, Decimate could not be used on Fist weapons of any kind. This was theorized to be due to Melonbeard's disliking to the Fist weapon class, which he is very open about.
+-   Originally, Decimate could not be used on Fist weapons of any kind but now you can. This was theorized to be due to Melonbeard's disliking to the Fist weapon class, which he is very open about.
     -   When asked about this, Melonbeard said "No Sukuna build"
 -   The mirror self can sometimes speak. The only instance so far is of it saying "Behold my magic spell."

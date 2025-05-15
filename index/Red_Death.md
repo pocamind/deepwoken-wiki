@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 144287
+revid: 144303
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Weapons with Unique Criticals, Items, Multiple Criticals]
@@ -32,7 +32,7 @@ notices:
 
 The **Red Death** is a Legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowcast.md) Spear; a vile tool used by [Ministry Heartspillers](Ministry_Heartspiller.md) to aid in ruthless interrogation tactics while also leaving no trace of the target's organic remains and ether. It can be dropped from the [Ministry Heartspiller](Ministry_Heartspiller.md).
 
-When gripping a humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving nothing.
+When gripping a humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving nothing but their loot.
 
 ## Critical
 
