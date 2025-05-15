@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 144271
+revid: 144281
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -34,7 +34,7 @@ This weapon deals 30.4 damage at 100 Medium and deals 34.8 damage with the added
 
 ## Critical
 
-The user stabs the opponent in a short range after a very slow wind-up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) on hit while bypassing the opponent's parry and block. The user can respond with a follow-up M1 after the initial hit, stepping back from the target and unleashing a horizontal split. The followup M1 will deal the same damage as the initial hit.
+The user stabs the opponent in a short range after a very slow wind-up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) on hit while bypassing the opponent's parry and block. The user can respond with a follow-up M1 after the initial hit, stepping back from the target and unleashing a horizontal split. The followup M1 will deal the same damage as the initial hit. Critical bypasses **armor** resistances.
 
 Can be cancelled by damage in wind-up.
 
@@ -43,11 +43,13 @@ Can be cancelled by damage in wind-up.
 -   Nocturne originates from the game [Kill Simulator](https://www.roblox.com/games/13997333541/Kill-Simulator) by Toons Incorporated.[\[1\]](#cite-note-1)
 -   Prior to the 10/26/2024 update, enchantments put on Nocturne applied to only one blade instead of two.
 -   Nocturne can be equipped with an offhand tool, but will not visually appear on the character.
--   The Nocturne uses the same stance as the two handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).
+-   The Nocturne uses the same stance as the one handed stance variant [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 -   Nocturne was created on July 6th, 2023 which can be fact checked by viewing the date the mesh was created.[\[2\]](#cite-note-2)
     -   At the same time the Nocturne was published, a sheath model was also made.
-    -   The sheathe is visible when the Obfuscation or Curse of Yun'Shul enchant is applied on this weapon.
+    -   The sheathe is visible when the Obfuscation or Curse of Yun'Shul [enchants](Enchantments.md) are applied on this weapon.
 -   If you wielded a singular weapon two-handed before switching to Nocturne, only one blade will appear, but the weapon will still be in a dual-wield stance. This is a visual bug and does not affect the performance of the weapon.
+    -   If you equip an offhand before performing the aforementioned bug, you'll have the offhand on your left hand and one blade of Nocturne on your right. The offhand will stay equipped until you reset or rejoin and can be used at full effectiveness. You can also perform this bug on any other dual-wielded weapon except for [Curved Blade of Winds](Curved_Blade_of_Winds.md).
+    -   Granted, you still cannot stance change, so you won't be able to use Talents like [Turtle Shell](Talents.md#shieldmaster).
 
 ## References
 

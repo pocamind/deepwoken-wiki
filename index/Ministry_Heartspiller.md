@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 144273
+revid: 144274
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Ministry Enemies]
@@ -64,8 +64,8 @@ Block: ◯
 
  | The Heartspiller raises their spear to the sky, before bringing it down, unleashing a barrage of orbs.
 
-Parry: ?  
-Block: ?
+Parry: ◯  
+Block: ◯ (Deals extremely high posture)
 
  | TBA |
 | 
@@ -100,6 +100,16 @@ Block: ◯
  | TBA |
 | 
 
+**Eclipse Kick**
+
+ | The Heartspiller performs a slow axe kick, causing their enemy to be ragdolled and flung back.
+
+Parry: ◯  
+Block: ◯ (Deals extremely high posture)
+
+ | TBA |
+| 
+
 **Crucifixion**
 
  | The Heartspiller conjures a cross, ragdolling and throwing enemies back.
@@ -124,9 +134,6 @@ Block: ✗
 -   If you're having trouble with spawning the npc, using Ring of Curses is a good way to increase the chances of the event from spawning.
     -   Combining this along with Hell mode, you'll get an even more increased rate of the event from spawning (Risky).
     -   Toons has confirmed that there _are_ some places where the spawn rate both increases and decreases. It is not known, however, where it is.[\[3\]](#cite-note-0-3)
-    -   Apparently there has been a case with multiple players where the event spawns once you have the following requirements:
-        1.  Villain reputation with the [Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
-        2.  Running around certain locations in Minityrsa or the Celtor City.
 
 ## Reference
 
