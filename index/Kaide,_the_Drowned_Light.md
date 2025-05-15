@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 137906
+revid: 144284
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Lore, Layer 2, Floor 2]
@@ -16,7 +16,7 @@ categories: [Lightborn NPCs, NPCs, Lore, Layer 2, Floor 2]
 
 ## Description
 
-Kaide is a [Lightborn](Lightborn.md) NPC found in [New Kyrsa](Second_Layer/New_Kyrsa.md). Wearing a [Soren](Soren.md) outfit.
+Kaide is a [Lightborn](Lightborn.md) NPC found in [New Kyrsa](Second_Layer/New_Kyrsa.md), wearing a [Soren](Soren.md) outfit: a spec outfit. He was the king of a city named Constellia, which was invaded by the Kyrsans resulting in him becoming a prisoner of the Second Layer and being trapped in the outskirts of New Kyrsa, meditating. In his dialogue, he mentions that the limited power of the Song in the hands of mortals is nothing compared to what a Drowned God could do with the Song, having significantly smaller limits and also speaks about the lost war between Lightborns and Celestials against the Drowned gods, explaining pieces of lore; like the Celestials fleeing from the war which caused the Lightborns to lose morale and simply giving up.
 
 <table>
 <tbody>
@@ -76,11 +76,5 @@ Kaide is a [Lightborn](Lightborn.md) NPC found in [New Kyrsa](Second_Layer/New_K
 </tr>
 </tbody>
 </table>
-
-He was the king of a city named "Constellia", which was invaded by the Kyrsans resulting in him becoming a prisoner of the Second Layer and being trapped in the outskirts of New Kyrsa, meditating.
-
-He mentions that the limited power of the Song in the hands of mortals is nothing compared to what a Drowned God could do with the Song, having significantly smaller limits.
-
-He also speaks about the lost war between Lightborns and Celestials against the Drowned gods, explaining pieces of lore, like the Celestials fleeing from the war, this causing the Lightborns to lose motivation to fight and simply giving up.
 
 The "immortals" that Kaide mentions in his dialogue are presumably the **[Deepwoken](Deepwoken.md)**. His hesitation when he says this can make someone infer that the word or topic of "Deepwoken" is a sacred or touchy subject. It also could mean that the player character and other people in Lumen cannot comprehend the concept of a Deepwoken.
