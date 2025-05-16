@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 143738
+revid: 144491
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 ― Theadre
 
-The King of Etrea was famous for his exceptionally powerful [Ardour](Murmur%253A_Ardour.md). He, however, also wielded all three Murmurs in what Etreans think was a result of a deal with the [Mur Of Light](Mur_Of_Light.md), an Etrean deity. This is a myth however, as the King in reality would travel to the then above-surface [Southern Luminant](Luminants.md) and strike a deal with the Drowned God [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), becoming a Soulbreaker himself and shattering his soul into three pieces.
+  
 
 ## Obtainment
 
