@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 144272
+revid: 144305
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -111,6 +111,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Jim](Jim.md) | Unaligned | [Etris](Etris.md), Docks | Gives a Talent hand in exchange for 2 [Dying Embers](Dying_Embers.md) |  |
 | [Joshua](Joshua.md) | Unaligned | [Etris](Etris.md) | Talks about [Karliah](Karliah.md) |  |
 | [Kaab](Kaab.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Shipwright |  |
+| Kaide, The Drowned Light | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
 | [Kana](Kana.md) | Unaligned, likely The Authority | [Fort Merit](Fort_Merit.md) | None |  |
 | [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest | Having 10 Charisma allows you to charge her |
 | [Kasen](Kasen.md) | Unaligned | [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | Gives Heretic's Sutra |  |

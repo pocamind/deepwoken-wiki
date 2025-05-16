@@ -1,6 +1,6 @@
 ---
 title: "Herbalist's Hat"
-revid: 140243
+revid: 144307
 source: https://deepwoken.fandom.com/wiki/Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -30,5 +30,6 @@ The Herbalist's Hat is an [Equipment](Equipment.md) item under the "Head" catego
 
 ## Trivia
 
+-   Herbalist's Hat and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) are the only two equipment pieces in the game to keep a working version of their innate Talent after said Talent was removed. The Talent in question is Herbivore, which was removed on the April 15th, 2025 Update.
 -   The Herbalist's Hat and the [Alchemist's Hat](<Alchemist's_Hat.md>) have a very similar model, with the only difference being the color of the strings.
 -   The Herbalist's Hat has a bigger version of itself, which is called the [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>).

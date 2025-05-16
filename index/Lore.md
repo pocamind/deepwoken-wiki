@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 143877
+revid: 144311
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -213,7 +213,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 
 -   One of the founding Divers.
 -   Leader of the Apothecary.
--   Seeks to transcend people through the use of a potion named the Moonseye Vigour.
+-   Seeks to transcend people through the use of a potion named the Moonseye Vigour. (This “Transcendence” is most likely a desire to ascend his soul to the Moonseye)
 -   Drinking a prototype of the potion lead to him going insane and his eyes turning green.
 -   Sometimes threatens people with being turned into potions. Whether this is some kind of ability, him just using their corpses as ingredients or more mad rambling is unclear.
 -   Can convert the body parts of monsters into a form that lets people use their abilities.

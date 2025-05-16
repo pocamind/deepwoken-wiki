@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 141950
+revid: 144309
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Hats]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +1 Rare Pips |
+| innate stats | +1 Rare Pip |
 | innate talent | Iron Gut, Herbivore |
 | bankable | Yes |
 | droppable | Yes |
@@ -30,5 +30,6 @@ The Big Herbalist's Hat is an [Equipment](Equipment.md) item under the "Head" ca
 
 ## Notes
 
+-   [Herbalist's Hat](<Herbalist's_Hat.md>) and Big Herbalist's Hat are the only two equipment pieces in the game to keep a working version of their innate Talent after said Talent was removed. The Talent in question is Herbivore, which was removed on the April 15th, 2025 Update.
 -   The [Herbalist's Hat](<Herbalist's_Hat.md>) and Big Herbalist Hat are the same model, just differ in size.
 -   The Big Herbalist's Hat was notorious for being used by light users to hide their animations. Eventually, its appearance was changed to be more sloped, making it harder to do so.
