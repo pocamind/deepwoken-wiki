@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 130173
+revid: 144343
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Offhand Guns]
@@ -22,7 +22,7 @@ categories: [Weapons, Flintlocks, Offhand Guns]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Summer Isle for 100 , Pure erisore turn ins, Chime of Conflict, Dread Serpent |
+| obtainment | Sold at Summer Isle for 100 , Pure erisore turn ins, Chime of Conflict, Lodestar, Dread Serpent |
 | description | "The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of Gunsmith's prototype now found in every luminant." |
 
 ## Description

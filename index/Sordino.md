@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 143883
+revid: 144483
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
@@ -16,7 +16,7 @@ categories: [Canor NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs, Qu
 
 ## Description
 
-Sordino is an NPC that sells the players a rideable thresher mount that let players get around faster, at the cost of [Crowns](Crowns.md). However, before you can get access to his services, he will give you an introductory quest in which you have to complete.
+Sordino is an NPC that sells the players a rideable thresher mount that let players get around faster, at the cost of [Crowns](Crowns.md). However, before you can get access to his services, he will give you an introductory quest in which you have to complete. He is wearing the [Sanguine Finery](Sanguine_Finery.md) outfit paired with a beige bell at his hip
 
 ## Location
 

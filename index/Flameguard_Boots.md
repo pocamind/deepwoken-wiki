@@ -1,6 +1,6 @@
 ---
 title: Flameguard Boots
-revid: 140304
+revid: 144431
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Hell Mode, Starswept Valley, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Hell Mode, Starswept Valley, Lodestar, Maestro Evengarde Rest, Dread Serpent |
 | description | "..." |
 
 ## Description

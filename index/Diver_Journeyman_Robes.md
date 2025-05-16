@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 142149
+revid: 144323
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Divers]

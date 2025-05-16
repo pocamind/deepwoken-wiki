@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Backpack"
-revid: 116528
+revid: 144444
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Backpack]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Backpack]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | High-Tier Voidwalker Bounties, Duke Erisia, First Layer |
+| obtainment | High-Tier Voidwalker Bounties, Duke Erisia, Lodestar, First Layer |
 | description | "A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels." |
 
 ## Description

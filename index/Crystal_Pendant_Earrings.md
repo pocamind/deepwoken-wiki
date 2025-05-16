@@ -1,6 +1,6 @@
 ---
 title: Crystal Pendant Earrings
-revid: 141937
+revid: 144458
 source: https://deepwoken.fandom.com/wiki/Crystal_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Starswept Valley, Maestro Evengarde Rest, The Doom of Caeranthil, Dread Serpent |
+| obtainment | Chests from:, Aratel Island, Starswept Valley, Maestro Evengarde Rest, Lodestar, The Doom of Caeranthil, Dread Serpent |
 | description | "..." |
 
 ## Description

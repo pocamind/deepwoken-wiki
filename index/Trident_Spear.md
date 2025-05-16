@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 142734
+revid: 144368
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons, Items]
@@ -12,11 +12,11 @@ categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique 
 |---|---|
 | alloyed name | Template:AlloyedColor |
 | type | Spear |
-| requirements | 50 MED / 85 MED |
+| requirements | 50 MED / Template:AlloyedColor MED |
 | damage | 19 |
-| scaling | MED: 6 / MED: 7 |
+| scaling | MED: 6 / MED: Template:AlloyedColor |
 | range | 9 |
-| swing speed | 0.9x / 0.92x |
+| swing speed | 0.9x / Template:AlloyedColor |
 | penetration | 25% |
 | stances | 2 Handed, 1 Handed |
 | selling price | 25 |
@@ -25,7 +25,7 @@ categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Dread Serpent, Summer Isle, Minityrsa, Nyanna, Upper Erisia, Fishing, Deep Widow, Miner's Landing, Chime of Conflict, Saramaed HollowAlloyed:, Alloying a Trident Spear |
+| obtainment | The Depths, Dread Serpent, Summer Isle, Minityrsa, Nyanna, Lodestar, Upper Erisia, Fishing, Deep Widow, Miner's Landing, Chime of Conflict, Saramaed HollowTemplate:AlloyedColor, Alloying a Trident Spear |
 | description | "A surprisingly effective weapon despite its previous use by fishermen." |
 
 ## Description

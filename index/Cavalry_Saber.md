@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 143943
+revid: 144331
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals]
@@ -24,7 +24,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, We
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle, Moon's Eyrie, Depths, Chime of ConflictTemplate:AlloyedColor, Alloying a Cavalry Saber, Summer Isle, Moon's Eyrie, Heart of Enmity |
+| obtainment | Summer Isle, Moon's Eyrie, Depths, Chime of Conflict, LodestarTemplate:AlloyedColor, Alloying a Cavalry Saber, Summer Isle, Moon's Eyrie, Lodestar, Heart of Enmity |
 | description | "To those of the current world, the notion of cavalry is farfetched. Still, the cavalry saber lives on as a effective blade for raiding." |
 
 ## Description

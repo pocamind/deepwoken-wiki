@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Boots
-revid: 125153
+revid: 144427
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, Maestro Evengarde Rest, Dread Serpent, War Mode |
+| obtainment | Chests from:, Starswept Valley, Maestro Evengarde Rest, Lodestar, Dread Serpent, War Mode |
 | description | "..." |
 
 ## Description

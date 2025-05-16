@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 142910
+revid: 144313
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -200,6 +200,7 @@ _+Talent: Pitcher_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
@@ -259,6 +260,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -338,6 +340,7 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -360,6 +363,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -390,6 +394,7 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
@@ -450,6 +455,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Black & Double |
@@ -601,6 +607,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -707,6 +714,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -759,6 +767,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
+-   [Lodestar](Lodestar.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -786,6 +795,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -882,6 +892,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
@@ -1054,6 +1065,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
@@ -1104,6 +1116,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -1160,6 +1173,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -1204,6 +1218,7 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
+-   [Lodestar](Lodestar.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [First Layer](First_Layer.md)
@@ -1315,6 +1330,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
@@ -1474,6 +1490,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 
  | N/A |
 | File:Tillian's beret .png | 
@@ -1539,6 +1556,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -1566,6 +1584,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
@@ -1910,6 +1929,7 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [First Layer](First_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -1981,6 +2001,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lodestar](Lodestar.md)
 
  | Black, Brown, & White |
 | File:Black Parka.png | 
@@ -2010,6 +2031,7 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
+-   [Lodestar](Lodestar.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -2067,6 +2089,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 
  | N/A |
 | File:Brigand's Cloak.png | 
@@ -2090,6 +2113,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -2119,6 +2143,7 @@ Found from:
 -   Trading with [Jeremiah](Jeremiah.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [War Mode](War_Mode.md)
@@ -2177,6 +2202,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
+-   [Lodestar](Lodestar.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -2208,6 +2234,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Lodestar](Lodestar.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  | N/A |
@@ -2375,6 +2402,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -2453,6 +2481,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Second Layer](Second_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -2478,6 +2507,7 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
@@ -2711,6 +2741,7 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -2831,6 +2862,7 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -2855,6 +2887,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Brainsucker](Brainsucker.md)
 -   [First Layer](First_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
  | N/A |
@@ -2955,6 +2988,7 @@ Found from:
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
@@ -3012,6 +3046,7 @@ Found from:
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -3102,6 +3137,7 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Lodestar](Lodestar.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   Mob drop from [Eastern Tribal Leader](Eastern_Nomad_Leader.md) (**~10%**)
 
@@ -3212,6 +3248,7 @@ Found from:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Second Layer](Second_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -3298,6 +3335,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [War Mode](War_Mode.md)
+-   [Lodestar](Lodestar.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
  | N/A |
@@ -3348,6 +3386,7 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -3395,6 +3434,7 @@ Found from:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Lodestar](Lodestar.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -3452,6 +3492,7 @@ Found from:
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 
  | N/A |
@@ -3477,6 +3518,7 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [War Mode](War_Mode.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -3506,6 +3548,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Lodestar](Lodestar.md)
 
  | N/A |
 |  | 
@@ -3580,6 +3623,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
+-   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
@@ -3612,6 +3656,7 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -3645,6 +3690,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Hell Mode](Hell_Mode.md)
 
@@ -3796,6 +3842,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -3833,6 +3880,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
@@ -3857,6 +3905,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -3881,6 +3930,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -3939,6 +3989,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
@@ -3962,6 +4013,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Lodestar](Lodestar.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -3989,6 +4041,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Lodestar](Lodestar.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
@@ -4017,6 +4070,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Lodestar](Lodestar.md)
 -   [War Mode](War_Mode.md)
 
  | N/A |
@@ -4099,6 +4153,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
@@ -4168,6 +4223,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Fort Merit](Fort_Merit.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -4209,6 +4265,7 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -4282,6 +4339,7 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Lodestar](Lodestar.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [First Layer](First_Layer.md)
@@ -4308,6 +4366,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
@@ -4332,6 +4391,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Aratel Island](Aratel_Island.md)
+-   [Lodestar](Lodestar.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -4497,6 +4557,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
@@ -4550,6 +4611,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Lodestar](Lodestar.md)
 
  | N/A |
 |  | 
@@ -4574,6 +4636,7 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -4750,6 +4813,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md) (**Rare**)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -4791,6 +4855,7 @@ Found from:
 
 -   [High-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 
  | N/A |
@@ -4813,6 +4878,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -5182,6 +5248,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lodestar](Lodestar.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -5223,6 +5290,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Brainsucker](Brainsucker.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5272,6 +5340,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lodestar](Lodestar.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
@@ -5318,6 +5387,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5381,6 +5451,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Lodestar](Lodestar.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
@@ -5409,6 +5480,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
+-   [Lodestar](Lodestar.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
@@ -5429,6 +5501,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
 
@@ -5466,6 +5539,7 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5510,6 +5584,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   Mob drop from Masked Songseeker Enemies ~(**10%**)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
@@ -5607,6 +5682,7 @@ Found from:
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
+-   [Lodestar](Lodestar.md)
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 -   [First Layer](First_Layer.md)
@@ -5672,6 +5748,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5689,6 +5766,7 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -5713,6 +5791,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -5734,6 +5813,7 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -5754,6 +5834,7 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -5777,6 +5858,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -5803,6 +5885,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Lodestar](Lodestar.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -5863,6 +5946,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -5883,6 +5967,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
@@ -5986,6 +6071,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -6016,6 +6102,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Lodestar](Lodestar.md)
 -   [Fishing](Fishing.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
@@ -6149,6 +6236,7 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [Second Layer](Second_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Lodestar](Lodestar.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -6204,6 +6292,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -6243,6 +6332,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Lodestar](Lodestar.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   Interacting with [Polis](Polis.md)' first dialogue
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -6269,6 +6359,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -6294,6 +6385,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -6317,6 +6409,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Mudskipper Cave](Lower_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -6344,6 +6437,7 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -6436,6 +6530,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -6509,6 +6604,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -6561,6 +6657,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
@@ -6571,7 +6668,7 @@ Found from:
 
  | 
 
-Enemies you hit have their healing reduced by 50%
+Enemies you hit with melee attacks have their healing reduced by 50% for 5 seconds.
 
  | 
 
@@ -6582,6 +6679,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -6608,6 +6706,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
@@ -6695,7 +6794,7 @@ Found from:
 
  | 
 
-Taking damage from ice or wind mantras will cause you to regenerate ether.
+Taking Frostdraw or Galebreathe damage will cause you to regenerate ether. Ether regenerated scales on damage dealt.
 
   
 _+2% Ice Armor_  
@@ -6715,6 +6814,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  |

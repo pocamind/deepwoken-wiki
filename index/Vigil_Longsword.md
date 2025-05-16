@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 137066
+revid: 144370
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals]
@@ -10,13 +10,14 @@ categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapo
 
 | Vigil Longsword | |
 |---|---|
+| alloyed name | Template:AlloyedColor |
 | type | Sword |
-| requirements | 40 MED / 75 MED |
+| requirements | 40 MED / Template:AlloyedColor MED |
 | damage | 20 |
-| scaling | MED: 6 / MED: 7.5 |
+| scaling | MED: 6 / MED: Template:AlloyedColor |
 | range | 8 |
 | swing speed | 1x |
-| penetration | 20% |
+| penetration | Template:AlloyedColor |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 |
@@ -24,7 +25,7 @@ categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapo
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Songseeker Wilds, Miner's Landing, Dread Serpent, First Layer, Crypt of the Unbroken, Chime of Conflict, Voidwalker chestsAlloyed:, Alloying a Vigil Longsword |
+| obtainment | Minityrsa, Songseeker Wilds, Miner's Landing, Dread Serpent, Lodestar, First Layer, Crypt of the Unbroken, Chime of Conflict, Voidwalker chestsTemplate:AlloyedColor, Alloying a Vigil Longsword |
 | description | "Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless." |
 
 ## Description

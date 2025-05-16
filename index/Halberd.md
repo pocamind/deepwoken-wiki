@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 138121
+revid: 144375
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons]
@@ -10,18 +10,19 @@ categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Uniq
 
 | Halberd | |
 |---|---|
-| requirements | 25 HVY / 75 HVY |
-| damage | 22 / 24 |
-| scaling | HVY: 7 / HVY: 8 |
+| alloyed name | Template:AlloyedColor |
+| requirements | 25 HVY / Template:AlloyedColor HVY |
+| damage | 22 / Template:AlloyedColor |
+| scaling | HVY: 7 / HVY: Template:AlloyedColor |
 | range | 9 |
 | swing speed | 0.8x |
-| penetration | 15% |
-| weight | 5 / 6 |
+| penetration | Template:AlloyedColor |
+| weight | 5 / Template:AlloyedColor |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, The Depths, Blacksteel Pirate, Chime of Conflict, Dread SerpentAlloyed:, Alloying a Halberd |
+| obtainment | Erisia, The Depths, Blacksteel Pirate, Chime of Conflict, Dread Serpent, LodestarTemplate:AlloyedColor, Alloying a Halberd |
 | description | "A standard issue halberd of the Authority, often seen in larger skirmishes." |
 
 ## Description

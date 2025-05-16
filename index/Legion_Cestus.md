@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 142911
+revid: 144345
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -24,7 +24,7 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Songseeker Wilds, Brainsucker, Starswept Valley, Golem Constructs, The Diluvian Mechanism, Dread Serpent |
+| obtainment | Chests from:, Lower Erisia, Songseeker Wilds, Brainsucker, Lodestar, Starswept Valley, Golem Constructs, The Diluvian Mechanism, Dread Serpent |
 | description | "Cestus used by members of the Hundred Legions." |
 
 ## Description
@@ -33,6 +33,6 @@ categories: [Weapons, Fists]
 
 ## Trivia
 
--   Best cestus to use for early and mid-game if you're using fists.
+-   Best cestus to use for early and mid-game.
 -   Meeting the LHT requirement, the damage is (18)
 -   At max LHT, the damage is (25.1)

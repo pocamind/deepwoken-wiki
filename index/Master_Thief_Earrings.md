@@ -1,6 +1,6 @@
 ---
 title: Master Thief Earrings
-revid: 133341
+revid: 144461
 source: https://deepwoken.fandom.com/wiki/Master_Thief_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, Maestro Evengarde Rest |
+| obtainment | Chests from:, Fort Merit, Maestro Evengarde Rest, Lodestar |
 | description | "..." |
 
 ## Description

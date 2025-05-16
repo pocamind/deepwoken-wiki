@@ -1,6 +1,6 @@
 ---
 title: Legate Helm
-revid: 116377
+revid: 144396
 source: https://deepwoken.fandom.com/wiki/Legate_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Deep Widow, Voidwalker Bounties, First LayerFound from:, Artifact Turn-ins |
+| obtainment | Chests from:, Duke Erisia, Deep Widow, Voidwalker Bounties, First Layer, LodestarFound from:, Artifact Turn-ins |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_

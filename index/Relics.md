@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 143134
+revid: 144328
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -67,6 +67,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
+-   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -123,6 +124,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [First Layer](First_Layer.md)
+-   [Lodestar](Lodestar.md)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)

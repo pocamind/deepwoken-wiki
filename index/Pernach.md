@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 138182
+revid: 144357
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -24,7 +24,7 @@ categories: [Weapons, Clubs]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Duke Erisia, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Erisia, Minityrsa, The Doom of Caeranthil, Random Encounters (Sea events, False Merchant Ship), Scion of Ethiron, Heart of Enmity, Starswept Valley, Interluminary Parasol, War Mode, Dread Serpent |
+| obtainment | Maestro Evengarde Rest, Duke Erisia, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Erisia, Minityrsa, The Doom of Caeranthil, Random Encounters (Sea events, False Merchant Ship), Scion of Ethiron, Lodestar, Heart of Enmity, Starswept Valley, Interluminary Parasol, War Mode, Dread Serpent |
 | description | "..." |
 
 ## Description

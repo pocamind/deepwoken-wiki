@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 133152
+revid: 144355
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears, Alloyed Weapons, The Children of Navae]
@@ -25,7 +25,7 @@ categories: [Weapons, Pages with broken file links, Spears, Alloyed Weapons, The
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Navae Nomads in Etris, Erisia chests, Summer Isle chests, Chime of Conflict, Dread SerpentAlloyed:, Alloying a Gremorian Longspear |
+| obtainment | Navae Nomads in Etris, Erisia chests, Summer Isle chests, Chime of Conflict, Lodestar, Dread SerpentTemplate:AlloyedColor, Alloying a Gremorian Longspear |
 | description | "Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness." |
 
 ## Description

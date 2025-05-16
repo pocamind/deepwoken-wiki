@@ -1,6 +1,6 @@
 ---
 title: Polarised Eyeglasses
-revid: 125148
+revid: 144454
 source: https://deepwoken.fandom.com/wiki/Polarised_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, Minityrsa, Songseeker Wilds, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Duke Erisia, Minityrsa, Songseeker Wilds, Maestro Evengarde Rest, Lodestar, Dread Serpent |
 | description | "..." |
 
 ## Description

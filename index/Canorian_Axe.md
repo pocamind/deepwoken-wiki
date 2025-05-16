@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 141341
+revid: 144373
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
@@ -26,7 +26,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Merchant Ships, Crypt of the Unbroken, Dread Serpent, Chime of ConflictTemplate:AlloyedColor, Alloying a Canorian Axe |
+| obtainment | Lower Erisia, Minityrsa, Lodestar, Songseeker Wilds, The Monkey's Paw, Merchant Ships, Crypt of the Unbroken, Dread Serpent, Chime of ConflictTemplate:AlloyedColor, Alloying a Canorian Axe |
 | description | "An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire." |
 
 ## Description

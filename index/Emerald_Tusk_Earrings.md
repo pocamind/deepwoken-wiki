@@ -1,6 +1,6 @@
 ---
 title: Emerald Tusk Earrings
-revid: 133340
+revid: 144460
 source: https://deepwoken.fandom.com/wiki/Emerald_Tusk_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Primadon, Fishing, Maestro Evengarde Rest |
+| obtainment | Chests from:, Duke Erisia, Primadon, Fishing, Lodestar, Maestro Evengarde Rest |
 | description | "..." |
 
 ## Description

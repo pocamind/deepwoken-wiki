@@ -1,6 +1,6 @@
 ---
 title: Gladiator Pauldrons
-revid: 124322
+revid: 144409
 source: https://deepwoken.fandom.com/wiki/Gladiator_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Duke Erisia, Erisia, Chime of Conflict |
+| obtainment | Chests From:, Duke Erisia, Erisia, Lodestar, Chime of Conflict |
 | description | "..." |
 
 ## Description
