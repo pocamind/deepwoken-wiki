@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 144266
+revid: 144494
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -180,20 +180,22 @@ Below is a list of bait that can be used. Don't see a valid bait? Feel free to t
 -   Gobletto: Getting bites was quite fast. Results from **7 Goblettos**: 2 Misses, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
 -   Squid: Seemed to get a lot of squid using squid. Results from **3 Squids**: 2 Squids, 1 Miss, 1 Sea Bass, 1 Pufferfish
 -   Dentifilo: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results from **8 Dentiflos**: 2 Seaweed, 6 Misses
--   Seaweed Bundle: Fast catches. Results from **2 Seaweed**: 2 Seabass and 1 Miss.
--   Urchin: Decent speed of bites. Results from **4 Urchins**: 2 Sea Bass, 1 Squid, 1 Miss
+-   Seaweed Bundle: Average bait speed. Can be used for catching mudskippers.
+-   Urchin: Fast bait speed. Can be used for catching pufferfish.
 -   Browncap: Average bite times. Results from **10 Browncaps**: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
 -   Chum: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lionfish, 17 Chest and 14 Fails. (All fishing Talents used)
 -   Calabash: Not Properly Documented.
--   Fish Meat: Results from **100 Fish Meat**: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lionfish, 11 Chest and 15 Fails. (All fishing Talents used.)
+-   Fish Meat:Slow bait speed. Can be used for tunas.
 -   Redd: Slightly lower than average bites. Results from **?? Redd**: 2 miss, 2 sea bass, 1 squid, 1 red snapper.
 -   Pufferfish: Not Properly Documented. (Possibly better chance of catching Mudskippers?)
 -   Sap: Not Properly Documented.
 
 | Bait & Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 100 Dentifilos | 25 | 47 | 16 | 0 | 6 | 5 | 1 |
-| 100 Chum | 18 | 50 | 14 | 0 | 6 | 12 | 0 |
+| 100 Pomars | 0 | 76 | 0 | 1 | 12 | 0 | 11 |
+| 100 Urchin | 0 | 56 | 10 | 1 | 17 | 16 | 0 |
+| 100 Fish Meat | 0 | 60 | 19 | 0 | 9 | 12 | 0 |
+| 100 Seaweed | 0 | 62 | 10 | 0 | 11 | 17 | 0 |
 
 ## Trivia
 
@@ -203,11 +205,10 @@ Below is a list of bait that can be used. Don't see a valid bait? Feel free to t
 -   Some locations are better for fishing than others, for example the Vigils Docks.
 -   Fish meat can be used as bait or as food, though I would recommend cooking it if you are intending to eat it. Cooked Fish Meat is a pretty solid food item, giving you 15 Stomach Fill and 5 Water Fill. Good for Carnivores that need food.
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish for food and items that can be useful on your journey.
--   If you would rather not get carpal tunnel while fishing, you can use an auto clicker with its interval being set at 2 milliseconds for the best optimization (Tested.) be careful, as making a mistake can result in the "Catch" escaping.
+-   With the patch 2.1.5 02/17/2025 you no longer have to press click in order to fish.
 -   The harder the difficulty of the "Catch" (Aka. The fishing minigame, which the difficulty of is measured in Reel Speed, Direction Change Speed, and Fishing Time Limit.) the higher rarity of the item you may receive upon completing the fishing minigame.
 -   You can get **Enchants**, **Deep Gems**, and **Legendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
 -   Fishing will level your Strength, Fortitude, Intelligence, Willpower and Charisma by default.
--   The Waterfall at Miner's Landing is the BEST source for Seaweed Bundles. Trust the process.
 -   Fishing used to contain every single item inside of it's lootpool as long as it was in **any chest pool**, this lead to infamous incidents such as the **Verse 1 Enchant Shard incident**. After this happened, a quick patch was rolled out to allow blacklists to items and chest pools, such as the blacklisting of Enchant Stone chests.
     -   Ever since this patch was rolled out, fishing activity declined.
 -   During the Warring States Era fishing would give points to the aspect you had.

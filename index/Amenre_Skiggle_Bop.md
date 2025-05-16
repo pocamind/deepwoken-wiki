@@ -1,8 +1,9 @@
 ---
 title: Amenre Skiggle Bop
-revid: 143311
+revid: 144498
 source: https://deepwoken.fandom.com/wiki/Amenre_Skiggle_Bop
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Amenre Skiggle Bop
