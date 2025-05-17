@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144503
+revid: 144524
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2369,7 +2369,7 @@ _**"My cure is most effective."**_
 
 ### Scoundrel
 
-> _**"I seek the qualities oiem f Scoundrel."**_
+> _**"I seek the qualities of the Scoundrel."**_
 
 -   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. 5s Cooldown (+1 Passive Agility)
     -   The "bleed" does not refer to **Bleed Damage**, but rather a very miniscule amount of damage to the blood bar.
