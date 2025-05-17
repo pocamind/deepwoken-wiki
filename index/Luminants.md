@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 140823
+revid: 144517
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Mantras, Locations, Lore]
@@ -30,7 +30,7 @@ This is where the [Battle Royale](Battle_Royale.md) gamemode takes place.
 
 ## Southern Luminant
 
-The Southern Luminant, what used to be a Luminant brimmed with temperate forest before it succumbed to gradual decay from the Voidsea. Navae's Guidance Compass points here. It will not be added to the game due to it mostly being Voidsea.
+The Southern Luminant, what used to be a Luminant brimmed with temperate forest before it succumbed to gradual decay from the Voidsea. Navae's Guidance Compass points here. The developers have said that they will not add it to the game due to it mostly being Voidsea.
 
 ## Northern Luminant
 

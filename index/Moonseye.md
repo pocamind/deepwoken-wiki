@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 142655
+revid: 144515
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ The Moonseye also has an abundant relation to [insanity](Insanity.md). This can 
 
 The Moonseye, physically, is most likely the Deepwoken equivalent of the moon, although it does produce its own light, according to the [Soothsayer](Soothsayer.md).
 
-A major bit of lore that can be inferred from the Moonseye related items is that the Moonseye used to be the afterlife before it was replaced by the Depths. Supposedly there is still a way to reach it through a “staircase” in the Voidsea according to the Tome.
+A major bit of lore that can be inferred from the Moonseye related items is that the Moonseye used to be the afterlife before it was replaced by the Depths. Supposedly there is still a way to reach it through a “staircase” in the Voidsea according to the Tome. (Although it’s possible that the “Heaven” referred to in the Tome is the location named Heaven opposite to Lumen where the Celestials lived, it’s far more likely to be the Moonseye with the Tome being named after it, and the “Heaven” referred to can simply mean “afterlife” which the Moonseye is the afterlife)
 
 ## Trivia
 

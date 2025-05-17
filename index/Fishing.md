@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 144501
+revid: 144512
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -193,6 +193,15 @@ Below is a list of bait that can be used. Don't see a valid bait? Feel free to t
 | Bait & Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 100 Pomars | 0 | 76 | 0 | 1 | 12 | 0 | 11 |
+| 100 Chum
+No lucky spot
+
+ | 0 | 69 | 7 | 0 | 9 | 15 | 0 |
+| 100 Chum
+
+Lucky Spot
+
+ | 0 | 55 | 17 | 2 | 16 | 10 | 0 |
 | 100 Urchin | 0 | 56 | 10 | 1 | 17 | 16 | 0 |
 | 100 Fish Meat | 0 | 60 | 19 | 0 | 9 | 12 | 0 |
 | 100 Seaweed | 0 | 62 | 10 | 0 | 11 | 17 | 0 |
@@ -213,3 +222,4 @@ Below is a list of bait that can be used. Don't see a valid bait? Feel free to t
     -   Ever since this patch was rolled out, fishing activity declined.
 -   During the Warring States Era fishing would give points to the aspect you had.
 -   Fishing up a golden swordfish allows you to use it as a weapon.
+-   Fishing without a lucky spot is not recommended. You cant fish lionfish and swordfishes are very rare (more than dormant). Lucky spots cant gives you Pufferfish/Urchin/Seaweed/Leather boot/Mudskipper if you have all the fishing talents.

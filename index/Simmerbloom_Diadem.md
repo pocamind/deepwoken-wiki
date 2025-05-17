@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 123223
+revid: 144516
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, Items]
@@ -36,4 +36,3 @@ This does inflict burn on downed people, making it a good option to keep up pres
 -   One of the 4 items with the 'Unique' rarity, others include [Ferryman's Coat](<Ferryman's_Coat.md>), [Deepscorn Casque](Deepscorn_Casque.md), [Darkened Bastion](Darkened_Bastion.md).
 -   The first piece of equipment to require investment into an Attunement, and the first to require investment into [Flamecharm](Flamecharm.md) by extension.
 -   This serves as a direct upgrade for Pleeksty's Inferno.
--   There is a bug where if you dont have 80 flamecharm you can still equip it.

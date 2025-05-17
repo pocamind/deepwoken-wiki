@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 143617
+revid: 144508
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles]
@@ -40,7 +40,7 @@ User performs a suplex, turning their opponent upside down and firmly slamming t
 
 ## Obtainment
 
-To obtain it, you must gain Ally reputation with [The Hundred Legions](The_Hundred_Legions.md), the most accessible way to do this is to do tasks on job boards at [Starswept Valley](The_Starswept_Valley.md).
+To obtain it, you must gain Friend reputation with [The Hundred Legions](The_Hundred_Legions.md), the most accessible way to do this is to do tasks on job boards at [Starswept Valley](The_Starswept_Valley.md).
 
 Alternatively, you can do the [legion scout quest](https://deepwoken.fandom.com/wiki/Quests#Lars). This way you will gain enough reputation.
 

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 143066
+revid: 144513
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -48,7 +48,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _I seek the qualities of Berserker. **(Berserker)** (Berserk)_
 -   _I stand far above others, an insurmountable challenge. **(Colossus)** (Harsh Response, Heavy Hitter) **(Note; Cannot give Destructive Recovery, Unstoppable Force)**_
 -   _I seek the qualities of Rampaging Brute. **(Rampaging Brute)** (Unwavering Resolve, Shield Breaker, Million Ton Piercer)_
--   _My attack is unstoppable. **(Raging Bull)** (Broken Ankles, Piercing Blow) **(Note; Cannot give Bulldozer)**_
+-   _My attack is unstoppable. **(Raging Bull)** (Broken Ankles) **(Note; Cannot give Bulldozer, Piercing Blow)**_
 
 ### [Fortitude](Attributes.md)
 
