@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144238
+revid: 144503
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1017,7 +1017,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am an expert on ether."**_
 
--   Charged Return \[Common Talent\] - Being under an elemental status effect causes your M1's and critical attacks to do 10% more damage.
+-   Charged Return \[Common Talent\] - Being under an elemental status effect causes your M1's and critical attacks to do 15% more damage.
     -   Procs on Burn, Chill, Shock, Shadow (ether steal status effect), Winded, and Suffocation.
         -   Procs on some self-afflicted statuses, like [Flame Within](Flamecharm.md#amoran-seeker), but not [Raging Static](Thundercall.md#self-shocker).
     -   Prerequisites: 20 Willpower, 15 Strength

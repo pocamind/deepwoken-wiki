@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Wilds
-revid: 108069
+revid: 144500
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, The Depths]
@@ -27,13 +27,14 @@ Be warned that the wilds are above a dangerous void, and due to the usage of smo
 
 ## Objectives
 
--   Making your way to [The Grand Library of New Kyrsa](Second_Layer/New_Kyrsa.md)
+1.  Making your way to [The Grand Library of New Kyrsa](Second_Layer/New_Kyrsa.md)
 
 ## NPCs
 
 -   Naerotiv
 -   [Plath](Plath.md)
 -   [Kennith](Kennith.md)
+-   [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md)
 
 ## Trivia
 

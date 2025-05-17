@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 144494
+revid: 144501
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -176,7 +176,7 @@ Below is a list of bait that can be used. Don't see a valid bait? Feel free to t
 
 -   No Bait: Baseline for fishing. Results from **100 NoBait**: 25 Sea bass, 5 Squid, 21 Red Snapper, 11 Tuna, 5 Lionfish, 4 Sword Fish, 2 Golden Sea bass, 1 Golden Red Snapper, 13 Chest and 13 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult)
 -   Plumfruit: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results from **~18 Plumfruits**: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses).
--   Pomar: Not Properly Documented.
+-   Pomar: Slow bait, good for catching urchins.
 -   Gobletto: Getting bites was quite fast. Results from **7 Goblettos**: 2 Misses, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
 -   Squid: Seemed to get a lot of squid using squid. Results from **3 Squids**: 2 Squids, 1 Miss, 1 Sea Bass, 1 Pufferfish
 -   Dentifilo: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results from **8 Dentiflos**: 2 Seaweed, 6 Misses
