@@ -1,6 +1,6 @@
 ---
 title: Candle
-revid: 144594
+revid: 144600
 source: https://deepwoken.fandom.com/wiki/Candle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,4 +21,4 @@ The candle is an tool item that can be placed and then lit, exactly like [campfi
 
 It slowly burns down after being lit. Nobody knows if it does anything else! (Tested, can not be used to summon ferryman).
 
-You can also craft Umbral Candles with 1 Candle and 1 [Umbral Obsidian](Umbral_Obsidian.md), which are also crafted by increments of 1, currently we do not know the use of these candles, but it is theorized that their use is tied to the [The Depths](The_Depths.md).
+You can also craft Umbral Candles with 1 Candle and 1 [Umbral Obsidian](Umbral_Obsidian.md), which are also crafted by increments of 1, these are used in the obtainment of the [Weal and Woe](Weal_and_Woe.md).

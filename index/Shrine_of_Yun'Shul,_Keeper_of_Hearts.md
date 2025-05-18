@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 144151
+revid: 144630
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1, Oath Trainer]
@@ -44,6 +44,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
 
 1.  **"The trials ahead of me fill me with trepidation, I wish to escape this place."**
     -   Instantly sends the player back to The Overworld.
+        -   This can be used in combat, but escaping this way will start a 5 second kneeling animation before the escape cutscene queues. Being hit in these 5 seconds will cancel the escape, but not consume your wish.
 2.  **"My Flaws weigh me down too much, I wish for relief."**
     -   Randomly rerolls one of your [flaws](Boons_and_Flaws.md#flaws). Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw.
         -   **You can only make this wish once**. You can still, however, use Shrines.

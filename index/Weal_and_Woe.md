@@ -1,9 +1,9 @@
 ---
 title: Weal and Woe
-revid: 144599
+revid: 144651
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons"]
+categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Multiple Criticals]
 ---
 
 # Weal and Woe
@@ -24,21 +24,27 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based W
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| description | Twin spears hewn from a single colossal shard of umbral obsidian by twin Shadowcasters. Twins are thought to have a unique compatibility with Vows, their souls' murmurs being compliments of one another. Through identical Vows taken by twins, a form of entanglement and pairing can be granted to objects. The wielder of one of these objects can always sense the whereabouts of its counterpart. These spears are no exception with their entanglement allowing its wielder to utilize techniques of both spears in harmony. |
+| description | Twin spears hewn from a single massive shard of umbral obsidian by twin Shadowcasters. Twins are thought to have a unique compatibility with Vows, their souls' murmurs being compliments of one another. Through identical Vows taken by twins, a form of entanglement and pairing can be granted to objects. The wielder of one of these objects can always sense the whereabouts of its counterpart. These spears are no exception with their entanglement allowing its wielder to utilize techniques of both spears in harmony. |
 
 ## Description
 
 Weal and Woe are a pair of legendary Shadowcast spears.
 
-## Criticals
+## Obtainment
 
-Weal and Woe has three different criticals. **All three criticals have a 10 second cooldown.**
+To obtain Weal and Woe, you need to craft one [Umbral Candle](Candle.md); you can craft Candles with one [Beeswax](Alchemy.md) and one [Fiber](Ingredients.md#fiber), then combine the Candle with one [Umbrite](Ores.md) to make an Umbral Candle.
 
-**Neutral Critical**: Spin around and wind up both spears. After the moderate windup, strike your foe with both weapons at the same time.
+After you obtain the Umbral Candle, enter [Lost Celtor](Lost_Celtor.md). Inside a building in the bottom right quarter, there will be a ritual circle riddled with what seems to be bone fragments. Upon placing an Umbral Candle on the ritual circle and lighting it with a Flint or alternative, two twin NPCs will spawn nearby, each wielding one of the two spears. Defeat both of them to obtain the weapon.
 
-**Running Critical**: Cast a barrage of strikes with your spears, and finish it off with one thrust with both weapons, dealing higher damage than the attacks before. Hits 6 times.
+Note: Upon gripping one of the twins, the other will become enraged, getting up if they've been knocked and healing. Carrying one of the twins while executing the other will prevent this from happening
 
-**Aerial Critical**: Jump into the air and strike down your opponent with three Shadowcast-infused slashes.
+## Critical
+
+Weal and Woe have three different criticals. **All three criticals have a 10 second cooldown.**
+
+For the standing critical, the user spins around and raises both spears before striking their opponents with both weapons at the same time. For the runnning critical, the user casts a barrage of strikes with their spears, finishing off with thrusts from both weapons, dealing higher damage than the attacks before. Hits 6 times.
+
+For the aerial critical, the user jumps into the air and strike down the opponent with three Shadowcast-infused slashes.
 
 ## Trivia
 

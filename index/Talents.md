@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144537
+revid: 144644
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1017,7 +1017,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am an expert on ether."**_
 
--   Charged Return \[Common Talent\] - Being under an elemental status effect causes your M1's and critical attacks to do 15% more damage.
+-   Charged Return \[Common Talent\] - Being under an elemental status effect causes your M1's and critical attacks to do 10% more damage.
     -   Procs on Burn, Chill, Shock, Shadow (ether steal status effect), Winded, and Suffocation.
         -   Procs on some self-afflicted statuses, like [Flame Within](Flamecharm.md#amoran-seeker), but not [Raging Static](Thundercall.md#self-shocker).
     -   Prerequisites: 20 Willpower, 15 Strength
@@ -3620,6 +3620,7 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 -   The total amount of Talent Cards at Power 20 without Roll 2's or Mantra Quests is 47.
 -   The Mystic quote for the Quack Doctor talents may be a reference to [a line said by SCP-049](https://youtu.be/82VznLgRdAE?si=wsIlsGGs-EMJQp14&t=100) in SCP – Containment Breach.
 -   The term "Talents" may be a reference to _the Wheel of Time_'s Talents that are associated with its magic system.
+-   The Talent, Mythic Stability, has the same name as the passive, Mythic Stability, owned by the Sigil Knight Commander in Rogue Lineage. They both have the same effects.
 
 ## References
 

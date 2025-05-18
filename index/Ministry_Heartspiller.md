@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 144526
+revid: 144614
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Ministry Enemies]
@@ -134,7 +134,8 @@ Block: ✗
 -   If you're having trouble with spawning the npc, using Ring of Curses is a good way to increase the chances of the event from spawning.
     -   Combining this along with Hell mode, you'll get an even more increased rate of the event from spawning (Risky).
     -   Toons has confirmed that there _are_ some places where the spawn rate both increases and decreases. It is not known, however, where it is.[\[3\]](#cite-note-0-3)
-    -   Having 80 frostdraw increases the spawnrate for this NPC.
+
+  
 
 ## Reference
 
