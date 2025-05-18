@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 139039
+revid: 144539
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -24,6 +24,7 @@ Killing them will give you the [Wraithclaw](Wraithclaw.md) along with a low tier
 -   Using [Rhythm](Murmur%253A_Rhythm.md) to seek out event spawns is another strategy that may help you locate Grudge.
 -   Arch has confirmed that the only requirement is uncapped Galebreathe. \[1\]
 -   Although unlikely, it is possible that a bug either can make him spawn even though the player does not have uncapped gale or gale at all, or that it could spawn if the player has uncapped any attunement (Requires further testing)
+    -   It is known that Grudge is possible to spawn on those who are using Wraithclaw, speaking a line of dialogue along the lines of "It is not forgotten..." (TESTED)
 
 Mambles asking if the Grudge NPC has any other requirements
 

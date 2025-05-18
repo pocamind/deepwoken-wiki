@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 144355
+revid: 144554
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears, Alloyed Weapons, The Children of Navae]
@@ -36,7 +36,7 @@ The Gremorian Longspear is a Medium Weapon that is obtainable from killing the [
 
 For the non-alloyed version, meeting the MED requirement for this weapon will make it deal 19.1 damage. At max MED, it will deal 23.4 damage.
 
-For the [alloyed](Pluripotent_Alloy.md) version, metting the MED requirement for this weapon will make it deal 25.6 damage. At max MED, it will deal 27.5 damage.
+For the [alloyed](Pluripotent_Alloy.md) version, meeting the MED requirement for this weapon will make it deal 27.3 damage. At max MED, it will deal 29.8 damage.
 
 ## Critical
 

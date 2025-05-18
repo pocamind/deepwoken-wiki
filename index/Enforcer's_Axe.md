@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 142590
+revid: 144556
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, Items, Weapons with Consecutive Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Drops, Heavy Wea
 | type | Greataxe |
 | requirements | 75 HVY, LVL 6 |
 | damage | 26 |
-| scaling | HVY: 10 |
+| scaling | HVY: 9 |
 | range | 8.5 |
 | swing speed | 0.76x |
 | penetration | 10% |
@@ -36,15 +36,17 @@ After a short windup, the user spins the Enforcer's Axe in a circle around thems
 
 ## Trivia
 
--   At 75 HVY, the Enforcer's Axe does 40.6 damage.
--   At 100 HVY, the Enforcer's Axe does 45.5 damage.
--   At 100 HVY, 6 Proficiency, and 6% Damage, the Enforcer's Axe deals 56.3 damage.
+-   At 75 HVY, the Enforcer's Axe does 39.2 damage.
+-   At 100 HVY, the Enforcer's Axe does 43.6 damage.
+-   At 100 HVY, 6 Proficiency, and 6% Damage, the Enforcer's Axe deals 53.4 damage.
     -   This makes the axe the highest practical single-hit damage source, only beat by [Crazy Slots](Crazy_Slots.md) and the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
 -   Usually considered the best Enforcer weapon variant compared to its [Blade](<Enforcer's_Blade.md>) and [Hammer](<Enforcer's_Hammer.md>) variants, due to it having no endlag and higher damage.
     -   The Enforcer’s Hammer is sometimes used over the Greataxe due to the incredibly high posture damage, though the Blade is virtually never used over these two due to its inferior damage, critical attack and Talents.
 
 ## Version History
 
+-   Version uhhhh (May 18, 2025)
+    -   Enforcer's Axe HVY scaling decreased (10 -> 9)
 -   Version 1.6.8 (March 22, 2024)
     -   Critical Cooldown increased from 5 seconds to 7 seconds.
 -   Version 1.4.4 (October 6, 2023)

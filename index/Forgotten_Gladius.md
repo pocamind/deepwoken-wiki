@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 141926
+revid: 144552
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords]
 | type | Sword |
 | requirements | 65 MED |
 | damage | 18 |
-| scaling | MED: 7 |
+| scaling | MED: 7.5 |
 | range | 7.5 |
 | swing speed | 1.04x |
 | penetration | 13% |
@@ -34,5 +34,5 @@ The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Pr
 
 -   Formerly resembled the [Canor fang](Canor_Fang.md).
 -   After some previous nerfs, the Forgotten Gladius now has 0.02x slower swing speed than the [Falchion](Falchion.md) and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), but makes up for it with slightly more base damage.
--   Meeting the requirement of MED, the damage is (24.1)
--   At max MED, the damage is (27.5)
+-   Meeting the requirement of MED, the damage is (24.6)
+-   At max MED, the damage is (28.1)

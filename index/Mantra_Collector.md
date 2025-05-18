@@ -1,6 +1,6 @@
 ---
 title: Mantra Collector
-revid: 127643
+revid: 144540
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs, Vendors]
@@ -27,7 +27,7 @@ They can be typically found on the Surface in:
 -   [Isle of Vigils](Isle_of_Vigils.md), Cumberland will be on a rug in front of the bank.
 -   [Etris](Etris.md), Schnitzel will be on a rug in the Etris Docks.
 -   [Summer Isle](Summer_Isle.md), Hotdog will be inside the castle.
--   [Greathive Aratel](Greathive_Aratel.md), Schnitzel will be (located).
+-   [Greathive Aratel](Greathive_Aratel.md), Schnitzel will be locate.
 -   [Voidheart](Voidheart.md), Croissant will be on a rug in front of the bookshelves, close to the [Antiquarian](Antiquarian.md).
 -   [Miner's Landing](<Miner's_Landing.md>), Schnitzel will be on a rug near the mantra shop and [Maedhran](Maedhran.md)
 -   [The Floating Keep](The_Floating_Keep.md), Leaf

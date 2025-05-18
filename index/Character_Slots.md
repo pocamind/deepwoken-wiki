@@ -1,6 +1,6 @@
 ---
 title: Character Slots
-revid: 132939
+revid: 144541
 source: https://deepwoken.fandom.com/wiki/Character_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -88,7 +88,7 @@ Character slots function as Deepwoken's save files.
 
 ### Obtaining Character Slots
 
--   Character slots can be purcahsed for 200 robux.
+-   Character slots can be purchased for 200 robux.
     -   The price of slots can vary for certain regions due to Roblox's currency purchasing rates.
 -   A maximum of 2 character slots can be obtained for free.
     -   One for obtaining A rank when wiping any slot.
