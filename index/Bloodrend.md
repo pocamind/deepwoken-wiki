@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 143822
+revid: 144575
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -62,6 +62,8 @@ Mantra levels will cost 50% more Notes if you use the [Songwright](Songwright.md
 Bloodrend currently has a total of 17 Mantras.
 
 All Bloodrend Mantras have 2.75 Bloodrend scaling unless stated otherwise.
+
+  
 
 ### Combat Mantras
 
@@ -242,7 +244,6 @@ Blood
 
 -   Deals 16/20/24/28/32 damage per level, 15 posture, 0.4s windup, has 10s CD at 5 lvl,
 -   Has 9.18x PVE scaling
--   Auto-grips.
 
  |
 | 

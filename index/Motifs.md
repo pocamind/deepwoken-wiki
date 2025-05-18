@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 142043
+revid: 144571
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -108,6 +108,19 @@ Swords, Spears
  |
 | 
 
+[Cavalry Saber](Cavalry_Saber.md) / \[\[Cavalry Saber#Alloyed|Template:AlloyedColor\]\] / [Officer Saber](Officer_Saber.md) / \[\[Officer Saber#Alloyed|Template:AlloyedColor\]\]
+
+ | 
+
+[Officer Saber](Officer_Saber.md)
+
+ | 
+
+All (bugged)
+
+ |
+| 
+
 [Shotel](Shotel.md) / \[\[Shotel#Alloyed|Template:AlloyedColor\]\]
 
  | 
@@ -198,7 +211,7 @@ Weapon criticals have their own stats, separate to the weapon they're on. This m
 
 As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. This often removes any additional scaling stats the weapon has, as it entirely **bypasses** any innate scaling. For some motifs like [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md), it can instead add core attribute/elemental scaling to the critical of the weapon you equipped the Motif on.
 
-For example: If you had Shotel Motif on Razor Cutlass, your critical would have less medium scaling than normal, making it deal less damage than a no-Motif critical without even taking into account scaled damage multipliers. Or if you put Greatsword Motif on [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), it'd replace the critical's innate Intelligence and Charisma scaling with 12 heavy weapon scaling from [Divine Greatsword](Crazy_Slots.md), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete.
+For example: If you had Shotel Motif on Razor Cutlass, your critical would have less medium scaling than normal, making it deal less damage than a no-Motif critical without even taking into account scaled damage multipliers. Or if you put Greatsword Motif on [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), it'd replace the critical's innate Intelligence and Charisma scaling with 12 heavy weapon scaling from [Divine Greatsword](Crazy_Slots.md), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete. This also means Motifs like [Halberd](Halberd.md)'s will scale on heavy weapon investment regardless of what weapon you put it on.
 
 ## Trivia
 
