@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144524
+revid: 144537
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1455,8 +1455,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
     -   Even though it's not mentioned, some Greataxes also work with this Talent.
-    -   Frost Buster works on the following weapons (this list is not fully complete):
+    -   Ice patches created by this talent last 1 minute 30 seconds.
+    -   Frost Buster works on the following weapons:
         -   Any weapon with the basic heavy weapon critical (including greataxes, despite what the description states).
+        -   [Night Axe](Night_Axe.md), despite what the description states.
         -   [Crescent Cleaver](Crescent_Cleaver.md) and all weapons that share its critical, but **only if you land it**.
         -   The Enforcer weapons ([Enforcer's Blade](<Enforcer's_Blade.md>), [Enforcer's Hammer](<Enforcer's_Hammer.md>), [Enforcer's Axe](<Enforcer's_Axe.md>)).
     -   Prerequisites: Cryonis, 15 Heavy Weapon, 45 Frostdraw
