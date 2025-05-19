@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 141221
+revid: 144720
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
@@ -16,13 +16,13 @@ categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Theadre is an NPC who can be found standing at the base of a statue at [The Lord Regent](The_Lord_Regent.md)'s manor.
+Theadre is an Etrean NPC, he is very old and talks about the old King of Etrea and gives lore about the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
+
+## Location
+
+Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing infront of a statue of the old King of Etrea.
 
 ## Dialogue
-
-  
-
-  
 
 **Friend reputation and below:**
 

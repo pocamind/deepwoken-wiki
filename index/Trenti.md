@@ -1,9 +1,9 @@
 ---
 title: Trenti
-revid: 133502
+revid: 144709
 source: https://deepwoken.fandom.com/wiki/Trenti
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
+categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Trenti
@@ -16,11 +16,13 @@ categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Trenti is an Etrean NPC you can find at the [Etris](Etris.md) Inn. He is usually the first NPC you talk to when starting a new character. He can help new players figure out where to go when starting out, directly mentioning the island of [Erisia](Erisia.md). He can also give you 25 notes, which is useful starting out.
+Trenti is an Etrean NPC, he is usually the first NPC you talk to when starting a new character. He can help new players figure out where to go when starting out, directly mentioning the island of [Erisia](Erisia.md). He can also give you 25 notes, which is useful starting out.
 
-## Notes
+He has a counterpart in the [Isle of Vigils](Isle_of_Vigils.md) named [Aristo](Aristo.md)
 
-You can find [Aristo](Aristo.md), an NPC in the [Isle of Vigils](Isle_of_Vigils.md) Inn that does the same things that Trenti does.
+## Location
+
+Trenti is located in the [Etris inn](Etris.md), leaning againt a wall beside the entrance to it.
 
 ## Dialogue
 
@@ -37,7 +39,6 @@ You can find [Aristo](Aristo.md), an NPC in the [Isle of Vigils](Isle_of_Vigils.
   <td colspan="3">How do I get stronger?</td>
   <td colspan="3">Where can I get some clothes?</td>
   <td colspan="2">Err... Thanks?</td>
-  <td>End</td>
 </tr>
 <tr>
   <td colspan="3">Well... You won't find much in the way of work in the town, but if you find anything of interest the local <b>Antiquarian</b> might buy it off you. I suppose you could try to find riches on Erisia like most of the travelers who come here. You'll be eable to find Erisia by sailing straight out from the docks.</td>
@@ -47,22 +48,19 @@ You can find [Aristo](Aristo.md), an NPC in the [Isle of Vigils](Isle_of_Vigils.
 </tr>
 <tr>
   <td>Erisia?</td>
-  <td>Would you be able to spare me some cash?</td>
-  <td>End</td>
-  <td colspan="2">How can I earn some money?</td>
-  <td>End</td>
+  <td colspan="2">Would you be able to spare me some cash?</td>
+  <td colspan="3">How can I earn some money?</td>
   <td colspan="3">End</td>
   <td colspan="2">End</td>
 </tr>
 <tr>
   <td>Yeah, it's a whole island that drifted in from the Voidsea not too long ago. Place is meant to be crawling with opportunists, but maybe there's some things left to find?</td>
-  <td><i>*He sighs.*</i> Alright, this should be enough to get you started. [+25 Notes]</td>
-  <td></td>
-  <td colspan="2">[See above]</td>
+  <td colspan="2"><i>*He sighs.*</i> Alright, this should be enough to get you started. [+25 Notes]</td>
+  <td colspan="3">[See above]</td>
 </tr>
 <tr>
   <td colspan="2">End</td>
-  <td></td>
+  <td>End</td>
   <td colspan="2">End</td>
 </tr>
 </tbody>

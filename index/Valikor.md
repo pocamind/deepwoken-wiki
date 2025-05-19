@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 137960
+revid: 144729
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Talents, Etrea, NPCs located in the Etrean Luminant]
@@ -12,7 +12,7 @@ categories: [Etrean NPCs, NPCs, Talents, Etrea, NPCs located in the Etrean Lumin
 |---|---|
 | name | Valikor |
 | aspect | Etrean |
-| location | Isle of Vigils library |
+| location | Temple of the Blade library |
 
 “ There is no such thing as a bright future for you. You will suffer under my fist, disrespectful swine. ”
 
@@ -20,13 +20,15 @@ categories: [Etrean NPCs, NPCs, Talents, Etrea, NPCs located in the Etrean Lumin
 
 ## Description
 
-Valikor is an NPC that can be found in the [Isle of Vigils](Isle_of_Vigils.md) Library. He appears to be an elder [Etrean](Etrean.md) that's a member of Etris's Royal Guard, despite being old enough to retire from the Royal Guard and live comfortably. In early Deepwoken testing, all mantras were announced upon casting them. This is likely why he is an Elderly character.
+Valikor is an NPC that appears to be an elder [Etrean](Etrean.md) that's a member of Etris's Royal Guard, despite being old enough to retire from the Royal Guard and live comfortably. In early Deepwoken testing, all mantras were announced upon casting them. This is likely why he is an Elderly character.
 
-You can get the [Spell Shout](Valikor.md) Talent by talking to him.
-
-If you wish to turn it off, go to settings in order to disable Spell Shouting.
+You can get the [Spell Shout](Valikor.md) Talent by talking to him. If you wish to turn it off, go to settings in order to disable Spell Shouting.
 
 Keep in mind that spells can only be named for up to 23 symbols and shouldn't have roblox chat restricted content. In addition in certain cases the spell shout will use the Mantra's default name instead of the edited one.
+
+## Location
+
+Valikor is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in the [Temple of the Blade](Temple_of_the_Blade.md) where you can also find [Kelsius](Kelsius.md) and [Suyuan](Suyuan.md).
 
 ## Dialogue
 

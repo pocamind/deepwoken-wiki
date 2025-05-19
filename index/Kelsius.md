@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 144147
+revid: 144733
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrean Luminant, Etrea, NPCs located in the Etrean Luminant]
@@ -12,11 +12,15 @@ categories: [Adret NPCs, NPCs, Quests, Etrean Luminant, Etrea, NPCs located in t
 |---|---|
 | name | Kelsius |
 | aspect | Adret |
-| location | Isle of Vigils library |
+| location | Temple of the Blade library |
 
 ## Description
 
 Kelsius is an Adret NPC located in the **[Isle of Vigils](Isle_of_Vigils.md)** library that gives you a quest for a free mantra hand. After you complete that quest, you can buy a random [attribute](Attributes.md) point for a random number of Notes. An Etrean named "Khan" refers to him as a "murderer".
+
+## Location
+
+Kelsius is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in the [Temple of the Blade](Temple_of_the_Blade.md) where you can also find [Valikor](Valikor.md) and [Suyuan](Suyuan.md).
 
 ## Just a Librarian Quest
 

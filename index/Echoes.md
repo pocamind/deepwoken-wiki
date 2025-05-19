@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 144263
+revid: 144674
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -70,7 +70,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a [Hero's Blade of Frost](Hero_Blades.md) or [Crypt Blade](Crypt_Blade.md), awarding 5 Echoes.
 -   Using an [Enchant Stone](Enchant_Stone.md), awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
--   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
+-   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes. (Be careful, because you might not be able to do this, if you don't have enough weapon stats at the end of your progression)
 -   Obtaining a [Murmur](Murmur.md), awarding 5 Echoes.
 -   Defeating the [Dread Serpent](Dread_Serpent.md) _OR_ [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) [\[1\]](#cite-note-1), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) awarding 5 Echoes each.
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.

@@ -1,9 +1,9 @@
 ---
 title: Windrunner
-revid: 137983
+revid: 144689
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pages with broken file links, NPCs, Talents, NPCs located in the Etrean Luminant]
+categories: [NPCs, Talents, NPCs located in the Etrean Luminant]
 ---
 
 # Windrunner
@@ -20,35 +20,57 @@ categories: [Celtor NPCs, Pages with broken file links, NPCs, Talents, NPCs loca
 
 ## Description
 
-Windrunner is an NPC who uncaps the Agility stat. He can be found in Etris, on the mountain above the cave near the docks.
+Windrunner is a celtor NPC who uncaps your agility stat. He is a very hard to reach NPC without major mobility.
 
-File:Great-View-With-WindRunner.png
+## Location
 
-Windrunner having an amazing view of Etris
+Windrunner is located on top of the mountain infront of [Etris Docks](Etris_Docks.md), at the very top of it.
 
 ## Dialogue
 
-If you talk to him without 75 agility, he will say:
+**Under 75 Agility/After uncapping:**
 
-_And so they continue to squabble... Oh, someone actually found their way up here?_
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>And so they continue to squabble... Oh, someone actually found their way up here?</td>
+</tr>
+<tr>
+  <td>Yeah, what are you doing up here?</td>
+</tr>
+<tr>
+  <td>Observing. This conflict down below. There is a shadow war being waged. Yes, on the surface it appears like the Authority are simply trying to maintain control, but what about the motives of their leaders? The Contractor that resides within the Palace and the Warmaster in his Fortress. Two men attempting to keep an Oath... Which oath is right?</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
-1.  **Yeah, what are you doing up here? (continue)**
-2.  **\[End Dialogue\]**
+**Having 75 Agility:**
 
-_"Observing. This conflict down below. There is a shadow war being waged. Yes, on the surface it appears like the Authority are simply trying to maintain control, but what about the motives of their leaders? The Contractor that resides within the Palace and the Warmaster in his Fortress. Two men attempting to keep an Oath... Which oath is right?"_
-
-1.  **\[End Dialogue\]**
-
--   He also says this after getting your Agility Unbounded
-
-If you talk to him with 75 agility, he will say:
-
-_"Ahh... You have taken an Oath I see."_
-
-1.  **Is there anything you can teach me? (continue, agility unbounded)**
-2.  **\[End Dialogue\]**
-
-_"If you value your life, you will run. I can tell you are fast, run far from this place if you don't want to find yourself in the maw of the second Celtorian horror."_
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Ahh... You have taken an Oath I see.</td>
+</tr>
+<tr>
+  <td>Is there anything you can teach me?</td>
+</tr>
+<tr>
+  <td>If you value your life, you will run. I can tell you are fast, run far from this place if you don't want to find yourself in the maw of the second Celtorian horror.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

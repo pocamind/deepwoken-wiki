@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 144104
+revid: 144671
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1172,7 +1172,7 @@ Pressure Break
 
  | 
 
-Breaking an enemy's posture will cause them to take intense wind pressure damage and be flung backwards.
+Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by 25% and flinging the enemy backwards.
 
  | 
 

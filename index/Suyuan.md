@@ -1,6 +1,6 @@
 ---
 title: Suyuan
-revid: 137956
+revid: 144727
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Oaths, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -12,6 +12,12 @@ categories: [Etrean NPCs, NPCs, Oaths, Quests, Etrea, NPCs located in the Etrean
 |---|---|
 | name | Suyuan |
 | aspect | Etrean |
-| location | Isle of Vigils library |
+| location | Temple of the Blade]] library |
 
-**Suyuan** is an Etrean NPC inside the [Isle of Vigils](Isle_of_Vigils.md) library which is in the [temple](Temple_of_the_Blade.md). Talking to Suyuan starts a short dialogue line about seeing ghosts, and tells the player to seek out a [Ghost Ship](Beloved_Zofia.md). Returning gives some XP, a Curiosity Talent hand which will be added to your next power up, and unlocks a bit of dialogue about him.
+## Description
+
+Suyuan is an Etrean NPC, talking to Suyuan starts a short dialogue line about seeing ghosts, and tells the player to seek out a [Ghost Ship](Beloved_Zofia.md). Returning gives some XP, a Curiosity Talent hand which will be added to your next power up, and unlocks a bit of dialogue about him.
+
+## Location
+
+Suyuan is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in the [Temple of the Blade](Temple_of_the_Blade.md) where you can also find [Kelsius](Kelsius.md) and [Valikor](Valikor.md).

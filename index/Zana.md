@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 141079
+revid: 144675
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Quests, Rings, NPCs located in the Etrean Luminant]
@@ -32,14 +32,12 @@ As long as you have a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana
 </tr>
 <tr>
   <td colspan="4">You look familiar.</td>
-  <td>End</td>
 </tr>
 <tr>
   <td colspan="3">*They let out a hearty burst of laughter. * Oh, a fan? Good eye, I'm pretty famous up here on the surface. Everyone seems to think I'm an expert Flamecharmer, it scares novice adventurers to bits! But fret not, I recently learned people like you better when you give them things.</td>
 </tr>
 <tr>
   <td colspan="2">...</td>
-  <td>End</td>
 </tr>
 <tr>
   <td>Talking while a katana is equipped</td>
@@ -51,7 +49,6 @@ As long as you have a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana
 </tr>
 <tr>
   <td>Where?</td>
-  <td>End</td>
 </tr>
 <tr>
   <td>First, on the island of Etris, the most optimal island for all new adventurers who fear me! Although I'm still not sure why. The campfire there is eternally observed by those Nomads who are quite fond of me. Defeat me, and I'll tell you the next location.</td>
