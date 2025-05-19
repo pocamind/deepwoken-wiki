@@ -1,6 +1,6 @@
 ---
 title: Weal and Woe
-revid: 144752
+revid: 144762
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Multiple Criticals]
@@ -24,6 +24,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based W
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
+| obtainment | Goesh and Draud |
 | description | Twin spears hewn from a single massive shard of umbral obsidian by twin Shadowcasters. Twins are thought to have a unique compatibility with Vows, their souls' murmurs being compliments of one another. Through identical Vows taken by twins, a form of entanglement and pairing can be granted to objects. The wielder of one of these objects can always sense the whereabouts of its counterpart. These spears are no exception with their entanglement allowing its wielder to utilize techniques of both spears in harmony. |
 
 ## Description

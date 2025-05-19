@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 144296
+revid: 144756
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -12,7 +12,7 @@ notices:
 
 | Oath: Visionshaper | |
 |---|---|
-| oath_req | 50 Charisma, Completing the Aelita event, One Dark Feather |
+| oath_req | 50 Charisma, Completing the Aelita / carnival of hearts event, One Dark Feather |
 | effects | +1 Support Mantra, +2 Combat Mantra |
 
 _For the version that existed prior to the 13th September, 2024, see [here](Oath%253A_Visionshaper/Old_Visionshaper.md)._

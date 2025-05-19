@@ -1,6 +1,6 @@
 ---
 title: Goesh and Draud
-revid: 144746
+revid: 144765
 source: https://deepwoken.fandom.com/wiki/Goesh_and_Draud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -10,4 +10,4 @@ notices:
 
 # Goesh and Draud
 
-
+Template:EnemyInfobox1.0

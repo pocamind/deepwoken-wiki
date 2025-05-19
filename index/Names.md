@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 142721
+revid: 144760
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1816,6 +1816,7 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The surnames of Felinors are, of course, relating to cat species.
 -   The names "Omar" and "Olie" are references to community members omar\_io and Olieware respectfully, the latter of whom suggested the idea of the [Flamecharm](Flamecharm.md) Mantra Flame Ballista.
 -   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
+-   The name Dante is a reference to Vergil's brother and the main character of Devil May Cry.
 -   The names "Usopp", "Luffy" and "Alvida" are references to the anime and manga series, [_One Piece._](https://onepiece.fandom.com/)
     -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only Usopp and Kaido were added initially.[\[1\]](#cite-note-1) Alvida and Luffy were added much later.
 -   The names "Solaire", "Ornstein", "Smough", "Seath", "Patches", "Artorias", "Gwyn", "Wolnir", "Aldrich", "Oceiros", "Lorian", "Lothric", "Midir", "Halflight", and "Gael", are references to various characters from the _Dark Souls_ series.
