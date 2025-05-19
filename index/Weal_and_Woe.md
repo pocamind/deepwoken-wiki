@@ -1,6 +1,6 @@
 ---
 title: Weal and Woe
-revid: 144651
+revid: 144745
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Multiple Criticals]
@@ -36,15 +36,19 @@ To obtain Weal and Woe, you need to craft one [Umbral Candle](Candle.md); you ca
 
 After you obtain the Umbral Candle, enter [Lost Celtor](Lost_Celtor.md). Inside a building in the bottom right quarter, there will be a ritual circle riddled with what seems to be bone fragments. Upon placing an Umbral Candle on the ritual circle and lighting it with a Flint or alternative, two twin NPCs will spawn nearby, each wielding one of the two spears. Defeat both of them to obtain the weapon.
 
-Note: Upon gripping one of the twins, the other will become enraged, getting up if they've been knocked and healing. Carrying one of the twins while executing the other will prevent this from happening
+Note: Upon gripping one of the twins, the other will become enraged, getting up if they've been knocked and healing. Carrying one of the twins while executing the other will prevent this from happening. You can tell if one is enraged by seeing if it's holding both spears and not one.
 
 ## Critical
 
-Weal and Woe have three different criticals. **All three criticals have a 10 second cooldown.**
+Weal and Woe have **three** different criticals.
 
-For the standing critical, the user spins around and raises both spears before striking their opponents with both weapons at the same time. For the runnning critical, the user casts a barrage of strikes with their spears, finishing off with thrusts from both weapons, dealing higher damage than the attacks before. Hits 6 times.
+For the standing critical, the user spins around and raises both spears before striking their opponents with both weapons at the same time.
+
+For the running critical, the user casts a barrage of strikes with their spears, finishing off with thrusts from both weapons, dealing higher damage than the attacks before. Hits 6 times.
 
 For the aerial critical, the user jumps into the air and strike down the opponent with three Shadowcast-infused slashes.
+
+**All three criticals have a 10 second cooldown.**
 
 ## Trivia
 

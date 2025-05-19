@@ -1,6 +1,6 @@
 ---
 title: Asius
-revid: 144715
+revid: 144740
 source: https://deepwoken.fandom.com/wiki/Asius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -20,7 +20,7 @@ categories: [NPCs, Quests, NPCs located in the Eastern Luminant]
 
 ## Description
 
-**Asius** is an [Adret](Adret.md) that wears a the [Experienced Adventurer](Experienced_Adventurer.md) outfit. He is crucial for the [Trig](Trig.md) Armor Piercing [quest](Quests.md).
+**Asius** is an [Adret](Adret.md) who wears [Experienced Adventurer](Experienced_Adventurer.md) outfit. He is crucial for [Trig's](Trig.md) quest to get the Armor Piercing talent
 
   
 He is a merchant who hasn't been paying his dues to the Summer Company. He can give you More information can be found about the quest in the [Summer Isle](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) page. Note that you can still come back to Asius to get his papers after you picked "I'll see what I can do."

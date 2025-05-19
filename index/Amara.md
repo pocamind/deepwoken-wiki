@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 143681
+revid: 144736
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, Lore, The Hundred Legions, NPCs located in the Etrean Luminant]
@@ -41,8 +41,8 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
   <td colspan="4">What do i need to do to learn your martial arts?</td>
 </tr>
 <tr>
-  <td colspan="4">We're here to collect intel regarding the Authority, they've stopped honoring our treaty. If you find out anything be sure to let us know, I'm sure the empire wilkl reward you accordingly.</td>
-  <td colspan="2">[Not havin Captain's Rec]</td>
+  <td colspan="4">We're here to collect intel regarding the Authority, they've stopped honoring our treaty. If you find out anything be sure to let us know, I'm sure the empire will reward you accordingly.</td>
+  <td colspan="2">[Not having Captain's Rec]</td>
   <td colspan="2">[Having Captain's Rec]</td>
 </tr>
 <tr>
