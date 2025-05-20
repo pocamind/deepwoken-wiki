@@ -1,6 +1,6 @@
 ---
 title: Goesh and Draud
-revid: 144826
+revid: 144849
 source: https://deepwoken.fandom.com/wiki/Goesh_and_Draud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -18,7 +18,7 @@ Template:EnemyInfobox1.0
 
 Both of them seem to be wearing a [Prophet's Cloak](<Prophet's_Cloak.md>) and a Smoke variant [Ministry Cloak](Ministry_Cloak.md).
 
-Uppon gripping one of the brothers, the other one will unleash their rage for their fallen twin, causing a black explosion sphere and changing their facial expression with a most ominous appearance consisting of a purple sclera and a hypnotic pupil along with light purple streaks running down their eyes. They regain their broken horn, and instead of wielding one spear, they will [dual wield with the other one](Weal_and_Woe.md).
+Upon gripping one of the brothers, the other one will unleash their rage for their fallen twin, causing a black explosion sphere and changing their facial expression with a most ominous appearance consisting of a purple sclera and a hypnotic pupil along with light purple streaks running down their eyes. They regain their broken horn, and instead of wielding one spear, they will [dual wield with the other one](Weal_and_Woe.md).
 
 ## Dialogue
 
@@ -27,6 +27,7 @@ Uppon gripping one of the brothers, the other one will unleash their rage for th
 -   This one is a disappointment. We heed the call all the same.
 -   The black candle... You really should've known better.
 -   Our presence has been requested. This one must be our target.
+-   Curiosity doesn't do you any good.
     
 
 **On Grip:**

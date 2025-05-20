@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 144116
+revid: 144850
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,6 +40,11 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   Many believe that the Song has stirred them from their sleep and brought about the Tides. Should a Drowned God wake, it's also believed that it would result in Lumen's undoing.
 -   The names of Drowned gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
 -   Worship of Drowned Gods is taboo across most of the Lumen, with their faithful being branded as cultists and heretics.
+
+#### The High Convocation
+
+-   The leadership body of the Citadel of Markor, the High Convocation is a council of retired senior staff drawn from the Citadel's various divisions.
+-   Members of the High Convocation are known as Convocants.
 
 ### Factions
 
