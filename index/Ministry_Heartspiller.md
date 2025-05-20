@@ -1,9 +1,9 @@
 ---
 title: Ministry Heartspiller
-revid: 144808
+revid: 144840
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Enemies, Ministry Enemies]
+categories: [Enemies, Ministry Enemies]
 ---
 
 # Ministry Heartspiller
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Ministry Heartspillers are [Ministry](The_Ministry.md) agents under the Second Prophet that specialise in information gathering via torture. They wield [Bloodrend](Bloodrend.md) and [Shadowcast](Shadowcast.md) in order to torture and then erase their victims. They can be found spawning at [Minityrsa](Minityrsa.md), the [Burning Stone Gardens](Burning_Stone_Gardens.md), [The Depths](First_Layer.md), or rarely at [Starswept Valley](The_Starswept_Valley.md). They can be found interrogating a pathfinder hostage.
+Ministry Heartspillers are [Ministry](The_Ministry.md) agents under the Second Prophet that specialise in information gathering via torture. They wield [Bloodrend](Bloodrend.md) and [Shadowcast](Shadowcast.md) in order to torture and then erase their victims. They can be found spawning at [Minityrsa](Minityrsa.md), within [The Depths](First_Layer.md), or rarely at [Starswept Valley](The_Starswept_Valley.md). They can be found interrogating a pathfinder hostage.
 
 Ministry Heartspillers wear a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), a [Crimson Blindfold](Blindfold.md), a [Prophet's Cloak](<Prophet's_Cloak.md>), and a dark red [Ministry Cloak](Ministry_Cloak.md) with three medals on attached to the left breast. The 3 medals on their chest signify their rank as a Heartspiller, with the one we fight likely being a high rank.[\[1\]](#cite-note-1)
 
@@ -133,7 +133,6 @@ Block: ✗
 
 -   If you're having trouble with spawning the npc, using Ring of Curses is a good way to increase the chances of the event from spawning.
     -   Combining this along with Hell mode, you'll get an even more increased rate of the event from spawning (Risky).
-    -   Toons has confirmed that there _are_ some places where the spawn rate both increases and decreases. It is not known, however, where it is.[\[3\]](#cite-note-0-3)
 
   
 
@@ -143,7 +142,3 @@ Block: ✗
 2.  [↑](#cite-ref-2)
     
     Arch Mage Statement
-    
-3.  [↑](#cite-ref-0-3-0)
-    
-    File:Toonsreddeathspot.png
