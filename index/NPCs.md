@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 144716
+revid: 144830
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -33,6 +33,7 @@ imelgre== Description == NPCs are the various inhabitants of the Deepwoken world
 | [Arthur](Arthur.md) | [The Kingdom of Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md), entrance in the [Towerstruck Lands](Towerstruck_Lands.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the Talents Critical Attack and Engage upon quest completion, completes 'Bravery' quest |
 | [Asius](Asius.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the Armor Piercing [quest](Quests.md) given by [Trig](Trig.md) |  |
 | [Aska](Aska.md) | Unaligned | [Firfire](Firfire.md) | Gives the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) if you defeat him in a fight | Obtaining it requires the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and at least 80 Flamecharm |
+| [Astra](Astra.md) | [Etrea](Etrea.md) | [Etris](Etris.md) | None |  |
 | [Ata](Ata.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sell [Sparks](Mantra_Modifiers.md) | apparently you know her from somewhere... |
 | [Atra](Atra.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Gives you a quest to go find [Lars](Lars.md)'s whereabouts | None |
 | [Avian](Avian.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Gives quest to bring a Weapon Manual | Consumes one usage of the manual upon quest completion |
@@ -60,6 +61,7 @@ imelgre== Description == NPCs are the various inhabitants of the Deepwoken world
 | [Chef Odiolavoro](Chef_Odiolavoro.md) | Unaligned | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
 | [Chili](Travelling_Merchant.md) | Unaligned | [The Etrean Sea](The_Etrean_Sea.md)[The Aratel Sea](The_Aratel_Sea.md) | Sells items on a [Merchant Schooner](Ships_&_Sailing.md) |  |
 | [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the Talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
+| [Con](%2543on.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | None |  |
 | [Das](Das.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md) | Lets you spar with the [Blade Instructor](Blade_Instructor.md) |  |
 | [Deep Shrines](Deep_Shrines.md) | Unaligned | [Temple of Hearts](Temple_of_Hearts.md)[The Hidden Village](The_Hidden_Village.md)[Crypt of the Unbroken](Crypt_of_the_Unbroken.md)[The Lordsgrove](The_Lordsgrove.md)[Meteor Isle](Meteor_Isle.md)[Saramaed Summit](Saramaed_Summit.md)[Fort Merit](Fort_Merit.md)[Widow's Hollow](<Widow's_Hollow.md>)[Songseeker Wilds](Songseeker_Wilds.md)[Ancient Rotlands](Ancient_Rotlands.md)[Starfield Veldt](Starfield_Veldt.md)[Trial of One](Trial_of_One.md)[The Diluvian Mechanism](The_Diluvian_Mechanism.md) | They do a variety of things for knowledge |  |
 | [Deepdelver Gamma](Deepdelver_Gamma.md) | [The Ignition Union](The_Ignition_Union.md) | [First Layer](First_Layer.md), [The Chariot's Spire](<The_Chariot's_Spire.md>) | None |  |

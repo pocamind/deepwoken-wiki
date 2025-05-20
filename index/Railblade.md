@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 140148
+revid: 144809
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords, The Ignition Union, Heavy Weapons]
@@ -48,7 +48,7 @@ The flames emitted by both Critical Attacks will proc Burn and any applicable Fl
     -   This remains unadded ingame and as of now is only for lore purposes.
 -   This weapon was modelled by contributor oNoodlez.
     -   They took inspiration from Nagoriyuki's sword from _Guilty Gear -Strive-_ and Jetstream Sam's Murasama high-frequency blade from _Metal Gear Rising: Revengeance_.[\[1\]](#cite-note-railorigin-1)
--   This weapon's running attack does not deal knockback to hit enemies, as other similar heavy weapons do.
+-   The Railblade running attack originally dealt no knockback, this was later changed in a shadow update making it deal knockback like the rest.
 -   The Railblade resembles the make of an Ōdachi or Nodachi, a great-katana from Japan.
 -   The Railblade was originally intended to be a [Thundercall](Thundercall.md) Elemental Legendary weapon, hence the name Railblade (as railguns utilise electricity also had a thundering glow), was also supposed to be an Authority owned weapon instead of Ignition Union, but was changed prior to release due to not fitting the whole theme of the layer.[\[1\]](#cite-note-railorigin-1)[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
 -   This weapon can only be used in the one-handed stance, allowing access to offhand guns, daggers, and shields.
