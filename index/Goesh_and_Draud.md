@@ -1,6 +1,6 @@
 ---
 title: Goesh and Draud
-revid: 144849
+revid: 144853
 source: https://deepwoken.fandom.com/wiki/Goesh_and_Draud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-**Goesh** and **Draud** are [Capra](Capra.md) twins that appear as a duo upon using a [Umbral Candle](Candle.md) on a ritual located inside the [Celtor City](The_City_of_the_Drowned.md). Both of them are notable for wielding the **[Weal and Woe](Weal_and_Woe.md)** separately, a unique weapon set consisting of two spears imbued with [Shadowcast](Shadowcast.md). These shadow-infused spears allow them to perform swift, coordinated attacks and cast shadow-based abilities in combat. Once summoned, they spawn together nearby the ritual area.
+**Goesh** and **Draud** are [Capra](Capra.md) twins that appear as a duo upon using an [Umbral Candle](Candle.md) on a ritual located inside the [Celtor City](The_City_of_the_Drowned.md). Both of them are notable for wielding the **[Weal and Woe](Weal_and_Woe.md)** separately, a unique weapon set consisting of two spears imbued with [Shadowcast](Shadowcast.md). These shadow-infused spears allow them to perform swift, coordinated attacks and cast shadow-based abilities in combat. Once summoned, they spawn together nearby the ritual area.
 
 Both of them seem to be wearing a [Prophet's Cloak](<Prophet's_Cloak.md>) and a Smoke variant [Ministry Cloak](Ministry_Cloak.md).
 

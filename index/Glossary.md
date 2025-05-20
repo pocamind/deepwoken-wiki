@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 144850
+revid: 144852
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -264,6 +264,8 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 
 -   The bringer of life and warmth to Lumen.
 -   At night, the Suncross retreats into the Voidfog and its light dims, darkness falling over Lumen.
+-   only mentioned once, in the soothsayers dialogue.
+-   used as the dawnshots iron sight
 
 ### The Surface
 
