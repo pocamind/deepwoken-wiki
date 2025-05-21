@@ -1,6 +1,6 @@
 ---
 title: Mercille
-revid: 144874
+revid: 144915
 source: https://deepwoken.fandom.com/wiki/Mercille
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, Summer Company, NPCs located in the Eastern Luminant]
@@ -16,13 +16,13 @@ categories: [Vesperian NPCs, NPCs, Quests, Summer Company, NPCs located in the E
 
 ## Description
 
-Mercille is a Vesperian NPC that's part of the [Summer Company](The_Summer_Company.md), she's on a group mission with [The Guy](The_Guy.md), [Sierra](Sierra.md) and [Prentis](Prentis.md). She shares a common dislike for The Guy with Prentis and Sierra.
+Mercille is a Vesperian NPC that's part of the [Summer Company](The_Summer_Company.md), she's on a team mission with [The Guy](The_Guy.md), [Sierra](Sierra.md) and [Prentis](Prentis.md). She shares a common dislike for The Guy with Prentis and Sierra.
 
 You can turn sacks found in [Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md) to her for a chest, much like the [Summer Company](The_Summer_Company.md)'s explosive crates found on [Summer Isle](Summer_Isle.md) that you deliver back to them. Doing so will grant you a normal Starswept Valley chest as well as some Summer Company reputation.
 
 ## Location
 
-Mercille is located in [Bluster Rift](Bluster_Rift.md), sitting at a campfire in a little fort built infront of [Meteor Isle](Meteor_Isle.md)
+Mercille is located in [Bluster Rift](Bluster_Rift.md), standing infrot of a small mine inside a little fort built infront of [Meteor Isle](Meteor_Isle.md)
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144879
+revid: 144930
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3319,7 +3319,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   The Talent grants immunity to the Flame Blind mantra.
     -   The face equipment "[Blindfold](Blindfold.md)" grants access to this Talent.
 
--   Coldseep Reactor \[Common Talent, [Equipment](Equipment.md) Exclusive\] - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
+-   ns Coldseep Reactor \[Common Talent, [Equipment](Equipment.md) Exclusive\] - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
     -   Obtained from [Grand Fisher Helm](Grand_Fisher_Helm.md)
     -   Requirements for equipment: [Power](Power.md) 13
@@ -3368,6 +3368,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 20%, but your incoming mantra damage is cut by 20% too. (+5 Health)
     -   Also reduces burn dealt by 20%.
+    -   RTDA cannot stack if both player has it
+    -   RTDA doesn't reduce Surge, Crystal, Artisan's blade, Lava Serpent, Floor is Lava ,Specter apparitions, Twisted Puppet DMG unlike "Everchanging aegis"
     -   Prerequisite: [Power](Power.md) 10
     -   Works well with [Silentheart](Oath%253A_Silentheart.md).
     -   Mutual Exclusive: Everchanging Aegis

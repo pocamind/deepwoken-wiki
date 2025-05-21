@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 144584
+revid: 144910
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
 
 # Scion of Ethiron
 
-_This is the boss encountered at the end of [Layer 2, Floor 2](Second_Layer/New_Kyrsa.md). For its puppeteer and namesake, see [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)._
+_This is the boss encountered at the end of [Layer 2, Floor 2](Second_Layer/New_Kyrsa.md). For its puppeteer and namesake, see [Ethiron, The Maelstrom's Eye](<Ethiron,_The_Maelstrom's_Eye.md>)._
 
 “ They're puppets now, just like him.  
 Eternally bound to guard his shrine... ”
@@ -26,8 +26,6 @@ It uses a variety of attacks to defeat you, notably summoning bones and directin
 Upon defeat, five chests containing [Kyrsan Medallions](Kyrsan_Medallions.md) will spawn in the City, along with a **Large Chest** at the entrance of his arena; containing a myriad of loot, including rare or exclusive items such as the [Kyrsieger](Kyrsieger.md), or [Whistling Periapt](Whistling_Periapt.md).
 
 However, defeating him will also prompt a hard 3 minute timer, or 180 seconds, in order to escape the City at the Light Hook at the front of the city before you are guaranteed to wipe, more information can be found on [Second Layer/New Kyrsa](Second_Layer/New_Kyrsa.md).
-
-  
 
 ## Attacks
 

@@ -1,6 +1,6 @@
 ---
 title: Sierra
-revid: 144868
+revid: 144912
 source: https://deepwoken.fandom.com/wiki/Sierra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Summer Company]
@@ -16,7 +16,7 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Summer Com
 
 ## Description
 
-Sierra is a Celtor NPC that's part of the [Summer Company](The_Summer_Company.md), she's on a group mission with [The Guy](The_Guy.md), [Mercille](Mercille.md) and [Prentis](Prentis.md).
+Sierra is a Celtor NPC that's part of the [Summer Company](The_Summer_Company.md), she's on a team mission with [The Guy](The_Guy.md), [Mercille](Mercille.md) and [Prentis](Prentis.md).
 
 She shares a common dislike for The Guy with Prentis and Mercille.
 

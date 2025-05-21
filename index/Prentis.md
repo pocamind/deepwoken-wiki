@@ -1,6 +1,6 @@
 ---
 title: Prentis
-revid: 144871
+revid: 144913
 source: https://deepwoken.fandom.com/wiki/Prentis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, Summer Company]
@@ -16,7 +16,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, Summer Compa
 
 ## Description
 
-Prentis is a Khan NPC that's part of the [Summer Company](The_Summer_Company.md), she's on a group mission with [The Guy](The_Guy.md), [Mercille](Mercille.md) and [Sierra](Sierra.md).
+Prentis is a Khan NPC that's part of the [Summer Company](The_Summer_Company.md), she's on a team mission with [The Guy](The_Guy.md), [Mercille](Mercille.md) and [Sierra](Sierra.md).
 
 She shares a common dislike for The Guy with Sierra and Mercille.
 

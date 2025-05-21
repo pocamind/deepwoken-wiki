@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 142978
+revid: 144893
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -148,9 +148,10 @@ Charisma
 
 ## Trivia
 
--   All commands excluding _Leech, Locate,_ _Return_, _Sacrifice_ and _Live_ have no maximum range, and can be issued from any point on the map.
--   If a Subject or Master is in a bad situation away from allies, _Live_ and _Run_ or _Sacrifice_ and _Return_ can be used to stall time or win.
+-   All commands **excluding** _Leech, Locate,_ _Return_, _Sacrifice_ and _Live_ have no maximum range, and can be issued from any point on the map.
+-   If a Subject or Master is in a bad situation away from allies, _Live_ and _Run_ or _Sacrifice_ and _Return_ may be used to stall time or win depending on the distance away from the Master.
 -   As long as you have alts, you may use Vow of Mastery to improve a bossraid. You can hide a bunch of alts in an nearby location and sacrifice them for HP whenever you need it. Alternatively, you can raise one alt to have high Charisma and use it to tell your main to live. The second method is recommended as you will not need to train Charisma on your main, plus "live" counts as a revive.
+    -   This method is currently highly ineffective as commands such as _Live_ and _Sacrifice_ now have significant range caps, making it exceedingly difficult to hide alternate accounts nearby in ganks.
 -   You can still make the Vow of Mastery in Fragments of Self, however no commands work there.
 
 -   Mentioning any other command or name of any other command while using the say command will use the respective command.
@@ -159,5 +160,5 @@ Charisma
 
 -   The leech command will always drain the subject of all their ether, no matter if the master has 40%, 50%, 60% or even 99% ether.
 
--   _If a Vow Master (A) has a Vow on another Vow Master (B), (A) can use their commands on (B)'s Subjects (granted that both are in the same server)._
+-   _If a Vow Master (A) has a Vow on another Vow Master (B), (A) can use their commands on (B)'s Subjects and (B) themselves (granted that both are in the same server)._
 -   Locate command highlights the whole player model, including a thresher if they mounting it.
