@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 144222
+revid: 144891
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -417,7 +417,7 @@ Metal + Slash
 -   Does around 23 hits total.
 -   Doesn't apply parry stun to user.
 -   Applies Metal Rods on hit.
--   Comparable to Thundercall's [Bolt Piercer](Thundercall.md#bolt-piercer) Mantra.
+-   Comparable to Thundercall's [Bolt Piercer](Thundercall.md#bolt-piercer) Mantra, and shares a cooldown with it.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
 -   Can be modified with **Crystal/Pefect Lenses** to extend its range.
 
