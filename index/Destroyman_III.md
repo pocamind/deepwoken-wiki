@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 133928
+revid: 144856
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -51,7 +51,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   Every good thing that happens to you in this game is preplanned like a show. There's an audience waiting for your downfall.
 -   Fish names can be so silly. Did you know there's a seabream species calls "Boops Boops"? There's a "Dumb Gulper Shark" too. How mean!
 -   Flamecharm? Daring today, aren't we?
--   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret seventh attunement.
+-   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret eighth attunement.
 -   HINT: Don't tell the Internal Revenue Sharkos that I'm here. Why? No particular reason.
 -   HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse.
 -   HINT: I should be rising in the sky...
@@ -113,7 +113,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   There is more to life than video games. Developing hobbies can bring happiness.
 -   They should add Freddy Fazbear to this game.
 -   This is what sucks about video games nowadays. It takes way too long to get to the fun part.
--   When's that Ethiron theme coming along anyway?
+-   I heard that Ethiron theme's finally out. We should do a listening party together.
 -   When you really think about it, having 'Happy Birthday' sung to you is like an unskippable cutscene in real life.
 -   Why are you looking at me like that? Cut it out. You're creeping me out.
 -   Y'know, I'm real good friends with The Guy. Bet you're real jealous.
@@ -176,8 +176,10 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 ## Removed Quotes
 
 -   If you were hoping you could uninstall me, I have bad news.
+-   When's that Ethiron theme coming along anyway?
 -   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
--   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza at the white tree in Etris unlocks a secret sixth attunement.
+-   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement.
+-   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret seventh attunement.
 
 ## Trivia
 

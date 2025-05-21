@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 140831
+revid: 144882
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -312,15 +312,11 @@ These quests give EXP, chests and/or reputation as rewards and are repeatable.
 
 **Golden Rats:**
 
-**Quest Location**: [Rat's Den](<Rat's_Den.md>)([Burning Stone Gardens](Burning_Stone_Gardens.md)) **Guide**: Kill [Golden Rats](Golden_Warrior.md) inside the Rat's Den to get Gold Plates. Turn them into the Golden Rat Guard standing outside for a chest.
-
-**Reward/s**: Chest
+**Quest Location**: [Rat's Den](<Rat's_Den.md>)([Burning Stone Gardens](Burning_Stone_Gardens.md)) **Guide**: Kill [Golden Rats](Golden_Warrior.md) inside the Rat's Den to get Gold Plates. Turn them into the Golden Rat Guard standing outside for a chest. **Reward/s**: Chest
 
 **Starswept Bags:**
 
-**Quest Location**: [Starswept Valley](The_Starswept_Valley.md) **Guide**: Turn in the bags found around Starswept Valley to Mercille near the Guy at the outpost near Meteor Isle.
-
-**Reward/s**: Small Hive Chest
+**Quest Location**: [Starswept Valley](The_Starswept_Valley.md) **Guide**: Turn in the bags found around Starswept Valley to Mercille near the Guy at the outpost near Meteor Isle. **Reward/s**: Small Hive Chest
 
 **Summer Isle Explosive Boxes:**
 

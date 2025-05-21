@@ -1,6 +1,6 @@
 ---
 title: Songwright
-revid: 118460
+revid: 144880
 source: https://deepwoken.fandom.com/wiki/Songwright
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,3 +19,12 @@ Costs for each level up:
 -   LVL 3: 300 notes
 -   LVL 4: 450 notes
 -   LVL 5: 600 notes
+
+Additionally, there is a requirement for each upgrade level that correlates to the attribute or element associated with each mantra.
+
+Requirements to level up:
+
+-   LVL 2: 20 Stat
+-   LVL 3: 40 Stat
+-   LVL 4: 60 Stat
+-   LVL 5: 80 Stat

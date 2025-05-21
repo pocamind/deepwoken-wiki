@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 142808
+revid: 144858
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weapons with Unique Criticals, Multiple Criticals]
@@ -33,7 +33,7 @@ Fang and Coil is notable for it's dazing capabilities and wide attack area, with
 
 ## Obtainment
 
-In order to obtain it you must speak to [Vesque](Vesque.md), an NPC located in the [Isle of Vigils](Isle_of_Vigils.md) near the Barber and the Attunement [Training Gear](Training_Gear.md) store, while having above 20 Light Weapon, [Etrea](Etrea.md) **Ally** Reputation or higher and having defeated [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) in such a way that rewards a chest. These steps can conveniently be done in any order and lacks a level requirement. You will receive the Fang and Coil Talent, granting you the fighting style and allowing you to select it from the Character Creation screen.
+In order to obtain it you must speak to [Vesque](Vesque.md), an NPC located in the [Isle of Vigils](Isle_of_Vigils.md) near the Barber and the Attunement [Training Gear](Training_Gear.md) store, while having above 20 Light Weapon, [Etrea](Etrea.md) **Ally** Reputation or higher and having defeated [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) in such a way that awards a chest. These steps can conveniently be done in any order and lack a level requirement. You will receive the Fang and Coil Talent, granting you the fighting style and allowing you to select it from the Character Creation screen.
 
 Vesque
 
@@ -41,7 +41,7 @@ Vesque
 
 For its **Critical**, the user does a quick leg sweep, ragdolling and dazing opponents. The standing critical deals 0.65x (or 65%) of your weapon's _scaled_ damage, meaning if your cestus has 30 scaled damage, this critical will deal 19.5 damage. Additionally it deals 10 Posture damage. This attack dazes and ragdolls for 1.25s, and with a short windup of 0.35s and a endlag of 0.25s, you can easily use this critical as a combo starter. This attack has a **3 second cooldown**.
 
-For its **Running Critical**, the user performs a front-flip followed by a dazing knock-down stomp with a wide AoE, and is only accessible while wearing the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit. The running critical deals 1x (or 100%) of your weapon's _scaled_ damage, meaning if your cestus has 30 scaled damage, this critical will deal 30 damage. Additionally it deals 10 Posture damage and has 10% innate Chip damage. This attack dazes and knockdowns for 0.95 seconds, and with a short windup of 0.5s and endlag of 0.25s, you can combo off it very easily. This attack has a **5 second cooldown**.
+For its **Running Critical**, the user performs a front-flip followed by a dazing knock-down stomp with a wide AoE, and is only accessible while wearing the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit. The running critical deals 1x (or 100%) of your weapon's _scaled_ damage, meaning if your cestus has 30 scaled damage, this critical will deal 30 damage. Additionally it deals 10 Posture damage and has 10% innate Chip damage. This attack dazes and knockdowns for 0.95 seconds, and with a short windup of 0.5s and endlag of 0.25s, you can combo off of it very easily. This attack has a **5 second cooldown**.
 
 ## Trivia
 

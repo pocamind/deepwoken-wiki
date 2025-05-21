@@ -1,6 +1,6 @@
 ---
 title: Goesh and Draud
-revid: 144853
+revid: 144884
 source: https://deepwoken.fandom.com/wiki/Goesh_and_Draud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -90,3 +90,4 @@ Block: ◯
 ## Trivia
 
 -   The streaks running down their eyes resembles tears.
+-   Their unique mechanic wherein they gain power after the death of their counterpart, as well as their occurrence as a (mini)boss battle against two—rather than one—enemies, is likely inspired by the bosses [Ornstein and Smough](https://darksouls.wiki.fextralife.com/Ornstein+and+Smough) from Dark Souls.

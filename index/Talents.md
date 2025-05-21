@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144730
+revid: 144879
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -280,10 +280,10 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 > _**"I seek out Amorus Pleeksty."**_
 
--   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain 10% extra damage and 10% extra speed.
+-   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
-    -   Generally dangerous to use without Immolation's self damage reduction.
-    -   7 second cooldown if you clear the flames by using the tool again or if the burn gets extinguished, 2 second cooldown (due to burn immunity) if Flame Within naturally ends.
+    -   Generally dangerous to use without multiple sources of burn damage reduction, most notably, Immolation.
+    -   8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
     -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
         -   Because Flame Within's mobility buff is a flat increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain mantras like [Arc Suit](Oath%253A_Arcwarder.md#abilities) or [Iron Skin](Ironsing.md#iron-skin).
     -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
@@ -291,8 +291,8 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
     -   Grotesque Resilience reduces the damage taken from Flame Within's burn DoT by 25%.
     -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct downgrade for Flame within.
-    -   The old Last Laugh Talent was merged into Flame Within.
     -   Prerequisite: 25 Flamecharm
+    -   The old Last Laugh Talent was merged into Flame Within.
 
 ### Angler
 
