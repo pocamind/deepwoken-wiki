@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 144066
+revid: 144886
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -16,7 +16,134 @@ The update highest on the webpage (the one right below the legend) is the most r
 
   
 
-## **May 9th,2025**
+## **May 17th, 2025**
+
+  
+• **Content & Systems**  
+• New Recipe: Candles. Perfect for setting the mood. Or summoning  
+• Added a public log of chime matches in the community server. Currently, only matches with ranked players are logged  
+• Added a system for NPC conversations to be based on various things like the current weather. Small talk has never been the same  
+• New Book: The Interrogation of Ranger Santiago Talo  
+  
+**Mob AI Improvements**  
+• Fixed an issue with human mob AI where if all their mantras were on cooldown they'd stand around and do nothing  
+• When human mobs can't roll and would usually react with a roll, they'll block/parry instead  
+• Human mobs no longer need to be blocking in order to parry  
+• Human mobs are better at breaking out of wall combos  
+• Human mobs no longer backpedal to create distance for ranged mantras if they're within melee range. This behavior would basically just make them sitting ducks if they were backed into a corner  
+• Fixed mobs standing around blankly when they're about to use a Mantra  
+• Fixed mobs using Mantras against downed enemies instead of executing them  
+• When human mobs fail to predict an attack, they will try to attack you instead of standing around and taking the hit  
+• Fixed M1 parry telegraphing for mob AI, window was way too wide. Was causing mobs to react to your M1's way after the M1 had finished  
+• Mobs are now a lot better at aiming Mantras  
+  
+**Balancing & Tweaks**  
+• Fixed potion posture resist buff/debuffs all applying a flat 50% reduction to posture damage. This made it so Ongo had no downsides and a huge buff to posture resist, and made Bamboo Bundles/Calabash far stronger than intended  
+• Ether Regen food buffs now apply after tempo-based ether regen. Previously, they would only buff potion ether regen  
+• Fixed Deficient only reducing potion ether regen. Now reduces Tempo-based ether regen too  
+• Fixed Two-handing a weapon giving its +10% posture damage modifier to Mantras. This modifier only applies to M1's and crits now  
+• Jumper Cables no longer determines its target arbitrarily. Now, when the talent procs, the last tethered enemy that is eligible will have their health stolen from, up to the 5% user max HP + 10 HP threshold  
+• Removed Static Link stun modifier passive. Talent description was inaccurate and the actual effect had a very limited set of situations where it would even activate or even do anything (the gist is that it applied 0.5s stun alongside your thundercall damage, but most thundercall damage has more stun than that innately so you wouldn't even notice it)  
+• Red Death reqs reduced (45 MED, 55 SDW -> 30 MED, 45 SDW)  
+• Red Death scaling increased (2 BLD; 2 SDW -> 3 BLD; 3 SDW)  
+• Red Death base damage reduced (16.5 -> 16)  
+• Bloodfouler's standing critical now has an audio cue  
+• Fractine's critical's damage and posture has been significantly increased on the smash hit  
+• Fractine's critical's base damage has been increased significantly  
+• Fractine's shrapnel now bleeds the opponents and now has scaled damage instead of a flat number  
+• Alloyed Longspear MED scaling increased (5 -> 6.5)  
+• Alloyed Longspear swing speed increased (0.93x -> 1)  
+• Adjusted Ignition Deepcrusher critical hitbox of the second hit to be uniform in size instead of having certain spots where the hitbox was larger than at others  
+• The platform created by Ignition Deepcrusher critical no longer has player collision and disappears faster when created in water or mid-air  
+• Ignition Deepcrusher critical will now stop early when interrupted  
+• Fixed Gran Sudaruska Critical not applying crystal  
+• Forgotten Gladius MED scaling increased (7 -> 7.5)  
+• Gremorian Longspear critical damage increased somewhat  
+• Enforcer's Axe HVY scaling decreased (10 -> 9)  
+• Enforcer's Hammer chip dmg increased (10% -> 20%)  
+• Wretched Mawblades base damage decreased (27.5 -> 27)  
+• Cerulean Thread base damage increased (15 -> 16.5)  
+• Cerulean Thread swing speed decreased (1.25x -> 1.2x)  
+• Ice Eruption round spark variant no longer places its walls midair  
+• Ice Eruption round spark variant will now cancel immediately when used while swimming, instead of playing the windup animation first  
+• Fixed Heartspiller not spawning as frequently as intended  
+• Fixed Ice Eruption round spark variant's windup being 0.75s (same as regular variant) instead of 0.5s  
+• Fixed Gremorian Longspear not having a cancellable windup  
+• Fixed a longstanding bug where Gremorian Longspear's critical would place the pierced target behind the user  
+• Saber crits can now be extracted/overwritten  
+  
+**Major Optimizations**  
+• Optimized passive ability checks considerably. This should have knock-on benefits across most of the game  
+• Greatly optimized passives in damage processing. This was a big source of lag in combat that should now be much better  
+• Optimized mob passives by reducing their instance footprint  
+• Optimized strong winds (e.g. L2), reduced server-side impact  
+• Optimized Ice Eruption logic for round spark variant  
+  
+**Bugfixes**  
+• Fixed Character Creation having underwater visual effects  
+• Fixed underwater visual effects from appearing in Layer 1 when inside a Void Spire  
+• Fixed a softlock that could occur when breaking all wind orbs to cancel Scion of Ethiron's ultimate attack  
+• Fixed being able to grab anchored players using Eye of Malice crit, which caused desyncs in position replication  
+• Fixed Noble regalia making certain hostile enemies not aggro  
+• Logstones no longer confusingly extend the vfx duration on Fire Blade  
+• Fixed the creation of new Static Links removing older links for the host  
+• Fixed Static Link's "tethered" state persisting for the host even after all links have been destroyed, which allowed talents like Jumper Cables to continue proccing for far longer than intended  
+• Fixed Static Allure arbitrarily considering the first linked enemy it finds as the "previous tethered enemy"  
+• Optimized Rhythm checks  
+• Fixed weapon enchant stacking  
+• Fixed some inconsistencies with NLK's behavior. Fixes the downsides being active in Chime despite the upsides being disabled  
+• Fixed some NLK downsides lingering if you switch weapons  
+• Fixed Lightning Wisp not proccing its flourish effect if enchants are disabled  
+• Fixed Scion of Ethiron's circular bone floor wave attack being completely invisible  
+
+### _**Patch 2.2.7a**_
+
+**Weapon Stances & Visuals**  
+• Reworked the backend systems for weapon stances, weapon visuals/attachment, and weapon anim fetching to be a lot less error-prone and a lot less laggy  
+• Dual weapons now have visuals for their offhands being sheathed  
+• Fixed a lot of longstanding issues with how weapon stances are handled  
+  
+**Hotfixes**  
+• Fixed Golden Tongue  
+• Fixed being able to apply Cavalry Saber motif on weapons that aren't Swords  
+• Fixed Character Creation screen being underwater. For real this time  
+• Fixed Fragments of Self lighting and atmosphere  
+• Character Creation theme now respects the volume slider  
+• Fixed being able to spawn dodecuplets from a single ritual by spamming candles  
+• Fixed Enchant-specific crits not loading  
+• Fixed Jetstriker being unobtainable  
+• Fixed a bunch of region exclusive books not being obtainable from bookshelves  
+
+### _**Patch 2.2.7b**_
+
+**Hotfixes**  
+• Fixed a gamebreaking bug that allowed mantras to be casted without any windup  
+• Fixed dual guns behaving like solo guns  
+• Fixed not being able to switch fist styles  
+• Guiding Star can now use running attacks at 0 Ether but receives a damage penalty  
+• Rifle aerials are now always the melee variant  
+• Greatly optimized weapon anim lookups  
+• Doubled the chances of finding books from bookshelves  
+• Fixed large bookshelves  
+
+### _**Patch 2.2.7c**_
+
+**Hotfixes**  
+• Fixed Uppercuts not uppercutting  
+• Fixed being able to switch to Fist Styles you haven't unlocked  
+• You can no longer assassinate if you are teleporting. You can no longer assassinate teleporting targets. Fixes insta-kill issues  
+• Fixed blocking animation issues with NPCs; their blocking behavior has been updated to function just like players now  
+• Fixed shaky block animation not playing if you were already holding block  
+• Fixed shaky block animation persisting until you let go of the block input  
+• Fixed Iron Tether magnet spark variant applying daze  
+• Fixed Scabbards being positioned incorrectly  
+• Fixed Ironclads having wooden steering wheels  
+• Fixed Dirty Boxing CD  
+• Fixed using Smith's Alloys making your weapon go invisible  
+• Crimson Rain recall can no longer be feinted (could be abused)  
+• Fixed Bolt Piercer only hitting once
+
+## **May 9th, 2025**
 
 **Less is more... right?**  
 • Smaller than usual patch this time around as we're continuing to rewrite core parts of the codebase. This patch brings noticable FPS improvements.  
