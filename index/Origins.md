@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 143239
+revid: 144933
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -83,7 +83,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
 -   \[**PRO\]** You can always enter Castle Light regardless of the status of your soul. (If you die in the overworld while on second life you can still enter)
 -   **\[PRO\]** If you are a contractor, You will still be able to enter castle light.
--   \[Neutral\] for an unknown reason you always spawn at 17 (may not be intended)
+-   \[Neutral\] for an unknown reason you always spawn at 17 years old (may not be intended)
 
 ## Voidwalker
 
