@@ -1,6 +1,6 @@
 ---
 title: "Akira's Ring"
-revid: 141100
+revid: 144938
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -25,7 +25,7 @@ categories: [Equipment, Rings, The Divers]
 
 ## Description
 
-**Akira's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Willpower Scaling to your [Weapon Damage](https://deepwoken.fandom.com/wiki/Weapons#Calculating_Damage_and_Attack_Speed). The most reliable way to obtain any type of weapon scaling ring is through [The Ferryman](The_Ferryman.md) and the angels inside the [Ancient Rotlands](Ancient_Rotlands.md).
+**Akira's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Willpower Scaling to your [Weapon Damage](https://deepwoken.fandom.com/wiki/Weapons#Calculating_Damage_and_Attack_Speed). The most reliable way to obtain any type of weapon scaling ring is through [The Ferryman](The_Ferryman.md) and the angel pit inside the [Ancient Rotlands](Ancient_Rotlands.md).
 
 ## Trivia
 
