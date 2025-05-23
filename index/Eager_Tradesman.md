@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 128569
+revid: 144958
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -37,3 +37,4 @@ Eager Tradesman's schematic can be found as loot at the following locations or a
     -   Added Eager Tradesman as a craftable schematic.
 -   Unknown Update
     -   Added Eager Tradesman as an outfit worn by [Duke Erisia](Duke_Ishamon_Erisia.md) and [Barbers](Barber.md).
+-   Original shirt can be found [here](https://www.roblox.com/catalog/125549745/Steampunk-Civilian)

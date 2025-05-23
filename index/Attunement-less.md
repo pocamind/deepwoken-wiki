@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 144250
+revid: 144957
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1611,6 +1611,7 @@ Slash
 
 **Effect:** _User locks onto all the closest targets that are in range then dashes forward and performing a large AoE slice._
 
+-   Deals **50% less damage** if used while your weapon is sheathed or if used on a non-medium weapon.
 -   Allows for movestacking an M1 strike which 100% guarantees the Mantra or M1 hit.
 -   Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.
 
