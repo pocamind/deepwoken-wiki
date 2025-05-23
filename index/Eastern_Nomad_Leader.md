@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 141028
+revid: 144949
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Children of Navae, Children of Navae Enemies]
@@ -8,7 +8,7 @@ categories: [Enemies, The Children of Navae, Children of Navae Enemies]
 
 # Eastern Nomad Leader
 
-An Eastern Nomad Leader is a enemy NPC which can be found at the Children of Navae camp in the Etrean Wilds; often found telling stories with the surrounding Eastern Tribe Nomads. They can be found in the following events:
+An Eastern Nomad Leader is an enemy NPC which can be found at the Children of Navae camp in the Etrean Wilds; often found telling stories with the surrounding Eastern Tribe Nomads. They can be found in the following events:
 
 -   Ministry Scouts vs Eastern Nomad Leader and Eastern Tribe Nomad
 

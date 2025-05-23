@@ -1,6 +1,6 @@
 ---
 title: Pete
-revid: 137941
+revid: 144948
 source: https://deepwoken.fandom.com/wiki/Pete
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs]
@@ -35,7 +35,3 @@ Th' waves aren't kind to me gut, \[Name\]. Gah, ol' Frank tried feedin' me a mus
 \*_The man gives a weak thumbs-up toward you, clutching his stomach with his other hand._\*
 
 1.  \[End Dialogue\]
-
-## Trivia
-
--   Pete's racial variant appears to be Plackart.

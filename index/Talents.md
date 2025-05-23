@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144930
+revid: 144956
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -203,7 +203,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.
     -   Cancels pickup of any players knocked by you for ~3s, and grants you a speed boost if you pickup the knocked player.
     -   Pickup cancellation can be activated multiple times.
-    -   Prerequisite: Wind Step
+    -   Prerequisite: Wind Step, 50 Galebreathe
 
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility)
     -   Prerequisites: 15 Strength, 35 Galebreathe

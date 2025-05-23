@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 139894
+revid: 144951
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Central Authority]
@@ -144,3 +144,4 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Right now, it doesn't have too much importance apart from grinding exp and items from the Etrean guardmaster, but in a future alongside the Authority Origin it may get way more importance that it has now.
 -   Fort Merit can be an excellent place to farm early levels if you have good skills.
 -   The fort, being once of Etrean influence - does not happen to match the standard Etrean architecture. With the hexagonal buildings dotted around the fort, it more closely resembles those built by the [lost Celtorian](Lost_Celtor.md) nation. However, this is more likely than not a simple error in development rather than any actual foreshadowing.
+-   [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) used to be located here, but the tunnels located on the left when entering the underground portion were removed, removing the shrine as well. It is now located at [Meteor Isle](Meteor_Isle.md), neighboring Fort Merit to the east.
