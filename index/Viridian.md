@@ -1,6 +1,6 @@
 ---
 title: Viridian
-revid: 131760
+revid: 144967
 source: https://deepwoken.fandom.com/wiki/Viridian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Oaths, Oath Trainers, NPCs located in the Eastern Luminant]
@@ -21,6 +21,8 @@ categories: [Ganymede NPCs, NPCs, Oaths, Oath Trainers, NPCs located in the East
 ## Description
 
 **Viridian** is a Hyperion [Ganymede](Ganymede.md) that wears the [Verdant Sniper](Verdant_Sniper.md) outfit. She is one of the disciples required for the Oathless Quest. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
+
+## Location
 
 Viridian is located in [Fort Merit](Fort_Merit.md). After going up the elevator to the fort, go straight to the first house you see and ignore the one on the right. Once inside, turn to your left. She is located there.
 

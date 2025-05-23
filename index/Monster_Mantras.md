@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 144114
+revid: 144966
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -254,7 +254,7 @@ Slash
  |
 | 
 
-**Effect:** _The user grows a Terrapod claw from their left arm and begins to spin forward after a short windup._
+**Effect:** _The user grows a [Terrapod](Terrapod.md) claw from their left arm and begins to spin forward after a short windup._
 
 -   Deals moderate damage if hit by the entire spin.
 -   Deals heavy posture damage. (taken from [Carrion](Carrion,_Father_of_Evolution.md)'s page, may not be true)
