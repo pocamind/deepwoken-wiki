@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 144754
+revid: 144961
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -40,8 +40,6 @@ The Oath's powers are attained by Vowing to flow with the Song itself, going whe
 _This Oath does not become locked after breaking it at Yun'Shul._
 
 ## Progression
-
-> **NOTICE:** Jetstriker progression is currently bugged, as getting all the orbs will not count towards your progression.
 
 Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This can be done at any order, and each Orb will grant you one Talent (Talents obtained in the same order, no matter of the obtainment order of the Orbs). You have to return to her to get the Talents. The location of these orbs are:
 
