@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 142895
+revid: 144982
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -54,13 +54,13 @@ For the **standing** critical, the user thrusts the weapon forward with both han
 
 For the **running** critical, the user stabs the weapon into themselves, dealing self-damage and sending out two shadow blasts, teleporting them in front of the hit target upon hitting an enemy. The self-damage is removed if you have the [Deepscorn Casque](Deepscorn_Casque.md) headgear equipped. Like the standing critical, this is also considered "Shadow" damage.
 
-The running critical will put the player in the [Dark Rift](Talents.md) state after landing, which have a 20 second cooldown. Both critical attacks have a cooldown of 9 **seconds**. However, the standing critical's duration lasts for a long time meaning the standing critical effectively has a cooldown of around 6.5 seconds as long as it lands.
+The running critical will put the player in the [Dark Rift](Talents.md) state after landing, which has a 20 second cooldown. Both critical attacks have a cooldown of 9 **seconds**. However, the standing critical's duration lasts for a long time meaning the standing critical effectively has a cooldown of around 6.5 seconds as long as it lands.
 
 ## Trivia
 
 -   This item _can_ be dropped.
 -   Ironically, this weapon is longer than the [Crypt Blade](Crypt_Blade.md).
--   Doing hell mode increases the spawn rate of finding Silhuett.
+-   Doing [Hell Mode](Hell_Mode.md) increases the spawn rate of finding Silhuett.
 -   Meeting the requirement of LHT and SDW, the damage is (23.19)
 -   At max LHT and SDW, the damage is (27.65)
 -   The running critical damage can be negated by the Unique equipment Talent "Already Dead", available by equipping the Deepscorn Casque.

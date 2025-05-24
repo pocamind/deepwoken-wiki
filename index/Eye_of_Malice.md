@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 144073
+revid: 144983
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -36,7 +36,7 @@ The M1s proc an orange eye mark.
 
 ## Critical
 
-The Eye of Malice's critical makes the user jump and thrust the weapon in front of them, piercing it through anyone in the way. Additionally, hitting the critical attack while the opponent is marked will teleport the user behind their target and backstab them. Procs Spine Cutter.
+The Eye of Malice's critical makes the user jump and thrust the weapon in front of them, piercing it through anyone in the way. Additionally, hitting the critical attack while the opponent is marked will teleport the user behind their target and backstab them. Procs Spine Cutter. Feinting during this critical will cancel momentum and allow you to more easily use this attack in close quarters combat.
 
 ## Trivia
 

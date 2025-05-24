@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 144955
+revid: 144977
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1354,5 +1354,6 @@ N/A
 -   **Sanguine Dive** is a reference to Vladimir's W ability in _League of Legends_.
 -   **Bloodtide Ritual** is a reference to [Mohg, Lord of Blood's](https://eldenring.wiki.fextralife.com/Mohg,+Lord+of+Blood) phase transition move "Bloodboon Ritual" from _Elden Ring_.
 -   **Bloodedge** is likely a reference to Naoto Kurogane's "Bloodedge" and "Edge of Eternity" from BlazBlue Centralfiction.
+-   **Bloodcurdle** is likely a reference to bloodbending from Avatar: The Last Airbender
 -   **Veinbreaker** is likely a reference to Slayer's "Mappa hunch" in Guilty Gear Strive.
 -   **Crucifixion** is a reference to Klaus' "Unbreakable Cross Shield" from _Blood Blockade Battlefront_; confirmed by a tester.

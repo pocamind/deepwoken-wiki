@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 144671
+revid: 144976
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -979,11 +979,11 @@ When falling from a high place, hold spacebar to generate wind currents until yo
 |  | 
 
 Aeronade  
-(40 Galebreathe, Gale Trap)
+(40 Galebreathe, Gale Trap (Mantra))
 
  | 
 
-Your trap automatically detonates on contact with an object
+Your trap automatically detonates on contact with an object.
 
  | 
 
@@ -1016,20 +1016,6 @@ When flourishing enemies into walls they are suffocated and winded for a short d
  | 
 
 +2 Passive Agility
-
- |
-|  | 
-
-Gale Coil  
-(35 Galebreathe, Suffocating Impact)
-
- | 
-
-Your suffocates last twice as long.
-
- | 
-
-N/A
 
  |
 |  | 
