@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144956
+revid: 144984
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1627,7 +1627,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 45 Ironsing
 
 -   Laced Traps \[Common Talent, Ironsing Exclusive\] - People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
-    -   Landing a caltrop slows down and disables jump for 1.1 second, timer resets if victim gets hitted by other caltrop.
+    -   Landing a caltrop slows down and disables jump for 1.1 second, timer resets if victim gets hit by another caltrop.
     -   Prerequisites: Caltrops mantra, 45 Ironsing
 
 -   Metal Shackles \[Common Talent, Ironsing Exclusive\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
@@ -1637,7 +1637,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 60 Ironsing, 40 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
 
 -   Piercing Metal \[Common Talent, Ironsing Exclusive\] - Deal additional armor damage to enemies per metal rod affecting them.
-    -   Each rod applies 5% armor drain multiplier, extra 50% armor drain at max rods.
+    -   Each rod applies 5% armor drain multiplier, extra 50% armor drain at max rods
+    -   This works only with dealing armor DMG via M1s and Mantras ([Info about how M1 and Mantra armor DMG works](https://www.youtube.com/watch?v=zSXwGP75Etw))
+    -   Doesn't increase Metal enchant effectiveness.
     -   Prerequisites: 60 Ironsing, Power 13
 
 -   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
