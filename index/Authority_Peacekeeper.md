@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 141017
+revid: 144985
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, The Central Authority]
@@ -54,7 +54,9 @@ An Authority Peacekeeper executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | ([Cavalry Saber](Cavalry_Saber.md)):Pins down opponent before slicing their throat.
-([Adretian Axe](Adretian_Axe.md)):Pins down the opponent before splitting their skull with the weapon. ([Rifle Spear](Rifle_Spear.md)):Pins down the opponent before impaling them through the chest with the spear.
+([Adretian Axe](Adretian_Axe.md)):Pins down the opponent before splitting their skull with the weapon.
+
+([Rifle Spear](Rifle_Spear.md)):Pins down the opponent before impaling them through the chest with the spear.
 
  |
 
