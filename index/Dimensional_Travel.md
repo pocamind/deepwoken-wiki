@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 138619
+revid: 144970
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -64,7 +64,7 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 -   Functions similarly and is likely inspired by Tobi's "Kamui" ability from Naruto; both involve entering a largely featureless separate dimension with a floor composed of black blocks that also enable transportation over long distances. Both also invoke swirl patterns when used.
     -   Amusingly also similar to Minecraft's Nether travel mechanics, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
 -   When in the [First Layer](First_Layer.md), if you leave the map and fall out of the world or get stuck inside of terrain, it will act as a reset and spawn you at one of the spawn locations.
--   Attempting to use **Dimensional Travel** in the [Second Layer](Second_Layer.md) will fling you in the direction of your momentum, with dialogue from an unknown entity saying “FALSE REALMS WILL NOT SAVE YOU.”
+-   Attempting to use **Dimensional Travel** in the [Second Layer](Second_Layer.md) will fling you in the direction of your momentum, with dialogue from an unknown entity saying “FALSE REALMS CANNOT SAVE YOU.”
     -   If used properly, timing a jump to change the angle of your momentum can allow you to gain great amounts of distance in a desirable direction over a short time. This is frequently used for speedrunning.
 -   If you get teleported to the [Voidheart](Voidheart.md) due to a [Voidwalker](Origins.md) bounty expiring while inside The Interstice, you get teleported far into the [Voidsea](Voidsea.md) (possibly the Voidheart's coordinates multiplied by your **Dimensional Travel** distance stat.)
     -   Voidwalker bounties also expire if the targets are separated via The Interstice long enough, rendering this a means of escape for either, albeit inconvenient.

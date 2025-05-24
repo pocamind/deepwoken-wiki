@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 141411
+revid: 144968
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,39 +21,40 @@ _**FOREWORD**: **An up-to-date spreadsheet with every source of carry load and t
 
 In order of carry load given:
 
--   _Fists of Fortitude_ gives 1 carry load.
 -   _Pack Mule_ gives 1 carry load.
 -   _Champion's Regalia_ gives 1 carry load.
+-   _Fists of Fortitude_ gives 1 carry load.
 -   _Gourmand_ gives 2 carry load.
--   _Unstoppable_ Force gives 2 carry load.
 -   _Destructive Recovery_ gives 2 carry load.
--   _Pocket Sand_ gives 4 carry load.
--   _Unwavering Resolve_ gives 4 carry load.
--   _Shield Breaker_ gives 4 carry load.
--   _Captain Etrea_ gives 4 carry load.
+-   _Unstoppable Force_ gives 2 carry load.
 -   _Lootskipper_ gives 4 carry load.
+-   _Unwavering Resolve_ gives 4 carry load.
+-   _Captain Etrea_ gives 4 carry load.
+-   _Pocket Sand_ gives 4 carry load.
+-   _Shield Breaker_ gives 4 carry load.
 -   _Spine Cutter_ gives 6 carry load.
 -   _Face Cutter_ gives 6 carry load.
 -   _Turning of the Wheel_ gives 6 carry load.
--   _Rain of Static_ gives 7 carry load.
--   _Jolt Cast_ gives 7 carry load.
--   _Eureka_ gives 7 carry load.
--   _Ether Conduit_ gives 7 carry load.
 -   _Ether Absorption_ gives 7 carry load.
--   _Steady Nerves_ gives 7 carry load.
 -   _Everchanging Aegis_ gives 7 carry load.
--   _Pressure Break_ gives 8 carry load.
+-   _Ether Conduit_ gives 7 carry load.
+-   _Eureka_ gives 7 carry load.
+-   _Rain of Static_ gives 7 carry load.
+-   _Steady Nerves_ gives 7 carry load.
+-   _Jolt Cast_ gives 7 carry load.
+-   _Discharge_ gives 7 carry load.
 -   _Concussion_ gives 8 carry load.
--   _Strong Stern_ gives 9 carry load.
--   _Strong Hold_ gives 9 carry load.
--   _Precise Swing_ gives 9 carry load.
+-   _Pressure Break_ gives 8 carry load.
 -   _Concussive Force_ gives 9 carry load.
 -   _Steady Footing_ gives 9 carry load.
+-   _Precise Swing_ gives 9 carry load.
+-   _Strong Stern_ gives 9 carry load.
+-   _Strong Hold_ gives 9 carry load.
+-   _Concussive Flash_ gives 10 carry load.
 -   _Berserker_ gives 10 carry load.
 -   _Gathering Electricity_ gives 10 carry load.
--   _Concussive Flash_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would theoretically provide 187 carry load.
+All of these [Talents](Talents.md) combined would theoretically provide 194 carry load.
 
 ### Other Sources
 
@@ -87,11 +88,11 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **562**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **674**.
+Combining both Talents and other sources, the total amounts to **569**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **683**.
 
 Due to attribute limitations, the current best carry load build can only get 539/647 carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
 
--   If you create a build that can get more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
+-   If you create a build that can get more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to help calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
 
 ## Trivia
 

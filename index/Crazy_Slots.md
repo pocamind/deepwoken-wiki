@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 142157
+revid: 144969
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,7 +32,7 @@ Once used, the user extends their right arm (and left arm if Divine Flintlock), 
 
 Pressing C will activate the **Crazy Slots** Resonance and its unique special skill.
 
-**Crazy Slots** calls forth a randomly chosen weapon each time it is used, with [Enchantments](Enchantments.md) and stars being copied from your main weapon onto the summoned weapon. Each weapon scales with its respective stat and has a unique skill that can be used by re-activating the ability.
+**Crazy Slots** calls forth a randomly chosen weapon each time it is used, with [Enchantments](Enchantments.md) and stars being copied from your main weapon onto the summoned weapon. Each weapon scales with its respective stat and has a unique skill that can be used by re-activating the bell.
 
 If Crazy Slots is corrupted, its cooldown is halved, rolls are further weighted towards your highest stat investment and the durations of the summons are increased. Additionally, your Divine Weapons will be colored purple instead of gold.
 
