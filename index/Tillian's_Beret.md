@@ -1,6 +1,6 @@
 ---
 title: "Tillian's Beret"
-revid: 138613
+revid: 145019
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, World Event, Head, Hats]
@@ -13,6 +13,7 @@ categories: [Pages with broken file links, Equipment, World Event, Head, Hats]
 | type | Head |
 | rarity | Unique |
 | selling price | 100 |
+| requirements | PWR 10 |
 | weight | 1 |
 | innate stats | +7 Health, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Cap Artist |

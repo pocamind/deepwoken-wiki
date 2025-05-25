@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 124323
+revid: 145030
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Legs, Boots]
 | type | Boots |
 | rarity | Common |
 | selling price | 7 |
-| requirements | None |
+| requirements | PWR 4 |
 | innate stats | +5 Health |
 | innate talent | N/A |
 | bankable | Yes |

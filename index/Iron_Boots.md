@@ -1,6 +1,6 @@
 ---
 title: Iron Boots
-revid: 136219
+revid: 145029
 source: https://deepwoken.fandom.com/wiki/Iron_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Items, Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Common |
 | selling price | 7 |
-| requirements | None |
+| requirements | PWR 4 |
 | weight | 1 |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |

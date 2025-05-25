@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 144538
+revid: 145015
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1249,23 +1249,6 @@ Your Vent is imbued with glacial frost.
  | 
 
 N/A
-
- |
-| 
-
- | 
-
-Glacial Ice  
-(50 Frostdraw, 20 Willpower)
-
- | 
-
-Your frost is now considerably more intense.
-
- | 
-
-+6 Sanity  
-This talent previously increased "Elemental Intensity" However, as this stat is removed, The Talent is currently useless.
 
  |
 

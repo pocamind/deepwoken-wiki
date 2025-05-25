@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 144447
+revid: 145001
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -21,12 +21,12 @@ categories: [Equipment, Face, Blindfolds]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Pure Erisore turn ins, Artifacts, Layer 2, Songseeker Wilds, Lodestar, Saramaed Hollow, Maestro Evengarde Rest, Dread Serpent, Meteor Isle |
+| obtainment | Erisia, Minityrsa, Pure Erisore turn ins, Artifacts, Layer 2, Songseeker Wilds, Lodestar, Saramaed Hollow, Maestro Evengarde Rest, Dread Serpent, Meteor Isle, Fishing |
 | description | "A tightly wound blindfold to hide the horrors of the world from your waking eyes." |
 
 ## Description
 
-The Blindfolds are [Equipment](Equipment.md) items under the "Face" category. They are found in [Erisia](Erisia.md) (Normal blindfold), [Minityrsa](Minityrsa.md) (SPECIFICALLY the ministry goons, not rogue construct or crpyt chests) (Black), and [Songseeker Wilds](Songseeker_Wilds.md) (Crimson). Equipping this item gives you the [Blinded](Talents.md) Talent. A Blindfold is required to unlock the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md), but not required when using it.
+The Blindfolds are [Equipment](Equipment.md) items under the "Face" category. They are found in [Erisia](Erisia.md) (Normal blindfold), [Minityrsa](Minityrsa.md) (ministry goons) [Fishing](Fishing.md) and [Meteor isle](Meteor_Isle.md) (Black), and [Songseeker Wilds](Songseeker_Wilds.md) (Crimson). Equipping this item gives you the [Blinded](Talents.md) Talent. A Blindfold is required to unlock the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md), but not required when using it.
 
 ## Trivia
 

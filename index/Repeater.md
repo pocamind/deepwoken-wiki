@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 140254
+revid: 145009
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Offhand Guns, Summer Company]
@@ -10,12 +10,14 @@ categories: [Weapons, Flintlocks, Offhand Guns, Summer Company]
 
 | Repeater | |
 |---|---|
-| type | Flintlock |
+| type | Pistol |
 | requirements | 65 LHT |
 | damage | 14 |
 | scaling | LHT: 15 |
 | range | 12 |
 | swing speed | 1.25x |
+| stances | 1 Handed |
+| offhand | Yes |
 | selling price | 14 |
 | weight | 1 |
 | bankable | Yes |

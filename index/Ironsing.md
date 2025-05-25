@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 144973
+revid: 144997
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -835,6 +835,7 @@ Metal + Blunt
 
 -   Deals 33.5 (37.27 with 6 songchant) DMG, 5 posture, 0.55s windup, 13s cd. at 5 lvl
 -   Has 9.2x PVE Scale (33.5 PVP DMG, 307.42 IN PVE)
+-   Pulls opponents through invincibility frames.
 -   Will not activate properly on certain mobs (namely [The Ferryman](The_Ferryman.md)), consuming Ether but still dealing small damage and instantly restoring the cooldown, allowing for it to be spammed until you run out of Ether.
 -   Can be modified with Crystal and Perfect Lenses to increase its range.
 -   Can be modified with a Reversal Spark, making it knock enemies away.

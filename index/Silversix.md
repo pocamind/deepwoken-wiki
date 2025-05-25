@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 142940
+revid: 145005
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Offhand Guns]
@@ -10,12 +10,14 @@ categories: [Weapons, Flintlocks, Offhand Guns]
 
 | Silversix | |
 |---|---|
-| type | Flintlock |
+| type | Pistol |
 | requirements | 0 LHT |
 | damage | 10 |
 | scaling | LHT: 13 |
 | range | 10 |
 | swing speed | 1.17x |
+| stances | 1 Handed |
+| offhand | Yes |
 | weight | 1 |
 | bankable | Yes |
 | droppable | Yes |

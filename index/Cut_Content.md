@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 141409
+revid: 145016
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -152,6 +152,9 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 1st, 2023 update, Gale Leap was merged into Wind Step.
 -   **Giantslayer \[Common Talent, Willpower\] -** Deal 10% more damage to larger foes. (+7 Sanity)
     -   In the December 24th, 2024 update, Giantslayer was merged into Underdog.
+-   **Glacial Ice \[Common Talent, Frostdraw\] -** Your frost is now considerably more intense. (+6 Sanity)
+    -   This Talent did nothing post Verse 2, as it only granted Elemental Intensity which was largely a dead stat. Despite this, the Talent stayed in the game for over two years after Verse 2's release.
+    -   In the May 25th, 2025 update, Glacial Ice was removed from the game.
 -   **Graceful Landing \[Common Talent, Agility\] -** You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   In the August 15th, 2023 update, Graceful Landing was merged into Kick Off.
 -   **Hardened Nerves \[Common Talent\] -** Slightly increases posture. (+2 Posture)

@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 144343
+revid: 145006
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Offhand Guns]
@@ -10,12 +10,14 @@ categories: [Weapons, Flintlocks, Offhand Guns]
 
 | Flintlock | |
 |---|---|
-| type | Flintlock |
+| type | Pistol |
 | requirements | 20 LHT |
 | damage | 11 |
 | scaling | LHT: 12 |
 | range | 10 |
 | swing speed | 1.17x |
+| stances | 1 Handed |
+| offhand | Yes |
 | selling price | 14 |
 | weight | 1 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 144840
+revid: 145017
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Ministry Heartspillers are [Ministry](The_Ministry.md) agents under the Second Prophet that specialise in information gathering via torture. They wield [Bloodrend](Bloodrend.md) and [Shadowcast](Shadowcast.md) in order to torture and then erase their victims. They can be found spawning at [Minityrsa](Minityrsa.md), within [The Depths](First_Layer.md), or rarely at [Starswept Valley](The_Starswept_Valley.md). They can be found interrogating a pathfinder hostage.
+Ministry Heartspillers are [Ministry](The_Ministry.md) agents under the Second Prophet that specialise in information gathering via torture. They wield [Bloodrend](Bloodrend.md) and [Shadowcast](Shadowcast.md) in order to torture and then erase their victims. They can be found spawning at [Minityrsa](Minityrsa.md), within [The Depths](First_Layer.md), or rarely at [Starswept Valley](The_Starswept_Valley.md)/Lower Erisia(towerstruck lands). They can be found interrogating a pathfinder hostage.
 
 Ministry Heartspillers wear a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), a [Crimson Blindfold](Blindfold.md), a [Prophet's Cloak](<Prophet's_Cloak.md>), and a dark red [Ministry Cloak](Ministry_Cloak.md) with three medals on attached to the left breast. The 3 medals on their chest signify their rank as a Heartspiller, with the one we fight likely being a high rank.[\[1\]](#cite-note-1)
 

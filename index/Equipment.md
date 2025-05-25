@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 144313
+revid: 145018
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1508,6 +1508,8 @@ _+7 Health_
 +1 Legendary Pip
 
 _+Talent: Cap Artist_
+
+**Requires Power 10**
 
  | 
 
@@ -3832,6 +3834,8 @@ _+3 Health_
 
 +2 Rare Pips
 
+**Requires Power 6**
+
  | 
 
 Found from:
@@ -3853,6 +3857,8 @@ Found from:
  | 
 
 +2 Rare Pips
+
+**Requires Power 4**
 
  | 
 
@@ -3895,6 +3901,8 @@ Found from:
  | 
 
 +2 Rare Pips
+
+**Requires Power 4**
 
  | 
 
@@ -3962,6 +3970,8 @@ Found from:
 
 +2 Rare Pips
 
+**Requires Power 4**
+
  | 
 
 Found from:
@@ -3979,6 +3989,8 @@ Found from:
 _+4 Health_
 
 +2 Rare Pips
+
+**Requires Power 6**
 
  | 
 
@@ -4031,6 +4043,8 @@ _+3 Health_
 
 +2 Rare Pips
 
+**Requires Power 6**
+
  | 
 
 Found from:
@@ -4060,6 +4074,8 @@ _+4 Health_
 
 +2 Rare Pips
 
+**Requires Power 6**
+
  | 
 
 Found from:
@@ -4081,6 +4097,8 @@ Found from:
  | 
 
 +2 Rare Pips
+
+**Requires Power 4**
 
  | 
 
@@ -4123,6 +4141,8 @@ Found from:
 
 +2 Rare Pips
 
+**Requires Power 4**
+
  | 
 
 Found from:
@@ -4140,6 +4160,8 @@ Found from:
 _+3 Health_
 
 +2 Rare Pips
+
+**Requires Power 6**
 
  | 
 
@@ -4216,6 +4238,8 @@ _+3 Health_
 
 +2 Rare Pips
 
+**Requires Power 6**
+
  | 
 
 Found from:
@@ -4236,6 +4260,8 @@ Found from:
 +2 Rare Pips
 
 +1 Legendary Pip
+
+**Requires Power 8**
 
  | 
 
@@ -4277,9 +4303,11 @@ Found from:
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
+
+**Requires Power 6**
 
  | 
 
@@ -4428,6 +4456,8 @@ Found From:
 _+3 Health_
 
 +2 Rare Pips
+
+**Requires Power 6**
 
  | 
 

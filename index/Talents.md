@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 144984
+revid: 145014
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -624,7 +624,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I have never lost."**_
 
--   _Champion's Regalia_ \[Legendary Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
+-   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold shaded outline on your character.
     -   Does not work on non-humanoid NPCs.
     -   Only works on m1's.
@@ -1202,10 +1202,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Cold Front \[Common Talent, Frostdraw Exclusive\] - Your vent is imbued with glacial frost.
     -   Venting creates an ice patch on the floor and applies Chill to any enemy hit by it.
     -   Prerequisites: Cryonis, 25 Frostdraw
-
--   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+6 Sanity)
-    -   Currently does nothing (Does not increase frost patch sizes, chill duration, crystal amount, mantra dmg, or crystal dmg).
-    -   Prerequisites: 50 Frostdraw, 20 Willpower
 
 ### Frozen Lightning
 

@@ -1,6 +1,6 @@
 ---
 title: Fur Boots
-revid: 144433
+revid: 145022
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | PWR 6 |
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |

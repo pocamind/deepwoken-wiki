@@ -1,9 +1,9 @@
 ---
 title: Falchion
-revid: 144354
+revid: 145013
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Alloyed Weapons]
+categories: [Weapons, Alloyed Weapons, Weapons with Unique Criticals, Swords]
 ---
 
 # Falchion
@@ -32,6 +32,10 @@ categories: [Weapons, Swords, Alloyed Weapons]
 The Falchion is a [Medium Weapon](Weapons.md#medium-weapons) that can be obtained from chests in [Lower Erisia](Lower_Erisia.md). It also has a somewhat uncommon chance from the Gold Plate trade with the Golden Rat Bouncer at the [Rat's Den](<Rat's_Den.md>). The weapon has a base damage of 16 and requires 20 MED to equip.
 
 Despite the Alloyed Falchion's similarity to the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) in stats and supposed inferiority, it has the same scaling and does 1 less damage compared to the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). However, it has 20% PEN, while the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) has none, effectively making it down to preference which one you pick. At that rate, it is a decent weapon when you're grinding for other weapons, Alloyed or not.
+
+## Critical
+
+After a short windup, perform a singular horizontal slash dealing high posture damage.
 
 ## Trivia
 

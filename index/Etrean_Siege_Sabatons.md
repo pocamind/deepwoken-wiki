@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Sabatons
-revid: 144430
+revid: 145023
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons, Etrea]
@@ -12,7 +12,7 @@ categories: [Items, Equipment, Legs, Sabatons, Etrea]
 |---|---|
 | type | Boots |
 | rarity | ??? |
-| requirements | None |
+| requirements | PWR 6 |
 | innate stats | +4 Health |
 | innate talent | N/A |
 | bankable | Yes |

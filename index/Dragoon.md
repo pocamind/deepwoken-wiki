@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 144341
+revid: 145010
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Offhand Guns]
@@ -10,12 +10,14 @@ categories: [Weapons, Flintlocks, Offhand Guns]
 
 | Dragoon | |
 |---|---|
-| type | Flintlock |
+| type | Pistol |
 | requirements | 65 LHT |
 | damage | 16 |
 | scaling | LHT: 12 |
 | range | 11 |
 | swing speed | 1.17x |
+| stances | 1 Handed |
+| offhand | Yes |
 | weight | 1 |
 | bankable | Yes |
 | droppable | Yes |

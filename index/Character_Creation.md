@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 143569
+revid: 144998
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -232,7 +232,7 @@ Here is what makes the [Voidwalker Origin](Origins.md#voidwalker) unique:
 
 ### [Ignition Delver](Origins.md#ignition-delver)
 
-The Ignition Delver Origin is unlocked on all slots upon saving Epsi in Layer 2, returning to Alpha in the Ignition Union base, The Frontier Furnace, or completing Orion's quest at Miner's Landing; tasking you to fight [Summer Goons](Summer_Goon.md) (alternatively, a [Mechalodaunt](Mechalodaunt.md) in one of the rooms).
+The Ignition Delver Origin is unlocked on all slots upon saving Epsi in Layer 2, returning to Alpha in the Ignition Union base, The Frontier Furnace, or completing Orion's quest at Miner's Landing; tasking you to fight [Summer Goons](Summer_Goon.md) in the boiler room.
 
 Here's what makes the Ignition Delver Origin unique:
 

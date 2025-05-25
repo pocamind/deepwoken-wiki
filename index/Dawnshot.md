@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 144332
+revid: 145007
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Flintlocks, Alloyed Weapons, Offhand Guns]
@@ -11,12 +11,14 @@ categories: [Weapons, Flintlocks, Alloyed Weapons, Offhand Guns]
 | Dawnshot | |
 |---|---|
 | alloyed name | Template:AlloyedColor |
-| type | Flintlock |
+| type | Pistol |
 | requirements | 40 / Template:AlloyedColor LHT |
 | damage | 14 / Template:AlloyedColor |
 | scaling | LHT: 12 |
 | range | 10.5 |
 | swing speed | 1.17x |
+| stances | 1 Handed |
+| offhand | Yes |
 | selling price | / |
 | weight | 1 |
 | bankable | Yes |
