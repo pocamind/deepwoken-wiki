@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 144236
+revid: 145064
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -359,13 +359,12 @@ Lightning
 **Effect:** _Leap into the air before slamming down into the ground, dealing moderate Lightning damage in an AoE before ascending the user and target(s) hit into the air._
 
 -   Deals 34.68 (38.61 with 6 songchant) DMG, 100+ posture, 12s CD. Orbs from "**Rain of Static**" Talent deal 1 posture and 9.45 DMG per hit.
+-   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Can destroy surfaces and light flammable terrain such as patches of grass on fire.
--   Can light the user and target(s) ablaze.
 -   Applies Knockdown.
 -   Can grant a different effect with the "**Rain of Static**" Talent, which makes the user rain down orbs of lightning from the air before slamming down.
 -   Can proc _Meteor Impact_
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md), making you move forward a little before slamming down.
--   Guard breaks at Level 5.
 -   Can be easily used to glitch through thin or less than moderate sized walls.
 
  |
@@ -443,6 +442,7 @@ Lightning + Blunt
 **Effect:** _Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any targets hit._
 
 -   Deals 44.25 DMG (49.26 DMG with 6 songchant), 100+ posture, 0.65s windup, 11s CD
+-   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Press F immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
     -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
     -   Doesn't work if the initial kick guardbroke the target (needs further testing)

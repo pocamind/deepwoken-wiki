@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 144997
+revid: 145075
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -340,7 +340,6 @@ Metal + Slash + Template:Bleed2
 -   Has 9.18x PVE scale (33.49 DMG + 10.05 Template:Bleed2, 307.42 DMG + 92.22 Template:Bleed2 PVE)
 -   Doesn't break your momentum, meaning you can run while using it or vice versa.
 -   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it.
-    -   The blood particles are always red, even if you have Alloyblood.
 
  |
 | 

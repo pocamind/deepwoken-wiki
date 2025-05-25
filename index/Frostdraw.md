@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 145015
+revid: 145063
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -396,7 +396,8 @@ Ice
 
 **Effect:** _Perform a stomp with your right leg, forming 3 ascending waves of ice formations that encase the target in ice._
 
--   Deals 29.9 (33.28 with 6 songchant) DMG, Bypass block, 30s CD at 5 lvl.
+-   Deals 29.9 (33.28 with 6 songchant) DMG, 30s CD at 5 lvl.
+-   Unparryable and unblockable.
 -   Has 9.18x PVE scale (29.9 PVP DMG, 274.48 PVE DMG)
 -   Apparently applies Chill although VERY shortly.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
@@ -479,7 +480,7 @@ Ice
 **Effect:** _Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead._
 
 -   Deals 56.21 (62.57 with 6 songchant) DMG, Guardbreaks, 10s CD at 5 lvl.
--   Breaks block at level 5.
+-   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has 9.18x PVE scale (56.21 PVP DMG, 516.03 PVE DMG)
 -   Inflicts Chill. 5 seconds of Chill, 9 seconds with 1 Eternal Logstone.
 -   Slightly knocks back target(s)

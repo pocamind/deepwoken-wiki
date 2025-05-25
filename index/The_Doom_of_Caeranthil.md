@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 144214
+revid: 145082
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -196,7 +196,7 @@ Exhaustive Loot Table
   </ol></li>
     <li><b><a href="Equipment.md#arms"><font>Arms Equipment</font></a></b>:
   <ol>
-    <li><b>Unique Arms</b>: <a href="Warlock's_Mantle.md"><font>Warlock's Mantle</font></a> (All Variants).</li>
+    <li><b>Mythical Arms</b>: <a href="Warlock's_Mantle.md"><font>Warlock's Mantle</font></a> (All Variants).</li>
     <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Inquisitor's_Duster.md">Inquisitor's Duster</a> (All Variants), <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>:

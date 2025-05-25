@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 144735
+revid: 145058
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -16,11 +16,13 @@ categories: [Echoes, Character, Mechanics, Creation]
 
 **Echoes** are a currency that is obtained by wiping characters. The amount of **Echoes** gained through wiping increases based on how much progress the character had made before being wiped.
 
-**Echoes** can be spent on **Upgrades;** permanent buffs that transfer with each Character Wipe. While in the character creation menu, the **Echoes** tab can be used to spend **Echoes** on **Upgrades**. In addition, **Modifiers** can be enabled in this menu.
+**Echoes** can be spent on **Upgrades** and **Unlocks;** permanent buffs that transfer with each Character Wipe. While in the character creation menu, the **Echo Shop** tab can be used to spend **Echoes** on **Upgrades** and **Unlocks**. In addition, **Modifiers** can be enabled in the **Echo Modifier** menu.
 
 **Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 13 Modifiers available, providing a total cumulative 3.2x modifier to **Echo** gain.
 
 **Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
+
+**Echo Unlocks** are account-wide, so purchasing an unlock on one slot will often affect the rest. Unlocks that pertain to new slots (like Starter Weapons or Tools) will not impact pre-existing slots however.
 
 The maximum amount of **Echoes** that a character can get (excluding rebargaining with Yun'Shul) is 140. (441 with all Echoes Modifier)
 
@@ -81,9 +83,9 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 
   
 
-## Upgrades and Modifiers
+## Upgrades, Unlocks, and Modifiers
 
-There are 16 upgrades to purchase, and each can be purchased a maximum of 1 to 6 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 2650 echoes.
+There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased a maximum of 1 to 6 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades and all unlocks costs 2695 echoes.
 
 [Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 40 echoes per item even if they're Soulbound. This is not renewable.
 
@@ -175,42 +177,92 @@ There are 16 upgrades to purchase, and each can be purchased a maximum of 1 to 6
   <td><center>1</center></td>
   <td><center>2</center></td>
 </tr>
+</tbody>
+</table>
+
+**Unlocks:**
+
+<table>
+<tbody>
 <tr>
-  <td><center><b>Advanced Weapons</b></center></td>
-  <td><center>Your amount of available starting weapons when starting a new journey.</center></td>
-  <td><center>25 Echoes</center></td>
-  <td><center>1</center></td>
-  <td><center>4</center></td>
-</tr>
-<tr>
-  <td><center><b>Advanced Tools</b></center></td>
-  <td><center>Your amount of bonus adventuring tools given when starting a new journey.</center></td>
-  <td><center>25 Echoes</center></td>
-  <td><center>1</center></td>
-  <td><center>4</center></td>
-  <td>The list of Advanced Weapons and Advanced Tools is available in the Notes section.</td>
+  <td><center><b>Unlock</b></center></td>
+  <td><center><b>Effect</b></center></td>
+  <td><center><b>Cost</b></center></td>
 </tr>
 <tr>
   <td><center><b>Soul Plasticity</b></center></td>
   <td><center>Grants immunity to the Tarnished flaw.</center></td>
   <td><center>500 Echoes</center></td>
-  <td><center>1</center></td>
-  <td><center>1</center></td>
 </tr>
 <tr>
   <td><center><b>Multifaceted</b></center></td>
   <td><center>The Attribute points you usually receive from your Aspect are free for you to allocate.</center></td>
   <td><center>250 Echoes</center></td>
-  <td><center>1</center></td>
-  <td><center>1</center></td>
-  <td></td>
 </tr>
 <tr>
   <td><center><b>Elementalist</b></center></td>
   <td><center>You no longer have a limit to how many attunements you can start with, and you can freely allocate points through them in character creation.</center></td>
   <td><center>200 Echoes</center></td>
-  <td><center>1</center></td>
-  <td><center>1</center></td>
+</tr>
+<tr>
+  <td><center><b>Starter Equipment</b></center></td>
+  <td><center>You start with a pair of <a href="Leather_Gloves.md">leather gloves</a> and <a href="Leather_Boots.md">boots</a>.</center></td>
+  <td><center>30 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Starter Weapon: Rapier</b></center></td>
+  <td><center>Allows you to select the <a href="Quickfang.md">Quickfang</a> as a starting weapon.</center></td>
+  <td><center>25 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Starter Weapon: Pistol</b></center></td>
+  <td><center>Allows you to select the <a href="Silversix.md">Silversix</a> as a starting weapon.</center></td>
+  <td><center>25 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Starter Weapon: Spear</b></center></td>
+  <td><center>Allows you to select the <a href="Irontusk.md">Irontusk</a> as a starting weapon.</center></td>
+  <td><center>25 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Starter Weapon: Greatsword</b></center></td>
+  <td><center>Allows you to select the <a href="Avenger.md">Avenger</a> as a starting weapon.</center></td>
+  <td><center>25 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Flint</b></center></td>
+  <td><center>You start with a <a href="Flint.md">Flint</a> to start fires.</center></td>
+  <td><center>15 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Canteen</b></center></td>
+  <td><center>You start with a <a href="Canteen.md">Canteen</a> to collect water.</center></td>
+  <td><center>15 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Pickaxe</b></center></td>
+  <td><center>You start with a <a href="Pickaxe.md">Pickaxe</a> to gather <a href="Ores.md">ores</a>.</center></td>
+  <td><center>15 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Lumber Axe</b></center></td>
+  <td><center>You start with a <a href="Lumber_Axe.md">Lumber Axe</a> to gather wood.</center></td>
+  <td><center>15 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Fishing Rod</b></center></td>
+  <td><center>You start with a <a href="Fishing.md">Fishing Rod</a> to gather <a href="Fishing.md">fish</a>.</center></td>
+  <td><center>15 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Repair Hammer</b></center></td>
+  <td><center>You start with a <a href="Repair_Hammer.md">Repair Hammer</a> to repair <a href="Ships_&amp;_Sailing.md">ships</a>.</center></td>
+  <td><center>15 Echoes</center></td>
+</tr>
+<tr>
+  <td><center><b>Glider</b></center></td>
+  <td><center>You start with a <a href="Gliders.md">Glider</a> to traverse the open air.</center></td>
+  <td><center>25 Echoes</center></td>
 </tr>
 </tbody>
 </table>
@@ -305,7 +357,7 @@ Quickfang Echo Upgrade
 
 Other than replayability, Echoes can also be Talents and Items; all acquired under meeting requirements and completing quests.
 
-Echo Talents or Items, once acquired for the first time, can be obtained in later Power Levels per Character after. If you attempt to complete the quest again in another slot or another life, you will gain an extra Talent hand (maximum of 3 or 4, may be more as updates keep rolling).
+Echo Talents or Items, once acquired for the first time, can be obtained in later Power Levels per Character after. If you've obtained an Echo Talent on a different slot, you can talk to [Yamaketzal](Yamaketzal.md) to unlock the Talent on your current slot. This is useful for power 20 slots as they cannot level up to obtain the Echo Talents you've already obtained previously.
 
 ### Echo Quests
 
@@ -315,22 +367,23 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   Increases PvE damage by 5% each melee hit you deal without taking hits in return.
     -   Unlocked on the initial slot, and any characters or slots created after obtainment upon reaching power 2.
-        -   Unlocked on slots prior to obtainment IF it obtains a level.
         -   The maximum threshold of damage is 2x.
         -   Chain of Perfection does **not** work in PvP.
 
 **(Power 3)** Engage \[Echo Talent\] - _Gain Engage at Power 3 ._ _**Obtained by completing the quest given by Etrean Soldier [Arthur](Arthur.md) at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 
 -   Landing M1 attacks restores some of your Ether.
+-   Counts as a Bravery [quest](Quests.md), meaning when completed, it will grant you an additional hand of cards on your next level up or immediately if you are power 20, assuming you haven't already completed a different Bravery quest.
 
 **(Power 5)** Critical Attack \[Echo Talent\] - Gain Critical Attack at Power 5. _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 
 -   Landing a hit with your critical restores 30% of your posture.
+-   Counts as a Bravery [quest](Quests.md), meaning when completed, it will grant you an additional hand of cards on your next level up or immediately if you are power 20, assuming you haven't already completed a different Bravery quest.
 
 **(Power 10)** Thresher Scales \[Echo Talent\] - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of [Jessamine](Jessamine.md) near the entrance of the [Widow's Hollow](<Widow's_Hollow.md>).**_
 
--   You regenerate your armour at campfires.
-    -   Can be done at Power 20 for an extra deck of cards.
+-   You regenerate your armor at campfires.
+-   Counts as a Bravery [quest](Quests.md), meaning when completed, it will grant you an additional hand of cards on your next level up or immediately if you are power 20, assuming you haven't already completed a different Bravery quest.
 
 **(Visiting the Eastern Luminant)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters after visiting the Eastern Luminant. **Obtained by washing your face at least once at [Lightkeeper Temple](Lightkeeper_Temple.md).**
 
@@ -338,18 +391,8 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## Notes
 
--   Buying most echo upgrades will apply their effects to previously created slots. Advanced Weapons, Starting Knowledge, Starting Notes, and Advanced Tools will not be applied to pre-existing slots.
--   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with vow of thorns AND dealbreaker, it will still do this for unknown reasons.
--   The four Weapons from "Advanced Weapons" are obtained in linear order through purchases listed below:
-    -   The [Quickfang](Quickfang.md) Rapier,
-    -   The [Irontusk](Irontusk.md) Spear,
-    -   The [Silversix](Silversix.md) Guns,
-    -   The [Avenger](Avenger.md) Greatsword.
--   The seven Tools from "Advanced Tools" are obtained in linear order through purchases listed below:
-    -   A [Lumber Axe](Lumber_Axe.md) and [Pickaxe](Pickaxe.md).
-    -   [Flint](Flint.md) and [Canteen](Canteen.md).
-    -   [Repair Hammer](Repair_Hammer.md) and Fishing rod.
-    -   [Glider](Gliders.md).
+-   Buying most echo upgrades will apply their effects to previously created slots. Any of the Starter Weapons Tools or Equipment, Starting Knowledge, and Starting Notes will not be applied to pre-existing slots.
+-   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with Vow of Thorns AND Dealbreaker, it will still do this for unknown reasons.
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
     -   The [Boulder](Training_Gear.md)
@@ -362,9 +405,10 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   The other [World Events](World_Events.md) do not grant Echoes.
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
 -   Not only does using the Idol of Yun'shul count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the Fragments of Self. However, your deal if used in fragments must **not** be Resonance Reroll, or it will most likely remove it from your completed tasks.
--   Multifaceted makes the 5 innate [Aspect](Aspects.md) points such as using Vesperian will force 3 points into fortitude and 2 into willpower but with this echo upgrade you are able to freely move those points to be able to start with 0 into every stat when you start.
-    -   After purchasing Multifaceted, any pre-existing slot that didn't manually invest points into their innate attributes or previously had above 100 in any stat will have their points removed, allowing you to reallocate them.
--   Elementalist allows you to have more then 2 elements on character starts so rather then have just 2 maximum you can start with 4 or 3 or even all of them, with this you can also allocate your attunement points freely such as starting a character with 3 flame 2 ice 3 shadow and 2 gale or 9 bloodrend and 1 thunder etc.
+-   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a Vesperian, all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.
+    -   After purchasing Multifaceted, any pre-existing slot that didn't invest into stats that were increased by their Aspect will be able to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to reallocate them.
+    -   Unfortunately, after purchasing Multifaceted, any pre-existing slot that had above 100 in any stat will have their points removed. You can still reallocate them, but you won't be able to go above 100 in any stat.
+-   Elementalist allows you to have more then 2 elements on character starts so rather then have just 2 maximum you can start with 4 or 3 or even all of them, with this you can also allocate your attunement points freely such as starting a character with 3 Flame 2 Ice 3 Shadow and 2 Gale, or 9 Blood and 1 Thunder, etc. This will take points out of your starting points though.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Soulshot
-revid: 133664
+revid: 145074
 source: https://deepwoken.fandom.com/wiki/Soulshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Weapons, Flintlocks, Weapons with Unique Criticals, Developer Spec]
+categories: [Exclusive, Weapons, Pistols, Weapons with Unique Criticals, Developer Spec]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -12,7 +12,7 @@ notices:
 
 | Soulshot | |
 |---|---|
-| type | Flintlock |
+| type | Pistol |
 | requirements | 150 LHT |
 | damage | 30 |
 | scaling | LHT: 12 |
@@ -22,6 +22,8 @@ notices:
 | penetration | 50% |
 | chip damage | 10% |
 | special effect | Damage get increased heavily for each shot on a single enemy. |
+| stances | 1 Handed |
+| offhand | Yes |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
@@ -32,7 +34,7 @@ notices:
 
 ## Description
 
-The **Soulshot** is an Exclusive Flintlock; Not a lot is known about besides it's ramping up damage.
+The **Soulshot** is an Exclusive Pistol; Not a lot is known about besides it's ramping up damage.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 118022
+revid: 145054
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -28,7 +28,7 @@ categories: [Weapons, Spears]
 
 ## Description
 
-The Irontusk is one of the four starter weapons obtained by getting level 2 (50 echos) on the "Advanced Weapons" [Echoes](Echoes.md) Upgrade.
+The Irontusk is one of the four starter weapons obtained by spending Echoes. Irontusk is obtained by purchasing _Starter Weapon: Irontusk_ [Echo Unlock](Echoes.md) for 25 Echoes in [Character Creation](Character_Creation.md).
 
 ## Trivia
 

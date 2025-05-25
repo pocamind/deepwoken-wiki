@@ -1,9 +1,9 @@
 ---
 title: Silversix
-revid: 145005
+revid: 145072
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Flintlocks, Offhand Guns]
+categories: [Weapons, Pistols, Offhand Guns]
 ---
 
 # Silversix
@@ -28,13 +28,12 @@ categories: [Weapons, Flintlocks, Offhand Guns]
 
 ## Description
 
-The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on Advanced Weapons in [Character Creation](Character_Creation.md), requiring 75 Echoes total before being able to be selected as a starter weapon. A character starting with the Silversix will dual wield them, one in the main hand and one in the off-hand. If you want to wield this gun single-handed, unequip one of them at a campfire.
-
-(You need to unlock the [Quickfang](Quickfang.md) and [Irontusk](Irontusk.md) beforehand, each costing 25 Echoes to get.)
+The **Silversix** is a [gun](Guns.md) obtained by purchasing _Starter Weapon: Silversix_ [Echo Unlock](Echoes.md) for 25 Echoes in [Character Creation](Character_Creation.md). A character starting with the Silversix will dual wield them, one in the main hand and one in the off-hand. If you want to wield this gun single-handed, unequip one of them at a campfire.
 
 ## Trivia
 
--   The Silversix cannot be dropped nor stored
+-   The Silversix cannot be dropped nor banked.
+    -   Silversix can be banked if [enchanted](Enchantments.md).
 -   A single Silversix can fire six shots when loaded before requiring a reload. The third and fourth shot are interrupted by a kick.
 -   Known for being used by 20 power players for ranged bullet shots before Silversix lost its ability to fire projectiles as a sidearm.
 -   At max LHT, the damage is (19.8)

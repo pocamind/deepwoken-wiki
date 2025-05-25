@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 145018
+revid: 145059
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -2886,6 +2886,7 @@ _+1 Posture_
 Found from:
 
 -   Given from [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) during the [Tutorial](Tutorial.md)
+-   Obtained on spawn if you have the _Starter Equipment_ [Echo Unlock](Echoes.md)
 -   [Erisia](Erisia.md)
 -   [Brainsucker](Brainsucker.md)
 -   [First Layer](First_Layer.md)
@@ -4192,6 +4193,7 @@ Found from:
 
 Found from:
 
+-   Obtained on spawn if you have the _Starter Equipment_ [Echo Unlock](Echoes.md)
 -   [Fishing](Fishing.md)
 -   [Erisia](Erisia.md)
 -   [Brainsucker](Brainsucker.md)

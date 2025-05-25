@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 138587
+revid: 145057
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes, Creation]
@@ -28,10 +28,11 @@ categories: [Weapons, Greatswords, Echoes, Creation]
 
 ## Description
 
-The **Avenger** is a Greatsword [Heavy Weapon](Weapons.md) obtained by buying the fourth tier of Advanced Weapons in [Character Creation](Character_Creation.md). This will cost a total of 100 echoes to reach. Once you've bought it with echoes, you may choose it in the character creation screen.
+The **Avenger** is a Greatsword [Heavy Weapon](Weapons.md) obtained by purchasing the _Starter Weapon: Avenger_ [Echo Unlock](Echoes.md) for 25 Echoes in [Character Creation](Character_Creation.md). Once you've bought it with echoes, you may choose it in the character creation screen.
 
 ## Trivia
 
+-   Cannot be banked unless [enchanted](Enchantments.md) and cannot be dropped.
 -   At max HVY, the damage is (31.2)
 -   The Greataxe is superior in terms of DPS at Power 1, due to it having no endlag.
 -   The Avenger has the lowest penetration in the game, clocking in at 0%. This may be due to a mistype; someone must have forgotten to put 1 before the 0. It's also the only weapon in the game which is 0% pen, while weapons with no pen doesn't have it on the info.

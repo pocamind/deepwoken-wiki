@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 144878
+revid: 145062
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -151,8 +151,9 @@ Fire
 **Effect:** User forcefully slams down their blade coated in flames.
 
 -   Deals 35.88 (39.94 with 6 songchant) DMG, 10s CD at lvl 5
+-   Deals high posture damage.
+-   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has 9.18x PVE scale (35.88 PVP, 329.38 PVE DMG)
--   Deals high posture damage, becoming an instant-guardbreak at level 5.
 -   Inflicts Burn.
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
 -   Can be modified with Vibrant Gems, causing the attack to destroy more environment.

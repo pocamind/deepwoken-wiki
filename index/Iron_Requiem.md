@@ -1,9 +1,9 @@
 ---
 title: Iron Requiem
-revid: 145011
+revid: 145069
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Flintlocks, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Multiple Criticals]
+categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Multiple Criticals]
 ---
 
 # Iron Requiem
@@ -39,11 +39,11 @@ Critical has 42 base dmg with 5 ironsing scale, 0.4s windup, 14 posture per hit.
 
 Running critical has 12 base dmg per hit, 5 ironsing scale, 0.55s windup, 1.5 posture per hit.
 
-M1s without bullets apply Bleed dmg. M1s with bullets proc talents and have better range
+M1s without bullets apply Bleed dmg. M1s with bullets proc Talents and have better range
 
 ## Critical
 
-For the **standing critical**, the user fires a large bullet that explodes on contact. The critical attack reloads 1 bullet and applies 1 Rod if it lands. This critical can be used without ammunition, allowing you to use it for reloading purposes. Additionally, it also procs [Rapid Fire](Talents.md#outlaw) and thus can be used in rapid succession, however it will not proc this talent unless there is ammo loaded.
+For the **standing critical**, the user fires a large bullet that explodes on contact. The critical attack reloads 1 bullet and applies 1 Rod if it lands. This critical can be used without ammunition, allowing you to use it for reloading purposes. Additionally, it also procs [Rapid Fire](Talents.md#outlaw) and thus can be used in rapid succession, however it will not proc this Talent unless there is ammo loaded.
 
 For the **running critical**, whip around wildly and continuously fire the pistol around your opponent, applying a rod each time the pistol is fired. This critical can fire up to 4 or less bullets, and will not work if there is no ammo loaded.
 
