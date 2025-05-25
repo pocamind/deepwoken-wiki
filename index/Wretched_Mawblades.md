@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 144573
+revid: 144994
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide]
@@ -25,7 +25,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded 
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
-| description | "Born from a twisted experiment by the enigmatic lightborn smiths of the floating keep, the Mawblades are a testament to unspeakable treachery. Stripped of mortality and violently reshaped, the tortured souls within these blades endure a fate crueler than death, their teeth aching eternally as they are bound to the insatiable hunger for destruction." |
+| description | "Born from a twisted experiment by the enigmatic lightborn [sic] smiths of the floating keep [sic], the Mawblades are a testament to unspeakable treachery. Stripped of mortality and violently reshaped, the tortured souls within these blades endure a fate crueler than death, their teeth aching eternally as they are bound to the insatiable hunger for destruction." |
 
 ## Description
 
@@ -44,8 +44,6 @@ Slash forward with both blades, before spinning around in a bloody slash.
 -   The design of the blade is a mild homage to the _[Soulcalibur](https://en.wikipedia.org/wiki/Soulcalibur)_ series, specifically to [Soul Edge](https://soulcalibur.fandom.com/wiki/Soul_Edge) during his appearances in _[Soulcalibur II](https://en.wikipedia.org/wiki/Soulcalibur_II)_ and _[Soulcalibur III](https://en.wikipedia.org/wiki/Soulcalibur_III)_.[\[1\]](#cite-note-1)
 -   Rephika is a [Chrysid](Chrysid.md) surname, while Narsus is a [Khan](Khan.md) surname.
 -   Shortly after release, this weapon became infamous for doing hilariously high amounts of damage with its Critical Attack when Guard Breaking another player if enchanted with the Stone enchantment, enough to one shot players. This was confirmed to be a bug, and was promptly fixed in a [hotfix on the 9th of November 2024](Version_History/2024.md).
--   when initially released, the Wretched Mawblades only needed 55HVY to use, this was changed to the current requirements on [November 16th, 2024](Version_History/2024.md).
--   From it's description, Canary Rephika and Grimlock Narsus were experimented on by lightborns with the two becoming the mawblades.
 
 ## References
 

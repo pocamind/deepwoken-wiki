@@ -1,6 +1,6 @@
 ---
 title: Jim
-revid: 142276
+revid: 144991
 source: https://deepwoken.fandom.com/wiki/Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -73,7 +73,3 @@ The easiest way for one to do this, especially for lower powered individuals, is
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   His aspect variant appears to be Steppe.
