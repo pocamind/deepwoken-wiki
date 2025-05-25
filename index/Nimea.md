@@ -1,9 +1,9 @@
 ---
 title: Nimea
-revid: 137940
+revid: 145152
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Lore]
+categories: [Etrean NPCs, NPCs]
 ---
 
 # Nimea
@@ -22,7 +22,7 @@ categories: [Etrean NPCs, NPCs, Lore]
 
 Nimea is an NPC located inside a house in [The Hidden Village](The_Hidden_Village.md). She shares information about [Lightkeepers](Lightkeep.md), as well as a backstory on the situation of the Hidden Village, on the status of the civilians and what may have happened to them. She also talks about her relationship with the Lightkeeper of the Eastern Lighthouse, Viqh.
 
-She is a File [Etrean](Etrean.md) that wears the [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit. Looking at her wrinkles, it could be concluded that she is in Stage 2 of [Aging](Age.md), making her possibly 50-59 years old.
+She is a File [Etrean](Etrean.md) that wears the [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit. Looking at her wrinkles, it could be concluded that she is in Stage 2 of [Aging](Age.md), making her possibly 50–59 years old.
 
 ## Dialogue
 

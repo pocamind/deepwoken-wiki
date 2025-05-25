@@ -1,16 +1,14 @@
 ---
 title: Luminants
-revid: 144517
+revid: 145148
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Map, Mantras, Locations, Lore]
+categories: [Map, Mantras, Locations]
 ---
 
 # Luminants
 
-## Description
-
-Luminants are described to be certain regions of the world of Deepwoken. There are currently two Luminants in the game, which are the Etrean and Eastern Luminants respectively. There are many different sources that lead to the conclusion that all of Lumen was once united into one large continent, though the rising tides have split it into the 6 Luminants known today.
+**Luminants** are described to be certain regions of the world of Deepwoken. There are currently two Luminants in the game, which are the Etrean and Eastern Luminants respectively. There are many different sources that lead to the conclusion that all of Lumen was once united into one large continent, though the rising tides have split it into the 6 Luminants known today.
 
 ## Etrean and Eastern Luminants
 

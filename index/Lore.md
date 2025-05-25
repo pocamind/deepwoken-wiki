@@ -1,9 +1,9 @@
 ---
 title: Lore
-revid: 144311
+revid: 145147
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
+categories: [SpoilerPages, Pages with broken file links, Deepwoken]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
@@ -193,7 +193,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
     -   His own resonance is called Soul Siphon. It lets him extract power from effigies of the dead and those stolen bells on his hips are those effigies.[\[4\]](#cite-note-vy-4)
 -   Though he is an [Adret](Adret.md), he has a never before seen facial markings for the aspect.
 -   User of Bloodrend, granted to him by the Second Prophet.[\[1\]](#cite-note-rag-1)
--   He has a created his own special variant of the oath which is why he's known as the crimson scholar.[\[4\]](#cite-note-vy-4)
+-   He has a created his own special variant of the Oath which is why he's known as the crimson scholar.[\[4\]](#cite-note-vy-4)
 -   Slightly less powerful than a Power 20 player.[\[1\]](#cite-note-rag-1)
 -   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity. The time dilation affects him because he is literally standing on top of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 -   Despite not using them in the fight against him, he uses a pair of [Flareblood Kamas](Flareblood_Kamas.md) designed and created by him during his time as an apprentice under the Second Prophet.[\[3\]](#cite-note-kamas-3)
@@ -309,7 +309,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 ### The Dreadstar
 
 -   Located in the [Beloved Zofia](Beloved_Zofia.md).
--   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colors are inverted, ~but there is no indication of it being related to the Drowned God.~ (well this is wrong as if you talk to the dreadstar after you either killed all the elemental trainers or spend 10 knowledge to instantly progress the oath the dreadstar **CLEARLY** states, "You offer your heart to the **Keeper,** and lo, fate has claimed our enemies. In time, it will claim them all." The "Keeper," refers to yun'shul, the "keeper" of hearts.)
+-   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colors are inverted, ~but there is no indication of it being related to the Drowned God.~ (well this is wrong as if you talk to the dreadstar after you either killed all the elemental trainers or spend 10 knowledge to instantly progress the Oath the dreadstar **CLEARLY** states, "You offer your heart to the **Keeper,** and lo, fate has claimed our enemies. In time, it will claim them all." The "Keeper," refers to yun'shul, the "keeper" of hearts.)
 -   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the Song.
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, making The Song in you suppressed.
 -   Despite cutting all relations with the Song, a [Silentheart](Oath%253A_Silentheart.md) is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.

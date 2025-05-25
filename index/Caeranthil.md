@@ -1,14 +1,14 @@
 ---
 title: Caeranthil
-revid: 138416
+revid: 145137
 source: https://deepwoken.fandom.com/wiki/Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore]
+categories: [Destroyed locations]
 ---
 
 # Caeranthil
 
-## Caeranthil
+## Description
 
 Caeranthil was an island, swallowed by the [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), a colossal sea monster.
 

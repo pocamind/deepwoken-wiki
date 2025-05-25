@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 145065
+revid: 145119
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -546,7 +546,7 @@ Blunt
 -   With 6 songchant deals around 50 DMG (86.53 DMG (46.59 explosion +39.94 shadow gun) DMG if hit by shadow gun)
 -   Applies PVE tag to anyone who is near it.
 -   Explosion by Shadow gun doesn't happen if shadow gun was used before vortex sucked someone in.
--   Has no vertical range cap.
+-   Has a vertical range cap. Ex. Cannot grab someone from the bottom of a cliff at starswept next to a jump pad.
 -   You can shoot a Shadow Gun into the vortex after it has grabbed a target. Doing so will cause it to explode, dealing extra damage and stealing a high amount of Ether.
 -   Is compatible, and can be modified with Glass/Magnifying Stones to increase the range, though it seems to display diminishing returns.
 

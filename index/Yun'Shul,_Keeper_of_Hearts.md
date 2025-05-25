@@ -1,9 +1,9 @@
 ---
 title: "Yun'Shul, Keeper of Hearts"
-revid: 131014
+revid: 145161
 source: https://deepwoken.fandom.com/wiki/Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore]
+categories: [Drowned Gods]
 ---
 
 # Yun'Shul, Keeper of Hearts
@@ -16,7 +16,7 @@ _This is a page about the Drowned God. For their shrine that grants wishes, see 
 
 ## Overview
 
-**Yun'Shul, Keeper of Hearts** is a Drowned God within the world of _Deepwoken._ It is unknown what property they are the Drowned God of, but it is often speculated that it is of wishes, [resonances](Resonance.md), or souls.
+**Yun'Shul, Keeper of Hearts** is a Drowned God within the world of _Deepwoken._ It is unknown what property they are the Drowned God of, but it is often speculated that it is of wishes, [Resonances](Resonance.md), or souls.
 
 As with all the other known Drowned Gods, they are one of the strongest non-gag beings, while simultaneously operating on a scale, one both physical and moral, different to humanity.
 

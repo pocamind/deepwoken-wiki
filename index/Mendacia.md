@@ -1,9 +1,9 @@
 ---
 title: Mendacia
-revid: 137924
+revid: 145149
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, NPCs, Quests, Lore, Layer 2]
+categories: [Tiran NPCs, NPCs, Quests, Layer 2]
 ---
 
 # Mendacia

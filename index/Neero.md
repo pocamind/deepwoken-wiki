@@ -1,9 +1,9 @@
 ---
 title: Neero
-revid: 137938
+revid: 145151
 source: https://deepwoken.fandom.com/wiki/Neero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, Lore]
+categories: [Celtor NPCs, NPCs]
 ---
 
 # Neero

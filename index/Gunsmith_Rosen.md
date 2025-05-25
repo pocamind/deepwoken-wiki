@@ -1,9 +1,9 @@
 ---
 title: Gunsmith Rosen
-revid: 129983
+revid: 145141
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, Lore]
+categories: [Vesperian NPCs, NPCs]
 ---
 
 # Gunsmith Rosen

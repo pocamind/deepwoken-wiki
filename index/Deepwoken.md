@@ -1,9 +1,9 @@
 ---
 title: Deepwoken
-revid: 136347
+revid: 145139
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Lore]
+categories: [Pages with broken file links]
 ---
 
 # Deepwoken

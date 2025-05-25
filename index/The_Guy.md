@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 144920
+revid: 145084
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, Summer Company, Quests, NPCs located in the Eastern Luminant]
@@ -50,7 +50,7 @@ The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tend inside
 </tr>
 <tr>
   <td colspan="4">Now that's a good dog, loyal to <b>The Guy</b>. You see, we need to test our new springlock mechanisms with the silk of spider eggs. Ah, but why can't I do it myself, you may wonder? You see, <b>The Guy</b> is just sooo busy. I'm simply loaded with work! I cannot be bothered to enter a terrify-... <i>simple</i> spider cave. My workload simply won't allow it, I am above <i>meager</i> tasks such as that.</td>
-  <td colspan="2">[Passing the charisma check [50 Charisma] gives you The Guy's Eyeglasses and access to the cannon at Summer Isle.]</td>
+  <td colspan="2">[Passing the charisma check [40 Charisma] gives you The Guy's Eyeglasses and access to the cannon at Summer Isle.]</td>
   <td colspan="2">[Failing the charisma check makes him roast you.]</td>
 </tr>
 <tr>

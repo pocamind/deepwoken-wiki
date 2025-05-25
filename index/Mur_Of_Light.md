@@ -1,9 +1,8 @@
 ---
 title: Mur Of Light
-revid: 132849
+revid: 145150
 source: https://deepwoken.fandom.com/wiki/Mur_Of_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore]
 ---
 
 # Mur Of Light
