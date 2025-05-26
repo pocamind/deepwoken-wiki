@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 144301
+revid: 145207
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 -   Meet the following requirements:
     -   Have 40 Willpower
-    -   Have the 3 Talents from the Mental Fortress set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from Talent rolls, not equipment.
+    -   Have the 3 Talents from the Mental Fortress set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from Talent rolls, not equipment. (You can reroll these into different talents at the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) once you obtain the oath)
     -   Be blind, either through the **Blinded** Talent from Blindfolds or the Blind Flaw.
 -   Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 -   Above the bandit village lies the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Climb up the wall bordering the village to reach it.

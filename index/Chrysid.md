@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 142303
+revid: 145208
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -28,7 +28,7 @@ The Chrysid people are an aspect related to moths, inheriting their compound eye
   <ul>
     <li>Being attacked causes you to release Mothwing Dust, granting you vision of your attacker.
   <ul>
-    <li>People who attack you are highlighted for you to see. Useful to find people with long ranged attacks or in dark areas.</li>
+    <li>People who attack you are highlighted red for you to see. Useful to find people with long ranged attacks or in dark areas.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -49,10 +49,11 @@ The Chrysid people are an aspect related to moths, inheriting their compound eye
 
 -   The Chrysid used to be part of the Greathive aspects, alongside Vesperians and Ganymedes. However, they split off due to their belief of faith over technology.
 -   Despite splitting off from the Greathives, Chrysid are still welcome to reside there. As explained by Hiri, there are "no hard feelings" between the Greathives and Chrysids.
--   Many Chrysids choose to reside in the Lullaby Isles, an area surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
+-   Many Chrysids choose to reside in the Lullaby Isles, an archipelago surrounded by the Stoneseye Range, a dense ring of mountains outside the coast of Markor. The Isles hold fertile soil, resulting in rich agriculture, being directly supported by the Stoneseye Range's volcanic activity. This location is not seen in-game and only mentioned.
+-   Chrysids native to the Isles are known as Aecta (Aecti in plural), and speak in the Moonlit Dialect.
 -   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
 -   Within the central isles of the Lullaby Isles is a city-state where the council of the Moonlit Faith resides.
--   Hiri in Greathive Aratel and Lake in Upper Erisia reveal lore about the Chrysid.
+-   [Hiri](Hiri.md), [Liviu](Liviu.md), [Lake](Lake.md), and [Marro](Marro.md) reveal lore about the Chrysid.
 -   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
     
 
@@ -93,6 +94,6 @@ The Chrysid people are an aspect related to moths, inheriting their compound eye
 -   The [Hallowtide](Hallowtide.md) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
     -   Additionally, it'd also continue the trend of the Greathive aspects having inspiration for their design(s) taken from Hollow Knight.
 
--   With [Oath: Starkindred](Oath%253A_Starkindred.md) on Chrysid, you get special wings which are supposed to be "Moth" Wings. There's an image on the [Oath: Starkindred](Oath%253A_Starkindred.md) page.
--   On March 31st, 2025, Chrysids were given eyebrows.
-    -   On April 7th, 2025, Chrysids could chose to lose the eyebrows again
+-   With [Oath: Starkindred](Oath%253A_Starkindred.md) on Chrysid, you get special wings that take on the appearance of moth wings. There's an image on the [Oath: Starkindred](Oath%253A_Starkindred.md) page.
+-   On March 31st, 2025, Chrysids were given unique eyebrows.
+    -   On April 7th, 2025, Chrysids could choose to lose the eyebrows again.

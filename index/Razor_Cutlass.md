@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 144358
+revid: 145205
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Swords, Medium Weapons]
 
 The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily found in the [Starswept Valley](The_Starswept_Valley.md), [Songseeker](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be found in [Depths](The_Depths.md) chests or dropped by the [Crimson Terrapod](Terrapod.md).
 
-Being a medium weapons that deals bleed on top of its normal attacks, the Cutlass is effective at dealing very high damage with the [bleed](Weapons.md) effect and good PEN and boasts the highest weight of all medium weapons.
+Being a medium weapons that deals bleed on top of its normal attacks, the Razor Cutlass is effective at dealing very high damage with the [bleed](Weapons.md) effect and good PEN and boasts the highest weight of all medium weapons.
 
 This weapon is also notably one of the slowest available swords in the game, its swing speed only being .01 faster than the [Messer](Messer.md), and the starter-tier club, [Mace](Mace.md), which the [Messer](Messer.md) shares its swing speed stat with. The sheer power of the aforementioned stats make up for this weapon’s somewhat-slow swing speed quite a bit. As such, it's best used as a mid to endgame weapon.
 
