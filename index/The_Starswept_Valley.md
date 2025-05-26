@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 144902
+revid: 145215
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Locations in the Eastern Luminant]
@@ -94,7 +94,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Crucible_Rapier.md">Crucible Rapier</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Tanto.md">Tanto</a>.</li>
     <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Pernach.md">Pernach</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>.</li>
-    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Markor's_Inheritor.md">Markor's Inheritor</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Sovereign's_Punishment.md">Sovereign's Punishment</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Markor's_Inheritor.md">Markor's Inheritor</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Sovereign's_Punishment.md">Sovereign's Punishment</a>.</li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Legion_Shield.md">Khan Shield</a>.</li>
   </ul></td>

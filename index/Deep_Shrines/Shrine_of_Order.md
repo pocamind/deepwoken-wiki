@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 144946
+revid: 145217
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -36,6 +36,7 @@ For 10 Knowledge, balance your stats (up to a limit\*), but gain a random Flaw. 
 
 -   The main purpose of the Shrine of Order is allowing you to obtain expensive [Talents](../Talents.md) or [Mantras](../Mantras.md), to then take a portion of these points away to invest into other stats, allowing your builds to effectively have more points than intended.
 -   The stats that will be ordered are any of the stats that have at least 1 point invested in by the player. In the case of racial points, you need to invest 1 point (making it 3 or 4) for it to count.
+-   Free Points, including those created from the [Shrine of Mastery](Shrine_of_Mastery.md), are not taken into account when balancing stats - it is possible to, for example, power up by investing points into somewhere they won't fill a Talent prerequisite then use the Shrine of Mastery to remove enough points so that lowered stats that contributed to pre-shrine Talents (which can't be altered by the Shrine of Mastery) don't have too many points after using the Shrine of Order.
 -   Certain Talents such as [Reinforced Armor](../Talents.md), [Alloyblood](../Talents.md), [All the Dead Gods](../Talents.md), and [Collapsed Lung](../Talents.md) become weaker the lesser the attributes are applied.
 -   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.
 -   Mantras' upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.

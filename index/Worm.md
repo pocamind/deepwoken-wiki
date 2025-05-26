@@ -1,6 +1,6 @@
 ---
 title: Worm
-revid: 145211
+revid: 145212
 source: https://deepwoken.fandom.com/wiki/Worm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ Worms are a species endemic to [Scyphozia](First_Layer.md).
 
 They are lengthy gray organisms that live together in colonies in the sand, emerging every three hours. They have visible black, beady eyes and large, fleshy mandibles, used to move food into their beak. They feed on microbes and sea scum.[\[1\]](#cite-note-1)
 
-They are currently the subject of researched by [The Ignition Union](The_Ignition_Union.md), headed by [Merryweather](Merryweather.md). Their regular emergence is used by the Union for timekeeping, as attempting to do so with any other method results in times that are inconsistent with those on the surface.[\[2\]](#cite-note-2)
+They are currently the subject of researched by [The Ignition Union](The_Ignition_Union.md), headed by [Merryweather](Merryweather.md). Their regular emergence is used by the Union for timekeeping, as attempting to do so with any other method results in times that are inconsistent with those on the surface. The idea is that juvenile worms, placed in a sand-filled apparatus, would emerge at these set intervals, allowing the operator to tell the time. However, the worms have proved uncooperative with the Union.[\[2\]](#cite-note-2)
 
 ## Trivia
 
