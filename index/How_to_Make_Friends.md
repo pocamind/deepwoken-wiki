@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 124612
+revid: 145276
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -64,7 +64,7 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 
 -   You can't train charisma when not near an NPC or player.
 -   It is not usually recommended to type out the phrases yourself, you may simply open up Notepad and put the phrases in, then CTRL + C CTRL + V them when needed.
-    -   A helpful tool to use is [https://charisma-trainer.vercel.app](https://charisma-trainer.vercel.app) as it is faster than copying phrases from a notepad.
+    -   A few helpful tools to use are [https://charisma-trainer.vercel.app](https://charisma-trainer.vercel.app) or [https://ergonomic-charisma-trainer.vercel.app](https://ergonomic-charisma-trainer.vercel.app) (if you want to rebind your phrase keybinds) as they are faster than copying phrases from a notepad.
 -   Many of the phrases in How To Make Friends are really corny and often reference a aspect.
     -   For example, Hivekin refers to the [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) and [Chrysid](Chrysid.md) aspects (as they live in the hive)
 -   **Charisma** does not train faster when reciting phrases next to an NPC. This has been tested on [this video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk9qCY2Mz5AhWqFjQIHZ4pDBQQtwJ6BAgOEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWbl-w6EovHY&usg=AOvVaw1R6klHjwBpxc3bj52TuDyr) (made by Birbingish)

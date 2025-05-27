@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 145047
+revid: 145277
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -764,6 +764,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   **November 10, 2023** - Harrowing is made available from the [Hallowtide '23 Medal](Seasonal_Medals.md) for 10 Knowledge.
 -   **April 5, 2024** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
 -   **August 23, 2024** - Equipment enchantment can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
+-   **February 1, 2025** - The weapon enchant Curse of rhaemen's ember is added.
 
 ## Tips/Trivia
 
