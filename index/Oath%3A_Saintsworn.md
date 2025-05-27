@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 144267
+revid: 145275
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -87,6 +87,8 @@ To progress Saintsworn, you need to complete [World Events](World_Events.md) ([T
 With the first completion of the World Event, you will get Ether Proselyte, Hero's Assist and Saint's Negation.
 
 With the second completion, you will get Saint's Synergy and Saint's Overload.
+
+Alternatively you can use 10 knowledge to skip the progression if you've fully progressed this oath before.
 
 ## Critical(s)
 

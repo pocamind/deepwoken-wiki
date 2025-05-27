@@ -1,6 +1,6 @@
 ---
 title: Erosius Amaltus Urivortus Alistus Casius Walistoshus
-revid: 145257
+revid: 145270
 source: https://deepwoken.fandom.com/wiki/Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, NPCs located in the First Floor of the Second Layer]
@@ -22,7 +22,7 @@ Erosius Amaltus Urivortus Alistus Casius Walistoshus (short, Erosius) is a Kyrsa
 
 This NPC holds the quest to get the talent Ethiron's Gaze, which allows you to see through the fog present in the first floor of Layer 2.
 
-You will need to talk to Erosius on subsequent Layer 2 runs to unlock the blue barrier seperating the [Firfire Caverns](Firfire_Caverns.md) and the [Nest Corridor](Nest_Corridor.md).
+You will need to talk to Erosius on subsequent Layer 2 runs to unlock the blue barrier that separates the [Firfire Caverns](Firfire_Caverns.md) and the [Nest Corridor](Nest_Corridor.md).
 
 ## Quest
 

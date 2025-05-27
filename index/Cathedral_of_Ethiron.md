@@ -1,9 +1,9 @@
 ---
 title: Cathedral of Ethiron
-revid: 124362
+revid: 145264
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Layer 2]
+categories: [Locations, Layer 2]
 ---
 
 # Cathedral of Ethiron
@@ -20,13 +20,9 @@ The Cathedral of Ethiron is a landmark in [The Maw of Ethiron](The_Maw_of_Ethiro
 
 ## Contents
 
-[Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) can be found here. Once defeated, an opening leading to [New Kyrsa](Second_Layer/New_Kyrsa.md) and a light hook embroidered by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) will appear.
+[Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) can be found here, where his fight is initiated. Once defeated, an opening leading to [New Kyrsa](Second_Layer/New_Kyrsa.md) and a light hook embroidered by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) will appear.
 
 ## Trivia
 
--   There are numerous Apprentice Diver corpses, as well as one of an Ignition Deepdelver, hanging on hooks, presumably killed by Chaser.
-    -   This is likely the reason for the room's red hue, as the air is so polluted by the sheer amount of blood that has been spilled.
-        
-        File:ThePeriodManDefeat.png
-        
-        Cathedral of Ethiron after Chaser defeat
+-   There are numerous Apprentice Diver corpses alongside the corpse of a Deepdelver hung on hooks, presumably killed by Chaser.
+    -   Some of the Diver corpses bear resemblance to [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>), though it is highly unlikely that they are the same people who are killed.

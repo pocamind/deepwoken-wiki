@@ -1,6 +1,6 @@
 ---
 title: Aeroaseluniris Oricalum Forentus
-revid: 145262
+revid: 145265
 source: https://deepwoken.fandom.com/wiki/Aeroaseluniris_Oricalum_Forentus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Floor of the Second Layer]
@@ -16,7 +16,7 @@ categories: [NPCs, NPCs located in the First Floor of the Second Layer]
 
 “ Leader was right, you fringewalkers really are insufferable. ”
 
-― Squibby Drats Bigcheese Casius Tumbus Ultra
+― Aero when the player misnames him
 
 Aeroaseluniris Oricalum Forentus, aka Aero, is an NPC that greets you when you first enter the town of [Firfire](Firfire.md) within the first floor of Layer 2. You do not need to talk to him to progress in the dungeon, but he does offer you some instructions.
 
