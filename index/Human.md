@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 144936
+revid: 145263
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -37,11 +37,12 @@ All aspects were formerly "human" before they made their hereditary vows which c
 
 **Weaknesses:**
 
-We are only human, after all.
+Only human, after all.
 
 ## Trivia
 
--   The existence of Metallica also means that, in Deepwoken canon, Dave Mustaine also exists and is a human which more importantly means that the terrible band he started (Megadeth) also exists in Deepwoken.
+-   [People in the world of Deepwoken are still considered humans](https://prnt.sc/yv7jlfpUKWrk), regardless of whatever Aspect they are. This means that these people in particular should be considered Pure Humans/Original Humans/etc.
+-   The existence of Metallica also means that, in Deepwoken canon, Dave Mustaine also exists and is a human, which more importantly means that the terrible band he started (Megadeth) also exists in Deepwoken.
 -   The songs that Humans in-game are able to perform are:
     -   72 Seasons - Metallica
     -   King Nothing - Metallica

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 145109
+revid: 145226
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -130,6 +130,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Lance Leshi](Lance.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor |  |
 | [Lars](Lars.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Part of the 'Legion Scout' [quest](Quests.md) | Is dead |
 | [Legendary Boot](Legendary_Boot.md) | Unaligned | [Erisia](Erisia.md) | It's a boot. |  |
+| [Liviu](Liviu.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | None |  |
 | [Llevyn](Llevyn.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | Brings down the deepdriller if you activated the generator |  |
 | [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
 | [Lucien](Lucien.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |

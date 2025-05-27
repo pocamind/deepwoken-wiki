@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 144750
+revid: 145251
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -106,7 +106,7 @@ The Shipwright is located on the rocky beach within a castle like structure.
 
 -   Allows you to make a guild/leave an existing one.
 
-#### _Trig \[QUEST\]_
+#### _Trig (QUEST)_
 
 [Trig](Trig.md) is an NPC at the entrance of the Guildhall/Inn (if you have interest points on, it's marked as Guildhall). His quest sends you to find [Asius](Asius.md), a merchant who hasn't been paying his dues to the Summer Company.
 
@@ -173,7 +173,7 @@ File:Fountain.png
 
 Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_Encounters.md).
 
-#### Explosive Crate \[QUEST\]
+#### Explosive Crate (QUEST)
 
 -   Summer Company Thugs with dead Ignition Union Footsoldiers, surrounding a crate with explosives, which you can turn in to Scope for a chance at good loot.
 -   Explosive Crate Event

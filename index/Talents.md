@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145014
+revid: 145255
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -919,6 +919,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   When using Crystallization Path, it'll spawn the VFX and play the sound effects for creating crystals, but won't actually inflict any.
     -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
 
+### Drowned Secret
+
+> _**"I am unknowable."**_
+
+-   Ethiron's Gaze \[Common Talent\] - Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the Eternal Gale more clearly now.
+    -   Obtainment: While within the [Second Layer](Second_Layer.md), complete the [quest](Quests.md#ethirons-gaze) given to you by Erosius Amaltus Urivortus Alistus Casius Walistoshus.
+
 ### Duelist
 
 > _**"I am a competent duelist."**_
@@ -1329,11 +1336,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's physical armor. Applied Multiplicatively before PEN is applied.
     -   Doesn't bypass PEN cap/Doesn't work if you hit 50% pen cap.
-    -   Prerequisites: 30 Medium/Light Weapon and have completed the \[\[Summer Isle#Trig \[QUEST\]|Trig quest\]\] (helping The Summer Company)
+    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
     -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent.
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
-    -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the \[\[Summer Isle#Trig \[QUEST\]|Trig quest\]\]. (helping Asius)
+    -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](Summer_Isle.md#trig-quest). (helping Asius)
     -   This Talent simply removes armor damage from bullets, it has no effect on PEN of bullets.
 
 -   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD

@@ -1,9 +1,9 @@
 ---
 title: Kyrsgarde
-revid: 143271
+revid: 145247
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Floor 2, Layer 2]
+categories: [Monsters, Floor 2, Floor 1, Layer 2]
 ---
 
 # Kyrsgarde
@@ -30,8 +30,16 @@ A strange species of people who live within [The Eternal Gale](Second_Layer.md),
 
 Friendly Kyrsans are found in The Ethironal Shrine, with only three in The City being friendly.
 
+Shrine Kyrsans
+
 -   [Makolis Pariah Katatonicus](Makolis_Pariah_Katatonicus.md)
 -   [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md)
+-   [Aesalath Kalafrid](Aezeroth_Kaladin.md)
+-   [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md)
+-   [Eltus Ferikus Pleristus Zzetchus](Eltus_Ferikus_Pleristus_Zzetchus.md)
+
+City Kyrsans
+
 -   [Naerotiv](Naerotiv.md)
 -   [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md)
 -   [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md)

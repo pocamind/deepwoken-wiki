@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 145207
+revid: 145256
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -121,6 +121,5 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 -   As stated in an interview with the owner of the game, Raguza, he got the inspiration for Blindseer when he was cosplaying Lee Sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the Trophy Room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
 -   **Be extremely careful** with who you let into your trial, as you have no idea if the Pathfinder you're helping has an [Echo modifier](Echoes.md) such as Vow of Thorns or Deep Champion, or if they have activated the [Shrine of Courage](Shrine_of_Courage.md). It's recommended to bring Pathfinder friends to help you progress Blindseer.
--   The Blindseer eye is a repeated symbol throughout the game, used for unparryable attacks.
-    -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the [Vesperian](Vesperian.md) variation of Blindseer.
-    -   Unparryable attacks of [Monsters](Monsters.md), weapons, and mantras are accompanied by a red Blindseer eye (e.g. [Bone Keeper](Bone_Keeper.md)'s grab).
+-   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the [Vesperian](Vesperian.md) variation of Blindseer.
+-   A red Blindseer eye was used as the visual warning for unparryable attacks before being replaced with the dynamic Telegraphing system which shows a variety of glyphs instead. (Changed in the May 24, 2025 update)
