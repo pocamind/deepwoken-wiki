@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 138631
+revid: 145282
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons, Items]
@@ -24,7 +24,7 @@ categories: [Weapons, Clubs, Medium Weapons, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker Wilds, Starswept Valley, Rogue Construct Chests, Primadon, Merchant Ships |
+| obtainment | Songseeker Wilds, Starswept Valley, Rogue Construct Chests, Primadon, Merchant Ships, Saramaed Hollow |
 | description | "..." |
 
 ## Description

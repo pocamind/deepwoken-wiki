@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 143987
+revid: 145295
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -30,8 +30,8 @@ Chainwardens are strong enforcers of justice serving [The Central Authority](The
 ## Obtainment
 
 1.  The Oath requires at least 40 points combined into Strength, Fortitude and Willpower, such as 20 Strength, 5 Fortitude and 15 Willpower or 0 Strength, 30 Fortitude and 10 Willpower (You can have more than 40 in those three stats).
-2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with Friend rep or higher (requirement is actually somewhat higher than the minimum for Friend rep), and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
-3.  After talking to the hostage below the building, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He usually spawns at the top of the castle. **NOTE: Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.** Upon defeating him, you will be granted the Oath. (Note, if more than one person tries to obtain the Oath, Emar Vend will spawn only ONCE. Whoever spawns him gets the Oath from the grip but, after getting kill credit, go back to Vice Warden Morredh and he will instead give you the Oath.)
+2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with slightly lower than [Ally Rep](Reputation.md) or above; and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
+3.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He spawns on the left pillar of the castle. **NOTE: Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.** Upon defeating him, you will be granted the Oath. (Note, if more than one person tries to obtain the Oath, Emar Vend will spawn only ONCE. Whoever spawns him gets the Oath from the grip but, after getting kill credit, go back to Vice Warden Morredh and he will instead give you the Oath.)
 
 Chainwarden **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, as the Vice Warden will insult you.
 
@@ -46,13 +46,13 @@ Known humanoids bosses are:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [The Ferryman](The_Ferryman.md) (If you are using Ferryman to progress Chainwarden, remember to use Restrain constantly when he's low to make sure he's chained when he dies.)
+-   [The Ferryman](The_Ferryman.md) (Be wary chain auto clears on Ferryman, meaning you have to finish him off with Restain)
 
 ## Effects
 
 The Oath grants an extra Wildcard and 2 Combat mantra slots.
 
-As for appearance, it adds a chained gauntlet to your left arm, and a chained belt to the waist. While the chains are able to be dyed, the gauntlet is not. If a pair of Cestus is equipped, the gauntlet overrides the appearance of the Cestus on the left arm. This strangely also applies to the [Anklets of Alsin](Anklets_of_Alsin.md), only having the right leg use the anklet, despite the gauntlet not being attached to the leg.
+As for appearance, it adds a chained gauntlet to your left arm, and a chained belt to the waist. While the chains are able to be dyed, the gauntlet is not. If a pair of Cestus is equipped, the gauntlet overrides the appearance of the Cestus on the left arm.
 
 ## Abilities
 
@@ -60,38 +60,44 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   _Deliver a powerful kick that binds your opponent's soul to yours._
     -   Deals 30 Oath damage.
     -   Damage can be increased further with the talent Perpetual Wrath, increasing at intervals of 8 up to a total of 54 Oath damage.
-    -   Applies a chain that halts the opponent's mobility.
-    -   _**Heavily**_ reduced cooldown on hit/block.
-    -   Applying a Bloodless gem on Restrain appears to not reduce the damage at all, but still heals you.
-    -   Chain is applied even if the mantra dodged or blocked, but not when parried
+    -   Most damage modifiers have no effect on the mantra, including Tough Love and Return to the Dark Ages. ([Isshin's ring](<Isshin's_Ring.md>) will still bypass this however)
+    -   Applies a chain that gradually lowers the opponent's walk speed based on distance past 10 studs, however it does not prevent any other form of mobility ex. sliding/dodging.
+    -   The chain effect will clear either once the opponent is above 20 studs away, after using Rupture, or after 30s pass from the chain being first applied; resetting all Perpetual Wrath stacks.
+    -   Bloodless gem has zero effect, not lowering damage or providing healing, however all other gems still apply correctly.
+    -   Has chip damage.
+    -   10s cooldown, however landing the mantra on a target/their block, the cooldown is reduced to 1s. (Stacks with [blessed gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems) when landed)
+    -   If interrupted, the cooldown will be 10s. (Since 3/15/2025)
 -   Obtainment: Obtained with the Oath itself.
 
 -   **Impel** - **Combat Mantra**
     -   _Blast through your opponent's guard and pull them towards you._
-    -   Fire 4 dark blasts at your cursor, chaining those hit by at least 3 blasts. Enemies hit by the mantra while chained will then get pulled and kicked away, similar to Chain Lash (will not remove chains).
-    -   Aimable with your mouse.
-    -   Each orb deals a remarkably low 5.1 damage but the subsequent Chain Lash does 45 damage, totaling at 65.4 damage total if everything lands.
+    -   Orbs have a maximum range of 25 studs.
+    -   Fires 4 projectiles in the direction you are looking, hitting an enemy with an orb past 10 studs will allow you to proc Chain Lash by m1ing, along with applying a chain to unchained enemies.
+    -   Can be mouse aimed out of shiftlock.
+    -   Each orb deals a remarkably low 5 damage but the subsequent Chain Lash does 45 damage, totaling at 65 damage total if everything lands.
+    -   The chain effect and Chain Lash will proc through block past 10 studs.
     -   This mantra has a 15 second cooldown.
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Rupture** - **Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
-    -   On base use, readies two devastating punches that deals damage and dazes on hit. The second punch will only commence if the first one hits a valid target.
-    -   Surprisingly, the non-chained version is extremely fast, around the same speed as Exhaustion Strike with lesser range, two-hits, much lower cooldown and more damage.
-    -   On a chained target, the user pulls on the chain, dealing damage and exploding enemies away from **your camera placement**.
-    -   Base variant deals 35 damage (20 + 15), chained variant deals 45 damage.
-    -   Similarly to Restrain, the damage on base Rupture is not reduced at all by Bloodless, but it strangely still heals you.
-    -   If you add a [reversal spark](Mantra_Modifiers.md), it will send enemies away in the **opposite way of your camera.**
+    -   On base variant's use, readies two devastating punches that deals damage and dazes on hit. The second punch will only commence if the first one hits a valid target.
+    -   If used while an enemy is chained the mantra will very strongly **fling enemies away from your relative direction**, sequentially using the mantra above opponents will wallbang them off of the ground.
+    -   Base variant deals 39 damage (25 + 14), while chained variant deals 44 damage within 10 studs of your opponent.
+    -   Chained variant is affected by damage falloff past 10 studs, with ~33% damage reduction at ~30 studs and ~5% at ~12 studs.
+    -   Adding a [reversal spark](Mantra_Modifiers.md), will much less dramatically send enemies downwards in the **opposite direction of your camera**, but remove all ability to wallbang.
+    -   Chain variant has a hard limit of 20 studs, ignoring any input past that distance, despite a chain being present; causing the input to feel buggy at a certain distance.
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
     -   Damage stacks are independent from person to person.
-    -   After using Restrain 3+ times, casting Restrain will cause an AOE blast.
+    -   After using Restrain 3+ times, casting Restrain will cause an small AOE blast.
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Chain Lash - Passive:** On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
-    -   Using an M1 after the chain has been pulled with cause you to kick your foes, sending them flying.
-        -   The Chain applied can be used for Rupture.
+    -   Using an M1 after the chain has been pulled with cause you to kick your foes, sending them flying in the direction you are looking.
+    -   Applies chain on flourish, along with forcibly pulling them back to your current location if they are within 20 studs of you.
+        -   Will not provide Perpetual Wrath stacks on chained targets.
     -   The kick deals approximately 45 damage, and is unknown to be reduced by any amount of armor.
 -   Obtainment: Obtained after the second _chained_ Hunted Player/Humanoid Boss grip.
 

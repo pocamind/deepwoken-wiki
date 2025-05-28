@@ -1,6 +1,6 @@
 ---
 title: Worm
-revid: 145212
+revid: 145284
 source: https://deepwoken.fandom.com/wiki/Worm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,6 +24,7 @@ They are currently the subject of researched by [The Ignition Union](The_Ignitio
 
 -   They're stated to emerge every three hours, but they emerge every ten minutes in the game due to time compression, given this is a video game.
 -   According to Nuttoons, [the Divers](The_Divers.md) also make use of worms for timekeeping,[\[3\]](#cite-note-3) but this is not supported by the game itself nor the word of other developers.[\[4\]](#cite-note-4)
+-   They're likely based on bobbit worms.
 
 ## References
 
