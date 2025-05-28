@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 145325
+revid: 145326
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -66,7 +66,6 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   The chain effect will clear either once the opponent is above 20 studs away, after using Rupture, or after 30 seconds pass from the first chain being applied; resetting all Perpetual Wrath stacks.
         -   Chain duration will always be forcibly reset 30 seconds after the first chain was applied, regardless of if the chain was removed, reapplied, or Perpetual Wrath is procced. (Bug)
     -   Bloodless gem has zero effect, not lowering damage or providing healing, however all other gems still apply correctly.
-    -   Has chip damage.
     -   Ignores insignia gem.
     -   10 second cooldown, however landing the mantra on a target/their block, the cooldown is reduced to 1 second. (Stacks with [blessed gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems) when landed)
     -   If interrupted, the cooldown will still be 10 seconds. (Since 3/15/2025)
