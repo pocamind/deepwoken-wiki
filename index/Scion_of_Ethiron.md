@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 144910
+revid: 145318
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -225,7 +225,7 @@ This list may be missing items, please help us by filling in the gaps.
     <li><b><font>Alloyed Weapons</font></b>: N/A</li>
     <li><b><font>Generic Weapons</font></b>:
   <ol>
-    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
     <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kyrsblade.md">Kyrsblade</a>, <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
     <li><b>Heavy Weapons</b>: <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Railblade.md">Railblade</a>.</li>
   </ol></li>

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 145062
+revid: 145313
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -958,7 +958,6 @@ N/A
 -   Freezes user in place for a brief moment after casting.
 -   Restores some of the user's Sanity.
 -   Can be upgraded with the **Denial Repulse** Talent, causing a small AOE explosion upon receiving lethal damage.
--   Can be modified with Vibrant Gems, increasing both the healing and the signs required for ritual cast.
 
  |
 | 

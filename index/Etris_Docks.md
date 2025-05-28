@@ -1,6 +1,6 @@
 ---
 title: Etris Docks
-revid: 140348
+revid: 145316
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -50,7 +50,7 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 ### [Great Megalodaunt Rumbling](The_Great_Sharko_Rumbling.md) Remembrance Shrine
 
 -   "May The Depths be merciful to the souls we lost on that dreadful day"
-    -   Using any Emote next to the shrine will summon [Destroyman III](Destroyman_III.md), he can be unsummoned by Emoting again.
+    -   Using any Emote next to the shrine will summon [Destroyman III](Destroyman_III.md). He can be unsummoned by Emoting again.
 
 ## Maps
 

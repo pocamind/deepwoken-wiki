@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 144346
+revid: 145319
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons, Items]
@@ -23,7 +23,7 @@ categories: [Weapons, Rapiers, Light Weapons, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Miner's Landing, Songseeker Wilds, Starswept Valley, Deep Widow, Duke Erisia, Moon's Eyrie, The Depths, Maestro Evengarde Rest, Lodestar, Heart of Enmity, Dread Serpent, Chaser, War Mode |
+| obtainment | Minityrsa, Miner's Landing, Songseeker Wilds, Starswept Valley, Deep Widow, Scion of Ethiron, Duke Erisia, Moon's Eyrie, The Depths, Maestro Evengarde Rest, Lodestar, Heart of Enmity, Dread Serpent, Chaser, War Mode |
 | description | "Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crastaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'." |
 
 ## Description

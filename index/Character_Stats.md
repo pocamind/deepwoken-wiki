@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 139554
+revid: 145304
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -50,6 +50,8 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 -   How to increase: Oaths, Talents
 
 ## Equipment Bonuses
+
+Check out this website to better understand the calculation and try it out interactively. [\[LINK\]](https://deepwoken-armor-resistance.vercel.app/)
 
 ### Armor
 

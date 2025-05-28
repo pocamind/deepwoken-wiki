@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 145295
+revid: 145325
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 | Oath: Chainwarden | |
 |---|---|
-| oath_req | Friend+ Reputation with The Central Authority, A sum of 40 points invested in Strength, Fortitude and Willpower |
+| oath_req | Greater than Friend Reputation with The Central Authority, A sum of 40 points invested in Strength, Fortitude and Willpower |
 | effects | +1 Wildcard Mantra slot+2 Combat Mantra slot |
 
 “ Chain those who oppose our justice. Should you find someone truly worthy of being ensnared by our chains, the Words will surely find you. ”
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Description
 
-**[Oath](Oaths.md): Chainwarden** is one of the 16 obtainable Oaths in _Deepwoken_. The Oath specializes in conjuring chains on foes, subsequently crippling their mobility while also offering mantras that deal significant Oath damage if used correctly.
+**[Oath](Oaths.md): Chainwarden** is one of the 16 obtainable Oaths in _Deepwoken_. This Oath specializes in conjuring immobilizing chains on foes, crippling their mobility while also offering mantras that deal significant Oath damage if used correctly.
 
 “ What is it? You had better not be wasting my time. There's filth that requires scraping off the map. ”
 
@@ -29,9 +29,10 @@ Chainwardens are strong enforcers of justice serving [The Central Authority](The
 
 ## Obtainment
 
-1.  The Oath requires at least 40 points combined into Strength, Fortitude and Willpower, such as 20 Strength, 5 Fortitude and 15 Willpower or 0 Strength, 30 Fortitude and 10 Willpower (You can have more than 40 in those three stats).
+1.  The Oath requires at least 40 points combined into either **Strength, Fortitude and Willpower**; such as 20 Strength, 5 Fortitude and 15 Willpower, or 0 Strength, 30 Fortitude and 10 Willpower.
 2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with slightly lower than [Ally Rep](Reputation.md) or above; and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
-3.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He spawns on the left pillar of the castle. **NOTE: Emar Vend may break and not spawn sometimes and is unknown what exactly causing this. Rejoining on a new server will fix the issue and spawn the NPC.** Upon defeating him, you will be granted the Oath. (Note, if more than one person tries to obtain the Oath, Emar Vend will spawn only ONCE. Whoever spawns him gets the Oath from the grip but, after getting kill credit, go back to Vice Warden Morredh and he will instead give you the Oath.)
+3.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He will spawn on top the castle above the ladder. **NOTE: [Emar Vend](Emar_Vend.md) may sometimes not spawn; rejoining to another server should resolve this issue.** Upon defeating him, you will be granted the Oath.
+4.  If obtaining this with a friend and you don't receive kill credit after dealing damage to [Emar Vend](Emar_Vend.md), head back to [Vice Warden Morredh](Vice_Warden_Morredh.md) and he will provide you the oath.
 
 Chainwarden **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, as the Vice Warden will insult you.
 
@@ -46,7 +47,7 @@ Known humanoids bosses are:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [The Ferryman](The_Ferryman.md) (Be wary chain auto clears on Ferryman, meaning you have to finish him off with Restain)
+-   [The Ferryman](The_Ferryman.md) (Be wary as chains auto clear on Ferryman, meaning you may have to finish him off with Restain)
 
 ## Effects
 
@@ -58,45 +59,62 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 -   **Restrain - Combat Mantra**
     -   _Deliver a powerful kick that binds your opponent's soul to yours._
-    -   Deals 30 Oath damage.
-    -   Damage can be increased further with the talent Perpetual Wrath, increasing at intervals of 8 up to a total of 54 Oath damage.
-    -   Most damage modifiers have no effect on the mantra, including Tough Love and Return to the Dark Ages. ([Isshin's ring](<Isshin's_Ring.md>) will still bypass this however)
-    -   Applies a chain that gradually lowers the opponent's walk speed based on distance past 10 studs, however it does not prevent any other form of mobility ex. sliding/dodging.
-    -   The chain effect will clear either once the opponent is above 20 studs away, after using Rupture, or after 30s pass from the chain being first applied; resetting all Perpetual Wrath stacks.
+    -   Deals 34 Oath damage.
+    -   Damage is further increased with the talent Perpetual Wrath, increasing at intervals of 9 capping to a total of 61 Oath damage per use.
+    -   Most damage modifiers/resistances have no effect on this mantra, including Tough Love and Return to the Dark Ages. ([Isshin's ring](<Isshin's_Ring.md>) will still bypass this however)
+    -   Applies a chain that gradually lowers the opponent's walk speed based on distance past 10 studs until their movement speed equates nearly 0; however it will not prevent any other form of mobility ex. sliding/dodging, allowing the opponent to easily disconnect the chain at a distance.
+    -   The chain effect will clear either once the opponent is above 20 studs away, after using Rupture, or after 30 seconds pass from the first chain being applied; resetting all Perpetual Wrath stacks.
+        -   Chain duration will always be forcibly reset 30 seconds after the first chain was applied, regardless of if the chain was removed, reapplied, or Perpetual Wrath is procced. (Bug)
     -   Bloodless gem has zero effect, not lowering damage or providing healing, however all other gems still apply correctly.
     -   Has chip damage.
-    -   10s cooldown, however landing the mantra on a target/their block, the cooldown is reduced to 1s. (Stacks with [blessed gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems) when landed)
-    -   If interrupted, the cooldown will be 10s. (Since 3/15/2025)
+    -   Ignores insignia gem.
+    -   10 second cooldown, however landing the mantra on a target/their block, the cooldown is reduced to 1 second. (Stacks with [blessed gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems) when landed)
+    -   If interrupted, the cooldown will still be 10 seconds. (Since 3/15/2025)
 -   Obtainment: Obtained with the Oath itself.
 
 -   **Impel** - **Combat Mantra**
     -   _Blast through your opponent's guard and pull them towards you._
-    -   Orbs have a maximum range of 25 studs.
-    -   Fires 4 projectiles in the direction you are looking, hitting an enemy with an orb past 10 studs will allow you to proc Chain Lash by m1ing, along with applying a chain to unchained enemies.
+    -   Orbs have a maximum range of 25 studs, although applied chains will still quickly disconnect past 20 studs.
+        -   Has an very small AOE explosion at the end of it's range, however doesn't apply chain.
+    -   Fires 4 projectiles in the direction you are looking, hitting an enemy with an orb past 10 studs will allow you to proc Chain Lash by M1ing, along with applying a chain to unchained enemies.
+        -   Despite Impel's range, Chain Lash has a range of 20 studs, M1ing after landing Impel past 20 studs will momentarily stun you.
+    -   Does not cancel on parry nor has auto parry frames forcing the opponent to spam parry in order to defend.
     -   Can be mouse aimed out of shiftlock.
-    -   Each orb deals a remarkably low 5 damage but the subsequent Chain Lash does 45 damage, totaling at 65 damage total if everything lands.
+    -   Each orb deals a remarkably low 5 damage, but deal very heavy posture, incentivizing hitting blocks rather than direct hits.
+    -   Affected by slight damage falloff past 10 studs.
     -   The chain effect and Chain Lash will proc through block past 10 studs.
+    -   The chain effect grants a singular Perpetual Wrath stack on unchained opponents.
     -   This mantra has a 15 second cooldown.
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Rupture** - **Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
-    -   On base variant's use, readies two devastating punches that deals damage and dazes on hit. The second punch will only commence if the first one hits a valid target.
-    -   If used while an enemy is chained the mantra will very strongly **fling enemies away from your relative direction**, sequentially using the mantra above opponents will wallbang them off of the ground.
-    -   Base variant deals 39 damage (25 + 14), while chained variant deals 44 damage within 10 studs of your opponent.
-    -   Chained variant is affected by damage falloff past 10 studs, with ~33% damage reduction at ~30 studs and ~5% at ~12 studs.
+    -   On base variant's use, readies two devastating punches that deals damage and dazes on hit. The second punch will only commence if the first one hits a valid target/block.
+    -   If used while an enemy is chained the mantra will very strongly **fling enemies away from your relative direction**; sequentially using the mantra above opponents will wallbang them off of the ground.
+    -   Base variant deals 40 damage (25 + 15), while chained variant deals 45 damage within 10 studs of your opponent.
+    -   Affected by slight damage falloff past 10 studs.
     -   Adding a [reversal spark](Mantra_Modifiers.md), will much less dramatically send enemies downwards in the **opposite direction of your camera**, but remove all ability to wallbang.
-    -   Chain variant has a hard limit of 20 studs, ignoring any input past that distance, despite a chain being present; causing the input to feel buggy at a certain distance.
+    -   Chain variant ignores insignia gem.
+    -   Chain variant is limited to 20 studs, even if there is still a chain, it will ignore the input; causing the mantra to feel buggy at a certain distance.
+    -   Chain variant will completely prevent dodges after landing for 1.35 seconds regardless of wallbangs; allowing for true combos with mantras such as ice eruption. This effect currently goes through block. (Bug)
+    -   As of patch note 5/24/2025 chain variant has no endlag on M1s and crits. (Bug)
+    -   This mantra has a 15 second cooldown.
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
     -   Damage stacks are independent from person to person.
-    -   After using Restrain 3+ times, casting Restrain will cause an small AOE blast.
+    -   Procs through block.
+    -   Does not reset chain duration. (Bug?)
+    -   After using Restrain 3+ times, landing Restrain will cause an small AOE blast, along with special SFX.
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Chain Lash - Passive:** On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
     -   Using an M1 after the chain has been pulled with cause you to kick your foes, sending them flying in the direction you are looking.
-    -   Applies chain on flourish, along with forcibly pulling them back to your current location if they are within 20 studs of you.
+    -   Has a range limit of 20 studs, if activated past 20 studs you will simply be stunned momentarily.
+    -   Also procs after landing Impel past 10 studs.
+    -   You can movestack by using a mantra directly after flourish or directly before the kick; this however has a very precise timing and may be inconsistent to pull off.
+        -   You don't need the kick in order to movestack the chainpull, the self-stun and timings will however remain the same.
+    -   Applies chain on flourish, along with forcibly pulling them back to your current location.
         -   Will not provide Perpetual Wrath stacks on chained targets.
     -   The kick deals approximately 45 damage, and is unknown to be reduced by any amount of armor.
 -   Obtainment: Obtained after the second _chained_ Hunted Player/Humanoid Boss grip.
