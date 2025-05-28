@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 141475
+revid: 145331
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -44,7 +44,7 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 
 **All Criticals have a 5s Cooldown.**
 
-**The Blue Eye that pops up from the Final Critical signifies that it is undodgeable.**
+**The Green Emblem (previously a blue eye) that pops up from the Final Critical signifies that it is undodgeable.**
 
 ## Trivia
 

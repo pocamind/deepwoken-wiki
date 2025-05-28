@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 144105
+revid: 145333
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -66,7 +66,6 @@ While not required, things listed below can prove to make your experience much e
 
 -   _**[Thresher Scales](Talents.md):**_ Regaining armor is nearly impossible without this Talent, unless you're Ironsing, have Bloodiron Spirit/Ring, or possess any Armor Repair Kits. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a Talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
 -   _**[Resonance](Resonance.md):**_ Having a good bell is the key to survival in Diluvian Mechanism as, if you have a bell that isn't good for Diluvian (for example: Smite, Smokescreen, etc.) you run a greater risk of wiping. The bells you should seek out for Diluvian are Sacred Field and Corrupted Payback (especially Laser variant). Sacred Field will provide a defensive buff, while Corrupted Payback will heal the caster.
--   _**[Warrior's Respite](Talents.md):**_ Healing isn't always a guarantee in Diluvian Mechanism, especially if you're doing it solo or in a Hollowed Wave. Therefore, it's important to have a way of regaining your health during the later stages. Warrior's Respite is essential and can be combined with going up high and healing while attacking the mobs.
 -   _**Brick Wall:**_ You will find this talent very helpful, as so you won't get tossed around that much.
 -   _**[Graceful Flame](Flamecharm.md):**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame (with the Undying Flame talent), you can regenerate the armor and health of yourself and your allies.
 -   _**[Force Your Way](Ignition_Deepdelver.md):**_ In Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.

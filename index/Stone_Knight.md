@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 137954
+revid: 145338
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -87,6 +87,7 @@ A Stone Knight executes the player:
 
 -   The Blizzard Knight spawns only as a pack of 6, thus it is recommended to slowly fight them one at a time rather than risk being infinitely stunned.
 -   You can right-click after get kick or terra eruption to ragdoll cancel
+-   They also t pose for some reason when they get low.
 
 ## Trivia
 

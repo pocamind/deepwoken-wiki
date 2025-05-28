@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Ostentation
-revid: 133095
+revid: 145332
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Ostentation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -21,6 +21,8 @@ categories: [NPCs, Mechanics]
 ## Description
 
 Located in [Ancient Rotlands](../Ancient_Rotlands.md), after taking a right from the [Songseeker Wilds](../Songseeker_Wilds.md)\-[Ancient Rotlands](../Ancient_Rotlands.md) door and going towards the "Brain," there will be a cave entrance connected to the far wall on the left. The shrine will be located inside the cave.
+
+**The Shrine of Ostentation is found exclusively in this location, and NOT in the Temple of Hearts.**
 
 ## Effects/Details
 
