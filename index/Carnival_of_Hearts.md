@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 141432
+revid: 145369
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
@@ -12,7 +12,7 @@ File:Circus.png
 
 ## Description
 
-The Carnival of Hearts is a [World Event](World_Events.md) focused around several minigames created by [Aelita](Aelita.md) and [Tillian](Tillian.md). You can get to the arena for Carnival of Hearts by talking to Aelita or Tillian in several locations around the map, or a notification giving you the option to enter the Carnival or dismiss the message. Being in the Carnival gives your screen a sort of faded and inverted filter.
+The Carnival of Hearts is a [World Event](World_Events.md) focused around several minigames created by [Aelita](Aelita.md) and [Tillian](Tillian.md). You can get to the arena for Carnival of Hearts by talking to Aelita or Tillian in several locations around the map, or a notification giving you the option to enter the Carnival or dismiss the message.
 
 If you win the minigame, then you _must_ loot quickly, as you will be kicked out of the Carnival in about 10 seconds, and you can't go back.
 
@@ -35,7 +35,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   [Aelita](Aelita.md) and [Tillian](Tillian.md) spawn into the arena and fire large beams at the participants.
 -   They will both spawn highlighted purple and stand still, wait a few seconds, then spawn again and fire their beams before moving to a different location and repeating.
 -   Getting hit a single time will instantly eliminate you.
--   Lasts 100 seconds.
+-   Lasts 100 seconds, they do one more beam when the timer ends.
 
 ## Rewards
 

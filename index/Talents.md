@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145337
+revid: 145383
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1616,7 +1616,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Bleed damage now only deals 20% more damage. Bleed from Speed Demon now only does 10.5% more damage.
     -   Blood loss reduction is less effective if using Curse of the No Life King.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
-    -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction.
+    -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood loss reduction.
     -   Makes your blood a shade of light grey when being attacked by a bleed damage attack. Additionally, it changes your [Bloodrend](Bloodrend.md) mantras to the same grey.
     -   Prerequisite: 100 Ironsing
 
@@ -2834,7 +2834,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Cap Artist \[Common Talent, Agility\] - Pressing R while crouching allows you to fake being dead. (+2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cancelled by pressing R again.
--   Using Cap artist in the depths makes you have normal gravity.
+    -   Using Cap artist in the depths makes you have normal gravity.
     -   **Disabled with Brick Wall.**
     -   Prerequisites: 25 Agility, 5 Charisma
 

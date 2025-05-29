@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 144130
+revid: 145366
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Hellmode and Diluvian]
@@ -12,7 +12,7 @@ File:Depths New Lightning.png
 
 ## Overview
 
-The **First Layer** of the Depths, also known as **Scyphozia,** is the first of nine layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, dying to [Primadon,](Primadon,_Titan_of_the_East.md) being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
+The **First Layer** of the Depths, also known as **Scyphozia,** is the first of nine layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
 ## Points of Interest
 
@@ -59,7 +59,7 @@ File:Depths Sub-Elevator.png
 
 ### Method 3: Climbing Walls
 
-Although directly climbing the City Walls with barrels atop roofs was once a popular strategy, its effectiveness has been reduced. The white city columns are no longer possible to climb. It is still possible to land directly atop the walls, however, as listed below.
+Although directly climbing the City's walls with barrels atop roofs was once a popular strategy, its effectiveness has been reduced. The white city columns are no longer possible to climb. It is still possible to land directly atop the walls, however, as listed below.
 
 Locate a building near the walls of the city, and create an immense tower of barrels (15-20). Alternatively, utilize vertical movement mantras, such as [Flame Leap](Flamecharm.md). Once atop the wall, you may enter the elevator room by walking to the center of the city.
 
@@ -97,7 +97,7 @@ Some things can add extra Difficulty Score:
 | 30-49 (est. [Power](Power.md) 10-16)\* | [Megalodaunt](Megalodaunt.md) (which can be Template:CorruptedColor) |
 | 50-79 (est. [Power](Power.md) 17-20)\* | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
 | 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Template:CorruptedColor) |
-| 5 or more players, one having a Difficulty Score of 60+ | [Heart of Enmity](Heart_of_Enmity.md) |
+| 5 or more players, one having a Difficulty Score of 60+ | [Heart of Enmity](Heart_of_Enmity.md), a boss for punishing those escaping the Depths in sheer numbers |
 
 \* This is an estimation. Depending on your drowns and other factors, you could be facing worse enemies.
 
@@ -253,13 +253,14 @@ Below is a list of potential items that can spawn within chests in Scyphozia. Sc
 -   Avoid any monsters you have little to no experience with, especially [Deep](Deep_Owl.md) [Owls](Deep_Owl.md), [King](King_Thresher.md) [Threshers](King_Thresher.md) and [Nautilodaunts](Nautilodaunt.md), which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**. For many mobs, you can fight them somewhere else with less risk (Except for the Nautilodaunts since they spawn in the Depths, but [the Diluvian Mechanism](The_Diluvian_Mechanism.md) is a very unorthodox but available way to train).
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe if not careful.
--   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire, but can be used with graceful flame. Thresher scales does not work with the Diver lockers.
+-   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire, but can be used with Graceful Flame. Thresher Scales does not work with the Diver lockers.
 -   If within the vicinity of [Castle](Castle_Light.md) [Light](Castle_Light.md), it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and tanky, shifting the monster's aggro towards them, effectively protecting you.
 -   If you plan on using [Flame Ballista](Flamecharm.md) in the trial to get a hit, start conjuring it right when the voice of Odium says "Their" in "Just be quick about it will you? **Their** stench is already nauseating." Make sure to point at the right spot, as it will most likely not auto-target. Do know where the monster will spawn.
 -   If [Finnegan The Lost](Finnegan_The_Lost.md) or [The Fisherman](The_Fisherman.md) randomly spawn upon you, and you are not powerful enough to defeat them, run. It is not worth risking it against an enemy that has too much HP for you to properly deal with, and they dont have a good arsenal of player-catching mantras with them - just try not to get stuck with the Fisherman's chains, or get caught by Finnegan's Metal Ball.
 -   Stay aware of your surroundings. With the recent job updates, the presence of more players increases the likelihood of monster spawns, which could make your situation worse if you're fighting a monster or players. While it is good having players in a server which could potentially help you in sticky situations, its not always a guarantee that they are friendly or they are there within your vicinity.
 -   If you are unfamiliar with monsters and the Depths in general, always try bringing another experienced and competent friend with you, as it will make learning the harrowing tribulations of the Depths slightly more easing for you.
 -   If you are a new player, it is **heavily advised to log** if you hear cracking and rumbling randomly inside the Depths. This is the 'Depths Collapse' which spawns in a horde of dangerous and threatening monsters in 2-4 rocks that fall from the depths' ceiling.
+    -   If you're confident in killing these mobs, however, they will drop chests with enhanced loot.
 
 ## Trivia
 
@@ -273,6 +274,6 @@ Below is a list of potential items that can spawn within chests in Scyphozia. Sc
 -   According to the "Munet Journal, XIV", it canonically takes 2 weeks for a being to escape the depths.
 -   The Depths Collapse Event can spawn most monsters including 2 [Threshers](Thresher.md), a [Megalodaunt](Megalodaunt.md), an [Alpha](Alpha_Megalodaunt.md) [Megalodaunt](Alpha_Megalodaunt.md), a [King](King_Thresher.md) [Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [Hell Mode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)
 -   If you go into the Depths Trial arena solo, but your Difficulty Score is low enough for your trial to be Nothing, then the Voice of Enmity and Voice of Odium have special dialogue, and the Voice of Authority doesn't talk.
--   Previously, 4 bells located throughout the city were required to be rung in order to escape the depths.
+-   Previously, 4 bells located throughout the city were required to be rung in order to escape the Depths.
     -   This was adjusted, likely because of how much time it took and how risky it was, causing players to use unintended but easier methods.
     -   In the same update, one of the elevator entrances were replaced with the sub-elevator, with a risky approach.
