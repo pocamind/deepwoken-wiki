@@ -1,6 +1,6 @@
 ---
 title: Weal and Woe
-revid: 144854
+revid: 145354
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Multiple Criticals]
@@ -29,7 +29,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based W
 
 ## Description
 
-Weal and Woe are a pair of legendary Shadowcast spears.
+Weal and Woe are a pair of legendary [Shadowcast](Shadowcast.md) spears.
 
 ## Obtainment
 

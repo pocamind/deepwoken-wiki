@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 143990
+revid: 145355
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -42,5 +42,5 @@ The Bloodtide Trident has a unique critical that is similar to the [Flareblood K
 -   Meeting the requirement of MED, the weapon deals 24.1 damage, but it becomes 31.3 with bleed.
 -   At max MED, the weapon deals 26.1 damage, but it becomes 33.9 with bleed.
 -   Prior to the addition of unique critical attacks for the Hallowtide 2023 Weapons, this weapon had the same critical as the [Gremorian Longspear](Gremorian_Longspear.md).
--   As with all Hallowtide weapons, this weapon possesses a special effect upon successfully gripping a humanoid NPC or player, that being a grave appearing along with a [Taco Bell Bell sound](https://www.youtube.com/watch?v=kLvGB3Ol2p4).
+-   As with all other Hallowtide exclusive weapons, this weapon possesses a special effect upon successfully gripping a humanoid NPC or player, that being a grave appearing along with a [Taco Bell Bell sound](https://www.youtube.com/watch?v=kLvGB3Ol2p4).
 -   Might be a reference to Spear of Longinus, the lance which pierced Christ during His crucifixion. (The spear bears no resemblance to any biblically accurate Spear of Longinus, it does seem to have a striking resemblance to the [Spear of Longinus](https://evangelion.fandom.com/wiki/Spear_of_Longinus) from [Neon Genesis Evangelion](https://evangelion.fandom.com/) and [Asgore Dreemurr](https://undertale.fandom.com/wiki/Asgore_Dreemurr)'s trident from [Undertale](https://undertale.fandom.com/wiki/Main_Page).)

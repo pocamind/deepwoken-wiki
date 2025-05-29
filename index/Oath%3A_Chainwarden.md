@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 145346
+revid: 145362
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -29,9 +29,9 @@ Chainwardens are strong enforcers of justice serving [The Central Authority](The
 
 ## Obtainment
 
-1.  The Oath requires at least 40 points combined into either **Strength, Fortitude and Willpower**; such as 20 Strength, 5 Fortitude and 15 Willpower, or 0 Strength, 30 Fortitude and 10 Willpower.
-2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with slightly lower than [Ally Rep](Reputation.md) or above; and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
-3.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He will spawn on top the castle above the ladder. **NOTE: [Emar Vend](Emar_Vend.md) may sometimes not spawn; rejoining to another server should resolve this issue.** Upon defeating him, you will be granted the Oath.
+1.  The Oath requires at least 40 points combined into either **Strength, Fortitude and Willpower**, such as 20 Strength, 5 Fortitude and 15 Willpower, or 0 Strength, 30 Fortitude and 10 Willpower.
+2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with slightly lower than [Ally Rep](Reputation.md) or above, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
+3.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He will spawn on top the castle above the ladder. **NOTE: [Emar Vend](Emar_Vend.md) may sometimes not spawn, rejoining to another server should resolve this issue.** Upon defeating him, you will be granted the Oath.
 4.  If obtaining this with a friend and you don't receive kill credit after dealing damage to [Emar Vend](Emar_Vend.md), head back to [Vice Warden Morredh](Vice_Warden_Morredh.md) and he will provide you the oath.
 
 Chainwarden **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, as the Vice Warden will insult you.
@@ -59,66 +59,77 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 -   **Restrain - Combat Mantra**
     -   _Deliver a powerful kick that binds your opponent's soul to yours._
-    -   Deals 34 Oath damage, and dazes in a small AOE for 0.5 seconds when successfully landed.
-    -   Damage is further increased with the Perpetual Wrath talent, increasing damage with each use at intervals of 9 capping to a total of 61 Oath damage per use.
-    -   Deals 10 posture damage regardless of Perpetual Wrath stacks.
-    -   Most damage modifiers/resistances have no effect on this mantra, including Tough Love and Return to the Dark Ages. ([Isshin's ring](<Isshin's_Ring.md>) will still bypass this however)
-    -   Applies a chain that if your opponent is more than 10 studs away, will provide a slow status effect every 0.5 seconds, the slow last for 1.5 seconds and is additive, maxing at 3 stacks after 1.5 seconds.
-    -   Bloodless gem has zero effect, not lowering damage or providing healing, however all other gems still proc correctly.
-    -   Is not sped up by insignia gem's effects.
-    -   Has unique the effect of not cancelling block when hitting from behind, despite applying hitstun. (Bug? Might be intentional to prevent sliding behind targets)
-    -   The chain effect will clear either once the opponent is above 20 studs away, after using Rupture, or after 30 seconds pass from the first chain being applied; resetting all Perpetual Wrath stacks.
-        -   Chain duration will always be forcibly reset 30 seconds after the first chain was applied, regardless of if the chain was removed, reapplied, or Perpetual Wrath is procced. (Bug)
-    -   10 second cooldown, however landing the mantra on a target/their block, the cooldown is reduced to 1 second. (Stacks with [blessed gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems))
-    -   If interrupted, the cooldown will still be 10 seconds. (Since 3/15/2025)
+        -   Deals 10 posture and 34 Oath damage, increasing by +9 with each Perpetual Wrath stack.
+        -   Dazes for 0.5 seconds on direct hit.
+        -   Inflicts Chained (Single target), Perpetual Wrath, and lowers in cooldown when landed on block _**and**_ on direct hit.
+        -   Most damage modifiers/resistances have no effect on this mantra, including Tough Love and Return to the Dark Ages. ([Isshin's ring](<Isshin's_Ring.md>) will still bypass this however)
+        -   Bloodless gem has zero effect, not lowering damage or providing healing, however other gems still proc correctly including blessed.
+        -   Does not cancel block when hitting from behind, despite applying hitstun. (Bug)
+    -   1 second cooldown when landed. (Or hitting block)
+    -   10 second cooldown when whiffed/interrupted.
 -   Obtainment: Obtained with the Oath itself.
 
 -   **Impel** - **Combat Mantra**
     -   _Blast through your opponent's guard and pull them towards you._
-    -   Orbs have a maximum range of 25 studs, although applied chains will still quickly disconnect past 20 studs.
-        -   Has an very small AOE explosion at the end of it's range, however doesn't apply chain.
-    -   Fires 4 projectiles in the direction you are looking, hitting an enemy with an orb past 10 studs will allow you to proc Chain Lash by M1ing, along with applying a chain to unchained enemies.
-        -   Despite Impel's range, Chain Lash has a range of 20 studs, M1ing after landing Impel past 20 studs will momentarily stun you.
-    -   Does not cancel on parry nor has auto parry frames forcing the opponent to spam parry in order to defend.
-    -   Can be mouse aimed out of shiftlock.
-    -   Each orb deals a remarkably low 5 damage, but deal very heavy posture, incentivizing hitting blocks rather than direct hits.
-    -   Affected by slight damage falloff past 10 studs.
-    -   The chain effect and Chain Lash will proc through block past 10 studs.
-    -   The chain effect grants a singular Perpetual Wrath stack on unchained opponents.
-    -   This mantra has a 15 second cooldown.
+        -   Deals 5.5 damage and 6 posture per hit, totaling to 22 damage and 24 posture if all 4 orbs connect.
+        -   Procs Chained and Chain Lash on the _first_ target hit past 10 studs. (Procs through block)
+        -   Has a maximum range of 25 studs, however past 20 studs chains will disconnect and Chain Lash cannot proc.
+        -   Fires 4 projectiles in the direction you are facing, but can be mouse aimed out of shiftlock.
+        -   Doesn't cancel on parry nor has auto parry frames.
+    -   Has a cooldown of 15 seconds.
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Rupture** - **Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
-    -   On base variant's use, readies two devastating punches that deals damage and dazes on hit. The second punch will only commence if the first one hits a valid target/block.
-    -   If used while an enemy is chained the mantra will very strongly **fling enemies away from your relative direction**; sequentially using the mantra above opponents will wallbang them off of the ground.
-    -   Base variant deals 40 damage (25 + 15), while chained variant deals 45 damage within 10 studs of your opponent.
-    -   Affected by slight damage falloff past 10 studs.
-    -   Adding a [reversal spark](Mantra_Modifiers.md), will much less dramatically send enemies downwards in the **opposite direction of your camera**, but remove all ability to wallbang.
-    -   Chain variant ignores insignia gem.
-    -   Chain variant is limited to 20 studs, even if there is still a chain, it will ignore the input; causing the mantra to feel buggy at a certain distance.
-    -   Chain variant will completely prevent dodges after landing for 1.35 seconds regardless of wallbangs; allowing for true combos with mantras such as ice eruption. This effect currently goes through block. (Bug)
-    -   As of patch note 5/24/2025 chain variant has no endlag on M1s and crits. (Bug)
-    -   This mantra has a 15 second cooldown.
+    -   Base variant will do 2 melee punches, dealing 36 damage (20.6 + 15.4) and 30 posture (15 + 15).
+        -   Each punch dazes targets for 0.5 seconds.
+        -   The second punch will only commence if the first one lands or hits block.
+        -   Windup of punch is sped up by insignia gem.
+    -   Chained variant creates an AOE explosion centered at chained targets, launching them, and dealing 37 damage and 15 posture.
+        -   Strongly launches enemies **away from your relative direction**, allowing for wallbangs off the environment.
+            -   Jumping above targets while using the mantra will wallbang them off of the ground.
+        -   By adding a [reversal spark](Mantra_Modifiers.md), it will much less dramatically send enemies diagonally downwards in the **opposite direction of your camera**, but remove the ability to wallbang.
+        -   Inflicts _**anti-roll**_ for 1.35 seconds similar to Frozen Legs, allowing for true combos with mantras such as ice eruption.
+        -   Cannot be sped up by insignia gem.
+        -   If used while a chain is disconnecting it will not activate, ignoring the input. (Unless there are multiple targets)
+        -   If multiple targets are chained, Rupture will individually explode each target in order of distance one by one. (Bugged)
+            -   Currently bugged, hitbox is randomly removed on the 3rd target, order of explosions is inconsistent/biased.
+        -   The _**anti-roll**_ effect currently procs through block. (Bug)
+        -   Currently has no endlag for M1s and crits. (Bug)
+    -   Has a cooldown of 15 seconds.
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
-    -   Damage stacks are independent from person to person.
     -   Procs through block.
-    -   Does not reset chain duration. (Bug?)
+    -   Despite the description it only resets when chain breaks, not if you miss Restrain.
     -   After using Restrain 3+ times, landing Restrain will cause an small AOE blast, along with special SFX.
+    -   Does not reset chain duration on successful proc. (Bug?)
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Chain Lash - Passive:** On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
-    -   Using an M1 after the chain has been pulled with cause you to kick your foes, sending them flying in the direction you are looking.
-    -   Has a range limit of 20 studs, if activated past 20 studs you will simply be stunned momentarily.
-    -   Also procs after landing Impel past 10 studs.
-    -   You can movestack by using a mantra directly after flourish or directly before the kick; this however has a very precise timing and may be inconsistent to pull off.
-        -   You don't need the kick in order to movestack the chainpull, the self-stun and timings will however remain the same.
-    -   Applies chain on flourish, along with forcibly pulling them back to your current location.
-        -   Will not provide Perpetual Wrath stacks on chained targets.
-    -   The kick deals approximately 45 damage, and is unknown to be reduced by any amount of armor.
+    -   Your flourish and Impel now apply chained and pull after a short delay. (Impel will only proc Chain Lash past 10 studs)
+    -   _**The** **pull**_ will bring the targets back to the location you flourished and prevent movement for a duration.
+        -   Will only work on chained targets, if a target breaks the chain quick enough, Chain Lash will cancel.
+        -   Has no hitstun, allowing targets to dodge/block freely.
+        -   Works with Dazing Finisher and Bulldozer.
+        -   Has _2 seconds of endlag_, preventing all forms of attack other than the "crushing kick".
+            -   The hitstun starts 0.05 seconds _after_ you flourish, providing a small window to **movestack** it with mantras.
+    -   If the pull is successful you can use a _**[True Hyperarmor](https://deepwoken.fandom.com/wiki/Status_Effects#True_Hyperarmor) kick**_ by M1ing.
+        -   Deals 46 Oath damage and 25 posture with a 360° hitbox.
+        -   Not treated as a mantra or an M1, bypassing Return to the Dark Ages but also ignoring Champion's Regalia.
+        -   Ragdolls and flings targets in the direction you are looking, but cannot wallbang.
+        -   Does not cancel the pull's _endlag_, by M1ing _immediately_ you will have still have a remaining 1 second of endlag.
+        -   The kick has no endlag itself, using it at the _very_ _last moment_ will allow you to **movestack** it with mantras.
 -   Obtainment: Obtained after the second _chained_ Hunted Player/Humanoid Boss grip.
+
+-   **Chained - Passive**
+    -   Procced by flourishes, Restrain, or Impel.
+    -   Gives access to Perpetual Wrath and chain variant Restrain.
+    -   Every 0.5 seconds, targets more than 10 studs away are slowed for 1.5 seconds, this effect can stack.
+    -   Chained will clear once the opponent is over 20 studs away, Rupture is used, or once the duration finishes, resetting all Perpetual Wrath stacks.
+        -   Chained duration is forcibly set to 30 seconds when first applied, and won't reset regardless of if the chain was removed, reapplied, or Restrain lands. (Bug)
+
+-   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 ## Trivia
 
