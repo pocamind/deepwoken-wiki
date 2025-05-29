@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 145112
+revid: 145343
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -20,7 +20,7 @@ Ottilde is a Chrysid NPC that seems to be working for [The Ignition Union](The_I
 
 ## Location
 
-Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right infront of the bank, overlooking the sea.
+Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of the bank, overlooking the sea.
 
 ## Dialogue
 
@@ -34,7 +34,7 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right infront of t
 </tr>
 <tr>
   <td colspan="4">Are you trying to get home?</td>
-  <td colspan="4">Sorry, i really can't help...</td>
+  <td colspan="4">Sorry, I really can't help...</td>
 </tr>
 <tr>
   <td colspan="4"><i>*She shakes her head, eyes wandering upon the ground, as she gestures to the sea*</i> My late mother's home. Me, I've known nothing but these clanks of steel here, and that almost endless horizon. ...Her folks see the same horizon as I do, whenever they look upon the sea, and I really just don't think I can process... everything without at least letting them know.</td>
@@ -80,4 +80,4 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right infront of t
 
 ## Trivia
 
--   Her aspect is currently bugged and is both a [Gremor](Gremor.md) and a [Chrysid](Chrysid.md)
+-   Her aspect was once bugged, being both a [Gremor](Gremor.md) and [Chrysid](Chrysid.md) at the same time.

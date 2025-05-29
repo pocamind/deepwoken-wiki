@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 143952
+revid: 145341
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -264,7 +264,8 @@ _noun_
 
 _verb_
 
-1.  To input an attack or other move (typically a Critical) within a short window after inputting another move (a Mantra, roll, or M1), causing the move to be performed immediately after the first one's animation ends.
+1.  A bug that allows you to use a move while displaying the animations of another move, obscuring its true nature.
+2.  To input an attack or other move (typically a Critical) within a short window after inputting another move (a Mantra, roll, or M1), causing the move to be performed immediately after the first one's animation ends. This causes the player to flash white before the 2nd move is performed.
 
 ### Parry
 

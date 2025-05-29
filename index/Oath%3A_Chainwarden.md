@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 145326
+revid: 145346
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -59,15 +59,17 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 -   **Restrain - Combat Mantra**
     -   _Deliver a powerful kick that binds your opponent's soul to yours._
-    -   Deals 34 Oath damage.
-    -   Damage is further increased with the talent Perpetual Wrath, increasing at intervals of 9 capping to a total of 61 Oath damage per use.
+    -   Deals 34 Oath damage, and dazes in a small AOE for 0.5 seconds when successfully landed.
+    -   Damage is further increased with the Perpetual Wrath talent, increasing damage with each use at intervals of 9 capping to a total of 61 Oath damage per use.
+    -   Deals 10 posture damage regardless of Perpetual Wrath stacks.
     -   Most damage modifiers/resistances have no effect on this mantra, including Tough Love and Return to the Dark Ages. ([Isshin's ring](<Isshin's_Ring.md>) will still bypass this however)
-    -   Applies a chain that gradually lowers the opponent's walk speed based on distance past 10 studs until their movement speed equates nearly 0; however it will not prevent any other form of mobility ex. sliding/dodging, allowing the opponent to easily disconnect the chain at a distance.
+    -   Applies a chain that if your opponent is more than 10 studs away, will provide a slow status effect every 0.5 seconds, the slow last for 1.5 seconds and is additive, maxing at 3 stacks after 1.5 seconds.
+    -   Bloodless gem has zero effect, not lowering damage or providing healing, however all other gems still proc correctly.
+    -   Is not sped up by insignia gem's effects.
+    -   Has unique the effect of not cancelling block when hitting from behind, despite applying hitstun. (Bug? Might be intentional to prevent sliding behind targets)
     -   The chain effect will clear either once the opponent is above 20 studs away, after using Rupture, or after 30 seconds pass from the first chain being applied; resetting all Perpetual Wrath stacks.
         -   Chain duration will always be forcibly reset 30 seconds after the first chain was applied, regardless of if the chain was removed, reapplied, or Perpetual Wrath is procced. (Bug)
-    -   Bloodless gem has zero effect, not lowering damage or providing healing, however all other gems still apply correctly.
-    -   Ignores insignia gem.
-    -   10 second cooldown, however landing the mantra on a target/their block, the cooldown is reduced to 1 second. (Stacks with [blessed gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems) when landed)
+    -   10 second cooldown, however landing the mantra on a target/their block, the cooldown is reduced to 1 second. (Stacks with [blessed gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems))
     -   If interrupted, the cooldown will still be 10 seconds. (Since 3/15/2025)
 -   Obtainment: Obtained with the Oath itself.
 

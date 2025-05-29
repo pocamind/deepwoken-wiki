@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 142238
+revid: 145344
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, NPCs, Ignition Union Enemies, The Ignition Union, NPCs located in the Eastern Luminant]
@@ -41,6 +41,28 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 | Needle Barrage | Adar jumps in the air before throwing out 3 projectiles towards where he aims at. | ◯ | ◯ | (★★☆) |
 | Onslaught | Adar does an initial swing with a second long wind-up, then throws the enemy into the air and kicks them away. | ◯ | ◯ | (★★☆) |
 | Mecha Gatling | Adar pulls out a gatling gun, mowing down enemies on his way, similar to a Mechalodaunt's Bullet Fury. | ◯ | ◯ | (★★☆) |
+
+### Talents
+
+-   Impervious Slumber - If Adar gets hit while knocked, his knocked timer isn't reset.
+-   Perfect Flash - If Adar has full health, his mantras do 25% more damage.
+-   Gilded Path: Scrapsinger - Adar's Ironsing mantras now take a gold and iron color, and when flourishing an enemy, consumes any rods the enemy had and siphons their armor into Adar per rod.
+-   Refine and Reuse - Whenever Adar consumes rods with Scrapsinger, the PEN incoming against him is reduced by 5% per rod for 14 seconds.
+-   Artisan's Blade - If Adar activates Scrapsinger, a metal blade is forged behind him every 2 rods he consumes. The metal blades will fire at the target if Adar lands an ironsing mantra.
+-   Songs Unforged - Adar's Darksteel Greatsword critical activates Scrapsinger.
+-   Masterwork - Adar's successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
+-   Reshape and Remold - If Adar procs Scrapsinger successfully, their enemy will take more armor damage. After hitting 10 stacks, his opponent will take +5% damage until the stacks drop below 10.
+-   Exposed Durability - Adar deals 10% more damage to opponents with no armor durability left.
+-   An Ironsinger's Instinct - Whenever Adar successfully dodges an attack, he coats himself in metal and reduces the damage of the next attack taken.
+-   Phantom Edge - Adar's m1's have 0.25 more range.
+-   Heavy Shoulders - If Adar's opponents have 3 or more rods, their dodges are slower.
+-   Ironclad Punishment - Adar's ironsing mantras deal more posture damage to enemies the more armor durability they have.
+-   Thornmail - If Adar gets flourished, he applies a metal rod to their attacker.
+-   Metal Shackles - Adar prevents enemies from receiving speed boosts for 5s when he guardbreaks them.
+-   Piercing Metal - Adar deals additional armor damage to enemies per metal rod affecting them.
+-   Polished Armor - Adar receives 10% less damage when his armor protects him from an attack.
+-   Laced Traps - Enemies hit by Adar's 'Caltrops' cannot jump and are slowed for a small duration.
+-   Metal Absorption - Adar's 'Iron Hug' also absorbs armor from his enemy.
 
 ## Dialogue
 
@@ -155,30 +177,6 @@ Adar: That's it. you've nailed it!
 _(Not enough notes) Adar: Oh, err. Afraid I can't help you for free right now. Money's a bit tight._
 
 1.  \[End Dialogue\]
-
-### Talents
-
--   Impervious Slumber - If Adar gets hit while knocked, his knocked timer isn't reset.
--   Perfect Flash - If Adar has full health, his mantras do 25% more damage.
--   Gilded Path: Scrapsinger - Adar's Ironsing mantras now take a gold and iron color, and when flourishing an enemy, consumes any rods the enemy had and siphons their armor into Adar per rod.
--   Refine and Reuse - Whenever Adar consumes rods with Scrapsinger, the PEN incoming against him is reduced by 5% per rod for 14 seconds.
--   Artisan's Blade - If Adar activates Scrapsinger, a metal blade is forged behind him every 2 rods he consumes. The metal blades will fire at the target if Adar lands an ironsing mantra.
--   Songs Unforged - Adar's Darksteel Greatsword critical activates Scrapsinger.
--   Masterwork - Adar's successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
--   Reshape and Remold - If Adar procs Scrapsinger successfully, their enemy will take more armor damage. After hitting 10 stacks, his opponent will take +5% damage until the stacks drop below 10.
--   Exposed Durability - Adar deals 10% more damage to opponents with no armor durability left.
--   An Ironsinger's Instinct - Whenever Adar successfully dodges an attack, he coats himself in metal and reduces the damage of the next attack taken.
--   Phantom Edge - Adar's m1's have 0.25 more range.
--   Heavy Shoulders - If Adar's opponents have 3 or more rods, their dodges are slower.
--   Ironclad Punishment - Adar's ironsing mantras deal more posture damage to enemies the more armor durability they have.
--   Thornmail - If Adar gets flourished, he applies a metal rod to their attacker.
--   Metal Shackles - Adar prevents enemies from receiving speed boosts for 5s when he guardbreaks them.
--   Piercing Metal - Adar deals additional armor damage to enemies per metal rod affecting them.
--   Polished Armor - Adar receives 10% less damage when his armor protects him from an attack.
--   Laced Traps - Enemies hit by Adar's 'Caltrops' cannot jump and are slowed for a small duration.
--   Metal Absorption - Adar's 'Iron Hug' also absorbs armor from his enemy.
-
-  
 
 ## Trivia
 

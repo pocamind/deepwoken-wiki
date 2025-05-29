@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 144966
+revid: 145345
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -152,6 +152,7 @@ Slash
 **Effect:** _The user grows coral on their back and sprays coral in every direction. Based on the [Megalodaunt's](Megalodaunt.md) '**Thousand Needles'** attack._
 
 -   This mantra deals 90 damage to ships.
+-   This mantra has ~4 damage per hit with 8 hits, totalling for ~32 damage
 
  |
 | 
@@ -256,7 +257,7 @@ Slash
 
 **Effect:** _The user grows a [Terrapod](Terrapod.md) claw from their left arm and begins to spin forward after a short windup._
 
--   Deals moderate damage if hit by the entire spin.
+-   Deals moderate damage if hit by the entire spin. Has bleed damage and a total of 6 hits.
 -   Deals heavy posture damage. (taken from [Carrion](Carrion,_Father_of_Evolution.md)'s page, may not be true)
 -   Cancels if parried.
 
@@ -326,6 +327,7 @@ Blunt
 **Effect:** _Burrow into the ground, giving invincibility for its duration. Click to cancel the Mantra and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) '**Burrow'**._
 
 -   Shares a cooldown with [Shade Step](Shadowcast.md#shade-step) and [Sanguine Dive](Bloodrend.md#sanguine-dive).
+-   Deals 39 damage with 2 songchant, probablly has a base unmodified damage of 35
 
  |
 
