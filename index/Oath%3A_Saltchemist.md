@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 145329
+revid: 145364
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -105,7 +105,7 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 
 ## Trivia
 
--   Saltfreakist is the second Oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)).
+-   Saltchemist is the second Oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)).
 -   Originally, [Contractor](Oath%253A_Contractor.md) was the Intelligence Oath upon its release, before losing its INT requirement and scaling.
 -   The idea of an Alchemist Oath was coined early on, with a resurgence in popularity when Verse 2 released, as Intelligence lacked an Oath.
 -   Adrofalis, who gives the Oath, alludes to the sound of the fights that occur from [The Ferryman](The_Ferryman.md), along with it's music, which may imply that his combat theme is diegetic.
