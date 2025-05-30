@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 124028
+revid: 145391
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -16,7 +16,7 @@ categories: [Items]
 
 ### Obtainment
 
-Wood can be obtained chopping down trees. You can obtain more wood from bigger trees. It can also be crafted from 3 sticks. Also, it can be bought at the Blacksmith Store in Etris, Outside the Inn at Isle of Vigils, Antiquarian in the Voidheart, and Balconies area in Greathive Aratel for 2 notes.
+Wood can be obtained chopping down trees. You can obtain more wood from bigger trees. It can also be crafted from 3 sticks. Also, it can be bought at the Blacksmith Store in [Etris](Etris.md), Outside the Inn at [Isle of Vigils](Isle_of_Vigils.md), Antiquarian in the [Voidheart](Voidheart.md), and the Balconies area in [Greathive Aratel](Greathive_Aratel.md) for 2 notes.
 
 ### Uses
 

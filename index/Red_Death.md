@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 145353
+revid: 145393
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, Multiple Criticals, "Multi-Attunement Scaling", "Attunement-based Weapons"]
@@ -49,6 +49,7 @@ Both criticals have a cooldown of **8 seconds**.
     -   Both weapons have no correlation besides their name and being themed around blood.
 -   The emblem of [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) is set below the crossguard of the spear.
 -   Two weeks after the Red Death was released, it was given a visual rework alongside its running critical.
+-   part of the spear has the etrean symbol
 
 ## References
 
