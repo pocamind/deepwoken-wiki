@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 145339
+revid: 145398
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -24,13 +24,13 @@ In spite of its shortcomings, the potential of Attunement-less is nothing to sco
 
 ## Upgrading Mantras
 
-The Attunement-less Mantra trainer [Regek](Regek.md) can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their Mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.) Alternatively, you can use the Songwright in the guild base (if you hired him already)
-
-Otherwise, you can use the Mantra Trainer in the guildbase without having to do a quest.
+The Attunement-less Mantra trainer [Regek](Regek.md) can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their Mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)
 
 -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
 -   2 of them are located in the Blacksmith's area.
 -   1 is located outside of the Observatory.
+
+Alternatively, you can use the [Songwright](Songwright.md) in the Guild Base, but the Songwright will charge you 50% more Notes to upgrade your Mantras.
 
 Once completed, the user can upgrade their Attunement-less Mantras by speaking to the trainer and paying an increasing sum of notes for each Mantra level. NOTE:
 
@@ -51,7 +51,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 
 -   These Mantras are based on your attributes, not your Attunements.
 -   Their damage/efficiency scales with the attribute's level.
--   Although the Mantras have nothing to do with Attunements, having an Attunement can sometimes make certain Attunement**less** Mantras have higher obtainment requirements (e.g; Glare). Source: Arch\_Mage and tester(s)
+-   Although the Mantras have nothing to do with Attunements, having an Attunement can sometimes make certain Attunement-**less** Mantras have higher obtainment requirements (e.g; Glare). Source: Arch\_Mage and tester(s)
 -   _(Side Note: Do not confuse upgrading Mantras at trainers with using modifiers.)_
 
 ### _Strength Mantras_
@@ -1429,7 +1429,8 @@ Slash
 -   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra.
 -   The slashes lock onto the closest target within Ceaseless' range.
 -   If you go too long without landing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
--   Can be modified with Drift/Rush Shards and Crystal/Perfect Lenses, effects unknown.
+-   Can be modified with Crystal/Perfect lenses to slightly increase the invisibility duration.
+-   Can be modified with Drift/Rush shards but has seemingly no effect.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 145395
+revid: 145396
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -84,7 +84,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   Base variant will do 2 melee punches, dealing 36 damage (20.6 + 15.4) and 30 posture (15 + 15).
         -   Each punch dazes targets for 0.5 seconds.
         -   The second punch will only commence if the first one lands or hits block.
-        -   Windup of punch is sped up by insignia gem.
+        -   Windup of first punch is sped up by insignia gem.
     -   Chained variant creates an AOE explosion centered at chained targets, launching them, and dealing 37 damage and 15 posture.
         -   Strongly launches enemies **away from your relative direction**, allowing for wallbangs off the environment.
             -   Jumping above targets while using the mantra will wallbang them off of the ground.
@@ -92,7 +92,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
         -   Inflicts _**anti-roll**_ for 1.35 seconds similar to Frozen Legs, allowing for true combos with mantras such as ice eruption.
         -   Cannot be sped up by insignia gem.
         -   If multiple targets are chained, Rupture will individually explode each target in order of distance one by one. (Bugged)
-            -   Currently bugged, hitbox is randomly removed on the 3rd target, order of explosions is inconsistent/biased.
+            -   Currently bugged, hitbox is randomly removed on the 3rd target, order/timing of explosions is inconsistent/biased.
         -   The _**anti-roll**_ effect currently procs through block. (Bug)
         -   Currently has no endlag for M1s and crits. (Bug)
     -   Has a cooldown of 15 seconds.
