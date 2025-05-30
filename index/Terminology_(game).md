@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 145341
+revid: 145388
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -260,7 +260,7 @@ _noun_
 
 1.  An effect that hovers people above the ground with the person that caused this effect. The actions of the victim are limited. The most common source is "Uppercut".
 
-### Movestack
+### Movestack/Stack
 
 _verb_
 
@@ -690,13 +690,13 @@ _noun_
 
 _adjective_
 
-1.  Where a player's outfit consists of pure black-dyed or otherwise very dark equipment to obscure their body and make their attacks difficult to discern, or to blend in with the black color of their weapon or the VFX of their attacks.
+1.  A type of outfit that consists of pure black-dyed or otherwise very dark equipment to obscure the player's body and make their attacks difficult to discern, or to blend in with the black color of their weapon or the VFX of their attacks.
 
 ### Vantawhite
 
 _adjective_
 
-1.  Where a player's outfit consists of pure white-dyed or otherwise very bright equipment to obscure their body and make their attacks difficult to discern, or to blend in with the bright color of the VFX of their attacks.
+1.  A type of outfit that consists of pure white-dyed or otherwise very bright equipment to obscure the player's body and make their attacks difficult to discern, or to blend in with the bright color of the VFX of their attacks.
 
 ## Acronyms/Short Forms
 
