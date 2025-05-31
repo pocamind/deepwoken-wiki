@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 144329
+revid: 145418
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Summer Company]
@@ -32,7 +32,7 @@ The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medall
 
 The Stormseye comes with 2 passive abilities:
 
--   **Medallion Shockwave** - Sometimes, your flourish M1 now creates an explosion that knocks people away and applies [Electrified](Status_Effects.md#electrified). If the user has Surge Path: Unstable Capacitator, apply a surge stack with this flourish instead.
+-   **Medallion Shockwave** - Sometimes, your flourish M1 now creates an explosion that knocks people away and applies [Electrified](Status_Effects.md#electrified). If the user has Surge Path: Unstable Capacitator, the passive applies a surge stack with this flourish instead.
 
 -   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
     -   Oddly, this passive also applies to weapons pulled from [Crazy Slots](Crazy_Slots.md) or if forced by other means.

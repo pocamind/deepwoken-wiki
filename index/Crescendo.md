@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 144060
+revid: 145414
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, Medium Weapons]
@@ -30,17 +30,13 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, Medium W
 
 ## Description
 
-**Crescendo** is a rare twinblade that requires 75 MED. It's most commonly obtained from the Ferryman and is a nigh guaranteed drop from Carnival of Hearts chests. It has its own unique critical attack.
-
-The weapon shares its M1s with other twinblades.
-
-The running attack consists of two hits, the first one comes out normally, while the second one is slightly delayed. If the first hit is parried, the second one does not come out.
-
-Like all other Twinblades, the Crescendo possesses a unique aerial attack animation.
+The **Crescendo** is a rare Twinblade. It's most commonly obtained from the Ferryman and is a nigh guaranteed drop from Carnival of Hearts Chests.
 
 ## Critical
 
-Perform two spinning attacks with the second hit dealing high posture.
+The user twirls the twinblade, slicing opponents around it, before twirling the blade again to create a bigger slash. Both parts of the critical deal the same damage.
+
+The critical has a cooldown of **5.5 seconds.**
 
 ## Trivia
 

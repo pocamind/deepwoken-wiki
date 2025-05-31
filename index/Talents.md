@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145383
+revid: 145417
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -381,7 +381,8 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 > _**"I work for the Authority."**_
 
--   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
+-   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - Lightning moves slow your opponent more.
+    -   Synergies well with surge path as surge normally cannot slow down opponents.
     -   Prerequisites: 60 Thundercall, Power 10
 
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
@@ -1215,6 +1216,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Frozen Lightning."**_
 
 -   Fulgurite Formation \[Common Talent, Dual Attunement\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s
+    -   The lightning strike only deals 5 true damage on explosion without applying surge.
+    -   Does not stack.
     -   Prerequisites: Glass Path: Crystallization, Surge Path: Unstable Capacitor, 50 Frostdraw, 50 Thundercall
 
 ### Frostthorn
@@ -1317,10 +1320,15 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Mutual Exclusives: Unyielding Frost, Flashboil
 
 -   Crystal Shrapnel \[Common Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit.
-    -   Will also damage the target that procced the crystal explosion, increasing total damage.
+    -   Does not hit allies or the target procced on.
+    -   Has a range of 10 studs from the target procced on.
+    -   Scales off Frostdraw investment and amount of crystals present.
     -   Prerequisites: Glass Path: Crystallization, 60 Frostdraw
 
 -   Reclaimed Glass \[Common Talent, Frostdraw Exclusive\] - Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds.
+    -   Targets with Reclaimed Glass will have a pink triangle VFX that stacks.
+    -   Despite the VFX stacking the elemental resistance will not stack.
+    -   Relanding this will refresh the duration.
     -   Prerequisites: Crystal Shrapnel, 65 Frostdraw
 
 ### Great Wall
