@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 145275
+revid: 145412
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -153,8 +153,8 @@ Ether Proselyte is a Talent that allows your elemental Mantras to proc the Talen
 
 **Ether Proseltyte: Miscellaneous**: in **any** Saint Stance, your Mantras are able to proc the following Talents:
 
--   **Winter's Protection**: Its effects are currently unknown.
--   **Unyielding Inferno**: Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance.
+-   **Winter's Protection**: Enemies' damage buff caused by weather (ex. Thundercall damage buff in rain) no longer apply to you. Parasites accumulate slower on you in [layer 2](Second_Layer.md) giving you about 1 minute and 30 seconds extra.
+-   **Unyielding Inferno**: Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance. Campfires lit by you no longer get extinguished by rain.
 
 ## Mantra(s)
 

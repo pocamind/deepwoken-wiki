@@ -1,6 +1,6 @@
 ---
 title: Worm
-revid: 145284
+revid: 145409
 source: https://deepwoken.fandom.com/wiki/Worm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Worms are a species endemic to [Scyphozia](First_Layer.md).
+Worms are a species endemic to [Scyphozia](First_Layer.md), one of the few inhabitants of the First Layer that aren't hostile to humanity.
 
 They are lengthy gray organisms that live together in colonies in the sand, emerging every three hours. They have visible black, beady eyes and large, fleshy mandibles, used to move food into their beak. They feed on microbes and sea scum.[\[1\]](#cite-note-1)
 

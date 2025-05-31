@@ -1,6 +1,6 @@
 ---
 title: Liviu
-revid: 145385
+revid: 145403
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs]
@@ -12,7 +12,7 @@ categories: [Chrysid NPCs, NPCs]
 |---|---|
 | name | Liviu |
 | aspect | Chrysid |
-| location | Greathive Aratel Library |
+| location | Greathive Aratel |
 
 ## Description
 
