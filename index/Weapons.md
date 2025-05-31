@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 145348
+revid: 145452
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -12680,7 +12680,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
     -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md), [Chorus of Agonies](Chorus_of_Agonies.md) (100 HVY)
     -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
     -   Triple Requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
-    -   Quadruple Requirement: [Red Death](Red_Death.md) (45 MED, 35 BLD, 55 SDW, 25 MND)
+    -   Quadruple Requirement: [Red Death](Red_Death.md) (30 MED, 35 BLD, 45 SDW, 25 MND)
     -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)
     -   Penetration: [Shattered Katana](Shattered_Katana.md)/[First Light](First_Light.md)/[Nemit's Sickle](<Nemit's_Sickle.md>)/[Kyrsedge](Kyrsedge.md)/[Kyrstreza](Kyrstreza.md)/[Flareblood Kamas](Flareblood_Kamas.md)/[Pernach](Pernach.md)/[Pleeksty's Inferno](<Pleeksty's_Inferno.md>)/[Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)

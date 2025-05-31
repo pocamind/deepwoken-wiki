@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 144939
+revid: 145453
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -240,7 +240,7 @@ The draw consists of four cards, three of which are selected randomly (identical
 This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear the _Tarnished_ flaw and will return your resonance to normal. You can also just buy the [Soul Plasticity](Echoes.md) echoes upgrade, as this disables the ability to have a tarnished bell altogether.
 
 -   One can visit [Yamaketzal](Yamaketzal.md) to remove the _Tarnished_ [Flaw](Boons_and_Flaws.md), without gaining a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does grant a wish, but it does not allow a reroll via talking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
--   Otherwise, [Misérables](Misérables.md) will remove the _Tarnished_ [Flaw](Boons_and_Flaws.md) f chosen through dialogue, which also grants the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+-   Otherwise, [Misérables](Misérables.md) will remove the _Tarnished_ [Flaw](Boons_and_Flaws.md), which also grants the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 -   And recently, [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) can now untarnish your bell for **1 [knowledge](Knowledge.md)**, and is unlocked in Layer 2 Floor 2 after the library, more info [here](Carrion,_Father_of_Evolution.md).
 -   If you have the [Soul Plasticity](Echoes.md) echoes upgrade you won't be able to have a _Tarnished_ resonance.
 
