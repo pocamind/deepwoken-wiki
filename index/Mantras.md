@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 145420
+revid: 145422
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -29,7 +29,7 @@ Mantras are divided into various categories based on their general application. 
 
 It is possible to have more Mantras than Mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or Mantra tables. Additional Mantra slots can be gained by obtaining an [Oath](Oaths.md), getting [Neuroplasticity](Talents.md) for 35 intelligence/35 willpower/35 charisma to obtain 1 Wildcard Mantra, or getting [Will O' Wisp](Talents.md) with 25 Element and its corresponding wisp.
 
-## Toilet
+## Combat Usage
 
 Mantras are a key aspect of combat, and it is incredibly important to master the usage of Mantras while fighting to get the edge over your opponent. You can't get very far with just a weapon and skill alone; Mantras can turn the tide of a battle easily and is what makes Deepwoken's combat very deep and engaging, with various mechanics to accompany them.
 
