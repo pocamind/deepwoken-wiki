@@ -1,6 +1,6 @@
 ---
 title: Liviu
-revid: 145460
+revid: 145464
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs]
@@ -16,7 +16,7 @@ categories: [Chrysid NPCs, NPCs]
 
 ## Description
 
-Liviu is a [Chrysid](Chrysid.md) lore NPC, next to the mystic. Seeming to be involved with world around them as they talk a lot about the "Acolyte" and how they're watched to at least "seem busy.
+Liviu is a [Chrysid](Chrysid.md) next to the Mystic. Seeming to be involved with world around them as they talk a lot about the "Acolyte" and how they're watched to at least "seem busy.
 
 ## location
 
