@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 145396
+revid: 145463
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -59,10 +59,11 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 -   **Restrain - Combat Mantra**
     -   _Deliver a powerful kick that binds your opponent's soul to yours._
-        -   Deals 10 posture and 34 Oath damage, increasing by +9 with each Perpetual Wrath stack.
+        -   Deals 10 posture, and 31 Oath damage, increasing by +8 with each Perpetual Wrath stack. (Max of 55 damage)
         -   Dazes for 0.5 seconds on direct hit.
         -   Will inflict Chained (Single target), Perpetual Wrath, and lowers in cooldown when landed on block _**and**_ on direct hit.
-        -   Most damage modifiers/resistances have no effect on this mantra, including Tough Love and Return to the Dark Ages. ([Isshin's ring](<Isshin's_Ring.md>) will still bypass this however)
+        -   Applies charm before landing, proccing Tough Love on uncharmed targets.
+        -   Bypasses Return to the Dark Ages, but not any other damage reduction talents.
         -   Bloodless gem has zero effect, not lowering damage or providing healing, however other gems still proc correctly, including blessed.
         -   Does not cancel block when hitting from behind, despite applying hitstun. (Bug)
     -   1 second cooldown when landed. (Or hitting block)
