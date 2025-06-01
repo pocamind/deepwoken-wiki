@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 142221
+revid: 145477
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -21,15 +21,11 @@ categories: [Resonances]
 
 **Shard Bow** is a [Resonance](Resonance.md) that players can obtain, and is **common** to roll.
 
-### _Appearance_
-
-User summons a shimmering-white bow and kicks off of the floor, firing explosive arrow(s) at the cursor from midair.
-
 ## Usage
 
-**Pressing C will activate the "Shard Bow" Resonance.**
+**Pressing C will activate the "Shard Bow" Resonance. User summons a shimmering-white bow and kicks off of the floor, firing explosive arrow(s) at the cursor from midair.**
 
-If Shard Bow is corrupted, it deals an additional 5 posture damage and hits apply White Flames that scale on [Flamecharm](Flamecharm.md) (bugged, it's supposed to scale on INT). It also gains additional damage if the user has the Talent Azure Flames. Appears to make you jump further back and higher up.
+If Shard Bow is corrupted, the user will ignite ablaze with White Flames upon using the Resonance. On hit, your Shard Bow will deal an additional 5 posture damage and apply White Flames to your opponent. The White Flames scale on your [Flamecharm](Flamecharm.md) investment (bugged, it's supposed to scale on INT) and carry over the properties of your Flamecharm Talents; dealing additional damage if you have [Azure Flames](Talents.md#flamecharmer) or draining ether and spawning puppets if you have [Twisted Puppets](Talents.md#twisted-puppets). Appears to make you jump further back and higher up.
 
 #### _**Variants**_
 
@@ -41,8 +37,10 @@ _**It is affected by “Wyvern’s Claw” which gives 10% damage while airborne
 
 ## Trivia
 
--   Both variants of Shard Bow do true damage, meaning the damage bypasses any form of resistance.
+-   Both variants of Shard Bow do typeless damage, bypassing **armor** resistances. Shard Bow does **not** deal true damage.
 -   Reference to _The Stormlight Archive'_s Grandbows.
+-   The self burn Corrupt Resonance downside is exclusive to Shard Bow.
+    -   Self burn was an obtainable downside for all other Resonances, but it was reworked into the Wither downside that we know today. As Shard Bow's downside was unique to itself anyways, it kept the White Flames.
 -   Possibly a reference to the Risk of Rain Huntress ability called "Ballista" which makes you jump into the sky and fire three "energy bolts."
 -   Shard bow's string stretches when pulled back, unlike real world bows, in which the string does not stretch, but rather the legs bend.
 -   Shard bow appears to be a 'Bare bow' which is an unmodified version of a recurve bow.

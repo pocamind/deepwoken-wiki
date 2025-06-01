@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 145390
+revid: 145478
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -333,7 +333,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Similar to <font>Detonation</font> and <font>Blazing</font>,<br>
   After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode,<br>
   Apply <font>Flames of Life</font> and Temporary Health to them and others around beside the user.<br>
-  The damage of explosion and amount of Temporary Health are randomized. Similar to <a href="Ysley's_Pyre_Keeper.md">Ysley's Pyre Keeper</a>'s <font>Flames of Life</font>.<br>
+  The damage of explosion and amount of Temporary Health given are randomized. <b>Damage:</b> 5.5-40, averaging 19.7 out of 100 procs. <b>Temporary Health:</b> 0-50, averaging 25.77 out of 100 procs.<br>
   <b>Explosions cannot execute.</b><br>
   <br>
   Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, <a href="Calamus.md">Calamus</a> job chests and turning in an <a href="Artifacts.md">Artifact</a> to bankers in the <a href="Maps.md">Eastern Luminant</a>. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a> and <a href="Fishing.md">Fishing</a> chests. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a><br>
