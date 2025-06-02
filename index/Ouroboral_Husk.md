@@ -1,6 +1,6 @@
 ---
 title: Ouroboral Husk
-revid: 145614
+revid: 145662
 source: https://deepwoken.fandom.com/wiki/Ouroboral_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Relics, Items]

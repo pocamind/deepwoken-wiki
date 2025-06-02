@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 138356
+revid: 145664
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, Light Weapons]
@@ -25,9 +25,9 @@ categories: [Weapons, Pages with broken file links, Fists, Light Weapons]
 | obtainment | (Way of Navae)Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata)Step 1: Help Legion Captains , on Aratel Island. , Step 2: Help enough of them for a , recommendation. , Step 3: Return to Amara. , (Fang and Coil)Step 1: Have 20 LHT and Friend Etris Reputation. , Step 2: Defeat The Doom of Caeranthil. It does not count if you don't receive a chest. , Step 3: Speak to Vesque. , (Jus Karita)Step 1: Have 40 LHT and be Power 5. , Step 2: Talk to Polis in Etris. |
 | description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "Adopt the path of the serpent." - Fang and Coil, "The traditional martial arts style of the Justicars." - Jus Karita, "Your bare fists. Worth a shot, right?" -"'Starting Weapon Description'" |
 
-Fists are another type of scaled LHT weapon attribute in Deepwoken.
+Fists are a unique type of [Light Weapon](Weapons.md) in _Deepwoken_.
 
-There are 4 different fist styles and 3 of them share the common ability of being able to be switched at any time, even mid combat.
+There are 4 different fist styles and 3 of them share the ability to be switched between at any time, even mid-combat.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 145147
+revid: 145670
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -357,7 +357,7 @@ _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 -   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul themself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
 -   They are not found within Scyphozia as their true body is likely far deeper.
 -   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
--   "We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight." - Developer ragoozer.[\[1\]](#cite-note-rag-1)
+-   "We are legally obliged not to tell you whether Yun'shul or [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss) would win in a fight." - Developer ragoozer.[\[1\]](#cite-note-rag-1)
 -   It is known that where his main shrine resides there are multiple shrines with similar appearances and different functions while having even more shrines that do the same function in the East, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who they call "Puppets" for specific deals.
 -   They are not a former Ministry Prophet.[\[2\]](#cite-note-arch-2)
 -   Knows about the existence of the Ministry calling them "Godseekers" and "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind used to do", stating that they still accepted the sacrifice of the Ministry.
