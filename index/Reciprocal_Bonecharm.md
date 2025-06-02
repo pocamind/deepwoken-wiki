@@ -1,6 +1,6 @@
 ---
 title: Reciprocal Bonecharm
-revid: 145534
+revid: 145613
 source: https://deepwoken.fandom.com/wiki/Reciprocal_Bonecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -36,4 +36,6 @@ A teleportation circle will appear below the user's feet, and after a short dela
 
 ## Trivia
 
+-   Reciprocal Bonecharm is located in the utility category in your inventory rather than the Relic category.
+-   Reciprocal Bonecharm was added alongside [Baneful Syrinx](Baneful_Syrinx.md) and [Ouroboral Husk](Ouroboral_Husk.md), with all three having the same usage; teleporting you somewhere specific.
 -   Reciprocal Bonecharm can be used in the Overworld or the [Depths](First_Layer.md) to teleport yourself into the Second Layer directly.

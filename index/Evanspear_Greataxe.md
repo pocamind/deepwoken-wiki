@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 145553
+revid: 145625
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -28,7 +28,7 @@ categories: [Weapons, Greataxes]
 
 The Evanspear Greataxe is a [Heavy Weapon](Weapons.md) that requires 70 Heavy Weapons stat to use. It's one of the few Heavy Weapons dealing additional **Bleed damage** (7.8), balanced out by its subpar swing speed.
 
-It can be obtained from multiple sources, primarily from [Layer 2 (Eternal Gale)](Second_Layer.md) chests as an uncommon drop. It drops very rarely from [Crimson Terrapods](Terrapod.md) and [Legion Captains](Legion_Captain.md) as gale.(get the joke?)  
+It can be obtained from multiple sources, primarily from [Second Layer](Second_Layer.md) chests as an uncommon drop. It drops very rarely from [Crimson Terrapods](Terrapod.md) and [Legion Captains](Legion_Captain.md).  
 
 Meeting the requirements, this weapon deals 37.5 + **11.3 BLD**, for a total of 48.8 damage. With 6 Proficiency, 100 HVY, and an additional +6% damage from stars, this weapon deals 52.7 + **15.8 BLD**, for a total of 68.5 damage.
 

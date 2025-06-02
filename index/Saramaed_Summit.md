@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 138629
+revid: 145618
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones, The Ignition Union, Eastern Luminant, Locations in the Eastern Luminant]
@@ -67,6 +67,7 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 -   Platinum Bar
 -   Brilliant Lotus
 -   Hellfire Lotus
+-   [Ouroboral Husk](Ouroboral_Husk.md)
 -   TBA
 
  |

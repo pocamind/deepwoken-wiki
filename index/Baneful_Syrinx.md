@@ -1,6 +1,6 @@
 ---
 title: Baneful Syrinx
-revid: 145568
+revid: 145612
 source: https://deepwoken.fandom.com/wiki/Baneful_Syrinx
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -30,19 +30,12 @@ Upon usage, the user will be prompted to select one of three locations:
 2.  Cathedral of the Voices ([The Depths trial](Cathedral_of_the_Interstice.md))
 3.  Harbringer of the Fall ([The Diluvian Mechanism](The_Diluvian_Mechanism.md))
 
-Upon selecting a location, a teleportation circle will appear below your feet, and after a short delay, you will be teleported to the selected location.
-
-## Gallery
-
-Duke holding the Baneful Syrinx
-
-  
-
-  
+Upon selecting a location, a teleportation circle will appear below your feet, and after a short delay, you will be teleported to the selected location. It can be used in combat.
 
   
 
 ## Trivia
 
 -   Baneful Syrinx is located in the utility category in your inventory rather than the Relic category.
--   Baneful Syrinx can be used in the Overworld to teleport yourself into The Depths, acting similarly to [Deebound's](Origins.md#deepbound) Call of the Deep.
+-   Baneful Spyrinx was added alongside [Reciprocal Bonecharm](Reciprocal_Bonecharm.md) and [Ouroboral Husk](Ouroboral_Husk.md), all three having the same usage, being teleporting you somewhere specific.
+-   Baneful Syrinx can be used in the Overworld to teleport yourself into The Depths, acting similarly to [Deepbound's](Origins.md#deepbound) Call of the Deep.

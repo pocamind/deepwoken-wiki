@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 142307
+revid: 145595
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -101,6 +101,10 @@ Ganymede begins with an innate hat by default that has no stats. It will be remo
 Ganymede hats are [transmoggable](Transmogrification.md) onto any other headgear. To perform this, turn in the headgear you want to use for stats and the option to style it after your Ganymede hat will appear. Attempting to equip a Ganymede hat smelt on a non Ganymede character will result in the headgear reverting back to its base appearance.
 
 Ganymede hats also have full [dye](Dye_Packet.md) compatibility, allowing you to dye the outside and the underside of the hat separately. After dying the outside of the hat, the option to dye the underside will appear. You can press submit without changing anything to keep the base appearance of the hat and move on to the underside dye without spending dye packets.
+
+### Alternate Oath Cosmetics
+
+Ganymede has an alternate variant of the [Starkindred Wings](Oath%253A_Starkindred.md). It shares this alternate Oath cosmetic with the [Vesperian](Vesperian.md) aspect.
 
 ## Trivia
 

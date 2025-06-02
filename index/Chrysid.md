@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 145208
+revid: 145636
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -53,7 +53,7 @@ The Chrysid people are an aspect related to moths, inheriting their compound eye
 -   Chrysids native to the Isles are known as Aecta (Aecti in plural), and speak in the Moonlit Dialect.
 -   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
 -   Within the central isles of the Lullaby Isles is a city-state where the council of the Moonlit Faith resides.
--   [Hiri](Hiri.md), [Liviu](Liviu.md), [Lake](Lake.md), and [Marro](Marro.md) reveal lore about the Chrysid.
+-   [Hiri](Hiri.md), [Liviu](Liviu.md), [Lake](Lake.md), [Ottilde](Ottilde.md), and [Marro](Marro.md) reveal lore about the Chrysid.
 -   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
     
 
@@ -86,6 +86,12 @@ The Chrysid people are an aspect related to moths, inheriting their compound eye
 -   Zenekai
     
 
+## Gallery
+
+### Alternate Oath Cosmetics
+
+The Chrysid aspect has an alternate variant of the [Starkindred Wings](Oath%253A_Starkindred.md).
+
 ## Notes/Trivia
 
 -   Mothwing Dust only procs against people who initiated combat with you **first**. If you instigated it then you will gain no wall hacks.
@@ -93,7 +99,5 @@ The Chrysid people are an aspect related to moths, inheriting their compound eye
 -   The Seer variant may be a direct reference to [The Seer](https://hollowknight.fandom.com/wiki/Seer) from _Hollow Knight_
 -   The [Hallowtide](Hallowtide.md) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
     -   Additionally, it'd also continue the trend of the Greathive aspects having inspiration for their design(s) taken from Hollow Knight.
-
--   With [Oath: Starkindred](Oath%253A_Starkindred.md) on Chrysid, you get special wings that take on the appearance of moth wings. There's an image on the [Oath: Starkindred](Oath%253A_Starkindred.md) page.
 -   On March 31st, 2025, Chrysids were given unique eyebrows.
-    -   On April 7th, 2025, Chrysids could choose to lose the eyebrows again.
+    -   On April 7th, 2025, Chrysids could choose to remove the eyebrows.

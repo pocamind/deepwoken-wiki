@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 145570
+revid: 145610
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -241,16 +241,30 @@ Locations: [Temple of Hearts](Temple_of_Hearts.md), [Cathedral of the Interstice
  |
 | 
 
- | [Reciprocal Bonecharm](Reciprocal_Bonecharm.md) - An effigy to [Ethiron](Scion_of_Ethiron.md) that is used to teleport you directly into the [Second Layer](Second_Layer.md)'s Sanctuary Outskirts.
+ | [Reciprocal Bonecharm](Reciprocal_Bonecharm.md) - An effigy to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) that is used to teleport you directly into the [Second Layer](Second_Layer.md)'s Sanctuary Outskirts.
 
   
-If used in the Second Layer, it can be used to bypass the first floor, teleporting you directly into the second.
+If used in the Second Layer, it will prompt you to skip the first floor and teleport you into the second.
 
 -   _(Consumed after 10 uses)_
 
  | 
 
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+
+ |
+| 
+
+ | [Ouroboral Husk](Ouroboral_Husk.md) - An effigy to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) that is used to teleport you to one of two locations in the Overworld.
+
+  
+Locations: [Saramaed Summit](Saramaed_Summit.md) gate, [Saramaed Summit](Saramaed_Summit.md) volcano
+
+-   _(Consumed after 10 uses)_
+
+ | 
+
+-   [Saramaed Summit](Saramaed_Summit.md)
 
  |
 
