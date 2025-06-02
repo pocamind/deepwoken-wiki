@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 144842
+revid: 145657
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -41,15 +41,15 @@ This weapon comes with two passive abilities:
 
 -   **Gale Affinity** - Your critical attack now applies Suffocate. If the user has Haunted Path: Specter, critical attacks will fill up the Specter gauge and summon Apparitions.
 
-When using the weapon one-handed it becomes two swords, changing its swing speed, criticals and animations.
+When using the weapon one-handed, it becomes two swords, changing its swing speed, criticals, and animations.
 
 With the minimum stat requirement to equip the weapon, the weapon will deal 24.1 damage.
 
 -   Around 25.3 damage with the 5% innate After Cut effect, and around 26.5 with the 10% After Cut effect from the Talent.
 
-With 100 MED and 100 WND, it will deals 30.6 damage
+With 100 MED and 100 WND, it will deal 30.6 damage.
 
--   Around 32.2 damage with the 5% innate After Cut effect, and around 33.7 with the 10% After Cut effect from the Talent.
+-   It deals around 32.2 damage with the 5% innate After Cut effect, and around 33.7 with the 10% After Cut effect from the Talent.
 
 ## Critical
 

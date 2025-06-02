@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 145063
+revid: 145656
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1156,9 +1156,10 @@ Ice
 -   Iceberg applies bottom freeze on every hit (regardless of cooldown), but still puts the Frozen Legs status on cooldown.
 -   Iceberg is put on CD by [Reinforce](Attunement-less.md#reinforce), and vice versa.
 -   Does not proc Deep Gems on hit.
--   Can be modified with Cloud/Stratus Stones, Aeon/Eternal Logstones, Drift/Rush Shards, and Crystal/Perfect Lenses.
-    -   Drift and Rush Shards increases the amount of health healed while the Mantra is active.
-    -   Stones, Logstones, and Lenses all do absolutely nothing; no range, healing, or duration difference.
+-   Can be modified with Drift/Rush Shards to increase the amount of health healed while the Mantra is active.
+-   Can be modified with Stones, Logstones, and Lenses, but they all do absolutely nothing; no range, healing, or duration difference.
+-   Can be modified with a Blast Spark to turn into a large ice crystal that quickly slams the ground when used in the air and negates fall damage.
+    -   Can be modified with Drift/Rush Shards to increase the fall speed.
 
  |
 
