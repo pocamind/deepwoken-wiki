@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 144328
+revid: 145570
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -204,7 +204,7 @@ It grants the user +50 knowledge on subsequent uses.
 
  | [Gilded Needle](Gilded_Needle.md) - A needle that changes one of your [Equipment's pips](Equipment.md) to another pip of your choice (with regards to pip diversity limitations.)
 
--   (_Consumed upon usage)_
+-   _(Consumed upon usage)_
 
  | 
 
@@ -222,6 +222,35 @@ It grants the user +50 knowledge on subsequent uses.
 
 -   Crafting
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+
+ |
+| 
+
+ | [Baneful Syrinx](Baneful_Syrinx.md) - An effigy to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) that is used to teleport to one of three locations in [The Depths](First_Layer.md).
+
+  
+Locations: [Temple of Hearts](Temple_of_Hearts.md), [Cathedral of the Interstice](Cathedral_of_the_Interstice.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+
+-   _(Consumed after 10 uses)_
+
+ | 
+
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
+
+ |
+| 
+
+ | [Reciprocal Bonecharm](Reciprocal_Bonecharm.md) - An effigy to [Ethiron](Scion_of_Ethiron.md) that is used to teleport you directly into the [Second Layer](Second_Layer.md)'s Sanctuary Outskirts.
+
+  
+If used in the Second Layer, it can be used to bypass the first floor, teleporting you directly into the second.
+
+-   _(Consumed after 10 uses)_
+
+ | 
+
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
 
  |
 

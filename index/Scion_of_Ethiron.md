@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 145318
+revid: 145536
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -213,6 +213,7 @@ This list may be missing items, please help us by filling in the gaps.
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
     <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
+    <li><a href="Reciprocal_Bonecharm.md">Reciprocal Bonecharm</a></li>
     <li><a href="Void_Spire.md">Void Spire</a></li>
   </ul></li>
   </ul></td>

@@ -1,6 +1,6 @@
 ---
 title: Liviu
-revid: 145464
+revid: 145567
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs]
@@ -20,7 +20,7 @@ Liviu is a [Chrysid](Chrysid.md) next to the Mystic. Seeming to be involved with
 
 ## location
 
-Liviu is located at [Greathive Aratel](Greathive_Aratel.md)
+Liviu is located at [Greathive Aratel](Greathive_Aratel.md) beside the library
 
 ## Dialogue
 

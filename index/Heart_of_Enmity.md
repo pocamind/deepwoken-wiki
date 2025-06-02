@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 145408
+revid: 145543
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -115,6 +115,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+    <li><a href="Baneful_Syrinx.md">Baneful Syrinx</a></li>
     <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
     <li><a href="Enchantments.md">Enchant Grease</a></li>
     <li><a href="Enchantments.md">Enchant Stones</a> (Curse enchants seem to drop more commonly than non-curse enchants)</li>

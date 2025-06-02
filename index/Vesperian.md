@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 142878
+revid: 145550
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -107,7 +107,7 @@ Vesperian Masks have full [dye](Dye_Packet.md) compatibility, as you can dye the
 
 -   Vesperians may be somewhat based off Bombardier Beetles. Their name however is based off of the Vespa (Hornets), the largest eusocial vespidae (Wasps).
 -   Vesperians were inspired by the game Hollow Knight.
--   The Blindseer mask may be a reference to the Sheikah from the Legend of Zelda series.
+-   The old Blindseer mask may have been a reference to the Sheikah from the Legend of Zelda series.
 -   There are 18 Vesperian masks in total, which is more than facial markings, which only have 13.
 -   The aspect variants for Vesperian are based on various armour pieces typically worn by knights. A sabaton is a shoe, a besague is a type of rondel that protects the shoulder, and a plackart is a type of torso armour/chestplate.
 -   Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
@@ -117,9 +117,11 @@ Vesperian Masks have full [dye](Dye_Packet.md) compatibility, as you can dye the
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it
 -   Vesperians are considered one of the best aspects in the game, due to their natural armor granting an actual combat advantage by making you take less damage.
 
-A Vesperian with Blindseer
+The old Blindseer mask
 
--   Instead of the usual blindfold, Vesperian [Blindseers](Oath%253A_Blindseer.md) acquire a special black colored mask with a gold pattern that resembles an eye. Additionally, their original skin color is changed to a more Ganymede-like appearence, instead having black skin and dark gray hair. This pattern can also be found on one of the Vesperian statues inside of [The Lordsgrove](The_Lordsgrove.md).
+-   Vesperian used to have a special mask ink variant with the [Blindseer Oath](Oath%253A_Blindseer.md), this was later replaced with the current markings.
+-   Instead of the usual blindfold, Vesperian [Blindseers](Oath%253A_Blindseer.md) acquire special blue markings on the outside of their mask, with the marking at the top resembling an eye. These markings are three-dimensional and can be [dyed](Dye_Packet.md). Additionally, their original skin color is changed to a more Ganymede-like appearence, instead having black skin and dark gray hair. This pattern can also be found on one of the Vesperian statues inside of [The Lordsgrove](The_Lordsgrove.md).
+-   Instead of the eye trail, Vesperians with [Visionshaper](Oath%253A_Visionshaper.md) will have purple angular sigils around their mask. These are [dyable](Dye_Packet.md).
 -   Instead of the usual wings, Vesperian [Starkindred](Oath%253A_Starkindred.md) will have beetle wings, reflecting their bug-like nature. They share this quality with [Ganymedes](Ganymede.md). (Picture needed)
 -   The Chitin Talent (aspect ability) can be stacked with the Exoskeleton Talent in order to make your natural armor resist up to 13% physical damage. The effect of Chitin is reduced to 3% with the Exoskeleton Talent.
 -   Vesperian and Lightborn are the first aspects to receive a cosmetic in the UGC Avatar Shop.

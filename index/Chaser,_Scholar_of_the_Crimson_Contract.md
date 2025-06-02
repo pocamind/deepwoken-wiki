@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 144519
+revid: 145499
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry]
@@ -186,7 +186,7 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>Strange Tome Volume #2, a quest item for the <a href="Bloodfouler.md">Bloodfouler</a></li>
+    <li><a href="Strange_Tomes.md">Strange Tome Volume #2</a>, a quest item for the <a href="Bloodfouler.md">Bloodfouler</a></li>
     <li><a href="Weathered_Timepiece.md">Weathered Timepiece</a>, a crafting component for the <a href="Vortex_Echo.md">Vortex Echo</a></li>
     <li><a href="Heartstar.md">Heartstars</a></li>
     <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
@@ -210,7 +210,7 @@ Exhaustive Loot Table
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>.</li>
     <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
-    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Evanspear_Greataxe.md">Evanspear Hand Axe</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a>.</li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>, <a href="The_Path's_Defender.md">The Path's Defender</a>.</li>
   </ul></td>

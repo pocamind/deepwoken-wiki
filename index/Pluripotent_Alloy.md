@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 140097
+revid: 145569
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -18,16 +18,15 @@ categories: [Items]
 
 ## Description
 
-The Pluripotent Alloy is an item in Deepwoken that you can apply to midgame weapons. It upgrades the stats of an applicable weapon into that of an endgame-level weapon, on par with the likes of the [Shattered Katana](Shattered_Katana.md), [Krulian Knife](Krulian_Knife.md) and [Pale Morning](Pale_Morning.md). It has a pity system where every four boss kills you are guaranteed to obtain one, in addition to the RNG roll. When receiving an alloy from a RNG roll your pity counter is reset.
+The Pluripotent Alloy is an item in Deepwoken that you can apply to midgame weapons. It upgrades the stats of an applicable weapon into that of an endgame-level weapon, on par with the likes of the [Shattered Katana](Shattered_Katana.md), [Krulian Knife](Krulian_Knife.md) and [Pale Morning](Pale_Morning.md).
 
 It can also be used to obtain [Ironsing](Ironsing.md).
 
 ## How to Obtain
 
-### Methods
+**Pluripotent Alloys** can primarly be obtained from most [Bosses](Bosses.md). Killing the first boss on a slot rewards a **Pluripotent Alloy**. Afterward, boss have a 25% chance of dropping it. There is a pity system, where not obtaining a Pluripotent Alloy after 3 boss kill guarantees a drop on the 4th kill. These Pluripotent Alloy drops are immediatly added to your inventory.
 
--   Killing a boss for the first time (per character), if you contribute enough damage.
--   As a potential drop from chests in [Saramaed Hollow](Saramaed_Hollow.md).
+**Pluripotent Alloys** can also be found in chests in the [Saramaed Hollow](Saramaed_Hollow.md).
 
 ### Bosses that drop Pluripotent Alloy
 
@@ -40,8 +39,8 @@ It can also be used to obtain [Ironsing](Ironsing.md).
 
 ## How to Use
 
-To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip an applicable weapon while being at the Weapon Attribute requirement, then use the alloy. The weapon will then transform into its "Alloyed" variant, signified by a white particle whirling around the weapon during the animation. This increases the weapon's requirement to 75. The alloy cannot be used on inapplicable weapons, and nothing will happen if you try to.  
-  
+To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip an applicable weapon while being at the Weapon Attribute requirement, then use the alloy. The weapon will then transform into its "Alloyed" variant, signified by a white particle whirling around the weapon during the animation. This increases the weapon's requirement, usually to 75. The alloy cannot be used on inapplicable weapons, and nothing will happen if you try to.
+
 If you have the [Ignition Delver origin](Origins.md), you are able to turn **3** of these into **1** [Smith's Alloy](<Smith's_Alloy.md>) or turn **9** of them into 1 [Armorers Needle](<Armorer's_Needle.md>) the Hollow Forge at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Alloyable Weapons

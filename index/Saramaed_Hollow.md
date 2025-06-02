@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 142702
+revid: 145571
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -173,6 +173,8 @@ Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Th
 -   Try and crouch down; this will reduce the monsters detection rate and prevent you from getting attacked by other monsters.
 -   Despite all these upsides, it is very time consuming and the drops are very RNG based, meaning you can either get REALLY lucky and hit the jackpot, or, more than likely, go back up to the surface practically empty-handed.
 -   The Saramaed Hollow can be used to very easily farm notes, since the first layers are relatively easy and give large chests that give a ton of equipment. The equipment can then be sold to the antiquarian above, leading to over a thousand notes per floor.
+-   When making a build with the express purpose of farming this dungeon, look into mobility options (akin to a Layer 2 Build) and ways to survive a swarm (akin to a Dilluvian Build)
+    -   In regard to equipments, as monsters start ignoring DVM and Armor alltogether, primarly invest in HP.
 
 Good luck, and happy deepdelving!
 

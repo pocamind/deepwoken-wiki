@@ -1,6 +1,6 @@
 ---
 title: The Understrand
-revid: 138230
+revid: 145493
 source: https://deepwoken.fandom.com/wiki/The_Understrand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Layer 1, The Ministry]
@@ -45,7 +45,7 @@ At Ally Ministry and Low Divers Reputation: [Black Diver](<Black_Diver_(NPC).md>
 -   [Darkened Bastion](Darkened_Bastion.md)
 -   [Dormant Splinter](Dormant_Splinter.md)
 -   [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
--   The Strange Tome (Volume 3)
+-   [The Strange Tome](Strange_Tomes.md) (Volume 3)
 -   [Crypt Blade](Crypt_Blade.md)
 
 ## Event 2: [Silhuett](Silhuett.md) Event
