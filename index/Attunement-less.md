@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 145398
+revid: 145729
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -815,6 +815,7 @@ Blunt
 -   Can be used from any height, and you will float.
     -   Does not negate fall damage.
 -   Has a bug when trying to apply Stratus Stones where it doesn't use any, doesn't have any effect, but still adds to the ether used.
+-   10s cooldown.
 
  |
 | 
@@ -856,6 +857,7 @@ Enemy's Attack
 -   Can be upgraded with the **All Knowing** Talent, removing the range limit Prediction normally has.
 -   Can be upgraded with the **Successive Prediction** Talent, which allows you to predict multihits, as it grants a brief window of auto prediction.
 -   Can be upgraded with the **Twelve Steps Ahead** Talent, halving Prediction's cooldown on successful Prediction (minimum 2s) and doubling Prediction's cooldown if you whiff it (maximum 30s). Going 30s without using Prediction will reset this effect.
+-   30s cooldown.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145713
+revid: 145727
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3491,11 +3491,11 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 Certain Talents are given when a specific equipment or outfit is worn. Most of these Talents are exclusive to that equipment, though some are also available as cards from powering up. Multiple copies of the same Talent do not stack. Equipment Talents are listed in alphabetical order:
 
--   Actions Speak Louder: [Warmaster's Medallion](<Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your Resonance cooldown is doubles as long. In areas where your Resonance is suppressed, reduce your cooldown by 5% instead.
-    -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is doubled.
+-   Actions Speak Louder: [Warmaster's Medallion](<Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your Resonance cooldown is 1.5x as long. In areas where your Resonance is suppressed, reduce your cooldown by 5% instead.
+    -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is 50% longer.
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 5% instead.
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
-    -   Lowers the self-damage taken from Shade Devour, Static Withdraw, and Flame Within's self damage tick on cast (NOT the burn damage). Additionally removes Deepspindle running critical attack self-damage completely.
+    -   Lowers the self-damage taken from things like Shade Devour, Static Withdraw, and Flame Within's self damage tick on cast (NOT the burn damage). Additionally removes Deepspindle running critical attack self-damage completely.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed.
@@ -3611,7 +3611,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
-    -   [Umbrite Witherblade](Umbrite_Witherblade.md) also gains the full 25% Wither.
+    -   [Umbrite Witherblade](Umbrite_Witherblade.md) also (supposedly) gains the full 25% Wither.
 -   Whistleguard: [Whistling Periapt](Whistling_Periapt.md) - The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.
     -   The wind shield grants one (1) autoparry frame and has a cooldown of 10 seconds.
     -   The wind shield lasts a few seconds or until you get hit (in which case, it will automatically parry the attack), cast any mantra, feint any attack, or use your critical attack.
