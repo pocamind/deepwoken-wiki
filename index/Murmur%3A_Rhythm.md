@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Rhythm"
-revid: 129066
+revid: 145712
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Rhythm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -26,8 +26,14 @@ This also allows the user to see a rough estimate of entity health (orange for ~
 
 ### Obtainment
 
--   In the first floor of layer 2, The Eternal Gale, find Kadrivus Entomolius Auditan (located below a broken bridge near the original [Bonekeeper](Bone_Keeper.md) mini-boss fight). Required to be at least power 6 in order to initiate a conversation.
+#### Method One - [Layer 2](Second_Layer.md) Quest
+
+-   In the first floor of Layer 2, The Eternal Gale, find Kadrivus Entomolius Auditan (located below a broken bridge near the original [Bonekeeper](Bone_Keeper.md) mini-boss fight). Required to be at least power 6 in order to initiate a conversation.
 -   You will need to listen to the audio cues given of by the holes in the wall (indicated by a pulsing marker) and interact with the hole that make a lower pitched sound compared to the other 3. Consider lowering your music volume and raising the audio of your Roblox client to hear more clearly. Repeat this task 3 times and you will be granted the murmur.
 -   Failed attempts will lead to 2-3 Parasites forming into your body. If you have the [Wormwarder Lantern](Wormwarder_Lantern.md) or [Grand Fisher Helm](Grand_Fisher_Helm.md) equipped, no parasites form on your body, allowing you to retry the task as needed.
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=z_D3wekcclg&ab_channel=TheDeepwokenGuide)._
+
+#### Method Two - Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
+
+Obtaining the [Soulbreaker](Oath%253A_Soulbreaker.md) [Oath](Oaths.md) will instantly grant you Rhythm as well as Spotter. However, Spotter will not work unless you have the [Callout](Talents.md#leader) Talent.

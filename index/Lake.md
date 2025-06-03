@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 131738
+revid: 145716
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -12,7 +12,7 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
 |---|---|
 | name | Lake |
 | aspect | Chrysid |
-| location | Upper Erisia, bridge to the Temple of the Forgotten Flame |
+| location | Songseeker Wilds, in a small cave |
 
 ## Description
 

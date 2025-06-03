@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145417
+revid: 145713
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -741,10 +741,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.
     -   Heal others by 3%.
     -   Heal the user by 2% + 1% for every people healed.
-    -   Hold F while casting Reinforce to apply reinforce to everyone, including non allies.
+    -   Hold your block key while casting Reinforce to apply reinforce to everyone, including non allies. (This is a default feature of Reinforce.)
     -   Only procs on allies.
     -   Prerequisites: [Reinforce](Attunement-less.md#reinforce) (Mantra), 40 Fortitude
-    -   **(Note that reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
+        -   **(Note that reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
 
 ### Cosmic Wind
 
@@ -781,7 +781,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them.
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
--   Spike Traps \[Common Talent, Frostdraw Exclusive\] - Press F during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
+
+-   Spike Traps \[Common Talent, Frostdraw Exclusive\] - Press F during the wind up of your [Ice Spikes](Frostdraw.md#ice-spikes) to create traps around you instead of spawning a spike in the normal spot.
+    -   Activates off holding your block key during the windup of Ice Spikes. It will not proc while holding F if you've changed your block/parry keybind.
     -   Activates the "Ice Spikes" mantra upon being stepped on.
     -   There are small, blue, transparent "traps" indicating the hitboxes, placed randomly around the user.
     -   Can stack multiple times, allowing for very high amounts of traps in one spot.
@@ -1185,6 +1187,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I survive off the frozen Elements."**_
 
 -   Glacial Finish \[Common Talent, Frostdraw Exclusive\] - Press F while using your Ice Smash Mantra to follow up with a devastating attack.
+    -   Activates off holding your block key during the windup of Ice Smash. It will not proc from holding F if you've changed your block/parry keybind.
     -   Prerequisites: [Ice Smash](Frostdraw.md#ice-smash) (Mantra), 35 Frostdraw
 
 -   Glacial Mobility \[Common Talent, Frostdraw Exclusive\] - Cast while slide-jumping to perform a running attack with your ice sabers.
@@ -1432,7 +1435,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
     -   **Cap Artist** is disabled with this Talent.
-    -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
+    -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...) and the [Paralytic Dust](Paralytic_Dust.md) [Resonance](Resonance.md).
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 -   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when knocked. 60s CD.
@@ -1608,7 +1611,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
     -   Ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods, 5 rods limit on default path.
-    -   This keybind can be configured.
+    -   Rod pull's keybind can be configured in settings.
     -   Obtained at 1 Ironsing or from the Ironsing trainer [Adar](Adar,_Master_of_Metal.md).
 
 -   Adept Ironsinger \[Common Talent\] - You can now obtain 1-star Ironsinger mantras.
@@ -1781,12 +1784,15 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Leader."**_
 
 -   Callout \[Common Talent\] - You can mark objects or enemies by pressing Z, which will mark them for all nearby allies.
+    -   Callout's activation keybind can be configured in settings.
     -   Prerequisite: 20 Charisma
 
 -   Spotter \[Common Talent\] - Marking enemies while in Rhythm will now indicate their health status to your allies.
-    -   Activated by pressing Z.
+    -   Activated by using Callout (pressing Z).
+        -   Callout's keybind can be configured in settings.
     -   **Disabled on players with Not a Scratch.**
-    -   Prerequisites: 40 Charisma, [Murmur: Rhythm](Murmur%253A_Rhythm.md), Callout
+    -   Prerequisites: 40 Charisma, [Murmur: Rhythm](Murmur%253A_Rhythm.md), Callout OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
+        -   Note: This Talent does not work if you don't have Callout, you'll need Callout to use Soulbreaker's Spotter.
 
 ### Leaf in the Wind
 
@@ -2021,25 +2027,35 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Gain a +15% damage modifier when posture breaking with an M1.
     -   Will drain ether when in use under power 20. (ether drain scales on level)
     -   Deactivated when having 0% ether, or upon using Ardour scream.
-    -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md), [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), or talk with the [Old Stranger](Old_Stranger.md).
+    -   Ardour's activation keybind can be configured in settings.
+    -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md) or [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 25% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
+    -   Activated by utilizing the Ardour Scream tool in your inventory or holding your Ardour hotkey for a short duration and then letting go.
+        -   Ardour's keybind can be configured in settings, changing the key you'll need to hold in order to activate Ardour Scream (default H).
     -   Takes 100% Ether to be used, therefore deactivating Ardour.
         -   Can be used at 40% Ether rather than needing to be at 100% with the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
     -   Instead of debuffing affected players and making them take 25% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
     -   Doesn't apply insanity.
     -   Will also combat tag anybody hit.
     -   Can stack with m1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.
-    -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md)
+    -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   _**[Murmur: Rhythm](Murmur%253A_Rhythm.md)**_ _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
+    -   Rhythm's activation keybind can be configured in settings.
     -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
-    -   Red = Low Health, Yellow = Average Health, Green = Healthy
+    -   Red = Low Health, Yellow = Average Health, Grey = Healthy
     -   **Disabled on players with Not a Scratch.**
-    -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md).
+    -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   _**[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched._
-    -   Prerequisites: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md)
+    -   Tacet's activation keybind can be configured in settings.
+    -   On use, a sphere around your character will be created. To everyone outside of this sphere, you are invisible.
+    -   Tacet sphere size scales on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
+    -   In PvE you become effectively invisible at almost any range, sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
+    -   Tacet will be **disabled** during [Hell Mode](Hell_Mode.md), [Diluvian](The_Diluvian_Mechanism.md), and [Depths Trials](Cathedral_of_the_Interstice.md).
+    -   After 3 seconds of not crouching, Tacet will deactivate. After 1.5s of sprinting, Tacet will deactivate. Attacking or being hit will instantly deactivate Tacet.
+    -   Prerequisites: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 ### Natural Armor
 
@@ -2625,6 +2641,7 @@ _**"My cure is most effective."**_
     -   Prerequisites: Haunted Path: Specter, 50 Galebreathe
 
 -   Phantom Step \[Common Talent, Galebreathe Exclusive\] - Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)
+    -   Phantom Step's activation keybind can be configured in settings.
     -   Prerequisites: Haunted Path: Specter, 55 Galebreathe
 
 -   _Vanishing Wraith_ \[Rare Talent, Galebreathe Exclusive\] - Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target
@@ -2736,7 +2753,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisites: All Assassin Talents, 90 Agility
 
 -   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids far away from you. (+1 Passive Agility)
-    -   Pressing the V key on a knocked entity who's in close/medium range teleports you to them.
+    -   Utilizing the 'Carry' action on a knocked entity who's in close/medium range teleports you to them
     -   Can be used to go through walls if you can aim at the knocked entity through it.
     -   Prerequisites: Dustlunge, 100 Agility
 
@@ -2841,13 +2858,16 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Cap Artist \[Common Talent, Agility\] - Pressing R while crouching allows you to fake being dead. (+2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
-    -   Cancelled by pressing R again.
+    -   Cap Artist's activation keybind can be configured in settings.
+    -   Default key is, despite what the Talent description states.
+    -   Cancelled by pressing the activation key again.
     -   Using Cap artist in the depths makes you have normal gravity.
     -   **Disabled with Brick Wall.**
     -   Prerequisites: 25 Agility, 5 Charisma
 
 -   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing N. (+2 Passive Agility)
     -   The target need to be knocked to be able to pickpocket them.
+    -   The Pickpocket keybind can be configured in settings.
     -   Prerequisites: 5 Agility, 10 Charisma
 
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player.

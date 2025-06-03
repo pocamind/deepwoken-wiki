@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Ardour"
-revid: 145462
+revid: 145710
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Ardour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -30,10 +30,14 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 
 Defeat the [Dread Serpent](Dread_Serpent.md) either by randomly encountering it in the [Voidsea](Voidsea.md) or summoning it with a [Ardour Manifestation](Ardour_Manifestation.md).
 
-#### Method Two - The Old Stranger
-
-Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist them by giving them a refreshing drink such as a [canteen](Canteen.md) containing fresh water or [Redd Juice](Food.md), the Condensation Drip talent also allows you to obtain Ardour. Do note that not only is this event very rare, only a single player can obtain Ardour per event, so this is far less consistent than Method 1.
-
-#### Method Three - World Serpent
+#### Method Two - World Serpent
 
 Defeat the [World Serpent](The_Doom_of_Caeranthil.md) by randomly encountering it in the Etrean Luminant as a [World Event](World_Events.md)
+
+#### Method Three - The Old Stranger
+
+Encounter the [Old Stranger](Old_Stranger.md) on a boat and assist them by giving them a refreshing drink such as a [canteen](Canteen.md) containing fresh water or [Redd Juice](Food.md), the Condensation Drip talent also allows you to obtain Ardour. Do note that not only is this event very rare, only a single player can obtain Ardour per event, so this is far less consistent than all other Methods.
+
+#### Method Four - Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
+
+Obtaining the [Soulbreaker](Oath%253A_Soulbreaker.md) [Oath](Oaths.md) will instantly grant you Ardour as well as Ardour Scream.

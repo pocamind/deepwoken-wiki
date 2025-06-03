@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 145610
+revid: 145681
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -265,6 +265,7 @@ Locations: [Saramaed Summit](Saramaed_Summit.md) gate, [Saramaed Summit](Saramae
  | 
 
 -   [Saramaed Summit](Saramaed_Summit.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
  |
 
