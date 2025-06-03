@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 145681
+revid: 145725
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -258,7 +258,7 @@ If used in the Second Layer, it will prompt you to skip the first floor and tele
  | [Ouroboral Husk](Ouroboral_Husk.md) - An effigy to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) that is used to teleport you to one of two locations in the Overworld.
 
   
-Locations: [Saramaed Summit](Saramaed_Summit.md) gate, [Saramaed Summit](Saramaed_Summit.md) volcano
+Locations: [Saramaed Summit](Saramaed_Summit.md), [Saramaed Hollow](Saramaed_Hollow.md)
 
 -   _(Consumed after 10 uses)_
 

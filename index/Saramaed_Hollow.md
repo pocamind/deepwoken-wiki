@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 145571
+revid: 145721
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -104,6 +104,7 @@ Exhaustive Loot Table
     <li><a href="Void_Spire.md">Void Spire</a></li>
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
     <li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Only after 1.2km)</li>
+    <li><a href="Ouroboral_Husk.md">Ouroboral Husk</a></li>
   </ul></li>
   </ul></td>
 </tr>
