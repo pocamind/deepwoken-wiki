@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 145620
+revid: 145781
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -15,6 +15,8 @@ categories: [Enemies, NPCs, Bosses]
 Template:EnemyInfobox1.0
 
 ## Description
+
+#### **\*AS OF 6/1/2025 DUKE ERISIA IS BUGGED, GIVING HIM AN INSANELY STRONG AI, NEARLY UNBEATABLE. DO NOT ATTEMPT UNLESS YOU CAN DEAL WITH AUTO PARRY AND MOVESTACKING DURING EVERYTHING\***
 
 **Duke Ishamon Erisia** is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
@@ -454,3 +456,4 @@ Exhaustive Loot Table
 -   Killing Duke Ishamon Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has been in the game.
 -   Can instantly cast Aero Spear if his head is caught under something, especially the pipes found around the edges of his arena.
 -   Currently parries almost every m1, even if feinted. Some say his AI was swapped with that of [Maestro Evangard Rest](Maestro_Evengarde_Rest.md), who is now the easiest boss in the game, letting you regen your entire health bar without attacking you.
+    -   Duke has Maestro’s AI, Maestro has Bugged Bladeharper AI, and Bladeharper has Duke AI. Duke will also no longer execute you during his fight, but he will spam mantras. If you get up during the new Duke fight, make it count.

@@ -1,6 +1,6 @@
 ---
 title: Baneful Syrinx
-revid: 145612
+revid: 145776
 source: https://deepwoken.fandom.com/wiki/Baneful_Syrinx
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -28,7 +28,7 @@ Upon usage, the user will be prompted to select one of three locations:
 
 1.  Shrine of the Keeper ([Temple of Hearts](Temple_of_Hearts.md))
 2.  Cathedral of the Voices ([The Depths trial](Cathedral_of_the_Interstice.md))
-3.  Harbringer of the Fall ([The Diluvian Mechanism](The_Diluvian_Mechanism.md))
+3.  Harbinger of the Fall ([The Diluvian Mechanism](The_Diluvian_Mechanism.md))
 
 Upon selecting a location, a teleportation circle will appear below your feet, and after a short delay, you will be teleported to the selected location. It can be used in combat.
 

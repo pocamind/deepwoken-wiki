@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 145773
+revid: 145775
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -362,3 +362,4 @@ Exhaustive Loot Table
 -   The specific weapon of a different type can still drop if you're using a different weapon type. (Ex: Cerulean Thread dropping while using medium).
 -   His Hair ID is 6101425666.
 -   He has heterochromia, meaning both his eyes are different colors. It is unknown if he is born with this or it's somehow gained from his powers.
+-   Maestro is currently the easiest fight in the game, as he allows you to heal up completely if you stop moving, and he doesn’t M1 anymore. His AI has been swapped with a bugged version of the Bladeharper AI.
