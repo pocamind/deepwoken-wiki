@@ -1,6 +1,6 @@
 ---
 title: Paralytic Dust
-revid: 145792
+revid: 145798
 source: https://deepwoken.fandom.com/wiki/Paralytic_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

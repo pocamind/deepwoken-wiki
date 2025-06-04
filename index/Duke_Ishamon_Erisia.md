@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 145781
+revid: 145806
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -15,8 +15,6 @@ categories: [Enemies, NPCs, Bosses]
 Template:EnemyInfobox1.0
 
 ## Description
-
-#### **\*AS OF 6/1/2025 DUKE ERISIA IS BUGGED, GIVING HIM AN INSANELY STRONG AI, NEARLY UNBEATABLE. DO NOT ATTEMPT UNLESS YOU CAN DEAL WITH AUTO PARRY AND MOVESTACKING DURING EVERYTHING\***
 
 **Duke Ishamon Erisia** is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 

@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 144882
+revid: 145807
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -36,7 +36,7 @@ File:Jessamine .png
 
 **Guide**: Talk to the Ganymede NPC [Jessamine](Jessamine.md) in [Starswept Valley](The_Starswept_Valley.md). He will ask you to kill a King Thresher. They can be found in the Lightkeeper Temple nearby as a guaranteed spawn. Kill one and return.
 
-**Reward/s**: Thresher Scales
+**Reward/s**: Thresher Scales, Bravery
 
 **Chain of Perfection:**
 

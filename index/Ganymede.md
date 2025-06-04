@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 145595
+revid: 145865
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]

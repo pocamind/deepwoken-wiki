@@ -1,6 +1,6 @@
 ---
 title: Reciprocal Bonecharm
-revid: 145682
+revid: 145802
 source: https://deepwoken.fandom.com/wiki/Reciprocal_Bonecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -32,11 +32,11 @@ Upon usage, the user will be prompted to select a location:
     1.  Sanctuary Outskirts ([Second Layer: Floor 1](Second_Layer.md))
     2.  Shrine of Arrival ([Second Layer: Floor 2](Second_Layer.md))
 
-A teleportation circle will appear below the user's feet, and after a short delay, you will be teleported directly to your chosen location.
+A teleportation circle will appear below the user's feet, and after a short delay, you **and a maximum of 4 other players** will be teleported directly to your chosen location.
 
 ## Trivia
 
--   Assuming you had one previously, you **keep your Light Hook** when using this to skip the first floor.
+-   Assuming you had one previously, you will **keep your Light Hook** when using this to skip the first floor.
 -   Reciprocal Bonecharm is located in the utility category in your inventory rather than the Relic category.
 -   Reciprocal Bonecharm was added alongside [Baneful Syrinx](Baneful_Syrinx.md) and [Ouroboral Husk](Ouroboral_Husk.md), with all three having the same usage; teleporting you somewhere specific.
 -   Reciprocal Bonecharm can be used in the Overworld or the [Depths](First_Layer.md) to teleport yourself into the Second Layer directly.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 145778
+revid: 145818
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -83,8 +83,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>M1s apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Essentially it grants a 4% damage buff that bypasses the damage modifier cap (due to it being a separate instance of damage). Because the second damage instance is dealt as Frostdraw damage, it can be resisted by Frostdraw resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.<br>
-  After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> (base Frostdraw) and <a href="Status_Effects.md#chill">Chill</a> (base Frostdraw) OR one crystal (Crystallization Path). 7 second cooldown. Bottom Freeze procs with this enchant put the Talent on cooldown as well. (Visual change is currently bugged as of 26/05/25)</p>
+  <td><div><p>M1s apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Additionally, proccing frozen legs after landing enough hits with this enchant deals 10% damage in a seperate instance, instead of the 4%. Essentially it grants a 4% damage buff that bypasses the damage modifier cap (due to it being a separate instance of damage). Because the second damage instance is dealt as Frostdraw damage, it can be resisted by Frostdraw resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.<br>
+  After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a> for 2 seconds (base Frostdraw) OR one crystal (Crystallization Path). 7 second cooldown.</p>
   <p><b>Chilling's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's damage before modifiers.</b></p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>
@@ -580,7 +580,7 @@ Viscosity
 
 Incoming damage is instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.  
 No longer apply any protection from getting knocked below 10% (needs more testing) as of at least Nov 18th 24. (Used to make it the user couldn't be knocked or executed unless they were hit while at 1% HP.)  
-Pairs well with run it back as it nullifies all currently incoming damage.  
+Pairs well with [Run It Back](Run_It_Back.md) as it nullifies all currently incoming damage.  
 **Disabled if using Curse of the No Life King and/or Immortal Helm.**
 
  | 
