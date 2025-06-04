@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 141077
+revid: 145786
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Etrea, Kingdom of Etrea Enemies, Etrean Luminant]
@@ -22,7 +22,7 @@ With the introduction of [Training Mode](Training_Mode.md), they were rendered o
 
 ## Moveset
 
-An Instructor's arsenal consists of either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Mace](Mace.md) or [Iron Spear](Iron_Spear.md):
+An Instructor's arsenal consisted of either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Mace](Mace.md) or [Iron Spear](Iron_Spear.md):
 
 | Name | Description | media |
 | --- | --- | --- |

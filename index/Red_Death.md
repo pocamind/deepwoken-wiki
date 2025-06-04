@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 145674
+revid: 145782
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, Multiple Criticals, "Multi-Attunement Scaling", "Attunement-based Weapons"]
@@ -40,7 +40,7 @@ For the standing critical, the user raises the spear, summoning three stakes of 
 
 For the running critical, the user rapidly thrusts the spear while slowly moving forward, inflicting Blood Poisoning every time the target is hit, ending with a final blow that inflicts both Blood Poisoning and Shadow. The user then raises their hand, summoning three stakes that also inflict both Blood Poisoning and Shadow.
 
-Both criticals have a cooldown of **8 seconds**.
+Both criticals have a cooldown of **8 seconds**
 
 ## Trivia
 

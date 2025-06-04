@@ -1,6 +1,6 @@
 ---
 title: Paralytic Dust
-revid: 145224
+revid: 145792
 source: https://deepwoken.fandom.com/wiki/Paralytic_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -10,7 +10,7 @@ categories: [Resonances]
 
 | Paralytic Dust | |
 |---|---|
-| effect | On hit, Ragdolls target for 5 seconds and applies daze and blindness for ~10 seconds |
+| effect | On hit, Ragdolls target for 5 seconds and applies daze for ~10 seconds |
 | appearance | Throws a small cloud of dust from the users off-hand. |
 
 “ Conjure sensory particles that drop targets into instant, paralytic slumber. ”
@@ -31,6 +31,8 @@ Throws a small cloud of dust from the users off-hand. You may dye this with a [D
 
 Pressing C will activate the **Paralytic Dust** Resonance.
 
+If Paralytic Dust is Corrupted, it will apply blindness for 5 seconds
+
 ## Resonance Point Usage
 
 -   Sleeping variant:
@@ -41,3 +43,4 @@ Pressing C will activate the **Paralytic Dust** Resonance.
 ## Trivia
 
 -   You are no longer able to knock/damage people in the [depths](The_Depths.md), as of 5/25/2025
+-   Doesn't ragdoll people if they have brick wall

@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 145780
+revid: 145783
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -36,7 +36,6 @@ Meeting the requirements, this weapon deals 37.5 + **11.3 BLD**, for a total of 
 
 -   The name 'Evanspear' is the same as a guild during testing, 'The 'Evanspear Legion.'
     -   This could explain why it can be dropped from Legion Captain NPCS.
--   Has deceptively high range compared to its seemingly short appearance.
 -   Keep in mind that while using this weapon, you will not be able to experience the effects of some bleed [Talents](Talents.md) such as Speed Demon, as they do not stack.
 -   While this weapon used to be referred to as the "best PvE weapon," Its absurd damage was confirmed to be a bug in the June 21st, 2024 changelogs, which made it deal approximately +270% of its intended damage due to bleed scaling twice off PvE scaling. It is still a good option, but not overwhelmingly so.
 -   It was originally named Evanspear Hand Axe.
