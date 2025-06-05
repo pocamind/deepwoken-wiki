@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 144974
+revid: 145884
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies]
@@ -163,8 +163,4 @@ The owls special attacks are affected by shadow armour.
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)
-    
-    File:MenacingOwl.png
-    
-    This is the what the in-game text reads when interacting with a deep owl.
+2.  [↑](#cite-ref-2) File:MenacingOwl.png

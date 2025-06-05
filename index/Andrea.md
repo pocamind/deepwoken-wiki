@@ -1,6 +1,6 @@
 ---
 title: Andrea
-revid: 141312
+revid: 145885
 source: https://deepwoken.fandom.com/wiki/Andrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the First Layer]
@@ -16,7 +16,7 @@ categories: [Adret NPCs, NPCs, NPCs located in the First Layer]
 
 ## Description
 
-Andrea is an adret woman scared for her life, as she tries to decide between facing The trial or remaining in [Celtor City](The_City_of_the_Drowned.md).
+Andrea is an [Adretian](Adret.md) woman scared for her life, as she tries to decide between facing The trial or remaining in [Celtor City](The_City_of_the_Drowned.md).
 
 ## Location
 
