@@ -1,6 +1,6 @@
 ---
 title: Llevyn
-revid: 145772
+revid: 145874
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -216,4 +216,3 @@ This is an Easter Egg that happens when you glitch inside to enter [The Frontier
 
 -   There is an Easter Egg if the player talks to him too early. He uses unique dialogue if the generator has not been activated, seemingly calling out the player for being an exploiter.
     -   Despite this, there are other ways to get in to The Frontier Furnace, such as glitching through using Mantras, so this interaction does not ban you outright.
--   He is a Boulder variant Adret.

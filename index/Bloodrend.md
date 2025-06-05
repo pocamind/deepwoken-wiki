@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 144977
+revid: 145872
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -322,6 +322,7 @@ Blood + Bleed
 -   This attack apparently has 2 hits.
 -   Feinting this mantra leaves you in the air, but does not restore its cooldown.
 -   Only has 2 scaling
+-   Been testing: Inflicts a flat 15 blood poisoning
 
  |
 | 
