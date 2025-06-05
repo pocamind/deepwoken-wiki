@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 145384
+revid: 145914
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -85,6 +85,8 @@ They hail from the Western Luminant and are the most prominent aspect in [The Hu
 
 ## Trivia
 
+Monkskipper
+
 -   The aspect is based on Sun Wukong and monkeys.
 -   Khan means "King" in Mongolian, and Hindi, Hence the reason why they have a crown as ornament.
 -   In the novel "Journey to the West", the crown of Sun Wukong is actually a curse.
@@ -95,9 +97,6 @@ They hail from the Western Luminant and are the most prominent aspect in [The Hu
 -   Hair dye affects the sideburns.
 -   Weapons with tri-stat requirements can be equipped whilst nine points under their normal requirements, this also goes for weapons with a dual-stat requirement, which can be equipped whilst 6 points under the normal requirements.
 -   Khans are known to bet on fights.[\[1\]](#cite-note-1)
-    
-    Monkskipper
-    
 
 ## References
 

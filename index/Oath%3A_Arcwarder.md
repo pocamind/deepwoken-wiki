@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 143643
+revid: 145908
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -112,7 +112,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   Instantly grips low health players if the attack were to knock them.
         -   Has 17x PVE scale.
 
-Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, all of Arcwarder's attacks deal Oath, Flame, and Thunder damage. This means they will be resisted by either your Flame or Thunder resistance (whichever is higher) unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Elemental resistance.
+Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, all of Arcwarder's attacks (except for grounded Arc Beam) deal Oath, Flame, and Thunder damage. This means they will be resisted by either your Flame or Thunder resistance (whichever is higher) unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Elemental resistance.
 
 ## Trivia
 
