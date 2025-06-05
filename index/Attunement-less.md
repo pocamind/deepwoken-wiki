@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 145729
+revid: 145919
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -487,9 +487,9 @@ N/A
     -   At level 3 lasts 36sec with 45sec CD.
     -   At level 4 lasts 44sec with 40sec CD.
     -   At level 5 lasts 52sec with 35sec CD.
--   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
+-   When holding your block button during Reinforce's windup, it applies Reinforce to non-allied people, including mobs, turning your Reinforce green.
 -   Shares a cooldown with [Iceberg](Frostdraw.md#iceberg).
--   Can be upgraded with the **Grand Support** Talent, healing yourself and allies when you buff at least one other person with your Reinforce. This heals 3% of affected players' maximum HP.
+-   Can be upgraded with the **Grand Support** Talent, healing yourself and allies when you buff at least one ally with your Reinforce. This heals 3% of affected players' maximum HP.
 -   Can be upgraded with the **Lord's Tithe** Talent, stealing up to 20% of affected people's Ether to regenerate your own.
 
  |

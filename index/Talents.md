@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145904
+revid: 145925
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1981,7 +1981,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Already Dead \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take reduced damage from abilities with a health cost.
     -   Removes [Deepspindle](Deepspindle.md) running critical self-damage.
-    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Static Withdraw (with child Talents), and [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Link.
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Static Withdraw (with child Talents), and [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Sustain.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
@@ -3497,7 +3497,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 5% instead.
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
-    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Static Withdraw (with child Talents), and [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Link.
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Static Withdraw (with child Talents), and [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Sustain.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed.

@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 145657
+revid: 145918
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals]
@@ -64,11 +64,12 @@ The user shoots a blast of air and on collision or after a short amount of time 
 ## Trivia
 
 -   The sword is similar to a Chinese Dadao sword, which are machete-like daos.
-    -   Additionally, the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is fashioned after one.
-    -   Additionally, the original model of the Curved Blade of Wind closely resembled the Windshear from The Elder Scrolls V: Skyrim.
--   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices
+    -   The [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) also is fashioned after one.
+    -   The original model of the Curved Blade of Wind closely resembled the Windshear from The Elder Scrolls V: Skyrim.
+-   The original updated Curved Blade of Winds contained an absurd 120k vertices. Following the March 27th, 2023 update, this was reduced to a mere 7k vertices.
 -   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", which has no meaning.
 -   As the weapon is a dual wield, you are unable to utilize a Shield or Off-Hand gun.
+    -   You however can have a shield on your back in both stances, allowing you to utilize the [Turtle Shell](Talents.md#shieldmaster) Talent.
 -   The original model was a Wardens Blade with wind particles put onto the blade.
 -   When one-handing this weapon, you have two blades, meaning the two-hand stance only has one.
     -   This often leads people to mistake the single sword stance as the faster stance.

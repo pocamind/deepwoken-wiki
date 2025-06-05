@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 145479
+revid: 145923
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -287,7 +287,7 @@ There are **13** images, be warned
 -   [Deep Gems](Deep_Gems.md) were temporarily stripped from the loot pools of all _Etrean Luminant_ enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to Primadon's loot pool, although Deep Gems are not guaranteed to spawn after his defeat.
     -   This chest has since been repurposed to house many of the rarer drops such as Relics and Legendary Weapons.
 -   Primadon's respawn time is around 3 minutes.
-    -   This cooldown is account wise for the player who summoned Primadon and any who dealt damage to him.
+    -   This cooldown is account wide for the player who summoned Primadon and any who dealt damage to him.
 -   In the game files, it is called "MonkyWorldBoss." and ".monky"
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since parrying deals damage according to your level, allowing you to only parry to kill it.
     -   It takes ~80 parries to kill Primadon without damaging him.

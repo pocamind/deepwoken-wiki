@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 145583
+revid: 145924
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -63,7 +63,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
         -   Allies include Guildmates, and those with whom you share a Vow of Mastery or Vow of Allegiance.
         -   The sanity cost is only deducted on a successful heal.
     -   It has a 60 second cooldown.
-    -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
+    -   Hold block during the cast animation to heal everyone in range, regardless of ally status.
     -   Doesn't work on NPCs.
     -   Obtainment: 1 Pathfinder helped in the Depths Trial (must be alive)
 

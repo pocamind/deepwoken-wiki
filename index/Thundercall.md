@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 145064
+revid: 145920
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -443,7 +443,7 @@ Lightning + Blunt
 
 -   Deals 44.25 DMG (49.26 DMG with 6 songchant), 100+ posture, 0.65s windup, 11s CD
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
--   Press F immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
+-   Press your block button immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
     -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
     -   Doesn't work if the initial kick guardbroke the target (needs further testing)
 
