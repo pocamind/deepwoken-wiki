@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145951
+revid: 145957
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -514,8 +514,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: [Oath: Bladeharper](Oath%253A_Bladeharper.md)
 
 -   Reveal \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - Pour your heart out, and reveal your true strength.
-    -   -   Grants a Talent tool. On cast, you stab yourself with your weapon, toggling on True Strength. Use the tool again to toggle True Strength back off.
-        -   This takes about 4 seconds to activate. Use it wisely, or not at all.
+    -   Grants a Talent tool. On cast, you stab yourself with your weapon, toggling on True Strength. Use the tool again to toggle True Strength back off.
+    -   Reveal takes about 4 seconds to activate. Use it wisely, or not at all.
     -   While **Reveal's** True Strength state, you passively build up [Wither](Status_Effects.md#wither) on yourself.
     -   If you go below 10% HP, Reveal will automatically turn itself off.
     -   Oddly enough, Reveal procs things that require you to take damage like Agitating Spark and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.
@@ -711,10 +711,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Your flourish and Impel now apply chained and pull after a short delay. (Impel will only proc Chain Lash past 20 studs)
     -   M1ing after you pull targets in will perform a [True Hyperarmor](Status_Effects.md#true-hyperarmor) Crushing Kick, dealing 46 Oath damage and 25 posture damage with a 360° hitbox.
     -   The pull will bring the targets back to the location you flourished and prevent movement for a duration.
-        -   Will only work on chained targets, if a target breaks the chain quick enough, Chain Lash will cancel.
-        -   Works with Dazing Finisher and Bulldozer.
-        -   The pull has 2 seconds of endlag, preventing all forms of attack other than the Crushing Kick. The kick has no endlag, but the pull's endlag may carry over to the kick if you use it too quickly.
-        -   Ragdolls and flings targets in the direction you are looking, but cannot wallbang.
+    -   Chainlash will only work on Chained targets, if a target breaks the chain quick enough, Chainlash will cancel.
+    -   Works with Dazing Finisher and Bulldozer.
+    -   The pull has 2 seconds of endlag, preventing all forms of attack other than the Crushing Kick. The kick has no endlag, but the pull's endlag may carry over to the kick if you use it too quickly.
+    -   The kick ragdolls and flings targets in the direction you are looking, but cannot wallbang.
 -   Requirements: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat two humanoid [bosses](Bosses.md) or players with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained**.
 
 ### Champion
@@ -1200,6 +1200,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   Parryable and blockable, but it applies the burn on the first tick, meaning if you don't frame perfect parry it, your parry won't do anything.
     -   Charming:
         -   Charms your opponent for 15 seconds on hit (halved to 7.5s against Disbelief). 10s CD.
+        -   Does not deal damage, deals no posture damage and restores no posture if parried.
         -   Parryable and blockable, but it applies the Charm on the first tick, meaning if you don't frame perfect parry it, your parry won't do anything.
         -   Can be used as a substitute for the Lasting Charisma Talent in low/no Charisma builds.
     -   Revitalizing:
@@ -1837,7 +1838,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 [Knowledge](Knowledge.md) to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Jetstream Pursuit \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Upon a succesful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
-    -   When proccing on humanoid npcs, sends you to the center of the npc's hitbox.
+    -   When proccing on humanoid npcs, sends you to the center of the NPC's hitbox.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 [Knowledge](Knowledge.md) to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Rush of Ancients \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
@@ -1845,8 +1846,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Stratos Step \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)
     -   Consumes Ether per step.
-    -   Stratos Steps will only proc twice before going on a cooldown.
-        -   Said cooldown applies to individual steps.
+    -   Stratos Steps will only proc twice before going on a cooldown. Said cooldown applies to individual steps.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 [Knowledge](Knowledge.md) to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
 ### Justicar
@@ -2029,12 +2029,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Entropy Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
     -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteorites that are scattered around the map. By sitting at a campfire and typing out the name of the desired meteorite, you will be transported directly to it.
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
-    -   The color of the teleportation depends on the campfire color. (EX: Azure Flames lit campfires are blue, regular are red, and the seat in Voidheart causes it to be white.)
-    -   Limitations:
-        -   Does not work when in combat.
-        -   Cannot cross-luminant travel.
-        -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied. (Does not apply to guild base campfires)
-        -   You need to interact with the meteor before you can teleport to them.
     -   Six meteorites can be located throughout the overworld:
         -   _Etrean Luminant:_
             -   **Ceres** (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
@@ -2216,8 +2210,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H._
     -   Increase outgoing M1 posture damage by 20% and reduce incoming posture damage by 15%.
     -   Gain a +15% damage modifier when posture breaking with an M1.
-    -   Will drain ether when in use under power 20. (ether drain scales on level)
-    -   Deactivated when having 0% ether, or upon using Ardour scream.
+    -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
+    -   Deactivated when having 0% ether, or upon using Ardour Scream.
     -   Ardour's activation keybind can be configured in settings.
     -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md) or [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
@@ -2235,17 +2229,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _**[Murmur: Rhythm](Murmur%253A_Rhythm.md)**_ _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
     -   Rhythm's activation keybind can be configured in settings.
     -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
-    -   Red = Low Health, Yellow = Average Health, Grey = Healthy
+    -   Red = Low Health, Yellow = Moderate Health, Green = Healthy, Grey = Full Health
     -   **Disabled on players with Not a Scratch.**
     -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   _**[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched._
     -   Tacet's activation keybind can be configured in settings.
-    -   On use, a sphere around your character will be created. To everyone outside of this sphere, you are invisible.
-    -   Tacet sphere size scales on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
+    -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
+    -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
     -   In PvE you become effectively invisible at almost any range, sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
     -   Tacet will be **disabled** during [Hell Mode](Hell_Mode.md), [Diluvian](The_Diluvian_Mechanism.md), and [Depths Trials](Cathedral_of_the_Interstice.md).
-    -   After 3 seconds of not crouching, Tacet will deactivate. After 1.5s of sprinting, Tacet will deactivate. Attacking or being hit will instantly deactivate Tacet.
+    -   After 3 seconds of not crouching, Tacet will deactivate. After 1.5s of sprinting, Tacet will deactivate. Attacking, being hit, or using [Soulbreaker's](Oath%253A_Soulbreaker.md) Formless will instantly deactivate Tacet.
     -   Prerequisites: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 ### Natural Armor
@@ -2973,12 +2967,12 @@ _**"My cure is most effective."**_
     -   To progress the Oath, make a deal with any with any [deep shrine](Deep_Shrines.md) that costs Knowledge.
 
 -   (OATH) Ardour \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
+    -   Has a unique visual compared to base Ardour, your weapon crackling with purple and black lightning.
     -   Increase outgoing M1 posture damage by 20% and reduce incoming posture damage by 15%.
     -   Gain a +15% damage modifier when posture breaking with an M1.
-    -   Will drain ether when in use under power 20. (ether drain scales on level)
-    -   Deactivated when having 0% ether, or upon using Ardour scream.
+    -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
+    -   Deactivated when having 0% ether, or upon using Ardour Scream.
     -   Ardour's activation keybind can be configured in settings.
-    -   Has a unique visual compared to base Ardour.
     -   Prerequisite: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   (OATH) Ardour Scream \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 25% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
@@ -2986,43 +2980,52 @@ _**"My cure is most effective."**_
         -   Ardour's keybind can be configured in settings, changing the key you'll need to hold in order to activate Ardour Scream (default H).
     -   Has a unique visual and sound effect compared to base Ardour Scream.
     -   Takes 100% Ether to be used, therefore deactivating Ardour.
-        -   Can be used at 40% Ether rather than needing to be at 100% with the Soul Infusion Talent.
     -   Instead of debuffing affected players and making them take 25% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
     -   Doesn't apply insanity.
     -   Will also combat tag anybody hit.
     -   Prerequisite: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   Soul Infusion \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.
-    -   Ardour Scream can now be used at 40% ether instead of 100%.
+    -   Reduces Ardour Scream's minimum Ether to cast from 100% ether to 40%. It will still drain all of your Ether however.
     -   You automatically use Ardour Scream for free upon finishing an execution.
-    -   Massively increase the range of Ardour Scream.
+    -   Massively increase the range of Ardour Scream. Great for combat tagging multiple people at once.
     -   Purple lightning particles are left on knocked players after the secondary effect of this Talent procs.
-    -   You perform grips much faster and have a unique grip animation. (Approximately grip duration is 1.8 seconds which is faster than using [Reaper](Blood_Scourge.md)
+    -   You perform grips much faster and have a unique grip animation. The grip animation approximately takes 1.8 seconds to complete, which is even faster than using [Reaper](Blood_Scourge.md).
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
 
 -   (OATH) Tacet \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.
     -   Tacet's activation keybind can be configured in settings.
-    -   On use, a sphere around your character will be created. To everyone outside of this sphere, you are invisible.
-    -   Tacet sphere size scales on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
+    -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
+    -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
     -   In PvE you become effectively invisible at almost any range, sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
     -   Tacet will be **disabled** during [Hell Mode](Hell_Mode.md), [Diluvian](The_Diluvian_Mechanism.md), and [Depths Trials](Cathedral_of_the_Interstice.md).
-    -   After 3 seconds of not crouching, Tacet will deactivate. After 1.5s of sprinting, Tacet will deactivate. Attacking or being hit will instantly deactivate Tacet.
+    -   After 3 seconds of not crouching, Tacet will deactivate. After 1.5s of sprinting, Tacet will deactivate. Attacking, being hit, or using Formless will instantly deactivate Tacet.
     -   The Oath variant of Tacet cannot be used to obtain [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick).
     -   Prerequisite: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   Formless \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.
-    -   Grants a Talent tool that activates Formless on cast. After an animation and a fairly long delay, you will teleport to somewhere random within your Tacet bubble.
-    -   Can only be used during Tacet.
-    -   The speed boost granted upon activating Tacet is retained upon exiting Tacet.
-    -   Using this while aiming your mouse somewhere in your Tacet bubble will teleport you there after waiting a few seconds. You can also aim at players.
+    -   Grants a Talent tool that activates Formless on cast. After an animation and a fairly long delay, you will teleport to your cursor's location. Cannot teleport yourself outside of the range of your Tacet bubble.
+    -   Formless can only be used during Tacet and will end your Tacet upon successful teleport.
+    -   Formless costs ~50 Ether and has a 5 second cooldown. The Ether cost seems to be somewhat inconsistent.
+    -   Because Formless' limit on teleportation distance is determined by the size of your Tacet bubble, having low or even negative [stealth](Stealth.md) is a viable option.
+    -   The speed boost granted upon activating Tacet lasts 2.5 seconds and is retained upon exiting Tacet.
+    -   Outside of Tacet's innate cooldown, the speed boost for activating it has no cooldown.
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
 
 -   (OATH) Rhythm \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Rhythm's activation keybind can be configured in settings.
     -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
-    -   Red = Low Health, Yellow = Average Health, Grey = Healthy
+    -   Red = Low Health, Yellow = Moderate Health, Green = Healthy, Grey = Full Health
     -   **Disabled on players with Not a Scratch.**
     -   Prerequisite: [Soulbreaker](Oath%253A_Soulbreaker.md)
+
+-   Heart Reverb \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
+    -   After activating Rhythm, it won't deactivate unless manually toggled or if you get hit.
+    -   If your Rhythm detects a player who's performing an action, it will put a red highlight on them for 8 seconds. This has an unknown cooldown.
+    -   Allows you to see the movement of players from very far away and through walls with a red highlight.
+    -   When someone would dodge through one of your attacks, their health and posture will be shown in text as a percentage.
+    -   Unlike base Rhythm, the visual HP and posture percentages works on players with the Not a Scratch Talent.
+    -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
 
 -   (OATH) Spotter \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Marking enemies while in Rhythm will now indicate their health status to your allies.
     -   Activated by using Callout (pressing Z).
@@ -3030,13 +3033,6 @@ _**"My cure is most effective."**_
     -   **Disabled on players with Not a Scratch.**
     -   **Cannot be used without the Callout Talent.**
     -   Prerequisite: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md)
-
--   Heart Reverb \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
-    -   When you stand up after activating Rhythm it won't go away until you activate it again or get hit.
-    -   If your Rhythm detects a player then it will put a red highlight on them for 8 seconds. This has an unknown cooldown.
-    -   Allows you to see the movement of players from very far away and through walls with a red highlight.
-    -   When someone would dodge through one of your attacks, their health and posture will be shown in text as a percentage.
-    -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
 
 ### Soverign of Slaughter
 
