@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145950
+revid: 145951
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3024,7 +3024,7 @@ _**"My cure is most effective."**_
     -   **Disabled on players with Not a Scratch.**
     -   Prerequisite: [Soulbreaker](Oath%253A_Soulbreaker.md)
 
--   (OATH) Spotter \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] -Marking enemies while in Rhythm will now indicate their health status to your allies.
+-   (OATH) Spotter \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Marking enemies while in Rhythm will now indicate their health status to your allies.
     -   Activated by using Callout (pressing Z).
         -   Callout's keybind can be configured in settings.
     -   **Disabled on players with Not a Scratch.**
