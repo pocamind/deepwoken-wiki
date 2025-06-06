@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 144976
+revid: 145974
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1130,7 +1130,7 @@ Air Pressure
 
  | 
 
-Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
+Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack.
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 141140
+revid: 145978
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, The Ministry, Ministry Enemies]
@@ -42,7 +42,7 @@ If you have Ally reputation or higher with [The Ministry](The_Ministry.md), he w
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin (Ally&lt; Reputation)</td>
+  <td colspan="12">Begin (&gt;Ally Reputation)</td>
 </tr>
 <tr>
   <td colspan="12">Who Told you of this place? Of the Gateway?</td>
