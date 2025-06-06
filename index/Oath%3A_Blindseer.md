@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 145924
+revid: 145930
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,7 +80,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 -   **All-Seeing Eye - Passive**
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players are revealed by a Blindseer Eye icon.
-        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portals.
+        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portals.
     -   With this Talent, the [Tacet Murmur](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
     -   This works on anyone who is invisible, yourself included.
     -   Obtainment: 4 Pathfinders helped in the Depths Trial (must be alive)
@@ -108,7 +108,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 -   Pairs well with Lose Your Mind, a Talent that makes you deal more damage the more insane you are.
 -   You can reroll the Mental Fortress Talents and still keep the Oath.
 -   Many Blindseer moves drain your sanity as a price, so it's best to use the moves with caution.
--   If you wish to dye the Blindseer eye Oath cosmetic, you need to [dye](Dye_Packet.md) your actual eyes, not the "Blindseer Cosmetic."
+-   If you wish to dye the Blindseer eye Oath cosmetic, you need to [dye](Dye_Packet.md) the Blindseer Cosmetic, not your actual eyes. - as of June 1st, 2025.
 
 ## Trivia
 

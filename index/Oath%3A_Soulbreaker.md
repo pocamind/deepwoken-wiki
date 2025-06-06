@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 145328
+revid: 145946
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -82,14 +82,14 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
     -   Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
         -   When you stand up after activating Rhythm it won't go away until you activate it again.
         -   If your Rhythm detects a player then it will put a red highlight on them for 8 seconds. This has an unknown cooldown.
-        -   When someone would dodge through one of your attacks, their health and posture will be shown around them in text as a precentage.
+        -   When someone would dodge through one of your attacks, their health and posture will be shown around them in text as a percentage.
 
 -   **Soul Infusion - Talent Card**
     -   Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.
         -   Ardour: Scream can now be used at 40% ether instead of 100%
         -   You automatically use Ardour: Scream for free upon finishing an execution
         -   Massively increase the range of Ardour: Scream
-        -   Purple lightning particles are left on knocked players after this talent is proc'd
+        -   Purple lightning particles are left on knocked players after this talent is procced.
         -   You perform grips much faster and have a unique grip animation. (Approximately grip duration is 1.8 seconds which is faster than using [Reaper](Blood_Scourge.md))
 
 -   **Spotter - Talent Card**

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 144177
+revid: 145945
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -57,7 +57,7 @@ Alternatively you can use 10 knowledge to obtain all mantras and talents if you 
 
 ## Effects
 
-This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to periodically rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings which appear anytime you utilize a starkindred mantra, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
+This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings which appear anytime you utilize a starkindred mantra, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
 
 ## Abilities
 
@@ -91,7 +91,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
     -   _Upon cancelling your Air Dash, reveal your wings and strike your enemy._
         -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
         -   Deals 75 (25\*3) Slash/Physical damage.
-        -   Able to instantly guardbreak on the first slash, with the second and third dealing high posture.
+        -   Deals 25 posture damage per hit.
         -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
         -   Despite what is shown in the gif, Death From Above no longer has hyperarmor.
 

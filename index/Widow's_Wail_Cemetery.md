@@ -1,6 +1,6 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 141613
+revid: 145944
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Hallowtide]
@@ -15,6 +15,8 @@ The restless dead stir beneath the ground. Just what manner of trickery is this?
   
 
 ## Overview
+
+**THIS IS A HALLOWEEN EXCLUSIVE EVENT. THE PORTALS WILL NOT SPAWN OTHERWISE.**
 
 The Widow's Wail Cemetery is a location that players can teleport to with many portals scattered across the East & Etrean luminant. The main focus of this area is the Trial of the Gourdskipper, activated by the stand in the middle.
 
