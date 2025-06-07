@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 144302
+revid: 145994
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,7 +29,7 @@ The Oath is a result of the player conducting a **Reflection Ritual** at the Sky
 
 ## Obtainment
 
-1.  The Oath requires a total of 75 Medium Weapon points, **or** a total of 90 cumulative points allocated throughout any Weapon stats, alongside 25 AGL or STR. The weapon equipped by a player must also not be [Fists](Fists.md), else the interaction will not start the Oath quest.
+1.  The Oath requires 25 AGL or STR, plus either 75 points in Medium Weapon or a total of 90 points spread across any Weapon stats. The weapon equipped by a player must also not be [Fists](Fists.md), else the interaction will not start the Oath quest.
 2.  Interact with one of the numerous [Sky Statues](Sky_Statue.md) located throughout both Luminants. This will transport you to Blade Within.
 3.  Defeat Mind's Reflection (a 1:1 copy of yourself, including weapon, Talents and mantras) to obtain the Oath.
     1.  It will use all mantras you have, not just the ones you have equipped. It's best to get rid of unwanted mantras via [Deep Shrines](Deep_Shrines.md) if you're not ready.

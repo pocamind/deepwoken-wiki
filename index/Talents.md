@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145976
+revid: 145996
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -499,7 +499,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Bladeharper
 
 -   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot)
-    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat, defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
+    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat ((25 AGI OR 25 STR) + (75 MED OR LHT + MED + HVY ≥ 90)), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
 
 -   Float Like a Butterfly \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
     -   It has a cooldown of 5 seconds.
@@ -2854,20 +2854,23 @@ _**"My cure is most effective."**_
 
 ### Silentheart
 
--   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with half the usual requirements. (+2 Posture, +10 Health)
+-   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health)
+    -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan's](Khan.md) Versatile Talent.
+        -   Similarly to Versatile, for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 45 MED.
+    -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](Deep_Shrines.md) (primarily [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)).
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   Ankle Cutter - \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
     -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1.
-    -   Ankle Cutter has **innate bleed**.
+    -   Ankle Cutter has innate bleed.
     -   Flow state makes Ankle Cutter faster as well as increasing its by 48%.
     -   5 second cooldown.
-    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely.
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Dread Fighter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
     -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
     -   Stacks up to 5 times and each stacks grant 5% mantra resistance leading to total 25% resistances.
-    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely.
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Flow State \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
     -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
@@ -2876,7 +2879,7 @@ _**"My cure is most effective."**_
     -   Medium and Heavy Mayhem autogrip when buffed with Flow State.
     -   Light relentless hunt now returns to the user back to their original position and preforms a secondary slash there
     -   Active for 1 second. ~4s CD.
-    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely.
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Mayhem \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Initiate a special dash attack by pressing M1 during the start of your dodge.
     -   Movesets differ depending on the weapon type; Light, Medium, or Heavy.
@@ -2885,7 +2888,7 @@ _**"My cure is most effective."**_
     -   Light - deals 10 Fixed Damage.
     -   Medium - deals 20 Fixed Damage (35 in flow state)
     -   Heavy - deals 30 Fixed Damage
-    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely.
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Merciless Blade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - You can now execute enemies much faster.
     -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
@@ -2899,7 +2902,7 @@ _**"My cure is most effective."**_
     -   Light - 15 Fixed Damage
     -   Medium - 30 Fixed Damage (15 each) (20 each in flow state)
     -   Heavy - 25 Fixed Damage
-    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely.
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Rising Star \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Press CTRL + M2 to activate a special uppercut attack.
     -   Instead of being binded to M2, it's actually binded to your feint key. Meaning if you've changed your Feint keybind off M2, M2 will no longer proc Rising Star.
@@ -2908,21 +2911,21 @@ _**"My cure is most effective."**_
     -   Light - 35 Fixed Damage (15 + 20)
     -   Medium - 30 Fixed Damage (40 in flow state)
     -   Heavy - 40 Fixed Damage
-    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely.
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   True Vantage \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
     -   Changes your Vent color to align with your Oath Cosmetic color. Can be [dyed](Dye_Packet.md).
-    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely.
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Unmatched Dexterity \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive - Press X to Quick Swap between weapons within your toolbar.
     -   This keybind can be changed in settings.
     -   Selects a random weapon on your hotbar to equip.
     -   Works on offhand weapons.
     -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
-    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely.
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
-    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely.
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 ### Silvertongue
 
@@ -3738,7 +3741,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
 
 -   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot)
-    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat, defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
+    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat ((25 AGI OR 25 STR) + (75 MED OR LHT + MED + HVY ≥ 90)), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
 
 -   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
@@ -3771,7 +3774,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   [Oath: Saltchemist](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
     -   Prerequisites: 75 Intelligence, complete [Ciea](Ciea.md)'s quest once.
 
--   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with half the usual requirements. (+2 Posture, +10 Health)
+-   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health)
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slot, +1 Mobility Mantra Slot.)
