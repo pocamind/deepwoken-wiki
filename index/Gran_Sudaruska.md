@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 140363
+revid: 145985
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -28,7 +28,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 
 ## Description
 
-**Gran Sudaruska** is a Legendary [Greataxe](Weapons.md); a tall and heavy black bat-winged battleaxe fused by frost and Sudaruska's soul, lighting it with cold color. It scales with both Heavy and [Frostdraw](Frostdraw.md). You can wield it either one-handed or two-handed despite having lower than 40 HVY.
+**Gran Sudaruska** is a Legendary [Greataxe](Weapons.md); a tall and heavy black bat-winged battleaxe fused by frost and Sudaruska's soul, lighting it with cold color. It scales with both Heavy and [Frostdraw](Frostdraw.md).
 
 Gran Sudaruska comes with two passive abilities:
 

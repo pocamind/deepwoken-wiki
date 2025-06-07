@@ -1,6 +1,6 @@
 ---
 title: Llevyn
-revid: 145921
+revid: 145981
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -26,7 +26,7 @@ The Deepdriller escape method is mainly used by players that got here without a 
 
 ## Location
 
-Llevyn is located in the First Floor of the [Second Layer](Second_Layer.md).
+Llevyn is located in the First Floor of the [Second Layer](Second_Layer.md), inside [The Ignition Union](The_Ignition_Union.md)'s base
 
 ## Dialogue
 

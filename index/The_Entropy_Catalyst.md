@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 142661
+revid: 145984
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -31,7 +31,7 @@ The Entropy Catalyst.
 ## Trivia
 
 -   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md) by Naktigonis
--   The sacrificial process is similar to one in _Rogue Lineage_.
+-   The sacrificial process is similar to [one](https://rogue-lineage.fandom.com/wiki/Tomeless) in _Rogue Lineage_.
 -   The symbol in the middle of it is the Moonseye put over the Suncross.
     -   It could therefore be inferred that it represents a solar eclipse.
 -   While Erisore can be primarily found in Erisia, it is unknown how it manages to thrive here.
