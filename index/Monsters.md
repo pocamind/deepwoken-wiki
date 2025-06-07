@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 144285
+revid: 146002
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -155,5 +155,5 @@ D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 
 -   NOT all attacks can be parried; buy a Hunter Brace at Summer Isle to be able to. ([Ignition Deepdelver](Ignition_Deepdelver.md) armor also works for this.)
 -   Some creatures will fight each other; multiple can fight at the same time. These can be either intentional through events like the Megalodaunt vs. Rock Golem event in [Upper Erisia](Upper_Erisia.md) or if the monsters just happen to find each other. See this in action [here](https://youtu.be/01uQchtfUvw) and [here](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s).
 -   Some variants of some creatures are limited to The Depths, and others are only in The Overworld. (e.g. Thunder [Nautilodaunts](Nautilodaunt.md) spawn only in [the Depths](The_Depths.md))
--   Most unparryable (red flash) attacks of monsters are accompanied by a red flash and the [Perilous attack sound](https://www.youtube.com/watch?v=5YzN2bPgjB0) from _Sekiro: Shadows Die Twice_.
+-   Prior to an update that reworked the telegraphing of attacks, most unparryable (red flash) attacks of monsters were accompanied by a red flash and the [Perilous attack sound](https://www.youtube.com/watch?v=5YzN2bPgjB0) from _Sekiro: Shadows Die Twice_.
 -   There's a rare easter egg with an unknown chance that a [Metal Gear solid alert sound](https://streamable.com/ul7sv3) will play when a monster notices a player.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145996
+revid: 145999
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -381,7 +381,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Deep Wound \[Common Talent, Light\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.
     -   The damage increase granted from this Talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
     -   The anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
-    -   Leaves cloud like particles similar to ATDG but red.[\[1\]](#cite-note-1)
+    -   Leaves cloud like particles, similar to All the Dead Gods but red.[\[1\]](#cite-note-1)
     -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" has this Talent.
     -   Prerequisite: 35 Agility
 
@@ -1564,7 +1564,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
     -   Also applies on weapon criticals.
     -   Does not work on allies.
-    -   Does _**NOT**_ affect healthpacks.
+    -   Does not affect healthpacks.
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.

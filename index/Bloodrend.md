@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 145953
+revid: 146005
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -286,13 +286,13 @@ Blood
  |
 | 
 
-**Viscous Descent** (★☆☆)
+**Vicious Descent** (★☆☆)
 
 _Leap into the air and slam down with vengeance._
 
  | 
 
-## Viscous Descent (★☆☆)
+## Vicious Descent (★☆☆)
 
   
 _Leap into the air and slam down with vengeance._

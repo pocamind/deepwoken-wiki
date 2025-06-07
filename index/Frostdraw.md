@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 145656
+revid: 146009
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1158,7 +1158,7 @@ Ice
 -   Does not proc Deep Gems on hit.
 -   Can be modified with Drift/Rush Shards to increase the amount of health healed while the Mantra is active.
 -   Can be modified with Stones, Logstones, and Lenses, but they all do absolutely nothing; no range, healing, or duration difference.
--   Can be modified with a Blast Spark to turn into a large ice crystal that quickly slams the ground when used in the air and negates fall damage.
+-   Can be modified with a Blast Spark to turn into a large ice crystal that quickly falls and slams the ground when used in the air and negates fall damage.
     -   Can be modified with Drift/Rush Shards to increase the fall speed.
 
  |
