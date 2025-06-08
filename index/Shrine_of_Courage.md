@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 129028
+revid: 146024
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1]
@@ -68,3 +68,7 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Currently is bugged and only spawns one enforcer, no matter how many players enter (needs further testing).

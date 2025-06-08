@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 145214
+revid: 146020
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union, Alloyed Weapons, Heavy Weapons]
@@ -26,7 +26,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Saramaed Hollow, Darksteel Pirates, Floating Keep Blacksmith (Halloween Event 2022), First Layer, Primadon, Titan of the East, Heart of Enmity, Duke Ishamon Erisia, Lodestar, The Doom of Caeranthil, Tower Event, Bought from Miner's Landing, Chime of Conflict, War Mode, Chaser, Scholar of the Crimson Contract, Interluminary Parasol, Moon's Eyrie, Dread Serpent, Pure Astruline turn-inTemplate:AlloyedColor, Alloying a Darksteel Greatsword, Dread Serpent, Heart of Enmity, Interluminary Parasol, Lodestar, The Doom of Caeranthil |
+| obtainment | Maestro Evengarde Rest, Saramaed Hollow, Darksteel Pirates, Floating Keep Blacksmith (Halloween Event 2022), First Layer, Primadon, Titan of the East, Heart of Enmity, Duke Ishamon Erisia, Lodestar, The Doom of Caeranthil, Tower Event, Bought from Miner's Landing, Chime of Conflict, War Mode, Chaser, Scholar of the Crimson Contract, Interluminary Parasol, Moon's Eyrie, Dread Serpent, The Understrand, Pure Astruline turn-inTemplate:AlloyedColor, Alloying a Darksteel Greatsword, Dread Serpent, Heart of Enmity, Interluminary Parasol, Lodestar, The Doom of Caeranthil |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 ## Description

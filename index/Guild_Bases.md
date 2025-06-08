@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 144221
+revid: 146014
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -254,3 +254,4 @@ Bandits raiding a Guild Base.
 -   The trees in the Quarters room can be cut down for wood with a lumber axe at the right angle.
 -   The PVE dummy in the training hall can be used to build up [Chain of Perfection](Talent_Quests.md#chain-of-perfection) stacks.
 -   As stated by Arch\_Mage\[_Citation Needed_\], there is an unknown feature that can permanently turn all NPCS in your guild base into long white haired moustache Felinors.
+-   Voidwalkers that hunt you can teleport to your base, however, you will get the message,"This is no longer a safehaven," to warn you.\[Confirmation needed\]

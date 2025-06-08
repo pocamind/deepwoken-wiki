@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 142131
+revid: 146012
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -47,12 +47,12 @@ This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
 
 ## Abilities
 
--   **Precision Cuts ★★★ - Combat Mantra**
+-   **Precision Cuts - Combat Mantra**
     -   _Snip forward 3 times with your scissors!_
     -   Deals 60 Oath DMG with 0 songchant (20 per hit).
     -   Deals 67.86 Oath DMG with 6 songchant (22.62 per hit)
 
--   **Close Shave** **★★★ - Combat Mantra**
+-   **Close Shave - Combat Mantra**
     -   _Close the distance and deliver a fast slash._
     -   Aims in the direction of the cursor.
     -   Deals 50 Oath DMG with 0 songchant.

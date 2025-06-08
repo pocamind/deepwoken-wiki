@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 143703
+revid: 146027
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -49,6 +49,8 @@ The Red skull means that you are currently being assaulted by a player and lasts
 2.  If you leave the game or disconnect at all, you will die regardless of your HP.
 3.  Unlike the White skull, you can't get health packs from NPCs, only players.
 
+You can remove Combat Tag from non-allies by saying "Mb \[First Name\]" or "Mb all" to lift off all people you put it on.
+
 ## Combat Quotes
 
 When the skull at the top appears for both PvP or PvE, it will also have a quote under the skull, it also shares the skull color, these quotes will vary depending on your state, and Location.
@@ -63,12 +65,11 @@ List of Quotes:
 ## Trivia/Notes
 
 -   The [Silentheart Oath](Oath%253A_Silentheart.md), can switch weapons in combat and has a button to do so.
-    -   This is also possible with [Crazy Slots Bell](Crazy_Slots.md) but only it's own weapons.
+    -   This is also possible with the [Crazy Slots Bell](Crazy_Slots.md) but only its own weapons.
 -   [Bosses](Bosses.md) give a PvE Tag that lasts 2 minutes and 40 seconds.
-    -   When tagged by a [Boss](Bosses.md) the skull turns orange, and shows their HP.
--   Once in Combat you cannot backstab / assasinate without the Dust Lunge Talent.
+    -   When tagged by a [Boss](Bosses.md) the skull turns orange, and shows their health as a bar.
+-   Once in Combat you cannot backstab / assasinate without the Dustlunge Talent.
 -   [Lord Regent](The_Lord_Regent.md) applies Combat Tag when he uses Judgement against you.
--   You can remove Combat Tag off non allies by saying "Mb \[Name\]" or "Mb All" to lift off all people you put it on.
 -   If you dodge a [Environmental](Environmental_Hazards.md) attack or [Bloatskipper](Mudskipper.md) explosion, the name of the attacker will be "_**God**._"
 -   Allies were able to tag you normally with a shorter PvP timer, it was extremely annoying, this is no longer the case.
 -   There is 2 Exceptions to being Punished by Combat Tag

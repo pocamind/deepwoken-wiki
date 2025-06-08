@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 145908
+revid: 146015
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -66,6 +66,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   Has i-Frames on the second half of its windup.
         -   Orbital Ice is less effective when used alongside the Arc Suit.
         -   Comes in Umbral, Black, Gold, Dark Gray, Light Gray and White may be changed with a Dye Packet.
+        -   Obtained with oath
 
 -   **Arc Module: Leap - Passive**
     -   _Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration._
@@ -75,11 +76,13 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
     -   _When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing._
         -   Allows your Air Dash to go much farther.
         -   Allows the user to attack while performing a dash.
+        -   Obtain with oath
 
 -   **Arc Module: Eject - Passive**
     -   _When blockbroken with Arc Suit active, eject from the armor._
         -   When block broken you instantly eject from your Arc Suit preventing it.
         -   Upon exiting the Arc Suit posture is set to 50%
+        -   Obtained after first chaser / scion of ethiron kill
 
 -   **Arc Module: Guard - Passive**
     -   _Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind._

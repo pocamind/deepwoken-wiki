@@ -1,6 +1,6 @@
 ---
 title: Llevyn
-revid: 145981
+revid: 146010
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -20,7 +20,7 @@ categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Flo
 
 ## Description
 
-Llevyn is an adret NPC, If you talk to him after powering on the Generator, he can call down an **Ignition Deepdriller** which will arrive at the end of the [Nest Corridor](Nest_Corridor.md).
+Llevyn is an adret NPC talking to him after powering on the Generator, he can call down an **Ignition Deepdriller** which will arrive at the end of the [Nest Corridor](Nest_Corridor.md).
 
 The Deepdriller escape method is mainly used by players that got here without a Light Hook and don't want to risk dying from the parasites or [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 

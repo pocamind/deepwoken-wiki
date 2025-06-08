@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 145370
+revid: 146011
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -65,24 +65,27 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 -   When replacing a potion in the Distillery, the one that was previously there is voided. **Potions cannot be recovered once placed in the Distillery.**
 -   Potions made with less than 100 Intelligence that are slotted into the Distillery will scale up in potency as Intelligence increases.
 
-### Biotic Salts - Passive
+### Biotic Salts - Talent
 
 -   Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.
+    -   Grants a Talent tool that acts as a potion ingredient.
     -   Halves negative effects for allies, and positive effects for enemies.
     -   Useful when throwing things like Heartening or Hastening Potions at allies.
     -   This should be used in every potion possible, as it has no downsides whatsoever.
 
-### Aromatic Salts - Passive
+### Aromatic Salts - Talent
 
 -   Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.
+    -   Grants a Talent tool that acts as a potion ingredient.
     -   Each "hit" of the mist count as a potion application, triggering the enhanced potion effects from Chain Reaction.
     -   Lasts for roughly 10 seconds.
         -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds.
     -   It is unclear if the potion effects from this stack in any way.
 
-### Antithetic Salts - Passive
+### Antithetic Salts - Talent
 
 -   Alter your brews to invert their effects. Does not count towards the ingredient limit.
+    -   Grants a Talent tool that acts as a potion ingredient.
     -   This reverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
     -   The name of the potion will change to fit its new effect. The color can change, but this is inconsistent. Some examples of inversions include;
         -   Disgusting -> Dulling
@@ -92,12 +95,14 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 ### Lethal Injection - Mantra
 
 -   Lunge forward and inject the targeted person with all of your auto-brew potions.
-    -   This injects all of the _negative_ effects of your brew, none of the positive effects will apply.
+    -   This injects all of the _negative_ effects of every potion in your Distillery, none of the positive effects will apply.
+    -   Puts all potions in your Distillery on cooldown. If a potion is on cooldown when using Lethal Injection, its effect will be omitted from your Mantra.
     -   Has the unique property of being able to apply several of the same kind of potion.
-    -   Puts potions on cooldown.
-    -   Deals a small amount of damage, with a small amount of hit-stun.
-    -   Plays a sound cue
-    -   Small auto-track
+    -   Deals a small amount of hit-stun.
+    -   Does **not** deal damage directly, however damage potions can be added to your Distillery to make it deal damage.
+    -   Damage potions have a significantly reduced effect on Lethal Injection, dealing around 1/3rd of their original damage.
+        -   Because of this, you'll have to heavily invest if you want your Lethal Injection to be a damage tool, potentially removing any support or debuff potions from your Distillery.
+    -   Auto-tracks.
 
 ## Location
 
