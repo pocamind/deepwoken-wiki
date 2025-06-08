@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 145999
+revid: 146087
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -346,17 +346,17 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.
     -   Allows your Air Dash to go much farther.
     -   Allows the user to M1 while performing a dash, ending their dash early.
-    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 [Knowledge](Knowledge.md) to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   Prerequisite: [Oath: Arcwarder](Oath%253A_Arcwarder.md)
 
 -   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive - When blockbroken with Arc Suit active, eject from the armor.
     -   When block broken you instantly eject from your Arc Suit preventing the guard break stun.
     -   Upon exiting the Arc Suit posture is set to 50%
-    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 [Knowledge](Knowledge.md) to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time OR pay [Delta](Delta.md) 10 [Knowledge](Knowledge.md) to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Guard - \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
     -   Allows the user to block attacks from all directions.
     -   Prevents Spine Cutter from occurring while blocking.
-    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 [Knowledge](Knowledge.md) to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times OR pay [Delta](Delta.md) 10 [Knowledge](Knowledge.md) to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration.
     -   Allows you to double jump.

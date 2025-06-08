@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 146048
+revid: 146065
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -62,10 +62,10 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Heal nearby allies for 60 HP at the cost of your Sanity
         -   Allies include Guildmates, and those with whom you share a Vow of Mastery or Vow of Allegiance.
         -   The sanity cost is only deducted on a successful heal.
-    -   It has a 60 second cooldown.
-    -   Hold block during the cast animation to heal everyone in range, regardless of ally status.
-    -   Doesn't work on NPCs.
-    -   Obtainment: 1 Pathfinder helped in the Depths Trial (must be alive)
+        -   60 second cooldown.
+        -   Hold block during the cast animation to heal everyone in range, regardless of ally status.
+        -   Doesn't work on NPCs.
+        -   Obtainment: 1 Pathfinder helped in the Depths Trial (must be alive)
 
 -   **Tranquil Circle - Support Mantra**
     -   Disables mantras from being used in its radius.
@@ -77,27 +77,27 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle much smaller but makes it follow the user.
     -   Obtainment: 3 Pathfinders helped in the Depths Trial (must be alive)
 
--   **All-Seeing Eye - Passive**
+-   **All-Seeing Eye - Talent**
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
-    -   Invisible players are revealed by a Blindseer Eye icon.
-        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portals.
-    -   With this Talent, the [Tacet Murmur](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
-    -   This works on anyone who is invisible, yourself included.
-    -   Obtainment: 4 Pathfinders helped in the Depths Trial (must be alive)
+        -   Invisible players are revealed by a Blindseer Eye icon.
+            -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portals.
+        -   With this Talent, the [Tacet Murmur](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
+        -   This works on anyone who is invisible, yourself included.
+        -   Obtainment: 4 Pathfinders helped in the Depths Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
-    -   The entire beam deals around 150 damage as basic dmg (0 songchant). With extra damage and posture dealt at the start of the beam.
-    -   This mantra can make you go insane if you use it too much.
-    -   Sightless Beam can be canceled midway by pressing F.
-    -   Steals eyesight proccing the blind effect if enough hits land.
-    -   Has a **high** windup.
-        -   Not parryable, deals a little bit of posture damage every hit. Can be used to bait vents by staying at a distance.
-    -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
-        -   Nautilodaunts and Enforcers are very likely to just block the entire beam. It is advised to get a friend to distract them.
-    -   You can run during the windup, but can only walk while the beam is active.
-    -   Getting hit by a Vent while using Sightless Beam cancels it.
-    -   Obtainment: 5 Pathfinders helped in the Depths Trial (must be alive)
+        -   The entire beam deals around 150 damage as basic dmg (0 songchant). With extra damage and posture dealt at the start of the beam.
+        -   This mantra can make you go insane if you use it too much.
+        -   Sightless Beam can be canceled midway by pressing F.
+        -   Steals eyesight proccing the blind effect if enough hits land.
+        -   Has a **high** windup.
+            -   Not parryable, deals a little bit of posture damage every hit. Can be used to bait vents by staying at a distance.
+        -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
+            -   Nautilodaunts and Enforcers are very likely to just block the entire beam. It is advised to get a friend to distract them.
+        -   You can run during the windup, but can only walk while the beam is active.
+        -   Getting hit by a Vent while using Sightless Beam cancels it.
+        -   Obtainment: 5 Pathfinders helped in the Depths Trial (must be alive)
 
 ## Notes
 

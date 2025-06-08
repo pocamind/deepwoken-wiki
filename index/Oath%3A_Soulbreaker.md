@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 145946
+revid: 146079
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -69,33 +69,78 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
 
 ## Abilities
 
-### Talents
+-   **Ardour - Talent**
+    -   An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
+        -   Has a unique visual compared to base Ardour, your weapon crackling with purple and black lightning.
+        -   Increase outgoing M1 posture damage by 20% and reduce incoming posture damage by 15%.
+        -   Gain a +15% damage modifier when posture breaking with an M1.
+        -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
+        -   Deactivated when having 0% ether, or upon using Ardour Scream.
+        -   Ardour's activation keybind can be configured in settings.
+    -   Prerequisite: Oath: Soulbreaker
 
--   **Ardour Scream - Ability**
-    -   Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release.)
+-   **Ardour Scream - Talent Tool**
+    -   Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 25% more damage and 50% more posture damage for 10s. (+9 Sanity).
+        -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey.
+        -   Ardour's keybind can be configured in settings, changing the key you'll need to hold in order to activate Ardour Scream (default H).
+        -   Has a unique visual and sound effect compared to base Ardour Scream.
+        -   Takes 100% Ether to be used, therefore deactivating Ardour.
+        -   Instead of debuffing affected players and making them take 25% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream is affected by the damage modifier cap.
+        -   Doesn't apply insanity.
+        -   Will also combat tag anybody hit.
+    -   Prerequisite: Oath: Soulbreaker
 
--   **Formless - Ability**
-    -   Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.
-        -   Using this while aiming your mouse somewhere in your Tacet bubble will teleport you there after waiting a few seconds. You can also aim at players.
-
--   **Heart Reverb - Talent Card**
-    -   Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
-        -   When you stand up after activating Rhythm it won't go away until you activate it again.
-        -   If your Rhythm detects a player then it will put a red highlight on them for 8 seconds. This has an unknown cooldown.
-        -   When someone would dodge through one of your attacks, their health and posture will be shown around them in text as a percentage.
-
--   **Soul Infusion - Talent Card**
+-   **Soul Infusion - Talent**
     -   Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.
-        -   Ardour: Scream can now be used at 40% ether instead of 100%
-        -   You automatically use Ardour: Scream for free upon finishing an execution
-        -   Massively increase the range of Ardour: Scream
-        -   Purple lightning particles are left on knocked players after this talent is procced.
-        -   You perform grips much faster and have a unique grip animation. (Approximately grip duration is 1.8 seconds which is faster than using [Reaper](Blood_Scourge.md))
+        -   Reduces Ardour Scream's minimum Ether to cast from 100% ether to 40%. It will still drain all of your Ether however.
+        -   You automatically use Ardour Scream for free upon finishing an execution.
+        -   Massively increase the range of Ardour Scream. Great for combat tagging multiple people at once.
+        -   Purple lightning particles are left on knocked players after the secondary effect of this Talent procs.
+        -   You perform grips much faster and have a unique grip animation. The grip animation approximately takes 1.8 seconds to complete, which is even faster than using [Reaper](Blood_Scourge.md).
 
--   **Spotter - Talent Card**
-    -   When Callout is used in Rhythm, this Talent marks the target for you and your allies to see, allowing your allies to see an estimate of their health.
+-   **Tacet - Talent**
+    -   An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.
+        -   Tacet's activation keybind can be configured in settings.
+        -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
+        -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
+        -   In PvE you become effectively invisible at almost any range, sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
+        -   Tacet will be disabled during [Hell Mode](Hell_Mode.md), [Diluvian](The_Diluvian_Mechanism.md), and [Depths Trials](Cathedral_of_the_Interstice.md).
+        -   After 3 seconds of not crouching, Tacet will deactivate. After 1.5s of sprinting, Tacet will deactivate. Attacking, being hit, or using Formless will instantly deactivate Tacet.
+        -   The Oath variant of Tacet **cannot** be used to obtain [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick).
+    -   Obtained with the Oath.
 
-### Mantra(s)
+-   **Formless - Talent Tool**
+    -   Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.
+        -   Grants a Talent tool that activates Formless on cast. After an animation and a fairly long delay, you will teleport to your cursor's location. Cannot teleport yourself outside of the range of your Tacet bubble.
+        -   Formless can only be used during Tacet and will end your Tacet upon successful teleport.
+        -   Formless costs ~50 Ether and has a 5 second cooldown. The Ether cost seems to be somewhat inconsistent.
+        -   Because Formless' limit on teleportation distance is determined by the size of your Tacet bubble, having low or even negative [stealth](Stealth.md) is a viable option.
+        -   The speed boost granted upon activating Tacet lasts 2.5 seconds and is retained upon exiting Tacet.
+        -   Outside of Tacet's innate cooldown, the speed boost for activating it has no cooldown.
+
+-   **Rhythm - Talent**
+    -   An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
+        -   Rhythm's activation keybind can be configured in settings.
+        -   Pings all nearby Monsters, NPC's, and Players, through walls while gray-scaling your screen.
+        -   Red = Low Health, Yellow = Moderate Health, Green = Healthy, Grey = Full Health
+        -   **Disabled on players with Not a Scratch.**
+    -   Obtained with the Oath.
+
+-   **Heart Reverb - Talent**
+    -   Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
+        -   After activating Rhythm, it won't deactivate unless manually toggled or if you get hit.
+        -   If your Rhythm detects a player who's performing an action, it will put a red highlight on them for 8 seconds. This has an unknown cooldown.
+        -   Allows you to see the movement of players from very far away and through walls with a red highlight.
+        -   When someone would dodge through one of your attacks, their health and posture will be shown in text as a percentage.
+        -   Unlike base Rhythm, the visual HP and posture percentages works on players with the Not a Scratch Talent.
+
+-   **Spotter - Talent**
+    -   Marking enemies while in Rhythm will now indicate their health status to your allies.
+        -   Activated by using Callout (pressing Z).
+        -   Callout's keybind can be configured in settings.
+        -   **Disabled on players with Not a Scratch.**
+        -   **Cannot be used without the Callout Talent.**
+    -   Obtained with the Oath.
 
 -   **Ardour Slicer - Combat Mantra**
     -   User launches a projectile similar to Wind Blade.
@@ -125,7 +170,7 @@ January 11th 2025
 
 January 12th 2025
 
--   Broken mantras fixed (Rhythm Advance, Ardour Blade)
+-   Broken mantras fixed (Rhythm Advance, Ardour Slicer)
 
 February 8th 2025
 

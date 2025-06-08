@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 146011
+revid: 146071
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -55,54 +55,59 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
 
 ## Abilities
 
-### Perpetual Distillery - Passive
+-   **Perpetual Distillery - Talent Tool**
+    -   Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.
+        -   Grants a Talent Tool that opens up the Distillery UI. Inside, there are three empty spaces where you can drag and drop potions to.
+        -   When clicking on a potion icon in your Distillery, you can change its mode from "Throw" to "Drink" and vice versa.
+        -   Also grants a Talent tool slot for all three of your atuo-brews. Each one is assigned to its respective Distillery slot. These potions have infinite uses, but go on a fairly long cooldown. Allows builds to be able to use up to three individual potions without needing to farm for many many sets of ingredients.
+        -   'Drink' potions place other 'drink' slots on a cooldown if they share buffs.
+        -   When replacing a potion in the Distillery, the one that was previously there is voided. **Potions cannot be recovered once placed in the Distillery.**
+        -   Potions made with less than 100 Intelligence that are slotted into the Distillery will scale up in potency as Intelligence increases.
+    -   Obtained with the Oath.
 
-Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.
+-   **Biotic Salts - Talent Tool**
+    -   Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.
+        -   Grants a Talent tool that acts as a potion ingredient.
+        -   Halves negative effects for allies, and positive effects for enemies.
+        -   Useful when throwing things like Heartening or Hastening Potions at allies.
+        -   This should be used in every potion possible, as it has no downsides whatsoever.
+    -   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
+        -   Only the Stardust is consumed.
 
--   Upon clicking the Distillery Talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
--   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
--   Autodrink potions place other autodrink slots on a cooldown if they share buffs.
--   When replacing a potion in the Distillery, the one that was previously there is voided. **Potions cannot be recovered once placed in the Distillery.**
--   Potions made with less than 100 Intelligence that are slotted into the Distillery will scale up in potency as Intelligence increases.
+-   **Aromatic Salts - Talent Tool**
+    -   Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.
+        -   Grants a Talent tool that acts as a potion ingredient.
+        -   Each "hit" of the mist count as a potion application, triggering the enhanced potion effects from Chain Reaction.
+        -   Lasts for roughly 10 seconds.
+            -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds.
+        -   It is unclear if the potion effects from this stack in any way.
+    -   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
+        -   Only the Stardust is consumed.
 
-### Biotic Salts - Talent
+-   **Antithetic Salts - Talent**
+    -   Alter your brews to invert their effects. Does not count towards the ingredient limit.
+        -   Grants a Talent tool that acts as a potion ingredient.
+        -   This reverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
+        -   The name of the potion will change to fit its new effect. The color can change, but this is inconsistent. Some examples of inversions include;
+            -   Disgusting -> Dulling
+            -   Mindbreaking -> Heartening
+            -   Invigorating -> Grueling
+    -   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
+        -   Only the Stardust is consumed.
 
--   Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.
-    -   Grants a Talent tool that acts as a potion ingredient.
-    -   Halves negative effects for allies, and positive effects for enemies.
-    -   Useful when throwing things like Heartening or Hastening Potions at allies.
-    -   This should be used in every potion possible, as it has no downsides whatsoever.
-
-### Aromatic Salts - Talent
-
--   Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.
-    -   Grants a Talent tool that acts as a potion ingredient.
-    -   Each "hit" of the mist count as a potion application, triggering the enhanced potion effects from Chain Reaction.
-    -   Lasts for roughly 10 seconds.
-        -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds.
-    -   It is unclear if the potion effects from this stack in any way.
-
-### Antithetic Salts - Talent
-
--   Alter your brews to invert their effects. Does not count towards the ingredient limit.
-    -   Grants a Talent tool that acts as a potion ingredient.
-    -   This reverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
-    -   The name of the potion will change to fit its new effect. The color can change, but this is inconsistent. Some examples of inversions include;
-        -   Disgusting -> Dulling
-        -   Mindbreaking -> Heartening
-        -   Invigorating -> Grueling
-
-### Lethal Injection - Mantra
-
--   Lunge forward and inject the targeted person with all of your auto-brew potions.
-    -   This injects all of the _negative_ effects of every potion in your Distillery, none of the positive effects will apply.
-    -   Puts all potions in your Distillery on cooldown. If a potion is on cooldown when using Lethal Injection, its effect will be omitted from your Mantra.
-    -   Has the unique property of being able to apply several of the same kind of potion.
-    -   Deals a small amount of hit-stun.
-    -   Does **not** deal damage directly, however damage potions can be added to your Distillery to make it deal damage.
-    -   Damage potions have a significantly reduced effect on Lethal Injection, dealing around 1/3rd of their original damage.
-        -   Because of this, you'll have to heavily invest if you want your Lethal Injection to be a damage tool, potentially removing any support or debuff potions from your Distillery.
-    -   Auto-tracks.
+-   **Lethal Injection - Combat Mantra**
+    -   Lunge forward and inject the targeted person with all of your auto-brew potions.
+        -   This injects all of the _negative_ effects of every potion in your Distillery, none of the positive effects will apply.
+        -   Puts all potions in your Distillery on cooldown. If a potion is on cooldown when using Lethal Injection, its effect will be omitted from your Mantra.
+        -   Has the unique property of being able to apply several of the same kind of potion.
+        -   Deals a small amount of hit-stun.
+        -   Does **not** deal damage directly, however damage potions can be added to your Distillery to make it deal damage.
+        -   Damage potions have a significantly reduced effect on Lethal Injection, dealing around 1/3rd of their original damage.
+            -   Because of this, you'll have to heavily invest if you want your Lethal Injection to be a damage tool, potentially removing any support or debuff potions from your Distillery.
+        -   Auto-tracks.
+        -   Has a shorter cooldown than your potions do.
+    -   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
+        -   Only the Stardust is consumed.
 
 ## Location
 

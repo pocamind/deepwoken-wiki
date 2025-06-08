@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 144961
+revid: 146054
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -68,7 +68,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
         -   This Talent is the same as the old legendary Talent named 'Vanishing Follow-Up,' which was removed due to changes in the flourish system after Layer 2 was dropped.
 
 -   **Momentum Bar - Passive**
-    -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player. When maxed-out, mantras will deal 20% more damage and the color of mantras will change according to the cosmetic of the Oath.
+    -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player.
+    -   When maxed-out, Jetstriker Mantras will deal 20% more damage and the color of Mantras will change according to the cosmetic of the Oath.
+    -   Allows you to basically [Dye](Dye_Packet.md) your Jetstriker Mantras.
 
 -   **Stratos Step - Talent**
     -   While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)

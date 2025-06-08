@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 145922
+revid: 146055
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -454,4 +454,5 @@ Exhaustive Loot Table
 -   Killing Duke Ishamon Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has been in the game.
 -   Can instantly cast Aero Spear if his head is caught under something, especially the pipes found around the edges of his arena.
 -   Currently parries almost every m1, even if feinted. Some say his AI was swapped with that of [Maestro Evangard Rest](Maestro_Evengarde_Rest.md), who is now the easiest boss in the game, letting you regen your entire health bar without attacking you.
-    -   Duke has Maestro’s AI, Maestro has Bugged Bladeharper AI, and Bladeharper has Duke AI. Duke will also no longer execute you during his fight, but he will spam mantras. If you get up during the new Duke fight, make it count.
+    -   The Duke will also no longer execute you during his fight, but he will spam mantras. If you get up during the new Duke fight, make it count.
+    -   He will also not parry mantras or critical attacks due to this, so if you spam those in his fight you will win extremely easily.

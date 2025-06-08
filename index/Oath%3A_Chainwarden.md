@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 145463
+revid: 146066
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -68,9 +68,9 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
         -   Does not cancel block when hitting from behind, despite applying hitstun. (Bug)
     -   1 second cooldown when landed. (Or hitting block)
     -   10 second cooldown when whiffed/interrupted.
--   Obtainment: Obtained with the Oath.
+    -   Obtainment: Obtained with the Oath.
 
--   **Impel** - **Combat Mantra**
+-   **Impel - Combat Mantra**
     -   _Blast through your opponent's guard and pull them towards you._
         -   Deals 5.5 damage and 6 posture per hit, totaling to 22 damage and 24 posture if all 4 orbs connect.
         -   Procs Chained and Chain Lash on the _first_ target hit past 20 studs. (Procs through block)
@@ -78,9 +78,9 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
         -   Fires 4 projectiles in the direction you are facing, but can be mouse aimed out of shiftlock. (Aim is intentionally slightly delayed)
         -   Doesn't cancel on parry nor has auto parry frames.
     -   Has a cooldown of 15 seconds.
--   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
+    -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
--   **Rupture** - **Combat Mantra**
+-   **Rupture - Combat Mantra**
     -   _Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
     -   Base variant will do 2 melee punches, dealing 36 damage (20.6 + 15.4) and 30 posture (15 + 15).
         -   Each punch dazes targets for 0.5 seconds.
@@ -97,41 +97,41 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
         -   The _**anti-roll**_ effect currently procs through block. (Bug)
         -   Currently has no endlag for M1s and crits. (Bug)
     -   Has a cooldown of 15 seconds.
--   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
+    -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
--   **Perpetual Wrath - Passive:** Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
-    -   Each target's stacks are individual.
-    -   Chained targets automatically gain 1 stack.
-    -   Hitting Chained targets with Restrain will add 1 stack of Perpetual Wrath.
-    -   Stacks only reset when the chain breaks.
-    -   At 4 stacks Restrain will have a special SFX and not increase in damage any further.
--   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
+-   **Perpetual Wrath - Talent:**
+    -   Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
+        -   Each target's stacks are individual.
+        -   Chained targets automatically gain 1 stack.
+        -   Hitting Chained targets with Restrain will add 1 stack of Perpetual Wrath.
+        -   Stacks only reset when the chain breaks.
+        -   At 4 stacks Restrain will have a special SFX and not increase in damage any further.
+    -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
--   **Chain Lash - Passive:** On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
-    -   Your flourish and Impel now apply chained and pull after a short delay. (Impel will only proc Chain Lash past 20 studs)
-    -   _**The** **pull**_ will bring the targets back to the location you flourished and prevent movement for a duration.
+-   **Chainlash - Talent Ability:**
+    -   On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
+        -   Your flourish and Impel now apply chained and pull after a short delay. (Impel will only proc Chain Lash past 20 studs)
+    -   The pull will bring the targets back to the location you flourished and prevent movement for a duration.
         -   Will only work on chained targets, if a target breaks the chain quick enough, Chain Lash will cancel.
         -   Has no hitstun, allowing targets to dodge/block freely.
         -   Works with Dazing Finisher and Bulldozer.
-        -   Has _2 seconds of endlag_, preventing all forms of attack other than the "crushing kick".
-            -   The hitstun starts 0.05 seconds _after_ you flourish, providing a small window to **movestack** it with mantras.
-    -   If the pull is successful you can use a _**[True Hyperarmor](https://deepwoken.fandom.com/wiki/Status_Effects#True_Hyperarmor) kick**_ by M1ing.
+        -   The pull has 2 seconds of endlag, preventing all forms of attack other than the "crushing kick". The kick itself does not have endlag, but the pull's endlag can carry over if used in quick sucession.
+            -   The hitstun starts 0.05 seconds _after_ you flourish, providing a small window to movestack it with mantras.
+        -   If the pull is successful you can use a [True Hpyerarmor](Status_Effects.md#true-hyperarmor) kick by M1ing.
         -   Deals 46 Oath damage and 25 posture with a 360° hitbox.
         -   Not treated as a mantra or an M1, bypassing Return to the Dark Ages but also ignoring Champion's Regalia.
         -   Ragdolls and flings targets in the direction you are looking, but cannot wallbang.
-        -   Does not cancel the pull's _endlag_, by M1ing _immediately_ you will have still have a remaining 1 second of endlag.
-        -   The kick has no endlag itself, using it at the _very_ _last moment_ will allow you to **movestack** it with mantras.
--   Obtainment: Obtained after the second _chained_ Hunted Player/Humanoid Boss grip.
+        -   The kick has no endlag itself, using it at the _very last moment_ will allow you to movestack it with mantras.
+    -   Obtainment: Obtained after the second _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Chained - Passive**
-    -   Procced by Restrain and Chain Lash.
+    -   Procced by Restrain and Chainlash.
     -   Every 0.5 seconds, targets more than 20 studs away are slowed for 1.5 seconds, this effect stacks up to 3 times.
     -   Grants user chain variant Restrain.
     -   Automatically provides targets with +1 Perpetual Wrath stack.
     -   Chained will clear once the opponent is over 40 studs away, Rupture is used, or once the duration finishes, resetting all Perpetual Wrath stacks.
         -   Chained duration is forcibly set to 30 seconds when first applied, and won't reset regardless of if the chain was removed, reapplied, or Restrain lands. (Bug)
-
--   Obtainment: Obtained with the Oath.
+    -   Obtainment: Obtained with the Oath.
 
 ## Trivia
 

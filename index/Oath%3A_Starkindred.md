@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 145962
+revid: 146074
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -61,14 +61,14 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 
 ## Abilities
 
--   **Wings - Innate**
+-   **Wings - Passive**
     -   Using **Ascension, Celestial Assault,** **Sinister Halo** or **cancelling your Air Dash** will grow two pairs of wings on the user for 60 seconds. Chrysid, Ganymede and Vesperian will all have different wings instead of what it is usually. Moth wings for Chrysid and beetle wings for Ganymede/Vesperian
     -   While active, Air Dash goes much further in any direction, however the effectiveness is reduced if going horizontally.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   If undyed, comes in the color of your aspect's hair color.
     -   The mantra **[Fire Blade](Flamecharm.md#fire-blade)** now launches the user upward before releasing a large plume of flames, to remove this effect apply a [Reversal Spark](Mantra_Modifiers.md) to **Fire Blade**.
 
--   **Ascension** **\- Combat Mantra**
+-   **Ascension - Combat Mantra**
     -   _Take to the skies for a devastating strike._
         -   The user rises into the air before swooping in.
         -   Deals 37 Oath damage.
@@ -77,20 +77,20 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
         -   This attack cannot be modified. Wayward Gem will not proc.
         -   Can knockdown any enemy ingame.
 
--   **Celestial Assault** **\- Combat Mantra**
+-   **Celestial Assault - Combat Mantra**
     -   _Use your wings and deliver two critical blows._
         -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
         -   Deals 40 (20\*2) Oath damage.
 
--   **Sinister Halo** **\- Combat Mantra**
+-   **Sinister Halo - Combat Mantra**
     -   _Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
         -   Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
         -   Deals 32 (3.2\*10) Oath damage.
 
--   **Death From Above - Talent**
+-   **Death From Above - Talent Ability**
     -   _Upon cancelling your Air Dash, reveal your wings and strike your enemy._
         -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
-        -   Deals 75 (25\*3) Slash/Physical damage.
+        -   Deals 75 (25\*3) Slash damage.
         -   Deals 25 posture damage per hit.
         -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
         -   Despite what is shown in the gif, Death From Above no longer has hyperarmor.

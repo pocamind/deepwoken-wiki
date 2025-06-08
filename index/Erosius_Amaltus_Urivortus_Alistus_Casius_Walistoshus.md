@@ -1,6 +1,6 @@
 ---
 title: Erosius Amaltus Urivortus Alistus Casius Walistoshus
-revid: 145270
+revid: 146081
 source: https://deepwoken.fandom.com/wiki/Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, NPCs located in the First Floor of the Second Layer]
@@ -18,7 +18,7 @@ categories: [NPCs, Quests, NPCs located in the First Floor of the Second Layer]
 
 ― Erosius Amaltus Urivortus Alistus Casius Walistoshus
 
-Erosius Amaltus Urivortus Alistus Casius Walistoshus (short, Erosius) is a Kyrsan NPC found in [Firfire](Firfire.md), near the back of the camp. They will refuse to speak to you any further than their first dialouge option unless you have the Spear of Nakti, or have already done the quest on that slot.
+Erosius Amaltus Urivortus Alistus Casius Walistoshus (short, Erosius) is a Kyrsan NPC found in [Firfire](Firfire.md), near the back of the camp. They will refuse to speak to you any further than their first dialouge stated unless you have talked to [Aero](Aeroaseluniris_Oricalum_Forentus.md), you have the Spear of Nakti, or have already done the quest on that slot.
 
 This NPC holds the quest to get the talent Ethiron's Gaze, which allows you to see through the fog present in the first floor of Layer 2.
 

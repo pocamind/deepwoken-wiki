@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 146015
+revid: 146086
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, The Ignition Union]
@@ -58,7 +58,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 
 ## Abilities
 
--   **Arc Suit** **★★★ - Support Mantra**
+-   **Arc Suit - Support Mantra**
     -   _Conjure and equip your Arcwarder suit._
         -   Encases the user in durable armor for 15 seconds.
         -   Can be modified with Aeon/Eternal Logstones to a maximum duration of 1 minute. This however also scales up its cooldown.
@@ -66,44 +66,45 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   Has i-Frames on the second half of its windup.
         -   Orbital Ice is less effective when used alongside the Arc Suit.
         -   Comes in Umbral, Black, Gold, Dark Gray, Light Gray and White may be changed with a Dye Packet.
-        -   Obtained with oath
+    -   Obtained with the Oath.
 
--   **Arc Module: Leap - Passive**
+-   **Arc Module: Leap - Talent**
     -   _Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration._
         -   Allows you to double jump.
 
--   **Arc Module: Dash - Passive**
+-   **Arc Module: Dash - Talent**
     -   _When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing._
         -   Allows your Air Dash to go much farther.
         -   Allows the user to attack while performing a dash.
-        -   Obtain with oath
+    -   Obtained with the Oath
 
--   **Arc Module: Eject - Passive**
+-   **Arc Module: Eject - Talent**
     -   _When blockbroken with Arc Suit active, eject from the armor._
         -   When block broken you instantly eject from your Arc Suit preventing it.
         -   Upon exiting the Arc Suit posture is set to 50%
-        -   Obtained after first chaser / scion of ethiron kill
+    -   Obtained after first [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
--   **Arc Module: Guard - Passive**
+-   **Arc Module: Guard - Talent**
     -   _Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind._
         -   Allows the user to block attacks from all directions.
-        -   Prevents Spine Cutter from occurring when hit in the back.
+        -   Prevents Spine Cutter from occurring when blocking.
+    -   Obtained after second [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
--   **Arc Module: Null - Passive**
+-   **Arc Module: Null - Talent**
     -   _When your Arc Suit is active, outgoing and incoming enchant effects are nullified._
         -   Can be toggled by pressing N when Arc Suit is active.
 
--   **Arc Wave** ★★★ - Combat Mantra
+-   **Arc Wave - Combat Mantra**
     -   Stomp the ground releasing a wave of Arc energy.
         -   Deals 20 base Oath, Flame and Thunder damage, same as Arc Beam.
         -   Can apply both Shock and Burning, or its Path alternate variants.
         -   Scales with both Flamecharm and Thundercall.
-        -   Obtained alongside Guard.
         -   10s CD.
-        -   Landing this Mantra while in Arc Suit removes 50% of current posture.
+        -   While Arc Suit is active, landing Arc Wave restores 50% of your current posture.
         -   Has 7.6x PVE scale.
+    -   Obtained after second [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
--   **Arc Beam** **★★★ - Combat Mantra**
+-   **Arc Beam - Combat Mantra**
     -   Fire plasma energy. Deals additional damage in PvE.
         -   Deals 20 base Flame and Thunder damage.
         -   Can apply both Shock and Burning, or its Path alternate variants.

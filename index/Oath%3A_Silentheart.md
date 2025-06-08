@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 142983
+revid: 146076
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -74,19 +74,19 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 
 ## Abilities
 
--   **Ankle Cutter - Passive**
+-   **Ankle Cutter - Talent Ability**
     -   You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
         -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1 and adding 30% as bleed dmg.
         -   Can be used while sliding down slopes at no cost to your speed.
         -   Flow state makes ankle cutter faster as well as increasing DMG by 48%
-        -   5 seconds cooldown.
+        -   5 second cooldown.
 
--   **Dread Fighter - Passive**
+-   **Dread Fighter - Talent**
     -   Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
         -   Stacks up to 5 times and each stacks grant 5% mantra resistance leading to total 25% resistances.
 
--   **Flow State - Active**
+-   **Flow State - Talent Tool**
     -   Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
         -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
         -   Given as a Talent tool.
@@ -101,7 +101,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
             -   _**Although it does provide buffs it adds a loud whooshing sound effect right before you do the move**_
         -   Active for 1 second. ~4s CD.
 
--   **Mayhem - Passive**
+-   **Mayhem - Talent Ability**
     -   Initiate a special dash attack by pressing M1 during the start of your dodge.
         -   11s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
@@ -110,12 +110,12 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   Medium - deals 20 Fixed Damage (35 in flow state)
         -   Heavy - deals 30 Fixed Damage
 
--   **Merciless Blade - Passive**
+-   **Merciless Blade - Talent**
     -   You can now execute enemies much faster.
         -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
         -   Comes with the Oath.
 
--   **Relentless Hunt - Passive**
+-   **Relentless Hunt - Talent Ability**
     -   M1 while doing an Aerial Attack to initiate a special gap closer attack.
         -   Can be used at a great range.
         -   11s CD per weapon type.
@@ -125,7 +125,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   Medium - 30 Fixed Damage (15 each) (20 each in flow state)
         -   Heavy - 25 Fixed Damage
 
--   **Rising Star - Passive**
+-   **Rising Star - Talent Ability**
     -   Press CTRL + M2 to activate a special uppercut attack
         -   7.5s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
@@ -134,17 +134,17 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   Medium - 30 Fixed Damage (40 in flow state)
         -   Heavy - 40 Fixed Damage
 
--   **True Vantage - Passive**
+-   **True Vantage - Talent**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
         -   This turns your Vents Red which is purely cosmetic.
             -   If you have used Dyes, instead turns your vents to your tattoo colour.
 
--   **Unmatched Dexterity - Passive**
+-   **Unmatched Dexterity - Talent**
     -   Press X to Quick Swap between weapons within your toolbar.
         -   Begins cycling from the latest weapon added to the toolbar. Once all weapons have been cycled through once, it cycles starting from the right side of the toolbar towards the left.
         -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
 
--   **Vengeful Pursuit - Passive**
+-   **Vengeful Pursuit - Talent Ability**
     -   Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you
         -   8 seconds cooldown.
 

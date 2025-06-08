@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 145910
+revid: 146067
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -62,14 +62,16 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 
 ## Abilities
 
--   **Hidden Tendril - Passive (+10 Ether)**
-    -   Landing any physical mantra places a Hidden Tendril on the opponent.
+-   **Hidden Tendril - Talent**
+    -   Landing any physical mantra places a Hidden Tendril on the opponent. (+10 Ether)
         -   Physical critical attacks, uppercuts, flourishes, and most attunement-less mantras will also apply a Hidden Tendril.
-        -   **All** of this Oaths abilities are unable to be used on Non-Humanoids.
+    -   Obtained with the Oath.
 
--   **String Trick - Passive**
+-   **String Trick - Talent**
     -   Pulls together any two opponents you've attached Hidden Tendril to.
-    -   Deals 4.8 Oath DMG twice
+        -   Deals 4.8 Oath DMG twice.
+    -   Obtained after killing 3 players with [Oaths](Oaths.md) in the [Depths](First_Layer.md).
+        -   It will send them to [Layer 2](Second_Layer.md) instead of wiping them.
 
 -   **Judgement - Combat Mantra**
     -   Summon a black casting circle before enveloping a humanoid target in tendrils and tearing them apart. The target is unable to move or act during the animation.
@@ -78,12 +80,16 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
         -   **Instantly executes** if it brings the target's HP to 0 or used on a knocked target.
         -   Can be vented out of, and can also parried as soon as you hear the 'snap' sound.
         -   Deals 59.93 (6.38+53.55) Oath DMG
+    -   Obtained after killing 2 players with [Oaths](Oaths.md) in the [Depths](First_Layer.md).
+        -   It will send them to [Layer 2](Second_Layer.md) instead of wiping them.
 
 -   **Lords Slice - Combat Mantra**
     -   The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions. The target takes more damage and blood loss after the pull.
         -   Can slam people into walls.
         -   Only usable if Hidden Tendril is applied to the target.
         -   Deals 44 Oath DMG
+    -   Obtained after killing 1 player with an [Oath](Oaths.md) in the [Depths](First_Layer.md).
+        -   It will send them to [Layer 2](Second_Layer.md) instead of wiping them.
 
 -   **Equalizer - Combat Mantra**
     -   Whip forward with Tendril and gain a blue aura. If it connects, it deals damage to the target, and gives the user a blue aura.
@@ -91,6 +97,8 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
         -   Non-Humanoids will bypass the counter aura, instead outright hitting you.
         -   Can be vented out of.
         -   Whip hit deals 20 oath DMG
+    -   Obtained after killing 2 players with [Oaths](Oaths.md) in the [Depths](First_Layer.md).
+        -   It will send them to [Layer 2](Second_Layer.md) instead of wiping them.
 
 ## Trivia
 

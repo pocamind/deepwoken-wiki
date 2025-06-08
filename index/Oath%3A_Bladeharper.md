@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 145994
+revid: 146064
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -54,7 +54,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
 
 ## Abilities
 
--   **True Strength - Passive** (Note: this ability does not have its own Talent)
+-   **True Strength - Passive**
     -   By proccing Untouchable or Reveal, enter the True Strength state.
         -   If procced from Untouchable, it lasts 15 seconds. If procced from Reveal, the set duration is removed, but you passively [Wither](Status_Effects.md#wither) your own health bar instead (lowers your maximum HP).
     -   Lowers Lithe Step's cooldown from 3s to 1s.
@@ -63,7 +63,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   Empowers your Bladeharper Mantras. True Strength's affects are listed under each Mantra.
     -   Grants a Speed Boost. This Speed Boost can be used to proc Talents (e.g. [Speed Demon](Talents.md#vigil-swordsman) or [Cheap Shot](Talents.md#trickster)) and lasts for the entire duration of True Strength.
 
--   **Lithe Step - Passive**
+-   **Lithe Step - Talent**
     -   When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed
         -   Makes the player briefly invisible, similar to [Rush of Ancients](Oath%253A_Jetstriker.md).
         -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
@@ -78,14 +78,14 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
         -   Deals a total of 78 Oath & Physical damage in True Strength (31 base hit + 31 uppercut + (4 \* 4 slashes)). The base hit and uppercut deal Oath & Blunt, while the slashes deal Oath & Slash.
     -   Obtainment: Obtained with the Oath, after the first Mind Reflection fight.
 
--   **Soaring Storm - Passive**
+-   **Soaring Storm - Talent Ability**
     -   Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
     -   Deals a total of 24 Oath & Slash damage (hits 6 times with each hit dealing 4 damage).
     -   Proc condition is removed if in True Strength.
         -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), [modified Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
     -   Obtainment: Obtained after the second Mind Reflection fight.
 
--   **Untouchable - Passive**
+-   **Untouchable - Talent**
     -   By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
         -   Upon proccing Untouchable, enter the True Strength state for 15 seconds where your uppercuts, air attack, and Oath mantras are empowered.
         -   To proc the Talent you must build up 10 Untouchable stacks by landing your attacks.
@@ -93,7 +93,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
             -   Non weapon attacks (like Burn, Mantras, Eruptions, etc.) build up 1 stack each. Bleed does not build up stacks however.
     -   Obtainment: Obtained after the second Mind Reflection fight.
 
--   **Reveal - Utility**
+-   **Reveal - Talent**
     -   Pour your heart out, and reveal your true strength.
         -   Toggle On and Off the True Strength state.
         -   While Reveal's True Strength state, you passively build up [Wither](Status_Effects.md#wither) (reduced max HP) on yourself.
@@ -102,7 +102,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
         -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#immolator) and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.
     -   Obtainment: Obtained after the final Mind Reflection fight.
 
--   **Float Like a Butterfly - Passive**
+-   **Float Like a Butterfly - Talent Ability**
     -   While having True Strength active, cancel your air dash to enter a frenzy of slashes.
     -   It is movestackeable with any mantra that can be casted mid-air.
     -   It has a cooldown of 5 seconds.
@@ -123,7 +123,7 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 
 ## Strategy
 
-The mirror is a bot and so it does not come up with tactics and plans before the fight, it simply uses abilities periodically and swings its sword.
+The mirror is an NPC and so it does not come up with tactics and plans before the fight, it simply uses abilities periodically and swings its sword.
 
 Before even fighting the mirror, it is best for you to have some sort of mobility, because the Statues can be quite difficult to get to. (Except for the one behind Lord Regent's palace). Strong Leap and some agility could work.
 

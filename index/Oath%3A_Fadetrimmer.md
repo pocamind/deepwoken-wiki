@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 146012
+revid: 146075
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -59,23 +59,26 @@ This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
     -   Deals 56.56 Oath DMG with 6 songchant
     -   Can be used for movement.
 
--   **Fadetrimmer's Skillset - Passive**
+-   **Fadetrimmer's Skillset - Talent Tool**
     -   _What type of look are we going for today?_
-    -   Changes what haircut Precision Cuts (Close Shave also works, but is less reliable for some reason) will give people.
-    -   You can also change your own hair.
+    -   Grants a Talent tool that opens the old version of the Barber UI.
+    -   If you click yourself, it'll change your own hair.
+    -   If you click others, it'll change the haircut your Fadetrimmer Mantras apply.
+    -   Due to it being an outdated version of the Barber UI, it only has 4 hair slots.
     -   **DO NOT USE HAIR IDS THAT CAN BE SEEN AS OFFENSIVE. This is bannable. You are the one responsible for what hairs you give.**
 
--   **Hair Products - Passive**
+-   **Hair Products - Talent Tool**
     -   _What's in these things?_
-    -   Shows a popup menu that allows you to select either Flammable, Charming, or Revitalizing.
-        -   Flammable ignites the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent). 10s cd. Parryable and blockable.
-        -   Charming Charms the opponent for 15 seconds. 10s cd. Parryable and blockable.
-        -   Revitalizing heals a flat 10% HP of the target. 10s cd. Can heal non-allies and even mobs. Unparryable and unblockable.
+    -   Shows a popup menu that allows you to select either **Flammable**, **Charming**, or **Revitalizing** hair sprays.
+    -   Changes what effect your Hair Spray Talent tool applies.
 
--   **Hair Spray - Passive**
+-   **Hair Spray - Talent Tool**
     -   _Apply your Hair Products._
     -   Applies the spray that was selected in the Hair Products' popup menu.
     -   All three hair products have a 10 second cooldown.
+        -   Flammable ignites the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent). 10s cd. Parryable and blockable.
+        -   Charming Charms the opponent for 15 seconds. 10s cd. Parryable and blockable.
+        -   Revitalizing heals a flat 10% HP of the target. 10s cd. Can heal non-allies and even mobs. Unparryable and unblockable.
 
 ## Trivia
 
