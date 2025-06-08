@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 144888
+revid: 146036
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Summer Company, Medium Weapon]
@@ -14,14 +14,14 @@ categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 | requirements | 75 MED |
 | damage | 18 |
 | scaling | MED: 8 |
-| range | 7 |
+| range | 8 |
 | swing speed | 1x |
 | endlag | N/A |
 | penetration | N/A |
 | chip damage | N/A |
-| special effect | Shoots, then swings the rifle. |
+| special effect | Swings, then shoots the rifle. |
 | stances | 2 Handed |
-| weight | 3 |
+| weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -31,14 +31,20 @@ categories: [Weapons, Rifles, Summer Company, Medium Weapon]
 
 ## Description
 
-Rosen's Peacemaker is a Medium Weapon and was released in the Verse 2 content update. It is among the first medium weapon [guns](Guns.md), including the [Iron Blunderbuss](Iron_Blunderbuss.md). Rosen's Peacemaker has 18 Base Damage and a scaling of 8, so it deals 26.1 damage at 75 MED and 28.8 damage at 100 MED. Rosen's Peacemaker, like the Iron Blunderbuss, rotates between a blunt swing attack and a longer-range firing attack during its M1 combo. The critical of Rosen's Peacemaker is a slightly slower version of its M1 firing cycle, but it shoots a projectile in the direction the wielder faces. The bullets do not incur parry stun on the attacker if they get parried at far range.
+Rosen's Peacemaker is a Medium Weapon and was released in the Verse 2 content update. It is among the first medium weapon [rifles](Guns.md) along with it's brutal brother the [Iron Blunderbuss](Iron_Blunderbuss.md).
+
+Rosen's Peacemaker has 18 Base Damage and a scaling of 8, so it deals 26.1 damage at 75 MED and 28.8 damage at 100 MED.
+
+Rosen's Peacemaker, like the Iron Blunderbuss, rotates between a blunt swing attack and a longer-range firing attack during its M1 combo. The critical of Rosen's Peacemaker is a slightly slower version of its M1 firing cycle, but it shoots a projectile in the direction the wielder faces. The bullets do not incur parry stun on the attacker if they get parried at far range.
 
   
 
 ## Trivia
 
 -   First shown in combat in Agamatsu's 1v1 between him and Nuttoons.
--   The critical's speed is very similar to the regular swing speed.
+-   The critical's speed is very similar to the regular swing speed yet a tiny bit slower.
 -   The maker of both the [Iron Blunderbuss](Iron_Blunderbuss.md) and the Rosen's Peacemaker is [Gunsmith Rosen](Lore.md).
 -   It is considered a direct upgrade to the [Summer Rifle](Summer_Rifle.md) as they share the same swing speed but has more superior stats.
--   Unlike it's swing M1, the shot M1 has a straight line hitbox making it generally harder to hit enemies.
+-   Unlike its swing M1, the shot M1 has a straight line hitbox making it generally harder to hit enemies.
+-   The critical can still proc [Critical Attack](Talent_Quests.md) even if it gets blocked.
+-   The rifle can utilize [Bullet Casings](Bullet_Casings.md) but only on its shot M1s.

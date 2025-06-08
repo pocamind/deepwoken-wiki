@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 146027
+revid: 146039
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -8,52 +8,53 @@ categories: [Character, Mechanics]
 
 # Combat Tag
 
-## Deception
+## Description
 
-Combat tag _(Ctag)_, or In Combat (In Danger), is the state a player enters upon being attacked in any sort of way, no matter if it did any effect. This includes dodging, parrying and blocking.
+Combat Tag (also known as In Combat or In Danger, commonly abbreviated to Ctag), is the state a player enters upon getting hit by or interacting with an attack from any [enemy](Enemies.md), [monster](Monsters.md), [boss](Bosses.md), player, or other hazard. This includes dodging, parrying and blocking.
 
-_(Note: Allies through [Vow Of Mastery,](Vow_of_Mastery.md) [Vow Of Allegiance,](Combat_Mechanics.md) [guildmates](Guilds.md), or being friends on Roblox do not proc combat tag if they hit you.)_
+_(Note: Allies through [Vow of Mastery](Vow_of_Mastery.md), [Vow of Allegiance](Combat_Mechanics.md#alliances), [guildmates](Guilds.md), or being friends on Roblox do not proc combat tag if they hit you.)_
 
-The main purpose is to punish rage-quitting and logging in combat. _known as_ _(Clog)_
+Its main purpose is to punish rage-quitting and leaving during combat.
 
-#### Indicated By
+### Indicated by
 
--   The light blueish purple/red skull is popping up at the top of the screen.
+-   The light blueish purple/orange/red skull is visible at the top of the screen.
 -   Combat music of the Location you're in will start playing.
 
-#### Consequences of entering combat
+### Consequences of entering combat
 
--   Your natural health Regeneration is reduced, as well as the healing from [Campfires](Campfire_Pit.md).
--   Some [Talents](Talents.md) proc upon inflicting a Combat Tag or by being inflicted with one.
+-   Your natural health Regeneration is reduced, as well as healing from [Campfires](Campfire_Pit.md).
+-   Some [Talents](Talents.md) activate upon inflicting a Combat Tag or by being inflicted with one.
     -   _Example: [Ready Or Not](Talents.md) will cut the damage from the first hit you take outside of combat in half._
+-   Once in combat you cannot [backstab / assassinate](Stealth.md) without the Dustlunge Talent.
 
-Hovering over the skull will show you the name of the entity that put you into combat tag or prolonged it, and the timer you will be in combat tag for. When in PvP, it will also show the number of players that you're currently in combat with.
+Hovering over the skull will show you the name of the entity that put you into combat tag or prolonged it, and the amount of time you will remain tagged for. When in PvP, it will also show the number of players that you're currently in combat with next to it.
 
 ## PvE and PvP
 
-PvP combat tag differs from PvE combat tag.
+Being tagged by enemies, monsters, bosses, and anything else (PvE) differs from being tagged by players (PvP).
 
-#### PvE: White Skull
+### PvE: Blue Skull
 
-The White skull means you're in PvE combat tag. This combat tag will last 30 seconds, or until all the mobs that caused you harm are killed. This comes with limitations:
+The blue skull means you're in PvE combat tag. This combat tag will last 30 seconds, or until all the mobs that caused you harm are killed. This comes with limitations:
 
-1.  You cannot switch weapons or armor during combat.(Unless you're [Silentheart](Oath%253A_Silentheart.md), in which you can switch weapons in combat with it's ability.)
+1.  You cannot switch weapons or armor during combat. (Unless you're a [Silentheart](Oath%253A_Silentheart.md), in which you can switch weapons in combat with its ability.)
 2.  If you leave the game or disconnect during this, the game will treat it as death, even sending you to the depths or wiping you if you are already in them. However, if you were over 60% HP, you will not get punished in any way.
-3.  When tagged by a [Boss](Bosses.md) the skull turns orange, and shows their HP.
+3.  When tagged by a [Boss](Bosses.md) the skull is orange and shows their HP under it as a bar. Boss combat tags last for 2 minutes and 40 seconds.
 
-#### PvP: Red Skull
+### PvP: Red Skull
 
-The Red skull means that you are currently being assaulted by a player and lasts a minute and 20 seconds. Turning on "No Holds Barred" in settings will make it so that attacking your allies or guild mates will put them in danger. This comes with limitations:
+The red skull means that you are currently being assaulted by a player and lasts 1 minute and 20 seconds. Turning on "No Holds Barred" in settings will make it so that attacking your allies or guild mates will put them in danger. This comes with limitations:
 
 1.  You cannot switch weapons or armor during combat. (With the aforementioned [Silentheart](Oath%253A_Silentheart.md) exception.)
 2.  If you leave the game or disconnect at all, you will die regardless of your HP.
-3.  Unlike the White skull, you can't get health packs from NPCs, only players.
+3.  You will no longer be healed by knocking NPCs or killing monsters, only by knocking players.
 
-You can remove Combat Tag from non-allies by saying "Mb \[First Name\]" or "Mb all" to lift off all people you put it on.
+You can remove Combat Tag from non-allies by saying "mb \[First Name\]" or "mb all" to lift off all people you put it on. "mb" is a shortening of "my bad", which also works in place of it.
 
 ## Combat Quotes
 
-When the skull at the top appears for both PvP or PvE, it will also have a quote under the skull, it also shares the skull color, these quotes will vary depending on your state, and Location.
+When the skull at the top appears, there is a quote under it that varies depending on your state and Location.
 
 List of Quotes:
 
@@ -64,15 +65,11 @@ List of Quotes:
 
 ## Trivia/Notes
 
--   The [Silentheart Oath](Oath%253A_Silentheart.md), can switch weapons in combat and has a button to do so.
-    -   This is also possible with the [Crazy Slots Bell](Crazy_Slots.md) but only its own weapons.
--   [Bosses](Bosses.md) give a PvE Tag that lasts 2 minutes and 40 seconds.
-    -   When tagged by a [Boss](Bosses.md) the skull turns orange, and shows their health as a bar.
--   Once in Combat you cannot backstab / assasinate without the Dustlunge Talent.
+-   There are 3 exceptions to being punished for leaving while combat tagged:
+    1.  Server shutdown for hotfix or weekly updates.
+    2.  Being teleported by a Dungeon teleporter _(Example: [The Ferryman](The_Ferryman.md)'s summoning ring, [Lighthook](Light_Hook.md) teleport)_
+    3.  Jumping into the void in the [First Layer](First_Layer.md) while above 75% HP.
+-   [Crazy Slots](Crazy_Slots.md) is able to switch weapons during combat, but only its own weapons.
 -   [Lord Regent](The_Lord_Regent.md) applies Combat Tag when he uses Judgement against you.
--   If you dodge a [Environmental](Environmental_Hazards.md) attack or [Bloatskipper](Mudskipper.md) explosion, the name of the attacker will be "_**God**._"
--   Allies were able to tag you normally with a shorter PvP timer, it was extremely annoying, this is no longer the case.
--   There is 2 Exceptions to being Punished by Combat Tag
-    1.  Server Shutdown for hotfix or weekly updates.
-    2.  Being teleported by a Dungeon Teleporter _(Example: [Ferryman](The_Ferryman.md), [Layer 2](Second_Layer.md) [Lighthook](Light_Hook.md) TP)_ or Jumping into the void in [First Layer](First_Layer.md) when above 75% HP.
--   Commonly Referred to as Ctag or Danger, _See Terminology (Game)_
+-   If you dodge an [environmental hazard](Environmental_Hazards.md) or a [Bloatskipper](Mudskipper.md) explosion, the name of the attacker will be "_**God**_".
+-   Allies used to be able to tag you normally with a shorter PvP timer, it was extremely annoying, this is no longer the case.

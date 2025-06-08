@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 146009
+revid: 146044
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -199,7 +199,9 @@ Ice
 -   Deals 29.9 (33.28 with 6 songchant) DMG, 11 posture, 15s CD at 5 lvl.
 -   Has 9.17x PVE Scale (29.9 PVP DMG, 274.48 PVE DMG)
 -   Does not inflict Chill.
--   WIth the **Spike Traps** Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
+-   With the **Spike Traps** Talent, pressing \[F\] during the wind-up creates translucent ice traps, randomly placed within a wide area around you, that turn into spikes when colliding with an enemy or when using the \[F\] version again.
+    -   Each spike deals 50% of the damage of the base version.
+    -   Using this version again will place new traps and detonate the existing traps at the same time.
 -   Can be modified with Cloud and Stratus Stones to make the ice spikes bigger.
 
  |
@@ -282,8 +284,8 @@ Ice
     -   Can't be increased.
 -   1st and 2nd hit are parryable.
 -   Cancels if parried.
--   Can be upgraded with the **Glacial Mobility** Talent, which allows you to perform a spinning slice when casting the Mantra after a slide jump, dealing ~1.7x the damage of the first hit of the base version.
 -   Can be canceled by timing a right-click after any of the slashes.
+-   Can be upgraded with the **Glacial Mobility** Talent, which allows you to perform a spinning slice when casting the Mantra after a slide jump, dealing 2x the damage of the first hit of the base version.
 
  |
 | 
@@ -485,7 +487,7 @@ Ice
 -   Inflicts Chill. 5 seconds of Chill, 9 seconds with 1 Eternal Logstone.
 -   Slightly knocks back target(s)
 -   Can break objects.
--   Can be upgraded with the "**Glacial Finish**" Talent, causing it to initiate a second hit dealing ~85% damage of the first hit.
+-   Can be upgraded with the "**Glacial Finish**" Talent, causing it to initiate a second hit dealing 80% of the damage of the first hit.
 
  |
 | 

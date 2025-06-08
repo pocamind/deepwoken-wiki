@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 145200
+revid: 146042
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -88,7 +88,7 @@ File:EtreaSymbol.png
 
 [The Kingdom of Etrea](Etrea.md)
 
- | Nerin | Outside a house in the area above the Etris Antiquarian and near The Barber. |
+ | [Nerin](Nerin.md) | Outside a house in the area above the Etris Antiquarian and near The Barber. |
 | 
 
 File:Nepotism.png
@@ -99,7 +99,7 @@ File:SummerCompanySymbol.png
 
 [Summer Company](The_Summer_Company.md)
 
- | Nepo | Leaning by the archway reached by going across a series of bridges behind the Summer Isle Castle. |
+ | [Nepo](Nepo.md) | Leaning by the archway reached by going across a series of bridges behind the Summer Isle Castle. |
 | 
 
 File:Zirik.png
@@ -110,7 +110,7 @@ File:HiveSymbol.png
 
 [The Hive](The_Hive.md)
 
- | Zirik | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
+ | [Zirik](Zirik.md) | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
 | 
 
 File:Rashet.png
@@ -121,7 +121,7 @@ File:AuthoritySymbol.png
 
 [The Central Authority](The_Central_Authority.md)
 
- | Raphael | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
+ | [Raphael](Raphael.md) | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
 | 
 
 File:Gudrin.png
@@ -132,7 +132,7 @@ File:DiversSymbol.png
 
 [The Divers](The_Divers.md)
 
- | Gudrin | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
+ | [Gudrin](Gudrin.md) | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
 | 
 
 File:IgnitionUnionRepReset.png
@@ -143,7 +143,7 @@ File:Ignition Union.png
 
 [The Ignition Union](The_Ignition_Union.md)
 
- | Maura | Standing inside a house located on a cliff above the main entrance of the [Miner's Landing](<Miner's_Landing.md>) town. |
+ | [Maura](Maura.md) | Standing inside a house located on a cliff above the main entrance of the [Miner's Landing](<Miner's_Landing.md>) town. |
 
 ## Factions/Entities
 
