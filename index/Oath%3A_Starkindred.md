@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 146074
+revid: 146093
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -53,7 +53,7 @@ You will get a Mantra for each kill, and a chest containing [Songseeker](Songsee
 
 The order of Mantras goes as follows: Ascension, Sinister Halo, Celestial Assault.
 
-Alternatively you can use 10 knowledge to obtain all mantras and talents if you already fully progressed this on another file
+Alternatively you can pay [Samael](Samael.md) 10 [Knowledge](Knowledge.md) to skip Starkindred's progression. However, this requires you to have fully progressed Starkindred before.
 
 ## Effects
 
@@ -62,7 +62,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 ## Abilities
 
 -   **Wings - Passive**
-    -   Using **Ascension, Celestial Assault,** **Sinister Halo** or **cancelling your Air Dash** will grow two pairs of wings on the user for 60 seconds. Chrysid, Ganymede and Vesperian will all have different wings instead of what it is usually. Moth wings for Chrysid and beetle wings for Ganymede/Vesperian
+    -   Using **Ascension, Celestial Assault, Sinister Halo** or **cancelling your Air Dash** will grow two pairs of wings on the user for 60 seconds. Chrysid, Ganymede and Vesperian will all have different wings instead of what it is usually. Moth wings for Chrysid and beetle wings for Ganymede/Vesperian
     -   While active, Air Dash goes much further in any direction, however the effectiveness is reduced if going horizontally.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   If undyed, comes in the color of your aspect's hair color.
@@ -76,16 +76,19 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
         -   Applies hard knockdown on hit.
         -   This attack cannot be modified. Wayward Gem will not proc.
         -   Can knockdown any enemy ingame.
+    -   Obtained after the first Sinner kill.
 
 -   **Celestial Assault - Combat Mantra**
     -   _Use your wings and deliver two critical blows._
         -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
         -   Deals 40 (20\*2) Oath damage.
+    -   Obtained after the third Sinner kill.
 
 -   **Sinister Halo - Combat Mantra**
     -   _Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
         -   Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
         -   Deals 32 (3.2\*10) Oath damage.
+    -   Obtained after the second Sinner kill.
 
 -   **Death From Above - Talent Ability**
     -   _Upon cancelling your Air Dash, reveal your wings and strike your enemy._
@@ -94,6 +97,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
         -   Deals 25 posture damage per hit.
         -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
         -   Despite what is shown in the gif, Death From Above no longer has hyperarmor.
+    -   Obtained after the third Sinner kill.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Baneful Syrinx
-revid: 145805
+revid: 146097
 source: https://deepwoken.fandom.com/wiki/Baneful_Syrinx
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -17,7 +17,7 @@ categories: [Relics, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Diluvian Mechanism, Heart of Enmity |
+| obtainment | The Diluvian Mechanism, Hell Mode, Heart of Enmity |
 | description | "A vile effigy fashioned in reverence of Yun'Shul. In its sockets you see glimpses of Scyphozia, where Servants and Voices of the Keeper are numerous. All that is lost makes its way through nets cast by their many fingers." |
 
 ## Description

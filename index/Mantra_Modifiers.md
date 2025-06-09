@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 142755
+revid: 146092
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -1618,7 +1618,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This modifier adds a spin at the end of the "Dark Blade" Mantra.
+-   This modifier adds a spin at the end of the "Dark Blade" Mantra which is similar to unmodified 'Rising Flame' but without the uplift.
 
  |
 

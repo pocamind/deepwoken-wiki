@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 146044
+revid: 146098
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -199,7 +199,7 @@ Ice
 -   Deals 29.9 (33.28 with 6 songchant) DMG, 11 posture, 15s CD at 5 lvl.
 -   Has 9.17x PVE Scale (29.9 PVP DMG, 274.48 PVE DMG)
 -   Does not inflict Chill.
--   With the **Spike Traps** Talent, pressing \[F\] during the wind-up creates translucent ice traps, randomly placed within a wide area around you, that turn into spikes when colliding with an enemy or when using the \[F\] version again.
+-   With the **Spike Traps** Talent, pressing \[F\] during the wind-up creates 2 translucent ice traps, placed in random spots within a wide area around you, that turn into spikes when colliding with an enemy or when using the \[F\] version again.
     -   Each spike deals 50% of the damage of the base version.
     -   Using this version again will place new traps and detonate the existing traps at the same time.
 -   Can be modified with Cloud and Stratus Stones to make the ice spikes bigger.
