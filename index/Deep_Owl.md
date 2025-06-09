@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 145884
+revid: 146102
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies]
@@ -146,7 +146,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 
 If looking for owls, it is recommended to join highly populated servers because this increases their spawn rate.
 
-The owls special attacks are affected by shadow armour.
+The Owls' special attacks are affected by shadow armour.
 
 ## Trivia
 

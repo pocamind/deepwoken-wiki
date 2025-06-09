@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 145919
+revid: 146107
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1176,6 +1176,7 @@ N/A
 -   Affected entities become unable to jump.
 -   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the **Oh the Irony** Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
+-   Effect lasts for 10 seconds
 
  |
 | 

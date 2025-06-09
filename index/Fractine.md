@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 145990
+revid: 146114
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", Multiple Criticals]
@@ -32,7 +32,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 
 The Fractine is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Intelligence](Attributes.md) in addition to Heavy. It can be found exclusively from the [Moon's Eyrie](<Moon's_Eyrie.md>), [Voidsea](Voidsea.md), and events found inside.
 
-After landing the critical attack, the tip of your weapon will lodge itself into your opponent, changing the weapon into it's Shattered State. While in the Shattered State, the Fractine deals less damage overall and has less range, but gains innate bleed and faster swingspeed. Use the critical again to return it to its original form.
+After landing the critical attack, the tip of your weapon will lodge itself into your opponent, changing the weapon into it's Shattered State. While in the Shattered State, the Fractine deals less damage overall and has less range, but gains innate bleed and faster swingspeed. Using the critical again returns it to its original form.
 
 Meeting the requirements of HVY and INT, the weapon deals 33.9 damage.
 
@@ -42,7 +42,7 @@ At max HVY and INT, the weapon deals 40.2 damage.
 
 The user quickly whirls the blade, performing a quick slash, leading into a heavy downslam attack that shatters the blade with hyperarmor. This lodges the blade into the target and puts the weapon in the Shattered State that gives the user less range and damage in exchange for bleed damage and a faster swingspeed.
 
-When in the Shattered State, the user performs a downslash that regains the lodged tip of the blade, dealing damage and applying hitstun to the original target hit and all opponents within its range. This restores the weapon back into its original state.
+When in the Shattered State, the user performs a downslash that regains the lodged tip of the blade, dealing damage and applying hitstun to the original target hit and all opponents within its range. The critical can be also used in further ranges to dislodge the blade from the target. This restores the weapon back into its original state.
 
 Fractine will still continue on to the Shattered State even if the second hit of the critical is parried or whiffed, but the tip of the blade will not be lodged into your opponent unless you land the critical fully.
 
@@ -51,6 +51,8 @@ The Standard Critical has the following scaled damage multipliers: 1.25x (first 
 The slash has a 1.25x scaled damage multiplier (based off the greatsword form's stats) and deals an additional 8.16 flat damage upon recalling the shard.
 
 The critical has a cooldown of **5.5 seconds**.
+
+  
 
 ## Trivia
 

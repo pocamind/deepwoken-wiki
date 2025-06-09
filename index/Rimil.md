@@ -1,6 +1,6 @@
 ---
 title: Rimil
-revid: 139060
+revid: 146120
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
@@ -18,7 +18,7 @@ categories: [Canor NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminan
 
 Rimil is a [Canor](Canor.md) NPC who resides in the Aratel Sea, more specifically in [Meteor Isle](Meteor_Isle.md). As a member of [The Ministry](The_Ministry.md), you can find them leaning against a large log very close to the main village.
 
-If you decide to talk to them, they will give you the mission to kill a player in the [Starswept Valley](The_Starswept_Valley.md). If you complete it you will gain reputation with the Ministry and a payment for your deeds. As the NPC in Etrean luminant on statue island, you must grip (kill) a person in Starswept Valley and return to them to get reputation and rewards.
+If you decide to talk to them, they will give you the mission to kill a player in the [Starswept Valley](The_Starswept_Valley.md). If you complete it you will gain reputation with the Ministry and a payment for your deeds. As the NPC in Etrean luminant on statue island, you must grip a player in Starswept Valley and return to them to get reputation and rewards.
 
 ## Dialogue
 
@@ -55,4 +55,4 @@ AH! Have you forgotten your _TASK_? Kill a living being as smart as you anywhere
 ## Trivia
 
 -   Rimil's racial variant appears to be River.
--   Other members of the Ministry ([Emel](Emel.md) and [Imel](Imel.md)) with the same mission as Rimil in the Etrea Sea on the islet near [Summer Isle](Summer_Isle.md), give him the mission to kill on the island of [Songseeker Wilds](Songseeker_Wilds.md) and on [Erisia](Erisia.md).
+-   Other members of the Ministry ([Emel](Emel.md) and [Imel](Imel.md)) with the same mission as Rimil in the Etrean Sea on the island near [Summer Isle](Summer_Isle.md), give him the mission to kill on the island of [Songseeker Wilds](Songseeker_Wilds.md) and on [Erisia](Erisia.md).

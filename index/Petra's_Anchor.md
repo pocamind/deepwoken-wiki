@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 140812
+revid: 146117
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals]
@@ -23,7 +23,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Directly dropped by the Dread Serpent, Merchant Ships |
+| obtainment | Dread Serpent, Merchant Ships |
 | description | The anchor of the vessel "Petra's Dawn", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey. |
 
 ## Description
@@ -32,9 +32,9 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals]
 
 ## Critical
 
-The critical causes the user to lunge forward at their enemies and knock them down. On successful hit, their first M1 changes to slamming the weapon onto the ground while gaining hyperarmor. The 2nd part will still initiate if your Crit is blocked or dodged, but not if it was parried.
+The user briefly winds up before rushing forward, briefly ragdolling the target when hit. If landed, the user can follow up using an M1 to initiate an overhead strike that ragdolls and sends the target flying.
 
-The critical has a cooldown of 9 seconds.
+The critical has a cooldown of **9 seconds**.
 
 ## Trivia
 
