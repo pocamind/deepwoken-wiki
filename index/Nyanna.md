@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 143053
+revid: 146193
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the First Layer]
@@ -39,40 +39,38 @@ Nyanna is a [Felinor](Felinor.md) seller NPC located in [Castle Light](Castle_Li
 
 Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen at random from a list. She can sell the same item multiple time, on the same rotation and across multiple rotations. Most of her shop consist of uncommon Weapons and Schematics that are geared toward mid game.
 
-### **Weapons:**
+### 
 
--   Uniquely to her, the weapon she sells have a chance to be enchanted.
-    -   [Whaling Knife](Whaling_Knife.md) ( )
-    -   [Trident Spear](Trident_Spear.md) ( )
-    -   [Vigil Longsword](Vigil_Longsword.md) ( )
-    -   [Vigil Longsword](Vigil_Longsword.md) ( )
-    -   [Adretian Axe](Adretian_Axe.md) ( )
+Sold Items
 
-### **Armor Schematics:**
-
--   [Authority Captain Uniform](Authority_Captain_Uniform.md) ( )
--   Authority Peacekeeper Armour ( )
--   [Cloak of Winds](Cloak_of_Winds.md) ( )
--   [Diver Apprentice](Diver_Apprentice_Robes.md) ( )
--   [Duelist's Attire](<Duelist's_Attire.md>) ( )
--   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) ( )
--   [Hired Mercenary](Hired_Mercenary.md) ( )
--   [Hive Drone](Hive_Drone.md) ( )
--   [Hive Tactician Armor](Hive_Tactician_Armor.md) ( )
--   [Ignition Union Uniform](Ignition_Union_Uniform.md) ( )
--   [Keeper](Keeper.md) ( )
--   [Scholar](Scholar.md) ( )
--   [Eager Tradesman](Eager_Tradesman.md) ( )
--   [Legion Centurion](Legion_Centurion.md) ( )
--   [Merchant Robes](Merchant_Robes.md) ( )
--   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) ( )
--   [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) ( )
--   [Pathfinder Cloak](Pathfinder_Cloak.md) ( )
--   [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) ( )
--   [Prophet's Cloak](<Prophet's_Cloak.md>) ( )
--   [Seamstress's Attire](<Seamstress's_Attire.md>) ( )
--   [Varicosan Finery](Varicosan_Finery.md) ( )
--   [Whaler Coat](Whaler_Coat.md) ( )
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><p><b>For </b>:</p>
+  <ul>
+    <li><b><font>Starter</font></b>: <a href="Hired_Mercenary.md">Hired Mercenary</a>, <a href="Scholar.md">Scholar</a>.</li>
+    <li><b><font>Adept</font></b>: Authority Peacekeeper Armour, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Duelist's_Attire.md">Duelist's Attire</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
+    <li><b><font>Expert</font></b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>.</li>
+  </ul><p><b>For </b>:</p>
+  <ul>
+    <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Merchant_Robes.md">Merchant Robes</a>.</li>
+    <li><b><font>Adept</font></b>: <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>.</li>
+    <li><b><font>Expert</font></b>: <a href="Pathfinder_Arch-Sorcerer.md">Pathfinder Arch-Sorcerer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a></li>
+    <li><b><font>Master</font></b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td><p><b>For </b>:</p>
+  <ul>
+    <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a></li>
+    <li><b><font>Medium Weapons</font></b>: <a href="Trident_Spear.md">Trident Spear</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
+    <li><b><font>Heavy Weapons</font></b>: <a href="Adretian_Axe.md">Adretian Axe</a></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

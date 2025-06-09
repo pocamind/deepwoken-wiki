@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 146160
+revid: 146213
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2196,7 +2196,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 80 Willpower
 
 -   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
-    -   Whenever you are at a net lose of sanity or use Heretic Sutra, every weapon hits reduce the target's sanity by 3%.
+    -   Whenever you have less than 100% sanity or are actively losing sanity all basic attacks will remove 3% of the targets maximum sanity.
     -   Prerequisites: 85 Willpower
 
 ### Mr Charm
@@ -3698,9 +3698,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I am a master of all weapons."**_
 
--   Brutal Momentum \[Common Talent\] - \[Heavy Weapons\] Successfully dodging will give your next swing hyperarmor.
+-   Brutal Momentum \[Common Talent\] - \[Heavy Weapons\] Successfully dodging will give you hyperarmour on your next swing.
+    -   Brutal Momentum works on all heavy weapons, including those who could not utilize this Talent previously like [Railblade](Railblade.md) or Greataxes.
     -   Prerequisites: 50 Heavy Weapon, Heavy equipped.
-    -   Since 30 November 2024 update, earlier inability to proc Hyperarmor weapons: Pyrekeeper, Railblade and Greataxes now have return Hyperarmor swings on parry, which means that Brutal Momentum works on them.
 
 -   Matador \[Common Talent\] - Deal +20% more damage to human enemies with hyperarmor.
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
