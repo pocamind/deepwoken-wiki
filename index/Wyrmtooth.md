@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 146124
+revid: 146163
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Greatswords]
@@ -28,7 +28,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scali
 
 ## Description
 
-The **Wyrmtooth** is a sword that drops from bosses and endgame events like the [Dread Serpent](Dread_Serpent.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md). It has a base damage of 20 with 20% PEN, requiring 60 MED, 40 HVY and Power 15 to equip. Despite being a hybrid weapon, it is only compatible with Medium Weapon and Greatsword Talents, not any general heavy weapon talents.
+The **Wyrmtooth** is a sword that drops from bosses and endgame events like the [Dread Serpent](Dread_Serpent.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md). It has a base damage of 20 with 20% PEN, requiring 60 MED, 40 HVY and Power 10 to equip. Wyrmtooth is compatible with Medium and Heavy Talents, acting as **both** a Medium Sword and a Heavy Greatsword.
 
 With attribute scaling in mind (excluding [Proficiency](Traits.md#proficiency)), the Wyrmtooth deals 28.1 damage at base and 35.6 damage when both MED and HVY are at 100.
 
@@ -46,13 +46,14 @@ The cooldown for the critical is **10 seconds**.
 ## Trivia
 
 -   At Proficiency 6, it deals 31.3 damage at base and 41.7 damage when both MED and HVY are maxed.
--   In an update on January 11th, 2025, the Wyrmtooth was given the ability to utilize Greatsword talents, but not general heavy weapon talents. Realistically, this means that it only benefits from the "[Destructive Recovery](Talents.md#colossus)" Talent.
+-   Wyrmtooth proccing both Medium and Heavy Talents includes both the Medium and Heavy weapon variants of the [Silentheart](Oath%253A_Silentheart.md) moves, proccing the heavy ones if the medium ones are on cooldown.
+-   Before the update that granted Wyrmtooth the ability to do to proc Talents from both weapon classes, it could only proc medium Talents and [Destructive Recovery](Talents.md#colossus).
+-   Wyrmtooth uses the heavy weapon hit count for [Enchant](Enchantments.md) effects, being 3 hits. Due to the very high swingspeed, this can be exceptionally good.
 -   In an update on 13th April, 2025, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame.
--   The Wyrmtooth is not classed as a katana, so [Paired Soul](Talents.md) doesn't apply to it.
 -   Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.
     -   Both weapons share the same light attack animations.
 -   Both its criticals formerly lacked the universal windup VFX. Its sliding critical also lacked a sound cue.
 -   It once had 10 range and 6 weight, with a 6s cooldown for its critical attacks.
     -   This amount of range meant the Wyrmtooth was once rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and the [Pale Briar](Pale_Briar.md). It even matched the ranges of some pistols, but was otherwise eclipsed by them.
--   Its modeller, TheRealPunchee, stated that it was inspired by the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden Ring_. Nagakiba loosely translates to 'long fang', similar to the name Wyrmtooth.
+-   TheRealPunchee stated that it was inspired by the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden Ring_. Nagakiba loosely translates to 'long fang', similar to the name Wyrmtooth.
     -   The standing critical is inspired from the [Piercing Fang](https://eldenring.wiki.fextralife.com/Piercing+Fang) Ash Of War in _Elden Ring_ that is obtainable from the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba).

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 146121
+revid: 146160
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -267,6 +267,14 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
     -   Prerequisites: All Alley Cat Talents
+
+### All-Knowing
+
+> _**"I seek the qualities of All-Knowing."**_
+
+-   Approaching Singularity \[Common Talent, Intelligence\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
+    -   Gives 0.1% Mantra PEN per point in Intelligence.
+    -   Prerequisite: 80 Intelligence
 
 ### Amoran Seeker
 
