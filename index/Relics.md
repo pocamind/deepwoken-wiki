@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 145801
+revid: 146282
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -12,7 +12,7 @@ _**FOREWORD**: **An up-to-date spreadsheet with drop locations for all Relics ca
 
 “ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, seeming almost ashamed. ”
 
-― First Usage of Mooneye's Tome
+― First Usage of Moonseye's Tome
 
 ## Description
 
