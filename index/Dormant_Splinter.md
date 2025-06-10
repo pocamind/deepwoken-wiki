@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 138575
+revid: 146277
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, Craftable]
@@ -37,7 +37,7 @@ At max MED and 6 Proficiency, the damage is (**8.8**) (11.2 with bleed)
 
 The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Cache Agent, or by chance from a random event in the [Voidsea.](Voidsea.md) To get it from a Ministry Cache:
 
-1.  Obtain [Shadow Travel](Talents.md) or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
+1.  Obtain the [Shadow Travel](Talents.md) talent or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find an [Understrand](The_Understrand.md) entrance. The entrance can spawn as a part of [Silhuett's](Silhuett.md) event, or as a random spawn in the following area, signified by their purple glow and the hex circle:
     -   [Outpost Antumbra](Outpost_Antumbra.md)
     -   [Minityrsa](Minityrsa.md)
@@ -48,7 +48,7 @@ It can alternatively be found from a variety of events in the [Voidsea](Voidsea.
 
 ## Crafting
 
-The main use for the **Dormant Splinter** is to be crafted into other weapons, through use of [The Cold Forge](The_Cold_Forge.md). There are only two weapons at the moment, but more may be added.
+The main use for the **Dormant Splinter** is to be crafted into other weapons, through use of [The Cold Forge](The_Cold_Forge.md). There are only two weapons at the moment, but more may be added at some point in the future.
 
 Recipes:
 
