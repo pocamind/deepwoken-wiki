@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 146275
+revid: 146290
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs]
@@ -41,7 +41,7 @@ Trahne's Salvaged Stock
 
   
 
-Sells 4 items in total.
+Sells 3 or 4 items in total.
 
 <table>
 <tbody>

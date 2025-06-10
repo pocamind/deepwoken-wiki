@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 140523
+revid: 146289
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -38,3 +38,4 @@ Electric Stun Pulse
 -   Gigameds give little to no EXP, so don't farm them thinking it's a safe & slow way to progress.
 -   Gigameds can't naturally be corrupted.
 -   Gigameds have the highest lightning resistance in the game out of any monster, taking almost zero damage from [Thundercall](Thundercall.md) Mantras.
+-   There currently exists a glitch where gigameds can teleport on top of a player if they use an aerial attack.
