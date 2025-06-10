@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 145280
+revid: 146263
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies]
@@ -32,6 +32,7 @@ As stated by Arch Mage, you don't have to meet any requirements for the NPC to s
 **On Aggro:**
 
 -   Oh well, another one for the pyre.
+-   More for the pyre. Oh well.
 -   Tch. Loose ends.
     
 
