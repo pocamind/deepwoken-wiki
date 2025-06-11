@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 146213
+revid: 146355
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -55,6 +55,8 @@ Most Talents are locked with a prerequisite. Depending on the prerequisite, you 
     -   E.g.: Having a Greataxe equipped is required to roll Greataxe Talents.
 -   A high enough Power.
     -   E.g.: Thresher Claws requires [Power](Power.md) 13 as a prerequisite.
+-   Having the correct [oath](Oaths.md).
+    -   E.g.: The starkindred oath is required to roll the death from above talent.
 
 There are certain Talents that you receive automatically upon meeting their requirement. The following Talents will not take up Talent slots:
 

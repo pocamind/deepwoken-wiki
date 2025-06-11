@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 146290
+revid: 146351
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs]
@@ -72,12 +72,13 @@ Sold Items
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
   <td><p><b>For </b>:</p>
   <ul>
-    <li><b><font>Adept</font></b>: <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
+    <li><b><font>Starter</font></b>: <a href="Hired_Mercenary.md">Hired Mercenary</a>.</li>
+    <li><b><font>Adept</font></b>: Authority Peacekeeper Armour, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
     <li><b><font>Expert</font></b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>.</li>
   </ul><p><b>For </b>:</p>
   <ul>
     <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Scholar.md">Scholar</a>.</li>
-    <li><b><font>Expert</font></b>: <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
+    <li><b><font>Expert</font></b>: <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
     <li><b><font>Master</font></b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
   </ul></td>
 </tr>
@@ -92,8 +93,8 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td><p><b>For </b>:</p>
   <ul>
-    <li><b><font>Light Weapons</font></b>: TBA</li>
-    <li><b><font>Medium Weapons</font></b>: <a href="Katana.md">Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
+    <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
+    <li><b><font>Medium Weapons</font></b>: <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
     <li><b><font>Heavy Weapons</font></b>: <a href="Adretian_Axe.md">Adretian Axe</a>.</li>
   </ul><p><b>For </b>:</p>
   <ul>
