@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 144893
+revid: 146343
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -126,7 +126,7 @@ Charisma
  | None |
 | 
 
- | Live | Yes, 75 Charisma, Common | "_\[Name\]_, live" | If subject have below 40% HP, fully heals to 100%, reviving them if they are knocked, cancelling any grip or carry.
+ | Live | Yes, 75 Charisma, Common | "_\[Name\]_, live" | Fully heals the subject to 100%, reviving them if they are knocked, cancelling any grip or carry.
 
 -   _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
 -   _Can only be used on one subject at a time._
@@ -161,4 +161,4 @@ Charisma
 -   The leech command will always drain the subject of all their ether, no matter if the master has 40%, 50%, 60% or even 99% ether.
 
 -   _If a Vow Master (A) has a Vow on another Vow Master (B), (A) can use their commands on (B)'s Subjects and (B) themselves (granted that both are in the same server)._
--   Locate command highlights the whole player model, including a thresher if they mounting it.
+-   Locate command highlights the whole player model, including a thresher if they mounting it, or if they are disguised as a campfire.

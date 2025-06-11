@@ -1,6 +1,6 @@
 ---
 title: Summer Company Guard
-revid: 138611
+revid: 146340
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Summer Company, Summer Company Enemies]
@@ -34,7 +34,7 @@ A Summer Company Guard's arsenal consists of a [Flintlock](Flintlock.md) pistol 
 
 ### Talents
 
--   Armor Piercing - Your bullets now ignore 20% of an opponent's physical armor.
+-   Armor Piercing - Your bullets now ignore 10% of an opponent's physical armor.
 -   Rapid Fire - When you land a critical shot gain an ability to rapidly fire your critical for 2s.
 -   Safety Dance - Your base dodge frames are increased by 25%.
 -   Ready or Not - The first attack to hit you while out of combat has its damage cut in half.
