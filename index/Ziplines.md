@@ -1,6 +1,6 @@
 ---
 title: Ziplines
-revid: 146262
+revid: 146336
 source: https://deepwoken.fandom.com/wiki/Ziplines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -12,6 +12,7 @@ notices:
 
 | Ziplines | |
 |---|---|
+| usage | Travel across great distances by descending |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Ignition Lanterns
-revid: 138128
+revid: 146324
 source: https://deepwoken.fandom.com/wiki/Ignition_Lanterns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
@@ -10,7 +10,7 @@ categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
 
 | Ignition Lanterns | |
 |---|---|
-| usage | Clear your parasites. |
+| usage | Clear your parasites |
 
 ## Description
 

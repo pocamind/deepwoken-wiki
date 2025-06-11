@@ -1,15 +1,16 @@
 ---
 title: Lifevents
-revid: 146302
+revid: 146335
 source: https://deepwoken.fandom.com/wiki/Lifevents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Mechanics, Eastern Luminant]
 ---
 
 # Lifevents
 
 | Lifevents | |
 |---|---|
+| usage | Jump to places previously unreachable |
 
 ## Description
 

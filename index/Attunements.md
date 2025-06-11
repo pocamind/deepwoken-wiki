@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 146308
+revid: 146315
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics]
@@ -93,6 +93,7 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 [Bloodrend](Bloodrend.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
+
   
 
 ## Iconography
@@ -132,9 +133,9 @@ All of the icons above are undoubtedly official representations of their base at
 
 ### Hybrid Paths
 
-[Ironsing](Ironsing.md)
+[Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)
 
-[Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
