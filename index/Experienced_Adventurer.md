@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 134299
+revid: 146453
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -12,36 +12,36 @@ Template:ArmorInfobox**Experienced Adventurer** is an Adept [Outfit](Outfits.md)
 
 ## Statistics
 
-### Requirements
+### _Requirements_
 
-This Outfit requires three (3) Cloth and Fiber, and two (2) pieces of Irithine. It costs to finish crafting.
+This Outfit costs and requires three (3) Cloth and Fiber as well as two (2) [Irithine](Ores.md#irithine).
 
 This Outfit requires [Power Level](Power.md) 5.
 
-### Effects
+### _Armor Stats_
 
-This Outfit grants the user with +10% Physical resistance and +10% Blunt resistance.
+This Outfit grants +10% Physical resistance and +10% Blunt resistance. Additionally, it provides the [Looter](Talents.md#equipment-talents) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Blunt and 10% Slash.
 
-This Outfit also grants the [Talent Card](Talents.md) _Looter_, which gives you extra loot for items you turn in for rewards.  
+The [Looter](Talents.md#equipment-talents) Talent grants the user extra loot for items they turn in for rewards.
+
 **Events this may affect:**
 
--   Turning in [Artifacts](Artifacts.md) at a banker,
--   Turning in the [Strange Egg](Artifacts.md#strange-egg) to the banker at [Greathive Aratel](Greathive_Aratel.md),
--   Turning in [Sacks](Chests_&_Sacks.md#sacks) to Mercille at the summer company outpost across from [Meteor Isle](Meteor_Isle.md),
--   Handing in pure ore to a [Blacksmith](Blacksmith.md),
--   Trading in _Explosive Crates_ at [Summer Isle](Summer_Isle.md).
+-   Turning in [Artifacts](Artifacts.md) at a banker
+-   Turning in the [Strange Egg](Artifacts.md#strange-egg) to the banker at [Greathive Aratel](Greathive_Aratel.md)
+-   Turning in [Sacks](Chests_&_Sacks.md#sacks) to Mercille at the summer company outpost across from [Meteor Isle](Meteor_Isle.md)
+-   Handing in pure ore to a [Blacksmith](Blacksmith.md)
+-   Trading in _Explosive Crates_ at [Summer Isle](Summer_Isle.md)
 
-## Location
+## Obtainment
 
-This Outfit's schematic can be found in:
+This Outfit's schematic can be obtained from:
 
 -   [Lower Erisia](Lower_Erisia.md)
--   The weapon shop upstairs in [Etris](Etris.md), along with the [Shadow Hunter](Shadow_Hunter.md) and [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit schematics.
+-   [Etris](Etris.md) Weapon Shop
 
 ## Trivia
 
--   Pairs well visually with "Brace" type [Equipment](Equipment.md), due to its off the shoulder nature.
 -   Shirt: [https://www.roblox.com/catalog/5899129258/Radiant-Adventurer](https://www.roblox.com/catalog/5899129258/Radiant-Adventurer)
 -   Pants: [https://www.roblox.com/catalog/5899132202/Radiant-Adventurer-Pants](https://www.roblox.com/catalog/5899132202/Radiant-Adventurer-Pants)

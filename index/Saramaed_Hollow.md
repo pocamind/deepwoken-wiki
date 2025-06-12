@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 145721
+revid: 146498
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -48,7 +48,7 @@ There are 4 room layouts, featuring randomized enemy spawns:
 -   The rail tracks
 -   The open field
 
-Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added. It takes 5 ores (+2 per player after the first, up to a max of 13) to refuel the drill. Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also use mobility mantras and critical attacks while carrying Fuel Ore.
+Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added. It takes 5 ores (+2 per player after the first, up to a max of 13) to refuel the drill. Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also use mobility mantras and critical attacks as well as being able to summon and ride a mount while carrying Fuel Ore.
 
 Do note that carrying these ores will not allow you to slide or dodge, you may use mobility mantras though. Using your weapon makes you drop the ore.
 
@@ -174,6 +174,7 @@ Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Th
 -   Try and crouch down; this will reduce the monsters detection rate and prevent you from getting attacked by other monsters.
 -   Despite all these upsides, it is very time consuming and the drops are very RNG based, meaning you can either get REALLY lucky and hit the jackpot, or, more than likely, go back up to the surface practically empty-handed.
 -   The Saramaed Hollow can be used to very easily farm notes, since the first layers are relatively easy and give large chests that give a ton of equipment. The equipment can then be sold to the antiquarian above, leading to over a thousand notes per floor.
+-   The Thresher mount can be used while holding the ore and can help to quickly bring it back
 -   When making a build with the express purpose of farming this dungeon, look into mobility options (akin to a Layer 2 Build) and ways to survive a swarm (akin to a Dilluvian Build)
     -   In regard to equipments, as monsters start ignoring DVM and Armor alltogether, primarly invest in HP.
 

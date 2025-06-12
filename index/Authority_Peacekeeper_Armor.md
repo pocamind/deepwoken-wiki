@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 146445
+revid: 146479
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Central Authority]
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Power.md) 5 and 5 [Fortitude](Attributes.md).
 
 ### _Armor Stats_
 
-The Outfit has 1600 durability, grants +15% Physical resistance, +10% Elemental resistance, +10% Slash resistance, and +15% Fire resistance. Additionally, it provides the [Lowstride](Talents.md#assassin) Talent.
+This Outfit has 1600 durability, grants +15% Physical resistance, +10% Elemental resistance, +10% Slash resistance, and +15% Fire resistance. Additionally, it provides the [Lowstride](Talents.md#assassin) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash, 15% Blunt, 23.5% Flamecharm, and 10% Elemental.
 

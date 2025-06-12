@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 146440
+revid: 146474
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -20,11 +20,11 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-The Outfit has infinite durability (though is sometimes permanently empty) and grants absolutely no effects to the player.
+This Outfit has infinite durability (though is sometimes permanently empty) and grants absolutely no effects to the player.
 
 ## Obtainment
 
-This Outfit cannot be purchased by a Blacksmith, and is only equipped when the player spawns with the [Castaway](Origins.md#castaway) or [Lone Warrior](Origins.md#lone-warrior) origin.
+This Outfit cannot be purchased by a Blacksmith, and is only equipped when the player spawns with the [Castaway](Origins.md#castaway) or [Lone Warrior](Origins.md#lone-warrior) origins.
 
 ## Trivia
 

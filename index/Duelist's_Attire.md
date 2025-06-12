@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 134300
+revid: 146452
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -14,19 +14,19 @@ Template:ArmorInfobox**Duelist's Attire** is an Adept [Outfit](Outfits.md) in _D
 
 ### _Requirements_
 
-This Outfit has no cost and requires five (5) Glass Stones.
+This Outfit requires five (5) [Glass Stones](Mantra_Modifiers.md).
 
 This Outfit requires [Power Level](Power.md) 5.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +20% Physical resistance and +10% Slash resistance.
+This Outfit has 1200 durability, grants +20% Physical resistance, and +10% Slash resistance.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Slash and 20% Blunt.
 
-## Location
+## Obtainment
 
-This Outfit's Schematic can be found in:
+This Outfit's Schematic can be obtained from:
 
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   [Lower Erisia](Lower_Erisia.md)

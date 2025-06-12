@@ -1,6 +1,6 @@
 ---
 title: Corsair Outlaw
-revid: 146421
+revid: 146467
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits, Bandits]
@@ -20,9 +20,9 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-The outfit has 1200 durability, grants the user +15% Physical Armor, and +10% Elemental Armor. Additionally, it provides the [Lightweight](Talents.md#natural-armor) Talent.
+This outfit has 1200 durability, grants the user +15% Physical Armor, and +10% Elemental Armor. Additionally, it provides the [Lightweight](Talents.md#natural-armor) Talent.
 
-The [Lightweight](Talents.md#natural-armor) Talent makes user's movement speed increase by 25% when their armor's durability reaches 0.
+The [Lightweight](Talents.md#natural-armor) Talent increases the users movement speed by 25% when their armor's durability reaches 0.
 
 ## Obtainment
 

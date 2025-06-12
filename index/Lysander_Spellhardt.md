@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 141599
+revid: 146486
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide]
@@ -27,38 +27,19 @@ Lysander sells you various [Hallowtide](Hallowtide.md)\-exclusive items for [Joy
 With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on top of the [equipments](Equipment.md) from last years. Buying a random [Deep Gem](Mantra_Modifiers.md#deep-gems) was replaced with buying a random [relic](Relics.md). Though, this all happened only on the second week of Hallowtide, on the [November 8th, 2024](Version_History/Uncollapsed.md#november-8th-2024) update.
 
 1.  [Relic](Relics.md) \[100 Joy\] - Gives you a random [Relic](Relics.md). A table of what relics you can get can be seen below. All [Relics](Relics.md) have the same drop rate.
-
-<table>
-<tbody>
-<tr>
-  <td><a href="Sinner's_Ash.md">Sinner's Ash</a></td>
-  <td><a href="Moonseye_Tome.md">Moonseye Tome</a></td>
-  <td><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></td>
-</tr>
-<tr>
-  <td><a href="Smith's_Alloy.md">Smith's Alloy</a></td>
-  <td><a href="Forge_Needle.md">Forge Needle</a></td>
-  <td><a href="Armorer's_Needle.md">Armorer's Needle</a></td>
-</tr>
-<tr>
-  <td><a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a></td>
-  <td><a href="Tiran_Pendant.md">Tiran Pendant</a></td>
-  <td><a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></td>
-</tr>
-</tbody>
-</table>
-
-1.  [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[35 Joy\]
-2.  [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[35 Joy\]
-3.  [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) \[35 Joy\]
-4.  [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) \[35 Joy\]
-5.  [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) \[35 Joy\]
-6.  [Pumpkin Head](Pumpkin_Head.md) \[50 Joy\]
-7.  [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
-8.  Hallowtide Variant \[70 Joy\] - Unlocks a Hallowtide racial variant for all of your races. This purchase is account-wide, unlocking for your current and future slots and races.
-9.  [Hallowtide '24 Medal](Seasonal_Medals.md) \[300 Joy\] - Read Below
-10.  [Hallowtide '23 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
-11.  [Hallowtide '22 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
+    -   <table><tbody><tr><td><a href="Sinner's_Ash.md">Sinner's Ash</a></td><td><a href="Moonseye_Tome.md">Moonseye Tome</a></td><td><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></td></tr><tr><td><a href="Smith's_Alloy.md">Smith's Alloy</a></td><td><a href="Forge_Needle.md">Forge Needle</a></td><td><a href="Armorer's_Needle.md">Armorer's Needle</a></td></tr><tr><td><a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a></td><td><a href="Tiran_Pendant.md">Tiran Pendant</a></td><td><a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></td></tr></tbody></table>
+        
+2.  [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[35 Joy\]
+3.  [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[35 Joy\]
+4.  [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) \[35 Joy\]
+5.  [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) \[35 Joy\]
+6.  [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) \[35 Joy\]
+7.  [Pumpkin Head](Pumpkin_Head.md) \[50 Joy\]
+8.  [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
+9.  Hallowtide Variant \[70 Joy\] - Unlocks a Hallowtide racial variant for all of your races. This purchase is account-wide, unlocking for your current and future slots and races.
+10.  [Hallowtide '24 Medal](Seasonal_Medals.md) \[300 Joy\] - Read Below
+11.  [Hallowtide '23 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
+12.  [Hallowtide '22 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
     -   Can be used to trade in your [Knowledge](Knowledge.md) in exchange for Hallowtide-exclusive items released during its respective year at a [Blacksmith](Blacksmith.md). Read more on [Seasonal Medals](Seasonal_Medals.md)
         
 

@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 133230
+revid: 146459
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -14,22 +14,22 @@ Template:ArmorInfobox**Pathfinder Cloak** is an Adept [Outfit](Outfits.md) in _D
 
 ### _Requirements_
 
-This Outfit costs and requires four (4) Cloth and Fiber and six (6) pieces of Iron.
+This Outfit costs and requires four (4) Cloth and Fiber as well as six (6) [Iron](Ores.md#iron).
 
 This Outfit requires [Power Level](Power.md) 5.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +18% Physical Armor and +8% Elemental Armor.
+This Outfit has 1200 durability, grants +18% Physical Armor, and +8% Elemental Armor. Additionally, it provides the [Environmentalist](Talents.md#equipment-talents) Talent.
 
-This Outfit also grants the [Talent Card](Talents.md) _Environmentalist_, which reduces the damage from certain weather effects.
+The [Environmentalist](Talents.md#equipment-talents) Talent reduces the damage from certain weather effects.
 
-## Location
+## Obtainment
 
-This Outfit's Schematic can be found in:
+This Outfit's Schematic can be obtained from:
 
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   Sold near [Friid](Friid,_Master_of_Gale.md) in [Isle of Vigils](Isle_of_Vigils.md)
 -   [Lower Erisia](Lower_Erisia.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   Bought at the Wind Trainer in [Isle of Vigils](Isle_of_Vigils.md)
--   Chests from [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md) (Chests)

@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 146439
+revid: 146477
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, The Knives of Eylis, Armors]
@@ -20,7 +20,7 @@ This Outfit has no [Attribute](Attributes.md) requirement, but has a [Power](Pow
 
 ### _Armor Stats_
 
-The Outfit has 1500 durability, grants +15% Physical resistance, +5% Elemental resistance, and +25% Stealth.
+This Outfit has 1500 durability, grants +15% Physical resistance, +5% Elemental resistance, and +25% Stealth.
 
 ## Obtainment
 

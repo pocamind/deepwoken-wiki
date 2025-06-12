@@ -1,6 +1,6 @@
 ---
 title: Scholar
-revid: 146433
+revid: 146472
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -22,7 +22,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 The Outfit has 1000 durability, grants the user +8% Physical resistance, and + 10% Elemental resistance. Additionally, it provides the [Scholar's Intuition](Talents.md#equipment-talents) Talent.
 
-The [Scholar's Intuition](Talents.md#equipment-talents) talent makes INT, WILL, and CHR training gear 50% more effective.
+The [Scholar's Intuition](Talents.md#equipment-talents) talent causes [INT](Attributes.md#intelligence), [WLL](Attributes.md#willpower), and [CHR](Attributes.md#charisma) training gear to be 50% more effective.
 
 ## Obtainment
 

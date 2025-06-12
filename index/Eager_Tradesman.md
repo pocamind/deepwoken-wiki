@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 146424
+revid: 146468
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits, Armors]
@@ -22,9 +22,9 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-The outfit has 1000 durability, grants +10% Physical Armor, and +5% Elemental armor. Additionally, it provides the [Knack](Talents.md#equipment-talents) Talent.
+This outfit has 1000 durability, grants +10% Physical Armor, and +5% Elemental armor. Additionally, it provides the [Knack](Talents.md#equipment-talents) Talent.
 
-The [Knack](Talents.md#equipment-talents) talent makes trees yield more wood when felled and increases the user's repair speed.
+The [Knack](Talents.md#equipment-talents) talent causes trees to yield more wood when felled and increases the users repair speed.
 
 ## Obtainment
 

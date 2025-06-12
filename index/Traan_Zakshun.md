@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 146396
+revid: 146488
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -30,19 +30,6 @@ Trahne Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
 
 ## Dialogue
 
-Trahne's Salvaged Stock
-
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure><div></div></center></td>
-  <td><div>[Item name]</div><div><i>A rare find indeed.</i></div></td>
-</tr>
-</tbody>
-</table>
-
-  
-
 <table>
 <tbody>
 <tr>
@@ -59,6 +46,25 @@ Trahne's Salvaged Stock
 </tr>
 </tbody>
 </table>
+
+### Shop UI
+
+Trahne's Salvaged Stock
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure><div></div></center></td>
+  <td><div>[Item name]</div><div><i>A rare find indeed.</i></div></td>
+</tr>
+</tbody>
+</table>
+
+  
+
+His item descriptions will change randomly(?) each time it hits his hourly rotation
+
+-   _A rare find indeed._
 
 ## Shop Rotation
 
@@ -87,7 +93,7 @@ Sold Items
   <td><b>Miscellaneous</b></td>
   <td><p><b>For </b>:</p>
   <ul>
-    <li><a href="Dye_Packet.md">Dye Packet</a></li>
+    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Dye_Packet.md">Dye Packet</a></li>
   </ul></td>
 </tr>
 <tr>
