@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 145345
+revid: 146505
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -260,6 +260,8 @@ Slash
 -   Deals moderate damage if hit by the entire spin. Has bleed damage and a total of 6 hits.
 -   Deals heavy posture damage. (taken from [Carrion](Carrion,_Father_of_Evolution.md)'s page, may not be true)
 -   Cancels if parried.
+-   Can be modified with Aeon and Eternal Logstones to increase the number of times it hits
+-   Can be modified with Drift and Rush Shards, but it doesn't seem to do anything (needs testing)
 
  |
 
@@ -395,6 +397,7 @@ N/A
 **Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](Enforcer.md)'s '**Space Pull'** attack._
 
 -   Missing still takes Ether and does not put this mantra on cooldown.
+-   Can be modified with Crystal and Perfect lens to increase range
 
  |
 

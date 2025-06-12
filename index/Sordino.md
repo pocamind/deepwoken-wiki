@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 144483
+revid: 146506
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
