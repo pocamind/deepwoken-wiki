@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 146393
+revid: 146513
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the First Layer]
@@ -20,9 +20,9 @@ categories: [NPCs, Vendors, NPCs located in the First Layer]
 
 ## Description
 
-Nyanna is an NPC merchant, she sells various outfit schematics and weapons. She wears a White Parka and a Blue [Traveller's Jacket](<Traveller's_Jacket.md>) outfit.
+Nyanna is an NPC merchant, she sells various outfit schematics and weapons. She wears a Blue [Traveller's Jacket](<Traveller's_Jacket.md>) outfit and a White Parka.
 
-Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen at random from a list. She can sell the same item multiple times, on the same rotation and across multiple rotations. Most of her shop consist of uncommon weapons and schematics that are geared towards mid-game.
+Nyanna's shop runs on an hourly rotation. Every hour, she sells four items chosen at random from a list. She can sell the same item multiple times, on the same rotation and across multiple rotations. Most of her shop consist of uncommon weapons and schematics that are geared towards mid-game.
 
 ## Location
 
@@ -53,7 +53,7 @@ Sold Items
   <td><p><b>For </b>:</p>
   <ul>
     <li><b><font>Starter</font></b>: <a href="Hired_Mercenary.md">Hired Mercenary</a>, <a href="Scholar.md">Scholar</a>.</li>
-    <li><b><font>Adept</font></b>: Authority Peacekeeper Armour, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Duelist's_Attire.md">Duelist's Attire</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
+    <li><b><font>Adept</font></b>: Authority Peacekeeper Armour, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Duelist's_Attire.md">Duelist's Attire</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
     <li><b><font>Expert</font></b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>.</li>
   </ul><p><b>For </b>:</p>
   <ul>

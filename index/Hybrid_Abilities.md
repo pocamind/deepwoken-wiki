@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 144058
+revid: 146516
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -255,7 +255,7 @@ Wind + Lightning + Slash
   <td><center>40 Bloodrend<br>
   40 Frostdraw</center></td>
   <td><center>Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)</center></td>
-  <td><center>Enemies gain a <b>very</b> small amount of blood poisoning upon being chilled or having their crystals exploded. The amount of blood poisoning applied is so low that it'll be cleared almost immediately by the passive blood poison decay.</center></td>
+  <td><center>Enemies gain a small amount of blood poisoning upon being chilled or having their crystals detonated. Has a short cooldown for blood poison application.</center></td>
   <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
@@ -558,7 +558,7 @@ Wind + Lightning + Slash
   <td><center>40 Bloodrend<br>
   40 Frostdraw</center></td>
   <td><center>Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)</center></td>
-  <td><center>Enemies gain a <b>very</b> small amount of blood poisoning upon being chilled or having their crystals exploded. The amount of blood poisoning applied is so low that it'll be cleared almost immediately by the passive blood poison decay.</center></td>
+  <td><center>Enemies gain a small amount of blood poisoning upon being chilled or having their crystals detonated. Has a short cooldown for blood poison application.</center></td>
   <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
