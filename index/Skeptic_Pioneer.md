@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 128578
+revid: 146434
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -14,22 +14,22 @@ Template:ArmorInfobox**Skeptic Pioneer** is a Starter [Outfit](Outfits.md) in _D
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) pieces of Cloth and Fiber and one (1) Crystal Lens.
+This Outfit costs and requires five (5) pieces of Cloth and Fiber as well as one (1) Crystal Lens.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Lower Erisia](Lower_Erisia.md)
--   At the weapon shop in [Etris](Etris.md), along with the [Shadow Hunter](Shadow_Hunter.md) and [Experienced Adventurer](Experienced_Adventurer.md) schematics.
-
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants the user with +12% Physical resistance and +12% Elemental resistance.
+The Outfit has 1200 durability, grants +12% Physical resistance, and +12% Elemental resistance. Additionally, it provides the [Apothecary](Talents.md#alchemist) Talent.
 
-This Outfit also grants the [Talent Card](Talents.md) _Apothecary_, which makes potions that benefit the player more potent.
+The [Apothecary](Talents.md#alchemist) Talent makes potions that benefit the player more potent.
+
+## Obtainment
+
+This Outfit's Schematic can be obtained from:
+
+-   [Lower Erisia](Lower_Erisia.md)
+-   [Etris](Etris.md) Weapon Shop
 
 ## Trivia
 

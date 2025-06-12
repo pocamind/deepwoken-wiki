@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 143737
+revid: 146388
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items, Master Outfits, The Ignition Union]
@@ -29,6 +29,8 @@ The outfit has 3000 durability, grants +15% Frostdraw and Ironsing Armor, +35% E
 The [Force Your Way](Talents.md#ignition-deepdelver) Talent grants the player the ability to parry un-parryable attacks from large monsters at the cost of some armor durability, losing around 1%. Whenever an attack that's not normally parryable is parried, the armor will let off some sparks and steam (which is purely visual). Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
 
 This effect is also given by the arms equipment [Ignition Gauntlets](Ignition_Gauntlets.md), as well as a similar one from the [Grand Fisher Plate](Grand_Fisher_Plate.md).
+
+Force Your Way's parry visuals
 
 ## Location
 

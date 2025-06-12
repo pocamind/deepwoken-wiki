@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 146355
+revid: 146358
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -55,8 +55,6 @@ Most Talents are locked with a prerequisite. Depending on the prerequisite, you 
     -   E.g.: Having a Greataxe equipped is required to roll Greataxe Talents.
 -   A high enough Power.
     -   E.g.: Thresher Claws requires [Power](Power.md) 13 as a prerequisite.
--   Having the correct [oath](Oaths.md).
-    -   E.g.: The starkindred oath is required to roll the death from above talent.
 
 There are certain Talents that you receive automatically upon meeting their requirement. The following Talents will not take up Talent slots:
 
@@ -183,7 +181,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
     -   Synergizes well with air dashing or mantras that send the user and target in the air.
-    -   Prerequisites: 15 Strength, 25 Light Weapon OR 25 Medium Weapon OR 25 Heavy Weapon.
+    -   Prerequisites: 15 Strength, 25 on any weapon type. **NOT CULUMATIVE**
 
 ### Aeromancer
 

@@ -1,9 +1,9 @@
 ---
 title: "Pilgrim's Respite"
-revid: 63274
+revid: 146398
 source: https://deepwoken.fandom.com/wiki/Pilgrim's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Layer 2, The Depths]
+categories: [Locations, Layer 2, The Depths]
 ---
 
 # Pilgrim's Respite
@@ -15,8 +15,6 @@ TERRITORY OF
 Before continuing on your journey, rest and gather your mind.
 
   
-
-File:Pilgrim's respite.jpg
 
 The **Pilgrim's Respite** is a location in Deepwoken. It is a Landmark of the [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md).
 

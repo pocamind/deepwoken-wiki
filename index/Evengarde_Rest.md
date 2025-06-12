@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 145111
+revid: 146380
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -173,7 +173,7 @@ After having defeated [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for th
 -   Evengarde is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.
 -   His hair id is : [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun).
     -   Evengarde Rest and [Aska](Aska.md) share the same hair id
--   The coat Rest is wearring is a black [Deepwoken Cloak](Deepwoken_Cloak.md) with bright white dye to obtain the grey.
+-   The coat Rest is wearing is a black [Deepwoken Cloak](Deepwoken_Cloak.md) with bright white dye to obtain the grey.
     -   A white [Deepwoken Cloak](Deepwoken_Cloak.md) may be dyed grey to obtain the same effect
 -   After starting the teleport to the fight there is another dialog box with Evengarde Rest saying "Let's see how your skills have improved, eh?"
 -   If you taunt him during your fight by pressing T, he will immediately activate his Tempest Eye and decapitate you, seeing it as disrespectful.

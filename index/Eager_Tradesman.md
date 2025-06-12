@@ -1,27 +1,36 @@
 ---
 title: Eager Tradesman
-revid: 146188
+revid: 146424
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Starter Outfits]
+categories: [Items, Outfits, Starter Outfits, Armors]
 ---
 
 # Eager Tradesman
 
-Template:ArmorInfobox**Eager Tradesman** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox
 
-## Description
+**Eager Tradesman** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
-Eager Tradesman requires, three Cloth and three Fiber to craft.
+## Statistics
 
-Eager Tradesman has 1000 durability and grants the user +10% Physical Armor and +5% Elemental Armor upon being equipped. The outfit also grants the user the talent [Knack](Talents.md#outfit-talents), which makes trees yield more wood when felled and increases the user's Repair speed.
+### _Requirements_
 
-Eager Tradesman can be sold for.
+This Outfit costs and requires three (3) Cloth and Fiber.
+
+This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
+
+### _Armor Stats_
+
+The outfit has 1000 durability, grants +10% Physical Armor, and +5% Elemental armor. Additionally, it provides the [Knack](Talents.md#equipment-talents) Talent.
+
+The [Knack](Talents.md#equipment-talents) talent makes trees yield more wood when felled and increases the user's repair speed.
 
 ## Obtainment
 
-Eager Tradesman's schematic can be found as loot at the following locations or as a reward from:
+This Outfit's Schematic can be obtained from:
 
+-   Sold by [Trahne Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
 -   [The Depths](The_Depths.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)

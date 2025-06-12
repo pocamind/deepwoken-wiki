@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 134334
+revid: 146377
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, Summer Company]
@@ -34,10 +34,8 @@ This Outfit's Schematic can be found in:
 
 -   [Miner's Landing](<Miner's_Landing.md>), from all obtainable chests (Really rare).
 -   [Saramaed Summit](Saramaed_Summit.md), from [Mechalodaunt](Megalodaunt.md#mechalodaunt) chests (Really rare).
--   [Starfield Veldt](Starfield_Veldt.md), from the [Alpha](Megalodaunt.md) and [Crimson Megalodaunt](Megalodaunt.md) chest.
 
 ## Trivia
 
 -   Richocheted bullets can proc enchants (Bugged)
--   At the time its best to server hop the free chests that **arent inside a building or near one**
 -   Dragoons were mounted infantrymen that existed from the 16th-18th centuries, wielding a [similarly named firearm](Dragoon.md).

@@ -1,9 +1,9 @@
 ---
 title: Traan Zakshun
-revid: 146351
+revid: 146396
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vendors, NPCs]
+categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Traan Zakshun
@@ -12,7 +12,7 @@ categories: [Canor NPCs, Vendors, NPCs]
 |---|---|
 | name | Trahne Zakshun |
 | aspect | Canor |
-| location | Erisia |
+| location | Lower Erisia |
 
 “ Here's todays lineup. Try not to drool. ”
 
@@ -20,11 +20,13 @@ categories: [Canor NPCs, Vendors, NPCs]
 
 ## Description
 
-Trahne Zakshun is an NPC merchant, he sells various outfit schematics and weapons labelled as "Trahnes Salvaged Stock". He wields an [Iron twinblade](Iron_Twinblade.md) on his back, and he wears the Carefree Garments outfit.
+Trahne Zakshun is an NPC merchant, he sells various outfit schematics and weapons labelled as "Trahnes Salvaged Stock". He wields an [Iron twinblade](Iron_Twinblade.md) on his back, and he wears the [Carefree Garments](Carefree_Garments.md) outfit.
+
+Trahne Zakshun's shop runs on an hourly rotation. Every hour, he sells 3 to 4 items chosen at random from a list. He can sell the same time multiple times, on the same rotation and across multiple rotations. Most of his shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
 ## Location
 
-Trahne Zakshun is located at [Erisia](Erisia.md), inside a cave.
+Trahne Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
 
 ## Dialogue
 
@@ -40,8 +42,6 @@ Trahne's Salvaged Stock
 </table>
 
   
-
-Sells 3 or 4 items in total.
 
 <table>
 <tbody>
@@ -60,7 +60,7 @@ Sells 3 or 4 items in total.
 </tbody>
 </table>
 
-## Selling Items
+## Shop Rotation
 
 ### 
 
@@ -74,10 +74,11 @@ Sold Items
   <ul>
     <li><b><font>Starter</font></b>: <a href="Hired_Mercenary.md">Hired Mercenary</a>.</li>
     <li><b><font>Adept</font></b>: Authority Peacekeeper Armour, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
-    <li><b><font>Expert</font></b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>.</li>
+    <li><b><font>Expert</font></b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>, <a href="Hive_Drone.md">Hive Drone</a>.</li>
   </ul><p><b>For </b>:</p>
   <ul>
     <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Scholar.md">Scholar</a>.</li>
+    <li><b><font>Adept</font></b>: <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>.</li>
     <li><b><font>Expert</font></b>: <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
     <li><b><font>Master</font></b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
   </ul></td>

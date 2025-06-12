@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 146350
+revid: 146431
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -8,7 +8,9 @@ categories: [Items, Outfits, Starter Outfits]
 
 # Hired Mercenary
 
-Template:ArmorInfobox**Hired Mercenary** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox
+
+**Hired Mercenary** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -20,16 +22,15 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability grants the user +15% Physical resistance and +10% Elemental resistance.
+The Outfit has 1000 durability, grants +15% Physical resistance, and +10% Elemental resistance.
 
-## Location
+## Obtainment
 
-This Outfit's Schematic can be found in:
+This Outfit's Schematic can be obtained from:
 
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)  
-    
--   [The Depths](The_Depths.md)  
-    
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   Sold by [Trahne Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
+-   [The Depths](The_Depths.md)
 -   [Fishing](Fishing.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 

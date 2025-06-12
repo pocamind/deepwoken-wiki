@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 140626
+revid: 146436
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -20,9 +20,9 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants the user +10% Physical resistance.
+The Outfit has 1000 durability and grants +10% Physical resistance.
 
-## Location
+## Obtainment
 
 All players spawn with this Outfit's Schematic ready to purchase and equip at the Blacksmith.
 

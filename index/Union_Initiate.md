@@ -1,6 +1,6 @@
 ---
 title: Union Initiate
-revid: 139287
+revid: 146438
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits, Armors, The Ignition Union]
@@ -16,13 +16,17 @@ Template:ArmorInfobox
 
 ### _Requirements_
 
-This Outfit has no cost and no material cost.
+This Outfit has no cost and requires no materials to craft.
 
 This Outfit has no [Attribute](Attributes.md) requirement, but has a [Power](Power.md) Requirement of 6 despite being automatically equipped when starting with the [Ignition Delver](Origins.md#ignition-delver) Origin.
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants 15% Physical Armor, 5% Elemental Armor, and 10 [Carry Load](Carry_Load.md). The additional Carry Load allows [Ignition Delver](Origins.md#ignition-delver) players to carry a little more when in the [Saramaed Hollow](Saramaed_Hollow.md) Dungeon.
+The Outfit has 1500 durability, grants 15% Physical Armor, 5% Elemental Armor, and 10 [Carry Load](Carry_Load.md). The additional Carry Load allows [Ignition Delver](Origins.md#ignition-delver) players to carry a little more when in the [Saramaed Hollow](Saramaed_Hollow.md) Dungeon.
+
+## Obtainment
+
+This Outfit cannot be purchased by a Blacksmith, and is only equipped when the player spawns with the [Ignition Delver](Origins.md#ignition-delver) origin.
 
 ## Trivia
 

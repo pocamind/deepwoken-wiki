@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 144324
+revid: 146362
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
@@ -32,6 +32,7 @@ This Outfit's Schematic can be found in:
 
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   Sold by [Trahne Zakshun](Traan_Zakshun.md) at [Erisia](Erisia.md)
 -   [Summer Isle](Summer_Isle.md) Chests
 -   [Rogue Construct](Hive_Construct.md#rogue-construct) chests on [Minityrsa](Minityrsa.md)
 -   [The Depths](The_Depths.md)

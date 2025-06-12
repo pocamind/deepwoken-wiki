@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 136958
+revid: 146432
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -14,27 +14,27 @@ Template:ArmorInfobox**Merchant Robes** is a Starter [Outfit](Outfits.md) in _De
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) pieces of Cloth and Fiber.
+This Outfit costs and requires five (5) Cloth and Fiber.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +10% Physical Armor and +5% Elemental Armor.
+The Outfit has 1200 durability, grants +10% Physical Armor, and +5% Elemental Armor. Additionally, it provides the [Merchant's Accord](Talents.md#equipment-talents) Talent.
 
-This Outfit also grants the [Talent Card](Talents.md) _Merchant's Accord;_ Merchants and [Antiquarians](Antiquarian.md) will do business with you no matter how poor your reputation is.
+The [Merchant's Accord](Talents.md#equipment-talents) Talent makes Merchants and [Antiquarians](Antiquarian.md) do business with you no matter how poor your reputation is.
 
--   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Origins.md#deepbound) or [Ignition Delver](Origins.md#ignition-delver).
+-   However, this Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Origins.md#deepbound) or [Ignition Delver](Origins.md#ignition-delver).
 
-## Location
+## Obtainment
 
-This Outfit's Schematic can be found by:
+This Outfit's Schematic can be obtained from:
 
--   Buying it from [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   Finding it in [The Depths](The_Depths.md)
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   [The Depths](The_Depths.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Fishing](Fishing.md)
 
 ## Trivia/Notes
 
--   The outfit is worn by Lance Leshi and his brother at Isle Of Vigils who sells food near the docks.
+-   The outfit is worn by [Lance Leshi](Lance.md) in the [Etris](Etris.md) food shop and [Lance's Brother](<Lance's_Brother.md>) at [Isle of Vigils](Isle_of_Vigils.md) who sells food near the docks.

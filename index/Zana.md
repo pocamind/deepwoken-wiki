@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 146272
+revid: 146397
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Quests, Rings, NPCs located in the Etrean Luminant]
@@ -12,11 +12,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Zana is a Quest NPC that rewards the player with a Poser’s Ring, a Katana-exclusive ring that deals all damage at once onto a target upon sheathing.
+Zana is a Quest NPC that can be found leaning against a wall at the [Isle of Vigils](Isle_of_Vigils.md) docks. He wears a [Royal Pathfinder](Royal_Pathfinder.md) and a [Prophet's Cloak](<Prophet's_Cloak.md>).
 
-He can be found leaning against a wall at the [Isle of Vigils](Isle_of_Vigils.md) docks.
-
-His outfit consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and a [Royal Pathfinder](Royal_Pathfinder.md).
+He rewards the player with a Poser’s Ring, a Katana-exclusive ring that deals all damage at once onto a target upon sheathing.
 
 As long as you have a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md) equipped, you can partake in Zana's quest.
 

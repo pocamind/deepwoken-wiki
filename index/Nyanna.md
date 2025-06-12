@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 146193
+revid: 146393
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the First Layer]
@@ -16,28 +16,31 @@ categories: [NPCs, Vendors, NPCs located in the First Layer]
 
 “ Are you slow? Yes, premium notes. I sell to the lazy and rich. If you don't like my prices, go try finding these weapons and schematics yourself. ”
 
-― Nyanna to a neophyte
+― Nyanna
 
 ## Description
 
-Nyanna is a [Felinor](Felinor.md) seller NPC located in [Castle Light](Castle_Light.md) on the second floor. She has the unique mechanic of selling a rotation of items that changes every hour.
+Nyanna is an NPC merchant, she sells various outfit schematics and weapons. She wears a White Parka and a Blue [Traveller's Jacket](<Traveller's_Jacket.md>) outfit.
+
+Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen at random from a list. She can sell the same item multiple times, on the same rotation and across multiple rotations. Most of her shop consist of uncommon weapons and schematics that are geared towards mid-game.
+
+## Location
+
+Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
 
 ## Dialogue
 
 -   You down here to see the goods?
-    -   1 What?
+    -   1 - What?
 
 -   Oh, you must be new around here... I'm selling weapon and armor to anyone willing to play premium notes
-    -   1-What are you selling?
-    -   2-Premium notes?
+    -   1 - What are you selling?
+    -   2 - Premium notes?
 
--   if chose option 1 -Here's what I'm offering at the moment. (opens shop)
--   if you chose option 2
--   Are you slow? Yes, premium notes. I sell to the lazy and rich. If you don't like my prices, go try finding these weapons and schematics yourself.( will give you option 1 to open the shop)
+-   Choosing option 1 - Here's what I'm offering at the moment. (Opens shop)
+-   Choosing option 2 - Are you slow? Yes, premium notes. I sell to the lazy and rich. If you don't like my prices, go try finding these weapons and schematics yourself. (Allows you to open the shop still)
 
 ## Shop Rotation
-
-Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen at random from a list. She can sell the same item multiple time, on the same rotation and across multiple rotations. Most of her shop consist of uncommon Weapons and Schematics that are geared toward mid game.
 
 ### 
 

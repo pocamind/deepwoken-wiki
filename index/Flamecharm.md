@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 145891
+revid: 146363
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -240,7 +240,7 @@ N/A
 -   Deals 1 damage.
 -   Will proc gems such as Wayward Gem.
 -   Can be upgraded by the **Concussive Flash** Talent, causing all blinded enemies to be dazed.
--   Can be modified with Aeon/Eternal Logstones to blind for longer.
+-   Cannot be modified with Aeon/Eternal Logstones to blind for longer.
 
  |
 | 

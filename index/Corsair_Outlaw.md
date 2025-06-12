@@ -1,6 +1,6 @@
 ---
 title: Corsair Outlaw
-revid: 142914
+revid: 146421
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits, Bandits]
@@ -8,21 +8,25 @@ categories: [Items, Outfits, Starter Outfits, Bandits]
 
 # Corsair Outlaw
 
-Template:ArmorInfobox**Corsair Outlaw** is a Starter [Outfit](Outfits.md) in _Deepwoken_. It is a brown leather jacket with a white undershirt and gloves, brown pants and boots, and a silver belt buckle.
+Template:ArmorInfobox **Corsair Outlaw** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
-## Description
+## Statistics
 
-Corsair Outlaw requires five Cloth, five Fiber, and one [Aeon Logstone](Mantra_Modifiers.md) to craft.
+### _Requirements_
 
-Corsair Outlaw has 1200 durability and grants the user +15% Physical Armor and +10% Elemental Armor upon being equipped.
+This Outfit requires five (5) Cloth and Fiber as well as one (1) [Aeon Logstone](Mantra_Modifiers.md).
 
-The outfit also grants the user the talent [Lightweight](Talents.md#natural-armor), which increases the user's movement speed by 25% when their armor's durability reaches 0.
+This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
-Corsair Outlaw can be sold for.
+### _Armor Stats_
+
+The outfit has 1200 durability, grants the user +15% Physical Armor, and +10% Elemental Armor. Additionally, it provides the [Lightweight](Talents.md#natural-armor) Talent.
+
+The [Lightweight](Talents.md#natural-armor) Talent makes user's movement speed increase by 25% when their armor's durability reaches 0.
 
 ## Obtainment
 
-Corsair Outlaw's schematic can be found as loot at the following locations or as a reward from:
+This Outfit's Schematic can be obtained from:
 
 -   [Lower Erisia](Lower_Erisia.md)
 -   [Bandits](Bandit.md)

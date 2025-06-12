@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 139307
+revid: 146441
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Hundred Legions]
@@ -14,19 +14,19 @@ Template:ArmorInfobox**11th Legion Plate** is an Adept [Outfit](Outfits.md) in _
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, two (2) pieces of Gold and ten (10) pieces of Iron.
+This Outfit costs and requires five (5) Cloth and Fiber, two (2) Gold, and ten (10) Iron.
 
-This Outfit requires [Power Level](Power.md) 5 and [Fortitude](Attributes.md) 10.
+This Outfit requires [Power Level](Power.md) 5 and 10 [Fortitude](Attributes.md).
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +10% Physical resistance and +30% Blunt resistance.
+The Outfit has 1500 durability, grants +10% Physical resistance, and +30% Blunt resistance.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Blunt and 10% Slash.
 
-## Location
+## Obtainment
 
-This Outfit's Schematic can be found in:
+This Outfit's Schematic can be obtained from:
 
 -   [Erisia](Erisia.md)
 -   [Starswept Valley](The_Starswept_Valley.md)

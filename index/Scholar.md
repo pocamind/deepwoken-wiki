@@ -1,6 +1,6 @@
 ---
 title: Scholar
-revid: 146187
+revid: 146433
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -14,25 +14,26 @@ Template:ArmorInfobox **Scholar** is a Starter [Outfit](Outfits.md) in _Deepwoke
 
 ### _Requirements_
 
-This Outfit costs and requires three (3) Cloth and three (3) Fiber.
+This Outfit costs and requires three (3) Cloth and Fiber.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants the user +8% Physical resistance and + 10% Elemental resistance.
+The Outfit has 1000 durability, grants the user +8% Physical resistance, and + 10% Elemental resistance. Additionally, it provides the [Scholar's Intuition](Talents.md#equipment-talents) Talent.
 
-This Outfit also grants the [Talent Card](Talents.md) _Scholar's Intuition_, which makes INT, WILL and CHR training gear 50% more effective.
+The [Scholar's Intuition](Talents.md#equipment-talents) talent makes INT, WILL, and CHR training gear 50% more effective.
 
-## Location
+## Obtainment
 
-This Outfit's Schematic can be found in:
+This Outfit's Schematic can be obtained from:
 
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   Sold by [Trahne Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
 -   [The Depths](First_Layer.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
--   [Nyanna](Nyanna.md)
 
 ## Trivia
 
