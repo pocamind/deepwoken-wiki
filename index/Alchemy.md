@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 144190
+revid: 146540
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items, Alchemy]
@@ -54,7 +54,7 @@ Potions have a greater effect when brewed by a character with high intelligence.
 -   Potions prepared by characters with the Apothecary Talent have amplified positive effects when consumed, and amplified negative effects when thrown, with the exact modifier being unknown.
     -   This Talent can easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>).
 -   When brewing potions with the Wild Alchemy Talent, there is a 25% chance to produce 2 potions instead of 1.
--   The Potion Quaffer Talent reduces the slowdown from drinking potions, allows potions to be drunk much quicker, and increases the regeneration of health regeneration potions when drunk.
+-   The Potion Quaffer Talent reduces the slowdown from drinking potions, reduces time to drink by 30%, and increases the regeneration of health regeneration potions by 15%, as well as ether regeneration and sanity regeneration potions by 30%. The 25% negative duration of health potions is removed.
 -   The Placebo Effect Talent applies potion effects to your allies when you drink a potion near them.
 -   The Chain Reaction Talent amplifies the effects of potions if they are applied to characters that already have one (replacing the old effect). It also adds a 25% chance not to use up a potion when drinking one.
 -   The Chemist's Bag Talent causes potions to no longer be dropped on death.
@@ -79,26 +79,27 @@ If multiple ingredients have the same listed effect strength (for example, are m
 
 | Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Duration |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Bamboo](Bamboo_Bundle.md) |  | Strongest |  |  | Strongest |  |  |  |  |  |
-| [Beeswax](Beeswax.md) |  |  |  |  |  | Weakest | Strongest |  |  |  |
-| [Bluecap](Bluecap.md) | Strongest | Strongest |  |  |  |  |  |  | Strongest |  |
-| [Browncaps](Browncap.md) | Strong |  | Strongest |  |  |  |  |  |  |  |
-| [Calabash](Calabash.md) |  |  |  |  | Strongest |  |  | Strongest |  |  |
+| [Bamboo](Bamboo_Bundle.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
+| [Beeswax](Beeswax.md) |  |  |  |  |  | \-5% | +85% |  |  |  |
+| [Bluecap](Bluecap.md) | \-5 | +18 |  |  |  |  |  |  | +3.75/s |  |
+| [Browncaps](Browncap.md) | \-4 |  | +2% |  |  |  |  |  |  |  |
+| [Calabash](Calabash.md) |  |  |  |  | +10% |  |  | \-19.85% |  |  |
 | [Chum](Chum.md) |  |  |  |  |  |  |  |  | Strongest |  |
-| [Alestrian Coral](Alestrian_Coral.md) |  |  | Weakest | Strongest |  | Strongest |  |  |  |  |
-| [Crustacean Meat](Crustacean_Meat.md) |  |  | Strongest |  |  |  |  |  |  | Weakest |
-| [Dentifilo](Dentifilo.md) | Weakest | Weakest |  |  |  |  |  |  |  |  |
-| [Gobletto](Gobletto.md) |  |  |  |  |  | Weakest | Strongest |  |  |  |
-| [Ongo](Ongo.md) |  |  |  | Strongest | Strongest |  |  |  |  |  |
-| [Plumfruit](Plumfruit.md) |  |  | Strongest |  |  |  | Strongest |  |  |  |
-| [Pomar](Pomar.md) | Weak |  |  |  |  | Strongest |  |  |  |  |
-| [Redd](Redd.md) | Strongest |  |  |  |  |  |  | Strongest |  | Strongest |
-| [Sap](Sap.md) |  |  |  |  |  | Strongest |  | Strongest |  |  |
-| [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | Strongest |  |
-| [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | Strongest |  |
-| [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  | Weakest |
-| [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | Strongest |  |
-| [Wheat](Gathered_Wheat.md) |  |  | Strongest |  |  |  |  | Weakest |  |  |
+| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-5% | \-5% |  | +0.25 |  |  |  |  |
+| [Crustacean Meat](Crustacean_Meat.md) |  |  | \-7% |  |  |  |  |  |  | +20% |
+| [Dentifilo](Dentifilo.md) | \-2 | +18 |  |  |  |  |  |  |  |  |
+| [Gobletto](Gobletto.md) |  |  |  |  |  | \-5% | +85% |  |  |  |
+| [Marram Grass](Marram_Grass.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
+| [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |
+| [Plumfruit](Plumfruit.md) |  |  | +2% |  |  |  | \-30% |  |  |  |
+| [Pomar](Pomar.md) | \-3 |  |  |  |  | +0.25 |  |  |  |  |
+| [Redd](Redd.md) | +4 |  |  |  |  |  |  | \-19.85% |  | \-25%\* |
+| [Sap](Sap.md) |  |  |  |  |  | \-5% |  | +90% |  |  |
+| [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | 0.1/s |  |
+| [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | 0.1/s |  |
+| [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  | +50% |
+| [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | 0.1/s |  |
+| [Wheat](Gathered_Wheat.md) |  |  | \-7% |  |  |  |  | +90% |  |  |
 
 Eating an ingredient will give you a weaker version of the effects it would normally give you if brewed in a potion. This can be used to remove an existing potion effect.
 

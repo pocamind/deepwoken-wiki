@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 146468
+revid: 146524
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits, Armors]
@@ -30,11 +30,17 @@ The [Knack](Talents.md#equipment-talents) talent causes trees to yield more wood
 
 This Outfit's Schematic can be obtained from:
 
--   Sold by [Trahne Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
--   [The Depths](The_Depths.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+Sold from:
+
+-   [Trahne Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md) for
+
+Chests from:
+
+-   [First Layer](First_Layer.md)
+-   [Fishing](Fishing.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [Fishing Chests](Fishing.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Sea Events](Random_Encounters.md#sea-events)
 
 ## Trivia
 

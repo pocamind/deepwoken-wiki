@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 146518
+revid: 146527
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand Guns]
@@ -23,12 +23,12 @@ categories: [Weapons, Pistols, Offhand Guns]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Upgrade Advanced Weapons |
+| obtainment | Starter Weapon: Silversix Echo Unlock |
 | description | "A pistol passed down by your ancestors." |
 
 ## Description
 
-The **Silversix** is a [gun](Guns.md) obtained by purchasing _Starter Weapon: Silversix_ [Echo Unlock](Echoes.md) for 25 Echoes in [Character Creation](Character_Creation.md). A character starting with the Silversix will dual wield them, one in the main hand and one in the off-hand. If you want to wield this gun single-handed, unequip one of them at a campfire.
+The **Silversix** is a [gun](Guns.md) obtained by purchasing _Starter Weapon: Silversix_ [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) for 25 Echoes in [Character Creation](Character_Creation.md). A character starting with the Silversix will dual wield them, one in the main hand and one in the off-hand. If you want to wield this gun single-handed, unequip one of them at a campfire.
 
 ## Trivia
 

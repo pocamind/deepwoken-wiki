@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 145054
+revid: 146530
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -23,12 +23,12 @@ categories: [Weapons, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Advanced Weapons Echoes upgrade |
+| obtainment | Starter Weapon: Spear Echo Unlock |
 | description | "A spear passed down by your ancestors." |
 
 ## Description
 
-The Irontusk is one of the four starter weapons obtained by spending Echoes. Irontusk is obtained by purchasing _Starter Weapon: Irontusk_ [Echo Unlock](Echoes.md) for 25 Echoes in [Character Creation](Character_Creation.md).
+The Irontusk is one of the four starter weapons obtained by spending Echoes. Irontusk is obtained by purchasing _Starter Weapon: Spear_ [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) for 25 Echoes in [Character Creation](Character_Creation.md).
 
 ## Trivia
 

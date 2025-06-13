@@ -1,6 +1,6 @@
 ---
 title: Repair Kit
-revid: 97579
+revid: 146543
 source: https://deepwoken.fandom.com/wiki/Repair_Kit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Armors, Outfits]
@@ -11,18 +11,29 @@ categories: [Items, Armors, Outfits]
 | Repair Kit | |
 |---|---|
 | usage | 6 |
-| recipe | 3 Iron2 Wood |
+| recipe | 3 Iron and 2 Wood |
 
 ## Overview
 
-A Repair Kit is a deployable tool that can repair an armor's durability. It can be bought at [Castle Light](Castle_Light.md), or it can be obtained via crafting:
+A Repair Kit is a deployable tool that repairs armor durability.
 
--   (3) Iron
--   (2) Wood
-
-Up to five Repair Kits can be held at once.
+-   However, it doesn't repair natural armor granted by the [Exoskeleton](Talents.md#freak-of-nature) Talent or the [Vesperian](Vesperian.md#racial-traits) Aspect
 
 When placed on the ground, Repair Kits can be interacted with, granting armor durability overtime. Each Repair Kit can restore up to 2000 armor durability, after which they will vanish.
+
+Up to five Repair Kits can be held normally, but using the [Packmule](Boons_and_Flaws.md#boons) Boon increases your capacity to 7.
+
+## Obtainment
+
+It requires three (3) [Iron](Ores.md#iron) and two (2) Wood to craft.
+
+Alternatively you can purchase it from [Castle Light](Castle_Light.md) next to the [Barber](Barber.md) or from [Merchant Ships](Random_Encounters.md#sea-events) occasionally for varying prices of [Robux](https://roblox.fandom.com/wiki/Robux).
+
+## Tips
+
+If you lack a [Graceful Flame](Talents.md#undying-ember), or aren't [Ignition Delver](Origins.md#ignition-delver) or [Deepbound](Origins.md#deepbound), repair Kits can be extremely useful when used in the [First Layer](First_Layer.md) due to [Campfires](Campfire_Pit.md) being unable to be lit.
+
+-   [Hell Mode](Hell_Mode.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and the [Heart of Enmity](Heart_of_Enmity.md) are all place where your armor durability gets shredded, try bringing one into your next run/
 
 ## Trivia
 

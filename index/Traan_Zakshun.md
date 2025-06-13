@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 146515
+revid: 146533
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -85,7 +85,7 @@ Sold Items
   <ul>
     <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Scholar.md">Scholar</a>.</li>
     <li><b><font>Adept</font></b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>.</li>
-    <li><b><font>Expert</font></b>: <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
+    <li><b><font>Expert</font></b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
     <li><b><font>Master</font></b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
   </ul></td>
 </tr>
@@ -103,6 +103,11 @@ Sold Items
     <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
     <li><b><font>Medium Weapons</font></b>: <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
     <li><b><font>Heavy Weapons</font></b>: <a href="Adretian_Axe.md">Adretian Axe</a>.</li>
+  </ul><p><b>For </b>:</p>
+  <ul>
+    <li><b><font>Light Weapons</font></b>: TBA</li>
+    <li><b><font>Medium Weapons</font></b>: [[Falchion#Alloyed|Template:AlloyedColor]].</li>
+    <li><b><font>Heavy Weapons</font></b>: TBA</li>
   </ul><p><b>For </b>:</p>
   <ul>
     <li><b><font>Light Weapons</font></b>: TBA</li>

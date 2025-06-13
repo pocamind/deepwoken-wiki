@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 146470
+revid: 146526
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -30,10 +30,15 @@ The [Merchant's Accord](Talents.md#equipment-talents) Talent causes Merchants an
 
 This Outfit's Schematic can be obtained from:
 
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   [The Depths](The_Depths.md)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
+Sold from:
+
+-   [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md) for
+
+Chests from:
+
+-   [First Layer](First_Layer.md)
 -   [Fishing](Fishing.md)
+-   [Moon's Eyrie](<Moon's_Eyrie.md>)
 
 ## Trivia/Notes
 

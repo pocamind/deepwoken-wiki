@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 146510
+revid: 146536
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -27,6 +27,6 @@ Titus Gauntlets are a Fist Weapon.
 ## Trivia
 
 -   On release, the gauntlets were likely remnants from testing, having properties such as:
-    -   Being obtainable from a variety of sources it isn't intended to, such as [Chime of Conflict](Chime_of_Conflict.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and the [Dread Serpent](Dread_Serpent.md)
+    -   Being obtainable from a variety of sources it isn't intended to, such as [Chime of Conflict](Chime_of_Conflict.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
     -   Having the same description as the [Legion Cestus](Legion_Cestus.md).
     -   Having no requirements and having the lowest damage possible.

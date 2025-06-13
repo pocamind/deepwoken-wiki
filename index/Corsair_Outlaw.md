@@ -1,6 +1,6 @@
 ---
 title: Corsair Outlaw
-revid: 146467
+revid: 146523
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits, Bandits]
@@ -28,8 +28,14 @@ The [Lightweight](Talents.md#natural-armor) Talent increases the users movement 
 
 This Outfit's Schematic can be obtained from:
 
+Direct Drop:
+
+-   [Bandit](Bandit.md)
+
+Chests from:
+
+-   [Brainsucker](Brainsucker.md)
 -   [Lower Erisia](Lower_Erisia.md)
--   [Bandits](Bandit.md)
 
 ## Trivia
 

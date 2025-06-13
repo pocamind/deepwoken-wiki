@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 145016
+revid: 146539
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -85,48 +85,57 @@ This page is about content that has either been removed or changed drastically i
 -   **A Deal from Below \[Generic Talent, Rare Talent\] -** You have a higher chance of being granted Whispers. However, you are more susceptible to insanity. (+2 Health)
     -   This Talent gave you such a potent insanity gain percentage that you could passively gain Tier 1 Insanity while outside of the Depths.
     -   Along with **Lose Your Mind,** which used to deal _double_ damage at max insanity, a bug was found where Lose Your Mind's max damage buff was always active as long as you had some form of Insanity, effectively granting you permanent double or even _quadruple_ damage, as showcased in Shirafune's video.
--   **Adept \[ Legendary Talent\] -** Taking this Talent will make it easier to progress.
--   All Aerial Talents were removed and instead became a part of base combat
-    -   **Aerial Kick \[Common Priority Talent\] -** \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
-    -   **Aerial Shot \[Common Priority Talent\] -** \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
-    -   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
-    -   **Aerial Stab \[Common Priority Talent\] -** \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
--   **Agitating Static \[Common Talent, Thundercall exclusive\] -** Using Discovery of Fire will light nearby downed enemies aflame.
+-   **Adept \[Legendary Talent\] -** Taking this Talent will make it easier to progress.
+    -   In the December 23rd, 2022 update, Adept was removed from the game.
+-   **Aerial Kick \[Common Priority Talent\] -** \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
+    -   In the December 23rd, 2022 update, all Aerial Talents were removed and instead became a part of base combat.
+-   **Aerial Shot \[Common Priority Talent\] -** \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
+    -   In the December 23rd, 2022 update, all Aerial Talents were removed and instead became a part of base combat.
+-   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
+    -   In the December 23rd, 2022 update, all Aerial Talents were removed and instead became a part of base combat.
+-   **Aerial Stab \[Common Priority Talent\] -** \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
+    -   In the December 23rd, 2022 update, all Aerial Talents were removed and instead became a part of base combat.
+-   **Agitating Static \[Common Talent, Thundercall\] -** Using Discovery of Fire will light nearby downed enemies aflame.
     -   In the October 6, 2023 update, Agitating Static was merged into Discovery of Fire.
--   **Aggressive Posture \[Common Talent\]** - Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
+-   **Aggressive Posture \[Common Talent\] -** Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
     -   In the January 31st, 2025 update, Aggressive Posture has been removed due to clashing with a new mechanic called Backstepping.
--   **Black Out \[Common Talent, Shadowcast Exclusive\] -** Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
+-   **Black Out \[Common Talent, Shadowcast\] -** Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
     -   In the August 15th, 2023 update, Black Out was merged into Sightless Still.
--   **Blood Shadow \[Rare Talent\] -** Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
-    -   In December 30, 2023 update, Blood Shadow was removed and replaced by Lord's Tithe.
+-   **Blood Shadow \[Rare Talent, Fortitude, Shadowcast\] -** Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
+    -   In the December 30, 2023 update, Blood Shadow was removed and replaced by Lord's Tithe.
 -   **Bloodletter \[Common Talent\] -** Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
-    -   Bloodletter made you drain blood from your opponents when you hit them while they were knocked. In the June 6th, 2024 Update, Bloodletter was made innate.
--   **Bodyguard Detail \[Common Talent, Charisma\]** - If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
-    -   In the July 12th update, Bodyguard Detail was removed.
+    -   In the June 6th, 2024 Update, Bloodletter was made innate.
+-   **Bodyguard Detail \[Common Talent, Charisma\] -** If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
+    -   In the July 12th, 2024 update, Bodyguard Detail was removed due to a new mechanic being introduced when nearby allied mobs would rush to your aid if you're attacked in allied territory and your rep with them is much higher than your attacker's.
 -   **Boom, Headshot \[Common Talent\] -** \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
     -   In the December 20th, 2022 update, Boom, Headshot was merged into Lethal Precision.
--   **Boot Wallet \[Common Talent\]** **\-** You no longer lose notes from dying.
-    -   Boot Wallet was merged into Robber Baron.
--   **Command: Leech \[Common Talent\] -** Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
-    -   In the March 13th, 2023 update, Command: Leech is became a base Vow of Mastery command.
--   **Command: Locate \[Common Talent\] -** Locate one of your vow members (+4 Ether, +3 Health)
+-   **Boot Wallet \[Common Talent\] -** You no longer lose notes from dying.
+    -   In the December 5th, 2022 update, Boot Wallet was merged into Robber Baron.
+-   **Boulder Climb \[Common Talent, Agility\] -** Your climb height increases when you slide jump.
+    -   In the August 23rd, 2024 update, Boulder climb was merged into Kick Off.
+-   **Command: Leech \[Common Talent, Charisma\] -** Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
+    -   In the March 13th, 2023 update, Command: Leech became a base Vow of Mastery command.
+-   **Command: Locate \[Common Talent, Charisma\] -** Locate one of your vow members (+4 Ether, +3 Health)
     -   In the December 6th, 2022 update, Command: Locate became a base Vow of Mastery command.
--   **The Cold Forge \[Common Talent\] -** You forge more shurikens when casting on ice. (+5 Elemental Intensity)
+-   **Command: Return \[Rare Talent, Charisma\] -**
+    -   In the August 30th, 2024 update, Command: Return became a base Vow of Mastery command.
+-   **The Cold Forge \[Common Talent, Frostdraw\] -** You forge more shurikens when casting on ice. (+5 Elemental Intensity)
     -   In the May 15th, 2023 update, Cold Forge became base behavior for Ice Forge.
 -   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
--   **Crystal Breaker \[Common Talent\] -** When breaking someone's posture detonate any active crystals on their body. (+5 Elemental Intensity, +3 Health)
+    -   In the October 24nd, 2022 update, Concentrated Reload and Ether Bullets were removed due to their functionality being irrelevant.
+-   **Crystal Breaker \[Common Talent, Frostdraw\] -** When breaking someone's posture detonate any active crystals on their body. (+5 Elemental Intensity, +3 Health)
     -   In the May 15th, 2023 update, Crystal Breaker became base behavior for Glass Path: Crystallization.
 -   **Depths Connection \[Common Talent\] -** Your interaction with The Depths allows you to easily draw Ether from the surrounding air.
-    -   Depths connection was removed in a shadow update on August 30th, 2024.
--   **Diplomat \[Common Talent\] -** Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
+    -   In the August 30th, 2024 shadow update, Depths Connection was removed from the game.
+-   **Diplomat \[Common Talent, Charisma\] -** Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
     -   In the December 13th, 2022 update, Diplomat was merged into Celebrity.
--   **Drifting Winds \[Common Talent\] -** Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
+-   **Drifting Winds \[Common Talent, Galebreathe\] -** Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
     -   In the May 15th, 2023 update, Drifting Winds became base behavior for Galebreathe.
--   **Duelist's Dance \[Common Talent\] -** Parrying an opponent gives you 25% more posture back. (+1 Posture, +4 Carry Load)
+-   **Duelist's Dance \[Common Talent, Strength\] -** Parrying an opponent gives you 25% more posture back. (+1 Posture, +4 Carry Load)
     -   In the April 15th, 2025 update, Duelist's Dance talent was removed due to the fact that Duelist's Dance and Harsh Response were canceled each other and were mandatory on every build.
 -   **Elemental Rebound \[Rare Talent\] -** Elemental Mantras now grant extra tempo upon landing. (+3 Elemental Intensity)
     -   In the March 8th, 2024 update, Elemental Rebound was made innate and was changed so that all mantras grant Tempo, not just elemental ones.
--   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
+-   **Encouraging Presence \[Common Talent, Willpower\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
     -   In the January 3rd, 2023 update, Encouraging Presence was merged into Conquer Your Fears.
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   In the October 24th, 2022 update, Guns cost no Ether to fire, making this Talent effectively useless.
@@ -136,19 +145,23 @@ This page is about content that has either been removed or changed drastically i
 -   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
     -   Every hit would deal 5% of your maximum HP regardless of how much damage it would deal otherwise.
     -   In the February 14th, 2022 update, Exoskeleton was changed to its current form, granting Natural Armor.
--   **Familiar Sight \[Common Talent, Charisma\]** **\-** Being hit by someone of the same aspect causes them to be charmed for a short duration.
+-   **Exploding Mirage Clones \[Rare Talent, Flamecharm\] -** Your mirage clone now explodes.
+    -   In the May 22nd, 2023 update, Exploding Mirage Clones was removed from the game.
+-   **Familiar Sight \[Common Talent, Charisma\] -** Being hit by someone of the same aspect causes them to be charmed for a short duration.
     -   In the December 13th, 2022 update, Familiar Sight was merged into Tough Love.
 -   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   In the February 6th, 2023 update, Finesse was merged into Now You see Me.
--   **Flaming Uppercut \[Common Talent, Flamecharm Exclusive\] -** Ignite flames on an enemy when you uppercut them.
+-   **Flaming Rebound \[Rare Talent, Flamecharm\] -** Landing fire mantras will restore your Tempo. (+3 Elemental Intensity)
+    -   In the December 23rd, 2022 update, Flaming Rebound was removed and replaced by Elemental Rebound.
+-   **Flaming Uppercut \[Common Talent, Flamecharm\] -** Ignite flames on an enemy when you uppercut them.
     -   In the October 20th, 2023 update, Flaming Uppercut was merged into Flaming Flourish.
--   **Frozone \[Rare Talent, Frostdraw Exclusive\] -** You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
-    -   In October 28, 2023 update, Frozone became base behavior for Ice Skate.
--   **Gale Coil \[Common Talent, Galebreathe Exclusive\] -** Your suffocates last twice as long. (+2 Passive Agility)
+-   **Frozone \[Rare Talent, Frostdraw\] -** You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
+    -   In the October 28, 2023 update, Frozone became base behavior for Ice Skate.
+-   **Gale Coil \[Common Talent, Galebreathe\] -** Your suffocates last twice as long. (+2 Passive Agility)
     -   In the August 30th, 2024 update, Gale Coil was made innate.
--   **Gale Dash \[Rare Talent\] -** After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity)
+-   **Gale Dash \[Rare Talent, Galebreathe\] -** After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity)
     -   In the May 16th, 2023 update, Gale Dash was merged into Air Pressure.
--   **Gale Leap \[Common Talent, Galebreathe Exclusive\] -** Jumping while sliding down a slope or off a cliff launches you forwards. (+1 Elemental Intensity, +2 Health)
+-   **Gale Leap \[Common Talent, Galebreathe\] -** Jumping while sliding down a slope or off a cliff launches you forwards. (+1 Elemental Intensity, +2 Health)
     -   In the December 1st, 2023 update, Gale Leap was merged into Wind Step.
 -   **Giantslayer \[Common Talent, Willpower\] -** Deal 10% more damage to larger foes. (+7 Sanity)
     -   In the December 24th, 2024 update, Giantslayer was merged into Underdog.
@@ -159,81 +172,88 @@ This page is about content that has either been removed or changed drastically i
     -   In the August 15th, 2023 update, Graceful Landing was merged into Kick Off.
 -   **Hardened Nerves \[Common Talent\] -** Slightly increases posture. (+2 Posture)
     -   In the January 19th, 2024 update, Hardened Nerves was made innate, increasing the base posture of all players by 2.
--   **Harsh Response \[Common Talent\] -** Enemies receive less posture back when parrying your attacks.
+-   **Harsh Response \[Common Talent, Strength\] -** Enemies receive less posture back when parrying your attacks.
     -   In the April 15th, 2025 update, Harsh Response talent was removed due to the fact that Duelist's Dance and Harsh Response were canceled each other and were mandatory on every build.
 -   **Health Pack \[Common Talent\] -** It's extra health, do you need anything else? (+10 Health)
     -   In the January 19th, 2024 update, Health Pack was made innate, increasing the base HP of all players by 10.
--   **Heartbreaker \[Common Talent\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
+-   **Heartbreaker \[Common Talent, Light\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
     -   In the December 20th, 2022 update, Heartbreaker was merged into Lethal Precision.
 -   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
--   **Herbivore \[Common Talent\] -** You gain more nutrition from eating plants.
+    -   In the October 17th, 2022 update, Heavy Lifting was removed from the game.
+-   **Herbivore \[Common Talent, Fortitude\] -** You gain more nutrition from eating plants.
     -   In the April 15th, 2025 update, Herbivore was removed from the game.
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
--   **In Twain \[Common Talent\] -** \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
+-   **In Twain \[Common Talent, Heavy\] -** \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
     -   In the January 3rd, 2023 update, In Twain and Lethal Force were merged into Lethal Precision.
+-   **Last Laugh \[Common Talent, Flamecharm\] -** Gain the ability to incinerate yourself when down with Flame Within. If Phoenix Flames procs, you will only be restored up to 25% of your HP instead of the full 50%.
+    -   In the September 2nd, 2024 update, Last Laugh was merged into Flame Within.
 -   **Legendary Echoes -** Receive a random Legendary Talent.
     -   With Verse 2 update most Legendary Talents have turned into Advanced Talents, while other - decreased in rarity to Rare.
--   **Lethal Force \[Common Talent\] -** \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
+-   **Lethal Force \[Common Talent, Medium\] -** \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
     -   In the January 3rd, 2023 update, In Twain and Lethal Force were merged into Lethal Precision.
--   **Lethal Precision \[Common Talent\] -** When you attack an enemy much weaker than you, you kill them instantly.
+-   **Lethal Precision \[Common Talent, Light\] -** When you attack an enemy much weaker than you, you kill them instantly.
     -   In the October 6th, 2023, Lethal Precision was changed into the quest Talent Mercy Kill.
--   **Lord Commander \[Rare Talent\] -** Everyone you buff with Reinforce heals you by 1% (+5 Health)
+-   **Lord Commander \[Rare Talent, Fortitude\] -** Everyone you buff with Reinforce heals you by 1% (+5 Health)
     -   In the August 15th, 2023 update, Lord Commander was merged into Grand Support.
+-   **Maestro's Blade \[Common Talent, Galebreathe\] -** Inhaling a spell will cause the wind to be applied to your M1's.
+    -   In the August 30th, 2024 update, Maestro's Blade was merged into Inhale.
 -   **Mark of the Lone Warrior \[Common Talent\] -** Your ability to overcome true adversity manifests. You progress much more quickly.
+    -   In the December 23rd, 2022 update, Mark of the Lone Warrior was removed.
 -   **Now You See Me \[Common Talent, Agility\] -** Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   In the January 13th, 2024 update, Now You See Me was merged into Lowstride.
--   **One Handed Training** \[Common Talent\] - **\[Heavy Weapons\] You can now wield heavy weapons one handed.**
+-   **One Handed Training \[Common Talent, Heavy\] -** \[Heavy Weapons\] You can now wield heavy weapons one handed.
     -   In the July 26th, 2024 update, One Handed Training was made innate, but you still need 40 Heavy Weapon to wield your weapon one handed.
 -   **Perfect Cancel \[Generic Talent, Common Talent\] -** \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
--   **Pitcher \[Common Talent\] -** You can throw things further. (+3 Carry Load, +1 Passive Agility)
+-   **Pitcher \[Common Talent, Strength, Agility\] -** You can throw things further. (+3 Carry Load, +1 Passive Agility)
     -   In the April 15th, 2025 update, Pitcher has been made innate.
--   **Pyromania \[Common Talent\] -** Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
+-   **Pyromania \[Common Talent, Flamecharm\] -** Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
     -   In the October 6th, 2023 update, Pyromania was merged into Immolation.
--   **Quick Link \[Common Talent, Thundercall Exclusive\]** - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
+-   **Quick Link \[Common Talent, Thundercall\] -** Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
     -   In the August 15th, 2023 update, Quick Link was merged into Static Link.
--   **Quick Recovery \[Common Talent, Agility\]** - You move faster after doing a wall jump. (+1 Passive Agility)
+-   **Quick Recovery \[Common Talent, Agility\] -** You move faster after doing a wall jump. (+1 Passive Agility)
     -   In the December 13th, 2022 update, Quick Recovery was merged into Kick Off.
--   **Reverse Gale Kick \[Common Talent, Galebreathe Exclusive\]** - Pressing \[F\] after hitting an opponent with Wind Rising will cause your followup kick to impale them to the ground. (+1 Passive Agility)
+-   **Reverse Gale Kick \[Common Talent, Galebreathe\] -** Pressing \[F\] after hitting an opponent with Wind Rising will cause your followup kick to impale them to the ground. (+1 Passive Agility)
     -   Dazes after kicking them down allowing for more combos.
     -   In the December 1st, 2023 update, Reverse Gale Kick was made base behavior for Rising Wind.
--   **Salesperson \[Common Talent\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
+-   **Salesperson \[Common Talent, Charisma\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
     -   In the December 13th, 2022 update, Salesperson was merged into Snake Oil.
--   **Shatter Spear \[Rare Talent\] -** Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
-    -   The Talent was removed from the game with May 15, 2023 update, as it became a base behavior for Ice Lance.
--   **Silencer's Edge \[Common Talent, Galebreathe Exclusive\] -** Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
+-   **Shatter Spear \[Rare Talent, Frostdraw\] -** Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
+    -   In the May 15, 2023 update, Shatter Spear was removed as it became a base behavior for Ice Lance.
+-   **Silencer's Edge \[Common Talent, Galebreathe\] -** Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
     -   In the December 1st, 2023 update, Silencer's Edge was merged into Silencer's Blade.
--   **Skull Crusher \[Rare Talent, Galebreathe Exclusive\] -** Pressing F during Champion's Whirlthrow will throw your opponent straight down.
+-   **Skull Crusher \[Rare Talent, Galebreathe\] -** Pressing F during Champion's Whirlthrow will throw your opponent straight down.
     -   In the January 26th, 2024 update, Skull Crusher was made base behavior for Champion's Whirlthrow.
--   **Stormcaller Slash \[Common Talent, Thundercall exclusive\] -** Call forth the fury of storms by pressing F at the end of your move.
+-   **Stormcaller Slash \[Common Talent, Thundercall\] -** Call forth the fury of storms by pressing F at the end of your move.
     -   After using Lightning Blade, press F within a second afterwards delivers extra attacks.
     -   In the January 19th, 2024 update, Stormcaller Slash was made base behavior for Lightning Blade.
 -   **Subsistence \[Rare talent, Intelligence\] -** As a skilled apothecarian, you are more accustomed to potions and gain graeter benefits from ingesting potions that affect your regeneration. (+3 Health)
     -   In the December 1st, 2023 update, Subsistence was merged into Potion Quaffer.
--   **The Old Wind \[Common Talent, Galebreathe Exclusive\] -** Glide straight with the power of Gales. (+4 Elemental Intensity)
+-   **The Old Wind \[Common Talent, Galebreathe\] -** Glide straight with the power of Gales. (+4 Elemental Intensity)
     -   With this talent, your glider would travel almost entirely horizontally instead of at a diagonal.
     -   In the December 1st, 2023 update, The Old Wind was merged with Aerogliding.
 -   **The Thinker \[Common Talent\] -** Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
     -   Was removed with Verse 2 update.
--   **Third Interrogation \[Thundercall Exclusive\] -** Electrified attacks do 50% less damage to you.
+-   **Third Interrogation \[Common Talent, Thundercall\] -** Electrified attacks do 50% less damage to you.
     -   In the October 6th, 2023 update, Third Interrogation was merged into Second Interrogation.
--   **Thorns of Fire \[Common Talent, Flamecharm Exclusive\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
-    -   The Talent was removed from the game with October 6, 2023 update, as it became a base behavior for Flame Repulsion.
+-   **Thorns of Fire \[Common Talent, Flamecharm\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
+    -   In the October 6th, 2023 update, Thorns of Fire was removed from the game as it became a base behavior for Flame Repulsion.
 -   **True Pain \[Rare Talent, Light\] -** Your Critical Strikes Can Now Crit (+2 Health)
     -   In the December 16th, 2023 update, True Pain was removed due to Knife's Journey rework.
 -   **(Old) Twisted Puppets \[Common Talent, Dual Attunement\] -** Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
     -   In the December 16th, 2023 update, Twisted Puppets was removed and replaced with Wraith Path: Twisted Puppets.
--   **Unyielding Focus \[Common Talent\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
+-   **Unyielding Focus \[Common Talent, Willpower\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
     -   In the January 3rd, 2023 update, Unyielding Focus was merged into Disbelief.
--   **Uproar \[Common Talent\] -** When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration. Landing a hit on another player will end your Uproar.
-    -   In the January 18th, 2025 update, Uproar was removed from the game due to devs not able to balance this talent right.
--   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
+-   **Uproar \[Common Talent, Fortitude\] -** When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration. Landing a hit on another player will end your Uproar.
+    -   In the January 18th, 2025 update, Uproar was removed from the game due to the developers not being able to balance this talent right.
+-   **Vanishing Follow-up \[Legendary Talent, Agility\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
+    -   In the December 23nd, 2022 update, Vanishing Follow-up was removed from the game
 -   **Vital Point \[Common Talent, Agility\] -** Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   In the January 13th, 2022 update, Vital Point was merged into Lights out.
--   **Volt Kick \[Common Talent, Thundercall Exclusive\] -** After landing a lightning kick successfully, press \[F\] to followup on your opponent with a less potent kick. (+7 Carry Load)
+-   **Volt Kick \[Common Talent, Thundercall\] -** After landing a lightning kick successfully, press \[F\] to followup on your opponent with a less potent kick. (+7 Carry Load)
     -   In the August 30th, 2024 update, Volt Kick became base behavior for Thunder Kick.
--   **_Warrior's Respite_ \[Rare Talent\] -** Stop moving for 15 seconds in order to initiate healing.
+-   **Warrior's Respite \[Rare Talent, Fortitude\] -** Stop moving for 15 seconds in order to initiate healing.
     -   In the April 15th, 2025 update, Warrior's Respite talent was made innate.
--   **Wildfire \[Common Talent, Flamecharm Exclusive\] -** Pressing \[F\] before releasing your Fire Palm will release a wider but shorter flame.
+-   **Wildfire \[Common Talent, Flamecharm\] -** Pressing \[F\] before releasing your Fire Palm will release a wider but shorter flame.
     -   In the August 16th, 2024 update, Wildfire became base behavior Fire Palm.
 
 ## Other
@@ -251,7 +271,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Original Guild Housing -** A cut feature that allowed guilds to have bases on set plots on islands.
     -   Added in the 12/23/22 Verse 2 Update, however with a much more fluid system, being able to make a door for your Guild Base anywhere at any time to enter it, instead of being only on specific islands.
 -   **Officer's Note -** An item dropped by Authority mobs that was originally part of a cut quest. It was removed a few weeks after the game's release.
--   **Original Sacks** **\-** Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 cloths and would let the player carry chests by stuffing them inside. This was likely used in conjunction with the Locked Chest system.
+-   **Original Sacks -** Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 cloths and would let the player carry chests by stuffing them inside. This was likely used in conjunction with the Locked Chest system.
 -   **Renewed Ambition -** A visual indicator for meeting one of your requirements for levelling. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
 -   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[2\]](#cite-note-2)
 -   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).
@@ -259,7 +279,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
     -   Psia was the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
 -   **Sparring Instructor -** Sparring with the instructor used to cost 20 notes. You could also spar with another player by talking to the Instructor NPC.
--   **Stormcaller** **\-** An NPC in earlier versions of the game would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
+-   **Stormcaller -** An NPC in earlier versions of the game would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
 
 ## References

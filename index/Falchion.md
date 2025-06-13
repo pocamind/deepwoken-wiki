@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 145283
+revid: 146534
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Alloyed Weapons, Weapons with Unique Criticals, Swords]
@@ -24,7 +24,7 @@ categories: [Weapons, Alloyed Weapons, Weapons with Unique Criticals, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in:, Lower Erisia, Deep Widow, Lodestar, Dread Serpent, Chime of Conflict |
+| obtainment | Chests in:, Lower Erisia, Deep Widow, Lodestar, Dread Serpent, Chime of Conflict, Template:AlloyedColor, Sold by Trahne Zakshun for |
 | description | "A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production." |
 
 ## Description

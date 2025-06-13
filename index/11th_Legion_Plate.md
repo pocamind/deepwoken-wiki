@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 146478
+revid: 146538
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Hundred Legions]
@@ -34,6 +34,7 @@ This Outfit's Schematic can be obtained from:
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Deep Widow](Deep_Widow.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
+-   [Trahne Zakshun](Traan_Zakshun.md) by purchasing it for
 
 ## Trivia/Notes
 

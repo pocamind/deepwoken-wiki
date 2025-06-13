@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 146513
+revid: 146519
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the First Layer]
@@ -59,7 +59,7 @@ Sold Items
   <ul>
     <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Merchant_Robes.md">Merchant Robes</a>.</li>
     <li><b><font>Adept</font></b>: <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>.</li>
-    <li><b><font>Expert</font></b>: <a href="Pathfinder_Arch-Sorcerer.md">Pathfinder Arch-Sorcerer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a></li>
+    <li><b><font>Expert</font></b>: <a href="Pathfinder_Arch-Sorcerer.md">Pathfinder Arch-Sorcerer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a></li>
     <li><b><font>Master</font></b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
   </ul></td>
 </tr>
