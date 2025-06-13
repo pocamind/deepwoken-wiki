@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 146537
+revid: 146552
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Equipment, Outfits]
@@ -42,14 +42,13 @@ Two equipment of the same type (e.g. Leather Boots and Enforcer Boots) are combi
 
 -   **It costs 1000 notes (Summer Isle) or 800 notes (Guild Base) to smelt equipment.**
 -   **The _first piece_ you hold out is the one you _keep the stats of_, while the _second piece_ is the one you _keep the appearance of._**
-    -   The dye from the second piece also carries over.
+    -   This does not apply to dyes; if one or both pieces are dyed, the first piece's dye will take priority over the second piece's.
 -   Once an item is smelted it can't be unsmelted.
 -   What carries over from the first item held:
     -   Stats
     -   Equipment [Talents](Talents.md) (including Blinded)
     -   Enchantments (_The enchanted item will remain soulbound if worn/equipped previously_)
     -   Stat requirements (_You can smelt the appearance of an item you don't have the stat requirements to equip onto an item that you do_) (pictured)
--   Smelting a _dyed piece of gear with an undyed piece of gear_ will cause the dyed gear to _**revert back to its original coloration**_ upon being smelted.
 -   Smelting items **WILL NOT** soulbind the new item, even if you equip it, unless the new smelted item is enchanted afterwards. You can equip/unequip and drop them as you please. (?)
     -   _Do note that this means you have potential to drop this smelted item upon death if it isn't being worn._
 -   If you back out of the dialogue without completing the smelt, [Jarvis](Jarvis.md) (or the guild Artisan) will hold the items for you until you come back.

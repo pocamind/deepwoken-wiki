@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 146540
+revid: 146553
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items, Alchemy]
@@ -16,13 +16,15 @@ Alchemy is the process of creating potions at a [Cauldron](Cauldron.md). Potions
 
 To brew a potion, you hold ingredients in your hand, add them to a cauldron by clicking on it, and then press E to mix all the ingredients in the cauldron into a potion. Each ingredient has a unique combination of effects, and a potion's effect is the sum of all the effects from ingredients used in the potion. Up to 3 copies of the same ingredient can be used in a potion, and up to 5 ingredients can be used in total - exceeding these limits will result in a diluted potion, with reduced effects. A table of all ingredient effects can be found further down the page.
 
+Potion Potency is a stat found on all potions. This stat increases the effectiveness of all potion effects by a percentage. Potion Potency is equal to your Intelligence [attribute](Attributes.md) divided by 2. This caps at 50% with 100 Intelligence, going above 100 Intelligence won't grant more Potency. Additionally, the _Apothecary_ Talent grants +125% Potency.
+
 ### Using Potions
 
-Once brewed, potions can be drunk by holding them and pressing M1. Drinking a potion takes 2 seconds, prevents you from sprinting or rolling, and will be cancelled (wasting the potion) if you take damage while drinking. Drinking potions has a 20 second cooldown called "Potion Sickness". If you drink a potion during the cooldown, you will throw up and will not get the potion effect.
+Once brewed, potions can be drunk by holding them and pressing M1. Drinking a potion takes 2.35 seconds, prevents you from sprinting or rolling, and will be cancelled (wasting the potion) if you take damage while drinking. Drinking potions has a 20 second cooldown called "Potion Sickness". If you drink a potion during the cooldown, you will throw up and will not get the potion effect. Potions last 15s by default.
 
 You can also throw potions by holding them and pressing E - this usually applies a slightly weaker version of the potion effect to anyone standing near the potion when it explodes. It takes approximately 2 seconds to throw a potion, and you can only throw a potion once your previous potion has landed, but if you have multiple different potions (in different inventory slots), you can throw one of each at a time. Throwing a potion can be done while sprinting and does not slow you down. Throwing potions also allows you to apply the effects of multiple potions at the same time, effectively bypassing the potion cooldown.
 
-Only one potion effect can be active at a time. Applying a new effect to a character that already has a potion effect will clear that effect. Characters currently under the effect of a potion will have a particle effect, with the colour seeming to depend on the type and intensity of the effect. Most effects are yellow or purple with more intensity at higher strength.
+Only one potion effect can be active at a time. Applying a new effect to a character that already has a potion effect will clear that effect. Characters currently under the effect of a potion will have a particle effect, with the color seeming to depend on the type and intensity of the effect. Most effects are yellow or purple with more intensity at higher strength.
 
 Using the [Saltchemist](Oath%253A_Saltchemist.md) Oath, it is possible to generate an infinite supply of 3 potions of your choice, by adding them to the Perpetual Distillery. Each of the three potions will be bound to a key, and can be set to either "throw" or "drink" mode. Pressing a potion's key will use the potion, with a 40 second cooldown per potion. Using a "drink" mode potion will place all other "drink" mode potions that share an effect on cooldown, though the same restriction does not apply to "throw" mode potions.
 
@@ -39,34 +41,32 @@ There are many functioning cauldrons scattered throughout the Luminants. You are
 Every ingredient has a number of effects - usually one positive and one negative, with some exceptions. For example, adding a [Redd](Redd.md) to a potion will cause the potion to instantly restore a small amount of health (the _Rejuvenating_ effect), and also drain your Ether for 15 seconds (the _Icky_ effect). Potions grant the additive sum of every effect of every ingredient they contain but are named only after their strongest effect. When Redds are used to brew a potion, the strongest effect is the _Icky_ effect, so the potion will have the _Icky_ prefix, though it's important to note it still has the _Rejuvenating_ effect.
 
 The effects of multiple ingredients can be combined by brewing them together. A maximum of 3 ingredients of the same type can be added to a potion, as well as a maximum of 5 total ingredients. Going over these limits will severely weaken the potion's effects, likely turning it into a Diluted potion.  
-Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with opposing effects will weaken them. For example, one of Gathered Wheat's effects is ether regeneration. Adding wheat to a potion containing Redds will cancel out the Redd's ether drain effect, and in the correct ratio, can produce a potion with the _Rejuvenating_ prefix.
+Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with opposing effects will weaken them. For example, one of Gathered Wheat's effects is ether regeneration. Adding Wheat to a potion containing Redds will cancel out the Redd's ether drain effect, and in the correct ratio, can produce a potion with the _Rejuvenating_ prefix.
 
 Potions containing only a single ingredient suffer a heavy penalty to the strength of all effects (usually resulting in a Diluted potion). This penalty can be avoided by adding any ingredient, including more copies of the same ingredient or ones with no effect.
 
-The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three unique "salts", which can all be added to a potion without affecting the number of ingredients. All three salts can be added to a 5 ingredient potion without diluting it, and adding a salt to a potion with only one ingredient does not avoid the penalty for single-ingredient potions.
-
-Finally, any potion with a positive Health Regeneration effect has its duration reduced by 3 seconds. This duration reduction is constant, regardless of the strength of the health regeneration effect.
+The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three unique "salts", which can all be added to a potion without affecting the number of ingredients. All three salts can be added to a 5 ingredient potion without diluting it, and adding a salt to a potion with only one ingredient does not avoid the penalty for single-ingredient potions. More information on the Saltchemist Salts can be found on this page [here](#salts) or on the [Saltchemist](Oath%253A_Saltchemist.md) page.
 
 ### Talents and Other Modifiers
 
 Potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. Potency increases linearly with intelligence; each point of intelligence counts for a 0.5% increase in potency for potions and caps out at 50% upon reaching 100 intelligence. Additionally, Talents in the [Alchemist](Talents.md#alchemist) category increase the effects of potions:
 
--   Potions prepared by characters with the Apothecary Talent have amplified positive effects when consumed, and amplified negative effects when thrown, with the exact modifier being unknown.
+-   Potions prepared by characters with the **Apothecary** Talent have their Potency increased by 125%. This stacks additively with Potency granted through [Intelligence](Attributes.md) investment.
+    -   Apothecary is treated as a potion ingredient, and as such, it will stay active on your previously brewed potions even if you no longer have the talent.
     -   This Talent can easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>).
--   When brewing potions with the Wild Alchemy Talent, there is a 25% chance to produce 2 potions instead of 1.
--   The Potion Quaffer Talent reduces the slowdown from drinking potions, reduces time to drink by 30%, and increases the regeneration of health regeneration potions by 15%, as well as ether regeneration and sanity regeneration potions by 30%. The 25% negative duration of health potions is removed.
--   The Placebo Effect Talent applies potion effects to your allies when you drink a potion near them.
--   The Chain Reaction Talent amplifies the effects of potions if they are applied to characters that already have one (replacing the old effect). It also adds a 25% chance not to use up a potion when drinking one.
--   The Chemist's Bag Talent causes potions to no longer be dropped on death.
--   The Pitcher Talent allows potions to be thrown further. It is the only potion related Talent not found in the Alchemist category.
+-   When brewing potions with the **Wild Alchemy** Talent, there is a 25% chance to produce 2 potions instead of 1.
+-   The **Potion Quaffer** Talent reduces the slowdown from drinking potions, reduces time to drink by 30%, and increases the regeneration of health regeneration potions by 15%, as well as ether regeneration and sanity regeneration potions by 30%. The 25% negative duration of health potions is removed.
+-   The **Placebo Effect** Talent applies potion effects to your allies when you drink a potion near them.
+-   The **Chain Reaction** Talent increases potion effectiveness of thrown potions by 40% when they replace a pre-existing potion effect (you need to throw a potion at someone who's already affected by a potion effect). It also adds a 25% chance not to use up a potion when drinking one.
+-   The **Chemist's Bag** Talent causes potions to no longer be dropped on death.
 
 Unlike the other effects, the duration of a potion is unaffected by any of these modifiers. A potion's duration is always the same for any given combination of ingredients.
 
 ## Ingredients
 
-There are 50 ingredients that can be added to a potion, though only 20 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
+There are 52 ingredients that can be added to a potion, though only 22 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
 
-If multiple ingredients have the same listed effect strength (for example, are multiple ingredients listed as "strongest"), they have the exact same effect strength. It is currently untested if the strongest version of each effect is gained through using the best ingredients, or the best ingredients for the opposite effect with an Antithetic Salt.
+A spreadsheet listing the effects of all potion ingredients can be found [here](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vTvoa3q-3DmosOWmH6AkX1bfMBq4wfbW11Kybf_vt4DaAa-FGAzTPsHn-CWR4wEqXwyEudmKeR5JwPr/pubhtml).
 
 <table><caption>Key</caption>
 <tbody>
@@ -79,41 +79,72 @@ If multiple ingredients have the same listed effect strength (for example, are m
 
 | Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Duration |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-5% | \-5% |  | +0.25\* |  |  |  |  |
 | [Bamboo](Bamboo_Bundle.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
-| [Beeswax](Beeswax.md) |  |  |  |  |  | \-5% | +85% |  |  |  |
+| [Beeswax](Beeswax.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |
 | [Bluecap](Bluecap.md) | \-5 | +18 |  |  |  |  |  |  | +3.75/s |  |
 | [Browncaps](Browncap.md) | \-4 |  | +2% |  |  |  |  |  |  |  |
-| [Calabash](Calabash.md) |  |  |  |  | +10% |  |  | \-19.85% |  |  |
-| [Chum](Chum.md) |  |  |  |  |  |  |  |  | Strongest |  |
-| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-5% | \-5% |  | +0.25 |  |  |  |  |
+| [Calabash](Calabash.md) |  |  |  |  | +10% |  |  | \-19.85%\*\*\* |  |  |
+| [Chum](Chum.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
 | [Crustacean Meat](Crustacean_Meat.md) |  |  | \-7% |  |  |  |  |  |  | +20% |
 | [Dentifilo](Dentifilo.md) | \-2 | +18 |  |  |  |  |  |  |  |  |
-| [Gobletto](Gobletto.md) |  |  |  |  |  | \-5% | +85% |  |  |  |
+| [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |
 | [Marram Grass](Marram_Grass.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
 | [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |
 | [Plumfruit](Plumfruit.md) |  |  | +2% |  |  |  | \-30% |  |  |  |
-| [Pomar](Pomar.md) | \-3 |  |  |  |  | +0.25 |  |  |  |  |
-| [Redd](Redd.md) | +4 |  |  |  |  |  |  | \-19.85% |  | \-25%\* |
-| [Sap](Sap.md) |  |  |  |  |  | \-5% |  | +90% |  |  |
-| [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | 0.1/s |  |
-| [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | 0.1/s |  |
+| [Pomar](Pomar.md) | \-3 |  |  |  |  | +0.25\* |  |  |  |  |
+| [Redd](Redd.md) | +4 |  |  |  |  |  |  | \-19.85%\*\*\* |  | \-25% |
+| [Sap](Sap.md) |  |  |  |  |  | \-5%\* |  | +90% |  |  |
+| [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
+| [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
 | [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  | +50% |
-| [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | 0.1/s |  |
+| [Thresher Egg](Thresher_Egg.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
+| [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
 | [Wheat](Gathered_Wheat.md) |  |  | \-7% |  |  |  |  | +90% |  |  |
+
+\* Potion speed boost modifiers are calculated as √(1 + n) with n being the amount of speed boost components in the potion. E.g. 3 Pomar and 2 Alestrian Coral would give √(1 + 1.25) = √(2.25) = 1.5x or +50% speed.  
+\*\* Players innately have a 25% resistance to slows unless they're casting a Mantra, meaning in effect, this is -3.75%.  
+\*\*\* This is very likely not -19.85% in the code, but Ether regeneration in general has a sort of "randomness" to it, and this was the best fit average when testing.
 
 Eating an ingredient will give you a weaker version of the effects it would normally give you if brewed in a potion. This can be used to remove an existing potion effect.
 
-Eggs, Lotuses, all types of Fish, Fish Meat, Galewax, Sticks and all types of minerals are also valid ingredients, but don't have any known effect after thorough testing.
+Eggs, Lotuses, all types of Fish, Fish Meat, Galewax, Sticks and all types of minerals are also valid ingredients, but don't have any effect. This can be useful, as potions with only 1 ingredient will have their effects halved, so adding 1 ingredient with an inert effect will counteract this.
 
 ### Salts
 
 The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three salts, which can be added to any potion at no cost. These salts do not affect the number of ingredients in the potion (so they can be added to a 5 ingredient potion) and multiple different salts can be added to the same potion. Any potion created with these salts no longer be droppable and cannot be banked, meaning they will become locked to your [Saltchemist](Oath%253A_Saltchemist.md) character, if you wish to create potions for a friend or different character, avoid using these.
 
-Biotic Salts alter the potion to provide halved negative effects when applied to allies (including yourself), and halved positive effects when applied to enemies. This salt is strictly positive and should be added to all potions, unless you plan to give them to a friend.
+**Biotic Salts** alter the potion to provide halved negative effects when applied to allies (including yourself), and halved positive effects when applied to enemies. This salt is strictly positive and should be added to all potions, unless you plan to give them to a friend.
 
-Aromatic Salts cause the potion effect to linger when thrown for 10 seconds. A couple times per second, anyone standing in the effect radius will have the potion effect applied to them - this can be used to trigger Chain Reaction and applies any instant effects repeatedly. The duration of the lingering cloud is not affected by duration modifiers on the potion (such as spider eggs), though the potion effect applied by the cloud is affected by duration modifiers as normal. This salt can be a net negative if the potion has an undesirable instant effect, though in most cases it simply makes it easier to apply the potion effect and can improve the effective duration of the effect by up to 10 seconds.
+**Aromatic Salts** cause the potion effect to linger when thrown for 10 seconds. A couple times per second, anyone standing in the effect radius will have the potion effect applied to them - this can be used to trigger Chain Reaction and applies any instant effects repeatedly. The duration of the lingering cloud is not affected by duration modifiers on the potion (such as spider eggs), though the potion effect applied by the cloud is affected by duration modifiers as normal. This salt can be a net negative if the potion has an undesirable instant effect, though in most cases it simply makes it easier to apply the potion effect and can improve the effective duration of the effect by up to 10 seconds. This also reduces the effectiveness of your potion's **positive effects** (excluding duration) by 80%. Blocking a splash potion will halve its effectiveness and duration.
 
-Antithetic Salts invert the effects of all ingredients used in the potion. This doubles the variety of potions that can be brewed and can sometimes be used to make stronger versions of an effect than would otherwise be possible. For instance, a stronger slowing potion can be created by brewing a speed potion with Pomar and Alestrian Coral, then inverting it, instead of using the comparatively weak slowing effect of Sap and Goblettos.
+**Antithetic Salts** invert the effects of all ingredients used in the potion. This doubles the variety of potions that can be brewed and can sometimes be used to make stronger versions of an effect than would otherwise be possible. For instance, a stronger slowing potion can be created by brewing a speed potion with Pomar and Alestrian Coral, then inverting it, instead of using the comparatively weak slowing effect of Sap and Goblettos.
+
+## Miscellaneous information
+
+**Damage potions** will deal 75% less damage if not landed directly (if only the splash effect lands). Damage potions can also be buffed by damage modifiers and have the same PvE scaling as a 1x swingspeed weapon.
+
+**Positive Health** potions are 25% less effective than their ingredients would suggest, and are reduced by a further 50% in combat. The _Potion Quaffer_ Talent removes the innate 25% effectiveness decrease, granting them full effectiveness outside of combat and 50% effectiveness during combat.
+
+**Health Regeneration** potions have a reduce effect in combat, giving +60% per ingredient instead of +85%. Additionally, any potion with a positive health regeneration ingredient will have its base duration reduced to 11.25s (also lowering the effectiveness of duration affecting ingredients).
+
+**Health Gain and Health Regeneration** potions, whether positive or negative, take 1.2s longer to drink while in combat, bringing the total drink animation's duration to 2.55s up from 2.35s.
+
+**Ether Regeneration** potions' Ether regeneration is separate from normal Ether regeneration, and is not affected by Ether regen modifiers like [Deficient](Boons_and_Flaws.md#flaws), Ether [food buff](Food.md), [outfit](Outfits.md) Ether regen boost, etc.
+
+**Potion Sickness** duration scales with ingredients that modify the duration of the potion. Potion Sickness by default lasts 20 seconds.
+
+-   **Positive Duration** increases the Potion Sickness duration by the amount of time it would increase a 15 second duration potion in seconds.
+    -   E.g. 1 Spider Egg (+50% duration) would look like this: 20 + (15 x .5) = 20 + 7.5 = 27.5s Potion Sickness.
+-   **Negative Duration**: increases the Potion Sickness duration by 10s minus the amount it would reduce a 15 second duration potion in seconds.
+    -   E.g. 2 Redds (-50% duration) would look like this: 20 + 10 - (15 x .5) = 30 - 7.5 = 22.5s Potion Sickness.
+
+**Damage Debuff** is the only potion effect with a set cap, capping at -50% damage dealt.
+
+**Diluted Potions** are created in one of two ways. Either you have more than 3 of the same ingredient on a potion or you went over the 5 ingredient limit (note that Apothecary and Saltchemist Salts do not count towards this limit).
+
+1.  If you have more than 3 of the same ingredient, all effects on your potion will be halved. For example, 3 Bluecaps = 15 damage (3 x 5) vs 4 Bluecaps = 10 damage ((4 x 5))/2.
+2.  If you have more than 5 ingredients, all effects on your potion will be halved, additionally the remaining effects will be divided by the amount of ingredients that went over the cap. For example, 6 Bluecaps + 6 Browncaps = 3.85 damage (((5 x 6) + (4 x 6))/2)/(12-5).
 
 ## Effects
 
@@ -134,7 +165,8 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Blight<br>
   Potion<br>
   Blight</td>
-  <td>Bamboo Bundle</td>
+  <td>Bamboo Bundle<br>
+  Marriam Grass</td>
   <td>Instantly decrease ether</td>
   <td>Opposite effect to <b>Soothing.</b> Signified by pastel green particles.</td>
 </tr>
@@ -152,9 +184,10 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td><b>Disgusting</b></td>
   <td>Bane<br>
   Blight</td>
-  <td>Bluecap<p>Browncap</p>
-  <p>Dentilfo</p>
-  <p>Pomar</p></td>
+  <td>Bluecap<br>
+  Browncap<br>
+  Dentilfo<br>
+  Pomar</td>
   <td>Instantly deals a small amount of damage.</td>
   <td>Opposite effect to <b>Rejuvenating</b>.<p>The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option. The damage is affected by PvE scaling, however, making them a decent choice when attempting to kill a mob while running away or dealing damage from where it can't reach you. It is currently unknown by exactly how much the damage is increased.</p></td>
 </tr>
@@ -170,8 +203,9 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Potion<br>
   Bane<br>
   Blight</td>
-  <td>Crustacean Meat<p>Gathered Wheat</p>
-  <p>Alestrian Coral</p></td>
+  <td>Crustacean Meat<br>
+  Gathered Wheat<br>
+  Alestrian Coral</td>
   <td>Reduces damage dealt.</td>
   <td>Opposite effect to <b>Strengthening</b>.<p>Likely a percentage decrease, and scales less than other potion effects.</p></td>
 </tr>
@@ -187,8 +221,9 @@ Tiers are listed in order of strength, with the strongest tier listed first.
 </tr>
 <tr>
   <td><b>Icky</b></td>
-  <td>Potion<p>Bane<br>
-  Blight</p></td>
+  <td>Potion<br>
+  Bane<br>
+  Blight</td>
   <td>Calabash<br>
   Redd</td>
   <td>Rapidly drain Ether from affected targets</td>
@@ -197,8 +232,10 @@ Tiers are listed in order of strength, with the strongest tier listed first.
 <tr>
   <td><b>Focusing</b></td>
   <td>Elixir<br>
-  Salve<p>Tincture</p></td>
-  <td>Gathered Wheat<p>Sap</p></td>
+  Salve<br>
+  Tincture</td>
+  <td>Gathered Wheat<br>
+  Sap</td>
   <td>Greatly increase Ether regeneration.</td>
   <td>Opposite effect to <b>Icky</b>.<p>Very quickly begins to grant a flat amount of Ether every tick as it increases in potency, making it very hard to run out of Ether while active.<br>
   The strongest effect on wheat is Dulling; prior to the addition of Saltchemist, a potion with the Focusing prefix could only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient like Browncaps.</p></td>
@@ -217,9 +254,14 @@ Tiers are listed in order of strength, with the strongest tier listed first.
 <tr>
   <td><b>Mindbreaker</b></td>
   <td>Bane<br>
-  Blight<p>Potion</p></td>
-  <td>Urchin<p>Seaweed Bundle Scallop Chum</p></td>
-  <td>Gives Insanity.</td>
+  Blight<br>
+  Potion</td>
+  <td>Urchin<br>
+  Seaweed Bundle<br>
+  Scallop<br>
+  Chum<br>
+  Thresher Egg</td>
+  <td>Gives Insanity over time.</td>
   <td>Opposite effect to <b>Heartening</b>. Signified by bright purple particles.<p>Can prove surprisingly useful, as enemies at tier 3 <a href="Insanity.md">Insanity</a> are automatically gripped when downed and suffer from other consequences prior, and Manic is also a common flaw. Bear in mind it can help those that have Insanity-reliant Talents, though.</p></td>
 </tr>
 <tr>
@@ -248,17 +290,18 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Elixir<br>
   Salve</td>
   <td>Calabash<br>
-  Bamboo Bundle</td>
-  <td>Increases maximum posture for the duration of the potion.</td>
-  <td>Opposite effect to <b>Buckling.</b><p>Unknown if it functions as a flat or percentage increase.</p></td>
+  Bamboo Bundle<br>
+  Marriam Grass</td>
+  <td>Increases maximum posture by a percentage for the duration of the potion.</td>
+  <td>Opposite effect to <b>Buckling.</b></td>
 </tr>
 <tr>
   <td><b>Buckling</b></td>
   <td>Bane<br>
   Blight</td>
   <td>Ongo</td>
-  <td>Decreases maximum posture for the duration of the potion.</td>
-  <td>Opposite effect to <b>Steadfast.</b><p>Unknown if it functions as a flat or percentage increase.</p></td>
+  <td>Decreases maximum posture by a percentage for the duration of the potion.</td>
+  <td>Opposite effect to <b>Steadfast.</b></td>
 </tr>
 <tr>
   <td><b>Hastening</b></td>
@@ -273,8 +316,9 @@ Tiers are listed in order of strength, with the strongest tier listed first.
 <tr>
   <td><b>Slowing</b></td>
   <td>Blight</td>
-  <td>Beeswax<p>Gobletto</p>
-  <p>Sap</p></td>
+  <td>Beeswax<br>
+  Gobletto<br>
+  Sap</td>
   <td>Reduces speed for the duration of the potion.</td>
   <td>Opposite effect to <b>Hastening.</b><p>This potion type used to be impossible to make, as the ingredients used to make it had stronger properties which replaced the potion name. With the addition of <a href="Oath%253A_Saltchemist.md">Saltchemist</a>, the use of Antithetic salts on ingredients normally used for Hastening potions enabled its creation.</p></td>
 </tr>
@@ -294,10 +338,13 @@ Tiers are listed in order of strength, with the strongest tier listed first.
 </tr>
 <tr>
   <td><b>Diluted/Bland</b></td>
-  <td>Potion<p>Elixir Salve Tincture</p></td>
-  <td>Using invalid ingredients<p>Using too many ingredients</p></td>
+  <td>Potion<br>
+  Elixir<br>
+  Salve<br>
+  Tincture</td>
+  <td>Using more than 3 of the same ingredient<p>Using more than 5 ingredients in general (Apothecary and Saltchemist Salts do not count towards this limit)</p></td>
   <td>No effect.</td>
-  <td>Signified by pure white particles.<p>Primarily exists to show that something went wrong with brewing. Massively weakens the overall effect of the potion.</p></td>
+  <td>Signified by pure white particles.<p>Primarily exists to show that something went wrong with brewing. Reduces potion effectiveness by 50%. If you went above the 5 ingredient limit, it will divide the remaining effectiveness by the amount of ingredients that went over the limit.</p></td>
 </tr>
 </tbody>
 </table>

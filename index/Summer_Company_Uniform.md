@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 146463
+revid: 146555
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, Summer Company]
@@ -35,6 +35,7 @@ This Outfit's Schematic can be obtained from:
 -   [First Layer](First_Layer.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Trahne Zakshun](Traan_Zakshun.md) for
 
 ## Trivia/Notes
 

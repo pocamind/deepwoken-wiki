@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 138574
+revid: 146556
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters, The Children of Navae]
@@ -18,7 +18,7 @@ They are found in a prisoner pose, kneeled down on both knees and having their a
 
 You can pick them up using V. Dropping them will cause them to be knocked for a bit, and then they will get up in their usual prisoner pose. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, for they will not despawn unless you travel to a new Luminant.
 
-Bringing a Navaen Hostage to a [Nomad Leader](Eastern_Nomad_Leader.md) in the Etrean Wilds, Summer Isle, or the Eastern Camp Master will give you the [Way of Navae](Fists.md) style in the form of a [Talent](Talents.md), prompting a dialogue that will be shown below in the Gallery. Unlike popular belief, you do not need any **Light Weapon** points to equip [Way of Navae](Way_of_Navae.md), nor any of the other fist styles. You only need points in **Light Weapons** to equip a Cestus, but even then, the Iron Cestus only needs a fist style.
+Bringing a Navaen Hostage to a [Nomad Leader](Eastern_Nomad_Leader.md) in the Etrean Wilds, Summer Isle, or the Eastern Camp Master will give you the [Way of Navae](Fists.md) style in the form of a [Talent](Talents.md), prompting a dialogue that will be shown below in the Gallery. Unlike popular belief, you do not need any **Light Weapon** points to equip [Way of Navae](Way_of_Navae.md), nor any of the other fist styles. You only need points in **Light Weapons** to equip a Cestus, but even then, the [Iron Cestus](Iron_Cestus.md) only needs a fist style.
 
 Bizarrely, there are no NPCs in [Meteor Isle](Meteor_Isle.md) that will accept them.
 
