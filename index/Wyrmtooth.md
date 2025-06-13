@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 146564
+revid: 146567
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Greatswords]
@@ -48,7 +48,7 @@ The cooldown for the critical is **10 seconds**.
 -   Wyrmtooth proccing both Medium and Heavy Talents includes both the Medium and Heavy weapon variants of the [Silentheart](Oath%253A_Silentheart.md) moves, proccing the heavy ones if the medium ones are on cooldown.
 -   Before the update that granted Wyrmtooth the ability to do to proc Talents from both weapon classes, it could only proc medium Talents and [Destructive Recovery](Talents.md#colossus).
 -   Wyrmtooth uses the heavy weapon hit count for [Enchant](Enchantments.md) effects, being 3 hits. Due to the very high swingspeed, this can be exceptionally good.
--   In an update on 13th April, 2025, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame until June 9th, 2025, when the PEN was shadow fixed to 25%.
+-   In an update on 13th April, 2024, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame until June 9th, 2025, when the PEN was shadow fixed to 25%.
 -   Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.
     -   Both weapons share the same light attack animations.
 -   Both its criticals formerly lacked the universal windup VFX. Its sliding critical also lacked a sound cue.

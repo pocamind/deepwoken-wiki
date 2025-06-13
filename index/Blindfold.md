@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 146049
+revid: 146572
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -30,7 +30,6 @@ The Blindfolds are [Equipment](Equipment.md) items under the "Face" category. Th
 
 ## Trivia
 
--   I am genuinely going insane, can someone fact check the blindfold drops? I've only gotten normal blindfold from erisia and crimson from song, I literally cannot get the black one no matter what I try
 -   The Blindfold, Crimson Blindfold and Black Blindfold are all the same item, just with different appearances.
     -   Modelwise, the Crimson and Black blindfold are visually the exact same item, just with different colors.
 -   [Gremors](Gremor.md) get a small circle of clear vision around them when affected by the blinded talent.
