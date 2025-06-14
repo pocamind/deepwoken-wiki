@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 140293
+revid: 146600
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -20,7 +20,7 @@ A once normal steward seeking knowledge but now twisted into a mind of corruptio
 
 The Dread Serpent appears as a long, gray serpent-like dragon possessing four horns and eyes. It sports a black mane and beard, as well as a black fur that runs throughout its back, ending with a fire-shaped tail. It primarily uses the power of [Frostdraw](Frostdraw.md) to stop boats and prey alike.
 
-Upon defeat, a purple orb flutters toward the player, granting [Murmur: Ardour](Murmur%253A_Ardour.md). You must hit him at least once to obtain the Murmur. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Murmur.
+Upon defeat, a purple orb flutters toward the player, granting [Murmur: Ardour](Murmur%253A_Ardour.md). You must hit him at least once to obtain the Murmur. It will not be granted if you already have a [Murmur](Murmur.md), although the orb still spawns and it still says it granted you the [Murmur](Murmur.md).
 
 Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur%253A_Ardour.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown. The background information concerning the Dread Serpent is derived mainly from the lore book titled _[Lumen's Folklore: Volume 'North'.](Books.md#lumens-folklore-volume-north)_
 
@@ -59,7 +59,7 @@ Dodgeable:?
 
 Upon defeating The Dread Serpent, he will drop a large chest containing many different items including:
 
--   Multiple Mid-Late Game [Weapons](Weapons.md) for each weapon class, along with [Deep Gems](Deep_Gems.md), Legendary Rings and other [Equipment](Equipment.md).
+-   Multiple Mid-Late Game [Weapons](Weapons.md) for each weapon class, along with [Deep Gems](Deep_Gems.md), Legendary [Rings](https://deepwoken.fandom.com/wiki/Equipment#Rings) and other [Equipment](Equipment.md).
 -   Very Rarely a [Dormant Splinter](Dormant_Splinter.md).
 
 ### 

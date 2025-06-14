@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 144963
+revid: 146593
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons, The Ministry]
@@ -36,7 +36,7 @@ The Bloodfouler scales off [Heavy Weapons](Attributes.md) alongside [Bloodrend](
 2.  As a drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
 3.  As a drop from [The Understrand](The_Understrand.md) after defeating the [Ministry Agent](Ministry_Agent.md).
 
-When all three have been retrieved, they can be placed on the case that is right next to Volu, thus putting the Bloodfouler into your hands.
+~When all three have been retrieved, they can be placed on the case that is right next to Volu, thus putting the Bloodfouler into your hands.~ **Obtainment through tomes is currently bugged and will result in them being deleted from your inventory.**
 
 It can also be obtained as a direct drop from Chaser, as well as [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 

@@ -1,16 +1,18 @@
 ---
 title: Wood
-revid: 146588
+revid: 146632
 source: https://deepwoken.fandom.com/wiki/Wood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Craftable]
+categories: [Items, Craftable, Ingredients]
 ---
 
 # Wood
 
-| Wood | |
-|---|---|
-| usage | Crafting a Campfire Pit., Crafting a Glider or Sharkscale Glider., Crafting a Lumber Axe or Pickaxe., Crafting into a Repair Kit., Crafting into three (3) Sticks., Turning it in to Korin or Drefa for Etris Reputation., Repairing Boats |
+“ How much wood would a woodchuck chuck if a woodchuck could chuck wood? ”
+
+― A conspicuous Celtor
+
+Template:ItemTemplateNEW
 
 **Wood** is an essential resource used to craft tools and other materials.
 
@@ -23,7 +25,21 @@ Wood can be can be obtained in a few ways:
 -   Bought for or depending on the vendor.
 -   Crafting together three (3) Sticks.
 
+## Uses
+
+Wood can be used for the following:
+
+-   Crafting a [Campfire Pit](Campfire_Pit.md).
+-   Crafting a [Glider](Gliders.md) or Sharkscale Glider.
+-   Crafting a [Lumber Axe](Lumber_Axe.md) or [Pickaxe](Pickaxe.md).
+-   Crafting a [Repair Kit](Repair_Kit.md).
+-   Crafting into three (3) [Sticks](Stick.md).
+-   Turning it in to [Korin](Korin.md) or [Drefa](Drefa.md) for [Etris](Etris.md) [Reputation](Reputation.md).
+-   Repairing Boats.
+
 ## Locations
+
+Wood can be sold from the following locations:
 
 **Etrean Luminant:**
 

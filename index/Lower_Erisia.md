@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 141870
+revid: 146597
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -136,4 +136,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia/Notes
 
 -   Although the island is considered a starter island, high level players still usually come to this island, either just passing by to the higher places (Duke, Upper Erisia/Burning Stone Gardens) or they are here to boost their friend, so be careful.
--   The helpers at Isle and Etris say that Erisia is "crawling with opportunists," which refers to how many players (and enemies) roam Erisia looking for loot or opportunities. The phrase "who know not why they fight" is likely a reference to the bandits and thieves there.
+-   The helpers at Isle and Etris say that Erisia is "crawling with opportunists," which refers to how many players (and enemies) roam Erisia looking for loot or opportunities. The phrase "who know not why they fight" is likely a reference to the bandits and thieves there, as well as the ongoing conflict between [The Central Authority](The_Central_Authority.md) and [The Kingdom of Etrea](Etrea.md)
