@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Rhythm"
-revid: 145712
+revid: 146646
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Rhythm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -8,11 +8,13 @@ categories: [Murmurs]
 
 # Murmur: Rhythm
 
-## Murmur: Rhythm
+“ An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched. ”
 
-Template:ImageCaption Infobox_"An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched."_
+― Card description
 
-**Murmur: Rhythm** is one of the 3 [Murmurs](Murmur.md) that, when activated, will point out entities nearby. Similar to ESP, but range-limited. It also mutes background music and amplifies sounds made by entities, be that parrying or mantra usage for players, or sounds and attacks by mobs.
+## Overview
+
+Template:ImageCaption Infobox **Murmur: Rhythm** is one of the 3 [Murmurs](Murmur.md) that, when activated, will point out entities nearby. Similar to ESP, but range-limited. It also mutes background music and amplifies sounds made by entities, be that parrying or mantra usage for players, or sounds and attacks by mobs.
 
 Pressing G while crouched, the player will be granted vision of entities and where their event origin is. Entities, such as players, will emit a white ping, while event origin locations beat at 1/4 the speed of normal heartbeats and are yellow with white outlines in addition to being detectable from _much_ further away.
 

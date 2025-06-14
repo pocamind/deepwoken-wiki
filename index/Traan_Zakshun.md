@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 146583
+revid: 146649
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -65,6 +65,8 @@ Trahne's Salvaged Stock
 His item descriptions will change randomly(?) each time it hits his hourly rotation
 
 -   _A rare find indeed._
+-   Hey, you break it - you buy it
+-   Looks valuable, you should buy it!
 
 ## Shop Rotation
 
@@ -84,7 +86,7 @@ Sold Items
   </ul><p><b>For </b>:</p>
   <ul>
     <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Scholar.md">Scholar</a>.</li>
-    <li><b><font>Adept</font></b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>.</li>
+    <li><b><font>Adept</font></b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>.</li>
     <li><b><font>Expert</font></b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
     <li><b><font>Master</font></b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
   </ul></td>
@@ -110,7 +112,7 @@ Sold Items
     <li><b><font>Heavy Weapons</font></b>: TBA</li>
   </ul><p><b>For </b>:</p>
   <ul>
-    <li><b><font>Light Weapons</font></b>: TBA</li>
+    <li><b><font>Light Weapons</font></b>: <a href="Krulian_Knife.md">Krulian Knife</a>.</li>
     <li><b><font>Medium Weapons</font></b>: <a href="True_Seraph_Spear.md">True Seraph Spear</a>.</li>
     <li><b><font>Heavy Weapons</font></b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.</li>
   </ul></td>

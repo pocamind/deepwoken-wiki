@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 145716
+revid: 146658
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -54,3 +54,10 @@ A [Chrysid](Chrysid.md) wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) n
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Lake used to be sat on the broken bridge opposite the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
+-   Lake's hair IDs are:
+    -   8994112527 for the ponytail
+    -   9678815144 for the short hair/bangs

@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 146461
+revid: 146647
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -30,7 +30,8 @@ The [Lowstride](Talents.md#assassin) talent increases your [Stealth](Stealth.md)
 
 This outfit can be obtained from:
 
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md) for
+-   Sold by [Trahne Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md) for
 -   [Erisia](Erisia.md)
 -   [The Depths](The_Depths.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
