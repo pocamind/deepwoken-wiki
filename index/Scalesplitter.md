@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 144362
+revid: 146712
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Etrea, Alloyed Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Twinblades, Etrea, Alloyed Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fishing, Etris Siege, Chime of Conflict, Voidwalker Chests, The Depths, Diluvian Mechanism, Moon's Eyrie, Lodestar, Voidsea Event Chests, Pure Ore Turn-ins, Deep Widow (Chests), The UnderstrandTemplate:AlloyedColor, Alloying a Scalesplitter, Crypt of the Unbroken |
+| obtainment | Fishing, Etris Siege, Chime of Conflict, Voidwalker Chests, The Depths, Diluvian Mechanism, Moon's Eyrie, Lodestar, Voidsea Event Chests, Pure Ore Turn-ins, Deep Widow (Chests), The UnderstrandTemplate:AlloyedColor, Alloying a Scalesplitter, Crypt of the Unbroken, Sold by Trahne Zakshun for |
 | description | "An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles.", Template:AlloyedColor |
 
 ## Description

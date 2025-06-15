@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 146517
+revid: 146710
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1224,7 +1224,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   [Rising Flame](Flamecharm.md#rising-flame), [Rising Frost](Frostdraw.md#rising-frost), [Rising Thunder](Thundercall.md#rising-thunder), [Rising Wind](Galebreathe.md#rising-wind), or [Rising Shadow](Shadowcast.md#rising-shadow)
 
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
-    -   It heals 4% max HP.
+    -   It heals 4% max HP and restores ~15% max ether.
     -   Prerequisites: Meteor Impact, 40 Flamecharm
 
 ### Fang and Coil

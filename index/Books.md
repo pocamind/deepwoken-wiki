@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 144942
+revid: 146705
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -23,8 +23,9 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
 -   Ossuary Maintenance: [Greathive Aratel](Greathive_Aratel.md)
 -   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
--   The Song of Fathoms / Oscillation: [Castle Light](Castle_Light.md)
+-   The Song of Fathoms / Oscillation: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md)
 -   Strange Missives: [Greathive Aratel](Greathive_Aratel.md)
+-   Neatly Embelished Notebook: [Greathive Aratel](Greathive_Aratel.md)
 
 Some books are obtained as part of specific quests and cannot be found outside of them, and thus multiple copies cannot be obtained. Such books include:
 
@@ -1372,6 +1373,38 @@ Shoulder to shoulder, together, tall!
 > 
 > She looks hurt by this expression, and my glare turns to a somber gaze. “You were, ah.. struggling, out there. ” She mumbles, running her fingers over the spot on her hand which I swatted away moments earlier. I feel bad, but I already struggle enough to communicate with peers as is. A moment of silence passes, while she stands over me. I’m too ashamed to look up, as the reality of what has occurred begins to dawn upon me. “Vreia?” She speaks my name, and my thoughts are quickly interrupted. I shake my head, managing to speak for the first time in days, “..Yes?” Though, quiet as a mouse. Pathetic.
 
+  
+
+### Neatly Embelished Notebook
+
+> This notebook is neatly bound, embossed with rich iconographies of the Moonseye.
+> 
+> \[The pages are packed to the brim with scruffy diary entries, doodles, and administrative jargon, written in an almost-indecipherable script. Sheets of crumpled iridescent paper with aggressively slashed-out paragraphs bookmark the pages. Intrigued, you flip to one of the most recent entries, hoping to find something legible. It seems to be a brief list, hurriedly jotted down. You imagine it must've been misplaced, considering it was just lurking upon a shelf.\]
+> 
+> \------------
+> 
+> \- Week's s'pply of rations for the j'rney. Moonseye knows how long it'll take. - Make sure Konrad r'quests his new unif'rm upon arrival. He will forget. - Counsell doc'ments. MAKE SURE THEY'RE ORGANISED. Liviu has the right crates and bindings. Ens're the job is done. - Have the rest pr'pare the cargo at LEAST two days b'fore. We will not be forg'tting half our doc'ments again like last year. - Aud'ence with our Confessor. Perhaps He will let us in to speak with her this time.
+> 
+> Turning to the next page reveals a short diary entry, scribbled furiously.\]
+> 
+> \---
+> 
+> Not allow'd in. Again. Act'ng as if the Central Chamber is some exclus've little suite for Him and our Confessor only. OUR Confessor, Not his. Must be spectac'lar comp'ny, that damn'd sarcoph'gus. (Forgive me.) Counsell still trying t' appease me with some sec'nd-hand 'Good lucks' and 'May She prot'ct your j'rneys', but they know how much it'd mean to these new scholars t' receive her own pers'nal bless'ng b'fore this trip.
+> 
+> Especially consid'ring that we're lik'ly to have those Author'ty terrors breath'ng down our necks. Those scholars don't ev'n have a clue that there's ev'n a risk of our ship being pumm'lled by those barb'rous brutes as soon 's we leave the archipelago. They've no idea what an 'Author'ty is! W'ldn't it be nice to put th'm in a good mood? Instill th'm with good morale? No. Th' Vox refus's to see a soul.
+> 
+> Some oracle! Insists th' Confessor keeps her words f'r 'Nostri Eclipse or any oth'r grand ev'nt Moonseye's sake. He bar'ly even allows the Counsell in! They're flounder'ng without any substant'l decrees on the progress of th' Isles this year, but it seems the Vox is content with that. Or, well, it seems th' Confessor is content with that.
+> 
+> I'm not sure wh'ch. Some oracle, hm? Perf'ct at whipp'ng up tired crowds at the end of their pilgr'mage, but not at deliv'r'ng the most import'nt of advices? Or when he does, it's some impassion'd and nonsens'cal garble on "Th' danger of her'tics!!
+> 
+> No! We need this year's harv'st dates, not paranoid rambling!
+> 
+> Gah! What mess. I can only pray our j'rney is uninterrupted. May th' Confessor prot'ct us, whether we hear it from her or not. From all this examination of our own past, th' Acolyte has always been entitled t' receive an aud'ence with the Confessor, and her Vox. And now it's all d'fferent. Everything's d'fferent.
+> 
+> I'm convinced s'mething's awry. With the Vox, that is - I daren't quest'n our Confessor, I pray th' Counsell checks on that man's tinn'd brain, or whatever's left behind that clamp of a mask. Or perhaps this is just th' Confessor's will, and we ought t' follow it. Perhaps time will just need to tell. I've my own probl'ms at hand.
+
+  
+
 ### O Pardoner of Mine
 
   
@@ -1505,35 +1538,6 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > > \---
 > > 
 > > Minor. New burials permitted within the crypts of settlement Rusticam Mira, descendancy have provided necessary information to the archives. New burials permitted within the crypts of settlement Rusticam Kaelis, descendancy have provided necessary information to the archives. New burials permitted within the crypts of... \[The list of presumably minor changes stretches on for pages, uninteresting.\]
-> 
-> > \[CLASSIFIED\]
-> > 
-> > //-- The contents of this document are entrusted to reach Warden Class command. Should this document be found by Central Authority personnel ranking below Warden Class it is to be thoroughly destroyed in the scenario where it cannot be safely delivered to High Command. --// Authorized Operation : Puppet Master Classification : Opposition Commander Status Correspondent : Lotus - Authority Inquisitor, Class II Operation Status : Compromised
-> > 
-> >   
-> > //Operation\_Description
-> > 
-> > Operation Puppet Master is a Class II espionage operation. The Inquisitor assigned to this operation is to find the identity of Etrea's acting Lord Regent and keep log of interactions with Etris inhabitants. The nature of Class II forbades this Operation from resulting in unnecessary escalation.
-> > 
-> >   
-> > //Report 01\_Initial\_Encounters\_13:20
-> > 
-> > Initial surveyings of the public offered inconclusive or insufficient information on the identity of the Lord Regent. Few are willing to speak at all, let alone in great detail. I will need to apply different methods if I am to gather anything concrete. Perhaps one of the local guards could be of use.
-> > 
-> >   
-> > //Report 02\_Subject\_Interrogation\_01:00
-> > 
-> > Subject is a male Etrean guard by the name of Aster Leshi. Subject was removed from his night post and replaced with an Authority Soldier of similar likeness as to avoid suspicion from his colleagues. Subject responds well to initial attempts at Manipulative Thundercall probing but appears to only be able to offer surface level information. Subject describes the Lord Regent as a humble man who came into power when his grandparents were still young, but is either misinformed or delirious from the constant interrogation. Our reports suggest the Lord Regent has only been active in the Etrean Luminant for the past decade. Attempts to probe the Subject's mind further does not result in new details. Attempts at reaching further in to the subject's mind seem to stop short, as if being barricaded off. Tonight's questioning provided little value but the potential presence of a mind veil warrants keeping the subject for further interrogation.
-> > 
-> >   
-> > //Report 03\_Subject\_Interrogation\_05:00
-> > 
-> > Subject was interrogated again but was administered an amnesiac before questioning. Subject's answers on the identity of the Lord Regent seems to have changed, as the subject now claims to have met him as he was rising to power. He claims the Lord Regent saved the people of Etrea from the Authority in their time of need and even visited his home personally. The lack of any consistency in the subject's answers on the Lord Regent further confirms my suspicions. I knew the subject may very well be compromised if I attempted the procedure, but to be so close in making a discovery I persisted anyways. I increased the voltage of the Thundercall far beyond the limits of a normal hippocampal shock. The subject began to scream wildly as the voltage increased, the severity of the situation warranted the subject being terminated by the procedure if need be. The Subject began to lose control of all motor functions and spasm wildly, if he died then so would his secrets. Pouring all of my remaining ether into the attempt, the voltage continued to climb and climb and climb until I suddenly felt it. Exhausting the last of my ether in a final surge I felt the wall within the Subject's mind shatter. A horrible scream pierced my ears followed by a vision of a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its emerald eyes drilling straight into my consciousness. I awoke to the subject's body on the floor, eyes burnt out. There was no time to apply amnesics to those who may have known the Subject. Whatever the creature was that I had witnessed, it now knew I was here.
-> > 
-> >   
-> > //Report 04\_Extraction\_Summary\_09:00
-> > 
-> > I fear I may not escape back to Authority controlled space, but even if I were to find home I doubt I would ever find safety again. The Authority member left in the place of Aster Leshi did not rendevouz for our evacuation, yet somehow he speaks to me.. I hear him in my thoughts. I now know what I saw in that vision, by breaking that mind veil I was able to peer into the true form of that grotesque Lord. Following the breaking of the mind veil I have felt hands pulling at the edges of my mind, looking for recompense of the soul that was lost. The Etreans appear to have had a mental veil put over them in order to subjugate and control them, the same veil we Inquisitor's use as a shield. But this veil was different, it was cold and held like a leech siphoning its host. Authority veils are administered by a single handler, powerful seals like this require intense concentration to keep active. But a mental veil capable of subjugating an entire city? The very notion is unprecedented. This report must reach Warden Jericho's hands. Whatever this Lord Regent actually is, it is clear peace was never an option. This conflict between the Authority and Etrea is intentional and there are forces at play that we are yet to understand. Should I feel the hands of this creature pry too close to my mind, I will take the necessary measures to insure I am not captured.
 > 
 >   
 > 

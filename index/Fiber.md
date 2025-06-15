@@ -1,6 +1,6 @@
 ---
 title: Fiber
-revid: 146685
+revid: 146718
 source: https://deepwoken.fandom.com/wiki/Fiber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -29,6 +29,7 @@ Fiber can be used for the following:
 
 -   Crafting a [Fishing Rod](Fishing_Rod.md).
 -   Crafting in basically every Outfit.
+-   Crating a piece of [Cloth](Cloth.md).
 
 ## Locations
 

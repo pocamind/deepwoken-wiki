@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 146684
+revid: 146709
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -173,7 +173,7 @@ Sold Items
   </ul><p><b>For </b>:</p>
   <ul>
     <li><b><font>Light Weapons</font></b>: TBA</li>
-    <li><b><font>Medium Weapons</font></b>: [[Falchion#Alloyed|Template:AlloyedColor]].</li>
+    <li><b><font>Medium Weapons</font></b>: [[Falchion#Alloyed|Template:AlloyedColor]], [[Scalesplitter#Alloyed|Template:AlloyedColor]].</li>
     <li><b><font>Heavy Weapons</font></b>: TBA</li>
   </ul><p><b>For </b>:</p>
   <ul>
