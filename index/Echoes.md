@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 145058
+revid: 146737
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -58,7 +58,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 
 -   Gaining [Power](Power.md), awarding 0.75 Echoes (rounded) per Power level (15 Echoes at Power 20).
 -   Crafting a [Food](Food.md) item, awarding 1 Echo.
--   Catching a [Fish](Fishing.md), awarding 1 Echo. (Doesn't actually need to be a Fish, you just have to catch something with a Fishing Rod)
+-   Catching a [Fish](Fishing.md), awarding 1 Echo. (Doesn't actually need to be a Fish, you just have to catch something with a [Fishing Rod](Fishing_Rod.md))
 -   Modifying a [Mantra](Mantras.md), awarding 1 Echo. Mantra Modification needs to be successful.
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding 1 Echo.
@@ -66,10 +66,10 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
 -   Using a [Deep Shrine](Deep_Shrines.md), awarding 2 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
--   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes. ([Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) counts for this.)
+-   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your [Resonance](Resonance.md)), awarding 2 Echoes. ([Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) counts for this.)
 -   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
--   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a [Hero's Blade of Frost](Hero_Blades.md) or [Crypt Blade](Crypt_Blade.md), awarding 5 Echoes.
+-   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a [Hero Blade of Frost](<Hero's_Blade_of_Frost.md>) or [Crypt Blade](Crypt_Blade.md), awarding 5 Echoes.
 -   Using an [Enchant Stone](Enchant_Stone.md), awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes. (You will need 75 weapon requirement for most weapons in order to alloy them)
@@ -78,8 +78,8 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
 -   Defeating [Scion of Ethiron](Scion_of_Ethiron.md), awarding 10 echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
--   Completing [Layer 2](Second_Layer.md) floor 1 without Light Hook, awarding 10 Echoes.
--   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes. (You have to CHOOSE it, not just have the resonance roll) (WARNING: If, for whatever reason, you decide to reroll your resonance in the Fragments of Self, it will count as not having chosen the resonance and the task will be left INCOMPLETE, EVEN IF you managed to acquire a resonance before dying.)
+-   Completing [Layer 2](Second_Layer.md) floor 1 without [Light Hook](Light_Hook.md), awarding 10 Echoes.
+-   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes. (You have to CHOOSE it, not just have the Resonance roll) (WARNING: If, for whatever reason, you decide to reroll your Resonance in the Fragments of Self, it will count as not having chosen the Resonance and the task will be left INCOMPLETE, EVEN IF you managed to acquire a Resonance before dying.)
 
   
 
@@ -246,12 +246,12 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 </tr>
 <tr>
   <td><center><b>Lumber Axe</b></center></td>
-  <td><center>You start with a <a href="Lumber_Axe.md">Lumber Axe</a> to gather wood.</center></td>
+  <td><center>You start with a <a href="Lumber_Axe.md">Lumber Axe</a> to gather <a href="Wood.md">wood</a>.</center></td>
   <td><center>15 Echoes</center></td>
 </tr>
 <tr>
   <td><center><b>Fishing Rod</b></center></td>
-  <td><center>You start with a <a href="Fishing.md">Fishing Rod</a> to gather <a href="Fishing.md">fish</a>.</center></td>
+  <td><center>You start with a <a href="Fishing_Rod.md">Fishing Rod</a> to gather <a href="Fishing.md">fish</a>.</center></td>
   <td><center>15 Echoes</center></td>
 </tr>
 <tr>
@@ -278,27 +278,28 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 </tr>
 <tr>
   <td><center><b>Fragile Heart</b></center></td>
-  <td><center>Incoming damage from mobs is doubled.</center></td>
+  <td><center>All incoming mob damage is doubled.</center></td>
   <td><center><b>+50%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Crestfallen</b></center></td>
-  <td><center>Armor is permanently broken.</center></td>
+  <td><center>Your armor is permanently broken.</center></td>
   <td><center><b>+10%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Deep Champion</b></center></td>
-  <td><center>Your Depths trial is always corrupted.</center></td>
+  <td><center>Your <a href="Cathedral_of_the_Interstice.md">Depths trial</a> is always corrupted.</center></td>
   <td><center><b>+20%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Dissonant</b></center></td>
-  <td><center>You cannot use a Resonance. You are also unable to get the Ancient Soul Regalia.</center></td>
+  <td><center>You are unable to draw forth your <a href="Resonance.md">Resonance</a>.<br>
+  <small>(You can still obtain one, but you cannot use it.)</small></center></td>
   <td><center><b>+30%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Hollow</b></center></td>
-  <td><center>All overworld deaths send you to the Depths.</center></td>
+  <td><center>All overworld deaths send you to the <a href="First_Layer.md">Depths</a>.</center></td>
   <td><center><b>+10%</b></center></td>
 </tr>
 <tr>
@@ -318,7 +319,7 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 </tr>
 <tr>
   <td><center><b>High Velocity</b></center></td>
-  <td><center>All fall damage is heavily amplified.</center></td>
+  <td><center>All fall damage is heavily amplified, allowing you to die from falls much easier.</center></td>
   <td><center><b>+10%</b></center></td>
 </tr>
 <tr>
@@ -338,7 +339,7 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 </tr>
 <tr>
   <td><center><b>Vow of Thorns</b></center></td>
-  <td><center>Enhance your progression and chances for rarer mob loot. However, you are faced with harder trials and every death will send you to the depths.</center></td>
+  <td><center>Enhance your progression and chances for rarer mob loot. However, you are faced with harder <a href="Cathedral_of_the_Interstice.md">trials</a> and every death will send you to the <a href="First_Layer.md">depths</a>.</center></td>
   <td><center><b>+5%</b></center></td>
 </tr>
 <tr>
@@ -391,28 +392,29 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## Notes
 
--   Buying most echo upgrades will apply their effects to previously created slots. Any of the Starter Weapons Tools or Equipment, Starting Knowledge, and Starting Notes will not be applied to pre-existing slots.
+-   Buying most echo upgrades will apply their effects to previously created slots. Any of the Starter Weapons Tools or Equipment, Starting Knowledge, and Starting Notes will **not** be applied to pre-existing slots.
 -   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with Vow of Thorns AND Dealbreaker, it will still do this for unknown reasons.
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
     -   The [Boulder](Training_Gear.md)
-    -   Starvation
--   Kelsius' mantra hand and Deep Shrines do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
+    -   [Starvation](Status_Effects.md#starvation)
+-   [Kelsius'](Kelsius.md) Mantra hand and [Deep Shrines](Deep_Shrines.md) do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[2\]](#cite-note-2) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) does not reward Echoes.
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
--   Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) will also count for defeating the [Dread Serpent](Dread_Serpent.md), granting you the 5 Echoes you would've gotten if you had defeated the Dread Serpent. For obvious reasons, killing both will not award you with additional Echoes.
     -   The other [World Events](World_Events.md) do not grant Echoes.
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
+-   The [Leather Gloves](Leather_Gloves.md) and [Boots](Leather_Boots.md) from the Starting Equipment echo unlock can have quality stars and [enchantments](Enchantments.md).
+    -   Considering that you can sell these items immediately on spawn, this echo unlock can give much more Notes than the Starting Notes echo upgrade does, depending on your luck. This paired with Starting Notes when fully upgraded costing over 4 times what Starting Equipment does makes Starting Notes just not worth the echoes (not that it ever was to begin with).
 -   Not only does using the Idol of Yun'shul count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the Fragments of Self. However, your deal if used in fragments must **not** be Resonance Reroll, or it will most likely remove it from your completed tasks.
--   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a Vesperian, all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.
+-   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a [Vesperian](Vesperian.md), all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.
     -   After purchasing Multifaceted, any pre-existing slot that didn't invest into stats that were increased by their Aspect will be able to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to reallocate them.
-    -   Unfortunately, after purchasing Multifaceted, any pre-existing slot that had above 100 in any stat will have their points removed. You can still reallocate them, but you won't be able to go above 100 in any stat.
+    -   Unfortunately, after purchasing Multifaceted, any pre-existing slot that had above 100 in any stat will have all of their points above 100 uninvested. This also disallows you from going above 100 invest in any stat regardless of your aspect.
 -   Elementalist allows you to have more then 2 elements on character starts so rather then have just 2 maximum you can start with 4 or 3 or even all of them, with this you can also allocate your attunement points freely such as starting a character with 3 Flame 2 Ice 3 Shadow and 2 Gale, or 9 Blood and 1 Thunder, etc. This will take points out of your starting points though.
 
 ## Trivia
 
--   On March 16th, 2025, [Chad09999 or Midq](https://www.youtube.com/watch?v=fcB0KECJA6A%7C) became the first player to achieve W rank with the _Glass Bones_ modifier
+-   On March 16th, 2025, [Chad09999 or Midq](https://www.youtube.com/watch?v=fcB0KECJA6A%7C) became the first player to achieve W rank with the _Glass Bones_ modifier.
 -   The term "ironwoken" is reminiscent of the "ironman" mode in RuneScape, preventing trading among other restrictions.
     -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester
 

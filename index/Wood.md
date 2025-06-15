@@ -1,6 +1,6 @@
 ---
 title: Wood
-revid: 146694
+revid: 146729
 source: https://deepwoken.fandom.com/wiki/Wood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -21,7 +21,7 @@ Template:ItemTemplateNEW
 Wood can be can be obtained in a few ways:
 
 -   Chopping trees with an [Lumber Axe](Lumber_Axe.md).
--   Obliterating trees with Strong Left (With the [Treefelling Blow](Talents.md#treefelling-blow) Talent).
+-   Obliterating trees with Strong Left. (With the [Treefelling Blow](Talents.md#treefelling-blow) Talent.)
 -   Bought for or depending on the vendor.
 -   Crafting together three (3) Sticks.
 

@@ -1,6 +1,6 @@
 ---
 title: Cloth
-revid: 146706
+revid: 146731
 source: https://deepwoken.fandom.com/wiki/Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -64,7 +64,7 @@ The cloth at [Fort Merit](Fort_Merit.md) is located on a crate in the same build
 
 -   Costs.
 
-(The building the cloth is located in)
+(The building the cloth is located in.)
 
 **Greathive Aratel:**
 

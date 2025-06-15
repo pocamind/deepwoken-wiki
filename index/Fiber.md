@@ -1,6 +1,6 @@
 ---
 title: Fiber
-revid: 146718
+revid: 146730
 source: https://deepwoken.fandom.com/wiki/Fiber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -72,7 +72,7 @@ The fiber at [Fort Merit](Fort_Merit.md) is located on a crate in the same build
 
 -   Costs.
 
-(The building the fiber is located in)
+(The building the fiber is located in.)
 
 **Greathive Aratel:**
 
