@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 146649
+revid: 146684
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -30,19 +30,76 @@ Trahne Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
 
 ## Dialogue
 
+**First Encounter:**
+
 <table>
 <tbody>
 <tr>
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">TEMPLATE</td>
+  <td colspan="12">Look what the tide dragged in. You here for gear, or just lost?</td>
 </tr>
 <tr>
-  <td colspan="12">TEMPLATE</td>
+  <td colspan="12">What?</td>
+</tr>
+<tr>
+  <td colspan="12">I sell my wares to those with some real fine tastes... and even finer notes. Ye' got that?</td>
+</tr>
+<tr>
+  <td colspan="12">What are you selling?</td>
+</tr>
+<tr>
+  <td colspan="12">[Opens Shop UI]</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Back again? Here to actually buy something, or just stare?</td>
+</tr>
+<tr>
+  <td colspan="12">Yeah.</td>
+</tr>
+<tr>
+  <td colspan="12">[Opens Shop UI]</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Shop UI:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="18">Begin</td>
+</tr>
+<tr>
+  <td colspan="6">When accessing the Shop</td>
+  <td colspan="6">After purchasing something</td>
+  <td colspan="6">If you can't afford the item you attempted to buy</td>
+</tr>
+<tr>
+  <td colspan="6">(Shop UI can be seen below)<br>
+  Here's the current lineup. Try not to drool.</td>
+  <td colspan="6">Done deal! Come back in a lil' bit when I haul some new goodies up here, yeh?</td>
+  <td colspan="6">You're short now, pal. Come back when you're not drowned broke, yeah?</td>
+</tr>
+<tr>
+  <td colspan="18">End</td>
 </tr>
 </tbody>
 </table>
@@ -54,7 +111,7 @@ Trahne's Salvaged Stock
 <table>
 <tbody>
 <tr>
-  <td><center><figure><figcaption></figcaption></figure><div></div></center></td>
+  <td><center><figure><figcaption></figcaption></figure>[Item price] <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div>[Item name]</div><div><i>A rare find indeed.</i></div></td>
 </tr>
 </tbody>
@@ -62,11 +119,19 @@ Trahne's Salvaged Stock
 
   
 
-His item descriptions will change randomly(?) each time it hits his hourly rotation
+Depending on the rotation, he can sell up to 3 to 4 items at once.
+
+His item descriptions will change randomly each time he hits his hourly rotation:
 
 -   _A rare find indeed._
--   Hey, you break it - you buy it
--   Looks valuable, you should buy it!
+-   _It's not overpriced, I swear!_
+-   _I stole these from local bandits, by the way._
+-   _Looks valuable, you should buy it!_
+-   _Hey, you break it - you buy it._
+-   _This catch your eye?_
+-   _This could almost be an antique, I think?_
+-   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
+-   _Truly a divine thingymabob._
 
 ## Shop Rotation
 
@@ -87,7 +152,7 @@ Sold Items
   <ul>
     <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Scholar.md">Scholar</a>.</li>
     <li><b><font>Adept</font></b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>.</li>
-    <li><b><font>Expert</font></b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
+    <li><b><font>Expert</font></b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
     <li><b><font>Master</font></b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
   </ul></td>
 </tr>
@@ -123,9 +188,10 @@ Sold Items
 ## Trivia
 
 -   Trahne Zakshun's name is a play on the word "transaction." This is only further reinstated by them being a merchant.
--   Nuttoons, one of Deepwoken's developers, had this to say about Trahne Zakshun: "they are a weirdo, they mug freshies for their garbage and bring it back to their little hoarding cave to sell off to schmucks". [\[1\]](#cite-note-1)
+-   Trahne Zakshun changed their name to that because they're a troll.[\[1\]](#cite-note-0-1)
+-   Nuttoons, one of Deepwoken's developers, had this to say about Trahne Zakshun: "they are a weirdo, they mug freshies for their garbage and bring it back to their little hoarding cave to sell off to schmucks". [\[1\]](#cite-note-0-1)
     -   This is much like the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Trahne, the loot bag gacha NPCs collect the loot off of corpses rather than getting their hands dirty themselves.
 
 ## References
 
-1.  [↑](#cite-ref-1)
+1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1)

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 146539
+revid: 146677
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -238,7 +238,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Thorns of Fire \[Common Talent, Flamecharm\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
     -   In the October 6th, 2023 update, Thorns of Fire was removed from the game as it became a base behavior for Flame Repulsion.
 -   **True Pain \[Rare Talent, Light\] -** Your Critical Strikes Can Now Crit (+2 Health)
-    -   In the December 16th, 2023 update, True Pain was removed due to Knife's Journey rework.
+    -   In the December 15th, 2023 update, True Pain was removed due to Knife's Journey rework.
 -   **(Old) Twisted Puppets \[Common Talent, Dual Attunement\] -** Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
     -   In the December 16th, 2023 update, Twisted Puppets was removed and replaced with Wraith Path: Twisted Puppets.
 -   **Unyielding Focus \[Common Talent, Willpower\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)

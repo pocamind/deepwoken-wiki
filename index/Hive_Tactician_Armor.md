@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 142150
+revid: 146686
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
@@ -38,7 +38,8 @@ This Outfit's Schematic can be found in:
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Aratel Island](Aratel_Island.md)
 -   [Minityrsa](Minityrsa.md)
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md) for
+-   Sold by [Trahne Zakshun](Traan_Zakshun.md) at [Lower Erisia](Lower_Erisia.md) for
 
 ## Trivia/Notes
 

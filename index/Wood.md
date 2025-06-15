@@ -1,6 +1,6 @@
 ---
 title: Wood
-revid: 146659
+revid: 146694
 source: https://deepwoken.fandom.com/wiki/Wood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -30,7 +30,6 @@ Wood can be can be obtained in a few ways:
 Wood can be used for the following:
 
 -   Crafting a [Campfire Pit](Campfire_Pit.md).
--   Crafting a [Glider](Gliders.md) or Sharkscale Glider.
 -   Crafting a [Lumber Axe](Lumber_Axe.md) or [Pickaxe](Pickaxe.md).
 -   Crafting a [Repair Kit](Repair_Kit.md).
 -   Crafting into three (3) [Sticks](Stick.md).
@@ -51,15 +50,15 @@ The wood at the [Etris](Etris.md) [Blacksmith](Blacksmith.md) is located at the 
 
 -   Costs.
 
-**General Store:**
-
-The wood at the Etris General Store is located on two tables opposite of each corner.
-
--   Costs.
-
 **Docks:**
 
 The wood at the Etris Docks is located near the Repair Hammer.
+
+-   Costs.
+
+**General Store:**
+
+The wood at the Etris General Store is located on two tables opposite of each corner.
 
 -   Costs.
 
@@ -78,6 +77,12 @@ The wood at the [Voidheart](Voidheart.md) is located on a table next to the [Ant
 
 **Eastern Luminant:**
 
+**Greathive Aratel:**
+
+The wood at [Greathive Aratel](Greathive_Aratel.md) is located on a bench in the Canopy Plaza's balcony.
+
+-   Costs.
+
 **Miner's Landing:**
 
 The wood at [Miner's Landing](<Miner's_Landing.md>) is located on top of a barrel next to the Antiquarian.
@@ -90,8 +95,7 @@ The wood at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's 
 
 -   Costs.
 
-**Greathive Aratel:**
+## Trivia
 
-The wood at [Greathive Aratel](Greathive_Aratel.md) is located on a bench in the Canopy Plaza's balcony.
-
--   Costs.
+-   Previously, you were able to obtain wood from the Brown and Purple Coral Trees in the [First Layer](First_Layer.md).
+-   Having the [Spare Nails](Talents.md#shipwright) Talent prevents you from dropping any wood on death.

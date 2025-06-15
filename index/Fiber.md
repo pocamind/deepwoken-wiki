@@ -1,0 +1,105 @@
+---
+title: Fiber
+revid: 146685
+source: https://deepwoken.fandom.com/wiki/Fiber
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items, Craftable, Ingredients]
+---
+
+# Fiber
+
+“ To knit or to knot knit? That's the real question. ”
+
+― A Cerulean Thread schematic.
+
+Template:ItemTemplateNEW
+
+**Fiber** is an essential resource used to craft [Outfits](Outfits.md) and other tools.
+
+## Obtainment
+
+Fiber can be can be obtained in a few ways:
+
+-   Bought for from every vendor.
+-   Crafting together two (2) [Bamboo Bundles](Bamboo_Bundle.md) or [Marram Grass](Marram_Grass.md).
+
+## Uses
+
+Fiber can be used for the following:
+
+-   Crafting a [Fishing Rod](Fishing_Rod.md).
+-   Crafting in basically every Outfit.
+
+## Locations
+
+Fiber can be sold from the following locations:
+
+**Etrean Luminant:**
+
+**Etris:**
+
+**Blacksmith:**
+
+The fiber at the [Etris](Etris.md) [Blacksmith](Blacksmith.md) is located outside near [Pori](Pori.md).
+
+-   Costs.
+
+**General Store:**
+
+The fiber at the Etris General Store is located on a table.
+
+-   Costs.
+
+**Isle of Vigils:**
+
+The fiber at the [Isle of Vigils](Isle_of_Vigils.md) is located on a table near the Blacksmith.
+
+-   Costs.
+
+**Voidheart:**
+
+The fiber at the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
+
+-   Costs.
+-   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
+
+**Eastern Luminant:**
+
+**Fort Merit:**
+
+The fiber at [Fort Merit](Fort_Merit.md) is located on a crate in the same building as the [Cauldron](Cauldron.md).
+
+-   Costs.
+
+(The building the fiber is located in)
+
+**Greathive Aratel:**
+
+The fiber at [Greathive Aratel](Greathive_Aratel.md) is located on a bookshelf near the Antiquarian in the [Root Plaza](Greathive_Aratel.md#root-plaza).
+
+-   Costs.
+
+**Miner's Landing:**
+
+The fiber at [Miner's Landing](<Miner's_Landing.md>) is located on top of a crate next to the Antiquarian.
+
+-   Costs.
+
+**Summer Isle:**
+
+The fiber at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's Pawn.
+
+-   Costs.
+
+**First Layer:**
+
+**Castle Light:**
+
+The fiber at [Castle Light](Castle_Light.md) is located on the second floor near the [Instruments](Instruments.md).
+
+-   Costs
+
+## Trivia
+
+-   Although Fiber received a new model during the May 15th, 2023 update, it remains unchanged at Castle Light in the First Layer.
+    -   To top it off, in the June 19th, 2023 update, all Fiber models in the Eastern Luminant were fixed to present the new model.
