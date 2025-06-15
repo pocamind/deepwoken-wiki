@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 146107
+revid: 146755
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -162,7 +162,7 @@ Blunt
 **Effect:** _User launches a flurry of punches that inflicts light damage on their opponent._
 
 -   The move is cancelled upon getting parried in the initial hit.
--   The user may cancel the barrage at any point during it by right clicking.
+-   The user may cancel the barrage at any point during it by pressing their feint key.
 -   Victims struck by the last punch are pushed away.
 -   60/65/70/75/80 base damage per level, 2 Strength scaling
 -   96 damage at 100 Strength level 5
