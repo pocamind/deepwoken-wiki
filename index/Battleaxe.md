@@ -1,9 +1,9 @@
 ---
 title: Battleaxe
-revid: 138044
+revid: 146976
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes]
+categories: [Weapons, Greataxes, Heavy Weapons]
 ---
 
 # Battleaxe

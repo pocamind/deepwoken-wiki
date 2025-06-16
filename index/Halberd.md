@@ -1,9 +1,9 @@
 ---
 title: Halberd
-revid: 144375
+revid: 146978
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons]
+categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
 ---
 
 # Halberd

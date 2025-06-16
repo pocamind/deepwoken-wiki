@@ -1,9 +1,9 @@
 ---
 title: Iron Twinblade
-revid: 144353
+revid: 146974
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Twinblades]
+categories: [Weapons, Twinblades, Medium Weapons]
 ---
 
 # Iron Twinblade

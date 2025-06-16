@@ -1,9 +1,9 @@
 ---
 title: Gilded Knife
-revid: 144344
+revid: 146884
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers]
+categories: [Weapons, Daggers, Light Weapons]
 ---
 
 # Gilded Knife

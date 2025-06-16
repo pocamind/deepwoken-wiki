@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 146713
+revid: 146936
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -230,8 +230,8 @@ Wind + Lightning + Slash
   <sup>[Bloodsong]</sup></center></td>
   <td><center>40 Bloodrend<br>
   40 Flamecharm</center></td>
-  <td><center>Guardbreaking your opponent with a Bloodrend mantra sets them on fire.</center></td>
-  <td><center>Posture breaking with a Bloodrend mantra applies burn.</center></td>
+  <td><center>Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.</center></td>
+  <td><center>Posture breaking with a Bloodrend mantra applies burn and deals 16.5 damage in an AoE. Also applies blood poison.</center></td>
   <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
@@ -371,8 +371,8 @@ Wind + Lightning + Slash
   <sup>[Bloodsong]</sup></center></td>
   <td><center>40 Bloodrend<br>
   40 Flamecharm</center></td>
-  <td><center>Guardbreaking your opponent with a Bloodrend mantra sets them on fire.</center></td>
-  <td><center>Posture breaking with a Bloodrend mantra applies burn.</center></td>
+  <td><center>Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.</center></td>
+  <td><center>Posture breaking with a Bloodrend mantra applies burn and deals 16.5 damage in an AoE. Also applies blood poison.</center></td>
   <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>

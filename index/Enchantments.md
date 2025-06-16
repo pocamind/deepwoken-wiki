@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 145871
+revid: 146861
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -131,7 +131,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Harrowing<div></div></font></center></td>
   <td><div><p>Inflicts <a href="Status_Effects.md#harrowing">Harrowing</a>, which coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
-  This effect lasts for 4 seconds.<br>
+  This effect lasts for 8 seconds.<br>
   Can only be obtained from the Hallowtide event.</p></div></td>
   <td><div>Weapon turns translucent and emits purple smoke with orange-ish particles.</div></td>
 </tr>
@@ -140,7 +140,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Heroism<div></div></font></center></td>
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (20% more damage at 100% HP)<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (20% more damage at 0% HP)<br>
-  In PVE the damage buff is 0.25x the damage buff in PVP (8% - &gt; 2%, 20% - &gt; 5%).</p></div></td>
+  In PVE the damage buff is 0.25x the damage buff in PVP (8% - &gt; 2%, 20% - &gt; 5%).<br>
+  Hero's Reflection: While in the Heroism health range (0-25%, 75-100%), you are able to reflect elemental <a href="Status_Effects.md">Status Effects</a> (Burn, Chill, Suffocation, Winded, Shock, and Fear), <a href="Status_Effects.md#anti-heal">Antiheal</a>, and <a href="Attunement-less.md#taunt">Taunt</a>.</p></div></td>
   <td><div>Weapon turns completely yellow and is covered in a yellow glow.</div></td>
 </tr>
 <tr>
@@ -170,13 +171,12 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Obfuscation<div></div></font></center></td>
-  <td><div><p>Weapon gains 50%/35%/25% chip damage (HVY/MED/LHT).<br>
-  Weapon deals less posture damage.<br>
-  Landing close range hits give a speed boost. Speed boost lasts for 2 seconds.<br>
+  <td><div><p>Weapon gains increased chip damage.<br>
+  Landing close range hits give a speed boost for 2 seconds.<br>
   </p>
   <p><u>CHIP DAMAGE IS NOT AFFECTED BY PEN OR DMG MODS</u><br>
   </p>
-  <p>(Formula to calculate chip damage: 80% innate chip and 50% chip from Obfuscation would amount to 1 - (1 - 0.8) * (1 - 0.5) = 0.9, aka 90% chip damage).<br>
+  <p>(Chip damage from Obfuscation is combined multiplicatively with chip from other sources. Formula to calculate chip damage: 80% innate chip and 50% chip from Obfuscation would amount to 1 - (1 - 0.8) * (1 - 0.5) = 0.9, aka 90% chip damage). Disclaimer, Obfuscation does not grant 50% chip damage.<br>
   </p></div></td>
   <td><div>The weapon turns translucent and is enveloped in a white mist.</div></td>
 </tr>
@@ -213,10 +213,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Stone<div></div></font></center></td>
-  <td><div><p>Stone posture calculation is: DMG/9.5+0.5+BASE POSTURE DAMAGE<sup><a href="#cite-note-2">[2]</a></sup><br>
-  Example:Stone Iron Blunderbuss crit deals:51/9.5+0.5+5.48 = 11.44 posture<br>
-  Doesn't give extra chip DMG<br>
-  Deal bonus 3 damage on a posture break.</p></div></td>
+  <td><div><p>Grants increased posture damage to M1s. Your weapon guard breaks deal 3 additional damage.<br>
+  Stone posture calculation is: DMG/9.5+0.5+BASE POSTURE DAMAGE<sup><a href="#cite-note-2">[2]</a></sup><br>
+  Example:Stone Iron Blunderbuss M1 deals:51/9.5+0.5+5.48 = 11.44 posture<br>
+  Doesn't give extra chip DMG despite what Stone's ingame description states.</p></div></td>
   <td><div>Weapon turns brown and gains a stone texture.</div></td>
 </tr>
 <tr>
@@ -304,11 +304,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:Curse of the no life king.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the No Life King<div></div></font></center></td>
-  <td><div><p>While held, gain passive health regen. Every M1 adds 2% insanity to the opponent.<br>
+  <td><div><p>While held, gain increased passive health regen scaling with your weapon stat investment. Every M1 adds 2% insanity to the opponent.<br>
   <br>
   Permanently stained health bar while the weapon is equipped. (Having this weapon currently equipped will render you at 1 life in PVE combat, this doesn't change anything in PvP. Unequipping it from your character will restore that life, (assuming NLK actually took one away in the first place.)<br>
   Take 2x blood damage from all sources when in the overworld.<br>
-  Passive Health regen increases from 0.45 hp/s to 2.1 hp/s<br>
   Healing potions heal you less.<br>
   When held in The Depths, lose 2 sanity per second.<br>
   While held, losing all your sanity result in an automatic death.<br>

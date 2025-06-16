@@ -1,9 +1,9 @@
 ---
 title: Legion Kata
-revid: 146083
+revid: 146897
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, Fighting Styles]
+categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 ---
 
 # Legion Kata

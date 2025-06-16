@@ -1,9 +1,9 @@
 ---
 title: Mace
-revid: 118035
+revid: 146947
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Clubs]
+categories: [Weapons, Clubs, Medium Weapons]
 ---
 
 # Mace

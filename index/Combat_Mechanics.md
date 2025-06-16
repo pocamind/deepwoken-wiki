@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 145083
+revid: 147016
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -371,18 +371,18 @@ Main article: [Status Effects](Status_Effects.md)
   <td></td>
 </tr>
 <tr>
-  <th>Enraged</th>
+  <th>Taunted</th>
   <td>Represented by red glowing sparks emitting from the head of the victim.<p><br>
   </p>
   <p><b>The victim cannot jump. Damage output and intake is increased for both the user and target.</b></p>
-  <p><i>The only source is from the Charisma Mantra, Taunt.</i></p></td>
+  <p><i>The only sources are the Charisma Mantra Taunt, and the Charisma Talent "Cornered Fool".</i></p></td>
   <td></td>
 </tr>
 <tr>
   <th>Chilled</th>
   <td>Represented by a blue mist engulfing the victim's body.<p><br>
   <b>Speed is reduced.</b></p>
-  <p><i>A common source is being hit with a Frostdraw Mantra, along with being hit by the bubbles of a <a href="Crustaceous_Rex.md">Crustaceous Rex</a>.</i></p></td>
+  <p><i>A common source is being hit with a <a href="Frostdraw.md">Frostdraw</a> Mantra, along with being hit by the bubbles of a <a href="Crustaceous_Rex.md">Crustaceous Rex</a>.</i></p></td>
   <td></td>
 </tr>
 <tr>
@@ -390,8 +390,8 @@ Main article: [Status Effects](Status_Effects.md)
   <td>Represented by fire engulfing the victim's body.<p><br>
   <b>Take slight damage over time. Can be rolled to the end early, or else it will clear itself after 10 seconds.</b></p>
   <ul>
-    <li>If the applier uses a Deepfire Ring, the burn status will become stronger but shorter.</li>
-  </ul><p><i>A common source is being hit with a Flamecharm Mantra.</i></p></td>
+    <li>If the applier uses a <a href="Deepfire_Ring.md">Deepfire Ring</a>, the burn status will tick faster but end sooner. This is net neutral for overall damage dealt, but with a higher DPS.</li>
+  </ul><p><i>A common source is being hit with a <a href="Flamecharm.md">Flamecharm</a> Mantra.</i></p></td>
   <td></td>
 </tr>
 <tr>
@@ -399,7 +399,7 @@ Main article: [Status Effects](Status_Effects.md)
   <td>Represented by yellow sparks engulfing the victim's body.<p><br>
   </p>
   <p><b>Stuns for a slight moment, usually enough to land an extra hit.</b></p>
-  <p><i>A common source is being hit with a Thundercall Mantra, along with being hit by <a href="The_Ferryman.md">The Ferryman</a>.</i></p></td>
+  <p><i>A common source is being hit with a <a href="Thundercall.md">Thundercall</a> Mantra, along with being hit by <a href="The_Ferryman.md">The Ferryman</a>.</i></p></td>
   <td></td>
 </tr>
 <tr>
@@ -411,7 +411,7 @@ Main article: [Status Effects](Status_Effects.md)
 <tr>
   <th>Winded</th>
   <td>Represented by green particles surrouding the victim's body.<p><b>Attack speed is reduced.</b></p>
-  <p><i>A common source is being hit by a Galebreathe Mantra.</i></p></td>
+  <p><i>A common source is being hit by a <a href="Galebreathe.md">Galebreathe</a> Mantra.</i></p></td>
   <td></td>
 </tr>
 <tr>
@@ -430,22 +430,19 @@ Main article: [Status Effects](Status_Effects.md)
 </tr>
 <tr>
   <th>Anti-heal</th>
-  <td>Represented by purple mist surrouding the victim's body.<p><b>Every source of healing is disabled. This includes:</b></p>
+  <td>Represented by purple mist surrouding the victim's body.<p><b>All sources of healing and temporary health gain are disabled. Common sources of healing include:</b></p>
   <ul>
     <li>Passive health regen</li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
     <li>Spit healing</li>
-    <li>Reinforce</li>
+    <li>Reinforce with the Grand Support Talent</li>
     <li>Symbiotic Sustain from a <a href="Oath%253A_Linkstrider.md">Linkstrider</a></li>
-    <li>Bloodless Gem</li>
+    <li>Mindsoothe from a <a href="Oath%253A_Blindseer.md">Blindseer</a></li>
+    <li>Revitalizing Spray from a <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a></li>
+    <li>Bloodless Gems on Mantras</li>
     <li>Campfire regeneration</li>
-    <li>Blood Scourge Resonance</li>
-    <li>Vampirism</li>
+    <li><a href="Blood_Scourge.md">Blood Scourge</a> <a href="Resonance.md">Resonance</a></li>
   </ul><p>Does not proc/work on allies and people in the same guild as you.</p>
-  <p><i>Sources include <a href="Mudskipper_Broodlord.md">Mudskipper Broodlords</a>, players with the Talent “All the Dead Gods”, or Ring of Pestilence, each giving 80%,&nbsp;?, and 50% healing reduction respectively.</i></p></td>
+  <p><i>Sources include <a href="Mudskipper_Broodlord.md">Mudskipper Broodlords</a>, players with the Talents “All the Dead Gods” or "Deep Wound", or <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>. The effectiveness of the anti-heal scales on the source.</i></p></td>
   <td></td>
 </tr>
 </tbody>

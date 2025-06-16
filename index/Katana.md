@@ -1,9 +1,9 @@
 ---
 title: Katana
-revid: 146177
+revid: 146923
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons]
+categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
 ---
 
 # Katana

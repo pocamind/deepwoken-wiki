@@ -1,9 +1,9 @@
 ---
 title: Falchion
-revid: 146534
+revid: 146921
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Alloyed Weapons, Weapons with Unique Criticals, Swords]
+categories: [Weapons, Alloyed Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
 ---
 
 # Falchion

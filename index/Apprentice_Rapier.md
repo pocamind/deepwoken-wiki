@@ -1,9 +1,9 @@
 ---
 title: Apprentice Rapier
-revid: 144338
+revid: 146908
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers]
+categories: [Weapons, Rapiers, Light Weapons]
 ---
 
 # Apprentice Rapier

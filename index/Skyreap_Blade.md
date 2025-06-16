@@ -1,9 +1,9 @@
 ---
 title: Skyreap Blade
-revid: 145206
+revid: 146986
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Greataxes, Event Item, Hallowtide]
+categories: [Weapons, Weapons with Unique Criticals, Greataxes, Event Item, Hallowtide, Heavy Weapons]
 ---
 
 # Skyreap Blade

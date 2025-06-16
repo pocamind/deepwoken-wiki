@@ -1,9 +1,9 @@
 ---
 title: Flintlock
-revid: 145068
+revid: 146912
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pistols, Offhand Guns]
+categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
 ---
 
 # Flintlock

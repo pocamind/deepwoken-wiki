@@ -1,9 +1,9 @@
 ---
 title: "Hero's Blade of Shadow"
-revid: 142883
+revid: 146946
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items]
+categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items, Medium Weapons]
 ---
 
 # Hero's Blade of Shadow

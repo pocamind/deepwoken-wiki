@@ -1,9 +1,9 @@
 ---
 title: Fractine
-revid: 146114
+revid: 147004
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", Multiple Criticals]
+categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", Multiple Criticals, Heavy Weapons]
 ---
 
 # Fractine

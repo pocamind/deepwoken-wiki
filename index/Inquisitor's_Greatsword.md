@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 122947
+revid: 146995
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords]
+categories: [Weapons, Greatswords, Heavy Weapons]
 ---
 
 # Inquisitor's Greatsword

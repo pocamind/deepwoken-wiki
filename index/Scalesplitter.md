@@ -1,9 +1,9 @@
 ---
 title: Scalesplitter
-revid: 146712
+revid: 146975
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Twinblades, Etrea, Alloyed Weapons]
+categories: [Weapons, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
 ---
 
 # Scalesplitter

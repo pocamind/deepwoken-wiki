@@ -1,9 +1,9 @@
 ---
 title: Dawnshot
-revid: 145066
+revid: 146913
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pistols, Alloyed Weapons, Offhand Guns]
+categories: [Weapons, Pistols, Alloyed Weapons, Offhand Guns, Light Weapons]
 ---
 
 # Dawnshot

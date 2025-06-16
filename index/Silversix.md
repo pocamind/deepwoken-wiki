@@ -1,9 +1,9 @@
 ---
 title: Silversix
-revid: 146527
+revid: 146911
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pistols, Offhand Guns]
+categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
 ---
 
 # Silversix

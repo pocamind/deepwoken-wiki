@@ -1,9 +1,9 @@
 ---
 title: Gaunts of Enmity
-revid: 142274
+revid: 146905
 source: https://deepwoken.fandom.com/wiki/Gaunts_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists]
+categories: [Weapons, Fists, Light Weapons]
 ---
 
 # Gaunts of Enmity

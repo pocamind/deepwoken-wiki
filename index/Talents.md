@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 146842
+revid: 146977
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -612,7 +612,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Malevolent Sapper \[Common Talent, Dual Attunement\] - The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.
     -   Prerequisite: 40 Bloodrend, 40 Shadowcast
 
--   Scorchblood \[Common Talent, Dual Attunement\] - Guardbreaking your opponent with a bloodrend mantra sets them on fire.
+-   Scorchblood \[Common Talent, Dual Attunement\] - Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.
+    -   Deals 16.5 damage in an AoE on proc
     -   Prerequisite: 40 Bloodrend, 40 Flamecharm
 
   

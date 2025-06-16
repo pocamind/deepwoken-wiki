@@ -1,9 +1,9 @@
 ---
 title: Silver Dagger
-revid: 142904
+revid: 146885
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers]
+categories: [Weapons, Daggers, Light Weapons]
 ---
 
 # Silver Dagger

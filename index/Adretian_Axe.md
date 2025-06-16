@@ -1,9 +1,9 @@
 ---
 title: Adretian Axe
-revid: 146179
+revid: 146980
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons]
+categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
 ---
 
 # Adretian Axe

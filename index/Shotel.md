@@ -1,9 +1,9 @@
 ---
 title: Shotel
-revid: 144366
+revid: 146930
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons]
+categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons, Medium Weapons]
 ---
 
 # Shotel

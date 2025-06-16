@@ -1,9 +1,9 @@
 ---
 title: Vortex Echo
-revid: 144139
+revid: 146907
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons]
+categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons, Light Weapons]
 ---
 
 # Vortex Echo
