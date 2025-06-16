@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 146755
+revid: 147029
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1580,6 +1580,43 @@ Slash
 -   Deals Chip Damage.
 -   Deals knockback.
 -   Can be modified with a Glass/Magnifying stone to make it bigger
+
+ |
+| 
+
+**Slice 'n' Dice** (☆☆☆)
+
+**Combat Mantra**
+
+_Step forward and slice through your enemies. Ability can be activated again on a successful hit._
+
+ | 
+
+## Slice 'n' Dice (☆☆☆)
+
+  
+**Combat Mantra**  
+_Step forward and slice through your enemies. Ability can be activated again on a successful hit._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Slash
+
+ | 
+
+30 Medium Weapon
+
+ |
+| 
+
+**Effect:** _User dashes towards the camera and unleashes a wide slash. Can be performed again if the first slash lands._
+
+-   Landing the first slash refreshes the Mantra, allowing it to be used again at any time. The subsequent use will then put the Mantra on cooldown.
 
  |
 | 

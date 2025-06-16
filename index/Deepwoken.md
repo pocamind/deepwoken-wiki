@@ -1,14 +1,14 @@
 ---
 title: Deepwoken
-revid: 145139
+revid: 147035
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Lore]
 ---
 
 # Deepwoken
 
-_Not to be confused with the name of the game, [Deepwoken](Deepwoken_Wiki.md)._
+_Not to be confused with the name of the game, [Deepwoken](<Deepwoken_(game).md>)._
 
 ## Description
 
@@ -23,7 +23,7 @@ There are two known Deepwoken. Owing to their immortality, both are likely over 
 -   [The First Prophet](https://deepwoken.fandom.com/wiki/Lore#The_First_Prophet) of [The Ministry](The_Ministry.md)
     -   The Drowned God from which the First Prophet consumed a piece of is currently unnamed. His powers are unknown, but he would be able to defeat Pleeksty.[\[2\]](#cite-note-2)
 
-The [Talent](Talents.md) tree, "[Deepwoken](https://deepwoken.fandom.com/wiki/Talents#Deepwoken)" possibly hints at the player character having the potential to become a Deepwoken. Though the primary purpose of the character is a means for users to interact with the world of Deepwoken, a few implications have been made about its true origins.
+The [Talent](Talents.md) tree, "[Deepwoken](Talents.md#deepwoken)" possibly hints at the player character having the potential to become a Deepwoken. Though the primary purpose of the character is a means for users to interact with the world of Deepwoken, a few implications have been made about its true origins.
 
 -   According to the description of [Erisor's Church](<Erisor's_Church.md>), the player is familiar with the name "Erisor".
     -   The canonicity of this is unclear, as the lore related to Erisor's Church has been "de-emphasised".[\[3\]](#cite-note-3)

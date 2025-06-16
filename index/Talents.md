@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 146977
+revid: 147030
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1833,6 +1833,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the qualities of Javelin Lord."**_
 
 -   _Grand Skewer_ \[Thundercall Exclusive, Rare Talent\] - Your Grand Javelin now carries opponents through the air.
+    -   Does not work in [Guild Bases](Guild_Bases.md) or in [Layer 1](First_Layer.md) of The Depths.
     -   Prerequisites: [Grand Javelin](Thundercall.md#grand-javelin) (Mantra), 60 Thundercall
 
 ### Jetstriker
@@ -3862,9 +3863,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
 
--   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 15%, but your incoming mantra damage is cut by 15 too. (+5 Health)
+-   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 15%, but your incoming mantra damage is cut by 15% too. (+5 Health)
     -   RTTDA doesn't stack if both players have it.
-    -   Also reduces burn dealt by 15%.
+    -   Also reduces burn dealt and received by 15%.
         -   The only non-Mantra effect it reduces the damage of is burn, meaning things like Eruptions, Puppets, Apparitions/Ghosts, lightning strikes, Crystal/Surge detonations, etc. will be unaffected by RTTDA.
     -   Works well with [Silentheart](Oath%253A_Silentheart.md).
     -   Prerequisite: [Power](Power.md) 10
