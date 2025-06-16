@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 144969
+revid: 146832
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -22,7 +22,7 @@ categories: [Resonances]
 
 **Crazy Slots** is a [Resonance](Resonance.md) that players can obtain and is uncommon to roll.
 
-**Crazy Slots** does not have separate versions, but instead pulls out weapons from thin air that are completely unique to this Resonance.
+**Crazy Slots** does not have separate variants, but instead pulls out weapons from thin air that are completely unique to this Resonance.
 
 ### _Appearance_
 
@@ -51,7 +51,7 @@ Crazy Slots will favor its point distribution towards weapons aligned with your 
 
 These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notably, they have very high base stats, which helps to alleviate the potential loss of damage from using weapons outside of your main attribute. This also enables them to be viable even for builds which have no weapon investment (e.g. [Hero Blades](Hero_Blades.md)).
 
-### _Normal_
+### Divine Weapon Stats
 
 <table><caption><strong>Crazy Slots</strong></caption>
 <tbody>
@@ -142,8 +142,38 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
 </tbody>
 </table>
 
+## Special Abilities
+
+Upon reactivating your Resonance while your Crazy Slots weapon is active, perform a special attack. The special attack varies depending on your currently equipped Divine weapon. Using this ends your resonance early, returning you back to your original weapon.
+
+### Divine Dagger
+
+Rush forward with flurry of divine slashes. Functions similarly to the "[Rapid Slashes](Attunement-less.md#rapid-slashes)" Mantra.
+
+### Divine Flintlock
+
+Flip upside down and rapidly shoot your target five to six times, finishing with a shot that propels you backwards.
+
+### Divine Longsword
+
+Strike forward with your elbow, following up with three divine slashes. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
+
+### Divine Spear
+
+Jump up and fire three divine beams. Also used by [Angels](Hollow_Angel.md). Deals **typeless** damage.
+
+### Divine Greataxe
+
+Jump into the air and plummet towards your cursor.
+
+### Divine Greatsword
+
+Gain a speed boost before leaping into the air and crashing down at your cursor.
+
 ## Trivia/Notes
 
+-   The Divine weapons carry over the weapon quality bonus and [enchant](Enchantments.md) from your main weapon.
+    -   They can carry over other effects as well such as [Pleeksty's Inferno's](<Pleeksty's_Inferno.md>) burn on M1 if you have the [Simmerbloom Diadem](Simmerbloom_Diadem.md) equipped.
 -   The exceptionally high base damage for each weapon makes them especially powerful in PvE; it is a tried-and-true choice for M1 builds.
 -   The designs of the Divine weapons were inspired by weapons from other media:
     -   The Divine Longsword resembles the _[Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto)_ from the [_Fate_](https://typemoon.fandom.com/wiki/Fate_series) series.

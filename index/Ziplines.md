@@ -1,6 +1,6 @@
 ---
 title: Ziplines
-revid: 146807
+revid: 146841
 source: https://deepwoken.fandom.com/wiki/Ziplines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]

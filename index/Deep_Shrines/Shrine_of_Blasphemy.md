@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 137203
+revid: 146820
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -34,7 +34,7 @@ This shrine has 2 effects depending on your Power:
 ### Details
 
 -   Bear in mind that the many card draws you will perform are based on your current stats. **you do not gain any attribute points from this**.
--   The 45 Investment Points you need to catch up will make it harder to recover a Life while in the Overworld, especially if you use free points from the [Adret](../Adret.md) Aspect and the Autodidact Boon
+-   The 45 Investment Points you need to catch up will make it harder to recover a Life while in the Overworld, especially if you don't use free points from the [Adret](../Adret.md) Aspect or the Autodidact Boon
 -   With the 3 Power Ups granted, you immediately gain 3 Knowledge.
 -   Since you gain bonus damage in PVE based on your level, you immediately attain higher damage.
 

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 145119
+revid: 146848
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -187,11 +187,11 @@ Shadow
 
 **Effect:** _You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable._
 
--   Deals 35.88 dmg non modded at 5 lvl, guardbreaks, 12s CD. (3 stratus and 3 perfect lenses version will do 23.92 dmg. (-50% DMG))
+-   Deals ~50 dmg non modded at 5 lvl, guardbreaks, 12s CD. (3 stratus and 3 perfect lenses version will do ~30. (-35%% DMG))
 -   Blast spark version deals 71.04 (23.68\*3). 27 posture (9\*3), 10s CD. (With 3 stratus stones and 3 perfect lenses does 15.79 per hit, 47.37 total. (-50% DMG))
--   With 6 songchant nonmodded shadow gun 39.94 DMG, Blast spark 79.08 (26.36\*3)
+-   With 6 songchant nonmodded shadow gun 55 DMG, Blast spark 79.08 (26.36\*3)
 -   Each modification makes you lose 8.33% DMG.
--   Has 9.18x PVE scale (35.88 DMG PVP, 329.38 PVE)
+-   Has 9.18x PVE scale (~50 DMG PVP, 460 PVE)
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Adding Lenses will increase the range of the blast forward
 -   Adding Cloudstones/Stratus Stones will increase the height and width of the blast

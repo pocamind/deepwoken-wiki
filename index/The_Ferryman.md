@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 142939
+revid: 146829
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -225,6 +225,7 @@ Exhaustive Loot Table
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
+    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
     <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
     <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
   </ul></li>

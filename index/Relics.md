@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 146282
+revid: 146830
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -123,6 +123,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Fishing](Fishing.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [First Layer](First_Layer.md)
 -   [Lodestar](Lodestar.md)
 -   [War Mode](War_Mode.md)

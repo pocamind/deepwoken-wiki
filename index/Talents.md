@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 146710
+revid: 146842
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1510,9 +1510,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Have a Light gun in your offhand
 
--   Quick Draw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
-    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
-    -   Prerequisites: 55 Light Weapon, Using a Gun
+-   Parting Gift \[Common Talent\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
+    -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
+    -   Prerequisites: 75 Light Weapon, Dual Guns equipped (pistol in your main AND offhand)
 
 -   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment.
     -   Prerequisites: 30 Intelligence and 20 Light Weapon/Medium Weapon, Using a Gun/Rifle
@@ -1529,6 +1529,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
         -   This Talent CAN be obtained with 20 medium and a pistol equipped.
         -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
+
+-   Prime Ether Bullets \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
+    -   True Ether Bullets now procs in 2 hits instead of 3.
+    -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND offhand)
+
+-   Quick Draw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
+    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
+    -   Prerequisites: 55 Light Weapon, Using a Gun
 
 ### Hammer Rage
 
@@ -3853,9 +3861,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
 
--   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 20%, but your incoming mantra damage is cut by 20% too. (+5 Health)
+-   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 15%, but your incoming mantra damage is cut by 15 too. (+5 Health)
     -   RTTDA doesn't stack if both players have it.
-    -   Also reduces burn dealt by 20%.
+    -   Also reduces burn dealt by 15%.
         -   The only non-Mantra effect it reduces the damage of is burn, meaning things like Eruptions, Puppets, Apparitions/Ghosts, lightning strikes, Crystal/Surge detonations, etc. will be unaffected by RTTDA.
     -   Works well with [Silentheart](Oath%253A_Silentheart.md).
     -   Prerequisite: [Power](Power.md) 10

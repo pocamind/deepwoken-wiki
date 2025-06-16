@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 145059
+revid: 146837
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -1343,11 +1343,9 @@ Found from:
 
  | 
 
-_+7 Health_
+_+2 Health_
 
-+2 Rare Pip
-
-+1 Legendary Pip
++3 Rare Pip
 
 _+Talent: Grotesque Resilience_
 
