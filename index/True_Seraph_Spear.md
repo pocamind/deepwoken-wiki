@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 146267
+revid: 146819
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Weapons with Unique Criticals]
@@ -33,7 +33,7 @@ The True Seraph Spear is a MED [weapon](Weapons.md). This spear can be obtained 
 
 ## Critical
 
-The critical resembles a backslash with a short windup. Hitting the backslash will do damage and initiate a lunge forward, which does additional damage. Both parts of the critical do bleed damage.
+The user performs a quick downslash before lunging forward. Both hits of this critical have **innate bleed** and deal 1x scaled damage.
 
 ## Trivia
 

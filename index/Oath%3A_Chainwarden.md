@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 146752
+revid: 146781
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -30,8 +30,8 @@ Lore wise Chainwardens are strong enforcers of justice serving [The Central Auth
 ## Obtainment
 
 1.  The Oath requires at least 40 points **combined** into either **Strength, Fortitude and Willpower**, for example: 20 Strength, 5 Fortitude and 15 Willpower, or 0 Strength, 30 Fortitude and 10 Willpower.
-2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with slightly lower than [Ally Rep](Reputation.md) or above, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
-3.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He will spawn on top the castle above the ladder. **NOTE: [Emar Vend](Emar_Vend.md) may sometimes not spawn, rejoining to another server should resolve this issue.** Upon defeating him, you will be granted the Oath.
+2.  Speak to [Vice Warden Morredh](Vice_Warden_Morredh.md) in [Fort Merit](Fort_Merit.md) with slightly below than [Ally Rep](Reputation.md) or higher, and retrieve a hostage below the [Castle Ruins at Summer Isle](Summer_Isle.md#castle-ruins).
+3.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He will spawn on top of the castle above the ladder. **NOTE: [Emar Vend](Emar_Vend.md) may sometimes not spawn, rejoining to another server should resolve this issue.** Upon defeating him, you will be granted the Oath.
 4.  If obtaining this with a friend and you don't receive kill credit after dealing damage to [Emar Vend](Emar_Vend.md), head back to [Vice Warden Morredh](Vice_Warden_Morredh.md) and he will provide you the oath.
 
 Chainwarden **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, as the Vice Warden will insult you.
@@ -55,7 +55,7 @@ Known humanoids bosses are:
 
 The Oath grants 2 Combat and 1 Wildcard mantra slots.
 
-As for appearance, it adds a chained gauntlet to your left arm, and a chained belt to the waist. The chains can be vividly dyed, however the gauntlet is much darker when recolored. If a pair of Cestus is equipped, the gauntlet overrides the appearance of the Cestus on the left arm, this effect however does not carry over to any similar [Arms Equipment](https://deepwoken.fandom.com/wiki/Equipment#Arms) such as the [Moonseye Gauntlets](Moonseye_Gauntlets.md), overlapping the two.
+As for appearance, it adds a chained gauntlet to your left arm, and a chained belt to the waist. The chains can be vividly dyed, however the gauntlet is much darker when recolored. If a pair of Cestus is equipped, the gauntlet overrides the appearance of the Cestus on the left arm, this effect however does not carry over to any similar [Arms Equipment](https://deepwoken.fandom.com/wiki/Equipment#Arms) such as the [Moonseye Gauntlets](Moonseye_Gauntlets.md), keeping both gauntlets on the left arm.
 
 ## Abilities
 
@@ -110,7 +110,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
         -   Chained targets automatically gain 1 stack.
         -   Hitting Chained targets with Restrain will add 1 stack of Perpetual Wrath.
         -   Stacks only reset when the chain breaks.
-        -   At 4 stacks Restrain will have a special SFX and wont increase in damage any further.
+        -   At 4 stacks Restrain will have a special SFX and won't increase in damage any further.
     -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
 
 -   **Chainlash - Talent Ability:**
@@ -148,7 +148,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   Using a wish to break your Oath at [Yun'Shul](https://deepwoken.fandom.com/wiki/Shrine_of_Yun%27Shul,_Keeper_of_Hearts), will cause [Vice Warden Morredh](Vice_Warden_Morredh.md) to say: "Another deserter? You're pathetic."
     -   Talking with [Vice Warden Morredh](Vice_Warden_Morredh.md) after Oath breaking Chainwarden will bring up the dialogue: "You dare show yourself before me? Not even groveling will change my mind about you, coward. You do not belong in a peaceful world." Prohibiting you from reobtaining the Oath
 -   This is one of the three Oaths where you cannot skip progression with knowledge. (Others being [Bladeharper](Oath%253A_Bladeharper.md) and [Soulbreaker](Oath%253A_Soulbreaker.md))
-    -   This is will most likely change in the future similar to Oaths such as [Saintsworn](Oath%253A_Saintsworn.md) which had their skip added late, although the developers most likely forgot.
+    -   This will most likely change in the future similar to Oaths such as [Saintsworn](Oath%253A_Saintsworn.md) which had their skip added late, although the developers most likely forgot.
 -   On release, despite Chainwarden only having 2 Mantras and no talents, Melonbeard stated the Oath was finished (In response to Arch (Arch\_Mage) calling it unfinished[\[1\]](#cite-note-1))
     -   Afterwards, Arch\_Mage updated the Oath adding Impel and Chainlash, along with converting Perpetual Wrath to a talent.
 

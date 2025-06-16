@@ -1,9 +1,11 @@
 ---
 title: Lake
-revid: 146658
+revid: 146808
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
+categories: [Chrysid NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Lake
@@ -16,7 +18,7 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-A [Chrysid](Chrysid.md) wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) near the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md), admiring the view from the cliff. Gives lore about nightflowers and talking about their home, a far off place from [Erisia](Erisia.md).
+Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) inside a cave within [Songseeker Wilds](Songseeker_Wilds.md). She speaks about how she ended up within the Wilds.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 146080
+revid: 146793
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Tools]
@@ -41,3 +41,4 @@ Pressing **B** while standing near a campfire with nothing in hand will make you
     -   Whether the campfire is lit or not depends on the order of the sparks (blast then tornado is unlit campfire and tornado then blast is lit campfire)
     -   Campfires despawn after 10 minutes.
 -   Four lit campfires are required to summon [The Ferryman](The_Ferryman.md).
+-   Using [Glider](Gliders.md) above a [Campfire](Campfire_Pit.md) will lift you up a bit.

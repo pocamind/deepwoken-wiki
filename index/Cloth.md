@@ -1,6 +1,6 @@
 ---
 title: Cloth
-revid: 146731
+revid: 146787
 source: https://deepwoken.fandom.com/wiki/Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -8,11 +8,21 @@ categories: [Items, Craftable, Ingredients]
 
 # Cloth
 
+| Cloth | |
+|---|---|
+| value | N/A |
+| weight | N/A |
+| stack | xx99 |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A sheet of cloth woven together with fibers. |
+| obtainment | Bought for from every vendor., Crafting together three (3) Fiber. |
+
 “ Don't get your threads in a knot! ”
 
 ― A Fiber strand
-
-Template:ItemTemplateNEW
 
 **Cloth** is an essential resource used to craft [Outfits](Outfits.md) and other tools.
 

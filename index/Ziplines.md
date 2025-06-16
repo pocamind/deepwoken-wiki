@@ -1,6 +1,6 @@
 ---
 title: Ziplines
-revid: 146336
+revid: 146807
 source: https://deepwoken.fandom.com/wiki/Ziplines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -26,10 +26,15 @@ While descending, the user can press Space to leap forward and gain a considerab
 
 ## Locations
 
+### Etrean Luminant
+
 -   [Isle of Vigils](Isle_of_Vigils.md)
 -   [Etris](Etris.md)
 -   [Erisia](Erisia.md)
 -   [Minityrsa](Minityrsa.md)
+
+### Eastern Luminant
+
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Miner's Landing](<Miner's_Landing.md>)

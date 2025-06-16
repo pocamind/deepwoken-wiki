@@ -1,24 +1,28 @@
 ---
 title: Whirlpools
-revid: 145387
+revid: 146810
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics]
+categories: [Mechanics]
 ---
 
 # Whirlpools
 
-Template:Areainfobox
+| Whirlpools | |
+|---|---|
+| usage | Sink into The Depths without dying |
 
-**Whirlpools** are scattered over the sea.
+## Description
 
-Whirlpools are a safe and easy way to access The Depths; an alternative way to enter [The Depths](The_Depths.md) without having to die, and it doesn't count as a drown. Many things need you to enter The Depths by whirlpools, such as to enter [Castle Light](Castle_Light.md).
+Whirlpoools are vortexes of water that allow the player to sink into [The Depths](The_Depths.md) safely. They are scattered across the sea.
 
-Driving [Boats](Ships_&_Sailing.md) into a whirlpool will result in the boat sinking and being destroyed.
+## Usage
 
-If you are fighting a [Dread Serpent](Dread_Serpent.md) by a whirlpool, you may get knocked into it.
+Whirlpools can be used to access [The Depths](The_Depths.md). If the player is within the vicinity of a whirlpool, they will swiftly be dragged to the eye and sink into the water.
 
-## Whirlpool Locations
+If the player has accessed The Depths through this way, they can enter certain places like [Castle Light](Castle_Light.md) and [The Chariot's Spire](<The_Chariot's_Spire.md>), bypassing its barriers.
+
+## Locations
 
 ### Etrean Luminant
 
@@ -30,13 +34,17 @@ If you are fighting a [Dread Serpent](Dread_Serpent.md) by a whirlpool, you may 
         Whirlpool Location #2
         
 -   Going beyond north of [Minityrsa](Minityrsa.md) to the [Voidsea](Voidsea.md) where you can at least see two whirlpools.
+-   At the corner of the Sea Highway near the [Isle of Vigils](Isle_of_Vigils.md).
 
 ### Eastern Luminant
 
 -   At the right-hand side of [Monkey's Paw](<The_Monkey's_Paw.md>).
--   In the middle of the sea highway connecting [Miner's Landing](<Miner's_Landing.md>) and [Fort Merit](Fort_Merit.md).
+-   To the left and right of the sea highway connecting [Miner's Landing](<Miner's_Landing.md>) and [Fort Merit](Fort_Merit.md).
 -   Many whirlpools within the vicinity of [Boatman's Watch](<Boatman's_Watch.md>).
+-   Multiple on the way to the [Moon's Eyrie](<Moon's_Eyrie.md>), and at the bottom of the Eyrie.
+-   Far and in between [Greathive Aratel](Greathive_Aratel.md) and the [Fort Merit](Fort_Merit.md) beach.
 
-Whirlpools can also rarely spawn on the edges of highways and other random locations, such as in the divide between the two main halves of the [Songseeker Wilds](Songseeker_Wilds.md).
+## Trivia
 
-File:46ca5a3e-1fd9-422f-8ee3-a58567b57121.png
+-   Some [Monsters](Monsters.md) can get dragged into Whirlpools.
+-   Driving [Boats](Ships_&_Sailing.md) into a whirlpool will result in the boat sinking and being destroyed.
