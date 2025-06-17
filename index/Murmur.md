@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 146599
+revid: 147093
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics, Murmurs]
@@ -29,10 +29,12 @@ Murmurs are strong but hard to master abilities. A weak user will have a harder 
 
 There are currently three Murmurs:
 
--   [Ardour](Murmur%253A_Ardour.md) - A Murmur that increases outgoing M1 posture damage by 20% and decreases incoming posture damage by 15%.
-    -   [Ardour Scream](Murmur%253A_Ardour.md) - A talent that debuffs the enemies defense by 25% and posture by 50%.
--   [Tacet](Murmur%253A_Tacet.md) - A Murmur focused on stealth and concealing oneself, that can lead to unlocking a [Mantra](Attunement-less.md) that leaves you out of sight for a powerful dropkick. [Jus Karita](Jus_Karita.md) and 5 strength is needed alongside this to unlock **Tacet Drop Kick**
--   [Rhythm](Murmur%253A_Rhythm.md) - A support-based Murmur that allows for tracking of others and their health.
+-   [**Ardour**](Murmur%253A_Ardour.md) - A Murmur that increases outgoing M1 posture damage by 20% and decreases incoming posture damage by 15%.
+    -   [Ardour Scream](Murmur%253A_Ardour.md) - An offshoot talent that debuffs the enemies defense by 25% and posture by 50%.
+        -   Requires 15 strength and 40 willpower on top of [Ardour](Murmur%253A_Ardour.md)
+-   [**Tacet**](Murmur%253A_Tacet.md) - A Murmur focused on stealth and concealing oneself, which allows the user to become invisible to other players
+    -   [Tacet Drop Kick](https://deepwoken.fandom.com/wiki/Attunement-less#Tacet_Drop_Kick) - an offshoot 0-star attunementless mantra that requires 5 strength and [Jus Karita](Jus_Karita.md) on top of [Tacet](Murmur%253A_Tacet.md)
+-   [**Rhythm**](Murmur%253A_Rhythm.md) - A support-based Murmur that allows for tracking of others and their health.
 
 ## Trivia
 

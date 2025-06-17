@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 138828
+revid: 147111
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Drops, Coats]
@@ -35,4 +35,4 @@ This can be considered the preferred Monster hunting armor, as due to its innate
 
 ## Additional notes:
 
--   The unobtainable "Magenta Pathfinder Elite" cannot be [smelted](Transmogrification.md) onto another item. If you attempt to smelt it onto another item, you will be met with "Hm?! What is zis?!" dialogue by either [Jarvis](Jarvis.md) or an Artisan who is the guild. Evidence: https://medal.tv/games/roblox/clips/jR63eGjhV9ak3INPO
+-   The unobtainable "Magenta Pathfinder Elite" cannot be [smelted](Transmogrification.md) onto another item. If you attempt to smelt it onto another item, you will be met with "Hm?! What is zis?!" dialogue by either [Jarvis](Jarvis.md) or an Artisan who is the guild.

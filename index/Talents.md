@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147081
+revid: 147089
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1514,7 +1514,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Parting Gift \[Common Talent\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
     -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
-    -   This does **not** require you to have bullets in your inventory, meaning you can still proc True Ether Bullets while utilizing this Talent.
     -   The projectile M1s from this Talent can proc True Ether Bullets.
     -   Prerequisites: 75 Light Weapon, Dual Guns equipped (pistol in your main AND off hands)
 

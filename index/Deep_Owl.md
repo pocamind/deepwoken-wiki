@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 146698
+revid: 147096
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies]
@@ -133,7 +133,7 @@ In the event that the encounter is triggered, the Deep Owl will question the pla
 
 If choosing to fight the Deep Owl for the first time, there are several things the player should keep in mind;
 
--   Typically, the Owl becomes reasonable to kill from level 7 onwards, but may be powerchecked around Power 12.
+-   Typically, the Owl becomes reasonable to kill from Power 7 onwards, but may be powerchecked around Power 12.
 -   It is recommended to bring a shield if unfamiliar with the Owl in order to learn its attack patterns.
 -   It will not turn hostile until attacked first, giving a chance to land a single hit before it starts attacking back.
 -   It will also become hostile if the player turns their back on it.

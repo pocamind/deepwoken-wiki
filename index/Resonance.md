@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 145453
+revid: 147087
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -140,6 +140,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 -   [The Ferryman](The_Ferryman.md)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight)
 -   [Nautilodaunt](Nautilodaunt.md)
+-   [The Enforcer](Enforcer.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Doom of Caeranthil](The_Doom_of_Caeranthil.md)

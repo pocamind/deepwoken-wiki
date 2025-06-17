@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Gamma
-revid: 136016
+revid: 147105
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]
@@ -20,7 +20,7 @@ Deepdelver Gamma is a [Khan](Khan.md) NPC. You can find him in front of the main
 
 ## Location
 
-Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spire](<The_Chariot's_Spire.md>). To reach him you need to climb the first ladder to get up to the spire, then go inside and climb another ladder to his office.
+Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spire](<The_Chariot's_Spire.md>). To reach him you need to climb the first ladder to get up to the spire, then go inside and climb another ladder to get into his office.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 143105
+revid: 147109
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -231,7 +231,7 @@ _They do add new sound effects to threshers!_
 -   **Mudskipper Hive**
     -   A corrosive island filled with mushrooms, corals, and a distinctive tower atop it. Depending on the variant of the island, different [Mudskippers](Mudskipper.md) can spawn with the addition of a [Mudskipper Brutes](Mudskipper_Brute.md) or [Mudskipper Broodlord](Mudskipper_Broodlord.md) (Eastern Luminant only). Defeating them will grant a Depths Chest and an Erisia Chest.
 
-#### Traveling Merchant
+#### Travelling Merchant
 
 A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, Tools and very rarely, Dye Packets.
 

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 145720
+revid: 147110
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -180,8 +180,7 @@ These Flaws can be chosen at character creation with no requirements for obtainm
   <td><center><b>Vegetarian</b></center></td>
   <td><center>Eating the flesh of animals has a chance to make you vomit.</center></td>
   <td><center>Eating meat-based foods has an ~50% chance to make you vomit.</center></td>
-  <td><center>You cannot obtain <a href="Talents.md#apex-predator">Carnivore</a> if you have this Flaw.<br>
-  Despite being a base Flaw, this Flaw cannot be obtained by Flaw granting <a href="Deep_Shrines.md">Deep Shrines</a>, like <a href="Deep_Shrines/Shrine_of_Order.md">Shrine of Order</a> or <a href="Deep_Shrines/Shrine_of_Blasphemy.md">Shrine of Blasphemy</a>.</center></td>
+  <td><center>You cannot obtain <a href="Talents.md#apex-predator">Carnivore</a> if you have this Flaw. Despite being a base Flaw, this Flaw cannot be obtained by Flaw granting <a href="Deep_Shrines.md">Deep Shrines</a>, like <a href="Deep_Shrines.md#shrine-of-order">Shrine of Order</a> or <a href="Deep_Shrines.md#shrine-of-blasphemy">Shrine of Blasphemy</a>.</center></td>
   <td><center>1 Flaw Point</center></td>
 </tr>
 </tbody>
@@ -205,7 +204,7 @@ These Flaws can be chosen at character creation, but require an additional requi
   <td><center><b>Blind</b></center></td>
   <td><center>You cannot see.</center></td>
   <td><center>You gain a less extreme version of the <a href="Talents.md#miscellaneous">Blinded Talent</a>, cascading everything in darkness; making things even if close up hard to discern from your other surroundings.</center></td>
-  <td><center>This Flaw provides protection from <a href="Flamecharm.md#flame-blind">Flame Blind</a> and <a href="Attunement-less.md#gaze">Gaze</a>. As <a href="Gremor.md">Gremors</a> are blessed by Navae, you gain an area around your character in which there is light, greatly assisting your ability to see. Additionally, instead of pure darkness, the Blind effect for Gremors has a more green hue instead.</center></td>
+  <td><center>This Flaw provides protection from <a href="Flamecharm.md#flame-blind">Flame Blind</a> and <a href="Attunement-less.md#gaze">Gaze</a>. As <a href="Gremor.md">Gremors</a> are blessed by Navae, you gain an area around your character in which there is light, greatly assisting your ability to see. Your character's eyes become a pale grey/white. Additionally, instead of pure darkness, the Blind effect for Gremors has a more green hue instead.</center></td>
   <td><center>Unlocked after obtaining <a href="Oath%253A_Blindseer.md">Blindseer</a> for the first time.</center></td>
   <td><center>1 Flaw Point</center></td>
 </tr>
@@ -271,7 +270,7 @@ These Flaws are granted via specific means instead of being chosen during charac
   <td><center>Isn't this what you wanted?</center></td>
   <td><center>Gain insanity during the night.</center></td>
   <td><center>N/A</center></td>
-  <td><center>Gained from making a wish with <a href="Developer_Specs.md#iltria-leafre-spellhardt-retired">Iltria</a> (Retired), a devloper for Deepwoken, who has an ability that allows players to make a wish from her, from one of three options.</center></td>
+  <td><center>Gained from making a wish with <a href="Developer_Specs.md#iltria-leafre-spellhardt-retired">Iltria</a> (Retired), a developer for Deepwoken, who has an ability that allows players to make a wish from her, from one of three options.</center></td>
   <td><center>?</center></td>
 </tr>
 </tbody>

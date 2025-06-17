@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 146997
+revid: 147090
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 
 ## Description
 
-The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a stocky bull-necked hilt giving rise to an ominous blade serving as the crypt and final resting place of a previous generation, hence it's. The weapon itself is wreathed in waning shadow, and is made of a large and long, forthright blade that is adorned in sharp symmetry and pallid patterns. The Crypt Blade scales off [Shadowcast](Shadowcast.md) alongside [Heavy Weapons](Attributes.md).
+The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a stocky bull-necked hilt giving rise to an ominous blade serving as the crypt and final resting place of a previous generation, hence its name. The weapon itself is wreathed in waning shadow, and is made of a large and long forthright blade that is adorned in sharp symmetry and pallid patterns. The Crypt Blade scales off [Shadowcast](Shadowcast.md) alongside [Heavy Weapons](Attributes.md).
 
 The Crypt Blade comes with 3 passive abilities:
 
