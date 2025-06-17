@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 143861
+revid: 147216
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First Layer, Oath Trainer]
@@ -32,7 +32,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 
 **First Encounter:**
 
-**Player is power 15 or above:**
+**Player is Power 15 or above:**
 
 <table>
 <tbody>
@@ -266,7 +266,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 <tr>
   <td colspan="3">An... Arch-Diver? Either you've come across a surviving diver with an inflated ego, or... <i>*She grimaces.*</i></td>
   <td colspan="3">...Never heard that phrase before in my life. I can only assume you're talking about the Eternal Gale? It's relatively unexplored, we've had Black Divers make it far but never return.</td>
-  <td colspan="6">*You hand her your findings and stories from the Gale, ranging from the lost Diver journals to the secrets of the layer itself.* ...I see. You've done a great deal for us. This is the least can offer in gratitude: the Deepshore Fossil. A strange device we found deep within the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it.</td>
+  <td colspan="6">*You hand her your findings and stories from the Gale, ranging from the lost Diver journals to the secrets of the layer itself.* ...I see. You've done a great deal for us. This is the least I can offer in gratitude: the Deepshore Fossil. A strange device we found deep within the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it.</td>
 </tr>
 <tr>
   <td colspan="3">Or what?</td>
@@ -449,7 +449,6 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 
 ## Trivia
 
--   There is a typo when returning the Diver Journals to her; she says 'this is the least can offer,' it should say 'this is the least WE can offer.'
 -   You don't have to beat Chaser after you unlock the Galewax shrine for it to count to the Deepshore Fossil quest.
 -   She is the inventor of Radiant Magic.
 -   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend- though, Arch\_Mage stated there is no relation.

@@ -1,9 +1,9 @@
 ---
 title: Weathered Timepiece
-revid: 132237
+revid: 147176
 source: https://deepwoken.fandom.com/wiki/Weathered_Timepiece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Uses, Items, Drops, Ingredients]
+categories: [Items, Drops, Ingredients]
 ---
 
 # Weathered Timepiece
@@ -20,12 +20,8 @@ categories: [Uses, Items, Drops, Ingredients]
 
 ## Description
 
-**Weathered Timepiece** is a very rare drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), it may be found at the bottom of the item list in his boss chest.
+**Weathered Timepiece** is a very rare drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md). It may be found at the bottom of the item list in his boss chest. It appears to be a broken watch.
 
 ## Uses
 
--   Used to craft the [Vortex Echo](Vortex_Echo.md) relic fist weapon.
-
-## Trivia
-
--   Is a broken watch
+-   Used to craft the [Vortex Echo](Vortex_Echo.md) Relic fist weapon.

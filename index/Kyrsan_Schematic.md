@@ -1,9 +1,9 @@
 ---
 title: Kyrsan Schematic
-revid: 131902
+revid: 147171
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Schematic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Uses, Items, Ingredients, Drops]
+categories: [Items, Ingredients, Drops]
 ---
 
 # Kyrsan Schematic

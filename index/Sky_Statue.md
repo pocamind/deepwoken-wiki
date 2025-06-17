@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 137277
+revid: 147157
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Tips]
@@ -21,9 +21,9 @@ Sky Statue located next to Lower Erisia
 
 ## Locations
 
-1.  On top of the gate between the sea with lower erisia and isle of vigils and the sea with minitersa and the waterlocks
+1.  On top of the gate between the sea with lower erisia and isle of vigils and the sea with minityrsa and the waterlocks
 2.  Behind Lord Regent's Manor
-3.  On top of Songseeker's mountain by the MINITYRSA gate
+3.  On top of Songseeker's mountain by Derelict Highchurch
 
 Sky Statue located in Etris behind Lord Regent's Manor.
 

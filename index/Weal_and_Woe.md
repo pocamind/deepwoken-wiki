@@ -1,6 +1,6 @@
 ---
 title: Weal and Woe
-revid: 146615
+revid: 147183
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Multiple Criticals, Medium Weapons]
@@ -33,7 +33,7 @@ Weal and Woe are a pair of legendary [Shadowcast](Shadowcast.md) spears.
 
 ## Obtainment
 
-To obtain Weal and Woe, you need to craft one [Umbral Candle](Candle.md); you can craft Candles with one [Beeswax](Alchemy.md) and one [Fiber](Ingredients.md#fiber), then combine the Candle with one [Umbrite](Ores.md) or [Umbral Obsidian](Umbral_Obsidian.md) to make an Umbral Candle.
+To obtain Weal and Woe, you need to craft one [Umbral Candle](Candle.md); you can craft Candles with one [Beeswax](Beeswax.md) and one [Fiber](Fiber.md), then combine the Candle with one [Umbrite](Ores.md) or [Umbral Obsidian](Umbral_Obsidian.md) to make an Umbral Candle.
 
 After you obtain the Umbral Candle, enter [Lost Celtor](Lost_Celtor.md). Inside a building in the bottom right quarter, there will be a ritual circle riddled with other objects of ritualistic importance. Upon placing an Umbral Candle on the ritual circle and lighting it with a Flint or alternative, two twin NPCs, [Goesh and Draud](Goesh_and_Draud.md), will spawn nearby, each wielding one of the two spears. Defeat both of them to obtain the weapon.
 

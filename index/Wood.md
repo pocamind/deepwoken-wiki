@@ -1,6 +1,6 @@
 ---
 title: Wood
-revid: 146785
+revid: 147195
 source: https://deepwoken.fandom.com/wiki/Wood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -12,7 +12,7 @@ categories: [Items, Craftable, Ingredients]
 |---|---|
 | value | N/A |
 | weight | N/A |
-| stack | xx99 |
+| stack | x99 |
 | type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |

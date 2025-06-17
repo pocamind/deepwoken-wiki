@@ -1,9 +1,9 @@
 ---
 title: Beeswax
-revid: 144579
+revid: 147213
 source: https://deepwoken.fandom.com/wiki/Beeswax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Items, Uses, Alchemy]
+categories: [Ingredients, Items, Alchemy]
 ---
 
 # Beeswax
@@ -26,4 +26,4 @@ Beeswax on a tree
 
 Beeswax in hand
 
-Beeswax can be found hanging off of large trees in a few fixed spots, especially around [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md) and [Miner's Landing](<Miner's_Landing.md>). This requires you to climb to harvest them or to chop the tree. They usually spawn close to [Pomar](Ingredients.md) trees. Unlike the held item, Beeswax appears as a beehive. **They are most commonly found in the Summer and the Spring.**
+Beeswax can be found hanging off of large trees in a few fixed spots, especially around [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md) and [Miner's Landing](<Miner's_Landing.md>), but can also be found in [Lower Erisia](Lower_Erisia.md). This requires you to climb to harvest them or to chop the tree. They usually spawn close to [Pomar](Ingredients.md) trees. Unlike the held item, Beeswax appears as a beehive. **They are most commonly found in the Summer and the Spring.**

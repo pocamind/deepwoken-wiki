@@ -1,6 +1,6 @@
 ---
 title: Mantra Lectern
-revid: 139079
+revid: 147168
 source: https://deepwoken.fandom.com/wiki/Mantra_Lectern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras]
@@ -10,6 +10,7 @@ categories: [Mechanics, Mantras]
 
 | Mantra Lectern | |
 |---|---|
+| usage | Modifying Mantras |
 
 ## Description
 

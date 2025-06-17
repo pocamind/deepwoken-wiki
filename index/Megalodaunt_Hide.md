@@ -1,9 +1,9 @@
 ---
 title: Megalodaunt Hide
-revid: 111493
+revid: 147178
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Uses, Items, Drops, Ingredients]
+categories: [Items, Drops, Ingredients]
 ---
 
 # Megalodaunt Hide
@@ -29,7 +29,3 @@ categories: [Uses, Items, Drops, Ingredients]
 -   Crafting the [Sharkscale Glider](Gliders.md) Item.
 -   Crafting the [Prophet's Cloak](<Prophet's_Cloak.md>)
 -   Using 5 of them to summon the [Primadon](Primadon,_Titan_of_the_East.md) boss.
-
-## Trivia
-
--   The Megalodaunt skins model hasnt changed since the games release :0

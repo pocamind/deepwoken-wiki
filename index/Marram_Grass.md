@@ -1,6 +1,6 @@
 ---
 title: Marram Grass
-revid: 147048
+revid: 147207
 source: https://deepwoken.fandom.com/wiki/Marram_Grass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables, Ingredients, Alchemy]
@@ -20,9 +20,9 @@ categories: [Pages with broken file links, Items, Harvestables, Ingredients, Alc
 
 ## Description
 
-**Marram Grass** is an [Ingredient](Ingredients.md) in Deepwoken. It can be used to craft Fiber. It is found in patches of short, green grass which can be harvested by the player.
+**Marram Grass** is an [Ingredient](Ingredients.md) in Deepwoken. It can be used to craft [Fiber](Fiber.md). It is found in patches of short, green grass which can be harvested by the player.
 
-Every two Marram Grass is equal to one Fiber, which every three of is equal to one Cloth. So, six Marram Grass is equal to one Cloth.
+Every two Marram Grass is equal to one Fiber, which every three of is equal to one [Cloth](Cloth.md). So, six Marram Grass is equal to one Cloth.
 
 ## Locations
 

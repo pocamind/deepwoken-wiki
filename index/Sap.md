@@ -1,9 +1,9 @@
 ---
 title: Sap
-revid: 144523
+revid: 147187
 source: https://deepwoken.fandom.com/wiki/Sap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Uses, Ingredients, Harvestables, Alchemy]
+categories: [Ingredients, Harvestables, Alchemy]
 ---
 
 # Sap

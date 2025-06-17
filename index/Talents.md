@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147089
+revid: 147198
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1896,6 +1896,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
         -   Default knock time is 10 seconds, so you can make your friends get back into the fight over 3 times faster.
         -   Takes 5% ether on use and an extra 20% on successive use.
+        -   Brings the target up with 10% health.
         -   Requires an animation, stunlocking yourself.
     -   Prerequisites: 40 Fortitude OR 40 Charisma, 50 Thundercall
 

@@ -1,6 +1,6 @@
 ---
 title: Stick
-revid: 135731
+revid: 147184
 source: https://deepwoken.fandom.com/wiki/Stick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -12,7 +12,7 @@ categories: [Items, Harvestables]
 
 ### Obtainment
 
-Sticks can be found around the floor of many isles of Lumen and a result of putting [wood](Ingredients.md) on the craft menu (This will give you 3 sticks), or buying it from shops.
+Sticks can be found around the floor of many isles of Lumen and a result of putting [Wood](Wood.md) on the craft menu (This will give you 3 sticks), or buying it from shops.
 
 ### Uses
 

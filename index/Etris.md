@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 146496
+revid: 147210
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea]
@@ -37,7 +37,7 @@ Etris is the capital of the [Kingdom of Etrea](Etrea.md), being on top of a tall
 
 #### Antiquarian
 
--   Players can find an [antiquarian](Antiquarian.md) who will purchase their sellable items.
+-   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 -   Players can purchase ankle weights (AGI), a boulder (FTD & STR), a dumbbell (STR), a training vest (FTD), and prayer beads (WLP) for each.
 
 Blacksmith
@@ -45,7 +45,7 @@ Blacksmith
 #### Blacksmith
 
 -   Players can find Caragan, a [blacksmith](Blacksmith.md), here.
--   Players can purchase [materials](Ingredients.md) here. If players are given a discount by Pori, they still cannot purchase materials unless they have the base price.
+-   Players can purchase [Cloth](Cloth.md), [Fiber](Fiber.md), [Wood](Wood.md), [Rock](Ores.md#rock), [Coal](Ores.md#coal), [Iron](Ores.md#iron), and [Gold](Ores.md#gold) here. Cloth and Fiber are sold outside of the Blacksmith by [Pori](Pori.md), who can give you a 50% discount on them if you talk to him, however you are still unable to purchase Cloth or Fiber unless you can afford their base price.
     -   Wood can be purchased for.
     -   Cloth can be purchased for / (discounted price).
     -   Rocks can be purchased for /.
@@ -56,7 +56,7 @@ Mantra shop
 
 #### Mantra Shop
 
--   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FIR), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for each.
+-   The Mantra Shop contains a [Mantra Table](Mantra_Lectern.md). Previously, [Attunement Training Gear](Training_Gear.md#attunement-training-gears) were sold here individually, but this function was replaced with [Gear Cabinets](Training_Gear.md). There's no Gear Cabinet in the shop itself, however; the closest Gear Cabinet from the Mantra Shop is at the Antiquarian.
 -   Above the mantra shop, accessible through the weaponry, the schematic for [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) can be purchased for.
 
 Weaponry
