@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 135652
+revid: 147151
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -26,6 +26,8 @@ categories: [Equipment, Rings]
 ## Description
 
 **Armorer's Ring** is a Ring [Equipment](Equipment.md) piece that grants the user 10% reduction to incoming armor damage.
+
+Does not reduce the Metal [enchant's](Enchantments.md) armor damage.
 
 ## Trivia
 

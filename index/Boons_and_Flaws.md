@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 147110
+revid: 147150
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -13,8 +13,6 @@ categories: [Mechanics, Character, Creation]
 They are modifiers that effect gameplay in various ways, including vital core mechanics such as ether, hunger, and reputation, for the better, or worse.
 
 ## Boons
-
-**Boons:**
 
 Boons are positive and helpful effects that are chosen in Character Creation. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Flaw Points and therefore more Boons. You can only have a maximum of 2 Boons at once.
 
@@ -109,8 +107,6 @@ These Boons can be chosen at character creation, but require an additional requi
 </table>
 
 ## Flaws
-
-**Flaws:**
 
 Flaws are negative and harmful effects, most often chosen in Character Creation. Most Flaws can be rerolled by talking to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) or [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) if you are over Power 17. Choosing Flaws will grant Flaw Points, allowing you to choose more Boons.
 
@@ -260,7 +256,7 @@ These Flaws are granted via specific means instead of being chosen during charac
 <tr>
   <td><center><b>Vacant</b></center></td>
   <td><center>Something is missing.</center></td>
-  <td><center>You lose your soul, preventing you from interacting with of the game's mechanics.</center></td>
+  <td><center>You lose your soul, preventing you from interacting with some of the game's mechanics.</center></td>
   <td><center>You cannot enter <a href="Castle_Light.md">Castle Light</a> nor can you partake in a <a href="Vow_of_Mastery.md">Vow of Mastery</a>. All currently active Vows of Masteries that you are a part of are permanently severed.</center></td>
   <td><center>Gained from making a deal with <a href="Developer_Specs.md#arch-mage-haske-vantage">Arch_Mage</a>, a developer for Deepwoken, who has an ability that allows players to make a deal with him for their soul. Additionally has a chance of being gained from making a deal with <a href="Shrine_of_Yun'Shul,_Keeper_of_Hearts.md">Yun'Shul</a>.</center></td>
   <td><center>?</center></td>

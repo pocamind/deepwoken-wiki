@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 147044
+revid: 147114
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1171,12 +1171,12 @@ N/A
 
 **Effect:** _User taunts their opponent, signified by red particles._
 
+-   Effect lasts for 10 seconds.
 -   Affected entities receive 20% more damage.
 -   Affected entities deal 10% more damage to you specifically.
 -   Affected entities become unable to jump.
 -   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the **Oh the Irony** Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
--   Effect lasts for 10 seconds
 
  |
 | 
@@ -1266,7 +1266,6 @@ Blunt
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
     -   This allows for Twisted Flames' Puppets to home in closer and for teammates using mantras such as Eclipse Kick to try timing these to hit the opponent as soon as they're released.
 -   Can be modified with Crystal/Perfect Lenses to increase it's range.
--   Not a kiss.
 
  |
 | 
