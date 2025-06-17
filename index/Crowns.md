@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 141868
+revid: 147064
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency]
@@ -31,15 +31,19 @@ Crown can be obtained in 2 ways: [World Bosses](Bosses.md#world-bosses) or [War 
 
 ### **Usage**
 
-Crowns are able to be exchanged for Knowledge or Notes by interacting with the icon, where the user can choose a desired currency to exchange with. Currently, the exchange rate is:
+Crowns are able to be exchanged for Knowledge or Notes by interacting with the icon, where the user can choose a desired currency to exchange with. The exchange rate scales with your current level.
 
--   200 [Notes](Notes.md) per Crown
--   1 [Knowledge](Knowledge.md) per Crown
+-   At level 1:
+    -   or 1 [Knowledge](Knowledge.md) per Crown.
+
+-   At level 20:
+    -   or 5 [Knowledge](Knowledge.md) per Crown.
 
 Some NPCs only deals in Crowns, these are:
 
--   [Sev](Sev.md), the Dye Vendor, exchanging Dye Packet for 1 Crown a piece
--   [Sordino](Sordino.md) the Tamer of Beasts, exchanging varying Mounts for Crowns
+-   [Sev](Sev.md), the Dye Vendor, exchanging [Dye Packets](Dye_Packet.md) for 1 Crown a piece.
+-   [Sordino](Sordino.md) the Tamer of Beasts, exchanging varying Mounts for Crowns.
+-   While [Trahne Zakshun](Traan_Zakshun.md) sells goods for Notes normally, his Black Market wares are sold exclusively for Crowns.
 
 Note that currently, the Crown system is being slowly rolled out, meaning more uses/trades for Crowns are to be expected.
 

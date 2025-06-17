@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 146832
+revid: 147040
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -156,7 +156,7 @@ Flip upside down and rapidly shoot your target five to six times, finishing with
 
 ### Divine Longsword
 
-Strike forward with your elbow, following up with three divine slashes. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
+Strike forward with your elbow, following up with three divine slashes. The initial strike is unparryable. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
 
 ### Divine Spear
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 146861
+revid: 147065
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -69,7 +69,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Deal 20% more weapon damage in PvE.<br>
   This damage bonus bypasses both the soft and hard damage multiplier caps (can reach 1.95x damage).<br>
   Critical attack or parrying 3 times in a row, shoots down a star that explodes and does 100 PvE AoE damage, 3% in PvP.<br>
-  Can be obtained via an enchant stone dropped by a <a href="Star_Knight.md">Star Knight</a> or <a href="Moon_Knight.md">Moon Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>. It can also be obtained from the <a href="Moon's_Eyrie.md">Moon's Eyrie</a> chest.</p></div></td>
+  Can be obtained via an enchant stone dropped by a <a href="Star_Knight.md">Star Knight</a> or <a href="Moon_Knight.md">Moon Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>. It can also be obtained from the <a href="Moon's_Eyrie.md">Moon's Eyrie</a> chest and <a href="Traan_Zakshun.md">Trahne Zakshun's</a> black market for 20 <a href="Crowns.md">Crowns</a>.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
@@ -141,7 +141,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (20% more damage at 100% HP)<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (20% more damage at 0% HP)<br>
   In PVE the damage buff is 0.25x the damage buff in PVP (8% - &gt; 2%, 20% - &gt; 5%).<br>
-  Hero's Reflection: While in the Heroism health range (0-25%, 75-100%), you are able to reflect elemental <a href="Status_Effects.md">Status Effects</a> (Burn, Chill, Suffocation, Winded, Shock, and Fear), <a href="Status_Effects.md#anti-heal">Antiheal</a>, and <a href="Attunement-less.md#taunt">Taunt</a>.</p></div></td>
+  Hero's Reflection: Landing M1s while in the Heroism health range (≤25%, ≥75%) will reflect certain status effects that are affecting you back onto your attacker. These status effects include: elemental <a href="Status_Effects.md">Status Effects</a> (Burn, Chill, Suffocation, Winded, Shock, and Fear), <a href="Status_Effects.md#anti-heal">Antiheal</a>, and <a href="Attunement-less.md#taunt">Taunt</a>.</p>
+  <p>Note: This does not clear the status effect from yourself. Additionally, the reflected Burn status effect is applied as if it were your own; with your own investment and Talents.</p></div></td>
   <td><div>Weapon turns completely yellow and is covered in a yellow glow.</div></td>
 </tr>
 <tr>

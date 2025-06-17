@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147030
+revid: 147081
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -265,7 +265,8 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   Prerequisite: 5 Agility
 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. (+1 Passive Agility)
-    -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
+    -   After 3 seconds of sprinting without taking damage, gain increased health regeneration.
+    -   The additional health regen from this Talent scales on your Agility investment, scaling up to 300% base health regen at 100 Agility. The health regen is reduced in PvP combat.
     -   Prerequisites: All Alley Cat Talents
 
 ### All-Knowing
@@ -1513,11 +1514,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Parting Gift \[Common Talent\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
     -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
-    -   Prerequisites: 75 Light Weapon, Dual Guns equipped (pistol in your main AND offhand)
+    -   This does **not** require you to have bullets in your inventory, meaning you can still proc True Ether Bullets while utilizing this Talent.
+    -   The projectile M1s from this Talent can proc True Ether Bullets.
+    -   Prerequisites: 75 Light Weapon, Dual Guns equipped (pistol in your main AND off hands)
 
 -   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment.
     -   Prerequisites: 30 Intelligence and 20 Light Weapon/Medium Weapon, Using a Gun/Rifle
-        -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
+        -   Landing 2 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
             -   The 3rd shot apply your attunement's elemental effect:
                 -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
                 -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
@@ -1529,11 +1532,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
             -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
         -   This Talent CAN be obtained with 20 medium and a pistol equipped.
-        -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
 
 -   Prime Ether Bullets \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
-    -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND offhand)
+    -   Adds 1.2 Intelligence scaling to your Pistols. For reference this is the same as the [Rosen's Ring](<Rosen's_Ring.md>).
+    -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND off hands)
 
 -   Quick Draw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon

@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 142664
+revid: 147061
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -20,13 +20,13 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 | chip damage | 30% |
 | special effect | Every M1 applies a soul stack to the target, capping at 3 stacks. |
 | stances | 2 Handed, 1 Handed |
-| selling price | n/a |
+| selling price | N/A |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Moon's Eyrie, Voidsea (chests), Semblance, Dread Serpent |
+| obtainment | Moon's Eyrie, Voidsea (chests), Semblance, Dread Serpent, Sold by Trahne Zakshun for 10 Crowns |
 | description | "Swirling within, the core of this blade is said to have been siphoned from the Moonseye by a Celestial traveler on their voyage across the skies. Its edge transmits a cutting anguish upon its foe, carving spiritual wounds. Its previous wielder, once known as the Moonlight Prince, is said to have been driven to madness by the voices trapped within. Holding it, you can hear it whispering speaking directly into your mind. The voices within lament their twisted fate; stolen away from their heavenly vault to ultimately meet the same fate as the Drowned." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 147024
+revid: 147074
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, Medium Weapons]

@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 146519
+revid: 147072
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the First Layer]
@@ -30,15 +30,88 @@ Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
 
 ## Dialogue
 
--   You down here to see the goods?
-    -   1 - What?
+**First Encounter:**
 
--   Oh, you must be new around here... I'm selling weapon and armor to anyone willing to play premium notes
-    -   1 - What are you selling?
-    -   2 - Premium notes?
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">You down here to see the goods?</td>
+</tr>
+<tr>
+  <td colspan="12">What?</td>
+</tr>
+<tr>
+  <td colspan="12">Oh, you must be new around here... I'm selling weapon and armor plans to anyone willing to pay premium notes.</td>
+</tr>
+<tr>
+  <td colspan="6">1. What are you selling?</td>
+  <td colspan="6">2. Premium notes?</td>
+</tr>
+<tr>
+  <td colspan="6">[Opens Shop UI]</td>
+  <td colspan="6">Are you slow? Yes, <i>premium notes</i>. I sell to the lazy and rich. If you don't like my prices, go try finding these schematics yourself.</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">What are you selling?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">[See first instance.]</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
--   Choosing option 1 - Here's what I'm offering at the moment. (Opens shop)
--   Choosing option 2 - Are you slow? Yes, premium notes. I sell to the lazy and rich. If you don't like my prices, go try finding these weapons and schematics yourself. (Allows you to open the shop still)
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Here to see the goods?</td>
+</tr>
+<tr>
+  <td colspan="12">Yeah.</td>
+</tr>
+<tr>
+  <td colspan="12">[Opens Shop UI]</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Shop UI:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="18">Begin</td>
+</tr>
+<tr>
+  <td colspan="6">When accessing the Shop</td>
+  <td colspan="6">After purchasing something</td>
+  <td colspan="6">If you can't afford the item you attempted to buy</td>
+</tr>
+<tr>
+  <td colspan="6">Here's what I'm offering at the moment.</td>
+  <td colspan="6">Alright now scram unless you've got something else you want. You'll scare off the other potential customers.</td>
+  <td colspan="6">You trying to scam me? You don't have enough money for this. Scram.</td>
+</tr>
+<tr>
+  <td colspan="18">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Shop Rotation
 

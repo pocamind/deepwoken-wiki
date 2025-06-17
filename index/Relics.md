@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 146830
+revid: 147062
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -48,7 +48,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   Sold by [Trahne Zakshun](Traan_Zakshun.md) for 1 [Crown](Crowns.md)
 
  |
 | 
@@ -76,8 +76,8 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   Sold by [Trahne Zakshun](Traan_Zakshun.md) for 1 [Crown](Crowns.md)
 
  |
 
