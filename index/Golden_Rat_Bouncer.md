@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 141037
+revid: 147231
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Golden Rat Bouncer is a [Golden Warrior](Golden_Warrior.md) standing outside of the [Rat's Den](<Rat's_Den.md>), guarding it. They say they'll offer you something if you bring them 5 [Gold Plates](Ingredients.md), which is a small chest containing high-tier loot for Burning Stone Gardens.
+The Golden Rat Bouncer is a [Golden Warrior](Golden_Warrior.md) standing outside of the [Rat's Den](<Rat's_Den.md>), guarding it. They say they'll offer you something if you bring them 5 [Gold Plates](Gold_Plate.md), which is a small chest containing high-tier loot from [Burning Stone Gardens](Burning_Stone_Gardens.md).
 
 As they don't grip you, they can act as a much tankier, stronger version of the [Blade Instructor](Blade_Instructor.md). However, it is risky to fight them, due to the location.
 

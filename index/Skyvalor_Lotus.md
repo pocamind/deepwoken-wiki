@@ -1,15 +1,22 @@
 ---
 title: Skyvalor Lotus
-revid: 138909
+revid: 147271
 source: https://deepwoken.fandom.com/wiki/Skyvalor_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Ingredients]
+categories: [Items, Ingredients]
 ---
 
 # Skyvalor Lotus
 
-File:Skyvalor lotus.png
+| Skyvalor Lotus | |
+|---|---|
+| value | 15 |
+| weight | 1 |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A primordial Lotus, capable of producing the rawest form of power itself. |
+| obtainment | Crypt of the Unbroken, Starfield Grove |
 
-A Skyvalor Lotus
-
-The Skyvalor Lotus can be found in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) or [Starfield Grove](Starfield_Grove.md). 2 Skyvalor Lotuses are used to make the Flask of Willpower at a [Crafting Station](Crafting_Station.md).
+Skyvalor Lotus is one of the lotuses, and is an [Ingredient.](Ingredients.md) 2 Skyvalor Lotuses are used to make the Flask of Willpower at a [Crafting Station](Crafting_Station.md).

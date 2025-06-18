@@ -1,6 +1,6 @@
 ---
 title: Ouroboral Husk
-revid: 146099
+revid: 147230
 source: https://deepwoken.fandom.com/wiki/Ouroboral_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -26,8 +26,11 @@ The **Ouroboral Husk** is a consumable [Relic](Relics.md) with **10 uses**. Ouro
 
 Upon usage, the user will be prompted to select a location:
 
-1.  Garden Gate ([Saramaed Hollow](Saramaed_Hollow.md))
-2.  Skyward Vent ([Saramaed Summit](Saramaed_Summit.md))
+-   If used in the Overworld:
+    1.  Garden Gate ([Saramaed Hollow](Saramaed_Hollow.md))
+    2.  Skyward Vent ([Saramaed Summit](Saramaed_Summit.md))
+-   If used in [Saramaed Hollow](Saramaed_Hollow.md):
+    1.  Skyward Vent ([Saramaed Summit](Saramaed_Summit.md))
 
 A teleportation circle will appear below the user's feet, and after a short delay, you **and a maximum of 4 other players** will be teleported directly to your chosen location.
 

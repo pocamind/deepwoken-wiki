@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 146092
+revid: 147266
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -292,6 +292,8 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 -   All Megalodaunt Variants
 -   Rock Golem
 -   Threshers
+-   Terrapods
+-   Enforcers
 -   Duke Erisia
 
  |

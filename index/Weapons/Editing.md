@@ -1,6 +1,6 @@
 ---
 title: Weapons/Editing
-revid: 139448
+revid: 147262
 source: https://deepwoken.fandom.com/wiki/Weapons/Editing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -27,9 +27,8 @@ Swords: [AllSwordWeapons2](https://deepwoken.fandom.com/wiki/Template:AllSwordWe
 Spears: [AllSpearWeapons2](https://deepwoken.fandom.com/wiki/Template:AllSpearWeapons2)  
 Clubs: [AllClubWeapons2](https://deepwoken.fandom.com/wiki/Template:AllClubWeapons2)  
 Rifles: [AllRifleWeapons2](https://deepwoken.fandom.com/wiki/Template:AllRifleWeapons2)  
-Twinblades: [AllTwinbladeWeapons2](https://deepwoken.fandom.com/wiki/Template:AllTwinbladeWeapons2)
-
-Bow [AllBowWeapons2](https://deepwoken.fandom.com/wiki/Template:AllBowWeapons2)
+Twinblades: [AllTwinbladeWeapons2](https://deepwoken.fandom.com/wiki/Template:AllTwinbladeWeapons2)  
+Bow: [AllBowWeapons2](https://deepwoken.fandom.com/wiki/Template:AllBowWeapons2)
 
 ## Heavy Weapons
 
@@ -56,3 +55,7 @@ Flintlocks: [AllFlintlockWeapons](https://deepwoken.fandom.com/wiki/Template:All
 ## Hybrid Weapons
 
 Hybrid: [AllHybridWeapons2](https://deepwoken.fandom.com/wiki/Template:AllHybridWeapons2)
+
+## Other
+
+Crazy Slots: [AllCrazySlotsWeapons](https://deepwoken.fandom.com/wiki/Template:AllCrazySlotsWeapons)

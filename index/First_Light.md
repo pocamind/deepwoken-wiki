@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 147002
+revid: 147223
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crimson Megalodaunt (Very Rare)Merchant Ships (Very Rare) |
+| obtainment | Crimson Megalodaunt (Very Rare), Merchant Ships (Very Rare), Sold in Trahne Zakshun's black market for 12 Crowns |
 | description | "Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korlfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend." |
 
 ## Description

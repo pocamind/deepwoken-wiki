@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 147158
+revid: 147278
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -17,7 +17,7 @@ categories: [Relics, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ferryman, Duke Erisia, First Layer + Hell Mode (Brown Chests), Fishing, Primadon, The Diluvian Mechanism, First Layer, Lodestar, War Mode, The Ferryman, Etris: Siege, Lysander Spellhardt, Weird Trader, Heart of Enmity, The Understrand (Only from chests), Lodestar (Very rare) |
+| obtainment | Duke Erisia, First Layer + Hell Mode (Brown Chests), Fishing, Primadon, The Diluvian Mechanism, First Layer, Lodestar, War Mode, The Ferryman, Etris: Siege, Lysander Spellhardt, Weird Trader, Heart of Enmity, The Understrand (Only from chests), Lodestar (Very rare) |
 | description | "An idol utilised in rituals to call forth the Voice of Yun'Shul." |
 
 ## Description

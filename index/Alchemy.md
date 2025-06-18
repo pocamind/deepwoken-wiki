@@ -1,11 +1,9 @@
 ---
 title: Alchemy
-revid: 146553
+revid: 147233
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Mechanics, Ingredients, Items, Alchemy]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [Mechanics, Ingredients, Items, Alchemy]
 ---
 
 # Alchemy
@@ -88,6 +86,7 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 | [Chum](Chum.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
 | [Crustacean Meat](Crustacean_Meat.md) |  |  | \-7% |  |  |  |  |  |  | +20% |
 | [Dentifilo](Dentifilo.md) | \-2 | +18 |  |  |  |  |  |  |  |  |
+| [Glumfig](Glumfig.md) | +? | ? | ? | ? | ? | ? | ? | ? | ? | ? |
 | [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |
 | [Marram Grass](Marram_Grass.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
 | [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |
@@ -148,7 +147,6 @@ The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three salts, w
 
 ## Effects
 
-  
 Tiers are listed in order of strength, with the strongest tier listed first.
 
 <table><caption>Effects</caption>
@@ -193,8 +191,10 @@ Tiers are listed in order of strength, with the strongest tier listed first.
 </tr>
 <tr>
   <td><b>Rejuvenating</b></td>
-  <td>Salve</td>
-  <td>Redd</td>
+  <td>Salve<br>
+  Remedy (Glumfig only)</td>
+  <td>Redd<br>
+  Glumfig</td>
   <td>Instantly restores a small amount of health.</td>
   <td>Opposite effect to <b>Disgusting</b>. Signified by a burst of square green particles from the character.<p>The strongest effect on a Redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with another ingredient, or by using <a href="Oath%253A_Saltchemist.md">Saltchemist</a> salts.</p></td>
 </tr>

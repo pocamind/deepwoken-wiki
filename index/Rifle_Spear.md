@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 146962
+revid: 147274
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -36,7 +36,9 @@ The weapon itself is different from the typical Spear, as its critical is differ
 
 ## Critical
 
-The user aims down sights and shoots the spear, unleashing a blast in front. If the blast doesn't hit anyone, a bullet projectile is fired off.
+The user aims down sights and shoots the spear, unleashing a blast and firing a bullet. The user will gain a speed boost while the critical is active.
+
+The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 

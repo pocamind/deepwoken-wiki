@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 147210
+revid: 147254
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea]
@@ -56,7 +56,7 @@ Mantra shop
 
 #### Mantra Shop
 
--   The Mantra Shop contains a [Mantra Table](Mantra_Lectern.md). Previously, [Attunement Training Gear](Training_Gear.md#attunement-training-gears) were sold here individually, but this function was replaced with [Gear Cabinets](Training_Gear.md). There's no Gear Cabinet in the shop itself, however; the closest Gear Cabinet from the Mantra Shop is at the Antiquarian.
+-   The Mantra Shop contains a [Mantra Table](Mantra_Lectern.md). Previously, [Attunement Training Gear](Training_Gear.md#attunement-training-gears) were sold here individually, but this function was replaced with [Gear Cabinets](Training_Gear.md#attunement-training-gears). There's no Gear Cabinet in the shop itself, however; the closest Gear Cabinet from the Mantra Shop is at the Antiquarian.
 -   Above the mantra shop, accessible through the weaponry, the schematic for [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) can be purchased for.
 
 Weaponry

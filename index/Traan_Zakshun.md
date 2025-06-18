@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147076
+revid: 147222
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -180,6 +180,7 @@ Sold Items
   <td><p><b>For </b>:</p>
   <ul>
     <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Dye_Packet.md">Dye Packet</a></li>
+    <li><b><font>Other</font></b>: <a href="Glumfig.md">Glumfig</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -238,6 +239,8 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _I've actually found myself in a spot of trouble when I was out and about with these after I got them._
 -   _You wouldn't believe how hard these were to find._
 -   _This isn't overpriced, it's MY SHOP!_
+-   _This one's actually worth two times my price... I promise!_
+-   _Maybe clean this when you get a minute._
 
 ## Black Market Shop Rotation
 
@@ -256,9 +259,15 @@ Sold Items
   <td><p><b>For 1 </b>:</p>
   <ul>
     <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Rain_Spire.md">Rain Spire</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
+  </ul><p><b>For 3 </b>:</p>
+  <ul>
+    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
+  </ul><p><b>For 10 </b>:</p>
+  <ul>
+    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
   </ul><p><b>For 20 </b>:</p>
   <ul>
-    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Enchantments.md">Astral</a> Enchant Stone.</li>
+    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Enchantments.md">Astral</a> Enchant Stone, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -268,6 +277,11 @@ Sold Items
     <li><b><font>Light Weapons</font></b>: TBA</li>
     <li><b><font>Medium Weapons</font></b>: <a href="Soulthorn.md">Soulthorn</a></li>
     <li><b><font>Heavy Weapons</font></b>: TBA</li>
+  </ul><p><b>For 12 </b>:</p>
+  <ul>
+    <li><b><font>Light Weapons</font></b>: TBA</li>
+    <li><b><font>Medium Weapons</font></b>: TBA</li>
+    <li><b><font>Heavy Weapons</font></b>: <a href="First_Light.md">First Light</a></li>
   </ul></td>
 </tr>
 </tbody>

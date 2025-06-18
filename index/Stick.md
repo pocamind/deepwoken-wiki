@@ -1,31 +1,49 @@
 ---
 title: Stick
-revid: 147184
+revid: 147275
 source: https://deepwoken.fandom.com/wiki/Stick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Harvestables]
+categories: [Items, Craftable, Ingredients, Harvestables]
 ---
 
 # Stick
 
-## Stick
+| Stick | |
+|---|---|
+| value | 0 |
+| weight | 0 |
+| stack | x99 |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | It's a stick. It's probably from a tree, but who knows? |
+| obtainment | Littered on the ground around most trees., Crafted with one (1) Wood. |
 
-### Obtainment
+“ Stronger as one, let's stick together! ”
 
-Sticks can be found around the floor of many isles of Lumen and a result of putting [Wood](Wood.md) on the craft menu (This will give you 3 sticks), or buying it from shops.
+― Wood
 
-### Uses
+**Sticks** are an [Ingredient](Ingredients.md) used to craft tools and other materials.
 
-You can use sticks in the following acts:
+## Obtainment
 
--   With three sticks you can craft a campfire or a wood piece
+Sticks can be can be obtained in a few ways:
 
--   With 99 sticks you can summon [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   Littered on the ground around most trees.
+-   Crafted with one (1) [Wood](Wood.md).
 
--   Brew seemingly useless potions
+## Uses
+
+Sticks can be used for the following:
+
+-   Crafting a [Glider](Gliders.md) or [Sharkscale Glider](Gliders.md).
+-   Crafting three (3) Sticks together into one (1) [Wood](Wood.md).
+-   Crafting three (3) Sticks together into one (1) [Campfire Pit](Campfire_Pit.md).
+-   Summoning [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md) with ninety nine (99) Sticks.
+-   Brew seemingly useless [potions](Alchemy.md).
 
 ## Trivia
 
-These cannot be used for trading to the Lumberjacks in either Vigils and Etrea, you will need to craft all your sticks to wood.
-
-> You can buy 99 wood from the blacksmith in Etrea, then craft 99 sticks and get 99 wood again, this will make it so you travel less to buy wood and farm reputation for Etrea.
+-   Sticks cannot be traded to [Korin](Korin.md) or [Drefa](Drefa.md), you will need to craft all your sticks into wood.
+-   You can buy 99 wood at the blacksmith in Etris, then craft 99 sticks and get 99 wood again. This will make it so you free your inventory and travel less to buy wood when farming reputation for Etrea.

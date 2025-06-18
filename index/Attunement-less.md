@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 147114
+revid: 147244
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1917,3 +1917,4 @@ Slash
 -   **Revenge** takes its sound effects from the indie RPG game _OMORI_ ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
 -   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them. The reason they are not hunted by Silenthearts is probably due to the fact that it is not abuse of the song, it is merely an enhancement of your own physical attributes.
 -   For about a week before **Ether Barrage** was added, there was a bug where a duplicate of **Rapid Punches** would be available to pick as an Intelligence Combat Mantra. This of course was a placeholder, and was later replaced by **Ether Barrage** when it fully released.
+-   **Slice 'n' Dice** is likely a reference to Shiv's ability "[Slice and Dice](<https://deadlock.wiki/Shiv#(2)_Slice_and_Dice>)" from the game _Deadlock_, due to the 2nd cast mimicking Shiv's "max rage" Slice and Dice, which automatically retraces the attack path taken dealing damage a second time.

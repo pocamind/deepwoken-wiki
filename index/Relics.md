@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 147062
+revid: 147229
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -48,7 +48,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   Sold by [Trahne Zakshun](Traan_Zakshun.md) for 1 [Crown](Crowns.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for 1 [Crown](Crowns.md)
 
  |
 | 
@@ -77,7 +77,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Hell Mode](Hell_Mode.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
--   Sold by [Trahne Zakshun](Traan_Zakshun.md) for 1 [Crown](Crowns.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for 1 [Crown](Crowns.md)
 
  |
 
@@ -107,6 +107,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for 3 [Crowns](Crowns.md)
 
  |
 | 
@@ -133,7 +134,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
  |
 | 
 
- | **[Sinner's Ash](<Sinner's_Ash.md>)** - Remnants of the Forge of Sin that is used to corrupt your [Resonance](Resonance.md).
+ | **[Sinner's Ash](<Sinner's_Ash.md>)** - Remnants of the Forge of Sin that is used to corrupt your [Resonance](Resonance.md) or obtain the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
 
 -   _(Consumed upon usage)_
 
@@ -151,6 +152,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for 10 [Crowns](Crowns.md)
 
  |
 | 
@@ -211,6 +213,7 @@ It grants the user +50 knowledge on subsequent uses.
 
 -   Crafting
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for 20 [Crowns](Crowns.md)
 
  |
 | 

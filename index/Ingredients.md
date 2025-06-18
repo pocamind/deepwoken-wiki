@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 136249
+revid: 147282
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -26,9 +26,11 @@ Ingredients are scattered throughout Deepwoken. Where it is in the wilderness, i
 
 ## Ingredients
 
+### Harvestables
+
 Raw materials harvested from the environment.
 
-### Mushrooms
+#### Mushrooms
 
 -   [Gobletto](Gobletto.md) - A mushroom that is white and has a tube-like stalk.
 -   [Browncap](Browncap.md) - A brown mushroom with a white stalk.
@@ -36,7 +38,7 @@ Raw materials harvested from the environment.
 -   Bluecaps - Found only in a library area coated in blue fog on Erisia.
     -   There are two ways to get into this location; First by an upwards shaft from the cave in [Lower Erisia](Lower_Erisia.md) where one can find gold \[One can only access this location with movement mantras, and clever use of the Cauldron\], secondly \[and the intended way\] is via a puzzle at the [Birdcage](The_Birdcage.md) which you need a Soul Hearthgem for, then take the nearby zipline and head into a hole in the floor of a nearby ruin.
 
-### Fruits
+#### Fruits
 
 -   [Calabash](Calabash.md) - Similar to gourds, but green. They grow on bushes and hold water very well. They mainly restore thirst than hunger.
 -   [Redd](Redd.md) - Small round, orange fruit. Most commonly found in [Songseeker](Songseeker_Wilds.md) and [Vigils](Isle_of_Vigils.md).
@@ -44,17 +46,128 @@ Raw materials harvested from the environment.
 -   Pomar - Large yellow fruit. Also occasionally damages you slightly when eaten.
 -   [Plumfruit](Plumfruit.md) - It's a plum, what did you expect?
 
-### Miscellaneous
+#### Other
 
 -   [Gathered Wheat](Gathered_Wheat.md) - Self-explanatory.
--   [Bamboo Bundle](Bamboo_Bundle.md) - Bamboo sticks, growing mostly on beaches and shores.
+-   [Bamboo Bundle](Bamboo_Bundle.md) - Bamboo sticks, growing mostly **near** beaches and shores.
+-   [Marram Grass](Marram_Grass.md) - Short grass, growing **on** beaches and shores.
 -   [Egg](Egg.md) - Bird eggs, found in trees.
--   [Alestrian Coral](Alestrian_Coral.md): Mainly used in speed potions. Found in [Scyphozia](First_Layer.md).
--   [Sap](Sap.md): Amber streak of sap that appears on large trees.
--   [Scallop](Scallop.md): Found in [Scyphozia](First_Layer.md).
--   [Urchin](Urchin.md): Found in [First Layer](First_Layer.md)
+-   [Alestrian Coral](Alestrian_Coral.md) - Mainly used in speed potions. Found in [Scyphozia](First_Layer.md).
+-   [Sap](Sap.md) - Amber streak of sap that appears on large trees.
+-   [Scallop](Scallop.md) - Found in [Scyphozia](First_Layer.md).
+-   [Urchin](Urchin.md) - Found in [Scyphozia](First_Layer.md)
 
-## Lotuses
+### Ores
+
+_Main Page: [Ore](Ores.md)_
+
+Ores come from mining ore deposits found across various locations, or can be bought in certain towns such as [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md). They're mainly used for crafting certain [Outfits](Outfits.md) and utility items.
+
+-   [Rock](Ores.md#rock)
+-   [Coal](Ores.md#coal)
+-   [Iron](Ores.md#iron)
+-   [Gold](Ores.md#gold)
+-   [Erisore](Ores.md#erisore)
+-   [Irithine](Ores.md#irithine)
+-   [Astruline](Ores.md#astruline)
+-   [Umbrite](Ores.md#umbrite)
+
+### Enemy Drops
+
+Many common [Monsters](Monsters.md) have a chance of dropping exclusive items, often used in crafting and for various [quests](Quests.md).
+
+#### Monsters
+
+-   [Megalodaunt](Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md) and [Crimson Megalodaunt](Crimson_Megalodaunt.md)
+    -   [Megalodaunt Hide](Megalodaunt_Hide.md)
+-   [Thresher](Thresher.md)
+    -   [Thresher Spine](Thresher_Spine.md)
+    -   [Thresher Talon](Thresher_Talon.md)
+-   [King Thresher](King_Thresher.md)
+    -   [King Thresher Spine](King_Thresher_Spine.md)
+-   [Deep Owl](Deep_Owl.md)
+    -   [Dark Feather](Dark_Feather.md)
+    -   [Void Feather](Dark_Feather.md#void-feather) (corrupted Deep Owl)
+-   [Mechalodaunt](Mechalodaunt.md)
+    -   [Worn Cog](Worn_Cog.md)
+    -   [Broken Gatling Gun](Broken_Gatling_Gun.md)
+-   [Terrapod](Terrapod.md)
+    -   [Strange Claw](Strange_Claw.md)
+    -   [Terrapod Shell](Terrapod_Shell.md)
+-   [Crustaceous Rex](Crustaceous_Rex.md)
+    -   [Crustacean Meat](Crustacean_Meat.md)
+-   [Lionfish](Lionfish.md)
+    -   [Lionfish Scale](Lionfish_Scale.md)
+-   [Enforcer](Enforcer.md)
+    -   [Enforcer Eye](Enforcer_Eye.md)
+-   [Nautilodaunt](Nautilodaunt.md)
+    -   [Nautilodaunt Beak](Nautilodaunt_Beak.md)
+    -   [Odd Tentacle](Odd_Tentacle.md)
+-   [Bonekeeper](Bone_Keeper.md)
+    -   [Giant Femur](Giant_Femur.md)
+-   [Bounder](Bounder.md)
+    -   [Bounder Claw](Bounder_Claw.md)
+-   [Kyrsgarde](Kyrsgarde.md)
+    -   [Frozen Membrane](Frozen_Membrane.md)
+
+### Mantra Modifiers
+
+_Main Page: [Mantra Modifiers](Mantra_Modifiers.md)_
+
+Mantra Modifiers are unique items that can be used at a [Mantra Table](Mantra_Lectern.md), or in the case of Deep Gems equipped while resting at a [Campfire](Campfire_Pit.md), to enhance the player's [Mantras](Mantras.md). There are 3 types of Mantra Modifiers: Regular, Sparks, and Deep Gems. Regular Mantra Modifiers and Sparks drop from a variety of [Monsters](Monsters.md), while Deep Gems are uncommonly found in chests from the [First Layer](First_Layer.md), including [Random Encounters](Random_Encounters.md) that reward Depths chests, and commonly found in chests from certain [Bosses](Bosses.md) and from other events and dungeons.
+
+#### Regular
+
+-   Cloudstone
+-   Stratus Stone
+-   Crystal Lens
+-   Perfect Lens
+-   Aeon Logstone
+-   Eternal Logstone
+-   Drift Shard
+-   Rush Shard
+-   Amnesic Driftwood
+-   Glass Stone
+-   Magnifying Stone
+-   Vibrant Gem
+
+#### Sparks
+
+-   Blast Spark
+-   Magnet Spark
+-   Multiplying Spark
+-   Reversal Spark
+-   Round Spark
+-   Spring Spark
+-   Tornado Spark
+
+#### Deep Gems
+
+-   Blessed Gem
+-   Bloodless Gem
+-   Blue Gem
+-   Insignia Gem
+-   Wayward Gem
+-   Wind Gem
+
+### Treasures
+
+_Main Page: [Treasures](Treasures.md)_
+
+Treasures are a category of item that contain miscellaneous gem items that are found at the bottoms of chests whose main purpose is to be sold and can be sold to [Mantra Collectors](Mantra_Collector.md), and also contain Deep Gems and Elemental Ingredients, items dropped from [Attunement](Attunements.md)\-wielding enemies that can be consumed by the player if they use that Attunement aswell to train it, and given to the corresponding Attunement Trainer to unlock the attunement.
+
+While Treasures are not "Ingredients" in the literally defined sense, some Deep Gems and Elemental Ingredients are used to craft [Outfits](Outfits.md).
+
+#### Mantra Ingredients
+
+-   [Dying Embers](Dying_Embers.md) - [Flamecharm](Flamecharm.md)
+-   [Frigid Prism](Frigid_Prism.md) - [Frostdraw](Frostdraw.md)
+-   [Spark Gland](Spark_Gland.md) - [Thundercall](Thundercall.md)
+-   [Gale Stone](Gale_Stone.md) - [Galebreathe](Galebreathe.md)
+-   [Umbral Obsidian](Umbral_Obsidian.md) - [Shadowcast](Shadowcast.md)
+-   [Heartstar](Heartstar.md) - [Bloodrend](Bloodrend.md)
+
+### Lotuses
 
 “ A primordial Lotus, capable of producing the rawest form of power itself. ”
 

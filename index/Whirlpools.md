@@ -1,6 +1,6 @@
 ---
 title: Whirlpools
-revid: 146810
+revid: 147253
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 | Whirlpools | |
 |---|---|
-| usage | Sink into The Depths without dying |
+| usage | Sink into The Depths without having to die |
 
 ## Description
 
