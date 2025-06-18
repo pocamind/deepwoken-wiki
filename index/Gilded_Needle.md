@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 147227
+revid: 147380
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -15,7 +15,7 @@ categories: [Relics]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| obtainment | Crafting, Carnival of Hearts, Sold in Trahne Zakshun's black market for 20 Crowns |
+| obtainment | Crafting, Carnival of Hearts, Sold in Trahne Zakshun's black market for |
 
 ## Description
 

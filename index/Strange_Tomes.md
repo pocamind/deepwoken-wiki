@@ -1,6 +1,6 @@
 ---
 title: Strange Tomes
-revid: 143762
+revid: 147359
 source: https://deepwoken.fandom.com/wiki/Strange_Tomes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,21 +20,7 @@ Volume 1 Obtainment: [Volu](Volu.md) NPC near [Trial of One](Trial_of_One.md), [
 
 Volume 2 Obtainment: [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) (Not guaranteed but high chance to drop).
 
-Volume 3 Obtainment: [The Understrand](The_Understrand.md) (Entered not via [Silhuett](Silhuett.md) as this is a separate event which does not spawn a chest, note that this tome is also not guaranteed).
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+Volume 3 Obtainment: [The Understrand](The_Understrand.md) (Entered not via [Silhuett](Silhuett.md) as this is a separate event which does not spawn a chest, note that this tome is also not guaranteed). Volume 3 can also be sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for 1 [Crown](Crowns.md).
 
 ## Trivia
 

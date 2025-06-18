@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 138077
+revid: 147393
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -34,7 +34,7 @@ categories: [NPCs, Mechanics]
 
 **Shrine of Mastery**: For 1 Knowledge, trade 1 of your Trait Points into another Trait. You can also remove attribute points.
 
-**Shrine of Chance**: Trade a Talent of your choice and 5 Knowledge to perform a Talent Draw with up to 3 cards of the same rarity. (Common = Advanced)
+**Shrine of Chance**: Trade a Talent of your choice and 5 Knowledge to gain a Talent Draw with up to 3 cards of the same rarity. (Common = Advanced)
 
 [Shrine of Order](Deep_Shrines/Shrine_of_Order.md)
 

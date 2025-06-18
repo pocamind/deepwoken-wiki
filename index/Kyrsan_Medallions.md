@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 140889
+revid: 147355
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2, Currency]
@@ -37,7 +37,7 @@ The limit of on-hand Medallions a player can have is 250. **The currency is boun
 
 ## Usage
 
-Kyrsan Medallions can be exchanged for lots of services, crucial for the end-game as well as the Dawnwalker [Oath](Oaths.md). In order to use your Medallions, talk to **Klaris Llfiend, Mother of the Lights** in Castle Light. She is the same NPC that teleports you to Layer 2. If you have any Medallions, she will have an additional dialogue option that states: "What do you have to offer?" - clicking on this option opens the Kyrsan Medallions shop:
+Kyrsan Medallions can be exchanged for lots of services, crucial for the end-game as well as the Dawnwalker [Oath](Oaths.md). In order to use your Medallions, talk to **Klaris Llfiend, Mother of the Lights** in Castle Light. She is the same NPC that teleports you to Layer 2. **You must be Power 15 or above to exchange your Medallions**. If you have any Medallions, she will have an additional dialogue option that states: "What do you have to offer?" - clicking on this option opens the Kyrsan Medallions shop:
 
 1.  [Knowledge](Knowledge.md) \[1 Medallion\] - Gives you knowledge points.
 2.  [Enchant Stone](Enchant_Stone.md) \[5 Medallions\] - Gives you an enchant stone engraved with a random enchant that can be used to enchant your current weapon.
@@ -55,7 +55,10 @@ Medallions can also be spent at [Misérables](Misérables.md) for a unique deal:
 -   There is proof of obtaining them from Fishing in the past; whether or not this has been shadow patched is unclear.
 -   [Dye Packets](Dye_Packet.md) cannot be dropped, but this can easily be bypassed by dyeing a piece of armor and then dropping that armor piece to whoever needs it.
 -   The medallions used to be kept as a physical item after leaving the [Second Layer](Second_Layer.md). This was changed in order to fight exploiters abusing the system.
--   You can't exchange medallions with Klaris when below Power 15
 -   They **do** have a limit to how many you can hold, which is 250 in total.
     
     Medallions outside of Layer 2
+    
+-   In an unknown update, the symbol for Kyrsan Medallions was visually touched up.
+
+Previous Kyrsan Medallion symbol

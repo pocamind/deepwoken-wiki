@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147326
+revid: 147395
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -145,7 +145,7 @@ Trahne's Salvaged Stock
 
   
 
-Depending on the rotation, he can sell up to 3 to 4 items at once.
+Depending on the rotation, he can sell 1 to 4 items at once. Typically, he sells 3 to 4 items each visit.
 
 His item descriptions will change randomly each time he hits his hourly rotation:
 
@@ -221,7 +221,7 @@ Sold Items
 
 ## Black Market
 
-Sometimes on rotation, Trahne Zakshun will sell a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md) for [Crowns](Crowns.md). Only one of each item can be purchased per visit.
+Once every 20 hours, instead of a regular item rotation, Trahne Zakshun will sell goods from his black market stock. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only one of each item can be purchased per visit. Like any normal shop rotation, the black market will only last one IRL hour.
 
 ### Shop UI
 
@@ -238,16 +238,20 @@ Trahne's Black Market Cache
 
   
 
-Depending on the rotation, he can sell up to 3 to 4 items at once.
+The black market rotation always has 4 items in stock.
 
 His item descriptions will change randomly each time he sells goods from his Black Market Cache:
 
 -   _I barely know what I'm looking at here._
--   _I've actually found myself in a spot of trouble when I was out and about with these after I got them._
+-   _I've actually found myself in a spot of trouble when I was out and about with these after I got them.._
 -   _You wouldn't believe how hard these were to find._
 -   _This isn't overpriced, it's MY SHOP!_
--   _This one's actually worth two times my price... I promise!_
+-   _This one's actually worth more than two times my price... I promise!_
 -   _Maybe clean this when you get a minute._
+-   _Okay, you really have to be careful with this._
+-   _Oh this one's verrry special - I can only let you buy one._
+-   _Whispers say this was lost to time... ooOOOooo !!_
+-   _No questions, no returns._
 
 ## Black Market Shop Rotation
 
@@ -263,32 +267,30 @@ Sold Items
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
-  <td><p><b>For 1 </b>:</p>
+  <td><p><b>For </b>:</p>
   <ul>
     <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Rain_Spire.md">Rain Spire</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
-  </ul><p><b>For 3 </b>:</p>
+    <li><b><font>Other</font></b>: <a href="Strange_Tomes.md">Strange Tome #3</a>.</li>
+  </ul><p><b>For </b>:</p>
   <ul>
     <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
-  </ul><p><b>For 10 </b>:</p>
+  </ul><p><b>For </b>:</p>
   <ul>
     <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
-  </ul><p><b>For 20 </b>:</p>
+  </ul><p><b>For </b>:</p>
   <ul>
     <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Enchantments.md">Astral</a> Enchant Stone, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td><p><b>For 10 </b>:</p>
+  <td>
   <ul>
-    <li><b><font>Light Weapons</font></b>: TBA</li>
-    <li><b><font>Medium Weapons</font></b>: <a href="Soulthorn.md">Soulthorn</a></li>
-    <li><b><font>Heavy Weapons</font></b>: TBA</li>
-  </ul><p><b>For 12 </b>:</p>
-  <ul>
-    <li><b><font>Light Weapons</font></b>: TBA</li>
-    <li><b><font>Medium Weapons</font></b>: TBA</li>
-    <li><b><font>Heavy Weapons</font></b>: <a href="First_Light.md">First Light</a></li>
+    <li><b>For </b>: <a href="Stormseye.md">Stormseye</a>.</li>
+    <li><b>For </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>.</li>
+    <li><b>For </b>: <a href="Soulthorn.md">Soulthorn</a>.</li>
+    <li><b>For </b>: <a href="First_Light.md">First Light</a>.</li>
+    <li><b>For </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
   </ul></td>
 </tr>
 </tbody>

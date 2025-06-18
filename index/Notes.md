@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 141190
+revid: 147362
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -38,7 +38,7 @@ The max amount of Notes you can carry at a time is.
 -   Doing [jobs](Job_Boards.md).
 -   Turning in [Crowns](Crowns.md).
 
-### Banker
+### Bank
 
 At the [Banker](Banker.md) you can access your account, a shared storage of notes **between all Slots**, which allows you to bank your notes up to a max of 100,000. However the transaction of notes between slots depend on your level and trading cap (at level 1 you cannot accept 1000 notes from someone, with the cap being around 900). The banker will inform you of the notes that you have, and will ask if you want to deposit or withdrawal.
 
@@ -72,6 +72,7 @@ There are many means to obtain Notes, and some are better than others.
 
 ## Trivia/Notes
 
--   The Note cap was formerly 10,000. At an unknown date, this was changed to 15,000.
+-   The Note cap was formerly 10,000. In the July 24th, 2023 update, this was changed to 15,000.
 -   The currency being named "Notes" is a reference to musical notes, tying in with Deepwoken's [musical](Lore.md#the-song) [theming](Lore.md#resonance-bells).
--   as we know notes are shell of a special variation, though how it comes that how or why shells that are said the be delicate came to be a currency is unknown
+-   As we know Notes are a special variety of shell, how shells came to be used as currency is unknown.
+-   In an unknown update, the symbol for Notes was visually touched up.

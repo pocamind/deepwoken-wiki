@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 142134
+revid: 147388
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -20,7 +20,7 @@ categories: [Vendors, NPCs]
 
 ## Description
 
-The **Barber** is an NPC that allows customization to your character. They can change your appearance, change your name for, change the model of your [Resonance](Resonance.md) with 1 Knowledge, or remove the dye from one of your dyed items for free. Players with the [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) Oath can use abilities similar to him.
+The **Barber** is an NPC that allows customization to your character. They can change your appearance, change your name for, change the model of your [Resonance](Resonance.md) with, or remove the dye from one of your dyed items for free. Players with the [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) Oath can use abilities similar to him.
 
 ## Dialogue
 
