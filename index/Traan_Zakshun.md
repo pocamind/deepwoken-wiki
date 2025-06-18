@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147222
+revid: 147326
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -52,7 +52,7 @@ Trahne Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
   <td colspan="12">What are you selling?</td>
 </tr>
 <tr>
-  <td colspan="12">[Opens Shop UI]</td>
+  <td colspan="12">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -74,7 +74,7 @@ Trahne Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
   <td colspan="12">Yeah.</td>
 </tr>
 <tr>
-  <td colspan="12">[Opens Shop UI]</td>
+  <td colspan="12">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -87,21 +87,23 @@ Trahne Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
 <table>
 <tbody>
 <tr>
-  <td colspan="18">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">When accessing the Shop</td>
-  <td colspan="6">After purchasing something</td>
-  <td colspan="6">If you can't afford the item you attempted to buy</td>
+  <td colspan="3">When accessing the Shop</td>
+  <td colspan="3">After purchasing something</td>
+  <td colspan="3">If you can't afford the item you attempted to buy</td>
+  <td colspan="3">If you attempt to buy something at max carry capacity</td>
 </tr>
 <tr>
-  <td colspan="6">(Shop UI can be seen below)<br>
+  <td colspan="3">(Shop UI can be seen below)<br>
   Here's the current lineup. Try not to drool.</td>
-  <td colspan="6">Done deal! Come back in a lil' bit when I haul some new goodies up here, yeh?</td>
-  <td colspan="6">You're short now, pal. Come back when you're not drowned broke, yeah?</td>
+  <td colspan="3">Done deal! Come back in a lil' bit when I haul some new goodies up here, yeh?</td>
+  <td colspan="3">You're short now, pal. Come back when you're not drowned broke, yeah?</td>
+  <td colspan="3">Ugh you're carrying way too much. Come back when you're not a walking junk pile.</td>
 </tr>
 <tr>
-  <td colspan="18">End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -111,14 +113,19 @@ Trahne Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
 <table>
 <tbody>
 <tr>
-  <td colspan="18">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="18">When accessing the Black market</td>
+  <td colspan="12">When accessing the Black market</td>
 </tr>
 <tr>
-  <td colspan="18">(Black Market UI can be seen below)<br>
-  Keep your voice down... here's tonight's haul. Purchase limit of one item each, this stock's very limited.</td>
+  <td colspan="12">Keep your voice down... here's tonight's haul. Purchase limit of one item each, this stock's very limited.</td>
+</tr>
+<tr>
+  <td colspan="12">[<font>Opens</font> <a href="#black-market-shop-rotation"><u><font>Black Market UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 146511
+revid: 147298
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -116,7 +116,7 @@ Exhaustive Loot Table
     <li><b>Legendary Weapons</b>: <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Iron_Requiem.md"><font>Iron Requiem</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
-    <li><b>Light Weapons</b>: <a href="Crucible_Rapier.md">Crucible Rapier</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>.</li>
+    <li><b>Light Weapons</b>: <a href="Crucible_Rapier.md">Crucible Rapier</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Needle's_Eye.md">Needle's Eye</a>.</li>
     <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Trident_Spear.md">Trident Spear</a>.</li>
     <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a>, <a href="Sovereign's_Punishment.md">Sovereign's Punishment</a>.</li>
   </ol></li>

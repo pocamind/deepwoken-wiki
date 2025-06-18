@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 147266
+revid: 147309
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -408,9 +408,10 @@ Blast Spark
 -   Shade Devour
 -   Shadow Assault
 -   Needle Barrage
--   Firing line
+-   Firing Line
 -   Shoulder Bash
 -   Disguise
+-   Iceberg
 
  | 
 
@@ -837,6 +838,21 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  | 
 
 -   This modifier causes the "Shoulder Bash" to push your opponent further after hitting them.
+
+ |
+| 
+
+[Iceberg](Frostdraw.md#iceberg)
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the Iceberg to instead turn you into a large crystal of ice, dealing no damage, but massively increasing your fall speed when casted in the air.
 
  |
 

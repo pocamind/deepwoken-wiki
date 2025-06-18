@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 147282
+revid: 147317
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -18,11 +18,8 @@ Ingredients are scattered throughout Deepwoken. Where it is in the wilderness, i
 
 -   Mint Green Items can be crafted, cooked or used in food recipes and potions.
 -   Yellow Items are generic items, such as Materials, Gems, Food and Harvesting Tools.
--   Light Blue Items are Schematics and can be brought to a Blacksmith to learn the recipe.
--   Light Orange Items are Training Equipment.
--   Light Red Items can be equipped, such as shields or weapons.
 -   Violet Items are Mantra Modifiers and recalled Mantras.
--   In a shadow update, each of the different colors have symbols behind the name of the item.
+-   Each of the different colors have symbols behind the name of the item.
 
 ## Ingredients
 
@@ -74,12 +71,17 @@ Ores come from mining ore deposits found across various locations, or can be bou
 
 ### Enemy Drops
 
-Many common [Monsters](Monsters.md) have a chance of dropping exclusive items, often used in crafting and for various [quests](Quests.md).
+Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance of dropping exclusive items, often used in crafting and for various [quests](Quests.md).
 
 #### Monsters
 
 -   [Megalodaunt](Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md) and [Crimson Megalodaunt](Crimson_Megalodaunt.md)
     -   [Megalodaunt Hide](Megalodaunt_Hide.md)
+-   [Megalodaunt](Megalodaunt.md) only
+    -   [Megalodaunt Coral](Megalodaunt_Coral.md)
+-   [Terrapod](Terrapod.md) and [Crimson Terrapod](Terrapod.md#crimson)
+    -   [Strange Claw](Strange_Claw.md)
+    -   [Terrapod Shell](Terrapod_Shell.md)
 -   [Thresher](Thresher.md)
     -   [Thresher Spine](Thresher_Spine.md)
     -   [Thresher Talon](Thresher_Talon.md)
@@ -87,20 +89,17 @@ Many common [Monsters](Monsters.md) have a chance of dropping exclusive items, o
     -   [King Thresher Spine](King_Thresher_Spine.md)
 -   [Deep Owl](Deep_Owl.md)
     -   [Dark Feather](Dark_Feather.md)
-    -   [Void Feather](Dark_Feather.md#void-feather) (corrupted Deep Owl)
+    -   [Void Feather](Dark_Feather.md#void-feather)
 -   [Mechalodaunt](Mechalodaunt.md)
     -   [Worn Cog](Worn_Cog.md)
     -   [Broken Gatling Gun](Broken_Gatling_Gun.md)
--   [Terrapod](Terrapod.md)
-    -   [Strange Claw](Strange_Claw.md)
-    -   [Terrapod Shell](Terrapod_Shell.md)
--   [Crustaceous Rex](Crustaceous_Rex.md)
+-   [Crustaceous Rex](Crustaceous_Rex.md) and [Crab](Crab.md)
     -   [Crustacean Meat](Crustacean_Meat.md)
--   [Lionfish](Lionfish.md)
+-   [Lionfish](Lionfish.md) and [Glacial Lionfish](Glacial_Lionfish.md)
     -   [Lionfish Scale](Lionfish_Scale.md)
 -   [Enforcer](Enforcer.md)
     -   [Enforcer Eye](Enforcer_Eye.md)
--   [Nautilodaunt](Nautilodaunt.md)
+-   [Nautilodaunt](Nautilodaunt.md) and [Fury Nautilodaunt](Fury_Nautilodaunt.md)
     -   [Nautilodaunt Beak](Nautilodaunt_Beak.md)
     -   [Odd Tentacle](Odd_Tentacle.md)
 -   [Bonekeeper](Bone_Keeper.md)
@@ -109,12 +108,22 @@ Many common [Monsters](Monsters.md) have a chance of dropping exclusive items, o
     -   [Bounder Claw](Bounder_Claw.md)
 -   [Kyrsgarde](Kyrsgarde.md)
     -   [Frozen Membrane](Frozen_Membrane.md)
+    -   [Kyrsan Schematic](Kyrsan_Schematic.md)
+
+#### Bosses
+
+-   [Dread Serpent](Dread_Serpent.md)
+    -   [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+    -   [Weathered Timepiece](Weathered_Timepiece.md)
+
+  
 
 ### Mantra Modifiers
 
 _Main Page: [Mantra Modifiers](Mantra_Modifiers.md)_
 
-Mantra Modifiers are unique items that can be used at a [Mantra Table](Mantra_Lectern.md), or in the case of Deep Gems equipped while resting at a [Campfire](Campfire_Pit.md), to enhance the player's [Mantras](Mantras.md). There are 3 types of Mantra Modifiers: Regular, Sparks, and Deep Gems. Regular Mantra Modifiers and Sparks drop from a variety of [Monsters](Monsters.md), while Deep Gems are uncommonly found in chests from the [First Layer](First_Layer.md), including [Random Encounters](Random_Encounters.md) that reward Depths chests, and commonly found in chests from certain [Bosses](Bosses.md) and from other events and dungeons.
+Mantra Modifiers are unique items that can be utilized at a [Mantra Table](Mantra_Lectern.md), or in the case of Deep Gems equipped while resting at a [Campfire](Campfire_Pit.md), to enhance the player's [Mantras](Mantras.md). There are 3 types of Mantra Modifiers: Regular, Sparks, and Deep Gems. Regular Mantra Modifiers and Sparks drop from a variety of [Monsters](Monsters.md) and [Enemies](Enemies.md), while Deep Gems are uncommonly found in chests from the [First Layer](First_Layer.md), including [Random Encounters](Random_Encounters.md) that reward Depths chests, and commonly found in chests from certain [Bosses](Bosses.md) and from other events and dungeons.
 
 #### Regular
 
@@ -154,11 +163,11 @@ Mantra Modifiers are unique items that can be used at a [Mantra Table](Mantra_Le
 
 _Main Page: [Treasures](Treasures.md)_
 
-Treasures are a category of item that contain miscellaneous gem items that are found at the bottoms of chests whose main purpose is to be sold and can be sold to [Mantra Collectors](Mantra_Collector.md), and also contain Deep Gems and Elemental Ingredients, items dropped from [Attunement](Attunements.md)\-wielding enemies that can be consumed by the player if they use that Attunement aswell to train it, and given to the corresponding Attunement Trainer to unlock the attunement.
+Treasures are a category of item that contain miscellaneous gem items that are found at the bottoms of chests whose main purpose is to be sold and can be sold to [Mantra Collectors](Mantra_Collector.md), and also contain Deep Gems and Elemental Ingredients, items dropped from [Attunement](Attunements.md)\-wielding enemies that can be consumed by the player if they also wield that Attunement to train it, and given to the corresponding Attunement Trainer to unlock the attunement.
 
 While Treasures are not "Ingredients" in the literally defined sense, some Deep Gems and Elemental Ingredients are used to craft [Outfits](Outfits.md).
 
-#### Mantra Ingredients
+#### Elemental Ingredients
 
 -   [Dying Embers](Dying_Embers.md) - [Flamecharm](Flamecharm.md)
 -   [Frigid Prism](Frigid_Prism.md) - [Frostdraw](Frostdraw.md)

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 145775
+revid: 147299
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -81,7 +81,7 @@ Dodgeable:◯
 **Mortal Draw: Floating Passage**  
 ★
 
- | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing.
+ | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final upwards swing afterwards which does increased damage.
 
 -   After doing this attack, he will be vulnerable and won't parry/dodge any attacks, but only for a short period
 
@@ -362,4 +362,4 @@ Exhaustive Loot Table
 -   The specific weapon of a different type can still drop if you're using a different weapon type. (Ex: Cerulean Thread dropping while using medium).
 -   His Hair ID is 6101425666.
 -   He has heterochromia, meaning both his eyes are different colors. It is unknown if he is born with this or it's somehow gained from his powers.
--   Maestro is currently the easiest fight in the game, as he allows you to heal up completely if you stop moving, and he doesn’t M1 anymore. His AI has been swapped with a bugged version of the Bladeharper AI.
+-   On the humanoid AI update, Maestro used to be bugged as his AI was swapped with a bugged version of the Bladeharper AI, he couldn't m1 or parry properly and did not even attack the player unless they used a critical attack or mantras, his **Mortal Draw: Floating Passage** was nerfed so that the final swing could be parriable as well. As of the 06/15/2025 patch, his AI was fixed and Maestro fights properly once more.

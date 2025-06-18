@@ -1,9 +1,9 @@
 ---
 title: Fury Nautilodaunt
-revid: 145423
+revid: 147305
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies, The Depths]
+categories: [Monsters, The Depths]
 ---
 
 # Fury Nautilodaunt

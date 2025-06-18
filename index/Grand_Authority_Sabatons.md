@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 145031
+revid: 147324
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons]
@@ -11,10 +11,11 @@ categories: [Items, Equipment, Legs, Sabatons]
 | Grand Authority Sabatons | |
 |---|---|
 | type | Legs |
-| rarity | ??? |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | PWR 6 |
 | weight | 1 |
-| innate stats | N/A |
+| innate stats | +4 Health, +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

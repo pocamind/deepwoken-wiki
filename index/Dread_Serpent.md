@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 146600
+revid: 147291
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -78,9 +78,11 @@ Exhaustive Loot Table
     <li><a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, used for the Dread Breath <a href="Monster_Mantras.md">Monster Mantras</a>. Note that this drops from his main body.</li>
     <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
     <li>All <a href="Enchant_Stone.md">Enchant Stones</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:</li>
-    <li><a href="Dormant_Splinter.md">Dormant Splinter</a></li>
     <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
+    <li>Some <a href="Relics.md">Relics</a>:
+  <ul>
+    <li><a href="Dormant_Splinter.md">Dormant Splinter</a></li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>
