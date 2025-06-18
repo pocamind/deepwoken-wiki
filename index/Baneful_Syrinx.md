@@ -1,6 +1,6 @@
 ---
 title: Baneful Syrinx
-revid: 146097
+revid: 147332
 source: https://deepwoken.fandom.com/wiki/Baneful_Syrinx
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
