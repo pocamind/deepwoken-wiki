@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147459
+revid: 147460
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1474,7 +1474,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   1s cooldown on explosion proc.
     -   Allows you to obtain [Crystal Impale](Frostdraw.md#crystal-impale), [Crystal Knee](Frostdraw.md#crystal-knee), and [Ice Lasers](Frostdraw.md#ice-lasers).
     -   Increases the damage of [Crystal Impale](Frostdraw.md#crystal-impale) and [Crystal Knee](Frostdraw.md#crystal-knee) (they will do reduced damage if you remove this Talent).
-    -   Changes [Chilling](Enchantments.md#blessings) enchant to proc 1 crystal upon reaching the hit count requirement.
+    -   Changes [Chilling](Enchantments.md#blessings) enchant to proc 1 crystal upon reaching the hit count requirement (LHT: 5, MED: 4, HVY: 3).
     -   Changes color of [Gran Sudaruska](Gran_Sudaruska.md), [Kyrswynter](Kyrswynter.md), and [Chilling](Enchantments.md#blessings) Enchant to become a pinkish red color.
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusives: Unyielding Frost, Flashboil

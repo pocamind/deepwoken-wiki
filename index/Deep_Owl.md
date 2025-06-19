@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 147403
+revid: 147476
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies]
@@ -117,7 +117,7 @@ Dodgeable:**\-**
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Deep Owls.
 
-## Tips / Strategy
+## Strategy
 
 One strategy an unprepared player should consider when encountering the Owl is the **Fight** or **Flight** response.
 
