@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 147317
+revid: 147421
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -42,6 +42,7 @@ Raw materials harvested from the environment.
 -   Ongo - Red, roundish fruit. Basically, an apple. Commonly found in the [Etrean Wilds](Etrean_Wilds.md) and [Songseeker](Songseeker_Wilds.md).
 -   Pomar - Large yellow fruit. Also occasionally damages you slightly when eaten.
 -   [Plumfruit](Plumfruit.md) - It's a plum, what did you expect?
+-   [Glumfig](Glumfig.md) - A purple fruit that's as glum as it is tart. Obtained exclusively through being bought from [Trahne Zakshun](Traan_Zakshun.md)'s shop at a random chance for.
 
 #### Other
 

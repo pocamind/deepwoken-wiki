@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 147244
+revid: 147427
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1057,8 +1057,9 @@ N/A
 
 -   May still combat tag opponents who are not facing you.
 -   This move causes humanoid NPCs to block less.
--   Parry window is at the end of the first flash
+-   Parry window is at the end of the first flash.
 -   Shares a cooldown with [Sing](Attunement-less.md#sing).
+-   Can be upgraded with the **Peripheral Vision** Talent, allowing Glare to hit enemies without them having to face you.
 
  |
 | 
@@ -1616,6 +1617,7 @@ Slash
 **Effect:** _User dashes towards the camera and unleashes a wide slash. Can be performed again if the first slash lands._
 
 -   Landing the first slash refreshes the Mantra, allowing it to be used again at any time. The subsequent use will then put the Mantra on cooldown.
+-   Due to it being aimed with the camera, it can be a very useful tool for aerial mobility.
 
  |
 | 

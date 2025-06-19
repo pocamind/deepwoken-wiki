@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 147374
+revid: 147435
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency]
@@ -34,10 +34,10 @@ Crown can be obtained in 2 ways: [World Bosses](Bosses.md#world-bosses) or [War 
 Crowns are able to be exchanged for Knowledge or Notes by interacting with the icon, where the user can choose a desired currency to exchange with. The exchange rate scales with your current level.
 
 -   At level 1:
-    -   or 1 [Knowledge](Knowledge.md) per Crown.
+    -   or per Crown.
 
 -   At level 20:
-    -   or 5 [Knowledge](Knowledge.md) per Crown.
+    -   or per Crown.
 
 Some NPCs only deals in Crowns, these are:
 

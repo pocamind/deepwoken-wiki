@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 147313
+revid: 147428
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -364,6 +364,7 @@ Ice
 -   Projectiles are homing.
 -   Does not inflict Chill.
 -   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
+-   If used in water, the daggers won't spawn.
 -   Can grant an additional effect with the "**Frozen Pin-Cushion**" Talent, which freezes the target upon hit.
 
  |

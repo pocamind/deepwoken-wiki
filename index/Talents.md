@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147406
+revid: 147420
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1520,7 +1520,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment.
     -   Prerequisites: 30 Intelligence and 20 Light Weapon/Medium Weapon, Using a Gun/Rifle
-        -   Landing 2 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
+        -   Landing 2 shots will make the 3rd shot deal elemental damage.
             -   The 3rd shot apply your attunement's elemental effect:
                 -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
                 -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
@@ -1530,6 +1530,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
                 -   Ironsing: Your bullets apply metal rods
                 -   Bloodrend: Your bullets drain blood
             -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+        -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
         -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
         -   This Talent CAN be obtained with 20 medium and a pistol equipped.
 
