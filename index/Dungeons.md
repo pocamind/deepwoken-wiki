@@ -1,9 +1,9 @@
 ---
 title: Dungeons
-revid: 142212
+revid: 147410
 source: https://deepwoken.fandom.com/wiki/Dungeons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Mechanics, Locations]
 ---
 
 # Dungeons
