@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 147080
+revid: 147436
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -33,4 +33,4 @@ Titus Gauntlets are a Fist Weapon.
     -   Having no requirements, no visible stats, and having near zero damage.
     -   Being named the "TitusGauntlets", likely a placeholder or internal name.
     -   They are enchantable.
-    -   If equipped before 06/15/25, they would be deleted from the inventory. This leaves the player with no weapon, making. them unable to use basic attacks, parry, block, or assassinate.
+    -   If equipped before 06/15/25, they would be deleted from the inventory. This leaves the player with no weapon, making them unable to use basic attacks, parry, block, or assassinate.

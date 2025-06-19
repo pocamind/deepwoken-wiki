@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 146077
+revid: 147458
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -152,7 +152,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
         -   **Jolting Current**: Your attuned Mantras will strike nearby opponents with lightning while in water.
         -   **Voltaic** **Conductor**: Your attuned Mantras will do 20% more chip damage to opponents affected by Conductor Rods.
     -   **Ether Proseltyte: Miscellaneous**: in **any** Saint Stance, your Mantras are able to proc the following Talents:
-        -   **Winter's Protection**: Effect **with Ether Proselyte** is currently unknown.
+        -   **Winter's Protection**: Effect _with Ether Proselyte_ is currently unknown.
         -   **Unyielding Inferno**: Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance.
     -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)
 
@@ -240,7 +240,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 -   Saint's Overload have 20 seconds of duration before going off and it can be seen from the flying blade that it changes color to white.
 -   The 5 blade on your back will vanish one by one after Hero's Assist is triggered.
 -   Your Attunement Path will affect the color of your Saintsblade in the corresponding stance.
--   The color of the current Saint Stance will apply to the colored parts of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Ignition Deepcrusher](Ignition_Deepcrusher.md), [Hailbreaker](Hailbreaker.md), [Divine Greataxe](Crazy_Slots.md), and [Divine Dagger](Crazy_Slots.md) when you equip them, and change colors when you use their Criticals.
+-   The color of the current Saint Stance will apply to: [Ysley's Pyre Keeper's](<Ysley's_Pyre_Keeper.md>) neon sections, [Ignition Deepcrusher's](Ignition_Deepcrusher.md) blade/hammer head, [Hailbreaker's](Hailbreaker.md) blade, [Divine Greataxe's](Crazy_Slots.md) axe head, and [Divine Dagger's](Crazy_Slots.md) blade. For some of these, the coloration change may not be visually apparent, especially if the natural color for these parts are darker colors like black.
     
     Pyre Keeper's color changing when using its Critical with Saintsworn
     

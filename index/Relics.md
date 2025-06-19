@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 147376
+revid: 147439
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -226,6 +226,7 @@ It grants the user +50 knowledge on subsequent uses.
 
 -   Crafting
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for
 
  |
 | 

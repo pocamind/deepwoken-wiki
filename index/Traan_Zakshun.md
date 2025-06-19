@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147395
+revid: 147437
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -252,6 +252,8 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Oh this one's verrry special - I can only let you buy one._
 -   _Whispers say this was lost to time... ooOOOooo !!_
 -   _No questions, no returns._
+-   _I'd wipe this for fingerprints._
+-   _Maybe I should get into mystery boxes... You'd buy one right?_
 
 ## Black Market Shop Rotation
 
@@ -267,19 +269,13 @@ Sold Items
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
-  <td><p><b>For </b>:</p>
+  <td>
   <ul>
-    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Rain_Spire.md">Rain Spire</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
-    <li><b><font>Other</font></b>: <a href="Strange_Tomes.md">Strange Tome #3</a>.</li>
-  </ul><p><b>For </b>:</p>
-  <ul>
-    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
-  </ul><p><b>For </b>:</p>
-  <ul>
-    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
-  </ul><p><b>For </b>:</p>
-  <ul>
-    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Enchantments.md">Astral</a> Enchant Stone, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
+    <li><b>For </b>: <a href="Rain_Spire.md">Rain Spire</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>.</li>
+    <li><b>For </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
+    <li><b>For </b>: <a href="Forge_Needle.md">Forge Needle</a>.</li>
+    <li><b>For </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
+    <li><b>For </b>: <a href="Enchantments.md">Astral</a> Enchant Stone, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
   </ul></td>
 </tr>
 <tr>

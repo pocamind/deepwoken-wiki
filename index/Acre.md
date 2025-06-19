@@ -1,6 +1,6 @@
 ---
 title: Acre
-revid: 130713
+revid: 147453
 source: https://deepwoken.fandom.com/wiki/Acre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in Starswept Valley, NPCs located in the Eastern Luminant]
@@ -16,7 +16,7 @@ categories: [Adret NPCs, NPCs, NPCs located in Starswept Valley, NPCs located in
 
 ## Description
 
-Acre is a female adret sitting on a ledge overlooking the water, she throws you off into the water if you continue her dialogue.
+Acre is a female adret sitting on a ledge overlooking the water wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit, she throws you off into the water if you continue her dialogue.
 
 ## Location
 

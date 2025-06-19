@@ -1,9 +1,9 @@
 ---
 title: Moonseye Tome
-revid: 145077
+revid: 147451
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Relics]
+categories: [Relics, Items]
 ---
 
 # Moonseye Tome

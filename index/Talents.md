@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147420
+revid: 147459
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1468,13 +1468,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the elegance of a Glassdancer."**_
 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
-    -   Applying chill, freeze, or frost elemental damage applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals makes them explode.
-    -   3 base damage per crystal explosion, has 5 scaling. Formula to calculate crystal DMG is (3+frostdraw investment\*0.015)
+    -   Applying chill or freeze applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals or guard breaking an opponent who has crystals makes them explode.
+    -   3 base Frostdraw damage per crystal explosion with 5 Frostdraw scaling. Formula to calculate crystal DMG is ((3+frostdraw investment\*0.015)\*crystal amount)
     -   Has 4.45x PVE scale (18.75 DMG PVP, 83.53 DMG PVE), affected by chain of perfection.
     -   1s cooldown on explosion proc.
-    -   Increases damage of Crystal Impale and Crystal Knee.
-    -   Changes Chilling enchant to proc 1 crystal per hit.
-    -   Changes color of Gran Sudaruska and Chilling enchant to become a pinkish red color.
+    -   Allows you to obtain [Crystal Impale](Frostdraw.md#crystal-impale), [Crystal Knee](Frostdraw.md#crystal-knee), and [Ice Lasers](Frostdraw.md#ice-lasers).
+    -   Increases the damage of [Crystal Impale](Frostdraw.md#crystal-impale) and [Crystal Knee](Frostdraw.md#crystal-knee) (they will do reduced damage if you remove this Talent).
+    -   Changes [Chilling](Enchantments.md#blessings) enchant to proc 1 crystal upon reaching the hit count requirement.
+    -   Changes color of [Gran Sudaruska](Gran_Sudaruska.md), [Kyrswynter](Kyrswynter.md), and [Chilling](Enchantments.md#blessings) Enchant to become a pinkish red color.
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusives: Unyielding Frost, Flashboil
 
