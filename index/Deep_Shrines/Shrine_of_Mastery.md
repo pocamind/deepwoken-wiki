@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 145678
+revid: 147511
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -26,23 +26,28 @@ Located in the entrance cave before [Deep Widow](../Deep_Widow.md) in the [Widow
 
 ### Effects
 
-For 1 Knowledge, you can trade 1 of your [Trait](../Traits.md) Points into another Trait. You can also remove attribute points.
+Shrine of Mastery has two different effects.
+
+-   For, you can trade 1 of your [Trait](../Traits.md) Points into another Trait.
+-   For, you can remove 1 of your invested attribute points, allowing you to reinvest it. A maximum of 3 points can be removed per character.
 
 ### Details
 
 -   You cannot add more than 6 Points into a given Trait.
 -   You can only remove 3 attribute points per character.
 -   You cannot remove innate attribute points granted by your aspect.
-    -   This is not true if you have the [Multifaceted](../Echoes.md#upgrades-and-modifiers) Echo Upgrade, as it converts innate attribute points into regular investment points.
+    -   This is not true if you have the [Multifaceted](../Echoes.md#upgrades-unlocks-and-modifiers) Echo Upgrade, as it converts innate attribute points into regular investment points.
 -   You cannot re-arrange stats if you have a Talent that requires a higher investment of said stat.
     -   For example: If you went 40 Strength to pick Showstopper and used the Shrine of Order to reduce your Strength, you wouldn't be able to remove points off Strength as long as you have Showstopper.
+    -   This applies to the Attunement mastery Talents as well, such as Adept Flamecharmer. Shrine of Mastery will not allow you to go below the 20/30/50 attunement investment milestones.
+    -   Talents with [Mind](../Attributes.md#mind) or [Body](../Attributes.md#body) requirements as well as the [Attributes Unbound](../Attributes_Unbound.md) Talents are ignored by Shrine of Mastery, allowing you to reinvest freely.
 -   Despite popular belief, you can still change your attributes with this after Shrine of Order.
     -   This idea stemmed from the previously mentioned Talent investment exception.
 -   Unlike with Talents, you can re-arrange stats used to acquire almost all [Oaths](../Oaths.md), allowing you to go below your Oath stat requirements while keeping your Oath.
     -   The only exceptions to this are [Arcwarder](../Oath%253A_Arcwarder.md) and [Saintsworn](../Oath%253A_Saintsworn.md), as you cannot lower your Attunement stats due to the Attunement Adept Talents.
     -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath Talents themselves have no stat requirement attached to them.
     -   When this was brought to the attention of Arch\_Mage, one of the main developers, he said "3 points aint the end of the world."
--   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing 35% less damage on your melee attacks.
+-   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty of dealing **35% less damage** on your melee attacks.
 -   If you no longer meet the requirements for a mantra or your mantra's levels after using Shrine of Mastery, you will keep it equipped with its previous level intact with **no** penalties.
 -   This shrine does not count for the "Bargained with Deep Shrines" echo.
 -   If you no longer meet the requirements for a outfit with stat requisites, you will keep the outfit with no penalties.

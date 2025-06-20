@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Ostentation
-revid: 145332
+revid: 147514
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Ostentation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -28,7 +28,7 @@ Located in [Ancient Rotlands](../Ancient_Rotlands.md), after taking a right from
 
 ### Effects
 
-For 10 Knowledge, transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
+For, transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
 
 ### Details
 

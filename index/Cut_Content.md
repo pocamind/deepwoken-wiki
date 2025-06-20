@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 146677
+revid: 147528
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -25,7 +25,7 @@ This page is about content that has either been removed or changed drastically i
 
 ## Quests
 
--   **Aerial Assault (quest) -** This quest was granted by an NPC named Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>). She tasked you to go interact with the purple flames at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Then upon returning to Ivory, she granted you the Aerial Assault Echo Talent. This quest, the quest giver, and the Talent itself were all removed on the March 8th, 2025 update when Aerial Assault was made base behavior.
+-   **Aerial Assault (quest) -** This quest was granted by [Ivory](Ivory.md) at [Pathfinder's Respite](<Pathfinder's_Respite.md>). She tasked you to go interact with the purple flames at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Then upon returning to Ivory, she granted you the Aerial Assault Echo Talent. This quest, the quest giver, and the Talent itself were all removed on the March 8th, 2025 update when Aerial Assault was made base behavior.
 -   **Chaser's Hemokinesis -** A quest was planned that would reveal how Chaser obtained his blood powers from the Ministry's Second Prophet via interacting with Ministry members hiding around the Second Layer's first floor. This would have tied into the Dungeon Invasion mechanic in some unknown way.[\[1\]](#cite-note-1)
 -   **Commander Rayner -** A quest that required travelling to the Isle of Crows and finding a basement. Though the Isle was removed, Rayner remained for a bit until eventually he too was removed.
 
@@ -76,12 +76,13 @@ This page is about content that has either been removed or changed drastically i
 -   **[Crab](Crab.md)** - Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
     -   They were however brought back within [The Diluvian Mechanism](The_Diluvian_Mechanism.md) as another weak mob. They are yet to be seen elsewhere.
 -   **[Isopods](Horseshoe_Crab.md) -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
+-   **[Deep Angel](Deep_Angel.md) -** Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the June 9th, 2025 update due to lore reasons, in which they had no real reason to exist. Their enemy spawns were replaced with [Nightmare Threshers](Nightmare_Thresher.md).
 -   **Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
 
 ## Talents
 
 -   **Aerial Assault \[Common Talent, Echo Talent\] -** Allows you to move quickly when you dodge mid-air. (+2 Passive Agility)
-    -   In the March 8th, 2025 update, Aerial Assault was made base behavior. The quest to obtain this Echo Talent and the NPC who gave you that quest, Ivory, were removed as well.
+    -   In the March 8th, 2025 update, Aerial Assault was made base behavior. The quest to obtain this Echo Talent and the NPC who gave you that quest, [Ivory](Ivory.md), were removed as well.
 -   **A Deal from Below \[Generic Talent, Rare Talent\] -** You have a higher chance of being granted Whispers. However, you are more susceptible to insanity. (+2 Health)
     -   This Talent gave you such a potent insanity gain percentage that you could passively gain Tier 1 Insanity while outside of the Depths.
     -   Along with **Lose Your Mind,** which used to deal _double_ damage at max insanity, a bug was found where Lose Your Mind's max damage buff was always active as long as you had some form of Insanity, effectively granting you permanent double or even _quadruple_ damage, as showcased in Shirafune's video.
@@ -264,7 +265,7 @@ This page is about content that has either been removed or changed drastically i
     
     -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
 -   **Elemental Intensity** as a Talent stat - Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the September 7th, 2024 update.
--   **Ivory -** A quest giver NPC at [Pathfinder's Respite](<Pathfinder's_Respite.md>), she was removed along with the quest and the Talent the quest granted when it was made base behavior.
+-   **[Ivory](Ivory.md) -** A quest giver NPC at [Pathfinder's Respite](<Pathfinder's_Respite.md>), she was removed along with the quest and the Talent the quest granted when it was made base behavior.
 -   **Lightning Strike Event -** An event which would occur while sailing, and would strike you, and your boat with lightning a few times. It was removed because it served no purpose other than being annoying.
 -   **Locked Chest -** Limited to [The Depths](The_Depths.md), chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader used to mention this mechanic in their dialogue post-release.
 -   **Lore Guilds -** There used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. The Knives of Eylis was later added as well. Known inaccessible Lore guilds include The Hive.

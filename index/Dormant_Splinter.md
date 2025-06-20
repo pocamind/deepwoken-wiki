@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 147371
+revid: 147504
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons]
@@ -48,17 +48,18 @@ It can alternatively be found from a variety of events in the [Voidsea](Voidsea.
 
 ## Crafting
 
-The main use for the **Dormant Splinter** is to be crafted into other weapons, through use of [The Cold Forge](The_Cold_Forge.md). There are only two weapons at the moment, but more may be added at some point in the future.
+The main use for the **Dormant Splinter** is to be crafted into other weapons, through use of [The Cold Forge](The_Cold_Forge.md). There are only two weapons at the moment, but more may be added at some point in the future. The recipes are shown below:
 
-Recipes:
-
-**[Fondant Splitter](Fondant_Splitter.md)** = Dormant Splinter + [Cake](Food.md) + [Sword](<Sword_(weapon).md>)
-
-**[Umbrite Witherblade](Umbrite_Witherblade.md)** = Dormant Splinter + 3x [Umbrite](Ores.md) + [Razor Cutlass](Razor_Cutlass.md)
+| Weapon | Recipe |
+| --- | --- |
+| [Fondant Splitter](Fondant_Splitter.md) | Dormant Splinter + Cake + [Sword](<Sword_(weapon).md>) |
+| [Umbrite Witherblade](Umbrite_Witherblade.md) | Dormant Splinter + 3x [Umbrite](Ores.md#umbrite) + [Razor Cutlass](Razor_Cutlass.md) |
 
 ## Critical
 
-The User will try to enhance the power with darkness upon usage but due to its abysmal hitbox, will only usually hit if you are running.
+The user will clutch onto the blade very closely, causing the blade to emit effects coming out of it. The critical has an abysmal hitbox and will sometimes hit when running.
+
+The critical has a cooldown of **14 seconds**.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 143956
+revid: 147539
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -88,7 +88,7 @@ Gain a 20% defense boost to all sources. Applied after knocking someone with the
 
 ### Berserking Rage
 
-At the cost of draining all of your armor, your M1 and Critical attacks bypass your opponent's armor. Deactivating the tool will replenish your armor and Natural Armor back to their original values. Applied with the Talent [Berserk](Talents.md#berserker). Signified by your hair and eyes turning red and you gaining a red eye trail.
+At the cost of draining all of your armor, your M1s bypass your opponent's armor, additionally your Critical attacks gain +10% PEN. Deactivating the tool will replenish your armor and Natural Armor back to their previous values. Applied with the Talent [Berserk](Talents.md#berserker). Signified by your hair and eyes turning red and you gaining a red eye trail.
 
 ### Overcharm
 
@@ -96,7 +96,7 @@ Apply charm every M1 and Mantra landed, even without having the Charismatic Cast
 
 ### Inspired
 
-Granted by reaching 3 stacks of Inspiration with the [Ether Conduit](Talents.md#ether-adept) talent. Stacks of Inspiration can be gained through the talents [Ether Absorption](Talents.md#ether-adept) and [Ether Blade](Talents.md#ether-adept). Mantras deal 10% more damage for the duration of the status, which is always 5 seconds long. Signified by a light blue hue and outline surrounding your character.
+Granted by reaching 3 stacks of Inspiration with the [Ether Conduit](Talents.md#ether-adept) Talent. Stacks of Inspiration can be gained through the Talents [Ether Absorption](Talents.md#ether-adept) and [Ether Blade](Talents.md#ether-adept). Mantras deal 10% more damage for the duration of the status, which is always 5 seconds long. Signified by a light blue hue and outline surrounding your character.
 
 ### Mark of Jurik
 
@@ -137,9 +137,10 @@ This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) 
 It has a few sub-variants:
 
 -   Azure Burning: Has higher burn damage.
--   Black Flames: Consumes your Ether while you are burning and spawns Puppets. This burn type comes from Wraith Path: Twisted Puppets.
+-   Black Flames: Consumes your Ether while you are burning and spawns Puppets if applied via a non-Shadowcast source. This burn type comes from Wraith Path: Twisted Puppets.
 -   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path. Is also applied with the [Curse of Rhaemen's Ember](Enchantments.md#curses) enchant.
--   White Flames: Flames scale on INT, meaning they can be a lot more deadly. (Currently bugged and does not scale based on INT)
+-   White Flames: Flames scale on INT, meaning they can be a lot more deadly. (Currently bugged and does not scale on INT, instead scaling on your Flamecharm investment.)
+-   Flamewreathe Burn: [Attuned Monster](Monsters.md#attuned-monsters) exclusive, cannot be removed via roll canceling; only full rolls can remove this effect. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
 
 ### Winded
 

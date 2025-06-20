@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 141464
+revid: 147500
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, The Hive]
@@ -16,25 +16,23 @@ categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant,
 
 ## Description
 
-Calamus is a member of [The Hive](The_Hive.md). She is the sole guardian of the [Greathive](Greathive_Aratel.md) and swore to protect the Lordsgrove and Valley, but she has become fatigued from near death encounters and you can propose to help her, she then gives you a [quest](Quests.md) to slay beasts.
+Calamus is a member of [The Hive](The_Hive.md). She is a guardian of [Greathive Aratel](Greathive_Aratel.md), sworn to protect the [Lordsgrove](The_Lordsgrove.md) and [The Valley](The_Starswept_Valley.md). Her work has made her fatigued; as a result, you can propose to help her. She gives you a [quest](Quests.md) to kill specific monsters.
 
 ## Location
 
-Calamus is located in the [Starswept Valley](The_Starswept_Valley.md) ontop of a wall of rock with many jump pads to help climb up.
+Calamus is in the Starswept Valley, located on top of a cliff. There are several jump pads that can be used to reach her.
 
 ## Quest Details
 
-Talking to calamus grants you the option to help her slay [beasts](Monsters.md), completing the quest will reward you a chest with average loot, and grant positive [Reputation](Reputation.md) with The Hive, her quest is repeatable.
+Talking to Calamus lets you take her quest, that being hunting a particular [monster](Monsters.md) in the Starswept Valley. Returning to her after completing her quest will spawn a chest with average loot and grant positive [Reputation](Reputation.md) with The Hive. This quest is repeatable.
 
-1.  Find the monster you need to slay
-2.  Slay it
-3.  Come back to Calamus and she will reward you
+If you talk to Calamus before you kill the monster, she gives you the option to cancel the quest, letting you retake it. You can use this if Calamus tasks you with killing a monster that's too strong or too rare.
 
-If you come back to her before slaying the monster you'll have the option to refuse finding that one, and you can ask for a new target.
+If the quest is completed a sufficient amount of times, Calamus will ask you to set up a device somewhere in the valley.
 
 ## Loot
 
-The chest appears to be an ordinary hive chest, containing what you would usually expect from a chest found in the Starswept Valley. However, like the [Hive vs Etris Event](Random_Encounters.md#fight-between-factions-2), it has an exceedingly rare chance to drop the Legendary Elemental weapon, [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
+The chest is an ordinary Starswept Valley Chest, containing what you would usually expect from a chest found in the area. However, like the [Hive vs Etris Event](Random_Encounters.md#fight-between-factions-2), it has an incredibly low chance to drop the Legendary Elemental Weapon, [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 
 ## Dialogue
 
@@ -118,7 +116,7 @@ The chest appears to be an ordinary hive chest, containing what you would usuall
   <td>I've eliminated the threat.</td>
 </tr>
 <tr>
-  <td>You have the Hive's thanks, friend. We will not forget this assistance. Please, i hope this reward is satisfactory, If you would like to help once more, please return to me for another task.</td>
+  <td>You have the Hive's thanks, friend. We will not forget this assistance. Please, I hope this reward is satisfactory, If you would like to help once more, please return to me for another task.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -128,5 +126,5 @@ The chest appears to be an ordinary hive chest, containing what you would usuall
 
 ## Trivia
 
--   The amount of times you need to complete her quest before she tells you to set up the device seems to vary.
--   The location of this device is undocumented; it may be bugged, not yet implemented, or in a very obscure location.
+-   The amount of times you need to complete her quest before she tells you to set up the device can vary.
+-   The location of this device is undocumented; it may be bugged, not yet implemented or in a very obscure location.

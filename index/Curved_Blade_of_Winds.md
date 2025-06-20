@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 147382
+revid: 147538
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -37,7 +37,7 @@ The **Curved Blade of Winds** is a Legendary [Sword](Weapons.md) that can cut th
 This weapon comes with two passive abilities:
 
 -   **Gale After Cut** - M1 attacks now apply After Cut, dealing 5% of the initial damage of the attack.
-    -   Inhaling a mantra will temporarily buff this up to the standard 10% that normal After Cut would give.
+    -   ~Inhaling a mantra will temporarily buff this up to the standard 10% that normal After Cut would give~. This is currently bugged and does not work.
 
 -   **Gale Affinity** - Your critical attack now applies Suffocate. If the user has Haunted Path: Specter, critical attacks will fill up the Specter gauge and summon Apparitions.
 

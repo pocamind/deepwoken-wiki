@@ -1,9 +1,9 @@
 ---
 title: Quartztone Pickaxe
-revid: 143097
+revid: 147492
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Quartztone Pickaxe
@@ -31,15 +31,15 @@ categories: [Weapons, Pages with broken file links, Greataxes, Weapons with Uniq
 
 The **Quartztone Pickaxe** is a rare, previously exclusive Greataxe resembling a pickaxe found most often in the [Saramaed Hollow](Saramaed_Hollow.md) dungeon. It's the only weapon alongside the [Boltcrusher](Boltcrusher.md) that can be used to mine ores; it also mines them faster.
 
-## Criticals
+## Critical
 
 The Quartztone Pickaxe has two critical attacks. Using both criticals require Ether.
 
-For the **standing** critical, the user creates a bright flash with the end of the pick and then strikes an opponent with a pickaxe, ragdolling and launching them away.
+For the standing critical, the user shines the pickaxe and spins it, then causing a blast in the ground that ragdolls and sends the opponents backwards.
 
-For the **aerial** critical, the user makes a quick downslash that sends them forward, then making two slashes in quick succession once they hit the ground.
+For the aerial critical, the user shines the pickaxe, performing a slash in the air followed by two larger slashes on the ground.
 
-File:Air crit.gif
+Both criticals have a cooldown of **6 seconds**. Both cooldowns will count down when the user is done performing the critical.
 
 ## Trivia
 

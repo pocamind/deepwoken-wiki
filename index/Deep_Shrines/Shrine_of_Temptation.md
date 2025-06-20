@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Temptation
-revid: 133097
+revid: 147507
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Temptation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -26,7 +26,7 @@ Located at the [Crypt of the Unbroken](../Crypt_of_the_Unbroken.md) of Minityrsa
 
 ### Effects
 
-Trade a Mantra of your choice and 5 Knowledge to gain a Whisper Draw.
+Trade a Mantra of your choice and to gain a Whisper Draw.
 
 ### Details
 

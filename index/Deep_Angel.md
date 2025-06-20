@@ -1,9 +1,11 @@
 ---
 title: Deep Angel
-revid: 142821
+revid: 147536
 source: https://deepwoken.fandom.com/wiki/Deep_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies, Enemies that can wield Enchantments]
+categories: [Cut Content, Monsters, Enemies, Enemies that can wield Enchantments]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Deep Angel
@@ -13,6 +15,8 @@ Template:Creature Infobox V3
 ## Description
 
 These Angels are like no other variants - they are black in contrary to other variants, and glow bright magenta. They use [Divine Spears](Crazy_Slots.md) to kill their enemies. The Deep Angels spawn in the Ancient Rotlands, and drops a chest when you kill them. The chests they drop will contain high tier loot, having more than two legendary rings in one chest.
+
+Deep Angels were removed from the game on June 9th, 2025.
 
 ## Moveset
 

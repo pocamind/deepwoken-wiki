@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 144679
+revid: 147503
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -16,13 +16,13 @@ categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in 
 
 ## Description
 
-Korin is an [Etrean](Etrean.md) NPC, he is as a lumberjack, and his primary use as an NPC is to increase the player's reputation with [Etris](Etris.md), most often to obtain the manor key, which is necessary to access the boss, [Duke Erisia](Duke_Ishamon_Erisia.md).
+Korin is an [Etrean](Etrean.md) NPC. He is as a lumberjack, and his primary use as an NPC is to increase the player's reputation with [Etris](Etris.md), letting the player easily obtain the [Manor key](Manor_Key.md), which is necessary to access the boss, [Duke Erisia](Duke_Ishamon_Erisia.md).
 
-His counterpart that exists in [Isle of Vigils](Isle_of_Vigils.md) is [Drefa](Drefa.md).
+His counterpart in the [Isle of Vigils](Isle_of_Vigils.md) is [Drefa](Drefa.md).
 
 ## Location
 
-Korin is located at [Etris](Etris.md) infrot of the [Antiquarian](Antiquarian.md), standing outside his house.
+Korin is located in [Etris](Etris.md), in front of the [Antiquarian](Antiquarian.md). He is standing outside of his house.
 
 ## Quest
 
