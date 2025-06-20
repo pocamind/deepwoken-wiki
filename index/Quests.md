@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 145807
+revid: 147562
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -232,7 +232,7 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Quest Location**: [Isle of Vigils](Isle_of_Vigils.md), [Etrean Wilds](Etrean_Wilds.md), [Lower Erisia](Lower_Erisia.md), [The Monkey's Paw](<The_Monkey's_Paw.md>) **Guide**: Talk to [Zana](Zana.md) on the Isle of Vigils docks with a [weapon with a sheath](Katana.md). Fight him and win at various locations.
 
-**Reward/s**: Poser’s Ring
+**Reward/s**: [Poser's Ring](<Poser's_Ring.md>)
 
 **Ghost Hunting:**
 

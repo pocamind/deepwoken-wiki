@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 147065
+revid: 147546
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -149,11 +149,11 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
-  <u>'<i>ARMOR STEAL SCALES OF SCALED DMG AND NOT AFFECTED BY DMG MODS</i></u><br>
-  27-40 scaled DMG armor drain values: 1% armor drain per 4.725 SCALED DMG or 6.3 SCALED DMG (Steadfast)<br>
-  Metal has diminishing returns, so you can't drain all your enemy's armor in few hits<br>
+  Formula for Metal enchant drain: 0.0021 * Scaled DMG * ARMOR DURABILITY OF VICTIM * Armor drain modifiers (Steadfast/Armor conserver)<br>
+  For armor recovery: 0.0021 * SCALED DMG * YOUR OWN ARMOR DURABILITY<br>
+  Metal drain has 200 durability cap and armor recovery has 150 durability cap.<br>
+  Calculator for Metal: <a href="https://www.desmos.com/calculator/ucfiwui0q4">https://www.desmos.com/calculator/ucfiwui0q4</a> (By Inteque)<br>
   You can still gain armor off even if target has none.<br>
-  Doesn't affect mobs armor<br>
   </p></div></td>
   <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>

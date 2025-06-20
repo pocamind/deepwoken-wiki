@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147437
+revid: 147567
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -116,16 +116,19 @@ Trahne Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">When accessing the Black market</td>
+  <td colspan="6">When accessing the Black market</td>
+  <td colspan="6">Speaking to him after purchasing something</td>
 </tr>
 <tr>
-  <td colspan="12">Keep your voice down... here's tonight's haul. Purchase limit of one item each, this stock's very limited.</td>
+  <td colspan="6">Keep your voice down... here's tonight's haul. Purchase limit of one item each, this stock's very limited.</td>
+  <td colspan="6">Y'already bought from me tonight. Don't get greedy, I've got other folks to barter with.</td>
 </tr>
 <tr>
-  <td colspan="12">[<font>Opens</font> <a href="#black-market-shop-rotation"><u><font>Black Market UI</font></u></a>]</td>
+  <td colspan="6">[<font>Opens</font> <a href="#black-market-shop-rotation"><u><font>Black Market UI</font></u></a>]</td>
+  <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>
@@ -221,7 +224,7 @@ Sold Items
 
 ## Black Market
 
-Once every 20 hours, instead of a regular item rotation, Trahne Zakshun will sell goods from his black market stock. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only one of each item can be purchased per visit. Like any normal shop rotation, the black market will only last one IRL hour.
+Once every 20 hours, instead of a regular item rotation, Trahne Zakshun will sell goods from his black market stock. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one IRL hour.
 
 ### Shop UI
 
@@ -273,7 +276,9 @@ Sold Items
   <ul>
     <li><b>For </b>: <a href="Rain_Spire.md">Rain Spire</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>.</li>
     <li><b>For </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
+    <li><b>For </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>.</li>
     <li><b>For </b>: <a href="Forge_Needle.md">Forge Needle</a>.</li>
+    <li><b>For </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
     <li><b>For </b>: <a href="Enchantments.md">Astral</a> Enchant Stone, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
   </ul></td>

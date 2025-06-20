@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 145333
+revid: 147544
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -111,11 +111,11 @@ Based on the power of the user(s), the starting wave will differ;
 | 6 (Holy Knights) | 2 Greater Angel, 4 Corrupt Mudskipper Knights |  |
 | 7 (A squadron of Knights) | 6 Corrupt Mudskipper Knights |  |
 | 8 (Songseeker Fighters) | 2 Greater Angels, 4 Corrupt Mudskipper Knights |  |
-| 9 (Cave Paladins) | 2 Deep Angels |  |
+| 9 (Cave Paladins) |  |
 | 10 (Angel Haven)
 **\*HOLLOW MODIFIER\***
 
- | 2 Lesser Angels, 1 Deep Angel, 4 Greater Angels |  |
+ | 2 Lesser Angels, 4 Greater Angels |  |
 | 11 (Depths Fishing) | 2 Corrupt Lionfish, 2 Corrupt Terrapods |  |
 | 12 (King Joffrey's pets) | 1 Corrupt King Gigamed, 1 Corrupt King Thresher |  |
 | 13 (Owl's Friends) | 2 Stone Knights, 1 Corrupt Owl |  |
@@ -181,7 +181,7 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 
 **\*GHOSTLY REMINISICENCE MODIFER\***
 
- | 1 Corrupt Attuned Tideknight, Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
+ | 1 Corrupt Attuned Tideknight, Iblis The Fallen Angel | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
 | 45 (Masters on all Hands)
 
 **\*TIMEBOMB MODIFIER\***

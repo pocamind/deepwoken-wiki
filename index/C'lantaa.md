@@ -1,6 +1,6 @@
 ---
 title: "C'lantaa"
-revid: 139628
+revid: 147545
 source: https://deepwoken.fandom.com/wiki/C'lantaa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -71,6 +71,6 @@ A [Tiran](Tiran.md) man found in [New Kyrsa, The Sleeping City](Second_Layer/New
 
 ## Trivia
 
--   Unlike some NPCs in New Kyrsa, he is safe to talk to and cannot harm you.
+-   Unlike most NPCs in New Kyrsa, he is safe to talk to and cannot harm you.
     -   This is due to the fact that he is wounded and wields no weapon.
 -   C'lantaa's racial variant is a Jay.

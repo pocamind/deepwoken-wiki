@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 147439
+revid: 147554
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -115,7 +115,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
  | **[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - A ritual idol that is used to redeem a [Yun'Shul Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without the need of a [Resonance](Resonance.md). Can be used in any location.
 
 -   _(Consumed upon usage)_
--   (_using this item changes your flaw)_
+-   (_using this item changes your flaw_)
 
  | 
 
@@ -130,6 +130,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for
 
  |
 | 
@@ -176,9 +177,10 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for
 
  |
-|  | [Armorer's Needle](<Armorer's_Needle.md>) - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.
+|  | **[Armorer's Needle](<Armorer's_Needle.md>)** - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.
 
 -   _(Consumed upon usage)_
 
@@ -205,7 +207,7 @@ It grants the user +50 knowledge on subsequent uses.
  |
 | 
 
- | [Gilded Needle](Gilded_Needle.md) - A needle that changes one of your [Equipment's pips](Equipment.md) to another pip of your choice (with regards to pip diversity limitations.)
+ | **[Gilded Needle](Gilded_Needle.md)** - A needle that changes one of your [Equipment's pips](Equipment.md) to another pip of your choice (with regards to pip diversity limitations.)
 
 -   _(Consumed upon usage)_
 
@@ -218,7 +220,7 @@ It grants the user +50 knowledge on subsequent uses.
  |
 | 
 
- | [Forge Needle](Forge_Needle.md) - A needle that upgrades a chosen equipment piece up one star.
+ | **[Forge Needle](Forge_Needle.md)** - A needle that upgrades a chosen equipment piece up one star.
 
 -   _(Consumed upon usage)_
 
@@ -231,7 +233,7 @@ It grants the user +50 knowledge on subsequent uses.
  |
 | 
 
- | [Baneful Syrinx](Baneful_Syrinx.md) - An effigy to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) that is used to teleport to one of three locations in [The Depths](First_Layer.md).
+ | **[Baneful Syrinx](Baneful_Syrinx.md)** - An effigy to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) that is used to teleport to one of three locations in [The Depths](First_Layer.md).
 
   
 Locations: [Temple of Hearts](Temple_of_Hearts.md), [Cathedral of the Interstice](Cathedral_of_the_Interstice.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -246,7 +248,7 @@ Locations: [Temple of Hearts](Temple_of_Hearts.md), [Cathedral of the Interstice
  |
 | 
 
- | [Reciprocal Bonecharm](Reciprocal_Bonecharm.md) - An effigy to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) that is used to teleport you directly into the [Second Layer](Second_Layer.md)'s Sanctuary Outskirts.
+ | **[Reciprocal Bonecharm](Reciprocal_Bonecharm.md)** - An effigy to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) that is used to teleport you directly into the [Second Layer](Second_Layer.md)'s Sanctuary Outskirts.
 
   
 If used in the Second Layer, it will prompt you to skip the first floor and teleport you into the second.
@@ -260,7 +262,7 @@ If used in the Second Layer, it will prompt you to skip the first floor and tele
  |
 | 
 
- | [Ouroboral Husk](Ouroboral_Husk.md) - An effigy to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) that is used to teleport you to one of two locations in the Overworld.
+ | **[Ouroboral Husk](Ouroboral_Husk.md)** - An effigy to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) that is used to teleport you to one of two locations in the Overworld.
 
   
 Locations: [Saramaed Summit](Saramaed_Summit.md), [Saramaed Hollow](Saramaed_Hollow.md)
@@ -439,16 +441,29 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
   </ul></td>
   <td>
   <ul>
-    <li>Exchange <a href="Kyrsan_Medallions.md">Kyrsan Medallions</a> with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
+    <li>Exchange with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
     <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
     <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
     <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
     <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Star_Knight.md">Star</a> or <a href="Moon_Knight.md">Moon Knights</a> (Astral only)</li>
-    <li><a href="Primadon,_Titan_of_the_East.md">Primadon</a> or <a href="Hive_Construct.md">Hive Constructs</a> (Curse of Rhaemen's Ember only)</li>
     <li><a href="War_Mode.md">War Mode</a></li>
     <li><a href="Hell_Mode.md">Hell Mode</a></li>
+  </ul><p>Specific Enchant Stones:</p>
+  <ul>
+    <li>Astral
+  <ul>
+    <li><a href="Star_Knight.md">Star Knight</a> and <a href="Moon_Knight.md">Moon Knight</a></li>
+    <li><a href="Moon's_Eyrie.md">Moon's Eyrie</a></li>
+    <li><a href="Weird_Trader.md">Weird Trader</a></li>
+    <li>Sold in <a href="Traan_Zakshun.md">Trahne Zakshun's</a> black market for</li>
+  </ul></li>
+    <li>Curse of Rhamen's Ember
+  <ul>
+    <li><a href="Hive_Construct.md">Hive Constructs</a> and <a href="Rogue_Construct.md">Rogue Constructs</a></li>
+    <li><a href="Primadon,_Titan_of_the_East.md">Primadon</a></li>
+    <li><a href="The_Starswept_Valley.md">Starswept Valley</a> Chests</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>
@@ -459,8 +474,8 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
   </ul></td>
   <td>
   <ul>
-    <li>Exchange <a href="Kyrsan_Medallions.md">Kyrsan Medallions</a> with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
-    <li>Exchange <a href="Knowledge.md">Knowledge</a> with <a href="Laplace.md">Laplace</a></li>
+    <li>Exchange with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
+    <li>Exchange with <a href="Laplace.md">Laplace</a></li>
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
     <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
     <li><a href="War_Mode.md">War Mode</a></li>
@@ -490,6 +505,6 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 
 ## Trivia
 
--   All Relics are storeable in banks (excluding the Mantle Of Enmity), which means you can transfer them between slots. However, they do require a Vow of Safekeeping, which costs 1 knowledge to make.
--   Some relics (Smith’s Alloy, Sinner’s Ash, Moonseye Tome, Idol of Yun’Shul) were ideas by the YouTuber Agamatsu.
--   Video: [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)
+-   All Relics are storeable in banks (excluding the Mantle Of Enmity), which means you can transfer them between slots. However, they do require a Vow of Safekeeping, which costs to make.
+-   Some relics (Smith’s Alloy, Sinner’s Ash, Moonseye Tome, and Idol of Yun’Shul) were ideas by the YouTuber Agamatsu.
+    -   Video: [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)

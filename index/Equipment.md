@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 146837
+revid: 147558
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -6567,7 +6567,7 @@ Found from:
  |
 |  | 
 
-Poser’s Ring
+[Poser's Ring](<Poser's_Ring.md>)
 
  | 
 

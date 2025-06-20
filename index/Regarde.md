@@ -1,6 +1,6 @@
 ---
 title: Regarde
-revid: 142534
+revid: 147542
 source: https://deepwoken.fandom.com/wiki/Regarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant]
@@ -40,3 +40,7 @@ He is located in [Greathive Aratel](Greathive_Aratel.md) in the Heart Plaza, sta
 </tr>
 </tbody>
 </table>
+
+## Gallery
+
+Regarde with no mask on
