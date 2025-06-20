@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 147535
+revid: 147588
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -698,7 +698,7 @@ Shadow + Slash/Blunt (Bl. Spark)
 -   With Blast spark: 75 (3.75\*20) DMG, 10.53 posture per hit if u will try to block during blast spark multi hit attack.
 -   With 6 songchant Blast spark deals 83 (4.15\*20) DMG
 -   Has 9.18x PVE scale (51.67 DMG PVP, 474.3 PVE DMG)
--   Travels about 1/3 as far when used in water.
+-   Its distance is reduced by 60% when used in water.
 -   Crystal/Perfect Lenses increase distance.
 -   Glass and Magnifying Stones make hitbox larger.
 -   Can be modified with a Blast Spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.

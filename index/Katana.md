@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 147560
+revid: 147577
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
@@ -50,6 +50,7 @@ Storm Enchant
     -   Meeting the alloyed requirement, the damage is (27.9)
 -   At max MED, the non-alloyed damage is (26.1)
     -   At max MED, the alloyed damage is (30.5)
+    -   At max MED, along with paired soul, The non-Alloyed katana has exactly .6 more damage than the alloyed version. Which is funny
 -   The [Blade Temple Guards](Blade_Temple_Guard.md) on the [Isle of Vigils](Isle_of_Vigils.md) use Katanas.
 -   It is one of four weapons that comes with a scabbard, the others being the [Shattered Katana](Shattered_Katana.md), [Purple cloud](Purple_Cloud.md), and the [Bloodfouler](Bloodfouler.md)
 -   [Akira](Akira.md) carries the Katana on his back while it's not in use (and notably, without a sheath) whereas everyone else carries it on their hip.

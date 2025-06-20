@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 129973
+revid: 147589
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -14,15 +14,9 @@ Bullet Casings can be used in combination with some [ores](Ores.md), like [Eriso
 
 The maximum amount of cased bullets you can have in your inventory is capped at 999, and you can't have more than one type of cased bullets at a time.
 
-### Dialogue:
+Mag
 
-(1) Mag: Looking to buy some casing? For some Notes and a little ore I can encase your ammunition. P: Sure / \[End Dialogue\]
-
-(2) Mag: Gonna need you to show me the ore you want me to use... (If you were not holding a compatible ore.) P: Sure / \[End Dialogue\]
-
-(3) Mag: How many bullets do you want encased? It's 1 Note for every 5 bullets, rounded up to the nearest Note. P: Submit / Exit
-
-## Bullet Effects:
+## Bullet Effects
 
 **Iron:**
 

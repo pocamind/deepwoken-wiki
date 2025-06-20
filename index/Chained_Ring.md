@@ -1,6 +1,6 @@
 ---
 title: Chained Ring
-revid: 144467
+revid: 147585
 source: https://deepwoken.fandom.com/wiki/Chained_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -25,4 +25,4 @@ categories: [Equipment, Rings]
 
 ## **Description**
 
-**Chained Ring** is a Ring [Equipment](Equipment.md) piece that removes your ability to use your Air Dash ([Aerial Assault](Talent_Quests.md#aerial-assault)) in return for reducing knockback dealt to you.
+**Chained Ring** is a Ring [Equipment](Equipment.md) piece that removes your ability to use your [Air Dash](Combat_Mechanics.md#air-dash) in return for reducing knockback dealt to you.

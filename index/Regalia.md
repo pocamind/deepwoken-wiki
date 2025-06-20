@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 145795
+revid: 147591
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -103,8 +103,6 @@ This Regalia is not kept upon wiping at or below Power 6.
 You no longer lose hunger or thirst (with the exception being blood regeneration, gluttony enchant, vomit)
 
 You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood for 5% of Hunger and Thirst)
-
-You cannot obtain the Carnivore talent (or Grand Feast, as Carnivore is required to obtain).
 
 ### Insightful[\[4\]](#cite-note-archnamedrop2-4)
 

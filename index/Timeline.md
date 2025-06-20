@@ -1,6 +1,6 @@
 ---
 title: Timeline
-revid: 147505
+revid: 147592
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -51,7 +51,7 @@ During this transformative era, significant advancements lead to the creation of
 
 ## The Tides
 
-An event that happened near the end of The Canticlysm and continued a few years afterwards, it was called the first Great Drowning. Its cause was the Drowned Gods, who were almost woken up by the overuse of The Song. They exerted their power over Lumen, corrupting the Sea. This caused immense destruction, dividing the world into the 6 Luminants. Alongside this, they caused the Voidfog to be drawn to the Sea, merging them into the Voidsea. Raging on, it led to the formation of [the Ministry](The_Ministry.md). The tides ended with the Great Drowning of Celtor, in which the Celtorian Horror dragged The City of Celtor underwater and into the first layer of [The Depths](The_Depths.md) - [Scyphozia](First_Layer.md). It caused [The Moonseye](Moonseye.md), a symbol of the afterlife, to be replaced with the Depths; When you die, rather than ascending, you now [drown](Death.md), taken into the lower parts of a Layer thus we still don’t know what the upper part of a Layer looks like but it is presumably a more primal version of the layers as they don’t have any influence from sentient or sapient aspects as far as we know. Escape is only possible through the [Depths trial](First_Layer.md#escaping-first-layer) or by making [a wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but doing so will pull you back in eventually due to the pull on your soul, but certain rituals can negate this effect.[\[9\]](#cite-note-9)
+An event that happened near the end of The Canticlysm and continued a few years afterwards, it was called the first Great Drowning. Its cause was the Drowned Gods, who were almost woken up by the overuse of The Song. They exerted their power over Lumen, corrupting the Sea. This caused immense destruction, dividing the world into the 6 Luminants. Alongside this, they caused the Voidfog to be drawn to the Sea, merging them into the Voidsea. Raging on, it led to the formation of [the Ministry](The_Ministry.md). The tides ended with the Great Drowning of Celtor, in which the Celtorian Horror dragged The City of Celtor underwater and into the first layer of [The Depths](The_Depths.md) - [Scyphozia](First_Layer.md). It caused [The Moonseye](Moonseye.md), a symbol of the afterlife, to be replaced with the Depths; When you die, rather than ascending, you now [drown](Death.md), taken into the depths. Escape is only possible through the [Depths trial](First_Layer.md#escaping-first-layer) or by making [a wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but doing so will pull you back in eventually due to the pull on your soul, but certain rituals can negate this effect.
 
 ## New World
 
@@ -67,4 +67,3 @@ The current world of deepwoken, having come about as a result of the tides. Refe
 6.  [↑](#cite-ref-6) Description of the 1v1 arena map: _"A forbidden store of Old World texts once deemed to be too dangerous for common consumpton, now laid bare for profiteers."_;
 7.  [↑](#cite-ref-7) According to Ishan, an Etrean man located in the Stronghold within the Summer Isles, the appearance of the Adrets seemed sudden and unexpected.
 8.  [↑](#cite-ref-8) Sourced from the description of Pluripotent Alloy: _"\[...\] The discovery of the Pluripotent Alloys is said to have sparked the development of Ironsing during the Canticlysm."_
-9.  [↑](#cite-ref-9) Need source for the sentence "taken into the lower parts of a Layer..."

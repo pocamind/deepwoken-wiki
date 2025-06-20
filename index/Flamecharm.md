@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 147540
+revid: 147587
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -839,6 +839,7 @@ Fire
 -   Deals 47.84 (53.25 with 6 song) damage at 5 lvl.
 -   Has 9.17x PVE scale (47.84 DMG, 439.17 PVE DMG)
 -   Inflicts Burn and Ragdolls.
+-   Its distance is reduced by 60% when used in water.
 -   Can be modified with Crystal/Perfect Lenses to cause the Mantra to fly farther (at the same pace).
 -   Can be modified with Glass/Magnifying Stones to increase the hitbox size.
 
