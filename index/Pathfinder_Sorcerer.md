@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Sorcerer
-revid: 146471
+revid: 147573
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -29,6 +29,7 @@ The [Lowstride](Talents.md#assassin) talent increases your [Stealth](Stealth.md)
 This Outfit's Schematic can be obtained from:
 
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   Sold by [Trahne Zakshun](Traan_Zakshun.md) at [Lower Erisia](Lower_Erisia.md) for
 -   [The Depths](The_Depths.md)
 -   [Fishing](Fishing.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
