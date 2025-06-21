@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 146486
+revid: 147652
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide]
@@ -36,7 +36,7 @@ With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on to
 6.  [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) \[35 Joy\]
 7.  [Pumpkin Head](Pumpkin_Head.md) \[50 Joy\]
 8.  [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
-9.  Hallowtide Variant \[70 Joy\] - Unlocks a Hallowtide racial variant for all of your races. This purchase is account-wide, unlocking for your current and future slots and races.
+9.  [Hallowtide Race Variant](Hallowtide.md#aspect-variants) \[70 Joy\] - Unlocks a Hallowtide racial variant for all of your races. This purchase is account-wide, unlocking for your current and future slots and races.
 10.  [Hallowtide '24 Medal](Seasonal_Medals.md) \[300 Joy\] - Read Below
 11.  [Hallowtide '23 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below
 12.  [Hallowtide '22 Medal](Seasonal_Medals.md) \[200 Joy\] - Read Below

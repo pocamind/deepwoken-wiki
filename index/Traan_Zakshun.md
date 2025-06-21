@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147575
+revid: 147660
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -24,7 +24,7 @@ Trahne Zakshun is an NPC merchant, he sells various outfit schematics and weapon
 
 Trahne Zakshun's shop runs on an hourly rotation. Every hour, he sells three to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of his shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
-Rarely, Trahne Zakshun will appear hosting a [black market](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are sold for [Crowns](Crowns.md). You can only purchase one of each item per black market visit.
+Once every 20 hours, Trahne Zakshun will appear hosting a [black market](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are sold for [Crowns](Crowns.md). You can only purchase **one item total** per black market visit.
 
 ## Location
 
@@ -220,7 +220,7 @@ Sold Items
 
 ## Black Market
 
-Once every 20 hours, instead of a regular item rotation, Trahne Zakshun will sell goods from his black market stock. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one IRL hour.
+Once every 20 hours, instead of a regular item rotation, Trahne Zakshun will sell goods from his black market stock. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour.
 
 ### Shop UI
 
@@ -253,6 +253,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _No questions, no returns._
 -   _I'd wipe this for fingerprints._
 -   _Maybe I should get into mystery boxes... You'd buy one right?_
+-   _Careful. This one's got a history.. I think._
 
 ## Black Market Shop Rotation
 
@@ -263,11 +264,8 @@ Sold Items
 <table>
 <tbody>
 <tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><p>TBA</p></td>
-</tr>
-<tr>
-  <td><b>Miscellaneous</b></td>
+  <td><b>Miscellaneous</b><br>
+  (Mostly <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
     <li><b>For </b>: <a href="Rain_Spire.md">Rain Spire</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>.</li>
