@@ -1,6 +1,6 @@
 ---
 title: The Hidden Grove
-revid: 147475
+revid: 147634
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Grove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map]
@@ -24,7 +24,7 @@ Spring: [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus) (Green), [Miasmic Lot
 
 Summer:
 
-Autumn:
+Autumn: [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus) (Green), [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus) (White)
 
 Winter:
 

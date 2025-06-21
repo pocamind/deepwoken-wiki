@@ -1,6 +1,6 @@
 ---
 title: Deepwoken
-revid: 147035
+revid: 147643
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Lore]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Lore]
 
 # Deepwoken
 
-_Not to be confused with the name of the game, [Deepwoken](<Deepwoken_(game).md>)._
+_Not to be confused with the name of the game, [Deepwoken](Deepwoken_Wiki.md)._
 
 ## Description
 

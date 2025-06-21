@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 147428
+revid: 147635
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1615,7 +1615,7 @@ Greatsword Criticals and Greathammer Criticals now leave a place Ice below the p
 
  | 
 
-Ice patches created from this critical last 1 minute 30 seconds. Frost Buster procs on all heavies with the base weapon critical, all weapons with the [Crescent Cleaver](Crescent_Cleaver.md) critical, **but only if you land it**, [Night Axe](Night_Axe.md), and the Enforcer weapon trio ([Enforcer's Axe](<Enforcer's_Axe.md>), [Enforcer's Blade](<Enforcer's_Blade.md>), [Enforcer's Hammer](<Enforcer's_Hammer.md>)).
+Ice patches created from this Talent last 1 minute 30 seconds. Frost Buster procs on all heavies with the base weapon critical, all weapons with the [Crescent Cleaver](Crescent_Cleaver.md) critical, **but only if you land it**, [Night Axe](Night_Axe.md), and the Enforcer weapon trio ([Enforcer's Axe](<Enforcer's_Axe.md>), [Enforcer's Blade](<Enforcer's_Blade.md>), [Enforcer's Hammer](<Enforcer's_Hammer.md>)).
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 147427
+revid: 147638
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -288,6 +288,7 @@ N/A
 -   Drops carried players/NPCs when used.
 -   Fall damage is taken if the user gets high enough.
 -   It doesn't seem to scale depending on level, not granting anymore height from a Level 1 Strong Leap to a Level 5 Strong Leap
+-   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway).
 
  |
 | 
@@ -903,7 +904,7 @@ N/A
 -   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
 -   If not moving, you instead teleport towards the direction you're facing. You'll also teleport a smaller distance.
 -   For ~2.5s after teleporting, all fall damage is negated.
--   Shares a cooldown with [Flame Leap](Flamecharm.md#flame-leap).
+-   Shares a cooldown with [Flame Leap](Flamecharm.md#flame-leap) and [Strong Leap](Attunement-less.md#strong-leap).
 
  |
 | 
@@ -1262,10 +1263,10 @@ Blunt
 -   Shares a cooldown with all other [grab mantras](List_of_Grab_Mantras.md).
 -   Does **not** apply insanity.
 -   Landing the grab multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
-    -   Dread Whisper must be landed again within 15s of landing the previous one to gain the damage buff.
+    -   Dread Whisper must be landed again within 15s of landing the previous one to gain/retain the damage buff.
 -   Incredibly fast and hard to react without predicting it, meaning it's rather easy to land on the least defensive type of players.
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
-    -   This allows for Twisted Flames' Puppets to home in closer and for teammates using mantras such as Eclipse Kick to try timing these to hit the opponent as soon as they're released.
+    -   This allows for Twisted Flames' Puppets to home in closer and for teammates using mantras such as [Eclipse Kick](Shadowcast.md#eclipse-kick) to try timing these to hit the opponent as soon as they're released.
 -   Can be modified with Crystal/Perfect Lenses to increase it's range.
 
  |

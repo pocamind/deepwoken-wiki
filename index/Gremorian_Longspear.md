@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 146955
+revid: 147642
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons]
@@ -48,7 +48,8 @@ Gremorian Longspear Critical
 
 ## Trivia
 
--   You can farm the Navae Nomads in Etris for the spear, although this comes at the cost of your reputation with them.
-    -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the Ministry Scouts and the fact they are already in combat.
+-   You can farm the [Nomads](Eastern_Nomad.md) in Etris for the spear, although this comes at the cost of your reputation with them.
+    -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the [Ministry Scouts](Ministry_Scout.md) and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.
 -   Critical attack reels players in and stuns them even if they block it.
+-   Currently the only spear in the game with 1x swing speed, making it the fastest spear yet (alloyed).
