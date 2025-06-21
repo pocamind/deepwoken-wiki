@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 146005
+revid: 147597
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -131,7 +131,7 @@ Blood
 -   Deals 14.5/19/23.5/28/32.5 base damage per level, 8 posture, 0.6 windup, Has 10s CD
 -   Multi spark version deals 6.83/8.33/9.83/11.33/12.83 base damage per level, per orb, 2 posture per orb, 0.6s windup 10s CD
 -   Has 9.31x PVE scaling
--   Leaves behind a Blood Pool.
+-   NO LONGER "Leaves behind a Blood Pool." (Broken who would've guessed?)
 -   Can be modified with a Multiplying Spark, making it launch 3 orbs instead.
     -   Damage per orb gets reduced, however, hitting all 3 orbs ends up dealing more damage than the non-spark version.
 

@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 146941
+revid: 147602
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapons", Medium Weapons]
@@ -34,7 +34,7 @@ This weapon deals 30.4 damage at 100 Medium and deals 34.8 damage with the added
 
 ## Critical
 
-The user stabs the opponent in a short range after a very slow wind-up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) on hit while bypassing the opponent's parry and block. The user can respond with a follow-up M1 after the initial hit, stepping back from the target and unleashing a horizontal split. The followup M1 will deal the same damage as the initial hit. Critical bypasses **armor** resistances.
+The user stabs the opponent in a short range after a very slow wind-up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) on hit while bypassing the opponent's parry and block. The user can respond with a follow-up M1 after the initial hit, stepping back from the target and unleashing a horizontal split. Both hits have 1x scaled damage and bypasses **armor** resistances.
 
 Can be cancelled by damage in wind-up.
 

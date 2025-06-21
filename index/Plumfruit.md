@@ -1,6 +1,6 @@
 ---
 title: Plumfruit
-revid: 147407
+revid: 147614
 source: https://deepwoken.fandom.com/wiki/Plumfruit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Harvestables, Alchemy]
@@ -12,7 +12,7 @@ Template:Food Template V1
 
 ## Description
 
-A consumable fruit with a purple gradient and a curved stem. It can commonly be found in [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Songseeker](Songseeker_Wilds.md), and [Meteor Isle](Meteor_Isle.md) hanging on trees in quantities of 4-8.
+A consumable fruit with a purple gradient and a curved stem. It can commonly be found in [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Songseeker](Songseeker_Wilds.md), [Summer Isle](Summer_Isle.md) and [Meteor Isle](Meteor_Isle.md) hanging on trees in quantities of 4-8.
 
 ## Used in the following recipes
 

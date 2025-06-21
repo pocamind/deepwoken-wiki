@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 146388
+revid: 147604
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items, Master Outfits, The Ignition Union]
@@ -49,3 +49,4 @@ This Outfit's Schematic can be found in:
     -   All of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) non-parryable attacks
     -   [Kyrsieger](Kyrsieger.md)'s critical
     -   The last hit of **Mortal Draw: Floating Passage** ([Maestro Evengarde Rest](Maestro_Evengarde_Rest.md))
+    -   [Maestro's](Maestro_Evengarde_Rest.md) Tempest Eye

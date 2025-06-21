@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 147003
+revid: 147626
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
 
 ## Description
 
-The Kyrscleave is an Endgame [Heavy Weapon](Weapons.md) obtained from the [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). The Kyrscleave is considered direct upgrade from the Crescent Cleaver and a sidegrade to the alloyed version of the aforementioned weapon.
+The Kyrscleave is an Endgame [Heavy Weapon](Weapons.md) obtained from the [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). The Kyrscleave is considered direct upgrade from the [Crescent Cleaver](Crescent_Cleaver.md) and a sidegrade to the alloyed version of the aforementioned weapon.
 
 ## Critical
 

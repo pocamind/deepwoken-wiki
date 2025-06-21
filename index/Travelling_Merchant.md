@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 147112
+revid: 147632
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -83,6 +83,7 @@ Chili's Ship
 -   Decoy Ships which bare striking resemblance to Chili's ship may spawn around the map. Approaching these ships results in a large explosion, spawning 6 Cloaked Assassins.
     -   Given how ludicrously powerful these enemies are in high numbers, they can easily kill even the most powerful of PvE builds. To avoid this, simply look inside the ship through the port side. A decoy ship will not have Chili present.
     -   Some of them spawn several undocumented enemies affiliated with the Knives of Eylis, but this is a lot rarer.
+    -   The Explosion give to you some Insanity ( Need to be test )
         
         A merchant ship being raided by Assassins.
         

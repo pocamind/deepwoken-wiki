@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 147375
+revid: 147593
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Spires]
@@ -37,3 +37,4 @@ The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Vo
 -   Rain Spire is one of the two [Relics](Relics.md) that has infinite uses, with the other one being the [Void Spire](Void_Spire.md).
 -   Similarly to the Void Spire, when trying to place it during its cooldown, dialogue appears saying "The Spire has not yet reformed."
 -   You can't place a Rain Spire on ice sheets or boats.
+-   Rain Spires can summon multiple Fishing Spots when used near water, which will last for the Rain Spire's duration.

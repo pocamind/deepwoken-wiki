@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Tacet"
-revid: 145709
+revid: 147612
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Tacet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -27,7 +27,7 @@ Some monsters might still aggro when in tacet if too close in some situations (m
 Tacet has two different detection radius, one for PVE and PVP:
 
 -   In PVE, the detection radius is effectively 0 at Power 20, the player can avoid any and all monsters or NPCs even when touching them. However, the unaggro range is larger than 0 studs, so the user must make some distance to evade any fight. Do be aware that tacet is disabled during hellmode though, and attempted use of tacet to escape could possibly result in death.
--   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. If a player goes out of range, they will see an inward ring at the last seen location of a player using Tacet. The detection range in PVP is also reduced by the "stealth" stat which is the basis of some equipment.
+-   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. If a player goes out of range, they will see an inward ring at the last seen location of a player using Tacet. The detection range in PVP is also reduced by the "stealth" stat which is the basis of some outfits and equipment. Tacet stealth scaling caps at somewhere near 35% stealth (including lowstride), so going past that will not reduce your detection radius.
 
 ### Obtainment
 

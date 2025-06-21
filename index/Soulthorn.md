@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 147385
+revid: 147625
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -38,15 +38,17 @@ The maximum damage able to be achieved is 40.2 if the user has 103 Intelligence,
 
 ## Critical
 
-The Soulthorn has three critical variants which depend on the amount of soul stacks on your opponent.
+The Soulthorn has three critical variants which depend on the amount of soul stacks on an opponent.
 
-Every M1 of Soulthorn that connects applies a soul stack. Up to three soul stacks can be applied. At three stacks, your opponent will have a rotating, star-like aura.
+Every M1 of Soulthorn that connects applies a soul stack. Up to three soul stacks can be applied. At three stacks, the opponent will have a rotating, star-like aura.
 
-At 0 stacks, the sword glows but nothing happens.
+At 0 stacks, the sword glows and emits particle effects, and does nothing.
 
-At 1-2 stacks, you leap and release a heavy chop that ragdolls your opponent and pulls them towards you. Can hit from a short range. Parriable and does high posture damage. Blockbreaks at 2 stacks.
+At 1-2 stacks, the user rises up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) for a brief moment, then unleashes a chop that reels the affected opponent to the user and detonates the mark. Parriable and does high posture damage. Blockbreaks at 2 stacks.
 
-At 3 stacks, you teleport to your opponent and unleash multiple slashes after a brief delay. Parriable and does high posture damage.
+At 3 stacks, the user teleports to the opponent and performs a downslash, unleashing multiple hits after a considerable delay. Parriable and does high posture damage.
+
+All criticals have a cooldown of **5 seconds**.
 
 ## Trivia
 

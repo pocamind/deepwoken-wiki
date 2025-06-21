@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 145355
+revid: 147596
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -35,7 +35,9 @@ Like all other Hallowtide exclusive weapons, it cannot be dropped to other playe
 
 ## Critical
 
-The Bloodtide Trident has a unique critical that is similar to the [Flareblood Kamas](Flareblood_Kamas.md), however, instead of launching its target into the air, it pulls the target towards the user. The critical's targeting is controlled by the player's cursor.
+The user is able to aim the critical wherever their mouse is facing. When the trident makes contact with an object or surface, it will burst in a blood-red explosion. If the user hits an opponent with the trident, they will be sent upwards identical to the [Flareblood Kamas](Flareblood_Kamas.md) critical and will shortly be pulled to the user when further away.
+
+The critical can be landed at any range but will not affect the pull distance at far ranges. The critical has a cooldown of **8 seconds**.
 
 ## Trivia
 
@@ -43,4 +45,4 @@ The Bloodtide Trident has a unique critical that is similar to the [Flareblood K
 -   At max MED, the weapon deals 26.1 damage, but it becomes 33.9 with bleed.
 -   Prior to the addition of unique critical attacks for the Hallowtide 2023 Weapons, this weapon had the same critical as the [Gremorian Longspear](Gremorian_Longspear.md).
 -   As with all other Hallowtide exclusive weapons, this weapon possesses a special effect upon successfully gripping a humanoid NPC or player, that being a grave appearing along with a [Taco Bell Bell sound](https://www.youtube.com/watch?v=kLvGB3Ol2p4).
--   Might be a reference to Spear of Longinus, the lance which pierced Christ during His crucifixion. (The spear bears no resemblance to any biblically accurate Spear of Longinus, it does seem to have a striking resemblance to the [Spear of Longinus](https://evangelion.fandom.com/wiki/Spear_of_Longinus) from [Neon Genesis Evangelion](https://evangelion.fandom.com/) and [Asgore Dreemurr](https://undertale.fandom.com/wiki/Asgore_Dreemurr)'s trident from [Undertale](https://undertale.fandom.com/wiki/Main_Page).)
+-   Some elements of the trident are likely based off of the [Spear of Longinus](https://evangelion.fandom.com/wiki/Spear_of_Longinus) from [Neon Genesis Evangelion](https://evangelion.fandom.com/), whereas the prongs mirror the iconic [Deepwoken](<Deepwoken_(game).md>) logo.
