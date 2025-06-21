@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 147539
+revid: 147676
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -58,9 +58,21 @@ Gain a speed boost, and an unstoppable urge to run. You're unable to stop runnin
 
 Gain 20% damage resistance, 5% dmg boost and constant speed boost that enough to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
 
+### Intangible
+
+Gain brief invincibility frames after dodging an attack. Applied through the [Risky Moves](Talents.md#butterfly), [Ghost](Talents.md#butterfly), and [Dark Rift](Talents.md#darksiphon) Talents. Duration and visual effect depends on the source, but all have a 20 second cooldown. This effect is removed upon attacking. Dark Rift can also be procced by using [Deepsindle's](Deepspindle.md) running critical.
+
 ### Rallied
 
 All posture damage given to you will instead be sent to the person who used [Rally](Attunement-less.md#rally). Signified by your character emitting white circles.
+
+### Warding Radiance
+
+Slide further, applied with the [Warding Radiance](Talents.md#flame-warden) Talent. Allows you to proc [Hell's Partisan](Talents.md#flame-warden) on all Flamecharm Mantras. Signified by an orange halo above your character's head. This effect can be upgraded with the Flamewalker Talent, creating stationary flames on the path you slide. These flames apply burn on contact.
+
+### Frostthorn
+
+Gain 15% physical damage reduction. Applied through the [Orbital Ice](Talents.md#frostthorn) Talent. The durability of Orbital Ice scales on your Frostdraw investment. Signified by ice cubes floating around your character. This effect can be upgraded with the [Glacial Coasting](Talents.md#frostthorn) Talent, leaving ice patches on the path you slide.
 
 ### Cool Head
 
@@ -80,7 +92,11 @@ Have your movement and parkour speed increased by 15% and your swing speed incre
 
 ### Radiant
 
-Become immune to all elemental status effects. Gained by proccing the Absolute Radiance Talent from the [Dawnwalker](Oath%253A_Dawnwalker.md) oath.
+[Dawnwalker](Oath%253A_Dawnwalker.md) exclusive. Become immune to all elemental status effects. Gained by proccing the Absolute Radiance Talent from the [Dawnwalker](Oath%253A_Dawnwalker.md) oath.
+
+### True Strength
+
+[Bladeharper](Oath%253A_Bladeharper.md) exclusive. Gain a speed boost and empower your Bladeharper abilities. Applied by landing 10 attacks (weapon attacks count as 2) without being hit, proccing [Untouchable](Oath%253A_Bladeharper.md) or by using the [Reveal](Oath%253A_Bladeharper.md) Talent tool. If applied through Untouchable, this effect has a 15 second duration. If applied through Reveal, this effect has an indefinite duration until your health reaches 10% or lower. Reveal also self applies the [Wither](#wither) status over time. Signified by a white aura emanating from your character's chest.
 
 ### Gone Berserk
 
@@ -136,11 +152,12 @@ This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) 
 
 It has a few sub-variants:
 
--   Azure Burning: Has higher burn damage.
--   Black Flames: Consumes your Ether while you are burning and spawns Puppets if applied via a non-Shadowcast source. This burn type comes from Wraith Path: Twisted Puppets.
+-   Azure Burning: Has higher burn damage. This burn type comes from [Azure Flames](Talents.md#flamecharmer).
+-   Black Flames: Consumes your Ether while you are burning and spawns Puppets if applied via a non-Shadowcast source. This burn type comes from [Wraith Path: Twisted Puppets](Talents.md#twisted-puppets).
 -   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path. Is also applied with the [Curse of Rhaemen's Ember](Enchantments.md#curses) enchant.
--   White Flames: Flames scale on INT, meaning they can be a lot more deadly. (Currently bugged and does not scale on INT, instead scaling on your Flamecharm investment.)
+-   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) exclusive, white flames that scale on your Intelligence investment, meaning they can be a lot more deadly. (Currently bugged and does not scale on INT, it instead scales on your Flamecharm investment like all other burn types.)
 -   Flamewreathe Burn: [Attuned Monster](Monsters.md#attuned-monsters) exclusive, cannot be removed via roll canceling; only full rolls can remove this effect. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
+-   Self Immolation: [Flame Within](Talents.md#amoran-seeker) exclusive, grants a 10% damage bonus and a movement speed bonus. Cannot be removed from self via rolling or sliding, use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
 
 ### Winded
 
@@ -187,6 +204,10 @@ Inflicted by being hit by [Ironsing](Ironsing.md) Mantras. Effect varies dependi
 -   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
 -   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on Talents they might have) Signified by big metal rods in your body. (These will be yellow/gold if the user has Scrapsinger)
 
+### Shackled
+
+While afflicted with this status effect, you cannot gain speed boosts. Applied by being block broken by a player who has the [Metal Shackles](Talents.md#ironsinger) Talent. Signified by metal shackles on your legs, this effect lasts 5 seconds.
+
 ### Blood Poisoning
 
 Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a translucent dark red effect on your blood bar. Effect varies depending on the percentage of your blood bar is Poisoned.
@@ -198,6 +219,10 @@ Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a t
 -   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodhound) Talent is Activatable, highlighting enemies when you hit them.
 -   At 70% Blood Poisoning, [_**Gruesome Harvest**_](Talents.md#septicemia) Talent is Activatable, granting you slight Temporary Health when hitting people at or above 70% BP with Bloodrend mantras.
 
+### Rush Hour
+
+Take 4.5 **true** damage and lose 2% of your maximum blood per second, but gain a 15% damage buff, 30% speed buff, and higher blood bar damage. Applied through the [Rush Hour](Talents.md#bloodrender) Talent. Signified by blood gushing out of your chest. Utilize the tool again to end this effect early.
+
 ### Poisoned
 
 This can be applied by being hit by the [Deep Widow](Deep_Widow.md)'s venomous bite. While poisoned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage. There is no visual indicator for it.
@@ -205,6 +230,10 @@ This can be applied by being hit by the [Deep Widow](Deep_Widow.md)'s venomous b
 ### Dazed
 
 Have your dodge frames lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras, criticals, or applied by certain Talents.
+
+### True Daze
+
+Be completely unable to dodge or move for a short duration. Applied primarily through wallbangs. This effect is visually indistinguishable from normal daze, being the same yellow stars.
 
 ### Tranquil
 
@@ -236,7 +265,11 @@ Deal an additional 10% less damage to the player who Charmed you and 20% more da
 
 ### Hidden Tendril
 
-Become able to be targeted by Lord Slice mantra from Contractor, as well as being able to be pulled together with another target inflicted with this. Visible only to the one who applied it, can be removed by using a vent. signified by a black string between the caster and target.
+[Contractor](Oath%253A_Contractor.md) exclusive. Become able to be targeted by Lord Slice mantra from Contractor, as well as being able to be pulled together with another target inflicted with this. Visible only to the one who applied it, can be removed by using a vent. signified by a black string between the caster and target.
+
+### Enchained
+
+[Chainwarden](Oath%253A_Chainwarden.md) exclusive. Gain a slow that ramps up in effectiveness the further you move away from the person who enchained you. Applied through the [Chainlash](Talents.md#chainwarden) Talent and the [Restrain](Oath%253A_Chainwarden.md) and [Impel](Oath%253A_Chainwarden.md) Mantras. Being Enchained automatically applies 1 stack of Perpetual Wrath, increasing the damage of the Restrain Mantra. This effect can be removed by moving too far away from the Chainwarden player or by waiting 30 seconds. Signified by a large chain sprouting from the Chainwarden player's gauntlet and attaching itself to you.
 
 ### Drained
 
@@ -286,6 +319,10 @@ Applied through being hit by the Mantra [Taunt](Attunement-less.md#taunt) or bei
 
 Take 25% more damage and 1.5x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt](Megalodaunt.md)'s roar, [Primadon](Primadon,_Titan_of_the_East.md)'s Phase 2 transformation and by Ardour Scream. Signified by pink/purple particles on your character.
 
+### Sleeping
+
+Gain 90% damage reduction at the cost of being ragdolled and not being able to move. Applied through the use of the [Paralytic Dust](Paralytic_Dust.md) Resonance. Cannot be applied to people with the [Brick Wall](Talents.md#human-architecture) Talent and cannot be applied within the [First Layer](First_Layer.md). Signified by "ZZZ" marks emanating from the player head. Automatically clears upon being hit 3 times.
+
 ### Hamstrung
 
 Can be applied by being hit by a critical attack if the user has Bear Trap. Become slowed and lose the ability to jump. Signified by one of the users legs bleeding.
@@ -308,7 +345,7 @@ Take 20% more damage and 50% more posture damage from all sources for 6 seconds.
 
 ### Time Stasis
 
-Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Subtle_Knife_of_Eylis.md). Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can easily be removed by hitting and breaking the center of the time bubble or walking out of its range.
+Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Subtle_Knife_of_Eylis.md) or [Semblance](Semblance.md). Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can easily be removed by hitting and breaking the center of the time bubble or walking out of its range.
 
 ### Audacity
 

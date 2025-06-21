@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 139838
+revid: 147666
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -47,7 +47,7 @@ The cauldron on [Summer Isle](Summer_Isle.md) is located on the second floor of 
 
 **Miner's Landing:**
 
-The cauldron at [Miner's Landing](<Miner's_Landing.md>) can be found in [Adar](Adar,_Master_of_Metal.md)'s laboratory, within the bridge tower.
+There are two cauldrons at [Miner's Landing](<Miner's_Landing.md>), one can be found in [Adar](Adar,_Master_of_Metal.md)'s laboratory, within the bridge tower, and the other can be found near the peak of the mountain, inside the small building by the [Mantra\_Collector](Mantra_Collector.md)
 
 **Meteor Isle:**
 
