@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 147233
+revid: 147702
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -161,8 +161,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
 <tr>
   <td><b>Appalling</b></td>
   <td>Blight<br>
-  Potion<br>
-  Blight</td>
+  Potion</td>
   <td>Bamboo Bundle<br>
   Marriam Grass</td>
   <td>Instantly decrease ether</td>
@@ -191,8 +190,7 @@ Tiers are listed in order of strength, with the strongest tier listed first.
 </tr>
 <tr>
   <td><b>Rejuvenating</b></td>
-  <td>Salve<br>
-  Remedy (Glumfig only)</td>
+  <td>Salve</td>
   <td>Redd<br>
   Glumfig</td>
   <td>Instantly restores a small amount of health.</td>

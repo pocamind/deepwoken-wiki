@@ -1,6 +1,6 @@
 ---
 title: Paralytic Dust
-revid: 145798
+revid: 147709
 source: https://deepwoken.fandom.com/wiki/Paralytic_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -23,24 +23,25 @@ categories: [Resonances]
 
 Paralytic Dust is a [Resonance](Resonance.md) that players can obtain and is common to roll.
 
-## Appearance
-
-Throws a small cloud of dust from the users off-hand. You may dye this with a [Dye](Dye_Packet.md) [Packet](Dye_Packet.md)
-
 ## Usage
 
-Pressing C will activate the **Paralytic Dust** Resonance.
+Pressing C will activate the **Paralytic Dust** Resonance, throwing out a dust cloud that applies the Sleeping and Daze status effects to anyone hit.
 
-If Paralytic Dust is Corrupted, it will apply blindness for 5 seconds
+Sleeping grants 90% damage reduction, ragdolls, and completely prevents all inputs for a short duration, but is removed upon taking 3 instances of damage.
 
-## Resonance Point Usage
+If Paralytic Dust is Corrupted, it will apply blindness for 5 seconds.
 
--   Sleeping variant:
-    -   Create a cloud of black dust around you that affects everyone in a wide area. This dust will cause you and anyone nearby to become temporarily ragdolled for 5 seconds while also healing everyone caught in the area for 5% of their health.
--   Throw variant:
-    -   Throw white dust in front of you, ragdolling anyone hit for 5 seconds and dazing them for 10 seconds. Those affected wake up after being hit three times. Players receive large amounts of damage reduction to prevent true combos.
+#### _**Variants**_
+
+-   **Throw Variant**: Throw white dust in front of you, applying the Sleeping and Daze status effect to players hit by this Resonance for **10 seconds**.
+
+-   **Self Cast Variant**: Create a cloud of black dust around you that affects everyone in a wide area. This dust applies the Sleeping and Dazed status effect for **5 seconds** to everyone caught in the range, including yourself. Additionally, this will grant yourself health regeneration for the duration of the effect.
 
 ## Trivia
 
--   You are no longer able to knock/damage people in the [depths](The_Depths.md), as of 5/25/2025
--   Doesn't ragdoll people if they have brick wall
+-   The Sleeping status effect cannot be applied within the [First Layer](First_Layer.md).
+-   The Sleeping status effect cannot be applied to players with [Brick Wall](Talents.md#human-architecture).
+-   Using this on a player who is currently using [Cap Artist](Talents.md#thief) will force them to get up, allowing them to move while under the effects of Paralytic Dust. This is referred to as 'sleep walking'.
+    -   Sleepwalking works because the game uses the same "sleep" state for Paralytic Dust and Cap Artist, and while you're affected by one, the other being applied flips the state back to neutral.
+-   Uniquely, Paralytic Dust's visual effects can be dyed with [Dye Packets](Dye_Packet.md).
+-   Because Wither damage is based on scaled damage (or is flat), applying Wither can effectively bypass the 90% damage reduction. This makes the [Umbrite Witherblade](Umbrite_Witherblade.md) critical especially deadly against Sleeping targets.

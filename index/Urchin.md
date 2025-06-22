@@ -1,6 +1,6 @@
 ---
 title: Urchin
-revid: 138644
+revid: 147696
 source: https://deepwoken.fandom.com/wiki/Urchin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Items]
@@ -20,7 +20,7 @@ categories: [Ingredients, Harvestables, Alchemy, Items]
 
 ## Description
 
-Urchin is an [Ingredient](Ingredients.md) useful mostly to [Deepbound](Origins.md#deepbound), due to its use in Urchin Stew, one of the best [Depths](The_Depths.md) food sources. It is found on various rock faces in [The Depths](The_Depths.md) and from fishing, and is used to make urchin stew. Urchins can be used to make Insanity/Mindbreaking Potions which when consumed or thrown rapidly decrease the sanity of their victims.
+Urchin is an [Ingredient](Ingredients.md) useful mostly to [Deepbound](Origins.md#deepbound) players, due to its use in Urchin Stew, one of the best [Depths](The_Depths.md) food sources. It is found on various rock faces in [The Depths](The_Depths.md) and from fishing, and is used to make urchin stew. Urchins can be used to make Insanity/Mindbreaking Potions which when consumed or thrown rapidly decrease the sanity of their victims.
 
 For more information, read [Alchemy](Alchemy.md) and [Ingredients](Ingredients.md).
 

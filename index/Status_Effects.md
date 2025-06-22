@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 147677
+revid: 147705
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -25,10 +25,6 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 ### Reinforced
 
 Applied after being hit by the Mantra [Reinforce](Attunement-less.md#reinforce), do 5% more damage and get 10% defense. Allies near you will automatically gain the same effect. And if you reinforce others, DMG buff increased up to 10%, effect can go onto them too. Signified by pale yellow/lime green particles surrounding the body.
-
-### Lord's Tithe
-
-When Reinforce is applied to an ally or enemy with the Talent Lord’s Tithe, steal their ether until your ether bar is full or until someone hit Lord's Tithe user in block or damage him with anything. Signified by red and yellow particles surrounding the body.
 
 ### Hyperarmor
 
@@ -58,25 +54,37 @@ Gain a speed boost, and an unstoppable urge to run. You're unable to stop runnin
 
 Gain 20% damage resistance, 5% dmg boost and constant speed boost that enough to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
 
+### Rallied
+
+All posture damage given to you will instead be sent to the person who used [Rally](Attunement-less.md#rally). Signified by your character emitting white circles.
+
 ### Intangible
 
 Gain brief invincibility frames after dodging an attack. Applied through the [Risky Moves](Talents.md#butterfly), [Ghost](Talents.md#butterfly), and [Dark Rift](Talents.md#darksiphon) Talents. Duration and visual effect depends on the source, but all have a 20 second cooldown. This effect is removed upon attacking. Dark Rift can also be procced by using [Deepsindle's](Deepspindle.md) running critical.
 
-### Rallied
+### Ironclad Defenses
 
-All posture damage given to you will instead be sent to the person who used [Rally](Attunement-less.md#rally). Signified by your character emitting white circles.
+Gain 60% damage reduction for 2 seconds after dodging an attack. This damage reduction will be lost upon taking a hit. This effect is applied by the [Ironsinger's Instinct](Talents.md#adaptive-arsenal) Talent. 18 second cooldown.
+
+### Flame of Denial
+
+Upon casting [Flame of Denial](Flamecharm.md#flame-of-denial), gain a status effect that prevents one instance of lethal damage for 30 seconds. When lethal damage is prevented, heal 2-10% of your maximum health scaling on Mantra level. The healing is increased by 20% if the caster has the [Azure Flames](Talents.md#flamecharmer) Talent. Also negates all burn damage when at ~1% HP. Signified by a pulsing light on your chest.
 
 ### Warding Radiance
 
 Slide further, applied with the [Warding Radiance](Talents.md#flame-warden) Talent. Allows you to proc [Hell's Partisan](Talents.md#flame-warden) on all Flamecharm Mantras. Signified by an orange halo above your character's head. This effect can be upgraded with the Flamewalker Talent, creating stationary flames on the path you slide. These flames apply burn on contact.
 
-### Frostthorn
+### Orbital Ice
 
 Gain 15% physical damage reduction. Applied through the [Orbital Ice](Talents.md#frostthorn) Talent. The durability of Orbital Ice scales on your Frostdraw investment. Signified by ice cubes floating around your character. This effect can be upgraded with the [Glacial Coasting](Talents.md#frostthorn) Talent, leaving ice patches on the path you slide.
 
 ### Cool Head
 
 Applied by the [Cool Head](Talents.md#cryomancer) Talent. For the duration, you are unable to be lit on fire, signified by a cold breath coming out of your character's mouth periodically.
+
+### Jumpstarted
+
+Applied by using the [Static Withdraw](Talents.md#thundercall) Talent tool with the [Jumpstart](Talents.md#self-shocker) upgrade. Increases your mobility, grants a 10% damage modifier, and allows you to apply [Shock](#shock)/[Surge Stacks](#overloaded) on outgoing and incoming physical damage. This effect can be enhanced with the [Raging Static](Talents.md#self-shocker) Talent, removing the mobility buffs to double the damage modifier's effectiveness to 20% and lessening the self damage on cast. Signified by a yellow/blue thunder conduit over your heart.
 
 ### Engulfed by Lightning
 
@@ -85,6 +93,10 @@ Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have yo
 ### Engulfed by Shadows
 
 Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your weapon damage by 20-25%, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md) on the mantra. Signified by a dark aura emanating from your character.
+
+### Ghastly Mobility
+
+Applied by the Galebreathe Talent, [Phantom Step](Talents.md#specter); transform all of your dashes into Phantom Dashes, extending their mobility and i-frames. This mode passively drains from your Specter Meter while active. This effect can be further enhanced with the [Vanishing Wraith](Talents.md#specter) and [Possession](Talents.md#specter) Talents, allowing you to teleport to your opponent on aerial attack and granting increased chip damage when an apparition lands respectively. Signified by winds swirling at your feet.
 
 ### Adrenaline Surge
 
@@ -98,6 +110,10 @@ Have your movement and parkour speed increased by 15% and your swing speed incre
 
 [Bladeharper](Oath%253A_Bladeharper.md) exclusive. Gain a speed boost and empower your Bladeharper abilities. Applied by landing 10 attacks (weapon attacks count as 2) without being hit, proccing [Untouchable](Oath%253A_Bladeharper.md) or by using the [Reveal](Oath%253A_Bladeharper.md) Talent tool. If applied through Untouchable, this effect has a 15 second duration. If applied through Reveal, this effect has an indefinite duration until your health reaches 10% or lower. Reveal also self applies the [Wither](#wither) status over time. Signified by a white aura emanating from your character's chest.
 
+### Last Resort
+
+Gain +10% damage when your health is below 25%. This effect is applied through the [Last Resort](Talents.md#limitbreaker) Talent and is signified by orange and red swirling particles on your character's arms.
+
 ### Gone Berserk
 
 Gain a 20% defense boost to all sources. Applied after knocking someone with the Talent [Berserker](Talents.md#miscellaneous). Signified by a yellow hue surrounding your character upon being hit.
@@ -105,6 +121,10 @@ Gain a 20% defense boost to all sources. Applied after knocking someone with the
 ### Berserking Rage
 
 At the cost of draining all of your armor, your M1s bypass your opponent's armor, additionally your Critical attacks gain +10% PEN. Deactivating the tool will replenish your armor and Natural Armor back to their previous values. Applied with the Talent [Berserk](Talents.md#berserker). Signified by your hair and eyes turning red and you gaining a red eye trail.
+
+### Champion's Regalia
+
+Gain +50% posture damage for 10 seconds after successfully flourishing an opponent. This effect is applied from the [Champion's Regalia](Talents.md#champion) Talent and is signified by a gold outline on your character.
 
 ### Overcharm
 
@@ -125,6 +145,20 @@ Buffs the nourishment of food and health regeneration for people near you. Also 
 ### Mark of Ku
 
 Buffs the blood and health regeneration of people near you. Also slightly buffs the nourishment of food and sanity of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by light green particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Ku [Capra](Capra.md) Variant.
+
+### Potions: Buffs
+
+Special brews created by Alchemists. Potion effects vary heavily based on the ingredients used in the potion. Please check the [Alchemy](Alchemy.md) page for more information on how each potion is made. See debuffing potions [here](#potions-debuffs).
+
+-   **Instant Health Gain** - Instantly restore health. Applied through Rejuvenating Salves.
+-   **Health Regeneration** - Restores health over time. Applied through Invigorating Potions/Tinctures/Elixirs/Salves.
+-   **Instant Ether Gain** - Instantly restore Ether. Applied through Soothing Tinctures/Potions/Salves.
+-   **Ether Regeneration** - Grants Ether restoration over time. Applied through Focusing Elixirs/Salves/Tinctures.
+-   **Damage Buff** - Gain a damage buff. Applied through Strengthening Salves/Tinctures/Potions.
+-   **Posture Buff** - Increases your maximum posture by a percentage. Applied through Steadfast Tinctures/Potions/Elixirs/Salves.
+-   **Posture Damage Buff** - Increases your posture damage by a percentage. Applied through Staggering Salves.
+-   **Sanity Restoration** - Quickly restore Sanity. Applied through Heartening Remedies/Potions/Salves/Tinctures/Elixirs.
+-   **Speed Boost** - Grants a speed boost. Applied through Hastening Potions/Elixirs/Salves/Tinctures.
 
 ### Mocking Favor: Boons
 
@@ -175,6 +209,10 @@ Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mant
 
 Have a crystal stacked on you. When you reach 5 crystals, they will detonate, damaging you heavily. Applied by being hit by most Mantras from a Frostdrawer using Glass Path: Crystalization. Signified by having a crystal stacked on you.
 
+### Reclaimed Glass
+
+Gain 10% elemental resistance. Applied through the [Reclaimed Glass](Talents.md#glassdancer) Talent upon crystal detonation. This effect can also be shared with allies. Signified by crystal shards on your character.
+
 ### Frozen
 
 Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents, Mantras, and [Hailbreaker](Hailbreaker.md) Critical. Signified by being encased in a block of ice. Mash F to escape faster.
@@ -191,22 +229,34 @@ Do 10% less damage and turn M1 attacks into lightning damage. Applied through be
 
 This can be applied by being flourished by someone using [Thunder Wisp](Thundercall.md#thunder-wisp) or by someone overloading your surge stacks with Fried Circuits. While Sapped, your Mantra cooldowns are increased, you will also be shocked when Sapping ends. Indicated by a lightning javelin piercing you.
 
+### Static Linked
+
+A link tethering you to your opponent. Applied by uppercutting an opponent while having the [Static Link](Talents.md#static-weaver) Talent. This effect at base increases your [Shock's](#shock) stun duration by 50% (0.1s to 0.15s), but can be enhanced with various other Talents. Signified by a yellow/blue arc of electricity tethering yourself and your opponent.
+
 ### Overloaded
 
 Inflicted by Thundercall Surge Path Mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you. Signified by a blurple rod planted in your body.
 
+### Lord's Tithe
+
+If the caster has [Lord's Tithe](Talents.md#comrade) and buffs another player with [Reinforce](Attunement-less.md#reinforce), they will siphon that player's Ether until the caster's Ether bar is full. This effect will end early when the caster takes damage, if the caster blocks an attack, or if the afflicted person goes under 5% Ether. Signified by red Reinforce particles surrounding the body; this visual stacks with the base Reinforce visual.
+
 ### Metal Rods
 
-Inflicted by being hit by [Ironsing](Ironsing.md) Mantras. Effect varies depending on which path the Ironsinger uses:
+Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](Ironsing.md) Mantras and [Ignition Deepcrusher](Ignition_Deepcrusher.md) club M1s. Innately, rods don't do anything until Pulled (X), but various Talents can be used to grant your Rods various effects. Effect on pull varies depending on which path the Ironsinger uses:
 
--   Normally: Allows you to be pulled in towards them when they press X.
--   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing, Attunementless, Bloodrend, Oath Mantra.
--   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
--   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on Talents they might have) Signified by big metal rods in your body. (These will be yellow/gold if the user has Scrapsinger)
+-   Normally: Press X to pull your opponent towards yourself. Pull effectiveness scales on the amount of rods applied.
+-   Conductor: When 5 rods are applied, create a Conductor Rod. If your opponent casts a Mantra while having a Conductor Rod, they'll lose 5% of their armor and will have the elemental effect of the Mantra reversed back upon them, causing the Conductor Rod to fall off. If the Mantra is an Attunement-less, Oath, Ironsing, or Bloodrend Mantra, they will not be afflicted with any status effect, preventing the Rod from falling off; they will still take armor damage however. Pressing X will preform base Ironsing Pull, but Conductor Rods cannot be Pulled.
+-   Jailer: After applying 5 rods, Pulling your opponent will instead restrain them in place, and granting them 30% damage resistance. The Restrain effect will end early upon taking damage. Jailer's duration scales on the amount of rods applied.
+-   Impaler: After applying 5 rods, Pulling your opponent will instead deal damage. The damage dealt scales on the amount of rods applied.
 
 ### Shackled
 
 While afflicted with this status effect, you cannot gain speed boosts. Applied by being block broken by a player who has the [Metal Shackles](Talents.md#ironsinger) Talent. Signified by metal shackles on your legs, this effect lasts 5 seconds.
+
+### Laced Traps
+
+Be unable to jump and gain a speed debuff for a short duration. Applied when being hit by the [Caltrops](Ironsing.md#caltrops) Mantra with the [Laced Traps](Talents.md#ironsinger) Talent. This status has no distinct visual effect, however the Caltrops themselves will gain a purple aura.
 
 ### Blood Poisoning
 
@@ -221,7 +271,7 @@ Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a t
 
 ### Rush Hour
 
-Take 4.5 **true** damage and lose 2% of your maximum blood per second, but gain a 15% damage buff, 30% speed buff, and higher blood bar damage. Applied through the [Rush Hour](Talents.md#bloodrender) Talent. Signified by blood gushing out of your chest. Utilize the tool again to end this effect early.
+Take 4.5 **true** damage and lose 2% of your maximum blood per second, but gain a 15% damage buff, 30% speed buff, and increased blood bar damage. Applied through the [Rush Hour](Talents.md#bloodrender) Talent. Signified by blood gushing out of your chest. Utilize the tool again to end this effect early.
 
 ### Poisoned
 
@@ -235,9 +285,17 @@ Have your dodge frames lowered for a brief period. Applied after being flourishe
 
 Be completely unable to dodge or move for a short duration. Applied primarily through wallbangs. This effect is visually indistinguishable from normal daze, being the same yellow stars.
 
+### Enhanced Perception
+
+A red highlight applied onto enemies, allowing you to see them through walls. Applied through [Voidwalker](Origins.md#voidwalker) bounties, [Chrysid's](Chrysid.md) Mothwing Dust, Bloodrend's [Bloodwarden's Sense](Talents.md#bloodhound), and the Heart Reverb Talent's [Rhythm](Murmur%253A_Rhythm.md) upgrade from [Soulbreaker](Oath%253A_Soulbreaker.md).
+
 ### Tranquil
 
-You lose the ability to cast Mantras but gain complete Mantra immunity instead. Applied with the [Blindseer](Oath%253A_Blindseer.md) Mantra, **Tranquil Circle**. Signified by light grey particles emanating from character, somewhat similar to [Obfuscation's](Enchantments.md#blessings) effect.
+[Blindseer](Oath%253A_Blindseer.md) exclusive. You lose the ability to cast Mantras but gain complete Mantra immunity instead. Applied with the [Blindseer](Oath%253A_Blindseer.md) Mantra, **Tranquil Circle**. Signified by light grey particles emanating from character, somewhat similar to [Obfuscation's](Enchantments.md#blessings) effect.
+
+### Blight
+
+You and the caster are unable to cast Mantras for a duration. Applied through the [Shadow Chains](Shadowcast.md#shadow-chains) Mantra with the [Blighted Song](Talents.md#darksiphon) Talent. This status effect doesn't have a special visual indicator outside of the Shadow Chains Mantra.
 
 ### Anti-Heal
 
@@ -298,6 +356,20 @@ Become tethered to your attacker, being pulled towards them forcefully. Applied 
 ### Nemesis Mark
 
 Become marked for an auto aim katana critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis](Nemesis.md) enchant.
+
+### Potions: Debuffs
+
+Special brews created by Alchemists. Potion effects vary heavily based on the ingredients used in the potion. Please check the [Alchemy](Alchemy.md) page for more information on how each potion is made. See buffing potions [here](#potions-buffs).
+
+-   **Instant Health Loss** - Instantly take damage. Applied through Disgusting Banes/Blights.
+-   **Damage over Time** - Deals damage over time. Applied through Grueling Banes/Blights.
+-   **Instant Ether Loss** - Instantly lose Ether. Applied through Appalling Blights/Potions.
+-   **Ether Depletion** - Depletes your Ether over time. Applied through Icky Potions/Banes/Blights.
+-   **Damage Debuff** - Gain a damage debuff. Applied through Dulling Potions/Banes/Blights.
+-   **Posture Debuff** - Reduces your maximum posture by a percentage. Applied through Buckling Banes/Blights.
+-   **Posture Damage Debuff** - Reduces your posture damage by a percentage. Applied through Weakening Potions.
+-   **Sanity Deprecation** - Reduces your sanity over time. Applied through Mindbreaker Banes/Blights/Potions.
+-   **Slowing** - Grants a speed debuff. Applied through Slowing Blights.
 
 ### Mocking Favor: Afflictions
 
