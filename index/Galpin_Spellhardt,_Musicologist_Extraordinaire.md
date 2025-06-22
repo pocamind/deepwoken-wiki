@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 141589
+revid: 147719
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide]
@@ -46,9 +46,9 @@ _**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked
   <td colspan="4">A senior what at the *where*?</td>
 </tr>
 <tr>
-  <td colspan="4"><a href="#a-section">1 → A</a></td>
-  <td colspan="4"><a href="#b-section">1 → B</a></td>
-  <td colspan="4"><a href="#c-section">1 → C</a></td>
+  <td colspan="4"><u><a href="#a-section">1 → A</a></u></td>
+  <td colspan="4"><u><a href="#b-section">1 → B</a></u></td>
+  <td colspan="4"><u><a href="#c-section">1 → C</a></u></td>
 </tr>
 <tr>
   <th colspan="12">C</th>
@@ -61,8 +61,8 @@ _**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked
   <td colspan="6">Maybe. Anything in it for me?</td>
 </tr>
 <tr>
-  <td colspan="6"><a href="#a-section">C → A</a></td>
-  <td colspan="6"><a href="#b-section">C → B</a></td>
+  <td colspan="6"><u><a href="#a-section">C → A</a></u></td>
+  <td colspan="6"><u><a href="#b-section">C → B</a></u></td>
 </tr>
 <tr>
   <th colspan="12">B</th>
@@ -74,7 +74,7 @@ _**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked
   <td colspan="12">Very well. What do you need?</td>
 </tr>
 <tr>
-  <td colspan="12"><a href="#a-section">B → A</a></td>
+  <td colspan="12"><u><a href="#a-section">B → A</a></u></td>
 </tr>
 <tr>
   <th colspan="12">A - A.x</th>
@@ -87,8 +87,8 @@ _**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked
   <td colspan="6">Sure, I'll get right to it.</td>
 </tr>
 <tr>
-  <td colspan="6"><a href="#diaa1">A → A.1</a></td>
-  <td colspan="6"><a href="#diaaend">A → A.end</a></td>
+  <td colspan="6"><u><a href="#diaa1">A → A.1</a></u></td>
+  <td colspan="6"><u><a href="#diaaend">A → A.end</a></u></td>
 </tr>
 <tr>
   <td colspan="12">----- <b>A.1</b> -----</td>
@@ -101,8 +101,8 @@ _**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked
   <td colspan="6">1. Sure, I'll get right to it.</td>
 </tr>
 <tr>
-  <td colspan="6"><a href="#diaa11">A → A.1.1</a></td>
-  <td colspan="6"><a href="#diaaend">A → A.end</a></td>
+  <td colspan="6"><u><a href="#diaa11">A → A.1.1</a></u></td>
+  <td colspan="6"><u><a href="#diaaend">A → A.end</a></u></td>
 </tr>
 <tr>
   <td colspan="12">----- <b>A.1.1</b> -----</td>
@@ -114,7 +114,7 @@ _**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked
   <td colspan="12">Sure, I'll get right to it.</td>
 </tr>
 <tr>
-  <td colspan="12"><a href="#diaaend">A → A.end</a></td>
+  <td colspan="12"><u><a href="#diaaend">A → A.end</a></u></td>
 </tr>
 <tr>
   <td colspan="12">----- <b>A.end</b> -----</td>

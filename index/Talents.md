@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147698
+revid: 147717
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -766,6 +766,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
     -   Charms for 15s (7.5s against Disbelief Talent).
     -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional 10% damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
+    -   Automatically procs narcissist
     -   This status effect only applies a 10% damage reduction effect, which stacks with Charm to grant a total of 19% damage reduction.
     -   Deals 0.1 typeless damage whenever it procs.
     -   Can be blocked, preventing damage and Charm proc.

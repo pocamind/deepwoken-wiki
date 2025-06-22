@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 140769
+revid: 147714
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, World Event]
@@ -18,19 +18,17 @@ This Outfit costs and requires five (5) Cloth and Fiber, five (5) [Frigid Prism]
 
 This Outfit requires [Power Level](Talents.md) 15 and 45 [Frostdraw](Frostdraw.md).
 
-This Outfit isn't droppable but is bankable.
+This Outfit isn't droppable but it's bankable.
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemental resistance, +25% Ice resistance, and +75% Ether Regen.
+This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemental resistance, +25% Ice resistance and +75% Ether Regen.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Frostdraw, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Frostdraw and 30% Elemental. Adding Orbital Ice from the Outfit Talent brings the Physical resistance up to 36.25%.
 
-It gives the "Orbital Ice" [Talent](Talents.md), which when parrying on ice forms a ring of ice around the user that grants 15% physical resistance.
+It gives the "[Orbital Ice](Talents.md#frostthorn)" Talent, which, when parrying on ice, forms a ring of ice around the user that grants 15% physical resistance.
 
-This outfit's talent will work even if you have the "Fists of Fortitude" talent despite it being mutually exclusive with Orbital ice, allowing you to use both talents simultaneously.
-
--   Due to resistances being combined multiplicatively instead of additively, the total resistances using this outfit, orbital ice and fists or fortitude are: 46% Physical, 55% Frostdraw and 40% elemental.
+This Outfit's Talent will work even if you have the "[Fists of Fortitude](Talents.md#navaen-nomad)" Talent despite it being mutually exclusive with Orbital Ice, allowing you to use both talents simultaneously. Stacking this Outfit's resistances along with with Orbital Ice and Fists of Fortitude brings your total resistances to 45.8% Physical, 55.38% Frostdraw, and 40.5% Elemental resistance.
 
 ## Location
 
