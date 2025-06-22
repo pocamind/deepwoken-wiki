@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 146996
+revid: 147728
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Greatswords, Heavy Weapons]
@@ -31,7 +31,9 @@ The **Wyrmtooth** is a sword that drops from bosses and endgame events like the 
 
 With attribute scaling in mind (excluding [Proficiency](Traits.md#proficiency)), the Wyrmtooth deals 28.1 damage at base and 35.6 damage when both MED and HVY are at 100.
 
-While its damage is arguably mediocre (considering its requirements), the Wyrmtooth boasts a massive 9 range and an above average weight of 7; it can reliably outrange the majority of melee weapons and, paired with its decently high swing speed, allows you to maintain pressure on your opponents while remaining relatively safe.
+While its damage is arguably mediocre (considering its requirements), the Wyrmtooth boasts a massive 9 range and an above average weight of 7; it can reliably outrange the majority of light and medium melee weapons and, paired with its decently high swing speed, allows you to maintain pressure on your opponents while remaining relatively safe.
+
+Do not be fooled by its visually massive appearance, since it boasts the same range as the visually a lot smaller Crescent Cleaver, this is because despite the nerfs to its range, the model wasn't shortened accordingly.
 
 ## Critical
 

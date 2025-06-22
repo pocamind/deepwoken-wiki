@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 147365
+revid: 147722
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -353,7 +353,7 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Bloodless Gem</td>
-  <td>Damage reduced by 20%. Heal user for 30% of base mantra DMG. Cap of 15 HP regenerated until on cooldown. This gem has a cooldown of 2 seconds, meanwhile cooldown the 20% dmg reduction downside removed.</td>
+  <td>Damage reduced by 20%. Heal user for 30% of scaled mantra DMG. Has cap of 15 HP, going above that cap puts gem proc on cooldown. This gem has a cooldown of 2 seconds, during cooldown the 20% DMG reduction downside is removed.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
@@ -363,12 +363,12 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Insignia Gem</td>
-  <td>The next Mantra you cast within a short timeframe will have a 25% windup reduction. This effect has a 5 second cooldown.</td>
+  <td>The next Mantra you cast within a 3 second timeframe will have a 15% windup reduction. This effect has a 5 second cooldown.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Wayward Gem</td>
-  <td>Puts a mark on the opponent alerting them that they have been tagged by a Wayward Mantra, before teleporting you to them after a second has passed.</td>
+  <td>Puts a mark on the opponent alerting them that they have been tagged by a Wayward Mantra, before teleporting you to them after a second has passed. Has 8s CD.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

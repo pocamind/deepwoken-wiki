@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147717
+revid: 147727
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -587,6 +587,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 40 Bloodrend
 
 -   Sheltering Grasp \[Common Talent\] - Blood mantras cast within blood pools have a reduced blood cost.
+    -   50% less blood will be used to cast the mantra
     -   Prerequisite: 30 Bloodrend
 
 ### Bloodsong
