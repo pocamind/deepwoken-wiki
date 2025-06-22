@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 147666
+revid: 147679
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -68,6 +68,12 @@ The cauldron at the [Lightkeeper Temple](Lightkeeper_Temple.md) can be found in 
 **Boatman's Watch:**
 
 The cauldron at [Boatman's Watch](<Boatman's_Watch.md>) is located in the hidden library, behind a thin wall in a derelict tower.
+
+**Voidheart:**
+
+The cauldron in the [Voidheart](Voidheart.md) is located next to the [Mystic](Mystic.md).
+
+-   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Origins.md).
 
 **First Layer:**
 

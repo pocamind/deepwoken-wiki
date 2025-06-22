@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 147676
+revid: 147677
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -345,7 +345,7 @@ Take 20% more damage and 50% more posture damage from all sources for 6 seconds.
 
 ### Time Stasis
 
-Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Subtle_Knife_of_Eylis.md) or [Semblance](Semblance.md). Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can easily be removed by hitting and breaking the center of the time bubble or walking out of its range.
+Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Subtle_Knife_of_Eylis.md) and [Semblance](Semblance.md) NPCs. Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can easily be removed by hitting and breaking the center of the time bubble or walking out of its range.
 
 ### Audacity
 

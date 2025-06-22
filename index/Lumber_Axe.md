@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 147102
+revid: 147680
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -109,6 +109,13 @@ The Lumber Axe at [Miner's Landing](<Miner's_Landing.md>) is located leaning aga
 -   Costs.
 
 (The building the Lumber Axe is located in.)
+
+**Voidheart:**
+
+The Lumber Axe in the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
+
+-   Costs.
+-   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
 
 ## Trivia
 

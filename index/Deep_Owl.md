@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 147636
+revid: 147684
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The **Deep Owl** (also referred to simply as "Owl") is a relatively uncommon [monster](Monsters.md) found in [Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md) and [The Depths](The_Depths.md). Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper's Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. Owls are related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) and illusion magic.
+The **Deep Owl** (also referred to simply as "Owl") is a relatively uncommon [monster](Monsters.md) found in [Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md) and [The Depths](The_Depths.md). Owls can also be found in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper's Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. Owls are related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) and illusion magic.
 
 Deep Owls will only spawn in the Etrean Luminant while the moon is out. This restriction does not apply to The Depths, nor the Deep Owl in [The Lordsgrove](The_Lordsgrove.md).
 
