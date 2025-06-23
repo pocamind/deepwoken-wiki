@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 147662
+revid: 147779
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -122,9 +122,11 @@ Blunt
 
 **Effect:** _User unleashes a powerful left cross that knocks their opponent away, inflicting ragdoll and a good amount of knockback in the process._
 
+-   Has a base damage of 20/30/40/50/60 per level with 1.65 Strength scaling.
+    -   69.9 damage at 100 Strength level 5.
+-   Deals 22/24/26/28/30 posture damage per level.
+-   Has a wind-up of 0.55s, and an endlag of 0.25s (0.35s if whiffed).
 -   Can fell trees. With the [**Treefelling Blow**](Talents.md) Talent, you can gain wood from fallen trees.
--   20/30/40/50/60 base damage per level, 22 posture, 2 Strength scaling
--   72 damage at 100 Strength level 5
 
  |
 | 
@@ -161,11 +163,13 @@ Blunt
 
 **Effect:** _User launches a flurry of punches that inflicts light damage on their opponent._
 
+-   Has a base damage of 6/6.5/7/7.5/8 per level, per hit (10), with 1.65 Strength scaling.
+    -   93.2 damage at 100 Strength level 5 if all hits land.
+-   Deals 1 posture damage per hit (10).
+-   Has an initial wind-up of 0.45s with a 0.125s wind-up in between each hit.
 -   The move is cancelled upon getting parried in the initial hit.
 -   The user may cancel the barrage at any point during it by pressing their feint key.
 -   Victims struck by the last punch are pushed away.
--   60/65/70/75/80 base damage per level, 2 Strength scaling
--   96 damage at 100 Strength level 5
 -   Hits after the first one are 360 degree blockable.
 
  |
@@ -203,9 +207,9 @@ Blunt
 
 **Effect:** _User throws a piece of the ground that goes straight in the direction their character (not the camera) is looking at._
 
+-   Has a base damage of 20/30/40/50/60 per level with 1.65 Strength scaling
+-   69.9 damage at 100 Strength level 5
 -   Victims crushed by the rock will be dazed and will be thrown away.
--   20/30/40/50/60 damage per level, 2 Strength scaling
--   72 damage at 100 Strength level 5
 
  |
 | 
@@ -240,12 +244,13 @@ Blunt
  |
 | 
 
-**Effect:** _User performs a long windup before unleashing two devastating kicks._
+**Effect:** _User performs a long wind-up before unleashing two devastating kicks._
 
--   Does MASSIVE damage upon hit, and has a range of 20 studs.
--   Can be parried, blocked and dodged.
--   20/30/40/50/60 damage per level, per kick, 2 Strength scaling
--   72 damage at 100 Strength level 5, per kick
+-   Has a base damage of 20/30/40/50/60 per level, per kick, with 1.65 Strength scaling.
+    -   69.9 damage at 100 Strength level 5, per kick.
+-   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Mantra_Modifiers.md) variant.
+-   Has 0.7s wind-up on the [Round Spark](Mantra_Modifiers.md) variant.
+-   Has a range of 20 studs.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
     -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
 
@@ -400,12 +405,14 @@ Blunt
 
 **Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
 
--   It has a base damage of 20/25/30/35/40 damage per level.
+-   Has a base damage of 11.5/17.8/24.1/30.4/36.7 per level with 1.65 Fortitude scaling.
+-   Deals 8 posture damage.
+-   Has 0.5s wind-up.
 -   Has a 15 second cooldown.
 -   Shoulder Bash damage and duration scales with your Fortitude attribute.
 -   Can collide with and break parts of the map.
--   Rush shards have no effect
--   Eternal/Aeon Logstones increase duration
+-   Rush shards have no effect.
+-   Eternal/Aeon Logstones increase duration.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to make it apply knockback.
 
  |
@@ -443,7 +450,12 @@ N/A
 
 **Effect:** _User drums their shield before lowering the posture of nearby allies and themselves. Applies Rally onto nearby allies which causes posture taken to be transferred to the Rally user._
 
--   Levelling up this Mantra increases how much posture is restored on cast.
+-   Restores 5/6/7/8/9 posture on cast, per level.
+-   Rally has a 15 second duration. This duration can be increased further with [Logstones](Mantra_Modifiers.md).
+-   Rally cannot be casted if you don't have a shield equipped or if your shield is on your back. Attempting to cast Rally like this will consume your Ether and do nothing.
+-   If a Rally buffed ally parries, it restores the Rally caster's posture.
+-   If a Rally buffed ally takes blocks an attack, 50% of the posture damage will be taken by the Rally caster.
+-   If the Rally caster is at very high posture and a Rally buffed ally takes enough posture damage to posture break the caster, the buffed ally will instantly be posture broken, resetting the caster's posture to 0%.
 
  |
 | 
@@ -481,14 +493,12 @@ N/A
 **Effect:** _User buffs themselves and others in a small area around them, granting 10% damage resistance and a 10% damage buff to the user and all nearby allies. (Reinforce's damage buff is reduced to 5% if Reinforce was only used on yourself.)_
 
 -   Damage increase only applies to weapon attacks.
--   The damage reduction can be reduced by PEN, but PEN has halved effectiveness on it.
--   Reinforce lasts 20 seconds with a 55 second cooldown.
--   For each Mantra level, Reinforce's duration increases by 8 seconds and cooldown decreases by 5 seconds.
-    -   At level 2 lasts 28sec with 50sec CD.
-    -   At level 3 lasts 36sec with 45sec CD.
-    -   At level 4 lasts 44sec with 40sec CD.
-    -   At level 5 lasts 52sec with 35sec CD.
--   When holding your block button during Reinforce's windup, it applies Reinforce to non-allied people, including mobs, turning your Reinforce green.
+-   The damage reduction can be reduced by PEN, but PEN has 25% effectiveness on it.
+    -   E.g. 100% PEN lowers Reinforce's defense buff to 7.5%.
+-   Reinforce's Duration and Cooldown scale on level.
+    -   Reinforce lasts 20/28/36/44/52 seconds per level.
+    -   Reinforce has a 55/50/45/40/35 second cooldown per level.
+-   When holding your block button during Reinforce's wind-up, it applies Reinforce to non-allied people, including mobs, turning your Reinforce green.
 -   Shares a cooldown with [Iceberg](Frostdraw.md#iceberg).
 -   Can be upgraded with the **Grand Support** Talent, healing yourself and allies when you buff at least one ally with your Reinforce. This heals 3% of affected players' maximum HP.
 -   Can be upgraded with the **Lord's Tithe** Talent, stealing up to 20% of affected people's Ether to regenerate your own.
@@ -528,8 +538,7 @@ N/A
 
 **Effect:** _User prepares themselves and turns red, gaining hyperarmor and negating hitstun for the duration of the effect._
 
--   Lasts 5 seconds by default.
--   Levels increase duration up to a maximum of 8 seconds.
+-   Brace lasts 5/5.75/6.5/7.25/8 seconds per level.
 -   Hyperarmor ends early if you cast a Mantra.
 
  |
@@ -603,25 +612,18 @@ Slash + Bleed
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 damage per level, 5.5 posture regardless of level, 2 Agility scaling. 15s cooldown.
--   It has a windup of 0.55 seconds and an endlag of 0.15 seconds.
+-   Has a base damage of 12+3.6/13+3.9/14+4.2/15+4.5/16+4.8 per level with 1.65 Agility scaling.
+-   Deals 5 posture damage.
+-   15 second cooldown.
+-   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
 -   This Mantra has innate Bleed, meaning that it will deal an additional 30% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
 -   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP. The Bleed's damage does not scale.
-    -   45% = 1.2x
-    -   40% = 1.43x
-    -   35% = 1.65x
-    -   30% = 1.86x
-    -   25% = 2.07x
-    -   20% = 2.28x
-    -   15% = 2.5x
-    -   10% = 2.71x
-    -   5% = 2.9x (below 5% the damage stops increasing)
--   Revenge's damage from health scaling will cap at 50 regardless of level/Agility invest. This does not count the Bleed damage.
+    -   This bonus damage scales up to 4 times damage at 5% health, but Revenge's health scaling will cap at Revenge dealing 50 damage regardless of level/Agility investment.
 -   Can be upgraded with the **Pursuit** Talent, allowing it to be used twice in a row if the first use hits. 25 second cooldown.
     -   Pursuit procs even when the Mantra is parried, blocked, dodged, or even vented, but this may be a bug.
 -   Can be upgraded with the **Crippling Comeuppance** Talent, which makes your Revenge put your opponent's mobility slot Mantras on a 15 second cooldown if you land your Revenge. This Talent has a 30 second cooldown.
 -   Wayward Gem does **NOT** proc on Revenge
--   Can be upgraded with Cloud/Stratus Stones and Drift/Rush Shards (Increases range of the Mantra).
+-   Can be upgraded with Cloud/Stratus Stones and Drift/Rush Shards to increase Revenge's range.
 
  |
 | 
@@ -658,6 +660,7 @@ Blunt
 
 **Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
 
+-   Has a base damage of 31.88+19.13/35.06+22.31/38.25+25.5/41.44+28.69/44.63+31.88 per level with no investment scaling.
 -   Upgraded with Agility and not Strength.
 
  |
@@ -811,12 +814,14 @@ Blunt
 
 **Effect:** _User rises up in the air, and launches 4 orbs of Ether toward their cursor that explode and ragdoll on impact._
 
+-   Has a base damage of 6/6.5/7/7.5/8 per level, per hit (6) with 1.65 Intelligence scaling.
+-   Deals 0 posture damage.
+-   0.65s wind-up.
+-   10s cooldown.
 -   When close enough to the enemy, the orbs will autotrack.
     -   Crystal/Perfect Lenses increase how far you can be for it to autotrack.
 -   Can be used from any height, and you will float.
     -   Does not negate fall damage.
--   Has a bug when trying to apply Stratus Stones where it doesn't use any, doesn't have any effect, but still adds to the ether used.
--   10s cooldown.
 
  |
 | 
@@ -896,11 +901,7 @@ N/A
 **Effect:** _Teleport a short distance towards the direction you're moving._
 
 -   Upgrading the Mantra decreases its cooldown by 2.5s per level.
-    -   At Level 1 has 15s CD.
-    -   At Level 2 has 12.5sCD.
-    -   At Level 3 has 10s CD.
-    -   At Level 4 has 7.5s CD.
-    -   At Level 5 has 5s CD.
+    -   15/12.5/10/7.5/5 second cooldown per level.
 -   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
 -   If not moving, you instead teleport towards the direction you're facing. You'll also teleport a smaller distance.
 -   For ~2.5s after teleporting, all fall damage is negated.
@@ -1014,12 +1015,10 @@ Slash
 
 **Effect:** _User pulls their arm back and then transfers their posture damage to their opponent._
 
+-   Has a base damage of 20/22/24/26/28 damage per level with 1.65 Willpower scaling.
+-   Transfers 20%/30%/40%/50%/60% of your current posture per level.
 -   The posture transfer cannot guardbreak.
--   Exhaustion Strikes posture transfer scales with your Willpower attribute. Going from 20% at Level 1 to 60% at Level 5.
--   20%/30%/40%/50%/60% posture transfer per level
--   20/22/24/26/28 damage per level, 1.5 Willpower scaling.
--   32.2 damage at 100 Willpower level 5
--   0.5s wind-up.
+-   Has 0.45s wind-up with 0.3s of endlag.
 
  |
 | 
@@ -1056,6 +1055,8 @@ N/A
 
 **Effect:** _User summons an invisible AoE projectile upon activation, briefly stunning anyone hit by it._
 
+-   Deals 1 damage on proc with no posture damage.
+-   Has a wind-up of 0.45s.
 -   May still combat tag opponents who are not facing you.
 -   This move causes humanoid NPCs to block less.
 -   Parry window is at the end of the first flash.
@@ -1101,6 +1102,7 @@ N/A
     -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 1 insanity (shivering)
 -   Upgrading this Mantra extends the duration.
     -   At level 5 it lasts 12 seconds.
+-   Deals 3 damage per tick with no posture damage.
 -   Can be countered by holding block, wearing a [Blindfold](Blindfold.md), or having a higher Willpower attribute than the caster.
 
  |
@@ -1173,8 +1175,9 @@ N/A
 
 **Effect:** _User taunts their opponent, signified by red particles._
 
--   Effect lasts for 10 seconds.
+-   Taunt has an 11/12/13/14/15 second duration per level.
 -   Affected entities receive 20% more damage.
+    -   This is applied as a damage modifier to the person hitting the Taunted player. Meaning that Taunt is affected by the damage modifier caps.
 -   Affected entities deal 10% more damage to you specifically.
 -   Affected entities become unable to jump.
 -   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
@@ -1256,18 +1259,21 @@ Blunt
 
 **Effect:** _User lunges at the opponent to grab them. On contact with a target, they hold them while whispering dark truths in their ear._
 
--   Deals 20.49 damage at level 5, scaling slightly with how insane the opponent is. 10s CD.
--   Inflicts Charm for 7.5s on hit.
-    -   Because of this, it will instantly proc Narcissist's Overcharm if you have the Talent.
--   Is unventable.
--   Shares a cooldown with all other [grab mantras](List_of_Grab_Mantras.md).
--   Does **not** apply insanity.
--   Landing the grab multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
+-   Deals a base damage of 10/12/14/16/18 per level with 1.65 Charisma scaling.
+-   Dread Whisper's damage will slightly scale on how insane your opponent is.
+-   Landing Dread Whisper multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
     -   Dread Whisper must be landed again within 15s of landing the previous one to gain/retain the damage buff.
+-   10 Second cooldown, shares a cooldown with all other [grab mantras](List_of_Grab_Mantras.md).
+-   Deals 6 posture damage.
+-   Has an wind-up of 0.4s, and an endlag of 1.95s (0.25s if whiffed).
+-   Inflicts Charm for 7.5s on hit.
+    -   Because of this, it will instantly proc [Narcissist's](Talents.md#toxic-personality) [Overcharm](Status_Effects.md#overcharm) if you have the Talent.
+-   Is unventable.
+-   Does **not** apply insanity.
 -   Incredibly fast and hard to react without predicting it, meaning it's rather easy to land on the least defensive type of players.
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
     -   This allows for Twisted Flames' Puppets to home in closer and for teammates using mantras such as [Eclipse Kick](Shadowcast.md#eclipse-kick) to try timing these to hit the opponent as soon as they're released.
--   Can be modified with Crystal/Perfect Lenses to increase it's range.
+-   Can be modified with Crystal/Perfect Lenses to increase the distance travelled with the lunge.
 
  |
 | 
@@ -1378,7 +1384,7 @@ _Rush down your opponent cutting them apart._
 
  | 
 
-True
+Slash
 
  | 
 
@@ -1389,13 +1395,16 @@ True
 
 **Effect:** _User teleports to the enemy their cursor is located on and performs numerous slashes._
 
--   Teleports the user to the enemy the cursor is pointed at.
+-   Deals 15 + 5 base damage with 1.65 Light Weapon scaling.
+    -   Base damage does not increase from Mantra levels.
 -   Bypasses armor resistances, but the damage can still be resisted with other sources of damage reduction.
+-   Deals 15 + 5 posture damage.
+-   Teleports the user to the enemy the cursor is pointed at.
 
  |
 | 
 
-**Ceaseless Slashes** (★★★)
+**Ceaseless Slashes** (☆☆☆)
 
 **Combat Mantra**
 
@@ -1403,7 +1412,7 @@ _Click to reveal yourself and deliver a rapid flurry of slashes that can chain t
 
  | 
 
-## Ceaseless Slashes (★★★)
+## Ceaseless Slashes (☆☆☆)
 
   
 **Combat Mantra**  
@@ -1427,10 +1436,14 @@ Slash
 
 **Effect:** _User turns invisible and then reveals themselves, performing a flurry of slashes._
 
--   Constantly consumes Ether while invisible.
 -   M1 during this Mantra to perform the slashes. Performing slashes consumes Ether.
 -   You can right click to cancel the Mantra.
--   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra.
+-   Damage ramps up on each hit.
+-   Deals 20/25/30/35/40 base damage on the initial hits with 1.65 Light Weapon scaling. This damage does not scale on Mantra level.
+-   After each hit, three damage ticks will follow. These scale on your Mantra's level.
+    -   The secondary damage ticks deal 3.33/4/4.67/5.33/6 base damage per level, per hit (3) with 1.65 Light Weapon scaling.
+-   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra or time slashes in a specific manner.
+-   Constantly consumes Ether while invisible.
 -   The slashes lock onto the closest target within Ceaseless' range.
 -   If you go too long without landing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
 -   Can be modified with Crystal/Perfect lenses to slightly increase the invisibility duration.
@@ -1471,7 +1484,8 @@ Blunt
 
 **Effect:** _User jumps into the air and slams down_
 
--   Windup is **HEAVILY** reduced upon being used directly after Karita Leap.
+-   Deals 20/22/24/26/28 base damage per level with 1.65 Light Weapon scaling.
+-   Wind-up is **HEAVILY** reduced upon being used directly after Karita Leap.
 
  |
 | 
@@ -1508,6 +1522,7 @@ Blunt
 
 **Effect:** _User thrusts themself forward with a kick, ragdolling opponents and leaping back into the air if they hit a wall._
 
+-   Deals 30/33/36/39/42 base damage per level with 1.65 Light Weapon scaling.
 -   Hitting a wall causes you to backflip.
 
  |
@@ -1578,6 +1593,10 @@ Slash
 
 **Effect:** _User performs a spinning double slice with their sword._
 
+-   Deals 3+5.4/7+12.6/11+19.8/15+27/19+34.2 base damage per level with 1.65 Medium Weapon scaling.
+-   Deals 5 posture damage per hit (2).
+-   Initial hit has 0.45s wind-up with the follow-up having 0.4s wind-up.
+-   Master's Flourish has 0.35s endlag.
 -   Deals Chip Damage.
 -   Deals knockback.
 -   Can be modified with a Glass/Magnifying stone to make it bigger
@@ -1617,8 +1636,16 @@ Slash
 
 **Effect:** _User dashes towards the camera and unleashes a wide slash. Can be performed again if the first slash lands._
 
--   Landing the first slash refreshes the Mantra, allowing it to be used again at any time. The subsequent use will then put the Mantra on cooldown.
+-   Deals 19/26.5/34/41.5/49 base damage per hit with 1.25 Medium Weapon scaling.
+-   Deals 16 posture damage and is 360 blockable.
+-   Has a 25 second cooldown.
+-   Has a 0.55s wind-up.
+-   Landing the first slash refreshes the Mantra, allowing it to be used again at any time.
+    -   If used again within 15 seconds, the Mantra will go on cooldown.
+-   Even if blocked, the cooldown of this Mantra will still reset. This is incredibly useful for block pressure.
 -   Due to it being aimed with the camera, it can be a very useful tool for aerial mobility.
+-   Does not register hits until the end of the move's animation, meaning you can phase through opponents without damaging them if used at close range.
+    -   Because of this, it is recommended to use this Mantra after uppercuts or while looking at the floor to land it in CQC.
 
  |
 | 
@@ -1655,7 +1682,10 @@ Slash
 
 **Effect:** _User locks onto all the closest targets that are in range then dashes forward and performing a large AoE slice._
 
+-   Deals 9/17/25/33/41 base damage per level with 1.65 Medium Weapon scaling.
 -   Deals **50% less damage** if used while your weapon is sheathed or if used on a non-medium weapon.
+-   Deals 5 posture damage.
+-   Has a wind-up of 0.5 seconds with an endlag of 0.2 seconds.
 -   Allows for movestacking an M1 strike which 100% guarantees the Mantra or M1 hit.
 -   Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.
 
@@ -1694,6 +1724,10 @@ Slash
 
 **Effect:** _User unleashes 2 slashes, the first moving them forward, the second launching them backwards._
 
+-   Deals 18.75/21.25/23.75/26.25/28.25 base damage per level, per hit (2) with 1.65 Medium Weapon scaling.
+-   Deals 6.75 posture damage per hit (2).
+-   Initial hit has a wind-up of 0.5s, with the follow-up attack having a 0.4s wind-up.
+-   Twincleave has an endlag of 0.4s.
 -   Can change the direction you launch backwards by turning your camera.
 
  |
@@ -1730,6 +1764,10 @@ Slash
 | 
 
 **Effect:** _User readies their blade before performing a swift strike that uppercuts any targets within range and the user into the air._
+
+-   Deals 20/22/24/26/28 base damage with 1.65 Medium Weapon scaling.
+-   Deals 12 posture damage.
+-   Uppercuts, proccing [Bladeharper's](Oath%253A_Bladeharper.md) Float like a Butterfly.
 
  |
 
@@ -1799,8 +1837,11 @@ Slash
 
 **Effect:** _User performs a heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback._
 
+-   Deals 8/10.5/13/15.5/18 base damage per level, per hit (3) with 1.65 Heavy Weapon scaling.
+-   Deals 12 posture damage per hit (3).
+-   Initial hit has a windup of 0.75s with each followup hit having a windup of 0.2s each.
 -   Dazes opponents on hit.
--   Ragdolls and lightly flings opponents away
+-   Ragdolls and lightly flings opponents away.
 -   Has Autoparry frames
 
  |
@@ -1836,13 +1877,16 @@ Slash (1st Hit), Blunt (Kicks)
  |
 | 
 
-**Effect:** _User does an initial swing with a second long windup, then kicks the enemy into the air, followed by kicking them away._
+**Effect:** _User does an initial swing with a second long wind-up, then kicks the enemy into the air, followed by kicking them away._
 
+-   Initial hit deals 30/32/34/36/38 base damage per level with 1.65 Heavy Weapon scaling.
+-   The kicks deal 15/16/17/18/19 base damage per level, per hit (2) with 1.65 Heavy Weapon scaling.
+-   Deals 20/22/24/26/GB posture damage per level on the first hit. The second hit always deals 4 posture damage.
+    -   Initial hit instantly guard breaks at level 5.
+-   The final hit applies [True Daze](Status_Effects.md#true-daze).
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
 -   Contrary to what's shown in the gif, the wind-up before the first hit does **not** have hyperarmor.
--   Short Range
--   At max level, the initial hit posture breaks
 
  |
 | 
@@ -1880,7 +1924,11 @@ Slash
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
 -   After the cooldown of Punishment, activating it again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish), that affects everyone nearby.
--   Deals damage based off damage absorbed, which is then multiplied. 0.35s windup, parryable.
+-   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level with no Heavy Weapon scaling.
+-   On top of having flat damage, Punishment will also deal 40%/55%/70%/85%/100% of the countered attack's damage per level.
+-   Deals 10/15/25/30 posture damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's posture damage per level to this attack.
+-   The counter has a wind-up of 0.2 seconds; being hit during this wind-up will cancel Punishment altogether. Additionally, this attack has a window of 0.55 seconds to counter any attack, and 0.7 seconds of endlag if whiffed.
+-   The follow-up attack has a staggeringly short 0.35 second windup, making it very hard to react to. That being said, this attack is still parryable.
 
  |
 
@@ -1912,7 +1960,7 @@ Slash
 -   Strangely, **Prominence Draw** deals less damage if your weapon's sheathe location is at your hip or if your weapon isn't a medium weapon. This is the only weapon mantra to deal reduced damage if you aren't using the respective weapon type.
 -   You can obtain and use weapon mantras from other weapon classes as long as you meet their requirements.
 -   All weapon mantras used to have a requirement of 8 weapon investment.
--   **Ceaseless Slashes** is the only Attunement-less Mantras to be starred, being 3 stars.
+-   **Ceaseless Slashes** was the only Attunement-less Mantras to be starred, being 3 stars. Currently, like all other Attunement-less Mantras, it has no star value.
     -   **Rapid Punches** used to be 1 star, but was changed to 0.
 -   **Strong Left** may have been inspired by [Franky's Strong Right from _One Piece_](https://onepiece.fandom.com/wiki/Franky/Abilities_and_Powers#BF-36/Cyborg_Tactics).
 -   **Strong Left** used to be notorious for having a large backwards hitbox that was bigger than the actual forwards hitbox, leading to clips such as turning around to make a Strong Left hit.

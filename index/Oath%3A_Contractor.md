@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 146320
+revid: 147774
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -36,7 +36,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
     -   You can also get this by trading knowledge with [Soothsayer](Soothsayer.md) (require atleast 10 knowledge to have neutral reputation with [The Ministry](The_Ministry.md)).
     -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing) (Second dialogue is **NOT** required for the Duke Erisia questline)
-3.  Go to the [Lord Regent](The_Lord_Regent.md) and choose the special dialogue “Bite your tongue". (This step is not required; it is safer to simply never talk to the Lord Regent until you have done everything listed below instead.)
+3.  Go to the [Lord Regent](The_Lord_Regent.md) and choose the special dialogue “Bite your tongue".
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md)(Make sure to speak with [The Lord Regent](The_Lord_Regent.md) first or the shrines won't count.) Any Shrine except the **Shrine of Solitude,** **Shrine of Mastery and Shrine of Order (stat allocation)** works, including those in the [Temple of Hearts](Temple_of_Hearts.md). (As of right now using the Shrine of Mastery to re-evaluate your stats doesn't work.)
 5.  Unlock your [Resonance](Resonance.md).
 6.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it "What happened to this place?" (NOTE THAT THIS REQUIRES THE 4 DEEP SHRINE DEALS FIRST)

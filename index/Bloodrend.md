@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 147597
+revid: 147781
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -730,6 +730,7 @@ Blood
 **Effect:** _Conjure out tendrils of blood with both arms to grab onto a target before launching the user towards them, kicking them whilst dealing damage._
 
 -   Leveling up this mantra will increase its range.
+-   Can be modified with Lenses to increase its range.
 -   First hit always does 10 base damage with 5 bloodrend scaling
 -   Deals 15/19/23/27/31 base damage per level (final hit), 12 posture, 1s windup 13.5s CD
 -   Grab has 6.48x PVE scaling, dropkick 9.18x PVE scaling.
