@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 147782
+revid: 147791
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -928,7 +928,7 @@ N/A
 -   30 Second Cooldown.
 -   Can be used for escaping situations or for trolling, as shown in this video: "[https://www.youtube.com/watch?v=8L1xWJYGbDk](https://www.youtube.com/watch?v=8L1xWJYGbDk)"
 -   Can be modified with **Cloudstones/Stratus Stones** to (Work in Progress).
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to shorten the cooldown but greatly reduce the range. This allows you to use the mantra in Chime.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to speed up the casting and shorten the cooldown but greatly reduce the range. This allows you to use the mantra in Chime.
 
  |
 

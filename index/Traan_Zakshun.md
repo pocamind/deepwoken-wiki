@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147752
+revid: 147790
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -254,6 +254,8 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Maybe I should get into mystery boxes... You'd buy one right?_
 -   _Careful. This one's got a history.. I think._
 -   _You want it? It's yours my friend! So long as you have enough crowns._
+-   _It's Antique! Scratch that, Brand New!_
+-   _I need to use these crowns to buy some earplugs for that ear bleeding sea snake.._
 
 ## Black Market Shop Rotation
 
