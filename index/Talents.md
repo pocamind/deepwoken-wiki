@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147727
+revid: 147765
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -264,9 +264,10 @@ _**You need to have made and drunk at least one potion for the Talents to start 
     -   The enemy must not be in combat to trigger this effect.
     -   Prerequisite: 5 Agility
 
--   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. (+1 Passive Agility)
+-   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility)
     -   After 3 seconds of sprinting without taking damage, gain increased health regeneration.
-    -   The additional health regen from this Talent scales on your Agility investment, scaling up to 300% base health regen at 100 Agility. The health regen is reduced in PvP combat.
+    -   The health regen is reduced in PvP combat.
+    -   Scales up to 300% base health regen at 100 Agility.
     -   Prerequisites: All Alley Cat Talents
 
 ### All-Knowing
@@ -1537,7 +1538,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
         -   This Talent CAN be obtained with 20 medium and a pistol equipped.
 
--   Prime Ether Bullets \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
+-   _**Prime Ether Bullets**_ \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
     -   Adds 1.2 Intelligence scaling to your Pistols. For reference this is the same as the [Rosen's Ring](<Rosen's_Ring.md>).
     -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND off hands)

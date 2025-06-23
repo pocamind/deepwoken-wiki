@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 147586
+revid: 147770
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -313,7 +313,7 @@ Lightning
 
 **Effect:** _Perform a short wind-up before snapping fingers to summon a clone of lightning beside the user, the clone proceeds to attack a nearby target once before disappearing._
 
--   A clone deals 2x less DMG of your scaled M1, 15s CD.
+-   A clone deals 1/2 the DMG of your scaled M1, 15s CD.
 -   Blast spark spawns a clone and if a clone hits something it deals weaker m1 + 33.6 AOE Thunder DMG at 5 lvl.
 -   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
 -   Can grant a different effect with the "**Static Flash Clone**" Talent, which causes the mantra to summon a clone briefly as an afterimage before disappearing, granting the user a small speed boost and making them invisible for a short period of time before resurfacing from invisibility.

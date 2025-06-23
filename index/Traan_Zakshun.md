@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147738
+revid: 147752
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -253,6 +253,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _I'd wipe this for fingerprints._
 -   _Maybe I should get into mystery boxes... You'd buy one right?_
 -   _Careful. This one's got a history.. I think._
+-   _You want it? It's yours my friend! So long as you have enough crowns._
 
 ## Black Market Shop Rotation
 
