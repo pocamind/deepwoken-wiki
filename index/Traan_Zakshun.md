@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147678
+revid: 147738
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -190,8 +190,7 @@ Sold Items
   <td><b>Miscellaneous</b></td>
   <td><p><b>For </b>:</p>
   <ul>
-    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Dye_Packet.md">Dye Packet</a></li>
-    <li><b><font>Other</font></b>: <a href="Glumfig.md">Glumfig</a></li>
+    <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Dye_Packet.md">Dye Packet</a>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -268,7 +267,7 @@ Sold Items
   (Mostly <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For </b>: <a href="Rain_Spire.md">Rain Spire</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Glumfig.md">Glumfig</a></li>
+    <li><b>For </b>: <a href="Glumfig.md">Glumfig</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
     <li><b>For </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
     <li><b>For </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>.</li>
     <li><b>For </b>: <a href="Forge_Needle.md">Forge Needle</a>.</li>

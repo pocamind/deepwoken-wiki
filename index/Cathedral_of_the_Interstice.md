@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 146759
+revid: 147748
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,7 +42,7 @@ Some things can add extra Difficulty Score:
 | 20-29 (est. [Power](Power.md) 7-9)\* | [Lesser Angel](Hollow_Angel.md) |
 | 30-49 (est. [Power](Power.md) 10-16)\* | [Megalodaunt](Megalodaunt.md) (which can be Template:CorruptedColor) |
 | 50-79 (est. [Power](Power.md) 17-20)\* | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (All of these enemies can spawn in Template:CorruptedColor) |
+| 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (The [Bone Keeper](Bone_Keeper.md) and [King Thresher](King_Thresher.md) can spawn in Template:CorruptedColor, but a [Fury Nautilodaunt](Fury_Nautilodaunt.md) can only spawn Template:CorruptedColor if you have the echo modifier [Deep Champion](Echoes.md).) |
 | 5 or more players, one having a Difficulty Score of 60+ | [Heart of Enmity](Heart_of_Enmity.md), a boss for punishing those escaping the Depths in sheer numbers |
 
 \* This is an estimation. Depending on your drowns and other factors, you could be facing worse enemies.

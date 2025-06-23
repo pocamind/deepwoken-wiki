@@ -1,6 +1,6 @@
 ---
 title: Glumfig
-revid: 147368
+revid: 147742
 source: https://deepwoken.fandom.com/wiki/Glumfig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Ingredients, Alchemy]
@@ -17,7 +17,7 @@ Template:Food Template V1
 
 ## Description
 
-A small fruit that originated from the Western Luminant. This fruit is exclusively obtained from [Trahne Zakshun](Traan_Zakshun.md) and can be bought for a piece.
+A small fruit that originated from the Western Luminant. This fruit is exclusively obtained from [Trahne Zakshun's](Traan_Zakshun.md) black market and can be bought for a piece.
 
 ## Recipes used in
 
@@ -27,3 +27,4 @@ A small fruit that originated from the Western Luminant. This fruit is exclusive
 
 -   Glumfigs were first mentioned ingame from an NPC dialogue exchange. Nearly a month after this dialogue exchange was added, the Glumfig was officially added to the game.
 -   Upon release, the Glumfig had the most potent instant health effect for potion effects, healing ~20 health per fig. This was so potent in fact that it created its own potion type, the _Rejuvenating **Remedy**_. This of course was a bug and was patched shortly afterwards.
+-   Glumfigs were originally sold in [Trahne Zakshun's](Traan_Zakshun.md) normal shop rotation for a piece. They were later transferred to his black market shop rotation, being sold for a piece. Quite the price inflation.

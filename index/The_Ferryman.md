@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 146829
+revid: 147734
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -130,11 +130,11 @@ Dodgeable:✗
 
 ### Talents
 
--   Inverse Chain - For each hit the player lands on the Ferryman, he takes more damage, similar to the Talent Chain of Perfection.
+-   Inverse Chain (_currently doesn't function_) - For each hit the player lands on the Ferryman, he takes more damage, similar to the Talent Chain of Perfection.
 -   First Interrogation - Attacks from players who are Electrified will give the Ferryman ether proportional to their initial damage.
 -   Second Interrogation - Electrified attacks do 50% less damage and posture damage to the Ferryman.
 -   Authority Intimidation - All moves that apply electricity slow you more.
--   Resolve Crusher - All the Ferryman's lightning moves apply "Electrify", attacks from electrified players are converted into lightning damage, but will deal 10% less damage to the Ferryman.
+-   Resolve Crusher - All the Ferryman's lightning moves apply "[Electrify](Status_Effects.md#electrified)", attacks from electrified players are converted into lightning damage, but will deal 10% less damage to the Ferryman.
 -   Resilience - Similar to every other boss, is immune to statuses which disable moves.
 
 ### Finishers
