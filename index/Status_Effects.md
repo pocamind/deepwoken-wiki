@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 147838
+revid: 147895
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -190,7 +190,7 @@ It has a few sub-variants:
 -   Black Flames: Consumes your Ether while you are burning and spawns Puppets if applied via a non-Shadowcast source. This burn type comes from [Wraith Path: Twisted Puppets](Talents.md#twisted-puppets).
 -   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path. Is also applied with the [Curse of Rhaemen's Ember](Enchantments.md#curses) enchant.
 -   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) exclusive, white flames that scale on your Intelligence investment, meaning they can be a lot more deadly. (Currently bugged and does not scale on INT, it instead scales on your Flamecharm investment like all other burn types.)
--   Flamewreathe Burn: [Attuned Monster](Monsters.md#attuned-monsters) exclusive, cannot be removed via roll canceling; only full rolls can remove this effect. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
+-   Flamewreathe Burn: [Attuned Monster](Monsters.md#attuned-monsters) exclusive, this burn is harder to remove; requiring 2 roll cancels or 1 full roll to be extinguished. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
 -   Self Immolation: [Flame Within](Talents.md#amoran-seeker) exclusive, grants a 10% damage bonus and a movement speed bonus. Cannot be removed from self via rolling or sliding, use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
 
 ### Winded

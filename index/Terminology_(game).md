@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 147534
+revid: 147887
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -150,6 +150,15 @@ _noun, verb_
 _noun_
 
 1.  A combo that, when the first hit or a certain hit lands, subsequent hits can **not** be avoided by any means, leading to guaranteed (or **true**) damage.
+
+#### Bossraid
+
+_verb, adjective, noun_
+
+1.  To fight a group of players by yourself, usually at least 3.
+    1.  Ex. "I'm bossraiding them, they're trash
+2.  An adjective that describes a build used for bossraiding.
+3.  A build used for bossraiding.
 
 ### Counter
 

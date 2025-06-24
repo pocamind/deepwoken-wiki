@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 147847
+revid: 147900
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -6261,7 +6261,7 @@ Found from:
 
  | 
 
-+10% extra PEN on M1 flourishes. Does not bypass PEN cap.
++40% extra PEN on M1 flourishes. Does not bypass PEN cap.
 
   
 **Requires Power 10**

@@ -1,6 +1,6 @@
 ---
 title: "Finisher's Ring"
-revid: 142861
+revid: 147899
 source: https://deepwoken.fandom.com/wiki/Finisher's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -23,6 +23,6 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**FInisher's Ring** is a Ring [Equipment](Equipment.md) piece that grants the user extra +10% Armor Penetration (PEN) on attacks that flourish opponents upon being equipped.
+**FInisher's Ring** is a Ring [Equipment](Equipment.md) piece that grants the user extra +40% Armor Penetration (PEN) on attacks that flourish opponents upon being equipped.
 
 This PEN bonus does **not** bypass the 50% PEN cap, and it **only** procs from M1 flourishes at the end of your M1 combo. This means that Mantras that have "flourishes" (e.g. [Onslaught](Attunement-less.md#onslaught)) and talents that flourish on proc (e.g. [Emperor Flame](Talents.md#the-emporers-blade)) do not proc this ring's effect.

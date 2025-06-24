@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147790
+revid: 147883
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -285,8 +285,9 @@ Sold Items
   <ul>
     <li><b>For </b>: <a href="Stormseye.md">Stormseye</a>.</li>
     <li><b>For </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>.</li>
+    <li><b>For </b>: <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For </b>: <a href="Soulthorn.md">Soulthorn</a>.</li>
-    <li><b>For </b>: <a href="First_Light.md">First Light</a>.</li>
+    <li><b>For </b>: <a href="First_Light.md">First Light</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>.</li>
     <li><b>For </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147853
+revid: 147870
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1386,15 +1386,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"My ice protects like a flower growing thorns."**_
 
--   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +1 Health)
-    -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
-
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
     -   Durability of Orbital Ice is equal to "Frostdraw investment ÷ 4", reaching 25 at 100 Frostdraw.
     -   Cooldown of 90 seconds.
     -   If you have the Refreeze Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs bottom freeze will reduce Orbital Ice's cooldown by 5 seconds. This procs regardless of Bottom Freeze's cooldown.
     -   Mutual Exclusive: Fists of Fortitude
+        -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Fists of Fortitude.
     -   Prerequisite: 65 Frostdraw
+
+-   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility)
+    -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
+        -   Note: You need the actual Orbital Ice Talent, if Orbital Ice is obtained from the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you will not meet the requirements of this Talent.
 
 ### Frozen Warrior
 
@@ -1632,7 +1634,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
     -   Prevents you from rotating your character and moving around overall.
-    -   If you have the Refreeze Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs bottom freeze will reduce Orbital Ice's cooldown by 5 seconds. This procs regardless of Bottom Freeze's cooldown.
     -   Prerequisite: 25 Frostdraw
 
 -   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether.
@@ -1645,7 +1646,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Ice patches created by this talent last 1 minute 30 seconds.
     -   Frost Buster works on the following weapons:
         -   Any weapon with the basic heavy weapon critical (including greataxes, despite what the description states).
-        -   [Night Axe](Night_Axe.md), despite what the description states.
+        -   [Night Axe](Night_Axe.md)
         -   [Crescent Cleaver](Crescent_Cleaver.md) and all weapons that share its critical, but **only if you land it**.
         -   The Enforcer weapons ([Enforcer's Blade](<Enforcer's_Blade.md>), [Enforcer's Hammer](<Enforcer's_Hammer.md>), [Enforcer's Axe](<Enforcer's_Axe.md>)).
     -   Prerequisites: Cryonis, 15 Heavy Weapon, 45 Frostdraw
@@ -2301,9 +2302,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Fists of Fortitude_ \[Rare Talent\] - \[Fists\] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)
     -   Only procs on M1s with the exceptions of a few weapons.
         -   Can proc on [Wraithclaw](Wraithclaw.md)'s and [Legion Kata](Legion_Kata.md)'s criticals due to them being classified as basic attacks, with Wraithclaw's neutral critical proccing it almost instantly due to being a multihit.
-    -   This Talent also **works** with [Jus Karita](Jus_Karita.md) but won't come out on your Talent hands unless you have any **Fist Style** equipped.
+    -   This Talent also **works** with [Jus Karita](Jus_Karita.md), but won't come out on your Talent hands unless you have any **Fist Style** equipped.
     -   Prerequisites: Fists, 20 Fortitude, 20 Light Weapon
     -   Mutual Exclusive: Orbital Ice
+        -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).

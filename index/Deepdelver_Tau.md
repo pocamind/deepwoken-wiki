@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Tau
-revid: 147784
+revid: 147897
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Tau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -52,3 +52,4 @@ Deepdelver Tau can be found at [Miner's Landing](<Miner's_Landing.md>), inside t
 
 -   Deepdelver Tau will tell you to scram, but this can be overwritten by increasing your rep slightly.
 -   You can only enter with up to 5 people at most
+-   Tau's hair id is 4997293129

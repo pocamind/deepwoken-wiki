@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 145877
+revid: 147879
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -47,7 +47,7 @@ _Deepwoken_ currently has 17 Adept Outfits that have been discovered.
 
 ### Expert
 
-_Deepwoken_ currently has 18 Expert Outfits that have been discovered.
+_Deepwoken_ currently has 19 Expert Outfits that have been discovered.
 
 ### Master
 
@@ -117,7 +117,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td><b><a href="The_Ignition_Union.md">The Ignition Union</a></b></td>
   <td><a href="Union_Initiate.md">Union Initiate</a></td>
   <td><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></td>
-  <td><a href="Ignition_Trailblazer.md">Ignition Trailblazer</a></td>
+  <td><a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Ignition_Welder.md">Ignition Welder</a></td>
   <td><a href="Ignition_Deepdelver.md">Ignition Deepdelver</a></td>
 </tr>
 <tr>

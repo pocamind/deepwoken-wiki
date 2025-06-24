@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 147862
+revid: 147889
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments, Layer 1, The Depths, Enemies]

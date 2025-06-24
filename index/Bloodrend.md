@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 147837
+revid: 147896
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -227,7 +227,7 @@ _Conjure a scythe of blood and swing._
  |
 | 
 
-25 Ether
+50 Ether
 
  | 
 
@@ -785,7 +785,7 @@ _A servant of blood._
  |
 | 
 
-70 Ether
+85 Ether
 
  | 
 
