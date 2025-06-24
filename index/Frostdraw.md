@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 147635
+revid: 147921
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -202,7 +202,7 @@ Ice
 -   With the **Spike Traps** Talent, pressing \[F\] during the wind-up creates 2 translucent ice traps, placed in random spots within a wide area around you, that turn into spikes when colliding with an enemy or when using the \[F\] version again.
     -   Each spike deals 50% of the damage of the base version.
     -   Using this version again will place new traps and detonate the existing traps at the same time.
--   Can be modified with Cloud and Stratus Stones to make the ice spikes bigger.
+-   Can be modified with Cloud and Stratus Stones to make the ice spikes bigger, and increases the number of traps placed with the **Spike Traps** Talent.
 
  |
 | 

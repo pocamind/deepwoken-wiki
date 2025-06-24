@@ -1,6 +1,6 @@
 ---
 title: Adhesive
-revid: 137479
+revid: 147920
 source: https://deepwoken.fandom.com/wiki/Adhesive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 147588
+revid: 147922
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -540,14 +540,15 @@ Blunt
  |
 | 
 
-**Effect:** _The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too._
+**Effect:** _The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too._  
+**NOTE:** This Mantra has been "vaulted"; as of June 23rd 2025 and until further notice, **Shadow Vortex is no longer obtainable.**
 
 -   Deals around 40 DMG (Does around 75.6 (39.72 explosion+ 35.88 shadow gun) DMG if hit by shadow gun), Guardbreaks at block attempt, 20s CD
 -   With 6 songchant deals around 50 DMG (86.53 DMG (46.59 explosion +39.94 shadow gun) DMG if hit by shadow gun)
 -   Applies PVE tag to anyone who is near it.
--   Explosion by Shadow gun doesn't happen if shadow gun was used before vortex sucked someone in.
+-   Landing a [Shadow Gun](Shadowcast.md#shadow-gun) or [Shadow Seekers](Shadowcast.md#shadow-seekers) into the vortex after it has grabbed a target will cause it to explode, dealing extra damage and stealing a high amount of Ether.
+    -   Explosion doesn't happen if either Mantra was used before the vortex sucked someone in.
 -   Has a vertical range cap. Ex. Cannot grab someone from the bottom of a cliff at starswept next to a jump pad.
--   You can shoot a Shadow Gun into the vortex after it has grabbed a target. Doing so will cause it to explode, dealing extra damage and stealing a high amount of Ether.
 -   Is compatible, and can be modified with Glass/Magnifying Stones to increase the range, though it seems to display diminishing returns.
 
  |

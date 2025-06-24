@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147870
+revid: 147928
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -899,11 +899,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 30 Frostdraw
 
 -   Spike Traps \[Common Talent, Frostdraw Exclusive\] - Press F during the wind up of your [Ice Spikes](Frostdraw.md#ice-spikes) to create traps around you instead of spawning a spike in the normal spot.
-    -   Activates off holding your block key during the windup of Ice Spikes. It will not proc while holding F if you've changed your block/parry keybind.
-    -   Activates the "Ice Spikes" mantra upon being stepped on.
+    -   Activated by holding your block key during the windup of Ice Spikes. It will not proc while holding F if you've changed your block/parry keybind.
+    -   Activates a spike upon being stepped on.
     -   There are small, blue, transparent "traps" indicating the hitboxes, placed randomly around the user.
     -   Can stack multiple times, allowing for very high amounts of traps in one spot.
     -   Extends the CD on Ice Spike by 5s to 20s total.
+    -   **NOTE:** This Talent has been "vaulted"; as of June 23rd 2025 and until further notice, **Spike Traps is no longer obtainable. For users who already have Spike Traps, activating it will only place 1 trap, no matter how many Cloud/Stratus Stones the Mantra was modified with.**
     -   Prerequisites: [Ice Spikes](Frostdraw.md#ice-spikes) (Mantra), 30 Frostdraw
 
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst.

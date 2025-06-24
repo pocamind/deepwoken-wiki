@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 147900
+revid: 147905
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -52,7 +52,7 @@ Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
   <td>Health (HP)</td>
   <td>4 4 5</td>
   <td>3 4 4 5</td>
-  <td>3 4 5</td>
+  <td>3 4 4 5</td>
   <td>3 4 5</td>
   <td>N/A</td>
   <td>N/A</td>
@@ -62,7 +62,7 @@ Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
   <td>Ether (ETH)</td>
   <td>8 10 12</td>
   <td>8 10 12</td>
-  <td>10 12</td>
+  <td>8 10 12</td>
   <td>8 10 12</td>
   <td>4 6 8</td>
   <td>4 8</td>
@@ -6846,7 +6846,5 @@ Found from:
 -   Highest theoretical **Posture** kit is 20 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 1 Threadwork Kilt, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
 -   Highest theoretical **HP** kit in game is 170 HP. (2x 9 HP Moon and 2x 9 HP Waning Rings, 47 HP (Drowned) Diver's Light Plate/Bastions of Enmity, 18 Fauld of Emnity, 32 HP Parasol Planter, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings, 5 HP Citadel Frames)
     -   Having multiple pieces of equipment with drowned **does not increase your stats further.**
--   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with a new system, and because of this, there was no reason to keep these pip types in the game.
--   Legs equipment is currently the only equipment type that does not have Uncommon Pips.
+-   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with the addition of the Bestiary system, removing their necessity. Following this change, all DvM pips were transferred into Health pips and all Monster Armor pips were transferred into Physical Resistance pips.
 -   A sanity pip will also grant half of its amount in ether. So, if you get a +6-sanity pip, you will also get +3 ether.
--   Monster Armor pips also give +1% Physical Armor and +1% Elemental Armor

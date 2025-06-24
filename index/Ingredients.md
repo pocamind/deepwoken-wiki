@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 147421
+revid: 147929
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -107,7 +107,7 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
     -   [Giant Femur](Giant_Femur.md)
 -   [Bounder](Bounder.md)
     -   [Bounder Claw](Bounder_Claw.md)
--   [Kyrsgarde](Kyrsgarde.md)
+-   All [Kyrsgarde](Kyrsgarde.md)
     -   [Frozen Membrane](Frozen_Membrane.md)
     -   [Kyrsan Schematic](Kyrsan_Schematic.md)
 
@@ -120,11 +120,11 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 
   
 
-### Mantra Modifiers
+### Mantra Ingredients
 
 _Main Page: [Mantra Modifiers](Mantra_Modifiers.md)_
 
-Mantra Modifiers are unique items that can be utilized at a [Mantra Table](Mantra_Lectern.md), or in the case of Deep Gems equipped while resting at a [Campfire](Campfire_Pit.md), to enhance the player's [Mantras](Mantras.md). There are 3 types of Mantra Modifiers: Regular, Sparks, and Deep Gems. Regular Mantra Modifiers and Sparks drop from a variety of [Monsters](Monsters.md) and [Enemies](Enemies.md), while Deep Gems are uncommonly found in chests from the [First Layer](First_Layer.md), including [Random Encounters](Random_Encounters.md) that reward Depths chests, and commonly found in chests from certain [Bosses](Bosses.md) and from other events and dungeons.
+Mantra Ingredients consist of Mantra Modifiers, unique items that can be utilized at a [Mantra Table](Mantra_Lectern.md), or in the case of Deep Gems equipped while resting at a [Campfire](Campfire_Pit.md), to enhance the player's [Mantras](Mantras.md). There are 3 types of Mantra Modifiers: Regular, Sparks, and Deep Gems; Deep Gems, however, are categorized as Treasures and not Mantra Ingredients. Regular Mantra Modifiers and Sparks drop from a variety of [Monsters](Monsters.md) and [Enemies](Enemies.md), while Deep Gems are uncommonly found in chests from the [First Layer](First_Layer.md), including [Random Encounters](Random_Encounters.md) that reward Depths chests, and commonly found in chests from certain [Bosses](Bosses.md) and from other events and dungeons.
 
 #### Regular
 
@@ -164,7 +164,7 @@ Mantra Modifiers are unique items that can be utilized at a [Mantra Table](Mantr
 
 _Main Page: [Treasures](Treasures.md)_
 
-Treasures are a category of item that contain miscellaneous gem items that are found at the bottoms of chests whose main purpose is to be sold and can be sold to [Mantra Collectors](Mantra_Collector.md), and also contain Deep Gems and Elemental Ingredients, items dropped from [Attunement](Attunements.md)\-wielding enemies that can be consumed by the player if they also wield that Attunement to train it, and given to the corresponding Attunement Trainer to unlock the attunement.
+Treasures are a category of item that contain miscellaneous gem items that are found at the bottoms of chests whose main purpose is to be sold and can be sold to [Mantra Collectors](Mantra_Collector.md), and also contain Deep Gems and Elemental Ingredients, items dropped from [Attunement](Attunements.md)\-wielding enemies that can be consumed by the player if they also wield that Attunement to train it, and given to the corresponding [Attunement Trainer](Attunement_Trainers.md) to unlock the attunement.
 
 While Treasures are not "Ingredients" in the literally defined sense, some Deep Gems and Elemental Ingredients are used to craft [Outfits](Outfits.md).
 
