@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 146808
+revid: 147792
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant]
@@ -63,3 +63,4 @@ Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) ins
 -   Lake's hair IDs are:
     -   8994112527 for the ponytail
     -   9678815144 for the short hair/bangs
+    -   6036724375 for the other short hair

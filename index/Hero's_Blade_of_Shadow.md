@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Shadow"
-revid: 146946
+revid: 147812
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items, Medium Weapons]
@@ -8,7 +8,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 
 # Hero's Blade of Shadow
 
-| Hero Blade of Shadow | |
+| Hero's Blade of Shadow | |
 |---|---|
 | type | Elemental Weapon |
 | requirements | 75 SDW, LVL 11 |
