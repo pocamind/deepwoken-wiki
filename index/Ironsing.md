@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 147732
+revid: 147855
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -912,6 +912,7 @@ Metal
 -   Deals 21 DMG per hit, 0.85s windup to cast, 0.55s delay between shots, lasts 20 seconds, 30s CD at 5 lvl
 -   With 6 Songchant deals 23.96 DMG per hit
 -   Has 9.4x PVE scale (21 DMG PVP, 197.63 IN PVE)
+-   Cannot stun players. This Mantra is heavily incentivized for use in PvE.
 -   Each shot applies a Metal Rod on hit
 -   Shares a cooldown with [Firing Line](Ironsing.md#firing-line).
 -   Requires a ritual cast with two keys + adding modifiers increases the number of keys.

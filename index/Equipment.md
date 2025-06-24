@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 147558
+revid: 147847
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -89,16 +89,6 @@ Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
   <td>1 2</td>
 </tr>
 <tr>
-  <td>%Damage vs. Monsters (Monster DMG)</td>
-  <td>1 3</td>
-  <td>1 3</td>
-  <td>1 3</td>
-  <td>1 3</td>
-  <td>1</td>
-  <td>1</td>
-  <td>1 3</td>
-</tr>
-<tr>
   <td>%Physical Armor (PHY Armor)</td>
   <td>2 4</td>
   <td>2 4</td>
@@ -112,16 +102,6 @@ Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
   <td>%Elemental Armor (ELM Armor)</td>
   <td>3 4</td>
   <td>3 4</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>%Monster Armor (also gives 1% PHY and ELM)</td>
-  <td>4</td>
-  <td>4</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
@@ -6866,10 +6846,7 @@ Found from:
 -   Highest theoretical **Posture** kit is 20 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 1 Threadwork Kilt, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
 -   Highest theoretical **HP** kit in game is 170 HP. (2x 9 HP Moon and 2x 9 HP Waning Rings, 47 HP (Drowned) Diver's Light Plate/Bastions of Enmity, 18 Fauld of Emnity, 32 HP Parasol Planter, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings, 5 HP Citadel Frames)
     -   Having multiple pieces of equipment with drowned **does not increase your stats further.**
--   Highest theoretical **DvM** kit in game is 72% DvM. (3x 4% DvM Rings, 7% DvM Diver's Ring (depths only), 19% DvM (Drowned) Pathfinder Elite, 8% DvM Fauld of Enmity, 10% DvM Warlock's Brim/Aegis of Enmity, 10% DvM Wartreads of Enmity, 3% DvM Hivelord's Mask/Royal Guard, 3% DvM Earrings)
-    -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have been 80%.
--   Highest theoretical **Monster** **Armor** kit in game is 37% Monster Armor. (21% (Drowned) Arms, 16% Deepwoken Hood/Vigil's Hood/Parasol Planter/Tillian's Beret)
-    -   The echo shop allows for an additional 8% DvM onto your character, meaning the max Monster Armor you could possibly have is 45%.
+-   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with a new system, and because of this, there was no reason to keep these pip types in the game.
 -   Legs equipment is currently the only equipment type that does not have Uncommon Pips.
 -   A sanity pip will also grant half of its amount in ether. So, if you get a +6-sanity pip, you will also get +3 ether.
 -   Monster Armor pips also give +1% Physical Armor and +1% Elemental Armor

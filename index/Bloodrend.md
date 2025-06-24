@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 147781
+revid: 147837
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1182,7 +1182,7 @@ Vasculitis
 
  | 
 
-Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration (Must hit them while they are over 20% BP.)
+Your opponent cannot proc deep gems if they have over 30% blood poisoning for a brief duration (Must hit them while they are over 30% BP.)
 
  | 
 
@@ -1337,12 +1337,12 @@ N/A
 -   **WARNING** ONCE 6 BLOOD POOLS ARE PLACED THEY WILL QUICKLY DISSAPATE
 -   Blood Poison is a stacking effect that is applied on the blood bar. **It does not replace blood**, simply overlay itself on top of it.
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
-    -   20% - _Vasculitis_ Talent is Activatable
-        -   Vasculitis - Your opponent cannot proc deep gems for a brief duration. (Must hit them while they are over 20% BP.)
     -   25% - _Hemolysis_ Talent is Activatable
         -   Hemolysis - Deal 20% more critical attack damage.
-    -   40% - Enemies are under 50% Anti-Heal
-    -   50% - Enemies have their damage reduced by ≈30%
+    -   30% - _Vasculitis_ Talent is Activatable
+        -   Vasculitis - Your opponent cannot proc deep gems for a brief duration. (Must hit them while they are over 30% BP.)
+    -   40% - Enemies are under an Anti-Heal effect
+    -   50% - Enemies have their damage reduced
     -   60% - _Bloodwarden's Sense_ Talent is Activatable
         -   Bloodwarden's Sense - Enemies you attack with a mantra are highlighted red briefly.
     -   70% - _Gruesome Harvest_ Talent is Activatable

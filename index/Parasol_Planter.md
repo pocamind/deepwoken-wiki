@@ -1,6 +1,6 @@
 ---
 title: Parasol Planter
-revid: 147772
+revid: 147840
 source: https://deepwoken.fandom.com/wiki/Parasol_Planter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Equipment, Head, Hats]
@@ -15,7 +15,7 @@ categories: [World Event, Equipment, Head, Hats]
 | selling price | 100 |
 | requirements | Level 10 |
 | weight | 1 |
-| innate stats | +2 Health +3 Rare Pip |
+| innate stats | +2 Health +3 Rare Pips |
 | innate talent | Grotesque Resilience |
 | bankable | Yes |
 | droppable | Yes |
@@ -39,6 +39,6 @@ Grants the user the "[Grotesque Resilience](Talents.md#miscellaneous)" Unique Eq
 ## Trivia
 
 -   This is a very good helmet for resistance stats, as having a high amount of innate pips allows it to leverage higher resistances than many other helmets.
--   Parasol Planter is arguably one of the best headgears in the game. The high amount of innate pips allows it to generalize in multiple subsections of combat and allows it to heavily invest in any stat granted by pips when min-maxed. While beat out in terms of raw statistical values for some niches, such as DvM for PvE, the innate talent is incredible for Bleed and Burn damage reduction, which other helms simply cannot match.
+-   Parasol Planter is arguably one of the best headgears in the game. The high amount of innate pips allows it to generalize in multiple subsections of combat and allows it to heavily invest in any stat granted by pips when min-maxed. While beat out in terms of raw statistical values for some niches, such as for pure resistance stats or flat hp, the innate talent is incredible for Bleed and Burn damage reduction, which other helms simply cannot match.
 -   The 25% DoT resistance is great for [Flame Within](Flamecharm.md#amoran-seeker), which gives you a damage and speed bonus in exchange for being set on fire.
 -   The Talent, Grotesque Resilience, does not impact any "Over Time" effects except for ones that specifically drain health. This means that effects like [Wither](Status_Effects.md#wither) and Ether Drain are unaffected.

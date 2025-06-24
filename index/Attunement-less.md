@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 147779
+revid: 147832
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1724,7 +1724,7 @@ Slash
 
 **Effect:** _User unleashes 2 slashes, the first moving them forward, the second launching them backwards._
 
--   Deals 18.75/21.25/23.75/26.25/28.25 base damage per level, per hit (2) with 1.65 Medium Weapon scaling.
+-   Deals 9.375+18.75/10.625+21.25/11.875+23.75/13.25+26.25/14.125+28.25 base damage per level with 1.65 Medium Weapon scaling.
 -   Deals 6.75 posture damage per hit (2).
 -   Initial hit has a wind-up of 0.5s, with the follow-up attack having a 0.4s wind-up.
 -   Twincleave has an endlag of 0.4s.

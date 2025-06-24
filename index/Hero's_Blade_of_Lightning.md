@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Lightning"
-revid: 146944
+revid: 147818
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Lightning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items, Medium Weapons]
@@ -8,7 +8,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 
 # Hero's Blade of Lightning
 
-| Hero Blade of Lightning | |
+| Hero's Blade of Lightning | |
 |---|---|
 | type | Elemental Weapon |
 | requirements | 75 LTN, LVL 11 |
@@ -24,7 +24,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
 | description | “A blade said to be enruned with a passage of the song, it evokes the hair-raising trepidation for the incoming storm.” |
 
-The Hero Blade of Lightning is an elemental weapon and the [Thundercall](Thundercall.md) variation of the [Hero Blades](Hero_Blades.md).
+The Hero's Blade of Lightning is an elemental weapon and the [Thundercall](Thundercall.md) variation of the [Hero Blades](Hero_Blades.md).
 
 Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades. At max ELE, the damage is (28.3) for all the Hero Blades.
 

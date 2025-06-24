@@ -1,6 +1,6 @@
 ---
 title: Den Master
-revid: 139468
+revid: 147828
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant]
@@ -16,7 +16,7 @@ categories: [Felinor NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant]
 
 ## Description
 
-The Den Master is a Felinor that sells Tier 1 and 2 [Mantra Modifiers](Mantra_Modifiers.md)
+The Den Master is a [Felinor](Felinor.md) that sells Tier 1 and 2 [Mantra Modifiers](Mantra_Modifiers.md)
 
 -   The Den Master sells Crystal Lens and Perfect Lenses (Further mantra projectile range), Drift Shards and Rush Shards (Faster mantra projectile speed), Cloudstones and Stratus Stones (Larger mantra size), Aeon Logstones and Eternal Logstones (Extended mantra duration), and Amnesic Driftwood (Removes mantra modifiers).
 -   Great for getting Mantra Modifiers without killing mobs for them (Bandits, Megalodaunts, Rock Golems, etc.)

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 147697
+revid: 147854
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -521,6 +521,7 @@ Fire
 
 -   Deals 43.06 (47.92 with 6 songchant) DMG, 14 posture per hit, 20s duration, 40s CD.
 -   Has 9.18x PVE scale (43.06 PVP, 395.25 PVE DMG)
+-   Cannot stun players. This Mantra is heavily incentivized for use in PvE.
 -   Inflicts Burn.
 -   Has damage falloff at range, scaling from where the player is in reference to the target **not** where the sentinel is.
 -   Can be grabbed by your Flame Grab (Bug).

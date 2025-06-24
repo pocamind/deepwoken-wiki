@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147765
+revid: 147853
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1392,8 +1392,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
     -   Durability of Orbital Ice is equal to "Frostdraw investment ÷ 4", reaching 25 at 100 Frostdraw.
     -   Cooldown of 90 seconds.
+    -   If you have the Refreeze Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs bottom freeze will reduce Orbital Ice's cooldown by 5 seconds. This procs regardless of Bottom Freeze's cooldown.
     -   Mutual Exclusive: Fists of Fortitude
-    -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Fists of Fortitude.
     -   Prerequisite: 65 Frostdraw
 
 ### Frozen Warrior
@@ -1412,6 +1412,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Tempest Wind \[Galebreathe Exclusive\] - Cast Wind Blade while sliding to unleash a quick whirlwind attack.
     -   Will also proc after a slide jump.
+    -   Has 45 base damage with 2.75 Galebreathe scaling at level 5, meaning it will deal very high damage. On par with some of the stronger Mantras like [Flame Grab](Flamecharm.md#flame-grab).
+    -   If you have the Tempest Evolution Talent from [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), the damage and hitbox of Tempest Wind increases. On top of this, you now gain a 20% damage boost while airborne for a short duration after proccing Tempest Wind.
     -   Prerequisites: [Wind Blade](Galebreathe.md#wind-blade) (Mantra), 20 Galebreathe.
 
 ### Gale Kata
@@ -1630,6 +1632,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
     -   Prevents you from rotating your character and moving around overall.
+    -   If you have the Refreeze Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs bottom freeze will reduce Orbital Ice's cooldown by 5 seconds. This procs regardless of Bottom Freeze's cooldown.
     -   Prerequisite: 25 Frostdraw
 
 -   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether.
@@ -1955,8 +1958,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
 
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
+    
     -   Has scaling, but it barely exists.[\[3\]](#cite-note-3)
     -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
+        
 
 ### Leader
 
@@ -2299,7 +2304,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   This Talent also **works** with [Jus Karita](Jus_Karita.md) but won't come out on your Talent hands unless you have any **Fist Style** equipped.
     -   Prerequisites: Fists, 20 Fortitude, 20 Light Weapon
     -   Mutual Exclusive: Orbital Ice
-        -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
@@ -2754,9 +2758,15 @@ _**"My cure is most effective."**_
 > _**"I am a self-starter."**_
 
 -   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried applies Jumpstart, increasing your ability to scale walls, your speed and applies shock to all outgoing physical damage and damage taken. Grants a +10% damage multiplier.
+    -   Deals 15% of your maximum health as self damage on cast.
+    -   Self Applies Shock/1 Surge Rod on proc, this can be used to interrupt any attacks you're currently using.. assuming you can cast Static Withdraw during them anyways.
+    -   If you have the Storm Mastery Talent from [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), the self damage and self shock/stun from casting Static Withdraw is removed entirely.
     -   Prerequisites: 35 Thundercall, Static Withdraw
 
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your Jumpstart physical damage is increased up to +20%. The self damage to activate it is lowered. Your cooldown on Jumpstart is also lowered.
+    -   Deals 5% of your maximum health as self damage on cast.
+    -   Self Applies Shock/1 Surge Rod on proc, this can be used to interrupt any attacks you're currently using.. assuming you can cast Static Withdraw during them anyways.
+    -   If you have the Storm Mastery Talent from [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), the self damage and self shock/stun from casting Static Withdraw is removed entirely.
     -   Prerequisites: 35 Thundercall, Jumpstart
 
 ### Septicemia
@@ -2781,7 +2791,7 @@ _**"My cure is most effective."**_
 -   Tainted Ground \[Common Talent\] - Enemies who stand in blood pools will not decay blood poison.
     -   Prerequisite: 30 Bloodrend
 
--   Vasculitis \[Common Talent\] - Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration (Must hit them while they are over 20% BP.)
+-   Vasculitis \[Common Talent\] - Your opponent cannot proc deep gems if they have over 30% blood poisoning for a brief duration (Must hit them while they are over 30% BP.)
     -   Prerequisite: 40 Bloodrend, 35 Intelligence
 
 ### Shadowcast Master
@@ -4008,6 +4018,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Your flourish timer lasts longer with fists.
     -   Increases your flourish timer while using [Fists](Fists.md) from 2 seconds to 3 seconds.
 -   Fleetfoot: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
+-   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 10% armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
 -   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
@@ -4056,6 +4067,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Increases _[Katana](Katana.md)_ damage by 25%.
     -   Increases _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md#alloyed)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
+-   Refreeze: [Icebringer's Vestments](<Icebringer's_Vestments.md>) - Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 -   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining.
     -   Combining this Talent with excavator gives you a chance to get 4 ores at a time.
@@ -4067,9 +4079,11 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) M1s now apply burn/eruptions. This has no cooldown.
         -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 10% less damage from airborne enemies.
+-   Static Mastery: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Your static withdraw no longer deals damage nor stuns you.
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 -   Surestep: [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
+-   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - If you land a Tempest Wind, you deal 20% more damage in the air for a few seconds. Your Tempest Wind is also naturally stronger.
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
     -   Procs even if your critical cannot be canceled (Hyper Armor).
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
@@ -4083,6 +4097,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   13 second cooldown.
 -   Umami: [Chef's Toque](<Chef's_Toque.md>) - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
+-   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.03.
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
     -   [Umbrite Witherblade](Umbrite_Witherblade.md) also (supposedly) gains the full 25% Wither.

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 145998
+revid: 147823
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -142,6 +142,7 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
     -   Prior to the October 11th 2024 update, Mudskipper Broodlords could see through walls, as well as behind themselves. Clickers are known for their hearing.
 -   They have 15,000 health when corrupted - the exact same amount of health Duke has.
 -   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move.
+-   They used to deal more damage and used Broodrot Smash and Rotten Mudtoss more frequently being one of the, if not the hardest mob ever, they were nerfed at an unknown point during Late 2024/Early 2025 reducing the damage of its punch and left hook and only using Broodrot Smash to grip and stopped using Rotten Mudtoss.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 147458
+revid: 147835
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -121,7 +121,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
 -   **Hero's Assist** is a passive ability that relies on the summoning of the past heroes of the attunements themselves to aid you in battle.
 -   Which hero is summoned and their effect is dependent on the current Saint Stance.
 -   Each passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
-    -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent _**The Floor is Lava**_.
+    -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent _**[The Floor is Lava](https://deepwoken.fandom.com/wiki/Talents#The_Floor_is_Lava)**_.
     -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting, block-breaking an enemy with a mantra, or taking damage while casting a mantra (can be from any source), summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _Tornado_ at the enemy, while also suffocating and knocking them away.
     -   **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
     -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing chill or applying crystals.
