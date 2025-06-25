@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 147951
+revid: 147963
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -35,24 +35,24 @@ Pulled from [Talents](Talents.md) for immediate reference.
 
 **Strength (STR):**
 
-1.  [Exclusive](#exclusive)
-2.  [Body and Mind](#body-and-mind-hybrids)
-    1.  [Agility (AGL)](#agility-hybrids)
-    2.  [Willpower (WIL)](#willpower-hybrids)
-3.  [Weapon (WEP)](#weapon-hybrids)
-4.  [Attunement (ELM)](#attunement-hybrids)
-    1.  [Galebreathe (WND)](#galebreathe-hybrids)
+1.  [Exclusive](#exclusive-210)
+2.  [Body and Mind](#body-and-mind-hybrids-211)
+    1.  [Agility (AGL)](#agility-hybrids-212)
+    2.  [Willpower (WIL)](#willpower-hybrids-213)
+3.  [Weapon (WEP)](#weapon-hybrids-214)
+4.  [Attunement (ELM)](#attunement-hybrids-215)
+    1.  [Galebreathe (WND)](#galebreathe-hybrids-216)
 
-## Exclusive
+## Exclusive 2.1.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
 | File:TalentCardImage2.png | Collapsed Lung  
 Annihilator;4.11a | 100STR | Block breaking an opponent closes off their ability to Vent for 3s. |
 
-## Body and Mind Hybrids
+## Body and Mind Hybrids 2.1.1
 
-### Agility Hybrids
+### Agility Hybrids 2.1.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ Annihilator;4.11a | 100STR | Block breaking an opponent closes off their ability
 Acrobat;4.1b | 10STR  
 10AGL | You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility) |
 
-### Willpower Hybrids
+### Willpower Hybrids 2.1.3
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ Apex Predator;4.12a | 5STR
 | File:TalentCardImage2.png | Grand Feast  
 Apex Predator;4.12b | Carnivore;4.12a | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
 
-## Weapon Hybrids
+## Weapon Hybrids 2.1.4
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -78,9 +78,9 @@ Apex Predator;4.12b | Carnivore;4.12a | Regain tempo, ether, blood and health wh
 Aerial Dancer;4.4a | 15STR  
 25WEP | You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead. |
 
-## Attunement Hybrids
+## Attunement Hybrids 2.1.5
 
-### Galebreathe Hybrids
+### Galebreathe Hybrids 2.1.6
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -92,15 +92,15 @@ Aeromancer;4.5e | Suffocating Impact;4.5d (Talent) | Enemies who jump while suff
 
 **Fortitude (FTD):**
 
-1.  [Body and Mind](#body-and-mind-hybrids)
-    1.  [Agility (AGL)](#agility-hybrids)
-    2.  [Intelligence (INT)](#intelligence-hybrids)
-2.  [Oaths](#oaths)
-    1.  [Arcwarder](#arcwarder)
+1.  [Body and Mind](#body-and-mind-hybrids-220)
+    1.  [Agility (AGL)](#agility-hybrids-221)
+    2.  [Intelligence (INT)](#intelligence-hybrids-222)
+2.  [Oaths](#oaths-223)
+    1.  [Arcwarder](#arcwarder-224)
 
-## Body and Mind Hybrids
+## Body and Mind Hybrids 2.2.0
 
-### Agility Hybrids
+### Agility Hybrids 2.2.1
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -111,7 +111,7 @@ Alley Cat;4.7a | 25FTD
 | File:TalentCardImage2.png | Conditioned Runner  
 Alley Cat;4.7c | Endurance Runner;4.7a (Talent), [Scaredy Cat;4.7b](Talents.md#alley-cat) (Talent) | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
 
-### Intelligence Hybrids
+### Intelligence Hybrids 2.2.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -120,9 +120,9 @@ Alchemist;4.6e | 15FTD
 30INT  
 "Drank Potion" | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
-## Oaths
+## Oaths 2.2.3
 
-### Arcwarder
+### Arcwarder 2.2.4
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -149,14 +149,14 @@ Arcwarder;4.13f | Arcwarder;4.13a
 
 **Agility (AGL):**
 
-1.  [Exclusive](#exclusive)
-2.  [Body and Mind](#body-and-mind-hybrids)
-    1.  [Strength (STR)](#strength-hybrids)
-    2.  [Fortitude (FTD)](#fortitude-hybrids)
-3.  [Attunement (ELM)](#attunement-hybrids)
-    1.  [Galebreathe (WND)](#galebreathe-hybrids)
+1.  [Exclusive](#exclusive-230)
+2.  [Body and Mind](#body-and-mind-hybrids-231)
+    1.  [Strength (STR)](#strength-hybrids-232)
+    2.  [Fortitude (FTD)](#fortitude-hybrids-233)
+3.  [Attunement (ELM)](#attunement-hybrids-234)
+    1.  [Galebreathe (WND)](#galebreathe-hybrids-235)
 
-## Exclusive
+## Exclusive 2.3.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -167,9 +167,9 @@ Alley Cat;4.7b | 5AGL | When enemies initiate a fight first, gain a speed boost.
 | File:TalentCardImage2.png | Kick Off  
 Acrobat;4.1a | 20AGL | You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility) |
 
-## Body and Mind Hybrids
+## Body and Mind Hybrids 2.3.1
 
-### Strength Hybrids
+### Strength Hybrids 2.3.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -177,7 +177,7 @@ Acrobat;4.1a | 20AGL | You easily brush off shorter falls, taking no damage. You
 Acrobat;4.1b | 10AGL  
 10STR | You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility) |
 
-### Fortitude Hybrids
+### Fortitude Hybrids 2.3.3
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -188,9 +188,9 @@ Alley Cat;4.7a | 25AGL
 | File:TalentCardImage2.png | Conditioned Runner  
 Alley Cat;4.7c | Endurance Runner;4.7a (Talent), Scaredy Cat;4.7b (Talent) | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
 
-## Attunement Hybrids
+## Attunement Hybrids 2.3.4
 
-### Galebreathe Hybrids
+### Galebreathe Hybrids 2.3.5
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -200,12 +200,12 @@ Aeromancer;4.5a | 30AGL
 
 **Intelligence (INT):**
 
-1.  [Exclusive](#exclusive)
-2.  [Body and Mind](#body-and-mind-hybrids)
-    1.  [Fortitude (FTD)](#fortitude-hybrids)
-    2.  [Willpower (WIL)](#willpower-hybrids)
+1.  [Exclusive](#exclusive-240)
+2.  [Body and Mind](#body-and-mind-hybrids-241)
+    1.  [Fortitude (FTD)](#fortitude-hybrids-242)
+    2.  [Willpower (WIL)](#willpower-hybrids-243)
 
-## Exclusive
+## Exclusive 2.4.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -231,9 +231,9 @@ All-Knowing;4.8a | 80INT | You now gain +1% Mantra PEN for every 10 point of Int
 | File:TalentCardImage2.png | Neural Overload  
 Adept Caster;4.3b | 85INT | You can input up to 4 copies of each Mantra ingredient instead of being limited to 3. |
 
-## Body and Mind Hybrids
+## Body and Mind Hybrids 2.4.1
 
-### Fortitude Hybrids
+### Fortitude Hybrids 2.4.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -242,7 +242,7 @@ Alchemist;4.6e | 30INT
 15FTD  
 "Drank Potion" | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
-### Willpower Hybrids
+### Willpower Hybrids 2.4.3
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -253,11 +253,11 @@ Alchemist;4.6e | 30INT
 
 **Willpower (WIL):**
 
-1.  [Exclusive](#exclusive)
-2.  [Body and Mind](#body-and-mind-hybrids)
-    1.  [Intelligence (INT)](#intelligence-hybrids)
+1.  [Exclusive](#exclusive-250)
+2.  [Body and Mind](#body-and-mind-hybrids-251)
+    1.  [Intelligence (INT)](#intelligence-hybrids-252)
 
-## Exclusive
+## Exclusive 2.5.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -267,9 +267,9 @@ Apex Predator;4.12a | 5WIL
 | File:TalentCardImage2.png | Grand Feast  
 Apex Predator;4.12b | Carnivore;4.12a | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
 
-## Body and Mind Hybrids
+## Body and Mind Hybrids 2.5.1
 
-### Intelligence Hybrids
+### Intelligence Hybrids 2.5.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -284,12 +284,12 @@ Alchemist;4.6e | 15 WIL
 
 **Heavy (HVY):**
 
-1.  [Body and Mind](#body-and-mind-hybrids)
-    1.  [Strength (STR)](#strength-hybrids)
+1.  [Body and Mind](#body-and-mind-hybrids-310)
+    1.  [Strength (STR)](#strength-hybrids-311)
 
-## Body and Mind Hybrids
+## Body and Mind Hybrids 3.1.0
 
-### Strength Hybrids
+### Strength Hybrids 3.1.1
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -299,12 +299,12 @@ Aerial Dancer;4.4a | 25HVY(25WEP)
 
 **Medium (MED):**
 
-1.  [Body and Mind](#body-and-mind-hybrids)
-    1.  [Strength (STR)](#strength-hybrids)
+1.  [Body and Mind](#body-and-mind-hybrids-320)
+    1.  [Strength (STR)](#strength-hybrids-321)
 
-## Body and Mind Hybrids
+## Body and Mind Hybrids 3.2.0
 
-### Strength Hybrids
+### Strength Hybrids 3.2.1
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -314,12 +314,12 @@ Aerial Dancer;4.4a | 25MED(25WEP)
 
 **Light (LHT):**
 
-1.  [Body and Mind](#body-and-mind-hybrids)
-    1.  [Strength (STR)](#strength-hybrids)
+1.  [Body and Mind](#body-and-mind-hybrids-330)
+    1.  [Strength (STR)](#strength-hybrids-331)
 
-## Body and Mind Hybrids
+## Body and Mind Hybrids 3.3.0
 
-### Strength Hybrids
+### Strength Hybrids 3.3.1
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -331,20 +331,20 @@ Aerial Dancer;4.4a | 25LHT(25WEP)
 
 **Flamecharm (FIR):**
 
-1.  [Exclusive](#exclusive)
-2.  [Oaths](#oaths)
-    1.  [Arcwarder](#arcwarder)
+1.  [Exclusive](#exclusive-410)
+2.  [Oaths](#oaths-411)
+    1.  [Arcwarder](#arcwarder-412)
 
-## Exclusive
+## Exclusive 4.1.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
 |  | Flame Within  
 Amoran Seeker;4.9a | 25FIR | An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage. |
 
-## Oaths
+## Oaths 4.1.1
 
-### Arcwarder
+### Arcwarder 4.1.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -373,12 +373,12 @@ Arcwarder;4.13f | Arcwarder;4.13a
 
 **Thundercall (LTN):**
 
-1.  [Oaths](#oaths)
-    1.  [Arcwarder](#arcwarder)
+1.  [Oaths](#oaths-430)
+    1.  [Arcwarder](#arcwarder-431)
 
-## Oaths
+## Oaths 4.3.0
 
-### Arcwarder
+### Arcwarder 4.3.1
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -405,12 +405,12 @@ Arcwarder;4.13f | Arcwarder;4.13a
 
 **Galebreathe (WND):**
 
-1.  [Exclusive](#exclusive)
-2.  [Body and Mind](#body-and-mind-hybrids)
-    1.  [Strength (STR)](#strength-hybrids)
-    2.  [Agility (AGL)](#agility-hybrids)
+1.  [Exclusive](#exclusive-440)
+2.  [Body and Mind](#body-and-mind-hybrids-441)
+    1.  [Strength (STR)](#strength-hybrids-442)
+    2.  [Agility (AGL)](#agility-hybrids-443)
 
-## Exclusive
+## Exclusive 4.4.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -424,9 +424,9 @@ Aeromancer;4.5f | 20WND
 Aeromancer;4.5c | 50WND  
 Wind Step (Talent) | Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. |
 
-## Body and Mind Hybrids
+## Body and Mind Hybrids 4.4.1
 
-### Strength Hybrids
+### Strength Hybrids 4.4.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -436,7 +436,7 @@ Aeromancer;4.5d | 35WND
 |  | Stifled Jump  
 Aeromancer;4.5e | Suffocating Impact;4.5d (Talent) | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
 
-### Agility Hybrids
+### Agility Hybrids 4.4.3
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -448,9 +448,9 @@ Aeromancer;4.5a | 35WND
 
 **Ironsing (MTL):**
 
-1.  [Exclusive](#exclusive)
+1.  [Exclusive](#exclusive-460)
 
-## Exclusive
+## Exclusive 4.6.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |

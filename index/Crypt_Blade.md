@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 147090
+revid: 147967
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Heart of Enmity, Ministry Agent, The Ferryman, Sea Events, Weird Trader, Lodestar |
+| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Heart of Enmity, Ministry Agent, The Ferryman, Sea Events, Weird Trader, Lodestar, Sold in Trahne Zakshun's black market for |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description

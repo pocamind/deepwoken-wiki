@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147928
+revid: 147962
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3893,7 +3893,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: [Power](Power.md) 10
     -   Mutual Exclusive: Everchanging Aegis
 
--   Star Duster \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take 10% less damage from airborne enemies.
+-   Star Duster \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take 30% less damage from airborne enemies.
     -   Obtained from [Star Duster](Star_Duster.md)
     -   Requirements for Equipment: [Power](Power.md) 10
 
@@ -4081,7 +4081,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Simmerbloom: [Simmerbloom Diadem](Simmerbloom_Diadem.md) - M1's on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) M1s now apply burn/eruptions. This has no cooldown.
         -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
--   Star Duster: [Star Duster](Star_Duster.md) - You take 10% less damage from airborne enemies.
+-   Star Duster: [Star Duster](Star_Duster.md) - You take 30% less damage from airborne enemies.
 -   Static Mastery: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Your static withdraw no longer deals damage nor stuns you.
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 -   Surestep: [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.

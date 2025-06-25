@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 147938
+revid: 147965
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -154,7 +154,6 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Metal drain has 200 durability cap and armor recovery has 150 durability cap.<br>
   Calculator for Metal: <a href="https://www.desmos.com/calculator/ucfiwui0q4">https://www.desmos.com/calculator/ucfiwui0q4</a> (By Inteque)<br>
   You can still gain armor off even if target has none.<br>
-  Useless/Harmful in PVE, because it doesn't let you stagger mobs anymore<br>
   </p></div></td>
   <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>
@@ -215,10 +214,16 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Stone<div></div></font></center></td>
-  <td><div><p>Grants increased posture damage to M1s. Your weapon guard breaks deal 3 additional damage.<br>
-  Stone posture calculation is: DMG/9.5+0.5+BASE POSTURE DAMAGE<sup><a href="#cite-note-2">[2]</a></sup><br>
-  Example:Stone Iron Blunderbuss M1 deals:51/9.5+0.5+5.48 = 11.44 posture<br>
-  Doesn't give extra chip DMG despite what Stone's ingame description states.</p></div></td>
+  <td><div><p>Grants increased posture damage to M1s. Your M1 guard breaks deal additional damage.<br>
+  Stone doesn't give extra chip damage despite what the ingame description states.</p>
+  <p><br>
+  Stone's posture calculation is 1 + (scaled damage/9.5), capping at 6 additional posture. This is additive to your weapon's base posture.<br>
+  Stone's additional damage on guard break is 25% of your weapon's weight stat (with Stone's posture damage included) before modifiers added to your guard break. Because this is effectively an increase to your weapon's scaled damage on guard break, damage modifiers will be based off the posture break damage with Stone included.</p>
+  <p><small>For example, let's say you have a 40 scaled damage Sovereign's Punishment. As a reminder, this weapon has 13 Weight.</small><br>
+  <small>The increased posture damage would look like this: 1 + (40/9.5) = 1 + 4.21 = 5.21 additional posture damage on M1s, bringing your total posture damage to 18.21.</small><br>
+  <small>The additional guard break damage would look like this: (13 + 5.21) x 0.25 = 4.55 additional guard break damage on M1s.</small></p>
+  <p><br>
+  <b>Stone only works on M1s</b></p></div></td>
   <td><div>Weapon turns brown and gains a stone texture.</div></td>
 </tr>
 <tr>
@@ -299,7 +304,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   due to this, fighting low iron investment alloy blood leads to more blood DMG.<br>
   Blood DMG not affected by DMG modifiers and blood DMG multipliers (such as alloyblood, cauterized wounds, haemophilia), BUT affected by damage reduction and armor resistances<br>
   When missing an light attack (dodge, parry, crit and block are not a miss), lose 2% of total blood.<br>
-  Source: <sup><a href="#cite-note-3">[3]</a></sup></p></div></td>
+  Source: <sup><a href="#cite-note-2">[2]</a></sup></p></div></td>
   <td><div>Weapon is completely red, surrounded by a red aura.<br>
   When sheathed, the weapon keeps their base color.</div></td>
 </tr>
@@ -793,7 +798,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
         
         
         _
-    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[4\]](#cite-note-4) and still holds that sentiment to this day.
+    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[3\]](#cite-note-3) and still holds that sentiment to this day.
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
     -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment itself.
 -   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
@@ -817,9 +822,8 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
     
     File:Arch sear pen.png
     
-2.  [↑](#cite-ref-2) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))
-3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=wX-crHmTLV8](https://www.youtube.com/watch?v=wX-crHmTLV8)
-4.  [↑](#cite-ref-4)
+2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=wX-crHmTLV8](https://www.youtube.com/watch?v=wX-crHmTLV8)
+3.  [↑](#cite-ref-3)
 
   
 
