@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 147896
+revid: 147970
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -450,7 +450,7 @@ _Create a giant blood beam._
  |
 | 
 
-\[missing, add\]
+40 Ether
 
  | 
 

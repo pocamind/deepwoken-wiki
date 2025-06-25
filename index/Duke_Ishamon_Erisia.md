@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 147957
+revid: 147968
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -24,7 +24,7 @@ He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before the Gre
 
 While Duke Erisia is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him. With a [Stone](Enchantments.md) 10+ Weight Weapon such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) or the [Pale Briar](Pale_Briar.md), combined with a [Heavy Hands Ring](Equipment.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can obliterate his posture and guardbreak him with every M1.
 
-After completing his ''Memories of Home'' challenge in the Bestiary, extra information is revealed about him: ''The Duke is known to have witnessed the Submergence of Celtor, an event that may well have set him down the path he chose.''
+After completing his "Memories of Home" challenge in the Bestiary, extra information is revealed about him: "The Duke is known to have witnessed the Submergence of Celtor, an event that may well have set him down the path he chose."
 
 ## Moveset
 

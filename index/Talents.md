@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 147962
+revid: 147978
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -838,7 +838,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Getting hit will cancel the effect entirely.
     -   Getting your block hit counts as being hit.
     -   Prerequisites: [Reinforce](Attunement-less.md#reinforce) (Mantra), 40 Shadowcast, 40 Fortitude
-    -   **(Note that Reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
+        -   **(Note that Reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.
     -   Heal others by 3%.
@@ -846,7 +846,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Hold your block key while casting Reinforce to apply reinforce to everyone, including non allies. (This is a default feature of Reinforce.)
     -   Only procs on allies.
     -   Prerequisites: [Reinforce](Attunement-less.md#reinforce) (Mantra), 40 Fortitude
-        -   **(Note that reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
+        -   **(Note that Reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
 
 ### Contractor
 

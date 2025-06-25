@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Beak
-revid: 139891
+revid: 147979
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Beak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Monster Mantra Ingredients]
@@ -20,7 +20,7 @@ categories: [Items, Drops, Monster Mantra Ingredients]
 
 ## Description
 
-The **Nautilodaunt Beak** can be used to gain the "Abyssal Ridge" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md). It is also used as an ingredient in making the Master Armor "[Cala-Mariner](Cala-Mariner.md)." It can be obtained as rare drop from either the [Nautilodaunt](Nautilodaunt.md) or the [Fury Nautilodaunt](Nautilodaunt.md), and cannot be dropped alongside every other rare monster part.
+The **Nautilodaunt Beak** is a rarely dropping item that can be used to gain the "Abyssal Ridge" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md). It is also used as an ingredient in making the Master Armor "[Cala-Mariner](Cala-Mariner.md)." It can be obtained as rare drop from either the [Nautilodaunt](Nautilodaunt.md) or the [Fury Nautilodaunt](Nautilodaunt.md), and cannot be dropped alongside every other rare monster part.
 
 ## Trivia
 

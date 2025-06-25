@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 147965
+revid: 147972
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -313,7 +313,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the No Life King<div></div></font></center></td>
   <td><div><p>While held, gain increased passive health regen scaling with your weapon stat investment. Every M1 adds 2% insanity to the opponent.<br>
   <br>
-  Permanently stained health bar while the weapon is equipped. (Having this weapon currently equipped will render you at 1 life in PVE combat, this doesn't change anything in PvP. Unequipping it from your character will restore that life, (assuming NLK actually took one away in the first place.)<br>
+  Permanently stained health bar while the weapon is equipped. (Having this weapon currently equipped will render you at 1 life. Unequipping it from your character will restore that life, (assuming NLK actually took one away in the first place.))<br>
+  The health regeneration caps at 100 total weapon investment.<br>
   Take 2x blood damage from all sources when in the overworld.<br>
   Healing potions heal you less.<br>
   When held in The Depths, lose 2 sanity per second.<br>

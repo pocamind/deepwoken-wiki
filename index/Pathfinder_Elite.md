@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 147111
+revid: 147975
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Drops, Coats]
@@ -21,17 +21,14 @@ categories: [Items, Equipment, Arms, Drops, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare Drop from NautilodauntsReward from Weird Trader, The Diluvian Mechanism Wave 50 |
+| obtainment | Rare Drop from Nautilodaunts, Reward from Weird Trader, The Diluvian Mechanism Wave 50 |
 | description | "..." |
 
 ## Description
 
 The Pathfinder Elite is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 5% Damage Vs Monsters and 2 Rare + 1 Legendary pip
 
--   Can be obtained as a drop from [Nautilodaunts](Nautilodaunt.md).
--   Can be commonly obtained as a drop from the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
-
-This can be considered the preferred Monster hunting armor, as due to its innate 5% DVM and having 4 rare pips and 2 legendary pips at 3 stars, it can have 16% Monster Armor along with +6% DVM for a total of 16% Monster armor, 11% dvm, and 3 health, which is the highest possible monster armor while having good dvm.
+This can be considered the preferred Monster hunting armor, as it's one of the very few ways to obtain the Damage vs Monsters stat after the removal of Damage vs Monsters pips. The only competition the Pathfinder Elite has for extra PvE damage is the [Megalodaunt Coat](Megalodaunt_Coat.md), as it boasts the same 5% Damage vs Monsters as an innate stat. Though, the Megalodaunt Coat lacks the Legendary pip that Pathfinder Elite has, making it inherently inferior.
 
 ## Additional notes:
 
