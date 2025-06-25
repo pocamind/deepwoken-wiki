@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 143881
+revid: 147955
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -61,10 +61,10 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 -   Do not try to block it's **Spinning** attack, as it will shred your posture quickly. However, parrying said move gives a lot of EXP, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. Aditionally, parrying the spinning attack with a weapon enchanted with Providence Thorns makes it way easier to kill.
 -   The **Spinning** attack can destroy the gate in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and terrain around it. Do not try hiding in specific spots like luring it to a tree.
 -   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking
--   These are known to attack you regardless if you have the "**Animal King**" Regalia or not, likely due to their nature as inorganic constructs, rather than animals.
+-   These are known to attack you regardless if you have the Mute Regalia or not, likely due to their nature as inorganic constructs, rather than animals.
 -   The uppercut is actually not an instant blockbreak; however, you need a lot of posture to block it.
 -   [Marcus](Marcus.md) seems to be a related golem, although he doesn't attack you on sight, drinks coffee and is infinitely more cool than the other Rock Golems as a result.
 -   You are able to interact with some of these golems, though nothing happens upon pressing the E key.
 -   It is possible to block the **Laser** using the pillars created by the [Relic Axe's](Relic_Axe.md) critical attack
 -   Rock Golems will always win their fights against Megladounts, due to having more health and do more damage and attacks.
--   One of the several mobs that gives one knowledge upon killing them for the first time. The other monsters are the [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Megalodaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md), **Rock Golem**, [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md), [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md), [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md), and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md).
+-   One of the several mobs that gives one Knowledge upon killing them for the first time. The other monsters are the [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Megalodaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md), **Rock Golem**, [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md), [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md), [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md), and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md).
