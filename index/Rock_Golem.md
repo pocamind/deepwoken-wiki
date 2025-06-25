@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 147955
+revid: 148015
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -19,7 +19,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Rock Golems** are large, bulky stone constructs with a distinct glowing white core, and three peculiar stone discs on their "stomach" and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless. They are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md). After the Duke found the Forge of Sin, the once protectors of the island turned on its inhabitants, now turned into mindless husks who do nothing but attack anything they see.
+**Rock Golems**, referred to as **Stonelife Golems** in the [Bestiary](Bestiary.md), are large, bulky stone constructs with a distinct glowing white core, and three peculiar stone discs on their "stomach" and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless. They are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md). After the Duke found the Forge of Sin, the once protectors of the island turned on its inhabitants, now turned into mindless husks who do nothing but attack anything they see.
 
 Rock Golems are only found in [Upper Erisia](Upper_Erisia.md), commonly in [Burning Stone Gardens](Burning_Stone_Gardens.md), and they can also be found through the following events:
 
@@ -54,17 +54,19 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 | --- | --- | --- |
 | Crushing Stomp |  | A Golem ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. This also executes any downed enemies nearby. |
 
+## Tips
+
+-   Occasionally a [Megalodaunt](Megalodaunt.md) (or [Terrapod](Terrapod.md)) will spawn near a Golem, causing a fight to break out. It's a good idea to use ranged mantras to sneak in a bit of EXP and when one loses, go in for the kill on the other as it will be weakened from the fight.
+-   Do not try to block it's **Spinning** attack, as it will shred your posture quickly. However, parrying said move gives a lot of EXP, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. Additionally, parrying the spinning attack with a weapon enchanted with [Providence Thorns](<Providence's_Thorns.md>) makes it way easier to kill.
+-   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking
+-   The uppercut is actually not an instant blockbreak; however, you need a lot of posture to block it.
+-   It is possible to block the **Laser** using the pillars created by the [Relic Axe](Relic_Axe.md)'s critical attack
+
 ## Trivia
 
--   The regular version of these Golems are fairly easy to kill with its moves being very slow and predictable. (Stat Check level: Power 8)
--   Occasionally a [Megalodaunt](Megalodaunt.md) (or [Terrapod](Terrapod.md)) will spawn near a Golem, causing a fight to break out. It's a good idea to use ranged mantras to sneak in a bit of EXP and when one loses, go in for the kill on the other as it will be weakened from the fight.
--   Do not try to block it's **Spinning** attack, as it will shred your posture quickly. However, parrying said move gives a lot of EXP, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. Aditionally, parrying the spinning attack with a weapon enchanted with Providence Thorns makes it way easier to kill.
--   The **Spinning** attack can destroy the gate in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and terrain around it. Do not try hiding in specific spots like luring it to a tree.
--   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking
--   These are known to attack you regardless if you have the Mute Regalia or not, likely due to their nature as inorganic constructs, rather than animals.
--   The uppercut is actually not an instant blockbreak; however, you need a lot of posture to block it.
--   [Marcus](Marcus.md) seems to be a related golem, although he doesn't attack you on sight, drinks coffee and is infinitely more cool than the other Rock Golems as a result.
+-   [Marcus](Marcus.md) seems to be related to the Golems, although he doesn't attack you on sight, drinks coffee and is infinitely more cool than the other Rock Golems as a result.
+-   The **Spinning** attack can destroy the gate in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and terrain around it, like trees.
 -   You are able to interact with some of these golems, though nothing happens upon pressing the E key.
--   It is possible to block the **Laser** using the pillars created by the [Relic Axe's](Relic_Axe.md) critical attack
+-   These are known to attack you regardless if you have the Mute Regalia or not, likely due to their nature as inorganic constructs, rather than animals.
 -   Rock Golems will always win their fights against Megladounts, due to having more health and do more damage and attacks.
 -   One of the several mobs that gives one Knowledge upon killing them for the first time. The other monsters are the [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Megalodaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md), **Rock Golem**, [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md), [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md), [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md), and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md).

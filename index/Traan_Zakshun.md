@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 147966
+revid: 147995
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -299,6 +299,7 @@ Sold Items
 
 -   Trahne Zakshun's name is a play on the word "transaction." This is only further reinstated by them being a merchant.
 -   Trahne Zakshun changed their name to that because they're a troll.[\[1\]](#cite-note-0-1)
+-   The Black Market dialogue "_You want it? It's yours my friend! So long as you have enough crowns."_ is a reference to Link: The Faces of Evil, said by Morshu.
 -   Nuttoons, one of Deepwoken's developers, had this to say about Trahne Zakshun: "they are a weirdo, they mug freshies for their garbage and bring it back to their little hoarding cave to sell off to schmucks". [\[1\]](#cite-note-0-1)
     -   This is much like the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Trahne, the loot bag gacha NPCs collect the loot off of corpses rather than getting their hands dirty themselves.
 

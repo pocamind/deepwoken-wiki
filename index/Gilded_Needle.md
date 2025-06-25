@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 147380
+revid: 147990
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -21,8 +21,6 @@ categories: [Relics]
 
 Crafted using 5 [Armorer's Needles](<Armorer's_Needle.md>) and 1 [Gold](Ores.md) (Can be Pure, can be crafted without a crafting bench)
 
-Obtained rarely as a reward for completing the [Carnival of Hearts](Carnival_of_Hearts.md) [World Event](World_Events.md). Additionally, this item can be rarely sold by [Trahne Zakshun](Traan_Zakshun.md) for 20 [Crowns](Crowns.md) when his black market rolls around.
+Obtained rarely as a reward for completing the [Carnival of Hearts](Carnival_of_Hearts.md) [World Event](World_Events.md). Additionally, this item can be rarely sold by [Trahne Zakshun](Traan_Zakshun.md) for when his black market rolls around.
 
 This Item is a Advanced version of the Armorer's Needle, Instead of the pip you choose being randomized you can select which pip you want on your equipment (e.g., exchanging an Ether pip for a HP pip).
-
-Do note that **Monster Armor** is only obtainable on **RARE** pips, and not legendary or anything lower than rare.

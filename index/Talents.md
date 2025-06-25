@@ -1,9 +1,11 @@
 ---
 title: Talents
-revid: 147978
+revid: 148003
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
+notices:
+  - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily."
 ---
 
 # Talents
@@ -692,7 +694,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 25 Agility
     -   Mutual Exclusives: Observation, Safety Dance
 
--   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
+-   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible, ending early if you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (2 seconds).
     -   Will also proc from dodging bleed, occurs when dodging a m1 late in high ping.
     -   Has a 20 second cooldown.
@@ -904,8 +906,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   There are small, blue, transparent "traps" indicating the hitboxes, placed randomly around the user.
     -   Can stack multiple times, allowing for very high amounts of traps in one spot.
     -   Extends the CD on Ice Spike by 5s to 20s total.
-    -   **NOTE:** This Talent has been "vaulted"; as of June 23rd 2025 and until further notice, **Spike Traps is no longer obtainable. For users who already have Spike Traps, activating it will only place 1 trap, no matter how many Cloud/Stratus Stones the Mantra was modified with.**
-    -   Prerequisites: [Ice Spikes](Frostdraw.md#ice-spikes) (Mantra), 30 Frostdraw
+    
+
+-   -   Prerequisites: [Ice Spikes](Frostdraw.md#ice-spikes) (Mantra), 30 Frostdraw
 
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst.
     -   Slows thirst drain by approximately 3 times.

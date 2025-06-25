@@ -1,9 +1,11 @@
 ---
 title: Thundercall
-revid: 147914
+revid: 148000
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
+notices:
+  - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily."
 ---
 
 # Thundercall
@@ -412,7 +414,6 @@ Lightning
 | 
 
 **Effect:** _Perform a gesture before conjuring strikes of lightning at the cursor's location, dealing moderate damage._  
-**NOTE:** This Mantra has been "vaulted"; as of June 23rd 2025 and until further notice, **Lightning Strike only performs one singular strike.**
 
 -   Deals 5/6/7/8/9 base damage per level, per hit (7 unmodified) with 2.75 Thundercall scaling. These damage values scale down the more duration modifiers you have on the Mantra.
 -   Deals 3.15 posture per hit.
@@ -497,7 +498,6 @@ Lightning
 | 
 
 **Effect:** _Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location._  
-**NOTE:** This Mantra has been "vaulted"; as of June 23rd 2025 and until further notice, **Bolt Piercer's cooldown is 5 minutes.**
 
 -   Has a base damage of 15/16/17/18/19 per level, per hit with 2.75 Thundercall scaling.
 -   Deals 3 posture per hit.

@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 147604
+revid: 147991
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items, Master Outfits, The Ignition Union]
@@ -26,7 +26,7 @@ The outfit has 3000 durability, grants +15% Frostdraw and Ironsing Armor, +35% E
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 44.75% Ironsing, 44.7% Frostdraw, and 35% Elemental.
 
-The [Force Your Way](Talents.md#ignition-deepdelver) Talent grants the player the ability to parry un-parryable attacks from large monsters at the cost of some armor durability, losing around 1%. Whenever an attack that's not normally parryable is parried, the armor will let off some sparks and steam (which is purely visual). Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
+The [Force Your Way](Talents.md#ignition-deepdelver) Talent grants the player the ability to parry un-parryable attacks from large monsters at the cost of some armor durability. The armor durability lost is based on the damage the attack would've done. Whenever an attack that's not normally parryable is parried, the armor will let off some sparks and steam (which is purely visual). Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
 
 This effect is also given by the arms equipment [Ignition Gauntlets](Ignition_Gauntlets.md), as well as a similar one from the [Grand Fisher Plate](Grand_Fisher_Plate.md).
 
@@ -46,7 +46,6 @@ This Outfit's Schematic can be found in:
 -   There are some attacks that cannot be parried even with Deepdelver on. These include (not exhaustive):
     -   **Pillars of Erisia** ([Duke Erisia](Duke_Ishamon_Erisia.md))
     -   **Cero** ([Lionfish](Lionfish.md))
+    -   **Golem Lasers** ([Rock Golem](Rock_Golem.md)/[Golem Prime](Golem_Prime.md))
     -   All of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) non-parryable attacks
-    -   [Kyrsieger](Kyrsieger.md)'s critical
-    -   The last hit of **Mortal Draw: Floating Passage** ([Maestro Evengarde Rest](Maestro_Evengarde_Rest.md))
-    -   [Maestro's](Maestro_Evengarde_Rest.md) Tempest Eye
+    -   [Maestro's](Maestro_Evengarde_Rest.md) **Tempest Eye**

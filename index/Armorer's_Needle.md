@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 142927
+revid: 147988
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -86,16 +86,6 @@ When changing a pip, they will turn into any of the relevant, available pip for 
   <td>1 2</td>
 </tr>
 <tr>
-  <td>%Damage vs. Monsters (Monster DMG)</td>
-  <td>1 3</td>
-  <td>1 3</td>
-  <td>1 3</td>
-  <td>1 3</td>
-  <td>1</td>
-  <td>1</td>
-  <td>1 3</td>
-</tr>
-<tr>
   <td>%Physical Armor (PHY Armor)</td>
   <td>2 4</td>
   <td>2 4</td>
@@ -109,16 +99,6 @@ When changing a pip, they will turn into any of the relevant, available pip for 
   <td>%Elemental Armor (ELM Armor)</td>
   <td>3 4</td>
   <td>3 4</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>%Monster Armor (also gives 1% PHY and ELM)</td>
-  <td>4</td>
-  <td>4</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>

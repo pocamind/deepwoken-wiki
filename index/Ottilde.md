@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 145343
+revid: 147987
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -17,6 +17,8 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignit
 ## Description
 
 Ottilde is a Chrysid NPC that seems to be working for [The Ignition Union](The_Ignition_Union.md), she talks to you about her past.
+
+She is wearing the [Ignition Welder](Ignition_Welder.md) outfit.
 
 ## Location
 

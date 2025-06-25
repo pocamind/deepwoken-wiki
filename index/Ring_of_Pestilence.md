@@ -1,6 +1,6 @@
 ---
 title: Ring of Pestilence
-revid: 144479
+revid: 147982
 source: https://deepwoken.fandom.com/wiki/Ring_of_Pestilence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -26,4 +26,4 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Ring Of Pestilence** is a Ring [Equipment](Equipment.md) piece that applies 50% anti-heal for 5 seconds to your weapon.
+**Ring Of Pestilence** is a Ring [Equipment](Equipment.md) piece, that applies 50% anti-heal for 5 seconds to your opponents after hitting them with an M1.
