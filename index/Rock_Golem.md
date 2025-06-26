@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 148015
+revid: 148053
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -13,9 +13,7 @@ categories: [Monsters]
 ― Alastir, Pathfinder of Erisia
 
   
-_Also referred to as Erisia Golem, Duke's Golems, or simply, Golems._
-
-Template:Creature Infobox V3
+_Also referred to as Erisia Golem, Duke's Golems, or simply, Golems._ Template:Creature Infobox V3
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 141867
+revid: 148090
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -36,12 +36,12 @@ Brainsuckers are a [monster](Monsters.md) that spawns alone above the waves of t
 ## Tips
 
 -   Their attacks, particularly Bite, have very strange hitboxes, making parrying them difficult. This, combined with its low damage, makes it more worthwhile to simply mash your basic attack until it dies.
--   Landing [Ice Lance](Frostdraw.md) on them will cause them to be flung incredibly far, meaning putting a wayward on it may lead to you being sent incredibly far.
+-   Landing [Ice Lance](Frostdraw.md#ice-lance) on them will cause them to be flung incredibly far, meaning putting a wayward on it may lead to you being sent incredibly far.
 -   They seriously aren't a threat. Even as a level 1, you can just stat check it.
 
 ## Trivia
 
--   The Brainsuckers’ name may be a reference to the enemy of the same name from [Bloodborne](https://bloodborne.wiki.fextralife.com/Brainsucker).
+-   The Brainsuckers’ name may be a reference to the [enemy of the same name](https://bloodborne.wiki.fextralife.com/Brainsucker) from _Bloodborne_.
 -   Ironically, the Brainsucker does not actually suck brains.
     -   The original concept art depicts them opening their mouths to latch onto human heads, this is likely the derivation of the name. However, this has yet to be implemented.
 -   Cancelling a Brainsuckers gripping animation may cause whoever is being gripped to desync.

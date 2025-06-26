@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 144137
+revid: 148094
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies, The Depths]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Monsters, Enemies, The Depths]
 
 ― Enforcer's Axe description
 
-Template:Creature Info Box v2
+Template:Creature Infobox V3
 
 ## **Description**
 

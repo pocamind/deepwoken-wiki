@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Sniper
-revid: 128830
+revid: 148083
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Floor 2, Layer 2, Monsters]
@@ -18,35 +18,53 @@ They can also spawn in the [Scion of Ethiron](Scion_of_Ethiron.md) fight by the 
 
 ## **Attacks**
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
 | 
-Glacial Javelin
+Name/Danger
+
+ | 
+
+Description
+
+ |
+| --- | --- |
+| 
+
+**Glacial Javelin**  
+(★★☆)
 
  | The Kyrsgarde Sniper conjures a spear of ice before throwing at it's opponent.
 
 -   Easiest move to parry if fighting one on one.
 -   Parrying any attack from Kyrsgarde Sniper makes him unable to attack for next 4 seconds.
 
- | ◯ | ◯ | ◯ | (★★☆) |
+Parryable?: ◯  
+Blockable?: ◯  
+Dodgeable?: ◯
+
+ |
 | 
 
-Skyward Spear
+**Skyward Spear**  
+(★★☆)
 
  | The Kyrsgarde Sniper conjures a spear of ice before performing a backflip high in the air and throwing said spear at it's opponent.
 
 -   Parry it when the arm of the Kyrsgarde reachest the highest point.
 
- | ◯ | ✗ | ◯ | (★★☆) |
+Parryable?: ◯  
+Blockable?: ✗  
+Blockable?: ◯
+
+ |
 
 ## **Finisher**
 
-A Kyrsgarde Sniper executes it's opponent:
+A Kyrsgarde Sniper executes its opponent:
 
 | Name | Description |
 | --- | --- |
-| Devastating Slash | The Kyrsgarde swipes it's spear at it's opponent, dealing a fatal blow and killing them. |
+| Devastating Slash | The Kyrsgarde swipes its spear at its opponent, dealing a fatal blow and killing them. |
 
 ## Trivia
 
--   The Ethiron versions are internally known as "iceguysnipercool"
+-   The version spawned during the Ethiron fight are internally known as "iceguysnipercool"

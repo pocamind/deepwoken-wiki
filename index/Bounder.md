@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 141474
+revid: 148091
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -8,15 +8,11 @@ categories: [Monsters, Layer 2]
 
 # Bounder
 
-**Bounder**
-
-[Gallery](Bounder/Gallery.md)
-
 “ Deep gashes creating elegant lines decorate the body. They're beast-like in nature, with an extreme depth to each one. A sense of dread washes over you, almost as if you were in the gaze of a predator. ”
 
 ― Mauled Diver Corpse Interaction
 
-Template:Creature Info Box v2
+Template:Creature Infobox V3
 
 ## Description
 

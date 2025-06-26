@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 145359
+revid: 148096
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -12,17 +12,13 @@ categories: [Monsters, Knights]
 
 ― Celestial Telescope
 
-Stone Knights (also known as Desert Knights or Sand Knights) are a type of Giant [Monster](Monsters.md) encountered primarily in the [Starswept Valley](The_Starswept_Valley.md), either via being dropped out the sky by a radiant meteor, or simply spawning fighting an [Alpha Megalodaunt](Alpha_Megalodaunt.md), but they can also just randomly spawn in.
-
-Blizzard Knights are a far stronger version of the Stone Knight, spawning in a pack of 6 in the [Valley of Heroes](The_Valley_of_Heroes.md) during the Winter Time, introduced as a trap by [Aelita](Aelita.md) telling you to "come back during the winter for more fun".
-
-Template:Creature Info Box v2
+Template:Creature Infobox V3
 
 ## Description
 
-Recognizable by their yellow body, blue eyes and blue sword, the Stone Knights are the variant encountered on [Aratel Island](Aratel_Island.md). They will not drop a chest if the Stone Knight emerged from a meteor, it will only spawn a chest if the knight spawned without a meteor.
+Stone Knights (also known as Desert Knights or Sand Knights) are a type of Giant [Monster](Monsters.md) encountered primarily in the [Starswept Valley](The_Starswept_Valley.md), either via being dropped out the sky by a radiant meteor, or simply spawning fighting an [Alpha Megalodaunt](Alpha_Megalodaunt.md), but they can also just randomly spawn in.
 
-Far stronger with a white paintjob, the Blizzard Knight sports a unique sword and higher health, but no changes other than simply being a stronger variant
+Blizzard Knights are a far stronger version of the Stone Knight, spawning in a pack of 6 in the [Valley of Heroes](The_Valley_of_Heroes.md) during Winter, introduced as a trap by [Aelita](Aelita.md) telling you to "come back during the winter for more fun".
 
 ## Moveset
 
@@ -84,9 +80,8 @@ A Stone Knight executes the player:
 -   Usually after every move, you can get 1-2 basic attacks off, unless they use the single swing, in which only go for one.
 -   In order to dodge the Terra Eruption, do a full dodge instead of a roll cancel.
 -   All of the Stone Knight's moves can be dodged with little consequence, with the exception of the double slash.
-
 -   The Blizzard Knight spawns only as a pack of 6, thus it is recommended to slowly fight them one at a time rather than risk being infinitely stunned.
--   You can right-click after get kick or terra eruption to ragdoll cancel
+-   You can right-click after getting kick or hit with Terra Eruption to cancel the ragdoll.
 
 ## Trivia
 

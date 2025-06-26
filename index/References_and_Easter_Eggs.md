@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 144262
+revid: 148022
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -129,7 +129,9 @@ This is a page dedicated to all of the easter eggs and references to other works
 ## Enemies/Bosses
 
 -   **[Megalodaunts](Megalodaunt.md)** are inspired by the [Shark Giants/Giant Fishmen](https://bloodborne.fandom.com/wiki/Giant_Fishman) from _Bloodborne_.
--   The [Mudskipper Brute](Mudskipper_Brute.md), and [Broodlord](Mudskipper_Broodlord.md) are both based on Clickers from _The Last of Us_.
+    -   The Bestiary Challenge, "A Bigger Boat," is derived from the iconic line in the film _Jaws_.
+-   The [**Mudskippers**](Mudskipper.md), [**Mudskipper Brute**](Mudskipper_Brute.md), and [**Broodlord**](Mudskipper_Broodlord.md) are both based on Clickers from _The Last of Us_.
+    -   The Mudskipper Bestiary Challenges, "Dawn of the Drowned" and "Night of the Living Drowned" are named after the horror films _Dawn of the Dead_ and _Night of the Living Dead._
 -   **[Terrapods](Terrapod.md)** are almost certainly a reference to [Headcrabs](https://half-life.fandom.com/wiki/Headcrab), from the _Half-Life_ series.
 -   **[Angels](Hollow_Angel.md)** are nearly identical to [Angels](https://www.reddit.com/r/deepwoken/comments/ssj9ch/angels_based_on_the_angelic_demons_from/) from the _Castlevania_ Anime.
 -   **[The Dread Serpent](Dread_Serpent.md)** is inspired by [Kaidou's Beast Form](https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu), from _One Piece_.

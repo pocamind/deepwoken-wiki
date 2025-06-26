@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Brute
-revid: 142013
+revid: 148082
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Monsters, Floor 2]
@@ -10,31 +10,49 @@ categories: [Layer 2, Floor 1, Monsters, Floor 2]
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Kyrsgarde_(disambiguation).md>)._ Template:Creature Infobox V3
 
-## **Description**
+## Description
 
 An unusual deviation from the typical Kyrsgarde, the Kyrsgarde Brute is a blunt and relentless being that is not at all similar to the some-what elegance that the other Kyrsgarde have up to this point. They can be distinguished by their bigger build, glowing red Membrane as opposed to the Blue of the rest of the Kyrsgarde, and can be heard with their loud stomping. Contrary to the other Kyrsgarde, they seemingly have no ability to manipulate [Frostdraw,](Frostdraw.md) instead choosing their physical attributes to crush their foes into oblivion.
 
-## **Attacks**
+## Attacks
 
-| Moves | Description | Parryable? | Blockable? | Dodgeable? |
-| --- | --- | --- | --- | --- |
 | 
-Clenching Assault
+Name
 
- | The Kyrsan Brute will swing at it's opponent once before waiting for a short-duration and swinging at them again. If you are hit by this, the Kyrsan Brute will grab you and drill its arm into you for a few seconds, dealing rapid damage, before throwing you away. | ✗ | ✗ | ◯ |
+ | 
+
+Description
+
+ |
+| --- | --- |
 | 
 
-Slam
+**Clenching Assault**
+
+ | The Kyrsan Brute will swing at it's opponent once before waiting for a short-duration and swinging at them again. If you are hit by this, the Kyrsan Brute will grab you and drill its arm into you for a few seconds, dealing rapid damage, before throwing you away.
+
+Parryable?: ✗  
+Blockable?: ✗  
+Dodgeable?: ◯
+
+ |
+| 
+
+**Slam**
 
  | It raises it's hands before crushing them onto the ground, dealing moderate damage to you.
 
 -   **THIS WILL INSTA-GRIP IF YOU ARE AT LOW HEALTH.**
 
- | ✗ | ✗ | ◯ |
+Parryable?: ✗  
+Blockable?: ✗  
+Dodgeable?: ◯
+
+ |
 
 ## **Finisher**
 
-A Kyrsgarde Brute executes it's opponent:
+A Kyrsgarde Brute executes its opponent:
 
 | Name | Description |
 | --- | --- |

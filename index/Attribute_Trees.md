@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 147963
+revid: 148044
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -13,7 +13,7 @@ notices:
 Talent Trees documented so far in [Talents](Talents.md): 13/195  
 This page is organized to see Talents generally, allowing you to pick them out with minimal details. [Talents](Talents.md) provides extended information on the topic of Talents.
 
-Each Tab is designed to show Talents that involve the searched Attribute from Least to Greatest Ex. Potion Quaffer has the Prerequisites \[Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence\], it will be in each of the Attribute Tabs and show up twice in the Intelligence Tab under both Hybrids. If a linked Talent is not on the Tab, it will redirect to Talent Tree [Potion Quaffer;4.6e](Talents.md#alchemist) as for Talents and Mantras that are not linked or made, they will remain an Invalid Link.
+Each Tab is designed to show Talents that involve the searched Attribute from Least to Greatest Ex. Potion Quaffer has the Prerequisites \[Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence\], it will be in each of the Attribute Tabs and show up twice in the Intelligence Tab under both Hybrids. If a linked Talent is not on the Tab, it will redirect to Talent Tree as for Talents and Mantras that are not linked or made, they will show up as Potion Quaffer.
 
 ### Card Terminology
 
@@ -126,24 +126,24 @@ Alchemist;4.6e | 15FTD
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
-| File:Blank.png | Oath: Arcwarder  
+| Arcwarder.png | Oath: Arcwarder  
 Arcwarder;4.13a | 20FTD  
 20FIR  
 20LTN  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
-| File:Blank.png | Arc Module: Dash  
+| Arcwarder.png | Arc Module: Dash  
 Arcwarder;4.13b | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
-| File:Blank.png | Arc Module: Eject  
+| Arcwarder.png | Arc Module: Eject  
 Arcwarder;4.13c | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
-| File:Blank.png | Arc Module: Guard  
+| Arcwarder.png | Arc Module: Guard  
 Arcwarder;4.13d | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
-| File:Blank.png | Arc Module: Leap  
+| Arcwarder.png | Arc Module: Leap  
 Arcwarder;4.13e | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
-| File:Blank.png | Arc Module: Null  
+| Arcwarder.png | Arc Module: Null  
 Arcwarder;4.13f | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
@@ -348,24 +348,24 @@ Amoran Seeker;4.9a | 25FIR | An application of Pleeksty's concept of the inner f
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
-| File:Blank.png | Oath: Arcwarder  
+| Arcwarder.png | Oath: Arcwarder  
 Arcwarder;4.13a | 20FIR  
 20FTD  
 20LTN  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
-| File:Blank.png | Arc Module: Dash  
+| Arcwarder.png | Arc Module: Dash  
 Arcwarder;4.13b | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
-| File:Blank.png | Arc Module: Eject  
+| Arcwarder.png | Arc Module: Eject  
 Arcwarder;4.13c | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
-| File:Blank.png | Arc Module: Guard  
+| Arcwarder.png | Arc Module: Guard  
 Arcwarder;4.13d | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
-| File:Blank.png | Arc Module: Leap  
+| Arcwarder.png | Arc Module: Leap  
 Arcwarder;4.13e | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
-| File:Blank.png | Arc Module: Null  
+| Arcwarder.png | Arc Module: Null  
 Arcwarder;4.13f | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
@@ -382,24 +382,24 @@ Arcwarder;4.13f | Arcwarder;4.13a
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
-| File:Blank.png | Oath: Arcwarder  
+| Arcwarder.png | Oath: Arcwarder  
 Arcwarder;4.13a | 20LTN  
 20FTD  
 20FIR  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
-| File:Blank.png | Arc Module: Dash  
+| Arcwarder.png | Arc Module: Dash  
 Arcwarder;4.13b | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
-| File:Blank.png | Arc Module: Eject  
+| Arcwarder.png | Arc Module: Eject  
 Arcwarder;4.13c | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
-| File:Blank.png | Arc Module: Guard  
+| Arcwarder.png | Arc Module: Guard  
 Arcwarder;4.13d | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
-| File:Blank.png | Arc Module: Leap  
+| Arcwarder.png | Arc Module: Leap  
 Arcwarder;4.13e | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
-| File:Blank.png | Arc Module: Null  
+| Arcwarder.png | Arc Module: Null  
 Arcwarder;4.13f | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
@@ -497,23 +497,23 @@ Angler;4.10c | 50 Fishing | Fish are drawn to your line more quickly. |
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
-| File:Blank.png | Oath: Arcwarder  
+| Arcwarder.png | Oath: Arcwarder  
 Arcwarder;4.13a | 20FTD  
 20FIR  
 20LTN  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
-| File:Blank.png | Arc Module: Dash  
+| Arcwarder.png | Arc Module: Dash  
 Arcwarder;4.13b | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
-| File:Blank.png | Arc Module: Eject  
+| Arcwarder.png | Arc Module: Eject  
 Arcwarder;4.13c | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
-| File:Blank.png | Arc Module: Guard  
+| Arcwarder.png | Arc Module: Guard  
 Arcwarder;4.13d | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
-| File:Blank.png | Arc Module: Leap  
+| Arcwarder.png | Arc Module: Leap  
 Arcwarder;4.13e | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
-| File:Blank.png | Arc Module: Null  
+| Arcwarder.png | Arc Module: Null  
 Arcwarder;4.13f | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
