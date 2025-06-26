@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 143138
+revid: 148129
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Lost Celtor]
@@ -23,6 +23,10 @@ They are the only faction which can be found in [The Depths](The_Depths.md) othe
 
 Ringing the Celtor Bells gains Positive Reputation with the faction, but there is a limit, capping out at high Friend tier, just before Ally tier.
 
+When starting off with Noble Regalia and starting off with a positive rep with Lost Celtor
+
+However, under rare circumstances you may be allowed to have an ally reputation with Lost Celtor. This can be seen if you have the 'Noble' [Regalia](Regalia.md) and start with a positive relationship with Lost Celtor.
+
 Their dialogue does not change with reputation.
 
 ## Trivia
@@ -31,3 +35,4 @@ Their dialogue does not change with reputation.
     -   Despite this they can still have random conversations with each other like any random mob
 -   If you have Hunted reputation, Angels will spawn around certain places for you even if you were not seen by a Watcher.\[citation needed\]
 -   They used to attack [Angels](Hollow_Angel.md) on sight, but this was changed in the 10/6/23 update.
+-   They will attack monsters if hit by them in the crossfire in pursuit of another target, but neither will target each other directly.

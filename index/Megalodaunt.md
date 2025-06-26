@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 148112
+revid: 148130
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -31,7 +31,7 @@ There is a quest in Upper Erisia located at the entrance to the Garden Reservoir
 
 Seen mostly around the island of [Erisia](Erisia.md), the Megalodaunt is one of the first monsters, along with [Mudskippers](Mudskipper.md), that most new players will encounter. Players that are ill-equipped or lack insight on this monster are mostly likely going to succumb to it within seconds.
 
-Megalodaunts are naturally hostile to every other creature in _The Etrean Luminant_, and will attack them on sight for purposes both survival and territorial. They are never observed quarrelling with each other as of yet, though curiously enough, treats the Crimson Variant of Megalodaunt with extreme prejudice.
+Megalodaunts are naturally hostile to every other creature in _The Etrean Luminant_, and will attack them on sight for purposes both survival and territorial. They are never observed quarrelling with each other as of yet, though curiously enough, treats the Crimson Variant of Megalodaunt with extreme prejudice, mercilessly attacking them as if they are an 'outcast'.
 
 Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Modifiers, with a low chance of the modifiers being high-tier. It will also uncommonly drop [Umbral Obsidian](Umbral_Obsidian.md). On rare occasions, it may drop a [Megalodaunt Coral](Megalodaunt_Coral.md) or a [Megalodaunt Coat](Megalodaunt_Coat.md).
 

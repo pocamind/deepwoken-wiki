@@ -1,9 +1,9 @@
 ---
 title: Samael
-revid: 146720
+revid: 148136
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Oath Trainers, NPCs located in the Eastern Luminant]
+categories: [Canor NPCs, NPCs, Oath Trainers, NPCs located in the Eastern Luminant]
 ---
 
 # Samael
@@ -11,7 +11,7 @@ categories: [NPCs, Oath Trainers, NPCs located in the Eastern Luminant]
 | Samael | |
 |---|---|
 | name | Samael |
-| aspect | ??? (Angel?) |
+| aspect | Canor |
 | location | Derelict Highchurch |
 
 “ Do you wish to join the Starkindred, and feast upon the Holy Ichor of our God? It will be irreversible. You will be... born anew, lamb. ”
