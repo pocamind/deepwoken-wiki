@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 148003
+revid: 148152
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2764,15 +2764,23 @@ _**"My cure is most effective."**_
 > _**"I am a self-starter."**_
 
 -   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried applies Jumpstart, increasing your ability to scale walls, your speed and applies shock to all outgoing physical damage and damage taken. Grants a +10% damage multiplier.
-    -   Deals 15% of your maximum health as self damage on cast.
-    -   Self Applies Shock/1 Surge Rod on proc, this can be used to interrupt any attacks you're currently using.. assuming you can cast Static Withdraw during them anyways.
-    -   If you have the Storm Mastery Talent from [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), the self damage and self shock/stun from casting Static Withdraw is removed entirely.
+    -   Deals 15% of your maximum health as Thundercall self damage on cast.
+        -   This can be resisted with Thundercall armor and by other sources of damage reduction.
+        -   If you have the _Already Dead_ Talent from [Deepscorn Casque](Deepscorn_Casque.md), the self damage on cast is reduced by ~20%.
+        -   If you have the _Storm Mastery_ Talent from [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), the self damage and self Shock/stun from casting Static Withdraw is **removed entirely**.
+    -   The damage buff and Shock/Surge application on hit **only applies to weapon attacks**, despite the description stating "physical damage" in general and not specifying for the damage multiplier.
+    -   15 second duration with a 2 minute cooldown. Has an uptime of 15 seconds with a downtime of 1 minute 45 seconds, as the cooldown starts when the buff is activated.
+    -   Self Applies Shock/1 Surge Rod with hitstun on use. This can be used to interrupt any attacks you're currently using.
     -   Prerequisites: 35 Thundercall, Static Withdraw
 
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your Jumpstart physical damage is increased up to +20%. The self damage to activate it is lowered. Your cooldown on Jumpstart is also lowered.
-    -   Deals 5% of your maximum health as self damage on cast.
-    -   Self Applies Shock/1 Surge Rod on proc, this can be used to interrupt any attacks you're currently using.. assuming you can cast Static Withdraw during them anyways.
-    -   If you have the Storm Mastery Talent from [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), the self damage and self shock/stun from casting Static Withdraw is removed entirely.
+    -   Deals 5% of your maximum health as Thundercall self damage on cast.
+        -   This can be resisted with Thundercall armor and by other sources of damage reduction.
+        -   If you have the _Already Dead_ Talent from [Deepscorn Casque](Deepscorn_Casque.md), the self damage on cast is reduced by ~20%.
+        -   If you have the _Storm Mastery_ Talent from [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), the self damage and self Shock/stun from casting Static Withdraw is **removed entirely**.
+    -   The damage buff and Shock/Surge application on hit **only applies to weapon attacks**, despite the description stating "physical damage" in general.
+    -   15 second duration with a 1 minute cooldown. Has an uptime of 15 seconds with a downtime of 45 seconds, as the cooldown starts when the buff is activated.
+    -   Self Applies Shock/1 Surge Rod with hitstun on use. This can be used to interrupt any attacks you're currently using.
     -   Prerequisites: 35 Thundercall, Jumpstart
 
 ### Septicemia

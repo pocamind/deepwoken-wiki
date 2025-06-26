@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 148125
+revid: 148146
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,12 +18,27 @@ Also commonly referred to as **Jellyfish**.
 
 ## Attacks
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
 | 
-Electric Stun Pulse
+Name/Danger
 
- | Sends out a spherical pulse attack that deals ~15 damage while also inflicting a brief paralysis debuff that prevents you from moving, using items, or attacking for a few milliseconds. This attack can only hurt 1 player at a time, despite looking like an AOE. Before they do this, there is a brief flash above their heads if you look closely. Though, it is nearly impossible to react to, especially with higher pings. | ✗ | ◯ | ◯ | (★) |
+ | 
+
+Description
+
+ |
+| --- | --- |
+| 
+
+**Electric Stun Pulse**  
+(★☆☆)
+
+ | Sends out a spherical pulse attack that deals ~15 damage while also inflicting a brief paralysis debuff that prevents you from moving, using items, or attacking for a few milliseconds. This attack can only hurt 1 player at a time, despite looking like an AOE. Before they do this, there is a brief flash above their heads if you look closely. Though, it is nearly impossible to react to, especially with higher pings.
+
+Parryable?: ✗  
+Blockable?: ◯  
+Dodgeable?: ◯
+
+ |
 
 ### Finisher
 

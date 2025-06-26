@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 141314
+revid: 148179
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -75,7 +75,7 @@ The Second Floor is the deepest point of the Eternal Gale. In here, you can find
 
 ## Trivia
 
--   The music for this area is [Kyrie](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [Kyrie](Deepwoken_OST.md#kyrie) by Naktigonis
 -   New Kyrsa exists in infinite amount of realities at the same time, and every human stuck here is doomed to stay here forever and suffer from Space-time collapse.
 -   Kyrsgarde in New Kyrsa are affected by some sort of hypnosis. Their minds are under hypnosis from Ethiron, the Eye of Calamity, and they're here to protect Scion of Ethiron and let him grow. Naerotiv and Kyrsgarde in Firfire aren't affected by this hypnosis due to them being a safe distance from the mist. We can discover from Naerotiv that we must "seal" (kill) [Scion of Ethiron](Scion_of_Ethiron.md) or the world will be under a large threat.
     -   Ironically, this won't happen, because New Kyrsa is stuck in a time cycle, where Scion of Ethiron can't grow enough to create this threat.

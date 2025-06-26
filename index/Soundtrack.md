@@ -1,11 +1,11 @@
 ---
-title: OST
-revid: 148156
-source: https://deepwoken.fandom.com/wiki/OST
+title: Soundtrack
+revid: 148157
+source: https://deepwoken.fandom.com/wiki/Soundtrack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# OST
+# Soundtrack
 
 Redirect to:
 

@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 140969
+revid: 148167
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -30,6 +30,6 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
 -   If the key to the manor is not glowing, it means that someone else already initiated a raid and as such the area is locked away until a certain amount of time passes. Either wait that timeframe out or switch servers to progress.
 -   If the gate is stuck/gate doesn't close despite all mobs being dead, and no one has travelled down, you can climb on top of the door to open it. There is an interactable button to close the gate and reset the dungeon.

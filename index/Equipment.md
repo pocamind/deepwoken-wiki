@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 147905
+revid: 148225
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -6430,7 +6430,7 @@ Found from:
 
  | 
 
-Taking damage from Flamecharm mantras, Thundercall mantras, or burn will cause you to regenerate ether. Ether regeneration scales on damage taken.
+Taking Flamecharm or Thundercall damage (e.g. Mantras, Burn, Surge Overloads) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
 
   
 _+2% Fire Armor_  
@@ -6804,7 +6804,7 @@ Found from:
 
  | 
 
-Taking Frostdraw or Galebreathe damage will cause you to regenerate ether. Ether regenerated scales on damage dealt.
+Taking Frostdraw or Galebreathe damage (e.g. Mantras, Apparitions, Crystal Detonations) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
 
   
 _+2% Ice Armor_  

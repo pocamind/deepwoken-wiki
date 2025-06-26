@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 142806
+revid: 148221
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Events, Event Only Content, Hallowtide]
@@ -34,6 +34,16 @@ To access songs, you must read the corresponding book. These books can be obtain
 -   [_A Memory of Tides_](https://www.youtube.com/watch?v=Zu9uDHqFcS8) YouTube link
 -   [_Carol of Resonances_](https://www.youtube.com/watch?v=t89tvQBZhWQ) YouTube link
 -   [_A Light in the Sky_](https://www.youtube.com/watch?v=WSxvkVEJ8zs) YouTube link
+
+## Worn Songbook
+
+“ Start a tune! Play along with someone else to gain a rallying buff. ”
+
+― Description of the Worn Songbook ability
+
+Upon purchase of any instruments, the player will gain an ability in the inventory called **Worn Songbook**. The player will also unlock **A Memory of Tides** and **Carol of Resonances** by default once they purchase an instrument.
+
+Clicking on the ability to select it and clicking on the screen will show an interface, prompting the player to choose what instrument they want to use, along with which song they want to play. The player can also change the skin of their instruments from this interface.
 
 ## Instrument Skins
 

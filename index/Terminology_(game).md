@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 147887
+revid: 148150
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -153,12 +153,11 @@ _noun_
 
 #### Bossraid
 
-_verb, adjective, noun_
+_verb, adjective_
 
 1.  To fight a group of players by yourself, usually at least 3.
     1.  Ex. "I'm bossraiding them, they're trash
 2.  An adjective that describes a build used for bossraiding.
-3.  A build used for bossraiding.
 
 ### Counter
 

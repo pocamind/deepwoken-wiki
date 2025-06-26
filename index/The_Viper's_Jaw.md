@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 143600
+revid: 148193
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -45,6 +45,6 @@ A map can be found at [Surface Maps](Maps.md#surface).
 
 ## Trivia/Notes
 
--   The music for this area is [In Shade, Hollow](Deepwoken_OST.md) by Naktigonis.
+-   The music for this area is [In Shade, Hollow](Deepwoken_OST.md#in-shade-hollow) by Naktigonis.
 -   One of the only locations in Lower Erisia known to spawn Terrapods.
 -   The Megalodaunts in the cave take 2 minutes and 30 seconds to respawn.

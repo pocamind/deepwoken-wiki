@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 143706
+revid: 148162
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -34,7 +34,7 @@ Sometimes, when you are sailing through **Voidsea**, you may be teleported to a 
 
 ## Trivia
 
--   The music for this area is [What Mends Shall Fray](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [What Mends Shall Fray](Deepwoken_OST.md#what-mends-shall-fray) by Naktigonis
 -   Patches of bubbles may appear while in the Voidsea. Waiting near one for long enough will cause a [Dread Serpent](Dread_Serpent.md) (bigger **patch** of bubbles) or a [Lionfish](Lionfish.md) (smaller **patch** of bubbles) to spawn.
 -   As seen from the book, _Studies on Canticlysm, Vol. IV_, the Voidsea was originally called The World's Edge.
 -   Dying in [Boatman's Watch](<Boatman's_Watch.md>), [Beloved Zofia](Beloved_Zofia.md) and [Moon's Eyrie](<Moon's_Eyrie.md>) will send you to [The Depths](The_Depths.md).

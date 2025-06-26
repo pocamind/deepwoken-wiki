@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 146008
+revid: 148186
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -32,7 +32,7 @@ Decent guide on how to get to the Entropy Catalyst: [https://www.youtube.com/wat
 
 ## Trivia
 
--   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
 -   The sacrificial process is similar to [one](https://rogue-lineage.fandom.com/wiki/Tomeless) in _Rogue Lineage_.
 -   The symbol in the middle of it is the Moonseye put over the Suncross.
     -   It could therefore be inferred that it represents a solar eclipse.

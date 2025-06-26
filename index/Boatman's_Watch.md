@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 144108
+revid: 148164
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -40,10 +40,10 @@ Once spawned, you will not be able to leave Boatman's Watch until you defeat [Th
 
 ## Trivia/Notes
 
--   The music for this area is [To Shores, Distant](Deepwoken_OST.md) by Naktigonis.
+-   The music for this area is [To Shores, Distant](Deepwoken_OST.md#to-shores-distant) by Naktigonis.
 -   Close to the shore, some [fishing spots](Fishing.md) can be found.
 -   Since there are trees around the island, you can chop them down and craft [campfires](Campfire_Pit.md) in case you don't have any.
--   The combat music for this area is [To Fight, Sanguine](Deepwoken_OST.md) by Naktigonis.
+-   The combat music for this area is [To Fight, Sanguine](Deepwoken_OST.md#to-fight-sanguine) by Naktigonis.
 -   Boatman's Watch can be found by going straight along the wall opposite (towards hive) from the [Eastern](Eastern_Interstitial_Lighthouse.md) [Interstitial](Eastern_Interstitial_Lighthouse.md) [Lighthouse](Eastern_Interstitial_Lighthouse.md) into the [Voidsea](Voidsea.md), visible after about 20 seconds of sailing.
 -   A hidden mine and library can be found in Boatman's Watch through destructible walls.
 -   Although not really trivial, there are two [eggs](Egg.md) in this island, one found on a tree growing on the rocks near the dock and another found in a bigger tree growing in a patch of grass to the right of [Ferryman](The_Ferryman.md)'s location, these two [eggs](Egg.md) can be used to create [Mushroom Omelettes](Mushroom_Omelette.md) with the high abundancy of [Goblettos](Gobletto.md) which can be helpful in the fight against [The Ferryman](The_Ferryman.md).

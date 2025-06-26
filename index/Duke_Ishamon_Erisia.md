@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 148065
+revid: 148198
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -425,7 +425,7 @@ Exhaustive Loot Table
 
 ## Trivia
 
--   The music for his bossfight is [Sin-Smelted Scoriae](Deepwoken_OST.md) by Naktigonis.
+-   The music for his bossfight is [Sin-Smelted Scoriae](Deepwoken_OST.md#sin-smelted-scoriae) by Naktigonis.
     -   Naktigonis also provides the voice of Duke Ishamon Erisia, first heard in [an April Fools Twitter post](https://x.com/naktigonis/status/1509956038598053895?s=20) posted by Naktigonis, joking about _Sin-Smelted Scoriae's_ release.
 -   Duke Ishamon Erisia gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
 -   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.\[citation needed\] The current dialogue states "The ruins of that city will **never** cage me. And with what's at stake... I can't stop now" when you fight Duke Ishamon Erisia after your first encounter. This dialogue shows that Duke Ishamon Erisia does in fact, escape the Depths after you kill him.

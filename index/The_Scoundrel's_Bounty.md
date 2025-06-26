@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 133523
+revid: 148195
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -24,7 +24,7 @@ Template:Areainfobox
 ### Antiquarian
 
 -   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
--   Players can purchase the Dumbbell (STR) for.
+-   Players can purchase any training gear from the [Gear Cabinet](Training_Gear.md) for.
 
 ## NPCs
 
@@ -47,7 +47,7 @@ Template:Areainfobox
 -   Despite [Mr. Quarter's](Mr._Quarters,_Halfmaster.md) status, _halfmaster_ doesn't exist, instead he would realistically be the _quartermaster_, being responsible for steering and signals.
 -   You can drop barrels into the water.
 -   The Etrea versus Knives of Eylis event can spawn here, although it's likely unintentional.[\[1\]](#cite-note-1)
--   The ship bears a great resembelence to the [Beloved Zofia](Beloved_Zofia.md), found in the [Voidsea](Voidsea.md), where [The Dreadstar](The_Dreadstar.md) resides.
+-   The ship bears a great resemblance to the [Beloved Zofia](Beloved_Zofia.md), found in the [Voidsea](Voidsea.md), where [The Dreadstar](The_Dreadstar.md) resides.
 
 ## References
 

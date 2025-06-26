@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 140979
+revid: 148178
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Islands, The Ministry]
@@ -95,7 +95,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Notes/Trivia
 
--   The music for this area is [A Waltz Of Snow And Knights](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [A Waltz Of Snow And Knights](Deepwoken_OST.md#a-waltz-of-snow-and-knights) by Naktigonis
 -   Minityrsa is also called "Mini", "Tundra", "Minnesota" or "Winter Isle" by other players.
 -   During the Winter, the entirety of Minityrsa is covered in snow. The mix of both sheets of white and permanent snowfall makes the island tedious to traverse.
 -   Enemy NPCs here cannot be assassinated, much like the Songseekers in the [Songseeker Wilds](Songseeker_Wilds.md).

@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 132404
+revid: 148191
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -45,7 +45,7 @@ Large statues of [Vesperians](Vesperian.md) and a [Ganymede](Ganymede.md) can be
 
 ## Trivia/Notes
 
--   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md#the-sun-gleaming) by Naktigonis
 -   In order to use the fountain that transports you to [Greathive Aratel](Greathive_Aratel.md), players must have wash their face and be at least Power 10.
 -   The statues lined along the walls of The Lordsgrove depict previous Hivelords, including one with the unique [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md) variant for Vesperians.
 -   One of the statues hinted at the [Hivelord Mask](Hivelord_Mask.md) prior to its addition to the game.

@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 138119
+revid: 148174
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -95,7 +95,7 @@ Fountain in the Hidden Village
 #### R&D
 
 -   [Laplace](Laplace.md), the enchanter resides in this room. Hand in 3 enchanted items (Weapons and Equipment) to enchant your currently equipped weapon, provided it's eligible. You can also purchase Enchant Grease from Laplace for 5 knowledge, allowing the user to apply an enchant to their Equipment.
--   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A Memory of Tides](Deepwoken_OST.md)" by Naktigonis.
+-   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A Memory of Tides](Deepwoken_OST.md#a-memory-of-tides)" by Naktigonis.
 -   The room behind the wooden bookshelf.
     
     Using [Strong Left](Attunement-less.md) on the wooden bookshelf in the right hallway about 3 times will reveal a, now presumably unused, extra room with 3 "containers" and some broken pipes emitting some sort of gas.
@@ -172,9 +172,9 @@ Aratel Rising
 
 ## Trivia
 
--   The music for this area is [Of Chitin, Kith And Kin](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [Of Chitin, Kith And Kin](Deepwoken_OST.md#of-chitin-kith-and-kin) by Naktigonis
 -   Parts of the Greathive can be seen emitting black particles, which is fireproofing that allows [Flamecharm](Flamecharm.md) to be used within the Greathive without the whole thing going up in flames.
--   The combat music for this area is [A Symphony Of Strife](Deepwoken_OST.md) by Naktigonis
+-   The combat music for this area is [A Symphony Of Strife](Deepwoken_OST.md#a-symphony-of-strife) by Naktigonis
 -   Everyone inside Greathive Aratel is a Hivekin: either a Vesperian, Ganymede, or Chrysid.
 -   The Soulblooms have an option to taste the flower's sap. When attempting to do so, your Character has a violent gut feeling it is not for ingestion and ultimately decides not to.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.

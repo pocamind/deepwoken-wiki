@@ -1,6 +1,6 @@
 ---
 title: Erisia
-revid: 146132
+revid: 148204
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Islands, Etrean Luminant]
@@ -18,8 +18,8 @@ It is divided into two sections, being [Upper](Upper_Erisia.md) and [Lower Erisi
 
 ## Trivia
 
--   The music for this area is [The Trappings Of A Lord](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
--   The combat music for this area is [Cry 'Havoc!'](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The music for this area is [The Trappings Of A Lord](Deepwoken_OST.md#the-trappings-of-a-lord) by Naktigonis
+-   The combat music for this area is [Cry 'Havoc!'](Deepwoken_OST.md#cry-havoc) by Naktigonis
 -   Erisia is frequently referred to as "Bandit Island" by players.
 -   As a whole, Erisia is the second largest landmass in Deepwoken, only behind [Aratel Island](Aratel_Island.md).
 -   Erisia is a common [ganking](Glossary.md) spot due to contractor bounties/boosting.

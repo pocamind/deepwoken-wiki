@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 133680
+revid: 148202
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -153,7 +153,7 @@ NOTE: Getting the high progress or Resonance imminent dialogues **could** mean t
 
 ## Trivia
 
--   When talking to Sibex the song [Sibex's Gale Wisp Tune](Deepwoken_OST.md) will play.
+-   When talking to Sibex the song [Sibex's Gale Wisp Tune](Deepwoken_OST.md#sibexs-gale-wisp-tune) will play.
 -   Sibex mentions Jericho the Warden, likely meaning he is under his orders.
     -   He's been described as missing on duty, the Authority appears to have lost him.
     -   Due to the fact that he is able to have some sort of reading on your bell and is still being sent on patrol, it is very likely that the authority has had access to bells for a decent amount of time, seeing as if Sibex was unique in his bell checking he would likely never be sent on any kind of mission due to his value.

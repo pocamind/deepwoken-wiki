@@ -1,6 +1,6 @@
 ---
 title: Firfire
-revid: 145219
+revid: 148171
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, Floor 1]
@@ -37,5 +37,5 @@ After talking to [Vyrelda](Vyrelda,_Master_of_Blood.md), and accepting her quest
 
 ## Trivia
 
--   The music for this area is [Whisperwind](Deepwoken_OST.md) by Naktigonis.
+-   The music for this area is [Whisperwind](Deepwoken_OST.md#whisperwind) by Naktigonis.
 -   After using the resting emote near Makolis Pariah Katatonicus, if you talk to him in future runs he will label you as "Friendwalker" instead of "Fringe/Frinwalker."

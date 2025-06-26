@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 141300
+revid: 148175
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -135,7 +135,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   The music for this area is [To Shores, Distant](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [To Shores, Distant](Deepwoken_OST.md#to-shores-distant) by Naktigonis
 -   Though it may be closer to [Erisia](Erisia.md), Vigils is often much less travelled than Etris and can be considered a worse spawn location.
 -   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. There is a high chance of a fishing up a chest.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.

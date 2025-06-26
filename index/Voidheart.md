@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 139718
+revid: 148194
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -60,7 +60,7 @@ A map can be found at [Maps#Voidheart (Dreamspace)](Maps.md#voidheart-dreamspace
 
 ## Trivia
 
--   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
 -   **Voidheart** is rougly 35k studs away from [Etris](Etris.md). Its coordinates are at -20000, 20000, -20000, putting it far away in the Southwest of the play area and high up in the air.
     -   The Roblox engine tends to struggle rendering things when too far away from 0, 0, 0. This can be seen by zooming in very close to the player and watching their polygons becoming distorted.
 -   Originally, The **Voidheart** was a leftover area marker far away into the Void Sea. It had nothing.

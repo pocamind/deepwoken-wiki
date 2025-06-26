@@ -1,6 +1,6 @@
 ---
 title: The Hidden Grove
-revid: 147634
+revid: 148140
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Grove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map]
@@ -26,7 +26,7 @@ Summer:
 
 Autumn: [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus) (Green), [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus) (White)
 
-Winter:
+Winter: [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus) (White), [Brilliant Lotus](Primordial_Lotuses.md#brilliant-lotus) (Yellow)
 
 Upon interacting with the shrine after already activating it, the shrine says _"It seems its harvest has blossomed all it can, for now."_ The cooldown for this fountain is 60 minutes per player serverwide.
 

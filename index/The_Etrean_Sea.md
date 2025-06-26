@@ -1,6 +1,6 @@
 ---
 title: The Etrean Sea
-revid: 108118
+revid: 148187
 source: https://deepwoken.fandom.com/wiki/The_Etrean_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean Luminant, Locations]
@@ -46,4 +46,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 
--   The music for this area is [To Shores, Distant](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [To Shores, Distant](Deepwoken_OST.md#to-shores-distant) by Naktigonis
