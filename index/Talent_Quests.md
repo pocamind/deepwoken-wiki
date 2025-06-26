@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 140832
+revid: 148106
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -10,7 +10,7 @@ notices:
 
 # Talent Quests
 
-Most [Talents](Talents.md) are obtained by selecting them when powering up. There are a small number of Talents which are obtained outside this system, by completing quests.
+Most [Talents](Talents.md) are obtained by selecting them when powering up. There are a small number of Talents which are obtained outside the usual system-completing quests.
 
 Some of the Talents obtained this way are **Echo Talents** - a mechanic added in the Verse 2 update. After completing the quest once, all future characters created on the account will automatically gain the Talent upon reaching a certain power level.
 

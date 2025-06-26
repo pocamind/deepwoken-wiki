@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 147933
+revid: 148102
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -293,6 +293,7 @@ The ability is one-time-use but is recharged by killing a boss or player of your
 -   [The Ferryman](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for
 
  |
 | 
@@ -312,6 +313,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 5% shorte
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 148026
+revid: 148099
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -266,6 +266,15 @@ Sold Items
 
 <table>
 <tbody>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b><br>
+  (Mostly <a href="Relics.md">Relics</a>)</td>
+  <td>
+  <ul>
+    <li><b>For </b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a></li>
+    <li><b>For </b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
+  </ul></td>
+</tr>
 <tr>
   <td><b>Miscellaneous</b><br>
   (Mostly <a href="Relics.md">Relics</a>)</td>

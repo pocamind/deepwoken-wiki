@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 147835
+revid: 148105
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -141,6 +141,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
         -   **Warding Radiance**: Your attuned Mantras will build up halo stacks.
     -   **Ether Proselyte: Galebreathe Stance**: In the **Galebreathe** Saint Stance, all attuned Mantras are able to proc the following Talents:
         -   **A World Without Song**: Your attuned Mantras will apply Suffocation.
+        -   **Haunted Gale**: Every third hit of a perfect-casted attuned Mantra will spawn a Haunted Gale Ghost. These can be turned into Specter Apparitions if you have the Specter Path. [Gale Wisp](Galebreathe.md#gale-wisp) lowers the amount of hits you need to land by 1, needing 2 hits instead of 3.
         -   **Inhale**: You can inhale non-Galebreathe Mantras, however their modifiers/the inhale damage buff will not carry over to non-Galebreathe mantras.
     -   **Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras are able to proc the following Talents:
         -   **Dark Hours**: Your attuned Mantras will gain a 15% damage buff during night or in the depths.
@@ -233,6 +234,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Visionshaper](Oath%253A_Visionshaper.md).
 -   The 20 investment requirement in each attunement only applies to talking to their respective obelisk, not to obtaining the Oath in general. This means, you can talk to a number of the obelisks [pre-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) while you still meet their requirements, and then talk to the remaining obelisks [post-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) to obtain the Oath with less than 20 invest in some of your attunements.
 -   The text that appears when training an attunement, "The elements are not in alignment..." is a hint towards obtaining Saintsworn and was added with the release of the Oath.
+-   Saint's Synergy, Ether Proselyte('s Mantra level increasing effect), and Hero's Assist can all proc when not using the Saintsblade. The rest of the Saintsworn Oath does nothing while not using the weapon.
 -   The Saintsblade has the most base M1 damage amount at 30 of all other base weapons in the game. But does not have any scaling.
 -   Ironically, this Oath does NOT require the user to be wielding a Heroblade of any kind.
 -   Saintsworn's cosmetic, the Pseudo-Hero's Blades, cannot be dyed.
