@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 147895
+revid: 148240
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -52,7 +52,7 @@ Gain a speed boost, and an unstoppable urge to run. You're unable to stop runnin
 
 ### Positive Link
 
-Gain 20% damage resistance, 5% dmg boost and constant speed boost that enough to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
+Gain 20% damage resistance, 5% dmg boost and constant speed boost that is able to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
 
 ### Rallied
 

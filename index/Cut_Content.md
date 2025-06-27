@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 148200
+revid: 148256
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -275,7 +275,8 @@ This page is about content that has either been removed or changed drastically i
 -   **Original Sacks -** Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 cloths and would let the player carry chests by stuffing them inside. This was likely used in conjunction with the Locked Chest system.
 -   **Renewed Ambition -** A visual indicator for meeting one of your requirements for levelling. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
 -   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[2\]](#cite-note-2)
--   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).
+-   **[Serena](Serena.md)** **\-** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[3\]](#cite-note-3)
+-   **Depths Shrines -** Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (inside the cave near [Summer Company](The_Summer_Company.md)'s castle).
 -   **Shrine of Dominion/Domination** - Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
     -   Psia was the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
@@ -287,3 +288,4 @@ This page is about content that has either been removed or changed drastically i
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=Uea9j2-gfg8](https://www.youtube.com/watch?v=Uea9j2-gfg8)
+3.  [↑](#cite-ref-3)

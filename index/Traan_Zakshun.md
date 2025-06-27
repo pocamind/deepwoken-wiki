@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 148141
+revid: 148257
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -258,6 +258,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _It's Antique! Scratch that, Brand New!_
 -   _I need to use these crowns to buy some earplugs for that ear bleeding sea snake.._
 -   _Try not to draw attention when you walk out of here alright?_
+-   _Got somethin' that might interest ya..._
 
 ## Black Market Shop Rotation
 
@@ -272,8 +273,8 @@ Sold Items
   (Mostly <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For </b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a></li>
-    <li><b>For </b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
+    <li><b>For </b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>.</li>
+    <li><b>For </b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -286,14 +287,15 @@ Sold Items
     <li><b>For </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Forge_Needle.md">Forge Needle</a>.</li>
     <li><b>For </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
-    <li><b>For </b>: <a href="Enchantments.md">Astral</a> Enchant Stone, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
+    <li><b>For </b>: <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
+    <li><b>For </b>: <a href="Enchantments.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For </b>: <a href="Crypt_Blade.md">Crypt Blade</a></li>
+    <li><b>For </b>: <a href="Crypt_Blade.md">Crypt Blade</a>.</li>
     <li><b>For </b>: <a href="Stormseye.md">Stormseye</a>.</li>
     <li><b>For </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>.</li>
     <li><b>For </b>: <a href="Red_Death.md">Red Death</a>.</li>

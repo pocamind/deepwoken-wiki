@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 147976
+revid: 148253
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments, Layer 1, The Depths, Enemies]
@@ -12,9 +12,9 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Sworn** **Angels** are white and dull-yellow humanoid creatures with wings. They wield black recolors of the [Iron Spear](Iron_Spear.md) and use the [Crazy Slots](Crazy_Slots.md) spear ability. They are summoned by entities called Watchers. Many can be found in Celtor, the sunken city in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). Each will summon two Sworn Angels. A Watcher can additionally be found in the Temple of the Forgotten Flame in Erisia, and will only spawn a single Sworn Angel.
+**Hollow Angels**, previously known as **Lesser Angels**, are white and dull-yellow humanoid creatures with wings. They wield black recolors of the [Iron Spear](Iron_Spear.md) and use [Crazy Slots](Crazy_Slots.md)' Divine Spear ability. They are summoned by entities called Watchers. Many can be found in Celtor, the sunken city in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). Each will summon two Hollow Angels. A Watcher can also be found in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) in Erisia, and will only spawn a single Hollow Angel.
 
-The Sworn Angel can also be summoned as a Trial when attempting to escape the Depths.
+The Hollow Angel can also be summoned as a Trial when attempting to escape the Depths.
 
 ## Moveset
 
@@ -106,11 +106,11 @@ Blockable:◯
 
 ## Trivia
 
--   Similar to Mudskippers, the Sworn Angels' AI will dictate them to keep out of your effective range. They will constantly back up but will still keep you within the range of their spears.
+-   Similar to Mudskippers, the Hollow Angels' AI will dictate them to keep out of your effective range. They will constantly back up but will still keep you within the range of their spears.
 -   All Angels have **incredibly high** posture resistance, meaning you will have to consistently trade parries with them to get an attack on them without [Mantras](Mantras.md) or [Talents](Talents.md) that will bypass this.
--   Sworn Angels will not despawn for a prolonged period of time, meaning that players should not assume they are safe by escaping via climbing.
--   Fire Blade and Rapid Punches can easily kill Lesser Angels since these Mantras stun the enemy, leaving the Lesser Angels vulnerable to regular attacks.
--   Sworn Angels previously used to attack any other monsters in the Depths, but this was silently removed in a shadow update.
+-   Hollow Angels will not despawn for a prolonged period of time, meaning that players should not assume they are safe by escaping via climbing.
+-   Fire Blade and Rapid Punches can easily kill Hollow Angels since these Mantras stun the enemy, leaving the Hollow Angels vulnerable to regular attacks.
+-   Hollow Angels previously used to attack any other monsters in the Depths, but this was silently removed in a shadow update.
 -   They resemble the Malebranche demons from the _Castlevania_ animated series episode, _The Harvest_.
 -   They are internally referred to as ".angel\_lesser(ID)". The ID counts how many have spawned.
 -   They appear to wear a Yellow-dyed [Celtorian Tideknight](Celtorian_Tideknight.md) outfit.
