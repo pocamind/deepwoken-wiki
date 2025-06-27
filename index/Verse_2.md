@@ -1,9 +1,9 @@
 ---
 title: Verse 2
-revid: 148203
+revid: 148304
 source: https://deepwoken.fandom.com/wiki/Verse_2
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Layer 2, Deepwoken]
+categories: [Deepwoken]
 ---
 
 # Verse 2

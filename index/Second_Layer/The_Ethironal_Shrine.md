@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 143642
+revid: 148292
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -227,7 +227,7 @@ It is important to note that **very few** good items drop from standard enemy lo
 -   [Moonseye Tome](../Moonseye_Tome.md)
 -   [Armorer's Needle](<../Armorer's_Needle.md>)
 
-### Boss Only
+### From Chaser only
 
 -   [Sinner's Ash](<../Sinner's_Ash.md>)
 -   [Flareblood Kamas](../Flareblood_Kamas.md)

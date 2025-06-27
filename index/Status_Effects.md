@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 148240
+revid: 148306
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,7 +24,7 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 
 ### Reinforced
 
-Applied after being hit by the Mantra [Reinforce](Attunement-less.md#reinforce), do 5% more damage and get 10% defense. Allies near you will automatically gain the same effect. And if you reinforce others, DMG buff increased up to 10%, effect can go onto them too. Signified by pale yellow/lime green particles surrounding the body.
+Applied after being hit by the Mantra [Reinforce](Attunement-less.md#reinforce), do 5% more damage and get 10% defense. Allies near you will automatically gain the same effect. When buffing other people with Reinforce, the damage buff increases to 10%. You can hold your block key during Reinforce's windup to apply Reinforce to non-allies. Signified by pale yellow/lime green particles surrounding the body.
 
 ### Hyperarmor
 
@@ -49,10 +49,6 @@ Restore your health to maximum and get up if you are unconscious or below 40%. A
 ### Run
 
 Gain a speed boost, and an unstoppable urge to run. You're unable to stop running until the effect wears off. Applied by the [Vow of Mastery Command: Run](Vow_of_Mastery.md). Signified by a white aura of line trails surrounding your character.
-
-### Positive Link
-
-Gain 20% damage resistance, 5% dmg boost and constant speed boost that is able to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
 
 ### Rallied
 
@@ -84,11 +80,11 @@ Applied by the [Cool Head](Talents.md#cryomancer) Talent. For the duration, you 
 
 ### Jumpstarted
 
-Applied by using the [Static Withdraw](Talents.md#thundercall) Talent tool with the [Jumpstart](Talents.md#self-shocker) upgrade. Increases your mobility, grants a 10% damage modifier, and allows you to apply [Shock](#shock)/[Surge Stacks](#overloaded) on outgoing and incoming physical damage. This effect can be enhanced with the [Raging Static](Talents.md#self-shocker) Talent, removing the mobility buffs to double the damage modifier's effectiveness to 20% and lessening the self damage on cast. Signified by a yellow/blue thunder conduit over your heart.
+Applied by using the [Static Withdraw](Talents.md#thundercall) Talent tool with the [Jumpstart](Talents.md#self-shocker) upgrade. Increases your mobility, grants a 10% damage modifier to weapon attacks, and allows you to apply [Shock](#shock)/[Surge Stacks](#overloaded) on your weapon attacks. This effect can be enhanced with the [Raging Static](Talents.md#self-shocker) Talent, removing the mobility buffs to double the damage modifier's effectiveness to 20% and lessening the self damage on cast. Signified by a yellow/blue thunder conduit over your heart.
 
 ### Engulfed by Lightning
 
-Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have your swing speed and movement speed increased while active. Signified by pulsating electricity around your character.
+Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have your swing speed by 10% and movement speed increased while active. Signified by pulsating electricity around your character.
 
 ### Engulfed by Shadows
 
@@ -109,6 +105,10 @@ Have your movement and parkour speed increased by 15% and your swing speed incre
 ### True Strength
 
 [Bladeharper](Oath%253A_Bladeharper.md) exclusive. Gain a speed boost and empower your Bladeharper abilities. Applied by landing 10 attacks (weapon attacks count as 2) without being hit, proccing [Untouchable](Oath%253A_Bladeharper.md) or by using the [Reveal](Oath%253A_Bladeharper.md) Talent tool. If applied through Untouchable, this effect has a 15 second duration. If applied through Reveal, this effect has an indefinite duration until your health reaches 10% or lower. Reveal also self applies the [Wither](#wither) status over time. Signified by a white aura emanating from your character's chest.
+
+### Positive Link
+
+[Linkstrider](Oath%253A_Linkstrider.md) exclusive. Gain 20% damage resistance, 5% dmg boost and constant speed boost that is able to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
 
 ### Last Resort
 
@@ -178,11 +178,11 @@ These status effects won't kill you, but they can give you a debuff or drain you
 
 ### Bleed
 
-This effect can be applied by being hit by a weapon that applies bleed, [Crimson Terrapods](Terrapod.md#crimson), or Mantras that apply bleed ([Ironsing](Ironsing.md) and [Revenge](Attunement-less.md#revenge)). Bleed deals 10% of the initial attack's damage in three damage ticks, totaling to a 30% total damage increase. Bleed from [Speed Demon](Talents.md#vigil-swordsman) only results in a 15% total damage increase. Reduces your blood levels and deals some HP damage; signified by blood pouring out from your character. Lower blood levels mean lower healing.
+This effect can be applied by being hit by a weapon that applies bleed, [Crimson Terrapods](Terrapod.md#crimson), or Mantras that apply bleed (such as most [Ironsing](Ironsing.md) Mantras and [Revenge](Attunement-less.md#revenge)). Bleed deals 10% of the initial attack's **scaled** damage in three damage ticks, totaling to a 30% total damage increase. Bleed from [Speed Demon](Talents.md#vigil-swordsman) deals 5% of the attack's scaled damage per tick, resulting in a 15% total damage increase. Bleed damage cannot be buffed outside of increasing an attack's scaled damage. Bleed damage deals increased blood bar damage. Signified by blood pouring out from your character.
 
 ### Burn
 
-This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move and many other sources. Drains your health at a relatively negligible pace. If an unconscious body is set on fire, they will automatically be gripped after 8 seconds if not picked up (5 seconds if the user who applied the fire has the talent Corpse Explosion). Can be gotten rid of by rolling, jumping in water, or by sliding. Extinguishing the fire on yourself will grant you immunity to burn for 2s. Burn damage scales on the user's Flamecharm investment. Signified by fire particles coming from your character. Additionally, certain objects (notably the long carpets in Voidheart) can also be set on fire and burn the person upon touch.
+This effect can be applied on you by most notably, being hit by a [Flamecharm](Flamecharm.md) move, but there are many other burn application sources. Drains your health at a relatively negligible pace. If an unconscious body is set on fire, they will automatically be gripped after 8 seconds if not picked up (5 seconds if the user who applied the fire has the Corpse Explosion Talent). Burn will be extinguished when rolling, jumping in water/standing in rain, or sliding. When burn is extinguished, gain immunity to burn for 2 seconds. Burn damage scales on the user's Flamecharm investment. Additionally, certain objects are flammable and will glow orange when hit by a terrain-interacting [Flamecharm](Flamecharm.md) or [Thundercall](Thundercall.md) Mantra, applying burn to anyone who touches it. Signified by fire particles coming from your character.
 
 It has a few sub-variants:
 
@@ -195,39 +195,39 @@ It has a few sub-variants:
 
 ### Winded
 
-This effect can be applied by being hit with Galebreathe Mantras or Galeforced monsters, it reduces your attack speed for its duration. Signified by green (white if the user has Spectre Path) spirals on your character.
+This effect can be applied by being hit with [Galebreathe](Galebreathe.md) Mantras or [Galeforced](Monsters.md#attuned-monsters) monsters, it reduces your attack speed for its duration. Signified by green (white if the user has Specter Path) spirals on your character.
 
 ### Suffocate
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md#wind-gun), [Galetrap](Galebreathe.md#galetrap) or by any other Galebreathe Mantra if the user has A World Without Song. Unable to cast Mantras for a duration while also taking 1 damage per tick. If the user has the Talent Stifled Jump, you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
+Can be applied by being hit by [Wind Gun](Galebreathe.md#wind-gun), [Galetrap](Galebreathe.md#galetrap) or by any other Galebreathe Mantra if the user has [A World Without Song](Talents.md#silencer). Removes your ability to cast Mantras for a duration while also taking 1 damage per tick. If the user has the Talent [Stifled Jump](Talents.md#aeromancer), you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
 
 ### Chill
 
-Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mantra, from being hit by a Frostmantled enemy, from the [Crustaceous Rex](Crustaceous_Rex.md)'s bubbles, or from a [Glacial Lionfish](Glacial_Lionfish.md)'s Chilling Cero. Signified by cyan smoke on your character.
+Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mantra, any attack from a [Frostmantled](Monsters.md#attuned-monsters) monster, from the [Crustaceous Rex's](Crustaceous_Rex.md) bubbles, or from a [Glacial Lionfish's](Glacial_Lionfish.md) Chilling Cero. Signified by cyan smoke on your character.
 
 ### Crystal
 
-Have a crystal stacked on you. When you reach 5 crystals, they will detonate, damaging you heavily. Applied by being hit by most Mantras from a Frostdrawer using Glass Path: Crystalization. Signified by having a crystal stacked on you.
+Have a crystal stacked on you. Upon guard breaking or applying five crystals and then landing an attack that would apply a sixth, the stacked Crystals will detonate, dealing Frostdraw damage per applied Crystal. Applied by being hit by most [Frostdraw](Frostdraw.md) Mantras with the [Glass Path: Crystalization](Talents.md#glassdancer) Talent tree. Signified by having a crystal stacked on you.
 
 ### Reclaimed Glass
 
-Gain 10% elemental resistance. Applied through the [Reclaimed Glass](Talents.md#glassdancer) Talent upon crystal detonation. This effect can also be shared with allies. Signified by crystal shards on your character.
+Gain 10% elemental resistance. Applied through the [Reclaimed Glass](Talents.md#glassdancer) Talent upon Crystal detonation. This effect can also be shared with allies. Signified by crystal shards on your character.
 
 ### Frozen
 
-Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw Talents, Mantras, and [Hailbreaker](Hailbreaker.md) Critical. Signified by being encased in a block of ice. Mash F to escape faster.
+Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some [Frostdraw](Frostdraw.md) Talents, Mantras, and [Hailbreaker](Hailbreaker.md) Critical. Signified by being encased in a block of ice. Mash F to escape faster.
 
 ### Shock
 
-Hitstun of the attack that apply shock is increased (0.9s>1s), meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry) and bypasses hyperarmor. Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
+Increases the hitstun of the attack that applied this status effect (0.9s to 1s). This does not affect your ability to parry. Shock's hitstun bypasses [hyperarmor](#hyperarmor), but not [true hyperarmor](#true-hyperarmor). Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
 
 ### Electrified
 
-Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) Mantra combined with the Talent Resolve Crusher. Signified by a swirling lightning effect in the users torso.
+Deal 10% less damage and have your damage type on M1s transfer to Thundercall damage. Applied through being hit by 5 hits from any [Thundercall](Thundercall.md) Mantra with the [Resolve Crusher](Talents.md#authority-interrogator) Talent. Signified by a swirling lightning effect in the users torso.
 
 ### Sapped
 
-This can be applied by being flourished by someone using [Thunder Wisp](Thundercall.md#thunder-wisp) or by someone overloading your surge stacks with Fried Circuits. While Sapped, your Mantra cooldowns are increased, you will also be shocked when Sapping ends. Indicated by a lightning javelin piercing you.
+This can be applied by being flourished by someone using [Thunder Wisp](Thundercall.md#thunder-wisp), being hit by either of the [Boltcrusher](Boltcrusher.md) criticals, or by someone Overloading your Surge stacks with [Fried Circuits](Talents.md#unstable-capacitor). While Sapped, your Mantra cooldowns are increased, you will also be shocked when Sapping ends. Indicated by a lightning javelin piercing you.
 
 ### Static Linked
 
@@ -235,7 +235,7 @@ A link tethering you to your opponent. Applied by uppercutting an opponent while
 
 ### Overloaded
 
-Inflicted by Thundercall Surge Path Mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you. Signified by a blurple rod planted in your body.
+This status effect is exclusive to the [Surge Path](Talents.md#unstable-capacitor) Talent tree. Surge Rods are inflicted primarily by [Thundercall](Thundercall.md) Mantras, but anything that would normally apply [Shock](#shock) will apply a Surge Rod instead. Upon guard breaking or applying five rods and then landing an attack that would apply a sixth, the stacked Sure Rods will violently discharge, dealing Thundercall damage per applied Surge Rod. This effect can be enhanced by several talents in the Surge Path Talent tree. Signified by a blurple rod planted in your body.
 
 ### Lord's Tithe
 
@@ -264,8 +264,8 @@ Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a t
 
 -   At 25% Blood Poisoning, [Hemolysis](Talents.md#septicemia) Talent is Activatable, granting you a 25% critical damage bonus when hitting someone at or above 25% BP.
 -   At 30% Blood Poisoning, [Vasculitis](Talents.md#septicemia) Talent is Activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them.
--   At 40% Blood Poisoning, Enemies are under an Anti-Heal effect
--   At 50% Blood Poisoning, Enemies have their damage reduced
+-   At 40% Blood Poisoning, Enemies are under an Anti-Heal effect.
+-   At 50% Blood Poisoning, Enemies have their damage reduced.
 -   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodhound) Talent is Activatable, highlighting enemies when you hit them.
 -   At 70% Blood Poisoning, [_**Gruesome Harvest**_](Talents.md#septicemia) Talent is Activatable, granting you slight Temporary Health when hitting people at or above 70% BP with Bloodrend mantras.
 
@@ -275,7 +275,7 @@ Take 4.5 **true** damage and lose 2% of your maximum blood per second, but gain 
 
 ### Poisoned
 
-This can be applied by being hit by the [Deep Widow](Deep_Widow.md)'s venomous bite. While poisoned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage. There is no visual indicator for it.
+This can be applied by being hit by the [Deep Widow's](Deep_Widow.md) venomous bite. While poisoned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage. There is no visual indicator for it.
 
 ### Dazed
 
@@ -315,7 +315,7 @@ While active, suffer from 80% Anti-Heal meaning you will only get healed 20% of 
 
 ### Charm
 
-Deal 10% less damage to the player who charmed you. If the charmer has the Talent Tough Love, take 10% more damage to the player who has charmed you. Having the [Disbelief](Talents.md#mental-fortress) Talent halves the duration when applied to you. Can be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent and others that grant Overcharm, causing you to take 10% less self-damage and get up from being knocked twice as fast. Signified by hearts appearing around the user.
+Deal 10% less damage to the player who charmed you. If the charmer has the Talent Tough Love, take 10% more melee damage from the player who has charmed you. This is lowered to 5% for Mantras. Having the [Disbelief](Talents.md#mental-fortress) Talent halves the duration when applied to you. Can be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent and others that grant Overcharm, causing you to take 10% less self-damage and get up from being knocked twice as fast. Signified by hearts around the character's head.
 
 ### Chaotic Charm
 
@@ -329,25 +329,25 @@ Deal an additional 10% less damage to the player who Charmed you and 20% more da
 
 [Chainwarden](Oath%253A_Chainwarden.md) exclusive. Gain a slow that ramps up in effectiveness the further you move away from the person who enchained you. Applied through the [Chainlash](Talents.md#chainwarden) Talent and the [Restrain](Oath%253A_Chainwarden.md) and [Impel](Oath%253A_Chainwarden.md) Mantras. Being Enchained automatically applies 1 stack of Perpetual Wrath, increasing the damage of the Restrain Mantra. This effect can be removed by moving too far away from the Chainwarden player or by waiting 30 seconds. Signified by a large chain sprouting from the Chainwarden player's gauntlet and attaching itself to you.
 
-### Drained
-
-Takes a certain amount to all of the ether that you possess. if the user used the [Vow of Mastery Command: Leech](Vow_of_Mastery.md), the ether in your possession will become theirs. If the effect was applied from [potions](Alchemy.md), the amount of ether and how fast your drained varies. Signified by a blue ball of ether leaving your body to go to your master.
-
 ### Negative Link
 
-Become slowed and deal less damage, also become a valid target for Symbiotic Leech. Signified by a red link between you and the [Linkstrider](Oath%253A_Linkstrider.md).
+[Linkstrider](Oath%253A_Linkstrider.md) exclusive. Become slowed and deal less damage, also become a valid target for Parasitic Leech. Signified by a red link between you and the [Linkstrider](Oath%253A_Linkstrider.md).
+
+### Drained
+
+Takes a percentage of your maximum Ether and grants it to your Vow Master. Applied the [Vow of Mastery](Vow_of_Mastery.md) Command: Leech. Signified by a blue ball of ether leaving your body to go to your master.
 
 ### Bottom Freeze
 
-Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling](Chilling.md) enchantment. Signified by the legs of your character being frozen in ice.
+Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling](Chilling.md) enchantment and the [Bottom Freeze](Talents.md#ice-age) Talent. Signified by the legs of your character being frozen in ice.
 
 ### Harrowing
 
-This is applied by being hit by the [Harrowing](Harrowing.md) enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
+This is applied by being hit by the [Harrowing](Harrowing.md) Enchant, hiding your Health, Posture, and Armor values. Signified by purple mist dissipating from your character and the aforementioned bars being covered by a mix of purple and yellow.
 
 ### Deferred
 
-This is applied by being hit by the [Deferred](Deferred.md) enchant. Take DOT by (WD \* 1.07) \* .1); damage is dealt 10 times over the course of 2.5 seconds.
+This is applied by being hit by the [Deferred](Deferred.md) enchant. Take their attack's damage as a damage over time effect. This ticks 10 times over the course of 2.5 seconds and grants their attacks a 7% damage bonus. The formula is as follows: ((weapon damage \* 1.07) \* 0.1) = damage per tick. Deferred's damage is snapshotted at the time of the attack landing, meaning changes in resistances or damage modifiers will not have an impact on Deferred's damage. This effect has no visual indication.
 
 ### Tethered
 
@@ -355,7 +355,19 @@ Become tethered to your attacker, being pulled towards them forcefully. Applied 
 
 ### Nemesis Mark
 
-Become marked for an auto aim katana critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis](Nemesis.md) enchant.
+Become marked for an auto aim [Katana](Katana.md)\-like critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis](Nemesis.md) enchant.
+
+### Cauterized
+
+Applied by being hit by the [Sear](Sear.md) enchant. Incoming attacks have increased PEN, which is increased every time you get hit by the Sear enchant until it caps out at +40% PEN. No visual effect.
+
+### Solar Mark
+
+Applied by being flourished or hit by critical attacks from weapons with the [Solar](Solar.md) enchant. Reduces tempo and ether gain/regeneration. If the Solar user uses their Vent on you, it consumes your Tempo instead of theirs. Indicated by a pulsating star on your character.
+
+### Grim
+
+Take 20% more damage and 50% more posture damage from all sources for 6 seconds. Applied by being hit by the [Grim](Grim.md) enchant. Signified by red bubbles on your torso.
 
 ### Potions: Debuffs
 
@@ -381,71 +393,55 @@ Mocking favor is the outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [T
 
 ### Moonseye Mark
 
-Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use a followup crit on you, or users of the [Soulthorn](Soulthorn.md) to use their stage 2 and 3 crits on you depending on your Moonseye Mark stacks.
+Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use their followup attack to their critical, or users of the [Soulthorn](Soulthorn.md) to use their 2nd and 3rd stage criticals on you depending on the amount of Moonseye Mark stacks applied.
 
 ### Angry/Enraged
 
-Applied through being hit by the Mantra [Taunt](Attunement-less.md#taunt) or being block broken by a player who has the [Cornered Fool](Talents.md#empath) Talent. Receive 20% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
+Applied through being hit by the Mantra [Taunt](Attunement-less.md#taunt) or being block broken by a player who has the [Cornered Fool](Talents.md#empath) Talent. Receive 20% more damage but deal 10% more damage to the player who Taunted you. Also disables the ability to jump for the duration. Signified by red particles.
 
 ### Fear
 
-Take 25% more damage and 1.5x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt](Megalodaunt.md)'s roar, [Primadon](Primadon,_Titan_of_the_East.md)'s Phase 2 transformation and by Ardour Scream. Signified by pink/purple particles on your character.
+Take 25% more damage and 1.5x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon,_Titan_of_the_East.md) Phase 2 transformation and by [Ardour Scream](Talents.md#murmur). Signified by pink/purple particles on your character.
 
 ### Sleeping
 
-Gain 90% damage reduction at the cost of being ragdolled and not being able to move. Applied through the use of the [Paralytic Dust](Paralytic_Dust.md) Resonance. Cannot be applied to people with the [Brick Wall](Talents.md#human-architecture) Talent and cannot be applied within the [First Layer](First_Layer.md). Signified by "ZZZ" marks emanating from the player head. Automatically clears upon being hit 3 times.
+Gain 90% damage reduction at the cost of being ragdolled and not being able to move. Applied through the use of the [Paralytic Dust](Paralytic_Dust.md) Resonance. If the user has the self cast variant of the Resonance, they will also heal for the duration of the Sleeping effect. Cannot be applied to people with the [Brick Wall](Talents.md#human-architecture) Talent and cannot be applied within the [First Layer](First_Layer.md). Signified by "ZZZ" marks emanating from the player head. Automatically clears upon being hit 3 times.
 
 ### Hamstrung
 
-Can be applied by being hit by a critical attack if the user has Bear Trap. Become slowed and lose the ability to jump. Signified by one of the users legs bleeding.
+Can be applied by being hit by a critical attack if the user has [Bear Trap](Talents.md#vigil-swordsman). Become slowed and lose the ability to jump. Signified by one of the users legs bleeding.
 
 ### Obscured
 
-Screen turns slightly black around the edges and have your vision obscured. Gained by being hit with a [Shadowcast](Shadowcast.md) Mantra with the Talent Sightless Still.
-
-### Cauterized
-
-Applied by being hit by the [Sear](Sear.md) enchant. Incoming attacks have increased PEN, which is increased every time you get hit by the Sear enchant until it caps out at +40% PEN. No visual effect.
-
-### Solar Mark
-
-Applied by being flourished or hit by critical attacks from weapons with the [Solar](Solar.md) enchant. Reduces tempo and ether gain/regeneration. Indicated by a pulsating star on your character.
-
-### Grim
-
-Take 20% more damage and 50% more posture damage from all sources for 6 seconds. Applied by being hit by the [Grim](Grim.md) enchant. Signified by red bubbles on your torso.
+Screen turns slightly black around the edges and have your vision obscured. Gained by being hit with a [Shadowcast](Shadowcast.md) Mantra with the [Sightless Still](Talents.md#shadowcaster) Talent.
 
 ### Time Stasis
 
-Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Subtle_Knife_of_Eylis.md) and [Semblance](Semblance.md) NPCs. Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can easily be removed by hitting and breaking the center of the time bubble or walking out of its range.
+Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Subtle_Knife_of_Eylis.md) and [Semblance](Semblance.md) NPCs. Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can be removed by hitting and breaking the center of the time bubble or by walking out of its range.
 
 ### Audacity
 
-Applied by standing near someone with audacity when they're executing someone. Which inflicts a stun AOE around everyone near them making them stuck in place for around 5 seconds. Signified by White Eyes in the moment of the execution. Also grants nearby allies a 10% damage buff.
+Applied by standing near someone with audacity when they're executing someone. Which inflicts a stun AOE, this greatly halts movement speed and disallows attacking for 5 seconds. Signified by White Eyes in the moment of the execution. Also grants nearby allies a 10% damage buff.
 
 ### Wither
 
-Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and gaining health when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s M1s and Critical Attack, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, or can be applied to self with [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
+Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s M1s and Critical Attack, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, or can be applied to self with [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
 
 ## Deadly Status Effects
 
 These status effects cause certain death if nothing is done about them.
 
-### Bleeding
+### Parched/Starved
 
-This effect happens once your blood bar is **zero**. Once this happens both hunger and thirst will rapidly drop to replenish your blood. You will also become slower and get your screen to blur and darken. Your blood can replenish to a point if you have enough food and water on you, but if you don't you will eventually die of starvation/dehydration as your body cannot live without food and water. To avoid bleeding out, replenish your blood near campfires, and to prepare for it, always keep food and water on you.
+This effect happens when you are low on thirst/water. When this occurs, your vision will start to blur and darken. If either of these bars are below 20%, you will not be able to heal past 90% health. If one, but not both, of these bare are fully empty, the drain on the other bar will be doubled, your health regen will be halved, and you will not be able to heal past 80% health. If both of these bars are empty, your blood will gradually drain and your health will be drained down to 50%.
 
-### Parched
+### Hypovolemic Shock
 
-This effect happens when you are low on thirst/water. When this occurs, your vision will start to blur and darken. If it ever does reach 0, you won't get knocked or take damage as a result unless your hunger is also gone.
-
-### Starved
-
-This effect happens when you are low on hunger/food. When this occurs, you will become slower, swing slower, deal less damage and you will be unable to heal past 90% of your HP. If it ever does reach 0, you won't get knocked or take damage as a result unless your thirst is also gone.
+This effect happens once your blood bar is below 5%, causing your stomach and thirst meters to rapidly drain in order to sustain yourself. Your health will also rapidly deteriorate. If you have enough food and thirst, you can stabilize yourself, but if not you will eventually die from starvation/dehydration. If you are swimming while below 50% health in this state, you will instantly be knocked and will drown. To avoid bleeding out, replenish your blood near campfires, and to prepare for it, always keep food and water on you.
 
 ### Acid
 
-Not to be confused with Acid Rain, this effect refers to the large pools of Acid found in [Erisia](Erisia.md). When standing in these pools, you will lose a small amount of your health at a time. If your health reaches 0 or if you're unconscious while in Acid, your character will instantly die. This is relatively uncommon as the acid pools can easily be avoided by parkour or by jumping right after touch the acid, but it can pose a danger if you are being chased into a pool of acid.
+Not to be confused with Acid Rain, this effect refers to the large pools of Acid found in [Erisia](Erisia.md). When standing in these pools, you will lose a small amount of your health and armor at a time. If your health reaches 0 or if you're unconscious while in Acid, your character will instantly die. This is relatively uncommon as the acid pools can easily be avoided by parkour or by jumping right after touch the acid, but it can pose a danger if you are being chased into a pool of acid.
 
 ### Tier 1 Insanity
 
@@ -463,4 +459,4 @@ This effect happens when you've reached Tier 3 of [Insanity](Insanity.md), or un
 
 ### \[ Coral Fever \]
 
-This effect happened on April 1 of 2023 and it was obtained either when you got stabbed by a [Megalodaunt](Megalodaunt.md)'s Coral Spear, got scratched by a [Megalodaunt](Megalodaunt.md) or you got sneezed on by a [Megalodaunt](Megalodaunt.md) or emoting near the [Great Sharko Rumbling](The_Great_Sharko_Rumbling.md) statue in [Etris Docks](Etris_Docks.md). When obtained, you were greeted by [Destroyman III](Destroyman_III.md) and you couldn’t get rid of him, unless you emoted near the same statue again, which will destroy [Destroyman III](Destroyman_III.md).
+This effect happened on April 1 of 2023 and it was obtained either when you got stabbed by a [Megalodaunt's](Megalodaunt.md) Coral Spear, got scratched by a [Megalodaunt](Megalodaunt.md) or you got sneezed on by a [Megalodaunt](Megalodaunt.md) or emoting near the [Great Sharko Rumbling](The_Great_Sharko_Rumbling.md) statue in [Etris Docks](Etris_Docks.md). When obtained, you were greeted by [Destroyman III](Destroyman_III.md) and you couldn’t get rid of him, unless you emoted near the same statue again, which will destroy [Destroyman III](Destroyman_III.md).

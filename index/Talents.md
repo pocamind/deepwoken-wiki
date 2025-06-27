@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 148152
+revid: 148273
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -326,7 +326,7 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 > _**"My hunt is inescapable."**_
 
--   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
+-   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
     -   Obtaining the "Vegetarian" flaw from shrines such as Shrine of Blasphemy or Order will remove the talent, giving you a free talent hand at the next power.
     -   Prerequisites: 5 Strength, 5 Willpower

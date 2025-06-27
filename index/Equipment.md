@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 148225
+revid: 148284
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -5496,6 +5496,21 @@ Found from:
  | N/A |
 |  | 
 
+[Hollow Angel Mask](Hollow_Angel_Mask.md)
+
+ | 
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   Mob Drop from [Hollow Angels](Hollow_Angel.md) (rare)
+
+ | Hollow, Sworn |
+|  | 
+
 [Iron Mask](Iron_Mask.md)
 
  | 
@@ -5553,6 +5568,21 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
+|  | 
+
+[Sworn Angel Mask](Sworn_Angel_Mask.md)
+
+ | 
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   Mob Drop from [Sworn Angels](Sworn_Angel.md) (rare)
+
+ | Hollow, Sworn |
 | File:Rabel Bandana.png | 
 
 [Rebel's Bandana](<Rebel's_Bandana.md>)

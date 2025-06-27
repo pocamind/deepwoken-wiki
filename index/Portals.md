@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 134274
+revid: 148261
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -58,8 +58,7 @@ When obtained, Portals will spend its points on the following stats:
 -   If you somehow take damage/get assassinated during, it forces you out of the portal.
 -   This Resonance can be used to clip through walls[\[1\]](#cite-note-1), and by extention, exit the boundaries of [Guild Bases](Guild_Bases.md).[\[2\]](#cite-note-2)
     -   Distance clipped likely depends on speed stat and whether or not the bell is corrupted.
-
--   If two people have portal bell, they can see each other while either one are in the portal.\[Source Needed\]
+-   Portals now properly makes enchant VFX disappear, unlike the outdated gif
 
 ## References
 

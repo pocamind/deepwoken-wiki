@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 147683
+revid: 148303
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -16,9 +16,11 @@ categories: [Attributes, Character, Mechanics]
 
 ## Basic Attributes
 
-Attributes can be increased by using its respective attribute [Training Gear](Training_Gear.md) in order to spend your current investment points. When creating a character you start off with [15 free investment points](Character_Stats.md) plus an additional 2 or 3 points in two stats dependent on your aspect (i.e. Felinors get 3 points in agility and 2 points in charisma). You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
+Attributes can be increased by using its respective attribute [Training Gear](Training_Gear.md) in order to spend your current investment points. When creating a character you start off with [15 free investment points](Character_Stats.md) plus an additional 2 or 3 points in two stats dependent on your aspect (i.e. Felinors get 3 points in agility and 2 points in charisma). You need both attribute EXP, earned through training a specific attribute, and [general EXP](Power.md), earned through kills, exploration, quests etc.
 
-stat page during verse 1
+The total attribute points that have been made available to you based on if your EXP is enough to invest into an attribute is displayed in the bottom left corner, while "waiting" points are those that have yet to be made available. An invested point is signified by one of 15 orbs around the Power emblem turning blue. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
+
+Attributes window
 
 -   Strength → _use the **[Dumbbell](Training_Gear.md#attribute-training-gears)**_
 -   Fortitude → _take damage with the **[Training Vest](Training_Gear.md#attribute-training-gears)**/carry the **[Boulder](Training_Gear.md#attribute-training-gears)**_
@@ -219,7 +221,10 @@ _**NOTE:** The message that appears when training an attunement, "The elements a
 
 ## Tips
 
+Stat export window during Verse One
+
 -   A useful site to help plan out your build is [https://deepwoken.co/builder](https://deepwoken.co/builder). Also refer to [Talents](Talents.md), [Mantras](Mantras.md), [Resonance](Resonance.md), [Murmur](Murmur.md), and [Oaths](Oaths.md) to see what you wish to include in your build.
+    -   You are able to export the contents of your character, including your [Mantras](Mantras.md) and [Talents](Talents.md), using the "Export Character" button in the top right corner of the screen, to then be used in external tools such as the Deepwoken Builder. When the window opens, click the text 3 times in quick succession (or until it all becomes highlighted) and then press CTRL + C on your keyboard, copying it all to be pasted elsewhere.
 -   A few great tools for training charisma are [https://charisma-trainer.vercel.app](https://charisma-trainer.vercel.app/) and [https://ergonomic-charisma-trainer.vercel.app](https://ergonomic-charisma-trainer.vercel.app/).
 -   Experimentation is the best way to learn what kind of builds you enjoy! There are many creative builds that one can make! See what works and learn from your voyages.
 -   You may sometimes spend all your investment points yet still not power up. This means you got enough regular EXP to increase a stat, but not enough to level up.

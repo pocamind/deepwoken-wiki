@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 142213
+revid: 148271
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -66,7 +66,7 @@ Fight as if it were a normal [Rock Golem](Rock_Golem.md), albeit with caution. A
 
 If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. When parrying the bite attacks, wait until you see that you have parried all three successfully before attacking because if you parry and press M1 before the third attack in anticipation for the parry, the parry will not land, and you will get damaged. It is recommended to do two attacks, wait and observe the attack that is about to commence, then parry and attack accordingly. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack. 500 HP.
 
-**2 Greater Angels:**
+**2 Sworn Angels:**
 
   
 **"You're halfway there. Keep going, lone warrior."**
@@ -131,7 +131,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 ## Trivia
 
--   Greater Angels use _[Crazy Slots's](Crazy_Slots.md)_ Divine Spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
+-   Sworn Angels use _[Crazy Slots's](Crazy_Slots.md)_ Divine Spears, which differentiate them from [Hollow Angels](Hollow_Angel.md).
 -   You can go through the Light gate behind you to return to Minityrsa.
 -   If you go into the Trial of One, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa, regardless of your progress in it.
 -   If you hold an armor piece in your hand when the Trial would force you to discard it, it will allow you to keep it. (this might be a bug)
