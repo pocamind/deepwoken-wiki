@@ -1,6 +1,6 @@
 ---
 title: Amenre Skiggle Bop
-revid: 144498
+revid: 148311
 source: https://deepwoken.fandom.com/wiki/Amenre_Skiggle_Bop
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -22,7 +22,7 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 
 ## Description
 
-Amenre Skiggle Bop is a [Kyrsan](Kyrsgarde.md) NPC found above the [Kyrsan Wilds](Kyrsan_Wilds.md), right above the watchtower and residing within a cliff. He wears a pair of headphones, listening to the Kyrsan Break and has a distinct green head.
+Amenre Skiggle Bop is a [Kyrsan](Kyrsgarde.md) NPC found above the [Kyrsan Wilds](Kyrsan_Wilds.md), right above the watch tower and residing within a cliff. He wears a pair of headphones, listening to the Kyrsan Break and he has a distinct green head that separates him from other Kyrsans.
 
 ## Dialogue
 
