@@ -1,9 +1,9 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 148308
+revid: 148325
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oath: Soulbreaker
@@ -36,7 +36,7 @@ Meet the following requirements, which is required for either method:
 
 There are two methods from here:
 
--   Have HERO REPUTATION, HERO! reputation with [Etrea](Etrea.md).
+-   Have High Ally reputation with [Etrea](Etrea.md).
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god.
 -   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the King's Ardour.
 -   Have a [Resonance](Resonance.md).
@@ -178,11 +178,14 @@ February 8th 2025
 -   Rhythm Advance's posture damage is increased.
 -   Ardour Slicer's endlag is increased slightly.
 
+File:Incompetent tester.png
+
 ## Trivia
 
+-   There is currently a bug where you cannot gain hero reputation for [Etrea](Etrea.md), for now you can get Soulbreaker with high ally reputation
 -   Currently, this is one of three Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), and [Chainwarden](Oath%253A_Chainwarden.md))
     -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.
 -   It is recommended to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) or [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) to progress this Oath as they only use 1 Knowledge each time.
 -   Rhythm Advance might be a reference to Killua's "Rhythm Echo" from HXH
--   If you have at least 40 Charisma, getting the talent 'Celebrity' makes farming reputation for Etris a bit easier.
+-   If you have at least 40 Charisma, getting the talent '[Celebrity](Talents.md)' makes farming reputation for [Etrea](Etrea.md) a bit easier.
 -   There is a bug where Ardour Slicer hits through the player who parries causing unfair punishes even though they properly parried it.

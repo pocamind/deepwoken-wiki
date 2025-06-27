@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 148310
+revid: 148316
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -36,3 +36,4 @@ _(one-time use, re-obtainable)_
 -   Cannot be used to talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) to attain [Soulbreaker](Oath%253A_Soulbreaker.md)
 -   It functions without the need of a Resonance, but will not provide you one.
 -   Cannot be used to escape the depths in [Layer 2](Second_Layer.md) or in [Fragments of Self](Fragments_of_Self.md).
+-   the item it self has been added and removed from [The Ferryman](The_Ferryman.md) loot pool multiple times

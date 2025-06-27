@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 148197
+revid: 148315
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -153,7 +153,7 @@ Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be l
 
 The Ferryman can prove a tough boss for new-comers, while being extremely easy for any repeat experiences, as he is the first major "Unique" enemy many players may encounter.
 
--   Please note that you may longer use campfires due to it now being a voidzone.
+-   Please note that you may no longer use campfires due to it now being a voidzone.
 -   Remain calm doing this boss, as the less hits you take, the more damage you will deal due to his Inverse Chain.
 -   His moves are all **INCREDIBLY** loud and telegraphed, turning up your volume will allow you to hear any attacks you may be unable to see. In almost all cases, the moments he grants the player an attack opportunity are telegraphed with a spin, although the duration will vary from attack to attack.
 -   Make sure to sell or store items in your inventory; You will be surprised how much the speed debuff of being overencumbered can hurt.

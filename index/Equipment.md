@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 148284
+revid: 148328
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -5498,6 +5498,8 @@ Found from:
 
 [Hollow Angel Mask](Hollow_Angel_Mask.md)
 
+(**Series**)
+
  | 
 
 +1 Rare Pip
@@ -5571,6 +5573,8 @@ Found from:
 |  | 
 
 [Sworn Angel Mask](Sworn_Angel_Mask.md)
+
+(**Series**)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 147888
+revid: 148326
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1766,7 +1766,7 @@ Slash
 
 -   Deals 20/22/24/26/28 base damage with 1.65 Medium Weapon scaling.
 -   Deals 12 posture damage.
--   Uppercuts, proccing [Bladeharper's](Oath%253A_Bladeharper.md) Float like a Butterfly.
+-   Uppercuts, proccing [Bladeharper's](Oath%253A_Bladeharper.md) Soaring Storm.
 
  |
 
