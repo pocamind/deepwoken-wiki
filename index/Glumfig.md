@@ -1,6 +1,6 @@
 ---
 title: Glumfig
-revid: 147909
+revid: 148347
 source: https://deepwoken.fandom.com/wiki/Glumfig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Ingredients, Alchemy]

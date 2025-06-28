@@ -1,6 +1,6 @@
 ---
 title: Paralytic Dust
-revid: 147709
+revid: 148380
 source: https://deepwoken.fandom.com/wiki/Paralytic_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -40,8 +40,9 @@ If Paralytic Dust is Corrupted, it will apply blindness for 5 seconds.
 ## Trivia
 
 -   The Sleeping status effect cannot be applied within the [First Layer](First_Layer.md).
--   The Sleeping status effect cannot be applied to players with [Brick Wall](Talents.md#human-architecture).
+-   The Sleeping status effect cannot be applied to players with [Brick Wall](Talents.md#human-architecture) (including yourself).
+    -   For the Self Cast variant, having Brick Wall removes the self healing as well.
 -   Using this on a player who is currently using [Cap Artist](Talents.md#thief) will force them to get up, allowing them to move while under the effects of Paralytic Dust. This is referred to as 'sleep walking'.
-    -   Sleepwalking works because the game uses the same "sleep" state for Paralytic Dust and Cap Artist, and while you're affected by one, the other being applied flips the state back to neutral.
+    -   Sleepwalking works because the game uses the same 'sleep' state for Paralytic Dust and Cap Artist, and if 'sleep' is reapplied while you're in the 'sleep' state, the state flips back to neutral.
 -   Uniquely, Paralytic Dust's visual effects can be dyed with [Dye Packets](Dye_Packet.md).
 -   Because Wither damage is based on scaled damage (or is flat), applying Wither can effectively bypass the 90% damage reduction. This makes the [Umbrite Witherblade](Umbrite_Witherblade.md) critical especially deadly against Sleeping targets.

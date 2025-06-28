@@ -1,6 +1,6 @@
 ---
 title: Kasen
-revid: 142224
+revid: 148379
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer]
@@ -18,7 +18,7 @@ categories: [Capra NPCs, NPCs, Quests, Talents, NPCs located in the First Floor 
 
 Kasen is a Capra NPC in [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Eternal Gale](Second_Layer/The_Ethironal_Shrine.md). The fastest way to get to him is, upon entering the Shrine, immediately turn right and dash off of the bridge and onto the cliffs. Then, jump down.
 
-By talking to him with at least 80 Willpower and have **had** tier 1 insanity, he will teach you Heretic's Sutra, a [Talent](Talents.md#heretic) that reduces the sanity of the user by a flat amount on use.
+By talking to him with at least 80 Willpower and have **had** tier 1 [insanity](Insanity.md), he will teach you Heretic's Sutra, a [Talent](Talents.md#heretic) that reduces the sanity of the user by a flat amount on use.
 
 ## Dialogue
 

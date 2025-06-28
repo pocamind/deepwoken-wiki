@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 147562
+revid: 148381
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -330,7 +330,7 @@ These quests give EXP, chests and/or reputation as rewards and are repeatable.
 
 **Quest Location**: [Fort Merit](Fort_Merit.md)
 
-**Guide**: Save a hostage from Fort Merit and give them to the Etrean Guardmaster outside of the fort on a dinghy.
+**Guide**: Save a [hostage](Etrean_Guardsman_Hostage.md) from Fort Merit and give them to the [Etrean Guardmaster](Etrean_Guardmaster.md) outside of the fort on a dinghy.
 
 **Reward/s**: Exclusive Fort Merit Loot, EXP
 

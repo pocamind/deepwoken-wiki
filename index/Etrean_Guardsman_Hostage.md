@@ -1,25 +1,23 @@
 ---
 title: Etrean Guardsman Hostage
-revid: 137014
+revid: 148390
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsman_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Quests]
+categories: [NPCs, Quests]
 ---
 
 # Etrean Guardsman Hostage
 
-File:EtreaHostage.png
+Template:EnemyInfobox1.0
 
-An Etrean guard being held hostage at Fort Merit
-
-.
+  
 
 ## Description
 
-Etrean Guardsman Hostages is from the [Etrea](Etrea.md) faction. They appear exclusively as [Etreans](Etrean.md), having white skin, their hair color, hair, and Aspect variant varying. Like [Etrean Guards](Etrean_Guardsmen.md), they wear the same armor.
+Etrean Guardsman Hostages are from [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md). They appear exclusively as randomized [Etreans](Etrean.md), although they all wear the [Etrean Guard](Etrean_Guard.md) Expert [Outfit](Outfits.md).
 
-They are found kneeling down with their hands tied behind their backs in the prison cells within [Fort Merit](Fort_Merit.md).
+They are found in a prisoner pose, kneeled down on both knees and having their arms behind them, though they are forced into a standard pose when being knocked back. They spawn exclusively in prison cells within [Fort Merit](Fort_Merit.md).
 
-## Use
+You can pick them up using V. Dropping them will cause them to be knocked for a bit, and then they will get up in their usual prisoner pose. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, for they will not despawn unless you travel to a new Luminant.
 
-Bringing an Etrean hostage to the [Etrean Guardmaster](Fort_Merit.md) after talking to him, he will reward you with a handful of XP and a [Fort Merit](Fort_Merit.md) chest. Doing this quest also gives you negative reputation with [the Central Authority](The_Central_Authority.md), and positive reputation with Etrea. After giving 2 hostages to the Guardmaster, there is a cooldown for 8 minutes.
+Bringing an Etrean hostage to the [Etrean Guardmaster](Etrean_Guardmaster.md) will reward you with a handful of XP, a [Fort Merit](Fort_Merit.md) chest, reputation with [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), and negative reptuation with [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md).
