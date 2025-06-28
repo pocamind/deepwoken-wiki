@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 148342
+revid: 148421
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -344,6 +344,8 @@ _**You need to have made and drunk at least one potion for the Talents to start 
 
 ### Arcwarder
 
+> _**"The Union is absolute."**_
+
 -   [Oath: Arcwarder](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
 
@@ -464,12 +466,13 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 30%. (+5 Health)
     -   Scales linearly with investment up to its requirement. You'll have 10% pen reduction at 65 FTD and gain 0.8% PEN reduction per point in FTD above 65; scaling up to the full 30% once you hit 90 FTD.
-    -   PEN calculation: incoming PEN \*0.7 = reduced incoming PEN.
+    -   PEN calculation: incoming PEN \* (1 - 0.Reinforced Armor effectiveness) = reduced incoming PEN.
+        -   For example, 50% PEN vs 20% Reinforced Armor = 50 \* (1 - 0.2) = 40% PEN.
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer
 
-> _**"I seek the qualities of Blindseer."**_
+> _**"I will protect this world."**_
 
 -   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
@@ -2056,6 +2059,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Linkstrider
 
+> _**"I create bonds between others."**_
+
 -   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slot)
     -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
@@ -2345,7 +2350,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Oathless
 
--   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Resistance)
+> _**"I am unbounded."**_
+
+-   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Armor)
     -   Prerequisite: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 
 ### Omniscient
@@ -3124,14 +3131,16 @@ _**"My cure is most effective."**_
 
 ### Starkindred
 
+> _**"I speak for my masters above."**_
+
 -   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
     -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
 
 -   Death From Above \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Upon cancelling your Air Dash, reveal your wings and strike your enemy.
     -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
+    -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
     -   Deals 75 (25\*3) Slash damage.
     -   Deals 25 posture damage per hit.
-    -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
     -   Prerequisites: [Oath: Starkindred](Oath%253A_Starkindred.md), kill all three sinners ([Abaddon](Abaddon,_Sinner_of_Ice.md), [Minos](Minos,_Sinner_of_Flame.md), and [Astaroth](Astaroth,_Sinner_of_Wind.md)) OR give [Samael](Samael.md) 10 [Knowledge](Knowledge.md), instantly skipping Starkindred's progression (this can only be done if you've fully progressed the Oath at least once).
 
 ### Static Weaver
@@ -3810,7 +3819,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slot)
     -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
--   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Resistance)
+-   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Armor)
     -   Prerequisite: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 
 -   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)

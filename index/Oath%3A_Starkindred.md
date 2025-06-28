@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 146093
+revid: 148422
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -93,9 +93,9 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   **Death From Above - Talent Ability**
     -   _Upon cancelling your Air Dash, reveal your wings and strike your enemy._
         -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
+        -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
         -   Deals 75 (25\*3) Slash damage.
         -   Deals 25 posture damage per hit.
-        -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
         -   Despite what is shown in the gif, Death From Above no longer has hyperarmor.
     -   Obtained after the third Sinner kill.
 

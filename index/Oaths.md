@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 148406
+revid: 148413
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -128,8 +128,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 ### Upcoming Oaths
 
 -   Warmaster
-
--   Blightsurger
+-   [Blightsurger](Oath%253A_Blightsurger.md)
 
 ## Oath Skipping
 
@@ -255,14 +254,3 @@ Proof of Time Magic's existence and it being an "Oath"
     -   This is only after uptraining _Oathless_ once.
 -   Currently, there are three Oaths where you cannot skip progression with Knowledge. These Oaths are: [Chainwarden](Oath%253A_Chainwarden.md), [Bladeharper](Oath%253A_Bladeharper.md), and [Soulbreaker](Oath%253A_Soulbreaker.md)
     -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.
-
--   Blightsurger is an upcomming oath, probably the Arc Warder Re-Work. There is some info about it in Media.
-    -   Credits to the discord [Deepwoken Info](https://discord.com/invite/deepwokeninfo) and [**@ChunkyySoda**](https://medal.tv/u/ChunkyySodaa)
-
-## Media
-
-Blightsurger Oath Talents from someone obtaining the oath during a BR match.
-
-Video showcase by **@ChunkyySodaa** on [Medal](https://medal.tv/games/roblox/clips/kzSJV1H3q0sAIsiyH?invite=cr-MSxUbWEsNjM0NjI4MTA) using the basic mantras not in Blight State Blightsurger Mantras in the video from **@ChunkyySoda**.
-
-Blightsurger's Blight State effects and charge-up bar.
