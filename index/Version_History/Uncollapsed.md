@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 144886
+revid: 148336
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -15,6 +15,469 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **June 23rd, 2025**
+
+**Content & Systems**  
+• New Outfit talent: Static Mastery (Stormchanter's Raiments)  
+• New Outfit talent: Vigil's Grace (Vigil Sentinel)  
+• New Outfit talent: Tempest Evolution (Tempestmaker's Threads)  
+• New Outfit talent: Refreeze (Icebringer's Vestments)  
+• New Outfit talent: Focused Hematoma (Sanguine Finery)  
+• New Face Equipment: Hollow Angel Mask  
+• New Face Equipment: Sworn Angel Mask  
+• New Outfit: Ignition Welder  
+• Redesigned the ingame menu buttons. The music volume slider has been moved to the settings UI  
+• Chaser has been visited by a Fadetrimmer who took pity on him  
+• Redesigned Angels  
+  
+**New Feature: Encyclopedia**  
+• Added the Encyclopedia, a new interface accessible from your ingame menu next to the settings icon  
+• The Encyclopedia interface contains your Glossary and a new feature; the Bestiary  
+• Monsters and Bosses you've defeated at least once will gain a Bestiary entry. By completing challenges revolving around each entity, you gain additional damage and resistance when fighting them, as well as a little snippet of lore for some. More challenges are coming soon!  
+• Your Glossary can now be accessed through a new interface in the Encyclopedia that collects all of the terms you've come across  
+• Encyclopedia progress is account-wide. Completing your Bestiary Challenges will grant you bonuses on all your slots, not just the one that completes them  
+  
+**Poll: DvM Rework**  
+• Following the poll this week, DvM and Monster Armor have been removed as buff pips. Equipment may still have these stats innately, but they're no longer rollable stats  
+• The bonuses gained from DvM and Monster Armor pips have been largely replaced by the bonuses granted by your Bestiary, as all mobs that were affected by DvM have Bestiary entries to fill out  
+• Existing DvM and Monster Armor pips are rerolled into HP/Phys if possible (so all your needles weren't wasted)  
+• The HP pools on a lot of Monsters have been reduced by around 10% to further makeup for the removal of DvM pips  
+  
+**Balancing & Tweaks**  
+• As polled: All progression relics made droppable, but not on death (Moonsye Tome, Sinner's Ash, Armorer's Needle, Smith's Alloy, Forge Needle, Gilded Needle, Idol of Yun'Shul)  
+• You can now drop items while ragdolled  
+• NLK weapon scaling for healing effectiveness now properly accounts for weapons with split weapon investment like Wyrmtooth: instead of prioritizing Light over Medium and Medium over Heavy weapon stat, it will now take the sum of all applicable weapon stats. This means 60 Heavy + 40 Medium will be sufficient to reach full healing effectiveness on Wyrmtooth now. The healing is still capped to 100 weapon investment total  
+• Nerfed Glumfigs. The harvest was poor this year  
+• Increased all Bloodrend mantra ether costs  
+• Decreased Rocket Lance's fling velocity  
+• Base Fire Eruption size increased  
+• You can no longer turn Dread Breath, base damage increased by 50% as compensation  
+• Wither loss on knocking a player now scales with how much damage you did to the knocked player  
+• Linkstrider's Symbiotic Sustain now withers for 6% with Deepscorne Casque still reducing that amount by 20%  
+• Linkstrider's Symbiotic Sustain puts you in a 20 second CD on use (to prevent people from immediately healing the wither)  
+• Slice 'n' Dice damage toned down  
+• Twincleave's first hit damage reduced by 50%  
+• Flame Sentinel/Metal Turret no longer stun players  
+• Flame Sentinel damage buffed in PvE  
+• Flame Ballista damage reduced but windup a little faster  
+• Talents/Mantras can now be "Vaulted". This means that for the time being until they get a rework, problematic mantras and talents will be unobtainable and nerfed until they do get one  
+• Spikes Traps (Ice Spikes talent) and Shadow Vortex have been Vaulted  
+• Bolt Piercer / Lightning Strike has been nerfed a lot akin to the vaulted mantras, but for now are still available in game  
+• Nerfed base skeleton key durability, buffed up corrupt skeleton key durability and SIZE  
+• Using base crits with motifs system no longer gives you the windup debuff  
+• Decreased amount of time you are able to hit people with Air Counter after they jump  
+• Every part of Glacial Arc is now destructible and breaks the entire glacial arc  
+• Gave Skeleton Key an actual CD  
+• You can no longer use your critical during Scarlet Cyclones  
+• Soaring Storm now has slight endlag to prevent movestacks  
+• Finisher's Ring buffed from 10% more PEN to 40% more PEN (ring was awful since start of verse 2)  
+• Increased Soaring Storm's duration window after you lithe step (2 to 4 seconds)  
+• Glacial Arc is now a destructible object  
+• Blood Poison now decays slower but its innate effects (healing/less damage) nerfed  
+• Vasculitis proc requirement increased from 20% BP to 30% BP  
+• Spark Swap now has increased windup the further away your target is, and can now be cancelled if you hit someone during their Spark Swap windup  
+• You can no longer Spark Swap someone who is in Stun or is Knocked  
+• Finally nerfed damage reduction pots  
+• Ether reduction pots nerfed a ton, instant ether buffed  
+• Bladeharper's Lithe Step buffed (speed, less endlag, more snappy)  
+• Fixed Ankle Cutter not proccing Weapon Enchants  
+• Fixed Light Hook clearing on entering Floor 2  
+• Fixed Stormseye Critical not counting as gun hits  
+• Wyrmtooth default/followup critical now immediately ends if stunned out of it  
+• Bloodfouler standing critical has recieved more telegraphing vfx  
+• Fixed Bloodfouler critical not cancelling immediately if interrupted  
+• Fixed Bloodfouler default critical not guardbreaking  
+• Bloodfouler critical CD increased (8s -> 10s)  
+• Fixed the reduced cooldowns of Metal Gatling, Frost Grab, Clutching Shadow, Vein Tendrils, Fleeting Sparks, Shadow Seekers, Wind Forge, Bloodcurdle, Ice Chain, Shadow Chains, Rising Shadow, Abyssal Ridge and Flaming Scourge not being affectable by passives and status effects (such as Sapped)  
+• Stormbreaker will no longer go on cooldown if its windup is interrupted  
+• Fixed Precise Swing buffing crit chip damage by 5% instead of buffing the chip of your next attack by 5%  
+  
+**Bugfixes & Optimization**  
+• Extended the Layer 2 Floor 2 death pit to make it more reliable in killing people  
+• Fixed not always being teleported out of Fragments of Self correctly if you received a restore while online  
+• Fixed Bloodfouler critical trail being purple  
+• Fixed the Whaler time bubble screen effect  
+• Fixed Sudaruska's Fury proccing preventing you from attacking  
+• Fixed a gamebreaking bug involving Rocket Lance and Ice Lance which would instantly kill players
+
+### _**Patch 2.3.2a**_
+
+**Hotfixes & Changes**  
+• Corrupted Mobs now count as **2** kills for your Bestiary  
+• Fixed converted DvM/Monster Armor pips not being visible  
+• Fixed Nocturne critical dealing absurds amount of damage. This was caused by a refactor, which revealed the following bug that has also been fixed:  
+• Fixed Nocturne critical base damage scaling off of the weapon's weight, slightly buffed the damage in exchange  
+• Glacial Arc fling fix reverted for Layer 2 only  
+• Fixed Spark Swap having huge endlag if interrupted  
+• The change to Spark Swap's windup that scales with distance to the target now only applies in PvP  
+• NOTE: You may have noticed that some Bestiary entries (e.g. Enforcer) cap out at lower damage boosts than others. These mobs were previously designated as _resilient_ mobs, and DvM was half as effective on them, so this isn't actually a nerf, just better information on the mobs that have this trait!
+
+## **June 15th, 2025**
+
+**Content & Systems**  
+• New MED Mantra: Slice 'n' Dice  
+• New Lategame Rapier: Needle's Eye  
+• New Talent: Parting Gift  
+• New Talent: Prime Ether Bullets  
+• Trahne Zakshun has stocked up on shady goods with his recent success, and has opened a black market in Lower Erisia. Catch him at the right time to barter for high value items.  
+• Added equipment stat tooltip comparison arrows like weapon stat tooltips  
+• Added orbs around the Power indicator in your journal, indicating the 15 attribute points you need to invest in order to increase your Power. As you invest points, each orb will light up  
+• The attribute points counter in your journal now only shows the number of attribute points you can actually invest. Previously, it would show you the full amount of points before your Power increase, even if you didn't actually have the EXP in other areas to enable it. NOTE: The balance of attribute points/EXP hasn't changed, this is purely a visual change  
+• Added a new effect to Heroism. Hero's Reflection: While in the Heroism health range, you are able to reflect elemental status effects, antiheal, and taunt  
+• Scorchblood Talent Slight Rework/Refresh: Guardbreaking your opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood  
+• Iron Spear remodelled  
+• Leather Boots remodelled. Leather Gloves/Boots now have a leather texture  
+• Added strafing animations when you have a weapon equipped. Also, walk anims now change speed with your current movement speed  
+  
+**Balancing & Tweaks**  
+• Buffed the exchange rate for Crowns, it now scales with your level. 1 Knowledge / 250 Notes at Power 1 up to 5 Knowledge / 1,000 Notes at Power 20  
+• Increased all relics chances of appearing in warmode chests  
+• Added a few more items to Warmode chest  
+• Idol of Yun'Shul added back to Ferryman chest  
+• Armorer's Needles now have a very small chance of appearing in Ferryman's bonus chest  
+• Fixed being able to movestack assassinations with aerial attacks, which also allowed for stuff like Spine Cutter procs in assassinations  
+• Warmode's point penalty now only starts being applied when you have more than the starting requirement for warmode (4 players)  
+• Summoning your mount while sprinting now automatically queues up a mount dash when you mount up, keeping your forward momentum  
+• Getting Parried now cancels sliding  
+• Reduced intelligence levels on stronger humanoid mobs, notably minibosses. One too many greathammers to the head  
+• Return to the Dark Ages damage reduction/damage resist adjusted (20% -> 15%)  
+• True Ether Bullets proc requirement reduced from 4 to 3  
+• Weal and Woe standing crit range increased by 47%  
+• Weal and Woe running crit range increased by 20%  
+• Crazy Slots Greatsword base damage reduced from 30 to 28  
+• Crazy Slots Greataxe base damage reduced from 28 to 26  
+• Crazy Slots Dagger base damage increased from 18 to 19, scaling increased from 7 to 9  
+• Crazy Slots Gun base damage increased from 15 to 16, scaling increased from 15 to 16  
+• Wind Gun base posture damage increased (3 -> 10)  
+• Wind Gun Multiplying Spark's posture damage increased (3 -> 4 per individual bullet)  
+• Wind Gun Blast Spark's posture damage reduced (3 -> 0.8 per individual bullet)  
+• Lightning Assault, Flame Assault, and Shadow Assault now have less range in the water  
+• Trident Spear crit now has greatly reduced range in the water (oh the irony)  
+• Jolt Grab base windup increased from 0.35s to 0.42s  
+• Obfuscation Enchant: Chip damage greatly diminished, posture restored  
+• Stone Enchant: Stone applying bonus posture on critical removed, slight buff to m1s added  
+• Elastic enchant's pull time increased by 33%  
+• Electrolyte temporary health reduction from landing blood mantras reduced from 10 to 4  
+• Bloodless Rebalance: Bloodles Gem heal percentage off damage changed from 60% to 30%, CD increased from 1s to 2s. Hope here is to stop every type of build healing so much, even when mantra damage is very low  
+• Insignia Gem proc duration when landed increased (2s -> 3s), mantra windup boost decreased (25% -> 15%)  
+• NLK healing now linearly scales with weapon investment. As an example, using a Heavy Weapon you will need 100 points in Heavy Weapon to reach full healing regeneration effectiveness, which matches the effectiveness of NLK healing regeneration before this nerf  
+• Conditioned Runner healing now linearly scales with Agility investment. In order to reach the previous amount of health regeneration provided by the talent, you will need 100 points in Agility  
+• Harrowing enchant's Harrowed effect increased from 4 to 8 seconds  
+• Fixed Razor Blitz hitting more times than intended, which caused the mantra to deal unintentionally high amounts of damage  
+• Hero Blade of Frost's critical damage reduced by 40%  
+• Hero Blade of Flame's critical damage reduced by 25%  
+• Sacred Field changes: Sacred Field cooldown increased (30s to 45s), corrupt version now actually takes time to catch up to your position completely  
+• Fixed Rising Flame proccing Meteor Impact when not hitting players  
+• Fixed Hero's Blade of Flame's critical not proccing Meteor Impact on successful hit  
+• Gave Punishment more endlag, akin to Prediction (0.25s to 0.7s)  
+• Ice Forge: base damage increased by 20%, posture decreased by 60%  
+• Ice Blade with Glacial Mobility: base damage increased by 60%, windup increased by 0.2  
+• Ice Blade base damage increased by 10%  
+• Old Ice Beam size has been brought back to its former glory, however it now has harsh cooldown scaling if you increase its size. The base size has also been increased  
+• Fixed Kyrswynter's leap crit's 2nd hit not landing  
+• Kyrswynter's first hit of the leap crit's multiplier reduced from 1.1x to 0.8x (due to change above)  
+• Needle Barrage base damage increased by 62%, damage scaling with upgrades increased by 50% (it did pitiful damage)  
+• Base damage of Shadow Gun increased by 40%, Blast Spark variant damage unchanged  
+• Blazing now takes less hits to proc burn on Medium Weapon (4 to 3 hits) and Light Weapon (6 to 4 hits)  
+• Wind Gem duration increased from 8 to 10 seconds  
+• Wayward Gem CD decreased from 21 to 8 seconds  
+• Twincleave CD increased from 15 to 20 seconds, ether cost increased from 45 to 60  
+• Sing now scales akin to Visionshaper's Clone, where the more size modifiers you have the longer the cooldown is for it, base cooldown decreased from 15s to 12s  
+• Greatly increased size modifier's damage reduction for Fire Eruption (0.15 -> 0.6)  
+• Size modifier damage reduction added to the following mantras: Flame Repulsion, Rising Frost, Flame Assault, Rising Flame, Air Force, Fire Palm  
+• Slightly decreased Fan the Flames size bonus for Fire Eruption (0.25 to 0.2)  
+• Voltaic Conductor buffed from 20% to 30%  
+• Frenzied Dance now has a little bit more leeway for when it can proc (>80% to >70%)  
+• Pressure Detonation damage on proc increased from 8 to 12 (50%)  
+• Rifle Spear crit now has a speed buff during  
+• Flame Sentinel damage nerfed  
+• The Floor is Lava damage reduced by 50%  
+• Parasol Planter innate Health buff reduced from 7 to 2, Legendary Pip changed to Rare Pip  
+• Onslaught has been made feintable, but feinting it puts it on the same cooldown as if you actually used it  
+• Made Light's Final Toll w/ Legion Kata crit windup the same as regular Legion Kata's windup (0.3s -> 0.5s)  
+• Fixed being able to movestack Aerogliding while using a mantra, it now ends the Aeroglide early  
+• Boltcrusher chip reduced 30% -> 5%, it still retains the 30% chip on its initial drill critical though  
+• Mindsoothe cooldown now increases with the size of the mantra  
+• Bloodedge windup is now the same speed as Ice Lance (0.475s to 0.5s)  
+• Fire Stance "Blade of Saints" speed increased  
+• Fixed Umbrite Witherblade not receiving the additional 25% bonus from wearing Darkened Bastion  
+• Frost Hero Blade critical can now be manually cancelled after the first hit  
+• 0.1s endlag added to Pale Briar  
+• Reduced Frost Hero Blade critical endlag (0.3s -> 0.1s)  
+• Reduced endlag on Gremorian Longspear critical by 0.1s  
+• Reduced Stormseye critical endlag (0.3s -> 0.1s)  
+• Reduced Ignition Boltcrusher regular critical endlag (0.35s -> 0.1s)  
+• Reduced Jolt Grab Magnet spark endlag (0.1s -> 0.05s)  
+• Fixed Frozen Servants having way too much endlag  
+• Fixed Master's Flourish missing its 0.35s endlag  
+• Fixed Prominence Draw missing its 0.2s endlag  
+• Fixed Twincleave missing its 0.4s endlag  
+• Fixed Strong Left missing its 0.25s endlag if landed, and 0.35s endlag if whiffed  
+• Fixed Grand Javelin missing 0.05s-0.15s of endlag  
+• Iblis and the rest of the Starkindred sinners have been remodelled to be less lorebreaking  
+  
+**Bugfixes & Optimization**  
+• Completely rewrote our backend systems for handling servers and transporting you between places/dungeons/luminants. Should mean they're a lot more consistent and reliable, as well as enabling us to do some very cool stuff down the line  
+• Fixed animation desync on Twincleave windup  
+• Fixed not being able to manually cancel Stormseye critical  
+• Various map errors with Erisia have been resolved, including voidwalker warps on the shoreline  
+• Fixed Trahne forcing you to buy an additional copy of each bought item. He's just that good a salesman  
+• Fixed not being able to form Vows of Mastery/Allegiance  
+• Fixed Bloodfouler not being obtainable via its quest  
+• Fixed not being able to pickup mined ores in Saramaed Hollow  
+• Fixed not being able to mine ores with Quartztone Pickaxe or Boltcrusher in Saramaed Hollow  
+• Fixed Stone Knight t-posing after recovering from being staggered  
+• Fixed mobs being able to parry attacks while using Mantras and Critical attacks  
+• Fixed mobs not reacting to weapon criticals. Fixed mobs never reacting to a few specific weapon criticals  
+• Fixed zipline anim visuals  
+• Fixed respawning at your default spawn location instead of your last location  
+• Fixed Entropy Link  
+  
+**Additional Fixes**  
+• Fixed Graceful Steps removing the 5 second CD that Dancing Steps is supposed to have, which also caused people to spam it when out of ether for insane speed boosts
+
+### _**Patch 2.3.1a**_
+
+**Hotfixes**  
+• Fixed mobs having much higher parry rates than intended. In short, mobs would have parry frames whenever they wanted to block instead  
+• Fixed not being able to gain EXP at Power 20, which prevented you from investing your last 15 investment points. You will have to accumulate the necessary EXP again if this affected you  
+• Fixed not being able to train your attributes in the Tutorial  
+• Fixed Entropy Link. For real this time  
+• Fixed shanty music syncing  
+• Fixed VFX memory leaks on Scarlet Cyclone and Pillars of Erisia  
+• The parry bar is now a more readable color  
+• True Ether Bullets / Prime Ether Bullets no longer get disabled if you have Bullets in your inventory  
+• Silentheart now has been given enchants back to its moves, both the oath damage and the enchants were removed and it was a bit too much. The idea being is that all the silentheart moves are m1s  
+• Silentheart light weapon moves' damage increased (it was awfully low)  
+• Fixed not being able to land assassinations  
+• Dustlunge no longer allows you to assassinate targets who are in combat
+
+## **June 9th, 2025**
+
+**Content & Systems**  
+• Years of tidal and acidic erosion have dramatically altered the shores of Erisia, opening up new routes of travel and new areas to explore  
+• A strange merchant has carved out a spot in the cliffs of Erisia  
+• Ziplines have been reworked. If you tap space while near a zipline and facing its direction of travel, you'll now automatically hook on and ride them  
+• Letting go of a zipline at speed now keeps your momentum, letting you launch yourself forward. Your starting speed on ziplines is now also affected by your current velocity, letting you jump-start your zipline ride  
+• Replaced Bamboo on shorelines with a new ingredient: Marram Grass. Marram grass can be processed into fibers in the same way but makes more sense than bamboo growing on beaches  
+• Reworked Flame Leap, Relentless Flames, Ash Slam, Fire Blade VFX  
+• New Vesperian mask design  
+  
+**Balancing & Tweaks**  
+• Dawnwalker now gives 3 combat slots  
+• Brutal Momentum can now be rolled on Greataxes, corrected talent description  
+• Reduced LVL req on Wyrmtooth (15 -> 10)  
+• Wyrmtooth now procs Heavy Weapons talents in general and behaves like a Heavy Weapon in many situations  
+• Hybrid weapon types now show up on the tooltip  
+• Tacet range scaling buffed  
+• Warding Radiance now cancels out slide bonuses from ice while active  
+• Ice Grab and Ice Fissure frost duration now scale off your investment and aren't automatically huge  
+• Fixed Flame Leap Reversal movestacking  
+• Reversal Spark Flame Leap now has slightly more endlag  
+• Razor Blitz no longer moves the caster unless landed  
+• Dark God, Sightless Still and Singularity are now less effective when used in conjunction with Twisted Puppets  
+• Added Hyperarmor indicator to Soulthorn Critical  
+• Fixed Frost Grab spark dealing less damage than intended  
+• Vicious Descent feinting now has slight endlag  
+• Replaced the weird pink angels with nightmare threshers  
+• Mute Regalia no longer works in instanced content  
+• Wind Carve now gets cancelled if parried after the first 3 ticks  
+• Reduced the Debuff of Specter Path swing speed  
+• Wind Gun blast spark no longer shoots additional shots if dodged  
+• Fixed all Hero Blade criticals (except Ice) applying a speed buff (intent was a debuff)  
+• Fixed Ice Cubes not having auto-parry frames  
+• Mantra usage no longer disabled during Rising Shadow AFTER the skill has landed  
+• Reduced Crypt Blade Endlag (0.15s -> 0.1s)  
+• Fixed Vacuum Punch not pulling people, removed its aftercut & stun  
+• Added new textures for grass and leaves  
+  
+**Bugfixes & Optimization**  
+• Greatly optimized reputation/allegiance checks. These had a decently big performance impact so this should give some good gains  
+• Greatly optimized vow commands and player chat  
+• Team Chat no longer relays messages to/from blocked users  
+• Fixed Cold Blooded  
+• Fixed Arc Suit awkward clipping through torso  
+• Fixed being able to destroy your own devouring eye  
+• Fixed being able to pull players who are interacting with the Banker via Chainlash  
+• Fixed being able to pull monsters and bosses with Iron Pull and Chain Lash  
+• Fixed Hero's Blade of Flame keeping you stunned if interrupted for longer than intended  
+• Fixed not being able to block/parry while using Frozen Servants or Burning Servants  
+• Fixed not being able to move while using Enforcer weapon critical  
+• Fixed Gale Dash iframes lingering during attacks  
+• Fixed Gale Punch hitbox being upgradeable  
+• Fixed Weight buffs not showing up in offhand tooltips
+
+## **June 1st, 2025**
+
+**Content & Systems**  
+• New Relic: Baneful Syrinx  
+• New Relic: Ouroboral Husk  
+• New Relic: Reciprocal Bonecharm  
+• New Iceberg Spark  
+• Evanspear Hand Axe has been remodelled and renamed to the Evanspear Greataxe  
+• You can now rebind Camera Lock (aka shiftlock) to inputs other than shift  
+• You can now bind Sprint to a key in addition to double-tapping movement keys to sprint. By default, Sprint is bound to Alt  
+• Added an FoV slider to settings  
+• Merged 3D Icon settings into one setting  
+• The number of uses left items have is now displayed  
+  
+**The Vesperian Getright**  
+• Added 4 new Vesperian mask shapes  
+• Added 3 new Vesperian mask designs, revamped a few existing designs too  
+• Revamped existing Vesperian mask models for a much cleaner look  
+• Improved Vesperian mask design rendering, fixed clipping. Lets us get a bit more creative with the designs  
+• Vesperian Visionshapers now get a new unique cosmetic  
+• Vesperian Blindseers now get a new unique cosmetic  
+  
+**Balancing & Tweaks**  
+• Metal Rampart now cancels your sprint  
+• Gale Lunge, Ice Lance, Metal Ball and Shoulder Bash no longer cancel your sprint  
+• Fixed some Mobility Mantras unintentionally cancelling your sprint  
+• Fixed feinting the second hit of Celestial Assault allowing you to movestack  
+• Fixed Iron Slam movestacking  
+• Fixed Fist Style talents having inconsistent LHT requirements  
+• Tweaked Ferocity vfx  
+  
+**Bugfixes & Optimization**  
+• Players who were affected by the bug that made new slots roll similar Aspects most of the time 3 weeks prior can now log onto their affected slots to receive a free Aspect Reroll per affected slot. These rerolls can be used on any slot  
+• Fixed Ganymede lashes face always rendering over selected ganymede face on some slots  
+• Fixed Vesperian mask designs rerolling every respawn if you didn't explicitly pick one in character creation  
+• Fixed Mask Ink Dye not appearing  
+• Fixed Blindseer and Visionshaper cosmetic dyes not appearing  
+• Further optimized Rhythm Advance vfx by disabling cloth physics for afterimages  
+• Optimized client performance by replacing outdated passive ability checks with the newly improved method  
+• Slightly optimized client performance by ensuring that Repair Hammer logic doesn't run when not in use  
+• Fixed Lucy and Ottilde having hybrid aspects  
+• Fixed Mantle of Enmity softlocking you or applying endlag for far longer than intended  
+• Fixed a Tutorial softlock caused by repeatedly selling emeralds  
+• Fixed the Tutorial step list being misaligned and not properly hiding later / earlier steps  
+• Fixed some objects not being interactible  
+• Fixed Ardour weapon trails  
+• Optimized weapon trail vfx on crits  
+• Fixed the unavoidable telegraph playing over Lightning Stream like it was some kind of existential peril and not a 1-star mantra  
+• Optimized Nemesis/Dustlunge/None Left Behind trail vfx  
+• Fixed Fire Gun movestacking  
+• Fixed Glacial Arc movestacking  
+• Fixed Burning Servants movestacking  
+• Fixed Frozen Servants movestacking  
+• Fixed Ice Chains movestacking  
+• Fixed Shadow Chains movestacking  
+• Fixed camera in character creation  
+• Fixed rotating your character in character creation
+
+### _**Patch 2.2.9a**_
+
+**Hotfixes**  
+• Fixed Dungeon and Chime of Conflict teleports only teleporting one player  
+• Fixed getting stuck at the Tutorial right out of the get go  
+• Fixed the following mantras being able to movestack:  
+ ∘ Flame Grab  
+ ∘ Ice Skate  
+ ∘ Tornado Kick  
+ ∘ Heavenly Wind  
+ ∘ Rally  
+ ∘ Karita Leap  
+ ∘ Dread Breath  
+ ∘ Beast Burrow  
+ ∘ Sanguine Dive  
+ ∘ Jolt Grab Magnet Spark  
+ ∘ Gale Punch  
+ ∘ Arc Wave  
+ ∘ Rupture  
+• Fixed the following talents being movestackable:  
+ ∘ Silentheart's Mayhem  
+ ∘ Silentheart's Relentless Hunt  
+ ∘ Silentheart's Rising Star  
+ ∘ Starkindred's Death from Above  
+• Fixed the following weapon criticals being able to movestack:  
+ ∘ Soulthorn  
+ ∘ Red Death (sprinting)  
+ ∘ Imperator's Edge  
+• Fixed not being able to move while using the following weapon criticals:  
+ ∘ Kyrsieger  
+ ∘ Rosen's Hellflame (regular)  
+ ∘ Stoneheart  
+• Fixed Shadow Meteors  
+• Gran Sudaruska's Critical now hits 5 times again instead of 3 times only  
+• Increased the drop rates of Ouroboral Husk  
+• Fixed rarity colors for the new Relics  
+• Canteens now show their capacity under the tool  
+• Fixed feinting the second hit of Celestial Assault resetting its cooldown  
+• Fixed slot renaming
+
+## **May 24th, 2025**
+
+**Content & Systems**  
+• New Critical: Falchion  
+• New Echo Upgrade: Starter Equipment  
+• The 'Advanced Weapons' Echo Upgrade has been split into Echo Upgrades for each individual weapon that can be unlocked in any order  
+• The 'Advanced Tools' Echo Upgrade has been split into separate Echo Upgrades for each individual tool that can be unlocked in any order  
+• Stormbreaker Crit Reworked. Now uses the new projectile system and should be a lot more consistent in its behavior  
+• Made the tutorial much more concise and easy to follow. Now has chapters and requires a lot less back-and-forth with the captain  
+• New Book: Neatly Embellished Notebook  
+• Expanded and rewrote a variety of dialogue trees  
+• Added Worms  
+• Glacial Ice has been removed. If you had Glacial Ice you'll be refunded a hand of talents  
+  
+**Dynamic Telegraphs**  
+• Added a dynamic Telegraphing system that has unique visuals depending on the reactions that are possible to avoid taking damage  
+• Previously, there was only an upside-down red eye to indicate (inconsistently) that an attack had to be dodged. This has been replaced with 6 different glyphs that can appear with corresponding colors to indicate to the player what reaction is required. All of these glyphs are a lot more visible, scale with the size of the enemy, and will render on top of geometry if nearby  
+• This system is dynamically based on the actual damage about to be dealt, so it should remain accurate  
+• The Telegraphing system is also utilised by mobs to react to moves, making them respond to moves much more intelligently  
+  
+**Balancing & Tweaks**  
+• Improved homing mouse targeting. No longer foiled by 2m cliffs  
+• Pleeksty's Inferno and Ignition Boltcrusher criticals no longer count as Elemental weapon M1s. This means their critical damage is now resisted by elemental resistances  
+• In Layer 1, Paralytic Dust now makes slept targets fully immune to damage. This does not apply to the user for those with the self sleeping variant  
+• Encircle can now be interrupted early instead of only being interruptible at the end  
+• Added pizzazz to Heart of Enmity's unavoidable attack warning indicator  
+• Stormbreaker is now considered a projectile properly  
+• Stormbreaker initial shot now procs crit talents  
+• Grand Skewer is now disabled in Layer 1  
+• Fixed a number of monsters being grabbable with mantras and weapon criticals  
+• Fixed Hailbreaker critical damage not being resisted by Elemental Armor  
+• Fixed Quartztone Pickaxe critical damage not being resisted by Elemental Armor  
+• Fixed Deepspindle regular critical rapid hit portion not being resisted by Elemental Armor  
+• Tillian's Beret now requires LVL 10  
+• Phalanx Heavy Boots now require LVL 8  
+• Autumn Boots, Fur Boots, Etrean Siege Sabatons, Grand Authority Sabatons, Khan Boots, Novice Boots, Redsteel Boots, Winter Corps Boots now require LVL 6  
+• Azure Royal Guard Boots, Brilliant Boots, Enforcer Boots, Grand Boots, Iron Boots now require LVL 4  
+• The 'Flintlock' weapon type has been renamed to 'Pistol' since we have a lot more than just flintlocks in terms of handguns  
+  
+**Crit Fixes**  
+• Refactored every critical to have much better consistency for how they lock you out of different actions. Also means that bugged criticals shouldn't brick you in future  
+• Fixed a variety of criticals being stackable towards their end  
+• Fixed being able to stack many crits with resonance casts  
+• Fixed a variety of crit stack methods  
+• Fixed Risky Moves not cancelling with some crits  
+  
+**Bugfixes & Optimization**  
+• Fixed a few inputs (Iron Pull, Phantom Step, Symbiotic Link, Shaper Swap, Carry) activating while ritual casting  
+• Disabled voice chat in Main Menu to prevent Roblox from picking up your microphone where it doesn't need to  
+• Fixed Blast Frozen Servants leaving you immobile when cancelled  
+• Fixed Caeranthil's Wake and Parasol not appearing on the map  
+• Hopefully fixed Parasol's hooks sometimes being invisible  
+• Optimized client performance by no longer repeatedly checking whether you're doing the fishing minigame or not every frame  
+• Optimized client performance by no longer listening for key inputs related to fishing while not fishing  
+• Fixed being able to use offhands with 2H-only weapons  
+• Fixed Heart of Enmity not being immune to Enchants  
+• Fixed and spruced up some small spots around Miner's Landing  
+• Fixed Dawnwalker debris vfx having collisions  
+• Optimized and reduced visual intensity of Dawnwalker moves  
+• Fixed Radiant Dawn sometimes not playing the smash vfx  
+• Fixed Stormcaller Slash being cancelled stunlocking you for a good 5 seconds  
+• Fixed Flashdraw Strike targeting destructible objects stunlocking you for 4 seconds  
+• Fixed stances not saving  
+• Fixed Blood Orb having the cannon explosion visual. Fixed projectile trajectory
+
+### _**Patch 2.2.8a**_
+
+**Hotfixes**  
+• Fixed Worms  
+• Fixed various abilities locking you out of other actions  
+• Fixed area-specific lighting exposure  
+• Fixed mobs flickering out of existence every 30s
 
 ## **May 17th, 2025**
 

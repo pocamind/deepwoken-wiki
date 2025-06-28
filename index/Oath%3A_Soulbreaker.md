@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 148325
+revid: 148344
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -182,7 +182,6 @@ File:Incompetent tester.png
 
 ## Trivia
 
--   There is currently a bug where you cannot gain hero reputation for [Etrea](Etrea.md), for now you can get Soulbreaker with high ally reputation
 -   Currently, this is one of three Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), and [Chainwarden](Oath%253A_Chainwarden.md))
     -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.
 -   It is recommended to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) or [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) to progress this Oath as they only use 1 Knowledge each time.

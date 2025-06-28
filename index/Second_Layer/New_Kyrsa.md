@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 148293
+revid: 148340
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2, Dungeons]
@@ -16,7 +16,7 @@ New Kyrsa is a location added in _Deepwoken's Verse Two_ update. It is located i
 
 ## Overview
 
-The Second Floor of the [Second Layer](../Second_Layer.md), located directly atop [Ethiron](<../Ethiron,_The_Maelstrom's_Eye.md>)'s bedchamber, New Kyrsa, The Sleeping City is incredibly unstable, experiencing **space-time distortions** and frequent collapses. Numerous hostile [Kyrsgarde](../Kyrsgarde.md) inhabit the city, sworn to protect Ethiron at all costs. In order to ensure Ethiron's continued slumber, a 9-fold ritual is performed on his [puppet](../Scion_of_Ethiron.md). Unfortunately, the last one failed. New Kyrsa is stuck in a time loop; **every 15 minutes, you are teleported back to the entrance.**
+The Second Floor of the [Second Layer](../Second_Layer.md), located directly atop [Ethiron](<../Ethiron,_The_Maelstrom's_Eye.md>)'s bedchamber, New Kyrsa, The Sleeping City is incredibly unstable, experiencing **space-time distortions** and frequent collapses. New Kyrsa is stuck in a time loop; **every 15 minutes, you are teleported back to the entrance.** Numerous hostile [Kyrsgarde](../Kyrsgarde.md) inhabit the city, sworn to protect Ethiron at all costs. In order to ensure Ethiron's continued slumber, a 9-fold ritual is performed on his [puppet](../Scion_of_Ethiron.md). Unfortunately, the last one failed.
 
 New Kyrsa contains numerous large, pink glowing chests. They contain 8-10, which you can exchange for dyes, [Enchantment Stones](../Enchant_Stone.md), [Enchanted Equipment](../Enchantments.md#equipments), [Knowledge](../Knowledge.md), or the [Dawnwalker](../Oath%253A_Dawnwalker.md) [Oath](../Oaths.md). Defeating enemies can grant chests from the Second Layer loot pool.
 
@@ -70,25 +70,6 @@ An activated Obelisk in the Kyrsan Shrine of Arrival
 
 -   Do note this is the **only** way to escape aside from using the Light Hook.
 
-## Quests
-
--   [Dr. Carrion](../Carrion,_Father_of_Evolution.md) - **Grants Monster Mantras.**
--   [Naerotiv](../Naerotiv.md) and [Frosviernr Joraelnaero](../Frosviernr_Joraelnaero.md) - **Obtaining the [Kyrswynter](../Kyrswynter.md).**
-
-## NPCs
-
--   [Naerotiv](../Naerotiv.md)
--   [Frosviernr Joraelnaero](../Frosviernr_Joraelnaero.md)
--   Kaide, The Drowned Light
--   [Cap'n Orlandeau](<../Cap'n_Orlandeau.md>)
--   [Misérables](../Misérables.md) - **Grants Yun'shul Wishes and a temporary Strength Buff**
--   [Kennith](../Kennith.md)
--   [Dr. Carrion](../Carrion,_Father_of_Evolution.md)
--   [F'leche](<../F'leche.md>)
--   [Cap'n Orlandeu](<../Cap'n_Orlandeau.md>)
--   [Okumay](../Okumay.md)
--   [C'lantaa](<../C'lantaa.md>)
-
 ## Optional Content
 
 ### Secrets
@@ -124,6 +105,24 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 2.  **Two** may spawn per large building.
 3.  Within the tower buildings 2 may spawn.
 
+## Quests
+
+-   [Dr. Carrion](../Carrion,_Father_of_Evolution.md) - **Grants Monster Mantras.**
+-   [Naerotiv](../Naerotiv.md) and [Frosviernr Joraelnaero](../Frosviernr_Joraelnaero.md) - **Obtaining the [Kyrswynter](../Kyrswynter.md).**
+
+## NPCs
+
+-   [Naerotiv](../Naerotiv.md)
+-   [Frosviernr Joraelnaero](../Frosviernr_Joraelnaero.md)
+-   Kaide, The Drowned Light
+-   [Cap'n Orlandeau](<../Cap'n_Orlandeau.md>)
+-   [Misérables](../Misérables.md) - **Grants Yun'shul Wishes and a temporary Strength Buff**
+-   [Kennith](../Kennith.md)
+-   [Dr. Carrion](../Carrion,_Father_of_Evolution.md)
+-   [F'leche](<../F'leche.md>)
+-   [Okumay](../Okumay.md)
+-   [C'lantaa](<../C'lantaa.md>)
+
 ## Loot Table
 
 -   [Enchant Stone](../Enchant_Stone.md)
@@ -152,7 +151,7 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 -   Do **NOT** enter random buildings, as they may be a trap-room which will lead to a **swift death**.
 -   Sliding on ROBLOX Smooth Terrain is risky, as it can take you down into the void unintentionally, and as such, should be done sparingly.
 -   Bring as many people as you wish, as the Scion's health does **not** increase proportionally to players.
--   Avoid fighting multiple Kyrsagsrde unless you have Brick Wall. Engaging a group of them without knowing how to fight them can leave you trapped in an endless stun lock, likely leading to a wipe.
+-   Avoid fighting multiple Kyrsgarde unless you have [Brick Wall](../Talents.md#human-architecture). Engaging a group of them without knowing how to fight them can leave you trapped in an endless stun lock, likely leading to a wipe.
 -   The Kyrsgarde Artillery on the outskirts of the city can be avoided by standing under cover. The spears do not go through objects.
 -   [Undying Flame](../Talents.md#undying-ember), [Gliders](../Gliders.md), [Teleportation](../Teleportation.md), and [Mute](../Regalia.md) all do not work in the Second Layer.
 -   [Dimensional Travel](../Dimensional_Travel.md) will fling you the way you're facing if attempted to be used.

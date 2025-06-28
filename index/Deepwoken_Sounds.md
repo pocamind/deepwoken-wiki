@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 148327
+revid: 148339
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -129,7 +129,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.3s | [Zipline](Ziplines.md) Loop |
 |  | 2.7s | [Chime of Conflict](Chime_of_Conflict.md) + [Shadow Vortex](Shadowcast.md#shadow-vortex) (Activation) / [Spire](Relics.md) (Deactivation) |
 |  | 4.2s | [Grasp of Eylis](Voidheart.md) + [Voideye](Origins.md#voidwalker) Loop |
-|  | 4.3s | [Light Hook](Second_Layer.md) Usage |
+|  | 4.3s | [Light Hook](Light_Hook.md) Usage |
 |  | 2.3s | [Firfire Caverns](Firfire_Caverns.md) Gate (Open) |
 |  | 2.9s | [Firfire Caverns](Firfire_Caverns.md) Gate (Close) |
 |  | 1.5s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Jar Broken |
@@ -380,7 +380,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 1.3s | Unable To Cast [Mantra](Mantras.md) (Not Enough Ether) |
-|  | 1.0s | [Strong Left](Attunement-less.md#strong-left), [Pressure Blast](Attunement-less.md#pressure-blast), [Master's Flourish](Attunement-less.md#masters-flourish) (Windup) / [Light Hook](Second_Layer.md) Rise |
+|  | 1.0s | [Strong Left](Attunement-less.md#strong-left), [Pressure Blast](Attunement-less.md#pressure-blast), [Master's Flourish](Attunement-less.md#masters-flourish) (Windup) / [Light Hook](Light_Hook.md) Rise |
 |  | 1.6s | [Strong Left](Attunement-less.md#strong-left) (Unleash) \[1\] |
 |  | 1.6s | [Strong Left](Attunement-less.md#strong-left) (Unleash) \[2\] (Sped up version used in [Iron Hug](Ironsing.md#iron-hug)) |
 |  | 3.0s | [Master's Flourish](Attunement-less.md#masters-flourish) (Unleash) |
@@ -649,7 +649,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.7s | [Arc Suit](Oath%253A_Arcwarder.md) (Activation) \[2\] |
 |  | 0.6s | [Arc Suit: Jetpack](Oath%253A_Arcwarder.md) \[1\] |
 |  | 0.8s | [Arc Suit: Jetpack](Oath%253A_Arcwarder.md) \[2\] |
-|  | 0.9s | [Arc Suit: Null](Oath%253A_Arcwarder.md) (Activation) / [Light Hook](Second_Layer.md) (Expiration) |
+|  | 0.9s | [Arc Suit: Null](Oath%253A_Arcwarder.md) (Activation) / [Light Hook](Light_Hook.md) (Expiration) |
 |  | 1.7s | [Arc Suit: Null](Oath%253A_Arcwarder.md) (Deactivation) |
 |  | 2.5s | [Arc Beam](Oath%253A_Arcwarder.md) (Windup) |
 |  | 0.9s | [Arc Beam](Oath%253A_Arcwarder.md) (Impact) |
