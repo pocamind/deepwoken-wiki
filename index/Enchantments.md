@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 148138
+revid: 148398
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -114,7 +114,6 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
-  <u><b>1% Food, Thirst steal per 4.5 SCALED DMG dealt</b></u><br>
   <b>(Gluttony steal NOT AFFECTED by gluttony flaw or hunger reduce food buffs.)</b></p></div></td>
   <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
@@ -247,7 +246,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
   <font>Tears of the Edenkite<div></div></font></center></td>
   <td><div><p>On Flourish or Critical, create 5 bubbles around you that home onto an enemy, dealing damage and stunning. These bubbles are parryable. (20 seconds cooldown)<br>
-  Bubble deals DMG that bypasses armor (NOT TRUE DMG), approximately scales by "1+WeaponInvestment*0.1" formula (NEEDS FURTHER TESTING)<br>
+  Bubble scale with weapon investment and deals DMG that bypasses armor (NOT TRUE DMG), does 11 DMG per bubble at 100 weapon.<br>
   Has 7.55x PVE scale</p></div></td>
   <td><div><p>Weapon is covered in a sky blue and black aura as well as the player emits bubbles.</p></div></td>
 </tr>

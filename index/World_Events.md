@@ -1,11 +1,8 @@
 ---
 title: World Events
-revid: 148349
+revid: 148407
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # World Events
@@ -37,6 +34,6 @@ World events are focused on uniting the players towards accomplishing a single g
 
 ## Rewards
 
--   Unique rewards for each world event ([Eye Of Malice](Eye_of_Malice.md), [Parasol Planter](Parasol_Planter.md) etc.)
+-   Unique rewards for each world event ([Eye of Malice](Eye_of_Malice.md), [Parasol Planter](Parasol_Planter.md) etc.)
 -   [Resonance](Resonance.md) progression and a great amount of attribute EXP
 -   [Crowns](Crowns.md)

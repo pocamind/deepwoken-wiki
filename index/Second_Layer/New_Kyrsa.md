@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 148340
+revid: 148399
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2, Dungeons]
@@ -169,7 +169,7 @@ The Second Floor is the deepest point of the Eternal Gale. In here, you can find
 
 -   The music for this area is [Kyrie](../Deepwoken_OST.md#kyrie) by Naktigonis.
 -   The combat music for this area is [INSOMNIA](../Deepwoken_OST.md#insomnia) by Naktigonis.
-    -   As stated in the video, the music present in game is altered due to ROBLOX's guidelines regarding screaming and distorted audio.
+    -   As stated in its [Youtube video](https://www.youtube.com/watch?v=YMJBMjergiI), the music present in game is altered due to ROBLOX's guidelines regarding screaming and distorted audio.
 -   Kennith will appear regardless of whether or not you have completed or even started the Duke of Sin questline.
 -   New Kyrsa appears to contain many references to the 2019 indie game [_Risk Of Rain 2_](https://riskofrain2.fandom.com/wiki/Risk_of_Rain_2_Wiki).
     

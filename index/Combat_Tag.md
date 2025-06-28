@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 146039
+revid: 148408
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -62,6 +62,7 @@ List of Quotes:
 2.  "The Void's influence draws you ever closer to the Depths." while in a [Voidzone](Voidzones.md).
 3.  "Your heart beats faster as the end draws near." while in a area that is not the Depths or a Voidzone and you are on your last life.
 4.  "Adrenaline surges into your veins as tensions thicken." while in a area that is not the Depths or a Voidzone and you have two lives left.
+5.  "You feel a heavy weight on your body; one hit is all it takes to collapse" while having the Glass Bones [echo modifier](Echoes.md) active
 
 ## Trivia/Notes
 
