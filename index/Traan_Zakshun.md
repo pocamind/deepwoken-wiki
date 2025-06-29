@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 148419
+revid: 148470
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -271,10 +271,10 @@ Sold Items
 <tbody>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b><br>
-  (Mostly <a href="Relics.md">Relics</a>)</td>
+  (Equipment <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For </b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>.</li>
+    <li><b>For </b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>.</li>
     <li><b>For </b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
   </ul></td>
 </tr>
@@ -285,6 +285,7 @@ Sold Items
   <ul>
     <li><b>For </b>: <a href="Glumfig.md">Glumfig</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
     <li><b>For </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
+    <li><b>For </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>.</li>
     <li><b>For </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Forge_Needle.md">Forge Needle</a>.</li>
     <li><b>For </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>

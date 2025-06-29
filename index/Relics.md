@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 148264
+revid: 148472
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -203,6 +203,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   Crafting
 -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for
 
  |
 | 
@@ -331,6 +332,7 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
 -   [Second Layer](Second_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for
 
  |
 | 
