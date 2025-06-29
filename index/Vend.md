@@ -1,6 +1,6 @@
 ---
 title: Vend
-revid: 140794
+revid: 148475
 source: https://deepwoken.fandom.com/wiki/Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Peacekeeper Vend](Peacekeeper_Vend%253Fredirect=no.md)
+-   [Emar Vend](Emar_Vend.md)
