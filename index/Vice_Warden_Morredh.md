@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 143076
+revid: 148425
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Military personnel of The Central Authority, Oath Trainer, NPCs]
@@ -10,13 +10,13 @@ categories: [Canor NPCs, Military personnel of The Central Authority, Oath Train
 
 | Vice Warden Morredh | |
 |---|---|
-| name | Vice Warden Morredh |
+| name | Morredh |
 | aspect | Canor |
 | location | Fort Merit |
 
 “ Hm? I'm busy, go bother one of the guards. ”
 
-― Morreth
+― Morredh
 
 ## Description
 
