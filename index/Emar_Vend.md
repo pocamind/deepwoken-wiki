@@ -1,6 +1,6 @@
 ---
 title: Emar Vend
-revid: 148423
+revid: 148460
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, The Central Authority, Oath Trainer]
@@ -8,7 +8,7 @@ categories: [Enemies, Enemies with Oaths, The Central Authority, Oath Trainer]
 
 # Emar Vend
 
-Template:EnemyInfobox1.0 Peacekeeper Vend is a rogue Authority [Chainwarden](Oath%253A_Chainwarden.md) who is the captor of an [Authority Soldier](Authority_Soldier.md). He is part of the obtainment of [Oath: Chainwarden](Oath%253A_Chainwarden.md).
+Template:EnemyInfobox1.0 Emar Vend is a rogue Authority [Chainwarden](Oath%253A_Chainwarden.md) who is the captor of an [Authority Soldier](Authority_Soldier.md). He is part of the obtainment of [Oath: Chainwarden](Oath%253A_Chainwarden.md).
 
 He wields a Darksteel Greatsword with the Metal [Enchantment](Enchantments.md) and uses [Chainwarden](Oath%253A_Chainwarden.md) mantras.
 
@@ -24,12 +24,12 @@ He wields a Darksteel Greatsword with the Metal [Enchantment](Enchantments.md) a
 
 ## Moves
 
-Peacekeeper Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oath%253A_Chainwarden.md) mantras, and a variety of [Ironsing](Ironsing.md) mantras.
+Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oath%253A_Chainwarden.md) mantras, and a variety of [Ironsing](Ironsing.md) mantras.
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
-| **Assault** | Peacekeeper Vend swings his sword at the opponent and ends the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Critical** | Peacekeeper Vend stands his ground before harshly swinging his Darksteel Greatsword. | ◯ | ✗ | ◯ | (★★☆) |
-| **Restrain** | Peacekeeper Vend preforms an axe kick before applying a chain onto an enemy, halting any escape. | ◯ | ◯ | ◯ | (★★★) |
-| **Caltrops** | Peacekeeper Vend hides his torso with his hands, creating caltrops and throwing them at the last second. | ◯ | ✗ | ◯ | (★★☆) |
-| **Impel** | Peacekeeper Vend raises his free hand, blasting 4 shots of chains before pulling the opponent to him. | ◯ | ✗ | ◯ | (★★★) |
+| **Assault** | Emar Vend swings his sword at the opponent and ends the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Critical** | Emar Vend stands his ground before harshly swinging his Darksteel Greatsword. | ◯ | ✗ | ◯ | (★★☆) |
+| **Restrain** | Emar Vend preforms an axe kick before applying a chain onto an enemy, halting any escape. | ◯ | ◯ | ◯ | (★★★) |
+| **Caltrops** | Emar Vend hides his torso with his hands, creating caltrops and throwing them at the last second. | ◯ | ✗ | ◯ | (★★☆) |
+| **Impel** | Emar Vend raises his free hand, blasting 4 shots of chains before pulling the opponent to him. | ◯ | ✗ | ◯ | (★★★) |

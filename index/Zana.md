@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 147627
+revid: 148450
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Quests, Rings, NPCs located in the Etrean Luminant]
@@ -91,7 +91,7 @@ The Navaen Nomad Encampment in [Etrean Wilds](Etrean_Wilds.md) on [Etris](Etris.
 
 #### Location 2
 
-Right side of the [Lower Erisia](Lower_Erisia.md) beach.
+Right side of the [Lower Erisia](Lower_Erisia.md) beach, near the tree by the ruined pillars
 
 #### Location 3
 

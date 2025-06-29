@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 144368
+revid: 148434
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons, Items]
@@ -46,4 +46,4 @@ The user winds up before charging forward with the weapon, dealing damage multip
 -   Alloyed form rivals, if not overtakes, the [Serrated Warspear](Serrated_Warspear.md) in terms of endgame damage if paired with Speed Demon Talent at 100 MED stat.
 -   The trident spears unique critical used to be capable of one-shotting players when paired with certain [enchants](Enchantments.md) such as Detonation.
 -   Using the critical mid-air will suspend the player and move them forward.
--   Using the critical while swimming will make you travel half the distance.
+-   Using the critical while swimming will make you travel about half the distance as usual.
