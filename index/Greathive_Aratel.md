@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 148174
+revid: 148533
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -61,7 +61,7 @@ Fountain in the Hidden Village
 
 #### Shipyard
 
--   In the entrance floor of the Greathive aratel and to the left, the player can find a Shipyard fountain that will spawn the player down to the shipyard area, In the shipyard the player can spawn, craft and recall their [ships](Ships_&_Sailing.md).
+-   In the entrance floor of the Greathive Aratel and to the left, the player can find a Shipyard fountain that will spawn the player down to the shipyard area, In the shipyard the player can spawn, craft and recall their [ships](Ships_&_Sailing.md).
     -   If the player is famous with The Hive, the Shipwright will bring up ship modification, or Lifeweaving, which could be an upcoming or undiscovered feature.
     -   The Shipwright NPC will not spawn, repair or recall a player's ship until the player reaches ally reputation with The Hive.
 

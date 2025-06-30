@@ -1,6 +1,6 @@
 ---
 title: "Diver's Camp"
-revid: 121223
+revid: 148520
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -17,6 +17,8 @@ The Camp is found straight and to the left of the District of Commerce Ramp Gate
 This is an area intended to be used for players who have drowned and cannot reach [Castle Light](Castle_Light.md) because of it.
 
 [Alpha Sharko](Megalodaunt.md) vs [Diver](Diver.md) events are common here, making it a good place to grind.
+
+The location of the Diver's Camp on the map.
 
 ## Contents
 

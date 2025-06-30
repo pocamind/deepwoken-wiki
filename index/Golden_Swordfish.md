@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 143057
+revid: 148522
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Weapons with Unique Criticals, Light Weapons, Fishing]
@@ -41,7 +41,9 @@ The combination of these 2 factors makes the **Golden Swordfish** extraordinaril
 
 ## Critical
 
-The user winds up before charging forward with the weapon, dealing damage multiple times. The critical has a cooldown of 5 seconds.
+The user winds up before charging forward with the weapon, dealing damage 5 times.
+
+The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 

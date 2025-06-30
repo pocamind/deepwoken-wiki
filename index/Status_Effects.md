@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 148306
+revid: 148529
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -405,7 +405,7 @@ Take 25% more damage and 1.5x posture damage while also disabling [Murmur: Tacet
 
 ### Sleeping
 
-Gain 90% damage reduction at the cost of being ragdolled and not being able to move. Applied through the use of the [Paralytic Dust](Paralytic_Dust.md) Resonance. If the user has the self cast variant of the Resonance, they will also heal for the duration of the Sleeping effect. Cannot be applied to people with the [Brick Wall](Talents.md#human-architecture) Talent and cannot be applied within the [First Layer](First_Layer.md). Signified by "ZZZ" marks emanating from the player head. Automatically clears upon being hit 3 times.
+Gain 90% damage reduction at the cost of being ragdolled and not being able to move. If applied in the [First Layer](First_Layer.md), gain 100% damage immunity instead of damage reduction. Applied through the use of the [Paralytic Dust](Paralytic_Dust.md) Resonance. If the user has the self cast variant of the Resonance, they will also heal for the duration of the Sleeping effect. Cannot be applied to people with the [Brick Wall](Talents.md#human-architecture) Talent (including yourself). Signified by "ZZZ" marks emanating from the player head. Automatically clears upon being hit 3 times.
 
 ### Hamstrung
 

@@ -1,6 +1,6 @@
 ---
 title: Paralytic Dust
-revid: 148380
+revid: 148528
 source: https://deepwoken.fandom.com/wiki/Paralytic_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -29,6 +29,8 @@ Pressing C will activate the **Paralytic Dust** Resonance, throwing out a dust c
 
 Sleeping grants 90% damage reduction, ragdolls, and completely prevents all inputs for a short duration, but is removed upon taking 3 instances of damage.
 
+The sleeping status effect in the [First Layer](First_Layer.md) grants 100% damage immunity. It however can still be removed by taking 3 instances f damage.
+
 If Paralytic Dust is Corrupted, it will apply blindness for 5 seconds.
 
 #### _**Variants**_
@@ -39,7 +41,6 @@ If Paralytic Dust is Corrupted, it will apply blindness for 5 seconds.
 
 ## Trivia
 
--   The Sleeping status effect cannot be applied within the [First Layer](First_Layer.md).
 -   The Sleeping status effect cannot be applied to players with [Brick Wall](Talents.md#human-architecture) (including yourself).
     -   For the Self Cast variant, having Brick Wall removes the self healing as well.
 -   Using this on a player who is currently using [Cap Artist](Talents.md#thief) will force them to get up, allowing them to move while under the effects of Paralytic Dust. This is referred to as 'sleep walking'.

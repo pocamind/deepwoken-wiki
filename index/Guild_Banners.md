@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 146348
+revid: 148523
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Objects]
@@ -36,7 +36,6 @@ Standing near the banner will gradually empty the banner, at which point the ban
     -   One near [Etris](Etris.md), on the rocks on the way to the entrance to the Legion Camp located at [The Viper's Jaw](<The_Viper's_Jaw.md>).
     -   One in the ruins next to the Ministry bandit camp above [Outpost Antumbra](Outpost_Antumbra.md).
     -   One at the top of the ice waterfall in [Minityrsa](Minityrsa.md), near the [Rogue Construct](Hive_Construct.md) and the [Jetstriker orb.](Oath%253A_Jetstriker.md)
-    -   One by the [Erisia](Erisia.md) Shore, facing towards [Etris](Etris.md).
     -   Right outside the [Birdcage](The_Birdcage.md).
     -   Atop one of the towers at [Towerstruck](Towerstruck_Lands.md).
     -   Right next to a statue at Statue Isle ([The Etrean Sea](The_Etrean_Sea.md))

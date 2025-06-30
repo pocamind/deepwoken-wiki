@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 145670
+revid: 148534
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -1771,7 +1771,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Brought on by the Tides.
 -   A layer of fixed cloud that rotates around the world in a cycle.
 -   Bends and distorts light.
--   Has similar properties to the Voidsea,[\[2\]](#cite-note-arch-2) though whether or not it's actually as dangerous, given the absence of Lionfish and Dread Serpent, remains to be see.
+-   Has similar properties to the Voidsea,[\[2\]](#cite-note-arch-2) though whether or not it's actually as dangerous, given the absence of Lionfish and Dread Serpent, remains to be seen.
 
 ### Timeline
 
