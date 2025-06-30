@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 148398
+revid: 148508
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -171,12 +171,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Obfuscation<div></div></font></center></td>
-  <td><div><p>Weapon gains increased chip damage (LHT: 2.5%, MED: 5%, HVY: 7.5%).<br>
-  Landing close range hits give a speed boost for 2 seconds.<br>
+  <td><div><p>Landing close range hits give a speed boost for 2 seconds.<br>
   </p>
-  <p><u>CHIP DAMAGE IS NOT AFFECTED BY PEN OR DMG MODS</u><br>
-  </p>
-  <p>(Chip damage from Obfuscation is combined multiplicatively with chip from other sources. Formula to calculate chip damage: 80% innate chip and 7.5% chip from Obfuscation would amount to 1 - (1 - 0.8) * (1 - 0.075) = 0.815, aka 81.5% chip damage).<br>
+  <p><br>
   </p></div></td>
   <td><div>The weapon turns translucent and is enveloped in a white mist.</div></td>
 </tr>

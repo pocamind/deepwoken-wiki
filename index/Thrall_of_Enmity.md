@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 148296
+revid: 148499
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -23,8 +23,6 @@ categories: [Equipment, Face, Masks]
 | pass down | Yes |
 | obtainment | Chests from:Heart of Enmity |
 | description | "The mask of the fabled Angels of Enmity, infamous for barring the unworthy from the trial, instills dread in the hearts of the drowned." |
-
-Animated Halo
 
 ## Description
 

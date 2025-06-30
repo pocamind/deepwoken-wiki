@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 138880
+revid: 148503
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boots, Equipment, Items]
@@ -27,6 +27,8 @@ categories: [Pages with broken file links, Boots, Equipment, Items]
 ## Description
 
 The **Wartreads of Enmity** is a Unique [Equipment](Equipment.md) item under the "Legs" category. Equipping it grants +5 Health +1 Posture and 2 Legendary Pips. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
+
+## Gallery
 
 File:Screenshot 2024-12-24 180543.png
 

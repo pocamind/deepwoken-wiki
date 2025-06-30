@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 146989
+revid: 148511
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 
 The **Chorus of Agonies** is a Unique tier Legendary [Greataxe](Weapons.md); a skeletal, massive dark axe pulsating with the [souls twisted and damned](Enforcer.md) by the Trial, begging for their release. It can be obtained by beating the [Heart of Enmity](Heart_of_Enmity.md) with chance.
 
-Similar to all other Enmity drops, it automatically Soulbounds.
+Similar to all other drops from the Heart of Enmity, it automatically Soulbounds.
 
 ## Critical
 
@@ -39,7 +39,7 @@ Stomp the ground with hyperarmor and if landed follow up with an overhead strike
 
 ## Trivia
 
--   The weapon is named The Brutalizer when viewed at a campfire, because the critical of the weapon is based on one of the Heart of Enmity's pattern, The Brutalizer.
+-   The weapon is named The Brutalizer when viewed at a campfire.
 -   The weapon had the highest weight of any weapon in the game at 15, beating the previous record holder, the [Sovereign's Punishment](<Sovereign's_Punishment.md>), before its nerf by 2.
 -   Used to have a [Strength](Attributes.md#strength) requirement of 80, however this was reduced down to 20 shortly after the weapon released.
 -   At 100 Heavy and 6 Proficiency this weapon deal 58.2 damage.

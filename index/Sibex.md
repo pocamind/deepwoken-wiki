@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 148202
+revid: 148512
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -31,7 +31,7 @@ Where Sibex can be found
 -   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
 -   **Inspired [Regalia](Regalia.md):** "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."
 -   **Resonance Obtained:** "Well look at you, my friend! You're practically beaming with the Song!"
--   **Arena, Bosses and Depths** (after a certain amount of progress): "Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?"
+-   **Arena, Bosses and Depths**: "Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?"
 
 ### Resonance Progress
 

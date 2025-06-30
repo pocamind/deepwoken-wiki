@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 148326
+revid: 148514
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1397,6 +1397,7 @@ Slash
 
 -   Deals 15 + 5 base damage with 1.65 Light Weapon scaling.
     -   Base damage does not increase from Mantra levels.
+-   Upgrading the Mantra increases teleportation range.
 -   Bypasses armor resistances, but the damage can still be resisted with other sources of damage reduction.
 -   Teleports the user to the enemy the cursor is pointed at.
 
