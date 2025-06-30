@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 148256
+revid: 148546
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -264,6 +264,7 @@ This page is about content that has either been removed or changed drastically i
     The skulls in question
     
     -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
+-   **Damage vs Monsters and Monster Armor pips** - These [equipment](Equipment.md) pips granted increased damage to [monsters](Monsters.md) and resistance against monsters respectively, additionally the Monster Armor pips granted +1% Physical and Elemental Resistance. These pip types were removed to allow PvE players to have a better chance in PvP situations with pips more geared towards universally useful stats like health and other resistance types. All equipment that previously had DvM or Monster Armor pips had them transferred into health/sanity and physical resistance respectively upon equip. These pip types were removed in the June 24th, 2025 update, being replaced with the [Bestiary](Bestiary.md) system.
 -   **Elemental Intensity** as a Talent stat - Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the September 7th, 2024 update.
 -   **[Ivory](Ivory.md) -** A quest giver NPC at [Pathfinder's Respite](<Pathfinder's_Respite.md>), she was removed along with the quest and the Talent the quest granted when it was made base behavior.
 -   **Lightning Strike Event -** An event which would occur while sailing, and would strike you, and your boat with lightning a few times. It was removed because it served no purpose other than being annoying.

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 148429
+revid: 148542
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1292,7 +1292,7 @@ Static Link
 
  | 
 
-Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long.
+Flourishing or uppercutting an enemy creates a static link between you and your enemy.
 
  | 
 

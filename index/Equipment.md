@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 148328
+revid: 148547
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -6869,6 +6869,7 @@ Found from:
 
 -   In previous versions of the game, Equipment could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
 -   If you want to wear a specific equipment piece, but it has awful stats, you can [smelt](Transmogrification.md) something with good stats and apply the piece you want to wear as vanity.
+-   Sanity pips will also grant half of their amount in Ether. So, if you get a +6 Sanity pip, you will also get +3 Ether.
 -   The Max number of Stars for Torso, Face, Ears, and Ring Equipment is 2 Stars (★★)
 -   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
@@ -6880,5 +6881,4 @@ Found from:
 -   Highest theoretical **Posture** kit is 20 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 1 Threadwork Kilt, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 2 Posture Delver Boots)
 -   Highest theoretical **HP** kit in game is 170 HP. (2x 9 HP Moon and 2x 9 HP Waning Rings, 47 HP (Drowned) Diver's Light Plate/Bastions of Enmity, 18 Fauld of Emnity, 32 HP Parasol Planter, 30 HP Star Boots/Imperial Boots, 2 HP Moonlit Earrings, 5 HP Citadel Frames)
     -   Having multiple pieces of equipment with drowned **does not increase your stats further.**
--   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with the addition of the Bestiary system, removing their necessity. Following this change, all DvM pips were transferred into Health pips and all Monster Armor pips were transferred into Physical Resistance pips.
--   A sanity pip will also grant half of its amount in ether. So, if you get a +6-sanity pip, you will also get +3 ether.
+-   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with the addition of the [Bestiary](Bestiary.md) system, removing their necessity. Following this change, all DvM pips were transferred into Health or Sanity pips (depending on the equipment type) and all Monster Armor pips were transferred into Physical Resistance pips.

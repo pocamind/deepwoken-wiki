@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 147796
+revid: 148539
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -44,7 +44,7 @@ Within Diluvian Mechanism, certain waves have a certain modifier or environmenta
 
 ### Thin Air
 
-Brings up the dialogue, "The air feels thin..." Causing all players to suffocate during the round losing their ability to cast mantras. This'll cause some issues to support, and for Mage PVE builds who heavily rely on mantras. For these waves, it is good to have some variety in your team (M1 based PVE builds and Mantra based PVE builds). However, the talent Water off a Duck's Back can remove the suffocation.
+Brings up the dialogue, "The air feels thin..." Causing all players to suffocate during the round losing their ability to cast mantras. This'll cause some issues to support, and for Mage PVE builds who heavily rely on mantras. For these waves, it is good to have some variety in your team (M1 based PVE builds and Mantra based PVE builds). However, talents like Water Off a Duck's Back and Blood Transfusion can be used to mitigate this as the modifier is considered a status effect.
 
 ### Hollow
 

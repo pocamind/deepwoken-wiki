@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 148529
+revid: 148543
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -231,7 +231,7 @@ This can be applied by being flourished by someone using [Thunder Wisp](Thunderc
 
 ### Static Linked
 
-A link tethering you to your opponent. Applied by uppercutting an opponent while having the [Static Link](Talents.md#static-weaver) Talent. This effect at base increases your [Shock's](#shock) stun duration by 50% (0.1s to 0.15s), but can be enhanced with various other Talents. Signified by a yellow/blue arc of electricity tethering yourself and your opponent.
+A link tethering you to your opponent. Applied by uppercutting or flourishing an opponent while having the [Static Link](Talents.md#static-weaver) Talent. This effect doesn't do anything innately, but has several supporting Talents that grants it additional effects. Signified by a yellow/blue arc of electricity tethering yourself and your opponent.
 
 ### Overloaded
 
