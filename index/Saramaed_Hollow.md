@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 147785
+revid: 148549
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -83,9 +83,9 @@ Exhaustive Loot Table
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
   <td>
   <ul>
-    <li><b>Adept</b>: <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></li>
-    <li><b>Expert</b>: <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Martial_Artist.md">Martial Artist</a></li>
-    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
+    <li><b>Adept</b>: <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>.</li>
+    <li><b>Expert</b>: <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Ignition_Welder.md">Ignition Welder</a>, <a href="Martial_Artist.md">Martial Artist</a>.</li>
+    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
   </ul></td>
 </tr>
 <tr>

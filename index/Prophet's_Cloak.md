@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 148538
+revid: 148548
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, The Ministry]
@@ -38,7 +38,6 @@ This Outfit's Schematic can be found in:
 -   Chests obtained by [fishing](Fishing.md)
 -   Chest obtained from [Rogue Construct](Rogue_Construct.md)
 -   Chest obtained upon defeating all enemies in sea events in [random encounters](Random_Encounters.md)
--   Chest obtained from [saramaed hollow](Saramaed_Hollow.md)
 
 ## Trivia
 

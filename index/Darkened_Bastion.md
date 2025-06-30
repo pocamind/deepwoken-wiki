@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 145991
+revid: 148551
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits]
@@ -32,15 +32,16 @@ The Outfit provides the [Talent Card](Talents.md) _Withering Soul_, which makes 
 
 This Outfit's Schematic can be found in:
 
--   [Scyphozia, The First Layer](First_Layer.md)
-    -   A drop when defeating a [Ministry Agent](Ministry_Agent.md), after using Shadow Flight/Shadow Travel in front of [Silhuett](Silhuett.md), who spawns randomly in the Depths teleporting you to the Ministry Cache.
-    -   Alternatively can be gained by having high Ally [Ministry](The_Ministry.md) reputation and talking to him in the Ministry Cache
-    -   Or gained by using the purple lights to access the Ministry Cache at a low (~1%) chance.
--   [Etrean Luminant](Luminants.md), [Outpost Antumbra](Outpost_Antumbra.md)
-    -   Gained via the purple lights event.
+-   [The Understrand](The_Understrand.md)
+    -   Can be a guaranteed drop by the [Ministry Agent](Ministry_Agent.md) upon defeat after using Shadow Flight/Shadow Travel within the dark circle next to [Silhuett's](Silhuett.md) event.
+    -   Alternatively can be gained by having high Ally [Ministry](The_Ministry.md) reputation and talking to him in The Understrand through Silhuett.
+    -   A rare drop if the player accessed The Understrand through interactions with the black circles scattered across [The City of the Drowned](The_City_of_the_Drowned.md) or [Minityrsa](Minityrsa.md).
 
 ## Trivia
 
--   This outfit used to be a Unique armor, but the rarity was dropped down to Master when they made it droppable in the January 18th, 2025 update.
+-   This outfit used to be a Unique armor, but the rarity was dropped down to Master when it became droppable in the January 18th, 2025 update.
+    -   This outfit used the original clothing for the [Moonseye](Moonseye.md) outfit.
+-   One of the two Master outfits that do not require a [Deep Gem](Mantra_Modifiers.md#deep-gems) alongside [Royal Etrean Guard](Royal_Etrean_Guard.md).
 
-[https://www.roblox.com/catalog/9520632236/Sellsword](https://www.roblox.com/catalog/9520632236/Sellsword) - Shirt [https://www.roblox.com/catalog/9520635195/Sellsword](https://www.roblox.com/catalog/9520635195/Sellsword) - Pants
+-   [https://www.roblox.com/catalog/9520632236/Sellsword](https://www.roblox.com/catalog/9520632236/Sellsword) - Shirt
+-   [https://www.roblox.com/catalog/9520635195/Sellsword](https://www.roblox.com/catalog/9520635195/Sellsword) - Pants

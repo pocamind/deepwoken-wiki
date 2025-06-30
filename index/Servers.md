@@ -1,16 +1,20 @@
 ---
 title: Servers
-revid: 143571
+revid: 148555
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [In progress without reason, InProgressPages, Mechanics]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Servers
 
+## Description
+
 As of September 4th, 2022, there are new server names. These include Executioner, Fence, Squire, and Vainglorious.
 
-**Servers** are the way to join Deepwoken. They are comprised of a random adjective and a random noun from the list below. The Etrean Luminant can host 20 people, the Eastern Luminant 24, and [The Depths](The_Depths.md) 16.
+**Servers** are the way to join Deepwoken. They are comprised of two random adjectives (descriptive, then color) and a random noun from the list below. The Etrean Luminant can host 20 people, the Eastern Luminant, 24, and [The Depths](The_Depths.md), 26.
 
 Servers in [The Depths](The_Depths.md) will look different if Hell Mode is currently active. The border will be red instead of the usual white, indicating Hell Mode. In addition, servers in the Eastern Luminant will be an orange color if War Mode is currently active.
 
@@ -37,6 +41,7 @@ USA has 8 different regions:
 -   Illinois
 -   New Jersey
 -   New York
+-   Ohio
 -   Texas
 -   Virginia
 -   Washington
@@ -45,7 +50,7 @@ It is also possible to encounter a region known as the Unknown Region, which may
 
 _Please note that it is possible that some locations may have been missed, as Roblox servers may not be up at all times, or may lack sufficient dedicated servers for certain locations due to a possible shortage of players._
 
-## Adjectives and Nouns
+## Server Names
 
 **Adjectives:**
 
