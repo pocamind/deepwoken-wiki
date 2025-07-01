@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 147774
+revid: 148832
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Oaths, The Ministry]
 | Oath: Contractor | |
 |---|---|
 | oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained Resonance |
-| effects | +2 Combat Mantra, +10 Ether |
+| effects | +2 Combat Mantra, +1 Wildcard Mantra, +10 Ether |
 
 “ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
 
@@ -126,3 +126,4 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 -   Lord's Slice is heavily reminiscent of Owl Slash, a move used by the [Shinobi](https://rogue-lineage.fandom.com/wiki/Shinobi) class in Studio Monad's older game, [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
 -   Dialogue with the Etrean Royal Guard changes to "Ah, the benevolent Lord Regent's associate has returned. Has he granted you a new task?"
 -   May be considered as one of the more iconic oaths, with Judgement being featured in the randomizer games Allusions and Item Asylum.
+-   The Oath, before its release, was first mentioned in the Windrunner's dialogue where he speaks of observing the war between Etrea and the Authority.

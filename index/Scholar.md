@@ -1,6 +1,6 @@
 ---
 title: Scholar
-revid: 146472
+revid: 148768
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -29,7 +29,7 @@ The [Scholar's Intuition](Talents.md#equipment-talents) talent causes [INT](Attr
 This Outfit's Schematic can be obtained from:
 
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   Sold by [Trahne Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
+-   Sold by [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
 -   [The Depths](First_Layer.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)

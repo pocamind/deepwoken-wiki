@@ -1,8 +1,9 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 148713
+revid: 148821
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Monsters, Bosses]
 ---
 
 # Elder Primadon, The Titan Warlord
@@ -19,7 +20,7 @@ Template:Creature Infobox V3
 
 Elder Primadon, the Titan Warlord is a stronger version of [Primadon](Primadon,_Titan_of_the_East.md), with a larger body, darker skin tone, and glowing eyes.
 
-Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned by making an offering. (Some [Relics](Relics.md) work, but be careful not to spawn regular Primadon.)
+Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned by making an offering, however this variant of the beast only takes high tier relics as an adequate offering.
 
 <table><caption>Known Offerings</caption>
 <tbody>
@@ -40,8 +41,8 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
 ## Moveset
 
-| Name/Danger | Description | Media |
-| --- | --- | --- |
+| Name/Danger | Description | Parrybale | Blockable | Dodgeable | Media |
+| --- | --- | --- | --- | --- | --- |
 | 
 **Stomp**
 
@@ -55,7 +56,7 @@ Blockable:
 
 Dodgeable:
 
- |  |
+ | ◯ |  | ◯ |  |
 | 
 
 **Triple Stomp**
@@ -70,7 +71,7 @@ Blockable:
 
 Dodgeable:
 
- |  |
+ | ◯ |  |  |  |
 | 
 
 **Punch**
@@ -85,7 +86,7 @@ Blockable:
 
 Dodgeable:
 
- |  |
+ |  |  | ◯ |  |
 | 
 
 **Kick**
@@ -100,7 +101,7 @@ Blockable:
 
 Dodgeable:
 
- |  |
+ |  |  | ◯ |  |
 | 
 
 **Grab**
@@ -115,7 +116,7 @@ Blockable:
 
 Dodgeable:
 
- |  |
+ |  |  | ◯ |  |
 | 
 
 **Rock Throw**
@@ -130,7 +131,7 @@ Blockable:
 
 Dodgeable:
 
- |  |
+ |  |  |  |  |
 | 
 
 **Disengage**
@@ -145,7 +146,7 @@ Blockable:
 
 Dodgeable:
 
- |  |
+ |  |  |  |  |
 | 
 
 **Execution : Double Stomp**
@@ -160,7 +161,7 @@ Blockable:
 
 Dodgeable:
 
- |  |
+ |  |  |  |  |
 | 
 
 **Enrage**
@@ -175,7 +176,7 @@ Blockable:
 
 Dodgeable:
 
- |  |
+ |  |  |  |  |
 | 
 
 Charged Stomp
@@ -190,7 +191,7 @@ Blockable:
 
 Dodgeable:
 
- |  |
+ |  |  |  |  |
 
 ## Combat
 
@@ -228,7 +229,7 @@ Elder Primadon has 99% cannon resistance, according to a tester. So cannon chees
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>.</li>
+    <li><b>Legendary Weapons</b>: <a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a>.</li>
     <li><b>Alloyed Weapons</b>:</li>
     <li><b>Generic Weapons</b>:
   <ol>
@@ -244,14 +245,18 @@ Elder Primadon has 99% cannon resistance, according to a tester. So cannon chees
   <td>
   <ul>
     <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Silver_Knight's_Helm.md">Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
-    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale).</li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
+  <ol>
+    <li><b>Legendary Arms</b>: <a href="Star_Duster.md"><font>Star Duster</font></a></li>
+    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale).</li>
+  </ol></li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Star_Boots.md">Star Boots</a>.</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>.</li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>.</li>
     <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>.</li>
     <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
   <ol>
-    <li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>.</li>
+    <li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>.</li>
     <li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>.</li>
   </ol></li>
   </ul></td>

@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 146525
+revid: 148756
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -31,7 +31,7 @@ This Outfit's Schematic can be obtained from:
 Sold from:
 
 -   [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md) for
--   [Trahne Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md) for
+-   [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md) for
 
 Chests from:
 

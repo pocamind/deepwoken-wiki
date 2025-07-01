@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 148565
+revid: 148766
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits, Armors]
@@ -32,7 +32,7 @@ This Outfit's Schematic can be obtained from:
 
 Sold from:
 
--   [Trahne Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md) for
+-   [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md) for
 
 Chests from:
 

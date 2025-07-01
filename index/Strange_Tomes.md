@@ -1,6 +1,6 @@
 ---
 title: Strange Tomes
-revid: 147659
+revid: 148800
 source: https://deepwoken.fandom.com/wiki/Strange_Tomes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]

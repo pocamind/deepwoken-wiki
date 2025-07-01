@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 146479
+revid: 148757
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Central Authority]
@@ -31,7 +31,7 @@ The [Lowstride](Talents.md#assassin) Talent increases your [Stealth](Stealth.md)
 This Outfit's Schematic can be obtained from:
 
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   Sold by [Trahne Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
+-   Sold by [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
 -   [The Depths](The_Depths.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chests)
 

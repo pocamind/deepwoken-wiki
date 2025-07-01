@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 138039
+revid: 148773
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Central Authority]
@@ -26,6 +26,7 @@ This Outfit has 2000 durability and grants +30% Physical resistance and +25% Ele
 
 This Outfit's Schematic can be found:
 
+-   Sold by [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
 -   [Fort Merit](Fort_Merit.md)
 -   [The Depths](The_Depths.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)

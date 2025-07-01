@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 146455
+revid: 148761
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Ignition Union]
@@ -27,6 +27,7 @@ This Outfit has 2000 durability, grants +22% Physical resistance, and +22% Eleme
 This Outfit's Schematic can be obtained from:
 
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   Sold by [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>), at the bank
 -   [Lower Erisia](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chests)

@@ -1,6 +1,6 @@
 ---
 title: Varicosan Finery
-revid: 146584
+revid: 148779
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

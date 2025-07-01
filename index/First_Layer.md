@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 148242
+revid: 148775
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 1]
@@ -129,7 +129,7 @@ Scyphozia, being a naturally hostile location, is intentionally difficult to sur
 -   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** Talent tree, is a good way to combat the slow drain of Sanity that being within purgatory imposes. Though all Talents in the **Mental Fortress** Talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity upon killing monsters of the Deep. Requires **10 Willpower**.
 -   _**Underdog**_ allows more damage to larger foes. Good for fighting Sharkos, Lionfish and Crabs. Requires **40 Willpower.**
 -   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through **40 Willpower** and all 3 **Mental Fortress** cards, will allow passive survival in Layer One for over an hour due to the base sanity stat.
--   **Damage vs Monsters (DvM) and Monster Armor** equipment with stat modifiers usually have a form of DvM and/or Monster Armor, which is useful.
+-   **Damage vs Monsters (DvM) and Monster Armor,** a mechanic that can progressively increase the strength of your attacks against and your resistance to monsters. This is increased by killing multiples of the same monster, and is player-data wide, but only applies to the monster you killed. It might not be as useful for killing King Gigameds or Crustaceous Rexes, as they do not spawn on the surface, but killing plenty of Megalodaunts, Mudskippers and Lionfish in the (relative) safety of the Overworld can save your life in the Depths.
 
 ### Tips and Tricks
 

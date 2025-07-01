@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 148313
+revid: 148755
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -356,7 +356,8 @@ Exhaustive Loot Table
   <td colspan="4">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.<br>
   </td>
   <td colspan="4"><i>*He narrows his eyes, deathly cold.*</i> Everything I can do to stop the oncoming catastrophe, you <i>indolent worm</i>. With it, I turn <i>useless fools</i> like you into something of use... <i>You don't know what I do for mankind.</i></td>
-  <td colspan="4">You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.</td>
+  <td colspan="4">You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.<br>
+  </td>
 </tr>
 <tr>
   <td colspan="4">That 'thing'? Agent?</td>
@@ -379,7 +380,8 @@ Exhaustive Loot Table
   </td>
   <td><i>*Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...<br>
   </td>
-  <td><i>*Duke smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...</td>
+  <td><i>*Duke smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...<br>
+  </td>
 </tr>
 <tr>
   <td colspan="3">What are you talking about?</td>
@@ -415,7 +417,8 @@ Exhaustive Loot Table
 <tr>
   <td colspan="6">You're right. I'm wasting valuable time on you. Lumen's salvation will not wait for fools who would deny it.<br>
   </td>
-  <td colspan="6">You're right. There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.</td>
+  <td colspan="6">You're right. There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.<br>
+  </td>
 </tr>
 <tr>
   <td colspan="12">End</td>

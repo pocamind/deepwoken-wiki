@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 144320
+revid: 148762
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -31,6 +31,7 @@ This Outfit's Schematic can be found in:
 -   [Fishing](Fishing.md) (Chest)
 -   [The Depths](The_Depths.md)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+-   Sold by [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
 
 ## Trivia
 

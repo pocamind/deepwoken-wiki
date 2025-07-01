@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 148535
+revid: 148752
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -8,27 +8,27 @@ categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 
 # Traan Zakshun
 
-| Trahne Zakshun | |
+| Traan Zakshun | |
 |---|---|
-| name | Trahne Zakshun |
+| name | Traan Zakshun |
 | aspect | Canor |
 | location | Lower Erisia |
 
 “ Here's todays lineup. Try not to drool. ”
 
-― Trahne Zakshun
+― Traan Zakshun
 
 ## Description
 
-Trahne Zakshun is an NPC merchant, he sells various outfit schematics and weapons labelled as "Trahnes Salvaged Stock". He wields an [Iron twinblade](Iron_Twinblade.md) on his back, and he wears the [Carefree Garments](Carefree_Garments.md) outfit.
+Traan Zakshun is an NPC merchant, he sells various outfit schematics and weapons labelled as "Trahnes Salvaged Stock". He wields an [Iron twinblade](Iron_Twinblade.md) on his back, and he wears the [Carefree Garments](Carefree_Garments.md) outfit.
 
-Trahne Zakshun's shop runs on an hourly rotation. Every hour, he sells three to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of his shop consists of uncommon weapons and schematics that are geared towards mid-game.
+Traan Zakshun's shop runs on an hourly rotation. Every hour, he sells three to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of his shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
-Once every 20 hours, Trahne Zakshun will appear hosting a [black market](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are sold for [Crowns](Crowns.md). You can only purchase **one item total** per black market visit.
+Once every 20 hours, Traan Zakshun will appear hosting a [black market](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are sold for [Crowns](Crowns.md). You can only purchase **one item total** per black market visit.
 
 ## Location
 
-Trahne Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
+Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
 
 ## Dialogue
 
@@ -220,7 +220,7 @@ Sold Items
 
 ## Black Market
 
-Once every 20 hours, instead of a regular item rotation, Trahne Zakshun will sell goods from his black market stock. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour.
+Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell goods from his black market stock. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour.
 
 ### Shop UI
 
@@ -311,10 +311,10 @@ Sold Items
 
 ## Trivia
 
--   Trahne Zakshun's name is a play on the word "transaction." This is only further reinstated by them being a merchant.
--   Trahne Zakshun changed their name to that because they're a troll.[\[1\]](#cite-note-0-1)
+-   Traan Zakshun's name is a play on the word "transaction." This is only further reinstated by them being a merchant.
+-   Traan Zakshun changed their name to that because they're a troll.[\[1\]](#cite-note-0-1)
 -   The Black Market dialogue "_You want it? It's yours my friend! So long as you have enough crowns."_ is a quote reference to Morshu in Link: The Faces of Evil.
--   Nuttoons, one of Deepwoken's developers, had this to say about Trahne Zakshun: "they are a weirdo, they mug freshies for their garbage and bring it back to their little hoarding cave to sell off to schmucks". [\[1\]](#cite-note-0-1)
+-   Nuttoons, one of Deepwoken's developers, had this to say about Traan Zakshun: "they are a weirdo, they mug freshies for their garbage and bring it back to their little hoarding cave to sell off to schmucks". [\[1\]](#cite-note-0-1)
     -   This is much like the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Trahne, the loot bag gacha NPCs collect the loot off of corpses rather than getting their hands dirty themselves.
 
 ## References

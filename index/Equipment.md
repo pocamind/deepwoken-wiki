@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 148702
+revid: 148826
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -3453,6 +3453,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
 
@@ -6567,6 +6568,7 @@ Found from:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
