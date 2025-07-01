@@ -1,6 +1,6 @@
 ---
 title: Fiber
-revid: 147269
+revid: 148580
 source: https://deepwoken.fandom.com/wiki/Fiber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -19,10 +19,6 @@ categories: [Items, Craftable, Ingredients]
 | pass down | No |
 | desc | A small gathering of natural fibers. |
 | obtainment | Bought for from every vendor., Crafting together two (2) Bamboo Bundles or Marram Grass. |
-
-“ To knit or to knot knit? That's the real question. ”
-
-― A Cerulean Thread schematic.
 
 **Fiber** is an essential resource used to craft [Outfits](Outfits.md) and other tools.
 

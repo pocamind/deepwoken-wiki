@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 147680
+revid: 148584
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -16,10 +16,6 @@ categories: [Items, Tools, Craftable]
 | pass down | No |
 | desc | Use this to collect wood! Can be swung as weapon that deals additional damage to structures. |
 | obtainment | Bought for from every vendor besides a Travelling Merchant., Crafting with two (2) Wood and Iron at a Crafting Station. |
-
-“ TIMBERRRRRRRRRRRRRRRRR!!! ”
-
-― The Player chopping a tree and getting flung into the ocean
 
 The **Lumber Axe** is a tool that can be used to chop trees for wood, structures to break, and players to kill...
 

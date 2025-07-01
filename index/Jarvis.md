@@ -1,6 +1,6 @@
 ---
 title: Jarvis
-revid: 148569
+revid: 148573
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -22,7 +22,7 @@ His main use is to [smelt](Transmogrification.md) two pieces of equipment into o
 
 ## Trivia
 
--   Another NPC known as the Artisan can be hired in a [guild base](Guild_Bases.md). They will function the same way as Jarvis does, albeit they only cost to smelt equipment
+-   Another NPC known as the Artisan can be hired in a [Guild Base](Guild_Bases.md). They will function the same way as Jarvis does, albeit they only cost to smelt equipment
 -   If you change your mind after giving him an equipment, choosing the second dialogue option will return it.
 -   Attempting to smelt the removed [Magenta Pathfinder Elite](Pathfinder_Elite.md) will result in him saying "Hm?! What is zis?!"
 -   Very very similar in apperance with [Lysander Spellhardt](Lysander_Spellhardt.md), albeit with different pupils and clothes

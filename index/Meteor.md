@@ -1,6 +1,6 @@
 ---
 title: Meteor
-revid: 132576
+revid: 148586
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 Meteor Fortuna
 
-These purple meteors are found in random locations around the map, although generally spread out. They're meant for people with the [Linkstrider](Oath%253A_Linkstrider.md) Oath; A Linkstrider can teleport to any meteor that they've interacted with, but they must be sitting at a campfire.
+These purple meteors are found in random locations around the map, although generally spread out. They're meant for people with the [Linkstrider](Oath%253A_Linkstrider.md) Oath; A Linkstrider can teleport to any meteor that they've interacted with, but they must be sitting at a campfire. The first usage always costs one [Stardust](Stardust.md)
 
 Interacting with a meteor without the Linkstrider Oath, will give you the message: "_I feel connected to this somehow but I can't reach out to touch it._"
 

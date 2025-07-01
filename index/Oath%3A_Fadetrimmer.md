@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 146075
+revid: 148600
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Fadetrimmer | |
 |---|---|
 | oath_req | Power 12, 12 haircuts |
-| effects | +1 Combat Mantra Slot, +1 Wildcard Mantra Slot |
+| effects | +1 Combat Mantra Slot, +2 Wildcard Mantra Slots |
 
 “ Yeah. We are a pretty underground Oath. You probably haven't heard of us. ”
 
@@ -43,7 +43,7 @@ _This Oath does not become locked after breaking it at Yun'Shul._
 
 ## Effects
 
-This Oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the user has scissors hanging off the side of their hip.
+This Oath grants 1 Combat Mantra Slot, and 2 Wildcard Mantra Slots. As for appearance, the user has scissors hanging off the side of their hip.
 
 ## Abilities
 

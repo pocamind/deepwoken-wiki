@@ -1,6 +1,6 @@
 ---
 title: Wood
-revid: 147268
+revid: 148581
 source: https://deepwoken.fandom.com/wiki/Wood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -19,10 +19,6 @@ categories: [Items, Craftable, Ingredients]
 | pass down | No |
 | desc | It's wood. |
 | obtainment | Chopping trees with an Lumber Axe., Obliterating trees with Strong Left. (With the Treefelling Blow Talent.), Bought for or depending on the vendor., Crafting together three (3) Sticks. |
-
-“ How much wood would a woodchuck chuck if a woodchuck could chuck wood? ”
-
-― A conspicuous Celtor
 
 **Wood** is an essential resource used to craft tools and other materials.
 

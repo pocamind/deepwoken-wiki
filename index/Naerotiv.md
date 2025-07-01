@@ -1,6 +1,6 @@
 ---
 title: Naerotiv
-revid: 148401
+revid: 148591
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Floor 2, Layer 2]
@@ -137,3 +137,4 @@ Naerotiv urges you to set his kind free by completing the ritual and sealing the
 -   He is located right next to where a possible [Medallion](Kyrsan_Medallions.md) chest would spawn.
 -   [Alpha](Alpha.md) mentions of how [The Ignition Union](The_Ignition_Union.md) is trying to use the Gale to harness infinite power as well, same as The Scholars.
     -   But that idea was the very thing that led to the [Kyrsan's](Kyrsgarde.md) downfall.
+-   His name, "Naerotiv" is a play on the word "narrative".

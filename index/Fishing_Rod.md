@@ -1,6 +1,6 @@
 ---
 title: Fishing Rod
-revid: 146855
+revid: 148583
 source: https://deepwoken.fandom.com/wiki/Fishing_Rod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -16,10 +16,6 @@ categories: [Items, Tools, Craftable]
 | pass down | No |
 | desc | Cast out to sea to catch fish. |
 | obtainment | Bought for or depending on the vendor., Crafting with two (2) Sticks and one (1) Fiber at a Crafting Station. |
-
-“ It's a Sea Bass! Where's its instrument? ”
-
-― The Player catching a Sea Bass
 
 The **Fishing Rod** is a tool used to cast lines into most bodies of water for fish, treasure, and even monsters.
 

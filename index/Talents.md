@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 148541
+revid: 148602
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -455,7 +455,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 25 Fortitude
     -   The Equipment "[Providence Coat](Providence_Coat.md)" has this Talent.
 
--   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+2 Posture)
+-   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
     -   Lower the movement speed penalty of blocking.
     -   Prerequisite: 5 Fortitude
 
@@ -3441,14 +3441,24 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I seek the qualities of Toxic Personality."**_
 
 -   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
-    -   Works insanely well with Talent "Unnecessary Theatrics" as it reapplies the charm.
-    -   10s CD.
+    -   10 second cooldown.
+    -   Works insanely well with Unnecessary Theatrics and [Overcharm](Status_Effects.md#overcharm) as they reapply the charm after the charm is removed on the same hit.
+    -   Tough Love and Manipulator proc at the same time, allowing for a 30% damage bonus.
+    -   Manipulator is inherently weaker on multihit criticals, but that doesn't mean it's always bad.
+        -   For example, a 5 hit multihit critical will only gain a 4% damage bonus from Manipulator as it only procs once and then goes on cooldown.
+        -   The effectiveness of Manipulator on multihitting criticals depends entirely on the critical itself, with its hit count and scaled damage multipliers being very important factors, as well as whether or not you expect to even land the whole thing. Sometimes front loading the critical proves more effective than having a more consistently applied damage multiplier.
+        -   The following assumes your critical deals the same amount of damage per hit (10 damage per hit for the example calculations):
+            -   If it has **less than 3 hits**, Manipulator will be a **net gain** over Tough Love by itself. (e.g. Manipulator + Tough Love: 13 + 10 = 23 VS Tough Love: 11 + 11 = 22, and 23 > 22.)
+            -   If it has **exactly 3 hits**, Manipulator will be a **net neutral** and will perform the same as Tough Love by itself. (e.g. Manipulator + Tough Love: 13 + 10 + 10 = 33 VS Tough Love: 11 + 11 + 11 = 33, and 33 = 33.)
+            -   If it has **more than 3 hits**, Manipulator will be a **net loss** compared to Tough Love by itself. (e.g. Manipulator + Tough Love: 13 + 10 + 10 + 10 = 43 VS Tough Love: 11 + 11 + 11 + 11 = 44, and 43 < 44.)
+        -   If the damage per hit isn't the same, it depends on how front loaded the critical is in specific.
     -   Prerequisites: Charismatic Cast, 60 Charisma
 
 -   Narcissist \[Common Talent, Charisma Exclusive\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
     -   Overcharms yourself for 4 seconds.
     -   Charms yourself for 8 seconds (halved to 4s if you have Disbelief).
         -   The self Charm proc reduces self damage taken by 10% and allows you to benefit from Charismatic Cast's secondary effect, which reduces your time knocked by 50%.
+    -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents.
     -   Mutual Exclusives: Tough Love
     -   Prerequisites: Charismatic Cast, 60 Charisma
 
@@ -3456,7 +3466,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I use my blood's plasma to better defend myself."**_
 
--   _Sow and Mend_ \[Rare Talent\] - Sacrifice 17.5% of your blood for temporary health. (25s CD)
+-   _Sow and Mend_ \[Rare Talent\] - Sacrifice 35% of your blood for temporary health. (30s CD)
     -   Gives ~8% temporary health.
     -   Prerequisites: 60 Bloodrend, Master Bloodrender
 
@@ -3562,6 +3572,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Rule Through Fear_ \[Rare Talent, Charisma\] - Executing an enemy applies Overcharm to nearby allies and yourself.
     -   Overcharms for 10 seconds.
+    -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents. This bonus does not stack with Tough Love.
     -   Prerequisites: 85 Charisma, 50 Strength
 
 ### Undying Ember
@@ -3702,6 +3713,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 40 Charisma, [Sing](Attunement-less.md#sing) (Mantra)
 
 -   Propagandist \[Common Talent, Charisma Exclusive\] - Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with basic attacks.
+    -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents. This bonus does not stack with Tough Love.
     -   Prerequisites: 75 Charisma, [Sing](Attunement-less.md#sing) (Mantra)
 
 ### Vow of Mastery
