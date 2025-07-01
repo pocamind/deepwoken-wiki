@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 147301
+revid: 148675
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients, Drops]
@@ -47,6 +47,7 @@ Umbral Obsidian can drop from certain monsters, chests, and enemies that use the
 ### Chests
 
 -   [Primadon](Primadon,_Titan_of_the_East.md) chests
+-   [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) chests
 -   [Ferryman](The_Ferryman.md) chests
 -   [Fishing](Fishing.md) chests
 -   [Deep Widow](Deep_Widow.md) chests

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 148547
+revid: 148702
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -240,6 +240,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -745,6 +746,7 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [First Layer](First_Layer.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Lodestar](Lodestar.md)
@@ -1128,6 +1130,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
  | N/A |
 | File:KnightHelm.png | 
@@ -1151,6 +1154,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Lodestar](Lodestar.md)
@@ -1567,6 +1571,7 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
  | N/A |
 | File:Brimlilal2.png | 
@@ -1861,6 +1866,7 @@ Found from:
 -   [The Ferryman](The_Ferryman.md) (Winter)
 -   [Aratel Island](Aratel_Island.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [First Layer](First_Layer.md)
 -   [Cloaked Assassin](Cloaked_Assassin.md)
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
@@ -4205,6 +4211,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -4347,6 +4354,7 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Lodestar](Lodestar.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
@@ -4564,6 +4572,7 @@ Found from:
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
@@ -4592,6 +4601,7 @@ Found from:
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
@@ -5325,6 +5335,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5899,6 +5910,7 @@ _+2 Health_
 Found from:
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
@@ -5931,6 +5943,7 @@ Found from:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Lodestar](Lodestar.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
@@ -6086,6 +6099,7 @@ Found from:
 -   [Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Second Layer](Second_Layer.md)
@@ -6141,6 +6155,7 @@ Found from:
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -6222,6 +6237,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -6250,6 +6266,7 @@ Found from:
 -   [Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Second Layer](Second_Layer.md)
@@ -6306,6 +6323,7 @@ Found from:
 
 -   [Ferryman](The_Ferryman.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
@@ -6621,6 +6639,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   Trading with [Jeremiah](Jeremiah.md)

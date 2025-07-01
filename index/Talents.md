@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 148602
+revid: 148673
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3467,7 +3467,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I use my blood's plasma to better defend myself."**_
 
 -   _Sow and Mend_ \[Rare Talent\] - Sacrifice 35% of your blood for temporary health. (30s CD)
-    -   Gives ~8% temporary health.
+    -   Gives ~5% temporary health.
     -   Prerequisites: 60 Bloodrend, Master Bloodrender
 
 -   Cyclical Exsanguination \[Common Talent\] - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
@@ -4102,6 +4102,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Increases _[Katana](Katana.md)_ damage by 25%.
     -   Increases _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md#alloyed)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
+-   Primal Rage: [Titanslayer's Adornment](<Titanslayer's_Adornment.md>) - If you are below 50%, unleash your rage and increase the amount of damage you deal for 25 seconds as well as being able to see enemy health when you hit them. \[3 minute CD\]
 -   Refreeze: [Icebringer's Vestments](<Icebringer's_Vestments.md>) - Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 -   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining.

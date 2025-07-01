@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Mask
-revid: 144448
+revid: 148695
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Items]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks, Items]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | First Layer, Duke Ishamon Erisia, Miner's Landing, Second Layer, Lodestar, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Saramaed Hollow |
+| obtainment | First Layer, Duke Ishamon Erisia, Miner's Landing, Second Layer, Lodestar, Heart of Enmity, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Saramaed Hollow |
 | description | "..." |
 
 ## Description

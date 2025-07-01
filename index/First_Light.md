@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 148598
+revid: 148690
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -12,11 +12,11 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
 |---|---|
 | type | Greatsword |
 | requirements | 75 HVY |
-| damage | 25.5 |
+| damage | 23 |
 | scaling | HVY: 8 |
 | range | 8.5 |
 | swing speed | 0.82x |
-| penetration | 5% |
+| penetration | 15% |
 | special effect | On critical, summon a storm of fiery blades that hail down onto the field. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 9 |

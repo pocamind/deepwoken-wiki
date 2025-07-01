@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 148559
+revid: 148661
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Attribute Trees
 
-Talent Trees documented so far in [Talents](Talents.md): 18/195  
+Talent Trees documented so far in [Talents](Talents.md): 23/195  
 This page is organized to see Talents generally, allowing you to pick them out with minimal details. [Talents](Talents.md) provides extended information on the topic of Talents.
 
 Each Tab is designed to show Talents that involve the searched Attribute from Least to Greatest Ex. Potion Quaffer has the Prerequisites \[Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence\], it will be in each of the Attribute Tabs and show up twice in the Intelligence Tab under both Hybrids. If a linked Talent is not on the Tab, it will redirect to Talent Tree as for Talents and Mantras that are not linked or made, they will show up as Potion Quaffer.
@@ -42,11 +42,15 @@ Pulled from [Talents](Talents.md) for immediate reference.
 3.  [Weapon (WEP)](#weapon-hybrids-214)
 4.  [Attunement (ELM)](#attunement-hybrids-215)
     1.  [Galebreathe (WND)](#galebreathe-hybrids-216)
+5.  [Oaths](#oaths-217)
+    1.  [Bladeharper](#bladeharper-218)
 
 ## Exclusive 2.1.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
+| File:TalentCardImage2.png | Berserk  
+Berserker;4.20a | 80STR | One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active. |
 | File:TalentCardImage2.png | Collapsed Lung  
 Annihilator;4.11a | 100STR | Block breaking an opponent closes off their ability to Vent for 3s. |
 
@@ -89,6 +93,30 @@ Aeromancer;4.5d | 15STR
 35WND | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) |
 |  | Stifled Jump  
 Aeromancer;4.5e | Suffocating Impact;4.5d (Talent) | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
+
+## Oaths 2.1.7
+
+### Bladeharper 2.1.8
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Bladeharper.png | Oath: Bladeharper  
+Bladeharper;4.21a | 25STR  
+75MED(90WEP)  
+[Other](Talents.md#bladeharper) | You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot) |
+| Bladeharper.png | Float Like a Butterfly  
+Bladeharper;4.21b | Oath:Bladeharper;4.21a | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
+| Bladeharper.png | Lithe Step  
+Bladeharper;4.21c | Oath: Bladeharper;4.21a | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
+| Bladeharper.png | Reveal  
+Bladeharper;4.21d | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | Pour your heart out, and reveal your true strength. |
+| Bladeharper.png | Soaring Storm  
+Bladeharper;4.21e | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability. |
+| Bladeharper.png | Untouchable  
+Bladeharper;4.21f | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
 **Fortitude (FTD):**
 
@@ -182,6 +210,8 @@ Arcwarder;4.13f | Arcwarder;4.13a (Talent)
     2.  [Fortitude (FTD)](#fortitude-hybrids-233)
 3.  [Attunement (ELM)](#attunement-hybrids-234)
     1.  [Galebreathe (WND)](#galebreathe-hybrids-235)
+4.  [Oaths](#oaths-236)
+    1.  [Bladeharper](#bladeharper-237)
 
 ## Exclusive 2.3.0
 
@@ -233,6 +263,30 @@ Alley Cat;4.7c | Endurance Runner;4.7a (Talent), Scaredy Cat;4.7b (Talent) | You
 |  | Aerogliding  
 Aeromancer;4.5a | 30AGL  
 35WND | When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility) |
+
+## Oaths 2.3.6
+
+### Bladeharper 2.3.7
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Bladeharper.png | Oath: Bladeharper  
+Bladeharper;4.21a | 25AGL  
+75MED(90WEP)  
+[Other](Talents.md#bladeharper) | You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot) |
+| Bladeharper.png | Float Like a Butterfly  
+Bladeharper;4.21b | Oath:Bladeharper;4.21a | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
+| Bladeharper.png | Lithe Step  
+Bladeharper;4.21c | Oath: Bladeharper;4.21a | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
+| Bladeharper.png | Reveal  
+Bladeharper;4.21d | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | Pour your heart out, and reveal your true strength. |
+| Bladeharper.png | Soaring Storm  
+Bladeharper;4.21e | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability. |
+| Bladeharper.png | Untouchable  
+Bladeharper;4.21f | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
 **Intelligence (INT):**
 
@@ -295,6 +349,8 @@ Alchemist;4.6e | 30INT
 2.  [Body and Mind](#body-and-mind-hybrids-251)
     1.  [Fortitude (FTD)](#fortitude-hybrids-252)
     2.  [Intelligence (INT)](#intelligence-hybrids-253)
+3.  [Oaths](#oaths-254)
+    1.  [Blindseer](#blindseer-255)
 
 ## Exclusive 2.5.0
 
@@ -329,6 +385,20 @@ Alchemist;4.6e | 15 WIL
 30INT  
 "Drank Potion" | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
+## Oaths 2.5.3
+
+\===Blindseer 2.5.4
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Blindseer.png | Oath: Blindseer  
+Blindseer;4.19a | 40WIL  
+Mental Fortress  
+[Other](Talents.md#blindseer) | You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot) |
+| Blindseer.png | All-Seeing Eye  
+Blindseer;4.19b | Oath: Blindseer;4.19a  
+[Other](Talents.md#blindseer) | The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted. |
+
 **Charisma (CHA):**
 
 **Weapon (WEP):**
@@ -352,6 +422,8 @@ Aerial Dancer;4.4a | 25HVY(25WEP)
 
 1.  [Body and Mind](#body-and-mind-hybrids-320)
     1.  [Strength (STR)](#strength-hybrids-321)
+2.  [Oaths](#oaths-322)
+    1.  [Bladeharper](#bladeharper-323)
 
 ## Body and Mind Hybrids 3.2.0
 
@@ -362,6 +434,30 @@ Aerial Dancer;4.4a | 25HVY(25WEP)
 | File:TalentCardImage2.png | Wyvern's Claw  
 Aerial Dancer;4.4a | 25MED(25WEP)  
 15STR | You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead. |
+
+## Oaths 3.2.2
+
+### Bladeharper 3.2.3
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Bladeharper.png | Oath: Bladeharper  
+Bladeharper;4.21a | 75MED(90WEP)  
+(25AGL or 25STR)  
+[Other](Talents.md#bladeharper) | You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot) |
+| Bladeharper.png | Float Like a Butterfly  
+Bladeharper;4.21b | Oath:Bladeharper;4.21a | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
+| Bladeharper.png | Lithe Step  
+Bladeharper;4.21c | Oath: Bladeharper;4.21a | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
+| Bladeharper.png | Reveal  
+Bladeharper;4.21d | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | Pour your heart out, and reveal your true strength. |
+| Bladeharper.png | Soaring Storm  
+Bladeharper;4.21e | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability. |
+| Bladeharper.png | Untouchable  
+Bladeharper;4.21f | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
 **Light (LHT):**
 
@@ -531,15 +627,47 @@ Adaptive Arsenal;4.2c | 75MTL | Your weapon M1's have +0.25 range. |
 
 **Bloodrend (BLD):**
 
+1.  [Exclusive](#exclusive-470)
+
+## Exclusive 4.7.0
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Bloodrender  
+Bloodrender;4.23a | 1BLD | Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'. |
+| File:TalentCardImage2.png | First Blood  
+Bloodrender;4.23f | 10BLD | Your first blood mantra you use in combat has no blood cost. |
+| File:TalentCardImage2.png | Adept Bloodrender  
+Bloodrender;4.23b | 20BLD | You can now obtain 1-star Bloodrender mantras. |
+| File:TalentCardImage2.png | Bloodwarden's Sense  
+Bloodhound;4.22a | 30BLD | Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly. |
+| File:TalentCardImage2.png | Expert Bloodrender  
+Bloodrender;4.23c | 30BLD | You can now obtain 2-star Bloodrender mantras. |
+| File:TalentCardImage2.png | Sheltering Grasp  
+Bloodrender;4.23j | 30BLD | Blood mantras cast within blood pools have a reduced blood cost. |
+| File:TalentCardImage2.png | Crimson Fountain  
+Bloodrender;4.23e | 40BLD | Blockbreaking or flourishing an enemy now spills a pool of blood below them. |
+| File:TalentCardImage2.png | Sanguine Siphon  
+Bloodrender;4.23i | 40BLD | Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra. |
+| File:TalentCardImage2.png | Master Bloodrender  
+Bloodrender;4.23d | 50BLD | You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health) |
+| File:TalentCardImage2.png | Rush Hour  
+Bloodrender;4.23h | 50BLD | Stab yourself to become stronger, faster, and deal increased blood bar damage. |
+| File:TalentCardImage2.png | Smell of Blood  
+Bloodhound;4.22b | 65BLD | When people touch a blood pool, briefly see their blood and blood poison. |
+| File:TalentCardImage2.png | Hemorrhaging Blow  
+Bloodrender;4.23g | 95BLD  
+Master Bloodrender;4.23a | Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD) |
+
 **Undefined:**
 
 **Generic:**
 
-1.  [Power](#power-exclusive)
-2.  [Quest](#quest-exclusive)
-3.  [Fishing](#fishing)
+1.  [Power](#power-exclusive-x10)
+2.  [Quest](#quest-exclusive-x11)
+3.  [Fishing](#fishing-x12)
 
-## Power Exclusive
+## Power Exclusive X.1.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -548,7 +676,7 @@ Athlete;4.16a | Power 1 | You swim faster in water. (+2 Passive Agility) |
 | File:TalentCardImage2.png | Sunken Predator  
 Apex Predator;4.12c | Power 11 | Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility) |
 
-## Fishing
+## Fishing X.1.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -561,9 +689,11 @@ Angler;4.10c | 50 Fishing | Fish are drawn to your line more quickly. |
 
 **Oaths:**
 
-1.  [Arcwarder](#arcwarder)
+1.  [Arcwarder](#arcwarder-x20)
+2.  [Blindseer](#blindseer-x21)
+3.  [Bladeharper](#bladeharper-x22)
 
-## Arcwarder
+## Arcwarder X.2.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -587,3 +717,37 @@ Arcwarder;4.13e | Arcwarder;4.13a (Talent)
 | Arcwarder.png | Arc Module: Null  
 Arcwarder;4.13f | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
+
+## Blindseer X.2.1
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Blindseer.png | Oath: Blindseer  
+Blindseer;4.19a | 40WIL  
+Mental Fortress  
+[Other](Talents.md#blindseer) | You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot) |
+| Blindseer.png | All-Seeing Eye  
+Blindseer;4.19b | Oath:Blindseer;4.19a  
+[Other](Talents.md#blindseer) | The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted. |
+
+## Bladeharper X.2.2
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Bladeharper.png | Oath: Bladeharper  
+Bladeharper;4.21a | (25AGL or 25STR)  
+75MED(90WEP)  
+[Other](Talents.md#bladeharper) | You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot) |
+| Bladeharper.png | Float Like a Butterfly  
+Bladeharper;4.21b | Oath:Bladeharper;4.21a | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
+| Bladeharper.png | Lithe Step  
+Bladeharper;4.21c | Oath: Bladeharper;4.21a | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
+| Bladeharper.png | Reveal  
+Bladeharper;4.21d | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | Pour your heart out, and reveal your true strength. |
+| Bladeharper.png | Soaring Storm  
+Bladeharper;4.21e | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability. |
+| Bladeharper.png | Untouchable  
+Bladeharper;4.21f | Oath: Bladeharper;4.21a  
+[Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |

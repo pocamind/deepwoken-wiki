@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 144115
+revid: 148716
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, Lost Celtor]
@@ -42,13 +42,16 @@ The city is patrolled by watchers that summon pairs of [Lesser Angels](Hollow_An
 
 ## Potential Enemies
 
--   [Lesser Angels](Hollow_Angel.md) (Summoned by Watchers)
+-   [Hollow Angels](Hollow_Angel.md) (Summoned by Watchers)
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Deep Owl](Deep_Owl.md)
 -   [Lionfish](Lionfish.md)
 -   [Thresher](Thresher.md)
+-   [King Thresher](King_Thresher.md)
+-   [Mudskipper Broodlord](Mudskipper_Broodlord.md)
 -   [The Fisherman](The_Fisherman.md)
+-   [Coldheart Fortinbras](Coldheart_Fortinbras.md)
 
 ## Quests
 

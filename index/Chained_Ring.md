@@ -1,6 +1,6 @@
 ---
 title: Chained Ring
-revid: 147585
+revid: 148699
 source: https://deepwoken.fandom.com/wiki/Chained_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, Duke Ishamon Erisia, Chime of Conflict, Heart of Enmity, Diluvian Mechanism, Deep Widow, Lodestar, Fishing, Dread Serpent, Saramaed Hollow |
+| obtainment | Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, Elder Primadon, The Titan Warlord, Duke Ishamon Erisia, Chime of Conflict, Heart of Enmity, Diluvian Mechanism, Deep Widow, Lodestar, Fishing, Dread Serpent, Saramaed Hollow |
 | description | Reduces incoming knockback but removes your ability to Air Dash. |
 
 ## **Description**

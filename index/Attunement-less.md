@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 148514
+revid: 148663
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -583,7 +583,7 @@ Agility Mantras are mainly based on making sure your enemy can't escape and keep
 
 **Combat Mantra**
 
-_A vengeful rush._
+_A vengeful rush. Deals additional damage the lower your health is below 50%._
 
  | 
 
@@ -591,7 +591,7 @@ _A vengeful rush._
 
   
 **Combat Mantra**  
-_A vengeful rush._
+_A vengeful rush. Deals additional damage the lower your health is below 50%._
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 148537
+revid: 148711
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -39,7 +39,8 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [Second Layer](Second_Layer.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -65,7 +66,8 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Second Layer](Second_Layer.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Fishing](Fishing.md)
 -   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
@@ -94,9 +96,10 @@ One-time consumables that provide direct improvement value to items, equipment, 
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [First Layer](First_Layer.md)
 -   8 Star [Bounty](Bounty_Hunting.md) Voidwalker Chests
@@ -119,8 +122,9 @@ One-time consumables that provide direct improvement value to items, equipment, 
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Fishing](Fishing.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -141,11 +145,12 @@ One-time consumables that provide direct improvement value to items, equipment, 
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Fishing](Fishing.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Depths Sea Island](https://deepwoken.fandom.com/wiki/Random_Encounters#Islands/Outposts)
@@ -175,7 +180,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   Sold in [Trahne Zakshun's](Traan_Zakshun.md) black market for
 
@@ -186,7 +191,7 @@ It grants the user +50 knowledge on subsequent uses.
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -195,7 +200,8 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Hollow Forge](Hollow_Forge.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Fishing](Fishing.md)
 -   8 Star [Bounty](Bounty_Hunting.md) VoidWalker Chests
 -   [Etris: Siege](Cinders_of_Etris.md)
@@ -328,7 +334,7 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
 
  | 
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
@@ -346,7 +352,7 @@ This has a 6 second cooldown and charges cannot be stacked.
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
  |
@@ -465,7 +471,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li>Curse of Rhamen's Ember
   <ul>
     <li><a href="Hive_Construct.md">Hive Constructs</a> and <a href="Rogue_Construct.md">Rogue Constructs</a></li>
-    <li><a href="Primadon,_Titan_of_the_East.md">Primadon</a></li>
+    <li><a href="Primadon,_Titan_of_the_East.md">Primadon</a> and <a href="Elder_Primadon,_The_Titan_Warlord.md">Elder Primadon</a></li>
     <li><a href="The_Starswept_Valley.md">Starswept Valley</a> Chests</li>
   </ul></li>
   </ul></td>
@@ -498,7 +504,7 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 | 
  | **The Forge of Sin** - An undying purple flame of mysterious origin. Note that this is NOT to be confused with the Piece of the Forge of Sin, found around the map, which is an artifact and NOT a Relic.
 
-**Lore** - A Relic created by the Drowned God [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), and was originally kept within The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). and sought after by Etris' temporary king, The [Lord Regent](The_Lord_Regent.md). It is currently in the possession of [Duke Erisia](Duke_Ishamon_Erisia.md) and is theorized to have been used by the Ministry for the Great Drowning. (Read [Lore](Lore.md) 11.4)
+**Lore** - A Relic created by the Drowned God [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), and was originally kept within The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). and sought after by Etris' temporary king, The [Lord Regent](The_Lord_Regent.md). It is currently in the possession of [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) and is theorized to have been used by the Ministry for the Great Drowning. (Read [Lore](Lore.md) 11.4)
 
  |
 | 

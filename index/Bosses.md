@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 142802
+revid: 148701
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]

@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 144437
+revid: 148682
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Primadon, Titan of the East, Starswept Valley, The Depths, Duke Ishamon Erisia, Lodestar, The Doom of Caeranthil, Interluminary Parasol, Maestro Evengarde Rest, War Mode |
+| obtainment | Chests from:, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Starswept Valley, The Depths, Duke Ishamon Erisia, Lodestar, The Doom of Caeranthil, Interluminary Parasol, Maestro Evengarde Rest, War Mode |
 | description | "..." |
 
 ## Description

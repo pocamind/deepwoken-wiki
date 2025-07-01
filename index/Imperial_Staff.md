@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 146958
+revid: 148709
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Primadon, Fishing |
+| obtainment | Maestro Evengarde Rest, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing |
 | description | "Legendary staff of a Legion Praetorian of ages past. In his hands it's said to have wiped whole towns off the face of the map with one swing, and to have rapidly expanded the outer reaches of their territory. The veracity of these claims is of some dispute, but the peculiar properties of the weapon do lend some credence to its reputation." |
 
 ## Description
