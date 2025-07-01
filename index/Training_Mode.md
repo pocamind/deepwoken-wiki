@@ -1,6 +1,6 @@
 ---
 title: Training Mode
-revid: 142523
+revid: 148571
 source: https://deepwoken.fandom.com/wiki/Training_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -14,9 +14,9 @@ notices:
 
 Training Mode is a mode accessible from the Main Menu, which teleports you to [Temple Sparring Hall (Dungeon)](<Temple_Sparring_Hall_(Dungeon).md>), allowing the player to spar one-on-one with an instructor. It serves as a place for players to figure out the [combat system.](Combat_Mechanics.md)
 
-If accessed through the main menu, you will be given a character with the [Etrean](Etrean.md) race and a [Sword](<Sword_(weapon).md>). The instructor uses a sword and is a novice by default.
+If accessed through the main menu, you will be given a character with 50 stats in every stat, no traits & a random [Aspect](Aspects.md), which adds to the 50 points in its respective attributes. The instructor uses a sword and is a novice by default.
 
-Training Mode can additionally be accessed within the player's slots and talking to a [Training](Das.md) [Instructor](Regarde.md).
+Training Mode can additionally be accessed within the player's slots and talking to a training instructor, [Das](Das.md) or [Regarde](Regarde.md).
 
 There is a portal that allows the player to leave Training Mode.
 

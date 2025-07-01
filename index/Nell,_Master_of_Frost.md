@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 145672
+revid: 148563
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant]
@@ -115,70 +115,108 @@ Nell executes her opponent after knocking them:
 
 ## Dialogue
 
-**Without Frostdraw:**
-
 **First Encounter:**
 
-**"Can you really protect anything that you hold dear as you are now?"**
+**Quest Start:**
 
-**\[1\]** What do you mean?
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Can you really protect anything that you hold dear as you are now?</td>
+</tr>
+<tr>
+  <td colspan="12">What do you mean?</td>
+</tr>
+<tr>
+  <td colspan="12">You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?</td>
+</tr>
+<tr>
+  <td colspan="12">Yes, what would you have me do?</td>
+</tr>
+<tr>
+  <td colspan="12">Bring me 5 Frigid Prisms, Then we can continue</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
-**"You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?"**
+**Quest Completed:**
 
-**\[1\]** Yes, what would you have me do?
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Have you done what I asked?</td>
+</tr>
+<tr>
+  <td colspan="6">Here. (Sufficient Frigid Prisms)</td>
+  <td colspan="6">Here. (No Frigid Prisms)</td>
+</tr>
+<tr>
+  <td colspan="6">*They take the crystals and crush each of them into a glass vial, glittering dust falling in.*</td>
+  <td colspan="6">Hm. You have not brought me the 5 Frigid Prisms I require to assist you...</td>
+</tr>
+<tr>
+  <td colspan="6">What is that you're doing?</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</td>
+</tr>
+<tr>
+  <td colspan="6">The vial I gave you. You must drink it.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
 
-**"Bring me 5 Frigid Prisms, Then we can continue"**
+**Subsequent Encounters:**
 
-End of Dialogue
-
-**Second Encounter:**
-
-**"Have you done what I asked?"**
-
-**\[1\] (Consumes 5 Frigid Prisms)** Here.
-
-**\*They take the crystals and crush each of them into a glass vial, glittering dust falling in.\***
-
-**\[1\]** What is that you're doing?
-
-**\*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you\***  
-**"The vial I gave you. You must drink it."**
-
-End of Dialogue
-
-**With Frostdraw:**
-
-**"Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?"**
-
-**\[1\]** Yes, I have.
-
-**Mantras available**
-
-**"What is it you wish to focus on?"**
-
-**Mantras available**
-
-**"A heart of crystal beats, layered sheets of ice protecting it. I can reinforce it for 100 Notes."** (Price increases by 100 for every 1 level)
-
-**\[1\]** Draw it out.
-
-**Enough Notes**
-
-**"It is done. The heartbeat grows even duller"**
-
-End of Dialogue
-
-**Lacking Notes**
-
-**"It appears you lack the sufficient funds..."**
-
-End of Dialogue
-
-**Mantras unavailable**
-
-**"Only a subtle chill, not enough to freeze..."**
-
-End of Dialogue
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?</td>
+</tr>
+<tr>
+  <td colspan="6">Yes, I have. (Mantras Available)</td>
+  <td colspan="6">Yes, I have. (Mantras Unavailable or all Frostdraw Mantras maxed)</td>
+</tr>
+<tr>
+  <td colspan="6">What is it you wish to focus on?</td>
+  <td colspan="6">Only a subtle chill, not enough to freeze...</td>
+</tr>
+<tr>
+  <td colspan="6">(A selection of available Mantras shows up as dialogue options)</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">A heart of crystal beats, layered sheets of ice protecting it. I can reinforce it for 100 Notes. (Price increases by 100 for every 1 level)</td>
+</tr>
+<tr>
+  <td colspan="3">Draw it out. (Enough Notes)</td>
+  <td colspan="3">Draw it out. (Insufficient Notes)</td>
+</tr>
+<tr>
+  <td colspan="3">It is done. The heartbeat grows even duller</td>
+  <td colspan="3">It appears you lack the sufficient funds...</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

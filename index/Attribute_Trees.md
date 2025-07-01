@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 148044
+revid: 148559
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Attribute Trees
 
-Talent Trees documented so far in [Talents](Talents.md): 13/195  
+Talent Trees documented so far in [Talents](Talents.md): 18/195  
 This page is organized to see Talents generally, allowing you to pick them out with minimal details. [Talents](Talents.md) provides extended information on the topic of Talents.
 
 Each Tab is designed to show Talents that involve the searched Attribute from Least to Greatest Ex. Potion Quaffer has the Prerequisites \[Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence\], it will be in each of the Attribute Tabs and show up twice in the Intelligence Tab under both Hybrids. If a linked Talent is not on the Tab, it will redirect to Talent Tree as for Talents and Mantras that are not linked or made, they will show up as Potion Quaffer.
@@ -68,7 +68,7 @@ Acrobat;4.1b | 10STR
 Apex Predator;4.12a | 5STR  
 5WIL | In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. |
 | File:TalentCardImage2.png | Grand Feast  
-Apex Predator;4.12b | Carnivore;4.12a | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
+Apex Predator;4.12b | Carnivore;4.12a (Talent) | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
 
 ## Weapon Hybrids 2.1.4
 
@@ -92,15 +92,30 @@ Aeromancer;4.5e | Suffocating Impact;4.5d (Talent) | Enemies who jump while suff
 
 **Fortitude (FTD):**
 
-1.  [Body and Mind](#body-and-mind-hybrids-220)
-    1.  [Agility (AGL)](#agility-hybrids-221)
-    2.  [Intelligence (INT)](#intelligence-hybrids-222)
-2.  [Oaths](#oaths-223)
-    1.  [Arcwarder](#arcwarder-224)
+1.  [Exclusive](#exclusive-220)
+2.  [Body and Mind](#body-and-mind-hybrids-221)
+    1.  [Agility (AGL)](#agility-hybrids-222)
+    2.  [Intelligence (INT)](#intelligence-hybrids-223)
+    3.  [Fortitude (FTD)](#willpower-hybrids-224)
+3.  [Oaths](#oaths-225)
+    1.  [Arcwarder](#arcwarder-226)
 
-## Body and Mind Hybrids 2.2.0
+## Exclusive 2.2.0
 
-### Agility Hybrids 2.2.1
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Moving Fortress  
+Bastion;4.18c | 5FTD | Blocking no longer slows you down as much. (+2 Posture) |
+| File:TalentCardImage2.png | Braced Collapse  
+Bastion;4.18b | 25FTD  
+[Providence Coat](Providence_Coat.md) | After being block broken, the next attack to hit you deals reduced damage. |
+| File:TalentCardImage2.png | Reinforced Armor  
+Bastion;4.18e | 90FTD  
+[Bastion;4.18](Talents.md#bastion) (Talents) | Incoming PEN is reduced by 30%. (+5 Health) |
+
+## Body and Mind Hybrids 2.2.1
+
+### Agility Hybrids 2.2.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -111,7 +126,7 @@ Alley Cat;4.7a | 25FTD
 | File:TalentCardImage2.png | Conditioned Runner  
 Alley Cat;4.7c | Endurance Runner;4.7a (Talent), [Scaredy Cat;4.7b](Talents.md#alley-cat) (Talent) | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
 
-### Intelligence Hybrids 2.2.2
+### Intelligence Hybrids 2.2.3
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -120,9 +135,21 @@ Alchemist;4.6e | 15FTD
 30INT  
 "Drank Potion" | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
-## Oaths 2.2.3
+### Willpower Hybrids <sup2.2.4
 
-### Arcwarder 2.2.4
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Battle Tendency  
+Bastion;4.18a | 15FTD  
+15WIL | You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity) |
+| File:TalentCardImage2.png | Perseverance  
+Bastion;4.18d | 30FTD  
+30WIL  
+[Ignition Trailblazer](Ignition_Trailblazer.md) | When you're knocked down, you get back up again more quickly. (+5 Sanity) |
+
+## Oaths 2.2.5
+
+### Arcwarder 2.2.6
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -132,19 +159,19 @@ Arcwarder;4.13a | 20FTD
 20LTN  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
-Arcwarder;4.13b | Arcwarder;4.13a  
+Arcwarder;4.13b | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
-Arcwarder;4.13c | Arcwarder;4.13a  
+Arcwarder;4.13c | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
-Arcwarder;4.13d | Arcwarder;4.13a  
+Arcwarder;4.13d | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
-Arcwarder;4.13e | Arcwarder;4.13a  
+Arcwarder;4.13e | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
-Arcwarder;4.13f | Arcwarder;4.13a  
+Arcwarder;4.13f | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
 **Agility (AGL):**
@@ -166,6 +193,15 @@ Acrobat;4.1c | 5AGL | Taking a life grants a speed boost for 10 seconds. Taking 
 Alley Cat;4.7b | 5AGL | When enemies initiate a fight first, gain a speed boost. (+2 Passive Agility) |
 | File:TalentCardImage2.png | Kick Off  
 Acrobat;4.1a | 20AGL | You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility) |
+| File:TalentCardImage2.png | Lowstride  
+Assassin;4.15c | 20AGL | Speed during crouching increased, unsheathing a weapon is silent and stealth increased (+1 Passive Agility) |
+| File:TalentCardImage2.png | Deep Wound  
+Assassin;4.15a | 35AGL | Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs. |
+| File:TalentCardImage2.png | Lights Out  
+Assassin;4.15b | 55AGL | Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded. (+1 Passive Agility) |
+| File:TalentCardImage2.png | Unseen Threat  
+Assassin;4.15d | 60AGL  
+Deep Wound;4.15a | You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s. |
 
 ## Body and Mind Hybrids 2.3.1
 
@@ -220,6 +256,8 @@ Adept Caster;4.3d | 25INT | Having over 95% health causes your mantras to do +25
 Alchemist;4.6f | 25INT | You have a chance to brew 2 potions instead of 1. |
 | File:TalentCardImage2.png | Overflowing Dam  
 Adept Caster;4.3c | 40INT | Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage. |
+| File:TalentCardImage2.png | Master Craftsman  
+Artisan;4.14a | 45INT | Your skills alone substitute the need for a Craft Station. (+5 Health) |
 | File:TalentCardImage2.png | Placebo Effect  
 Alchemist;4.6d | 60INT | Drinking potions near allies will share the potion's effect with them. |
 | File:TalentCardImage2.png | Chain Reaction  
@@ -255,7 +293,8 @@ Alchemist;4.6e | 30INT
 
 1.  [Exclusive](#exclusive-250)
 2.  [Body and Mind](#body-and-mind-hybrids-251)
-    1.  [Intelligence (INT)](#intelligence-hybrids-252)
+    1.  [Fortitude (FTD)](#fortitude-hybrids-252)
+    2.  [Intelligence (INT)](#intelligence-hybrids-253)
 
 ## Exclusive 2.5.0
 
@@ -265,9 +304,21 @@ Alchemist;4.6e | 30INT
 Apex Predator;4.12a | 5WIL  
 5STR | In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. |
 | File:TalentCardImage2.png | Grand Feast  
-Apex Predator;4.12b | Carnivore;4.12a | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
+Apex Predator;4.12b | Carnivore;4.12a (Talent) | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
 
 ## Body and Mind Hybrids 2.5.1
+
+### Fortitude Hybrids 2.5.3
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Battle Tendency  
+Bastion;4.18a | 15WIL  
+15FTD | You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity) |
+| File:TalentCardImage2.png | Perseverance  
+Bastion;4.18d | 30WIL  
+30FTD  
+[Ignition Trailblazer](Ignition_Trailblazer.md) | When you're knocked down, you get back up again more quickly. (+5 Sanity) |
 
 ### Intelligence Hybrids 2.5.2
 
@@ -354,31 +405,48 @@ Arcwarder;4.13a | 20FIR
 20LTN  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
-Arcwarder;4.13b | Arcwarder;4.13a  
+Arcwarder;4.13b | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
-Arcwarder;4.13c | Arcwarder;4.13a  
+Arcwarder;4.13c | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
-Arcwarder;4.13d | Arcwarder;4.13a  
+Arcwarder;4.13d | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
-Arcwarder;4.13e | Arcwarder;4.13a  
+Arcwarder;4.13e | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
-Arcwarder;4.13f | Arcwarder;4.13a  
+Arcwarder;4.13f | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
 **Frostdraw (ICE):**
 
 **Thundercall (LTN):**
 
-1.  [Oaths](#oaths-430)
-    1.  [Arcwarder](#arcwarder-431)
+1.  [Exclusive](#exclusive-430)
+2.  [Oaths](#oaths-431)
+    1.  [Arcwarder](#arcwarder-432)
 
-## Oaths 4.3.0
+## Exclusive 4.3.0
 
-### Arcwarder 4.3.1
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Authority Intimidation  
+Authority Interrogator;4.17a | 60LTN  
+Power 10 | Lightning moves slow your opponent more. |
+| File:TalentCardImage2.png | Resolve Crusher  
+Authority Interrogator;4.17b | 65LTN | Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you. |
+| File:TalentCardImage2.png | First Interrogation  
+Authority Interrogator;4.17c | 65LTN  
+Resolve Crusher;4.17b (Talent) | Attacks from opponents who are Electrified will give you ether proportional to their initial damage. |
+| File:TalentCardImage2.png | Second Interrogation  
+Authority Interrogator;4.17d | 65LTN  
+First Interrogation;4.17c (Talent) | Electrified attacks do 50% less damage and posture damage to you. |
+
+## Oaths 4.3.1
+
+### Arcwarder 4.3.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -388,19 +456,19 @@ Arcwarder;4.13a | 20LTN
 20FIR  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
-Arcwarder;4.13b | Arcwarder;4.13a  
+Arcwarder;4.13b | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
-Arcwarder;4.13c | Arcwarder;4.13a  
+Arcwarder;4.13c | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
-Arcwarder;4.13d | Arcwarder;4.13a  
+Arcwarder;4.13d | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
-Arcwarder;4.13e | Arcwarder;4.13a  
+Arcwarder;4.13e | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
-Arcwarder;4.13f | Arcwarder;4.13a  
+Arcwarder;4.13f | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
 **Galebreathe (WND):**
@@ -467,14 +535,16 @@ Adaptive Arsenal;4.2c | 75MTL | Your weapon M1's have +0.25 range. |
 
 **Generic:**
 
-1.  [Power](#power)
-2.  [Quest](#quest)
+1.  [Power](#power-exclusive)
+2.  [Quest](#quest-exclusive)
 3.  [Fishing](#fishing)
 
-## Power
+## Power Exclusive
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
+| File:TalentCardImage2.png | Triathlete  
+Athlete;4.16a | Power 1 | You swim faster in water. (+2 Passive Agility) |
 | File:TalentCardImage2.png | Sunken Predator  
 Apex Predator;4.12c | Power 11 | Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility) |
 
@@ -503,17 +573,17 @@ Arcwarder;4.13a | 20FTD
 20LTN  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
-Arcwarder;4.13b | Arcwarder;4.13a  
+Arcwarder;4.13b | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
-Arcwarder;4.13c | Arcwarder;4.13a  
+Arcwarder;4.13c | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
-Arcwarder;4.13d | Arcwarder;4.13a  
+Arcwarder;4.13d | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
-Arcwarder;4.13e | Arcwarder;4.13a  
+Arcwarder;4.13e | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
-Arcwarder;4.13f | Arcwarder;4.13a  
+Arcwarder;4.13f | Arcwarder;4.13a (Talent)  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
