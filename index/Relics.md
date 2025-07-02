@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 148827
+revid: 148881
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -360,7 +360,7 @@ This has a 6 second cooldown and charges cannot be stacked.
 
 File:EnmityMantle.png
 
- | Mantle Of Enmity - A set of wing resembling those of [The Heart Of Enmity](Heart_of_Enmity.md), Grants the talent "Heartwing Beat" which transforms your aerial attack to a double hit  
+ | [Mantle Of Enmity](Mantle_of_Enmity.md) - A set of wing resembling those of [The Heart Of Enmity](Heart_of_Enmity.md), Grants the talent "Heartwing Beat" which transforms your aerial attack to a double hit  
 hyperarmor slash that applies wither on hit. Which deals 22.5 damage on base and will scale according to your currently held weapon. | 
 
 -   [Heart of Enmity](Heart_of_Enmity.md)

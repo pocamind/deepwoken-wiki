@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 148673
+revid: 148833
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -953,7 +953,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
     -   Prerequisite: 30 Agility
 
--   Muffled Screams \[Common Talent, Agility\] - You quiten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of Talents that slow your executions. (+1 Passive Agility)
+-   Muffled Screams \[Common Talent, Agility\] - You quieten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of Talents that slow your executions. (+1 Passive Agility)
     -   NPCs have a shortened aggro range from gripping allies in proximity.
     -   Defiant Until The End and Last Second Negotiation affect your grip speed less.
     -   Prerequisite: 50 Agility

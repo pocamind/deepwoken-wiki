@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 144389
+revid: 148857
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -37,3 +37,4 @@ The Dark Owl Chapeau is an [Equipment](Equipment.md) item under the "Head" categ
 -   Can be useful for both PvP and PvE due to the Underdog Talent.
 -   Part of the Dark Owl series; the other pieces being the [Dark Owl Cloak](Dark_Owl_Cloak.md) and [Dark Owl Cape](Dark_Owl_Cape.md).
 -   "Chapeau" is French for "Hat."
+-   The Dark Owl Chapeau is has the highest **[Stealth](Stealth.md)** stat out of any other head equipment in the game

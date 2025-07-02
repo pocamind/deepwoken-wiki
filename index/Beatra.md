@@ -1,6 +1,6 @@
 ---
 title: Beatra
-revid: 133355
+revid: 148855
 source: https://deepwoken.fandom.com/wiki/Beatra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Pages with broken file links, Spelltrainers, NPCs]
@@ -16,7 +16,7 @@ categories: [Tiran NPCs, Pages with broken file links, Spelltrainers, NPCs]
 
 ## Description
 
-Beatra is an NPC who acts as [Shadowcast](Shadowcast.md) trainer for those who don't want to risk wiping in [The Depths](The_Depths.md). She can be found to the left of the [Derelict Highchurch](Derelict_Highchurch.md).
+Beatra is an NPC who acts as a [Shadowcast](Shadowcast.md) trainer for those who don't want to train their attunement in [The Depths](The_Depths.md). She can be found to the left of the [Derelict Highchurch](Derelict_Highchurch.md).
 
 In order to obtain [Shadowcast](Shadowcast.md), you must find [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md). Beatra will not teach you it.
 

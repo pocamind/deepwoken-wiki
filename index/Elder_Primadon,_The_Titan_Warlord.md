@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 148821
+revid: 148872
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -41,7 +41,7 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
 ## Moveset
 
-| Name/Danger | Description | Parrybale | Blockable | Dodgeable | Media |
+| Name/Danger | Description | Parryable | Blockable | Dodgeable | Media |
 | --- | --- | --- | --- | --- | --- |
 | 
 **Stomp**
@@ -50,13 +50,7 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
 -   To be completed
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
-
- | ◯ |  | ◯ |  |
+ | ◯ | ◯ | ◯ | TBA |
 | 
 
 **Triple Stomp**
@@ -65,13 +59,7 @@ Dodgeable:
 
 -   To be completed
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
-
- | ◯ |  |  |  |
+ | ◯ | ◯ | ◯ | TBA |
 | 
 
 **Punch**
@@ -80,13 +68,7 @@ Dodgeable:
 
 -   To be completed
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
-
- |  |  | ◯ |  |
+ | TBA | TBA | ◯ | TBA |
 | 
 
 **Kick**
@@ -95,13 +77,7 @@ Dodgeable:
 
 -   To be completed
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
-
- |  |  | ◯ |  |
+ | ✗ | ◯ | ◯ | TBA |
 | 
 
 **Grab**
@@ -110,13 +86,7 @@ Dodgeable:
 
 -   To be completed
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
-
- |  |  | ◯ |  |
+ | ✗ | TBA | ◯ | TBA |
 | 
 
 **Rock Throw**
@@ -125,13 +95,7 @@ Dodgeable:
 
 -   To be completed
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
-
- |  |  |  |  |
+ | ✗ | ◯ | ◯ | TBA |
 | 
 
 **Disengage**
@@ -140,28 +104,16 @@ Dodgeable:
 
 -   To be completed
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
-
- |  |  |  |  |
+ | TBA | TBA | TBA | TBA |
 | 
 
-**Execution : Double Stomp**
+Ground Slam
 
  | 
 
 -   To be completed
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
-
- |  |  |  |  |
+ | TBA | TBA | TBA | TBA |
 | 
 
 **Enrage**
@@ -170,13 +122,7 @@ Dodgeable:
 
 -   To be completed
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
-
- |  |  |  |  |
+ | TBA | ◯ | TBA | TBA |
 | 
 
 Charged Stomp
@@ -185,13 +131,7 @@ Charged Stomp
 
 -   To be completed
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
-
- |  |  |  |  |
+ | TBA | TBA | TBA | TBA |
 
 ## Combat
 

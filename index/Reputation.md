@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 148587
+revid: 148864
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -39,7 +39,7 @@ Player will appear on bounty boards (starting from Power 5) and if the player is
 Player loses the ability to talk to certain faction-tied NPCs, primarily Blacksmiths and Antiquarians.
 
  |
-| Hunted | ⁣-150 to -299 | Player can be attacked by randomly spawning NPC [Ambushes](Faction_Ambushes.md). |
+| Hated/Hunted | ⁣-150 to -299 | Player can be attacked by randomly spawning NPC [Ambushes](Faction_Ambushes.md). |
 | Villain | ⁣-300 | Player cannot pay the Bribe NPCs to reset their reputation. |
 
 ## Reputation gains and loses
