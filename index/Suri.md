@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 140328
+revid: 148978
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
@@ -27,7 +27,7 @@ Suri is located in [Greathive Aratel](Greathive_Aratel.md) beside the stairs lea
 Completing his quest will grant the player 1 [Vibrant Gem](Mantra_Modifiers.md), EXP, positive [Hive](The_Hive.md) reputation, and Compassion.
 
 1.  Finishing Suri's dialogue will start the quest.
-2.  You will be given a Delicate flower, if you take certain forms of damage it will break and turn into a Ruined Flower (If it breaks you'll have to go back to Suri to get a new one)
+2.  You will be given a [Delicate Flower](Delicate_Flower.md), if you take certain forms of damage it will break and turn into a Ruined Flower (If it breaks you'll have to go back to Suri to get a new one)
 3.  After taking the flower you need to head to [Isle of Vigils](Isle_of_Vigils.md) and find his [brother's grave](Well-kept_Gravestone.md).
 4.  Interact with the grave and finish it's dialogue.
 5.  Then head back to Suri to complete the quest.

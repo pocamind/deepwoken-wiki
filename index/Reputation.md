@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 148864
+revid: 148897
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Reputation, Mechanics]
 
 # Reputation
 
-“ The guard gives you a crooked smile. 'Have a nice day, friend. If you ever get into trouble, you know who to look for...' ”
+“ The guard gives you a crooked smile. 'Have a nice day, friend. If you ever get into trouble, you know who to look for... ”
 
 ― Nerin
 
@@ -18,15 +18,13 @@ categories: [Pages with broken file links, Reputation, Mechanics]
 
 The reputation tab found while sitting at campfires. This is the starting reputation of the Castaway origin.
 
-Reputation represents how the players interact with a faction and how they interact with the player.
+The world of Deepwoken features diverse factions, each with their own narratives, objectives, characters, and areas. Player reputation shapes how both players and factions interact with each other.
 
-The world of Deepwoken is populated by different factions, each with their own stories, goals, characters, and locations. The player is bound to interact with them in many ways, in which case reputation will play a part in how these interactions will go.
-
-## Reputation status
+## Reputation Status
 
 The player's reputation is a value ranging from -300 to 300, with different thresholds granting different titles within a faction, changing how the faction interacts with the player.
 
-Certain aspects of the game, such as certain NPCs dialogue or certain quests, require a certain status within a faction to be available.
+Certain NPC dialogues and quests in the game require a specific faction status to be accessible to the player.
 
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
@@ -42,7 +40,7 @@ Player loses the ability to talk to certain faction-tied NPCs, primarily Blacksm
 | Hated/Hunted | ⁣-150 to -299 | Player can be attacked by randomly spawning NPC [Ambushes](Faction_Ambushes.md). |
 | Villain | ⁣-300 | Player cannot pay the Bribe NPCs to reset their reputation. |
 
-## Reputation gains and loses
+## Reputation Gain and Loss
 
 Through various activities and actions, the player is able to gain reputation or lose reputation.
 
@@ -56,22 +54,21 @@ The player can track reputation shifts via status messages, which are as follows
 
 The player can gain reputation with a faction by:
 
--   Completing quests from specific NPCs
-    -   There are one time quest and repeatable quests available for most factions
--   Completing Bounty Hunts
+-   Completing quests from specific NPCs.
+    -   There are one time quest and repeatable quests available for most factions.
+-   Completing [Bounties](Bounty_Hunting.md) and [Jobs](Job_Boards.md).
     -   Factions without Bounty Boards cannot benefit from this.
 -   Helping NPCs in certain random events, primarily Factions VS Factions.
--   Completing jobs
 
 The player can lose reputation with a faction by:
 
--   Committing crimes within a faction controlled area, such as towns
-    -   Crimes include Assault, Assassinations and killing Town Guards or Players within the town in a non-lawless area
--   Killing NPCs from random events that spawn by themselves, without an enemy or opposing faction
+-   Committing crimes within a faction controlled area, such as towns.
+    -   Crimes include assault, assassinations and killing town guards or players within the town in a non-lawless area.
+-   Killing NPCs from random events that spawn by themselves, without an enemy or opposing faction.
 
 ## Bribe
 
-Players can pay specific NPCs up to ~1200 notes (depending on how much reputation below 0 they have) to set their reputations back at their starting amounts, usually Neutral, at 0.
+Players can bribe specific NPCs up to ~1200 notes (depending on how much reputation below 0 they have) to set their reputations back at their starting amounts, usually neutral, at 0.
 
 This starting amount can vary depending on your [origin](Origins.md), so bribing will not always grant you protection from a specific faction.
 
@@ -164,14 +161,16 @@ File:Ignition Union.png
 ### Non-Reputable Factions
 
 -   [Bandits](Bandit.md)
--   [Songseekers](Songseeker_Wilds.md)
--   [Golden Rat Fighters](Rat_Fighter.md)
 -   [Blacksteel Pirates](Blacksteel_Pirate.md)
+-   [Golden Rat Fighters](Rat_Fighter.md)
+-   [Songseekers](Songseeker_Wilds.md)
 -   [Starkindred Church](Samael.md)
 
 ## Trivia
 
 -   At one point in time, the Summer Company's reputation dialogue was accidentally linked to your reputation with the Authority.
--   The "Celebrity" Charisma Talent increases your base reputation with all factions and increases the positive reputation you gain.
--   Spitting on a guard causes them and other guards nearby to become aggressive regardless of your reputation. This will give you negative reputation with the faction. This is negated if you have 51 charisma or more, as they will instead thank you.
--   Most of these downsides to bad reputation can be lessened or weakened by charisma Talents.
+-   The [Celebrity](Talents.md#public-figure) Talent increases your base reputation with all factions and increases the positive reputation you gain.
+-   The [Under The Radar](Talents.md#public-figure) Talent requires factions to have more negative reputation with you to put out bounties on you.
+-   Spitting on a guard causes them and other guards nearby to become aggressive regardless of your reputation. This will give you negative reputation with the faction.
+    -   This is negated if you have 51 charisma or more, as they will instead thank you.
+-   Most of downsides to bad reputation can be lessened or weakened by [Charisma](Attributes.md) Talents.

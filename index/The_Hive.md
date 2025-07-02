@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 136797
+revid: 148977
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Hive]
@@ -75,7 +75,7 @@ Neutral-Bad Reputation:
 
 [Regek](Regek.md): A Vesperian who is the librarian of the Greathive Aratel, through his errand of collecting sap from soulblooms located around the Greathive he will let the player increase the potency of their Attunement-less Mantras, he also explains the about the origins of how the Greathives are created.
 
-[Suri](Suri.md): A Vesperian who tasks the player to bring a flower to the grave of his brother located at the [Isle of Vigils](Isle_of_Vigils.md) through unknown reasons, his quest can be restarted if the delicate flower becomes ruined.
+[Suri](Suri.md): A Vesperian who tasks the player to bring a flower to the grave of his brother located at the [Isle of Vigils](Isle_of_Vigils.md) through unknown reasons, his quest can be restarted if the [Delicate Flower](Delicate_Flower.md) becomes ruined.
 
 [Kaab](Kaab.md): The shipwright of The Hive who will only grant the player access to ships when they hold maximum positive reputation with The Hive, unlike other shipwrights he is capable of modifying boats with lifeweave though this is never seen in game.
 

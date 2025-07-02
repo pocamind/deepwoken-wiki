@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 131719
+revid: 148974
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, The Ministry, Quests, Murmurs, NPCs located in the Eastern Luminant]
@@ -16,7 +16,7 @@ categories: [Ganymede NPCs, NPCs, The Ministry, Quests, Murmurs, NPCs located in
 
 ## Description
 
-Cestis is a [Ganymede](Ganymede.md) NPC presumably working for the Ministry. His main purpose is to contract assassinations of random players which is mostly used to obtain the [Tacet](Murmur%253A_Tacet.md) murmur.
+Cestis is a [Ganymede](Ganymede.md) NPC presumably working for the Ministry. His main purpose is to contract assassinations of random players, chiefly used to obtain the [Tacet](Murmur%253A_Tacet.md) [Murmur](Murmur.md).
 
 ## Location
 

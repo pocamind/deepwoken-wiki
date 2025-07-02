@@ -1,9 +1,9 @@
 ---
 title: Edenkite
-revid: 124907
+revid: 148980
 source: https://deepwoken.fandom.com/wiki/Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Sentient species]
+categories: [Sentient species, Lore]
 ---
 
 # Edenkite

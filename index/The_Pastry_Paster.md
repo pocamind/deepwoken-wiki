@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 147568
+revid: 148981
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
 |---|---|
 | type | Club |
 | requirements | 70 MED, 15 CHA, 15 INT |
-| damage | 15.5 |
+| damage | 18 |
 | scaling | MED: 5, CHA: 2, INT: 2 |
 | range | 7.5 |
 | swing speed | 1x |

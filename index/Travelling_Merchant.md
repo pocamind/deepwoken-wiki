@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 147649
+revid: 148896
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -24,7 +24,7 @@ Chili is an NPC merchant and [Antiquarian](Antiquarian.md), he will buy your sel
 
 ## Location
 
-Chili resides on [Merchant Boats](Random_Encounters.md#travelling-merchant) spawned around the [The Aratel Sea](The_Aratel_Sea.md) and [The Etrean Sea](The_Etrean_Sea.md).
+Chili resides on [Merchant Ships](Random_Encounters.md#travelling-merchant) spawned around the [The Aratel Sea](The_Aratel_Sea.md) and [The Etrean Sea](The_Etrean_Sea.md).
 
 ## Shop Rotation
 

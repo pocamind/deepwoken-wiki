@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 148508
+revid: 148954
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -424,7 +424,7 @@ Adhesive
 
  | 
 
-On proc, pull the attacker toward you. 33% chance to proc
+Attacks that hit you from a distance receive a 15% (?) damage reduction, with this damage reduction diminishing in effectiveness the closer you receive the attack. On proc, pull the attacker toward you. 33% chance to proc
 
  | 
 
