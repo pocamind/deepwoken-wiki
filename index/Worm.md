@@ -1,9 +1,9 @@
 ---
 title: Worm
-revid: 146446
+revid: 148997
 source: https://deepwoken.fandom.com/wiki/Worm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Layer 1]
+categories: [Layer 1, Lore]
 ---
 
 # Worm

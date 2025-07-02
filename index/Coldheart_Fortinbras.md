@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 137313
+revid: 148995
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments]
@@ -24,7 +24,12 @@ Fortinbras' arsenal consists of the [Hailbreaker](Hailbreaker.md) along with the
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings sword at opponent and finishes the combo by kicking them. | ◯ | ◯ | (☆☆☆) |
+| Assault | Firmly swings sword at opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Fortinbras winds up his blade and performs two quick slashes, freezing his opponent in place. | ◯ | ◯ | (★★☆) |
+| Warden's Blades | Summons four spinning blades of ice around himself. They deal constant damage before being launched as projectiles. | ◯ | ◯ | (★★☆) |
+| Blood Stakes | Creates spikes out of his own blood and uses them to impale his enemies. Drains blood on hit. | ◯ | ◯ | (★★☆) |
+| Rising Frost | Summons an ice glaive and performs a barrage that lifts both himself and the opponent into the air. | ◯ | ◯ | (★★☆) |
+| Ice Flock | Summons a flock of rapid moving ice birds in front of himself, attacking his opponent from all angles. | ◯ | ◯ | (★☆☆) |
 
 ## Dialogue
 

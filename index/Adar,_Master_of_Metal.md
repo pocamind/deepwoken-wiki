@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 145344
+revid: 149045
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, NPCs, Ignition Union Enemies, The Ignition Union, NPCs located in the Eastern Luminant]
@@ -44,29 +44,31 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 
 ### Talents
 
--   Impervious Slumber - If Adar gets hit while knocked, his knocked timer isn't reset.
--   Perfect Flash - If Adar has full health, his mantras do 25% more damage.
--   Gilded Path: Scrapsinger - Adar's Ironsing mantras now take a gold and iron color, and when flourishing an enemy, consumes any rods the enemy had and siphons their armor into Adar per rod.
--   Refine and Reuse - Whenever Adar consumes rods with Scrapsinger, the PEN incoming against him is reduced by 5% per rod for 14 seconds.
--   Artisan's Blade - If Adar activates Scrapsinger, a metal blade is forged behind him every 2 rods he consumes. The metal blades will fire at the target if Adar lands an ironsing mantra.
--   Songs Unforged - Adar's Darksteel Greatsword critical activates Scrapsinger.
--   Masterwork - Adar's successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
--   Reshape and Remold - If Adar procs Scrapsinger successfully, their enemy will take more armor damage. After hitting 10 stacks, his opponent will take +5% damage until the stacks drop below 10.
--   Exposed Durability - Adar deals 10% more damage to opponents with no armor durability left.
--   An Ironsinger's Instinct - Whenever Adar successfully dodges an attack, he coats himself in metal and reduces the damage of the next attack taken.
--   Phantom Edge - Adar's m1's have 0.25 more range.
--   Heavy Shoulders - If Adar's opponents have 3 or more rods, their dodges are slower.
--   Ironclad Punishment - Adar's ironsing mantras deal more posture damage to enemies the more armor durability they have.
--   Thornmail - If Adar gets flourished, he applies a metal rod to their attacker.
--   Metal Shackles - Adar prevents enemies from receiving speed boosts for 5s when he guardbreaks them.
--   Piercing Metal - Adar deals additional armor damage to enemies per metal rod affecting them.
--   Polished Armor - Adar receives 10% less damage when his armor protects him from an attack.
--   Laced Traps - Enemies hit by Adar's 'Caltrops' cannot jump and are slowed for a small duration.
--   Metal Absorption - Adar's 'Iron Hug' also absorbs armor from his enemy.
+-   _Impervious Slumber_ - If Adar gets hit while knocked, his knocked timer isn't reset.
+-   _Perfect Flash_ - If Adar has full health, his mantras do 25% more damage.
+-   _Gilded Path: Scrapsinger_ - Adar's Ironsing mantras now take a gold and iron color, and when flourishing an enemy, consumes any rods the enemy had and siphons their armor into Adar per rod.
+-   _Refine and Reuse_ - Whenever Adar consumes rods with Scrapsinger, the PEN incoming against him is reduced by 5% per rod for 14 seconds.
+-   _Artisan's Blade_ - If Adar activates Scrapsinger, a metal blade is forged behind him every 2 rods he consumes. The metal blades will fire at the target if Adar lands an ironsing mantra.
+-   _Songs Unforged_ - Adar's Darksteel Greatsword critical activates Scrapsinger.
+-   _Masterwork_ - Adar's successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
+-   _Reshape and Remold_ - If Adar procs Scrapsinger successfully, their enemy will take more armor damage. After hitting 10 stacks, his opponent will take +5% damage until the stacks drop below 10.
+-   _Exposed Durability_ - Adar deals 10% more damage to opponents with no armor durability left.
+-   _An Ironsinger's Instinct_ - Whenever Adar successfully dodges an attack, he coats himself in metal and reduces the damage of the next attack taken.
+-   _Phantom Edge_ - Adar's m1's have 0.25 more range.
+-   _Heavy Shoulders_ - If Adar's opponents have 3 or more rods, their dodges are slower.
+-   _Ironclad Punishment_ - Adar's ironsing mantras deal more posture damage to enemies the more armor durability they have.
+-   _Thornmail_ - If Adar gets flourished, he applies a metal rod to their attacker.
+-   _Metal Shackles_ - Adar prevents enemies from receiving speed boosts for 5s when he guardbreaks them.
+-   _Piercing Metal_ - Adar deals additional armor damage to enemies per metal rod affecting them.
+-   _Polished Armor_ - Adar receives 10% less damage when his armor protects him from an attack.
+-   _Laced Traps_ - Enemies hit by Adar's 'Caltrops' cannot jump and are slowed for a small duration.
+-   _Metal Absorption_ - Adar's 'Iron Hug' also absorbs armor from his enemy.
 
 ## Dialogue
 
-**Before speaking to Rudral without a Pluripotent Alloy**
+**First Encounter:**
+
+**No Pluripotent Alloy:**
 
 <table>
 <tbody>
@@ -82,101 +84,154 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 </tbody>
 </table>
 
-**After speaking to Rudral with a Pluripotent Alloy / Having Obtained Ironsing Before**
+**Quest Start:**
 
-Adar: Hmm... Oh, sorry! Can I help you?
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Hmm... Oh, sorry! Can I help you?</td>
+</tr>
+<tr>
+  <td colspan="12">Rudral said you were interested in Pluripotent Alloys?</td>
+</tr>
+<tr>
+  <td colspan="12">Yes. That's right. Though what I'm <i>truly</i> interested in is replicating the art of <b>Ironsing</b>.</td>
+</tr>
+<tr>
+  <td colspan="12">Ironsing?</td>
+</tr>
+<tr>
+  <td colspan="12">Indeed. An attunement that has been in decline since the Canticlysm was brought to an end by the Tides. We can harness metal from our surroundings - even trace amounts can be used to great effect. I myself am a user of it by birth, but...</td>
+</tr>
+<tr>
+  <td colspan="12">But?</td>
+</tr>
+<tr>
+  <td colspan="12">But... I never knew my parents. The Union took me in off the streets. The living Ironsingers out there guard its secret pretty closely, so there's a lot we don't know about it. They'd have my neck if they found me here! What I <i>do</i> know is that there is a tremendous potential within this art. I seek to give others the chance to realise it.</td>
+</tr>
+<tr>
+  <td colspan="12">And how would you do that?</td>
+</tr>
+<tr>
+  <td colspan="12">I have some theories. It's said that the discovery of Pluripotent Alloy was what led to Ironsing's development, and that's the line of questioning I've chosen to follow. Interestingly, they say that the combination of a <i>catalyst</i> and the right frame of mind are what induce the <i>attunement</i> to an element of the Song.</td>
+</tr>
+<tr>
+  <td colspan="12">A catalyst?</td>
+</tr>
+<tr>
+  <td colspan="12">That's right. For example, <b>Thundercallers</b> are often attuned through the use of <b>Spark Glands</b> and the blood of another Thundercaller. I'm looking to find the catalyst for attaining Ironsing. Pluripotent Alloy induces unique effects when applied to metal. I believe that with a few adjustments, it could be made to <i>induce changes in the human body.</i></td>
+</tr>
+<tr>
+  <td colspan="12">How can I help?</td>
+</tr>
+<tr>
+  <td colspan="12">In my research, I managed to break down the components of Pluripotent Alloy down into 6 metals: Iron, Gold, Erisore, Irithine, Astruline, and Umbrite. If you can get me the raw forms of these metals, I might be able to create an elixir of some kind to induce such changes in you, should you be willing.</td>
+</tr>
+<tr>
+  <td colspan="6">Alright, I'll do it.</td>
+  <td colspan="6">Ironsing? Sounds lame.</td>
+</tr>
+<tr>
+  <td colspan="6">Great! I look forward to our future collaborations, friend.</td>
+  <td colspan="6">It's okay to admit that you weren't listening.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
 
-1.  Rudral said you were interested in Pluripotent Alloys?
+**Quest Completed:**
 
-Adar: Ah! Yes. That's right. Though what I'm _truly_ interested in is replicating the art of **Ironsing**.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Any luck finding the ores?</td>
+</tr>
+<tr>
+  <td colspan="6">Here. (With required ores)</td>
+  <td colspan="6">Here. (No ores)</td>
+</tr>
+<tr>
+  <td colspan="6">*They take the ores and process them through various methods, finally yielding and iridescent liquid and decanting it into a vial.*</td>
+  <td colspan="6">Ah... Seems like you're missing something. In all, I'll need Iron, Gold, Erisore, Irithine, and Umbrite.</td>
+</tr>
+<tr>
+  <td colspan="6">So, what next?</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">Now, if I'm right... This shouldn't do you <i>too</i> much harm. Err. No pain no gain, right? *<i>He looks awkwardly from side to side, evidently unsure if this is going to work.</i></td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
 
-1.  Ironsing?
+**Subsequent Encounters:**
 
-Adar: Indeed. An attunement that has been in decline since the Canticlysm was brought to an end by the Tides. We can harness metal from our surroundings - even trace amounts can be used to great effect. I myself am a user of it by birth, but...
+**After obtaining Ironsing:**
 
-1.  But?
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ahah! Another success, it seems that all the failures last month were corrected! Er. Ahem. If you need any tutoring in this art, let me know. I'd be happy to be your mentor.</td>
+</tr>
+<tr>
+  <td colspan="12">Hmm... Oh! If you have need of some Ironsing teaching, I can probably help you. Lot of folks have been coming by lately - feels good to see my work recognised!</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
-Adar: But... I never knew my parents. The Union took me in off the streets. The living Ironsingers out there guard its secret pretty closely, so there's a lot we don't know about it. They'd have my neck if they found me here! What I _do_ know is that there is a tremendous potential within this art. I seek to give others the chance to realise it.
+**Upgrading Mantras:**
 
-1.  And how would you do that?
-
-Adar: I have some theories. It's said that the discovery of Pluripotent Alloy was what led to Ironsing's development, and that's the line of questioning I've chosen to follow. Interestingly, they say that the combination of a _catalyst_ and the right frame of mind are what induce the _attunement_ to an element of the Song.
-
-1.  A catalyst?
-
-Adar: That's right. For example, **Thundercallers** are often attuned through the use of **Spark Glands** and the blood of another Thundercaller. I'm looking to find the catalyst for attaining Ironsing. Pluripotent Alloy induces unique effects when applied to metal. I believe that with a few adjustments, it could be made to _induce changes in the human body._
-
-1.  How can I help?
-
-Adar: In my research, I managed to break down the components of Pluripotent Alloy down into 6 metals: Iron, Gold, Erisore, Irithine, Astruline, and Umbrite. If you can get me the raw forms of these metals, I might be able to create an elixir of some kind to induce such changes in you, should you be willing.
-
-1.  Alright, I'll do it.
-
-ㅤㅤAdar: Great! I look forward to our future collaborations, friend.
-
-ㅤ2. Ironsing? Sounds lame.
-
-ㅤㅤAdar: It's okay to admit that you weren't listening.
-
-**Talking to Adar while missing an ore**
-
-Adar: Any luck finding the ores?
-
-1.  Here.
-
-Adar: Ah... Seems like you're missing something. In all, I'll need Iron, Gold, Erisore, Irithine, and Umbrite.
-
-1.  \[End Dialogue\]
-
-**Talking to Adar while having all ores**
-
-Adar: Any luck finding the ores?
-
-1.  Here.
-
-Adar: \*_They take the ores and process them through various methods, finally yielding and iridescent liquid and decanting it into a vial.\*_
-
-1.  So, what next?
-
-Adar: Now, if I'm right... This shouldn't do you _too_ much harm. Err. No pain no gain, right? \*_He looks awkwardly from side to side, evidently unsure if this is going to work._\*
-
-1.  \[End Dialogue\]
-
-**After obtaining Ironsing**
-
-Adar: Ahah! Another success, it seems that all the failures last month were corrected! Er. Ahem. If you need any tutoring in this art, let me know. I'd be happy to be your mentor.
-
-1.  \[End Dialogue\]
-
-  
-Adar: Hmm... Oh! If you have need of some Ironsing teaching, I can probably help you. Lot of folks have been coming by lately - feels good to see my work recognised!
-
-**Upgrading mantras**
-
-Adar: Ah, do you have need of a little teaching on Ironsing?
-
-1.  Yes, I do.
-
-_(No Mantras/Fully upgraded)_ Adar: Hmm. you look all good to me. Nothing to improve on right now.
-
-1.  \[End Dialogue\]
-
-(_With Mantras)_ Adar: What did you wanna focus on?
-
-1.  (mantras)
-
-Adar: Oh yeah, I can see room for improvement. If you fund my research a bit I can give you some pointers. How does 100 Notes sound?
-
-1.  Could you give me some pointers?
-
-Adar: That's it. you've nailed it!
-
-1.  \[End Dialogue\]
-
-  
-_(Not enough notes) Adar: Oh, err. Afraid I can't help you for free right now. Money's a bit tight._
-
-1.  \[End Dialogue\]
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Ah, do you have need of a little teaching on Ironsing?</td>
+</tr>
+<tr>
+  <td colspan="6">Yes, I have. (Mantras Available)</td>
+  <td colspan="6">Yes, I have. (Mantras Unavailable or all Frostdraw Mantras maxed)</td>
+</tr>
+<tr>
+  <td colspan="6">What did you wanna focus on?</td>
+  <td colspan="6">Hmm. you look all good to me. Nothing to improve on right now.</td>
+</tr>
+<tr>
+  <td colspan="6">(A selection of available Mantras shows up as dialogue options)</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">Oh yeah, I can see room for improvement. If you fund my research a bit I can give you some pointers. How does 100 Notes sound?</td>
+</tr>
+<tr>
+  <td colspan="3">Could you give me some pointers? (Enough Notes)</td>
+  <td colspan="3">Could you give me some pointers? (Insufficient Notes)</td>
+</tr>
+<tr>
+  <td colspan="3">That's it. you've nailed it!</td>
+  <td colspan="3">Oh, err. Afraid I can't help you for free right now. Money's a bit tight.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

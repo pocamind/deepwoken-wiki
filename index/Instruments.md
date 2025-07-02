@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 148221
+revid: 149023
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Events, Event Only Content, Hallowtide]
@@ -41,9 +41,9 @@ To access songs, you must read the corresponding book. These books can be obtain
 
 ― Description of the Worn Songbook ability
 
-Upon purchase of any instruments, the player will gain an ability in the inventory called **Worn Songbook**. The player will also unlock **A Memory of Tides** and **Carol of Resonances** by default once they purchase an instrument.
+Upon purchase of any instruments, the player will gain an ability in their inventory called **Worn Songbook**. The player will also unlock **A Memory of Tides** and **Carol of Resonances** by default once they purchase an instrument to play as songs.
 
-Clicking on the ability to select it and clicking on the screen will show an interface, prompting the player to choose what instrument they want to use, along with which song they want to play. The player can also change the skin of their instruments from this interface.
+Clicking on the ability to select it and then clicking anywhere on the screen will show an interface, prompting the player to choose what instrument they want to use, along with which song they want to play. The player can also change the skin of their instruments from this interface.
 
 ## Instrument Skins
 

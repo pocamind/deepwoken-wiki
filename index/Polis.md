@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 133707
+revid: 149027
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies, Etrea, Quests, Weapons, NPCs located in the Etrean Luminant]
@@ -155,7 +155,7 @@ Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | **Assault** | User heavily swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| **Critical** | \=Enters a stance before rushing forward and performing a quick upward strike. | ◯ | ✗ | (★★☆) |
+| **Critical** | Enters a stance before rushing forward and performing a quick upward strike. | ◯ | ✗ | (★★☆) |
 | **Gale Lunge** | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 | **Rising Wind** | User uppercuts their opponent, rapidly damaging them. | ◯ | ◯ | (★★☆) |
 | **Strong Left** | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |

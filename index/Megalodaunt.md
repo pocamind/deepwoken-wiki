@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 148130
+revid: 148998
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -62,7 +62,7 @@ Dodgeable:◯
 **Kick**  
 ★
 
- | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
+ | The Megalodaunt will flash red before delivering a **Kick** that can rag-doll and send the player flying.
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it can send you into unwanted situations.

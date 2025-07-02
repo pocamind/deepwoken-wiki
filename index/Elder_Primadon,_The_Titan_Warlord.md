@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 148872
+revid: 149010
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -129,13 +129,21 @@ Charged Stomp
 
  | 
 
--   To be completed
+-   Elder primadon charges a stomp
+-   which deals a lot of damage.
+
+ | TBA | TBA | TBA | TBA |
+| Combo | Elder primadon does multiple
+
+Stomps, Triple Stomps, and Grabs in quick succession.
 
  | TBA | TBA | TBA | TBA |
 
 ## Combat
 
 Elder Primadon has 99% cannon resistance, according to a tester. So cannon cheesing him is out of the question.
+
+Unlike [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md), Elder primadon can feint his attacks.
 
 ## Drops
 
@@ -203,3 +211,7 @@ Elder Primadon has 99% cannon resistance, according to a tester. So cannon chees
 </tr>
 </tbody>
 </table>
+
+## Gallery
+
+Elder Primadon

@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 97552
+revid: 149021
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -20,7 +20,7 @@ A Mindless Servant's arsenal only consists of their hands:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Weakly smacks opponent before finishing up the combo by flourishing them. | ◯ | ◯ | (★☆☆) |
+| Scratch | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (☆☆☆) |
 
 ### Boons
 

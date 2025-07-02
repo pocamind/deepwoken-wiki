@@ -1,12 +1,14 @@
 ---
 title: Glossary
-revid: 144852
+revid: 148990
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
 ---
 
 # Glossary
+
+_This page is about the dialogue-related mechanic. If you were looking for a glossary of terms used by Deepwoken's community, see [Terminology (game)](<Terminology_(game).md>)._
 
 ## Overview
 

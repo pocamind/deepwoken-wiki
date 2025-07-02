@@ -1,8 +1,9 @@
 ---
 title: Rook Rethige
-revid: 137949
+revid: 149001
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Rook Rethige

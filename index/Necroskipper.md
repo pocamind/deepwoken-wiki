@@ -1,6 +1,6 @@
 ---
 title: Necroskipper
-revid: 140350
+revid: 149015
 source: https://deepwoken.fandom.com/wiki/Necroskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters, Etrean Luminant]
@@ -34,7 +34,8 @@ Dodgeable: ◯
  |
 | 
 
-Flame Ballista
+Flame Ballista  
+(★★☆)
 
  | Conjures a Flaming Arrow before firing it at an opponent.  
 
@@ -60,7 +61,8 @@ Dodgeable: ◯
  |
 | 
 
-Ice Spikes
+Ice Spikes  
+(★☆☆)
 
  | Conjure a spike of ice from the ground at cursor location.  
 
@@ -71,7 +73,8 @@ Dodgeable: ◯
  |
 | 
 
-Warden's Blades
+Warden's Blades  
+(★★☆)
 
  | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished.  
 

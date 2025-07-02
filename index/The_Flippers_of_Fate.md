@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 146891
+revid: 148992
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons", Light Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weap
 |---|---|
 | type | Dagger |
 | requirements | 70 LHT; 15 CHA; 15 INT |
-| damage | 10.5 |
+| damage | 13 |
 | scaling | LHT: 8, CHA: 3, INT: 3 |
 | range | 6.5 |
 | swing speed | 1.26x |

@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 138448
+revid: 149037
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons, Spears]
@@ -12,7 +12,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons,
 |---|---|
 | type | Greatsword |
 | requirements | 70 HVY, 15 INT, 15 CHA |
-| damage | 17 + 5.1 BLD |
+| damage | 20 + 6 BLD |
 | scaling | HVY: 8.5, INT: 3, CHA: 3 |
 | range | 10 |
 | swing speed | 0.82x |
@@ -28,7 +28,13 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons,
 
 ## Description
 
-The Long Tong of The Law is a Greatsword obtained from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest, Despite being labeled as a greatsword and being a heavy weapon, It has the animations of a spear and the same Critical attack as the [Kyrscleave](Kyrscleave.md) and [Crescent Cleaver](Crescent_Cleaver.md)
+The Long Tong of The Law is a Greatsword obtained from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest, Despite being labeled as a greatsword and being a heavy weapon, it has the animations of a spear. This weapon is considered a sidegrade to the [Alloyed Crescent Cleaver](Crescent_Cleaver.md#alloyed) and [Kyrscleave](Kyrscleave.md) due to the matching critical.
+
+## Critical
+
+After a short windup, the user lunges forward, impaling the target and then slamming them onto the ground, applying Knockdown. All 3 hits of this critical are parriable (even after being hit by the grab), while the first is also blockable and dodgeable.
+
+This critical is shared with the Cresent Cleaver and the [Kyrscleave](Kyrscleave.md).
 
 ## Trivia
 

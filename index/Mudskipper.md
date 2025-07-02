@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 148444
+revid: 149013
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -47,9 +47,21 @@ Dodgeable: ◯
  |
 | 
 
-Air Force
+Pickaxe Swipe
 
-★ | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy.
+ | Weakly slashes opponent with a pickaxe over and over again until knocked.
+
+Parryable: ◯  
+Blockable: ◯  
+Dodgeable: ◯  
+
+ |
+| 
+
+Air Force  
+(★☆☆)
+
+ | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy.
 
 Parryable: X  
 Blockable: ◯  

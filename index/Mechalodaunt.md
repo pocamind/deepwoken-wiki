@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 148948
+revid: 149008
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -36,7 +36,7 @@ Slash
 
 Kick
 
- | The Mechalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
+ | The Mechalodaunt will flash red before delivering a **Kick** that can rag-doll and send the player flying.
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
@@ -47,7 +47,7 @@ Kick
 
 Blazing Kick
 
- | The Mechalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying. However this kick is held for an extra half~ a second, making it harder to dodge, as well as setting the player on fire.
+ | The Mechalodaunt will flash red before delivering a **Kick** that can rag-doll and send the player flying. However this kick is held for an extra half~ a second, making it harder to dodge, as well as setting the player on fire.
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
@@ -81,7 +81,7 @@ Bullet Fury
 
 Furnace Explosion
 
- | The Mechalodaunt will create a laser from its furnace in a circle, which later creates a fiery explosion. | ◯ | ✗ | ◯ | (★★★) |
+ | The Mechalodaunt will create a laser from its furnace in a circle, creating a fiery explosion after a delay. | ◯ | ✗ | ◯ | (★★★) |
 | 
 
 Roar

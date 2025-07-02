@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 148443
+revid: 149003
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,21 +28,29 @@ Despite all of the above, they behave like regular Megalodaunts.
 
 ## **Attacks**
 
-| Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
+| Name/Danger | Description | GIF |
+| --- | --- | --- |
 | 
-Slash
+**Slash**  
+(★☆☆)
 
  | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
 
--   Heavy posture damage.
--   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
--   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
+-   Heavy posture damage. Will commonly block break after two hits.
+-   If the Megalodaunt slashes 2 times in a row, it will have a short period where it doesn't attack, letting you hit it 3 times with MED or LHT or 2 times with HVY. This attack chain never occurs twice in a row.
+    -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
- |  | ◯ | ◯ | ◯ | (★☆☆) |
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
+
+ |
 | 
 
-Kick
+Kick  
+(★★★)
 
  | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
 
@@ -51,40 +59,75 @@ Kick
 -   This attack visually appears as a bite attack without the red flash if the Megalodaunt is swimming.
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
- |  | ✗ | ✗ | ◯ | (★★★) |
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯
+
+ | 
+
+ |
 | 
 
-Thousand Needles
+Thousand Needles  
+(★☆☆)
 
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
 -   There is a shorter ranged AOE version and a single target version. Both function the same.
 
- |  | ◯ | ◯ | ◯ | (★☆☆) |
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
+
+ |
 | 
 
-Roar
+Roar  
+(★★☆)
 
  | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
 
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
- |  | ✗ | ◯ | ◯ | (★★☆) |
+Parryable:✗  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
+
+ |
 | 
 
-Tacet Hug
+Tacet Hug  
+(★☆☆)
 
  | The Alpha turns invisible, with a white ring signifying where they are. After a few seconds, if turns visible again, grabs whatever is in front of it, holds it up, and chows down, before throwing it away and ragdolling it.
 
 -   **Autogrips**
 
- |  | ✗ | ◯ | ◯ | (★☆☆) |
+Parryable:✗  
+Blockable:◯  
+Dodgeable:◯
+
+ | 
+
+ |
 | 
 
-Tacet Drop Kick
+Tacet Drop Kick (★☆☆)
 
- | Having received great training from the mighty god, Squid Hoss, the Alphas are also capable of tacet drop kicking the life out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) |  | ◯ | ? | ◯ | (★☆☆) |
+ | The alpha turns invisible, with a white ring signifying where they are. After a few seconds, it will turn visible again, throwing out its entire body in a drop kick. This attack is rarely used. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground.)
+
+Parryable:◯  
+Blockable:?  
+Dodgeable:◯
+
+ | 
+
+ |
 
 ## **Finisher**
 

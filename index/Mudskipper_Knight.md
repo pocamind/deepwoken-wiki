@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Knight
-revid: 148448
+revid: 149016
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths, Eastern Luminant]
@@ -31,7 +31,8 @@ Within the Etrean Luminant and in [Scyphozia](First_Layer.md), they wield a [Fal
 | Name | Description |
 | --- | --- |
 | 
-Assault
+Assault  
+(★☆☆)
 
  | Firmly swings sword at opponent before flourishing by kicking them.  
 
@@ -42,7 +43,8 @@ Dodgeable: ◯
  |
 | 
 
-Critical
+Critical  
+(★★☆)
 
  | Winds up their weapons before striking, dealing high posture damage.  
 

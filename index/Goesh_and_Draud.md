@@ -1,11 +1,8 @@
 ---
 title: Goesh and Draud
-revid: 144884
+revid: 149026
 source: https://deepwoken.fandom.com/wiki/Goesh_and_Draud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Goesh and Draud
@@ -62,7 +59,7 @@ Parry: ◯
 Block: ◯ (Deals some posture)
 
  | TBA |
-| **Shadow Assault** | The twins ready theirselves before turning into shadows and dashing forward.
+| **Shadow Assault** | The twins ready themselves before turning into shadows and dashing forward.
 
   
 Parry: ◯
@@ -70,7 +67,7 @@ Parry: ◯
 Block: ◯
 
  | TBA |
-| **Eclipse Kick** | The twins get into an instance before delivering a devastating slow axe kick.
+| **Eclipse Kick** | The twins get into a stance before delivering a devastating slow axe kick.
 
   
 Parry: ◯

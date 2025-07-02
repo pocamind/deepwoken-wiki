@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 147506
+revid: 149011
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,7 +32,7 @@ Pressing C will activate the **Dimensional Travel** Resonance.
 
 When activated, the user is transported into an alternate dimension known as [The Interstice](The_Interstice.md), and will briefly leave a lingering portal to allow other players to enter. The resonance cannot be activated if the user is in combat, unless the **Use in Combat** Resonance stat is invested into. Each step taken inside The Interstice will translate to a varying amount of steps taken outside of The Interstice, depending on your resonance point allocation.
 
-Dimensional Travel cannot be used in: [Etris Palace](Etris_Palace.md), [Voidheart](Voidheart.md), [Guild Bases](Guild_Bases.md), the [Depths trial](First_Layer.md#first-layer-the-trial), or instanced dungeons (such as the [Second Layer](Second_Layer.md) and [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>))
+Dimensional Travel cannot be used in: [Etris Palace](Etris_Palace.md), [Voidheart](Voidheart.md), [Guild Bases](Guild_Bases.md), the [Depths trial](Cathedral_of_the_Interstice.md), or instanced dungeons (such as the [Second Layer](Second_Layer.md) or [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>))
 
 The function activating the Resonance has is dependent on what state of 'using the resonance' you're in:
 
@@ -58,6 +58,7 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 
 ## Tips/Trivia
 
+-   If used while in combat, Dimensional Travel will have a significantly longer windup that can be interrupted by being hit.
 -   Like [Portals](Portals.md), Dimensional Travel can be very useful in ambushing/ganking other players. It is even harder to detect than Portals.
 -   Despite looking like a better than average area for combat, it is _**incredibly dangerous**_ to fight in [The Interstice](The_Interstice.md) while in the [First Layer](First_Layer.md), as being forcefully teleported out of the realm by falling into an opening or being downed and being above the void can result in an instant wipe.
 -   You cannot take players that are knocked into The Interstice.

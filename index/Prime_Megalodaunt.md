@@ -1,8 +1,11 @@
 ---
 title: Prime Megalodaunt
-revid: 148953
+revid: 149044
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Upcoming content]
+notices:
+  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---
 
 # Prime Megalodaunt
@@ -13,7 +16,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 The Prime Megalodaunt is an exclusive Megalodaunt variant. They do not naturally spawn in the game and can only be spawned in by a developer.
 
-Primes are the strongest variant, with them hitting harder, having a much higher HP pool, and being noticeably faster at attacking compared to its normal counteparts.
+Primes are the strongest variant, with them hitting harder, having a much higher HP pool, and being noticeably faster at attacking compared to its normal counterparts.
 
 Despite all of the above, they behave like regular Megalodaunts. Master its attack pattern and this is basically just a Megalodaunt that can fire a laser beam.
 
