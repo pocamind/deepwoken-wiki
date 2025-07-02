@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 141141
+revid: 149119
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry Enemies]
@@ -43,7 +43,7 @@ They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_S
 </tr>
 <tr>
   <td>Shade Devour</td>
-  <td>Gorge on your own health for raw strength</td>
+  <td>Gorge on your own health to push away opponents and grant a damage bonus to melee attacks.</td>
   <td><font>?</font></td>
   <td><font>◯</font></td>
   <td>(★☆☆)</td>
@@ -57,14 +57,14 @@ They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_S
 </tr>
 <tr>
   <td>Encircle</td>
-  <td>Conjure shadows around your enemy before<p>warp-striking to them.</p></td>
+  <td>Conjure shadows around your enemy before warping to them after a delay.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Eclipse Kick</td>
-  <td>Show your foes your strength.</td>
+  <td>A slow axe kick that ragdolls and flings nearby opponents on contact.</td>
   <td><font>◯</font></td>
   <td><font>?</font></td>
   <td>(★★★)</td>

@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 143933
+revid: 149136
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -43,7 +43,7 @@ An Immortal Guardian's arsenal consists of a [Divine Greatsword](Crazy_Slots.md)
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings weapon at opponent to deal damage and kicks them away after enough hits. | ◯ | ◯ | (★★☆) |
-| Critical | Raises weapon before firmly slamming it down into the ground. | ◯ | ◯ | (★★☆) |
+| Critical | Raises weapon before firmly slamming it down into the ground. | ◯ | ✗ | (★★☆) |
 
 ## Boons
 

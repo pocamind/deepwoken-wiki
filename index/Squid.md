@@ -1,12 +1,14 @@
 ---
 title: Squid
-revid: 92198
+revid: 149127
 source: https://deepwoken.fandom.com/wiki/Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
 ---
 
 # Squid
+
+_Not to be confused with the [Nautilodaunt](Nautilodaunt.md), commonly nicknamed "Squibbo"._
 
 ## Description
 

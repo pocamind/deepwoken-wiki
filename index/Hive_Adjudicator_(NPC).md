@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 141069
+revid: 149121
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies, Ambush Enemies]
@@ -26,7 +26,7 @@ A Hive Adjudicator's arsenal only consists of a [Katana](Katana.md) and an [Iron
 | Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ✗ | (★★☆) |
 | Fire Blade | Caster slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
 | Flame Assault | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★☆☆) |
-| Ice Daggers | Caster goes up into the air on hit into an uppercut like state. | ◯ | ◯ | (★☆☆) |
+| Ice Daggers | User forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★☆☆) |
 | Flaming Scourge | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. | ◯ | ◯ | (★★★) |
 | Lightning Stream | Sends out a tether that latches onto a target before pulling them in. | ◯ | ◯ | (★★☆) |
 

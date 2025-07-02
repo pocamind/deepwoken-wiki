@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 141080
+revid: 149142
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, Ambush Enemies, Etrea]
@@ -25,7 +25,7 @@ A Vigil Swordsman's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (☆☆☆) |
-| Critical | Performs a windup before thrusting blade forward. | ◯ | ◯ | (★☆☆) |
+| Critical | Performs an upward slash in front of the user. | ◯ | ◯ | (★☆☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
 | Wind Blade | User shoots out an arc of gale. | ◯ | ◯ | (★☆☆) |
 

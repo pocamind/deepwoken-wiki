@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 141087
+revid: 149114
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Summer Company, Summer Company Enemies]
@@ -28,36 +28,36 @@ Summer Dragoons are high ranking members of the [Summer Company](The_Summer_Comp
 <tr>
   <td>Assault</td>
   <td>Slams with the stock of its rifle and then shoots a bullet</td>
-  <td>◯</td>
-  <td>◯</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Critical</td>
   <td>Fires a long ranged bullet</td>
-  <td>◯</td>
-  <td>◯</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 <tr>
   <td>Taunt</td>
   <td>Affected entities receive 20% more damage. Affected entities deal 10% more damage but disables their ability to jump.</td>
-  <td>✗</td>
-  <td>◯</td>
+  <td><font>✗</font></td>
+  <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Revenge</td>
   <td>A quick dash signified by a red-line effect.</td>
-  <td>◯</td>
-  <td>◯</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Strong left</td>
   <td>User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.</td>
-  <td>◯</td>
-  <td>◯</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
   <td>(★★☆)</td>
 </tr>
 </tbody>

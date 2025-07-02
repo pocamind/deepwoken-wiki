@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 141145
+revid: 149132
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Ignition Union, Ignition Union Enemies]
@@ -27,13 +27,13 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Falchion](Falchion.md)\] Performs a windup before thrusting sword forward.
+| Critical | \[[Falchion](Falchion.md)\] Performs a horizontal slash after a windup.
 \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
 
- | ◯ | ✗ | (★★☆) |
-| Needle Barrage | User leaps into the air and pelts the enemy with a trio of metal rods. | ? | ? | (☆☆☆) |
+ | ◯ | ◯ | (★★☆) |
+| Needle Barrage | User leaps into the air and pelts the enemy with a trio of metal rods. | ◯ | ◯ | (★☆☆) |
 | Firing Line | User forms five rifles out of metal that open fire on their target. | ◯ | ◯ | (★★☆) |
-| Oxidizing Rush | User rushes forward while surrounded by an array of metal swords. | ◯ | ? | (★★☆) |
+| Oxidizing Rush | User rushes forward while surrounded by an array of metal swords. | ◯ | ◯ | (★★☆) |
 
 ### Talents
 

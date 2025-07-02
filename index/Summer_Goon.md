@@ -1,6 +1,6 @@
 ---
 title: Summer Goon
-revid: 146339
+revid: 149113
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Summer Company, Summer Company Enemies]
@@ -27,10 +27,10 @@ A Summer Goon's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Pulls the trigger and fires short-ranged a bullet at opponent. | ◯ | ◯ | (★★☆) |
-| Critical | Fires a long-ranged bullet at opponent. | ◯ | ✗ | (★★☆) |
-| Taunt | User unleashes an ether infused wave that causes those on the receiving end to take 20% more damage, deal 10% more damage and are unable to jump. | ✗ | ◯ | (★☆☆) |
-| Exhaustion Strike | User performs a quick jab that transfers their posture to their foe. | ◯ | ◯ | (★★☆) |
+| Assault | Pulls the trigger and fires short-ranged bullets at opponent. | ◯ | ◯ | (★☆☆) |
+| Critical | Fires a long-ranged bullet at opponent. | ◯ | ◯ | (★★☆) |
+| Taunt | User unleashes an ether infused wave that causes those on the receiving end to take 20% more damage, deal 10% more damage and are unable to jump. | ✗ | ◯ | (★★☆) |
+| Exhaustion Strike | A melee strike that transfers the casters posture damage on hit. | ◯ | ◯ | (★★☆) |
 
 ### Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 148543
+revid: 149056
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -415,10 +415,6 @@ Can be applied by being hit by a critical attack if the user has [Bear Trap](Tal
 
 Screen turns slightly black around the edges and have your vision obscured. Gained by being hit with a [Shadowcast](Shadowcast.md) Mantra with the [Sightless Still](Talents.md#shadowcaster) Talent.
 
-### Time Stasis
-
-Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Subtle_Knife_of_Eylis.md) and [Semblance](Semblance.md) NPCs. Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can be removed by hitting and breaking the center of the time bubble or by walking out of its range.
-
 ### Audacity
 
 Applied by standing near someone with audacity when they're executing someone. Which inflicts a stun AOE, this greatly halts movement speed and disallows attacking for 5 seconds. Signified by White Eyes in the moment of the execution. Also grants nearby allies a 10% damage buff.
@@ -454,6 +450,36 @@ This effect happens when you've reached Tier 2 of [Insanity](Insanity.md), or un
 ### Tier 3 Insanity
 
 This effect happens when you've reached Tier 3 of [Insanity](Insanity.md), or under 10% of your maximum Sanity, where your character will start Scratching their body and face which deals **20 damage** and stunning you for **1.5 seconds** and then you will Shiver for 2 seconds. Damage taken by Scratching cannot be resisted by armor, but will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. If you don't have enough health left when Scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will Panic instead of Scratching, additionally Panic damage will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. Due to how long it takes to get to max insanity, (unless you have [manic](Boons_and_Flaws.md)) you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
+
+## NPC Exclusive Status Effects
+
+These, almost always harmful, status effects are exclusively used by and applied from Monsters or other non playable characters.
+
+### Time Stasis
+
+Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Subtle_Knife_of_Eylis.md) and [Semblance](Semblance.md) NPCs. Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can be removed by hitting and breaking the center of the time bubble or by walking out of its range.
+
+### Magma Flow
+
+Monsters within [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Flow, this chance increases the lower floor you go. When a Magma Flow-affected Monster hits you or another Monster with any attack, they'll apply Magma Flow, weakening your armor resistances and nullifying all Monster Armor temporarily. Monsters can spawn with both Magma Guard and Magma Flow, in fact this is a common occurrence within the lower floors. Signified by a dripping lava effect on your character and the Monster who has this effect.
+
+### Magma Guard
+
+Monsters within [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Guard, this chance increases the lower floor you go. Magma Guarded Monsters are immune to any Damage vs Monsters effect. Monsters can spawn with both Magma Guard and Magma Flow, in fact this is a common occurrence within the lower floors. These monsters have exteriors encrusted with magma and rock.
+
+### Attuned
+
+The effects of this status effect depends on which [Attunement](Attunements.md) the Monsters are attuned to. Some Monsters are always Attuned to a specific Attunement (e.g. [Fury Nautilodaunts](Fury_Nautilodaunt.md) (Thundercall) or [Glacial Lionfish](Glacial_Lionfish.md) (Frostdraw)). This effect can also be applied to humanoid enemies within [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+
+-   Flamewreathed - [Flamecharm](Flamecharm.md): Flamewreathed Monsters apply [Burn](#burn) with their attacks. This is a unique burn variant that is harder to remove. Additionally, Flamewreathed Monsters have 50% Flamecharm resistance, but take double damage from Galebreathe. Signified by the Monster being engulfed in flames.
+-   Frostmantle - [Frostdraw](Frostdraw.md): Frostmantled Monsters apply [Chill](#chill) and create ice patches on the floor with all of their attacks. Additionally, Frostmantled Monsters have 50% Frostdraw resistance, but take double damage from Flamecharm. Signified by the Monster radiating with frost.
+-   Galeforced - [Galebreathe](Galebreathe.md): Galeforced Monsters apply [Winded](#winded) and/or [Suffocation](#suffocate) on hit. These Monsters also have increased movement speed and deal extra knockback. Additionally, Galeforced Monsters have 50% Galebreathe resistance, but take double damage from Thundercall. Signified by the Monster emanating the winds.
+-   Thunderstruck - [Thundercall](Thundercall.md): Thunderstruct Monsters apply [Shock](#shock) on hit, making them very dangerous, especially in group settings. Additionally, Thunderstruck Monsters have 50% Thundercall resistance, but take double damage from Frostdraw. Signified by the Monster cackling with electricity.
+-   Shadowmeld - [Shadowcast](Shadowcast.md): Shadowmeld Monsters steal ether on hit. Additionally, Shadowmeld Monsters have 50% Physical resistance, but take double damage from all Attunements. Signified by the Monster exuding a black aura.
+
+### Corrupted
+
+Monsters within [The Depths](The_Depths.md) have a chance to spawn Corrupt, boasting a much higher health pool and increased damage. This chance is made guaranteed during [Hell Mode](Hell_Mode.md) and during your [Depths Trial](Cathedral_of_the_Interstice.md) if you have the Vow of Thorns or Deep Champion [Echo Modifiers](Echoes.md). Additionally, ringing the black bells within the [First Layer](First_Layer.md) will increase the odds of surrounding Monsters spawning corrupt. Signified by a dark purple aura on the Monster.
 
 ## Unique Status Effects
 

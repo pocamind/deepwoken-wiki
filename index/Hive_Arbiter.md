@@ -1,6 +1,6 @@
 ---
 title: Hive Arbiter
-revid: 141152
+revid: 149123
 source: https://deepwoken.fandom.com/wiki/Hive_Arbiter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies, Ambush Enemies]
@@ -27,7 +27,7 @@ A Hive Arbiter's arsenal consists of a [Katana](Katana.md) and [Flamecharm](Flam
 | Fire Blade | Caster slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
 | Flame Assault | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★☆☆) |
 | Flashdraw Strike | Caster goes up into the air on hit into an uppercut like state. | ◯ | ◯ | (★☆☆) |
-| Master's Flourish | Caster sends powerful slash that chips through block and slashes through armor. | ◯ | ◯ | (★☆☆) |
+| Master's Flourish | Caster sends powerful slash that chips through block and slashes through armor. | ◯ | ◯ | (★★☆) |
 
 ### Boons
 

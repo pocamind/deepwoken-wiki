@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 141150
+revid: 149128
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ignition Union, Ignition Union Enemies]
@@ -23,15 +23,15 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Falchion](Falchion.md)\] Performs a windup before thrusting sword forward.
+| Critical | \[[Falchion](Falchion.md)\] Performs a horizontal slash after a windup.
 \[[Alloyed Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
 
- | ◯ | ✗ | (★★☆) |
-| Metal Eruption | The user stomps on the ground, spawning a flurry of metal spikes. | ? | ? | (☆☆☆) |
-| Firing Line | The user spawns 5 guns behind them which will start firing at the target immediately. | ◯ | ? | (★★☆) |
-| Rocket Lance | Form a lance to impale the target, before sending them flying. | ? | ? | (★★★) |
-| Chain Pull | Conjure a chain to pull your opponent. | ? | ? | (★☆☆) |
-| Metal Ball | Form yourself into a metal ball and rush forward. | ? | ? | (★★☆) |
+ | ◯ | ◯ | (★★☆) |
+| Metal Eruption | The user stomps on the ground, spawning a flurry of metal spikes. | ◯ | ◯ | (★☆☆) |
+| Firing Line | The user spawns 5 guns behind them which will start firing at the target immediately. | ◯ | ◯ | (★★☆) |
+| Rocket Lance | Form a lance to impale the target, before sending them flying. | ◯ | ◯ | (★★★) |
+| Chain Pull | Conjure a chain to pull your opponent. | ◯ | ◯ | (★☆☆) |
+| Metal Ball | Form yourself into a metal ball and rush forward. | ◯ | ◯ | (★★☆) |
 
 ### Talents
 

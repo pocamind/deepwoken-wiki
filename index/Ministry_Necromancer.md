@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 141138
+revid: 149118
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -30,7 +30,7 @@ Assault
 
 Critical
 
- | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
+ | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★☆☆) |
 | 
 
 Shadow Roar
@@ -43,7 +43,7 @@ Summon
 Necro-skippers
 
  | Summons a total of three [Blue](Necroskipper.md) or [Redskippers](Necroskipper.md) before becoming invulnerable and remaining idle until all the Mudskippers are killed. | N/A | N/A | (★★☆) |
-| Shadow Seekers | The user snaps their fingers, and sends 3 orbs that slowly chase nearby enemies until the duration has expired or the orb has made contact with the target. | Yes | Yes |  |
+| Shadow Seekers | The user snaps their fingers, and sends 3 orbs that slowly chase nearby enemies until the duration has expired or the orb has made contact with the target. | ◯ | ◯ | (★★☆) |
 
 ### Boons
 

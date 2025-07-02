@@ -1,6 +1,6 @@
 ---
 title: Primadon Pelt
-revid: 148818
+revid: 149116
 source: https://deepwoken.fandom.com/wiki/Primadon_Pelt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -20,7 +20,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-**Primadon Pelt** is a direct drop from [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md) and very rarely from [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md). Only one drops per kill, and the item itself is undroppable, making this item rare and sought after.
+**Primadon Pelt** is a direct drop from [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md) and very rarely from [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md). Only one can drop per kill, making this item rare and sought after.
 
 ## Uses
 

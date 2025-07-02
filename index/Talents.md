@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 148833
+revid: 149101
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1819,6 +1819,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
     -   15% extra posture damage at 100% armor, scales from % armor left (Means that 2600 and 1000 durability armor will have same effect at 100% armor and etc)
     -   Posture damage buff does not apply to M1s or non Ironsing mantras.
+    -   Doesn't really work in PVE because NPCs don't have armor (except Maestro) and Mobs aren't affected by Posture DMG
     -   Prerequisite: 45 Ironsing
 
 -   Laced Traps \[Common Talent, Ironsing Exclusive\] - People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
@@ -1834,6 +1835,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Piercing Metal \[Common Talent, Ironsing Exclusive\] - Deal additional armor damage to enemies per metal rod affecting them.
     -   Each rod applies 5% armor drain multiplier, extra 50% armor drain at max rods
     -   This works only with dealing armor DMG via M1s and Mantras ([Info about how M1 and Mantra armor DMG works](https://www.youtube.com/watch?v=zSXwGP75Etw))
+    -   Works amazingly in PVE.
     -   Doesn't increase Metal enchant effectiveness.
     -   Prerequisites: 60 Ironsing, Power 13
 
@@ -2518,6 +2520,7 @@ _**"My cure is most effective."**_
 
 -   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
     -   Steals 10% of your enemy's armor durability on proc
+    -   Doesn't make mobs stagger faster.
     -   Prerequisite: Rending Needle: Conductor
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
@@ -2525,14 +2528,15 @@ _**"My cure is most effective."**_
     -   Conductor rods last 30 seconds or until an elemental mantra is used.
     -   On proc, the Conductor Rod will apply the elemental effect of the Mantra your opponent is trying to use to themselves.
     -   If your opponent uses a Mantra while being affected by a Conductor rod, 5% of their current armor durability will be **drained** and it proc have the following effect:
-        -   Flamecharm Mantra: Apply Burn (base path) / No effect with eruption path, rod falls off.
+        -   Flamecharm Mantra: Apply Burn (base path) / No effect with Eruption path, rod falls off.
         -   Frostdraw Mantra: Deals a very low amount of damage (Base path) / Apply Crystal on victim (Crystallization path)
-        -   Galebreathe Mantra: Suffocate + cancels mantra (Base path) / spawns Apparitions (Specter Path)
+        -   Galebreathe Mantra: Suffocate + Cancels mantra (Base path) / Spawn Apparition (Specter Path)
         -   Shadowcast Mantra: Doubles the Ether cost of the Mantra cast
-        -   Thundercall Mantra: Applies Shock + Cancels mantra (Base path) / Applies Surge stack + cancels mantra (Surge path)
-        -   Attunement-less/Ironsing/Bloodrend/Oath Mantra: The rod does not fall off, but their armor is still drained
+        -   Thundercall Mantra: Applies Shock + Cancels mantra (Base path) / Applies Surge stack + Cancels mantra (Surge path)
+        -   Attunement-less/Ironsing/Bloodrend/Oath Mantra: The rod does not fall off, but their armor is still drained till conductor rod expires.
     -   You can't pull out Conductor rods, nor can they be consumed with Scrapsinger.
     -   Conductor's rod on proc dont apply rod/pull immunity.
+    -   **NEVER TAKE THIS PATH FOR PVE UNLESS YOU WANT KEEP UP YOUR ARMOR ALWAYS 100%.** It makes staggering mobs way more harder than with impaler.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer
 
@@ -2541,7 +2545,7 @@ _**"My cure is most effective."**_
     -   Scaling: 4 + Ironsing\*0.02
         -   Deals 5.5 physical damage per rod when meeting requirements.
     -   Not affected by "Return To The Dark Ages" Talent
-    -   Best PVE path due to armor drain and damage to mobs unlike other paths.
+    -   Best PVE path due to 10 rod limit and DMG by pulling rods.
     -   Has 6.5x PVE scale (5.5 DMG PVP to 35.60 PVE DMG)
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer

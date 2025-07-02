@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 135378
+revid: 149134
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -54,6 +54,97 @@ Funke executes his opponent after knocking them:
 | --- | --- |
 | Execute | Pins down opponent before shooting the head of the opponent. |
 
+## Dialogue
+
+**First Encounter:**
+
+**Quest Start:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">The fury within you; it needs an outlet. The skies blacken with premonition.</td>
+</tr>
+<tr>
+  <td colspan="12">What do you mean?</td>
+</tr>
+<tr>
+  <td colspan="12">Fury is not a singular emotion. It can be harnessed by the saint and sinner alike. Do you wish to wield it as a Thundercaller?</td>
+</tr>
+<tr>
+  <td colspan="12">Yes, what would you have me do?</td>
+</tr>
+<tr>
+  <td colspan="12">Bring me 5 Spark Glands, Then we can continue</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Quest Completed:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Have you done what I asked?</td>
+</tr>
+<tr>
+  <td colspan="6">Here. (Sufficient Spark Glands)</td>
+  <td colspan="6">Here. (No Spark Glands)</td>
+</tr>
+<tr>
+  <td colspan="6">*They take the glands and crush each of them into a glass vial, a blue syrup dribbling in.*</td>
+  <td colspan="6">Hm. You have not brought me the 5 Spark Glands I require to assist you...</td>
+</tr>
+<tr>
+  <td colspan="6">What is that you're doing?</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</td>
+</tr>
+<tr>
+  <td colspan="6">The vial I gave you. You must drink it.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">The fury of the skies reflect that of the waves below. Have you come to reflect on your own fury?</td>
+</tr>
+<tr>
+  <td colspan="6">Yes, I have. (Mantras Available)</td>
+  <td colspan="6">Yes, I have. (Mantras Unavailable or all Thundercall Mantras maxed)</td>
+</tr>
+<tr>
+  <td colspan="6">(The Mantra leveling UI appears)</td>
+  <td colspan="6">The skies remain clear...</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
 ## Tips
 
 -   Funke is the only trainer to be a percieved "threat" due to his ability to use decent [Thundercall](Thundercall.md) moves.
@@ -65,7 +156,7 @@ Funke executes his opponent after knocking them:
 ## Trivia
 
 -   Both he and [Nell](Nell,_Master_of_Frost.md) wear the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
-    -   If they are indeed Divers, this would make him and Nell the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md).
+    -   If they are indeed Divers, this would make him and Nell the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md), excluding [Coldheart Fortinbras](Coldheart_Fortinbras.md).
 -   Funke is the German word for "spark".
 -   He did not wield the [Stormseye](Stormseye.md), after its addition in the 6/5/2023 update, despite both being at Summer Isle and it being a Thundercall based weapon. This was finally corrected in the 11/10/2023 update, a staggering five months later.[\[2\]](#cite-note-2)
     -   This is most likely due to the laziness of the Developers, as the Stormseye was added after his Enemy variant was.

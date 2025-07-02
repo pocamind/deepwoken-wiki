@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 141082
+revid: 149103
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -24,8 +24,8 @@ Their arsenal only consists of a [Silver Dagger:](Silver_Dagger.md)
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (★☆☆) |
-| Critical | Unleash a quick flurry attack on opponent. | ◯ | ✗ | (★★☆) |
+| Assault | Swiftly swings dagger at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Unleashes a quick flurry attack onto their opponent. | ◯ | ◯ | (★★☆) |
 
 ### Finisher
 

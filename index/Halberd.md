@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 146978
+revid: 149080
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -22,7 +22,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Weapons with Uniq
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, The Depths, Blacksteel Pirate, Chime of Conflict, Dread Serpent, LodestarTemplate:AlloyedColor, Alloying a Halberd |
+| obtainment | Erisia, The Depths, Blacksteel Pirate, Chime of Conflict, Dread Serpent, Lodestar, Duke Ishamon ErisiaTemplate:AlloyedColor, Alloying a Halberd |
 | description | "A standard issue halberd of the Authority, often seen in larger skirmishes." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 139729
+revid: 149133
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, NPCs, NPCs located in the Eastern Luminant]
@@ -59,6 +59,97 @@ Amashi executes his opponent after knocking them:
 | --- | --- |
 | Incineration | The flame status effect from the Flamecharm attunement burns away the opponent's corpse. |
 | Execute | Pins down opponent and slices their throat with his blade. |
+
+## Dialogue
+
+**First Encounter:**
+
+**Quest Start:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Passion. It beams out from your eyes like torchlight. But with no medium to wield it, it leaves only cinders.</td>
+</tr>
+<tr>
+  <td colspan="12">What do you mean?</td>
+</tr>
+<tr>
+  <td colspan="12">Fire is the heat of rage, but also the warmth of compassion. Do you wish to tame it as a Flamecharmer?</td>
+</tr>
+<tr>
+  <td colspan="12">Yes, what would you have me do?</td>
+</tr>
+<tr>
+  <td colspan="12">Bring me 5 Dying Embers, Then we can continue</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Quest Completed:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Have you done what I asked?</td>
+</tr>
+<tr>
+  <td colspan="6">Here. (Sufficient Dying Embers)</td>
+  <td colspan="6">Here. (No Dying Embers)</td>
+</tr>
+<tr>
+  <td colspan="6">*They take the embers and crush each of them into a glass vial, ash falling in.*</td>
+  <td colspan="6">Hm. You have not brought me the 5 Dying Embers I require to assist you...</td>
+</tr>
+<tr>
+  <td colspan="6">What is that you're doing?</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</td>
+</tr>
+<tr>
+  <td colspan="6">The vial I gave you. You must drink it.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">The inferno burns even brighter. Have you come to fuel it?</td>
+</tr>
+<tr>
+  <td colspan="6">Yes, I have. (Mantras Available)</td>
+  <td colspan="6">Yes, I have. (Mantras Unavailable or all Flamecharm Mantras maxed)</td>
+</tr>
+<tr>
+  <td colspan="6">(The Mantra leveling UI appears)</td>
+  <td colspan="6">The fire spits embers, content to burn...</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Tips
 

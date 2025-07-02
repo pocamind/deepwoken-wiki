@@ -1,6 +1,6 @@
 ---
 title: Ministry Footpad
-revid: 141137
+revid: 149117
 source: https://deepwoken.fandom.com/wiki/Ministry_Footpad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, The Ministry, Ministry Enemies]
@@ -24,13 +24,10 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings dagger at the opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
-| Shade Devour | Gorge on your own health for raw strength | ◯ | ◯ | (★☆☆) |
-| Shadow Assault | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. | ◯ | ◯ | (★★☆) |
-| Encircle | Conjure shadows around your enemy before
-warp-striking to them.
-
- | ◯ | ◯ | (★★☆) |
-| Eclipse Kick | Show your foes your strength. | ◯ | ◯ | (★★★) |
+| Shade Devour | Gorge on your own health to push away opponents and grant a damage bonus to melee attacks. | ◯ | ◯ | (★☆☆) |
+| Shadow Assault | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster and stealing Ether. | ◯ | ◯ | (★★☆) |
+| Encircle | Conjure shadows around your enemy before warping to them after a delay. | ◯ | ◯ | (★★☆) |
+| Eclipse Kick | A slow axe kick that ragdolls and flings nearby opponents on contact. | ◯ | ◯ | (★★★) |
 
 ### Boons
 

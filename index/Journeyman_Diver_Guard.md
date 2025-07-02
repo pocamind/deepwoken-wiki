@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 141151
+revid: 149088
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -43,8 +43,8 @@ This mantra has a [Magnet Spark](Mantra_Modifiers.md) on it.
 | Lightning Stream | Sends an **invisible** projectile that latches onto a target before pulling them in. Has insane range. | ◯ | ◯ | (★★☆) |
 | Ice Daggers | Throws out three daggers of ice that fly to you and damage you, freezing you in place momentarily. | ◯ | ◯ | (★★★) |
 | Fire Blade | Wraps their weapon in fire and strikes, dealing massive posture damage if blocked. | ◯ | ◯ | (★★☆) |
-| Encircle | conjure shadows around your enemy before warp-striking tothem | ✗ | ◯ | (★☆☆) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
+| Encircle | Conjure shadows around your enemy before warping to them after a delay. | ◯ | ◯ | (★☆☆) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
 
