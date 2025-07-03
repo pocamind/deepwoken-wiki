@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 148752
+revid: 149164
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -20,7 +20,7 @@ categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Traan Zakshun is an NPC merchant, he sells various outfit schematics and weapons labelled as "Trahnes Salvaged Stock". He wields an [Iron twinblade](Iron_Twinblade.md) on his back, and he wears the [Carefree Garments](Carefree_Garments.md) outfit.
+Traan Zakshun is an NPC merchant, he sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron twinblade](Iron_Twinblade.md) on his back, and he wears the [Carefree Garments](Carefree_Garments.md) outfit.
 
 Traan Zakshun's shop runs on an hourly rotation. Every hour, he sells three to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of his shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
@@ -135,7 +135,7 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
 
 ### Shop UI
 
-Trahne's Salvaged Stock
+Traan's Salvaged Stock
 
 <table>
 <tbody>
@@ -224,7 +224,7 @@ Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell
 
 ### Shop UI
 
-Trahne's Black Market Cache
+Traan's Black Market Cache
 
 <table>
 <tbody>
@@ -260,6 +260,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Try not to draw attention when you walk out of here alright?_
 -   _Got somethin' that might interest ya..._
 -   _Not sure if I really want to let this one go... if that makes you want it more?_
+-   _I uhh, yeah I really shouldn't have these._
 
 ## Black Market Shop Rotation
 
@@ -315,7 +316,8 @@ Sold Items
 -   Traan Zakshun changed their name to that because they're a troll.[\[1\]](#cite-note-0-1)
 -   The Black Market dialogue "_You want it? It's yours my friend! So long as you have enough crowns."_ is a quote reference to Morshu in Link: The Faces of Evil.
 -   Nuttoons, one of Deepwoken's developers, had this to say about Traan Zakshun: "they are a weirdo, they mug freshies for their garbage and bring it back to their little hoarding cave to sell off to schmucks". [\[1\]](#cite-note-0-1)
-    -   This is much like the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Trahne, the loot bag gacha NPCs collect the loot off of corpses rather than getting their hands dirty themselves.
+    -   This is much like the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect the loot off of corpses rather than getting their hands dirty themselves.
+-   Traan's name was originally "Trahne Zakshun", however it was changed in the 6/30/2025 update.
 
 ## References
 

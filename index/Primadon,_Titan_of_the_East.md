@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 149038
+revid: 149184
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -23,6 +23,10 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 <tr>
   <th>Offering</th>
   <th>Qty</th>
+</tr>
+<tr>
+  <td><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></td>
+  <td>1</td>
 </tr>
 <tr>
   <td><a href="Umbral_Obsidian.md">Umbral Obsidian</a></td>

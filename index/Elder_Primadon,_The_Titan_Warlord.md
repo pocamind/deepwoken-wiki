@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 149010
+revid: 149188
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -10,9 +10,9 @@ categories: [Monsters, Bosses]
 
 Template:Creature Infobox V3
 
-“ ROOOOOOOOOOOOARGH ”
+“ The isle of Monkey's Paw trembles beneath the thunderous steps of The Elder. ”
 
-― Elder Primadon, The Titan Warlord
+― Update Teaser
 
   
 
@@ -31,10 +31,6 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 <tr>
   <td><a href="Sinner's_Ash.md">Sinner's Ash</a></td>
   <td>4</td>
-</tr>
-<tr>
-  <td><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></td>
-  <td>10</td>
 </tr>
 </tbody>
 </table>

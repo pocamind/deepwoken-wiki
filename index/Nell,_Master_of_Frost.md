@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 149100
+revid: 149168
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant]
@@ -85,13 +85,13 @@ Ice Cubes
 
 Ice Smash
 
- | Nell summons a huge ice club and hits the ground, guardbreaking anyone that it hits. This is especially punishing since she has Fragile Freeze. | ◯ | ✗ | (★★★) |
+ | Nell summons a huge ice club and hits the ground, guardbreaking anyone that it hits. | ◯ | ✗ | (★★★) |
 
 ### Talents
 
 -   _Perfect Flash_ - If Nell has full Health, her Mantras do 25% more damage.
 -   _Impervious Slumber_ - If Nell gets hit while knocked, her knocked timer isn't reset.
--   _Fragile Freeze_ - Getting blockbroken by any of Nell's Frostdraw Mantras will apply Frozen on you.
+-   _Fragile Freeze_ - Getting blockbroken by any of Nell's weapon attacks will apply Frozen on you.
 -   _Chilling Flourish_ - If Nell flourishes an enemy, they leave behind a trail of ice.
 -   _Cool Head_ - If Nell is inflicted with Burn while standing on ice, she will immediately put it out and gain immunity against Burn for a set amount of time.
 -   _Cryostasis_ - If Nell gets block broken, Nell fragile freezes herself negating the damage of the next attack.

@@ -1,6 +1,6 @@
 ---
 title: Old Knife of Eylis
-revid: 141134
+revid: 149147
 source: https://deepwoken.fandom.com/wiki/Old_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -22,8 +22,8 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 | --- | --- | --- | --- | --- |
 | Assault | Swiftly swings dagger at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★★☆) |
 | Critical | The experienced knife thrusts forward whilst creating a wave of red energy. | ◯ | ◯ | (★★☆) |
-| Time-Slowing Orb | Stops and conjures a growing orb that slows down the movement of everyone except their own members. | ✗ | ✗ | (★☆☆) |
+| Time-Slowing Orb | Conjures a growing orb that slows down the movement of everyone except their own members. | N/A | N/A | (★☆☆) |
 | Revenge | A quick dash signified by a red-line effect. | ◯ | ◯ | (★☆☆) |
-| Dash | The knife quickly makes an agile dash. | ◯ | ◯ | (☆☆☆) |
+| Dash | The knife quickly makes an agile dash. | N/A | N/A | (☆☆☆) |
 | Rapid Slashes | Swiftly rushes into the enemy and cuts them apart. | ◯ | ◯ | (★☆☆) |
 | Adrenaline Surge | Gains a mobility boost for a short duration of time. | ◯ | ◯ | (☆☆☆) |

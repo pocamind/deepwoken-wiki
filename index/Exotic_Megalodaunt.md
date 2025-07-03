@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 149064
+revid: 149196
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -14,7 +14,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid shark [monster](Monsters.md). This variant does not spawn naturally and is only spawned from developers.
+The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid shark [monster](Monsters.md). This variant is said to be really rare to spawn and it is unknown where it spawns no one has seen it spawn naturally all sightings of this mob were by developers spawning them in
 
 ## Attacks
 
@@ -24,10 +24,9 @@ The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid sh
 **Slash**  
 (★★☆)
 
- | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
+ | A short range **Slash** using their forearms, often used four or more times in a row or paired with a kick.
 
 -   Heavy posture damage. Will commonly block break after two hits.
-    -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
 Parryable: ◯  
 Blockable: ◯  
@@ -48,7 +47,7 @@ Dodgeable: ◯
 -   This ability is blockable, although you need alot of posture to block it.
 -   Commonly avoided by walking or running sideways, as the hitbox has little width.
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
--   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
+-   Creates the longest duration in which this beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
 Parryable: ✗  
 Blockable: ✗  
@@ -79,7 +78,7 @@ Dodgeable: ◯
 **Roar**  
 (☆☆☆)
 
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md) and [fear](Status_Effects.md).
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [Insanity](Insanity.md) and [Fear](Status_Effects.md#fear).
 
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
@@ -109,6 +108,19 @@ Dodgeable: ◯
  | 
 
  |
+| 
+
+**Feint**  
+(★★☆)
+
+ | 
+
+-   This can chain into a different move eg: Slash feint into a Kick
+-   Like [The Enforcer](Enforcer.md), [Nautilodaunt](Nautilodaunt.md), [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), [Prime Megalodaunt](Prime_Megalodaunt.md), This mob can also **feint** their attacks.
+
+ | 
+
+ |
 
 ## Finisher
 
@@ -120,6 +132,8 @@ Dodgeable: ◯
 
 -   The Exotic Megalodaunt will often use multiple attacks in quick succession (including the same attack twice in a row) with very little downtime in between each attack. This paired with the monster being very fast and dealing high damage per hit makes it a very dangerous foe.
 -   Their thousand needles (either variant) can be parried by simply tapping F once due to Autoparry frames, and allows you to get as many hits in as a Kick would.
+-   Do not try to stat check this mob because it will most likely kill you faster than you can kill it
+-   Try to get help in killing it as in one person can parry it and the others can deal damage
 
 ## Passives
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 141012
+revid: 149170
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -30,23 +30,23 @@ Assault
 
 Critical
 
- | \[[Cavalry Saber](Cavalry_Saber.md)\] Performs a windup before thrusting blade forward.
+ | \[[Cavalry Saber](Cavalry_Saber.md)\] Performs four quick slashes with their blade.
 
 \[[Adretian Axe](Adretian_Axe.md)\] Raises axe before firmly slamming it down to the ground.
 
  | ◯ | ✗ | (★★☆) |
-| Ice Smash | _A colossal mace of ice._ | ◯ | ◯ | (★★☆) |
+| Ice Smash | _User winds-up before conjuring and slamming a spiked ice club into the ground ahead._ | ◯ | ◯ | (★★☆) |
 | 
 
 Ice Eruption
 
- | _A flurry of ice spikes._ | ✗ | ✗ | (★★☆) |
+ | _Erupts ice from the ground trapping anyone caught in it._ | ✗ | ✗ | (★★☆) |
 | 
 
 Glacial Shower
 
  | _Rains down shards of ice._ | ◯ | ◯ | (★★☆) |
-| Iceberg | _A state of cryostasis._ | ◯ | ◯ | (★☆☆) |
+| Iceberg | _The user freezes themselves to quickly mend their wounds._ | ◯ | ◯ | (★☆☆) |
 
 ## Talents
 

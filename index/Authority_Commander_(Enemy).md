@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 141019
+revid: 149178
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -20,16 +20,21 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 
 | Moves | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Flame Repulsion | An exertion of flames. | ? | ◯ | (★☆☆) |
-| Burning Servants | A legion of flames. | ◯ | ◯ | (★☆☆) |
-| Flame Grab | A fiery chokehold. | ◯ | ◯ | (★☆☆) |
-| Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
-| Relentless Flames | Bear down on your foes with repeated fiery slashes | ◯ | ◯ | (★★☆) |
+| Assault | Firmly swings blade at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | \[[Cavalry Saber](Cavalry_Saber.md)\] Performs four quick slashes with their blade.
+\[[Adretian Axe](Adretian_Axe.md)\] Raises axe before firmly slamming it down to the ground.
+
+ | ◯ | ◯ | (★★☆) |
+| Flame Repulsion | After a ~2 second wind-up, releases a burning area-of-effect blast that pushes back enemies. | ◯ | ◯ | (★☆☆) |
+| Burning Servants | Summon a legion of flaming spearmen that lunge inwards. | ◯ | ◯ | (★☆☆) |
+| Flame Grab | User lunges forward for a grab that slams and burns incoming opponents into the ground. | ◯ | ◯ | (★☆☆) |
+| Fire Blade | User slams down with their blade coated in flames. | ◯ | ◯ | (★★☆) |
+| Relentless Flames | Bear down on your foes with repeated fiery slashes. | ◯ | ◯ | (★★☆) |
 | Ash Slam | Strike the ground, turning it to ash. | ◯ | ◯ | (★★★) |
 | Flame Scourge | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. | ◯ | ◯ | (★★★) |
-| Flame Ballista | Conjure a flaming arrow and fire it at your target. | ◯ | ? | (★★★) |
+| Flame Ballista | Conjure a flaming arrow and fire it at your target. | ◯ | ◯ | (★★★) |
 
-### Boons
+### Passives
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
 -   Mantra Modification - An Authority Commander's "Flame Repulsion" mantra is modified with either 3 [Cloudstones](Mantra_Modifiers.md) or 2 [Stratus Stones](Mantra_Modifiers.md).

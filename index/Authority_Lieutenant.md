@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 141016
+revid: 149180
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -26,9 +26,10 @@ Their arsenal is composed of an Cavalry Saber/Adretian Axe/Mace along with the [
 ([Mace](Mace.md))Firmly swings weapon at opponent and finishing the combo by kicking them.
 
  | ◯ | ◯ | (★☆☆) |
-| Critical | ([Cavalry Saber](Cavalry_Saber.md)):Does a windup with the arm before hitting you with a lunge attack.
+| Critical | ([Cavalry Saber](Cavalry_Saber.md)): Performs four quick slashes with their blade.
 
-([Adretian Axe](Adretian_Axe.md)):Does a windup by rising the weapon before slamming it's blade on you. ([Mace](Mace.md))Raises club upward before slamming it down to the ground.
+([Adretian Axe](Adretian_Axe.md)): Does a windup by rising the weapon before slamming its blade on you.  
+([Mace](Mace.md)): Raises club upward before slamming it down to the ground.
 
  | ◯ | ◯ | (★★☆) |
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ◯ | (★★☆) |

@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter (NPC)
-revid: 139603
+revid: 149161
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -23,10 +23,9 @@ A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.m
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Canorian Axe](Canorian_Axe.md)\] Raises weapon before firmly slamming it down into the ground.
-\[[Trident Spear](Trident_Spear.md)\] Thrust the spear in front of it and spins it, performing a multihit
-
-\[[Falchion](Falchion.md)\] Lunge the weapon foward, dealing knockback and moderate posture damage.
+| Critical | \[[Canorian Axe](Canorian_Axe.md)\] Raises weapon before firmly slamming it down into the ground.  
+\[[Trident Spear](Trident_Spear.md)\] Thrust the spear in front of it and spins it, performing a multihit.  
+\[[Falchion](Falchion.md)\] Performs a horizontal slash after a windup.
 
  | ◯ | ✗ | (★☆☆) |
 | Rapid Punches | User unleashes a barrage of blows at their opponent. | ◯ | ◯ | (★★☆) |
