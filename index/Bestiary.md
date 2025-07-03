@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 149255
+revid: 149288
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses, World Event]
@@ -22,7 +22,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 -   Monster variants count towards and benefit from the original monster's bestiary. This goes for bosses as well.
     -   For example, defeating a [King Thresher](King_Thresher.md) or [Nightmare Thresher](Nightmare_Thresher.md) will award +1 kill towards the Thresher Bestiary completion, and having progress on the Thresher Bestiary will grant additional damage to these variants as well.
 -   The bonuses tied to each bestiary entry is **only applied to that specific enemy**, meaning if you defeat a Brainsucker 100 times, it won't grant you increased damage against Megalodaunts and vice versa. Not even the boss bestiary buffs are universally applied!
--   Template:CorruptedColor Monsters count as **2 kills** instead of 1.
+-   \[\[Corrupted|Template:CorruptedColor\]\] Monsters count as **2 kills** instead of 1.
 -   'Resilient' Monsters (such as [Enforcers](Enforcer.md) or [Bounders](Bounder.md)) have halved damage and resistance bonuses.
     -   While most monsters are +10% damage/5% resistance per milestone, totaling to +30% damage and +15% resistance, 'resilient' monsters only grant +5% damage and +2.5% resistance per milestone, totaling to +15% damage and +7.5% resistance.
 
@@ -74,7 +74,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   <td><a href="Crustaceous_Rex.md">Crustaceous Rex</a></td>
   <td>Go Crabbing, Carapace Crown, The Chitin Throne
   <ul>
-    <li>Slay 10, 25, and 100 <a href="Crustaceous_Rex.md">Crustaceous Rexes</a></li>
+    <li>Slay 10, 25, and 100 <a href="Crustaceous_Rex.md">Crustaceous Rexes</a> (Note that <a href="Crab.md">Crabs</a> do not count)</li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>
@@ -162,7 +162,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   <td><a href="Mudskipper.md">Mudskipper</a></td>
   <td>Dawn of the Drowned, 25 Drowns Later, Night of the Living Drowned
   <ul>
-    <li>Slay 10, 25, and 100 Mudskippers of any <a href="Mudskipper_(disambiguation).md">variant</a> (excluding the <a href="Mudskipper_Knight.md">Knights</a>)</li>
+    <li>Slay 10, 25, and 100 Mudskippers of any <a href="Mudskipper_(disambiguation).md">variant</a> (excluding <a href="Mudskipper_Knight.md">Mudskipper Knights</a>)</li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>
@@ -184,7 +184,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   <td><a href="Nautilodaunt.md">Nautilodaunt</a></td>
   <td>Nautilodaunt Slayer I/II/III
   <ul>
-    <li>Slay 10, 25, and 100 <a href="Nautilodaunt.md">Nautilodants</a> or <a href="Fury_Nautilodaunt.md">Fury Nautilodaunts</a></li>
+    <li>Slay 10, 25, and 100 <a href="Nautilodaunt.md">Nautilodaunts</a> or <a href="Fury_Nautilodaunt.md">Fury Nautilodaunts</a></li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>
@@ -195,7 +195,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   <td><a href="Stone_Knight.md">Stone Knight</a></td>
   <td>Stone Knight Slayer I/II/III
   <ul>
-    <li>Slay 10, 25, and 100 Stone Knights of any variant</li>
+    <li>Slay 10, 25, and 100 Stone Knights of any variant (<a href="Stone_Knight.md">Stone Knight</a>, <a href="Stone_Knight.md#blizzard-knight">Blizzard Knight</a>, <a href="Star_Knight.md">Star Knight</a>, <a href="Moon_Knight.md">Moon Knight</a>)</li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>
@@ -239,7 +239,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   <td><a href="Thresher.md">Thresher</a></td>
   <td>Thresher Slayer I/II/III
   <ul>
-    <li>Slay 10, 25, and 100 Threshers of any variant</li>
+    <li>Slay 10, 25, and 100 Threshers of any variant (<a href="Thresher.md">Thresher</a>, <a href="King_Thresher.md">King Thresher</a>, <a href="Thresher.md">Void Thresher</a>, <a href="Nightmare_Thresher.md">Nightmare Thresher</a>)</li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>

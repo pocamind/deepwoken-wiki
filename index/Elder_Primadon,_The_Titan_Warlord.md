@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 149256
+revid: 149296
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -44,7 +44,7 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
  | 
 
--   To be completed
+-   Elder Primadon will raise his right foot and eventually stomp.
 
  | ◯ | ◯ | ◯ | TBA |
 | 
@@ -53,7 +53,7 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
  | 
 
--   To be completed
+-   Elder Primadon will raise his left foot, eventually stomping three consecutive times.
 
  | ◯ | ◯ | ◯ | TBA |
 | 
@@ -62,16 +62,18 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
  | 
 
--   To be completed
+-   Elder Primadon punches in front of him.
+    -   Elder Primadon can aim this move to hit people above.
+    -   Has a variable wind-up. (someone confirm this)
 
- | TBA | TBA | ◯ | TBA |
+ | ◯ | TBA | ◯ | TBA |
 | 
 
 **Kick**
 
  | 
 
--   To be completed
+-   Elder Primadon winds up his right leg before kicking forwards.
 
  | ✗ | ◯ | ◯ | TBA |
 | 
@@ -80,7 +82,8 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
  | 
 
--   To be completed
+-   Elder Primadon grabs in front of him, dealing massive damage after throwing his target.
+    -   This move is only used when the target is outside of stomping range.
 
  | ✗ | TBA | ◯ | TBA |
 | 
@@ -89,7 +92,9 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
  | 
 
--   To be completed
+-   Elder Primadon bows forward and throws five rocks at his target.
+    -   This move is only used when the target is outside of stomping and punching range.
+    -   This move will usually guard-break if fully blocked, so it is recommended to roll halfway through.
 
  | ✗ | ◯ | ◯ | TBA |
 | 
@@ -98,42 +103,56 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
  | 
 
--   To be completed
+-   Elder Primadon will jump backwards while throwing two rocks at his target.
 
- | TBA | TBA | TBA | TBA |
+ | TBA | ◯ | ◯ | TBA |
 | 
 
 Ground Slam
 
  | 
 
--   To be completed
+-   Elder Primadon bends his knees and lifts his arms up, eventually slamming down after a variable amount of time.
+    -   This move has a tell for when you should roll, which is his legs going forward slightly.
 
- | TBA | TBA | TBA | TBA |
+ | ✗ | TBA | ◯ | TBA |
 | 
 
 **Enrage**
 
  | 
 
--   To be completed
+-   At half health, Elder Primadon becomes enraged, roars and inflicts insanity to anyone affected.
+    -   When enraged, Elder Primadon will do attacks slightly quicker, but also leave much less room for attacks in between attacks.
+        -   You can still hit Elder Primadon twice with decently fast weapons after his generic kick and after he is finished with a stomp attack.
 
- | TBA | ◯ | TBA | TBA |
+ | ✗ | ◯ | TBA | TBA |
 | 
 
 Charged Stomp
 
  | 
 
--   Elder primadon charges a stomp
--   which deals a lot of damage.
+-   Elder Primadon brings his right foot high in the air and roars. After a short while, he stomps the ground, dealing colossal damage to anyone unfortunate enough to be under his feet.
+-   This move can be parried, but it's much easier to run away given how long he winds up the move for.
 
- | TBA | TBA | TBA | TBA |
-| Combo | Elder primadon does multiple
+ | ◯ | TBA | TBA | TBA |
+| Combo | 
 
-Stomps, Triple Stomps, and Grabs in quick succession.
+-   Elder Primadon does a stomp, a kick, then a triple stomp in quick succession.
+-   When Elder Primadon is enraged, the pause between the stomp, kick and triple stomp is near zero, meaning if you tried to hit him after the first stomp, you are getting kicked.
 
- | TBA | TBA | TBA | TBA |
+ | NA | NA | NA | TBA |
+| Feint | 
+
+-   Elder Primadon can feint in two ways:
+    -   When doing a stomp, he delays the stomp and eventually feints it.
+    -   When doing a triple stomp, he will stomp once, then feint the second.
+
+-   Afterwards, Elder Primadon will punch, and may sometimes also follow up with a kick.
+    -   You can block the kick, but this requires relatively high posture. Alternatively, you can roll cancel his punch so a second roll will be available for the kick.
+
+ | NA | NA | NA | TBA |
 
 ## Combat
 

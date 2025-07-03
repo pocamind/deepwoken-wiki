@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 149133
+revid: 149270
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, NPCs, NPCs located in the Eastern Luminant]
@@ -78,7 +78,7 @@ Amashi executes his opponent after knocking them:
   <td colspan="12">What do you mean?</td>
 </tr>
 <tr>
-  <td colspan="12">Fire is the heat of rage, but also the warmth of compassion. Do you wish to tame it as a Flamecharmer?</td>
+  <td colspan="12">Fire is the heat of rage, but also the warmth of compassion. Do you wish to tame it as a <a href="Glossary.md#flamecharm">Flamecharmer</a>?</td>
 </tr>
 <tr>
   <td colspan="12">Yes, what would you have me do?</td>

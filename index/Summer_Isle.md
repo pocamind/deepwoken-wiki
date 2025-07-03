@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 148183
+revid: 149293
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -215,7 +215,7 @@ Items and equipment that can be directly bought with currency.
 
 -   Encyclopedia
 -   Math Textbook
--   How To Make Friends
+-   [How to Make Friends](How_to_Make_Friends.md)
 -   Weapon Manual
 -   [Hunter's Brace](<Hunter's_Brace.md>)
 -   Self-Conducting Loop

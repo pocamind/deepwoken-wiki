@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 148749
+revid: 149298
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -80,6 +80,8 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
     -   [Megalodaunt Hide](Megalodaunt_Hide.md)
 -   [Megalodaunt](Megalodaunt.md) only
     -   [Megalodaunt Coral](Megalodaunt_Coral.md)
+-   [Exotic Megalodaunt](Exotic_Megalodaunt.md)
+    -   [Exotic Hide](Exotic_Hide.md)
 -   [Terrapod](Terrapod.md) and [Crimson Terrapod](Terrapod.md#crimson)
     -   [Strange Claw](Strange_Claw.md)
     -   [Terrapod Shell](Terrapod_Shell.md)
