@@ -1,9 +1,9 @@
 ---
 title: Bestiary
-revid: 149288
+revid: 149308
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Monsters, Bosses, World Event]
+categories: [Mechanics, Monsters, Bosses]
 ---
 
 # Bestiary
@@ -33,9 +33,9 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 <table><caption></caption>
 <tbody>
 <tr>
-  <th>Bestiary</th>
-  <th>Tasks</th>
-  <th>Reward</th>
+  <th><center>Bestiary</center></th>
+  <th><center>Tasks</center></th>
+  <th><center>Reward</center></th>
 </tr>
 <tr>
   <td><a href="Bone_Keeper.md">Bonekeeper</a></td>
@@ -159,7 +159,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   </ul></td>
 </tr>
 <tr>
-  <td><a href="Mudskipper.md">Mudskipper</a></td>
+  <td rowspan="2"><a href="Mudskipper.md">Mudskipper</a></td>
   <td>Dawn of the Drowned, 25 Drowns Later, Night of the Living Drowned
   <ul>
     <li>Slay 10, 25, and 100 Mudskippers of any <a href="Mudskipper_(disambiguation).md">variant</a> (excluding <a href="Mudskipper_Knight.md">Mudskipper Knights</a>)</li>
@@ -168,6 +168,18 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   <ul>
     <li>Total 30% damage and 15% resistance</li>
   </ul></td>
+</tr>
+<tr>
+  <td colspan="2">Additional flavor text is unlocked upon completing each task:<div><p><b>Dawn of the Drowned</b>:</p>
+  <ul>
+    <li><i>Mudskippers are not created by one specific organism, but by a wide variety of parasitic corals that originate from the Depths.</i></li>
+  </ul><p><b>25 Drowns Later</b>:</p>
+  <ul>
+    <li><i>Mudskipper corals will typically remain parasitic for up to a year before their host decomposes fully and they regress into larvae once more, ready to find new hosts.</i></li>
+  </ul><p><b>Night of the Living Drowned</b>:</p>
+  <ul>
+    <li><i>Some reports speak of Mudskippers capable of speech, eerily croaking out phrases they knew in life with no apparent thought behind them.</i></li>
+  </ul></div></td>
 </tr>
 <tr>
   <td><a href="Mudskipper_Brute.md">Mudskipper Brute</a></td>
@@ -254,9 +266,9 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 <table><caption></caption>
 <tbody>
 <tr>
-  <th>Bestiary</th>
-  <th>Tasks</th>
-  <th>Reward</th>
+  <th><center>Bestiary</center></th>
+  <th><center>Tasks</center></th>
+  <th><center>Reward</center></th>
 </tr>
 <tr>
   <td><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></td>
@@ -267,12 +279,18 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   <td>+5% damage and +2.5% resistance</td>
 </tr>
 <tr>
-  <td><a href="Duke_Ishamon_Erisia.md">Duke Ishamon Erisia</a></td>
+  <td rowspan="2"><a href="Duke_Ishamon_Erisia.md">Duke Ishamon Erisia</a></td>
   <td>Memories of Home
   <ul>
     <li>Slay 10</li>
   </ul></td>
   <td>+5% damage and +2.5% resistance</td>
+</tr>
+<tr>
+  <td colspan="2">Additional flavor text is unlocked upon completing <b>Memories of Home</b>:<div>
+  <ul>
+    <li><i>The Duke is known to have witnessed the Submergence of Celtor, an event that may well have set him down the path he chose.</i></li>
+  </ul></div></td>
 </tr>
 <tr>
   <td><a href="Dread_Serpent.md">Dread Serpent</a></td>

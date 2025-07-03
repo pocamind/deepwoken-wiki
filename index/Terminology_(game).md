@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 148150
+revid: 149306
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -465,8 +465,8 @@ These are general terms that are more specific but do not exclusively apply to c
 
 _noun, verb_
 
-1.  (Anti-Air Gun) Nickname for an anti-cheat mechanism that automatically kills or voids (see below) the player if it detects them to be flying (in mid-air for a long time). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
-    1.  Ex. "I just got AA gunned and wiped!"
+1.  (Anti-Air Gun) Nickname for an anti-cheat mechanism that automatically kills, or [voids](#void) (see below) the player if it detects them to be flying (in mid-air for a long time). It's most often encountered when being flung due to a collision issue. It can also refer to the act of being flung itself.
+    1.  Ex. "I just got AA gunned out of nowhere and wiped!"
 
 The term originates from the [AA Gun](https://rogue-lineage.fandom.com/wiki/AA_Gun) from _Rogue Lineage_, a cannon that served the same purpose of shooting down exploiters who utilize flying exploits.
 

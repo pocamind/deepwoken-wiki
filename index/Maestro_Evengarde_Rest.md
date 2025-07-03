@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 148435
+revid: 149315
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -363,3 +363,4 @@ Exhaustive Loot Table
 -   His Hair ID is 6101425666.
 -   He has heterochromia, meaning both his eyes are different colors. It is unknown if he is born with this or it's somehow gained from his powers.
 -   On the humanoid AI update, Maestro used to be bugged as his AI was swapped with a bugged version of the Bladeharper AI, he couldn't m1 or parry properly and did not even attack the player unless they used a critical attack or mantras, his **Mortal Draw: Floating Passage** was nerfed so that the final swing could be parriable as well. As of the 06/15/2025 patch, his AI was fixed and Maestro fights properly once more.
+-   Maestro is bugged and movestacks like his slots depends on it as of July 3 2025 remove when fixed

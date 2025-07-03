@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 149102
+revid: 149309
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -128,7 +128,7 @@ Dodgeable:◯
 
 -   Will daze targets if they hit a wall while ragdolled.
 
-**This move will insta-grip if it hits you while knocked or at low health, so git gud**  
+**This move will insta-grip if it hits you while knocked or at low health**  
 Parryable:✗  
 Blockable:◯  
 Dodgeable:◯

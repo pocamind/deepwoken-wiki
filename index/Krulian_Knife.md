@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 148792
+revid: 149324
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals, Light Weapons, Pages with broken file links]
@@ -28,19 +28,20 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals
 
 ## Description
 
-The Krulian Knife is a boss weapon [dagger](Weapons.md) either obtained by defeating the [Ferryman](The_Ferryman.md) in any of his chests or guaranted in winter, or buying it from a [Merchant Ship](Travelling_Merchant.md) or [Traan Zakshun](Traan_Zakshun.md). This weapon has a base damage of 12.5 and requires 75 Light Weapon to equip. As the endgame weapon of daggers, it boasts a base 20% penetration against armor and extremely high swing speed and scaling.
+The Krulian Knife is a boss weapon [dagger](Weapons.md) either obtained by defeating the [Ferryman](The_Ferryman.md) in any of his chests, or buying it from a [Merchant Ship](Travelling_Merchant.md) or [Traan Zakshun](Traan_Zakshun.md). This weapon has a base damage of 12.5 and requires 75 Light Weapon to equip. As the endgame weapon of daggers, it boasts a base 20% penetration against armor and extremely high swing speed and scaling.
 
 ## Critical
 
-The Krulian Knife has a special critical attack, called Krulian Charge. when used, the player points the weapon towards the sky, which is then struck by purple lightning, charging m1 attacks with electricity until the effect runs out.
+The user raises the knife into the sky, causing pink lightning to strike the weapon and giving the user the Krulian Charge effect, causing their weapon to be electrified with pink lightning.
 
-Using your critical attack again during the duration of Krulian Charge's effect will execute an attack exactly like Lightning assault, except colored purple. This attack has 30 base damage with **5 Thundercall** scaling, increasing by 0.15 per point in Thundercall. After this, the Krulian Charge goes on cooldown. If a critical attack is made during this period, the weapon will perform the default dagger critical.
+While under the Krulian Charge effect, using basic attacks applies [Shocked](Status_Effects.md#shock) as well as the critical causing the user to rush forward with lightning similar to the [Lightning Assault](Thundercall.md#lightning-assault-) mantra.
 
-NOTICE: Krulian Knife critical is currently bugged at of right now (6:10 6-1-2025), using the Krulian Charge and Default Knives critical (The flurry of slashes) Will put both abilities on a cooldown with seemingly infinite duration, It's recommended that you, the players don't use the weapon until this bug is patched in an update.[\[1\]](#cite-note-1)
+This attack has 30 base damage with **5 Thundercall** scaling, increasing by 0.15 per point in Thundercall.
 
 ## Trivia
 
 -   This blade's appearance is a reference to one of many Ben's Knives, from the Anime "Hunter x Hunter".
+-   The Krulian Knife's critical is currently bugged, where it will go on an infinite cooldown after Krulian Charge expires, despite the effect lingering in its cooldown bar.[\[1\]](#cite-note-1)
 -   Meeting the requirement of LHT, the damage is (19.9)
 -   At max LHT, the damage is (22.3)
 

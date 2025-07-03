@@ -1,0 +1,34 @@
+---
+title: Parasol Part
+revid: 149314
+source: https://deepwoken.fandom.com/wiki/Parasol_Part
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items, Drops, Ingredients]
+---
+
+# Parasol Part
+
+| Parasol Part | |
+|---|---|
+| value | 5,000 |
+| weight | None |
+| type | Monster Material |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | Pathfinders who wish to study the Parasol would gawk at the sight of a piece of the Parasol. Some believe it could be an important tool to understanding the reasons as to why creatures of the Depths even exist. Others simply wish to use the parts for stronger armor. |
+
+## Description
+
+**Parasol Part** is a direct drop from [Interluminary Parasol](Interluminary_Parasol.md). Only one can drop per kill, making this item rare and sought after.
+
+## Uses
+
+-   Currently unknown.
+-   The item's description hints at being used for making armor, however there currently aren't any known [Outfits](Outfits.md) that utilize this item in their crafting recipe.
+
+## Trivia
+
+-   This item has the single highest sell value out of any item in the game, being.
+    -   With [Snake Oil](Talents.md#silvertongue), you can sell this for.
+-   This item's model is identical to the [Terrapod's](Terrapod.md) claws.
