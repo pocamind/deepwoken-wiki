@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 142729
+revid: 149242
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]
@@ -46,3 +46,4 @@ The user performs a fast forward thrust that ragdolls players and pushes them aw
 -   It was the only weapon created for Hallowtide 2023 that was not teased by the announcement revealing the release date, with the [Mushroom Costume](Mushroom_Costume.md) being teased instead.
 -   It is the only weapon in the Fists category that deals Bleed damage.
 -   This weapon comes with a light source. The light source is still visible when using Curse of Yun'Shul.
+-   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Drakemaw Gauntlets.

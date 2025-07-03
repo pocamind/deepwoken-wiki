@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 146901
+revid: 149241
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists, Light Weapons]
@@ -78,12 +78,11 @@ Both criticals share the cooldown of **10 seconds**.
 
 -   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or uppercut because of incredible posture damage and low windup.
     -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
-
 -   It is similar to "Tekagi-Shuko", a weapon comprised of deadly "claws" that protrudes from the palm, utilized by ninjas. Or the weapon might be inspired by the Marvel comics character, Wolverine, specifically his metal claws of similar design.
 
--   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and are replaced by the chained gauntlet. It is unsure if this is intentional or not.
+-   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and are replaced by the chained gauntlet.
     
 -   It seems as if your slot has Mute regalia (animal king), Grudge will not spawn on you. (needs more testing)
 -   While using the criticals it will play the sound of a bear roaring.
 -   The latter part of the weapon's description is speculated to be a meta comment on the common and popular criticism from the Deepwoken community by veteran players.
--   The [Fang and Coil](Fang_and_Coil.md) running crit is not added with the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit
+-   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on Wraithclaw.

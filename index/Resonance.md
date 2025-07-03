@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 148928
+revid: 149247
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -251,7 +251,7 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 
 -   You need Power 3 to reroll your bell
 -   **Resonances** cannot be used when doing [Chime of Conflict 1v1s](Chime_of_Conflict.md).
--   The higher the level you are, the easier it is to obtain a **Resonance**
+-   The higher the level you are, the easier it is to obtain a **Resonance**. This is because every time you power up, the requirements for your resonance lower, rather than getting more experience towards your resonance per power level.
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
 -   The most popular, now debunked, method around the time _Deepwoken_ released involved staying in The Depths for **seven hours straight** whilst farming for level & luck. Although being comically wrong, it set the groundwork for people to discover the truth behind **Resonances.**
 -   A number of doors other than the one at the [Temple of Hearts](Temple_of_Hearts.md) require a **Resonance** to open. One was at the end of the parkour in the Depths prior to it becoming the home of the Diluvian Mechanism, one is in Saramaed Summit, and one is near a waterfall at [Aratel Island](Aratel_Island.md).

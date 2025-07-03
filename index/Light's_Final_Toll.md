@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 146906
+revid: 149245
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Light Weapons]
@@ -32,7 +32,7 @@ Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats besid
 
 The maximum damage that this weapon can reach with with 6 Proficiency, 103 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 34.
 
-Works with _[Way of Navae](Way_of_Navae.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_ The Critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd critical must be landed twice.)
+Works with _[Way of Navae](Way_of_Navae.md)_, _[Fang and Coil](Fang_and_Coil.md)_, and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_ The Critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd critical must be landed twice.)
 
 The color of the lantern signifies what Critical will be used next:
 
@@ -52,7 +52,9 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
     -   When the March 23rd, 2024 update came, the weapon requirements were updated to make it share a req. (65 WLL → 60 WLL, 35 LHT)
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
--   One of the few weapons (The other weapons being the [Vortex Echo](Vortex_Echo.md), [Flareblood Kamas](Flareblood_Kamas.md), [Kyrsieger](Kyrsieger.md), [Soulthorn](Soulthorn.md), [Fractine](Fractine.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [Kanabo](Kanabo.md), [Imperial Staff](Imperial_Staff.md), and [Imperator's Edge](<Imperator's_Edge.md>)) that can gain scaling past 100, as with +2/3 WLL races, you can get to a "weapon stat" of 102/103.
+-   One of the few weapons that can gain scaling past 100, as with +2/3 WLL races, you can get to a "weapon stat" of 202/203.
 -   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLL.
 -   Before October 20th, 2023, the weapon used the base critical for the active fist style.
 -   Before February 13th, 2023, this weapon wasn't Legendary, and was therefore [enchantable](Enchantments.md).
+-   [Fang and Coil](Fang_and_Coil.md) is the only traditional [Fist Style](Fists.md) to lack a critical variant for Light's Final Toll. Using Fang and Coil with the Light's Final Toll will utilize the Navae critical.
+-   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Light's Final Toll.

@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 149188
+revid: 149256
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -10,9 +10,9 @@ categories: [Monsters, Bosses]
 
 Template:Creature Infobox V3
 
-“ The isle of Monkey's Paw trembles beneath the thunderous steps of The Elder. ”
+“ ROOOOOOOOOOOOOOOARGH ”
 
-― Update Teaser
+― Elder Primadon, The Titan Warlord
 
   
 

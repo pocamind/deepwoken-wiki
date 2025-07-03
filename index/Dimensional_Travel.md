@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 149011
+revid: 149248
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -58,6 +58,7 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 
 ## Tips/Trivia
 
+-   Upon successful exiting The Interstice, you will be unable to interact with chests for 30 seconds.
 -   If used while in combat, Dimensional Travel will have a significantly longer windup that can be interrupted by being hit.
 -   Like [Portals](Portals.md), Dimensional Travel can be very useful in ambushing/ganking other players. It is even harder to detect than Portals.
 -   Despite looking like a better than average area for combat, it is _**incredibly dangerous**_ to fight in [The Interstice](The_Interstice.md) while in the [First Layer](First_Layer.md), as being forcefully teleported out of the realm by falling into an opening or being downed and being above the void can result in an instant wipe.

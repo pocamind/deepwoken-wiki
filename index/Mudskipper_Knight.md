@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Knight
-revid: 149016
+revid: 149229
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths, Eastern Luminant]
@@ -63,3 +63,7 @@ Dodgeable: ◯
 -   Parrying is essential when combating one as an inexperienced player can die easily to it.
     -   It's essentially a skill check.
 -   This trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights despite having no special gimmicks, and it being an overall skill check for the level. Though with enough practice, it can be done flawless like any other monster.
+
+## Trivia
+
+-   Mudskipper Knights do **not** count as Mudskipper kills in the [Bestiary](Bestiary.md).

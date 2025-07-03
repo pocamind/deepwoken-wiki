@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 146903
+revid: 149243
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
@@ -47,5 +47,5 @@ The Template:AlloyedColor critical has the same animation with a new visual and 
 -   Using Lootskipper or Vow of Thorns to get the Coral Cestus is not recommended, as their rarest drop is actually [Martial Artist](Martial_Artist.md), lowering the drop rate of these.
 -   The upper front of the fist resembles a brass knuckle, or a knuckle duster.
 -   The crit can be easily cancelled, even being able to be countered with a single m1, so it's wise to only use the crit when your enemy is under pressure.
--   This is the second weapon to change descriptions when alloyed
--   Currently the only cestus that can be alloyed
+-   Currently the only cestus that can be alloyed.
+-   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Coral or Broodlord Cestus.

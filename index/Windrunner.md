@@ -1,9 +1,9 @@
 ---
 title: Windrunner
-revid: 144689
+revid: 149259
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Talents, NPCs located in the Etrean Luminant]
+categories: [NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Windrunner
