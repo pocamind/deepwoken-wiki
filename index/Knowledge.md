@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 147351
+revid: 149389
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -93,5 +93,6 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 -   Knowledge is not simply just knowing about things; it is specifically "forbidden knowledge" as described by Klaris, which explains why it is valuable enough to be traded with other beings.
     -   As such, the Moonseye Tome likely floods the user's mind with aforementioned forbidden knowledge. As the cacophony and madness of the voices decreases, so too does the Knowledge granted by the tome.
 -   In an unknown update, the symbol for Knowledge was visually touched up.
+-   There was a bug introduced in the 30th of June 2025 update that made every enemy kill grant knowledge, leading to players amassing thousands of knowledge. This was hotfixed in a patch the same day.
 
 Previous Knowledge icon

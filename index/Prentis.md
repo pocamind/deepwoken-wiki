@@ -1,6 +1,6 @@
 ---
 title: Prentis
-revid: 144913
+revid: 149392
 source: https://deepwoken.fandom.com/wiki/Prentis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, Summer Company]
@@ -25,6 +25,8 @@ She shares a common dislike for The Guy with Sierra and Mercille.
 Sierra is located in [Bluster Rift](Bluster_Rift.md), sitting at a campfire in a little fort built infront of [Meteor Isle](Meteor_Isle.md)
 
 ## Dialogue
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -54,8 +56,23 @@ Sierra is located in [Bluster Rift](Bluster_Rift.md), sitting at a campfire in a
 </tr>
 <tr>
   <td colspan="2">End</td>
-  <td colspan="2">End</td>
-  <td colspan="2">End</td>
+  <td colspan="6"></td>
+</tr>
+</tbody>
+</table>
+
+**Becoming The Guy:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td colspan="">So you're calling yourself 'The Guy' now too, huh? Gods below... <i>*They pinch their brow and sigh.*</i></td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

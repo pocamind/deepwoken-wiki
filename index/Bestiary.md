@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 149308
+revid: 149401
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -26,7 +26,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 -   'Resilient' Monsters (such as [Enforcers](Enforcer.md) or [Bounders](Bounder.md)) have halved damage and resistance bonuses.
     -   While most monsters are +10% damage/5% resistance per milestone, totaling to +30% damage and +15% resistance, 'resilient' monsters only grant +5% damage and +2.5% resistance per milestone, totaling to +15% damage and +7.5% resistance.
 
-## Bestiary Tasks
+## Bestiary Challenges
 
 ### Monster Tasks
 

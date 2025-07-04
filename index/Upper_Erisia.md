@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 141866
+revid: 149396
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -30,7 +30,7 @@ Upper Erisia is home to many sub-locations and is home to a variety of NPCs and 
 -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
 -   [Erisor's Church](<Erisor's_Church.md>)
 -   [The Hidden Village](The_Hidden_Village.md)
--   The Garden Reservoir
+-   [The Garden Reservoir](The_Garden_Reservoir.md)
 -   [The Birdcage](The_Birdcage.md)
 -   [The Rat's Den](<Rat's_Den.md>)
 

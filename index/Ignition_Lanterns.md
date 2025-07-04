@@ -1,6 +1,6 @@
 ---
 title: Ignition Lanterns
-revid: 146324
+revid: 149393
 source: https://deepwoken.fandom.com/wiki/Ignition_Lanterns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
@@ -31,7 +31,7 @@ They are scattered around the first floor of the Second Layer, with most of them
 3.  The third location is in the [Firfire Caverns](Firfire_Caverns.md), near the [Kyrsan Camp](Firfire.md). At the door that you need to press a blue button to open, you can find the Lantern on its left side when you exit.
 4.  The fourth location is in [The Maw of Ethiron](The_Maw_of_Ethiron.md), in the first left tower. Hanging next to the front door.
 
-The blue lanterns are found within the Galewax Secret, having three in said area.
+The blue lanterns are found within the Galewax Secret, and having three in the area.
 
 ## Trivia
 

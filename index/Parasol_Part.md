@@ -1,6 +1,6 @@
 ---
 title: Parasol Part
-revid: 149314
+revid: 149398
 source: https://deepwoken.fandom.com/wiki/Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -26,6 +26,7 @@ categories: [Items, Drops, Ingredients]
 
 -   Currently unknown.
 -   The item's description hints at being used for making armor, however there currently aren't any known [Outfits](Outfits.md) that utilize this item in their crafting recipe.
+-   This item **cannot** be used in [brewing](Alchemy.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 148811
+revid: 149394
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -32,7 +32,7 @@ The Curved Blade of Winds is a weapon in _Deepwoken_.
 
 ## Description
 
-The **Curved Blade of Winds** is a Legendary [Sword](Weapons.md) that can cut through both air and guards with breeze. The blade curves like the start of a spiral, and within its blade is Galebreathe energy showing in swirling eddies and dotted swirls. It scales with both Medium Weapon and [Galebreathe](Galebreathe.md).
+The **Curved Blade of Winds** is a Legendary medium [Sword](Weapons.md) that can cut through both air and guards with breeze. The blade curves like the start of a spiral, and within its blade is Galebreathe energy showing in swirling eddies and dotted swirls. It scales with both Medium Weapon and [Galebreathe](Galebreathe.md).
 
 This weapon comes with two passive abilities:
 
@@ -64,7 +64,7 @@ The user shoots a blast of air and on collision or after a short amount of time 
 ## Trivia
 
 -   The sword is similar to a Chinese Dadao sword, which are machete-like daos.
-    -   The [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) also is fashioned after one.
+    -   The [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is also fashioned after one.
     -   The original model of the Curved Blade of Wind closely resembled the Windshear from The Elder Scrolls V: Skyrim.
 -   The original updated Curved Blade of Winds contained an absurd 120k vertices. Following the March 27th, 2023 update, this was reduced to a mere 7k vertices.
 -   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", which has no meaning.

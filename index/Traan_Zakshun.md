@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 149164
+revid: 149404
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -211,12 +211,13 @@ Sold Items
   </ul><p><b>For </b>:</p>
   <ul>
     <li><b><font>Heavy Weapons</font></b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.</li>
+  </ul><p><b>For </b>:</p>
+  <ul>
+    <li><b><font>Heavy Weapons</font></b>: <a href="Night_Axe.md">Night Axe</a>.</li>
   </ul></td>
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Black Market
 
