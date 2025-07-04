@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 115008
+revid: 149369
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations]
@@ -105,7 +105,7 @@ Below is a list of potential items that can spawn in Bluster Rift.
 -   [Legion Cestus](Legion_Cestus.md) (Uncommon)
 -   [Apprentice's Rapier](Apprentice_Rapier.md) (Uncommon - Rare)
 -   [Iron Birch](Iron_Birch.md) (Rare)
--   Master Hawk's Handaxe (Rare)
+-   [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) (Rare)
 -   [Pale Morning](Pale_Morning.md) (Rare)
 -   [Forgotten Gladius](Forgotten_Gladius.md) (Rare)
 -   [Sacred Hammer](Sacred_Hammer.md) (Rare)

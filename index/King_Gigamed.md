@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 148069
+revid: 149351
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -37,7 +37,12 @@ Commonly referred to as **Mama/Mother Jellyfish & King Jellyfish**.
 
 ### Finisher
 
--   **Bull-Suck** - Teleports to you and drives itself into your body, consuming you. This is a very fast gripping animation, so don't underestimate it.
+| Name | Description |
+| --- | --- |
+| 
+**Bull Suck**
+
+ | Teleports to you and drives itself into your body, consuming you. This is a very fast gripping animation, so don't underestimate it. |
 
 ## Trivia
 

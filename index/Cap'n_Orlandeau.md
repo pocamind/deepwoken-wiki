@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 143864
+revid: 149374
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -274,7 +274,7 @@ Talking to him before selling to the Antiquarian:
 > 
 > 1.  \[End Dialogue\]
 
-Talking to him after selling something (not necessarily his emerald):
+Talking to him after selling something (not necessarily [his emerald](<Orlandeau's_Emerald.md>)):
 
 > Cap'n Orlandeau: It brings a tear to my eye... you're a natural scalper already! _\*The man proudly pats your shoulder with a wide grin.\*_ Just like yer cap'n! Now, let's put those notes to use. Try purchasing that **Dumbbell** on the table there with yer hard-earned notes!
 > 

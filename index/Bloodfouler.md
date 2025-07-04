@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 147844
+revid: 149382
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -53,4 +53,4 @@ While running when performing the critical, you will move forward at the same sp
 -   The sheathe depicts symbols of [The Ministry](The_Ministry.md), alongside an emblem resembling the symbol for [Notes](Notes.md), the [Moonseye](Moonseye.md), and another pattern.
 -   The creator of the Bloodfouler is likely an Etrean due to the Ministry's ties with Etrea, as well as the weapon's shape being derived from Etrean make.
 -   It does not change appearance with Alloyblood.
--   Despite coming with a sheathe, the Poser’s Ring does not work with it and nor does the Paired Soul Talent from the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) [Outfits](Outfits.md).
+-   Despite coming with a sheathe, the [Poser's Ring](<Poser's_Ring.md>) does not work with it and nor does the Paired Soul Talent from the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) [Outfits](Outfits.md).

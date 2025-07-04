@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 148339
+revid: 149379
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -759,7 +759,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.8s | Execute (Sword) |
 |  | 2.3s | Execute (Heavy Weapon / Monster) |
 |  | 1.8s | Execution Spin (Gun) |
-|  | 1.3s | Killing Monster \[1\] / Poser's Ring (Activation) |
+|  | 1.3s | Killing Monster \[1\] / [Poser's Ring](<Poser's_Ring.md>) (Activation) |
 |  | 1.3s | Killing Monster \[2\] |
 |  | 2.0s | Killing Monster \[3\] |
 |  | 1.7s | [Rock Golem](Rock_Golem.md) + [Stone Knight](Stone_Knight.md) Death |

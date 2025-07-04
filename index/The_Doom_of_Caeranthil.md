@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 148439
+revid: 149343
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -53,9 +53,7 @@ Parryable:✗
 Blockable:✗  
 Dodgeable:◯
 
- | 
-
- |
+ |  |
 | 
 
 **Sudden Ambush**  
@@ -82,7 +80,9 @@ Parryable:◯
 Blockable:✗  
 Dodgeable:?
 
- |  |
+ | 
+
+ |
 | 
 
 **Tidal Roar**  

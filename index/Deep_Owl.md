@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 148457
+revid: 149342
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies]
@@ -19,6 +19,10 @@ Template:Creature Infobox V3
 The **Deep Owl** (also referred to simply as "Owl") is a relatively uncommon [monster](Monsters.md) found in [Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md) and [The Depths](The_Depths.md). Owls can also be found in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper's Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. Owls are related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) and illusion magic.
 
 Deep Owls will only spawn in the Etrean Luminant while the moon is out. This restriction does not apply to The Depths, nor the Deep Owl in [The Lordsgrove](The_Lordsgrove.md).
+
+“ Yes, we Owls... Or I suppose, that's just how we appear to your limited perceptive abilities... An insidious predator that feasts on the meek... ”
+
+― The Nestmind
 
 All Owls are part of a hivemind named [The Nestmind](The_Nestmind.md). Talking to it gives us unique insight on what these otherworldly predators are. It is said by The Nestmind that Visionshapers in a point of their life tries to become an owl, meaning that maybe some but not all owls that appear in Deepwoken are old [Visionshapers](Oath%253A_Visionshaper.md) who have become an owl through unknown means.
 

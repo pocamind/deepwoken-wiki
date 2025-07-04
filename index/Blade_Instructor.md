@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 145786
+revid: 149380
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Etrea, Kingdom of Etrea Enemies, Etrean Luminant]
@@ -58,7 +58,7 @@ If the Instructor is the one that downs the player they will disappear and the p
 
 ## Trivia
 
--   The Instructor could be killed by using moves that instantly grip opponents when they are on low HP, using certain moves, like Mani Katti, and employing burn. You could also grip him with help of the Poser's Ring with a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md), dealing enough damage and then sheathing your katana will knock him and you can grip him.[\[1\]](#cite-note-vigilguardsdgaf-1)
+-   The Instructor could be killed by using moves that instantly grip opponents when they are on low HP, using certain moves, like Mani Katti, and employing burn. You could also grip him with help of the [Poser's Ring](<Poser's_Ring.md>) with a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md), dealing enough damage and then sheathing your katana will knock him and you can grip him.[\[1\]](#cite-note-vigilguardsdgaf-1)
 -   The [Blade Temple Guards](Blade_Temple_Guard.md) did not react should an Instructor be gripped near them.[\[1\]](#cite-note-vigilguardsdgaf-1)
 -   Defeating one sometimes grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Etrea.md), usually when you don't get a health pack from killing them.
 -   Gripping them would prompt them to say 'Hey, what do you think you're doing?!'

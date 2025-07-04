@@ -1,6 +1,6 @@
 ---
 title: "Diver's Ring"
-revid: 147952
+revid: 149377
 source: https://deepwoken.fandom.com/wiki/Diver's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -30,4 +30,4 @@ The Diver's Ring is a Ring [Equipment](Equipment.md) item that provides a +5% da
 ## Trivia
 
 -   Might stack with dual ring equip glitch (Needs testing)
--   The Diver's Ring model is a recolor of the Poser’s Ring
+-   The Diver's Ring model is a recolor of the [Poser's Ring](<Poser's_Ring.md>)

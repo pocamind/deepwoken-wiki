@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 147904
+revid: 149355
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -114,9 +114,11 @@ Dodgeable:◯
 
  | If hit by any move that utilizes the Song (such as a Mantra, certain Resonances, or a Vent from the player), the Nautilodaunt will near-completely negate the damage of said mantra. This can happen even during other moves. |
 
-### Finisher
+## Finisher
 
--   **"Mudskipperification"** - The Nautilodaunt punches the now-incapacitated player one final time, turning them into a [Mudskipper](Mudskipper.md).
+| Name | Description |
+| --- | --- |
+| **Mudskipperification** | Punches the victim's head with a parasite in it's hand, inserting it into their skull and turning them into a Mudskipper. |
 
 ### Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 148455
+revid: 149357
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -61,15 +61,32 @@ Parryable:✗
 
  | The Lionfish raises its entire body upwards, opening its jaws to begin charging up a purple orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its target that deals **55 damage** (corrupted Lionfish deal **165 damage** with this move). The Lionfish can also use Cero specifically to grip knocked players with an extremely reduced windup. Cero used in this way will have an auditory difference as the sound of the charge up will be sped up and higher pitched. If the player is low enough, It will **AUTO-GRIP** them. **(Depths Exclusive)**
 
--   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
-
 Parryable:✗
 
  |
 
 ## Passives
 
+-   **Soul Evisceration** - Should the Lionfish's Cero attack execute a player, no lootbag or body can be found post-mortem. It also makes no wipe sound effects. The victim disappears without a trace.
+    -   This means that no items are recoverable from the player should they die to the attack.
+
 -   **Monster Resistance** - Physical attacks deal ??? less damage to the Lionfish.
+
+## Finisher
+
+A Lionfish executes the player via:
+
+| Name | Description |
+| --- | --- |
+| 
+**Swallowed Whole**
+
+ | The Lionfish bites the player and consumes them whole. |
+| 
+
+**No Trace Left Behind**
+
+ | The Lionfish begins charging a Cero but fires it noticeably quicker than the usual attack, eviscerating the body and leaving nothing behind. _\[Depths Only\]_ |
 
 ## Tips & Tricks
 

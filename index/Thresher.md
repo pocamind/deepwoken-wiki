@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 149092
+revid: 149350
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,6 +8,11 @@ categories: [Monsters]
 
 # Thresher
 
+“ \[...\] It appears these crocodilians were subject to such phenomena, having traded their eyesight for a keen sense of smell and an arsenal of lethal weaponry that has allowed them to flourish following the Tides. ”
+
+― Thresher Spine Description'
+
+  
 Template:Creature Infobox V3
 
 ## Description
@@ -76,7 +81,9 @@ Dodgeable:◯
 
 ## Finisher
 
-The Thresher picks up the target with its mouth and violently shakes its head before eating them.
+| Name | Description |
+| --- | --- |
+| **Death Rattle** | Picks the victim up in it's mouth and violently shakes it's head around, tearing them to pieces. This is deceptively quick. |
 
 ## Passives
 

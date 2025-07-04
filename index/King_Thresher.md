@@ -1,12 +1,16 @@
 ---
 title: King Thresher
-revid: 148123
+revid: 149349
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # King Thresher
+
+“ As Thresher nests become more gregarious and populated, a shift in their behaviour takes place, with the males growing in size and competing with one another. \[...\] This escalates into an undefeated 'King' emerging, standing at a stature far above its kin and leading the pack. Threshers led by a King are emboldened and may be found scouting far beyond their nest in order to expand their territories. ”
+
+― King Thresher Spine Description'
 
 _Also known as Big/King Croc, Mother Thresher, and many other names_ Template:Creature Info Box v2
 
@@ -75,7 +79,7 @@ Dodgeable:✗
 
 | Name | Description |
 | --- | --- |
-| Devour | Flings the victim vertically into the air with its mouth, then catches it to eat it whole. |
+| **Circus Trick** | Flings the victim vertically into the air with its mouth, then catches it to eat them whole. |
 
 ## Passives
 

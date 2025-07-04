@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 148091
+revid: 149353
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -70,6 +70,12 @@ Dodgeable:◯
 ### **Passives**
 
 -   **Strong Monster Resistance** - Physical attacks deal 50% less damage to Bounders.
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| **Feast** | Picks the victim up with both hands and opens it's mouth wide open, then places them in it's mouth, eating them. |
 
 ## Trivia
 

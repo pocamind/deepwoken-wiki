@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 149101
+revid: 149384
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1713,7 +1713,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
-    -   Prerequisite: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
+    -   Prerequisite: "Flamecharmer Ploom" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
 
 -   Simmerbloom \[Common Talent\] - M1's on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
@@ -2887,12 +2887,12 @@ _**"My cure is most effective."**_
 -   Emergency Repairs \[Common Talent\] - Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship. (+2 Carry Load)
     -   Repairing restores 25% more HP to the boat when it's below 25% HP.
     -   Your repairs scale with the health of the ship by \[needs testing\].
-        -   Prerequisite: Automatically gained after using the Repair Hammer 11 times.
+        -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 11 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.
 
 -   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death. (+2 Carry Load)
     -   Repairing restores 400 HP instead of 250 HP.
-        -   Prerequisite: Automatically gained after using the Repair Hammer 51 times.
+        -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 51 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.
 
 ### Silencer

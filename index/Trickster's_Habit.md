@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 141244
+revid: 149334
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -39,6 +39,7 @@ List of buffs being:
 List of afflictions being:
 
 -   Suffocation applied to self for a few seconds.
+    -   If you have Haunted Path: Specter it will instead spawn an apparition and apply winded.
 -   Randomizes your Spit CD, anywhere between 5-20~ seconds. Indicated by a ''Black cross'' effect.
 
 ## Location

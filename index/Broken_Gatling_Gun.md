@@ -1,6 +1,6 @@
 ---
 title: Broken Gatling Gun
-revid: 139566
+revid: 149371
 source: https://deepwoken.fandom.com/wiki/Broken_Gatling_Gun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -22,4 +22,4 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 
 The Broken Gatling Gun is a rare item dropped by [Mechalodaunts](Mechalodaunt.md). Despite its namesake, it is shaped like a blue metal sheet.
 
-Can be given to [Carrion](Carrion,_Father_of_Evolution.md) to obtain the Monster Mantra Mecha Gatling.
+Can be given to [Carrion](Carrion,_Father_of_Evolution.md) to obtain the [Monster Mantra](Monster_Mantras.md) [Mecha Gatling](Monster_Mantras.md#mecha-gatling).

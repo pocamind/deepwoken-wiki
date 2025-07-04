@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 147109
+revid: 149363
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -112,7 +112,7 @@ Sparse cloud of black feathers that gently fall down around an area. Upon enteri
 
 #### Bandit Attack
 
-In Etris two [bandits](Bandit.md) can spawn in front of the guards near the entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. This event is triggered to occur when a player comes within range of the entrance so hearing this event without your presence is a blatant sign of another player. There's a small chance for them to drop low tier mantra modifiers. At the [Isle of Vigils](Isle_of_Vigils.md), they spawn on a bridge leading to the [Barber](Barber.md) shop.
+In [Etris](Etris.md) two [bandits](Bandit.md) can spawn in front of the guards near the entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. This event is triggered to occur when a player comes within range of the entrance so hearing this event without your presence is a blatant sign of another player. There's a small chance for them to drop low tier mantra modifiers. At the [Isle of Vigils](Isle_of_Vigils.md), they spawn on a bridge leading to the [Barber](Barber.md) shop.
 
 #### Brainsucker Swarm
 

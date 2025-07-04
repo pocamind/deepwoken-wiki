@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 141322
+revid: 149362
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -19,7 +19,7 @@ Character attributes will permanently be unbounded if you have previously done t
 ### Strength Unbound
 
 1.  Reach 75 Strength.
-2.  Enter [the Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md).
+2.  Enter the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md).
 3.  Open the hidden door behind the fallen pylon. Can be achieved with Strong Left or any similar skill that can break down rock doors.
 4.  Use Strong Left on the coffin in the room, and then climb down the ladder within.
 5.  Read the book on the ground, and Strength Unbound will be granted.
@@ -69,7 +69,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 ### Charisma Unbound
 
 1.  Reach 75 Charisma.
-2.  Start Karliah's Quest in [Etris](Etris.md).
+2.  Start [Karliah's Quest](Etris.md) in [Etris](Etris.md).
 3.  In [Lower Erisia](Lower_Erisia.md), above the mines, save Karliah from the [Mudskipper](Mudskipper.md) eating her.
 4.  Talk to Karliah and make sure to select the last dialogue option. The first and second option will result in her demise, either by [Horseshoe Crabs](Horseshoe_Crab.md) or by the hands of the player, **thus locking you out of unbounding Charisma.**
 5.  Return to Etris and talk to Karliah again, finish her dialogue to obtain Charisma Unbound.

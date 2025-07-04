@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 146076
+revid: 149368
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -17,7 +17,7 @@ _For the version that existed prior to the 13th September, 2024, see [here](Oath
 
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
-― -The Dreadstar
+― The Dreadstar
 
 ## Description
 
@@ -27,7 +27,11 @@ _For the version that existed prior to the 13th September, 2024, see [here](Oath
 
 ― Obtaining Silentheart
 
-Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a mysterious entity residing in the [Voidsea](Voidsea.md) made from the souls of various deceased individuals. Vengeful due to its death at the hands of the users of Mantras, it falsely believes it can rewire the hearts of those willing to engage in a Vow with it to avoid using the Song. Upon the Silentheart reaching their true potential, the Dreadstar fuses with them to form a single entity. Unfortunately, the Song is so permeating that the Silentheart is only able to sidestep the Mantras that killed them; their newfound abilities too rely on the Song. Had it truly become disconnected, the Silentheart would have become an ordinary human being with little strength or durability, akin to a [Lightkeeper](Lightkeep.md) and their inability to use the Song. The Dreadstar references a "Keeper," implying it to have connections to Yun’Shul.
+Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a mysterious entity residing in the [Voidsea](Voidsea.md) made from the souls of various deceased individuals. Vengeful due to its death at the hands of the users of Mantras, it falsely believes it can rewire the hearts of those willing to engage in a Vow with it to avoid using the Song. Upon the Silentheart reaching their true potential, the Dreadstar fuses with them to form a single entity.
+
+Unfortunately, the Song is so permeating that the Silentheart is only able to sidestep the Mantras that killed them; their newfound abilities too rely on the Song. Had it truly become disconnected, the Silentheart would have become an ordinary human being with little strength or durability, akin to a [Lightkeeper](Lightkeepers.md) and their inability to use the Song.
+
+The Vow is one of malevolent nature however, as The Dreadstar likely gave the user's previous, song-attuned heart to the Drowned God [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>), possibly in an attempt to earn their favour. This is evidenced by The Dreadstar themselves, who state that the user's "Heart has already been claimed" upon Oathbreak.
 
 ## Obtainment
 

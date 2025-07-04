@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 139805
+revid: 149333
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -40,6 +40,7 @@ List of afflictions being:
 
 -   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s.
 -   Suffocation applied to self for a few seconds.
+    -   If you have Haunted Path: Specter it will instead spawn an apparition and apply winded.
 -   Lowers your Swingspeed. Indicated by black 'x' marks coming off of your body.
 
 ## Location

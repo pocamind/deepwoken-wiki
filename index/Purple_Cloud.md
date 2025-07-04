@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 146939
+revid: 149378
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons]
@@ -42,7 +42,7 @@ The critical has a cooldown of **7 seconds**.
 
 -   Meeting the requirement of MED, the weapon deals 26 damage.
 -   At max MED, the weapon deals 27.6 damage.
--   Despite being considered a "katana," the Poser's Ring doesn't work with it.
+-   Despite being considered a "katana," the [Poser's Ring](<Poser's_Ring.md>) doesn't work with it.
     -   This is because the Purple Cloud is sheathed most of the time, and when it is unsheathed for the critical, the blade is put right back in its place, so it would just deal delayed critical damage
     -   The other weapons that possess scabbards are the [Katana](Katana.md), [Shattered Katana](Shattered_Katana.md), and the [Bloodfouler](Bloodfouler.md)
 -   Despite being a pseudo fist-type weapon, it does not proc/activate Talents related to fists.

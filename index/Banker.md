@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 137823
+revid: 149381
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -66,9 +66,9 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   Campfires (Store wood instead)
 -   [Hallowtide Mask](Hallowtide_Mask.md)
 -   [Attunement potions](Attunement_Potions.md) / [Lotuses](Ingredients.md)
--   Poser's Ring
+-   [Poser's Ring](<Poser's_Ring.md>)
 -   Manor Key
--   Orlandeau's Pity Emerald
+-   [Orlandeau's Pity Emerald](<Orlandeau's_Emerald.md>)
 -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)
 
 ### Account
