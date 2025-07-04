@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Rhythm"
-revid: 146646
+revid: 149447
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Rhythm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -8,7 +8,7 @@ categories: [Murmurs]
 
 # Murmur: Rhythm
 
-“ An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched. ”
+“ An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. ”
 
 ― Card description
 

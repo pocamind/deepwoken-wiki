@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 149421
+revid: 149452
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -22,7 +22,7 @@ Template:Creature Infobox V3
 
 Elder Primadon, the Titan Warlord is a stronger version of [Primadon](Primadon,_Titan_of_the_East.md), with a larger body, darker skin tone, and glowing eyes.
 
-Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned by making an offering, however this variant of the beast only takes high tier relics as an adequate offering.
+Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned by making an offering, however this variant of the beast only takes [Sinner's Ash](<Sinner's_Ash.md>) as an adequate offering.
 
 <table><caption>Known Offerings</caption>
 <tbody>
@@ -66,9 +66,9 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
 -   Elder Primadon punches in front of him.
     -   Elder Primadon can aim this move to hit people above.
-    -   Has a variable wind-up. (someone confirm this)
+    -   Has a variable wind-up.
 
- | ◯ | TBA | ◯ | TBA |
+ | ◯ | ✗ | ◯ | TBA |
 | 
 
 **Kick**
@@ -107,7 +107,7 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
 -   Elder Primadon will jump backwards while throwing two rocks at his target.
 
- | TBA | ◯ | ◯ | TBA |
+ | ✗ | ◯ | ◯ | TBA |
 | 
 
 Ground Slam
@@ -138,7 +138,7 @@ Charged Stomp
 -   Elder Primadon brings his right foot high in the air and roars. After a short while, he stomps the ground, dealing colossal damage to anyone unfortunate enough to be under his feet.
 -   This move can be parried, but it's much easier to run away given how long he winds up the move for.
 
- | ◯ | TBA | TBA | TBA |
+ | ◯ | ✗ | TBA | TBA |
 | Combo | 
 
 -   Elder Primadon does a stomp, a kick, then a triple stomp in quick succession.
@@ -154,7 +154,7 @@ Charged Stomp
 -   Afterwards, Elder Primadon will punch, and may sometimes also follow up with a kick.
     -   You can block the kick, but this requires relatively high posture. Alternatively, you can roll cancel his punch so a second roll will be available for the kick.
 
- | NA | NA | NA | TBA |
+ |  |  |  | TBA |
 
 ## Combat
 

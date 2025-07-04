@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Ardour"
-revid: 147094
+revid: 149448
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Ardour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -8,7 +8,7 @@ categories: [Murmurs]
 
 # Murmur: Ardour
 
-“ An application of the Song that enables one to channel the Murmur into raw strength. Press H. ”
+“ An application of the Song that enables one to channel the Murmur into raw strength. ”
 
 ― Card description
 
@@ -18,7 +18,7 @@ Template:ImageCaption Infobox **Murmur: Ardour** is one of the 3 [Murmurs](Murmu
 
 By default, it drains a large amount of [ether](Ether.md) when used; however, at Power 19 the ether cost is low enough for your ether regen to overpower it, but it will still be slow. At Power 20, activation of the Murmur will be free and your ether regen won't be affected.
 
-This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour) and has been linked to Busoshoku Haki from the anime One Piece.
+For a more detailed view on Ardour, see the [lore](Lore.md#whispers-of-ardour).
 
 ### Ardour Scream
 

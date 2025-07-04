@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 148793
+revid: 149467
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons, Items]

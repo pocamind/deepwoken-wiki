@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 149420
+revid: 149457
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -202,30 +202,15 @@ Exhaustive Loot Table
     <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>.</li>
     <li><b>Adept</b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, Authority Peacekeeper Armour, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>.</li>
     <li><b>Expert</b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Whaler_Coat.md">Whaler Coat</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>.</li>
-    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>, <a href="Titanslayer's_Adornment.md">Titanslayer's Adornment</a>.</li>
+    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
   </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Primadon_Pelt.md">Primadon Pelt</a> (rare)</li>
-    <li><a href="Mantra_Modifiers.md">Deep Gems</a></li>
-    <li><a href="Mantra_Modifiers.md">Vibrant gems</a></li>
-    <li><a href="Mantra_Modifiers.md">Tier 2 Mantra Modifiers</a></li>
-    <li><a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
-    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
-    <li><a href="Enchantments.md#curses">Curse of Rhaemen's Ember Enchant Stone</a></li>
-    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
-    <li><a href="Moonseye_Tome.md">Moonseye Tome</a></li>
-    <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
-    <li><a href="Rain_Spire.md">Rain Spire</a></li>
-    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><a href="Void_Spire.md">Void Spire</a></li>
-  </ul></li>
+    <li><a href="Items.md">Items</a>: <a href="Primadon_Pelt.md">Primadon Pelt</a> (rare), <a href="Mantra_Modifiers.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Vibrant Gems</a>, <a href="Mantra_Modifiers.md">Tier 2 Mantra Modifiers</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
+    <li>Some <a href="Relics.md">Relics</a>: [[Ardour Manifestation|Template:RelicColor]], [[Armorer's Needle|Template:RelicColor]], [[Enchantments#Curses|Template:RelicColor]], [[Idol of Yun'Shul|Template:RelicColor]], [[Moonseye Tome|Template:RelicColor]], [[Pluripotent Alloy|Template:RelicColor]], [[Rain Spire|Template:RelicColor]], [[Smith's Alloy|Template:RelicColor]], [[Void Spire|Template:RelicColor]]</li>
   </ul></td>
 </tr>
 <tr>
@@ -256,7 +241,7 @@ Exhaustive Loot Table
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Leather_Boots.md">Leather Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Star_Boots.md">Star Boots</a>.</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
   <ol>
-    <li><b>Relic Torso</b>: <a href="Tiran_Pendant.md"><font>Tiran Pendant</font></a></li>
+    <li><b>Relic Torso</b>: [[Tiran Pendant|Template:RelicColor]]</li>
     <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Citadel Frames</a> (All), Duelist's Mask, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a>.</li>
@@ -325,6 +310,9 @@ There are **13** images, be warned
 -   As of 3/29/2024, Primadon was slightly tweaked to have a bluer color scheme.
     -   The purple "nose" is due to developer Arch\_Mage explaining how primates flip their lips.[\[1\]](#cite-note-1)
 -   Primadon, during Verse One, stood at a height of 25 meters (81 feet)
+-   under his fur, he is canonically black, as said by arch\_mage. I wonder what this could be a reference to.
+
+  
 
 ## References
 

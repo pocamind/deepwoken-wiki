@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 148271
+revid: 149426
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -113,7 +113,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 ### Death
 
--   Dying in Trial of One with the Lone Warrior origin gives you 2 options.
+-   Dying in Trial of One gives you 2 options.
     -   Death, and Obliteration, death makes you lose a life and spawn on [Minityrsa Shore](Minityrsa.md), Obliteration sends you to [Fragments Of Self](Fragments_of_Self.md)
     -   If you lose the Trial to the first parry check or the Megalodaunt, the choice between Death and Obliteration is not offered.
 -   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the Trial.

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 149233
+revid: 149435
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -42,15 +42,30 @@ W Rank being obtained
 
 **What rank your character will receive depends on amount of echoes you collect, without taking modifiers multiplicator into consideration.**
 
-| Rank | Echoes Amount |
-| --- | --- |
-| W | 140 (441 w/ all Echoes Modifiers except Vow of Thorns and Glass Bones) |
-| S | 140 (Must do all echoes tasks) |
-| A | 112-139 |
-| B | 87-111 |
-| C | 60-86 |
-| D | 30-59 |
-| E | 0-29 |
+| 
+ | Rank | Echoes Amount |
+| --- | --- | --- |
+| 
+
+ | W | 140 (441 w/ all Echoes Modifiers except Vow of Thorns and Glass Bones) |
+| 
+
+ | S | 140 (Must do all echoes tasks) |
+| 
+
+ | A | 112-139 |
+| 
+
+ | B | 87-111 |
+| 
+
+ | C | 60-86 |
+| 
+
+ | D | 30-59 |
+| 
+
+ | E | 0-29 |
 
 ### Ways of Obtaining Echoes
 

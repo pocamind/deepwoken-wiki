@@ -1,6 +1,6 @@
 ---
 title: Mounts
-revid: 143280
+revid: 149453
 source: https://deepwoken.fandom.com/wiki/Mounts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,6 +27,7 @@ Mounts are tamed creatures that can be used to traverse terrain quicker. Mounts 
 ## Current Mounts
 
 -   Thresher - Unlock cost 3 [Crowns](Crowns.md)
+-   Lionfish (only usable in the depths) - Unlock cost 5 [Crowns](Crowns.md)
 
 #### Upcoming Mounts
 
