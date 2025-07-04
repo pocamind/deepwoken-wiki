@@ -1,6 +1,6 @@
 ---
 title: Character Slots
-revid: 144541
+revid: 149419
 source: https://deepwoken.fandom.com/wiki/Character_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -10,12 +10,23 @@ categories: [Character, Attributes, Mechanics]
 
 Character slots function as Deepwoken's save files.
 
-## Slot selection menu
+## Description
 
--   The slot selection menu serves as a list of all of your character slots.
+The slot selection menu serves as a list of all of your character slots.
+
 -   The maximum number of character slots is 52.
 -   The slot selection menu shows various pieces of information about the associated character.
-    -   Some information presented in the menu cannot be changed and tied to the slot while other information can be changed and is tied to the character.
+-   Some information presented in the menu cannot be changed and tied to the slot while other information can be changed and is tied to the character.
+
+## Obtaining Character Slots
+
+-   Character slots can be purchased for 200 robux.
+    -   The price of slots can vary for certain regions due to Roblox's currency purchasing rates.
+-   A maximum of 2 character slots can be obtained for free.
+    -   One for obtaining [power 20](Power.md) (max level) on any slot.
+    -   One for obtaining [A rank](Echoes.md#overview) when wiping any slot.
+
+## Character Slot UI
 
 ### Character Preview
 
@@ -86,10 +97,6 @@ Character slots function as Deepwoken's save files.
     -   The entered name does not have to match the capitalization of your character name but does have to include spaces.
 -   Hitting enter after typing the name of the character will send the character to the Fragments of Self where you can wipe the character.
 
-### Obtaining Character Slots
+## Gallery
 
--   Character slots can be purchased for 200 robux.
-    -   The price of slots can vary for certain regions due to Roblox's currency purchasing rates.
--   A maximum of 2 character slots can be obtained for free.
-    -   One for obtaining A rank when wiping any slot.
-    -   One for obtaining power 20 on any slot.
+plz add

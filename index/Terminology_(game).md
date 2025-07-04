@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 149306
+revid: 149412
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -186,12 +186,12 @@ _noun_
 
 _noun_
 
-1.  People/guilds in The Depths that gank players with the intent of wiping them.
+1.  People/guilds in The Depths that attack players, typically with an unfair advantage, with the intent of wiping them.
     1.  Ex. "Yesterday a guild of depths gankers joined and wiped the entire server"
 
 _verb_
 
-1.  Ganking lower powers in the Depths.
+1.  Killing lower powered players in the Depths.
     1.  Ex "Lets depths gank these power 3's"
 
 ### Execute

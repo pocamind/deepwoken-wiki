@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 149355
+revid: 149423
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,13 +10,15 @@ categories: [Monsters]
 
 _For the stronger variant that utilizes Thundercall, look in [Fury Nautilolodaunt](Fury_Nautilodaunt.md)_
 
+**Nautilodaunt**
+
+[Fury Nautilodaunt](Fury_Nautilodaunt.md)
+
 “ ...Denizens of Scyphozia, Nautilodaunts are a chilling reminder that those of the Deep are not simply mindless monsters, but can possess startling intelligence. ”
 
 ― Odd Tentacle description
 
-Mostly referred to as "Squibbo".
-
-Template:Creature Infobox V3
+Mostly referred to as "Squibbo". Template:Creature Infobox V3
 
 ## Description
 

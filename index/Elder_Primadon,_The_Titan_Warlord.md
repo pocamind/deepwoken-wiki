@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 149330
+revid: 149421
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -8,13 +8,15 @@ categories: [Monsters, Bosses]
 
 # Elder Primadon, The Titan Warlord
 
-Template:Creature Infobox V3
+[Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+
+**Elder Primadon, The Titan Warlord**
 
 “ ROOOOOOOOOOOOOOOARGH ”
 
 ― Elder Primadon, The Titan Warlord
 
-  
+Template:Creature Infobox V3
 
 ## Description
 

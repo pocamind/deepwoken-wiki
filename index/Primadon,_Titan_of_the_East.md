@@ -1,12 +1,16 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 149321
+revid: 149420
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
 ---
 
 # Primadon, Titan of the East
+
+**Primadon, Titan of the East**
+
+[Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
 Template:Creature Infobox V3 Primadon, the Titan of the East is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>). Not to be confused with [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md).
 

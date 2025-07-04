@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 147722
+revid: 149416
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -435,7 +435,6 @@ Magnet Spark
 -   Iron Tether
 -   Permafrost Prison
 -   Tranquil Circle
--   Illusory Realm
 
  | 
 
@@ -844,7 +843,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 [Iceberg](Frostdraw.md#iceberg)
 
-(☆☆☆)
+(★★★)
 
  | 
 
@@ -852,7 +851,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This modifier causes the Iceberg to instead turn you into a large crystal of ice, dealing no damage, but massively increasing your fall speed when casted in the air.
+-   This modifier causes the Iceberg to instead turn you into a large crystal of ice, granting i-frames for a short duration. Casting this midair will cause you to quickly accelerate towards the ground, dealing damage and ragdolling on impact and negating fall damage.
 
  |
 
@@ -919,8 +918,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This modifier causes the "Lightning Blade" mantra perform an additional third short-ranged teleporting slash.
-    -   Can be stacked this with the "[Stormcaller Slash](Thundercall.md)" Talent, which causes the user's Lightning Blade hit a total of 4 times.
+-   This modifier causes the "Lightning Blade" mantra perform an additional third short-ranged teleporting slash after the first two hits.
 
  |
 | 
@@ -965,7 +963,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This modifier causes "Iron Tether" to slowly home in on the nearest target.
+-   This modifier causes "Iron Tether" to slowly move back and forth.
 
  |
 | 
@@ -996,21 +994,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  | 
 
 -   This modifier causes the zone from the "Tranquil Circle" mantra to follow the character's movement.
-
- |
-| 
-
-[Illusory Realm](Oath%253A_Visionshaper/Old_Visionshaper.md)
-
-(☆☆☆)
-
- | 
-
- | 
-
- | 
-
--   This modifier causes the user of "Illusory Realm" mantra to become the center of the realm.
+-   This Spark reduces the range of your Tranquil Circle.
 
  |
 
@@ -1395,7 +1379,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  | 
 
 -   This modifier causes the "Ice Eruption" mantra to summon a wall around the user.
-    -   Do note that this modifier causes the mantra to do **NO DAMAGE AT ALL**.
+    -   Do note that this modifier causes the mantra to only deal damage if the walls are placed down **on top of the target**.
 
  |
 | 
@@ -1463,6 +1447,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  | 
 
 -   This modifier causes the "Searing Snare" mantra to ragdoll opponents hit by it.
+-   Also allows Searing Snare to hit yourself.
 
  |
 | 
@@ -1636,7 +1621,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This modifier adds a spin at the end of the "Dark Blade" Mantra which is similar to unmodified 'Rising Flame' but without the uplift.
+-   This modifier adds a spin attack at the end of the "Dark Blade" Mantra which is similar to unmodified 'Rising Flame' but without the uplift.
 
  |
 
@@ -1702,7 +1687,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This combination of modifiers causes the "Fleeting Sparks" mantra to fire 6 sparks that home in aggresively on the target until the hit them, also removes the lasers being shot out.
+-   This combination of modifiers causes the "Fleeting Sparks" mantra to fire 6 sparks that home in aggressively on the target until they hit them, also removes the lasers being shot out.
 
  |
 | 
