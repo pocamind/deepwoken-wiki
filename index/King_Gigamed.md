@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 149351
+revid: 149477
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

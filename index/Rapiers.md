@@ -1,6 +1,6 @@
 ---
 title: Rapiers
-revid: 149465
+revid: 149484
 source: https://deepwoken.fandom.com/wiki/Rapiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Light Weapons, Weapons by Class]
@@ -8,9 +8,7 @@ categories: [Weapons, Light Weapons, Weapons by Class]
 
 # Rapiers
 
-Bridging the gap between being a normal person and being a submissive femboy
-
-RAPEiers can also cut in real life, but cant in deepwoken, not very wholesome keanu reeves reddit 420 gold. Source: sellsword arts
+Bridging the gap between medium and light weapons
 
 <table><caption>Light Weapons</caption>
 <tbody>

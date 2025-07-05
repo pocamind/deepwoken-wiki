@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 145410
+revid: 149491
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -30,6 +30,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Amashi](Amashi,_Master_of_Flame.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Andrea](Andrea.md) | Unaligned | [The Depths](First_Layer.md), The Cathedral of Interstice | Reveals information about the Depths Trial | Dialogue changes after completing the trial once |
 | [Antiquarian](Antiquarian.md) | Unaligned | [Etris](Etris.md)[Isle of Vigils](Isle_of_Vigils.md)[Greathive Aratel](Greathive_Aratel.md)[Summer Isle](Summer_Isle.md)[Miner's Landing](<Miner's_Landing.md>)[Fort Merit](Fort_Merit.md)[Castle Light](Castle_Light.md)[Voidheart](Voidheart.md)[The Floating Keep](The_Floating_Keep.md)[Guild Bases](Guild_Bases.md) | Purchases/evaluates the price of various items for notes |  |
+| [Apprentice Kj](Apprentice_Kj.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md) | Quest to release the unbound weapon with [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) | he sends you to Erisia to look for your brother [Isaac](Vigil_Isaac.md) |
 | [Argo](Argo.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Reveals information about fishing |  |
 | [Aristo](Aristo.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), Inn | Provides information to new players |  |
 | [Arthur](Arthur.md) | [The Kingdom of Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md), entrance in the [Towerstruck Lands](Towerstruck_Lands.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the Talents Critical Attack and Engage upon quest completion, completes 'Bravery' quest |

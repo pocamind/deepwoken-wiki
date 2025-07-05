@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 149315
+revid: 149497
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -222,7 +222,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   His moveset incorporate a mix of quick and delayed moves both, which can catch you off guard and make you lose a parry. If you failed a parry, use a dodge as an attempt to recover.
 -   Obtaining and equipping the [Windrunner Robes](Windrunner_Robes.md) or [Summer Dragoon](Summer_Dragoon.md) can help in the fight as they both have a whopping total of 55% Wind Armor.
     -   The [Ferryman's Coat](<Ferryman's_Coat.md>) can be used as a substitute.
--   Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.
+-   ~Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.~ As of 7/4/2025, Maestro Evengarde Rest is immune to the Providence's Thorns enchant. May God be with you. (See [HERE](https://medal.tv/games/roblox/clips/kCQPWc57Ghxy0z_Gr?invite=cr-MSxWbTYsMjQwNjA1NjA))
 -   Chip Damage from weapons such as Shotel, Alloyed Messer, Alloyed Shotel, Alloyed Katana, Kyrsblade, Serrated Warspear, Bloodtide Trident, True Seraph's Spear, Curved Blade of Winds and the enchant Obfuscation will easily chip through his block. However, the Night Axe is the best weapon for this (assuming you fight him with heavy weapons) due to the incredibly high 80% chip.
 -   Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this Talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak. Unlike The Duke though, he very high amount of posture.
     -   Examples of this are multi-hit moves like Shattered Katana critical or Shadow Gun modified with a Blast Spark. You can also use criticals that do high posture damage without insta-guardbreaking like the Sword critical and Purple Cloud critical.

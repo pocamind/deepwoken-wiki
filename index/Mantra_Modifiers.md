@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 149416
+revid: 149496
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -1250,7 +1250,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This modifier causes the servants from the "Burning Servants" mantra to face outwards instead of inwards. This modifiers also grants your burning servants to deal ragdoll to enemies.
+-   This modifier causes the servants from the "Burning Servants" mantra to face outwards instead of inwards. This modifiers also grants your burning servants the ability to deal ragdoll to enemies.
 
  |
 | 

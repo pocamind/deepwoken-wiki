@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 149471
+revid: 149488
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Locations]
@@ -11,8 +11,6 @@ notices:
 # The Hall of Shattered Wills
 
 LocationL The Hall of Shattered Wills LocationR
-
-TERRITORY OF
 
 What inhuman acts of cruelty were committed here?
 
@@ -60,7 +58,6 @@ An area where the moderators can [fish](Fishing.md), however if you fall down in
 
 -   An ordinary kitchen you would find in an office.
 -   A fridge, with 2 signs on it.
--   Notably a reference to trans propaganda.
 
 -   Motivational posters are hung, all of these reading:
 
