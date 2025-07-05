@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 146123
+revid: 149514
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -73,7 +73,7 @@ This Oath grants 3 Combat Mantra Slots. As for appearance, it changes the eye co
 
 -   **Luminous Flash - Talent:**
     -   After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
-        -   On proc, a basic attack will: Hit the maximum hardcap of damage (1.75x), dazes the target, and grants +45 tempo
+        -   On proc, a basic attack will: Hit the maximum hard cap of damage (1.5x), dazes the target, and grants +45 tempo
         -   CD of ~30–50 seconds.
         -   Has a small aura on proc.
         -   Despite having a definitive cooldown it is possible to activate multiple times in a row resulting in a massive burst of damage. Example: [Killing The Ferryman due to three in a short burst.](https://medal.tv/games/roblox/clips/2dLtDCFCRFPGAd/d1337IECORiz?invite=cr-MSxkbXQsMjA4MzQxMDcs)
