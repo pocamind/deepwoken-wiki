@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 146933
+revid: 149516
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons]
@@ -31,7 +31,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The **Fondant Splitter** is a ??? rarity enchantable [Sword](<Sword_(weapon).md>); an oversized cake in the shape of the [Dormant Splinter](Dormant_Splinter.md).
+The **Fondant Splitter** is a ??? rarity [Sword](<Sword_(weapon).md>); an oversized cake in the shape of the [Dormant Splinter](Dormant_Splinter.md).
 
 The Fondant Splitter is obtained through the [Cold Forge](The_Cold_Forge.md) by crafting in your Crafting Menu with:
 

@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 149401
+revid: 149518
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -327,7 +327,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 </tr>
 <tr>
   <td><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></td>
-  <td>You again?
+  <td>You Again?
   <ul>
     <li>Slay 10</li>
   </ul></td>
