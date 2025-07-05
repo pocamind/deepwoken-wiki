@@ -1,6 +1,6 @@
 ---
 title: "Titanslayer's Adornment"
-revid: 149482
+revid: 149498
 source: https://deepwoken.fandom.com/wiki/Titanslayer's_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 15 and 50 [Strength](Attributes.m
 
 This Outfit has 3300 durability and grants +25% Physical resistance, +40% Elemental resistance, and +25% Ether Regen.
 
-It gives the [Primal Rage](Talents.md#equipment-talents) Talent. When below 50% health, unleash your rage and increase the amount of damage you deal for 25 seconds. Additionally, enemies health will be highlighted on hit while this buff is active. 3 minute cooldown.
+It gives the [Primal Rage](Talents.md#equipment-talents) Talent tool. When used, you gain a damage buff for 25 seconds and highlight enemy health on all melee attacks. This can only be activated while under 50% health and has a 3 minute cooldown. The health highlight effect is similar to [Soulbreaker's](Oath%253A_Soulbreaker.md) Heart Reverb Talent.
 
 ## Trivia
 

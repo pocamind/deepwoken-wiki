@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 149404
+revid: 149505
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
