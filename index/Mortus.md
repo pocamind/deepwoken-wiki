@@ -1,9 +1,9 @@
 ---
 title: Mortus
-revid: 137926
+revid: 149555
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs]
+categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Vendors]
 ---
 
 # Mortus
@@ -12,26 +12,31 @@ categories: [Capra NPCs, NPCs]
 |---|---|
 | name | Mortus |
 | aspect | Capra |
-| location | Fishing Hut, near Erisia |
+| location | Etrean Sea |
+
+“ I can give you the knowhow y'need to catch the '_big ones_ if you get the joke'... Now, some might even consider 'em _fish_, but I know they one of them celtor people hohoho! ”
+
+― Mortus
+
+## Description
 
 **Mortus** is a Capra with gray hair that wears the [Corsair Outlaw](Corsair_Outlaw.md) Outfit.
 
-He is located in a fishing hut, on the closest small rocky island in front of Lower Erisia's main/gate beach.
+Mortus is capable of crafting [Monster Bait](Monster_Bait.md), and giving out the recipes for it to the player. These monsters are:
 
-If you go behind his hut you will find a tiny doorway where you can find a [Fishing Spot](Fishing.md#fishing-spots).
+-   [Megalodaunt](Megalodaunt.md)
+-   [Thresher](Thresher.md)
+-   [Terrapod](Terrapod.md)
 
-## Features
+To obtain the recipes for the bait, you must bring two (2) [Megalodaunt Hides](Megalodaunt_Hide.md)/[Thresher Spines](Thresher_Spine.md) or three (3) [Strange Claws](Strange_Claw.md).
 
-Mortus is capable of crafting [Monster Bait](Monster_Bait.md), and giving out the recipes for it to the player.  
-These monsters are:
+## Location
 
--   [Megalodaunts](Megalodaunt.md)
--   [Threshers](Thresher.md)
--   [Terrapods](Terrapod.md)
+He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Erisia.md).
 
-To obtain the recipes for the bait, you must bring two of each respective monster part to him.
+## Dialogue
 
-### Dialogue
+**First Encounter:**
 
 <table>
 <tbody>
@@ -39,22 +44,19 @@ To obtain the recipes for the bait, you must bring two of each respective monste
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah... I knew you'd be back. Knew it better than me wife, gods rest 'er soul. Too soon, too soon it were.</td>
+  <td colspan="12">*The dishevelled [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] man sniffs at you.* What's this? Need something'?</td>
 </tr>
 <tr>
-  <td colspan="4">There's a 'big fish' I'd like to catch.</td>
-  <td colspan="4">The fish aren't biting, what should I do?</td>
-  <td colspan="4">What happened to your wife?</td>
+  <td colspan="12">What do you have?</td>
 </tr>
 <tr>
-  <td colspan="4">That so? Prithee tell me what kind of <b>fish</b> you'd like to catch?</td>
-  <td colspan="4">You'll wanna make sure that you place your bait in the right spot for the fish you're trying to snare. You'll also wanna make proper sure it's in a quiet spot a good distance away from any other creatures. Don't want them gettin' skittish now, do we? Best of luck to ya!</td>
-  <td colspan="4">Fish got 'er. Were like one of them octopuses or summin'. We was tryin' to lure it to land to catch it. Caught us instead. We don't fish for them octopuses no more.</td>
+  <td colspan="12">I can give you the knowhow y'need to catch the <b>big ones</b>... Now, some might not even consider 'em <i>fish</i>, but I know better I does.</td>
 </tr>
 <tr>
-  <td colspan="4">Dialogue Continues</td>
-  <td colspan="4">End</td>
-  <td colspan="4">End</td>
+  <td colspan="12">I'll bite.</td>
+</tr>
+<tr>
+  <td colspan="12">That so? Prithee tell me what kind of <b>fish</b> you'd like to catch?</td>
 </tr>
 <tr>
   <td colspan="4">The ones that look kinda like a shark stood up.</td>
@@ -63,14 +65,27 @@ To obtain the recipes for the bait, you must bring two of each respective monste
 </tr>
 <tr>
   <td colspan="4">Ah... the toothy ones, yeah? Caught one of 'em the other day. Took me an hour to reel the bleedin' thing in, but I did it I did. Fed us for weeks it did.</td>
-  <td colspan="4">Ah... Yeah, I know 'em... Reeled oen in just the other day... Only I was reelin' in through the sand, y'see. Sandfishin', I calls it. Bit like the regular fishin' but without the water, yeh? Anyway. Didn't work too well, to be quite honest with you.</td>
+  <td colspan="4">Ah... Yeah, I know 'em... Reeled one in just the other day... Only I was reelin' in through the sand, y'see. Sandfishin', I calls it. Bit like the regular fishin' but without the water, yeh? Anyway. Didn't work too well, to be quite honest with you.</td>
   <td colspan="4">Ah yes... I know just the ones. Caught one of the freaks the other day. Blasted thing kept slicin' me line, so I swapped it out for a metal one. Got that from a mermaid, I did. Worked a treat. Meat isn't good on the purples one though.</td>
 </tr>
 <tr>
   <td colspan="12">Fascinating. How do I catch one?</td>
 </tr>
 <tr>
-  <td colspan="12">Mm.. Having trouble rememberin', I am. Bring me 2 of their weirdly claws and it might jog me memory...</td>
+  <td colspan="4">Mm... Having trouble rememberin', I am. Bring me 2 of their <b>toughest hides</b> and it might jog me memory...</td>
+  <td colspan="4">Mm... Having trouble rememberin', I am. Bring me 2 of their <b>gorey spines</b> and it might jog me memory...</td>
+  <td colspan="4">Ah... 2 of their <b>weirdly claws</b> might job me memory...</td>
+</tr>
+<tr>
+  <td colspan="12">Here they are.</td>
+</tr>
+<tr>
+  <td colspan="8">Megalodaunt and Thresher</td>
+  <td colspan="4">Terrapod</td>
+</tr>
+<tr>
+  <td colspan="8">Ah ha! That was it, simple as... You'll need three pieces of chum to make the bait for this one.</td>
+  <td colspan="4">Ah ha! That was it, simple as... You'll need two bits of chum to make the bait for this one.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -78,7 +93,38 @@ To obtain the recipes for the bait, you must bring two of each respective monste
 </tbody>
 </table>
 
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="3">Begin</td>
+</tr>
+<tr>
+  <td colspan="3">Ah... I knew you'd be back. Knew it better than me wife, gods rest 'er soul. Too soon, too soon it were.</td>
+</tr>
+<tr>
+  <td>There's a 'big' fish I'd like to catch.</td>
+  <td>The fish aren't biting, what should I do?</td>
+  <td>What happened to your wife?</td>
+</tr>
+<tr>
+  <td>That so? Prithee tell me what kind of <b>fish</b> you'd like to catch?</td>
+  <td>You'll wanna make sure that you place your bait in the right spot for the fish you're trying to snare. You'll also wanna make proper sure it's in a quiet spot a good distance away from any other creatures. Don't want them gettin' skittish now, do we? Best of luck to ya!</td>
+  <td>Fish got 'er. Were like one of them octopuses or summin'. We was tryin' to lure it to land to catch it. Caught us instead. We don't fish for them octopuses no more.</td>
+</tr>
+<tr>
+  <td>[See first instance.]</td>
+  <td colspan="2"></td>
+</tr>
+<tr>
+  <td>End</td>
+  <td colspan="2"></td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
--   The "octopus" that Mortus talks about is more likely than not a [Nautilodaunt](Nautilodaunt.md), already known for their absurd intelligence and power in combat compared to other monsters.
--   The claws of a Terrapod aren't actually as tall as a man.
+-   The "octopus" that Mortus mentions is most likely a [Nautilodaunt](Nautilodaunt.md), already known for their absurd intelligence and power in combat compared to other monsters.
+-   Behind his hut you will find a tiny doorway where you can find a Fishing Spot.

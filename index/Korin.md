@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 147503
+revid: 149561
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -61,7 +61,7 @@ As the name implies, this Talent allows the player to get wood by punching down 
   <td colspan="12">Hey. We need more wood to keep the fires burning, you got any?</td>
 </tr>
 <tr>
-  <td colspan="12">Yeah.</td>
+  <td colspan="12">1. Yeah.</td>
 </tr>
 <tr>
   <td colspan="6">[Enough wood]</td>
@@ -89,7 +89,7 @@ As the name implies, this Talent allows the player to get wood by punching down 
   <td colspan="12">Hey. We need more wood to keep the fires burning, you got any?</td>
 </tr>
 <tr>
-  <td colspan="12">Can you tell me anything about Etrea?</td>
+  <td colspan="12">2. Can you tell me anything about Etrea?</td>
 </tr>
 <tr>
   <td colspan="6">[Negative or Neutral reputation]</td>
@@ -120,7 +120,7 @@ Regarding the [Treefelling Blow Quest](Quests.md#treefelling-blow).
   <td colspan="8">Hey. We need more wood to keep the fires burning, you got any?</td>
 </tr>
 <tr>
-  <td colspan="8">I'm having a problem with my treefelling.</td>
+  <td colspan="8">3. I'm having a problem with my treefelling.</td>
 </tr>
 <tr>
   <td colspan="8">Uh huh. That so? What's the problem? Axe too dull?</td>

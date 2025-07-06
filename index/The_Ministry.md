@@ -1,9 +1,9 @@
 ---
 title: The Ministry
-revid: 147265
+revid: 149565
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions, The Ministry]
+categories: [In progress with reason, InProgressPages, Factions, The Ministry]
 notices:
   - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---
@@ -43,7 +43,7 @@ Going to the [Soothsayer](Soothsayer.md) in the [Starfield Tundra](Starfield_Tun
 
 There is only one [random event](Random_Encounters.md) in which you can assist The Ministry and gain reputation:
 
--   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) File:Children of Naveaeiconfaction.png  vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](The_Ministry.md) ([Summer Isle](Summer_Isle.md))
+-   [Eastern Nomad](Eastern_Nomad.md) + [Eastern Nomad Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](The_Children_of_Navae.md)  vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](The_Ministry.md) ([Summer Isle](Summer_Isle.md))
 
 Reputation with The Ministry is gained much more rapidly than that of most other factions.
 

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 149481
+revid: 149553
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -202,7 +202,7 @@ Exhaustive Loot Table
     <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>.</li>
     <li><b>Adept</b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, Authority Peacekeeper Armour, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>.</li>
     <li><b>Expert</b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Whaler_Coat.md">Whaler Coat</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>.</li>
-    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
+    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>, <a href="Titanslayer's_Adornment.md">Titanslayer's Adornment</a> (very rare).</li>
   </ul></td>
 </tr>
 <tr>
