@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 144720
+revid: 149535
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
@@ -24,7 +24,7 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 
 ## Dialogue
 
-**Friend reputation and below:**
+**Friend Reputation and Below:**
 
 <table>
 <tbody>
@@ -46,31 +46,7 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 </tbody>
 </table>
 
-**Ally reputation:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">Oh King... Won't ye lift your people from this watery grave?...</td>
-</tr>
-<tr>
-  <td colspan="6">Who is this king you speak of?</td>
-  <td colspan="6">What do you think of the Lord Regent?</td>
-</tr>
-<tr>
-  <td colspan="6">The king who will cast aside the asperasions fabricated by your kind...</td>
-  <td colspan="6">He is no King... But I know that what he does is all in the name of Etrea. Surely, when the King returns, he will vacate the throne..</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
-</tr>
-</tbody>
-</table>
-
-**Hero reputation:**
+**Ally Reputation and Above:**
 
 <table>
 <tbody>

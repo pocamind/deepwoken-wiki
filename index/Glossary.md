@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 148990
+revid: 149536
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -220,7 +220,7 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   Those that make a living by exploring ruins and driftlands.
 -   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
 
-  
+* * *
 
 ### Black Divers
 

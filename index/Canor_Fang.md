@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 138630
+revid: 149526
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Items]
@@ -34,11 +34,13 @@ Notably, this weapon have the highest weight stat of any daggers, at 5. Most oth
 
 ## Critical
 
-Do a short wind-up before bursting out a flurry of 5 slashes. (Inflicts Template:BleedColor)
+The user shortly winds up before bursting out into a flurry of 5 slashes, inflicting Template:BleedColor per slash.
+
+The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
--   Despite the name, it's not actually made from a Canor's fang.
+-   Despite the name, it's not actually made from a Canor's fang. though the fangs on the hilt may be
 -   Instead of this, it's recommended to use a [Whaling Knife](Whaling_Knife.md) or a [Gilded Knife.](Gilded_Knife.md) (Unless you want the crit)
 -   Meeting the requirement of LHT, damage is (14.3)
 -   At max LHT, the damage is (19.3)
