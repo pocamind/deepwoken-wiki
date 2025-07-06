@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 149504
+revid: 149584
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -35,10 +35,10 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 You can speak to [Amashi](Amashi,_Master_of_Flame.md) to upgrade your Flamecharm Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same Mantra 100 Notes more expensive.
 
--   Upgrading a Flamecharm Mantra from level 1 to level 2 costs.
--   Upgrading a Flamecharm Mantra from level 2 to level 3 costs.
--   Upgrading a Flamecharm Mantra from level 3 to level 4 costs.
--   Upgrading a Flamecharm Mantra from level 4 to level 5 costs.
+-   Upgrading a Flamecharm Mantra from level 1 to level 2 costs and requires 20 Flamecharm investment.
+-   Upgrading a Flamecharm Mantra from level 2 to level 3 costs and requires 40 Flamecharm investment.
+-   Upgrading a Flamecharm Mantra from level 3 to level 4 costs and requires 60 Flamecharm investment.
+-   Upgrading a Flamecharm Mantra from level 4 to level 5 costs and requires 80 Flamecharm investment.
 
 Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.
 

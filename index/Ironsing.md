@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 147855
+revid: 149589
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -48,12 +48,12 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Ironsing, players will receive the _Expert Ironsinger_ Talent. This allows players to obtain 2-star Ironsing Mantras.
 -   Finally, at 50 Ironsing, players will receive the _Master Ironsinger_ Talent. This allows Ironsing users to obtain 3-star Ironsing Mantras.
 
-You can speak to [Adar](Adar,_Master_of_Metal.md) at [Miner's Landing](<Miner's_Landing.md>) to upgrade your Ironsing Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+You can speak to [Adar](Adar,_Master_of_Metal.md) at [Miner's Landing](<Miner's_Landing.md>) to upgrade your Ironsing Mantras for each. Each upgrade purchased will make the next upgrade for the same mantra more expensive.
 
--   To upgrade a Ironsing Mantra from level 1 to level 2 costs.
--   To upgrade a Ironsing Mantra from level 2 to level 3 costs.
--   To upgrade a Ironsing Mantra from level 3 to level 4 costs.
--   To upgrade a Ironsing Mantra from level 4 to level 5 costs.
+-   To upgrade a Ironsing Mantra from level 1 to level 2 costs and 20 Ironsing investment.
+-   To upgrade a Ironsing Mantra from level 2 to level 3 costs and 40 Ironsing investment.
+-   To upgrade a Ironsing Mantra from level 3 to level 4 costs and 60 Ironsing investment.
+-   To upgrade a Ironsing Mantra from level 4 to level 5 costs and 80 Ironsing investment.
 
 Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.
 
@@ -764,8 +764,8 @@ Metal + Slash + Template:Bleed2
 -   Covers 82 studs of distance.
 -   Applies Metal Rods on hit.
 -   Doesn't apply hitstun but applies 0.5s knockdown on hit, has 0.2s endlag.
--   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
-    -   Needs further testing.
+-   Can be modified with **Aeon/Eternal Logstones** to presumably extend its longevity.
+    -   Either straight-up does nothing or the change in duration is unnoticeably miniscule.
 
  |
 

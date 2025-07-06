@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 148001
+revid: 149588
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -37,10 +37,10 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 Shadowcast Mantras are upgraded at the [Attunement Trainers](Attunement_Trainers.md) [Nostor](Nostor,_Master_of_Shadow.md) or [Beatra](Beatra.md).
 
--   To upgrade a Shadowcast Mantra from level 1 to level 2 costs.
--   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
--   To upgrade a Shadowcast Mantra from level 3 to level 4 costs.
--   To upgrade a Shadowcast Mantra from level 4 to level 5 costs.
+-   To upgrade a Shadowcast Mantra from level 1 to level 2 costs and 20 Shadowcast investment.
+-   To upgrade a Shadowcast Mantra from level 2 to level 3 costs and 40 Shadowcast investment.
+-   To upgrade a Shadowcast Mantra from level 3 to level 4 costs and 60 Shadowcast investment.
+-   To upgrade a Shadowcast Mantra from level 4 to level 5 costs and 80 Shadowcast investment.
 
 Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
 

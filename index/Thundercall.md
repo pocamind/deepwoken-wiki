@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 148542
+revid: 149587
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -41,10 +41,10 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 You can speak to [Funke](Funke,_Master_of_Thunder.md) to upgrade your Thundercall Mantras for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
 
--   To upgrade a Thundercall Mantra from level 1 to level 2 costs.
--   To upgrade a Thundercall Mantra from level 2 to level 3 costs.
--   To upgrade a Thundercall Mantra from level 3 to level 4 costs.
--   To upgrade a Thundercall Mantra from level 4 to level 5 costs.
+-   To upgrade a Thundercall Mantra from level 1 to level 2 costs and requires 20 Thundercall investment.
+-   To upgrade a Thundercall Mantra from level 2 to level 3 costs and requires 40 Thundercall investment.
+-   To upgrade a Thundercall Mantra from level 3 to level 4 costs and requires 60 Thundercall investment.
+-   To upgrade a Thundercall Mantra from level 4 to level 5 costs and requires 80 Thundercall investment.
 
 Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.
 

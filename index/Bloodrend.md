@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 147970
+revid: 149586
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -48,10 +48,10 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 You can speak to [Vyrelda](Vyrelda,_Master_of_Blood.md) at [Derelict Highchurch](Derelict_Highchurch.md) to upgrade your Bloodrend Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
--   To upgrade a Bloodrend Mantra from level 1 to level 2 costs.
--   To upgrade a Bloodrend Mantra from level 2 to level 3 costs.
--   To upgrade a Bloodrend Mantra from level 3 to level 4 costs.
--   To upgrade a Bloodrend Mantra from level 4 to level 5 costs.
+-   To upgrade a Bloodrend Mantra from level 1 to level 2 costs and requires 20 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 2 to level 3 costs and requires 40 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 3 to level 4 costs and requires 60 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 4 to level 5 costs and requires 80 Bloodrend investment.
 
 Mantra levels will cost 50% more Notes if you use the [Songwright](Songwright.md) NPC to upgrade them.
 

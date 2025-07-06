@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 148832
+revid: 149592
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -80,7 +80,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
         -   **Instantly executes** if it brings the target's HP to 0 or used on a knocked target.
         -   Can be vented out of, and can also parried as soon as you hear the 'snap' sound.
         -   Deals 59.93 (6.38+53.55) Oath DMG
-    -   Obtained after killing 2 players with [Oaths](Oaths.md) in the [Depths](First_Layer.md).
+    -   Obtained after killing 3 players with [Oaths](Oaths.md) in the [Depths](First_Layer.md).
         -   It will send them to [Layer 2](Second_Layer.md) instead of wiping them.
 
 -   **Lords Slice - Combat Mantra**
