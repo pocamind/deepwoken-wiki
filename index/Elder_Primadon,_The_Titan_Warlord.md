@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 149551
+revid: 149577
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -156,23 +156,31 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
  | 
 
 -   Elder Primadon does a stomp, a kick, then a triple stomp in quick succession.
--   When Elder Primadon is enraged, the pause between the stomp, kick and triple stomp is near zero, meaning if you tried to hit him after the first stomp, you are getting kicked.
+-   When Elder Primadon is enraged, the pause between the stomp, kick and triple stomp is near zero, meaning you can't attack after the first stomp without being kicked.
 
  |  |  |  | TBA |
 | 
 
-**Feint**
+**Stomp Feint**
 
  | 
 
--   Elder Primadon can feint in two ways:
-    -   When doing a stomp, he delays the stomp and eventually feints it.
-    -   When doing a triple stomp, he will stomp once, then feint the second.
-
--   Afterwards, Elder Primadon will punch, and may sometimes also follow up with a kick.
+-   Elder Primadon raise his right foot, but will instead delay it and then proceed to feint. Afterwards he will punch and then he will kick.
+    -   Unlike the triple stomp feint, Elder Primadon will follow up with a kick if he feints a regular stomp.
     -   You can block the kick, but this requires relatively high posture. Alternatively, you can roll cancel his punch so a second roll will be available for the kick.
+    -   Elder Primadon will have a much longer pause after the kick compared to his other moves even if enraged, allowing for potentially more damage.
 
  |  |  |  | TBA |
+| 
+
+**Triple Stomp Feint**
+
+ | 
+
+-   Elder Primadon will raise his left foot, eventually stomping once, then feinting the second. Afterwards he will punch.
+    -   Unlike the regular stomp feint, Elder Primadon will not follow up with a kick if he feints triple stomp.
+
+ |  |  |  |  |
 
 ## Combat
 

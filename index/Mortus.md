@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 149555
+revid: 149581
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Vendors]
@@ -44,7 +44,7 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">*The dishevelled [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] man sniffs at you.* What's this? Need something'?</td>
+  <td colspan="12">*The dishevelled man sniffs at you.* What's this? Need something'?</td>
 </tr>
 <tr>
   <td colspan="12">What do you have?</td>
@@ -80,8 +80,9 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
   <td colspan="12">Here they are.</td>
 </tr>
 <tr>
-  <td colspan="8">Megalodaunt and Thresher</td>
-  <td colspan="4">Terrapod</td>
+  <td colspan="4">Megalodaunt Hide (Megalodaunt)</td>
+  <td colspan="4">Thresher Spine (Thresher)</td>
+  <td colspan="4">Strange Claw (Terrapod)</td>
 </tr>
 <tr>
   <td colspan="8">Ah ha! That was it, simple as... You'll need three pieces of chum to make the bait for this one.</td>
@@ -114,12 +115,8 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
   <td>Fish got 'er. Were like one of them octopuses or summin'. We was tryin' to lure it to land to catch it. Caught us instead. We don't fish for them octopuses no more.</td>
 </tr>
 <tr>
-  <td>[See first instance.]</td>
-  <td colspan="2"></td>
-</tr>
-<tr>
-  <td>End</td>
-  <td colspan="2"></td>
+  <td>[See first instance on First Encounter]</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

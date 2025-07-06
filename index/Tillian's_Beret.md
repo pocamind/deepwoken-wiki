@@ -1,9 +1,9 @@
 ---
 title: "Tillian's Beret"
-revid: 146038
+revid: 149574
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Equipment, World Event, Head, Hats]
+categories: [Equipment, World Event, Head, Hats]
 ---
 
 # Tillian's Beret
@@ -26,10 +26,13 @@ categories: [Pages with broken file links, Equipment, World Event, Head, Hats]
 
 ## Description
 
-Tillian's Beret is a head equipment obtained from the [Carnival of Hearts](Carnival_of_Hearts.md). Equipping the beret grants the user 7 hp, 1 Legendary pip, and 2 Rare pips and the talent [Cap Artist](Talents.md).
+Tillian's Beret is a head equipment obtained from the [Carnival of Hearts](Carnival_of_Hearts.md). Equipping the beret grants the user 7 HP, 1 Legendary pip, 2 Rare pips and the Talent [Cap Artist](Talents.md#thief).
+
+When pressing, while crouching, activate Cap Artist, ragdolling your character and putting yourself into a sleep-like state where you cannot move or use any abilities. Press, again to deactivate this ability. Cap Artist's hotkey can be changed in settings.
 
 ## Trivia
 
 -   Worn by Tillian
 -   Until 12/29/2024, the item cannot be sold due to a bug that made Unique rarity items unsellable.
--   Godroll Tillian's Beret can have up to 32 hp. Happy hunting/rerolling, folks! File:Screenshot 2025-01-25 111749.png
+-   Godroll Tillian's Beret can have up to 32 hp. Happy hunting/rerolling, folks!
+-   This helmet has the same Pips as pre-nerf [Parasol Planter](Parasol_Planter.md), making it the strongest helmet in terms of raw statistical values.

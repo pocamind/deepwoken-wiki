@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 148440
+revid: 149569
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -168,7 +168,7 @@ Phase One is a simple warm-up phase for his second phase, allowing lots of grace
 -   His **displacement** is a simple reminder to not get greedy within the fight, as he will automatically un-stun himself and immedietely begin an attack if he displaces. Use your attack opportunity to get hits, but then back away so he does not teleport and mess up your rhythm.
 -   **Lightning Assault** is always the first move used within the fight, allowing you to get up to four free hits, and get the timing down to parry it. Despite how it may seem, both phases have nearly the same parry timing for Lightning Assault.
 -   His **Lightning Strikes** are much more dangerous in the initial phase, as many Heavy Weapons are unable to deal damage fast enough to prevent a full damageless strikes, along with him being stunned for much less time than in phase two, to avoid this move, simply rush at him with slides and air dashes and swiftly hit him, or move any other cardinal direction to completely avoid it.
--   The **clones** are a move specifically to punish heavy weapons further, as any other weapon can simply swing at the ferryman and both disable the clones and land hits on the ferryman. Any AoE mantra is able to deal massive damage along with completely disabling the clones.
+-   The **clones** are a move specifically to punish heavy weapons further, as any other weapon can simply swing at the ferryman and both disable the clones and land hits on the ferryman. Any AoE mantra is able to deal massive damage along with completely disabling the clones. If you have the talent Grand Feast, you will receive a healthpack for disabling the clones.
     
 
 **Phase Two:**
