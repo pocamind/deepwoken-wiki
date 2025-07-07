@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 148381
+revid: 149641
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -261,8 +261,6 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 **The Guy:**
 
 **Quest Location**:[Bluster Rift](Bluster_Rift.md)
-
-File:Theguy.png
 
 **Guide**: Talk to [The Guy](The_Guy.md) near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 3 spider eggs.
 

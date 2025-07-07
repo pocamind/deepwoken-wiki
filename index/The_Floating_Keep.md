@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 148188
+revid: 149660
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Etrean Luminant, Eastern Luminant, Hallowtide]
@@ -100,7 +100,7 @@ The Dining Hall.
 
 ### Library
 
--   Players can purchase a Weapon Manual for, How To Make Friends for, and an Encyclopedia for.
+-   Players can purchase a Weapon Manual for, [How to Make Friends](How_to_Make_Friends.md) for, and an Encyclopedia for.
 
 ## Maps
 

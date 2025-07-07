@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 146343
+revid: 149696
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -46,7 +46,7 @@ In addition to using the name of a specific Subject, commands can use the names 
 
  | Locate | No | _"Locate \[Name\]"_ | Highlight the Subject in yellow for a few seconds through walls for you to see.
 
--   _Range limit._
+-   _Range limit. (needs testing)_
 
  | None |
 | 
@@ -83,8 +83,8 @@ In addition to using the name of a specific Subject, commands can use the names 
  | Run | No | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
 
 -   The subject cannot stop running. Will be a tad bit difficult to control.
--   Can proc talents like speed demon. \* Its a additive speed boost, meaning u can cast mantras or reset while u running.
--   Buffs ur speed in arround 2.3x \*Does not work with HYPER hyper armors (such as ressurection animation)
+-   Can proc talents like speed demon. \* It's an additive speed boost, meaning you can cast mantras or reset while you are running.
+-   Buffs your speed around 2.3x \*Does not work on people with True Hyper-armor (such as resurrection animation)
 
  | 2 minutes |
 | 
@@ -98,11 +98,11 @@ In addition to using the name of a specific Subject, commands can use the names 
 
  | Sacrifice | No, 50 Charisma | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
 
--   _Has a range limit. arround 30 steps._
+-   _Has a range limit. around 30 steps._
 -   _Can only be used on one subject at a time._
--   The heath taken away is a numerical value, not a percentage.
+-   The health taken away is a numerical value, not a percentage.
 -   If Master takes all HP to zero, the subject will be knocked.
--   Has no difference if the subject has any damage resistence on.
+-   Has no difference if the subject has any damage resistance on.
 
  | 2 minutes |
 | 
@@ -114,7 +114,7 @@ Charisma
  | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls.
 
 -   Works on knocked players, cancelling the knocked state and grips, but does not work if the subject is being carried.
--   _Has a range limit of 25 steps._\*Works even if the subject have a HYPER hyper armor (such as ressurection animation)
+-   _Has a range limit of 25 studs._\*Works even if the subject(s) are under the effects True Hyper-armor (such as resurrection animation)
 
  | 20 seconds |
 | 
@@ -156,7 +156,7 @@ Charisma
 
 -   Mentioning any other command or name of any other command while using the say command will use the respective command.
 -   Trying to use the say command to force a vow to say "Sorry \[Name\]" or "My bad \[Name\]" won't work.
-    -   Similarly using the say command to force your vow to use a roblox chat command will make them say it, but not use it, for example: "\[Name\] say /e dance" will make the subject say "/e dance" but they won't start dancing.
+    -   Similarly using the say command to force your vow to use a Roblox chat command will make them say it, but not use it, for example: "\[Name\] say /e dance" will make the subject say "/e dance" but they won't start dancing.
 
 -   The leech command will always drain the subject of all their ether, no matter if the master has 40%, 50%, 60% or even 99% ether.
 

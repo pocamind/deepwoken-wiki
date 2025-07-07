@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 149298
+revid: 149645
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -32,7 +32,7 @@ Raw materials harvested from the environment.
 -   [Gobletto](Gobletto.md) - A mushroom that is white and has a tube-like stalk.
 -   [Browncap](Browncap.md) - A brown mushroom with a white stalk.
 -   [Dentifilo](Dentifilo.md) - Smallest mushroom with a dotted cap.
--   Bluecaps - Found only in a library area coated in blue fog on Erisia.
+-   [Bluecap](Bluecap.md) - Found only in a library area coated in blue fog on Erisia.
     -   There are two ways to get into this location; First by an upwards shaft from the cave in [Lower Erisia](Lower_Erisia.md) where one can find gold \[One can only access this location with movement mantras, and clever use of the Cauldron\], secondly \[and the intended way\] is via a puzzle at the [Birdcage](The_Birdcage.md) which you need a Soul Hearthgem for, then take the nearby zipline and head into a hole in the floor of a nearby ruin.
 
 #### Fruits
@@ -105,7 +105,7 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 -   [Nautilodaunt](Nautilodaunt.md) and [Fury Nautilodaunt](Fury_Nautilodaunt.md)
     -   [Nautilodaunt Beak](Nautilodaunt_Beak.md)
     -   [Odd Tentacle](Odd_Tentacle.md)
--   [Bonekeeper](Bone_Keeper.md)
+-   [Bone Keeper](Bone_Keeper.md)
     -   [Giant Femur](Giant_Femur.md)
 -   [Bounder](Bounder.md)
     -   [Bounder Claw](Bounder_Claw.md)
@@ -168,7 +168,7 @@ Mantra Ingredients consist of Mantra Modifiers, unique items that can be utilize
 
 _Main Page: [Treasures](Treasures.md)_
 
-Treasures are a category of item that contain miscellaneous gem items that are found at the bottoms of chests whose main purpose is to be sold and can be sold to [Mantra Collectors](Mantra_Collector.md), and also contain Deep Gems and Elemental Ingredients, items dropped from [Attunement](Attunements.md)\-wielding enemies that can be consumed by the player if they also wield that Attunement to train it, and given to the corresponding [Attunement Trainer](Attunement_Trainers.md) to unlock the attunement.
+Treasures are a category of item that contain miscellaneous gem items that are found at the bottoms of chests whose main purpose is to be sold and can be sold to [Mantra Collectors](Mantra_Collector.md), and also contain Deep Gems and Elemental Ingredients, items dropped from [Attunement](Attunements.md)\-wielding enemies that can be consumed by the player if they also wield that Attunement to train it, and given to the corresponding [Attunement Trainers](Attunement_Trainers.md) to unlock the attunement.
 
 While Treasures are not "Ingredients" in the literally defined sense, some Deep Gems and Elemental Ingredients are used to craft [Outfits](Outfits.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 135984
+revid: 149670
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]
@@ -23,7 +23,7 @@ Used to hold water on the go. You can spawn with a Canteen if you have Tier 3 "A
 
 (Beeswax mainly spawns on trees around the [Etrean Wilds](Etrean_Wilds.md) as well as on a few trees in [Lower Erisia](Lower_Erisia.md), Calabash is also most common around the [Etrean Wilds](Etrean_Wilds.md))
 
-You can also get a Canteen from [Chili's merchant ship](Travelling_Merchant.md).
+You can also get a Canteen from [Merchant Ships](Travelling_Merchant.md).
 
 ### Uses
 

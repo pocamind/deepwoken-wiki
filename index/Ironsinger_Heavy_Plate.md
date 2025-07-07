@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 135106
+revid: 149694
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]

@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 148783
+revid: 149695
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -41,4 +41,4 @@ Silentheart markings dyed pink
 
 File:Dye merchant.png
 
-A dye packet being sold in a Merchant Ship
+A Dye Packet being sold in a Merchant Ship

@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 138110
+revid: 149671
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Tools]
@@ -23,7 +23,7 @@ Gliders are a utility that can be crafted with a schematic given in [Pathfinder'
 
 Anyone is able to craft a glider at any point. Simply head to a [Crafting Station](Crafting_Station.md), use the glider recipe (x2 Stick, x2 Cloth) and craft it. **You no longer need a schematic to craft it.**
 
-Both Gliders and Sharkscale Gliders can also be sold by [Chili](Travelling_Merchant.md) in merchant ships.
+Both Gliders and Sharkscale Gliders can also be sold in [Merchant Ships](Travelling_Merchant.md).
 
 ## Crafting
 

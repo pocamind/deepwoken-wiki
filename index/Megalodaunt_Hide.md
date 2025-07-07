@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Hide
-revid: 147178
+revid: 149656
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -24,8 +24,8 @@ categories: [Items, Drops, Ingredients]
 
 ## Uses
 
+-   Crafting a [Sharkscale Glider](Gliders.md).
 -   Crafting the [Hive Drone](Hive_Drone.md) outfit.
 -   Crafting the [Black Diver](Black_Diver.md) outfit.
--   Crafting the [Sharkscale Glider](Gliders.md) Item.
--   Crafting the [Prophet's Cloak](<Prophet's_Cloak.md>)
+-   Crafting the [Prophet's Cloak](<Prophet's_Cloak.md>) outfit.
 -   Using 5 of them to summon the [Primadon](Primadon,_Titan_of_the_East.md) boss.

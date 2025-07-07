@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 147681
+revid: 149658
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -182,7 +182,7 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 </tr>
 <tr>
   <td colspan="10"><u>Schematics</u> - Weight: 1<br>
-  6th place in the inventory. Consists of blueprints you can turn in at blacksmiths to craft them. The <a href="Gliders.md">Glider</a> Schematic has no weight.</td>
+  6th place in the inventory. Consists of blueprints you can turn in at blacksmiths to craft them.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Quest Items</u> - Weight: None<br>
