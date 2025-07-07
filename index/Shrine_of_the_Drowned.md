@@ -1,6 +1,6 @@
 ---
 title: Shrine of the Drowned
-revid: 148983
+revid: 149600
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Death]
@@ -76,4 +76,4 @@ The Shrine of the Drowned is an NPC located in the [Fragments of Self](Fragments
 
 ## Trivia
 
--   The Drowned Favour gamepass used to cost 500 robux. It was changed at a later date to 1000.
+-   The Drowned Favour product used to cost 500 robux. It was changed at a later date to 1000.

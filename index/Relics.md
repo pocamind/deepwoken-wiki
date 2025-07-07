@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 149507
+revid: 149598
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Items, Equipment]
 
 # Relics
 
-_**FOREWORD**: **An up-to-date spreadsheet with drop locations for all Relics can be found [\[here\]](https://docs.google.com/spreadsheets/d/1gRiACBmfImek5k7PyVQ2ixDm5or5T20hecZ6fS6KLW4/edit?usp=sharing)**_
+_**FOREWORD**: **A spreadsheet with drop locations for all Relics can be found [\[here\]](https://docs.google.com/spreadsheets/d/1gRiACBmfImek5k7PyVQ2ixDm5or5T20hecZ6fS6KLW4/edit?usp=sharing). (Needs slight changes, but is 99% accurate)**_
 
 “ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, seeming almost ashamed. ”
 

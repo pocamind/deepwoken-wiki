@@ -1,6 +1,6 @@
 ---
 title: Drefa
-revid: 143025
+revid: 149640
 source: https://deepwoken.fandom.com/wiki/Drefa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -26,20 +26,57 @@ Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing besi
 
 ## Dialogue
 
-Speaking to her:
+**Selling wood:**
 
-Hey. We need more wood to keep the fire burning, you got any?
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Hey. We need more wood to keep the fires burning, you got any?</td>
+</tr>
+<tr>
+  <td colspan="2">Yeah.</td>
+</tr>
+<tr>
+  <td>[Enough wood]</td>
+  <td>[Not enough wood]</td>
+</tr>
+<tr>
+  <td>Thanks for the help.</td>
+  <td>Uh.. it seems like you don't have much on you. Come back with more wood and we can see about payment.</td>
+</tr>
+<tr>
+  <td>End, Lose 6 Wood, Gained 5 Notes, Gained slight reputation with Etrea</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
-1.  Yeah.
-2.  \[End Dialogue\]
+**Gaining Axe:**
 
-(if you have 6 wood)
+This is the dialogue that plays if you talk to Drefa without yet possessing a [Lumber Axe](Lumber_Axe.md).
 
-Thanks for the help.
-
-(if you don't have 6 wood)
-
-Uh... It seems like you don't much on you. Come back with more wood and we can see about payment.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Looking for some work? I need someone to gather some wood for me.</td>
+</tr>
+<tr>
+  <td colspan="12">Yeah. [Obtain Axe]</td>
+</tr>
+<tr>
+  <td colspan="12">Go cut some trees and bring the wood back here. We need that wood to keep the fires burning in the winter, so you'd be doing us a big favour.</td>
+</tr>
+<tr>
+  <td colspan="12">End, Lumber Axe Obtained</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 148971
+revid: 149604
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -24,6 +24,14 @@ categories: [Relics, Items]
 
 **Smith's Alloy** is one of many [Relics](Relics.md) that can be found having the appearance of [Pluripotent Alloy](Pluripotent_Alloy.md) with a hint of red.
 
+## Farming
+
+Currently known to drop from a wide variety of sources. But they can be obtained fairly consistently from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), the [Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), [Heart of Enmity](Heart_of_Enmity.md), and [World Events](World_Events.md).
+
+They can also be found less consistently from completing [Voidwalker](Origins.md) Bounties, completing the uncommon [Diver Expedition Sea Event](Random_Encounters.md), and [Fishing](Fishing.md).
+
+If you are in dire need of many **Smith's Alloys**, the best and safest way to farm them by far is alternating between killing the [Interluminary Parasol](Interluminary_Parasol.md) and [The Ferryman](The_Ferryman.md). If you are quick or have a group to help, you can kill 2-3 Parasols across different servers before they escape. Once you have done that, you can head to Ferryman and farm him until the next Parasol event.
+
 ## Usage
 
 ### 1\. Quality stars:
@@ -36,11 +44,11 @@ When used on a compatible weapon, the Smith's Alloy can be used to destroy your 
 
 ## Trivia
 
+-   5 of them can be crafted one 1 [Armorer's Needle](<Armorer's_Needle.md>) by hand.
 -   You can hold up to 25 Smith's Alloys at any given point of time.
 -   Smith's Alloy can be used on [False Memory](False_Memory.md).
 -   Smith's Alloy can be used in [Chime of Conflict](Chime_of_Conflict.md), and it'll save the data as it normally would.
 -   Smith's Alloy can't be used on Side Weapons, like Shields.
 -   Using Smith's Alloy won't soulbound your weapon. This can be useful for trading or upgrading the weapons of friends.
--   Smith's Alloy can be obtained from a chest obtained by [fishing](Fishing.md), but the chances are unknown.
--   Smith's alloy can be obtained by using the Hollow forge to convert [Pluripotent Alloys](Pluripotent_Alloy.md) or [Armorer's Needles](<Armorer's_Needle.md>) into Smith's Alloys. This can only be done by people who are using the [Ignition Delver Origin](Origins.md#ignition-delver).
+-   Smith's alloy can be obtained by using the Hollow forge to convert 3 [Pluripotent Alloys](Pluripotent_Alloy.md) into one Smith's Alloy, or 1 [Armorer's Needles](<Armorer's_Needle.md>) into 3 Smith's Alloys. This can only be done by people who are using the [Ignition Delver Origin](Origins.md#ignition-delver).
 -   When you use the Smith's Alloy to create a Motif, it replaces your old weapon with [Formless Shard](Formless_Shard.md). Formless Shard retains your original weapon's enchant and quality stars. This weapon's sole purpose is for the player to still have an equipped weapon after destroying their previous one.
