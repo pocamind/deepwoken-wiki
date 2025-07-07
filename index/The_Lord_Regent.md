@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 149361
+revid: 149718
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
@@ -20,7 +20,7 @@ categories: [Etrean NPCs, NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer
 
 ## Description
 
-Zi'eer, more commonly known as The Lord Regent or by his title, The Fourth Prophet of [The Ministry](The_Ministry.md), is a mysterious and powerful NPC that resides exclusively inside his palace within [Etris](Etris.md). He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of [The Authority](The_Central_Authority.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning. The Ministry may have had a hand in removing the King of Etrea, as a Shadowcaster named Belphalos helped develop a weapon to kill him, with Shadowcast seen as taboo and only used by the Ministry, usage of it being heavily controlled, regulated and any new Shadowcasters being hunted aggressively.
+Zi'eer, more commonly known as The Lord Regent or by his title, The Fourth Prophet of [The Ministry](The_Ministry.md), is a mysterious and powerful NPC that resides exclusively inside his palace within [Etris](Etris.md). He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of [The Authority](The_Central_Authority.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning. The Ministry may have had a hand in removing the King of Etrea, as a Shadowcaster named Belphalos helped develop a weapon to kill him, with Shadowcast seen as taboo and only used by the Ministry, usage of it being heavily controlled, regulated and any new Shadowcasters being hunted aggressively.
 
 While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true aspect or aggressive mutations from his meddling with the world's natural order is unknown.
 
@@ -167,19 +167,18 @@ Lord Regent killing a player whom dared to step on his Coral Throne.
 ## Trivia
 
 -   His throne produces steam.
--   Talking directly to the Lord Regent while standing on the coral throne (so that he glows white, like all other npcs while talking to them) will **ALWAYS** result in you being executed by his Judgement.
+-   Talking directly to the Lord Regent while standing on the coral throne (so that he glows white, like all other npcs while talking to them) will result in you being executed by his Judgement.
     -   This occurs even while the player has the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
         -   Funnily enough, when they player does that, the Lord Regent says the default dialogue as if you talked to him indirectly.
 -   He was based on [Zato One](https://guiltygear.fandom.com/wiki/Zato-ONE) from Guilty Gear, both being villainous, though formerly in Zato's case, blindfolded men with long fair hair who have shadow powers.
--   If you finish his quest and you defeat The Duke **DO NOT** **GO BACK TO HIM UNLESS GOING FOR [CONTRACTOR](Oath%253A_Contractor.md) AND HAVE THE FIRST STEP COMPLETE.** He will end up killing you after confirming dialogue with him.
-    -   Attunement uncaps will however be given immediately after killing [The Duke](Duke_Ishamon_Erisia.md).
+-   If you finish his quest and you defeat Duke Erisia, do not go back to him unless going for [Contractor](Oath%253A_Contractor.md) with the first step complete. He will end up killing you after confirming dialogue with him.
+    -   Attunement uncaps will however be given immediately after killing [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws from using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is suggested by the fact that his throne is decorated with a variety of corals.
     -   As [stated by Arch\_Mage](https://gyazo.com/c88d7bf4c887e776dd4334887393e916), he does not in fact use Shadowcast, and his "black tendril"/Judgement ability likely stems from another source.
     -   It is unclear if him sending Contractors to the Depths to kill Oath bearers empowers him.
--   [A comment from Ragoozer](https://gyazo.com/9c4be296352d1c88e02318fd518a8917) states that the Coral Throne Zi'eer sits on boosts his power.
--   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the Lord Regent does the opposite for reasons unknown.
-    -   Being a Canor does not change interactions with Lord Regent.
--   Seemingly has a negative connection with the Knives of Eylis and its members, calling Voidwalkers "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."
+-   [A comment from ragoozer](https://gyazo.com/9c4be296352d1c88e02318fd518a8917) states that the Coral Throne Zi'eer sits on boosts his power.
+-   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the Lord Regent does the opposite for reasons unknown. However, being a Canor does not change interactions with Lord Regent. It's possible he only holds prejudices against the specific subset who deal in Attunement ingredients, due to their seeming lack of education.
+-   Seemingly has a negative connection with the Knives of Eylis and its members, calling Voidwalkers "filthy, void-touched assassin."
     -   This may be because of the Knives of Eylis' current deals with the Authority.
 -   There are free chests that contain [Erisia](Erisia.md) tier loot on the Throne.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines:

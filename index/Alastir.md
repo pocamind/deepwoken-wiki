@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 137856
+revid: 149747
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -50,5 +50,5 @@ What's that sword?
 
 ## Trivia/Notes
 
--   You can turn in Navaen Hostages you find for the same effect.
+-   You can turn in [Navaen Hostages](Navaen_Hostage.md) you find for the same effect.
 -   He specifically wields the [Hero Blade of Lightning](<Hero's_Blade_of_Lightning.md>)

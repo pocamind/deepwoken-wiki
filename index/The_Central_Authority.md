@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 145402
+revid: 149730
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -78,7 +78,7 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 -   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it may also hint to them being tied to Celestials.
 -   The Central Authority has clear relations with every faction except [Celtor](Lost_Celtor.md).
 -   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer, Etrea's Lord Regent, from causing a Great Drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
-    -   However, the [Operation 'Puppet Master'](Books.md#operation-puppet-master-report) report makes it clear that this was not their reason for invading in the first place, and implies this is being kept a secret from most of the Authority's forces. Their lack of presence on [Minityrsa](Minityrsa.md) and hostilities with The Children Of Navae also seem to contradict with this mission.
+    -   However, the [Operation 'Puppet Master'](Books.md#operation-puppet-master-report) report makes it clear that this was not their reason for invading in the first place, and implies this is being kept a secret from most of the Authority's forces. Their lack of presence on [Minityrsa](Minityrsa.md) and hostilities with [The Children of Navae](The_Children_of_Navae.md) also seem to contradict with this mission.
     -   These may be due to the closing of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) cutting off orders and reinforcements from the Central Luminant.
     -   Interestingly, [Warden Jericho](Warden_Jericho.md) believes the Authority's peacekeeping may be contributing to the drowning, likely due to the casualties it's generating.
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.

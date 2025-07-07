@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 147940
+revid: 149727
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -43,7 +43,7 @@ To obtain it, you must find a Navaen Nomad Captive. They are mostly found in [Er
 -   [Eastern Camp Master](Cheral.md) at [Etris](Etris.md)
 -   [Beiruul](Beiruul.md) at [Meteor Isle](Meteor_Isle.md)
 
-It may also be obtained by speaking to an [Eastern Camp Leader](Eastern_Nomad_Leader.md) with high positive reputation with The Children of Navae, granting you the Fist Style without having to find and rescue a [Navaen Nomad Captive](Navaen_Hostage.md).
+It may also be obtained by speaking to an [Eastern Camp Leader](Eastern_Nomad_Leader.md) with high positive reputation with [The Children of Navae](The_Children_of_Navae.md), granting you the Fist Style without having to find and rescue a [Navaen Nomad Captive](Navaen_Hostage.md).
 
 Completing either of these methods will grant you the Way of Navae Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 

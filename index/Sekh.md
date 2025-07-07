@@ -1,6 +1,6 @@
 ---
 title: Sekh
-revid: 131752
+revid: 149738
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, The Hive, NPCs located in the Eastern Luminant]
@@ -24,7 +24,7 @@ A [Vesperian](Vesperian.md) [Hive Scout](Hive_Scout.md) found in the settlement 
 
 ## Dialogue
 
-His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) and its conflicts, mainly involving [The Hive](The_Hive.md), [The Central Authority](The_Central_Authority.md), [Etrea](Etrea.md) and The Children Of Navae. As well as the inhabitants of Meteor Isle, especially Eres, whom he speaks fondly of.
+His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) and its conflicts, mainly involving [The Hive](The_Hive.md), [The Central Authority](The_Central_Authority.md), [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md). As well as the inhabitants of Meteor Isle, especially Eres, whom he speaks fondly of.
 
 <table><caption>General Dialogue, <i>Not spoken</i> to <a href="Eres.md">Eres</a> yet.</caption>
 <tbody>

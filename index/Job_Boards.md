@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 143120
+revid: 149739
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests]
@@ -62,7 +62,7 @@ _Jobs relating to Summer Isle can be given by the [Summer Company](The_Summer_Co
 
 **Starswept Valley:**
 
-_Jobs relating to the Starswept Valley can be given by [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [The Hundred Legions](The_Hundred_Legions.md) and The Children Of Navae [Navaeiconfaction](The_Children_of_Navae.md) ._
+_Jobs relating to the Starswept Valley can be given by [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [The Hundred Legions](The_Hundred_Legions.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md) ._
 
 -   **Thresher Infestation**
     -   Tasks the player with defeating one [Thresher](Thresher.md).

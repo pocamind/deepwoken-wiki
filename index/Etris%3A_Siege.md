@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 136171
+revid: 149731
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Random Encounters, Etrea, Etrean Luminant]
@@ -61,7 +61,7 @@ Up to nine NPCs are in this event.
 
 One of the only places that will never burn in the Etris Raid Event is [Lord Regents](The_Lord_Regent.md) Palace.
 
--   The Children Of Navae unintentionally help Etris by attacking any Authority NPCS that come too close to their camp in Etrean Wilds.
+-   [The Children of Navae](The_Children_of_Navae.md) unintentionally help Etris by attacking any Authority NPCS that come too close to their camp in Etrean Wilds.
 -   If you encounter this event and are too weak to fight, try staying low at the Nomad Camp, or find high ground.
 -   Additionally, Nell the Ice Trainer will help fight any Authority NPC that wanders too close.
 -   In a nutshell, the lore behind this event is the Central Authority taking action and trying to stop Lord Regent from drowning [Etris](Etris.md) like the [Celtor](Celtor_Wastes.md).

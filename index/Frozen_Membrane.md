@@ -1,6 +1,6 @@
 ---
 title: Frozen Membrane
-revid: 148405
+revid: 149729
 source: https://deepwoken.fandom.com/wiki/Frozen_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -25,3 +25,4 @@ The **Frozen Membrane** is an ingredient dropped from all [Kyrsgarde](Kyrsgarde.
 ## Trivia
 
 -   This is effectively a severed head.
+-   They can be dropped by snipers during the the Ethiron bossfight.

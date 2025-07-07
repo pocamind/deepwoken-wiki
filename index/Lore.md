@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 149532
+revid: 149725
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -343,7 +343,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 ### Navae
 
 -   Religious figure and Celestial.
--   Worshipped by the Navaen Nomads.
+-   Worshipped by the [Navaen Nomads](The_Children_of_Navae.md).
 -   Pioneer of [Frostdraw](Frostdraw.md).
 -   Possibly a more eldritch being.[\[2\]](#cite-note-arch-2)
 -   Exists on an island moving through the world, independent of the [Voidsea](Voidsea.md).
@@ -832,7 +832,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _[Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md)_
 -   **Alliances:** _Etrea (Neutral)_
--   **Enemies:** _[Ignition Union](The_Ignition_Union.md), The Children Of Navae [Navaeiconfaction](The_Children_of_Navae.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), The Central Authority._
+-   **Enemies:** _[Ignition Union](The_Ignition_Union.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), The Central Authority._
 -   **Lore Sources:**
 
 -   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance and ability to fade into the background of the world stage.

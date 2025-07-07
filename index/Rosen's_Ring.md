@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Ring"
-revid: 141856
+revid: 149741
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Items]
@@ -25,7 +25,7 @@ categories: [Equipment, Rings, Items]
 
 ## Description
 
-**Rosen's Ring** is a ring [Equipment](Equipment.md) that adds 1.2 Intelligence scaling to your [Weapon](Weapons.md) damage. The most reliable way to obtain most scaling rings is through [The Ferryman](The_Ferryman.md) and in the [Ancient Rotlands](Ancient_Rotlands.md). However, the Rosen's Ring can also be obtained from common events in [Summer Isle](Summer_Isle.md); such as the The Children Of Navae vs [The Ministry](The_Ministry.md) event.
+**Rosen's Ring** is a ring [Equipment](Equipment.md) that adds 1.2 Intelligence scaling to your [Weapon](Weapons.md) damage. The most reliable way to obtain most scaling rings is through [The Ferryman](The_Ferryman.md) and in the [Ancient Rotlands](Ancient_Rotlands.md). However, the Rosen's Ring can also be obtained from common events in [Summer Isle](Summer_Isle.md); such as the [The Children of Navae](The_Children_of_Navae.md) vs [The Ministry](The_Ministry.md) event.
 
 ## Trivia
 

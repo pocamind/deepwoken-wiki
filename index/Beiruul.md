@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 139424
+revid: 149737
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
@@ -26,7 +26,7 @@ Beiruul is located at [Meteor Isle](Meteor_Isle.md) sitting under a tree above t
 
 ## Quest Details
 
-Completing her sidequest will reward you with EXP, positive The Children Of Navae reputation, two [knowledge](Knowledge.md), and Bravery.
+Completing her sidequest will reward you with EXP, positive [The Children of Navae](The_Children_of_Navae.md) reputation, two [Knowledge](Knowledge.md), and Bravery.
 
 1.  Head over to the side of Fort Merit nearest to Beiruul.
 2.  Climb up Fort Merit with the elevator or the air vents.

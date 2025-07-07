@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 149396
+revid: 149746
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -53,7 +53,7 @@ Events that spawn in Upper Erisia that typically do not involve combat. For more
 -   [Hobo](Hobo.md)
 -   [Pathfinder Gathering](Teacher.md)
 -   [Lost Villagers](<Erisor's_Church.md>)
--   Children of Navae Hostage
+-   [Children of Navae Hostage](Navaen_Hostage.md)
 
 ## Natural Hazards
 

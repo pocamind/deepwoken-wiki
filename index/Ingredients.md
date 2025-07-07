@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 149645
+revid: 149716
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -76,7 +76,7 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 
 #### Monsters
 
--   [Megalodaunt](Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md) and [Crimson Megalodaunt](Crimson_Megalodaunt.md)
+-   [Megalodaunt](Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), and [Crimson Megalodaunt](Crimson_Megalodaunt.md)
     -   [Megalodaunt Hide](Megalodaunt_Hide.md)
 -   [Megalodaunt](Megalodaunt.md) only
     -   [Megalodaunt Coral](Megalodaunt_Coral.md)
@@ -121,8 +121,8 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
     -   [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
     -   [Weathered Timepiece](Weathered_Timepiece.md)
-
-  
+-   [Interluminary Parasol](Interluminary_Parasol.md)
+    -   [Parasol Part](Parasol_Part.md)
 
 ### Mantra Ingredients
 

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 149663
+revid: 149723
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -44,7 +44,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Barber](Barber.md) | Unaligned | [Etris](Etris.md)[Isle of Vigils](Isle_of_Vigils.md)[Greathive Aratel](Greathive_Aratel.md)[Summer Isle](Summer_Isle.md)[Castle Light](Castle_Light.md)[Guild Bases](Guild_Bases.md) | Lets you change your appearance. |  |
 | [Bari](Bari.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Gives tips to new players |  |
 | [Beatra](Beatra.md) | Unaligned | [Derelict Highchurch](Derelict_Highchurch.md) | [Shadowcast](Shadowcast.md) trainer on the surface. | She can't teach you [Shadowcast](Shadowcast.md), only level up mantras. |
-| [Beiruul](Beiruul.md) | The Children Of Navae | [Meteor Isle](Meteor_Isle.md) | If the player gets the right answers she gives you a sidequest called Navae's Retribution. |  |
+| [Beiruul](Beiruul.md) | [The Children of Navae](The_Children_of_Navae.md) | [Meteor Isle](Meteor_Isle.md) | If the player gets the right answers she gives you a sidequest called Navae's Retribution. |  |
 | [Blacksmith](Blacksmith.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md)[Summer Isle](Summer_Isle.md)[Greathive Aratel](Greathive_Aratel.md)[Fort Merit](Fort_Merit.md)[Miner's Landing](<Miner's_Landing.md>)[Meteor Isle](Meteor_Isle.md)[Castle Light](Castle_Light.md)[The Floating Keep](The_Floating_Keep.md)[Voidheart](Voidheart.md)[Guild Bases](Guild_Bases.md) | Lets you craft [Outfits](Outfits.md) and repair them, turn in ores for chests. |  |
 | [Bookkeeper Andros](Bookkeeper_Andros.md) | Unaligned | [Etris](Etris.md), library near the inn | Part of the ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) |  |
 | [Brutus](Brutus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Fort Merit](Fort_Merit.md) | Fortitude unbound | Leaves the player knocked and vulnerable to guards |

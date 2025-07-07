@@ -1,6 +1,6 @@
 ---
 title: Nerin
-revid: 148890
+revid: 149743
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Etrea, Reputation]
@@ -35,13 +35,13 @@ File:Nerin Map.PNG
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The guard gives you a crooked smile.*</i> Have a nice day, friend. If you ever get into trouble, you know who to look for...</td>
+  <td><i>*The guard gives you a crooked smile.*</i> Have a nice day, friend. If you ever get into trouble, you know who to look for...</td>
 </tr>
 <tr>
-  <td><div>End</div></td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -99,13 +99,13 @@ File:Nerin Map.PNG
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*He leans in with a crooked smile.*</i> I might be able to help you if you're able to get some of the heat off of you.</td>
+  <td><i>*He leans in with a crooked smile.*</i> I might be able to help you if you're able to get some of the heat off of you.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

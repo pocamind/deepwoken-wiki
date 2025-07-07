@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 148897
+revid: 149724
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -152,7 +152,7 @@ File:Ignition Union.png
 -   [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)
 -   [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md)
 -   [The Hundred Legions](The_Hundred_Legions.md)
--   The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)
+-   [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)
 -   [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
 -   [Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)

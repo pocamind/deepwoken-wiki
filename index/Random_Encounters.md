@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 149363
+revid: 149726
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -163,7 +163,7 @@ Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event i
 
 #### Meteor Isle Authority Raid
 
-Two [Authority Soldiers](Authority_Soldier.md) will attack [Meteor Isle](Meteor_Isle.md). Killing them does not grant negative reputation with [The Central Authority](The_Central_Authority.md) nor does it grant positive reputation with The Children Of Navae. This event rewards the player with a mediocre chest and XP.
+Two [Authority Soldiers](Authority_Soldier.md) will attack [Meteor Isle](Meteor_Isle.md). Killing them does not grant negative reputation with [The Central Authority](The_Central_Authority.md) nor does it grant positive reputation with [The Children of Navae](The_Children_of_Navae.md). This event rewards the player with a mediocre chest and XP.
 
 #### Meteor Isle Meteor
 

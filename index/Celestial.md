@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 138056
+revid: 149728
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -18,7 +18,7 @@ Template:Races-Main
 
 ## Description
 
-The People of the Stars, so to speak. They are not to be confused with [Lightborns](Lightborn.md), their descendants. Celestials evacuated to the Luminants from the stars when the [Canticlysm](The_Canticlysm.md) descended upon the Old World due to the invasion of their city, Constellia, by the [Kyrsgarde](Kyrsgarde.md) under [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) will. Known Celestials include Navae and Alsin, who have become religious figures in modern times. The [Starkindred](Oath%253A_Starkindred.md) Church gain their powers from drinking the ichor of Celestials. Their appearances seem to vary wildly, with the crucified Celestial being a large, mannequin-like figure with four arms and no features. It has been said that they resemble both eldritch beings and humans.[\[1\]](#cite-note-0-1)
+The People of the Stars, so to speak. They are not to be confused with [Lightborns](Lightborn.md), their descendants. Celestials evacuated to the Luminants from the stars when the [Canticlysm](The_Canticlysm.md) descended upon the Old World due to the invasion of their city, Constellia, by the [Kyrsgarde](Kyrsgarde.md) under [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) will. Known Celestials include [Navae](The_Children_of_Navae.md) and Alsin, who have become religious figures in modern times. The [Starkindred](Oath%253A_Starkindred.md) Church gain their powers from drinking the ichor of Celestials. Their appearances seem to vary wildly, with the crucified Celestial being a large, mannequin-like figure with four arms and no features. It has been said that they resemble both eldritch beings and humans.[\[1\]](#cite-note-0-1)
 
 ## Trivia
 

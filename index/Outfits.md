@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 148655
+revid: 149722
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -128,7 +128,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td><a href="Summer_Dragoon.md">Summer Dragoon</a></td>
 </tr>
 <tr>
-  <td><b>The Children Of Navae</b></td>
+  <td><b><a href="The_Children_of_Navae.md">The Children of Navae</a></b></td>
   <td></td>
   <td><a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a></td>
   <td></td>

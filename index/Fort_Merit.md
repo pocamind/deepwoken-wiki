@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 148383
+revid: 149748
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Central Authority]
@@ -19,7 +19,7 @@ Once a prison at the edge of Etrean influence, now a forward base for the Author
 
 ## Overview
 
-Fort Merit was an [Etrean](Etrea.md) Prison overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, [Etrean Hostages](Etrean_Guardsman_Hostage.md) and Hostage Gremorian Nomads can be found in the cells of Fort Merit.
+Fort Merit was an [Etrean](Etrea.md) Prison overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) and [Navaen Nomad](Navaen_Hostage.md) hostages can be found in the cells of Fort Merit.
 
 It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that can be docked from the shore.
 
@@ -35,7 +35,7 @@ It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that 
 -   Players can find [Brutus](Brutus.md) here, a [Legion](The_Hundred_Legions.md) soldier.
 -   Heavily patrolled by [Authority Peacekeepers](Authority_Peacekeeper.md).
 -   The [Authority Commander](<Authority_Commander_(Enemy).md>) can be found in an office in the prison.
--   Potential to find [Etrean Guardsmen](Etrean_Guardsmen.md) hostages and [Navaen Nomad](Navaen_Hostage.md) hostages.
+-   Potential to find [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) and [Navaen Nomad](Navaen_Hostage.md) hostages.
 -   The Etrean Guardsmaster can be found off the shore in a dinghy.
 -   Training gear can be found in the guild hall
 

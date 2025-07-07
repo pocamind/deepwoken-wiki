@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 145202
+revid: 149719
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -175,7 +175,7 @@ The [Isle of Vigils](Isle_of_Vigils.md) is a small island with a fortress guarde
 
 Here is what makes the Isle of Vigils unique:
 
--   Down the slope heading to the docks, after the antiquarian, Lance's Brother can be found, who will request you to bring a crate of food up to Stratos at the [Temple of The Blade](Temple_of_the_Blade.md). This will reward you 25 notes, **allowing you to start off with 45 notes.**
+-   Down the slope heading to the docks, after the antiquarian, Lance's Brother can be found, who will request you to bring a crate of food up to [Stratos](Stratos.md) at the [Temple of The Blade](Temple_of_the_Blade.md). This will reward you 25 notes, **allowing you to start off with 45 notes.**
 -   A trainer to fight against with no consequences for losing all your HP, allowing you to train Weapon Mastery, Fortitude and learn how to parry different weapon types.
 -   A quest to get the [Weapon Unbound](Attributes_Unbound.md) cards.
 -   More dense in food materials, however has less overall.
