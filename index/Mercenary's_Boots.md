@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 148681
+revid: 149697
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -24,13 +24,17 @@ categories: [Items, Equipment, Legs, Boots]
 | obtainment | Miner's Landing, Second Layer, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
 | description | "..." |
 
+[Mercenary's Garb](<Mercenary's_Garb.md>)
+
+**Mercenary's Boots**
+
 ## Description
 
-Mercenary Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. This equipment grants +2 health and a Talent named Endurance Runner, which negates the speed penalty of low health.
+Mercenary Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. This equipment grants +2 health and a Talent named _[Endurance Runner](Talents.md#alley-cat)_, which negates the speed penalty of low health.
 
 The Mercenary's Boots are part of the **Mercenary's** set; with the only other armor piece being the **[Mercenary's Garb](<Mercenary's_Garb.md>)**.
 
 ## Trivia
 
 -   Has a [Repeater](Repeater.md) on one leg.
--   Best boots for [pips.](Equipment.md) Tied with [Star Boots](Star_Boots.md).
+-   Best boots for [pips.](Equipment.md) Tied with [Star Boots](Star_Boots.md) and alternatives.

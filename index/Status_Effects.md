@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 149056
+revid: 149712
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -421,7 +421,7 @@ Applied by standing near someone with audacity when they're executing someone. W
 
 ### Wither
 
-Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s M1s and Critical Attack, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, or can be applied to self with [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
+Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s M1s and Critical Attack, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, or can be applied to self with [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal, using [Symbiotic Sustain](Oath%253A_Linkstrider.md)_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
 
 ## Deadly Status Effects
 

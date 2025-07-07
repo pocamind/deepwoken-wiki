@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 144413
+revid: 149698
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Garbs]
@@ -24,9 +24,13 @@ categories: [Items, Equipment, Arms, Garbs]
 | obtainment | Chests from:, Crypt of the Unbroken, Miner's Landing, Lodestar, Maestro Evengarde Rest, War Mode, Heart of Enmity |
 | description | "..." |
 
+**Mercenary's Garb**
+
+[Mercenary's Boots](<Mercenary's_Boots.md>)
+
 ## Description
 
-The Mercenary's Garb is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 6% Stealth, 2 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Kick Off, which increases the upward distance wall jumps send you, as well as giving a speed boost after jumping over a wall. It is commonly found in chests from the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Miner's Landing](<Miner's_Landing.md>).
+The Mercenary's Garb is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 6% Stealth, 2 Pips (One guaranteed legendary Pip), and the Talent _[Kick Off](Talents.md#acrobat)_, which increases the upward distance wall jumps send you, as well as giving a speed boost after jumping over a wall. It is commonly found in chests from the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Miner's Landing](<Miner's_Landing.md>).
 
 ## Trivia
 

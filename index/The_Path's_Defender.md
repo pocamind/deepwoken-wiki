@@ -1,9 +1,9 @@
 ---
 title: "The Path's Defender"
-revid: 149692
+revid: 149709
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Items, Shields, Offhand]
+categories: [Weapons, Items, Offhand, Shields]
 ---
 
 # The Path's Defender
@@ -19,16 +19,16 @@ categories: [Weapons, Items, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Ishamon Erisia, Deep Widow, Fishing, Layer 1, Layer 2, Chaser, Merchant Ships, Maestro Evengarde Rest, Lodestar, The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Dread Serpent, War Mode, The Diluvian Mechanism |
+| obtainment | Chaser, Deep Widow, Dread Serpent, Duke Ishamon Erisia, First Layer, Fishing, Heart of Enmity, Interluminary Parasol, Lodestar, Maestro Evengarde Rest, Merchant Ships, Second Layer, The Diluvian Mechanism, The Doom of Caeranthil, War Mode |
 | description | "A venerated shield, donned only by those who have walked their own Path as they see fit." |
 
 ## Description
 
-_The Path's Defender_ is a [side weapon](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 75 FTD and harbors the most posture out of any shield in the game.
+The Path's Defender is a [Offhand](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 75 Fortitude.
 
 The shield's appearance is black and golden/bronze with an eye in the upper middle with dots surrounding it. The edge of the shield is embellished with wave like patterns resembling water or wind.
 
-## Notes & Trivia
+## Trivia
 
--   Prior to the Verse 2 otherwise known as Layer 2 update, the [Khan Shield](Legion_Shield.md) was the best shield in the game, requiring the player to have 60 Fortitude and giving 2 weight.
+-   Prior to the Verse 2, the [Khan Shield](Legion_Shield.md) was the best shield in the game, requiring the player to have 60 Fortitude and giving 2 weight.
 -   The Path's Defender _may_ be based off of the [Drakekeeper's Greatshield](<https://darksouls2.wiki.fextralife.com/Drakekeeper's+Greatshield>) from the game "Dark Souls 2."
