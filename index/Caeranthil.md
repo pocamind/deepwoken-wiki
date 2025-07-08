@@ -1,9 +1,9 @@
 ---
 title: Caeranthil
-revid: 145137
+revid: 149840
 source: https://deepwoken.fandom.com/wiki/Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Destroyed locations]
+categories: [Lore, Destroyed locations]
 ---
 
 # Caeranthil

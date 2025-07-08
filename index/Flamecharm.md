@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 149584
+revid: 149837
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -203,44 +203,6 @@ Fire
 -   Can be modified with a Round Spark, causing the bullets to split in 2 after being fired.
 -   Can be modified with a Blast Spark, causing bullets to explode opponents after 6 hits, but reducing the base damage.
 -   Can be cancelled with right click (not feint)
-
- |
-| 
-
-**Flame Blind** (☆☆☆)
-
-_Shoot a projectile that explodes after a short delay and blinds those looking at it._
-
- | 
-
-## Flame Blind (☆☆☆)
-
-  
-_Shoot a projectile that explodes after a short delay and blinds those looking at it._
-
- |
-| 
-
-20 Ether
-
- | 
-
-N/A
-
- | 
-
-1 Flamecharm
-
- |
-| 
-
-**Effect:** User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
-
--   Blinds nearby targets for 1.5 seconds.
--   Deals 1 damage.
--   Will proc gems such as Wayward Gem.
--   Can be upgraded by the **Concussive Flash** Talent, causing all blinded enemies to be dazed.
--   Cannot be modified with Aeon/Eternal Logstones to blind for longer.
 
  |
 | 
@@ -927,6 +889,44 @@ Fire
 
  |
 | --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Flame Blind** (☆☆☆)
+
+_Shoot a projectile that explodes after a short delay and blinds those looking at it._
+
+ | 
+
+## Flame Blind (☆☆☆)
+
+  
+_Shoot a projectile that explodes after a short delay and blinds those looking at it._
+
+ |
+| 
+
+20 Ether
+
+ | 
+
+N/A
+
+ | 
+
+1 Flamecharm
+
+ |
+| 
+
+**Effect:** User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
+
+-   Blinds nearby targets for 1.5 seconds.
+-   Deals 1 damage.
+-   Will proc gems such as Wayward Gem.
+-   Can be upgraded by the **Concussive Flash** Talent, causing all blinded enemies to be dazed.
+-   Cannot be modified with Aeon/Eternal Logstones to blind for longer.
+
+ |
 | 
 
 **Flame of Denial** (☆☆☆)

@@ -1,11 +1,11 @@
 ---
-title: Multiplying Spark
-revid: 149814
-source: https://deepwoken.fandom.com/wiki/Multiplying_Spark
+title: Tornado Spark
+revid: 149817
+source: https://deepwoken.fandom.com/wiki/Tornado_Spark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Multiplying Spark
+# Tornado Spark
 
 Redirect to:
 

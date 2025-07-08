@@ -1,11 +1,11 @@
 ---
-title: Multiplying Spark
-revid: 149814
-source: https://deepwoken.fandom.com/wiki/Multiplying_Spark
+title: Spring Spark
+revid: 149816
+source: https://deepwoken.fandom.com/wiki/Spring_Spark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Multiplying Spark
+# Spring Spark
 
 Redirect to:
 

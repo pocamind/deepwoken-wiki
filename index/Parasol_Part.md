@@ -1,6 +1,6 @@
 ---
 title: Parasol Part
-revid: 149398
+revid: 149803
 source: https://deepwoken.fandom.com/wiki/Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -24,7 +24,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Uses
 
--   Currently unknown.
+-   Trading with The Gaunt Man for a Parasol's Blight.
 -   The item's description hints at being used for making armor, however there currently aren't any known [Outfits](Outfits.md) that utilize this item in their crafting recipe.
 -   This item **cannot** be used in [brewing](Alchemy.md).
 

@@ -1,9 +1,9 @@
 ---
 title: Warden Jericho
-revid: 145160
+revid: 149858
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Lore figures, Military personnel of The Central Authority]
 ---
 
 # Warden Jericho

@@ -1,9 +1,9 @@
 ---
 title: Drallis Ehr
-revid: 145169
+revid: 149859
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Central Authority]
+categories: [Lore figures, Military personnel of The Central Authority]
 ---
 
 # Drallis Ehr
