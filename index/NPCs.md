@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 149723
+revid: 149760
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -66,7 +66,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the Talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
 | [Con](%2543on.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | None |  |
 | [Das](Das.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md) | Lets you spar with the [Blade Instructor](Blade_Instructor.md) |  |
-| [Deep Shrines](Deep_Shrines.md) | Unaligned | [Temple of Hearts](Temple_of_Hearts.md)[The Hidden Village](The_Hidden_Village.md)[Crypt of the Unbroken](Crypt_of_the_Unbroken.md)[The Lordsgrove](The_Lordsgrove.md)[Meteor Isle](Meteor_Isle.md)[Saramaed Summit](Saramaed_Summit.md)[Fort Merit](Fort_Merit.md)[Widow's Hollow](<Widow's_Hollow.md>)[Songseeker Wilds](Songseeker_Wilds.md)[Ancient Rotlands](Ancient_Rotlands.md)[Starfield Veldt](Starfield_Veldt.md)[Trial of One](Trial_of_One.md)[The Diluvian Mechanism](The_Diluvian_Mechanism.md) | They do a variety of things for knowledge |  |
+| [Deep Shrines](Deep_Shrines.md) | Unaligned | [Temple of Hearts](Temple_of_Hearts.md),[The Hidden Village](The_Hidden_Village.md),[Crypt of the Unbroken](Crypt_of_the_Unbroken.md),[The Lordsgrove](The_Lordsgrove.md),[Meteor Isle](Meteor_Isle.md),[Saramaed Summit](Saramaed_Summit.md),[Fort Merit](Fort_Merit.md),[Widow's Hollow](<Widow's_Hollow.md>),[Songseeker Wilds](Songseeker_Wilds.md),[Ancient Rotlands](Ancient_Rotlands.md),[Starfield Veldt](Starfield_Veldt.md),[Trial of One](Trial_of_One.md),[The Diluvian Mechanism](The_Diluvian_Mechanism.md) | They do a variety of things for knowledge |  |
 | [Deepdelver Gamma](Deepdelver_Gamma.md) | [The Ignition Union](The_Ignition_Union.md) | [First Layer](First_Layer.md), [The Chariot's Spire](<The_Chariot's_Spire.md>) | None |  |
 | [Delta](Delta.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Grants you the [Oath: Arcwarder](Oath%253A_Arcwarder.md) after meeting all requirements. |  |
 | [Den Master](Den_Master.md) | Unaligned | [Etris](Etris.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
@@ -128,7 +128,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Korin](Korin.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | Quest is repeatable |
 | [Kressa](Kressa.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None | Dialogue changes if you're a Voidwalker |
 | [Kujae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | [Summer Isle](Summer_Isle.md), outside the inn | Gacha NPC. Will give you something random from the Summer Isle lootpool in exchange for 350 notes. |  |
-| [Lake](Lake.md) | Moonseye faith | [Upper Erisia](Upper_Erisia.md), bridge to the Temple of the Forgotten Flame | None |  |
+| [Lake](Lake.md) | Moonseye faith | [Upper Erisia](Upper_Erisia.md), bridge to the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) | None |  |
 | [Lance's Brother](<Lance's_Brother.md>) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
 | [Lance Leshi](Lance.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor |  |
 | [Lars](Lars.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Part of the 'Legion Scout' [quest](Quests.md) | Is dead |
@@ -204,5 +204,5 @@ Check the rest out for yourself, canonically smells really bad
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound |  |
 | [Weird Trader](Weird_Trader.md) | Unaligned | Any Ocean | Requests 3 random items for a random relic or legendary and around a 5% chance of an Astral Enchant Stone. |  |
 | [Yamaketzal](Yamaketzal.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md), [Songseeker Temple](Songseeker_Temple.md) | Grants [Chime of Conflict](Chime_of_Conflict.md), getting rid of "Tarnished" Flaw |  |
-| [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [First Layer](First_Layer.md), The Temple of Hearts | Grants wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped, also required for [Contractor](Oath%253A_Contractor.md) obtainment. |
+| [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [First Layer](First_Layer.md), [Temple of Hearts](Temple_of_Hearts.md) | Grants wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped, also required for [Contractor](Oath%253A_Contractor.md) obtainment. |
 | [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations, is a jab at the old azure flames shattered katana royal pathfinder vesperian meta |

@@ -1,9 +1,9 @@
 ---
 title: Temple Courtyard
-revid: 116118
+revid: 149769
 source: https://deepwoken.fandom.com/wiki/Temple_Courtyard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Etrean Luminant]
+categories: [Pages with broken file links, Locations, Etrean Luminant, Erisia]
 ---
 
 # Temple Courtyard
@@ -15,7 +15,7 @@ LocationL Temple Courtyard LocationR
 
 _A high up picture of the Temple Courtyard_
 
-**Temple Courtyard** is a location in _Deepwoken._ It is a sub-location of the Temple Of The Forgotten Flame found in [Upper Erisia](Upper_Erisia.md).
+**Temple Courtyard** is a location in _Deepwoken._ It is a sub-location of the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) found in [Upper Erisia](Upper_Erisia.md).
 
 ## Overview
 
@@ -23,7 +23,7 @@ File:Temple Courtyard.jpg
 
 _**Temple Courtyard guarded by an ever so vigilant watcher.**_
 
-The Temple Courtyard is a small courtyard that leads up to the Temple Of The Forgotten Flame. It is located above the Bandit Camp. The area is similar to that of the ruins.  
+The Temple Courtyard is a small courtyard that leads up to the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). It is located above the Bandit Camp. The area is similar to that of the ruins.  
 In order to open the door to the temple courtyard you have to press a button located in the center of the garden behind an archway.
 
 ## Potential Enemies

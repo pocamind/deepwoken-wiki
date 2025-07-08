@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 149746
+revid: 149761
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -24,7 +24,7 @@ Upper Erisia is home to many sub-locations and is home to a variety of NPCs and 
 
 -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
 -   [Towerstruck Lands](Towerstruck_Lands.md)
--   Temple Of The Forgotten Flame
+-   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
     -   [Temple Courtyard](Temple_Courtyard.md)
 
 -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)

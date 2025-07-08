@@ -1,6 +1,6 @@
 ---
 title: Fountain Gates
-revid: 141301
+revid: 149767
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
@@ -15,7 +15,7 @@ Fountain Gates are a sprawling network of teleportation devices invented by [The
 ## Fountain Locations (To Greathive Aratel)
 
 1.  [The Lordsgrove](The_Lordsgrove.md) - Straight through, at the edge of the cliff
-2.  [Hidden Village](The_Hidden_Village.md) - In the corner to the right
+2.  [The Hidden Village](The_Hidden_Village.md) - In the corner to the right
 3.  [Etris](Etris.md) - In the center of a small maze in [The King's Garden](<The_King's_Garden.md>), to the Left
 4.  [Isle of Vigils](Isle_of_Vigils.md) - To the right of the bridge leading to [The Gale Trainer](Friid,_Master_of_Gale.md), in an old building
 
@@ -27,7 +27,7 @@ Fountain located in Hidden Village (Erisia)
 2.  [Miner's Landing](<Miner's_Landing.md>) - Middle Left
 3.  [The Lordsgrove](The_Lordsgrove.md)/[Starswept Valley](The_Starswept_Valley.md) - Center
 4.  [Ancient Rotlands](Ancient_Rotlands.md)/[Songseeker Wilds](Songseeker_Wilds.md) - Middle Right
-5.  Temple Of The Forgotten Flame/[Upper Erisia](Upper_Erisia.md) - Far Right
+5.  [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)/[Upper Erisia](Upper_Erisia.md) - Far Right
 6.  [Greathive Docks](Greathive_Aratel.md) - Inside [Greathive Aratel](Greathive_Aratel.md) in a room to the left when coming in, labeled "Shipyard".
 
 Fountain located in Lord Regent's Garden (Etris)

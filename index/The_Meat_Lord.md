@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 138229
+revid: 149766
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Random Encounters, NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -40,7 +40,7 @@ categories: [Adret NPCs, Random Encounters, NPCs, Vendors, NPCs located in the E
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Summer Isle](Summer_Isle.md)
--   Temple Of The Forgotten Flame
+-   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
 -   [Towerstruck Lands](Towerstruck_Lands.md)
 -   [Upper Erisia](Upper_Erisia.md)
 -   [Viper's Jaw](<The_Viper's_Jaw.md>)

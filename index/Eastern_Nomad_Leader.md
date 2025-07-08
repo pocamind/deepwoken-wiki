@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 144949
+revid: 149752
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Children of Navae, Children of Navae Enemies]
@@ -57,4 +57,4 @@ An Eastern Nomad Leader executes it's opponent after knocking them:
 
 ## Trivia
 
--   You can hand them a Navaen Hostage to obtain the [Way of Navae](Fists.md) fighting stance.
+-   You can hand them a [Navaen Hostage](Navaen_Hostage.md) to obtain the [Way of Navae](Fists.md) fighting stance.

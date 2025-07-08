@@ -1,6 +1,6 @@
 ---
 title: Ivory
-revid: 138739
+revid: 149772
 source: https://deepwoken.fandom.com/wiki/Ivory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Cut Content, NPCs]
@@ -26,7 +26,7 @@ Ivory tells the player that they are a simple new Pathfinder, and says that they
 
 ### Completion
 
-To complete the quest, head to the Temple Of The Forgotten Flame. Go inside the temple and interact with one of the purple fires. It will then prompt you to go back to Ivory. Return to Ivory afterwards.
+To complete the quest, head to the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Go inside the temple and interact with one of the purple fires. It will then prompt you to go back to Ivory. Return to Ivory afterwards.
 
 ### Reward
 

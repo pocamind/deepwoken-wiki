@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 149587
+revid: 149782
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -463,9 +463,11 @@ Lightning + Blunt
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has a windup of 0.65 seconds.
 -   11 second cooldown.
+-   Can be modified with Perfect/Crystal Lens to make you move slightly forward right before the kick happens
 -   Press your block button immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
     -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
-    -   Doesn't work if the initial kick guardbroke the target (needs further testing)
+    -   The second kick deals 35% of the initial kick's damage.
+    -   Doesn't work if the initial kick guardbroke the target
 
  |
 | 
@@ -1340,7 +1342,7 @@ Static Ace
 
  | 
 
-Using stream core with an active tether link targets your closest active link.
+Using lightning stream with an active tether link targets your closest active link.
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 149725
+revid: 149763
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Deepwoken]
@@ -122,7 +122,7 @@ The Duke
 -   Despite being kind of insane, committing a genocide, and carrying out numerous unethical experiments on his citizens, Duke seems to have good motives, believing that all he is doing is to save Lumen. Worth noting, but in no way justifies his actions.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone. These Golems were sustained by his own power, and it was observed that he could only upkeep a handful at a time to guard his estate in Celtor before he acquired the Forge of Sin.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
--   The Duke extracted an Artifact from the Temple Of The Forgotten Flame after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
+-   The Duke extracted an Artifact from the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
 -   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   The Golems were largely docile for a good period of Erisia's history, due to their lack of numbers, or possibly not even being present at the Erisia mansion while he was having them guard his Celtor estate. The use of human souls via the Forge allowed actual full-scale production of them, as it gave the Golems a power source that wasn't reliant on the limits of Duke Erisia's bell.
@@ -388,7 +388,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 ### Korilfiend
 
 -   The Drowned God of Fire and creator of the Forge of Sin.
--   The Temple of The Forgotten Flame was dedicated to him and housed the Forge.
+-   The Temple of the Forgotten Flame was dedicated to him and housed the Forge.
 -   There is a legendary ring that has some influence with Korilfiend, being the **Deepfire ring.** However it's not known what relation has these rings with the Drowned God.
 -   His physical body is found in the Third Layer.
     -   His existence created Korilfiend's garden, which is seen as his 'essence.'

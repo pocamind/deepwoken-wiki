@@ -1,6 +1,6 @@
 ---
 title: The Birdcage
-revid: 141346
+revid: 149762
 source: https://deepwoken.fandom.com/wiki/The_Birdcage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant]
@@ -21,7 +21,7 @@ File:In-game Birdcage Map Location.png
 
 The in-game map location
 
-The Birdcage resembles a lighthouse-like structure. It is on the furthest bottom right side the Erisia island, to the direct south south-east of the Temple of Forgotten Flame.
+The Birdcage resembles a lighthouse-like structure. It is on the furthest bottom right side the Erisia island, to the direct south south-east of the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 Inside the Birdcage, there are four firepits that can only be lit with a Soul Hearthgem. You can interact with the firepits when you have the item equipped, and have to light the pits in a specific order.
 

@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 148193
+revid: 149751
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -35,7 +35,7 @@ Note that none of these areas are directly connected to each other.
 -   [Terrapod](Terrapod.md)
 -   Authority patrol
 -   [Bandit](Bandit.md) Camp
--   [Knives of Eylis](The_Knives_of_Eylis.md) along with a Navaen Hostage
+-   [Knives of Eylis](The_Knives_of_Eylis.md) along with a [Navaen Hostage](Navaen_Hostage.md)
 -   [Hobo](Hobo.md)
 -   [Pathfinder](Pathfinder.md) Camp
 

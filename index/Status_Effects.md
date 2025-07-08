@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 149712
+revid: 149781
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -429,7 +429,7 @@ These status effects cause certain death if nothing is done about them.
 
 ### Parched/Starved
 
-This effect happens when you are low on thirst/water. When this occurs, your vision will start to blur and darken. If either of these bars are below 20%, you will not be able to heal past 90% health. If one, but not both, of these bare are fully empty, the drain on the other bar will be doubled, your health regen will be halved, and you will not be able to heal past 80% health. If both of these bars are empty, your blood will gradually drain and your health will be drained down to 50%.
+This effect happens when you are low on thirst/stomach. When this occurs, your vision will start to blur and darken. If either of these bars are below 20%, you will not be able to heal past 90% health. If one, but not both, of these bare are fully empty, the drain on the other bar will be doubled, your health regen will be halved, and you will not be able to heal past 80% health. If both of these bars are empty, your blood will gradually drain and your health will be drained down to 50%.
 
 ### Hypovolemic Shock
 

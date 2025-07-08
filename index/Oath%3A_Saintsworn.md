@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 148105
+revid: 149783
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -48,7 +48,7 @@ The Five Heroes were considered to be the Saints of their respective [attunement
 
 Saintsworn obtainment requires 20 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
 
-After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now, if starting from [Greathive Aratel](Greathive_Aratel.md), appears to be Flamecharm -> Thundercall -> Shadowcast -> (Reset) -> Galebreathe -> Frostdraw, however this can do with refinement.
+After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now, if starting from [Greathive Aratel](Greathive_Aratel.md), appears to be Thundercall -> Flamecharm -> Shadowcast -> (Reset) -> Galebreathe -> Frostdraw, however this can do with refinement.
 
 Saintsworn **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 
@@ -122,9 +122,9 @@ These Talents have modified effects based on your current Saint Stance. Due to t
 -   Which hero is summoned and their effect is dependent on the current Saint Stance.
 -   Each passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
     -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent _**[The Floor is Lava](https://deepwoken.fandom.com/wiki/Talents#The_Floor_is_Lava)**_.
-    -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting, block-breaking an enemy with a mantra, or taking damage while casting a mantra (can be from any source), summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _Tornado_ at the enemy, while also suffocating and knocking them away.
+    -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting, block-breaking an enemy with a mantra, or taking damage while casting a mantra (can be from any source), summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _[Tornado](Galebreathe.md#tornado)_ at the enemy, while also suffocating and knocking them away.
     -   **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
-    -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing chill or applying crystals.
+    -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing [Chill](Status_Effects.md#chill) or applying [Crystals](Status_Effects.md#crystal).
     -   **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly increasing the windup, while also greatly increasing the damage of the mantra. The damage buff is currently bugged and does not work, meaning this does nothing but nerf your mantra.
 -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)
 
@@ -157,7 +157,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
         -   **Unyielding Inferno**: Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance.
     -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)
 
-## Other Talents
+### Other Talents
 
 These Talents do not have modified effects depending on Saint Stance, and as such, they luckily won't have such a bloated Talent section.
 
@@ -168,7 +168,7 @@ These Talents do not have modified effects depending on Saint Stance, and as suc
     -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md).
 
 -   **Saint's Overload - Talent**
-    -   After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifiers increased by 10%.
+    -   After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifier effects increased by 10% for 20 seconds.
         -   Increases your Attunement investment scaling by 15% and the effects of your Mantra modifiers by 10% for a few seconds after preforming a full rotation of Saint stances.
         -   Can only proc once per full cycle, meaning you'll have to fully cycle through all of the Stances before you can proc this effect again.
         -   Turns your Saintsblade and the Saintsworn Oath cosmetic (the swords on your back) white on proc.
@@ -177,7 +177,7 @@ These Talents do not have modified effects depending on Saint Stance, and as suc
 -   **Saint's Synergy - Talent**
     -   15% of your highest element scaling is applied to other elemental damage.
         -   15% of the investment scaling from your highest Attuned stat is added to your other Attuned Mantras, granting them slight dual scaling.
-    -   Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) twice.
+    -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) twice.
 
 ## Blade of Saints - Combat Mantra
 
@@ -205,17 +205,13 @@ Blade of Saints is the only Saintsworn Mantra. Blade of Saints varies in accorda
 -   Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.
 -   Can be modified with [Stratus Stones](Mantra_Modifiers.md) and [Cloudstones](Mantra_Modifiers.md) to increase the amount of lightning strikes.
 
-### Cards/Talents:
+### Talent Cards:
 
 File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Saints Overload.png File:Saints Synergy.png
 
 -   +2 Combat Mantra Slots
 -   +2 Support Mantra Slots
 -   +1 Wildcard Mantra Slot
-
-## NPC Interactions:
-
--   N/A
 
 ## Dialogue
 
@@ -239,8 +235,8 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 -   Ironically, this Oath does NOT require the user to be wielding a Heroblade of any kind.
 -   Saintsworn's cosmetic, the Pseudo-Hero's Blades, cannot be dyed.
 -   Saintsworn gives the most mantra slots out of any Oath, being 5 total mantra slots, making it incredibly flexible and spammable.
--   Saint's Overload have 20 seconds of duration before going off and it can be seen from the flying blade that it changes color to white.
--   The 5 blade on your back will vanish one by one after Hero's Assist is triggered.
+-   Saint's Overload's duration running out is signified by the flying blade that it changes color to white.
+-   The 5 blades on your back will vanish one by one after Hero's Assist is triggered.
 -   Your Attunement Path will affect the color of your Saintsblade in the corresponding stance.
 -   The color of the current Saint Stance will apply to: [Ysley's Pyre Keeper's](<Ysley's_Pyre_Keeper.md>) neon sections, [Ignition Deepcrusher's](Ignition_Deepcrusher.md) blade/hammer head, [Hailbreaker's](Hailbreaker.md) blade, [Divine Greataxe's](Crazy_Slots.md) axe head, and [Divine Dagger's](Crazy_Slots.md) blade. For some of these, the coloration change may not be visually apparent, especially if the natural color for these parts are darker colors like black.
     
