@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 149669
+revid: 149910
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -94,7 +94,13 @@ The Lumber Axe in the [Voidheart](Voidheart.md) is located on a table near the [
 
 **Greathive Aratel:**
 
-The Lumber Axe at [Greathive Aratel](Greathive_Aratel.md) on a bench near the [Blacksmith](Blacksmith.md) in the Canopy Plaza.
+The Lumber Axe at [Greathive Aratel](Greathive_Aratel.md) is located on a bench near the [Blacksmith](Blacksmith.md) in the Canopy Plaza.
+
+-   Costs.
+
+**Meteor Isle:**
+
+The Lumber Axe at [Meteor Isle](Meteor_Isle.md) is located on a chair near the Blacksmith.
 
 -   Costs.
 
@@ -105,13 +111,6 @@ The Lumber Axe at [Miner's Landing](<Miner's_Landing.md>) is located leaning aga
 -   Costs.
 
 (The building the Lumber Axe is located in.)
-
-**Voidheart:**
-
-The Lumber Axe in the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
-
--   Costs.
--   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
 
 ## Trivia
 

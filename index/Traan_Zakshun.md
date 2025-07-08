@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 149542
+revid: 149913
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -153,15 +153,16 @@ Depending on the rotation, he can sell 1 to 4 items at once. Typically, he sells
 His item descriptions will change randomly each time he hits his hourly rotation:
 
 -   _A rare find indeed._
+-   _Hey, you break it - you buy it._
+-   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
 -   _It's not overpriced, I swear!_
 -   _I stole these from local bandits, by the way._
 -   _Looks valuable, you should buy it!_
--   _Hey, you break it - you buy it._
 -   _This catch your eye?_
 -   _This could almost be an antique, I think?_
--   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
--   _Truly a divine thingymabob._
 -   _This is a real steal, probably._
+-   _Truly a divine thingymabob._
+-   _You got any Ongo slices? I could really go for a snack...'_
 
 ## Shop Rotation
 
@@ -190,6 +191,7 @@ Sold Items
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
+    <li><b>For </b>: <a href="Gale_Stone.md">Gale Stone</a>.</li>
     <li><b>For </b>: <a href="Dye_Packet.md">Dye Packet</a>.</li>
     <li><b>For </b>: <a href="Glumfig.md">Glumfig</a>.</li>
   </ul></td>
@@ -242,26 +244,26 @@ The black market rotation always has 4 items in stock.
 
 His item descriptions will change randomly each time he sells goods from his Black Market Cache:
 
+-   _Careful. This one's got a history.. I think._
+-   _Got somethin' that might interest ya..._
+-   _I uhh, yeah I really shouldn't have these._
 -   _I barely know what I'm looking at here._
+-   _I need to use these crowns to buy some earplugs for that ear bleeding sea snake.._
+-   _I'd wipe this for fingerprints._
 -   _I've actually found myself in a spot of trouble when I was out and about with these after I got them.._
--   _You wouldn't believe how hard these were to find._
+-   _It's Antique! Scratch that, Brand New!_
+-   _Maybe clean this when you get a minute._
+-   _Maybe I should get into mystery boxes... You'd buy one right?_
+-   _No questions, no returns._
+-   _Not sure if I really want to let this one go... if that makes you want it more?_
+-   _Oh this one's verrry special - I can only let you buy one._
+-   _Okay, you really have to be careful with this._
+-   _Try not to draw attention when you walk out of here alright?_
 -   _This isn't overpriced, it's MY SHOP!_
 -   _This one's actually worth more than two times my price... I promise!_
--   _Maybe clean this when you get a minute._
--   _Okay, you really have to be careful with this._
--   _Oh this one's verrry special - I can only let you buy one._
 -   _Whispers say this was lost to time... ooOOOooo !!_
--   _No questions, no returns._
--   _I'd wipe this for fingerprints._
--   _Maybe I should get into mystery boxes... You'd buy one right?_
--   _Careful. This one's got a history.. I think._
 -   _You want it? It's yours my friend! So long as you have enough crowns._
--   _It's Antique! Scratch that, Brand New!_
--   _I need to use these crowns to buy some earplugs for that ear bleeding sea snake.._
--   _Try not to draw attention when you walk out of here alright?_
--   _Got somethin' that might interest ya..._
--   _Not sure if I really want to let this one go... if that makes you want it more?_
--   _I uhh, yeah I really shouldn't have these._
+-   _You wouldn't believe how hard these were to find._
 
 ## Black Market Shop Rotation
 

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 148445
+revid: 149888
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -90,7 +90,7 @@ File:Mudskipper Brute Slamdown.gif
 **Call of the Horde**  
 (★★★)
 
- | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two random [Mudskippers](Mudskipper.md). | 
+ | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two random [Mudskippers](Mudskipper.md). Also inflicts some amount of insanity. | 
 
 File:Mudskipper Brute Roar.gif
 

@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 149596
+revid: 149908
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -188,7 +188,6 @@ Ice
 
 -   Inflicts Chill.
 -   It will proc crystals if the user has **Glass Path: Crystallization**.
--   Will lock the user in the direction they are facing.
 
  |
 | 
