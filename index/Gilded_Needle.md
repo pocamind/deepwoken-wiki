@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 148808
+revid: 149789
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -19,7 +19,7 @@ categories: [Relics]
 
 ## Description
 
-Crafted using 5 [Armorer's Needles](<Armorer's_Needle.md>) and 1 [Gold](Ores.md) (Can be Pure, can be crafted without a crafting bench)
+Crafted using 3 [Armorer's Needles](<Armorer's_Needle.md>) and 1 [Gold](Ores.md) (Can be Pure, can be crafted without a crafting bench)
 
 Obtained rarely as a reward for completing the [Carnival of Hearts](Carnival_of_Hearts.md) [World Event](World_Events.md). Additionally, this item can be rarely sold by [Traan Zakshun](Traan_Zakshun.md) for when his black market rolls around.
 

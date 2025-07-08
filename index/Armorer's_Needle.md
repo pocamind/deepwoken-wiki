@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 149603
+revid: 149785
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -27,7 +27,7 @@ One **Armorer's Needle** can be crafted by combining **5** [Smith's Alloy](<Smit
 
 If your slot has the Ignition Delver [Origin](Origins.md), you can craft them at the [Hollow Forge](Hollow_Forge.md) with only **3** [Smith's Alloy](<Smith's_Alloy.md>) or **9** [Pluripotent Alloy](Pluripotent_Alloy.md).
 
-It can also be crafted into the [Gilded Needle](Gilded_Needle.md) with 5 **Armorer's Needles** and 1 gold ore, or crafted into a [Forge Needle](Forge_Needle.md) with 1 **Armorer's Needles** and 3 [Smith's Alloy](<Smith's_Alloy.md>).
+It can also be crafted into the [Gilded Needle](Gilded_Needle.md) with 3 **Armorer's Needles** and 1 gold ore, or crafted into a [Forge Needle](Forge_Needle.md) with 1 **Armorer's Needles** and 3 [Smith's Alloy](<Smith's_Alloy.md>).
 
 ## Farming
 
