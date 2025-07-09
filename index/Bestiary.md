@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 149646
+revid: 149943
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -364,5 +364,5 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 
 -   As of June 23rd, 2025, 7 out of the 29 current entries are missing a picture/don't have one at all.
     -   These include: Sworn Angel, Terrapod, Crustaceous Rex, Duke Ishamon Erisia, Scion of Ethiron, Maestro Evengarde Rest, and The Ferryman.
--   Several monsters don't have or don't contribute to a Bestiary entry, these include: [Crab](Crab.md), [Mudskipper Knight](Mudskipper_Knight.md), [Rogue Construct](Rogue_Construct.md), [Hive Construct](Hive_Construct.md)\*, [Carbuncle](Carbuncle.md), and [Diver Husk](Diver_Husk.md).
+-   Several monsters don't have or don't contribute to a Bestiary entry, these include: [Crab](Crab.md), [Rogue Construct](Rogue_Construct.md), [Hive Construct](Hive_Construct.md), [Carbuncle](Carbuncle.md), and [Diver Husk](Diver_Husk.md).
 -   The [Gigameds](Gigamed.md) spawned by the [King Gigamed](King_Gigamed.md) do not count towards the Gigamed Bestiary completion.

@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 146922
+revid: 149954
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons]
@@ -34,3 +34,4 @@ The Scimitar is a Medium type weapon that can be obtained from chests found in [
 -   Meeting the requirement of MED, the damage is (15.7)
 -   At max MED, the damage is (18.4)
 -   Has the fastest medium sword swing speed in the game.
+-   In the July 7th 2025 update, the Scimitar was remodeled.

@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 149913
+revid: 149932
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -162,7 +162,10 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _This could almost be an antique, I think?_
 -   _This is a real steal, probably._
 -   _Truly a divine thingymabob._
--   _You got any Ongo slices? I could really go for a snack...'_
+-   _You got any Ongo slices? I could really go for a snack..._
+-   _Isn't it weird how there's like next to no fruit in Erisia? I had to plant my own tree near the shoreline... if you care._
+-   _This one's so valuable it's been sitting around for years!_
+-   _Oof, man. Are you sure you can afford this heat?_
 
 ## Shop Rotation
 

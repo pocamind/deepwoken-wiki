@@ -1,9 +1,9 @@
 ---
 title: Chick
-revid: 138551
+revid: 149936
 source: https://deepwoken.fandom.com/wiki/Chick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Monsters, Enemies]
+categories: [Cut Content, Monsters]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -14,7 +14,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Chicks were a Monster designed for Deepwoken that were scrapped.
+Chicks were a Monster designed for Deepwoken that was scrapped.
 
 They were bipedal entities sporting a crystalline body, feathers and a single glowing eye. It was formerly a monster created for the [Eternal Gale](Second_Layer.md), much like how the [Miasmera](Miasmera.md) was the precursor to what we now know as the [Kyrsgarde](Kyrsgarde.md), though they never made it out of the concept art phase.
 

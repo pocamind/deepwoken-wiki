@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 148954
+revid: 149922
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -767,7 +767,8 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   **November 10, 2023** - Harrowing is made available from the [Hallowtide '23 Medal](Seasonal_Medals.md) for 10 Knowledge.
 -   **April 5, 2024** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
 -   **August 23, 2024** - Equipment enchantment can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
--   **February 1, 2025** - The weapon enchant Curse of rhaemen's ember is added.
+-   **February 1, 2025** - The weapon enchant Curse of Rhaemen's ember is added.
+-   **July 7, 2025** - The weapon enchants Void, Parasol's Blight and Nightbringer were added, the equipment enchantment Rain was also added.
 
 ## Tips/Trivia
 
@@ -781,9 +782,10 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
         
         Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
         
+       .
         -   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
--   Umbral Knight lost its curse in a shadow update on **26-27 December 2021**
+-   Umbral Knight lost its curse in a shadow update on **December 26/27, 2021**.
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon, this was not true though and has been confirmed by Yayafino to be a big lie._
         
         Yayafino confirming the old Umbral Knight curse was never real.

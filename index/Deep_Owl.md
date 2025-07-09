@@ -1,9 +1,9 @@
 ---
 title: Deep Owl
-revid: 149764
+revid: 149934
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters, Enemies]
+categories: [Pages with broken file links, Monsters]
 ---
 
 # Deep Owl

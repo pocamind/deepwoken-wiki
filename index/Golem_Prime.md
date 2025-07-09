@@ -1,9 +1,9 @@
 ---
 title: Golem Prime
-revid: 149813
+revid: 149938
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies]
+categories: [Monsters]
 ---
 
 # Golem Prime
