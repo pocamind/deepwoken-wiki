@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 149749
+revid: 150049
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2912,14 +2912,13 @@ _**"My cure is most effective."**_
 
 -   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health)
     -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan's](Khan.md) Versatile Talent.
-        -   Similarly to Versatile, for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 45 MED.
+        -   Similarly to [Khan's Versatile](Khan.md), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 45 MED.
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](Deep_Shrines.md) (primarily [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)).
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   Ankle Cutter - \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
     -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1.
     -   Ankle Cutter has innate bleed.
-    -   Flow state makes Ankle Cutter faster as well as increasing its by 48%.
     -   5 second cooldown.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
@@ -2941,13 +2940,11 @@ _**"My cure is most effective."**_
     -   Movesets differ depending on the weapon type; Light, Medium, or Heavy.
     -   11s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
     -   Medium and Heavy variants are capable of auto-gripping with Flow State active.
-    -   Light - deals 10 Fixed Damage.
-    -   Medium - deals 20 Fixed Damage (35 in flow state)
-    -   Heavy - deals 30 Fixed Damage
+    -   Deals fixed damage per weapon type.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Merciless Blade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - You can now execute enemies much faster.
-    -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
+    -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds).
     -   Prerequisite: [Oath: Silentheart](Oath%253A_Silentheart.md)
 
 -   Relentless Hunt \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - M1 while doing an Aerial Attack to initiate a special gap closer attack.
@@ -2955,18 +2952,14 @@ _**"My cure is most effective."**_
     -   11s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
     -   Can be used at a great range.
     -   Has faster windup with Flow State active. Useful for mixups.
-    -   Light - 15 Fixed Damage
-    -   Medium - 30 Fixed Damage (15 each) (20 each in flow state)
-    -   Heavy - 25 Fixed Damage
+    -   Deals fixed damage per weapon type.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Rising Star \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Press CTRL + M2 to activate a special uppercut attack.
     -   Instead of being binded to M2, it's actually binded to your feint key. Meaning if you've changed your Feint keybind off M2, M2 will no longer proc Rising Star.
     -   Movesets differ depending on the weapon type; Light, Medium, or Heavy.
     -   7.5s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
-    -   Light - 35 Fixed Damage (15 + 20)
-    -   Medium - 30 Fixed Damage (40 in flow state)
-    -   Heavy - 40 Fixed Damage
+    -   Deals fixed damage per weapon type.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   True Vantage \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
@@ -2981,6 +2974,7 @@ _**"My cure is most effective."**_
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
+    -   Deals fixed damage per weapon type.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 Knowledge to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 ### Silvertongue

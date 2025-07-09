@@ -1,6 +1,6 @@
 ---
 title: "Sailor's Fleece"
-revid: 149995
+revid: 150010
 source: https://deepwoken.fandom.com/wiki/Sailor's_Fleece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Equipment, Arms]
@@ -23,7 +23,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Voidsea events |
+| obtainment | Voidsea events, Sold by Traan Zakshun for |
 | description | "A thick woolen fleece, somewhat scratchy in texture, commonly work by sailors in the East. When the Suncross falls into the voidfog the seas of Lumen get surprisingly chilly." |
 
 The **Sailor's Fleece** are a common piece of equipment that can be found in chests from [Voidsea](Voidsea.md) events.

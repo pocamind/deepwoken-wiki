@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 149368
+revid: 150047
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -82,7 +82,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
     -   You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
         -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1 and adding 30% as bleed dmg.
         -   Can be used while sliding down slopes at no cost to your speed.
-        -   Flow state makes ankle cutter faster as well as increasing DMG by 48%
+        -   Flow State makes ankle cutter faster as well as increasing its damage. The damage buff depends on the base damage of the attack, scaling down the higher your damage is.
         -   5 second cooldown.
 
 -   **Dread Fighter - Talent**
@@ -94,15 +94,14 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
     -   Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
         -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
         -   Given as a Talent tool.
-        -   Flow state changes the behavior of a move
-            -   Does increased damage
-                -   e.g. medium mayhem damage (20 -> 35), medium rising star (30 -> 40), medium relentless hunt (30 damage overall -> 40 damage overall)
-                -   Heavy mayhem (30.9 -> 30.9), Heavy rising star (41.2 -> 41.2), Heavy Relentless hunt (25.75 -> 30.9)
-            -   Medium and heavy mayhem autogrip
-            -   Light relentless hunt now returns to the user back to their original position and preforms a secondary slash there
-                -   You can reload during the second slash
-            -   Changes windup of ankle cutter and possibly other moves
-            -   _**Although it does provide buffs it adds a loud whooshing sound effect right before you do the move**_
+        -   Flow State changes the behavior of a move:
+            -   Increases the damage of some Silentheart abilities.
+                -   e.g. medium mayhem damage (20 -> 35), medium rising star (30 -> 40), medium relentless hunt (30 damage overall -> 40 damage overall).
+            -   Medium and heavy mayhem autogrip.
+            -   Light relentless hunt now returns to the user back to their original position and preforms a secondary slash there.
+                -   You can reload during the second slash.
+            -   Changes windup of some Silentheart abilities.
+            -   _**Although it does provide buffs it adds a loud whooshing sound effect right before you do the move.**_
         -   Active for 1 second. ~4s CD.
 
 -   **Mayhem - Talent Ability**
@@ -110,8 +109,8 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   11s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
         -   Medium and Heavy variants are capable of auto-gripping with Flow State active.
-        -   Light - deals 10 Fixed Damage.
-        -   Medium - deals 20 Fixed Damage (35 in flow state)
+        -   Light - deals 25 Fixed Damage (26 in Flow State).
+        -   Medium - deals 20 Fixed Damage (35 in Flow State)
         -   Heavy - deals 30 Fixed Damage
 
 -   **Merciless Blade - Talent**
@@ -125,18 +124,17 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   11s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
         -   Has faster windup with Flow State active. The delay can trick opponents.
-        -   Light - 15 Fixed Damage
-        -   Medium - 30 Fixed Damage (15 each) (20 each in flow state)
+        -   Light - 20 Fixed Damage (teleports back to the cast position in Flow State)
+        -   Medium - 30 Fixed Damage (15 each) (21 each in Flow State)
         -   Heavy - 25 Fixed Damage
 
 -   **Rising Star - Talent Ability**
     -   Press CTRL + M2 to activate a special uppercut attack
         -   7.5s CD per weapon type.
         -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
-        -   _Flow-State makes wind-up Slower? (More testing Needed)_
-        -   Light - 35 Fixed Damage (15 + 20)
-        -   Medium - 30 Fixed Damage (40 in flow state)
-        -   Heavy - 40 Fixed Damage
+        -   Light - 40 Fixed Damage (20 + 20)
+        -   Medium - 30 Fixed Damage (40 in Flow State)
+        -   Heavy - 40 Fixed Damage (faster windup in Flow State)
 
 -   **True Vantage - Talent**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
@@ -150,7 +148,11 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 
 -   **Vengeful Pursuit - Talent Ability**
     -   Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you
-        -   8 seconds cooldown.
+    -   Deals fixed damage based on weapon type.
+        -   Light: 18
+        -   Medium: 21.6
+        -   Heavy: 32.76
+    -   8 second cooldown.
 
 ## Notes
 

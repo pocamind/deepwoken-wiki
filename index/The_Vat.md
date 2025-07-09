@@ -1,6 +1,6 @@
 ---
 title: The Vat
-revid: 149891
+revid: 150063
 source: https://deepwoken.fandom.com/wiki/The_Vat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,6 +25,5 @@ Third Trial: [Parliament](Parliament.md)
 
 ## Trivia
 
-It should be noted that you can wipe from this trial and you shouldn't go unprepared. It is highly advised that you have your bell check ready in case something goes south, you'll have higher chances of success.
-
-The Trials almost instantly after you leave force field
+-   It should be noted that you can wipe from this trial and you shouldn't go unprepared. It is highly advised that you have your bell check ready in case something goes south, you'll have higher chances of success.
+-   The Trials start almost instantly after you leave force field

@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 147815
+revid: 150040
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items, Medium Weapons]
@@ -10,18 +10,19 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 
 | Hero's Blade of Frost | |
 |---|---|
-| type | Elemental Weapon |
+| type | Sword |
 | requirements | 75 ICE, LVL 11 |
 | damage | 20 |
 | scaling | ICE: 5.5 |
 | range | 8 |
 | swing speed | 1x |
+| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, Sold in Traan Zakshun's black market for, Sold in Traan Zakshun's regular shop for |
 | description | “A blade said to be enruned with a passage of the song, it evokes the freezing oblivion of the cold wastes.” |
 
 ## Description

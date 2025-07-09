@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 149837
+revid: 150048
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -959,7 +959,7 @@ N/A
 **Effect:** Caster conjures an aura of flame in their hand before forcefully inserting it in their chest. Ritual Casted.
 
 -   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds with Azure Flames, if damage isn't substantial.
-    -   Regenerates 2% of the user's health per Mantra level upon receiving lethal damage. This healing is buffed by 20% with Azure Flames.
+    -   Regenerates 12%/14%/16%/18%/20% of the users health per level, upon receiving lethal damage. This healing is further increased by 10% with Azure Flames.
 -   Flame stays in chest for the duration of the Mantra.
 -   Freezes user in place for a brief moment after casting.
 -   Restores some of the user's Sanity.

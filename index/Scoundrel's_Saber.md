@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 149987
+revid: 150045
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Medium Weapons, Swords, Weapons with Unique Criticals]
@@ -43,3 +43,4 @@ The critical has a cooldown of **4 seconds**.
 -   This is part of the Saber weapon family, along with the [Officer Saber](Officer_Saber.md) and [Cavalry Saber](Cavalry_Saber.md).
 -   The critical has a very inconsistent hitboxes.
 -   The Scoundrel's Saber had a bug on release, where if you \[\[Pluripotent Alloy|Template:AlloyedColor\]\] it, it would turn into an [Alloyed Officer Saber](Officer_Saber.md#alloyed).
+    -   The above trivia note uses past tense, however this is still the case. **Do not alloy the Scoundrel's Saber**.

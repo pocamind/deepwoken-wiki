@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 149966
+revid: 150043
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -166,6 +166,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _This one's so valuable it's been sitting around for years!_
 -   _Truly a divine thingymabob._
 -   _You got any Ongo slices? I could really go for a snack..._
+-   _This usually isn't the case but I almost drowned getting this haha._
 
 ## Shop Rotation
 
@@ -206,20 +207,14 @@ Sold Items
     <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
     <li><b><font>Medium Weapons</font></b>: <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
     <li><b><font>Heavy Weapons</font></b>: <a href="Adretian_Axe.md">Adretian Axe</a>.</li>
-  </ul><p><b>For </b>:</p>
-  <ul>
-    <li><b><font>Medium Weapons</font></b>: [[Falchion#Alloyed|Template:AlloyedColor]], [[Scalesplitter#Alloyed|Template:AlloyedColor]].</li>
-  </ul><p><b>For </b>:</p>
+  </ul><p><b>For </b>: [[Falchion#Alloyed|Template:AlloyedColor]], [[Scalesplitter#Alloyed|Template:AlloyedColor]], <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.<br>
+  <b>For </b>:</p>
   <ul>
     <li><b><font>Light Weapons</font></b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Needle's_Eye.md">Needle's Eye</a>.</li>
     <li><b><font>Medium Weapons</font></b>: <a href="True_Seraph_Spear.md">True Seraph Spear</a>.</li>
-  </ul><p><b>For </b>:</p>
-  <ul>
-    <li><b><font>Heavy Weapons</font></b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.</li>
-  </ul><p><b>For </b>:</p>
-  <ul>
-    <li><b><font>Heavy Weapons</font></b>: <a href="Night_Axe.md">Night Axe</a>.</li>
-  </ul></td>
+  </ul><p><b>For </b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.<br>
+  <b>For </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>.<br>
+  <b>For </b>: <a href="Night_Axe.md">Night Axe</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -295,8 +290,7 @@ Sold Items
     <li><b>For </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>.</li>
     <li><b>For </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Forge_Needle.md">Forge Needle</a>.</li>
     <li><b>For </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
-    <li><b>For </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
-    <li><b>For </b>: <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
+    <li><b>For </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
     <li><b>For </b>: <a href="Enchantments.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
   </ul></td>
 </tr>
@@ -304,7 +298,7 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For </b>: <a href="Crypt_Blade.md">Crypt Blade</a>.</li>
+    <li><b>For </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Hero_Blades.md">Hero Blades</a> (all of them).</li>
     <li><b>For </b>: <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
     <li><b>For </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>.</li>
     <li><b>For </b>: <a href="Red_Death.md">Red Death</a>.</li>

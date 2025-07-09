@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 149343
+revid: 150056
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -160,16 +160,9 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><a href="Murmur%253A_Ardour.md">Murmur: Ardour</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Doom_of_Caeranthil's_Scale.md">Doom of Caeranthil's Scale</a> (rare, direct drop), <a href="Deep_Gems.md">Deep Gems</a> (all)</li>
     <li>One <a href="Crowns.md">Crown</a></li>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
-    <li><a href="Rain_Spire.md">Rain Spire</a></li>
-    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><a href="Void_Spire.md">Void Spire</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-  </ul></li>
+    <li><a href="Relics.md">Relics</a>: [[Armorer's Needle|Template:RelicColor]], [[Rain Spire|Template:RelicColor]], [[Smith's Alloy|Template:RelicColor]], [[Void Spire|Template:RelicColor]], [[Sinner's Ash|Template:RelicColor]]</li>
   </ul></td>
 </tr>
 <tr>

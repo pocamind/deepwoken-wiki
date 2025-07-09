@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 149922
+revid: 150051
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -17,9 +17,7 @@ Enchantments have a set chance to be applied to a weapon during the following sc
 -   Chiefly, any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted).
 -   Talking to [Laplace](Laplace.md) and trading three enchanted items for a new random enchant on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
 -   [Laplace](Laplace.md) lets you turn in 5 [Knowledge](Knowledge.md) for a random [Enchant Grease](Enchant_Grease.md)
-
 -   Talking to [Calamus](Calamus.md) and completing his quest can give you 1 enchant Item.
-
 -   Talking to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn in 5 [Kyrsan Medallions](Kyrsan_Medallions.md) for a random Enchant Grease or Enchant Stone.
 -   Using an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) to apply an enchantment to a weapon or piece of equipment respectively.
     -   The [Deepshore Fossil](Deepshore_Fossil.md) is a great way to get a desired Enchantment Stone.
@@ -170,12 +168,26 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Nightbringer<div></div></font></center></td>
+  <td><div><p>On hit, steal a portion of your opponent's Ether.<br>
+  The amount of Ether stolen is very sizeable.</p>
+  <p>Directly dropped from <a href="Parliament.md">Parliament</a> (uncommon).</p></div></td>
+  <td><div>The weapon turns black with black shadow effects enveloping it.</div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Obfuscation<div></div></font></center></td>
   <td><div><p>Landing close range hits give a speed boost for 2 seconds.<br>
-  </p>
-  <p><br>
-  </p></div></td>
-  <td><div>The weapon turns translucent and is enveloped in a white mist.</div></td>
+  Gain chip damage, with the chip amount depending on weapon type. (LHT: 2.5%, MED: 5%, HVY: 7.5%)</p></div></td>
+  <td><div>The weapon turns gains a white outline and is enveloped in a white mist.</div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Parasol's Blight<div></div></font></center></td>
+  <td><div><p>On player kill, an explosion is caused, summoning a <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a>, <a href="Alpha_Megalodaunt.md">Alpha Megalodaunt</a>, or <a href="Nautilodaunt.md">Nautilodaunt</a>.</p>
+  <p>The player doesn't need to be directly gripped by you, as long as you were credited for the kill.</p>
+  <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 1 <a href="Parasol_Part.md">Parasol Part</a>.</p></div></td>
+  <td><div>The weapon is covered in the stone texture, with the lighter parts becoming a light purple color.</div></td>
 </tr>
 <tr>
   <td><figure>File:Enchant Providence Thorns.gif<figcaption></figcaption></figure><center><br>
@@ -262,6 +274,16 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Adds <a href="Status_Effects.md#temporary-health">Temporary Health</a> for 20% of damage dealt (capped to 100 temp hp at a time), and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
   The healing is not affected by PVE Scaling.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Void<div></div></font></center></td>
+  <td><div><p><br>
+  On hit, apply Anti-Heal. Additionally, all player grips <b>drown them</b>, sending them to <a href="The_Depths.md">The Depths</a> regardless of if their health is stained or not.</p>
+  <p>The player doesn't need to be directly gripped by you, as long as you were credited for the kill.</p>
+  <p>Acts very similarly to a <a href="Void_Spire.md">Void Spire</a>.</p>
+  <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 25 <a href="Void_Spire.md">Void Spires</a> and .</p></div></td>
+  <td><div>Weapon is covered in a white mist. Similar to Wild's visual effects.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -559,6 +581,28 @@ Equipment is covered in white electricity.
 | 
 
   
+Rain
+
+ | 
+
+On proc, create a rain cloud above your head.
+
+This rain cloud functions as normal rain, debuffing [Flamecharm](Flamecharm.md) abilities by 10%, increasing [Thundercall](Thundercall.md) (if you have the [Stratoshock](Talents.md#thundercaller) Talent) and Storm Enchantment's damage, and increasing the damage of your [Frostdraw](Frostdraw.md) abilities if it's Winter.
+
+If you have the **Chilling** Enchantment on your weapon, or if it's [Winter](Seasons.md), create snow instead.
+
+If you have **Stench** on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead.
+
+Obtained from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Rain Spires](Rain_Spire.md) and.
+
+ | 
+
+Equipment is covered in rain. (No demo yet)
+
+ |
+| 
+
+  
 Stench
 
  | 
@@ -809,7 +853,6 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   Most, if not all curses emit sound when equipped, with some being louder than others
 -   Curse of the Unbidden has weird PvE interactions. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
 -   In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot.
--   Despite being a medium weapon with fist m1's Purple Cloud counts as a gun for procing enchants (chilling is tested others not)
 -   Blazing can NOT be used to ignite campfires that are unlit by m1's.
 -   The thunder strike caused by using Storm during the rain trains your [Thundercall](Thundercall.md) by a seemingly noticeable portion.
 
