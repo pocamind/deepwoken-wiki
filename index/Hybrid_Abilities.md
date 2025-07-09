@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 146936
+revid: 150003
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -250,8 +250,7 @@ Wind + Lightning + Slash
 </tr>
 <tr>
   <td><center>Cold Blooded<br>
-  <sup>[Bloodsong]</sup><br>
-  <sup></sup></center></td>
+  <sup>[Bloodsong]</sup></center></td>
   <td><center>40 Bloodrend<br>
   40 Frostdraw</center></td>
   <td><center>Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)</center></td>

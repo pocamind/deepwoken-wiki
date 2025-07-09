@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 149382
+revid: 149976
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -40,13 +40,13 @@ When all three have been retrieved, they can be placed on the case that is right
 
 It can also be obtained as a direct drop from Chaser, as well as [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
-## Criticals
+## Critical
 
-For the **standing** critical, the user moves forward in the direction they are facing doing a 360° sweep. This attack guard breaks. Standing crit deals 115% of a m1's damage, Inflicts 25% blood poisoning with 1 second windup. Also applies a short ragdoll.
+For the **standing** critical, the user moves forward in the direction they are facing doing a 360° sweep, striking the opponent and applying Blood Poisoning and briefly ragdolling them. This attack guardbreaks. The standing critical has the following stats: 140% of scaled damage, inflicts 25% Blood Poisoning, and has a 1 second windup.
 
-While running when performing the critical, you will move forward at the same speed of when you were running. Running Crit deals 115% of a m1, Inflicts 20% blood poisioning 0.75 sec windup and it deals 35+ posture.
+For the running critical, the user rushes forward and performs a much quicker sweep before striking the opponent, applying Blood Poisoning. The running critical has the following stats: 115% of scaled damage, inflicts 20% Blood Poisoning, has a 0.75 second windup, and deals 35+ posture.
 
-**The cooldown for both criticals is 10 seconds.**
+The cooldown for both criticals is **10 seconds**.
 
 ## Trivia
 

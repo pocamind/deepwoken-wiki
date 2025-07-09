@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 149658
+revid: 149979
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -299,10 +299,10 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <th>Rolling</th>
   <td>Pressing <kbd>Q</kbd> allows you to Roll towards your desired direction, granting you immunity frames against most attacks, with the exception of a few.<p><br>
   </p>
-  <p>You can roll-cancel by right-clicking- or otherwise using <kbd>M2</kbd>- during the movement of your roll. For many experienced players, roll-canceling replaces Rolling as it is simply better in most cases, given that it cancels the endlag of your Roll as well as asserting yourself in combat and sizing up your adversary.<br>
+  <p>You can roll-cancel by right-clicking- or otherwise using <kbd>M2</kbd>- during the movement of your roll. This will guarantee you an extra roll that can also be canceled. For many experienced players, roll-canceling replaces Rolling as it is simply better in most cases, given that it cancels the endlag of your Roll as well as asserting yourself in combat and sizing up your adversary.<br>
   Many Talents exist to add properties to your Rolls. For example, if a <a href="Galebreathe.md">Galebreather</a> obtains the rare card Gale Dash, they will gain a wind-empowered dash upon initially dodging an incoming attack.</p>
   <p><br>
-  <i>With the <a href="Echoes.md">Echo Talent</a> "Aerial Assault" (Unlocked at Power 2), you can do an Air Dash by <kbd>Q</kbd> in the air, with the direction traveled depending on where your camera is facing.</i></p></td>
+  <i>Pressing <kbd>Q</kbd> in the air initiates an Air Dash, sending you towards a direction depending on where your camera is facing. Air Dashes are counted as rolls, meaning that they will be able to dodge attacks.</i></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

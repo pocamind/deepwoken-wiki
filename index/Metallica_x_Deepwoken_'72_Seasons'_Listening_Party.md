@@ -1,6 +1,6 @@
 ---
 title: "Metallica x Deepwoken '72 Seasons' Listening Party"
-revid: 141802
+revid: 149999
 source: https://deepwoken.fandom.com/wiki/Metallica_x_Deepwoken_'72_Seasons'_Listening_Party
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Deepwoken, Events]
@@ -10,9 +10,12 @@ notices:
 
 # Metallica x Deepwoken '72 Seasons' Listening Party
 
-The event page
-
-The "Metalhead" badge
+| Metallica x Deepwoken '72 Seasons' Listening Party | |
+|---|---|
+| date1 | 1391 |
+| date2 | 4/13/2023 |
+| items | Headbang Emote, Metallica M Pendant Roblox Accessory |
+| type | Promotional Event |
 
 ## Description
 
@@ -20,7 +23,11 @@ The "Metalhead" badge
 
 ## Obtainment
 
--   Get 100 points in The Pit at the 72 Seasons Inn. (1 Point takes roughly 5 seconds to get, You can also hit one time on somebody for around 10 points.)
+-   Locate the tavern doors that are scattered across the map. These doors will take you to [The 72 Seasons](The_72_Seasons.md) inn.
+-   Enter The Pit and survive. The player must earn 100 points to earn the Metalhead badge, where a singular point can be gained by surviving in the pit for roughly 5 seconds, or hitting other players to gain around 10 points.
+-   Upon surviving with 100 points, the player will earn the aforementioned badge and automatically gain the Headbang [gesture](Emotes.md). They will also be given the [Metallica M Pendant](https://www.roblox.com/catalog/13120625052/Metallica-M-Pendant).
+
+The "Metalhead" badge
 
 ## Playlist
 
@@ -29,19 +36,6 @@ The "Metalhead" badge
 -   _72 Seasons // 72 Seasons (2023)_
 -   _King Nothing // Load (1997)_
 -   _For Whom the Bell Tolls // Ride the Lightning (1984)_
-
-## Metalhead (Badge)
-
-### Description
-
--   You've proven yourself at the 72 Seasons and unlocked the exclusive Headbang gesture.
-    
-    The "Headbang" emote
-    
-
-### Function
-
--   You are able to use the "Headbang" emote/gesture in Deepwoken.
 
 ## Miscellaneous
 
@@ -54,4 +48,4 @@ The "Metalhead" badge
 
 -   The "Metal Lord" and [Yamaketzal](Yamaketzal.md) can be found inside (The Metal Lord can be found selling drinks and meat. Yamaketzal can be found at the place where you can buy the Roblox items.)
 -   The four Metallica members seen ingame are shown as entirely normal humans, possessing none of the characteristics of any of the races seen ingame.
--   If you use "Headbang" emote with your heavy weapon, it turns your blade/weapon upside down pointing downwards
+-   If you use "Headbang" emote with your weapon equipped,, it turns your blade/weapon upside down pointing downwards

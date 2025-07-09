@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 149933
+revid: 149993
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -143,4 +143,5 @@ Dodgeable?: ◯
 ## Trivia
 
 -   Featured in Agamatsu's Depths Games event.
--   Considering this, it is the "first" Prime Monster to be added in Deepwoken
+
+-   ~Considering this, it is the "first" Prime Monster to be added in Deepwoken~ Prime Golem is the first "Prime" Monster to be added into Deepwoken

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 149586
+revid: 150001
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1205,11 +1205,11 @@ Sow and Mend
 
  | 
 
-Sacrifice 17.5% of your blood for temporary health.
+Sacrifice 35% of your blood for temporary health.
 
  | 
 
-Sacrifice 17.5% of your blood to gain ~5% of your current health as temporary health. 25s cooldown.
+Sacrifice 35% of your blood to gain ~5% of your current health as temporary health. 30s cooldown.
 
  |
 | 
