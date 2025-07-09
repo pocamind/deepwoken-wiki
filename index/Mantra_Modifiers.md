@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 149496
+revid: 150009
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -333,12 +333,13 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) (Common)
 -   [Saramaed Hollow](Saramaed_Hollow.md) (Common)
 -   [War Mode](War_Mode.md) (common)
+-   The Aegis Gem isn't obtained from any of the above sources, it's exclusively obtained through completing [The Vat](The_Vat.md)'s trial and then trading a [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) with the [The Gaunt Man](The_Gaunt_Man.md).
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 
 To remove a Deep Gem from your mantra, you need to rest by a campfire, look for the mantra with the Deep Gem in Mantras, and simply press **Unequip**.
 
-<table><caption>There are six type of Deep Gems, including:</caption>
+<table><caption>There are seven type of Deep Gems, including:</caption>
 <tbody>
 <tr>
   <th>Image</th>
@@ -374,6 +375,11 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
   <td><figure><figcaption></figcaption></figure></td>
   <td>Wind Gem</td>
   <td>Hitting an enemy with the mantra will increase your speed for 10 seconds, equivalent to the speed buff given after sliding down a slope.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Aegis Gem</td>
+  <td>Effect unknown. <b>It's currently bugged; equipping it on a Mantra makes the gem disappear. DO NOT equip it until it's fixed.</b></td>
 </tr>
 </tbody>
 </table>
