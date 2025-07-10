@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 150062
+revid: 150148
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -210,3 +210,4 @@ To get access to the shop you must finish [The Vat](The_Vat.md) The shop is rela
 -   Paired with his freakishly tall appearance, his unnatural speech and dialogue lines imply that he isn't human. Or at the very least, he's drastically different from the people of lumen.
 -   He is an unknown aspect, though his eyes appear to be very similar to [Chrysids](Chrysid.md).
 -   When you die in the experiment, he states: "Ah. I was hoping to learn more from that one. Oh well." he is very likely referring to the player character here and not the monsters. This theory is reinforced by his dialogue when you complete the experiment being "Hm. I have much to learn about your kind. Please do return for more experiments."
+-   He is presumably a Krulian due to his origin being in the depths.
