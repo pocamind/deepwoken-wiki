@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 150043
+revid: 150095
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -153,12 +153,14 @@ Depending on the rotation, he can sell 1 to 4 items at once. Typically, he sells
 His item descriptions will change randomly each time he hits his hourly rotation:
 
 -   _A rare find indeed._
+-   _Hard sell eh?.. What if it was purple?_
 -   _Hey, you break it - you buy it._
 -   _I stole these from local bandits, by the way._
 -   _Isn't it weird how there's like next to no fruit in Erisia? I had to plant my own tree near the shoreline... if you care._
 -   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
 -   _It's not overpriced, I swear!_
 -   _Looks valuable, you should buy it!_
+-   _Oh haha, that's not dust that's uhm... and expensive finish, probably a fashion thing._
 -   _Oof, man. Are you sure you can afford this heat?_
 -   _This catch your eye?_
 -   _This could almost be an antique, I think?_
@@ -195,7 +197,7 @@ Sold Items
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><b>For </b>: <a href="Frigid_Prism.md">Frigid Prism</a>, <a href="Gale_Stone.md">Gale Stone</a>.</li>
+    <li><b>For </b>: <a href="Frigid_Prism.md">Frigid Prism</a>, <a href="Gale_Stone.md">Gale Stone</a>, <a href="Heartstar.md">Heartstar</a>.</li>
     <li><b>For </b>: <a href="Dye_Packet.md">Dye Packet</a>.</li>
     <li><b>For </b>: <a href="Glumfig.md">Glumfig</a>.</li>
   </ul></td>
@@ -207,13 +209,13 @@ Sold Items
     <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
     <li><b><font>Medium Weapons</font></b>: <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
     <li><b><font>Heavy Weapons</font></b>: <a href="Adretian_Axe.md">Adretian Axe</a>.</li>
-  </ul><p><b>For </b>: [[Falchion#Alloyed|Template:AlloyedColor]], [[Scalesplitter#Alloyed|Template:AlloyedColor]], <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.<br>
+  </ul><p><b>For </b>: [[Falchion#Alloyed|Template:AlloyedColor]], <a href="Rifle_Spear.md">Rifle Spear</a>, [[Scalesplitter#Alloyed|Template:AlloyedColor]], <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.<br>
   <b>For </b>:</p>
   <ul>
     <li><b><font>Light Weapons</font></b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Needle's_Eye.md">Needle's Eye</a>.</li>
     <li><b><font>Medium Weapons</font></b>: <a href="True_Seraph_Spear.md">True Seraph Spear</a>.</li>
   </ul><p><b>For </b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.<br>
-  <b>For </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>.<br>
+  <b>For </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>.<br>
   <b>For </b>: <a href="Night_Axe.md">Night Axe</a>.</p></td>
 </tr>
 </tbody>

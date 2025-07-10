@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 149781
+revid: 150093
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -92,7 +92,7 @@ Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your
 
 ### Ghastly Mobility
 
-Applied by the Galebreathe Talent, [Phantom Step](Talents.md#specter); transform all of your dashes into Phantom Dashes, extending their mobility and i-frames. This mode passively drains from your Specter Meter while active. This effect can be further enhanced with the [Vanishing Wraith](Talents.md#specter) and [Possession](Talents.md#specter) Talents, allowing you to teleport to your opponent on aerial attack and granting increased chip damage when an apparition lands respectively. Signified by winds swirling at your feet.
+Applied by the Galebreathe Talent, [Phantom Step](Talents.md#specter); transform all of your dashes into Phantom Dashes, extending their mobility and i-frames, also gain a speed boost for the full duration of this effect. This mode passively drains from your Specter Meter while active. This effect can be further enhanced with the [Vanishing Wraith](Talents.md#specter) and [Possession](Talents.md#specter) Talents, allowing you to teleport to your opponent on aerial attack and granting increased chip damage when an apparition lands respectively. Signified by winds swirling at your feet.
 
 ### Adrenaline Surge
 
@@ -297,6 +297,10 @@ A red highlight applied onto enemies, allowing you to see them through walls. Ap
 
 You and the caster are unable to cast Mantras for a duration. Applied through the [Shadow Chains](Shadowcast.md#shadow-chains) Mantra with the [Blighted Song](Talents.md#darksiphon) Talent. This status effect doesn't have a special visual indicator outside of the Shadow Chains Mantra.
 
+### Void
+
+While under the effects of Void, you have anti-heal and perishing will send you to [The Depths](The_Depths.md) regardless of if your healthbar is stained or not. Applied by being in a [Voidzone](Voidzones.md) or for 15 seconds after being hit by a weapon with the [Void](Curse_of_Void.md) enchantment. Anti-heal does not stack with other sources of anti-heal, the higher potency effect takes priority. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. The Void enchantment has no visual effect.
+
 ### Anti-Heal
 
 Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by an M1 by someone that has the Talent [All the Dead Gods](Talents.md#heretic) for 8 seconds, or when hit by the first hit of [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack for 10 seconds. The Anti-Heal effectiveness from All the Dead Gods scales on investment up to its combined requirement. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
@@ -368,6 +372,10 @@ Applied by being flourished or hit by critical attacks from weapons with the [So
 ### Grim
 
 Take 20% more damage and 50% more posture damage from all sources for 6 seconds. Applied by being hit by the [Grim](Grim.md) enchant. Signified by red bubbles on your torso.
+
+### Parasol's Blight
+
+Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 15 seconds and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Void Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md). This effect has no visual indicator.
 
 ### Potions: Debuffs
 

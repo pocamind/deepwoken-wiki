@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 150049
+revid: 150094
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3110,6 +3110,13 @@ _**"My cure is most effective."**_
 
 -   Phantom Step \[Common Talent, Galebreathe Exclusive\] - Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)
     -   Phantom Step's activation keybind can be configured in settings.
+    -   Has a 3 second cooldown on activation.
+    -   Passively drains your Spectral Gauge while active.
+    -   Grants a speed boost for the full duration.
+    -   Phantom Step dashes have an extended travel distance and increased i-frames, however they will end early if you attack.
+    -   Phantom Step dashes have a 3 second cooldown.
+        -   Phantom Step dashes and Gale Dashes have separate cooldowns.
+    -   Phantom Step dashes can proc Cyclone Blade.
     -   Prerequisites: Haunted Path: Specter, 55 Galebreathe
 
 -   _Vanishing Wraith_ \[Rare Talent, Galebreathe Exclusive\] - Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target

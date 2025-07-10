@@ -1,6 +1,6 @@
 ---
 title: The Vat
-revid: 150063
+revid: 150085
 source: https://deepwoken.fandom.com/wiki/The_Vat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,6 +12,10 @@ LocationL The Vat LocationR
 A stench not unlike rotting flesh permeates the air. But where rot and decay is in itself a form of life, something is lacking here.
 
   
+
+## Overview
+
+the vat is a dungeon located in a hidden cave in the depths. the room itself is a dome with ornate floor patterns with the gaunt man standing in the middle.
 
 ## Contents
 

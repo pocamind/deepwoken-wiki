@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 150000
+revid: 150084
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -31,8 +31,6 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
 ★ = +1 Rare Pip (Head, Arms, and Legs also get +1 HP) ★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP) ★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP) (Torso, Face, Ears, and Rings cannot be 3 Star)
 
 These pips can be rerolled by using [Armorer's Needle](<Armorer's_Needle.md>) and [Gilded Needle](Gilded_Needle.md).
-
--   However, there's currently a bug where you cannot use a Needle on an equipment that only has 2 pips, despite them being exempt from stat diversity. This makes finding any 2 star Torso, Face, Ears, or Rings equipment that does not have any innate pips but also has two of the same pip type very hard, as they have to be found naturally. For example, a 2 star Konga's Clutch Ring with both pip types being health can only be found directly in chests.
 
 Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
 
