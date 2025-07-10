@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 150094
+revid: 150163
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2210,9 +2210,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
 
--   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your M1's proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.
+-   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your M1's proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
-    -   [Umbrite Witherblade](Umbrite_Witherblade.md) also gains the full 25% Wither.
     -   Obtained from: [Darkened Bastion](Darkened_Bastion.md)
 
 ### Mindbreaker
@@ -3957,7 +3956,7 @@ Introduced in the Verse 2 update, crucial Talents have been given their own ques
 
 ### Megalodaunt Slayer (Engage + Critical Attack)
 
--   The quest giver, Arthur, is located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md). He will request that you kill a [Megalodaunt](Megalodaunt.md). This can be any Megalodaunt anywhere.
+-   The quest giver, [Arthur](Arthur.md), is located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md). He will request that you kill a [Megalodaunt](Megalodaunt.md). This can be any Megalodaunt anywhere.
 -   It is common to find a Megalodaunt inside of the cave behind him, but if none spawn then you can always find two guaranteed spawns at the "Sharko Cave" in Lower Erisia.
 -   After killing the Megalodaunt and talking to him once you will obtain Engage and Critical Attack across all slots. Every new character after completing the quest will automatically get Engage when leveling up past Power 2 and Critical Attack when levling up post Power 4.
     -   If you've unlocked this Talent on a different slot, but your current slot is already Power 20, you can speak to [Yamaketzal](Yamaketzal.md) to obtain this Talent.
@@ -4142,9 +4141,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Umami: [Chef's Toque](<Chef's_Toque.md>) - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.03.
--   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.
+-   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
-    -   [Umbrite Witherblade](Umbrite_Witherblade.md) also (supposedly) gains the full 25% Wither.
 -   Whistleguard: [Whistling Periapt](Whistling_Periapt.md) - The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.
     -   The wind shield grants one (1) autoparry frame and has a cooldown of 10 seconds.
     -   The wind shield lasts a few seconds or until you get hit (in which case, it will automatically parry the attack), cast any mantra, feint any attack, or use your critical attack.

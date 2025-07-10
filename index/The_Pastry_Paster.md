@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 149031
+revid: 150159
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
@@ -31,7 +31,7 @@ The Pastry Paster is a Club with a very odd diversity of stat requirements: 70 M
 
 ## Critical
 
-Wind up your rolling pin and strike your target, guard breaking them.
+Wind up your rolling pin and strike your target, dealing very high posture damage.
 
 ## Trivia
 

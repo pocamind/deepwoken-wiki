@@ -1,6 +1,6 @@
 ---
 title: Shade
-revid: 142828
+revid: 150157
 source: https://deepwoken.fandom.com/wiki/Shade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -18,15 +18,92 @@ The Shade is a humanoid enemy NPC, that can be found at [Voidsea](Voidsea.md) ou
 
 A Shade uses the [Shattered Katana](Shattered_Katana.md) with Specter [Galebreathe](Galebreathe.md).
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Attacks the opponent repeatedly and flourishes them away with a kick. | ◯ | ◯ | (★☆☆) |
-| Critical | The Shade does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts. | ◯ | ◯ | (★★☆) |
-| Feint | Attacks, but stops during the windup in an attempt to catch the opponent off-guard. | N/A | N/A | (★★☆) |
-| Time-Slowing Orb | The Shade creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed. | ✗ | ✗ | (★★☆) |
-| Wind Blade | The Shade shoots out an arc of gale. | ◯ | ◯ | (★☆☆) |
-| Wind Forge | The Shade conjures up a line of 4 wind projectiles before sending them towards the target. | ◯ | ◯ | (★☆☆) |
-| Twister Kicks | The Shade dashes forwards kicking with a rush of winds dealing damage. | ◯ | ◯ | (★★☆) |
+| 
+Name/Danger
+
+ | 
+
+Description
+
+ |
+| --- | --- |
+| 
+
+Assault
+
+ | Attacks the opponent repeatedly and flourishes them away with a kick.  
+
+Parryable?: ◯  
+Blockable?: ◯  
+Dodgable?: ◯
+
+ |
+| 
+
+Critical
+
+ | The Shade does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.  
+
+Parryable? ◯  
+Blockable?: ◯  
+Dodgable?: ◯
+
+ |
+| 
+
+Feint
+
+ | Attacks, but stops during the windup in an attempt to catch the opponent off-guard.  
+
+Parryable?: N/A  
+Blockable?: N/A
+
+ |
+| 
+
+Time-Slowing Orb  
+★
+
+ | The Shade creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed.  
+
+Parryable?: ✗  
+Blockable?: ✗  
+Dodgable?: ✗
+
+ |
+| 
+
+Wind Blade
+
+ | The Shade shoots out an arc of gale.  
+
+Parryable?: ◯  
+Blockable?: ◯  
+Dodgable?: ◯
+
+ |
+| 
+
+Wind Forge
+
+ | The Shade conjures up a line of 4 wind projectiles before sending them towards the target.  
+
+Parryable?: ◯  
+Blockable?: ◯  
+Dodgable?: ◯
+
+ |
+| 
+
+Twister Kicks
+
+ | The Shade dashes forwards kicking with a rush of winds dealing damage.  
+
+Parryable?: ◯  
+Blockable?: ◯  
+Dodgable?: ◯
+
+ |
 
 ### Passives
 

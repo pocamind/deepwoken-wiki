@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 147702
+revid: 150153
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -75,7 +75,7 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 </tbody>
 </table>
 
-| Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Duration |
+| Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Resistance Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Duration |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Alestrian Coral](Alestrian_Coral.md) |  |  | \-5% | \-5% |  | +0.25\* |  |  |  |  |
 | [Bamboo](Bamboo_Bundle.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
@@ -86,7 +86,7 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 | [Chum](Chum.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
 | [Crustacean Meat](Crustacean_Meat.md) |  |  | \-7% |  |  |  |  |  |  | +20% |
 | [Dentifilo](Dentifilo.md) | \-2 | +18 |  |  |  |  |  |  |  |  |
-| [Glumfig](Glumfig.md) | +? | ? | ? | ? | ? | ? | ? | ? | ? | ? |
+| [Glumfig](Glumfig.md) | +5 |  | \-2% |  | \-15% |  |  |  | \-0.1/s |  |
 | [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |
 | [Marram Grass](Marram_Grass.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
 | [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |
@@ -147,7 +147,7 @@ The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three salts, w
 
 ## Effects
 
-Tiers are listed in order of strength, with the strongest tier listed first.
+Tiers are listed in order of strength, with the strongest tier listed first. Ingredients are listed in order of effectiveness, though if some ingredients have equal effectiveness, they'll simply be listed alphabetically.
 
 <table><caption>Effects</caption>
 <tbody>
@@ -159,23 +159,12 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <th>Notes</th>
 </tr>
 <tr>
-  <td><b>Appalling</b></td>
-  <td>Blight<br>
-  Potion</td>
-  <td>Bamboo Bundle<br>
-  Marriam Grass</td>
-  <td>Instantly decrease ether</td>
-  <td>Opposite effect to <b>Soothing.</b> Signified by pastel green particles.</td>
-</tr>
-<tr>
-  <td><b>Soothing</b></td>
-  <td>Tincture<br>
-  Potion<br>
-  Salve</td>
-  <td>Dentifilo<br>
-  Bluecap</td>
-  <td>Instantly increase ether</td>
-  <td>Opposite effect to <b>Appalling</b>.<p>Used to affect reservoir. Post verse 2, instantly restores ether.</p></td>
+  <td><b>Rejuvenating</b></td>
+  <td>Salve</td>
+  <td>Glumfig<br>
+  Redd</td>
+  <td>Instantly restores a small amount of health.</td>
+  <td>Opposite effect to <b>Disgusting</b>. Signified by a burst of square green particles from the character.<p>The strongest effect on a Redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with another ingredient, or by using <a href="Oath%253A_Saltchemist.md">Saltchemist</a> salts.</p></td>
 </tr>
 <tr>
   <td><b>Disgusting</b></td>
@@ -183,18 +172,42 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Blight</td>
   <td>Bluecap<br>
   Browncap<br>
-  Dentilfo<br>
-  Pomar</td>
-  <td>Instantly deals a small amount of damage.</td>
-  <td>Opposite effect to <b>Rejuvenating</b>.<p>The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option. The damage is affected by PvE scaling, however, making them a decent choice when attempting to kill a mob while running away or dealing damage from where it can't reach you. It is currently unknown by exactly how much the damage is increased.</p></td>
+  Pomar<br>
+  Dentilfo</td>
+  <td>Instantly deals damage.</td>
+  <td>Opposite effect to <b>Rejuvenating</b>.<p>The damage dealt when thrown is very small unless you land a direct hit, which may be difficult.<br>
+  The damage is affected by PvE scaling, making them a decent choice when attempting to kill a mob while running away or dealing damage from where it can't reach you.<br>
+  The damage type of potions are typeless and they can be buffed by damage modifiers.</p></td>
 </tr>
 <tr>
-  <td><b>Rejuvenating</b></td>
-  <td>Salve</td>
-  <td>Redd<br>
-  Glumfig</td>
-  <td>Instantly restores a small amount of health.</td>
-  <td>Opposite effect to <b>Disgusting</b>. Signified by a burst of square green particles from the character.<p>The strongest effect on a Redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with another ingredient, or by using <a href="Oath%253A_Saltchemist.md">Saltchemist</a> salts.</p></td>
+  <td><b>Soothing</b></td>
+  <td>Tincture<br>
+  Potion<br>
+  Salve</td>
+  <td>Bluecap<br>
+  Dentifilo</td>
+  <td>Instantly increase Ether.</td>
+  <td>Opposite effect to <b>Appalling</b>.<p>Used to affect reservoir in verse 1.<br>
+  All Ether gain ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Appalling</b></td>
+  <td>Blight<br>
+  Potion</td>
+  <td>Bamboo Bundle<br>
+  Marriam Grass</td>
+  <td>Instantly decrease Ether.</td>
+  <td>Opposite effect to <b>Soothing.</b> Signified by pastel green particles.<p>All Ether loss ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Strengthening</b></td>
+  <td>Salve<br>
+  Tincture<br>
+  Potion</td>
+  <td>Browncap<br>
+  Plumfruit</td>
+  <td>Increases damage dealt by a percentage.</td>
+  <td>Opposite effect to <b>Dulling</b>.<p>All positive damage buff ingredients have the same effectiveness.</p></td>
 </tr>
 <tr>
   <td><b>Dulling</b></td>
@@ -203,83 +216,24 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Blight</td>
   <td>Crustacean Meat<br>
   Gathered Wheat<br>
-  Alestrian Coral</td>
-  <td>Reduces damage dealt.</td>
-  <td>Opposite effect to <b>Strengthening</b>.<p>Likely a percentage decrease, and scales less than other potion effects.</p></td>
+  Alestrian Coral<br>
+  Glumfig</td>
+  <td>Reduces damage dealt by a percentage.</td>
+  <td>Opposite effect to <b>Strengthening</b>.</td>
 </tr>
 <tr>
-  <td><b>Strengthening</b></td>
-  <td>Salve<br>
-  Tincture<br>
-  Potion</td>
-  <td>Plumfruit<br>
-  Browncap</td>
-  <td>Slightly increases damage dealt.</td>
-  <td>Opposite effect to <b>Dulling</b>.<p>Likely a percentage increase, and scales less than other potion effects.</p></td>
+  <td><b>Staggering</b></td>
+  <td>Salve</td>
+  <td>Ongo</td>
+  <td>Increases posture damage dealt by a percentage.</td>
+  <td>Opposite effect to <b>Weakening.</b><p>All postitive posture damage ingredients have the same effectiveness.</p></td>
 </tr>
 <tr>
-  <td><b>Icky</b></td>
-  <td>Potion<br>
-  Bane<br>
-  Blight</td>
-  <td>Calabash<br>
-  Redd</td>
-  <td>Rapidly drain Ether from affected targets</td>
-  <td>Opposite effect to <b>Focusing</b>.<p>Very quickly begins to drain a flat amount of Ether every tick as it increases in potency, leaving even <a href="Shadowcast.md">Shadowcast</a> users struggling.</p></td>
-</tr>
-<tr>
-  <td><b>Focusing</b></td>
-  <td>Elixir<br>
-  Salve<br>
-  Tincture</td>
-  <td>Gathered Wheat<br>
-  Sap</td>
-  <td>Greatly increase Ether regeneration.</td>
-  <td>Opposite effect to <b>Icky</b>.<p>Very quickly begins to grant a flat amount of Ether every tick as it increases in potency, making it very hard to run out of Ether while active.<br>
-  The strongest effect on wheat is Dulling; prior to the addition of Saltchemist, a potion with the Focusing prefix could only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient like Browncaps.</p></td>
-</tr>
-<tr>
-  <td><b>Heartening</b></td>
-  <td>Remedy<br>
-  Potion<br>
-  Salve<br>
-  Tincture(?)<br>
-  Elixir</td>
-  <td>Bluecap</td>
-  <td>Rapidly restores Sanity.</td>
-  <td>Opposite effect to <b>Mindbreaker</b>. Signified by bright pink particles.<p>Effective at any strength and can cheaply help ensure longevity in <a href="The_Depths.md">The Depths</a>.</p></td>
-</tr>
-<tr>
-  <td><b>Mindbreaker</b></td>
-  <td>Bane<br>
-  Blight<br>
-  Potion</td>
-  <td>Urchin<br>
-  Seaweed Bundle<br>
-  Scallop<br>
-  Chum<br>
-  Thresher Egg</td>
-  <td>Gives Insanity over time.</td>
-  <td>Opposite effect to <b>Heartening</b>. Signified by bright purple particles.<p>Can prove surprisingly useful, as enemies at tier 3 <a href="Insanity.md">Insanity</a> are automatically gripped when downed and suffer from other consequences prior, and Manic is also a common flaw. Bear in mind it can help those that have Insanity-reliant Talents, though.</p></td>
-</tr>
-<tr>
-  <td><b>Invigorating</b></td>
-  <td>Potion(?)<br>
-  Tincture<br>
-  Elixir<br>
-  Salve</td>
-  <td>Beeswax<br>
-  Gobletto</td>
-  <td>Applies a regeneration effect.</td>
-  <td>Opposite effect to <b>Grueling.</b> Signified by bright green particles.</td>
-</tr>
-<tr>
-  <td><b>Grueling</b></td>
-  <td>Bane<br>
-  Blight</td>
-  <td>Plumfruit</td>
-  <td>Deals a small amount of damage over the potion duration.</td>
-  <td>Opposite effect to <b>Invigorating</b>.<p>Curiously, the prefix of a potion brewed using only Plumfruit depends on the Talents of the brewer- if the brewer only has Apothecary, the prefix is Strengthening.</p></td>
+  <td><b>Weakening</b></td>
+  <td>Potion</td>
+  <td>Alestrian Coral</td>
+  <td>Decreases posture damage dealt by a percentage.</td>
+  <td>Opposite effect to <b>Staggering.</b><p>All negative posture damage ingredients have the same effectiveness.</p></td>
 </tr>
 <tr>
   <td><b>Steadfast</b></td>
@@ -290,16 +244,18 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Calabash<br>
   Bamboo Bundle<br>
   Marriam Grass</td>
-  <td>Increases maximum posture by a percentage for the duration of the potion.</td>
-  <td>Opposite effect to <b>Buckling.</b></td>
+  <td>Grants a posture resistance effect for the duration of the potion, making you take less posture damage from all sources.</td>
+  <td>Opposite effect to <b>Buckling.</b><p>Effectively increases your maximum posture.<br>
+  All positive posture resistance ingredients have the same effectiveness.</p></td>
 </tr>
 <tr>
   <td><b>Buckling</b></td>
   <td>Bane<br>
   Blight</td>
-  <td>Ongo</td>
-  <td>Decreases maximum posture by a percentage for the duration of the potion.</td>
-  <td>Opposite effect to <b>Steadfast.</b></td>
+  <td>Glumfig<br>
+  Ongo</td>
+  <td>Grants a negative posture resistance effect for the duration of the potion, making you take more posture damage from all sources.</td>
+  <td>Opposite effect to <b>Steadfast.</b><p>Effectively decreases your maximum posture.</p></td>
 </tr>
 <tr>
   <td><b>Hastening</b></td>
@@ -307,9 +263,11 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   Elixir<br>
   Salve<br>
   Tincture</td>
-  <td>Alestrian Coral<p>Pomar</p></td>
+  <td>Alestrian Coral<br>
+  Pomar</td>
   <td>Applies a speed boost for the duration of the potion.</td>
-  <td>Opposite effect to <b>Slowing.</b><p>The speed boost from Hastening is usually a flat bonus, remaining active even while using mantras, carrying something, or being pushed by the wind in the <a href="Second_Layer.md">Second Layer</a>. It is reduced in water, however.</p></td>
+  <td>Opposite effect to <b>Slowing.</b><p>The speed boost from Hastening is usually a flat bonus, remaining active even while using mantras, carrying something, or being pushed by the wind in the <a href="Second_Layer.md">Second Layer</a>. It is reduced in water, however.<br>
+  All speed boost ingredients have the same effectiveness.</p></td>
 </tr>
 <tr>
   <td><b>Slowing</b></td>
@@ -317,22 +275,79 @@ Tiers are listed in order of strength, with the strongest tier listed first.
   <td>Beeswax<br>
   Gobletto<br>
   Sap</td>
-  <td>Reduces speed for the duration of the potion.</td>
-  <td>Opposite effect to <b>Hastening.</b><p>This potion type used to be impossible to make, as the ingredients used to make it had stronger properties which replaced the potion name. With the addition of <a href="Oath%253A_Saltchemist.md">Saltchemist</a>, the use of Antithetic salts on ingredients normally used for Hastening potions enabled its creation.</p></td>
+  <td>Reduces movement speed for the duration of the potion.</td>
+  <td>Opposite effect to <b>Hastening.</b><p>This potion type used to be impossible to make, as the ingredients used to make it had stronger properties which replaced the potion name. With the addition of <a href="Oath%253A_Saltchemist.md">Saltchemist</a>, the use of Antithetic salts on ingredients normally used for Hastening potions enabled its creation.<br>
+  All slowing ingredients have the same effectiveness.</p></td>
 </tr>
 <tr>
-  <td><b>Staggering</b></td>
-  <td>Salve</td>
-  <td>Ongo</td>
-  <td>Increases posture damage dealt.</td>
-  <td>Opposite effect to <b>Weakening.</b><p>Unknown if it functions as a flat or percentage increase.</p></td>
+  <td><b>Invigorating</b></td>
+  <td>Potion(?)<br>
+  Tincture<br>
+  Elixir<br>
+  Salve</td>
+  <td>Beeswax<br>
+  Gobletto</td>
+  <td>Applies a regeneration effect.</td>
+  <td>Opposite effect to <b>Grueling.</b> Signified by bright green particles.<p>All Health regen ingredients have the same effectiveness.</p></td>
 </tr>
 <tr>
-  <td><b>Weakening</b></td>
-  <td>Potion</td>
-  <td>Alestrian Coral</td>
-  <td>Decreases posture damage dealt.</td>
-  <td>Opposite effect to <b>Staggering.</b><p>Unknown if it functions as a flat or percentage increase.</p></td>
+  <td><b>Grueling</b></td>
+  <td>Bane<br>
+  Blight</td>
+  <td>Plumfruit</td>
+  <td>Deals a small amount of damage over the potion duration.</td>
+  <td>Opposite effect to <b>Invigorating</b>.<p>Curiously, the prefix of a potion brewed using only Plumfruit depends on the Talents of the brewer- if the brewer only has Apothecary, the prefix is Strengthening.<br>
+  All damage over time ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Focusing</b></td>
+  <td>Elixir<br>
+  Salve<br>
+  Tincture</td>
+  <td>Gathered Wheat<br>
+  Sap</td>
+  <td>Greatly increase Ether regeneration.</td>
+  <td>Opposite effect to <b>Icky</b>.<p>Very quickly begins to grant a flat amount of Ether every tick as it increases in potency, making it very hard to run out of Ether while active.<br>
+  The strongest effect on wheat is Dulling; prior to the addition of Saltchemist, a potion with the Focusing prefix could only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient like Browncaps.<br>
+  All Ether regeneration ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Icky</b></td>
+  <td>Potion<br>
+  Bane<br>
+  Blight</td>
+  <td>Calabash<br>
+  Redd</td>
+  <td>Rapidly drain Ether from affected targets</td>
+  <td>Opposite effect to <b>Focusing</b>.<p>Very quickly begins to drain a flat amount of Ether every tick as it increases in potency, leaving even <a href="Shadowcast.md">Shadowcast</a> users struggling.<br>
+  All Ether drain over time ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Heartening</b></td>
+  <td>Remedy<br>
+  Potion<br>
+  Salve<br>
+  Tincture(?)<br>
+  Elixir</td>
+  <td>Bluecap</td>
+  <td>Rapidly restores Sanity.</td>
+  <td>Opposite effect to <b>Mindbreaker</b>. Signified by bright pink particles.<p>Effective at any strength and can cheaply help ensure longevity in <a href="The_Depths.md">The Depths</a>.<br>
+  All sanity ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Mindbreaker</b></td>
+  <td>Bane<br>
+  Blight<br>
+  Potion</td>
+  <td>Chum<br>
+  Glumfig<br>
+  Scallop<br>
+  Seaweed Bundle<br>
+  Thresher Egg<br>
+  Urchin</td>
+  <td>Gives Insanity over time.</td>
+  <td>Opposite effect to <b>Heartening</b>. Signified by bright purple particles.<p>Can prove surprisingly useful, as enemies at tier 3 <a href="Insanity.md">Insanity</a> are automatically gripped when downed and suffer from other consequences prior, and Manic is also a common flaw. Bear in mind it can help those that have Insanity-reliant Talents, though.<br>
+  All insanity ingredients have the same effectiveness.</p></td>
 </tr>
 <tr>
   <td><b>Diluted/Bland</b></td>
@@ -369,50 +384,55 @@ The best potions for a timed effect (like Grueling or Hastening) either use thre
 
 When brewing potions for an instant effect (like Rejuvenation or Soothing), potions should use three of the strongest ingredient and two of the second strongest ingredient. Sometimes this isn't possible, so the last two ingredients should be used to add a second useful effect.
 
--   **Sanity** (Heartening) - 3 Bluecaps + 2 Spider Eggs
-    -   Also deals a small amount of damage and instantly restores Ether.
-    -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), an easier way to make this potion is 3 Urchins + 2 Seaweed/Scallops with an Antithetic salt.
--   **Insanity** (Mindbreaker) - 3 Urchins + 2 Seaweed/Scallops
-    -   With the Apothecary Talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
+-   **Instant Health** (Rejuvenating) - 3 Glumfig + 2 Redd
+    -   Redds and Glumfigs have an instant health effect, and they're not very strong, though Glumfigs are more potent. The last two ingredients can be Redds for more instant health, Beeswax or Goblettos to restore additional health over time, or Wheat can be added to cancel out the Ether drain.
+    -   Not very useful compared to Health Regeneration potions, which heal about up to 4x as much.
+-   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap
+    -   Instant Damage potions were heavily nerfed before release - there are some circulating videos of high damage potions, but they can't be made now. Currently, this is the best available damage potion, dealing less than 10% to similar strength opponents.
+-   **Instant Ether** (Soothing) - 3 Bluecaps + 2 Dentifilos
+    -   Almost a full Ether restore - deals 15 damage.
+    -   Not very useful compared to Ether Restoration potions.
+-   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle
+    -   Not very effective - usually drains less than 20%. Ether draining potions are recommended instead.
+-   **Damage Buff Potion** (Strengthening) - 3 Plumfruit + 2 Browncaps
+    -   Buffs your damage.
+-   **Damage Debuff Potion** (Dulling) - 3 Crustacean Meat + 2 Wheat
+    -   Debuffs your damage.
+-   **Greater Posture Damage Potion** (Staggering) - 3 Ongos + 2 Spider Eggs
+    -   This lowers your posture defense, though.
+    -   Alternatively for [Saltchemists](Oath%253A_Saltchemist.md), 3 Alestrian Coral + 2 Redds + Antithetic salts. While less potent than the former, this avoids lowering your posture defense.
+-   **Weaker Posture Damage Potion** (Weakening) - 3 Alestrian Coral + 2 Spider Eggs
+    -   Decreases your posture damage.
+-   **Posture Defense** (Steadfast) - 3 Marram Grass/Bamboo + 2 Spider Eggs
+    -   Alternatively for [Saltchemists](Oath%253A_Saltchemist.md), 3 Glumfigs + 2 Redds + Antithetic Salts. Also deals damage on hit.
+    -   Grants resistance to incoming posture damage, effectively increasing your maximum posture.
+-   **Weakened Posture** (Buckling) - 3 Glumfigs + 2 Spider Eggs
+    -   Grants a buff to incoming posture damage, effectively decreasing your maximum posture.
+-   **Speed Potion** (Hastening) - 3 Alestrian Coral + 2 Pomar
+    -   Increases your speed.
+-   **Slowing Potion** (Slowing) - 3 Calabash + 2 Spider Eggs
+    -   You can swap out the Spider Eggs for Redds to have a more potent slowing effect, but with significantly lower duration.
+    -   Keep in mind that players innately have resistances to slows unless casting a Mantra, so this may not be that effective.
+-   **Health Regeneration** (Invigorating) - 3 Beeswax or Goblettos + 2 Spider Egg
+    -   Heals the most of any potion over 30 seconds - can be enough to fully heal a character with low max HP.
+    -   If you have the Potion Quaffer Talent, A better recipe for this would be 3 Goblettos and 2 Beeswax.
+-   **Poison** (Grueling) - 3 Plumfruit + 2 Spider Egg
+    -   Less pathetic than instant damage, but still pretty bad.
+    -   You can substitute the Spider Eggs for Bluecaps to gain additional instant damage.
 -   **Ether Restoration** (Focusing) - 3 Wheat + 2 Spider Eggs
     -   The Focusing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or Browncaps) are added to reduce this effect.
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Redds + 2 Calabash, with an Antithesis salt, this potion lasts about 2x the duration as the standard potion with an even faster Ether Restoration effect.
 -   **Ether Drain** (Icky) - 3 Calabash + 2 Spider Eggs
     -   Rapidly drains ether for a decent amount of time. Can very quickly drain the target's entire ether bar while preventing them from gaining it back.
+    -   Swapping out 1 Calabash for an additional Spider Egg applies a less potent ether drain effect, but over a much longer duration of time. This is often preferred over the former potion, especially for [Shadowcast](Shadowcast.md) users.
     -   Drains around 350 ether over the course of the duration.
--   **Ether Disable** (Icky) - 2 Calabash + 3 Spider Eggs
-    -   Even a small icky effect is enough to completely prevent ether from being drawn. Compared to a normal Ether Drain, this potion may let your opponent get an extra mantra in before their ether is drained but will keep them empty for a bit longer.
-    -   If using Shadowcast, this one is almost always preferred over the standard Ether Drain
--   **Instant Ether** (Soothing) - 3 Bluecaps + 2 Dentifilos
-    -   Almost a full Ether restore - deals ~5% of your health in damage.
-    -   Not very useful compared to Ether Restoration potions.
--   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle
-    -   Not very effective - usually drains less than 20%. Ether draining potions are recommended instead.
--   **Instant Health** (Rejuvenating) - 3 Redd + 2 Beeswax
-    -   Only redds have an instant health effect, and it's not very strong. The last two ingredients can be beeswax or Goblettos to restore additional health over time, or wheat can be added to cancel out the ether drain.
-    -   Redds help more than normal in healing if the potion is thrown.
-    -   For [Saltchemists](Oath%253A_Saltchemist.md), 3 Bluecaps + 2 Browncaps + Antithetic Salt. Be warned as the Bluecaps will give you insanity.
-    -   Due to Redds decreasing the duration of potions, the 2 Beeswax provides little value. Meaning unless you have a surplus, it is not worth wasting 2 Beeswax. Instead, consider just using 3 Redds if you plan on making this potion
-    -   Not very useful compared to Health Regeneration potions, which heal about up to 4x as much
--   **Health Regeneration** (Invigorating) - 3 Beeswax or Goblettos + 2 Spider Egg
-    -   Heals the most of any potion over 30 seconds - can be enough to fully heal a character with low max HP.
-    -   If you have the Potion Quaffer Talent, A better recipe for this would be 3 Goblettos and 2 Beeswax.
--   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap
-    -   Instant Damage potions were heavily nerfed before release - there are some circulating videos of high damage potions, but they can't be made now. Currently, this is the best available damage potion, dealing less than 10% to similar strength opponents.
--   **Long Poison** (Grueling) - 3 Plumfruit + 2 Spider Egg
-    -   Less pathetic than instant damage, but still pretty bad.
--   **Fast Poison** (Grueling) - 3 Plumfruit + 2 Bluecap
-    -   Subsituting some of the total damage for speed.
--   **Physical Damage Buff Potion** - 3 Plumfruit + 2 Browncaps
-    -   Buffs your physical damage.
--   **Physical Damage Debuff Potion** - 3 Crustacean Meat + 2 Wheat
-    -   Debuffs your physical damage.
--   **Greater Posture Damage Potion** (at a posture defense cost) - 3 Ongos + 2 Spider Eggs
-    -   Increases your posture damage.
--   **Weaker Posture Damage Potion** - 3 Alestrian Coral + 2 Spider Eggs
-    -   Decreases your posture damage.
--   **Speed Potion** - 3 Alestrian Coral + 2 Pomar
-    -   Increases your speed.
+-   **Sanity** (Heartening) - 3 Bluecaps + 2 Spider Eggs
+    -   Also deals a small amount of damage and instantly restores Ether.
+    -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), an easier way to make this potion is 3 Urchins + 2 Seaweed/Scallops with an Antithetic salt.
+-   **Insanity** (Mindbreaker) - 3 of any Sanity loss ingredient + 2 Spider Egg
+    -   With the Apothecary Talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
+    -   Alternatively, you could add 2 more of any different Sanity loss ingredient, but duration might prove more effective.
+    -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Bluecaps + 2 Redds + Antithetic Salts, applying a much more potent sanity loss over time effect. This will also deal a small amount of damage on contact.
 
 ## Important Ingredient Locations
 

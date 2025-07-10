@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 150142
+revid: 150167
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -206,18 +206,22 @@ Sold Items
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td><p><b>For </b>:</p>
+  <td><p><b>For </b>: <a href="Bronze_Aspis.md">Bronze Aspis</a>.<br>
+  <b>For </b>:</p>
   <ul>
     <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
     <li><b><font>Medium Weapons</font></b>: <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
     <li><b><font>Heavy Weapons</font></b>: <a href="Adretian_Axe.md">Adretian Axe</a>.</li>
-  </ul><p><b>For </b>: [[Falchion#Alloyed|Template:AlloyedColor]], [[Scalesplitter#Alloyed|Template:AlloyedColor]], <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.<br>
-  <b>For </b>:</p>
+  </ul><p><b>For </b>:</p>
+  <ul>
+    <li><b><font>Medium Weapons</font></b>: [[Falchion#Alloyed|Template:AlloyedColor]], [[Scalesplitter#Alloyed|Template:AlloyedColor]], <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.</li>
+    <li><b><font>Heavy Weapons</font></b>: [[Darksteel Greatsword#Alloyed|Template:AlloyedColor]].</li>
+  </ul><p><b>For </b>:</p>
   <ul>
     <li><b><font>Light Weapons</font></b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Needle's_Eye.md">Needle's Eye</a>.</li>
     <li><b><font>Medium Weapons</font></b>: <a href="True_Seraph_Spear.md">True Seraph Spear</a>.</li>
   </ul><p><b>For </b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.<br>
-  <b>For </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>.<br>
+  <b>For </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>.<br>
   <b>For </b>: <a href="Night_Axe.md">Night Axe</a>.</p></td>
 </tr>
 <tr>
@@ -307,7 +311,7 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>.</li>
+    <li><b>For </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>.</li>
     <li><b>For </b>: <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
     <li><b>For </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>.</li>
     <li><b>For </b>: <a href="First_Light.md">First Light</a>, <a href="Red_Death.md">Red Death</a>.</li>

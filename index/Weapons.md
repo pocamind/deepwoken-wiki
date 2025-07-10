@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 149571
+revid: 150168
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -12693,6 +12693,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
 -   The Aranea was the first item to have an unobtainable stat prerequisite before being turned into the [Guiding Star](Guiding_Star.md).
 -   Rifles are the only weapon type that have four basic m1s before a flourish.
 -   Twinblades lack a flourish when two handed, making them the only weapon class to lack a flourish... sometimes.
+-   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) is the only weapon to scale on alternating weapon stats.
 
 ## References
 
