@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 146004
+revid: 150108
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -16,75 +16,32 @@ The Semblance is a humanoid enemy NPC that can be found at [Voidsea](Voidsea.md)
 
 ## Moveset
 
-A Semblance's arsenal consists of 3 weapons, being [Soulthorn](Soulthorn.md), [Nocturne](Nocturne.md), or [Fractine](Fractine.md), with Specter [Galebreathe](Galebreathe.md).
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Attacks the opponent repeatedly and flourishes them away with a kick. | ◯ | ◯ | (★☆☆) |
+| Critical | \[[Soulthorn](Soulthorn.md)\] The Soulthorn has three critical variants which depend on the amount of soul stacks on their opponent.
+Every M1 of Soulthorn that connects applies a soul stack. Up to three soul stacks can be applied. At three stacks, your opponent will have a rotating, star-like aura.
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Name</th>
-  <th>Description</th>
-  <th>Parryable?</th>
-  <th>Blockable?</th>
-  <th>Danger</th>
-</tr>
-<tr>
-  <td>Assault</td>
-  <td>Attacks the opponent repeatedly and flourishes them away with a kick.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td>Critical</td>
-  <td>[<a href="Soulthorn.md">Soulthorn</a>] The Soulthorn has three critical variants which depend on the amount of soul stacks on their opponent.<p>Every M1 of Soulthorn that connects applies a soul stack. Up to three soul stacks can be applied. At three stacks, your opponent will have a rotating, star-like aura.</p>
-  <p>At 0 stacks, the sword glows but nothing happens.</p>
-  <p>At 1-2 stacks, the Semblance leaps and releases a heavy chop that ragdolls their opponent, pulling them towards the Semblance. Can hit from a short range. Parriable and does high posture damage. Blockbreaks at 2 stacks.</p>
-  <p>At 3 stacks, you teleport to your opponent and unleash multiple slashes after a brief delay. Parriable and does high posture damage.</p>
-  <p>[<a href="Nocturne.md">Nocturne</a>] The Semblance stabs opponent in a short range after a very slow wind-up and applies a <a href="Moonseye.md">Moonseye</a> symbol on them, applying through block, parry, and on hit, the Semblance will perform a follow-up attack, teleports after them and dealing heavy damage.</p>
-  <p>Can be cancelled by damage in wind-up.</p>
-  <p>[<a href="Fractine.md">Fractine</a>] The Semblance spins around and does a quick slash then leads into a much heavier downslam attack with hyper armor. After using the Critical attack, the tip of their blade breaks off and lodges itself in the opponent, leaving them with a weapon that has less range, less damage, faster swingspeed, and bleed damage.</p>
-  <p>Upon using the critical while in the Shattered State of Fractine will do the first attack of the original critical, while recalling the lodged tip of the blade out any opponents its stuck in doing damage and applying hitstun to the original target hit and all opponents in its path. This also restores their weapon back to its original state.</p></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
-</tr>
-<tr>
-  <td>Feint</td>
-  <td>Attacks, but stops during the windup in an attempt to catch the opponent off-guard.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>(★★☆)</td>
-</tr>
-<tr>
-  <td>Time-Slowing Orb</td>
-  <td>The Semblance creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed.</td>
-  <td><font>✗</font></td>
-  <td><font>✗</font></td>
-  <td>(★★☆)</td>
-</tr>
-<tr>
-  <td>Wind Blade</td>
-  <td>The Semblance shoots out an arc of gale.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td>Wind Forge</td>
-  <td>The Semblance conjures up a line of 4 wind projectiles before sending them towards the target.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td>Twister Kicks</td>
-  <td>The Semblance dashes forwards kicking with a rush of winds dealing damage.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
-</tr>
-</tbody>
-</table>
+At 0 stacks, the sword glows but nothing happens.
+
+At 1-2 stacks, the Semblance leaps and releases a heavy chop that ragdolls their opponent, pulling them towards the Semblance. Can hit from a short range. Parriable and does high posture damage. Blockbreaks at 2 stacks.
+
+At 3 stacks, you teleport to your opponent and unleash multiple slashes after a brief delay. Parriable and does high posture damage.
+
+\[[Nocturne](Nocturne.md)\] The Semblance stabs opponent in a short range after a very slow wind-up and applies a [Moonseye](Moonseye.md) symbol on them, applying through block, parry, and on hit, the Semblance will perform a follow-up attack, teleports after them and dealing heavy damage.
+
+Can be cancelled by damage in wind-up.
+
+\[[Fractine](Fractine.md)\] The Semblance spins around and does a quick slash then leads into a much heavier downslam attack with hyper armor. After using the Critical attack, the tip of their blade breaks off and lodges itself in the opponent, leaving them with a weapon that has less range, less damage, faster swingspeed, and bleed damage.
+
+Upon using the critical while in the Shattered State of Fractine will do the first attack of the original critical, while recalling the lodged tip of the blade out any opponents its stuck in doing damage and applying hitstun to the original target hit and all opponents in its path. This also restores their weapon back to its original state.
+
+ | ◯ | ◯ | (★★☆) |
+| Feint | Attacks, but stops during the windup in an attempt to catch the opponent off-guard. | N/A | N/A | (★★☆) |
+| Time-Slowing Orb | The Semblance creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed. | ✗ | ✗ | (★★☆) |
+| Wind Blade | The Semblance shoots out an arc of gale. | ◯ | ◯ | (★☆☆) |
+| Wind Forge | The Semblance conjures up a line of 4 wind projectiles before sending them towards the target. | ◯ | ◯ | (★☆☆) |
+| Twister Kicks | The Semblance dashes forwards kicking with a rush of winds dealing damage. | ◯ | ◯ | (★★☆) |
 
 ### Passives
 

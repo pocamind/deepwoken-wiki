@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 150095
+revid: 150138
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -154,21 +154,23 @@ His item descriptions will change randomly each time he hits his hourly rotation
 
 -   _A rare find indeed._
 -   _Hard sell eh?.. What if it was purple?_
+-   _Hey come on now, it's not that expensive.._
 -   _Hey, you break it - you buy it._
 -   _I stole these from local bandits, by the way._
 -   _Isn't it weird how there's like next to no fruit in Erisia? I had to plant my own tree near the shoreline... if you care._
 -   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
 -   _It's not overpriced, I swear!_
 -   _Looks valuable, you should buy it!_
+-   _Now see, I would buy this. From myself._
 -   _Oh haha, that's not dust that's uhm... and expensive finish, probably a fashion thing._
 -   _Oof, man. Are you sure you can afford this heat?_
 -   _This catch your eye?_
 -   _This could almost be an antique, I think?_
 -   _This is a real steal, probably._
 -   _This one's so valuable it's been sitting around for years!_
+-   _This usually isn't the case but I almost drowned getting this haha._
 -   _Truly a divine thingymabob._
 -   _You got any Ongo slices? I could really go for a snack..._
--   _This usually isn't the case but I almost drowned getting this haha._
 
 ## Shop Rotation
 
@@ -187,7 +189,7 @@ Sold Items
     <li><b><font>Expert</font></b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>, <a href="Hive_Drone.md">Hive Drone</a>.</li>
   </ul><p><b>For </b>:</p>
   <ul>
-    <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>.</li>
+    <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Merchant_Robes.md">Merchant Robes</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>.</li>
     <li><b><font>Adept</font></b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>.</li>
     <li><b><font>Expert</font></b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
     <li><b><font>Master</font></b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
@@ -209,7 +211,7 @@ Sold Items
     <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
     <li><b><font>Medium Weapons</font></b>: <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
     <li><b><font>Heavy Weapons</font></b>: <a href="Adretian_Axe.md">Adretian Axe</a>.</li>
-  </ul><p><b>For </b>: [[Falchion#Alloyed|Template:AlloyedColor]], <a href="Rifle_Spear.md">Rifle Spear</a>, [[Scalesplitter#Alloyed|Template:AlloyedColor]], <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.<br>
+  </ul><p><b>For </b>: [[Falchion#Alloyed|Template:AlloyedColor]], [[Scalesplitter#Alloyed|Template:AlloyedColor]], <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.<br>
   <b>For </b>:</p>
   <ul>
     <li><b><font>Light Weapons</font></b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Needle's_Eye.md">Needle's Eye</a>.</li>
@@ -217,6 +219,10 @@ Sold Items
   </ul><p><b>For </b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.<br>
   <b>For </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>.<br>
   <b>For </b>: <a href="Night_Axe.md">Night Axe</a>.</p></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td><p><b>For </b>: <a href="Sailor's_Fleece.md">Dark Sailor's Fleece</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -245,6 +251,7 @@ The black market rotation always has 4 items in stock.
 His item descriptions will change randomly each time he sells goods from his Black Market Cache:
 
 -   _Careful. This one's got a history.. I think._
+-   _Don't even ask, man._
 -   _Got somethin' that might interest ya..._
 -   _I uhh, yeah I really shouldn't have these._
 -   _I barely know what I'm looking at here._
@@ -300,12 +307,12 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Hero_Blades.md">Hero Blades</a> (all of them).</li>
+    <li><b>For </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>.</li>
     <li><b>For </b>: <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
     <li><b>For </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>.</li>
-    <li><b>For </b>: <a href="Red_Death.md">Red Death</a>.</li>
+    <li><b>For </b>: <a href="First_Light.md">First Light</a>, <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For </b>: <a href="Soulthorn.md">Soulthorn</a>.</li>
-    <li><b>For </b>: <a href="First_Light.md">First Light</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>.</li>
+    <li><b>For </b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>.</li>
     <li><b>For </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
   </ul></td>
 </tr>

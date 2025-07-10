@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 149249
+revid: 150134
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -94,4 +94,4 @@ If Teleportation is Drowned, in addition to the extra Resonance points to spend,
 -   Teleportation charges faster if you are relatively close by the location you chose to teleport to.
 -   Teleportation now cancels if hit during the first 0.5s of its windup. If its windup is cancelled, it isn't put on CD
 -   When drowned some community often calls it a 'Snap gate' referencing Monad Studio old game from Rogue Lineage
--   If you have the _[Tarnished](Boons_and_Flaws.md)_ flaw, you will only be able to place waypoints.
+-   If you have the _[Tarnished](Boons_and_Flaws.md)_ flaw, you will only be able to teleport if you click on the mark too many times.

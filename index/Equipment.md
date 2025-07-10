@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 150084
+revid: 150141
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -3301,7 +3301,7 @@ Found from:
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
  | N/A |
-|  | 
+| File:Gorden fleecemen.PNG | 
 
 [Sailor's Fleece](<Sailor's_Fleece.md>)
 
@@ -3320,8 +3320,9 @@ _Requires Power 2_
 Found from:
 
 -   [Voidsea](Voidsea.md) Events
+-   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | Sailor's Fleece, Dark Sailor's Fleece |
+ | Default, Dark |
 |  | 
 
 [Sandrunner Wraps](Sandrunner_Wraps.md)
@@ -5139,6 +5140,7 @@ Sources:
 
 -   [Ferryman](The_Ferryman.md) **(~1%)**
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
  | N/A |
 | File:Mantle.png | 
@@ -5185,6 +5187,7 @@ Sources:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
  | N/A |
 | File:Warmaster's Medallion Equipment.png | 
@@ -5210,6 +5213,7 @@ Sources:
 -   [Hell Mode](Hell_Mode.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
+-   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
  | N/A |
 |  | 

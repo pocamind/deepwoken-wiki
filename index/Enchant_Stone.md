@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 150089
+revid: 150118
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -39,7 +39,7 @@ There are multiple ways to obtain an Enchant Stone, the usual and best source be
 The Astral, Curse of Rhaemen's Ember, Parasol's Blight, Void, and Nightbringer are unique in that they can only be obtained through certain methods.
 
 -   Astral can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md).
--   The Curse of Rhaemen's Ember Enchant Stone can only be obtained by defeating [Hive Constructs](Hive_Construct.md), defeating [Rogue Constructs](Rogue_Construct.md), as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely).
+-   The Curse of Rhaemen's Ember Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md), turning in an [Aratel Artifact](Artifacts.md) to a Banker, defeating [Rogue Constructs](Rogue_Construct.md), as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely).
 -   Parasol's Blight can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
 -   Void can exclusively be bought from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Void Spires](Void_Spire.md) and.
 -   Nightbringer exclusively drops from [Parliament](Parliament.md).

@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 150064
+revid: 150130
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]

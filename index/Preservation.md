@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 140299
+revid: 150128
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

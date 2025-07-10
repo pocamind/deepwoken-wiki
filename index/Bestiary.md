@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 149943
+revid: 150116
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -10,7 +10,7 @@ categories: [Mechanics, Monsters, Bosses]
 
 ## Description
 
-The Bestiary is a part of Deepwoken's Encyclopedia system along with the [Glossary](Glossary.md), used to document various Monsters. The bestiary can be accessed by clicking the book icon labeled "Encyclopedia" at the top left of your screen. The bestiary grants a damage and defense bonus against monsters and bosses upon completing challenges, most of which are "kill X enemy 10/25/100 times."
+The Bestiary is a part of Deepwoken's Encyclopedia system along with the [Glossary](Glossary.md), used to document various [Monsters](Monsters.md). The bestiary can be accessed by clicking the book icon labeled "Encyclopedia" at the top left of your screen. The bestiary grants a damage and defense bonus against monsters and bosses upon completing challenges, most of which are "kill X enemy 10/25/100 times."
 
 Upon defeating eligible monsters, they will be added to your bestiary, giving you a reference for your progress and showcasing how many times you've killed that specific monster. After defeating the same monster type 10/25/100 times, you will gain a scaling damage and defense buff towards that monster. Additionally, each milestone may award some lore about said monster. There are currently 19 monsters with a bestiary entry.
 
@@ -85,7 +85,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   <td><a href="Deep_Owl.md">Deep Owl</a></td>
   <td>Deep Owl Slayer I/II/III
   <ul>
-    <li>Slay 10, 25, and 100 <a href="Deep_Owl.md">Deep Owls</a></li>
+    <li>Slay 10, 25, and 100 <a href="Deep_Owl.md">Deep Owls</a> or <a href="Parliament.md">Parliaments</a></li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>
