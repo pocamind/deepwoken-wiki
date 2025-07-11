@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 150206
+revid: 150225
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -96,25 +96,10 @@ Dodgeable: ◯
  | 
 
  |
-| 
-
-**Rotten Mudtoss**  
-(Removed?)
-
- | Hurls a [Mudskipper](Mudskipper.md) or [Bloatskipper](Mudskipper.md#bloatskipper) at the opponent. If Mudskipper, it will act as a new summoned enemy. If Bloatskipper, it will explode upon impact.
-
-  
-Parryable:X  
-Blockable:?  
-Dodgeable:◯
-
- | 
-
- |
 
 ### **Passives**
 
--   **Broodlord Rot** - When the Mudskipper Broodlord lands an attack on a target that isn't parried or dodged, **80% anti-heal is applied** for a few seconds, and light insanity is given. It also applies Bear Trap.
+-   **Broodlord Rot** - When the Mudskipper Broodlord lands an attack on a target, **80% anti-heal is applied** for a few seconds. It also applies Bear Trap.
     -   Natural health regeneration is unaffected. Artificial health regeneration is, however.
     -   In [Hell Mode](Hell_Mode.md), this is reduced to 50%.
         -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), the amount of anti-heal is increased up to 100%[\[1\]](#cite-note-1), excluding health packs received from killing monsters.

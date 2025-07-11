@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 149405
+revid: 150221
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons, Light Weapons]
@@ -35,7 +35,7 @@ Assume a stance, lowering yourself while delivering 3 stretched blows with your 
 
 ## Critical
 
-The Critical attack will reduce **most** active cooldowns by 30 seconds (mantras, talent cooldowns, resonance) while applying 40 flat wither damage to the user. This attack has no hitboxes and deals no damage. 30 seconds cooldown (named Temporal Fatigue).
+The Critical attack will reduce **most** active cooldowns by 30 seconds (mantras, talent cooldowns, resonance) while applying 40 flat wither damage to the user. This attack has no hitboxes and deals no damage. 30 seconds cooldown (named Temporal Fatigue). WARNING: USING THE CRITICAL WHILE HAVING LESS THAN 40HP THAT ISN'T WITHERED WILL AUTO GRIP YOU, ESPECIALLY IMPORTANT IF YOU ARE FIGHTING ENMITY
 
 | List of unaffected cooldowns: |
 | --- |

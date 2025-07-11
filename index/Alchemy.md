@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 150153
+revid: 150234
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -77,33 +77,33 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 
 | Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Resistance Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Duration |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-5% | \-5% |  | +0.25\* |  |  |  |  |
+| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-1.75% | \-5% |  | +0.25\* |  |  |  |  |
 | [Bamboo](Bamboo_Bundle.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
 | [Beeswax](Beeswax.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |
-| [Bluecap](Bluecap.md) | \-5 | +18 |  |  |  |  |  |  | +3.75/s |  |
+| [Bluecap](Bluecap.md) | \-5 | +23 |  |  |  |  |  |  | +3.75/s |  |
 | [Browncaps](Browncap.md) | \-4 |  | +2% |  |  |  |  |  |  |  |
-| [Calabash](Calabash.md) |  |  |  |  | +10% |  |  | \-19.85%\*\*\* |  |  |
+| [Calabash](Calabash.md) |  |  |  |  | +10% |  |  | \-5%\*\*\* |  |  |
 | [Chum](Chum.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
-| [Crustacean Meat](Crustacean_Meat.md) |  |  | \-7% |  |  |  |  |  |  | +20% |
-| [Dentifilo](Dentifilo.md) | \-2 | +18 |  |  |  |  |  |  |  |  |
+| [Crustacean Meat](Crustacean_Meat.md) |  |  | \-1.75% |  |  |  |  |  |  | +20% |
+| [Dentifilo](Dentifilo.md) | \-2 | +23 |  |  |  |  |  |  |  |  |
 | [Glumfig](Glumfig.md) | +5 |  | \-2% |  | \-15% |  |  |  | \-0.1/s |  |
 | [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |
 | [Marram Grass](Marram_Grass.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
 | [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |
 | [Plumfruit](Plumfruit.md) |  |  | +2% |  |  |  | \-30% |  |  |  |
 | [Pomar](Pomar.md) | \-3 |  |  |  |  | +0.25\* |  |  |  |  |
-| [Redd](Redd.md) | +4 |  |  |  |  |  |  | \-19.85%\*\*\* |  | \-25% |
+| [Redd](Redd.md) | +4 |  |  |  |  |  |  | \-5%\*\*\* |  | \-25% |
 | [Sap](Sap.md) |  |  |  |  |  | \-5%\* |  | +90% |  |  |
 | [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
 | [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
 | [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  | +50% |
 | [Thresher Egg](Thresher_Egg.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
 | [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
-| [Wheat](Gathered_Wheat.md) |  |  | \-7% |  |  |  |  | +90% |  |  |
+| [Wheat](Gathered_Wheat.md) |  |  | \-1.75% |  |  |  |  | +90% |  |  |
 
 \* Potion speed boost modifiers are calculated as √(1 + n) with n being the amount of speed boost components in the potion. E.g. 3 Pomar and 2 Alestrian Coral would give √(1 + 1.25) = √(2.25) = 1.5x or +50% speed.  
 \*\* Players innately have a 25% resistance to slows unless they're casting a Mantra, meaning in effect, this is -3.75%.  
-\*\*\* This is very likely not -19.85% in the code, but Ether regeneration in general has a sort of "randomness" to it, and this was the best fit average when testing.
+\*\*\* Ether regeneration has a sort of "randomness" to it, though this is likely the value that's in the code.
 
 Eating an ingredient will give you a weaker version of the effects it would normally give you if brewed in a potion. This can be used to remove an existing potion effect.
 
@@ -391,13 +391,12 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Instant Damage potions were heavily nerfed before release - there are some circulating videos of high damage potions, but they can't be made now. Currently, this is the best available damage potion, dealing less than 10% to similar strength opponents.
 -   **Instant Ether** (Soothing) - 3 Bluecaps + 2 Dentifilos
     -   Almost a full Ether restore - deals 15 damage.
-    -   Not very useful compared to Ether Restoration potions.
--   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle
-    -   Not very effective - usually drains less than 20%. Ether draining potions are recommended instead.
+-   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle + 2 Marram Grass
+    -   Instantly drains a very large amount of Ether.
 -   **Damage Buff Potion** (Strengthening) - 3 Plumfruit + 2 Browncaps
     -   Buffs your damage.
--   **Damage Debuff Potion** (Dulling) - 3 Crustacean Meat + 2 Wheat
-    -   Debuffs your damage.
+-   **Damage Debuff Potion** (Dulling) - 3 Glumfig + 2 Crustacean Meat
+    -   Alternatively, you can use Spider Eggs instead of Crustacean Meat for a longer duration potion, although this will come at the cost of effectiveness and won't be that much longer than the initial potion.
 -   **Greater Posture Damage Potion** (Staggering) - 3 Ongos + 2 Spider Eggs
     -   This lowers your posture defense, though.
     -   Alternatively for [Saltchemists](Oath%253A_Saltchemist.md), 3 Alestrian Coral + 2 Redds + Antithetic salts. While less potent than the former, this avoids lowering your posture defense.
