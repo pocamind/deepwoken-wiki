@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 149476
+revid: 150206
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -99,6 +99,7 @@ Dodgeable: ◯
 | 
 
 **Rotten Mudtoss**  
+(Removed?)
 
  | Hurls a [Mudskipper](Mudskipper.md) or [Bloatskipper](Mudskipper.md#bloatskipper) at the opponent. If Mudskipper, it will act as a new summoned enemy. If Bloatskipper, it will explode upon impact.
 

@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 150118
+revid: 150203
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -42,7 +42,7 @@ The Astral, Curse of Rhaemen's Ember, Parasol's Blight, Void, and Nightbringer a
 -   The Curse of Rhaemen's Ember Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md), turning in an [Aratel Artifact](Artifacts.md) to a Banker, defeating [Rogue Constructs](Rogue_Construct.md), as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely).
 -   Parasol's Blight can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
 -   Void can exclusively be bought from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Void Spires](Void_Spire.md) and.
--   Nightbringer exclusively drops from [Parliament](Parliament.md).
+-   Nightbringer drops directly from [Parliament](Parliament.md) and [Prime Megalodaunts](Prime_Megalodaunt.md).
 
 ## Trivia
 

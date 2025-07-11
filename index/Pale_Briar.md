@@ -1,9 +1,9 @@
 ---
 title: Pale Briar
-revid: 147260
+revid: 150187
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Weapons, Greataxes, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Heavy Weapons]
+categories: [Weapons, Greataxes, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Heavy Weapons]
 ---
 
 # Pale Briar
@@ -16,6 +16,7 @@ categories: [Pages using duplicate arguments in template calls, Weapons, Greatax
 | scaling | HVY: 7.5 |
 | range | 10 |
 | swing speed | 0.81x |
+| endlag | 0.1s |
 | penetration | 25% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |

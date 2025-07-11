@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 150101
+revid: 150201
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -169,9 +169,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nightbringer<div></div></font></center></td>
-  <td><div><p>On hit, steal a portion of your opponent's Ether.<br>
-  The amount of Ether stolen is very sizeable.</p>
-  <p>Directly dropped from <a href="Parliament.md">Parliament</a> (uncommon).</p></div></td>
+  <td><div><p>On hit, steal a portion of your opponent's Ether.</p>
+  <p>Additionally, your weapon attacks can proc certain <a href="Shadowcast.md">Shadowcast</a> Talents, such as Twisted Puppets' shadow burn or Sightless Still.</p>
+  <p>Directly dropped from <a href="Parliament.md">Parliament</a> and <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a> (uncommon).</p></div></td>
   <td><div>The weapon turns black with black shadow effects enveloping it.</div></td>
 </tr>
 <tr>

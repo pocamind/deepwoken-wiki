@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 148093
+revid: 150217
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -16,14 +16,14 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Iblis, The Fallen Angel, is a powerful Starkindred apostate located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md), above the and outside the hole in the sky(You can get here using a union hook at the entrance of the Starfield Grove, or by climbing from outside). He must be defeated to obtain [Starkindred](Oath%253A_Starkindred.md), uses an alternate [Divine Longspear](Crazy_Slots.md), and is a Flamecharmer. He uses Starkindred mantras alongside his Flamecharm ones and quickly become overwhelming for unprepared players attempting to kill him solo. He wears a red [Hivelord Mask](Hivelord_Mask.md).
+Iblis, The Fallen Angel, is a powerful Starkindred apostate located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md), above the and outside the hole in the sky(You can get here using a union hook at the entrance of the Starfield Grove, or by climbing from outside). He must be defeated to obtain [Starkindred](Oath%253A_Starkindred.md), uses a [True Seraph Spear](True_Seraph_Spear.md), and is a Flamecharmer. He uses Starkindred mantras alongside his Flamecharm ones and quickly become overwhelming for unprepared players attempting to kill him solo.
 
 ## Moveset
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly thrusts weapon at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands. | ◯ | ✗ | (★★☆) |
+| Critical | The user performs a quick downslash before lunging forward. Both hits of this critical have **innate bleed** and deal 1x scaled damage. | ◯ | ✗ | (★★☆) |
 | Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
 | Fire Blade (Starkindred) | While he has his wings out, Iblis will rise in the air before unleashing a big wave of flames in front of him, dealing heavy damage if all hits land. | ✗ | ◯ | (★☆☆) |
 | Flaming Scourge | Iblis gathers flames in his hand and spins it like a whip grabbing anyone around him, before slamming them into the ground and inflicting Burn. | ✗ | ✗ | (★☆☆) |

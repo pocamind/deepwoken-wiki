@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 148432
+revid: 150199
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content]
@@ -68,10 +68,6 @@ Currently unknown.
 
 -   **Anchor Shock - Talent**
     -   Your Blightshock prevents targets from using mobility mantras.
-
-## Gallery
-
-Video showcase by **@ChunkyySodaa** on [Medal](https://medal.tv/games/roblox/clips/kzSJV1H3q0sAIsiyH?invite=cr-MSxUbWEsNjM0NjI4MTA).
 
 ## Trivia
 
