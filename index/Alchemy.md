@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 150234
+revid: 150235
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -78,7 +78,7 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 | Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Resistance Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Duration |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Alestrian Coral](Alestrian_Coral.md) |  |  | \-1.75% | \-5% |  | +0.25\* |  |  |  |  |
-| [Bamboo](Bamboo_Bundle.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
+| [Bamboo](Bamboo_Bundle.md) |  | \-23 |  |  | +10% |  |  |  |  |  |
 | [Beeswax](Beeswax.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |
 | [Bluecap](Bluecap.md) | \-5 | +23 |  |  |  |  |  |  | +3.75/s |  |
 | [Browncaps](Browncap.md) | \-4 |  | +2% |  |  |  |  |  |  |  |
@@ -88,7 +88,7 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 | [Dentifilo](Dentifilo.md) | \-2 | +23 |  |  |  |  |  |  |  |  |
 | [Glumfig](Glumfig.md) | +5 |  | \-2% |  | \-15% |  |  |  | \-0.1/s |  |
 | [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |
-| [Marram Grass](Marram_Grass.md) |  | \-15 |  |  | +10% |  |  |  |  |  |
+| [Marram Grass](Marram_Grass.md) |  | \-23 |  |  | +10% |  |  |  |  |  |
 | [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |
 | [Plumfruit](Plumfruit.md) |  |  | +2% |  |  |  | \-30% |  |  |  |
 | [Pomar](Pomar.md) | \-3 |  |  |  |  | +0.25\* |  |  |  |  |
