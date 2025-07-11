@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 148404
+revid: 150246
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -67,8 +67,6 @@ Both criticals share a cooldown of **9 seconds**.
 ## Gallery
 
 ### Trivia
-
-As of 2/22/2025, Criticals and weapon model now share the color of the path the player is using.
 
 -   Previously the running critical used to have an Ice Blue indicator. This was later changed to a standard Red indicator to avoid confusion.
 -   As stated in the description of the Kyrswynter, it explains how Old Kyrsan weaponry was far more pristine than New Kyrsan weaponry. [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) may have been the last ever modern Kyrsgarde to every conjure such a weapon, or it was safely passed down from his bloodline.

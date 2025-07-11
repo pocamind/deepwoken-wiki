@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 150232
+revid: 150243
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Medium Weapons, Swords, Weapons with Unique Criticals]
@@ -32,14 +32,14 @@ The Scoundrel's Saber is a Medium Sword weapon sold exclusively by [Traan Zakshu
 
 ## Critical
 
-The user rushes forward, seemingly preparing to slice with the blade, instead delivering a fake blow that leads into a pommel strike that guardbreaks.
+The user rushes forward, seemingly preparing to slice with the blade, instead delivering a fake blow that leads into a guardbreaking pommel strike.
 
-The pommel strike automatically guardbreaks and Dazes for 2.5 seconds. This attack has a 1.1x scaled damage multiplier, meaning it deals 110% of your weapon's scaled damage. If the user lands this critical on the opponent's back, it will gain a 10% damage bonus.
+The pommel strike has a 1.1x scaled damage multiplier and Dazes for 2.5 seconds. If the user lands this critical on the opponent's back, it will gain a 10% damage bonus.
 
 The critical has a cooldown of **4 seconds**.
 
 ## Trivia
 
 -   This is part of the Saber weapon family, along with the [Officer Saber](Officer_Saber.md) and [Cavalry Saber](Cavalry_Saber.md).
--   The critical has a very inconsistent hitboxes.
+-   The critical has a very inconsistent hitboxes, often causing the critical's increased damage on backhit gimmick to not work at all.
 -   The Scoundrel's Saber currently has a bug in which if you Alloy it, it will turn into an [Alloyed Officer Saber](Officer_Saber.md#alloyed).

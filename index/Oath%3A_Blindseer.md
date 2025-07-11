@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 149500
+revid: 150240
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -30,7 +30,7 @@ categories: [Oaths]
 -   Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 -   Above the bandit village lies the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Climb up the wall bordering the village to reach it.
 -   Climb above the temple doors or go through them if they are open and proceed inside the temple.
-    -   Watch out for the Watcher guarding the temple, as they will spawn a [Lesser Angel](Hollow_Angel.md) if they catch sight of you. In case you defeat the angel, it's recommended to carry him around the temple, as the watcher won't detect you as long as the angel hasn't been executed.
+    -   Watch out for the Watcher guarding the temple, as they will spawn a [Hollow Angel](Hollow_Angel.md) if they catch sight of you.
 
 Once inside the temple, proceed through a passage on the left.
 

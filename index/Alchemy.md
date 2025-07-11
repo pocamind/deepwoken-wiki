@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 150235
+revid: 150244
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -101,7 +101,7 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 | [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
 | [Wheat](Gathered_Wheat.md) |  |  | \-1.75% |  |  |  |  | +90% |  |  |
 
-\* Potion speed boost modifiers are calculated as √(1 + n) with n being the amount of speed boost components in the potion. E.g. 3 Pomar and 2 Alestrian Coral would give √(1 + 1.25) = √(2.25) = 1.5x or +50% speed.  
+\* Potion speed boost modifiers are calculated as √(1 + (t \* n)) with t being the effectiveness of each ingredient and n being the amount of speed boost components in the potion. E.g. 3 Pomar and 2 Alestrian Coral would give √(1 + (0.25 \* 5)) = √(1 + 1.25) = √(2.25) = 1.5x or +50% speed.  
 \*\* Players innately have a 25% resistance to slows unless they're casting a Mantra, meaning in effect, this is -3.75%.  
 \*\*\* Ether regeneration has a sort of "randomness" to it, though this is likely the value that's in the code.
 
