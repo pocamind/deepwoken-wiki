@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 150195
+revid: 150303
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -8,7 +8,7 @@ categories: [Monsters, Bosses]
 
 # Parliament
 
-**Parliament** is a Boss summoned via [The Vat](The_Vat.md), which is a dungeon accessible by [The Gaunt Man](The_Gaunt_Man.md). **Parliament** heavily resembles the head of [The Nestmind](The_Nestmind.md), as its a [Deep Owl](Deep_Owl.md) with multiple heads, not much is currently known about their health, nor their drops, though it can be guaranteed that it drops good items. Template:Creature Infobox V3 All of its damaging attacks do shadow and physical damage and all apply the shadow debuff.
+**Parliament** is a Boss summoned via [The Vat](The_Vat.md), which is a dungeon accessible by [The Gaunt Man](The_Gaunt_Man.md). **Parliament** heavily resembles the head of [The Nestmind](The_Nestmind.md), as its a [Deep Owl](Deep_Owl.md) with multiple heads. Unlike most bosses, **Parliament** has a high chance of dropping its special drop, the Nightbringer Enchant Stone. Template:Creature Infobox V3 All of its damaging attacks do shadow and physical damage and all apply the shadow debuff.
 
 <table><caption>Unique Attacks</caption>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: The Vat
-revid: 150196
+revid: 150302
 source: https://deepwoken.fandom.com/wiki/The_Vat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths, Layer 1]
@@ -16,7 +16,7 @@ A stench not unlike rotting flesh permeates the air. But where rot and decay is 
 
 ## Overview
 
-the vat is a dungeon located in a hidden cave in the depths. the room itself is a dome with ornate floor patterns with the gaunt man standing in the middle.
+The Vat is a dungeon located in a hidden cave in the depths. The room itself is a dome with ornate floor patterns with [The Gaunt Man](The_Gaunt_Man.md) standing in the middle. Upon completion, You'll be able to trade spires and world boss parts for three exclusive enchants and a new deep gem.
 
 ## Contents
 
@@ -30,5 +30,5 @@ Third Trial: [Parliament](Parliament.md)
 
 ## Trivia
 
--   It should be noted that you can wipe from this trial and you shouldn't go unprepared. It is highly advised that you have your bell check ready in case something goes south, you'll have higher chances of success.
--   The Trials start almost instantly after you leave force field
+-   It should be noted that you can wipe from this trial and you shouldn't go unprepared. It is highly advised that you have your bell check ready in case something goes south so you'll have a higher chance of success.
+-   The trials start almost instantly after you leave force field.
