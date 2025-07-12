@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 150093
+revid: 150275
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -164,12 +164,12 @@ Special brews created by Alchemists. Potion effects vary heavily based on the in
 
 Mocking favor is the outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>). Whenever you taunt (spit) or emote, [Tillian](Tillian.md) or [Aelita](Aelita.md) will spawn and will grant you a random boon or affliction. Due to the large amount of effects this can apply, they'll all be listed together. See the afflictions side of this Talent [here](#mocking-favor-afflictions).
 
--   **Again!** - Rerolls the effect given to you at no extra cost, granting an entirely different effect. No visual effect.
--   **Now You See Me...** - A very short duration invisibility. Signified by the same visual effect that [Visionshaper's Cheap Trick](Oath%253A_Visionshaper.md#abilities) has.
--   **Tempo Gain** - Grants ~18% Tempo. Signified by a light blue [Reinforce](Attunement-less.md#reinforce)\-like effect.
--   **Posture Clear** - Restores 30% of your current Posture. Signified by [Rally's](Attunement-less.md#rally) shield clanging sound effect.
--   **Free Mantra** - Makes your next Mantra cast cost 0 Ether. This effect is also granted to your allies. Signified with a visual that is almost identical to [Capra's Mark of Jurik](Capra.md#racial-traits).
--   **Vent Reset** - Resets your Vent cooldown, allowing you to use it again. No visual effect.
+-   **Again!** - Rerolls the effect given to you at no extra cost, granting an entirely different effect. No visual effect, instead signified by Aelita/Tillian saying "Again! Again!".
+-   **Now You See Me...** - A very short duration invisibility. Signified by the same visual effect that [Visionshaper's Cheap Trick](Oath%253A_Visionshaper.md#abilities) has and Aelita/Tillian saying "Woah, neat trick! Do it again!".
+-   **Tempo Gain** - Grants ~18% Tempo. Signified by a light blue [Reinforce](Attunement-less.md#reinforce)\-like effect and Aelita/Tillian saying "On your toes, dummy!".
+-   **Posture Clear** - Restores 30% of your current Posture. Signified by [Rally's](Attunement-less.md#rally) shield clanging sound effect and Aelita/Tillian saying "Hit 'em while they're open!".
+-   **Free Mantra** - Makes your next Mantra cast cost 0 Ether. This effect is also granted to your allies. Signified with a visual that is almost identical to [Capra's Mark of Jurik](Capra.md#racial-traits) and Aelita/Tillian saying "First one's always free!".
+-   **Vent Reset** - Resets your Vent cooldown, allowing you to use it again. No visual effect, instead signified by Aelita/Tillian saying "Need a Break? I've got you!".
 -   **Damage Reabsorption** - Around 30-40% of the damage you've taken very recently will be restored to you. This has a short activation window of only a few seconds. No visual effect.
 
 ## Harmful Status Effects
@@ -395,9 +395,9 @@ Special brews created by Alchemists. Potion effects vary heavily based on the in
 
 Mocking favor is the outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>). Whenever you taunt (spit) or emote, [Tillian](Tillian.md) or [Aelita](Aelita.md) will spawn and will grant you a random boon or affliction. Due to the large amount of effects this can apply, they'll all be listed together. See the boons side of this Talent [here](#mocking-favor-boons).
 
--   **Take a Break** - Longer spit cooldown with no other effects. No visual effect.
--   **Silence** - Suffocation is applied to yourself, removing your ability to cast Mantras for a short duration. Signified by the Suffocation effect.
--   **Fatigued Swings** - Lowers your Swingspeed. Signified by black multiplication marks falling from your character.
+-   **Take a Break** - Randomizes your spit cooldown, between 5 and 20 seconds. No visual effect, instead signified by Aelita/Tillian saying "Heh, cat got your tongue!".
+-   **Silence** - Suffocation is applied to yourself, removing your ability to cast Mantras for a short duration. Signified by the Suffocation effect and Aelita/Tillian saying "Yikes! You're out of breath.". If you have Suffocation Path, you will instead be hit with an apparition and winded.
+-   **Fatigued Swings** - Lowers your Swingspeed. Signified by black multiplication marks falling from your character and Aelita/Tillian saying "Clumsy like a sack of bricks!".
 
 ### Moonseye Mark
 

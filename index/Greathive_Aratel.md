@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 148533
+revid: 150273
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -98,7 +98,7 @@ Fountain in the Hidden Village
 -   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A Memory of Tides](Deepwoken_OST.md#a-memory-of-tides)" by Naktigonis.
 -   The room behind the wooden bookshelf.
     
-    Using [Strong Left](Attunement-less.md) on the wooden bookshelf in the right hallway about 3 times will reveal a, now presumably unused, extra room with 3 "containers" and some broken pipes emitting some sort of gas.
+    Using [Strong Left](Attunement-less.md) (or any other environment-destroying mantra) on the wooden bookshelf in the right hallway a few times will reveal a, now presumably unused, extra room with 3 "containers" and broken pipes leaking gas.
 
 ### Canopy Plaza
 

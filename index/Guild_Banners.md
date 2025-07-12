@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 148523
+revid: 150286
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Objects]
@@ -29,29 +29,31 @@ The marker on top of the flag will change color to reflect its current situation
 
 Standing near the banner will gradually empty the banner, at which point the banner is captured by the guild the player is in. Afterward, staying near the owned banner will revert capture progress. Banners passively revert capture progress to their owner as long that they arent contested by enemies.
 
-(All known) Locations:
+## Locations
 
--   **Etrean Luminant:**
-    -   There is one outside of [Erisor's Church](<Erisor's_Church.md>) in [Erisia](Erisia.md).
-    -   One near [Etris](Etris.md), on the rocks on the way to the entrance to the Legion Camp located at [The Viper's Jaw](<The_Viper's_Jaw.md>).
-    -   One in the ruins next to the Ministry bandit camp above [Outpost Antumbra](Outpost_Antumbra.md).
-    -   One at the top of the ice waterfall in [Minityrsa](Minityrsa.md), near the [Rogue Construct](Hive_Construct.md) and the [Jetstriker orb.](Oath%253A_Jetstriker.md)
-    -   Right outside the [Birdcage](The_Birdcage.md).
-    -   Atop one of the towers at [Towerstruck](Towerstruck_Lands.md).
-    -   Right next to a statue at Statue Isle ([The Etrean Sea](The_Etrean_Sea.md))
+### Etrean Luminant:
 
--   **Eastern Luminant:**
-    -   One by the bridge in [Songseeker](Songseeker_Wilds.md) across from [Derelicit Highchurch](Derelict_Highchurch.md).
-    -   One in [Songseeker](Songseeker_Wilds.md) nearby the windmill.
-    -   One near the [Songseeker](Songseeker_Wilds.md) highway, next to the [Linkstrider](Oath%253A_Linkstrider.md) meteor.
-    -   One near [Entropy Catalyst](The_Entropy_Catalyst.md), by the Sea Highway.
-    -   On the mini-island near [Miner's Landing](<Miner's_Landing.md>).
-    -   One next to the Sea Highway by [Miner's Landing](<Miner's_Landing.md>), on the small island.
-    -   One on the mini-island across from [Summer Isle's](Summer_Isle.md) Guildhall.
-    -   On the bridge to [Starfield Veldt](Starfield_Veldt.md), nearby [Adar](Adar,_Master_of_Metal.md).
-    -   One in [Starswept Valley](The_Starswept_Valley.md), past the triple [thresher](Thresher.md) event, in the little maze.
-    -   One in [Starswept Valley](The_Starswept_Valley.md), behind the triple thresher event by [Widow](Deep_Widow.md), in the broken-down ruins.
+-   There is one outside of [Erisor's Church](<Erisor's_Church.md>) in [Erisia](Erisia.md).
+-   One near [Etris](Etris.md), on the rocks on the way to the entrance to the Legion Camp located at [The Viper's Jaw](<The_Viper's_Jaw.md>).
+-   One in the ruins next to the Ministry bandit camp above [Outpost Antumbra](Outpost_Antumbra.md).
+-   One at the top of the ice waterfall in [Minityrsa](Minityrsa.md), near the [Rogue Construct](Hive_Construct.md) and the [Jetstriker orb](Oath%253A_Jetstriker.md).
+-   Two near [The Birdcage](The_Birdcage.md).
+    -   One right outside [The Birdcage](The_Birdcage.md).
+    -   One on top of a mountain nearby the path.
+-   Atop one of the towers at [Towerstruck](Towerstruck_Lands.md).
+-   Right next to a statue at Statue Isle ([The Etrean Sea](The_Etrean_Sea.md))
+
+### Eastern Luminant:
+
+-   One by the bridge in [Songseeker](Songseeker_Wilds.md) across from [Derelicit Highchurch](Derelict_Highchurch.md).
+-   One in [Songseeker](Songseeker_Wilds.md) nearby the windmill.
+-   One near the [Songseeker](Songseeker_Wilds.md) highway, next to the [Linkstrider](Oath%253A_Linkstrider.md) meteor.
+-   One near [Entropy Catalyst](The_Entropy_Catalyst.md), by the Sea Highway.
+-   On the mini-island near [Miner's Landing](<Miner's_Landing.md>).
+-   One next to the Sea Highway by [Miner's Landing](<Miner's_Landing.md>), on the small island.
+-   One on the mini-island across from [Summer Isle's](Summer_Isle.md) Guildhall.
+-   On the bridge to [Starfield Veldt](Starfield_Veldt.md), nearby [Adar](Adar,_Master_of_Metal.md).
+-   One in [Starswept Valley](The_Starswept_Valley.md), past the triple [thresher](Thresher.md) event, in the little maze.
+-   One in [Starswept Valley](The_Starswept_Valley.md), behind the triple thresher event by [Widow](Deep_Widow.md), in the broken-down ruins.
 
 If you are lost on where to find any of these, check out the Etrean and Eastern Luminant [Maps](Maps.md).
-
-(Page is unfinished)

@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 150269
+revid: 150276
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -220,8 +220,11 @@ Sold Items
   <ul>
     <li><b><font>Light Weapons</font></b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Needle's_Eye.md">Needle's Eye</a>.</li>
     <li><b><font>Medium Weapons</font></b>: <a href="True_Seraph_Spear.md">True Seraph Spear</a>.</li>
-  </ul><p><b>For </b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.<br>
-  <b>For </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>.<br>
+  </ul><p><b>For </b>:</p>
+  <ul>
+    <li><b><font>Medium Weapons</font></b>: <a href="Crescendo.md">Crescendo</a>.</li>
+    <li><b><font>Heavy Weapons</font></b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.</li>
+  </ul><p><b>For </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>.<br>
   <b>For </b>: <a href="Night_Axe.md">Night Axe</a>.</p></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 150148
+revid: 150287
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -51,35 +51,28 @@ To get access to the shop you must finish [The Vat](The_Vat.md) The shop is rela
 <tr>
   <td colspan="4">I would like to test the lethality of the various forms of wildlife of this region.</td>
   <td colspan="4">Yes. You all do. It is good to be acquainted with one's nature.</td>
-  <td colspan="4">I would like to test the lethality of the various forms of wildlife of this region.</td>
+  <td colspan="4">[See first instance]</td>
   <td colspan="4">Oh. I see. I am learning much. Thank you.</td>
 </tr>
 <tr>
   <td colspan="2">So, you want me to fight some monsters?</td>
   <td colspan="2">On second thought, I'm okay.</td>
   <td colspan="4">End.</td>
-  <td colspan="2">So, you want me to fight some monsters?</td>
-  <td colspan="2">On second thought, I'm okay.</td>
+  <td colspan="4"></td>
   <td colspan="4">End.</td>
 </tr>
 <tr>
   <td colspan="2">Monsters? I suppose that is one description. Will you assist me?</td>
   <td colspan="2">Yes. I was think you were average enough to make for a good assistant in this.</td>
-  <td colspan="4"></td>
-  <td colspan="2">[See first instance]</td>
-  <td colspan="2">[See first instance]</td>
-  <td colspan="8"></td>
 </tr>
 <tr>
   <td>Of course.</td>
   <td>I'll pass.</td>
   <td colspan="2">End.</td>
-  <td colspan="12"></td>
 </tr>
 <tr>
   <td>[Enter Dungeon]</td>
   <td>[See first instance]</td>
-  <td colspan="14"></td>
 </tr>
 </tbody>
 </table>
@@ -110,18 +103,15 @@ To get access to the shop you must finish [The Vat](The_Vat.md) The shop is rela
 <tr>
   <td colspan="4">Monsters? I suppose that is one description. Will you assist me?</td>
   <td colspan="4">Yes. I was think you were average enough to make for a good assistant in this.</td>
-  <td colspan="8"></td>
 </tr>
 <tr>
   <td colspan="2">Of course.</td>
   <td colspan="2">I'll pass.</td>
   <td colspan="4">End.</td>
-  <td colspan="8"></td>
 </tr>
 <tr>
   <td colspan="2">[Enter Dungeon]</td>
   <td colspan="2">[See first instance]</td>
-  <td colspan="12"></td>
 </tr>
 </tbody>
 </table>
@@ -149,7 +139,6 @@ To get access to the shop you must finish [The Vat](The_Vat.md) The shop is rela
 </tr>
 <tr>
   <td colspan="6">[Spawns <a href="Prime_Megalodaunt.md"><font><u>Prime Megalodaunt</u></font></a>]</td>
-  <td colspan="6"></td>
 </tr>
 <tr>
   <td colspan="6">[Prime Megalodaunt defeated]</td>
@@ -161,7 +150,6 @@ To get access to the shop you must finish [The Vat](The_Vat.md) The shop is rela
 </tr>
 <tr>
   <td colspan="6">[Spawns <a href="Parliament.md"><font><u>Parliament</u></font></a>]</td>
-  <td colspan="6"></td>
 </tr>
 <tr>
   <td colspan="6">[Parliament defeated]</td>
@@ -173,7 +161,6 @@ To get access to the shop you must finish [The Vat](The_Vat.md) The shop is rela
 </tr>
 <tr>
   <td colspan="6">Experiment complete.</td>
-  <td colspan="6"></td>
 </tr>
 </tbody>
 </table>
@@ -208,6 +195,6 @@ To get access to the shop you must finish [The Vat](The_Vat.md) The shop is rela
 ## Trivia
 
 -   Paired with his freakishly tall appearance, his unnatural speech and dialogue lines imply that he isn't human. Or at the very least, he's drastically different from the people of lumen.
--   He is an unknown aspect, though his eyes appear to be very similar to [Chrysids](Chrysid.md).
+-   He is an unknown aspect, though his eyes appear to be very similar to [Chrysids](Chrysid.md). Although his eyes may be empty to show he is unatural. Along with his blue skin, it might show he is piloting a drowned/dead corpse.
 -   When you die in the experiment, he states: "Ah. I was hoping to learn more from that one. Oh well." he is very likely referring to the player character here and not the monsters. This theory is reinforced by his dialogue when you complete the experiment being "Hm. I have much to learn about your kind. Please do return for more experiments."
 -   He is presumably a Krulian due to his origin being in the depths.

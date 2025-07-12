@@ -1,6 +1,6 @@
 ---
 title: Celtor Wastes
-revid: 141974
+revid: 150272
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, The Depths]
@@ -41,7 +41,11 @@ The main area of farming in [the Depths](The_Depths.md), outside the [City of th
 
 -   [Akira](Akira.md)
 -   Apprentice Diver vs. (either): Alpha Megalodaunt, King Thresher, Lionfish, Glacial Lionfish, Crustaceous Rex
--   [Depths Collapse](Random_Encounters.md#the-depths-collapse)  
+-   [Depths Collapse](Random_Encounters.md#the-depths-collapse)
+-   [Coldheart Fortinbras](Coldheart_Fortinbras.md)
+-   [The Fisherman](The_Fisherman.md)
+-   [Finnegan The Lost](Finnegan_The_Lost.md)
+-   [Silhuett](Silhuett.md)  
     
 
 ## Loot Table

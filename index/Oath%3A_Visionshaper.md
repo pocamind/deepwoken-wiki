@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 146073
+revid: 150281
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Visionshaper | |
 |---|---|
-| oath_req | 50 Charisma, Completing the Aelita / Carnival of Hearts, One Dark Feather |
+| oath_req | 50 Charisma, Completing the Aelita encounter, One Dark Feather |
 | effects | +1 Support Mantra, +2 Combat Mantra |
 
 _For the version that existed prior to the 13th September, 2024, see [here](Oath%253A_Visionshaper/Old_Visionshaper.md)._
@@ -109,6 +109,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 
 ## Notes
 
+-   Carnival of Hearts DOES NOT count for the oath obtainment, whoever said it does was lying.
 -   Almost exclusively a PvP Oath, as the clones die very easily in PvE and deal significantly less damage than the user. On top of this, Mirror Illusion doesn't even hit non-humanoids.
 -   If you wish to dye the Visionshaper eye trail Oath cosmetic, you need to [dye](Dye_Packet.md) the Visionshaper Cosmetic, **not** your actual eyes. - as of June 1st, 2025.
 
