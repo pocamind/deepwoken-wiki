@@ -1,6 +1,6 @@
 ---
 title: Nerin
-revid: 149743
+revid: 150255
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Etrea, Reputation]
@@ -109,3 +109,7 @@ File:Nerin Map.PNG
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The dialogue when you attempt to bribe with not enough money "Hah! Not a penny on you, poor sap. Come back when you're a little, hmm, richer?" is a quote reference to Morshu in Link: The Faces of Evil.

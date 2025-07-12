@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 150237
+revid: 150269
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -254,6 +254,7 @@ The black market rotation always has 4 items in stock.
 
 His item descriptions will change randomly each time he sells goods from his Black Market Cache:
 
+-   _A strange blue turnip salesman once told me deep forests akin to Upper Erisia bring in good coin. Gotta say, he's right._
 -   _Careful. This one's got a history.. I think._
 -   _Don't even ask, man._
 -   _Got somethin' that might interest ya..._
@@ -298,7 +299,8 @@ Sold Items
   (Mostly <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For </b>: <a href="Glumfig.md">Glumfig</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
+    <li><b>For </b>: <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a> <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
+    <li><b>For </b>: <a href="Glumfig.md">Glumfig</a>.</li>
     <li><b>For </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
     <li><b>For </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>.</li>
     <li><b>For </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Forge_Needle.md">Forge Needle</a>.</li>
@@ -312,8 +314,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>.</li>
-    <li><b>For </b>: <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
-    <li><b>For </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>.</li>
+    <li><b>For </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
     <li><b>For </b>: <a href="First_Light.md">First Light</a>, <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For </b>: <a href="Soulthorn.md">Soulthorn</a>.</li>
     <li><b>For </b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>.</li>

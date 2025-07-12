@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 150187
+revid: 150257
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Heavy Weapons]
@@ -50,6 +50,6 @@ The critical scales with weapon investment and proficiency.
 ## Trivia
 
 -   Its critical attack is, ironically, very useful against the Maestro.
--   The critical attack will casted to your cursor direction while not in Shift Lock mode.
+-   The critical attack will be casted to your cursor's direction while not in Shift Lock mode.
 -   The caster of the critical attack is unable to cast mantras while it is up.
     -   Before the 06/15/2024 update, this was possible, leading to many cheese tactics involving the weapon.

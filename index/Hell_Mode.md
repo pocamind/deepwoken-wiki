@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 140449
+revid: 150256
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]
@@ -58,6 +58,7 @@ Although Hell Mode is scary, the rewards are often worth the trouble due to both
 -   **When fighting monsters in a group, avoid hitting your allies.** This will not put them in player combat but will still damage them.
 -   **Other players that didn't ring the bell can combat tag you**, and vice versa. Avoid interacting with them as much as possible, since the lack of health packs could lead to your demise.
 -   Fighting near the [Temple of Hearts](Temple_of_Hearts.md) is a fairly good option, as almost no mobs can make it inside. Nautilodaunts, Threshers, and Deep Owls might be able to follow you in, but you'll be in the clear once they're dead.
+    -   Provided that you have a Yun'Shul Wish, you can also almost guarantee an escape from depths gankers by interacting with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and mashing the first dialogue option. Doing so will cause you to rise out of the depths unscathed. This is only recommended if you are totally overwhelmed, as you forfeit the potential loot by leaving the server.
 -   Most heavy weapons are solid in Hell Mode, but the [Enforcer's Axe](<Enforcer's_Axe.md>) is a particularly good choice thanks to its critical.
     -   Many [Enchantments](Enchantments.md) are viable in Hell Mode as well. Detonation can build up stacks quickly but risks hitting friends. Vampirism boosts longevity. Providence's Thorns punishes anything you can frequently parry, and Wild does reduced damage to allies in addition to doing a lot of damage to stacked mobs. Astral is a simple and effective option for killing faster.
 -   If you are low on health, try to kill a weaker monster, such as a [Lionfish](Lionfish.md), [Thresher](Thresher.md), or [Megalodaunt](Megalodaunt.md).

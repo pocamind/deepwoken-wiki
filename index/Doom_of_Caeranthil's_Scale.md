@@ -1,6 +1,6 @@
 ---
 title: "Doom of Caeranthil's Scale"
-revid: 150055
+revid: 150267
 source: https://deepwoken.fandom.com/wiki/Doom_of_Caeranthil's_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -10,13 +10,13 @@ categories: [Items, Drops, Ingredients]
 
 | Doom of Caeranthil's Scale | |
 |---|---|
-| value | ? |
+| value | 5,000 |
 | weight | None |
 | type | Monster Material |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | ? |
+| desc | A much-prized trophy you prised off the beast. |
 
 ## Description
 

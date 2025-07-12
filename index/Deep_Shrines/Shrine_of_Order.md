@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 150180
+revid: 150258
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -30,7 +30,7 @@ Also located in [Temple of Hearts](../Temple_of_Hearts.md), being the first larg
 
 For, balance your stats (up to a limit\*), but gain a random base [Flaw](../Boons_and_Flaws.md#flaws). Can only be done once per character.
 
-**You need Power 8+ and no [Oath](../Oaths.md) INCLUDING [Oathless](../Oath%253A_Oathless.md) to perform this deal.** If you took an oath beforehand, you may break the Oath to order yourself. This has [consequences](https://deepwoken.fandom.com/wiki/Oaths#Oathbreaker_-_Oath_Removal) of its own, however.
+**You need Power 8+ and no [Oath](../Oaths.md) EXCLUDING [Oathless](../Oath%253A_Oathless.md) to perform this deal.** If you took an oath beforehand, you may break the Oath to order yourself. This has [consequences](https://deepwoken.fandom.com/wiki/Oaths#Oathbreaker_-_Oath_Removal) of its own, however.
 
 ### Details
 
