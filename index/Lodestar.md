@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 144312
+revid: 150363
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -74,7 +74,7 @@ This lootpool may still be incomplete, we'd appreciate it if you helped gather i
   <td>
   <ul>
     <li><b>Starter</b>: <a href="Hired_Mercenary.md">Hired Mercenary</a>.</li>
-    <li><b>Adept</b>: Authority Peacekeeper Armour, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
+    <li><b>Adept</b>: <a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a>, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
     <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>, <a href="Hive_Drone.md">Hive Drone</a>.</li>
     <li><b>Master</b>: <a href="Navaen_War_Chief.md">Navaen War Chief</a> (Direct Drop, <b>Guaranteed</b>).</li>
   </ul></td>

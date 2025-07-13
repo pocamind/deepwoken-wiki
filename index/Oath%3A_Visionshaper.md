@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 150281
+revid: 150377
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -33,7 +33,7 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
 
 -   Meet the following requirements:
     -   50 [Charisma](Attributes.md)
-    -   Complete [Aelita's Encounter](Aelita.md), found in [Valley of Heroes](The_Valley_of_Heroes.md) when it's not winter, at least once. (If done in winter 9 [Blizzard Knights](Stone_Knight.md) will spawn)
+    -   Complete [Aelita's Encounter](Aelita.md), found in [Valley of Heroes](The_Valley_of_Heroes.md) when it's not winter, at least once. (If done in winter 9 [Blizzard Knights](Stone_Knight.md) will spawn instead.)
     -   Have a [Dark Feather](Dark_Feather.md) in your possession
 -   Find Surge, located inside the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
     
@@ -109,7 +109,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 
 ## Notes
 
--   Carnival of Hearts DOES NOT count for the oath obtainment, whoever said it does was lying.
+-   You are supposed to be able to meet the "Complete [Aelita's Encounter](Aelita.md)" requirement for obtainment by participating in [The Carnival of Hearts](Carnival_of_Hearts.md), however this has been bugged since its addition and does not work.
 -   Almost exclusively a PvP Oath, as the clones die very easily in PvE and deal significantly less damage than the user. On top of this, Mirror Illusion doesn't even hit non-humanoids.
 -   If you wish to dye the Visionshaper eye trail Oath cosmetic, you need to [dye](Dye_Packet.md) the Visionshaper Cosmetic, **not** your actual eyes. - as of June 1st, 2025.
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 149722
+revid: 150369
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -95,7 +95,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
 <tr>
   <td><b><a href="The_Central_Authority.md">The Central Authority</a></b></td>
   <td></td>
-  <td>Authority Peacekeeper Armour</td>
+  <td><a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a></td>
   <td><a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a></td>
   <td><a href="Authority_Commander.md">Authority Commander</a></td>
 </tr>

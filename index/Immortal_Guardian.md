@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 149136
+revid: 150364
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -70,7 +70,7 @@ An Immortal Guardian executes the player after knocking them.
 
 ## Trivia
 
--   Removing their armor reveals them to be [Etreans](Etrean.md) sporting the Authority Peacekeeper Armour. This was likely done simply because they look visually appealing when combined with the armor, rather than as anything lore significant.
+-   Removing their armor reveals them to be [Etreans](Etrean.md) sporting the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md). This was likely done simply because they look visually appealing when combined with the armor, rather than as anything lore significant.
     -   The regular Guardians are the File Etrean variant while the Nightmare Guardians are File Etreans with a slightly darker skin tone, reinforcing that there is no real significance to them being Etrean.
 -   Their helmet is a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd) from the anime and manga franchise, _Made in Abyss_.
 -   They speak in all capital letters, much like the [Golem Constructs](Hive_Construct.md).

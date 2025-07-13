@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 150326
+revid: 150376
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2268,7 +2268,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _**[Murmur: Rhythm](Murmur%253A_Rhythm.md)**_ _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
     -   Rhythm's activation keybind can be configured in settings.
     -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
-    -   Red = Low Health, Yellow = Moderate Health, Green = Healthy, Grey = Full Health
+    -   Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
     -   **Disabled on players with Not a Scratch.**
     -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
@@ -3069,7 +3069,7 @@ _**"My cure is most effective."**_
 -   (OATH) Rhythm \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Rhythm's activation keybind can be configured in settings.
     -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
-    -   Red = Low Health, Yellow = Moderate Health, Green = Healthy, Grey = Full Health
+    -   Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
     -   **Disabled on players with Not a Scratch.**
     -   Prerequisite: [Soulbreaker](Oath%253A_Soulbreaker.md)
 

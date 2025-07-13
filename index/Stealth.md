@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 142155
+revid: 150371
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Passive Agility does NOT grant Stealth.
 -   The [Felinor](Felinor.md) aspect starts with 20% Stealth and has a 1.2x multiplier on Stealth gain.
 -   The [Talent Card](Talents.md) _Lowstride_ improves Stealth while crouched. The following outfits have the _Lowstride_ Talent:
-    -   Authority Peacekeeper Armour, [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), and [Shadow Hunter](Shadow_Hunter.md).
+    -   [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), and [Shadow Hunter](Shadow_Hunter.md).
 -   **Equipping specific outfits: (See below)**
     -   [Navaen War Chief](Navaen_War_Chief.md) grants +50% Stealth.
     -   [Darkened Bastion](Darkened_Bastion.md) grants +50% Stealth.

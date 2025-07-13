@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 150336
+revid: 150362
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -185,7 +185,7 @@ Sold Items
   <td><p><b>For </b>:</p>
   <ul>
     <li><b><font>Starter</font></b>: <a href="Hired_Mercenary.md">Hired Mercenary</a>.</li>
-    <li><b><font>Adept</font></b>: Authority Peacekeeper Armour, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
+    <li><b><font>Adept</font></b>: <a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a>, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
     <li><b><font>Expert</font></b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>, <a href="Hive_Drone.md">Hive Drone</a>.</li>
   </ul><p><b>For </b>:</p>
   <ul>
@@ -259,6 +259,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 
 -   _A strange blue turnip salesman once told me deep forests akin to Upper Erisia bring in good coin. Gotta say, he's right._
 -   _Careful. This one's got a history.. I think._
+-   _Did you know if you give me the crowns, I'll actually GIVE you the item, it's a crazy deal right?_
 -   _Don't even ask, man._
 -   _Got somethin' that might interest ya..._
 -   _I uhh, yeah I really shouldn't have these._
@@ -303,7 +304,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For </b>: <a href="Food.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
-    <li><b>For </b>: <a href="Glumfig.md">Glumfig</a>.</li>
+    <li><b>For </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Glumfig.md">Glumfig</a>.</li>
     <li><b>For </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
     <li><b>For </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>.</li>
     <li><b>For </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Forge_Needle.md">Forge Needle</a>.</li>

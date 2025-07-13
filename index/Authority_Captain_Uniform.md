@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 148773
+revid: 150374
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Central Authority]
@@ -35,7 +35,7 @@ This Outfit's Schematic can be found:
 ## Trivia
 
 -   This outfit is worn by the [Authority Officer](Authority_Officer.md), as well as [The Meat Lord](The_Meat_Lord.md).
--   It is essentially just an Authority Peacekeeper Armour with a red cloak on top.
+-   It is essentially just an [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) with a red cloak on top.
 -   Very good substitute for Master Outfits, as it gives the same physical damage resistance as most of them.
 -   The **current** Authority Captain Outfit was created by **KAHAEL**.
 -   [https://www.roblox.com/catalog/10461611396/Authority-Commander-Uniform-Shirt-1](https://www.roblox.com/catalog/10461611396/Authority-Commander-Uniform-Shirt-1) - Shirt

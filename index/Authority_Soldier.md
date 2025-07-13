@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 149172
+revid: 150366
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, The Central Authority]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Authority Soldiers are enemy NPCs found in [Upper Erisia](Upper_Erisia.md) and on [Meteor Isle](Meteor_Isle.md). They are ranked the lowest, and thus the most incompetent members of The Central Authority's army, frequently accidently incinerating or setting each other on fire. As a result, they have a standard appearance, sporting an Authority Peacekeeper Armour and an [Authority Helm](Authority_Helm.md).
+Authority Soldiers are enemy NPCs found in [Upper Erisia](Upper_Erisia.md) and on [Meteor Isle](Meteor_Isle.md). They are ranked the lowest, and thus the most incompetent members of The Central Authority's army, frequently accidently incinerating or setting each other on fire. As a result, they have a standard appearance, sporting an [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) and an [Authority Helm](Authority_Helm.md).
 
 They can spawn in the following events:
 

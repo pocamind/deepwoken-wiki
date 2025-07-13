@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 141197
+revid: 150365
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, The Central Authority]
@@ -43,5 +43,5 @@ This Outfit's Schematic can be found in:
 -   The Talent [Riot Breaker](Talents.md#equipment-talents) (You receive 15% less Posture damage and deal 10% more Posture) is exclusive to the Outfit. This Talent is somewhat similar to [Ardour](Murmur%253A_Ardour.md).
     -   On release, the Talent had no limit and gave a flat reduction to posture damage taken for each enemies, eventually becoming negative and restoring posture with each hit taken.
 -   This is a good outfit for resisting blunt damage. Paired with the Talent, this armor is very strong for tank builds.
--   The other two outfits of similar origin are the Authority Peacekeeper Armour and the [Authority Captain Uniform](Authority_Captain_Uniform.md).
+-   The other two outfits of similar origin are the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) and the [Authority Captain Uniform](Authority_Captain_Uniform.md).
 -   This outfit is worn by the [Authority Commander](<Authority_Commander_(Enemy).md>).
