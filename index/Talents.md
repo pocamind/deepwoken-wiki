@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 150163
+revid: 150326
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3938,7 +3938,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Obtained from [Delver Boots](Delver_Boots.md)
 
 -   Temple Guard \[Common Talent, [Equipment](Equipment.md) Exclusive\] - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
-    -   Procs even if your critical cannot be canceled (Hyper Armor).
     -   Obtained from [Monastery Champion Robes](Monastery_Champion_Robes.md)
     -   Requirements for Equipment: Power 13
 
@@ -4128,7 +4127,6 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
 -   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - If you land a Tempest Wind, you deal 20% more damage in the air for a few seconds. Your Tempest Wind is also naturally stronger.
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
-    -   Procs even if your critical cannot be canceled (Hyper Armor).
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 15% more damage.
     -   Only grants a 10% damage buff, the Talent was nerfed but the description was never changed.

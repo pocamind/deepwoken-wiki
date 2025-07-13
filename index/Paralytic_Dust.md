@@ -1,6 +1,6 @@
 ---
 title: Paralytic Dust
-revid: 148950
+revid: 150321
 source: https://deepwoken.fandom.com/wiki/Paralytic_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -29,15 +29,15 @@ Pressing C will activate the **Paralytic Dust** Resonance, throwing out a dust c
 
 Sleeping grants 90% damage reduction, ragdolls, and completely prevents all inputs for a short duration, but is removed upon taking 3 instances of damage.
 
-The sleeping status effect in the [First Layer](First_Layer.md) grants 100% damage immunity. It however can still be removed by taking 3 instances of damage.
+The sleeping status effect in the [First Layer](First_Layer.md) grants full damage immunity. It however can still be removed by taking 3 instances of damage.
 
 If Paralytic Dust is Corrupted, it will apply blindness for 5 seconds.
 
 #### _**Variants**_
 
--   **Throw Variant**: Throw white dust in front of you, applying the Sleeping and Daze status effect to players hit by this Resonance for **10 seconds**.
+-   **Throw Variant**: Throw dust in front of you, applying the Sleeping and Daze status effects to players hit by this Resonance for **10 seconds**.
 
--   **Self Cast Variant**: Create a cloud of black dust around you that affects everyone in a wide area. This dust applies the Sleeping and Dazed status effect for **5 seconds** to everyone caught in the range, including yourself. Additionally, this will grant yourself health regeneration for the duration of the effect.
+-   **Self Cast Variant**: Create a cloud of dust around you that affects everyone in a wide area. This dust applies the Sleeping and Dazed status effect for **5 seconds** to everyone caught in the range, including yourself. Additionally, this will grant yourself health regeneration for the duration of the effect.
 
 ## Notes
 
@@ -48,5 +48,5 @@ If Paralytic Dust is Corrupted, it will apply blindness for 5 seconds.
 
 ## Trivia
 
--   Sleepwalking works because the game uses the same 'sleep' state for Paralytic Dust and Cap Artist, and if 'sleep' is reapplied while you're in the 'sleep' state, the state flips back to neutral.
--   Uniquely, Paralytic Dust's visual effects can be dyed with [Dye Packets](Dye_Packet.md).
+-   'Sleep walking' works because the game uses the same 'sleep' state for Paralytic Dust and Cap Artist; if sleep is reapplied while you're in the sleep state, the state flips back to neutral, allowing you to move again.
+-   Uniquely, Paralytic Dust's visual effects can be dyed with [Dye Packets](Dye_Packet.md) by dying your Resonance color.

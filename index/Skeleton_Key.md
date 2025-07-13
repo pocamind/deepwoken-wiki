@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 149958
+revid: 150332
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -55,7 +55,6 @@ When obtained, Skeleton Key will spend its points on the following stats:
 
 -   Based off of the dev spec ability under the same name used by Zartania, rebalanced and reworked for public use.
     -   Purportedly, when released, if a person obtained it in a new server/instance and joined a old server, the bell would function like said specs.
--   Skeleton Key's upper walls use the same intricate design as the stairways in the [Scion of Ethiron](Scion_of_Ethiron.md) fight.
 -   Keep in mind that a corrupted Skeleton Key does not guarantee five walls, as the number is still based on the resonance point usage.
 -   Skeleton Key walls when activated, will push in the direction you were looking when you first placed them, this means that if you were to place a Skeleton Key wall then go on the other side of it and then activate it, it will push towards you.
 -   Skeleton Key walls will always be placed on the level of your character, which leaves them floating in the air if you're hanging off of a chandelier for example.

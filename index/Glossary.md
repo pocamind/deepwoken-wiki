@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 149855
+revid: 150325
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -118,6 +118,11 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the Suncross.
 
+#### The Suncross
+
+-   The bringer of life and warmth to Lumen.
+-   At night, the Suncross retreats into the Voidfog and its light dims, darkness falling over Lumen.
+
 ### Phenomena
 
 #### The Drowning
@@ -191,7 +196,7 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   Of a warmer and more humid climate than much of Lumen, the Western Luminant is a rich overgrown jungle of pillar-like mountain peaks.
 -   The predominant powers within the Western Luminant are the Hundred Legions and the Starkindred Faith.
 
-#### Third Layer
+#### The Vents, the Third Layer
 
 -   Said to be the inhospitable waste where the Drowned God Korilfiend resides.
 -   Riddled with thermal vents and geysers that exude extreme temperature
@@ -219,6 +224,12 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 
 -   Those that make a living by exploring ruins and driftlands.
 -   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
+
+#### The Moonlit Dialect
+
+-   The native dialect of the Lullaby Isles, scarcely found outside of its walls.
+-   The term 'Th'Ambulo', and 'Th'Armati' can be roughly translated to 'the upright', referring to non-Hivekin, and the armoured', referring to Hivekin.
+-   'Aecta' (plural 'Aecti') refers to a Chrysid who lives natively within the Lullaby Isles.
 
 * * *
 

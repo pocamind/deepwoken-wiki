@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 150251
+revid: 150331
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Attribute Trees
 
-Talent Trees documented so far in [Talents](Talents.md): 28/195  
+Talent Trees documented so far in [Talents](Talents.md): 38/195  
 This page is organized to see Talents generally, allowing you to pick them out with minimal details. [Talents](Talents.md) provides extended information on the topic of Talents.
 
 Each Tab is designed to show Talents that involve the searched Attribute from Least to Greatest Ex. Potion Quaffer has the Prerequisites \[Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence\], it will be in each of the Attribute Tabs and show up twice in the Intelligence Tab under both Hybrids. If a linked Talent is not on the Tab, it will redirect to Talent Tree as for Talents and Mantras that are not linked or made, they will show up as Potion Quaffer.
@@ -41,15 +41,19 @@ Pulled from [Talents](Talents.md) for immediate reference.
     2.  [Agility (AGL)](#agility-hybrids-213)
     3.  [Willpower (WIL)](#willpower-hybrids-214)
 3.  [Weapon (WEP)](#weapon-hybrids-215)
-4.  [Attunement (ELM)](#attunement-hybrids-216)
-    1.  [Galebreathe (WND)](#galebreathe-hybrids-217)
-5.  [Oaths](#oaths-218)
-    1.  [Bladeharper](#bladeharper-219)
+    1.  [Heavy (HVY)](#heavy-hybrids-216)
+4.  [Attunement (ELM)](#attunement-hybrids-217)
+    1.  [Galebreathe (WND)](#galebreathe-hybrids-218)
+5.  [Oaths](#oaths-219)
+    1.  [Bladeharper](#bladeharper-2110)
+    2.  [Chainwarden](#chainwarden-2111)
 
 ## Exclusive 2.1.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
+| File:TalentCardImage2.png | Champion's Regalia  
+Champion;4.30a | 25STR | Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load) |
 | File:TalentCardImage2.png | Berserk  
 Berserker;4.20a | 80STR | One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active. |
 | File:TalentCardImage2.png | Collapsed Lung  
@@ -81,7 +85,7 @@ Acrobat;4.1b | 10STR
 Apex Predator;4.12a | 5STR  
 5WIL | In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. |
 | File:TalentCardImage2.png | Grand Feast  
-Apex Predator;4.12b | Carnivore;4.12a (Talent) | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
+Apex Predator;4.12b | Carnivore;4.12a | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
 
 ## Weapon Hybrids 2.1.5
 
@@ -91,9 +95,26 @@ Apex Predator;4.12b | Carnivore;4.12a (Talent) | Regain tempo, ether, blood and 
 Aerial Dancer;4.4a | 15STR  
 25WEP | You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead. |
 
-## Attunement Hybrids 2.1.6
+### Heavy Hybrids 2.1.6
 
-### Galebreathe Hybrids 2.1.7
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Heavy Hitter  
+Colossus;4.34b | 15STR  
+25HVY | \[Heavy Weapons\] Your posture damage is increased by 10%. |
+| File:TalentCardImage2.png | Destructive Recovery  
+Colossus;4.34a | 25STR  
+40HVY  
+[Greatsword](Greatswords.md) | \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load) |
+| File:TalentCardImage2.png | Unstoppable Force  
+Colossus;4.34c | 25STR  
+40HVY  
+Unwavering Resolve  
+Greathammer | \[Greathammer\] You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load) |
+
+## Attunement Hybrids 2.1.7
+
+### Galebreathe Hybrids 2.1.8
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -101,11 +122,11 @@ Aerial Dancer;4.4a | 15STR
 Aeromancer;4.5d | 15STR  
 35WND | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) |
 |  | Stifled Jump  
-Aeromancer;4.5e | Suffocating Impact;4.5d (Talent) | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
+Aeromancer;4.5e | Suffocating Impact;4.5d | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
 
-## Oaths 2.1.8
+## Oaths 2.1.9
 
-### Bladeharper 2.1.9
+### Bladeharper 2.1.10
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -127,15 +148,32 @@ Bladeharper;4.21e | Oath: Bladeharper;4.21a
 Bladeharper;4.21f | Oath: Bladeharper;4.21a  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
+### Chainwarden 2.1.11
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Chainwarden.png | Oath: Chainwarden  
+Chainwarden;4.29a | 40(STR/FTD/WIL)  
+[Other](Talents.md#chainwarden) | You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
+| Chainwarden.png | Perpetual Wrath  
+Chainwarden;4.29b | Oath: Chainwarden;4.29a  
+[Other](Talents.md#chainwarden) | Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage. |
+| Chainwarden.png | Chainlash  
+Chainwarden;4.29c | Oath: Chainwarden;4.29a  
+[Other](Talents.md#chainwarden) | On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick. |
+
 **Fortitude (FTD):**
 
 1.  [Exclusive](#exclusive-220)
 2.  [Body and Mind](#body-and-mind-hybrids-221)
     1.  [Agility (AGL)](#agility-hybrids-222)
     2.  [Intelligence (INT)](#intelligence-hybrids-223)
-    3.  [Fortitude (FTD)](#willpower-hybrids-224)
-3.  [Oaths](#oaths-225)
-    1.  [Arcwarder](#arcwarder-226)
+    3.  [Willpower (WIL)](#willpower-hybrids-224)
+3.  [Attunement (ELM)](#attunement-hybrids-225)
+    1.  [Shadowcast (SDW)](#shadowcast-hybrids-226)
+4.  [Oaths](#oaths-227)
+    1.  [Arcwarder](#arcwarder-228)
+    2.  [Chainwarden](#chainwarden-229)
 
 ## Exclusive 2.2.0
 
@@ -146,6 +184,9 @@ Bastion;4.18c | 5FTD | Blocking no longer slows you down as much. (+2 Posture) |
 | File:TalentCardImage2.png | Braced Collapse  
 Bastion;4.18b | 25FTD  
 [Providence Coat](Providence_Coat.md) | After being block broken, the next attack to hit you deals reduced damage. |
+| File:TalentCardImage2.png | Grand Support  
+Comrade;4.35b | 40FTD  
+[Reinforce](Attunement-less.md#reinforce) (Mantra) | Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others. |
 | File:TalentCardImage2.png | Dancing Guard  
 Bulwark;4.27b | 55FTD | Parrying an opponent and then parrying another enemy in quick succession applies slow for 3s. |
 | File:TalentCardImage2.png | Down to your Level  
@@ -167,7 +208,7 @@ Alley Cat;4.7a | 25FTD
 25AGL  
 [Mercenary's Boots](<Mercenary's_Boots.md>) | Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility) |
 | File:TalentCardImage2.png | Conditioned Runner  
-Alley Cat;4.7c | Endurance Runner;4.7a (Talent), [Scaredy Cat;4.7b](Talents.md#alley-cat) (Talent) | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
+Alley Cat;4.7c | Endurance Runner;4.7a, [Scaredy Cat;4.7b](Talents.md#alley-cat) | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
 
 ### Intelligence Hybrids 2.2.3
 
@@ -178,7 +219,7 @@ Alchemist;4.6e | 15FTD
 30INT  
 "Drank Potion" | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
-### Willpower Hybrids <sup2.2.4
+### Willpower Hybrids 2.2.4
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -190,9 +231,20 @@ Bastion;4.18d | 30FTD
 30WIL  
 [Ignition Trailblazer](Ignition_Trailblazer.md) | When you're knocked down, you get back up again more quickly. (+5 Sanity) |
 
-## Oaths 2.2.5
+## Attunement Hybrids 2.2.5
 
-### Arcwarder 2.2.6
+### Shadowcast Hybrids 2.2.6
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Lord's Tithe  
+Comrade;4.35a | 40FTD  
+40SDW  
+[Reinforce](Attunement-less.md#reinforce) (Mantra) | Allies and enemies you Reinforce are drained of their Ether until you are fully charged. |
+
+## Oaths 2.2.7
+
+### Arcwarder 2.2.8
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -202,20 +254,34 @@ Arcwarder;4.13a | 20FTD
 20LTN  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
-Arcwarder;4.13b | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13b | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
-Arcwarder;4.13c | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13c | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
-Arcwarder;4.13d | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13d | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
-Arcwarder;4.13e | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13e | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
-Arcwarder;4.13f | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13f | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
+
+### Chainwarden 2.2.9
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Chainwarden.png | Oath: Chainwarden  
+Chainwarden;4.29a | 40(STR/FTD/WIL)  
+[Other](Talents.md#chainwarden) | You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
+| Chainwarden.png | Perpetual Wrath  
+Chainwarden;4.29b | Oath: Chainwarden;4.29a  
+[Other](Talents.md#chainwarden) | Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage. |
+| Chainwarden.png | Chainlash  
+Chainwarden;4.29c | Oath: Chainwarden;4.29a  
+[Other](Talents.md#chainwarden) | On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick. |
 
 **Agility (AGL):**
 
@@ -223,10 +289,12 @@ Arcwarder;4.13f | Arcwarder;4.13a (Talent)
 2.  [Body and Mind](#body-and-mind-hybrids-231)
     1.  [Strength (STR)](#strength-hybrids-232)
     2.  [Fortitude (FTD)](#fortitude-hybrids-233)
-3.  [Attunement (ELM)](#attunement-hybrids-234)
-    1.  [Galebreathe (WND)](#galebreathe-hybrids-235)
-4.  [Oaths](#oaths-236)
-    1.  [Bladeharper](#bladeharper-237)
+3.  [Weapon (WEP)](#weapon-hybrids-234)
+    1.  [Light (LHT)](#light-hybrids-235)
+4.  [Attunement (ELM)](#attunement-hybrids-236)
+    1.  [Galebreathe (WND)](#galebreathe-hybrids-237)
+5.  [Oaths](#oaths-238)
+    1.  [Bladeharper](#bladeharper-239)
 
 ## Exclusive 2.3.0
 
@@ -277,11 +345,22 @@ Alley Cat;4.7a | 25AGL
 25FTD  
 [Mercenary's Boots](<Mercenary's_Boots.md>) | Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility) |
 | File:TalentCardImage2.png | Conditioned Runner  
-Alley Cat;4.7c | Endurance Runner;4.7a (Talent), Scaredy Cat;4.7b (Talent) | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
+Alley Cat;4.7c | Endurance Runner;4.7a, Scaredy Cat;4.7b | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
 
-## Attunement Hybrids 2.3.4
+## Weapon Hybrids 2.3.4
 
-### Galebreathe Hybrids 2.3.5
+### Light Hybrids 2.3.5
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Finishing Touch  
+Critical Specialist;4.38a | 50AGL  
+40LHT  
+Dagger | \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger. |
+
+## Attunement Hybrids 2.3.6
+
+### Galebreathe Hybrids 2.3.7
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -289,9 +368,9 @@ Alley Cat;4.7c | Endurance Runner;4.7a (Talent), Scaredy Cat;4.7b (Talent) | You
 Aeromancer;4.5a | 30AGL  
 35WND | When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility) |
 
-## Oaths 2.3.6
+## Oaths 2.3.8
 
-### Bladeharper 2.3.7
+### Bladeharper 2.3.9
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -372,12 +451,25 @@ Alchemist;4.6e | 30INT
 
 1.  [Exclusive](#exclusive-250)
 2.  [Body and Mind](#body-and-mind-hybrids-251)
-    1.  [Fortitude (FTD)](#fortitude-hybrids-252)
-    2.  [Intelligence (INT)](#intelligence-hybrids-253)
-3.  [Oaths](#oaths-254)
-    1.  [Blindseer](#blindseer-255)
+    1.  [Strength (STR)](#strength-hybrids-252)
+    2.  [Fortitude (FTD)](#fortitude-hybrids-253)
+    3.  [Intelligence (INT)](#intelligence-hybrids-254)
+3.  [Oaths](#oaths-255)
+    1.  [Blindseer](#blindseer-256)
+    2.  [Chainwarden](#chainwarden-257)
 
 ## Exclusive 2.5.0
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Underdog  
+Champion;4.30c | 40WIL | You deal 3% more damage to those with higher HP than you. Additionally, you deal +10% more damage to physically larger foes. |
+| File:TalentCardImage2.png | Defiance  
+Champion;4.30b | 70WIL | Negative status effects are half as effective when you are below 35% HP. |
+
+## Body and Mind Hybrids 2.5.1
+
+### Strength Hybrids 2.5.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -385,9 +477,7 @@ Alchemist;4.6e | 30INT
 Apex Predator;4.12a | 5WIL  
 5STR | In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. |
 | File:TalentCardImage2.png | Grand Feast  
-Apex Predator;4.12b | Carnivore;4.12a (Talent) | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
-
-## Body and Mind Hybrids 2.5.1
+Apex Predator;4.12b | Carnivore;4.12a | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
 
 ### Fortitude Hybrids 2.5.3
 
@@ -401,7 +491,7 @@ Bastion;4.18d | 30WIL
 30FTD  
 [Ignition Trailblazer](Ignition_Trailblazer.md) | When you're knocked down, you get back up again more quickly. (+5 Sanity) |
 
-### Intelligence Hybrids 2.5.2
+### Intelligence Hybrids 2.5.4
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -410,9 +500,9 @@ Alchemist;4.6e | 15 WIL
 30INT  
 "Drank Potion" | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
-## Oaths 2.5.3
+## Oaths 2.5.5
 
-\===Blindseer 2.5.4
+### Blindseer 2.5.6
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -424,7 +514,41 @@ Mental Fortress
 Blindseer;4.19b | Oath: Blindseer;4.19a  
 [Other](Talents.md#blindseer) | The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted. |
 
+### Chainwarden 2.5.7
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Chainwarden.png | Oath: Chainwarden  
+Chainwarden;4.29a | 40(STR/FTD/WIL)  
+[Other](Talents.md#chainwarden) | You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
+| Chainwarden.png | Perpetual Wrath  
+Chainwarden;4.29b | Oath: Chainwarden;4.29a  
+[Other](Talents.md#chainwarden) | Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage. |
+| Chainwarden.png | Chainlash  
+Chainwarden;4.29c | Oath: Chainwarden;4.29a  
+[Other](Talents.md#chainwarden) | On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick. |
+
 **Charisma (CHA):**
+
+1.  [Exclusive](#exclusive-260)
+
+## Exclusive 2.6.0
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Charismatic Cast  
+Charm Caster;4.31a | 25CHA | Landing mantras on enemies charms them reducing damage done to you, additionally any charmed allies will get up twice as fast after getting knocked out. |
+| File:TalentCardImage2.png | Tough Love  
+Charm Caster;4.31d | 25CHA  
+Charmismatic Cast;4.31a | Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly. |
+| File:TalentCardImage2.png | Chaotic Charm  
+Charm Caster;4.31b | 55CHA  
+Charmismatic Cast;4.31a | When attacked at low health enemies deal less damage to you and more to anyone else. |
+| File:TalentCardImage2.png | Lasting Charisma  
+Charm Caster;4.31c | 55CHA  
+Charmismatic Cast;4.31a | Enemies charmed by your mantras are charmed longer. |
+| File:TalentCardImage2.png | Dazing Finisher  
+Charm Caster;4.31e | [Charm Caster;4.31](Talents.md#charm-caster) (Talents) | Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. |
 
 **Weapon (WEP):**
 
@@ -460,8 +584,20 @@ Bruiser;4.26d | 40HVY
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
 | File:TalentCardImage2.png | Wyvern's Claw  
-Aerial Dancer;4.4a | 25HVY(25WEP)  
+Aerial Dancer;4.4a | 25WEP  
 15STR | You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead. |
+| File:TalentCardImage2.png | Heavy Hitter  
+Colossus;4.34b | 25HVY  
+15STR | \[Heavy Weapons\] Your posture damage is increased by 10%. |
+| File:TalentCardImage2.png | Destructive Recovery  
+Colossus;4.34a | 40HVY  
+25STR  
+[Greatsword](Greatswords.md) | \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load) |
+| File:TalentCardImage2.png | Unstoppable Force  
+Colossus;4.34c | 40HVY  
+25STR  
+Unwavering Resolve  
+Greathammer | \[Greathammer\] You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load) |
 
 **Medium (MED):**
 
@@ -477,7 +613,7 @@ Aerial Dancer;4.4a | 25HVY(25WEP)
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
 | File:TalentCardImage2.png | Wyvern's Claw  
-Aerial Dancer;4.4a | 25MED(25WEP)  
+Aerial Dancer;4.4a | 25WEP  
 15STR | You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead. |
 
 ## Oaths 3.2.2
@@ -509,6 +645,7 @@ Bladeharper;4.21f | Oath: Bladeharper;4.21a
 1.  [Exclusive](#exclusive-330)
 2.  [Body and Mind](#body-and-mind-hybrids-331)
     1.  [Strength (STR)](#strength-hybrids-332)
+    2.  [Agility (AGL)](#agility-hybrids-333)
 
 ## Exclusive 3.3.0
 
@@ -518,6 +655,12 @@ Bladeharper;4.21f | Oath: Bladeharper;4.21a
 Brawler;4.25b | [Other](Talents.md#brawler) | You can now equip Cestus. |
 | File:TalentCardImage2.png | Bruiser's Mixup  
 Brawler;4.25a | Trained Fist;4.25b | Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily. |
+| File:TalentCardImage2.png | Knife's Journey  
+Critical Specialist;4.38b | 30LHT | \[Daggers\] Cancelling an enemy's Mantra windup with your basic attacks now deals 15% more damage |
+| File:TalentCardImage2.png | Decisive Blow  
+Critical Specialist;4.38c | Knife's Journey;4.38b | Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage |
+| File:TalentCardImage2.png | Successive Throw  
+Critical Specialist;4.38d | 35LHT | \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards |
 
 ## Body and Mind Hybrids 3.3.1
 
@@ -526,8 +669,17 @@ Brawler;4.25a | Trained Fist;4.25b | Switching your Fist Style mid-fight makes y
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
 | File:TalentCardImage2.png | Wyvern's Claw  
-Aerial Dancer;4.4a | 25LHT(25WEP)  
+Aerial Dancer;4.4a | 25WEP  
 15STR | You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead. |
+
+### Agility Hybrids 3.3.3
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Finishing Touch  
+Critical Specialist;4.38a | 40LHT  
+50AGL  
+Dagger | \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger. |
 
 **Attunement (ELM):**
 
@@ -568,29 +720,39 @@ Arcwarder;4.13a | 20FIR
 20LTN  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
-Arcwarder;4.13b | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13b | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
-Arcwarder;4.13c | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13c | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
-Arcwarder;4.13d | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13d | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
-Arcwarder;4.13e | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13e | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
-Arcwarder;4.13f | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13f | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
 **Frostdraw (ICE):**
 
-1.  [Attunement (ELM)](#attunement-hybrids-420)
-    1.  [Bloodrend (BLD)](#bloodrend-hybrids-421)
+1.  [Exclusive](#exclusive-420)
+2.  [Attunement (ELM)](#attunement-hybrids-421)
+    1.  [Bloodrend (BLD)](#bloodrend-hybrids-422)
 
-## Attunement Hybrids 4.2.0
+## Exclusive 4.2.0
 
-### Bloodrend Hybrids 4.2.1
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Freezing Wight  
+Cold Phantom;4.33a | 40ICE  
+Haunted Gale  
+ | Your Haunted Gale now procs Chilled. |
+
+## Attunement Hybrids 4.2.1
+
+### Bloodrend Hybrids 4.2.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -617,10 +779,10 @@ Power 10 | Lightning moves slow your opponent more. |
 Authority Interrogator;4.17b | 65LTN | Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you. |
 | File:TalentCardImage2.png | First Interrogation  
 Authority Interrogator;4.17c | 65LTN  
-Resolve Crusher;4.17b (Talent) | Attacks from opponents who are Electrified will give you ether proportional to their initial damage. |
+Resolve Crusher;4.17b | Attacks from opponents who are Electrified will give you ether proportional to their initial damage. |
 | File:TalentCardImage2.png | Second Interrogation  
 Authority Interrogator;4.17d | 65LTN  
-First Interrogation;4.17c (Talent) | Electrified attacks do 50% less damage and posture damage to you. |
+First Interrogation;4.17c | Electrified attacks do 50% less damage and posture damage to you. |
 
 ## Attunement Hybrids 4.3.1
 
@@ -644,19 +806,19 @@ Arcwarder;4.13a | 20LTN
 20FIR  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
-Arcwarder;4.13b | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13b | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
-Arcwarder;4.13c | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13c | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
-Arcwarder;4.13d | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13d | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
-Arcwarder;4.13e | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13e | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
-Arcwarder;4.13f | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13f | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
 **Galebreathe (WND):**
@@ -666,7 +828,8 @@ Arcwarder;4.13f | Arcwarder;4.13a (Talent)
     1.  [Strength (STR)](#strength-hybrids-442)
     2.  [Agility (AGL)](#agility-hybrids-443)
 3.  [Attunement (ELM)](#attunement-hybrids-444)
-    1.  [Bloodrend (BLD)](#bloodrend-hybrids-445)
+    1.  [Shadowcast (SDW)](#shadowcast-hybrids-445)
+    2.  [Bloodrend (BLD)](#bloodrend-hybrids-446)
 
 ## Exclusive 4.4.0
 
@@ -680,7 +843,7 @@ Aeromancer;4.5f | 20WND
 [Gale Punch](Galebreathe.md#gale-punch) (Mantra) | Your Gale Punch pulls enemies in before you hit them. |
 |  | Gale Trap  
 Aeromancer;4.5c | 50WND  
-Wind Step (Talent) | Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. |
+Wind Step | Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. |
 
 ## Body and Mind Hybrids 4.4.1
 
@@ -692,7 +855,7 @@ Wind Step (Talent) | Knocking a player tags them with a wind trap, cause anyone 
 Aeromancer;4.5d | 35WND  
 15STR | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) |
 |  | Stifled Jump  
-Aeromancer;4.5e | Suffocating Impact;4.5d (Talent) | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
+Aeromancer;4.5e | Suffocating Impact;4.5d | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
 
 ### Agility Hybrids 4.4.3
 
@@ -704,7 +867,15 @@ Aeromancer;4.5a | 35WND
 
 ## Attunement Hybrids 4.4.4
 
-### Bloodrend Hybrids 4.4.5
+### Shadowcast Hybrids 4.4.5
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Pressure Detonation  
+Cosmic Wind;4.37a | 60WND  
+40SDW | Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo. |
+
+### Bloodrend Hybrids 4.4.6
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -714,12 +885,34 @@ Bloodsong;4.24b | 40WND
 
 **Shadowcast (SDW):**
 
-1.  [Attunement (ELM)](#attunement-hybrids-450)
-    1.  [Bloodrend (BLD)](#bloodrend-hybrids-451)
+1.  [Body and Mind](#body-and-mind-hybrids-450)
+    1.  [Fortitude (FTD)](#fortitude-hybrids-451)
+2.  [Attunement (ELM)](#attunement-hybrids-452)
+    1.  [Galebreathe (WND)](#galebreathe-hybrids-453)
+    2.  [Bloodrend (BLD)](#bloodrend-hybrids-453)
 
-## Attunement Hybrids 4.5.0
+## Body and Mind Hybrids 4.5.0
 
-### Bloodrend Hybrids 4.5.1
+### Fortitude Hybrids 4.5.1
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Lord's Tithe  
+Comrade;4.35a | 40SDW  
+40FTD  
+[Reinforce](Attunement-less.md#reinforce) (Mantra) | Allies and enemies you Reinforce are drained of their Ether until you are fully charged. |
+
+## Attunement Hybrids 4.5.2
+
+### Galebreathe Hybrids 4.5.3
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Pressure Detonation  
+Cosmic Wind;4.37a | 40SDW  
+60WND | Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo. |
+
+### Bloodrend Hybrids 4.5.4
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -879,6 +1072,8 @@ Angler;4.10c | 50 Fishing | Fish are drawn to your line more quickly. |
 1.  [Arcwarder](#arcwarder-x20)
 2.  [Blindseer](#blindseer-x21)
 3.  [Bladeharper](#bladeharper-x22)
+4.  [Chainwarden](#chainwarden-x23)
+5.  [Contractor](#contractor-x24)
 
 ## Arcwarder X.2.0
 
@@ -890,19 +1085,19 @@ Arcwarder;4.13a | 20FTD
 20LTN  
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
-Arcwarder;4.13b | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13b | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
-Arcwarder;4.13c | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13c | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
-Arcwarder;4.13d | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13d | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
-Arcwarder;4.13e | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13e | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
-Arcwarder;4.13f | Arcwarder;4.13a (Talent)  
+Arcwarder;4.13f | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
 ## Blindseer X.2.1
@@ -938,3 +1133,41 @@ Bladeharper;4.21e | Oath: Bladeharper;4.21a
 | Bladeharper.png | Untouchable  
 Bladeharper;4.21f | Oath: Bladeharper;4.21a  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
+
+## Chainwarden X.2.3
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Chainwarden.png | Oath: Chainwarden  
+Chainwarden;4.29a | 40(STR/FTD/WIL)  
+[Other](Talents.md#chainwarden) | You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
+| Chainwarden.png | Perpetual Wrath  
+Chainwarden;4.29b | Oath: Chainwarden;4.29a  
+[Other](Talents.md#chainwarden) | Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage. |
+| Chainwarden.png | Chainlash  
+Chainwarden;4.29c | Oath: Chainwarden;4.29a  
+[Other](Talents.md#chainwarden) | On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick. |
+
+## Contractor X.2.4
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| Contractor.png | Oath: Contractor  
+Contractor;4.36a | [Other](Talents.md#contractor) | Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slot) |
+| Contractor.png | Hidden Tendril  
+Contractor;4.36b | Oath: Contractor;4.36a  
+[Other](Talents.md#contractor) | Landing any physical mantra places a Hidden Tendril on the opponent. (+10 Ether) |
+| Contractor.png | String Trick  
+Contractor;4.36c | Oath: Contractor;4.36a  
+[Other](Talents.md#contractor) | Pulls together any two opponents you've attached Hidden Tendril to. |
+
+**Unobtainable:**
+
+1.  [Developer Specs](#developer-specs-x30)
+
+## Developer Specs X.3.0
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Christmas Miracle  
+Christmas Miracle;4.32a | MODSHOPREWARD | Christmas Mod Shop reward. Regens hunger and thirst. "Thank you so much K1!" Heh, no problem guys. All in a day's work. |
