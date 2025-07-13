@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 148199
+revid: 150333
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -10,7 +10,7 @@ categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
 
 | Aelita | |
 |---|---|
-| name | Aelita Arlekino |
+| name | Aelita |
 | aspect | Felinor |
 | location | Valley of Heroes (During Spring, Summer and Autumn) |
 

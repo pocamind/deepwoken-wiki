@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 147987
+revid: 150353
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]

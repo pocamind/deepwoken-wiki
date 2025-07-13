@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 149590
+revid: 150354
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -234,7 +234,7 @@ Wind
 -   Feinting it leaves the user unable to use Gale Lunge and Heavenly Wind. (Needs testing with more mantras to see interaction, it seems like specific mantras only gets this behavior.)
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
 -   If missed, it results in endlag.
--   Can be used in combination with the **Cap Artist** Talent to ragdoll and fling yourself insanely far.
+-   Can be used in combination with the **Cap Artist** Talent to ragdoll and fling yourself insanely far. (PATCHED)
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 150009
+revid: 150349
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -469,6 +469,7 @@ Multiplying Spark
 -   Eclipse Kick
 -   Iron Tether
 -   Scarlet Cyclone
+-   Bloodcurdle
 
  | 
 
