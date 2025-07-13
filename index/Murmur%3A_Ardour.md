@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Ardour"
-revid: 149448
+revid: 150358
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Ardour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -26,7 +26,7 @@ For a more detailed view on Ardour, see the [lore](Lore.md#whispers-of-ardour).
 
 ― Card description
 
-**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 1.5x posture damage and 25% more damage and are forced out of Tacet. This ability does not scale on Power, always costing ether. The way its damage increase works is by increasing whoever hits the target with a +25% damage modifier and as such **cannot** **bypass the 75% damage modifier cap**. [Taunt](Talents.md) and [Tough Love](Talents.md) work the exact same way, and therefore also won't be capable of bypassing it.
+**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 1.5x posture damage and 25% more damage and are forced out of Tacet. This ability does not scale on Power, always costing ether. The way its damage increase works is by increasing whoever hits the target with a +25% damage modifier and as such **cannot** **bypass the 50% damage modifier cap**. [Taunt](Talents.md) and [Tough Love](Talents.md) work the exact same way, and therefore also won't be capable of bypassing it.
 
 **Ardour Scream** and other [Murmur](Murmur.md) talent cards can be affected by the mystic by selecting the quote "_My soul is an instrument with its own frequency."_
 
