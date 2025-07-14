@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 150442
+revid: 150627
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons]
@@ -24,13 +24,11 @@ categories: [Weapons, Rapiers, Light Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Erisia, Minityrsa, Etris Weaponry 25 , The Floating Keep100 , Chime of Conflict, Starswept Valley, Lodestar, Dread Serpent |
-| description | "Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey." |
-
-}}
+| description | Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey. |
 
 ## Description
 
-The Apprentice Rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to it's greater range compared to other light weapon options. It can be obtained via chests at [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md). Can be bought from [Etris Weaponry](Etris.md#weaponry) (25 ) and [The Floating Keep](The_Floating_Keep.md) ( ).
+The Apprentice Rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to it's greater range compared to other light weapon options. It can be obtained via chests at [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md). Can be bought from [Etris Weaponry](Etris.md#weaponry) (25 ) and [The Floating Keep](The_Floating_Keep.md) (100 ).
 
 ## Trivia
 

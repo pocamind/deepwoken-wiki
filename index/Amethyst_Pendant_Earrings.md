@@ -1,6 +1,6 @@
 ---
 title: Amethyst Pendant Earrings
-revid: 150440
+revid: 150650
 source: https://deepwoken.fandom.com/wiki/Amethyst_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -22,8 +22,7 @@ categories: [Equipment, Ears]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:, Ferryman, Fishing, Maestro Evengarde Rest, Lodestar, Dread Serpent, The Doom of Caeranthil |
-
-|description="..."}}
+| description | ... |
 
 ## Description
 

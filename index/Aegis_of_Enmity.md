@@ -1,6 +1,6 @@
 ---
 title: Aegis of Enmity
-revid: 150437
+revid: 150648
 source: https://deepwoken.fandom.com/wiki/Aegis_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,16 +15,14 @@ categories: [Equipment, Head, Helmets]
 | selling price | 100 |
 | requirements | PWR 15, 10 FTD |
 | weight | 1 |
+| innate stats | +5 Health, +1 Posture+2 Legendary pips |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-
-|innate stats=+5 Health  
-+1 Posture +2 Legendary pips  
-|innate talent=N/A|obtainment=Chests from: [Heart of Enmity](Heart_of_Enmity.md)| Drops from:
-
--   ???|description="The Voice of Enmity's helm, few have lived to know it well. Now donned by you, the new self proclaimed arbiter of judgement..."|image=Aegis of Enmity.png|name=Aegis of Enmity}}
+| obtainment | Chests from:Heart of Enmity |
+| description | The Voice of Enmity's helm, few have lived to know it well. Now donned by you, the new self proclaimed arbiter of judgement... |
 
 ## Description
 

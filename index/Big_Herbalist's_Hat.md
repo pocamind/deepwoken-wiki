@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 144386
+revid: 150672
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Hats]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, Duke Erisia, Lodestar, Starswept Valley, Maestro Evengarde Rest, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 148499
+revid: 150595
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]

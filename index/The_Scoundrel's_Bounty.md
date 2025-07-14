@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 148195
+revid: 150596
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -24,7 +24,7 @@ Template:Areainfobox
 ### Antiquarian
 
 -   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
--   Players can purchase any training gear from the [Gear Cabinet](Training_Gear.md) for.
+-   Players can purchase any training gear from the [Gear Cabinet](Training_Gear.md) for 25.
 
 ## NPCs
 

@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 144399
+revid: 150602
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]

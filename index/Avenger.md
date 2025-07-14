@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 146990
+revid: 150665
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Creation, Greatswords, Echoes, Heavy Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Creation, Greatswords, Echoes, Heavy Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starter Weapon: Greatsword Echo Unlock |
-| description | "A greatsword passed down by your ancestors." |
+| description | A greatsword passed down by your ancestors. |
 
 ## Description
 

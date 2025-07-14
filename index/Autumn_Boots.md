@@ -1,6 +1,6 @@
 ---
 title: Autumn Boots
-revid: 150461
+revid: 150663
 source: https://deepwoken.fandom.com/wiki/Autumn_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Duke Ishamon Erisia, Blacksteel Pirate, First Layer, Lodestar, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

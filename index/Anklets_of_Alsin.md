@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 150441
+revid: 150625
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -17,6 +17,7 @@ categories: [Weapons, Fists, Light Weapons]
 | range | 6.5 |
 | swing speed | 1.14x |
 | penetration | 15% |
+| chip damage | 10% |
 | selling price | 25 |
 | weight | 3 |
 | bankable | Yes |
@@ -24,8 +25,7 @@ categories: [Weapons, Fists, Light Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, Chaser, Fishing, Deep Widow, Lodestar, Primadon, Interluminary Parasol, The Depths, Starswept Valley, Maestro Evengarde Rest, Heart of Enmity, Fort Merit Hostage Quest, Voidwalker Bounty Chest, Scion of Ethiron, Other sources:, Direct drop from Dread Serpent |
-
-|description=\[REQUIRES A KICK STYLE\] |image=anklets.png |chip damage=10% |special effect=}}
+| description | [REQUIRES A KICK STYLE] |
 
 ## Description
 

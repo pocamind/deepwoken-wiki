@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 146572
+revid: 150677
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Blindfolds]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Erisia, Minityrsa, Pure Erisore turn ins, Artifacts, Layer 2, Songseeker Wilds, Lodestar, Saramaed Hollow, Maestro Evengarde Rest, Dread Serpent, Meteor Isle, Fishing |
-| description | "A tightly wound blindfold to hide the horrors of the world from your waking eyes." |
+| description | A tightly wound blindfold to hide the horrors of the world from your waking eyes. |
 
 ## Description
 

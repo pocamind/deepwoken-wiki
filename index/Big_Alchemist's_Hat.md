@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 141952
+revid: 150671
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Hats, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, First Layer, Duke Erisia, Starswept Valley, War Mode, Chime of Conflict |
-| description | "..." |
+| description | ... |
 
 ## Description
 

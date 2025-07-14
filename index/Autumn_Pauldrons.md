@@ -1,6 +1,6 @@
 ---
 title: Autumn Pauldrons
-revid: 150462
+revid: 150664
 source: https://deepwoken.fandom.com/wiki/Autumn_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, Erisia, Lodestar, Maestro Evengarde Rest, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 title: Dark Cowl
-revid: 135094
+revid: 150632
 source: https://deepwoken.fandom.com/wiki/Dark_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Cowls]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Duke Ishamon Erisia, Deep Widow, First Layer, Artifact Turn-ins, Chime of Conflict, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 150430
+revid: 150615
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots, The Divers]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Boots, The Divers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Saramaed Hollow |
-| description | "..." |
+| description | ... |
 
 [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)
 

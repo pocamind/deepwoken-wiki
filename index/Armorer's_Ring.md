@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 150448
+revid: 150653
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -21,7 +21,7 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 
-|description="Ring imbued with self-fortifying Ironsing. Reduces Armor loss by 10%."|image=Armorer's Ring.png|obtainment=Chests from:
+|description=Ring imbued with self-fortifying Ironsing. Reduces Armor loss by 10%.|image=Armorer's Ring.png|obtainment=Chests from:
 
 -   [The Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) (**Extremely Rare**)

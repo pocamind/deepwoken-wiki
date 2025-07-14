@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Plate"
-revid: 150431
+revid: 150616
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers, Items]
@@ -22,7 +22,7 @@ categories: [Equipment, Arms, Plates, The Divers, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Saramaed Hollow |
-| description | "..." |
+| description | ... |
 
 **Abyss Wanderer's Plate**
 

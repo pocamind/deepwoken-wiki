@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 142070
+revid: 150680
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]
@@ -12,6 +12,7 @@ categories: [Equipment, Head, Ornaments]
 |---|---|
 | type | Head |
 | rarity | Mythic |
+| selling price | 50 |
 | requirements | LVL 10 |
 | weight | 1 |
 | innate stats | 5 Health, +1 Rare Pip, +1 Legendary Pips |
@@ -21,7 +22,7 @@ categories: [Equipment, Head, Ornaments]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chaser, Scholar of the Crimson Contract |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 135092
+revid: 150675
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Helmets]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Summer Isle, First Layer, Duke Ishamon Erisia, Chime of Conflict, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed HollowDrops from:, Blacksteel Pirate |
-| description | "An imposing helmet made from blackened steel." |
+| description | An imposing helmet made from blackened steel. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Thresher Spine
-revid: 138637
+revid: 150589
 source: https://deepwoken.fandom.com/wiki/Thresher_Spine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -12,6 +12,7 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | 15 |
 | weight | None |
+| stack | x10 |
 | type | Monster Material |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 150473
+revid: 150617
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Medium Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Spears, Drops, Medium Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Corrupted King Thresher, layer 2 chests, The Diluvian Mechanism |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Bastions of Enmity
-revid: 150468
+revid: 150669
 source: https://deepwoken.fandom.com/wiki/Bastions_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Equipment, Items]
@@ -22,7 +22,7 @@ categories: [Arms, Equipment, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Heart of Enmity |
-| description | "Holy Mackerel! That was a tough fight!" |
+| description | Holy Mackerel! That was a tough fight! |
 
 ## Description
 

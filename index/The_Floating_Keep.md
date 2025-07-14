@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 149660
+revid: 150601
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Etrean Luminant, Eastern Luminant, Hallowtide]
@@ -61,10 +61,10 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 ### General, Weaponry and Mantra Shop
 
 -   Players can buy several things here:
-    -   Players can purchase a Lumber Axe for, and a Pickaxe for.
-    -   Players can purchase a Dumbbell for, Ankle Weights for, and a Training Vest for.
-    -   Players can purchase a Self-Conducting Loop, Hermafrost, Hearthgem, Pure Heart and Gale Kata for.
-    -   Players can purchase a [Parry Dagger](Parrying_Dagger.md) for, a [Messer](Messer.md) for, a [Tanto](Tanto.md) for, an [Apprentice Rapier](Apprentice_Rapier.md) for, a [Trident Spear](Trident_Spear.md) for, a [Vigil Longsword](Vigil_Longsword.md) for, and a [Darksteel Greatsword](Darksteel_Greatsword.md) for.
+    -   Players can purchase a Lumber Axe for 3, and a Pickaxe for 3.
+    -   Players can purchase a Dumbbell for 25, Ankle Weights for 25, and a Training Vest for 25.
+    -   Players can purchase a Self-Conducting Loop, Hermafrost, Hearthgem, Pure Heart and Gale Kata for 25.
+    -   Players can purchase a [Parry Dagger](Parrying_Dagger.md) for 16, a [Messer](Messer.md) for 16, a [Tanto](Tanto.md) for 100, an [Apprentice Rapier](Apprentice_Rapier.md) for 100, a [Trident Spear](Trident_Spear.md) for 100, a [Vigil Longsword](Vigil_Longsword.md) for 100, and a [Darksteel Greatsword](Darksteel_Greatsword.md) for 200.
 
 ### Exclusive NPCs and Variants
 
@@ -92,15 +92,15 @@ The Dining Hall.
 ### Food
 
 -   Players can buy several [foods](Food.md) here from an NPC called Mikhail.
-    -   Glazed Fish for.
-    -   Sushi for.
-    -   Mushroom Omelette for.
-    -   Mushroom Bisque for.
-    -   Fish Stew for.
+    -   Glazed Fish for 15.
+    -   Sushi for 20.
+    -   Mushroom Omelette for 15.
+    -   Mushroom Bisque for 20.
+    -   Fish Stew for 15.
 
 ### Library
 
--   Players can purchase a Weapon Manual for, [How to Make Friends](How_to_Make_Friends.md) for, and an Encyclopedia for.
+-   Players can purchase a Weapon Manual for 25, [How to Make Friends](How_to_Make_Friends.md) for 25, and an Encyclopedia for 25.
 
 ## Maps
 

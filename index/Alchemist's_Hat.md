@@ -1,6 +1,6 @@
 ---
 title: "Alchemist's Hat"
-revid: 150439
+revid: 150633
 source: https://deepwoken.fandom.com/wiki/Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -22,8 +22,7 @@ categories: [Equipment, Head, Hats, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, First Layer, Lodestar, Voidwalker Bounties, Duke Erisia |
-
-|description="..."}}
+| description | ... |
 
 ## Description
 

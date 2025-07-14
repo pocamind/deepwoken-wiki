@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 150469
+revid: 150670
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Picking Heavy in Character Creation, Etris Weapons Shop, Rare drop in Erisia |
-| description | "A sturdy axe perfect for splitting bone." |
+| description | A sturdy axe perfect for splitting bone. |
 
 ## Description
 

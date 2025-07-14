@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 150509
+revid: 150630
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -20,13 +20,14 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 | chip damage | 5% |
 | special effect | Aftercut is applied to all attacks. |
 | stances | 2 Handed, 1 Handed |
+| selling price | 100 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Scion of Ethiron, Duke Erisia, Maestro Evengarde Rest, Fishing, Heart of Enmity, The Diluvian Mechanism, Island Events, Weird Trader, Sold in Traan Zakshun's black market for |
-| description | "A prized blade supposedly forged during the Canticlysm by the first Galebreathers." |
+| obtainment | Chests from:, First Layer, Scion of Ethiron, Duke Erisia, Maestro Evengarde Rest, Fishing, Heart of Enmity, The Diluvian Mechanism, Island Events, Weird Trader, Sold in Traan Zakshun's black market for 5 |
+| description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
 
 The Curved Blade of Winds is a weapon in _Deepwoken_.
 

@@ -1,6 +1,6 @@
 ---
 title: Bloodiron Ring
-revid: 144975
+revid: 150681
 source: https://deepwoken.fandom.com/wiki/Bloodiron_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -21,7 +21,7 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:, Etrea VS Eylis Sea Event, Duke Ishamon Erisia, Primadon, Titan of the East, Lodestar, First Layer, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, War Mode |
-| description | "A strange creature lurks within. When the life of another is taken, their blood is reconstituted into your armor." |
+| description | A strange creature lurks within. When the life of another is taken, their blood is reconstituted into your armor. |
 
 ## Description
 

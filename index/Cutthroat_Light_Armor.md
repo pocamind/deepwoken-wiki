@@ -1,6 +1,6 @@
 ---
 title: Cutthroat Light Armor
-revid: 150411
+revid: 150631
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -13,7 +13,7 @@ categories: [Armors, Items, Outfits, Adept Outfits]
 | caption | Sturdy leather armor, fashioned for the hunters sent into the driftlands to deal with rival factions. |
 | tier | Adept |
 | crafting_req | x4 Cloth, x4 Fiber, x5 Iron , x1 Crystal Lens |
-| price | 30 Notes |
+| price | 30 |
 | stat_req | Power Level 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -30,7 +30,7 @@ categories: [Armors, Items, Outfits, Adept Outfits]
 
 ### _Requirements_
 
-This Outfit costs and requires four (4) Cloth and Fiber, five (5) [Iron](Ores.md#iron), and one (1) [Crystal Lens](Mantra_Modifiers.md).
+This Outfit costs 30 and requires four (4) Cloth and Fiber, five (5) [Iron](Ores.md#iron), and one (1) [Crystal Lens](Mantra_Modifiers.md).
 
 This Outfit requires [Power Level](Power.md) 5.
 

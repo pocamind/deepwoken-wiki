@@ -1,6 +1,6 @@
 ---
 title: A Lot of Hats
-revid: 150424
+revid: 150634
 source: https://deepwoken.fandom.com/wiki/A_Lot_of_Hats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Hats, Developer Spec, Items]
@@ -10,19 +10,8 @@ notices:
 
 # A Lot of Hats
 
-| A Lot of Hats | |
-|---|---|
-| type | Head |
-| rarity | Unique |
-| selling price | Unsellable |
-| weight | 1 |
-| innate stats | +5 Health , +1 Uncommon Pip |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | (Unobtainable) |
-| description | "Go play dark souls 1" |
+{{Armor Infobox|name=|image=File:Why are one of these hats alone, not obtainable.png|type=Head|rarity=Unique|innate stats=+5 Health  
++1 Uncommon Pip |obtainment=(Unobtainable)|selling price=Unsellable|description=Go play dark souls 1
 
 ## Description
 

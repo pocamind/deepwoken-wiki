@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 150376
+revid: 150643
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1333,7 +1333,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Freak Of Nature
 
-> _**"I seek the qualities of Human Architecture."**_
+> _**"I'm built different."**_
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
     -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
