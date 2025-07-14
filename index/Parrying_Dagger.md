@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 144380
+revid: 150405
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers, Offhand]
@@ -18,6 +18,7 @@ categories: [Weapons, Parrying Daggers, Offhand]
 | endlag | 0.1s |
 | special effect | Recover 20% more posture from parries. |
 | offhand | Offhand only |
+| selling price | 25 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,7 +29,7 @@ categories: [Weapons, Parrying Daggers, Offhand]
 
 ## Description
 
-The Parrying Dagger is a side weapon that when equipped in the offhand will increase posture restoration from parries by 20%, with each point of Weight increasing the posture restoration by 10% (e.g. 5 weight would mean 50% bonus to posture restoration.) Found in the weapons shop in [Etris](Etris.md) and can be purchased for. Additionally, it can be dropped from [Deep Widow](Deep_Widow.md) or [Primadon](Primadon,_Titan_of_the_East.md) chests. It requires 10 Agility to equip.
+The Parrying Dagger is a side weapon that when equipped in the offhand will increase posture restoration from parries by 20%, with each point of Weight increasing the posture restoration by 10% (e.g. 5 weight would mean 50% bonus to posture restoration.) Found in the weapons shop in [Etris](Etris.md) and can be purchased for 25. Additionally, it can be dropped from [Deep Widow](Deep_Widow.md) or [Primadon](Primadon,_Titan_of_the_East.md) chests. It requires 10 Agility to equip.
 
 ## Trivia
 

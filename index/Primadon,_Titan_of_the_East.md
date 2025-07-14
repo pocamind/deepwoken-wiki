@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 150370
+revid: 150381
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3 Primadon, the Titan of the East is a [Boss Monster]
 
 ## Description
 
-Loud and enormous, **Primadon** is a giant aquatic ape-like [Boss](Bosses.md). It is a bipedal primate creature, standing at nearly 81 feet (25 meters), with some features of marine life, featuring webbed feet and fins on its shoulders, hips, and head.
+Loud and enormous, **Primadon** is a giant aquatic ape-like [Boss](Bosses.md). It is a bipedal primate creature, standing at nearly 81 feet (25 meters), with some features of marine life, featuring webbed feet and fins on its shoulders, hips, and head. For some reason, this boss uncaps your weapon stat, but not your attunement like other bosses.
 
 It features blue-grey fur, and prior to Verse 2, Primadon had a dark blue face. After Verse 2, the model was changed slightly to make Primadon shorter and flip its lip inside out, much like real life primates do to show aggression.
 

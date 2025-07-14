@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 149050
+revid: 150410
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -27,7 +27,7 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath,
 _Notes:_  
 _"comb." means a combined total across multiple listed stats_  
 _WEP = Any weapon stat (HVY, MED, LHT)_  
-Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarder.md) • [Bladeharper](Oath%253A_Bladeharper.md) • [Contractor](Oath%253A_Contractor.md) • [Chainwarden](Oath%253A_Chainwarden.md) • [Dawnwalker](Oath%253A_Dawnwalker.md) • [Fadetrimmer](Oath%253A_Fadetrimmer.md) • [Jetstriker](Oath%253A_Jetstriker.md) • [Linkstrider](Oath%253A_Linkstrider.md) • [Saintsworn](Oath%253A_Saintsworn.md) • [Saltchemist](Oath%253A_Saltchemist.md) • [Silentheart](Oath%253A_Silentheart.md) • [Soulbreaker](Oath%253A_Soulbreaker.md) • [Starkindred](Oath%253A_Starkindred.md) • [Visionshaper](Oath%253A_Visionshaper.md)
+Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarder.md) • [Bladeharper](Oath%253A_Bladeharper.md) • [Blindseer](Oath%253A_Blindseer.md) • [Contractor](Oath%253A_Contractor.md) • [Chainwarden](Oath%253A_Chainwarden.md) • [Dawnwalker](Oath%253A_Dawnwalker.md) • [Fadetrimmer](Oath%253A_Fadetrimmer.md) • [Jetstriker](Oath%253A_Jetstriker.md) • [Linkstrider](Oath%253A_Linkstrider.md) • [Saintsworn](Oath%253A_Saintsworn.md) • [Saltchemist](Oath%253A_Saltchemist.md) • [Silentheart](Oath%253A_Silentheart.md) • [Soulbreaker](Oath%253A_Soulbreaker.md) • [Starkindred](Oath%253A_Starkindred.md) • [Visionshaper](Oath%253A_Visionshaper.md)
 
 [Oathlessfinal](Oath%253A_Oathless.md)
 

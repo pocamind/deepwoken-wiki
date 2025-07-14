@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 146917
+revid: 150420
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons]
@@ -17,6 +17,7 @@ categories: [Weapons, Swords, Medium Weapons]
 | range | 8 |
 | swing speed | 1x |
 | stances | 2 Handed, 1 Handed |
+| selling price | 10 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

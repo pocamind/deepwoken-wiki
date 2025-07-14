@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 150359
+revid: 150386
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -47,6 +47,18 @@ Galebreathe Mantras are upgraded at the [Attunement Trainers](Attunement_Trainer
 Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
 
 [Galebreathe Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
+
+## Mantra Damage Calculation
+
+The formula to calculate Mantra damage is as follows: Base damage \* (1 + ((0.Mantra scaling \* (investment / 100)) + (Songchant \* 0.05 \* (0.Mantra scaling \* (investment / 100))))).
+
+-   Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
+-   Example 1: Level 5 Wind Blade with 80 Galebreathe and 3 Songchant:
+    -   28 \* (1 + ((0.275 \* (80/100)) + (3 \* 0.05 \* (0.275 \* (80/100))))) = 35.08 damage.
+-   Example 2: Level 3 Air Force with 50 Galebreathe and no Songchant:
+    -   26.8 \* (1 + ((0.275 \* (50/100)) + (0 \* 0.05 \* (0.275 \* (50/100))))) = 30.49 damage.
+        -   Note: because Songchant is 0 here, you can leave out the second part of the equation entirely (as it will end up being "scaled damage +0").
+-   This formula also works for non-Mantra things, such as Apparitions, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage though.
 
 ## Mantras
 

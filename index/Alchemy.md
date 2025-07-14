@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 150244
+revid: 150395
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -125,9 +125,9 @@ The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three salts, w
 
 **Positive Health** potions are 25% less effective than their ingredients would suggest, and are reduced by a further 50% in combat. The _Potion Quaffer_ Talent removes the innate 25% effectiveness decrease, granting them full effectiveness outside of combat and 50% effectiveness during combat.
 
-**Health Regeneration** potions have a reduce effect in combat, giving +60% per ingredient instead of +85%. Additionally, any potion with a positive health regeneration ingredient will have its base duration reduced to 11.25s (also lowering the effectiveness of duration affecting ingredients).
+**Health Regeneration** potions have a reduced effect in combat, giving +60% per ingredient instead of +85%. Additionally, any potion with a positive health regeneration ingredient will have its base duration reduced to 11.25s (also lowering the effectiveness of duration affecting ingredients).
 
-**Health Gain and Health Regeneration** potions, whether positive or negative, take 1.2s longer to drink while in combat, bringing the total drink animation's duration to 2.55s up from 2.35s.
+**Health Gain and Health Regeneration** potions, whether positive or negative, take 1.2s longer to drink while in combat, bringing the total drink animation's duration to 3.55s up from 2.35s.
 
 **Ether Regeneration** potions' Ether regeneration is separate from normal Ether regeneration, and is not affected by Ether regen modifiers like [Deficient](Boons_and_Flaws.md#flaws), Ether [food buff](Food.md), [outfit](Outfits.md) Ether regen boost, etc.
 
@@ -142,7 +142,7 @@ The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three salts, w
 
 **Diluted Potions** are created in one of two ways. Either you have more than 3 of the same ingredient on a potion or you went over the 5 ingredient limit (note that Apothecary and Saltchemist Salts do not count towards this limit).
 
-1.  If you have more than 3 of the same ingredient, all effects on your potion will be halved. For example, 3 Bluecaps = 15 damage (3 x 5) vs 4 Bluecaps = 10 damage ((4 x 5))/2.
+1.  If you have more than 3 of the same ingredient, all effects on your potion will be halved. For example, 3 Bluecaps = 15 damage (3 x 5) vs 4 Bluecaps = 10 damage (4 x 5)/2.
 2.  If you have more than 5 ingredients, all effects on your potion will be halved, additionally the remaining effects will be divided by the amount of ingredients that went over the cap. For example, 6 Bluecaps + 6 Browncaps = 3.85 damage (((5 x 6) + (4 x 6))/2)/(12-5).
 
 ## Effects
@@ -385,10 +385,10 @@ The best potions for a timed effect (like Grueling or Hastening) either use thre
 When brewing potions for an instant effect (like Rejuvenation or Soothing), potions should use three of the strongest ingredient and two of the second strongest ingredient. Sometimes this isn't possible, so the last two ingredients should be used to add a second useful effect.
 
 -   **Instant Health** (Rejuvenating) - 3 Glumfig + 2 Redd
-    -   Redds and Glumfigs have an instant health effect, and they're not very strong, though Glumfigs are more potent. The last two ingredients can be Redds for more instant health, Beeswax or Goblettos to restore additional health over time, or Wheat can be added to cancel out the Ether drain.
+    -   Redds and Glumfigs have an instant health effect, and they're not very strong, though Glumfigs are more potent. The last two ingredients can be Redds for more instant health or Beeswax / Goblettos to restore additional health over time.
     -   Not very useful compared to Health Regeneration potions, which heal about up to 4x as much.
 -   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap
-    -   Instant Damage potions were heavily nerfed before release - there are some circulating videos of high damage potions, but they can't be made now. Currently, this is the best available damage potion, dealing less than 10% to similar strength opponents.
+    -   Keep in mind, instant damage potions deal 75% less damage if you don't directly land them.
 -   **Instant Ether** (Soothing) - 3 Bluecaps + 2 Dentifilos
     -   Almost a full Ether restore - deals 15 damage.
 -   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle + 2 Marram Grass

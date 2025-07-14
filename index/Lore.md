@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 149853
+revid: 150383
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1989,12 +1989,12 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 ### Nautilodaunt
 
--   Humanoid squid monsters found digging in [The City of the Drowned](The_City_of_the_Drowned.md).
+-   Humanoid squid-like monsters found digging in [The City of the Drowned](The_City_of_the_Drowned.md).
 -   Though one is only seen at a time, there are multiple of them.
     -   They may be very territorial, thus not letting others in to their digging spot.
--   They utilise a parasite to turn their victims into [Mudskippers](Mudskipper.md).[\[2\]](#cite-note-arch-2)
+-   They utilise a parasite to turn their victims into [Mudskippers](Mudskipper.md).[\[2\]](#cite-note-arch-2) using their [Odd Tentical](Odd_Tentacle.md)
 -   They are highly intelligent, posses a wide range of emotions, and have high level combat prowess.[\[2\]](#cite-note-arch-2)
--   While they are predatory in nature, they dislike the taste of human flesh.
+-   While they are predatory in nature, they dislike the taste of human flesh. according to the [Nautilodaunt Beak](Nautilodaunt_Beak.md)'s description
 
 ## Player Lore
 

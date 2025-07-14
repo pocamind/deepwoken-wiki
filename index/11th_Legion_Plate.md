@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 148769
+revid: 150408
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Hundred Legions]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**11th Legion Plate** is an Adept [Outfit](Outfits.md) in _
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, two (2) Gold, and ten (10) Iron.
+This Outfit costs 100 and requires five (5) Cloth and Fiber, two (2) Gold, and ten (10) Iron.
 
 This Outfit requires [Power Level](Power.md) 5 and 10 [Fortitude](Attributes.md).
 
@@ -34,7 +34,7 @@ This Outfit's Schematic can be obtained from:
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Deep Widow](Deep_Widow.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
--   [Traan Zakshun](Traan_Zakshun.md) by purchasing it for
+-   [Traan Zakshun](Traan_Zakshun.md) by purchasing it for 200
 
 ## Trivia/Notes
 

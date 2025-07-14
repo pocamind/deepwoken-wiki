@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 150377
+revid: 150394
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -33,7 +33,7 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
 
 -   Meet the following requirements:
     -   50 [Charisma](Attributes.md)
-    -   Complete [Aelita's Encounter](Aelita.md), found in [Valley of Heroes](The_Valley_of_Heroes.md) when it's not winter, at least once. (If done in winter 9 [Blizzard Knights](Stone_Knight.md) will spawn instead.)
+    -   Complete [Aelita's Encounter](Aelita.md), found in [Valley of Heroes](The_Valley_of_Heroes.md) when it's not winter, at least once. (If done in winter 6 [Blizzard Knights](Stone_Knight.md) will spawn instead.)
     -   Have a [Dark Feather](Dark_Feather.md) in your possession
 -   Find Surge, located inside the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
     

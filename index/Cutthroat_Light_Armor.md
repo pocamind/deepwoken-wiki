@@ -1,6 +1,6 @@
 ---
 title: Cutthroat Light Armor
-revid: 146482
+revid: 150411
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -8,7 +8,23 @@ categories: [Armors, Items, Outfits, Adept Outfits]
 
 # Cutthroat Light Armor
 
-Template:ArmorInfobox**Cutthroat Light Armor** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+| Cutthroat Light Armor | |
+|---|---|
+| caption | Sturdy leather armor, fashioned for the hunters sent into the driftlands to deal with rival factions. |
+| tier | Adept |
+| crafting_req | x4 Cloth, x4 Fiber, x5 Iron , x1 Crystal Lens |
+| price | 30 Notes |
+| stat_req | Power Level 5 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1000 |
+| resistances | +10% Physical Armor, +10% Slash Armor |
+| talents | Hunter's Reflexes |
+| obtainment | Outside the Mantra shop on Isle of Vigils, Lower Erisia |
+| selling_price | 10 |
+| weight | 1 |
+
+**Cutthroat Light Armor** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

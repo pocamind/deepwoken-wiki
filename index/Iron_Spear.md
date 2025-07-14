@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 146954
+revid: 150404
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Medium Weapons]
@@ -16,6 +16,7 @@ categories: [Weapons, Spears, Medium Weapons]
 | scaling | MED: 2.5 |
 | range | 9 |
 | swing speed | 0.9x |
+| selling price | 7 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +27,7 @@ categories: [Weapons, Spears, Medium Weapons]
 
 ## Description
 
-The Iron Spear is a MED weapon that can be bought for at the [Etris](Etris.md) weapon store. It is noted for its range.
+The Iron Spear is a MED weapon that can be bought for 25 at the [Etris](Etris.md) weapon store. It is noted for its range.
 
 ## Trivia
 

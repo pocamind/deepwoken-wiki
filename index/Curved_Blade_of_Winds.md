@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 150249
+revid: 150413
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -67,7 +67,9 @@ The user shoots a blast of air and on collision or after a short amount of time 
     -   The [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is also fashioned after one.
     -   The original model of the Curved Blade of Wind closely resembled the Windshear from The Elder Scrolls V: Skyrim.
 -   The original updated Curved Blade of Winds contained an absurd 120k vertices. Following the March 27th, 2023 update, this was reduced to a mere 7k vertices.
--   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", which has no meaning.
+-   The Curved Blade of Winds has features two sets of lines written in runes that run alongside the blade's markings.
+-   The Curved Blade of Winds appears [as a card in Blox Cards](https://blox-cards.fandom.com/wiki/Curved_Blade_of_Winds).
+    -   Its description, "Metamancer," refers to the weapon's association with meta builds.
 -   As the weapon is a dual wield, you are unable to utilize a Shield or Off-Hand gun.
     -   You however can have a shield on your back in both stances, allowing you to utilize the [Turtle Shell](Talents.md#shieldmaster) Talent.
 -   The original model was a Wardens Blade with wind particles put onto the blade.

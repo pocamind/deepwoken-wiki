@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 150001
+revid: 150389
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -56,6 +56,18 @@ You can speak to [Vyrelda](Vyrelda,_Master_of_Blood.md) at [Derelict Highchurch]
 Mantra levels will cost 50% more Notes if you use the [Songwright](Songwright.md) NPC to upgrade them.
 
 [Bloodrend Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
+
+## Mantra Damage Calculation
+
+The formula to calculate Mantra damage is as follows: Base damage \* (1 + ((0.Mantra scaling \* (investment / 100)) + (Songchant \* 0.05 \* (0.Mantra scaling \* (investment / 100))))).
+
+-   Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
+-   Example 1: Level 5 Bloodedge with 80 Bloodrend and 2 Songchant:
+    -   32 \* (1 + ((0.275 \* (80/100)) + (2 \* 0.05 \* (0.275 \* (80/100))))) = 39.74 damage.
+-   Example 2: Level 2 Blood Orb with 20 Bloodrend and no Songchant:
+    -   19 \* (1 + ((0.275 \* (20/100)) + (0 \* 0.05 \* (0.275 \* (20/100))))) = 20.05 damage.
+        -   Note: because Songchant is 0 here, you can leave out the second part of the equation entirely (as it will end up being "scaled damage +0").
+-   This formula also works for non-Mantra things, such as Galebreathe Apparitions, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage though.
 
 ## Mantras
 
