@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 150349
+revid: 150697
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -27,8 +27,6 @@ _The Outdated one can be found [\[here\]](https://docs.google.com/spreadsheets/d
 
 There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will receive the mantra modifiers (excluding sparks) back upon using an Amnesic Driftwood. Deep Gems can be equipped at a Campfire in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
 
-Heavily modified mantras will require [Note](Notes.md) offerings to be made. To see their prices and scaling, review [Mantra Table](Mantra_Lectern.md).
-
 Glass Stones and Magnifying Stones seem to have vastly different effects on mantras compared to other mantra modifiers.
 
 Keep in mind, not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible.
@@ -47,7 +45,7 @@ After modifying a mantra and finishing its creation, uncompatible mods on the ta
 
 Applying _Amnesic Driftwood_ on a mantra will remove all previous upgrades including sparks. Upgrading an already upgraded Mantra will stack onto the previous upgrades.
 
-**Note**: On the 08/02/2022, T2 modifiers (Stratus Stone, Perfect Lens, Eternal Logstones, Rush Shards) were given downsides, similar to their T1 counterparts. These numbers would be appreciated.
+**Note**: On the February 8th, 2022 update, T2 modifiers (Stratus Stone, Perfect Lens, Eternal Logstones, Rush Shards) were given downsides, similar to their T1 counterparts.
 
 | Modifier | Effect | Notes | Drops |
 | --- | --- | --- | --- |

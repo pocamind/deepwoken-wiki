@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 150385
+revid: 150695
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -261,14 +261,14 @@ Fire
 
 **Flame Repulsion** (☆☆☆)
 
-_An exertion of flames._
+_Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back._
 
  | 
 
 ## Flame Repulsion (☆☆☆)
 
   
-_An exertion of flames._
+_Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back._
 
  |
 | 
