@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 150367
+revid: 150460
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Central Authority]
@@ -8,13 +8,29 @@ categories: [Armors, Items, Outfits, Adept Outfits, The Central Authority]
 
 # Authority Peacekeeper Armor
 
-Template:ArmorInfobox**Authority Peacekeeper Armour** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+| Authority Peacekeeper Armour | |
+|---|---|
+| caption | The durable battle armour of an Adretian soldier. The armour is specially forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile armour plate. |
+| tier | Adept |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Iron |
+| price | 30 |
+| stat_req | Power Level 5, 5 Fortitude |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1600 |
+| resistances | +15% Physical Armor, +10% Elemental Armor, +10% Slash Armor , +15% Fire Armor |
+| talents | Lowstride |
+| obtainment | Sold by Nyanna and Traan Zakshun for 80 Chests From:, The Depths, Primadon (Chests), Lodestar |
+| selling_price | 10 |
+| weight | 1 |
+
+**Authority Peacekeeper Armour** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber as well as one (1) Iron.
+This Outfit costs 30 and requires five (5) Cloth and Fiber as well as one (1) Iron.
 
 This Outfit requires [Power Level](Power.md) 5 and 5 [Fortitude](Attributes.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Tied Tie
-revid: 125095
+revid: 150567
 source: https://deepwoken.fandom.com/wiki/Tied_Tie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Items, Equipment, Torso, Developer Spec]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Head |
 | rarity | Unique |
-| selling price | 100 |
+| selling price | Unsellable |
 | weight | 1 |
 | innate stats | +5 Health , +1 Uncommon Pip |
 | bankable | Yes |

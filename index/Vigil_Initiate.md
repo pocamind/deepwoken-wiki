@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 146465
+revid: 150538
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, Etrea]
@@ -8,7 +8,22 @@ categories: [Armors, Items, Outfits, Adept Outfits, Etrea]
 
 # Vigil Initiate
 
-Template:ArmorInfobox**Vigil Initiate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+| Vigil Initiate | |
+|---|---|
+| caption | Initiate of the Vigil. A warrior must walk the path before being granted the cloak of winds. |
+| tier | Adept |
+| crafting_req | x5 Cloth, x5 Fiber, x4 Iron |
+| stat_req | Power Level 5 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1200 |
+| resistances | +20% Physical Armor, +10% Blunt Armor |
+| talents | Paired Soul |
+| obtainment | Isle of Vigils inside the Mantra shop |
+| selling_price | 10 |
+| weight | 1 |
+
+**Vigil Initiate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

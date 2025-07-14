@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 148798
+revid: 150502
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces, Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser, Scholar of the Crimson Contract, Hell Mode, The Diluvian Mechanism, War Mode, Lysander Spellhardt, Sold in Traan Zakshun's black market for |
+| obtainment | Chaser, Scholar of the Crimson Contract, Hell Mode, The Diluvian Mechanism, War Mode, Lysander Spellhardt, Sold in Traan Zakshun's black market for 6 |
 | description | "A Medallion thought to be gifted to trainee Warmaster adherents during the Canticlysm. Bolsters one's martial prowess in exchange for ampering the amplitude of one's Resonance." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Union Initiate
-revid: 146476
+revid: 150550
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits, Armors, The Ignition Union]
@@ -8,7 +8,17 @@ categories: [Items, Outfits, Starter Outfits, Armors, The Ignition Union]
 
 # Union Initiate
 
-Template:ArmorInfobox
+| Union Initate | |
+|---|---|
+| tier | Starter |
+| stat_req | Power 6 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1500 |
+| resistances | +15% Physical Armor, +5% Elemental Armor |
+| buffs | +10 Carry Load |
+| selling_price | 10 |
+| weight | 1 |
 
 **Union Initiate** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 

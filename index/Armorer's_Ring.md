@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 148684
+revid: 150448
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,8 +20,22 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, The Ferryman, Aelita (Extremely Rare), Duke Ishamon Erisia, Elder Primadon, The Titan Warlord, Interluminary Parasol, Summer Isle, Second Layer, Maestro Evengarde Rest, The Doom of Caeranthil, War Mode, Chime of Conflict |
-| description | "Ring imbued with self-fortifying Ironsing. Reduces Armor loss by 10%." |
+
+|description="Ring imbued with self-fortifying Ironsing. Reduces Armor loss by 10%."|image=Armorer's Ring.png|obtainment=Chests from:
+
+-   [The Ferryman](The_Ferryman.md)
+-   [Aelita](Aelita.md) (**Extremely Rare**)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
+-   [Interluminary Parasol](Interluminary_Parasol.md)
+-   [Summer Isle](Summer_Isle.md)
+-   [Second Layer](Second_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [War Mode](War_Mode.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+
+}}
 
 ## Description
 

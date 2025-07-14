@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 147258
+revid: 150556
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gems, Items, Mechanics]
@@ -25,6 +25,8 @@ _A glittering blue corundum._
 
  | 
 
+4
+
  |
 | 
 
@@ -37,6 +39,8 @@ Amethyst
 _A gorgeous quartz crystal._
 
  | 
+
+5
 
  |
 | 
@@ -51,6 +55,8 @@ _A glittering red corundum._
 
  | 
 
+6
+
  |
 | 
 
@@ -63,6 +69,8 @@ Emerald
 _Of the non-chaotic variety._
 
  | 
+
+7
 
  |
 | 
@@ -78,6 +86,8 @@ rat's weight in gold._
 
  | 
 
+7
+
  |
 | 
 
@@ -91,6 +101,8 @@ _Hey, it's worth at least a
 rat's weight in gold._
 
  | 
+
+7
 
  |
 | 
@@ -106,6 +118,8 @@ rat's weight in gold._
 
  | 
 
+18
+
  |
 | 
 
@@ -118,6 +132,8 @@ Diamond
 _Hey, there's no blood on this one!_
 
  | 
+
+20
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-revid: 144890
+revid: 150511
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, Oaths, NPCs located in the Eastern Luminant]
@@ -42,7 +42,7 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
   <td colspan="12">I walk my own path.</td>
 </tr>
 <tr>
-  <td colspan="12">Very admirable. Do you.. seek a change of heart, traveler? One day, do you aspire to take an Oath of your own? Or.. do you have your mind set on walking your own path?</td>
+  <td colspan="12">Very admirable. Do you.. seek a change of heart, traveler? One day, do you aspire to take an <a href="Glossary.md#oaths">Oath</a> of your own? Or.. do you have your mind set on walking your own path?</td>
 </tr>
 <tr>
   <td colspan="6">I will stay on my own path.</td>

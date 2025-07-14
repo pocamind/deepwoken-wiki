@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 148227
+revid: 150559
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement]
@@ -42,7 +42,7 @@ Most of the attribute training gears are self explanatory, though some training 
 
 ### Cost
 
-All of the training gears cost and sell for. Use of the item will not affect the sell cost.
+All of the training gears cost 25 and sell for 3. Use of the item will not affect the sell cost.
 
 ## List of Training Gears
 

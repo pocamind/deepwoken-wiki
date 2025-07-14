@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 148788
+revid: 150505
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -17,12 +17,13 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons of The Cent
 | range | 7.5 |
 | swing speed | 1.06x |
 | stances | 2 Handed, 1 Handed |
+| selling price | 25 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, Deep Widow, Duke Ishamon Erisia, Lodestar, Primadon, Titan of the East, Maestro Evengarde Rest, Moon's Eyrie, Bought from Traan Zakshun for, The Depths, Chaser, War Mode, Heart of Enmity, The Doom of Caeranthil, Scion of Ethiron, Dread Serpent, Voidsea (chests) |
+| obtainment | Chests from:, Fort Merit, Deep Widow, Duke Ishamon Erisia, Lodestar, Primadon, Titan of the East, Maestro Evengarde Rest, Moon's Eyrie, Bought from Traan Zakshun for 300 , The Depths, Chaser, War Mode, Heart of Enmity, The Doom of Caeranthil, Scion of Ethiron, Dread Serpent, Voidsea (chests) |
 | description | "The ceremonial blade of an Authority Warden. Despite their position in ceremony and stately affairs, the Wardens of the Authority are some of the fiercest warriors in the Authority's arsenal. Their presence in public affairs is seen as a move to strike fear into their enemies." |
 
 ## Description

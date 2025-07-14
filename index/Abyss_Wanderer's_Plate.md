@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Plate"
-revid: 138035
+revid: 150431
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers, Items]
@@ -12,6 +12,7 @@ categories: [Equipment, Arms, Plates, The Divers, Items]
 |---|---|
 | type | Arms |
 | rarity | Mythic |
+| selling price | 100 |
 | requirements | Power 10 |
 | weight | 2 |
 | innate stats | 5 Health+3 Legendary Pips |

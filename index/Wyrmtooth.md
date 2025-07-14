@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 148317
+revid: 150477
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Greatswords, Heavy Weapons]
@@ -17,6 +17,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Multi-Weapon Scali
 | range | 9 |
 | swing speed | 0.93x |
 | penetration | 25% |
+| selling price | 100 |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |

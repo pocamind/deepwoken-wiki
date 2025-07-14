@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 150374
+revid: 150456
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Central Authority]
@@ -8,13 +8,28 @@ categories: [Armors, Items, Outfits, Expert Outfits, The Central Authority]
 
 # Authority Captain Uniform
 
-Template:ArmorInfobox **Authority Captain Uniform** is an Expert [Outfit](Outfits.md) in _Deepwoken._
+| Authority Captain Uniform | |
+|---|---|
+| caption | The unmistakable banded coat of an Adretian Captain. Despite immediate appearances, the coat is wound with protective fibers that provide unparalleled durability. |
+| tier | Expert |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Dark Feather, x1 Lionfish Scale |
+| price | 500 |
+| stat_req | Power Level 10, 25 Strength |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2000 |
+| resistances | +30% Physical Armor, +25% Elemental Armor |
+| obtainment | Chests from:, Fort Merit, The Depths, Moon's Eyrie, Primadon, Sold by Traan Zakshun |
+| selling_price | 10 |
+| weight | 1 |
+
+**Authority Captain Uniform** is an Expert [Outfit](Outfits.md) in _Deepwoken._
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, one (1) Dark Feather and one (1) Lionfish Scale.
+This Outfit costs 500 and requires five (5) Cloth and Fiber, one (1) Dark Feather and one (1) Lionfish Scale.
 
 This Outfit requires [Power Level](Power.md) 10 and 25 [Strength](Attributes.md).
 

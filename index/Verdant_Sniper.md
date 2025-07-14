@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 139241
+revid: 150541
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -8,13 +8,28 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 
 # Verdant Sniper
 
-Template:ArmorInfobox**Verdant Sniper** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Verdant Sniper | |
+|---|---|
+| caption | Armor once worn by a renowned master of the bow. |
+| tier | Expert |
+| crafting_req | x10 Cloth, x2 Megalodaunt Hide, x2 Vibrant Gem |
+| price | 100 |
+| stat_req | Power Level 10 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1500 |
+| resistances | +25% Physical Armor, +20% Elemental Armor, +10% Wind Armor |
+| obtainment | Chests from:, Summer Isle |
+| selling_price | 10 |
+| weight | 1 |
+
+**Verdant Sniper** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires ten (10) Cloth, two (2) Megalodaunt Hides and two (2) Vibrant Gems.
+This Outfit costs 100 and requires ten (10) Cloth, two (2) Megalodaunt Hides and two (2) Vibrant Gems.
 
 This Outfit requires [Power Level](Power.md) 10.
 

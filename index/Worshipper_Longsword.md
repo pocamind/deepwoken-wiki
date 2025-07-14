@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 144372
+revid: 150481
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons]
@@ -17,6 +17,7 @@ categories: [Weapons, Swords, Medium Weapons]
 | range | 8 |
 | swing speed | 1.03x |
 | stances | 2 Handed, 1 Handed |
+| selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

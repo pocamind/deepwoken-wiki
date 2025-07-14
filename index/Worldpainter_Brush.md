@@ -1,6 +1,6 @@
 ---
 title: Worldpainter Brush
-revid: 138241
+revid: 150484
 source: https://deepwoken.fandom.com/wiki/Worldpainter_Brush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -22,6 +22,7 @@ notices:
 | penetration | 20% |
 | chip damage | N/A |
 | special effect | Applies 'blinding' effect on hit. |
+| selling price | N/A |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |

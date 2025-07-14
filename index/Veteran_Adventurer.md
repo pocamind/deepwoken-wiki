@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 137510
+revid: 150540
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -8,13 +8,30 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 
 # Veteran Adventurer
 
-Template:ArmorInfobox**Veteran Adventurer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Veteran Adventurer | |
+|---|---|
+| caption | With all this experience, how could you possibly be a bad guy? |
+| tier | Expert |
+| crafting_req | x5 Cloth, x5 Fiber, x2 Gold, x10 Iron, x2 Megalodaunt Hide, x1 Strange Claw |
+| price | 100 |
+| stat_req | Power Level 10 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1500 |
+| resistances | +15% Elemental Armor, +15% Physical Armor, +5% Fire Armor, +5% Shadow Armor |
+| buffs | +50% Stealth |
+| talents | Foolish Outburst |
+| obtainment | Chests from:, Minityrsa, Songseeker Wilds, Summer Isle |
+| selling_price | 10 |
+| weight | 1 |
+
+**Veteran Adventurer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, two (2) [Gold](Ores.md#gold), ten (10) [Iron](Ores.md#iron), two (2) [Megalodaunt Hide](Megalodaunt_Hide.md) and one (1) [Strange Claw](Strange_Claw.md).
+This Outfit costs 100 and requires five (5) Cloth and Fiber, two (2) [Gold](Ores.md#gold), ten (10) [Iron](Ores.md#iron), two (2) [Megalodaunt Hide](Megalodaunt_Hide.md) and one (1) [Strange Claw](Strange_Claw.md).
 
 This Outfit requires [Power Level](Talents.md) 10.
 

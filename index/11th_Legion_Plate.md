@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 150408
+revid: 150429
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Hundred Legions]
@@ -8,7 +8,22 @@ categories: [Armors, Items, Outfits, Adept Outfits, The Hundred Legions]
 
 # 11th Legion Plate
 
-Template:ArmorInfobox**11th Legion Plate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+| 11th Legion Plate | |
+|---|---|
+| caption | Armor of the 11th Scouting Legion. Akilles brought them here some time ago to observe the coming conflict in the East. |
+| tier | Adept |
+| crafting_req | x5 Cloth, x5 Fiber, x2 Gold, x10 Iron |
+| price | 100 |
+| stat_req | Power Level 5, 10 Fortitude |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1500 |
+| resistances | +10% Physical Armor, +30% Blunt Armor |
+| obtainment | Sold by Traan Zakshun for 200 Chests from:, Erisia, Starswept Valley, The Depths, Moon's Eyrie, Deep Widow (Chest), Primadon (Chest) |
+| selling_price | 10 |
+| weight | 1 |
+
+**11th Legion Plate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

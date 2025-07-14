@@ -1,6 +1,6 @@
 ---
 title: Wyvern
-revid: 89104
+revid: 150476
 source: https://deepwoken.fandom.com/wiki/Wyvern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Exclusive Outfits, Outfits]
@@ -10,7 +10,18 @@ notices:
 
 # Wyvern
 
-Template:ArmorInfobox**Wyvern** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+| Wyvern | |
+|---|---|
+| caption | Crafted from the scales of the extinct Wyverns, this armor is forged for the members of the Wyvern Brotherhood |
+| tier | Unique (Spec/Mod) |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2000 |
+| resistances | +5% Physical Armor |
+| selling_price | 10 |
+| weight | 1 |
+
+**Wyvern** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Cala-Mariner"
-revid: 148657
+revid: 150529
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits]

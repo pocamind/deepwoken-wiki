@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 149544
+revid: 150479
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists, Light Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Cr
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Grudge, Sold in Traan Zakshun's black market for |
+| obtainment | Grudge, Sold in Traan Zakshun's black market for 5 |
 | description | Bound and woven with hair and sinew, a spectral claw forms from the grudges of those sacrificed to create it. Across Lumen, many believe that the voices of the dead are carried by the wind. So too do many believe that the winds of Lumen originate from the swirling vortex of the Moonseye above. Perhaps these voices are those of the Old World, mourning and howling at what has become of Lumen. |
 
 ## Description

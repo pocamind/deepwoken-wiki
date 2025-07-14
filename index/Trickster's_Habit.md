@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 150274
+revid: 150555
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -8,13 +8,30 @@ categories: [Armors, Items, Outfits, Unique Outfits, World Event]
 
 # Trickster's Habit
 
-Template:ArmorInfobox **Trickster's Habit** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
+| Trickster's Habit | |
+|---|---|
+| caption | Threaded with detailed embroidery and carefully pleated ruffles, this technically impressive garment is sure to turn heads. Frustratingly, the ladder-laced details are especially hard to keep neat-fashion before function. |
+| tier | Unique |
+| crafting_req | x7 Cloth, x5 Fiber, x10 VIbrant Gem |
+| price | 400 |
+| stat_req | Power Level 12 |
+| bankable | Yes |
+| droppable | No |
+| durability | 2500 |
+| resistances | +20% Physical Armor, +15% Blunt Armor, +35% Elemental Armor |
+| buffs | +50% Ether Regen |
+| talents | Mocking Favor |
+| obtainment | Carnival of Hearts |
+| selling_price | 10 |
+| weight | 1 |
+
+**Trickster's Habit** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires seven (7) Cloth and five (5) Fiber and ten (10) [Vibrant Gems](Mantra_Modifiers.md).
+This Outfit costs 400 and requires seven (7) Cloth and five (5) Fiber and ten (10) [Vibrant Gems](Mantra_Modifiers.md).
 
 This Outfit requires [Power Level](Power.md) 12.
 

@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 148786
+revid: 150537
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals, Medium Weapons]
@@ -25,7 +25,7 @@ categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapo
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Songseeker Wilds, Miner's Landing, Dread Serpent, Sold by Traan Zakshun for, Lodestar, First Layer, Crypt of the Unbroken, Chime of Conflict, Voidwalker chestsTemplate:AlloyedColor, Alloying a Vigil Longsword |
+| obtainment | Minityrsa, Songseeker Wilds, Miner's Landing, Dread Serpent, Sold by Traan Zakshun for 300 , Lodestar, First Layer, Crypt of the Unbroken, Chime of Conflict, Voidwalker chestsTemplate:AlloyedColor, Alloying a Vigil Longsword |
 | description | "Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless." |
 
 ## Description

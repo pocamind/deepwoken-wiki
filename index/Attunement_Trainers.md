@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 146641
+revid: 150454
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Attunement, Mantras, Enemies]
@@ -10,7 +10,7 @@ categories: [NPCs, Attunement, Mantras, Enemies]
 
 ## Description
 
-Attunement Trainers are NPCs around the map that level up Mantras for money. Each Trainer will increase a mantra level by one depending on which Attunement they train (the [Frostdraw](Frostdraw.md) Attunement Trainer will level up Frostdraw [Mantras](Mantras.md), etc). The cost for leveling up Mantras starts at and increases by depending on the Mantra level. A leveled-up Mantra's damage will increase, as well as the potential for additional effects.
+Attunement Trainers are NPCs around the map that level up Mantras for money. Each Trainer will increase a mantra level by one depending on which Attunement they train (the [Frostdraw](Frostdraw.md) Attunement Trainer will level up Frostdraw [Mantras](Mantras.md), etc). The cost for leveling up Mantras starts at 100 and increases by 100 depending on the Mantra level. A leveled-up Mantra's damage will increase, as well as the potential for additional effects.
 
 A Trainer needs intervals of 20 points in your Attunement to upgrade a Mantra of the same elemental type as the trainer to upgrade, maxing out at Level 5 and 80 Attunement points.
 
@@ -18,10 +18,10 @@ Killing trainers is also the progression for the [Silentheart Oath](Oath%253A_Si
 
 For example:
 
--   20 in an Attunement = Level 2 Mantra,
--   40 = Level 3 Mantra, ( total)
--   60 = Level 4 Mantra, ( total)
--   80 = Level 5 Mantra, ( total) (Requires Attunement Unbound)
+-   20 in an Attunement = Level 2 Mantra, 100
+-   40 = Level 3 Mantra, 200 (300 total)
+-   60 = Level 4 Mantra, 300 (600 total)
+-   80 = Level 5 Mantra, 400 (1,000 total) (Requires Attunement Unbound)
 
 An Attunement Trainer will not train you if you do not have the element learned. However, you can learn different Attunements by giving a trainer five (two if previously obtained) Elemental Ingredients of the respected Attunement (See [Attunement Potions](Attunement_Potions.md)).
 

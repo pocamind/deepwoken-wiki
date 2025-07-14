@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 149649
+revid: 150449
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -15,14 +15,27 @@ categories: [Items, Equipment, Arms, Cloaks]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | +6 Health, 3% Stealth, +2 Rare Pip, 1 Legendary Pip |
-| innate talent | Lowstride |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aelita (Crimson, Mist, Gold), Aratel Island (Pale), Primadon (Pale), Elder Primadon (Pale), Starswept Valley (Pale), Rogue Construct (Pale), Calamus (Pale), Cloaked Assassins (Crimson, Gold), The Ferryman (Winter Only. Crimson, Mist, Gold.), Carnival of Hearts (Crimson, Mist and Gold) |
-| description | "..." |
+
+|innate stats=+6 Health  
+3% Stealth  
++2 Rare Pip  
+1 Legendary Pip |innate talent=Lowstride |obtainment=\*[Aelita](Aelita.md) (Crimson, Mist, Gold)
+
+-   [Aratel Island](Aratel_Island.md) (Pale)
+-   [Primadon](Primadon,_Titan_of_the_East.md) (Pale)
+-   [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) (Pale)
+-   [Starswept Valley](The_Starswept_Valley.md) (Pale)
+-   [Rogue Construct](Rogue_Construct.md) (Pale)
+-   [Calamus](Calamus.md) (Pale)
+-   Cloaked Assassins (Crimson, Gold)
+-   [The Ferryman](The_Ferryman.md) (Winter Only. Crimson, Mist, Gold.)
+-   [Carnival of Hearts](Carnival_of_Hearts.md) (Crimson, Mist and Gold)
+
+|description="..." }}
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Worldshaper's Laurel"
-revid: 138242
+revid: 150483
 source: https://deepwoken.fandom.com/wiki/Worldshaper's_Laurel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Ornaments, Hats, Items]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Head |
 | rarity | Unique |
-| selling price | 100 |
+| selling price | Unsellable |
 | weight | 1 |
 | innate stats | N/A |
 | bankable | Yes |

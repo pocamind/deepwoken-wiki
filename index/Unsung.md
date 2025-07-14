@@ -1,6 +1,6 @@
 ---
 title: Unsung
-revid: 129734
+revid: 150549
 source: https://deepwoken.fandom.com/wiki/Unsung
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Exclusive Outfits, Spec/Mod Outfits]
@@ -10,7 +10,17 @@ notices:
 
 # Unsung
 
-Template:ArmorInfobox**Unsung** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+| Unsung | |
+|---|---|
+| tier | Unique (Spec/Mod) |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 100 |
+| resistances | +5% Physical Armor |
+| selling_price | 10 |
+| weight | 1 |
+
+**Unsung** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Trivia
 

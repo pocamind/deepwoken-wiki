@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 150365
+revid: 150457
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, The Central Authority]
@@ -8,7 +8,24 @@ categories: [Armors, Items, Outfits, Master Outfits, The Central Authority]
 
 # Authority Commander
 
-Template:ArmorInfobox _Not to be confused with [Authority Commander (NPC)](<Authority_Commander_(Enemy).md>) or [Authority Commander Coat](Authority_Commander_Coat.md)._
+| Authority Commander | |
+|---|---|
+| caption | The armored robes of an Authority Commander. |
+| tier | Master |
+| crafting_req | x5 Cloth , x5 Fiber, x1 Blessed Gem, x1 Bounder Claw, x1 Dark Feather, x1 Thresher Spine, x5 Vibrant Gem |
+| price | 1000 |
+| stat_req | Power Level 15 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2800 |
+| resistances | +30% Elemental Armor, +30% Physical Armor, +10% Blunt Armor, +10% Fire Armor |
+| buffs | +20% Ether Regen |
+| talents | Riot Breaker |
+| obtainment | Layer 2, Scion of Ethiron, Diluvian Mechanism, Glaive Spellhardt |
+| selling_price | 10 |
+| weight | 1 |
+
+_Not to be confused with [Authority Commander (NPC)](<Authority_Commander_(Enemy).md>) or [Authority Commander Coat](Authority_Commander_Coat.md)._
 
   
 **Authority Commander** is a Master [Outfit](Outfits.md) in _Deepwoken_.
@@ -19,7 +36,7 @@ Template:ArmorInfobox _Not to be confused with [Authority Commander (NPC)](<Auth
 
 Bounder Claw, Dark Feather, Thresher Spine,
 
-This Outfit costs and requires five (5) Cloth and Fiber, one (1) [Bounder Claw](Bounder_Claw.md), one (1) [Dark Feather](Dark_Feather.md), one (1) [Thresher Spine](Thresher_Spine.md), one (1) [Blessed Gem](Mantra_Modifiers.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md).
+This Outfit costs 1,000 and requires five (5) Cloth and Fiber, one (1) [Bounder Claw](Bounder_Claw.md), one (1) [Dark Feather](Dark_Feather.md), one (1) [Thresher Spine](Thresher_Spine.md), one (1) [Blessed Gem](Mantra_Modifiers.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md).
 
 This Outfit requires [Power Level](Talents.md) 15.
 

@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 146477
+revid: 150497
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, The Knives of Eylis, Armors]
@@ -8,7 +8,22 @@ categories: [Outfits, Starter Outfits, The Knives of Eylis, Armors]
 
 # Whaler Initiate
 
-Template:ArmorInfobox**Whaler Initiate** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+| Whaler Initiate | |
+|---|---|
+| caption | Coat and pseudo-uniform of Eylis' gang of assassins. The appearance of these men from the Central Luminant marks harsh times for Etrea. |
+| tier | Starter |
+| crafting_req | 5x Cloth, 5x Fiber, 2x Gold, 10x Iron, 2x Lionfish Scale |
+| price | 100 |
+| stat_req | Power Level 5 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1500 |
+| resistances | +15% Physical Armor, +5% Elemental Armor |
+| buffs | +25% Stealth |
+| selling_price | 10 |
+| weight | 1 |
+
+**Whaler Initiate** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Beak
-revid: 147979
+revid: 150570
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Beak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Monster Mantra Ingredients]
@@ -12,6 +12,7 @@ categories: [Items, Drops, Monster Mantra Ingredients]
 |---|---|
 | value | 200 |
 | weight | None |
+| stack | x6 |
 | type | Monster Material |
 | bankable | Yes |
 | droppable | Yes |

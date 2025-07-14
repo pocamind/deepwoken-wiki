@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 149785
+revid: 150447
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -15,7 +15,7 @@ categories: [Relics]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| obtainment | Duke Erisia, Etris Siege, Fishing, Hell Mode, Hollow Forge, Lysander Spellhardt, Maestro Evengarde Rest, Voidwalker Chests, Heart of Enmity, Primadon, Diver Expedition Sea Event, Saramaed Hollow, Scion of Ethiron, The Diluvian Mechanism, The Doom of Caeranthil, The Ferryman, War Mode, World Events, Artifacts, Elder Primadon, The Titan Warlord, Sold in Traan Zakshun's black market for |
+| obtainment | Duke Erisia, Etris Siege, Fishing, Hell Mode, Hollow Forge, Lysander Spellhardt, Maestro Evengarde Rest, Voidwalker Chests, Heart of Enmity, Primadon, Diver Expedition Sea Event, Saramaed Hollow, Scion of Ethiron, The Diluvian Mechanism, The Doom of Caeranthil, The Ferryman, War Mode, World Events, Artifacts, Elder Primadon, The Titan Warlord, Sold in Traan Zakshun's black market for 4 |
 
 ## Description
 

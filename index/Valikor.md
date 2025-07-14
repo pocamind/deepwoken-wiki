@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 149260
+revid: 150546
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Talents, Etrea, NPCs located in the Etrean Luminant, Isle of Vigil]
@@ -53,7 +53,7 @@ Valikor is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in 
   <td colspan="4">STOP REMINDING ME!</td>
 </tr>
 <tr>
-  <td colspan="4">End, obtain Spell Shout ( )</td>
+  <td colspan="4">End, obtain Spell Shout (-50 )</td>
   <td colspan="4">End</td>
   <td colspan="4">End, impossible to pass</td>
   <td colspan="4">End, obtain Spell Shout (8 Charisma)</td>

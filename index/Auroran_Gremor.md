@@ -1,6 +1,6 @@
 ---
 title: Auroran Gremor
-revid: 129729
+revid: 150455
 source: https://deepwoken.fandom.com/wiki/Auroran_Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
@@ -10,7 +10,22 @@ notices:
 
 # Auroran Gremor
 
-Template:ArmorInfobox**Auroran Gremor** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+| Auroran Gremor | |
+|---|---|
+| caption | Armor of the Auroran Gremor |
+| tier | Unique (Spec/Mod) |
+| price | 1000 |
+| stat_req | Power Level 15 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2600 |
+| resistances | +30% Physical Armor, +30% Elemental Armor, +20% Shadow Armor, +20% Lightning Armor |
+| buffs | +100% Ether Regen+16 Sanity |
+| talents | Frozone |
+| selling_price | 10 |
+| weight | 1 |
+
+**Auroran Gremor** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

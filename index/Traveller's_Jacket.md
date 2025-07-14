@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 146475
+revid: 150558
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -8,13 +8,26 @@ categories: [Items, Outfits, Starter Outfits]
 
 # Traveller's Jacket
 
-Template:ArmorInfobox**Traveller's Jacket** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+| Traveller's Jacket | |
+|---|---|
+| caption | A well-worn jacket suitable for travelling. |
+| tier | Starter |
+| crafting_req | x1 Cloth |
+| price | 10 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1000 |
+| resistances | +10% Physical Armor |
+| selling_price | 10 |
+| weight | 1 |
+
+**Traveller's Jacket** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires one (1) Cloth.
+This Outfit costs 10 and requires one (1) Cloth.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 

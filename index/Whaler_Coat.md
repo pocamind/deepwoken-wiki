@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 148780
+revid: 150498
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Knives of Eylis]
@@ -8,13 +8,29 @@ categories: [Armors, Items, Outfits, Expert Outfits, The Knives of Eylis]
 
 # Whaler Coat
 
-Template:ArmorInfobox**Whaler Coat** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Whaler Coat | |
+|---|---|
+| caption | Coat and pseudo-uniform of Eylis' gang of Assassins. The appearance of these men from the Central Luminant marks harsh times for Etrea. |
+| tier | Expert |
+| crafting_req | x5 Cloth, x5 Fiber, x2 Gold, x10 Iron, x2 Lionfish Scale |
+| price | 100 |
+| stat_req | Power Level 10 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1500 |
+| resistances | +25% Physical Armor, +15% Elemental Armor |
+| buffs | +50% Stealth |
+| obtainment | Chests from:, The Depths, Moon's Eyrie, Bought from Traan Zakshun for 200 , Primadon, Sea Event |
+| selling_price | 10 |
+| weight | 1 |
+
+**Whaler Coat** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, two (2) pieces of Gold, ten (10) pieces of Iron and two (2) Lionfish Scales.
+This Outfit costs 100 and requires five (5) Cloth and Fiber, two (2) pieces of Gold, ten (10) pieces of Iron and two (2) Lionfish Scales.
 
 This Outfit requires [Power Level](Power.md) 10.
 

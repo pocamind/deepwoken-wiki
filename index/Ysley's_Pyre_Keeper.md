@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 148823
+revid: 150428
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Multi-Weapon Scaling", The Hive, Multiple Criticals, Heavy Weapons]
@@ -19,6 +19,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | penetration | 15% |
 | special effect | The 2nd M1 and the crouching and sliding criticals scale on Light Weapon invest instead of Heavy Weapon. These attacks have 5 LHT scaling. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 105 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

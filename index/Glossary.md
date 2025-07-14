@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 150325
+revid: 150517
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -27,7 +27,7 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 #### Korilfiend, the Inferno's Provenance
 
 -   A Drowned God said to preside over Heat.
--   A flower containing vestiges of Korilfiend's power is said to have been consumed by Amorus Pleeksty, who later developed the art of [Flamecharming](Flamecharm.md).
+-   A flower containing vestiges of Korilfiend's power is said to have been consumed by Amorus Pleeksty, who later developed the art of Flamecharming.
 
 #### The Celestials
 
@@ -38,7 +38,7 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 
 #### The Drowned Gods
 
--   Entities of immense and unknowable power that are said to slumber deep within [the Depths](The_Depths.md).
+-   Entities of immense and unknowable power that are said to slumber deep within the Depths.
 -   Many believe that the Song has stirred them from their sleep and brought about the Tides. Should a Drowned God wake, it's also believed that it would result in Lumen's undoing.
 -   The names of Drowned gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
 -   Worship of Drowned Gods is taboo across most of the Lumen, with their faithful being branded as cultists and heretics.
@@ -81,7 +81,7 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 #### The Song
 
 -   Thought to be the source of much of the 'magic' of Lumen, its wielders often invoke its magic through the use of Mantras.
--   The discovery of the Song and the ensuing research into its applications is said to have precipitated [the Canticlysm](The_Canticlysm.md) — the so-called 'Golden Age of Mankind' \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+-   The discovery of the Song and the ensuing research into its applications is said to have precipitated the Canticlysm — the so-called 'Golden Age of Mankind' \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
 -   Before its discovery, few within Lumen could perceive its tones. Now, it is inescapable. The Song is everywhere, like an earworm that lingers at the back of your mind, always ready to spring into action and play its tones once more.
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the Tides, and of the resulting collapse of civilisation \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
@@ -94,13 +94,21 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   Vows are poorly understood by the people of the Resurgence, but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an Oath is facilitated by such a Vow.
 
+#### Lightkeep
+
+-   Stationed in Lighthouses at the edges of Luminants, these rare individuals are capable of Illuminating a path through the Voidsea, forcing it to retreat.
+-   A scant few are born with the Gift of Lightkeeping, with each individual bearing the heavy responsibility of driving back the Void to enable the transportation and exchange of goods, information, and people.
+-   Lightkeepers are afforded little freedom, when spending their lives wasting away in their Lighthouses guarded by a legion of soldiers
+-   A nation's economy rests on its Lightkeepers, with passage between the Luminants being strictly controlled and tariffed by the few that have Lightkeepers in their retinue.
+-   The Radiant Tones utilized by adherents of the Dawnwalker Oath are based on research into Lightkeeping, though are incapable of illuminating the Void.
+
 ### Notable Figures
 
 #### Mur of Light
 
 -   A Goddess worshipped by many in the Etrean Luminant.
 -   Many believe that Mur was responsible for bringing about the knowledge that Murmurs to the Kingdom of Etrea.
--   As with many Gods, the contemporary understanding is that Mur may have been a Celestial. (Unlocked by asking [Theadre](Theadre.md) if Mur could be a Celestial)
+-   As with many Gods, the contemporary understanding is that Mur may have been a Celestial. (Unlocked by asking Theadre if Mur could be a Celestial)
 -   Andros said they hadn't seen any accounts of Mur outside of the Etrean Luminant.
 
 #### The Sovereign Drallis Ehr
@@ -145,6 +153,13 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as Lumen continues to slip further and further into the Depths below.
 
 ### Places
+
+#### The Luminants
+
+-   Akin to continents, the Luminants are the remaining regions of Lumen that haven't been claimed by the Voidsea.
+-   In a sense, the Luminants and their safe waters are islands into their own, with each Luminant separated from one-another by the Void.
+-   In order to secure safe passage through the Voidsea, the work of a Lightkeeper is required.
+-   Today, there are broadly considered to be 5 Luminants: the Eastern, Western, Northern, Southern, and Central Luminants. In the Old World, the Luminants were larger and more numerous.
 
 #### The Central Luminant
 
@@ -199,7 +214,14 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 #### The Vents, the Third Layer
 
 -   Said to be the inhospitable waste where the Drowned God Korilfiend resides.
--   Riddled with thermal vents and geysers that exude extreme temperature
+-   Riddled with thermal vents and geysers that exude extreme temperature \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+
+#### The Depths
+
+-   Beyond Lumen there is only the Depths, a vast and inconceivable expanse of fractured and convoluted space.
+-   The Depths is often thought to be structured in 'Layers', referring to the distinct regions of the Depths, with deeper layers holding to the conventions of reality ever more loosely.
+-   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the Third Layer without ever passing through the First and Second Layers. This being said, the typical routes established do generally follow this order.
+-   The way most individuals reach the Depths is through the effects of the Drowning.
 
 ### Time Periods
 
@@ -244,13 +266,6 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   The Citadel receives the majority of its funding from the Central Authority, a contribution that the Authority claims falls in line with their desire for global unity, and for a united front against the Depths.
 -   The widely used epick of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
-### The Depths
-
--   Beyond Lumen there is only the Depths, a vast and inconceivable expanse of fractured and convoluted space.
--   The Depths is often thought to be structured in 'Layers', referring to the distinct regions of the Depths, with deeper layers holding to the conventions of reality ever more loosely.
--   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the Third Layer without ever passing through the First and Second Layers. This being said, the typical routes established do generally follow this order.
--   The way most individuals reach the Depths is through the effects of the Drowning.
-
 ### The Eternal Gale, The Second Layer
 
 -   Said to be a snow-torn hellscape buffeted by the Winds of Ethiron, the Second Layer makes the First seem safe by comparison.
@@ -266,32 +281,10 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   The waters of the Heavens are known as the Nightsea.
 -   The former home of the [Celestials](Celestial.md).
 
-### The Luminants
-
--   Akin to continents, the [Luminants](Luminants.md) are the remaining regions of Lumen that haven't been claimed by the Voidsea.
--   In a sense, the [Luminants](Luminants.md) and their safe waters are islands into their own, with each Luminant separated from one-another by the Void.
--   In order to secure safe passage through the [Voidsea](Voidsea.md), the work of a Lightkeeper is required.
--   Today, there are broadly considered to be 5 [Luminants](Luminants.md): the Eastern, Western, Northern, Southern, and Central [Luminants](Luminants.md). In the Old World, the [Luminants](Luminants.md) were larger and more numerous.
-
-### The Suncross
-
--   The bringer of life and warmth to Lumen.
--   At night, the Suncross retreats into the Voidfog and its light dims, darkness falling over Lumen.
--   only mentioned once, in the soothsayers dialogue.
--   used as the dawnshots iron sight
-
 ### The Surface
 
 -   The half of Lumen in which you reside.
 -   The Surface is made up of the Luminants and the Voidsea that surrounds them.
-
-### Lightkeeper
-
--   Stationed in Lighthouses at the edges of Luminants, these rare individuals are capable of Illuminating a path through the Voidsea, forcing it to retreat.
--   A scant few are born with the Gift of Lightkeeping, with each individual bearing the heavy responsibility of driving back the Void to enable the transportation and exchange of goods, information, and people.
--   Lightkeepers are afforded little freedom, when spending their lives wasting away in their Lighthouses guarded by a legion of soldiers
--   A nation's economy rests on its Lightkeepers, with passage between the Luminants being strictly controlled and tariffed by the few that have Lightkeepers in their retinue.
--   The Radiant Tones utilized by adherents of the Dawnwalker Oath are based on research into Lightkeeping, though are incapable of illuminating the Void.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Kressa
-revid: 145218
+revid: 150518
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -38,7 +38,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant]
   <td colspan="12">Not really, I was just curious about what's troubling you.</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*Her expression deflates.*</i> Oh. Well. We have resource teams dispatched across the Luminant gathering minerals and natural resources for our various research projects. However, as of late, they repeatedly keep having troubles on the water. It makes me wonder if something more... deliberate is going on.</td>
+  <td colspan="12"><i>*Her expression deflates.*</i> Oh. Well. We have resource teams dispatched across the <a href="Glossary.md#the-luminants">Luminant</a> gathering minerals and natural resources for our various research projects. However, as of late, they repeatedly keep having troubles on the water. It makes me wonder if something more... deliberate is going on.</td>
 </tr>
 <tr>
   <td colspan="12">Do you think there's someone sabotaging the shipments?</td>
@@ -56,7 +56,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant]
   <td colspan="12">An organized criminal ring sounds interesting.</td>
 </tr>
 <tr>
-  <td colspan="12">In this Luminant, the only reliable source of mercenary work is the Knives of Elyis. It has to be them. They have no sense of morality or alignment, they do what they're hired to do. They could be paid by the Authority to sabotage Etrean ships, and then on the same day be paid by Etrea to do the same to the Authority. It's all the same to them, it's just mercenary work. Stupid, awful war economy...</td>
+  <td colspan="12">In this <a href="Glossary.md#the-luminants">Luminant</a>, the only reliable source of mercenary work is the Knives of Elyis. It has to be them. They have no sense of morality or alignment, they do what they're hired to do. They could be paid by the <a href="Glossary.md#the-central-authority">Authority</a> to sabotage Etrean ships, and then on the same day be paid by Etrea to do the same to the <a href="Glossary.md#the-central-authority">Authority</a>. It's all the same to them, it's just mercenary work. Stupid, awful war economy...</td>
 </tr>
 <tr>
   <td colspan="6"><b>Player is Voidwalker</b></td>

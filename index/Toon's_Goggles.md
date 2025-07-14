@@ -1,6 +1,6 @@
 ---
 title: "Toon's Goggles"
-revid: 138504
+revid: 150564
 source: https://deepwoken.fandom.com/wiki/Toon's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Face, Goggles, Developer Spec, Developer Specs, Items]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Face |
 | rarity | Common |
-| selling price | 7 |
+| selling price | N/A |
 | requirements | None |
 | weight | 0.5 |
 | innate stats | +50 Health+25 Ether |

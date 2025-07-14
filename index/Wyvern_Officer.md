@@ -1,6 +1,6 @@
 ---
 title: Wyvern Officer
-revid: 88088
+revid: 150475
 source: https://deepwoken.fandom.com/wiki/Wyvern_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Exclusive Outfits, Outfits]
@@ -10,7 +10,18 @@ notices:
 
 # Wyvern Officer
 
-Template:ArmorInfobox**Wyvern Officer** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+| Wyvern Officer | |
+|---|---|
+| caption | Crafted from the scales of the extinct Wyverns, this armor is forged for the members of the Wyvern Brotherhood |
+| tier | Unique (Spec/Mod) |
+| bankable | Yes |
+| droppable | Yes |
+| durability | ???? |
+| resistances | ???? |
+| selling_price | 10 |
+| weight | 1 |
+
+**Wyvern Officer** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Trivia
 

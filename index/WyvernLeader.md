@@ -1,6 +1,6 @@
 ---
 title: WyvernLeader
-revid: 83112
+revid: 150474
 source: https://deepwoken.fandom.com/wiki/WyvernLeader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Exclusive Outfits, Outfits]
@@ -10,7 +10,17 @@ notices:
 
 # WyvernLeader
 
-Template:ArmorInfobox**WyvernLeader** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+| WyvernLeader | |
+|---|---|
+| tier | Unique (Spec/Mod) |
+| bankable | Yes |
+| droppable | Yes |
+| durability | ???? |
+| resistances | ???? |
+| selling_price | 10 |
+| weight | 1 |
+
+**WyvernLeader** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Trivia
 

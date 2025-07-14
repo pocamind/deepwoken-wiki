@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 150353
+revid: 150524
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -50,7 +50,7 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of 
   <td colspan="4">Mum lived in the Isles in her youth, surrounded by this deeply extensive family that I could only dream of. It's all she ever spoke about. The festivities, the meals, the dances, all shared together. She'd gush on and on about stories of whatever mischievous antics she and her thrice-removed cousins got up to, or some gossip about the tales of some estranged Aunt. But as she grew older, so did her memory. Her brow would just... furrow... and her lips would purse, telling fewer details of each story, fading, muddling.</td>
 </tr>
 <tr>
-  <td colspan="2">Why'd she the isles leave to come here? [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
+  <td colspan="2">Why'd she the Isles leave to come here? [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
   <td colspan="2">Festivities?</td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of 
   <td colspan="2">Hikes? To where?</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*The Chrysid grins, giggling.*</i> I know you probably don't care, but she did miss the furniture. Lovely hand-woven stuff. She always<p>complained about how brittle and tough everything is here. That and the weather, of course. Always had something to say about the weather...</p></td>
+  <td colspan="2"><i>*The Chrysid grins, giggling.*</i> I know you probably don't care, but she did miss the furniture. Lovely hand-woven stuff. She always complained about how brittle and tough everything is here. That and the weather, of course. Always had something to say about the weather...</td>
   <td colspan="2">I'm not entirely sure... I think they'd go to these huge underground chambers, where they held religious readings and dances... I think. The people in charge of their government-thing parading their knowledge. Making offerings to something she'd never get a peep of through the absolutely manic crowds. Mum would always refuse to tell me about what happened at the end of them... but no loss. It all sounds rather overwhelming to me, I think I'd be staying home anyway.</td>
 </tr>
 <tr>

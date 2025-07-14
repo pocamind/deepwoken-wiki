@@ -1,6 +1,6 @@
 ---
 title: White Mod Suit
-revid: 133325
+revid: 150493
 source: https://deepwoken.fandom.com/wiki/White_Mod_Suit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Spec/Mod Outfits]
@@ -10,13 +10,25 @@ notices:
 
 # White Mod Suit
 
-Template:ArmorInfobox**White Mod Suit** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+| White Mod Suit | |
+|---|---|
+| caption | Fashioned after the Dragon of Dojima. |
+| tier | Unique (Spec/Mod) |
+| stat_req | None |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 100 |
+| obtainment | Purchased directly from the Mod Shop. |
+| selling_price | 10 |
+| weight | 1 |
+
+**White Mod Suit** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and has no [Power Level](Power.md) or [Attribute](Attributes.md) requirement.
+This Outfit costs 0 and has no [Power Level](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 

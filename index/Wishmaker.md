@@ -1,6 +1,6 @@
 ---
 title: Wishmaker
-revid: 129728
+revid: 150488
 source: https://deepwoken.fandom.com/wiki/Wishmaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
@@ -10,7 +10,22 @@ notices:
 
 # Wishmaker
 
-Template:ArmorInfobox**Wishmaker** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+| Wishmaker | |
+|---|---|
+| caption | The signature outfit of Wishmakers, a group of Lightborn sorcerers now lost to time. |
+| tier | Unique (Spec/Mod) |
+| price | 30 |
+| stat_req | Power Level 15 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 4000 |
+| resistances | +35% Physical Armor, +35% Elemental Armor, +25% Shadow Armor |
+| buffs | +100% Ether Regen |
+| talents | Crippling Darkness |
+| selling_price | 10 |
+| weight | 1 |
+
+**Wishmaker** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Trivia
 

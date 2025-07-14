@@ -1,0 +1,59 @@
+---
+title: Whaling Knife
+revid: 150495
+source: https://deepwoken.fandom.com/wiki/Whaling_Knife
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
+---
+
+# Whaling Knife
+
+| Whaling Knife | |
+|---|---|
+| alloyed name | Template:AlloyedColor |
+| type | Dagger |
+| requirements | 40 / Template:AlloyedColor LHT |
+| damage | 15 |
+| scaling | LHT: 5 / Template:AlloyedColor |
+| range | 6 |
+| swing speed | 1.25x |
+| penetration | Template:AlloyedColor |
+| special effect | Has a unique critical attack consisting of a single forward slash with a red trail. |
+| stances | 1 Handed |
+| selling price | 25 / 50 |
+| weight | 4 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Knives of Eylis Events, Rook Rethige, Duke Ishamon Erisia, Deep Widow, Primadon, Titan of the East, Moon's Eyrie, Lodestar, Layer 1, Interluminary Parasol, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Scion of Ethiron, Bought from Traan Zakshun for 300 Template:AlloyedColor, Alloying a Whaling Knife, Primadon, Titan of the East (Rare Chance), Heart of Enmity, The Doom of Caeranthil |
+| description | "The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'." |
+
+## Description
+
+The Whaling knife is a midgame dagger type weapon. It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md) And [Duke Erisia](Duke_Ishamon_Erisia.md). It is also able to be upgraded with the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
+
+### Damage
+
+**For the non-alloyed version**:
+
+-   Meeting the LHT requirement for this weapon will make it deal 17.3 damage.
+    -   At max LHT, it will deal 20.6 damage.
+
+**For the [alloyed](Pluripotent_Alloy.md) version**:
+
+-   Metting the LHT requirement for this weapon will make it deal 21.8 damage.
+    -   At max LHT, it will deal 24 damage.
+
+## Critical
+
+The user rushes forward while preforming a horizontal slash forward, the aforementioned slash having a red trail.
+
+## Trivia
+
+-   It is the standard weapon of members of [The Knives of Eylis](The_Knives_of_Eylis.md).
+    -   The name references the other nickname of The Knives of Eylis, that being The Whalers.
+-   Available on the Roblox catalog as a [waist accessory](https://www.roblox.com/catalog/14542129946/Whaling-Knife).
+-   The critical formerly benefitted from the Talent _Knife's Journey_, which had a 30% chance to deal 1.2x, signified by red sparks on hit. Having the Talent stacked the chance to 40%.
+-   The model of this weapon is an exact copy of [Sting](https://lotr.fandom.com/wiki/Sting), a blade from _[the Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)_.
+-   Despite it's name, Whales (or any mammals for that matter) do not exist in the game.
