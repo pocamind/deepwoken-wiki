@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 131025
+revid: 150729
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:The Depths (First Layer), Fishing, War Mode |
+| obtainment | Chests from:The Depths (First Layer), Fishing, War Mode, Primadon |
 | description | "..." |
 
 ## Description

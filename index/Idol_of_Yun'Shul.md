@@ -1,0 +1,38 @@
+---
+title: "Idol of Yun'Shul"
+revid: 150701
+source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Relics, Items]
+---
+
+# Idol of Yun'Shul
+
+| Idol of Yun'Shul | |
+|---|---|
+| type | Treasure |
+| rarity | Relic |
+| selling price | 200 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Duke Erisia, First Layer + Hell Mode (Brown Chests), Fishing, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, The Diluvian Mechanism, First Layer, War Mode, The Ferryman, Etris: Siege, Lysander Spellhardt, Weird Trader, Heart of Enmity, The Understrand (Only from chests), Lodestar (Very rare), Sold in Traan Zakshun's black market for |
+| description | "An idol utilised in rituals to call forth the Voice of Yun'Shul." |
+
+## Description
+
+The **Idol of Yun'shul** is a ritual idol and [Relic](Relics.md) connected to the Drowned God Yun’Shul, that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). _(one-time use, re-obtainable)_
+
+## Trivia
+
+-   You can hold more than one of this item.
+-   Upon usage for bell rerolling, you'll obtain the Tarnished flaw.
+    -   You cannot use an Idol of Yun'Shul to bell reroll until you untarnish yourself.
+-   Can't be used in Combat. Dialogue appears saying "The Idol won't respond to a panicked heart."
+-   Cannot be used for [Oathbreaker](https://deepwoken.fandom.com/wiki/Oaths#Oathbreaker_-_Oath_Removal)
+-   Cannot be used to talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) for [Contractor](Oath%253A_Contractor.md) Progression
+-   Cannot be used to talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) to attain [Soulbreaker](Oath%253A_Soulbreaker.md)
+-   It functions without the need of a Resonance, but will not provide you one.
+-   Cannot be used to escape the depths in [Layer 2](Second_Layer.md) or in [Fragments of Self](Fragments_of_Self.md).
+-   the item it self has been added and removed from [The Ferryman](The_Ferryman.md) loot pool multiple times

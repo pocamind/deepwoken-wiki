@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 148807
+revid: 150709
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -12,7 +12,7 @@ categories: [Relics, Items]
 |---|---|
 | type | Treasure |
 | rarity | Relic |
-| selling price | 100 |
+| selling price | 250 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

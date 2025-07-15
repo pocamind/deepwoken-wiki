@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 150619
+revid: 150758
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -24,12 +24,14 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, First Layer, Duke Erisia, Primadon, Maestro Evengarde Rest, Chaser, War Mode, Bought from Traan Zakshun for 300 , Lodestar, Dread Serpent, Heart of EnmityTemplate:AlloyedColor, Alloying an Adretian Axe, Dread Serpent, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Lodestar |
+| obtainment | Fort Merit, First Layer, Duke Erisia, Maestro Evengarde Rest, Chaser, War Mode, Bought from Traan Zakshun for 300 , Lodestar, Dread Serpent, Heart of EnmityTemplate:AlloyedColor, Alloying an Adretian Axe, Dread Serpent, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Lodestar |
 | description | A bound axe in the typical Adretian fashion. |
 
 ## Description
 
-The Adretian Axe is a [Heavy Weapon](Weapons.md) of the Greataxe category. It can be obtained through the [Fort Merit](Fort_Merit.md) Etrean Rescue quest. Its stats and requirements are similar to the [Canorian Axe](Canorian_Axe.md) and it can also be alloyed.
+The Adretian Axe is a [Heavy Weapon](Weapons.md) of the Greataxe category.
+
+This weapon can be [Alloyed](Pluripotent_Alloy.md), granting it increased stats, making this weapon viable for endgame content. Additionally, the alloy changes the weapon's appearance, granting it a purple hue.
 
 ## Trivia
 
@@ -37,5 +39,5 @@ The Adretian Axe is a [Heavy Weapon](Weapons.md) of the Greataxe category. It ca
     -   Meeting the alloyed requirement, the damage is (34.8)
 -   At max HVY, the non-alloyed damage is (37.4)
     -   At max HVY, the alloyed damage is (38.4)
+-   Its stats and requirements are similar to [Canorian Axe](Canorian_Axe.md).
 -   Went from a tool of mass destruction to a budget [Iron Birch](Iron_Birch.md) in one update, then went from being a budget [Iron Birch](Iron_Birch.md) to objectively one of the best Heavy weapons in another.
--   Named after the [Adret](Adret.md) [Aspect](Aspects.md).

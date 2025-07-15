@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 150460
+revid: 150704
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Central Authority]
@@ -8,7 +8,7 @@ categories: [Armors, Items, Outfits, Adept Outfits, The Central Authority]
 
 # Authority Peacekeeper Armor
 
-| Authority Peacekeeper Armour | |
+| Authority Peacekeeper Armor | |
 |---|---|
 | caption | The durable battle armour of an Adretian soldier. The armour is specially forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile armour plate. |
 | tier | Adept |

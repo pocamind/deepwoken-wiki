@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 149688
+revid: 150727
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Starswept Valley, Duke Ishamon Erisia, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, War ModePurchased from:, Merchant Ships |
+| obtainment | Chests from:, Aratel Island, Starswept Valley, Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, War ModePurchased from:, Merchant Ships |
 | description | "..." |
 
 ## Description

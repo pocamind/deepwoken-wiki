@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 150311
+revid: 150765
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -10,15 +10,19 @@ categories: [Items, Relics, Layer 2]
 
 | Enchant Stone | |
 |---|---|
-| value | 200 |
-| weight | N/A |
 | type | Relic |
+| rarity | Mythical |
+| selling price | 200 |
 | bankable | Yes |
 | droppable | Yes |
-| pass down | No |
-| desc | "A shard of enchantment, it can apply its given Enchant to your currently equipped weapon" |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Purchasing from Klaris Llfiend for, Deepshore Fossil, Saramaed Hollow, The Diluvian Mechanism, Second Layer, Maestro Evengarde Rest, Chaser, Heart of Enmity, Scion of Ethiron, War Mode, Hell Mode |
+| description | "A shard of enchantment, it can apply its given Enchant to your currently equipped weapon" |
 
-The **Enchant Stone** is a mythical-tier item that can be used to apply an [Enchantment](Enchantments.md) to your currently equipped weapon. Each stone is imbued with a random enchant or curse. When used, an option will appear to confirm if this is the weapon you wish to enchant and soulbind. After usage, an animation will play and the enchant stone will disappear from the inventory. Your current weapon will receive the enchantment provided by the enchant stone. This can also be used to re-roll enchants on already enchanted weapons
+## Description
+
+The **Enchant Stone** is a mythical-tier [Relic](Relics.md) that can be used to apply an [Enchantment](Enchantments.md) to your currently equipped weapon. Each stone is imbued with a random enchant or curse. When used, an option will appear to confirm if this is the weapon you wish to enchant and soulbind. After usage, an animation will play and the enchant stone will disappear from the inventory. Your current weapon will receive the enchantment provided by the enchant stone. This can also be used to re-roll enchants on already enchanted weapons
 
 ## Obtainment
 

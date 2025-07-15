@@ -1,6 +1,6 @@
 ---
 title: Enchant Grease
-revid: 150204
+revid: 150766
 source: https://deepwoken.fandom.com/wiki/Enchant_Grease
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -10,15 +10,19 @@ categories: [Items, Relics, Layer 2]
 
 | Enchant Grease | |
 |---|---|
-| value | 200 |
-| weight | N/A |
 | type | Relic |
+| rarity | Mythical |
+| selling price | 200 |
 | bankable | Yes |
 | droppable | Yes |
-| pass down | No |
-| desc | "An oil of enchantment: it can apply it's given Enchant to your Equipment." |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Sold by Klaris Llfiend for, Sold by Laplace for 5, The Diluvian Mechanism, War Mode, Second Layer (Galewax chamber) |
+| description | "An oil of enchantment: it can apply it's given Enchant to your Equipment." |
 
-The **Enchant Grease** is a mythical-tier item that can be used to apply an [Enchantment](Enchantments.md) to your currently held Equipment. Each vial is imbued with a random enchant. When used, an option will appear to choose what Equipment item you wish to enchant, Once one is selected it will ask if this is the equipment you wish to enchant and soulbind. After usage, The enchant grease will disappear from the inventory. Your selected equipment will receive the enchantment provided by the enchant grease.
+## Description
+
+The **Enchant Grease** is a mythical-tier [Relic](Relics.md) that can be used to apply an [Enchantment](Enchantments.md) to your currently held Equipment. Each vial is imbued with a random enchant. When used, an option will appear to choose what Equipment item you wish to enchant, Once one is selected it will ask if this is the equipment you wish to enchant and soulbind. After usage, The enchant grease will disappear from the inventory. Your selected equipment will receive the enchantment provided by the enchant grease.
 
 ## Obtainment
 
@@ -37,5 +41,4 @@ Rain Enchant Grease is unique in that it has an exclusive obtainment method.
 -   You can use enchant grease on already enchanted equipment, it'll just switch the enchant.
 -   Enchant Grease is undroppable, but sells for 200 notes if for some reason you want to sell it
 -   You can pass down Enchant Grease through the [Hippocampal Pool](Hippocampal_Pool.md) for 60 [Echoes](Echoes.md).
-
 -   Enchant Grease was added in an update on 8/23/2024, Before this the only way to enchant equipment was to spend five [Kyrsan Medallions](Kyrsan_Medallions.md) at [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) whilst holding an equipment item.

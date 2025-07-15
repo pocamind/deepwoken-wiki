@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 147561
+revid: 150755
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -23,12 +23,12 @@ categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Multiple C
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Duke Ishamon Erisia, Heart of Enmity, Interluminary Parasol, The Doom of Caeranthil, Primadon, Titan of the East, Aelita, Lodestar, The Ferryman (Winter), Rogue Construct, Fishing, Fort Merit, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Scion of Ethiron, Meteor Isle, Voidsea, War Mode |
+| obtainment | Chests from:, Starswept Valley, The Depths, Duke Ishamon Erisia, Heart of Enmity, Interluminary Parasol, The Doom of Caeranthil, Aelita, Lodestar, The Ferryman (Winter), Rogue Construct, Fishing, Fort Merit, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Scion of Ethiron, Meteor Isle, Voidsea, War Mode |
 | description | "Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor." |
 
 ## Description
 
-The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 90 MED and Power 10 to equip.
+The Shattered Katana is an endgame [Medium](Weapons.md#medium-weapons) Katana.
 
 Taking scaling into account, it deals 29.45 damage at 90 MED. At 100 MED, it deals 30.5 damage. The "Paired Soul" Talent from the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits buffs its damage by 5%; this results in 30.92 damage at 90 MED and 32.02 damage at 100 MED.
 

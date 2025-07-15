@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 149678
+revid: 150752
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons, Items]
@@ -24,12 +24,12 @@ categories: [Weapons, Clubs, Medium Weapons, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker Wilds, Starswept Valley, Rogue Construct Chests, Primadon, Merchant Ships, Saramaed Hollow |
+| obtainment | Songseeker Wilds, Starswept Valley, Rogue Construct Chests, Merchant Ships, Saramaed Hollow |
 | description | "..." |
 
 ## Description
 
-The **Sacred Hammer** is a medium blunt weapon found in the [Songseeker Wilds](Songseeker_Wilds.md), [Starswept Valley](The_Starswept_Valley.md), and [the Monkey's Paw](<The_Monkey's_Paw.md>) from the [Primadon](Primadon,_Titan_of_the_East.md). It can be considered the endgame version of the [Mace](Mace.md). It requires 65 points in the Medium Weapon stat to be used and has a base damage of 19.5.
+The **Sacred Hammer** is a bulky medium blunt hammer. It can be considered the endgame version of the [Mace](Mace.md).
 
 ## Trivia
 

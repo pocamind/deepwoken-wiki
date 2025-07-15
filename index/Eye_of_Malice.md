@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 144983
+revid: 150740
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -47,6 +47,7 @@ The Eye of Malice's critical makes the user jump and thrust the weapon in front 
     -   Range = 10 > 10.5
     -   Swingspeed = 1.00x > 0.95x
 -   This sword resembles the 'Spinal Tap' from Terraria.
+-   Could also be Astolfo's weird chain sword thing that's name could possibly be Volcano Caligorante.
 -   This sword was nerfed on January 4th, 2025.
     -   Damage = 21 > 20
     -   Crit damage was reduced

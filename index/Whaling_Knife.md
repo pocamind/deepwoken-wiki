@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 150495
+revid: 150749
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
@@ -26,24 +26,14 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, L
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Knives of Eylis Events, Rook Rethige, Duke Ishamon Erisia, Deep Widow, Primadon, Titan of the East, Moon's Eyrie, Lodestar, Layer 1, Interluminary Parasol, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Scion of Ethiron, Bought from Traan Zakshun for 300 Template:AlloyedColor, Alloying a Whaling Knife, Primadon, Titan of the East (Rare Chance), Heart of Enmity, The Doom of Caeranthil |
+| obtainment | Chests from:, Knives of Eylis Events, Rook Rethige, Duke Ishamon Erisia, Deep Widow, Moon's Eyrie, Lodestar, Layer 1, Interluminary Parasol, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Scion of EthironBought from Traan Zakshun for 300 Template:AlloyedColor, Alloying a Whaling Knife, Primadon, Titan of the East (Rare Chance), Heart of Enmity, The Doom of Caeranthil |
 | description | "The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'." |
 
 ## Description
 
-The Whaling knife is a midgame dagger type weapon. It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md) And [Duke Erisia](Duke_Ishamon_Erisia.md). It is also able to be upgraded with the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
+The Whaling knife is a midgame dagger type weapon.
 
-### Damage
-
-**For the non-alloyed version**:
-
--   Meeting the LHT requirement for this weapon will make it deal 17.3 damage.
-    -   At max LHT, it will deal 20.6 damage.
-
-**For the [alloyed](Pluripotent_Alloy.md) version**:
-
--   Metting the LHT requirement for this weapon will make it deal 21.8 damage.
-    -   At max LHT, it will deal 24 damage.
+This weapon can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and requirements, turning the Whaling Knife into an endgame weapon. This also changes its appearance, granting it a green hue.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 150653
+revid: 150730
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -26,6 +26,7 @@ categories: [Equipment, Rings]
 -   [The Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Summer Isle](Summer_Isle.md)

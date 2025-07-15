@@ -1,6 +1,6 @@
 ---
 title: "Troublemaker's Overcoat"
-revid: 150553
+revid: 150722
 source: https://deepwoken.fandom.com/wiki/Troublemaker's_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -19,7 +19,7 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 | droppable | Yes |
 | durability | 2500 |
 | resistances | +20% Elemental Armor, +25% Physical Armor |
-| obtainment | Chests from:, Moon's Eyrie, The Doom of Caeranthil, First Layer, Interluminary Parasol |
+| obtainment | Chests from:, Moon's Eyrie, The Doom of Caeranthil, First Layer, Interluminary Parasol, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |
 

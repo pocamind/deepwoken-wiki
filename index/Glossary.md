@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 150517
+revid: 150716
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -118,6 +118,10 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   Beyond the histories told by the Citadel, little is known about the man himself. His identity is one of the most enduring mysteries of the era.
 -   Some sceptics believe that the identity of the Sovereign is actually passed down in secret, and that the supposed immortality of its ruler is propaganda designed to suppress resistance.
 
+#### The Lady Confessor
+
+-   The mysterious leader of the Lullaby Isles, where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the East suggest a sense of great reverence and sincerity towards her decrees.
+
 ### Objects of Interest
 
 #### The Moonseye
@@ -223,6 +227,10 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the Third Layer without ever passing through the First and Second Layers. This being said, the typical routes established do generally follow this order.
 -   The way most individuals reach the Depths is through the effects of the Drowning.
 
+#### The Echelon
+
+-   A sprawling metropolis upon a central island in the Lullaby Isles archipelago. The centre of activity for scholars, religious figureheads, and the Counsell. A bustling complex of archives and residences for those who live within. Notable for its pristine sandstone architecture, punctuated by elegant frescoes.
+
 ### Time Periods
 
 #### The Old World
@@ -279,7 +287,7 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 
 -   The other half of Lumen, an inverted dome suspended above the Surface.
 -   The waters of the Heavens are known as the Nightsea.
--   The former home of the [Celestials](Celestial.md).
+-   The former home of the Celestials.
 
 ### The Surface
 

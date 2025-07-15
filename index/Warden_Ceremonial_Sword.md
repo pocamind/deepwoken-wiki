@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 150698
+revid: 150744
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons of The Cent
 
 ## Description
 
-The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained from chests in [Fort Merit](Fort_Merit.md), [The Duke](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md). Its critical is a dash followed by a wide slash, similar to the [Prominence Draw mantra](Attunement-less.md).
+The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained from chests in [Fort Merit](Fort_Merit.md), [The Duke](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md). Its critical is a dash followed by a wide slash, similar to the [Prominence Draw](Attunement-less.md#prominence-draw) Mantra.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 149686
+revid: 150760
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -23,12 +23,12 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa (chests), Starswept Valley (chests), Depths (chests), Primadon, Chime of Conflict, Merchant Ships, Fishing (Brown chests), Aelita, The Ferryman (Winter) |
+| obtainment | Minityrsa (chests), Starswept Valley (chests), Depths (chests), Chime of Conflict, Merchant Ships, Fishing (Brown chests), Aelita, The Ferryman (Winter) |
 | description | "The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes." |
 
 ## Description
 
-The Iron Birch is a [Heavy Weapon](Weapons.md) that is obtainable from [Minityrsa](Minityrsa.md), the [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), [Primadon](Primadon,_Titan_of_the_East.md) Chests, Or bought from a [Merchant Ship](Travelling_Merchant.md). Considered one of the best heavy weapons due to it's unusually high swing speed, lack of endlag, and overall good damage.
+The Iron Birch is a [Heavy](Weapons.md) axe. This weapon is considered one of the best heavy weapons due to it's unusually high swing speed, lack of endlag, and overall good damage.
 
 Meeting the requirement of HVY, the damage is (**33.1**)  
 At max HVY, the damage is (**38.4**)

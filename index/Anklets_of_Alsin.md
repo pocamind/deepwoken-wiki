@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 150625
+revid: 150748
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -24,12 +24,12 @@ categories: [Weapons, Fists, Light Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Chaser, Fishing, Deep Widow, Lodestar, Primadon, Interluminary Parasol, The Depths, Starswept Valley, Maestro Evengarde Rest, Heart of Enmity, Fort Merit Hostage Quest, Voidwalker Bounty Chest, Scion of Ethiron, Other sources:, Direct drop from Dread Serpent |
+| obtainment | Chests from:, Duke Erisia, Chaser, Fishing, Deep Widow, Lodestar, Interluminary Parasol, The Depths, Starswept Valley, Polis, Maestro Evengarde Rest, Heart of Enmity, Fort Merit Hostage Quest, Voidwalker Bounty Chest, Scion of Ethiron, Other sources:, Direct drop from Dread Serpent |
 | description | [REQUIRES A KICK STYLE] |
 
 ## Description
 
-The Anklets of Alsin are a light weapon that can be found in all [Depths](The_Depths.md) Chests, [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) chests, [Fort Merit](Fort_Merit.md) chests, [Deep Widow's](Deep_Widow.md) chests, [Primadon's](Primadon,_Titan_of_the_East.md) chests, [Dread Serpent](Dread_Serpent.md) (direct drop), [Fishing](Fishing.md) Chests (rare), [Duke's](Duke_Ishamon_Erisia.md) chest, and [Voidwalkers](Origins.md#voidwalker) bounty chests. It is also dropped from killing [Polis](Polis.md). As of now, the only Kick Style is [Jus Karita](Jus_Karita.md).
+The Anklets of Alsin are a pair of light weapon anklets, used with the [Jus Karita](Jus_Karita.md) fighting style.
 
 ## Trivia/Notes
 

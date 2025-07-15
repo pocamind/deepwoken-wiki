@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 150287
+revid: 150732
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -14,7 +14,7 @@ Template:Creature Infobox V3
 
 The Gaunt Man is a tall and pale NPC that resides in the depths that gives access to some new endgame content and items.
 
-To get access to the shop you must finish [The Vat](The_Vat.md) The shop is relatively expensive, with 3 new enchants, A new deep gem, And a new dungeon that contains 2 new mobs referred to as a [Prime Megalodaunt](Prime_Megalodaunt.md) and [Parliament](Parliament.md) (marked as a boss).
+To get access to the shop you must finish [The Vat](The_Vat.md). The shop is relatively expensive, with 3 new enchants, A new deep gem, And a new dungeon that contains 2 new mobs referred to as a [Prime Megalodaunt](Prime_Megalodaunt.md) and [Parliament](Parliament.md) (marked as a boss).
 
 ## Dialogue
 
