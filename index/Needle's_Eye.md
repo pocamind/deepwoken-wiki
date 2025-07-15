@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 150767
+revid: 150865
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons, Items]
@@ -18,7 +18,7 @@ categories: [Weapons, Rapiers, Light Weapons, Items]
 | swing speed | 1.05x |
 | penetration | 15% |
 | stances | 1 Handed |
-| weight | 5.5 |
+| weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

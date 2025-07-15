@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 150456
+revid: 150811
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Central Authority]
@@ -19,7 +19,7 @@ categories: [Armors, Items, Outfits, Expert Outfits, The Central Authority]
 | droppable | Yes |
 | durability | 2000 |
 | resistances | +30% Physical Armor, +25% Elemental Armor |
-| obtainment | Chests from:, Fort Merit, The Depths, Moon's Eyrie, Primadon, Sold by Traan Zakshun |
+| obtainment | Chests from:, Fort Merit, The Depths, Moon's Eyrie, Sold by Traan Zakshun |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -45,7 +45,6 @@ This Outfit's Schematic can be found:
 -   [Fort Merit](Fort_Merit.md)
 -   [The Depths](The_Depths.md)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 
 ## Trivia
 

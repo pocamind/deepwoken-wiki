@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Scarf
-revid: 144038
+revid: 150795
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Scarves]
@@ -21,12 +21,12 @@ categories: [Items, Equipment, Torso, Scarves]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Primadon, Titan of the East, Miner's Landing, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Chaser, Scholar of the Crimson Contract |
+| obtainment | Miner's Landing, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Chaser, Scholar of the Crimson Contract |
 | description | "..." |
 
 ## Description
 
-The Sandrunner Scarf is an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests on [Miner's Landing](<Miner's_Landing.md>).
+The Sandrunner Scarf is an [Equipment](Equipment.md) item under the "Torso" category.
 
 ## Trivia
 

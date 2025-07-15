@@ -1,9 +1,9 @@
 ---
 title: Krulian Knife
-revid: 149673
+revid: 150869
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals, Light Weapons, Pages with broken file links]
+categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals, Light Weapons]
 ---
 
 # Krulian Knife
@@ -41,8 +41,5 @@ This attack has 30 base damage with **5 Thundercall** scaling, increasing by 0.1
 ## Trivia
 
 -   This blade's appearance is a reference to one of many Ben's Knives, from the Anime "Hunter x Hunter".
--   The Krulian Knife's critical is currently bugged, where it will go on an infinite cooldown after Krulian Charge expires, despite the effect lingering in its cooldown bar.[\[1\]](#cite-note-1)
 -   Meeting the requirement of LHT, the damage is (19.9)
 -   At max LHT, the damage is (22.3)
-
-1.  [↑](#cite-ref-1) File:Indefinite Cooldown.png

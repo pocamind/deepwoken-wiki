@@ -1,6 +1,6 @@
 ---
 title: "Chef's Toque"
-revid: 138693
+revid: 150916
 source: https://deepwoken.fandom.com/wiki/Chef's_Toque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Head]
@@ -26,7 +26,9 @@ categories: [Items, Equipment, Head]
 
 ## Description
 
-The Chef's Toque is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants you 10 Health, one guaranteed Legendary Pip, and the [Talent](Talents.md) Gourmand and the unique equipment Talent Umami, which gives a hunger steal effect when using the respective chef weapons. It is found exclusively in chests from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest.
+The Chef's Toque is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants you 10 Health, one guaranteed Legendary Pip, and the [Talent](Talents.md) Gourmand and the unique equipment [Talent](Talents.md#equipment-talents) _Umami_. It is found exclusively in chests from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest.
+
+Umami grants a chance for all chef weapons ([Long Tong of The Law](The_Long_Tong_of_The_Law.md), [Pastry Paster](The_Pastry_Paster.md), and [Flippers of Fate](The_Flippers_of_Fate.md)) as well as [Fondant Splitter](Fondant_Splitter.md) to steal hunger from your opponent on hit. This chance is ~10% with a cooldown on proc.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 150275
+revid: 150883
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -299,7 +299,7 @@ You and the caster are unable to cast Mantras for a duration. Applied through th
 
 ### Void
 
-While under the effects of Void, you have anti-heal and perishing will send you to [The Depths](The_Depths.md) regardless of if your healthbar is stained or not. Applied by being in a [Voidzone](Voidzones.md) or for 15 seconds after being hit by a weapon with the [Void](Curse_of_Void.md) enchantment. Anti-heal does not stack with other sources of anti-heal, the higher potency effect takes priority. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. The Void enchantment has no visual effect.
+While under the effects of Void, you have anti-heal and perishing will send you to [The Depths](The_Depths.md) regardless of if your healthbar is stained or not. Applied by being in a [Voidzone](Voidzones.md) or for 15 seconds after being hit by a weapon with the [Curse of Void](Curse_of_Void.md) enchantment. Anti-heal does not stack with other sources of anti-heal, the higher potency effect takes priority. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. The Void enchantment has no visual effect.
 
 ### Anti-Heal
 

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 150386
+revid: 150872
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1318,7 +1318,7 @@ Possession
 
  | 
 
-After an apparition hits an enemy, receive 30% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration
+After an apparition hits an enemy, receive 15% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration
 
  | 
 

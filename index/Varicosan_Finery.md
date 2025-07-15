@@ -1,6 +1,6 @@
 ---
 title: Varicosan Finery
-revid: 150542
+revid: 150817
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | durability | 1500 |
 | resistances | +20% Physical Armor, +20% Elemental Armor |
 | talents | Benefactor |
-| obtainment | First Layer, Primadon, The Diluvian Mechanism, Moon's Eyrie, Sea Events, Bought from Nyanna and Traan Zakshun for 200 |
+| obtainment | First Layer, The Diluvian Mechanism, Moon's Eyrie, Sea Events, Bought from Nyanna and Traan Zakshun for 200 |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -31,7 +31,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 This Outfit costs 100 and requires three (3) [Alestrian Coral](Alestrian_Coral.md), seven (7) Cloth, five (5) Fiber, five (5) [Irithine](Ores.md), and ten (10) Vibrant Gems.
 
-This Outfit requires [Power Level](Talents.md) 10.
+This Outfit requires [Power](Power.md) 10.
 
 ### _Armor Stats_
 

@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 150243
+revid: 150933
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Medium Weapons, Swords, Weapons with Unique Criticals]
@@ -12,13 +12,13 @@ categories: [Weapons, Items, Medium Weapons, Swords, Weapons with Unique Critica
 |---|---|
 | type | Sword |
 | requirements | 55 MED |
-| damage | 24 |
-| scaling | MED: 4.5 |
+| damage | 22 |
+| scaling | MED: 4.8 |
 | range | 8 |
 | swing speed | 1x |
 | special effect | Critical gains 10% more damage if landed on the opponent's back. |
 | stances | 2 Handed, 1 Handed |
-| weight | 7 |
+| weight | 5.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -42,4 +42,4 @@ The critical has a cooldown of **4 seconds**.
 
 -   This is part of the Saber weapon family, along with the [Officer Saber](Officer_Saber.md) and [Cavalry Saber](Cavalry_Saber.md).
 -   The critical has a very inconsistent hitboxes, often causing the critical's increased damage on backhit gimmick to not work at all.
--   The Scoundrel's Saber currently has a bug in which if you Alloy it, it will turn into an [Alloyed Officer Saber](Officer_Saber.md#alloyed).
+-   Before the July 14th, 2025 update, the Scoundrel's Saber had a bug on release, where if you \[\[Pluripotent Alloy|Template:AlloyedColor\]\] it, it would turn into an [Alloyed Officer Saber](Officer_Saber.md#alloyed).

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 150141
+revid: 150777
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -2290,7 +2290,8 @@ _+Talent: Blade Dancer_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [Starfield Veldt](Starfield_Veldt.md)
 -   [War Mode](War_Mode.md)
 
  | Black & White |
@@ -3101,7 +3102,6 @@ _+3 Posture_
 Found from:
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -3905,7 +3905,6 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
@@ -4100,7 +4099,6 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Lodestar](Lodestar.md)
 -   [War Mode](War_Mode.md)
@@ -4212,7 +4210,6 @@ Found from:
 -   [Fishing](Fishing.md)
 -   [Erisia](Erisia.md)
 -   [Brainsucker](Brainsucker.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 |  | 
@@ -4840,7 +4837,6 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -4957,7 +4953,6 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 
  | N/A |
@@ -4986,7 +4981,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Aelita](Aelita.md)
--   [Ferryman](The_Ferryman.md) (Winter)
+-   [The Ferryman](The_Ferryman.md) (Winter)
 
  | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 |  | 
@@ -5079,7 +5074,6 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -5138,7 +5132,7 @@ _+Talent: Elegy of Light_
 
 Sources:
 
--   [Ferryman](The_Ferryman.md) **(~1%)**
+-   [The Ferryman](The_Ferryman.md) **(~1%)**
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
@@ -5464,7 +5458,6 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5536,7 +5529,6 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Lodestar](Lodestar.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 |  | 
@@ -5650,7 +5642,6 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
@@ -5832,7 +5823,7 @@ Variants
 
 Found from:
 
--   [Ferryman](The_Ferryman.md) (**100%**)
+-   [The Ferryman](The_Ferryman.md) (**100%**)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -5901,7 +5892,6 @@ Found from:
 Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -5995,7 +5985,6 @@ Found from:
 
 Found from:
 
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
@@ -6103,8 +6092,7 @@ Gives every weapon 1.2 Willpower scaling when equipped.
 Found from:
 
 -   [Aelita](Aelita.md) (**Extremely Rare**)
--   [Ferryman](The_Ferryman.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
@@ -6130,7 +6118,7 @@ Grants a 10% reduction to incoming armor damage.
 
 Found from:
 
--   [Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
@@ -6237,8 +6225,7 @@ Gives every weapon 1.2 strength scaling when equipped.
 
 Found from:
 
--   [Ferryman](The_Ferryman.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Deep Widow](Deep_Widow.md)
@@ -6297,7 +6284,7 @@ If using Eruption Path: Lava Serpent, eruption delay is reduced.
 
 Found from:
 
--   [Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
@@ -6355,7 +6342,7 @@ Found from:
 
 Found from:
 
--   [Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
@@ -6425,7 +6412,6 @@ Found from:
 Found from:
 
 -   [Mudskipper Cave](Lower_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Lodestar](Lodestar.md)
@@ -6450,7 +6436,6 @@ Makes your "M1" attack 10% slower but do 30% more posture damage.
 
 Found from:
 
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
@@ -6504,7 +6489,6 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Mudskipper Cave](Lower_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -6532,7 +6516,6 @@ _+2% Lightning Armor_
 Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -6562,7 +6545,7 @@ Gives every weapon 1.2 agility scaling when equipped.
 
 Found from:
 
--   [Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) **(Extremely Rare)**
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
@@ -6590,7 +6573,7 @@ Conceal your age, appearing as if you were younger than 40.
 
 Found from:
 
--   [Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [First Layer](First_Layer.md)
@@ -6622,7 +6605,6 @@ Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -6669,7 +6651,7 @@ Gives every weapon 1.2 charisma scaling when equipped.
 
 Found from:
 
--   [Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -6697,7 +6679,6 @@ Allows wearer to drink sea-water and acid without vomiting.
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
@@ -6798,9 +6779,8 @@ Double the amount of charges of Attunement Wisps.
 
 Found from:
 
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+-   [Etrea VS Eylis Sea Event](Random_Encounters.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -6827,8 +6807,7 @@ Gives every weapon 1.2 intelligence scaling when equipped.
 
 Found from:
 
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
@@ -6852,7 +6831,6 @@ Found from:
 Found from:
 
 -   [Mudskipper Cave](Lower_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 
@@ -6875,7 +6853,7 @@ Conceal your youth, appearing as if you were older than 40.
 Found from:
 
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -6908,7 +6886,6 @@ _+2% Wind Armor_
 Found from:
 
 -   [First Layer](First_Layer.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)

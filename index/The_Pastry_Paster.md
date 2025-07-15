@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 150159
+revid: 150942
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
@@ -27,7 +27,9 @@ categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
 
 ## Description
 
-The Pastry Paster is a Club with a very odd diversity of stat requirements: 70 MED, 15 CHA, 15 INT. It appears to be a rolling pin which is supposed to be in the kitchen, until you wielded it as a deadly weapon. The scaled damage at 100 MED, 100 CHA, and 100 INT and 6 Proficiency is 38.6.
+The Pastry Paster is a Club with a very odd diversity of stat requirements: 70 MED, 15 CHA, 15 INT. It appears to be a rolling pin which is supposed to be in the kitchen, until you wielded it as a deadly weapon.
+
+The Pastry Paster can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a chance to steal hunger from your opponent on hit.
 
 ## Critical
 
@@ -36,3 +38,4 @@ Wind up your rolling pin and strike your target, dealing very high posture damag
 ## Trivia
 
 -   The description, "anyone can cook, but only the fearless can be great." is a direct quote from Chef Gusteau from Pixar's [Ratatouille](https://disney.fandom.com/wiki/Ratatouille).
+-   The scaled damage at 100 MED, 100 CHA, and 100 INT and 6 Proficiency is 38.6.

@@ -1,6 +1,6 @@
 ---
 title: Nomad Pendant
-revid: 144032
+revid: 150793
 source: https://deepwoken.fandom.com/wiki/Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -26,4 +26,4 @@ categories: [Items, Equipment, Torso, Necklaces]
 
 ## Description
 
-The Nomad Pendant is an [Equipment](Equipment.md) item under the "Torso" category. It has a golden chain attached to an object that resembles a die, particularly a D20, except made with a glassy like finish. It is only obtainable at [Miner's Landing](<Miner's_Landing.md>), via the chests there.
+The Nomad Pendant is an [Equipment](Equipment.md) item under the "Torso" category. It has a golden chain attached to an object that resembles a die, particularly a D20, except made with a glassy like finish.

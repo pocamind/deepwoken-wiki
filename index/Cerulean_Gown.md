@@ -1,6 +1,6 @@
 ---
 title: Cerulean Gown
-revid: 148774
+revid: 150816
 source: https://deepwoken.fandom.com/wiki/Cerulean_Gown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Cerulean Gown** is a Expert [Outfit](Outfits.md) in _Deep
 
 ### _Requirements_
 
-This Outfit costs and requires fifteen (15) Cloth and Fiber, and one (1) [Megalodaunt Hide](Megalodaunt_Hide.md).
+This Outfit costs 200 and requires fifteen (15) Cloth and Fiber, and one (1) [Megalodaunt Hide](Megalodaunt_Hide.md).
 
 This Outfit requires [Power Level](Talents.md) 8.
 
@@ -33,4 +33,3 @@ This Outfit's Schematic can be found in:
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 -   [The Understrand](The_Understrand.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)

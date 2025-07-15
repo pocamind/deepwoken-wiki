@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 150643
+revid: 150875
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -930,11 +930,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"Those that step on my ice know that they have made a grave error."**_
 
--   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, freeze yourself, reducing incoming damage by 50% and dealing frost damage to attackers.
-    -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
-    -   ~33 second cooldown.
-    -   Prerequisites: Fragile Freeze, 20 Fortitude.
-
 -   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen.
     -   Prerequisites: [Ice Beam](Frostdraw.md#ice-beam) (Mantra), 60 Frostdraw.
     -   If the user has Crystallization, this Talent no longer freezes but instead causes crystals to explode.
@@ -1351,10 +1346,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Frost Forger
 
 > _**"I survive off the frozen Elements."**_
-
--   Glacial Finish \[Common Talent, Frostdraw Exclusive\] - Press F while using your Ice Smash Mantra to follow up with a devastating attack.
-    -   Activates off holding your block key during the windup of Ice Smash. It will not proc from holding F if you've changed your block/parry keybind.
-    -   Prerequisites: [Ice Smash](Frostdraw.md#ice-smash) (Mantra), 35 Frostdraw
 
 -   Glacial Mobility \[Common Talent, Frostdraw Exclusive\] - Cast while slide-jumping to perform a running attack with your ice sabers.
     -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.
@@ -1959,14 +1950,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.
     -   Prerequisites: Eruption Path: Lava Serpent, 55 Flamecharm
 
--   Molten Defence \[Common Talent, Flamecharm & Eruption Exclusive\] - Upon being block broken, you erupt. 30s cooldown.
-    -   Creates an Eruption below your opponent despite what the Talent description implies.
-    -   This Eruption deals 10 damage and has no scaling whatsoever.
-    -   This Eruption ignores the Eruption cooldown.
-    -   Molten Defence's Eruption does not benefit from any of your Flamecharm talents including The Floor is Lava and Empowered Eruption.
-    -   Weirdly enough, the color of this Eruption depends on whether or not your _opponent_ has Azure Flames; it'll be orange if they don't, and blue if they do.
-    -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
-
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
     
     -   Has scaling, but it barely exists.[\[3\]](#cite-note-3)
@@ -2191,13 +2174,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
     -   Chain of Perfection is applied to every slot after unlock, but it has a delay between the obtainment of it and it being applied to all slots
     -   Prerequisites: Power 2
-
--   _Lootskipper_ \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)
-    -   Increases the odds of the item with the lowest rate appearing.
-    -   This applies to the mob **DROP** and not the chest they spawn.
-    -   If the mob only has a singular drop, increase the odds of dropping said item.
-    -   If a mob has a large selection of drops, and the rarest scenario is no drops, lootskipper will increase the chance of nothing dropping (ex. Primadon drops Mantra modifiers more than nothing)
--   Prerequisites: None
 
 ### Ministry Prophet
 
@@ -3121,7 +3097,7 @@ _**"My cure is most effective."**_
 -   _Vanishing Wraith_ \[Rare Talent, Galebreathe Exclusive\] - Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target
     -   Prerequisites: Phantom Step, 60 Galebreathe
 
--   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 30% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
+-   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 15% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
     -   The posture damage boost activates from Inhaled M1s and Crits. If you are using [Wraithclaw](Wraithclaw.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md) or [Hero Blade of Wind](<Hero's_Blade_of_Wind.md>) (only critical) you don't have to inhale a mantra for it to take effect.
     -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
 
@@ -4026,7 +4002,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
--   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
+-   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 25% additional penetration.
     -   Gives [Way of Navae](Way_of_Navae.md) basic attacks have 25% more PEN. This does **NOT** apply to criticals.

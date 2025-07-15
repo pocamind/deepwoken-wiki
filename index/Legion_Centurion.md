@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 148781
+revid: 150878
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits, The Hundred Legions]
@@ -24,7 +24,7 @@ This Outfit has 3000 durability and grants +30% Physical resistance, +30% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 33.5% Galebreathe, 33.5% Thundercall, and 30% Elemental.
 
-This Outfit also grants the [Talent Card](Talents.md) _Centurion's Resolve_, which makes the Legion Kata fist style deal 10% more damage.
+This Outfit also grants the [Talent Card](Talents.md#equipment-talents) _Centurion's Resolve_, which makes the Legion Kata fist style deal 4% more damage.
 
 ## Location
 
@@ -37,7 +37,3 @@ This Outfit's Schematic can be found in:
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [False Merchant Ships (Chest)](Random_Encounters.md#false-merchant-ship)
 -   [Rogue Construct](Rogue_Construct.md) (Chest)
-
-## Trivia
-
--   Often stated to be the best armor for users of the the Legion Kata fist style due to the 10% damage boost it grants

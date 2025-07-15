@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 148992
+revid: 150946
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons", Light Weapons]
@@ -31,8 +31,15 @@ categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weap
 
 Twin spatulas somehow used as a weapon.
 
+The Flippers of Fate can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a chance to steal hunger from your opponent on hit.
+
+## Critical
+
+The Unique Critical for this weapon is similar to the [Halberd](Halberd.md), being a forward dash that results in a 360 degree AoE hit. Landing the first part of the Critical will clear its cooldown. Using the Critical again shortly after the first part lands performs a 360 degree spinning radial slash that hits twice.
+
+Notably, this attack is shared with the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
+
 ## Trivia
 
--   This weapon shares a critical with the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
 -   The description reads _"That isn't smoke. It's steam."_ which is in reference to [a scene](https://www.youtube.com/watch?v=4jXEuIHY9ic) from the twenty first episode of the seventh seasons of American animated sitcom, _[The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)_.
 -   This is the third fastest weapon in the game after the [Divine Dagger](https://deepwoken.fandom.com/wiki/Crazy_Slots#Weapons) and [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Weapons), with 1.26x swing speed which is slightly higher than the usual norm for daggers.

@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Ring"
-revid: 149741
+revid: 150801
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Items]
@@ -20,12 +20,12 @@ categories: [Equipment, Rings, Items]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Primadon, Titan of the East, The Ferryman, The Doom of Caeranthil, Summer Isle (Extremely Rare), Duke Ishamon Erisia (Very Rare), Second Layer, Scion of Ethiron, Interluminary Parasol, Ancient Rotlands, Pure Ore Turn-ins (Extremely Rare), Maestro Evengarde Rest |
+| obtainment | The Ferryman, The Doom of Caeranthil, Summer Isle (Extremely Rare), Duke Ishamon Erisia (Very Rare), Second Layer, Scion of Ethiron, Interluminary Parasol, Ancient Rotlands, Pure Ore Turn-ins (Extremely Rare), Maestro Evengarde Rest |
 | description | "A ring once worn by a genius inventor. Said to have been discarded once he turned to other methods of inspiration." |
 
 ## Description
 
-**Rosen's Ring** is a ring [Equipment](Equipment.md) that adds 1.2 Intelligence scaling to your [Weapon](Weapons.md) damage. The most reliable way to obtain most scaling rings is through [The Ferryman](The_Ferryman.md) and in the [Ancient Rotlands](Ancient_Rotlands.md). However, the Rosen's Ring can also be obtained from common events in [Summer Isle](Summer_Isle.md); such as the [The Children of Navae](The_Children_of_Navae.md) vs [The Ministry](The_Ministry.md) event.
+**Rosen's Ring** is a ring [Equipment](Equipment.md) that adds 1.2 Intelligence scaling to your [Weapon](Weapons.md) damage.
 
 ## Trivia
 

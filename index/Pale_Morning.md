@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 147010
+revid: 150775
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -25,12 +25,12 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Duke Ishamon Erisia, Primadon, Titan of the East, Heart of Enmity, Lodestar, The Diluvian Mechanism, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, War Mode, Etris: Siege, Voidwalker Bounties, Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
+| obtainment | Chests from:, Starswept Valley, The Depths, Duke Ishamon Erisia, Heart of Enmity, Lodestar, The Diluvian Mechanism, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, War Mode, Etris: Siege, Voidwalker Bounties, Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
 | description | A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World. |
 
 ## Description
 
-The Pale Morning is an endgame Greathammer that can be very rarely obtained from Chests in the [Starswept Valley](The_Starswept_Valley.md), extremely rarely from Merchant Ships. It can also be obtained from [The Duke](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), or [The Depths](The_Depths.md). This weapon has a base damage of 24 and a strength requirement of 10 to equip. This weapon has no special effects, criticals, or passives. The description mentions a [Canor](Canor.md) warlord whose name is currently unknown.
+The Pale Morning is an endgame Greathammer. The description mentions a [Canor](Canor.md) warlord whose name is currently unknown.
 
 ## Trivia
 

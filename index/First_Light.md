@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 150137
+revid: 150940
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -41,6 +41,7 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
 
 ## Trivia
 
+-   Similarly to The Crimson Megalodaunt, This is a reference to Gilgamesh's Gates of Babylon.
 -   The critical first light uses was previously a flame mantra referred to as "The Potato" in Deepwoken Direct.
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.

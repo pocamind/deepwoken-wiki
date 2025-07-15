@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 150096
+revid: 150857
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Cent
 | Rifle Spear | |
 |---|---|
 | type | Spear |
-| requirements | 80 MED |
+| requirements | 75 MED |
 | damage | 21 |
 | scaling | MED: 7 |
 | range | 9 |
@@ -42,7 +42,7 @@ The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
--   Meeting the requirement of MED, the damage is (29.8).
+-   Meeting the requirement of MED, the damage is (29.3).
 -   At max MED, the damage is (32).
 -   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_, the original model being a direct copy.
 -   The [Moonseye Scalpel](Moonseye_Scalpel.md) is an almost direct copy of this weapon except for the fact that is has a different name and description.

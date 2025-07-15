@@ -1,6 +1,6 @@
 ---
 title: "Doom of Caeranthil's Scale"
-revid: 150313
+revid: 150845
 source: https://deepwoken.fandom.com/wiki/Doom_of_Caeranthil's_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -20,7 +20,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-**Doom of Caeranthil's Scale** is a direct drop from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). Only one can drop per kill, making this item rare and sought after.
+**Doom of Caeranthil's Scale** is a direct drop from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). Only one can drop per kill, making this item incredibly rare and sought after.
 
 ## Uses
 
@@ -29,6 +29,6 @@ categories: [Items, Drops, Ingredients]
 
 ## Trivia
 
--   This item and the [Parasol Part](Parasol_Part.md) has the single highest sell value out of any item in the game, being.
-    -   With [Snake Oil](Talents.md#silvertongue), you can sell this for.
+-   This item and the [Parasol Part](Parasol_Part.md) have the highest sell value out of all other items in the game, being 5,000.
+    -   With [Snake Oil](Talents.md#silvertongue), you can sell this for 7,000.
 -   This item's model is identical to the [Lionfish Scale](Lionfish_Scale.md).

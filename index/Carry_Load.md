@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 144968
+revid: 150931
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,6 @@ In order of carry load given:
 -   _Gourmand_ gives 2 carry load.
 -   _Destructive Recovery_ gives 2 carry load.
 -   _Unstoppable Force_ gives 2 carry load.
--   _Lootskipper_ gives 4 carry load.
 -   _Unwavering Resolve_ gives 4 carry load.
 -   _Captain Etrea_ gives 4 carry load.
 -   _Pocket Sand_ gives 4 carry load.
@@ -54,7 +53,7 @@ In order of carry load given:
 -   _Berserker_ gives 10 carry load.
 -   _Gathering Electricity_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would theoretically provide 194 carry load.
+All of these [Talents](Talents.md) combined would theoretically provide 190 carry load.
 
 ### Other Sources
 
@@ -88,13 +87,13 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **569**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **683**.
+Combining both Talents and other sources, the total amounts to **565**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **679**.
 
-Due to attribute limitations, the current best carry load build can only get 539/647 carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
+Due to attribute limitations, the current best carry load build can only get 535/643 carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
 
 -   If you create a build that can get more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to help calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
 
 ## Trivia
 
 -   Interestingly, if you reduce your carry load (by taking off a backpack, for example) while at maximum capacity, you can still carry your previous max amount of items, even after rejoining. Though, if you drop any item, you won't be able to pick it back up.
--   Three Talents that granted carry load were removed from the game. These Talents are: _Volt Kick_, _Pitcher_, and _Duelist's Dance_. Volt Kick granted 7 carry load, but was removed from the game on August 30th, 2024. Pitcher and Duelist's Dance used to give 3 and 4 carry load respectively, but were removed on April 15th, 2025.
+-   Four Talents that granted carry load were removed from the game. These Talents are: _Volt Kick_, _Pitcher_, _Duelist's Dance_, and _Lootskipper_. Volt Kick granted 7 carry load, but was removed from the game on August 30th, 2024. Pitcher and Duelist's Dance used to give 3 and 4 carry load respectively, but were removed on April 15th, 2025. Lootskipper granted 4 carryload but was removed on July 15th, 2025.

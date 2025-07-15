@@ -1,6 +1,6 @@
 ---
 title: Heavy Hands Ring
-revid: 144472
+revid: 150803
 source: https://deepwoken.fandom.com/wiki/Heavy_Hands_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -21,7 +21,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, Layer 1, Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Miner's Landing, Lodestar, Summer Isle, Heart of Enmity, Scion of Ethiron, Etris Seige, Pure ore turn-ins, Primadon, Titan of the East |
+| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, Layer 1, Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Miner's Landing, Lodestar, Summer Isle, Heart of Enmity, Scion of Ethiron, Etris Seige, Pure ore turn-ins |
 | description | "Makes your "M1" attack 10% slower but do 30% more posture damage." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 150388
+revid: 150897
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -809,7 +809,7 @@ Ice
 
 -   Has a base damage of 33.75/38.25/42.75/47.25/51.75 per level with 2.75 Frostdraw scaling.
 -   If detonating multiple at the same time, each subsequent explosion will deal 0.33x less damage. For example, at level 5 the first one will have 51.75 base damage, the second will have 34.67 base damage, and the third will have 17.6 base damage.
--   Deals 0.75 posture damage on placedown. Guardbreaks on explosion.
+-   Deals 0.75 posture damage on placedown. Deals ?/?/?/?/? posture damage per level.
 -   Has a cooldown of 15 seconds with a delay of 4 seconds before you're allowed to detonate it.
 -   Has a windup of 0.4 seconds on placedown and detonation.
 -   Doesn't scale with songchant.

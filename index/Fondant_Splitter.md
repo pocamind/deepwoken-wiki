@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 149516
+revid: 150954
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons]
@@ -17,7 +17,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium W
 | range | 6 |
 | swing speed | 1x |
 | penetration | 5% |
-| special effect | Heals on Critical |
+| special effect | Buffed with Chef Talents |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
@@ -39,27 +39,26 @@ The Fondant Splitter is obtained through the [Cold Forge](The_Cold_Forge.md) by 
 -   A [Cake](Food.md)
 -   A [Sword](<Sword_(weapon).md>), [Messer](Messer.md), [Katana](Katana.md), or a [Scimitar](Scimitar.md), however crafting Fondant Splitter with a Scimitar will take three Cakes instead of one.
 
-Meeting the requirement of MED and LVL, the damage is 20**.9**
-
-At max MED and 6 Proficiency, the damage is **27.5**
+The Fondant Splitter can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a chance to steal hunger from your opponent on hit. Additionally, the Fondant Splitter is buffed when the player has all [Chef Talents](Talents.md#artisan).
 
 ## Critical
 
-The User will take a bite out of the Fondant Splinter, healing 12[\[1\]](#cite-note-1) health.
+The User will take a bite out of the Fondant Splinter, healing 16 flat health.
 
-The critical has a cooldown of twenty seconds.
+The critical has a cooldown of 20 seconds.
 
 ## Trivia
 
+-   Meeting the requirement of MED and LVL, the damage is 20**.9**
+-   At max MED and 6 Proficiency, the damage is **27.5**
 -   First documented finding was on the 18th of December 2024, 12 days after the Dormant Splinter was added, and 5 days after the Cold Forge was added.
 -   Similarly to the [Ysley\`s Pyre Keeper](<Ysley's_Pyre_Keeper.md>), when resting at a campfire the weapon will display a different name being: _"Spongey and rich, with a hint of... Umbrite."_
 -   The Fondant Splitter is functionally soulbound, similar to the [Diver's Light Plate](<Diver's_Light_Plate.md>).
--   The weapon is a reference to a popular trend among the community, where people used to bake real Dormant Splinter cakes in order to get a hint from Nuttoons.[\[2\]](#cite-note-2)
+-   The weapon is a reference to a popular trend among the community, where people used to bake real Dormant Splinter cakes in order to get a hint from Nuttoons.[\[1\]](#cite-note-1)
 -   The weapon originally required 5 MED and LVL 3 on release, but was changed to its current state on December 24th, 2024.
 -   This weapon can no longer be enchanted.
 -   The weapon's crit was exclusive to the Calabash weapon spec before release.
 
-## References
+### References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)

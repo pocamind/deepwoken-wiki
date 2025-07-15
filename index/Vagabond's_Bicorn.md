@@ -1,6 +1,6 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 150547
+revid: 150835
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -21,9 +21,9 @@ categories: [Equipment, Head, Hats, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Dread Serpent, Deep Widow, Primadon, Heart of Enmity, First Layer, Second Layer, Chaser, Lodestar, Maestro Evengarde Rest, War Mode, The Understrand, Saramaed HollowFound from:, Artifact Turn-ins, Merchant Ships |
+| obtainment | Chests from:, Duke Erisia, Dread Serpent, Deep Widow, Heart of Enmity, First Layer, Second Layer, Chaser, Lodestar, Maestro Evengarde Rest, War Mode, The Understrand, Saramaed HollowFound from:, Artifact Turn-ins, Merchant Ships |
 | description | "..." |
 
 ## Description
 
-The Vagabond's Bicorn is an Equipment in the "_Head_" category_._ Equipping this item will give you +4 health, as well as extra randomized stats based on the amount of pips.
+The Vagabond's Bicorn is an Equipment in the "_Head_" category. Equipping this item will give you +4 health and 1 Uncommon Pip.

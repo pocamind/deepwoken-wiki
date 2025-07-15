@@ -1,6 +1,6 @@
 ---
 title: "Cala-Mariner"
-revid: 150529
+revid: 150839
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits]
@@ -39,3 +39,4 @@ This Outfit's Schematic can be obtained from the [Nautilodaunt](Nautilodaunt.md)
 
 -   This outfit has one of the most expensive Outfit crafting recipes, being beat out by only the [Titanslayer's Adornment](<Titanslayer's_Adornment.md>). Cala-Mariner requires 5 [Odd Tentacles](Odd_Tentacle.md) and a [Nautilodaunt Beak](Nautilodaunt_Beak.md), so expect to farm a lot of [Nautilodaunts](Nautilodaunt.md) if you wish to obtain this outfit for yourself.
 -   The outfits name is a pun on calamari and mariner.
+-   The oufit resembles Jack Sparrow's outfit.

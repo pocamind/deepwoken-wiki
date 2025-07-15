@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 133797
+revid: 150821
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -21,7 +21,7 @@ Fold cards will postpone the player's reception of a Card until their next Power
 To keep progressing, however, you will need regular EXP, obtained by killing things, visiting new places, turning in artifacts, and more:
 
 -   The white sparkling particles mean you are getting EXP, the density showing the amount obtained.
--   The yellow/golden sparkling particles mean you have reached an EXP threshold, meaning that further progress is (sometimes) available.
+-   The yellow/golden sparkling particles mean you have reached an EXP threshold, meaning that further progress is available.
     -   If you've reached the point where using [Training Gear](Training_Gear.md) says "I've learned what I can from training right now, I should put it into practice...", those yellow particles usually indicate that you should be able to continue without this message, even if for just 1 point.
 -   If you've gotten all 15 investment points and it shows 0 without you powering up it means you require more EXP.
 
@@ -29,18 +29,23 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 
 ### Base Attributes
 
--   [Strength (**STR**)](Attributes.md)
--   [Fortitude (**FTD**)](Attributes.md)
--   [Agility (**AGL**)](Attributes.md)
--   [Intelligence (**INT**)](Attributes.md)
--   [Willpower (**WLL**)](Attributes.md)
--   [Charisma (**CHA**)](Attributes.md)
+#### Body (BDY)
+
+-   [Strength](Attributes.md) (**STR**)
+-   [Fortitude](Attributes.md) (**FTD**)
+-   [Agility](Attributes.md) (**AGL**)
+
+#### Mind (MND)
+
+-   [Intelligence](Attributes.md) (**INT**)
+-   [Willpower](Attributes.md) (**WLL**)
+-   [Charisma](Attributes.md) (**CHA**)
 
 ### Weapon Attributes
 
--   [Heavy Weapons (**HVY**)](Weapons.md)
--   [Light Weapons (**LHT**)](Weapons.md)
--   [Medium Weapons (**MED**)](Weapons.md)
+-   [Heavy Weapons](Weapons.md) (**HVY**)
+-   [Light Weapons](Weapons.md) (**LHT**)
+-   [Medium Weapons](Weapons.md) (**MED**)
 
 ### Attunement Attributes
 
@@ -54,6 +59,7 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 
 ## Trivia
 
--   Before the Verse 2 update, the required amount of investment points was 5. However, this was increased to 15 after Verse 2. This was changed with the Power 60 to Power 20 compression.
--   You deal about 30% of your base damage of any [weapon](Weapons.md) or [mantra](Mantras.md) added to your NPC damage per Power level. Remember this when fighting high-level mobs like [Golems](Rock_Golem.md), [Stone Knights](Stone_Knight.md), and [King Threshers](King_Thresher.md).
+-   As your Power increases, so does your damage towards all non-player enemies.
+-   You gain 4 health per Power, starting at a base of 204 health at Power 1 and scaling up to 280 health at Power 20.
 -   When powering up, you regain your hunger, thirst, blood, and health, along with restoring your lives in the Overworld.
+-   Before the Verse 2 update, the required amount of investment points was 5. However, this was increased to 15 after Verse 2. This was changed with the Power 60 to Power 20 compression.

@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 134849
+revid: 150830
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -21,14 +21,14 @@ categories: [Equipment, Head, Hats, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, Primadon, Titan of the East |
+| obtainment | Fort Merit |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 
-The Gumshoe Hat is an accessory under the "_Head_" category. They can be found in chests from [Fishing](Fishing.md), [Fort Merit](Fort_Merit.md) and [Primadon](Primadon,_Titan_of_the_East.md). Provides no stats when worn.
+The Gumshoe Hat is an accessory under the "_Head_" category. They can be found in chests from [Fort Merit](Fort_Merit.md). Provides no stats when worn.
 
 ## Trivia
 

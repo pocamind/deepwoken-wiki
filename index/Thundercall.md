@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 150568
+revid: 150882
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -387,7 +387,7 @@ Lightning
 
 -   Has a base damage of 23/24.5/26/27.5/29 per level with 2.75 Thundercall scaling.
 -   The _Rain of Static_ Talent adds an additional 5/5.375/5.75/6.125/6.5 base damage per level, per hit (4) at the start of the Mantra.
--   Deals 10 posture damage at levels 1-4. At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be modified.
+-   Deals ?/?/?/?/? posture damage per level.
 -   Rain of Static hits deal 1 posture damage each (4).
 -   12 second cooldown.
 -   Can destroy surfaces and light flammable terrain such as patches of grass on fire.

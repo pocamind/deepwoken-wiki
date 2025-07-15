@@ -1,6 +1,6 @@
 ---
 title: "Akira's Ring"
-revid: 150649
+revid: 150799
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -20,12 +20,12 @@ categories: [Equipment, Rings, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aelita (Extremely Rare), The Ferryman, Primadon, Titan of the East, Duke Ishamon Erisia, Second Layer, The Doom of Caeranthil, Interluminary Parasol, Ancient Rotlands, Fort Merit (Extremely Rare), Maestro Evengarde Rest, Trading with Jeremiah |
+| obtainment | Aelita (Extremely Rare), The Ferryman, Duke Ishamon Erisia, Second Layer, The Doom of Caeranthil, Interluminary Parasol, Ancient Rotlands, Fort Merit (Extremely Rare), Maestro Evengarde Rest, Trading with Jeremiah |
 | description | A ring once worn by a Black Diver. It seems he's since passed the need for such trinkets. |
 
 ## Description
 
-**Akira's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Willpower Scaling to your [Weapon Damage](https://deepwoken.fandom.com/wiki/Weapons#Calculating_Damage_and_Attack_Speed). The most reliable way to obtain any type of weapon scaling ring is through [The Ferryman](The_Ferryman.md) and the angel pit inside the [Ancient Rotlands](Ancient_Rotlands.md).
+**Akira's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Willpower Scaling to your [Weapon Damage](https://deepwoken.fandom.com/wiki/Weapons#Calculating_Damage_and_Attack_Speed).
 
 ## Trivia
 

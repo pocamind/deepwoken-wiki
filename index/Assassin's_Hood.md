@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 150660
+revid: 150826
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hoods, Head, Items]
@@ -20,12 +20,12 @@ categories: [Equipment, Hoods, Head, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island (Pale), Starswept Valley (Pale), Primadon (Pale), Aelita (Crimson, Gold & Mist), Ferryman (Winter) (Crimson, Gold & Mist), Cloaked Assassin (Crimson, Gold, Mist) |
+| obtainment | Chests from:, Aratel Island (Pale), Starswept Valley (Pale), Aelita (Crimson, Gold & Mist), Ferryman (Winter) (Crimson, Gold & Mist), Cloaked Assassin (Crimson, Gold, Mist) |
 | description | ... |
 
 ## Description
 
-Assassin's Hood is an [Equipment](Equipment.md) item under the "Head" category. It can be found through chests in Hive Chests, Gold and Mist rarely from Aelita.
+Assassin's Hood is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

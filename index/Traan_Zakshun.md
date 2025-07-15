@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 150637
+revid: 150879
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -20,7 +20,7 @@ categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Traan Zakshun is an NPC merchant, he sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron twinblade](Iron_Twinblade.md) on his back, and he wears the [Carefree Garments](Carefree_Garments.md) outfit.
+Traan Zakshun is an NPC merchant, he sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron Twinblade](Iron_Twinblade.md) on his back, and he wears the [Carefree Garments](Carefree_Garments.md) outfit.
 
 Traan Zakshun's shop runs on an hourly rotation. Every hour, he sells two to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of his shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
@@ -317,7 +317,7 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For 4 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>.</li>
+    <li><b>For 4 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>.</li>
     <li><b>For 5 </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a>, <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For 10 </b>: <a href="Soulthorn.md">Soulthorn</a>.</li>

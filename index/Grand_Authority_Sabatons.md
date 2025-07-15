@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 147324
+revid: 150791
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons]
@@ -21,14 +21,14 @@ categories: [Items, Equipment, Legs, Sabatons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, The Eternal Gale, Miner's Landing, Primadon, Titan of the East, Maestro Evengarde Rest, Dread Serpent, Lodestar, Saramaed Hollow, Heart of Enmity, War Mode |
+| obtainment | Chests from:, Duke Ishamon Erisia, The Eternal Gale, Miner's Landing, Maestro Evengarde Rest, Dread Serpent, Lodestar, Saramaed Hollow, Heart of Enmity, War Mode |
 | description | - ... |
 
 ## Description
 
-Grand Authority Sabatons is an [Equipment](Equipment.md) item under the "Legs" category. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [The Eternal Gale](Second_Layer.md), [Miner's Landing](<Miner's_Landing.md>), [Primadon](Primadon,_Titan_of_the_East.md) and [Maestro Evengarde Rest.](Maestro_Evengarde_Rest.md)
+Grand Authority Sabatons is a pair of heavy sabatons, used by the [The Central Authority](The_Central_Authority.md). These are in the "Legs" category of [Equipment](Equipment.md).
 
-Grand Authority Sabatons are part of the "**Grand Authority**" set; with the only other armor piece being the **[Grand Authority Plate](Grand_Authority_Plate.md)**.
+Grand Authority Sabatons are part of the "**Grand Authority**" set; with the only other armor piece being the [Grand Authority Plate](Grand_Authority_Plate.md).
 
 ## Trivia
 

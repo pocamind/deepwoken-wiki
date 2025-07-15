@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 149791
+revid: 150887
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -15,6 +15,98 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **July 14th, 2025**
+
+**The Sparks of Erisia**  
+• New Monster: Stonespark. With the increased number of Pathfinders snooping around Erisia, the Duke has had to up his security. Heavy-hitting golems are all well and good, but the Duke can only sustain so many of these juggernauts. Light infantry is needed, and of course, the increased number of test subjects doesn't hurt...  
+• The small settlement in Erisia formerly overrun by outlaws has been seized by Pathfinder companies operating on the island and converted into a rest stop that's taken the name of 'Path's Respite'. Though still rough around the edges and far from safe, some amenities have now made themselves available  
+• Antiques smugglers have been seen frequenting Path's Respite, willing to buy items off you at a reduced rate compared to safer towns due to the service provided  
+• With increased Pathfinder activity on Erisia, further routes have been established, as well as some rudimentary structures to assist in navigating the island  
+• Further zipline routes have been established in the Etrean Luminant  
+• A path has opened between Erisor's Church and the Burning Stone Gardens  
+  
+**Content & Systems**  
+• New Rare Food  
+• New Unique Food Effects  
+• Mystics now directly ask you for the talent class you want without wiki-mandatory riddles  
+• Mystics now show you how many talents are available in each class available  
+• Bari and Seraphina now sell a variety of useful early-game items  
+• Smiths now sell various materials through the new shop system  
+• Armorers have been added to weapon shops and will sell you early weaponry and ammunition  
+• A rich iron vein has been uncovered on an island near to the Isle of Vigils  
+• Added a telegraph and sound cue for unblockable attacks and blockbreaks  
+  
+**Talent Merges & Removals**  
+• Lootskipper has been made effectively innate, and the talent has been removed. The effect it had on drop rates was unpredictable, buggy, and nigh impossible to balance around. To make up for its removal, the drop rates on the rarer mob drops have been greatly increased, making them no longer Lootskipper DLC. If you had Lootskipper, you'll be refunded a hand of talents  
+• Glacial Finish is now base Ice Smash behavior. If you had it, you'll be refunded a hand of talents  
+• Cryostasis and Molten Defence have been removed. Both of these talents basically rewarded you for playing poorly and punished your opponents for playing well. If you had either of these talents, you'll be refunded a hand of talents  
+  
+**Balancing & Tweaks**  
+• Sinner's Ash requirement to start Elder Primadon fight reduced from 4 to 3  
+• You can now choose to wipe after dying at any point in the To1, not just past Power 1  
+• Parasol and Doom of Caeranthil now always drop an item (before was only 20% chance)  
+• Warmaster's Medallion downside reduced from 50% to 20%  
+• (Elder) Primadon Chests are now temporarily locked to players who contributed towards the fight upon spawning in, similar to hell mode chests  
+• Work on revamping the loot pools across the game continues with many loot pools having much more relevant loot for the stage of progression they drop at  
+• Greatly improved Aratel loot diversity. Should mean far less drops of 10 scarves  
+• Reworked loot tables for Saramaed Hollow  
+• Crescent Cleaver HVY req increased (40 -> 45)  
+• Rifle Spear MED req reduced (80 -> 75)  
+• Fondant Splitter heal amount buffed a little  
+• Fondant Splitter now works with Umami  
+• Fondant Splitter heal now gets buffed a little if you have chef talents  
+• Nightbringer ether drain reduced a bit  
+• Rapid Punches can now be blocked from any direction but has higher base damage  
+• All guardbreaks (except Shadow Gun) now have endlag similar to Ice Smash, and are now also 360 blockable  
+• Karita Divebomb does more damage  
+• Ceaseless Slashes does more damage  
+• Rapid Slashes has lower base damage but now actually gets a damage increase from levelling it up  
+• Karita Leap windup increased from 0.42s to 0.46s  
+• Life vents at Aratel now have a longer cooldown. You can now land air counter on someone who has used a life vent  
+• Gaunts of Enmity scaling nerfed from 11 to 10.5  
+• Legion Centurion damage bonus for fist changed from 10% to 4%  
+• Buffed the weight of most pistols  
+• Scoundrel's Saber scaling increased (4.5 -> 4.8)  
+• Scoundrel's Saber base damage reduced (24 -> 22)  
+• Scoundrel's Saber weight reduced (7 -> 5.5)  
+• Needle's Eye weight reduced (5.5 -> 5)  
+• Katana critical active frames reduced  
+• Curved Blade of Winds initial slashes now have AP frames (so the 2nd hit when parried doesnt go past parry)  
+• AP frames similar to Wind Carve added to Ice Carve  
+• Wind Carve windup increased from 0.5s to 0.55s  
+• Searing Snare base posture damage improved  
+• Possession bonus posture damage reduced from 30% to 15%  
+• Ice Fissure no longer guardbreaks, its explosion windup has also been increased (0.3s to 0.4s) to be actually reactable  
+• Ice Fissure chill duration reduced  
+• Lightning Impact no longer guardbreaks at level 5, now has increasing posture for every level added  
+• You can no longer turn while using the Officer/Calvary Saber critical and the Needle's Eye critical  
+• Cerulean Thread critical windup increased to be similar to Whaling Knife (a little bit faster still)  
+• Old World Sun Pendant renamed to Wheel Pendant. Sources suggest that the Suncross has always looked this way  
+• Void enchant has been renamed to Curse of Void  
+• Fixed Nemesis crit not having hitstun  
+• All items given to you from The Gaunt Man are now inactive until you beat the trial on that slot  
+• Chests that don't despawn are no longer subject to the join time restrictions on opening chests  
+• Tweaked Avenger, Irontusk, Quickfang & Silversix models  
+• Food buffs now persist between servers again  
+  
+**Bugfixes & Optimization**  
+• Fixed being able to bind Camera Lock to M1 and softlock yourself  
+• Fixed some gaps in lootpools where certain equipment wasn't obtainable  
+• Fixed Tempest Wind knockup lingering  
+• Fixed Arc Suit having essentially no cooldown  
+• Fixed Fire Blade VFX lingering after a feint  
+• Fixed Fire Palm not being considered as mantra damage  
+• Fixed generic telegraph cues being too early  
+• Fixed Aegis Gem voiding when you equip it / not working  
+• Fixed chime chests  
+• Lowered ELEISON theme volume  
+• Fixed Depths Trial voices being amplified with the amount of participants  
+• Fixed the client throwing a bunch of errors if you peeked your camera below non-sea water  
+• Fixed Wind Gem no longer applying its speed boost on the client-side  
+• Fixed Scoundrel's Saber alloying into a completely different weapon. Your amateur smithing skills were too powerful  
+• Fixed camera lock cursor not always showing up  
+• Fixed Krulian Charge going on cd permanently
 
 ## **July 7th, 2025**
 

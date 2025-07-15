@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 149577
+revid: 150856
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -32,7 +32,7 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 </tr>
 <tr>
   <td><a href="Sinner's_Ash.md">Sinner's Ash</a></td>
-  <td>4</td>
+  <td>3</td>
 </tr>
 </tbody>
 </table>

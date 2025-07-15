@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 149685
+revid: 150859
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 
 | Crescent Cleaver | |
 |---|---|
-| requirements | 40 HVY, 10 STR / Template:AlloyedColor HVY, 10 STR |
+| requirements | 45 HVY, 10 STR / Template:AlloyedColor HVY, 10 STR |
 | damage | 22 + 6.6 BLD |
 | scaling | HVY: 8 / HVY: Template:AlloyedColor |
 | range | 9 |
@@ -35,7 +35,7 @@ After a short windup, the user lunges forward, impaling the target and then slam
 
 ## Trivia
 
--   Meeting the non-alloyed requirement of HVY, the damage is (27.3), but becomes (35.5) with bleed.
+-   Meeting the non-alloyed requirement of HVY, the damage is (27.9), but becomes (36.3) with bleed.
     -   Meeting the alloyed requirement, the damage is (34.4), but becomes (44.7) with bleed.
 -   At max HVY, the non-alloyed damage is (35.2), but becomes (45.8) with bleed.
     -   At max HVY, the alloyed damage is (38.4), but becomes (49.9) with bleed

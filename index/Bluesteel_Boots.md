@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Boots
-revid: 144427
+revid: 150790
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -26,9 +26,9 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-Bluesteel Boots are an [Equipment](Equipment.md) item under the "Boots" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md).
+Bluesteel Boots are an [Equipment](Equipment.md) item under the "Boots" category. They can be found most commonly in [Starswept Valley](The_Starswept_Valley.md) chests.
 
 ## Trivia
 
 -   The **Blue** counterpart to [Redsteel Boots](Redsteel_Boots.md).
--   Bluesteel Boots are part of the "**Bluesteel**" set; with the only other armor piece being the [**Bluesteel Pauldrons**.](Bluesteel_Pauldrons.md)
+-   Bluesteel Boots are part of the "**Bluesteel**" set; with the only other armor piece being the [Bluesteel Pauldrons](Bluesteel_Pauldrons.md).

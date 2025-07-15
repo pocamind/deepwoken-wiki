@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 150699
+revid: 150952
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -189,6 +189,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Parasol's Blight<div></div></font></center></td>
   <td><div><p>On weapon attack, apply the Parasol Blight status effect. This effect has no visual indicator and lasts for 15 seconds. If a target affected by Parasol's Blight dies, their corpse will explode and a monster will spawn.</p>
   <p>The monster can be a <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a>, <a href="Alpha_Megalodaunt.md">Alpha Megalodaunt</a>, <a href="Thresher.md">Void Thresher</a>, or a <a href="Nautilodaunt.md">Nautilodaunt</a>. These monsters can be [[Corrupted|Template:CorruptedColor]] if used in <a href="The_Depths.md">The Depths</a>.</p>
+  <p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b></p>
   <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 1 <a href="Parasol_Part.md">Parasol Part</a>.</p></div></td>
   <td><div>The weapon is covered in the stone texture, with the lighter parts becoming a light purple color.</div></td>
 </tr>
@@ -280,15 +281,6 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Void<div></div></font></center></td>
-  <td><div><p>On weapon attack, apply the Void status effect. This effect has no visual indicator and lasts 15 seconds.</p>
-  <p>For the duration of the status effect, the target is under an Anti-Heal effect. Additionally, if they die while affected by Void, they will instantly drown and be sent to <a href="The_Depths.md">The Depths</a>.</p>
-  <p>Acts very similarly to a <a href="Void_Spire.md">Void Spire</a>.</p>
-  <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 25 <a href="Void_Spire.md">Void Spires</a> and .</p></div></td>
-  <td><div>Weapon has a stone texture and is covered in a white mist.</div></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Wild<div></div></font></center></td>
   <td><div><p>On proc, deal 85% of the weapon damage in an AoE. Does not hit the victim or allies.<br>
   The AoE has a radius of ~18.25 studs.<br>
@@ -376,6 +368,16 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Check Trivia for an explanation of its bugginess in PvE.</p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>
   When sheathed, the weapon model is completely invisible.</div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Void<div></div></font></center></td>
+  <td><div><p>On weapon attack, apply the Void status effect. This effect has no visual indicator and lasts 15 seconds.</p>
+  <p>For the duration of the status effect, the target is under an Anti-Heal effect. Additionally, if they die while affected by Void, they will instantly drown and be sent to <a href="The_Depths.md">The Depths</a>.</p>
+  <p>Acts very similarly to a <a href="Void_Spire.md">Void Spire</a>.</p>
+  <p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b></p>
+  <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 25 <a href="Void_Spire.md">Void Spires</a> and .</p></div></td>
+  <td><div>Weapon has a stone texture and is covered in a white mist.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -594,6 +596,8 @@ This rain cloud functions as normal rain, debuffing [Flamecharm](Flamecharm.md) 
 If you have the **Chilling** Enchantment on your weapon, or if it's [Winter](Seasons.md), create snow instead.
 
 If you have **Stench** on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead.
+
+**This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
 
 Obtained from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Rain Spires](Rain_Spire.md) and.
 
@@ -814,7 +818,8 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   **April 5, 2024** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
 -   **August 23, 2024** - Equipment enchantment can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   **February 1, 2025** - The weapon enchant Curse of Rhaemen's ember is added.
--   **July 7, 2025** - The weapon enchants Void, Parasol's Blight and Nightbringer were added, the equipment enchantment Rain was also added.
+-   **July 7, 2025** - The weapon enchants Curse of Void, Parasol's Blight and Nightbringer were added, the equipment enchantment Rain was also added.
+-   **July 15, 2025 -** The weapon enchant Void was renamed to Curse of Void.
 
 ## Tips/Trivia
 

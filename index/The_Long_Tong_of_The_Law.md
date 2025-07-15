@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 149651
+revid: 150948
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons, Spears]
@@ -17,6 +17,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons,
 | range | 10 |
 | swing speed | 0.82x |
 | chip damage | 40% |
+| special effect | Has Spear animations |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8 |
 | bankable | Yes |
@@ -29,6 +30,8 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons,
 ## Description
 
 The Long Tong of The Law is a Greatsword obtained from [Chef Odiolavoro](Chef_Odiolavoro.md)'s quest, Despite being labeled as a greatsword and being a heavy weapon, it has the animations of a spear. This weapon is considered a sidegrade to the [Alloyed Crescent Cleaver](Crescent_Cleaver.md#alloyed) and [Kyrscleave](Kyrscleave.md) due to the matching critical.
+
+The Long Tong of The Law can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a chance to steal hunger from your opponent on hit.
 
 ## Critical
 

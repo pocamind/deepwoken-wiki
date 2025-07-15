@@ -1,6 +1,6 @@
 ---
 title: "Smith's Bandana"
-revid: 135638
+revid: 150832
 source: https://deepwoken.fandom.com/wiki/Smith's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -21,12 +21,12 @@ categories: [Equipment, Head, Hats, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Duke Ishamon Erisia, Heart of Enmity, Primadon, Titan of the East, First Layer, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Interluminary Parasol, The Diluvian Mechanism, Chime of ConflictFound from:, Artifact Turn-ins, Pure Erisore turn in |
+| obtainment | Chests from:, Erisia, Duke Ishamon Erisia, Heart of Enmity, First Layer, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Interluminary Parasol, The Diluvian Mechanism, Chime of ConflictFound from:, Artifact Turn-ins, Pure Erisore turn in |
 | description | "..." |
 
 ## Description
 
-The Smith's Bandana is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +4 health, equipping this item will give you extra randomized stats based on the number of pips.
+The Smith's Bandana is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +4 Health and an uncommon pip.
 
 ## Trivia
 

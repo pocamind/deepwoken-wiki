@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 148857
+revid: 150827
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -21,12 +21,12 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Diluvian Mechanism, Second Layer, Miner's Landing, Deep Widow, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Primadon, Titan of the East, Voidwalker, Voidsea, Chime of Conflict |
+| obtainment | Chests from:, Diluvian Mechanism, Second Layer, Miner's Landing, Deep Widow, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Voidwalker, Voidsea, Chime of Conflict |
 | description | "..." |
 
 ## Description
 
-The Dark Owl Chapeau is an [Equipment](Equipment.md) item under the "Head" category. It is found mainly in [The Eternal Gale](Second_Layer.md), but can rarely be obtained through [Miner's Landing](<Miner's_Landing.md>), [Duke Erisia](Duke_Ishamon_Erisia.md) and the [Deep Widow](Deep_Widow.md) chests.
+The Dark Owl Chapeau is an [Equipment](Equipment.md) item under the "Head" category. It is found mainly in [The Eternal Gale](Second_Layer.md).
 
   
 
