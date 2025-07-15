@@ -1,6 +1,6 @@
 ---
 title: "Path's Respite"
-revid: 150270
+revid: 151130
 source: https://deepwoken.fandom.com/wiki/Path's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -14,7 +14,7 @@ Formerly overrun by brigands, this settlement has been reclaimed by Pathfinding 
 
   
 
-**Path's Respite** is a location in _Deepwoken_. It is a landmark found in [Lower Erisia](Lower_Erisia.md).
+**Path's Respite** is a location in _Deepwoken_. It is a landmark found in [Lower Erisia](Lower_Erisia.md),
 
 ## Maps
 
