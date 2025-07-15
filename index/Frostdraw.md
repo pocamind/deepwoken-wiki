@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 150897
+revid: 151109
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -516,7 +516,7 @@ Ice
 **Effect:** _Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead._
 
 -   Has a base damage of 35/38/41/44/47 per level with 2.75 Frostdraw scaling.
--   The Glacial Finish variant has a base damage of 28/30.4/32.8/35.2/37.6 per level with 2.75 Frostdraw scaling.
+-   The Glacial Finish (F) variant has a base damage of 28/30.4/32.8/35.2/37.6 per level with 2.75 Frostdraw scaling.
 -   Deals 10/14/16/18/guard break posture damage per level. The Glacial Finish variant deals 10 posture damage per level.
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has a 10 second cooldown.
@@ -524,7 +524,7 @@ Ice
 -   Inflicts Chill. 5 seconds of Chill. This can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md).
 -   Slightly knocks back target(s).
 -   Can break objects.
--   Can be upgraded with the _Glacial Finish_ Talent, causing it to initiate a second hit dealing 80% of the damage of the first hit.
+-   Press block during Ice Smash's windup to initiate a second hit dealing 80% of the damage of the first hit.
 
  |
 | 
@@ -1402,22 +1402,6 @@ _**"Those that step on my ice know that they have made a grave error."**_
 | 
  | 
 
-Cryostasis  
-(30 Frostdraw, 20 Fortitude, Fragile Freeze)
-
- | 
-
-When block broken, freeze yourself, reducing incoming damage by 50% and dealing frost damage to attackers.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
 Preceding Chill  
 (60 Frostdraw, Ice Beam)
 
@@ -1488,22 +1472,6 @@ Cast while sliding to perform a running attack with your ice sabers.
  | 
 
 The Talent activates after you've slide jumped, and not during the slide jump, contrary to the Talent description.
-
- |
-| 
-
- | 
-
-Glacial Finish  
-(35 Frostdraw, Ice Smash)
-
- | 
-
-Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack.
-
- | 
-
-N/A
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 143064
+revid: 151029
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -11,49 +11,49 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 | Marcus | |
 |---|---|
 | name | Marcus |
-| aspect | Stonelife Golem |
+| aspect | Stonespark |
 | location | The Hidden Village |
 
 “ Sup. ”
 
 ― Marcus
 
-  
-
 ## Description
 
-Marcus is inarguably the coolest Golem, if not the coolest NPC(apart from Meatlord), in this vast game of Deepwoken. He is of a modest and small size, unlike his braggart [cousins](Rock_Golem.md) who prefer to attack you on first sight. He prefers relaxing over a nice warm beverage. He can be found in [The Hidden Village](The_Hidden_Village.md).
+Marcus is inarguably the coolest [Stonespark](Stonespark.md), if not the coolest NPC (apart from [The Meat Lord](The_Meat_Lord.md)), in this vast game of Deepwoken. He is of a modest and small size, unlike his braggart [Rock Golem](Rock_Golem.md) cousins and [Stonespark](Stonespark.md) siblings, who prefer to attack you on first sight. He prefers relaxing over a nice warm beverage.
 
-The only entity that can surpass Marcus' incomprehensible power would be [The Meat Lord](The_Meat_Lord.md), as both have risen to levels above the powers of Drowned Gods.
+The only entity that could surpass Marcus' incomprehensible power would be [The Meat Lord](The_Meat_Lord.md), as both have risen to levels above the powers of Drowned Gods.
 
-Although Marcus does not give any rewards, XP, loot or even gameplay advice to the player, it's always great to talk to him as he is the chillest \[_[sic](https://en.wikipedia.org/wiki/sic)_\] NPC in all of Deepwoken.
+Although Marcus does not give any rewards, XP, loot or even gameplay advice to the player, it's always great to talk to him as he is undoubtedly, hands down, the most chill NPC in all of Deepwoken.
+
+## Location
+
+When entering [The Hidden Village](The_Hidden_Village.md), go to the right side and through a hallway to find a [Campfire](Campfire_Pit.md) and [Rotskipper](Rotskipper.md). When reaching the [Campfire](Campfire_Pit.md) spot, looking to your left; there will be a house that has a crawl space under it. Inside the space there will be a hole, jumping into the hole will take you to the humble cave Marcus lives in.
+
+Make sure to say hello, and give some company to such a [Stonespark](Stonespark.md). What a great guy, right?
 
 ## Dialouge
 
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Sup.</td>
+  <td>Sup.</td>
 </tr>
 <tr>
-  <td colspan="6">How do you feel?</td>
+  <td>How do you feel?</td>
 </tr>
 <tr>
-  <td colspan="6">Live and let go, man.</td>
+  <td>Live and let go, man.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
 
-## How To Find Marcus
+## Trivia
 
-When entering the Hidden Village, go to the right side and through a hallway to find an area with a campfire. When reaching the campfire spot, looking to your left; there will be a house that has a crawl space under it. Inside the space there will be a hole, jumping into the hole will take you to the humble cave Marcus lives in. Make sure to say hello, give some company to such golem. What a great guy, right?
-
-Marcus on a Good Day
-
-Most based Golem in Erisia
+-   Prior to the July 14th, 2025 update, Marcus was the only [Stonespark](Stonespark.md) in the entire game. Being created before [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) had to step up his security.

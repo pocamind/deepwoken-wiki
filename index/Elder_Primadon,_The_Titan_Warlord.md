@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 150856
+revid: 151106
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -209,6 +209,7 @@ His moveset is quite extensive, but with some practice, becomes relatively easy 
   <td>
   <ul>
     <li><a href="Primadon_Pelt.md">Primadon Pelt</a> (direct drop)</li>
+    <li><a href="Primal_Slab.md">Primal Slab</a> (direct drop)</li>
     <li><a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
     <li><a href="Mantra_Modifiers.md">Vibrant Gem</a></li>
     <li>Some <a href="Relics.md">Relics</a>:

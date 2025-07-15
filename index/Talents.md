@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 150875
+revid: 151092
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3097,7 +3097,7 @@ _**"My cure is most effective."**_
 -   _Vanishing Wraith_ \[Rare Talent, Galebreathe Exclusive\] - Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target
     -   Prerequisites: Phantom Step, 60 Galebreathe
 
--   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 15% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
+-   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 30% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
     -   The posture damage boost activates from Inhaled M1s and Crits. If you are using [Wraithclaw](Wraithclaw.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md) or [Hero Blade of Wind](<Hero's_Blade_of_Wind.md>) (only critical) you don't have to inhale a mantra for it to take effect.
     -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
 
@@ -3271,8 +3271,12 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%.
     -   Increases food boosts by 30%.
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
+
 -   Umami \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
+    -   Has an ~10% chance to proc with a cooldown.
+    -   Drains ~5% of your opponent's hunger.
     -   Acts similar to the Gluttony enchant, but only removes the opponent's hunger instead of stealing it.
+    -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
     -   Obtained from: [Chef's Toque](<Chef's_Toque.md>)
 
 ### The Demon Blade
@@ -4002,7 +4006,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
--   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 4% more damage.
+-   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 25% additional penetration.
     -   Gives [Way of Navae](Way_of_Navae.md) basic attacks have 25% more PEN. This does **NOT** apply to criticals.
@@ -4113,6 +4117,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   For the next 4s after landing your Critical attack, if you were to be hit by any Mantra, you'll automatically dodge the Mantra, voiding its damage. The dodge vfx is similar to [Nautilodaunt's](Nautilodaunt.md) Vent vfx, but it displaces you physically.
     -   13 second cooldown.
 -   Umami: [Chef's Toque](<Chef's_Toque.md>) - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
+    -   Has an ~10% chance to proc with a cooldown.
+    -   Drains ~5% of your opponent's hunger.
+    -   Acts similar to the Gluttony enchant, but only removes the opponent's hunger instead of stealing it.
+    -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.03.
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.

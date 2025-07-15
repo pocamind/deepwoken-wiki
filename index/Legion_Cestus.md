@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 146902
+revid: 151087
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Fists, Light Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Songseeker Wilds, Brainsucker, Lodestar, Starswept Valley, Golem Constructs, The Diluvian Mechanism, Dread Serpent |
+| obtainment | Chests from:, Lower Erisia, Songseeker Wilds, Brainsucker, Lodestar, Starswept Valley, Golem Constructs, The Diluvian Mechanism, Dread Serpent, Saramaed Hollow |
 | description | "Cestus used by members of the Hundred Legions." |
 
 ## Description

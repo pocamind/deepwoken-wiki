@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 150638
+revid: 151074
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -95,7 +95,9 @@ Dodgeable:✗
 
  |
 
-  
+## Passives
+
+-   Enchant Immunity - Heart of Enmity is immune to all [Enchantments](Enchantments.md).
 
 ## Loot Table/Rewards
 
@@ -203,7 +205,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 
 -   Get the talent **Mythic Stability**, as it makes you ungrippable to auto-grip abilities, which is useful against the Heart of Enmity’s auto-grip attacks.
 -   Have one person bring a [repair kit](Repair_Kit.md) or two, as the boss does a lot of armor damage (note that campfires and Graceful Flames, even with Undying Flames, are unusable in the Depths Trial (alternatively you could just not be hit once)
--   If you're struggling with blood levels you can use **[Bloodrend](Bloodrend.md)** to ~obtain the **Bloodorb** mantra to heal blood using the blood pools during the fight.~ (Blood Orb no longer spawns blood pools, but other Bloodrend talents spawn them.)
+-   If you're struggling with blood levels you can use **[Bloodrend](Bloodrend.md)** to obtain Mantras that create blood pools to heal your blood by standing in them.
     -   Alternatively, you can also get grand feast and use it to heal blood from the enforcers spawned or run the multiplicity armor enchant.
 
 ###### Resonances

@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 146915
+revid: 151065
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
@@ -18,12 +18,13 @@ categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
 | swing speed | 1.17x |
 | stances | 1 Handed |
 | offhand | Yes |
-| weight | 1 |
+| selling price | 14 |
+| weight | 3.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Summer Isle for, Arena Chests, Moon's Eyrie, Layer 1, Lodestar, Chime of Conflict |
+| obtainment | Sold at Summer Isle for 500 , Arena Chests, Moon's Eyrie, Layer 1, Lodestar, Chime of Conflict |
 | description | "The mechanisms of this firearm are more of a meticulous make then their mass-produced cousins, and are often found as collector's items above the mantlepieces of the wealthy." |
 
 ## Description

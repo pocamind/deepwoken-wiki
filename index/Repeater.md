@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 146914
+revid: 151093
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand Guns, Summer Company, Light Weapons]
@@ -19,12 +19,12 @@ categories: [Weapons, Pistols, Offhand Guns, Summer Company, Light Weapons]
 | stances | 1 Handed |
 | offhand | Yes |
 | selling price | 14 |
-| weight | 1 |
+| weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Summer Isle for , The Depths (Chests), Chime of Conflict (Chests), Fishing, Bounties |
+| obtainment | Sold at Summer Isle for 200 , The Depths (Chests), Chime of Conflict (Chests), Fishing, Bounties, Saramaed Hollow |
 | description | "A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire." |
 
 ## Description

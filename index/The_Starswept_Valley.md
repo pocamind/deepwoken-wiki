@@ -1,11 +1,9 @@
 ---
 title: The Starswept Valley
-revid: 148182
+revid: 151008
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Locations, Locations in the Eastern Luminant]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [Locations, Locations in the Eastern Luminant]
 ---
 
 # The Starswept Valley
@@ -36,11 +34,10 @@ Events that spawn in Starswept Valley that could potentially involve combat. For
 -   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Hive Scouts](Hive_Scout.md) [Hiveiconfaction](The_Hive.md)
 -   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md)
 -   [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md)
--   [Desert Knight](Stone_Knight.md) vs [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt)/[Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt)
--   [King Thresher](Thresher.md) vs Hive Scouts [Hiveiconfaction](The_Hive.md)
+-   [Stone Knight](Stone_Knight.md) vs [Crimson Megalodaunt](Crimson_Megalodaunt.md)/[Alpha Megalodaunt](Alpha_Megalodaunt.md)
+-   [King Thresher](King_Thresher.md) vs Hive Scouts [Hiveiconfaction](The_Hive.md)
 -   [Legion Sniper](Legion_Sniper.md)
 -   [Alpha Megalodaunt](Alpha_Megalodaunt.md)
--   [Serena](Serena.md)
 
 ## Events
 

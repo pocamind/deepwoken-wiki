@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 150952
+revid: 151079
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -174,6 +174,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Ether steal is reduced if target has general resistances (AKA reinforce and etc)<br>
   Procs on Critical Attack<br>
   Additionally, your weapon attacks can proc certain <a href="Shadowcast.md">Shadowcast</a> Talents, such as Twisted Puppets' shadow burn or Sightless Still.</p>
+  <p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b></p>
   <p>Directly dropped from <a href="Parliament.md">Parliament</a> and <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a> (uncommon).</p></div></td>
   <td><div>The weapon turns black with black shadow effects enveloping it.</div></td>
 </tr>
@@ -374,6 +375,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Void<div></div></font></center></td>
   <td><div><p>On weapon attack, apply the Void status effect. This effect has no visual indicator and lasts 15 seconds.</p>
   <p>For the duration of the status effect, the target is under an Anti-Heal effect. Additionally, if they die while affected by Void, they will instantly drown and be sent to <a href="The_Depths.md">The Depths</a>.</p>
+  <p>Permanently stained health bar while the enchant is equipped.</p>
   <p>Acts very similarly to a <a href="Void_Spire.md">Void Spire</a>.</p>
   <p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b></p>
   <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 25 <a href="Void_Spire.md">Void Spires</a> and .</p></div></td>

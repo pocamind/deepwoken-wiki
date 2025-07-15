@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 147006
+revid: 151002
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons]
@@ -20,13 +20,15 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | endlag | 0.1s |
 | penetration | Template:AlloyedColor |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 7 |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Weapon shop in Etris, Lower Erisia (Chests), Chime of Conflict, Brainsucker, Isle of Vigils (Chests)Template:AlloyedColor, Alloying a Steel Maul |
-| description | "A sturdy maul perfect for knocking walls and people down alike." |
+
+|description="A sturdy maul perfect for knocking walls and people down alike." }}
 
 ## Description
 

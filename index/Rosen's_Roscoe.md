@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 146916
+revid: 151070
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Summer Company, Offhand Guns, Light Weapons]
@@ -19,7 +19,8 @@ categories: [Weapons, Pistols, Summer Company, Offhand Guns, Light Weapons]
 | chip damage | 20% |
 | stances | 1 Handed |
 | offhand | Yes |
-| weight | 3.5 |
+| selling price | 50 |
+| weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -29,7 +30,9 @@ categories: [Weapons, Pistols, Summer Company, Offhand Guns, Light Weapons]
 
 ## Description
 
-Rosen's Roscoe is a pistol type weapon that can be used both in both akimbo and single-handed styles. It requires 75 points in light weapons to be equipped. It resembles a classical revolver and was originally created by a student of [Gunsmith Rosen](Gunsmith_Rosen.md) of the [Summer Company](The_Summer_Company.md). In comparison to most other light guns, it has a (Comparatively) low scaling of 11 and a low base damage of 16. Despite this, it can still be a viable option for any gun users.
+Rosen's Roscoe is a pistol type weapon that can be used both in both akimbo and single-handed styles. It resembles a classical revolver and was originally created by a student of [Gunsmith Rosen](Gunsmith_Rosen.md) of the [Summer Company](The_Summer_Company.md).
+
+In comparison to most other light guns, it has a (Comparatively) low scaling of 11 and a low base damage of 16. Despite this, it can still be a viable option for any gun users.
 
 ## Trivia
 
@@ -37,4 +40,4 @@ Rosen's Roscoe is a pistol type weapon that can be used both in both akimbo and 
 -   Second fastest pistol in the game in terms of swing speed.
 -   The weapon is also called 'big iron' in the campfire menu.
 -   Along with the [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) and [Iron Requiem](Iron_Requiem.md), these are the only three pistols in the game to have a unique sound effect on M1/crit.
--   There's a bugged version of this weapon that has the Common Rarity and is Unsellable
+-   There's a bugged version of this weapon that has the Common Rarity and is Unsellable.

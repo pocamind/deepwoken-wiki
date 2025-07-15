@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 149569
+revid: 151035
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -236,7 +236,7 @@ Exhaustive Loot Table
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b><font>Relic Weapons</font></b>: <a href="Dormant_Splinter.md"><font>Dormant Splinter</font></a>.</li>
+    <li><b><font>Relic Weapons</font></b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
     <li><b><font>Legendary Weapons</font></b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>.</li>
     <li><b><font>Alloyed Weapons</font></b>: N/A</li>
     <li><b><font>Generic Weapons</font></b>:
@@ -266,7 +266,7 @@ Exhaustive Loot Table
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: N/A</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
   <ol>
-    <li><b>All Seasons</b>: <a href="Lightkeeper's_Medallion.md"><font>Lightkeeper's Medallion</font></a>.</li>
+    <li><b>All Seasons</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>.</li>
     <li><b>Seasonal Exclusive</b>: Scarf (Black) (Winter).</li>
   </ol></li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>:

@@ -1,68 +1,235 @@
 ---
 title: The Meat Lord
-revid: 150415
+revid: 150983
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pages with broken file links, Random Encounters, NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
+categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
 ---
 
 # The Meat Lord
 
 | The Meat Lord | |
 |---|---|
+| name | The Meat Lord |
 | aspect | Adret |
+| location | The Garden Reservoir, The Hidden Village, Meteor Isle, Pathfinder's Respite, Songseeker Wilds, Starswept Valley, Summer Isle, Temple of the Forgotten Flame, Towerstruck Lands, Upper Erisia, Viper's Jaw |
 
 “ Very well, you may rise. ”
 
-― The Meat Lord to one of his ever-loyal subjects
+― The Meat Lord
 
-## Overview
+## Description
 
-**The Meat Lord** is a [Random Encounter](Random_Encounters.md) and a merchant in Deepwoken. He sells three types of meat dishes at extremely low prices. The available items are randomly selected from a pool of items. Note that Vegetarians cannot eat any of his food as all of them contain meat, obviously.
-
-## [Wares](Food.md#food-recipesinfo)
-
--   Calamari
--   Fish Omelette - Boosts your Mantra Damage.
--   Glazed Fish - Boosts your Weapon Damage.
--   Seafood Boil - Slows Hunger drain.
--   Sushi
--   Mushroom Bisque
--   Cooked Fish
--   Megurger - Boosts your Weapon Damage.
+The Meat Lord is an NPC merchant who is also a [Random Encounter](Random_Encounters.md). He sells various meat dishes and weapons labelled as "The Meat Lord's Selection." He is wearing the [Authority Captain Uniform](Authority_Captain_Uniform.md) with [Grand Pauldrons](Grand_Pauldrons.md), [Grand Boots](Grand_Boots.md), and a dyed version of the [Blackleaf Helm](Blackleaf_Helm.md).
 
 ## Locations
 
--   [The Garden Reservoir](The_Garden_Reservoir.md)
--   [The Hidden Village](The_Hidden_Village.md)
+The Meat Lord can be found at the following places:
+
 -   [Meteor Isle](Meteor_Isle.md)
 -   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
+-   [The Garden Reservoir](The_Garden_Reservoir.md)
+-   [The Hidden Village](The_Hidden_Village.md)
 -   [Towerstruck Lands](Towerstruck_Lands.md)
 -   [Upper Erisia](Upper_Erisia.md)
 -   [Viper's Jaw](<The_Viper's_Jaw.md>)
 
+## Dialogue
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The absurd looking man before you stands with arms crossed triumphantly, as if announcing his presence to the world.*</i></td>
+</tr>
+<tr>
+  <td>Uh, hello?</td>
+</tr>
+<tr>
+  <td><i>*The man twitches, as if irked by your sudden greeting.*</i> Have you perhaps mistake me for one of your fellow commonfolk? Or perhaps, you've not been educated in the proper way of greeting those of noble class?</td>
+</tr>
+<tr>
+  <td>Oh, uh, my bad.</td>
+</tr>
+<tr>
+  <td><i>*The man sighs with exasperation.*</i> As it seems you're completely ignorant of my fame, I'll ignore this slight and give you a proper lesson - I am the Meat Lord, known for my high quality flesh-based cuisine across all places of this world above and below. Would you like to browse my current selection?</td>
+</tr>
+<tr>
+  <td>Yes, m'lord.</td>
+</tr>
+<tr>
+  <td>[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The Meat Lord stands in silence, awaiting those who are undoubtedly seeking to purchase from his collection.*</i></td>
+</tr>
+<tr>
+  <td>Hey.</td>
+  <td>[Bow to the Meat Lord]</td>
+</tr>
+<tr>
+  <td><i>*From beneath the Meat Lord's masking, you feel his vexed gaze weigh upon you.*</i> Do you understand how to behave properly in the face of <b>nobility</b>?</td>
+  <td>You may rise. I presume you wish to see today's selection?</td>
+</tr>
+<tr>
+  <td>End</td>
+  <td>Yes, m'lord.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td></td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Disrespected The Meat Lord.:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The Meat Lord seems to have no intention of acknowledging your presence.*</i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player has the Vegetarian Flaw:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4"><i>*The Meat Lord stands in silence, awaiting those who are undoubtedly seeking to purchase from his collection.*</i></td>
+</tr>
+<tr>
+  <td colspan="4">[Bow to the Meat Lord]</td>
+</tr>
+<tr>
+  <td colspan="4">You may rise. I presume you wish to see today's selection?</td>
+</tr>
+<tr>
+  <td colspan="2">Yes, m'lord.</td>
+  <td colspan="2">I'm a vegetarian.</td>
+</tr>
+<tr>
+  <td colspan="2">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
+  <td colspan="2">I don't remember asking. Do you wish to see today's selection?</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+  <td>Yes, m'lord.</td>
+  <td>I'm a vegetarian.</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">[See previous instances.]</td>
+</tr>
+</tbody>
+</table>
+
+**Shop UI:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>When accessing the Shop</td>
+</tr>
+<tr>
+  <td>Very well.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+## Shop UI
+
+The Meat Lord's Selection
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>2 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>[Item name]</div><div><i></i></div></td>
+</tr>
+</tbody>
+</table>
+
   
+
+He will only sell 3 meat dishes at a time.
+
+His item descriptions will be the same as what he's selling:
+
+-   _And who said mercury wasn't delicious?_
+-   _A hearty bisque._
+-   _Everyone knows rice neutralizes food poisoning from raw fish._
+
+## Shop Rotation
+
+### 
+
+Sold Items
+
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Food.md">Food</a></b></td>
+  <td><p><b>For 2 </b>: <a href="Calamari.md">Calamari</a>, <a href="Cooked_Fish.md">Cooked Fish</a>, <a href="Fish_Omelette.md">Fish Omelette</a>, <a href="Glazed_Fish.md">Glazed Fish</a>, <a href="Megurger.md">Megurger</a>, <a href="Mushroom_Bisque.md">Mushroom Bisque</a>, <a href="Seafood_Boil.md">Seafood Boil</a>.</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
--   The Meat Lord sells some of the best food in the game, including the Seafood Boil, which gives you a quite large amount of hunger and thirst, while also reducing the amount of hunger you lose for a short time.
--   Acting in ways he deems disrespectful will result in him refusing to sell items to you until you find another random event of him or server-hop. This includes:
-    -   Choosing the "Hey" option when speaking to him.
-    -   Trying to buy something from him with not enough money.
-    -   Buying food without bowing to him afterwards.
--   This character exists because of a running joke within the Rogue Lineage community about [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan), a meat vendor in Sentinel.
--   Talking to The Meat Lord while possessing the [Vegetarian flaw](Boons_and_Flaws.md#flaws) will give you the dialogue option to tell him that you are a vegetarian, to which he will respond with "I don't remember asking."
--   Stated by Par that The Meat Lord can "low diff any Drowned God." [\[1\]](#cite-note-1)
--   Agamatsu asked Ragoozer on who would win Big Hoss or the Meat Lord. Ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. ([https://www.youtube.com/watch?v=HUvFVu8nt7w](https://www.youtube.com/watch?v=HUvFVu8nt7w))
--   Ragoozer said that Big Hoss gets his McChickens from The Meat Lord.
--   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines before acting as normal:
+-   Whenever you try to spook him with a [Hallowtide Mask](Hallowtide_Mask.md), he doesn't get spooked and instead says one of these lines before acting as normal:
     -   "Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain."
     -   "Dress up as a salad and maybe then you'll get a reaction from me."
-        -   Before November 3rd, 2022, The Meat Lord would've been spooked like any other ordinary static NPC.
+-   Acting in ways he deems disrespectful will result in him refusing to sell items to you until you find another random event of him or server-hop.
+-   This character exists because of a running joke within the Rogue Lineage community about [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan), a meat vendor in Sentinel.
+-   Talking to The Meat Lord while possessing the [Vegetarian Flaw](Boons_and_Flaws.md#flaws) will give you the dialogue option to tell him that you are a vegetarian, to which he will respond with "I don't remember asking."
+-   Stated by Par that The Meat Lord can "low diff any Drowned God." [\[1\]](#cite-note-1)
+-   Agamatsu asked Ragoozer on who would win between Big Hoss or The Meat Lord. Ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. ([https://www.youtube.com/watch?v=HUvFVu8nt7w](https://www.youtube.com/watch?v=HUvFVu8nt7w))
+-   Ragoozer said that Big Hoss gets his McChickens from The Meat Lord.
+    -   -   Before the November 3rd, 2022 update, The Meat Lord would've been spooked like any other ordinary static NPC.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 150160
+revid: 151037
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -218,7 +218,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   <td><a href="Rock_Golem.md">Stonelife Golem</a></td>
   <td>Stonelife Golem Slayer I/II/III
   <ul>
-    <li>Slay 10, 25, and 100 <a href="Rock_Golem.md">Rock Golems</a> or <a href="Golem_Prime.md">Golem Primes</a></li>
+    <li>Slay 10, 25, and 100 <a href="Rock_Golem.md">Rock Golems</a>, <a href="Golem_Prime.md">Golem Primes</a>, or <a href="Stonespark.md">Stonesparks</a></li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>

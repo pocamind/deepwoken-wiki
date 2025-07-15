@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 150732
+revid: 151115
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -170,10 +170,10 @@ To get access to the shop you must finish [The Vat](The_Vat.md). The shop is rel
 <table>
 <tbody>
 <tr>
-  <td colspan="15">Begin</td>
+  <td colspan="18">Begin</td>
 </tr>
 <tr>
-  <td colspan="15">You return. This is good. Would you like to assist me further in experiments. You can have the material results.</td>
+  <td colspan="18">You return. This is good. Would you like to assist me further in experiments. You can have the material results.</td>
 </tr>
 <tr>
   <td colspan="3">Void Enchant [25 <a href="Void_Spire.md"><font><u>Void Spires</u></font></a>, 10 <a href="Crowns.md"><font><u>Crowns</u></font></a>]</td>
@@ -181,6 +181,7 @@ To get access to the shop you must finish [The Vat](The_Vat.md). The shop is rel
   <td colspan="3">Parasol's Blight [<a href="Parasol_Part.md"><font><u>Parasol Part</u></font></a>]</td>
   <td colspan="3">Aegis Gem [<a href="Doom_of_Caeranthil's_Scale.md"><font><u>Doom of Caeranthil's Scale</u></font></a>]</td>
   <td colspan="3">Lets try that experiment again.</td>
+  <td colspan="3">Who - or what - are you, exactly?</td>
 </tr>
 <tr>
   <td colspan="3">Purchases <a href="Enchantments.md#blessings"><font><u>Void Enchant Stone</u></font></a></td>
@@ -188,6 +189,15 @@ To get access to the shop you must finish [The Vat](The_Vat.md). The shop is rel
   <td colspan="3">Purchases <a href="Enchantments.md#equipment"><font><u>Parasol's Blight Enchant Stone</u></font></a></td>
   <td colspan="3">Purchases <a href="Mantra_Modifiers.md#deep-gems"><font><u>Aegis Gem</u></font></a></td>
   <td colspan="3">[Enter Dungeon]</td>
+  <td colspan="3">Mm. Let me try a metaphor. If you are a stalk of wheat, then I am a loaf of bread. This is a fitting analogy.</td>
+</tr>
+<tr>
+  <td colspan="3">I see. We have learnt much.</td>
+  <td colspan="12"></td>
+  <td colspan="3">End.</td>
+</tr>
+<tr>
+  <td colspan="3">End.</td>
 </tr>
 </tbody>
 </table>

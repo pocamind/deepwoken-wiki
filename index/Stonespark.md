@@ -1,6 +1,6 @@
 ---
 title: Stonespark
-revid: 150960
+revid: 151009
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -35,10 +35,7 @@ File:.gif
 | --- | --- |
 |  |  |
 
-## Passives
-
-It's like a mudskipper but with a heavy punch.
-
 ## Trivia
 
-I wanna call it pebble.
+-   When not in combat Stonesparks will deactivate and kneel down.
+-   [Marcus](Marcus.md), located in [The Hidden Village](The_Hidden_Village.md), is the only known passive Stonespark.

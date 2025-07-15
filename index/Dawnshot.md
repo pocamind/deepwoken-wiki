@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 146913
+revid: 151078
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Alloyed Weapons, Offhand Guns, Light Weapons]
@@ -10,22 +10,22 @@ categories: [Weapons, Pistols, Alloyed Weapons, Offhand Guns, Light Weapons]
 
 | Dawnshot | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Dawnshot |
 | type | Pistol |
-| requirements | 40 / Template:AlloyedColor LHT |
-| damage | 14 / Template:AlloyedColor |
+| requirements | 40 LHT 75 LHT |
+| damage | 14 16 |
 | scaling | LHT: 12 |
 | range | 10.5 |
 | swing speed | 1.17x |
 | stances | 1 Handed |
 | offhand | Yes |
-| selling price | / |
-| weight | 1 |
+| selling price | 25 |
+| weight | 1 2.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Minityrsa, Summer Isle, Moon's Eyrie, Scion of Ethiron, Songseeker Wilds, Lodestar, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, War ModeTemplate:AlloyedColor, Alloying a Dawnshot, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, Sea Events |
+| obtainment | First Layer, Minityrsa, Summer Isle, Moon's Eyrie, Scion of Ethiron, Songseeker Wilds, Lodestar, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, War ModeAlloyed:, Alloying a Dawnshot, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, Sea Events |
 | description | "With an almost flawless silver sheen that prevents corrosion from saltwater, the Dawnshot was purpose-built by Rosen for his lengthy travels at sea. Its short range is compensated for by the almost wrist-snapping kickback of four barrels. Although, with the Summer Company Cannon making most naval investments in their territories obsolete, this weapon has fallen out of production." |
 
 ## Description

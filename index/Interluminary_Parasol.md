@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 149312
+revid: 151013
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -75,6 +75,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><a href="Parasol_Part.md">Parasol Part</a> (direct drop)</li>
+    <li><a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a> (direct drop)</li>
     <li>One or two <a href="Crowns.md">Crowns</a>, depending on how much damage you did to the Parasol</li>
     <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
     <li>Some <a href="Relics.md">Relics</a>:

@@ -1,11 +1,9 @@
 ---
 title: Job Boards
-revid: 149739
+revid: 151068
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Quests]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Quests]
 ---
 
 # Job Boards
@@ -34,6 +32,9 @@ _Jobs relating to Erisia can be given by [Etrea](Etrea.md) [Etreaiconfaction](Et
 
 -   **A Daunting Task**
     -   Tasks the player with slaying one [Megalodaunt](Megalodaunt.md).
+
+-   **Forge Recall**
+    -   Tasks the player with slaying one [Stonespark](Stonespark.md).
         
 
 ## Eastern Luminant

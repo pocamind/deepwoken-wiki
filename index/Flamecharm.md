@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 150695
+revid: 151108
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1555,22 +1555,6 @@ Your fire abilities no longer proc burn and instead proc on eruption under the e
 Eruptions have a short delay before proccing. Eruptions are procced whenever you would've applied burn (with very few exceptions).
 
 Eruption damage scales on Flamecharm investment. Eruptions have a 3 second cooldown.
-
- |
-| 
-
- | 
-
-Molten Defence  
-(60 Flamecharm, Eruption Path: Lava Serpent)
-
- | 
-
-Upon being guard broken, you erupt. 30s cooldown.
-
- | 
-
-Ignores the regular Eruption cooldown. Deals 10 damage with no scaling. Molten Defence Eruptions do not benefit from any of your Talents.
 
  |
 | 

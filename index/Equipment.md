@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 150777
+revid: 151103
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
@@ -4841,29 +4841,6 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  | N/A |
-| File:Old World Sun Pendant.png | 
-
-[Old World Sun Pendant](Wheel_Pendant.md)
-
- | 
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Rare**)
--   [Miner's Landing](<Miner's_Landing.md>) (**Very Rare**)
--   [Hell Mode](Hell_Mode.md)
--   [Second Layer](Second_Layer.md) (**Rare**)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- | N/A |
 | File:Pathfinder lantern front.png | 
 
 [Pathfinder Lantern](Pathfinder_Lantern.md)
@@ -5095,6 +5072,29 @@ _+3% Elemental Armor_
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+
+ | N/A |
+| File:Old World Sun Pendant.png | 
+
+[Wheel Pendant](Wheel_Pendant.md)
+
+ | 
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Rare**)
+-   [Miner's Landing](<Miner's_Landing.md>) (**Very Rare**)
+-   [Hell Mode](Hell_Mode.md)
+-   [Second Layer](Second_Layer.md) (**Rare**)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | File:Wormwarder regular.png | 
