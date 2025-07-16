@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 150373
+revid: 151361
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -8,28 +8,37 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 
 # Darksteel Plate
 
-Template:ArmorInfobox**Darksteel Plate** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Darksteel Plate | |
+|---|---|
+| caption | The durable battle armour of an Adretian soldier. The armour is specially forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile armour plate. |
+| tier | Expert |
+| crafting_req | x5 Cloth, x5 Fiber, x5 Erisore, x1 Strange Claw, x1 Dark Feather |
+| price | 300 |
+| stat_req | Power 10, 20 Fortitude |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2500 |
+| resistances | +25% Physical Armor, +25% Elemental Armor |
+| talents | Unbreakable |
+| obtainment | Chests from:, Summer Isle, Songseeker Wilds, Minityrsa, Lower Erisia, Sold above the Lord Regent's throne in Etris for 200 |
+| selling_price | 10 |
+| weight | 1 |
+
+**Darksteel Plate** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, five (5) pieces of [Erisore](https://deepwoken.fandom.com/wiki/Ore?so=search#Erisore), one (1) [Strange Claw](Strange_Claw.md) and one (1) [Dark Feather](Dark_Feather.md).
+This Outfit costs 300 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Erisore](Ores.md#erisore), one (1) [Strange Claw](Strange_Claw.md) and one (1) [Dark Feather](Dark_Feather.md) to craft.
 
-This Outfit requires [Power Level](Power.md) 10 and 20 [Fortitude](Attributes.md).
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 and have at least 20 [Fortitude](Attributes.md#ftd) to be crafted.
 
 ### _Armor Stats_
 
 This Outfit has 2500 durability and grants +25% Physical resistance and +25% Elemental resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Unbreakable,_ which has _reduced stun duration when block broken._
-
-## Location
-
-This Outfit's Schematic can be found
-
--   Above the Lord Regent's throne in [Etris](Etris.md) for
--   Chests via [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md) and [Summer Isle](Summer_Isle.md)
+This Outfit also grants the [Unbreakable](Talents.md#equipment-talents) Talent, reducing the duration of the guard break stun by 0.35 seconds (1.05s to 0.7s).
 
 ## Trivia
 

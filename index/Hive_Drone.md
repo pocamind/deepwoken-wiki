@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 151149
+revid: 151358
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
@@ -8,15 +8,31 @@ categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
 
 # Hive Drone
 
-Template:ArmorInfobox**Hive Drone** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Hive Drone | |
+|---|---|
+| caption | Uniform of the Hive, threaded for powerful soldiers and researchers alike. |
+| tier | Expert |
+| crafting_req | x5 Cloth, x5 Fiber, x2 Megalodaunt Hide, x1 Iron |
+| price | 30 |
+| stat_req | Power 10 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1000 |
+| resistances | +25% Physical Armor, +25% Elemental Armor, +5% Blunt Armor, +5% Wind Armor |
+| talents | Lowstride |
+| obtainment | Chests from:, Starswept Valley, Summer Isle, Rogue Construct, The Depths, LodestarSold by Nyanna and Traan Zakshun for 80 |
+| selling_price | 10 |
+| weight | 1 |
+
+**Hive Drone** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, two (2) Megalodaunt Hides and one (1) Iron.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and one (1) [Iron](Ores.md#iron) to craft.
 
-This Outfit requires [Power Level](Power.md) 10.
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
@@ -24,18 +40,7 @@ This Outfit has 1000 durability and grants +25% Physical resistance, +25% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt, 25% Slash, 28.75% Galebreathe, and 25% Elemental.
 
-This Outfit also grants the [Talent Card](Talents.md) _Lowstride_
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Starswept Valley](The_Starswept_Valley.md)
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   Sold by [Traan Zakshun](Traan_Zakshun.md) at [Erisia](Erisia.md)
--   [Summer Isle](Summer_Isle.md) Chests
--   [Rogue Construct](Hive_Construct.md#rogue-construct) chests on [Minityrsa](Minityrsa.md)
--   [The Depths](The_Depths.md)
+Hive Drone also grants the [Lowstride](Talents.md#assassin) Talent, increasing your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
 ## Trivia/Notes
 

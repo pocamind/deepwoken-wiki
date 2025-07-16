@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 132701
+revid: 151329
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Dusters, The Ignition Union]
@@ -12,6 +12,7 @@ categories: [Items, Equipment, Arms, Dusters, The Ignition Union]
 |---|---|
 | type | Arms |
 | rarity | Mythic |
+| selling price | 100 |
 | requirements | Power 10 |
 | weight | 2 |
 | innate stats | +5 Health, +3 Legendary Pips |
@@ -21,7 +22,7 @@ categories: [Items, Equipment, Arms, Dusters, The Ignition Union]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests:Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Miner's Landing, Saramaed Summit, Saramaed Hollow, Starfield Veldt, Other Sources:, Merchant Ships |
-| description | "..." |
+| description | ... |
 
 ## Description
 

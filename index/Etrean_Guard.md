@@ -1,6 +1,6 @@
 ---
 title: Etrean Guard
-revid: 133121
+revid: 151360
 source: https://deepwoken.fandom.com/wiki/Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, Etrea]
@@ -14,21 +14,15 @@ Template:ArmorInfobox**Etrean Guard** is an Expert [Outfit](Outfits.md) in _Deep
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, five (5) [Erisore](Ores.md#erisore) and two (2) [Megalodaunt Hide](Megalodaunt_Hide.md).
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Erisore](Ores.md#erisore) and two (2) [Megalodaunt Hide](Megalodaunt_Hide.md) to craft.
 
-This Outfit requires [Power Level](Talents.md) 10.
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
 This Outfit has 2000 durability and grants +25% Physical resistance and +20% Elemental resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Unbreakable,_ which _reduces your stun duration when block broken._
-
-## Location
-
-This Outfit's Schematic can be obtained from:
-
--   [First Layer](First_Layer.md) (and some island events by extension)
+This Outfit also grants the [Unbreakable](Talents.md#equipment-talents) Talent, reducing the duration of the guard break stun by 0.35 seconds (1.05s to 0.7s).
 
 ## Trivia
 

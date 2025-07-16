@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 148772
+revid: 151365
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, Summer Company]
@@ -8,15 +8,31 @@ categories: [Armors, Items, Outfits, Adept Outfits, Summer Company]
 
 # Summer Company Uniform
 
-Template:ArmorInfobox **Summer Company Uniform** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+| Summer Company Uniform | |
+|---|---|
+| caption | An easy to reproduce armor for the summer company grunts. |
+| tier | Adept |
+| crafting_req | x5 Cloth, x5 Fiber, x2 Coal, x10 Iron |
+| price | 100 |
+| stat_req | Power 5 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1500 |
+| resistances | +10% Physical Armor, +5% Elemental Armor, +10% Slash Armor, +25% Shadow Armor |
+| talents | Armor Piercing |
+| obtainment | Summer Isle (inside the gun store), Sold by Traan Zakshun for 200 Chests from:, Summer Isle, Moon's Eyrie, First Layer, Primadon |
+| selling_price | 10 |
+| weight | 1 |
+
+**Summer Company Uniform** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber as well as ten (10) [Iron](Ores.md#iron).
+This Outfit costs 100 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Coal](Ores.md#coal), and ten (10) [Iron](Ores.md#iron) to craft.
 
-This Outfit requires [Power Level](Power.md) 5.
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
 ### _Armor Stats_
 
@@ -24,18 +40,7 @@ This Outfit has 1500 durability, grants +10% Physical resistance, +5% Elemental 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Slash, 10% Blunt, 28.75% Shadowcast, and 5% Elemental.
 
-The [Armor Piercing](Talents.md#gunslinger) Talent causes your bullets to ignore 15% of an opponent's physical armor.
-
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
--   [Summer Isle](Summer_Isle.md) Gun Store
--   [Summer Isle](Summer_Isle.md) (Chest)
--   [First Layer](First_Layer.md)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Traan Zakshun](Traan_Zakshun.md) for
+The [Armor Piercing](Talents.md#gunslinger) Talent causes your Pistol and Rifle 'blast' shots and bullets to ignore 15% of an opponent's blunt armor. This is applied multiplicatively before PEN is applied, making this worse than a flat increase to your overall PEN.
 
 ## Trivia/Notes
 

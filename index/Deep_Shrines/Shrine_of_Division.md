@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Division
-revid: 147516
+revid: 151304
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -26,7 +26,7 @@ Located in [The Lordsgrove](../The_Lordsgrove.md) in the absurd large tunnel sys
 
 ### Effects
 
-For and a Mantra of your choice, obtain a Roll 2.
+For 5 and a Mantra of your choice, obtain a Roll 2.
 
 ### Details
 

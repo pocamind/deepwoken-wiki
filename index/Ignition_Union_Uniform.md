@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 148761
+revid: 151371
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Ignition Union]
@@ -8,32 +8,33 @@ categories: [Armors, Items, Outfits, Adept Outfits, The Ignition Union]
 
 # Ignition Union Uniform
 
-Template:ArmorInfobox**Ignition Union Uniform** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+| Ignition Union Uniform | |
+|---|---|
+| caption | ... |
+| tier | Adept |
+| crafting_req | x5 Cloth, x5 Fiber, x3 Irithine, x1 Lionfish Scale |
+| stat_req | Power 6 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2000 |
+| resistances | +22% Physical Armor, +22% Elemental Armor |
+| obtainment | Sold by:, Nyanna for 80 , Traan Zakshun for 80 , At the Miner's Landing bankChests from:, Lower Erisia, Primadon, The Depths, Lodestar |
+| selling_price | 10 |
+| weight | 1 |
+
+**Ignition Union Uniform** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires five (5) Cloth and Fiber, three (3) [Irithine](Ores.md#irithine), and one (1) Lionfish Scale.
+This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Irithine](Ores.md#irithine), and one (1) [Lionfish Scale](Lionfish_Scale.md) to craft.
 
-This Outfit requires [Power Level](Power.md) 6.
+This Outfit additionally requires the player to be at least [Power](Power.md) 6 to be crafted.
 
 ### _Armor Stats_
 
 This Outfit has 2000 durability, grants +22% Physical resistance, and +22% Elemental resistance.
-
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   Sold by [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
--   [Miner's Landing](<Miner's_Landing.md>), at the bank
--   [Lower Erisia](Lower_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md) (Chests)
--   [Saramaed Hollow](Saramaed_Hollow.md)
--   [Brainsucker](Brainsucker.md)
--   [The Depths](The_Depths.md)
 
 ## Trivia/Notes
 

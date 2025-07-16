@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 150519
+revid: 151262
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Master Outfits]
@@ -22,7 +22,7 @@ categories: [Armors, Items, Outfits, Master Outfits]
 | buffs | +50% Ether Regen |
 | talents | Wind Dancer |
 | obtainment | The Diluvian Mechanism, Maestro Evengarde Rest, Scion of Ethiron, Glaive Spellhardt |
-| selling_price | 10 notes |
+| selling_price | 10 |
 | weight | 1 |
 
 **Windrunner Robes** is a Master [Outfit](Outfits.md) in _Deepwoken_.

@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 150540
+revid: 151405
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -14,7 +14,7 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 | tier | Expert |
 | crafting_req | x5 Cloth, x5 Fiber, x2 Gold, x10 Iron, x2 Megalodaunt Hide, x1 Strange Claw |
 | price | 100 |
-| stat_req | Power Level 10 |
+| stat_req | Power 10 |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1500 |
@@ -31,25 +31,17 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 
 ### _Requirements_
 
-This Outfit costs 100 and requires five (5) Cloth and Fiber, two (2) [Gold](Ores.md#gold), ten (10) [Iron](Ores.md#iron), two (2) [Megalodaunt Hide](Megalodaunt_Hide.md) and one (1) [Strange Claw](Strange_Claw.md).
+This Outfit costs 100 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Gold](Ores.md#gold), ten (10) [Iron](Ores.md#iron), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md), and one (1) [Strange Claw](Strange_Claw.md) to craft.
 
-This Outfit requires [Power Level](Talents.md) 10.
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +15% Physical resistance, +15% Elemental resistance, +5% Fire resistance, +5% Shadow resistance and +50% Stealth.
+This Outfit has 1500 durability and grants +15% Physical resistance, +15% Elemental resistance, +5% Fire resistance, +5% Shadow resistance and +50% [Stealth](Stealth.md).
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 15% Physical, 19.25% Flamecharm, 19.25% Shadowcast, and 15% Elemental.
 
-This Outfit also grants the [Talent Card](Talents.md) _Foolish Outburst,_ which absorbs the [Tempo](Combat_Mechanics.md#gui) cost of a [Vent](Combat_Mechanics.md#combat-basics) should the wearer block or parry it.
-
-## Location
-
-This Outfit's Schematic can be obtained from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Summer Isle](Summer_Isle.md)
+This Outfit also grants the [Foolish Outburst](Talents.md#tactician) Talent, which absorbs the [Tempo](Combat_Mechanics.md#gui) cost of a [Vent](Combat_Mechanics.md#combat-basics) should the wearer block or parry it.
 
 ## Trivia
 

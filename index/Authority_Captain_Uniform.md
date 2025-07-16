@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 150811
+revid: 151363
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Central Authority]
@@ -14,7 +14,7 @@ categories: [Armors, Items, Outfits, Expert Outfits, The Central Authority]
 | tier | Expert |
 | crafting_req | x5 Cloth, x5 Fiber, x1 Dark Feather, x1 Lionfish Scale |
 | price | 500 |
-| stat_req | Power Level 10, 25 Strength |
+| stat_req | Power 10, 25 Strength |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2000 |
@@ -29,22 +29,13 @@ categories: [Armors, Items, Outfits, Expert Outfits, The Central Authority]
 
 ### _Requirements_
 
-This Outfit costs 500 and requires five (5) Cloth and Fiber, one (1) Dark Feather and one (1) Lionfish Scale.
+This Outfit costs 500 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Dark Feather](Dark_Feather.md) and one (1) [Lionfish Scale](Lionfish_Scale.md) to craft.
 
-This Outfit requires [Power Level](Power.md) 10 and 25 [Strength](Attributes.md).
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 and to have at least 25 [Strength](Attributes.md#str).
 
 ### _Armor Stats_
 
 This Outfit has 2000 durability and grants +30% Physical resistance and +25% Elemental resistance.
-
-## _Location_
-
-This Outfit's Schematic can be found:
-
--   Sold by [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
--   [Fort Merit](Fort_Merit.md)
--   [The Depths](The_Depths.md)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
 
 ## Trivia
 

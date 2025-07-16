@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Battlegrounds
-revid: 140896
+revid: 151318
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Battlegrounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, "April Fools' Day events", Events]

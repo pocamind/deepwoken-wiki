@@ -1,6 +1,6 @@
 ---
 title: Nepo
-revid: 148887
+revid: 151224
 source: https://deepwoken.fandom.com/wiki/Nepo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, Summer Company, Reputation]
@@ -20,7 +20,7 @@ categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in th
 
 ## Description
 
-Nepo is the NPC who accepts a bribe for [The Summer Company](The_Summer_Company.md); you can pay him up to 1,200 [Notes](Notes.md) [Robux](https://roblox.fandom.com/wiki/Robux) to restore your reputation to neutral.
+Nepo is the NPC who accepts a bribe for [The Summer Company](The_Summer_Company.md); you can pay him up to 1,200 to restore your reputation to neutral.
 
 ## Location
 

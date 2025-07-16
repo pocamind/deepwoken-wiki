@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Unification
-revid: 147517
+revid: 151309
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Unification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -26,7 +26,7 @@ Located in the [Starfield Veldt](../Starfield_Veldt.md) (next to [Abaddon, Sinne
 
 ### Effects
 
-For and 2 Talents of your choice, get a Whisper Draw.
+For 5 and 2 Talents of your choice, get a Whisper Draw.
 
 ### Details
 

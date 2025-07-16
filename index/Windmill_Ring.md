@@ -1,6 +1,6 @@
 ---
 title: Windmill Ring
-revid: 150810
+revid: 151339
 source: https://deepwoken.fandom.com/wiki/Windmill_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -21,7 +21,7 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:, First Layer, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent |
-| description | "Taking damage from ice or wind will cause you to regenerate ether." |
+| description | Taking damage from ice or wind will cause you to regenerate ether. |
 
 ## Description
 

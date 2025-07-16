@@ -1,14 +1,26 @@
 ---
 title: Hired Mercenary
-revid: 148756
+revid: 151393
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Starter Outfits]
+categories: [Pages using duplicate arguments in template calls, Items, Outfits, Starter Outfits]
 ---
 
 # Hired Mercenary
 
-Template:ArmorInfobox
+| Hired Mercenary | |
+|---|---|
+| caption | A basic set of armor perfect for taking on the world!... Uhhhh... yeah. |
+| tier | Starter |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Iron |
+| price | 25 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1000 |
+| resistances | +15% Physical Armor, +10% Elemental Armor |
+| obtainment | Sold from:, Nyanna in Castle Light for 80 , Traan Zakshun in Lower Erisia for 80 Chests from:, First Layer, Fishing, Lodestar, Primadon (extremely rare) |
+| selling_price | 10 |
+| weight | 1 |
 
 **Hired Mercenary** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -16,7 +28,7 @@ Template:ArmorInfobox
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, and one (1) piece of Iron.
+This Outfit costs 25 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
@@ -24,26 +36,9 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 This Outfit has 1000 durability, grants +15% Physical resistance, and +10% Elemental resistance.
 
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
-Sold from:
-
--   [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md) for
--   [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md) for
-
-Chests from:
-
--   [First Layer](First_Layer.md)
--   [Fishing](Fishing.md)
--   [Lodestar](Lodestar.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
-
 ## Trivia/Notes
 
 -   Oddly enough, given the name, you can see Karliah wearing this Outfit after completing [her quest](Etris.md#diver-escort-quest).
 -   Used to be called "DawnBringer" long ago, some people might still have the schematic with such name.
--   You can obtain this from Primadon, although it is extremely rare.
 -   Shirt: [https://www.roblox.com/catalog/5738141407/Dawn-Bringer](https://www.roblox.com/catalog/5738141407/Dawn-Bringer)
 -   Pants: [https://www.roblox.com/catalog/5738143153/Dawn-Bringer-Pants](https://www.roblox.com/catalog/5738143153/Dawn-Bringer-Pants)

@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 150406
+revid: 151217
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -15,7 +15,7 @@ categories: [Items, Tools, Craftable]
 | droppable | No |
 | pass down | No |
 | desc | Use this to collect wood! Can be swung as weapon that deals additional damage to structures. |
-| obtainment | Bought for 3 from every vendor besides Merchant Ships., Crafting with two (2) Wood and Iron at a Crafting Station. |
+| obtainment | Bought for 3 from every vendor (Sellings spots, Blacksmiths, Bari, and Seraphina) besides Merchant Ships., Crafting with two (2) Wood and Iron at a Crafting Station. |
 
 The **Lumber Axe** is a tool that can be used to chop trees for wood, structures to break, and players to kill...
 
@@ -23,7 +23,7 @@ The **Lumber Axe** is a tool that can be used to chop trees for wood, structures
 
 The Lumber Axe can be can be obtained in a few ways:
 
--   Bought for 3 from every vendor besides [Merchant Ships](Travelling_Merchant.md).
+-   Bought for 3 from every vendor (Sellings spots, [Blacksmiths](Blacksmith.md), [Bari](Bari.md), and [Seraphina](Seraphina.md)) besides [Merchant Ships](Travelling_Merchant.md).
 -   Crafting with two (2) [Wood](Wood.md) and [Iron](Ores.md#iron) at a [Crafting Station](Crafting_Station.md).
 
 ## Uses

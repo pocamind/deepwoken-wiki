@@ -1,6 +1,6 @@
 ---
 title: "Dawnfist's Ring"
-revid: 150800
+revid: 151278
 source: https://deepwoken.fandom.com/wiki/Dawnfist's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -21,7 +21,7 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Ferryman, Summer Isle (Extremely Rare), Duke Ishamon Erisia (Extremely Rare), The Doom of Caeranthil, Deep Widow, Second Layer, Ancient Rotlands, Maestro Evengarde Rest, Interluminary Parasol, Chime of Conflict, Saramaed HollowTrading with Jeremiah |
-| description | "A ring once worn by an unparalleled warrior. It seems they finally met their match." |
+| description | A ring once worn by an unparalleled warrior. It seems they finally met their match. |
 
 ## Description
 

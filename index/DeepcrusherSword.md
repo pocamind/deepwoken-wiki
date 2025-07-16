@@ -1,6 +1,6 @@
 ---
 title: DeepcrusherSword
-revid: 101713
+revid: 151312
 source: https://deepwoken.fandom.com/wiki/DeepcrusherSword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons, Greathammers]
@@ -20,13 +20,14 @@ notices:
 | swing speed | 0.6x (Legacy System) |
 | endlag | 0.1s |
 | penetration | 0% |
+| selling price | 14 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | N/A |
-| description | "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill." |
+| description | It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill. |
 
 ## Description
 

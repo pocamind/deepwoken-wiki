@@ -1,6 +1,6 @@
 ---
 title: Woodland Pauldrons
-revid: 150485
+revid: 151253
 source: https://deepwoken.fandom.com/wiki/Woodland_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, Starswept Valley, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter
-revid: 146480
+revid: 151378
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, Bandits]
@@ -8,28 +8,35 @@ categories: [Armors, Items, Outfits, Adept Outfits, Bandits]
 
 # Bounty Hunter
 
-Template:ArmorInfobox **Bounty Hunter** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+| Bounty Hunter | |
+|---|---|
+| caption | Armor suited for hunting monsters. |
+| tier | Adept |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Eternal Logstone |
+| stat_req | Power 5 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1500 |
+| resistances | +20% Physical Armor, +10% Elemental Armor |
+| obtainment | Erisia, Sea Events |
+| selling_price | 10 |
+| weight | 1 |
+
+**Bounty Hunter** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires five (5) pieces of Cloth and Fiber as well as one (1) [Eternal Logstone](Mantra_Modifiers.md).
+This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Eternal Logstone](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit requires [Power Level](Power.md) 5.
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
 ### _Armor Stats_
 
 This Outfit has 1500 durability, grants +20% Physical armor, and +10% Elemental armor. Additionally, it provides the [Lightweight](Talents.md#natural-armor) Talent.
 
 The [Lightweight](Talents.md#natural-armor) Talent increases the users movement speed by 25% when their armor's durability reaches 0.
-
-## Obtainment
-
-This outfit can be obtained from:
-
--   [Erisia](Erisia.md)
--   [Sea Events](Random_Encounters.md#sea-events)
 
 ## Trivia
 

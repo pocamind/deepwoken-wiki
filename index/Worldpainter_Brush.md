@@ -1,6 +1,6 @@
 ---
 title: Worldpainter Brush
-revid: 150484
+revid: 151252
 source: https://deepwoken.fandom.com/wiki/Worldpainter_Brush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -29,7 +29,7 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Given to the winner of major art contests. |
-| description | "A mighty brush, bestowed upon Lumen's most gifted artisans." |
+| description | A mighty brush, bestowed upon Lumen's most gifted artisans. |
 
 ## Description
 

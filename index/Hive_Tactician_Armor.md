@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 150724
+revid: 151357
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
@@ -8,15 +8,30 @@ categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
 
 # Hive Tactician Armor
 
-Template:ArmorInfobox**Hive Tactician Armor** or Tactician is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Hive Tactician Armor | |
+|---|---|
+| caption | A fine coat interwoven with steel using Ironsing. |
+| tier | Expert |
+| crafting_req | x5 Cloth, x2 Iron, x2 Dark Feather, x3 Vibrant Gem |
+| stat_req | Power 10, 25 Agility |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1200 |
+| resistances | +30% Physical Armor, +20% Elemental Armor, +10% Wind Armor, +15% Ironsing Armor |
+| talents | Brunt |
+| obtainment | Chests from:, Towerstruck Lands, Songseeker Wilds, Moon's Eyrie, Aratel Island, Starswept Valley, Minityrsa, Primadon, Titan of the EastSold by Nyanna for 80 , Sold by Traan Zakshun for 200 |
+| selling_price | 10 |
+| weight | 1 |
+
+**Hive Tactician Armor** or Tactician is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit has no cost and requires five (5) Cloth, two (2) pieces of Iron, two (2) Dark Feathers and three (3) Vibrant Gems.
+This Outfit has no cost and requires five (5) [Cloth](Cloth.md), two (2) [Iron](Ores.md#iron), two (2) [Dark Feathers](Dark_Feather.md) and three (3) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit requires [Power Level](Power.md) 10 and [Agility](Attributes.md) 25.
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 and have at least 25 [Agility](Attributes.md#agl) to be crafted.
 
 ### _Armor Stats_
 
@@ -24,22 +39,7 @@ This Outfit has 1200 durability and grants +30% Physical resistance, +20% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 32% Ironsing, 28% Galebreathe, and 20% Elemental.
 
-### _Armor Talent_
-
--   **Brunt** - While 2-handing, you take less posture damage.
-    -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Towerstruck Lands](Towerstruck_Lands.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [Aratel Island](Aratel_Island.md)
--   [Minityrsa](Minityrsa.md)
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md) for
--   Sold by [Traan Zakshun](Traan_Zakshun.md) at [Lower Erisia](Lower_Erisia.md) for
+Hive Tactician Armor also grants the [Brunt](Talents.md#equipment-talents) Talent, increasing posture resistance while two-handing by 10%.
 
 ## Trivia/Notes
 

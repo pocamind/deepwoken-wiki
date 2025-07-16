@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 151110
+revid: 151234
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -87,7 +87,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Champion_ (Underdog) **(Note; Cannot give Champion's Regalia, Defiance)**
 -   _Human Architecture_ (Brick Wall, Not a Scratch)
 -   _Liberator_ (Savior)
--   _Limitbreaker_ (Comeback Kid, Defiant until the End, Last Resort, The Eleventh Hour, Uproar)
+-   _Limitbreaker_ (Comeback Kid, Defiant until the End, Last Resort, The Eleventh Hour)
 -   _Mental Fortress_ (Breathing Exercise, Conquer Your Fears, Disbelief)
 -   _Mindbreaker_ (Shared Misery) **(Note; Cannot give Lose Your Mind, Piercing Will)**
 -   _Sturdy Resolve_ (Grasp on Reality, Unfazed)
@@ -163,7 +163,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Flame Dancer_ (Dancing Steps) **(Note; Cannot give Graceful Steps, The Final Act)**
 -   _Flame Warden_ (Cauterized Wounds, Flamewalker, Hell's Partisan) **(Note; Cannot give Warding Radiance)**
 -   _Immolator_ (Agitating Spark, Immolation, Phoenix Flames)
--   _Inferno_ (Corpse Explosion, Pleektsy's Faith, Pleeksty's Will)
+-   _Inferno_ (Corpse Explosion, Pleektsy's Faith)
 -   _Lava Serpent_ (Eruption Path: Lava Serpent, Empowered Eruption, Flash Point, The Floor is Lava)
 -   _Pyromancer_ (Hungry Flames)
 -   _Tamed Flame_ (Controlled Combustion)

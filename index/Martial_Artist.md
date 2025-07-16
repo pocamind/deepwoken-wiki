@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 141419
+revid: 151399
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, Drops]
@@ -8,13 +8,29 @@ categories: [Armors, Items, Outfits, Expert Outfits, Drops]
 
 # Martial Artist
 
-Template:ArmorInfobox**Martial Artist** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Martial Artist | |
+|---|---|
+| caption | Show your strength. |
+| tier | Expert |
+| crafting_req | x7 Cloth, x5 Fiber, x1 Odd Tentacle |
+| price | 100 |
+| stat_req | Power 10, 15 Strength |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1200 |
+| resistances | +30% Physical Armor, +20% Elemental Armor, +5% Fire Armor, +5% Ironsing Armor |
+| talents | Bruiser's Mixup |
+| obtainment | Scyphozia (Depths Collapse), Mudskipper Broodlord, Mudskipper Brute, Diluvian Mechanism (wave 15-50), Fury Nautilodaunt, Lionfish, Saramaed Hollow |
+| selling_price | 10 |
+| weight | 1 |
+
+**Martial Artist** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Requirements
 
-This Outfit costs and requires seven (7) Cloth, five (5) Fiber and one (1) Odd Tentacle.
+This Outfit costs 100 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Odd Tentacle](Odd_Tentacle.md) to craft.
 
-This Outfit requires [Power Level](Talents.md) 10 and 15 Strength.
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 and have at least 15 [Strength](Attributes.md#str) to be crafted.
 
 ## Armor Stats
 
@@ -22,19 +38,7 @@ This Outfit has 1200 durability and grants +30% Physical Armor, +20% Elemental A
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 24% Flamecharm, 24% Ironsing, and 20% Elemental.
 
-This Outfit also grants the [_Bruiser's Mixup_](Talents.md#brawler) Talent, which allows your Fist attacks to inflict bleed temporarily after stance swapping.
-
-## Location
-
-This Outfit's Schematic can be obtained from:
-
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [First Layer](First_Layer.md)
--   [Mudskipper Broodlord](Mudskipper_Broodlord.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Mudskipper Brute](Mudskipper_Brute.md)
--   [Fury Nautilodaunt](Nautilodaunt.md#fury-nautilodaunt)
--   [Saramaed Hollow](Saramaed_Hollow.md)
+This Outfit also grants the [Bruiser's Mixup](Talents.md#brawler) Talent, which allows your Fist attacks to inflict bleed temporarily after stance swapping.
 
 ## Trivia
 

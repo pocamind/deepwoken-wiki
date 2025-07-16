@@ -1,6 +1,6 @@
 ---
 title: "Troublemaker's Overcoat"
-revid: 150722
+revid: 151402
 source: https://deepwoken.fandom.com/wiki/Troublemaker's_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -14,7 +14,7 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 | tier | Expert |
 | crafting_req | x10 Cloth, x10 Fiber, x5 Iron, x5 Megalodaunt Hide |
 | price | 100 |
-| stat_req | Power Level 8 |
+| stat_req | Power 8 |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2500 |
@@ -29,16 +29,10 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 
 ### _Requirements_
 
-This Outfit costs 100 and requires ten (10) Cloth and Fiber, five (5) [Iron](Ores.md), and five (5) [Megalodaunt Hide](Megalodaunt_Hide.md).
+This Outfit costs 100 and requires ten (10) [Cloth](Cloth.md) ten (10) [Fiber](Fiber.md), five (5) [Iron](Ores.md#iron), and five (5) [Megalodaunt Hides](Megalodaunt_Hide.md) to craft.
 
-This Outfit requires [Power Level](Talents.md) 8.
+This Outfit additionally requires the player to be at least [Power](Power.md) 8 to be crafted.
 
 ### _Armor Stats_
 
 This Outfit has 2500 durability and grants +20% Elemental resistance, +25% Physical resistance.
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Moon's Eyrie](<Moon's_Eyrie.md>)

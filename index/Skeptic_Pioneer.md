@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 146473
+revid: 151386
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -8,13 +8,28 @@ categories: [Items, Outfits, Starter Outfits]
 
 # Skeptic Pioneer
 
-Template:ArmorInfobox**Skeptic Pioneer** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+| Skeptic Pioneer | |
+|---|---|
+| caption | A durable coat to protect you against the wear of the world. |
+| tier | Starter |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Crystal Lens |
+| price | 25 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1200 |
+| resistances | +12% Physical Armor, +12% Elemental Armor |
+| talents | Apothecary |
+| obtainment | Sold in Etris weapon shop, Chests from:, Lower Erisia |
+| selling_price | 10 |
+| weight | 1 |
+
+**Skeptic Pioneer** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) pieces of Cloth and Fiber as well as one (1) Crystal Lens.
+This Outfit costs 25 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Crystal Lens](Mantra_Modifiers.md) to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
@@ -22,15 +37,4 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 This Outfit has 1200 durability, grants +12% Physical resistance, and +12% Elemental resistance. Additionally, it provides the [Apothecary](Talents.md#alchemist) Talent.
 
-The [Apothecary](Talents.md#alchemist) Talent causes potions that benefit the player to be more potent.
-
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
--   [Lower Erisia](Lower_Erisia.md)
--   [Etris](Etris.md) Weapon Shop
-
-## Trivia
-
-N/A
+The [Apothecary](Talents.md#alchemist) Talent causes potions that benefit the player have 125% increased potency. This potency is additive to potency from Intelligence investment.

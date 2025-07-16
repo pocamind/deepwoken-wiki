@@ -1,6 +1,6 @@
 ---
 title: Wyvern Officer
-revid: 150475
+revid: 151241
 source: https://deepwoken.fandom.com/wiki/Wyvern_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Exclusive Outfits, Outfits]

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Conceit
-revid: 147515
+revid: 151303
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Conceit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -28,7 +28,7 @@ Located within the [Saramaed Summit](../Saramaed_Summit.md) at [Miner's Landing]
 
 ### Effects
 
-For, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
+For 1, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
 
 ### Details
 

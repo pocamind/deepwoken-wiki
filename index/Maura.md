@@ -1,6 +1,6 @@
 ---
 title: Maura
-revid: 148876
+revid: 151226
 source: https://deepwoken.fandom.com/wiki/Maura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Reputation]
@@ -20,7 +20,7 @@ categories: [Tiran NPCs, Pages with broken file links, NPCs, NPCs located in the
 
 ## Description
 
-Maura is the NPC who accepts a bribe for [The Ignition Union](The_Ignition_Union.md); you can pay her up to 1,200 [Notes](Notes.md) [Robux](https://roblox.fandom.com/wiki/Robux) to restore your reputation to neutral.
+Maura is the NPC who accepts a bribe for [The Ignition Union](The_Ignition_Union.md); you can pay her up to 1,200 to restore your reputation to neutral.
 
 ## Location
 

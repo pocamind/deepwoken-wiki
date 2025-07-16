@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 149027
+revid: 151205
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies, Etrea, Quests, Weapons, NPCs located in the Etrean Luminant]
@@ -170,20 +170,18 @@ Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his
 -   Bulldozer - When Polis flourishes an enemy into a wall, they are guard broken and have a chance of breaking the wall.
 -   Audacity - When Polis starts gripping an enemy, he creates an AOE stun and slow. He also resists the effect of Defiant Until the End and Last Second Negotiation.
 -   Braced Collapse - If Polis is guard broken, he takes less damage from the next hit.
--   Firmly Planted - Polis resists slow debuffs by 30%.
 -   Perseverance - If knocked, Polis gets up faster.
 -   Impervious Slumber - Polis' knock timer cannot be reset.
 -   Moving Fortress - Polis isn't slowed as much while blocking.
 -   Battle Tendency - Polis restores posture +20% faster.
 -   Reinforced Armor - Polis resists PENetration by 60%.
 -   Matador - Polis deals +20% more damage against human enemies with hyperarmor.
--   Uproar - If Polis is quickly hit 3 times, he gains hyperarmor for a short duration.
 -   Brutal Momentum - Polis gains hyperarmor on his next swing if he dodges an attack.
 -   Showstopper - Polis stomps the ground if an enemy tries to dodge his attacks, dazing them.
 -   Warrior's Swing - Polis takes less damage if hit during the hyperarmor of his melee attacks.
 -   Destructive Recovery - Enemies who parry Polis recover much less posture.
 -   Harsh Response - Enemies who parry Polis recover less posture.
--   Heavy Hitter - Polis deals +25% posture damage.
+-   Heavy Hitter - Polis deals +10% posture damage.
 -   Punishing Blow - If Polis hits an enemy while they are swinging their weapon, they are dazed.
 -   Hard Read - If Polis hits a feinting enemy, they are dazed.
 -   Swift Rebound - Polis gains a speed boost after dodging an attack.

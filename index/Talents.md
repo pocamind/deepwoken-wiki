@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 151164
+revid: 151325
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3671,7 +3671,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Cheap Trick \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md) Exclusive\] - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
     -   Being hit while under half HP grants I-frames and turns you invisible for a very short duration. 60s CD.
     -   Knocking an opponent turns you invisible for 2.5 seconds with no I-frames.
-    -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md) to [Surge](Surge.md) OR pay Surge 10 [Knowledge](Knowledge.md) to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
+    -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md#void-feather) to [Surge](Surge.md) OR pay Surge 10 [Knowledge](Knowledge.md) to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
 
 -   Reality Shift - \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md) Exclusive\] - Command the closest conjured servant to attack their hallucinating target, either using a Critical Attack or a Mantra.
     -   The last non-Oath mantra or critical attack you used before spawning your clones will be stored into the clone. The stored ability will be listed above the clone's head in white text with a purple outline.
@@ -3681,12 +3681,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Clones will copy your attunement path and mantra modifiers when utilizing your mantras, but they do **not** utilize your enchants or most Talents.
     -   Reality Shift cannot be activated if no targets are nearby.
     -   Clones will only copy the neutral or aerial criticals of weapons and cannot trigger any other alternate criticals such as running or sliding criticals.
-    -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md) to [Surge](Surge.md) OR pay Surge 10 [Knowledge](Knowledge.md) to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
+    -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md#void-feather) to [Surge](Surge.md) OR pay Surge 10 [Knowledge](Knowledge.md) to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
 
 -   Shaper Mimicry \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md) Exclusive\] - The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.
     -   Although it isn't listed in the Talent description, your clones will also Vent when you Vent.
         -   Your clones will still Vent even if you don't have enough Tempo.
-    -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md) to [Surge](Surge.md) OR pay Surge 10 [Knowledge](Knowledge.md) to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
+    -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md#void-feather) to [Surge](Surge.md) OR pay Surge 10 [Knowledge](Knowledge.md) to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
 
 ### Vocalist
 

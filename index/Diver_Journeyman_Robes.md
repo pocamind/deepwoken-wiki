@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 151185
+revid: 151349
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Divers]
@@ -8,15 +8,31 @@ categories: [Armors, Items, Outfits, Expert Outfits, The Divers]
 
 # Diver Journeyman Robes
 
-Template:ArmorInfobox**Diver Journeyman Robes** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Diver Journeyman Robes | |
+|---|---|
+| caption | Crafted for experienced Divers, these robes signify one who has experienced the horrors of the Deep. |
+| tier | Expert |
+| crafting_req | x5 Cloth, x5 Fiber, x2 Megalodaunt Hide, x1 Iron |
+| price | 30 |
+| stat_req | Power 10 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1000 |
+| resistances | +30% Elemental armor, +20% Physical armor, +10% Blunt armor |
+| talents | Lowstride |
+| obtainment | Chests from:, The Depths, Lodestar, Sold by Traan Zakshun for 80 |
+| selling_price | 10 |
+| weight | 1 |
+
+**Diver Journeyman Robes** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Megalodaunt Hide](Megalodaunt_Hide.md) and one (1) [Iron](Ores.md).
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Megalodaunt Hide](Megalodaunt_Hide.md) and one (1) [Iron](Ores.md#iron) to craft.
 
-This Outfit requires [Power Level](Power.md) 10
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
@@ -24,7 +40,7 @@ This outfit has 1000 durability and grants +20% Physical resistance, +10% Blunt 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt, 20% Slash, and 30% Elemental.
 
-This Outfit also grants the [Talent Card](Talents.md#assassin) _Lowstride_, which increases [Stealth](Stealth.md) and allows you to unsheathe your weapon silently.
+The Diver Journeyman Robes also grant the [Lowstride](Talents.md#assassin) Talent, increasing your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 149768
+revid: 151375
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Divers]
@@ -8,30 +8,37 @@ categories: [Armors, Items, Outfits, Adept Outfits, The Divers]
 
 # Diver Apprentice Robes
 
-Template:ArmorInfobox**Diver Apprentice Robes** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+| Diver Apprentice Robes | |
+|---|---|
+| caption | Robes of an Apprentice Diver. A robe weaved through the power of the Song, grants passable elemental defenses and ether regeneration. |
+| tier | Adept |
+| crafting_req | x4 Cloth, x4 Fiber, x3 Crystal Lens |
+| price | 50 |
+| stat_req | Power Level 5, 10 Intelligence |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1000 |
+| resistances | +10% Physical Armor, +15% Elemental Armor |
+| buffs | +20% Ether Regen |
+| obtainment | Deepbound Origin, Sold by Nyanna and Traan ZakshunChests from:, Upper Erisia, Fishing, First Layer, Lodestar |
+| selling_price | 10 |
+| weight | 1 |
+
+**Diver Apprentice Robes** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires four (4) Cloth and Fiber as well as three (3) [Crystal Lens](Mantra_Modifiers.md).
+This Outfit costs 50 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), and three (3) [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit requires [Power Level](Power.md) 5 and 10 [Intelligence](Attributes.md).
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 10 [Intelligence](Attributes.md#int) to be crafted.
 
-Alternatively, using the [Deepbound](Origins.md#deepbound) origin will grant it for free.
+Alternatively, using the [Deepbound](Deepbound.md) origin will grant it for free, ignoring the requirements.
 
 ### _Armor Stats_
 
 This Outfit has 1000 durability, grants +10% Physical resistance, +15% Elemental resistance, and +20% Ether Regen.
-
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   [Fishing](Fishing.md) (Chest)
--   [Upper Erisia](Upper_Erisia.md), specifically [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
--   [The Depths](The_Depths.md)
 
 ## Trivia
 

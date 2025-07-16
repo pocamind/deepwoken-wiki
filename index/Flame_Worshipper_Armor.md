@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 148760
+revid: 151372
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -8,15 +8,31 @@ categories: [Armors, Items, Outfits, Adept Outfits]
 
 # Flame Worshipper Armor
 
-Template:ArmorInfobox **Flame Worshipper Armor** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+| Flame Worshipper Armor | |
+|---|---|
+| caption | Coat of the Covenant of Flame, pioneered by the Drowned Diver Amorus Pleeksty. |
+| tier | Adept |
+| crafting_req | x4 Cloth, x4 Fiber, x2 Iron |
+| price | 30 |
+| stat_req | Power 5 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1000 |
+| resistances | +10% Physical Armor, +5% Elemental Armor, +25% Fire Armor |
+| talents | Intrepid Flame |
+| obtainment | Bought from:, Etris, behind Lance Leshi's food shop, Traan Zakshun for 80 Chests:, Isle of Vigils, Lodestar |
+| selling_price | 10 |
+| weight | 1 |
+
+**Flame Worshipper Armor** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires four (4) Cloth and Fiber as well as two (2) [Iron](Ores.md#iron).
+This Outfit costs 30 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), and two (2) [Iron](Ores.md#iron) to craft.
 
-This Outfit requires [Power Level](Power.md) 5.
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
 ### _Armor Stats_
 
@@ -24,15 +40,12 @@ This Outfit has 1000 durability, grants +10% Physical resistance, +5% Elemental 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical, 28.75% Flamecharm, and 5% Elemental.
 
-The [Intrepid Flame](Talents.md#equipment-talents) Talent extinguishes the user twice as fast from fire.
-
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
--   [Etris](Etris.md), behind the food shop.
+The [Intrepid Flame](Talents.md#equipment-talents) Talent extinguishes [burn](Status_Effects.md#burn) twice as quickly from the user. Note that this doesn't affect burn damage, but only halves its maximum duration, making this Talent quite weak.
 
 ## Trivia
 
+-   This Outfit is one of the requirements to fight [Aska](Aska.md).
+    -   Alternatively you can use the [Pleeksty's Faith](Talents.md#inferno) OR [Pleeksty's Will](Talents.md#inferno) Talents.
+    -   **If you have none of these equipped, Aska will wipe you instead of starting the fight**.
 -   Shirt: [https://www.roblox.com/catalog/5202212399/Flame-Worshiper](https://www.roblox.com/catalog/5202212399/Flame-Worshiper)
 -   Pants: [https://www.roblox.com/catalog/5202213342/Flame-Worshiper-Pants](https://www.roblox.com/catalog/5202213342/Flame-Worshiper-Pants)

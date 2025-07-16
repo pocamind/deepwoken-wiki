@@ -1,6 +1,6 @@
 ---
 title: Union Initiate
-revid: 150550
+revid: 151382
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits, Armors, The Ignition Union]
@@ -17,7 +17,8 @@ categories: [Items, Outfits, Starter Outfits, Armors, The Ignition Union]
 | durability | 1500 |
 | resistances | +15% Physical Armor, +5% Elemental Armor |
 | buffs | +10 Carry Load |
-| selling_price | 10 |
+| obtainment | Ignition Delver Origin |
+| selling_price | N/A |
 | weight | 1 |
 
 **Union Initiate** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
@@ -28,19 +29,15 @@ categories: [Items, Outfits, Starter Outfits, Armors, The Ignition Union]
 
 This Outfit has no cost and requires no materials to craft.
 
-This Outfit has no [Attribute](Attributes.md) requirement, but has a [Power](Power.md) Requirement of 6 despite being automatically equipped when starting with the [Ignition Delver](Origins.md#ignition-delver) Origin.
+This Outfit has no [Attribute](Attributes.md) requirement, but has a [Power](Power.md) requirement of 6 despite being automatically equipped when starting with the [Ignition Delver](Ignition_Delver.md) Origin.
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants 15% Physical Armor, 5% Elemental Armor, and 10 [Carry Load](Carry_Load.md). The additional Carry Load allows [Ignition Delver](Origins.md#ignition-delver) players to carry a little more when in the [Saramaed Hollow](Saramaed_Hollow.md) Dungeon.
-
-## Obtainment
-
-This Outfit cannot be purchased by a Blacksmith, and is only equipped when the player spawns with the [Ignition Delver](Origins.md#ignition-delver) origin.
+This Outfit has 1500 durability, grants 15% Physical Armor, 5% Elemental Armor, and 10 [Carry Load](Carry_Load.md). The additional Carry Load allows [Ignition Delver](Ignition_Delver.md) players to carry a little more when in the [Saramaed Hollow](Saramaed_Hollow.md) Dungeon.
 
 ## Trivia
 
-The Outfit is granted for free upon starting with the [Ignition Delver](Origins.md#ignition-delver) Origin, however is lost once crafting/equipping another Outfit.
-
+-   Like all other Origin-exclusive Outfits, Union Initiate is lost upon crafting/equipping another Outfit.
 -   The Union Initiate is near identical to the [Ignition Union Uniform](Ignition_Union_Uniform.md). Having **SLIGHTLY** darker pants.
 -   When it first released, it was automatically learned for all players and was droppable from chests in [Saramaed Hollow](Saramaed_Hollow.md) and [Scyphozia](First_Layer.md). This was later fixed in a shadow update.
+    -   All characters who had crafted this Outfit prior to it being fixed kept it.

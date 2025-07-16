@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 150704
+revid: 151380
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, The Central Authority]
@@ -14,13 +14,13 @@ categories: [Armors, Items, Outfits, Adept Outfits, The Central Authority]
 | tier | Adept |
 | crafting_req | x5 Cloth, x5 Fiber, x1 Iron |
 | price | 30 |
-| stat_req | Power Level 5, 5 Fortitude |
+| stat_req | Power 5, 5 Fortitude |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1600 |
 | resistances | +15% Physical Armor, +10% Elemental Armor, +10% Slash Armor , +15% Fire Armor |
 | talents | Lowstride |
-| obtainment | Sold by Nyanna and Traan Zakshun for 80 Chests From:, The Depths, Primadon (Chests), Lodestar |
+| obtainment | Sold by Nyanna and Traan Zakshun for 80 Chests From:, The Depths, Primadon, Lodestar |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -30,9 +30,9 @@ categories: [Armors, Items, Outfits, Adept Outfits, The Central Authority]
 
 ### _Requirements_
 
-This Outfit costs 30 and requires five (5) Cloth and Fiber as well as one (1) Iron.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
 
-This Outfit requires [Power Level](Power.md) 5 and 5 [Fortitude](Attributes.md).
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 5 [Fortitude](Attributes.md#ftd) to be crafted.
 
 ### _Armor Stats_
 
@@ -40,16 +40,7 @@ This Outfit has 1600 durability, grants +15% Physical resistance, +10% Elemental
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash, 15% Blunt, 23.5% Flamecharm, and 10% Elemental.
 
-The [Lowstride](Talents.md#assassin) Talent increases your [Stealth](Stealth.md) & Speed while crouching, as well as removing the noise equipping a weapon makes.
-
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   Sold by [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
--   [The Depths](The_Depths.md)
--   [Primadon](Primadon,_Titan_of_the_East.md) (Chests)
+The [Lowstride](Talents.md#assassin) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
 ## Trivia
 

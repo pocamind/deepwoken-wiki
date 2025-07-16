@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 146474
+revid: 151385
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -8,27 +8,34 @@ categories: [Outfits, Starter Outfits]
 
 # Stranded
 
-Template:ArmorInfobox**Stranded** is a Starter [Outfit](Outfits.md) in _Deepwoken._
+| Stranded | |
+|---|---|
+| caption | Some have a rougher start than others. |
+| tier | Starter |
+| bankable | Yes |
+| droppable | Yes |
+| obtainment | Castaway Origin, Lone Warrior Origin |
+| selling_price | N/A |
+| weight | 1 |
+
+**Stranded** is a Starter [Outfit](Outfits.md) in _Deepwoken._
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit has no cost and requires no materials to craft.
+This Outfit has no cost and requires no materials to craft. Instead this is automatically equipped upon starting with the [Castaway](Origins.md#castaway) Origin.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has infinite durability (though is sometimes permanently empty) and grants absolutely no effects to the player.
-
-## Obtainment
-
-This Outfit cannot be purchased by a Blacksmith, and is only equipped when the player spawns with the [Castaway](Origins.md#castaway) or [Lone Warrior](Origins.md#lone-warrior) origins.
+This Outfit has infinite durability (though is sometimes permanently empty) and grants absolutely no effects to the player. Stranded is always classified as broken, and thus you won't be able to benefit from equipment resistances.
 
 ## Trivia
 
+-   Like all other Origin-exclusive Outfits, Stranded is lost upon crafting/equipping another Outfit.
 -   The Stranded Outfit is removed from the Blacksmith's shop once it is unequipped.
--   The Outfit appears to be a severely tattered version of the Grey [Traveler Cloak](<Traveller's_Jacket.md>), which is worn by default during the [Tutorial](Tutorial.md).
+-   The Outfit appears to be a severely tattered version of the Grey [Traveler Cloak](<Traveller's_Jacket.md>).
 -   Shirt: [https://www.roblox.com/catalog/5150609038/Stranded](https://www.roblox.com/catalog/5150609038/Stranded)
 -   Pants: [https://www.roblox.com/catalog/5150610387/Stranded-Pants](https://www.roblox.com/catalog/5150610387/Stranded-Pants)

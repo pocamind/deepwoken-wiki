@@ -1,6 +1,6 @@
 ---
 title: Sea Events
-revid: 101210
+revid: 151395
 source: https://deepwoken.fandom.com/wiki/Sea_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Random Encounters](Random_Encounters.md)
+-   [Random Encounters#Sea Events](Random_Encounters.md#sea-events)

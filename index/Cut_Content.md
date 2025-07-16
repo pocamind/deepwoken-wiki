@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 150914
+revid: 151204
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -154,6 +154,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 13th, 2022 update, Familiar Sight was merged into Tough Love.
 -   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   In the February 6th, 2023 update, Finesse was merged into Now You see Me.
+-   **Firmly Planted \[Common Talent, Fortitude, Willpower\] -** All slow debuffs towards you are reduced by 30%
+    -   In the June 21th, 2024 update, Firmly Planted was made innate.
 -   **Flaming Rebound \[Rare Talent, Flamecharm\] -** Landing fire mantras will restore your Tempo. (+3 Elemental Intensity)
     -   In the December 23rd, 2022 update, Flaming Rebound was removed and replaced by Elemental Rebound.
 -   **Flaming Uppercut \[Common Talent, Flamecharm\] -** Ignite flames on an enemy when you uppercut them.

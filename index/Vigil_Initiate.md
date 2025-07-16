@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 150538
+revid: 151364
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits, Etrea]
@@ -13,13 +13,13 @@ categories: [Armors, Items, Outfits, Adept Outfits, Etrea]
 | caption | Initiate of the Vigil. A warrior must walk the path before being granted the cloak of winds. |
 | tier | Adept |
 | crafting_req | x5 Cloth, x5 Fiber, x4 Iron |
-| stat_req | Power Level 5 |
+| stat_req | Power 5 |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1200 |
 | resistances | +20% Physical Armor, +10% Blunt Armor |
 | talents | Paired Soul |
-| obtainment | Isle of Vigils inside the Mantra shop |
+| obtainment | Isle of Vigils inside the Mantra shop, Erisia |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -29,9 +29,9 @@ categories: [Armors, Items, Outfits, Adept Outfits, Etrea]
 
 ### _Requirements_
 
-This Outfit requires five (5) Cloth and Fiber as well as (4) [Iron](Ores.md#iron).
+This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and four (4) [Iron](Ores.md#iron) to craft.
 
-This Outfit requires [Power Level](Power.md) 5.
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
 ### _Armor Stats_
 
@@ -39,13 +39,7 @@ This Outfit has 1200 durability, grants +20% Physical resistance, and +10% Blunt
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt and 20% Slash.
 
-The [Paired Soul](Talents.md#equipment-talents) Talent increases the damage of the [Katana](Katana.md) by 25% and the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
-
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
--   [Isle of Vigils](Isle_of_Vigils.md), inside the Mantra shop.
+The [Paired Soul](Talents.md#equipment-talents) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 
 ## Trivia/Notes
 

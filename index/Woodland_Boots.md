@@ -1,6 +1,6 @@
 ---
 title: Woodland Boots
-revid: 150486
+revid: 151254
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, Rogue Construct, Maestro Evengarde Rest, Heart of Enmity, Starswept Valley, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

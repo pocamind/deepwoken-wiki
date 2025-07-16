@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 150371
+revid: 151397
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -32,17 +32,18 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 -   **Equipping specific outfits: (See below)**
     -   [Navaen War Chief](Navaen_War_Chief.md) grants +50% Stealth.
     -   [Darkened Bastion](Darkened_Bastion.md) grants +50% Stealth.
-    -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) grant +50% Stealth.
+    -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) grants +50% Stealth.
+    -   [Veteran Adventurer](Veteran_Adventurer.md) grants +50% Stealth.
     -   [Whaler Coat](Whaler_Coat.md) grants +50% Stealth.
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
     -   [Whaler Initiate](Whaler_Initiate.md) grants 25% Stealth.
 -   Wearing the following Equipment(See below)
-    -   Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)(10%), [Bloodfeather Cowl](Bloodfeather_Cowl.md)(6%), [Assassin's Hood](<Assassin's_Hood.md>)(5%), [Monastery Cowl](Monastery_Cowl.md)(5%), [Dark Cowl](Dark_Cowl.md)(4%), Hood(4% for Black Hood, 2% from Brown Hood).
-    -   Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)(6%), [Mercenary's Garb](<Mercenary's_Garb.md>)(6%), [Ministry Operative Cloak](Ministry_Operative_Cloak.md)(6%), [Sandrunner Wraps](Sandrunner_Wraps.md)(4%), [Assassin's Cloak](<Assassin's_Cloak.md>)(3%).
+    -   Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md) (10%), [Bloodfeather Cowl](Bloodfeather_Cowl.md) (6%), [Assassin's Hood](<Assassin's_Hood.md>) (5%), [Monastery Cowl](Monastery_Cowl.md) (5%), [Dark Cowl](Dark_Cowl.md) (4%), Hood (4% for Black Hood, 2% from Brown Hood).
+    -   Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md) (6%), [Mercenary's Garb](<Mercenary's_Garb.md>) (6%), [Ministry Operative Cloak](Ministry_Operative_Cloak.md) (6%), [Sandrunner Wraps](Sandrunner_Wraps.md) (4%), [Assassin's Cloak](<Assassin's_Cloak.md>) (3%).
     -   Legs: **None :(**
-    -   Torso: Shrouded Capes(5%), [Dark Owl Cape](Dark_Owl_Cape.md)(2%)
-    -   Face: Duelist's Mask(6%)
-    -   Earrings: [Master Thief Earrings](Master_Thief_Earrings.md)(3%)
+    -   Torso: Shrouded Capes (5%), [Dark Owl Cape](Dark_Owl_Cape.md) (2%).
+    -   Face: Duelist's Mask (6%).
+    -   Earrings: [Master Thief Earrings](Master_Thief_Earrings.md) (3%).
     -   Rings: **None :(**
 
 On the other hand, the [Obvious Flaw](Boons_and_Flaws.md) grants you -20% base Stealth and does not impact Stealth gain.

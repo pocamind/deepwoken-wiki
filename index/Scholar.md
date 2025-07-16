@@ -1,6 +1,6 @@
 ---
 title: Scholar
-revid: 148768
+revid: 151387
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -8,32 +8,36 @@ categories: [Items, Outfits, Starter Outfits]
 
 # Scholar
 
-Template:ArmorInfobox **Scholar** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+| Scholar | |
+|---|---|
+| caption | Perhaps one of a few too many words, at least by the reckoning of others. |
+| tier | Starter |
+| crafting_req | x3 Cloth, x3 Fiber |
+| price | 50 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1000 |
+| resistances | +10% Elemental Armor, +8% Physical Armor |
+| talents | Scholar's Intuition |
+| obtainment | Chests from:, The Depths, Moon's Eyrie, PrimadonSold by Traan Zakshun and Nyanna for 200 |
+| selling_price | 10 |
+| weight | 1 |
+
+**Scholar** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires three (3) Cloth and Fiber.
+This Outfit costs 50 and requires three (3) [Cloth](Cloth.md) and three (3) [Fiber](Fiber.md) to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-The Outfit has 1000 durability, grants the user +8% Physical resistance, and + 10% Elemental resistance. Additionally, it provides the [Scholar's Intuition](Talents.md#equipment-talents) Talent.
+The Outfit has 1000 durability, grants the user +8% Physical resistance, and +10% Elemental resistance. Additionally, it provides the [Scholar's Intuition](Talents.md#equipment-talents) Talent.
 
-The [Scholar's Intuition](Talents.md#equipment-talents) talent causes [INT](Attributes.md#intelligence), [WLL](Attributes.md#willpower), and [CHR](Attributes.md#charisma) training gear to be 50% more effective.
-
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   Sold by [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
--   [The Depths](First_Layer.md)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
+The [Scholar's Intuition](Talents.md#equipment-talents) talent causes [Intelligence](Attributes.md#int), [Willpower](Attributes.md#wll), and [Charisma](Attributes.md#cha) training gear to be 50% more effective.
 
 ## Trivia
 

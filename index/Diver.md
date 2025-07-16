@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 143989
+revid: 151207
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -64,10 +64,8 @@ Gale Lunge
 
 -   Battle Tendency - You can breathe more easily with +20% faster posture regen.
 -   Braced Collapse - After being block broken, the next attack to hit you deals reduced damage.
--   Firmly Planted - All slow debuffs towards you are reduced by 30%.
 -   Perseverance - When you're knocked down, you get back up again more quickly.
--   Giant Slayer - Deal more damage to larger foes. (10% more damage to Monsters)
--   Underdog - You deal slightly more damage to those with higher HP than you.
+-   Underdog - You deal slightly more damage to those with higher HP than you. You also deal 10% more damage to larger foes.
 -   Defiance - Negative status effects are half as effective when you are below 35% HP.
 
 ## Finisher

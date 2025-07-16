@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 150541
+revid: 151404
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -14,7 +14,7 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 | tier | Expert |
 | crafting_req | x10 Cloth, x2 Megalodaunt Hide, x2 Vibrant Gem |
 | price | 100 |
-| stat_req | Power Level 10 |
+| stat_req | Power 10 |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1500 |
@@ -29,9 +29,9 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 
 ### _Requirements_
 
-This Outfit costs 100 and requires ten (10) Cloth, two (2) Megalodaunt Hides and two (2) Vibrant Gems.
+This Outfit costs 100 and requires ten (10) [Cloth](Cloth.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and two (2) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit requires [Power Level](Power.md) 10.
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
@@ -39,18 +39,12 @@ This Outfit has 1500 durability and grants +25% Physical resistance, +20% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 28% Galebreathe, and 20% Elemental.
 
-## Location
-
-This Outfit's Schematic can be found at:
-
--   [Summer Isle](Summer_Isle.md) Chests
-
 ## Trivia
 
--   This armor has a 3D collar, a trait shared only with the [Prophet’s Cloak](<Prophet's_Cloak.md>)
+-   This armor has a 3D collar, a trait shared only with the [Prophet's Cloak](<Prophet's_Cloak.md>)
 -   This armor and it's description is a direct reference to [Shinon](https://fireemblemwiki.org/wiki/Shinon) from Fire Emblem: Path of Radiance, with the original being near identical to his outfit.
 -   **Current** verdant sniper is an outfit made by **KAHAEL**:
--   [https://www.roblox.com/catalog/10388717707/Verdant-Sniper-Shirt](https://www.roblox.com/catalog/10388717707/Verdant-Sniper-Shirt)
--   [https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants](https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants)
+    -   Shirt: [https://www.roblox.com/catalog/10388717707/Verdant-Sniper-Shirt](https://www.roblox.com/catalog/10388717707/Verdant-Sniper-Shirt)
+    -   Pants: [https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants](https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants)
 -   Frank F'alzone in the [tutorial](Tutorial.md) uses this outfit
 -   [Plath](Plath.md) wears this outfit, alongside [Cerulean](Cerulean.md) and all of the [Oathless](Oath%253A_Oathless.md) wanderers.

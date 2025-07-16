@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 150478
+revid: 151245
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide, Heavy Weapons]
@@ -26,7 +26,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded 
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
-| description | "Born from a twisted experiment by the enigmatic lightborn [sic] smiths of the floating keep [sic], the Mawblades are a testament to unspeakable treachery. Stripped of mortality and violently reshaped, the tortured souls within these blades endure a fate crueler than death, their teeth aching eternally as they are bound to the insatiable hunger for destruction." |
+| description | Born from a twisted experiment by the enigmatic lightborn [sic] smiths of the floating keep [sic], the Mawblades are a testament to unspeakable treachery. Stripped of mortality and violently reshaped, the tortured souls within these blades endure a fate crueler than death, their teeth aching eternally as they are bound to the insatiable hunger for destruction. |
 
 ## Description
 

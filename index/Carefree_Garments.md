@@ -1,6 +1,6 @@
 ---
 title: Carefree Garments
-revid: 150516
+revid: 151377
 source: https://deepwoken.fandom.com/wiki/Carefree_Garments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -8,7 +8,20 @@ categories: [Armors, Items, Outfits, Adept Outfits]
 
 # Carefree Garments
 
-Template:ArmorInfobox
+| Carefree Garments | |
+|---|---|
+| caption | ‎ |
+| tier | Adept |
+| crafting_req | x4 Cloth , x5 Fiber, x1 Glass Stone, x1 Iron |
+| stat_req | Power 6 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2000 |
+| resistances | +10% Physical Armor, +15% Elemental Armor |
+| talents | Fleetfoot |
+| obtainment | Diluvian Mechanism, Layer 1 chests, Carnival of Hearts, Lodestar, Bought from Traan Zakshun for 80 |
+| selling_price | 10 |
+| weight | 1 |
 
 **Carefree Garments** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -16,23 +29,15 @@ Template:ArmorInfobox
 
 ### _Requirements_
 
-This Outfit requires four (4) Cloth, five (5) Fiber, one (1) [Glass Stones](Mantra_Modifiers.md), and one (1) [Iron](Ores.md).
+This Outfit requires four (4) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Glass Stone](Mantra_Modifiers.md#regular-modifiers), and one (1) [Iron](Ores.md#iron) to craft.
 
-This Outfit requires [Power Level](Power.md) 6.
+This Outfit additionally requires the player to be at least [Power](Power.md) 6 to be crafted.
 
 ### _Armor Stats_
 
 This Outfit has 2000 durability, grants +10% Physical Armor, and +15% Elemental Armor. Additionally, it provides the [Fleetfoot](Talents.md#equipment-talents) Talent.
 
 The [Fleetfoot](Talents.md#equipment-talents) Talent grants the user a speed boost after slide jumping.
-
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
--   [Layer 1](First_Layer.md) (Chests)
--   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [Carnival of Hearts](Carnival_of_Hearts.md)
 
 ## Trivia
 

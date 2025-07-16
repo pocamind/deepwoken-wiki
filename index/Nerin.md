@@ -1,6 +1,6 @@
 ---
 title: Nerin
-revid: 150255
+revid: 151225
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Etrea, Reputation]
@@ -20,7 +20,7 @@ categories: [Etrean NPCs, Pages with broken file links, NPCs, NPCs located in th
 
 ## Description
 
-Nerin is the NPC who accepts a bribe for [Etrea](Etrea.md); you can pay him up to 1,200 [Notes](Notes.md) [Robux](https://roblox.fandom.com/wiki/Robux) to restore your reputation to neutral.
+Nerin is the NPC who accepts a bribe for [Etrea](Etrea.md); you can pay him up to 1,200 to restore your reputation to neutral.
 
 ## Location
 

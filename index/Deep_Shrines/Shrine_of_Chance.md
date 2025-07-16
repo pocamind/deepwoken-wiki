@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 148588
+revid: 151302
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -28,7 +28,7 @@ When using this shrine, please make sure to **check if you burned the card you'r
 
 ### Effects
 
-Trade a Talent of your choice and to perform a Talent Draw with 3 cards.
+Trade a Talent of your choice and 5 to perform a Talent Draw with 3 cards.
 
 ### Details
 

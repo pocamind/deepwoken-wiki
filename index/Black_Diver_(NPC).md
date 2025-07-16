@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 142021
+revid: 151206
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Divers, Diver Enemies]
@@ -98,18 +98,16 @@ Radiant Dawn
 -   Battle Tendency - Black Divers recover posture 20% faster.
 -   Brick Wall - Black Divers are immune to all form of ragdolls, beside being knocked. Knockdowns duration are reduced by 30%
 -   Surge Path: Unstable Capacitor - Black Divers Lightning mantras apply Surge instead of Shock. At maximum stack, target become Overloaded, which sends arcs of lightning in all directions.
--   Firmly Planted - Slow debuff toward Black Divers are reduced by 30%.
 -   Braced Collapse - Black Divers take reduced damage from the next hit they take after being guard broken.
 -   Showstopper - Black Divers stomp the grounds when an attack is dodged, dazing those nearby.
 -   Strong Stern - Black Divers are Dazed for half the time if wall banged.
 -   Perseverance - Black Divers wake up from being knocked faster.
--   Giantslayer - Black Divers deal +10% more damage to Monsters.
--   Underdog - Black Divers deal more against enemies with more HP than them.
+-   Underdog - Black Divers deal more against enemies with more HP than them. They also deal +10% more damage to Monsters.
 -   Defiance - Negative Status effects are halved when Black Divers are below 35% HP.
 -   Last Resort - Black Divers gain +10% damage while below 25% HP.
 -   Steady Footing - Black Divers resist knockback effects and do not slide on ice.
 -   Suffocating Impact - Black Divers apply Suffocation and Winded after a wall bang.
--   Heavy Hitter - Black Divers deal +25% posture damage.
+-   Heavy Hitter - Black Divers deal +10% posture damage.
 -   Concussion - Being flourished into a wall by a Black Diver alter vision and Daze for longer.
 -   Static Link - Black Divers landing a Flourish or Uppercut apply a static link.
 -   Storm Link - Black Divers apply Shock (Surge because of Surge Path) to enemies with a static link if hit with a Wind mantra.

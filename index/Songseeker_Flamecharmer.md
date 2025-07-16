@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 149098
+revid: 151210
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -44,10 +44,8 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 -   Controlled Combustion - Agitating Spark no longer spreads to their allies.
 -   Mirage Clone - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at it on fire.
 -   Flaming Flourish - Set enemies on fire when the Songseeker Flamecharmer flourish or uppercut them.
--   All-Consuming Flame - Songseeker Flamecharmer flames will incinerate unconscious Targets much faster.
--   Corpse Explosion - Bodies that Songseeker Flamecharmer burn to death immediately explode dealing massive damage.
+-   Corpse Explosion - Bodies that Songseeker Flamecharmer burn to death immediately explode dealing massive damage. The bodies will also be incinerated much faster.
 -   The Final Act - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
--   Uproar - When hit 3 or more times within 3 seconds, Songseeker Flamecharmer go into an uproar where they cannot be stunned for a short duration.
 -   Phoenix Flames - Any time a Songseeker Flamecharmer would burn to death, they instead rise again with 50% of their health restored.
 
 ## Finisher

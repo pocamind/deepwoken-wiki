@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 151189
+revid: 151356
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Ignition Union]
@@ -8,15 +8,31 @@ categories: [Armors, Items, Outfits, Expert Outfits, The Ignition Union]
 
 # Ignition Trailblazer
 
-Template:ArmorInfobox**Ignition Trailblazer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Ignition Trailblazer | |
+|---|---|
+| caption | Garb for those aspiring to become Deepdelvers |
+| tier | Expert |
+| crafting_req | x5 Cloth, x5 Fiber, x2 Megalodaunt Hide, x1 Iron |
+| price | 30 |
+| stat_req | Power 10 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1000 |
+| resistances | +25% Physical Armor, +25% Elemental Armor, +5% Blunt Armor, +5% Fire Armor |
+| talents | Perseverance, Strong Stern |
+| obtainment | Sold by Nyanna and Traan Zakshun for 200 Chests from:, Starswept Valley, Saramaed Hollow, Summer Isle, Rogue Construct, The Depths, Moon's Eyrie, Primadon |
+| selling_price | 10 |
+| weight | 1 |
+
+**Ignition Trailblazer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 30 and requires five (5) [Cloth](Cloth.md) and [Fiber](Fiber.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and one (1) [Iron](Ores.md).
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and one (1) [Iron](Ores.md#iron) to craft.
 
-This Outfit requires [Power Level](Power.md) 10.
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
@@ -24,21 +40,9 @@ This Outfit has 1000 durability and grants +25% Physical Resistance, +25% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt, 25% Slash, 28.75% Flamecharm, and 25% Elemental.
 
-This Outfit also grants the _Perseverance_ and _Strong Stern_ [Talents](Talents.md). Perseverance lowers your time knocked by 25%, Strong Stern halves the duration of [Dazed](Status_Effects.md#dazed) from being wall-banged.
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Saramaed Hallow](Saramaed_Hollow.md)
--   [Summer Isle](Summer_Isle.md)
--   [Rogue Construct](Hive_Construct.md#rogue-construct) chests on [Minityrsa](Minityrsa.md)
--   [The Depths](The_Depths.md)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
+This Outfit also grants the [Perseverance](Talents.md#bastion) and [Strong Stern](Talents.md#duelist) Talents. Perseverance lowers your time knocked by 25%, Strong Stern halves the duration of [Daze](Status_Effects.md#dazed) from being wall-banged.
 
 ## Trivia/Notes
 
 -   One of the cheapest Expert armors to make.
--   It has the exact same crafting recipe as a few other expert armors, such as [Diver Journeyman Robes](Diver_Journeyman_Robes.md) and [Hive Drone](Hive_Drone.md).
+-   it has the exact same crafting recipes as a few other expert armors, such as [Diver Journeyman Robes](Diver_Journeyman_Robes.md) and [Hive Drone](Hive_Drone.md).

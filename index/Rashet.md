@@ -1,6 +1,6 @@
 ---
 title: Rashet
-revid: 148894
+revid: 151222
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority, Reputation]
@@ -20,7 +20,7 @@ categories: [Adret NPCs, Pages with broken file links, NPCs, NPCs located in the
 
 ## Description
 
-Rashet is the NPC who accepts a bribe for [The Central Authority](The_Central_Authority.md); you can pay him up to 1,200 [Notes](Notes.md) [Robux](https://roblox.fandom.com/wiki/Robux) to restore your reputation to neutral.
+Rashet is the NPC who accepts a bribe for [The Central Authority](The_Central_Authority.md); you can pay him up to 1,200 to restore your reputation to neutral.
 
 ## Location
 

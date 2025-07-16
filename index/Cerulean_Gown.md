@@ -1,6 +1,6 @@
 ---
 title: Cerulean Gown
-revid: 150816
+revid: 151362
 source: https://deepwoken.fandom.com/wiki/Cerulean_Gown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits]
@@ -8,28 +8,31 @@ categories: [Armors, Items, Outfits, Expert Outfits]
 
 # Cerulean Gown
 
-Template:ArmorInfobox**Cerulean Gown** is a Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Cerulean Gown | |
+|---|---|
+| caption | A bodiced sky-blue dress, with various tassels attached for decoration. Despite its initial elegant appearance, the fastened layered skirt, tight-cuffed shirt sleeves, and sturdy boots suggest the outfit is both stylish and functional, fit for both formal and perilous occasions. |
+| tier | Expert |
+| crafting_req | x15 Cloth, x15 Fiber, x1 Megalodaunt Hide |
+| price | 200 |
+| stat_req | Power 8 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1500 |
+| resistances | +20% Physical Armor, +25% Elemental Armor |
+| obtainment | Chests from:, Moon's Eyrie, First Layer, The Doom of Caeranthil, Interluminary Parasol, Carnival of Hearts, Moon's Eyrie, The Understrand, Sold by Traan Zakshun for 200 |
+| selling_price | 10 |
+| weight | 1 |
+
+**Cerulean Gown** is a Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 200 and requires fifteen (15) Cloth and Fiber, and one (1) [Megalodaunt Hide](Megalodaunt_Hide.md).
+This Outfit costs 200 and requires fifteen (15) [Cloth](Cloth.md), fifteen (15) [Fiber](Fiber.md), and one (1) [Megalodaunt Hide](Megalodaunt_Hide.md) to craft.
 
-This Outfit requires [Power Level](Talents.md) 8.
+This Outfit additionally requires the player to be at least [Power](Power.md) 8 to be crafted.
 
 ### _Armor Stats_
 
 This Outfit has 1500 durability and grants +20% Physical resistance, +25% Elemental resistance.
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   Sold by [Traan Zakshun](Traan_Zakshun.md) in [Lower Erisia](Lower_Erisia.md)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [First Layer](First_Layer.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Carnival of Hearts](Carnival_of_Hearts.md)
--   [The Understrand](The_Understrand.md)

@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 151029
+revid: 151220
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -20,17 +20,17 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Marcus is inarguably the coolest [Stonespark](Stonespark.md), if not the coolest NPC (apart from [The Meat Lord](The_Meat_Lord.md)), in this vast game of Deepwoken. He is of a modest and small size, unlike his braggart [Rock Golem](Rock_Golem.md) cousins and [Stonespark](Stonespark.md) siblings, who prefer to attack you on first sight. He prefers relaxing over a nice warm beverage.
+Marcus is inarguably the **coolest** [Stonespark](Stonespark.md), if not the **coolest** NPC (apart from [The Meat Lord](The_Meat_Lord.md)), in this vast game of Deepwoken. He is of a modest and small size, unlike his **braggart [Rock Golem](Rock_Golem.md)** cousins, and calm and collected compared to his **belligerent [Stonespark](Stonespark.md)** siblings, who prefer to attack you on sight. He prefers relaxing over a nice warm beverage.
 
-The only entity that could surpass Marcus' incomprehensible power would be [The Meat Lord](The_Meat_Lord.md), as both have risen to levels above the powers of Drowned Gods.
+The only entity that could surpass Marcus' incomprehensible power would be [The Meat Lord](The_Meat_Lord.md), as both have risen to levels **above** the powers of Drowned Gods.
 
-Although Marcus does not give any rewards, XP, loot or even gameplay advice to the player, it's always great to talk to him as he is undoubtedly, hands down, the most chill NPC in all of Deepwoken.
+Although Marcus does not give any rewards, XP, loot or even gameplay advice to the player, it's always great to talk to him as he is **undoubtedly**, **hands down**, the **most chill** NPC in **all** of Deepwoken.
 
 ## Location
 
 When entering [The Hidden Village](The_Hidden_Village.md), go to the right side and through a hallway to find a [Campfire](Campfire_Pit.md) and [Rotskipper](Rotskipper.md). When reaching the [Campfire](Campfire_Pit.md) spot, looking to your left; there will be a house that has a crawl space under it. Inside the space there will be a hole, jumping into the hole will take you to the humble cave Marcus lives in.
 
-Make sure to say hello, and give some company to such a [Stonespark](Stonespark.md). What a great guy, right?
+Make sure to say hello, and give some company to such a [Stonespark](Stonespark.md). What a great guy, **right**?
 
 ## Dialouge
 

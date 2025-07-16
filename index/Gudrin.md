@@ -1,6 +1,6 @@
 ---
 title: Gudrin
-revid: 148886
+revid: 151223
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the First Layer, The Divers, The Depths, Reputation]
@@ -20,7 +20,7 @@ categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in th
 
 ## Description
 
-Gudrin is the NPC who accepts a bribe for [The Divers](The_Divers.md); you can pay her up to 1,200 [Notes](Notes.md) [Robux](https://roblox.fandom.com/wiki/Robux) to restore your reputation to neutral.
+Gudrin is the NPC who accepts a bribe for [The Divers](The_Divers.md); you can pay her up to 1,200 to restore your reputation to neutral.
 
 ## Location
 

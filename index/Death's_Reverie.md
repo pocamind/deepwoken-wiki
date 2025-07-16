@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 143788
+revid: 151297
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -18,13 +18,14 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hal
 | swing speed | 1.01x |
 | penetration | 15% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 50 |
 | weight | 7.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hollowtide Medal [7 Knowledge], The Trial of the Gourdskipper |
-| description | "Have the lambs stopped screaming?" |
+| description | Have the lambs stopped screaming? |
 
 ## Description
 

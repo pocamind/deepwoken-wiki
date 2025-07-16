@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 150479
+revid: 151246
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists, Light Weapons]
@@ -20,6 +20,7 @@ categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Cr
 | chip damage | 25% |
 | special effect | Aftercut is applied to all attacks. |
 | stances | 1 Handed |
+| selling price | 100 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

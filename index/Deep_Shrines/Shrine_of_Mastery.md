@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 147511
+revid: 151305
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -28,8 +28,8 @@ Located in the entrance cave before [Deep Widow](../Deep_Widow.md) in the [Widow
 
 Shrine of Mastery has two different effects.
 
--   For, you can trade 1 of your [Trait](../Traits.md) Points into another Trait.
--   For, you can remove 1 of your invested attribute points, allowing you to reinvest it. A maximum of 3 points can be removed per character.
+-   For 1, you can trade 1 of your [Trait](../Traits.md) Points into another Trait.
+-   For 1, you can remove 1 of your invested attribute points, allowing you to reinvest it. A maximum of 3 points can be removed per character.
 
 ### Details
 

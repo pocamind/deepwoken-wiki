@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 150481
+revid: 151248
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Swords, Medium Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests in: , Minityrsa, Deep Widow, Lodestar, Songseeker Wilds, Dread SerpentPurchased in:, Miner's Landing |
-| description | "A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from." |
+| description | A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from. |
 
 ## Description
 

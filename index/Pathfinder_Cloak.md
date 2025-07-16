@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 146459
+revid: 151368
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Adept Outfits]
@@ -8,28 +8,34 @@ categories: [Armors, Items, Outfits, Adept Outfits]
 
 # Pathfinder Cloak
 
-Template:ArmorInfobox**Pathfinder Cloak** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+| Pathfinder Cloak | |
+|---|---|
+| caption | A long coat hiding reptilian-like armored scales. A new pathfinder's pride. |
+| tier | Adept |
+| crafting_req | x4 Cloth, x4 Fiber, x6 Iron |
+| price | 30 |
+| stat_req | Power 5 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1200 |
+| resistances | +18% Physical Armor, +8% Elemental Armor |
+| talents | Environmentalist |
+| obtainment | Sold by Nyanna, Sold near FriidChests from:, Lower Erisia, Moon's Eyrie, Primadon, Titan of the East |
+| selling_price | 10 |
+| weight | 1 |
+
+**Pathfinder Cloak** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires four (4) Cloth and Fiber as well as six (6) [Iron](Ores.md#iron).
+This Outfit costs 30 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), and six (6) [Iron](Ores.md#iron) to craft.
 
-This Outfit requires [Power Level](Power.md) 5.
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
 ### _Armor Stats_
 
 This Outfit has 1200 durability, grants +18% Physical Armor, and +8% Elemental Armor. Additionally, it provides the [Environmentalist](Talents.md#equipment-talents) Talent.
 
-The [Environmentalist](Talents.md#equipment-talents) Talent reduces the damage from certain weather effects.
-
-## Obtainment
-
-This Outfit's Schematic can be obtained from:
-
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   Sold near [Friid](Friid,_Master_of_Gale.md) in [Isle of Vigils](Isle_of_Vigils.md)
--   [Lower Erisia](Lower_Erisia.md)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [Primadon](Primadon,_Titan_of_the_East.md) (Chests)
+The [Environmentalist](Talents.md#equipment-talents) Talent reduces the damage taken from certain weather effects like Acid Rain.

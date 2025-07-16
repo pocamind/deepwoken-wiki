@@ -1,6 +1,6 @@
 ---
 title: Wishmaker
-revid: 150488
+revid: 151256
 source: https://deepwoken.fandom.com/wiki/Wishmaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
