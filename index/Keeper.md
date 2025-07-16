@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 151430
+revid: 151559
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -42,5 +42,4 @@ This Outfit has 1000 durability and grants +5% Physical resistance, +5% Elementa
 
 ## Trivia
 
--   Shirt: [https://www.roblox.com/catalog/4854403161/Battle-Mage-Shirt](https://www.roblox.com/catalog/4854403161/Battle-Mage-Shirt)
--   Pants: [https://www.roblox.com/catalog/4854440315/Battle-Mage-Pants](https://www.roblox.com/catalog/4854440315/Battle-Mage-Pants)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/4854403161/Battle-Mage-Shirt) / [Pants](https://www.roblox.com/catalog/4854440315/Battle-Mage-Pants)

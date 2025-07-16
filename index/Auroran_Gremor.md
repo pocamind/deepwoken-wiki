@@ -1,6 +1,6 @@
 ---
 title: Auroran Gremor
-revid: 150455
+revid: 151575
 source: https://deepwoken.fandom.com/wiki/Auroran_Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
@@ -15,7 +15,7 @@ notices:
 | caption | Armor of the Auroran Gremor |
 | tier | Unique (Spec/Mod) |
 | price | 1000 |
-| stat_req | Power Level 15 |
+| stat_req | Power 15 |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2600 |
@@ -39,12 +39,9 @@ notices:
 
 \-
 
-## Location
-
-\-
-
 ## Trivia
 
 -   Related to [Auroran](Auroran.md)
 -   Known users: Auchura (Moderator)
--   Based on the outfit worn by the [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen) from the MMORPG, _World of Warcraft_ (confirmed by Auchura). The Roblox Outfit set is called 'Maven of Frost' of can be found in the Marketplace following the links: Top: [https://www.roblox.com/catalog/11117080277/Maven-of-Frost-Top](https://www.roblox.com/catalog/11117080277/Maven-of-Frost-Top) Bottom: [https://www.roblox.com/catalog/11117084216/Maven-of-Frost-Bottom](https://www.roblox.com/catalog/11117084216/Maven-of-Frost-Bottom)
+-   Based on the outfit worn by the [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen) from the MMORPG, _World of Warcraft_ (confirmed by Auchura).
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/11117080277/Maven-of-Frost-Top) / [Pants](https://www.roblox.com/catalog/11117084216/Maven-of-Frost-Bottom)

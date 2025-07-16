@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 141609
+revid: 151592
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Event Item, Weapons with Unique Criticals, Daggers, Hallowtide, Light Weapons, Weapons with Consecutive Criticals]
@@ -36,7 +36,11 @@ It resembles the hand of a specter.
 
 ## Critical
 
-After a short wind-up, the user slashes twice with the weapon, applying 10 Wither and dealing m1 damage for each hit. This critical has innate bleed on both hits. This critical has a short cooldown of only 5 seconds.
+After a short wind-up, the user slashes twice with the weapon, applying 10 Wither and dealing 1x scaled damage for each hit. This critical has innate bleed on both hits.
+
+The critical has a cooldown of **5 seconds**.
+
+  
 
 ## Trivia
 

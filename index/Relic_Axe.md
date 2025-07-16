@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 146985
+revid: 151597
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Stone KnightRoughly 10% |
+| obtainment | Stone Knight |
 | description | "..." |
 
 ## Description
@@ -33,7 +33,9 @@ The Relic Axe is a [Heavy Weapon](Weapons.md) of legendary rarity that is obtain
 
 ## Critical
 
-The critical is identical to that of the standard Greataxe critical, but it generates three stone pillars of ascending height in the direction the player is facing, similar to the Sand Knight's Eruption move.
+The user performs an overhead slash with an unparriable indicator before sending out three stone pillars. If the opponent is hit by the pillars, they will be sent up and ragdolled.
+
+The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 

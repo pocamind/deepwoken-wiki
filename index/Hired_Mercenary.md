@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 151393
+revid: 151552
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Items, Outfits, Starter Outfits]
@@ -40,5 +40,4 @@ This Outfit has 1000 durability, grants +15% Physical resistance, and +10% Eleme
 
 -   Oddly enough, given the name, you can see Karliah wearing this Outfit after completing [her quest](Etris.md#diver-escort-quest).
 -   Used to be called "DawnBringer" long ago, some people might still have the schematic with such name.
--   Shirt: [https://www.roblox.com/catalog/5738141407/Dawn-Bringer](https://www.roblox.com/catalog/5738141407/Dawn-Bringer)
--   Pants: [https://www.roblox.com/catalog/5738143153/Dawn-Bringer-Pants](https://www.roblox.com/catalog/5738143153/Dawn-Bringer-Pants)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5738141407/Dawn-Bringer) / [Pants](https://www.roblox.com/catalog/5738143153/Dawn-Bringer-Pants)

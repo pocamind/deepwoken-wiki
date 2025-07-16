@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 151458
+revid: 151565
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits]
@@ -46,5 +46,4 @@ This Outfit also grants the [Unbreakable](Talents.md#equipment-talents) Talent, 
 -   Shares its description with the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md).
 -   Might be a reference to the material "Darksteel" in Magic: The gathering
 -   **Current** darksteel plate is an outfit created by **KAHAEL:**
--   [https://www.roblox.com/catalog/10424588120/Darksteel-Plate-Shirt](https://www.roblox.com/catalog/10424588120/Darksteel-Plate-Shirt)
--   [https://www.roblox.com/catalog/10424589677/Darksteel-Plate-Pants](https://www.roblox.com/catalog/10424589677/Darksteel-Plate-Pants)
+    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10424588120/Darksteel-Plate-Shirt) / [Pants](https://www.roblox.com/catalog/10424589677/Darksteel-Plate-Pants)

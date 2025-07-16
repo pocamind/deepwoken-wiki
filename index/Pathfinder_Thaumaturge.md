@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 151448
+revid: 151561
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -43,5 +43,4 @@ The [Lowstride](Talents.md#assassin) Talent increases your [Stealth](Stealth.md)
 
 -   The Pathfinder Thaumaturge is a recolored and superior version of the [Pathfinder Sorcerer](Pathfinder_Sorcerer.md)
 -   The Pathfinder Thaumaturge is an inferior version of the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md).
--   Shirt: [https://www.roblox.com/catalog/12994454400/Pathfinder-Thaumaturge-Deepwoken](https://www.roblox.com/catalog/12994454400/Pathfinder-Thaumaturge-Deepwoken)
--   Pants: [https://www.roblox.com/catalog/12994469891/Pathfinder-Thaumaturge-Deepwoken](https://www.roblox.com/catalog/12994469891/Pathfinder-Thaumaturge-Deepwoken)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/12994454400/Pathfinder-Thaumaturge-Deepwoken) / [Pants](https://www.roblox.com/catalog/12994469891/Pathfinder-Thaumaturge-Deepwoken)

@@ -1,6 +1,6 @@
 ---
 title: Soren
-revid: 129735
+revid: 151550
 source: https://deepwoken.fandom.com/wiki/Soren
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
@@ -10,7 +10,21 @@ notices:
 
 # Soren
 
-Template:ArmorInfobox**Soren** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+| Soren | |
+|---|---|
+| caption | The signature outfit of Wishmakers, a group of Lightborn sorcerers now lost to time. |
+| tier | Unique (Spec/Mod) |
+| price | 30 Notes |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 4000 |
+| resistances | +35% Physical Armor, +35% Elemental Armor, +25% Shadow Armor |
+| buffs | +100% Ether Regen |
+| talents | Crippling Darkness |
+| selling_price | 10 |
+| weight | 1 |
+
+**Soren** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Trivia
 
@@ -18,5 +32,4 @@ Template:ArmorInfobox**Soren** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _D
     -   Also by Kaide, The Drowned Light in [Layer Two](Second_Layer.md), [Floor Two](Second_Layer/New_Kyrsa.md) of [The Depths](The_Depths.md)
 -   [Wishmaker](Wishmaker.md) also has the same description.
 -   Original outfit made by **SirAndrove2** under his group, Androve's Record Shop.
--   Shirt: [www.roblox.com/catalog/6749248015/V4-Sun-Cult-Temple-Armor-Cloak](https://www.roblox.com/catalog/6749248015/V4-Sun-Cult-Temple-Armor-Cloak)
--   Pants: [www.roblox.com/catalog/6749254648/V4-Sun-Cult-Temple-Armor](https://www.roblox.com/catalog/6749254648/V4-Sun-Cult-Temple-Armor)
+    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/6749248015/V4-Sun-Cult-Temple-Armor-Cloak) / [Pants](https://www.roblox.com/catalog/6749254648/V4-Sun-Cult-Temple-Armor)

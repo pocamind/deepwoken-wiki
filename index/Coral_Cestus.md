@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 150850
+revid: 151593
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
@@ -36,6 +36,8 @@ The **Coral Cestus** is a Fist Light Weapon that requires 50 LHT to use and drop
 The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short knockdown.
 
 The Template:AlloyedColor critical has the same animation with a new visual and sound effect. On top of this, the critical now auto executes anyone who's at low health or already knocked.
+
+The critical has a cooldown of **6 seconds**.
 
 ## Trivia
 

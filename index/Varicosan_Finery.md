@@ -1,6 +1,6 @@
 ---
 title: Varicosan Finery
-revid: 151403
+revid: 151569
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,7 +40,5 @@ The Outfit has 1500 durability, grants +20% Physical Armor and +20% Elemental Ar
 ## Trivia
 
 -   This outfit originally granted a Talent named "_Reciprocity_", which did nothing as there isn't a Talent by that name. This was fixed sometime in a shadow update.
--   Suit Shirt - [https://www.roblox.com/catalog/16826381385/Formal-Suit-Shirt](https://www.roblox.com/catalog/16826381385/Formal-Suit-Shirt)
--   Suit Pants - [https://www.roblox.com/catalog/16831806056/Formal-Suit-Pants](https://www.roblox.com/catalog/16831806056/Formal-Suit-Pants)
--   Dress Shirt - [https://www.roblox.com/catalog/16826386577/Functional-Dress-Shirt](https://www.roblox.com/catalog/16826386577/Functional-Dress-Shirt)
--   Dress Pants - [https://www.roblox.com/catalog/16831865733/Functional-Dress-Pants](https://www.roblox.com/catalog/16831865733/Functional-Dress-Pants)
+-   Roblox clothing (Suit) - [Shirt](https://www.roblox.com/catalog/16826381385/Formal-Suit-Shirt) / [Pants](https://www.roblox.com/catalog/16831806056/Formal-Suit-Pants)
+-   Roblox clothing (dress) [Shirt](https://www.roblox.com/catalog/16826386577/Functional-Dress-Shirt) / [Pants](https://www.roblox.com/catalog/16831865733/Functional-Dress-Pants)

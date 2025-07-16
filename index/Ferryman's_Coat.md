@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 151525
+revid: 151572
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits]
@@ -48,9 +48,8 @@ The Outfit provides the [Ferryman's Curse](Talents.md#equipment-talents) Talent,
 ## Trivia
 
 -   Like the name suggests, it's the signature outfit of The Ferryman.
--   Does not give you any abilities used by The Ferryman, nor does it affect your [thundercall](Thundercall.md) mantras.
--   The shirt can be found [here](https://www.roblox.com/catalog/5825770743/Night-Walker)
--   The pants can be found [here](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)
+-   Does not give you any abilities used by The Ferryman, nor does it affect your [Thundercall](Thundercall.md) mantras.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5825770743/Night-Walker) / [Pants](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)
 -   Prior to the addition of [Item Banks](Item_Bank.md), the schematic was able to be dropped.
 -   As of the October 31st, 2024 update, when burn was made to scale off Flamecharm invest, burn can now proc Ferryman's Curse. While this seems like a good thing, you get hitstunned when Ferryman's Curse procs, which can interrupt your attacks.
     -   This is incredibly detrimental to people using Agitating Spark or Flame Within with this outfit.

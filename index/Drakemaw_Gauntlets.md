@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 149242
+revid: 151589
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowti
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
-| description | TEMPLATE (edit the wiki to add) |
+| description | ... |
 
 ## Description
 
@@ -35,9 +35,9 @@ Meeting the requirement of LHT, the weapon deals 21.3 damage, becoming 27.7 with
 
 ## Critical
 
-The Drakemaw Gauntlets have a unique critical that does not change whether you have [Fang and Coil](Fang_and_Coil.md), [Way of Navae](Way_of_Navae.md) or [Legion Kata](Legion_Kata.md) equipped.
+The user performs a fast forward thrust that ragdolls the opponent and pushes them away _slightly_. Deals high posture damage.
 
-The user performs a fast forward thrust that ragdolls players and pushes them away _slightly_. When blocked, while not instantly guardbreaking, it does a large amount of posture damage.
+The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 151467
+revid: 151557
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -52,5 +52,4 @@ The [Looter](Talents.md#equipment-talents) Talent grants the user extra loot for
 
 ## Trivia
 
--   Shirt: [https://www.roblox.com/catalog/5899129258/Radiant-Adventurer](https://www.roblox.com/catalog/5899129258/Radiant-Adventurer)
--   Pants: [https://www.roblox.com/catalog/5899132202/Radiant-Adventurer-Pants](https://www.roblox.com/catalog/5899132202/Radiant-Adventurer-Pants)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5899129258/Radiant-Adventurer) / [Pants](https://www.roblox.com/catalog/5899132202/Radiant-Adventurer-Pants)

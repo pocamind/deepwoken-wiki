@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 151447
+revid: 151568
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits]
@@ -46,8 +46,7 @@ This Outfit also grants the [Devastating Power](Talents.md#equipment-talents) Ta
 ## Trivia
 
 -   Expect to get a minimum of +40 Ether on common builds, with an upper limit of +130 Ether with the [Neruoplasticity](Talents.md#genius-intelect) and [Will o' Wisp](Talents.md#sage-of-wisps) Talents and the [Saintsworn](Oath%253A_Saintsworn.md) Oath.
--   The outdated version is similar to [Robin's](https://cdn.discordapp.com/attachments/1200116609180766248/1208639913071878204/latest.png?ex=65e404a2&is=65d18fa2&hm=b940e47aa33adb8ebaa0d476f0edc6e1f68c2113d144b7af10d31214721f96bd&) outfit from the Fire Emblem series.
+-   The outdated version is similar to [Robin's](https://fireemblem.fandom.com/wiki/Robin) outfit from the Fire Emblem series.
 -   A functionally superior version of [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md).
 -   **Current** pathfinder arch-sorcerer is made by **KAHAEL:**
--   [https://www.roblox.com/catalog/10378359719/Pathfinder-Arch-Sorcerer-Shirt](https://www.roblox.com/catalog/10378359719/Pathfinder-Arch-Sorcerer-Shirt)
--   [https://www.roblox.com/catalog/10378362303/Pathfinder-Arch-Sorcerer-Pants](https://www.roblox.com/catalog/10378362303/Pathfinder-Arch-Sorcerer-Pants)
+    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10378359719/Pathfinder-Arch-Sorcerer-Shirt) / [Pants](https://www.roblox.com/catalog/10378362303/Pathfinder-Arch-Sorcerer-Pants)

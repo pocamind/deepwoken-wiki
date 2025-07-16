@@ -1,6 +1,6 @@
 ---
 title: Mr Toon
-revid: 149884
+revid: 151549
 source: https://deepwoken.fandom.com/wiki/Mr_Toon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
@@ -10,7 +10,22 @@ notices:
 
 # Mr Toon
 
-Template:ArmorInfobox**Mr Toon** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+| Mr Toon | |
+|---|---|
+| caption | Coat of the esteemed Nuttoons. |
+| tier | Unique (Spec/Mod) |
+| price | 1000 Notes |
+| stat_req | Power 15 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2600 |
+| resistances | +30% Physical Armor, +30% Elemental Armor, +20% Lightning Armor, +20% Shadow Armor |
+| buffs | +100% Ether Regen+16 Sanity |
+| talents | Vow of Mastery |
+| selling_price | 10 |
+| weight | 1 |
+
+**Mr Toon** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Trivia
 

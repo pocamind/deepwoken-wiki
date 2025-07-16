@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 151443
+revid: 151564
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, Etrea]
@@ -47,5 +47,4 @@ The [Paired Soul](Talents.md#equipment-talents) Talent increases the damage of t
 -   This is the uniform worn by [Blade Temple Guard](Blade_Temple_Guard.md).
 -   The old Cloak of Winds design appears to be a reference to the [White Church Hunter set](https://bloodborne.wiki.fextralife.com/White+Church+Set) from Bloodborne.
 -   **Current** cloak of winds is an outfit made by **KAHAEL:**
--   [https://www.roblox.com/catalog/10401137157/Cloak-of-Winds-Shirt](https://www.roblox.com/catalog/10401137157/Cloak-of-Winds-Shirt) - Shirt
--   [https://www.roblox.com/catalog/10401292181/Cloak-of-Winds-Pants](https://www.roblox.com/catalog/10401292181/Cloak-of-Winds-Pants) - Pants
+    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10401137157/Cloak-of-Winds-Shirt) / [Pants](https://www.roblox.com/catalog/10401292181/Cloak-of-Winds-Pants)

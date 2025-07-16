@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 147007
+revid: 151594
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -31,7 +31,9 @@ The Forge Greathammer is a Midgame Greathammer that can be found in chests by tu
 
 ## Critical
 
-The user swings the greathammer before swinging it once more. Knockdowns on the first hit and guardbreaks on the second hit. The first hit is blockable and has hyperarmor for the first 0.3s of its duration.
+The user reels the greathammer back before performing a sideways swing that knocks down the opponent, followed up by a second swing that pushes them back. The first hit is blockable and has hyperarmor for the first 0.3s of its duration.
+
+The critical has a cooldown of **6 seconds**.
 
 ## Trivia
 

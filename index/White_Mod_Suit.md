@@ -1,6 +1,6 @@
 ---
 title: White Mod Suit
-revid: 151342
+revid: 151543
 source: https://deepwoken.fandom.com/wiki/White_Mod_Suit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Spec/Mod Outfits]
@@ -28,7 +28,9 @@ notices:
 
 ### _Requirements_
 
-This Outfit costs 0 and has no [Power Level](Power.md) or [Attribute](Attributes.md) requirement.
+This Outfit has no requirement to craft.
+
+This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 

@@ -1,24 +1,41 @@
 ---
 title: Sanguine Finery
-revid: 150239
+revid: 151532
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Master Outfits, World Event]
+categories: [Items, Outfits, Master Outfits, World Event]
 ---
 
 # Sanguine Finery
 
-Template:ArmorInfobox**Sanguine Finery** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+| Sanguine Finery | |
+|---|---|
+| caption | An elegant outfit favoured by expert Bloodrenders. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture. |
+| tier | Master |
+| crafting_req | x5 Cloth, x5 Fiber, x5 Heartstar, x8 Umbrite, x1 Bloodless Gem, x5 Vibrant Gem |
+| price | 1,000 |
+| stat_req | Power 15, 45 Bloodrend |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2600 |
+| resistances | +25% Blood Armor, +25% Physical Armor, +30% Elemental Armor |
+| buffs | +75% Ether Regen |
+| talents | Focused Hematoma, Sheltering Grasp |
+| obtainment | Carnival of Hearts |
+| selling_price | 10 |
+| weight | 1 |
+
+**Sanguine Finery** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, five (5) [Heartstars](Heartstar.md), eight (8) [Umbrite](Ores.md), one (1) [Bloodless Gem](Mantra_Modifiers.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md).
+This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md) and [Fiber](Fiber.md), five (5) [Heartstars](Heartstar.md), eight (8) [Umbrite](Ores.md#umbrite), one (1) [Bloodless Gem](Bloodless_Gem.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit requires [Power Level](Talents.md) 15 and 45 [Bloodrend](Bloodrend.md).
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 45 [Bloodrend](Bloodrend.md) to be crafted.
 
-This Outfit isn't droppable but is bankable.
+This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
@@ -26,14 +43,8 @@ This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Bloodrend, and 30% Elemental.
 
-It gives the [Focused Hematoma](Talents.md#equipment-talents) and [Sheltering Grasp](Talents.md#bloodrender) Talents. Focused Hematoma lowers all outside sources of blood loss by 25%, but also reduces temporary health gain by 15%. Sheltering Grasp reduces the blood cost of casting Bloodrend Mantras while standing in blood pools.
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Carnival of Hearts](Carnival_of_Hearts.md)
+It gives the [Focused Hematoma](Talents.md#equipment-talents) and [Sheltering Grasp](Talents.md#bloodrender) Talents. **Focused Hematoma** lowers all outside sources of blood loss by 25%, but also reduces temporary health gain by 15%. **Sheltering Grasp** reduces the blood cost of casting Bloodrend Mantras while standing in blood pools.
 
 ## Trivia
 
--   This outfit is best known for being worn by the Bloodrend trainer [Vyrelda](Vyrelda,_Master_of_Blood.md).
+-   This outfit is best known for being worn by the Bloodrend trainer, [Vyrelda](Vyrelda,_Master_of_Blood.md).

@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 151466
+revid: 151583
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -14,9 +14,9 @@ categories: [NPCs, Vendors]
 
 ## Description
 
-The Gaunt Man is a tall and pale NPC that resides in the depths that gives access to some new endgame content and items.
+The Gaunt Man is a tall and pale NPC that resides in the depths that gives access to some endgame content and items.
 
-To get access to the shop you must finish [The Vat](The_Vat.md). The shop is relatively expensive, with 3 new enchants, A new deep gem, And a new dungeon that contains 2 new mobs referred to as a [Prime Megalodaunt](Prime_Megalodaunt.md) and [Parliament](Parliament.md) (marked as a boss).
+The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that contains 3 dangerous mobs the player will be tasked with fighting; [Fury Nautilodaunt](Fury_Nautilodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), and [Parliament](Parliament.md). Upon completing this experiment, the Gaunt Man will grant you access to his shop, containing exclusive enchants and even an exclusive Deep Gem.
 
 ## Dialogue
 
@@ -175,7 +175,7 @@ To get access to the shop you must finish [The Vat](The_Vat.md). The shop is rel
   <td colspan="18">Begin</td>
 </tr>
 <tr>
-  <td colspan="18">You return. This is good. Would you like to assist me further in experiments. You can have the material results.</td>
+  <td colspan="18">You return. This is good. Would you like to assist me further in experiments? You can have the material results.</td>
 </tr>
 <tr>
   <td colspan="3">Void Enchant [25 <a href="Void_Spire.md"><font><u>Void Spires</u></font></a>, 10 <a href="Crowns.md"><font><u>Crowns</u></font></a>]</td>
@@ -186,9 +186,9 @@ To get access to the shop you must finish [The Vat](The_Vat.md). The shop is rel
   <td colspan="3">Who - or what - are you, exactly?</td>
 </tr>
 <tr>
-  <td colspan="3">Purchases <a href="Enchantments.md#blessings"><font><u>Void Enchant Stone</u></font></a></td>
-  <td colspan="3">Purchases <a href="Enchantments.md#equipment"><font><u>Rain Enchant Grease</u></font></a></td>
-  <td colspan="3">Purchases <a href="Enchantments.md#equipment"><font><u>Parasol's Blight Enchant Stone</u></font></a></td>
+  <td colspan="3">Purchases <a href="Enchantments.md#curses"><font><u>Curse of Void</u></font></a> Enchant Stone</td>
+  <td colspan="3">Purchases <a href="Enchantments.md#equipment"><font><u>Rain</u></font></a> Enchant Grease</td>
+  <td colspan="3">Purchases <a href="Enchantments.md#equipment"><font><u>Parasol's Blight</u></font></a> Enchant Stone</td>
   <td colspan="3">Purchases <a href="Mantra_Modifiers.md#deep-gems"><font><u>Aegis Gem</u></font></a></td>
   <td colspan="3">[Enter Dungeon]</td>
   <td colspan="3">Mm. Let me try a metaphor. If you are a stalk of wheat, then I am a loaf of bread. This is a fitting analogy.</td>
@@ -206,7 +206,9 @@ To get access to the shop you must finish [The Vat](The_Vat.md). The shop is rel
 
 ## Trivia
 
+-   All items sold by the Gaunt Man ([Curse of Void](Curse_of_Void.md) Enchant, [Rain](Environmental_Hazards.md) Enchant, [Parasol's Blight](<Parasol's_Blight.md>) Enchant, and the [Aegis Gem](Aegis_Gem.md)) will be inactive if you have not completed his experiments on that character.
+    -   This also applies to the [Nightbringer](Nightbringer.md) Enchant, even though he doesn't sell you this item.
 -   The Gaunt Man may be a [Krulian](Krulian.md). This can be inferred by him using an analogy when comparing the player character to himself, calling the player character "a stalk of wheat" and himself a "a loaf of bread"; as we are but one soul compared to the multitude of souls that make up a Krulian.. or so the theory goes.
     -   On top of this, his freakishly tall appearance, blue skin, empty eyes, and unnatural speech all contribute to the idea of him not being anything like most of the denizens of Lumen.
     -   If this theory is true, then it also brings forth the idea that Krulians aren't made up of _only_ souls, as bread is made up of more than just wheat.
--   When you die in the experiment, he states: "Ah. I was hoping to learn more from that one. Oh well." he is very likely referring to the player character here and not the monsters. This theory is reinforced by his dialogue when you complete the experiment being "Hm. I have much to learn about your kind. Please do return for more experiments."
+-   When you die in the experiment, he states: "Ah. I was hoping to learn more from that one. Oh well." he is very likely referring to the player character here, not the monsters. This theory is reinforced by his dialogue when you complete the experiment being "Hm. I have much to learn about your kind. Please do return for more experiments."

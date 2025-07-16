@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 151414
+revid: 151570
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, The Knives of Eylis]
@@ -45,5 +45,4 @@ This Outfit has 1500 durability and grants +25% Physical resistance, +15% Elemen
 -   The Outfit used to share its appearance with the [Whaler Initiate](Whaler_Initiate.md) Outfit.
 -   The Outfit used to be near identical to [Volke](https://fireemblem.fandom.com/wiki/Volke)'s outfit from _Fire Emblem: Radiant Dawn_.
 -   **Current** whaler coat is an outfit made by **KAHAEL**:
--   [https://www.roblox.com/catalog/10418548625/Whaler-Coat-Shirt](https://www.roblox.com/catalog/10418548625/Whaler-Coat-Shirt)
--   [https://www.roblox.com/catalog/10418587306/Whaler-Coat-Pants](https://www.roblox.com/catalog/10418587306/Whaler-Coat-Pants)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10418548625/Whaler-Coat-Shirt) / [Pants](https://www.roblox.com/catalog/10418587306/Whaler-Coat-Pants)

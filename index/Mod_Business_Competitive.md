@@ -1,6 +1,6 @@
 ---
 title: Mod Business Competitive
-revid: 143069
+revid: 151544
 source: https://deepwoken.fandom.com/wiki/Mod_Business_Competitive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Spec/Mod Outfits]
@@ -10,7 +10,20 @@ notices:
 
 # Mod Business Competitive
 
-Template:ArmorInfobox**Mod Business Competitive** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+| Mod Business Competitive | |
+|---|---|
+| caption | The ticket grind never stops. |
+| tier | Unique (Spec/Mod) |
+| crafting_req | None |
+| stat_req | None |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1000 |
+| obtainment | Purchased directly from the Mod Shop. |
+| selling_price | 10 |
+| weight | 1 |
+
+**Mod Business Competitive** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -18,12 +31,8 @@ Template:ArmorInfobox**Mod Business Competitive** is a Unique (Spec/Mod) [Outfit
 
 This Outfit has no requirement to craft.
 
-This Outfit has no [Power Level](Talents.md) or [Attribute](Attributes.md) requirement.
+This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
 This Outfit has 1000 durability.
-
-## Location
-
-Purchased from the Mod Shop.
