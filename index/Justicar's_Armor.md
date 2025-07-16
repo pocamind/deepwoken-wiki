@@ -1,22 +1,38 @@
 ---
 title: "Justicar's Armor"
-revid: 134341
+revid: 151516
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Master Outfits]
+categories: [Items, Outfits, Master Outfits]
 ---
 
 # Justicar's Armor
 
-Template:ArmorInfobox**Justicar's Armor** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+| Justicar's Armor | |
+|---|---|
+| tier | Master |
+| crafting_req | x5 Cloth, x1 Wayward Gem, x5 Fiber, x5 Gale Stone, x1 Dark Feather, x4 Thresher Spine |
+| price | 1000 |
+| stat_req | Power 15 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2800 |
+| resistances | +30% Physical Armor, +30% Elemental Armor, +5% Ice Armor, +5% Blunt Armor, +5% Shadow Armor |
+| buffs | +20% Ether Regen |
+| talents | The Path, Unveiled |
+| obtainment | Chests from:, Etris: Siege, Fishing, Crypt of the Unbroken, The Ferryman, Maestro Evengarde RestOther:, Fury Nautilodaunt (direct drop), Sold by Glaive Spellhardt |
+| selling_price | 10 |
+| weight | 1 |
+
+**Justicar's Armor** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth, five (5) Fiber, one (1) Wayward Gem, five (5) Gale Stone, four (4) Thresher Spine and one (1) Dark Feather.
+This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Wayward Gem](Wayward_Gem.md), five (5) [Gale Stones](Gale_Stone.md), four (4) [Thresher Spines](Thresher_Spine.md) and one (1) [Dark Feather](Dark_Feather.md) to craft.
 
-This Outfit requires [Power Level](Talents.md) 15.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
 ### _Armor Stats_
 
@@ -24,19 +40,7 @@ This Outfit has 2800 durability and grants +30% Physical Armor, +30% Elemental A
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt, 30% Slash, 33.5% Frostdraw, 33.5% Shadowcast, and 30% Elemental.
 
-This Outfit grants the [Talent Card](Talents.md) _The Path, Unveiled,_ which increases [Jus Karita](Jus_Karita.md) / [Anklets of Alsin](Anklets_of_Alsin.md) damage by 15%.
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Etris: Siege](Cinders_of_Etris.md) \[Super Rare\]
--   [Fishing](Fishing.md) \[Very rare\]
--   [Glaive Spellhardt](Glaive_Spellhardt.md) \[20 Joy, No longer avaliable\]
--   [Lightning Squibbo](Nautilodaunt.md) \[Common in hell mode\]
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) \[Rare\]
--   [The Ferryman](The_Ferryman.md) \[Uncommon\]
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+This Outfit grants the [The Path, Unveiled](Talents.md#equipment-talents) Talent, increasing your [Jus Karita](Jus_Karita.md) / [Anklets of Alsin](Anklets_of_Alsin.md) damage by 10%.
 
 ## Trivia
 

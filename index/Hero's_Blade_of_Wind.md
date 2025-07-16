@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Wind"
-revid: 150024
+revid: 151434
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items, Medium Weapons]
@@ -17,13 +17,14 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | range | 8 |
 | swing speed | 1x |
 | stances | 2 Handed, 1 Handed |
+| selling price | 100 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, Sold in Traan Zakshun's black market for |
-| description | “A blade said to be enruned with a passage of the song, it evokes the inescapable force of a hurricane.” |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, Sold in Traan Zakshun's black market for 4 |
+| description | A blade said to be enruned with a passage of the song, it evokes the inescapable force of a hurricane. |
 
 The Hero Blade of Wind is an elemental weapon and the Galebreathe variation of the [Hero Blades](Hero_Blades.md). This weapon has a unique critical in which the user and phantom summon a strong whirlwind in front, pushing back targets.
 

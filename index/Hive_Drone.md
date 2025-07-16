@@ -1,9 +1,9 @@
 ---
 title: Hive Drone
-revid: 151358
+revid: 151478
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
+categories: [Items, Outfits, Expert Outfits, The Hive]
 ---
 
 # Hive Drone
@@ -48,5 +48,4 @@ Hive Drone also grants the [Lowstride](Talents.md#assassin) Talent, increasing y
 -   One of the cheapest Expert armors to make.
 -   Better than the [Ignition Union Uniform](Ignition_Union_Uniform.md) in everything except durability, and cheaper to make despite being an Expert-tier outfit.
 -   **Current** hive drone is an outfit made by **KAHAEL:**
--   [https://www.roblox.com/catalog/10415791525/Hive-Drone-Shirt](https://www.roblox.com/catalog/10415791525/Hive-Drone-Shirt)
--   [https://www.roblox.com/catalog/10415789135/Hive-Drone-Pants](https://www.roblox.com/catalog/10415789135/Hive-Drone-Pants)
+    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10415791525/Hive-Drone-Shirt) / [Pants](https://www.roblox.com/catalog/10415789135/Hive-Drone-Pants)

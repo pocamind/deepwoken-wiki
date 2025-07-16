@@ -1,9 +1,9 @@
 ---
 title: Blacksmith
-revid: 138570
+revid: 151428
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Armors]
+categories: [NPCs]
 ---
 
 # Blacksmith
@@ -50,9 +50,3 @@ _More info: [Transmogrification](Transmogrification.md)_
 -   All of them are wearing [Smith's Bandana](<Smith's_Bandana.md>), [Smith's Goggles](<Smith's_Goggles.md>) and [Smith's Gloves](<Smith's_Gloves.md>).
 -   Curiously, it appears the blacksmiths at [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md) are brothers.
 -   The blacksmith in [Etris](Etris.md) has an [apprentice outside the store](Pori.md). He will ask for you to not rat on him, if you do not rat on him, you will get a 50% discount, rounded-down, on all materials purchasable at the [Etris](Etris.md) Blacksmith, however ratting on him does nothing and the prices will stay the same.
-
-## Gallery
-
-Current Blacksmith Menu
-
-Old Blacksmith Menu

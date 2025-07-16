@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Flame"
-revid: 150039
+revid: 151440
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons]
@@ -17,13 +17,14 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | range | 8 |
 | swing speed | 1x |
 | stances | 2 Handed, 1 Handed |
+| selling price | 100 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knight event in Valley of Heroes, Fishing, The Diluvian Mechanism, Sold in Traan Zakshun's black market for, Sold in Traan Zakshun's regular shop for |
-| description | “A blade said to be enruned with a passage of the song, it evokes the overwhelming heat of geothermal vents.” |
+| obtainment | Defeating Blizzard Knight event in Valley of Heroes, Fishing, The Diluvian Mechanism, Sold in Traan Zakshun's black market for 4 , Sold in Traan Zakshun's regular shop for 4,500 |
+| description | A blade said to be enruned with a passage of the song, it evokes the overwhelming heat of geothermal vents. |
 
 The Hero's Blade of Flame is one of the several elemental weapons apart of the Hero blade line, being specifically the [Flamecharm](Flamecharm.md) variation of the [Hero Blades](Hero_Blades.md). This weapon features a unique critical.
 

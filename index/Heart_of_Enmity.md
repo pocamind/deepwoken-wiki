@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 151074
+revid: 151416
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -132,9 +132,9 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
   <td>
   <ul>
     <li><b>Unique Weapons</b>: <a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a>, <a href="Gaunts_of_Enmity.md"><font>Gaunts of Enmity</font></a>.</li>
-    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md"><font>Dormant Splinter</font></a>.</li>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
     <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>.</li>
-    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed"><font>Alloyed Adretian Axe</font></a>, <a href="Dawnshot.md#alloyed"><font>Alloyed Dawnshot</font></a>, <a href="Whaling_Knife.md#alloyed"><font>Alloyed Whaling Knife</font></a>, <a href="Darksteel_Greatsword.md#alloyed"><font>Darkalloy Greatsword</font></a></li>
+    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Whaling_Knife.md#alloyed">Alloyed Whaling Knife</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a></li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a></li>
@@ -167,7 +167,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
   <ol>
     <li><b>Unique Torso</b>: <a href="Fauld_of_Enmity.md"><font>Fauld of Enmity</font></a></li>
-    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md"><font>Warmaster's Medallion</font></a>, <a href="Mantle_of_Enmity.md"><font>Mantle of Enmity</font></a></li>
+    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>, <a href="Mantle_of_Enmity.md"><font>Mantle of Enmity</font></a></li>
     <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li>
   </ol></li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>:

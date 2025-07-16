@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 150883
+revid: 151510
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -106,6 +106,26 @@ Have your movement and parkour speed increased by 15% and your swing speed incre
 
 [Bladeharper](Oath%253A_Bladeharper.md) exclusive. Gain a speed boost and empower your Bladeharper abilities. Applied by landing 10 attacks (weapon attacks count as 2) without being hit, proccing [Untouchable](Oath%253A_Bladeharper.md) or by using the [Reveal](Oath%253A_Bladeharper.md) Talent tool. If applied through Untouchable, this effect has a 15 second duration. If applied through Reveal, this effect has an indefinite duration until your health reaches 10% or lower. Reveal also self applies the [Wither](#wither) status over time. Signified by a white aura emanating from your character's chest.
 
+### Tidal Shock
+
+Applied by landing your weapon critical with the [Cala-Mariner](Cala-Mariner.md) Outfit. This effect causes all Mantras and elemental damage taken in the next 4 seconds to be voided. Tidal Shock is signified by bubbles exiting your body on proc, the damage immunity effect is signified by blue energy exiting, similar to a Vent from a [Nautilodaunt](Nautilodaunt.md).
+
+### Primal Rage
+
+Gain +25% more damage for 25 seconds. All of your attacks highlight enemy health for the same duration. This is applied by using the [Titanslayer's Adornment](<Titanslayer's_Adornment.md>) Talent tool. This ability has a 3 minute cooldown and can only be used if you are under half health. Signified by a large red aura exuding from your body, similar to the rage effect from [Primadon](Primadon,_Titan_of_the_East.md) and [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md).
+
+### Tidekeeper
+
+Gain 15% more damage, 20% damage reduction, and the inability to be knocked for a short duration. This effect activates if you take 15% or more of your maximum health as damage within 3 seconds with the [Celtorian Tideknight](Celtorian_Tideknight.md) Outfit.
+
+### Mythic Stability
+
+Gain immunity to most auto-grip effects for a short duration. Procced by being hit by an attack that auto-grips while being eligible to be auto-gripped (low enough health for the attack to kill you or if you're already knocked). This effect comes from the [Mythic Stability](Talents.md#human-architecture) Talent. Signified by a white shield on your character.
+
+### Aegis
+
+Gain 20% damage reduction for 10 seconds. This effect is activated by landing a Mantra that has the [Aegis Gem](Aegis_Gem.md) equipped onto it. Note: This effect will not proc if you have not beaten [The Gaunt Man's](The_Gaunt_Man.md) experiment on your character. Signified by a pink translucent, cylindrical dome on your character.
+
 ### Positive Link
 
 [Linkstrider](Oath%253A_Linkstrider.md) exclusive. Gain 20% damage resistance, 5% dmg boost and constant speed boost that is able to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
@@ -170,7 +190,7 @@ Mocking favor is the outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [T
 -   **Posture Clear** - Restores 30% of your current Posture. Signified by [Rally's](Attunement-less.md#rally) shield clanging sound effect and Aelita/Tillian saying "Hit 'em while they're open!".
 -   **Free Mantra** - Makes your next Mantra cast cost 0 Ether. This effect is also granted to your allies. Signified with a visual that is almost identical to [Capra's Mark of Jurik](Capra.md#racial-traits) and Aelita/Tillian saying "First one's always free!".
 -   **Vent Reset** - Resets your Vent cooldown, allowing you to use it again. No visual effect, instead signified by Aelita/Tillian saying "Need a Break? I've got you!".
--   **Damage Reabsorption** - Around 30-40% of the damage you've taken very recently will be restored to you. This has a short activation window of only a few seconds. No visual effect.
+-   **Damage Reabsorption** - Around 30-40% of the damage you've taken very recently will be restored to you. This has a short activation window of only a few seconds. No visual effect, instead signified by Aelita/Tillian saying "Tsk, barely a flesh wound!".
 
 ## Harmful Status Effects
 
@@ -299,7 +319,7 @@ You and the caster are unable to cast Mantras for a duration. Applied through th
 
 ### Void
 
-While under the effects of Void, you have anti-heal and perishing will send you to [The Depths](The_Depths.md) regardless of if your healthbar is stained or not. Applied by being in a [Voidzone](Voidzones.md) or for 15 seconds after being hit by a weapon with the [Curse of Void](Curse_of_Void.md) enchantment. Anti-heal does not stack with other sources of anti-heal, the higher potency effect takes priority. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. The Void enchantment has no visual effect.
+While under the effects of Void, you have anti-heal and perishing will send you to [The Depths](The_Depths.md) regardless of if your healthbar is stained or not. Applied by being in a [Voidzone](Voidzones.md) or for 15 seconds after being hit by a weapon with the [Curse of Void](Curse_of_Void.md) enchantment. Anti-heal does not stack with other sources of anti-heal, the higher potency effect takes priority. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. The Curse of Void enchantment has no visual effect on proc.
 
 ### Anti-Heal
 
@@ -375,7 +395,7 @@ Take 20% more damage and 50% more posture damage from all sources for 6 seconds.
 
 ### Parasol's Blight
 
-Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 15 seconds and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Void Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md). This effect has no visual indicator.
+Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 15 seconds and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Void Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md). Note: This effect will not proc if you have not beaten [The Gaunt Man's](The_Gaunt_Man.md) experiment on your character. This effect has no visual indicator.
 
 ### Potions: Debuffs
 

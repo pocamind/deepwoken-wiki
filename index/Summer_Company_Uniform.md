@@ -1,9 +1,9 @@
 ---
 title: Summer Company Uniform
-revid: 151365
+revid: 151471
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Adept Outfits, Summer Company]
+categories: [Items, Outfits, Adept Outfits, Summer Company]
 ---
 
 # Summer Company Uniform
@@ -46,5 +46,4 @@ The [Armor Piercing](Talents.md#gunslinger) Talent causes your Pistol and Rifle 
 
 -   Innate Talent is very nice If you are looking to have Armor Piercing in the early stages of the game.
 -   The Summer Company Uniform is a clear reference to the [Crowfeather Garb](https://bloodborne.wiki.fextralife.com/Crowfeather+Garb) from Bloodborne, albeit without the black cloak.
--   Shirt: [https://www.roblox.com/catalog/13743909059/Summer-company-uniform-deepwoken](https://www.roblox.com/catalog/13743909059/Summer-company-uniform-deepwoken)
--   Pants: [https://www.roblox.com/catalog/13743902770/Summer-Company-Uniform-deepwoken](https://www.roblox.com/catalog/13743902770/Summer-Company-Uniform-deepwoken)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/13743909059/Summer-company-uniform-deepwoken) / [Pants](https://www.roblox.com/catalog/13743902770/Summer-Company-Uniform-deepwoken)

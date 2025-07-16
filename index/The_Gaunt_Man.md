@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 151233
+revid: 151466
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -206,6 +206,7 @@ To get access to the shop you must finish [The Vat](The_Vat.md). The shop is rel
 
 ## Trivia
 
--   Paired with his freakishly tall appearance, his unnatural speech and dialogue lines imply that he isn't human. Or at the very least, he's drastically different from the people of lumen.
--   What the Gaunt Man exactly _is_ is unclear, though his eyes appear to be very similar to [Chrysids](Chrysid.md) due to their emptiness, although his eyes may be empty to show he is unnatural. Along with his blue skin, it might also show he is piloting a drowned/dead corpse.
+-   The Gaunt Man may be a [Krulian](Krulian.md). This can be inferred by him using an analogy when comparing the player character to himself, calling the player character "a stalk of wheat" and himself a "a loaf of bread"; as we are but one soul compared to the multitude of souls that make up a Krulian.. or so the theory goes.
+    -   On top of this, his freakishly tall appearance, blue skin, empty eyes, and unnatural speech all contribute to the idea of him not being anything like most of the denizens of Lumen.
+    -   If this theory is true, then it also brings forth the idea that Krulians aren't made up of _only_ souls, as bread is made up of more than just wheat.
 -   When you die in the experiment, he states: "Ah. I was hoping to learn more from that one. Oh well." he is very likely referring to the player character here and not the monsters. This theory is reinforced by his dialogue when you complete the experiment being "Hm. I have much to learn about your kind. Please do return for more experiments."

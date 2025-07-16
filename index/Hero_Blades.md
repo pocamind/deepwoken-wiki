@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 150023
+revid: 151420
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -17,12 +17,13 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 | range | 8 |
 | swing speed | 1x |
 | stances | 2 Handed, 1 Handed |
+| selling price | 100 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, The Diluvian Mechanism, Sold in Traan Zakshun's black market for |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, The Diluvian Mechanism, Sold in Traan Zakshun's black market for 4 |
 | description | “A blade said to be enruned with a passage of the song, it evokes the element within." |
 
 ## Overview

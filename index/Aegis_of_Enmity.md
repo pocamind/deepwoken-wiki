@@ -1,6 +1,6 @@
 ---
 title: Aegis of Enmity
-revid: 150648
+revid: 151456
 source: https://deepwoken.fandom.com/wiki/Aegis_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]

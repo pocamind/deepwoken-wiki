@@ -1,22 +1,39 @@
 ---
 title: Legion Centurion
-revid: 150878
+revid: 151517
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Master Outfits, The Hundred Legions]
+categories: [Items, Outfits, Master Outfits, The Hundred Legions]
 ---
 
 # Legion Centurion
 
-Template:ArmorInfobox**Legion Centurion** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+| Legion Centurion | |
+|---|---|
+| caption | Armor worn by the honorary centurion of the legion, who excel in the ways of Gale Kata. |
+| tier | Master |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Blue Gem, x5 Gale Stone, x1 Dark Feather, x1 Thresher Spine |
+| price | 1,000 |
+| stat_req | Power 1510 Fortitude |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 3000 |
+| resistances | +30% Physical Armor, +30% Elemental Armor, +5% Wind Armor, +5% Lightning Armor |
+| buffs | +20% Ether Regen |
+| talents | Centurion's Resolve |
+| obtainment | Chests from:, Starswept Valley, Primadon, Moon's Eyrie, Megalodaunt On a Ship event, False Merchant Ships, Saramaed HollowSold by Nyanna and Traan Zakshun for 200 , sold by Glaive Spellhardt for 100 Joy |
+| selling_price | 10 |
+| weight | 1 |
+
+**Legion Centurion** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, one (1) Blue Gem, five (5) Gale Stones, one (1) Dark Feather and one (1) Thresher Spine.
+This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Blue Gem](Blue_Gem.md), five (5) [Gale Stones](Gale_Stone.md), one (1) [Dark Feather](Dark_Feather.md), and one (1) [Thresher Spine](Thresher_Spine.md) to craft.
 
-This Outfit requires [Power Level](Talents.md) 15 and [Fortitude](Attributes.md) 10.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 10 [Fortitude](Attributes.md#ftd) to be crafted.
 
 ### _Armor Stats_
 
@@ -24,16 +41,4 @@ This Outfit has 3000 durability and grants +30% Physical resistance, +30% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 33.5% Galebreathe, 33.5% Thundercall, and 30% Elemental.
 
-This Outfit also grants the [Talent Card](Talents.md#equipment-talents) _Centurion's Resolve_, which makes the Legion Kata fist style deal 4% more damage.
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Megalodaunt On a Ship (chest)](Random_Encounters.md#megalodaunt-on-a-ship)
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   [The Depths](The_Depths.md) (Chest)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [False Merchant Ships (Chest)](Random_Encounters.md#false-merchant-ship)
--   [Rogue Construct](Rogue_Construct.md) (Chest)
+This Outfit also grants the [Centurion's Resolve](Talents.md#equipment-talents) Talent, which makes the [Legion Kata](Legion_Kata.md) fist style deal 4% more damage.

@@ -1,9 +1,9 @@
 ---
 title: Bounty Hunter
-revid: 151378
+revid: 151475
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Adept Outfits, Bandits]
+categories: [Items, Outfits, Adept Outfits, Bandits]
 ---
 
 # Bounty Hunter
@@ -41,5 +41,4 @@ The [Lightweight](Talents.md#natural-armor) Talent increases the users movement 
 ## Trivia
 
 -   This is the outfit worn by both [Bandit Leaders](Bandit_Leader.md) and [Cloaked Assassins](Cloaked_Assassin.md).
--   Shirt: [https://www.roblox.com/catalog/5707040848/Sophisticated-Assassin-Top-3-0](https://www.roblox.com/catalog/5707040848/Sophisticated-Assassin-Top-3-0)
--   Pants: [https://www.roblox.com/catalog/5707068760/Sophisticated-Assassin-Pants-3-0](https://www.roblox.com/catalog/5707068760/Sophisticated-Assassin-Pants-3-0)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5707040848/Sophisticated-Assassin-Top-3-0) / [Pants](https://www.roblox.com/catalog/5707068760/Sophisticated-Assassin-Pants-3-0)

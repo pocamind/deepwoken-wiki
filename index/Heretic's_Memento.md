@@ -1,22 +1,41 @@
 ---
 title: "Heretic's Memento"
-revid: 138748
+revid: 151526
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Unique Outfits, World Event]
+categories: [Items, Outfits, Unique Outfits, World Event]
 ---
 
 # Heretic's Memento
 
-Template:ArmorInfobox **Heretic's Momento** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+| Heretic's Memento | |
+|---|---|
+| caption | All the rage among those with a desire to flaunt the trophies of their achievements. More notoriously donned as a testament to one's strength, though the obnoxiously gold adornments seem to indicate an equally flashy ego to a more keen-eyed observer |
+| tier | Unique |
+| crafting_req | x10 Cloth, x5 Fiber, x5 Gold, x1 Wayward Gem, x5 Vibrant Gem |
+| price | 500 |
+| stat_req | Power 15 |
+| bankable | Yes |
+| droppable | No |
+| durability | 2000 |
+| resistances | +10% Blunt Armor, +25% Elemental Armor, +25% Ironsing Armor, +25% Physical Armor, +5% Shadow Armor |
+| buffs | +100% Ether Regen |
+| talents | Underdog |
+| obtainment | Heart of Enmity |
+| selling_price | 10 |
+| weight | 1 |
+
+**Heretic's Momento** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires ten (10) Cloth, five (5) Fiber, five (5) [Gold](Ores.md), one (1) [Wayward Gem](Mantra_Modifiers.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md).
+This Outfit costs 500 and requires ten (10) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Gold](Ores.md#gold), one (1) [Wayward Gem](Wayward_Gem.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit requires [Power Level](Talents.md) 15.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
+
+This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
@@ -24,13 +43,7 @@ This Outfit has 2000 durability and grants +10% Blunt Armor, +100% Ether Regen, 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32.5% Blunt, 25% Slash, 43.75% Ironsing, 28.75% Shadowcast, and 25% Elemental.
 
-This Outfit grants the [Talent](Talents.md) Underdog, granting you a 3% damage buff against opponents who have more current health than you and a 10% damage buff against non-humanoid monsters.
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Heart of Enmity](Heart_of_Enmity.md)
+This Outfit grants the [Underdog](Talents.md#champion) Talent, granting you a 3% damage buff against opponents who have more current health than you and a 10% damage buff against non-humanoid monsters.
 
 ## Trivia
 

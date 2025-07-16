@@ -1,9 +1,9 @@
 ---
 title: "Trickster's Habit"
-revid: 151155
+revid: 151528
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Unique Outfits, World Event]
+categories: [Items, Outfits, Unique Outfits, World Event]
 ---
 
 # Trickster's Habit
@@ -12,9 +12,9 @@ categories: [Armors, Items, Outfits, Unique Outfits, World Event]
 |---|---|
 | caption | Threaded with detailed embroidery and carefully pleated ruffles, this technically impressive garment is sure to turn heads. Frustratingly, the ladder-laced details are especially hard to keep neat-fashion before function. |
 | tier | Unique |
-| crafting_req | x7 Cloth, x5 Fiber, x10 VIbrant Gem |
+| crafting_req | x7 Cloth, x5 Fiber, x10 Vibrant Gems |
 | price | 400 |
-| stat_req | Power Level 12 |
+| stat_req | Power 12 |
 | bankable | Yes |
 | droppable | No |
 | durability | 2500 |
@@ -31,9 +31,11 @@ categories: [Armors, Items, Outfits, Unique Outfits, World Event]
 
 ### _Requirements_
 
-This Outfit costs 400 and requires seven (7) Cloth and five (5) Fiber and ten (10) [Vibrant Gems](Mantra_Modifiers.md).
+This Outfit costs 400 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and ten (10) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit requires [Power Level](Power.md) 12.
+This Outfit additionally requires the player to be at least [Power](Power.md) 12 to be crafted.
+
+This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
@@ -41,7 +43,7 @@ This Outfit has 2500 durability and grants +20% Physical resistance, +15% Blunt 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32% Blunt, 20% Slash, and 35% Elemental.
 
-This Outfit also grants the [Talent](Talents.md#equipment-talents) Mocking Favor, causing Aelita to appear when you taunt (spit). She'll do an emote and apply a random buff or affliction. When applying buffs or afflictions she will say lines corresponding to each one. This talent has a 30 second cooldown.
+This Outfit also grants the [Mocking Favor](Talents.md#equipment-talents) Talent, causing Aelita to appear when you taunt (spit) or emote. She'll do an emote, say a quip, and apply a random buff or affliction. This Talent has a 30 second cooldown.
 
 List of buffs being:
 
@@ -50,7 +52,7 @@ List of buffs being:
 -   30% Posture restoration. Indicated by a metal clanging sound effect. \[Hit 'em while they're open!\]
 -   A free reroll, granting you an additional buff or affliction. \[Again! Again!\]
 -   One 0 cost Mantra, this affects your allies as well. Indicated by a dark blue [Reinforce](Attunement-less.md#reinforce)\-like vfx. \[First one's always free!\]
--   A percentage of the damage you've taken recently will be turned into healing.
+-   A percentage of the damage you've taken recently will be turned into healing. \[Tsk, barely a flesh wound!\]
 -   Vent cooldown reset, allowing you to Vent again. \[Need a break? I've got you!\]
 
 List of afflictions being:
@@ -60,15 +62,9 @@ List of afflictions being:
 -   Randomizes your Spit CD, anywhere between 5-20~ seconds. Indicated by black cross marks coming off your body. \[Heh, cat got your tongue!\]
 -   Lowers your Swingspeed. Indicated by black cross marks coming off of your body. \[Clumsy like a sack of bricks!\]
 
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Carnival of Hearts](Carnival_of_Hearts.md)
-
 ## Trivia
 
 -   Worn by [Tillian](Tillian.md) during the Carnival of Hearts.
--   This outfit shares identical stats with [Tillian's](Tillian.md) sister [Aelita's](Aelita.md) outfit: "the [Jester's Garb](<Jester's_Garb.md>)."
+-   This Outfit shares identical stats with [Jester's Garb](<Jester's_Garb.md>), the outfit worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
 -   The ''Black cross'' effect, procs the [talent](Talents.md) ''Charged return'' granting 10% increased DMG while under its effect.
 -   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.

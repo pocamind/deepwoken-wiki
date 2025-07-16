@@ -1,9 +1,9 @@
 ---
 title: "Titanslayer's Adornment"
-revid: 150565
+revid: 151487
 source: https://deepwoken.fandom.com/wiki/Titanslayer's_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Master Outfits]
+categories: [Items, Outfits, Master Outfits]
 ---
 
 # Titanslayer's Adornment
@@ -13,6 +13,7 @@ categories: [Armors, Items, Outfits, Master Outfits]
 | caption | Your very own rightful spoils of war, a gilded adornment made of the furs and skins of Primadon, the mighty Titan of the East. Although the beast is poorly understood, one thing is for certain - its might is overwhelming. This attire is a testament to your victory against it... until the Titan rises again. |
 | tier | Master |
 | crafting_req | x5 Cloth, x5 Sinner's Ash, x1 Primadon Pelt, x5 Odd Tentacle, x5 Bloodless Gem, x3 Thresher Spine, x3 Dark Feather, x20 Umbral Obsidian, x20 Vibrant Gem |
+| price | 5,000 |
 | stat_req | 50 Strength, Power 15 |
 | bankable | Yes |
 | droppable | Yes |
@@ -30,9 +31,9 @@ categories: [Armors, Items, Outfits, Master Outfits]
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth, five (5) [Sinner's Ash](<Sinner's_Ash.md>), one (1) [Primadon Pelt](Primadon_Pelt.md), five (5) [Odd Tentacles](Odd_Tentacle.md), five (5) [Bloodless Gems](Mantra_Modifiers.md), three (3) [Thresher Spines](Thresher_Spine.md), three (3) [Dark Feathers](Dark_Feather.md), twenty (20) [Umbral Obsidian](Umbral_Obsidian.md), and twenty (20) [Vibrant Gems](Mantra_Modifiers.md) to craft. Quite expensive.
+This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Sinner's Ash](<Sinner's_Ash.md>), one (1) [Primadon Pelt](Primadon_Pelt.md), five (5) [Odd Tentacles](Odd_Tentacle.md), five (5) [Bloodless Gems](Bloodless_Gem.md), three (3) [Thresher Spines](Thresher_Spine.md), three (3) [Dark Feathers](Dark_Feather.md), twenty (20) [Umbral Obsidian](Umbral_Obsidian.md), and twenty (20) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft. Quite expensive.
 
-This Outfit requires [Power Level](Talents.md) 15 and 50 [Strength](Attributes.md).
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 50 [Strength](Attributes.md#str) to be crafted.
 
 ### _Armor Stats_
 
@@ -43,5 +44,5 @@ It gives the [Primal Rage](Talents.md#equipment-talents) Talent tool. When used,
 ## Trivia
 
 -   This outfit is by far the most expensive outfit to craft, costing more than even the [Cala-Mariner](Cala-Mariner.md).
-    -   On top of the 5 [Sinner's Ash](<Sinner's_Ash.md>) required to craft the Outfit, the [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) boss will only spawn after sacrificing 4 Sinner's Ash, totaling to an astronomical 9 Sinners Ash! ..Assuming you decided to farm Elder Primadon instead of base Primadon.
+    -   On top of the 5 [Sinner's Ash](<Sinner's_Ash.md>) required to craft the Outfit, the [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) boss will only spawn after sacrificing 3 Sinner's Ash, totaling to an astronomical 8 Sinners Ash!
 -   Agamatsu, a deepwoken developer, stated Titanslayer's Adornment's rarity is similar to that of [Whistling Periapt's](Whistling_Periapt.md). It is highly recommended that you farm [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) over regular [Primadon](Primadon,_Titan_of_the_East.md) for the better rates.

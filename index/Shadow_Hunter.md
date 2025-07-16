@@ -1,9 +1,9 @@
 ---
 title: Shadow Hunter
-revid: 151366
+revid: 151472
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Adept Outfits]
+categories: [Items, Outfits, Adept Outfits]
 ---
 
 # Shadow Hunter
@@ -45,5 +45,4 @@ The [Lowstride](Talents.md#assassin) Talent increases your [Stealth](Stealth.md)
 
 -   Shadow Hunter is the only non-Starter outfit to not have a Power requirement.
 -   Worn by thieves in Erisia, as well as the [Mindless Servants](Mindless_Servant.md) in Duke Erisia's Manor.
--   Shirt: [https://www.roblox.com/catalog/4879082492/Shadow-Hunter](https://www.roblox.com/catalog/4879082492/Shadow-Hunter)
--   Pants: [https://www.roblox.com/catalog/4879083441/Shadow-Hunter-Pants](https://www.roblox.com/catalog/4879083441/Shadow-Hunter-Pants)
+-   Roblox Clothing: [Shirt](https://www.roblox.com/catalog/4879082492/Shadow-Hunter) / [Pants](https://www.roblox.com/catalog/4879083441/Shadow-Hunter-Pants)

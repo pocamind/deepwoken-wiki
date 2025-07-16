@@ -1,9 +1,9 @@
 ---
 title: Hive Tactician Armor
-revid: 151357
+revid: 151479
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
+categories: [Items, Outfits, Expert Outfits, The Hive]
 ---
 
 # Hive Tactician Armor
@@ -46,5 +46,4 @@ Hive Tactician Armor also grants the [Brunt](Talents.md#equipment-talents) Talen
 -   The description implies that the Blacksmiths have knowledge of/can use Ironsing.
 -   Although rather expensive, this can be a decent expert armor if you're using a weapon that can be two handed
 -   **Current** Hive tactician is an outfit made by **KAHAEL**:
--   [https://www.roblox.com/catalog/10376884406/Hive-Tactician-Shirt](https://www.roblox.com/catalog/10376884406/Hive-Tactician-Shirt)
--   [https://www.roblox.com/catalog/10376886695/Hive-Tactician-Pants](https://www.roblox.com/catalog/10376886695/Hive-Tactician-Pants)
+    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10376884406/Hive-Tactician-Shirt) / [Pants](https://www.roblox.com/catalog/10376886695/Hive-Tactician-Pants)

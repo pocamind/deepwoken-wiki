@@ -1,9 +1,9 @@
 ---
 title: Equipment
-revid: 151141
+revid: 151493
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Equipment, Armors, Outfits, Items, Mantras]
+categories: [Pages with broken file links, Equipment, Outfits, Items, Mantras]
 ---
 
 # Equipment
@@ -28,7 +28,7 @@ All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and
 Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to equipment that has **2** or more pips.
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
-★ = +1 Rare Pip (Head, Arms, and Legs also get +1 HP) ★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP) ★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP) (Torso, Face, Ears, and Rings cannot be 3 Star)
+★ = +1 Rare Pips (Head, Arms, and Legs also get +1 HP) ★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP) ★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP) (Torso, Face, Ears, and Rings cannot be 3 Star)
 
 These pips can be rerolled by using [Armorer's Needle](<Armorer's_Needle.md>) and [Gilded Needle](Gilded_Needle.md).
 
@@ -233,7 +233,7 @@ _+8 Health_
 
 +1 Uncommon Pip  
 
-+1 Rare Pip  
++1 Rare Pip
 
 _+Talent: Strong Hold_
 
@@ -263,7 +263,6 @@ Found from:
  | 
 
 _+5 Health_  
-
 +1 Uncommon Pip
 
 **Requires Fortitude 10**
@@ -505,7 +504,7 @@ Found from:
 
 _+3 Health_
 
-+2 Rare Pips  
++2 Rare Pips
 
 _+Talent: Emergency Repairs_
 
@@ -639,7 +638,7 @@ Found from:
 
  | 
 
-_+10 Health_  
+_+10 Health_
 
 +1 Legendary Pip
 
@@ -719,7 +718,7 @@ Found from:
 
 _+5 Health_
 
-+1 Rare Pip  
++1 Rare Pip
 
 +1 Legendary Pip
 
@@ -741,7 +740,7 @@ Found from:
 
  | 
 
-+2 Rare Pips  
++2 Rare Pips
 
 +1 Legendary Pip
 
@@ -1748,7 +1747,7 @@ Variants
 
 (**Animated**)
 
-(Mythical)
+(**Mythical**)
 
  | 
 
@@ -2270,7 +2269,7 @@ Found from:
 
 (**Series**)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -2299,13 +2298,13 @@ Found from:
 
 [Delver's Duster](<Delver's_Duster.md>)
 
-(Mythical)
+(**Mythical**)
 
  | 
 
 _+5 Health_  
 
-+3 Legendary Pips  
++3 Legendary Pips
 
 _+Talent: Braced Collapse_  
 
@@ -2326,7 +2325,7 @@ Found from:
 
 [Diver's Light Plate](<Diver's_Light_Plate.md>)
 
-(Mythical)
+(**Mythical**)
 
  | 
 
@@ -2571,7 +2570,7 @@ Found from:
 
 [Grand Fisher Plate](Grand_Fisher_Plate.md)
 
-(Mythical)
+(**Mythical**)
 
  | 
 
@@ -2691,7 +2690,7 @@ Found from:
 
 [Ignition Gauntlets](Ignition_Gauntlets.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -2785,7 +2784,7 @@ Found from:
 
 [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -2872,7 +2871,7 @@ _+2 Health_
 
 _+1 Posture_
 
-+1 Common Pip
+1 Common Pip
 
  | 
 
@@ -3055,7 +3054,7 @@ File:Monastery Champion Robes NEW.png
 
 [Monastery Champion Robes](Monastery_Champion_Robes.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -3083,7 +3082,7 @@ Found from:
 
 [Moonseye Gauntlets](Moonseye_Gauntlets.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -3141,7 +3140,7 @@ Found from:
 
 [Pathfinder Elite](Pathfinder_Elite.md)
 
-(Legendary)
+(**Legendary**)
 
 (**Series**)
 
@@ -3168,7 +3167,7 @@ Found from:
 
 [Providence Coat](Providence_Coat.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -3336,7 +3335,6 @@ _+4% Stealth_
 _+8% Fire Armor_
 
 +1 Rare Pip  
-
 +1 Legendary Pip
 
 _+Talent: Kick Off_
@@ -3461,7 +3459,7 @@ Found from:
 
 [Star Duster](Star_Duster.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -3822,7 +3820,7 @@ Variants
 
 [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -4800,7 +4798,7 @@ File:Monastery Champion Beads NEW.png
 
 [Monastery Beads](Monastery_Beads.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -5486,7 +5484,7 @@ Found from:
 
  | 
 
-Black, Orange, Yellow, ( +1 Common Pip).  
+Black, Orange, Yellow, (+1 Common Pip).  
 Red, (+1 Uncommon Pip).  
 Blue, Green, White, (+1 Rare Pip).
 
@@ -5697,7 +5695,7 @@ Found from:
 
  | 
 
-,+1 Uncommon Pip
++1 Uncommon Pip
 
  | 
 
@@ -5902,7 +5900,7 @@ Found from:
 
  | 
 
-_+3% Stealth_  
+_+3% Stealth_
 
 +2 Rare Pips
 
@@ -6036,7 +6034,7 @@ Found from:
 
  | 
 
-+1 Common Pip  
++1 Common Pip
 
 +1 Rare Pip
 
@@ -6077,12 +6075,13 @@ Sources
 
 [Akira's Ring](<Akira's_Ring.md>)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
 Gives every weapon 1.2 Willpower scaling when equipped.
 
+  
 +1 Legendary Pip
 
 **Requires Power 6**
@@ -6197,8 +6196,6 @@ Found from:
 
 Reduces the charges required to proc Crystal Explosions and Surge Overloads from 6 to 5.
 
-  
-
  | 
 
 Found from:
@@ -6210,7 +6207,7 @@ Found from:
 
 [Dawnfist's Ring](<Dawnfist's_Ring.md>)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -6270,7 +6267,7 @@ Found from:
 
 [Deepfire Ring](Deepfire_Ring.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -6329,7 +6326,7 @@ Found from:
 
 [Finisher's Ring](<Finisher's_Ring.md>)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -6365,6 +6362,7 @@ Found from:
 
 Gives the user a massive increase in swimming speed while out of combat.
 
+  
 **Requires Power 3**
 
  | 
@@ -6390,6 +6388,7 @@ Found from:
 
 Increases the range of your [Rhythm](Murmur%253A_Rhythm.md) by 50%.
 
+  
 +1 Legendary Pip
 
  | 
@@ -6405,6 +6404,7 @@ Found from:
 
  | 
 
+  
 +1 Uncommon Pip
 
  | 
@@ -6530,7 +6530,7 @@ Found from:
 
 [Maestro's Ring](<Maestro's_Ring.md>)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -6560,7 +6560,7 @@ Found from:
 
 [Moon Ring](Moon_Ring.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -6620,10 +6620,12 @@ Found from:
 
  | 
 
-Damage dealt with a Katana isn't received until the user sheathes their weapon.  
+Damage dealt with a Katana isn't received until the user sheathes their weapon.
 
-Stuns the opponent upon a successful damaging sheathe.  
-1 Rare Pip
+Stuns the opponent upon a successful damaging sheathe.
+
+  
++1 Rare Pip
 
  | 
 
@@ -6636,7 +6638,7 @@ Quest from [Zana](Zana.md)
 
 [Prophet's Ring](<Prophet's_Ring.md>)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -6792,7 +6794,7 @@ Found from:
 
 [Rosen's Ring](<Rosen's_Ring.md>)
 
-(Legendary)
+(**Legendary**)
 
  | 
 
@@ -6824,6 +6826,7 @@ Found from:
 
  | 
 
+  
 +1 Common Pip
 
  | 
@@ -6839,7 +6842,7 @@ Found from:
 
 [Waning Ring](Waning_Ring.md)
 
-(Legendary)
+(**Legendary**)
 
  | 
 

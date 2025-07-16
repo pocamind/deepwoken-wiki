@@ -1,9 +1,9 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 151359
+revid: 151477
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Expert Outfits]
+categories: [Items, Outfits, Expert Outfits]
 ---
 
 # Grand Pathfinder Cloak
@@ -47,5 +47,4 @@ This Outfit also grants the [Legendary](Talents.md#equipment-talents) Talent, gr
 -   A valid alternative to master tier armours, so long as you are sufficiently skilled to make use of the Legendary ether gain.
 -   Theoretically, the "Legendary" talent should synergise particularly well with weapons that consume ether, such as the Rosen's Hellflame on critical, or the Guiding Star on M1.
 -   **Current** grandmaster pathfinder is an outfit created by **KAHAEL**:
--   [https://www.roblox.com/catalog/9639320462/Pathfinder-Cloak-Shirt](https://www.roblox.com/catalog/9639320462/Pathfinder-Cloak-Shirt)
--   [https://www.roblox.com/catalog/9639386512/Pathfinder-Cloak-Pants](https://www.roblox.com/catalog/9639386512/Pathfinder-Cloak-Pants)
+    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/9639320462/Pathfinder-Cloak-Shirt) / [Pants](https://www.roblox.com/catalog/9639386512/Pathfinder-Cloak-Pants)

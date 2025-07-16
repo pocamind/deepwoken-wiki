@@ -1,9 +1,9 @@
 ---
 title: Authority Commander
-revid: 150457
+revid: 151506
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Master Outfits, The Central Authority]
+categories: [Items, Outfits, Master Outfits, The Central Authority]
 ---
 
 # Authority Commander
@@ -13,8 +13,8 @@ categories: [Armors, Items, Outfits, Master Outfits, The Central Authority]
 | caption | The armored robes of an Authority Commander. |
 | tier | Master |
 | crafting_req | x5 Cloth , x5 Fiber, x1 Blessed Gem, x1 Bounder Claw, x1 Dark Feather, x1 Thresher Spine, x5 Vibrant Gem |
-| price | 1000 |
-| stat_req | Power Level 15 |
+| price | 1,000 |
+| stat_req | Power 15 |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2800 |
@@ -36,9 +36,9 @@ _Not to be confused with [Authority Commander (NPC)](<Authority_Commander_(Enemy
 
 Bounder Claw, Dark Feather, Thresher Spine,
 
-This Outfit costs 1,000 and requires five (5) Cloth and Fiber, one (1) [Bounder Claw](Bounder_Claw.md), one (1) [Dark Feather](Dark_Feather.md), one (1) [Thresher Spine](Thresher_Spine.md), one (1) [Blessed Gem](Mantra_Modifiers.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md).
+This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Bounder Claw](Bounder_Claw.md), one (1) [Dark Feather](Dark_Feather.md), one (1) [Thresher Spine](Thresher_Spine.md), one (1) [Blessed Gem](Blessed_Gem.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit requires [Power Level](Talents.md) 15.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
 ### _Armor Stats_
 
@@ -48,17 +48,9 @@ The Outfit has 2800 durability, grants 30% Elemental Armor, +30% Physical Armor,
 
 The [Riot Breaker](Talents.md#equipment-talents) Talent makes it so that you receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Layer 2](Second_Layer.md)
--   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
-
 ## Trivia/Notes
 
--   The Talent [Riot Breaker](Talents.md#equipment-talents) (You receive 15% less Posture damage and deal 10% more Posture) is exclusive to the Outfit. This Talent is somewhat similar to [Ardour](Murmur%253A_Ardour.md).
-    -   On release, the Talent had no limit and gave a flat reduction to posture damage taken for each enemies, eventually becoming negative and restoring posture with each hit taken.
+-   On release, the Talent had no limit and gave a flat reduction to posture damage taken for each enemies, eventually becoming negative and restoring posture with each hit taken.
 -   This is a good outfit for resisting blunt damage. Paired with the Talent, this armor is very strong for tank builds.
 -   The other two outfits of similar origin are the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) and the [Authority Captain Uniform](Authority_Captain_Uniform.md).
 -   This outfit is worn by the [Authority Commander](<Authority_Commander_(Enemy).md>).

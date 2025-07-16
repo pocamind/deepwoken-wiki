@@ -1,22 +1,41 @@
 ---
 title: "Jester's Garb"
-revid: 151154
+revid: 151527
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits, Unique Outfits, World Event]
+categories: [Items, Outfits, Unique Outfits, World Event]
 ---
 
 # Jester's Garb
 
-Template:ArmorInfobox **Jester's Garb** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
+| Jester's Garb | |
+|---|---|
+| caption | A lovely three-piece suit reminiscent of opulence, yet suggestions of prankish intention linger, woven within the argyle. At least if you make a fool of yourself, you're dressed for the part! |
+| tier | Unique |
+| crafting_req | x7 Cloth, x5 Fiber, x10 VIbrant Gem |
+| price | 400 |
+| stat_req | Power 12 |
+| bankable | Yes |
+| droppable | No |
+| durability | 2500 |
+| resistances | +20% Physical Armor, +15% Blunt Armor, +35% Elemental Armor |
+| buffs | +50% Ether Regen |
+| talents | Mocking Favor |
+| obtainment | Carnival of Hearts |
+| selling_price | 10 |
+| weight | 1 |
+
+**Jester's Garb** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs and requires seven (7) Cloth, five (5) Fiber, and ten (10) [Vibrant Gems](Mantra_Modifiers.md).
+This Outfit costs 400 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and ten (10) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit requires [Power Level](Talents.md) 12.
+This Outfit additionally requires the player to be at least [Power](Power.md) 12 to be crafted.
+
+This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
@@ -24,7 +43,7 @@ This Outfit has 2500 durability and grants +20% Physical resistance, +15% Blunt 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32% Blunt, 20% Slash, and 35% Elemental.
 
-This Outfit also grants the [Talent](Talents.md#equipment-talents) Mocking Favor, causing Tillian to appear when you taunt (spit). He'll do an emote and apply a random buff or affliction. This talent has a 30 second cooldown.
+This Outfit also grants the [Mocking Favor](Talents.md#equipment-talents) Talent, causing Tillian to appear when you taunt (spit) or emote. He'll do an emote, say a quip, and apply a random buff or affliction. This Talent has a 30 second cooldown.
 
 List of buffs being:
 
@@ -43,14 +62,8 @@ List of afflictions being:
 -   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s. Indicated by black cross marks coming off your body. \[Zip it, focus on the fight!\]
 -   Lowers your Swingspeed. Indicated by black cross marks coming off of your body. \[Hah! How embarrassing!\]
 
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Carnival of Hearts](Carnival_of_Hearts.md)
-
 ## Trivia
 
 -   Worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
--   This outfit shares identical stats with [Aelita's](Aelita.md) brother [Tillian's](Tillian.md) outfit: "the [Trickster's Habit](<Trickster's_Habit.md>)."
+-   This Outfit shares identical stats with [Trickster's Habit](<Trickster's_Habit.md>), the outfit worn by [Tillian](Tillian.md).
 -   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.
