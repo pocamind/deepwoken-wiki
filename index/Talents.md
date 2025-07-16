@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 151092
+revid: 151164
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1943,7 +1943,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   Because of there being so few sources of burn application with Eruption path, using Talents that require burn, especially Emperor Flame, with this path is not recommended. Those Talents all still function normally though of course.
         -   Eruptions have 15 base DMG and 5 Scaling. Formula to calculate scaled DMG: "15 \* (1 + (5/10) \* (Flamecharm invest/ 100))"
     -   Prerequisite: 40 Flamecharm
-    -   Mutual Exclusive: The Final Act, Wraith Path: Twisted Puppets
+    -   Mutual Exclusive: Flashboil, The Final Act, Wraith Path: Twisted Puppets
 
 -   Empowered Eruption \[Common Talent, Flamecharm & Eruption Exclusive\] - Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.
     -   Prerequisites: Eruption Path: Lava Serpent, 50 Flamecharm
@@ -2845,7 +2845,7 @@ _**"My cure is most effective."**_
 > _**"My shield is my ally."**_
 
 -   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Sanity)
-    -   When holding a shield, reduce time in "weak block" after getting hit.
+    -   When holding out a shield (One-Handed Stance), being hit will inflict ~10% less "shaky block", allowing the user to escape combos much easier with their block.
         -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
@@ -3619,13 +3619,14 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Steam clouds are unparryable, unblockable, and bypass armor resistances.
     -   Steam clouds last 10 seconds and have an internal proc cooldown **per target** of 10 seconds.
     -   This Talent is incredibly good for PvE in high mob density areas like [The Diluvian Mechanism](The_Diluvian_Mechanism.md) because of the AoE nature and long duration per cloud. Additionally, you can create a large amount of steam clouds at the same time by hitting multiple mobs at once.
-    -   This can be used with Eruption path, however because it's procced easiest with burn, it is not recommended to have said path with this Talent.
     -   Prerequisites: 30 Flamecharm, 30 Frostdraw
-    -   Mutual Exclusives: Glass Path: Crystallization, Wraith Path: Twisted Puppets
-        -   The mutual exclusive with Crystal and Twisted Puppets paths seems to be a bit buggy though, as Crystal/Puppets paths locks out Flashboil, but not the other way around. (Obtain Flashboil **before** you obtain the Crystal/Twisted Path(s) to have both.)
+    -   Mutual Exclusives: Eruption Path: Lava Serpent, Glass Path: Crystallization, Wraith Path: Twisted Puppets
 
 -   Boiling Point \[Common Talent, Dual Attunement\] - Using a fire mantra near your own steam cloud detonates it.
-    -   Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.
+    -   Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 damage in an AoE.
+    -   Because this procs when the steam cloud is hit and not the player, even if your opponent parries your Mantra, it will still detonate your steam.
+    -   Has a short delay which can throw players off.
+    -   Generally this Talent is not worth taking, as the steam itself will out damage it, and having a stage hazard can be quite useful.
     -   The detonation is unparryable, unblockable, and bypasses armor resistances.
     -   Prerequisites: Flashboil
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 151079
+revid: 151160
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -372,7 +372,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Void<div></div></font></center></td>
+  <font>Curse of Void<div></div></font></center></td>
   <td><div><p>On weapon attack, apply the Void status effect. This effect has no visual indicator and lasts 15 seconds.</p>
   <p>For the duration of the status effect, the target is under an Anti-Heal effect. Additionally, if they die while affected by Void, they will instantly drown and be sent to <a href="The_Depths.md">The Depths</a>.</p>
   <p>Permanently stained health bar while the enchant is equipped.</p>

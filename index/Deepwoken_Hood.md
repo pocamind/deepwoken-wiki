@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 148677
+revid: 151163
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -24,11 +24,9 @@ categories: [Equipment, Head, Hoods]
 | obtainment | Chests from:, Fort Merit, First Layer, Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Lodestar, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, War Mode, Miner's Landing, Saramaed Hollow |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Deepwoken Hood
 
-A Deepwoken Hood is an accessory under the "_Head_" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), and [The Depths](The_Depths.md).
+A Deepwoken Hood is an [equipment](Equipment.md) under the "_Head_" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), and [The Depths](The_Depths.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 150233
+revid: 151192
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -16,9 +16,9 @@ Template:ArmorInfobox
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth, five (5) Fiber, and one (1) [Rock](Ores.md).
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Ores.md).
 
-This Outfit requires [Power Level](Talents.md) 15.
+This Outfit requires [Power](Power.md) 5.
 
 ### _Armor Stats_
 
@@ -26,7 +26,7 @@ This Outfit has 1300 durability and grants +15% Physical Armor, 10% Slash Armor,
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash, 15% Blunt, and 25% Flamecharm.
 
-This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which lets you draw your weapon silently and move faster + roll further while crouching.
+This Outfit also grants the [Talent Card](Talents.md#assassin) _Lowstride_, granting increased [Stealth](Stealth.md), faster movement, and increased roll distance while crouching. This Talent also allows you to sheathe and unsheathe your weapon silently.
 
 ## Location
 
@@ -40,4 +40,4 @@ This Outfit's Schematic is obtainable from:
 
 -   This outfit is based on Rogue Lineage's [Wraith Knight's](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor, the [Wraith Knight](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor.
 -   This outfit is not droppable.
--   This outfit was bugged, attempting to use it at a Blacksmith would result in the schematic being deleted from the player's inventory. It is now fixed in servers of game version pv\_NOV\_09\_00:34s and above.
+-   This outfit was bugged on release, voiding itself if you attempted to learn the schematic. This was fixed shortly after the item's addition.

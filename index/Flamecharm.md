@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 151108
+revid: 151172
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1851,6 +1851,45 @@ Burning Sacrifice is an active ability in the form of a Talent tool. On use, you
 Puppets turn purple if they've been alive for 15 seconds, signifying that they only have 10 seconds left to live.
 
  |
+
+**Vaporborne:**
+
+These Talents are found in the _Vaporborne_ category.  
+_**"I seek the qualities of Vaporborne."**_
+
+| Media | Talent | Card Description | Effects |
+| --- | --- | --- | --- |
+|  | 
+Flashboil  
+(30 Flamecharm, 30 Frostdraw)
+
+ | 
+
+Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
+
+ | 
+
+Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.
+
+Steam clouds deal 2 damage per tick, in an AoE, at a rate similar to burn's, and are unparryable, unblockable, and bypass armor resistances. Steam clouds last 10 seconds and have an internal proc cooldown per target of 10 seconds.
+
+ |
+|  | 
+
+Boiling Point  
+(Flashboil)
+
+ | 
+
+Using a fire mantra near your own steam cloud detonates it
+
+ | 
+
+Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 damage in an AoE.
+
+ |
+
+  
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator
-revid: 121233
+revid: 151187
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items, Exclusive Outfits, The Hive]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Hive Adjudicator** is a Master [Outfit](Outfits.md) in _D
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber and one (1) Rock.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md) and [Fiber](Fiber.md) and one (1) [Iron](Ores.md).
 
 This Outfit requires [Power Level](Talents.md) 15.
 
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 This Outfit has 1000 durability and grants +25% Physical resistance and +25% Elemental resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases your stealth, speed while crouching, and silences your weapon sheath and unsheath.
+This Outfit also grants the [Talent Card](Talents.md#assassin) _Lowstride_, which increases your [Stealth](Stealth.md), speed while crouching, and silences your weapon sheath and unsheathe.
 
 ## Location
 

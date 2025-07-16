@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 149333
+revid: 151154
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Unique Outfits, World Event]
@@ -28,20 +28,20 @@ This Outfit also grants the [Talent](Talents.md#equipment-talents) Mocking Favor
 
 List of buffs being:
 
--   [Visionshaper](Oath%253A_Visionshaper.md) invisibility from the Cheap Trick Talent for a short duration.
--   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Attunement-less.md#reinforce)'s vfx.
--   30% Posture restoration. Indicated by a metal clanging sound effect.
--   A free reroll, granting you an additional buff or affliction.
--   One 0 cost Mantra, this affects your allies as well. Indicated by a dark blue [Reinforce](Attunement-less.md#reinforce)\-like vfx.
--   A percentage of the damage you've taken recently will be turned into healing.
+-   [Visionshaper](Oath%253A_Visionshaper.md) invisibility from the Cheap Trick Talent for a short duration. \[Hey, where’d you go?!\]
+-   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Attunement-less.md#reinforce)'s vfx. \[Don't worry - It's on the house!\]
+-   30% Posture restoration. Indicated by a metal clanging sound effect. \[Quick, they're weak!\]
+-   A free reroll, granting you an additional buff or affliction. \[Bravo, bravo!\]
+-   One 0 cost Mantra, this affects your allies as well. Indicated by a dark blue [Reinforce](Attunement-less.md#reinforce)\-like vfx. \[Hah! How embarrassing!\]
+-   A percentage of the damage you've taken recently will be turned into healing. \[Wanted to give ya a quick breather!\]
 -   Vent cooldown reset, allowing you to Vent again.
 
 List of afflictions being:
 
--   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s.
--   Suffocation applied to self for a few seconds.
+-   Suffocation applied to self for a few seconds. \[Down on your luck, huh.\]
     -   If you have Haunted Path: Specter it will instead spawn an apparition and apply winded.
--   Lowers your Swingspeed. Indicated by black 'x' marks coming off of your body.
+-   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s. Indicated by black cross marks coming off your body. \[Zip it, focus on the fight!\]
+-   Lowers your Swingspeed. Indicated by black cross marks coming off of your body. \[Hah! How embarrassing!\]
 
 ## Location
 
@@ -53,3 +53,4 @@ This Outfit's Schematic can be found in:
 
 -   Worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
 -   This outfit shares identical stats with [Aelita's](Aelita.md) brother [Tillian's](Tillian.md) outfit: "the [Trickster's Habit](<Trickster's_Habit.md>)."
+-   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.

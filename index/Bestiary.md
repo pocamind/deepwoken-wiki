@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 151037
+revid: 151135
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -61,7 +61,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 </tr>
 <tr>
   <td><a href="Brainsucker.md">Brainsucker</a></td>
-  <td>Brainsucker Slayer I/II/III
+  <td>Beakbuster/II/III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Brainsucker.md">Brainsuckers</a></li>
   </ul></td>
@@ -83,7 +83,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 </tr>
 <tr>
   <td><a href="Deep_Owl.md">Deep Owl</a></td>
-  <td>Deep Owl Slayer I/II/III
+  <td>Curious Killers/II/III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Deep_Owl.md">Deep Owls</a> or <a href="Parliament.md">Parliaments</a></li>
   </ul></td>
@@ -105,7 +105,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 </tr>
 <tr>
   <td><a href="Enforcer.md">Enforcer</a></td>
-  <td>Enforcer Slayer I/II/III
+  <td>Detestable Detainer/II/III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Enforcer.md">Enforcers</a> or <a href="Enforcer.md">Servants of Enmity</a></li>
   </ul></td>
@@ -116,7 +116,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 </tr>
 <tr>
   <td><a href="Gigamed.md">Gigamed</a></td>
-  <td>Gigamed Slayer I/II/III
+  <td>Nefarious Cnidarian/II/III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Gigamed.md">Gigameds</a> or <a href="King_Gigamed.md">King Gigameds</a></li>
   </ul></td>
@@ -127,7 +127,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 </tr>
 <tr>
   <td><a href="Kyrsgarde.md">Kyrsgarde</a></td>
-  <td>Kyrsgarde Slayer I/II/III
+  <td>Guardians of Kyrsa/II/III
   <ul>
     <li>Slay 10, 25, and 100 Kyrsgarde of any <a href="Kyrsgarde_(disambiguation).md">variant</a></li>
   </ul></td>
@@ -205,7 +205,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 </tr>
 <tr>
   <td><a href="Stone_Knight.md">Stone Knight</a></td>
-  <td>Stone Knight Slayer I/II/III
+  <td>Granite Gallantry/II/III
   <ul>
     <li>Slay 10, 25, and 100 Stone Knights of any variant (<a href="Stone_Knight.md">Stone Knight</a>, <a href="Stone_Knight.md#blizzard-knight">Blizzard Knight</a>, <a href="Star_Knight.md">Star Knight</a>, <a href="Moon_Knight.md">Moon Knight</a>)</li>
   </ul></td>
@@ -216,7 +216,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 </tr>
 <tr>
   <td><a href="Rock_Golem.md">Stonelife Golem</a></td>
-  <td>Stonelife Golem Slayer I/II/III
+  <td>Pebbleslayer, Boulderslayer, Mountainslayer
   <ul>
     <li>Slay 10, 25, and 100 <a href="Rock_Golem.md">Rock Golems</a>, <a href="Golem_Prime.md">Golem Primes</a>, or <a href="Stonespark.md">Stonesparks</a></li>
   </ul></td>
@@ -249,7 +249,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 </tr>
 <tr>
   <td><a href="Thresher.md">Thresher</a></td>
-  <td>Thresher Slayer I/II/III
+  <td>Reptilian Rumble/II/III
   <ul>
     <li>Slay 10, 25, and 100 Threshers of any variant (<a href="Thresher.md">Thresher</a>, <a href="King_Thresher.md">King Thresher</a>, <a href="Thresher.md">Void Thresher</a>, <a href="Nightmare_Thresher.md">Nightmare Thresher</a>)</li>
   </ul></td>

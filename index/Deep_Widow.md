@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 149231
+revid: 151132
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -83,7 +83,7 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 ## **Tips/Trivia**
 
 -   It is recommended for inexperienced or ill-equipped players to fight the Widow as a group, and flank her on opposite sides. All of her attacks come from the front and setting up this way will avoid all of the players in your group being hit at once.
--   Despite looking intimidating, she is a lot weaker than she looks, having the same health as a [Mudskipper Broodlord](Mudskipper_Broodlord.md) without its sheer mobility or damage. She still isn't a joke, though.
+-   Despite looking intimidating, she is a lot weaker than she looks, having a little more health than a [Mudskipper Broodlord](Mudskipper_Broodlord.md) without its sheer mobility or damage. She still isn't a joke, though.
     -   Try to only hit her twice with heavy weapons or thrice with others. Getting greedy and being bitten as a result will hurt.
     -   The poison dealt by the Widow's Bite attack is a worst-case scenario, and is vital to avoid due to its percentage damage and armor pierce.
     -   You can identify combos by their slower charging and faster swiping.

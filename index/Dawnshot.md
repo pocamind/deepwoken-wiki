@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 151078
+revid: 151181
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Alloyed Weapons, Offhand Guns, Light Weapons]
@@ -12,15 +12,15 @@ categories: [Weapons, Pistols, Alloyed Weapons, Offhand Guns, Light Weapons]
 |---|---|
 | alloyed name | Alloyed Dawnshot |
 | type | Pistol |
-| requirements | 40 LHT 75 LHT |
-| damage | 14 16 |
+| requirements | 40 LHT / 75 LHT |
+| damage | 14 / 16 |
 | scaling | LHT: 12 |
 | range | 10.5 |
 | swing speed | 1.17x |
 | stances | 1 Handed |
 | offhand | Yes |
 | selling price | 25 |
-| weight | 1 2.5 |
+| weight | 1 / 2.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

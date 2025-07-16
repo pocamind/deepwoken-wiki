@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 148777
+revid: 151189
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Ignition Union]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Ignition Trailblazer** is an Expert [Outfit](Outfits.md) 
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, two (2) Megalodaunt Hides and one (1) Rock.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md) and [Fiber](Fiber.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and one (1) [Iron](Ores.md).
 
 This Outfit requires [Power Level](Power.md) 10.
 
@@ -24,7 +24,7 @@ This Outfit has 1000 durability and grants +25% Physical Resistance, +25% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt, 25% Slash, 28.75% Flamecharm, and 25% Elemental.
 
-This Outfit also grants the [Talent Cards](Talents.md) _Perseverance_ and _Strong Stern_
+This Outfit also grants the _Perseverance_ and _Strong Stern_ [Talents](Talents.md). Perseverance lowers your time knocked by 25%, Strong Stern halves the duration of [Dazed](Status_Effects.md#dazed) from being wall-banged.
 
 ## Location
 
@@ -41,4 +41,4 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   One of the cheapest Expert armors to make.
--   it has the exact same crafting recipes as a few other expert armors, such as [Journeyman Diver](Diver_Journeyman_Robes.md) and [Hive Drone](Hive_Drone.md).
+-   It has the exact same crafting recipe as a few other expert armors, such as [Diver Journeyman Robes](Diver_Journeyman_Robes.md) and [Hive Drone](Hive_Drone.md).

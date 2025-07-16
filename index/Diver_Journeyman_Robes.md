@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 148764
+revid: 151185
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Divers]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Diver Journeyman Robes** is an Expert [Outfit](Outfits.md
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth, five (5) Fiber, two (2) Megalodaunt Hide and one (1) Rock.
+This Outfit costs and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Megalodaunt Hide](Megalodaunt_Hide.md) and one (1) [Iron](Ores.md).
 
 This Outfit requires [Power Level](Power.md) 10
 
@@ -24,7 +24,7 @@ This outfit has 1000 durability and grants +20% Physical resistance, +10% Blunt 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt, 20% Slash, and 30% Elemental.
 
-This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases [Stealth](Stealth.md) and allows you to unsheathe your weapon silently.
+This Outfit also grants the [Talent Card](Talents.md#assassin) _Lowstride_, which increases [Stealth](Stealth.md) and allows you to unsheathe your weapon silently.
 
 ## Trivia/Notes
 

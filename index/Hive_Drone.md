@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 148765
+revid: 151149
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits, Expert Outfits, The Hive]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Hive Drone** is an Expert [Outfit](Outfits.md) in _Deepwo
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, two (2) Megalodaunt Hides and one (1) Rock.
+This Outfit costs and requires five (5) Cloth and Fiber, two (2) Megalodaunt Hides and one (1) Iron.
 
 This Outfit requires [Power Level](Power.md) 10.
 

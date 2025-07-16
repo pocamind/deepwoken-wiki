@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Sorcerer
-revid: 148767
+revid: 151197
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Pathfinder Sorcerer** is a Starter [Outfit](Outfits.md) i
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, and one (1) Rock.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md) and [Fiber](Fiber.md), and one (1) [Iron](Ores.md).
 
 This Outfit requires 5 [Intelligence](Attributes.md).
 
@@ -29,7 +29,7 @@ The [Lowstride](Talents.md#assassin) talent increases your [Stealth](Stealth.md)
 This Outfit's Schematic can be obtained from:
 
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
--   Sold by [Traan Zakshun](Traan_Zakshun.md) at [Lower Erisia](Lower_Erisia.md) for
+-   Sold by [Traan Zakshun](Traan_Zakshun.md) at [Lower Erisia](Lower_Erisia.md) for 200
 -   [The Depths](The_Depths.md)
 -   [Fishing](Fishing.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -37,5 +37,4 @@ This Outfit's Schematic can be obtained from:
 ## Trivia/Notes
 
 -   Statwise is very lacking compared to others of the same level
--   The Pathfinder Sorcerer is a recolored version of the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md)
--   The Pathfinder Sorcerer is an inferior version of the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md)
+-   The Pathfinder Sorcerer is a recolored and statistically inferior version of the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md).
