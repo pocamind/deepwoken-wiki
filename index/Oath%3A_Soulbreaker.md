@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 150102
+revid: 152048
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -40,7 +40,7 @@ There are two methods from here:
 
 -   Have High Ally reputation with [Etrea](Etrea.md).
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god.
--   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the King's Ardour.
+-   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the King's Ardour (1 > 1) (3 > 1 > 1 > 2 > 1 > 1).
 -   Have a [Resonance](Resonance.md).
 -   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 
@@ -89,7 +89,7 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
         -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey.
         -   Ardour's keybind can be configured in settings, changing the key you'll need to hold in order to activate Ardour Scream (default H).
         -   Has a unique visual and sound effect compared to base Ardour Scream.
-        -   Takes 100% Ether to be used, therefore deactivating Ardour.
+        -   It can be used even if you don't have 100% Ether (only if you have Soulbreaker Oath), therefore deactivating Ardour.
         -   Instead of debuffing affected players and making them take 25% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream is affected by the damage modifier cap.
         -   Doesn't apply insanity.
         -   Will also combat tag anybody hit.

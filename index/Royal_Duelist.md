@@ -1,6 +1,6 @@
 ---
 title: Royal Duelist
-revid: 131032
+revid: 152012
 source: https://deepwoken.fandom.com/wiki/Royal_Duelist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Minityrsa, Songseeker Wilds |
-| description | "..." |
+| description | ... |
 
 ## Description
 

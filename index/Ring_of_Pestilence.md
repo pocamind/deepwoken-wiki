@@ -1,6 +1,6 @@
 ---
 title: Ring of Pestilence
-revid: 147982
+revid: 152023
 source: https://deepwoken.fandom.com/wiki/Ring_of_Pestilence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -22,7 +22,7 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:, Etrea VS Eylis Sea Event, Primadon, Titan of the East, First Layer, Duke Ishamon Erisia, Lodestar, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, War Mode |
-| description | "Your weapon applies 50% anti-heal for 5s." |
+| description | Your weapon applies 50% anti-heal for 5s. |
 
 ## Description
 

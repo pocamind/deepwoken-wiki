@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Scarf
-revid: 150795
+revid: 151998
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Scarves]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Torso, Scarves]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Miner's Landing, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Chaser, Scholar of the Crimson Contract |
-| description | "..." |
+| description | ... |
 
 ## Description
 

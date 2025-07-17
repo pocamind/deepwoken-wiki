@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 148283
+revid: 151992
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -244,7 +244,7 @@ This list may be missing items, please help us by filling in the gaps.
     <li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: N/A</li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Lightkeeper's_Medallion.md"><font>Lightkeeper's Medallion</font></a>, <a href="Whistling_Periapt.md"><font>Whistling Periapt</font></a>.</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Whistling_Periapt.md">Whistling Periapt</a>.</li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: N/A</li>
     <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: N/A</li>
     <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:

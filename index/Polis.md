@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 151205
+revid: 152052
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies, Etrea, Quests, Weapons, NPCs located in the Etrean Luminant]
@@ -174,13 +174,12 @@ Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his
 -   Impervious Slumber - Polis' knock timer cannot be reset.
 -   Moving Fortress - Polis isn't slowed as much while blocking.
 -   Battle Tendency - Polis restores posture +20% faster.
--   Reinforced Armor - Polis resists PENetration by 60%.
+-   Reinforced Armor - Polis resists Armor PEN by 30%.
 -   Matador - Polis deals +20% more damage against human enemies with hyperarmor.
 -   Brutal Momentum - Polis gains hyperarmor on his next swing if he dodges an attack.
 -   Showstopper - Polis stomps the ground if an enemy tries to dodge his attacks, dazing them.
 -   Warrior's Swing - Polis takes less damage if hit during the hyperarmor of his melee attacks.
 -   Destructive Recovery - Enemies who parry Polis recover much less posture.
--   Harsh Response - Enemies who parry Polis recover less posture.
 -   Heavy Hitter - Polis deals +10% posture damage.
 -   Punishing Blow - If Polis hits an enemy while they are swinging their weapon, they are dazed.
 -   Hard Read - If Polis hits a feinting enemy, they are dazed.

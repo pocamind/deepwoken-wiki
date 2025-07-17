@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 150752
+revid: 152002
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons, Items]
@@ -19,13 +19,14 @@ categories: [Weapons, Clubs, Medium Weapons, Items]
 | penetration | 10% |
 | chip damage | 5% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 50 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Songseeker Wilds, Starswept Valley, Rogue Construct Chests, Merchant Ships, Saramaed Hollow |
-| description | "..." |
+| description | ... |
 
 ## Description
 

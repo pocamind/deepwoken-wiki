@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 151597
+revid: 152035
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -19,13 +19,14 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 | penetration | 25% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 25 |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Stone Knight |
-| description | "..." |
+| description | ... |
 
 ## Description
 

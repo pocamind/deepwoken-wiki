@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 146614
+revid: 152042
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons, Ingredients]
@@ -19,13 +19,14 @@ categories: [Weapons, Swords, Medium Weapons, Ingredients]
 | penetration | 25% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 25 |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Songseeker Wilds (Chests), Minityrsa (Chests), Starswept Valley (Chests), Artifact Turn-Ins, Terrapod (Crimson Drop), The Depths, Lodestar, Chime of Conflict, Crypt of the Unbroken, War Mode, Dread Serpent |
-| description | "A serrated cutlass fashioned after the famously brutal bite of a Lionfish." |
+| description | A serrated cutlass fashioned after the famously brutal bite of a Lionfish. |
 
 ## Description
 

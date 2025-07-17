@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 149132
+revid: 152055
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Ignition Union, Ignition Union Enemies]
@@ -38,7 +38,6 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 ### Talents
 
 -   Brutal Momentum - Successfully dodging will give your next swing hyperarmor.
--   Harsh Response - Enemies receive less posture back when parrying your attacks.
 -   Destructive Recovery - Causes your enemies to regenerate significantly less posture when they parry you.
 
 ## Finisher

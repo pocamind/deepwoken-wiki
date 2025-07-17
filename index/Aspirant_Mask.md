@@ -1,6 +1,6 @@
 ---
 title: Aspirant Mask
-revid: 144455
+revid: 152010
 source: https://deepwoken.fandom.com/wiki/Aspirant_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Masks]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Deep Widow, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity (Blue), Dread Serpent (Red), The Doom of Caeranthil, Lodestar (Red), First Layer, Songseeker Flamecharmer (Red), Chaser, Scholar of the Crimson Contract (Red), Songseeker Frostdrawer (Blue), Songseeker Thundercaller (Green) |
-| description | "..." |
+| description | ... |
 
 ## Description
 

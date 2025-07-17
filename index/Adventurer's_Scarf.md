@@ -1,6 +1,6 @@
 ---
 title: "Adventurer's Scarf"
-revid: 144029
+revid: 151994
 source: https://deepwoken.fandom.com/wiki/Adventurer's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Scarves]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Torso, Scarves]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Aratel Island, Starswept Valley, Aelita (Black), The Ferryman (Only in Winter) (Black) |
-| description | "..." |
+| description | ... |
 
 ## Description
 
@@ -42,49 +42,49 @@ Scarves are an [Equipment](Equipment.md) item under the "Torso" category. They c
   <td>Adventurer's</td>
   <td>Rare</td>
   <td>3% Wind Armor</td>
-  <td></td>
+  <td>25</td>
 </tr>
 <tr>
   <td>Black</td>
   <td>Uncommon</td>
   <td>3% Shadow Armor</td>
-  <td></td>
+  <td>25</td>
 </tr>
 <tr>
   <td>Crimson</td>
   <td>Common</td>
   <td>3% Fire Armor</td>
-  <td></td>
+  <td>7</td>
 </tr>
 <tr>
   <td>Dawn</td>
   <td>Rare</td>
   <td>3% Shadow Armor</td>
-  <td></td>
+  <td>25</td>
 </tr>
 <tr>
   <td>Desert</td>
   <td>Uncommon</td>
   <td>3% Fire Armor</td>
-  <td></td>
+  <td>14</td>
 </tr>
 <tr>
   <td>Forest</td>
   <td>Rare</td>
   <td>3% Lightning Armor</td>
-  <td></td>
+  <td>25</td>
 </tr>
 <tr>
   <td>Tundra</td>
   <td>Uncommon</td>
   <td>3% Ice Armor</td>
-  <td></td>
+  <td>14</td>
 </tr>
 <tr>
   <td>White</td>
   <td>Uncommon</td>
   <td>3% Shadow Armor</td>
-  <td></td>
+  <td>14</td>
 </tr>
 </tbody>
 </table>

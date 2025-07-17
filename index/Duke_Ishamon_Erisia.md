@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 149386
+revid: 152057
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -201,7 +201,6 @@ Dodgeable:◯
 -   Breathing Impact - When knocked into objects by wind mantras you will take additional blunt damage based off of how hard you are hit.
 -   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage dealt to you again. If an attack was a mantra, it does 5% damage instead.
 -   Suffocating Impact - When flourished into walls by Duke Erisia, you are suffocated and winded for a short duration.
--   Gale Coil - Duke Erisia's suffocates last twice as long.
 -   Stifled Jump - Those who jump while suffocated by Duke Erisia will be dazed.
 -   Air Pressure - When Duke Erisia dodges an attack or hits your block his next dash will be a Gale Dash.
 -   Pressure Break - When Duke Erisia breaks your posture, you will take intense wind pressure damage and be flung backwards.

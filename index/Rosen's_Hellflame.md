@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 146968
+revid: 152017
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -17,13 +17,14 @@ categories: [Weapons, Rifle, "Attunement-based Weapons", Legendary Weapons, Weap
 | range | 7 |
 | swing speed | 0.93x |
 | stances | 2 Handed |
+| selling price | 100 |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Diluvian Mechanism, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest (very rare), Saramaed Hollow, Scion of Ethiron, Hell Mode |
-| description | "The sources of inspiration and insight utilized by Rosen on his journeys becomes clearer in some of his one-off pieces. Capable of unleashing a torrent of scorching flames at will, the Hellflame is no exception. There was a time when Rosen never left his workshop, fevered as he was by a fell drive to draw out the knowledge he had gained in its entirety, like a sinner in a confessional." |
+| description | The sources of inspiration and insight utilized by Rosen on his journeys becomes clearer in some of his one-off pieces. Capable of unleashing a torrent of scorching flames at will, the Hellflame is no exception. There was a time when Rosen never left his workshop, fevered as he was by a fell drive to draw out the knowledge he had gained in its entirety, like a sinner in a confessional. |
 
 ## Description
 

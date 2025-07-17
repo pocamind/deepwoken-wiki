@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Boots"
-revid: 144436
+revid: 152045
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Songseeker Wilds, Arena, Lodestar, Maestro Evengarde Rest, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

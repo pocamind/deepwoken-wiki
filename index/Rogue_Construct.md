@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 149185
+revid: 152018
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

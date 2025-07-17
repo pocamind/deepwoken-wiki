@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 149269
+revid: 152056
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs, NPCs located in the Etrean Luminant]
@@ -33,7 +33,6 @@ Friid's arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) 
 -   _Impervious Slumber_ - If Friid gets hit while knocked, her knocked timer isn't reset.
 -   _Gale Trap_ - If Friid knocks an enemy she tags them with a wind trap, anyone picking up the body gets sent flying.
 -   _Suffocating Impact_ - If Friid flourishes an enemy into a wall they are 'Suffocated' and winded for a short duration.
--   _Gale Coil_ - Friid's 'Suffocate' lasts twice as long.
 -   _Stifled Jump_ - Enemies who jump while 'Suffocated' by Friid are dazed.
 -   _Air Pressure_ - If Friid dodges an attack or hits an enemy's block, her next dash is transformed into a Gale Dash.
 -   _Silencer's Edge_ - (got merged with silencer's blade)

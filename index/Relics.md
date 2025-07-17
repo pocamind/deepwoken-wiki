@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 151678
+revid: 152034
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -451,7 +451,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
   </ul></td>
   <td>
   <ul>
-    <li>Exchange with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
+    <li>Exchange 5 with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
     <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
     <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
@@ -484,8 +484,8 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
   </ul></td>
   <td>
   <ul>
-    <li>Exchange with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
-    <li>Exchange with <a href="Laplace.md">Laplace</a></li>
+    <li>Exchange 5 with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
+    <li>Exchange 5 with <a href="Laplace.md">Laplace</a></li>
     <li><a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a></li>
     <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
     <li><a href="War_Mode.md">War Mode</a></li>

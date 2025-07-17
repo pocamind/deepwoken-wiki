@@ -1,6 +1,6 @@
 ---
 title: Salamander
-revid: 110430
+revid: 151999
 source: https://deepwoken.fandom.com/wiki/Salamander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]

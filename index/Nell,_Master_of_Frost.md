@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 149595
+revid: 152064
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Spelltrainers, Oaths, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant]
@@ -95,13 +95,10 @@ Ice Smash
 -   _Frozen Legs_ - Nell's Chill effect prevents rolling.
 -   _Saint Jay_ - If a Chilled enemy receives a heal it's then redirected to Nell instead. While this is active and they're on ice, Nell's healing is increased.
 -   _Frostbite_ - Enemies no longer heal under Chill effect.
--   _Fragile Freeze_ - Getting blockbroken by any of Nell's weapon attacks will apply Frozen on you.
+-   _Fragile Freeze_ - Getting blockbroken by Nell's Light Attack or Critical while being Chilled will apply Frozen to you
 -   _Chilling Flourish_ - If Nell flourishes an enemy, they leave behind a trail of ice.
 -   _Cool Head_ - If Nell is inflicted with Burn while standing on ice, she will immediately put it out and gain immunity against Burn for a set amount of time.
--   _Cryostasis_ - If Nell gets block broken, Nell Freezes herself negating the damage of the next attack.
--   _Rude Awakening_ - If Nell gets hit in Cryostasis, she will deal frost damage to the enemy who hit her.
 -   _Cold Front_ - Nell's vents inflicts Chilled.
--   _Glacial Ice_ - Nell's Elemental intensity is higher.
 -   _Orbital Ice_ - Whenever Nell parries while standing on ice, she gains breakable armor that gives 15% damage resistance.
 -   _Bottom Freeze_ - If Nell hits a Chilled enemy with projectile while they are on ice, Freeze them to the ground.
 

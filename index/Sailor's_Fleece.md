@@ -1,6 +1,6 @@
 ---
 title: "Sailor's Fleece"
-revid: 150687
+revid: 152000
 source: https://deepwoken.fandom.com/wiki/Sailor's_Fleece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -21,8 +21,8 @@ categories: [Items, Equipment, Arms]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Voidsea events, Sold in Traan Zakshun's regular shop for, Handing in Artifacts, Elder Primadon (Chests), Erisia (Chests) |
-| description | "A thick woolen fleece, somewhat scratchy in texture, commonly work by sailors in the East. When the Suncross falls into the voidfog the seas of Lumen get surprisingly chilly." |
+| obtainment | Voidsea events, Sold in Traan Zakshun's regular shop for 100 , Handing in Artifacts, Elder Primadon (Chests), Erisia (Chests) |
+| description | A thick woolen fleece, somewhat scratchy in texture, commonly work by sailors in the East. When the Suncross falls into the voidfog the seas of Lumen get surprisingly chilly. |
 
 ## Description
 
@@ -30,4 +30,4 @@ The **Sailor's Fleece** are a common piece of equipment that can be obtained in 
 
 ## Trivia
 
--   Sailor's Fleece currently is the only sellable item to be sold for.
+-   Sailor's Fleece currently is the only sellable item to be sold for 0.

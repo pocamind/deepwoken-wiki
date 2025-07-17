@@ -1,6 +1,6 @@
 ---
 title: Ruby Pendant Earrings
-revid: 144465
+revid: 152005
 source: https://deepwoken.fandom.com/wiki/Ruby_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -15,14 +15,12 @@ categories: [Equipment, Ears]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | +1 Common Pip, +1 Rare Pip |
-| innate talent | N/A |
+| innate stats | +1 Common Pip, obtainment=Chests from:, First Layer, Lodestar, Fishing, Maestro Evengarde Rest |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Lodestar, Fishing, Maestro Evengarde Rest |
-| description | "..." |
+| description | ... |
 
 ## Description
 

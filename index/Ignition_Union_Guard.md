@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 149128
+revid: 152054
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ignition Union, Ignition Union Enemies]
@@ -36,7 +36,6 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 ### Talents
 
 -   Brutal Momentum - Successfully dodging will give your next swing hyperarmor.
--   Harsh Response - Enemies receive less posture back when parrying your attacks.
 -   Destructive Recovery - Causes your enemies to regenerate significantly less posture when they parry you.
 
 ## Finisher

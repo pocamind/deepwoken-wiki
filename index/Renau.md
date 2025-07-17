@@ -1,6 +1,6 @@
 ---
 title: Renau
-revid: 131750
+revid: 152033
 source: https://deepwoken.fandom.com/wiki/Renau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]

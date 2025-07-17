@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Brace"
-revid: 137180
+revid: 152044
 source: https://deepwoken.fandom.com/wiki/Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Braces]
@@ -12,6 +12,7 @@ categories: [Items, Equipment, Arms, Braces]
 |---|---|
 | type | Arms |
 | rarity | ? |
+| selling price | ? |
 | requirements | Level 8 |
 | weight | 2 |
 | innate stats | +3 Health, +1 Posture, +2 Rare Pips |
@@ -21,7 +22,7 @@ categories: [Items, Equipment, Arms, Braces]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests From:, Artifacts, Blacksteel Pirate, Duke Ishamon Erisia, Erisia, Hell Mode, Maestro Evengarde Rest, Dread Serpent, Chaser |
-| description | "..." |
+| description | ... |
 
 ## Description
 

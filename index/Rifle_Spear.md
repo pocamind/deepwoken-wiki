@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 151088
+revid: 152027
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Cent
 | swing speed | 0.9x |
 | penetration | 25% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 25 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, Starswept Valley, Deep Widow, Moon's Eyrie, Dread Serpent, Lodestar, Fishing, The Depths, Merchant Ships, Saramaed Hollow, Sold in Traan Zakshun's regular shop for |
-| description | "A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets." |
+| obtainment | Fort Merit, Starswept Valley, Deep Widow, Moon's Eyrie, Dread Serpent, Lodestar, Fishing, The Depths, Merchant Ships, Saramaed Hollow, Sold in Traan Zakshun's regular shop for 650 |
+| description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
 _Not to be confused with rifles such as [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) and [Iron Blunderbuss](Iron_Blunderbuss.md)._
 

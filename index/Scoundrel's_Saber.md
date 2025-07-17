@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 150933
+revid: 151990
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Medium Weapons, Swords, Weapons with Unique Criticals]
@@ -18,17 +18,18 @@ categories: [Weapons, Items, Medium Weapons, Swords, Weapons with Unique Critica
 | swing speed | 1x |
 | special effect | Critical gains 10% more damage if landed on the opponent's back. |
 | stances | 2 Handed, 1 Handed |
+| selling price | 50 |
 | weight | 5.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold by Traan Zakshun for |
-| description | "A sturdy Celtorian saber with a weighted pommel, once wielded by Traan Zakshun. Known for feints and dirty tricks, he struck foes with the heavy pommel as often as the blade." |
+| obtainment | Sold by Traan Zakshun for 650 |
+| description | A sturdy Celtorian saber with a weighted pommel, once wielded by Traan Zakshun. Known for feints and dirty tricks, he struck foes with the heavy pommel as often as the blade. |
 
 ## Description
 
-The Scoundrel's Saber is a Medium Sword weapon sold exclusively by [Traan Zakshun](Traan_Zakshun.md) at a price of.
+The Scoundrel's Saber is a Medium Sword weapon sold exclusively by [Traan Zakshun](Traan_Zakshun.md) at a price of 650.
 
 ## Critical
 
@@ -42,4 +43,4 @@ The critical has a cooldown of **4 seconds**.
 
 -   This is part of the Saber weapon family, along with the [Officer Saber](Officer_Saber.md) and [Cavalry Saber](Cavalry_Saber.md).
 -   The critical has a very inconsistent hitboxes, often causing the critical's increased damage on backhit gimmick to not work at all.
--   Before the July 14th, 2025 update, the Scoundrel's Saber had a bug on release, where if you \[\[Pluripotent Alloy|Template:AlloyedColor\]\] it, it would turn into an [Alloyed Officer Saber](Officer_Saber.md#alloyed).
+-   Before the July 14th, 2025 update, the Scoundrel's Saber had a bug on release, where if you [alloyed](Pluripotent_Alloy.md) it, it would turn into an [Alloyed Officer Saber](Officer_Saber.md#alloyed).

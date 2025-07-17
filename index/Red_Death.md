@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 148812
+revid: 152040
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, Multiple Criticals, "Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons]
@@ -12,23 +12,24 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, Multiple
 |---|---|
 | type | Spear |
 | requirements | 30 MED, 35 BLD, 45 SDW, 25 MND, LVL 8 |
-| damage | 16 + 4.8 BLD |
+| damage | 16 + |
 | scaling | 2 MED, 3 BLD, 3 SDW, 2 MND |
 | range | 9.5 |
 | swing speed | 0.92x |
 | penetration | 25% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 100 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ministry Heartspiller, Sold in Traan Zakshun's black market for |
+| obtainment | Ministry Heartspiller, Sold in Traan Zakshun's black market for 8 |
 | description | Tool of the Ministry Heartbleeders, a covert cel under the 2nd Prophet's authority who gather information through ruthless interrogation tactics. Imbued with a hybrid meter of two separate verses of the Song, it utilises Bloodrend to remove all organic traces, and Shadowcast to remove all traces of ether. Even the metal itself is oleophobic, rejecting organic oils and fluids, so the spear itself carries no prints or traces. |
 
 ## Description
 
-The **Red Death** is a Legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowcast.md) Spear; a vile tool used by [Ministry Heartspillers](Ministry_Heartspiller.md) to aid in ruthless interrogation tactics while also leaving no trace of the target's organic remains and ether. It can be dropped from the [Ministry Heartspiller](Ministry_Heartspiller.md). It is also sold by [Traan Zakshun](Traan_Zakshun.md) in the black market rotation for.
+The **Red Death** is a Legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowcast.md) Spear; a vile tool used by [Ministry Heartspillers](Ministry_Heartspiller.md) to aid in ruthless interrogation tactics while also leaving no trace of the target's organic remains and ether. It can be dropped from the [Ministry Heartspiller](Ministry_Heartspiller.md). It is also sold by [Traan Zakshun](Traan_Zakshun.md) in the black market rotation for 8.
 
 When gripping a humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving no trace behind.
 
