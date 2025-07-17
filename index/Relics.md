@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 152034
+revid: 152116
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -473,6 +473,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li><a href="Hive_Construct.md">Hive Constructs</a> and <a href="Rogue_Construct.md">Rogue Constructs</a></li>
     <li><a href="Primadon,_Titan_of_the_East.md">Primadon</a> and <a href="Elder_Primadon,_The_Titan_Warlord.md">Elder Primadon</a></li>
     <li><a href="The_Starswept_Valley.md">Starswept Valley</a> Chests</li>
+    <li><a href="Fishing.md">Fishing</a> Chests</li>
   </ul></li>
   </ul></td>
 </tr>

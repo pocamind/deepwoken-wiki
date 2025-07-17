@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 150872
+revid: 152124
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -39,10 +39,10 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 Galebreathe Mantras are upgraded at the [Attunement Trainers](Attunement_Trainers.md) [Friid](Friid,_Master_of_Gale.md).
 
--   To upgrade a Galebreathe Mantra from level 1 to level 2 costs and requires 20 Galebreathe investment.
--   To upgrade a Galebreathe Mantra from level 2 to level 3 costs and requires 40 Galebreathe investment.
--   To upgrade a Galebreathe Mantra from level 3 to level 4 costs and requires 60 Galebreathe investment.
--   To upgrade a Galebreathe Mantra from level 4 to level 5 costs and requires 80 Galebreathe investment.
+-   To upgrade a Galebreathe Mantra from level 1 to level 2 costs 100 and requires 20 Galebreathe investment.
+-   To upgrade a Galebreathe Mantra from level 2 to level 3 costs 200 and requires 40 Galebreathe investment.
+-   To upgrade a Galebreathe Mantra from level 3 to level 4 costs 300 and requires 60 Galebreathe investment.
+-   To upgrade a Galebreathe Mantra from level 4 to level 5 costs 400 and requires 80 Galebreathe investment.
 
 Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
 
@@ -906,8 +906,7 @@ Below is a list of all Galebreathe exclusive Talents. Hybrid Talents are listed 
 
 **Galebreather:**
 
-These Talents are found in the _Galebreather_ category.  
-_**"I seek the qualities of Galebreathe Master."**_
+These Talents are found in the _Galebreather_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -1061,8 +1060,7 @@ N/A
 
 **Gale Duelist:**
 
-These Talents are found in the _Gale Duelist_ category.  
-_**"My wind fights for me."**_
+These Talents are found in the _Gale Duelist_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -1082,8 +1080,7 @@ Sends user and opponent into the air.
 
 **Galeforce:**
 
-These Talents are found in the _Galeforce_ category.  
-_**"I use the winds to enforce my will."**_
+These Talents are found in the _Galeforce_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -1131,8 +1128,7 @@ This will stack the [Mantra Modifiers](Mantra_Modifiers.md) that were on the Inh
 
 **Legion Shock Trooper:**
 
-These Talents are found in the _Legion Shock Trooper_ category.  
-_**"I fight for the Legion."**_
+These Talents are found in the _Legion Shock Trooper_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -1216,8 +1212,7 @@ N/A
 
 **Silencer:**
 
-These Talents are found in the _Silencer_ category.  
-_**"The song shall be silenced."**_
+These Talents are found in the _Silencer_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -1328,8 +1323,7 @@ N/A
 
 **Whisper:**
 
-These Talents are found in the _Whisper_ category.  
-_**"A whisper in the dark."**_
+These Talents are found in the _Whisper_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |

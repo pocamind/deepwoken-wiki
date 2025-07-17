@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 151674
+revid: 152115
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -33,7 +33,7 @@ There are multiple ways to obtain an Enchant Stone, the usual and best source be
 Most of the game's Enchant Stones have non-exclusive obtainment locations, meaning there are several options available to you for their obtainment.
 
 -   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) for a random non-exclusive Enchant Stone.
--   Using the [Deepshore Fossil](Deepshore_Fossil.md) will grant you any non-exclusive Enchant Stone of your choice. You can only obtain one [Deepshore Fossil](Deepshore_Fossil.md) per character.
+-   Using the [Deepshore Fossil](Deepshore_Fossil.md) will grant you any non-exclusive Enchant Stone of your choice.
 -   Chance to obtain from a chest from several bosses including: [The Heart of Enmity](Heart_of_Enmity.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [The Dread Serpent](Dread_Serpent.md), [Scion of Ethiron](Scion_of_Ethiron.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Chance to obtain from a chest from several dungeons including: [Second Layer](Second_Layer.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and [Saramaed Hollow](Saramaed_Hollow.md).
 -   Chance to obtain from [War Mode](War_Mode.md) and [Hell Mode](Hell_Mode.md).

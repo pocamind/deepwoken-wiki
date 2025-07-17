@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 151685
+revid: 152069
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -51,8 +51,6 @@ Glacial Shower
 ## Talents
 
 -   Glass Path: Crystallization - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them.
--   Cryostasis - When block broken, fragile freeze yourself, negating the damage of the next attack.
--   Rude Awakening - When hit in Cryostasis inflict frost damage to the enemy who hit you.
 -   Preceding Chill - Enemies hit during the last moments of your ice beam are frozen.
 -   Frozen Legs - Your slow effect prevents your opponents from rolling.
 -   Crystal Shrapnel - Your crystal explosions now have an AoE that applies crystals to all hit.

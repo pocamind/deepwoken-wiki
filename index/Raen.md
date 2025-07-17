@@ -1,6 +1,6 @@
 ---
 title: Raen
-revid: 137944
+revid: 152095
 source: https://deepwoken.fandom.com/wiki/Raen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Knives of Eylis]
@@ -17,6 +17,8 @@ categories: [Adret NPCs, NPCs, The Knives of Eylis]
 ## Description
 
 An Adret [Voidwalker](Origins.md#voidwalker) in the [Voidheart](Voidheart.md), gives lore and a few pointers to new Voidwalkers on what to do for progression. Having taken up the job to support his family, especially his mother.
+
+If you say "I see. Can you help me with affording equipment?" he will unlock a new dialog with [Rook Rehige](Rook_Rethige.md)
 
 ## Dialogue
 

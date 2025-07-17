@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 151013
+revid: 152077
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -84,6 +84,7 @@ Exhaustive Loot Table
     <li><a href="Rain_Spire.md">Rain Spire</a></li>
     <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li><a href="Void_Spire.md">Void Spire</a></li>
+    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
   </ul></li>
   </ul></td>
 </tr>

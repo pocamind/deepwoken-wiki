@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 149001
+revid: 152100
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -15,6 +15,6 @@ categories: [NPCs]
 
 ## Description
 
-Root Rethige is an NPC in the Voidheart. He seemingly does nothing for now other than give lore about his character, which is based on a tester.
+Root Rethige is an NPC in the [Voidheart](Voidheart.md). He seemingly gives lore about his character, which is based on a tester.
 
-You are able to buy a [Whaling Knife](Whaling_Knife.md) from him for 300 notes after you talk to [Raen](Raen.md) and say "I see. Can you help me affording equipment. He seemingly has unlimited knives.
+After you say "I see. Can you help me with affording equipment?" to [Raen](Raen.md) you will unlock a new dialogue with This npc allowing you to buy [Whailing Knife](Whaling_Knife.md) for 300 notes

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 150389
+revid: 152125
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -48,10 +48,10 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 You can speak to [Vyrelda](Vyrelda,_Master_of_Blood.md) at [Derelict Highchurch](Derelict_Highchurch.md) to upgrade your Bloodrend Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
--   To upgrade a Bloodrend Mantra from level 1 to level 2 costs and requires 20 Bloodrend investment.
--   To upgrade a Bloodrend Mantra from level 2 to level 3 costs and requires 40 Bloodrend investment.
--   To upgrade a Bloodrend Mantra from level 3 to level 4 costs and requires 60 Bloodrend investment.
--   To upgrade a Bloodrend Mantra from level 4 to level 5 costs and requires 80 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 1 to level 2 costs 100 and requires 20 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 2 to level 3 costs 200 and requires 40 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 3 to level 4 costs 300 and requires 60 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 4 to level 5 costs 400 and requires 80 Bloodrend investment.
 
 Mantra levels will cost 50% more Notes if you use the [Songwright](Songwright.md) NPC to upgrade them.
 
@@ -824,8 +824,7 @@ Below is a list of all Bloodrend exclusive Talents. Hybrid Talents are listed [h
 
 **Bloodrender:**
 
-These are Talents found in "_Bloodrender_" Category.  
-_**"I obtained the forbidden knowledge of Bloodrending."**_
+These are Talents found in "_Bloodrender_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -991,8 +990,7 @@ Reduces the blood cost by around 50%.
 
 **Bloodhound:**
 
-These are Talents found in "_Bloodhound_" Category.  
-_**"The scent of my enemy is still fresh."**_
+These are Talents found in "_Bloodhound_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1030,8 +1028,7 @@ Their blood current blood amount will be displayed as a percentage in Red next t
 
 **Scarlet Donor:**
 
-These are Talents found in "_Scarlet Donor_" Category.  
-_**"I wish to share my blood with the world."**_
+These are Talents found in "_Scarlet Donor_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1085,8 +1082,7 @@ N/A
 
 **Septicemia:**
 
-These are Talents found in "_Septicemia_" Category.  
-_**"I have sewn insidious poison within my enemy's blood."**_
+These are Talents found in "_Septicemia_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1204,8 +1200,7 @@ Hitting an opponent who is over 20% blood poisoning will completely negate the e
 
 **Transitory Vitality:**
 
-These are Talents found in "_Transitory Vitality_" Category.  
-_**"I use my blood's plasma to better defend myself."**_
+These are Talents found in "_Transitory Vitality_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1275,8 +1270,7 @@ N/A
 
 **Quack Doctor:**
 
-These are Talents found in "_Quack Doctor_" Category.  
-_**"My cure is most effective."**_
+These are Talents found in "_Quack Doctor_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1362,8 +1356,8 @@ N/A
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
 
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in [Vyrelda](Vyrelda,_Master_of_Blood.md)'s dialogue, which is special.
--   While Bloodrend might seem like it'd be a good counter against [Curse of the No Life King](Enchantments.md#curses) users and people with the [Haemophilia](Boons_and_Flaws.md#flaws) Flaw, Bloodrend Mantra blood drain is actually entirely unaffected by blood damage modifiers.
--   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#ironsinger), [Cauterized Wounds](Talents.md#flame-warden), [Curse of the No Life King](Enchantments.md#curses) Enchant, and the [Haemophilia](Boons_and_Flaws.md#flaws) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
+-   While Bloodrend might seem like it'd be a good counter against [Curse of the No Life King](Curse_of_the_No_Life_King.md) users and people with the [Haemophilia](Boons_and_Flaws.md#flaws) Flaw, Bloodrend Mantra blood drain is actually entirely unaffected by blood damage modifiers.
+-   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#ironsinger), [Cauterized Wounds](Talents.md#flame-warden), [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchant, and the [Haemophilia](Boons_and_Flaws.md#flaws) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
 -   Attempting to complete [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstars](Heartstar.md) are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
 -   **Sanguine Dive** is a reference to Vladimir's W ability in _League of Legends_.
 -   **Bloodtide Ritual** is a reference to [Mohg, Lord of Blood's](https://eldenring.wiki.fextralife.com/Mohg,+Lord+of+Blood) phase transition move "Bloodboon Ritual" from _Elden Ring_.

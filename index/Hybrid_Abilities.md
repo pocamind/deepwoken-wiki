@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 150003
+revid: 152099
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -13,6 +13,14 @@ _**FOREWORD**: **A table visualizing the requirements of every hybrid ability ca
 ## Overview
 
 **Hybrid Abilities** are a special category of [Mantras](Mantras.md) and [Talents](Talents.md) that require investment in multiple [Attunements](Attunements.md) to use. Hybrid Mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). **Hybrid Mantras scale off of both of their attunement stats.**
+
+## Oaths
+
+Very few [Oaths](Oaths.md) require the combination of several Attunements to be used. These Oaths are often powerful within their niche, but uncommonly used due to having fairly restrictive requirements.
+
+[Arcwarder](Oath%253A_Arcwarder.md) - A [Flamecharm](Flamecharm.md)/[Thundercall](Thundercall.md) Hybrid Oath that harnesses these Attunements' defensive and offensive capabilities. Requirements: 20 Flamecharm, 20 Thundercall, 20 Fortitude.
+
+[Saintsworn](Oath%253A_Saintsworn.md) - An Hybrid Oath that is comprised of the 5 base Attunements, specializing in elemental combination through various methods. Requirements: 20 [Flamecharm](Flamecharm.md), 20 [Frostdraw](Frostdraw.md), 20 [Galebreathe](Galebreathe.md), 20 [Shadowcast](Shadowcast.md), 20 [Thundercall](Thundercall.md).
 
 ## Mantras
 
@@ -84,8 +92,8 @@ Lightning + Metal
 -   Can apply Electrified.
 -   Compatible with Surge Path and Gilded Path.
 -   Can be modified with [Eternal and Aeon Logstones](Mantra_Modifiers.md) to increase its duration slightly.
--   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to summon 3.
--   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md) allowing it to move.
+-   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to summon 3.
+-   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md#sparks) allowing it to move.
 
  |
 | 
@@ -124,7 +132,7 @@ Ice + Shadow
 
 -   Deals moderate damage.
 -   Inflicts Chill.
--   Works with [Twisted Puppets](Talents.md) applying Shadow Burn (it won't spawn puppets).
+-   Works with [Twisted Puppets](Talents.md#wraith-path-twisted-puppets) applying Shadow Burn (it won't spawn puppets).
 -   Compatible with [Cloudstones/Stratus Stones](Mantra_Modifiers.md) to make the AoE larger.
 -   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md) but does not seem to do any effect. (Currently bugged, Aeon Logstones work but Eternal Logstones appear to shorten the amount of hits)
 -   Can be modified with [Magnet Spark](Mantra_Modifiers.md) allowing it to follow the user.
@@ -223,7 +231,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Scorchblood<br>
@@ -232,7 +239,6 @@ Wind + Lightning + Slash
   40 Flamecharm</center></td>
   <td><center>Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.</center></td>
   <td><center>Posture breaking with a Bloodrend mantra applies burn and deals 16.5 damage in an AoE. Also applies blood poison.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -246,7 +252,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Cold Blooded<br>
@@ -255,7 +260,6 @@ Wind + Lightning + Slash
   40 Frostdraw</center></td>
   <td><center>Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)</center></td>
   <td><center>Enemies gain a small amount of blood poisoning upon being chilled or having their crystals detonated. Has a short cooldown for blood poison application.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -269,7 +273,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Brain Death<br>
@@ -278,7 +281,6 @@ Wind + Lightning + Slash
   40 Galebreathe</center></td>
   <td><center>Enemies that are suffocated will have their suffocation duration extended when hit by a Bloodrend mantra.</center></td>
   <td><center>Bloodrend mantras extend suffocation duration.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -292,7 +294,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Blood and Iron<br>
@@ -301,7 +302,6 @@ Wind + Lightning + Slash
   40 Ironsing</center></td>
   <td><center>Pulling rods out of your opponent now replenishes an equivalent amount of blood.</center></td>
   <td><center>Pulling rods now regenerates your blood.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -315,7 +315,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Malevolent Sapper<br>
@@ -324,7 +323,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.</center></td>
   <td><center>Ether drain from Shadowcast mantras scales on the amount of blood poisoning your opponent has.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -338,7 +336,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Electrolyte<br>
@@ -347,7 +344,6 @@ Wind + Lightning + Slash
   40 Thundercall</center></td>
   <td><center>Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.</center></td>
   <td><center>While you have the temporary health status effect, landing Bloodrend mantras applies electrify. This also removes a portion of your temporary health.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -363,7 +359,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Scorchblood<br>
@@ -372,7 +367,6 @@ Wind + Lightning + Slash
   40 Flamecharm</center></td>
   <td><center>Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.</center></td>
   <td><center>Posture breaking with a Bloodrend mantra applies burn and deals 16.5 damage in an AoE. Also applies blood poison.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -386,7 +380,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Temperature Shock<br>
@@ -396,7 +389,6 @@ Wind + Lightning + Slash
   40 Flamecharm</center></td>
   <td><center>Your fire mantras now detonate any stacked crystals.</center></td>
   <td><center>Landing a Flamecharm mantra will detonate all stacked Crystals. This includes mantras such as <a href="Monster_Mantras.md">Mecha Gatling</a>.</center></td>
-  <td><center><i>"I seek the qualities of FlashFreeze."</i></center></td>
 </tr>
 <tr>
   <td><center><font>Volcanic Glass</font><br>
@@ -405,7 +397,6 @@ Wind + Lightning + Slash
   Eruption Path: Lava Serpent</center></td>
   <td><center>Detonating crystals causes an eruption soon after.</center></td>
   <td><center>Detonating Crystals will cause an Eruption.</center></td>
-  <td><center><i>"I seek the qualities of Pyroclast."</i></center></td>
 </tr>
 <tr>
   <td><center>Flashboil<br>
@@ -415,7 +406,6 @@ Wind + Lightning + Slash
   <td><center>Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.</center></td>
   <td><center>Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.<br>
   Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's. Steam clouds last 10 seconds and have an internal proc cooldown per target of 10 seconds.</center></td>
-  <td><center><i>"I seek the qualities of Vaporborne"</i></center></td>
 </tr>
 <tr>
   <td><center>Boiling Point<br>
@@ -423,7 +413,6 @@ Wind + Lightning + Slash
   <td><center>Flashboil</center></td>
   <td><center>Using a fire mantra near your own steam detonates it.</center></td>
   <td><center>Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.</center></td>
-  <td><center><i>"I seek the qualities of Vaporborne"</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -437,7 +426,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Fan the Flames<br>
@@ -446,7 +434,6 @@ Wind + Lightning + Slash
   40 Flamecharm</center></td>
   <td><center>Your stored Wind mantras can now empower your Fire mantras.</center></td>
   <td><center>Inhaled wind mantras will now apply their modifiers to Flame mantras. Additionally, this will grant the Flamecharm mantra a damage buff. The damage buff is (Inhaled mantra level x 2)%.</center></td>
-  <td><center><i>"I seek the qualities of Heat Column."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -460,7 +447,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Wraith Path: Twisted Puppets<br>
@@ -469,7 +455,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.</center></td>
   <td><center>Burn, Blazing Enchant, and Flamecharm legendary weapons are now black. Both Twisted Puppets burn types deal low damage and <b>drain</b> ether. Applying burn via any non-Shadowcast source summons a puppet. Puppets have a 4s spawn cd, deal 20 typeless damage, and 10 posture damage.</center></td>
-  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Moths to a Flame<br>
@@ -479,7 +464,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>You summon a puppet of black flames that homes onto enemies with black flames.</center></td>
   <td><center>Your puppets now seek out the nearest person who's burning with black flames. Additionally, they will continue seeking for a few seconds after their burn is removed. Puppets gain a speed boost when moving near a burning opponent.</center></td>
-  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Burning Puppets<br>
@@ -489,7 +473,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Your puppets can now inflict burn and fire-based Talents when they explode.</center></td>
   <td><center>When your puppets hit your opponent, they will apply Puppet Burn (burn that spawns puppets) and gain 5 Flamecharm scaling. Increasing their damage by 0.1 per point in Flamecharm up to 30 damage at 100 Flamecharm.</center></td>
-  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Explosive Rage<br>
@@ -499,7 +482,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.</center></td>
   <td><center>Causing an explosion via the Detonation <a href="Enchantments.md#blessings">Enchant</a>, The Final Act, or Explosive Finish will buff your puppets, making them move faster and deal 50% more damage. The damage buff is currently bugged and does not work.</center></td>
-  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Burning Sacrifice<br>
@@ -510,7 +492,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.</center></td>
   <td><center>Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds. Puppets turn purple if they've been alive for 15 seconds.</center></td>
-  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -524,7 +505,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Scorched Peak<br>
@@ -533,7 +513,6 @@ Wind + Lightning + Slash
   25 Flamecharm</center></td>
   <td><center>Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.</center></td>
   <td><center>Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning.</center></td>
-  <td><center><i>"I seek the qualities of Lichtenberg."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -549,7 +528,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Cold Blooded<br>
@@ -558,7 +536,6 @@ Wind + Lightning + Slash
   40 Frostdraw</center></td>
   <td><center>Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)</center></td>
   <td><center>Enemies gain a small amount of blood poisoning upon being chilled or having their crystals detonated. Has a short cooldown for blood poison application.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -572,7 +549,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Temperature Shock<br>
@@ -582,7 +558,6 @@ Wind + Lightning + Slash
   40 Flamecharm</center></td>
   <td><center>Your fire mantras now detonate any stacked crystals.</center></td>
   <td><center>Landing a Flamecharm mantra will detonate all stacked Crystals. This includes mantras such as <a href="Monster_Mantras.md">Mecha Gatling</a>.</center></td>
-  <td><center><i>"I seek the qualities of FlashFreeze."</i></center></td>
 </tr>
 <tr>
   <td><center><font>Volcanic Glass</font><br>
@@ -591,7 +566,6 @@ Wind + Lightning + Slash
   Eruption Path: Lava Serpent</center></td>
   <td><center>Detonating crystals causes an eruption soon after.</center></td>
   <td><center>Detonating Crystals will cause an Eruption.</center></td>
-  <td><center><i>"I seek the qualities of Pyroclast."</i></center></td>
 </tr>
 <tr>
   <td><center>Flashboil<br>
@@ -601,7 +575,6 @@ Wind + Lightning + Slash
   <td><center>Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.</center></td>
   <td><center>Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.<br>
   Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's. Steam clouds last 10 seconds and have an internal proc cooldown per target of 10 seconds.</center></td>
-  <td><center><i>"I seek the qualities of Vaporborne"</i></center></td>
 </tr>
 <tr>
   <td><center>Boiling Point<br>
@@ -609,7 +582,6 @@ Wind + Lightning + Slash
   <td><center>Flashboil</center></td>
   <td><center>Using a fire mantra near your own steam detonates it.</center></td>
   <td><center>Landing a Flamecharm Mantra on a steam cloud causes the cloud to detonate, dealing 10 damage in an AoE.</center></td>
-  <td><center><i>"I seek the qualities of Vaporborne"</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -623,7 +595,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Freezing Wight<br>
@@ -632,7 +603,6 @@ Wind + Lightning + Slash
   40 Frostdraw</center></td>
   <td><center>Your Haunted Gale now procs Chilled.</center></td>
   <td><center>Your Haunted Gale ghosts or Specter Apparitions apply Chilled for 7 seconds or 1 Crystal on hit. This Talent also changes the damage type of ghosts/Apparitions from pure Galebreathe to Galebreathe &amp; Frostdraw. They can also proc Bottom Freeze.</center></td>
-  <td><center><i>"I seek the qualities of Cold Phantom."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -646,7 +616,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Fulgurite Formation<br>
@@ -657,7 +626,6 @@ Wind + Lightning + Slash
   50 Frostdraw</center></td>
   <td><center>When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.</center></td>
   <td><center>When your Crystals explode, a lightning strike hits your opponent. When you proc Surge Overload on an enemy, all Crystal applications will apply 2 Crystals instead for 8 seconds.</center></td>
-  <td><center><i>"I seek the qualities of Frozen Lightning."</i></center></td>
 </tr>
 <tr>
   <td><center><center>Frozen Web<br>
@@ -667,7 +635,6 @@ Wind + Lightning + Slash
   40 Frostdraw</center></td>
   <td><center>Landing a critical with a Static Link on your opponent applies Chilled.</center></td>
   <td><center>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze. No synergy with Crystallization Path.</center></td>
-  <td><center><i>"I seek the qualities of Doomsday Engine."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -683,7 +650,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Brain Death<br>
@@ -692,7 +658,6 @@ Wind + Lightning + Slash
   40 Galebreathe</center></td>
   <td><center>Enemies that are suffocated will have their suffocation duration extended when hit by a Bloodrend mantra.</center></td>
   <td><center>Bloodrend mantras extend suffocation duration.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -706,7 +671,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Fan the Flames<br>
@@ -715,7 +679,6 @@ Wind + Lightning + Slash
   40 Flamecharm=</center></td>
   <td><center>Your stored Wind mantras can now empower your Fire mantras.</center></td>
   <td><center>Inhaled wind mantras will now apply their modifiers to Flame mantras. Additionally, this will grant the Flamecharm mantra a damage buff. The damage buff is (Inhaled mantra level x 2)%.</center></td>
-  <td><center><i>"I seek the qualities of Heat Column."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -729,7 +692,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Freezing Wight<br>
@@ -738,7 +700,6 @@ Wind + Lightning + Slash
   40 Frostdraw</center></td>
   <td><center>Your Haunted Gale now procs Chilled.</center></td>
   <td><center>Your Haunted Gale ghosts or Specter Apparitions apply Chilled for 7 seconds or 1 Crystal on hit. This Talent also changes the damage type of ghosts/Apparitions from pure Galebreathe to Galebreathe &amp; Frostdraw. They can also proc Bottom Freeze.</center></td>
-  <td><center><i>"I seek the qualities of Cold Phantom."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -752,7 +713,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Pressure Detonation<br>
@@ -761,7 +721,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.</center></td>
   <td><center>Block breaking with a Shadowcast mantra will suffocate your opponent for a few seconds and steal their Tempo.</center></td>
-  <td><center><i>"I seek the qualities of Cosmic Wind."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -775,7 +734,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Storm Link<br>
@@ -785,7 +743,6 @@ Wind + Lightning + Slash
   50 Galebreathe</center></td>
   <td><center>While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.</center></td>
   <td><center>Landing Gale mantras on your Static Linked target will add lightning damage to the attack. These lightning flashes do not proc Surge or Thunder, and they also do not proc any talents.</center></td>
-  <td><center><i>"I seek the qualities of Stormcaller."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -801,7 +758,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Blood and Iron<br>
@@ -810,7 +766,6 @@ Wind + Lightning + Slash
   40 Ironsing</center></td>
   <td><center>Pulling rods out of your opponent now replenishes an equivalent amount of blood.</center></td>
   <td><center>Pulling rods now regenerates your blood.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -824,7 +779,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Voltaic Conductor<br>
@@ -834,7 +788,6 @@ Wind + Lightning + Slash
   40 Thundercall</center></td>
   <td><center>Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.</center></td>
   <td><center>Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.</center></td>
-  <td><center><i>"I seek the qualities of Superconductor."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -850,7 +803,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Malevolent Sapper<br>
@@ -859,7 +811,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.</center></td>
   <td><center>Ether drain from Shadowcast mantras scales on the amount of blood poisoning your opponent has.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -873,7 +824,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Wraith Path: Twisted Puppets<br>
@@ -882,7 +832,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Your Flamecharm mantras now summon puppets of shadow and flame. Your Flames are now Black.</center></td>
   <td><center>Burn, Blazing Enchant, and Flamecharm legendary weapons are now black. Both Twisted Puppets burn types deal low damage and <b>drain</b> ether. Applying burn via any non-Shadowcast source summons a puppet. Puppets have a 4s spawn cd, deal 20 typeless damage, and 10 posture damage.</center></td>
-  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Moths to a Flame<br>
@@ -892,7 +841,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>You summon a puppet of black flames that homes onto enemies with black flames.</center></td>
   <td><center>Your puppets now seek out the nearest person who's burning with black flames. Additionally, they will continue seeking for a few seconds after their burn is removed. Puppets gain a speed boost when moving near a burning opponent.</center></td>
-  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Burning Puppets<br>
@@ -902,7 +850,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Your puppets can now inflict burn and fire-based Talents when they explode.</center></td>
   <td><center>When your puppets hit your opponent, they will apply Puppet Burn (burn that spawns puppets) and gain 5 Flamecharm scaling. Increasing their damage by 0.1 per point in Flamecharm up to 30 damage at 100 Flamecharm.</center></td>
-  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Explosive Rage<br>
@@ -912,7 +859,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.</center></td>
   <td><center>Causing an explosion via the Detonation <a href="Enchantments.md#blessings">Enchant</a>, The Final Act, or Explosive Finish will buff your puppets, making them move faster and deal 50% more damage. The damage buff is currently bugged and does not work.</center></td>
-  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 <tr>
   <td><center>Burning Sacrifice<br>
@@ -923,7 +869,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.</center></td>
   <td><center>Gain a tool that allows you to sacrifice puppets who burn purple, granting you 1 Emperor Flame Stack per puppet sacrificed, +4% damage boost per puppet sacrificed for 6 seconds (caps at +12% damage), and a speed boost for 6 seconds. Puppets turn purple if they've been alive for 15 seconds.</center></td>
-  <td><center><i>"I seek the qualities of Twisted Puppets."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -937,7 +882,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Pressure Detonation<br>
@@ -946,7 +890,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.</center></td>
   <td><center>Block breaking with a Shadowcast mantra will suffocate your opponent for a few seconds and steal their Tempo.</center></td>
-  <td><center><i>"I seek the qualities of Cosmic Wind."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -960,7 +903,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Dark Receiver<br>
@@ -970,7 +912,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Shadow moves will also steal Ether from those you are Static Linked tethered to.</center></td>
   <td><center>Shadow mantras will steal 2-3% Ether from those you have a Static Link on even if they aren't hit by the Shadow mantra.</center></td>
-  <td><center><i>"I seek the qualities of Sapper."</i></center></td>
 </tr>
 <tr>
   <td><center>Battery Sapper<br>
@@ -981,7 +922,6 @@ Wind + Lightning + Slash
   <td><center>If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.</center></td>
   <td><center>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for Battery Sapper to proc.<br>
   However, this talent is bugged and currently does nothing.</center></td>
-  <td><center><i>"I seek to embrace the instability of lightning as a source of power."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -997,7 +937,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Electrolyte<br>
@@ -1006,7 +945,6 @@ Wind + Lightning + Slash
   40 Thundercall</center></td>
   <td><center>Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.</center></td>
   <td><center>While you have the temporary health status effect, landing Bloodrend mantras applies electrify. This also removes a portion of your temporary health.</center></td>
-  <td><center><i>"The elements crave the blood of others."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -1020,7 +958,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Scorched Peak<br>
@@ -1029,7 +966,6 @@ Wind + Lightning + Slash
   25 Flamecharm</center></td>
   <td><center>Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.</center></td>
   <td><center>Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning.</center></td>
-  <td><center><i>"I seek the qualities of Lichtenberg."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -1043,7 +979,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Fulgurite Formation<br>
@@ -1054,7 +989,6 @@ Wind + Lightning + Slash
   50 Frostdraw</center></td>
   <td><center>When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.</center></td>
   <td><center>When your Crystals explode, a lightning strike hits your opponent. When you proc Surge Overload on an enemy, all Crystal applications will apply 2 Crystals instead for 8 seconds.</center></td>
-  <td><center><i>"I seek the qualities of Frozen Lightning."</i></center></td>
 </tr>
 <tr>
   <td><center>Frozen Web<br>
@@ -1064,7 +998,6 @@ Wind + Lightning + Slash
   40 Frostdraw</center></td>
   <td><center>Landing a critical with a Static Link on your opponent applies Chilled.</center></td>
   <td><center>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze. No synergy with Crystallization Path.</center></td>
-  <td><center><i>"I seek the qualities of Doomsday Engine."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -1078,7 +1011,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Storm Link<br>
@@ -1088,7 +1020,6 @@ Wind + Lightning + Slash
   50 Galebreathe</center></td>
   <td><center>While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.</center></td>
   <td><center>Landing Gale mantras on your Static Linked target will add lightning damage to the attack. These lightning flashes do not proc Surge or Thunder, and they also do not proc any talents.</center></td>
-  <td><center><i>"I seek the qualities of Stormcaller."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -1102,7 +1033,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Voltaic Conductor<br>
@@ -1112,7 +1042,6 @@ Wind + Lightning + Slash
   40 Thundercall</center></td>
   <td><center>Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.</center></td>
   <td><center>Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.</center></td>
-  <td><center><i>"I seek the qualities of Superconductor."</i></center></td>
 </tr>
 </tbody>
 </table>
@@ -1126,7 +1055,6 @@ Wind + Lightning + Slash
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
-  <td><center><b>Mystic Dialogue</b></center></td>
 </tr>
 <tr>
   <td><center>Dark Receiver<br>
@@ -1136,7 +1064,6 @@ Wind + Lightning + Slash
   40 Shadowcast</center></td>
   <td><center>Shadow moves will also steal Ether from those you are Static Linked tethered to.</center></td>
   <td><center>Shadow mantras will steal 2-3% Ether from those you have a Static Link on even if they aren't hit by the Shadow mantra.</center></td>
-  <td><center><i>"I seek the qualities of Sapper."</i></center></td>
 </tr>
 <tr>
   <td><center>Battery Sapper<br>
@@ -1147,7 +1074,6 @@ Wind + Lightning + Slash
   <td><center>If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.</center></td>
   <td><center>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for Battery Sapper to proc.<br>
   However, this talent is bugged and currently does nothing.</center></td>
-  <td><center><i>"I seek to embrace the instability of lightning as a source of power."</i></center></td>
 </tr>
 </tbody>
 </table>

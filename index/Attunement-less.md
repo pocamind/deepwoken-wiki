@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 151684
+revid: 152123
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -175,14 +175,14 @@ Blunt
 
 **Effect:** _User launches a flurry of punches that inflicts light damage on their opponent._
 
--   Has a base damage of 6/6.5/7/7.5/8 per level, per hit (10), with 1.65 Strength scaling.
-    -   93.2 damage at 100 Strength level 5 if all hits land.
+-   Has a base damage of 10/10.5/11/11.5/12 per level, per hit (10), with 1.65 Strength scaling.
+    -   139.8 damage at 100 Strength level 5 if all hits land.
 -   Deals 1 posture damage per hit (10).
 -   Has an initial wind-up of 0.45s with a 0.125s wind-up in between each hit.
 -   The move is cancelled upon getting parried in the initial hit.
 -   The user may cancel the barrage at any point during it by pressing their feint key.
 -   Victims struck by the last punch are pushed away.
--   Hits after the first one are 360 degree blockable.
+-   360 degree blockable.
 
  |
 | 
@@ -1407,8 +1407,9 @@ Slash
 
 **Effect:** _User teleports to the enemy their cursor is located on and performs numerous slashes._
 
--   Deals 15 + 5 base damage with 1.65 Light Weapon scaling.
-    -   Base damage does not increase from Mantra levels.
+-   Deals 12+4/14+4.67/16+5.33/18+6/20+6.67 base damage per level with 1.65 Light Weapon scaling.
+-   Deals 10 posture damage.
+-   Has a windup of 0.67 seconds.
 -   Upgrading the Mantra increases teleportation range.
 -   Bypasses armor resistances, but the damage can still be resisted with other sources of damage reduction.
 -   Teleports the user to the enemy the cursor is pointed at.
@@ -1453,7 +1454,7 @@ Slash
 -   Damage ramps up on each hit.
 -   Deals 20/25/30/35/40 base damage on the initial hits with 1.65 Light Weapon scaling. This damage does not scale on Mantra level.
 -   After each hit, three damage ticks will follow. These scale on your Mantra's level.
-    -   The secondary damage ticks deal 3.33/4/4.67/5.33/6 base damage per level, per hit (3) with 1.65 Light Weapon scaling.
+    -   The secondary damage ticks deal 6.67/7.67/8.67/9.67/10.67 base damage per level, per hit (3) with 1.65 Light Weapon scaling.
 -   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra or time slashes in a specific manner.
 -   Constantly consumes Ether while invisible.
 -   The slashes lock onto the closest target within Ceaseless' range.
@@ -1936,8 +1937,7 @@ Slash
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
 -   After the cooldown of Punishment, activating it again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish), that affects everyone nearby.
--   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level with no Heavy Weapon scaling.
--   On top of having flat damage, Punishment will also deal 40%/55%/70%/85%/100% of the countered attack's damage per level.
+-   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack. Punishment has no Heavy Weapon scaling.
 -   Deals 10/15/25/30 posture damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's posture damage per level to this attack.
 -   The counter has a wind-up of 0.2 seconds; being hit during this wind-up will cancel Punishment altogether. Additionally, this attack has a window of 0.55 seconds to counter any attack, and 0.7 seconds of endlag if whiffed.
 -   The follow-up attack has a staggeringly short 0.35 second windup, making it very hard to react to. That being said, this attack is still parryable.

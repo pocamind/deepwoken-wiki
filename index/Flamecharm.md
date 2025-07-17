@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 151172
+revid: 152126
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -35,10 +35,10 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 You can speak to [Amashi](Amashi,_Master_of_Flame.md) to upgrade your Flamecharm Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same Mantra 100 Notes more expensive.
 
--   Upgrading a Flamecharm Mantra from level 1 to level 2 costs and requires 20 Flamecharm investment.
--   Upgrading a Flamecharm Mantra from level 2 to level 3 costs and requires 40 Flamecharm investment.
--   Upgrading a Flamecharm Mantra from level 3 to level 4 costs and requires 60 Flamecharm investment.
--   Upgrading a Flamecharm Mantra from level 4 to level 5 costs and requires 80 Flamecharm investment.
+-   Upgrading a Flamecharm Mantra from level 1 to level 2 costs 100 and requires 20 Flamecharm investment.
+-   Upgrading a Flamecharm Mantra from level 2 to level 3 costs 200 and requires 40 Flamecharm investment.
+-   Upgrading a Flamecharm Mantra from level 3 to level 4 costs 300 and requires 60 Flamecharm investment.
+-   Upgrading a Flamecharm Mantra from level 4 to level 5 costs 400 and requires 80 Flamecharm investment.
 
 Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.
 
@@ -252,7 +252,7 @@ Fire
 -   Has 9.18x PVE scale (53.82 PVP, 494.07 PVE)
 -   Inflicts Burn.
 -   Has a 0.5 second windup.
--   Shares a cooldown with all of [these mantras](List_of_Grab_Mantras.md).
+-   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 -   Travels for 0.6 seconds.
 -   Crystal/Perfect Lens increase the duration, capping at 1.2s with a +3 range modifier.
 
@@ -1069,8 +1069,7 @@ Below is a list of all Flamecharm exclusive talents and its Paths. Hybrid talent
 
 **Flamecharmer:**
 
-These Talents are found in the "_Flamecharmer_" Category.  
-_**"I speak to the flames."**_
+These Talents are found in the "_Flamecharmer_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1233,8 +1232,7 @@ Grants the utility tool "Flame Within". Using Flame Within sets the caster ablaz
 
 **Duelist Flame:**
 
-These are Talents found in "_Duelist Flame_" Category.  
-_**"My flame fights for me."**_
+These are Talents found in "_Duelist Flame_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1256,8 +1254,7 @@ The Mantra **Flame Blind** now applies daze.
 
 **Falling Star Guard:**
 
-These are Talents found in "_Falling Star Guard_" Category.  
-_**"I believe in the men who followed Pleeksty before."**_
+These are Talents found in "_Falling Star Guard_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1297,8 +1294,7 @@ N/A
 
 **Flame Dancer:**
 
-These are Talents found in "_Flame Dancer_" Category.  
-_**"I dance with the flames."**_
+These are Talents found in "_Flame Dancer_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1352,8 +1348,7 @@ N/A
 
 **Flame Warden:**
 
-These are Talents found in "_Flame Warden_" Category.  
-_**"None will escape my flames."**_
+These are Talents found in "_Flame Warden_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1425,8 +1420,7 @@ Hell's Partisan can now be procced on Flamecharm Mantras that aren't **Fire Forg
 
 **Immolator:**
 
-These Talents are found in the "_Immolator_" Category.  
-_**"I burn so that I may succeed."**_
+These Talents are found in the "_Immolator_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1480,8 +1474,7 @@ Hitting a burning target spreads the burn status effect to everyone nearby. This
 
 **Inferno:**
 
-These Talents are found in the "_Inferno_" Category.  
-_**"All must burn."**_
+These Talents are found in the "_Inferno_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1535,8 +1528,7 @@ Automatically removes burn at an Ether cost. Burn applied to self via Agitating 
 
 **Lava Serpent:**
 
-These are Talents found in "_Lava Serpent_" Category.  
-'_**"I seek the path of the Serpent."**_
+These are Talents found in "_Lava Serpent_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1608,8 +1600,7 @@ On Eruption, leave a pool of lava that deals Flamecharm damage over time. Damage
 
 **Pyromancer:**
 
-These are Talents found in "_Pyromancer_" Category.  
-_**"I am a master of the flame."**_
+These are Talents found in "_Pyromancer_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1631,8 +1622,7 @@ N/A
 
 **Tamed Flame:**
 
-These are Talents found in "_Tamed Flame_" Category.  
-_**"I seek the qualities of Tamed Flame."**_
+These are Talents found in "_Tamed Flame_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1654,8 +1644,7 @@ Agitating spark no longer spreads burn to your allies, this includes yourself.
 
 **The Demon Blade:**
 
-These are Talents found in "_The Demon Blade_" Category.  
-_**"My unholy blade works for no man."**_
+These are Talents found in "_The Demon Blade_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1693,8 +1682,7 @@ Your flourish and uppercuts will set your opponent ablaze/proc an Eruption.
 
 **The Emperor's Blade:**
 
-These are Talents found in "_The Emperor's Blade_" Category.  
-_**"My blade burns through my foes."**_
+These are Talents found in "_The Emperor's Blade_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1732,8 +1720,7 @@ N/A
 
 **Undying Ember:**
 
-These Talents are found in the "_Undying Ember_" Category.  
-_**"My spirit is forever burning."**_
+These Talents are found in the "_Undying Ember_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1771,8 +1758,7 @@ Your Graceful Flame can now be cast in the [First Layer](First_Layer.md), additi
 
 **Twisted Puppets:**
 
-These Talents are found in the _Twisted Puppets_ category.  
-_**"I seek the qualities of twisted puppets."**_
+These Talents are found in the _Twisted Puppets_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -1854,8 +1840,7 @@ Puppets turn purple if they've been alive for 15 seconds, signifying that they o
 
 **Vaporborne:**
 
-These Talents are found in the _Vaporborne_ category.  
-_**"I seek the qualities of Vaporborne."**_
+These Talents are found in the _Vaporborne_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |

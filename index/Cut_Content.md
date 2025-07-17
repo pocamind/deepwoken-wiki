@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 151204
+revid: 152068
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -226,6 +226,8 @@ This page is about content that has either been removed or changed drastically i
 -   **Reverse Gale Kick \[Common Talent, Galebreathe\] -** Pressing \[F\] after hitting an opponent with Wind Rising will cause your followup kick to impale them to the ground. (+1 Passive Agility)
     -   Dazes after kicking them down allowing for more combos.
     -   In the December 1st, 2023 update, Reverse Gale Kick was made base behavior for Rising Wind.
+-   **Rude Awakening \[Common Talent, Frostdraw\] -** When hit in Cryostasis, inflict frost damage to the enemy who hit you. (+3 Elemental Intensity, +2 Health)
+    -   In the July 21st, 2024 update, Rude Awakening was merged into Cryostasis.
 -   **Salesperson \[Common Talent, Charisma\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
     -   In the December 13th, 2022 update, Salesperson was merged into Snake Oil.
 -   **Shatter Spear \[Rare Talent, Frostdraw\] -** Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
