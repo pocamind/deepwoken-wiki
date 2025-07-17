@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 149657
+revid: 151641
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -31,9 +31,9 @@ These are recipes that are not used to produce food or potions.
 -   **Monster Bait** - (Can be obtained from [Mortus](Mortus.md)) 2/3 _Chum_
 -   **Void Feather** - _3 Dark Feather(s), 1 Umbral Obsidian_
 -   **Dark Feather(3x)** - _1 Void Feather_
--   [Armorer's Needle](<Armorer's_Needle.md>) - _5_ [_Smith's Alloys_](<Smith's_Alloy.md>)
+-   [Armorer's Needle](<Armorer's_Needle.md>) - _3_ [_Smith's Alloys_](<Smith's_Alloy.md>)
 -   [Forge Needle](Forge_Needle.md) - _1 [Armorer's Needle](<Armorer's_Needle.md>), 3 [Smith's Alloys](<Smith's_Alloy.md>) or 1 [Gilded Needle](Gilded_Needle.md), 1 [Smith's Alloy](<Smith's_Alloy.md>)_
--   [Gilded Needle](Gilded_Needle.md) - _5 [Armorer's Needles](<Armorer's_Needle.md>), 1 [Gold](Ores.md)_
+-   [Gilded Needle](Gilded_Needle.md) - _3 [Armorer's Needles](<Armorer's_Needle.md>), 1 [Gold](Ores.md)_
 -   [Shadow's Flight](<Shadow's_Flight.md>) - 2 [Void Feathers](Dark_Feather.md) and an [Umbral Obsidian](Umbral_Obsidian.md).
 
 Picture of a Crafting Bench

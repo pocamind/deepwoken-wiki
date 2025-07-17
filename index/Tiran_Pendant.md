@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 150566
+revid: 151710
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -26,12 +26,12 @@ categories: [Items, Equipment, Torso, Necklaces, Relics]
 
 ## Description
 
-The Tiran Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
+The Tiran Pendant is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
 
-Equipping it grants the Talent "Featherfall" which grants Nearly complete immunity to fall damage. After a certain amount of damage has been negated, the pendant will go on cooldown for 2 minutes. (This does not negate damage dealt to armor and exoskeleton)
+Equipping it grants the [Featherfall](Talents.md#equipment-talents) Talent, which grants nearly complete immunity to fall damage. After a certain amount of damage has been negated, the pendant will go on cooldown for 2 minutes. (This does not negate damage dealt to Natural Armor.)
 
 ## Trivia
 
 -   The third (or second) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   Used to have a bug which relogging while the passive was on cooldown would double the cooldown leading to massive cooldowns on the passive.
--   This is one of the droppable torso relics alongside the [Warmaster's Medallion](<Warmaster's_Medallion.md>), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).
+-   This is one of the droppable torso Relics alongside the [Warmaster's Medallion](<Warmaster's_Medallion.md>), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).

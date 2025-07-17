@@ -1,11 +1,11 @@
 ---
-title: Rain (enchantment)
-revid: 151635
-source: https://deepwoken.fandom.com/wiki/Rain_(enchantment)
+title: Displacement
+revid: 151628
+source: https://deepwoken.fandom.com/wiki/Displacement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Rain (enchantment)
+# Displacement
 
 Redirect to:
 

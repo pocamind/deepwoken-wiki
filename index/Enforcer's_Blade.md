@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 147005
+revid: 151603
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Heavy Weapons]
@@ -33,12 +33,16 @@ The Enforcer's Blade is a Greatsword [Heavy Weapon](Weapons.md). Equipping this 
 
 ## Critical
 
-After a short windup, the user spins the Enforcer's Blade in a circle around themselves. This critical applies hyperarmor to the user for its full duration. Moreover, this critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>), but the Enforcer's Blade critical uniquely doesn't guardbreak instantly. This critical does around half the damage of a basic attack per hit.
+After a short windup, the user spins the Enforcer's Blade in a circle around themselves, and applying hyperarmor to the user for its full duration. Uniquely, the Enforcer's Blade critical does not guardbreak unlike both of its sibling weapons.
+
+This critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Axe.](<Hero's_Blade_of_Shadow.md>) All hits have 0.5x scaled damage.
+
+The critical has a cooldown of **7 seconds.**
 
 ## Trivia
 
 -   This item used to be significantly rarer than the Enforcer’s Axe, but after Enforcer variants were added it became much more common, equal to the Enforcer’s Axe and Enforcer’s Hammer
--   This weapon is equally good as it boasts higher attack speed unlike its other sisters, while also sporting no endlag.
+-   The original Enforcer's Blade model was taken from a design off of Pinterest.
 
 ## Version History
 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 150015
+revid: 151678
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -49,7 +49,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 1
 
  |
 | 
@@ -79,7 +79,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Hell Mode](Hell_Mode.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 1
 
  |
 
@@ -110,7 +110,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 3
 
  |
 | 
@@ -134,7 +134,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
 
  |
 | 
@@ -158,7 +158,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 10
 
  |
 | 
@@ -182,7 +182,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 7
 
  |
 |  | **[Armorer's Needle](<Armorer's_Needle.md>)** - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.
@@ -209,7 +209,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   Crafting
 -   [Saramaed Hollow](Saramaed_Hollow.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 4
 
  |
 | 
@@ -222,7 +222,7 @@ It grants the user +50 knowledge on subsequent uses.
 
 -   Crafting
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 10
 
  |
 | 
@@ -235,7 +235,7 @@ It grants the user +50 knowledge on subsequent uses.
 
 -   Crafting
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
 
  |
 | 
@@ -300,7 +300,7 @@ The ability is one-time-use but is recharged by killing a boss or player of your
 -   [The Ferryman](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
 
  |
 | 
@@ -320,7 +320,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 5% shorte
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 6
 
  |
 | 
@@ -338,7 +338,7 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
 -   [Second Layer](Second_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
 
  |
 | 
@@ -388,7 +388,7 @@ _"This Umbrite blade is unlike anything you've encountered. Marked and damaged b
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [The Understrand](The_Understrand.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 45
 
  |
 | 
@@ -466,7 +466,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li><a href="Star_Knight.md">Star Knight</a> and <a href="Moon_Knight.md">Moon Knight</a></li>
     <li><a href="Moon's_Eyrie.md">Moon's Eyrie</a></li>
     <li><a href="Weird_Trader.md">Weird Trader</a></li>
-    <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for</li>
+    <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 20</li>
   </ul></li>
     <li>Curse of Rhamen's Ember
   <ul>
@@ -515,6 +515,6 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 
 ## Trivia
 
--   All Relics are storeable in banks (excluding the Mantle Of Enmity), which means you can transfer them between slots. However, they do require a Vow of Safekeeping, which costs to make.
+-   All Relics are storeable in banks (excluding the Mantle Of Enmity), which means you can transfer them between slots. However, they do require a Vow of Safekeeping, which costs 1 to make.
 -   Some relics (Smith’s Alloy, Sinner’s Ash, Moonseye Tome, and Idol of Yun’Shul) were ideas by the YouTuber Agamatsu.
     -   Video: [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)

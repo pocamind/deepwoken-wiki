@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 151599
+revid: 151601
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, Items, Weapons with Consecutive Criticals]
@@ -34,7 +34,7 @@ The Enforcer's Axe is a [Heavy Weapon](Weapons.md) that is obtainable by defeati
 
 After a short windup, the user spins the Enforcer's Axe in a circle around themselves, guardbreaking and applying hyperarmor to the user for its full duration.
 
-This critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Blade](<Enforcer's_Blade.md>). This critical does around half the damage of a basic attack per hit.
+This critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Blade](<Enforcer's_Blade.md>). All hits have 0.5x scaled damage.
 
 The critical has a cooldown of **7 seconds.**
 

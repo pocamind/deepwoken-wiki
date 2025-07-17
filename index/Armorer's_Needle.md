@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 150708
+revid: 151692
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -23,11 +23,11 @@ categories: [Relics]
 
 ## Crafting
 
-One **Armorer's Needle** can be crafted by combining **5** [Smith's Alloy](<Smith's_Alloy.md>) by hand.
+One **Armorer's Needle** can be crafted by combining **5** [Smith's Alloys](<Smith's_Alloy.md>) by hand.
 
-If your slot has the Ignition Delver [Origin](Origins.md), you can craft them at the [Hollow Forge](Hollow_Forge.md) with only **3** [Smith's Alloy](<Smith's_Alloy.md>) or **9** [Pluripotent Alloy](Pluripotent_Alloy.md).
+If your slot has the [Ignition Delver](Ignition_Delver.md) Origin, you can craft them at the [Hollow Forge](Hollow_Forge.md) with only **3** [Smith's Alloys](<Smith's_Alloy.md>) or **9** [Pluripotent Alloys](Pluripotent_Alloy.md). Armorer's Needles can also be crafted back into 3 [Smith's Alloys](<Smith's_Alloy.md>) with the same method.
 
-It can also be crafted into the [Gilded Needle](Gilded_Needle.md) with 3 **Armorer's Needles** and 1 gold ore, or crafted into a [Forge Needle](Forge_Needle.md) with 1 **Armorer's Needles** and 3 [Smith's Alloy](<Smith's_Alloy.md>).
+It can also be crafted into the [Gilded Needle](Gilded_Needle.md) with 3 **Armorer's Needles** and 1 gold ore, or crafted into a [Forge Needle](Forge_Needle.md) with 1 **Armorer's Needles** and 3 [Smith's Alloys](<Smith's_Alloy.md>).
 
 ## Farming
 
@@ -78,14 +78,14 @@ When changing a pip, they will turn into any of the relevant, available pip for 
   <td>4 6 8 10</td>
 </tr>
 <tr>
-  <td>Sanity (SAN)</td>
+  <td>Sanity (SAN) (also gives 2/4/6/8 Ether)</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>4 6</td>
+  <td>46</td>
   <td>6</td>
-  <td>4 6 8</td>
+  <td>46 8</td>
 </tr>
 <tr>
   <td>Posture</td>
@@ -112,6 +112,16 @@ When changing a pip, they will turn into any of the relevant, available pip for 
   <td>3 4</td>
   <td>3 4</td>
   <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td>Anchor (+3 HP, +0.5 Pos, +10% KB res)</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>1</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>

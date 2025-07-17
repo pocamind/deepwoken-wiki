@@ -1,6 +1,6 @@
 ---
 title: Enchant Grease
-revid: 150766
+revid: 151675
 source: https://deepwoken.fandom.com/wiki/Enchant_Grease
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -17,7 +17,7 @@ categories: [Items, Relics, Layer 2]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold by Klaris Llfiend for, Sold by Laplace for 5, The Diluvian Mechanism, War Mode, Second Layer (Galewax chamber) |
+| obtainment | Sold by Klaris Llfiend for 5 , Sold by Laplace for 5 , The Diluvian Mechanism, War Mode, Second Layer (Galewax chamber) |
 | description | "An oil of enchantment: it can apply it's given Enchant to your Equipment." |
 
 ## Description
@@ -26,19 +26,23 @@ The **Enchant Grease** is a mythical-tier [Relic](Relics.md) that can be used to
 
 ## Obtainment
 
-There are three ways to obtain an Enchant Grease.
+### Non-Exclusive Enchants
 
--   Exchanging 5 [Kyrsan Medallions](Kyrsan_Medallions.md) to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) for a random enchant grease.
--   Exchanging 5 [Knowledge](Knowledge.md) to [Laplace](Laplace.md) for a random enchant grease.
+All but one of the game's Enchant Greases have non-exclusive obtainment locations, meaning there are several options available to you for their obtainment. There are three main ways to obtain an Enchant Grease.
+
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) for a random enchant grease.
+-   Exchanging 5 to [Laplace](Laplace.md) for a random enchant grease.
 -   Chance to obtain from a chest in [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [War Mode](War_Mode.md), and the [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md) of the Depths.
 
-Rain Enchant Grease is unique in that it has an exclusive obtainment method.
+### Exclusive Enchants
 
--   Sold by [The Gaunt Man](The_Gaunt_Man.md) for 25 [Rain Spires](Rain_Spire.md) and.
+These Enchant Greases can only be obtained through certain methods. Currently, the Rain enchantment is the only exclusive Enchant Grease.
+
+-   Sold by [The Gaunt Man](The_Gaunt_Man.md) for 25 [Rain Spires](Rain_Spire.md) and 10.
 
 ## Trivia
 
 -   You can use enchant grease on already enchanted equipment, it'll just switch the enchant.
 -   Enchant Grease is undroppable, but sells for 200 notes if for some reason you want to sell it
--   You can pass down Enchant Grease through the [Hippocampal Pool](Hippocampal_Pool.md) for 60 [Echoes](Echoes.md).
+-   You can pass down Enchant Grease through the [Hippocampal Pool](Hippocampal_Pool.md) for 40 [Echoes](Echoes.md).
 -   Enchant Grease was added in an update on 8/23/2024, Before this the only way to enchant equipment was to spend five [Kyrsan Medallions](Kyrsan_Medallions.md) at [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) whilst holding an equipment item.

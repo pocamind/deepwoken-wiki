@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 151493
+revid: 151664
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Outfits, Items, Mantras]
@@ -67,7 +67,7 @@ Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
   <td>4 6 8 10</td>
 </tr>
 <tr>
-  <td>Sanity (SAN) (also grants Ether)</td>
+  <td>Sanity (SAN) (also grants 2/4/6/8 Ether)</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
@@ -457,8 +457,6 @@ _+5% Shadow Armor_
 _+6% Stealth_  
 
 +2 Rare Pips
-
-_+Talent: Bloodletter_
 
 **Requires Power 8**
 

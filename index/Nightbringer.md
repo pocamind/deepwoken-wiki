@@ -1,6 +1,6 @@
 ---
 title: Nightbringer
-revid: 149804
+revid: 151615
 source: https://deepwoken.fandom.com/wiki/Nightbringer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Enchantments](Enchantments.md)
+-   [Enchantments#Nightbringer](Enchantments.md#nightbringer)

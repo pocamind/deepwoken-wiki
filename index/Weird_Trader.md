@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 146395
+revid: 151663
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant]
@@ -101,6 +101,8 @@ The event despawns after 30 minutes have elapsed or if you leave the server afte
     -   [Gobletto](Gobletto.md)
     -   [Ongo](Ongo.md)
     -   [Pomar](Pomar.md)
+    -   [Raw Heavy Meat](Raw_Heavy_Meat.md)
+    -   [Raw Parasol Brain](Raw_Parasol_Brain.md)
     -   [Redd](Redd.md)
     -   [Sap](Sap.md)
     -   [Spider Egg](Spider_Egg.md)
@@ -118,6 +120,7 @@ The event despawns after 30 minutes have elapsed or if you leave the server afte
     -   [Pure Umbrite](Ores.md#umbrite)
     -   Rock
     -   [Umbrite](Ores.md#umbrite)
+
 -   Mantra Modifiers, including:
     -   [Deep Gems](Mantra_Modifiers.md#deep-gems)
     -   [Sparks](Mantra_Modifiers.md#sparks)

@@ -1,6 +1,6 @@
 ---
 title: Atra
-revid: 144669
+revid: 151681
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
@@ -79,6 +79,8 @@ Completing his quest rewards you with EXP, positive [The Hundred Legions](The_Hu
 </table>
 
 **Subsequent Encounters:**
+
+## Navigation
 
 <table>
 <tbody>

@@ -1,11 +1,11 @@
 ---
-title: Rain (enchantment)
-revid: 151635
-source: https://deepwoken.fandom.com/wiki/Rain_(enchantment)
+title: Entanglement
+revid: 151630
+source: https://deepwoken.fandom.com/wiki/Entanglement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Rain (enchantment)
+# Entanglement
 
 Redirect to:
 

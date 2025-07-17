@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 151160
+revid: 151669
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -67,7 +67,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Deal 20% more weapon damage in PvE.<br>
   This damage bonus bypasses both the soft and hard damage multiplier caps (can reach 1.95x damage).<br>
   Critical attack or parrying 3 times in a row, shoots down a star that explodes and does 100 PvE AoE damage, 3% in PvP.<br>
-  Can be obtained via an enchant stone dropped by a <a href="Star_Knight.md">Star Knight</a> or <a href="Moon_Knight.md">Moon Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>. It can also be obtained from the <a href="Moon's_Eyrie.md">Moon's Eyrie</a> chest and <a href="Traan_Zakshun.md">Trahne Zakshun's</a> black market for 20 <a href="Crowns.md">Crowns</a>.</p></div></td>
+  Can be obtained via an enchant stone dropped by a <a href="Star_Knight.md">Star Knight</a> or <a href="Moon_Knight.md">Moon Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>. It can also be obtained from the <a href="Moon's_Eyrie.md">Moon's Eyrie</a> chest and <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 20 .</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
@@ -188,8 +188,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Parasol's Blight<div></div></font></center></td>
-  <td><div><p>On weapon attack, apply the Parasol Blight status effect. This effect has no visual indicator and lasts for 15 seconds. If a target affected by Parasol's Blight dies, their corpse will explode and a monster will spawn.</p>
-  <p>The monster can be a <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a>, <a href="Alpha_Megalodaunt.md">Alpha Megalodaunt</a>, <a href="Thresher.md">Void Thresher</a>, or a <a href="Nautilodaunt.md">Nautilodaunt</a>. These monsters can be [[Corrupted|Template:CorruptedColor]] if used in <a href="The_Depths.md">The Depths</a>.</p>
+  <td><div><p>On weapon attack, apply the Parasol Blight status effect. This effect has no visual indicator and lasts for 15 seconds. If a player who is affected by Parasol's Blight dies, their corpse will explode and a monster will spawn.</p>
+  <p>The monster can be a <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a>, <a href="Alpha_Megalodaunt.md">Alpha Megalodaunt</a>, <a href="Thresher.md">Void Thresher</a>, or a <a href="Nautilodaunt.md">Nautilodaunt</a>. These monsters can be [[Corrupted|<a href="Monsters.md#scyphozia">Corrupted</a>]] if used in <a href="The_Depths.md">The Depths</a>.</p>
   <p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b></p>
   <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 1 <a href="Parasol_Part.md">Parasol Part</a>.</p></div></td>
   <td><div>The weapon is covered in the stone texture, with the lighter parts becoming a light purple color.</div></td>
@@ -354,7 +354,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   The damage of explosion and amount of Temporary Health given are randomized. <b>Damage:</b> 5.5-40, averaging 19.7 out of 100 procs. <b>Temporary Health:</b> 0-50, averaging 25.77 out of 100 procs.<br>
   <b>Explosions cannot execute.</b><br>
   <br>
-  Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, <a href="Calamus.md">Calamus</a> job chests and turning in an <a href="Artifacts.md">Artifact</a> to bankers in the <a href="Maps.md">Eastern Luminant</a>. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a> and <a href="Fishing.md">Fishing</a> chests. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a><br>
+  Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, <a href="Cloaked_Assassin.md">Cloaked Assassin</a> chests, <a href="Calamus.md">Calamus</a> job chests and turning in an <a href="Artifacts.md">Artifact</a> to bankers in the <a href="Maps.md">Eastern Luminant</a>. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a> and <a href="Fishing.md">Fishing</a> chests. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a><br>
   Explosion has 7.56X PVE scale and Green Fire PVE scale is 6.66x. Temporary Health doesn't scale with PVE.</p></div></td>
   <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
 </tr>
@@ -378,7 +378,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p>Permanently stained health bar while the enchant is equipped.</p>
   <p>Acts very similarly to a <a href="Void_Spire.md">Void Spire</a>.</p>
   <p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b></p>
-  <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 25 <a href="Void_Spire.md">Void Spires</a> and .</p></div></td>
+  <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 25 <a href="Void_Spire.md">Void Spires</a> and 10 .</p></div></td>
   <td><div>Weapon has a stone texture and is covered in a white mist.</div></td>
 </tr>
 <tr>
@@ -601,7 +601,7 @@ If you have **Stench** on another equipment piece, or if you are in [Upper Erisi
 
 **This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
 
-Obtained from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Rain Spires](Rain_Spire.md) and.
+Obtained from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Rain Spires](Rain_Spire.md) and 10.
 
  | 
 

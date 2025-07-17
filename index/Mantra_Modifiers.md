@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 150962
+revid: 151646
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items, Gems]
@@ -331,7 +331,7 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) (Common)
 -   [Saramaed Hollow](Saramaed_Hollow.md) (Common)
 -   [War Mode](War_Mode.md) (common)
--   The Aegis Gem isn't obtained from any of the above sources, it's exclusively obtained through completing [The Vat](The_Vat.md)'s trial and then trading a [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) with the [The Gaunt Man](The_Gaunt_Man.md).
+-   The Aegis Gem isn't obtained from any of the above sources, it's exclusively obtained through completing [The Vat](The_Vat.md)'s trial and then trading a [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) with [The Gaunt Man](The_Gaunt_Man.md).
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 

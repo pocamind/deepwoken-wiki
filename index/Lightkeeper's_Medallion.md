@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 148796
+revid: 151713
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -21,14 +21,14 @@ categories: [Items, Equipment, Torso, Necklaces, Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Ferryman, Scion of Ethiron, Lysander Spellhardt, Sold in Traan Zakshun's black market for |
+| obtainment | Ferryman, Scion of Ethiron, Lysander Spellhardt, Sold in Traan Zakshun's black market for 5 |
 | description | "A medallion said to be able to emit the frequencies of the Radiant Tones for a few moments. The keepsake of a longheld dream, though one doomed to failure. The Light produced is only sufficient enough to Illuminate the wielder briefly, having no effect on the surrounding Void. The Radiant Tones can only truly be utilized by the meagre few that bear the Gift, a blessing that is thought to be granted by the unique signature of their Soul Murmur." |
 
 ## Description
 
-The Lightkeeper's Medallion is an [Equipment](Equipment.md) item under the "Torso" category.
+The Lightkeeper's Medallion is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
 
-Equipping it grants the Talent "Elegy of Light", Which grants the user an active Talent that protects the user from the effects of deep gems for three minutes. During the use of Elegy of Light, you become surrounded by a circling white aura with beams of white coming off of it. After it's used, the Talent cannot be reactivated unless a player of equal power or a [Boss](Bosses.md) is defeated.
+Equipping it grants the [Elegy of Light](Talents.md#equipment-talents) Talent, which grants the user an active Talent tool that protects the user from the effects of [Deep Gems](Deep_Gems.md) for three minutes. During the use of Elegy of Light, you become surrounded by a circling white aura with beams of white coming off of it. After it's used, the Talent cannot be reactivated unless a player of equal power or a [Boss](Bosses.md) is defeated.
 
 It's currently known to drop from [Ferryman](The_Ferryman.md) and [Scion of Ethiron](Scion_of_Ethiron.md), but other sources are likely to drop as well. While charged, the center of the medallion will glow white, signifying it's ready to be used.
 

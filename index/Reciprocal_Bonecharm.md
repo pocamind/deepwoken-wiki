@@ -1,6 +1,6 @@
 ---
 title: Reciprocal Bonecharm
-revid: 145881
+revid: 151699
 source: https://deepwoken.fandom.com/wiki/Reciprocal_Bonecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -39,4 +39,4 @@ A teleportation circle will appear below the user's feet, and after a short dela
 -   Assuming you had one previously, you will **keep your Light Hook** and it's current duration (even if it was above 10 minutes) when using this to skip the first floor.
 -   Reciprocal Bonecharm is located in the utility category in your inventory rather than the Relic category.
 -   Reciprocal Bonecharm was added alongside [Baneful Syrinx](Baneful_Syrinx.md) and [Ouroboral Husk](Ouroboral_Husk.md), with all three having the same usage; teleporting you somewhere specific.
--   Reciprocal Bonecharm can be used in the Overworld or the [Depths](First_Layer.md) to teleport yourself into the Second Layer directly.
+-   Reciprocal Bonecharm can be used in the Overworld or the [Depths](First_Layer.md) to teleport yourself directly into the Second Layer.

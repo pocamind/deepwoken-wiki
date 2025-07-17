@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 150765
+revid: 151674
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -17,7 +17,7 @@ categories: [Items, Relics, Layer 2]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Purchasing from Klaris Llfiend for, Deepshore Fossil, Saramaed Hollow, The Diluvian Mechanism, Second Layer, Maestro Evengarde Rest, Chaser, Heart of Enmity, Scion of Ethiron, War Mode, Hell Mode |
+| obtainment | Purchasing from Klaris Llfiend for 5 , Deepshore Fossil, Saramaed Hollow, The Diluvian Mechanism, Second Layer, Maestro Evengarde Rest, Chaser, Heart of Enmity, Scion of Ethiron, War Mode, Hell Mode |
 | description | "A shard of enchantment, it can apply its given Enchant to your currently equipped weapon" |
 
 ## Description
@@ -30,9 +30,9 @@ There are multiple ways to obtain an Enchant Stone, the usual and best source be
 
 ### Non-Exclusive Enchants
 
-Most of the game's enchantments have non-exclusive obtainment locations, meaning there are several options available to you for their obtainment.
+Most of the game's Enchant Stones have non-exclusive obtainment locations, meaning there are several options available to you for their obtainment.
 
--   Exchanging to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) for a random non-exclusive Enchant Stone.
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) for a random non-exclusive Enchant Stone.
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) will grant you any non-exclusive Enchant Stone of your choice. You can only obtain one [Deepshore Fossil](Deepshore_Fossil.md) per character.
 -   Chance to obtain from a chest from several bosses including: [The Heart of Enmity](Heart_of_Enmity.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [The Dread Serpent](Dread_Serpent.md), [Scion of Ethiron](Scion_of_Ethiron.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Chance to obtain from a chest from several dungeons including: [Second Layer](Second_Layer.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and [Saramaed Hollow](Saramaed_Hollow.md).
@@ -41,13 +41,13 @@ Most of the game's enchantments have non-exclusive obtainment locations, meaning
 
 ### Exclusive Enchants
 
-These enchants can only be obtained through certain methods. These are: Astral, Curse of Rhaemen's Ember, Nighbringer, Parasol's Blight, and Void.
+These Enchant Stones can only be obtained through certain methods. These are: Astral, Curse of Rhaemen's Ember, Nighbringer, Parasol's Blight, and Void.
 
--   Astral can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md).
+-   Astral can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md). Astral can also be sold for 20 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   Curse of Rhaemen's Ember Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, defeating [Rogue Constructs](Rogue_Construct.md), as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) or [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely).
 -   Nightbringer drops directly from [Parliament](Parliament.md) and [Prime Megalodaunts](Prime_Megalodaunt.md).
 -   Parasol's Blight can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
--   Void can exclusively be bought from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Void Spires](Void_Spire.md) and.
+-   Void can exclusively be bought from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Void Spires](Void_Spire.md) and 10.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Deferred
-revid: 131548
+revid: 151619
 source: https://deepwoken.fandom.com/wiki/Deferred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Enchantments](Enchantments.md)
+-   [Enchantments#Deferred](Enchantments.md#deferred)

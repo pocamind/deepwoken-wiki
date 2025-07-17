@@ -1,11 +1,11 @@
 ---
-title: Rain (enchantment)
-revid: 151635
-source: https://deepwoken.fandom.com/wiki/Rain_(enchantment)
+title: Ferocity
+revid: 151631
+source: https://deepwoken.fandom.com/wiki/Ferocity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Rain (enchantment)
+# Ferocity
 
 Redirect to:
 

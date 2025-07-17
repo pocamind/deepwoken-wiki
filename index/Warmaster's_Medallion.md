@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 150930
+revid: 151711
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -15,7 +15,7 @@ categories: [Items, Equipment, Torso, Necklaces, Relics]
 | selling price | 100 |
 | requirements | PWR 8 |
 | weight | 0.5 |
-| innate stats | 1 Legendary Pip |
+| innate stats | +1 Legendary Pip |
 | innate talent | Actions Speak Louder |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,11 +26,9 @@ categories: [Items, Equipment, Torso, Necklaces, Relics]
 
 ## Description
 
-The Warmaster's Medallion is an [Equipment](Equipment.md) item under the "Torso" category.
+The Warmaster's Medallion is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
 
-Equipping it grants the Talent "Actions Speak Louder" which states "Your Critical Attack cooldown is 20% shorter, but your Resonance cooldowns are 20% longer. In areas where your Resonance is suppressed, reduces your cooldown by 5% instead."
-
-If used in [Chime of Conflict](Chime_of_Conflict.md), your Critical cooldown is only reduced by 5% unless in 2v2s or 3v3s. (needs testing)
+Equipping it grants the [Actions Speak Louder](Talents.md#equipment-talents) Talent, reducing the cooldown of your weapon's critical attack by 20%, but increasing the cooldown of your [Resonance](Resonance.md) by 20%. In areas where you cannot use your Resonance ([Chime of Conflict](Chime_of_Conflict.md)), your critical attack cooldown will only be reduced by 5% instead.
 
 ## Tips/Trivia
 

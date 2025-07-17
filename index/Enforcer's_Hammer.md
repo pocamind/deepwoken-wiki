@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 149633
+revid: 151606
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Drops, Heavy Weapons, Weapons with Consecutive Criticals]
@@ -25,7 +25,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Drops, Heavy 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Dropped directly from the Enforcer |
+| obtainment | The Enforcer |
 | description | "The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation." |
 
 ## Description
@@ -34,7 +34,11 @@ The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from [T
 
 ## Critical
 
-After a short windup, the user spins the Enforcer's Hammer in a circle around themselves. This critical applies hyperarmor to the user for its full duration. This critical also instantly guardbreaks. Moreover, this critical is also shared with [Enforcer's Axe](<Enforcer's_Axe.md>), as well as the [Enforcer's Blade](<Enforcer's_Blade.md>), meaning that it deals slash damage instead of blunt damage. This critical does around half the damage of a basic attack per hit.
+After a short windup, the user spins the Enforcer's Hammer in a circle around themselves, and applying hyperarmor to the user for its full duration.
+
+This critical is also shared with [Enforcer's Blade](<Enforcer's_Blade.md>), as well as the [Enforcer's Axe.](<Hero's_Blade_of_Shadow.md>) All hits have 0.5x scaled damage.
+
+The critical has a cooldown of **7 seconds.**
 
 ## Trivia
 

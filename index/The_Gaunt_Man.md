@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 151583
+revid: 151696
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -14,7 +14,7 @@ categories: [NPCs, Vendors]
 
 ## Description
 
-The Gaunt Man is a tall and pale NPC that resides in the depths that gives access to some endgame content and items.
+The Gaunt Man is a tall and pale NPC that resides in [The Depths](The_Depths.md) that gives access to some endgame content and items.
 
 The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that contains 3 dangerous mobs the player will be tasked with fighting; [Fury Nautilodaunt](Fury_Nautilodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), and [Parliament](Parliament.md). Upon completing this experiment, the Gaunt Man will grant you access to his shop, containing exclusive enchants and even an exclusive Deep Gem.
 
@@ -186,10 +186,10 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
   <td colspan="3">Who - or what - are you, exactly?</td>
 </tr>
 <tr>
-  <td colspan="3">Purchases <a href="Enchantments.md#curses"><font><u>Curse of Void</u></font></a> Enchant Stone</td>
-  <td colspan="3">Purchases <a href="Enchantments.md#equipment"><font><u>Rain</u></font></a> Enchant Grease</td>
-  <td colspan="3">Purchases <a href="Enchantments.md#equipment"><font><u>Parasol's Blight</u></font></a> Enchant Stone</td>
-  <td colspan="3">Purchases <a href="Mantra_Modifiers.md#deep-gems"><font><u>Aegis Gem</u></font></a></td>
+  <td colspan="3">Purchases <a href="Curse_of_Void.md"><font><u>Curse of Void</u></font></a> Enchant Stone</td>
+  <td colspan="3">Purchases <a href="Environmental_Hazards.md"><font><u>Rain</u></font></a> Enchant Grease</td>
+  <td colspan="3">Purchases <a href="Parasol's_Blight.md"><font><u>Parasol's Blight</u></font></a> Enchant Stone</td>
+  <td colspan="3">Purchases <a href="Aegis_Gem.md"><font><u>Aegis Gem</u></font></a></td>
   <td colspan="3">[Enter Dungeon]</td>
   <td colspan="3">Mm. Let me try a metaphor. If you are a stalk of wheat, then I am a loaf of bread. This is a fitting analogy.</td>
 </tr>

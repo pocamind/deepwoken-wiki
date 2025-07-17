@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 151585
+revid: 151639
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -129,7 +129,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Apex Predator_ (Grand Feast, Sunken Predator) **(Note; Cannot give Carnivore)**
 -   _Athlete_ (Triathlete, Pitcher)
 -   _Escape Artist_ (Robber Baron)
--   _Marauder_ (Bloodletter, Anxious Guard, Old Habits Die Hard) **(Note; Cannot give Aggressive Posture, Thresher Claws)**
+-   _Marauder_ ( Anxious Guard, Old Habits Die Hard) **(Note; Cannot give Thresher Claws)**
 -   _Miscellaneous_ (Berserker, Full Reset, Gourmand, Heavy Haul, Martyr, Packmule, Polite Awakening, Ready or Not, Replenishing Knockout) **(Note; Cannot give Impervious Slumber)**
 -   _Murmur_ (Ardour Scream)
 -   _Natural Armor_ (Lightweight, Padded Armor, Steel Scales)
