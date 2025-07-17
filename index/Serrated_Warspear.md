@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 150605
+revid: 151983
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Medium Weapons]
@@ -19,13 +19,14 @@ categories: [Weapons, Spears, Drops, Medium Weapons]
 | penetration | 20% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 50 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Corrupted King Thresher, Corrupted Thresher, Corrupted Void Thresher, Corrupted Nightmare Thresher |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Silver Sabatons
-revid: 133272
+revid: 151972
 source: https://deepwoken.fandom.com/wiki/Silver_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Sabatons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, Duke Erisia, Starswept Valley, Chime of Conflict, Maestro Evengarde Rest |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Unsung Scythern
-revid: 133308
+revid: 151805
 source: https://deepwoken.fandom.com/wiki/Unsung_Scythern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greataxes, Developer Spec]
@@ -28,7 +28,7 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Exclusive Weapon |
-| description | "Forged in the tumultuous fires of the Canticlysm, the Unsung Scythern stands as a testament to the resilience of humanity in the face of chaos. Crafted by ancient hands, its blade bears the weight of forgotten histories and lost civilizations. This weapon channels the echoes of a bygone era, whispering tales of survival. With each swing, it carves through the veil of time." |
+| description | Forged in the tumultuous fires of the Canticlysm, the Unsung Scythern stands as a testament to the resilience of humanity in the face of chaos. Crafted by ancient hands, its blade bears the weight of forgotten histories and lost civilizations. This weapon channels the echoes of a bygone era, whispering tales of survival. With each swing, it carves through the veil of time. |
 
 ## Description
 

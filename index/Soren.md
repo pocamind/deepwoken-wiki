@@ -1,6 +1,6 @@
 ---
 title: Soren
-revid: 151550
+revid: 151958
 source: https://deepwoken.fandom.com/wiki/Soren
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | caption | The signature outfit of Wishmakers, a group of Lightborn sorcerers now lost to time. |
 | tier | Unique (Spec/Mod) |
-| price | 30 Notes |
+| price | 30 |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 4000 |

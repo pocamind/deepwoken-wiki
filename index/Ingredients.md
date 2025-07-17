@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 151645
+revid: 151874
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -54,6 +54,7 @@ Raw materials harvested from the environment.
 -   [Sap](Sap.md) - Amber streak of sap that appears on large trees.
 -   [Scallop](Scallop.md) - Found in [Scyphozia](First_Layer.md).
 -   [Urchin](Urchin.md) - Found in [Scyphozia](First_Layer.md)
+-   [Thresher Egg](Thresher_Egg.md) - Found in Thresher nests.
 
 ### Ores
 
@@ -130,6 +131,8 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
     -   [Raw Parasol Brain](Raw_Parasol_Brain.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
     -   [Weathered Timepiece](Weathered_Timepiece.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+    -   [Temporal Crux](Temporal_Crux.md)
 
 ### Mantra Ingredients
 

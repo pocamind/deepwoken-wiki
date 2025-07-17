@@ -1,6 +1,6 @@
 ---
 title: Vanguard Brace
-revid: 150544
+revid: 151801
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Braces]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Braces]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Lodestar |
-| description | "..." |
+| description | ... |
 
 ## Description
 

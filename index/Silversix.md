@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 146911
+revid: 151971
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
 | swing speed | 1.17x |
 | stances | 1 Handed |
 | offhand | Yes |
+| selling price | 7 |
 | weight | 1 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starter Weapon: Silversix Echo Unlock |
-| description | "A pistol passed down by your ancestors." |
+| description | A pistol passed down by your ancestors. |
 
 ## Description
 

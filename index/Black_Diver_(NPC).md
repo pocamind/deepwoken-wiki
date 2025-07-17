@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 151206
+revid: 151752
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Divers, Diver Enemies]
@@ -8,11 +8,11 @@ categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, T
 
 # Black Diver (NPC)
 
-_This is the Black Diver NPC. To see the Master [Armour](Outfits.md) under the same name, check [Black Diver](Black_Diver.md)._Template:EnemyInfobox1.0
+_This is the Black Diver NPC. To see the Master [Outfit](Outfits.md) under the same name, check [Black Diver](Black_Diver.md)._Template:EnemyInfobox1.0
 
 ## Description
 
-Black Divers Divers are town guard reinforcements that can appear within [Castle Light](Castle_Light.md).
+Black Divers are town guard reinforcements that can appear within [Castle Light](Castle_Light.md).
 
 They are also enemies that appear as part of "Villain" reputation [ambush events](Faction_Ambushes.md) for high level players from [The Divers](The_Divers.md).
 
@@ -22,7 +22,7 @@ If you talk to him in [The Understrand](The_Understrand.md), he will get mad at 
 
 A Black Diver's arsenal consists of the Oath [Dawnwalker](Oath%253A_Dawnwalker.md) and either a [Forgotten Gladius](Forgotten_Gladius.md), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Pale Morning](Pale_Morning.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement. They fittingly wear the [Black Diver](Black_Diver.md) armor.
 
-\* Only used Black Diver (Ambush) and Black Diver (Tideknight)  
+\* Only used by Ambush variant and Tideknight variant.  
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

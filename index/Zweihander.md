@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 151061
+revid: 151888
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons, Heavy Weapons]
@@ -10,15 +10,15 @@ categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons
 
 | Zweihander | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Zweihander |
 | type | Greatsword |
-| requirements | 20 HVY, 10 STR / Template:AlloyedColor HVY, 10 STR |
-| damage | 22 / Template:AlloyedColor |
-| scaling | HVY: 7 / HVY: Template:AlloyedColor |
+| requirements | 20 HVY, 10 STR / 75 HVY, 10 STR |
+| damage | 22 / 23 |
+| scaling | HVY: 7 / HVY: 10 |
 | range | 9 |
-| swing speed | 0.8x / Template:AlloyedColor |
+| swing speed | 0.8x / 0.83x |
 | endlag | 0.1s |
-| penetration | Template:AlloyedColor |
+| penetration | 10% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 14 |
 | weight | 7 |
@@ -26,7 +26,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Etris Weaponry (100 ), Erisia, Dread Serpent, LodestarTemplate:AlloyedColor, Alloying a Zweihander |
+| obtainment | Etris Weaponry (100 ), Erisia, Dread Serpent, LodestarAlloyed:, Alloying a Zweihander |
 | description | Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy. |
 
 ## Description

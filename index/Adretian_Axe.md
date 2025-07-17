@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 151453
+revid: 151914
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -10,21 +10,21 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 
 | Adretian Axe | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
-| requirements | 35 HVY / Template:AlloyedColor HVY |
+| alloyed name | Alloyed Adretian Axe |
+| requirements | 35 HVY / 75 HVY |
 | damage | 24 |
-| scaling | HVY: 7 / HVY: Template:AlloyedColor |
+| scaling | HVY: 7 / HVY: 8 |
 | range | 8 |
-| swing speed | 0.85x / Template:AlloyedColor |
-| penetration | Template:AlloyedColor |
-| chip damage | Template:AlloyedColor |
+| swing speed | 0.85x / 0.87x |
+| penetration | 10% |
+| chip damage | 10% |
 | selling price | 25 |
-| weight | 5 / Template:AlloyedColor |
+| weight | 5 / 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, First Layer, Duke Erisia, Maestro Evengarde Rest, Chaser, War Mode, Bought from Traan Zakshun for 300 , Lodestar, Dread Serpent, Heart of EnmityTemplate:AlloyedColor, Alloying an Adretian Axe, Dread Serpent, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Lodestar |
+| obtainment | Fort Merit, First Layer, Duke Erisia, Maestro Evengarde Rest, Chaser, War Mode, Bought from Traan Zakshun for 300 , Lodestar, Dread Serpent, Heart of EnmityAlloyed:, Alloying an Adretian Axe, Dread Serpent, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Lodestar |
 | description | A bound axe in the typical Adretian fashion. |
 
 ## Description

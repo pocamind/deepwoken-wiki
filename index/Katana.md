@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 149667
+revid: 151900
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
@@ -10,23 +10,23 @@ categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons wit
 
 | Katana | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Katana |
 | type | Sword |
-| requirements | 25 MED / Template:AlloyedColor MED |
-| damage | 18 / Template:AlloyedColor |
-| scaling | MED: 6 / MED: Template:AlloyedColor |
+| requirements | 25 MED / 75 MED |
+| damage | 18 / 20 |
+| scaling | MED: 6 / MED: 7 |
 | range | 8 |
 | swing speed | 1x |
-| penetration | Template:AlloyedColor |
-| chip damage | Template:AlloyedColor |
+| penetration | 10% |
+| chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Primadon, Titan of the East, Moon's Eyrie, The Diluvian Mechanism, Lodestar, Songseeker Wilds, Bought from Traan Zakshun for, Crypt of the Unbroken, Chime of Conflict, Dread Serpent, Duke Ishamon ErisiaTemplate:AlloyedColor, Alloying a Katana, Maestro Evengarde Rest, Dread Serpent, Lodestar |
-| description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
+| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Primadon, Titan of the East, Moon's Eyrie, The Diluvian Mechanism, Lodestar, Songseeker Wilds, Bought from Traan Zakshun for 300 , Crypt of the Unbroken, Chime of Conflict, Dread Serpent, Duke Ishamon ErisiaAlloyed:, Alloying a Katana, Maestro Evengarde Rest, Dread Serpent, Lodestar |
+| description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
 
 ## Description
 

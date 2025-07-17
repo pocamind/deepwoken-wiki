@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 148184
+revid: 151876
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea, Isle of Vigil, Temple of the Blade]
@@ -37,21 +37,21 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 #### Bookstore
 
--   Players can purchase the Weapon Manual (WEP), "How To Make Friends" (CHA), Encyclopedia (INT) for.
+-   Players can purchase the Weapon Manual (WEP), "How To Make Friends" (CHA), Encyclopedia (INT) for 25.
 -   Players can find [Kelsius](Kelsius.md) whom will give you a quest.
 -   Players can find [Valkior](Valikor.md), a NPC who sells the Talent [Spell Shout](Valikor.md).
--   Players can purchase the Math Textbook (INT) for.
+-   Players can purchase the Math Textbook (INT) for 30.
 -   Players can find a [Mantra Table](Mantra_Lectern.md) in here, along with a [Crafting Station](Crafting_Station.md).
 
 #### Blacksmith
 
 -   Players can find Baragan, a [Blacksmith](Blacksmith.md) NPC.
 -   Players can purchase materials here:
-    -   Fiber for.
-    -   Flint for.
-    -   Cloth for.
-    -   Iron for.
-    -   Gold for.
+    -   Fiber for 3.
+    -   Flint for 3.
+    -   Cloth for 6.
+    -   Iron for 25.
+    -   Gold for 50.
 -   Players can find a [Crafting Station](Crafting_Station.md) here.
 
 #### Training Hall
@@ -61,7 +61,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
     -   The [Blade Instructor](Blade_Instructor.md) cannot knock you (except in rare cases). Once you reach 0 HP, your health will be refilled to about ~90% and the spar will end.
     -   Players can also use the [Blade Instructor](Blade_Instructor.md) to farm Fortitude using a Training Vest, or to train attributes when starting their character.
     -   Players can also find [Avian](Avian.md) and [Maestro Evengarde Rest](Evengarde_Rest.md) here.
--   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for each
+-   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for 25 each
 
 -   A shortcut to the Training hall and Blacksmith Area can be found on the stairway leading to the Temple of the Blade.
 
@@ -72,7 +72,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   To start this quest, talk to Lance's brother, the food vendor near the docks.
 -   If asked to be helped, a red food crate appears on the ground, and Lance's brother tells you to deliver it to Stratos.
 -   Stratos is located near the water fountain in the Temple of the Blade.
--   Upon delivery, Stratos gives you, enough XP to reach power 2, and some positive rep with Etris.
+-   Upon delivery, Stratos gives you 25, enough XP to reach power 2, and some positive rep with Etris.
 
 ### Etrean Swordsman Quest
 

@@ -1,9 +1,9 @@
 ---
 title: Treasures
-revid: 150556
+revid: 151813
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gems, Items, Mechanics]
+categories: [Items]
 ---
 
 # Treasures

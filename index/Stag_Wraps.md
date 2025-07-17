@@ -1,6 +1,6 @@
 ---
 title: Stag Wraps
-revid: 138214
+revid: 151953
 source: https://deepwoken.fandom.com/wiki/Stag_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Items, Equipment, Arms, Wraps, Developer Spec]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Arms |
 | rarity | Common |
-| selling price | 7 |
+| selling price | N/A |
 | requirements | None |
 | weight | 2 |
 | innate stats | +60 Health+5 Posture |
@@ -24,7 +24,7 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Exclusive Equipment |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: The Vigils
-revid: 138527
+revid: 151838
 source: https://deepwoken.fandom.com/wiki/The_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Etrea]

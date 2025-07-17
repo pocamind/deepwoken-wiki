@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 146910
+revid: 151966
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Event Item, Hallowtide, Light Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Rapiers, Event Item, Hallowtide, Light Weapons]
 | swing speed | 1.08x |
 | penetration | 10% |
 | stances | 1 Handed |
+| selling price | 50 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
-| description | "Upon holding the blade, it feels as if the skulls adorning it are warm, somehow. What is this, truly?" |
+| description | Upon holding the blade, it feels as if the skulls adorning it are warm, somehow. What is this, truly? |
 
 ## Description
 

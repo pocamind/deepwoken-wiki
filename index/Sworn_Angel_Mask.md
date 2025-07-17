@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel Mask
-revid: 148288
+revid: 151916
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Masks]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Sworn Angel |
-| description | "..." |
+| description | ... |
 
 ## Description
 

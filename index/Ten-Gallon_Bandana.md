@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Bandana"
-revid: 135139
+revid: 151873
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Bandanas]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Duke Ishamon Erisia, First Layer, Songseeker Wilds, Minityrsa, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chaser, Scholar of the Crimson Contract |
-| description | "..." |
+| description | ... |
 
 ## Description
 

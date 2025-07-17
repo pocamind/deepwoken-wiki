@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 150202
+revid: 151875
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Megalodaunt_(disambiguation).md>)._ Template:Creature Infobox V3
 
-## **Description**
+## Description
 
 The Prime Megalodaunt is a powerful [Megalodaunt](Megalodaunt.md) variant, spawning exclusively as the second trial in [The Vat](The_Vat.md).
 
@@ -149,6 +149,4 @@ Dodgeable?: ◯
 
 ## Trivia
 
--   Featured in Agamatsu's Depths Games event.
-
--   ~Considering this, it is the "first" Prime Monster to be added in Deepwoken~ Prime Golem is the first "Prime" Monster to be added into Deepwoken
+-   Featured in Agamatsu's "Depths Games" event.

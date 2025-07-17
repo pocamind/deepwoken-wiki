@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 151096
+revid: 151849
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons, Spears]
@@ -25,7 +25,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons,
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chef Odiolavoro |
-| description | "Where's the crabbo SAUUUCE?" |
+| description | Where's the crabbo SAUUUCE? |
 
 ## Description
 

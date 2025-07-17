@@ -1,9 +1,9 @@
 ---
 title: Umbrite Witherblade
-revid: 146938
+revid: 151784
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons]
+categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics]
 ---
 
 # Umbrite Witherblade
@@ -44,15 +44,11 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 -   [Razor Cutlass](Razor_Cutlass.md)
 -   3 [Umbrite](Ores.md)
 
-Meeting the Requirement of 65 MED, the damage is **20.6 + 6.2 \[BLD\]**
-
-At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is **31 + 9.3\[BLD\]**
-
-Wielding this weapon with the [Darkened Bastion](Darkened_Bastion.md) Outfit equipped will apply an additional 25% of your weapon's scaled damage as Wither on M1s. Most other weapons have halved effectiveness with this Outfit, only applying 12.5% of their scaled damage as Wither.
+Wielding this weapon with the [Darkened Bastion](Darkened_Bastion.md) Outfit equipped will apply an additional 25% of your weapon's scaled damage as Wither on M1s. Most other weapons have halved effectiveness with this Outfit, only applying 12.5% of their scaled damage as Wither. This stacks additively with the innate Wither application.
 
 ## Critical
 
-The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second knocking back the target Both hits apply **bleed**. The windup of the first slash is 0.6s, and the windup of the second slash is 0.475s. There is 0.2s of endlag after the critical attack.
+The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second knocking back the target Both hits apply [bleed](Status_Effects.md#bleed). The windup of the first slash is 0.6s, and the windup of the second slash is 0.475s. There is 0.2s of endlag after the critical attack.
 
 The first hit has 0.2s of hyper armor and deals **0.35x** of your weapon's scaled damage, applies **20 Wither** regardless of scaling and damage modifiers. The first slash also applies 10s of full Antiheal, dazes for 1 second, and deals 10 posture damage with 45% chip.
 
@@ -62,8 +58,10 @@ The cooldown for this critical is **8** seconds.
 
 ## Trivia
 
+-   Meeting the Requirement of 65 MED, the damage is 20.6 + [6.2 \[BLD\]](Status_Effects.md#bleed)
+-   At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is 31 + [9.3\[BLD\]](Status_Effects.md#bleed)
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
--   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to act as a placeholder.
+-   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to prevent datamining.
 -   During it's release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted but the heartbeat noises still stay.
 -   While equipped, the Umbrite Witherblade will display heartbeat noises as well as a incomprehensible whisper followed by a ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.

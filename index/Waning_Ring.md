@@ -1,6 +1,6 @@
 ---
 title: Waning Ring
-revid: 150533
+revid: 151778
 source: https://deepwoken.fandom.com/wiki/Waning_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -21,7 +21,7 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Understrand, Saramaed Hollow, Aelita, The Ferryman, The Doom of Caeranthil, Duke Ishamon Erisia, First Layer, Interluminary Parasol, Second Layer, Ancient Rotlands, Moon's Eyrie, Primadon, Titan of the East, Maestro Evengarde Rest, The Diluvian Mechanism |
-| description | "A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike." |
+| description | A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 147013
+revid: 151943
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -21,13 +21,14 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | chip damage | 10% |
 | special effect | Crit can charge up. Unparryable, and large AOE |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 100 |
 | weight | 12 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Duke Erisia, Physical DropRoughly 10-15% drop rate |
-| description | "A hammer pieced together from the remains of one of Duke Ishamon Erisia's Golems. Conjured by the Duke's Resonance, they once patrolled his estate in Celtor before its fall. From the reports of spies hired by rival nobles in the city, he was only able to support a limited number of golems - his acquisition of the Forge of Sin seems to have extended his capacity by other, more sinister means." |
+| description | A hammer pieced together from the remains of one of Duke Ishamon Erisia's Golems. Conjured by the Duke's Resonance, they once patrolled his estate in Celtor before its fall. From the reports of spies hired by rival nobles in the city, he was only able to support a limited number of golems - his acquisition of the Forge of Sin seems to have extended his capacity by other, more sinister means. |
 
 ## Description
 

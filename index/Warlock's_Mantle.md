@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Mantle"
-revid: 150503
+revid: 151774
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Mantles, World Event]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Mantles, World Event]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Doom of Caeranthil |
-| description | "A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle." |
+| description | A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle. |
 
 ## Description
 

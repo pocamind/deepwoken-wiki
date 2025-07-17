@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 146925
+revid: 151897
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Medium Weapons]
@@ -10,22 +10,23 @@ categories: [Pages with broken file links, Weapons, Swords, Weapons of The Centr
 
 | Officer Saber | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Officer Saber |
 | type | Sword |
-| requirements | 30 MED / Template:AlloyedColor MED |
-| damage | 22 / Template:AlloyedColor |
-| scaling | MED: 4.5 / MED: Template:AlloyedColor |
+| requirements | 30 MED / 75 MED |
+| damage | 22 / 23 |
+| scaling | MED: 4.5 / MED: 4.8 |
 | range | 8 |
 | swing speed | 1x |
-| chip damage | Template:AlloyedColor |
+| chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 14 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, The Depths, Dread Serpent, Lodestar, Chime of ConflictTemplate:AlloyedColor, Alloying an Officer Saber, Moon's Eyrie, Duke Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity |
-| description | "The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories." |
+| obtainment | Fort Merit, The Depths, Dread Serpent, Lodestar, Chime of ConflictAlloyed, Alloying an Officer Saber, Moon's Eyrie, Duke Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity |
+| description | The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories. |
 
 ## Description
 

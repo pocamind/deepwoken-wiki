@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 151407
+revid: 151890
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
@@ -10,14 +10,14 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, L
 
 | Whaling Knife | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Whaling Knife |
 | type | Dagger |
-| requirements | 40 / Template:AlloyedColor LHT |
+| requirements | 40 / 75 LHT |
 | damage | 15 |
-| scaling | LHT: 5 / Template:AlloyedColor |
+| scaling | LHT: 5 / 8 |
 | range | 6 |
 | swing speed | 1.25x |
-| penetration | Template:AlloyedColor |
+| penetration | 15% |
 | special effect | Has a unique critical attack consisting of a single forward slash with a red trail. |
 | stances | 1 Handed |
 | selling price | 25 / 50 |
@@ -26,7 +26,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, L
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Knives of Eylis Events, Rook Rethige, Duke Ishamon Erisia, Deep Widow, Moon's Eyrie, Lodestar, Layer 1, Interluminary Parasol, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Scion of EthironBought from Traan Zakshun for 300 Template:AlloyedColor, Alloying a Whaling Knife, Primadon, Titan of the East (Rare Chance), Heart of Enmity, The Doom of Caeranthil |
+| obtainment | Chests from:, Knives of Eylis Events, Rook Rethige, Duke Ishamon Erisia, Deep Widow, Moon's Eyrie, Lodestar, Layer 1, Interluminary Parasol, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Scion of EthironBought from Traan Zakshun for 300 Alloyed:, Alloying a Whaling Knife, Primadon, Titan of the East (Rare Chance), Heart of Enmity, The Doom of Caeranthil |
 | description | The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critcal Damage if you wield 'Knife's Journey'. |
 
 ## Description

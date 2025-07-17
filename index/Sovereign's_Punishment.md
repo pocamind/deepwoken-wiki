@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 147012
+revid: 151955
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons]
@@ -19,13 +19,14 @@ categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weap
 | penetration | 20% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 50 |
 | weight | 13 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fort Merit, The Aratel Sea, Lightkeeper Temple, Random Encounters (Sea events), The Starswept Valley, Saramaed Hollow, Fishing |
-| description | "A ceremonial hammer meant to represent the strength of the Authority Law. Considered unwieldy and unusable for battle. Until you picked it up." |
+| description | A ceremonial hammer meant to represent the strength of the Authority Law. Considered unwieldy and unusable for battle. Until you picked it up. |
 
 ## Description
 

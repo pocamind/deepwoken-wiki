@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 151325
+revid: 151887
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2689,7 +2689,7 @@ _**"My cure is most effective."**_
 > _**"I seek the qualities of the Scoundrel."**_
 
 -   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. 5s Cooldown (+1 Passive Agility)
-    -   The "bleed" does not refer to **Bleed Damage**, but rather a very miniscule amount of damage to the blood bar.
+    -   The "bleed" does not refer to, but rather a very miniscule amount of damage to the blood bar.
         -   The damage is so small, that there is no pixel difference between the damage received with or without it.
     -   The cooldown is actually 8 seconds despite what the Talent description says.
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
@@ -2958,6 +2958,7 @@ _**"My cure is most effective."**_
 
 -   Friends in High Places \[Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay!
     -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
+    -   Angering a faction by attacking a player ally of their own will prevent guards from aggroing on you.
     -   Prerequisite: 20 Charisma
 
 -   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown)

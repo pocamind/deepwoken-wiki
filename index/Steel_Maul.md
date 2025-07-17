@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 151002
+revid: 151947
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons]
@@ -10,15 +10,15 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 
 | Steel Maul | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Steel Maul |
 | type | Greathammer |
-| requirements | 20 HVY, 10 STR / Template:AlloyedColor HVY, 10 STR |
-| damage | 22 / Template:AlloyedColor |
-| scaling | HVY: 7 / HVY: Template:AlloyedColor |
+| requirements | 20 HVY, 10 STR / 75 HVY, 10 STR |
+| damage | 22 / 24 |
+| scaling | HVY: 7 / HVY: 8 |
 | range | 9 |
-| swing speed | 0.8x / Template:AlloyedColor |
+| swing speed | 0.8x / 0.85x |
 | endlag | 0.1s |
-| penetration | Template:AlloyedColor |
+| penetration | 10% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 7 |
 | weight | 7 |
@@ -26,9 +26,8 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Weapon shop in Etris, Lower Erisia (Chests), Chime of Conflict, Brainsucker, Isle of Vigils (Chests)Template:AlloyedColor, Alloying a Steel Maul |
-
-|description="A sturdy maul perfect for knocking walls and people down alike." }}
+| obtainment | Weapon shop in Etris, Lower Erisia (Chests), Chime of Conflict, Brainsucker, Isle of Vigils (Chests)Alloyed:, Alloying a Steel Maul |
+| description | A sturdy maul perfect for knocking walls and people down alike. |
 
 ## Description
 

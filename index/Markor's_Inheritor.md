@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 150761
+revid: 151899
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -10,15 +10,15 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The
 
 | Markor's Inheritor | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Inheritor |
 | type | Greatsword |
-| requirements | 30 HVY, 10 STR / Template:AlloyedColor HVY, 10 STR |
+| requirements | 30 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 24 |
-| scaling | HVY: 7 / HVY: Template:AlloyedColor |
+| scaling | HVY: 7 / HVY: 8 |
 | range | 8.5 |
 | swing speed | 0.85x |
-| endlag | 0.1s / Template:AlloyedColor |
-| penetration | Template:AlloyedColor |
+| endlag | 0.1s / N/A |
+| penetration | 15% |
 | special effect | Has a Navae fist style critical. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 14 |
@@ -27,8 +27,8 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Ministry Agent, Starswept Valley, Bounty (Chests), Lodestar, Deep Widow, Merchant Ships, Chime of ConflictTemplate:AlloyedColor, Alloying a Markor's Inheritor, Dread Serpent, Lodestar |
-| description | "The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself." |
+| obtainment | The Depths, Ministry Agent, Starswept Valley, Bounty (Chests), Lodestar, Deep Widow, Merchant Ships, Chime of ConflictAlloyed:, Alloying a Markor's Inheritor, Dread Serpent, Lodestar |
+| description | The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. |
 
 ## Description
 

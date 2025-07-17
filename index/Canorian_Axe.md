@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 149684
+revid: 151913
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -10,24 +10,24 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 
 | Canorian Axe | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Canorian Axe |
 | type | Greataxe |
-| requirements | 35 HVY / Template:AlloyedColor HVY |
+| requirements | 35 HVY / 75 HVY |
 | damage | 24 |
-| scaling | HVY: 7 / HVY: Template:AlloyedColor |
+| scaling | HVY: 7 / HVY: 9 |
 | range | 8 |
 | swing speed | 0.83x |
-| penetration | Template:AlloyedColor |
-| chip damage | Template:AlloyedColor |
+| penetration | 20% |
+| chip damage | 10% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 25 |
-| weight | 6 / Template:AlloyedColor |
+| weight | 6 / 8 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia, Minityrsa, Lodestar, Songseeker Wilds, The Monkey's Paw, Merchant Ships, Crypt of the Unbroken, Dread Serpent, Chime of ConflictTemplate:AlloyedColor, Alloying a Canorian Axe |
-| description | "An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire." |
+| obtainment | Lower Erisia, Minityrsa, Lodestar, Songseeker Wilds, The Monkey's Paw, Merchant Ships, Crypt of the Unbroken, Dread Serpent, Chime of ConflictAlloyed:, Alloying a Canorian Axe |
+| description | An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire. |
 
 ## Description
 

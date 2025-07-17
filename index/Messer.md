@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 146920
+revid: 151898
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Alloyed Weapons, Medium Weapons]
@@ -11,22 +11,22 @@ categories: [Weapons, Swords, Alloyed Weapons, Medium Weapons]
 | Messer | |
 |---|---|
 | type | Sword |
-| requirements | 10 / Template:AlloyedColor MED |
-| damage | 20 / Template:AlloyedColor |
-| scaling | MED: 5 / MED: Template:AlloyedColor |
+| requirements | 10 / 75 MED |
+| damage | 20 / 21 |
+| scaling | MED: 5 / MED: 6 |
 | range | 7.5 |
 | swing speed | 0.93x |
-| penetration | Template:AlloyedColor |
-| chip damage | Template:AlloyedColor |
+| penetration | 15% |
+| chip damage | 15% |
 | stances | 2 Handed, 1 Handed |
 | selling price | 7 |
-| weight | 6 / Template:AlloyedColor |
+| weight | 6 / 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Etris Weapon shop, Erisia Chests, Chime of ConflictTemplate:AlloyedColor, Alloying a Messer |
-| description | Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world alike., Template:AlloyedColor |
+| obtainment | Etris Weapon shop, Erisia Chests, Chime of ConflictAlloyed:, Alloying a Messer |
+| description | Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world alike., Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world over. |
 
 ## Description
 

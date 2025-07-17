@@ -1,6 +1,6 @@
 ---
 title: The Rock
-revid: 150600
+revid: 151842
 source: https://deepwoken.fandom.com/wiki/The_Rock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greathammers, Weapons with Unique Criticals, Developer Spec]
@@ -26,7 +26,7 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Unobtainable |
-| description | "Who needs a sword?" |
+| description | Who needs a sword? |
 
 ## Description
 

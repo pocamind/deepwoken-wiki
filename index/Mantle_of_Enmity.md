@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 148882
+revid: 151716
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Items, Relics]
@@ -15,7 +15,7 @@ categories: [Equipment, Torso, Items, Relics]
 | selling price | 100 |
 | requirements | PWR 15 |
 | weight | 0.5 |
-| innate stats | 1 Rare Pip |
+| innate stats | +1 Rare Pip |
 | innate talent | Heartwing Beat |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,7 +28,9 @@ categories: [Equipment, Torso, Items, Relics]
 
 The **Mantle of Enmity** is a Unique [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants 1 Rare Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
 
-This equipment grants the talent _Heartwing Beat_ that transforms your aerial attack into a quick true hyperamor slash, inflicting wither on hit. The damage scales off of your current weapon's scaling attribute (so for example if your using the repeater it would have 15 light scaling) and has a base damage of 25.5 with bleed. It has slight endlag (0.2s~) on whiff, and no endlag upon landing the slash. This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred.md) talent.
+This equipment grants the [Heartwing Beat](Talents.md#spoils-of-enmity) Talent, transforming your aerial attack into a quick true hyperamor slash, inflicting wither on hit. This attack has a base damage of 25.5 with bleed and has equal investment scaling as your equipped weapon (e.g. a Repeater's Heartwing Beat would have 15 Light Weapon scaling). It has slight endlag (0.2s~) on whiff, but no endlag if you properly land the slash.
+
+This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred.md) Talent.
 
 ## Trivia
 
@@ -36,3 +38,7 @@ This equipment grants the talent _Heartwing Beat_ that transforms your aerial at
 -   When worn, the wings will flow behind you if you have the Cloth Physics setting enabled.
 -   This item is currently unable to be banked.
 -   The rates seem to have been shadow buffed during the 3/16/2025 update.
+
+## Navigation
+
+{{Nav|Equipment}

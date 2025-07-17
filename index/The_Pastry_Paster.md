@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 151097
+revid: 151844
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
@@ -23,7 +23,7 @@ categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chef Odiolavoro |
-| description | "Anyone can cook, but only the fearless can be great." |
+| description | Anyone can cook, but only the fearless can be great. |
 
 ## Description
 

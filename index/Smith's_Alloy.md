@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 151679
+revid: 151963
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -18,7 +18,7 @@ categories: [Relics, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Duke Erisia, The Ferryman, Primadon's Gem Chest, Elder Primadon, The Titan Warlord, Fishing, The Diluvian Mechanism, Heart of Enmity, War Mode, The Doom of Caeranthil, Maestro Evengarde Rest, Bounty Hunting, Saramaed Hollow, Hollow Forge, Lysander Spellhardt, Diver Expedition Sea Event, Carnival of Hearts, Weird Trader, Sold in Traan Zakshun's black market for 3 |
-| description | "A cruder form of the famed Pluripotent Alloy, this fusion of rare metals is still renowned for its ability to draw out hidden strength in weapons." |
+| description | A cruder form of the famed Pluripotent Alloy, this fusion of rare metals is still renowned for its ability to draw out hidden strength in weapons. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Tillian's Beret"
-revid: 149574
+revid: 151830
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, World Event, Head, Hats]
@@ -22,7 +22,7 @@ categories: [Equipment, World Event, Head, Hats]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Carnival of Hearts |
-| description | "A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price." |
+| description | A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price. |
 
 ## Description
 

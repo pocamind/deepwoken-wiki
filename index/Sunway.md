@@ -1,6 +1,6 @@
 ---
 title: Sunway
-revid: 130985
+revid: 151927
 source: https://deepwoken.fandom.com/wiki/Sunway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]

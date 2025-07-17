@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 150602
+revid: 151872
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Hats, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, Duke Erisia, Maestro Evengarde Rest, Rogue Construct, Lodestar, Saramaed Hollow (Only threshers chests), The Diluvian Mechanism |
-| description | "..." |
+| description | ... |
 
 ## Description
 

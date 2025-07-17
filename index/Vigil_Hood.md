@@ -1,6 +1,6 @@
 ---
 title: Vigil Hood
-revid: 150836
+revid: 151798
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods, Etrea, Items]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Hoods, Etrea, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, First Layer, Starswept Valley, Duke Ishamon Erisia, Lodestar, Elder Primadon, The Titan Warlord, Heart of Enmity, Maestro Evengarde Rest |
-| description | "..." |
+| description | ... |
 
 ## Description
 

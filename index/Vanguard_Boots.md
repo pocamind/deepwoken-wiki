@@ -1,6 +1,6 @@
 ---
 title: Vanguard Boots
-revid: 150545
+revid: 151802
 source: https://deepwoken.fandom.com/wiki/Vanguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Starswept Valley, Lodestar, Maestro Evengarde Rest |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Brace"
-revid: 150560
+revid: 151824
 source: https://deepwoken.fandom.com/wiki/Tracker's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Braces]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Braces]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, War Mode, Maestro Evengarde Rest, Lodestar, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Overview
 

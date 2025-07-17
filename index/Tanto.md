@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 146888
+revid: 151886
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, Light Weapons]
@@ -10,23 +10,23 @@ categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, L
 
 | Tanto | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Tanto |
 | type | Dagger |
-| requirements | 50 / Template:AlloyedColor LHT |
-| damage | 15.5 / Template:AlloyedColor |
+| requirements | 50 / 80 LHT |
+| damage | 15.5 / 16 |
 | scaling | LHT: 8 |
 | range | 6.5 |
-| swing speed | 1.14x / Template:AlloyedColor |
-| penetration | Template:AlloyedColor |
+| swing speed | 1.14x / 1.15x |
+| penetration | 5% |
 | stances | 1 Handed |
-| selling price | / |
+| selling price | 14 / ?? |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Rogue Construct, Chime of Conflict, Lodestar, Dread SerpentTemplate:AlloyedColor, Alloying a Tanto, Chime of Conflict |
-| description | "A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile." |
+| obtainment | Chests from:, Starswept Valley, The Depths, Rogue Construct, Chime of Conflict, Lodestar, Dread SerpentAlloyed:, Alloying a Tanto, Chime of Conflict |
+| description | A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile. |
 
 ### Description
 

@@ -1,6 +1,6 @@
 ---
 title: Sekh
-revid: 149738
+revid: 151985
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, The Hive, NPCs located in the Eastern Luminant]

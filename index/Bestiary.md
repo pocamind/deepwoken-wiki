@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 151135
+revid: 151747
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -22,7 +22,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 -   Monster variants count towards and benefit from the original monster's bestiary. This goes for bosses as well.
     -   For example, defeating a [King Thresher](King_Thresher.md) or [Nightmare Thresher](Nightmare_Thresher.md) will award +1 kill towards the Thresher Bestiary completion, and having progress on the Thresher Bestiary will grant additional damage to these variants as well.
 -   The bonuses tied to each bestiary entry is **only applied to that specific enemy**, meaning if you defeat a Brainsucker 100 times, it won't grant you increased damage against Megalodaunts and vice versa. Not even the boss bestiary buffs are universally applied!
--   \[\[Corrupted|Template:CorruptedColor\]\] Monsters count as **2 kills** instead of 1.
+-   \[\[Corrupted|[Corrupt](Monsters.md#scyphozia)\]\] Monsters count as **2 kills** instead of 1.
 -   'Resilient' Monsters (such as [Enforcers](Enforcer.md) or [Bounders](Bounder.md)) have halved damage and resistance bonuses.
     -   While most monsters are +10% damage/5% resistance per milestone, totaling to +30% damage and +15% resistance, 'resilient' monsters only grant +5% damage and +2.5% resistance per milestone, totaling to +15% damage and +7.5% resistance.
 

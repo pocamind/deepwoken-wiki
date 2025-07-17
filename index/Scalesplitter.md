@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 151089
+revid: 151896
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
@@ -10,23 +10,23 @@ categories: [Weapons, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
 
 | Scalesplitter | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Scalesplitter |
 | type | Twinblade |
-| requirements | 40 MED / Template:AlloyedColor MED |
-| damage | 17.5 / Template:AlloyedColor |
-| scaling | MED: 5 / MED: Template:AlloyedColor |
+| requirements | 40 MED / 65 MED |
+| damage | 17.5 / 20 |
+| scaling | MED: 5 / MED: 6 |
 | range | 8 |
-| swing speed | 0.9x / Template:AlloyedColor |
-| penetration | 10% / Template:AlloyedColor |
+| swing speed | 0.9x / 1.0x |
+| penetration | 10% / 15% |
 | stances | 2 Handed, 1 Handed |
 | selling price | 50 |
-| weight | 5 / Template:AlloyedColor |
+| weight | 5 / 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fishing, Etris Siege, Chime of Conflict, Voidwalker Chests, The Depths, Diluvian Mechanism, Moon's Eyrie, Lodestar, Voidsea Event Chests, Pure Ore Turn-ins, Deep Widow (Chests), The Understrand, Saramaed HollowTemplate:AlloyedColor, Alloying a Scalesplitter, Crypt of the Unbroken, Sold by Traan Zakshun for 650 |
-| description | "An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles.", Template:AlloyedColor |
+| obtainment | Fishing, Etris Siege, Chime of Conflict, Voidwalker Chests, The Depths, Diluvian Mechanism, Moon's Eyrie, Lodestar, Voidsea Event Chests, Pure Ore Turn-ins, Deep Widow (Chests), The Understrand, Saramaed HollowAlloyed:, Alloying a Scalesplitter, Crypt of the Unbroken, Sold by Traan Zakshun for 650 |
+| description | An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles., An ancient Etrean twinblade, recently repurposed and refurbished with alloys of the contemporary world, taken from the void's grasp and returned to life. Now this weapon, once worn by time and war, has been sharpened and restored, given another chance to taste glory once more. With its renewed form, it stands as a fusion of old-world craftmanship and modern innovation, ready to carve its name into history again with you. |
 
 ## Description
 

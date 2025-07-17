@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 150500
+revid: 151770
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boots, Equipment, Items]
@@ -22,7 +22,7 @@ categories: [Pages with broken file links, Boots, Equipment, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Heart of Enmity |
-| description | "Titanic boots, once forged to crush enemies into their graves, now anchor you firmly to the ground below." |
+| description | Titanic boots, once forged to crush enemies into their graves, now anchor you firmly to the ground below. |
 
 ## Description
 

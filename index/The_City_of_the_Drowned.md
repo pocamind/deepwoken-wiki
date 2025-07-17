@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 148716
+revid: 151865
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, Lost Celtor]

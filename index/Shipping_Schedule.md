@@ -1,6 +1,6 @@
 ---
 title: Shipping Schedule
-revid: 136978
+revid: 151979
 source: https://deepwoken.fandom.com/wiki/Shipping_Schedule
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, The Central Authority]

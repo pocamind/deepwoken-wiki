@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 149654
+revid: 151986
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2, Dungeons]
@@ -18,7 +18,7 @@ New Kyrsa is a location added in _Deepwoken's Verse Two_ update. It is located i
 
 The Second Floor of the [Second Layer](../Second_Layer.md), located directly atop [Ethiron](<../Ethiron,_The_Maelstrom's_Eye.md>)'s bedchamber, New Kyrsa, The Sleeping City is incredibly unstable, experiencing **space-time distortions** and frequent collapses. New Kyrsa is stuck in a time loop; **every 15 minutes, you are teleported back to the entrance.** Numerous hostile [Kyrsgarde](../Kyrsgarde.md) inhabit the city, sworn to protect Ethiron at all costs. In order to ensure Ethiron's continued slumber, a 9-fold ritual is performed on his [puppet](../Scion_of_Ethiron.md). Unfortunately, the last one failed.
 
-New Kyrsa contains numerous large, pink glowing chests. They contain 8-10, which you can exchange for dyes, [Enchantment Stones](../Enchant_Stone.md), [Enchanted Equipment](../Enchantments.md#equipments), [Knowledge](../Knowledge.md), or the [Dawnwalker](../Oath%253A_Dawnwalker.md) [Oath](../Oaths.md). Defeating enemies can grant chests from the Second Layer loot pool.
+New Kyrsa contains numerous large, pink glowing chests. They contain 8-10 **[Kyrsan Medallions](../Kyrsan_Medallions.md)**, which you can exchange for dyes, [Enchantment Stones](../Enchant_Stone.md), [Enchanted Equipment](../Enchantments.md#equipments), [Knowledge](../Knowledge.md), or the [Dawnwalker](../Oath%253A_Dawnwalker.md) [Oath](../Oaths.md). Defeating enemies can grant chests from the Second Layer loot pool.
 
 In order to escape New Kyrsa, you must activate all 5 Obelisks and defeat the [Scion of Ethiron](../Scion_of_Ethiron.md). Along with that, you have 45 minutes to activate all Obelisks. On the first and second 15 minute mark, you will be sent to the start with all Obelisks still activated. When the time is up, you die instantly. After activating all the Obelisks, time will halt and you may freely explore the floor without dying.
 
@@ -50,7 +50,7 @@ The Scion of Ethiron is a boss encountered within the Second Floor of the Eterna
 
 ### [Misérables](../Misérables.md)
 
-Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic figure capable of granting you either a 30% damage boost against Scion of Ethiron for 5 **Kyrsan Medallions**, or resetting your [wish](<../Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) cooldown with Yun'Shul for 15.
+Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic figure capable of granting you either a 30% damage boost against Scion of Ethiron for 5 **Kyrsan Medallions**, or resetting your [wish](<../Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) cooldown with Yun'Shul for 15 **Knowledge**.
 
 ## Objectives
 

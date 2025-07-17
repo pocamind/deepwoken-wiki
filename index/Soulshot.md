@@ -1,6 +1,6 @@
 ---
 title: Soulshot
-revid: 145074
+revid: 151957
 source: https://deepwoken.fandom.com/wiki/Soulshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Pistols, Weapons with Unique Criticals, Developer Spec]
@@ -24,13 +24,14 @@ notices:
 | special effect | Damage get increased heavily for each shot on a single enemy. |
 | stances | 1 Handed |
 | offhand | Yes |
+| selling price | N/A |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Exclusive Weapons |
-| description | "How heavy is this thing when fully loaded?" |
+| description | How heavy is this thing when fully loaded? |
 
 ## Description
 

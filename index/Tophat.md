@@ -1,6 +1,6 @@
 ---
 title: Tophat
-revid: 150562
+revid: 151826
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Hats, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Summer Isle |
-| description | "While wearing a hat like this you start feeling the urge to exploit the surplus labor of the working class." |
+| description | While wearing a hat like this you start feeling the urge to exploit the surplus labor of the working class. |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 

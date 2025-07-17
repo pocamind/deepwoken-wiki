@@ -1,6 +1,6 @@
 ---
 title: The Dreadstar
-revid: 110659
+revid: 151861
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Oaths]

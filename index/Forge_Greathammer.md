@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 151594
+revid: 151904
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -10,20 +10,20 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Alloyed Weapo
 
 | Forge Greathammer | |
 |---|---|
-| requirements | 55 HVY, 10 STR / Template:AlloyedColor HVY, 10 STR |
-| damage | 24 / Template:AlloyedColor |
+| requirements | 55 HVY, 10 STR / 75 HVY, 10 STR |
+| damage | 24 / 25.5 |
 | scaling | HVY: 8 |
 | range | 9 |
-| swing speed | 0.8x / Template:AlloyedColor |
-| endlag | 0.1s / Template:AlloyedColor |
+| swing speed | 0.8x / 0.81x |
+| endlag | 0.1s / N/A |
 | selling price | 14 |
-| weight | 9 / Template:AlloyedColor |
+| weight | 9 / 9.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle, Dread Serpent, First Layer, Lodestar, Deep Widow, Chime of Conflict, The Depths, Voidwalker bounty chestsTemplate:AlloyedColor, Alloying a Forge Greathammer |
-| description | "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill." |
+| obtainment | Summer Isle, Dread Serpent, First Layer, Lodestar, Deep Widow, Chime of Conflict, The Depths, Voidwalker bounty chestsAlloyed:, Alloying a Forge Greathammer |
+| description | It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill. |
 
 ## Description
 

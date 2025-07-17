@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 150420
+revid: 151919
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Swords, Medium Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Main Menu Selection, Etris |
-| description | “A blade of fine craft, likely an heirloom of whoever held the blade before it was pilfered from their remains." |
+| description | A blade of fine craft, likely an heirloom of whoever held the blade before it was pilfered from their remains. |
 
 ## Description
 

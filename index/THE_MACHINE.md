@@ -1,6 +1,6 @@
 ---
 title: THE MACHINE
-revid: 138220
+revid: 151915
 source: https://deepwoken.fandom.com/wiki/THE_MACHINE
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Helmets, Developer Spec, Items]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Head |
 | rarity | Unique |
-| selling price | 100 |
+| selling price | Unsellable |
 | weight | 1 |
 | innate stats | +5 Health , +1 Uncommon Pip |
 | innate talent | + fistful of dollar |
@@ -23,7 +23,7 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | (Unobtainable) |
-| description | "Go play metal gear rising" |
+| description | Go play metal gear rising |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 150755
+revid: 151980
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Multiple C
 | swing speed | 1x |
 | penetration | 30% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 50 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley, The Depths, Duke Ishamon Erisia, Heart of Enmity, Interluminary Parasol, The Doom of Caeranthil, Aelita, Lodestar, The Ferryman (Winter), Rogue Construct, Fishing, Fort Merit, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Scion of Ethiron, Meteor Isle, Voidsea, War Mode |
-| description | "Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor." |
+| description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
 
 ## Description
 

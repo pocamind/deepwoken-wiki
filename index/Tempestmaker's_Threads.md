@@ -1,6 +1,6 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 151535
+revid: 151883
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, World Event]
@@ -31,7 +31,7 @@ categories: [Items, Outfits, Master Outfits, World Event]
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Gale Stones](Gale_Stone.md), five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), eight (8) [Iron](Ores.md#iron), one (1) [Wind Gem](Wind_Gem.md) to craft.
+This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Gale Stones](Gale_Stone.md), five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), eight (8) [Iron](Ores.md#iron), one (1) [Wind Gem](Wind_Gem.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 45 [Galebreathe](Galebreathe.md) to be crafted.
 

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 151510
+revid: 151714
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -125,6 +125,10 @@ Gain immunity to most auto-grip effects for a short duration. Procced by being h
 ### Aegis
 
 Gain 20% damage reduction for 10 seconds. This effect is activated by landing a Mantra that has the [Aegis Gem](Aegis_Gem.md) equipped onto it. Note: This effect will not proc if you have not beaten [The Gaunt Man's](The_Gaunt_Man.md) experiment on your character. Signified by a pink translucent, cylindrical dome on your character.
+
+### Embraced in Light
+
+Grants immunity to enemy [Deep Gems](Deep_Gems.md) for 3 minutes. Once this duration is over, you will need to defeat a [boss](Bosses.md) or a player of equal [power](Power.md) to recharge it ([Chime](Chime_of_Conflict.md) kills do not count). Applied through using the Elegy of Light Talent tool from the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) equipment. Signified by a white circling aura with white beams on your character.
 
 ### Positive Link
 

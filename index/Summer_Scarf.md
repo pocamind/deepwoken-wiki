@@ -1,6 +1,6 @@
 ---
 title: Summer Scarf
-revid: 136329
+revid: 151928
 source: https://deepwoken.fandom.com/wiki/Summer_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Scarves, Summer Company, World Event]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Scarves, Summer Company, World Event]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Default, ThreadworkSaramaed Hollow, Interluminary Parasol ChestsInterluminary Parasol Chests |
-| description | "A scarf adorned by the esteemed gunsmiths of the Summer Company- smells like gunpowder..." |
+| description | A scarf adorned by the esteemed gunsmiths of the Summer Company- smells like gunpowder... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 146928
+revid: 151912
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons]
@@ -10,22 +10,23 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, We
 
 | Cavalry Saber | |
 |---|---|
-| alloyed name | Template:AlloyedColor |
+| alloyed name | Alloyed Cavalry Saber |
 | type | Sword |
-| requirements | 40 MED / Template:AlloyedColor MED |
-| damage | 21 / Template:AlloyedColor |
-| scaling | MED: 5 / MED: Template:AlloyedColor |
+| requirements | 40 MED / 75 MED |
+| damage | 21 / 22.5 |
+| scaling | MED: 5 / MED: 5.5 |
 | range | 8 |
 | swing speed | 1x |
-| penetration | Template:AlloyedColor |
+| penetration | 10% |
 | stances | 2 Handed, 1 Handed |
-| weight | 5 / Template:AlloyedColor |
+| selling price | 14 |
+| weight | 5 / 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle, Moon's Eyrie, Depths, Chime of Conflict, LodestarTemplate:AlloyedColor, Alloying a Cavalry Saber, Summer Isle, Moon's Eyrie, Lodestar, Heart of Enmity |
-| description | "To those of the current world, the notion of cavalry is farfetched. Still, the cavalry saber lives on as a effective blade for raiding." |
+| obtainment | Summer Isle, Moon's Eyrie, Depths, Chime of Conflict, LodestarAlloyed, Alloying a Cavalry Saber, Summer Isle, Moon's Eyrie, Lodestar, Heart of Enmity |
+| description | To those of the current world, the notion of cavalry is farfetched. Still, the cavalry saber lives on as a effective blade for raiding. |
 
 ## Description
 

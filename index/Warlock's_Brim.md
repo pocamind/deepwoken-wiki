@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Brim"
-revid: 137161
+revid: 151775
 source: https://deepwoken.fandom.com/wiki/Warlock's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hats, Items, Equipment, Head, World Event]
@@ -21,7 +21,7 @@ categories: [Hats, Items, Equipment, Head, World Event]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Doom of Caeranthil |
-| description | "A finely crafted hat worn by master wizards of the Northen Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle." |
+| description | A finely crafted hat worn by master wizards of the Northen Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle. |
 
 ## Description
 

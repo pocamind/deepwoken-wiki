@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 150757
+revid: 151984
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Medium Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Medium Weapons]
 | swing speed | 0.97x |
 | penetration | 15 |
 | stances | 2 Handed, 1 Handed |
+| selling price | 25 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | First Layer, Scope's Quest, Duke Erisia, Summer Isle, Deep Widow, Maestro Evengarde Rest, Lodestar, Heart of Enmity, Interluminary Parasol, Dread Serpent, War Mode, Voidwalker Bounty, Chaser, Scion of Ethiron |
-| description | "Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however." |
+| description | Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however. |
 
 ## Description
 
