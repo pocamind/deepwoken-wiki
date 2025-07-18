@@ -1,12 +1,20 @@
 ---
 title: Version History/Uncollapsed
-revid: 150887
+revid: 152198
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
 ---
 
 # Version History/Uncollapsed
+
+Variants: [2025](2025.md)
+
+  
+
+Variants: [Regular](2026.md)
+
+  
 
 ## Legend
 
