@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 152225
+revid: 152247
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -293,7 +293,6 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <ul>
     <li>Alternatively, you can make a makeshift feint by intentionally missing an attack, which spares you of the cooldown. This technique is a gamble, but with risk comes rewards.</li>
   </ul><p><i>Feinting has very slight end-lag, and will briefly disable your ability to make any attack for a very small moment.</i></p></td>
-  <td></td>
 </tr>
 <tr>
   <th>Rolling</th>
@@ -360,14 +359,14 @@ Image
  | Parryable? | Blockable? | Dodgeable? | Ventable? |
 | --- | --- | --- | --- | --- | --- |
 | Red | File:Redtelegraph.png | ✗ | ✗ | ◯ | ◯ |
-| Cyan | File:Cyan telegraph.png | ◯ | ✗ | ✗ | ? |
-| Yellow | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ? |
-| White | File:Whitetelegraph.png | ✗ | ✗ | ✗ | ? |
-| Purple | File:Purpletelegraph.png | ✗ | ◯ | ◯ | ? |
+| Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ | ? |
+| Yellow | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
+| White | File:Whitetelegraph.png | ✗ | ✗ | ✗ | ✗ |
+| Purple | File:Purpletelegraph.png | ◯ | ◯ | ◯ | ? |
 | Green | File:Greentelegraph.png | ✗ | ✗ | ✗ | ◯ |
 | Blue | File:Bluetelegraph.png | ✗ | ◯ | ✗ | ? |
 
-_Note: ✗ = with [Force Your Way](Ignition_Deepdelver.md), ◯ = with enough posture, usually quite high, ? = needs testing_
+_Note: ✗ = only parryable with [Force Your Way](Ignition_Deepdelver.md), ◯ = with enough posture, usually quite high, ? = needs testing_
 
 ## Status Effects
 

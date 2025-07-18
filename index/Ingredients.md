@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 151874
+revid: 152246
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -46,10 +46,10 @@ Raw materials harvested from the environment.
 
 #### Other
 
--   [Gathered Wheat](Gathered_Wheat.md) - Self-explanatory.
+-   [Gathered Wheat](Gathered_Wheat.md) - Wheat, picked and bundled.
 -   [Bamboo Bundle](Bamboo_Bundle.md) - Bamboo sticks, growing mostly **near** beaches and shores.
 -   [Marram Grass](Marram_Grass.md) - Short grass, growing **on** beaches and shores.
--   [Egg](Egg.md) - Bird eggs, found in trees.
+-   [Egg](Egg.md) - Bird eggs, found in trees and on elevated spots.
 -   [Alestrian Coral](Alestrian_Coral.md) - Mainly used in speed potions. Found in [Scyphozia](First_Layer.md).
 -   [Sap](Sap.md) - Amber streak of sap that appears on large trees.
 -   [Scallop](Scallop.md) - Found in [Scyphozia](First_Layer.md).
