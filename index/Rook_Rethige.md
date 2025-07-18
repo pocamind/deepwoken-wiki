@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 152100
+revid: 152140
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,7 +11,7 @@ categories: [NPCs]
 | Rook Rethige | |
 |---|---|
 | name | Rook Rethige |
-| aspect | Greater Navaran |
+| aspect | Felinor |
 
 ## Description
 

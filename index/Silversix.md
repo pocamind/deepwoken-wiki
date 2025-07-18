@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 151971
+revid: 152131
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
@@ -38,9 +38,4 @@ The **Silversix** is a [gun](Guns.md) obtained by purchasing _Starter Weapon: Si
 -   A single Silversix can fire six shots when loaded before requiring a reload. The third and fourth shot are interrupted by a kick.
 -   Known for being used by 20 power players for ranged bullet shots before Silversix lost its ability to fire projectiles as a sidearm.
 -   At max LHT, the damage is (19.8)
--   Despite being called Silver**six**, the gun can only hold 2 bullets at a time.
 -   The Silversix has the longest range of any starting weapon, beating out even the Irontusk's 9 range.
-
-## Gallery
-
-Icon in Main Menu Selection

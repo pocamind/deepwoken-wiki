@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 150257
+revid: 152141
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Heavy Weapons]
@@ -41,11 +41,10 @@ Uniquely to it, each hits of the critical attack can trigger enchant stacks, ins
 
 pale briar crit
 
-The user chants their weapon, summoning an area of damage that grows in size and tracks onto the first enemy, lasting for a few seconds.
+  
+The user chants their weapon, summoning a shower of light that rapidly damages opponents and grows in size over time. The critical is sent towards the location of the user's cursor, but will always track to the nearest opponent.
 
 The critical has a cooldown of **10 seconds**.
-
-The critical scales with weapon investment and proficiency.
 
 ## Trivia
 

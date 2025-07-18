@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 151767
+revid: 152150
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -61,6 +61,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Endlag:** Lingering duration after a basic weapon attack (Self-stun after M1s).
 -   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/103 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
+-   **War Weapon/War Stats:** Similar to Alloyed weapons, these weapons are enhanced variants of base weapons, though outside of having increased requirements and slightly different stats, it is unknown what secrets these items hold. Stats which remain white are the same as the non-war version.
 -   [**Bleed:**](Status_Effects.md#bleed) 30% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 130% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with [bleed](Status_Effects.md#bleed) weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound.)
