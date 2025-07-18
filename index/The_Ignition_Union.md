@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 151852
+revid: 152183
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -109,6 +109,6 @@ Enemy-Neutral Reputation
 -   The Ignition Union is one of four factions that have an [Oath](Oaths.md) tied to them.
 -   One of two factions to create and utilize [Monsters](Monsters.md), the other being [The Hive](The_Hive.md).
 -   Some Ignition Union NPCs are named after Greek terms:
-    -   **Alpha**, **Delta**, and **Epsilon** are letters in the Greek alphabet.
+    -   **Alpha**, **Delta**, **Epsilon**, **Gamma**, and **Tau** are letters in the Greek alphabet.
     -   **Orion** is one of the 48 constellations listed by Ptolemy, an ancient Greek astronomer.
 -   Opposed to what their name might suggest, they’re predominantly [Ironsing](Ironsing.md) users.

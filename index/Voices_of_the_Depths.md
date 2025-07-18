@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 152168
+revid: 152182
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths]

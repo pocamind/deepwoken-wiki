@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 152171
+revid: 152177
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons, Heavy Weapons]
@@ -44,5 +44,5 @@ On critical, **Bloodbane** applies a Damage over Time status effect. If you are 
 
 -   Meeting the stat requirements, the damage is (24.3/35.9/24.5)
 -   At max HVY, the damage is (33.6/40.3/27.5)
--   "Zweihänder" means "Two-handed sword" in German.
+-   "Zweihänder" means "two-handed sword" in German.
     -   Pronounced "Zv-eye-hen-dah."
