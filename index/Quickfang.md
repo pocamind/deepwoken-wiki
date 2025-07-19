@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 151910
+revid: 152291
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Rapiers, Light Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starter Weapon: Rapier Echo Unlock |
-| description | "A rapier passed down by your ancestors." |
+| description | A rapier passed down by your ancestors. |
 
 ## Description
 

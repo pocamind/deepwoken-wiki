@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 151987
+revid: 152315
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]

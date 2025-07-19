@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 150331
+revid: 152278
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -10,10 +10,10 @@ notices:
 
 # Attribute Trees
 
-Talent Trees documented so far in [Talents](Talents.md): 38/195  
+Talent Trees documented so far in [Talents](Talents.md): 48/195  
 This page is organized to see Talents generally, allowing you to pick them out with minimal details. [Talents](Talents.md) provides extended information on the topic of Talents.
 
-Each Tab is designed to show Talents that involve the searched Attribute from Least to Greatest Ex. Potion Quaffer has the Prerequisites \[Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence\], it will be in each of the Attribute Tabs and show up twice in the Intelligence Tab under both Hybrids. If a linked Talent is not on the Tab, it will redirect to Talent Tree as for Talents and Mantras that are not linked or made, they will show up as Potion Quaffer.
+Each Tab is designed to show Talents that involve the searched Attribute from Least to Greatest Ex. Potion Quaffer has the Prerequisites \[15 Fortitude OR 15 Willpower, 30 intelligence, Other\], it will be in each of the Attribute Tabs and show up twice in the Intelligence Tab under both Hybrids. If a linked Talent is not on the Tab, it will redirect to Talent Tree as for Talents and Mantras that are not linked or made, they will show up as Potion Quaffer.
 
 ### Card Terminology
 
@@ -42,16 +42,20 @@ Pulled from [Talents](Talents.md) for immediate reference.
     3.  [Willpower (WIL)](#willpower-hybrids-214)
 3.  [Weapon (WEP)](#weapon-hybrids-215)
     1.  [Heavy (HVY)](#heavy-hybrids-216)
-4.  [Attunement (ELM)](#attunement-hybrids-217)
-    1.  [Galebreathe (WND)](#galebreathe-hybrids-218)
-5.  [Oaths](#oaths-219)
-    1.  [Bladeharper](#bladeharper-2110)
-    2.  [Chainwarden](#chainwarden-2111)
+    2.  [Medium (MED)](#medium-hybrids-217)
+4.  [Attunement (ELM)](#attunement-hybrids-218)
+    1.  [Galebreathe (WND)](#galebreathe-hybrids-219)
+5.  [Oaths](#oaths-2110)
+    1.  [Bladeharper](#bladeharper-2111)
+    2.  [Chainwarden](#chainwarden-2112)
 
 ## Exclusive 2.1.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
+| File:TalentCardImage2.png | Concussive Force  
+Duelist;4.48b | 15STR  
+[Blackleaf Helm](Blackleaf_Helm.md), Gladiator Helmet | Enemies you knocked remain downed longer than usual. (+9 Carry Load) |
 | File:TalentCardImage2.png | Champion's Regalia  
 Champion;4.30a | 25STR | Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load) |
 | File:TalentCardImage2.png | Berserk  
@@ -65,6 +69,13 @@ Annihilator;4.11a | 100STR | Block breaking an opponent closes off their ability
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
+| File:TalentCardImage2.png | Strong Stern  
+Duelist;4.48g | 15STR  
+25FTD  
+[Ignition Trailblazer](Ignition_Trailblazer.md) | The duration you are dazed from wall bangs is cut in half (+9 Carry Load) |
+| File:TalentCardImage2.png | Concussion  
+Duelist;4.48a | 20STR  
+15FTD | Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+8 Carry Load) |
 | File:TalentCardImage2.png | Knuckle Guard  
 Bulwark;4.27d | 25STR  
 55FTD | Hitting Dazed enemies grants you 10% posture resistance for 5s. |
@@ -76,6 +87,16 @@ Bulwark;4.27d | 25STR
 | File:TalentCardImage2.png | Steady Footing  
 Acrobat;4.1b | 10STR  
 10AGL | You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility) |
+| File:TalentCardImage2.png | Steady Nerves  
+4.48e | 15STR  
+45AGL | You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility) |
+| File:TalentCardImage2.png | Spine Cutter  
+Duelist;4.48d | 20STR  
+25AGL | Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility) |
+| File:TalentCardImage2.png | Precise Swing  
+Duelist;4.48c | 25STR  
+15AGL  
+[Phalanx Helmet](Phalanx_Helmet.md) | After landing a critical your next light attack will gain 5% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility) |
 
 ### Willpower Hybrids 2.1.4
 
@@ -112,9 +133,19 @@ Colossus;4.34c | 25STR
 Unwavering Resolve  
 Greathammer | \[Greathammer\] You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load) |
 
-## Attunement Hybrids 2.1.7
+### Medium Hybrids 2.1.7
 
-### Galebreathe Hybrids 2.1.8
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Strong Hold  
+Duelist;4.48f | 30STR  
+30MED  
+[Authority Helm](Authority_Helm.md), [Bulwark Helm](Grand_Authority_Sallet.md)  
+Medium Weapon | When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility) |
+
+## Attunement Hybrids 2.1.8
+
+### Galebreathe Hybrids 2.1.9
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -124,9 +155,9 @@ Aeromancer;4.5d | 15STR
 |  | Stifled Jump  
 Aeromancer;4.5e | Suffocating Impact;4.5d | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
 
-## Oaths 2.1.9
+## Oaths 2.1.10
 
-### Bladeharper 2.1.10
+### Bladeharper 2.1.11
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -148,7 +179,7 @@ Bladeharper;4.21e | Oath: Bladeharper;4.21a
 Bladeharper;4.21f | Oath: Bladeharper;4.21a  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
-### Chainwarden 2.1.11
+### Chainwarden 2.1.12
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -166,14 +197,15 @@ Chainwarden;4.29c | Oath: Chainwarden;4.29a
 
 1.  [Exclusive](#exclusive-220)
 2.  [Body and Mind](#body-and-mind-hybrids-221)
-    1.  [Agility (AGL)](#agility-hybrids-222)
-    2.  [Intelligence (INT)](#intelligence-hybrids-223)
-    3.  [Willpower (WIL)](#willpower-hybrids-224)
-3.  [Attunement (ELM)](#attunement-hybrids-225)
-    1.  [Shadowcast (SDW)](#shadowcast-hybrids-226)
-4.  [Oaths](#oaths-227)
-    1.  [Arcwarder](#arcwarder-228)
-    2.  [Chainwarden](#chainwarden-229)
+    1.  [Strength (STR)](#strength-hybrids-222)
+    2.  [Agility (AGL)](#agility-hybrids-223)
+    3.  [Intelligence (INT)](#intelligence-hybrids-224)
+    4.  [Willpower (WIL)](#willpower-hybrids-225)
+3.  [Attunement (ELM)](#attunement-hybrids-226)
+    1.  [Shadowcast (SDW)](#shadowcast-hybrids-227)
+4.  [Oaths](#oaths-228)
+    1.  [Arcwarder](#arcwarder-229)
+    2.  [Chainwarden](#chainwarden-2210)
 
 ## Exclusive 2.2.0
 
@@ -186,7 +218,7 @@ Bastion;4.18b | 25FTD
 [Providence Coat](Providence_Coat.md) | After being block broken, the next attack to hit you deals reduced damage. |
 | File:TalentCardImage2.png | Grand Support  
 Comrade;4.35b | 40FTD  
-[Reinforce](Attunement-less.md#reinforce) (Mantra) | Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others. |
+[Reinforce](Attunement-less.md#reinforce)(☆☆☆) | Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others. |
 | File:TalentCardImage2.png | Dancing Guard  
 Bulwark;4.27b | 55FTD | Parrying an opponent and then parrying another enemy in quick succession applies slow for 3s. |
 | File:TalentCardImage2.png | Down to your Level  
@@ -199,7 +231,22 @@ Bastion;4.18e | 90FTD
 
 ## Body and Mind Hybrids 2.2.1
 
-### Agility Hybrids 2.2.2
+### Strength Hybrids 2.2.2
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Concussion  
+Duelist;4.48a | 15FTD  
+20STR | Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+8 Carry Load) |
+| File:TalentCardImage2.png | Strong Stern  
+Duelist;4.48g | 25FTD  
+15STR  
+[Ignition Trailblazer](Ignition_Trailblazer.md) | The duration you are dazed from wall bangs is cut in half (+9 Carry Load) |
+| File:TalentCardImage2.png | Knuckle Guard  
+Bulwark;4.27d | 55FTD  
+25STR | Hitting Dazed enemies grants you 10% posture resistance for 5s. |
+
+### Agility Hybrids 2.2.3
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -210,16 +257,16 @@ Alley Cat;4.7a | 25FTD
 | File:TalentCardImage2.png | Conditioned Runner  
 Alley Cat;4.7c | Endurance Runner;4.7a, [Scaredy Cat;4.7b](Talents.md#alley-cat) | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
 
-### Intelligence Hybrids 2.2.3
+### Intelligence Hybrids 2.2.4
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
 | File:TalentCardImage2.png | Potion Quaffer  
 Alchemist;4.6e | 15FTD  
 30INT  
-"Drank Potion" | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
+[Other](Talents.md#alchemist) | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
-### Willpower Hybrids 2.2.4
+### Willpower Hybrids 2.2.5
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -231,20 +278,23 @@ Bastion;4.18d | 30FTD
 30WIL  
 [Ignition Trailblazer](Ignition_Trailblazer.md) | When you're knocked down, you get back up again more quickly. (+5 Sanity) |
 
-## Attunement Hybrids 2.2.5
+## Attunement Hybrids 2.2.6
 
-### Shadowcast Hybrids 2.2.6
+### Shadowcast Hybrids 2.2.7
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
+| File:TalentCardImage2.png | Blighted Song  
+Darksiphon;4.42a | 10FTD  
+[Shadow Chains](Shadowcast.md#shadow-chains)(★☆☆) | Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied. |
 | File:TalentCardImage2.png | Lord's Tithe  
 Comrade;4.35a | 40FTD  
 40SDW  
-[Reinforce](Attunement-less.md#reinforce) (Mantra) | Allies and enemies you Reinforce are drained of their Ether until you are fully charged. |
+[Reinforce](Attunement-less.md#reinforce)(☆☆☆)) | Allies and enemies you Reinforce are drained of their Ether until you are fully charged. |
 
-## Oaths 2.2.7
+## Oaths 2.2.8
 
-### Arcwarder 2.2.8
+### Arcwarder 2.2.9
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -269,7 +319,7 @@ Arcwarder;4.13e | Arcwarder;4.13a
 Arcwarder;4.13f | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
-### Chainwarden 2.2.9
+### Chainwarden 2.2.10
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -315,16 +365,24 @@ Acrobat;4.1a | 20AGL | You easily brush off shorter falls, taking no damage. You
 Assassin;4.15c | 20AGL | Speed during crouching increased, unsheathing a weapon is silent and stealth increased (+1 Passive Agility) |
 | File:TalentCardImage2.png | Risky Moves  
 Butterfly;4.28c | 25AGL | When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility) |
+| File:TalentCardImage2.png | In a Hurry  
+Cutthroat;4.41b | 30AGL | You grip faster with a movement speed boost. |
 | File:TalentCardImage2.png | Deep Wound  
 Assassin;4.15a | 35AGL | Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs. |
 | File:TalentCardImage2.png | Ghost  
 Butterfly;4.28d | 40AGL  
 [Butterfly;4.28](Talents.md#butterfly) (Talents) | Dodging a move will briefly make you invisible, ending early if you attack. (+5 Passive Agility) |
+| File:TalentCardImage2.png | Blood Thirsty  
+Cutthroat;4.41a | 45AGL | Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility) |
+| File:TalentCardImage2.png | Muffled Screams  
+Cutthroat;4.41c | 50AGL | You quieten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of Talents that slow your executions. (+1 Passive Agility) |
 | File:TalentCardImage2.png | Lights Out  
 Assassin;4.15b | 55AGL | Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded. (+1 Passive Agility) |
 | File:TalentCardImage2.png | Unseen Threat  
 Assassin;4.15d | 60AGL  
 Deep Wound;4.15a | You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s. |
+| File:TalentCardImage2.png | Tap Dancer  
+Duelist;4.48h | 60AGL | Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility) |
 
 ## Body and Mind Hybrids 2.3.1
 
@@ -335,6 +393,16 @@ Deep Wound;4.15a | You can assassinate those with weapons out provided you're no
 | File:TalentCardImage2.png | Steady Footing  
 Acrobat;4.1b | 10AGL  
 10STR | You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility) |
+| File:TalentCardImage2.png | Precise Swing  
+Duelist;4.48c | 15AGL  
+25STR  
+[Phalanx Helmet](Phalanx_Helmet.md) | After landing a critical your next light attack will gain 5% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility) |
+| File:TalentCardImage2.png | Spine Cutter  
+Duelist;4.48d | 25AGL  
+20STR | Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility) |
+| File:TalentCardImage2.png | Steady Nerves  
+4.48e | 45AGL  
+15STR | You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility) |
 
 ### Fortitude Hybrids 2.3.3
 
@@ -398,6 +466,9 @@ Bladeharper;4.21f | Oath: Bladeharper;4.21a
 2.  [Body and Mind](#body-and-mind-hybrids-241)
     1.  [Fortitude (FTD)](#fortitude-hybrids-242)
     2.  [Willpower (WIL)](#willpower-hybrids-243)
+3.  [Attunement (ELM)](#attunement-hybrids-244)
+    1.  [Frostdraw (ICE)](#frostdraw-hybrids-245)
+    2.  [Shadowcast (SDW)](#shadowcast-hybrids-246)
 
 ## Exclusive 2.4.0
 
@@ -436,7 +507,7 @@ Adept Caster;4.3b | 85INT | You can input up to 4 copies of each Mantra ingredie
 | File:TalentCardImage2.png | Potion Quaffer  
 Alchemist;4.6e | 30INT  
 15FTD  
-"Drank Potion" | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
+[Other](Talents.md#alchemist) | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
 ### Willpower Hybrids 2.4.3
 
@@ -445,7 +516,26 @@ Alchemist;4.6e | 30INT
 | File:TalentCardImage2.png | Potion Quaffer  
 Alchemist;4.6e | 30INT  
 15WIL  
-"Drank Potion" | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
+[Other](Talents.md#alchemist) | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
+
+## Attunement Hybrids 2.4.4
+
+### Frostdraw Hybrids 2.4.5
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Condensation Drip  
+Cryomancer;4.39c | 20INT  
+15ICE | Passively collect condensation from the air, greatly reducing your thirst. |
+
+### Shadowcast Hybrids 2.4.6
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Dark Replenishment  
+4.42c | 25INT  
+50SDW  
+Dark God;4.42b | Knocking out an enemy in combat restores a portion of your ether. |
 
 **Willpower (WIL):**
 
@@ -498,7 +588,7 @@ Bastion;4.18d | 30WIL
 | File:TalentCardImage2.png | Potion Quaffer  
 Alchemist;4.6e | 15 WIL  
 30INT  
-"Drank Potion" | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
+[Other](Talents.md#alchemist) | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
 ## Oaths 2.5.5
 
@@ -615,6 +705,11 @@ Greathammer | \[Greathammer\] You take 15% less posture damage when parried. (+1
 | File:TalentCardImage2.png | Wyvern's Claw  
 Aerial Dancer;4.4a | 25WEP  
 15STR | You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead. |
+| File:TalentCardImage2.png | Strong Hold  
+Duelist;4.48f | 30MED  
+30STR  
+[Authority Helm](Authority_Helm.md), [Bulwark Helm](Grand_Authority_Sallet.md)  
+Medium Weapon | When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility) |
 
 ## Oaths 3.2.2
 
@@ -738,325 +833,29 @@ Arcwarder;4.13f | Arcwarder;4.13a
 **Frostdraw (ICE):**
 
 1.  [Exclusive](#exclusive-420)
-2.  [Attunement (ELM)](#attunement-hybrids-421)
-    1.  [Bloodrend (BLD)](#bloodrend-hybrids-422)
-
-## Exclusive 4.2.0
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Freezing Wight  
-Cold Phantom;4.33a | 40ICE  
-Haunted Gale  
- | Your Haunted Gale now procs Chilled. |
-
-## Attunement Hybrids 4.2.1
-
-### Bloodrend Hybrids 4.2.2
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Cold Blooded  
-Bloodsong;4.24c | 40ICE  
-40BLD | Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK) |
-
-**Thundercall (LTN):**
-
-1.  [Exclusive](#exclusive-430)
-2.  [Attunement (ELM)](#attunement-hybrids-431)
-    1.  [Bloodrend (BLD)](#bloodrend-hybrids-432)
-3.  [Oaths](#oaths-433)
-    1.  [Arcwarder](#arcwarder-434)
-
-## Exclusive 4.3.0
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Authority Intimidation  
-Authority Interrogator;4.17a | 60LTN  
-Power 10 | Lightning moves slow your opponent more. |
-| File:TalentCardImage2.png | Resolve Crusher  
-Authority Interrogator;4.17b | 65LTN | Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you. |
-| File:TalentCardImage2.png | First Interrogation  
-Authority Interrogator;4.17c | 65LTN  
-Resolve Crusher;4.17b | Attacks from opponents who are Electrified will give you ether proportional to their initial damage. |
-| File:TalentCardImage2.png | Second Interrogation  
-Authority Interrogator;4.17d | 65LTN  
-First Interrogation;4.17c | Electrified attacks do 50% less damage and posture damage to you. |
-
-## Attunement Hybrids 4.3.1
-
-### Bloodrend Hybrids 4.3.2
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Electrolyte  
-Bloodsong;4.24d | 40LTN  
-40BLD | Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health. |
-
-## Oaths 4.3.3
-
-### Arcwarder 4.3.4
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| Arcwarder.png | Oath: Arcwarder  
-Arcwarder;4.13a | 20LTN  
-20FTD  
-20FIR  
-[Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
-| Arcwarder.png | Arc Module: Dash  
-Arcwarder;4.13b | Arcwarder;4.13a  
-[Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
-| Arcwarder.png | Arc Module: Eject  
-Arcwarder;4.13c | Arcwarder;4.13a  
-[Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
-| Arcwarder.png | Arc Module: Guard  
-Arcwarder;4.13d | Arcwarder;4.13a  
-[Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
-| Arcwarder.png | Arc Module: Leap  
-Arcwarder;4.13e | Arcwarder;4.13a  
-[Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
-| Arcwarder.png | Arc Module: Null  
-Arcwarder;4.13f | Arcwarder;4.13a  
-[Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
-
-**Galebreathe (WND):**
-
-1.  [Exclusive](#exclusive-440)
-2.  [Body and Mind](#body-and-mind-hybrids-441)
-    1.  [Strength (STR)](#strength-hybrids-442)
-    2.  [Agility (AGL)](#agility-hybrids-443)
-3.  [Attunement (ELM)](#attunement-hybrids-444)
-    1.  [Shadowcast (SDW)](#shadowcast-hybrids-445)
-    2.  [Bloodrend (BLD)](#bloodrend-hybrids-446)
-
-## Exclusive 4.4.0
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-|  | Aeronade  
-Aeromancer;4.5b | 20WND  
-[Galetrap](Galebreathe.md#galetrap) (Mantra) | Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 ) |
-|  | Vacuum Punch  
-Aeromancer;4.5f | 20WND  
-[Gale Punch](Galebreathe.md#gale-punch) (Mantra) | Your Gale Punch pulls enemies in before you hit them. |
-|  | Gale Trap  
-Aeromancer;4.5c | 50WND  
-Wind Step | Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. |
-
-## Body and Mind Hybrids 4.4.1
-
-### Strength Hybrids 4.4.2
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-|  | Suffocating Impact  
-Aeromancer;4.5d | 35WND  
-15STR | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) |
-|  | Stifled Jump  
-Aeromancer;4.5e | Suffocating Impact;4.5d | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
-
-### Agility Hybrids 4.4.3
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-|  | Aerogliding  
-Aeromancer;4.5a | 35WND  
-30AGL | When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility) |
-
-## Attunement Hybrids 4.4.4
-
-### Shadowcast Hybrids 4.4.5
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Pressure Detonation  
-Cosmic Wind;4.37a | 60WND  
-40SDW | Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo. |
-
-### Bloodrend Hybrids 4.4.6
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Brain Death  
-Bloodsong;4.24b | 40WND  
-40BLD | Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra. |
-
-**Shadowcast (SDW):**
-
-1.  [Body and Mind](#body-and-mind-hybrids-450)
-    1.  [Fortitude (FTD)](#fortitude-hybrids-451)
-2.  [Attunement (ELM)](#attunement-hybrids-452)
-    1.  [Galebreathe (WND)](#galebreathe-hybrids-453)
-    2.  [Bloodrend (BLD)](#bloodrend-hybrids-453)
-
-## Body and Mind Hybrids 4.5.0
-
-### Fortitude Hybrids 4.5.1
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Lord's Tithe  
-Comrade;4.35a | 40SDW  
-40FTD  
-[Reinforce](Attunement-less.md#reinforce) (Mantra) | Allies and enemies you Reinforce are drained of their Ether until you are fully charged. |
-
-## Attunement Hybrids 4.5.2
-
-### Galebreathe Hybrids 4.5.3
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Pressure Detonation  
-Cosmic Wind;4.37a | 40SDW  
-60WND | Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo. |
-
-### Bloodrend Hybrids 4.5.4
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Malevolent Sapper  
-Bloodsong;4.24e | 40SDW  
-40BLD | The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent. |
-
-**Ironsing (MTL):**
-
-1.  [Exclusive](#exclusive-460)
-2.  [Attunement (ELM)](#attunement-hybrids-461)
-    1.  [Bloodrend (BLD)](#bloodrend-hybrids-462)
-
-## Exclusive 4.6.0
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-|  | Exposed Durability  
-Adaptive Arsenal;4.2b | 60MTL | Deal 10% more damage to opponents with no armor durability left. |
-|  | An Ironsinger's Instinct  
-Adaptive Arsenal;4.2a | 75MTL | Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken. 18s CD |
-|  | Phantom Edge  
-Adaptive Arsenal;4.2c | 75MTL | Your weapon M1's have +0.25 range. |
-
-## Attunement Hybrids 4.6.1
-
-### Bloodrend Hybrids 4.6.2
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Blood and Iron  
-Bloodsong;4.24a | 40MTL  
-40BLD | Pulling rods out of your opponent now replenishes an equivalent amount of blood. |
-
-**Bloodrend (BLD):**
-
-1.  [Exclusive](#exclusive-470)
-2.  [Attunement (ELM)](#attunement-hybrids-471)
-    1.  [Flamecharm (FIR)](#flamecharm-hybrids-472)
-    2.  [Frostdraw (ICE)](#frostdraw-hybrids-473)
-    3.  [Thundercall (LTN)](#thundercall-hybrids-474)
-    4.  [Galebreathe (WND)](#galebreathe-hybrids-475)
-    5.  [Shadowcast (SDW)](#shadowcast-hybrids-476)
-    6.  [Ironsing (MTL)](#ironsing-hybrids-477)
-    7.  [Bloodrend (BLD)](#bloodrend-hybrids-478)
-
-## Exclusive 4.7.0
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Bloodrender  
-Bloodrender;4.23a | 1BLD | Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'. |
-| File:TalentCardImage2.png | First Blood  
-Bloodrender;4.23f | 10BLD | Your first blood mantra you use in combat has no blood cost. |
-| File:TalentCardImage2.png | Adept Bloodrender  
-Bloodrender;4.23b | 20BLD | You can now obtain 1-star Bloodrender mantras. |
-| File:TalentCardImage2.png | Bloodwarden's Sense  
-Bloodhound;4.22a | 30BLD | Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly. |
-| File:TalentCardImage2.png | Expert Bloodrender  
-Bloodrender;4.23c | 30BLD | You can now obtain 2-star Bloodrender mantras. |
-| File:TalentCardImage2.png | Sheltering Grasp  
-Bloodrender;4.23j | 30BLD | Blood mantras cast within blood pools have a reduced blood cost. |
-| File:TalentCardImage2.png | Crimson Fountain  
-Bloodrender;4.23e | 40BLD | Blockbreaking or flourishing an enemy now spills a pool of blood below them. |
-| File:TalentCardImage2.png | Sanguine Siphon  
-Bloodrender;4.23i | 40BLD | Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra. |
-| File:TalentCardImage2.png | Master Bloodrender  
-Bloodrender;4.23d | 50BLD | You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health) |
-| File:TalentCardImage2.png | Rush Hour  
-Bloodrender;4.23h | 50BLD | Stab yourself to become stronger, faster, and deal increased blood bar damage. |
-| File:TalentCardImage2.png | Smell of Blood  
-Bloodhound;4.22b | 65BLD | When people touch a blood pool, briefly see their blood and blood poison. |
-| File:TalentCardImage2.png | Hemorrhaging Blow  
-Bloodrender;4.23g | 95BLD  
-Master Bloodrender;4.23a | Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD) |
-
-## Attunement Hybrids 4.7.1
-
-### Flamecharm Hybrids 4.7.2
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Scorchblood  
-Bloodsong;4.24f | 40BLD  
-40FIR | Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood. |
-
-### Frostdraw Hybrids 4.7.3
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Cold Blooded  
-Bloodsong;4.24c | 40BLD  
-40ICE | Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK) |
-
-### Thundercall Hybrids 4.7.4
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Electrolyte  
-Bloodsong;4.24d | 40BLD  
-40LTN | Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health. |
-
-### Galebreathe Hybrids 4.7.5
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Brain Death  
-Bloodsong;4.24b | 40BLD  
-40WND | Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra. |
-
-### Shadowcast Hybrids 4.7.6
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Malevolent Sapper  
-Bloodsong;4.24e | 40BLD  
-40SDW | The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent. |
-
-### Ironsing Hybrids 4.7.7
-
-| Media | Talent | Prerequisites | Card Description |
-| --- | --- | --- | --- |
-| File:TalentCardImage2.png | Blood and Iron  
-Bloodsong;4.24a | 40BLD  
-40MTL | Pulling rods out of your opponent now replenishes an equivalent amount of blood. |
+2.  [Body and Mind](#body-and-mind-hybrids-421)
+    1.  [Intelligence (INT)](#intelligence-hybrids-422)
+3.  [Attunement (ELM)](#attunement-hybrids-423)
+    1.  \[#Thundercall Hybrids 4.2.4
+        
 
 **Undefined:**
 
 **Generic:**
 
-1.  [Power](#power-exclusive-x10)
-2.  [Quest](#quest-exclusive-x11)
-3.  [Fishing](#fishing-x12)
+1.  [Quest](#quest-exclusive-x10)
+2.  [Fishing](#fishing-x11)
 
-## Power Exclusive X.1.0
+## Quest Exclusive X.1.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
-| File:TalentCardImage2.png | Triathlete  
-Athlete;4.16a | Power 1 | You swim faster in water. (+2 Passive Agility) |
-| File:TalentCardImage2.png | Sunken Predator  
-Apex Predator;4.12c | Power 11 | Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility) |
+| File:TalentCardImage2.png | Spell Shout  
+Deepwoken;4.45a | [Quest](Valikor.md) | You will now shout your mantra name upon cast. |
+| File:TalentCardImage2.png | Ethiron's Gaze  
+Drowned Secret;4.47a | [Quest](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) | Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the Eternal Gale more clearly now. |
 
-## Fishing X.1.2
+## Fishing X.1.1
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1067,15 +866,65 @@ Angler;4.10b | 30 Fishing | Once something's caught your line, it's much harder 
 | File:TalentCardImage2.png | Fisher's Lure  
 Angler;4.10c | 50 Fishing | Fish are drawn to your line more quickly. |
 
+**Power:**
+
+1.  [Exclusive](#exclusive-x20)
+2.  [Non-Exclusive](#non-exclusive-x21)
+3.  [Oaths](#oaths-x22)
+    1.  [Dawnwalker](#dawnwalker-x23)
+
+## Exclusive X.2.0
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Triathlete  
+Athlete;4.16a | Power 1 | You swim faster in water. (+2 Passive Agility) |
+| File:TalentCardImage2.png | The Sound from Below  
+Deepwoken;4.45b | Power 2 | You can hear it pounding in your head. The sound that comes from beneath the waves. Will you respond? |
+| File:TalentCardImage2.png | Sunken Predator  
+Apex Predator;4.12c | Power 11 | Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility) |
+
+## Non-Exclusive X.2.1
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Authority Intimidation  
+Authority Interrogator;4.17a | Power 10  
+60LTN | Lightning moves slow your opponent more. |
+| File:TalentCardImage2.png | Blackhole  
+Death Speaker;4.44a | Power 13  
+60SDW  
+Singularity | Your singularity pulls everyone nearby in. |
+
+## Oaths X.2.2
+
+### Dawnwalker X.2.3
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Oath: Dawnwalker  
+Dawnwalker;4.43a | Power 15  
+[Other](Talents.md#dawnwalker) | You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+2 Combat Mantra Slot) |
+| File:TalentCardImage2.png | Absolute Radiance  
+Dawnwalker;4.43b | Oath: Dawnwalker;4.43a  
+[Other](Talents.md#dawnwalker) | Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. |
+| File:TalentCardImage2.png | Protagonist Syndrome  
+Dawnwalker;4.43c | Oath: Dawnwalker;4.43a  
+[Other](Talents.md#dawnwalker) | The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast. |
+| File:TalentCardImage2.png | Luminous Flash  
+Dawnwalker;4.43d | Oath: Dawnwalker;4.43a  
+[Other](Talents.md#dawnwalker) | After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light. |
+
 **Oaths:**
 
-1.  [Arcwarder](#arcwarder-x20)
-2.  [Blindseer](#blindseer-x21)
-3.  [Bladeharper](#bladeharper-x22)
-4.  [Chainwarden](#chainwarden-x23)
-5.  [Contractor](#contractor-x24)
+1.  [Arcwarder](#arcwarder-x30)
+2.  [Blindseer](#blindseer-x31)
+3.  [Bladeharper](#bladeharper-x32)
+4.  [Chainwarden](#chainwarden-x33)
+5.  [Contractor](#contractor-x34)
+6.  [Dawnwalker](#dawnwalker-x35)
 
-## Arcwarder X.2.0
+## Arcwarder X.3.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1100,7 +949,7 @@ Arcwarder;4.13e | Arcwarder;4.13a
 Arcwarder;4.13f | Arcwarder;4.13a  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
-## Blindseer X.2.1
+## Blindseer X.3.1
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1112,7 +961,7 @@ Mental Fortress
 Blindseer;4.19b | Oath:Blindseer;4.19a  
 [Other](Talents.md#blindseer) | The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted. |
 
-## Bladeharper X.2.2
+## Bladeharper X.3.2
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1134,7 +983,7 @@ Bladeharper;4.21e | Oath: Bladeharper;4.21a
 Bladeharper;4.21f | Oath: Bladeharper;4.21a  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
-## Chainwarden X.2.3
+## Chainwarden X.3.3
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1148,7 +997,7 @@ Chainwarden;4.29b | Oath: Chainwarden;4.29a
 Chainwarden;4.29c | Oath: Chainwarden;4.29a  
 [Other](Talents.md#chainwarden) | On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick. |
 
-## Contractor X.2.4
+## Contractor X.3.4
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1161,11 +1010,28 @@ Contractor;4.36b | Oath: Contractor;4.36a
 Contractor;4.36c | Oath: Contractor;4.36a  
 [Other](Talents.md#contractor) | Pulls together any two opponents you've attached Hidden Tendril to. |
 
+## Dawnwalker X.3.5
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Oath: Dawnwalker  
+Dawnwalker;4.43a | Power 15  
+[Other](Talents.md#dawnwalker) | You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+2 Combat Mantra Slot) |
+| File:TalentCardImage2.png | Absolute Radiance  
+Dawnwalker;4.43b | Oath: Dawnwalker;4.43a  
+[Other](Talents.md#dawnwalker) | Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. |
+| File:TalentCardImage2.png | Protagonist Syndrome  
+Dawnwalker;4.43c | Oath: Dawnwalker;4.43a  
+[Other](Talents.md#dawnwalker) | The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast. |
+| File:TalentCardImage2.png | Luminous Flash  
+Dawnwalker;4.43d | Oath: Dawnwalker;4.43a  
+[Other](Talents.md#dawnwalker) | After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light. |
+
 **Unobtainable:**
 
 1.  [Developer Specs](#developer-specs-x30)
 
-## Developer Specs X.3.0
+## Developer Specs X.4.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |

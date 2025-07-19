@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 149378
+revid: 152295
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Medium Wea
 | swing speed | 1.06x |
 | penetration | 15% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 100 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Maestro Evengarde Rest |
-| description | "A mesmerizing blade of obsidian and violet, you feel as if the sword has a soul of its own. It seems wise to only unsheathe it momentarily." |
+| description | A mesmerizing blade of obsidian and violet, you feel as if the sword has a soul of its own. It seems wise to only unsheathe it momentarily. |
 
 ## Description
 

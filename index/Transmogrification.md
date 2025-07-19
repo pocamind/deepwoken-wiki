@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 151817
+revid: 152426
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Equipment, Outfits]

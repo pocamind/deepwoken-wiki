@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 152247
+revid: 152277
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -362,7 +362,7 @@ Image
 | Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ | ? |
 | Yellow | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
 | White | File:Whitetelegraph.png | ✗ | ✗ | ✗ | ✗ |
-| Purple | File:Purpletelegraph.png | ◯ | ◯ | ◯ | ? |
+| Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ | ? |
 | Green | File:Greentelegraph.png | ✗ | ✗ | ✗ | ◯ |
 | Blue | File:Bluetelegraph.png | ✗ | ◯ | ✗ | ? |
 

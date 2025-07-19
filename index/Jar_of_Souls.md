@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 138371
+revid: 152252
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -55,3 +55,4 @@ When obtained, Jar of Soul will spend its points on the following stats:
 -   [Golems](Rock_Golem.md), which are formed using the souls of villagers, have human souls.
 -   The first bell with a passive ability, the second being [Resurrection](Resurrection.md).
 -   Your bell will shows up to five dots depending on how many souls you've gather to max it out.
+-   It is close in design to Ironman's Unibeam attack.

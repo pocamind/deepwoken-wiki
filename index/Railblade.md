@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 149153
+revid: 152289
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords, The Ignition Union, Heavy Weapons]
@@ -19,13 +19,14 @@ categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatsw
 | penetration | 25% |
 | special effect | Sets enemies you hit with the critical on fire. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 100 |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2 (F1/F2)Voidwalker Bounty Chests |
-| description | "A now legendary blade devised by the Ignition Union to exterminate the terrifying foes lurking deeper within the Depths. Said to constantly generate a warding heat that protects the wearer against the insidious chill of the Eternal Gale." |
+| description | A now legendary blade devised by the Ignition Union to exterminate the terrifying foes lurking deeper within the Depths. Said to constantly generate a warding heat that protects the wearer against the insidious chill of the Eternal Gale. |
 
 The Railblade is a weapon in _Deepwoken_.
 

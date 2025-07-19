@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 148303
+revid: 152301
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -27,7 +27,7 @@ Attributes window
 -   Agility → use _the **[Ankle Weights](Training_Gear.md#attribute-training-gears)**_
 -   Intelligence → _complete problems in the **[Math Textbook](Training_Gear.md#attribute-training-gears)**/use the **[Encyclopedia](Training_Gear.md#attribute-training-gears)**_
 -   Willpower → _use the **[Prayer Beads](Training_Gear.md#attribute-training-gears)**_
--   Charisma → _recite the_ **[How to Make Friends](How_to_Make_Friends.md)** _book (requires nearby audience)_
+-   Charisma → _recite the_ **[How to Make Friends](How_to_Make_Friends.md)** _book/play an **[Instrument](Instruments.md)** (requires nearby audience)_
 
 You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 for each extra [Attunement](Attunements.md) you have, although if you drink an attunement potion before you've invested all of your points, it will use a point)
 
@@ -50,7 +50,7 @@ Body and Mind are categories for the Core Attributes. Talents, weapon requiremen
 
 ### Strength (STR)
 
--   Physical strength. _Increases **carry load** and **armor penetration**_**. This Attribute falls under the Body category.**
+-   Physical strength. _Increases **carry load** and **armor penetration**_. This Attribute falls under the Body category.
     -   Increases [Carry Load](Carry_Load.md) by 1 per point in Strength.
     -   For every point in strength, gain 0.1% melee and mantra penetration.
     -   Many heavy weapons require an amount of Strength to be held, such as a _[Petra's Anchor](<Petra's_Anchor.md>)_ needing 10 STR, or a _[Hivelord's Hubris](<Hivelord's_Hubris.md>)_ needing 60 STR.
@@ -74,7 +74,7 @@ Body and Mind are categories for the Core Attributes. Talents, weapon requiremen
 
 ### Agility (AGL)
 
--   Sleight of Hand and Nimbleness. _Increases **Parkour** and **Stealth** slightly per point._[\[1\]](#cite-note-1) This Attribute falls under the Body category.
+-   Sleight of Hand and Nimbleness. _Increases **Parkour** and **[Stealth](Stealth.md)** slightly per point._[\[1\]](#cite-note-1) This Attribute falls under the Body category.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speed bonuses from parkour.
         -   **Your mobility is affected by your health, reducing speed/maneuverability the lower your health gets**.
             -   _This can be mitigated with the [Endurance Runner](Talents.md#alley-cat) Talent._

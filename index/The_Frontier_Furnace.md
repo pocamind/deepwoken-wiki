@@ -1,6 +1,6 @@
 ---
 title: The Frontier Furnace
-revid: 151856
+revid: 152394
 source: https://deepwoken.fandom.com/wiki/The_Frontier_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, Floor 1, The Ignition Union]

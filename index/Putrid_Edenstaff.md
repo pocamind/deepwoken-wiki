@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 151818
+revid: 152294
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, Hallowtide, Heavy Weapons, Unique Critical]
@@ -19,6 +19,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, H
 | endlag | 0.1s |
 | penetration | 15% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 50 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |

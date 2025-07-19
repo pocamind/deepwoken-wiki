@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 151639
+revid: 152288
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -14,15 +14,15 @@ categories: [Chrysid NPCs, NPCs, Talents]
 | aspect | Chrysid |
 | location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing, Isle of Vigils, Guild Bases, Meteor Isle |
 
-**You can press "Ctrl + F" & "\[F3\]"(Windows) or "Cmd + F"(Mac) to search for prompts!**
-
 “ Ah, traveler! Come, come and sit! For a small price I will surmise your great destiny! ”
 
 ― Mystic
 
 ## Overview
 
-Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For, they will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get mantras or cards from the correlating family of Talents. For example, if you tell them, "My mind is indomitable", you will get [Mental Fortress](Talents.md#mental-fortress) Talents. This interaction could be repeated infinite number of times with sufficient number of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose.
+Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For 20, they will give you many prompts to choose from, these prompts are Talent category names/Attribute Mantras. Upon picking a prompt, the next time you obtain a Talent/Mantra hand, you will be guaranteed to get Mantras or cards from the correlating family of Talents. This interaction could be repeated infinite number of times with sufficient number of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose.
+
+Note: Talents/Mantras are generated as the cards are flipped, meaning Mystics can be used during a Power up and inbetween card choices to manipulate the cards you obtain on your next hand.
 
 -   **Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances.**
 -   **Cannot give Rare Talent Cards.**
@@ -40,7 +40,7 @@ Next to the Talent category's name, it will list a number. This number is the am
 
 Some Talents will not appear as there will be no Mystic choices for them in-game. Those Talents can only be obtained through luck or scarcity of other cards.
 
-### [Strength](Attributes.md#strength)
+### [Strength](Attributes.md#str)
 
 -   _Annihilator_ (Collapsed Lung)
 -   _Berserker_ (Berserk)
@@ -48,13 +48,13 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Rampaging Brute_ (Unwavering Resolve, Shield Breaker, Million Ton Piercer)
 -   _Raging Bull_ (Broken Ankles) **(Note; Cannot give Bulldozer, Piercing Blow)**
 
-### [Fortitude](Attributes.md)
+### [Fortitude](Attributes.md#ftd)
 
 -   _Bastion_ (Battle Tendency, Braced Collapse, Moving Fortress, Perseverance, Reinforced Armor)
 -   _Human Architecture_ (Brick Wall, Not a Scratch)
 -   _Shieldmaster_ (Knight's Rally, Turtle Shell)
 
-### [Agility](Attributes.md#agility)
+### [Agility](Attributes.md#agl)
 
 -   _Acrobat_ (Time to Go, Kick Off, Steady Footing)
 -   _Alley Cat_ (Scaredy Cat, Endurance Runner, Conditioned Runner)
@@ -67,11 +67,11 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Trickster_ (Down Comes the Claw, Pursuit, Crippling Comeuppance, Maiming Claws) **(Note; Cannot give Cheap Shot)**
 -   _Vigil Swordsman_ (Bear Trap, Blade Dancer, Action Surge, Spinning Swordsman) **(Note; Cannot give Speed Demon, Air Counter)**
 
-### [Body](Attributes.md#body)
+### [Body](Attributes.md#body-and-mind)
 
 -   Nothing currently
 
-### [Intelligence](Attributes.md#intelligence)
+### [Intelligence](Attributes.md#int)
 
 -   _Adept Caster_ (Neural Overload) **(Note; Cannot give Everchanging Aegis, Perfect Flash, Overflowing Dam)**
 -   _Alchemist_ (Apothecary, Chain Reaction, Chemist's Bag, Wild Alchemy) **(Note; Cannot give Placebo Effect, Potion Quaffer)**
@@ -82,7 +82,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Omniscient_ (Successive Prediction, Twelve Steps Ahead) **(Note; Cannot give All Knowing)**
 -   _Tactician_ (Hard Read, Target Switch, Foolish Outburst, Water off a Duck's Back) **(Note; Cannot give Punishing Blow)**
 
-### [Willpower](Attributes.md#willpower)
+### [Willpower](Attributes.md#wll)
 
 -   _Champion_ (Underdog) **(Note; Cannot give Champion's Regalia, Defiance)**
 -   _Human Architecture_ (Brick Wall, Not a Scratch)
@@ -92,7 +92,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Mindbreaker_ (Shared Misery) **(Note; Cannot give Lose Your Mind, Piercing Will)**
 -   _Sturdy Resolve_ (Grasp on Reality, Unfazed)
 
-### [Charisma](Attributes.md#charisma)
+### [Charisma](Attributes.md#cha)
 
 -   _Charm Caster_ (Charismatic Cast, Tough Love, Chaotic Charm, Lasting Charisma, Dazing Finisher)
 -   _Empath_ (Give and Take)
@@ -108,7 +108,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Vocalist_ (Propagandist) **(Note; Cannot give Encore)**
 -   _Vow of Mastery_ (Command: Live, Command: Summon)
 
-### [Mind](Attributes.md#mind)
+### [Mind](Attributes.md#body-and-mind)
 
 -   _Master Survivalists_ (Survival Kit)
 
@@ -310,7 +310,6 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   Mystics used to have unique dialogue for most Talent trees in the game, but due to this system overall being quite confusing and requiring a third party website most of the time, these were removed and were replaced with simply the Talent category's name.
 -   If you lack the 25 Note fee, the Mystic will state: "No money, friend? How ever will I feed myself?"
 -   When you are at a campfire, hovering over classes in your Talent list in-game shows you the Mystic prompt for it.
--   Mystics are almost exclusively [Chrysid](Chrysid.md). Seemingly due to their connection with spirituality and religion, however there is one non-Chrysid mystic, being the one in [Saramaed's Hollow](Saramaed_Hollow.md).
--   The mystic uses the following outfits made by SirAndrove2:
--   [https://www.roblox.com/catalog/6400450739/Nilfgaardian](https://www.roblox.com/catalog/6400450739/Nilfgaardian) - Shirt
--   [https://www.roblox.com/catalog/6399954985/Nilfgaardian](https://www.roblox.com/catalog/6399954985/Nilfgaardian) - Pants
+-   Mystics are almost exclusively [Chrysid](Chrysid.md). Seemingly due to their connection with spirituality and religion, however there is one non-Chrysid mystic, being the one in [Saramaed Hollow](Saramaed_Hollow.md) who is a [Vesperian](Vesperian.md). Strangely, this Mystic still has the [Chrysid](Chrysid.md) antennae.
+-   The Mystic uses the following outfits made by SirAndrove2:
+    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/6400450739/Nilfgaardian) / [Pants](https://www.roblox.com/catalog/6399954985/Nilfgaardian)

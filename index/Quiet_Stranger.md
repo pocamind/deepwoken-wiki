@@ -1,6 +1,6 @@
 ---
 title: Quiet Stranger
-revid: 151939
+revid: 152332
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Murmurs, The Ministry, NPCs located in the Etrean Luminant]

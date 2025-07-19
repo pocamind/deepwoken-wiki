@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 151866
+revid: 152384
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Children of Navae]

@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 151803
+revid: 152434
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Talents, Etrea, NPCs located in the Etrean Luminant, Isle of Vigil]

@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 151857
+revid: 152393
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Etrean Luminant, Eastern Luminant, Hallowtide]

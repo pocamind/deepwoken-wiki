@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 151954
+revid: 152324
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Event Item, Weapons with Unique Criticals, Daggers, Hallowtide, Light Weapons, Weapons with Consecutive Criticals]

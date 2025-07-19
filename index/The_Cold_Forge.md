@@ -1,6 +1,6 @@
 ---
 title: The Cold Forge
-revid: 151864
+revid: 152386
 source: https://deepwoken.fandom.com/wiki/The_Cold_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, The Divers]

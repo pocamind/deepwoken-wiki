@@ -1,6 +1,6 @@
 ---
 title: The Understrand
-revid: 151839
+revid: 152410
 source: https://deepwoken.fandom.com/wiki/The_Understrand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Layer 1, The Ministry]

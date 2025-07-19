@@ -1,6 +1,6 @@
 ---
 title: Surge
-revid: 151924
+revid: 152345
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths, Oath Trainer, NPCs located in the First Layer]

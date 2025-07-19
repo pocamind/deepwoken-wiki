@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 151943
+revid: 152329
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -36,7 +36,9 @@ The Stoneheart is a Heavy Greathammer that is obtained from [Duke Erisia](Duke_I
 
 ## Critical
 
-This weapon's critical creates a massive [golem-beam](Rock_Golem.md) AOE blast. It can be charged by holding down R, releasing it at any point during the critical causes it to release the blast. The charging animation will instantly end after 2.5 seconds, disallowing you from charging it forever. The damage and AoE this critical has scales with how long you charged it. This attack is **unparryable** and **automatically guard breaks** regardless of charge. This attack also **bypasses armor resistances** (it is NOT true damage, general resistances can still reduce the damage you're taking).
+The user charges up a massive blast similar to the [Rock Golem's](Rock_Golem.md) laser attack, causing those to be ragdolled when hit. It can be charged by holding down R, releasing it at any point during the critical causes it to release the blast. The charging animation will instantly end after 2.5 seconds, disallowing you from charging it forever. The damage and size this critical scales with the amount of time spent charging the critical.
+
+The critical is **unparryable** and **automatically** **guardbreaks** regardless of the charge, as well as **bypassing armor resistances** (it is NOT true damage, general resistances can still reduce the damage you're taking).
 
 This attack has a **9 second** cooldown; the cooldown starts when you initially press R, so charging it will not affect the cooldown.
 
