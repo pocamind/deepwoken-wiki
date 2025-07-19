@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Knight
-revid: 149229
+revid: 152699
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths, Eastern Luminant]

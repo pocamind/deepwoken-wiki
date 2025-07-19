@@ -1,6 +1,6 @@
 ---
 title: Mod Business Competitive
-revid: 151544
+revid: 152721
 source: https://deepwoken.fandom.com/wiki/Mod_Business_Competitive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Spec/Mod Outfits]

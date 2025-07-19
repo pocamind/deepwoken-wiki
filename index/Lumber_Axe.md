@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 151217
+revid: 152668
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -33,6 +33,15 @@ The Lumber Axe can be used for the following:
 -   Chopping trees and their coral variants.
 -   Breaking structures.
 -   Chopping players... (You monster.)
+-   As a weapon, the Lumber Axe has the following stats:
+    -   10 base damage
+    -   8 strength scaling
+    -   3 weight
+    -   6.5 range
+    -   0.5s windup
+    -   0.65s endlag
+    -   Lumber Axes can carry the enchantment of your equipped weapon.
+        -   Enchantments that require stacks to proc their effects (Detonation, Grim, etc.) will have their own amount on the Lumber Axe.
 
 ## Locations
 

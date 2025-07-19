@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 151732
+revid: 152504
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, The Central Authority]
@@ -8,13 +8,13 @@ categories: [Enemies, Authority Enemies, The Central Authority]
 
 # Authority Peacekeeper
 
-Template:EnemyInfobox1.0
+_"Authority Guard" redirects here. If you were looking for a different page, view the [disambiguation](<Authority_Guard_(disambiguation).md>)._ Template:EnemyInfobox1.0
 
 ## Description
 
 _Not to be confused with the outfit of a similar name, the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md)_
 
-Authority Peacekeepers are a type of enemy NPC found patrolling [Fort Merit](Fort_Merit.md). Despite their intimidating appearance, they are surprisingly weak compared to the [Authority Officer](Authority_Officer.md).
+Authority Peacekeepers (known as Authority Guards when hovering over their PvE tag) are a type of enemy NPC found patrolling [Fort Merit](Fort_Merit.md). Despite their intimidating appearance, they are surprisingly weak compared to the [Authority Officer](Authority_Officer.md).
 
 Their appearance consists of a Authority Peacekeeper Uniform and an Authority Helmet. They are almost identical to the [Authority Soldier](Authority_Soldier.md), with only those wielding their [Rifle Spear](Rifle_Spear.md) being unique at a glance.
 

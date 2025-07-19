@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 149277
+revid: 152506
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -35,18 +35,17 @@ It drops surprisingly commonly, exclusively from the [Scion of Ethiron](Scion_of
 
 ## Critical
 
-The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of purple energy. The critical is unable to be parried, signified by the red eye icon and sound que before firing. Holding down the critical attack button causes it to charge for a few more seconds, increasing the range, posture damage dealt **and damage dealt** as well as becoming an insta-guard break at max charge. The critical also applies charm upon hit.
-
-This critical will trigger a Nautilodaunt's vent if you attempt to use it on the Squibbo, but during the charging state, the squibbo AI will be forced into blocking which will make it easier for other players to land hits on it from behind, or use a blockbreaking attack on it.
+The user lowers the blade, charging a shot of purple energy, applying ragdoll and Charm on hit. It can be charged by holding R, and releasing it at any point will cause the critical to be fired. After fully charging the critical (at around 2 seconds), firing the critical will increase the range, damage, and will instantly guardbreak the opponent on hit.
 
 The critical has a cooldown of **15 seconds**.
 
 ## Trivia
 
 -   This weapon is designed noticeably differently from other weapons prefixed "Kyrs." This may be a result of it being more closely tied to the [Scion of Ethiron](Scion_of_Ethiron.md) than the [Kyrsgarde](Kyrsgarde.md).
-    -   It shares this property with the [Kyrswynter](Kyrswynter.md).
+    -   It shares this property with the [Kyrswynter](Kyrswynter.md), being tied to the Kyrsgarde prior to New Kyrsa's fall.
     -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md), **Kyrsieger**)
 -   The Kyrsieger was used in an assault on Constellia, the city Kaide, The Drowned Light ruled over.
+-   This critical will trigger a Nautilodaunt to vent. While charging the critical, it will be forced into blocking which will make it easier for other players to land hits on it from behind, or using an instant guardbreak attack on it.
 -   Weapon is soulbound upon being equipped.
 -   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.
 -   At max HVY and CHA, the weapon deals 40.3 damage.

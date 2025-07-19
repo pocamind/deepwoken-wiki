@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Lantern
-revid: 120039
+revid: 152565
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Torso]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:, Lower Erisia, Crafting:, (1) Dying Ember, (1) Iron, (1) Fiber |
-| description | "A sturdy lantern used to illuminate the path forward. With light as our guide, we are never truly lost." |
+| description | A sturdy lantern used to illuminate the path forward. With light as our guide, we are never truly lost. |
 
 ## Description
 

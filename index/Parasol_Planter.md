@@ -1,6 +1,6 @@
 ---
 title: Parasol Planter
-revid: 147956
+revid: 152574
 source: https://deepwoken.fandom.com/wiki/Parasol_Planter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Equipment, Head, Hats]
@@ -12,7 +12,7 @@ categories: [World Event, Equipment, Head, Hats]
 |---|---|
 | type | Head |
 | rarity | Unique |
-| selling price | 100 |
+| selling price | 150 |
 | requirements | Level 10 |
 | weight | 1 |
 | innate stats | +2 Health +3 Rare Pips |
@@ -22,7 +22,7 @@ categories: [World Event, Equipment, Head, Hats]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Interluminary Parasol |
-| description | "The remains of a Parasol that have been relentlessly butchered in the name of fashion. Believed to migrate between the regions of the Voidsea, the sight of a Parasol is more than enough to make many lose their lunch. It's thought that they act as a form of cross-pollinator for various creatures that make their way from the Depths to Lumen, exchanging the traits and properties between them and dismantling ecosystems by injecting them into a competing niche." |
+| description | The remains of a Parasol that have been relentlessly butchered in the name of fashion. Believed to migrate between the regions of the Voidsea, the sight of a Parasol is more than enough to make many lose their lunch. It's thought that they act as a form of cross-pollinator for various creatures that make their way from the Depths to Lumen, exchanging the traits and properties between them and dismantling ecosystems by injecting them into a competing niche. |
 
 ## Description
 

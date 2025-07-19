@@ -1,6 +1,6 @@
 ---
 title: Nomad Pendant
-revid: 150793
+revid: 152675
 source: https://deepwoken.fandom.com/wiki/Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Miner's Landing, Heart of Enmity |
-| description | "..." |
+| description | ... |
 
 ## Description
 

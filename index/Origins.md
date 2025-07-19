@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 144943
+revid: 152583
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -20,7 +20,7 @@ _Castaway_ is the default and intended way to play the game, and is available to
 
 -   You can choose between [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md) as your spawn.
 -   You begin with nothing but the [Stranded](Stranded.md) outfit, and a starting weapon of your choice; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective [Attunement](Attunements.md). _If you have [no Attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead._
-    -   Alternatively, if you complete the [Tutorial](Tutorial.md), you will start with an extra ,[Leather Gloves](Leather_Gloves.md), a Mantra of your choosing, [Flint](Flint.md), and a Dumbbell, on top of what you already start with.
+    -   Alternatively, if you complete the [Tutorial](Tutorial.md), you will start with an extra 29/59 ,[Leather Gloves](Leather_Gloves.md), a Mantra of your choosing, [Flint](Flint.md), and a Dumbbell, on top of what you already start with.
 -   Your starting reputations are:
     -   Friend of The Kingdom of Etrea and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions

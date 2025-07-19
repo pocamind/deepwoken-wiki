@@ -1,6 +1,6 @@
 ---
 title: Atra
-revid: 151681
+revid: 152519
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]

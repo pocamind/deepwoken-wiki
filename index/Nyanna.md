@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 150375
+revid: 152623
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the First Layer]
@@ -123,12 +123,12 @@ Sold Items
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><p><b>For </b>:</p>
+  <td><p><b>For 80 </b>:</p>
   <ul>
     <li><b><font>Starter</font></b>: <a href="Hired_Mercenary.md">Hired Mercenary</a>, <a href="Scholar.md">Scholar</a>.</li>
     <li><b><font>Adept</font></b>: <a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a>, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Duelist's_Attire.md">Duelist's Attire</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
     <li><b><font>Expert</font></b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>.</li>
-  </ul><p><b>For </b>:</p>
+  </ul><p><b>For 200 </b>:</p>
   <ul>
     <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Merchant_Robes.md">Merchant Robes</a>.</li>
     <li><b><font>Adept</font></b>: <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>.</li>
@@ -138,7 +138,7 @@ Sold Items
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td><p><b>For </b>:</p>
+  <td><p><b>For 300 </b>:</p>
   <ul>
     <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a></li>
     <li><b><font>Medium Weapons</font></b>: <a href="Trident_Spear.md">Trident Spear</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>

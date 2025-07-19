@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 151437
+revid: 152549
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -22,7 +22,7 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Zana |
-| description | "Damage done with a Katana isn't received until the user sheathes their weapon." |
+| description | Damage done with a Katana isn't received until the user sheathes their weapon. |
 
 ## Description
 

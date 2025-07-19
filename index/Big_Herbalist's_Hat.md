@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 151749
+revid: 152475
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]

@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 151001
+revid: 152684
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons, Items]
@@ -25,7 +25,7 @@ categories: [Weapons, Rapiers, Light Weapons, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chime of Conflict, Duke Ishamon Erisia, Saramaed Hollow, Sold by Traan Zakshun for 1,000 |
-| description | "Not much is known about these rapiers other than the fact that they're a reproduction of Duchess Thera Erisia's rapier, which she is said to have died with in a dispute while being vastly outnumbered, the tale goes that she actually made it through the onslaught but died from blood loss in the arms of her noble son Nir, who took her mantle shortly after." |
+| description | Not much is known about these rapiers other than the fact that they're a reproduction of Duchess Thera Erisia's rapier, which she is said to have died with in a dispute while being vastly outnumbered, the tale goes that she actually made it through the onslaught but died from blood loss in the arms of her noble son Nir, who took her mantle shortly after. |
 
 ## Description
 

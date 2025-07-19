@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 151305
+revid: 152618
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -54,22 +54,4 @@ Shrine of Mastery has two different effects.
 
 ## Navigation
 
-[Shrine of Temptation](Shrine_of_Temptation.md)
-
-[Shrine of Blasphemy](Shrine_of_Blasphemy.md)
-
-**Shrine of Mastery**
-
-[Shrine of Chance](Shrine_of_Chance.md)
-
-[Shrine of Order](Shrine_of_Order.md)
-
-[Shrine of Ostentation](Shrine_of_Ostentation.md)
-
-[Shrine of Conceit](Shrine_of_Conceit.md)
-
-[Shrine of Division](Shrine_of_Division.md)
-
-[Shrine of Unification](Shrine_of_Unification.md)
-
-[Shrine of Solitude](Shrine_of_Solitude.md)
+Variants: [Shrine of Temptation](Shrine_of_Temptation.md)

@@ -1,6 +1,6 @@
 ---
 title: Moon Blades
-revid: 138159
+revid: 152712
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, "Core-Attribute based weapons", Daggers]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Dagger |
 | requirements | 60 LHT, 30 INT |
-| damage | 13 + 3.9 BLD |
+| damage | 13 + |
 | scaling | LHT: 8, INT: 2 |
 | range | 6 |
 | swing speed | 1.25x |
@@ -22,13 +22,14 @@ notices:
 | penetration | 30% |
 | special effect | On hit, take away small amounts of blood from your opponent. |
 | stances | 1 Handed |
+| selling price | 100 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Unobtainable |
-| description | "A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison." |
+| description | A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Division
-revid: 151304
+revid: 152617
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -39,22 +39,4 @@ For 5 and a Mantra of your choice, obtain a Roll 2.
 
 ## Navigation
 
-[Shrine of Temptation](Shrine_of_Temptation.md)
-
-[Shrine of Blasphemy](Shrine_of_Blasphemy.md)
-
-[Shrine of Mastery](Shrine_of_Mastery.md)
-
-[Shrine of Chance](Shrine_of_Chance.md)
-
-[Shrine of Order](Shrine_of_Order.md)
-
-[Shrine of Ostentation](Shrine_of_Ostentation.md)
-
-[Shrine of Conceit](Shrine_of_Conceit.md)
-
-**Shrine of Division**
-
-[Shrine of Unification](Shrine_of_Unification.md)
-
-[Shrine of Solitude](Shrine_of_Solitude.md)
+Variants: [Shrine of Temptation](Shrine_of_Temptation.md)

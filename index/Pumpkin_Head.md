@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 141602
+revid: 152540
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment, Event Item, Items, Hallowtide]
@@ -21,7 +21,7 @@ categories: [Head, Helmets, Equipment, Event Item, Items, Hallowtide]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Hallowtide |
-| description | "Just make sure you still have a head after you take it off." |
+| description | Just make sure you still have a head after you take it off. |
 
 ## Description
 

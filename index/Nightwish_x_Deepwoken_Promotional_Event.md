@@ -1,6 +1,6 @@
 ---
 title: Nightwish x Deepwoken Promotional Event
-revid: 138166
+revid: 152678
 source: https://deepwoken.fandom.com/wiki/Nightwish_x_Deepwoken_Promotional_Event
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Events]

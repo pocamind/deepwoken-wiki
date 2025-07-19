@@ -1,6 +1,6 @@
 ---
 title: Prentis
-revid: 149392
+revid: 152547
 source: https://deepwoken.fandom.com/wiki/Prentis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, Summer Company]

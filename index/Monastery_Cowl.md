@@ -1,6 +1,6 @@
 ---
 title: Monastery Cowl
-revid: 150950
+revid: 152714
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -12,7 +12,7 @@ categories: [Equipment, Head, Cowls]
 |---|---|
 | type | Head |
 | rarity | Legendary |
-| selling price | 50 |
+| selling price | 25 |
 | requirements | None |
 | weight | 1 |
 | innate stats | 5% Stealth, 2 Rare Pips |

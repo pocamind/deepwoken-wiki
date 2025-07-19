@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 150075
+revid: 152677
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapons", Medium Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapo
 | swing speed | 1.02x |
 | penetration | 30% |
 | stances | 2 Handed, 1 Handed |
+| selling price | ? |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Moon's Eyrie, Voidsea Event Chests, Semblance, Dread Serpent, Weird Trader |
-| description | "These twin blades of Celestial make carry an eerie semblance of consciousness. Along their lengths run glowing tapestries of ethereal moonlight. If one listens closely, you can almost make out whispers, or perhaps cries. The blades are known to grow heavier and more unwieldy when used for unjust purposes, as though they judge the actions of its user. As such, it is thought that only a person of unwavering integrity can hope to wield them to their truest potential." |
+| description | These twin blades of Celestial make carry an eerie semblance of consciousness. Along their lengths run glowing tapestries of ethereal moonlight. If one listens closely, you can almost make out whispers, or perhaps cries. The blades are known to grow heavier and more unwieldy when used for unjust purposes, as though they judge the actions of its user. As such, it is thought that only a person of unwavering integrity can hope to wield them to their truest potential. |
 
 ## Description
 

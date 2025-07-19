@@ -1,9 +1,9 @@
 ---
 title: Regek
-revid: 152036
+revid: 152661
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, In progress without reason, InProgressPages, Spelltrainers, NPCs, The Hive, NPCs located in the Eastern Luminant, Quests]
+categories: [Vesperian NPCs, In progress without reason, InProgressPages, Attunement Trainers, NPCs, The Hive, NPCs located in the Eastern Luminant, Quests]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

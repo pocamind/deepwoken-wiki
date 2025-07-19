@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 151656
+revid: 152529
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Divers, Diver Enemies]

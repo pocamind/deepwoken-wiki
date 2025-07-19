@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 147980
+revid: 152566
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Drops, Coats]
@@ -12,7 +12,7 @@ categories: [Items, Equipment, Arms, Drops, Coats]
 |---|---|
 | type | Arms |
 | rarity | Rare |
-| selling price | 25 |
+| selling price | 50 |
 | requirements | PWR 8 |
 | weight | 2 |
 | innate stats | 5% Damage Vs Monsters, +2 Rare Pips, +1 Legendary Pip |
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Drops, Coats]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Rare Drop from Nautilodaunts, Reward from Weird Trader, The Diluvian Mechanism Wave 50 |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 141601
+revid: 152697
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Head, Helmets, Event Item, Items, Hallowtide]
@@ -23,7 +23,7 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Hallowtide |
-| description | "A fullbody mushroom costume. You feel the strange urge to change your name to Fungbert, or perhaps Fungula." |
+| description | A fullbody mushroom costume. You feel the strange urge to change your name to Fungbert, or perhaps Fungula. |
 
 ## Description
 

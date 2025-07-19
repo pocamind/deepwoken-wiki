@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 149698
+revid: 152647
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Garbs]
@@ -23,10 +23,6 @@ categories: [Items, Equipment, Arms, Garbs]
 | pass down | Yes |
 | obtainment | Chests from:, Crypt of the Unbroken, Miner's Landing, Lodestar, Maestro Evengarde Rest, War Mode, Heart of Enmity |
 | description | "..." |
-
-**Mercenary's Garb**
-
-[Mercenary's Boots](<Mercenary's_Boots.md>)
 
 ## Description
 

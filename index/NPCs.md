@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 149760
+revid: 152696
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -119,7 +119,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Kaab](Kaab.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Shipwright |  |
 | Kaide, The Drowned Light | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Gives lore |  |
 | [Kana](Kana.md) | Unaligned, likely The Authority | [Fort Merit](Fort_Merit.md) | None |  |
-| [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest | Having 10 Charisma allows you to charge her |
+| [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest | Having 10 Charisma allows you to charge her 20 |
 | [Kasen](Kasen.md) | Unaligned | [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | Gives Heretic's Sutra |  |
 | [Kelsius](Kelsius.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants Book Retrieval quest, grants a Whisper hand, trains a stat point for an increasing cost | If you completed the tutorial, the Whisper hand is free |
 | [Kennith](Kennith.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), steps near Etris Palace | Begins Lord Regent questline | Requires positive Etrea reputation, is killed during the events of the quest, may be found in the Kyrsan Wilds afterwards |

@@ -1,6 +1,6 @@
 ---
 title: Moonseye Scalpel
-revid: 142658
+revid: 152706
 source: https://deepwoken.fandom.com/wiki/Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons, Developer Spec]
@@ -22,6 +22,7 @@ notices:
 | penetration | 25% |
 | special effect | N/A |
 | stances | 2 Handed, 1 Handed |
+| selling price | 25 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

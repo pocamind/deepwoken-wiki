@@ -1,6 +1,6 @@
 ---
 title: Pickaxe
-revid: 146672
+revid: 152554
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]
@@ -20,7 +20,7 @@ The **pickaxe** is a utility item that allows players to mine [ore](Ores.md) dep
 The pickaxe can be obtained in two ways:
 
 -   [Crafted](Crafting_Station.md) using two (2) [Iron](Ores.md#iron) and [Wood](Wood.md).
--   Bought for free, for or for depending on the vendor.
+-   Bought for free, for 3 or for 5 depending on the vendor.
 
 ## Locations
 
@@ -30,13 +30,13 @@ The pickaxe can be obtained in two ways:
 
 The pickaxe in [Etris](Etris.md) is located on a table in the General Store.
 
--   Costs.
+-   Costs 3.
 
 **Isle of Vigils:**
 
 The pickaxe on the [Isle of Vigils](Isle_of_Vigils.md) can be found leaning against three crates outside the inn.
 
--   Costs.
+-   Costs 3.
 
 **Lower Erisia:**
 
@@ -48,7 +48,7 @@ The pickaxe at [Lower Erisia](Lower_Erisia.md) is located on a table near the we
 
 The pickaxe in the [Voidheart](Voidheart.md) is located on a table next to the [Antiquarian](Antiquarian.md).
 
--   Costs.
+-   Costs 3.
 -   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Origins.md).
 
 **Eastern Luminant:**
@@ -57,25 +57,25 @@ The pickaxe in the [Voidheart](Voidheart.md) is located on a table next to the [
 
 The pickaxe on [Summer Isle](Summer_Isle.md) is located on a cart outside the docks.
 
--   Costs.
+-   Costs 3.
 
 **Miner's Landing:**
 
 The pickaxe at [Miner's Landing](<Miner's_Landing.md>) can be found on a crate inside the pub.
 
--   Costs.
+-   Costs 3.
 
 **Meteor Isle:**
 
 The pickaxe on [Meteor Isle](Meteor_Isle.md) can be found leaning against two crates behind Ata.
 
--   Costs.
+-   Costs 3.
 
 **Greathive Aratel:**
 
 The pickaxe at [Greathive Aratel](Greathive_Aratel.md) is located on a table next to the Blacksmith.
 
--   Costs.
+-   Costs 3.
 
 **First Layer:**
 
@@ -83,13 +83,13 @@ The pickaxe at [Greathive Aratel](Greathive_Aratel.md) is located on a table nex
 
 The pickaxe in the [First Layer](First_Layer.md) is located on a table in the [Nautilodaunt](Nautilodaunt.md)'s marketplace.
 
--   Costs.
+-   Costs 5.
 
 **Castle Light:**
 
 This pickaxe in the [First Layer](First_Layer.md) is located on a barrel in the front of the castle.
 
--   Costs.
+-   Costs 5.
 
 ## Trivia
 

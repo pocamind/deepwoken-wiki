@@ -1,6 +1,6 @@
 ---
 title: Mr Toon
-revid: 151549
+revid: 152703
 source: https://deepwoken.fandom.com/wiki/Mr_Toon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | caption | Coat of the esteemed Nuttoons. |
 | tier | Unique (Spec/Mod) |
-| price | 1000 Notes |
+| price | 1000 |
 | stat_req | Power 15 |
 | bankable | Yes |
 | droppable | Yes |

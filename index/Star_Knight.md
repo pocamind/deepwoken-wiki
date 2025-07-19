@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 152325
+revid: 152667
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -8,7 +8,7 @@ categories: [Monsters, Knights]
 
 # Star Knight
 
-Template:Creature Info Box v2
+Template:Creature Infobox V3
 
 ## Description
 

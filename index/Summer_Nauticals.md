@@ -1,6 +1,6 @@
 ---
 title: Summer Nauticals
-revid: 120918
+revid: 152694
 source: https://deepwoken.fandom.com/wiki/Summer_Nauticals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Glasses]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Summer Isle (rare) |
-| description | "Timeless eyewear produced by the Summer Company. In this world, It's drip or drown. You have no way of knowing if these are genuine." |
+| description | Timeless eyewear produced by the Summer Company. In this world, It's drip or drown. You have no way of knowing if these are genuine. |
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 139584
+revid: 152662
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Spelltrainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant]
+categories: [Etrean NPCs, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant]
 ---
 
 # Vyrelda, Master of Blood

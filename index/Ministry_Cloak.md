@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 131033
+revid: 152728
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Cloaks]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Blizzard Knights |
-| description | "..." |
+| description | ... |
 
 ## Description
 

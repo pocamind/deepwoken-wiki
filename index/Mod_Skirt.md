@@ -1,6 +1,6 @@
 ---
 title: Mod Skirt
-revid: 151545
+revid: 152719
 source: https://deepwoken.fandom.com/wiki/Mod_Skirt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]

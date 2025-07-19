@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 148474
+revid: 152626
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -26,9 +26,9 @@ Upon clicking your Notes on the bottom right, you can choose to drop any amount 
 
 ### Obtaining
 
-The max amount of Notes you can carry at a time is.
+The max amount of Notes you can carry at a time is 15,000.
 
--   Asking the helper at [Etris](Etris.md) or the [Isle of Vigils](Isle_of_Vigils.md) will give you or respectively. Only one can be interacted with per character.
+-   Asking the helper at [Etris](Etris.md) or the [Isle of Vigils](Isle_of_Vigils.md) will give you 25 or 20 respectively. Only one can be interacted with per character.
 -   Selling various things to an [Antiquarian](Antiquarian.md) (weapons, gems, ores, etc.)
 -   Turning in an [Artifact](Artifacts.md) at a [Banker](Banker.md).
 -   Turning in [Knowledge](Knowledge.md) at the [Soothsayer](Soothsayer.md).

@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 150300
+revid: 152651
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement]
@@ -8,9 +8,7 @@ categories: [Mantras, Character, Attunement]
 
 # Mantras/Gallery
 
-[Overview](../Mantras.md)
-
-**Gifs**
+Variants: [Overview](../Mantras.md)
 
 ## [Flamecharm](../Flamecharm.md)
 

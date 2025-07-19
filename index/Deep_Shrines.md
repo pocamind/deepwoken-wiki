@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 151300
+revid: 152637
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -20,41 +20,41 @@ categories: [NPCs, Mechanics]
 
 ## Shrines
 
-[Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md)
+Shrine of Temptation
 
-[Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)
+Shrine of Blasphemy
 
 **Shrine of Temptation**: Trade a Mantra of your choice and 5 to gain a Whisper Draw.
 
 **Shrine of Blasphemy**: For 5, **POWER 1-16** instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws, Or **POWER 17-20** reroll a Flaw of your choice into another, random base [Flaw](Boons_and_Flaws.md#flaws).
 
-[Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md)
+Shrine of Mastery
 
-[Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md)
+Shrine of Chance
 
 **Shrine of Mastery**: For 1, trade 1 of your Trait Points into another Trait. You can also remove attribute points.
 
 **Shrine of Chance**: Trade a Talent of your choice and 5 to gain a Talent Draw with up to 3 cards of the same rarity. (Common = Advanced)
 
-[Shrine of Order](Deep_Shrines/Shrine_of_Order.md)
+Shrine of Order
 
-[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md)
+Shrine of Ostentation
 
 **Shrine of Order**: For 10, balance your stats (up to a limit of -25 points on main stats, with no limit on attunement stats,) but gain a random base [Flaw](Boons_and_Flaws.md#flaws). Can only be done once per character. You must need **POWER 8+ AND** **NO OATH** to use this.
 
 **Shrine of Ostentation**: For 10, transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
 
-[Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md)
+Shrine of Conceit
 
-[Shrine of Division](Deep_Shrines/Shrine_of_Division.md)
+Shrine of Division
 
 **Shrine of Conceit**: For 1, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
 
 Shrine of Division: For 5 and a Mantra of your choice, obtain a Roll 2.
 
-[Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md)
+Shrine of Unification
 
-[Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)
+Shrine of Solitude
 
 **Shrine of Unification**: For 5 and 2 Talents of your choice, get a Whisper Draw.
 

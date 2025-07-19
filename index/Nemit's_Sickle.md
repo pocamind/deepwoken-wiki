@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 149674
+revid: 152683
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Items]
@@ -18,13 +18,14 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Ite
 | swing speed | 1.25x |
 | penetration | 30% |
 | stances | 1 Handed |
+| selling price | 50 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Songseeker Wilds, Minityrsa, Starswept Valley, Merchant Ships, Ferryman |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Moonseye (Spec Outfit)
-revid: 151548
+revid: 152708
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Spec_Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
@@ -13,7 +13,7 @@ notices:
 | Moonseye | |
 |---|---|
 | tier | Unique |
-| price | 1000 Notes |
+| price | 1000 |
 | stat_req | Power 15 |
 | bankable | Yes |
 | droppable | No |

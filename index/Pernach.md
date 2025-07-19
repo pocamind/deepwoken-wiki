@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 146952
+revid: 152559
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -19,13 +19,14 @@ categories: [Weapons, Clubs, Medium Weapons]
 | penetration | 30% |
 | chip damage | 5% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 25 |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Maestro Evengarde Rest, Duke Erisia, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Erisia, Minityrsa, The Doom of Caeranthil, Random Encounters (Sea events, False Merchant Ship), Scion of Ethiron, Lodestar, Heart of Enmity, Starswept Valley, Interluminary Parasol, War Mode, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

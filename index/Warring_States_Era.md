@@ -1,6 +1,6 @@
 ---
 title: Warring States Era
-revid: 151772
+revid: 152453
 source: https://deepwoken.fandom.com/wiki/Warring_States_Era
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["April Fools' Day events", Events]

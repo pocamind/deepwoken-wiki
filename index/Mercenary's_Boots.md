@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 149697
+revid: 152646
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -24,9 +24,7 @@ categories: [Items, Equipment, Legs, Boots]
 | obtainment | Miner's Landing, Second Layer, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
 | description | "..." |
 
-[Mercenary's Garb](<Mercenary's_Garb.md>)
-
-**Mercenary's Boots**
+Variants: [Mercenary's Garb](<Mercenary's_Garb.md>)
 
 ## Description
 

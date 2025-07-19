@@ -1,6 +1,6 @@
 ---
 title: Phalanx Heavy Boots
-revid: 145020
+revid: 152557
 source: https://deepwoken.fandom.com/wiki/Phalanx_Heavy_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from;, Second Layer, Duke Ishamon Erisia, The Doom of Caeranthil, Maestro Evengarde Rest, Dread Serpent, War Mode, Erisore turn ins, Saramaed Hollow |
-| description | "..." |
+| description | ... |
 
 ## Description
 

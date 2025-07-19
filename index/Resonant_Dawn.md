@@ -1,6 +1,6 @@
 ---
 title: Resonant Dawn
-revid: 75230
+revid: 152666
 source: https://deepwoken.fandom.com/wiki/Resonant_Dawn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Random Encounters](Random_Encounters.md)
+-   [Random Encounters#Resonant Dawn](Random_Encounters.md#resonant-dawn)

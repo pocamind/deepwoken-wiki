@@ -1,6 +1,6 @@
 ---
 title: Ministry Operative Cloak
-revid: 144414
+revid: 152724
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Cloaks]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests From:, Layer 2, Crypt of the Unbroken, Duke Ishamon Erisia, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Lodestar, War Mode, Saramaed Hollow |
-| description | "..." |
+| description | ... |
 
 ## Description
 

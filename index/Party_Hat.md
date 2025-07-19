@@ -1,6 +1,6 @@
 ---
 title: Party Hat
-revid: 138181
+revid: 152569
 source: https://deepwoken.fandom.com/wiki/Party_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Event Item]
@@ -23,7 +23,7 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Seasonal Medals (1 Knowledge) |
-| description | "Hooray! Worth your weight in gold on the exchange, for some reason." |
+| description | Hooray! Worth your weight in gold on the exchange, for some reason. |
 
 ## Description
 

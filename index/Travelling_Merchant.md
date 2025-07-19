@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 148896
+revid: 152693
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -8,27 +8,26 @@ categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
 
 # Travelling Merchant
 
-| Chili | |
+| The Travelling Merchant | |
 |---|---|
-| name | Chili |
 | aspect | Tiran |
 | location | Merchant Ships |
 
-“ You want buy? ”
+“ Hello! Buy and sell wares, yes? ”
 
-― Chili
+― The Travelling Merchant
 
 ## Description
 
-Chili is an NPC merchant and [Antiquarian](Antiquarian.md), he will buy your sellables as well as selling various equipment, weapons, and other miscellaneous items. He wears a [Red Traveller's Jacket](<Traveller's_Jacket.md>).
+The Travelling Merchant is an NPC merchant and [Antiquarian](Antiquarian.md), he will buy your sellables as well as selling various equipment, weapons, and other miscellaneous items. He wears a [Red Traveller's Jacket](<Traveller's_Jacket.md>).
 
 ## Location
 
-Chili resides on [Merchant Ships](Random_Encounters.md#travelling-merchant) spawned around the [The Aratel Sea](The_Aratel_Sea.md) and [The Etrean Sea](The_Etrean_Sea.md).
+The Travelling Merchant resides on [Merchant Ships](Random_Encounters.md#travelling-merchant) spawned around the [The Aratel Sea](The_Aratel_Sea.md) and [The Etrean Sea](The_Etrean_Sea.md).
 
 ## Shop Rotation
 
-The prices of Chili's items may vary from price to price.
+The prices of The Travelling Merchant's items may vary from price to price.
 
 ### 
 
@@ -73,15 +72,15 @@ Sold Items
 
 ## Trivia
 
-Chili's Ship
+The Travelling Merchant's Ship
 
--   You can place a [Guild Base](Guild_Bases.md) within Chili's boat.
--   Chili is similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
+-   You can place a [Guild Base](Guild_Bases.md) within The Travelling Merchant's boat.
+-   The Travelling Merchant is similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
--   Despite being a shield, [The Path's Defender](<The_Path's_Defender.md>) is registered as a main weapon when being bought from Chili.[\[1\]](#cite-note-1)
--   Chili always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
--   Decoy Ships which bare striking resemblance to Chili's ship may spawn around the map. Approaching these ships results in a large explosion, spawning 6 Cloaked Assassins.
-    -   Given how ludicrously powerful these enemies are in high numbers, they can easily kill even the most powerful of PvE builds. To avoid this, simply look inside the ship through the port side. A decoy ship will not have Chili present.
+-   Despite being a shield, [The Path's Defender](<The_Path's_Defender.md>) is registered as a main weapon when being bought from The Travelling Merchant.[\[1\]](#cite-note-1)
+-   The Travelling Merchant always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
+-   Decoy Ships which bare striking resemblance to The Travelling Merchant's ship may spawn around the map. Approaching these ships results in a large explosion, spawning 6 Cloaked Assassins.
+    -   Given how ludicrously powerful these enemies are in high numbers, they can easily kill even the most powerful of PvE builds. To avoid this, simply look inside the ship through the port side. A decoy ship will not have The Travelling Merchant present.
     -   Some of them spawn several undocumented enemies affiliated with the Knives of Eylis, but this is a lot rarer.
         
         A merchant ship being raided by Assassins.

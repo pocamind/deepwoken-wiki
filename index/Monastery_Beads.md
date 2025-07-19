@@ -1,6 +1,6 @@
 ---
 title: Monastery Beads
-revid: 133201
+revid: 152716
 source: https://deepwoken.fandom.com/wiki/Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -12,7 +12,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 |---|---|
 | type | Torso |
 | rarity | Legendary |
-| selling price | 50 |
+| selling price | 25 |
 | requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor, 1 Legendary Pip |
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:, Maestro Evengarde Rest (3%), Etris: Siege, The Diluvian Mechanism (Wave 50) |
-| description | "..." |
+| description | ... |
 
 ## Description
 
