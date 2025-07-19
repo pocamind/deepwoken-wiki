@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 152329
+revid: 152765
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -44,7 +44,7 @@ This attack has a **9 second** cooldown; the cooldown starts when you initially 
 
 ## Trivia
 
--   The Stoneheart is a physical drop, not a chest drop, meaning its drop chance can be increased via [Vow Of Thorns](Echoes.md) and the Lootskipper Talent. (And while the drop chance of this might've been decreased through Vow of Thorns or Lootskipper, recent changes to the loot tables of mobs could now properly increase this instead.)
+-   The Stoneheart is a physical drop, not a chest drop, meaning its drop chance can be increased via [Vow Of Thorns](Echoes.md).
 -   It does 49 damage at 100 Heavy and 6 Proficiency making it a viable endgame choice, 51.9 damage if 3 star with the damage stat with a base of 25.4
 -   The Stoneheart's head was designed by Nuttoons, while the handle was designed by Es, which is why the handle is missing on the concept art.
 -   Used to share having the highest posture damage in the game with the [Enforcer's Hammer](<Enforcer's_Hammer.md>). Both have been dethroned by the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and its 13 posture damage.

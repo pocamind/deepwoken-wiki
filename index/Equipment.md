@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 151664
+revid: 152767
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Outfits, Items, Mantras]
@@ -181,8 +181,6 @@ Found From:
 
 _+Talent: Apothecary_
 
-_+Talent: Pitcher_
-
  | 
 
 Found from:
@@ -292,8 +290,6 @@ Found from:
 +1 Rare Pip
 
 _+Talent: Apothecary_
-
-_+Talent: Pitcher_
 
  | 
 

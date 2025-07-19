@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 152068
+revid: 152761
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -201,7 +201,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Lethal Precision \[Common Talent, Light\] -** When you attack an enemy much weaker than you, you kill them instantly.
     -   In the October 6th, 2023 update, Lethal Precision was changed into the quest Talent Mercy Kill.
 -   **Lootskipper \[Rare Talent\] -** Mobs have a much higher chance to drop their rarest loot when slain.
-    -   In the July 14th, 2025 update, Lootskipper was made innate, to make up for its removal, drop rates on the rarer mob drops have been greatly increased.
+    -   In the July 14th, 2025 update, Lootskipper was removed. To make up for its removal, drop rates on the rarer mob drops have been greatly increased.
 -   **Lord Commander \[Rare Talent, Fortitude\] -** Everyone you buff with Reinforce heals you by 1% (+5 Health)
     -   In the August 15th, 2023 update, Lord Commander was merged into Grand Support.
 -   **Maestro's Blade \[Common Talent, Galebreathe\] -** Inhaling a spell will cause the wind to be applied to your M1's.

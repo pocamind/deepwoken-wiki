@@ -1,9 +1,9 @@
 ---
 title: Dentifilo
-revid: 140270
+revid: 152754
 source: https://deepwoken.fandom.com/wiki/Dentifilo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Harvestables, Alchemy]
+categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 ---
 
 # Dentifilo
@@ -16,7 +16,7 @@ A small mushroom with a dotted cap. It can commonly be found in [Etris](Etris.md
 
 ## Recipes used in
 
--   [Mushroom Soup](Mushroom_Soup.md) (Any 2 muchrooms)
+-   [Mushroom Soup](Mushroom_Soup.md) (Any 2 mushrooms)
 -   [Mushroom Omelette](Mushroom_Omelette.md) (2 eggs, 1 mushroom)
 -   [Mushroom Bisque](Food.md) (1 of Any Mushroom, 1 Crustacean Meat)
 

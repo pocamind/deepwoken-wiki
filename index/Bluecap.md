@@ -1,9 +1,9 @@
 ---
 title: Bluecap
-revid: 144493
+revid: 152755
 source: https://deepwoken.fandom.com/wiki/Bluecap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Harvestables, Alchemy]
+categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 ---
 
 # Bluecap
