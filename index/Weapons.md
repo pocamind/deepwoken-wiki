@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 152458
+revid: 152738
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -8,7 +8,6 @@ categories: [Weapons, Character, Mechanics, Items]
 
 # Weapons
 
-_If you are on mobile, go to this page for a better experience._  
 _Need help editing? go to [this page](Weapons/Editing.md)_
 
 ## Description
