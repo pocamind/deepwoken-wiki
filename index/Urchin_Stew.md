@@ -1,6 +1,6 @@
 ---
 title: Urchin Stew
-revid: 150907
+revid: 152851
 source: https://deepwoken.fandom.com/wiki/Urchin_Stew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Food](Food.md)
+-   [Food#Urchin Stew](Food.md#urchin-stew)

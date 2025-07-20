@@ -1,6 +1,6 @@
 ---
 title: Sticky Bun
-revid: 150890
+revid: 152850
 source: https://deepwoken.fandom.com/wiki/Sticky_Bun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Food](Food.md)
+-   [Food#Sticky Bun](Food.md#sticky-bun)

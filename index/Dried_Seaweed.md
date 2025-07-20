@@ -1,6 +1,6 @@
 ---
 title: Dried Seaweed
-revid: 150920
+revid: 152849
 source: https://deepwoken.fandom.com/wiki/Dried_Seaweed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Food](Food.md)
+-   [Food#Dried Seaweed](Food.md#dried-seaweed)

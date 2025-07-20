@@ -1,6 +1,6 @@
 ---
 title: Candied Fruit
-revid: 150912
+revid: 152840
 source: https://deepwoken.fandom.com/wiki/Candied_Fruit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Food](Food.md)
+-   [Food#Candied Fruit](Food.md#candied-fruit)
