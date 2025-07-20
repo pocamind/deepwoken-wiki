@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 144925
+revid: 152822
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -105,7 +105,7 @@ The Adrets are a historically recently arrived aspect of spiritually adept indiv
 -   An NPC in the [Summer Isle](Summer_Isle.md), [Ishan](Ishan.md), refers to the _Adrets_ as "_different_", stating that they did not come from the "Old World", but rather from somewhere else. He also cites that they are the only aspect that is not related to an animal.
     -   He theorizes they come from the waves.
 -   The Central Authority's higher, more valuable and more skilled ranks are comprised of Adretian fighters.
-    -   According to Shirafune, the Adret come from the Central Luminant, their technology and military far beyond what the Etrean Luminant can offer. However, without the keepers of the Lighthouse it becomes impossible to traverse the Voidsea, stalemating a losing war.
+    -   According to Shirafune, the Adret come from the Central Luminant, their technology and military far beyond what the Etrean Luminant can offer. However, without the keepers of the Lighthouse it becomes impossible to traverse the Voidsea, therefore stalemating a losing war.
 -   There is a fourth variant which is a slightly lighter toned version of the third variant shown.
 -   Adret are **not** fish.[\[1\]](#cite-note-1)
 -   According to Arch\_Mage, Adrets were made with some inspiration from the Goliath aspect from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)

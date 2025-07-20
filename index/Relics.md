@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 152116
+revid: 152826
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -182,7 +182,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 7
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 6
 
  |
 |  | **[Armorer's Needle](<Armorer's_Needle.md>)** - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.

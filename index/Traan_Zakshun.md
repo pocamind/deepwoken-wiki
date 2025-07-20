@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 152112
+revid: 152827
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -273,6 +273,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _No questions, no returns._
 -   _Not sure if I really want to let this one go... if that makes you want it more?_
 -   _Oh this one's verrry special - I can only let you buy one._
+-   _Oh, this one might be cursed. Like, actually._
 -   _Okay, you really have to be careful with this._
 -   _Try not to draw attention when you walk out of here alright?_
 -   _This isn't overpriced, it's MY SHOP!_
@@ -308,7 +309,7 @@ Sold Items
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
     <li><b>For 4 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>.</li>
     <li><b>For 5 </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Forge_Needle.md">Forge Needle</a>.</li>
-    <li><b>For 7 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
+    <li><b>For 6 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For 10 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
     <li><b>For 20 </b>: <a href="Enchantments.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 100 </b>: <a href="Deepshore_Fossil.md">Deepshore Fossil</a></li>
@@ -336,7 +337,7 @@ Sold Items
 -   The Black Market dialogue "_You want it? It's yours my friend! So long as you have enough crowns."_ is a quote reference to Morshu in Link: The Faces of Evil.
 -   Nuttoons, one of Deepwoken's developers, had this to say about Traan Zakshun: "they are a weirdo, they mug freshies for their garbage and bring it back to their little hoarding cave to sell off to schmucks". [\[1\]](#cite-note-0-1)
     -   This is much like the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect the loot off of corpses rather than getting their hands dirty themselves.
--   Traan's name was originally "Trahne Zakshun", however it was changed in the 6/30/2025 update.
+-   Traan's name was originally "Trahne Zakshun", however it was changed in the June 30th, 2025 update.
 
 ## References
 
