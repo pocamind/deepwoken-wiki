@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 149276
+revid: 152792
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry]
@@ -215,18 +215,8 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Strange_Tomes.md">Strange Tome Volume #2</a>, a quest item for the <a href="Bloodfouler.md">Bloodfouler</a></li>
-    <li><a href="Weathered_Timepiece.md">Weathered Timepiece</a>, a crafting component for the <a href="Vortex_Echo.md">Vortex Echo</a></li>
-    <li><a href="Heartstar.md">Heartstars</a></li>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
-    <li><a href="Enchant_Stone.md">Enchant Stones</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Moonseye_Tome.md">Moonseye Tomes</a></li>
-    <li><a href="Rain_Spire.md">Rain Spire</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-    <li><a href="Void_Spire.md">Void Spire</a></li>
-  </ul></li>
+    <li><a href="Items.md">Items</a>: <a href="Strange_Tomes.md">Strange Tome Volume #2</a>, <a href="Weathered_Timepiece.md">Weathered Timepiece</a>, <a href="Heartstar.md">Heartstars</a>, <a href="Deep_Gems.md">Deep Gems</a>.</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -262,7 +252,7 @@ Exhaustive Loot Table
     <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>.</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipments</font></a></b>:
   <ol>
-    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md"><font>Warmaster's Medallion</font></a>.</li>
+    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
     <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>: <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Aspirant_Mask.md">Royal Guard</a> (Red), <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>.</li>
@@ -270,7 +260,7 @@ Exhaustive Loot Table
     <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
   <ol>
     <li><b>Legendary Rings</b>: <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>.</li>
-    <li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a> <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Silver_Ring.md">Silver Ring</a>.</li>
+    <li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Silver_Ring.md">Silver Ring</a>.</li>
   </ol></li>
   </ul></td>
 </tr>

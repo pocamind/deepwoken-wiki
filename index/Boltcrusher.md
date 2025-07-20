@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 152110
+revid: 152808
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greathammers, The Ignition Union, "Attunement-based Weapons", Multiple Criticals, Heavy Weapons]
@@ -21,13 +21,14 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatham
 | chip damage | 5% |
 | special effect | Applies Sapped on criticalApplies Shock/Surge stacks on hit |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 100 |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Finnegan The Lost |
-| description | "A cutting-edge Deepdelver creation, uniquely modified from their renowned explosive picks, this boring tool is designed to quarry and demolish the deep's toughest materials - and those who can't uphold up their end of a deal. Infused with crackling Thundercall, this powerhouse channels booming lightning with every strike, reducing rock to rubble and foes to fragments. From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark." |
+| description | A cutting-edge Deepdelver creation, uniquely modified from their renowned explosive picks, this boring tool is designed to quarry and demolish the deep's toughest materials - and those who can't uphold up their end of a deal. Infused with crackling Thundercall, this powerhouse channels booming lightning with every strike, reducing rock to rubble and foes to fragments. From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark. |
 
 ## Description
 

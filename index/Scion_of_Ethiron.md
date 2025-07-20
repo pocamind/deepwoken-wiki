@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 152311
+revid: 152796
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -204,18 +204,9 @@ This list may be missing items, please help us by filling in the gaps.
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>One <a href="Crowns.md">Crown</a></li>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
-    <li><a href="Enchant_Stone.md">Enchant Stones</a></li>
-    <li><a href="Temporal_Crux.md">Temporal Crux</a>, a crafting component for the <a href="Vortex_Echo.md">Vortex Echo</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
-    <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
-    <li><a href="Rain_Spire.md">Rain Spire</a></li>
-    <li><a href="Reciprocal_Bonecharm.md">Reciprocal Bonecharm</a></li>
-    <li><a href="Void_Spire.md">Void Spire</a></li>
-  </ul></li>
+    <li>1 <a href="Crowns.md">Crown</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Temporal_Crux.md">Temporal Crux</a>.</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Reciprocal_Bonecharm.md">Reciprocal Bonecharm</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -259,7 +250,7 @@ This list may be missing items, please help us by filling in the gaps.
 
 ## Trivia
 
--   The usage of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orleandeau](<Cap'n_Orlandeau.md>).
+-   The usage of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orlandeau](<Cap'n_Orlandeau.md>).
 -   The song that plays during the fight is ELEISON [\[1\]](https://www.youtube.com/watch?v=tbBwELgDPD8&pp=ygUKbmFrdGlnb25pcw%3D%3D) by Naktigonis.
     -   This song get updated to 11:59 [\[2\]](https://www.youtube.com/watch?v=g4aVbN4nE6U&pp=ygUKbmFrdGlnb25pcw%3D%3D) (also by Naktigonis) for the escape.
 -   Update logs refer to it as Ethiron's Scion, but dying to it or hovering over the danger icon in its fight states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the Restore Rulebook before [being changed in 2023](https://discord.com/channels/920707638034067486/1096623256200560771/1126711224021831821).

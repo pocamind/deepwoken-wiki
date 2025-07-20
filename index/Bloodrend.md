@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 152125
+revid: 152803
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -316,7 +316,7 @@ _Leap into the air and slam down with vengeance._
 
  | 
 
-Blood + Bleed
+Blood +
 
  | 
 
@@ -327,7 +327,7 @@ Blood + Bleed
 
 **Effect:** _Jump up into the air before slamming down, dealing AoE damage and applying knockdown._
 
--   Deals 18.5/26/33.5/41/48.5 damage per level (slam) + 30% (Bleed), 14 posture, 0.75s windup Has 10s CD
+-   Deals 18.5/26/33.5/41/48.5 damage per level (slam) + 30% (), 14 posture, 0.75s windup Has 10s CD
 -   Has 9.18x PVE scaling
 -   Leaves behind a Blood Pool.
 -   Applies knockdown to the enemy on hit.

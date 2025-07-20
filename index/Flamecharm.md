@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 152126
+revid: 152772
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1900,7 +1900,7 @@ Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to deto
 -   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as Undying Flames causes the user's flames work in [The Depths](The_Depths.md) and the **Flame of Denial** Mantra can restore some sanity upon use, while also allowing you to not die.
     -   The **Graceful Flame** can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
--   The **Graceful Flame** Mantra does not allow anyone to cook food, regardless of its Level.
+-   The **Graceful Flame** Mantra allows anyone to cook food, regardless of its Level.
 -   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
 -   Flamecharm's **Burn** damage scales with Flamecharm invest and can be increased further with the Azure Flames Talent. Which can lead to some icky burn damage if you are going for that.
 -   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).

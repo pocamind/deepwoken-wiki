@@ -1,16 +1,12 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 151106
+revid: 152785
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
 ---
 
 # Elder Primadon, The Titan Warlord
-
-[Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
-
-**Elder Primadon, The Titan Warlord**
 
 “ ROOOOOOOOOOOOOOOARGH ”
 
@@ -208,21 +204,8 @@ His moveset is quite extensive, but with some practice, becomes relatively easy 
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Primadon_Pelt.md">Primadon Pelt</a> (direct drop)</li>
-    <li><a href="Primal_Slab.md">Primal Slab</a> (direct drop)</li>
-    <li><a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
-    <li><a href="Mantra_Modifiers.md">Vibrant Gem</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
-    <li><a href="Enchantments.md#curses">Curse of Rhaemen's Ember</a> Enchant Stone</li>
-    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
-    <li><a href="Rain_Spire.md">Rain Spire</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><a href="Void_Spire.md">Void Spire</a></li>
-  </ul></li>
+    <li><a href="Items.md">Items</a>: <a href="Primadon_Pelt.md">Primadon Pelt</a> (direct drop), <a href="Primal_Slab.md">Primal Slab</a> (direct drop), <a href="Umbral_Obsidian.md">Umbral Obsidian</a>, <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gems</a>.</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Rhaemen's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -230,7 +213,7 @@ His moveset is quite extensive, but with some practice, becomes relatively easy 
   <td>
   <ul>
     <li><b>Legendary Weapons</b>: <a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a>.</li>
-    <li><b>Alloyed Weapons</b>:</li>
+    <li><b>Alloyed/War Weapons</b>: <a href="Bloodbane.md"><font>Bloodbane</font></a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>:</li>

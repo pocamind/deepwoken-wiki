@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 152264
+revid: 152788
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -282,15 +282,7 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
-    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
-    <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-  </ul></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -298,7 +290,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></li>
-    <li><b>Alloyed Weapons</b>: <a href="Dawnshot.md#alloyed"><font>Alloyed Dawnshot</font></a>, <a href="Officer_Saber.md#alloyed"><font>Alloyed Officer Saber</font></a></li>
+    <li><b>Alloyed Weapons</b>: <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Officer_Saber.md#alloyed">Alloyed Officer Saber</a></li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Needle's_Eye.md">Needle's Eye</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
@@ -317,7 +309,7 @@ Exhaustive Loot Table
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Azure_Sentinel_Boots.md">Azure Royal Guard Boots</a>, <a href="Celtorian_Sabatons.md">Celtorian Sabatons</a>, <a href="Enforcer_Boots.md">Enforcer Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Grand_Boots.md">Grand Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a>, <a href="Star_Boots.md">Star Boots</a>.</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
   <ol>
-    <li><b>Relic Torso</b>: <a href="Whistling_Periapt.md"><font>Whistling Periapt</font></a>.</li>
+    <li><b>Relic Torso</b>: <a href="Whistling_Periapt.md">Whistling Periapt</a>.</li>
     <li><b>Generic Torso</b>: Capes (Both Variants), <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Pathfinder's_Backpack.md">Pathfinder's Backpack</a>, Shrouded Capes (All Variants), <a href="Varicosa_Medallion.md">Varicosa Medallion</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (All Variants), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Citadel Frames</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a>, <a href="Aspirant_Mask.md">Royal Guard</a> (All Variants), <a href="Smith's_Goggles.md">Smith's Goggles</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>, <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a>.</li>

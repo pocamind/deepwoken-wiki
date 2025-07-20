@@ -1,6 +1,6 @@
 ---
 title: Okumay
-revid: 136956
+revid: 152801
 source: https://deepwoken.fandom.com/wiki/Okumay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -29,13 +29,13 @@ Okumay is a [Chrysid](Chrysid.md) wearing the [Vigil Initiate](Vigil_Initiate.md
   <td>Just.. what is this? Look at this machine, look at that design! The bright smooth metals, the mechanical apparatus, the style! Have you ever seen anything like this before?</td>
 </tr>
 <tr>
-  <td colspan="6">I'm afraid not.</td>
+  <td>I'm afraid not.</td>
 </tr>
 <tr>
   <td>I thought so. I believe we do have much to learn from the Kyrsans, perhaps more than we thought. Gods, it's truly a shame we arrived here too late. I don't think they'll be willing to explain their technology to us in their current state.</td>
 </tr>
 <tr>
-  <td colspan="5">What are you doing down here?</td>
+  <td>What are you doing down here?</td>
 </tr>
 <tr>
   <td>Oh, me? Little ol' me? I'm just an engineer passing by, nothing extraordinary. When I was a little one, with my huge, dumb eyes, I had been told stories of the technology below; it's the same story that got my grandparents killed! I wanted to see it for myself, regardless of what happens to me.</td>
@@ -56,7 +56,7 @@ Okumay is a [Chrysid](Chrysid.md) wearing the [Vigil Initiate](Vigil_Initiate.md
   <td>So you're just greedy.</td>
 </tr>
 <tr>
-  <td>HEY! That's rude. Don't just assume things about people like that. I have many floaty desires, money just happens to be one of them! I do still want to change the world, at least a little bit. If this is the mark I could leave.. I'd be happy.</td>
+  <td><b>HEY!</b> That's rude. Don't just assume things about people like that. I have many floaty desires, money just happens to be <i>one</i>of them! I do still want to change the world, at least a little bit. If this is the mark I could leave.. I'd be happy.</td>
 </tr>
 <tr>
   <td>End</td>

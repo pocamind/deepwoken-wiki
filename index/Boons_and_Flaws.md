@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 147520
+revid: 152810
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -251,7 +251,7 @@ These Flaws are granted via specific means instead of being chosen during charac
   <td><center>Increases Resonance startup by 1 second, along with a varying unique debuff depending on the Resonance. This Flaw prevents you from rerolling your Resonance with <a href="Shrine_of_Yun'Shul,_Keeper_of_Hearts.md">Yun'Shul</a> until it's removed.</center></td>
   <td><center>Unobtainable if you have the <b>Soul Plasticity</b> <a href="Echoes.md#upgrades-unlocks-and-modifiers">Echo Unlock</a>.</center></td>
   <td><center>Obtained from rerolling your Resonance with <a href="Shrine_of_Yun'Shul,_Keeper_of_Hearts.md">Yun'Shul</a> or when using an <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a> to do the same thing.</center></td>
-  <td><center>Removed by giving <a href="Yamaketzal.md">Yamaketzal</a>, <a href="Carrion,_Father_of_Evolution.md">Carrion, Father of Evolution</a>, or by obtaining Clarity from <a href="Misérables.md">Misérables</a> for. Also cleared from all slots permanently if you purchase the Soul Plasticity <a href="Echoes.md#upgrades-unlocks-and-modifiers">Echo Unlock</a> for 500 Echoes.</center></td>
+  <td><center>Removed by giving <a href="Yamaketzal.md">Yamaketzal</a> 1,000, <a href="Carrion,_Father_of_Evolution.md">Carrion, Father of Evolution</a> 1, or by obtaining Clarity from <a href="Misérables.md">Misérables</a> for 15. Also cleared from all slots permanently if you purchase the Soul Plasticity <a href="Echoes.md#upgrades-unlocks-and-modifiers">Echo Unlock</a> for 500 Echoes.</center></td>
 </tr>
 <tr>
   <td><center><b>Vacant</b></center></td>

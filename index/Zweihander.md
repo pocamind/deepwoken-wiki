@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 152370
+revid: 152776
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons, Heavy Weapons]
@@ -36,9 +36,9 @@ The **Zweihander** is a standard Heavy Greatsword that can act as an entry point
 
 The [Alloyed](Pluripotent_Alloy.md) variant boasts increased stats with a higher requirement, allowing for lategame viability. The alloyed variant of the Zweihander also has a purple hue to indicate its change.
 
-**Bloodbane** is an enhanced variant of the Zweihander with higher requirements. This weapon bears a red appearance, blood particles, and a red swing trail, drastically differing it from the base Zweihander. Dying with this weapon equipped or in your inventory causes it to **revert back into a regular Zweihander**. Bloodbane cannot be enchanted.
+**Bloodbane** is an enhanced variant of the Zweihander with higher requirements. This weapon bears a red appearance, has blood particles emanating from it, and has a red swing trail, drastically differing its appearance from the base Zweihander. Dying with this weapon equipped or in your inventory causes it to **revert back into a regular Zweihander**. Bloodbane cannot be enchanted.
 
-On critical, **Bloodbane** applies a Damage over Time status effect. If you are knocked by this effect, you will be autogripped. This effect can be applied through dodge; parrying this attack is the only way to avoid this.
+On critical, **Bloodbane** applies a Damage over Time status effect. If you are knocked during the lifespan of this effect, or hit by the critical while being knocked, you will be autogripped. This effect can be applied through dodge; parrying this attack is the only way to avoid this.
 
 ## Trivia
 

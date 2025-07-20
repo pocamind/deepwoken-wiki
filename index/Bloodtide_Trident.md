@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 149606
+revid: 152804
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -12,20 +12,21 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowt
 |---|---|
 | type | Spear |
 | requirements | 75 MED |
-| damage | 18 + 5.4 BLD |
+| damage | 18 + |
 | scaling | MED: 6 |
 | range | 9 |
 | swing speed | 0.93x |
 | penetration | 25% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 50 |
 | weight | 5 |
 | bankable | Yes, but requires 1 Knowledge |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
-| description | "..." |
+| description | ... |
 
 ## Description
 
