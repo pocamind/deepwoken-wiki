@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 152652
+revid: 152947
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -76,6 +76,18 @@ To modify a Mantra, the Mantra must be recalled at a campfire into the player's 
 -   Most Mantra modifiers increase the ether cost of a Mantra. It is possible for a Mantra to consume most or all of a player's ether upon one use.
 -   You can also change the name of a Mantra by putting it on a Mantra table and saying the name you want it to be.
 -   You can identify what modifiers you have on your Mantra by hovering your mouse over it. Including it's ether cost in numbers & percentage, as well as how many signs on a ritual Mantra.
+
+## Mantra Damage Calculation
+
+The formula to calculate Mantra damage is as follows: Base damage \* (1 + ((0.Mantra scaling \* (investment / 100)) + (Songchant \* 0.05 \* (0.Mantra scaling \* (investment / 100))))).
+
+-   Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
+-   Example 1: Level 5 Strong Left with 95 Strength and 2 Songchant:
+    -   60 \* (1 + ((0.165 \* (95/100)) + (2 \* 0.05 \* (0.165 \* (95/100))))) = 70.34 damage.
+-   Example 2: Level 4 Exhaustion Strike with 60 Willpower and no Songchant:
+    -   26 \* (1 + ((0.165 \* (60/100)) + (0 \* 0.05 \* (0.165 \* (60/100))))) = 28.57 damage.
+        -   Note: because Songchant is 0 here, you can leave out the second part of the equation entirely (as it will end up being "scaled damage +0").
+-   This formula also works for non-Mantra things, such as Galebreathe Apparitions, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage though.
 
 ## Types of Mantras
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 152516
+revid: 152946
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -44,20 +44,6 @@ For example:
 4.  80+ points in Strength => Level 5 Strength Mantra.
 
 In short: Every 20 points in a specific attribute will unlock the next level for said Mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that Mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its Mantras aside from a bit of damage scaling.
-
-  
-
-## Mantra Damage Calculation
-
-The formula to calculate Mantra damage is as follows: Base damage \* (1 + ((0.Mantra scaling \* (investment / 100)) + (Songchant \* 0.05 \* (0.Mantra scaling \* (investment / 100))))).
-
--   Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
--   Example 1: Level 5 Strong Left with 95 Strength and 2 Songchant:
-    -   60 \* (1 + ((0.165 \* (95/100)) + (2 \* 0.05 \* (0.165 \* (95/100))))) = 70.34 damage.
--   Example 2: Level 4 Exhaustion Strike with 60 Willpower and no Songchant:
-    -   26 \* (1 + ((0.165 \* (60/100)) + (0 \* 0.05 \* (0.165 \* (60/100))))) = 28.57 damage.
-        -   Note: because Songchant is 0 here, you can leave out the second part of the equation entirely (as it will end up being "scaled damage +0").
--   This formula also works for non-Mantra things, such as Galebreathe Apparitions, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage though.
 
 ## Attribute Mantras
 

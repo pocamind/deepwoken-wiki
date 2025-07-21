@@ -1,6 +1,6 @@
 ---
 title: "Dread Serpent's Tooth"
-revid: 150583
+revid: 152944
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent's_Tooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -10,7 +10,7 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 
 | Dread Serpent's Tooth | |
 |---|---|
-| value | 75 |
+| value | 2000 |
 | weight | None |
 | stack | x6 |
 | type | Monster Material |
