@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 148795
+revid: 152934
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -40,8 +40,10 @@ Meeting the requirements, this weapon deals 37.5 + **11.3 BLD**, for a total of 
 -   Keep in mind that while using this weapon, you will not be able to experience the effects of some bleed [Talents](Talents.md) such as Speed Demon, as they do not stack.
 -   While this weapon used to be referred to as the "best PvE weapon," Its absurd damage was confirmed to be a bug in the June 21st, 2024 changelogs, which made it deal approximately +270% of its intended damage due to bleed scaling twice off PvE scaling. It is still a good option, but not overwhelmingly so.
 -   It was originally named Evanspear Hand Axe.
-    -   Evanspears obtained prior to the remodel retain this name, despite the change in design, while newly obtained ones are named correctly.[\[1\]](#cite-note-1)
+    -   Evanspear Greataxes obtained prior to the remodel retained this name briefly.[\[1\]](#cite-note-1)
+    -   During the 7/14/25 update, Evanspear Hand Axes were temporarily voided before turning into Evanspear Greataxes.[\[2\]](#cite-note-2)
 
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

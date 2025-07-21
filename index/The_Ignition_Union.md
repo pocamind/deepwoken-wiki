@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 152398
+revid: 152940
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -112,3 +112,5 @@ Enemy-Neutral Reputation
     -   **Alpha**, **Delta**, **Epsilon**, **Gamma**, and **Tau** are letters in the Greek alphabet.
     -   **Orion** is one of the 48 constellations listed by Ptolemy, an ancient Greek astronomer.
 -   Opposed to what their name might suggest, they’re predominantly [Ironsing](Ironsing.md) users.
+-   The Ignition Union has the most Owned Territories out of every Faction at 4, and is tied with [The Divers](The_Divers.md) for the most Passive NPCs at 7.
+    -   The Ignition Union might have more by technicality, due to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Karliah](Karliah.md) being former members of The Divers rather than active members.

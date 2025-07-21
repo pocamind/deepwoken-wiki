@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 152921
+revid: 152937
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Mechanics]
 
 # Combat Mechanics
 
-page contains basic information about **combat** and its mechanics/bars. This includes details on status bars, basic mechanics, and status effects.
+This page contains basic information about **combat** and its mechanics/bars. This includes details on status bars, basic mechanics, and status effects.
 
 _Knowing this information is absolutely crucial to prolonging your life, and will give any voyager a fighting chance when they inevitably enter a skirmish with their future adversaries, or worse-- allies._
 

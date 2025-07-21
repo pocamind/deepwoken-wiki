@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 152932
+revid: 152935
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -95,7 +95,7 @@ Dialogue: [Kressa](Kressa.md) and [Scope](Scope.md) | Books: | Glossary Entries:
 
 -   Perhaps the most prominent research organization in [Lumen](#lumen), the Citadel pride themselves as the foremost keepers of knowledge, history, and research into [Lumen](#lumen) and the surrounding [Depths](#the-depths).
 -   The Citadel receives the majority of its funding from the [Central Authority](#the-central-authority), a contribution that the [Authority](#the-central-authority) claims falls in line with their desire for global unity, and for a united front against the [Depths](#the-depths).
--   The organisation is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
+-   The organization is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
 -   The widely used epoch of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
 Dialogue: | Books: | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), and [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
@@ -118,7 +118,7 @@ Dialogue: | Books: | Glossary Entries: [The Central Authority](#the-central-auth
 -   As with many Gods, the contemporary understanding is that Mur may have been a Celestial. (Unlocked by asking Theadre if Mur could be a Celestial)
 -   Andros said they hadn't seen any accounts of Mur outside of the Etrean Luminant.
 
-Dialoge: | Books: | Glossary Entries:
+Dialogue: | Books: | Glossary Entries:
 
 ### The Lady Confessor
 
@@ -167,7 +167,7 @@ Dialogue: [Cerulean](Cerulean.md) | Books: | Glossary Entries:
 -   The discovery of the Song and the ensuing research into its applications is said to have precipitated the [Canticlysm](#the-canticlysm) — the so-called 'Golden Age of Mankind'. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
 -   Before its discovery, few within [Lumen](#lumen) could perceive its tones. Now, it is inescapable. The Song is everywhere, like an earworm that lingers at the back of your mind, always ready to spring into action and play its tones once more.
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
--   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilisation \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
+-   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilization \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
 Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Mantra](#mantra), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), and [The Drowned Gods](#the-drowned-gods)
 
@@ -187,7 +187,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entr
 -   Vows are poorly understood by the people of the Resurgence, but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an Oath is facilitated by such a Vow.
 
-Dialouge: | Books: | Glossary Entries:
+Dialogue: | Books: | Glossary Entries:
 
 ## Objects of Interest
 
@@ -373,7 +373,7 @@ Dialogue: | Books: [Neero](Neero.md), [Nimea](Nimea.md) | Glossary Entries:
 
 ### The Echelon
 
--   A sprawling metropolis upon a central island in the Lullaby Isles archipelago. The centre of activity for scholars, religious figureheads, and the Counsell. A bustling complex of archives and residences for those who live within. Notable for its pristine sandstone architecture, punctuated by elegant frescoes.
+-   A sprawling metropolis upon a central island in the Lullaby Isles archipelago. The center of activity for scholars, religious figureheads, and the Counsell. A bustling complex of archives and residences for those who live within. Notable for its pristine sandstone architecture, punctuated by elegant frescoes.
 
 Dialogue: [Liviu](Liviu.md) | Books: | Glossary Entries:
 
@@ -390,7 +390,7 @@ Dialogue: | Books: | Glossary Entries:
 
 ### The Divers
 
--   An expeditionary organisation stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
+-   An expeditionary organization stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
 -   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
 Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [Radiant Tones](#radiant-tones) and [The Central Authority](#the-central-authority)
