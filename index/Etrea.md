@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 143754
+revid: 152871
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Factions, Etrea]
@@ -25,11 +25,11 @@ A kingdom of primarily [Etreans](Etrean.md) that are the main ruling faction in 
 
 The [Isle of Vigils](Isle_of_Vigils.md) is also part of Etrea, acting as its military school, though Etrea's attitude toward the Isle is much more hands-off.
 
-Being the largest land ruling faction in the Etrean Luminant, they hold a large range of power, deploying foot-soldiers all across the Etrean Luminant. They are led by a [Lord Regent](The_Lord_Regent.md) who rules from his castle and seeing over the land of Etris and the [Etrean Wilds](Etrean_Wilds.md). They had been ruled by their Kings for generations; until decades to months before the year 1271, when the new leader Lord Regent took over.
+Being the largest land ruling faction in the Etrean Luminant, they hold a large range of power, deploying foot-soldiers all across the Etrean Luminant. They are led by the [Lord Regent](The_Lord_Regent.md) who rules from his castle, and sees over the land of [Etris](Etris.md) and the [Etrean Wilds](Etrean_Wilds.md). They had been ruled by their Kings for generations, until decades to months before the year 1271, when the new leader Lord Regent took over.
 
 The Lord Regent is actually a [Contractor](Oath%253A_Contractor.md) and Ministry Prophet, essentially making them a puppet state for [the Ministry](The_Ministry.md). This led to a war with [the Authority](The_Central_Authority.md).
 
-The soldiers in Etris are purely Etrean, with the [Mantra Collector](Mantra_Collector.md) sitting at the bottom near the docks being a Canor. If you go up to Schnitzel and talk them, you will be given the normal dialogue options, as well as a third, "Why aren't you up in town?" Upon asking this question, Schnitzel will say "Canor no allowed to buy in town, new leader very strange." While many take this to mean they are racist, the Etreans welcomed three Adrets into their capital, two of whom were Divers, implying there was a different reason for Schnitzel's banishment.
+The soldiers in Etris are purely [Etrean](Etrean.md), with the [Mantra Collector](Mantra_Collector.md) sitting at the bottom near the docks being a [Canor](Canor.md). If you go up to Schnitzel and talk them, you will be given the normal dialogue options, as well as a third, "Why aren't you up in town?" Upon asking this question, Schnitzel will say "Canor no allowed to buy in town, new leader very strange." While many take this to mean they are racist, the Etreans welcomed three Adrets into their capital, two of whom were Divers, implying there was a different reason for Schnitzel's banishment.
 
 ## Reputation
 
@@ -40,9 +40,8 @@ Being an [Etrean](Etrean.md) increases your starting reputation with Etrea. This
 There are a substantial amount of ways to gain reputation with Etrea:
 
 -   Donating wood to either [Korin](Korin.md) or [Drefa](Drefa.md).
--   Occasionally when defeating the [Blade Instructor](Blade_Instructor.md).
 -   Defeating the [bandits](Bandit.md) at either [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md).
--   Helping Etrea during the rare [etris invasion event](Cinders_of_Etris.md).
+-   Helping Etrea during the rare [Etris invasion event](Cinders_of_Etris.md).
 -   Doing the [Nanji](Nanji.md) or [Lance’s Brother](<Lance's_Brother.md>) [quests](Quests.md).
 
 On top of that, Etrea has many [random events](Random_Encounters.md) across the Luminants in which you may assist them and gain reputation:

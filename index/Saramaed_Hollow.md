@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 148549
+revid: 152873
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -60,7 +60,7 @@ It is worth noting that the lava is not as deadly as one might expect. Falling i
 
 Monsters within the Saramaed Hollow have adapted to the fiery heat of their domain, gaining 1 of 2 (or both) abilities. The deeper one goes, the more adapted monsters will appear, eventually culminating in monsters with both adaptations.
 
--   _Magma Guard_ - The monster becomes immune to DvM. These monsters have a rocky exterior. (Note that this only nullifies DvM from gear. Innate PvE scaling, such as from your Power level, isn't affected.)
+-   _Magma Guard_ - The monster becomes immune to DvM. These monsters have a rocky exterior. (Note.Innate PvE scaling, such as from your Power level, isn't affected.)
 -   _Magma Flow_ - The monster procs an effect on hit that weakens your armor and nullifies your Monster Armor temporarily. These monsters will drip with molten lava.
 
 ## Monsters
