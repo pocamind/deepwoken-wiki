@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 151397
+revid: 152903
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -56,7 +56,7 @@ The current maximum Stealth possible, not counting crouching/Lowstride, is:
 -   Any +2 Agility Aspect ([Etrean](Etrean.md)/[Chrysid](Chrysid.md)/[Khan](Khan.md)/[Lightborn](Lightborn.md)/[Drakkard](Drakkard.md)) - **100.4%**.
 -   Any other Aspect or any Aspect (excluding [Felinor](Felinor.md)) with the [Multifaceted](Echoes.md#upgrades-and-modifiers) Echo Upgrade - **100%**.
 
-All of these of course use the best equipment with 100 or more Agility. If you have Obvious, subtract 20 from the above scores.
+All of these of course use the best equipment with 100 or more Agility. If you have Obvious, subtract 20 from the above scores or 24 if [Felinor](Felinor.md).
 
 ## Usage
 

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 152810
+revid: 152904
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -155,7 +155,7 @@ These Flaws can be chosen at character creation with no requirements for obtainm
   <td><center><b>Obvious</b></center></td>
   <td><center>Enemies detect you more easily.</center></td>
   <td><center>Grants -20% <a href="Stealth.md">stealth</a>, meaning Monsters and other NPCs can detect you at a further distance.</center></td>
-  <td><center>Entirely disabled by the <a href="Felinor.md">Felinor</a> aspect, as it grants +20% stealth innately.</center></td>
+  <td><center>Nearly fully negated by the <a href="Felinor.md">Felinor</a> Aspect, as it grants innate stealth.</center></td>
   <td><center>1 Flaw Point</center></td>
 </tr>
 <tr>
@@ -295,7 +295,7 @@ These Flaws are granted via specific means instead of being chosen during charac
     -   **Glutton** just forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the carnivore Talent/Grand feast. Also effectively negated by the [Hungerless Regalia](Regalia.md), as it entirely disables passive stomach/thirst drain.
     -   **Haemophilia** is basically a free Flaw in 1v1 situations, as the increased blood drain won't have an impact when you'll be knocked before your blood runs out, but in ganks you can die to blood before health runs out after some time. This Flaw (luckily) doesn't affect blood cost from utilizing or being hit by [Bloodrend Mantras](Bloodrend.md) and the blood cost from the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) downside, as these aren't affected by any blood damage modifiers.
     -   **Manic** is usually a free point. The increased insanity gain is minimal, comes from few sources, scratching can be completely avoided if you play properly and can even benefit some builds. Increases the speed of Layer 2 parasites.
-    -   **Obvious** grants -20% stealth on spawn, increasing the radius at which enemies will detect you. Because of this, this Flaw will largely only affect PvE with one exception being [Tacet's](Murmur%253A_Tacet.md) range, as that is affected by your Stealth stat. This Flaw can be dangerous in areas like [the Depths](First_Layer.md). The [Felinor](Felinor.md) aspect entirely negates this Flaw, as that aspect starts with 20% stealth, setting you at a net 0%.
+    -   **Obvious** grants -20% [stealth](Stealth.md) on spawn, increasing the radius at which enemies will detect you. Because of this, this Flaw will largely only affect PvE with one exception being [Tacet's](Murmur%253A_Tacet.md) range, as that is affected by your Stealth stat. This Flaw can be dangerous in areas like [the Depths](First_Layer.md). The [Felinor](Felinor.md) aspect almost entirely negates this flaw, as the Aspect starts with 20% stealth. Though, because of Felinor's innate 1.2x stealth multiplier, you'll have -4% stealth, which is negligible and can be countered by a mere 2 [Agility](Attributes.md#agl).
     -   **Simple**'s EXP gain rate decrease is not problematic for the patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. The exp gain downside of this Flaw is negated when fully progressed. The reduced [Knowledge](Knowledge.md) gain from this Flaw can hurt, but there are some workarounds; if you gain Knowledge in increments of 1 or 2 (most Knowledge gain sources fall under this range), the Flaw will not hurt you as it rounds. Alternatively, gaining knowledge in increments of any even number that is not divisible by 4 will cause your Knowledge gain to round up, granting you slightly more Knowledge than it would otherwise.
     -   **Squeamish** will cause you to lose stomach upon killing enemies, and as food buffs are tied to your stomach bar, you'll also lose those more quickly than other character might. Other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food. This Flaw can be effectively negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing.
     -   **Vegetarian**'s inability to consume meat can be easily avoided; there are many other food sources other than meat/meat related items and the [Guild Base Mess Hall](Guild_Bases.md) sells Vegetarian options. Vegetarian only grants a chance to vomit when eating meat-based foods, so they are still viable options in a pinch. Picking this Flaw will make it impossible to obtain the [Carnivore](Talents.md#apex-predator) Talent, which may be useful.

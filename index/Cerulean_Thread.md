@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 146894
+revid: 152897
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry, Multiple Criticals, Light Weapons]
@@ -35,9 +35,9 @@ The Cerulean Thread is a Dagger that is obtained by upon beating [Maestro Evenga
 
 The critical of the weapon is divided into two parts.
 
-For the normal critical, the user winds up before thrusting their weapon forward, marking the first enemy hit with a string. The connection will be broken upon getting vented.
+For the initial critical, the user winds up before thrusting their weapon forward, marking an opponent hit by this attack with a light blue thread. The thread will be broken after ~15 seconds have passed or if the affected opponent vents.
 
-For the follow-up critical, the user performs the normal critical, extending with a strike that sends your opponent upwards with multiple slashes and ending with a ragdolling backstab.
+For the follow-up critical, the user performs the normal critical, extending with an upwards strike and ending with a ragdolling backstab. This will not sever the thread upon use.
 
 The critical has a cooldown of **3 seconds**, but increases to **5 seconds** on the follow-up.
 
@@ -46,6 +46,7 @@ The critical has a cooldown of **3 seconds**, but increases to **5 seconds** on 
 -   This is the only light weapon to be sheathed behind you instead of along your waist.
 -   Cerulean refers to a deep blue color, referencing this weapon's shade.
 -   This is the only instance of a weapon where the critical's cooldown changes.
+-   The Cerulean Thread's initial critical uses the same animation as the [Whaling Knife](Whaling_Knife.md) critical.
 -   Meeting the requirement of LHT, the damage is (24.4).
 -   At max LHT, the damage is (25.8).
 -   The second half of the Cerulean Thread critical was temporarily bugged, but this was fixed in the 06/14/2024 update.

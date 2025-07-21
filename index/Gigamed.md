@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 150352
+revid: 152910
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -47,6 +47,7 @@ Dodgeable?: ◯
 ## Trivia
 
 -   You can sit on a Gigamed.
+-   Gigameds have blue blood.
 -   Gigameds can do small leaps to send out an aerial pulse attack if they feel it is necessary.
 -   To prevent stunlocking, they are the only non-humanoid mobs that are kicked back after a combo. They can also be dazed by knocking them into a wall.
 -   Electric Stun Pulse is one of the few attacks that can't ever be parried, even with Talents that allow you to parry un-parryable attacks.

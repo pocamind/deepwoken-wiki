@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 152882
+revid: 152886
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -13,7 +13,7 @@ notices:
 “ So weep for ash, and weep for ruin -  
 for embers fade, and swells the sea.  
 hold on to hope, and in so doing  
-beware - the Tide comes too for thee, in chance the BloodFlame goes free. ”
+beware - the Tide comes too for thee. ”
 
 ― To Sleep, Dreaming (Contour 4) Description
 
@@ -127,24 +127,6 @@ The Duke
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   The Golems were largely docile for a good period of Erisia's history, due to their lack of numbers, or possibly not even being present at the Erisia mansion while he was having them guard his Celtor estate. The use of human souls via the Forge allowed actual full-scale production of them, as it gave the Golems a power source that wasn't reliant on the limits of Duke Erisia's bell.
 -   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.[\[2\]](#cite-note-arch-2)
-
-### Zeerify, the First Truthbearer
-
--   Founder of the Bloodflame attunement.
--   Known as the First Truthbearer of Erisia.
--   Once a Seerborn Flamecharmer.
--   Survived self-ignition during early Flamecharm awakening.
--   Created Bloodflame by fusing Flamecharm and Hemokinesis.
--   Believed fire reveals hidden truths; blood stores memory.
--   Formed the cult known as the Truthbearers.
--   Hunted corrupted attunement users and Deepbound.
--   Said to have burned lies from flesh using Bloodflame.
--   Fought during the Siege of V’kelmorr.
--   Disappeared after leading a crusade into the Depths.
--   Believed to have become a shade or flame-ghost.
--   His weapon, _The Emberbrand_, remains lost.
--   Bloodflame is outlawed and erased from most records.
--   Some Depths talents trace back to his teachings.
 
   
 

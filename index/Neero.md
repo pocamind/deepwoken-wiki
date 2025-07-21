@@ -1,6 +1,6 @@
 ---
 title: Neero
-revid: 150277
+revid: 152927
 source: https://deepwoken.fandom.com/wiki/Neero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs]
@@ -45,7 +45,7 @@ Neero is a [Celtor](Celtor.md) [Pathfinder](Pathfinder.md) who can be found in t
   <td colspan="4">What do Pathfinders do?</td>
 </tr>
 <tr>
-  <td colspan="4">I've been searching this Temple for the 'Forge of Sin'. It was written to be in the peaks of Erisia, but someone or <i>something</i> seems to have dragged it away... The marks don't seem fresh though, it must've been pulled away some time ago, perhaps during the last time the island drifted into one of the {g|The Luminants|Luminants}}?</td>
+  <td colspan="4">I've been searching this Temple for the 'Forge of Sin'. It was written to be in the peaks of Erisia, but someone or <i>something</i> seems to have dragged it away... The marks don't seem fresh though, it must've been pulled away some time ago, perhaps during the last time the island drifted into one of the <a href="Glossary.md#the-luminants">Luminants</a>?</td>
   <td colspan="4">Our job is to make sense of the world left behind in these time-adjacent places. Well, at least for us historian types, not so much the looters. Although, I think the disappearance of the Forge here is not due to a <a href="Glossary.md#pathfinders">Pathfinder</a>. I believe this island fell to a great tragedy the last time it washed into the <a href="Glossary.md#the-voidsea">Voidsea</a>.</td>
 </tr>
 <tr>

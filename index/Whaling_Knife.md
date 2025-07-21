@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 152369
+revid: 152896
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
@@ -38,6 +38,8 @@ This weapon can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and req
 ## Critical
 
 The user rushes forward while preforming a horizontal slash forward, the aforementioned slash having a red trail.
+
+The critical has a cooldown of **3 seconds**.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 150716
+revid: 152932
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -16,77 +16,170 @@ The Glossary is a feature that explains terminology and events in game that reve
 
 Glossary entries can be expanded when interacting with those who reveal more information on the topic. Information from different sources are separated in boxes.
 
-### Entities
+The Glossary can be accessed by opening your Encyclopedia with the button on the top left of the screen.
 
-#### Ethiron, the Maelstrom's Eye
+  
 
--   A Drowned God said to preside over Wind.
+## Entities
+
+### The Celestials
+
+-   The former inhabitants of the [Heavens](#the-heavens) above. Similar in many ways to Mankind, but of a different species altogether.
+-   When the [Tides](#the-tides) came, the Celestials were driven from the [Heavens](#the-heavens) down to the [Surface](#the-surface) below.
+-   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
+-   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
+
+Dialogue: | Books: | Glossary Entries: [The Heavens](#the-heavens)
+
+### The Drowned Gods
+
+-   Entities of immense and unknowable power that are said to slumber deep within the [Depths](#the-depths).
+-   Many believe that the [Song](#the-song) has stirred them from their sleep and brought about the [Tides](#the-tides). Should a Drowned God wake, it's also believed that it would result in [Lumen's](#lumen) undoing.
+-   The names of Drowned gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
+-   Worship of Drowned Gods is taboo across most of the [Lumen](#lumen), with their faithful being branded as cultists and heretics.
+
+Dialogue: | Books: | Glossary Entries: [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians) and, [The Vents, the Third Layer](#the-vents-the-third-layer)
+
+### Korilfiend, the Inferno's Provenance
+
+-   A [Drowned God](#the-drowned-gods) said to preside over Heat.
+-   A flower containing vestiges of Korilfiend's power is said to have been consumed by Amorus Pleeksty, who later developed the art of [Flamecharming](#flamecharm).
+
+Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm) and [The Vents, the Third Layer](#the-vents-the-third-layer)
+
+### The High Convocation
+
+-   The leadership body of the [Citadel](#the-citadel-of-markor) of Markor, the [High Convocation](#the-high-convocation) is a council of retired senior staff drawn from the Citadel's various divisions.
+-   Members of the [High Convocation](#the-high-convocation) are known as [Convocants](#the-high-convocation).
+
+Dialogue: | Books: | Glossary Entries: [The Citadel of Markor](#the-citadel-of-markor), [The High Convocation](#the-high-convocation)
+
+### Ethiron, the Maelstrom's Eye
+
+-   A [Drowned God](#the-drowned-gods) said to preside over Wind.
 -   Their gales are said to drag even Time itself into their wake.
 -   Thought to preside over the Second Layer, granting it the moniker of 'The Eternal Gale'.
 
-#### Korilfiend, the Inferno's Provenance
+Dialogue: | Books: | Glossary Entries: [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
--   A Drowned God said to preside over Heat.
--   A flower containing vestiges of Korilfiend's power is said to have been consumed by Amorus Pleeksty, who later developed the art of Flamecharming.
+### Krulians
 
-#### The Celestials
+-   Enigmatic beings thought to be envoys of the [Drowned Gods](#the-drowned-gods).
+-   The Ferryman referred to them as 'the closest bridge between the Gods below and your kind'.
 
--   The former inhabitants of the Heavens above. Similar in many ways to Mankind, but of a different species altogether.
--   When the Tides came, the Celestials were driven from the Heavens down to the Surface below.
--   Many within Lumen view the Celestials as Gods, with many major religions within Lumen worshipping them.
--   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the Western Luminant and beyond.
+Dialogue: [The Gaunt Man](The_Gaunt_Man.md) | Books: | Glossary Entries:
 
-#### The Drowned Gods
+## Historic Events
 
--   Entities of immense and unknowable power that are said to slumber deep within the Depths.
--   Many believe that the Song has stirred them from their sleep and brought about the Tides. Should a Drowned God wake, it's also believed that it would result in Lumen's undoing.
--   The names of Drowned gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
--   Worship of Drowned Gods is taboo across most of the Lumen, with their faithful being branded as cultists and heretics.
+### The Submergence of Celtor
 
-#### The High Convocation
+-   In the year 904 CE, the Celtorian capital, the Great [City of Celtor](#the-drowned-city-of-celtor), was devastated and sunk by a colossal sea monster known only as the 'Celtorian Horror'.
+-   Following the submergence of Celtor, much of the rest of the [Southern Luminant](#the-southern-luminant) was pulled under the waves and consumed by the [Voidsea](#the-voidsea).
 
--   The leadership body of the Citadel of Markor, the High Convocation is a council of retired senior staff drawn from the Citadel's various divisions.
--   Members of the High Convocation are known as Convocants.
+Dialogue: | Books: | Glossary Entries: [The Drowned City of Celtor](#the-drowned-city-of-celtor) and [The Southern Luminant](#the-southern-luminant)
 
-### Factions
+## Factions
 
-#### The Central Authority
+### The Central Authority
 
--   The predominant military and political force within the Central Authority, and perhaps even across all of Lumen.
--   Built upon the foundations of the Adretian Empire who headed the coalition of nations that came together to found the Central Authority in 65 BCE.
--   The Central Authority's stated goal is to unify all of the world under one banner in a bid to present a united front against the Depths.
--   To many, and indeed to those they have conquered, the Central Authority is an empire all the same.
--   Despite their imperial proclivities, they are the primary funders of expeditions into the Depths by the Divers and the Ignition Union.
--   The Central Authority is helmed by the Sovereign Drallis Ehr and his Council. An immortal, the Sovereign has been the head of state for the Central Authority since its inception.
+-   The predominant military and political force within the [Central Authority](#the-central-authority), and perhaps even across all of [Lumen](#lumen).
+-   Built upon the foundations of the Adretian Empire who headed the coalition of nations that came together to found the [Central Authority](#the-central-authority) in 65 BCE.
+-   The [Central Authority's](#the-central-authority) stated goal is to unify all of the world under one banner in a bid to present a united front against the [Depths](#the-depths).
+-   To many, and indeed to those they have conquered, the [Central Authority](#the-central-authority) is an empire all the same.
+-   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
+-   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-### Magic
+Dialogue: [Kressa](Kressa.md) and [Scope](Scope.md) | Books: | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), and [The Citadel of Markor](#the-citadel-of-markor)
 
-#### Flamecharm
+### The Citadel of Markor
 
--   The ability to conjure flames and heat through the Song.
--   As an attunement, Flamecharm is thought to have been discovered and pioneered by Amorus Pleeksty, who is said to have descended into the Third Layer and consumed a flower of Korilfiend. Productions of flame through the Song are recorded to histories prior to Pleeksty's discovery of the attunement, and indeed these were the foundation of the so-called Songwork that spurred the Canticlysm's industry.
+-   Perhaps the most prominent research organization in [Lumen](#lumen), the Citadel pride themselves as the foremost keepers of knowledge, history, and research into [Lumen](#lumen) and the surrounding [Depths](#the-depths).
+-   The Citadel receives the majority of its funding from the [Central Authority](#the-central-authority), a contribution that the [Authority](#the-central-authority) claims falls in line with their desire for global unity, and for a united front against the [Depths](#the-depths).
+-   The organisation is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
+-   The widely used epoch of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
-#### Mantras
+Dialogue: | Books: | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), and [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
--   A small passage of the Song that can be 'spoken' in order to invoke its effects into being.
+## Notable Figures
+
+### The Sovereign Drallis Ehr
+
+-   An ageless Adretian man, the [Sovereign](#the-sovereign-drallish-ehr) has been the supreme ruler of the [Central Authority](#the-central-authority) since its inception.
+-   The histories recount that [Drallis Ehr](#the-sovereign-drallish-ehr) became a hero in the Adretian Empire by dispelling the Godstorm that had brought the nation to its knees, bringing peace to its people. With the Adretian Emperor and his line having fallen into the Godstorm, Drallis took the reins and spearheaded the coalition that would become the [Central Authority](#the-central-authority).
+-   Beyond the histories told by the [Citadel](#the-citadel-of-markor), little is known about the man himself. His identity is one of the most enduring mysteries of the era.
+-   Some sceptics believe that the identity of the Sovereign is actually passed down in secret, and that the supposed immortality of its ruler is propaganda designed to suppress resistance.
+
+Dialogue: | Books: | Glossary Entries: [The Central Authority](#the-central-authority) and [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+
+### Mur of Light
+
+-   A Goddess worshipped by many in the Etrean Luminant.
+-   Many believe that Mur was responsible for bringing about the knowledge that Murmurs to the Kingdom of Etrea.
+-   As with many Gods, the contemporary understanding is that Mur may have been a Celestial. (Unlocked by asking Theadre if Mur could be a Celestial)
+-   Andros said they hadn't seen any accounts of Mur outside of the Etrean Luminant.
+
+Dialoge: | Books: | Glossary Entries:
+
+### The Lady Confessor
+
+-   The mysterious leader of the Lullaby Isles, where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the East suggest a sense of great reverence and sincerity towards her decrees.
+
+Dialogue: [Liviu](Liviu.md) | Books: | Glossary Entries:
+
+## Magic
+
+### Flamecharm
+
+-   The ability to conjure flames and heat through the [Song](#the-song).
+-   As an attunement, [Flamecharm](#flamecharm) is thought to have been discovered and pioneered by Amorus Pleeksty, who is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance). Productions of flame through the [Song](#the-song) are recorded to histories prior to Pleeksty's discovery of the attunement, and indeed these were the foundation of the so-called Songwork that spurred the [Canticlysm's](#the-canticlysm) industry.
+
+Dialogue: [Amashi](Amashi,_Master_of_Flame.md) | Books: | Glossary Entries: [Flamecharm](#flamecharm) and [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
+
+### Lightkeep
+
+-   Stationed in Lighthouses at the edges of [Luminants](#the-luminants), these rare individuals are capable of Illuminating a path through the [Voidsea](#the-voidsea), forcing it to retreat.
+-   A scant few are born with the Gift of [Lightkeeping](#lightkeep), with each individual bearing the heavy responsibility of driving back the Void to enable the transportation and exchange of goods, information, and people.
+-   [Lightkeepers](#lightkeep) are afforded little freedom, when spending their lives wasting away in their Lighthouses guarded by a legion of soldiers
+-   A nation's economy rests on its [Lightkeepers](#lightkeep), with passage between the [Luminants](#the-luminants) being strictly controlled and tariffed by the few that have [Lightkeepers](#lightkeep) in their retinue.
+-   The Radiant Tones utilized by adherents of the Dawnwalker Oath are based on research into Lightkeeping, though are incapable of illuminating the Void.
+
+Dialogue: [Nimea](Nimea.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep) and [The Luminants](#the-luminants)
+
+### Mantra
+
+-   A small passage of the [Song](#the-song) that can be 'spoken' in order to invoke its effects into being.
 -   Though a Mantra is described as a 'passage' that one 'speaks', the words cannot be pronounced, at least by a human, and are not strictly even sounds. Those that speak aloud the name of a Mantra are not speaking the words of a Mantra, they do so in order to bring forth the Mantra's 'words' in their mind.
 -   Speech isn't necessary to cast Mantras. The precise means of invoking a Mantra varies from person-to-person, but is broadly described as "speaking' from within, akin to holding an inner monologue, or to bringing a memory to the forefront of your thoughts.
 -   Often, the more one understands and is able to conjure fourth the words of a Mantra, the more effective they are at using it.
 
-#### Oaths
+Dialogue: [Aelita](Aelita.md) | Books: | Glossary Entries: [The Song](#the-song)
+
+### Oaths
 
 -   An extension of the Song brought about by swearing a Vow to oneself.
 -   By expanding upon the Song and incorporating a self-sworn Vow in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
-#### The Song
+Dialogue: [Cerulean](Cerulean.md) | Books: | Glossary Entries:
 
--   Thought to be the source of much of the 'magic' of Lumen, its wielders often invoke its magic through the use of Mantras.
--   The discovery of the Song and the ensuing research into its applications is said to have precipitated the Canticlysm — the so-called 'Golden Age of Mankind' \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
--   Before its discovery, few within Lumen could perceive its tones. Now, it is inescapable. The Song is everywhere, like an earworm that lingers at the back of your mind, always ready to spring into action and play its tones once more.
+### The Song
+
+-   Thought to be the source of much of the 'magic' of [Lumen](#lumen), its wielders often invoke its magic through the use of [Mantras](#mantra).
+-   The discovery of the Song and the ensuing research into its applications is said to have precipitated the [Canticlysm](#the-canticlysm) — the so-called 'Golden Age of Mankind'. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+-   Before its discovery, few within [Lumen](#lumen) could perceive its tones. Now, it is inescapable. The Song is everywhere, like an earworm that lingers at the back of your mind, always ready to spring into action and play its tones once more.
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
--   Many believe that the Song was responsible for the advent of the Tides, and of the resulting collapse of civilisation \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
+-   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilisation \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-#### Vows
+Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Mantra](#mantra), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), and [The Drowned Gods](#the-drowned-gods)
+
+### Radiant Tones
+
+-   Discovered by Klaris, the Radiant Tones are the foundations behind the Dawnwalker Oath.
+-   The Radiant Tones are said to be a Verse of the [Song](#the-song) that can reproduce Light.
+-   According to research conducted by the [Divers](#the-divers), they believe that Lightkeepers use it latently for their abilities.
+
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries:
+
+### Vows
 
 -   Within Lumen, and indeed everywhere beyond it, it is a self-evident fact that words, oaths, and promises spoken from the heart hold within them a supernatural force.
 -   On their own, Vows can be used to enforce deals and promises, as breaking a Vow is incredibly difficult.
@@ -94,206 +187,236 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 -   Vows are poorly understood by the people of the Resurgence, but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an Oath is facilitated by such a Vow.
 
-#### Lightkeep
+Dialouge: | Books: | Glossary Entries:
 
--   Stationed in Lighthouses at the edges of Luminants, these rare individuals are capable of Illuminating a path through the Voidsea, forcing it to retreat.
--   A scant few are born with the Gift of Lightkeeping, with each individual bearing the heavy responsibility of driving back the Void to enable the transportation and exchange of goods, information, and people.
--   Lightkeepers are afforded little freedom, when spending their lives wasting away in their Lighthouses guarded by a legion of soldiers
--   A nation's economy rests on its Lightkeepers, with passage between the Luminants being strictly controlled and tariffed by the few that have Lightkeepers in their retinue.
--   The Radiant Tones utilized by adherents of the Dawnwalker Oath are based on research into Lightkeeping, though are incapable of illuminating the Void.
+## Objects of Interest
 
-### Notable Figures
-
-#### Mur of Light
-
--   A Goddess worshipped by many in the Etrean Luminant.
--   Many believe that Mur was responsible for bringing about the knowledge that Murmurs to the Kingdom of Etrea.
--   As with many Gods, the contemporary understanding is that Mur may have been a Celestial. (Unlocked by asking Theadre if Mur could be a Celestial)
--   Andros said they hadn't seen any accounts of Mur outside of the Etrean Luminant.
-
-#### The Sovereign Drallis Ehr
-
--   An ageless Adretian man, the Sovereign has been the supreme ruler of the Central Authority since its inception.
--   The histories recount that Drallis Ehr became a hero in the Adretian Empire by dispelling the Godstorm that had brought the nation to its knees, bringing peace to its people. With the Adretian Emperor and his line having fallen into the Godstorm, Drallis took the reins and spearheaded the coalition that would become the Central Authority.
--   Beyond the histories told by the Citadel, little is known about the man himself. His identity is one of the most enduring mysteries of the era.
--   Some sceptics believe that the identity of the Sovereign is actually passed down in secret, and that the supposed immortality of its ruler is propaganda designed to suppress resistance.
-
-#### The Lady Confessor
-
--   The mysterious leader of the Lullaby Isles, where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the East suggest a sense of great reverence and sincerity towards her decrees.
-
-### Objects of Interest
-
-#### The Moonseye
+### The Moonseye
 
 -   At night, the Moonseye rises over Lumen and shields it under its watchful gaze.
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the Suncross.
 
-#### The Suncross
+Dialogue: [Lake](Lake.md) | Books: | Glossary Entries: [The Lullaby Isles](#the-moonseye)
 
--   The bringer of life and warmth to Lumen.
--   At night, the Suncross retreats into the Voidfog and its light dims, darkness falling over Lumen.
+### The Suncross
 
-### Phenomena
+-   The bringer of life and warmth to [Lumen](#lumen).
+-   At night, the Suncross retreats into the [Voidfog](#the-voidfog) and its light dims, darkness falling over [Lumen](#lumen).
 
-#### The Drowning
+Dialogue: | Books: | Glossary Entries: [The Moonseye](#the-moonseye) and [The Nightsea](#the-nightsea)
 
--   Since the Tides, a phenomenon known as 'the Drowning' occurs on death.
--   As Lumen was dragged further into the Depths by the Tides, so too were the souls of the dead dragged further down.
--   The souls of the deceased are dragged ruthlessly down, awakening to find themselves in the Depths.
--   Often, the strong, the notable, the willful, the pious, or simply the unfortunate are said to possess 'heavier' souls, sinking further into the Depths should they Drown.
--   No one who has perished in the Depths has ever returned.
+## Time Periods
 
-#### The Tides
+### The Canticlysm
 
--   Following the discovery and widespread use of the Song during the Canticlysm, a tipping point was reached, and all manner of strange phenomena emerged.
--   Chiefly, the waters of Lumen arose. Slowly at first, but over all the years all but the tallest of mountain peaks were submerged beneath the waves
--   But, to say the waters _rose_ is not strictly accurate — rather, Lumen was _dragged down_ further into the sea. Further into the Depths below.
--   With the Depths closer than ever before, sightings of misshapen monstrosities and nightmarish beasts emerging from below plagued the shores of Lumen, hemming mankind ever inwards towards the safety of the peaks.
--   As the Tides came, so too did the Void snake its fingers into the now-vacant shallows of sunken ruins. In modern times, the vast majority of Lumen is ensnared in the grasp of the Voidsea.
--   Though the Tides brought about a physical calamity through the submergence of Lumen, they also brought about an existential calamity in the Drowning.
+-   A so-called 'Golden Age of Mankind' that was precipitated by the initial discovery and application of the [Song](#the-song) within [Lumen](#lumen).
+-   A time of great expansion, discovery, and conflict.
+
+Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm), [The Song](#the-song), and [The Tides](#the-tides)
+
+### The Old World
+
+-   The times before the [Tides](#the-tides) arrived.
+-   The Canticlysm is often thought of as the defining era of the Old World.
+
+Dialogue: | Books: | Glossary Entries: [The Luminants](#the-luminants)
+
+## Phenomena
+
+### The Tides
+
+-   Following the discovery and widespread use of the [Song](#the-song) during the [Canticlysm](#the-canticlysm), a tipping point was reached, and all manner of strange phenomena emerged.
+-   Chiefly, the waters of [Lumen](#lumen) arose. Slowly at first, but over all the years all but the tallest of mountain peaks were submerged beneath the waves
+-   But, to say the waters _rose_ is not strictly accurate — rather, [Lumen](#lumen) was _dragged down_ further into the sea. Further into the [Depths](#the-depths) below.
+-   With the [Depths](#the-depths) closer than ever before, sightings of misshapen monstrosities and nightmarish beasts emerging from below plagued the shores of [Lumen](#lumen), hemming mankind ever inwards towards the safety of the peaks.
+-   As the Tides came, so too did the Void snake its fingers into the now-vacant shallows of sunken ruins. In modern times, the vast majority of [Lumen](#lumen) is ensnared in the grasp of the [Voidsea](#the-voidsea).
+-   Though the Tides brought about a physical calamity through the submergence of Lumen, they also brought about an existential calamity in the [Drowning](#the-drowning).
 -   The times since the Tides began are often referred to as 'The Aftertide', or as being 'Post-Tidal'.
--   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as Lumen continues to slip further and further into the Depths below.
+-   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as [Lumen](#lumen) continues to slip further and further into the [Depths](#the-depths) below.
 
-### Places
+Dialogue: | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old World](#the-old-world), [The Song](#the-song), and [The Voidsea](#the-voidsea)
 
-#### The Luminants
+### The Drowning
 
--   Akin to continents, the Luminants are the remaining regions of Lumen that haven't been claimed by the Voidsea.
--   In a sense, the Luminants and their safe waters are islands into their own, with each Luminant separated from one-another by the Void.
--   In order to secure safe passage through the Voidsea, the work of a Lightkeeper is required.
--   Today, there are broadly considered to be 5 Luminants: the Eastern, Western, Northern, Southern, and Central Luminants. In the Old World, the Luminants were larger and more numerous.
+-   Since the [Tides](#the-tides), a phenomenon known as 'the Drowning' occurs on death.
+-   As [Lumen](#lumen) was dragged further into the [Depths](#the-depths) by the [Tides](#the-tides), so too were the souls of the dead dragged further down.
+-   The souls of the deceased are dragged ruthlessly down, awakening to find themselves in the [Depths](#the-depths).
+-   Often, the strong, the notable, the willful, the pious, or simply the unfortunate are said to possess 'heavier' souls, sinking further into the [Depths](#the-depths) should they Drown.
+-   No one who has perished in the [Depths](#the-depths) has ever returned.
 
-#### The Central Luminant
+Dialogue: | Books: | Glossary Entries: [The Tides](#the-tides)
 
--   The central and largest Luminant of all, the Central Luminant is a tumultuous region that is governed overall by the Central Authority.
--   Enclaves outside of the Central Authority's purview do exist within the Central Luminant, however. One such example are the Lullaby Isles, the homeland of the Chrysid and the Moonlit Faith.
+## Places
 
-#### Driftlands
+### The Central Luminant
 
--   Islands that have a tendency to 'drift' in and out of the Voidsea are known as Driftlands.
--   Due to the anomalous metaphysics of the Voidsea, Driftlands often appear to be unscathed by the effects of time, almost as if their time in the Void was a frozen moment.
+-   The central and largest [Luminant](#the-luminants) of all, the Central Luminant is a tumultuous region that is governed overall by the [Central Authority](#the-central-authority).
+-   Enclaves outside of the Central Authority's purview do exist within the Central Luminant, however. One such example are the [Lullaby Isles](#the-lullaby-isles), the homeland of the Chrysid and the Moonlit Faith.
 
-#### The Drowned City of Celtor
+Dialogue: | Books: | Glossary Entries: [The Luminants](#the-luminants)
 
--   Formerly the capital of the Celtor peoples, now a site of pilgrimage for those lost to the Depths.
--   At the centre lies the Cathedral of the Interstice, to which many travel in the hopes of succeeding in its Trial.
--   The City of Celtor was dragged down from the Surface to the Depths in an event known as the Submergence of Celtor in 904 CE.
+### The Depths
 
-#### Lumen
+-   Beyond [Lumen](#lumen) there is only the Depths, a vast and inconceivable expanse of fractured and convoluted space.
+-   The Depths is often thought to be structured in 'Layers', referring to the distinct regions of the Depths, with deeper layers holding to the conventions of reality ever more loosely.
+-   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the [Third Layer](#the-vents-the-third-layer) without ever passing through the First and [Second Layers](#the-eternal-gale-the-second-layer). This being said, the typical routes established do generally follow this order.
+-   The way most individuals reach the Depths is through the effects of the [Drowning](#the-drowning).
 
--   The world you call home.
--   Lumen is composed of two halves; the Surface below and the Heavens above
--   The skies between the Surface and the Heavens are obscured by vast amounts of Voidfog.
+Dialogue: | Books: | Glossary Entries: [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Tides](#the-tides), and [The Voidsea](#the-voidsea)
 
-#### The Lullaby Isles
+### The Heavens
+
+-   The other half of [Lumen](#lumen), an inverted dome suspended above the [Surface](#the-surface).
+-   The waters of the Heavens are known as the [Nightsea](#the-nightsea).
+-   The former home of the [Celestials](#the-celestials).
+
+Dialogue: | Books: | Glossary Entries: [Lumen](#lumen) and [The Celestials](#the-celestials)
+
+### The Lullaby Isles
 
 -   The Chrysid homeland, a fruitful archipelago surround by treacherous mountain range.
--   Home to the Moonlit Faith, a devout religion that revere the passage of souls to the Moonseye.
+-   Home to the Moonlit Faith, a devout religion that revere the passage of souls to the [Moonseye](#the-moonseye).
 
-#### The Nightsea
+Dialogue: | Books: | Glossary Entries: [The Central Luminant](#the-central-luminant) and [The Moonlit Dialect](#the-moonlit-dialect)
 
--   The inky black seas of the Heavens above. Studded with twinkling points of light known as Stars.
--   When night falls and the Suncross retreats into the Voidfog, the Nightsea becomes visible from the surface bellow.
--   Seeing them through the telescope, you know that the Stars of the Nightsea are in reality the ruins of Celestial civilization.
+### The Luminants
 
-#### The Voidfog
+-   Akin to continents, the Luminants are the remaining regions of [Lumen](#lumen) that haven't been claimed by the [Voidsea](#the-voidsea).
+-   In a sense, the Luminants and their safe waters are islands into their own, with each Luminant separated from one-another by the Void.
+-   In order to secure safe passage through the [Voidsea](#the-voidsea), the work of a [Lightkeeper](#lightkeep) is required.
+-   Today, there are broadly considered to be 5 Luminants: the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
--   The impenetrable mists that surround and obscure Lumen's skies.
+Dialogue: [Kressa](Kressa.md), [Neero](Neero.md), and [Nimea](Nimea.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), and [The Southern Luminant](#the-southern-luminant)
+
+### The Southern Luminant
+
+-   Formerly home to the [City of Celtor](#the-drowned-city-of-celtor) before its Submergence.
+-   Following the [Submergence of Celtor](#the-submergence-of-celtor), much of the Southern Luminant was pulled under the waves and consumed by the [Voidsea](#the-voidsea).
+-   The Southern [Luminant](#the-luminants) is by most accounts uninhabited, though some say that scattered remnants of the islanders who once lived there still haunt its ruins.
+
+Dialogue: | Books: | Glossary Entries: [The Submergence of Celtor](#the-submergence-of-celtor)
+
+### The Surface
+
+-   The half of [Lumen](#lumen) in which you reside.
+-   The Surface is made up of the [Luminants](#the-luminants) and the [Voidsea](#the-voidsea) that surrounds them.
+
+Dialogue: | Books: | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials), [The Heavens](#the-heavens), and [The Nightsea](#the-nightsea)
+
+### The Voidfog
+
+-   The impenetrable mists that surround and obscure [Lumen's](#lumen) skies.
 -   At a passing glance, they resemble clouds.
 
-#### The Voidsea
+Dialogue: | Books: | Glossary Entries: [Lumen](#lumen), [The Nightsea](#the-nightsea), and [The Suncross](#the-suncross)
 
--   Much of the world following the Tides has been subsumed into the Voidsea, an anomalous and near-insurmountable stretch of water that represents the gradual dissolution of Lumen into the Depths.
+### The Voidsea
+
+-   Much of the world following the [Tides](#the-tides) has been subsumed into the Voidsea, an anomalous and near-insurmountable stretch of water that represents the gradual dissolution of [Lumen](#lumen) into the [Depths](#the-depths).
 -   When it comes to the Voidsea, the conventional laws of times and space hang in the towel.
 -   Islands dragged into the Voidsea, may suddenly be spat back out fifty years later, its inhabitants wholly unaware of the time that has passed.
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
 
-#### The Western Luminant
+Dialogue: [Neero](Neero.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), and [The Tides](#the-tides)
 
--   Of a warmer and more humid climate than much of Lumen, the Western Luminant is a rich overgrown jungle of pillar-like mountain peaks.
+### The Western Luminant
+
+-   Of a warmer and more humid climate than much of [Lumen](#lumen), the Western Luminant is a rich overgrown jungle of pillar-like mountain peaks.
 -   The predominant powers within the Western Luminant are the Hundred Legions and the Starkindred Faith.
 
-#### The Vents, the Third Layer
+Dialogue: | Books: | Glossary Entries: [The Celestials](#the-celestials)
 
--   Said to be the inhospitable waste where the Drowned God Korilfiend resides.
--   Riddled with thermal vents and geysers that exude extreme temperature \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+### The Drowned City of Celtor
 
-#### The Depths
+-   Formerly the capital of the Celtor peoples, now a site of pilgrimage for those lost to the [Depths](#the-depths).
+-   At the centre lies the Cathedral of the Interstice, to which many travel in the hopes of succeeding in its Trial.
+-   The City of Celtor was dragged down from the Surface to the Depths in an event known as the [Submergence of Celtor](#the-submergence-of-celtor) in 904 CE.
 
--   Beyond Lumen there is only the Depths, a vast and inconceivable expanse of fractured and convoluted space.
--   The Depths is often thought to be structured in 'Layers', referring to the distinct regions of the Depths, with deeper layers holding to the conventions of reality ever more loosely.
--   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the Third Layer without ever passing through the First and Second Layers. This being said, the typical routes established do generally follow this order.
--   The way most individuals reach the Depths is through the effects of the Drowning.
+Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: | Glossary Entries: [The Southern Luminant](#the-southern-luminant) and [The Submergence of Celtor](#the-submergence-of-celtor)
 
-#### The Echelon
+### The Eternal Gale, the Second Layer
+
+-   Said to be a snow-torn hellscape buffeted by the Winds of [Ethiron](#ethiron-the-malestroms-eye), the Second Layer makes the First seem safe by comparison.
+
+Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [The Depths](#the-depths)
+
+### Lumen
+
+-   The world you call home.
+-   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above
+-   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast amounts of [Voidfog](#the-voidfog).
+
+Dialogue: [Dust](Dust.md) | Books: | Glossary Entries: [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), and [The Western Luminant](#the-western-luminant)
+
+### The Nightsea
+
+-   The inky black seas of the [Heavens](#the-heavens) above. Studded with twinkling points of light known as Stars.
+-   When night falls and the [Suncross](#the-suncross) retreats into the [Voidfog](#the-voidfog), the Nightsea becomes visible from the [Surface](#the-surface) bellow.
+-   Seeing them through the telescope, you know that the Stars of the Nightsea are in reality the ruins of Celestial civilization.
+
+Dialogue: | Books: | Glossary Entries: [The Heavens](#the-heavens)
+
+### The Vents, the Third Layer
+
+-   Said to be the inhospitable waste where the [Drowned God](#the-drowned-gods) [Korilfiend](#korilfiend-the-infernos-provenance) resides.
+-   Riddled with thermal [vents](#the-vents-the-third-layer) and geysers that exude extreme temperature. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+
+Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm), [The Depths](#the-depths), [The Vents, the Third layer](#the-vents-the-third-layer)
+
+### Driftlands
+
+-   Islands that have a tendency to 'drift' in and out of the Voidsea are known as Driftlands.
+-   Due to the anomalous metaphysics of the Voidsea, Driftlands often appear to be unscathed by the effects of time, almost as if their time in the Void was a frozen moment.
+
+Dialogue: | Books: [Neero](Neero.md), [Nimea](Nimea.md) | Glossary Entries:
+
+### The Echelon
 
 -   A sprawling metropolis upon a central island in the Lullaby Isles archipelago. The centre of activity for scholars, religious figureheads, and the Counsell. A bustling complex of archives and residences for those who live within. Notable for its pristine sandstone architecture, punctuated by elegant frescoes.
 
-### Time Periods
-
-#### The Old World
-
--   The times before the Tides arrived.
--   The Canticlysm is often thought of as the defining era of the Old World.
-
-#### The Canticlysm
-
--   A so-called 'Golden Age of Mankind' that was precipitated by the initial discovery and application of the Song within Lumen.
--   A time of great expansion, discovery, and conflict.
-
-### Terminology
-
-#### The Divers
-
--   An expeditionary organisation stemming from the Citadel of Markor that conduct routine expeditions into the Depths in order to gather research, materials, and eliminate emergent threats.
--   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
-
-#### Pathfinders
-
--   Those that make a living by exploring ruins and driftlands.
--   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
-
-#### The Moonlit Dialect
-
--   The native dialect of the Lullaby Isles, scarcely found outside of its walls.
--   The term 'Th'Ambulo', and 'Th'Armati' can be roughly translated to 'the upright', referring to non-Hivekin, and the armoured', referring to Hivekin.
--   'Aecta' (plural 'Aecti') refers to a Chrysid who lives natively within the Lullaby Isles.
-
-* * *
-
-### Black Divers
-
--   The highest-ranking field personnel of the Divers, granted oversight and authority second only to the Administrators of Operating Bases.
--   Black Divers have all descended beyond the First Layer on solo expeditions and have lived to tell the tale. As such, every Black Diver stands as a formidable individual, with many of their rank consisting of the most brilliant (and twisted) minds of the era.
-
-### The Citadel of Markor
-
--   Perhaps the most prominent research organization in Lumen, the Citadel pride themselves as the foremost keepers of knowledge, history, and research into Lumen and the surrounding Depths.
--   The Citadel receives the majority of its funding from the Central Authority, a contribution that the Authority claims falls in line with their desire for global unity, and for a united front against the Depths.
--   The widely used epick of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
-
-### The Eternal Gale, The Second Layer
-
--   Said to be a snow-torn hellscape buffeted by the Winds of Ethiron, the Second Layer makes the First seem safe by comparison.
+Dialogue: [Liviu](Liviu.md) | Books: | Glossary Entries:
 
 ### The Etrean Luminant
 
 -   The so-called 'sub-luminant' of the Eastern Luminant that is home to the Kingdom of Etrea and the Isle of Vigils
 -   In times past, the Kingdom of Etrea held claim over the vast majority of the Eastern Luminant, so the designation of the Etrean Luminant is a somewhat modern invention.
 
-### The Heavens
+Dialogue: | Books: | Glossary Entries:
 
--   The other half of Lumen, an inverted dome suspended above the Surface.
--   The waters of the Heavens are known as the Nightsea.
--   The former home of the Celestials.
+  
 
-### The Surface
+## Terminology
 
--   The half of Lumen in which you reside.
--   The Surface is made up of the Luminants and the Voidsea that surrounds them.
+### The Divers
+
+-   An expeditionary organisation stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
+-   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
+
+Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [Radiant Tones](#radiant-tones) and [The Central Authority](#the-central-authority)
+
+### Black Divers
+
+-   The highest-ranking field personnel of the Divers, granted oversight and authority second only to the Administrators of Operating Bases.
+-   Black Divers have all descended beyond the First Layer on solo expeditions and have lived to tell the tale. As such, every Black Diver stands as a formidable individual, with many of their rank consisting of the most brilliant (and twisted) minds of the era.
+
+Dialogue: | Books: | Glossary Entries:
+
+### Pathfinders
+
+-   Those that make a living by exploring ruins and driftlands.
+-   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
+
+Dialogue: [Neero](Neero.md) and [Nimea](Nimea.md) | Books: | Glossary Entries:
+
+### The Moonlit Dialect
+
+-   The native dialect of the [Lullaby Isles](#the-lullaby-isles), scarcely found outside of its walls.
+-   The term 'Th'Ambulo', and 'Th'Armati' can be roughly translated to 'the upright', referring to non-Hivekin, and the armoured', referring to Hivekin.
+-   'Aecta' (plural 'Aecti') refers to a Chrysid who lives natively within the [Lullaby Isles](#the-lullaby-isles).
+
+Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) player name with the Surname "Aecta" or "Aecti" | Books: | Glossary Entries:
 
 ## Trivia
 
--   In many cases, the word "city" links to _The Drowned City of Celtor_ despite the city in question not being Celtor at all. Similarly, the word "Luminant" will often link to _The Central Luminant_ even when referring to entirely different Luminants.
+-   In many cases, the word "city" links to _The Drowned City of Celtor_ even if the city the dialogue was referring to wasn't Celtor at all. Similarly, the word "Luminant" will often link to _The Central Luminant_ even when referring to entirely different Luminants.

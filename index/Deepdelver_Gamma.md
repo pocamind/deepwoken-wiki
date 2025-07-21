@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Gamma
-revid: 151313
+revid: 152916
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]
@@ -37,8 +37,8 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
   <td colspan="6">What do you do here?</td>
 </tr>
 <tr>
-  <td colspan="6">Well.. Gods, what a question! Did you know you're the first passerby here today to actually ask me such a thing? My name is Gamma, I'm a <font>Deepdelver</font> of the ignition Union. I've been workin' here for.. well, my whole life!</td>
-  <td colspan="6">Enough to keep my hands full all of the time. Here at the Union, camaraderie is our number one principle, so we all try to help eachother. Whether I'm working with supplies, or fetching a wandering member from the Second Layer, I'm always busy.</td>
+  <td colspan="6">Well.. Gods, what a question! Did you know you're the first passerby here today to actually ask me such a thing? My name is Gamma, I'm a <font>Deepdelver</font> of the Ignition Union. I've been workin' here for.. well, my whole life!</td>
+  <td colspan="6">Enough to keep my hands full all of the time. Here at the Union, camaraderie is our number one principle, so we all try to help eachother. Whether I'm working with supplies, or fetching a wandering member from the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>, I'm always busy.</td>
 </tr>
 <tr>
   <td colspan="3">What do you do here?</td>
@@ -47,8 +47,8 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
 </tr>
 <tr>
   <td colspan="3">[See first instance]</td>
-  <td colspan="3">Unfamiliar with the title, hm? A Deepdelver is a Union member who's proven their resourceful and critical thinking skills down here in the Depths. They're permitted acces to the Second Layer and beyond. We aren't fond of hierarchy here, so the the [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] merit of a Deepdelver is based on your ability to help others, not your strength. If you can prove that you'll put your own life at risk for those around you, you're a Deepdelver.</td>
-  <td colspan="6">Right, the Second Layer. So far as we know, there's only two 'safe' ways down to it. Our Deepdriller here, which is restricted to employees only, and one of Castle Light's... creations. Thought, we try to avoid Diver interaction, so i can't tell you much of their method. Maybe they'll let you take a crack at it? They're awfully fond of sending people to their deaths.</td>
+  <td colspan="3">Unfamiliar with the title, hm? A Deepdelver is a Union member who's proven their resourceful and critical thinking skills down here in the <a href="Glossary.md#the-depths">Depths</a>. They're permitted access to the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a> and beyond. We aren't fond of hierarchy here, so the the [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] merit of a Deepdelver is based on your ability to help others, not your strength. If you can prove that you'll put your own life at risk for those around you, you're a Deepdelver.</td>
+  <td colspan="6">Right, the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>. So far as we know, there's only two 'safe' ways down to it. Our Deepdriller here, which is restricted to employees only, and one of Castle Light's... creations. Thought, we try to avoid <a href="Glossary.md#the-divers">Diver</a> interaction, so I can't tell you much of their method. Maybe they'll let you take a crack at it? They're awfully fond of sending people to their deaths.</td>
 </tr>
 <tr>
   <td colspan="3">End</td>

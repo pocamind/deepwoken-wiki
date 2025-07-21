@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 142294
+revid: 152905
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -90,7 +90,7 @@ Felinor are known to seek a life of freedom, but are perceived as thieves/outlaw
 -   When wearing a helmet or hat, it will not hide the cat ears, instead they will go through the headwear.
 -   For April Fools 2022 ([Mudwoken](Mudwoken.md)), Felinors had their aspect name changed to "Abomination", which is unique compared to the other aspect names that were changed.
     -   This _may_ be because of the disdain the community shows towards them.
--   Picking the Obvious [flaw](Boons_and_Flaws.md) as a Felinor will balance out with the improved stealth, leaving you at a normal amount. This is good, as you can take this as a free flaw that will not cause any negative effects.
+-   The [stealth](Stealth.md) gain multiplier applies to negative stealth gain as well, making the [Obvious](Boons_and_Flaws.md#flaws) Flaw grant -24% stealth, though this is reduced to -4% due to the innate 20% stealth Felinors have.
 -   "Felinor" comes from the word _Feline_, which means cat or another member of the cat family i.e. lion, tiger, lynx.
 -   Felinor wasn't even intended to be added to the game, and was more or less added to appease those seeking that niche, as Felinor was originally an inside joke.[\[1\]](#cite-note-1)
 -   Felinors will say things such as "Me-ow!" when engaging combat, as opposed to other aspects.

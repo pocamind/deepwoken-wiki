@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 151696
+revid: 152922
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -10,11 +10,12 @@ categories: [NPCs, Vendors]
 
 | The Gaunt Man | |
 |---|---|
+| aspect | Krulian |
 | location | Celtor Wastes |
 
 ## Description
 
-The Gaunt Man is a tall and pale NPC that resides in [The Depths](The_Depths.md) that gives access to some endgame content and items.
+The Gaunt Man is a tall and pale Krulian NPC that resides in [The Depths](The_Depths.md) that gives access to some endgame content and items.
 
 The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that contains 3 dangerous mobs the player will be tasked with fighting; [Fury Nautilodaunt](Fury_Nautilodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), and [Parliament](Parliament.md). Upon completing this experiment, the Gaunt Man will grant you access to his shop, containing exclusive enchants and even an exclusive Deep Gem.
 
@@ -196,9 +197,15 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 <tr>
   <td colspan="3">I see. We have learnt much.</td>
   <td colspan="12"></td>
-  <td colspan="3">End.</td>
+  <td colspan="3">You wouldn't happen to be a Krulian would you?</td>
 </tr>
 <tr>
+  <td colspan="3">End.</td>
+  <td colspan="12"></td>
+  <td colspan="3"><a href="Glossary.md#krulian">Krulian</a>. Yes, some portion of me knows this to be true.</td>
+</tr>
+<tr>
+  <td colspan="15"></td>
   <td colspan="3">End.</td>
 </tr>
 </tbody>
@@ -208,7 +215,6 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 
 -   All items sold by the Gaunt Man ([Curse of Void](Curse_of_Void.md) Enchant, [Rain](Environmental_Hazards.md) Enchant, [Parasol's Blight](<Parasol's_Blight.md>) Enchant, and the [Aegis Gem](Aegis_Gem.md)) will be inactive if you have not completed his experiments on that character.
     -   This also applies to the [Nightbringer](Nightbringer.md) Enchant, even though he doesn't sell you this item.
--   The Gaunt Man may be a [Krulian](Krulian.md). This can be inferred by him using an analogy when comparing the player character to himself, calling the player character "a stalk of wheat" and himself a "a loaf of bread"; as we are but one soul compared to the multitude of souls that make up a Krulian.. or so the theory goes.
-    -   On top of this, his freakishly tall appearance, blue skin, empty eyes, and unnatural speech all contribute to the idea of him not being anything like most of the denizens of Lumen.
-    -   If this theory is true, then it also brings forth the idea that Krulians aren't made up of _only_ souls, as bread is made up of more than just wheat.
+-   If you've beaten [The Ferryman](The_Ferryman.md) during Spring and have asked what he is, a new dialogue option for The Gaunt Man will appear after his experiment, in which he confirms that he's a [Krulian](Krulian.md).
+    -   This may mean that Krulians are made up of more than just souls, as in a previous dialogue line, he uses an analogy to compare the player as a single stalk of wheat, but himself to bread. This can be inferred to meaning the stalk wheat = a singular soul, but as bread is made up of more than just wheat, Krulians may be made up of more than just souls.
 -   When you die in the experiment, he states: "Ah. I was hoping to learn more from that one. Oh well." he is very likely referring to the player character here, not the monsters. This theory is reinforced by his dialogue when you complete the experiment being "Hm. I have much to learn about your kind. Please do return for more experiments."
