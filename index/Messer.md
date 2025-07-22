@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 152365
+revid: 153096
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Alloyed Weapons, Medium Weapons]
@@ -10,6 +10,7 @@ categories: [Weapons, Swords, Alloyed Weapons, Medium Weapons]
 
 | Messer | |
 |---|---|
+| alloyed name | Alloyed Messer |
 | type | Sword |
 | requirements | 10 / 75 MED |
 | damage | 20 / 21 |

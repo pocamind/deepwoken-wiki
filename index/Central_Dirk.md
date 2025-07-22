@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 149687
+revid: 153108
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Drops, Light Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Daggers, Drops, Light Weapons]
 | swing speed | 1.23x |
 | penetration | 5% |
 | stances | 1 Handed |
+| selling price | 14 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Rare drop from King Thresher, Diluvian Mechanism, Fishing Chests, Bounty chests, Deep Widow, Merchant Ships, Lodestar, Moon's Eyrie, Dread Serpent, First Layer, Chime of Conflict |
-| description | "..." |
+| description | ... |
 
 ## Description
 

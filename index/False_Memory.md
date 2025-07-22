@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 146918
+revid: 153138
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons]
@@ -17,13 +17,14 @@ categories: [Weapons, Swords, Medium Weapons]
 | range | 8 |
 | swing speed | 1x |
 | stances | 2 Handed, 1 Handed |
+| selling price | N/A |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Selecting the "False Memory" option at the Hippocampal Pool |
-| description | “Fragments of the blade seem to be drifting off to the vast void surrounding you. It shall only last for a brief while, allowing you to switch weapons at the Hippocampal Pool." |
+| description | Fragments of the blade seem to be drifting off to the vast void surrounding you. It shall only last for a brief while, allowing you to switch weapons at the Hippocampal Pool. |
 
 “ Fragments of the blade seem to be drifting off to the vast void surrounding you. ”
 

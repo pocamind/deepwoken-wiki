@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 152946
+revid: 152973
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -44,6 +44,10 @@ For example:
 4.  80+ points in Strength => Level 5 Strength Mantra.
 
 In short: Every 20 points in a specific attribute will unlock the next level for said Mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that Mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its Mantras aside from a bit of damage scaling.
+
+### Mantra Damage Calculation
+
+The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page.
 
 ## Attribute Mantras
 

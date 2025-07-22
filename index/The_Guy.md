@@ -1,9 +1,9 @@
 ---
 title: The Guy
-revid: 152395
+revid: 153066
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, Summer Company, Quests, NPCs located in the Eastern Luminant]
+categories: [Canor NPCs, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # The Guy

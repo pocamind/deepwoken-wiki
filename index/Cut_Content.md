@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 152761
+revid: 153094
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -189,6 +189,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the October 17th, 2022 update, Heavy Lifting was removed from the game.
 -   **Herbivore \[Common Talent, Fortitude\] -** You gain more nutrition from eating plants.
     -   In the April 15th, 2025 update, Herbivore was removed from the game.
+-   **Hidden Blade \[Common Talent, 30 Agility\] -** Assassinations now leave enemies on the ground longer.
+    -   In the November 24th, 2023 update, Hidden Blade was removed from the game.
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
 -   **In Twain \[Common Talent, Heavy\] -** \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
     -   In the January 3rd, 2023 update, In Twain and Lethal Force were merged into Lethal Precision.

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 152107
+revid: 152967
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -50,19 +50,9 @@ Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% mo
 
 [Frostdraw Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
-## Mantra Damage Calculation
+### Mantra Damage Calculation
 
-The formula to calculate Mantra damage is as follows: Base damage \* (1 + ((0.Mantra scaling \* (investment / 100)) + (Songchant \* 0.05 \* (0.Mantra scaling \* (investment / 100))))).
-
--   Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
--   Example 1: Level 5 Ice Lance with 80 Frostdraw and 4 Songchant:
-    -   First Hit: 36 \* (1 + ((0.275 \* (80/100)) + (4 \* 0.05 \* (0.275 \* (80/100))))) = 45.5 damage.
-    -   Second Hit: 9 \* (1 + ((0.5 \* (80/100)) + (4 \* 0.05 \* (0.5 \* (80/100))))) = 13.32 damage.
-    -   Total: 45.5 + 13.32 = 58.82 damage.
--   Example 2: Level 3 Frozen Servants with 40 Frostdraw and no Songchant:
-    -   10 \* (1 + ((0.275 \* (40/100)) + (0 \* 0.05 \* (0.275 \* (40/100))))) = 11.1 damage per hit (2).
-        -   Note: because Songchant is 0 here, you can leave out the second part of the equation entirely (as it will end up being "scaled damage +0").
--   This formula also works for non-Mantra things, such as Crystal Detonations, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage though.
+The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page.
 
 ## Mantras
 

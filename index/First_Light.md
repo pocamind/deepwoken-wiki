@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 152636
+revid: 153140
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -19,13 +19,14 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
 | penetration | 15% |
 | special effect | On critical, summon a storm of fiery blades that hail down onto the field. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 100 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crimson Megalodaunt (Very Rare), Merchant Ships (Very Rare), Sold in Traan Zakshun's black market for |
-| description | "Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korlfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend." |
+| obtainment | Crimson Megalodaunt (Very Rare), Merchant Ships (Very Rare), Sold in Traan Zakshun's black market for 8 |
+| description | Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korlfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend. |
 
 ## Description
 

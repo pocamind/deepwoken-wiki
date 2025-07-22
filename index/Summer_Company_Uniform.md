@@ -1,9 +1,9 @@
 ---
 title: Summer Company Uniform
-revid: 152337
+revid: 153059
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Adept Outfits, Summer Company]
+categories: [Items, Outfits, Adept Outfits, The Summer Company]
 ---
 
 # Summer Company Uniform

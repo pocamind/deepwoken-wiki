@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 152934
+revid: 153136
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -17,21 +17,22 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | range | 8.5 |
 | swing speed | 0.73x |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 25 |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare Drop from Legion Captain, Crimson and Corrupt Terrapod, Second Layer chests, Derelict Highchurch chests (from Ministry Bloodrenders), Bought from Traan Zakshun for |
-| description | "..." |
+| obtainment | Rare Drop from Legion Captain, Crimson and Corrupt Terrapod, Second Layer chests, Derelict Highchurch chests (from Ministry Bloodrenders), Bought from Traan Zakshun for 1,250 |
+| description | ... |
 
 ## Description
 
-The Evanspear Greataxe is a [Heavy Weapon](Weapons.md) that requires 70 Heavy Weapons stat to use. It's one of the few Heavy Weapons dealing additional **Bleed damage** (7.8), balanced out by its subpar swing speed.
+The Evanspear Greataxe is a [Heavy Weapon](Weapons.md) that requires 70 Heavy Weapons stat to use. It's one of the few Heavy Weapons dealing additional [**Bleed damage**](Status_Effects.md#bleed), balanced out by its subpar swing speed.
 
 It can be obtained from multiple sources, primarily from [Second Layer](Second_Layer.md) chests as an uncommon drop. It drops very rarely from [Crimson Terrapods](Terrapod.md) and [Legion Captains](Legion_Captain.md).  
 
-Meeting the requirements, this weapon deals 37.5 + **11.3 BLD**, for a total of 48.8 damage. With 6 Proficiency, 100 HVY, and an additional +6% damage from stars, this weapon deals 52.7 + **15.8 BLD**, for a total of 68.5 damage.
+Meeting the requirements, this weapon deals 37.5 +, for a total of 48.8 damage. With 6 Proficiency, 100 HVY, and an additional +6% damage from stars, this weapon deals 52.7 + [**15.8 BLD**](Status_Effects.md#bleed), for a total of 68.5 damage.
 
 ## Trivia
 

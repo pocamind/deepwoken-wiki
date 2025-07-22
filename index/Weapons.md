@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 152956
+revid: 153003
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -66,7 +66,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound.)
     -   **Relic:** Functionally identical to Legendary Weapons, but are crafted instead of being dropped by a mob or quest. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
--   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some / given to by special people.
+-   [**Exclusive Weapons/Skins:**](Status_Effects.md#bleed) Weapons that can only be obtained by some / given to by special people.
 
 ## Types of Weapons
 

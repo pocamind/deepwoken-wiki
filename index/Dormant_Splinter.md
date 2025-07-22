@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 151783
+revid: 153124
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics]
@@ -25,7 +25,7 @@ categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, 
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Understrand, Voidsea Events, Moon's Eyrie, Ferryman, Dread Serpent, Heart of Enmity, Saramaed Hollow, Weird Trader, Sold in Traan Zakshun's black market for 45 |
-| description | "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to the other weapons in your collection, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match." |
+| description | This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to the other weapons in your collection, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match. |
 
 _This might have not been the page you were looking for; if you were looking for the craftables, view the [Fondant Splitter](Fondant_Splitter.md) or [Umbrite Witherblade](Umbrite_Witherblade.md)._
 
@@ -50,7 +50,7 @@ The main use for the **Dormant Splinter** is to be crafted into other weapons, t
 
 | Weapon | Recipe |
 | --- | --- |
-| [Fondant Splitter](Fondant_Splitter.md) | Dormant Splinter + [Cake](Food.md) + [Sword](<Sword_(weapon).md>)/[Scimitar](Scimitar.md)/[Messer](Messer.md)/[Katana](Katana.md) (3 Cakes are required if Scimitar) |
+| [Fondant Splitter](Fondant_Splitter.md) | Dormant Splinter + [Cake](Cake.md) + [Sword](<Sword_(weapon).md>)/[Scimitar](Scimitar.md)/[Messer](Messer.md)/[Katana](Katana.md) (3 Cakes are required if Scimitar) |
 | [Umbrite Witherblade](Umbrite_Witherblade.md) | Dormant Splinter + 3x [Umbrite](Ores.md#umbrite) + [Razor Cutlass](Razor_Cutlass.md) |
 
 ## Critical

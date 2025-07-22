@@ -1,9 +1,9 @@
 ---
 title: Nepo
-revid: 152682
+revid: 153050
 source: https://deepwoken.fandom.com/wiki/Nepo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, Summer Company, Reputation]
+categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
 ---
 
 # Nepo

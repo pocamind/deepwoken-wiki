@@ -1,6 +1,6 @@
 ---
 title: Bronze Aspis
-revid: 150166
+revid: 153104
 source: https://deepwoken.fandom.com/wiki/Bronze_Aspis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -14,12 +14,13 @@ categories: [Weapons, Shields, Offhand]
 | requirements | 15 FTD |
 | special effect | Reduces incoming blocking posture damage. |
 | offhand | Offhand only |
+| selling price | 14 |
 | weight | 4.2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aratel Sea events, Deep Crucible, Erisia, Sold by Traan Zakshun for |
+| obtainment | Aratel Sea events, Deep Crucible, Erisia, Sold by Traan Zakshun for 100 |
 | description | A round, wooden shield often accompanied by spear or shortblade. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Calamity Cinnabar
-revid: 133053
+revid: 153105
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greatswords]
@@ -21,6 +21,7 @@ notices:
 | endlag | 0.15s |
 | special effect | Some Shadowcast Passives will be applied on hit. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 100 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |

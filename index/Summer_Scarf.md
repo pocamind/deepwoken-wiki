@@ -1,9 +1,9 @@
 ---
 title: Summer Scarf
-revid: 152343
+revid: 153065
 source: https://deepwoken.fandom.com/wiki/Summer_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Scarves, Summer Company, World Event]
+categories: [Items, Equipment, Arms, Scarves, The Summer Company, World Event]
 ---
 
 # Summer Scarf

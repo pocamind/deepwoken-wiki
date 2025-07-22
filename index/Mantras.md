@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 152947
+revid: 152975
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -79,15 +79,21 @@ To modify a Mantra, the Mantra must be recalled at a campfire into the player's 
 
 ## Mantra Damage Calculation
 
-The formula to calculate Mantra damage is as follows: Base damage \* (1 + ((0.Mantra scaling \* (investment / 100)) + (Songchant \* 0.05 \* (0.Mantra scaling \* (investment / 100))))).
+The formula to calculate Mantra damage is as follows: Base damage \* (1 + ((0.Mantra scaling \* (investment / 100)) + (Songchant \* 0.05 \* (0.Mantra scaling \* (investment / 100))))). Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
 
--   Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
 -   Example 1: Level 5 Strong Left with 95 Strength and 2 Songchant:
     -   60 \* (1 + ((0.165 \* (95/100)) + (2 \* 0.05 \* (0.165 \* (95/100))))) = 70.34 damage.
--   Example 2: Level 4 Exhaustion Strike with 60 Willpower and no Songchant:
-    -   26 \* (1 + ((0.165 \* (60/100)) + (0 \* 0.05 \* (0.165 \* (60/100))))) = 28.57 damage.
+-   Example 2: Level 4 Gale Lunge with 60 Galebreathe and no Songchant:
+    -   16.25 \* (1 + ((0.275 \* (60/100)) + (0 \* 0.05 \* (0.275 \* (60/100))))) = 18.93 damage.
         -   Note: because Songchant is 0 here, you can leave out the second part of the equation entirely (as it will end up being "scaled damage +0").
--   This formula also works for non-Mantra things, such as Galebreathe Apparitions, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage though.
+-   Example 3: Level 5 Ice Lance with 80 Frostdraw and 4 Songchant:
+    -   First Hit: 36 \* (1 + ((0.275 \* (80/100)) + (4 \* 0.05 \* (0.275 \* (80/100))))) = 45.5 damage.
+    -   Second Hit: 9 \* (1 + ((0.5 \* (80/100)) + (4 \* 0.05 \* (0.5 \* (80/100))))) = 13.32 damage.
+    -   Total: 45.5 + 13.32 = 58.82 damage.
+
+Nearly all [Attunement-less](Attunement-less.md) Mantras have 1.65 investment scaling, while most [Attuned](Attunements.md) Mantras have 2.75 scaling, although there are outliers to this.
+
+This formula also works for non-Mantra things, such as Galebreathe Apparitions, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage though.
 
 ## Types of Mantras
 
@@ -249,4 +255,3 @@ Add more if you find them.
 -   Many places refer to Mantras as the Song or fragments of the Song, i.e Orlandeau during the [Tutorial](Tutorial.md) or the description of the [Songseeker Temple](Songseeker_Temple.md).
     -   According to Kaide, The Drowned Light, Mantras are "A cheap imitation of the power held within the Song that Drowned Gods wield as their birthright", implying that they are an inferior form of the song's true power, which aren't intended for humanity
 -   Elemental Intensity once affected the damage of certain Mantras, but no longer does.
--   Mantra scale formula: Damage = base damage \* (1 + (0.7 \* (stat/100) + (songchant \* 0.05 \* (0.7 \* (stat/100))))

@@ -1,9 +1,9 @@
 ---
 title: The Summer Company
-revid: 152409
+revid: 153068
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Factions, Summer Company]
+categories: [Factions, The Summer Company]
 ---
 
 # The Summer Company

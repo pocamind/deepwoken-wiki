@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 152767
+revid: 153103
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Outfits, Items, Mantras]
@@ -205,7 +205,7 @@ _+5% Stealth_
 
 +2 Rare Pips
 
-_+Talent: Assassin_
+_+Talent: Deep Wound_
 
 **Requires Power 6, Agility 10**
 
@@ -602,7 +602,7 @@ Found from:
 
 _+5 Health_
 
-+1 Rare Pips
++1 Rare Pip
 
 +1 Legendary Pip
 
@@ -1854,7 +1854,7 @@ _+3% Stealth_
 
 +1 Legendary Pip
 
-_+Talent: Now You See Me_  
+_+Talent: Lowstride_  
 
 **Requires Power 10**
 

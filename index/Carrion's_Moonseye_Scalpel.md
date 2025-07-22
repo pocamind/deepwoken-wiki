@@ -1,6 +1,6 @@
 ---
 title: "Carrion's Moonseye Scalpel"
-revid: 138055
+revid: 153107
 source: https://deepwoken.fandom.com/wiki/Carrion's_Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -23,6 +23,7 @@ notices:
 | chip damage | N/A |
 | special effect | N/A |
 | stances | 2 Handed, 1 Handed |
+| selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

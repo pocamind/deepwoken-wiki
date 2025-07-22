@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 152826
+revid: 152996
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -414,7 +414,7 @@ _"Is this safe to eat? We'll see..."_
 
  | 
 
--   Crafting in [The Cold Forge](The_Cold_Forge.md) with a [Dormant Splinter](Dormant_Splinter.md), [Cake](Food.md), and a [Sword](<Sword_(weapon).md>)/[Messer](Messer.md)/[Scimitar](Scimitar.md)/[Katana](Katana.md)
+-   Crafting in [The Cold Forge](The_Cold_Forge.md) with a [Dormant Splinter](Dormant_Splinter.md), [Cake](Cake.md), and a [Sword](<Sword_(weapon).md>)/[Messer](Messer.md)/[Scimitar](Scimitar.md)/[Katana](Katana.md)
 
  |
 | 

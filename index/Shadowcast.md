@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 151982
+revid: 152970
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -45,6 +45,10 @@ Shadowcast Mantras are upgraded at the [Attunement Trainers](Attunement_Trainers
 Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
 
 [Shadowcast Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
+
+### Mantra Damage Calculation
+
+The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page.
 
 ## Mantras
 

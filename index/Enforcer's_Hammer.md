@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 151606
+revid: 153133
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Drops, Heavy Weapons, Weapons with Consecutive Criticals]
@@ -20,13 +20,14 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Drops, Heavy 
 | penetration | 10% |
 | chip damage | 20% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 50 |
 | weight | 12 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Enforcer |
-| description | "The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation." |
+| description | The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. |
 
 ## Description
 

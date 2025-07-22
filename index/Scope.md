@@ -1,9 +1,9 @@
 ---
 title: Scope
-revid: 152313
+revid: 153055
 source: https://deepwoken.fandom.com/wiki/Scope
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, NPCs located in the Eastern Luminant, Summer Company]
+categories: [NPCs, Quests, NPCs located in the Eastern Luminant, The Summer Company]
 ---
 
 # Scope

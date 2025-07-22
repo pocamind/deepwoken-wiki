@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 150279
+revid: 153114
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, Medium Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, Medium W
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Ferryman, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract, Aelita, Carnival of Hearts, Sold by Traan Zakshun for |
+| obtainment | The Ferryman, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract, Aelita, Carnival of Hearts, Sold by Traan Zakshun for 1,250 |
 | description | ... |
 
 ## Description

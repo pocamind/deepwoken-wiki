@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 152886
+revid: 152978
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -366,7 +366,7 @@ File:Yun'Shul.png
 
 Yun'shul's Shrine
 
-### Ethiron
+### Ethiron, The Maelstorm's Eye
 
 _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 

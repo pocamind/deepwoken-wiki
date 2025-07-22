@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 148511
+revid: 153113
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -19,6 +19,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 | endlag | 0.1s |
 | chip damage | 25% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | ? |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |

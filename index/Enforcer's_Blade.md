@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 151603
+revid: 153132
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Heavy Weapons]
@@ -19,13 +19,14 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with C
 | penetration | 5% |
 | chip damage | 15% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 50 |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Enforcer |
-| description | "The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation." |
+| description | The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. |
 
 ## Description
 

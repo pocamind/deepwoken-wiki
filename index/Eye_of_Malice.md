@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 150932
+revid: 153137
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, World Event, Legendary Weapons, Medium Weapons]

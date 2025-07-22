@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 150387
+revid: 152966
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -59,17 +59,9 @@ Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](So
 
 [Ironsing Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
-## Mantra Damage Calculation
+### Mantra Damage Calculation
 
-The formula to calculate Mantra damage is as follows: Base damage \* (1 + ((0.Mantra scaling \* (investment / 100)) + (Songchant \* 0.05 \* (0.Mantra scaling \* (investment / 100))))).
-
--   Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
--   Example 1: Level 5 Iron Slam with 100 Ironsing and 6 Songchant:
-    -   49 \* (1 + ((0.275 \* (100/100)) + (6 \* 0.05 \* (0.275 \* (100/100))))) = 66.52 damage + Template:BleedColor.
--   Example 2: Level 4 Iron Quills with 60 Ironsing and no Songchant:
-    -   26 \* (1 + ((0.275 \* (60/100)) + (0 \* 0.05 \* (0.275 \* (60/100))))) = 30.29 damage + Template:BleedColor.
-        -   Note: because Songchant is 0 here, you can leave out the second part of the equation entirely (as it will end up being "scaled damage +0").
--   This formula also works for non-Mantra things, such as Rending Needle: Impaler, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage though.
+The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page.
 
 ## Mantras
 

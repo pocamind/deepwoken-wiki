@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 151601
+revid: 153130
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, Items, Weapons with Consecutive Criticals]
@@ -18,13 +18,14 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Drops, Heavy Wea
 | swing speed | 0.76x |
 | penetration | 10% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 50 |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Drop from The Enforcer |
-| description | "The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation." |
+| description | The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. |
 
 ## Description
 

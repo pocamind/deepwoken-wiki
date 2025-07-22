@@ -1,16 +1,16 @@
 ---
 title: The Gaunt Man
-revid: 152922
+revid: 153007
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors]
+categories: [Krulian NPCs, NPCs, Vendors]
 ---
 
 # The Gaunt Man
 
 | The Gaunt Man | |
 |---|---|
-| aspect | Krulian |
+| species | Krulian |
 | location | Celtor Wastes |
 
 ## Description

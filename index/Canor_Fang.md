@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 149526
+revid: 153106
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Items]
@@ -18,13 +18,14 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Ite
 | swing speed | 1.25x |
 | penetration | 5% |
 | stances | 1 Handed |
+| selling price | 50 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Songseeker Wilds, Minityrsa |
-| description | "..." |
+| description | ... |
 
 ## Description
 

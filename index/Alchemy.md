@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 152888
+revid: 153011
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -49,9 +49,9 @@ The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three unique "
 
 Potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. Potency increases linearly with intelligence; each point of intelligence counts for a 0.5% increase in potency for potions and caps out at 50% upon reaching 100 intelligence. Additionally, Talents in the [Alchemist](Talents.md#alchemist) category increase the effects of potions:
 
--   Potions prepared by characters with the **Apothecary** Talent have their Potency increased by 125%. This stacks additively with Potency granted through [Intelligence](Attributes.md) investment.
+-   Potions prepared by characters with the **Apothecary** Talent have their Potency increased by 125%. This stacks additively with Potency granted through [Intelligence](Attributes.md#int) investment.
     -   Apothecary is treated as a potion ingredient, and as such, it will stay active on your previously brewed potions even if you no longer have the talent.
-    -   This Talent can easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>).
+    -   This Talent can easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>) or the [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit.
 -   When brewing potions with the **Wild Alchemy** Talent, there is a 25% chance to produce 2 potions instead of 1.
 -   The **Potion Quaffer** Talent reduces the slowdown from drinking potions, reduces time to drink by 30%, and increases the regeneration of health regeneration potions by 15%, as well as ether regeneration and sanity regeneration potions by 30%. The 25% negative duration of health potions is removed.
 -   The **Placebo Effect** Talent applies potion effects to your allies when you drink a potion near them.
@@ -62,7 +62,7 @@ Unlike the other effects, the duration of a potion is unaffected by any of these
 
 ## Ingredients
 
-There are 52 ingredients that can be added to a potion, though only 22 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
+There are 56 ingredients that can be added to a potion, though only 22 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
 
 A spreadsheet listing the effects of all potion ingredients can be found [here](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vTvoa3q-3DmosOWmH6AkX1bfMBq4wfbW11Kybf_vt4DaAa-FGAzTPsHn-CWR4wEqXwyEudmKeR5JwPr/pubhtml).
 
@@ -101,13 +101,13 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 | [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
 | [Wheat](Gathered_Wheat.md) |  |  | \-1.75% |  |  |  |  | +90% |  |  |
 
-\* Potion speed boost modifiers are calculated as √(1 + (t \* n)) with t being the effectiveness of each ingredient and n being the amount of speed boost components in the potion. E.g. 3 Pomar and 2 Alestrian Coral would give √(1 + (0.25 \* 5)) = √(1 + 1.25) = √(2.25) = 1.5x or +50% speed.  
+\* Potion speed boost modifiers are calculated as √(1 + (t \* n)) with t being the effectiveness of each ingredient and n being the amount of speed boost components in the potion.  
 \*\* Players innately have a 25% resistance to slows unless they're casting a Mantra, meaning in effect, this is -3.75%.  
 \*\*\* Ether regeneration has a sort of "randomness" to it, though this is likely the value that's in the code.
 
 Eating an ingredient will give you a weaker version of the effects it would normally give you if brewed in a potion. This can be used to remove an existing potion effect.
 
-Eggs, Lotuses, all types of Fish, Fish Meat, Galewax, Sticks and all types of minerals are also valid ingredients, but don't have any effect. This can be useful, as potions with only 1 ingredient will have their effects halved, so adding 1 ingredient with an inert effect will counteract this.
+[Eggs](Ingredients.md), [Lotuses](Primordial_Lotuses.md), all types of [Fish](Fishing.md), [Fish Meat](Food.md), [Galewax](Galewax.md), [Sticks](Stick.md), [Dread Flesh](Dread_Flesh.md), [Primal Slab](Primal_Slab.md), [Raw Parasol Brain](Raw_Parasol_Brain.md), [Raw Heavy Meat](Raw_Heavy_Meat.md) and all types of [minerals](Ores.md) are also valid ingredients, but don't have any effect. This can be useful, as potions with only 1 ingredient will have their effects halved, so adding 1 ingredient with an inert effect will counteract this.
 
 ### Salts
 
@@ -119,31 +119,114 @@ The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three salts, w
 
 **Antithetic Salts** invert the effects of all ingredients used in the potion. This doubles the variety of potions that can be brewed and can sometimes be used to make stronger versions of an effect than would otherwise be possible. For instance, a stronger slowing potion can be created by brewing a speed potion with Pomar and Alestrian Coral, then inverting it, instead of using the comparatively weak slowing effect of Sap and Goblettos.
 
+## Potion Calculations
+
+Potion effectiveness can be calculated like this:
+
+Potion = (((tn + tn + tn +...) \* a) \* (1 + 0.(p (Intelligence/2)) + 1.25(Apothecary if applicable))) \* 1.4(Chain Reaction if applicable)
+
+Key:
+
+-   t = the effectiveness of the ingredient(s)
+-   n = amount of ingredients with the same potency
+-   a = Antithetic Salts, use -1 if applied, use 1 if not applied
+-   p = potency from Intelligence scaling (Intelligence divided by 2). Note that this caps at 50% potency with 100 Intelligence, going above this will not result in higher potency potions.
+
+Note: Each potion effect needs to be calculated individually. Almost all ingredients have more than one effect, and thus your potions will have various side effects. Do not add your instant health values to "tn" when calculating something like posture resistance potions for example. Additionally, duration modifying effects **are not affected by potency, Apothecary, or Chain Reaction**.
+
+Examples:
+
+-   Example 1: 3 Glumfig 2 Redds healing potion. Talents: Apothecary, Potion Quaffer, and Chain Reaction. 100 Intelligence.
+    -   Potion = (((5\*3 + 4\*2) \* 1) \* (1 + 0.(100/2) + 1.25)) \* 1.4
+    -   Potion = (15 + 8 \* (1 + 0.5 + 1.25)) \* 1.4
+    -   Potion = (23 \* 2.75) \* 1.4
+    -   Potion = 63.25 \* 1.4
+    -   Potion = 88.55 healing. This is halved to 44.275 health in combat.
+        -   This potion would also grant -38.5% Ether regeneration, -7.7% damage, -50% posture resistance, and -0.825 sanity/s for 7.5 seconds. These added debuffs can be removed with the [Biotic Salts](Oath%253A_Saltchemist.md).
+-   Example 2: 3 Glumfig 2 Ongo Antithetic Salts posture resistance buffing potion. Talents: Apothecary. 80 Intelligence.
+    -   Potion = (((-15\*3 + -5\*2) \* -1) \* (1 + 0.(80/2) + 1.25))
+    -   Potion = ((45 + 10) \* (1 + 0.4 + 1.25))
+    -   Potion = (55 \* 2.75)
+    -   Potion = 151.25% posture resistance. However, posture resistance has a hard cap at 50%, so this will only grant 50% posture resistance.
+        -   This potion also grant +11% damage, -0.875 sanity/s, and -52.5% posture damage for 15 seconds. It'd deal 10 self damage. These downsides can be removed with the [Biotic Salts](Oath%253A_Saltchemist.md).
+
+### Instant Health/Damage Potions
+
+Instant Health: It's the same formula is before, but the end result is reduced by 25% outside of combat and 75% inside combat unless you have the Potion Quaffer Talent. This removes the effectiveness debuff outside of combat and reduces the in-combat effectiveness debuff to only -50%.
+
+Instant Damage: It's the same formula as before, but the potion's overall damage will be multiplied by 0.25 if not landed directly, as instant damage potions deal 75% less damage if only the splash of the potion is landed. [Lethal Injection](Oath%253A_Saltchemist.md) utilizes the splash damage of these potions, and thus they will deal 75% less damage.
+
+### Health Regeneration
+
+Health Regeneration potions have a reduced effect in combat, giving +60% per ingredient instead of +85%. The formula is the same as before.
+
+-   Example: Out of Combat - 3 Bamboo 2 Goblettos. Talents: Apothecary. 75 Intelligence.
+    -   Potion = (((85\*3 + 85\*2) \* 1) \* (1 + 0.(75/2) + 1.25))
+    -   Potion = ((255 + 170) \* (1 + 0.375 + 1.25))
+    -   Potion = (425 \* 2.625)
+    -   Potion = +1,115% health regeneration for 11.25 seconds out of combat.
+        -   This potion will also grant -25% movement speed for the same duration, though this is reduced to -18.75% due to the innate resistance players have to slows. This downside can also be removed via the usage of [Biotic Salts](Oath%253A_Saltchemist.md).
+-   Example: In Combat - 3 Bamboo 2 Goblettos. Talents: Apothecary. 75 Intelligence.
+    -   Potion = (((60\*3 + 60\*2) \* 1) \* (1 + 0.(75/2) + 1.25))
+    -   Potion = ((120 + 180) \* (1 + 0.375 + 1.25))
+    -   Potion = (300 \* 2.625)
+    -   Potion = +787.5% health regeneration for 11.25 seconds in combat.
+        -   This potion will also grant -25% movement speed for the same duration, though this is reduced to -18.75% due to the innate resistance players have to slows. This downside can also be removed via the usage of [Biotic Salts](Oath%253A_Saltchemist.md).
+
+### Slowing Potions
+
+Players have an innate 25% resistance against slows unless they're casting a Mantra, making all slowing potion effects grant -3.75% speed rather than their full 5%. Outside of this, the formula is the same as before.
+
+### Speed Buff Potions
+
+Speed buffing potions have their own formula, it is as follows:
+
+Potion = √(1 + (t \* n))
+
+Key:
+
+-   t = the effectiveness of the ingredient(s)
+-   n = amount of ingredients with the same potency
+
+Example: 3 Pomar 2 Alestrian Coral
+
+-   Potion = √(1 + (0.25 \* 5))
+-   Potion = √(1 + 1.25)
+-   Potion = √(2.25)
+-   Potion = 1.5x speed or +50% speed for 15 seconds.
+    -   Assuming you have 75 Intelligence and Apothecary, this potion will also grant -10.5% damage, -26.25% posture damage, for the same duration, and will deal 23.6 damage on drink. These downsides can be removed via the usage of [Biotic Salts](Oath%253A_Saltchemist.md).
+
+### Potion Sickness Duration
+
+Potion Sickness duration scales with ingredients that modify the duration of the potion. Potion Sickness by default lasts 20 seconds.
+
+-   Positive Duration increases the Potion Sickness duration by the amount of time it would increase a 15 second duration potion in seconds.
+    -   E.g. 1 Spider Egg (+50% duration) would look like this: 20 + (15 x .5) = 20 + 7.5 = 27.5s Potion Sickness.
+-   Negative Duration: increases the Potion Sickness duration by 10s minus the amount it would reduce a 15 second duration potion in seconds.
+    -   E.g. 2 Redds (-50% duration) would look like this: 20 + 10 - (15 x .5) = 30 - 7.5 = 22.5s Potion Sickness.
+
+### Diluted Potions
+
+Diluted Potions are created in one of two ways. Either you have more than 3 of the same ingredient on a potion or you went over the 5 ingredient limit (note that Apothecary and Saltchemist Salts do not count towards this limit).
+
+1.  If you have more than 3 of the same ingredient, all effects on your potion will be halved. For example, 3 Bluecaps = 15 damage (3 x 5) vs 4 Bluecaps = 10 damage (4 x 5)/2.
+2.  If you have more than 5 ingredients, all effects on your potion will be halved, additionally the remaining effects will be divided by the amount of ingredients that went over the cap. For example, 6 Bluecaps + 6 Browncaps = 3.85 damage (((5 x 6) + (4 x 6))/2)/(12-5).
+
 ## Miscellaneous information
 
-**Damage potions** will deal 75% less damage if not landed directly (if only the splash effect lands). Damage potions can also be buffed by damage modifiers and have the same PvE scaling as a 1x swingspeed weapon.
+**Instant Damage** potions have PvE scaling and can be buffed by damage modifiers. Additionally, these deal typeless damage, ignoring all armor resistances.
 
-**Positive Health** potions are 25% less effective than their ingredients would suggest, and are reduced by a further 50% in combat. The _Potion Quaffer_ Talent removes the innate 25% effectiveness decrease, granting them full effectiveness outside of combat and 50% effectiveness during combat.
-
-**Health Regeneration** potions have a reduced effect in combat, giving +60% per ingredient instead of +85%. Additionally, any potion with a positive health regeneration ingredient will have its base duration reduced to 11.25s (also lowering the effectiveness of duration affecting ingredients).
+**Health Regeneration** potions with a positive health regeneration ingredient will have its base duration reduced to 11.25s (also lowering the effectiveness of duration affecting ingredients).
 
 **Health Gain and Health Regeneration** potions, whether positive or negative, take 1.2s longer to drink while in combat, bringing the total drink animation's duration to 3.55s up from 2.35s.
 
 **Ether Regeneration** potions' Ether regeneration is separate from normal Ether regeneration, and is not affected by Ether regen modifiers like [Deficient](Boons_and_Flaws.md#flaws), Ether [food buff](Food.md), [outfit](Outfits.md) Ether regen boost, etc.
 
-**Potion Sickness** duration scales with ingredients that modify the duration of the potion. Potion Sickness by default lasts 20 seconds.
-
--   **Positive Duration** increases the Potion Sickness duration by the amount of time it would increase a 15 second duration potion in seconds.
-    -   E.g. 1 Spider Egg (+50% duration) would look like this: 20 + (15 x .5) = 20 + 7.5 = 27.5s Potion Sickness.
--   **Negative Duration**: increases the Potion Sickness duration by 10s minus the amount it would reduce a 15 second duration potion in seconds.
-    -   E.g. 2 Redds (-50% duration) would look like this: 20 + 10 - (15 x .5) = 30 - 7.5 = 22.5s Potion Sickness.
-
 **Damage Debuff** is the only potion effect with a set cap, capping at -50% damage dealt.
 
-**Diluted Potions** are created in one of two ways. Either you have more than 3 of the same ingredient on a potion or you went over the 5 ingredient limit (note that Apothecary and Saltchemist Salts do not count towards this limit).
+There is a universal posture damage floor/cap, meaning you cannot go over +75% posture damage dealt (with a soft cap at 50%) and you cannot go under -50% posture damage dealt. This affects both positive and negative **Posture Resistance** and **Posture Damage** potions.
 
-1.  If you have more than 3 of the same ingredient, all effects on your potion will be halved. For example, 3 Bluecaps = 15 damage (3 x 5) vs 4 Bluecaps = 10 damage (4 x 5)/2.
-2.  If you have more than 5 ingredients, all effects on your potion will be halved, additionally the remaining effects will be divided by the amount of ingredients that went over the cap. For example, 6 Bluecaps + 6 Browncaps = 3.85 damage (((5 x 6) + (4 x 6))/2)/(12-5).
+Potions with a singular ingredient will have its effectiveness halved. You can use ingredients with **inert** effects to counteract this. Ingredients with inert effects are as follows: [Sticks](Stick.md), all [Ores](Ores.md), [Eggs](Ingredients.md), all [Lotuses](Primordial_Lotuses.md), all types of [Fish](Fishing.md), [Fish Meat](Food.md), [Galewax](Galewax.md), [Dread Flesh](Dread_Flesh.md), [Primal Slab](Primal_Slab.md), [Raw Parasol Brain](Raw_Parasol_Brain.md), and the [Raw Heavy Meat](Raw_Heavy_Meat.md).
 
 ## Effects
 

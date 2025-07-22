@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 151589
+revid: 153126
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]
@@ -19,6 +19,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowti
 | penetration | 10% |
 | chip damage | 10% |
 | stances | 1 Handed |
+| selling price | 50 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

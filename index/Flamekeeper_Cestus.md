@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 146904
+revid: 153142
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -17,13 +17,14 @@ categories: [Weapons, Fists, Light Weapons]
 | range | 6 |
 | swing speed | 1.11x |
 | penetration | 5% |
+| selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fort Merit, Songseeker Wilds, First Layer, Etris: Siege, Bounties, Lodestar, Starswept Valley, Merchant Ships, Chime of Conflict, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

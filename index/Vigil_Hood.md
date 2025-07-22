@@ -1,6 +1,6 @@
 ---
 title: Vigil Hood
-revid: 152439
+revid: 153038
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods, Etrea, Items]
@@ -32,4 +32,3 @@ The Vigil Hood is an Equipment item under the "_Head_" category. Equipping it gr
 
 -   Although not the best for HP, this is one of the 3 best equipment headears for resistance stats. Alternatives include the [Deepwoken Hood](Deepwoken_Hood.md) and the [Tillian's Beret](<Tillian's_Beret.md>). Highest Potential Stats - Phys Armor: 14%, Elm Armor: 17% (w/ 10 health)
 -   Placing on this item while you have your headgear hidden via the equipment ui apply only the mouth cover without the hood.
--   Raum stated that he would break through the moderation firewalls and forcefully play Deepwoken again if anyone were to find and give him "The Vigil Hood", aka the perfect 3 Star Vigil Hood with the right amount of monster damage, monster armor, and HP. Though since it was specific numbers, this so-called "The Vigil Hood" is now unobtainable due to monster damage being nerfed, and later being reworked and being unobtainable from equipment pips.

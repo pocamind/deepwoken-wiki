@@ -1,9 +1,9 @@
 ---
 title: Mag
-revid: 147579
+revid: 153048
 source: https://deepwoken.fandom.com/wiki/Mag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, NPCs, Summer Company, NPCs located in the Eastern Luminant, Vendors]
+categories: [Gremor NPCs, NPCs, The Summer Company, NPCs located in the Eastern Luminant, Vendors]
 ---
 
 # Mag
@@ -18,7 +18,7 @@ categories: [Gremor NPCs, NPCs, Summer Company, NPCs located in the Eastern Lumi
 
 Mag is an NPC, under the employ of the [Summer Company](The_Summer_Company.md) who is found in [The Furnace](The_Furnace.md).
 
-His main use is to produce [Bullet Casings](Bullet_Casings.md) by converting two hundred Bullets into specialized Bullets using Ores for a price of up to, giving them different properties and playstyles.
+His main use is to produce [Bullet Casings](Bullet_Casings.md) by converting two hundred Bullets into specialized Bullets using Ores for a price of up to 40, giving them different properties and playstyles.
 
 ## Dialogue
 
