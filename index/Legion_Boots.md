@@ -1,6 +1,6 @@
 ---
 title: Legion Boots
-revid: 145025
+revid: 153325
 source: https://deepwoken.fandom.com/wiki/Legion_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Aratel Island, Starswept Valley, Brainsucker, Lodestar, Deep Widow, Maestro Evengarde Rest, Heart of Enmity, War Mode |
-| description | "..." |
+| description | ... |
 
 ## Description
 

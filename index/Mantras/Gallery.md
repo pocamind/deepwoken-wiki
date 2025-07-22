@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 152651
+revid: 153274
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement]
@@ -9327,5 +9327,7 @@ _Lob explosive pumpkins at your foes._
 -   Modifiers don't work on it.
 
  |
+
+## Navigation
 
 1.  [↑](#cite-ref-1)

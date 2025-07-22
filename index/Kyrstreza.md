@@ -1,9 +1,9 @@
 ---
 title: Kyrstreza
-revid: 141362
+revid: 153229
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, Light Weapons, Items]
+categories: [Weapons, Rapiers, Light Weapons]
 ---
 
 # Kyrstreza
@@ -18,13 +18,14 @@ categories: [Weapons, Rapiers, Light Weapons, Items]
 | swing speed | 1.09x |
 | penetration | 30% |
 | stances | 1 Handed |
+| selling price | 50 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2 |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 149694
+revid: 153344
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Plates]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, The Eternal Gale, Scyphozia, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Saramaed Hollow, War Mode, Heart of Enmity, Purchased from Merchant Ships |
-| description | "..." |
+| description | ... |
 
 ## Description
 

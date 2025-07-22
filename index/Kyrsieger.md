@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 152506
+revid: 153227
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -19,13 +19,14 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | penetration | 15% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 100 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Scion of Ethiron, Weird Trader |
-| description | "The fall of Constellia was first heralded by a devastating piercing through its crystalline arches. Perhaps the most renowned member of the Kyrsan arsenal, the blade's explosive power can only be invoked through a solemn prayer to Ethiron. The words of this prayer worm their way into the minds of its bearer willing or not." |
+| description | The fall of Constellia was first heralded by a devastating piercing through its crystalline arches. Perhaps the most renowned member of the Kyrsan arsenal, the blade's explosive power can only be invoked through a solemn prayer to Ethiron. The words of this prayer worm their way into the minds of its bearer willing or not. |
 
 ## Description
 

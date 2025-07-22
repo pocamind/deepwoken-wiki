@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 152646
+revid: 153266
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -15,14 +15,12 @@ categories: [Items, Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | LVL 10 |
 | weight | 1 |
-| innate stats | +2 Health +2 Rare Pips +1 Legendary Pip |
-| innate talent | Endurance Runner |
+| innate stats | +2 Health +2 Rare Pips obtainment=* Miner's Landing, Second Layer, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Miner's Landing, Second Layer, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
-| description | "..." |
+| description | ... |
 
 Variants: [Mercenary's Garb](<Mercenary's_Garb.md>)
 

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 141129
+revid: 153250
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -40,14 +40,14 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 -   Gale Trap - Whenever a Songseeker Galebreather knocks an opponent, they tag them with a wind trap, cause anyone to pick up that body to get sent flying.
 -   Suffocating Impact - When a Songseeker Galebreather flourishes enemies into walls they are suffocated and winded for a short duration.
 -   Stifled Jump - Enemies who jump while suffocated by the Songseeker Galebreather are dazed.
--   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage the Songseeker Galebreather dealt. dealt. If an attack was a mantra, it does 5% damage instead.
+-   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage the Songseeker Galebreather dealt. If an attack was a mantra, it does 5% damage instead.
 -   Breathing Impact - When a Songseeker Galebreather gets knocked into objects by wind mantras, enemies take additional blunt damage based off of how hard they are hit.
 -   Silencer's Blade - When a Songseeker Galebreather melees a 'Suffocated' opponent, it will extend the duration of the Suffocation and grant a speed boost
 -   _**A World Without Song - A Songseeker Galebreather's wind mantras now apply Suffocate.**_
 
 ## Finisher
 
-A Songseeker Galebreather executes it's opponents after knocking them:
+A Songseeker Galebreather executes its opponents after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -57,7 +57,7 @@ A Songseeker Galebreather executes it's opponents after knocking them:
 
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Constantly flourishing them/using mantras will prevent them from spamming mantras.
--   Watch out for their "Heavenly Wind", as this move can catch the player off guard due to its very fast windup and odd hitbox
+-   Watch out for their "Heavenly Wind", as this move can catch the player off guard due to its very fast windup and odd hitbox.
 -   Get them into corners as it will make it impossible for the Songseeker Galebreathers to deal damage. Even though they will cast mantras, they won't deal damage while being attacked when casting a mantra. Or keep hitting them and spamming mantras on them.
 -   Fighting Songseeker Galebreathers with Songseeker Flamecharmers can be very annoying, and lethal. If you are planning to fight the two monks at the same time, make sure to know what you are doing otherwise you can get knocked easily.
 

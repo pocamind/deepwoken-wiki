@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 152691
+revid: 153259
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,7 @@ categories: [Monsters]
 
 # Nautilodaunt
 
-_For the stronger variant that utilizes Thundercall, look in [Fury Nautilolodaunt](Fury_Nautilodaunt.md)_
-
-**Nautilodaunt**
-
-[Fury Nautilodaunt](Fury_Nautilodaunt.md)
+_For the stronger variant that utilizes Thundercall, see [Fury Nautilodaunt](Fury_Nautilodaunt.md)._
 
 “ ...Denizens of Scyphozia, Nautilodaunts are a chilling reminder that those of the Deep are not simply mindless monsters, but can possess startling intelligence. ”
 

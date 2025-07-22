@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 151245
+revid: 153245
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide, Heavy Weapons]

@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 141872
+revid: 153333
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Mechanics, Currency]

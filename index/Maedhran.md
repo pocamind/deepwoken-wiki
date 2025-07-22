@@ -1,6 +1,6 @@
 ---
 title: Maedhran
-revid: 150522
+revid: 153280
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, Vendors, NPCs located in the Eastern Luminant]
@@ -18,7 +18,7 @@ categories: [Canor NPCs, NPCs, Vendors, NPCs located in the Eastern Luminant]
 
 ― Maedhran
 
-Maedhran (pronounced MAY-THRAN) is an NPC found in [Miner's Landing](<Miner's_Landing.md>). He explains a story about defeating a leader named Ironjaw, and sells lesser [Mantra Modifiers](Mantra_Modifiers.md) for each after listening intently.
+Maedhran (pronounced MAY-THRAN) is an NPC found in [Miner's Landing](<Miner's_Landing.md>). He explains a story about defeating a leader named Ironjaw, and sells lesser [Mantra Modifiers](Mantra_Modifiers.md) for 100 each after listening intently.
 
 The mantra modifiers he sells are:
 
@@ -248,4 +248,4 @@ The mantra modifiers he sells are:
     -   Pardon?
     -   Huh?
     -   I'm sorry, what?
--   He's a more expensive vendor compared to the Den Master, selling [Cloudstones](Mantra_Modifiers.md#regular-modifiers), [Drift Shards](Mantra_Modifiers.md#regular-modifiers), [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers), and [Amnesic Driftwoods](Mantra_Modifiers.md#regular) for instead of.
+-   He's a more expensive vendor compared to the Den Master, selling [Cloudstones](Mantra_Modifiers.md#regular-modifiers), [Drift Shards](Mantra_Modifiers.md#regular-modifiers), [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers), and [Amnesic Driftwoods](Mantra_Modifiers.md#regular) for 100 instead of 10.

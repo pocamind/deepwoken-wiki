@@ -1,6 +1,6 @@
 ---
 title: Knife of Eylis
-revid: 149160
+revid: 153318
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Knives of Eylis, The Knives of Eylis Enemies]

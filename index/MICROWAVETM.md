@@ -1,6 +1,6 @@
 ---
 title: MICROWAVETM
-revid: 125082
+revid: 153281
 source: https://deepwoken.fandom.com/wiki/MICROWAVETM
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Helmets, Developer Spec, Items]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Head |
 | rarity | Unique |
-| selling price | 100 |
+| selling price | Unsellable |
 | weight | 1 |
 | innate stats | +5 Health , +1 Uncommon Pip |
 | bankable | Yes |
@@ -22,7 +22,7 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | (Unobtainable) |
-| description | "Go play heat signature" |
+| description | Go play heat signature |
 
 ## Description
 

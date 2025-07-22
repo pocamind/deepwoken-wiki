@@ -1,6 +1,6 @@
 ---
 title: Lance
-revid: 137917
+revid: 153307
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, Etrea, NPCs located in the Etrean Luminant]

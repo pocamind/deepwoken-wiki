@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 150246
+revid: 153230
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -19,13 +19,14 @@ categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Wea
 | penetration | 20% |
 | special effect | Upon flourishing, unleash a frigid explosion. Procs chilled and ragdolls your opponent. |
 | stances | 2 Handed, 1 Handed |
+| selling price | 100 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2 floor 2, after defeating the scion of Ethiron. |
-| description | "Forged in an age lost to history and salvaged from the Eternal Gale, this relic hails from a forgotten era. As the last whispered remnant of its kind, it comes from a time before the people of New Kyrsa fell under the command of the Drowned God Ethiron. The spear is extremely cold to the touch, with an unsettling chill that clings to your skin, leaving a lingering numbness. It embodies the delicate and refined artistry of the Kyrsgarde, showcasing their elegance and sophistication prior to their corruption. Though the Kyrsgarde still wield spears of frost, the craftsmanship of their modern weaponry pales in comparison, having become crude and uninspired under Ethiron's thrall." |
+| description | Forged in an age lost to history and salvaged from the Eternal Gale, this relic hails from a forgotten era. As the last whispered remnant of its kind, it comes from a time before the people of New Kyrsa fell under the command of the Drowned God Ethiron. The spear is extremely cold to the touch, with an unsettling chill that clings to your skin, leaving a lingering numbness. It embodies the delicate and refined artistry of the Kyrsgarde, showcasing their elegance and sophistication prior to their corruption. Though the Kyrsgarde still wield spears of frost, the craftsmanship of their modern weaponry pales in comparison, having become crude and uninspired under Ethiron's thrall. |
 
 ## Description
 
@@ -43,6 +44,8 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 2.  Speak to [Naerotiv](Naerotiv.md). He is along the path to the right of the first shrine near spawn.
 3.  Defeat the [Scion of Ethiron](Scion_of_Ethiron.md).
 4.  Go to [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) as the Eternal Gale is collapsing and speak to him. You need the 75 Frostdraw to **obtain** the Kyrswynter but you need points in Medium Weapon to **equip** the Kyrswynter. \*(Note that only **ONE** Kyrswynter may be obtained per character).
+
+  
 
 ## Criticals
 

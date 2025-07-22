@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 153222
+revid: 153276
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items]
@@ -20,8 +20,6 @@ categories: [Attunement, Mantras, Items]
 
 _**FOREWORD**: **An up-to-date spreadsheet for Mantras and their compatible Mantra Modifiers can be found [\[here\]](https://docs.google.com/spreadsheets/d/1IE3KIyizxEgHfTsasO0hCGvch6yNofdgNlRR__jA7jo/edit?usp=sharing)**_  
 _The Outdated one can be found [\[here\]](https://docs.google.com/spreadsheets/d/1yOOKJhihxX_1zvihTOwFVrm3XJpGFPnqJ5W53497LeI/edit#gid=0), just incase._
-
-  
 
 **Mantra Modifiers** are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
@@ -1809,7 +1807,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   Clicking a mantra modifier (not Deep Gems) will produce small white dots that travel in the direction of the nearest mantra table.
 -   A good place to farm for low-level mantra modifiers, especially Sparks, is [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). A gargantuan amount of [Mindless Servants](Mindless_Servant.md) and [Brainsuckers](Brainsucker.md) spawn there when entering the manor. (This method doesn't really work anymore, the [Mindless Servants](Mindless_Servant.md) aren't dropping consistent loot, only sometimes.)
 -   There is an NPC called the [Den Master](Den_Master.md) that sells mantra modifiers including Cloudstones, Amnesic Driftwood, Drift Shards, and Crystal Lenses for 10 notes each. He's located in a secret cave near Etris near sea level.
--   A good way to obtain any spark you want guaranteed is going to [Ata](Ata.md) at [Meteor Isle](Meteor_Isle.md). She sells any spark for each.
+-   A good way to obtain any spark you want guaranteed is going to [Ata](Ata.md) at [Meteor Isle](Meteor_Isle.md). She sells any spark for 350 each.
 -   Glass/Magnifying Stones are the only known mantra modifiers that are crafted from other mantra modifiers.
 -   The 5 blue disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, 1 disk lights up.
     -   The blue discs on the top formerly illuminated per each requirement of _Knowledge,_ a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13, 2022, persisting even after Knowledge's new reimplementation.

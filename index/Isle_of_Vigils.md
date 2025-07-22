@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 148175
+revid: 153343
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -41,15 +41,15 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 #### Inn
 
--   Players can spend to change their spawn location.
+-   Players can spend 5 to change their spawn location.
 
 #### Mantra Shop
 
--   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FIR), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for each.
+-   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FIR), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for 25 each.
 -   Players can find the [Barber](Barber.md), who can change your looks.
 -   Players can also purchase two schematics here:
-    -   [Vigil Initiate](Vigil_Initiate.md) for.
-    -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for.
+    -   [Vigil Initiate](Vigil_Initiate.md) for 45.
+    -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for 45.
 
 -   Near the Mantra Shop, there is a destructible wall. Behind the wall usually have 4-5 Erisia chests plus **most**, but not all buyable mantra modifiers.
 
@@ -94,7 +94,7 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   She will ask you to chop wood for her so that they have a sustainable supply of lumber for the Winter.
 -   Accepting her quest gives you a Lumber Axe for free.
 -   Asking her about Etrea increases your Intellegence stat, indicated by a white particle effect.
--   Acts similar to Korin in Etris; 6 Wood for, plus Etrea [reputation](Reputation.md) and some EXP.
+-   Acts similar to Korin in Etris; 6 Wood for 5, plus Etrea [reputation](Reputation.md) and some EXP.
 -   This quest is repeatable.
 
 ### Treefelling Blow Talent Quest

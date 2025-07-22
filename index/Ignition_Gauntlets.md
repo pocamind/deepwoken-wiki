@@ -1,6 +1,6 @@
 ---
 title: Ignition Gauntlets
-revid: 147993
+revid: 153367
 source: https://deepwoken.fandom.com/wiki/Ignition_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, The Ignition Union, Arms]
@@ -22,7 +22,7 @@ categories: [Equipment, The Ignition Union, Arms]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Saramaed Hollow |
-| description | "..." |
+| description | ... |
 
 _If you wish to see useful information on all Equipment, Go to **[Equipment](Equipment.md)**_
 

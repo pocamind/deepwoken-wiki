@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 150818
+revid: 153226
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Medium Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Medium Weapons]
 | swing speed | 0.96x |
 | penetration | 20% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 50 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Second Layer |
-| description | "An ancient spear of kyrsan craftsmanship, its presence beyond the second layer is a miracle. few have ever been found by humanity. unlike their usual weapons, this spear was forged to control the raw, untamed power of their kin. made from the remains of the primal, cartilage wielding creatures they once shared the world with, this arsenal was an attempt to harness the strength of their wild precursors that had been forsaken in favor of the cold precision of their spears of frost." |
+| description | An ancient spear of kyrsan craftsmanship, its presence beyond the second layer is a miracle. few have ever been found by humanity. unlike their usual weapons, this spear was forged to control the raw, untamed power of their kin. made from the remains of the primal, cartilage wielding creatures they once shared the world with, this arsenal was an attempt to harness the strength of their wild precursors that had been forsaken in favor of the cold precision of their spears of frost. |
 
 ## Description
 

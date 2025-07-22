@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 150728
+revid: 153317
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Helmets, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Aratel Island, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, Lodestar, Starswept Valley, Chaser, Scholar of the Crimson Contract |
-| description | "..." |
+| description | ... |
 
 ## Description
 

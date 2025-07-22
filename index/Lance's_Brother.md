@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 149732
+revid: 153306
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -16,9 +16,9 @@ Template:NPC name
 
 ## Prices
 
--   Cheese -
--   Mushroom Omelette -
--   Mushroom Bisque -
+-   Cheese - 15
+-   Mushroom Omelette - 15
+-   Mushroom Bisque - 20
 
 ## Crate Delivery Quest
 

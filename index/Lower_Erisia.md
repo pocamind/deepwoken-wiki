@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 147192
+revid: 153283
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -34,7 +34,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 10 for gr
 -   **Bandit Settlement**
     -   A small village settled by [Bandit Captains](Bandit_Leader.md).
     -   Has a free Pickaxe (it's not theft if you're stealing from thieves).
-    -   Has a Lumber Axe that costs.
+    -   Has a Lumber Axe that costs 6.
     -   Has a permanent campfire in the middle.
     -   Two spider eggs, with set spawns inside the houses.
     -   Nine Bandit Leaders within the Bandit Settlement: one on the guard tower, one inside the house, two facing the path, one facing the campfire, two on the bottom and upper layer of the rooms carved into the mountains, and another two on the opposite side. Killing all of them will reward you a chest.

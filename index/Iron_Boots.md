@@ -1,6 +1,6 @@
 ---
 title: Iron Boots
-revid: 145029
+revid: 153348
 source: https://deepwoken.fandom.com/wiki/Iron_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Layer One |
-| description | "..." |
+| description | ... |
 
 ## Description
 

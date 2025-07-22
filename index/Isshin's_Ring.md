@@ -1,6 +1,6 @@
 ---
 title: "Isshin's Ring"
-revid: 144473
+revid: 153341
 source: https://deepwoken.fandom.com/wiki/Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -22,7 +22,7 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:, First Layer, Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Primadon, Titan of the East, Etrea VS Eylis Sea Event, Heart of Enmity, Lodestar, Maestro Evengarde Rest, War Mode, Chime of Conflict, Dread Serpent |
-| description | "Ring of A wandering Swordsman. Take 1.25x damage and deal 1.2x damage when in close-quarters combat." |
+| description | Ring of A wandering Swordsman. Take 1.25x damage and deal 1.2x damage when in close-quarters combat. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 151104
+revid: 153279
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -298,12 +298,12 @@ Exhaustive Loot Table
   <ul>
     <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbound</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>.)
   <ol>
-    <li><a href="Cerulean_Thread.md"><font>Cerulean Thread</font></a> (Light)</li>
-    <li><a href="Purple_Cloud.md"><font>Purple Cloud</font></a> (Medium)</li>
-    <li><a href="Pale_Briar.md"><font>Pale Briar</font></a> (Heavy)</li>
+    <li><a href="Cerulean_Thread.md">Cerulean Thread</a> (Light)</li>
+    <li><a href="Purple_Cloud.md">Purple Cloud</a> (Medium)</li>
+    <li><a href="Pale_Briar.md">Pale Briar</a> (Heavy)</li>
   </ol></li>
     <li><b>Legendary Weapons</b>: <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>.</li>
-    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Cavalry_Saber.md#alloyed"><font>Alloyed Cavalry Saber</font></a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Officer_Saber.md#alloyed"><font>Alloyed Officer Saber</font></a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
+    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Cavalry_Saber.md#alloyed">Alloyed Cavalry Saber</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Officer_Saber.md#alloyed">Alloyed Officer Saber</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>

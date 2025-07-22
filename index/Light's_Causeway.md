@@ -1,6 +1,6 @@
 ---
 title: "Light's Causeway"
-revid: 114935
+revid: 153291
 source: https://deepwoken.fandom.com/wiki/Light's_Causeway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, The Divers, Layer 1]

@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 146947
+revid: 153235
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Weapon Shop in Etris and Erisia chests |
-| description | "A simple blunt weapon effective at breaking guards." |
+| description | A simple blunt weapon effective at breaking guards. |
 
 ## Description
 

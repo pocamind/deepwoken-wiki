@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 151513
+revid: 153370
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, World Event]

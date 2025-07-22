@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 152799
+revid: 153364
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3540,8 +3540,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Wormwarder \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
     -   Obtained from [Wormwarder Lantern](Wormwarder_Lantern.md)
--   Ice Visor \[Rare Talent\] - Weather conditions have a slightly reduced effect on you.
-    -   Obtained from Talent Hand Draws after wiping in the [Second Layer](Second_Layer.md) due to parasites while being gripped by a [Bounder](Bounder.md).[\[6\]](#cite-note-6)
 
 ## Other
 
@@ -3794,4 +3792,3 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 3.  [↑](#cite-ref-3)
 4.  [↑](#cite-ref-4) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
 5.  [↑](#cite-ref-5)
-6.  [↑](#cite-ref-6) I'm REALLY not sure if this is the exact requirement, but I got this talent after getting this exact thing to happen. I'd been in layer 2 for a whole 40 minutes at the time, so it might be something else. I never thought to screenshot it, so there isn't much evidence, but my build was power 17 and using a light hook at the time, so it might not work if you go in there at power 1 to repeat that action. Also, I do remember having high flamecharm, a flame wisp active and the layer suddenly gaining more dense fog and parasite snow about a second before I quit the game to prog a new build, so you might want to get that each time.

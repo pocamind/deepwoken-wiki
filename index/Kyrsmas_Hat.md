@@ -1,6 +1,6 @@
 ---
 title: Kyrsmas Hat
-revid: 141208
+revid: 153308
 source: https://deepwoken.fandom.com/wiki/Kyrsmas_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Head, Hats, Event Item]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Head, Hats, Event Item]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Ethiron |
-| description | "A cheerful cozy hat donned by the most festive Kyrsgarde." |
+| description | A cheerful cozy hat donned by the most festive Kyrsgarde. |
 
 ## Description
 

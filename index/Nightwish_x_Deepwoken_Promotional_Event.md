@@ -1,6 +1,6 @@
 ---
 title: Nightwish x Deepwoken Promotional Event
-revid: 152678
+revid: 153258
 source: https://deepwoken.fandom.com/wiki/Nightwish_x_Deepwoken_Promotional_Event
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Events]
@@ -28,7 +28,7 @@ _\- The Ferryman_
 
 The hint indicates towards each record being located at [Upper Erisia](Upper_Erisia.md), [Minityrsa](Minityrsa.md), and [Miner's Landing](<Miner's_Landing.md>). Upon collecting all three and returning to the Ferryman, the player will be rewarded with gilded [Instruments](Instruments.md). This reward applies to all slots on the account.
 
-Additionally, the Ferryman provides free [Redd Juice](Food.md) to the player, only if they don't already have one.
+Additionally, the Ferryman provides free [Redd Juice](Redd_Juice.md) to the player, only if they don't already have one.
 
 More about the [Yesterwynde Tavern](Yesterwynde_Tavern.md) can be found in its respective page.
 

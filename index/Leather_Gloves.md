@@ -1,6 +1,6 @@
 ---
 title: Leather Gloves
-revid: 145060
+revid: 153302
 source: https://deepwoken.fandom.com/wiki/Leather_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Gloves]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Gloves]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Erisia, Chime of Conflict, Brainsucker, Lodestar, Other sources:, Tutorial, Starter Equipment Echo Unlock |
-| description | "..." |
+| description | ... |
 
 The **Leather Gloves** are a common piece of equipment that can be found in [Erisia](Erisia.md)
 

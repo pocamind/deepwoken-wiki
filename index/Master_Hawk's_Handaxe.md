@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 152942
+revid: 153237
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -26,7 +26,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starswept Valley, Minityrsa, Etris: Siege, Merchant Ships, The Aratel Sea |
-| description | "..." |
+| description | ... |
 
 ## Description
 
@@ -36,4 +36,4 @@ Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. 
 
 -   Meeting the requirement of HVY, the damage is (38.3)
 -   At max HVY, the damage is (42.9)
--   After the update of 10/24/2022, the swing speed of this weapon increased to 0.6, the average swing speed of all heavy weapons. Along with no endlag, this made the Master Hawk's Handaxe an extremely viable weapon, dealing more damage than the enforcer's blade (0.59), perhaps up on the list of the best PVP heavy weapons to date.
+-   After the update of 10/24/2022, the swing speed of this weapon increased to 0.6, the average swing speed of all heavy weapons. Along with no endlag, this made the Master Hawk's Handaxe an extremely viable weapon, dealing more damage than the [Enforcer's Blade](<Enforcer's_Blade.md>) (0.59), perhaps up on the list of the best PVP heavy weapons to date.

@@ -1,6 +1,6 @@
 ---
 title: Imperial Boots
-revid: 141933
+revid: 153354
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, Starswept Valley, Primadon, War Mode |
-| description | "..." |
+| description | ... |
 
 ## Description
 

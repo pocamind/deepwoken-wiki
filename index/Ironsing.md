@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 152966
+revid: 153345
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -48,12 +48,12 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Ironsing, players will receive the _Expert Ironsinger_ Talent. This allows players to obtain 2-star Ironsing Mantras.
 -   Finally, at 50 Ironsing, players will receive the _Master Ironsinger_ Talent. This allows Ironsing users to obtain 3-star Ironsing Mantras.
 
-You can speak to [Adar](Adar,_Master_of_Metal.md) at [Miner's Landing](<Miner's_Landing.md>) to upgrade your Ironsing Mantras for each. Each upgrade purchased will make the next upgrade for the same mantra more expensive.
+You can speak to [Adar](Adar,_Master_of_Metal.md) at [Miner's Landing](<Miner's_Landing.md>) to upgrade your Ironsing Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same mantra 100 more expensive.
 
--   To upgrade a Ironsing Mantra from level 1 to level 2 costs and 20 Ironsing investment.
--   To upgrade a Ironsing Mantra from level 2 to level 3 costs and 40 Ironsing investment.
--   To upgrade a Ironsing Mantra from level 3 to level 4 costs and 60 Ironsing investment.
--   To upgrade a Ironsing Mantra from level 4 to level 5 costs and 80 Ironsing investment.
+-   To upgrade a Ironsing Mantra from level 1 to level 2 costs 100 and 20 Ironsing investment.
+-   To upgrade a Ironsing Mantra from level 2 to level 3 costs 200 and 40 Ironsing investment.
+-   To upgrade a Ironsing Mantra from level 3 to level 4 costs 300 and 60 Ironsing investment.
+-   To upgrade a Ironsing Mantra from level 4 to level 5 costs 400 and 80 Ironsing investment.
 
 Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.
 

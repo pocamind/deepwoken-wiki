@@ -1,9 +1,9 @@
 ---
 title: Light Hook
-revid: 138549
+revid: 153292
 source: https://deepwoken.fandom.com/wiki/Light_Hook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, StubPages, Items, Tools, The Divers]
+categories: [Pages with broken file links, Items, Tools, The Divers]
 ---
 
 # Light Hook

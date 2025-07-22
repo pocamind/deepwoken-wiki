@@ -1,6 +1,6 @@
 ---
 title: Plain Hood
-revid: 144393
+revid: 153373
 source: https://deepwoken.fandom.com/wiki/Plain_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Hoods]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Summer Isle, Deep Widow, First Layer, Lodestar (Black), Duke Erisia, Voidwalker Bounties |
-| description | "A sleek (color) hood." |
+| description | A sleek (color) hood. |
 
 ## Description
 

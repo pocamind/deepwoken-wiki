@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 151716
+revid: 153277
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Items, Relics]
@@ -22,7 +22,7 @@ categories: [Equipment, Torso, Items, Relics]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:Heart of Enmity |
-| description | "The wings of the Heart of Enmity. As you don them, a seething dark essence courses through you, whispering forbidden truths into your mind. The corruption is subtle at first... but with each beat of these cursed wings, you feel your will slipping, weighing you down, surrendering to something far more sinister." |
+| description | The wings of the Heart of Enmity. As you don them, a seething dark essence courses through you, whispering forbidden truths into your mind. The corruption is subtle at first... but with each beat of these cursed wings, you feel your will slipping, weighing you down, surrendering to something far more sinister. |
 
 ## Description
 
@@ -38,7 +38,3 @@ This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred
 -   When worn, the wings will flow behind you if you have the Cloth Physics setting enabled.
 -   This item is currently unable to be banked.
 -   The rates seem to have been shadow buffed during the 3/16/2025 update.
-
-## Navigation
-
-{{Nav|Equipment}

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 150936
+revid: 153268
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -140,5 +140,4 @@ Dodgeable:◯
 -   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.
 -   participated in the 2024 April fools event under the name of Red Daunts and won.
 -   [Destroyman III](Destroyman_III.md) is a small, chibi Megalodaunt that can talk.
--   According to [Mortus](Mortus.md), the flesh of a Megalodaunt is edible. That being said [Megurger](Food.md) is said to be made out of Megalodaunt's flesh and is described to be rather foul food.
--   Exotic sharko ( Money sharko ) was introduced in Agamatsu's stream and fought by skipper gripper and other PVE YouTubers said to have 25000 HP when corrupted they drop exotic hide
+-   According to [Mortus](Mortus.md), the flesh of a Megalodaunt is edible. That being said [Megurger](Megurger.md) is said to be made out of Megalodaunt's flesh and is described to be rather foul food.

@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 149664
+revid: 153327
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrean Luminant, Etrea, NPCs located in the Etrean Luminant]

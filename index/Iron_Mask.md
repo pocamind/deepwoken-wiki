@@ -1,6 +1,6 @@
 ---
 title: Iron Mask
-revid: 144453
+revid: 153347
 source: https://deepwoken.fandom.com/wiki/Iron_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Masks]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Lower Erisia, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, Lodestar, Voidwalker Bounties, Primadon, Titan of the East |
-| description | "A crude mask wrought from iron, often worn by political prisoners held captive by the Central Authority." |
+| description | A crude mask wrought from iron, often worn by political prisoners held captive by the Central Authority. |
 
 ## Description
 
