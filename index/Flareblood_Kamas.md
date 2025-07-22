@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 146890
+revid: 153143
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -19,6 +19,7 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 | penetration | 30% |
 | special effect | On hit, take away small amounts of blood from your opponent. |
 | stances | 1 Handed |
+| selling price | 100 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

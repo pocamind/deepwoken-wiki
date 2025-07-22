@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 146937
+revid: 153183
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons]
@@ -19,13 +19,14 @@ categories: [Weapons, Swords, Medium Weapons]
 | penetration | 5% |
 | chip damage | 30% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 50 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2 Chests |
-| description | "..." |
+| description | ... |
 
 ## Description
 

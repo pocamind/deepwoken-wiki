@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 152973
+revid: 153169
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -741,9 +741,11 @@ N/A
 
 **Effect:** _User activates an inner surge of energy_
 
+-   Grants a speed boost for 10/12/14/16/18 seconds, depending on its level.
+-   Has a cooldown of 60/55/50/45/40 seconds, depending on its level.
 -   Counts as a speed boost, meaning it can proc all related talents (including "**Speed Demon**").
--   Upgrading reduces cooldown.
--   Can be upgraded with the Talent "**Action Surge**" which increases the swing speed of weapons by a extra 0.04 while the Mantra is active.
+-   The Mantra's visual effect does not increase with level, leading to it being very inaccurate.
+-   Can be upgraded with the Talent "**[Action Surge](Talents.md#vigil-swordsman)**" which increases the swing speed of weapons by a extra 0.04 while the Mantra is active.
 -   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 151086
+revid: 153172
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -16,6 +16,7 @@ categories: [Weapons, Fists, Light Weapons]
 | scaling | LHT: 7.5 |
 | range | 6 |
 | swing speed | 1.11x |
+| selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -31,5 +32,4 @@ categories: [Weapons, Fists, Light Weapons]
 ## Trivia
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) famously uses this weapon.
-
 -   At max LHT, the damage is (21.6)

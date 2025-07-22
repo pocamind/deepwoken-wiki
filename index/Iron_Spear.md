@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 152830
+revid: 153174
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Medium Weapons]
@@ -23,7 +23,7 @@ categories: [Weapons, Spears, Medium Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Etris Weapon Store, Chime of Conflict |
-| description | "A spear perfect for poking at a safe distance" |
+| description | A spear perfect for poking at a safe distance |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Gaunts of Enmity
-revid: 150902
+revid: 153149
 source: https://deepwoken.fandom.com/wiki/Gaunts_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Fists, Light Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Heart of Enmity |
-| description | "Gauntlets of great strength, forged long ago to fortify the weilder [sic] and shatter the souls of the weak." |
+| description | Gauntlets of great strength, forged long ago to fortify the weilder [sic] and shatter the souls of the weak. |
 
 ## Description
 

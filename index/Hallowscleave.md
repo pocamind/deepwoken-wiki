@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 146935
+revid: 153157
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Event Item, Hallowtide, Medium Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Swords, Event Item, Hallowtide, Medium Weapons]
 | swing speed | 1x |
 | penetration | 25% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 50 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
-| description | "A blade said to be fashioned by the Spellhardt family to settle disputes in a festive style. It's bound to catch an odd gaze at a standard tavern, but one must simply express their Hallowtide spirit." |
+| description | A blade said to be fashioned by the Spellhardt family to settle disputes in a festive style. It's bound to catch an odd gaze at a standard tavern, but one must simply express their Hallowtide spirit. |
 
 ## Description
 

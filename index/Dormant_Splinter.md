@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 153124
+revid: 153213
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics]
@@ -66,6 +66,7 @@ The critical has a cooldown of **14 seconds**.
 -   The second worst weapon in the entire game for both PvE and PvP due to its unbearable 5 base damage. The only weapons worse than this are the [Formless Shard](Formless_Shard.md), which has 5 the same base damage with no scaling.
 -   The Splinter emits a sound that resembles breathing and a heartbeat. The Splinter also has an animation when equipped that resembles lungs expanding.
 -   It was inspired by the Broken Hero Sword from _Terraria_.[\[1\]](#cite-note-1)
+-   The word dormant in the name of the weapon, alludes to the fact that the true power of the weapon is yet to be awoken.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 138115
+revid: 153190
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]
@@ -11,7 +11,7 @@ categories: [Items, Equipment, Arms, Plates]
 | Grand Authority Plate | |
 |---|---|
 | type | Arms |
-| rarity | Rare (Assumed) |
+| rarity | Rare |
 | selling price | (Assumed) |
 | requirements | PWR 10 |
 | weight | 2 |

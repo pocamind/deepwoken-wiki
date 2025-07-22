@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 151714
+revid: 153221
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -17,6 +17,21 @@ These status effects can be beneficial to the player.
 ### Resting
 
 This effect causes the player to regain lost health and blood much faster, but lose hunger and thirst much faster (for blood regain). This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md), [Graceful Flame](Flamecharm.md#graceful-flame), or the Stove.
+
+### Food Buffs
+
+Eating certain [food](Food.md) items can provide the user with useful buffs. The food buff you have as well as its duration can be viewed on your hunger bar, with a colored section at the top displaying the duration. The duration of food buffs are tied to the food eaten and your hunger bar as a whole, meaning if you are losing hunger from doing something like swimming, the buff will drain faster.
+
+-   Power: +5% Weapon damage; _"A hearty meal that'll empower your melee strikes!"_ Applied by consuming the [Glazed Fish](Glazed_Fish.md), [Megurger](Megurger.md), or [Mushroom Omelette](Mushroom_Omelette.md).
+-   Enchant: +5% Mantra damage; _"An energising meal that'll empower your mantras!"_ Applied by consuming the [Candied Fruit](Candied_Fruit.md) or [Fish Omelette](Fish_Omelette.md).
+-   Speed: +5% sprint speed; _"A complex meal that'll get you moving!"_ Applied by consuming the [Cake](Cake.md).
+-   Ether: Increases Ether regeneration; _"An aromatic meal to cultivate your focus!"_ Applied by consuming the [Sticky Bun](Sticky_Bun.md).
+-   Health: Adds 17.5% of your base health regeneration on top of your current health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) or the [Fruit Salad](Fruit_Salad.md).
+-   Full: Lowers passive hunger loss by 10%; _"A filling meal to keep you fed for longer!"_ Applied by consuming the [Seafood Boil](Seafood_Boil.md).
+-   Brain: Effect currently unknown; _"A strange meat that empowers your Deep Gem knowledge."_ Applied by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md).
+-   Scale: Effect currently unknown; _"A heavy meat that hardens your skin!"_ Applied by consuming the [Heavy Steak](Heavy_Steak.md).
+-   Throat: Increases your [Taunt](Attunement-less.md#taunt) (Mantra)'s duration by 8 seconds, increases your [Sing's](Attunement-less.md#sing) range, and increases your [Vow Command: Fight](#fight) duration by 7.5 seconds; _"An odd meal that soothes your throat!"_ Applied by consuming the [Dread Fillet](Dread_Filet.md).
+-   Strength: Effect currently unknown; _"An invigorating meal that strengthens your muscles!_ Applied by consuming the [Primal Cutlet](Primal_Cutlet.md).
 
 ### Bloodlusted
 
@@ -493,15 +508,15 @@ Applied by standing in the time stasis bubble made by the [Knives of Eylis Capta
 
 ### Magma Flow
 
-Monsters within [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Flow, this chance increases the lower floor you go. When a Magma Flow-affected Monster hits you or another Monster with any attack, they'll apply Magma Flow, weakening your armor resistances and nullifying all Monster Armor temporarily. Monsters can spawn with both Magma Guard and Magma Flow, in fact this is a common occurrence within the lower floors. Signified by a dripping lava effect on your character and the Monster who has this effect.
+Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Flow, this chance increases the lower floor you go. When a Magma Flow-affected Monster hits you or another Monster with any attack, they'll apply Magma Flow, weakening your armor resistances and nullifying all Monster Armor temporarily. Monsters can spawn in with Magma Flow, Magma Guard, and being Attuned, in fact it is a common occurrence for Monsters to have at least 2 of these effects at once on the lower floors. Signified by a dripping lava effect on your character and the Monster who has this effect.
 
 ### Magma Guard
 
-Monsters within [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Guard, this chance increases the lower floor you go. Magma Guarded Monsters are immune to any Damage vs Monsters effect. Monsters can spawn with both Magma Guard and Magma Flow, in fact this is a common occurrence within the lower floors. These monsters have exteriors encrusted with magma and rock.
+Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Guard, this chance increases the lower floor you go. Magma Guarded Monsters are immune to any Damage vs Monsters effect. Monsters can spawn in with Magma Guard, Magma Flow, and being Attuned, in fact it is a common occurrence for Monsters to have at least 2 of these effects at once on the lower floors. These monsters have exteriors encrusted with magma and rock.
 
 ### Attuned
 
-The effects of this status effect depends on which [Attunement](Attunements.md) the Monsters are attuned to. Some Monsters are always Attuned to a specific Attunement (e.g. [Fury Nautilodaunts](Fury_Nautilodaunt.md) (Thundercall) or [Glacial Lionfish](Glacial_Lionfish.md) (Frostdraw)). This effect can also be applied to humanoid enemies within [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+The effects of this status effect depends on which [Attunement](Attunements.md) the Monsters are attuned to. Some Monsters are always Attuned to a specific Attunement (e.g. [Fury Nautilodaunts](Fury_Nautilodaunt.md) (Thundercall) or [Glacial Lionfish](Glacial_Lionfish.md) (Frostdraw)). This effect can also be applied to humanoid enemies within [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Additionally, Monsters can spawn as both Attuned and another effect such as being Corrupted or having Magma Flow and/or Magma Guard.
 
 -   Flamewreathed - [Flamecharm](Flamecharm.md): Flamewreathed Monsters apply [Burn](#burn) with their attacks. This is a unique burn variant that is harder to remove. Additionally, Flamewreathed Monsters have 50% Flamecharm resistance, but take double damage from Galebreathe. Signified by the Monster being engulfed in flames.
 -   Frostmantle - [Frostdraw](Frostdraw.md): Frostmantled Monsters apply [Chill](#chill) and create ice patches on the floor with all of their attacks. Additionally, Frostmantled Monsters have 50% Frostdraw resistance, but take double damage from Flamecharm. Signified by the Monster radiating with frost.

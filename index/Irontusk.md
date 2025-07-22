@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 151926
+revid: 153176
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Medium Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Spears, Medium Weapons]
 | swing speed | 0.9x |
 | penetration | 10% |
 | stances | 2 Handed, 1 Handed |
+| selling price | 7 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starter Weapon: Spear Echo Unlock |
-| description | "A spear passed down by your ancestors." |
+| description | A spear passed down by your ancestors. |
 
 ## Description
 

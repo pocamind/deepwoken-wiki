@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 141075
+revid: 153194
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits, Ambush Enemies]
@@ -25,13 +25,13 @@ A Bandit Leader wears the obtainable Bounty Hunter [Outfit](Outfits.md) with the
 
 ## Moveset
 
-A Bandit Leader's arsenal consists of a starter weapon, being a [Battleaxe](Battleaxe.md), [Messer](Messer.md), [Mace](Mace.md), [Gilded Knife](Gilded_Knife.md), or an Iron Sword:
+A Bandit Leader's arsenal consists of a starter weapon, being a [Battleaxe](Battleaxe.md), [Messer](Messer.md), [Mace](Mace.md), or a [Gilded Knife](Gilded_Knife.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Attacks the opponent repeatedly and flourishes them away with a kick. | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon above their head before firmly slamming it down into the ground, breaking the victim's guard.
-\[[Messer](Messer.md) & Iron Sword\] Performs a windup before thrusting the blade forward into the enemy's chest, breaking their guard.  
+\[[Messer](Messer.md)\] Performs a windup before thrusting the blade forward into the enemy's chest.  
 \[[Gilded Knife](Gilded_Knife.md)\] Winds up before unleashing a quick flurry of three slashes.
 
  | ◯ | ✗ | (★★☆) |
@@ -45,7 +45,7 @@ A Bandit Leader executes their opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | \[[Messer](Messer.md), [Gilded Knife](Gilded_Knife.md) & Iron Sword\] User pins down the opponent and slices their throat with their blade.
+| Execute | \[[Messer](Messer.md) & [Gilded Knife](Gilded_Knife.md)\] User pins down the opponent and slices their throat with their blade.
 \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] User pins down opponent while raising their weapon before firmly bashing the opponent's face in.
 
  |
@@ -60,5 +60,4 @@ A Bandit Leader executes their opponent after knocking them:
 ## Trivia
 
 -   The Bandit Leaders, especially if they wield the Silver Dagger, are infamous for being extremely difficult (at lower levels) on higher ping servers due to the AI's immediate input paired with the speed of daggers, as well as sometimes being able to shred through a player's Blood bar and indirectly kill them that way.
--   Their "Iron Sword" is not seen anywhere else in the game, and cannot be obtained by players.
 -   They used to be called "Bandit Captains."

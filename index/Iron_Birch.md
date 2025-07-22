@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 150760
+revid: 153171
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Minityrsa (chests), Starswept Valley (chests), Depths (chests), Chime of Conflict, Merchant Ships, Fishing (Brown chests), Aelita, The Ferryman (Winter) |
-| description | "The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes." |
+| description | The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 153007
+revid: 153220
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, NPCs, Vendors]
@@ -195,14 +195,12 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
   <td colspan="3">Mm. Let me try a metaphor. If you are a stalk of wheat, then I am a loaf of bread. This is a fitting analogy.</td>
 </tr>
 <tr>
-  <td colspan="3">I see. We have learnt much.</td>
-  <td colspan="12"></td>
+  <td colspan="15">I see. We have learnt much.</td>
   <td colspan="3">You wouldn't happen to be a Krulian would you?</td>
 </tr>
 <tr>
-  <td colspan="3">End.</td>
-  <td colspan="12"></td>
-  <td colspan="3"><a href="Glossary.md#krulian">Krulian</a>. Yes, some portion of me knows this to be true.</td>
+  <td colspan="15">End.</td>
+  <td colspan="3"><a href="Glossary.md#krulians">Krulian</a>. Yes, some portion of me knows this to be true.</td>
 </tr>
 <tr>
   <td colspan="15"></td>

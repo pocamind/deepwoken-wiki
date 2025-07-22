@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 150604
+revid: 153153
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | swing speed | 0.83x |
 | special effect | Rain down Ice/Crystal Shards after 3 hits, Talks when killing Ministry NPCs or Contractors, Critical freezes and uppercuts enemy upon connection (Plants Crystals if the player has Glass Path: Crystallization) |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | 100 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Ministry Ambushes (Chest), Diluvian Mechanism (wave 30-50), Second Layer (Floor 1 Chests), Weird Trader |
-| description | "In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the last front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska." |
+| description | In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the last front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska. |
 
 ## Description
 

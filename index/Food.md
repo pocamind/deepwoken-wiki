@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 151140
+revid: 153214
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -50,8 +50,10 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 -   _"An aromatic meal to cultivate your focus!"_ The Ether buff increases the user's ether regeneration speed. (Doesn't work as of 2/26/25)
 -   _"A soothing meal to recover your strength!"_ The Health buff increases the user's health regeneration speed. (17.5% of your base regen added on top of your current health regen)
 -   _"A filling meal to keep you fed for longer!"_ The Full buff significantly decreases the user's starvation speed. (10% reduced natural hunger loss)
--   _A strange meat that empowers your Deep Gem knowledge._ The Brain buff grants a currently unknown effect.
--   _A heavy meat that hardens your skin!_ The Scale buff grants a currently unknown effect.
+-   _"A strange meat that empowers your Deep Gem knowledge."_ The Brain buff grants a currently unknown effect.
+-   _"A heavy meat that hardens your skin!"_ The Scale buff grants a currently unknown effect.
+-   _"An odd meal that soothes your throat!"_ The Throat buff increases your [Taunt](Attunement-less.md#taunt) duration by 8 seconds, your [Command: Fight](Vow_of_Mastery.md) duration by 7.5 seconds, and grants [Sing](Attunement-less.md#sing) a noticeable range increase.
+-   _"An invigorating meal that strengthens your muscles!_" The Strength buff grants a currently unknown effect.
 
 Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of Talents.
 

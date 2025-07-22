@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 153103
+revid: 153224
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Outfits, Items, Mantras]
@@ -2658,7 +2658,7 @@ _+2 Posture_
 
 +1 Uncommon Pip
 
-+1 Rare Pips
++1 Rare Pip
 
 +1 Legendary Pip
 
@@ -2865,7 +2865,7 @@ _+2 Health_
 
 _+1 Posture_
 
-1 Common Pip
++1 Common Pip
 
  | 
 
@@ -3018,7 +3018,7 @@ Found from:
 
 _+6% Stealth_
 
-+2 Rare Pip
++2 Rare Pips
 
 +1 Legendary Pip
 
@@ -5099,6 +5099,8 @@ _+10 Carry Load_
 
 _+10 Sanity_
 
+_+Talent: Wormwarder_
+
  | 
 
 Found from:
@@ -5599,44 +5601,6 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
-|  | 
-
-[Sworn Angel Mask](Sworn_Angel_Mask.md)
-
-(**Series**)
-
- | 
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   Mob Drop from [Sworn Angels](Sworn_Angel.md) (rare)
-
- | Hollow, Sworn |
-| File:Rabel Bandana.png | 
-
-[Rebel's Bandana](<Rebel's_Bandana.md>)
-
- | 
-
-+1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Eastern Tribe Nomad](Eastern_Nomad.md)
--   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
--   [Erisia](Erisia.md)
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- | N/A |
 | File:Blue.PNG | 
 
 [Royal Guard](Aspirant_Mask.md)
@@ -5680,6 +5644,44 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Dread Serpent](Dread_Serpent.md)
+
+ | N/A |
+|  | 
+
+[Sworn Angel Mask](Sworn_Angel_Mask.md)
+
+(**Series**)
+
+ | 
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   Mob Drop from [Sworn Angels](Sworn_Angel.md) (rare)
+
+ | Hollow, Sworn |
+| File:Rabel Bandana.png | 
+
+[Rebel's Bandana](<Rebel's_Bandana.md>)
+
+ | 
+
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   [Eastern Tribe Nomad](Eastern_Nomad.md)
+-   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
+-   [Erisia](Erisia.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |

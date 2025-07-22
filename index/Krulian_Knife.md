@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 150869
+revid: 153182
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals, Light Weapons]
@@ -18,12 +18,13 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals
 | swing speed | 1.25x |
 | penetration | 20% |
 | stances | 1 Handed |
+| selling price | 100 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ferryman (Winter), Ferryman Chests, Merchant Ships, Sold by Traan Zakshun for |
+| obtainment | Ferryman (Winter), Ferryman Chests, Merchant Ships, Sold by Traan Zakshun for 1,000 |
 | description | An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding. |
 
 ## Description

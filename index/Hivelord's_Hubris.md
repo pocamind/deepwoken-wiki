@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 148599
+revid: 153164
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -18,13 +18,14 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | swing speed | 0.62x |
 | endlag | 0.15s |
 | penetration | 5% |
+| selling price | 100 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Rare drop from Hive Construct, Rare drop from Rogue Construct |
-| description | "...This isn't very efficient." |
+| description | ...This isn't very efficient. |
 
 ## Description
 

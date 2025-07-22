@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 146974
+revid: 153175
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Medium Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Twinblades, Medium Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chime of Conflict, Diluvian Mechanism, Moon's Eyrie, Voidsea Event Chests, Dread Serpent, Lodestar, The Depths, Black Diver, Pure Ore Turn-Ins, Widow's Hollow, Voidwalker Bounty Chests |
-| description | "A modest twinblade, inspired by the whirling Etrean blades of ancient times. Though some dismiss it as unwieldy and impractical, those who choose to wield this weapon seek something far greater than mere convenience. Their focus is not on ease of use, but on the artistry, power, and relentless momentum that only a blade like this can unleash." |
+| description | A modest twinblade, inspired by the whirling Etrean blades of ancient times. Though some dismiss it as unwieldy and impractical, those who choose to wield this weapon seek something far greater than mere convenience. Their focus is not on ease of use, but on the artistry, power, and relentless momentum that only a blade like this can unleash. |
 
 ## Description
 
@@ -47,5 +47,3 @@ It shares a critical with the [Scalesplitter](Scalesplitter.md). It can be assum
 
 -   Compared to other starter weapons, the Iron Twinblade has an unusually high 30% chip damage: on par with the Soulthorn.
 -   Due to it's chip damage and requirements, it may be practical to use this on builds that require low medium investment.
-
-Work in progress
