@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 152115
+revid: 153421
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -44,7 +44,7 @@ Most of the game's Enchant Stones have non-exclusive obtainment locations, meani
 These Enchant Stones can only be obtained through certain methods. These are: Astral, Curse of Rhaemen's Ember, Nighbringer, Parasol's Blight, and Void.
 
 -   Astral can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md). Astral can also be sold for 20 in [Traan Zakshun's](Traan_Zakshun.md) black market.
--   Curse of Rhaemen's Ember Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, defeating [Rogue Constructs](Rogue_Construct.md), as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) or [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely).
+-   Curse of Rhaemen's Ember Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, defeating [Rogue Constructs](Rogue_Construct.md), as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) or [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely). Rhaemen's Ember can also be sold for 10 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   Nightbringer drops directly from [Parliament](Parliament.md) and [Prime Megalodaunts](Prime_Megalodaunt.md).
 -   Parasol's Blight can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
 -   Void can exclusively be bought from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Void Spires](Void_Spire.md) and 10.

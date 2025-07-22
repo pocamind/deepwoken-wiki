@@ -1,9 +1,9 @@
 ---
 title: Emar Vend
-revid: 148460
+revid: 153390
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies with Oaths, The Central Authority, Oath Trainer]
+categories: [Enemies, Enemies with Oaths, The Central Authority]
 ---
 
 # Emar Vend
@@ -19,8 +19,6 @@ He wields a Darksteel Greatsword with the Metal [Enchantment](Enchantments.md) a
 -   Putting your Guild Base outside and luring him in the basement of the building might be a good strategy : when below half Health, get out and get into your base to regenerate (only if you have a campfire). The alternative could be to place a campfire.
 
 -   He only has one Ranged attack. Using yours might give you a better chance against him.
-
-  
 
 ## Moves
 

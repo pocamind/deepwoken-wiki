@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 153345
+revid: 153393
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -258,7 +258,7 @@ Metal + Template:Bleed2
 -   May be blocked or even parried off the ground.
 -   With the '**Laced Traps'** Talent, makes the opponent slowed down and unable to jump if hit.
 -   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
--   Can be modified with **Cloudstones/Stratus Stones** (Does nothing)
+-   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the caltrops.
 -   Applies Metal Rods on every 2 hits. Caltrops that are laying down applying 1 metal rod per caltrop.
 -   Adds 1 caltrop per level up of the Mantra, up to 8.
 
