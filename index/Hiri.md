@@ -1,6 +1,6 @@
 ---
 title: Hiri
-revid: 139360
+revid: 153520
 source: https://deepwoken.fandom.com/wiki/Hiri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, The Hive, NPCs located in the Eastern Luminant]

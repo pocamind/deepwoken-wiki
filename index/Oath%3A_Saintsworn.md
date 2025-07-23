@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 152597
+revid: 153462
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -19,7 +19,7 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 | requirements | Oath |
 | damage | 30 |
 | range | 8.5 |
-| swing speed | 1.04 |
+| swing speed | 1.04x |
 | penetration | 10% |
 | weight | 7 |
 | bankable | Yes |

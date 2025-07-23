@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 153190
+revid: 153547
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]
@@ -12,7 +12,7 @@ categories: [Items, Equipment, Arms, Plates]
 |---|---|
 | type | Arms |
 | rarity | Rare |
-| selling price | (Assumed) |
+| selling price | 25(Assumed) |
 | requirements | PWR 10 |
 | weight | 2 |
 | innate stats | +8 Health, +1 Uncommon Pip, +1 Rare Pip, +1 Legendary Pip |
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Plates]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, The Eternal Gale, Miner's Landing, Primadon, Maestro Evengarde Rest, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

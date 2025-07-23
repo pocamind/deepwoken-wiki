@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 150830
+revid: 153529
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Hats, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fort Merit |
-| description | "..." |
+| description | ... |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 

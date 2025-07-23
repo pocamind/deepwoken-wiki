@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 150297
+revid: 153546
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -1745,7 +1745,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > >   
 > >    May you return,  
 > >    Victory in hand,  
-> >    May you once again trad on steady land!  
+> >    May you once again tread on steady land!  
 > >   
 > >    Glory you'll learn,  
 > >    Echo shall your name  

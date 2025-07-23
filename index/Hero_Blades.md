@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 153158
+revid: 153482
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -8,7 +8,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 
 # Hero Blades
 
-| Hero Blade of X | |
+| Hero's Blade of X | |
 |---|---|
 | type | Sword |
 | requirements | 75 ELM, LVL 11 |
@@ -32,11 +32,11 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 
 What attunement the weapon possesses is based on the hero who once wielded it, the [Khan](Khan.md) hero having a blade made of flames, the [Capra](Capra.md) hero having a blade made of frost, the [Tiran](Tiran.md) hero having a blade made of wind, the [Adret](Adret.md) hero having a blade made of lightning, and the [Felinor](Felinor.md) hero having a blade made from shadow. Each blade requires 75 in their respective attunement and level 11+.
 
-The Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md#blizzard-knight) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting and completing the mysterious [Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating the [Blizzard Knights](Stone_Knight.md) will guarantee a chest with one to a several of the blades at random.
+The Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md#blizzard-knight) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting and completing the mysterious [Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating the [Blizzard Knights](Stone_Knight.md#blizzard-knight) will guarantee a chest with one to a several of the blades at random.
 
 Each of the Hero Blades have their own unique critical attack.
 
-A common misconception is their damage type. Hero Blades deal **Physical Slash Damage**, like normal swords. However, their critical attacks deal elemental damage of the relevant type. Additionally, they scale off [Proficiency](Traits.md) like normal weapons, **not** [Songchant](Traits.md).
+A common misconception is their damage type. Hero Blades deal **Physical Slash Damage**, like normal swords. However, their critical attacks deal elemental damage of the relevant type. Additionally, they scale off [Proficiency](Traits.md#proficiency) like normal weapons, **not** [Songchant](Traits.md#songchant).
 
 ## Trivia
 
@@ -57,4 +57,4 @@ A common misconception is their damage type. Hero Blades deal **Physical Slash D
         -   The Hero of Wind was named Sven Corbet and appeared in a video prior to the public release of Deepwoken. Whether this is a retcon or they are simply another Hero of Gale is unclear.
     -   The Hero of Shadow is a [Felinor](Felinor.md) named Urek Felhand.
         -   Identified by his ears.
--   Any clones ([Visionshaper](Oath%253A_Visionshaper.md) or [Thunder Clones](Thundercall.md)) will use the default starting sword critical instead of the Hero Blade crit.
+-   Any clones ([Visionshaper](Oath%253A_Visionshaper.md) or [Lightning Clones](Thundercall.md#lightning-clones)) will use the default starting sword critical instead of the Hero Blade crit.

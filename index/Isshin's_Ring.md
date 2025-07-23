@@ -1,6 +1,6 @@
 ---
 title: "Isshin's Ring"
-revid: 153341
+revid: 153512
 source: https://deepwoken.fandom.com/wiki/Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -26,7 +26,7 @@ categories: [Equipment, Rings]
 
 ## Description
 
-Isshin's Ring is an [Equipment](Equipment.md) item under the "Ring" category. It makes the wearer deal 20% more damage, but also take 25% more damage.
+Isshin's Ring is an [Equipment](Equipment.md) item under the "Ring" category. It makes the wearer deal 20% more damage, but also take 25% more damage. Isshin's ring actually stacks with [Ring of Casters](Ring_of_Casters.md), making it specially useful for mage builds.
 
 This is inherently risky to use, especially since it doesn't bypass the game's damage cap mechanics, but can prove useful for doing massive burst damage or when trying to kill bosses one is more experienced with quickly.
 

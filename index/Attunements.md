@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 152906
+revid: 153459
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics]
@@ -128,10 +128,6 @@ All of the icons above are undoubtedly official representations of their base at
 
 [Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-[Flamecharm](Flamecharm.md)
-
-[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
   
 
 ### Hybrid Paths
@@ -139,6 +135,10 @@ All of the icons above are undoubtedly official representations of their base at
 [Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)
 
 [Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+[Flamecharm](Flamecharm.md)
+
+[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 

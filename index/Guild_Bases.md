@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 146014
+revid: 153530
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -12,44 +12,44 @@ notices:
 
 ## Overview
 
-Template:Areainfobox Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader, Lieutenant, or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases for Notes, and Guild Offices in towns for Notes, with 10 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
+Template:Areainfobox Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader, Lieutenant, or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases for 80 Notes, and Guild Offices in towns for 50 Notes, with 10 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
 
-Entering the Guild Base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for Notes.
+Entering the Guild Base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for 500 Notes.
 
 Once hired, the [Treasurer](Treasurer.md) can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Room Slots and hire certain NPCs depending on the Room Slot. However, hiring the treasurer will increase the prices of all the rooms. Without the treasurer, the 2nd room is 2,100 notes, with them it is 4,100 notes.
 
 Currently, there are 10 NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 
--   The [Mystic](Mystic.md), which can be hired in the Song Room after building 3+ rooms for Notes.
--   The [Barber](Barber.md), which can be hired after building 6+ rooms for Notes.
--   The [Banker](Banker.md), which can be hired in the Trophy Room after building 6+ rooms for Notes.
--   The [Gunsmith](https://deepwoken.fandom.com/wiki/Gunsmith), which can be hired in the Armory for Notes.
--   The [Antiquarian](Antiquarian.md), which can be hired after building 9+ rooms for Notes.
--   The Librarian, which can be hired after building the Library for Notes.
--   The [Artisan](https://deepwoken.fandom.com/wiki/Jarvis), which can be hired after building the Trophy Room for Notes.
--   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for Notes.
--   The Chef, which can be hired after building the Mess Hall for Notes.
+-   The [Mystic](Mystic.md), which can be hired in the Song Room after building 3+ rooms for 2,000 Notes.
+-   The [Barber](Barber.md), which can be hired after building 6+ rooms for 3,000 Notes.
+-   The [Banker](Banker.md), which can be hired in the Trophy Room after building 6+ rooms for 10,000 Notes.
+-   The [Gunsmith](https://deepwoken.fandom.com/wiki/Gunsmith), which can be hired in the Armory for 1,000 Notes.
+-   The [Antiquarian](Antiquarian.md), which can be hired after building 9+ rooms for 10,000 Notes.
+-   The Librarian, which can be hired after building the Library for 1,000 Notes.
+-   The [Artisan](https://deepwoken.fandom.com/wiki/Jarvis), which can be hired after building the Trophy Room for 10,000 Notes.
+-   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for 1,000 Notes.
+-   The Chef, which can be hired after building the Mess Hall for 2,000 Notes.
 -   the [Songwright](Songwright.md) which can be hired in the Song Room after building 9+ rooms for 20,000 Notes.
 
 -   The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury—with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
 
 The pricing list is as follows: (Assuming you have the [Treasurer](Treasurer.md))
 
-| Room |  |  |
+| Room | Price | Total Spent |
 | --- | --- | --- |
-| Room 1 |  |  |
-| Room 2 |  |  |
-| Room 3 |  |  |
-| Room 4 |  |  |
-| Room 5 |  |  |
-| Room 6 |  |  |
-| Room 7 |  |  |
-| Room 8 |  |  |
-| Room 9 |  |  |
-| Room 10 |  |  |
-| Room 11 |  |  |
-| Room 12 |  |  |
-| Extension |  |  |
+| Room 1 | 2,600 | 2,600 |
+| Room 2 | 4,100 | 6,700 |
+| Room 3 | 6,600 | 13,300 |
+| Room 4 | 10,500 | 23,800 |
+| Room 5 | 16,800 | 40,600 |
+| Room 6 | 26,900 | 67,500 |
+| Room 7 | 43,000 | 110,500 |
+| Room 8 | 68,800 | 179,300 |
+| Room 9 | 110,000 | 289,300 |
+| Room 10 | 176,000 | 465,300 |
+| Room 11 | 281,500 | 746,800 |
+| Room 12 | 450,400 | 1,197,200 |
+| Extension | 500,000 | 1,697,200 |
 
 ## Rooms
 
@@ -63,6 +63,8 @@ A guild base can be increased in size through different rooms. Most provide prac
 Mess Hall
 
  | 
+
+2,000
 
  | 
 
@@ -82,6 +84,8 @@ They sell: Fish Stew, Mushroom Omelettes, Cheese and Glazed Fish for 20 notes ea
 Training Hall
 
  | 
+
+1,000
 
  | 
 
@@ -103,13 +107,15 @@ Trophy Room
 
  | 
 
+5,000
+
  | 
 
 1 Room  
 
  | 
 
-Allows the hiring of an Artisan for. For (a discount), allows the Player to merge attributes and appearance of an Item through [smelting](Transmogrification.md). Allows the hiring of a Banker for notes to access your Safe Deposit Box, a box that allows you to transfer items across your slots. You cannot turn in Artifacts to the Guild Banker.
+Allows the hiring of an Artisan for 10,000. For 800 (a 200 discount), allows the Player to merge attributes and appearance of an Item through [smelting](Transmogrification.md). Allows the hiring of a Banker for 10,000 notes to access your Safe Deposit Box, a box that allows you to transfer items across your slots. You cannot turn in Artifacts to the Guild Banker.
 
  |
 | 
@@ -119,6 +125,8 @@ Allows the hiring of an Artisan for. For (a discount), allows the Player to merg
 Quarters
 
  | 
+
+1,000
 
  | 
 
@@ -138,6 +146,8 @@ Laboratory
 
  | 
 
+1,500
+
  | 
 
 1 Room  
@@ -155,15 +165,17 @@ Song Room
 
  | 
 
+2,000
+
  | 
 
 1 Room  
 
  | 
 
-Allows the hiring of a [Mystic](Mystic.md) for. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras, and the ability to purchase [Training Gears](Training_Gear.md#attunement-training-gears). The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.  
+Allows the hiring of a [Mystic](Mystic.md) for 2,000. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras, and the ability to purchase [Training Gears](Training_Gear.md#attunement-training-gears). The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.  
 
-This room also allows the hiring of a [Songwright](Songwright.md) for, which allows you to upgrade mantras for a more expensive price than the [Attunement Trainers](Attunement_Trainers.md) (albeit being more convenient).
+This room also allows the hiring of a [Songwright](Songwright.md) for 20,000, which allows you to upgrade mantras for a more expensive price than the [Attunement Trainers](Attunement_Trainers.md) (albeit being more convenient).
 
  |
 | 
@@ -174,18 +186,22 @@ Armory
 
  | 
 
+2,500
+
  | 
 
 1 Room  
 
  | 
 
-Allows the hiring of a [Blacksmith](Blacksmith.md) for, allowing the Player to craft [outfits](Outfits.md), repair their current outfit, turn in schematics, and turn in [ores](Ores.md) for profit. Allows the hiring of a Gunsmith for, allowing the Player to craft bullet casings.
+Allows the hiring of a [Blacksmith](Blacksmith.md) for 1,000, allowing the Player to craft [outfits](Outfits.md), repair their current outfit, turn in schematics, and turn in [ores](Ores.md) for profit. Allows the hiring of a Gunsmith for 1,000, allowing the Player to craft bullet casings.
 
  |
 | 
 
  | Fish Pond | 
+
+1,000
 
  | 
 
@@ -200,6 +216,8 @@ Library
 
  | 
 
+2,000
+
  | 
 
 2 Rooms  
@@ -207,7 +225,7 @@ Library
 
  | 
 
-Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator. You are still able to unlock the instrument's musics from your library's donated songbooks. Only Guild members can access the Library collection. (There is a 1 minute 15 second cooldown on turning in books) You can buy [Training Gears](Training_Gear.md#attribute-training-gears) here
+Allows the hiring of a Librarian for 1,000, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator. You are still able to unlock the instrument's musics from your library's donated songbooks. Only Guild members can access the Library collection. (There is a 1 minute 15 second cooldown on turning in books) You can buy [Training Gears](Training_Gear.md#attribute-training-gears) here
 
  |
 | 
@@ -217,6 +235,8 @@ Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore 
 Arena Extension
 
  | 
+
+500,000
 
  | 
 

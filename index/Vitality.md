@@ -1,6 +1,6 @@
 ---
 title: Vitality
-revid: 134376
+revid: 153481
 source: https://deepwoken.fandom.com/wiki/Vitality
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Traits](Traits.md)
+-   [Traits#Vitality](Traits.md#vitality)

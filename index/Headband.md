@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 144451
+revid: 153522
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Bandanas]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Variant Based, Maestro Evengarde Rest (all of them), Saramaed Hollow (all of them) |
-| description | "A stylish (color) headband. Capable of hiding even the most dire of hairlines." |
+| description | A stylish (color) headband. Capable of hiding even the most dire of hairlines. |
 
 ## Description
 
@@ -41,43 +41,43 @@ The Headband is an [equipment](Equipment.md) item under the "Face" category. The
 <tr>
   <td>Black</td>
   <td>+1 Common</td>
-  <td></td>
+  <td>7</td>
   <td><a href="Erisia.md">Erisia</a>, <a href="Aelita.md">Aelita</a>, <a href="The_Ferryman.md">The Ferryman</a> (Winter), <a href="Dread_Serpent.md">Dread Serpent</a>, <a href="Heart_of_Enmity.md">Heart of Enmity</a>, <a href="Lodestar.md">Lodestar</a></td>
 </tr>
 <tr>
   <td>Orange</td>
   <td>+1 Common</td>
-  <td></td>
+  <td>7</td>
   <td><a href="Erisia.md">Erisia</a>, <a href="Heart_of_Enmity.md">Heart of Enmity</a>, <a href="Lodestar.md">Lodestar</a></td>
 </tr>
 <tr>
   <td>Yellow</td>
   <td>+1 Common</td>
-  <td></td>
+  <td>7</td>
   <td><a href="Erisia.md">Erisia</a>, <a href="Lodestar.md">Lodestar</a></td>
 </tr>
 <tr>
   <td>Red</td>
   <td>+1 Uncommon</td>
-  <td></td>
+  <td>14</td>
   <td><a href="Summer_Isle.md">Summer Isle</a>, <a href="Dread_Serpent.md">Dread Serpent</a>, <a href="Heart_of_Enmity.md">Heart of Enmity</a>, <a href="Lodestar.md">Lodestar</a></td>
 </tr>
 <tr>
   <td>Blue</td>
   <td>+1 Rare</td>
-  <td></td>
+  <td>25</td>
   <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="Aelita.md">Aelita</a>, <a href="The_Ferryman.md">The Ferryman</a> (Winter), <a href="Dread_Serpent.md">Dread Serpent</a></td>
 </tr>
 <tr>
   <td>Green</td>
   <td>+1 Rare</td>
-  <td></td>
+  <td>25</td>
   <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="War_Mode.md">War Mode</a>, <a href="Aelita.md">Aelita</a>, <a href="The_Ferryman.md">The Ferryman</a> (Winter), <a href="Dread_Serpent.md">Dread Serpent</a>, <a href="The_Doom_of_Caeranthil.md">The Doom of Caeranthil</a></td>
 </tr>
 <tr>
   <td>White</td>
   <td>+1 Rare</td>
-  <td></td>
+  <td>25</td>
   <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="War_Mode.md">War Mode</a>, <a href="Aelita.md">Aelita</a>, <a href="The_Ferryman.md">The Ferryman</a> (Winter), <a href="Lodestar.md">Lodestar</a></td>
 </tr>
 </tbody>

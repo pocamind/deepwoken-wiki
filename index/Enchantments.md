@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 153129
+revid: 153575
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -112,7 +112,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
-  <b>(Gluttony steal NOT AFFECTED by gluttony flaw or hunger reduce food buffs.)</b></p></div></td>
+  The formula is as follows: 0.15 * weapon scaled damage + 2.</p>
+  <p><b>(Gluttony's sustenance steal is NOT AFFECTED by <a href="Boons_and_Flaws.md#flaws">Gluttony Flaw</a> or damage modifiers, but it IS affected by damage resistances.)</b></p></div></td>
   <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
 <tr>
@@ -167,7 +168,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><center><br>
+  <td><figure>File:NightbringerEnchant.gif<figcaption></figcaption></figure><center><br>
   <font>Nightbringer<div></div></font></center></td>
   <td><div><p>On hit, steal a portion of your opponent's Ether.</p>
   <p>Steals around same amount of ether as your M1 scaled DMG<br>

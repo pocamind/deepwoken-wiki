@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 153003
+revid: 153526
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -8,7 +8,7 @@ categories: [Weapons, Character, Mechanics, Items]
 
 # Weapons
 
-_Need help editing? go to [this page](Weapons/Editing.md)_
+_Need help editing? Go to [this page](Weapons/Editing.md)._
 
 ## Description
 
@@ -66,6 +66,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound.)
     -   **Relic:** Functionally identical to Legendary Weapons, but are crafted instead of being dropped by a mob or quest. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
+-   **Divine Weapon:** Weapons exclusive to the [Crazy Slots](Crazy_Slots.md) [Resonance](Resonance.md).
 -   [**Exclusive Weapons/Skins:**](Status_Effects.md#bleed) Weapons that can only be obtained by some / given to by special people.
 
 ## Types of Weapons
@@ -12687,13 +12688,14 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
     -   Scaling: [Divine Flintlock](Crazy_Slots.md) (16)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md), [Guiding Star](Guiding_Star.md) (12)
-    -   Swing Speed: [Divine Flintlock](Crazy_Slots.md#light) (1.33x)
+    -   Swing Speed: [Divine Flintlock](Crazy_Slots.md) (1.33x)
     -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
 -   Both of the Rifle Basic Attacks have the same range.
 -   The Aranea was the first item to have an unobtainable stat prerequisite before being turned into the [Guiding Star](Guiding_Star.md).
 -   Rifles are the only weapon type that have four basic m1s before a flourish.
 -   Twinblades lack a flourish when two handed, making them the only weapon class to lack a flourish... sometimes.
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) is the only weapon to scale on alternating weapon stats.
+-   The [Saintsblade](Oath%253A_Saintsworn.md) and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade has very high base damage; Formless Shard on the other hand...
 
 ## References
 

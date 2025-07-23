@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 141675
+revid: 153490
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,20 +24,22 @@ Each trait can only be increased up to 6 points.
 ### Erudition
 
 -   Increase max [Ether](Ether.md) by 30 and max [Tempo](Combat_Mechanics.md) by 5 per point, also increase Tempo gain by 5% each point.
--   Maximum of 180 Ether and 30 Tempo.
--   Increase Tempo gain up to 30% at max.
+-   Maximum of +180 Ether, +30 Tempo, and +30% Tempo gain.
 
 ### Proficiency
 
--   Increase [Weapons](Weapons.md) **scaling** for M1's and Critical Attacks by 6.5% per point.
--   Apply 2.5% **pen** to all [Weapon](Weapons.md) M1's and Critical Attacks per point.
--   Maximum of 39% increase from **scaling.**
--   **This also applies to EVERY weapon. Hero Blades, Crypt Blades, Light's Final Toll, everything.**
--   Be warned, as this only increases the scaling, not base damage, and as such, should only be used on **high** scaling weapons such as the [Hivelord's Hubris](<Hivelord's_Hubris.md>).
+-   Increase [Weapon](Weapons.md) investment **scaling** by 6.5% per point. (Maximum of 39% increase from **scaling**)
+-   Increase [Weapon](Weapons.md) **PEN** by 2.5% per point. (Maximum of 15% increase from **PEN**)
+    -   The PEN increase is additive to PEN from other sources, including your weapon's innate PEN.
+-   **Proficiency applies to EVERY weapon. [Hero Blades](Hero_Blades.md), [Crypt Blades](Crypt_Blade.md), [Light's Final Toll](<Light's_Final_Toll.md>), everything.**
+    -   There is a sole exception; the scaling increase from Proficency does not work on the [Saintsblade](Oath%253A_Saintsworn.md) or [Formless Shard](Formless_Shard.md), as they have no scaling. They however, will still benefit from the PEN increase from Proficiency.
+-   Be warned, as this only increases the scaling, not base damage, making it significantly more effective on weapons that already have high scaling, such as the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and less effective for weapons with low scaling stats.
 
 ### Songchant
 
--   Increase [Mantra](Mantras.md) **scaling** by 6.5% per point. (Maximum of 39% increase from **scaling)**
--   Increase [Mantra](Mantras.md) **pen** by 2.5% per point. (Maximum of 15% increase from **pen**)
--   On Oath and monster mantras, instead increase the damage output by 2% per point.
+-   Increase [Mantra](Mantras.md) investment **scaling** by 6.5% per point. (Maximum of 39% increase from **scaling**)
+    -   Most Mantras have 1.65 (if [Attunement-less](Attunement-less.md)) or 2.75 (if [Attuned](Attunements.md)) investment scaling. Because the scaling numbers are so low, an increase to your Mantra scaling won't increase it's overall damage by a large amount, even at 6 Songchant. Because of this, Songchant is more often taken for the PEN rather than the damage bonus that higher scaling applies.
+-   Increase [Mantra](Mantras.md) **PEN** by 2.5% per point. (Maximum of 15% increase from **PEN**)
+    -   The PEN increase is additive to PEN from other sources.
+-   On [Oath](Oaths.md) and [Monster Mantras](Monster_Mantras.md), instead increase their damage output by 2% per point.
 -   This does NOT affect the scaling on attunement weapons, only Mantras.

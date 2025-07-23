@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 145030
+revid: 153544
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Legs, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, First Layer |
-| description | "..." |
+| description | ... |
 
 ## Description
 

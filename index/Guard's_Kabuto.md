@@ -1,6 +1,6 @@
 ---
 title: "Guard's Kabuto"
-revid: 135097
+revid: 153535
 source: https://deepwoken.fandom.com/wiki/Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items, Equipment, Head]
@@ -22,7 +22,7 @@ categories: [Helmets, Items, Equipment, Head]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, First Layer, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread SerpentFound from:, Artifact Turn-ins |
-| description | "..." |
+| description | ... |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 

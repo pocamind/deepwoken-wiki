@@ -1,6 +1,6 @@
 ---
 title: "Hive Greatlord's Royal Adornment"
-revid: 129741
+revid: 153515
 source: https://deepwoken.fandom.com/wiki/Hive_Greatlord's_Royal_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Hats, Developer Spec, Items]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Head |
 | rarity | Unique |
-| selling price | 100 |
+| selling price | ??? |
 | weight | 1 |
 | innate stats | +10% Health , +5 Posture |
 | innate talent | Ashes on the Fire |
@@ -23,7 +23,7 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | (Unobtainable) |
-| description | "Lol" |
+| description | Lol |
 
 ## Description
 

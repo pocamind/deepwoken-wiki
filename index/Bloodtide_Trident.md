@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 152804
+revid: 153513
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -46,4 +46,4 @@ The critical can be landed at any range but will not affect the pull distance at
 -   At max MED, the weapon deals 26.1 damage, but it becomes 33.9 with bleed.
 -   Prior to the addition of unique critical attacks for the Hallowtide 2023 Weapons, this weapon had the same critical as the [Gremorian Longspear](Gremorian_Longspear.md).
 -   As with all other Hallowtide exclusive weapons, this weapon possesses a special effect upon successfully gripping a humanoid NPC or player, that being a grave appearing along with a [Taco Bell Bell sound](https://www.youtube.com/watch?v=kLvGB3Ol2p4).
--   Some elements of the trident are likely based off of the [Spear of Longinus](https://evangelion.fandom.com/wiki/Spear_of_Longinus) from [Neon Genesis Evangelion](https://evangelion.fandom.com/), whereas the prongs mirror the iconic [Deepwoken](<Deepwoken_(game).md>) logo.
+-   Some elements of the trident are likely based off of the [Spear of Longinus](https://evangelion.fandom.com/wiki/Spear_of_Longinus) from [Neon Genesis Evangelion](https://evangelion.fandom.com/), whereas the prongs mirror the iconic _[Deepwoken](<Deepwoken_(game).md>)_ logo.

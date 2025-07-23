@@ -1,6 +1,6 @@
 ---
 title: Weapons/Editing
-revid: 147262
+revid: 153443
 source: https://deepwoken.fandom.com/wiki/Weapons/Editing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -16,8 +16,8 @@ In order to edit the stats of a weapons, you'll need to make the edits on the te
 
 ## Light Weapons
 
-Daggers: [AllDaggerWeapons2](https://deepwoken.fandom/com/wiki/Template:AllDaggerWeapons2)  
-Fists: [AllFistWeapons2](https://deepwoken.fandom/com/wiki/Template:AllFistWeapons2)  
+Daggers: [AllDaggerWeapons2](https://deepwoken.fandom.com/wiki/Template:AllDaggerWeapons2)  
+Fists: [AllFistWeapons2](https://deepwoken.fandom.com/wiki/Template:AllFistWeapons2)  
 Rapiers: [AllRapierWeapons2](https://deepwoken.fandom.com/wiki/Template:AllRapierWeapons2)  
 Flintlocks: [AllFlintlockWeapons2](https://deepwoken.fandom.com/wiki/Template:AllFlintlockWeapons2)
 
@@ -48,6 +48,7 @@ Bloodrend: [AllBloodrendWeapons2](https://deepwoken.fandom.com/wiki/Template:All
 
 ## Offhands
 
+Offhands: [AllOffhandWeapons](https://deepwoken.fandom.com/wiki/Template:AllOffhandWeapons)  
 Shields: [AllShieldWeapons](https://deepwoken.fandom.com/wiki/Template:AllShieldWeapons)  
 Parrying Daggers: [AllParryingDaggersWeapons](https://deepwoken.fandom.com/wiki/Template:AllParryingDaggersWeapons)  
 Flintlocks: [AllFlintlockWeapons](https://deepwoken.fandom.com/wiki/Template:AllFlintlockWeapons)

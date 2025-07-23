@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 153089
+revid: 153495
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals, Medium Weapons]
@@ -36,7 +36,10 @@ With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Alloyed Vigil Longs
 
 ## Critical
 
-Performs an upward slash in front of the user dealing moderate to high posture damage. This critical has a **5 second** cooldown.
+  
+The user performs an upward slash dealing moderate to high posture damage.
+
+This critical has a **5 second** cooldown.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Grand Pauldrons
-revid: 141339
+revid: 153539
 source: https://deepwoken.fandom.com/wiki/Grand_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests From:Duke Erisia, The Depths (First Layer) |
-| description | "..." |
+| description | ... |
 
 ## Description
 

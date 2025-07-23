@@ -1,6 +1,6 @@
 ---
 title: "Grand Pathfinder's Backpack"
-revid: 137603
+revid: 153540
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Backpack]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Torso, Backpack]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Fort Merit (Very Common), Aratel Island, Minityrsa, Songseeker Wilds, Chime of Conflict, Duke Ishamon Erisia, Maestro Evengarde Rest, Dread Serpent, First Layer, Heart of Enmity, Second Layer, Chaser, War Mode, Primadon |
-| description | "A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels." |
+| description | A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels. |
 
 ## Description
 

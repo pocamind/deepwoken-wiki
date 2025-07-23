@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 141597
+revid: 153523
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Hallowtide]

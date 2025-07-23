@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 145204
+revid: 153440
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -32,9 +32,9 @@ Any weapon with a default critical (excluding Fist weapons) can be used to obtai
 
 There are a few specific weapons that can equip Motifs despite them not being Motif-able themselves. For instance, you can Motif [Whaling Knife](Whaling_Knife.md)'s critical onto the [Tanto](Tanto.md), but you can't apply Tanto's critical to any other weapon. These weapons are:
 
--   [Tanto](Tanto.md) / \[\[Tanto#Alloyed|Template:AlloyedColor\]\]
--   [Gremorian Longspear](Gremorian_Longspear.md) / \[\[Gremorian Longspear#Alloyed|Template:AlloyedColor\]\]
--   [True Seraph Spear](True_Seraph_Spear.md)
+-   Light Weapons: [Needle's Eye](<Needle's_Eye.md>) / [Tanto](Tanto.md) / [Alloyed Tanto](Tanto.md#alloyed)
+-   Medium Weapons: [Gremorian Longspear](Gremorian_Longspear.md) / [Alloyed Longspear](Gremorian_Longspear.md#alloyed) / True Seraph's Spear
+-   Heavy Weapons:
 
 ### 
 
@@ -69,7 +69,7 @@ Daggers
  |
 | 
 
-[Whaling Knife](Whaling_Knife.md) / \[\[Whaling Knife#Alloyed|Template:AlloyedColor\]\]
+[Whaling Knife](Whaling_Knife.md) / [Alloyed Whaling Knife](Whaling_Knife.md#alloyed)
 
  | 
 
@@ -108,7 +108,7 @@ Swords, Spears
  |
 | 
 
-[Cavalry Saber](Cavalry_Saber.md) / \[\[Cavalry Saber#Alloyed|Template:AlloyedColor\]\] / [Officer Saber](Officer_Saber.md) / \[\[Officer Saber#Alloyed|Template:AlloyedColor\]\]
+[Cavalry Saber](Cavalry_Saber.md) / [Alloyed Cavalry Saber](Cavalry_Saber.md#alloyed) / [Officer Saber](Officer_Saber.md) / [Alloyed Officer Saber](Officer_Saber.md#alloyed)
 
  | 
 
@@ -121,7 +121,7 @@ Swords
  |
 | 
 
-[Shotel](Shotel.md) / \[\[Shotel#Alloyed|Template:AlloyedColor\]\]
+[Shotel](Shotel.md) / [Alloyed Shotel](Shotel.md#alloyed)
 
  | 
 
@@ -134,7 +134,7 @@ Swords, Clubs, Twinblades, Spears, Bows
  |
 | 
 
-[Trident Spear](Trident_Spear.md) / \[\[Trident Spear#Alloyed|Template:AlloyedColor\]\] / [Golden Swordfish](Golden_Swordfish.md)
+[Trident Spear](Trident_Spear.md) / [Alloyed Trident Spear](Trident_Spear.md#alloyed) / [Golden Swordfish](Golden_Swordfish.md)
 
  | 
 
@@ -147,7 +147,7 @@ Spears
  |
 | 
 
-[Kyrscleave](Kyrscleave.md) / [Crescent Cleaver](Crescent_Cleaver.md) / \[\[Crescent Cleaver#Alloyed|Template:AlloyedColor\]\] / [The Long Tong of the Law](The_Long_Tong_of_The_Law.md)
+[Kyrscleave](Kyrscleave.md) / [Crescent Cleaver](Crescent_Cleaver.md) / [Alloyed Crescent Cleaver](Crescent_Cleaver.md#alloyed) / [The Long Tong of the Law](The_Long_Tong_of_The_Law.md)
 
  | 
 
@@ -173,7 +173,7 @@ Greathammers
  |
 | 
 
-[Halberd](Halberd.md) / \[\[Halberd#Alloyed|Template:AlloyedColor\]\]
+[Halberd](Halberd.md) / [Alloyed Halberd](Halberd.md#alloyed)
 
  | 
 
@@ -186,18 +186,18 @@ Greataxes, Spears
  |
 | 
 
-Any weapon with a default critical attack (excluding fists)
+Any weapon in the respective weapon class (excluding fists) with a default critical attack
 
  | 
 
 **Light Weapons**:  
-Dagger: [Stiletto](Stiletto.md), Fists: N/A, Gun: [Dawnshot](Dawnshot.md), Rapier: ?
+Dagger: [Stiletto](Stiletto.md), Fists: N/A, Gun: [Dawnshot](Dawnshot.md), Rapier: [Apprentice Rapier](Apprentice_Rapier.md)
 
 **Medium Weapons**:  
-Sword: [Sword](<Sword_(weapon).md>), Spear: ?, Club: ?, Gun: [Dawnshot](Dawnshot.md), Twinblade: [Scalesplitter](Scalesplitter.md), Bow: N/A
+Sword: [Sword](<Sword_(weapon).md>), Spear: [Iron Spear](Iron_Spear.md), Club: [Mace](Mace.md), Gun: [Dawnshot](Dawnshot.md), Twinblade: [Scalesplitter](Scalesplitter.md), Bow: N/A
 
 **Heavy Weapons**:  
-Greataxe: [Battleaxe](Battleaxe.md), Greatsword: [Divine Greatsword](Crazy_Slots.md), Greathammer: ?
+Greataxe: [Battleaxe](Battleaxe.md), Greatsword: [Divine Greatsword](Crazy_Slots.md#weapons), Greathammer: [Pale Morning](Pale_Morning.md)
 
  | 
 
@@ -209,9 +209,9 @@ The weapon class the Motif-ed weapon belongs to
 
 Weapon criticals have their own stats, separate to the weapon they're on. This means that weapon criticals like [Shotel](Shotel.md)'s will **retain their unique properties** when put on another weapon; being Shotel critical's 100% chip damage in this case.
 
-As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. This often removes any additional scaling stats the weapon has, as it entirely **bypasses** any innate scaling. For some motifs like [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md), it can instead add core attribute/elemental scaling to the critical of the weapon you equipped the Motif on.
+As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. This **overrides** your weapon's innate scaling, often removing additional innate scaling stats. For some motifs like [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md), it can instead add core attribute/elemental scaling to the critical of the weapon you equipped the Motif on.
 
-For example: If you had Shotel Motif on Razor Cutlass, your critical would have less medium scaling than normal, making it deal less damage than a no-Motif critical without even taking into account scaled damage multipliers. Or if you put Greatsword Motif on [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), it'd replace the critical's innate Intelligence and Charisma scaling with 12 heavy weapon scaling from [Divine Greatsword](Crazy_Slots.md), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete. This also means Motifs like [Halberd](Halberd.md)'s will scale on heavy weapon investment regardless of what weapon type you put it on.
+For example: If you had Shotel Motif on Razor Cutlass, your critical would have less medium scaling than normal, making it deal less damage than a no-Motif critical without even taking into account scaled damage multipliers. Or if you put Greatsword Motif on [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), it'd replace the critical's innate Intelligence and Charisma scaling with 12 heavy weapon scaling from [Divine Greatsword](Crazy_Slots.md#weapons), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete. This also means Motifs like [Halberd](Halberd.md)'s will scale on heavy weapon investment regardless of what weapon type you put it on.
 
 ## Trivia
 

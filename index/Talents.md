@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 153364
+revid: 153492
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2944,8 +2944,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
 
 -   Umami \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
-    -   Has a chance to proc with a cooldown.
-    -   Acts similarly to and stacks with the Gluttony enchant.
+    -   Has a 35% chance to proc with a 3 cooldown per **proc attempt**, going on cooldown even if it fails to proc.
+    -   Hunger and thirst steal formula is as follows: 1.95 \* ln(D) + 1.075, where D = scaled damage dealt. A calculator is listed [here](https://www.desmos.com/calculator/yktgme7xnc).
+    -   The hunger and thirst steal are NOT affected by damage modifiers or resistances, rather exclusively being based on scaled damage dealt.
+    -   Acts similarly to and stacks additively with the Gluttony enchant.
     -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
     -   Obtained from: [Chef's Toque](<Chef's_Toque.md>)
 
@@ -3732,9 +3734,11 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Your Critical attacks will apply Daze on hit.
     -   For the next 4s after landing your Critical attack, if you were to be hit by any Mantra, you'll automatically dodge the Mantra, voiding its damage. The dodge vfx is similar to [Nautilodaunt's](Nautilodaunt.md) Vent vfx, but it displaces you physically.
     -   13 second cooldown.
--   Umami: [Chef's Toque](<Chef's_Toque.md>) - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
-    -   Has a chance to proc with a cooldown.
-    -   Acts similarly to and stacks with the [Gluttony](Gluttony.md) enchant.
+-   Umami \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
+    -   Has a 35% chance to proc with a 3 cooldown per **proc attempt**, going on cooldown even if it fails to proc.
+    -   Hunger and thirst steal formula is as follows: 1.95 \* ln(D) + 1.075, where D = scaled damage dealt. A calculator is listed [here](https://www.desmos.com/calculator/yktgme7xnc).
+    -   The hunger and thirst steal are NOT affected by damage modifiers or resistances, rather exclusively being based on scaled damage dealt.
+    -   Acts similarly to and stacks additively with the Gluttony enchant.
     -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.03.

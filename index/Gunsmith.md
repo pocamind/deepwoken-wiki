@@ -1,6 +1,6 @@
 ---
 title: Gunsmith
-revid: 92623
+revid: 153527
 source: https://deepwoken.fandom.com/wiki/Gunsmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Guilds]
@@ -13,9 +13,9 @@ categories: [NPCs, Guilds]
 
 ## Overview
 
-The Gunsmith is an NPC, who is found in the Armory of your guild base, and can be hired for. He has the exact same function as [Mag](Mag.md) but inside of your guild base.
+The Gunsmith is an NPC, who is found in the Armory of your guild base, and can be hired for 1,000. He has the exact same function as [Mag](Mag.md) but inside of your guild base.
 
-His main use is to produce [Bullet Casings](Bullet_Casings.md) by converting two hundred Bullets into specialized Bullets using Ores for a price of up to, giving them different properties and playstyles.
+His main use is to produce [Bullet Casings](Bullet_Casings.md) by converting two hundred Bullets into specialized Bullets using Ores for a price of up to 40, giving them different properties and playstyles.
 
 ### Dialogue:
 

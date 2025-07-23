@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 152996
+revid: 153426
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -449,7 +449,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
   <ul>
     <li><i>(Consumed upon usage)</i></li>
   </ul></td>
-  <td>
+  <td><p>Non-exclusive Enchant Stones (most Enchants and Curses):</p>
   <ul>
     <li>Exchange 5 with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
     <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
@@ -459,22 +459,9 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
     <li><a href="War_Mode.md">War Mode</a></li>
     <li><a href="Hell_Mode.md">Hell Mode</a></li>
-  </ul><p>Specific Enchant Stones:</p>
+  </ul><p>Exclusive Enchant Stones (<a href="Astral.md">Astral</a>/<a href="Curse_of_Ysley's_Ember.md">Curse of Rhaemen's Ember</a>/<a href="Curse_of_Void.md">Curse of Void</a>/<a href="Nightbringer.md">Nightbringer</a>/<a href="Parasol's_Blight.md">Parasol's Blight</a>):</p>
   <ul>
-    <li>Astral
-  <ul>
-    <li><a href="Star_Knight.md">Star Knight</a> and <a href="Moon_Knight.md">Moon Knight</a></li>
-    <li><a href="Moon's_Eyrie.md">Moon's Eyrie</a></li>
-    <li><a href="Weird_Trader.md">Weird Trader</a></li>
-    <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 20</li>
-  </ul></li>
-    <li>Curse of Rhamen's Ember
-  <ul>
-    <li><a href="Hive_Construct.md">Hive Constructs</a> and <a href="Rogue_Construct.md">Rogue Constructs</a></li>
-    <li><a href="Primadon,_Titan_of_the_East.md">Primadon</a> and <a href="Elder_Primadon,_The_Titan_Warlord.md">Elder Primadon</a></li>
-    <li><a href="The_Starswept_Valley.md">Starswept Valley</a> Chests</li>
-    <li><a href="Fishing.md">Fishing</a> Chests</li>
-  </ul></li>
+    <li>The obtainment for these items are listed on the <a href="Enchant_Stone.md#exclusive-enchants">Enchant Stone</a> page.</li>
   </ul></td>
 </tr>
 <tr>
@@ -483,7 +470,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
   <ul>
     <li><i>(Consumed upon usage)</i></li>
   </ul></td>
-  <td>
+  <td><p>Non-Exclusive Enchant Grease (most Enchants):</p>
   <ul>
     <li>Exchange 5 with <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></li>
     <li>Exchange 5 with <a href="Laplace.md">Laplace</a></li>
@@ -491,6 +478,9 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
     <li><a href="War_Mode.md">War Mode</a></li>
     <li><a href="Hell_Mode.md">Hell Mode</a></li>
+  </ul><p>Exclusive Enchant Grease (<a href="Environmental_Hazards.md">Rain</a>):</p>
+  <ul>
+    <li>The obtainment for these items are listed on the <a href="Enchant_Grease.md#exclusive-enchants">Enchant Grease</a> page.</li>
   </ul></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Authority Guard (disambiguation)
-revid: 152502
+revid: 153424
 source: https://deepwoken.fandom.com/wiki/Authority_Guard_(disambiguation)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Disambiguations]

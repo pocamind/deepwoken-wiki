@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 153121
+revid: 153476
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -35,7 +35,9 @@ The twinblades contain several wax candles on each end.
 
 ## Critical
 
-Spin the weapon above your head before preforming a slam that lights enemies on fire and deals high posture. During the windup you will move faster.
+The user spins the twinblade around before performing an overhead strike that lights the opponent on fire and deals high posture.
+
+The critical has a cooldown of **7 seconds**.
 
 ## Trivia
 

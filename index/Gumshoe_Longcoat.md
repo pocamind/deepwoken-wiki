@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Longcoat
-revid: 150343
+revid: 153528
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Coats]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests From:, Songseeker Wilds, MinityrsaDropped From:, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

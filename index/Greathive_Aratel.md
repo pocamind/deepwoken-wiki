@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 150273
+revid: 153537
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -87,8 +87,8 @@ Fountain in the Hidden Village
 #### Antiquarian
 
 -   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
--   Cloth is sold here for each.
--   Fiber is sold here for each.
+-   Cloth is sold here for 6 each.
+-   Fiber is sold here for 3 each.
 
 ### Heart Plaza
 
@@ -113,12 +113,12 @@ Honey Pool (Presumably)
 #### Blacksmith
 
 -   Players can find a Blacksmith.
--   Players are able to purchase a [Pickaxe](Pickaxe.md) and [Lumber Axe](Lumber_Axe.md) for each.
+-   Players are able to purchase a [Pickaxe](Pickaxe.md) and [Lumber Axe](Lumber_Axe.md) for 3 each.
 -   A [Crafting Station](Crafting_Station.md) is found right next to the Blacksmith.
 
 #### Inn
 
--   Players can spend to set their spawn point here.
+-   Players can spend 5 to set their spawn point here.
 
 #### Canopy Peak
 
@@ -129,7 +129,7 @@ The most powerful being in the universe rules over his subjects
 #### Observatory
 
 -   Players can find the Celestial Telescope here.
--   Players can buy a [Tourniquet](Training_Gear.md#attunement-training-gears) (BLD), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for.
+-   Players can buy a [Tourniquet](Training_Gear.md#attunement-training-gears) (BLD), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for 25.
 
 #### Balconies
 

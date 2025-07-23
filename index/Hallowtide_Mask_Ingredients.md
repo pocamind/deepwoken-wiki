@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 141594
+revid: 153525
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Hallowtide]
@@ -11,7 +11,7 @@ categories: [Weapons, Items, Hallowtide]
 | Fine Ink | |
 |---|---|
 | type | Quest Item |
-| selling price | 5 Notes |
+| selling price | 5 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
@@ -23,7 +23,7 @@ categories: [Weapons, Items, Hallowtide]
 | Paperette | |
 |---|---|
 | type | Quest Item |
-| selling price | 5 Notes |
+| selling price | 5 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
@@ -35,7 +35,7 @@ categories: [Weapons, Items, Hallowtide]
 | Shell Stock | |
 |---|---|
 | type | Quest Item |
-| selling price | 5 Notes |
+| selling price | 5 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |

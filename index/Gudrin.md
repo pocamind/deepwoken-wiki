@@ -1,6 +1,6 @@
 ---
 title: Gudrin
-revid: 151223
+revid: 153531
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the First Layer, The Divers, The Depths, Reputation]
