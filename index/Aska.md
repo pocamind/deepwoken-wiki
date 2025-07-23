@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 150654
+revid: 153586
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer]
@@ -18,9 +18,9 @@ Template:EnemyInfobox1.0
 
 A [Flamecharm](Flamecharm.md)\-wielding miniboss found in [Firfire](Firfire.md), located in a cave behind three orange [Resonance](Resonance.md) doors. These doors are located under the cliff near the [Kyrsgarde](Kyrsgarde.md) that asks you to sit with him.
 
-Upon meeting the requirements (stated below), you will initiate a fight with him. Upon winning you'll be rewarded with the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will start burning to death until you wipe.
+Upon meeting the requirements (stated below), you will initiate a fight with him. Upon winning you'll be rewarded with the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will burn to death and wipe.
 
-If you do meet the requirements while having the Destined Echo modifier, Aska will still attempt to burn you to death, you will however survive and receive the weapon afterward, skipping the fight.
+If you do meet the requirements while having the Destined Echo modifier, Aska will still attempt to burn you to death, but you will survive and receive the weapon anyway, skipping the fight.
 
 ## Requirements
 
@@ -180,7 +180,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
 -   Aska can potentially glitch you into the wall which could easily cause your death.
     -   A workaround is to make sure to have a mantra with a wayward gem on it.
--   DO NOT attempt to run away for a heal. leaving the boss chamber to heal with cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave layer 2 entirely though [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the Deepdrill.
+-   DO NOT attempt to run away. Leaving the boss chamber to heal will cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave layer 2 entirely though [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the Deepdrill.
 
 ## Trivia
 

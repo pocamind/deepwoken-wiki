@@ -1,6 +1,6 @@
 ---
 title: Aezeroth Kaladin
-revid: 145237
+revid: 153597
 source: https://deepwoken.fandom.com/wiki/Aezeroth_Kaladin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Floor of the Second Layer]
@@ -62,7 +62,6 @@ Aesalath Kalafrid is an NPC found standing before a mysterios device that seems 
 </tr>
 <tr>
   <td colspan="9"><i>*The lanky creature leans in, folding its legs to meet your gaze.*</i> Yes. Our Lord of Gales. We all have our part to play in his plan. You included.</td>
-  <td colspan="3"></td>
 </tr>
 <tr>
   <td colspan="9">End</td>

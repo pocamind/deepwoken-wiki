@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 153221
+revid: 153599
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -55,11 +55,11 @@ Gain Temporary Health which decays overtime. This is gained through the use of c
 
 ### Fight
 
-Gain a 1.5x damage boost. Applied after given the [Vow of Mastery Command: Fight](Vow_of_Mastery.md) is given to you. Signified by a large purple aura covering your character.
+Gain a 20% damage and defense boost. Applied through [Vow of Mastery Command: Fight](Vow_of_Mastery.md); this cannot be self applied. Signified by a large purple aura covering your character.
 
 ### Live
 
-Restore your health to maximum and get up if you are unconscious or below 40%. Applied by the [Vow of Mastery Command: Live](Vow_of_Mastery.md). Signified by a large dark blue aura around your character.
+Restore your health to maximum and get up if you are unconscious. Applied through [Vow of Mastery Command: Live](Vow_of_Mastery.md); this cannot be self applied. Signified by a large dark blue aura around your character.
 
 ### Run
 

@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 153232
+revid: 153587
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -44,7 +44,7 @@ To obtain it, you must gain Friend reputation with [The Hundred Legions](The_Hun
 
 Alternatively, you can do the [legion scout quest](https://deepwoken.fandom.com/wiki/Quests#Lars). This way you will gain enough reputation.
 
-Afterwards you will need to talk to a [Legion Captain](Legion_Captain.md) in the [Starswept Valley](The_Starswept_Valley.md) to obtain the Captain's Rec item, the Legion Captain spawn is very common.
+Afterwards you will need to talk to a [Legion Captain](Legion_Captain.md) in the [Starswept Valley](The_Starswept_Valley.md) to obtain the Captain's Rec item, the Legion Captain spawn is somewhat uncommon.
 
 Afterwards, once you obtain the recommendation, you must go to [The Viper's Jaw](<The_Viper's_Jaw.md>) in [Erisia](Erisia.md) and turn it in to [Amara](Amara.md). This will grant you the Legion Kata Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 

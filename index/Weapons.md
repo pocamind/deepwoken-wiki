@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 153526
+revid: 153583
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -12690,6 +12690,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
     -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md), [Guiding Star](Guiding_Star.md) (12)
     -   Swing Speed: [Divine Flintlock](Crazy_Slots.md) (1.33x)
     -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
+    -   Unique Crits: [Ysley's Pyre keeper](<Ysley's_Pyre_Keeper.md>) (5)
 -   Both of the Rifle Basic Attacks have the same range.
 -   The Aranea was the first item to have an unobtainable stat prerequisite before being turned into the [Guiding Star](Guiding_Star.md).
 -   Rifles are the only weapon type that have four basic m1s before a flourish.

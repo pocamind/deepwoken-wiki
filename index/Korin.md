@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 153315
+revid: 153585
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -16,7 +16,9 @@ categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in 
 
 ## Description
 
-Korin is an [Etrean](Etrean.md) NPC. He is as a lumberjack, and his primary use as an NPC is to increase the player's reputation with [Etris](Etris.md), letting the player easily obtain the [Manor key](Manor_Key.md), which is necessary to access the boss, [Duke Erisia](Duke_Ishamon_Erisia.md).
+Korin is an [Etrean](Etrean.md) lumberjack. When interacted with, he requests 6 wood in order to keep the fires lit. In exchange, the player gains 5 notes and increased [Reputation](Reputation.md) with [Etrea](Etrea.md). He also gives the player a free [Lumber Axe](Lumber_Axe.md) if they do not have one.
+
+Korin offers the easiest way to increase reputation with Etrea, which allows the player to easily obtain the [Manor key](Manor_Key.md). The Manor Key is necessary to access the boss, [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 His counterpart in the [Isle of Vigils](Isle_of_Vigils.md) is [Drefa](Drefa.md).
 
@@ -26,11 +28,11 @@ Korin is located in [Etris](Etris.md), in front of the [Antiquarian](Antiquarian
 
 ## Quest
 
-Upon talking to him, Korin will give the player a free lumber axe if the player does not already have one. He will then ask the player for 6 wood, which when handed to him, will increase the player's reputation with [Etrea](Etrea.md), alongside giving the player 5 notes. This quest can be repeated as many times as the player wants.
+Upon talking to him, Korin will give the player a free lumber axe if the player does not already have one. He will then ask the player for 6 wood, which when handed to him, will increase the player's reputation with [Etrea](Etrea.md), alongside giving the player 5 notes. This quest is repeatable.
 
 ### **Selling Wood**
 
-It is recommended to **BUY THE 2 NOTES WOOD FROM THE [ETRIS](Etris.md) [BLACKSMITH](Blacksmith.md)** area rather than the more costly 5 notes wood from the general store or to chop up trees or picking up sticks and crafting them manually yourself.
+It is recommended to **BUY THE 2 NOTES WOOD FROM THE [ETRIS](Etris.md) [BLACKSMITH](Blacksmith.md)** area rather than the more costly 5 notes wood from the general store. Alternatively, the player can chop up trees or pick up sticks to craft wood.
 
 File:Blacksmith wood price.png
 
@@ -40,13 +42,13 @@ File:General store wood price.png
 
 ..whereas wood costs 5 notes each in the general store.
 
-If starting out with neutral reputation with [Etrea](Etrea.md), the player needs at least ~100 wood to begin the [Duke Erisia](Duke_Ishamon_Erisia.md) quest, which translates to ~200 notes, if the wood is purchased from the blacksmith. While if the player wants to get Hero reputation with [Etrea](Etrea.md), they would need around ~1,000 notes to achieve it, which translates to about ~500 wood or about 10 minutes of buying and selling wood.
+If starting out with neutral reputation with [Etrea](Etrea.md), the player needs at least ~100 wood to begin the [Duke Erisia](Duke_Ishamon_Erisia.md) quest, which translates to ~200 notes, if the wood is purchased from the blacksmith. If the player wants to get Hero reputation with [Etrea](Etrea.md), they would need around ~1,000 notes to achieve it, which translates to about ~500 wood or about 10 minutes of buying and selling wood.
 
 ### Treefelling Blow Quest
 
 If the player has the mantra [Strong Left](Attunement-less.md#strong-left), Korin can give them the quest to obtain the [Treefelling Blow](Talents.md#treefelling-blow) Talent.
 
-As the name implies, this Talent allows the player to get wood by punching down a tree with strong left. Although this can be done without the Talent, you need the Talent to obtain the wood; otherwise, you will have gained nothing.
+As the name implies, this [Talent](Talents.md) allows the player to get wood by punching down a tree with Strong Left. Although trees can be destroyed this way without the Talent, trees will not drop wood unless the player has Treefelling Blow.
 
 ## Dialogue
 

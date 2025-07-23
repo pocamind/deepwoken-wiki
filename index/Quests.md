@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 153034
+revid: 153578
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -156,7 +156,7 @@ Valikor
 
 **Guide**: Talk to the Ganymede NPC [Mime](Mime.md) in the Songseeker Wilds mine. With 20 charisma you will get the mantra.
 
-**Reward/s**: Disguise
+**Reward/s**: [Disguise](Attunement-less.md#disguise)
 
 **Windwaker:**
 
@@ -254,7 +254,7 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Guide**: Talk to [Elykris](Elykris.md) in Minityrsa, he will ask you to find a book in [Outpust Antumbra.](Outpost_Antumbra.md) Return to him after finding it. The quest can also be completed in reverse order by obtaining the book and then speaking to Elykris.
 
-**Reward/s**: 3 Aces, EXP, Curiosity
+**Reward/s**: 2 Aces, EXP, Curiosity
 
 (Note: you can actually softlock this quest by donating this book to librarian in guild base)
 
