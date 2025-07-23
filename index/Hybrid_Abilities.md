@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 153371
+revid: 153642
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -175,6 +175,7 @@ Lightning (Leg Sweep), Fire + Blunt (Uppercut)
 -   Deals moderate damage.
 -   Can apply both Shock and Burning.
 -   Compatible with Surge Path, Eruption Path, Wraith Path, and Azure Flames.
+-   Does \*\*not\*\* proc Meteor Impact.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 153419
+revid: 153627
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -295,8 +295,7 @@ Sold Items
   (Equipment <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For 5 </b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>.</li>
-    <li><b>For 6 </b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
+    <li><b>For 5 </b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -306,21 +305,22 @@ Sold Items
   <ul>
     <li><b>For 1 </b>: <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Glumfig.md">Glumfig</a>.</li>
-    <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
-    <li><b>For 4 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>.</li>
-    <li><b>For 5 </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Forge_Needle.md">Forge Needle</a>.</li>
+    <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>,<a href="Armorer's_Needle.md">Armorer's Needle.</a></li>
+    <li><b>For 4 </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>.</li>
+    <li><b>For 5 </b>: <a href="Forge_Needle.md">Forge Needle</a>.</li>
     <li><b>For 6 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
-    <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Rhaemen's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
+    <li><b>For 8 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
+    <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Rhaemen's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Gilded_Needle.md">Gilded Needle</a> .</li>
     <li><b>For 20 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
-    <li><b>For 100 </b>: <a href="Deepshore_Fossil.md">Deepshore Fossil</a></li>
+    <li><b>For 100 </b>: <a href="Deepshore_Fossil.md">Deepshore Fossil</a>.</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For 4 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>.</li>
-    <li><b>For 5 </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
+    <li><b>For 4 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>.</li>
+    <li><b>For 5 </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>, <a href="Crypt_Blade.md">Crypt Blade</a>.</li>
     <li><b>For 6 </b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>.</li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a>, <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For 10 </b>: <a href="Soulthorn.md">Soulthorn</a>.</li>

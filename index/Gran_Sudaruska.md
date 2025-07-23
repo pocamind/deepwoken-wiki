@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 153548
+revid: 153629
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -16,7 +16,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | scaling | ICE: 8, HVY: 4 |
 | range | 8.5 |
 | swing speed | 0.83x |
-| special effect | Rain down Ice/Crystal Shards after 3 hits, Talks when killing Ministry NPCs or Contractors, Critical freezes and uppercuts enemy upon connection (Plants Crystals if the player has Glass Path: Crystallization) |
+| special effect | Rain down Ice/Crystal Shards after 3 hits, Talks when killing Ministry NPC's, Contractors or users of Prophet's Cloak, Critical freezes and uppercuts enemy upon successfully landing (Plants Crystals if the player has Glass Path: Crystallization) |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 6 |

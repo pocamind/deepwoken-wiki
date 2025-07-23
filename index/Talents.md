@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 153596
+revid: 153631
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -837,6 +837,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.
     -   Guardbreaking a chilled opponent with a weapon attack will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time.
+    -   If the guardbreaking attack were to do bleed damage (ex. Speed Demon) the freeze will end early.
     -   You can spam F to get out of Freeze faster.
     -   Prerequisite: 60 Frostdraw.
 

@@ -1,6 +1,6 @@
 ---
 title: Thresher Egg
-revid: 147047
+revid: 153633
 source: https://deepwoken.fandom.com/wiki/Thresher_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Alchemy]
@@ -30,6 +30,8 @@ notices:
 ## Description
 
 Thresher Egg is an [ingredient](Ingredients.md) what is used in [Sordino's](Sordino.md) quest, which requires 3 of them. Probably contains the unborn offspring of Threshers.
+
+It cannot be used as an alternative to [eggs](Egg.md) when it comes to making food.
 
 ## Obtainment
 

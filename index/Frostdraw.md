@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 153619
+revid: 153644
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -467,7 +467,7 @@ Ice
 -   Deals 1.4 posture damage per projectile.
 -   The Blast Spark variant deals 3 posture damage per shuriken explosion, massively increasing the overall posture damage.
 -   Has 9.187x PvE scaling (multiply scaled damage dealt by 9.187 for PvE damage).
--   Inflicts Chill for 9 seconds. The Chill duration can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Inflicts Chill for 9 seconds. The Chill duration CANNOT be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Can be modified with [Drift](Mantra_Modifiers.md) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) to massively increase the projectile speed. At max modifiers, the projectiles become entirely unreactible.
 -   Casting the Mantra while standing on ice will summon more projectiles. However, this is currently bugged.
 -   The [Magnet Spark](Mantra_Modifiers.md#sparks) variant lowers the projectile count by 2/3rds, but allows for a teleporting followup hit that fires three shuriken towards your opponent. You must land some, but also miss some of your shuriken for the followup to trigger. This does not happen often due to this Mantra autotracking and moving very fast, especially when modified.
