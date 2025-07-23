@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 152406
+revid: 153611
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
 
 The Pastry Paster is a Club with a very odd diversity of stat requirements: 70 MED, 15 CHA, 15 INT. It appears to be a rolling pin which is supposed to be in the kitchen, until you wielded it as a deadly weapon.
 
-The Pastry Paster can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a 10% chance to drain hunger from your opponent on hit.
+The Pastry Paster can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a 35% chance to drain to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc. This stacks additively with [Gluttony](Gluttony.md).
 
 ## Critical
 

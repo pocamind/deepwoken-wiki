@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 152392
+revid: 153608
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons", Light Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weap
 
 Twin spatulas somehow used as a weapon.
 
-The Flippers of Fate can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a 10% chance to drain hunger from your opponent on hit.
+The Flippers of Fate can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a 35% chance to drain to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc. This stacks additively with [Gluttony](Gluttony.md).
 
 ## Critical
 

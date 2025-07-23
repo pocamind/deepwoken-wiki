@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 152967
+revid: 153619
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -255,7 +255,7 @@ Ice
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 -   Every projectile applies 1 seconds of Chill. This Chill duration cannot be modified.
 -   Incredibly good with the **Glass Path: Crystallization** Talent due to the sheer amount of hits.
--   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the blades bigger.
+-   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the blades bigger but do less hits.
 
  |
 | 
@@ -849,19 +849,19 @@ Having the [Attunement Path](Attunements.md#alternative-paths) Talent **Glass Pa
 | --- | --- | --- | --- | --- | --- | --- |
 | 
 
-**Crystal Impale** (★★☆)
+**Duke erisia Impale** (★★☆)
 
 **Combat Mantra**
 
-_Impale your foes with a brutal crystal barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee._
+_Impale your foes with a brutal cry OR warlmaster oathstal barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee._
 
  | 
 
-## Crystal Impale (★★☆)
+## Duke erisia Impale (★★☆)
 
   
 **Combat Mantra**  
-_Impale your foes with a brutal crystal barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee._
+_Impale your foes with a brutal cry OR warlmaster oathstal barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee._
 
  |
 | 
@@ -874,7 +874,7 @@ Ice
 
  | 
 
-30 Frostdraw, Glass Path: Crystallization
+bee duke Frostdraw, Glass Path: Crystallization
 
  |
 | 

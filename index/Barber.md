@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 150466
+revid: 153602
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -24,9 +24,66 @@ The **Barber** is an NPC that allows customization to your character. They can c
 
 ## Dialogue
 
-"Hey friend, need a new style?" (Opens shop UI)
+<table>
+<tbody>
+<tr>
+  <td colspan="16">Begin</td>
+</tr>
+<tr>
+  <td colspan="16">Hey friend, need a new style?</td>
+</tr>
+<tr>
+  <td colspan="8">Could you remove some of my dyes?</td>
+  <td colspan="8">How are you able to do all of this stuff?</td>
+</tr>
+<tr>
+  <td colspan="8">Sure, what would you like removed?</td>
+  <td colspan="4">Player doesn't have an Oath</td>
+  <td colspan="4">Player has Fadetrimmer</td>
+</tr>
+<tr>
+  <td colspan="8">Player removes a dye</td>
+  <td colspan="4">I took an <a href="Glossary.md#oaths">Oath</a> as a Fadetrimmer.</td>
+  <td colspan="4"><i>*They look at you, puzzled.*</i> I see those scissors. You can't fool me, sibling of the fade.</td>
+</tr>
+<tr>
+  <td colspan="8">Okay! All done!</td>
+  <td colspan="4">...A Fadetrimmer?</td>
+  <td colspan="4">End</td>
+</tr>
+<tr>
+  <td colspan="8">What else can you offer?</td>
+  <td colspan="4">Yeah. We're a pretty underground <a href="Glossary.md#oaths">Oath</a>. You probably haven't heard of us.</td>
+</tr>
+<tr>
+  <td colspan="8">Fancy anything?</td>
+  <td colspan="4">...Can I take the Oath?</td>
+</tr>
+<tr>
+  <td colspan="4">Could you remove some of my dyes?</td>
+  <td colspan="4">How are you able to do all of this stuff?</td>
+  <td colspan="2">Player meets requirements</td>
+  <td colspan="2">Player doesn't meet requirements</td>
+</tr>
+<tr>
+  <td colspan="8">[See first instance.]</td>
+  <td colspan="2"><i>*They think a little bit.*</i> You know.. I <i>am</i> getting pretty tired of cutting your hair. Sure, why not. If you swear the words, the scissors will manifest. They never dull - pretty convenient, right?</td>
+  <td colspan="2"><i>*They look you up and down.*</i> Not with that get-up you can't.</td>
+</tr>
+<tr>
+  <td colspan="8"></td>
+  <td colspan="2">[Swear the words]</td>
+  <td colspan="2">End</td>
+</tr>
+<tr>
+  <td colspan="8"></td>
+  <td colspan="2">End</td>
+  <td colspan="2"></td>
+</tr>
+</tbody>
+</table>
 
-### Shop UI
+## Shop UI
 
 Style Pro Bono
 
@@ -55,25 +112,6 @@ The Top Shelf
 </tr>
 </tbody>
 </table>
-
-### Main dialogue
-
--   1\. Could you remove some of my dyes? (Only appears if you're wearing something dyed)
--   2\. How are you able to do all of this stuff?
-    -   Barber: "I took an oath as a Fadetrimmer." (Continues)
-    -   1\. "...A Fadetrimmer?"
-        -   Barber: "Yeah. We are a pretty underground Oath. You probably haven't heard of us." (Continues)
-        -   1\. "...Can I take the Oath?"
-            -   Barber: "\*_They look at you up and down._\* Not with that get-up you can't." (if without meeting the requirements)
-
-### If you're wearing something dyed
-
--   1\. Could you remove some of my dyes?
-    -   Barber: "Sure, what would you like removed?" (Continues)
-    -   \[List of dyed items\]
-        -   Barber: "Okay! All done!" (Continues)
-        -   1\. What else can you offer?
-            -   (Back to main dialogue)
 
 ## Trivia
 

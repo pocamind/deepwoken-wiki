@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 153598
+revid: 153603
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -159,7 +159,7 @@ Dialogue: [Aelita](Aelita.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Books: 
 -   An extension of the Song brought about by swearing a Vow to oneself.
 -   By expanding upon the Song and incorporating a self-sworn Vow in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
-Dialogue: [Cerulean](Cerulean.md) | Books: | Glossary Entries:
+Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md) | Books: | Glossary Entries:
 
 ### The Song
 

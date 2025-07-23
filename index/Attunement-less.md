@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 153169
+revid: 153613
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -48,6 +48,8 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 ### Mantra Damage Calculation
 
 The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page.
+
+  
 
 ## Attribute Mantras
 
@@ -173,6 +175,8 @@ Blunt
 -   The user may cancel the barrage at any point during it by pressing their feint key.
 -   Victims struck by the last punch are pushed away.
 -   360 degree blockable.
+-   Can be modified with lenses to increase the initial dash distance.
+-   Can be modified with vibrant gems to increase the destructiveness to the environment, unknown what else.
 
  |
 | 
@@ -907,7 +911,8 @@ N/A
 -   Upgrading the Mantra decreases its cooldown by 2.5s per level.
     -   15/12.5/10/7.5/5 second cooldown per level.
 -   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
--   If not moving, you instead teleport towards the direction you're facing. You'll also teleport a smaller distance.
+-   If not moving, you instead teleport towards the direction you're facing.
+-   The distance teleported is based off of your current movement speed. Standing still teleports you the smallest distance, walking - a small distance, running - a greater distance, running w/ a speedboost - the greatest distance.
 -   For ~2.5s after teleporting, all fall damage is negated.
 -   Shares a cooldown with [Flame Leap](Flamecharm.md#flame-leap) and [Strong Leap](Attunement-less.md#strong-leap).
 

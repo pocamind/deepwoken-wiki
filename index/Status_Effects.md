@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 153599
+revid: 153601
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -79,7 +79,7 @@ Gain 60% damage reduction for 2 seconds after dodging an attack. This damage red
 
 ### Flame of Denial
 
-Upon casting [Flame of Denial](Flamecharm.md#flame-of-denial), gain a status effect that prevents one instance of lethal damage for 30 seconds. When lethal damage is prevented, heal 2-10% of your maximum health scaling on Mantra level. The healing is increased by 20% if the caster has the [Azure Flames](Talents.md#flamecharmer) Talent. Also negates all burn damage when at ~1% HP. Signified by a pulsing light on your chest.
+Upon casting [Flame of Denial](Flamecharm.md#flame-of-denial), gain a status effect that prevents one instance of lethal damage for 30 seconds. When lethal damage is prevented, heal 12-20% of your maximum health scaling on Mantra level. The healing is increased by 10% if the caster has the [Azure Flames](Talents.md#flamecharmer) Talent. Also negates all burn damage when at ~1% HP. Signified by a pulsing light on your chest.
 
 ### Warding Radiance
 
@@ -103,7 +103,7 @@ Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have yo
 
 ### Engulfed by Shadows
 
-Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your weapon damage by 20-25%, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md) on the mantra. Signified by a dark aura emanating from your character.
+Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your weapon damage by 20-25%, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) on the Mantra (caps at 3). Signified by a dark aura emanating from your character.
 
 ### Ghastly Mobility
 
