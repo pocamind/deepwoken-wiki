@@ -1,6 +1,6 @@
 ---
 title: Eyeglasses
-revid: 107426
+revid: 153691
 source: https://deepwoken.fandom.com/wiki/Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Glasses]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Minityrsa, Songseeker Wilds |
-| description | "..." |
+| description | ... |
 
 ## Description
 

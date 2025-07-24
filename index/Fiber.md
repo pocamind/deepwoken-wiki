@@ -1,6 +1,6 @@
 ---
 title: Fiber
-revid: 148580
+revid: 153679
 source: https://deepwoken.fandom.com/wiki/Fiber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -18,7 +18,7 @@ categories: [Items, Craftable, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A small gathering of natural fibers. |
-| obtainment | Bought for from every vendor., Crafting together two (2) Bamboo Bundles or Marram Grass. |
+| obtainment | Bought for 3 from every vendor., Crafting together two (2) Bamboo Bundles or Marram Grass. |
 
 **Fiber** is an essential resource used to craft [Outfits](Outfits.md) and other tools.
 
@@ -26,7 +26,7 @@ categories: [Items, Craftable, Ingredients]
 
 Fiber can be can be obtained in a few ways:
 
--   Bought for from every vendor.
+-   Bought for 3 from every vendor.
 -   Crafting together two (2) [Bamboo Bundles](Bamboo_Bundle.md) or [Marram Grass](Marram_Grass.md).
 
 ## Uses
@@ -49,25 +49,25 @@ Fiber can be sold from the following locations:
 
 The fiber at the [Etris](Etris.md) [Blacksmith](Blacksmith.md) is located outside near [Pori](Pori.md).
 
--   Costs.
+-   Costs 3.
 
 **General Store:**
 
 The fiber at the Etris General Store is located on a table.
 
--   Costs.
+-   Costs 3.
 
 **Isle of Vigils:**
 
 The fiber at the [Isle of Vigils](Isle_of_Vigils.md) is located on a table near the Blacksmith.
 
--   Costs.
+-   Costs 3.
 
 **Voidheart:**
 
 The fiber at the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
 
--   Costs.
+-   Costs 3.
 -   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
 
 **Eastern Luminant:**
@@ -76,7 +76,7 @@ The fiber at the [Voidheart](Voidheart.md) is located on a table near the [Antiq
 
 The fiber at [Fort Merit](Fort_Merit.md) is located on a crate in the same building as the [Cauldron](Cauldron.md).
 
--   Costs.
+-   Costs 3.
 
 (The building the fiber is located in.)
 
@@ -84,19 +84,19 @@ The fiber at [Fort Merit](Fort_Merit.md) is located on a crate in the same build
 
 The fiber at [Greathive Aratel](Greathive_Aratel.md) is located on a bookshelf near the Antiquarian in the [Root Plaza](Greathive_Aratel.md#root-plaza).
 
--   Costs.
+-   Costs 3.
 
 **Miner's Landing:**
 
 The fiber at [Miner's Landing](<Miner's_Landing.md>) is located on top of a crate next to the Antiquarian.
 
--   Costs.
+-   Costs 3.
 
 **Summer Isle:**
 
 The fiber at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's Pawn.
 
--   Costs.
+-   Costs 3.
 
 **First Layer:**
 
@@ -104,7 +104,7 @@ The fiber at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's
 
 The fiber at [Castle Light](Castle_Light.md) is located on the second floor near the [Instruments](Instruments.md).
 
--   Costs
+-   Costs 3
 
 ## Trivia
 

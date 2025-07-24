@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 153603
+revid: 153699
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -60,7 +60,7 @@ Dialogue: | Books: | Glossary Entries: [The Citadel of Markor](#the-citadel-of-m
 -   Their gales are said to drag even Time itself into their wake.
 -   Thought to preside over the Second Layer, granting it the moniker of 'The Eternal Gale'.
 
-Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md) | Books: | Glossary Entries: [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
+Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) | Books: | Glossary Entries: [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 ### Krulians
 
@@ -98,7 +98,7 @@ Dialogue: [Kressa](Kressa.md), [Scope](Scope.md) | Books: | Glossary Entries: [T
 -   The organization is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
 -   The widely used epoch of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
-Dialogue: | Books: | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) | Books: | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ## Notable Figures
 
@@ -169,7 +169,7 @@ Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md) | Books: | Glossary Entr
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilization \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods)
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Regek](Regek.md) | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods)
 
 ### Radiant Tones
 
@@ -220,7 +220,7 @@ Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm), [The Song](#th
 -   The times before the [Tides](#the-tides) arrived.
 -   The Canticlysm is often thought of as the defining era of the Old World.
 
-Dialogue: | Books: | Glossary Entries: [The Luminants](#the-luminants)
+Dialogue: [Regek](Regek.md) | Books: | Glossary Entries: [The Luminants](#the-luminants)
 
 ## Phenomena
 
@@ -287,7 +287,7 @@ Dialogue: | Books: | Glossary Entries: [The Central Luminant](#the-central-lumin
 -   In order to secure safe passage through the [Voidsea](#the-voidsea), the work of a [Lightkeeper](#lightkeep) is required.
 -   Today, there are broadly considered to be 5 Luminants: the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kressa](Kressa.md), [Neero](Neero.md), and [Nimea](Nimea.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
 
 ### The Southern Luminant
 
@@ -398,7 +398,7 @@ Dialogue: | Books: | Glossary Entries:
 -   An expeditionary organization stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
 -   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
-Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
+Dialogue: [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
 ### Pathfinders
 

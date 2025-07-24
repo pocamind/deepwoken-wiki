@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 153644
+revid: 153663
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -39,12 +39,12 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Frostdraw, players receive the _Expert Frostdrawer_ Talent allowing the player to obtain 2-star Frostdraw Mantras.
 -   Finally, at 50 Frostdraw, players receive the _Master Frostdrawer_ Talent, allowing them to obtain 3-star Frostdraw Mantras.
 
-[Nell](Nell,_Master_of_Frost.md) can upgrade Frostdraw Mantras for each. Each upgrade purchased will make the next upgrade for the same Mantra more expensive.
+[Nell](Nell,_Master_of_Frost.md) can upgrade Frostdraw Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
--   Upgrading a Frostdraw Mantra from level 1 to level 2 costs and requires 20 Frostdraw investment.
--   Upgrading a Frostdraw Mantra from level 2 to level 3 costs and requires 40 Frostdraw investment.
--   Upgrading a Frostdraw Mantra from level 3 to level 4 costs and requires 60 Frostdraw investment.
--   Upgrading a Frostdraw Mantra from level 4 to level 5 costs and requires 80 Frostdraw investment.
+-   Upgrading a Frostdraw Mantra from level 1 to level 2 costs 100 and requires 20 Frostdraw investment.
+-   Upgrading a Frostdraw Mantra from level 2 to level 3 costs 200 and requires 40 Frostdraw investment.
+-   Upgrading a Frostdraw Mantra from level 3 to level 4 costs 300 and requires 60 Frostdraw investment.
+-   Upgrading a Frostdraw Mantra from level 4 to level 5 costs 400 and requires 80 Frostdraw investment.
 
 Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
 
@@ -386,6 +386,7 @@ Ice
 -   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
 -   If used in water, the daggers won't spawn.
 -   Can grant an additional effect with the _Frozen Pin-Cushion_ Talent, which freezes the target or detonates their crystals upon hit.
+-   Can be modified with [Crystal](Mantra_Modifiers.md) and [Perfect Lenses](Mantra_Modifiers.md) to increase the range of casting the Mantra.
 
  |
 | 

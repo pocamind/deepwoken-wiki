@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 153575
+revid: 153665
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -277,8 +277,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:NewVampirismVFX.gif<figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
-  <td><div><p>Adds <a href="Status_Effects.md#temporary-health">Temporary Health</a> for 20% of damage dealt (capped to 100 temp hp at a time), and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.<br>
-  The healing is not affected by PVE Scaling.</p></div></td>
+  <td><div><p>20% of all weapon damage dealt (unaffected by PvE scaling) is transferred into <a href="Status_Effects.md#temporary-health">Temporary Health</a> for yourself, and your weapon attacks additionally restore your blood. Vampirism caps at 100 Temporary Health and cannot grant Temp HP past this threshold.</p>
+  <p>This Enchantment is less effective against <a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser</a> and <a href="Primadon,_Titan_of_the_East.md">Primadon</a>, and almost entirely nullified against the <a href="Scion_of_Ethiron.md">Scion of Ethiron</a>.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>
 <tr>
@@ -575,8 +575,13 @@ Multiplicity
 
  | 
 
-On proc, recover health, hunger, thirst, blood, or gain damage reduction. Has a cooldown of 5 seconds. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
-Chance to proc 25%
+Multiplicity has a 20% chance to proc when you get hit from a weapon attack. On proc, recover health, restore your sustenance meters, or gain an agility bonus, each of these effects have an equal chance to proc, meaning each individual effect has a 6.6% chance to be procced when you get hit. Multiplicity has a **5 second cooldown**.
+
+On health recovery: Restore 1.5% of your maximum health. This is **applied** after Anti-Heal on the same attack (meaning it could be nullified entirely), but **before** damage is taken, possibly saving you from being knocked.
+
+On sustenance restoration: Restore 20% of your maximum blood and 11% of your maximum hunger & thirst.
+
+On agility bonus: Increase your climb height by 15% for 5 seconds.
 
 **DOESNT WORK ON MOBS, ONLY HUMANOIDS**
 
@@ -592,13 +597,13 @@ Rain
 
  | 
 
-On proc, create a rain cloud above your head.
+On proc, create a rain cloud above your head. 60 second cooldown.
 
 This rain cloud functions as normal rain, debuffing [Flamecharm](Flamecharm.md) abilities by 10%, increasing [Thundercall](Thundercall.md) (if you have the [Stratoshock](Talents.md#thundercaller) Talent) and Storm Enchantment's damage, and increasing the damage of your [Frostdraw](Frostdraw.md) abilities if it's Winter.
 
 If you have the **Chilling** Enchantment on your weapon, or if it's [Winter](Seasons.md), create snow instead.
 
-If you have **Stench** on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead.
+If you have **Stench** on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead. This will damage yourself and all players in its AoE, however you will become immune to the damage it deals if you have the [Survivalist](Boons_and_Flaws.md#boons) Boon.
 
 **This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
 

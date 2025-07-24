@@ -1,6 +1,6 @@
 ---
 title: Fauld of Enmity
-revid: 148495
+revid: 153684
 source: https://deepwoken.fandom.com/wiki/Fauld_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Items, Torso]
@@ -22,7 +22,7 @@ categories: [Equipment, Items, Torso]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:Void Walker Bounties.Heart of Enmity |
-| description | "The titanic fauld of Enmity, a grim relic said to be woven from human hair, like some kind of sick trophy, each strand steeped in the anguish and malice of its former owners." |
+| description | The titanic fauld of Enmity, a grim relic said to be woven from human hair, like some kind of sick trophy, each strand steeped in the anguish and malice of its former owners. |
 
 ## Description
 

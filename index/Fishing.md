@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 148211
+revid: 153676
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -14,7 +14,7 @@ notices:
 
 ## How to Fish
 
-To fish, first craft or purchase a Fishing Rod. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can purchase a Fishing Rod for at the [Etris Docks](Etris_Docks.md) and the house at the base of the tall island between the [Isle of Vigils](Isle_of_Vigils.md) and [Etrea](Etrea.md), or for from a fishing pond room in a Guild Base.
+To fish, first craft or purchase a Fishing Rod. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can purchase a Fishing Rod for 30 at the [Etris Docks](Etris_Docks.md) and the house at the base of the tall island between the [Isle of Vigils](Isle_of_Vigils.md) and [Etrea](Etrea.md), or for 35 from a fishing pond room in a Guild Base.
 
 The next step to fishing is to cast your line into either the sea or a fishing pond. After a while, you will get a bite, and your character will begin leaning in a certain direction. You must hold the key that is displayed on your screen. This will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. You can tell when the fish is almost caught/escaped when the circle is almost completely closed. you will catch the fish when the fish icon reaches the border.
 

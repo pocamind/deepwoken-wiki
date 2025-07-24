@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 145972
+revid: 153704
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -51,7 +51,7 @@ Ganymedes are a snail-based aspect in Deepwoken that appear with dark skin, abno
 
   
 
-Aeons ago, a long extinct species faced a cultural schism in response to the rising tides. Those Talented few blessed with the art of Lifeweave vowed to turn their backs to the tides and grow great living hives above the ocean, becoming what the modern world knows as [Vesperians](Vesperian.md). However, a minority decided to instead embraced the coming waves, sinking to the deep and settling in as its latest drowned inhabitants. These adventurous folk became our modern Ganymedes.
+Aeons ago, a long extinct species faced a cultural schism in response to the rising tides. Those Talented few blessed with the art of Lifeweave vowed to turn their backs to the tides and grow great living hives above the ocean, becoming what the modern world knows as [Vesperians](Vesperian.md). However, a minority decided to instead embrace the coming waves, sinking to the deep and settling in as its latest drowned inhabitants. These adventurous folk became our modern Ganymedes.
 
 Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperians](Vesperian.md) fight against [The Depths](The_Depths.md), the Ganymedes adapt to it. However, both of them are considered "weird" and outcasted by other aspects.
 

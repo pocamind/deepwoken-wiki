@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 151524
+revid: 153687
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]

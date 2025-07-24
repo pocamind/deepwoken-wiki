@@ -1,6 +1,6 @@
 ---
 title: Fishing Rod
-revid: 148583
+revid: 153675
 source: https://deepwoken.fandom.com/wiki/Fishing_Rod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -15,7 +15,7 @@ categories: [Items, Tools, Craftable]
 | droppable | No |
 | pass down | No |
 | desc | Cast out to sea to catch fish. |
-| obtainment | Bought for or depending on the vendor., Crafting with two (2) Sticks and one (1) Fiber at a Crafting Station. |
+| obtainment | Bought for 30 or 35 depending on the vendor., Crafting with two (2) Sticks and one (1) Fiber at a Crafting Station. |
 
 The **Fishing Rod** is a tool used to cast lines into most bodies of water for fish, treasure, and even monsters.
 
@@ -23,7 +23,7 @@ The **Fishing Rod** is a tool used to cast lines into most bodies of water for f
 
 The Fishing Rod can be obtained in a few ways:
 
--   Bought for or depending on the vendor.
+-   Bought for 30 or 35 depending on the vendor.
 -   Crafting with two (2) [Sticks](Stick.md) and one (1) [Fiber](Fiber.md) at a [Crafting Station](Crafting_Station.md).
 
 ## Uses
@@ -42,7 +42,7 @@ The Fishing Rod can be sold from the following locations:
 
 The Fishing Rod at [Etris](Etris.md) is located in [Argo's](Argo.md) Fishing Shop at the docks.
 
--   Costs.
+-   Costs 35.
 
 (The building the Fishing Rod is located in.)
 
@@ -50,7 +50,7 @@ The Fishing Rod at [Etris](Etris.md) is located in [Argo's](Argo.md) Fishing Sho
 
 The Fishing Rod in the Etrean Sea is located on a seperate island near [Lower Erisia](Lower_Erisia.md) inside of [Mortus's](Mortus.md) Fishing Hut.
 
--   Costs.
+-   Costs 30.
 
 (The island and hut the Fishing Rod is located at.)
 
@@ -58,5 +58,5 @@ The Fishing Rod in the Etrean Sea is located on a seperate island near [Lower Er
 
 The Fishing Rod in a [Guild Base](Guild_Bases.md) is located in the fishing room on a shelf.
 
--   Costs.
+-   Costs 35.
 -   The Guild Base can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by using a [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md).

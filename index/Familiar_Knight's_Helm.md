@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Helm"
-revid: 142415
+revid: 153686
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Hallowtide |
-| description | "A familiar helm said to have been passed down by a wayward line of a distant land." |
+| description | A familiar helm said to have been passed down by a wayward line of a distant land. |
 
 ## Description
 

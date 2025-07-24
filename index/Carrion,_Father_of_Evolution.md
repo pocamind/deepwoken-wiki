@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 141854
+revid: 153702
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2, Floor 2, Floor 1]
@@ -16,11 +16,159 @@ Carrion, referred to as the Father of Evolution is a Black Diver and master alch
 
 Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eyes, a result of using himself to test a prototype of the Moonseye Vigour potion, which also drove him insane. He resides in Great Library of [New Kyrsa](Second_Layer/New_Kyrsa.md). He can be found at the end of the library puzzle, next to an obelisk. _Once you talk with him there_, he will then appear in [Castle Light](Castle_Light.md) in the library room with the antiquarian and banker. There he can teach you the various monster mantras if you have the materials for them. Despite being a Black Diver, he is more of a scientist than a fighter. His goal is to perfect the Moonseye Vigour which he will use to 'transcend' everyone, by force if necessary.
 
-### Untarnishing
+## Dialogue
+
+**New Kyrsa:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*You can barely make out the sounds of laughter as you approach.*</i> Oh? Salutations! It looks like as if you finally arrived.</td>
+</tr>
+<tr>
+  <td colspan="6">Huh?</td>
+</tr>
+<tr>
+  <td colspan="6">Well I can only assume Klaris and her little brigade were on their way here, unless you work for someone else? That would be quite a twist!</td>
+</tr>
+<tr>
+  <td colspan="3">I work for Klaris.</td>
+  <td colspan="3">I work for no one.</td>
+</tr>
+<tr>
+  <td colspan="3"><i>*He lets out an audible sigh.*</i>. [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] How disappointing.. Well get going then, <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> is sure to wake momentarily. <a href="Glossary.md#the-divers">Divers</a> are all the same now, all work and no passion.</td>
+  <td colspan="3"><i>*He lets out an audible sigh.*</i> Lying now are we? Do you think I was born yesterday? Well, wouldn't that be funny? Could you imagine talking to a self aware baby down in the depths of a horrible city built to an unknowable god? Incredible.</td>
+</tr>
+<tr>
+  <td colspan="4">Ethiron is waking momentarily?!</td>
+  <td>Real funny man.</td>
+  <td>I need help.</td>
+</tr>
+<tr>
+  <td colspan="4">I really must be getting old, it slipped my mind that no one has been to this City in decades. The egg hatches soon, little diver. The wails of the screaming child born under the snow will bring it all crashing down. <b>ANYWAY</b>, do you happen to have any rare monster parts?</td>
+  <td>Tehehehehe. That's the spirit! Now, if you happen to be in the area with some rare monster parts, then you be sure to let me know.</td>
+  <td>No no no. NO. I am not about to get caught up in the affairs of Klaris and her little superhero group. I want nothing to do with stopping <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> or anything of that nature. Look, you went toe to toe with Chaser. He's probably one of the strongest <a href="Glossary.md#the-divers">Divers</a> that the <a href="Glossary.md#the-citadel-of-markor">Citadel</a> has ever produced, save [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] for Akira and Klaris. You have this completely under control... probably. Anyway, if you ever happen to find some rare monster parts, you be sure to bring them to me.</td>
+</tr>
+<tr>
+  <td colspan="4">Don't you care the world is ending?</td>
+  <td>End</td>
+</tr>
+<tr>
+  <td colspan="4"><i>*He looks at you with a puzzled expression.*</i> No? Should I be? That's what you're here for after all, correct? <i>*His mouth twitches into a smile momentarily and just as soon back to a puzzling frown. You can sense that man is cackling internally, laughing at your expense.*</i></td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Tehehe. Better get going little <a href="Glossary.md#the-divers">Diver</a>...</td>
+</tr>
+<tr>
+  <td>What's your name?</td>
+</tr>
+<tr>
+  <td><i>*He pauses as if giving the question some thought.*</i> You can call me.... Dr. <a href="Glossary.md#the-divers">Diver</a>. <i>*He says looking at you, grinning from eat to ear.*</i></td>
+</tr>
+<tr>
+  <td>I mean a real name.</td>
+</tr>
+<tr>
+  <td>What makes a name real or fake? If it's what I want you to call me, then who are you to say that my name isn't real? The manners of surface dwellers haven't improved with time I see.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Castle Light:**
+
+**Monster Mantras:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*You can barely make out the sounds of laughter as you approach*.</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh? Salutations! Klaris and I have been getting on just grand. I guess we're friends now!</td>
+</tr>
+<tr>
+  <td colspan="8">Think you can do something with the monster parts I've collected?</td>
+</tr>
+<tr>
+  <td colspan="8">Oh wonderful, what do you have? I can only work with the ones I'm familiar with.</td>
+</tr>
+<tr>
+  <td>I have a <a href="Broken_Gatling_Gun.md"><font>broken gatling gun</font></a>...?</td>
+  <td>I have the <a href="Terrapod_Shell.md"><font>hardened shell of a Terrapod</font></a>.</td>
+  <td>I have the <a href="Nautilodaunt_Beak.md"><font>hidden beak of a Nautilodaunt</font></a>.</td>
+  <td>I have the <a href="Megalodaunt_Coral.md"><font>back coral of a Megalodaunt</font></a>.</td>
+  <td>I have a <a href="Dread_Serpent's_Tooth.md"><font>tooth prised from a Dread Serpent's mouth</font></a>.</td>
+  <td>I managed to retrieve this <a href="Giant_Femur.md"><font>strange bone from a Bonekeeper</font></a>.</td>
+  <td>I have the <a href="Thresher_Talon.md"><font>talon of a Thresher</font></a>.</td>
+  <td>I found what appears to be an <a href="Enforcer_Eye.md"><font>Enforcer's eye</font></a>.</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*With surprising ferocity, they snatch the ingredient from your hand and begin crushing it into a fine dust. In the blink of an eye, they scatter it in your face, prompting you to cough.*</i> Heheh! Try that. Let me know if it works.</td>
+</tr>
+<tr>
+  <td>[Grants <a href="Monster_Mantras.md#mecha-gatling"><font><u>Mecha Gatling</u></font></a> Mantra]</td>
+  <td>[Grants <a href="Monster_Mantras.md#whirling-blade"><font><u>Whirling Blade</u></font></a> Mantra]</td>
+  <td>[Grants <a href="Monster_Mantras.md#abyssal-ridge"><font><u>Abyssal Ridge</u></font></a> Mantra]</td>
+  <td>[Grants <a href="Monster_Mantras.md#coral-spear"><font><u>Coral Spear</u></font></a> Mantra]</td>
+  <td>[Grants <a href="Monster_Mantras.md#dread-breath"><font><u>Dread Breath</u></font></a> Mantra]</td>
+  <td>[Grants <a href="Monster_Mantras.md#brachial-spear"><font><u>Brachial Spear</u></font></a> Mantra]</td>
+  <td>[Grants <a href="Monster_Mantras.md#beast-burrow"><font><u>Beast Burrow</u></font></a> Mantra]</td>
+  <td>[Grants <a href="Monster_Mantras.md#enforcer-pull"><font><u>Enforcer Pull</u></font></a> Mantra]</td>
+</tr>
+<tr>
+  <td colspan="8">End</td>
+</tr>
+</tbody>
+</table>
+
+**Untarnishing Resonance:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8">Oh, what a shabby looking bell you've got there! I can fix it right up if you like.</td>
+</tr>
+<tr>
+  <td>Oh, please do. [1 Knowledge]</td>
+</tr>
+<tr>
+  <td>Pheh! Not every day I get to tinker with one of these...</td>
+</tr>
+<tr>
+  <td colspan="8">End</td>
+</tr>
+</tbody>
+</table>
+
+## Untarnishing
 
 If you talk to him with a Resonance and the Tarnished flaw, he will offer to untarnish it for 1 Knowledge, this is unlocked permanently on all slots after meeting him for the first time in New Kyrsa.
 
-### List of Obtainable [Monster Mantras](Monster_Mantras.md)
+## Obtainable [Monster Mantras](Monster_Mantras.md)
 
 **Note:** To get the option to obtain Monster Mantras: you have to talk to him and tell him that **you work for no one**. After this he will appear in the Library at [Castle Light](Castle_Light.md), where you can interact with him again to obtain monster mantras.
 
