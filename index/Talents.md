@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 153846
+revid: 154040
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1302,8 +1302,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Galeforce
 
 -   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead.
-    -   The only Galebreath mantras that benefit from the 5% damage increase are: Wind Blade, Air Force, Tornado Kick, Tornado, Gale Trap and Wind Gun.
-    -   After Cut is **not** a damage modifier, it's a second hit with no hitstun. This means it is unaffected by the damage modifier cap.
+    -   The only Galebreathe mantras that benefit from the 5% damage increase are: [Wind Blade](Galebreathe.md#wind-blade), [Air Force](Galebreathe.md#air-force), [Tornado Kick](Galebreathe.md#tornado-kick), [Tornado](Galebreathe.md#tornado), [Galetrap](Galebreathe.md#galetrap), and [Wind Gun](Galebreathe.md#wind-gun).
+    -   After Cut is **not** a damage modifier, it's a second hit of Galebreathe damage with no hitstun. This means it is unaffected by the damage modifier cap.
+    -   After Cut deals damage based on your **final** damage dealt, after resistances and multipliers.
+        -   For example, if you deal 100 M1 damage, you'll deal 10 After Cut damage, but if your opponent has 50% physical damage reduction, meaning your M1 now deals 50 damage, this'll also lower your After Cut damage to 5 (10% of 50). On the other hand, if you deal 100 M1 damage and have +50% damage from damage modifiers, After Cut will deal damage based on your modified damage, dealing 15 damage (10% of 150).
+    -   After Cut deals Galebreathe damage, and thus it can be resisted by Galebreathe resistance and Everchanging Aegis.
+        -   This leads to After Cut being double resisted. For example, if you deal 100 M1 damage (10 After Cut dmg) and your opponent as 50% general resistance, your M1 damage will be reduced down to 50 (5 After Cut dmg), then After Cut will be resisted again down to 2.5 damage.
     -   Prerequisites: 40 Galebreathe
 
 -   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.

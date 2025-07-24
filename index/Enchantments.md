@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 153665
+revid: 154037
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -243,9 +243,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
-  <td><div><p>Weapon hits apply <a href="Status_Effects.md#shock">Shock</a> or 1 <a href="Thundercall.md#unstable-capacitor">Surge Rod</a> on hit with a 5 second cooldown. Weapon attacks also deal a second instance of Thundercall damage that deals 16.5% of the attack that procced it, visualized by a purple lightning after-shock. This has a 5 second cooldown. Essentially it grants a 16.5% damage buff that bypasses the damage modifier cap (due to it being a separate instance of damage).<br>
-  In the rain, weapon attacks will also summon a bolt of lightning on the opponent, doubling the Storm proc damage instance to 33% of your attack's unmodified damage and dealing this damage an a small AoE. Has a 5 second cooldown.<br>
-  By having the Surge Path: Unstable Capacitor Talent, on proc the Shock is replaced with a Surge Stack.<br>
+  <td><div><p>Weapon hits apply <a href="Status_Effects.md#shock">Shock</a> or 1 <a href="Thundercall.md#unstable-capacitor">Surge Rod</a> on hit with a 5 second cooldown. Weapon attacks also deal a second instance of Thundercall damage that deals 16.5% of the attack that procced it, after resistances but before modifiers, visualized by a purple lightning after-shock. This has a 5 second cooldown. Essentially it grants a 16.5% damage buff that bypasses the damage modifier cap (due to it being a separate instance of damage).<br>
+  In the rain, weapon attacks will also summon a bolt of lightning on the opponent, doubling the Storm proc damage instance to 33% of your attack's resisted yet unmodified damage and dealing this damage an a small AoE. Has a 5 second cooldown.<br>
+  Because this deals damage based on your resisted damage, it can be resisted twice, making this enchantment overall not that strong. For example, lets say your weapon deals 100 M1 damage, meaning Storm deals 16.5 damage. If your opponent has 50% general damage reduction, then you'll only deal 50 damage, making Storm deal 8.25 damage; Storm will then be resisted on its own, going down to +4.125 damage.<br>
   Because the second damage instance is dealt as Thundercall damage, it can be resisted by Thundercall resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.</p>
   <p><b>Storm's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's unmodified damage.</b></p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple and thunder effects.</div></td>
@@ -253,8 +253,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant, but <b>without</b> the rain effect (+16.5% damage on weapon hit, dealt as a separate instance of Thundercall damage, 5s CD).<br>
-  Unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. Stormbreaker's critical damage is 25 <b>flat</b> Thundercall damage on throw and then 18.75 <b>flat</b> Thundercall damage on return. Stormbreaker can hit the same target twice on throw or recall. You are unable to attack until your weapon returns (You can still parry). Completely halts the user's movement while the weapon is being recalled.</p></div></td>
+  <td><div><p>On M1, Stormbreaker has the Effects of the Storm enchant; +16.5% weapon damage on hit, dealt as a separate instance of Thundercall damage and applying <a href="Status_Effects.md#shock">Shock</a> or 1 <a href="Thundercall.md#unstable-capacitor">Surge Rod</a>, with a 5 second cooldown. This is also doubled to 33% if it is raining. This differs by Storm though, as it deals damage based on your weapon damage before resistances are applied, making it significantly stronger.</p>
+  <p>Stormbreaker replaces your weapon critical with a new one that throws your weapon towards your cursor, ragdolling and striking targets with thunder. Stormbreaker's critical damage is 25 <b>flat</b> Thundercall damage on throw and then 18.75 <b>flat</b> Thundercall damage on return. Stormbreaker can hit the same target twice on throw or recall. You are unable to attack until your weapon returns. Completely halts the user's movement while the weapon is being recalled.</p></div></td>
   <td><div><p>Weapon glows a vibrant blue and is covered with the storm enchant effects with umbral blue bolts come off of the weapon.</p></div></td>
 </tr>
 <tr>
